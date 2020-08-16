@@ -924,8 +924,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "암호화폐 채굴기">
 <!ENTITY contentBlocking.cryptominersView.label "암호화폐 채굴기">
 
-<!ENTITY contentBlocking.fingerprinters.label "핑거프린터">
-<!ENTITY contentBlocking.fingerprintersView.label "핑거프린터">
+<!ENTITY contentBlocking.fingerprinters.label "디지털 지문">
+<!ENTITY contentBlocking.fingerprintersView.label "디지털 지문">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "오류 보고">
 <!ENTITY contentBlocking.breakageReportView.label "문제 보고">
