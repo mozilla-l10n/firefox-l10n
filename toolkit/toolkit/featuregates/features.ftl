@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = A cache for the initial about:home document that is loaded by default at startup. The purpose of the cache is to improve startup performance.
+experimental-features-print-preview-tab-modal =
+    .label = Print Preview Redesign
+experimental-features-print-preview-tab-modal-description = Introduces the redesigned print preview and makes print preview available on macOS. This potentially introduces breakage and does not include all print-related settings. To access all print-related settings, select “Print using the system dialog…” from within the Print panel.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -98,3 +101,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Enables experimental support for Service Workers in the Debugger panel. This feature may slow the Developer Tools down and increase memory consumption.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graphics: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Enable support for smooth pinch zooming on touchscreens and precision touch pads.
