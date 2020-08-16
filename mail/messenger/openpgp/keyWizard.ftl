@@ -50,6 +50,11 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+openpgp-import-key-legend = აირჩიეთ ადრე დამარქაფებული ფაილი.
+openpgp-import-key-button =
+    .label = ფაილის არჩევა გადმოსატანად…
+    .accesskey = ტ
+openpgp-import-identity-label = მოწმობა
 
 ## External Key section
 
