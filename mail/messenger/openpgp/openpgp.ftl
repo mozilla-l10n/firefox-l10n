@@ -150,6 +150,8 @@ openpgp-key-details-signatures-tab =
     .label = Certificações
 openpgp-key-details-structure-tab =
     .label = Estrutura
+openpgp-key-details-uid-certified-col =
+    .label = ID de usuário / Certificado por
 openpgp-key-details-user-id2-label = Proprietário alegado da chave
 openpgp-key-details-id-label =
     .label = ID
@@ -200,12 +202,15 @@ openpgp-description =
         [one] O Thunderbird encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
        *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Sua configuração atual usa a chave <b>{ $key }</b>, que está vencida.
 openpgp-add-key-button =
     .label = Adicionar chave…
     .accesskey = A
 e2e-learn-more = Saiba mais
 openpgp-keygen-success = Chave OpenPGP criada com sucesso!
 openpgp-keygen-import-success = Chaves OpenPGP importadas com sucesso!
+openpgp-keygen-external-success = ID da chave GnuPG externa foi salva!
 
 ## OpenPGP Key selection area
 
@@ -220,6 +225,9 @@ openpgp-key-edit-date-title = Estender data de validade
 openpgp-manager-button =
     .label = Gerenciador de chaves OpenPGP
     .accesskey = G
+openpgp-key-remove-external =
+    .label = Remover ID de chave externa
+    .accesskey = e
 key-external-label = Chave GnuPG externa
 # Strings in keyDetailsDlg.xhtml
 key-type-public = chave pública
@@ -301,6 +309,11 @@ openpgp-export-public-success = <b>Chave pública exportada com sucesso!</b>
 openpgp-export-public-fail = <b>Não foi possível exportar a chave pública selecionada!</b>
 openpgp-export-secret-success = <b>Chave secreta exportada com sucesso!</b>
 openpgp-export-secret-fail = <b>Não foi possível exportar a chave secreta selecionada!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = A chave { $userId } (ID da chave { $keyId }) foi revogada.
+key-ring-pub-key-expired = A chave { $userId } (ID da chave { $keyId }) está vencida.
+key-ring-key-disabled = A chave { $userId } (ID da chave { $keyId }) está desativada, não pode ser usada.
+key-ring-key-invalid = A chave { $userId } (ID da chave { $keyId }) não é válida. Considere verificar corretamente.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atributo do usuário (imagem JPEG)
