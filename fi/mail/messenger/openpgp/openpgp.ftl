@@ -441,6 +441,8 @@ delete-key-title = Poista OpenPGP-avain
 delete-external-key-title = Poista ulkoinen GnuPG-avain
 delete-external-key-description = Haluatko poistaa tämän ulkoisen GnuPG-avaimen tunnisteen?
 key-in-use-title = OpenPGP-avain on parhaillaan käytössä
+delete-key-in-use-description = Ei voi jatkaa! Poistettavaksi valitsemasi avain on parhaillaan tämän identiteetin käytössä. Valitse eri avain, tai älä valitse mitään avainta, ja yritä uudelleen.
+revoke-key-in-use-description = Ei voi jatkaa! Kumottavaksi valitsemasi avain on parhaillaan tämän identiteetin käytössä. Valitse eri avain, tai älä valitse mitään avainta, ja yritä uudelleen.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Sähköpostiosoitetta '{ $keySpec }' ei voida täsmätä avainnipussasi olevaan avaimeen.
 key-error-key-id-not-found = Määritettyä avaimen tunnistetta '{ $keySpec }' ei löydy avainnipustasi.
@@ -458,6 +460,7 @@ import-key-confirm = Haluatko tuoda yhden tai useamman viestiin upotetun julkise
 fail-key-import = Virhe - avaimen tuominen epäonnistui
 file-write-failed = Kirjoitus tiedostoon { $output } epäonnistui
 no-pgp-block = Virhe - Kelvollista panssaroitua OpenPGP-datalohkoa ei löytynyt
+confirm-permissive-import = Tuonti epäonnistui. Avain, jota yritit tuoda, saattaa olla rikkoutunut tai se se saattaa käyttää tuntemattomia ominaisuuksia. Haluatko yrittää tuoda kelvolliset osat avaimesta? Tämä saattaa johtaa epätäydellisten ja käyttökelvottomien avainten tuontiin.
 # Strings used in trust.jsm
 key-valid-unknown = tuntematon
 key-valid-invalid = virheellinen
