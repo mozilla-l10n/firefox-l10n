@@ -221,6 +221,7 @@ cfr-whatsnew-protections-icon-alt = شیلڈ آئیکن
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = بہتر پی ڈی ایف کا تجربہ
+cfr-whatsnew-better-pdf-body = پی ڈی ایف دستاویزات اب آپ کے کام کے بہاؤ کی آسان رسائ برقرار رکھتے ہوئے ، براہ راست { -brand-short-name }. میں کھلتی ہیں۔
 
 ## DOH Message
 

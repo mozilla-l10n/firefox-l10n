@@ -8,6 +8,8 @@ printui-page-range-custom = مخصوص
 printui-page-range-label = صفحات
 printui-page-range-picker =
     .aria-label = صفحہ کی حد منتخب کریں
+# Section title for the number of copies to print
+printui-copies-label = نقول
 printui-orientation = سمت بندی
 printui-landscape = افقی انداز
 printui-portrait = عمودی انداز

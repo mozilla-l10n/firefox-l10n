@@ -12,6 +12,7 @@ compatibility-all-elements-header = تمام امور
 
 compatibility-issue-deprecated = (فرسودہ)
 compatibility-issue-experimental = (یتجرباتی)
+compatibility-issue-deprecated-experimental = (فرسودہ ، تجرباتی)
 
 ## Messages used as labels and titles for buttons in the footer
 

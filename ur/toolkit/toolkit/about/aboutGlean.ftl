@@ -6,4 +6,6 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = گلین کے بارے میں
+about-glean-warning = اس انٹرفیس کے غلط استعمال سے { -brand-short-name }کریش ہوسکتا ہے۔
+send-pings-label = نامزد پنگ ارسال کریں
 controls-button-label = ترتیبات جمع کروائیں

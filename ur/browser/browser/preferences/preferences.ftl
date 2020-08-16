@@ -734,6 +734,10 @@ forms-master-pw-change =
     .label = ماسٹر پاس ورڈ تبدیل کریں…
     .accesskey = M
 forms-master-pw-fips-title = فی الحال آپ FIPS موڈ میں ہیں۔ FIPS کو ایک ناخالی ماسٹر پاس ورڈ درکار ہے۔
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = پہلے ماسٹر پاس ورڈ کے نام سے جانا جاتا تھا
 forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 
 ## OS Authentication dialog

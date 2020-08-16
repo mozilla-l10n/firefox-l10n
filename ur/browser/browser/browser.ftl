@@ -205,6 +205,8 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = بُک مارکس ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = تبز  ({ $restrict })
 
@@ -305,8 +307,14 @@ sharing-warning-proceed-to-tab =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = تلاش کریں یا پتہ داخل کریں
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = تلاش کریں یا پتہ داخل کریں
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = ويب پر تلاش کريں
 urlbar-remote-control-notification-anchor =
     .tooltiptext = براؤزر ریموٹ کنٹرول کے تحت ہے
 urlbar-permissions-granted =

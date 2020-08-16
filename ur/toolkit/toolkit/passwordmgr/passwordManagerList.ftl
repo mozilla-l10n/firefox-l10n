@@ -54,13 +54,13 @@ import =
 close-button =
     .label = بند کریں
     .accesskey = ب
-
 show-passwords =
     .label = پاس ورڈ نمائش کریں
     .accesskey = P
 hide-passwords =
     .label = پاس ورڈ چھپائیں
     .accesskey = P
+logins-description-all = مندرجہ زیل سائیٹس کہ لاگان آپکے کمپیوٹر پر محفوظ ہیں
 logins-description-filtered = مندرحہ زیل لاگ ان آپکی تلاش سے مشابہت رکھتے ہیں
 remove-all =
     .label = تمام ہٹائیں
