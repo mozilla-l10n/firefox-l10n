@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+#   $identity (String) - the email address of the currently selected identity
+key-wizard-dialog-window =
+    .title = Adicionar uma chave pessoal OpenPGP a { $identity }
 key-wizard-button =
     .buttonlabelaccept = Avançar
     .buttonlabelhelp = Voltar
@@ -53,9 +56,12 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Fechar
     .accesskey = F
+openpgp-keygen-missing-username = Não há um nome especificado na conta atual. Digite algo no campo "Seu nome" nas configurações da conta.
 openpgp-keygen-short-expiry = Sua chave precisa ser válida por pelo menos um dia.
 openpgp-keygen-ongoing = Geração de chaves já em andamento!
 openpgp-keygen-error-failed = Geração de chaves OpenPGP falhou inesperadamente
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Chave OpenPGP criada com sucesso, mas falhou ao obter a revogação da chave { $key }
 openpgp-keygen-abort-title = Interromper geração de chave?
 openpgp-keygen-abort = Geração de chave OpenPGP em andamento. Tem certeza que quer cancelar?
 #   $identity (String) - the name and email address of the currently selected identity
@@ -101,6 +107,7 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Chave GnuPG externa
+openpgp-external-key-description = Configure uma chave GnuPG externa inserindo o ID da chave
 openpgp-external-key-info = Além disso, você deve usar o gerenciador de chaves para importar e aceitar a chave pública correspondente.
 openpgp-external-key-warning = <b>Você só pode configurar uma chave GnuPG externa.</b> Sua entrada anterior será substituída.
 openpgp-save-external-button = Salvar ID da chave
