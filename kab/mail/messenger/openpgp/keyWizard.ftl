@@ -25,6 +25,7 @@ radio-gnupg-key =
 openpgp-generate-key-title = Sirew tasarut OpenPGP
 openpgp-generate-key-info = <b>Asirew n tsarut yezmer ad yeṭṭef  aṭas n tesdidin akken ad yemmed. </b> Ur teffeɣ ara seg usnas ma iteddu usirew n tsarut. Tunigin turmidt neɣ aselken n temhalin tussidin ɣef uḍebsi ma iteddu usirew n tsarut ad d-yerr 'amsegaw agacuran' d urured n ukala. Ad d-teṭṭfeḍ ulɣu mi ara yemmed usirew n tsarut.
 openpgp-keygen-expiry-title = Azemz n taggara n tsarut
+openpgp-keygen-expiry-description = Sbadu akud n keffu n tsarut-ik·im i yettusirwen melmi kan. Tzemreḍ mbeɛd ad tezɣezfeḍ azemz-ines akken tebɣiḍ ma yewwi-d lḥal.
 radio-keygen-expiry =
     .label = Tasarut ad temmet deg
     .accesskey = e
@@ -47,6 +48,8 @@ openpgp-keygen-keysize =
     .accesskey = s
 openpgp-keygen-type-rsa =
     .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (Elliptic Curve)
 openpgp-keygen-button = Sirew tasarut
 openpgp-keygen-progress-title = Asirew n tsarut-ik•im OpenPGP tamaynut…
 openpgp-keygen-import-progress-title = Aktar n tsura-k•m OpenPGP…
@@ -66,6 +69,7 @@ openpgp-keygen-missing-username = Ulac isem i d-yettufernen i umiḍan amiran. T
 openpgp-keygen-long-expiry = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemmten deg wugar n 100 n yiseggasen.
 openpgp-keygen-short-expiry = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum yiwen wass.
 openpgp-keygen-ongoing = Asirew n tsarut yebda yakan iteddu!
+openpgp-keygen-error-core = Yegguma ad yettuwennez umeẓlu agejdan n OpenPGP
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Sirew tasarut tazayezt tufurt i { $identity }?
 
