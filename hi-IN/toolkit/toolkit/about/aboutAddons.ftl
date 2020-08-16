@@ -97,6 +97,11 @@ detail-update-automatic =
 detail-update-manual =
     .label = बंद
     .tooltiptext = स्वतः अद्यतनों को संस्थापित मत करें
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = निजी विंडो में चलाएं
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = निजी विंडोज में अनुमति नहीं है
 detail-home =
     .label = होमपेज
 detail-home-value =
