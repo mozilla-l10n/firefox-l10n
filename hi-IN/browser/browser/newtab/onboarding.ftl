@@ -45,12 +45,15 @@ onboarding-cards-dismiss =
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 onboarding-multistage-welcome-primary-button-label = सेटअप प्रारंभ करें
+onboarding-multistage-welcome-secondary-button-label = साइन इन
 onboarding-multistage-welcome-secondary-button-text = खाता पहले से है?
 onboarding-multistage-import-primary-button-label = आयात शुरू करें
 onboarding-multistage-import-secondary-button-label = अभी नहीं
 onboarding-multistage-theme-secondary-button-label = अभी नहीं
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = स्वचालित
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
