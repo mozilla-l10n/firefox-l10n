@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Para enviar mensagens criptografadas ou assinadas digitalmente, você precisa configurar uma tecnologia de criptografia, pode ser OpenPGP ou S/MIME.
+e2e-intro-description-more = Selecione sua chave pessoal para ativar o uso de OpenPGP, ou seu certificado pessoal para ativar o uso de S/MIME. Para uma chave pessoal ou certificado, você tem a chave secreta correspondente.
+openpgp-key-user-id-label = Conta / ID do usuário
 openpgp-keygen-title-label =
     .title = Gerar chave OpenPGP
 openpgp-cancel-key =
@@ -26,6 +28,11 @@ openpgp-generate-key =
     .tooltiptext = Gera uma nova chave em conformidade com OpenPGP para criptografia e/ou assinatura
 openpgp-advanced-prefs-button-label =
     .label = Avançado…
+openpgp-key-id-label =
+    .label = ID da chave
+openpgp-cannot-change-expiry = Esta é uma chave com uma estrutura complexa, não é suportado alterar sua data de validade.
+openpgp-key-man-title =
+    .title = Gerenciador de chaves OpenPGP
 openpgp-key-man-generate =
     .label = Novo par de chaves
     .accesskey = v
