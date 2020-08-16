@@ -546,3 +546,48 @@ no-temp-dir =
     Nu a fost găsit directorul temporar de scriere.
     Introdu variabila mediului TEMP
 possibly-pgp-mime = Mesaj posibil criptat sau semnat cu PGP/MIME; folosește funcția „Decrypt/Verify” pentru verificare
+cannot-send-sig-because-no-own-key = Mesajul nu poate fi semnat digital pentru că nu ai configurat criptarea end-to-end pentru <{ $key }>
+cannot-send-enc-because-no-own-key = Mesajul nu poate fi criptat pentru că nu ai configurat criptarea end-to-end pentru <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Imporți cheile următoare?
+    { $key }
+do-import-one = Imporți { $name } ({ $id })?
+cant-import = Eroare la importul cheii publice
+unverified-reply = Partea de mesaj indentată (răspunsul) a fost probabil modificată
+key-in-message-body = Nu a fost găsită o cheie în corpul mesajului. Dă clic pe „Importă cheia” ca să imporți cheia
+sig-mismatch = Eroare - Semnătura nu corespunde
+invalid-email = Eroare - Adresă(e) de e-mail nevalid(ă)
+attachment-pgp-key =
+    Atașamentul „{ $name }” pe care îl deschizi pare să fie un fișier de cheie OpenPGP.
+    Dă clic pe „Import” ca să imporți cheile incluse sau pe „Afișare” ca să vezi conținutul fișierului într-o fereastră de browser
+dlg-button-view = &Afișare
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Mesaj decriptat (format de e-mail PGP defect restaurat, probabil produs de un server Exchange vechi, deci rezultatul ar putea să nu fie perfect lizibil)
+# Strings used in encryption.jsm
+not-required = Eroare - Nu necesită nicio criptare
+# Strings used in windows.jsm
+no-photo-available = Nicio fotografie disponibilă
+error-photo-path-not-readable = Calea către fotografia „{ $photo }” nu este lizibilă
+debug-log-title = Jurnal de depanare OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Alerta se va repeta { $count }
+repeat-suffix-singular = mai mult timp.
+repeat-suffix-plural = de mai multe ori.
+no-repeat = Alerta nu va mai fi afișată.
+dlg-keep-setting = Ține minte răspunsul și nu mă mai întreba
+dlg-button-ok = &OK
+dlg-button-close = &Închide
+dlg-button-cancel = &Anulează
+dlg-no-prompt = Nu mai afișa această fereastră de dialog
+enig-prompt = Mesaj de atenționare OpenPGP
+enig-confirm = Confirmare OpenPGP
+enig-alert = Alertă OpenPGP
+enig-info = Informații OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Reîncearcă
+dlg-button-skip = &Sari peste
+# Strings used in enigmailCommon.js
+enig-error = Eroare OpenPGP
+enig-alert-title =
+    .title = Alertă OpenPGP
