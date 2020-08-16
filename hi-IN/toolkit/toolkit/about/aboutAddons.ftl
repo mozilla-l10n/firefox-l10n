@@ -336,8 +336,10 @@ locale-enabled-heading = सक्रिय किया गया
 locale-disabled-heading = निष्क्रिय किया गया
 addon-detail-author-label = लेखक
 addon-detail-version-label = संस्करण
+addon-detail-last-updated-label = आखरी अपडेट
 addon-detail-homepage-label = मुख्य पृष्ठ
 addon-detail-rating-label = रेटिंग
+install-postponed-button = अभी अपडेट करें
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -361,7 +363,19 @@ addon-detail-updates-radio-default = तयशुदा
 addon-detail-updates-radio-on = चालू
 addon-detail-updates-radio-off = बंद
 install-update-button = अपडेट
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = निजी विंडो में अनुमति है
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = निजी विंडो में अनुमति है
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+available-updates-heading = उपलब्ध अपडेट
+recent-updates-heading = हालिया अपडेट
 release-notes-loading = लोड हो रहा है…
+addon-permissions-empty = इस एक्सटेंशन को किसी भी अनुमति की आवश्यकता नहीं है
 
 ## Page headings
 
@@ -371,6 +385,7 @@ plugin-heading = अपने प्लगिन प्रबंधित कर
 dictionary-heading = अपने शब्दकोश प्रबंधित करें
 locale-heading = अपनी भाषाएं प्रबंधित करें
 updates-heading = अपने अपडेट प्रबंधित करें
+default-heading-search-label = अधिक ऐड-ऑन खोजें
 addons-heading-search-input =
     .placeholder = addons.mozilla.org खोजें
 addon-page-options-button =

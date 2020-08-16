@@ -57,11 +57,11 @@ rcwn-avg-long = लंबे औसत
 rcwn-std-dev-long = लंबा मानक विचलन
 rcwn-cache-slow = कैश सुस्ती गणना
 rcwn-cache-not-slow = कैश असुस्ती गणना
-
 about-networking-title = संजालन का परिचय
 about-networking-http = HTTP
 about-networking-sockets = सॉकेट
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = DNS कैशे साफ करें
 about-networking-websockets = वेबसॉकेट
 about-networking-refresh = ताज़ा करें
 about-networking-auto-refresh = हर 3 सेकेंड में स्वतःफ्रेश
