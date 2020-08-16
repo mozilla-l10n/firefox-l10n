@@ -9,4 +9,5 @@ set-password-backup-pw =
     .value = Awal uffir n usekles n tsarut tufurt:
 set-password-repeat-backup-pw =
     .value = Awal uffir n usekles n tsarut tufurt (daɣen):
+set-password-reminder = <b>Ɣur-k·m: Ma yella tettuḍ awal uffir n uɛeddi n uḥraz n tsarut tuffirtk, ur tettizmireḍ ara ad d-terreḍ aḥraz-agi sya ɣer sdat.  Ma ulac aɣilif sekles-it deg wadig aɣelsan.
 password-quality-meter = Asɣel n tɣara n wawal uffir

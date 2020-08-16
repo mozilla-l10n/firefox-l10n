@@ -120,6 +120,7 @@ openpgp-import-key-props =
 openpgp-external-key-title = TasarutGnuPG taẓɣarayt
 openpgp-external-key-description = Swel tasarut GnuPG taẓɣarayt s usekcem n usulay n tsarut
 openpgp-external-key-info = Daɣen, ilaq ad tesqedceḍ amsefrak n tsura i uktar d uqbal n tsarut tazayezt yemṣadan.
+openpgp-external-key-warning = <b>Ilaq ad tsewleḍ yiwet kan n tsarut taẓɣarayt GnuPG. </b> anekcam-ik·im yezrin ad yettusmelsi.
 openpgp-save-external-button = Sekles asulay n tsarut
 openpgp-external-key-label = Asulay n tsarut ufur:
 openpgp-external-key-input =
