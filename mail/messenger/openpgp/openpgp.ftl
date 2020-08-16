@@ -228,6 +228,15 @@ openpgp-description =
         [few] Thunderbird a găsit { $count } chei personale OpenPGP asociate cu <b>{ $identity }</b>
        *[other] Thunderbird a găsit { $count } de chei personale OpenPGP asociate cu <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Selectează o cheie validă pentru activarea protocolului OpenPGP.
+        [one] Configurația curentă folosește cheia cu ID-ul <b>{ $key }</b>
+        [few] Configurația curentă folosește cheile cu ID-ul <b>{ $key }</b>
+       *[other] Configurația curentă folosește cheile cu ID-ul <b>{ $key }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Configurația ta curentă folosește cheia <b>{ $key }</b>, care a expirat.
 openpgp-add-key-button =
@@ -458,6 +467,7 @@ import-key-confirm = Imporți cheia(cheile) înglobată(e) în mesaj?
 fail-key-import = Eroare - Importul cheii a eșuat
 file-write-failed = Nu s-a reușit scrierea în fișierul { $output }
 no-pgp-block = Eroare - Nu s-a găsit niciun bloc valid de date blindate OpenPGP
+confirm-permissive-import = Importul a eșuat. Cheia pe care încerci să o imporți poate fi coruptă sau folosește atribute necunoscute. Vrei să încerci să imporți părțile corecte? Poate conduce la importarea de chei incomplete și neutilizabile.
 # Strings used in trust.jsm
 key-valid-unknown = necunoscută
 key-valid-invalid = nevalidă
