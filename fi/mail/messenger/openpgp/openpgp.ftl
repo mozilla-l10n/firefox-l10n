@@ -341,6 +341,9 @@ filter-decrypt-move-warn-experimental =
 filter-term-pgpencrypted-label = OpenPGP-salattu
 filter-key-required = Vastaanottajan avain on valittava.
 filter-key-not-found = Ei löytynyt salausavainta seuraaville '{ $desc }'.
+filter-warn-key-not-secret =
+    Varoitus - suodatintoiminto "Salaa avaimeen" korvaa vastaanottajat.
+    Jos sinulla ei ole salaista avainta kohteisiin '{ $desc }', et pysty enää lukea sähköpostiviestejä.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Pura salaus pysyvästi (OpenPGP)
 filter-decrypt-copy-label = Luo salauksesta purettu kopio (OpenPGP)
@@ -348,6 +351,7 @@ filter-encrypt-label = Salaa avaimeen (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Onnistui! Avaimet tuotu
+import-info-bits = Bittiä
 import-info-created = Luotu
 import-info-fpr = Sormenjälki
 import-info-details = Näytä yksityiskohdat ja hallitse avaimen hyväksyntää
@@ -484,6 +488,7 @@ save-revoke-cert-as = Luo ja tallenna kumoamisvarmenne
 revoke-cert-ok = Kumoamisvarmenne on luotu onnistuneesti. Voit käyttää sitä julkisen avaimesi mitätöimiseen, jos esimerkiksi kadotat salaisen avaimesi.
 revoke-cert-failed = Kumoamisvarmennetta ei voitu luoda.
 gen-going = Avaimen luominen on jo meneillään!
+keygen-missing-user-name = Valitulle tilille/identiteetille ei ole määritetty nimeä. Anna arvo kenttään "Nimesi" tilin asetuksissa.
 expiry-too-short = Avaimesi tulee olla kelvollinen vähintään yhden päivän ajan.
 expiry-too-long = Et voi luoda avainta, joka vanhenee yli 100 vuoden päästä.
 key-confirm = Haluatko luoda julkisen ja salaisen avaimen identiteetille '{ $id }'?
@@ -513,6 +518,7 @@ key-not-found = Avainta '{ $key }' ei löytynyt
 key-revoked = Avain '{ $key }' kumottu
 key-expired = Avain '{ $key }' vanhentui
 msg-compose-internal-error = Tapahtui sisäinen virhe.
+keys-to-export = Valitse sisällytettävät OpenPGP-avaimet
 msg-compose-partially-encrypted-inlinePGP =
     Viesti johon vastaat sisälsi sekä salaamattomia että salattuja osia. Jos lähettäjä ei kyennyt purkamaan joitain viestin osia alunperin, saatat vuotaa arkaluonteista tietoa, jota lähettäjä ei aiemmin itse pystynyt purkamaan salauksesta.
     On suositeltavaa poistaa kaikki lainattu teksti vastauksestasi tälle lähettäjälle.
@@ -553,6 +559,8 @@ attachment-pgp-key =
     Liite '{ $name }' vaikuttaa olevan OpenPGP-avaintiedosto.
     Napsauta "Tuo" tuodaksesi avaimen tai "Näytä" tarkastellaksesi tiedoston sisältöä selainikkunassa
 dlg-button-view = &Näytä
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Salauksesta purettu viesti (palautettu rikkoutuneesta PGP-sähköpostimuodosta, jonka aiheutti mitä luultavimmin vanha Exchange-palvelin, joten lopputulos ei välttämättä ole täydellisesti luettavissa)
 # Strings used in encryption.jsm
 not-required = Virhe - salausta ei vaadita
 # Strings used in windows.jsm
