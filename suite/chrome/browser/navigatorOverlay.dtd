@@ -116,7 +116,7 @@ left instead of right. -->
 <!ENTITY cookieAllowSessionCookiesMsg.label "Dette nettstedet vil kunne sette infokapsler bare for denne programøkten.">
 <!ENTITY cookieCookiesDefaultCmd.label "Bruk standardregler for infokapsler">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "u">
-<!ENTITY cookieCookiesDefaultMsg.label "Infokapsler fra dette nettstedet vil bli akseptert eller blokkert basert på standardinnstilling.">
+<!ENTITY cookieCookiesDefaultMsg.label "Infokapsler fra dette nettstedet vil bli akseptert eller blokkert basert på standardinnstillinger.">
 <!ENTITY cookieBlockCookiesCmd.label "Blokker infokapsler fra dette nettstedet">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Infokapsler fra dette nettstedet vil alltid bli blokkert.">
@@ -129,7 +129,7 @@ left instead of right. -->
 <!ENTITY cookieAllowImagesMsg.label "Bilder fra dette nettstedet vil alltid bli lastet ned.">
 <!ENTITY cookieImagesDefaultCmd.label "Bruk standard bildetillatelser">
 <!ENTITY cookieImagesDefaultCmd.accesskey "u">
-<!ENTITY cookieImagesDefaultMsg.label "Bilder fra dette nettstedet vil bli lastet ned basert på forvalg.">
+<!ENTITY cookieImagesDefaultMsg.label "Bilder fra dette nettstedet vil bli lastet ned basert på standardinnstillinger.">
 <!ENTITY cookieBlockImagesCmd.label "Blokker bilder fra dette nettstedet">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Bilder fra dette nettstedet vil aldri lastes ned.">
