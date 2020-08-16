@@ -29,5 +29,7 @@ openpgp-search-signature-key =
 openpgp-broken-exchange-repair =
     .label = Izen n useggem
 openpgp-broken-exchange-wait = Ttxil rǧu…
+openpgp-cannot-decrypt-because-missing-key = Tasarut tuffirt i yettusran i uwgelhen n yizen-a ulac-itt.
+openpgp-reminder-partial-display = Asmekti: Izen i d-yettbanen ddaw d tagrumma kan tasnawant n yizen agejdan.
 openpgp-partial-verify-button = Senqed
 openpgp-partial-decrypt-button = Wgelhen
