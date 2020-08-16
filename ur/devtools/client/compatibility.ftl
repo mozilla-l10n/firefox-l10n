@@ -5,9 +5,13 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-selected-element-header = منتخب شدہ عنصر
+compatibility-all-elements-header = تمام امور
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (فرسودہ)
+compatibility-issue-experimental = (یتجرباتی)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -25,3 +29,5 @@ compatibility-target-browsers-header = ہدف براؤزر
 
 ##
 
+compatibility-close-settings-button =
+    .title = ترتیبات بند کریں
