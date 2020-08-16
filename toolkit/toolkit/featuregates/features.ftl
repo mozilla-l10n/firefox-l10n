@@ -88,6 +88,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = ფუ
 experimental-features-abouthome-startup-cache =
     .label = about:home გაშვების კეში
 experimental-features-abouthome-startup-cache-description = დროებით შენახული მონაცემები, საწყისი about:home დოკუმენტისთვის, რომლებიც იტვირთება გაშვებისას. ამ კეშის მიზანია, მეტად აასწრაფოს პროგრამის გაშვება.
+experimental-features-print-preview-tab-modal =
+    .label = ამობეჭდვის განახლებული შეთვალიერება
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
