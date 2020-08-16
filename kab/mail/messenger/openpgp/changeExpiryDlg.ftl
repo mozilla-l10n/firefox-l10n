@@ -7,6 +7,7 @@ openpgp-change-key-expiry-title =
 info-will-expire = Tasarut-a tura tettuswel akken ad temmet deg { $date }.
 info-already-expired = Tasarut-a temmut yakan.
 info-does-not-expire = Tasarut-a tura tettuswel akken ur tettmettat ara akk.
+info-explanation-1 = <b>Seld ad temmet tsarut</b>, d awezɣi ad tettwaseqdec deg uwgelhen neɣ deg uzmul umḍin.
 expire-dont-change =
     .label = Ur ttbeddil ara azemz n taggara
 expire-never-label =
