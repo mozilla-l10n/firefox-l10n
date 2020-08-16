@@ -170,9 +170,50 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Vaša trenutna nastavitev uporablja ključ <b>{ $key }</b>, ki mu je pretekla veljavnost.
+openpgp-add-key-button =
+    .label = Dodaj ključ …
+    .accesskey = D
+e2e-learn-more = Več o tem
+openpgp-keygen-success = Ključ OpenPGP je uspešno ustvarjen!
+openpgp-keygen-import-success = Ključi OpenPGP so uspešno uvoženi!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Brez
+openpgp-radio-none-desc = Ne uporabljaj OpenPGP za to identiteto.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Datum preteka: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Ključ bo pretekel čez manj kot 6 mesecev
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Pretekel: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Veljavnost ključa je pretekla
+openpgp-key-expand-section =
+    .tooltiptext = Več informacij
+openpgp-key-revoke-title = Prekliči ključ
+openpgp-key-edit-title = Spremeni ključ OpenPGP
+openpgp-key-edit-date-title = Podaljšaj veljavnost
+openpgp-manager-button =
+    .label = Upravitelj ključev OpenPGP
+    .accesskey = k
+key-expiry-never = nikoli
+key-usage-encrypt = Šifriraj
+key-usage-sign = Podpiši
+key-usage-certify = Potrdi
+key-usage-authentication = Overitev
+key-does-not-expire = Ključ ne preteče
+key-expired-date = Ključ je pretekel { $keyExpiry }
+key-expired-simple = Ključ je pretekel
+key-revoked-simple = Ključ je bil preklican
+key-do-you-accept = Ali sprejemate ta ključ za preverjanje digitalnih podpisov in za šifriranje sporočil?
+expiry-open-key-manager = Odpri upravitelja ključev OpenPGP
+expiry-open-key-properties = Odpri lastnosti ključa
+# Strings filters.jsm
+filter-folder-required = Izbrati morate ciljno mapo.
 
 ## Account settings export output
 
