@@ -70,6 +70,7 @@ openpgp-keygen-long-expiry = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemm
 openpgp-keygen-short-expiry = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum yiwen wass.
 openpgp-keygen-ongoing = Asirew n tsarut yebda yakan iteddu!
 openpgp-keygen-error-core = Yegguma ad yettuwennez umeẓlu agejdan n OpenPGP
+openpgp-keygen-error-failed = Asirew n tsaru OpenPGP ur iddi ara, d ayen ur nettwaṛǧa ara
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Sirew tasarut tazayezt tufurt i { $identity }?
 
