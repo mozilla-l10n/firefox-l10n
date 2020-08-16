@@ -443,3 +443,111 @@ after-revoke-info =
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Stizzar la clav OpenPGP
+delete-external-key-title = Allontanar la clav externa GnuPG
+delete-external-key-description = Vuls ti allontanar questa ID da clav GnuPG externa?
+key-in-use-title = La clav OpenPGP vegn actualmain utilisada
+delete-key-in-use-description = Impussibel da cuntinuar! La clav che ti has tschernì per stizzar vegn actualmain utilisada da questa identitad. Tscherna in'autra clav u na tscherna nagina ed emprova anc ina giada.
+revoke-key-in-use-description = Impussibel da cuntinuar! La clav che ti has tschernì per la revocaziun vegn actualmain utilisada da questa identitad. Tscherna in'autra clav u na tscherna nagina ed emprova anc ina giada.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = L'adressa d'e-mail «{ $keySpec }» na correspunda a nagina clav da tes rintg da clavs.
+key-error-key-id-not-found = L'ID da clav «{ $keySpec }» configurada na sa chatta betg en tes rintg da clavs.
+key-error-not-accepted-as-personal = Ti n'has betg confermà che la clav cun l'ID «{ $keySpec }» è tia clav persunala.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = La funcziunalitad tschernida na stat betg da disposiziun en il modus offline. Ta connectescha cun l'internet ed emprova anc ina giada.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Impussibel da chattar ina clav che correspunda als criteris da tschertga inditgads.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Errur – il cumond d'extracziun da la clav n'è betg reussì
+# Strings used in keyRing.jsm
+fail-cancel = Errur – recepziun da clav annullada da l'utilisader
+not-first-block = Errur – l'emprim bloc OpenPGP n'è betg in bloc da la clav publica
+import-key-confirm = Importar la u las clavs publicas inclusas en il messadi?
+fail-key-import = Errur – l'import da la clav n'è betg reussì
+file-write-failed = Betg reussì da scriver en la datoteca { $output }
+no-pgp-block = Errur – Chattà nagin bloc da datas OpenPGP armored valid
+confirm-permissive-import = L'import n'è betg reussi. La clav che ti emprovas dad importar è eventualmain donnegiada u ch'ella utilisescha attributs nunenconuschents. Vuls ti empruvar dad importar las parts correctas? Quai po avair per consequenza che las clavs importadas èn nuncumplettas e betg utilisablas.
+# Strings used in trust.jsm
+key-valid-unknown = nunenconuschenta
+key-valid-invalid = nunvalida
+key-valid-disabled = deactivada
+key-valid-revoked = revocada
+key-valid-expired = scadida
+key-trust-untrusted = betg fidada
+key-trust-marginal = marginala
+key-trust-full = fidada
+key-trust-ultimate = absoluta
+key-trust-group = (gruppa)
+# Strings used in commonWorkflows.js
+import-key-file = Importar ina datoteca da clav OpenPGP
+import-rev-file = Importar ina datoteca da revocaziun OpenPGP
+gnupg-file = Datotecas GnuPG
+import-keys-failed = L'import da las clavs n'è betg reussì
+passphrase-prompt = Endatescha per plaschair la frasa-clav che deblochescha la suandanta clav: { $key }
+file-to-big-to-import = Questa datoteca è memia gronda. N'importescha per plaschair betg memia bleras clavs en ina.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Crear e memorisar in certificat da revocaziun
+revoke-cert-ok = Il certificat da revocaziun è vegnì creà. Ti pos l'utilisar per invalidar tia clav publica, p.ex. en cas che ti perdas tia clav secreta.
+revoke-cert-failed = Impussibel da crear il certificat da revocaziun.
+gen-going = La generaziun da la clav è gia en lavur!
+keygen-missing-user-name = I n'è vegnì specifitgà nagin num per l'identitad u il conto tschernì. Endatescha per plaschair ina valur en il champ «Tes num» en la configuraziun da contos.
+expiry-too-short = Ti clav sto esser valida per almain in di.
+expiry-too-long = I n'è betg pussaivel da crear clavs che scadan pir suenter dapli che 100 onns.
+key-confirm = Generar ina clav publica ed ina clav secreta per «{ $id }»?
+key-man-button-generate-key = &Generar ina clav
+key-abort = Interrumper la generaziun da la clav?
+key-man-button-generate-key-abort = &Annullar la generaziun da la clav
+key-man-button-generate-key-continue = &Cuntinuar cun la generaziun da la clav
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Errur – decriptadi betg reussì
+fix-broken-exchange-msg-failed = I n'è betg reussì da reparar il messadi.
+attachment-no-match-from-signature = Impussibel d'associar la datoteca da signatura «{ $attachment }» cun ina agiunta
+attachment-no-match-to-signature = Impussibel d'associar l'agiunta «{ $attachment }» cun ina datoteca da signatura
+signature-verified-ok = La signatura per l'agiunta { $attachment } è vegnida verifitgada cun success
+signature-verify-failed = Impussibel da verifitgar la signatura per l'agiunta { $attachment }
+decrypt-ok-no-sig =
+    Attenziun
+    Il decriptadi è gartegià, ma i n'è betg reussì da verifitgar correctamain la signatura
+msg-ovl-button-cont-anyway = Tuttina &cuntinuar
+enig-content-note = *Las agiuntas da quest messadi n'èn ni signadas ni criptadas*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Trametter il messadi
+msg-compose-details-button-label = Detagls…
+msg-compose-details-button-access-key = D
+send-aborted = Annullà l'operaziun da spediziun.
+key-not-trusted = Il nivel da fidaivladad da la clav «{ $key }» è insuffizient
+key-not-found = Betg chattà la clav «{ $key }»
+key-revoked = Revocà la clav «{ $key }»
+key-expired = La clav «{ $key }» è scadida
+msg-compose-internal-error = Ina errur interna è succedida.
+keys-to-export = Tscherna las clavs OpenPGP dad inserir
+msg-compose-partially-encrypted-inlinePGP =
+    Il messadi al qual ti respundas cuntegna tant parts criptadas sco parts betg criptadas. Sch'il speditur n'ha oriundamain betg pudì decriptar tschertas parts dal messadi, reveleschas ti eventualmain infurmaziuns confidenzialas ch'il speditur n'ha oriundamain betg pudì decriptar.
+    Considerescha dad allontanar tut il text cità ord tia resposta a quest speditur.
+msg-compose-cannot-save-draft = Errur cun memorisar il sboz
+msg-compose-partially-encrypted-short = Far attenziun da betg revelar infurmaziuns sensiblas: l'e-mail è criptà parzialmain.
+quoted-printable-warn =
+    Ti has activà la codaziun «quoted-printable» per trametter messadis. Quai po chaschunar errurs durant il decriptadi e/u la verificaziun da tes messadi.
+    Vuls ti deactivar ussa la spediziun da messadis «quoted-printable»?
+minimal-line-wrapping =
+    Ti has definì il sigl da lingia suenter { $width } caracters. Per criptar e signar correctamain sto questa valur esser almain 68.
+    Vuls ti ussa definir il sigl da lingia suenter 68 caracters?
+sending-hidden-rcpt = BCC (destinaturs zuppads) na po betg vegnir utilisà cun trametter messadis criptads. Per trametter quest messadi criptà, ubain allontanar ils destinaturs BCC ubain als spustar en il champ CC.
+sending-news =
+    Annullà l'operaziun da spediziun criptada.
+    Quest messadi na po betg vegnir criptà perquai ch'el cuntegna destinaturs ch'èn gruppas da discussiun. Trametta per plaschair anc ina giada il messadi senza criptadi.
+send-to-news-warning =
+    Attenziun! Ti londervi da trametter in e-mail criptà ad ina gruppa da discussiun.
+    Quai n'è betg recumandabel, perquai ch'i ha mo senn sche tut ils commembers da la gruppa pon decriptar il messadi. Damai sto il messadi esser criptà cun las clavs da tut ils commembers da la gruppa. Trametta per plaschair mo quest messadi sche ti sas exact tge che ti fas.
+    Cuntinuar?
+save-attachment-header = Memorisar l'agiunta decriptada
+no-temp-dir =
+    Impussibel da chattar in ordinatur temporar per scriver
+    Definescha per plaschair la variabla d'ambient TEMP
+possibly-pgp-mime = Il messadi è probablamain criptà u signà cun PGP/MIME: utilisar la funcziun «Decriptar/verifitgar»
+cannot-send-sig-because-no-own-key = Impussibel da signar digitalmain quest messadi perquai che ti n'has anc betg configurà il criptadi da fin a fin per <{ $key }>
+cannot-send-enc-because-no-own-key = Impussibel da trametter quest messadi sco messadi criptà perquai che ti n'has anc betg configurà il criptadi da fin a fin per <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importar las suandantas clavs?
+    { $key }
+do-import-one = Importar { $name } ({ $id })?
