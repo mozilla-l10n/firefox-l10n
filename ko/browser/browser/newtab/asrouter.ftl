@@ -186,8 +186,8 @@ cfr-doorhanger-socialtracking-heading = { -brand-short-name }가 여기에서 �
 cfr-doorhanger-socialtracking-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 일반적인 소셜 미디어 추적기를 차단하여 온라인에서 수행하는 작업에 대해 수집할 수 있는 데이터의 양을 제한합니다.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name }가 이 페이지에서 핑커프린터를 차단했습니다
 cfr-doorhanger-fingerprinters-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 디바이스에 대해 고유하게 식별 가능한 정보 조각을 수집하여 사용자를 추적하는 핑거프린터를 차단합니다.
-cfr-doorhanger-cryptominers-heading = { -brand-short-name }가 이 페이지에서 크립토마이너를 차단했습니다
-cfr-doorhanger-cryptominers-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 시스템의 컴퓨팅 능력을 사용하여 디지털 화폐를 채굴하는 크립토마이너를 차단합니다.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name }가 이 페이지에서 암호화폐 채굴기를 차단했습니다
+cfr-doorhanger-cryptominers-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 시스템의 컴퓨팅 능력을 사용하여 디지털 화폐를 채굴하는 암호화폐 채굴기를 차단합니다.
 
 ## Enhanced Tracking Protection Milestones
 
