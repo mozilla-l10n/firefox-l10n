@@ -356,6 +356,37 @@ import-info-bits = Bits
 import-info-created = Creà
 import-info-fpr = Impronta
 import-info-details = Mussar ils detagls ed administrar l'acceptaziun da las clavs
+import-info-no-keys = Importà naginas clavs.
+# Strings in enigmailKeyManager.js
+import-from-clip = Vuls ti importar (ina) tscherta(s) clav(s) da l'archiv provisoric?
+import-from-url = Telechargiar la clav publica da quest URL:
+copy-to-clipbrd-failed = Impussibel da copiar la(s) clav(s) tschernida(s) en l'archiv provisoric.
+copy-to-clipbrd-ok = Copià la(s) clav(s) en l'archiv provisoric
+delete-secret-key =
+    Attenziun! Ti emprovas da stizzar ina clav secreta!
+    
+    Sche ti stizzas tia clav secreta na vegns ti ni a pudair decriptar messadis criptads cun questa clav ni revocar la clav.
+    
+    Vuls ti propi stizzar OMADUAS, la clav secreta e la clav publica
+    «{ $userId }»?
+delete-mix =
+    Attenziun! Ti emprovas da stizzar clavs secretas!
+    Sche ti stizzas tia clav secreta, na vegns ti betg pli a pudair decriptar messadis criptads cun questa clav.
+    Vuls ti propi stizzar OMADUAS, las clavs secretas tschernidas e las clavs publicas?
+delete-pub-key =
+    Vuls ti stizzar la clav publica
+    «{ $userId }»?
+delete-selected-pub-key = Vuls ti stizzar las clavs publicas?
+refresh-all-question = Ti n'has tschernì naginas clavs. Vuls ti actualisar TUT las clavs?
+key-man-button-export-sec-key = Exportar las clavs &secretas
+key-man-button-export-pub-key = Exportar mo las clavs &publicas
+key-man-button-refresh-all = &Actualisar tut las clavs
+key-man-loading-keys = Chargiar las clavs, p.pl. spetgar…
+ascii-armor-file = Datotecas ASCII Armored (*.asc)
+no-key-selected = Ti stos selecziunar almain ina clav per exequir l'operaziun tschernida
+export-to-file = Exportar la clav publica en ina datoteca
+export-keypair-to-file = Exportar la clav secreta e la clav publica en ina datoteca
+export-secret-key = Vuls ti includer la clav secreta en la datoteca da clav OpenPGP memorisada?
 
 ## Account settings export output
 
