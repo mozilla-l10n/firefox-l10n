@@ -88,6 +88,9 @@ extension-controlled-homepage-override = თქვენს საწყის �
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = ახალი ჩანართის გვერდს, ამჟამად მართავს <img data-l10n-name="icon"/> { $name } გაფართოება.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = გაფართოება <img data-l10n-name="icon"/> { $name } მართავს ამ პარამეტრებს.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = გაფართოება <img data-l10n-name="icon"/>{ $name } საზღვრავს ამ პარამეტრს.
