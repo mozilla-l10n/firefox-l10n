@@ -71,12 +71,17 @@ openpgp-keygen-short-expiry = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum y
 openpgp-keygen-ongoing = Asirew n tsarut yebda yakan iteddu!
 openpgp-keygen-error-core = Yegguma ad yettuwennez umeẓlu agejdan n OpenPGP
 openpgp-keygen-error-failed = Asirew n tsaru OpenPGP ur iddi ara, d ayen ur nettwaṛǧa ara
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Tasarut OpenPGP tettwarna akken iwata, maca ur issaweḍ ara ad d-yawi asefsex n tsarut { $key }
+openpgp-keygen-abort-title = Sefsex asirew n tsarut
+openpgp-keygen-abort = Asirew n tsarut n OpenPGP ha-t-an akken iteddu, d tidet tebɣiḍ asefsex-ines?
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Sirew tasarut tazayezt tufurt i { $identity }?
 
 ## Import Key section
 
 openpgp-import-key-title = Kter tasarut OpenPGP tudmawant i yellan yakan
+openpgp-import-key-legend = Fren afaylu yettwakelsen yakan.
 openpgp-import-key-description = Tzemreḍ ad tketreḍ tasarut tudmawant i yettwarnan s useɣẓan-nniḍen OpenPGP.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
