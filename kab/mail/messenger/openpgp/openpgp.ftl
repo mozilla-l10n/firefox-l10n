@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = I wakken ad tazneḍ iznan i yettwawgelhen neɣ yettwazemlen s wudem umḍin, tesriḍ ad tsewleḍ tatiknulujit n uwgelhen, OpenPGP neɣ S/MIME.
+e2e-intro-description-more = Fren tasarut-ik·im tudmawant i usermed n useqdec n OpenPGP, neɣ aselken udmawan i usermed n useqdec n S/MIME. I tsarut tudmawant neɣ i uselken udmawan, ɣur-k tasarut tuffirt yemṣadan.
 openpgp-key-user-id-label = Amiḍan / Asulay n useqdac
 openpgp-keygen-title-label =
     .title = Sirew tasarut OpenPGP
