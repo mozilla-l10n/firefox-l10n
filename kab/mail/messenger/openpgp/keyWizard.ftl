@@ -10,6 +10,12 @@ key-wizard-button =
     .buttonlabelhelp = Uɣal ɣer deffir
 key-wizard-warning = <b>Ma tesɛiḍ tasarut tudmawant</b>i tansa-a imayl, yessefk ad tt-tketreḍ. Ma ulac, ur tzemmreḍ ara ad tkecmeḍ ɣer yiɣbaren-ik•im n yimaylen yettwawgelhen, daɣen ur tzemmreḍ ara ad teɣreḍ imaylen yettwawgelhen i d-ttaznen wid i mazal seqdacen tasarut-ik•im i yellan yakan.
 key-wizard-learn-more = Issin ugar
+radio-create-key =
+    .label = Rnu tasarut tamaynut OpenPGP
+    .accesskey = C
+radio-import-key =
+    .label = Kter tasarut i yellan yakan OpenPGP i yellan yakan
+    .accesskey = I
 
 ## Generate key section
 
