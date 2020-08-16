@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Pli probabel na sustegna la website simp
 about-httpsonly-explanation-risk = Igl è era pussaivel ch'in attatgader è involvì. Sche ti ta decidas da visitar la website, na duessas ti endatar naginas infurmaziuns sensiblas sco pleds-clav, e-mails u detagls da cartas da credit.
 about-httpsonly-button-accept-and-continue = Acceptar la ristga e cuntinuar
 about-httpsonly-button-go-back = Turnar
+about-httpsonly-link-learn-more = Ulteriuras infurmaziuns…

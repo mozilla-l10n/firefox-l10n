@@ -318,8 +318,19 @@ enable-devtools-popup-description = Per utilisar la scursanida F12, l'emprim avr
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Tschertgar u endatar in'adressa
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Tschertgar u endatar in'adressa
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Tschertgar en il web
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Endatar terms da tschertga
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
