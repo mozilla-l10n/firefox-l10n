@@ -16,6 +16,9 @@ radio-create-key =
 radio-import-key =
     .label = Kter tasarut i yellan yakan OpenPGP i yellan yakan
     .accesskey = I
+radio-gnupg-key =
+    .label = Seqdec tasarut taẓɣarayt s GnuPG (am. seg tkarḍa)
+    .accesskey = U
 
 ## Generate key section
 
