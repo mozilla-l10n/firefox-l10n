@@ -468,7 +468,6 @@ home-prefs-topsites-description = साइटों आप सबसे अध�
 
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित
-home-prefs-recommended-by-description = वेब से शानदार सामग्री, आपके लिए व्यक्तिगत बनाया गया
 
 ##
 
@@ -530,7 +529,6 @@ search-show-suggestions-above-history-option =
     .label = पता पट्टी परिणामों में खोज सुझावों को ब्राउज़िंग इतिहास के आगे देखें
 search-show-suggestions-private-windows =
     .label = निजी विंडोज में खोज सुझाव दिखाएं
-suggestions-addressbar-settings = ब्राउज़िंग इतिहास, बुकमार्क और टैब सुझावों के लिए प्राथमिकताएं बदलें
 search-suggestions-cant-show = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है
 search-one-click-header = एकल-क्लिक सर्च इंजन
 search-one-click-desc = खोजशब्द दर्ज करना प्रारंभ करते समय वैकल्पिक खोज इंजिन चुने जोकि पता पट्टी और खोज पट्टी के नीचे प्रकट होते हैं.
@@ -745,6 +743,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = मुख्य कूटशब्द का प्रयोग करें
     .accesskey = U
+forms-primary-pw-learn-more-link = अधिक जानें
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = मुख्य कूटशब्द बदलें…
     .accesskey = M
@@ -855,6 +857,7 @@ addressbar-suggestions-settings = खोज इंजिन सुझाव क�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = कंटेंट ब्लॉकिंग
+content-blocking-enhanced-tracking-protection = उन्नत ट्रैकिंग सुरक्षा
 content-blocking-learn-more = अधिक जानें
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -1071,6 +1074,10 @@ space-alert-under-5gb-ok-button =
     .label = अच्छा, समझ गया
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } के लिए डिस्क में जगह कम हो रही है. वेबसाइट सामग्री संभवत: ढंग से प्रदर्शित ना हो पाए. आपके डिस्क उपयोग को बेहतर ब्राउज़िंग अनुभव हेतु अनुकूलित करने के लिए “और जानें” पर जाएं.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = अधिक जानें
 
 ## The following strings are used in the Download section of settings
 

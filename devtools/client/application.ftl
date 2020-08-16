@@ -14,23 +14,18 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = सेवा कार्यकर्त्ता
-
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = अपंजीकृत
-
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = दोषशोधन करे
     .title = केवल निरंतर सेवा कार्यकर्ताओं का ही दोषशोधन किया जा सकता है
-
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = शुरू करें
-
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = स्रोत
-
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = स्थिति
 
@@ -40,22 +35,18 @@ serviceworker-worker-status = स्थिति
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = क्रियाशील
-
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = रुकी हुई
-
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = पंजीकृत किया जा रहा है
-
+# Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro-link = अधिक जानें
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = त्रुटियां तथा चेतावनीयां
-
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox DevTools त्रुटि
-
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = उद्देश्य: <code>{ $purpose }</code>
-
