@@ -788,7 +788,7 @@ forms-saved-logins =
     .label = 저장된 로그인…
     .accesskey = L
 forms-master-pw-use =
-    .label = 기본 비밀번호 사용
+    .label = 마스터 비밀번호 사용
     .accesskey = U
 forms-primary-pw-use =
     .label = 기본 비밀번호 사용
@@ -798,7 +798,7 @@ forms-primary-pw-learn-more-link = 더 알아보기
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = 기본 비밀번호 변경…
+    .label = 마스터 비밀번호 변경…
     .accesskey = M
 forms-master-pw-fips-title = 현재 FIPS 모드입니다. FIPS는 기본 비밀번호가 설정되어야 합니다.
 forms-primary-pw-change =
@@ -990,7 +990,7 @@ content-blocking-unvisited-cookies = 방문하지 않은 사이트의 쿠키
 content-blocking-all-windows-trackers = 알려진 추적기를 모든 창에서
 content-blocking-all-windows-tracking-content = 모든 창의 추적 콘텐츠
 content-blocking-all-third-party-cookies = 모든 제3자 쿠키
-content-blocking-cryptominers = 크립토마이너
+content-blocking-cryptominers = 암호화폐 채굴기
 content-blocking-fingerprinters = 핑거프린터
 content-blocking-warning-title = 주의하세요!
 content-blocking-warning-description = 콘텐츠를 차단하면 일부 웹 사이트가 깨질 수 있습니다. 신뢰할 수 있는 사이트에 대한 차단은 쉽게 해제 할 수 있습니다.
@@ -1021,7 +1021,7 @@ content-blocking-expand-section =
     .tooltiptext = 더 알아보기
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = 크립토마이너
+    .label = 암호화폐 채굴기
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.

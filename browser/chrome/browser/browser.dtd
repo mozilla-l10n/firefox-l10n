@@ -921,8 +921,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "쿠키">
 <!ENTITY contentBlocking.cookiesView.label "쿠키 및 사이트 데이터">
 
-<!ENTITY contentBlocking.cryptominers.label "크립토마이너">
-<!ENTITY contentBlocking.cryptominersView.label "크립토마이너">
+<!ENTITY contentBlocking.cryptominers.label "암호화폐 채굴기">
+<!ENTITY contentBlocking.cryptominersView.label "암호화폐 채굴기">
 
 <!ENTITY contentBlocking.fingerprinters.label "핑거프린터">
 <!ENTITY contentBlocking.fingerprintersView.label "핑거프린터">
