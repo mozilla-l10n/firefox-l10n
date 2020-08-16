@@ -100,6 +100,7 @@ import-key-file = Kter afaylu n tsarut OpenPGP
 import-key-personal-checkbox =
     .label = Ḥseb tasarut-a am tsarut tudmawant
 gnupg-file = Ifuyla GnuPG
+import-error-file-size = <b>Tuccḍa!</b> Ifuyla ɣezzifen ugar ɣef 5MAṬ ur ttusefraken ara.
 #   $error (String) - the reported error from the failed key import method
 import-error-failed = <b>Tuccḍa!</b> Aktar n ufaylu ur yeddi ara. { $error }
 #   $error (String) - the reported error from the failed key import method
@@ -107,6 +108,10 @@ openpgp-import-keys-failed = <b>Tuccḍa!</b> Aktar n tsura ur yeddi ara. { $err
 openpgp-import-identity-label = Tamagit
 openpgp-import-fingerprint-label = Adsil umḍin
 openpgp-import-created-label = Yettwarna
+openpgp-import-bits-label = Ibiten
+openpgp-import-key-props =
+    .label = Timeẓliyin n tsarut
+    .accesskey = K
 
 ## External Key section
 

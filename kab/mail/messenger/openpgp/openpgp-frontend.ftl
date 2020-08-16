@@ -2,6 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-manage-keys-openpgp-cmd =
+    .label = Amsefrak n tsarut OpenPGP
+    .accesskey = O
+openpgp-ctx-decrypt-open =
+    .label = Wgelhen syen ldi
+    .accesskey = D
+openpgp-ctx-decrypt-save =
+    .label = Wgelhen syen sekles am…
+    .accesskey = C
+openpgp-ctx-verify-att =
+    .label = Senqed azmul
+    .accesskey = V
 openpgp-import-sender-key =
     .label = Kter…
 openpgp-search-keys-openpgp =
