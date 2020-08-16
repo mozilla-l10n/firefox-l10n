@@ -12,6 +12,7 @@ openpgp-uncertain-sig = Azmul umḍin ur nettwaman ara
 openpgp-invalid-sig = Azmul umḍin arameɣtu
 openpgp-good-sig = Azmul umḍin igerrez
 openpgp-sig-uncertain-no-key = Izen-a deg-s azmul umḍin, maca, ur iban ara ma yella d ameɣtu. Akken ad tesneqdeḍ azmul, teḥwaǧeḍ ad d-tawiḍ nɣel tasarut tazauezt n umazan.
+openpgp-sig-uncertain-uid-mismatch = Izen-a deg-s azmul umḍin, maca maca yella wayen ur nemmṣada ara. Izen yettwazen-d seg tansa n yimayl ur nemṣada ara d tsarut tazayezt n unezmal.
 openpgp-sig-valid-unverified = Izen-a deg-s azmul umḍin ameɣtu seg tsarut i tqebleḍ yakan. Maca, mazal ur tesneqdeḍ ara tasarut-nni ma yella s tidet n umazan.
 openpgp-sig-valid-verified = Izen-a deg-s azmul umḍin ameɣtu seg tsarut-ik·im yettwasneqden.
 openpgp-sig-valid-own-key = Izen-a deg-s azmul umḍin ameɣtu seg tsarut-ik·im tudmawant.
