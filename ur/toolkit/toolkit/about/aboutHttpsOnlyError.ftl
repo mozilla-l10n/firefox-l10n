@@ -7,6 +7,7 @@ about-httpsonly-insecure-explanation-reasons = غالبا. ، ویب سائٹ HT
 about-httpsonly-button-make-exception = رسک کو قبول کریں اور پر جاری رکھیں
 about-httpsonly-explanation-question = اس کی وجہ سے کیا ہوسکتی ہے؟
 about-httpsonly-explanation-nosupport = زیادہ تر امکان ہے کہ ، ویب سائٹ HTTPS کی حمایت نہیں کرتی ہو۔
+about-httpsonly-explanation-risk = یہ بھی ممکن ہے کہ حملہ آور ملوث ہو۔ اگر آپ ویب سائٹ ملاحظہ کرنے کا فیصلہ کر لیا ہےتو ، آپ کو حساس معلومات جیسے پاس ورڈز ، ای میلز ، یا کریڈٹ کارڈ کی تفصیلات درج نہیں کرنا چاہئییے۔
 about-httpsonly-button-accept-and-continue = خطرے کو قبول کریں اور جاری رکھیں
 about-httpsonly-button-go-back = واپس جائیں
 about-httpsonly-link-learn-more = مزید سیکھیں…

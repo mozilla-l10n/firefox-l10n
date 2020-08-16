@@ -43,6 +43,10 @@ monitor-link = یہ کیسے کام کرتا ہے
 monitor-sign-up-link = خلاف ورزی کے انتباہات کیلئے سائن اپ کریں
     .title = خلاف ورزی کے انتباہات کیلئے  { -monitor-brand-name } پر  سائن اپ کریں
 auto-scan = آج خودکار طور پر اسکین ہوا
+monitor-breaches-tooltip =
+    .title = { -monitor-brand-short-name } پر معلوم ڈیٹا کی خلاف ورزیوں کو دیکھیں
+monitor-passwords-tooltip =
+    .title = { -monitor-brand-short-name } پر بے نقاب ہونے والے پاسورڈز دیکھیں
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -68,6 +72,8 @@ info-exposed-passwords-found =
        *[other] پاس ورڈز تمام خلاف ورزیوں کے بے نقاب
     }
 monitor-no-breaches-title = اچھی خبر!
+monitor-breaches-unresolved-title = اپنی خلاف ورزیوں کو حل کریں
+monitor-breaches-unresolved-description = خلاف ورزی کی تفصیلات کا جائزہ لینے اور اپنی معلومات کے تحفظ کے لئے اقدامات کرنے کے بعد ، آپ حل شدہ خلاف ورزیوں کو نشان زد کرسکتے ہیں۔
 monitor-manage-breaches-link = خلاف ورزیاں  بندرست  کریں
     .title = { -monitor-brand-short-name }  پر  خلاف ورزیاں  بندرست  کریں
 monitor-breaches-resolved-title = بہت  اچھے! آپ نے تمام معلوم شدہ  خلاف ورزیوں کو حل کر لیا ہے۔
