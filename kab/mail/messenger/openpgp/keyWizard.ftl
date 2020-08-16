@@ -91,6 +91,7 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird yufa-d tisura i izemren ad ttwaketrent.
     }
 openpgp-import-key-list-description = Sentem anti tisura i izemren ad ttwaḥesbent d tisura-k•m tudmawanin. Anagar tisura i d-tesnulfaḍ, tid i d-yemmalen tamagit-ik•im i yettwaseqdacen am tsura tudmawanin. Tzemreḍ ad tbeddleḍ aɣewwaṛ-a deg udiwenni n Yiraten n tsarut ticki.
+openpgp-import-key-list-caption = Tisura yettwacerḍen d tisura tudmawanin ad d-ttwabedrent deg tgezmi n uwgelhen seg yixef ɣer yixef. Tiyaḍ ad ilint deg umsefrak n tsura.
 openpgp-passphrase-prompt-title = Tlaq tefyirt tuffirt
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Ttxil sekcem tafyirt tuffirt i userreḥ n tsarut-a: { $key }
@@ -118,6 +119,7 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = TasarutGnuPG taẓɣarayt
 openpgp-external-key-description = Swel tasarut GnuPG taẓɣarayt s usekcem n usulay n tsarut
+openpgp-external-key-info = Daɣen, ilaq ad tesqedceḍ amsefrak n tsura i uktar d uqbal n tsarut tazayezt yemṣadan.
 openpgp-save-external-button = Sekles asulay n tsarut
 openpgp-external-key-label = Asulay n tsarut ufur:
 openpgp-external-key-input =
