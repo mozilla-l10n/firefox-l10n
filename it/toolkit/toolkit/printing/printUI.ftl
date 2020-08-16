@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Stampa
+# Dialog title to prompt the user for a filename to save print to PDF.
+printui-save-to-pdf-title = Salva con nome
 
 # Variables
 # $sheetCount (integer) - Number of paper sheets
@@ -29,6 +31,7 @@ printui-portrait = Verticale
 
 # Section title for the printer or destination device to target
 printui-destination-label = Destinazione
+printui-destination-pdf-label = Salva come PDF
 
 printui-more-settings = Altre impostazioni
 printui-less-settings = Meno impostazioni
@@ -47,6 +50,7 @@ printui-backgrounds-checkbox = Stampa sfondi
 printui-system-dialog-link = Stampa utilizzando la finestra di dialogo del sistema…
 
 printui-primary-button = Stampa
+printui-primary-button-save = Salva
 printui-cancel-button = Annulla
 
 printui-loading = Preparazione anteprima
