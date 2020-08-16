@@ -33,10 +33,10 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName;는 계정 암호를 저장할 수 있습니다.">
-<!ENTITY useMasterPassword.label        "기본 암호 사용">
+<!ENTITY useMasterPassword.label        "마스터 비밀번호 사용">
 <!ENTITY useMasterPassword.accesskey    "U">
-<!ENTITY masterPassword.intro           "기본 암호는 모든 일반 암호를 보호합니다. 프로그램 다시 시작할 때 다시 입력해야 합니다.">
-<!ENTITY changeMasterPassword.label     "기본 암호 변경…">
+<!ENTITY masterPassword.intro           "마스터 비밀번호는 모든 일반 비밀번호를 보호합니다. 프로그램 시작할 때 다시 입력해야 합니다.">
+<!ENTITY changeMasterPassword.label     "마스터 비밀번호 변경…">
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "저장된 암호 목록…">
 <!ENTITY savedPasswords.accesskey       "S">
@@ -45,4 +45,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName;는 안티 바이러스 소프트웨어를 통해 받은 메시지를 PC에 저장하기 전에 검사할 수 있습니다.">
 <!ENTITY antiVirus.label      "안티 바이러스 프로그램이 개별 메시지 검사 허용">
 <!ENTITY antiVirus.accesskey  "A">
-
