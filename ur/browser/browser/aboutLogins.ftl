@@ -117,6 +117,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = محفوظ شدہ �
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو نقل کریں
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = محفوظ شدہ لاگ ان اور پاس ورڈ برآمد کریں
 
 ## Master Password notification
 
