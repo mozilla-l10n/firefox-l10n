@@ -140,7 +140,7 @@ left instead of right. -->
 <!ENTITY popupAllowMsg.label "Sprettoppvinduer fra dette nettstedet vil alltid bli vist.">
 <!ENTITY popupDefaultCmd.label "Bruk standardregler for sprettoppvinduer">
 <!ENTITY popupDefaultCmd.accesskey "B">
-<!ENTITY popupDefaultMsg.label "Sprettoppvinduer fra dette nettstedet vil bli vist basert på forvalg.">
+<!ENTITY popupDefaultMsg.label "Sprettoppvinduer fra dette nettstedet vil bli vist basert på standardinnstillinger.">
 <!ENTITY popupBlockCmd.label "Blokker sprettoppvinduer fra dette nettstedet">
 <!ENTITY popupBlockCmd.accesskey "B">
 <!ENTITY popupBlockMsg.label "Sprettoppvinduer fra dette nettstedet vil ikke bli vist.">
