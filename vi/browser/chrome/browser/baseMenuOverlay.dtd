@@ -15,7 +15,7 @@
 <!ENTITY helpMenuWin.label        "Trợ giúp"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 
-<!ENTITY aboutProduct2.label      "Thông tin về &brandShorterName;">
+<!ENTITY aboutProduct2.label      "Về &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "Trợ giúp &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "H">
