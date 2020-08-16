@@ -335,6 +335,11 @@ key-ring-no-secret-key = Parece que você não tem a chave secreta de { $userId 
 key-ring-pub-key-not-for-signing = A chave { $userId } (ID da chave { $keyId }) não pode ser usada para assinar.
 key-ring-pub-key-not-for-encryption = A chave { $userId } (ID da chave { $keyId }) não pode ser usada para criptografar.
 key-ring-sign-sub-keys-revoked = Todas as subchaves de assinatura da chave { $userId } (ID da chave { $keyId }) foram revogadas.
+key-ring-sign-sub-keys-expired = Todas as subchaves de assinatura da chave { $userId } (ID da chave { $keyId }) estão vencidas.
+key-ring-sign-sub-keys-unusable = Todas as subchaves de assinatura da chave { $userId } (ID da chave { $keyId }) foram revogadas, estão vencidas, ou de alguma forma invalidadas.
+key-ring-enc-sub-keys-revoked = Todas as subchaves de criptografia da chave { $userId } (ID da chave { $keyId }) foram revogadas.
+key-ring-enc-sub-keys-expired = Todas as subchaves de criptografia da chave { $userId } (ID da chave { $keyId }) estão vencidas.
+key-ring-enc-sub-keys-unusable = Todas as subchaves de criptografia da chave { $userId } (ID da chave { $keyId }) foram revogadas, estão vencidas, ou de alguma forma invalidadas.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atributo do usuário (imagem JPEG)
@@ -348,7 +353,9 @@ openpgp-key-revoke-success = Chave revogada com sucesso.
 key-man-button-import = &Importar
 delete-key-title = Excluir chave OpenPGP
 delete-external-key-title = Remover a chave GnuPG externa
+delete-external-key-description = Quer remover este ID de chave GnuPG externa?
 key-in-use-title = Chave OpenPGP em uso no momento
+delete-key-in-use-description = Não foi possível prosseguir! A chave que você selecionou para ser excluída está sendo usada no momento por esta identidade. Selecione outra chave ou não selecione nenhuma e tente novamente.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Não foi possível encontrar nenhuma chave que corresponda aos critérios de pesquisa especificados.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
