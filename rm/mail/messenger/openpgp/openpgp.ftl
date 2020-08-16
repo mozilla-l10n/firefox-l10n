@@ -551,3 +551,41 @@ do-import-multiple =
     Importar las suandantas clavs?
     { $key }
 do-import-one = Importar { $name } ({ $id })?
+cant-import = Errur durant l'importaziun da la clav publica
+unverified-reply = La part tschessada dal messadi (resposta) è probablamain vegnida modifitgada
+key-in-message-body = Ina clav è vegnida chattada en il corp dal messadi. Cliccar sin «Importar la clav» per l'importar
+sig-mismatch = Errur – la signatura na correspunda betg
+invalid-email = Errur – adressa(s) d'e-mail nunvalida(s)
+attachment-pgp-key =
+    L'agiunta «{ $name }» che ti avras, para dad esser ina datoteca da clav OpenPGP.
+    Cliccar sin «Importar» per importar las clavs cuntegnidas u «Mussar» per mussar il cuntegn da la datoteca en ina fanestra dal navigatur
+dlg-button-view = &Mussar
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Messadi decriptà (restauraziun dad in format d'e-mail PGP donnegià, probablamain chaschunà dad in vegl Exchange server – il format n'è eventualmain betg cumplettamain legibel)
+# Strings used in encryption.jsm
+not-required = Errur – nagin criptadi necessari
+# Strings used in windows.jsm
+no-photo-available = Nagina foto disponibla
+error-photo-path-not-readable = L'ordinatur «{ $photo }» da la fotografia n'è betg legibel
+debug-log-title = Log da debugadi OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Quest avertiment vegn repetì { $count }
+repeat-suffix-singular = giada.
+repeat-suffix-plural = giadas.
+no-repeat = Quest avertiment na vegn betg pli mussà.
+dlg-keep-setting = Tegnair endament mia resposta e betg pli ma dumandar
+dlg-button-ok = &OK
+dlg-button-close = &Serrar
+dlg-button-cancel = &Interrumper
+dlg-no-prompt = Betg pli ma mussar quest dialog
+enig-prompt = Dialog OpenPGP
+enig-confirm = Conferma OpenPGP
+enig-alert = Avertiment OpenPGP
+enig-info = Infurmaziun OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Reempruvar
+dlg-button-skip = &Sursiglir
+# Strings used in enigmailCommon.js
+enig-error = Errur OpenPGP
+enig-alert-title =
+    .title = Avertiment OpenPGP
