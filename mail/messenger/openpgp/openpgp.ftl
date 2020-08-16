@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-cancel-key =
+    .label = გაუქმება
+    .tooltiptext = გასაღების შედგენის გაუქმება
+openpgp-key-gen-key-type-label = გასაღების სახეობა
 openpgp-key-man-title =
     .title = OpenPGP-გასაღების მმართველი
 openpgp-key-man-generate =
