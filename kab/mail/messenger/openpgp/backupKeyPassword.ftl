@@ -5,6 +5,7 @@
 set-password-window =
     .title = Fren awal uffir iwakken ad tkelseḍ tasarut-ik•im OpenPGP
 set-password-legend = Fren awal uffir
+set-password-message = Awal uffir i tesbaduḍ dagi ad yeḥrez afaylu n usekles n tsarut tuffirt n OpenPGP i terniḍ akka tura. Issefk ad tesbaduḍ awal-a uffir i wakken ad tkemmleḍ asekles.
 set-password-backup-pw =
     .value = Awal uffir n usekles n tsarut tufurt:
 set-password-repeat-backup-pw =
