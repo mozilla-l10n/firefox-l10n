@@ -260,6 +260,13 @@ keyserver-error-unsupported = O servidor de chaves não é suportado.
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmo de assinatura desconhecido (ID: { $id })
 unknown-hash-alg = Hash de criptografia desconhecido (ID: { $id })
+expiry-key-missing-owner-trust =
+    Sua chave secreta { $desc } não pode ser considerada de confiança.
+    Recomendamos que você defina "Você confia em certificações" como "definitivo" nas propriedades da chave.
+expiry-keys-missing-owner-trust =
+    As seguintes chaves secretas suas não podem ser consideradas de confiança.
+    { $desc }.
+    Recomendamos que você defina "Você confia em certificações" como "definitivo" nas propriedades das chaves.
 expiry-open-key-manager = Abrir gerenciador de chaves OpenPGP
 expiry-open-key-properties = Abrir propriedades da chave
 # Strings filters.jsm
@@ -314,6 +321,7 @@ key-ring-pub-key-revoked = A chave { $userId } (ID da chave { $keyId }) foi revo
 key-ring-pub-key-expired = A chave { $userId } (ID da chave { $keyId }) está vencida.
 key-ring-key-disabled = A chave { $userId } (ID da chave { $keyId }) está desativada, não pode ser usada.
 key-ring-key-invalid = A chave { $userId } (ID da chave { $keyId }) não é válida. Considere verificar corretamente.
+key-ring-key-not-trusted = A chave { $userId } (ID da chave { $keyId }) não é confiável o suficiente. Defina o nível de confiança de sua chave como "definitivo" para usar para assinar.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atributo do usuário (imagem JPEG)
@@ -347,6 +355,7 @@ key-valid-revoked = revogada
 key-trust-untrusted = não confiável
 key-trust-marginal = marginal
 key-trust-full = confiável
+key-trust-ultimate = definitivo
 key-trust-group = (grupo)
 # Strings used in commonWorkflows.js
 import-key-file = Importar arquivo de chave OpenPGP
