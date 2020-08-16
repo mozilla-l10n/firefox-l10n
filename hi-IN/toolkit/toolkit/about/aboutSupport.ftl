@@ -14,6 +14,7 @@ extensions-name = नाम
 extensions-enabled = सक्रिय
 extensions-version = संस्करण
 extensions-id = आईडी
+support-addons-title = ऐड-ऑन
 support-addons-name = नाम
 support-addons-version = संस्करण
 support-addons-id = आईडी
@@ -27,11 +28,19 @@ features-title = { -brand-short-name } विशेषताएं
 features-name = नाम
 features-version = संस्करण
 features-id = ID
+processes-title = दूरस्थ प्रक्रियाएं
 app-basics-title = अनुप्रयोग मूल
 app-basics-name = नाम
 app-basics-version = संस्करण
 app-basics-build-id =  ID बनाएँ
 app-basics-update-channel = चैनल अद्यतन करें
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] डिरेक्टरी अपडेट करें
+       *[other] फोल्डर अपडेट करें
+    }
 app-basics-update-history = इतिहास अद्यतन करें
 app-basics-show-update-history = अद्यतन इतिहास दिखाएँ
 app-basics-profile-dir =
