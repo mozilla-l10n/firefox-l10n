@@ -534,3 +534,15 @@ minimal-line-wrapping =
     Ai setat încadrarea rândurilor la o lățime de { $width } (de) caractere. Pentru criptare și/sau semnare corectă(e), valoarea trebuie să fie de cel puțin 68.
     Vrei să modifici încadrarea rândurilor pe 68 de caractere acum?
 sending-hidden-rcpt = Nu se poate folosi BCC (copie carbon cu destinatar ascuns) la transmiterea unui mesaj criptat. Pentru a trimite acest mesaj criptat, fie elimini destinatarii din BCC, fie îi muți în câmpul CC.
+sending-news =
+    Operație de trimitere criptată abandonată.
+    Mesajul nu poate fi criptat deoarece sunt destinatari ai grupului de discuții. Retrimite mesajul fără criptare.
+send-to-news-warning =
+    Avertisment: Ești pe cale să trimiți un mesaj de e-mail criptat către un grup de discuții.
+    Nu este recomandat, deoarece are sens numai dacă toți membrii grupului pot decripta mesajul, adică mesajul trebuie să fie criptat cu cheile tuturor participanților din grupul de discuții. Trimite acest mesaj numai dacă știi ce faci.
+    Continui?
+save-attachment-header = Salvează atașamentul decriptat
+no-temp-dir =
+    Nu a fost găsit directorul temporar de scriere.
+    Introdu variabila mediului TEMP
+possibly-pgp-mime = Mesaj posibil criptat sau semnat cu PGP/MIME; folosește funcția „Decrypt/Verify” pentru verificare
