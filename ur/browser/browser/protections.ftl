@@ -11,6 +11,7 @@ graph-week-summary =
     }
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = اس ہفتے ٹریکرز{ -brand-short-name } مسدود ہیں
+protection-report-settings-link = رازداری اور سیکورٹی کی ترتیبات کو بندرست کریں.
 etp-card-title-always = بہتر ٹریکنگ پروٹیکشن: ہمیشہ  چالو
 etp-card-title-custom-not-blocking = بہتر ٹریکنگ پروٹیکشن:  بند
 protection-report-manage-protections = سیٹنگز بندرست کریں

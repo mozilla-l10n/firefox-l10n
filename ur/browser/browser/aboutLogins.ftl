@@ -68,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = اپنے محفوظ شدہ لاگ ان ڈھونڈ رہے ہیں؟ { -sync-brand-short-name } مرتب کریں۔
+about-logins-login-intro-heading-logged-out = اپنے محفوظ شدہ لاگ ان ڈھونڈ رہے ہیں؟ { -sync-brand-short-name } مرتب کریں یا انھیں درآمد کریں۔
 about-logins-login-intro-heading-logged-in = کوئی سینکڈ لاگ ان نہیں ملا۔
 login-intro-description = اگر آپ نے اپنے لاگ انز { -brand-product-name } کو کسی دوسرے آلے پر محفوظ کیاہوا ہے تو، انہیں یہاں حاصل کرنے کا طریقہ یوں ہے:
 login-intro-instruction-fxa = وہ آلہ جہاں آپ کے لاگ انز محفوظ ہیں ان پر اپنا { -fxaccount-brand-name } بنائیں یا سائن ان کریں

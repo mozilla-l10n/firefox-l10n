@@ -215,6 +215,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = پکچر-ان-پکچر آئیکن
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = ایک نظر میں حفاظت
 cfr-whatsnew-protections-cta-link = حفاظتی ڈیش بورڈ دیکھیں
 cfr-whatsnew-protections-icon-alt = شیلڈ آئیکن
 

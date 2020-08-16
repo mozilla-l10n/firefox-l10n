@@ -43,8 +43,14 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> میں خوشامدید
+onboarding-multistage-welcome-subtitle = تیز ، محفوظ ، اور نجی براؤزر جس کو غیر منافع بخش کی حمایت حاصل ہے۔
+onboarding-multistage-welcome-primary-button-label = سیٹ اپ شروع کریں
 onboarding-multistage-welcome-secondary-button-label = سائن ان کریں
 onboarding-multistage-welcome-secondary-button-text = کیا آپ کا اکاؤنٹ ہے؟
+onboarding-multistage-import-subtitle = کسی دوسرے براؤزر سے آرہے ہیں؟ سب چیزوں کو { -brand-short-name } پر لانا آسان ہے۔
 onboarding-multistage-import-primary-button-label = درآمد شروع کریں
 onboarding-multistage-import-secondary-button-label = ابھی نہیں
 onboarding-multistage-theme-primary-button-label = تھیم کو محفوظ کریں
@@ -55,6 +61,8 @@ onboarding-multistage-theme-label-automatic = خودکار
 onboarding-multistage-theme-description-automatic = سسٹم تھیم استعمال کریں
 onboarding-multistage-theme-label-light = ہلکا
 onboarding-multistage-theme-label-dark = گہرا
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

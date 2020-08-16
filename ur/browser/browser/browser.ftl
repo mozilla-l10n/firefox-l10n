@@ -294,6 +294,7 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = کبھی اجازت نہیں دیں
     .accesskey = N
+popup-silence-notifications-checkbox = اشتراک کے دوران { -brand-short-name } سے اطلاعات کو غیر فعال کریں
 
 ## WebRTC window or screen share tab switch warning
 
@@ -315,6 +316,15 @@ urlbar-placeholder =
 # entire web.
 urlbar-placeholder-search-mode-web =
     .placeholder = ويب پر تلاش کريں
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = تلاش کی شرائط درج کریں
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } کے ساتھ تلاش کریں یا پتہ درج کریں
 urlbar-remote-control-notification-anchor =
     .tooltiptext = براؤزر ریموٹ کنٹرول کے تحت ہے
 urlbar-permissions-granted =
