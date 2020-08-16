@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Salattujen tai digitaalisesti allekirjoitettujen viestien lähettämistä varten on määritettävä joko OpenPGP- tai S/MIME-salaustekniikka.
-e2e-intro-description-more = Ota käyttöön OpenPGP valitsemalla henkilökohtainen avaimesi, tai S/MIME valitsemalla henkilökohtainen varmenteesi. Henkilökohtaista avainta tai varmennetta varten sinulla on vastaava oma salainen avain.
+e2e-intro-description-more = Ota OpenPGP käyttöösi valitsemalla henkilökohtainen avaimesi, tai S/MIME valitsemalla henkilökohtainen varmenteesi. Henkilökohtaista avainta tai varmennetta varten sinulla on vastaava oma salainen avain.
 openpgp-key-user-id-label = Tili / käyttäjätunnus
 openpgp-keygen-title-label =
     .title = Luo OpenPGP-avain
@@ -37,7 +37,7 @@ openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">HUOMAA: Avaim
 openpgp-key-expiry-label =
     .label = Vanheneminen
 openpgp-key-id-label =
-    .label = Avaintunnus
+    .label = Avaimen tunniste (ID)
 openpgp-cannot-change-expiry = Tämä on avain, jolla on monimutkainen rakenne. Sen voimassaoloajan muuttamista ei tueta.
 openpgp-key-man-title =
     .title = OpenPGP-avainhallinta
@@ -89,7 +89,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Etsi avaimia verkossa
     .accesskey = E
-openpgp-key-man-discover-prompt = Etsi OpenPGP-avaimia verkossa, avainpalvelimissa tai WKD-protokollaa käyttäen kirjoittamalla joko sähköpostiosoitteesi tai avaintunnuksesi.
+openpgp-key-man-discover-prompt = Etsi OpenPGP-avaimia verkossa, avainpalvelimissa tai WKD-protokollaa käyttäen kirjoittamalla joko sähköpostiosoitteesi tai avaimesi tunniste (ID).
 openpgp-key-man-discover-progress = Etsitään…
 openpgp-key-copy-key =
     .label = Kopioi julkinen avain
