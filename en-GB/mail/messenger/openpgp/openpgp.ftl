@@ -555,3 +555,36 @@ unverified-reply = Indented message part (reply) was probably modified
 key-in-message-body = A key was found in the message body. Click 'Import Key' to import the key
 sig-mismatch = Error - Signature mismatch
 invalid-email = Error - invalid email address(es)
+attachment-pgp-key =
+    The attachment '{ $name }' you are opening appears to be an OpenPGP key file.
+    Click 'Import' to import the keys contained or 'View' to view the file contents in a browser window
+dlg-button-view = &View
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Decrypted message (restored broken PGP email format probably caused by an old Exchange server, so that the result might not be perfect to read)
+# Strings used in encryption.jsm
+not-required = Error - no encryption required
+# Strings used in windows.jsm
+no-photo-available = No Photo available
+error-photo-path-not-readable = Photo path '{ $photo }' is not readable
+debug-log-title = OpenPGP Debug Log
+# Strings used in dialog.jsm
+repeat-prefix = This alert will repeat { $count }
+repeat-suffix-singular = more time.
+repeat-suffix-plural = more times.
+no-repeat = This alert will not be shown again.
+dlg-keep-setting = Remember my answer and do not ask me again
+dlg-button-ok = &OK
+dlg-button-close = &Close
+dlg-button-cancel = &Cancel
+dlg-no-prompt = Do not show me this dialogue again
+enig-prompt = OpenPGP Prompt
+enig-confirm = OpenPGP Confirmation
+enig-alert = OpenPGP Alert
+enig-info = OpenPGP Information
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Retry
+dlg-button-skip = &Skip
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP Error
+enig-alert-title =
+    .title = OpenPGP Alert
