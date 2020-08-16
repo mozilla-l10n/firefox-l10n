@@ -83,6 +83,7 @@ openpgp-key-confirm = Sirew tasarut tazayezt tufurt i { $identity }?
 openpgp-import-key-title = Kter tasarut OpenPGP tudmawant i yellan yakan
 openpgp-import-key-legend = Fren afaylu yettwakelsen yakan.
 openpgp-import-key-description = Tzemreḍ ad tketreḍ tasarut tudmawant i yettwarnan s useɣẓan-nniḍen OpenPGP.
+openpgp-import-key-info = Iseɣzanen wiyaḍ zemren ad d-gelmen tasarut tudmawant s useqdec n wawalen igacuren am tsarut-inek·inem, tasarut tuffirt, tasarut tusligt neɣ tayuga n tsura.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
