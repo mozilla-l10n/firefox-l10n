@@ -172,6 +172,7 @@ openpgp-key-details-fingerprint-label = Impressão digital
 openpgp-key-details-sel-action =
     .label = Selecionar ação…
     .accesskey = S
+openpgp-key-details-also-known-label = Identidades alternativas alegadas do proprietário da chave:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Fechar
 openpgp-acceptance-label =
@@ -184,6 +185,9 @@ openpgp-acceptance-unverified-label =
     .label = Sim, mas não verifiquei se é a chave correta.
 openpgp-acceptance-verified-label =
     .label = Sim, verifiquei pessoalmente que esta chave tem a impressão digital correta.
+key-accept-personal =
+    Nesta chave, você tem a parte pública e a parte secreta. Você pode usar como uma chave pessoal.
+    Se esta chave foi dada a você por outra pessoa, não a use como chave pessoal.
 key-personal-warning = Você mesmo criou esta chave e a propriedade da chave exibida refere-se a você?
 openpgp-personal-no-label =
     .label = Não, não usar como minha chave pessoal.

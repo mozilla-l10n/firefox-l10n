@@ -9,6 +9,7 @@ openpgp-compose-key-status-recipient =
     .label = Destinatário
 openpgp-compose-key-status-status =
     .label = Status
+openpgp-compose-key-status-open-details = Gerenciar chaves do destinatário selecionado…
 openpgp-recip-good = ok
 openpgp-recip-missing = nenhuma chave disponível
 openpgp-recip-none-accepted = nenhuma chave aceita
