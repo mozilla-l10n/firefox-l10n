@@ -140,8 +140,10 @@ left instead of right. -->
 <!ENTITY popupAllowMsg.label "Sprettoppvindauge frå denne nettstaden vil alltid bli viste.">
 <!ENTITY popupDefaultCmd.label "Bruk standardreglar for sprettoppvindauge">
 <!ENTITY popupDefaultCmd.accesskey "B">
+<!ENTITY popupDefaultMsg.label "Sprettoppvindauge frå denne nettstaden vil bli viste basert på standardinnstillingar.">
 <!ENTITY popupBlockCmd.label "Blokker sprettoppvindauge frå denne nettstaden">
 <!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Sprettoppvindauge frå denne nettstaden vil ikkje bli viste.">
 <!ENTITY popupsManage.label "Handsam sprettoppvindauge">
 <!ENTITY popupsManage.accesskey "H">
 
