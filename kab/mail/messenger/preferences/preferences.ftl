@@ -41,11 +41,10 @@ composition-addressing-header = Tansiwin
 privacy-main-header = Tabaḍnit
 privacy-passwords-header = Awalen uffiren
 privacy-junk-header = Aspam
-privacy-data-collection-header = Alqaḍ d useqdec n yisefka
 collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
 collection-description = Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n { -brand-short-name } i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.
 collection-privacy-notice = Tasertit n tbaḍnit
-collection-health-report-telemetry-disabled = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
+collection-health-report-telemetry-disabled = Dayen ur tettaǧǧaḍ ara { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
 collection-health-report-telemetry-disabled-link = Issin ugar
 collection-health-report =
     .label = Sireg { -brand-short-name } ad yazen isefka itiknikanen ɣer { -vendor-short-name }
@@ -95,8 +94,6 @@ addons-button = Isiɣzaf & Isental
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Senqed timagit-ik akken ad ternuḍ awal uffir agejdan.
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek uffir agejdan, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen by trying to add a Master Password.
