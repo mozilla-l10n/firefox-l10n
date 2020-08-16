@@ -387,6 +387,59 @@ no-key-selected = Ti stos selecziunar almain ina clav per exequir l'operaziun ts
 export-to-file = Exportar la clav publica en ina datoteca
 export-keypair-to-file = Exportar la clav secreta e la clav publica en ina datoteca
 export-secret-key = Vuls ti includer la clav secreta en la datoteca da clav OpenPGP memorisada?
+save-keys-ok = Las clavs èn vegnidas memorisadas cun success
+save-keys-failed = I n'è betg reussì da memorisar las clavs
+default-pub-key-filename = clavs-publicas-exportadas
+default-pub-sec-key-filename = copia-clavs-secretas
+refresh-key-warn = Attenziun: Tut tenor il dumber da clavs e la sveltezza da la connexiun, poi durar ditg per actualisar tut las clavs!
+preview-failed = Impussibel da leger la datoteca da la clav publica.
+general-error = Errur: { $reason }
+dlg-button-delete = &Stizzar
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Exportà cun success la clav publica!</b>
+openpgp-export-public-fail = <b>Impussibel dad exportar las clavs publicas tschernidas!</b>
+openpgp-export-secret-success = <b>Exportà cun success la clav secreta!</b>
+openpgp-export-secret-fail = <b>Impussibel dad exportar la clav secreta tschernida!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = La clav { $userId } (ID da clav { $keyId }) è vegnida revocada.
+key-ring-pub-key-expired = La clav { $userId } (ID da clav { $keyId }) è scadida.
+key-ring-key-disabled = La clav { $userId } (ID da clav { $keyId }) è deactivada e na po betg vegnir utilisada.
+key-ring-key-invalid = La clav { $userId } (ID da clav { $keyId }) n'è betg valida. Considerescha per plaschair da la verifitgar correctamain.
+key-ring-key-not-trusted = La clav { $userId } (ID da clav { $keyId }) n'ha betg in nivel da confidenza suffizient. Mida per plaschair il nivel da confidenza da tia clav sin «absolut» per pudair l'utilisar per signar.
+key-ring-no-secret-key = I para che ti n'hajas betg la clav secreta per { $userId } (ID da clav { $keyId }) en tes rintg da clavs; ti na pos betg utilisar la clav per signar.
+key-ring-pub-key-not-for-signing = La clav { $userId } (ID da clav { $keyId }) na po betg vegnir duvrada per signar.
+key-ring-pub-key-not-for-encryption = La clav { $userId } (ID da clav { $keyId }) na po betg vegnir duvrada per criptar.
+key-ring-sign-sub-keys-revoked = Tut las sutclavs da signatura da la clav { $userId } (ID da clav { $keyId }) èn vegnidas revocadas.
+key-ring-sign-sub-keys-expired = Tut las sutclavs da signatura da la clav { $userId } (ID da clav { $keyId }) èn scadidas.
+key-ring-sign-sub-keys-unusable = Tut las sutclavs da signatura da la clav { $userId } (ID da clav { $keyId }) èn vegnidas revocadas, èn scadidas u per in auter motiv betg utilisablas.
+key-ring-enc-sub-keys-revoked = Tut las sutclavs da criptadi da la clav { $userId } (ID da clav { $keyId }) èn vegnidas revocadas.
+key-ring-enc-sub-keys-expired = Tut las sutclavs da criptadi da la clav { $userId } (ID da clav { $keyId }) èn scadidas.
+key-ring-enc-sub-keys-unusable = Tut las sutclavs da criptadi da la clav { $userId } (ID da clav { $keyId }) èn vegnidas revocadas, èn scadidas u per in auter motiv betg utilisablas.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Attribut utilisader (maletg JPEG)
+# Strings in key.jsm
+already-revoked = Questa clav è gia vegnida revocada.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Ti es londervi da revocar la clav «{ $identity }».
+    Ti na vegns betg pli a pudair signar cun questa clav ed uschespert che la revocaziun è distribuida, na pon auters betg pli criptar cun questa clav. Igl è dentant era vinavant pussaivel da duvrar la clav per decriptar messadis vegls.
+    Vuls ti cuntinuar?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Ti n'has nagina clav (0x{ $keyId }) che correspunda a quest certificat da revocaziun!
+    Sche ti has pers tia clav, la stos ti importar (p.ex. dad in server da clavs) avant che importar il certificat da revocaziun!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = La clav 0x{ $keyId } è gia vegnida revocada.
+key-man-button-revoke-key = &Revocar la clav
+openpgp-key-revoke-success = Revocà la clav cun success.
+after-revoke-info =
+    La clav è vegnida revocada.
+    Cundivida danovamain questa clav publica, via e-mail u cun la transferir sin servers da clavs, per far a savair tuts che ti has revocà la clav.
+    Uschespert che la software dad autras persunas vegn a savair da la revocaziun, na vegnan els betg pli a duvrar tia veglia clav.
+    Sche ti utiliseschas ina nova clav per la medema adressa d'e-mail ed agiunteschas la nova clav publica als e-mails che ti tramettas, lura vegn l'infurmaziun davart tia clav veglia revocada includida automaticamain.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
+delete-key-title = Stizzar la clav OpenPGP
