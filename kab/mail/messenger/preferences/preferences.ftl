@@ -101,6 +101,13 @@ master-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek uffir a
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = Rnu awal uffir agejdan
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek·inem uffir agejdan, sekcem inekcam-inek·inem n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek·inem.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = rnu awal uffir agejdan
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -538,7 +545,16 @@ master-password-label =
 master-password-button =
     .label = Snifel awal uffir agejdan…
     .accesskey = S
-junk-description = Sbadu iɣewwaṛen imezwar n imaylen ispamen. Iɣewwaṛen n imaylen ispamen n umiḍan yezmer ad ittuswel deg iɣewwaṛen n umiḍan.
+primary-password-description = Awal uffir agejdan ad yeḥrez akk awalen-ik·im uffiren, maca yessefk ad t-teskecmeḍ yiwet tikkelt i yal tiɣimit.
+primary-password-label =
+    .label = Seqdec awal uffir agejdan
+    .accesskey = U
+primary-password-button =
+    .label = Beddel awal uffir agejdan…
+    .accesskey = C
+forms-primary-pw-fips-title = Aql-ak·akem tura deg uskar FIPS. FPIS yesra awal uffir agejdan arilem.
+forms-master-pw-fips-desc = Asnifel n wawal uffir ur yeddi ara
+junk-description = Sbadu iɣewwaren imezwar n yimaylen ispamen. Iɣewwaren n yimaylen ispamen n umiḍan yezmer ad ittuswel deg iɣewwaren n umiḍan.
 junk-label =
     .label = Ticki ceṛḍeɣ iznan inu amzun d ispamen:
     .accesskey = c
