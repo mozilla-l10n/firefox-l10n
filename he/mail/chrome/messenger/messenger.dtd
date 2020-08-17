@@ -503,17 +503,6 @@
 <!ENTITY debugAddonsCmd.accesskey "ת">
 <!ENTITY errorConsoleCmd.label "מסוף שגיאות">
 <!ENTITY errorConsoleCmd.accesskey "ש">
-<!ENTITY scratchpadCmd.label "דף טיוטה">
-<!ENTITY scratchpadCmd.accesskey "ט">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "קבלת הודעות">
@@ -566,7 +555,6 @@
 <!ENTITY forwardAsAttachment.tooltip "העברת ההודעה הנבחרת כקובץ מצורף">
 <!ENTITY fileButton.tooltip "תייק הודעה נבחרת">
 <!ENTITY archiveButton.tooltip "העברה לארכיון של ההודעות הנבחרות">
-<!ENTITY openConversationButton.tooltip "הצגת השיחה של ההודעה הנבחרת">
 <!ENTITY nextButton.tooltip "עבור להודעה הבאה שלא נקראה">
 <!ENTITY nextMsgButton.tooltip "מעבר להודעה הבאה">
 <!ENTITY previousButton.tooltip "עבור אל ההודעה הקודמת שלא נקראה">

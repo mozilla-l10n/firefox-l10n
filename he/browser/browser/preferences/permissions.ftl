@@ -79,11 +79,6 @@ permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = חריגות - חסימת תוכן
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = ביטלת את חסימת התוכן באתרים אלו.
-
 permissions-exceptions-etp-window =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתרים מותר להתקין תוספות. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = חריגות - ניגון אוטומטי
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = באפשרותך לציין לאלו אתרים תמיד מותר או אסור לנגן באופן אוטומטי מדיה עם קול. נא להקליד את כתובת האתר שברצונך לנהל ואז ללחוץ על חסום או הרשה.
 
 ## Site Permissions - Autoplay
 

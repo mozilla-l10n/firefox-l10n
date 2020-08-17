@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ייבוא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
 <!ENTITY importFromUnix.label           "ייבוא העדפות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
-<!ENTITY importFromBookmarks.label      "ייבוא סימניות מ:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "I">

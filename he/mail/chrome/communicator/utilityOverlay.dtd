@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "עריכה">
 <!ENTITY editMenu.accesskey        "ע">
 <!ENTITY undoCmd.label            "בטל">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "ט">
 <!ENTITY redoCmd.label            "בצע שוב">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "צ">
-<!ENTITY cutCmd.label            "גזור">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "ג">
-<!ENTITY copyCmd.label            "העתק">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "ת">
-<!ENTITY pasteCmd.label            "הדבק">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "ה">
 <!ENTITY deleteCmd.label          "מחק">
 <!ENTITY deleteCmd.accesskey        "ח">
-<!ENTITY selectAllCmd.label          "בחר הכול">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "ב">
 <!ENTITY preferencesCmd2.label "אפשרויות">
 <!ENTITY preferencesCmd2.accesskey "ע">
 <!ENTITY preferencesCmdUnix.label       "העדפות">

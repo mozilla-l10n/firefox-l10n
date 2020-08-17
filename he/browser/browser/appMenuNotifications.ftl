@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = ניתן לנהל את התוספות של�
 appmenu-addon-post-install-incognito-checkbox =
     .label = לאפשר להרחבה זו לפעול בחלונות פרטיים
     .accesskey = ל
-appmenu-addon-private-browsing =
-    .label = שינוי להרחבות בחלונות פרטיים
-    .buttonlabel = ניהול הרחבות
-    .buttonaccesskey = נ
-    .secondarybuttonlabel = בסדר, הבנתי
-    .secondarybuttonaccesskey = ב
-appmenu-addon-private-browsing-message = כל הרחבה חדשה שתתווסף אל { -brand-shorter-name } לא תעבוד בחלונות פרטיים אלא אם תאופשר לכך בהגדרות.
-appmenu-addon-private-browsing-learn-more = מידע נוסף על ניהול הגדרות הרחבות
     
 appmenu-new-tab-controlled =
     .label = הלשונית החדשה שלך השתנתה.

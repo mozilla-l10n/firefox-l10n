@@ -35,12 +35,7 @@ connection-proxy-http = שרת מתווך HTTP‏
     .accesskey = H
 connection-proxy-http-port = שער
     .accesskey = ש
-connection-proxy-http-share =
-    .label = שימוש בשרת מתווך זה עבור כל הפרוטוקולים
-    .accesskey = פ
 
-connection-proxy-ssl = שרת מתווך SSL
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = שימוש בשרת מתווך זה גם עבור FTP ו־HTTPS
     .accesskey = ש

@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "כישלון בהתחברות">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "השרת לא נמצא">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "אבוי. יש לנו בעיה למצוא את האתר הזה.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>אם הכתובת הזאת נכונה, הנה שלוש אפשרויות נוספות שכדאי לנסות:</strong>
 <ul>
@@ -34,22 +28,16 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "קובץ לא נמצא">
-
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>בדוק ששם הקובץ אוית נכון, שנעשה שימוש נכון באותיות רישיות ושאין שגיאות הקלדה אחרות.</li> 
 <li>בדוק אם הקובץ הועבר, שינה שם או נמחק.</li> 
 </ul>">
-
-<!ENTITY fileAccessDenied.title "הגישה לקובץ נדחתה">
 
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "שגיאה כללית">
 
 <!ENTITY generic.longDesc "
 <p>מסיבה בלתי ידועה, אין ל־&brandShortName; אפשרות לטעון דף זה.</p>
@@ -63,24 +51,14 @@
 <!ENTITY openPortalLoginPage.label2 "פתיחת דף התחברות לרשת">
 
 <!ENTITY malformedURI.pageTitle "כתובת לא תקנית">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "אבוי. הכתובת הזו לא נראית תקינה.">
-
-<!ENTITY netInterrupt.title "החיבור הופסק">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "תוקף המסמך פג">
-
 <!ENTITY notCached.longDesc "<p>המסמך המבוקש לא זמין במטמון של &brandShortName;.</p><ul><li>כאמצעי זהירות, &brandShortName; לא יבקש שוב אוטומטית מסמכים רגישים.</li><li>לחץ נסה שוב כדי לבקש מחדש את המסמך מאתר האינטרנט.</li></ul>">
-
-<!ENTITY netOffline.title "מצב לא־מקוון">
 
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>לחץ על &quot;נסה שוב&quot; כדי לעבור למצב מקוון ולטעון מחדש את הדף.</li> 
 </ul>">
-
-<!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -88,23 +66,15 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
-
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "החיבור הופסק">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "תם הזמן המוקצב לחיבור">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "כתובת זו אינה מובנת">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -112,14 +82,10 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>נא לבדוק כי הגדרות השרת המתווך שלך נכונות.</li>
   <li>נא ליצור קשר עם מנהל הרשת שלך כדי לוודא כי השרת המתווך מתפקד.</li>
 </ul>">
-
-<!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>נא לבדוק כי הגדרות השרת המתווך שלך נכונות.</li>
@@ -127,22 +93,16 @@
   <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, נא לוודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>">
 
-<!ENTITY redirectLoop.title "הדף מבצע העברה לא תקינה">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>בעיה זו נגרמת לעיתים מסירוב לקבל עוגיות או ניטרולן.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "תגובה לא צפויה מהשרת">
-
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>ודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li> 
 <li>ייכתן וההגדרות השרת אינן תקניות</li> 
 </ul>">
-
-<!ENTITY nssFailure2.title "חיבור מאובטח נכשל">
 
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
@@ -150,9 +110,6 @@
   <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "אזהרה: סכנת אבטחה אפשרית לפניך">
-<!ENTITY certerror.sts.longpagetitle  "לא בוצעה התחברות: חולשת אבטחה אפשרית">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -184,11 +141,7 @@ was trying to connect. -->
 <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, יש לוודא כי &brandShortName; מורשה לגישה לרשת.</li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; מנע מדף זה להיטען בדרך הזו מכיוון שלדף יש מדיניות אבטחת תוכן שאינה מאפשרת זאת.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; מנע מדף זה להיטען בהקשר זה מכיוון שלדף יש מדיניות X-Frame-Options שאינה מרשה זאת.</p>">
 
@@ -199,11 +152,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה כדי לסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
 
-<!ENTITY remoteXUL.title "XUL מרוחק">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "לא ניתן להתחבר באופן מאובטח">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -214,15 +163,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "ל־<span class='hostname'></span> יש מדיניות אבטחה בשם אבטחת תעבורה מחמירה של HTTP ‏(HSTS), כלומר &brandShortName; יכול להתחבר לאתר באופן מאובטח בלבד. לא ניתן להוסיף חריגה כדי לבקר באתר זה.">
 <!ENTITY certerror.copyToClipboard.label "העתקת טקסט ללוח">
 
-<!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגיית אבטחה מיושנת החשופה לתקיפות. תוקף יכול לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "עמוד חסום">
-
-<!ENTITY certerror.mitm.title "תכנית כלשהי מונעת מ־&brandShortName; להתחבר באופן מאובטח לאתר הזה">
 
 <!ENTITY certerror.mitm.longDesc "‏<span class='hostname'></span> הוא ככל הנראה אתר בטוח, אך לא ניתן היה ליצור חיבור מאובטח. בעיה זו נגרמת על־ידי <span class='mitm-name'/>, שהיא תוכנה במחשב או ברשת שלך.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "אם תכנית האנטי־וירוס שלך כוללת תכונה הסורקת חיבורים מוצפנים (המכונה לעתים קרובות ”סריקת אינטרנט” או ”סריקת https”), ניתן לנסות להשבית את התכונה. אם פעולה זו לא סייעה בפתרון התקלה, באפשרותך להסיר ולהתקין מחדש את תכנית האנטי־וירוס.">
@@ -230,14 +175,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "אם <span class='mitm-name'/> אינו מוכר לך, יתכן שמדובר בתקיפה ושאולי מוטב לך לא להמשיך אל האתר.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "אם <span class='mitm-name'/> אינו מוכר לך, יתכן שמדובר בתקיפה ואין לך אף דרך להמשיך אל האתר.">
 
-<!ENTITY clockSkewError.title "השעון של המחשב שלך אינו מכוון">
-
 <!ENTITY clockSkewError.longDesc "המחשב שלך משוכנע שעכשיו <span id='wrongSystemTime_systemDate1'/>, מה שמונע מ־&brandShortName; להתחבר באופן מאובטח. כדי לבקר ב־<span class='hostname'></span>, נא לעדכן את שעון המחשב שלך בהגדרות המערכת לשעה, התאריך ואזור הזמן הנוכחיים ואז לרענן את <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?">
 <!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">
-
-<!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
 
 <!ENTITY enableTls10.longDesc "יתכן שאתר זה אינו תומך בפרוטוקול TLS 1.2 שהוא הגרסה המינימלית הנתמכת על־ידי &brandShortName;. הפעלת TLS 1.0 ו־TLS 1.1 עשויה לאפשר לחיבור זה להצליח.">
 <!ENTITY enableTls10.note "TLS 1.0 ו־TLS 1.1 יושבתו לצמיתות בגרסה עתידית.">

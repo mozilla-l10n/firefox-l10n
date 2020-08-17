@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(גלישה פרטית)">
-
 <!ENTITY appmenu.tooltip                     "פתיחת תפריט">
 <!ENTITY navbarOverflow.label                "כלים נוספים…">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "נעיצת לשונית">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "נ">
 <!ENTITY  unpinTab.label                     "ביטול נעיצת לשונית">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "נ">
-<!ENTITY  sendPageToDevice.label             "שליחת דף למכשיר">
-<!ENTITY  sendPageToDevice.accesskey         "מ">
-<!ENTITY  sendLinkToDevice.label             "שליחת קישור למכשיר">
-<!ENTITY  sendLinkToDevice.accesskey         "מ">
-<!ENTITY  undoCloseTab.label                 "ביטול סגירת לשונית">
-<!ENTITY  undoCloseTab.accesskey             "ב">
-<!ENTITY  hiddenTabs.label                   "לשוניות מוסתרות">
 
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "חיפוש לשוניות">
 
 <!ENTITY tabCmd.label "לשונית חדשה">
-<!ENTITY tabCmd.accesskey "ש">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "פתיחת מיקום">
 <!ENTITY openFileCmd.label "פתיחת קובץ…">
-<!ENTITY openFileCmd.accesskey "ק">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "הגדרת עמוד…">
-<!ENTITY printSetupCmd.accesskey "ה">
-<!ENTITY printPreviewCmd.label "תצוגה לפני הדפסה">
-<!ENTITY printPreviewCmd.accesskey "נ">
 <!ENTITY printCmd.label "הדפסה…">
-<!ENTITY printCmd.accesskey "ד">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "ייבוא מדפדפן אחר…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "י">
 
 <!ENTITY taskManagerCmd.label "מנהל משימות">
 
-<!ENTITY goOfflineCmd.label "עבודה לא־מקוונת">
-<!ENTITY goOfflineCmd.accesskey "ל">
-
 <!ENTITY menubarCmd.label "שורת תפריט">
 <!ENTITY menubarCmd.accesskey "פ">
-<!ENTITY navbarCmd.label "סרגל כלים ניווט">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,70 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "סימניות">
 <!ENTITY bookmarksToolbarItem.label "פריטי סרגל כלים סימניות">
 
-<!ENTITY pageSourceCmd.label "מקור הדף">
-<!ENTITY pageSourceCmd.accesskey "ר">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "U">
-
-<!ENTITY pageInfoCmd.label "מידע על הדף">
-<!ENTITY pageInfoCmd.accesskey "מ">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "ניפוי שגיאות פריסה">
-<!ENTITY ldbCmd.accesskey "פ">
-<!ENTITY mirrorTabCmd.label "שכפול לשונית">
-<!ENTITY mirrorTabCmd.accesskey "כ">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "כניסה למסך מלא">
-<!ENTITY enterFullScreenCmd.accesskey "מ">
-<!ENTITY exitFullScreenCmd.label "יציאה ממסך מלא">
-<!ENTITY exitFullScreenCmd.accesskey "י">
-
 <!ENTITY fullScreenCmd.label "מסך מלא">
-<!ENTITY fullScreenCmd.accesskey "ס">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "הצגת כל הלשוניות">
-<!ENTITY showAllTabsCmd.accesskey "כ">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "התחברות אל &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "פתיחת ההעדפות של &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "התחברות מחדש אל &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "אימות החשבון שלך">
-
-
-<!ENTITY fullScreenMinimize.tooltip "מזעור">
-<!ENTITY fullScreenRestore.tooltip "שחזור">
-<!ENTITY fullScreenClose.tooltip "סגירה">
-<!ENTITY fullScreenAutohide.label "הסתרת סרגלים">
-<!ENTITY fullScreenAutohide.accesskey "ה">
-<!ENTITY fullScreenExit.label "יציאה ממצב מסך מלא">
-<!ENTITY fullScreenExit.accesskey "צ">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Firefox איתך בכל מקום">
-<!ENTITY fxa.signin.description.label "קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.">
-<!ENTITY fxa.signin.button.label "הפעלת &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "נא לבדוק את הדוא״ל שלך">
-<!ENTITY fxa.unverified.description.label "יש לאמת את החשבון שלך לפני שיהיה ניתן לסנכרן.">
-<!ENTITY fxa.unverified.button.label "פתיחת ההגדרות של &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "מחובר בתור">
-<!ENTITY fxa.menu.manageAccount.label "ניהול חשבון…">
-<!ENTITY fxa.menu.syncSettings.label "הגדרות &syncBrand.shortName.label;…">
 
 <!ENTITY pictureInPictureHideToggle.label "הסתרת הכפתור של תמונה בתוך תמונה">
 <!ENTITY pictureInPictureHideToggle.accesskey "ה">
@@ -191,14 +81,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "יציאה ממסך מלא (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "יציאה ממסך מלא (Esc)">
-<!ENTITY leaveDOMFullScreen.label "יציאה ממסך מלא">
-<!ENTITY leaveDOMFullScreen.accesskey "י">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "תמונה בתוך תמונה">
-<!ENTITY pictureInPicture.accesskey "ב">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -209,86 +91,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.">
 <!ENTITY pointerlockWarning.generic.label "למסמך זה יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.">
 
-<!ENTITY closeWindow.label "סגירת חלון">
-<!ENTITY closeWindow.accesskey "ס">
-
-<!ENTITY bookmarksMenu.label "סימניות">
-<!ENTITY bookmarksMenu.accesskey "ס">
-<!ENTITY bookmarkThisPageCmd.label "יצירת סימנייה לדף זה">
-<!ENTITY editThisBookmarkCmd.label "עריכת סימנייה זו">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
-
 <!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
 <!ENTITY recentBookmarks.label "סימניות שנוספו לאחרונה">
-<!ENTITY otherBookmarksCmd.label "סימניות אחרות">
-<!ENTITY mobileBookmarksCmd.label "סימניות מהנייד">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
-
-<!ENTITY backCmd.label                "אחורה">
-<!ENTITY backCmd.accesskey            "ז">
-<!ENTITY backButton.tooltip           "חזרה דף אחד אחורה">
-<!ENTITY forwardCmd.label             "קדימה">
-<!ENTITY forwardCmd.accesskey         "ק">
-<!ENTITY forwardButton.tooltip        "התקדמות דף אחד קדימה">
-<!ENTITY backForwardButtonMenu.tooltip "לחיצה ימנית או משיכה מטה כדי להציג היסטוריה">
-<!ENTITY backForwardButtonMenuMac.tooltip "משיכה מטה כדי להציג היסטוריה">
-<!ENTITY reloadCmd.label              "טעינה מחדש">
-<!ENTITY reloadCmd.accesskey          "מ">
-<!ENTITY stopCmd.label                "עצירה">
-<!ENTITY stopCmd.accesskey            "ע">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "מעבר לכתובת שבסרגל המיקום">
 
 <!ENTITY printButton.label            "הדפסה">
 <!ENTITY printButton.tooltip          "הדפסת דף זה">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "הצגת נתוני אתר">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "פתיחת חלונית הודעות">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "פתיחת חלונית בקשת מיקום">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "פתיחת לוח ניגון אוטומטי">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "פתיחת חלונית ההודעות של התקנת תוספות">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "ניהול הרשאות חילוץ ממשטח ציור">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "פתיחת חלונית הודעת אחסון לא מקוון">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "פתיחת חלונית הודעת שמירת ססמה">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ניהול שימוש בתוספים חיצוניים">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "החלפת מצב קבלת התרעות מהאתר">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "שמירת נתונים באחסון קבוע">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "הדפדפן נשלט מרחוק">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "פתיחת חלונית Web Authentication">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "פתיחת חלונית הרשאות לפעילות בדפדפן">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ניהול שיתוף המצלמה ו/או המיקרופון שלך עם האתר">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ניהול שיתוף המיקרופון שלך עם האתר">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ניהול שיתוף החלונות או המסך שלך עם האתר">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "פתיחת חלונית הודעת התקנה">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "תרגום עמוד זה">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ניהול תרגומי עמודים">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "ניהול השימוש בתכניות DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "פתיחת חלונית MIDI">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "חסמת את המצלמה שלך עבור אתר זה.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "חסמת את המיקרופון שלך עבור אתר זה.">
-<!ENTITY urlbar.screenBlocked.tooltip            "חסמת מפני האתר הזה את האפשרות לשתף את המסך שלך.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "חסמת מפני האתר הזה לגשת לנתוני המיקום שלך.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "חסמת התרעות עבור אתר זה.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "חסמת את האתר הזה משמירת נתונים קבועים.">
-<!ENTITY urlbar.popupBlocked.tooltip             "חסמת חלונות קופצים עבור אתר זה.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "חסמת ניגון אוטומטי של מדיה עם קול עבור אתר זה.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "חסמת חילוץ נתוני משטחי ציור עבור אתר זה.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "חסמת מפני האתר הזה את האפשרות להשתמש בתוסף החיצוני Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
-<!ENTITY urlbar.installBlocked.tooltip           "חסמת התקנת תוספות עבור אתר זה.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
-
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "הענקת לאתר זה הרשאות נוספות.">
 
 
 <!ENTITY searchItem.title             "חיפוש">
@@ -298,7 +106,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "דף הבית של &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "סימניות">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "סימניות">
 <!ENTITY bookmarksMenuButton2.label         "תפריט סימניות">
@@ -313,109 +120,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "הוספת תפריט הסימניות לסרגל הכלים">
 <!ENTITY removeBookmarksMenu.label          "הסרת תפריט הסימניות מסרגל הכלים">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "היסטוריה">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "כלים">
-<!ENTITY toolsMenu.accesskey          "כ">
-
-<!ENTITY keywordfield.label           "הוספת מילת מפתח לחיפוש זה…">
-<!ENTITY keywordfield.accesskey       "ס">
 
 <!ENTITY downloads.label              "הורדות">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "הורדות">
-<!ENTITY downloads.accesskey          "ד">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "תוספות">
-<!ENTITY addons.accesskey             "ת">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "כלי פיתוח">
-<!ENTITY webDeveloperMenu.accesskey   "כ">
-
-<!ENTITY inspectContextMenu.label     "חקירת רכיב">
-<!ENTITY inspectContextMenu.accesskey "ח">
-
-<!ENTITY inspectA11YContextMenu.label     "חקירת מאפייני נגישות">
-
-<!ENTITY fileMenu.label         "קובץ">
-<!ENTITY fileMenu.accesskey       "ק">
-
-<!ENTITY newUserContext.label             "מגירת לשוניות חדשה">
-<!ENTITY newUserContext.accesskey         "ג">
-<!ENTITY manageUserContext.label          "ניהול מגירות">
-<!ENTITY manageUserContext.accesskey      "ג">
 
 <!ENTITY newNavigatorCmd.label        "חלון חדש">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "ח">
 <!ENTITY newPrivateWindow.label     "חלון פרטי חדש">
-<!ENTITY newPrivateWindow.accesskey "פ">
 
 <!ENTITY editMenu.label         "עריכה">
-<!ENTITY editMenu.accesskey       "ע">
-<!ENTITY undoCmd.label            "ביטול">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "ט">
-<!ENTITY redoCmd.label            "ביצוע שוב">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "צ">
-<!ENTITY cutCmd.label           "גזירה">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "ג">
-<!ENTITY copyCmd.label            "העתקה">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "ת">
-<!ENTITY pasteCmd.label           "הדבקה">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "ה">
-<!ENTITY deleteCmd.label          "מחיקה">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "ח">
-<!ENTITY selectAllCmd.label         "בחירת הכל">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "ב">
 <!ENTITY preferencesCmd2.label       "אפשרויות">
-<!ENTITY preferencesCmd2.accesskey     "א">
 <!ENTITY preferencesCmdUnix.label       "העדפות">
-<!ENTITY preferencesCmdUnix.accesskey     "ד">
 <!ENTITY logins.label                           "כניסות וססמאות">
-
-<!ENTITY clearRecentHistory.label               "ניקוי היסטוריה אחרונה…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "תצוגה">
-<!ENTITY viewMenu.accesskey       "ת">
-<!ENTITY viewToolbarsMenu.label       "סרגלי כלים">
-<!ENTITY viewToolbarsMenu.accesskey     "ם">
-<!ENTITY viewSidebarMenu.label "סרגל צד">
-<!ENTITY viewSidebarMenu.accesskey "ג">
-
-<!ENTITY viewCustomizeToolbar.label       "התאמה אישית…">
-<!ENTITY viewCustomizeToolbar.accesskey     "ה">
 
 <!ENTITY overflowCustomizeToolbar.label       "התאמה אישית של סרגל הכלים…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ס">
 
 <!ENTITY historyMenu.label "היסטוריה">
-<!ENTITY historyMenu.accesskey "ה">
 <!ENTITY historyUndoMenu.label "לשוניות שנסגרו לאחרונה">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "חלונות שנסגרו לאחרונה">
-<!ENTITY historyRestoreLastSession.label "שחזור הפעלה קודמת">
-
-<!ENTITY showAllHistoryCmd2.label "הצגת כל ההיסטוריה">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
 <!ENTITY appMenuHistory.clearRecent.label "ניקוי היסטוריה אחרונה…">
@@ -445,10 +174,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "להציג כאן את הלשוניות שלך ממכשירים אחרים?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "פתיחת העדפות Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "יש להיכנס כדי לצפות ברשימת הלשוניות שלך ממכשירים אחרים.">
 <!ENTITY appMenuRemoteTabs.welcome.label "הצגת רשימה של הלשוניות שלך ממכשירים אחרים.">
 <!ENTITY appMenuRemoteTabs.unverified.label "יש לאמת את החשבון שלך.">
-<!ENTITY appMenuRemoteTabs.signin.label "התחברות אל Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "התחברות אל &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "הפעלת &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ניהול מכשירים…">
@@ -466,79 +193,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "הוספה לתפריט הצף">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "ס">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "הצמדה לתפריט הצף">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "צ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "הסרת הצמדה מהתפריט הצף">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "מ">
 <!ENTITY customizeMenu.removeFromToolbar.label "הסרה מסרגל הכלים">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ר">
 <!ENTITY customizeMenu.addMoreItems.label "הוספת פריטים נוספים…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "נ">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "הסתרה אוטומטית בסרגל הכלים">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "א">
-<!ENTITY customizeMenu.manageExtension.label "ניהול הרחבה">
-<!ENTITY customizeMenu.manageExtension.accesskey "ה">
-<!ENTITY customizeMenu.removeExtension.label "הסרת הרחבה">
-<!ENTITY customizeMenu.removeExtension.accesskey "ס">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "דיווח על הרחבה">
-<!ENTITY customizeMenu.reportExtension.accesskey "ד">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "עוד">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "חיפוש או הקלדת כתובת">
-<!ENTITY urlbar.accesskey             "ח">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "הרחבה:">
-<!ENTITY urlbar.switchToTab.label     "מעבר ללשונית:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "עצה:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "קבלו עזרה במציאת הדברים החשובים לכם! חפשו את הסמל &#x1F50E; שליד תוצאות החיפוש.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "שינוי אפשרויות…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "א">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "שינוי העדפות…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "ה">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Search query">
 
 <!ENTITY contentSearchSubmit.tooltip  "שליחת החיפוש">
 
@@ -547,200 +212,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "חיפוש">
 <!ENTITY searchIcon.tooltip           "חיפוש">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "חיפוש אחר ">
-<!ENTITY searchWith.label             " עם:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "חיפוש באמצעות ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "חיפוש עם:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "שינוי הגדרות החיפוש">
-<!ENTITY changeSearchSettings.tooltip "שינוי הגדרות החיפוש">
-
-<!ENTITY searchInNewTab.label         "חיפוש בלשונית חדשה">
-<!ENTITY searchInNewTab.accesskey     "ל">
-<!ENTITY searchSetAsDefault.label     "הגדרה כמנוע חיפוש ברירת מחדל">
-<!ENTITY searchSetAsDefault.accesskey "ב">
-
-<!ENTITY openLinkCmdInTab.label       "פתיחת קישור בלשונית חדשה">
-
 <!ENTITY openLinkCmdInTab.accesskey   "ל">
-<!ENTITY openLinkCmd.label            "פתיחת קישור בחלון חדש">
-<!ENTITY openLinkCmd.accesskey        "ח">
-<!ENTITY openLinkInPrivateWindowCmd.label "פתיחת קישור בחלון פרטי חדש">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "פ">
-<!ENTITY openLinkCmdInCurrent.label     "פתיחת קישור">
-<!ENTITY openLinkCmdInCurrent.accesskey "פ">
-<!ENTITY openFrameCmdInTab.label      "פתיחת מסגרת בלשונית חדשה">
-<!ENTITY openFrameCmdInTab.accesskey  "ל">
-<!ENTITY openFrameCmd.label           "פתיחת מסגרת בחלון חדש">
-<!ENTITY openFrameCmd.accesskey       "ח">
-<!ENTITY openLinkCmdInContainerTab.label "פתיחת קישור במגירת לשוניות חדשה">
-<!ENTITY openLinkCmdInContainerTab.accesskey "מ">
-<!ENTITY showOnlyThisFrameCmd.label     "הצגת מסגרת זו בלבד">
-<!ENTITY showOnlyThisFrameCmd.accesskey "ה">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "טעינת מסגרת מחדש">
-<!ENTITY reloadFrameCmd.accesskey     "ט">
-<!ENTITY viewPartialSourceForSelectionCmd.label "הצגת קוד מקור של קטע נבחר">
-<!ENTITY viewPartialSourceCmd.accesskey "ה">
-<!ENTITY viewPageSourceCmd.label      "הצגת מקור הדף">
-<!ENTITY viewPageSourceCmd.accesskey  "מ">
-<!ENTITY viewFrameSourceCmd.label     "הצגת מקור המסגרת">
-<!ENTITY viewFrameSourceCmd.accesskey "מ">
-<!ENTITY viewPageInfoCmd.label        "הצגת מידע על הדף">
-<!ENTITY viewPageInfoCmd.accesskey    "ד">
-<!ENTITY viewFrameInfoCmd.label       "הצגת מידע על המסגרת">
-<!ENTITY viewFrameInfoCmd.accesskey   "ד">
-<!ENTITY reloadImageCmd.label         "טעינת תמונה מחדש">
-<!ENTITY reloadImageCmd.accesskey     "ת">
-<!ENTITY viewImageCmd.label           "הצגת תמונה">
-<!ENTITY viewImageCmd.accesskey       "צ">
-<!ENTITY viewImageInfoCmd.label       "הצגת פרטי תמונה">
-<!ENTITY viewImageInfoCmd.accesskey   "מ">
-<!ENTITY viewImageDescCmd.label       "הצגת תיאור">
-<!ENTITY viewImageDescCmd.accesskey   "ת">
-<!ENTITY viewVideoCmd.label           "צפיה בוידאו">
-<!ENTITY viewVideoCmd.accesskey       "צ">
-<!ENTITY viewBGImageCmd.label         "הצגת תמונת רקע">
-<!ENTITY viewBGImageCmd.accesskey     "ת">
-<!ENTITY setDesktopBackgroundCmd.label      "קביעה כתמונת רקע בשולחן העבודה…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "כ">
-<!ENTITY bookmarkPageCmd2.label       "יצירת סימנייה לדף זה">
-<!ENTITY bookmarkPageCmd2.accesskey   "ס">
-<!ENTITY bookmarkThisLinkCmd.label      "יצירת סימנייה לקישור זה">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
-<!ENTITY bookmarkThisFrameCmd.label      "יצירת סימנייה למסגרת זו">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
 
 <!ENTITY pageAction.copyLink.label    "העתקת קישור">
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "שמירה אל Pocket">
-
 <!ENTITY saveToPocketCmd.label        "שמירת דף אל Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "ש">
-<!ENTITY saveLinkToPocketCmd.label    "שמירת קישור אל Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "מ">
 <!ENTITY pocketMenuitem.label         "הצגת רשימת Pocket">
 
 <!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
-<!ENTITY emailPageCmd.accesskey       "ד">
-<!ENTITY savePageCmd.label            "שמירת דף בשם…">
-<!ENTITY savePageCmd.accesskey        "ר">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "ב">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "שמירת מסגרת בשם…">
-<!ENTITY saveFrameCmd.accesskey       "מ">
-<!ENTITY printFrameCmd.label          "הדפסת מסגרת…">
-<!ENTITY printFrameCmd.accesskey      "ה">
-<!ENTITY saveLinkCmd.label            "שמירת קישור בשם…">
-<!ENTITY saveLinkCmd.accesskey        "מ">
-<!ENTITY saveImageCmd.label           "שמירת תמונה בשם…">
-<!ENTITY saveImageCmd.accesskey       "ב">
-<!ENTITY saveVideoCmd.label           "שמירת וידאו בשם…">
-<!ENTITY saveVideoCmd.accesskey       "מ">
-<!ENTITY saveAudioCmd.label           "שמירת אודיו בשם…">
-<!ENTITY saveAudioCmd.accesskey       "מ">
-<!ENTITY emailImageCmd.label          "שליחת תמונה בדוא״ל…">
-<!ENTITY emailImageCmd.accesskey      "ת">
-<!ENTITY emailVideoCmd.label          "שליחת וידאו בדוא״ל…">
-<!ENTITY emailVideoCmd.accesskey      "ו">
-<!ENTITY emailAudioCmd.label          "שליחת אודיו בדוא״ל…">
-<!ENTITY emailAudioCmd.accesskey      "א">
-<!ENTITY playPluginCmd.label          "הפעלת תוסף חיצוני זה">
-<!ENTITY playPluginCmd.accesskey      "ת">
-<!ENTITY hidePluginCmd.label          "הסתרת תוסף חיצוני זה">
-<!ENTITY hidePluginCmd.accesskey      "ס">
-<!ENTITY copyLinkCmd.label            "העתקת מיקום קישור">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "ה">
-<!ENTITY copyImageCmd.label           "העתקת מיקום תמונה">
-<!ENTITY copyImageCmd.accesskey       "ע">
-<!ENTITY copyImageContentsCmd.label   "העתקת תמונה">
-<!ENTITY copyImageContentsCmd.accesskey  "ת">
-<!ENTITY copyVideoURLCmd.label        "העתקת מיקום וידאו">
-<!ENTITY copyVideoURLCmd.accesskey    "ה">
-<!ENTITY copyAudioURLCmd.label        "העתקת מיקום אודיו">
-<!ENTITY copyAudioURLCmd.accesskey    "ה">
-<!ENTITY copyEmailCmd.label           "העתקת כתובת דוא״ל">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "כ">
-<!ENTITY thisFrameMenu.label              "מסגרת זו">
-<!ENTITY thisFrameMenu.accesskey          "ג">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "ניגון">
-<!ENTITY mediaPlay.accesskey         "נ">
-<!ENTITY mediaPause.label            "השהיה">
-<!ENTITY mediaPause.accesskey        "ה">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "השתקה">
-<!ENTITY mediaMute.accesskey         "ש">
-<!ENTITY mediaUnmute.label           "ביטול השתקה">
-<!ENTITY mediaUnmute.accesskey       "ש">
-<!ENTITY mediaPlaybackRate2.label     "מהירות נגינה">
-<!ENTITY mediaPlaybackRate2.accesskey "נ">
-<!ENTITY mediaPlaybackRate050x2.label "אטית (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "א">
-<!ENTITY mediaPlaybackRate100x2.label "רגילה">
-<!ENTITY mediaPlaybackRate100x2.accesskey "ר">
-<!ENTITY mediaPlaybackRate125x2.label "מהירה (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "מ">
-<!ENTITY mediaPlaybackRate150x2.label "מהירה יותר (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "י">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "מטורפת (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "ט">
-<!ENTITY mediaLoop.label             "לולאה">
-<!ENTITY mediaLoop.accesskey         "ל">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "הצגת פקדים">
-<!ENTITY mediaShowControls.accesskey "פ">
-<!ENTITY mediaHideControls.label     "הסתרת פקדים">
-<!ENTITY mediaHideControls.accesskey "פ">
-<!ENTITY videoFullScreen.label       "מסך מלא">
-<!ENTITY videoFullScreen.accesskey   "מ">
-<!ENTITY videoSaveImage.label        "שמירת צילום בשם…">
-<!ENTITY videoSaveImage.accesskey    "צ">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "הצגת סטטיסטיקה">
-<!ENTITY videoShowStats.accesskey    "צ">
-<!ENTITY videoHideStats.label        "הסתרת סטטיסטיקות">
-<!ENTITY videoHideStats.accesskey    "ס">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -748,53 +229,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "ק">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "התרחקות">
-<!ENTITY fullZoomReduceCmd.accesskey    "ר">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "איפוס">
-<!ENTITY fullZoomResetCmd.accesskey     "א">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "שינוי גודל טקסט בלבד">
-<!ENTITY fullZoomToggleCmd.accesskey    "ט">
-
 <!ENTITY fullZoom.label                 "מרחק מתצוגה">
-<!ENTITY fullZoom.accesskey             "ת">
 
 <!ENTITY sidebarCloseButton.tooltip     "סגירת סרגל הצד">
-<!ENTITY sidebarMenuClose.label         "סגירת סרגל הצד">
 
 <!ENTITY quitApplicationCmdWin2.label       "יציאה">
 <!ENTITY quitApplicationCmdWin2.accesskey   "צ">
 <!ENTITY quitApplicationCmdWin2.tooltip     "יציאה מ־&brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "יציאה">
 <!ENTITY quitApplicationCmd.accesskey   "צ">
 <!ENTITY quitApplicationCmdMac2.label   "יציאה מ־&brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "סגירה">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "ג">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "סגנון דף">
-<!ENTITY pageStyleMenu.accesskey "נ">
-<!ENTITY pageStyleNoStyle.label "ללא סגנון">
-<!ENTITY pageStyleNoStyle.accesskey "ל">
-<!ENTITY pageStylePersistentOnly.label "סגנון דף בסיסי">
-<!ENTITY pageStylePersistentOnly.accesskey "ס">
 
 <!ENTITY allowPopups.accesskey "ח">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -805,169 +249,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "ע">
 <!ENTITY dontShowMessage.accesskey "א">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "הפיכת כיוון דף">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "פ">
-<!ENTITY bidiSwitchTextDirectionItem.label        "הפוך כיוון כתיבה">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "כ">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "חיפוש בדף זה…">
-<!ENTITY findOnCmd.accesskey "ח">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "מצא שוב">
-<!ENTITY findAgainCmd.accesskey "ש">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "הוספת מילונים…">
 <!ENTITY spellAddDictionaries.accesskey "ה">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "סיום">
-<!ENTITY editBookmark.showForNewBookmarks.label       "הצגת העורך בזמן שמירה">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "ה">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "אבטחת האתר">
-
-<!ENTITY identity.connection "חיבור">
-<!ENTITY identity.connectionSecure "חיבור מאובטח">
-<!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
-<!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
-<!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
-<!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
-<!ENTITY identity.extensionPage "עמוד זה נטען מתוך הרחבה.">
-<!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
-<!ENTITY identity.customRoot "חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים מהדף שאינם בטוחים.">
-<!ENTITY identity.passiveLoaded "חלקים מדף זה אינם מאובטחים (כגון תמונות).">
-<!ENTITY identity.activeLoaded "ניטרלת את אמצעי האבטחה על דף זה.">
-<!ENTITY identity.weakEncryption "דף זה משתמש בהצפנה חלשה.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "החיבור שלך לאתר זה אינו פרטי. המידע שנשלח זמין לצפייה לאחרים (כגון ססמאות, הודעות, כרטיסי אשראי וכו׳).">
-<!ENTITY identity.description.insecureLoginForms "פרטי ההתחברות שיוכנסו בדף זה אינם מאובטחים ועלולים להיות בסכנה.">
-<!ENTITY identity.description.weakCipher "החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.">
-<!ENTITY identity.description.weakCipher2 "אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
-<!ENTITY identity.description.passiveLoaded "החיבור שלך לאתר זה אינו פרטי, ומידע שישותף עם האתר עשוי להיות נגיש לאחרים.">
-<!ENTITY identity.description.passiveLoaded2 "אתר זה מכיל תוכן שאינו מאובטח (כגון תמונות).">
-<!ENTITY identity.description.passiveLoaded3 "למרות ש־&brandShortName; חסם חלק מהתוכן, עדיין קיים בדף תוכן שאינו מאובטח (כגון תמונות).">
-<!ENTITY identity.description.activeLoaded "אתר זה מכיל תוכן שאינו מאובטח (כגון תסריטים) והחיבור שלך אליו אינו פרטי.">
-<!ENTITY identity.description.activeLoaded2 "מידע שישותף עם אתר זה, כגון ססמאות, הודעות, פרטי כרטיס האשראי וכדומה, עשוי להיות נגיש לאחרים.">
-<!ENTITY identity.description.customRoot "‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת.">
-
-<!ENTITY identity.enableMixedContentBlocking.label "הפעלת הגנה">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "ג">
-<!ENTITY identity.disableMixedContentBlocking.label "נטרול ההגנה לבינתיים">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "נ">
-<!ENTITY identity.learnMore "מידע נוסף">
-
-<!ENTITY identity.removeCertException.label "הסרת חריגה">
-<!ENTITY identity.removeCertException.accesskey "ס">
-
-<!ENTITY identity.moreInfoLinkText2 "מידע נוסף">
-
-<!ENTITY identity.clearSiteData "ניקוי עוגיות ונתוני אתרים…">
-
-<!ENTITY identity.permissions "הרשאות">
-<!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
-<!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
-<!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
-<!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות חסימת תוכן">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "לשוניות מסונכרנות">
-
-<!ENTITY syncedTabs.sidebar.label              "לשוניות מסונכרנות">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "התחברות אל &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "ה">
-<!ENTITY syncSyncNowItem.label        "סנכרון כעת">
-<!ENTITY syncSyncNowItemSyncing.label "בתהליך סנכרון…">
-<!ENTITY syncSyncNowItem.accesskey    "ס">
-<!ENTITY syncReAuthItem.label         "התחברות מחדש אל &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "מ">
-<!ENTITY syncToolbarButton.label      "Sync">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "הסתרה אוטומטית">
-
-<!ENTITY getUserMedia.selectCamera.label "מצלמה לשיתוף:">
-<!ENTITY getUserMedia.selectCamera.accesskey "צ">
-<!ENTITY getUserMedia.selectMicrophone.label "מיקרופון לשיתוף:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "מ">
-<!ENTITY getUserMedia.audioCapture.label "השמע מהלשונית יהיה שיתופי.">
-<!ENTITY getUserMedia.allWindowsShared.message "ישותפו כל החלונות הגלויים על המסך.">
-
-<!ENTITY contentBlocking.title "חסימת תוכן">
-<!ENTITY contentBlocking.detected "זוהה תוכן הניתן לחסימה באתר זה.">
-<!ENTITY contentBlocking.notDetected "לא זוהה תוכן הניתן לחסימה בדף זה.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "רכיבי מעקב">
-
-<!ENTITY contentBlocking.manageSettings.label "ניהול חסימת תוכן">
-<!ENTITY contentBlocking.manageSettings.accesskey "נ">
-
-<!ENTITY contentBlocking.trackersView.label "רכיבי מעקב">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "כדי לחסום את כל רכיבי המעקב, יש להגדיר את חסימת התוכן לרמת “מחמיר”.">
-
-<!ENTITY contentBlocking.cookies.label "עוגיות">
-<!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
-
-<!ENTITY contentBlocking.cryptominers.label "כורי מטבעות דיגיטליים">
-<!ENTITY contentBlocking.cryptominersView.label "כורי מטבעות דיגיטליים">
-
-<!ENTITY contentBlocking.fingerprinters.label "רכיבי זהות דיגיטלית">
-<!ENTITY contentBlocking.fingerprintersView.label "רכיבי זהות דיגיטלית">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "דיווח על בעיה">
-<!ENTITY contentBlocking.breakageReportView.label "דיווח על בעיות">
-<!ENTITY contentBlocking.breakageReportView2.description "חסימת תוכן עשויה לגרום לתקלות במגוון אתרים. עצם הדיווח מצדך, מסייע בשיפור &brandShortName; לטובת הכלל. (פעולה זו תשלח כתובת לרבות מידע על הגדרות הדפדפן שלך ל‏־Mozilla.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "מידע נוסף">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "כתובת">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "באילו בעיות נתקלת? (לא חובה)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "שליחת דיווח">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "ביטול">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "השבתת החסימה באתר זה">
-<!ENTITY trackingProtection.unblock5.accesskey "ש">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "השבתת החסימה באופן זמני">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "ש">
-<!ENTITY trackingProtection.block6.label "הפעלת החסימה באתר זה">
-<!ENTITY trackingProtection.block6.accesskey "פ">
-<!ENTITY trackingProtection.reload2.label "טעינה מחדש של העמוד">
-<!ENTITY trackingProtection.reload2.accesskey "ט">
-
-<!ENTITY pluginNotification.showAll.label "הצגת הכל">
-<!ENTITY pluginNotification.showAll.accesskey "כ">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "סגירה">
@@ -976,38 +270,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "המשך גלישה בטוחה!">
 <!ENTITY panicButton.thankyou.buttonlabel         "תודה!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "מידע נוסף על ניהול זכויות דיגיטלי…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "ז">
-
 <!ENTITY updateAvailable.panelUI.label "הורדת עדכון &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "הורדת עותק חדש של &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "לא ניתן לבצע עדכונים נוספים">
 <!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "הלשונית החדשה שלך השתנתה.">
-<!ENTITY newTabControlled.keepButton.label "להשאיר שינויים">
-<!ENTITY newTabControlled.keepButton.accesskey "ש">
-<!ENTITY newTabControlled.disableButton.label "השבתת הרחבה">
-<!ENTITY newTabControlled.disableButton.accesskey "ה">
-
-<!ENTITY homepageControlled.message "הרחבה שינתה את הדף המופיע כדף הבית שלך. ניתן לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
-
-<!ENTITY homepageControlled.header.message "דף הבית שלך השתנה.">
-<!ENTITY homepageControlled.keepButton.label "שמירת השינויים">
-<!ENTITY homepageControlled.keepButton.accesskey "ש">
-<!ENTITY homepageControlled.disableButton.label "השבתת הרחבה">
-<!ENTITY homepageControlled.disableButton.accesskey "ר">
-
-<!ENTITY tabHideControlled.header.message "גישה ללשוניות המוסתרות שלך">
-<!ENTITY tabHideControlled.keepButton.label "השארת הלשוניות מוסתרות">
-<!ENTITY tabHideControlled.keepButton.accesskey "ש">
-<!ENTITY tabHideControlled.disableButton.label "השבתת הרחבה">
-<!ENTITY tabHideControlled.disableButton.accesskey "ב">
-
-<!ENTITY pageActionButton.tooltip "פעולות דף">
-<!ENTITY pageAction.addToUrlbar.label "הוספה לשורת הכתובת">
-<!ENTITY pageAction.removeFromUrlbar.label "הסרה משורת הכתובת">
-<!ENTITY pageAction.manageExtension.label "ניהול הרחבה…">
 
 <!ENTITY sendToDevice.syncNotReady.label "סנכרון מכשירים…">
 

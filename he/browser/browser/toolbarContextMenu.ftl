@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = בחירת כל הלשוניות
     .accesskey = ב
-toolbar-context-menu-undo-close-tab =
-    .label = ביטול סגירת לשונית
-    .accesskey = ב
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

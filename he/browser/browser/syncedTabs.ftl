@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = לשוניות מסונכרנות
 synced-tabs-sidebar-noclients-subtitle = להציג כאן את הלשוניות שלך ממכשירים אחרים?
-synced-tabs-sidebar-notsignedin = יש להיכנס כדי לצפות ברשימת הלשוניות שלך ממכשירים אחרים.
 synced-tabs-sidebar-intro = הצגת רשימה של הלשוניות שלך ממכשירים אחרים.
 synced-tabs-sidebar-unverified = יש לאמת את החשבון שלך.
 synced-tabs-sidebar-notabs = אין לשוניות פתוחות
