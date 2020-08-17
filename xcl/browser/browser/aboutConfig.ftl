@@ -2,18 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Աստ զգուշացարո՛ւք։
-about-config-warning-button = Ես ընդունիմ զվտանգ
-about-config-search-input =
-    .placeholder = Խնդրել
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 
 ##
-
-about-config-pref-add = Յաւելուլ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = Գիտել զառաւելն
+
 managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպութենէ քումմէ։
 
 ## Browser Restart Dialog
@@ -149,6 +150,8 @@ search-results-empty-message =
 
 ## Privacy Section - Certificates
 
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

@@ -9,3 +9,4 @@ all-tabs-menu-undo-close-tabs =
             [one] Յետարկել զփակ ներդիր
            *[other] Յետարկել զփակ ներդիրս
         }
+

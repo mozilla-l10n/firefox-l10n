@@ -5,3 +5,4 @@
 webpage-languages-window =
     .title = Վեբ զէջ լեզուի կարգաւորումք
     .style = width: 40em
+

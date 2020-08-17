@@ -5,7 +5,9 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ի գործ ածէ զանվաւեր անվտանգութեան վկայագիր:
+
 cert-error-mitm-intro = Կայք հաստատեն զինքնութիւն իւրեանց ի ձեռն վկայագրաց, որք սահմանին ի հաւաստագրող ատենից։
+
 cert-error-mitm-mozilla = { -brand-short-name } հոգացեալ է ընդ հովանեաւ յոր զհետ շահութի չէ պնդեալ Mozilla֊է, որ կառավարէ զհամաւրէն բաց շտեմարան հաւաստագրող ատենից։  Այս շտեմարան աւգնէ երաշխաւորել, զի հաւաստագրող ատեանք ըստ ամենայնի պահպանեն զանվտանգութիւն աւգտատեարց։
 
 ## Messages used for certificate error titles
