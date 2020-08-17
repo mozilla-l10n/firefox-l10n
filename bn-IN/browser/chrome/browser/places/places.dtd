@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ফাইল নির্বাচন করুন…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "এই সাইট সম্বন্ধে তথ্য সংরক্ষণ করা হবে না">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "খুলুন">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "নতুন উইন্ডোর মধ্যে খোলা হবে">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "নতুন এবং গোপন উইন্ডোর মধ্যে খুলুন">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "নতুন ট্যাবের মধ্যে খোলা হবে">
-<!ENTITY cmd.open_tab.accesskey          "ন">
-<!ENTITY cmd.open_all_in_tabs.label      "ট্যাবের মধ্যে সকল প্রদর্শন করা হবে">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "বিবিধ বৈশিষ্ট্য">
-<!ENTITY cmd.properties.accesskey  "ব">
-
-<!ENTITY cmd.sortby_name.label              "নাম অনুসারে সুবিন্যস্ত করুন">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "নতুন বুকমার্ক…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "নতুন ফোল্ডার…">
-<!ENTITY cmd.new_folder.accesskey          "ন">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "নতুন বিভাজনরেখা">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "নাম">
 <!ENTITY col.tags.label          "ট্যাগ">
 <!ENTITY col.url.label           "অবস্থান">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "পরিদর্শনের সংখ্যা">
 <!ENTITY col.dateadded.label     "যোগ হওয়ার তারিখ">
 <!ENTITY col.lastmodified.label  "সর্বশেষ পরিবর্তনের সময়">
-
-<!ENTITY historySearch.placeholder  "ইতিহাস খুঁজুন">
-<!ENTITY bookmarksSearch.placeholder  "বুকমার্কগুলি খুঁজুন">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "কোনো বস্তু প্রদর্শন করার জন্য ও সেটির বৈশিষ্ট্য পরিবর্তের উদ্দেশ্যে নির্বাচন করুন">
 
-<!ENTITY view.label               "প্রদর্শন">
-<!ENTITY view.accesskey           "প">
-<!ENTITY byDate.label             "তারিখ অনুযায়ী">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "সাইট অনুযায়ী">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "সর্বাধিক পরিদর্শন অনুযায়ী">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "সর্বশেষ পরিদর্শন অনুযায়ী">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "তারিখ ও সাইট অনুযায়ী">
-<!ENTITY byDayAndSite.accesskey   "ত">

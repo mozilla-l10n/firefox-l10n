@@ -70,11 +70,6 @@ permissions-invalid-uri-label = অনুগ্রহ করে বৈধ হো
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = ব্যতিক্রম - বিষয়বস্তু ব্লকিং
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = আপনি এই ওয়েবসাইটগুলিতে বিষয়বস্তু ব্লকিং বন্ধ করেছেন।
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = কোন ওয়েব-সাইটগুলিকে সফ্টওয়্যার ইনস্টল করার অনুমতি প্রদান করা হবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে অনুমতি প্রদান করুন ক্লিক করুন।
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = ব্যতিক্রম - অটোপ্লে
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = কোন ওয়েবসাইট সবসময় মাল্টিমিডিয়া সাউন্ড স্বয়ংচালনা করবে অথবা কোনটি কখনই করবে না তা আপনি নির্দিষ্ট করতে পারেন। ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
 
 ## Site Permissions - Autoplay
 

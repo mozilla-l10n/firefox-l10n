@@ -10,30 +10,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "সক্রিয় করুন">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "নিষ্ক্রিয় করুন">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "অ্যাক্টিভেট করতে হবে জিজ্ঞাসা করুন">
-<!ENTITY cmd.askToActivate.tooltip            "এই অ্যাড অন ব্যবহার করতে প্রতিটি সময়তে জিজ্ঞাসা করুন">
-<!ENTITY cmd.alwaysActivate.label             "সর্বদা সক্রিয় অাছে">
-<!ENTITY cmd.alwaysActivate.tooltip           "সর্বদা add-on ব্যবহার করুন">
-<!ENTITY cmd.neverActivate.label              "কখনই সক্রিয় করবেন না">
-<!ENTITY cmd.neverActivate.tooltip            "এই অ্যাড অন ব্যবহার করবেন না">
-<!ENTITY cmd.stateMenu.tooltip                "পরিবর্তন হলে এই অ্যাড অন রান করবে">
-
-<!ENTITY cmd.uninstallAddon.label             "মুছে ফেলুন">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "বিকল্প">
-<!ENTITY cmd.showPreferencesWin.tooltip       "চিহ্নিত অতিরিক্ত সামগ্রীর বিকল্প মান পরিবর্তন করুন">
-<!ENTITY cmd.showPreferencesUnix.label        "পছন্দ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "চিহ্নিত অতিরিক্ত সামগ্রীর পছন্দসই মান পরিবর্তন করুন">
-
-<!ENTITY cmd.showReleaseNotes.label           "রিলিজ নোট প্রদর্শন করা হবে">
-<!ENTITY cmd.showReleaseNotes.tooltip         "এই আপডেটের জন্য রিলিজ নোট প্রদর্শন করা হবে">
-<!ENTITY cmd.hideReleaseNotes.label           "রিলিজ নোট আড়াল করা হবে">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "এই আপডেটের জন্য রিলিজ নোট আড়াল করা হবে">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -45,41 +21,9 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "বাতিল">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "অতিরিক্ত তথ্য">
-<!ENTITY addon.details.tooltip                "এই অতিরিক্ত সামগ্রী সম্পর্কে কিছু বিস্তারিত তথ্য">
-<!ENTITY addon.unknownDate                    "অজানা">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(নিষ্ক্রিয়)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "আপডেট">
-<!ENTITY addon.undoAction.label               "পূর্বাবস্থা">
-<!ENTITY addon.undoAction.tooltip             "এই কাজটি নাকচ করুন">
-<!ENTITY addon.undoRemove.label               "পূর্বাবস্থা">
-<!ENTITY addon.undoRemove.tooltip             "অতিরিক্ত সামগ্রীটি ইনস্টল করা থাকবে">
-
-<!ENTITY addon.install.label                  "ইনস্টল করুন">
-<!ENTITY addon.install.tooltip                "চিহ্নিত অতিরিক্ত সামগ্রীটি ইনস্টল করুন">
-<!ENTITY addon.updateNow.label                "অবিলম্বে আপডেট করুন">
-<!ENTITY addon.updateNow.tooltip              "চিহ্নিত অতিরিক্ত সামগ্রীর আপডেট ইনস্টল করুন">
-<!ENTITY addon.includeUpdate.label            "আপডেটের মধ্যে অন্তর্ভুক্ত করা হবে">
-<!ENTITY addon.updateAvailable.label          "আপডেট উপলব্ধ রয়েছে">
-<!ENTITY addon.checkingForUpdates.label       "আপডেটের উপস্থিতি পরীক্ষা করা হচ্ছে…">
-<!ENTITY addon.releaseNotes.label             "রিলিজ নোট:">
-<!ENTITY addon.loadingReleaseNotes.label      "লোড করা হচ্ছে…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "দুঃখিত, রিলিজ নোট প্রদর্শন করতে ত্রুটি দেখা দিয়েছে।">
-
-<!ENTITY addon.createdBy.label                "নির্মাণকারী ">
-
-<!ENTITY settings.path.button.label           "ব্রাউজ করুন…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

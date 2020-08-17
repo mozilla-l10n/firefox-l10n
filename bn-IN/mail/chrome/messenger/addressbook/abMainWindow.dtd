@@ -33,33 +33,10 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Edit">
 <!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "Undo">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
-<!ENTITY redoCmd.label                                  "Redo">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
-<!ENTITY cutCmd.label                                   "Cut">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copy">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "c">
-<!ENTITY pasteCmd.label                                 "Paste">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "Delete">
-<!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "Delete Address Book">
-<!ENTITY selectAllCmd.label                             "Select All">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->

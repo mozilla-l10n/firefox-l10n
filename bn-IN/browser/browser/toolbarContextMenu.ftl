@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = সব ট্যাব নির্বাচন করুন
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = বন্ধ করা ট্যাব পুনরায় খুলুন
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = এক্সটেনশনটিকে পরিচালনা করুন

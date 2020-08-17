@@ -21,6 +21,9 @@ change-password-reenter = নতুন পাসওয়ার্ড (পুনর
 reset-password-window =
     .title = প্রধান পাসওয়ার্ড পুনরায় নির্ধারণ করুন
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = পুনরায় নির্ধারণ
 reset-password-text = প্রধান পাসওয়ার্ড পুনরায় নির্ধারণ করা হলে আপনার দ্বারা সংরক্ষিত সমস্ত ওয়েব ও ই-মেইল পাসওয়ার্ড, ফর্মের তথ্য, ব্যক্তিগত সার্টিফিকেট ও কি (key) মুছে যাবে। আপনি কি নিশ্চিতরূপে প্রধান পাসওয়ার্ড পুনরায় নির্ধারণ করতে ইচ্ছুক?

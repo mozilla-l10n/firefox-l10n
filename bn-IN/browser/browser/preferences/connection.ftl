@@ -35,12 +35,6 @@ connection-proxy-http = HTTP প্রক্সি
     .accesskey = x
 connection-proxy-http-port = পোর্ট
     .accesskey = P
-connection-proxy-http-share =
-    .label = সর্বধরনের প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে
-    .accesskey = স
-
-connection-proxy-ssl = SSL প্রক্সি
-    .accesskey = L
 
 connection-proxy-ssl-port = পোর্ট
     .accesskey = o

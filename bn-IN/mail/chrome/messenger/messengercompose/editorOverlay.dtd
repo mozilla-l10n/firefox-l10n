@@ -6,12 +6,8 @@
 
 <!ENTITY pasteNoFormatting.label "বিন্যাস বিনা পেস্ট করুন">
 <!ENTITY pasteNoFormatting.accesskey "o">
-<!ENTITY pasteAs.label "নতুন রূপে পেস্ট করুন">
-<!ENTITY pasteAs.accesskey "a">
 
 <!ENTITY pasteAsQuotationCmd.label "উদ্ধৃতি রূপে পেস্ট করুন">
-<!ENTITY enableInlineSpellChecker.label "টাইপ করার সময় বানান পরীক্ষা করা হবে">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "সন্নিবেশ করুন">
@@ -101,9 +97,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "অনুগ্রহ করে অনুচ্ছেদের বিন্যাস নির্বাচন করুন">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "মূল অংশে ব্যবহৃত হরফ">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "উন্নত বৈশিষ্ট্য">  
+<!ENTITY bodyTextCmd.label "মূল অংশে ব্যবহৃত হরফ">  
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "দিশা">
 <!ENTITY alignLeft.label "বাঁদিকে">
@@ -114,11 +108,6 @@
 <!ENTITY alignRight.tooltip "ডানদিকের প্রান্তে">
 <!ENTITY alignJustify.label "সমপ্রান্তিক">
 <!ENTITY alignJustify.tooltip "সম্প্রান্তিক">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "স্তর">
-<!ENTITY layerSendToBack.tooltip "পেছনে নিয়ে যান">
-<!ENTITY layerBringToFront.tooltip "সামনে নিয়ে আসুন">
 
 <!ENTITY increaseIndent.label "প্রান্তের সাথে অন্তর্বর্তী মাপ বৃদ্ধি করুন">
 <!ENTITY decreaseIndent.label "প্রান্তের সাথে অন্তর্বর্তী মাপ হ্রাস করুন">
@@ -169,16 +158,6 @@
 <!ENTITY tableProperties.label "টেবিলের বৈশিষ্ট্য...">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "মেনু-বার">
-<!ENTITY formatToolbar.tooltip "বিন্যাসের টুল-বার">
-<!ENTITY printToolbarCmd.label "প্রিন্ট করুন">
-<!ENTITY printToolbarCmd.tooltip "বর্তমান পৃষ্ঠা প্রিন্ট করুন">
-<!ENTITY findToolbarCmd.label "অনুসন্ধান">
-<!ENTITY findToolbarCmd.tooltip "পৃষ্ঠার মধ্যে টেক্সট অনুসন্ধান">
-<!ENTITY spellToolbarCmd.label "বানান">
-<!ENTITY spellToolbarCmd.tooltip "নির্বাচিত অংশ অথবা সমস্ত পৃষ্ঠাের বানান পরীক্ষা করুন">
-
 <!ENTITY imageToolbarCmd.label "ছবি">
 <!ENTITY imageToolbarCmd.tooltip "নতুন ছবি সন্নিবেশ করুন অথবা নির্বাচিত ছবির বৈশিষ্ট্য পরিবর্তন করুন">
 <!ENTITY hruleToolbarCmd.label "অনুভূমিক রেখা">
@@ -191,7 +170,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "নতুন নেমড অ্যাঙ্কর সন্নিবেশ করুন অথবা নির্বাচিত অ্যাঙ্করের বৈশিষ্ট্য পরিবর্তন করুন">
 <!ENTITY TextColorButton.tooltip "হরফের রং নির্বাচন করুন">
 <!ENTITY BackgroundColorButton.tooltip "পটভূমির রং নির্বাচন করুন">
-<!ENTITY HighlightColorButton.tooltip "হরফের ঔজ্জ্বল্যের রং নির্বাচন করুন">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "ফন্টের মাপ হ্রাস করুন">
@@ -208,14 +186,6 @@
 <!ENTITY alignLeftButton.tooltip "বাঁদিকের প্রান্ত অনুসারে টেক্সট স্থাপিত হবে">
 <!ENTITY alignCenterButton.tooltip "টেক্সট কেন্দ্রস্থিত হবে">
 <!ENTITY alignRightButton.tooltip "ডানদিকের প্রান্ত অনুসারে টেক্সট স্থাপিত হবে">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "নির্বাচন করুন">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "ট্যাগ মুছে ফেলুন">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "ট্যাগ পরিবর্তন করুন">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "সন্নিবেশ করুন">
