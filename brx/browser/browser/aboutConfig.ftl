@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = गोरोन्थि
-about-config-warning-text = बेफोर जौगानाय सेटिंखौ सोलायोब्ला बे एप्लिकेसननि जोरथाय, रैखाथि आरो मावफुंनाया खहा जानो हायो। नोंथाङा मा मावगासिनो दं बेखौ रोखायै मोनथियोब्लाल'नो नोंथाङा सालाय लांबाय थानांगौ।
-about-config-warning-checkbox = अन्नानै आंखौ आरोबाव रागा जोंहो !
-about-config-warning-button = आं बे खैफोदखौ गनायो
-
-about-config2-title = जौगाहोनाय बाइजोमहरफोर
-
-about-config-search-input =
-    .placeholder = नागिर
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = साबदान जाना आवगायलां
@@ -32,13 +21,6 @@ about-config-page-title = सिगांआवनो सायखना ला�
 about-config-search-input1 =
     .placeholder = मोजांसिन मोन्नाय मुंखौ नागिर
 about-config-show-all = गासैबो दिन्थि
-
-about-config-pref-add = दाजाबदेर
-about-config-pref-toggle = टग्गल
-about-config-pref-edit = सुजुनाय
-about-config-pref-save = थिना दोन
-about-config-pref-reset = फिन फज'
-about-config-pref-delete = खोमोर
 
 about-config-pref-add-button =
     .title = दाजाबदेर

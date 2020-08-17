@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "दानस'">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "कपि खालाम">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "फोनांजाब हो">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "सिगांनि महराव लाबोफिन">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "गासैबो सायख">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "खोमोर">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "सोदोब बिहुंआव दाजाबदेर">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "सोदोब बिहुंआव दाजाबदेरनो आनडु खालाम">

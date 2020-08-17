@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = गुमुरथि रैखाथि
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = नोंथांनि गुमुरथिनि फोरमान बिलाइआव थां
 appmenuitem-customize-mode =
     .label = गावनि गोसोबादि माव...
 
@@ -26,3 +23,4 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = मा गोदान
+

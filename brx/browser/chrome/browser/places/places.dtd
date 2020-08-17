@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "फाइलखौ बासिख...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "बे साइटखौ बाव लां">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "खेव">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "मोनसे गोदान उइन्ड'आव खेव">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "मोनसे गोदान प्राइभेट उइन्ड'खौ खेव">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "मोनसे गोदान टेबआव खेव">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "गासैखौबो टेबाव खेव">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "आखुथायफोर">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "मुं मथे थख' साजाय">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "गोदान बुकमार्क...">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "गोदान फल्डार...">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "गोदान बोखावग्रा">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "मुं">
 <!ENTITY col.tags.label          "टेगफोर">
 <!ENTITY col.url.label           "जायगा">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "नायनो थांनाय काउन्ट">
 <!ENTITY col.dateadded.label     "दाजाबदेरबाय">
 <!ENTITY col.lastmodified.label  "जोबथा महर सोलायबाय">
-
-<!ENTITY historySearch.placeholder  "नागिरनायनि जारिमिन">
-<!ENTITY bookmarksSearch.placeholder  "बुकमार्कफोरखौ नागिर">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "नायनो थाखाय मोनसे आइटेम सायख आरो बेनि आखुथायफोरखौ सुजु">
 
-<!ENTITY view.label               "नुथाय">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "अक्‍त' मथे">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "साइट मथे">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "बांसिन थांजानाय मथे">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "जोबथा थांजानाय मथे">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "अक्‍त' आरो साइट मथे">
-<!ENTITY byDayAndSite.accesskey   "t">

@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "सुंद' बिमुं"> 
-<!ENTITY message.label    "बेयाव माखासे नमुना फराय बिजाब थाङो।">
-
 <!ENTITY editfield0.label "बाहायग्रा मुं:"> 
 <!ENTITY editfield1.label "पासवार्ड:"> 
-<!ENTITY checkbox.label   "आनजाद खालाम"> 
 <!ENTITY copyCmd.label    "कपि खालाम">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "गासैबो सायख">

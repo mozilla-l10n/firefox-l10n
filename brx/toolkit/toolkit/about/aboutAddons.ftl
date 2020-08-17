@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = ल'ड खालाम गासिनो दं...
-
 list-empty-installed =
     .value = नोंथांहा इनष्टल खालामखानाय बे रोखोमनि जेबो add-ons गैया।
 
@@ -31,13 +28,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = add-ons नि सोमोन्दै गोबां सोलों
-
-install-addon-from-file =
-    .label = फाइल निफ्राय Add-on खौ इनष्टल खालाम...
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = गासै add-ons नि थाखाय टुल्‌स
 
 cmd-show-details =
     .label = गोबां फोरमायथिहोग्राखौ दिन्थि
@@ -75,12 +65,6 @@ cmd-contribute =
     .label = बिहोमा हो
     .accesskey = C
     .tooltiptext = बे add-on नि जौगाखांनायाव बिहोमा हो
-
-discover-title = Add-ons आ मा मा?
-
-discover-description = Add-ons आ एप्लिकेसन, जाय नोंथांखौ बांद्राय खामानिगोहो एबा आदबजों{ -brand-short-name } खौ बाहायनो गनायथि होयो। { -brand-short-name } खौ गावनि निजि खालामनो सम-बासायनाय साइडबार, आबहावा मिथिहोग्रा, एबा थिमगोनां नुथायखौनाजा।
-
-discover-footer = नोंथाङा इन्टारनेटजों फोनांजाबनाय समाव, बे पेनआ माखासे साबसिन दिन्थिगोन आरो नोंथांनि थाखाय नाजानाय मुंदांखासिन add-ons खौ दिन्थिगोन।
 
 detail-version =
     .label = लिरस्लायनाय
@@ -148,14 +132,6 @@ detail-rating =
 addon-restart-now =
     .label = दानो फिन जागाय
 
-extensions-view-recent-updates =
-    .name = दानि आपडेट
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = थानाय आपडेटफोर
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = बारायनायफोर
 addon-category-extension-title =
     .title = बारायनायफोर
@@ -180,29 +156,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = गासै add-ons खौ रैखाथि म'डजों लोरबां खालामबाय।
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Add-on गोरोबनायखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथांहा गोरोबै add-ons दं जानो हागौ।
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = हाहोनाय खालाम
-    .tooltiptext = add-on गोरोबथिगोनां आनजाद खालामनायखौ हाहोनाय खालाम
-
-extensions-warning-update-security-label =
-    .value = Add-on आपडेटखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथाङा आपडेटजों गोरोबना दं जानो हागौ।
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = हाहोनाय खालाम
-    .tooltiptext = Add-on आपडेट रैखाथि आनजाद आनजाद खालामनायखौ हाहोनाय खालाम
-
 extensions-warning-safe-mode = गासै add-ons खौ रैखाथि म'डजों लोरबां खालामबाय।
 extensions-warning-check-compatibility = Add-on गोरोबनायखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथांहा गोरोबै add-ons दं जानो हागौ।
 extensions-warning-check-compatibility-button = हाहोनाय खालाम
@@ -214,14 +167,6 @@ extensions-warning-update-security-button = हाहोनाय खाला�
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = आपडेटफोरनि थाखाय आवजाद खालाम
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = दानि आपडेटफोरखौ नाइ
-    .accesskey = V
-
 addon-updates-check-for-updates = आपडेटफोरनि थाखाय आवजाद खालाम
     .accesskey = C
 addon-updates-view-updates = दानि आपडेटफोरखौ नाइ
@@ -229,10 +174,6 @@ addon-updates-view-updates = दानि आपडेटफोरखौ ना�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Add-ons खौ गावनो गाव महरै आपडेट खालाम
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Add-ons खौ गावनो गाव महरै आपडेट खालाम
     .accesskey = A
@@ -243,36 +184,12 @@ addon-updates-update-addons-automatically = Add-ons खौ गावनो ग�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज
     .accesskey = R
 addon-updates-reset-updates-to-manual = आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = add-ons खौ आपडेट खालाम गासिनो दं
-extensions-updates-installed =
-    .value = नोंथांनि add-ons खौ आपडेट खालामबाय।
-extensions-updates-downloaded =
-    .value = नोंथांनि add-ons आपडेटखौ डाउनल'ड खालामबाय।
-extensions-updates-restart =
-    .label = इनष्टलेसनखौ फोजोबनो दानो फिन जागाय
-extensions-updates-none-found =
-    .value = जेबो आपडेट मोनाखै
-extensions-updates-manual-updates-found =
-    .label = थानाय आपडेटखौ नाइ
-extensions-updates-update-selected =
-    .label = आपडेटफोरखौ इनष्टल खालाम
-    .tooltiptext = बे लिस्टयाव थानाय आपडेटखौ इनष्टल खालाम
 
 addon-updates-updating = add-ons खौ आपडेट खालाम गासिनो दं
 addon-updates-installed = नोंथांनि add-ons खौ आपडेट खालामबाय।
@@ -289,9 +206,6 @@ addon-install-from-file-filter-name = Add-ons
 ## Extension shortcut management
 
 shortcuts-card-collapse-button = इसेल' दिन्थि
-
-go-back-button =
-    .tooltiptext = थांफिन
 
 header-back-button =
     .title = थांफिन
@@ -320,7 +234,6 @@ addon-options-button =
 remove-addon-button = बोखार
 disable-addon-button = लोरबां खालाम
 enable-addon-button = हाहोनाय खालाम
-expand-addon-button = गोबां उफ्रा
 preferences-addon-button =
     { PLATFORM() ->
         [windows] उफ्रा
@@ -329,9 +242,6 @@ preferences-addon-button =
 details-addon-button = गुवारै
 release-notes-addon-button = ओंखारनाय लिरसुंथाइ
 permissions-addon-button = गनायथि
-
-addons-enabled-heading = मावथि खालामबाय
-addons-disabled-heading = लोरबां जाबाय
 
 extension-enabled-heading = मावथि खालामबाय
 extension-disabled-heading = लोरबां जाबाय
@@ -375,12 +285,6 @@ install-update-button = आपडेट खालाम
 
 addon-detail-private-browsing-allow = गनायथि हो
 addon-detail-private-browsing-disallow = गनायथि दाहो
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = बोसोन होबाय
-    .alt = बोसोन होबाय
 
 available-updates-heading = थानाय आपडेटफोर
 recent-updates-heading = दानि आपडेट

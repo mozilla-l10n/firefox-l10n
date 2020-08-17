@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = गासै टेबखौ सायख
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = बन्द टेबखौ  सिगांनि महराव लाबोफिन
-    .accesskey = U
 
 toolbar-context-menu-remove-from-toolbar =
     .label = टुलबार निफ्राय बोखार

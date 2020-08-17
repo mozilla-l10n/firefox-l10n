@@ -6,13 +6,6 @@ do-not-track-learn-more = गोबां सोलों
 do-not-track-option-always =
     .label = जेब्लायबो
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] उफ्राफोर
-           *[other] पसन्दफोर
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] उफ्राफोर
@@ -426,8 +419,6 @@ search-keyword-warning-bookmark = नोंथाङा बावैसो ब�
 
 ## Containers Section
 
-containers-back-link = « उनथिं थांफिन
-
 containers-header = खनथेनार  टेबफोर
 containers-add-button =
     .label = गोदान खनथेनार दाजाबदेर
@@ -443,10 +434,6 @@ containers-remove-button =
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
-
-sync-signedout-account-signin =
-    .label = साइन-इन...
-    .accesskey = I
 
 ## Sync Section - Signed in
 
@@ -493,17 +480,11 @@ sync-device-name-save =
     .label = थिना दोन
     .accesskey = v
 
-sync-tos-link = सिबिथायनि रादाय
-
-sync-fxa-privacy-notice = गुमुरथि मिथिसारहोनाय
-
 ## Privacy Section
 
 
 ## Privacy Section - Forms
 
-
-logins-header = लगिनफोर आरो पासवर्डफोर
 
 ## Privacy Section - Logins and Passwords
 
@@ -527,6 +508,7 @@ forms-master-pw-change =
     .accesskey = म
 
 forms-master-pw-fips-title = नोंथाङा दासान्दि FIPS म'डआव दं। FIPS नो मोनसे लांदां-नङै मास्टार पासवार्ड नांगौ।
+
 forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
 
 ## OS Authentication dialog
@@ -602,18 +584,6 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = गोबां सोलों
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = मानदान्दा
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = गोरा
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = कास्टम
-    .accesskey = C
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -739,6 +709,8 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = OK, मिथिबाइ
     .accesskey = K
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

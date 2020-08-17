@@ -21,6 +21,9 @@ change-password-reenter = गोदान पासवार्ड (फिन):
 reset-password-window =
     .title = गाहाय पासवार्डखौ फिन फज
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = फिन फज'
 reset-password-text = नोंथाङा नोंथांनि मास्टार पासवार्डखौ फिन फजयोब्ला, नोंथांनि गासै दोनथुमखानाय वेब आरो इ-मेइल पासवार्ड, फर्म डाटा, निजि सार्टिफिकेट आरो प्राइभेट साबिखौ बावलांगोन। थारैनो नोंथाङा नोंथांनि मास्टार पासवार्डखौ फिन फजनो लुबैयो नामा?

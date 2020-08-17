@@ -70,6 +70,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = नोंनि थिनानै दोन्ना लक इनफोरखौ नायगासिनो? थिनानै दोन { -sync-brand-short-name }.
+
 about-logins-intro-instruction-help = मदद होगा्  <a data-l10n-name="help-link">{ -lockwise-brand-short-name } जायगायाव थां रैखा </a> मोन्नो
 
 ## Login
@@ -109,6 +110,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## Master Password notification
 
 master-password-notification-message = नोंनि थिनानै दोन्नाय logins आरो passwords फोरखौ नायनो थाखाय, नोंनि गाहाय password खौ सोना हो
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = ल'ग इन
     .accesskey = L
@@ -155,4 +159,6 @@ about-logins-error-message-default = बे फासवाद खौ लाख�
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

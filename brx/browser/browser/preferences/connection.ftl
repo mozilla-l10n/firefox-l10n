@@ -19,12 +19,6 @@ connection-proxy-http = HTTP प्रक्सि
     .accesskey = x
 connection-proxy-http-port = पर्ट
     .accesskey = P
-connection-proxy-http-share =
-    .label = गासै प्र'ट'कलनि थाखाय बे प्रक्सि सार्भारखौ बाहाय
-    .accesskey = s
-
-connection-proxy-ssl = SSL प्रक्सि
-    .accesskey = L
 
 connection-proxy-ssl-port = पर्ट
     .accesskey = o

@@ -13,6 +13,20 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
+## Firefox and Mozilla Brand
+##
+## Firefox and Mozilla must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
 -brand-shorter-name = फायारफक्स
 -brand-short-name = फायारफक्स
 -brand-full-name = मजिला फायारफक्स

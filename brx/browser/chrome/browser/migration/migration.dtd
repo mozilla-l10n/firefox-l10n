@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "निफ्राय उफ्रा, बुकमार्क, जारिमिन, पासवर्ड आरो गुबुन डाटा लाबो:">
 <!ENTITY importFromUnix.label           "निफ्राय पसन्द, बुकमार्क, जारिमिन, पासवर्ड आरो गुबुन डाटा लाबो:">
-<!ENTITY importFromBookmarks.label      "निफ्राय बुकमार्कफोरखौ लाबो:">
 
 <!ENTITY importFromIE.label             "माइक्र'सफ्ट इन्टारनेट एक्सप्ल'रार">
 <!ENTITY importFromIE.accesskey         "M">

@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "सुजुनाय">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label             "सिगांनि महराव लाबोफिन">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "मावफिन">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "दानस'">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "कपि खालाम">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "फोनांजाब हो">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "खोमोर">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "गासैबो सायख">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "A">
-
 <!ENTITY findCmd.label             "नायगिरना दिहुन">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "गिबि नुथायखौ नायगिरना दिहुन">
-<!ENTITY findPreviousCmd.accesskey "v">

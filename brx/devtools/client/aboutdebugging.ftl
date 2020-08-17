@@ -100,9 +100,6 @@ about-debugging-tmp-extension-reload-button = फिन ल'ड खालाम
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = बोखार
 
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = जागाय
-
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = सोलिगासिनो

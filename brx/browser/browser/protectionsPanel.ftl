@@ -27,8 +27,6 @@ protections-panel-blocking-label = हेंथा होबाय
 
 ##
 
-protections-panel-showreport-label = रिपर्ट खौ दिन्थि
-
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 

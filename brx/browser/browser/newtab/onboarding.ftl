@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = गोबां सोलों
-onboarding-button-label-try-now = बेखौ दा नाजा
 onboarding-button-label-get-started = जागायनोसै
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = { -brand-short-name } आव बरायबाय
 onboarding-welcome-body = नों बा्वजारखौ मोनबाय, <br/>आदा्खौबो नागिर  { -brand-product-name }.
 onboarding-welcome-learn-more = बे मुलामफानि सायाव बांसिन मिथिनो
 
-onboarding-join-form-header = ज खालाम  { -brand-product-name }
 onboarding-welcome-modal-privacy-body = नों बा्वजारखौ मोनबाय, थौ गोबां फा्यवेसि रैखा खालामगा्खौ दाजाबदेरनि
 onboarding-welcome-modal-family-learn-more = बेसादफोरनि रोखोमनि दोमोनदै सोलों{ -brand-product-name }
 onboarding-welcome-form-header = बेयाव जागायजेन
@@ -38,6 +36,13 @@ onboarding-start-browsing-button-label = ब्राउजिं खाला�
 onboarding-cards-dismiss =
     .title = फोजोब
     .aria-label = फोजोब
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -61,12 +66,6 @@ onboarding-sync-form-sub-header = { -sync-brand-name } सिम थांनो
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = बाहायजाथाव बेसादफोर
-
-onboarding-benefit-knowledge-title = बाहायजाथाव गुन
-
-onboarding-benefit-privacy-title = थार निजोम जायगा
-
 
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 
@@ -81,17 +80,6 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = निजि ब्राउजिं
-
-onboarding-screenshots-title = स्क्रिनसटफोर
-
-onboarding-addons-title = दाजाबदाफोर
-
-onboarding-ghostery-title = Ghostery
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = सिनक
 
 onboarding-tracking-protection-title2 = आगान नागिरनायनिफा्य रैखा जानाय
 onboarding-tracking-protection-button2 = बेयो माबादि खामानि मावो
@@ -115,9 +103,6 @@ onboarding-send-tabs-button = थेप दैथायनायजों जा
 
 onboarding-pocket-anywhere-title = जेरावबो फराय आरो खोनासं
 onboarding-pocket-anywhere-button = { -pocket-brand-name } खौ नाजा
-
-onboarding-lockwise-passwords-title = नोंनि पासवर्दखौ जेरावबो लांंफा
-onboarding-lockwise-passwords-button2 = आपखौ ला
 
 onboarding-facebook-container-title = फेसबुक जों सिमा खालामना ला
 onboarding-facebook-container-button = बारा जानाखौ दाजाबदेर

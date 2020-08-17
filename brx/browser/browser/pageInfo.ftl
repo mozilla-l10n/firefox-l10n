@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = बादि थिना दोन...
     .accesskey = e
-media-preview =
-    .value = मेडिया गिबि नुथाय:
 
 perm-tab =
     .label = गनायथि
@@ -131,7 +129,6 @@ security-site-data-cookies-only = नंगौ, कुकिज
 security-site-data-no = नङा
 
 image-size-unknown = मोनथिमोनै
-not-set-verified-by = थि खालामै
 page-info-not-specified =
     .value = थि खालामै
 not-set-alternative-text = थि खालामै
@@ -156,7 +153,6 @@ general-quirks-mode =
     .value = क'वार्क म'ड
 general-strict-mode =
     .value = स्टेण्डार्ड मानिनाय म'ड
-security-no-owner = बे वेबसाइटा बिगोमायारि फोरमायथिहोग्राखौ जगायना होआ।
 page-info-security-no-owner =
     .value = बे वेबसाइटा बिगोमायारि फोरमायथिहोग्राखौ जगायना होआ।
 media-select-folder = मुसुखाफोरखौ थिना दोननो थाखाय मोनसे फल्डार सायख

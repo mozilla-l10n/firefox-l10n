@@ -13,23 +13,15 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "फोनांजाब खालामनो हायाखै">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "बे थंखौ हेंथा होबाय">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "सारभार मोनाखौ">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY fileNotFound.title "फाइलखौ मोनाखै">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>गेदेर हांखो एबा गुबुन टाइपिं गोरोन्थिनि थाखाय फाइल मुंखौ आनजाद खालाम।</li> <li>फाइलखौ लोरिहोबाय, फिन मुं होनाय एबा खोमोरबाय नामा नायनो थाखाय आनजाद खालाम।</li> </ul>">
 
-
-<!ENTITY generic.title "हाय">
 
 <!ENTITY generic.longDesc "<p>माखासे जाहोननि थाखाय &brandShortName; आ बिलाइखौ ल'ड खालामनो हाया।</p>">
 
@@ -39,55 +31,29 @@
 <!ENTITY malformedURI.pageTitle "बाहायजायै URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY netInterrupt.title "फोनांजाबआ हेंथा होजाबाय">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "फोरमान बिलाइ मेयाद बारबाय">
 
 <!ENTITY notCached.longDesc "<p>खावलायखानाय फोरमान बिलाइआ &brandShortName;नि केछआव गैया।</p><ul><li>रैखाथिनि आगु-सांग्रां महरै, &brandShortName; आ बदगोनां फोरमान बिलाइखौ गावनो गाव महरै फिन-खावलाया।</li><li>फोरमान बिलाइखौ वेबसाइट निफ्राय फिन-खावलायनो फिन नाजा-खौ क्लिक खालाम।</li></ul>">
 
-<!ENTITY netOffline.title "अफलाइन म'ड">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>अनलाइन म&apos;डआव थांनो &quot;फिन नाजा&quot; खौ नारसिन आरो बिलाइखौ फिन ल&apos;ड खालाम।</li> </ul>">
-
-<!ENTITY contentEncodingError.title "आयदा एनक'डिं गोरोनथि">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li> </ul>">
 
-<!ENTITY unsafeContentType.title "रैखाथि नङै फाइल रोखोम">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li> </ul>">
-
-<!ENTITY netReset.title "फोनांजाबखौ फिन फजबाय">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "फोनांजाबआ सम बारबाय">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "थंखौ बुजिनो मोनाखिसै">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>नोंथाङा बे थंखौ खेवनो गुबुन सफ्टवेयारखौ इनष्टल खालामनांगोन जानांगौ।</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "प्रक्सि सार्भारआ फोनांजाबखौ नेवसिगार गासिनो दङ">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>प्रक्सि सेटिंआ गेबें नामा रोखा खालामनो बेफोरखौ आनजाद खालाम।</li> <li>प्रक्सि सार्भारआ खामानि मावगासिनो थानायखौ रोखा खालामनो नोंथांनि नेटवार्क खुंगिरिजों जगाजग खालाम।</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "प्रक्सि सार्भारखौ नागिरना दिहुननो हायाखै">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>प्रक्सि सेटिंआ गेबें नामा रोखा खालामनो बेफोरखौ आनजाद खालाम।</li> <li>नोंथांनि कम्पुटारहा मोनसे खामानि मावनाय नेटवार्क फोनांजाब दं नामा रोखा खालामनो आनजाद खालाम।</li> <li>नोंथांनि कम्पुटार एबा नेटवार्कआ फायारवाल एबा प्रक्सिजों रैखाथि खालामजायोब्ला&brandShortName; खौ वेब हाबहोनो गनायथि होनाय जायो नामा रोखा खालाम।</li> </ul>">
 
-<!ENTITY redirectLoop.title "बिलाइआ मोजाङै फिन बिथोन होयाखै">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>बे जेंनाया माब्लाबा माब्लाबा कुकिखौ आजावनाय एबा नेवसिनायनि थाखायजानो हागौ।</li> </ul>">
 
-<!ENTITY unknownSocketType.title "सार्भार निफ्राय मिजिंथियै फिननाय           ">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>नोंथांनि सिस्टेमआ निजि रैखाथि मेनेजारखौ इनष्टल खालामबाय नामा रोखा खालामनो आनजाद खालाम।</li> <li>बेयो सार्भारआव स्टेण्डार्ड-नङै बाइजोमहरनि थाखाय जानो हागौ।</li> </ul>">
-
-<!ENTITY nssFailure2.title "रैखाथि फोनांजाबा फेलें जाबाय">
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>नोंथाङा नायनो नाजाबाय थानाय बिलाइखौ दिन्थिनो हाया मानोना मोननाय डाटानि गुबैथिखौ थारबिजिरनो हायाखै।</li> <li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li> </ul>">
 
@@ -102,22 +68,14 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>साइटआ दसेनि थाखाय मोननो हाथाव जानो हागौ एबा जोबोद मुखुब जानो हागौ।दसेनि उनाव फिन नाजा।</li> <li>नोंथाङा जायखि जाया बिलाइखौ ल'ड खालामनो हायाखैब्ला, नोंथांनि कम्पुटारनि नेटवार्क फोनांजाबखौआनजाद खालाम।</li> <li>नोंथांनि कम्पुटार एबा नेटवार्कआ फायारवाल एबा प्रक्सिजों रैखाथि खालामजायोब्ला &brandShortName; खौ वेब हाबहोनो गनायथि होनाय जायो नामा रोखा खालाम।</li> </ul>">
 
-<!ENTITY cspBlocked.title "गोजोननाय रैखाथि पलिसिजों हेंथा होजाबाय">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; आ बे बिलाइखौ बेबाइदि ल'ड खालामनाय निफ्राय हेंथा होबाय मानोना बिलाइहा मोनसे थानाय-आयदा रैखाथि पलिसि दं जाय बेखौ गनायथिगैयै खालामो।</p>">
-
-<!ENTITY corruptedContentErrorv2.title "रैखाथि फोनांजाबा फेलें जाबाय">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>नोंथाङा नायनो नाजाबाय थानाय बिलाइखौ दिन्थिनो हाया मानोना डाटा दैथायनायाव गोरोन्थि संना दिहुनबाय।</p><ul><li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li></ul>">
 
 
 <!ENTITY errorReporting.learnMore "गोबां सोलों">
 
-<!ENTITY remoteXUL.title "गोजाननि XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li></ul></p>">
-
-<!ENTITY sslv3Used.title "रैखाथियै फोनांजाब खालामनो हायाखै">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -131,6 +89,4 @@ was trying to connect. -->
 
 
 
-
-<!ENTITY networkProtocolError.title "नेटॱवर्क प्रोटोकल गोनांथि">
 

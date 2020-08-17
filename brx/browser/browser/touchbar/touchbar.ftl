@@ -12,7 +12,6 @@ fullscreen = आबुं स्क्रिन
 find = नायगिरना दिहुन
 new-tab = गोदान टेब
 add-bookmark = बुकमार्कखौ दाजाबदेर
-open-bookmarks-sidebar = बुकमार्क साइडबारखौ खेव
 # Meant to match the string displayed in an empty URL bar.
 open-location = थंखौ नागिर एबा हाबहो
 share = शेयार

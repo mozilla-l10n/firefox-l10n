@@ -47,9 +47,9 @@ reopen-in-container =
 move-to-new-window =
     .label = गोदान उइन्ड'याव थां
     .accesskey = W
-undo-close-tab =
-    .label = बन्द टेबखौ  सिगांनि महराव लाबोफिन
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = टेबखौ बन्द खालाम
     .accesskey = C
