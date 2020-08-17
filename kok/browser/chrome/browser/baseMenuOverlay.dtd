@@ -2,52 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "ल्हान करात">
-<!ENTITY bringAllToFront.label    "सगळे मुखार हाडात">
-<!ENTITY zoomWindow.label         "व्हड">
-<!ENTITY windowMenu.label         "जनेल">
-
-<!ENTITY helpMenu.label           "मदत"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "मदत"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
 <!ENTITY aboutProduct2.label      "&brandShorterName; विशीं;">
 <!ENTITY aboutProduct2.accesskey  "A">
 
 
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "कीबोर्ड शॉर्टकट्स">
-<!ENTITY helpKeyboardShortcuts.accesskey "क">
-
-<!ENTITY helpSafeMode.label       "असक्रिय ऍड-ऑन्सां सयत सुरवात करची…">
-<!ENTITY helpSafeMode.accesskey   "अ">
-
-
-
-
-
-<!ENTITY helpTroubleshootingInfo.label      "ट्रबलशूटींग माहिती">
-<!ENTITY helpTroubleshootingInfo.accesskey  "ट">
-
-<!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दिवची…">
-<!ENTITY helpFeedbackPage.accesskey  "प">
 
 
 
 <!ENTITY preferencesCmdMac.label        "प्राधान्या...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "सेवा">
 
 
 
 <!ENTITY hideOtherAppsCmdMac.label      "बेर लिपयात">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "सगळे दाखयात">
 

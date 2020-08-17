@@ -12,72 +12,40 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "जोडपाक शकना">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "हो नामो प्रतिबंधित आसा">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "फायल मेळूंक ना">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>कॅपिटलायझेशनाखातीर वो हेर टायपिंग एररांखातीर तपासात.</li> <li>फायल हालयली, नवे नाव दिले वो काडून उडयली हे पळोवपाक तपासात.</li> </ul>">
 
 
-
-<!ENTITY generic.title "आरे रे">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; काय कारणाक लागून हे पान चालू जावपाक शकना</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "जोडणेंत व्यत्यय आयलो">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "दस्तावेज सोपले">
 
 <!ENTITY notCached.longDesc "<p>विनंती केल्लो दस्तावेज &brandShortName; च्या कॅशान उपलब्ध ना.</p><ul><li>सुरक्षेची काळजीम्हण, &brandShortName; आपसूक संवेदनशील दस्तावेजांची परत-विनंती करीना.</li><li>वेबसायटीवयल्यान दस्तावेजाची परत-विनंती करपाक परत यत्न करातचेर क्लीक करात.</li></ul>">
 
-<!ENTITY netOffline.title "ऑफलायन स्थिती">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li> ऑनलायन स्थितीन वचपाक आनी पान परत लोड करपाक &quot;परत यत्न करात&quot; दामात.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "मजकूर कुरूवानी करपाक त्रुटी">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ह्या आडमेळाविशीं कळोवपाक मात्शे वेबसायटीच्या मालकांक मेळात.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "असुरक्षित फायल प्रकार">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>ह्या आडमेळाविशीं कळोवपाक मात्शे वेबसायटीच्या मालकांक मेळात.</li> </ul>">
-
-<!ENTITY netReset.title "जोडणी परतून थारायली">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "जोडणेचो काळ सोपलो">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "नामो कळूंना">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>हो नामो उगडपाक तुमका हेर सॉफ्टवेर प्रतिष्ठापित करचे पडत.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "प्रॉक्सी सर्व्हर जोडणी न्हंयकारता">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>सारकी आसात जाल्यार पळोवपाक प्रॉक्सि स्थापितां तपासात.</li> <li>प्रॉक्सि सर्वर काम करता हाजी खात्री करपाक तुमच्या नेटवर्क प्रशासकाक मेळात.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्व्हर मेळपाक अपेस">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>सारकी आसात जाल्यार पळोवपाक प्रॉक्सि स्थापितां तपासात.</li> <li>तुमच्या संगणकाक काम करपी नेटवर्क जोडणी आसा हाजी खात्री करपाक तपासात.</li> <li>जर तुमचो संगणक वो नेटवर्क फायरवॉल वो प्रॉक्सिन सुरक्षित दवरला, जाल्यार&brandShortName; क वेबान प्रवेश करपाक परवानगी आसा हाजी खात्री करात.</li> </ul>">
 
-<!ENTITY redirectLoop.title "हे पान योग्य दिशा दिना">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>कुकीज अक्षम केल्यार वो स्विकारपाक न्हयकाल्यार काय वेळार हो आडमेळ येव येता.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "सर्वराकडल्यान अनपेक्षित प्रतिसाद">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li> तुमच्या व्यवस्थेक खाजगी सुरक्षा व्यवस्थापक प्रतिष्ठापित आसा हाजी खात्री करपाक तपासात.</li> <li>हे सर्वरावयल्या अ-प्रमाणित संरचनायेक लागून आसत.</li> </ul>">
 
@@ -89,22 +57,15 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>सायट तात्पुरती उपलब्ध नासत वो खूप कामान आसत. काय खीणांनी परत यत्न करात.</li> <li>तुमी खंयचीय पाना लोड करपाक शकना, तुमच्या संगणकाची नेटवर्क जोडणी तपासात.</li> <li>तुमचो संगणक वो नेटवर्क जर फायरवॉल वो प्रॉक्सिन सुरक्षित आसा, जाल्यार &brandShortName; क वेबान प्रवेश करपाची परवानगी आसा हाजी खात्री करात.</li> </ul>">
 
-<!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणान प्रतिबंधित केलां">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; न ह्या पानाक अशेतरेन लोड जावपापासून आडयला कारण पानाक आशय सुरक्षा धोरण आसा जे अशे करपाक दिना.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "भ्रश्ट आशय एरर">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>तुमी पळोवपाक सोदता ते पान दाखओवपाक शकना कारण डेटा धाडपान एरर आयला.</p><ul><li>ह्या आडमेळाविशीं कळोवपाक मात्शे वेबसायट मालकांक संपर्क करात.</li></ul>">
 
 
 <!ENTITY errorReporting.learnMore "अदिक शिकात...">
 
-<!ENTITY remoteXUL.title "रिमोट XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ह्या आडमेळा विशीं कळोवपाक मात्शे वेबसायट मालकांक संपर्क करात.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "सुरक्षित पणान जुळपाक शकना.">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,

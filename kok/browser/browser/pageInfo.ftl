@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = म्हण जतनाय करात...
     .accesskey = e
-media-preview =
-    .value = माध्यम पूर्वदृश्य
 
 perm-tab =
     .label = अनुमत्यो
@@ -109,7 +107,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = अज्ञात
-not-set-verified-by = स्पश्ट केल्ले ना
 page-info-not-specified =
     .value = स्पश्ट केल्ले ना
 not-set-alternative-text = स्पश्ट केल्ले ना
@@ -134,7 +131,6 @@ general-quirks-mode =
     .value = लक्षण स्थिती
 general-strict-mode =
     .value = प्रमाणां  मान्यताय स्थिती
-security-no-owner = ही वेबसायट मालकीची म्हायती दिना.
 page-info-security-no-owner =
     .value = ही वेबसायट मालकीची म्हायती दिना.
 media-select-folder = प्रतिमा सांबाळूंक एक फोल्डर वेंचचो

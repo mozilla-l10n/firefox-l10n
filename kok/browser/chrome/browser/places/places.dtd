@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "फायल निवडात....">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "या सायटीविशीं विसरात">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "उगडात">
-<!ENTITY cmd.open.accesskey              "उ">
-<!ENTITY cmd.open_window.label           "नव्या विंडोंत उगडात">
-<!ENTITY cmd.open_window.accesskey       "N">
-
-
-<!ENTITY cmd.open_tab.label              "नव्या टॅबांत उगडात">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "सगळ्या टॅबांत उगडात">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "वैशिश्ट्यां">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "नावान वर्गीकरण">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "नवीन बुकमार्क...">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "नवो फोल्डर…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "नवीन विभाजक">
-<!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY col.name.label          "नाव">
 <!ENTITY col.tags.label          "टॅग">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ताची वैशिश्ट्यां पळोवपाक आणि संपादित करपाक वस्त निवडात">
 
-<!ENTITY view.label               "पळयात">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "तारकेन">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "सायटीन">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "चड भेटींनी">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "निमणे भेटींनी">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "तारिक आणि सायटीन">
-<!ENTITY byDayAndSite.accesskey   "t">

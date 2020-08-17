@@ -10,9 +10,6 @@ addons-page-title = अँड-ऑन वेवस्थापक
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = लोड जाता...
-
 list-empty-installed =
     .value = तुमचेकडेन अश्या प्रकारचे अँड-ऑन स्थापीत केल्ले ना
 
@@ -27,13 +24,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = अँड-ऑनाविशीं आनीक शिका
-
-install-addon-from-file =
-    .label = आनी फायलींतल्यान अँड-ऑन स्थापीत करा
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = सगल्या अँड-ऑनाखातीर उपकरणां
 
 cmd-show-details =
     .label = आनी आनीक म्हायती दाखयात
@@ -71,12 +61,6 @@ cmd-contribute =
     .label = आनी योगदान दियात
     .accesskey = C
     .tooltiptext = ह्या अँड-ऑनाच्या विकासाखातीर योगदान दियात
-
-discover-title = अँड-ऑन म्हळ्यार कितें?
-
-discover-description = अॅड-ऑन्स हे अनुप्रयोग जे तुमका { -brand-short-name } वैयक्तिक रूप  अदिक कार्यक्षमताय वो शैली दितात. वेळ वाचोवपी सायडबार, हवामान कळीत करपी, वो थीम्ड दृश्य वापरून पळयात जाकालागून { -brand-short-name } तुमचे स्वतःचे दिसतले.
-
-discover-footer = तुमी जेन्ना इंटरनेटाक जोडिल्ले आसतात, हे पेन तुमच्याखातीर काय सर्वोत्तम आणि लोकप्रिय अॅड-ऑन तुमका वापरूंक दिता.
 
 detail-version =
     .label = आवृत्ती
@@ -141,14 +125,6 @@ detail-rating =
 addon-restart-now =
     .label = आता परत चालू करात
 
-extensions-view-recent-updates =
-    .name = हालींचे अपडेट
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = उपलब्ध अपडेट
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = विस्तार
 addon-category-extension-title =
     .title = विस्तार
@@ -170,29 +146,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = अॅड-ऑन सुसंगतताय तपासणी अक्षम केल्या. तुमचेकडेन असुसंगत अॅड-ऑन आसू येतात.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = सक्षम
-    .tooltiptext = अँड-ऑन अनुरूपताय तपासणी समर्थ करा
-
-extensions-warning-update-security-label =
-    .value = अॅड-ऑन सुदार सुरक्षा तपासणी अक्षम केल्या. तुमच्या सुदारांनी तडजोड केल्ली आसू येता.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = सक्षम
-    .tooltiptext = अँड-ऑन अपडेट सुरक्षा तपासणी समर्थ करा
-
 extensions-warning-safe-mode = सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात
 extensions-warning-check-compatibility = अॅड-ऑन सुसंगतताय तपासणी अक्षम केल्या. तुमचेकडेन असुसंगत अॅड-ऑन आसू येतात.
 extensions-warning-check-compatibility-button = सक्षम
@@ -204,14 +157,6 @@ extensions-warning-update-security-button = सक्षम
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = आनी अपडेटांखातीर तपासात
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = आनी हालींचे अपडेट पळयात
-    .accesskey = V
-
 addon-updates-check-for-updates = आनी अपडेटांखातीर तपासात
     .accesskey = C
 addon-updates-view-updates = आनी हालींचे अपडेट पळयात
@@ -219,10 +164,6 @@ addon-updates-view-updates = आनी हालींचे अपडेट प
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = अपडेट आनी अँड-ऑन आपसूक
-    .accesskey = A
 
 addon-updates-update-addons-automatically = अपडेट आनी अँड-ऑन आपसूक
     .accesskey = A
@@ -233,36 +174,12 @@ addon-updates-update-addons-automatically = अपडेट आनी अँड-
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = आनी आपसूक अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = आनी हातान अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = आनी आपसूक अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
     .accesskey = R
 addon-updates-reset-updates-to-manual = आनी हातान अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = अँड-ऑन अपडेट करतात
-extensions-updates-installed =
-    .value = तुमचे अँड-ऑन अपडेट केल्यात
-extensions-updates-downloaded =
-    .value = तुमचे अँड-ऑन अपडेट डाऊनलोड केल्यात.
-extensions-updates-restart =
-    .label = स्थापप पूराय करपाक आता परत चालू करात
-extensions-updates-none-found =
-    .value = सुदार उपलबाद ना
-extensions-updates-manual-updates-found =
-    .label = उपलब्ध अपडेट पळयात
-extensions-updates-update-selected =
-    .label = अपडेट स्थापीत करात
-    .tooltiptext = वळेरीत उपलब्ध अपडेट स्थापीत करात
 
 addon-updates-updating = अँड-ऑन अपडेट करतात
 addon-updates-installed = तुमचे अँड-ऑन अपडेट केल्यात

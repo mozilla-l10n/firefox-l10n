@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "सक्षम">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "अक्षम">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "सक्रिय करपाक विचारात">
-<!ENTITY cmd.askToActivate.tooltip            "प्रत्येक वेळार हे अॅड-ऑन वापरपाक विचारात">
-<!ENTITY cmd.alwaysActivate.label             "सदाच सक्रिय करात">
-<!ENTITY cmd.alwaysActivate.tooltip           "हो अॅड-ऑन सदाच वापरात">
-<!ENTITY cmd.neverActivate.label              "केन्नाच सक्रिय करू नाकात.">
-<!ENTITY cmd.neverActivate.tooltip            "हो अॅड-ऑन केन्नाच वापरू नाकात.">
-<!ENTITY cmd.stateMenu.tooltip                "हो अॅड-ऑन केन्ना चलता तेन्ना बदलात">
-
-<!ENTITY cmd.uninstallAddon.label             "काडात">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "पर्याय">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ह्या अॅड-ऑन्साचे पर्यायबदलात">
-<!ENTITY cmd.showPreferencesUnix.label        "प्राधान्य">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ह्या अॅड-ऑन्साची प्राधान्या बदलात">
-
-<!ENTITY cmd.showReleaseNotes.label           "रिलीज नोट दाखयात">
-<!ENTITY cmd.showReleaseNotes.tooltip         "ह्या अपडेटाखातीर रिलीज नोट दाखयात">
-<!ENTITY cmd.hideReleaseNotes.label           "रिलीज नोट लिपयात">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "ह्या अपडेटाखातीर रिलीज नोट दाखयात">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,13 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "रद्द">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "आनीक">
-<!ENTITY addon.details.tooltip                "ह्या अँड ऑनाविशीं आनीक तपशील दाखयात">
-<!ENTITY addon.unknownDate                    "अज्ञात">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(असमर्थ)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "सुदार">
-<!ENTITY addon.undoAction.label               "करू नाकात">
-<!ENTITY addon.undoAction.tooltip             "ही कृती रद्द करात">
-<!ENTITY addon.undoRemove.label               "करू नाकात">
-<!ENTITY addon.undoRemove.tooltip             "हो अँड ऑन स्थापीत करून दवरात ">
 
-<!ENTITY addon.install.label                  "स्थापीत करात">
-<!ENTITY addon.install.tooltip                "हो अँड ऑन स्थापीत करात">
-<!ENTITY addon.updateNow.label                "आता अपडेट करात">
-<!ENTITY addon.updateNow.tooltip              "ह्या अँड ऑनाखातीर अपडेट स्थापीत करात">
-<!ENTITY addon.includeUpdate.label            "अपडेटांत आसपाव करात">
-<!ENTITY addon.updateAvailable.label          "अपडेट उपलब्ध आसा">
-<!ENTITY addon.checkingForUpdates.label       "अपडेटांखातीर तपासतात...">
-<!ENTITY addon.releaseNotes.label             "रिलीज नोट:">
-<!ENTITY addon.loadingReleaseNotes.label      "लोड जाता...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "माफ करा, पूण रिलीज नोट लोड करतना त्रुटी आशिल्ली">
-
-<!ENTITY addon.createdBy.label                "वरवीं">
-
-<!ENTITY settings.path.button.label           "ब्रावज...">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

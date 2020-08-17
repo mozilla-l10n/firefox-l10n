@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "हातूंतल्यान पर्याय, पुस्तकखुणो, इतिहास, गुप्तशब्द आनिक हेर म्हायती  आयात करात:">
 <!ENTITY importFromUnix.label           "हातूंतल्यान प्राधान्यां, पुस्तकखुणो, इतिहास, गुप्तशब्द आनिक हेर म्हायती  आयात करात:">
-<!ENTITY importFromBookmarks.label      "हातूंतल्यान पुस्तकखुणो आयात करात:">
 
 <!ENTITY importFromIE.label             "माक्रोसॉफ्ट इन्टरनेट एक्सप्लोर">
 <!ENTITY importFromIE.accesskey         "M">

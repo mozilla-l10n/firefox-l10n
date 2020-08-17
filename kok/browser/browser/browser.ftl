@@ -58,6 +58,8 @@ browser-main-window-title = { -brand-full-name }
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 # Variables
@@ -88,6 +90,13 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = सोद स्थापितां बदलात
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -125,8 +134,10 @@ popup-all-windows-shared = तुमच्या पड्ड्यावयल�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = सोदात वो नामो दियात
+
 urlbar-placeholder =
     .placeholder = सोदात वो नामो दियात
+
 urlbar-switch-to-tab =
     .value = टॅबाचेर स्विच करचें:
 

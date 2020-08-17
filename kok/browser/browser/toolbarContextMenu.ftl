@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-context-menu-undo-close-tab =
-    .label = धांपिल्ले टॅब परत उगडचे
-    .accesskey = प
-
 toolbar-context-menu-remove-from-toolbar =
     .label = साधनपट्टेतल्यान काडात
     .accesskey = R

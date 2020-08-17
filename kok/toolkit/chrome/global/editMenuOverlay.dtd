@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "संपादन">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label             "केल्ले फाटी घेयात">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "परतून करात">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "कापात">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "आनी प्रत">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "दसयात">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "काडून उडयात">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "वेंचात आनी सगलें ">
-<!ENTITY selectAllCmd.key          "S">
-<!ENTITY selectAllCmd.accesskey    "A">
-
 <!ENTITY findCmd.label             "सोदात">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "फाटले सोदात">
-<!ENTITY findPreviousCmd.accesskey "v">

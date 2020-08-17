@@ -12,10 +12,6 @@ connection-proxy-option-auto =
     .label = ह्या network खातीर आपसूक प्रतिपत्र स्थापितां सोदात
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = हो प्रोक्सी सर्व्हर सगळ्या प्रोटोकॉलांक वापरात
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

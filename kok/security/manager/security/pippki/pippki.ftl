@@ -21,6 +21,9 @@ change-password-reenter = नवो गुप्तशब्द (परतून
 reset-password-window =
     .title = प्रधान गुप्तशब्द  बदलात
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = परतून स्थापित करात
 reset-password-text = जर तुमी मास्टर पासवर्ड परतून थारयलो, तुमचे सगळे साठयल्ले वेब आणि ई-मेल पासवर्ड, अर्जी डेटा, व्यक्तिगत प्रमाणपत्रां आणि खासगी की विसल्ल्यो वतल्यो. तुमी तुमचो मास्टर पासवर्ड खरेच परतून थारावपाक सोदता?
