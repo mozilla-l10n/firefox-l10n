@@ -291,3 +291,5 @@ cannot-encrypt-because-missing = 다음 수신자의 키에 문제가 있어 종
 
 ## Account settings export output
 
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = { $userId } 키 (키 ID { $keyId })가 폐기되었습니다.
