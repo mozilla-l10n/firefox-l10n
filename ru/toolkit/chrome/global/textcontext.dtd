@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Вырезать">
-<!ENTITY cutCmd.accesskey "з">
-<!ENTITY copyCmd.label "Копировать">
-<!ENTITY copyCmd.accesskey "о">
-<!ENTITY pasteCmd.label "Вставить">
-<!ENTITY pasteCmd.accesskey "с">
-<!ENTITY undoCmd.label "Отменить">
-<!ENTITY undoCmd.accesskey "м">
-<!ENTITY selectAllCmd.label "Выделить всё">
-<!ENTITY selectAllCmd.accesskey "ы">
-<!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.accesskey "а">
-
 <!ENTITY spellAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellAddToDictionary.accesskey "б">
 <!ENTITY spellUndoAddToDictionary.label "Отменить добавление в словарь">

@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Значки рядом с текстом">
 <!ENTITY useSmallIcons.label      "Маленькие значки">
 <!ENTITY restoreDefaultSet.label  "Восстановить по умолчанию">
-<!ENTITY addNewToolbar.label      "Добавить панель">
-<!ENTITY showTitlebar.label       "Показать панель заголовка">
-<!ENTITY extraDragSpace.label     "Добавить место для перетаскивания">
 <!ENTITY showTitlebar2.label      "Заголовок">
 <!ENTITY extraDragSpace2.label    "Место для перетаскивания">
 <!ENTITY saveChanges.label        "Готово">

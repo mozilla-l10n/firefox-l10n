@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Попробуйте: Закрепление в�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Почему я это вижу
+
 cfr-doorhanger-extension-cancel-button = Не сейчас
     .accesskey = е
+
 cfr-doorhanger-extension-ok-button = Добавить
     .accesskey = а
 cfr-doorhanger-pintab-ok-button = Закрепить эту вкладку
     .accesskey = З
+
 cfr-doorhanger-extension-manage-settings-button = Управление настройками рекомендаций
     .accesskey = п
+
 cfr-doorhanger-extension-never-show-recommendation = Не показывать мне эту рекомендацию
     .accesskey = е
+
 cfr-doorhanger-extension-learn-more-link = Подробнее
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рекомендация
 cfr-doorhanger-extension-notification2 = Рекомендация
     .tooltiptext = Рекомендация расширения
     .a11y-announcement = Доступна рекомендация расширения
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Рекомендация
@@ -61,6 +69,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } пользователя
        *[many] { $total } пользователей
     }
+
 cfr-doorhanger-pintab-description = Получите лёгкий доступ к наиболее часто используемым вами сайтам. Оставляйте сайты открытыми (даже после перезапуска браузера).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +77,10 @@ cfr-doorhanger-pintab-description = Получите лёгкий доступ �
 cfr-doorhanger-pintab-step1 = <b>Щёлкните правой кнопкой мыши</b> по вкладке, которую вы хотите закрепить.
 cfr-doorhanger-pintab-step2 = Выберите <b>Закрепить вкладку</b> в меню.
 cfr-doorhanger-pintab-step3 = Если на сайте произошло обновление, вы увидите синюю точку на закрепленной вкладке.
+
 cfr-doorhanger-pintab-animation-pause = Приостановить
 cfr-doorhanger-pintab-animation-resume = Возобновить
+
 
 ## Firefox Accounts Message
 
@@ -91,18 +102,24 @@ cfr-protections-panel-link-text = Подробнее
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Новая функция:
+
 cfr-whatsnew-button =
     .label = Что нового
     .tooltiptext = Что нового
+
 cfr-whatsnew-panel-header = Что нового
+
 cfr-whatsnew-release-notes-link-text = Прочитать примечания к выпуску
+
 cfr-whatsnew-fx70-title = { -brand-short-name } теперь ещё сильнее борется за вашу приватность
 cfr-whatsnew-fx70-body = Последняя версия вносит улучшения в защиту от отслеживания и делает создание надёжных паролей для каждого сайта ещё более простым.
+
 cfr-whatsnew-tracking-protect-title = Защитите себя от трекеров
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } блокирует многие социальные и межсайтовые трекеры, которые
     отслеживают вас в Интернете.
 cfr-whatsnew-tracking-protect-link-text = Посмотреть мой отчёт
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -114,9 +131,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = С { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Посмотреть отчёт
+
 cfr-whatsnew-lockwise-backup-title = Сделайте резервную копию паролей
 cfr-whatsnew-lockwise-backup-body = Теперь можно генерировать надежные пароли и получать к ним доступ в любом месте.
 cfr-whatsnew-lockwise-backup-link-text = Включить резервные копии
+
 cfr-whatsnew-lockwise-take-title = Возьмите свои пароли с собой
 cfr-whatsnew-lockwise-take-body = Приложение { -lockwise-brand-short-name } предоставляет вам безопасный доступ к резервным копиям паролей из любой точки мира.
 cfr-whatsnew-lockwise-take-link-text = Загрузить приложение
@@ -151,6 +170,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[many] Сборщиков цифровых отпечатков заблокировано
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокирует множество сборщиков цифровых отпечатков, которые тайно собирают информацию о вашем устройстве и действиях для создания вашего рекламного профиля.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Сборщики цифровых отпечатков
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } может блокировать сборщики цифровых отпечатков, которые тайно собирают информацию о вашем устройстве и действиях для создания вашего рекламного профиля.
@@ -212,6 +232,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Посмотреть всё
     .accesskey = о
+
 cfr-doorhanger-milestone-close-button = Закрыть
     .accesskey = к
 

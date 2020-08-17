@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Сохранить как…
     .accesskey = х
-media-preview =
-    .value = Предпросмотр мультимедиа:
 
 perm-tab =
     .label = Разрешения
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Да, куки
 security-site-data-no = Нет
 
 image-size-unknown = Неизвестно
-not-set-verified-by = Не указано
 page-info-not-specified =
     .value = Не указано
 not-set-alternative-text = Не указано
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Режим совместимости
 general-strict-mode =
     .value = Режим соответствия стандартам
-security-no-owner = Информация о владельце этого веб-сайта отсутствует.
 page-info-security-no-owner =
     .value = Информация о владельце этого веб-сайта отсутствует.
 media-select-folder = Выберите папку для сохранения изображений
