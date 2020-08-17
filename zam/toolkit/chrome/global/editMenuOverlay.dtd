@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Tùs kùe">
-<!ENTITY editMenu.accesskey        "e">
-<!ENTITY undoCmd.label             "Vereé">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "V">
-<!ENTITY redoCmd.label             "Veree koo blil">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "V">
-<!ENTITY cutCmd.label              "Chuy">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "u">
-<!ENTITY copyCmd.label             "loo shog gaa">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "l">
-<!ENTITY pasteCmd.label            "Key">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "K">
-<!ENTITY deleteCmd.label           "Tòmbî">
-<!ENTITY deleteCmd.accesskey       "b">
-<!ENTITY selectAllCmd.label        "Mxhen reey">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "r">
-
 <!ENTITY findCmd.label             "GòzăɁl">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "G">

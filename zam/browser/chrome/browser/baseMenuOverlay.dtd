@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Lii luut ah">
-<!ENTITY bringAllToFront.label    "Taal loo">
-<!ENTITY zoomWindow.label         "Xha niey">
-<!ENTITY windowMenu.label         "Loo">
-
-<!ENTITY helpMenu.label           "Taa diif yall"> 
-<!ENTITY helpMenu.accesskey       "l"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Toob yaal"> 
-<!ENTITY helpMenuWin.accesskey    "o">
-
 <!ENTITY aboutProduct2.label      "Kue nak &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "a">
-<!ENTITY productHelp2.label       "&brandShorterName; Help">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "eyboard Shortcuts">
-<!ENTITY helpKeyboardShortcuts.accesskey "e">
-
-<!ENTITY helpSafeMode.label       "Bí~rè là kíy...">
-<!ENTITY helpSafeMode.accesskey   "B">
-<!ENTITY helpSafeMode.stop.label       "Bí~rè là kíy ner tob ko kub">
-<!ENTITY helpSafeMode.stop.accesskey   "B">
-
-<!ENTITY helpTroubleshootingInfo.label      "Guii xha mud thus kue liy">
-<!ENTITY helpTroubleshootingInfo.accesskey  "G">
-
-<!ENTITY helpFeedbackPage.label      "Taal diif dizh">
-<!ENTITY helpFeedbackPage.accesskey  "h">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Koo lash luu...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Kuan lash loo">
 
 <!ENTITY hideThisAppCmdMac2.label       "Kás~lô &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "kás~lô ré kùe">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mb-lòɁ ré tá">
 

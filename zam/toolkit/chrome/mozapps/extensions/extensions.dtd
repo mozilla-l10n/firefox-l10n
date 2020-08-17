@@ -17,13 +17,6 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 
-<!ENTITY cmd.disableAddon.label               "Naa tobb luy">
-<!ENTITY cmd.disableAddon.accesskey           "N">
-
-<!ENTITY cmd.uninstallAddon.label             "Tee doont naa">
-<!ENTITY cmd.uninstallAddon.accesskey         "T">
-<!ENTITY cmd.showPreferencesWin.label         "Kuan lash luu lil">
-
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -32,28 +25,15 @@
 
 <!-- ratings -->
 
-<!ENTITY progress.cancel.tooltip              "B-láɁ=y">
 
-
-<!ENTITY addon.unknownDate                    "Ngyéntá">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Lí kùb">
-
-<!ENTITY addon.install.label                  "Toob baa">
-<!ENTITY addon.checkingForUpdates.label       "dee kuan koo kub">
 
 
-
-<!ENTITY settings.path.button.label           "Kuan na...">
 
 <!ENTITY setting.learnmore "Lab Kue...">
 

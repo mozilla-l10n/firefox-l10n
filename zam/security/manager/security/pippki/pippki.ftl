@@ -8,6 +8,8 @@
 
 ## Reset Password dialog
 
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Veré
 

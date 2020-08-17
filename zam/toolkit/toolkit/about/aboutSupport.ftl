@@ -4,6 +4,7 @@
 
 page-title = Guii xha mud thus kue liy
 page-subtitle = This page contains technical information that might be useful when you’re trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support website</a>.
+
 crashes-title = Né re ko na re-xhínta
 crashes-id = Kúan mxhac
 crashes-send-date = Ndâ-lá
@@ -48,8 +49,6 @@ graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-crash-guards-title = Crash Guard Disabled Features
 graphics-workarounds-title = Workarounds
-js-title = JavaScript
-js-incremental-gc = Incremental GC
 a11y-title = Sá ták yúl
 a11y-activated = Dód kíy
 sandbox-title = Sandbox
@@ -91,6 +90,7 @@ pending-reports =
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Xá níe ClearType
+
 compositing = Sá thus kúey
 hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = main thread, no OMTC
@@ -102,6 +102,7 @@ no = Yenta
 ## not found.
 
 missing = mdó gúan
+
 gpu-description = Xha nák ah
 gpu-vendor-id = Tá ID ná Vendor
 gpu-device-id = Chó lé Yíb ré
@@ -119,19 +120,23 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Composito
 d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Bí~rè là kíy
 gpu-process-kill-button = Terminate GPU Process
+
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 can-sandbox-content = Content Process Sandboxing
@@ -139,12 +144,14 @@ can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 sandbox-proc-type-content = ko ndzò
 sandbox-proc-type-media-plugin = yíb ná media
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-2 = Naá dób kíy
 multi-process-status-unknown = Ngyéntá
+
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = Yent tí
 

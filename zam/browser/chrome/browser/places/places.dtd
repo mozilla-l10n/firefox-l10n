@@ -41,30 +41,6 @@
 
 
 
-<!ENTITY cmd.open.label                  "Xhal la">
-<!ENTITY cmd.open.accesskey              "X">
-
-
-
-
-<!ENTITY cmd.open_tab.label              "mb-šàlɁ lô kùb">
-<!ENTITY cmd.open_tab.accesskey          "b">
-
-
-
-
-
-
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Toob kue lo ko do lash na...">
-<!ENTITY cmd.new_bookmark.accesskey        "T">
-
-
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-
-
-
 
 
 
@@ -85,15 +61,6 @@
 
 
 <!ENTITY backButton.tooltip  "M-bì~rè">
-
-
-
-
-
-
-
-<!ENTITY view.label               "N-wíɁ">
-<!ENTITY view.accesskey           "w">
 
 
 
