@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Есепті жіберу кезінде қате орын алды. Кейінірек қайталап көріңіз.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Сайт жөнделген ба? Хабарламаны жіберу
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Қалыпты
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Бақылаудан кеңейтілген қорғаныс туралы көбірек ақпарат
+
 protections-panel-etp-on-header = Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылған
 protections-panel-etp-off-header = Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылмаған
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сайт жұмыс істемей тұр ма?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Сайт жұмыс істемей тұр ма?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Бұл сайттағы б�
 ##
 
 protections-panel-no-trackers-found = Бұл бетте { -brand-short-name } үшін белгілі трекерлер табылмады.
+
 protections-panel-content-blocking-tracking-protection = Бақылайтын құрама
+
 protections-panel-content-blocking-socialblock = Әлеуметтік желілер трекерлері
 protections-panel-content-blocking-cryptominers-label = Криптомайнерлер
 protections-panel-content-blocking-fingerprinters-label = Баспаны жинаушылар
@@ -57,7 +63,6 @@ protections-panel-not-found-label = Ешнәрсе табылмады
 ##
 
 protections-panel-settings-label = Қорғаныс баптаулары
-protections-panel-showreport-label = Есептемені көрсету
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Қорғаныс панелі
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = Қорғаныс панелі
 
 # The header of the list
 protections-panel-site-not-working-view-header = Келесімен мәселелер болса, қорғанысты сөндіріңіз:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Кіру өрістері
 protections-panel-site-not-working-view-issue-list-forms = Формалар
 protections-panel-site-not-working-view-issue-list-payments = Төлемдер
 protections-panel-site-not-working-view-issue-list-comments = Түсіндірмелер
 protections-panel-site-not-working-view-issue-list-videos = Видеолар
+
 protections-panel-site-not-working-view-send-report = Есептемені жіберу
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = Криптомайнерлер жүйеңізд
 protections-panel-fingerprinters = Цифрлық баспаны жинаушылар сіздің профиліңізді жасау үшін браузер мен компьютерден параметрлерді жинайды. Бұл цифрлық саусақ ізін қолдана отырып, олар сізді әртүрлі веб-сайттар бойынша қадағалай алады.
 protections-panel-tracking-content = Веб-сайттар бақылау кодымен сыртқы жарнама, видео және басқа құраманы жүктей алады. Бақылайтын құраманы бұғаттау сайттардың жылдамдау жүктелуіне көмектеседі, бірақ, кейбір батырмалар, формалар және кіру өрістері жасамауы мүмкін.
 protections-panel-social-media-trackers = Әлеуметтік желілер басқа веб-сайттарға сіз желіде не жасайтынын, қарайтынын және көретінін бақылау үшін трекерлерді орнатады. Бұл әлеуметтік желі компанияларына сіз әлеуметтік желі профилінде қалдырған ақпараттан бөлек сіз туралы көбірек білуге мүмкін етеді.
+
 protections-panel-content-blocking-manage-settings =
     .label = Қорғаныс баптауларын басқару
     .accesskey = с
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Сынған сайт туралы хабарлау
 protections-panel-content-blocking-breakage-report-view-description = Кейбір трекерлерді бұғаттау кейбір веб-сайттармен мәселелерді туғызуы мүмкін. Осындай мәселелерді хабарлау арқылы { -brand-short-name } өнімін әркім үшін жақсырақ қылуға көмектеседі. Бұл есепті жіберу URL және браузеріңіз ақпаратын Mozilla-ға жібереді. <label data-l10n-name="learn-more">Көбірек білу</label>

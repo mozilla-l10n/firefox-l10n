@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Сұралған құжат &brandShortName; кэшінде жоқ.</p><ul><li>Қауіпсіздік мақсатында, &brandShortName; сезімтал құжаттарды автоматты түрде қайта сұрамайды.</li><li>Құжатты веб сайттан қайта сұрау үшін Қайтадан көру батырмасын шертіңіз.</li></ul>">
 
 <!ENTITY netOffline.title "Дербес жұмыс істеу режимі">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Қайталап көріңіз. &brandShortName; байланысты орнатып, парақты қайта жүктеу талабын жасайды. <button id='wifi'>Wi-Fi іске қосу</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Құраманы декодтау кезінде қате кетті">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li> </ul>">

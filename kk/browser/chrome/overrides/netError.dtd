@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Байланысты орнату сәтсіз аяқталды">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Бұл портқа тыйым салынған">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Сервер табылмады">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Кешіріңіз, бұл сайтты таба алмадық.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Бұл адрес дұрыс болса, келесіні жасап көруіңізге болады:</strong>
 <ul>
@@ -34,15 +28,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Файл табылмады">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Файлдың енгізілген аты, үлкен-кіші әріптердің дұрыстығы, және басқа да қателер жоқ екеніне көз жеткізіңіз.</li> <li>Файлдың аты ауысқан, ол өшірілген немесе басқа жаққа көшірілген болуы мүмкін.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Файлға қатынау құқығы жоқ">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Ол өшірілген, жылжытылған немесе файл рұқсаттары қатынауға жол бермеуі мүмкін.</li> </ul>">
-
-<!ENTITY generic.title "Қате.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; осы парақты белгісіз себептермен жүктей алмайды.</p>">
 
@@ -52,63 +40,32 @@
 <!ENTITY openPortalLoginPage.label2 "Желіге кіру парағын ашу">
 
 <!ENTITY malformedURI.pageTitle "Жарамсыз URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Кешіріңіз, бұл адрес дұрыс адреске ұқсамайды.">
-
-<!ENTITY netInterrupt.title "Байланыс үзілген">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Құжат ескірген">
-
 <!ENTITY notCached.longDesc "<p>Сұралған құжат &brandShortName; кэшінде жоқ.</p><ul><li>Қауіпсіздік мақсатында, &brandShortName; сезімтал құжаттарды автоматты түрде қайта сұрамайды.</li><li>Құжатты веб сайттан қайта сұрау үшін Қайтадан көру батырмасын шертіңіз.</li></ul>">
-
-<!ENTITY netOffline.title "Дербес жұмыс істеу режимі">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Мәзірде &quot;Дербес жұмыс істеу&quot; жалаушасын алып тастап, қайталап көріңіз.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Құраманы декодтау кезінде қате кетті">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Қауіпсіз емес файл түрі">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Веб сайт иелеріне осы мәселе жайында хабарлаңыз.</li> </ul>">
 
-<!ENTITY netReset.title "Байланыс үзілген">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Байланысты күту уақыты аяқталды">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Адресті талдау қатесі">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек мүмкін.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Прокси сервері сұранымдарды үзіп тұр">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Прокси баптауларын дұрыс болуына тексеріңіз.</li> <li>Прокси жұмыс істеуіне көз жеткізу үшін желі әкімшіңізбен хабарласыңыз.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Прокси сервері табылмады">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Прокси баптауларын олардың дұрыстығына тексеріңіз.</li> <li>Компьютеріңіз белсенді желіге қосулы тұрғанына көз жеткізіңіз.</li> <li>Егер компьютеріңіз желілік экран не файрволмен қорғалған болса, &brandShortName; үшін Интернетке қатынау рұқсаты бар-жоғын тексеріңіз.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Парақтағы бағдарлау дұрыс емес">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Бұл мәселе анда-санда cookies файлдарын қабылдау сөндірілген кезде болуы мүмкін.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Сервердің жауабы күтпеген түрде">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Жүйеңізде Personal Security Manager орнатылғанын тексеріңіз.</li> <li>Бұл мәселе қалыпты емес бапталған сервер себебінен болуы мүмкін.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Қорғалған байланысты орнату сәтсіз аяқталды">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Сіз сұраған парақ көрсетілмейді, өйткені алынған мәліметтерді тексеру мүмкін емес.</li> <li>Сайттың иесімен осы мәселе жөнінде хабарласыңыз.</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Назарыңызға: алдыңызда тәуекел бар сияқты">
-<!ENTITY certerror.sts.longpagetitle  "Байланыс орнатылмады: мүмкін қауіпсіздік мәселесі">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -139,11 +96,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Сайт уақытша қолжетерсіз, немесе сұранымдарға толы шығар. Кейінірек қайталап көріңіз.</li> <li>Басқа да сайттарды аша алмасаңыз, компьютеріңіздің желіге байланысу баптауларын тексеріңіз.</li> <li>Компьютер немесе желі желіаралық экранмен немесе прокси-сервермен қорғалған болса – &brandShortName; үшін Интернетке шығуға рұқсат бар екеніне көз жеткізіңіз.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Зақымдалған құрама қатесі">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; бұл парақтың осы контекстте жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін X-Frame-Options саясаты бар.</p>">
 
@@ -154,11 +107,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Осындай қателер туралы хабарлап, Mozilla-ға зиянды сайттарды анықтауға және блоктауға көмектесу">
 <!ENTITY errorReporting.learnMore "Көбірек білу…">
 
-<!ENTITY remoteXUL.title "Қашықтағы XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Қауіпсіз түрде байланысу мүмкін емес">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -169,15 +118,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> сайтының HTTP Strict Transport Security (HSTS) деп аталатын қауіпсіздік саясаты бар, бұл дегеніміз, &brandShortName; оған тек қауіпсіз түрде байланыса алады. Бұл веб-сайт үшін ережеден тыс жағдайды қоса алмайсыз.">
 <!ENTITY certerror.copyToClipboard.label "Мәтінді алмасу буферіне көшіру">
 
-<!ENTITY inadequateSecurityError.title "Сіздің байланысыңыз қауіпсіз емес">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Бұғатталған бет">
-
-<!ENTITY certerror.mitm.title "Бағдарламалық қамтама &brandShortName; үшін бұл сайтқа қауіпсіз түрде байланысуға жол бермейді">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> қауіпсіз сайты әбден болуы мүмкін, бірақ, қауіпсіз байланысты орнату мүмкін емес. Бұл мәселе <span class='mitm-name'/> салдарынан болған, ол сіздің компьютеріңіздегі немесе желіңіздегі бағдарламалық қамтама болып табылады.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Егер сіздің антивирустық БҚ-да шифрленген байланысты сканерлейтін мүмкіндік бар болса ("веб-сканерлеу" немесе "https сканерлеу" деп жиі аталады), ол мүмкіндікті сөндіре аласыз. Егер ол көмектеспесе, антивирустық БҚ-ны өшіріп, қайта орната аласыз.'>
@@ -185,14 +130,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Егер сізге <span class='mitm-name'/> бейтаныс болса, онда бұл шабуыл болуы мүмкін, сайтқа өтуді жалғастырмауыңыз жөн болады.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Егер сізге <span class='mitm-name'/> бейтаныс болса, онда бұл шабуыл болуы мүмкін, сайтқа қатынай алмайсыз.">
 
-<!ENTITY clockSkewError.title "Сіздің компьютеріңіздің сағаты қате">
-
 <!ENTITY clockSkewError.longDesc "Компьютеріңіз қазір <span id='wrongSystemTime_systemDate1'/> деп ойлайды, оның салдарынан &brandShortName; қауіпсіз түрде байланыса алмайды. <span class='hostname'></span> шолу үшін, комьютеріңіздің сағатын дұрыс күн, уақыт және уақыт белдеуі мәндеріне жаңартып, <span class='hostname'></span> жаңартыңыз.">
 
 <!ENTITY prefReset.longDesc "Сіздің желілік қауіпсіздік баптаулар осыны туғызатын сияқты. Бастапқы баптауларды қалпына келтіруді қалайсыз ба?">
 <!ENTITY prefReset.label "Бастапқы баптауларды қалпына келтіру">
-
-<!ENTITY networkProtocolError.title "Желілік хаттама қатесі">
 
 <!ENTITY enableTls10.longDesc "Бұл веб-сайты TLS 1.2 хаттамасын қолдамауы мүмкін, ол болса, &brandShortName; қолдау көрсететін минималды нұсқасы. TLS 1.0 және TLS 1.1 іске қосу бұл байланыстың сәтті орнатылуына көмектесуі мүмкін.">
 <!ENTITY enableTls10.note "TLS 1.0 және TLS 1.1 болашақ шығарылымда толықтай сөндіріледі.">

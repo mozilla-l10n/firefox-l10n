@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Қалайша сақтау…
     .accesskey = а
-media-preview =
-    .value = Мультимедианы алдын-ала қарау:
 
 perm-tab =
     .label = Рұқсаттар
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Иә, cookies файлдары
 security-site-data-no = Жоқ
 
 image-size-unknown = Белгісіз
-not-set-verified-by = Көрсетілмеген
 page-info-not-specified =
     .value = Көрсетілмеген
 not-set-alternative-text = Көрсетілмеген
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Үйлесу режимі
 general-strict-mode =
     .value = Стандарттарға сәйкес режим
-security-no-owner = Осы сайт иелік туралы ақпарат жоқ
 page-info-security-no-owner =
     .value = Осы сайт иелік туралы ақпарат жоқ
 media-select-folder = Суреттерді сақтау үшін буманы таңдаңыз

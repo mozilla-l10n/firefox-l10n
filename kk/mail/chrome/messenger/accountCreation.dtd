@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Бар болып тұрған эл. пошта тіркелгісін баптау">
-
 <!ENTITY emailWizard.title               "Бар болып тұрған эл. пошта адресін баптау">
 <!ENTITY emailWizard.caption             "Ағымдағы эл. пошта адресін қолдану">
 <!ENTITY name.label                      "Сіздің атыңыз:">
 <!ENTITY name.accesskey                  "ы">
-<!ENTITY name.placeholder                "Аты Жөні">
 <!ENTITY fullname.placeholder            "Сіздің толық атыңыз">
 <!ENTITY name.text                       "Басқаларға көрсетілетіндей, сіздің атыңыз">
 <!ENTITY name.error                      "Атыңызды енгізіңіз">
 <!ENTITY email.label                     "Эл. пошта адресі:">
 <!ENTITY email.accesskey                 "л">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Эл. пошта адресіңіз">
 <!ENTITY email.text                      "Сіздің бар болып тұрған эл. пошта адресіңіз">
 <!ENTITY email.error                     "Эл. пошта адресі қате">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Шығыс:">
 <!ENTITY outgoingColumn.label            "Шығыс">
 <!ENTITY username.label                  "Пайдаланушы аты:">
-<!ENTITY hostname.label                  "Сервердің хост аты">
-<!ENTITY port.label                      "Порт">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Сервер:">
 <!ENTITY portRow.label                   "Порт:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Қайта тексеру">
 <!ENTITY half-manual-test.accesskey      "т">
-<!ENTITY manual-edit.label               "Қолмен баптау">
-<!ENTITY manual-edit.accesskey           "м">
 <!ENTITY manual-config.label             "Қолдан баптау…">
 <!ENTITY manual-config.accesskey         "д">
 <!ENTITY open-provisioner.label          "Жаңа эл. пошта адресін алу…">

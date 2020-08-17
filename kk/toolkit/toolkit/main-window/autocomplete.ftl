@@ -11,5 +11,11 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Логиніңізді { $browser } ішінен импорттаңыз</div>
     <div data-l10n-name="line2">{ $host } және басқа да сайттар үшін</div>
+
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Көбірек білу

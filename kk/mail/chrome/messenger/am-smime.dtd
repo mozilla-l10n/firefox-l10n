@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Қауіпсіздік">
-<!ENTITY securityTab.label "Қауіпсіздік">
-<!ENTITY securityHeading.label "Цифрлық қолтаңбасы бар немесе шифрленген хабарламаларды жіберу және қабылдау үшін, сізге цифрлық қолтаңбаны қою сертификатын және шифрлеу сертификатын көрсету керек.">
-<!ENTITY encryptionGroupTitle.label "Шифрлеу">
-<!ENTITY encryptionChoiceLabel.label "Хабарламаларды жіберу кезінде негізгі шифрлеу баптауы:">
-<!ENTITY neverEncrypt.label "Ешқашан (шифрлеуді қолданбау)">
-<!ENTITY neverEncrypt.accesskey "н">
-<!ENTITY alwaysEncryptMessage.label "Міндетті (барлық алушыларда сертификаттар болған кезде ғана жіберуге болады)">
-<!ENTITY alwaysEncryptMessage.accesskey "д">
-<!ENTITY encryptionCert.message "Бұл сертификатты шифрлеу және сізге жіберілген хабарламаларды дешифрлеу үшін қолдану:">
-
 <!ENTITY e2eTitle.label "Өтпелі шифрлеу">
-<!ENTITY e2eIntro.description "Шифрленген немесе цифрлық қолтаңбасы бар хабарламаларды жіберу үшінғ сізге OpenPGP немесе S/MIME сияқты шифрлеу технологиясын баптау керек.">
 <!ENTITY e2eLearnMore.label "Көбірек білу">
 
 <!ENTITY e2eEnc.description "Өтпелі шифрлеусіз хабарламалардың мазмұны эл. пошта провайдеріне және жаппай бақылау қызметтеріне оңай түрде қолжетімді.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Тазарту">
 <!ENTITY encryption.certificate_clear.accesskey "е">
 <!ENTITY signingGroupTitle.label "Цифрлық қолтаңбаларды қою">
-<!ENTITY signMessage.label "Хабарламаларға цифрлық қолтаңбаларды қою (үнсіз келісім бойынша)">
 <!ENTITY signMessage2.label "Үнсіз келісім бойынша менің цифрлық қолтаңбамды қосу">
 <!ENTITY signMessage.accesskey "ц">
-<!ENTITY signingCert.message "Бұл сертификатты сіз жіберетін хабарламаларға цифрлық қолтаңба қою үшін қолдану:">
-
-<!ENTITY certificates.label "Сертификаттар">
-<!ENTITY manageCerts2.label "Сертификаттарды басқару">
-<!ENTITY manageCerts2.accesskey "б">
-<!ENTITY manageDevices.label "Қорғаныс жабдықтары">
-<!ENTITY manageDevices.accesskey "ж">
 
 <!ENTITY signingCert2.message "Цифрлық қолтаңба қою үшін жеке сертификат:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "OpenPGP қалау">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGPкілттерін басқару">
-<!ENTITY manageKeys.accesskey "к">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Сертификатты таңдау">

@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Толық экраннан шығу
 find = Табу
 new-tab = Жаңа бет
 add-bookmark = Бетбелгіні қосу
-open-bookmarks-sidebar = Бетбелгілер бүйір панелін ашу
 reader-view = Оқу көрінісі
 # Meant to match the string displayed in an empty URL bar.
 open-location = Іздеу немесе адрес
