@@ -40,35 +40,6 @@
 <!ENTITY cmd.restoreFromFile.label   "Wybierz plik…">
 <!ENTITY cmd.restoreFromFile.accesskey   "W">
 
-<!ENTITY cmd.deleteDomainData.label     "Usuń całą witrynę">
-<!ENTITY cmd.deleteDomainData.accesskey "w">
-
-<!ENTITY cmd.open.label   "Otwórz">
-<!ENTITY cmd.open.accesskey   "O">
-<!ENTITY cmd.open_window.label   "Otwórz w nowym oknie">
-<!ENTITY cmd.open_window.accesskey   "n">
-<!ENTITY cmd.open_private_window.label "Otwórz w nowym oknie prywatnym">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label   "Otwórz w nowej karcie">
-<!ENTITY cmd.open_tab.accesskey   "w">
-<!ENTITY cmd.open_all_in_tabs.label   "Otwórz wszystkie w kartach">
-<!ENTITY cmd.open_all_in_tabs.accesskey   "O">
-
-<!ENTITY cmd.properties.label   "Właściwości">
-<!ENTITY cmd.properties.accesskey   "i">
-
-<!ENTITY cmd.sortby_name.label   "Sortuj wg nazw">
-<!ENTITY cmd.sortby_name.accesskey   "S">
-<!ENTITY cmd.context_sortby_name.accesskey   "r">
-
-<!ENTITY cmd.new_bookmark.label   "Nowa zakładka…">
-<!ENTITY cmd.new_bookmark.accesskey   "z">
-<!ENTITY cmd.new_folder.label   "Nowy folder…">
-<!ENTITY cmd.new_folder.accesskey   "f">
-<!ENTITY cmd.context_new_folder.accesskey   "f">
-<!ENTITY cmd.new_separator.label   "Nowy separator">
-<!ENTITY cmd.new_separator.accesskey   "S">
-
 <!ENTITY col.name.label   "Nazwa">
 <!ENTITY col.tags.label   "Etykiety">
 <!ENTITY col.url.label   "Adres">
@@ -76,9 +47,6 @@
 <!ENTITY col.visitcount.label "Liczba wizyt">
 <!ENTITY col.dateadded.label   "Dodano">
 <!ENTITY col.lastmodified.label   "Ostatnia modyfikacja">
-
-<!ENTITY historySearch.placeholder "Szukaj w historii">
-<!ENTITY bookmarksSearch.placeholder "Szukaj w zakładkach">
 
 <!ENTITY cmd.find.key   "f">
 
@@ -92,15 +60,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Zaznacz element, by wyświetlić i edytować jego właściwości">
 
-<!ENTITY view.label               "Widok">
-<!ENTITY view.accesskey           "k">
-<!ENTITY byDate.label             "Według daty" >
-<!ENTITY byDate.accesskey         "d" >
-<!ENTITY bySite.label             "Według witryny" >
-<!ENTITY bySite.accesskey         "w" >
-<!ENTITY byMostVisited.label      "Według liczby wizyt" >
-<!ENTITY byMostVisited.accesskey "l" >
-<!ENTITY byLastVisited.label      "Według ostatniej wizyty" >
-<!ENTITY byLastVisited.accesskey "o" >
-<!ENTITY byDayAndSite.label       "Według daty i witryny" >
-<!ENTITY byDayAndSite.accesskey   "t" >

@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Anuluj
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Uszkadza mój komputer i dane
-
 abuse-report-damage-reason-v2 = Uszkadza mój komputer lub narusza bezpieczeństwo moich danych
 abuse-report-damage-example = Przykład: złośliwe oprogramowanie lub kradzież danych
 
-abuse-report-spam-reason = Tworzy spam lub reklamy
-
 abuse-report-spam-reason-v2 = Zawiera spam lub wstawia niechciane reklamy
 abuse-report-spam-example = Przykład: wstawianie reklam na stronach internetowych
-
-abuse-report-settings-reason = Zmienia moją wyszukiwarkę, stronę startową lub stronę nowej karty bez informacji ani zgody
 
 abuse-report-settings-reason-v2 = Zmienia moją wyszukiwarkę, stronę startową lub stronę nowej karty bez informacji ani zgody
 abuse-report-settings-suggestions = Przed zgłoszeniem rozszerzenia można spróbować zmienić ustawienia:
 abuse-report-settings-suggestions-search = Zmień domyślne ustawienia wyszukiwania
 abuse-report-settings-suggestions-homepage = Zmień stronę startową i stronę nowej karty
 
-abuse-report-deceptive-reason = Udaje, że jest czymś, czym nie jest
-
 abuse-report-deceptive-reason-v2 = Udaje, że jest czymś, czym nie jest
 abuse-report-deceptive-example = Przykład: mylący opis lub obrazy
-
-abuse-report-broken-reason-extension = Nie działa, psuje strony internetowe lub spowalnia działanie przeglądarki { -brand-product-name }
-abuse-report-broken-reason-theme = Nie działa lub psuje interfejs przeglądarki
 
 abuse-report-broken-reason-extension-v2 = Nie działa, psuje strony internetowe lub spowalnia działanie przeglądarki { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nie działa lub psuje interfejs przeglądarki
@@ -99,14 +88,10 @@ abuse-report-broken-suggestions-theme =
     problemu z funkcjonalnością jest skontaktowanie się z autorami motywu.
     <a data-l10n-name="support-link">Strona motywu</a> zawiera informacje o jego autorach.
 
-abuse-report-policy-reason = Nienawistne, brutalne lub nielegalne treści
-
 abuse-report-policy-reason-v2 = Zawiera nienawistne, brutalne lub nielegalne treści
 abuse-report-policy-suggestions =
     Uwaga: kwestie praw autorskich i znaków towarowych muszą być zgłaszane inną metodą.
     <a data-l10n-name="report-infringement-link">Skorzystaj z tych instrukcji</a>, aby zgłosić taki problem.
-
-abuse-report-unwanted-reason = Rozszerzenie samo się zainstalowało i nie można go usunąć
 
 abuse-report-unwanted-reason-v2 = Samo się zainstalowało i nie wiem, jak je usunąć
 abuse-report-unwanted-example = Przykład: aplikacja zainstalowała je bez mojej zgody

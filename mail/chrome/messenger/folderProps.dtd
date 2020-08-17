@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Typ folderu:">
 
 <!ENTITY folderQuotaTab.label                    "Limit miejsca">
-<!ENTITY folderQuotaRoot.label                   "Limit miejsca:">
 <!ENTITY folderQuotaUsage.label                  "Użycie:">
 <!ENTITY folderQuotaStatus.label                 "Stan:">
 

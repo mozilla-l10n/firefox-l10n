@@ -35,12 +35,7 @@ connection-proxy-http = Serwer proxy HTTP:
     .accesskey = H
 connection-proxy-http-port = Port:
     .accesskey = o
-connection-proxy-http-share =
-    .label = Użyj tego serwera proxy dla wszystkich protokołów
-    .accesskey = U
 
-connection-proxy-ssl = Serwer proxy SSL:
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Użyj tego serwera proxy także dla FTP i HTTPS
     .accesskey = U

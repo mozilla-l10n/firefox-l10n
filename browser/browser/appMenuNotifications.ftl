@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Zarządzaj dodatkami klikając <image data-
 appmenu-addon-post-install-incognito-checkbox =
     .label = To rozszerzenie może działać w oknach prywatnych
     .accesskey = T
-appmenu-addon-private-browsing =
-    .label = Zmiana działania rozszerzeń w oknach prywatnych
-    .buttonlabel = Ustawienia rozszerzeń
-    .buttonaccesskey = U
-    .secondarybuttonlabel = OK
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Rozszerzenia dodane do przeglądarki { -brand-shorter-name } nie będą działać w oknach prywatnych, jeśli nie zostanie to zmienione w ustawieniach.
-appmenu-addon-private-browsing-learn-more = Więcej informacji o zarządzaniu ustawieniami rozszerzeń.
     
 appmenu-new-tab-controlled =
     .label = Strona nowej karty została zmieniona.

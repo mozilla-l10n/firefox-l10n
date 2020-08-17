@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Podaj prawidłową nazwę hosta
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Blokowanie treści — wyjątki
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Blokowanie treści zostało wyłączone dla tych witryn.
-
 permissions-exceptions-etp-window =
     .title = Wzmocniona ochrona przed śledzeniem — wyjątki
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Określ, które witryny mogą instalować dodatki. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Automatyczne odtwarzanie — wyjątki
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Określ, które witryny będą mogły zawsze (lub nigdy) automatycznie odtwarzać treści z dźwiękiem. Wprowadź adres witryny, której uprawnienia chcesz określić, i wybierz Zezwalaj lub Blokuj.
 
 ## Site Permissions - Autoplay
 
