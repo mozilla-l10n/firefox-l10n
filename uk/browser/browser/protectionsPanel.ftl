@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = При надсиланні звіту сталася помилка. Спробуйте знову пізніше.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Сайт було виправлено? Надішліть звіт
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Звичайний
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Більше інформації про розширений захист від стеження
+
 protections-panel-etp-on-header = Розширений захист від стеження для цього сайту увімкнено
 protections-panel-etp-off-header = Розширений захист від стеження для цього сайту вимкнено
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Не працює сайт?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Не працює сайт?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Всі елементи с�
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name } не виявив відомих елементів стеження на цій сторінці.
+
 protections-panel-content-blocking-tracking-protection = Вміст стеження
+
 protections-panel-content-blocking-socialblock = Стеження соціальних мереж
 protections-panel-content-blocking-cryptominers-label = Криптомайнери
 protections-panel-content-blocking-fingerprinters-label = Зчитування цифрового відбитка
@@ -65,12 +71,14 @@ protections-panel-protectionsdashboard-label = Панель стану захи�
 
 # The header of the list
 protections-panel-site-not-working-view-header = Вимкніть захист, якщо у вас виникли проблеми з:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Полями для входу
 protections-panel-site-not-working-view-issue-list-forms = Формами
 protections-panel-site-not-working-view-issue-list-payments = Платежами
 protections-panel-site-not-working-view-issue-list-comments = Коментарями
 protections-panel-site-not-working-view-issue-list-videos = Відео
+
 protections-panel-site-not-working-view-send-report = Надіслати звіт
 
 ##
@@ -80,9 +88,11 @@ protections-panel-cryptominers = Криптомайнери використов
 protections-panel-fingerprinters = Засоби зчитування цифрового відбитка збирають дані про налаштування вашого браузера та комп'ютера, з метою створення вашого профілю. Використовуючи такий цифровий відбиток, вони можуть стежити за вами на багатьох різних вебсайтах.
 protections-panel-tracking-content = Вебсайти можуть завантажувати зовнішню рекламу, відео, а також інший вміст з кодом стеження. Блокування такого вмісту може допомогти сайтам швидше завантажуватись, але при цьому деякі кнопки, поля форм і входів можуть не працювати.
 protections-panel-social-media-trackers = Соціальні мережі розміщують елементи стеження на інших вебсайтах, щоб стежити за вашими діями в інтернеті. Це дозволяє їм дізнаватися більше про вас, окрім того, чим ви ділитеся у своєму профілі.
+
 protections-panel-content-blocking-manage-settings =
     .label = Керувати налаштуваннями захисту
     .accesskey = К
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Повідомити про пошкоджений сайт
 protections-panel-content-blocking-breakage-report-view-description = Блокування певних елементів стеження може призвести до проблем з деякими вебсайтами. Звіт про такі проблеми допомагає поліпшувати роботу { -brand-short-name }. При надсиланні цього звіту в Mozilla відправиться URL-адреса з інформацією про налаштування вашого браузера. <label data-l10n-name="learn-more">Докладніше</label>

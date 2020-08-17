@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Вибрати всі вкладки
     .accesskey = б
-toolbar-context-menu-undo-close-tab =
-    .label = Відновити закриту вкладку
-    .accesskey = В
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

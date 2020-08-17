@@ -8,8 +8,10 @@ password-quality-meter = Рівень якості пароля
 
 change-password-window =
     .title = Зміна головного пароля
+
 change-device-password-window =
     .title = Змінити пароль
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Пристрій захисту: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Новий пароль (ще раз):
 reset-password-window =
     .title = Скидання головного пароля
     .style = width: 40em
+
 pippki-failed-pw-change = Не вдається змінити пароль.
 pippki-incorrect-pw = Ви ввели неправильний поточний головний пароль. Спробуйте ще раз.
 pippki-pw-change-ok = Пароль змінено.
+
 pippki-pw-empty-warning = Ваші збережені паролі та приватні ключі будуть не захищеними.
 pippki-pw-erased-ok = Ви видалили головний пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Попередження! Ви вирішили не використовувати головний пароль. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Зараз ви в режимі FIPS. Для цього режиму необхідно встановити пароль.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Скинути
 reset-password-text = Якщо ви скинете свій головний пароль, всі збережені паролі для інтернету і електронної пошти, дані форм, особисті сертифікати і закриті ключі будуть втрачені. Ви дійсно хочете скинути свій головний пароль?
+
 reset-primary-password-text = Якщо ви скинете свій головний пароль, всі збережені паролі для мережі та електронної пошти, особисті сертифікати та приватні ключі буде втрачено. Ви справді хочете скинути свій головний пароль?
+
 pippki-reset-password-confirmation-title = Скинути головний пароль
 pippki-reset-password-confirmation-message = Ваш головний пароль скинуто.
 

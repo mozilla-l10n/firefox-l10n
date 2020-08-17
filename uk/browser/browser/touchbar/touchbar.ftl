@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Вийти з повноекранного режим
 find = Знайти
 new-tab = Нова вкладка
 add-bookmark = Додати закладку
-open-bookmarks-sidebar = Відкрити панель закладок
 reader-view = Режим читання
 # Meant to match the string displayed in an empty URL bar.
 open-location = Введіть запит чи адресу

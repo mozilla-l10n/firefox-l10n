@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Повторити">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "т">
-<!ENTITY cutCmd.label "Вирізати">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "и">
-<!ENTITY copyCmd.label "Копіювати">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "п">
-<!ENTITY pasteCmd.label "Вставити">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "т">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "ф">
@@ -90,14 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Панель вкладень">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "в">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Виділити все">
 <!ENTITY selectAllCmd.accesskey "с">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Знайти…">
 <!ENTITY findBarCmd.accesskey "З">
 <!ENTITY findBarCmd.key "F">
@@ -252,23 +239,12 @@
 <!ENTITY printButton.tooltip "Друкувати це повідомлення">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Від:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Інші типи адресних полів">
 <!ENTITY fromAddr2.label "Від">
 <!ENTITY fromAddr.accesskey "д">
-<!ENTITY toAddr.label "Кому:">
-<!ENTITY ccAddr.label "Копія:">
-<!ENTITY bccAddr.label "Прих. копія:">
-<!ENTITY replyAddr.label "Зворотна адреса:">
-<!ENTITY newsgroupsAddr.label "Група новин:">
-<!ENTITY followupAddr.label "Продовжити в:">
-<!ENTITY subject.label "Тема:">
 <!ENTITY toAddr2.label "Кому">
 <!ENTITY ccAddr2.label "Копія">
 <!ENTITY bccAddr2.label "Прихована копія">
@@ -277,14 +253,6 @@
 <!ENTITY followupAddr2.label "Продовжити в">
 <!ENTITY subject2.label "Тема">
 <!ENTITY subject.accesskey "Т">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "В">
-<!ENTITY attachmentBucketHeader.tooltip "Панель вкладень">
 <!ENTITY attachmentBucketCloseButton.tooltip "Сховати панель вкладень">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

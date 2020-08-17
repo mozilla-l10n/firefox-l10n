@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Вказаний документ більше не є доступним у кеші &brandShortName;.</p><ul><li>З міркувань безпеки &brandShortName; не перезавантажує чутливі документи автоматично.</li><li>Клацніть «Спробувати знову» щоб перезавантажити документ з сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Автономний режим">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Спробувати знову. &brandShortName; спробує відновити з'єднання і перезавантажити сторінку.
-    <button id='wifi'>Активувати Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Помилка кодування вмісту">
 <!ENTITY contentEncodingError.longDesc "

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Захист">
-<!ENTITY securityTab.label "Безпека">
-<!ENTITY securityHeading.label "Щоб отримувати й надсилати захищені повідомлення або повідомлення з цифровим підписом, вам потрібно вказати сертифікат ключа шифрування і сертифікат ключа підпису.">
-<!ENTITY encryptionGroupTitle.label "Шифрування">
-<!ENTITY encryptionChoiceLabel.label "Використовувати шифрування під час надсилання повідомлень:">
-<!ENTITY neverEncrypt.label "Ніколи (не використовувати шифрування)">
-<!ENTITY neverEncrypt.accesskey "Н">
-<!ENTITY alwaysEncryptMessage.label "Завжди (повідомлення не буде надіслано, якщо не у всіх адресатів є сертифікати)">
-<!ENTITY alwaysEncryptMessage.accesskey "З">
-<!ENTITY encryptionCert.message "Застосовуйте цей сертифікат для захисту &amp; розшифрування отриманих повідомлень:">
-
 <!ENTITY e2eTitle.label "Наскрізне шифрування">
 <!ENTITY e2eLearnMore.label "Докладніше">
 
@@ -36,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Очистити">
 <!ENTITY encryption.certificate_clear.accesskey "и">
 <!ENTITY signingGroupTitle.label "Цифровий підпис">
-<!ENTITY signMessage.label "Підписувати повідомлення цифровим підписом (типово)">
 <!ENTITY signMessage2.label "Додати мій цифровий підпис типово">
 <!ENTITY signMessage.accesskey "і">
-<!ENTITY signingCert.message "Особистий сертифікат для підпису повідомлень:">
-
-<!ENTITY certificates.label "Сертифікати">
-<!ENTITY manageCerts2.label "Керування сертифікатами">
-<!ENTITY manageCerts2.accesskey "К">
-<!ENTITY manageDevices.label "Керувати пристроями">
-<!ENTITY manageDevices.accesskey "К">
 
 <!ENTITY signingCert2.message "Особистий сертифікат для цифрового підпису:">
 

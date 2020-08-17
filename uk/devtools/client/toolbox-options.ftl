@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Увімкнути віддалене зневадження
-options-enable-remote-tooltip =
-    .title = Увімкнення цієї опції дозволить інструментам розробника зневаджувати віддалений екземпляр, наприклад, Firefox OS
 
 options-enable-remote-tooltip2 =
     .title = Увімкнення цього параметра дозволить віддалене зневадження цього екземпляру браузера

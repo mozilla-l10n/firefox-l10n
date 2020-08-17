@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Введіть правильне мережев
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Винятки - Блокування вмісту
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Ви вимкнули блокування вмісту на цих вебсайтах.
-
 permissions-exceptions-etp-window =
     .title = Винятки для розширеного захисту від стеження
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Ви можете вказати, яким сайтам дозволено встановлювати додатки. Введіть точну адресу кожного сайту і натисніть кнопку Дозволити.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Винятки - Автовідтворення
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Ви можете вказати, яким вебсайтам завжди дозволяється автоматично відтворювати медіа зі звуком. Введіть адресу сайту і натисніть кнопку Блокувати або Дозволити.
 
 ## Site Permissions - Autoplay
 

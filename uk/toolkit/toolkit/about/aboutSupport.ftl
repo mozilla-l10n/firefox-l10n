@@ -7,6 +7,7 @@ page-subtitle =
     Ця сторінка містить технічну інформацію, що може стати у нагоді під час вирішення проблем.
     Якщо ж вам потрібні відповіді на загальні питання щодо
     { -brand-short-name } — відвідайте наш <a data-l10n-name="support-link">сайт підтримки</a>.
+
 crashes-title = Звіти про збої
 crashes-id = ID звіту
 crashes-send-date = Надіслано
@@ -107,8 +108,6 @@ graphics-desktop-environment = Середовище робочого столу
 place-database-title = База даних Places
 place-database-integrity = Цілісність
 place-database-verify-integrity = Перевірити цілісність
-js-title = JavaScript
-js-incremental-gc = Інкрементний GC
 a11y-title = Доступність
 a11y-activated = Активовано
 a11y-force-disabled = Блокувати можливості доступності
@@ -128,6 +127,7 @@ sandbox-sys-call-number = Системний виклик
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Спробувати безпечний режим
 restart-in-safe-mode-label = Перезапустити з вимкненими додатками…
+
 clear-startup-cache-title = Спробуйте очистити кеш запуску
 clear-startup-cache-label = Очистити кеш запуску…
 startup-cache-dialog-title = Очистити кеш запуску
@@ -138,7 +138,6 @@ restart-button-label = Перезапустити
 
 audio-backend = Обробка аудіо
 max-audio-channels = Максимальне число каналів
-channel-layout = Основний формат каналів
 sample-rate = Основна частота
 roundtrip-latency = Затримка в обох напрямках (стандартне відхилення)
 media-title = Медіа
@@ -192,6 +191,7 @@ report-crash-for-days =
         [few] Звіти за минулі { $days } дні
        *[many] Звіти за минулі { $days } днів
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -200,6 +200,7 @@ crashes-time-minutes =
         [few] { $minutes } хвилини тому
        *[many] { $minutes } хвилин тому
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -208,6 +209,7 @@ crashes-time-hours =
         [few] { $hours } години тому
        *[many] { $hours } годин тому
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -216,6 +218,7 @@ crashes-time-days =
         [few] { $days } дні тому
        *[many] { $days } днів тому
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -224,6 +227,7 @@ pending-reports =
         [few] Всі звіти про збої (за вказаний проміжок часу, включно з { $reports }, що очікує надсилання)
        *[many] Всі звіти про збої (за вказаний проміжок часу, включно з { $reports }, що очікують надсилання)
     }
+
 raw-data-copied = Необроблені дані скопійовано в буфер
 text-copied = Текст скопійовано в буфер
 
@@ -236,9 +240,11 @@ blocked-mismatched-version = Заблоковано через невідпов�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Заблоковано для вашого графічного драйвера. Спробуйте оновити графічний драйвер до версії { $driverVersion } чи новішої.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметри ClearType
+
 compositing = Композиція
 hardware-h264 = Апаратне декодування H264
 main-thread-no-omtc = головний потік, не OMTC
@@ -253,6 +259,7 @@ virtual-monitor-disp = Відображення віртуального мон�
 
 found = Знайдено
 missing = Відсутнє
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Опис
@@ -276,21 +283,25 @@ webgl2-version = WebGL 2 - Версія драйвера
 webgl2-driver-extensions = WebGL 2 - Розширення драйвера
 webgl2-extensions = WebGL 2 - Розширення
 blocklisted-bug = Заблоковано через відомі проблеми
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = вада { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Заблоковано, у зв'язку з відомими проблемами: <a data-l10n-name="bug-link">звіт { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Заблоковано; код помилки { $failureCode }
+
 d3d11layers-crash-guard = Композитор D3D11
 d3d11video-crash-guard = Відео декодер D3D11
-d3d9video-crash-buard = Відео декодер D3D9
 d3d9video-crash-guard = Відео декодер D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Відео декодер WMF VPX
+
 reset-on-next-restart = Скинути при наступному перезавантаженні
 gpu-process-kill-button = Завершити GPU процес
 gpu-device-reset = Скидання пристрою
@@ -300,8 +311,10 @@ content-uses-tiling = Використовує тайлінг (вміст)
 off-main-thread-paint-enabled = Вимальовування поза основним потоком увімкнено
 off-main-thread-paint-worker-count = Число воркерів вимальовування поза основним потоком
 target-frame-rate = Цільова частота кадрів
+
 min-lib-versions = Очікувана мінімальна версія
 loaded-lib-versions = Поточна версія
+
 has-seccomp-bpf = Seccomp-BPF (Фільтрування системних викликів)
 has-seccomp-tsync = Синхронізація потоку Seccomp
 has-user-namespaces = Користувацькі простори імен
@@ -314,15 +327,18 @@ sandbox-proc-type-content = вміст
 sandbox-proc-type-file = вміст файлу
 sandbox-proc-type-media-plugin = медіаплагін
 sandbox-proc-type-data-decoder = декодер даних
+
 startup-cache-title = Кеш запуску
 startup-cache-disk-cache-path = Шлях дискового кешу
 startup-cache-ignore-disk-cache = Ігнорувати дисковий кеш
 startup-cache-found-disk-cache-on-init = Знайдено дисковий кеш в Init
 startup-cache-wrote-to-disk-cache = Записано в дисковий кеш
+
 launcher-process-status-0 = Увімкнено
 launcher-process-status-1 = Вимкнено через збій
 launcher-process-status-2 = Примусово вимкнено
 launcher-process-status-unknown = Невідомий стан
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -335,6 +351,7 @@ multi-process-status-6 = Вимкнено через непідтримуван�
 multi-process-status-7 = Вимкнено додатками
 multi-process-status-8 = Примусово вимкнені
 multi-process-status-unknown = Невідомий стан
+
 async-pan-zoom = Асинхронне панорамування/зум
 apz-none = немає
 wheel-enabled = введення коліщатком увімкнено

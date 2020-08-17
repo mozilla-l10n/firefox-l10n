@@ -2,20 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Під час з’єднання з { $hostname } сталася помилка. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код помилки: { $error }
+
 psmerr-ssl-disabled = Неможливо встановити безпечне з’єднання через те, що протокол SSL вимкнено.
 psmerr-ssl2-disabled = Неможливо встановити безпечне з’єднання через те, що сайт використовує стару, ненадійну версію протоколу SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ви отримали нечинний сертифікат. Будь ласка, зв’яжіться з адміністратором сервера чи адресатом і передайте їм наступну інформацію:
     
     Ваш сертифікат містить той же серійний номер що й інший сертифікат випущений центром сертифікації. Будь ласка отримайте сертифікат що має унікальний серійний номер.
+
 ssl-error-export-only-server = Неможливо спілкуватись конфіденційно. Вузол не підтримує високорівневе шифрування.
 ssl-error-us-only-server = Неможливо спілкуватись конфіденційно. Вузол вимагає високорівневе шифрування, котре не підтримується.
 ssl-error-no-cypher-overlap = З вузлом неможливо спілкуватись конфіденційно: немає спільних криптоалгоритмів.

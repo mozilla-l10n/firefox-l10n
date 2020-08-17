@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Вставити без форматування">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Вставити як">
-<!ENTITY pasteAs.accesskey "к">
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Знайти…">
-<!ENTITY findReplaceCmd.label "Знайти й замінити…">
-<!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
-<!ENTITY enableInlineSpellChecker.accesskey "ч">
-<!ENTITY checkSpellingCmd2.label "Перевірити правопис">
-<!ENTITY checkSpellingCmd2.accesskey "п">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Вкласти">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Звичайний текст">
 <!ENTITY bodyTextCmd.accesskey "т">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Додаткові властивості">
-<!ENTITY advancedPropertiesCmd.accesskey "л">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Вирівняти">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "По ширині">
 <!ENTITY alignJustify.accesskey "ш">
 <!ENTITY alignJustify.tooltip "Вирівняти по ширині">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Шар">
-<!ENTITY layerSendToBack.tooltip "Помістити на задній план">
-<!ENTITY layerBringToFront.tooltip "Помістити на передній план">
 
 <!ENTITY increaseIndent.label "Збільшити відступ">
 <!ENTITY increaseIndent.accesskey "б">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Властивості таблиці…">
 <!ENTITY tableProperties.accesskey "л">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Панель меню">
-<!ENTITY formatToolbar.tooltip "Панель форматування">
-<!ENTITY cutToolbarCmd.tooltip "Вирізати">
-<!ENTITY copyToolbarCmd.tooltip "Копіювати">
-<!ENTITY pasteToolbarCmd.tooltip "Вставити">
-<!ENTITY printToolbarCmd.label "Друк">
-<!ENTITY printToolbarCmd.tooltip "Надрукувати цю сторінку">
-<!ENTITY findToolbarCmd.label "Знайти">
-<!ENTITY findToolbarCmd.tooltip "Знайти текст на сторінці">
-<!ENTITY spellToolbarCmd.label "Орфографія">
-<!ENTITY spellToolbarCmd.tooltip "Перевірити орфографію виділеного уривка або всієї сторінки">
-
 <!ENTITY imageToolbarCmd.label "Зображення">
 <!ENTITY imageToolbarCmd.tooltip "Вставити нове зображення або змінити властивості виділеного">
 <!ENTITY hruleToolbarCmd.label "Роздільник">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Вставити новий якір або змінити властивості виділеного">
 <!ENTITY TextColorButton.tooltip "Вибір кольору для тексту">
 <!ENTITY BackgroundColorButton.tooltip "Вибір фонового кольору">
-<!ENTITY throbber.tooltip2 "Перейти на домашню сторінку &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Виберіть колір підсвічування тексту">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Встановити розмір шрифту">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Вирівнювання тексту по центру">
 <!ENTITY alignRightButton.tooltip "Вирівнювання тексту уздовж правого краю">
 <!ENTITY alignJustifyButton.tooltip "Вирівнювання тексту по лівому та правому краю">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Вибрати">
-<!ENTITY structSelect.accesskey     "В">
-<!ENTITY structRemoveTag.label      "Вилучити тег">
-<!ENTITY structRemoveTag.accesskey  "В">
-<!ENTITY structChangeTag.label      "Змінити тег">
-<!ENTITY structChangeTag.accesskey  "З">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Вставити">
