@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Yhdistäminen epäonnistui">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Osoitteen käyttö on rajoitettu">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Palvelinta ei löytynyt">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Sivua ei löydy.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Jos osoite on oikea, voit</strong>
 <ul>
@@ -34,8 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Tiedostoa ei löytynyt">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Tarkista, että tiedostonimi on kirjoitettu virheettömästi ja oikealla kirjainkoolla.</li>
@@ -43,15 +35,11 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Tiedoston käyttö estettiin">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Tiedosto on voitu poistaa tai siirtää, tai ehkä siihen ei ole käyttöoikeutta.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Verkkopyyntöä ei kyetä toteuttamaan">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ei kykene lataamaan sivua jostain syystä.</p>
@@ -63,18 +51,10 @@
 <!ENTITY openPortalLoginPage.label2 "Avaa verkon kirjautumissivu">
 
 <!ENTITY malformedURI.pageTitle "Virheellinen osoite">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Tuo osoite ei näytä oikealta.">
-
-<!ENTITY netInterrupt.title "Tiedonsiirto keskeytyi">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokumentti on vanhentunut">
-
 <!ENTITY notCached.longDesc "<p>Pyydettyä dokumenttia ei ole tallennettu &brandShortName;in väliaikaistiedostoihin.</p><ul><li>Turvallisuusvarotoimena &brandShortName; ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.</li><li>Napsauta alta Yritä uudestaan ladataksesi dokumentin sivustolta uudestaan.</li></ul>">
-
-<!ENTITY netOffline.title "Yhteydettömässä tilassa">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -82,15 +62,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Sisällön koodausvirhe">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Ilmoita sivuston omistajalle tästä ongelmasta.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Vaarallinen tiedostotyyppi">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -98,23 +74,15 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Yhteys keskeytyi">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Yhteyden aikakatkaisu">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Osoitetta ei ymmärretty">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Osoitteen avaaminen voi vaatia uuden ohjelman asentamista.</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "Välityspalvelin kieltäytyy yhteydestä">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -123,8 +91,6 @@
     toimintakunnossa.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Välityspalvelinta ei löytynyt">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -135,16 +101,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Sivusto ei uudelleenohjaudu asianmukaisesti">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Tämä virhe johtuu joskus siitä, että evästeiden asettamista ei ole
     sallittu tai että se on erityisesti estetty tältä sivustolta.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Odottamaton vastaus palvelimelta">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -154,17 +116,12 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Suojatun yhteyden muodostaminen epäonnistui">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Avattavaa sivua ei voida näyttää, koska vastaanotetun datan alkuperää ei kyetty varmentamaan.</li>
   <li>Ilmoitathan ongelmasta sivuston omistajalle.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Varoitus: mahdollinen tietoturvariski">
-<!ENTITY certerror.sts.longpagetitle  "Ei yhdistetty: mahdollinen turvallisuusongelma">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -203,11 +160,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Sisällön tietosuojakäytännön estämä">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Sisältö vioittunut -virhe">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; esti tätä sivua latautumasta tässä yhteydessä, koska sivun X-Frame-Options-käytäntö estää lataamisen.</p>">
 
@@ -218,11 +171,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Auta Mozillaa tunnistamaan ja estämään haitallisia sivustoja ilmoittamalla tällaisista virheistä">
 <!ENTITY errorReporting.learnMore "Lue lisää…">
 
-<!ENTITY remoteXUL.title "XUL-koodia etänä">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Ei voitu muodostaa suojattua yhteyttä">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -233,15 +182,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Sivusto <span class='hostname'></span> noudattaa tietoturvakäytäntöä nimeltään HTTP Strict Transport Security (HSTS), mikä tarkoittaa, että &brandShortName; voi muodostaa siihen vain suojatun yhteyden. Tälle sivustolle siirtymistä varten ei voi lisätä poikkeusta.">
 <!ENTITY certerror.copyToClipboard.label "Kopioi teksti leikepöydälle">
 
-<!ENTITY inadequateSecurityError.title "Yhteys ei ole suojattu">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää suojaustekniikkaa, joka on vanhentunut ja haavoittuvainen hyökkäyksille. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja. Sivuston ylläpitäjän täytyy korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Estetty sivu">
-
-<!ENTITY certerror.mitm.title "Ohjelmisto estää &brandShortName;ia yhdistämästä turvallisesti tähän sivustoon">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> on mitä luultavimmin turvallinen sivusto, mutta salattua yhteyttä ei voitu muodostaa. Tämän ongelman aiheuttaa <span class='mitm-name'/>, mikä on ohjelmisto tietokoneellasi tai verkossasi.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jos käyttämäsi virustorjuntaohjelma skannaa salattuja yhteyksiä (kutsutaan usein ”verkon skannaukseksi”, ”web-skannaukseksi” tai ”HTTPS-skannaukseksi”), voit poistaa kyseisen ominaisuuden käytöstä. Jos se ei auta, voit poistaa virustorjunnan ja asentaa sen uudestaan.">
@@ -249,14 +194,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jos et tunne <span class='mitm-name'/>-ohjelmaa, kyseessä voi olla huijaus eikä sivustolle tulisi jatkaa.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jos et tunne <span class='mitm-name'/>-ohjelmaa, kyseessä voi olla hyökkäys etkä voi tehdä mitään.">
 
-<!ENTITY clockSkewError.title "Tietokoneen kello on väärässä ajassa">
-
 <!ENTITY clockSkewError.longDesc "Tietokoneesi mukaan nyt on <span id='wrongSystemTime_systemDate1'/>, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä. Jotta voit siirtyä sivustolle <span class='hostname'></span>, avaa järjestelmäasetukset ja päivitä sieltä tietokoneen kello nykyiseen päivään, aikaan ja aikavyöhykkeeseen. Lopuksi lataa <span class='hostname'></span> uudestaan.">
 
 <!ENTITY prefReset.longDesc "Vaikuttaa siltä, että verkon turvallisuusasetukset aiheuttavat tämän. Haluatko palauttaa oletusasetukset?">
 <!ENTITY prefReset.label "Palauta oletusasetukset">
-
-<!ENTITY networkProtocolError.title "Verkkoyhteyskäytännön virhe">
 
 <!ENTITY enableTls10.longDesc "Sivusto ei välttämättä tue TLS 1.2 -yhteyskäytäntöä, joka on vanhin &brandShortName;in tukema versio. TLS 1.0:n ja TLS 1.1:n ottaminen käyttöön saattaa mahdollistaa yhteyden muodostamisen.">
 <!ENTITY enableTls10.note "TLS 1.0 ja TLS 1.1 poistetaan pysyvästi käytöstä tulevassa julkaisussa.">

@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Muokkaa">
 <!ENTITY editMenu.accesskey        "M">
 <!ENTITY undoCmd.label            "Kumoa">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "m">
 <!ENTITY redoCmd.label            "Tee uudelleen">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "T">
-<!ENTITY cutCmd.label            "Leikkaa">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "L">
-<!ENTITY copyCmd.label            "Kopioi">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label            "Liitä">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "i">
 <!ENTITY deleteCmd.label          "Poista">
 <!ENTITY deleteCmd.accesskey        "o">
-<!ENTITY selectAllCmd.label          "Valitse kaikki">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "V">
 <!ENTITY preferencesCmd2.label "Asetukset">
 <!ENTITY preferencesCmd2.accesskey "A">
 <!ENTITY preferencesCmdUnix.label       "Asetukset">

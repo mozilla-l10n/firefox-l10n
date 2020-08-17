@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Tuo asetukset, kirjanmerkit, sivuhistoria, salasanat ja muut tiedot ohjelmasta:">
 <!ENTITY importFromUnix.label           "Tuo asetukset, kirjanmerkit, sivuhistoria, salasanat ja muut tiedot ohjelmasta:">
-<!ENTITY importFromBookmarks.label      "Tuo kirjanmerkit ohjelmasta:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

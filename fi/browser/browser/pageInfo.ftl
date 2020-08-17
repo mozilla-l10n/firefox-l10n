@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Tallenna nimellä…
     .accesskey = l
-media-preview =
-    .value = Median esikatselu:
 
 perm-tab =
     .label = Oikeudet
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Kyllä, evästeitä
 security-site-data-no = Ei
 
 image-size-unknown = Tuntematon
-not-set-verified-by = Ei määritetty
 page-info-not-specified =
     .value = Ei määritetty
 not-set-alternative-text = Ei määritetty
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Yhteensopivuustila
 general-strict-mode =
     .value = Standarditila
-security-no-owner = Sivustoon ei liity tietoa omistajasta
 page-info-security-no-owner =
     .value = Sivustoon ei liity tietoa omistajasta
 media-select-folder = Valitse kuvien tallennuskansio

@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Määritä olemassa oleva sähköpostitili">
-
 <!ENTITY emailWizard.title               "Määritä olemassa oleva sähköpostiosoite">
 <!ENTITY emailWizard.caption             "Käytä nykyistä sähköpostiosoitettasi">
 <!ENTITY name.label                      "Nimi:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "Etunimi Sukunimi">
 <!ENTITY fullname.placeholder            "Täydellinen nimesi">
 <!ENTITY name.text                       "Nimesi muille näkyvä muoto">
 <!ENTITY name.error                      "Kirjoita koko nimesi">
 <!ENTITY email.label                     "Sähköpostiosoite:">
 <!ENTITY email.accesskey                 "S">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Sähköpostiosoitteesi">
 <!ENTITY email.text                      "Nykyinen sähköpostiosoitteesi">
 <!ENTITY email.error                     "Virheellinen sähköpostiosoite">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Lähtevä:">
 <!ENTITY outgoingColumn.label            "Lähtevä">
 <!ENTITY username.label                  "Käyttäjätunnus:">
-<!ENTITY hostname.label                  "Palvelimen osoite">
-<!ENTITY port.label                      "Portti">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Palvelin:">
 <!ENTITY portRow.label                   "Portti:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Testaa asetuksia uudelleen">
 <!ENTITY half-manual-test.accesskey      "T">
-<!ENTITY manual-edit.label               "Muokkaa asetuksia">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Määritä manuaalisesti…">
 <!ENTITY manual-config.accesskey         "a">
 <!ENTITY open-provisioner.label          "Hanki uusi sähköpostiosoite…">

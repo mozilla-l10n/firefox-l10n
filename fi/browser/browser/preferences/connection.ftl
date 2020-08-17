@@ -35,12 +35,7 @@ connection-proxy-http = HTTP-välityspalvelin
     .accesskey = H
 connection-proxy-http-port = Portti
     .accesskey = P
-connection-proxy-http-share =
-    .label = Sama välityspalvelin kaikille yhteyskäytännöille
-    .accesskey = m
 
-connection-proxy-ssl = SSL-välityspalvelin
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Käytä tätä välityspalvelinta myös FTP:lle ja HTTPS:lle
     .accesskey = ä

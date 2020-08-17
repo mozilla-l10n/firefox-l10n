@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Pyydettyä dokumenttia ei ole tallennettu &brandShortName;in väliaikaistiedostoihin.</p><ul><li>Turvallisuusvarotoimena &brandShortName; ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.</li><li>Napsauta alta Yritä uudestaan ladataksesi dokumentin sivustolta uudestaan.</li></ul>">
 
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Yritä uudelleen. &brandShortName; yrittää avata yhteyden ja ladata sivun uudelleen.
-    <button id='wifi'>Aseta Wifi päälle</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Sisällön koodausvirhe">
 <!ENTITY contentEncodingError.longDesc "

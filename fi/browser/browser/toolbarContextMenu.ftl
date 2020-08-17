@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Valitse kaikki välilehdet
     .accesskey = a
-toolbar-context-menu-undo-close-tab =
-    .label = Kumoa välilehden sulkeminen
-    .accesskey = m
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Valitse tiedosto…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.deleteDomainData.label     "Unohda tämä sivusto">
-<!ENTITY cmd.deleteDomainData.accesskey "U">
-
-<!ENTITY cmd.open.label                  "Avaa">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Avaa uuteen ikkunaan">
-<!ENTITY cmd.open_window.accesskey       "v">
-<!ENTITY cmd.open_private_window.label     "Avaa uuteen yksityiseen ikkunaan">
-<!ENTITY cmd.open_private_window.accesskey "y">
-<!ENTITY cmd.open_tab.label              "Avaa uuteen välilehteen">
-<!ENTITY cmd.open_tab.accesskey          "u">
-<!ENTITY cmd.open_all_in_tabs.label      "Avaa välilehtiin">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
-
-<!ENTITY cmd.properties.label      "Ominaisuudet">
-<!ENTITY cmd.properties.accesskey  "O">
-
-<!ENTITY cmd.sortby_name.label              "Lajittele nimen mukaan">
-<!ENTITY cmd.sortby_name.accesskey          "L">
-<!ENTITY cmd.context_sortby_name.accesskey  "L">
-
-<!ENTITY cmd.new_bookmark.label            "Uusi kirjanmerkki…">
-<!ENTITY cmd.new_bookmark.accesskey        "U">
-<!ENTITY cmd.new_folder.label              "Uusi kansio…">
-<!ENTITY cmd.new_folder.accesskey          "s">
-<!ENTITY cmd.context_new_folder.accesskey  "s">
-<!ENTITY cmd.new_separator.label           "Uusi erotin">
-<!ENTITY cmd.new_separator.accesskey       "e">
-
 <!ENTITY col.name.label          "Nimi">
 <!ENTITY col.tags.label          "Avainsanat">
 <!ENTITY col.url.label           "Osoite">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Vierailukerrat">
 <!ENTITY col.dateadded.label     "Lisäyspäivä">
 <!ENTITY col.lastmodified.label  "Viimeisin muokkaus">
-
-<!ENTITY historySearch.placeholder  "Etsi historiasta">
-<!ENTITY bookmarksSearch.placeholder  "Etsi kirjanmerkeistä">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia muokataan tai näytetään">
 
-<!ENTITY view.label               "Näytä">
-<!ENTITY view.accesskey           "N">
-<!ENTITY byDate.label             "Päivämäärän mukaan">
-<!ENTITY byDate.accesskey         "P">
-<!ENTITY bySite.label             "Sivuston mukaan">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Vierailukertojen mukaan">
-<!ENTITY byMostVisited.accesskey  "k">
-<!ENTITY byLastVisited.label      "Vierailuajan mukaan">
-<!ENTITY byLastVisited.accesskey  "a">
-<!ENTITY byDayAndSite.label       "Päivämäärän ja sivuston mukaan">
-<!ENTITY byDayAndSite.accesskey   "j">

@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Voit hallita lisäosia avaamalla <image dat
 appmenu-addon-post-install-incognito-checkbox =
     .label = Salli laajennuksen suoritus yksityisissä ikkunoissa
     .accesskey = a
-appmenu-addon-private-browsing =
-    .label = Muutos laajennusten toimintaan yksityisissä ikkunoissa
-    .buttonlabel = Hallitse laajennuksia
-    .buttonaccesskey = H
-    .secondarybuttonlabel = Selvä
-    .secondarybuttonaccesskey = S
-appmenu-addon-private-browsing-message = Yksikään { -brand-shorter-name }iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.
-appmenu-addon-private-browsing-learn-more = Lue lisää kuinka hallita laajennusten asetuksia
     
 appmenu-new-tab-controlled =
     .label = Uusi välilehti -sivu on vaihtunut.

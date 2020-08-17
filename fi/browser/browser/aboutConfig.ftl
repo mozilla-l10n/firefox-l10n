@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Varo vaaraa!
-about-config-warning-text = Tällä sivulla olevien asetusten muuttamisella voi olla vahingollisia vaikutuksia tämän ohjelman turvallisuuteen, vakauteen ja suorituskykyyn. Älä koske näihin asetuksiin ellet tiedä tarkalleen, mitä olet tekemässä.
-about-config-warning-checkbox = Häiritse myös ensi kerralla
-about-config-warning-button = Otan riskin
-
-about-config2-title = Lisäasetukset
-
-about-config-search-input =
-    .placeholder = Haku
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Jatka varoen
@@ -32,13 +21,6 @@ about-config-page-title = Lisäasetukset
 about-config-search-input1 =
     .placeholder = Etsi asetuksen nimellä
 about-config-show-all = Näytä kaikki
-
-about-config-pref-add = Lisää
-about-config-pref-toggle = Vaihda tilaa
-about-config-pref-edit = Muokkaa
-about-config-pref-save = Tallenna
-about-config-pref-reset = Nollaa
-about-config-pref-delete = Poista
 
 about-config-pref-add-button =
     .title = Lisää

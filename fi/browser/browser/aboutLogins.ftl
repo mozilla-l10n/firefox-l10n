@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Lataa Google Playsta
 login-app-promo-apple =
     .alt = Lataa App Storesta
+
 login-filter =
     .placeholder = Etsi kirjautumistietoja
+
 create-login-button = Luo uusi kirjautumistieto
+
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-button = Kirjaudu { -sync-brand-short-name }-palveluun
 fxaccounts-avatar-button =
@@ -64,6 +67,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön.
+
 about-logins-login-intro-heading-logged-out = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön tai tuo ne.
 about-logins-login-intro-heading-logged-in = Synkronoituja kirjautumistietoja ei löytynyt.
 login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }-selaimeen toisella laitteella, saat ne käyttöön seuraavasti:
@@ -71,6 +75,7 @@ login-intro-instruction-fxa = Luo tili tai kirjaudu { -fxaccount-brand-name(case
 login-intro-instruction-fxa-settings = Varmista, että Kirjautumistiedot-valinta on rastitettu { -sync-brand-short-name }-asetuksissa
 about-logins-intro-instruction-help = Siirry <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-tukeen</a> saadaksesi ohjeita
 about-logins-intro-import = Jos kirjautumistietosi on tallennettu toiseen selaimeen, voit <a data-l10n-name="import-link">tuoda ne { -lockwise-brand-short-name }en</a>
+
 about-logins-intro-import2 = Jos kirjautumistietosi on tallennettu { -brand-product-name }-selaimen ulkopuolelle, voit <a data-l10n-name="import-browser-link">tuoda ne toisesta selaimesta</a> tai <a data-l10n-name="import-file-link">tiedostosta</a>
 
 ## Login
@@ -111,25 +116,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Jatka muokkaamaan kirjautum
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = muokata tallennettua kirjautumistietoa
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Katso salasana kirjoittamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = paljastaa tallennetun salasanan
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Kopioi salasana kirjoittamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopioida tallennetun salasanan
+
+## Master Password notification
+
+master-password-notification-message = Kirjoita pääsalasana nähdäksesi tallennetut käyttäjätunnukset ja salasanat
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Jatka kirjautumistietojesi vientiin kirjoittamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = viedä tallennetut käyttäjätunnukset ja salasanat
-
-## Master Password notification
-
-master-password-notification-message = Kirjoita pääsalasana nähdäksesi tallennetut käyttäjätunnukset ja salasanat
 
 ## Primary Password notification
 
@@ -157,12 +165,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Peruuta
 confirmation-dialog-dismiss-button =
     .title = Peruuta
+
 about-logins-confirm-remove-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 about-logins-confirm-remove-dialog-confirm-button = Poista
+
 about-logins-confirm-export-dialog-title = Vie kirjautumistiedot ja salasanat
 about-logins-confirm-export-dialog-message = Salasanasi tallennetaan luettavaan muotoon (esim. hu0n0s4l4s4n4), joten kuka tahansa viedyn tiedoston avaamiseen kykenevä voi nähdä salasanat.
 about-logins-confirm-export-dialog-confirm-button = Vie…
+
 confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
 confirm-discard-changes-dialog-message = Kaikki tallentamattomat muutokset menetetään.
 confirm-discard-changes-dialog-confirm-button = Hylkää
@@ -193,8 +204,10 @@ about-logins-vulnerable-alert-learn-more-link = Lue lisää
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Kirjautumistieto sivulle { $loginTitle } tällä käyttäjätunnuksella on jo olemassa. <a data-l10n-name="duplicate-link">Siirrytäänkö olemassa olevaan kirjautumistietoon?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Tätä salasanaa tallentaessa ilmeni virhe.
+
 
 ## Login Export Dialog
 

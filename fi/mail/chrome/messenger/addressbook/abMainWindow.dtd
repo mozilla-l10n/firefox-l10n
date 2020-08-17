@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Muokkaa">
 <!ENTITY editMenu.accesskey                             "M">
-<!ENTITY undoCmd.label                                  "Kumoa">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "m">
-<!ENTITY redoCmd.label                                  "Tee uudelleen">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "T">
-<!ENTITY cutCmd.label                                   "Leikkaa">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "L">
-<!ENTITY copyCmd.label                                  "Kopioi">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Liitä">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Poista">
-<!ENTITY deleteCmd.accesskey                            "o">
 <!ENTITY deleteAbCmd.label                              "Poista osoitekirja">
 <!ENTITY deleteContactCmd.label                         "Poista yhteystieto">
 <!ENTITY deleteContactsCmd.label                        "Poista yhteystiedot">
 <!ENTITY deleteListCmd.label                            "Poista osoitelista">
 <!ENTITY deleteListsCmd.label                           "Poista osoitelistat">
 <!ENTITY deleteItemsCmd.label                           "Poista kohteet">
-<!ENTITY selectAllCmd.label                             "Valitse kaikki">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "V">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Vaihda etu/sukunimi">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "a">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Ominaisuudet">
 <!ENTITY propertiesMenu.accesskey                       "O">
 <!ENTITY propertiesCmd.key                              "i">
