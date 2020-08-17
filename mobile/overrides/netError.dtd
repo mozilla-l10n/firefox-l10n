@@ -74,14 +74,6 @@
 <!ENTITY notCached.longDesc "<p>Запрошенный документ недоступен в кэше &brandShortName;.</p><ul><li>В целях безопасности &brandShortName; не производит автоматический повторный запрос важных документов.</li><li>Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Автономный режим">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Попробуйте снова. &brandShortName; попытается открыть соединение и перезагрузить страницу.
-    <button id='wifi'>Включить Wi-Fi</button>
-  </li>
-</ul>">
 
 <!ENTITY contentEncodingError.title "Ошибка в типе содержимого">
 <!ENTITY contentEncodingError.longDesc "

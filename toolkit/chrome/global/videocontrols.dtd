@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Картинка в картинке">
 
-<!ENTITY stats.media "Медиа">
-<!ENTITY stats.size "Разрешение">
-<!ENTITY stats.activity "Состояние">
-<!ENTITY stats.activityPaused "Приостановлено">
-<!ENTITY stats.activityPlaying "Проигрывается">
-<!ENTITY stats.activityEnded "Завершено">
-<!ENTITY stats.activitySeeking "(поиск)">
-<!ENTITY stats.volume "Громкость">
-<!ENTITY stats.framesParsed "Кадров проанализировано">
-<!ENTITY stats.framesDecoded "Кадров декодировано">
-<!ENTITY stats.framesPresented "Кадров представлено">
-<!ENTITY stats.framesPainted "Кадров отрисовано">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Воспроизведение видео прервано из-за неизвестной ошибки.">
 
 <!ENTITY status.pictureInPicture "Это видео воспроизводится в режиме «Картинка в картинке».">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "прошло #1 из #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Включить удалённую отладку
-options-enable-remote-tooltip =
-    .title = Включение этой опции позволит использовать инструменты разработчика для отладки удалённого экземпляра, такого как Firefox OS
 
 options-enable-remote-tooltip2 =
     .title = Включение этой опции позволит удалённо отлаживать этот экземпляр браузера

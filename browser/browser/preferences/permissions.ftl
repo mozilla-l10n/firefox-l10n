@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Введите корректное сетево
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Исключения — Блокировка содержимого
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Вы отключили блокировку содержимого на следующих веб-сайтах.
-
 permissions-exceptions-etp-window =
     .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Вы можете указать, каким веб-сайтам разрешено устанавливать дополнения. Введите точный адрес каждого сайта и нажмите кнопку «Разрешить».
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Исключения — Автовоспроизведение
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Вы можете указать, каким веб-сайтам разрешено всегда или никогда автоматически воспроизводить медиа со звуком. Введите точный адрес сайта и нажмите кнопку «Блокировать» или «Разрешить».
 
 ## Site Permissions - Autoplay
 

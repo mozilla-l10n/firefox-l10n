@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Архивировать">
 <!ENTITY hdrArchiveButton1.tooltip "Архивировать это сообщение">
-<!ENTITY hdrOpenConversationButton1.label "Разговор">
-<!ENTITY hdrOpenConversationButton1.tooltip "Показать разговор для этого сообщения">
 <!ENTITY hdrSmartReplyButton1.label "Умный ответ">
 <!ENTITY hdrReplyButton1.label "Ответить">
 <!ENTITY hdrReplyButton2.tooltip "Ответить отправителю этого сообщения">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Ответить в список рассылки">
 <!ENTITY hdrFollowupButton1.label "Ответить в группу">
 <!ENTITY hdrFollowupButton1.tooltip "Отправить ответ в эту группу новостей">
-<!ENTITY hdrMenuForwardButton.label "Переслать как">
 <!ENTITY hdrForwardButton1.label "Переслать">
 <!ENTITY hdrForwardButton1.tooltip "Переслать это сообщение">
 <!ENTITY hdrJunkButton1.label "Спам">

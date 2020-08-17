@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Защита">
-<!ENTITY securityTab.label "Защита">
-<!ENTITY securityHeading.label "Чтобы получать и отправлять зашифрованные сообщения или сообщения с цифровой подписью, вам нужно указать сертификат ключа шифрования и сертификат ключа подписи.">
-<!ENTITY encryptionGroupTitle.label "Шифрование">
-<!ENTITY encryptionChoiceLabel.label "Использовать шифрование при отправке сообщений:">
-<!ENTITY neverEncrypt.label "Никогда (не использовать шифрование)">
-<!ENTITY neverEncrypt.accesskey "к">
-<!ENTITY alwaysEncryptMessage.label "Всегда (сообщение не будет отправлено, если не у всех адресатов есть сертификаты)">
-<!ENTITY alwaysEncryptMessage.accesskey "с">
-<!ENTITY encryptionCert.message "Личный сертификат для шифрования: ">
-
 <!ENTITY e2eTitle.label "Сквозное шифрование">
-<!ENTITY e2eIntro.description "Чтобы отправлять зашифрованные сообщения или сообщения с цифровой подписью, вам необходимо настроить технологию шифрования, такую как OpenPGP или S/MIME.">
 <!ENTITY e2eLearnMore.label "Подробнее">
 
 <!ENTITY e2eEnc.description "Без сквозного шифрования содержимое сообщений легко может быть прочтено вашим провайдером электронной почты или системой прослушивания.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Очистить">
 <!ENTITY encryption.certificate_clear.accesskey "и">
 <!ENTITY signingGroupTitle.label "Цифровая подпись">
-<!ENTITY signMessage.label "Подписывать сообщения цифровой подписью (по умолчанию)">
 <!ENTITY signMessage2.label "Добавлять цифровую подпись по умолчанию">
 <!ENTITY signMessage.accesskey "д">
-<!ENTITY signingCert.message "При отправке сообщений использовать для цифровой подписи следующий сертификат:">
-
-<!ENTITY certificates.label "Сертификаты">
-<!ENTITY manageCerts2.label "Управление сертификатами">
-<!ENTITY manageCerts2.accesskey "п">
-<!ENTITY manageDevices.label "Устройства защиты">
-<!ENTITY manageDevices.accesskey "т">
 
 <!ENTITY signingCert2.message "Личный сертификат для цифровой подписи:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Предпочитать OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Управление ключами OpenPGP">
-<!ENTITY manageKeys.accesskey "ю">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Выбор сертификата">

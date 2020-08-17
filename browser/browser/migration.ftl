@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Мастер импорта
+
 import-from =
     { PLATFORM() ->
         [windows] Импортировать настройки, закладки, журнал, пароли и другие данные из:
        *[other] Импортировать настройки, закладки, журнал, пароли и другие данные из:
     }
+
 import-from-bookmarks = Импортировать закладки из:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Ни одной программы, содержащей закладки, журнал или пароли, не найдено.
+
 import-source-page-title = Импорт настроек и данных
 import-items-page-title = Объекты для импорта
+
 import-items-description = Выберите объекты для импортирования:
+
 import-migrating-page-title = Идёт импорт…
+
 import-migrating-description = В данное время импортируются следующие объекты…
+
 import-select-profile-page-title = Выбор профиля
+
 import-select-profile-description = Импорт может быть произведен из следующих профилей:
+
 import-done-page-title = Импорт успешно завершён
+
 import-done-description = Следующие объекты были успешно импортированы:
+
 import-close-source-browser = Прежде чем продолжить, пожалуйста, убедитесь, что выбранный вами браузер закрыт.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Из { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Список для чтения (из Safari)
 imported-edge-reading-list = Список для чтения (из Edge)
 
@@ -92,10 +107,25 @@ imported-edge-reading-list = Список для чтения (из Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## ie
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
+
 browser-data-cookies-checkbox =
     .label = Куки
 browser-data-cookies-label =
     .value = Куки
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -108,10 +138,12 @@ browser-data-history-label =
             [firefox] Журнал посещений и закладки
            *[other] Журнал посещений
         }
+
 browser-data-formdata-checkbox =
     .label = Журнал сохранённых форм
 browser-data-formdata-label =
     .value = Журнал сохранённых форм
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -120,6 +152,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Сохранённые логины и пароли
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -134,10 +167,12 @@ browser-data-bookmarks-label =
             [edge] Избранное
            *[other] Закладки
         }
+
 browser-data-otherdata-checkbox =
     .label = Другие данные
 browser-data-otherdata-label =
     .label = Другие данные
+
 browser-data-session-checkbox =
     .label = Окна и вкладки
 browser-data-session-label =

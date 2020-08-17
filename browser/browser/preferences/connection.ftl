@@ -35,12 +35,7 @@ connection-proxy-http = HTTP прокси
     .accesskey = с
 connection-proxy-http-port = Порт
     .accesskey = о
-connection-proxy-http-share =
-    .label = Использовать этот прокси-сервер для всех протоколов
-    .accesskey = е
 
-connection-proxy-ssl = SSL прокси
-    .accesskey = к
 connection-proxy-http-sharing =
     .label = Также использовать этот прокси для FTP и HTTPS
     .accesskey = я
