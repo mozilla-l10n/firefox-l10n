@@ -507,11 +507,6 @@
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Borrador">
-<!ENTITY scratchpadCmd.accesskey "B">
-
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!ENTITY getMsgButton1.label "Recibir mensajes">
 <!ENTITY newMsgButton.label "Redactar">
@@ -563,7 +558,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Reenviar el mensaje seleccionado como un adjunto">
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
-<!ENTITY openConversationButton.tooltip "Mostrar conversación de este mensaje">
 <!ENTITY openMsgConversationButton.tooltip "Mostrar conversación del mensaje seleccionado">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
 <!ENTITY nextMsgButton.tooltip "Moverse al mensaje siguiente">
@@ -791,6 +785,7 @@
 <!ENTITY contextUnmute.label "Restaurar sonido">
 <!ENTITY contextUnmute.accesskey "s">
 
+<!-- Quick Search Bar -->
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base1 "Buscar #1">

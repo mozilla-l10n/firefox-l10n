@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Pestañas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = ¿Quiere ver sus pestañas de otros dispositivos aquí?
-synced-tabs-sidebar-notsignedin = Inicie sesión para ver una lista de pestañas de sus otros dispositivos.
 synced-tabs-sidebar-intro = Ver una lista de pestañas de sus otros dispositivos.
 synced-tabs-sidebar-unverified = Su cuenta debe ser verificada.
 synced-tabs-sidebar-notabs = No hay pestañas abiertas

@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Cargando…
-
 list-empty-installed =
     .value = No tiene instalado ningún complemento de este tipo
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Aprender más sobre los complementos
 
-install-addon-from-file =
-    .label = Instalar complemento desde archivo…
-    .accesskey = I
-
 help-button = Soporte para complementos
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] Opciones de { -brand-short-name }
        *[other] Preferencias de { -brand-short-name }
     }
-
-tools-menu =
-    .tooltiptext = Herramientas para todos los complementos
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Mostrar todas las extensiones
-
-debug-addons =
-    .label = Depurar complementos
-    .accesskey = u
 
 cmd-show-details =
     .label = Mostrar más información
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Colaborar con el desarrollo de este complemento
 
-discover-title = ¿Qué son los complementos?
-
-discover-description = Los complementos son aplicaciones que le permiten personalizar { -brand-short-name } con funcionalidades o estilos adicionales. Pruebe un panel lateral que le ahorrará tiempo, un indicador del tiempo meteorológico o un tema gráfico para hacer { -brand-short-name } verdaderamente suyo.
-
-discover-footer = Cuando esté conectado a Internet, este panel incluirá algunos de los mejores y más populares complementos para que los pruebe.
-
 detail-version =
     .label = Versión
 
@@ -140,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Ejecutar en ventana privada
 
-detail-private-browsing-description2 = Cuando esté permitido, la extensión tendrá acceso a su actividad en línea mientras navega de forma privada. <label data-l10n-name="detail-private-browsing-learn-more">Descubra más</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No se permite en ventanas privadas
-detail-private-disallowed-description = Esta extensión no se ejecuta durante la navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Descubra más</label>
 
 detail-private-disallowed-description2 = Esta extensión no se ejecuta mientras esté en navegación privada. <a data-l10n-name="learn-more">Saber más</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necesita acceder a ventanas privadas
-detail-private-required-description = Esta extensión tiene acceso a sus actividades en línea mientras navega de forma privada. <label data-l10n-name="detail-private-browsing-learn-more">Descubra más</label>
 
 detail-private-required-description2 = Esta extensión tiene acceso a su actividad en línea mientras navega de forma privada. <a data-l10n-name="learn-more">Saber más</a>
 
@@ -228,18 +204,6 @@ private-browsing-description2 =
     ahí. Hemos realizado este cambio para mantener privada tu navegación privada.
     <label data-l10n-name = "private-browsing-learn-more">Descubre cómo administrar la configuración de las extensiones.</label>
 
-extensions-view-discopane =
-    .name = Recomendaciones
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Actualizaciones recientes
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Actualizaciones disponibles
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Recomendaciones
 addon-category-discover-title =
     .title = Recomendaciones
@@ -267,29 +231,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Todos los complementos han sido desactivados por el modo seguro.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = La comprobación de compatibilidad de complementos está desactivada. Puede tener algunos incompatibles.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Activar
-    .tooltiptext = Activar comprobación de compatibilidad de complementos
-
-extensions-warning-update-security-label =
-    .value = La comprobación de seguridad de los complementos está desactivada. Puede ver su seguridad comprometida durante las actualizaciones.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Activar
-    .tooltiptext = Activar comprobación de seguridad de complementos
-
 extensions-warning-safe-mode = Todos los complementos han sido desactivados por el modo seguro.
 extensions-warning-check-compatibility = La comprobación de compatibilidad de complementos está desactivada. Puede tener algunos incompatibles.
 extensions-warning-check-compatibility-button = Activar
@@ -301,14 +242,6 @@ extensions-warning-update-security-button = Activar
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Buscar actualizaciones
-    .accesskey = B
-
-extensions-updates-view-updates =
-    .label = Ver actualizaciones recientes
-    .accesskey = V
-
 addon-updates-check-for-updates = Buscar actualizaciones
     .accesskey = B
 addon-updates-view-updates = Ver actualizaciones recientes
@@ -316,10 +249,6 @@ addon-updates-view-updates = Ver actualizaciones recientes
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Actualizar complementos automáticamente
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Actualizar complementos automáticamente
     .accesskey = A
@@ -330,36 +259,12 @@ addon-updates-update-addons-automatically = Actualizar complementos automáticam
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Configurar todos los complementos para que se actualicen automáticamente
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = Configurar todos los complementos para que se actualicen manualmente
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = Configurar todos los complementos para que se actualicen automáticamente
     .accesskey = R
 addon-updates-reset-updates-to-manual = Configurar todos los complementos para que se actualicen manualmente
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Actualizando complementos
-extensions-updates-installed =
-    .value = Se han actualizado sus complementos.
-extensions-updates-downloaded =
-    .value = Descargadas actualizaciones de sus complementos.
-extensions-updates-restart =
-    .label = Reiniciar ahora para instalar
-extensions-updates-none-found =
-    .value = No se han encontrado actualizaciones
-extensions-updates-manual-updates-found =
-    .label = Ver actualizaciones disponibles
-extensions-updates-update-selected =
-    .label = Instalar actualizaciones
-    .tooltiptext = Instalar actualizaciones disponibles en esta lista
 
 addon-updates-updating = Actualizando complementos
 addon-updates-installed = Se han actualizado sus complementos.
@@ -377,10 +282,6 @@ addon-open-about-debugging = Depurar complementos
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Administrar atajos de extensiones
-    .accesskey = s
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Administrar atajos de extensiones
     .accesskey = s
@@ -389,8 +290,6 @@ shortcuts-no-addons = No tiene ninguna extensión habilitada.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
 shortcuts-input =
     .placeholder = Escriba un atajo
-
-shortcuts-browserAction = Activar extensión
 
 shortcuts-browserAction2 = Activar botón de la barra de herramientas
 shortcuts-pageAction = Activar acción de página
@@ -422,9 +321,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Mostrar menos
-
-go-back-button =
-    .tooltiptext = Retroceder
 
 header-back-button =
     .title = Retroceder
@@ -475,7 +371,6 @@ remove-addon-button = Eliminar
 remove-addon-disabled-button = No se puede eliminar <a data-l10n-name="link">¿Por qué?</a>
 disable-addon-button = Desactivar
 enable-addon-button = Activar
-expand-addon-button = Más opciones
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -488,9 +383,6 @@ preferences-addon-button =
 details-addon-button = Detalles
 release-notes-addon-button = Notas de la versión
 permissions-addon-button = Permisos
-
-addons-enabled-heading = Activado
-addons-disabled-heading = Desactivado
 
 extension-enabled-heading = Habilitado
 extension-disabled-heading = Deshabilitado
@@ -553,23 +445,12 @@ install-update-button = Actualizar
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Permitida en ventanas privadas
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Permitido en ventanas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que haces mientras navegas de forma privada. <a data-l10n-name="learn-more">Descubre más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Recomendado
-    .alt = Recomendado
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

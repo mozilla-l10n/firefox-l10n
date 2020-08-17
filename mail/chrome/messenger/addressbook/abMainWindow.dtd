@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title "Libreta de direcciones">
 <!ENTITY blankResultsPaneMessage.label "Esta libreta de direcciones muestra contactos solo tras una búsqueda">
 <!ENTITY localResultsOnlyMessage.label "Los contactos de las libretas de direcciones remotas no se muestran hasta que busca">
+
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "a">
 <!ENTITY newMenu.label "Nuevo">
@@ -39,38 +40,17 @@
 <!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Imprimir libreta de direcciones…">
 <!ENTITY printAddressBook.accesskey "A">
+
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Deshacer">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "h">
-<!ENTITY redoCmd.label "Rehacer">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Pegar">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "r">
 <!ENTITY deleteAbCmd.label "Eliminar libreta de direcciones">
 <!ENTITY deleteContactCmd.label "Eliminar contacto">
 <!ENTITY deleteContactsCmd.label "Eliminar contactos">
 <!ENTITY deleteListCmd.label "Eliminar lista">
 <!ENTITY deleteListsCmd.label "Eliminar listas">
 <!ENTITY deleteItemsCmd.label "Eliminar elementos">
-<!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "t">
-<!ENTITY swapFirstNameLastNameCmd.label "Intercambiar nombre y apellidos">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "t">
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label "Propiedades">
 <!ENTITY propertiesMenu.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
@@ -80,6 +60,7 @@
 <!ENTITY contactPropertiesMenu.accesskey "d">
 <!ENTITY mailingListPropertiesMenu.label "Propiedades de la lista de correo">
 <!ENTITY mailingListPropertiesMenu.accesskey "l">
+
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
@@ -108,6 +89,7 @@
 <!ENTITY displayNameCmd.accesskey "D">
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "O">
+
 <!ENTITY tasksMenu.label "Herramientas">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "Correo y noticias">
@@ -126,6 +108,7 @@
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
+
 <!ENTITY newContactButton.label "Nuevo contacto">
 <!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Nueva lista">
@@ -149,6 +132,7 @@
 <!ENTITY printButton.accesskey "r">
 <!ENTITY deleteButton2.label "Eliminar">
 <!ENTITY deleteButton2.accesskey "l">
+
 <!ENTITY columnChooser.tooltip "Seleccione las columnas que desea mostrar">
 <!ENTITY newContactButton.tooltip "Crear un nuevo contacto de la libreta de direcciones">
 <!ENTITY newlistButton.tooltip "Crear nueva lista">
@@ -159,11 +143,13 @@
 <!ENTITY newmsgButton.tooltip "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip "Enviar un mensaje o conversación instantáneos">
 <!ENTITY deleteButton2.tooltip "Eliminar elemento seleccionado">
+
 <!ENTITY SearchNameOrEmail.label "Nombre o dirección de correo">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "Búsqueda rápida">
+
 <!ENTITY Addrbook.label "Libreta de direcciones">
 <!ENTITY Addrbook.accesskey "L">
 <!ENTITY GeneratedName.label "Nombre">
@@ -198,6 +184,8 @@
 <!ENTITY sortDescending.accesskey "D">
 <!ENTITY _PhoneticName.label "Nombre fonético">
 <!ENTITY _PhoneticName.accesskey "o">
+
+<!-- Card Summary Pane -->
 <!ENTITY contact.heading "Contacto">
 <!ENTITY home.heading "Inicio">
 <!ENTITY other.heading "Otro">
@@ -208,7 +196,9 @@
 <!ENTITY addresses.heading "Direcciones">
 <!ENTITY mapItButton.label "Obtener mapa">
 <!ENTITY mapIt.tooltip "Mostrar una página web con un mapa de esta dirección.">
+
 <!ENTITY statusText.label "">
+
 <!ENTITY windowMenu.label "Ventana">
 <!ENTITY minimizeWindow.label "Minimizar ventana">
 <!ENTITY minimizeWindow.key "m">
