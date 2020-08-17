@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikoantsjes neist tekst">
 <!ENTITY useSmallIcons.label      "Lytse ikoantsjes brûke">
 <!ENTITY restoreDefaultSet.label  "Standertynstellingen werstelle">
-<!ENTITY addNewToolbar.label      "Nije arkbalke tafoegje">
-<!ENTITY showTitlebar.label       "Titelbalke toane">
-<!ENTITY extraDragSpace.label     "Romte slepe tafoegje">
 <!ENTITY showTitlebar2.label      "Titelbalke">
 <!ENTITY extraDragSpace2.label    "Sleepromte">
 <!ENTITY saveChanges.label        "Dien">

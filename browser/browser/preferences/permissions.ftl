@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Folje in jildige kompjûternamme yn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Utsûnderingen - Ynhâldsblokkearring
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Jo hawwe ynhâldsblokkearring útskeakele op dizze websites.
-
 permissions-exceptions-etp-window =
     .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Jo kinne oanjaan hokker siden add-ons ynstallearje meie. Typ it krekte adres fan de side dy't jo tastimming jaan wolle en klik dernei op Tastean.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Utsûnderingen - Automatysk ôfspylje
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Jo kinne oanjaan hokker siden altyd of nea tastimming hawwe om automatysk media mei lûd ôf te spyljen. Typ it adres fan de website dy't jo beheare wolle en klik dernei op Blokkearje of Tastean.
 
 ## Site Permissions - Autoplay
 

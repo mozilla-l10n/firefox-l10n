@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Bewarje as…
     .accesskey = j
-media-preview =
-    .value = Mediafoarbyld:
 
 perm-tab =
     .label = Tastimmingen
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nee
 
 image-size-unknown = Net bekend
-not-set-verified-by = Net spesifisearre
 page-info-not-specified =
     .value = Net spesifisearre
 not-set-alternative-text = Net spesifisearre
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirksmodus
 general-strict-mode =
     .value = Standert oerienkomstige modus
-security-no-owner = Dizze website jout jo gjin eigendomsynformaasje.
 page-info-security-no-owner =
     .value = Dizze website jout jo gjin eigendomsynformaasje.
 media-select-folder = Selektearje in map foar it bewarjen fan de ôfbyldingen

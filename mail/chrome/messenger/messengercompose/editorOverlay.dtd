@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "s">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Plakke sûnder opmaak">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Plakke as">
-<!ENTITY pasteAs.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.label "Plakke as sitaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Sykje…">
-<!ENTITY findReplaceCmd.label "Sykje en ferfange…">
-<!ENTITY enableInlineSpellChecker.label "Stavering kontrolearje by typen">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Stavering kontrolearje">
-<!ENTITY checkSpellingCmd2.accesskey "k">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ynfoegje">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tekst">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Avansearre opsjes">
-<!ENTITY advancedPropertiesCmd.accesskey "a">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Utlynje">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Utfolje">
 <!ENTITY alignJustify.accesskey "U">
 <!ENTITY alignJustify.tooltip "Utfolje">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Leech">
-<!ENTITY layerSendToBack.tooltip "Nei efter bringe">
-<!ENTITY layerBringToFront.tooltip "Nei foaren bringe">
 
 <!ENTITY increaseIndent.label "Ynspringe fergrutsje">
 <!ENTITY increaseIndent.accesskey "n">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Tabeleigenskippen">
 <!ENTITY tableProperties.accesskey "e">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menubalke">
-<!ENTITY formatToolbar.tooltip "Opmaakarkbalke">
-<!ENTITY cutToolbarCmd.tooltip "Knippe">
-<!ENTITY copyToolbarCmd.tooltip "Kopiearje">
-<!ENTITY pasteToolbarCmd.tooltip "Plakke">
-<!ENTITY printToolbarCmd.label "Ofdrukke">
-<!ENTITY printToolbarCmd.tooltip "Dizze side ôfdrukke">
-<!ENTITY findToolbarCmd.label "Sykje">
-<!ENTITY findToolbarCmd.tooltip "Tekst sykje op side">
-<!ENTITY spellToolbarCmd.label "Stavering">
-<!ENTITY spellToolbarCmd.tooltip "Stavering fan seleksje of hiele side kontrolearje">
-
 <!ENTITY imageToolbarCmd.label "Ofbylding">
 <!ENTITY imageToolbarCmd.tooltip "Nije ôfbylding ynfoegje of eigenskippen fan selektearre ôfbylding oanpasse">
 <!ENTITY hruleToolbarCmd.label "H.line">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nije ankerferwizing ynfoegje of eigenskippen fan selektearre ankerferwizing oanpasse">
 <!ENTITY TextColorButton.tooltip "Tekstkleur kieze">
 <!ENTITY BackgroundColorButton.tooltip "Eftergrûnkleur kieze">
-<!ENTITY throbber.tooltip2 "Gean nei de thússide fan &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Markearringskleur foar tekst kieze">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Lettergrutte ynstelle">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Tekst sintrearre rjochtsje">
 <!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarzje rjochtsje">
 <!ENTITY alignJustifyButton.tooltip "Tekst by de lofter- en rjochtermarzje rjochtsje">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Selektearje">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Label fuortsmite">
-<!ENTITY structRemoveTag.accesskey  "f">
-<!ENTITY structChangeTag.label      "Label wizigje">
-<!ENTITY structChangeTag.accesskey  "w">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ynfoegje">

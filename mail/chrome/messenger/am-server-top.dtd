@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "berjochten">
 <!ENTITY alwaysAuthenticate.label "Altyd freegje om autentikaasje by ferbinen mei dizze server">
 <!ENTITY alwaysAuthenticate.accesskey "z">
-<!ENTITY newsrcFilePath.label "newsrc-bestân:">
-<!ENTITY newsrcPicker.label "newsrc-bestân selektearje">
 <!ENTITY newsrcFilePath1.label "Newsrc-bestân:">
 <!ENTITY newsrcPicker1.label "Newsrc-bestân selektearje">
 <!ENTITY abbreviate.label "Nijsgroepnammen yn it berjochtemapfinster toane as:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avansearre…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Standert tekenkodearing:">
-<!ENTITY localPath.label "Lokale map">
 <!ENTITY localPath1.label "Lokale map:">
 <!ENTITY localFolderPicker.label "Selektearje lokale map">
 <!ENTITY browseFolder.label "Blêdzje…">

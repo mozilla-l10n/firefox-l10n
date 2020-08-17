@@ -112,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Type minder, fyn mear: Sykje nei { $engineName } streekrjocht fan jo adresbalke út.
 urlbar-search-tips-redirect-2 = Begjin yn de adresbalke mei sykjen om suggestjes fan { $engineName } en jo browserskiednis te sjen.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -191,6 +193,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = As standertsykmasine foar priveefinsters ynstelle
     .accesskey = p
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -304,8 +313,10 @@ enable-devtools-popup-description = Iepenje earst DevTools yn it menu Webûntwik
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Fier in sykterm of adres yn
+
 urlbar-placeholder =
     .placeholder = Fier in sykterm of adres yn
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser wurdt op ôfstân bestjoerd
 urlbar-permissions-granted =

@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Argivearje">
 <!ENTITY hdrArchiveButton1.tooltip "Dit berjocht argivearje">
-<!ENTITY hdrOpenConversationButton1.label "Petear">
-<!ENTITY hdrOpenConversationButton1.tooltip "Petear fan dit berjocht toane">
 <!ENTITY hdrSmartReplyButton1.label "Tûk beäntwurdzje">
 <!ENTITY hdrReplyButton1.label "Beäntwurdzje">
 <!ENTITY hdrReplyButton2.tooltip "Ofstjoerder fan dit berjocht beäntwurdzje">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Beäntwurdzje nei mailinglist">
 <!ENTITY hdrFollowupButton1.label "Reagearje">
 <!ENTITY hdrFollowupButton1.tooltip "In reaksje yn dizze nijsgroep pleatse">
-<!ENTITY hdrMenuForwardButton.label "Trochstjoere as">
 <!ENTITY hdrForwardButton1.label "Trochstjoere">
 <!ENTITY hdrForwardButton1.tooltip "Dit berjocht trochstjoere">
 <!ENTITY hdrJunkButton1.label "Net-winske">

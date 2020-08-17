@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Lade…
-
 list-empty-installed =
     .value = Jo hawwe gjin add-ons fan dit type ynstallearre
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Mear ynfo oer add-ons
 
-install-addon-from-file =
-    .label = Ynstallearje add-on út bestân…
-    .accesskey = Y
-
 help-button = Add-on-stipe
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name }-opsjes
        *[other] { -brand-short-name }-foarkarren
     }
-
-tools-menu =
-    .tooltiptext = Ark foar alle add-ons
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Alle útwreidingen toane
-
-debug-addons =
-    .label = Add-ons debugge
-    .accesskey = b
 
 cmd-show-details =
     .label = Mear ynformaasje toane
@@ -104,17 +90,6 @@ cmd-contribute =
     .accesskey = B
     .tooltiptext = Bydrage oan de ûntwikkeling fan dizze add-on
 
-discover-title = Wat binne Add-ons?
-
-discover-description =
-    Add-ons binne applikaasjes dy't jo { -brand-short-name } personalisearje litte mei
-    ekstra funksjonaliteit of styl. Probearje in tiidbesparjende sidebalke, in waartsjinst, of in tema om Firefox
-    jo eigen te meitsjen.
-
-discover-footer =
-    As jo ferbûn binne mei it ynternet, sil dit paniel in pear
-    fan de bêste en meast populêre add-ons toane foar jo om te probearjen.
-
 detail-version =
     .label = Ferzje
 
@@ -145,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Utfiere yn priveefinsters
 
-detail-private-browsing-description2 = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Net tastien yn priveefinsters
-detail-private-disallowed-description = Dizze útwreiding wurket net yn priveenavigaasje. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
 
 detail-private-disallowed-description2 = Dizze útwreiding wurdt wylst priveenavigaasje net útfierd. <a data-l10n-name="learn-more">Mear ynfo</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Fereaske tagong ta priveefinsters
-detail-private-required-description = Dizze útwreiding hat tagong ta jo online-aktiviteiten yn priveenavigaasje. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
 
 detail-private-required-description2 = Dizze útwreiding hat wylst priveenavigaasje tagong ta jo online-aktiviteiten. <a data-l10n-name="learn-more">Mear ynfo</a>
 
@@ -233,18 +204,6 @@ private-browsing-description2 =
     Dizze wiziging is oanbrocht om jo priveenavigaasje privee te hâlden.
     <label data-l10n-name="private-browsing-learn-more">Mear ynfo oer it behearen fan útwreidingen-ynstellingen.</label>
 
-extensions-view-discopane =
-    .name = Oanrekommandaasjes
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Resinte fernijingen
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Beskikbere fernijingen
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Oanrekommandaasjes
 addon-category-discover-title =
     .title = Oanrekommandaasjes
@@ -272,29 +231,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Alle add-ons binne útskeakele troch feilige modus.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Ynskeakelje
-    .tooltiptext = Skeakelje kontrole fan kompatibileit foar add-ons yn
-
-extensions-warning-update-security-label =
-    .value = Feilichheidskontrole foar add-onsfernijingen is útskeakele. Jo kinne efterrinne mei fernijingen.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Ynskeakelje
-    .tooltiptext = Skeakelje feilichheidskontrole foar add-onsfernijingen yn
-
 extensions-warning-safe-mode = Alle add-ons binne útskeakele troch feilige modus.
 extensions-warning-check-compatibility = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
 extensions-warning-check-compatibility-button = Ynskeakelje
@@ -306,14 +242,6 @@ extensions-warning-update-security-button = Ynskeakelje
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Kontrolearje op fernijingen
-    .accesskey = K
-
-extensions-updates-view-updates =
-    .label = Resinte fernijingen toane
-    .accesskey = T
-
 addon-updates-check-for-updates = Kontrolearje op fernijingen
     .accesskey = K
 addon-updates-view-updates = Resinte fernijingen toane
@@ -321,10 +249,6 @@ addon-updates-view-updates = Resinte fernijingen toane
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Add-ons automatysk fernije
-    .accesskey = a
 
 addon-updates-update-addons-automatically = Add-ons automatysk fernije
     .accesskey = a
@@ -335,36 +259,12 @@ addon-updates-update-addons-automatically = Add-ons automatysk fernije
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Stel automatysk fernije yn foar alle add-ons
-    .accesskey = S
-
-extensions-updates-reset-updates-to-manual =
-    .label = Stel hânmjittich fernije yn foar alle add-ons
-    .accesskey = S
-
 addon-updates-reset-updates-to-automatic = Stel automatysk fernije yn foar alle add-ons
     .accesskey = S
 addon-updates-reset-updates-to-manual = Stel hânmjittich fernije yn foar alle add-ons
     .accesskey = S
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Add-ons oan it bywurkjen
-extensions-updates-installed =
-    .value = Jo add-ons binne bywurke.
-extensions-updates-downloaded =
-    .value = Jo add-onsfernijingen binne download.
-extensions-updates-restart =
-    .label = Werstart no om de ynstallaasje te foltôgjen.
-extensions-updates-none-found =
-    .value = Gjin fernijingen fûn
-extensions-updates-manual-updates-found =
-    .label = Beskikbere fernijingen toane
-extensions-updates-update-selected =
-    .label = Ynstallearje fernijingen
-    .tooltiptext = Ynstallearje beskikbere fernijingen op dize list
 
 addon-updates-updating = Add-ons oan it bywurkjen
 addon-updates-installed = Jo add-ons binne bywurke.
@@ -382,10 +282,6 @@ addon-open-about-debugging = Add-ons debugge
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Utwreidingsfluchtoetsen beheare
-    .accesskey = U
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Utwreidingsfluchtoetsen beheare
     .accesskey = U
@@ -394,8 +290,6 @@ shortcuts-no-addons = Jo hawwe gjin útwreidingen ynskeakele.
 shortcuts-no-commands = De folgjende útwreidingen hawwe gjin fluchtoetsen:
 shortcuts-input =
     .placeholder = Typ in fluchtoets
-
-shortcuts-browserAction = Utwreiding aktivearje
 
 shortcuts-browserAction2 = Arkbalkeknop aktivearje
 shortcuts-pageAction = Side-aksje aktivearje
@@ -426,9 +320,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Minder toane
-
-go-back-button =
-    .tooltiptext = Tebekgean
 
 header-back-button =
     .title = Tebekgean
@@ -481,7 +372,6 @@ remove-addon-button = Fuortsmite
 remove-addon-disabled-button = Kin net fuortsmiten wurde <a data-l10n-name="link">Wêrom?</a>
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
-expand-addon-button = Mear opsjes
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -494,9 +384,6 @@ preferences-addon-button =
 details-addon-button = Details
 release-notes-addon-button = Utjefteopmerkingen
 permissions-addon-button = Tastimmingen
-
-addons-enabled-heading = Ynskeakele
-addons-disabled-heading = Utskeakele
 
 extension-enabled-heading = Ynskeakele
 extension-disabled-heading = Utskeakele
@@ -559,23 +446,12 @@ install-update-button = Bywurkje
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Tastien yn priveefinsters
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Tastien yn priveefinsters
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <a data-l10n-name="learn-more">Mear ynfo</a>
 addon-detail-private-browsing-allow = Tastean
 addon-detail-private-browsing-disallow = Net tastean
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Oanrekommandearre
-    .alt = Oanrekommandearre
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

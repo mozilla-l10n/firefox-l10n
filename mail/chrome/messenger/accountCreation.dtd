@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "In besteand account ynstelle">
-
 <!ENTITY emailWizard.title               "Jo besteande e-mailadres ynstelle">
 <!ENTITY emailWizard.caption             "Jo besteande e-mailadres brûke">
 <!ENTITY name.label                      "Jo namme">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Foarnamme Efternamme">
 <!ENTITY fullname.placeholder            "Jo folsleine namme">
 <!ENTITY name.text                       "Jo namme, as toant oan oaren">
 <!ENTITY name.error                      "Fier jo namme yn">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Jo e-mailadres">
 <!ENTITY email.text                      "Jo besteande e-mailadres">
 <!ENTITY email.error                     "Unjildich e-mailadres">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Utgeand:">
 <!ENTITY outgoingColumn.label            "Utgeand">
 <!ENTITY username.label                  "Brûkersnamme:">
-<!ENTITY hostname.label                  "Serverhostnamme">
-<!ENTITY port.label                      "Poarte">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Poarte:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Opnij teste">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Hânmjittich ynstelle">
-<!ENTITY manual-edit.accesskey           "H">
 <!ENTITY manual-config.label             "Hânmjittich konfigurearje…">
 <!ENTITY manual-config.accesskey         "H">
 <!ENTITY open-provisioner.label          "Krij in nij e-mailadres…">

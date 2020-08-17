@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Befeiliging">
-<!ENTITY securityTab.label "Befeiliging">
-<!ENTITY securityHeading.label "Om ûndertekene of fersifere berjochten te ferstjoeren, moatte jo in digitale ûndertekening en in fersiferingssertifikaat spesifisearje.">
-<!ENTITY encryptionGroupTitle.label "Fersifering">
-<!ENTITY encryptionChoiceLabel.label "Standert fersiferingsynstelling by ferstjoeren fan berjochten:">
-<!ENTITY neverEncrypt.label "Nea (gjin fersifering brûke)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Fereasket (kin berjocht net ferstjoere, of alle adressearren moatte in sertifikaat hawwe)">
-<!ENTITY alwaysEncryptMessage.accesskey "e">
-<!ENTITY encryptionCert.message "Dit sertifikaat brûke foar it fersiferjen en ûntsiferjen fan nei jo ferstjoerde berjochten:">
-
 <!ENTITY e2eTitle.label "End-to-end-fersifering">
-<!ENTITY e2eIntro.description "Om fersifere of digitaal ûndertekene berjochten te ferstjoeren, moatte jo in fersiferingstechnology ynstelle, itsij OpenPGP of S / MIME.">
 <!ENTITY e2eLearnMore.label "Mear ynfo">
 
 <!ENTITY e2eEnc.description "Sûnder end-to-end-fersifering wurdt de ynhâld fan berjochten maklik sichtber foar jo e-mailprovider en foar massa-tafersjoch.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Wiskje">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitale ûndertekening">
-<!ENTITY signMessage.label "Alle berjochten digitaal ûndertekenje (standert)">
 <!ENTITY signMessage2.label "Myn digitale hantekening standert tafoegje">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Dit sertifikaat brûke om berjochten dy't jo ferstjoere digitaal te ûndertekenjen:">
-
-<!ENTITY certificates.label "Sertifikaten">
-<!ENTITY manageCerts2.label "Sertifikaten beheare">
-<!ENTITY manageCerts2.accesskey "S">
-<!ENTITY manageDevices.label "Befeiligingsapparaten">
-<!ENTITY manageDevices.accesskey "B">
 
 <!ENTITY signingCert2.message "Persoanlik sertifikaat foar digitaal ûndertekenjen:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Foarkar foar OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGP-kaaien beheare">
-<!ENTITY manageKeys.accesskey "k">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sertifikaat selektearje">

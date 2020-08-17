@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Opnij útfiere">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "n">
-<!ENTITY cutCmd.label "Knippe">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "N">
-<!ENTITY copyCmd.label "Kopiearje">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Plakke">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "r">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "f">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "f">
-<!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Sykje…">
 <!ENTITY findBarCmd.accesskey "S">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "Dit berjocht ôfdrukke">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Fan:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Oare soarten adresfjilden">
 <!ENTITY fromAddr2.label "Fan">
 <!ENTITY fromAddr.accesskey "F">
-<!ENTITY toAddr.label "Oan:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Antwurd nei:">
-<!ENTITY newsgroupsAddr.label "Nijsgroep:">
-<!ENTITY followupAddr.label "Reaksjes nei:">
-<!ENTITY subject.label "Underwerp:">
 <!ENTITY toAddr2.label "Oan">
 <!ENTITY ccAddr2.label "Cc">
 <!ENTITY bccAddr2.label "Bcc">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "Opfolgje-oan">
 <!ENTITY subject2.label "Underwerp">
 <!ENTITY subject.accesskey "n">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "a">
-<!ENTITY attachmentBucketHeader.tooltip "Bylagefinster">
 <!ENTITY attachmentBucketCloseButton.tooltip "It bylagefinster ferstopje">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

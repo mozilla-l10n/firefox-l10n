@@ -14,5 +14,7 @@ accounts-conn-security = Ferbiningsbefeiliging
 accounts-auth-method = Autentikaasjemetoade
 accounts-default = Standert?
 identity-name = Identiteit
+
 send-via-email = Ferstjoere fia e-mail
+
 app-basics-telemetry = Telemetry-gegevens

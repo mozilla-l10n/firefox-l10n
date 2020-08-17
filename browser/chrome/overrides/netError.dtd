@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Kin gjin ferbining meitsje">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Dit adres hat in beheinde tagong">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Server net fûn">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Wy kinne dizze website net fine.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>As it adres krekt is, kinne jo trije oare saken probearje:</strong>
 <ul>
@@ -34,8 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Bestân net fûn">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Kontrolearje de bestânsnamme op grutte/lytse letters of oare typflaters.</li>
@@ -43,15 +35,11 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Tagong ta it bestân is wegere">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>It kin fuortsmiten wêze, ferpleatst, of bestânsmachtigingen kinne tagong tsjingean.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Oei.">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; kin om ien oft oare reden dizze side net lade.</p>
@@ -65,18 +53,10 @@
 <!ENTITY openPortalLoginPage.label2 "Oanmeldside fan netwurk iepenje">
 
 <!ENTITY malformedURI.pageTitle "Unjildige URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Dat adres sjocht der net goed út.">
-
-<!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokumint ferrûn">
-
 <!ENTITY notCached.longDesc "<p>It opfrege dokumint is net beskikber yn de buffer fan &brandShortName;.</p><ul><li>As befeiligingsmaatregel freget &brandShortName; gefoelige dokuminten net automatysk opnij op.</li><li>Klik op Opnij probearje om it dokumint opnij fan de website op te freegjen.</li></ul>">
-
-<!ENTITY netOffline.title "Offline-modus">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -84,15 +64,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Ynhâldkodearringsflater">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Unfeilich bestânstype">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -100,23 +76,15 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "De ferbining waard opnij inisjalisearre">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "De wachttiid foar de ferbining is ferstrutsen">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "It adres waard net begrepen">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Miskien moatte jo oare software ynstallearje om dit adres te iepenjen.</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "De proxyserver wegeret ferbiningen">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -125,8 +93,6 @@
     wurket.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Kin de proxyserver net fine">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -137,16 +103,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "De side ferwiist net op in krekte wize troch">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Dit probleem kin somtiden feroarsake wurde troch it útskeakeljen of wegerjen
    fan cookies.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Unferwacht antwurd fan de server">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -156,17 +118,12 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Befeilige ferbining mislearre">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>De side dy't jo besjen wolle kin net toand wurde, omdat de echtheid fan de ûntfongen gegevens net ferifiearre wurde kin.</li>
   <li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Warskôging: mooglik befeiligingsrisiko">
-<!ENTITY certerror.sts.longpagetitle  "Gjin ferbining makke: mooglik befeiligingsprobleem">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -205,11 +162,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
-
 <!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Skansearre-ynhâldsflater">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; hat opkeard dat de side yn dizze kontekst laden waard, omdat de side in belied foar X-Frame-Options hat dat dit net tastiet.</p>">
 
@@ -220,11 +173,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
 <!ENTITY errorReporting.learnMore "Mear ynfo…">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Kin gjin befeilige ferbining meitsje">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -235,15 +184,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> hat in befeiligingsbelied mei de namme HTTP Strict Transport Security (HSTS), wat betsjut dat &brandShortName; allinnich in befeilige ferbining dêrmei meitsje kin. Jo kinne gjin útsûndering tafoegje om dizze website te besykjen.">
 <!ENTITY certerror.copyToClipboard.label "Tekst nei klamboerd kopiearje">
 
-<!ENTITY inadequateSecurityError.title "Jo ferbining is net befeilige">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkearre side">
-
-<!ENTITY certerror.mitm.title "Software foarkomt dat &brandShortName; in befeilige ferbining mei dizze website meitsje kin">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is hiel wierskynlik in feilige website, mar der koe gjin befeilige ferbining ta stân brocht wurde. Dit probleem wurdt feroarsake troch <span class='mitm-name'/>, dat software op jo kompjûter of op jo netwurk oanbelanget.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "As jo antifirussoftware in funksje befettet dy fersifere ferbiningen scant (faaks ‘webscanning’ of ‘https-scanning’ neamd), kinne jo dy funksje útskeakelje. As dat net wurket, kinne jo de antifirussoftware fuortsmite en opnij ynstallearje.">
@@ -251,14 +196,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "As jo net bekend binne mei <span class='mitm-name'/>, kin dit in oanfal wêze en kinne jo de website better net besykje.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "As jo net bekend binne mei <span class='mitm-name'/>, kin dit in oanfal wêze, en is der neat wat jo dwaan kinne om de website te besykjen.">
 
-<!ENTITY clockSkewError.title "Jo kompjûterklok jout de ferkearde tiid oan">
-
 <!ENTITY clockSkewError.longDesc "Jo kompjûter tinkt dat it <span id='wrongSystemTime_systemDate1'/> is, wêrtroch &brandShortName; gjin befeilige ferbining mei <span class='hostname'></span> meitsje kin. Stel jo kompjûterklok yn nei de aktuele datum, tiid en tiidsône yn jo systeemynstellingen, en fernij dêrnei de side om <span class='hostname'></span> te besykjen.">
 
 <!ENTITY prefReset.longDesc "It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?">
 <!ENTITY prefReset.label "Standertynstellingen werom bringe">
-
-<!ENTITY networkProtocolError.title "Netwurkprotokolflater">
 
 <!ENTITY enableTls10.longDesc "Dizze website stipet mooglik it TLS 1.2-protokol net, wat de minimale ferzje is dy't troch &brandShortName; stipe wurdt. Troch TLS 1.0 en TLS 1.1 yn te skeakeljen kin mooglik de ferbining ta stân brocht wurde.">
 <!ENTITY enableTls10.note "TLS 1.0 en TLS 1.1 wurde yn in takomstige ferzje permanint útskeakele.">

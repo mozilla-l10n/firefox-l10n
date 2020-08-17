@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>It opfrege dokumint is net beskikber yn de buffer fan &brandShortName;.</p><ul><li>As befeiligingsmaatregel freget &brandShortName; gefoelige dokuminten net automatysk opnij op.</li><li>Klik op Opnij probearje om it dokumint opnij fan de website op te freegjen.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-modus">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Probearje opnij. &brandShortName; sil probearje om in ferbining te iepenjen en de side opnij te laden.
-    <button id='wifi'>Wifi ynskeakelje</button>
-    </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Ynhâldkodearringsflater">
 <!ENTITY contentEncodingError.longDesc "

@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Berjocht fersiferje">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Net fersiferje">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "f">
 
