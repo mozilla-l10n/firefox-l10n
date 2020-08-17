@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Yakb'äl">
 <!ENTITY hdrArchiveButton1.tooltip "Tiyak re tzijol re'">
-<!ENTITY hdrOpenConversationButton1.label "Tzijonem">
-<!ENTITY hdrOpenConversationButton1.tooltip "Tik'ut rutzijonem re tzijol re'">
 <!ENTITY hdrSmartReplyButton1.label "Na'owinäq taq Tzolin Tzij">
 <!ENTITY hdrReplyButton1.label "Titzolïx tzij">
 <!ENTITY hdrReplyButton2.tooltip "Titzolïx tzij chi re ri rutaqonel re tzijol re'">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Titzolïx tzij chi re jun kicholb'al taqotz'ib'">
 <!ENTITY hdrFollowupButton1.label "Tizolïx tzij">
 <!ENTITY hdrFollowupButton1.tooltip "Titalüx rutzijol jun tzolin tzij pa re kimolaj tzijol re'">
-<!ENTITY hdrMenuForwardButton.label "Titaq chik Achi'el">
 <!ENTITY hdrForwardButton1.label "Titaq chik">
 <!ENTITY hdrForwardButton1.tooltip "Titaq chik re rutzijol re'">
 <!ENTITY hdrJunkButton1.label "Seq'">

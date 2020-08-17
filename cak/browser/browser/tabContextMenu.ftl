@@ -53,12 +53,12 @@ move-to-end =
 move-to-new-window =
     .label = Tisilöx pa K'ak'a' Tzuwäch
     .accesskey = l
-undo-close-tab =
-    .label = Titzolïx Titz'apïx Ruwi'
-    .accesskey = T
 tab-context-close-multiple-tabs =
     .label = Ketz'apïx K'ïy Taq Ruwi'
     .accesskey = y
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Tinuk'">
 <!ENTITY editMenu.accesskey        "n">
 <!ENTITY undoCmd.label            "Titzolïx">
-<!ENTITY undoCmd.key            "z">
 <!ENTITY undoCmd.accesskey          "x">
 <!ENTITY redoCmd.label            "Tikamulüx">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "T">
-<!ENTITY cutCmd.label            "Tiqupïx">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "x">
-<!ENTITY copyCmd.label            "Tiwachib'ëx">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "w">
-<!ENTITY pasteCmd.label            "Titz'ajb'äx">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "j">
 <!ENTITY deleteCmd.label          "Tiyuj">
 <!ENTITY deleteCmd.accesskey        "y">
-<!ENTITY selectAllCmd.label          "Ticha' Ronojel">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "R">
 <!ENTITY preferencesCmd2.label "Taq cha'oj">
 <!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label       "Taq ajowab'äl">

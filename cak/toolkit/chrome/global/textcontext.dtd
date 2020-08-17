@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Tiqupïx">
-<!ENTITY cutCmd.accesskey "q">
-<!ENTITY copyCmd.label "Wachib'exïk">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Titz'ajb'äx">
-<!ENTITY pasteCmd.accesskey "T">
-<!ENTITY undoCmd.label "Titzolïx">
-<!ENTITY undoCmd.accesskey "T">
-<!ENTITY selectAllCmd.label "Ticha' Ronojel">
-<!ENTITY selectAllCmd.accesskey "r">
-<!ENTITY deleteCmd.label "Tiyuj">
-<!ENTITY deleteCmd.accesskey "T">
-
 <!ENTITY spellAddToDictionary.label "Titz'aqatisäx pa Soltzij">
 <!ENTITY spellAddToDictionary.accesskey "a">
 <!ENTITY spellUndoAddToDictionary.label "Titzolïx chi rij Titz'aqatisäx pa soltzij">

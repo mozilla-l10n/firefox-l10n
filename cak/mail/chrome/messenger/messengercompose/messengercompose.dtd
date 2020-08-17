@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Tikamulüx">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "k">
-<!ENTITY cutCmd.label "Tiqupïx">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "x">
-<!ENTITY copyCmd.label "Tiwachib'ëx">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "w">
-<!ENTITY pasteCmd.label "Titz'ajb'äx">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "j">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "n">
@@ -90,14 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Rupas Taqoj">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "q">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "h">
-<!ENTITY selectAllCmd.label "Ticha' Ronojel">
 <!ENTITY selectAllCmd.accesskey "r">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Tikanöx…">
 <!ENTITY findBarCmd.accesskey "k">
 <!ENTITY findBarCmd.key "F">
@@ -252,29 +239,10 @@
 <!ENTITY printButton.tooltip "Titz'ajb'äx re rutzijol re'">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Richin:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.accesskey "c">
-<!ENTITY toAddr.label "Chi re:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Titzolïx Tzij Chi Re:">
-<!ENTITY newsgroupsAddr.label "Rumolaj tzijol:">
-<!ENTITY followupAddr.label "Titaq chik Chi Re:">
-<!ENTITY subject.label "Taqikil:">
 <!ENTITY subject.accesskey "T">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "m">
-<!ENTITY attachmentBucketHeader.tooltip "Rupas Taqoj">
 <!ENTITY attachmentBucketCloseButton.tooltip "Tewäx ri rupas taqoj">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Rub'i' chuqa' ruk'ojlib'al rux'el ri rusamaj ruk'utub'al.">
 <!ENTITY performanceUI.table.totalAlloc               "Ronojel ri taq rujachoj ri k'utub'äl">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Ronojel ri rajilab'al taq jachoj k'utun pa re k'ojlib'äl re'.">
-<!ENTITY performanceUI.table.selfAlloc                "Taq rujachoj ruk'utub'al">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Rajilab'al taq rujachoj taq wachinäq k'utun pa re k'ojlib'äl re'.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

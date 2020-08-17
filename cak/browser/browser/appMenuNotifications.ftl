@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = Ke'anuk'samajij ri taq achokoy rik'in napï
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tiya' q'ij chi re k'amal re' nisamäj pan Ichinan Tzuwäch
     .accesskey = T
-appmenu-addon-private-browsing =
-    .label = Kejal rik'in taq k'amal pan Ichinan taq Tzuwäch
-    .buttonlabel = Kinuk'samajixik taq K'amal
-    .buttonaccesskey = K
-    .secondarybuttonlabel = Ütz, Xq'ax pa nuwi'
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Xab'achike k'ak'a' k'amab'ey xtatz'aqatisaj pa { -brand-shorter-name } man xtisamäj ta pa Ichinan Tzuwäch xa xe we naya' q'ij chi re pa ri nuk'ulem.
-appmenu-addon-private-browsing-learn-more = Tawetamaj nanuk'samajij runuk'ulem k'amal.
+    
 appmenu-new-tab-controlled =
     .label = Xjal ri K'ak'a' Ruwi'.
     .buttonlabel = Kek'oje' na ri taq Jaloj

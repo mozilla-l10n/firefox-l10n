@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = ¡Nink'ül ri samaj!
 config-about-warning-checkbox =
     .label = Junelïk tik'ut pe re jun retal k'ayewal re'.
+
 config-search-prefs =
     .value = Tikanöx:
     .accesskey = k
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Tiwachib'ëx
     .accesskey = c
+
 config-copy-name =
     .label = Tiwachib'ëx ri b'i'aj
     .accesskey = b
+
 config-copy-value =
     .label = Tiwachib'ëx retal
     .accesskey = r
+
 config-modify =
     .label = Tijalwachïx
     .accesskey = T
+
 config-toggle =
     .label = Tik'exlöx
     .accesskey = T
+
 config-reset =
     .label = Titzolïx
     .accesskey = o
+
 config-new =
     .label = K'ak'a'
     .accesskey = k
+
 config-string =
     .label = Cholajil
     .accesskey = C
+
 config-integer =
     .label = Chijun
     .accesskey = C
+
 config-boolean =
     .label = Ja'/manäq
     .accesskey = J
+
 config-default = k'o wi
 config-modified = jalon
 config-locked = q'eleb'en
+
 config-property-string = cholajil
 config-property-int = chijun
 config-property-bool = ja'/manäq
+
 config-new-prompt = Tatz'ib'aj rub'i' ajowab'äl
+
 config-nan-title = Man okel ta ri retal
 config-nan-text = Man ajilab'äl ta ri rucholajem tz'ij xtz'aqatisäx.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = K'ak'a' rajil { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Titz'ib'äx retal { $type }

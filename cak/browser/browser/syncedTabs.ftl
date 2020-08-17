@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Ximon taq ruwi'
 synced-tabs-sidebar-noclients-subtitle = ¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?
-synced-tabs-sidebar-notsignedin = Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.
 synced-tabs-sidebar-intro = Titz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.
 synced-tabs-sidebar-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
 synced-tabs-sidebar-notabs = Majun ruwi' ejaqon

@@ -11,6 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Retal Komonïk
+
 webrtc-sharing-window = Nakomonij jun chik rutzuwäch chokoy.
 webrtc-sharing-browser-window = Nakomonij { -brand-short-name }.
 webrtc-sharing-screen = Nakomonij chijun ruwa kematz'ib'.

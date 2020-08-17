@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Tak'ulu' pa Google Play
 login-app-promo-apple =
     .alt = Taqasaj pa ri App Store
+
 login-filter =
     .placeholder = Kekanöx Tikirib'äl taq Molojri'ïl
+
 create-login-button = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
+
 fxaccounts-sign-in-text = Ke'ak'ulu' ewan taq kitzij ru ch'aqa' chik taq okisab'äl
 fxaccounts-sign-in-button = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ¿La ye'akanoj rutikirib'al taq amolojri'ïl e'ayakon kan? Tab'ana' runuk'ulem { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = ¿La ye'akanoj rutikirib'al taq amolojri'ïl e'ayakon kan? Tab'ana' runuk'ulem { -sync-brand-short-name } o Tijik' Wachinel.
 about-logins-login-intro-heading-logged-in = Majun ximon taq tikirib'äl molojri'ïl xe'ilitäj.
 login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-product-name } pa jun chik wi okisab'äl, wawe' nik'ut pe richin nak'ul wawe' chuqa':
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccoun
 login-intro-instruction-fxa-settings = Tatz'eta' chi xacha' ri k'ojlib'äl richin kitikitib'al molojri'ïl pa ri runuk'ulem { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
 about-logins-intro-import = We ri rutikirib'al amolojri'ïl yakon pa jun chik okik'amaya'l, yatikïr <a data-l10n-name="import-link">ye'ajïk' pa { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = We ri taq awujil man yek'oje' ta chupam { -brand-product-name } yatikïr <a data-l10n-name="import-browser-link">ye'ajïk pe chupam jun chik okik'amaya'l</a> o <a data-l10n-name="import-file-link">chupam jun yakb'äl</a>
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Richin nanük' ri rutikirib
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = tinuk' ri yakon rutikirib'al molojri'ïl
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Richin natz'ët ri ewan atzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = tik'ut ri yakon ewan tzij
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Richin nawachib'ej ri ewan atzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = tiwachib'ëx ri yakon ewan tzij
+
+## Master Password notification
+
+master-password-notification-message = Tatz'ib'aj ri ajtij ewan atzij richin ye'atz'ët ri rutikirib'al taq amolojri'ïl & ri ewan taq tzij
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Richin ye'ak'waj ri rutikirib'al taq amolojri'ïl, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = kek'wäx el yakon tikirisaxik taq molojri'ïl chuqa' ewan taq tzij
-
-## Master Password notification
-
-master-password-notification-message = Tatz'ib'aj ri ajtij ewan atzij richin ye'atz'ët ri rutikirib'al taq amolojri'ïl & ri ewan taq tzij
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Tiq'at
 confirmation-dialog-dismiss-button =
     .title = Tiq'at
+
 about-logins-confirm-remove-dialog-title = ¿La niyuj el rutikirib'al re moloj re'?
 confirm-delete-dialog-message = Man tikirel ta nitzolïx re b'anïk.
 about-logins-confirm-remove-dialog-confirm-button = Tiyuj
+
 about-logins-confirm-export-dialog-title = Kek'wäx el kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 about-logins-confirm-export-dialog-message = Xkeyak ri ewan taq atzij achi'el tz'etel tz'ib'anïk (achi'el, BadP@ssw0rd) richin chi xab'achike xtijaqon ri yakb'äl k'wa'an, nitikïr nutz'ët.
 about-logins-confirm-export-dialog-confirm-button = Tik'wäx el…
+
 confirm-discard-changes-dialog-title = ¿La yech'aqïx ri taq jaloj man eyakon ta?
 confirm-discard-changes-dialog-message = Xkesach ronojel ri jaloj man eyakon ta.
 confirm-discard-changes-dialog-confirm-button = Tich'aqïx
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Tetamäx ch'aqa' chik
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = K'o chik jun okib'äl richin { $loginTitle } rik'in ri rub'i' winäq ri'. <a data-l10n-name="duplicate-link">¿La nawajo' yab'e pa ri okib'äl ri'?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Xk'ulwachitäj jun sachoj toq niyak re ewan tzij.
+
 
 ## Login Export Dialog
 

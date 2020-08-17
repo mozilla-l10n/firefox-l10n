@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Titz'apïx
     .accesskey = z
+
 show-passwords =
     .label = Kek'ut Ewan taq Tzij
     .accesskey = E

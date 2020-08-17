@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin, &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun ximoj">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Titojtob'ëx chik. &brandShortName; xtutojtob'ej xtujäq jun okem chuqa' xtusamajib'ej chik ri ruxaq. <button id='wifi'>Titzij ri Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Sachoj pa rucholajil rupam">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">

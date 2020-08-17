@@ -2,20 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Xk'ulwachitäj jun sachoj toq ntajin ri okem pa { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Rusachoj b'itz'ib': { $error }
+
 psmerr-ssl-disabled = Man tikirel ta nokisäx pa ütz rub'eyal ruma chi ri SSL rub'eyal samaj xchup.
 psmerr-ssl2-disabled = Man tikirel ta nok ütz, ruma chi ri ruxaq k'amaya'l tajin nrokisaj jun ojer chuqa' man ütz ta ruwäch chi SSL rub'eyal samaj.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Xak'ül jun ruwujil b'i'aj ri ma nokel ta.  Katzijon rik'in ri runuk'samajel ruk'u'x samaj o tataqa' jun taqoya'l rik'in re na'oj re':
     
     Ri ruwujil ab'i' junam ri rajilab'al rucholajil kik'in ri ch'aqa' chik taq ruwujil b'i'aj elesan kuma ri taqanel ya'öl ruwujil b'i'al.  Tak'ulu' jun k'ak'a' ruwujil b'i'aj, ri ruk'wan juyonil rajilab'al rucholajil.
+
 ssl-error-export-only-server = Man tikirel ta nib'an ütz chi ch'owen. Ri jun chik rutza'm okem, man nuk'ül ta chi ri ewan rusik'ixik nïm ruxak.
 ssl-error-us-only-server = Man tikirel ta nib'an ütz ch'owen. Ri jun chik rutza'm okem nrajo' ewan rusik'ixik ri nïm ruxaq, ri man yek'ulutäj ta.
 ssl-error-no-cypher-overlap = Man tikirel ta nib'an ütz ch'owen rik'in ri jun chik peraj: majun chi rub'eyal rujik'oj (taq) relik ewan rusik'ixik.

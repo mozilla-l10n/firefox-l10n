@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Tib'an Runuk'ulem jun Rub'i' Taqoya'l K'o chik">
-
 <!ENTITY emailWizard.title               "Tabana' Runuk'ulem jun Rochochib'al Taqoya'l K'o Wi">
 <!ENTITY emailWizard.caption             "Tokisäx ri rochochib'al taqoya'l k'o wakami">
 <!ENTITY name.label                      "Ab'i':">
 <!ENTITY name.accesskey                  "b">
-<!ENTITY name.placeholder                "B'i'aj chuqa' Ruk'an B'i'aj">
 <!ENTITY fullname.placeholder            "Tz'aqät b'i'aj">
 <!ENTITY name.text                       "Ab'i', ri xtikitz'ët ri ch'aqa' chik">
 <!ENTITY name.error                      "Tatz'ib'aj ab'i'">
 <!ENTITY email.label                     "Kochochib'al taqoya'l:">
 <!ENTITY email.accesskey                 "t">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Rochochib'al ataqoya'l">
 <!ENTITY email.text                      "K'o chik ri rochochib'al ataqoya'l">
 <!ENTITY email.error                     "Man okel ta rochochib'al taqoya'l">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Tajin nel:">
 <!ENTITY outgoingColumn.label            "Nel">
 <!ENTITY username.label                  "Rub'i' winäq:">
-<!ENTITY hostname.label                  "Rub'i' k'uxasamaj">
-<!ENTITY port.label                      "B'ey">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Ruk'u'x samaj:">
 <!ENTITY portRow.label                   "B'ey:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Titojtob'ëx-chik">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Aj q'ab'aj nuk'ulem">
-<!ENTITY manual-edit.accesskey           "A">
 <!ENTITY manual-config.label             "Tib'an runuk'ulem chi q'ab'aj…">
 <!ENTITY manual-config.accesskey         "q">
 <!ENTITY open-provisioner.label          "Tik'ul jun k'ak'a' rochochib'al taqoya'l…">

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Kixe'el ri taq rutzij ping:
-about-telemetry-show-current-ping-data = Taq rutzij wakami ri ping
 about-telemetry-show-current-data = Tzij wakami
 about-telemetry-show-archived-ping-data = Yakon taq rutzij ri ping
 about-telemetry-show-subsession-data = Kek'ut pe taq rutzij rachmolojri'ïl
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Ri etataqonel tajin numöl { about-teleme
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Chi kijujunal ri taq rutzijol yetaq pa “<a data-l10n-name="ping-link">taq xub'anïk</a>”. Tajin natz'ët ri { $name }, { $timestamp } xub'anïk.
-about-telemetry-ping-details-current = Chi kijujunal ri taq rutzijol yetaq pa “<a data-l10n-name="ping-link">taq xub'anïk</a>“. Tajin natz'ët ri wakami xub'anïk.
 about-telemetry-data-details-current = Jujun peraj etamab'äl nitaq pa molaj pa “<a data-l10n-name="ping-link">pings</a>“. Natz'ët ri tzij k'o wakami.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = ¡Kojakuyu'! Majun achike xqïl pa jujun
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = ¡Kojakuyu'! Wakami ma e k'o ta taq tzij pa “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = wakami xub'anïk
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = tzij k'o wakami
 # used in the “Ping Type” select

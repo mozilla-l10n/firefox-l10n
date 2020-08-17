@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Nuk'b'äl">
-<!ENTITY editMenu.accesskey        "N">
-<!ENTITY undoCmd.label             "Titzolïx">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "T">
-<!ENTITY redoCmd.label             "Tikamulüx">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "m">
-<!ENTITY cutCmd.label              "Tiqupïx">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "q">
-<!ENTITY copyCmd.label             "Wachib'exïk">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
-<!ENTITY pasteCmd.label            "Tiz'ajb'äx">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "T">
-<!ENTITY deleteCmd.label           "Tiyuj">
-<!ENTITY deleteCmd.accesskey       "T">
-<!ENTITY selectAllCmd.label        "Ticha' Ronojel">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "r">
-
 <!ENTITY findCmd.label             "Tikanöx">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "T">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "k">
-<!ENTITY findPreviousCmd.label     "Tikanöx ri Xik'o Yan">
-<!ENTITY findPreviousCmd.accesskey "x">

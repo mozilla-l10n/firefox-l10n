@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Tatojtob'ej rere': Pin Tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
+
 cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
+
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
 cfr-doorhanger-pintab-ok-button = Tinak'ab'äx Re Ruwi' Re'
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ruma { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Chilab'enïk
 cfr-doorhanger-extension-notification2 = Chilab'enïk
     .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Chilab'enïk
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } okisanel
        *[other] { $total } okisanela'
     }
+
 cfr-doorhanger-pintab-description = Katok anin pa ri ruxaq ak'amaya'l yalan nawokisaj. Ke'ajaqa' kan ri taq ruxaq k'amaya'l pa jun ruwi' (achi'el toq natikirisaj).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Katok anin pa ri ruxaq ak'amaya'l yalan nawo
 cfr-doorhanger-pintab-step1 = <b>Ajkiq'a'-pitz'oj</b> pa ri ruwi' nawajo' nanak'ab'a'.
 cfr-doorhanger-pintab-step2 = Ticha' <b>Nak'oj Ruwi'</b> pa ri k'utsamaj.
 cfr-doorhanger-pintab-step3 = We k'o jun ruk'exoj ri ruxaq k'amaya'l, xtatz'ët jun xar chuq' pa ri ruwi' nak'ab'an.
+
 cfr-doorhanger-pintab-animation-pause = Tiq'at
 cfr-doorhanger-pintab-animation-resume = Titikïr chik el
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = K'ak'a' samaj:
+
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
+
 cfr-whatsnew-panel-header = Achike natzijoj
+
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
+
 cfr-whatsnew-fx70-title = { -brand-short-name } wakami nuya' rejqalem ri awichinanem
 cfr-whatsnew-fx70-body =
     Ri ruk'isib'äl k'exoj nrutzilaj ri Chajinïk chuwäch Ojqanem chuqa' nub'än
     chi man k'ayew ta ye'atz'ük ütz ewan taq tzij kichin ri taq ruxaq.
+
 cfr-whatsnew-tracking-protect-title = Tachajij awi' chi kiwäch ri ojqanela'
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } ke'aqata' k'ïy winäq ojqanela' chuqa' xoch'in taq ruxaq ri
     nikitzeqelb'ej ri asamaj pa k'amab'ey.
 cfr-whatsnew-tracking-protect-link-text = Tatz'eta' ri Atzijol.
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Pa { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Titz'et ri Rutzijol
+
 cfr-whatsnew-lockwise-backup-title = Ke'awachib'ej ri ewan taq atzij
 cfr-whatsnew-lockwise-backup-body = Wakami yatikïr ye'atz'ük ütz ewan taq tzij, achoq kik'in yatikïr yatok xab'akuchi nawajo.
 cfr-whatsnew-lockwise-backup-link-text = Ketzij jikomal taq wachib'enïk
+
 cfr-whatsnew-lockwise-take-title = Ke'ak'waj ri ewan taq atzij awik'in
 cfr-whatsnew-lockwise-take-body =
     Ri { -lockwise-brand-short-name } oyonib'äl chokoy nuya' q'ij chawe ütz yatok pa ri
@@ -151,6 +170,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Xeq'at b'anöy ruwi' q'ab'aj
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } yeruq'ät k'ïy taq fingerprinter, ri yekimöl pan ewäl ri retamab'al awokisab'al chuqa' taq b'anoj richin ninuk' jun ruwäch ab'i' chi rij eltzijol.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } nitikïr yeruq'ät taq fingerprinter, ri yekimöl pan ewäl ri retamab'al awokisab'al chuqa' taq b'anoj richin ninuk' jun ruwäch ab'i' chi rij eltzijol.
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Titzet Ronojel
     .accesskey = t
+
 cfr-doorhanger-milestone-close-button = Titz'apïx
     .accesskey = t
 

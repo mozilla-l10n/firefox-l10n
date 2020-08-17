@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Palaqinem Wichin)">
-
 <!ENTITY appmenu.tooltip                     "Tijaq k'utsamaj">
 <!ENTITY navbarOverflow.label                "Ch'aqa' chik Samajib'äl…">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Rujikib'axik ruwi' kajtz'ïk">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "R">
 <!ENTITY  unpinTab.label                     "Ruyujïk ruwi' kajtz'ik">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "t">
-<!ENTITY  sendPageToDevice.label             "Titaq ruxaq pa Okisaxel">
-<!ENTITY  sendPageToDevice.accesskey         "O">
-<!ENTITY  sendLinkToDevice.label             "Titaq Ximojri'ïl pa Okisaxel">
-<!ENTITY  sendLinkToDevice.accesskey         "O">
-<!ENTITY  undoCloseTab.label                 "Titzolïx Titz'apïx Ruwi'">
-<!ENTITY  undoCloseTab.accesskey             "T">
-<!ENTITY  hiddenTabs.label                   "Ewan taq Ruwi'">
 
 <!ENTITY  listAllTabs.label      "Kecholajïx ronojel taq ruwi'">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Kekanöx taq Ruwi'">
 
 <!ENTITY tabCmd.label "K'ak'a' Ruwi'">
-<!ENTITY tabCmd.accesskey "r">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Tijaq ri k'ojlemal…">
 <!ENTITY openFileCmd.label "Tijaq Yakb'äl…">
-<!ENTITY openFileCmd.accesskey "T">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tib'an Runuk'ulem Ruxaq…">
-<!ENTITY printSetupCmd.accesskey "n">
-<!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
-<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
-<!ENTITY printCmd.accesskey "T">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Tijik' pa Jun Chik Okik'amaya'l…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "T">
 
 <!ENTITY taskManagerCmd.label "Kinuk'samajel taq Samaj">
 
-<!ENTITY goOfflineCmd.label "Chupül rusamaj">
-<!ENTITY goOfflineCmd.accesskey "m">
-
 <!ENTITY menubarCmd.label "Rucholob'al cha'osamaj">
 <!ENTITY menubarCmd.accesskey "c">
-<!ENTITY navbarCmd.label "Rukajtz'ik okem pa k'amaya'l">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,70 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Yaketal">
 <!ENTITY bookmarksToolbarItem.label "Ruch'akulal taq kiyaketal cholsamajib'äl">
 
-<!ENTITY pageSourceCmd.label "Runuk' rutz'ib' re ruxaq re'">
-<!ENTITY pageSourceCmd.accesskey "n">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Rutzijol rij re jun ruxaq re'">
-<!ENTITY pageInfoCmd.accesskey "R">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Ruchojmirisanel Wachib'enïk">
-<!ENTITY ldbCmd.accesskey "W">
-<!ENTITY mirrorTabCmd.label "Tiyuk'umïx ruwi'">
-<!ENTITY mirrorTabCmd.accesskey "T">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Yatok pa chijun ruwa kematz'ib'">
-<!ENTITY enterFullScreenCmd.accesskey "c">
-<!ENTITY exitFullScreenCmd.label "Tel pa chijun ruwa kematz'ib'">
-<!ENTITY exitFullScreenCmd.accesskey "c">
-
 <!ENTITY fullScreenCmd.label "Chijun ruwa kematz'ib'">
-<!ENTITY fullScreenCmd.accesskey "C">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Kek'ut pe ronojel ri taq ruwi'">
-<!ENTITY showAllTabsCmd.accesskey "t">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Tok pa &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Tajin yejaq ri taq rajowab'al &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Tok chik pam &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Tanik'oj ri ataqoya'l">
-
-
-<!ENTITY fullScreenMinimize.tooltip "Ch'utinarisaxïk">
-<!ENTITY fullScreenRestore.tooltip "Titzolïx">
-<!ENTITY fullScreenClose.tooltip "Titz'apïx">
-<!ENTITY fullScreenAutohide.label "rewaxik ri cholsamajib'äl">
-<!ENTITY fullScreenAutohide.accesskey "r">
-<!ENTITY fullScreenExit.label "Tel pa chijun ruwa kematz'ib'">
-<!ENTITY fullScreenExit.accesskey "c">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Tak'waj ri Firefox Awik'in">
-<!ENTITY fxa.signin.description.label "Ke'ak'waj ri taq yaketal, natab'äl, ewan taq tzij chuqa' ch'aqa' chik taq nuk'ulem pa ronojel taq awokisaxel.">
-<!ENTITY fxa.signin.button.label "Tokisäx pa &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Tanik'oj ri Ataqoya'l">
-<!ENTITY fxa.unverified.description.label "K'o chi nanik'oj ri rub'i' ataqoya'l chuwäch yatikïr yaximon.">
-<!ENTITY fxa.unverified.button.label "Kejaq ri taq Runuk'ulem &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Okisan achi'el">
-<!ENTITY fxa.menu.manageAccount.label "Tinuk'samajïx Rub'i' Taqoya'l…">
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Kinuk'ulem…">
 
 <!ENTITY pictureInPictureHideToggle.label "Tewäx Rupitz'b'al Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "T">
@@ -191,14 +81,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Tel pa chijun ruwa kematz'ib' (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Tel pa chijun ruwa kematz'ib' (esc)">
-<!ENTITY leaveDOMFullScreen.label "Tel pa chijun ruwa kematz'ib'">
-<!ENTITY leaveDOMFullScreen.accesskey "c">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Picture-in-Picture">
-<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -209,82 +91,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.">
 <!ENTITY pointerlockWarning.generic.label "Re ruxaq wuj re' chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.">
 
-<!ENTITY closeWindow.label "Titz'apïx Tzuwäch">
-<!ENTITY closeWindow.accesskey "w">
-
-<!ENTITY bookmarksMenu.label "Taq yaketal">
-<!ENTITY bookmarksMenu.accesskey "y">
-<!ENTITY bookmarkThisPageCmd.label "Titz'aqatisäx re ruxaq re' pa taq yaketal">
-<!ENTITY editThisBookmarkCmd.label "Tinuk' re yaketal re'">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
-
 <!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq yaketal">
 <!ENTITY recentBookmarks.label "K'a nimakol tiya' ketal">
-<!ENTITY otherBookmarksCmd.label "Ch'aqa' chik taq Yaketal">
-<!ENTITY mobileBookmarksCmd.label "Taq ruyaketal oyonib'äl">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq yaketal">
-
-<!ENTITY backCmd.label                "Chi rij">
-<!ENTITY backCmd.accesskey            "C">
-<!ENTITY backButton.tooltip           "Titzolïx jun ruxaq">
-<!ENTITY forwardCmd.label             "Jun chik">
-<!ENTITY forwardCmd.accesskey         "J">
-<!ENTITY forwardButton.tooltip        "Jun chik ruxaq">
-<!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri natab'äl">
-<!ENTITY backForwardButtonMenuMac.tooltip "Taqirirej richin niq'alajin pe ri natab'äl">
-<!ENTITY reloadCmd.label              "Tisamajïx chik">
-<!ENTITY reloadCmd.accesskey          "c">
-<!ENTITY stopCmd.label                "Tiq'at">
-<!ENTITY stopCmd.accesskey            "T">
-<!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY goEndCap.tooltip             "Tib'e pa JAY richin ri rucholob'al taq ochochib'äl">
 
 <!ENTITY printButton.label            "Titz'ajb'äx">
 <!ENTITY printButton.tooltip          "Titz'ajb'äx re ruxaq re'">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Titz'et retamab'al ruxaq k'amaya'l">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Jaqäl rupas tzijol">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Rupas ruk'utuxik rokem k'ojlem">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Tijaq ri rupas ruyonil tzijonem">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Tijaq tz'aqat pa rupas tzijol richin niyak">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Tinuk'samajïx ya'öl q'ij richin kik'otik ruchi'">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Tijaq rupas tzijol eyakon toq manäq k'amab'ey">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Tijaq ewan tzij yakon pa rupas tzijol">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tinuk'samajïx rokisaxik nak'ab'äl">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Keyak taq tzij pa Jutaqil Yakoj">
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Tijaq ri Ajk'amaya'l Juxunem pas">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Tijaq ri kipas kiya'oj q'ij taq rusamaj okem pa k'amaya'l">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tinuk'samajïx ri rukomonik elesäy awachib'äl chuqa' ri q'axäy atzij rik'in ri ruxaq k'amaya'l">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tinuk'samajïx ri rukomonik q'axäy atzij rik'in ri ruxaq k'amaya'l">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tinuk'samajib'ëx ri kikomonik taq rutzub'al chuqa' ruwäch ruxaq k'amaya'l">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Tijaq yakoj pa rupas tzijol">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Titzalq'omïx re ruxaq re'">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tinuk'samajïx rokisaxik DRM kema'">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Tijaq MIDI pas">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Xq'at ri elesäy ruwachib'al re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Xq'at ri q'asäy ach'ab'äl pa re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Xq'at re ruxaq k'amaya'l re' pa komonïk ruwäch.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Xq'at ri ruk'ojlem etamab'äl pa re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Xeq'at ri taq rutzijol pa re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Xaq'ät ri jutaqil ruyakoj re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Xq'at ri elesäy pop-ups richin re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Xaq'ät ri ruyonil rutzijonem taq tob'äl k'o kik'oxom pa re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Xe'aq'ät ri kelesaxik kitzij taq peraj pa re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Xq'at chi re ruxaq k'amaya'l re' xrokisaj ri runak'ab'al Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.installBlocked.tooltip           " Xaq'ät kiyakik taq rutz'aqat ajk'amaya'l ruxaq re'.
-">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
 <!ENTITY searchItem.title             "Tikanöx">
 
@@ -293,7 +105,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Rutikirib'al Ruxaq">
 
 <!ENTITY bookmarksButton.label          "Taq yaketal">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Taq yaketal">
 <!ENTITY bookmarksMenuButton2.label         "Kik'utsamaj taq Yaketal">
@@ -308,107 +119,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Titz'aqatisäx Kik'utsamaj taq Yaketal pa Molsamajib'äl">
 <!ENTITY removeBookmarksMenu.label          "Tiyuj el Kik'utsamaj taq Yaketal pa Molsamajib'äl">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Natab'äl">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Samajib'äl">
-<!ENTITY toolsMenu.accesskey          "i">
-
-<!ENTITY keywordfield.label           "Titz'aqatisäx jun ewan tzij richin re Rukanoxik re'…">
-<!ENTITY keywordfield.accesskey       "e">
 
 <!ENTITY downloads.label              "Taq qasanïk">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Taq qasanïk">
-<!ENTITY downloads.accesskey          "q">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Taq tz'aqat">
-<!ENTITY addons.accesskey             "t">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Nuk'unel ajk'amaya'l">
-<!ENTITY webDeveloperMenu.accesskey   "a">
-
-<!ENTITY inspectContextMenu.label     "Rutz'etik atuxtäq">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY inspectA11YContextMenu.label     "Kenik'öx ri taq Richinil Okel">
-
-<!ENTITY fileMenu.label         "Yakb'äl">
-<!ENTITY fileMenu.accesskey       "Y">
-<!ENTITY newUserContext.label             "K'ak'a' k'ojlib'äl ruwi'">
-<!ENTITY newUserContext.accesskey         "w">
-<!ENTITY manageUserContext.label          "Kenuk'samajïx K'wayöl">
-<!ENTITY manageUserContext.accesskey      "w">
 
 <!ENTITY newNavigatorCmd.label        "K'ak'a' tzuwäch">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "K">
 <!ENTITY newPrivateWindow.label     "K'ak'a' ichinan tzuwäch">
-<!ENTITY newPrivateWindow.accesskey "t">
 
 <!ENTITY editMenu.label         "Nuk'b'äl">
-<!ENTITY editMenu.accesskey       "N">
-<!ENTITY undoCmd.label            "Titzolïx">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "t">
-<!ENTITY redoCmd.label            "Tikamulüx">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "m">
-<!ENTITY cutCmd.label           "Tiqupïx">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "q">
-<!ENTITY copyCmd.label            "Tiwachib'ëx">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "c">
-<!ENTITY pasteCmd.label           "Titz'ajb'äx">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "T">
-<!ENTITY deleteCmd.label          "Tiyuj">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "T">
-<!ENTITY selectAllCmd.label         "Ticha' Ronojel">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "r">
 <!ENTITY preferencesCmd2.label       "Taq cha'oj">
-<!ENTITY preferencesCmd2.accesskey     "c">
 <!ENTITY preferencesCmdUnix.label       "Taq ajowab'äl">
-<!ENTITY preferencesCmdUnix.accesskey     "o">
 <!ENTITY logins.label                           "Kitikirisaxik Molojri'ïl chuqa' Ewan taq Tzij">
-
-<!ENTITY clearRecentHistory.label               "Tiyuj K'ak'a' Natab'äl…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "p">
-
-<!ENTITY viewMenu.label         "Tz'etob'äl">
-<!ENTITY viewMenu.accesskey       "T">
-<!ENTITY viewToolbarsMenu.label       "Taq cholsamajib'äl">
-<!ENTITY viewToolbarsMenu.accesskey     "i">
-<!ENTITY viewSidebarMenu.label "Chuchi' Cholab'äl">
-<!ENTITY viewSidebarMenu.accesskey "C">
-<!ENTITY viewCustomizeToolbar.label       "Tichinäx…">
-<!ENTITY viewCustomizeToolbar.accesskey     "T">
 
 <!ENTITY overflowCustomizeToolbar.label       "Tichinäx ri kikajtz'ik taq samajib'äl…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Natab'äl">
-<!ENTITY historyMenu.accesskey "t">
 <!ENTITY historyUndoMenu.label "Taq Ruwi' k'a b'a' Ketz'apïx">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Taq k'ajtz'ib' k'a b'a' etz'apin">
-<!ENTITY historyRestoreLastSession.label "Titzolin ri Jun Kan Molojri'ïl">
-
-<!ENTITY showAllHistoryCmd2.label "Tik'ut pe ronojel ri natab'äl">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tik'ut pe ronojel ri natab'äl">
 <!ENTITY appMenuHistory.clearRecent.label "Tiyuj K'ak'a' Natab'äl…">
@@ -438,10 +173,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Kejaq Kajowab'äl Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Titz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY appMenuRemoteTabs.unverified.label "K'atzinel nijikib'äx ri rub'i' ataqoya'l.">
-<!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Ximojri'ïl">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Tatz'ib'aj ab'i' pa &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Tokisäx pa &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kenuk'samajïx Okisab'äl…">
@@ -459,78 +192,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Titz'aqatisäx pa xik'oj K'utsamaj">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "K">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Tiya' pa Ruxik'oj K'utsamaj">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "T">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Telesäx retal pa Ruxik'oj K'utsamaj">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "T">
 <!ENTITY customizeMenu.removeFromToolbar.label "Telesäx el pa molsamajib'äl">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.addMoreItems.label "Titz'aqatisäx apo ch'aqa' chik Samajib'äl…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "T">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "Ruyon-Tewüx pa Molsamajib'äl">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "R">
-<!ENTITY customizeMenu.manageExtension.label "Tinuk'samajïx K'amal">
-<!ENTITY customizeMenu.manageExtension.accesskey "K">
-<!ENTITY customizeMenu.removeExtension.label "Tiyuj K'amal">
-<!ENTITY customizeMenu.removeExtension.accesskey "y">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Tiya' Rutzijol K'amal">
-<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Ch'aqa' chik">
-
-<!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Tikanöx o titz'ib'äx ochochib'äl">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "K'amal:">
-<!ENTITY urlbar.switchToTab.label     "Rujalik ri ruwi':">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Pixa':">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "¡Tak'ulu' ato'ik richin ye'akanoj taq wachinäq! Takanoj ri &#x1F50E; rik'in kichilab'exik taq konob'äl.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Kek'ex taq Cha'oj…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "K">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Kek'ex Taq Ajowab'äl…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "K">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Tikanöx k'ulb'enïk">
 
 <!ENTITY contentSearchSubmit.tooltip  "Titaq el ri xkanöx">
 
@@ -539,202 +211,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Tikanöx">
 <!ENTITY searchIcon.tooltip           "Tikanöx">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Tikanöx ">
-<!ENTITY searchWith.label             " rik'in:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Tikanöx ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Tikanöx pa:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Kek'ëx ri taq rajowaxïk ri kanoxïk">
-<!ENTITY changeSearchSettings.tooltip "Tijal kinuk'ulem kanob'äl">
-
-<!ENTITY searchInNewTab.label         "Tikanöx pa k'ak'a' ruwi'">
-<!ENTITY searchInNewTab.accesskey     "r">
-<!ENTITY searchSetAsDefault.label     "Tiya' achi'el ruk'amon wi pe chi kanob'äl">
-<!ENTITY searchSetAsDefault.accesskey "r">
-
-<!ENTITY openLinkCmdInTab.label       "Tijaq Ximonel pa K'ak'a' Ruwi'">
-
 <!ENTITY openLinkCmdInTab.accesskey   "r">
-<!ENTITY openLinkCmd.label            "Tijaq ximonel tzij pa jun k'ak'a' Tzuwäch">
-<!ENTITY openLinkCmd.accesskey        "T">
-<!ENTITY openLinkInPrivateWindowCmd.label "Tijaq ximon tzij pa jun k'ak'a' ichinan kajtz'ïk">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "i">
-<!ENTITY openLinkCmdInCurrent.label     "Tijaq ximon tzij">
-<!ENTITY openLinkCmdInCurrent.accesskey "T">
-<!ENTITY openFrameCmdInTab.label      "Tijaq ruchi' pa jun k'ak'a' ruwi'">
-<!ENTITY openFrameCmdInTab.accesskey  "w">
-<!ENTITY openFrameCmd.label           "Tijaq ri ruchi' pa jun k'ak'a' tzuwäch">
-<!ENTITY openFrameCmd.accesskey       "t">
-<!ENTITY openLinkCmdInContainerTab.label "Tijaq ximonel pa k'ak'a' ajk'wayöl ruwi'">
-<!ENTITY openLinkCmdInContainerTab.accesskey "w">
-<!ENTITY showOnlyThisFrameCmd.label     "Tik'ut pe xa xe re ruchi' re'">
-<!ENTITY showOnlyThisFrameCmd.accesskey "T">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Rukamulokem ruchi'">
-<!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Rutz'etik runuk tz'ib' cha'on">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Rutz'etik runuk tz'ib' re ruxaq re'">
-<!ENTITY viewPageSourceCmd.accesskey  "R">
-<!ENTITY viewFrameSourceCmd.label     "Rutz'etik runuk' tz'ib' ri ruchi'">
-<!ENTITY viewFrameSourceCmd.accesskey "R">
-<!ENTITY viewPageInfoCmd.label        "Rutz'etik na'oj chi rij re ruxaq re'">
-<!ENTITY viewPageInfoCmd.accesskey    "n">
-<!ENTITY viewFrameInfoCmd.label       "Rutz'etik na'oj chi rij re ruchi'">
-<!ENTITY viewFrameInfoCmd.accesskey   "n">
-<!ENTITY reloadImageCmd.label         "Rukamulokem wachib'äl">
-<!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Titz'et Wachib'äl">
-<!ENTITY viewImageCmd.accesskey       "W">
-<!ENTITY viewImageInfoCmd.label       "Titz'et na'oj chi rij ri wachib'äl">
-<!ENTITY viewImageInfoCmd.accesskey   "o">
-<!ENTITY viewImageDescCmd.label       "Titz'et ri Rutzijoxkil">
-<!ENTITY viewImageDescCmd.accesskey   "R">
-<!ENTITY viewVideoCmd.label           "Titz'et silowachib'äl">
-<!ENTITY viewVideoCmd.accesskey       "t">
-<!ENTITY viewBGImageCmd.label         "Titz'et wachib'äl chupam">
-<!ENTITY viewBGImageCmd.accesskey     "c">
-<!ENTITY setDesktopBackgroundCmd.label      "Ticha' achi'el richin rupam ch'atal…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "T">
-<!ENTITY bookmarkPageCmd2.label       "Titz'aqatisäx Re Ruxaq Re' Pa Taq Yaketal">
-<!ENTITY bookmarkPageCmd2.accesskey   "e">
-<!ENTITY bookmarkThisLinkCmd.label      "Titzaqatisäx re jun ximonel re' pa taq yaketal">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "x">
-<!ENTITY bookmarkThisFrameCmd.label      "Titz'aqatisäx re ruchi' kajtz'ik re' pa taq etal">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "e">
 
 <!ENTITY pageAction.copyLink.label    "Tiwachib'ëx Ximonel">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Tiyak pa Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Tiyak Ruxaq pa Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Tiyak Ximonel pa Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Titz'et Rucholb'al Pocket">
 
 <!ENTITY emailPageCmd.label           "Titaq ximonel tzij…">
-<!ENTITY emailPageCmd.accesskey       "T">
-<!ENTITY savePageCmd.label            "Tiyak Ruxaq Achi'el…">
-<!ENTITY savePageCmd.accesskey        "a">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "p">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Ruyakik Ruchi' Achi'el…">
-<!ENTITY saveFrameCmd.accesskey       "R">
-<!ENTITY printFrameCmd.label          "Titz'ajb'äx ruchi'…">
-<!ENTITY printFrameCmd.accesskey      "T">
-<!ENTITY saveLinkCmd.label            "Tiyak Ximonel Achi'el…">
-<!ENTITY saveLinkCmd.accesskey        "o">
-<!ENTITY saveImageCmd.label           "Tiyak Wachib'äl Achi'el…">
-<!ENTITY saveImageCmd.accesskey       "y">
-<!ENTITY saveVideoCmd.label           "Tiyak silowachib'äl achi'el…">
-<!ENTITY saveVideoCmd.accesskey       "s">
-<!ENTITY saveAudioCmd.label           "Ruyakik q'ojom achi'el…">
-<!ENTITY saveAudioCmd.accesskey       "R">
-<!ENTITY emailImageCmd.label          "Titaq Wachib'äl…">
-<!ENTITY emailImageCmd.accesskey      "i">
-<!ENTITY emailVideoCmd.label          "Rutaqik Silowachib'äl…">
-<!ENTITY emailVideoCmd.accesskey      "i">
-<!ENTITY emailAudioCmd.label          "Titaq k'oxomal…">
-<!ENTITY emailAudioCmd.accesskey      "t">
-<!ENTITY playPluginCmd.label          "Titzij re nak'ab'äl re'">
-<!ENTITY playPluginCmd.accesskey      "t">
-<!ENTITY hidePluginCmd.label          "Tewäx re nak'ab'äl re'">
-<!ENTITY hidePluginCmd.accesskey      "e">
-<!ENTITY copyLinkCmd.label            "Tiwachib'ëx Ruk'ojlib'al Ximonel">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "i">
-<!ENTITY copyImageCmd.label           "Tiwachib'ëx Rub'ey Wachib'äl">
-<!ENTITY copyImageCmd.accesskey       "i">
-<!ENTITY copyImageContentsCmd.label   "Tiwachib'ëx Wachib'äl">
-<!ENTITY copyImageContentsCmd.accesskey  "w">
-<!ENTITY copyVideoURLCmd.label        "Ruwachib'exik rub'ey silowachib'äl">
-<!ENTITY copyVideoURLCmd.accesskey    "w">
-<!ENTITY copyAudioURLCmd.label        "Ruwachib'exik rub'ey q'ojom">
-<!ENTITY copyAudioURLCmd.accesskey    "w">
-<!ENTITY copyEmailCmd.label           "Tiwachib'ëx rochochib'al taqoya'l">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "t">
-<!ENTITY thisFrameMenu.label              "Re ruchi' re'">
-<!ENTITY thisFrameMenu.accesskey          "c">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Titzij">
-<!ENTITY mediaPlay.accesskey         "T">
-<!ENTITY mediaPause.label            "Rupab'axik">
-<!ENTITY mediaPause.accesskey        "R">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Timemür">
-<!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Tak'axäx">
-<!ENTITY mediaUnmute.accesskey       "a">
-<!ENTITY mediaPlaybackRate2.label     "Chanin Rutzijik">
-<!ENTITY mediaPlaybackRate2.accesskey "t">
-<!ENTITY mediaPlaybackRate050x2.label "Eqal (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "E">
-<!ENTITY mediaPlaybackRate100x2.label "Relik">
-<!ENTITY mediaPlaybackRate100x2.accesskey "R">
-<!ENTITY mediaPlaybackRate125x2.label "Aninäq (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "A">
-<!ENTITY mediaPlaybackRate150x2.label "Yalan aninäq (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "n">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Ya'öl tze'n (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "Y">
-<!ENTITY mediaLoop.label             "Tzolinel">
-<!ENTITY mediaLoop.accesskey         "T">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Kek'ut pe chajinela'">
-<!ENTITY mediaShowControls.accesskey "c">
-<!ENTITY mediaHideControls.label     "Ke'ewäx taq K'wayöl">
-<!ENTITY mediaHideControls.accesskey "e">
-<!ENTITY videoFullScreen.label       "Chijun ruwa kematz'ib'">
-<!ENTITY videoFullScreen.accesskey   "C">
-<!ENTITY videoSaveImage.label        "Ruyakik ruwachib'al rutzub'al achi'el…">
-<!ENTITY videoSaveImage.accesskey    "R">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Tik'ut pe rucholajem kajilab'al">
-<!ENTITY videoShowStats.accesskey    "k">
-<!ENTITY videoHideStats.label        "Rewaxik molajilab'äl">
-<!ENTITY videoHideStats.accesskey    "a">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -742,53 +230,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Tinimirisäx">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "n">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Ch'utinarisaxïk">
-<!ENTITY fullZoomReduceCmd.accesskey    "C">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Titzolïx">
-<!ENTITY fullZoomResetCmd.accesskey     "T">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Tinimirisäx xa xe ri tz'ib'">
-<!ENTITY fullZoomToggleCmd.accesskey    "t">
-
 <!ENTITY fullZoom.label                 "Runimilem">
-<!ENTITY fullZoom.accesskey             "R">
 
 <!ENTITY sidebarCloseButton.tooltip     "Titz'apïx ajxikin">
-<!ENTITY sidebarMenuClose.label         "Titz'apïx Ajxikin">
 
 <!ENTITY quitApplicationCmdWin2.label       "Tel">
 <!ENTITY quitApplicationCmdWin2.accesskey   "e">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Tel el pa &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Tel">
 <!ENTITY quitApplicationCmd.accesskey   "T">
 <!ENTITY quitApplicationCmdMac2.label   "Tel pa &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Titz'apïx">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "T">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Rutzub'al ruxaq">
-<!ENTITY pageStyleMenu.accesskey "R">
-<!ENTITY pageStyleNoStyle.label "Manäq rutzub'al">
-<!ENTITY pageStyleNoStyle.accesskey "M">
-<!ENTITY pageStylePersistentOnly.label "Rutzub'al ruk'u'x ruxaq">
-<!ENTITY pageStylePersistentOnly.accesskey "R">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -799,168 +250,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "K">
 <!ENTITY dontShowMessage.accesskey "N">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Rujalik rub'eyal re ruxaq re'">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "r">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Tijal Rub'eyal ri Tz'ib'">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Tikanöx pa Re Ruxaq Re'…">
-<!ENTITY findOnCmd.accesskey "R">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Tikanöx Chik">
-<!ENTITY findAgainCmd.accesskey "k">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Ketz'aqatisäx taq Soltzij…">
 <!ENTITY spellAddDictionaries.accesskey "K">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Xk'is">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Tik'ut k'exob'äl toq niyak">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "k">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Ruchajixik Ruxaq K'amaya'l">
-
-<!ENTITY identity.connection "Okem">
-<!ENTITY identity.connectionSecure "Ütz Okem">
-<!ENTITY identity.connectionNotSecure "Itzel chi Okem">
-<!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
-<!ENTITY identity.connectionVerified2 "Ütz ri awokem pa re ruxaq k'amaya'l re', samajib'en ruma:">
-<!ENTITY identity.connectionInternal "Re re' ütz chi &brandShortName; ruxaq.">
-<!ENTITY identity.extensionPage "Re jun ruxaq k'amaya'l re' nisamajib'ëx pa jun k'amal.">
-<!ENTITY identity.insecureLoginForms2 "Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.">
-<!ENTITY identity.customRoot "Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Mozilla.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
-<!ENTITY identity.passiveLoaded "K'o man ütz ta taq ruch'akulal re ruxaq re' (achi'el ri taq wachib'äl).">
-<!ENTITY identity.activeLoaded "Xachüp ruchajixik re ruxaq re'.">
-<!ENTITY identity.weakEncryption "Re ruxaq re' nrokisaj yamayïk chi suq'ch'ab'äl.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Man ichinan ta ri owokem pa re ruxaq k'amaya'l re'. Ronojel ri etamab'äl xke'atäq el, ch'aqa' chik tikirel xkekitz'ët (achi'el ewan taq tzij, taq rutzijol, ch'utit'im pwäq, ch'aqa' chik).">
-<!ENTITY identity.description.insecureLoginForms "Ri retamab'al rutikirisanïk molojri'ïl xtatz'ib'aj pa re ruxaq k'amaya'l re' man chajin ta, ruma ri' rik'in jub'a' nitziläx.">
-<!ENTITY identity.description.weakCipher "Ri awokem pa re ruxaq k'amaya'l re' nrokisaj lawalïk skript ruma ri man ichinan ta.">
-<!ENTITY identity.description.weakCipher2 "Chaq'a' chik chi winaqi' yetikïr nikitz'ët ri awetamab'al o nikijalwachij ri rub'eyal nisamäj re ruxaq k'amaya'l re'.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
-<!ENTITY identity.description.passiveLoaded "Man awichinan ta ri awokem pa k'amaya'l ruma ri' ronojel ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re' tikirel nikitz'ët juley chik winaqi'.">
-<!ENTITY identity.description.passiveLoaded2 "Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq wachib'äl).">
-<!ENTITY identity.description.passiveLoaded3 "Stape' &brandShortName; xuq'ät jub'a' na'oj, junelïk k'o na'oj pa ri ruxaq ri man ütz ta (achi'el ri taq wachib'äl).">
-<!ENTITY identity.description.activeLoaded "Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq skript) man awichinan ta ri awokem we yatok chupam.">
-<!ENTITY identity.description.activeLoaded2 "Ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re', tikirel nikitz'ët juley chik winaqi' (achi'el ewan taq tzij, taq rutzijol, t'im pwäq, ch'aqa' chik).">
-<!ENTITY identity.description.customRoot "Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel.">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Titzij ri chajinïk">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "T">
-<!ENTITY identity.disableMixedContentBlocking.label "Wakami yan tz'apäl ri chajinïk">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "t">
-<!ENTITY identity.learnMore "Tetamäx Ch'aqa' Chik">
-
-<!ENTITY identity.removeCertException.label "Tiyuj Man Relik Ta">
-<!ENTITY identity.removeCertException.accesskey "T">
-
-<!ENTITY identity.moreInfoLinkText2 "Ch'aqa' chik rutzijol">
-
-<!ENTITY identity.clearSiteData "Keyuj ri Kaxlanwäy chuqa' Kitzij Ruxaq K'amaya'l…">
-
-<!ENTITY identity.permissions "Taq ya'oj q'ij">
-<!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
-<!ENTITY identity.permissionsReloadHint "Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.">
-<!ENTITY identity.permissionsPreferences.tooltip "Kejaq Taq Rajowaxik Ya'oj Q'ij">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Kejaq taq Rajowab'al Ruq'atik Rupam">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Ruwi' kanonel">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Ximon taq ruwi'">
-
-<!ENTITY syncedTabs.sidebar.label              "Ximon taq ruwi'">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Titikirisäx molojri'ïl pa &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "I">
-<!ENTITY syncSyncNowItem.label        "Tixim Wakami">
-<!ENTITY syncSyncNowItemSyncing.label "Nixim…">
-<!ENTITY syncSyncNowItem.accesskey    "T">
-<!ENTITY syncReAuthItem.label         "Tawokisaj chik pa &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "T">
-<!ENTITY syncToolbarButton.label      "Sync">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ruyonil trewaj qa ri'">
-
-<!ENTITY getUserMedia.selectCamera.label "Rutaluxik elesäy wachib'äl">
-<!ENTITY getUserMedia.selectCamera.accesskey "e">
-<!ENTITY getUserMedia.selectMicrophone.label "Q'asäy ch'ab'äl richin rutaluxik:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "Q">
-<!ENTITY getUserMedia.audioCapture.label "Xtikomonïx ri q'ojom k'o pa ruwi'.">
-<!ENTITY getUserMedia.allWindowsShared.message "Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.">
-
-<!ENTITY contentBlocking.title "Ruq'atik Rupam">
-<!ENTITY contentBlocking.detected "Q'atel rupam xilitäj pa re ruxaq k'amaya'l re'.">
-<!ENTITY contentBlocking.notDetected "Man q'atel ta rupam xilitäj pa re ruxaq re'.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "Ojqanela'">
-
-<!ENTITY contentBlocking.manageSettings.label "Tinuk'samajïx Ruq'atik Rupam">
-<!ENTITY contentBlocking.manageSettings.accesskey "T">
-
-<!ENTITY contentBlocking.trackersView.label "Ojqanela'">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Richin yeq'at ri ojqanela', tib'an runuk'ulem ruq'atik rupam pa  “Nimaläj”.">
-
-<!ENTITY contentBlocking.cookies.label "Taq kuki">
-<!ENTITY contentBlocking.cookiesView.label "Taq Kuki chuqa' Rutzij Ruxaq">
-
-<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
-<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
-
-<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Tiya' rutzijol jun k'ayewal">
-<!ENTITY contentBlocking.breakageReportView.label "Tiya' Kitzijol K'ayewal">
-<!ENTITY contentBlocking.breakageReportView2.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. (Re re' xtutäq ri URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri okik'amaya'l chi re ri Mozilla.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Tetamäx Ch'aqa' Chik">
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Achike k'ayewal xawïl? (Cha'el)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Titaq Rutzijol">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Tiq'at">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Tichup ri q'atoj pa re ruxaq re'">
-<!ENTITY trackingProtection.unblock5.accesskey "T">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Tichup ri jumej q'atoj">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
-<!ENTITY trackingProtection.block6.label "Titzij ri q'atoj pa re ruxaq re'">
-<!ENTITY trackingProtection.block6.accesskey "T">
-<!ENTITY trackingProtection.reload2.label "Tok chik pa ri Ruxaq">
-<!ENTITY trackingProtection.reload2.accesskey "R">
-
-<!ENTITY pluginNotification.showAll.label "Tik'ut Ronojel">
-<!ENTITY pluginNotification.showAll.accesskey "T">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Titz'apïx">
@@ -969,37 +271,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "¡Tachajij awi' richin yatok pa k'amaya'l!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Matyox!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Tetamäx ch'aqa' chik chi rij ri DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "Tiqasäx &brandShorterName; k'exoj">
 <!ENTITY updateManual.panelUI.label "Taqasaj jun k'ak'a' ruwachib'al &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Man tikirel ta chik yeb'an ch'aqa' chik k'exoj">
 <!ENTITY updateRestart.panelUI.label2 "Titikirisäx chik richin nik'ex &brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "Xjal ri K'ak'a' Ruwi'.">
-<!ENTITY newTabControlled.keepButton.label "Kek'oje' na ri taq Jaloj">
-<!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "Tichup ri K'amal">
-<!ENTITY newTabControlled.disableButton.accesskey "T">
-
-<!ENTITY homepageControlled.message "Jun k'amal xujäl ri ruxaq natz'ët achi'el tikirib'äl ruxaq. Yatikïr natzolij ri taq anuk'ulem we man niqa ta chawäch re jaloj re'.">
-<!ENTITY homepageControlled.header.message "Xajäl ri tikirib'äl ruxaq.">
-<!ENTITY homepageControlled.keepButton.label "Kek'oje' na ri taq Jaloj">
-<!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "Tichup ri K'amal">
-<!ENTITY homepageControlled.disableButton.accesskey "T">
-
-<!ENTITY tabHideControlled.header.message "Katok pa ri Ewan taq Ruwi'">
-<!ENTITY tabHideControlled.keepButton.label "Ke’ewäx ri Ewan taq Ruwi’">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "Tichup ri K'amal">
-<!ENTITY tabHideControlled.disableButton.accesskey "T">
-
-<!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
-<!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
-<!ENTITY pageAction.removeFromUrlbar.label "Tiyuj el chupam ri Kikajtz'ik Ochoch">
-<!ENTITY pageAction.manageExtension.label "Tinuk'samajïx K'amal…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Tajin yexim ri taq Okisaxel…">
 

@@ -103,6 +103,7 @@ print-window =
     .title = Tajin nitz'ajb'äx
 print-complete =
     .value = Xtz'aqät ri rutz'ajik.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

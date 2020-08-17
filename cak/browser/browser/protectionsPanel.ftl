@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Xsach toq nitaq ri rutzijol. Tatojtob'ej jub'a' na chik.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = ¿La nuk'un ri ruxaq? Titaq rutzijol
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Pa rub'eyal
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Ch'aqa' chik etamab'äl chi rij ri Utzirisan Ruchajinik Ojqanem
+
 protections-panel-etp-on-header = Ri utzirisan Ruchajixik Ojqanem TZIJON richin re ruxaq re' wakami
 protections-panel-etp-off-header = Ri utzirisan Ruchajixik Ojqanem CHUPÜL richin re ruxaq re' wakami
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ¿La man nisamäj ta ri ruxaq?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = ¿La man nisamäj ta ri ruxaq?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Xesamajïx konojel ri ojqan
 ##
 
 protections-panel-no-trackers-found = Majun ojqanela' etaman richin { -brand-short-name } xe'ilitäj pa re ruxaq re'.
+
 protections-panel-content-blocking-tracking-protection = Rojqanem Rupam
+
 protections-panel-content-blocking-socialblock = Kojqanela' aj Winäq K'amab'ey
 protections-panel-content-blocking-cryptominers-label = Cryptominers
 protections-panel-content-blocking-fingerprinters-label = Fingerprinters
@@ -65,12 +71,14 @@ protections-panel-protectionsdashboard-label = Rupas taq Chajinïk
 
 # The header of the list
 protections-panel-site-not-working-view-header = Ke'achupu' ri taq chajinem we k'o ak'ayewal rik'in:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Kik'ojlib'al tikirisanem
 protections-panel-site-not-working-view-issue-list-forms = Taq Nojwuj
 protections-panel-site-not-working-view-issue-list-payments = Taq Tojïk
 protections-panel-site-not-working-view-issue-list-comments = Taq tzijol
 protections-panel-site-not-working-view-issue-list-videos = Taq Silowäch
+
 protections-panel-site-not-working-view-send-report = Titaq jun rutzijol
 
 ##
@@ -80,9 +88,11 @@ protections-panel-cryptominers = Ri ajkriptom nikokisaj ruchuqa' ruq'inoj akemat
 protections-panel-fingerprinters = Ri b'anöy ruwi' q'ab'aj nikimöl runuk'ulem awokik'amaya'l chuqa' akematz'ib' richin nikitz'ük jun ruwäch ab'i'. Toq nikokisaj re retal ruwi' q'ab'aj, yetikïr yatkojqaj rik'in jalajoj taq ajk'amaya'l ruxaq.
 protections-panel-tracking-content = Ri ajk'amaya'l ruxaq yetikïr yekijotob'a' taq eltzijol, taq silowäch chuqa' ch'aqa' chik taq rupam rik'in rub'itz'ib' ojqanem. Toq yeq'at kojqanem rupam, nito'on chi anin yesamäj ri taq ruxaq, xa xe chi jujun taq pitz'ib'äl, taq nojwuj chuqa' taq k'ojlib'äl rik'in jub'a' man ütz ta yesamäj.
 protections-panel-social-media-trackers = Ri aj winäq taq k'amab'ey yekiya' taq ojqanela' pa ch'aqa' chik taq ajk'amaya'l ruxaq richin nikojqaj ri nasamajij, natz'ët chuqa' natzu' pan k'amab'ey. Ri nuya' q'ij chi ke ri ajk'ayij taq moloj richin aj winäq k'amab'ey, niketamaj chawij, man xa xe ta ri nakomonij pa ri ruwäch ab'i' richin aj winäq k'amab'ey.
+
 protections-panel-content-blocking-manage-settings =
     .label = Tinuk'samajïx Runuk'ulem Chajinïk
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Tiya' Rutzijol jun Ruxaq Man Nisamäj ta
 protections-panel-content-blocking-breakage-report-view-description = Toq yeq'at jujun taq ojqanela' nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri { -brand-short-name } ütz nub'än chi qawäch qonojel. Toq natäq re rutzijol, xtitaq pa jun URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri awokik'amaya'l chi re ri Mozilla. <label data-l10n-name="learn-more">Tetamäx ch'aqa' chik</label>

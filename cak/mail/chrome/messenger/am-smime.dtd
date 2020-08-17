@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Jikomal">
-<!ENTITY securityTab.label "Jikomal">
-<!ENTITY securityHeading.label "Richin yetaq chuqa' yek'ul taq rutzijol ri ejuch'un kib'i' chuqa' ewan rusik'isik, k'o chi nijikib'äx jun riqitzijib'al kematz'ib'il juch'un b'i'aj chuqa' jun riqitzijib'al ewan rusik'ixik.">
-<!ENTITY encryptionGroupTitle.label "Ewan rusik'ixik">
-<!ENTITY encryptionChoiceLabel.label "Ewan rusik'ixik cha'on toq yetaq taq rutzijol:">
-<!ENTITY neverEncrypt.label "Majub'ey (man tokisäx ewan sik'inïk)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Najowäx (man tikirel ta nitaq ri rutzijo man ke ta ri' we konojel ri k'ulunela' k'o kiqitzijib'al)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Tokisäx re iqitzijib'äl re' richin newäx kisik'ixik &amp; netamäx kisik'ixik ri taq rutzijol yetaq pe chi re:">
-
 <!ENTITY e2eLearnMore.label "Tetamäx ch'aqa' chik">
 
 
@@ -26,15 +15,7 @@
 <!ENTITY encryption.certificate_clear.button "Tijosq'ïx">
 <!ENTITY encryption.certificate_clear.accesskey "o">
 <!ENTITY signingGroupTitle.label "Kematz'ib'il Juch'un B'i'aj">
-<!ENTITY signMessage.label "Kejuch' kib'i' chi kematz'ib'il (k'o wi)">
 <!ENTITY signMessage.accesskey "K">
-<!ENTITY signingCert.message "Tokisäx re iqitzijib'äl re' richin yejuch' kib'i' rik'in kematz'ib'il ri taq rutzijol xke'atäq:">
-
-<!ENTITY certificates.label "Taq ruwujil b'i'aj">
-<!ENTITY manageCerts2.label "Kenuk'samajïx taq Iqitzijib'äl">
-<!ENTITY manageCerts2.accesskey "K">
-<!ENTITY manageDevices.label "Taq Rokisab'al Jikomal">
-<!ENTITY manageDevices.accesskey "m">
 
 
 

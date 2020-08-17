@@ -13,13 +13,13 @@ touchbar-fullscreen-exit = Tel pa Chijun Ruwa
 find = Tikanöx
 new-tab = K'ak'a' ruwi'
 add-bookmark = Ketz'aqatisäx taq retal
-open-bookmarks-sidebar = Tijaq ri Ajxikin Kipas taq Yaketal
 reader-view = Rutz'etoj Sik'inem
 # Meant to match the string displayed in an empty URL bar.
 open-location = Tikanöx o titz'ib'äx ochochib'äl
 share = Tikomonïx
 close-window = Titz'apïx Tzuwäch
 open-sidebar = Taq ajxikin
+
 # This string describes shortcuts for search.
 search-popover = Kekanöx ruq'a' okem
 # Describes searches limited to a specific scope

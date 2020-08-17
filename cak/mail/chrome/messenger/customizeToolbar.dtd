@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Taq wachib'äl chuchi' Tz'ib'atzij">
 <!ENTITY useSmallIcons.label      "Ke'okisäx Koköj Wachib'äl">
 <!ENTITY restoreDefaultSet.label  "Ketzolïx ri E K'o wi">
-<!ENTITY addNewToolbar.label      "Titz'aqatisäx K'ak'a' Kik'ajtz'ik Samajib'äl">
-<!ENTITY showTitlebar.label       "Tik'ut Rukajtz'ik B'i'aj">
-<!ENTITY extraDragSpace.label     "Titz'aqatisäx Tiqirirëx Kojol">
 <!ENTITY showTitlebar2.label      "Rub'i' molsamaj">
 <!ENTITY extraDragSpace2.label    "Tiqirirëx Kojol">
 <!ENTITY saveChanges.label        "Xk'is">

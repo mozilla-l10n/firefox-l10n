@@ -4,6 +4,7 @@
 
 page-title = Etamab'äl richin yesol taq k'ayewal
 page-subtitle =   Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij { -brand-short-name }, kab'etz'eton pa qa <a data-l10n-name="support-link">ruxaq k'amaya'l richin to'ïk</a>.
+
 crashes-title = Rutzijol taq sachoj
 crashes-id = Nimaläj rub'i' ri rutzijol
 crashes-send-date = Taqon
@@ -104,8 +105,6 @@ graphics-desktop-environment = Ruk'ojlib'al Ajkematz'ib'
 place-database-title = Taq kik'ojlem cholxe'el tzij
 place-database-integrity = Ch'ajch'ojri'ïl
 place-database-verify-integrity = Tinik'öx ch'ajch'ojri'ïl
-js-title = JavaScript
-js-incremental-gc = Rusik'ik k'iyirisan q'ayïs\u0020
 a11y-title = Okel
 a11y-activated = Tzijïl
 a11y-force-disabled = Tichajïx apo ri okel
@@ -125,6 +124,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Taq rutzijol
 safe-mode-title = Titojtob'ëx ütz rub'anikil
 restart-in-safe-mode-label = Titikirisäx chik kik'in ri chupül taq tz'aqat…
+
 clear-startup-cache-title = Titojtob'ëx niyuj ri rujumej ruyakoj tikirib'äl
 clear-startup-cache-label = Tiyuj rujumejyak tikirib'äl…
 startup-cache-dialog-title = Tiyuj rujumejyak tikirib'äl
@@ -135,7 +135,6 @@ restart-button-label = Titikirisäx chik
 
 audio-backend = Q'ojom Backend
 max-audio-channels = Nima'q taq b'ey
-channel-layout = Ruwachib'enik Ajowan B'ey
 sample-rate = Ajowan Q'ijun Tz'etb'äl
 roundtrip-latency = Rulatensya b'enam chuqa' tzolojnem (junaman jech'unïk)
 media-title = K'ïy k'oxom
@@ -188,6 +187,7 @@ report-crash-for-days =
         [one] Kitzijol taq sachoj richin ri ruk'isib'äl { $days } q'ij
        *[other] Kitzijol taq sachoj kichin ri ruk'isib'äl { $days } taq q'ij
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -195,6 +195,7 @@ crashes-time-minutes =
         [one] tik'o { $minutes } ch'utiramaj
        *[other] tik'o { $minutes } taq ch'utiramaj
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -202,6 +203,7 @@ crashes-time-hours =
         [one] tik'o { $hours } ramaj
        *[other] tik'o { $hours } taq ramaj
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -209,6 +211,7 @@ crashes-time-days =
         [one] tik'o { $days } q'ij
        *[other] tik'o { $days } taq q'ij
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -216,6 +219,7 @@ pending-reports =
         [one] Konojel ri taq rutzijol sachoj (tz'aqatisan { $reports } oyob'en sachoj pa ri ramaj jikib'an)
        *[other] Konojel ri taq rutzijol samaj (tz'aqatisan { $reports } oyob'en taq sachoj pa ri ramaj jikib'an)
     }
+
 raw-data-copied = Rukuta'm tzij wachib'en pa molwuj
 text-copied = Rucholajem tzij wachib'en pa molwuj
 
@@ -228,9 +232,11 @@ blocked-mismatched-version = Q'aton ruma ri jaloj ruwäch awajchajinel wachib'ä
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Q'eleb'en rusamaj richin ri ruwäch awajchajinel wachib'alil. Tatojtob'ej nak'ëx ri awajchajinel wachib'alil rik'in ri ruwäch { $driverVersion } o ri jun chik k'ak'a'.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Taq ko'öl retab'al ClearType
+
 compositing = Ch'akulan
 hardware-h264 = Ch'akulakem H264 Relesaxik na'oj
 main-thread-no-omtc = nimaläj b'akoj, majun OMTC
@@ -245,6 +251,7 @@ virtual-monitor-disp = Ruwa Tzuwäch Kemtzijil
 
 found = Xrïl
 missing = Sachon
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tzijoxikil
@@ -268,18 +275,21 @@ webgl2-version = WebGL 2 Ruwa chajinel
 webgl2-driver-extensions = WebGL 2 taq ruk'amal chajinel
 webgl2-extensions = WebGL 2 taq ruk'amal
 blocklisted-bug = Ri q'ëq cholb'äl ruma taq k'ayewal etaman kiwäch
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = sachoj { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Q'ëq cholb'äl: rub'itz'ib' sachoj { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Chojmirisanel
 d3d11video-crash-guard = D3D11 Silowachib'äl ewanel rusik'ixik
-d3d9video-crash-buard = D3D9 Silowachib'äl Ewanel rusik'ixik
 d3d9video-crash-guard = D3D9 Silowachib'äl Ewanel rusik'ixik
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Silowachib'äl Ewanel Rusik'ixik
+
 reset-on-next-restart = K'a xtitzolïx na ri Rutikirisaxik chik
 gpu-process-kill-button = Tik'isb'ëx ri GPU Tajin
 gpu-device-reset = Titzij chik Okisaxel
@@ -289,8 +299,10 @@ content-uses-tiling = Tokisäx Ch'utiwäch (Rupam)
 off-main-thread-paint-enabled = Off Nïm Rub'ey Rachwinäq Tzijon
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Tajiläx
 target-frame-rate = Retal Ruchi' Rub'ey:
+
 min-lib-versions = Ch'uti'n ruwäch oyob'en
 loaded-lib-versions = Ruwäch tajin nokisäx
+
 has-seccomp-bpf = Seccomp-BPF (Ruq'inoj chayunel taq oyonïk)
 has-seccomp-tsync = Ruximojri'ïl wachinel Seccomp
 has-user-namespaces = Ruk'ojlemal kib'i' winäq
@@ -303,15 +315,18 @@ sandbox-proc-type-content = rupam
 sandbox-proc-type-file = rupam yakb'äl
 sandbox-proc-type-media-plugin = q'ojom nak'ab'äl
 sandbox-proc-type-data-decoder = sik'inel tzij
+
 startup-cache-title = Rukache' Tikirib'äl
 startup-cache-disk-cache-path = Rub'ey Rukache' Seteb'äl
 startup-cache-ignore-disk-cache = Tirepüx Rukache' Seteb'äl
 startup-cache-found-disk-cache-on-init = Rukache' Seteb'äl Xilitäj toq Xtikirisäx
 startup-cache-wrote-to-disk-cache = Xtz'ib'äx chi re ri Rukache' Seteb'äl
+
 launcher-process-status-0 = Tzijon
 launcher-process-status-1 = Xchup ruma sachoj
 launcher-process-status-2 = Xb'an chi xchup
 launcher-process-status-unknown = Man etaman ta täq rub'anikil
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -324,6 +339,7 @@ multi-process-status-6 = Xchuputäj ruma xatz'ib'aj rucholajem tzij ri man koch'
 multi-process-status-7 = Xchuputäj kuma ri taq tz'aqat
 multi-process-status-8 = Xb'an chi xchup
 multi-process-status-unknown = Man etaman ta rub'anikil
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = majun
 wheel-enabled = xuya' q'ij xok ri seton

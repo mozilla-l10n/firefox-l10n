@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Titz'ajb'äx Rik'in Manäq Rub'anikil">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Titz'ajb'äx Achi'el">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Titz'ajb'äx Achi'el Peyonïk">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Tikanöx…">
-<!ENTITY findReplaceCmd.label "Tikanöx chuqa' Tijal…">
-<!ENTITY enableInlineSpellChecker.label "Tib'an Ruk'ojlem Rutz'ib'axik Toq Tajin Nitz'ib'äx">
-<!ENTITY enableInlineSpellChecker.accesskey "R">
-<!ENTITY checkSpellingCmd2.label "Tinik'öx Rutz'ib'axik…">
-<!ENTITY checkSpellingCmd2.accesskey "n">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Tich'ap">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Ruch'akulal Rucholajem Tz'ib'">
 <!ENTITY bodyTextCmd.accesskey "o">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Q'axinäq taq Ichinil">
-<!ENTITY advancedPropertiesCmd.accesskey "q">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Ticholajïx">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Chojtz'aqät">
 <!ENTITY alignJustify.accesskey "j">
 <!ENTITY alignJustify.tooltip "Tichojtz'aqatisäx">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Ruwa">
-<!ENTITY layerSendToBack.tooltip "Titaq Chupam">
-<!ENTITY layerBringToFront.tooltip "Tik'am pe chuwa">
 
 <!ENTITY increaseIndent.label "Runimirisaxik Ruchi' Cholaj">
 <!ENTITY increaseIndent.accesskey "N">
@@ -283,19 +262,6 @@
 <!ENTITY tableProperties.accesskey "i">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Rukajtz'ik K'utusamaj">
-<!ENTITY formatToolbar.tooltip "Rumolsamajib'al B'anikil">
-<!ENTITY cutToolbarCmd.tooltip "Tiqupïx">
-<!ENTITY copyToolbarCmd.tooltip "Tiwachib'ëx">
-<!ENTITY pasteToolbarCmd.tooltip "Titz'ajb'äx">
-<!ENTITY printToolbarCmd.label "Titz'ajb'äx">
-<!ENTITY printToolbarCmd.tooltip "Titz'ajb'äx re ruxaq re'">
-<!ENTITY findToolbarCmd.label "Tikanöx">
-<!ENTITY findToolbarCmd.tooltip "Tikanöx rucholajem tzij pa ruxaq">
-<!ENTITY spellToolbarCmd.label "Cholotz'ib'">
-<!ENTITY spellToolbarCmd.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri ruxaq">
-
-<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Wachib'äl">
 <!ENTITY imageToolbarCmd.tooltip "Tich'ik k'ak'a' wachib'äl o tinuk' taq richinil ri wachib'äl cha'on">
 <!ENTITY hruleToolbarCmd.label "H.Line">
@@ -308,8 +274,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Tich'ik k'ak'a' xukuxüb' b'ina'am o tinuk' taq richinil ri xukuxüb' b'ina'am cha'on">
 <!ENTITY TextColorButton.tooltip "Ticha' rub'onil ri rucholajem tzij">
 <!ENTITY BackgroundColorButton.tooltip "Ticha' rub'onil ri rupam">
-<!ENTITY throbber.tooltip2 "Tib'e pa ri &brandShortName; rutikirib'al ruxaq">
-<!ENTITY HighlightColorButton.tooltip "Ticha' niya' retal rub'onil rucholajem tzij">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Tijikib'äx runimilem tz'ib'">
@@ -328,14 +292,6 @@
 <!ENTITY alignCenterButton.tooltip "Tichol ri rucholajem tzij pa nik'aj">
 <!ENTITY alignRightButton.tooltip "Tichol ri rucholajem tzij pan ajkiq'a' ruchi'">
 <!ENTITY alignJustifyButton.tooltip "Tichol ri rucholajem tzij pan ajkiq'a' chuqa' xokon ruchi'">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Ticha'">
-<!ENTITY structSelect.accesskey     "c">
-<!ENTITY structRemoveTag.label      "Tiyuj etal">
-<!ENTITY structRemoveTag.accesskey  "y">
-<!ENTITY structChangeTag.label      "Tijal etal">
-<!ENTITY structChangeTag.accesskey  "j">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Tich'ap">

@@ -5,50 +5,66 @@
 permissions-window =
     .title = Nuk'unel wachb'äl
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Rochochib'al ri ruxaq k'amaya'l
     .accesskey = o
+
 permissions-block =
     .label = Tiq'eleb'ëx
     .accesskey = T
+
 permissions-session =
     .label = Tiya' q'ij pa re molojri'ïl re'
     .accesskey = m
+
 permissions-allow =
     .label = Tiya' q'ij
     .accesskey = T
+
 permissions-site-name =
     .label = Ruxaq Ajk'amaya'l
+
 permissions-status =
     .label = B'anikil:
+
 permissions-remove =
     .label = Tiyuj Ruxaq Ajk'amaya'l
     .accesskey = T
+
 permissions-remove-all =
     .label = Keyuj el Konojel ri taq Ruxaq Ajk'amaya'l
     .accesskey = y
+
 permissions-button-cancel =
     .label = Tiq'at
     .accesskey = T
+
 permissions-button-ok =
     .label = Keyak Jaloj
     .accesskey = K
+
 permissions-autoplay-menu = Kan k'o wi pa ronojel ajk'amaya'l:
+
 permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
+
 permissions-capabilities-autoplay-allow =
     .label = Tiya' q'ij chi ke ri K'oxom chuqa' Silowäch
 permissions-capabilities-autoplay-block =
     .label = Tiq'at K'oxom
 permissions-capabilities-autoplay-blockall =
     .label = Keq'at K'oxom chuqa' Silowäch
+
 permissions-capabilities-allow =
     .label = Tiya' q'ij
 permissions-capabilities-block =
     .label = Tiq'eleb'ëx
 permissions-capabilities-prompt =
     .label = Junelïk tik'utüx pe
+
 permissions-capabilities-listitem-allow =
     .value = Tiya' q'ij
 permissions-capabilities-listitem-block =
@@ -63,10 +79,6 @@ permissions-invalid-uri-label = Tatz'ib'aj ri okel rub'i' ruk'uxasamaj
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Taq man relik ta - Kiq'atik Rupam
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Xachüp ri ruq'atik Rupam pa re ajk'amaya'l ruxaq re'.
 permissions-exceptions-etp-window =
     .title = Taq man relik ta richin ri utzirisan Chajinïk chuwäch Ojqanïk
     .style = { permissions-window.style }
@@ -101,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'amaya'l niya' q'ij richin yeyak ri taq tz'aqat. Tatz'ib'aj chi ütz ri rochochib'al ruxaq k'amaya'l, ri nawajo' naya' q'ij chuqa' tapitz'a' Tiya' q'ij.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Taq Merelik - Titzij Ruyon
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Yatikïr naya' ketal ri ajk'amaya'l taq ruxaq ya'on o man ya'on ta q'ij chi ke richin pa kiyonil yekitzïj taq k'oxom tikirel ta nikokisaj taq kaxlanwäy. Tatz'ib'aj rub'i' ri rochochib'al k'amaya'l nawajo' nanuk'samajij, k'a ri' tapitz'a' pa Tiq'at o Tiya' Q'ij.
 
 ## Site Permissions - Autoplay
 

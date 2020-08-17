@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Taq yaketal
+
 sidebar-menu-history =
     .label = Natab'äl
+
 sidebar-menu-synced-tabs =
     .label = Ximon taq ruwi'
+
 sidebar-menu-close =
     .label = Titz'apïx Ajxikin

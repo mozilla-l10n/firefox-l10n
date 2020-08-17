@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Tinuk'">
 <!ENTITY editMenu.accesskey                             "n">
-<!ENTITY undoCmd.label                                  "Titzolïx">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "t">
-<!ENTITY redoCmd.label                                  "Tikamulüx">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "k">
-<!ENTITY cutCmd.label                                   "Tiqupïx">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "q">
-<!ENTITY copyCmd.label                                  "Tiwachib'ëx">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "w">
-<!ENTITY pasteCmd.label                                 "Titz'ajb'äx">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "z">
 <!ENTITY deleteCmd.label                                "Tiyuj">
-<!ENTITY deleteCmd.accesskey                            "y">
 <!ENTITY deleteAbCmd.label                              "Tiyuj Kiwujil Ochochib'äl">
 <!ENTITY deleteContactCmd.label                         "Tiyuj Rub'i' Achib'il">
 <!ENTITY deleteContactsCmd.label                        "Keyuj Kib'i' Achib'il">
 <!ENTITY deleteListCmd.label                            "Tiyuj Cholb'äl">
 <!ENTITY deleteListsCmd.label                           "Keyuj Cholb'äl">
 <!ENTITY deleteItemsCmd.label                           "Keyuj Ch'akulal">
-<!ENTITY selectAllCmd.label                             "Ticha' Ronojel">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "R">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Kejalwachïx nab'ey/Last B'ia'j">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "qitzij">
 <!ENTITY propertiesMenu.label                           "Taq ichinil">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
