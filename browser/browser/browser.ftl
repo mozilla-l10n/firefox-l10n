@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (גלישה פרטית)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (גלישה פרטית)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (גלישה פרטית)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (גלישה פרטית)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = חסמת גישת MIDI עבור אתר זה.
 urlbar-install-blocked =
     .tooltiptext = חסמת התקנת תוספות עבור אתר זה.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = עריכת סימנייה זו ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = הפעם, לחפש באמצעות:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = שינוי הגדרות החיפוש
 search-one-offs-change-settings-compact-button =
     .tooltiptext = שינוי הגדרות החיפוש
-
 search-one-offs-context-open-new-tab =
     .label = חיפוש בלשונית חדשה
     .accesskey = ל
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = הגדרה כמנוע חיפוש ברירת המחדל עבור חלונות פרטיים
     .accesskey = ג
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = הצגת העורך בזמן שמירה
     .accesskey = ה
-
 bookmark-panel-done-button =
     .label = סיום
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = מיקרופון לשיתוף:
     .accesskey = מ
 popup-all-windows-shared = ישותפו כל החלונות הגלויים על המסך.
-
 popup-screen-sharing-not-now =
     .label = לא כעת
     .accesskey = ל
-
 popup-screen-sharing-never =
     .label = לעולם לא לאפשר
     .accesskey = ע
-
 popup-silence-notifications-checkbox = השבתת התרעות מ־{ -brand-short-name } בזמן שיתוף
 popup-silence-notifications-checkbox-warning = ‏{ -brand-short-name } לא יציג התרעות בזמן השיתוף.
 
@@ -329,12 +317,38 @@ sharing-warning-disable-for-session =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = חיפוש או הקלדת כתובת
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = חיפוש או הקלדת כתובת
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = חיפוש ברשת
+    .aria-label = חיפוש באמצעות { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = נא להקליד מונח לחיפוש
+    .aria-label = חיפוש ב־{ $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = נא להקליד מונח לחיפוש
+    .aria-label = חיפוש בסימניות
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = נא להקליד מונח לחיפוש
+    .aria-label = חיפוש בהיסטוריה
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = נא להקליד מונח לחיפוש
+    .aria-label = חיפוש בלשוניות
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -345,11 +359,9 @@ urlbar-permissions-granted =
     .tooltiptext = הענקת לאתר זה הרשאות נוספות.
 urlbar-switch-to-tab =
     .value = מעבר ללשונית:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = הרחבה:
-
 urlbar-go-button =
     .tooltiptext = מעבר לכתובת שבסרגל המיקום
 urlbar-page-action-button =
