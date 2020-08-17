@@ -7,6 +7,7 @@
 
 about-glean-page-title = Glean rehegua
 about-glean-warning = Ko mba’erechaha jepuruvai ojokokuaa { -brand-short-name }.
+
 tag-pings-label = Embohéra ko’ã pings mondopyre ko teramoĩ ndive
 log-pings-label = ¿Ehecha ping ñemyanyhẽ emondo mboyve?
 send-pings-label = Emondo ping mboherapyre

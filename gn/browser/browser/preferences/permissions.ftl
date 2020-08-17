@@ -5,50 +5,66 @@
 permissions-window =
     .title = Ta’ãnga ñangarekoha
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ñanduti renda kundaharape
     .accesskey = d
+
 permissions-block =
     .label = Joko
     .accesskey = B
+
 permissions-session =
     .label = Emoneĩ Tembiapo ñepyrũ
     .accesskey = T
+
 permissions-allow =
     .label = Moneĩ
     .accesskey = A
+
 permissions-site-name =
     .label = Ñanduti renda
+
 permissions-status =
     .label = Tekotee
+
 permissions-remove =
     .label = Emboguete ñanduti renda
     .accesskey = R
+
 permissions-remove-all =
     .label = Emboguete opavave ñanduti renda
     .accesskey = E
+
 permissions-button-cancel =
     .label = Heja
     .accesskey = H
+
 permissions-button-ok =
     .label = Moambue ñongatu
     .accesskey = S
+
 permissions-autoplay-menu = Ijypykuéramo opaite ñanduti rendápe g̃uarã:
+
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
+
 permissions-capabilities-autoplay-allow =
     .label = Emoneĩ mba’epu ha ta’ãngamýi
 permissions-capabilities-autoplay-block =
     .label = Ejoko mba’epu
 permissions-capabilities-autoplay-blockall =
     .label = Ejoko mba’epu ha ta’ãngamýi
+
 permissions-capabilities-allow =
     .label = Moneĩ
 permissions-capabilities-block =
     .label = Jokoha
 permissions-capabilities-prompt =
     .label = Porandu Tapia
+
 permissions-capabilities-listitem-allow =
     .value = Moneĩ
 permissions-capabilities-listitem-block =
@@ -63,10 +79,6 @@ permissions-invalid-uri-label = Emoinge peteĩ mohendahavusu oikóva réra
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Ykepegua – Tetepy jejoko
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Ojeipe’áma tetepy jejoko ko’ã tenda pegua.
 permissions-exceptions-etp-window =
     .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
     .style = { permissions-window.style }
@@ -101,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu remohenda moĩmbaha. Ehai kundaharape ha’etéva tenda remoneĩséva ha ejopy Moneĩ.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Ykepegua – Ñemboheta ijeheguíva
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Ikatúpa ere mba’e tendápa oñemoneĩ térã oñembotove kookie jepurúpe. Emoinge tenda kundaharape eñangarekoseha ha upéi eikutu Joko térã Moneĩ.
 
 ## Site Permissions - Autoplay
 

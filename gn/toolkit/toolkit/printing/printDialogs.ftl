@@ -103,6 +103,7 @@ print-window =
     .title = Oñembokuatiahína
 print-complete =
     .value = Ñembokuatia opáma.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

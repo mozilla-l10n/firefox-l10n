@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Téra ha teñoiha renda tembiapoite jehechaukapyréva.">
 <!ENTITY performanceUI.table.totalAlloc               "Opaite jeporavopyre oñemoingéva pe jehechaukahápe">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Papapy je’epyre mba’e jehechaukapýva ko tenda pegua ha ñehenói japyhypyrépe.">
-<!ENTITY performanceUI.table.selfAlloc                "Mboherapy jehechaukajeheguíva">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Pe papapy je’epyre mba’e jehechaukapýva ko tendápe.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

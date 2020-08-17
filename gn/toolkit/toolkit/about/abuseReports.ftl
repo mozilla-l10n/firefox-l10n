@@ -8,15 +8,19 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Emomarandu { $addon-name }
+
 abuse-report-title-extension = Emomarandu ko jepysokue rehegua { -vendor-short-name }-pe
 abuse-report-title-theme = Emomarandu ko téma rehegua { -vendor-short-name }-pe
 abuse-report-subtitle = ¿Mba’ete pe apañuãi?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a> rehe
+
 abuse-report-learnmore =
     ¿Ndereikuaaporãi mba’e apañuãi emoĩporãta?
     <a data-l10n-name="learnmore-link">Eñemomaranduve jepysokue rehegua ha avei téma</a>
+
 abuse-report-submit-description = Emoha’ãnga apañuãi (ejaposéramo)
 abuse-report-textarea =
     .placeholder = Oréve ndahasyive romoĩporãvo apañuãi roguerekóramo mba’esa’i hesegua. Ehesa’ỹijo ne apañuãi. Aguyje orepytyvõ haguére ñanduti hekoresãi hag̃ua.
@@ -57,31 +61,31 @@ abuse-report-messagebar-action-cancel = Heja
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Ombyai che mohendaha ha mba’ekuaarã
 abuse-report-damage-reason-v2 = Ombyai che mohendaha térã omomarãkuaa che mba’ekuaarã
 abuse-report-damage-example = Techapyrã: omohenda malware térã omonda marandu
-abuse-report-spam-reason = Omoheñói spam térã maranduñemurã
+
 abuse-report-spam-reason-v2 = Oreko yty térã omoinge ñemurã eipota’ỹva
 abuse-report-spam-example = Techapyrã: Omoinge maranduñemurã ñanduti kuatiaroguépe
-abuse-report-settings-reason = Iñambue che jehekaha, kuatiarogue ñepyrũ térã tendayke pyahu chemomarandu ha oporandu’ỹre
+
 abuse-report-settings-reason-v2 = Iñambue che jehekaha, kuatiarogue ñepyrũ térã tendayke pyahu omomarandu ha oporandu’ỹva
 abuse-report-settings-suggestions = Emomarandu mboyve pe jepysokue, eñeha’ã emoambue ñemboheko:
 abuse-report-settings-suggestions-search = Emoambue ñemboheko jehekaha ijypykuévape
 abuse-report-settings-suggestions-homepage = Emoambue kuatiarogue ñepyrũha ha tendayke pyahúpe
-abuse-report-deceptive-reason = Ohechaukaséva mba’e ha’e’ ỹva
+
 abuse-report-deceptive-reason-v2 = Eha’ã umi ndaha’éiva
 abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga jejavýva
-abuse-report-broken-reason-extension = Ndoikói, ombyai ñanduti renda térã omombegue { -brand-product-name }
-abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
+
 abuse-report-broken-reason-extension-v2 = Ndoikói, omopẽ  ñanduti renda térã omombegue { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ndoikói térã oipe’a ohechaukáva kundahára
 abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijepuru térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
 abuse-report-broken-suggestions-extension = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike jepysokue ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
 abuse-report-broken-suggestions-theme = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike téma ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
-abuse-report-policy-reason = Tetepy rairõgua, imarã térã ja’e’ỹ
+
 abuse-report-policy-reason-v2 = Tetepy iñaña, imbarete térã léigui osẽva
 abuse-report-policy-suggestions = Kuaarã: Umi apañuãi ojojoguáva apohare derécho ha marca registrada oñemomaranduva’erã ha’eño peteĩteĩva. <a data-l10n-name="report-infringement-link">Eipuru ko’ã je’epyre</a> emomarandu hag̃ua apañuãi.
-abuse-report-unwanted-reason = Ndaipotaivavoínte ko jepysokue ha ndaikatúi aipe’a ko’ág̃a
+
 abuse-report-unwanted-reason-v2 = Ndaipotái ha ndaikuaái mba’éichapa ajeíta chugui
 abuse-report-unwanted-example = Techapyrã: Peteĩ tembipuru’i oñemohendáva amoneĩ’ỹre
+
 abuse-report-other-reason = Ambue mba’e
+

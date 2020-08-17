@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ojavy oñemondóvo marandu’i. Eha’ã ag̃ave.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = ¿Tenda oĩporãmava? Emondo marandu’i
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Ypykue
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Maranduve jehapykuehoha iporãvéva mo’ãha rehegua
+
 protections-panel-etp-on-header = Ñemo’ã jehapykuehoha iporãvéva ijurujáma ko tendápe g̃uarã
 protections-panel-etp-off-header = Ñemo’ã jehapykuehoha iporãvéva ndoikovéima ko tendápe g̃uarã
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ¿Ko tenda ndoikói?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = ¿Ko Tenda Ndoikói?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Opaite tepykuehoha ko tenda
 ##
 
 protections-panel-no-trackers-found = Ndaipóri tapykuehoha { -brand-short-name } peg̃uarã ojehechakuaáva ko kutiaroguépe.
+
 protections-panel-content-blocking-tracking-protection = Tetepy jehapykueho
+
 protections-panel-content-blocking-socialblock = Ava ñandutieta vore rapykuehoha
 protections-panel-content-blocking-cryptominers-label = Criptominero
 protections-panel-content-blocking-fingerprinters-label = Fingerprinters
@@ -65,12 +71,14 @@ protections-panel-protectionsdashboard-label = Ñemo’ãha rupa
 
 # The header of the list
 protections-panel-site-not-working-view-header = Eipe’a umi ñemo’ãha nemoapañuãiramo:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Tembiapo ñepyrũ rekoha
 protections-panel-site-not-working-view-issue-list-forms = Myañyhẽha
 protections-panel-site-not-working-view-issue-list-payments = Jehepume’ẽ
 protections-panel-site-not-working-view-issue-list-comments = Je’erei
 protections-panel-site-not-working-view-issue-list-videos = Ta’ãngamýi
+
 protections-panel-site-not-working-view-send-report = Emondo marandu’i
 
 ##
@@ -80,9 +88,11 @@ protections-panel-cryptominers = Ymi criptominero oipurúva nde apopyvusu rembip
 protections-panel-fingerprinters = Umi Kuãhũ kuaaukaha ombyaty ne kundaha ha mohendaha ñemboheko omoheñói hag̃ua imba’eterã. Oipurúva ko kuãhũ ikatu ohapykueho heta ñanduti renda rupive.
 protections-panel-tracking-content = Tendakuéra ikatu ohupi maranduñemurã okaygua, ta’ãngamýi ha ambue tetepy orekóva tapykuehoha ayvu. Tetepy rapykuehoha jejoko ikatu oipytyvõ tendakuérape henyhẽ pya’eve hag̃ua hákatu heta votõ, myanyhẽha ha jeikeha kora ikatu ndoikovéi.
 protections-panel-social-media-trackers = Umi ava ñandutieta ohechakuaa tapykuehoha ambue ñanduti rendápe ohapykueho hag̃ua hembiapo, ohecha tapia ñandutípe. Kóva omoneĩ mba’apohaguasu ava ñandutietápe oikuaavévo ndehegui umi emoherakuãvagui ava ñandutietápe.
+
 protections-panel-content-blocking-manage-settings =
     .label = Eñangareko ñemo’ã ñembohekóre
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Emombe’u tenda henyhẽ’ỹva
 protections-panel-content-blocking-breakage-report-view-description = Pe tapykuehoha jejoko ikatu omoapañuãi heta ñanduti rendápe. Emombe’úvo ko’ã apañuãi eipytyvõta { -brand-short-name } oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta Mozilla-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua. <label data-l10n-name="learn-more">Kuaave</label>

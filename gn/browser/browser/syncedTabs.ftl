@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Tendayke ñembojuehepyre
 synced-tabs-sidebar-noclients-subtitle = Ehechasépa tendaykekuéra ambue mba’e’okaguáva ko’ápe
-synced-tabs-sidebar-notsignedin = Eike ehecha tendayke rysýi ambue mba’e’oka peguáva.
 synced-tabs-sidebar-intro = Ehecha tendayke rysýi ambue ne mba’e’okagua.
 synced-tabs-sidebar-unverified = Tekotevẽ oñemboaje ne mba’ete.
 synced-tabs-sidebar-notabs = Ndaipóri tendayke ijurujáva

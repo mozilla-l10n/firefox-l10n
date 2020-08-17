@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (oiko’ỹva)
 compatibility-issue-experimental = (mba’epyahu)
 compatibility-issue-prefixneeded = (prefix needed)
 compatibility-issue-deprecated-experimental = (oiko’ỹva, mba’epyahu)
+
 compatibility-issue-deprecated-prefixneeded = (ndoikói, oikotevẽ ñe’ẽpehẽ)
 compatibility-issue-experimental-prefixneeded = (ipyahúva, oikotevẽ ñe’ẽpehẽ)
 compatibility-issue-deprecated-experimental-prefixneeded = (oiko’ỹva, ipyahu, oikotevẽ ñe’ẽpehẽ)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } ñesẽrei
        *[other] { $number } ñesẽreikuéra
     }
+
 compatibility-no-issues-found = Ndaipóri apañuãi jokupytygua.
 compatibility-close-settings-button =
     .title = Embogue ñemboheko

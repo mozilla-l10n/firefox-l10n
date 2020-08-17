@@ -31,8 +31,6 @@ printpreview-print =
     .accesskey = P
 printpreview-of =
     .value = pe
-printpreview-custom-prompt =
-    .value = Jupiha ñemomba’epyre…
 printpreview-custom-scale-prompt-title = Jupiha ñemomba’epyre
 printpreview-page-setup =
     .label = Kuatiarogue mboheko...
@@ -59,3 +57,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Kuatiarogue paha
+

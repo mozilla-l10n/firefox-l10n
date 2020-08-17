@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Kytĩ">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Mbohasarã">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Emboja">
-<!ENTITY pasteCmd.accesskey "E">
-<!ENTITY undoCmd.label "Mboguevi">
-<!ENTITY undoCmd.accesskey "M">
-<!ENTITY selectAllCmd.label "Mbosa’ypa">
-<!ENTITY selectAllCmd.accesskey "M">
-<!ENTITY deleteCmd.label "Embogue">
-<!ENTITY deleteCmd.accesskey "E">
-
 <!ENTITY spellAddToDictionary.label "Ñe’ẽryrúre mbojuapy">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Emboguevi ñe’ẽryrúre mbojoapy">

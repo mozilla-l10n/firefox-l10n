@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = Eñangareko ne rembipuru’i eikutúvo <ima
 appmenu-addon-post-install-incognito-checkbox =
     .label = Emoneĩ ko jepysokue oñembohekóvo Windows ñemiguápe
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Emoambue jepysokue Ovetã ñemiguápe
-    .buttonlabel = Eñangareko jepysokuére
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Oĩma, aikumby
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Oimeraẽ ambue jepysokue embojuajúva { -brand-shorter-name } rehe ndoikomo’ãi ovetã ñemíme neremoneĩriramo ñembohekópe.
-appmenu-addon-private-browsing-learn-more = Eñangarekokuaa jepysokue ñembohekóre.
+    
 appmenu-new-tab-controlled =
     .label = Ne Tendayke Pyahu iñambuékuri.
     .buttonlabel = Topyta Ñemoambue

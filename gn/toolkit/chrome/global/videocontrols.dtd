@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Picture-in-picture">
 
-<!ENTITY stats.media "Hupytyha">
-<!ENTITY stats.size "Tuichakue">
-<!ENTITY stats.activity "Tembiapo">
-<!ENTITY stats.activityPaused "Mombytapyre">
-<!ENTITY stats.activityPlaying "Ñemboheta">
-<!ENTITY stats.activityEnded "Opámava">
-<!ENTITY stats.activitySeeking "(ohekahína)">
-<!ENTITY stats.volume "Mbopuha">
-<!ENTITY stats.framesParsed "Mba’era’ãnga oĩmbapyréva">
-<!ENTITY stats.framesDecoded "Mba’era’ãnga papapy’óva">
-<!ENTITY stats.framesPresented "Mba’era’ãnga jehechaukapyre">
-<!ENTITY stats.framesPainted "Mba’era’ãnga jehechaukapyréva">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Pe ta’ãngamýi ñemboheta ndoikomo’ãi peteĩ jejavy jeikuaa’ỹva rupi.">
 
 <!ENTITY status.pictureInPicture "Ko ta’angamýi oñembohetahína Picture-in-Picture rekópe.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 of #2 ohasapyréva">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

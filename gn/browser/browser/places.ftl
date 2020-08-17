@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Ovetã ñemi pyahúpe jeike
     .accesskey = P
+
 places-new-bookmark =
     .label = Techaukaha pyahu...
     .accesskey = p
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Mopa’ũha pyahu
     .accesskey = S
+
 places-view =
     .label = Hecha
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Arange ha tenda rupi
     .accesskey = t
+
 places-history-search =
     .placeholder = Tembiasakuépe jeheka
 places-bookmarks-search =
     .placeholder = Techaukahápe jeheka
+
 places-delete-domain-data =
     .label = Ko Ñanduti Rendágui Tesarái
     .accesskey = T

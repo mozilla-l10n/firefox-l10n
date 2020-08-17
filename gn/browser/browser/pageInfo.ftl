@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Mbohasarã
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = Eiporavopa
     .accesskey = E
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Tuichakue
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Téra
 general-meta-content =
     .label = Tetepy
+
 media-tab =
     .label = Hupytyha
     .accesskey = M
@@ -66,13 +71,13 @@ media-save-as =
 media-save-image-as =
     .label = Ñongatu pyahu…
     .accesskey = e
-media-preview =
-    .value = Apopy mboyvegua rupytyha recha:
+
 perm-tab =
     .label = Moneĩ
     .accesskey = P
 permissions-for =
     .value = Emoneĩ hag̃ua:
+
 security-tab =
     .label = Tekorosã
     .accesskey = S
@@ -93,17 +98,22 @@ security-view-identity-validity =
     .value = Ndoikovéitama ag̃a:
 security-view-privacy =
     .value = Ñemigua ha tembiasakue
+
 security-view-privacy-history-value = Ojehechámapa ko ñanduti renda ymavegua
 security-view-privacy-sitedata-value = ¿Ko ñanduti renda ombyaty marandu che mohendahápe?
+
 security-view-privacy-clearsitedata =
     .label = Emboguete umi kookie ha mba’ekuaarã tenda pegua
     .accesskey = C
+
 security-view-privacy-passwords-value = Oñeñongatúpa ñe’ẽñemi ko ñanduti rendápe
+
 security-view-privacy-viewpasswords =
     .label = Terañemi ñongatuguáva jehecha
     .accesskey = w
 security-view-technical =
     .value = Mba’emimi aporekoguáva
+
 help-button =
     .label = Ñepytyvõ
 
@@ -115,10 +125,11 @@ help-button =
 
 security-site-data-cookies = Hẽe, umi kookie ha { $value } { $unit } tendakuéra mba’ekuaarã
 security-site-data-only = Hẽe,{ $value } { $unit } tendakuéra mba’ekuaarã
+
 security-site-data-cookies-only = Hẽe, umi kookie
 security-site-data-no = Ahániri
+
 image-size-unknown = Ojekuaa’ỹva
-not-set-verified-by = Moha’eñopyre’ỹva
 page-info-not-specified =
     .value = Moha’eñopyre’ỹva
 not-set-alternative-text = Moha’eñopyre’ỹva
@@ -136,13 +147,13 @@ media-video = Ta´ãngamyi
 media-audio = Hendupyrã
 saved-passwords-yes = Héẽ
 saved-passwords-no = Nahániri
+
 no-page-title =
     .value = Kuatiarogue heratee’ỹva:
 general-quirks-mode =
     .value = Ayvu okupytýva
 general-strict-mode =
     .value = Jokupytyreko ipukukue jekuaáva ndive
-security-no-owner = Ko ñanduti renda nomomarandúi ijára rehegua.
 page-info-security-no-owner =
     .value = Ko ñanduti renda nomomarandúi ijára rehegua.
 media-select-folder = Eiporavo peteĩ ñongatuha ta’ãngakuéra rendarã
@@ -151,6 +162,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Ijypykue jepuru
 security-no-visits = Nahániri
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -161,6 +173,7 @@ general-meta-tags =
             [one] Hupityséva (1 teramoĩ)
            *[other] Hupityséva ({ $tags } teramoĩ)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -171,6 +184,7 @@ security-visits-number =
         [one] Heẽ, peteĩ jey
        *[other] Heẽ, { $visits } jey
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -181,6 +195,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -192,12 +207,14 @@ media-animated-image-type =
             [one] { $type } Ta’ãnga (kyre’ỹ, { $frames } kora)
            *[other] { $type } Ta’ãnga (kyre’ỹ, { $frames } korakuéra)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Ta’ãnga { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -207,17 +224,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px x { $dimy }px (ojupíva { $scaledx }px-pe x { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px x { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -225,6 +245,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Ta’ãnga { $website } rehegua jejoko
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Pe kuatia ejeruréva ndaipóri &brandShortName;’s kachépe.</p><ul><li>Tekorosãrãramo &brandShortName; ndojeruréi ijehegui umi kuatia momba'épýva.</li><li>Eikutu pe Ha'ãjeýpe ejerurejey hag̃ua pe kuatia ko ñanduti roguépe.</li></ul>">
 
 <!ENTITY netOffline.title "Jeikekatu'ỹ reko">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Eha'ãjey. &brandShortName; oñeha'ãta ombojuruja peteĩ jeike ha emyenyhẽjey kuatiarogue. <button id='wifi'> Embojuruja Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Tetepy mbopapapy jejavy">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ikatúpiko, eñomongeta umi ñanduti renda jára ndive emomarandu hag̃ua chupekuéra apañuãi rehegua.</li> </ul>">

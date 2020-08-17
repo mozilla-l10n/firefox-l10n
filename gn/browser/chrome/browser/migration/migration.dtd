@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Jeporavorã jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:">
 <!ENTITY importFromUnix.label           "Jerohoryvéva jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:">
-<!ENTITY importFromBookmarks.label      "Techaukaha jegueru kóvagui:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

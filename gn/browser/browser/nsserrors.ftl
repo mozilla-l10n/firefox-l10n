@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Oiko jejavy eikévo { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Ayvu jejavy; { $error }
+
 psmerr-ssl-disabled = Ndaikatúi eike jeroviápe pe mba’ete oñemongéma rupi.
 psmerr-ssl2-disabled = Ndaikatúi eikekatu pe tenda oipuru rupi peteĩchagua itujáva ha nahekorosãiva SSL reheguáva.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Og̃uahẽ ndéve peteĩ mboajepyre ndoikóiva. Eñe’ẽ pe me’ẽhára ndive térã ñanduti veve kundaharape mohendahavusu rehegua ha embohasa chupe marandu:
     
     Nemboajepyre oguereko peteĩchaguaite papapy syryrýva pe ambue mboajepyre oguenohẽva moakãhára omboajepyrekuaáva. Eñeha’ã eguereko mboajepyre pyahu ipapapy syryry ha’eñoitéva.
+
 ssl-error-export-only-server = Ndaikatúi oñemongeta jeroviaitépe. Avei nomoneĩri mbopapapy ijyvatetereíva.
 ssl-error-us-only-server = Ndaikatúi oñomongeta jeroviápe. Peer oikotevẽ mbopapapy tuicháva rehegua ndojogueraháiva.
 ssl-error-no-cypher-overlap = Ndaikatúi eñemomarandu jeroviápe ambuéva ndive: ndaipóri algoritmo ipapapýva opavaveguáva.

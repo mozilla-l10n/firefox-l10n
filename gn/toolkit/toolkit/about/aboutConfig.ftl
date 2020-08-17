@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Amoneĩ kyhyjerã!
 config-about-warning-checkbox =
     .label = Ehechauka ko kyhyjerã peteĩhápe
+
 config-search-prefs =
     .value = Heka:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Mbohasarã
     .accesskey = C
+
 config-copy-name =
     .label = Téra mbohasarã
     .accesskey = N
+
 config-copy-value =
     .label = Tepy mbohasarã
     .accesskey = V
+
 config-modify =
     .label = Moambue
     .accesskey = M
+
 config-toggle =
     .label = Moambue
     .accesskey = T
+
 config-reset =
     .label = Mbojevyjey
     .accesskey = M
+
 config-new =
     .label = Pyahu
     .accesskey = w
+
 config-string =
     .label = juajuha
     .accesskey = S
+
 config-integer =
     .label = oĩmbáva
     .accesskey = I
+
 config-boolean =
     .label = hẽe/nahániri
     .accesskey = B
+
 config-default = ijypykuépe
 config-modified = moambuepyre
 config-locked = jokopyre
+
 config-property-string = joajuha
 config-property-int = oĩmbáva
 config-property-bool = hẽe/nahániri
+
 config-new-prompt = Emoinge téra erohoryvéva
+
 config-nan-title = Tepykue oiko’ỹva
 config-nan-text = Pe moñe’ẽrã emoingéva ndaha’éi papapy.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Tepy pyahu { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Emoinge tepykue { $type }

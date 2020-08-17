@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Eipuru kóva: Emboja tendayke
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mba’ére ahechahína kóva
+
 cfr-doorhanger-extension-cancel-button = Ko’ág̃a nahániri
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Embojuaju ko’ág̃a
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Emboja ko tendayke
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Eñangareko je’eporã ñemboheko rehe
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Ani ehechauka ko je’eporã
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Kuaave
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Hese { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Je’ete
 cfr-doorhanger-extension-notification2 = Je’eporã
     .tooltiptext = Jepysokue je’eporã
     .a11y-announcement = Jepysokue je’eporã eipurukuaáva
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Je’eporã
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } puruhára
        *[other] { $total } puruhára
     }
+
 cfr-doorhanger-pintab-description = Eike pya’e umi tenda ojepuruvévape. Embojuruja tapia umi tenda peteĩ tendayképe (avei emoñepyrũjeývo tembiapo).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Eike pya’e umi tenda ojepuruvévape. Emboj
 cfr-doorhanger-pintab-step1 = <b>Eikutu akatúa gotyo</b> pe tendayke emombytasévape.
 cfr-doorhanger-pintab-step2 = Eiporavo <b>Emboja tendayke</b> poravorãme.
 cfr-doorhanger-pintab-step3 = Pe tenda oguerekóramo ñembohekopyahu, ehecháta peteĩ kyta hovy tendayke mbojapyrépe.
+
 cfr-doorhanger-pintab-animation-pause = Mbopyta
 cfr-doorhanger-pintab-animation-resume = Eku’ejey
+
 
 ## Firefox Accounts Message
 
@@ -89,18 +100,24 @@ cfr-protections-panel-link-text = Eikuaave
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Peteĩchagua pyahu:
+
 cfr-whatsnew-button =
     .label = Oĩpa mba’e pyahu
     .tooltiptext = Oĩpa mba’e pyahu
+
 cfr-whatsnew-panel-header = Oĩpa mba’e pyahu
+
 cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
+
 cfr-whatsnew-fx70-title = { -brand-short-name } oñorairõve ne ñemigua rehe
 cfr-whatsnew-fx70-body = Ñembohekopyahu omo’ã porãve jehapykuehópe ha ikatu emoheñói ñe’ẽñemi hekorosãva peteĩteĩva tendápe g̃uarã.
+
 cfr-whatsnew-tracking-protect-title = Eñemo’ã tapykuehohágui
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } ojoko heta tapykuehoha ava’atygua ha tenda ojuasáva
     ohapykuerehóva oikóva ñandutípe.
 cfr-whatsnew-tracking-protect-link-text = Ehecha ne marandu’i
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -111,9 +128,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Oiko { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Marandu’i jehecha
+
 cfr-whatsnew-lockwise-backup-title = Eñongatujo’a ne ñe’ẽñemi
 cfr-whatsnew-lockwise-backup-body = Ko’ág̃a ikatúma ejapo ñe’ẽñemi hekorosãva ikatuhápe eike emoñepyrũhápe tembiapo.
 cfr-whatsnew-lockwise-backup-link-text = Emyandy ñongatujo’a
+
 cfr-whatsnew-lockwise-take-title = Egueraha ne ñe’ẽñemi nendive
 cfr-whatsnew-lockwise-take-body = Pe tembipuru’i oku’éva { -lockwise-brand-short-name } omoneĩ eikévo tekorosãme nde ñe’ẽñemi ñongatupyrépe oimeraẽva tenda guive.
 cfr-whatsnew-lockwise-take-link-text = Eguereko tembipuru’i
@@ -147,6 +166,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Ojejokóma kuãhũnguéra
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ojokóma heta kuãhũ kuaaukaha ombyatýva kañyháme marandu ne mba’e’oka rehegua omoheñói hag̃ua imba’ete ñemurãva.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Ñemokuãhũ
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } ikatu ojoko heta kuãhũ kuaaukaha ombyatýva kañyháme marandu ne mba’e’oka rehegua ha omyandy omoheñói hag̃ua imba’ete ñemurãva.
@@ -206,6 +226,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Hechapa
     .accesskey = H
+
 cfr-doorhanger-milestone-close-button = Mboty
     .accesskey = C
 

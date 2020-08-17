@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Jehaipy ra’ãha jeikekatu rehegua
 url-classifier-debug-modules = Jehaipy ra’ãha ag̃agua
 url-classifier-debug-sbjs-modules = Jeikekatu rehegua JS log
 url-classifier-debug-file = Marandurenda rembiasakue ag̃agua
+
 url-classifier-trigger-update = Ñembohekopyahu mbojuaju’o
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Eipe’aite jeikekatu rehegua JS log
