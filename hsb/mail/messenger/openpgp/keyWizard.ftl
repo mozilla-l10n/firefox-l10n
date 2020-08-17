@@ -5,9 +5,7 @@
 key-wizard-button =
     .buttonlabelaccept = Dale
     .buttonlabelhelp = Wróćo
-
 key-wizard-learn-more = Dalše informacije
-
 radio-create-key =
     .label = Nowy OpenPGP-kluč wutworić
     .accesskey = O
@@ -15,41 +13,34 @@ radio-create-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP-kluč wutworić
-
+radio-keygen-no-expiry =
+    .label = Kluč njespadnje
+    .accesskey = n
 openpgp-keygen-days-label =
     .label = dnjow
 openpgp-keygen-months-label =
     .label = měsacow
 openpgp-keygen-years-label =
     .label = lět
-
 openpgp-keygen-advanced-title = Rozšěrjene nastajenja
-
 openpgp-keygen-keytype =
     .value = KLučowy typ:
     .accesskey = t
-
 openpgp-keygen-keysize =
     .value = Wulkosć kluča:
     .accesskey = u
-
 openpgp-keygen-type-rsa =
     .label = RSA
-
 openpgp-keygen-type-ecc =
     .label = ECC (Elliptic Curve)
-
 openpgp-keygen-button = Kluč wutworić
-
+openpgp-keygen-progress-title = Waš nowy OpenPGP-kluč so wutwori…
 openpgp-keygen-confirm =
     .label = Wobkrućić
-
 openpgp-keygen-dismiss =
     .label = Přetorhnyć
-
 openpgp-keygen-cancel =
     .label = Proces přetorhnyć…
-
 openpgp-keygen-import-complete =
     .label = Začinić
     .accesskey = Z
@@ -57,15 +48,10 @@ openpgp-keygen-import-complete =
 ## Import Key section
 
 gnupg-file = GnuPG-dataje
-
 openpgp-import-identity-label = Identita
-
 openpgp-import-fingerprint-label = Porstowy wotćišć
-
 openpgp-import-created-label = Wutworjeny
-
 openpgp-import-bits-label = Bity
-
 openpgp-import-key-props =
     .label = KLučowe kajkosće
     .accesskey = K
