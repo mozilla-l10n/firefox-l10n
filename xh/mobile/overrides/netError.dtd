@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhuphelo se-&brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>    <li>Zama kwakhona. i-&brandShortName; iza kuzama ukuvula unxibelelwano ize ilayishe kwakhona ikhasi.   <button id='wifi'>Vumela iWi-Fi</button>   </li>   </ul>">
 
 <!ENTITY contentEncodingError.title "Imposiso yekhowudi yomxholo">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> </ul>">

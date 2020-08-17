@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Gcina Kanje…
     .accesskey = e
-media-preview =
-    .value = Ukujonga Phambi Kolondolozo:
 
 perm-tab =
     .label = Iimvume
@@ -116,7 +114,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Akwaziwa
-not-set-verified-by = Akuxelwanga
 page-info-not-specified =
     .value = Akuxelwanga
 not-set-alternative-text = Akuxelwanga
@@ -141,7 +138,6 @@ general-quirks-mode =
     .value = Imo yobuqhinga
 general-strict-mode =
     .value = Imo yokuthobela imigangatho
-security-no-owner = Le webhusayithi ayiniki nkcazelo yobunini.
 page-info-security-no-owner =
     .value = Le webhusayithi ayiniki nkcazelo yobunini.
 media-select-folder = Khetha ifolda uze ugcine imifuziselo

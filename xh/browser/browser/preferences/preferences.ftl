@@ -7,13 +7,6 @@ do-not-track-learn-more = Funda ngakumbi
 do-not-track-option-always =
     .label = Qho
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Ekunokukhethwa kuko
-           *[other] Izikhethwa
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Ekunokukhethwa kuko
@@ -313,10 +306,6 @@ update-application-use-service =
     .label = Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo
     .accesskey = y
 
-update-enable-search-update =
-    .label = Ngokuzenzekelayo hlaziya iinjini zokukhangela
-    .accesskey = e
-
 ## General Section - Performance
 
 performance-title = Ukusebenza
@@ -453,8 +442,6 @@ containers-add-button =
 sync-signedout-caption = Phatha iWebhu Yakho Apho Ukhoyo
 sync-signedout-description = Ngqamanisa iibhukmakhi zakho, iimbali, iithebhu, iiphaswedi, ezongezelelwayo, kunye neepreferensi kuzo zonke izixhobo zakho.
 
-sync-signedout-account-title = Qhagamshela nge{ -fxaccount-brand-name }
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -473,19 +460,12 @@ sync-mobile-promo = Dawnlowuda iFirefox ye<img data-l10n-name="android-icon"/> <
 sync-profile-picture =
     .tooltiptext = Tshintsha umfanekiso weprofayili
 
-sync-disconnect =
-    .label = Khupha uqhagamshelo...
-    .accesskey = K
-
 sync-signedin-unverified = { $email } akuqinisekiswanga.
 sync-signedin-login-failure = Sicela ungene ukuze uphinde uqhagamshele { $email }
 
 sync-sign-in =
     .label = Sayina uNgene
     .accesskey = g
-
-sync-signedin-settings-header = Ngqamanisa iiSetingi
-sync-signedin-settings-desc = Khetha izinto oza kuzingqamanisa kwizixhobo zakho usebenzisa i{ -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -519,10 +499,6 @@ sync-device-name-save =
     .label = Gcina
     .accesskey = i
 
-sync-tos-link = Imiqathango yenkonzo
-
-sync-fxa-privacy-notice = Isaziso sabucala
-
 ## Privacy Section
 
 
@@ -546,6 +522,7 @@ forms-master-pw-change =
     .accesskey = P
 
 forms-master-pw-fips-title = Kungokunje ukwimo ye-FIPS. I-FIPS ifuna iPhaswedi yeMasta engekho ze.
+
 forms-master-pw-fips-desc = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
 
 ## OS Authentication dialog
@@ -702,6 +679,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = l
 
 space-alert-under-5gb-message = I-{ -brand-short-name } iphelelwa yindawo kwidiski. Iziqulatho zewebhsayithi zinokungabonisi kakuhle. Tyelela ethi “Funda Okungakumbi” ukuze u-optimayize ukusebenzisa kwakho idiski ukuze ubhrawze kakuhle.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

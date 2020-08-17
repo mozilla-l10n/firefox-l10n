@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Iithebhu Ezingqamanisiweyo
 synced-tabs-sidebar-noclients-subtitle = Ufuna ukubona iithebhu ezivela kwezinye izixhobo apha?
-synced-tabs-sidebar-notsignedin = Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.
 synced-tabs-sidebar-notabs = Azikho iithebhu ezivuliweyo
 synced-tabs-sidebar-openprefs = Vula i-{ -sync-brand-short-name } iiPriferensi
 synced-tabs-sidebar-tabsnotsyncing = Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.

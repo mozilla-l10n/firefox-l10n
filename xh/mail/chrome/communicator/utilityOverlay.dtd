@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "Hlela">
 <!ENTITY editMenu.accesskey        "H">
 <!ENTITY undoCmd.label            "Qhaqha Okwenzileyo">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "Q">
 <!ENTITY redoCmd.label            "Phinda wenze">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "P">
-<!ENTITY cutCmd.label            "Sika">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "k">
-<!ENTITY copyCmd.label            "Kopa">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label            "Ncamathelisa">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "N">
 <!ENTITY deleteCmd.label          "Cima">
 <!ENTITY deleteCmd.accesskey        "C">
-<!ENTITY selectAllCmd.label          "Khetha Konke">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "K">
 <!ENTITY preferencesCmd2.label "Options">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Izikhethwa">
