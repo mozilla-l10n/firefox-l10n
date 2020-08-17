@@ -104,9 +104,6 @@ about-debugging-setup-title = Setup
 about-debugging-setup-intro = Configure the connection method you wish to remotely debug your device with.
 
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = Use <a>{ about-debugging-this-firefox-runtime-name }</a> to debug tabs, extensions and service workers on this version of { -brand-shorter-name }.
-
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Use <a>{ about-debugging-this-firefox-runtime-name }</a> to debug extensions and service workers on this version of { -brand-shorter-name }.
 
 # Title of the heading Connect section of the Setup page.
@@ -226,14 +223,6 @@ about-debugging-runtime-service-workers-not-compatible = Your browser configurat
 about-debugging-browser-version-too-old = Повезани прегледач има стару верзију ({ $runtimeVersion }). Минимална подржана верзија је ({ $minVersion }). Ово је неподржана конфигурација која може изазвати проблеме у раду DevTools-а. Ажурирајте повезани прегледач. <a>Отклањање проблема</a>
 
 # Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = The Debugger panel may not work with the connected browser. Please use Firefox { $runtimeVersion } if you need to use the Debugger with this browser.
-
-# Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Ова Firefox верзија не може да уклања грешке за Firefox за Android (68). Препоручујемо вам да на телефон инсталирате Firefox за Android Nightly за тестирање. <a>Више детаља</a>
 
@@ -324,15 +313,6 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = Extension ID
-
-# This string is displayed as a label of the button that pushes a test payload
-# to a service worker.
-# Notes, this relates to the "Push" API, which is normally not localized so it is
-# probably better to not localize it.
-about-debugging-worker-action-push = Push
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = Start
 
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.

@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Уређивање">
 <!ENTITY editMenu.accesskey                             "е">
-<!ENTITY undoCmd.label                                  "Опозови">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "з">
-<!ENTITY redoCmd.label                                  "Понови">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "н">
-<!ENTITY cutCmd.label                                   "Исеци">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "и">
-<!ENTITY copyCmd.label                                  "Ископирај">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "у">
-<!ENTITY pasteCmd.label                                 "Налепи">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "л">
 <!ENTITY deleteCmd.label                                "Обриши">
-<!ENTITY deleteCmd.accesskey                            "о">
 <!ENTITY deleteAbCmd.label                              "Обриши именик">
 <!ENTITY deleteContactCmd.label                         "Обриши контакт">
 <!ENTITY deleteContactsCmd.label                        "Обриши контакте">
 <!ENTITY deleteListCmd.label                            "Обриши списак">
 <!ENTITY deleteListsCmd.label                           "Обриши спискове">
 <!ENTITY deleteItemsCmd.label                           "Обриши ставке">
-<!ENTITY selectAllCmd.label                             "Изабери све">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "а">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Замени име и презиме">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "м">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Својства">
 <!ENTITY propertiesMenu.accesskey                       "ј">
 <!ENTITY propertiesCmd.key                              "i">

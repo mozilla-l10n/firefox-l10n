@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Затвори
     .title = Претходно погледани OTR отисци
+
 finger-intro = Отисци OTR кључева из претходних разговора шифрованих с краја на крај.
+
 finger-screenName =
     .label = Контакт
 finger-verified =
     .label = Стање потврде
 finger-fingerprint =
     .label = Отисак
+
 finger-remove =
     .label = Уклони изабрано
+
 finger-remove-all =
     .label = Уклони све

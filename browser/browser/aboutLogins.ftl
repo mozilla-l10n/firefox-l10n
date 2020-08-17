@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Преузмите на Google Play
 login-app-promo-apple =
     .alt = Преузмите на App Store-у
+
 login-filter =
     .placeholder = Претражите пријаве
+
 create-login-button = Направите нову пријаву
+
 fxaccounts-sign-in-text = Пронађите своје лозинке на свим својим уређајима
 fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -69,6 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Подесите { -sync-brand-short-name } или их увезите.
 about-logins-login-intro-heading-logged-in = Нису пронађене синхронизоване пријаве.
 login-intro-description = Уколико сте пријаве сачували у програму { -brand-product-name } на неком другом уређају, следите ове кораке:
@@ -76,6 +80,7 @@ login-intro-instruction-fxa = Направите или се пријавите 
 login-intro-instruction-fxa-settings = Уверите се да сте штиклирали „Пријаве“ { -sync-brand-short-name } подешавањима
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Ако су ваше пријаве сачуване у другом прегледачу, можете да их <a data-l10n-name="import-link">увезете у { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Ако сте сачували своје пријаве изван { -brand-product-name }-а, можете их <a data-l10n-name="import-browser-link">увести из другог прегледача</a> или <a data-l10n-name="import-file-link">из датотеке</a>
 
 ## Login
@@ -116,25 +121,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Да бисте уреди�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредите сачувану пријаву
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Да бисте видели лозинку, унестие ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = откријте сачувану лозинку
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Да бисте копирали лозинку, унесите ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирајте сачувану лозинку
+
+## Master Password notification
+
+master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Да бисте извезли ваше пријаве, унесите ваше Windows податке за пријаву. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = извезите сачуване пријаве и лозинке
-
-## Master Password notification
-
-master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
 
 ## Primary Password notification
 
@@ -166,12 +174,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
+
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
+
 about-logins-confirm-export-dialog-title = Извезите пријаве и лозинке
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
 about-logins-confirm-export-dialog-confirm-button = Извоз…
+
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
@@ -202,8 +213,10 @@ about-logins-vulnerable-alert-learn-more-link = Сазнајте више
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Унос { $loginTitle } са овим корисничким именом већ постоји. <a data-l10n-name="duplicate-link">Идите на постојећи унос?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Дошло је до грешке приликом покушаја чувања лозинке.
+
 
 ## Login Export Dialog
 

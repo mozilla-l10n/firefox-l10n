@@ -14,5 +14,7 @@ accounts-conn-security = Безбедност везе
 accounts-auth-method = Метода аутентификације
 accounts-default = Подразумевано?
 identity-name = Идентитет
+
 send-via-email = Пошаљи преко е-поште
+
 app-basics-telemetry = Подаци телеметрије

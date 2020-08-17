@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Архивирај">
 <!ENTITY hdrArchiveButton1.tooltip "Архивирај ову поруку">
-<!ENTITY hdrOpenConversationButton1.label "Разговор">
-<!ENTITY hdrOpenConversationButton1.tooltip "Прикажи разговор унутар ове поруке">
 <!ENTITY hdrSmartReplyButton1.label "Паметно одговори">
 <!ENTITY hdrReplyButton1.label "Одговори">
 <!ENTITY hdrReplyButton2.tooltip "Одговори пошиљаоцу ове поруке">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Одговори на дописну листу">
 <!ENTITY hdrFollowupButton1.label "Надовежи се">
 <!ENTITY hdrFollowupButton1.tooltip "Надовежи се на ову новинску групу">
-<!ENTITY hdrMenuForwardButton.label "Проследи као">
 <!ENTITY hdrForwardButton1.label "Проследи">
 <!ENTITY hdrForwardButton1.tooltip "Проследи ову поруку">
 <!ENTITY hdrJunkButton1.label "Непожељно">

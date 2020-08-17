@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Чаробњак за увоз
+
 import-from =
     { PLATFORM() ->
         [windows] Увези подешавања, забелешке, историјат, лозинке и друге податке из:
        *[other] Увези подешавања, забелешке, историјат, лозинке и друге податке из:
     }
+
 import-from-bookmarks = Увези забелешке из:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Није пронађен ниједан програм који садржи забелешке, историјат или лозинке.
+
 import-source-page-title = Увези подешавања и податке
 import-items-page-title = Ставке за увоз
+
 import-items-description = Изаберите ставке за увоз:
+
 import-migrating-page-title = Увоз…
+
 import-migrating-description = Наредне ставке се тренутно увозе…
+
 import-select-profile-page-title = Избор профила
+
 import-select-profile-description = Следеће профиле можете увести из:
+
 import-done-page-title = Увоз је завршен
+
 import-done-description = Следеће ставке су успешно увезене:
+
 import-close-source-browser = Затворите одабрани прегледач пре него што наставите.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Из { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Листа за читање (из Safari)
 imported-edge-reading-list = Листа за читање (из Edge)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = Колачићи
 browser-data-cookies-label =
     .value = Колачићи
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -109,10 +125,12 @@ browser-data-history-label =
             [firefox] Историја прегледања и обележивачи
            *[other] Историја прегледања
         }
+
 browser-data-formdata-checkbox =
     .label = Сачувани формулари
 browser-data-formdata-label =
     .value = Сачувани формулари
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -121,6 +139,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Сачуване пријаве и лозинке
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -135,10 +154,12 @@ browser-data-bookmarks-label =
             [edge] Омиљено
            *[other] Обележивачи
         }
+
 browser-data-otherdata-checkbox =
     .label = Остали подаци
 browser-data-otherdata-label =
     .label = Остали подаци
+
 browser-data-session-checkbox =
     .label = Прозори и језичци
 browser-data-session-label =

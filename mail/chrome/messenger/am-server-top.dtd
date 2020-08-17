@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "порука">
 <!ENTITY alwaysAuthenticate.label "Увек затражи идентификацију приликом повезивања на овај сервер">
 <!ENTITY alwaysAuthenticate.accesskey "в">
-<!ENTITY newsrcFilePath.label "newsrc датотека:">
-<!ENTITY newsrcPicker.label "Изаберите newsrc датотеку">
 <!ENTITY newsrcFilePath1.label "News.rc датотека:">
 <!ENTITY newsrcPicker1.label "Изабери News.rc датотеку">
 <!ENTITY abbreviate.label "Прикажи имена нових група у фасцикли за поруке као:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Напредно…">
 <!ENTITY advancedButton.accesskey "п">
 <!ENTITY serverDefaultCharset2.label "Подразумевано кодирање текста:">
-<!ENTITY localPath.label "Локална фасцикла:">
 <!ENTITY localPath1.label "Локална фасцикла:">
 <!ENTITY localFolderPicker.label "Изаберите локалну фасциклу">
 <!ENTITY browseFolder.label "Прегледај…">

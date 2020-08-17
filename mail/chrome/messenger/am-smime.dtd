@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Безбедност">
-<!ENTITY securityTab.label "Безбедност">
-<!ENTITY securityHeading.label "Да бисте примали и слали потписане или шифроване поруке, морате навести дигитални сертификат за потписивање и сертификат шифровања.">
-<!ENTITY encryptionGroupTitle.label "Шифровање">
-<!ENTITY encryptionChoiceLabel.label "Подразумевано подешавање шифровања приликом слања порука:">
-<!ENTITY neverEncrypt.label "Никада (немој користити шифровање)">
-<!ENTITY neverEncrypt.accesskey "Н">
-<!ENTITY alwaysEncryptMessage.label "Обавезно (порука се може послати само ако сви примаоци имају сертификате)">
-<!ENTITY alwaysEncryptMessage.accesskey "з">
-<!ENTITY encryptionCert.message "Користи овај сертификат да шифрујеш и дешифрујеш поруке које примим:">
-
 <!ENTITY e2eTitle.label "Шифровање с краја на крај">
-<!ENTITY e2eIntro.description "Да бисте слали шифроване или дигитално потписане поруке, потребно је да подесите начин шифровања, било OpenPGP или S/MIME.">
 <!ENTITY e2eLearnMore.label "Сазнајте више">
 
 <!ENTITY e2eEnc.description "Без шифровања с краја на крај, садржај ваших порука је доступан вашем мејл провајдеру и могуће је праћење.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Очисти">
 <!ENTITY encryption.certificate_clear.accesskey "т">
 <!ENTITY signingGroupTitle.label "Дигитално потписивање">
-<!ENTITY signMessage.label "Дигитално потпиши поруке (подразумевано)">
 <!ENTITY signMessage2.label "Подразумевано додај мој дигитални потпис">
 <!ENTITY signMessage.accesskey "Д">
-<!ENTITY signingCert.message "Користи овај сертификат за дигитално потписивање порука које шаљем:">
-
-<!ENTITY certificates.label "Сертификати">
-<!ENTITY manageCerts2.label "Управљај сертификатима">
-<!ENTITY manageCerts2.accesskey "У">
-<!ENTITY manageDevices.label "Безбедносни уређаји">
-<!ENTITY manageDevices.accesskey "ј">
 
 <!ENTITY signingCert2.message "Лични сертификат за дигитално потписивање:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Дај предност OpenPGP-у">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Управљај OpenPGP кључевима">
-<!ENTITY manageKeys.accesskey "к">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Изабери сертификат">

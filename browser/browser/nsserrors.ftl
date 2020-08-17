@@ -2,20 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Дошло је до грешке при повезивању на { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код грешке: { $error }
+
 psmerr-ssl-disabled = Није могуће безбедно повезивање јер је протокол SSL искључен.
 psmerr-ssl2-disabled = Није могуће безбедно се повезати јер сајт користи старије, небезбедно издање SSL протокола.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Примили сте неисправан сертификат. Обавестите администратора сервера или надлежне о следећем:
     
     Ваш сертификат садржи исти серијски број као још неки сертификат издат од стране сертификационог тела. Набавите нови сертификат са јединственим серијским бројем.
+
 ssl-error-export-only-server = Није могућа безбедна комуникација. Удаљени рачунар не подржава шифровање високе категорије.
 ssl-error-us-only-server = Није могућа безбедна комуникација. Удаљени рачунар захтева шифровање високе категорије које није подржано.
 ssl-error-no-cypher-overlap = Није могуће безбедна комуникација са удаљеним рачунаром: Нема заједничких алгоритама за шифровање.

@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Откажи
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Оштећује мој рачунар и податке
-
 abuse-report-damage-reason-v2 = Оштетило је мој рачунар или угрозило моје податке
 abuse-report-damage-example = Пример: убризгани злонамерни програм тј. malware или украдени подаци
 
-abuse-report-spam-reason = Ствара нежељену пошту тј. spam или рекламе
-
 abuse-report-spam-reason-v2 = Садржи нежељен садржај или убацује непожељне рекламе
 abuse-report-spam-example = Пример: умеће рекламе на веб странице
-
-abuse-report-settings-reason = Променио је мој претраживач, почетну страницу или нови језичак без обавештења или моје дозволе
 
 abuse-report-settings-reason-v2 = Променило је мој претраживач, почетну страницу или нови језичак без обавештења или мог допуштења
 abuse-report-settings-suggestions = Пре пријављивања проширења можете покушати да промените подешавања:
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и нови језичак
 
-abuse-report-deceptive-reason = Претвара се да је нешто што није
-
 abuse-report-deceptive-reason-v2 = Тврди да је нешто што није
 abuse-report-deceptive-example = Пример: обмањујући опис или слике
-
-abuse-report-broken-reason-extension = Не ради, квари веб странице или успорава { -brand-product-name }
-abuse-report-broken-reason-theme = Не ради или квари приказ прегледача
 
 abuse-report-broken-reason-extension-v2 = Не ради, слама странице или успорава { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Не ради или слама приказ прегледача
@@ -99,12 +88,8 @@ abuse-report-broken-suggestions-theme =
     да решите проблем са функционалношћу је да контактирате програмера теме.
     <a data-l10n-name="support-link">Посетите страницу теме</a> да бисте добили податке о програмеру.
 
-abuse-report-policy-reason = Садржај мржње или насиља и илегалан садржај
-
 abuse-report-policy-reason-v2 = Садржи мржњу, насилан или илегалан садржај
 abuse-report-policy-suggestions = Напомена: проблеми са ауторским правима и заштитним знаковима морају бити пријављени у одвојеном процесу. <a data-l10n-name="report-infringement-link">Користите ова упутства</a> да пријавите проблем.
-
-abuse-report-unwanted-reason = Никад нисам желео/ла ово проширење и не могу га се решити
 
 abuse-report-unwanted-reason-v2 = Никад га нисам желео/ла и не знам како да га се решим
 abuse-report-unwanted-example = Пример: апликација је инсталирала проширење без моје дозволе

@@ -2,62 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title = О умрежавању
-warning = Ово је веома експериментално. Не користите без надзора родитеља.
-show-next-time-checkbox = Прикажи ово упозорење следећи пут
-ok = У реду
-http = HTTP
-sockets = Sockets
-dns = DNS
-websockets = WebSockets
-refresh = Освежи
-auto-refresh = Аутоматски освежи сваке 3 секунде
-hostname = Име сервера
-port = Порт
-http2 = HTTP/2
-ssl = SSL
-active = Активно
-idle = Чекање
-host = Хост
-tcp = TCP
-sent = Послато
-received = Примљено
-family = Породица
-trr = TRR
-addresses = Адресе
-expires = Истиче (секунде)
-messages-sent = Поруке послате
-messages-received = Поруке примљене
-bytes-sent = Бајтова послато
-bytes-received = Бајтова примљено
-logging = Бележење
-log-tutorial = Погледајте <a data-l10n-name="logging">HTTP бележење</a> за инструкције о коришћењу овог алата.
-current-log-file = Тренутна датотека за бележење:
-current-log-modules = Тренутни модули за бележење:
-set-log-file = Подеси датотеку за бележење
-set-log-modules = Подеси модуле за бележење
-start-logging = Покрени бележење
-stop-logging = Заустави бележење
-dns-lookup = DNS Lookup
-dns-lookup-button = Решити
-dns-domain = Домен:
-dns-lookup-table-column = IP адресе
-rcwn = RCWN статистика
-rcwn-status = RCWN стање
-rcwn-cache-won-count = Кеш је победио
-rcwn-net-won-count = Net је победио
-total-network-requests = Укупан број мрежних захтева
-rcwn-operation = Кеш операције
-rcwn-perf-open = Отвори
-rcwn-perf-read = Читај
-rcwn-perf-write = Пиши
-rcwn-perf-entry-open = Унос отворен
-rcwn-avg-short = Кратка просечна
-rcwn-avg-long = Дужа просечна
-rcwn-std-dev-long = Дугачко подразумевано одступање
-rcwn-cache-slow = Број успореног кеша
-rcwn-cache-not-slow = Брз неуспореног кеша
-
 about-networking-title = О умрежавању
 about-networking-http = HTTP
 about-networking-sockets = Sockets

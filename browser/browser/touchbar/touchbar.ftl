@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Изађи из приказа преко целог 
 find = Нађи
 new-tab = Нови језичак
 add-bookmark = Додај забелешку
-open-bookmarks-sidebar = Отвори палету са забелешкама
 reader-view = Приказ читача
 # Meant to match the string displayed in an empty URL bar.
 open-location = Претражите или унесите адресу
