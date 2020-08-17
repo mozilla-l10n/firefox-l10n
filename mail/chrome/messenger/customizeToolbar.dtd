@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ícones ao lado do texto">
 <!ENTITY useSmallIcons.label      "Usar ícones pequenos">
 <!ENTITY restoreDefaultSet.label  "Restaurar configuração padrão">
-<!ENTITY addNewToolbar.label      "Adicionar nova barra de ferramentas">
-<!ENTITY showTitlebar.label       "Mostrar barra de título">
-<!ENTITY extraDragSpace.label     "Adicionar espaço para onde arrastar">
 <!ENTITY showTitlebar2.label      "Barra de titulo">
 <!ENTITY extraDragSpace2.label    "Borda de janela">
 <!ENTITY saveChanges.label        "Concluído">

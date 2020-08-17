@@ -16,12 +16,15 @@ openpgp-one-recipient-status-open-details =
     .label = Abrir detalhes e editar aceitação…
 openpgp-one-recipient-status-discover =
     .label = Descobrir chave nova ou atualizada
+
 openpgp-one-recipient-status-instruction1 = Para enviar uma mensagem criptografada de ponta a ponta para um destinatário, você precisa obter a chave pública OpenPGP e marcar como aceita.
 openpgp-one-recipient-status-instruction2 = Para obter a chave pública deles, importe do e-mail que eles enviaram para você e que inclui a chave. Como alternativa, você pode tentar descobrir a chave pública deles em um diretório.
+
 openpgp-key-own = Aceita (chave pessoal)
 openpgp-key-secret-not-personal = Não usável
 openpgp-key-verified = Aceita (confirmada)
 openpgp-key-unverified = Aceita (não confirmada)
 openpgp-key-undecided = Não aceita (pendente)
 openpgp-key-rejected = Não aceita (rejeitada)
+
 openpgp-intro = Chaves públicas disponíveis de { $key }

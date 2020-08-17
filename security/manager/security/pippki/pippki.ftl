@@ -8,8 +8,10 @@ password-quality-meter = Medidor de qualidade da senha
 
 change-password-window =
     .title = Alterar senha mestra
+
 change-device-password-window =
     .title = Alterar senha
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de segurança: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Confirmar a nova senha:
 reset-password-window =
     .title = Redefinir senha mestra
     .style = width: 40em
+
 pippki-failed-pw-change = Não foi possível alterar a senha.
 pippki-incorrect-pw = Você não digitou corretamente a senha atual. Tente novamente.
 pippki-pw-change-ok = Senha alterada com sucesso.
+
 pippki-pw-empty-warning = Suas senhas e chaves privadas armazenadas não estarão protegidas.
 pippki-pw-erased-ok = Você excluiu sua senha. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Atenção! Você decidiu não usar uma senha. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Você está no momento no modo FIPS. O modo FIPS exige uma senha não vazia.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Redefinir
 reset-password-text = Se redefinir a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privadas serão esquecidas. Tem certeza que quer redefinir sua senha mestra?
+
 reset-primary-password-text = Se você redefinir a senha principal, todas as suas senhas de sites e e-mails, chaves privadas e certificados pessoais armazenados serão esquecidos. Tem certeza que quer redefinir sua senha principal?
+
 pippki-reset-password-confirmation-title = Redefinir senha principal
 pippki-reset-password-confirmation-message = Sua senha principal foi redefinida.
 

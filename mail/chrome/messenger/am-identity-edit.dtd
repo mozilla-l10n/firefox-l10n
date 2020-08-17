@@ -5,11 +5,6 @@
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
-<!ENTITY identityDialog.style "min-width: 75ch;">
-
-<!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
-     equal to the value of accountManager.size entity minus the value
-     of accountTree.width entity. -->
 <!ENTITY identityListDesc.label "Configurar as opções desta identidade:">
 
 <!ENTITY settingsTab.label       "Configurações">

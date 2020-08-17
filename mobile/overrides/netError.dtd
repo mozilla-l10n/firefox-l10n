@@ -69,13 +69,6 @@
 <!ENTITY notCached.longDesc '<p>O documento solicitado não está mais no cache do &brandShortName;.</p><ul><li>Como medida de segurança, o &brandShortName; não solicita de novo automaticamente documentos contendo informações confidenciais.</li><li>Clique em "Tentar novamente" para solicitar mais uma vez o documento do site.</li></ul>'>
 
 <!ENTITY netOffline.title "Modo off-line">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Tentar novamente. O &brandShortName; tentará abrir uma conexão e recarregar a página. 
-<button id='wifi'>Ativar Wi-Fi</button> 
-</li> 
-</ul>">
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "

@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editar">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Desfazer">
-<!ENTITY undoCmd.key                                    "z">
-<!ENTITY undoCmd.accesskey                              "D">
-<!ENTITY redoCmd.label                                  "Refazer">
-<!ENTITY redoCmd.key                                    "y">
-<!ENTITY redoCmd.accesskey                              "R">
-<!ENTITY cutCmd.label                                   "Recortar">
-<!ENTITY cutCmd.key                                     "x">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copiar">
-<!ENTITY copyCmd.key                                    "c">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Colar">
-<!ENTITY pasteCmd.key                                   "v">
-<!ENTITY pasteCmd.accesskey                             "o">
 <!ENTITY deleteCmd.label                                "Excluir">
-<!ENTITY deleteCmd.accesskey                            "x">
 <!ENTITY deleteAbCmd.label                              "Excluir o catálogo de endereços">
 <!ENTITY deleteContactCmd.label                         "Excluir o contato">
 <!ENTITY deleteContactsCmd.label                        "Excluir os contatos">
 <!ENTITY deleteListCmd.label                            "Excluir a lista">
 <!ENTITY deleteListsCmd.label                           "Excluir as listas">
 <!ENTITY deleteItemsCmd.label                           "Excluir os itens">
-<!ENTITY selectAllCmd.label                             "Selecionar tudo">
-<!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "F">
-<!ENTITY selectAllCmd.accesskey                         "S">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Inverter Nome/Sobrenome">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "I">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Propriedades">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

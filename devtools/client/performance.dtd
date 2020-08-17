@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "O nome o local do código-fonte da função amostrada.">
 <!ENTITY performanceUI.table.totalAlloc               "Total de alocações amostradas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "O número total de alocações de objetos amostradas neste local e em chamadas.">
-<!ENTITY performanceUI.table.selfAlloc                "Alocações próprias amostradas">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "O número de alocações de objetos amostradas neste local.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

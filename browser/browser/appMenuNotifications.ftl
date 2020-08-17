@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Gerencie extensões clicando em <image data
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir esta extensão em janelas privativas
     .accesskey = P
-appmenu-addon-private-browsing =
-    .label = Alteração de extensões em janelas privativas
-    .buttonlabel = Gerenciar extensões
-    .buttonaccesskey = G
-    .secondarybuttonlabel = OK, entendi
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Qualquer nova extensão que você adicionar ao { -brand-shorter-name } não funcionará em janelas privativas, a menos que permita isso nas configurações.
-appmenu-addon-private-browsing-learn-more = Saiba como gerenciar configurações de extensões.
     
 appmenu-new-tab-controlled =
     .label = Sua nova aba foi alterada.

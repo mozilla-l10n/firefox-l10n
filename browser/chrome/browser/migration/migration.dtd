@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importar opções, favoritos, histórico, senhas e outros dados do:">
 <!ENTITY importFromUnix.label           "Importar preferências, favoritos, histórico, senhas e outros dados do:">
-<!ENTITY importFromBookmarks.label      "Importar favoritos do:">
 
 <!ENTITY importFromIE.label             "Internet Explorer">
 <!ENTITY importFromIE.accesskey         "I">

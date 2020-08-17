@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Assistente de importação
+
 import-from =
     { PLATFORM() ->
         [windows] Importar opções, favoritos, histórico, senhas e outros dados do:
        *[other] Importar preferências, favoritos, histórico, senhas e outros dados do:
     }
+
 import-from-bookmarks = Importar favoritos do:
 import-from-ie =
     .label = Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Não foi encontrado nenhum programa com informações de favoritos, histórico ou senhas.
+
 import-source-page-title = Importar dados e configurações
 import-items-page-title = Itens a importar
+
 import-items-description = Selecione que itens importar:
+
 import-migrating-page-title = Importando…
+
 import-migrating-description = Estes itens estão sendo importados…
+
 import-select-profile-page-title = Selecionar perfil
+
 import-select-profile-description = Estes perfis estão disponíveis para importação:
+
 import-done-page-title = Importação concluída
+
 import-done-description = Estes itens foram importados com êxito:
+
 import-close-source-browser = Certifique-se de que o navegador selecionado esteja fechado antes de continuar.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Do { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Lista de leitura (do Safari)
 imported-edge-reading-list = Lista de leitura (do Edge)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -109,10 +125,12 @@ browser-data-history-label =
             [firefox] Histórico de navegação e favoritos
            *[other] Histórico de navegação
         }
+
 browser-data-formdata-checkbox =
     .label = Histórico de formulários salvo
 browser-data-formdata-label =
     .value = Histórico de formulários salvo
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -121,6 +139,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Contas e senhas salvas
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -135,10 +154,12 @@ browser-data-bookmarks-label =
             [edge] Favoritos
            *[other] Favoritos
         }
+
 browser-data-otherdata-checkbox =
     .label = Outros dados
 browser-data-otherdata-label =
     .label = Outros dados
+
 browser-data-session-checkbox =
     .label = Janelas e abas
 browser-data-session-label =

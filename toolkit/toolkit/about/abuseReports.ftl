@@ -60,30 +60,19 @@ abuse-report-messagebar-action-cancel = Cancelar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Danifica meu computador ou meus dados
-
 abuse-report-damage-reason-v2 = Danificou meu computador ou comprometeu meus dados
 abuse-report-damage-example = Exemplo: injetou código malicioso ou roubou dados
 
-abuse-report-spam-reason = Cria spam ou propaganda
-
 abuse-report-spam-reason-v2 = Contém spam ou insere publicidade indesejada
 abuse-report-spam-example = Exemplo: insere anúncios em páginas web
-
-abuse-report-settings-reason = Mudou meu mecanismo de pesquisa, página inicial, ou página de nova aba sem me perguntar ou me informar
 
 abuse-report-settings-reason-v2 = Mudou meu mecanismo de pesquisa, página inicial ou página de nova aba, sem me informar ou me perguntar
 abuse-report-settings-suggestions = Antes de denunciar a extensão, você pode tentar alterar suas configurações:
 abuse-report-settings-suggestions-search = Muda sua configuração de pesquisa padrão
 abuse-report-settings-suggestions-homepage = Muda a página inicial e a página de nova aba
 
-abuse-report-deceptive-reason = Finge ser o que não é
-
 abuse-report-deceptive-reason-v2 = Alega ser algo que não é
 abuse-report-deceptive-example = Exemplo: descrição ou imagens enganosas
-
-abuse-report-broken-reason-extension = Não funciona, atrapalha sites, ou faz o { -brand-product-name } ficar mais lento
-abuse-report-broken-reason-theme = Não funciona ou atrapalha a exibição do navegador
 
 abuse-report-broken-reason-extension-v2 = Não funciona, atrapalha sites, ou faz o { -brand-product-name } ficar mais lento
 abuse-report-broken-reason-theme-v2 = Não funciona ou atrapalha a exibição do navegador
@@ -97,14 +86,10 @@ abuse-report-broken-suggestions-theme =
     ter um problema de funcionalidade resolvido é entrar em contato com o desenvolvedor do tema.
     <a data-l10n-name="support-link">Visite o site do tema</a> para obter informações do desenvolvedor.
 
-abuse-report-policy-reason = Conteúdo de ódio, violência ou ilegal
-
 abuse-report-policy-reason-v2 = Contém conteúdo de ódio, violento ou ilegal
 abuse-report-policy-suggestions =
     Nota: Problemas de direitos autorais (copyright) e marcas registradas (trademark) devem ser relatados em um processo diferente.
     <a data-l10n-name="report-infringement-link">Siga essas instruções</a> para relatar um problema.
-
-abuse-report-unwanted-reason = Nunca quis esta extensão e não consigo me livrar dela
 
 abuse-report-unwanted-reason-v2 = Eu nunca quis e não sei como me livrar disso
 abuse-report-unwanted-example = Exemplo: uma aplicação instalou sem minha permissão

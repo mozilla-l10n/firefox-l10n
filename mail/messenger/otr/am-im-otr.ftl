@@ -20,4 +20,6 @@ otr-requireEncryption =
 otr-require-encryption-info = Ao exigir criptografia de ponta a ponta, mensagens em conversas individuais não são enviadas, a menos que possam ser criptografadas. Mensagens não criptografadas recebidas não são mostradas como parte da conversa normal e também não são registradas em log.
 otr-verifyNudge =
     .label = Sempre me lembrar de verificar um contato não verificado
+
 otr-notYetAvailable = ainda não disponível
+
