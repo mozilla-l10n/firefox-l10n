@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Vložte prosím platný název serveru
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Výjimky z blokování obsahu
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Na následujících serverech jste vypnuli funkci blokování obsahu.
-
 permissions-exceptions-etp-window =
     .title = Výjimky pro používání rozšířené ochrany proti sledování
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Zde můžete určit, které servery mohou instalovat doplňky. Zadejte přesnou adresu serveru a klepněte na tlačítko Povolit.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Servery, které mohou automaticky přehrávat média
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Zde můžete určit, které servery mohou automaticky spouštět přehrávání médií se zvukem. Zadejte adresu serveru a klepněte na tlačítko Blokovat nebo Povolit.
 
 ## Site Permissions - Autoplay
 

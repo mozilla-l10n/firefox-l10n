@@ -521,17 +521,6 @@
 <!ENTITY errorConsoleCmd.label "Chybová konzole">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Zápisník">
-<!ENTITY scratchpadCmd.accesskey "Z">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Přijmout zprávy">
@@ -585,7 +574,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Přepošle označenou zprávu jako přílohu">
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY archiveButton.tooltip "Archivovat označené zprávy">
-<!ENTITY openConversationButton.tooltip "Zobrazit konverzaci k vybrané zprávě">
 <!ENTITY openMsgConversationButton.tooltip "Zobrazit konverzaci k vybrané zprávě">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
 <!ENTITY nextMsgButton.tooltip "Přejde na další zprávu">

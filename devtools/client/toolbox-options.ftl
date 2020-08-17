@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Povolit vzdálené ladění
-options-enable-remote-tooltip =
-    .title = Zapnutí umožní použít nástroje pro vývojáře k ladění vzdálené instance, např. Firefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Povolit Service Workers přes HTTP (když jsou nástroje otevřeny)

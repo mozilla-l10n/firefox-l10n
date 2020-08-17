@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivovat">
 <!ENTITY hdrArchiveButton1.tooltip "Archivuje tuto zprávu">
-<!ENTITY hdrOpenConversationButton1.label "Konverzace">
-<!ENTITY hdrOpenConversationButton1.tooltip "Zobrazit konverzaci k vybrané zprávě">
 <!ENTITY hdrSmartReplyButton1.label "Odpovědět chytře">
 <!ENTITY hdrReplyButton1.label "Odpovědět">
 <!ENTITY hdrReplyButton2.tooltip "Odpoví odesilateli této zprávy">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Odpoví na zprávu do e-mailové konference">
 <!ENTITY hdrFollowupButton1.label "Odpovědět">
 <!ENTITY hdrFollowupButton1.tooltip "Zašle odpověď to této diskusní skupiny">
-<!ENTITY hdrMenuForwardButton.label "Přeposlat jako">
 <!ENTITY hdrForwardButton1.label "Přeposlat">
 <!ENTITY hdrForwardButton1.tooltip "Přepošle tuto zprávu">
 <!ENTITY hdrJunkButton1.label "Nevyžádaná pošta">

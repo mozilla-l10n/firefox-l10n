@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Uložit jako…
     .accesskey = a
-media-preview =
-    .value = Náhled:
 
 perm-tab =
     .label = Oprávnění
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ano, cookies
 security-site-data-no = Ne
 
 image-size-unknown = Neznámý
-not-set-verified-by = Neurčeno
 page-info-not-specified =
     .value = Neurčeno
 not-set-alternative-text = Neurčeno
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Režim zpětné kompatibility
 general-strict-mode =
     .value = Režim platných standardů
-security-no-owner = Tato stránka neposkytuje informace o vlastníkovi
 page-info-security-no-owner =
     .value = Tato stránka neposkytuje informace o vlastníkovi
 media-select-folder = Zvolte složku pro uložení obrázků

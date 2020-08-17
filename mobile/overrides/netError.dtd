@@ -75,15 +75,6 @@
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument už není dostupný v mezipaměti aplikace &brandShortName;.</p><ul><li>Z bezpečnostních důvodů &brandShortName; automaticky nestahuje důvěrné dokumenty.</li><li>Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Zkute to znovu. &brandShortName; se pokusí otevřít spojení a obnovit stránku.
-    <button id='wifi'>Povolit Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Chyba znakové sady obsahu">
 <!ENTITY contentEncodingError.longDesc "

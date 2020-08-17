@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Nastavení existujícího e-mailového účtu">
-
 <!ENTITY emailWizard.title               "Nastavit existující e-mailový účet">
 <!ENTITY emailWizard.caption             "Použít existující e-mailovou adresu">
 <!ENTITY name.label                      "Vaše jméno:">
 <!ENTITY name.accesskey                  "V">
-<!ENTITY name.placeholder                "Jméno Příjmení">
 <!ENTITY fullname.placeholder            "Vaše celé jméno">
 <!ENTITY name.text                       "Vaše jméno tak, jak se bude zobrazovat ostatním.">
 <!ENTITY name.error                      "Prosím vložte své jméno">
 <!ENTITY email.label                     "E-mailová adresa:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "vase-adresa@example.com">
 <!ENTITY email3.placeholder              "Vaše e-mailová adresa">
 <!ENTITY email.text                      "Vaše stávající e-mailová adresa">
 <!ENTITY email.error                     "Neplatná e-mailová adresa">
@@ -42,9 +37,6 @@
 <!ENTITY outgoing.label                  "Odchozí:">
 <!ENTITY outgoingColumn.label            "Odchozí">
 <!ENTITY username.label                  "Uživatelské jméno:">
-<!ENTITY hostname.label                  "Název serveru">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -78,8 +70,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Znovu otestovat">
 <!ENTITY half-manual-test.accesskey      "Z">
-<!ENTITY manual-edit.label               "Ruční nastavení">
-<!ENTITY manual-edit.accesskey           "u">
 <!ENTITY manual-config.label             "Nastavit ručně…">
 <!ENTITY open-provisioner.label          "Získat novou e-mailovou adresu…">
 <!ENTITY open-provisioner.accesskey      "n">
