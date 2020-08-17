@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiver">
 <!ENTITY hdrArchiveButton1.tooltip "Archiver ce message">
-<!ENTITY hdrOpenConversationButton1.label "Conversation">
-<!ENTITY hdrOpenConversationButton1.tooltip "Afficher la conversation de ce message">
 <!ENTITY hdrSmartReplyButton1.label "Répondre (contextuel)">
 <!ENTITY hdrReplyButton1.label "Répondre">
 <!ENTITY hdrReplyButton2.tooltip "Répondre à l’expéditeur du message">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Répondre à la liste de diffusion">
 <!ENTITY hdrFollowupButton1.label "Répondre au groupe">
 <!ENTITY hdrFollowupButton1.tooltip "Faire suivre à ce groupe">
-<!ENTITY hdrMenuForwardButton.label "Transférer au format">
 <!ENTITY hdrForwardButton1.label "Transférer">
 <!ENTITY hdrForwardButton1.tooltip "Transférer ce message">
 <!ENTITY hdrJunkButton1.label "Indésirable">

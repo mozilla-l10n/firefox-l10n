@@ -4,127 +4,183 @@
 
 certmgr-title =
     .title = Gestionnaire de certificats
+
 certmgr-tab-mine =
     .label = Vos certificats
+
 certmgr-tab-remembered =
     .label = Décisions d’authentification
+
 certmgr-tab-people =
     .label = Personnes
+
 certmgr-tab-servers =
     .label = Serveurs
+
 certmgr-tab-ca =
     .label = Autorités
+
 certmgr-mine = Vous possédez des certificats de ces organisations qui vous identifient
 certmgr-remembered = Ces certificats sont utilisés pour vous identifier sur les sites web
 certmgr-people = Vous possédez des certificats enregistrés identifiant ces personnes
 certmgr-servers = Vous possédez des certificats enregistrés identifiant ces serveurs
 certmgr-ca = Vous possédez des certificats enregistrés identifiant ces autorités de certification
+
 certmgr-detail-general-tab-title =
     .label = Général
     .accesskey = G
+
 certmgr-detail-pretty-print-tab-title =
     .label = Détails
     .accesskey = D
+
 certmgr-pending-label =
     .value = Vérification des certificats en cours…
+
 certmgr-subject-label = Émis pour
+
 certmgr-issuer-label = Émis par
+
 certmgr-period-of-validity = Période de validité
+
 certmgr-fingerprints = Empreintes numériques
+
 certmgr-cert-detail =
     .title = Détails du certificat
     .buttonlabelaccept = Fermer
     .buttonaccesskeyaccept = F
+
 certmgr-cert-detail-commonname = Nom commun (CN)
+
 certmgr-cert-detail-org = Organisation (O)
+
 certmgr-cert-detail-orgunit = Unité d’organisation (OU)
+
 certmgr-cert-detail-serial-number = Numéro de série
+
 certmgr-cert-detail-sha-256-fingerprint = Empreinte numérique SHA-256
+
 certmgr-cert-detail-sha-1-fingerprint = Empreinte numérique SHA1
+
 certmgr-edit-ca-cert =
     .title = Édition des paramètres de confiance de l’autorité de certification (CA)
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Modifier les paramètres de confiance :
+
 certmgr-edit-cert-trust-ssl =
     .label = Ce certificat peut identifier des sites web.
+
 certmgr-edit-cert-trust-email =
     .label = Ce certificat peut identifier des utilisateurs de courrier électronique.
+
 certmgr-delete-cert =
     .title = Suppression d’un certificat
     .style = width: 48em; height: 24em;
+
 certmgr-cert-host =
     .label = Hôte
+
 certmgr-cert-name =
     .label = Nom du certificat
+
 certmgr-cert-server =
     .label = Serveur
+
 certmgr-override-lifetime =
     .label = Durée de vie
+
 certmgr-token-name =
     .label = Périphérique de sécurité
+
 certmgr-begins-on = Débute le
+
 certmgr-begins-label =
     .label = Débute le
+
 certmgr-expires-on = Expire le
+
 certmgr-expires-label =
     .label = Expire le
+
 certmgr-email =
     .label = Adresse électronique
+
 certmgr-serial =
     .label = Numéro de série
+
 certmgr-view =
     .label = Voir…
     .accesskey = V
+
 certmgr-edit =
     .label = Modifier la confiance…
     .accesskey = M
+
 certmgr-export =
     .label = Exporter…
     .accesskey = x
+
 certmgr-delete =
     .label = Supprimer…
     .accesskey = S
+
 certmgr-delete-builtin =
     .label = Supprimer ou ne plus faire confiance…
     .accesskey = S
+
 certmgr-backup =
     .label = Sauvegarder…
     .accesskey = e
+
 certmgr-backup-all =
     .label = Tout sauvegarder…
     .accesskey = T
+
 certmgr-restore =
     .label = Importer…
     .accesskey = I
+
 certmgr-details =
     .value = Champs du certificat
     .accesskey = C
+
 certmgr-fields =
     .value = Valeur du champ
     .accesskey = l
+
 certmgr-hierarchy =
     .value = Hiérarchie des certificats
     .accesskey = H
+
 certmgr-add-exception =
     .label = Ajouter une exception…
     .accesskey = u
+
 exception-mgr =
     .title = Ajout d’une exception de sécurité
+
 exception-mgr-extra-button =
     .label = Confirmer l’exception de sécurité
     .accesskey = C
+
 exception-mgr-supplemental-warning = Les banques, magasins et autres sites web publics légitimes ne vous demanderont pas de faire cela.
+
 exception-mgr-cert-location-url =
     .value = Adresse :
+
 exception-mgr-cert-location-download =
     .label = Obtenir le certificat
     .accesskey = O
+
 exception-mgr-cert-status-view-cert =
     .label = Voir…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Conserver cette exception de façon permanente
     .accesskey = S
+
 pk11-bad-password = Le mot de passe PK11 est incorrect.
 pkcs12-decode-err = Échec de décodage du fichier. Soit il n’est pas au format PKCS#12, soit il est corrompu, ou le mot de passe est incorrect.
 pkcs12-unknown-err-restore = Échec de récupération du fichier PKCS#12 pour une raison inconnue.
@@ -157,18 +213,24 @@ delete-user-cert-title =
     .title = Suppression de certificats
 delete-user-cert-confirm = Voulez-vous vraiment supprimer ces certificats ?
 delete-user-cert-impact = Si vous supprimez un de vos certificats, vous ne pourrez plus l’utiliser pour vous identifier vous-même.
+
+
 delete-ssl-cert-title =
     .title = Suppression des exceptions de certificats de serveur
 delete-ssl-cert-confirm = Voulez-vous vraiment supprimer ces exceptions de serveurs ?
 delete-ssl-cert-impact = Si vous supprimez une exception de serveur, vous restaurez les vérifications de sécurité usuelles pour ce serveur et demandez qu’il utilise un certificat valide.
+
 delete-ca-cert-title =
     .title = Supprimer ou ne plus faire confiance à des certificats d’AC
 delete-ca-cert-confirm = Vous avez demandé de supprimer ces certificats d’AC. S’il s’agit de certificats intégrés, aucune confiance ne leur sera plus accordée, ce qui a le même effet. Voulez-vous vraiment supprimer ces certificats ou ne plus leur faire confiance ?
 delete-ca-cert-impact = Si vous supprimez une autorité de certification (AC) ou cessez de lui faire confiance, l’application ne fera plus confiance à aucun certificat fourni par cette autorité.
+
+
 delete-email-cert-title =
     .title = Suppression de certificats de courrier
 delete-email-cert-confirm = Voulez-vous vraiment supprimer les certificats de courrier de ces personnes ?
 delete-email-cert-impact = Si vous supprimez le certificat de courrier d’une personne, vous ne pourrez plus envoyer de courrier chiffré à la personne qui lui est associée.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -184,21 +246,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Détails du certificat : « { $certName } »
+
 not-present =
     .value = <Ne fait pas partie du certificat>
+
 # Cert verification
 cert-verified = Ce certificat a été vérifié pour les utilisations suivantes :
+
 # Add usage
 verify-ssl-client =
     .value = Certificat client SSL
+
 verify-ssl-server =
     .value = Certificat serveur SSL
+
 verify-ssl-ca =
     .value = Autorité de certification SSL
+
 verify-email-signer =
     .value = Certificat de signature de courrier
+
 verify-email-recip =
     .value = Certificat de réception de courrier
+
 # Cert verification
 cert-not-verified-cert-revoked = Impossible de vérifier ce certificat car il a été révoqué.
 cert-not-verified-cert-expired = Impossible de vérifier ce certificat car il a expiré.
@@ -208,6 +278,7 @@ cert-not-verified-issuer-unknown = Impossible de vérifier ce certificat car l�
 cert-not-verified-ca-invalid = Impossible de vérifier ce certificat car le certificat d’AC n’est pas valide.
 cert-not-verified_algorithm-disabled = Impossible de vérifier ce certificat car il a été signé à l’aide d’un algorithme de signature qui a été désactivé car cet algorithme n’est pas sécurisé.
 cert-not-verified-unknown = Impossible de vérifier ce certificat pour une raison inconnue.
+
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Ne pas envoyer de certificat client
 

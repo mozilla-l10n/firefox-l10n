@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Quitter le mode plein écran
 find = Rechercher
 new-tab = Nouvel onglet
 add-bookmark = Ajouter un marque-page
-open-bookmarks-sidebar = Ouvrir le panneau des marque-pages
 reader-view = Mode lecture
 # Meant to match the string displayed in an empty URL bar.
 open-location = Rechercher ou saisir une adresse

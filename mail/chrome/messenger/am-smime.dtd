@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Sécurité">
-<!ENTITY securityTab.label "Sécurité">
-<!ENTITY securityHeading.label "Pour envoyer et recevoir des messages signés ou chiffrés, il est nécessaire de spécifier à la fois un certificat de signature numérique et un certificat de chiffrement.">
-<!ENTITY encryptionGroupTitle.label "Chiffrement">
-<!ENTITY encryptionChoiceLabel.label "Utiliser le chiffrement pour l’envoi des messages :">
-<!ENTITY neverEncrypt.label "Jamais">
-<!ENTITY neverEncrypt.accesskey "J">
-<!ENTITY alwaysEncryptMessage.label "Toujours chiffrer les messages">
-<!ENTITY alwaysEncryptMessage.accesskey "T">
-<!ENTITY encryptionCert.message "Certificat personnel pour chiffrer et déchiffrer les messages envoyés :">
-
 <!ENTITY e2eTitle.label "Chiffrement de bout en bout">
-<!ENTITY e2eIntro.description "Pour envoyer des messages chiffrés ou signés numériquement, vous devez configurer une technologie de chiffrement, soit OpenPGP ou S/MIME.">
 <!ENTITY e2eLearnMore.label "En savoir plus">
 
 <!ENTITY e2eEnc.description "Sans chiffrement de bout en bout, le contenu des messages est facilement exposé à votre fournisseur de messagerie et à une surveillance de masse.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Effacer">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Signature">
-<!ENTITY signMessage.label "Signer les messages numériquement">
 <!ENTITY signMessage2.label "Ajouter ma signature numérique par défaut">
 <!ENTITY signMessage.accesskey "n">
-<!ENTITY signingCert.message "Certificat personnel pour signer numériquement les messages envoyés :">
-
-<!ENTITY certificates.label "Certificats">
-<!ENTITY manageCerts2.label "Gérer les certificats">
-<!ENTITY manageCerts2.accesskey "G">
-<!ENTITY manageDevices.label "Périphériques de sécurité">
-<!ENTITY manageDevices.accesskey "P">
 
 <!ENTITY signingCert2.message "Certificat personnel pour la signature numérique :">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Privilégier OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Gestion des clés OpenPGP">
-<!ENTITY manageKeys.accesskey "c">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sélectionner un certificat">

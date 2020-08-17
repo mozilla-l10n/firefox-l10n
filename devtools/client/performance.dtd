@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Le nom et l’emplacement de la source de la fonction échantillonnée.">
 <!ENTITY performanceUI.table.totalAlloc               "Allocations totales">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Le nombre total d’allocations d’objets échantillonnés à cet endroit et dans les appels.">
-<!ENTITY performanceUI.table.selfAlloc                "Allocations individuelles">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Le nombre d’allocations d’objets échantillonnés à cet endroit.">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

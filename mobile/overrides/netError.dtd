@@ -73,16 +73,6 @@
 <!ENTITY notCached.longDesc "<p>Le document demandé n’est plus disponible dans le cache de &brandShortName;.</p><ul><li>Par mesure de sécurité, &brandShortName; ne redemande pas automatiquement de documents sensibles.</li><li>Cliquez sur Réessayer pour redemander ce document depuis le site web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode hors connexion">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>
-    Essayez à nouveau. &brandShortName; essaiera d’ouvrir une connexion et d’actualiser la page.
-    <button id='wifi'>Activer le Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Erreur d’encodage de contenu">
 <!ENTITY contentEncodingError.longDesc "<ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>
