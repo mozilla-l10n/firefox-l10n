@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = རྟག་པར
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] གདམ་ཚན
-           *[other] སྒྲིག་འགོད
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] གདམ་ཚན
@@ -361,16 +354,6 @@ update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
 
-update-enable-search-update =
-    .label = Automatically update search engines
-    .accesskey = e
-
-update-pref-write-failure-title = Write Failure
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Unable to save preference. Could not write to file: { $path }
-
 ## General Section - Performance
 
 performance-title = ནུས་རྩལ
@@ -503,7 +486,6 @@ search-bar-shown =
     .label = ལག་ཆའི་ངོས་སུ་འཚོལ་བཤེར་ངོས་ཁ་སྣོན
 
 search-engine-default-header = སྔོན་སྒྲིག་གི་འཚོལ་བྱེད་མ་ལག
-search-engine-default-desc = དྲ་གནས་ངོས་དང་འཚོལ་བཤེར་ངོས་སུ་སྤྱོད་དགོས་པའི་སྔོན་སྒྲིག་གི་འཚོལ་བྱེད་མ་ལག་གདམ་པ།
 
 search-suggestions-option =
     .label = འཚོལ་བཤེར་གྱི་གསལ་འདེབས་མཁོ་སྤྱོད་བྱེད་པ
@@ -552,8 +534,6 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 
 ## Containers Section
 
-containers-back-link = « Go Backwards
-
 containers-header = Container Tabs
 containers-add-button =
     .label = Add New Container
@@ -573,14 +553,6 @@ containers-remove-button =
 sync-signedout-caption = Take your Web with you
 sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 
-sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
-sync-signedout-account-create = Don’t have an account? Get started
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = Sign In…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -599,10 +571,6 @@ sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Change profile picture
 
-sync-disconnect =
-    .label = Disconnect…
-    .accesskey = D
-
 sync-manage-account = Manage Account
     .accesskey = o
 
@@ -620,9 +588,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Sign in
     .accesskey = g
-
-sync-signedin-settings-header = Sync Settings
-sync-signedin-settings-desc = Choose what to synchronize on your devices using { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -644,11 +609,6 @@ sync-engine-tabs =
     .label = Open Tabs
     .tooltiptext = A list of what’s open on all synchronized devices
     .accesskey = T
-
-sync-engine-logins =
-    .label = Logins
-    .tooltiptext = Usernames and passwords you’ve saved
-    .accesskey = L
 
 sync-engine-addresses =
     .label = Addresses
@@ -690,18 +650,12 @@ sync-device-name-save =
     .label = Save
     .accesskey = v
 
-sync-tos-link = Terms of Service
-
-sync-fxa-privacy-notice = Privacy Notice
-
 ## Privacy Section
 
 privacy-header = Browser Privacy
 
 ## Privacy Section - Forms
 
-
-logins-header = ནང་འཇུག་དང་གསང་གྲངས
 
 ## Privacy Section - Logins and Passwords
 
@@ -809,9 +763,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Type blocked
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = Third-party trackers
-
 sitedata-option-block-unvisited =
     .label = Cookies from unvisited websites
 sitedata-option-block-all-third-party =
@@ -851,27 +802,7 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Content Blocking
-
 content-blocking-learn-more = Learn more
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Standard
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Strict
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = Custom
-    .accesskey = C
-
-content-blocking-standard-desc = Balanced for protection and performance. Allows some trackers so websites function properly.
-content-blocking-custom-desc = Choose what to block.
-
-content-blocking-private-trackers = Known trackers only in Private Windows
-content-blocking-third-party-cookies = Third-party tracking cookies
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -889,15 +820,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-windows-trackers = Known trackers in all windows
 content-blocking-all-third-party-cookies = All third-party cookies
 
 content-blocking-warning-title = Heads up!
-content-blocking-learn-how = Learn how
-
-content-blocking-trackers-label =
-    .label = Trackers
-    .accesskey = T
 
 content-blocking-tracking-protection-option-all-windows =
     .label = In all windows
@@ -945,10 +870,6 @@ permissions-notification-link = Learn more
 permissions-notification-pause =
     .label = Pause notifications until { -brand-short-name } restarts
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = Exceptions…
-    .accesskey = E
 
 permissions-block-popups =
     .label = Block pop-up windows
@@ -1076,6 +997,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } is running out of disk space. Website contents may not display properly. Visit “Learn More” to optimize your disk usage for better browsing experience.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

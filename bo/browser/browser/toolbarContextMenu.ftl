@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = ཡན་ལག་ངོས་ཡོངས་གདམ་པ
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = ཁ་བརྒྱབ་པའི་ཡན་ལག་ངོས་ཕྱིར་འཐེན
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = ཟུར་སྣོན་དོ་དམ་བྱེད་པ

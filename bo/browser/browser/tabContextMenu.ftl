@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = འཆར་སྒྲོམ་གསར་པའི་ནང་སྤོར་བ
     .accesskey = W
-undo-close-tab =
-    .label = ཁ་བརྒྱབ་པའི་ཡན་ལག་ངོས་ཕྱི་འཐེན
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ཡན་ལག་ངོས་ཁ་རྒྱག
     .accesskey = c

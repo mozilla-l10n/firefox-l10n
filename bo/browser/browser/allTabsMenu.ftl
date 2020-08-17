@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-all-tabs-menu-undo-close-tab =
-    .label = ཁ་བརྒྱབ་པའི་ཡན་ལག་ངོས་ཕྱི་འཐེན
-
 all-tabs-menu-new-user-context =
     .label = འཇུག་སྣོད་ཡན་ལག་ངོས་གསར་བ
 

@@ -30,7 +30,6 @@ proxyResolveFailure-title = Unable to find the proxy server
 redirectLoop-title = The page isn’t redirecting properly
 unknownSocketType-title = Unexpected response from server
 nssFailure2-title = བདེ་འཇགས་ཀྱི་སྦྲེལ་མཐུད་བྱས་མ་ཐུབ
-cspBlocked-title = Blocked by Content Security Policy
 corruptedContentError-title = Corrupted Content Error
 remoteXUL-title = Remote XUL
 sslv3Used-title = Unable to Connect Securely
