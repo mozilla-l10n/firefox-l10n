@@ -70,11 +70,6 @@ permissions-invalid-uri-label = Pe piaxei inserisci un nomme de host valido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Eceçioin - Blòcco di contegnui
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = T'æ dizabilitou o blòcco di contegnui pe sti sciti.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Ti ti peu dî quæ sciti peuan arvî ò instalâ di conponenti azonti. Scrivi l'indirisso di sciti a-i quæ ti veu dâ o permisso e sciacca Permetti.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Eceçioin - Aoto-riproduçion
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Ti ti peu dî quæ sciti peuan de longo fâ l'aotoriproduçion co-o son. Scrivi l'indirisso do scito che ti ti veu gestî e sciacca Blòcca ò Permetti.
 
 ## Site Permissions - Autoplay
 

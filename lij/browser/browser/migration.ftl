@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Proçedua goidâ de inportaçion
+
 import-from =
     { PLATFORM() ->
         [windows] Inportaçion de preferense, segnalibbri, stöia, paròlle segrete e atri dæti da:
        *[other] Inpòrta preferense, segnalibbri, stöia, paròlle segrete e atri dæti da:
     }
+
 import-from-bookmarks = Inpòrta segnalibbri da:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = Navegatô Seguo 360
     .accesskey = 3
+
 no-migration-sources = Nisciunn-a aplicaçion che a contegne di segnalibbri, stöia ò paròlle segrete peu ese trova.
+
 import-source-page-title = Inportaçion de preferense e dæti
 import-items-page-title = Ògetti da inportâ
+
 import-items-description = Seleçionn-a i ògetti da inporta:
+
 import-migrating-page-title = Inpòrto…
+
 import-migrating-description = Sti ògetti son li pe ese inportæ…
+
 import-select-profile-page-title = Seleçionn-a profî
+
 import-select-profile-description = Sti profî se peuan inportâ da:
+
 import-done-page-title = Inportaçion terminâ
+
 import-done-description = Sti ògetti son stæti inportæ:
+
 import-close-source-browser = Aseguase che o navegatô seleçionou o segge serou primma de anâ avanti.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Da { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = lista de letue (Da Safari)
 imported-edge-reading-list = lista de letue (da Edge)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = Cookie
 browser-data-cookies-label =
     .value = Cookie
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -111,10 +127,12 @@ browser-data-bookmarks-label =
             [edge] Segnalibbri
            *[other] Segnalibbri
         }
+
 browser-data-otherdata-checkbox =
     .label = Atri dæti
 browser-data-otherdata-label =
     .label = Atri dæti
+
 browser-data-session-checkbox =
     .label = Barcoin e feuggi
 browser-data-session-label =

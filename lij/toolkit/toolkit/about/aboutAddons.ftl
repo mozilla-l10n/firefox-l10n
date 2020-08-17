@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Carego…
-
 list-empty-installed =
     .value = Ti no gh'æ di conponenti azonti de sto tipo instalæ
 
@@ -32,27 +29,16 @@ list-empty-find-updates =
 list-empty-button =
     .label = Ciù informaçioin in sci conponenti azonti
 
-install-addon-from-file =
-    .label = Installa i conponenti azonti da 'n schedaio…
-    .accesskey = I
-
 help-button = Sopòrto conponenti azonti
 
 sidebar-help-button-title =
     .title = Sopòrto conponenti azonti
-
-tools-menu =
-    .tooltiptext = Angæsi pe tutti i conponenti azonti
 
 show-unsigned-extensions-button =
     .label = No ò posciuo verificâ quarche estenscion
 
 show-all-extensions-button =
     .label = Amia tutte e estenscioin
-
-debug-addons =
-    .label = Debug di conponenti azonti
-    .accesskey = B
 
 cmd-show-details =
     .label = Fanni vedde ciù informaçioin
@@ -90,16 +76,6 @@ cmd-contribute =
     .label = Agiutta
     .accesskey = A
     .tooltiptext = Agiutta a svilupâ sto conponente azonto
-
-discover-title = E cöse son sti conponenti azonti?
-
-discover-description =
-    I conponenti azonti son aplicaçioin che te peuan agiutâ a personalizâ o { -brand-short-name } graçie
-    a atre funçionaliæ ò stili. Preuva 'na bara pe risparmiâ do tenpo, vizoalizza o notiçiario do tenpo, ò installa 'n tema pe personalizâ { -brand-short-name } comme te pài.
-
-discover-footer =
-    Quande ti ê conesso a internet, sto panello
-    o te faiâ vedde quarchedun di ciù popolari conponenti azonti da prova.
 
 detail-version =
     .label = Verscion
@@ -193,14 +169,6 @@ legacy-extensions =
 
 legacy-extensions-description = Ste estenscioin no va ben co-i corenti standard de { -brand-short-name } coscì en stæti dizativæ. <label data-l10n-name="legacy-learn-more">Pe saveine de ciù in sci conponenti azonti</label>
 
-extensions-view-recent-updates =
-    .name = Urtimi agiornamenti
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Agiornamenti disponibili
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Estenscioin
 addon-category-extension-title =
     .title = Estenscioin
@@ -225,29 +193,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = O contròllo de conpatibilitæ di conponenti azonti l'é dizabilita. Ti peu avei di conponenti azonti no conpatibili.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Abilita
-    .tooltiptext = Abilita o contròllo a conpatibilitæ di conponenti azonti
-
-extensions-warning-update-security-label =
-    .value = O contròllo de seguessa in sci agiornamenti di conponenti azonti o l'é dizabilitou. Te peu capitâ de ese aroinou da i agiornamenti.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Abilita
-    .tooltiptext = Abilita o contròllo de seguessa in sci agiornamenti di conponenti azonti
-
 extensions-warning-safe-mode = Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.
 extensions-warning-check-compatibility = O contròllo de conpatibilitæ di conponenti azonti l'é dizabilita. Ti peu avei di conponenti azonti no conpatibili.
 extensions-warning-check-compatibility-button = Abilita
@@ -259,14 +204,6 @@ extensions-warning-update-security-button = Abilita
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Çerca agiornamenti
-    .accesskey = c
-
-extensions-updates-view-updates =
-    .label = Fanni vedde i urtimi agiornamenti
-    .accesskey = v
-
 addon-updates-check-for-updates = Çerca agiornamenti
     .accesskey = c
 addon-updates-view-updates = Fanni vedde i urtimi agiornamenti
@@ -274,10 +211,6 @@ addon-updates-view-updates = Fanni vedde i urtimi agiornamenti
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Agiorna i conponenti azonti in aotomatico
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Agiorna i conponenti azonti in aotomatico
     .accesskey = A
@@ -288,36 +221,12 @@ addon-updates-update-addons-automatically = Agiorna i conponenti azonti in aotom
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Reinpòsta tutti i conponenti azonti pe agiornali in aotomatico
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = Reinpòsta tutti i conponenti azonti pe agiornali a man
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = Reinpòsta tutti i conponenti azonti pe agiornali in aotomatico
     .accesskey = R
 addon-updates-reset-updates-to-manual = Reinpòsta tutti i conponenti azonti pe agiornali a man
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Agiorno i conponenti azonti
-extensions-updates-installed =
-    .value = I teu conponenti azonti son stæti agiornæ.
-extensions-updates-downloaded =
-    .value = I teu conponenti azonti son stæti descaregæ.
-extensions-updates-restart =
-    .label = Arvi torna òua pe finî l'instalaçion
-extensions-updates-none-found =
-    .value = Nisciun agiornamento trovou
-extensions-updates-manual-updates-found =
-    .label = Fanni vedde i agiornamenti disponibili
-extensions-updates-update-selected =
-    .label = Installa Agiornamento
-    .tooltiptext = Installa i Agiornamenti da lista
 
 addon-updates-updating = Agiorno i conponenti azonti
 addon-updates-installed = I teu conponenti azonti son stæti agiornæ.
@@ -335,18 +244,12 @@ addon-open-about-debugging = Debug di conponenti azonti
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Gestisci scorsaeiu de estenscioin
-    .accesskey = G
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gestisci scorsaeiu de estenscioin
     .accesskey = G
 
 shortcuts-input =
     .placeholder = Inserisci 'n scorsaieu
-
-shortcuts-browserAction = Ativa estenscion
 
 shortcuts-pageAction = Ativa açion da pagina
 shortcuts-sidebarAction = Ativa/dizativa bara de scianco
@@ -364,9 +267,6 @@ shortcuts-card-expand-button =
 
 shortcuts-card-collapse-button = Mostra meno
 
-go-back-button =
-    .tooltiptext = Vanni inderê
-
 header-back-button =
     .title = Vanni inderê
 
@@ -378,11 +278,7 @@ header-back-button =
 remove-addon-button = Scancella
 disable-addon-button = Dizabilita
 enable-addon-button = Abilita
-expand-addon-button = Ciù inpostaçioin
 permissions-addon-button = Permissi
-
-addons-enabled-heading = Ativou
-addons-disabled-heading = Dizativou
 
 ## Pending uninstall message bar
 

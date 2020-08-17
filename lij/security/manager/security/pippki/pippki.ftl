@@ -21,6 +21,9 @@ change-password-reenter = Neuva paròlla segreta (ancon):
 reset-password-window =
     .title = Inpòsta torna a paròlla segreta prinçipâ
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Inpòsta torna
 reset-password-text = Se ti ti inposti torna a teu paròlla segreta prinçipâ tutte e teu paròlle segrete de mail, web, dæti di mòdoli, certificati personali e ciavi privæ saian scancelæ. T'ê seguo de inpostâ torna a teu paròlla segreta prinçipâ?

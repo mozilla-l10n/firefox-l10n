@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleçionn-a tutti i feuggi
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Arvi torna o feuggio serou
-    .accesskey = A
 
 toolbar-context-menu-manage-extension =
     .label = Gestisci estenscion

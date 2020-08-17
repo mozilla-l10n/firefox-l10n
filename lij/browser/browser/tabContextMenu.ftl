@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Mescia inte 'n neuvo barcon
     .accesskey = M
-undo-close-tab =
-    .label = Anulla særa feuggio
-    .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Særa feuggio
     .accesskey = S

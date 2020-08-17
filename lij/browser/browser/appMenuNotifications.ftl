@@ -38,13 +38,6 @@ appmenu-addon-post-install-message = Gestisci e inpostaçioin di conponenti azon
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permetti l’ezegoçion de sta estenscion inti barcoin privæ
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Cangiamenti in scê estenscioin inti barcoin privæ
-    .buttonlabel = Gestisci estenscioin
-    .buttonaccesskey = G
-    .secondarybuttonlabel = Va ben, ò capio
-    .secondarybuttonaccesskey = V
-appmenu-addon-private-browsing-learn-more = Descòvri comme gestî e inpostaçioin de estenscioin.
     
 appmenu-new-tab-controlled =
     .label = A pagina neuvo feuggio a l'é cangiâ.

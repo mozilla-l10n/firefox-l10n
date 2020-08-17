@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Atre informaçioin
-onboarding-button-label-try-now = Preuvilo òua
 onboarding-button-label-get-started = Iniçia
 
 ## Welcome modal dialog strings
@@ -21,8 +20,6 @@ onboarding-button-label-get-started = Iniçia
 onboarding-welcome-header = Benvegnuo in { -brand-short-name }
 onboarding-welcome-body = Oua ti gh'æ o navegatô.<br/>Amia o resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Ciù informaçioin in sci vantaggi.
-
-onboarding-join-form-header = Uniscite a { -brand-product-name }
 
 onboarding-join-form-body = Inserisci o teu indirisso email pe iniçiâ.
 onboarding-join-form-email =
@@ -36,6 +33,13 @@ onboarding-start-browsing-button-label = Iniçia a navegâ
 onboarding-cards-dismiss =
     .title = Scancella
     .aria-label = Scancella
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -61,12 +65,6 @@ onboarding-sync-form-sub-header = pe continoâ con { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Produti utili
-
-onboarding-benefit-knowledge-title = Conoscense pratiche
-
-onboarding-benefit-privacy-title = A vea privacy
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -74,22 +72,6 @@ onboarding-benefit-privacy-title = A vea privacy
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Navegaçion Privâ
-onboarding-private-browsing-text = Navega pe i fæti teu. A Navegaçion privâ co- o blòcco di contegnui che tracian quello che ti fæ inta ræ.
-
-onboarding-screenshots-title = Föto do schermo
-onboarding-screenshots-text = Fanni, sarva e condividdi e föto do schermo - sensa sciortî da { -brand-short-name }. Catua 'na region ò 'na pagina intrega comme ti a veddi. Pöi sarvila inta ræ pe acedighe e condividila façilmente.
-
-onboarding-addons-title = Conponenti azonti
-onboarding-addons-text = Ancon ciù carateristiche che fan travagiâ { -brand-short-name } ancon de ciù pe ti. Confront prexi, contròlla o tenpo ò esprimi  teu personalitæ co 'n tema personalizou.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Navega veloce e in mòddo ciù furbo ò seguo con estenscioin comme Ghostery ch'o te blòcca e publicitæ che te ronpan.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Scincronizaçion
-onboarding-fxa-text = Registrite pe avei 'n { -fxaccount-brand-name } e scincronizza tutti i segnalibbri, poule segrete e feuggi averti donde se segge ti deuvi { -brand-short-name }.
 
 onboarding-tracking-protection-button2 = Comme o fonçionn-a
 

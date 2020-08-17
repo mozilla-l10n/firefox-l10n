@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Feuggi scincronizæ
 synced-tabs-sidebar-noclients-subtitle = Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?
-synced-tabs-sidebar-notsignedin = Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.
 synced-tabs-sidebar-unverified = O teu conto o deve ese verificou.
 synced-tabs-sidebar-notabs = Nisciun feuggio averto
 synced-tabs-sidebar-openprefs = Arvi e inpostaçioin de { -sync-brand-short-name }

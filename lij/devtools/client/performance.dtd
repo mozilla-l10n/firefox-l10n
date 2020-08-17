@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "O nomme e a poxiçion into sorgente da fonçion canpionâ.">
 <!ENTITY performanceUI.table.totalAlloc               "Alocaçioin totali">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "O numero de alocaçioin de ogetti campionæ in sta poxiçion e inti tutti i elementi ciamæ.">
-<!ENTITY performanceUI.table.selfAlloc                "Alocaçioin elemento">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "O numero de alocaçioin de ogetti campionæ in sta poxiçion.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

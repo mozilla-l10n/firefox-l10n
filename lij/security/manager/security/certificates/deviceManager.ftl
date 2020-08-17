@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Numero de serie
 
 fips-nonempty-password-required = A-o mòddo FIPS serve che ti t'aggi 'na paròlla segreta prinçipâ  pe ògnidun di aparati de seguessa che gh'é. Pe piaxei inpòsta a paròlla segreta primma de provâ a abilitâ o mòddo FIPS.
+
 unable-to-toggle-fips = No riescio a cangiâ o mòddo FIPS inte l'aparato de seguessa. L'é megio che ti sciòrti e arvi torna st'aplicaçion.
 load-pk11-module-file-picker-title = Çerni 'n driver PKCS#11 do dispoxitivo da caregâ
 

@@ -35,12 +35,6 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Pòrta
     .accesskey = P
-connection-proxy-http-share =
-    .label = Adeuvia sto proxy pe tutti i pròtocòlli
-    .accesskey = s
-
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Pòrta
     .accesskey = o
