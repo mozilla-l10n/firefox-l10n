@@ -24,10 +24,6 @@ serviceworker-worker-unregister = Afskrá
 serviceworker-worker-debug = Kemba
     .title = Eingöngu er hægt að kemba keyrandi service workers
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = Byrja
-
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = Villukemba
@@ -53,8 +49,4 @@ serviceworker-worker-status-running = Í gangi
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Hætt
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = Er að skrá
 

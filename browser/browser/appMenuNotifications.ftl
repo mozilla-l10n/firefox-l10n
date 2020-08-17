@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Sýslaðu með viðbætur með því að sm
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leyfa þessari viðbót að keyra í huliðsgluggum
     .accesskey = L
-appmenu-addon-private-browsing =
-    .label = Skipta yfir í viðbætur í huliðsgluggum
-    .buttonlabel = Stjórna viðbótum
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Allt í lagi, ég skil
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Nýjar viðbætur við { -brand-shorter-name } munu ekki virka í huliðsgluggum nema það sé viljandi leyft í stillingunum.
-appmenu-addon-private-browsing-learn-more = Lærðu hvernig stýra má stillingum viðbóta
     
 appmenu-new-tab-controlled =
     .label = Nýi flipinn breyttist.

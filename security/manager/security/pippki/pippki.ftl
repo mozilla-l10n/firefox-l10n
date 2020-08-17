@@ -21,6 +21,9 @@ change-password-reenter = Nýtt lykilorð (aftur):
 reset-password-window =
     .title = Endurstilla aðallykilorð
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Endursetja
 reset-password-text = Ef þú endurstillir aðallykilorðið, þá muntu missa öll geymd vef- og póstlykilorð, öll form gögn, öll skilríki, og alla einkalykla. Ertu viss um að þú viljir endurstilla aðallykilorðið?

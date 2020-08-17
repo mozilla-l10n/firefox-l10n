@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Skjalageymsla">
 <!ENTITY hdrArchiveButton1.tooltip "Setja póst í skjalageymslu">
-<!ENTITY hdrOpenConversationButton1.label "Samtal">
-<!ENTITY hdrOpenConversationButton1.tooltip "Sýna samtal fyrir skilaboð">
 <!ENTITY hdrSmartReplyButton1.label "Snjallsvar">
 <!ENTITY hdrReplyButton1.label "Svara">
 <!ENTITY hdrReplyButton2.tooltip "Svara sendanda þessa skeytis">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Svara póstlista">
 <!ENTITY hdrFollowupButton1.label "Eftirfylgni">
 <!ENTITY hdrFollowupButton1.tooltip "Pósta svari á þennan fréttahóp">
-<!ENTITY hdrMenuForwardButton.label "Áframsenda sem">
 <!ENTITY hdrForwardButton1.label "Áfram">
 <!ENTITY hdrForwardButton1.tooltip "Áframsenda þennan póst">
 <!ENTITY hdrJunkButton1.label "Ruslpóstur">

@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Samstilltir flipar
 synced-tabs-sidebar-noclients-subtitle = Viltu sjá hérna þína flipa frá öðrum tækjum?
-synced-tabs-sidebar-notsignedin = Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.
 synced-tabs-sidebar-unverified = Nauðsynlegt er að staðfesta reikning.
 synced-tabs-sidebar-notabs = Engir opnir flipar
 synced-tabs-sidebar-openprefs = Opna { -sync-brand-short-name } stillingar

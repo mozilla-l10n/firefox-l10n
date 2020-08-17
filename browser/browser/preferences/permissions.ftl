@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Undantekningar - Blokkun efnis
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Þú hefur afvirkjað blokkun efnis á þessum vefsíðum.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -113,11 +108,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Undantekningar - sjálfvirk spilun
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Þú getur skilyrt hvaða vefsíður mega alltaf eða aldrei spila sjálfvirkt margmiðlunarefni með hljóði. Sláðu inn vefslóð þeirrar síðu sem þú vilt stilla og veldu annaðhvort Blokka eða Leyfa.
 
 ## Site Permissions - Autoplay
 

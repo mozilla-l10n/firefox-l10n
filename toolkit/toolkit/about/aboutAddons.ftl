@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Hleður…
-
 list-empty-installed =
     .value = Engar viðbætur af þessari tegund hafa verið settar inn
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Fræðast meira um viðbætur
 
-install-addon-from-file =
-    .label = Setja inn viðbót frá skrá…
-    .accesskey = i
-
 help-button = Viðbótastuðningur
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } Valmynd
        *[other] { -brand-short-name } Valkostir
     }
-
-tools-menu =
-    .tooltiptext = Verkfæri fyrir allar viðbætur
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Sýna allar viðbætur
-
-debug-addons =
-    .label = Kemba viðbætur
-    .accesskey = b
 
 cmd-show-details =
     .label = Sýna meiri upplýsingar
@@ -103,12 +89,6 @@ cmd-contribute =
     .label = Gefa
     .accesskey = G
     .tooltiptext = Hjálpa til með þróunina á þessari viðbót
-
-discover-title = Hvað eru viðbætur?
-
-discover-description = Viðbætur eru forrit sem gera þér kleyft að sérsníða { -brand-short-name } með fleiri eiginleikum eða stílum. Prófaðu flýtihliðarslá, veðuráminningu, eða þema til að gera { -brand-short-name } að þínum.
-
-discover-footer = Þegar þú ert tengdur við netið, mun þessi gluggi birta bestu og vinsælustu viðbætur fyrir þig að prófa.
 
 detail-version =
     .label = Útgáfa
@@ -202,14 +182,6 @@ legacy-extensions =
 
 legacy-extensions-description = Þessar viðbætur standast ekki núverandi staðla í { -brand-short-name } þannig að þær hafa verið gerðar óvirkar. <label data-l10n-name="legacy-learn-more">Fræðast um breytingar á viðbótum</label>
 
-extensions-view-recent-updates =
-    .name = Nýlegar uppfærslur
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Fáanlegar uppfærslur
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Viðbætur
 addon-category-extension-title =
     .title = Viðbætur
@@ -234,29 +206,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Virkja
-    .tooltiptext = Virkja samhæfnisathugun viðbóta
-
-extensions-warning-update-security-label =
-    .value = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Virkja
-    .tooltiptext = Virkja öryggisuppfærslur fyrir viðbætur
-
 extensions-warning-safe-mode = Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.
 extensions-warning-check-compatibility = Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.
 extensions-warning-check-compatibility-button = Virkja
@@ -268,14 +217,6 @@ extensions-warning-update-security-button = Virkja
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Leita að uppfærslum
-    .accesskey = L
-
-extensions-updates-view-updates =
-    .label = Skoða nýlegar uppfærslur
-    .accesskey = S
-
 addon-updates-check-for-updates = Leita að uppfærslum
     .accesskey = L
 addon-updates-view-updates = Skoða nýlegar uppfærslur
@@ -283,10 +224,6 @@ addon-updates-view-updates = Skoða nýlegar uppfærslur
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Uppfæra viðbætur sjálfvirkt
-    .accesskey = a
 
 addon-updates-update-addons-automatically = Uppfæra viðbætur sjálfvirkt
     .accesskey = a
@@ -297,36 +234,12 @@ addon-updates-update-addons-automatically = Uppfæra viðbætur sjálfvirkt
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Endurstilla allar viðbætur á sjálfvirka uppfærslu
-    .accesskey = r
-
-extensions-updates-reset-updates-to-manual =
-    .label = Endurstilla allar viðbætur á handvirka uppfærslu
-    .accesskey = r
-
 addon-updates-reset-updates-to-automatic = Endurstilla allar viðbætur á sjálfvirka uppfærslu
     .accesskey = r
 addon-updates-reset-updates-to-manual = Endurstilla allar viðbætur á handvirka uppfærslu
     .accesskey = r
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Uppfæri viðbætur
-extensions-updates-installed =
-    .value = Búið er að uppfæra viðbætur.
-extensions-updates-downloaded =
-    .value = Búið er að niðurhala viðbótum.
-extensions-updates-restart =
-    .label = Endurræstu núna til að ljúka uppsetningu
-extensions-updates-none-found =
-    .value = Engar uppfærslur fundust
-extensions-updates-manual-updates-found =
-    .label = Skoða fáanlegar uppfærslur
-extensions-updates-update-selected =
-    .label = Setja inn uppfærslur
-    .tooltiptext = Setja inn allar uppfærslur í þessum lista
 
 addon-updates-updating = Uppfæri viðbætur
 addon-updates-installed = Búið er að uppfæra viðbætur.
@@ -347,8 +260,6 @@ addon-open-about-debugging = Kemba viðbætur
 shortcuts-input =
     .placeholder = Slá inn flýtilykil
 
-shortcuts-browserAction = Virkja viðbót
-
 shortcuts-pageAction = Virkja síðuaðgerð
 shortcuts-sidebarAction = Víxla hliðarslá
 
@@ -366,9 +277,6 @@ shortcuts-card-expand-button =
 
 shortcuts-card-collapse-button = Sýna minna
 
-go-back-button =
-    .tooltiptext = Til baka
-
 header-back-button =
     .title = Til baka
 
@@ -380,9 +288,6 @@ header-back-button =
 remove-addon-button = Fjarlægja
 disable-addon-button = Óvirkja
 enable-addon-button = Virkja
-
-addons-enabled-heading = Virkjað
-addons-disabled-heading = Óvirkt
 
 ## Pending uninstall message bar
 

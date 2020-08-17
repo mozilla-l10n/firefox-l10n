@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Vista sem…
     .accesskey = e
-media-preview =
-    .value = Forsýning gagna:
 
 perm-tab =
     .label = Heimildir
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Já, smákökur
 security-site-data-no = Nei
 
 image-size-unknown = Óþekkt
-not-set-verified-by = Ekki skilgreint
 page-info-not-specified =
     .value = Ekki skilgreint
 not-set-alternative-text = Ekki skilgreint
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Gallahamur
 general-strict-mode =
     .value = Staðalhamur
-security-no-owner = Þetta vefsvæði sendir ekki upplýsingar um eiganda.
 page-info-security-no-owner =
     .value = Þetta vefsvæði sendir ekki upplýsingar um eiganda.
 media-select-folder = Veldu möppu til að vista myndirnar

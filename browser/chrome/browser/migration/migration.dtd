@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Flytja inn stillingar, bókamerki, ferla, lykilorð og önnur gögn frá:">
 <!ENTITY importFromUnix.label           "Flytja inn stillingar, bókamerki, ferla, lykilorð og önnur gögn frá:">
-<!ENTITY importFromBookmarks.label      "Flytja inn bókamerki frá:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

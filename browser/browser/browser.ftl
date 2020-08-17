@@ -101,6 +101,8 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = Minni innsláttur, finna meira: Leitaðu með { $engineName } beint frá leitarslá.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -169,6 +171,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Setja sem sjálfgefna leitarvél
     .accesskey = l
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -251,8 +260,10 @@ popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Leita eða sláðu inn veffang
+
 urlbar-placeholder =
     .placeholder = Leita eða sláðu inn veffang
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Vafri er á fjarstýringu
 urlbar-switch-to-tab =

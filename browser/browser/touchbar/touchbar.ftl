@@ -12,7 +12,6 @@ fullscreen = Allur skjárinn
 find = Leita
 new-tab = Nýr flipi
 add-bookmark = Bæta við bókamerki
-open-bookmarks-sidebar = Opna bókamerki í hliðarslá
 reader-view = Leshamur
 # Meant to match the string displayed in an empty URL bar.
 open-location = Leita eða slá inn vistfang

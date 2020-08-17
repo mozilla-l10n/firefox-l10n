@@ -4,7 +4,6 @@
 
 <!ENTITY name.label "Nafnið þitt:">
 <!ENTITY name.accesskey "N">
-<!ENTITY name.placeholder "Skírnarnafn eftirnafn">
 <!ENTITY name.text "Nafnið þitt, eins og það birtist öðrum">
 <!ENTITY email.label "Tölvupóstfang:">
 <!ENTITY email.accesskey "T">
@@ -21,9 +20,6 @@
 <!ENTITY incoming.label "Innsent:">
 <!ENTITY outgoing.label "Útsent:">
 <!ENTITY username.label "Notandanafn:">
-<!ENTITY hostname.label "Netnafn þjóns">
-<!ENTITY port.label "Gátt">
-<!ENTITY ssl.label "SSL">
 <!ENTITY auth.label "Auðkenning">
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop3.label "POP3">
@@ -49,8 +45,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label "Prófa aftur">
 <!ENTITY half-manual-test.accesskey "t">
-<!ENTITY manual-edit.label "Handvirkar stillingar">
-<!ENTITY manual-edit.accesskey "H">
 
 
 <!ENTITY warning.label "Viðvörun!">

@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki fáanlegt í &brandShortName;'s skyndiminninu.</p><ul><li>Sem hluti af varúðarráðstöfun þá biður &brandShortName; ekki sjálfkrafa aftur um viðkvæm skjöl.</li><li>Smellið á Reynið aftur til að biðja aftur um skjalið frá vefsvæðinu.</li></ul>">
 
 <!ENTITY netOffline.title "Aftengdur hamur">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Reyndu aftur. &brandShortName; mun reyna að opna tengingu og enduhlaða síðuna.  <button id='wifi'>Virkja Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Villa við dulkóðun innihalds">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> </ul>">

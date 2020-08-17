@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Líma án sniðs">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Líma sem">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Líma inn sem tilvitnun">
 <!ENTITY pasteAsQuotationCmd.accesskey "t">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Finna…">
-<!ENTITY findReplaceCmd.label "Leita og breyta…">
-<!ENTITY enableInlineSpellChecker.label "Athuga stafsetningu í innslætti">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu">
-<!ENTITY checkSpellingCmd2.accesskey "Y">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Setja inn">
@@ -186,9 +173,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Meginmál">
 <!ENTITY bodyTextCmd.accesskey "e">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Ítarlegir eiginleikar">
-<!ENTITY advancedPropertiesCmd.accesskey "t">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Raða">
@@ -205,11 +189,6 @@
 <!ENTITY alignJustify.label "Jafna">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Stilla jafnt">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Lag">
-<!ENTITY layerSendToBack.tooltip "Senda á bakvið">
-<!ENTITY layerBringToFront.tooltip "Setja fremst">
 
 <!ENTITY increaseIndent.label "Auka inndrátt">
 <!ENTITY increaseIndent.accesskey "i">
@@ -284,19 +263,6 @@
 <!ENTITY tableProperties.label "Eiginleikar töflu…">
 <!ENTITY tableProperties.accesskey "g">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Valmynd">
-<!ENTITY formatToolbar.tooltip "Sniðslá">
-<!ENTITY cutToolbarCmd.tooltip "Klippa">
-<!ENTITY copyToolbarCmd.tooltip "Afrita">
-<!ENTITY pasteToolbarCmd.tooltip "Líma">
-<!ENTITY printToolbarCmd.label "Prenta">
-<!ENTITY printToolbarCmd.tooltip "Prenta síðu">
-<!ENTITY findToolbarCmd.label "Leita">
-<!ENTITY findToolbarCmd.tooltip "Finna texta á síðu">
-<!ENTITY spellToolbarCmd.label "Stafsetning">
-<!ENTITY spellToolbarCmd.tooltip "Athuga stafsetningu á vali eða allri síðunni">
-
 <!ENTITY imageToolbarCmd.label "Mynd">
 <!ENTITY imageToolbarCmd.tooltip "Setja inn nýja mynd eða breyta eiginleikum valinnar myndar">
 <!ENTITY hruleToolbarCmd.label "L.Lína">
@@ -309,7 +275,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Setja inn nýja markstiklu eða breyta eiginleikum valinnar markstiklu">
 <!ENTITY TextColorButton.tooltip "Velja lit fyrir texta">
 <!ENTITY BackgroundColorButton.tooltip "Velja lit fyrir bakgrunn">
-<!ENTITY HighlightColorButton.tooltip "Veldu auðkenningarlit fyrir texta">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Skilgreina leturstærð">
@@ -328,14 +293,6 @@
 <!ENTITY alignCenterButton.tooltip "Miðja texta">
 <!ENTITY alignRightButton.tooltip "Hægristilla texta">
 <!ENTITY alignJustifyButton.tooltip "Jafna texta bæði eftir vinstri og hægri spássíu">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label "Velja">
-<!ENTITY structSelect.accesskey "V">
-<!ENTITY structRemoveTag.label "Fjarlægja tag">
-<!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Breyta tagi">
-<!ENTITY structChangeTag.accesskey "B">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label "Setja inn">
