@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Dìon prìobhaideachd
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Tadhail air an aithisg phrìobhaideachd agad
 appmenuitem-customize-mode =
     .label = Gnàthaich…
 
@@ -26,3 +23,4 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Na tha ùr
+

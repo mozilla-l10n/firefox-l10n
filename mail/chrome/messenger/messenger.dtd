@@ -521,17 +521,6 @@
 <!ENTITY errorConsoleCmd.label "Consoil nam mearachd">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Pada nan sgrìoban">
-<!ENTITY scratchpadCmd.accesskey "s">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Faigh am post">
@@ -585,7 +574,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Sìn air adhart an teachdaireachd a thagh thu mar cheanglachan">
 <!ENTITY fileButton.tooltip "Faidhlich an teachdaireachd a thagh thu">
 <!ENTITY archiveButton.tooltip "Cuir na teachdaireachdan a thagh thu san tasg-lann">
-<!ENTITY openConversationButton.tooltip "Seall còmhradh na teachdaireachd a thagh thu">
 <!ENTITY nextButton.tooltip "Gluais dhan ath-theachdaireachd nach deach a leughadh">
 <!ENTITY nextMsgButton.tooltip "Gluais dhan ath-theachdaireachd">
 <!ENTITY previousButton.tooltip "Gluais dhan teachdaireachd roimhe nach deach a leughadh">

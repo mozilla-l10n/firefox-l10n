@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Brabhsadh prìobhaideach)">
-
 <!ENTITY appmenu.tooltip                     "Fosgail an clàr-taice">
 <!ENTITY navbarOverflow.label                "Barrachd innealan…">
 
@@ -26,125 +16,24 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Prìnich an taba">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Neo-phrìnich an taba">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendPageToDevice.label             "Cuir an taba gun uidheam">
-<!ENTITY  sendPageToDevice.accesskey         "d">
-<!ENTITY  sendLinkToDevice.label             "Cuir an ceangal gun uidheam">
-<!ENTITY  sendLinkToDevice.accesskey         "d">
-<!ENTITY  undoCloseTab.label                 "Neo-dhèan dùnadh an taba">
-<!ENTITY  undoCloseTab.accesskey             "N">
-<!ENTITY  hiddenTabs.label                   "Tabaichean falaichte">
 
 <!ENTITY  listAllTabs.label      "Liostaich gach taba">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Lorg sna tabaichean">
 
 <!ENTITY tabCmd.label "Taba ùr">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Fosgail ionad…">
 <!ENTITY openFileCmd.label "Fosgail faidhle…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Roghainnean na duilleige…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
-<!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Clò-bhuail…">
-<!ENTITY printCmd.accesskey "C">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Ion-phortaich o bhrabhsair eile…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Manaidsear nan saothair">
 
-<!ENTITY goOfflineCmd.label "Obraich far loidhne">
-<!ENTITY goOfflineCmd.accesskey "O">
-
 <!ENTITY menubarCmd.label "Bàr a' chlàir-thaice">
 <!ENTITY menubarCmd.accesskey "B">
-<!ENTITY navbarCmd.label "Bàr na seòladaireachd">
 <!ENTITY personalbarCmd.label "Bàr nan comharra-lìn">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Rudan air bàr nan comharra-lìn">
 
-<!ENTITY pageSourceCmd.label "Bun-tùs na duilleige">
-<!ENTITY pageSourceCmd.accesskey "u">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Fiosrachadh na duilleige">
-<!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Dì-bhugaichear na co-dhealbhachd">
-<!ENTITY ldbCmd.accesskey "l">
-<!ENTITY mirrorTabCmd.label "Sgàthanaich an taba">
-<!ENTITY mirrorTabCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Dhan làn-sgrìn">
-<!ENTITY enterFullScreenCmd.accesskey "D">
-<!ENTITY exitFullScreenCmd.label "Fàg an làn-sgrìn">
-<!ENTITY exitFullScreenCmd.accesskey "l">
-
 <!ENTITY fullScreenCmd.label "Làn-sgrìn">
-<!ENTITY fullScreenCmd.accesskey "L">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Seall gach taba">
-<!ENTITY showAllTabsCmd.accesskey "a">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Clàraich a-steach gu &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Fosgail roghainnean &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Ath-cheangail ris &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Dearbh an cunntas agad">
-
-
-<!ENTITY fullScreenMinimize.tooltip "Lughdaich">
-<!ENTITY fullScreenRestore.tooltip "Aisig">
-<!ENTITY fullScreenClose.tooltip "Dùin">
-<!ENTITY fullScreenAutohide.label "Cuir bàraichean-inneal am falach">
-<!ENTITY fullScreenAutohide.accesskey "h">
-<!ENTITY fullScreenExit.label "Fàg modh na làn-sgrìn">
-<!ENTITY fullScreenExit.accesskey "l">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Thoir Firefox leat">
-<!ENTITY fxa.signin.description.label "Faigh na comharran-lìn, an eachdraidh, na faclan-faire ’s roghainnean eile air na h-uidheaman air fad agad.">
-<!ENTITY fxa.signin.button.label "Cuir air &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Thoir sùil air a’ phost-d">
-<!ENTITY fxa.unverified.description.label "Feumaidh tu an cunntas agad a dhearbhadh mus urrainn dhut sioncronachadh a dhèanamh.">
-<!ENTITY fxa.unverified.button.label "Fosgail roghainnean &syncBrand.shortName.label;…">
-
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Chlàraich thu a-steach mar">
-<!ENTITY fxa.menu.manageAccount.label "Stiùirich an cunntas…">
-<!ENTITY fxa.menu.syncSettings.label "Roghainnean &syncBrand.shortName.label;…">
 
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ceangail uidheam eile ris…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -167,14 +56,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Fàg an làn-sgrìn (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Fàg an làn-sgrìn (esc)">
-<!ENTITY leaveDOMFullScreen.label "Fàg an làn-sgrìn">
-<!ENTITY leaveDOMFullScreen.accesskey "F">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Dealbh am broinn deilbh">
-<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -185,83 +66,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.">
 <!ENTITY pointerlockWarning.generic.label "Tha smachd aig an sgrìobhainn seo air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.">
 
-<!ENTITY closeWindow.label "Dùin an uinneag">
-<!ENTITY closeWindow.accesskey "D">
-
-<!ENTITY bookmarksMenu.label "Comharran-lìn">
-<!ENTITY bookmarksMenu.accesskey "C">
-<!ENTITY bookmarkThisPageCmd.label "Cruthaich comharra-lìn dhan duilleag seo">
-<!ENTITY editThisBookmarkCmd.label "Deasaich an comharra-lìn seo">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
-
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
 <!ENTITY recentBookmarks.label "Comharran-lìn a rinn thu o chionn goirid">
-<!ENTITY otherBookmarksCmd.label "Comharran-lìn eile">
-<!ENTITY mobileBookmarksCmd.label "Comharran-lìn mobile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
-
-<!ENTITY backCmd.label                "Air ais">
-<!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "Rach duilleag air ais">
-<!ENTITY forwardCmd.label             "Air adhart">
-<!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "Rach duilleag air adhart">
-<!ENTITY backForwardButtonMenu.tooltip "Dèan briogadh deas no tarraing a-nuas gus an eachdraidh a shealltainn">
-<!ENTITY backForwardButtonMenuMac.tooltip "Tarraing a-nuas gus an eachdraidh a shealltainn">
-<!ENTITY reloadCmd.label              "Ath-luchdaich">
-<!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY stopCmd.label                "Sguir dheth">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh">
 
 <!ENTITY printButton.label            "Clò-bhuail">
 <!ENTITY printButton.tooltip          "Clò-bhuail an duilleag seo">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Seall fiosrachadh na làraich-lìn">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Fosgail panail nan teachdaireachdan">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Fosgail panail iarrtasan an ionaid">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Fosgail panail na fèin-chluich">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Fosgail panail teachdaireachdan stàladh thuilleadan">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Stiùirich cead às-tharraing a’ chanabhais">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Fosgail panail teachdaireachdan an stòrais far loidhne">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Fosgail panail teachdaireachdan sàbhaladh fhaclan-faire">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Stiùirich cleachdadh a’ phlugain">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cuir romhad am faigh thu brathan on làrach seo gus nach fhaigh">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stòr dàta san stòras bhuan">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tha am brabhsair fo smachd cèin">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Fosgail panail an dearbhaidh-lìn">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Fosgail panail ceadan na gnìomhachd brabhsaidh">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Stiùirich co-roinneadh a’ chamara ’s/no a’ mhicreofoin agad leis an làrach">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Stiùirich co-roinneadh a’ mhicreofoin agad leis an làrach">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Stiùirich co-roinneadh nan uinneagan no na sgrìn agad leis an làrach">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Fosgail panail teachdaireachdan an stàlaidh">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Eadar-theangaich an duilleag seo">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Stiùirich eadar-theangachadh na duilleige">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Stiùirich cleachdadh de bhathar-bog fo DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Fosgail a’ phanail MIDI">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Bhac thu an camara agad air an làrach-lìn seo.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Bhac thu am micreofon agad air an làrach-lìn seo.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Bhac thu an làrach-lìn seo o bhith a’ co-roinneadh na sgrìn agad.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Bhac thu fiosrachadh mun ionad agad air an làrach-lìn seo.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bhac thu brathan air an làrach-lìn seo.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Bhac thu stòras dàta buan mu choinneamh na làraich-lìn seo.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Bhac thu priob-uinneagan air an làrach-lìn seo.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bhac thu fèin-chluich de mheadhanan aig a bheil fuaim air an làrach-lìn seo.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Bhac thu às-tharraing dàta canabhais air an làrach-lìn seo.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Bhac thu an làrach-lìn seo o bhith a’ cleachdadh plugan Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Bhac thu inntrigeadh MIDI air an làrach-lìn seo.">
-
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Seall an eachdraidh">
 
 
 <!ENTITY searchItem.title             "Lorg">
@@ -271,7 +81,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "Duilleag-dhachaigh &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Comharran-lìn">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Comharran-lìn">
 <!ENTITY bookmarksMenuButton2.label         "Clàr-taice nan comharra-lìn">
@@ -286,110 +95,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Cuir clàr-taice nan comharra-lìn ris a’ bhàr-inneal">
 <!ENTITY removeBookmarksMenu.label          "Thoir air falbh clàr-taice nan comharra-lìn on bhàr-inneal">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Eachdraidh">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Innealan">
-<!ENTITY toolsMenu.accesskey          "I">
-
-<!ENTITY keywordfield.label           "Cuir facal-luirg ris an lorg seo…">
-<!ENTITY keywordfield.accesskey       "C">
 
 <!ENTITY downloads.label              "Luchdaidhean a-nuas">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Luchdaidhean a-nuas">
-<!ENTITY downloads.accesskey          "d">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tuilleadain">
-<!ENTITY addons.accesskey             "a">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Leasaichear-lìn">
-<!ENTITY webDeveloperMenu.accesskey   "L">
-
-<!ENTITY inspectContextMenu.label     "Sgrùd an eileamaid">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY inspectA11YContextMenu.label     "Sgrùd roghainnean na so-ruigsinneachd">
-
-<!ENTITY fileMenu.label         "Faidhle">
-<!ENTITY fileMenu.accesskey       "F">
-
-<!ENTITY newUserContext.label             "Taba soithich ùr">
-<!ENTITY newUserContext.accesskey         "b">
-<!ENTITY manageUserContext.label          "Stiùirich na soithichean">
-<!ENTITY manageUserContext.accesskey      "O">
 
 <!ENTITY newNavigatorCmd.label        "Uinneag ùr">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Uinneag phrìobhaideach ùr">
-<!ENTITY newPrivateWindow.accesskey "U">
 
 <!ENTITY editMenu.label         "Deasaich">
-<!ENTITY editMenu.accesskey       "e">
-<!ENTITY undoCmd.label            "Neo-dhèan">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "N">
-<!ENTITY redoCmd.label            "Ath-dhèan">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "A">
-<!ENTITY cutCmd.label           "Gearr às">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "G">
-<!ENTITY copyCmd.label            "Dèan lethbhreac">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "c">
-<!ENTITY pasteCmd.label           "Cuir ann">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "C">
-<!ENTITY deleteCmd.label          "Sguab às">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY selectAllCmd.label         "Tagh a h-uile">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "T">
 <!ENTITY preferencesCmd2.label       "Roghainnean">
-<!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label       "Roghainnean">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "Clàraidhean a-steach is faclan-faire">
-
-<!ENTITY clearRecentHistory.label               "Glan an eachdraidh faisg ort…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Sealladh">
-<!ENTITY viewMenu.accesskey       "S">
-<!ENTITY viewToolbarsMenu.label       "Na bàraichean-inneal">
-<!ENTITY viewToolbarsMenu.accesskey     "N">
-<!ENTITY viewSidebarMenu.label "Am bàr-taoibh">
-<!ENTITY viewSidebarMenu.accesskey "t">
-
-<!ENTITY viewCustomizeToolbar.label       "Gnàthaich…">
-<!ENTITY viewCustomizeToolbar.accesskey     "c">
 
 <!ENTITY overflowCustomizeToolbar.label       "Gnàthaich am bàr-inneal...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "G">
 
 <!ENTITY historyMenu.label "Eachdraidh">
-<!ENTITY historyMenu.accesskey "E">
 <!ENTITY historyUndoMenu.label "Tabaichean a dhùin thu o chionn ghoirid">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Uinneagan a dhùin thu o chionn ghoirid">
-<!ENTITY historyRestoreLastSession.label "Aisig an seisean mu dheireadh">
-
-<!ENTITY showAllHistoryCmd2.label "Seall an eachdraidh gu lèir">
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Seall an eachdraidh gu lèir">
 <!ENTITY appMenuHistory.clearRecent.label "Glan an eachdraidh faisg ort…">
@@ -418,9 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Fosgail roghainnean an t-sioncronachaidh">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tha an cunntas agad feumach air dearbhadh.">
-<!ENTITY appMenuRemoteTabs.signin.label "Clàraich a-steach gun t-sioncronachadh">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Stiùirich na h-uidheaman…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Seall bàr-taoibh nan tabaichean sioncronaichte">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ceangail uidheam eile ris">
@@ -435,23 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Cuir ris a’ chlàr-taice taosgaidh">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "u">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Prìnich ris a’ chlàr-taice taosgaidh">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dì-phrìnich on chlàr-taice taosgaidh">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Thoir air falbh on bhàr-inneal">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Cuir barrachd rudan ris…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "Falaich gu fèin-obrachail air bàr nan inneal">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "Stiùirich an leudachan">
-<!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.label "Thoir an leudachan air falbh">
-<!ENTITY customizeMenu.removeExtension.accesskey "v">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -461,52 +178,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 <!ENTITY moreMenu.label "Barrachd">
 
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Cuir ann lorg no seòladh">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Leudachan:">
-<!ENTITY urlbar.switchToTab.label     "Gearr leum gun taba:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Gliocas:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Faigh cobhair le bhith a’ lorg rudan! Cum sùil airson an &#x1F50E; ri taobh nam molaidhean luirg.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Atharraich na roghainnean…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Atharraich na roghainnean…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Iarrtas luirg">
-
 <!ENTITY contentSearchSubmit.tooltip  "Dèan lorg">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -514,205 +185,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Lorg">
 <!ENTITY searchIcon.tooltip           "Lorg">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Lorg ">
-<!ENTITY searchWith.label             " le:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Lorg ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Lorg le:">
-
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
 
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Roghainnean luirg">
-<!ENTITY changeSearchSettings.tooltip "Atharraich na roghainnean luirg">
-
-<!ENTITY searchInNewTab.label         "Lorg ann an taba ùr">
-<!ENTITY searchInNewTab.accesskey     "t">
-<!ENTITY searchSetAsDefault.label     "Cleachd seo mar an t-einnsean-luirg bunaiteach">
-<!ENTITY searchSetAsDefault.accesskey "d">
-
-<!ENTITY openLinkCmdInTab.label       "Fosgail an ceangal ann an taba ùr">
-
 <!ENTITY openLinkCmdInTab.accesskey   "t">
-<!ENTITY openLinkCmd.label            "Fosgail an ceangal ann an uinneag ùr">
-<!ENTITY openLinkCmd.accesskey        "F">
-<!ENTITY openLinkInPrivateWindowCmd.label "Fosgail an ceangal ann an uinneag phrìobhaideach ùr">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Fosgail ceangal">
-<!ENTITY openLinkCmdInCurrent.accesskey "o">
-<!ENTITY openFrameCmdInTab.label      "Fosgail am frèam ann an taba ùr">
-<!ENTITY openFrameCmdInTab.accesskey  "t">
-<!ENTITY openFrameCmd.label           "Fosgail am frèam ann an uinneag ùr">
-<!ENTITY openFrameCmd.accesskey       "F">
-<!ENTITY openLinkCmdInContainerTab.label "Fosgail an ceangal ann an taba soithich ùr">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
-<!ENTITY showOnlyThisFrameCmd.label     "Na seall ach am frèam seo">
-<!ENTITY showOnlyThisFrameCmd.accesskey "s">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Ath-luchdaich am frèam">
-<!ENTITY reloadFrameCmd.accesskey     "r">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Seall bun-tùs na thagh thu">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Seall bun-tùs na duilleige">
-<!ENTITY viewPageSourceCmd.accesskey  "S">
-<!ENTITY viewFrameSourceCmd.label     "Seall bun-tùs an fhrèama">
-<!ENTITY viewFrameSourceCmd.accesskey "f">
-<!ENTITY viewPageInfoCmd.label        "Seall fiosrachadh na duilleige">
-<!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Seall fiosrachadh an fhrèama">
-<!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY reloadImageCmd.label         "Ath-luchdaich an dealbh">
-<!ENTITY reloadImageCmd.accesskey     "A">
-<!ENTITY viewImageCmd.label           "Seall an dealbh 'na aonar">
-<!ENTITY viewImageCmd.accesskey       "o">
-<!ENTITY viewImageInfoCmd.label       "Seall fiosrachadh an deilbh">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Seall an tuairisgeul">
-<!ENTITY viewImageDescCmd.accesskey   "t">
-<!ENTITY viewVideoCmd.label           "Coimhead air video">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Seall dealbh a' chùlaibh">
-<!ENTITY viewBGImageCmd.accesskey     "S">
-<!ENTITY setDesktopBackgroundCmd.label      "Suidhich mar chùlaibh an deasga…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Cruthaich comharra-lìn dhan duilleag seo">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "Cruthaich comharra-lìn dhan cheangal seo">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
-<!ENTITY bookmarkThisFrameCmd.label      "Cruthaich comharra-lìn dhan fhrèam seo">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY pageAction.copyLink.label    "Dèan lethbhreac dhen cheangal">
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Sàbhail ann am Pocket">
-
 <!ENTITY saveToPocketCmd.label        "Sàbhail an duilleag ann am Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Sàbhail an ceangal ann am Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Seall liosta Pocket">
 
 <!ENTITY emailPageCmd.label           "Cuir an dealbh air a' phost-d…">
-<!ENTITY emailPageCmd.accesskey       "C">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.label            "Sàbhail an duilleag mar…">
-<!ENTITY savePageCmd.accesskey        "a">
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Sàbhail am frèam mar…">
-<!ENTITY saveFrameCmd.accesskey       "f">
-<!ENTITY printFrameCmd.label          "Clò-bhuail am frèam…">
-<!ENTITY printFrameCmd.accesskey      "C">
-<!ENTITY saveLinkCmd.label            "Sàbhail an ceangal mar…">
-<!ENTITY saveLinkCmd.accesskey        "S">
-<!ENTITY saveImageCmd.label           "Sàbhail an dealbh mar…">
-<!ENTITY saveImageCmd.accesskey       "S">
-<!ENTITY saveVideoCmd.label           "Sàbhail a' video mar…">
-<!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Sàbhail an fhuaim mar…">
-<!ENTITY saveAudioCmd.accesskey       "S">
-<!ENTITY emailImageCmd.label          "Cuir an dealbh air a' phost-d…">
-<!ENTITY emailImageCmd.accesskey      "d">
-<!ENTITY emailVideoCmd.label          "Cuir a' video air a' phost-d…">
-<!ENTITY emailVideoCmd.accesskey      "v">
-<!ENTITY emailAudioCmd.label          "Cuir an fhuaim air a' phost-d…">
-<!ENTITY emailAudioCmd.accesskey      "u">
-<!ENTITY playPluginCmd.label          "Gnìomhaich am plugan seo">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Falaich am plugan seo">
-<!ENTITY hidePluginCmd.accesskey      "h">
-<!ENTITY copyLinkCmd.label            "Dèan lethbhreac de sheòladh a' cheangail">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Dèan lethbhreac de sheòladh an deilbh">
-<!ENTITY copyImageCmd.accesskey       "D">
-<!ENTITY copyImageContentsCmd.label   "Dèan lethbhreac dhen dealbh">
-<!ENTITY copyImageContentsCmd.accesskey  "D">
-<!ENTITY copyVideoURLCmd.label        "Dèan lethbhreac de sheòladh a' video">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Dèan lethbhreac de sheòladh na fuaime">
-<!ENTITY copyAudioURLCmd.accesskey    "D">
-<!ENTITY copyEmailCmd.label           "Dèan lethbhreac de sheòladh a' phuist-dhealain">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "p">
-<!ENTITY thisFrameMenu.label              "Am frèam seo">
-<!ENTITY thisFrameMenu.accesskey          "A">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Cluich">
-<!ENTITY mediaPlay.accesskey         "C">
-<!ENTITY mediaPause.label            "Cuir 'na stad">
-<!ENTITY mediaPause.accesskey        "C">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Tostaich">
-<!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Till an fhuaim">
-<!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "Astar na cluich">
-<!ENTITY mediaPlaybackRate2.accesskey "l">
-<!ENTITY mediaPlaybackRate050x2.label "Slaodach (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "Àbhaisteach">
-<!ENTITY mediaPlaybackRate100x2.accesskey "b">
-<!ENTITY mediaPlaybackRate125x2.label "Luath (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "u">
-<!ENTITY mediaPlaybackRate150x2.label "Nas luaithe (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Air leth luath (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "l">
-<!ENTITY mediaLoop.label             "Lùb">
-<!ENTITY mediaLoop.accesskey         "L">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Seall na h-uidheaman-smachd">
-<!ENTITY mediaShowControls.accesskey "c">
-<!ENTITY mediaHideControls.label     "Cuir na h-uidheaman-smachd am falach">
-<!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Làn-sgrìn">
-<!ENTITY videoFullScreen.accesskey   "L">
-<!ENTITY videoSaveImage.label        "Sàbhail an snapshot mar…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Seall an stadastaireachd">
-<!ENTITY videoShowStats.accesskey    "a">
-<!ENTITY videoHideStats.label        "Falaich an stadastaireachd">
-<!ENTITY videoHideStats.accesskey    "F">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -720,57 +206,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Sùm a-steach">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "S">
-
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Sùm a-mach">
-<!ENTITY fullZoomReduceCmd.accesskey    "S">
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Ath-shuidhich">
-<!ENTITY fullZoomResetCmd.accesskey     "A">
-
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Na sùm ach an teacsa">
-<!ENTITY fullZoomToggleCmd.accesskey    "t">
-
 <!ENTITY fullZoom.label                 "Sùm">
-<!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY sidebarCloseButton.tooltip     "Dùin am bàr-taoibh">
-<!ENTITY sidebarMenuClose.label         "Dùin am bàr-taoibh">
 
 <!ENTITY quitApplicationCmdWin2.label       "Fàg an-seo">
 <!ENTITY quitApplicationCmdWin2.accesskey   "F">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Fàg &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Fàg an-seo">
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Fàg &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Dùin">
-
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "D">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Stoidhle na duilleige">
-<!ENTITY pageStyleMenu.accesskey "S">
-<!ENTITY pageStyleNoStyle.label "Gun stoidhle">
-<!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "Stoidhle bhunaiteach na duilleige">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -781,88 +226,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Atharraich comhair na duilleige">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Atharraich comhair an teacsa">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "A">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Lorg san duilleag seo…">
-<!ENTITY findOnCmd.accesskey "L">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Lorg a-rithist">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Cuir faclairean ris…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Dèanta">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Seall an deasaiche nuair a nithear sàbhaladh">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Tèarainteachd na làraich">
-
-<!ENTITY identity.connection "Ceangal">
-<!ENTITY identity.connectionSecure "Ceangal tèarainte">
-
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
-
-<!ENTITY identity.connectionNotSecure "Chan eil an ceangal tèarainte">
-<!ENTITY identity.connectionFile "Tha an duilleag seo ’ga stòradh air a’ choimpiutair agad.">
-<!ENTITY identity.connectionVerified2 "Tha ceangal tèarainte agad ris an làrach seo a tha le:">
-<!ENTITY identity.connectionInternal "Seo duilleag &brandShortName; tèarainte.">
-<!ENTITY identity.extensionPage "Chaidh an duilleag seo ’ga luchdadh o leudachan.">
-<!ENTITY identity.insecureLoginForms2 "Dh’fhaoidte gu bheil cothrom air daoine air fiosrachadh clàraidh air an duilleag seo.">
-
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "Bhac &brandShortName; na pìosan dhen duilleag seo nach eil tèarainte.">
-<!ENTITY identity.passiveLoaded "Chan eil pìosan dhen duilleag seo tèarainte (mar dhealbhan).">
-<!ENTITY identity.activeLoaded "Chuir thu an dìon à comas air an duilleag seo.">
-<!ENTITY identity.weakEncryption "Tha an duilleag seo a’ cleachdadh crioptachadh lag.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Chan eil an ceangal agad ris an làrach seo prìobhaideach. Dh’fhaoidte gum faic daoine eile dàta a chuireas tu a-null (mar fhaclan-faire, teachdaireachdan, cairtean-creideis is msaa.).">
-<!ENTITY identity.description.insecureLoginForms "Chan eil am fiosrachadh a chuir thu a-steach air an duilleag seo tèarainte agus dh’fhaoidte gum bris cuideigin a-steach air a’ chlàradh agad.">
-<!ENTITY identity.description.weakCipher "Tha an ceangal agad ris an làrach-lìn seo a’ cleachdadh crioptachadh lag agus chan eil e prìobhaideach.">
-<!ENTITY identity.description.weakCipher2 "Chì daoine eile am fiosrachadh agad agus is urrainn dhaibh giùlan a’ bhrabhsair agad atharrachadh.">
-<!ENTITY identity.description.activeBlocked "Bhac &brandShortName; na pìosan dhen duilleag seo nach eil tèarainte.">
-<!ENTITY identity.description.passiveLoaded "Chan eil an ceangal agad prìobhaideach agus dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach.">
-<!ENTITY identity.description.passiveLoaded2 "Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar dhealbhan).">
-<!ENTITY identity.description.passiveLoaded3 "Ged a bhac &brandShortName; cuid dhen t-susbaint, tha susbaint air an duilleag seo fhathast nach eil tèarainte (mar dhealbhan).">
-<!ENTITY identity.description.activeLoaded "Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar sgriobtan) agus chan eil an ceangal agad ris prìobhaideach.">
-<!ENTITY identity.description.activeLoaded2 "Dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach seo (mar fhaclan-faire, teachdaireachdan, cairtean-creideis is msaa.).">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Cuir an comas an dìon">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "u">
-<!ENTITY identity.disableMixedContentBlocking.label "Cuir an dìon à comas an-dràsta fhèin">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "d">
-<!ENTITY identity.learnMore "Barrachd fiosrachaidh">
-
-<!ENTITY identity.removeCertException.label "Thoir an eisgeachd  air falbh">
-<!ENTITY identity.removeCertException.accesskey "r">
-
-<!ENTITY identity.moreInfoLinkText2 "Barrachd fiosrachaidh">
-
-<!ENTITY identity.clearSiteData "Falamhaich na briosgaidean is dàta nan làrach...">
-
-<!ENTITY identity.permissions "Ceadan">
-
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissionsEmpty "Cha dug thu cead sònraichte sam bith dhan làrach seo.">
-<!ENTITY identity.permissionsReloadHint "Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.">
-<!ENTITY identity.permissionsPreferences.tooltip "Fosgail roghainnean nan ceadan">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Fosgail roghainnean bacadh na susbaint">
 
 
 <!-- LOCALIZATION NOTE:
@@ -891,91 +261,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabaichean a' bhrabhsair">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Tabaichean sioncronaichte">
-
-<!ENTITY syncedTabs.sidebar.label              "Tabaichean sioncronaichte">
-
 <!ENTITY syncBrand.shortName.label    "Sioncronachadh">
-
-<!ENTITY syncSignIn.label             "Clàraich a-steach gu &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "Y">
-
-<!ENTITY syncSyncNowItem.label        "Sioncronaich an-dràsta">
-<!ENTITY syncSyncNowItemSyncing.label "’Ga shioncronachadh…">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Ath-cheangail ri &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "r">
-<!ENTITY syncToolbarButton.label      "Sioncronachadh">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Fèin-fhalaich">
 
-<!ENTITY getUserMedia.selectCamera.label "An camara a thèid a cho-roinneadh:">
-<!ENTITY getUserMedia.selectCamera.accesskey "c">
-<!ENTITY getUserMedia.selectMicrophone.label "Am micreofon a thèid a cho-roinneadh:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-<!ENTITY getUserMedia.audioCapture.label "Thèid fuaim on taba a cho-roinneadh.">
-<!ENTITY getUserMedia.allWindowsShared.message "Thèid gach uinneag a tha ri fhaicinn air an sgrìn agad a cho-roinneadh.">
-
-<!ENTITY contentBlocking.title "Bacadh susbaint">
-<!ENTITY contentBlocking.detected "Mhothaich sinn gu bheil susbaint air an làrach seo as urrainn dhuinn bacadh.">
-<!ENTITY contentBlocking.notDetected "Chan eil susbaint as urrainn dhuinn bacadh air an duilleag seo.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "Tracaichean">
-
-<!ENTITY contentBlocking.manageSettings.label "Stiùirich bacadh susbaint">
-
-
-<!ENTITY contentBlocking.manageSettings.accesskey "M">
-
-<!ENTITY contentBlocking.trackersView.label "Tracaichean">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Airson gach tracaiche a bhacadh, tagh “Teann” airson bacadh susbaint.">
-
-<!ENTITY contentBlocking.cookies.label "Briosgaidean">
-<!ENTITY contentBlocking.cookiesView.label "Briosgaidean is dàta làraichean">
-
-
-
-<!ENTITY contentBlocking.cryptominers.label "Criopto-mhèinneadairean">
-<!ENTITY contentBlocking.cryptominersView.label "Criopto-mhèinneadairean">
-
-<!ENTITY contentBlocking.fingerprinters.label "Lorgaichean-meur">
-<!ENTITY contentBlocking.fingerprintersView.label "Lorgaichean-meur">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Dèan aithris air duilgheadas">
-<!ENTITY contentBlocking.breakageReportView.label "Dèan aithris air duilgheadasan">
-<!ENTITY contentBlocking.breakageReportView2.description "Adhbharaichidh bacadh susbaint duilgheadasan air cuid a làraichean-lìn. Ma nì thu aithris air duilgheadas, fàsaidh &brandShortName; nas fhearr airson a h-uile duine. (Cuiridh seo URL gu Mozilla agus fiosrachadh mu roghainnean a’ bhrabhsair agad.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Barrachd fiosrachaidh">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Dè na duilgheadasan a bha agad? (Roghainneil)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Cuir an aithisg">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Sguir dheth">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Cuir dheth am bacadh air an làrach seo">
-<!ENTITY trackingProtection.unblock5.accesskey "T">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Cuir dheth am bacadh rè seal">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
-<!ENTITY trackingProtection.block6.label "Cuir am bacadh air an làrach seo air">
-<!ENTITY trackingProtection.block6.accesskey "T">
-<!ENTITY trackingProtection.reload2.label "Ath-luchdaich an duilleag">
-<!ENTITY trackingProtection.reload2.accesskey "R">
-
-<!ENTITY pluginNotification.showAll.label "Seall na h-uile">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "45em">
 
 
 <!ENTITY uiTour.infoPanel.close "Dùin">
@@ -984,37 +273,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Brabhsadh sàbhailte!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Mòran taing!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Faigh barrachd fiosrachaidh mu DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "Luchdaich a-nuas ùrachadh &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Luchdaich a-nuas lethbhreac ùr de &brandShorterName;">
 <!ENTITY updateRestart.panelUI.label2 "Dèan ath-thòiseachadh airson &brandShorterName; ùrachadh">
-
-<!ENTITY newTabControlled.header.message "Chaidh na chì thu air taba ùr atharrachadh.">
-<!ENTITY newTabControlled.keepButton.label "Cum na h-atharraichean">
-<!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "Cuir an leudachan à comas">
-<!ENTITY newTabControlled.disableButton.accesskey "D">
-
-<!ENTITY homepageControlled.message "Dh’atharraich leudachan an duilleag a chì thu mar dhuilleag-dhachaidh agad. ’S urrainn dhut na roghainnean agad aiseag mur an robh thu ag iarraidh seo.">
-
-<!ENTITY homepageControlled.header.message "Chaidh an duilleag-dhachaidh agad atharrachadh.">
-<!ENTITY homepageControlled.keepButton.label "Cum na h-atharraichean">
-<!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "Cuir an leudachan à comas">
-<!ENTITY homepageControlled.disableButton.accesskey "D">
-
-<!ENTITY tabHideControlled.header.message "Faigh cothrom air na tabaichean falaichte agad">
-<!ENTITY tabHideControlled.keepButton.label "Cum na tabaichean falaichte">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "Cuir an leudachan à comas">
-<!ENTITY tabHideControlled.disableButton.accesskey "D">
-
-<!ENTITY pageActionButton.tooltip "Gnìomhan na duilleige">
-<!ENTITY pageAction.addToUrlbar.label "Cuir ri bàr an t-seòlaidh">
-<!ENTITY pageAction.removeFromUrlbar.label "Thoir air falbh o bhàr an t-seòlaidh">
-<!ENTITY pageAction.manageExtension.label "Stiùirich an leudachan...">
 
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">
 

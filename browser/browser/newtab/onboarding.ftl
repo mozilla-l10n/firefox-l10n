@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Barrachd fiosrachaidh
-onboarding-button-label-try-now = Feuch e an-dràsta
 onboarding-button-label-get-started = Dèan toiseach tòiseachaidh
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = Fàilte gu { -brand-short-name }
 onboarding-welcome-body = Tha am brabhsair agad.<br/>Thoir eòlas air a’ chòrr de { -brand-product-name }.
 onboarding-welcome-learn-more = Barrachd fiosrachaidh mu na buannachdan.
 
-onboarding-join-form-header = gabh pàirt ann am { -brand-product-name }
 onboarding-welcome-modal-get-body = Tha am brabhsair agad.<br/>Cuir { -brand-product-name } gu làn-fheum a-nis.
 onboarding-welcome-modal-supercharge-body = Cuir spionnadh sna gleusan a dhìonas do phrìobhaideachd.
 onboarding-welcome-modal-privacy-body = Tha am brabhsair agad. Cuireamaid fiù barrachd dìon prìobhaideachd ris.
@@ -46,6 +44,13 @@ onboarding-start-browsing-button-label = Tòisich air brabhsadh
 onboarding-cards-dismiss =
     .title = Leig seachad
     .aria-label = Leig seachad
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -74,14 +79,7 @@ onboarding-sync-form-sub-header = a leantainn air adhart gu { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Bathar feumail
-
 onboarding-benefit-products-text = Falbh an ceann do ghnothaich le sreath de dh’innealan a dhìonas do phrìobhaideachd air feadh nan uidheaman agad.
-
-onboarding-benefit-knowledge-title = Fiosrachadh feumail
-onboarding-benefit-knowledge-text = Fàs eòlach air rudan a chumas sàbhailte thu air loidhne air dòighean nas tapaidhe.
-
-onboarding-benefit-privacy-title = Fìor-phrìobhaideachd
 
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -108,22 +106,6 @@ onboarding-benefit-lockwise-text = Stiùirich faclan-faire a tha fo dhìon agus 
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Brabhsadh prìobhaideach
-onboarding-private-browsing-text = Dèan brabhsadh ’nad aonar. Bacaidh brabhsadh prìobhaideach le bacadh susbaint tracaichean air loidhne a leanadh tu air feadh an lìon.
-
-onboarding-screenshots-title = Glacaidhean-sgrìn
-onboarding-screenshots-text = Tog, sàbhail is co-roinn glacadh-sgrìn – gun { -brand-short-name } fhàgail. Glac earrann no duilleag air fad is tu ri brabhsadh. Is sàbhail e air an lìon an uairsin airson cothrom fhaighinn air no a cho-roinneadh gun chnap-starra.
-
-onboarding-addons-title = Tuilleadain
-onboarding-addons-text = Cuir barrachd ghleusan ris agus nì { -brand-short-name } barrachd dhut. Dèan coimeas eadar prìsean, thoir sùil air aithris na h-aimsire, ceartaich an litreachadh Gàidhlig agad no cuir dreach pearsanta air.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Dèan brabhsadh nas luaithe, nas tapaidhe no nas sàbhailte le leudachain mar Ghostery a bhacas sanasachd dhòrainneach.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sioncronaich
-onboarding-fxa-text = Clàraich airson { -fxaccount-brand-name } agus sioncronaich na comharran-lìn, faclan-faire is tabaichean fosgailte o àite sam bith far an cleachd thu { -brand-short-name }.
-
 onboarding-tracking-protection-title2 = Dìon o thracadh
 onboarding-tracking-protection-text2 = Tha { -brand-short-name } gad dhìon o làraichean-lìn a tha airson do thracadh air loidhne agus nì sin nas dorra e do shanasachd a bhith gad leantainn mun cuairt air an lìon.
 onboarding-tracking-protection-button2 = Mar a dh’obraicheas e
@@ -134,7 +116,6 @@ onboarding-data-sync-text2 = Sioncronaich na comharran-lìn, faclan-faire ’s m
 onboarding-data-sync-button2 = Clàraich a-steach gu { -sync-brand-short-name }
 
 onboarding-firefox-monitor-title = Bidh furachail a thaobh briseadh dàta
-onboarding-firefox-monitor-text = Cumaidh { -monitor-brand-name } sùil airson a’ phuist-d agad ma nochd e ann am briseadh dàta roimhe agus cuiridh e brath thugad ma nochdas e ann am briseadh dàta ùr.
 onboarding-firefox-monitor-text2 = Cumaidh { -monitor-brand-name } sùil airson a’ phuist-d agad ma nochd e ann am briseadh dàta roimhe agus cuiridh e brath thugad ma nochdas e ann am briseadh dàta ùr.
 onboarding-firefox-monitor-button = Clàraich airson rabhaidhean
 

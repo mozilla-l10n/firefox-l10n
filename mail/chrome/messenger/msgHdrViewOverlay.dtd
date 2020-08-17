@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Tasg-lann">
 <!ENTITY hdrArchiveButton1.tooltip "Cuir an teachdaireachd seo san tasg-lann">
-<!ENTITY hdrOpenConversationButton1.label "Còmhradh">
-<!ENTITY hdrOpenConversationButton1.tooltip "Seall còmhradh na teachdaireachd seo">
 <!ENTITY hdrSmartReplyButton1.label "Freagairt ghlic">
 <!ENTITY hdrReplyButton1.label "Freagair">
 <!ENTITY hdrReplyButton2.tooltip "Freagair seòladair na teachdaireachd seo">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Freagair an liosta puist">
 <!ENTITY hdrFollowupButton1.label "Freagair">
 <!ENTITY hdrFollowupButton1.tooltip "Freagair am buidheann-naidheachd seo">
-<!ENTITY hdrMenuForwardButton.label "Sìn air adhart mar">
 <!ENTITY hdrForwardButton1.label "Sìn air adhart">
 <!ENTITY hdrForwardButton1.tooltip "Sìn an teachdaireachd air adhart gu">
 <!ENTITY hdrJunkButton1.label "Truilleis">

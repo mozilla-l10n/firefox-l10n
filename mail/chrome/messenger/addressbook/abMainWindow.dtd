@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Deasaich">
 <!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "Neo-dhèan">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "N">
-<!ENTITY redoCmd.label                                  "Ath-dhèan">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "A">
-<!ENTITY cutCmd.label                                   "Gearr às">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "G">
-<!ENTITY copyCmd.label                                  "Dèan lethbhreac">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "c">
-<!ENTITY pasteCmd.label                                 "Cuir ann">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "C">
 <!ENTITY deleteCmd.label                                "Sguab às">
-<!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Sguab às leabhar nan seòladh">
 <!ENTITY deleteContactCmd.label                         "Sguab às a' charaid">
 <!ENTITY deleteContactsCmd.label                        "Sguab às luchd-aithne">
 <!ENTITY deleteListCmd.label                            "Sguab às liosta">
 <!ENTITY deleteListsCmd.label                           "Sguab às liostaichean">
 <!ENTITY deleteItemsCmd.label                           "Sguab às rudan">
-<!ENTITY selectAllCmd.label                             "Tagh a h-uile">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Dèan suaip eadar ainm/sloinneadh">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "D">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Roghainnean">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

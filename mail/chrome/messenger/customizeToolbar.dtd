@@ -12,8 +12,5 @@
 <!ENTITY iconsBesideText.label    "Ìomhaigheagan ri taobh an teacsa">
 <!ENTITY useSmallIcons.label      "Cleachd ìomhaigheagan beaga">
 <!ENTITY restoreDefaultSet.label  "Aisig an seata bunaiteach">
-<!ENTITY addNewToolbar.label      "Cuir bàr-inneal ùr ris">
-<!ENTITY showTitlebar.label       "Seall bàr an tiotail">
-<!ENTITY extraDragSpace.label     "Cuir raon slaodaidh ris">
 <!ENTITY saveChanges.label        "Deiseil">
 <!ENTITY undoChanges.label        "Neo-dhèan na h-atharraichean">

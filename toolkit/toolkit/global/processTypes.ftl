@@ -4,10 +4,6 @@
 
 process-type-web = Web Content
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Privileged Content
-
 process-type-extension = Extension
 
 # process used to open file:// URLs

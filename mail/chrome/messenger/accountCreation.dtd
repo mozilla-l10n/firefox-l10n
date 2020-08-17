@@ -2,16 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Suidhich cunntas puist-d a tha ann">
-
 <!ENTITY name.label                      "D' ainm:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Ainm Sloinneadh">
 <!ENTITY name.text                       "D' ainm, mar a chì daoine eile e">
 <!ENTITY email.label                     "Seòladh a' phuist-dhealain:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "thusa@ball-eisimpleir.com">
 <!ENTITY email.text                      "An seòladh puist-d a th’ agad">
 <!ENTITY password.label                  "Facal-faire:">
 <!ENTITY password.accesskey              "F">
@@ -32,9 +27,6 @@
 <!ENTITY incoming.label                  "A-steach:">
 <!ENTITY outgoing.label                  "A-mach:">
 <!ENTITY username.label                  "Ainm-cleachdaiche:">
-<!ENTITY hostname.label                  "Ainm òstair an fhrithealaiche">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Dearbhachadh">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -65,8 +57,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ath-dheuchainn">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Rèiteachadh làimhe">
-<!ENTITY manual-edit.accesskey           "m">
 <!ENTITY open-provisioner.label          "Faigh seòladh puist-d ùr…">
 <!ENTITY open-provisioner.accesskey      "g">
 

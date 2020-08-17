@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Tèarainteachd">
-<!ENTITY securityTab.label "Tèarainteachd">
-<!ENTITY securityHeading.label "Ma tha thu airson teachdaireachdan le ainm sgrìobhte no feadhainn a chaidh a chrioptachadh a chur 's fhaighinn, bu chòir dhut an dà chuid teisteanas soidhneachaidh digiteach agus teisteanas crioptachaidh a shònrachadh.">
-<!ENTITY encryptionGroupTitle.label "Crioptachadh">
-<!ENTITY encryptionChoiceLabel.label "Roghainn bhunaiteach a' chrioptachaidh a chleachdar nuair a chuireas mi teachdaireachd:">
-<!ENTITY neverEncrypt.label "Chan eil gin (na cleachd crioptachadh)">
-<!ENTITY neverEncrypt.accesskey "n">
-<!ENTITY alwaysEncryptMessage.label "Riatanach (chan urrainnear teachdaireachd a chur ach ma bhios teisteanas aig gach faightear)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Cleachd an teisteanas seo a chum crioptachaidh ⁊ dì-chrioptachadh theachdaireachdan a chaidh a chur thugam:">
-
 <!ENTITY digitalSign.certificate.button "Tagh…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Falamhaich">
@@ -22,15 +11,8 @@
 <!ENTITY encryption.certificate_clear.button "Falamhaich">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Soidhneadh digiteach">
-<!ENTITY signMessage.label "Cuir ainm sgrìobhte digiteach ri teachdaireachdan (a ghnàth)">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Cleachd an teisteanas seo gus ainm sgrìobhte digiteach a chur ri teachdaireachdan a chuireas tu:">
 
-<!ENTITY certificates.label "Teisteanasan">
-<!ENTITY manageCerts2.label "Stiùirich na teisteanasan">
-<!ENTITY manageCerts2.accesskey "n">
-<!ENTITY manageDevices.label "Innealan tèarainteachd">
-<!ENTITY manageDevices.accesskey "I">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Tagh teisteanas">
