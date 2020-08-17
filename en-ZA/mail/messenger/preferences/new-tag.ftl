@@ -5,3 +5,4 @@
 tag-name-label =
     .value = Tag Name:
     .accesskey = T
+

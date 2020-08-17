@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Auto-detect proxy settings for this network
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = Use this proxy server for all protocols
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

@@ -14,6 +14,7 @@ pw-erased-ok = You have deleted your Master Password.  { pw-empty-warning }
 pw-not-wanted = Warning! You have decided not to use a Master Password. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
+
 pw-change-success-title = Password Change Succeeded
 pw-change-failed-title = Password Change Failed
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Change Master Password
+
 set-password-old-password = Current password:
 set-password-new-password = Enter new password:
 set-password-reenter-password = Re-enter password:
@@ -31,6 +33,7 @@ master-password-warning = Please make sure you remember the Master Password you 
 
 remove-password =
     .title = Remove Master Password
+
 remove-info =
     .value = You must enter your current password to proceed:
 remove-warning1 = Your Master Password is used to protect sensitive information like site passwords.

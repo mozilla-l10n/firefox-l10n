@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "Your name:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "First Last">
 <!ENTITY name.text                       "Your name, as shown to others">
 <!ENTITY email.label                     "Email address:">
 <!ENTITY email.accesskey                 "l">
@@ -21,9 +20,6 @@
 <!ENTITY incoming.label                  "Incoming:">
 <!ENTITY outgoing.label                  "Outgoing:">
 <!ENTITY username.label                  "Username:">
-<!ENTITY hostname.label                  "Server hostname">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Authentication">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
@@ -49,8 +45,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Re-test">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Manual config">
-<!ENTITY manual-edit.accesskey           "M">
 
 
 <!ENTITY warning.label                   "Warning!">

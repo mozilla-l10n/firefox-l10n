@@ -102,6 +102,7 @@ devinfo-serialnum =
     .label = Serial Number
 
 fips-nonempty-password-required = FIPS mode requires that you have a Master Password set for each security device. Please set the password before trying to enable FIPS mode.
+
 unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
 
 add-module-failure = Unable to add module
