@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Tsireledzo">
-<!ENTITY securityHeading.label "U rumela na u ṱanganedza milaedza yo sainiwaho kana yo khoudiwaho, ni tea zwi bula hoṱhe ṱhanziela yo sainiwaho nga didzhithala na ṱhanziela yo sainiwaho nga khoudu.">
-<!ENTITY encryptionGroupTitle.label "U nwala nga khoudu">
-<!ENTITY encryptionChoiceLabel.label "Hanedzani nzudzanyo ya u ṅwala nga khoudu musi ni tshi rumela milaedza:">
-<!ENTITY neverEncrypt.label "Naluthihi (ni songo shumisa khoudu)">
-<!ENTITY alwaysEncryptMessage.label "Zwo tendelwaho (ndi nga si rumele mulaedza nga nnda ha musi muṱanganedzi e na ṱhanziela)">
-<!ENTITY encryptionCert.message "Shumisani hei ṱhanziela u ṅwala nga khoudu &amp; itululani khoudu kha mulaedza wo rumelwaho kha inwi:">
-
 <!ENTITY signingGroupTitle.label "U Saina nga Didzhithala">
-<!ENTITY signMessage.label "Sainani mulaedza nga didzhithala (nga zwo hanelwaho)">
-<!ENTITY signingCert.message "Shumisani hei ṱhanziela u saina milaedza ine na i rumela nga didzhithala:">
-
-<!ENTITY certificates.label "Dzithanziela">
 

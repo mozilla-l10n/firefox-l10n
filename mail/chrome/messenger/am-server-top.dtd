@@ -52,14 +52,11 @@
 <!ENTITY maxMessagesEnd.label "milaedza">
 <!ENTITY alwaysAuthenticate.label "Tshifhinga tshothe humbelani vhukwae musi ni tshi dzhena kha hei seva">
 <!ENTITY alwaysAuthenticate.accesskey "f">
-<!ENTITY newsrcFilePath.label "faela ya newsrc:">
-<!ENTITY newsrcPicker.label "Nangani Faela ya mafhungorc">
 <!ENTITY abbreviate.label "Sumbedzani madzina a tshigwada tsha mafhungo kha fasiṱere ḽa Foḽuda ya Meiḽi sa:">
 <!ENTITY abbreviateOn.label "Madzina nga vhuḓalo (Sa tsumbo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Pfufhifhadzani madzina (Sa tsumbo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Yo bvelelaho...">
 <!ENTITY advancedButton.accesskey "y">
-<!ENTITY localPath.label "Tsumbandila yapo:">
 <!ENTITY localFolderPicker.label "Nangani Tsumbandila Yapo">
 <!ENTITY browseFolder.label "Swaswarani...">
 <!ENTITY browseFolder.accesskey "S">

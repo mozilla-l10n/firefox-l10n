@@ -192,6 +192,7 @@ use-current-pages =
 ## Privacy Section - Logins and Passwords
 
 forms-master-pw-fips-title = Zwa zwino ni kha moudu wa FIPS. FIPS i toda Phasiwede Khulwane ire na tshithu.
+
 forms-master-pw-fips-desc = U Shandukiswa ha Phasiwede ho Kundelwa
 
 ## OS Authentication dialog
@@ -231,6 +232,8 @@ forms-master-pw-fips-desc = U Shandukiswa ha Phasiwede ho Kundelwa
 
 ## Privacy Section - Certificates
 
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

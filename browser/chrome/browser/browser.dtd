@@ -6,73 +6,18 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-
 <!-- Tab context menu -->
 
 <!ENTITY tabCmd.label "Ntswa Tab">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Vulani Fhethu...">
 <!ENTITY openFileCmd.label "Vulani Faela...">
-<!ENTITY openFileCmd.accesskey "V">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Nzudzanyo ya Siaṱari...">
-<!ENTITY printSetupCmd.accesskey "n">
-<!ENTITY printPreviewCmd.label "Ṱholandangela ya Ganḓiso">
-<!ENTITY printPreviewCmd.accesskey "n">
 <!ENTITY printCmd.label "Ganḓiso...">
-<!ENTITY printCmd.accesskey "G">
-<!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Shuma Nnḓa ha Ḽaini">
-<!ENTITY goOfflineCmd.accesskey "s">
-
-<!ENTITY navbarCmd.label "Tshibuḽoko tsha Zwishumiswa tsha u Ṱoḓa Nḓila">
 <!ENTITY personalbarCmd.label "Tshibuḽoko tsha Zwishumiswa tsha Tswayo dza Bugu">
 <!ENTITY personalbarCmd.accesskey "T">
 <!ENTITY bookmarksToolbarItem.label "Zwiteṅwa zwa Tshibuḽoko tsha Zwishumiswa tsha Tswayo dza Bugu">
 
-<!ENTITY pageSourceCmd.label "Tshiko tsha Siaṱari">
-<!ENTITY pageSourceCmd.accesskey "i">
-<!ENTITY pageSourceCmd.commandkey "u">
-
-<!ENTITY pageInfoCmd.label "Siaṱari Vhuṱanzi">
-<!ENTITY pageInfoCmd.accesskey "V">
-<!ENTITY pageInfoCmd.commandkey "i">
-
 <!ENTITY fullScreenCmd.label "Tshikirini tsho Ḓalaho">
-<!ENTITY fullScreenCmd.accesskey "T">
 
-
-<!ENTITY fullScreenMinimize.tooltip "Ṱukufhadzani">
-<!ENTITY fullScreenRestore.tooltip "Vhuedzedzani">
-<!ENTITY fullScreenClose.tooltip "Valani">
-
- <!ENTITY closeWindow.label "Valani Fasiṱere">
-
-<!ENTITY bookmarksMenu.label "Tswayo dza Bugu">
-<!ENTITY bookmarksMenu.accesskey "T">
-
-<!ENTITY addCurPagesCmd.label "Bookmark All Tabs...">
-
-<!ENTITY backCmd.label "Murahu">
-<!ENTITY backCmd.accesskey "M">
-<!ENTITY backButton.tooltip "Humelani murahu siaṱari ḽithihi">
-<!ENTITY forwardCmd.label "Phanḓa">
-<!ENTITY forwardCmd.accesskey "P">
-<!ENTITY forwardButton.tooltip "Iyani phanḓa siaṱari ḽithihi">
-<!ENTITY reloadCmd.label "Dzhenisani hafhu">
-<!ENTITY reloadCmd.accesskey "D">
-<!ENTITY stopCmd.label "Imani">
-<!ENTITY stopCmd.accesskey "I">
-<!ENTITY stopCmd.macCommandKey ".">
-
-<!ENTITY goEndCap.tooltip "Go to the address in the Location Bar">
 
 <!ENTITY printButton.label "Ganḓiso">
 <!ENTITY printButton.tooltip "Ganḓisani heḽi siaṱari">
@@ -87,75 +32,23 @@
 <!ENTITY bookmarksButton.label "Tswayo dza Bugu">
 
 <!ENTITY historyButton.label "Ḓivhazwakale">
-<!ENTITY historySidebarCmd.commandKey "h">
-
-<!ENTITY toolsMenu.label "Zwishumiswa">
-<!ENTITY toolsMenu.accesskey "Z">
-
-<!ENTITY keywordfield.label "Engedzani Ipfi ḽihulwane u itela u Ṱoḓa...">
-<!ENTITY keywordfield.accesskey "I">
 
 <!ENTITY downloads.label "Zwidzheniswa">
-<!ENTITY downloads.accesskey "Z">
-<!ENTITY downloads.commandkey "j">
-<!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "A">
-
-<!ENTITY fileMenu.label "Faela">
-<!ENTITY fileMenu.accesskey "F">
 
 <!ENTITY newNavigatorCmd.label "Fasiṱere Ḽiswa">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "F">
 
 <!ENTITY editMenu.label "Dzudzanyani">
-<!ENTITY editMenu.accesskey "D">
-<!ENTITY undoCmd.label "Itululani">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "I">
-<!ENTITY redoCmd.label "Itani hafhu">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "I">
-<!ENTITY cutCmd.label "Gerani">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "g">
-<!ENTITY copyCmd.label "Kopani">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Nambatedzani">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "N">
-<!ENTITY deleteCmd.label "Thuthani">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "T">
-<!ENTITY selectAllCmd.label "Nangani Zwoṱhe">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "Z">
 <!ENTITY preferencesCmdUnix.label "Zwitakalelwa">
-<!ENTITY preferencesCmdUnix.accesskey "k">
 
-<!ENTITY viewMenu.label "Lavhelesani">
-<!ENTITY viewMenu.accesskey "L">
-<!ENTITY viewToolbarsMenu.label "Tshibuḽoko tsha Zwishumiswa">
-<!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY viewSidebarMenu.label "Tshibuḽoko tsha Matungo">
-<!ENTITY viewSidebarMenu.accesskey "t">
-
-<!ENTITY viewCustomizeToolbar.label "Khwinifhadzani...">
-<!ENTITY viewCustomizeToolbar.accesskey "K">
 <!-- XXX historyMenu entities are used with or without places (bug 336058) -->
 
 <!ENTITY historyMenu.label "History">
-<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Recently Closed Tabs">
 <!-- XXX places only -->
 
 <!-- XXX remove above if places sticks -->
 
-<!ENTITY openCmd.commandkey "l">
-
-<!ENTITY urlbar.accesskey "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -178,64 +71,7 @@
   
  -->
 
-<!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
-<!ENTITY searchFocusUnix.commandkey "j">
-
-<!ENTITY search.label "Web Ṱoḓa">
-
-<!ENTITY openLinkCmdInTab.label "Vulani Ṱhumanyo kha Ḽiswa Tab">
-
 <!ENTITY openLinkCmdInTab.accesskey "T">
-<!ENTITY openLinkCmd.label "Vulani Ṱhumanyo kha Ḽiswa Fasiṱere">
-<!ENTITY openLinkCmd.accesskey "F">
-<!ENTITY openFrameCmdInTab.label "Vulani Fureme kha Ḽiswa Tab">
-<!ENTITY openFrameCmdInTab.accesskey "T">
-<!ENTITY openFrameCmd.label "Vulani Fureme kha Ḽiswa Fasiṱere">
-<!ENTITY openFrameCmd.accesskey "F">
-<!ENTITY showOnlyThisFrameCmd.label "Sumbedzani Fhedzi Hei Fureme">
-<!ENTITY showOnlyThisFrameCmd.accesskey "s">
-<!ENTITY reloadCmd.commandkey "r">
-<!ENTITY reloadFrameCmd.label "Dzhenisani hafhu Fureme">
-<!ENTITY reloadFrameCmd.accesskey "D">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Tshiko tsha u Lavhelesa u Nanga">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label "Tshiko tsha u Lavhelesa Siaṱari">
-<!ENTITY viewPageSourceCmd.accesskey "T">
-<!ENTITY viewFrameSourceCmd.label "Tshiko tsha u Lavhelesa Fureme">
-<!ENTITY viewFrameSourceCmd.accesskey "T">
-<!ENTITY viewPageInfoCmd.label "Lavhelesani Siaṱari Vhuṱanzi">
-<!ENTITY viewPageInfoCmd.accesskey "V">
-<!ENTITY viewFrameInfoCmd.label "Lavhelesani Fureme Vhuṱanzi">
-<!ENTITY viewFrameInfoCmd.accesskey "v">
-<!ENTITY viewImageCmd.label "Lavhelesani Tshivhumbeo">
-<!ENTITY viewImageCmd.accesskey "T">
-<!ENTITY viewBGImageCmd.label "Lavhelesani Tshivhumbeo tsha Siangane">
-<!ENTITY viewBGImageCmd.accesskey "l">
-<!ENTITY setDesktopBackgroundCmd.label "Vheani sa Siangene ya Desikethopho...">
-<!ENTITY setDesktopBackgroundCmd.accesskey "V">
-
-<!ENTITY savePageCmd.label "Vhulungani Siaṱari Sa...">
-<!ENTITY savePageCmd.accesskey "S">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2 "P">
-<!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "Vhulungani Fureme Sa...">
-<!ENTITY saveFrameCmd.accesskey "F">
-<!ENTITY saveLinkCmd.label "Vhulungani Ṱhumanyo Sa...">
-<!ENTITY saveLinkCmd.accesskey "n">
-<!ENTITY saveImageCmd.label "Vhulungani Tshivhumbeo Sa...">
-<!ENTITY saveImageCmd.accesskey "v">
-<!ENTITY copyLinkCmd.label "Kopani Fhethu ha Ṱhumanyo">
-<!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyImageCmd.label "Kopani Fhethu ha Tshivhumbeo">
-<!ENTITY copyImageCmd.accesskey "k">
-<!ENTITY copyImageContentsCmd.label "Kopani Tshivhumbeo">
-<!ENTITY copyImageContentsCmd.accesskey "k">
-<!ENTITY copyEmailCmd.label "Kopani Ḓiresi ya Emeiḽi">
-<!ENTITY copyEmailCmd.accesskey "Ḓ">
-<!ENTITY thisFrameMenu.label "Hei Fureme">
-<!ENTITY thisFrameMenu.accesskey "h">
 
 <!-- Media (video/audio) controls -->
 
@@ -247,21 +83,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip "Valani baa ya matungo">
 
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Ibvani">
 <!ENTITY quitApplicationCmd.accesskey "I">
-
-<!ENTITY closeCmd.label "Valani">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "V">
-
-<!ENTITY pageStyleMenu.label "Tshitaela tsha Siaṱari">
-<!ENTITY pageStyleMenu.accesskey "a">
-<!ENTITY pageStyleNoStyle.label "A Huna Tshitaela">
-<!ENTITY pageStyleNoStyle.accesskey "a">
-<!ENTITY pageStylePersistentOnly.label "Tshitaela tsha Siaṱari tsha Vhuṱhogwa">
-<!ENTITY pageStylePersistentOnly.accesskey "t">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -272,19 +95,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "L">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label "Shandukisani Tsumbavhuyo ha Siaṱari">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "a">
-<!ENTITY bidiSwitchTextDirectionItem.label "Shandukisani Tsumbavhuyo ha Ḽiṅwalwa">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "a">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
-
 <!ENTITY findOnCmd.label "Wanani kha Heḽi Siaṱari...">
-<!ENTITY findOnCmd.accesskey "W">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Wanani Hafhu">
-<!ENTITY findAgainCmd.accesskey "h">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY spellAddDictionaries.label "Add dictionaries...">
 <!ENTITY spellAddDictionaries.accesskey "A">

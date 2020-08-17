@@ -14,6 +14,7 @@ pw-erased-ok = No thuthu Phasiwede yaṅu Khulwane. { pw-empty-warning }
 pw-not-wanted = Tsivhudzo! No dzhia tsheo ya u sa shumisa Phasiwede yanu Khulwane. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Zwa zwino ni kha moudu wa FIPS. FIPS i ṱoḓa Phasiwede Khulwane ire na tshithu.
+
 pw-change-success-title = U Shandukiswa ha Phasiwede ho Bvelela
 pw-change-failed-title = U Shandukiswa ha Phasiwede ho Kundelwa
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Shandukisani Phasiwede khulwane
+
 set-password-old-password = Phasiwede ya zwino:
 set-password-new-password = Dzhenisani phasiwede ntswa:
 set-password-reenter-password = Dzhenisani hafhu phasiwede:
@@ -31,6 +33,7 @@ master-password-warning = Ni khou humbelwa uri ni humbule Phasiwede Khulwane ye 
 
 remove-password =
     .title = Bvisani Phasiwede Khulwane
+
 remove-info =
     .value = Ni tea u dzhenisa phasiwede yanu ya zwino u itela u bvela phanḓa:
 remove-warning1 = Phasiwede Yanu Khulwane i shumiswa u tsireledza vhuṱanzi ha vhuthogwa sa phasiwede dza saithi.

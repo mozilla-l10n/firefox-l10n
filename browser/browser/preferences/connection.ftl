@@ -9,10 +9,6 @@ connection-proxy-option-auto =
     .label = Sumbani nzudzanyo ya zwithusedzi nga yoṱhe u itela hei netiweke
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = Shumisani hetshi tshithusedzi kha maitele oṱhe
-    .accesskey = d
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

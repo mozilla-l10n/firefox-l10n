@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label "Lulamisani">
-<!ENTITY editMenu.accesskey "l">
-<!ENTITY undoCmd.label "Itululani">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "i">
-<!ENTITY redoCmd.label "Itani hafhu">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "i">
-<!ENTITY cutCmd.label "Gerani">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "g">
-<!ENTITY copyCmd.label "Kopani">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Nambatedzani">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
-<!ENTITY deleteCmd.label "Thuthani">
-<!ENTITY deleteCmd.accesskey "t">
-<!ENTITY selectAllCmd.label "Nangani Zwoṱhe">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "z">
-
 <!ENTITY findCmd.label "Wanani">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "W">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "h">
-<!ENTITY findPreviousCmd.label "Wanani Zwo Fhiraho">
-<!ENTITY findPreviousCmd.accesskey "z">

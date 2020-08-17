@@ -2,26 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Ṱukufhadzani">
-<!ENTITY bringAllToFront.label "Ḓisani Zwoṱhe Phanḓa">
-<!ENTITY zoomWindow.label "Zumani">
-<!ENTITY windowMenu.label "Fasiṱere">
-
-<!ENTITY helpMenu.label "Thuso"> 
-<!ENTITY helpMenu.accesskey "T"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Thuso"> 
-<!ENTITY helpMenuWin.accesskey "T">
-
 <!ENTITY preferencesCmdMac.label "Preferences...">
-<!ENTITY preferencesCmdMac.commandkey ",">
 
 <!ENTITY servicesMenuMac.label "Services">
 
 <!ENTITY hideOtherAppsCmdMac.label "Hide Others">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label "Show All">
 
