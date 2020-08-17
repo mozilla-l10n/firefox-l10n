@@ -43,9 +43,6 @@
 <!ENTITY notCached.longDesc "<p>Kay killkashka mañashka mana tiyana shinankapak chay caché kay &brandShortName;.</p><ul><li>Shina allilla &brandShortName; mana mañan killkashkakuna paymandayak chawcha.</li><li>Clicta shinanki kutin shinankapak kallarinkapak mañankapak killkashkata chay kuska web.</li></ul>">
 
 <!ENTITY netOffline.title "Llankana mana llamiray">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Kutin shinana. &brandShortName; shinanka paskanata shuk llamiray kutin aparinka chay panka. <button id='wifi'>Marikuyana Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Pantashka kamachintashka yuyayta riksichik">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Yanapay willashpa wasiyuk kuska web willankapak kay llakita.</li> </ul>">
