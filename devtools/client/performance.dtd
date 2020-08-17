@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Նմուշառված գործառույթի անվանումը և աղբյուրը:">
 <!ENTITY performanceUI.table.totalAlloc               "Ընդհանուր ընտրանքային հատկացումներ">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Այս վայրում և կլեներում նմուշառված առարկաների հատկացումների ընդհանուր քանակը։">
-<!ENTITY performanceUI.table.selfAlloc                "Ինքնանմուշառված հատկացումներ">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Այս վայրում նմուշառված առարկաների հատկացումների քանակը․">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

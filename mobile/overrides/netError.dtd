@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի շտեմում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաբար չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
 
 <!ENTITY netOffline.title "Ցանցից դուրս">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Կրկին փորձեք։ &brandShortName;-ը կընդունի կապակցումը և կվերաբացի էջը։  <button id='wifi'>Միացնել Wi-Fi-ը</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Խնդրում ենք կապնվել կայքի սեփականատիրոջ հետ՝ այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">

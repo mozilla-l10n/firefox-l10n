@@ -18,9 +18,12 @@ login-app-promo-android =
     .alt = Ձեռք բերել Google Play-ից
 login-app-promo-apple =
     .alt = Ներբեռնել App Store-ից
+
 login-filter =
     .placeholder = Որոնել մուտքագրումներ
+
 create-login-button = Ստեղծել նոր մուտքագրում
+
 fxaccounts-sign-in-text = Ստացեք ձեր գաղտնաբառերը ձեր մյուս սարքերում
 fxaccounts-sign-in-button = Մուտք գործել { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -72,6 +75,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Փնտրո՞ւմ եք ձեր պահպանված մուտքագրումները: Տեղակայեք { -sync-brand-short-name }-ը:
+
 about-logins-login-intro-heading-logged-in = Համաժամեցված մուտք չի գտնվել:
 login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
 login-intro-instruction-fxa = Ստեղծեք կամ մուտք գործեք { -fxaccount-brand-name } այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են
@@ -117,25 +121,31 @@ about-logins-edit-login-os-auth-dialog-message-win = Ձեր մուտքագրու
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = խմբագրել պահպանված մուտքանունը
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ձեր մուտքագրումը խմբագրելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = բացահայտել պահպանված գաղտնաբառը
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Ձեր մուտքագրումը պատճենելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = պատճենեք պահպանված գաղտնաբառը
+
+## Master Password notification
+
+master-password-notification-message = Խնդրում ենք մուտքագրել ձեր գլխավոր գաղտնաբառը ՝ պահպանված մուտքերը և գաղտնաբառերը դիտելու համար
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ձեր մուտքագրումը արտահանելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = արտահանել պահպանված մուտքանունները և գաղտնաբառերը
 
-## Master Password notification
+## Primary Password notification
 
-master-password-notification-message = Խնդրում ենք մուտքագրել ձեր գլխավոր գաղտնաբառը ՝ պահպանված մուտքերը և գաղտնաբառերը դիտելու համար
 master-password-reload-button =
     .label = Մուտք գործել
     .accesskey = L
@@ -163,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Չեղարկել
 confirmation-dialog-dismiss-button =
     .title = Չեղարկել
+
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողությունը չի կարող ետարկվել:
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
+
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանունները և գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կպահպանվեն որպես ընթեռնելի տեքստ (օր. ՝ BadP@ssw0rd), այնպես որ յուրաքանչյուրը, ով կարող է բացել արտահանվող ֆայլը, կարող է դիտել դրանք:
 about-logins-confirm-export-dialog-confirm-button = Արտահանել...
+
 confirm-discard-changes-dialog-title = Վերանայե՞լ չփրկված փոփոխությունները:
 confirm-discard-changes-dialog-message = Բոլոր չպահպանված փոփոխությունները կկորչեն:
 confirm-discard-changes-dialog-confirm-button = Մերժել
@@ -199,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Իմանալ ավելին
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ի այդ անունով մուտքը արդեն գոյություն ունի։ <a data-l10n-name="duplicate-link">Գնա՞լ առկա մուտքագրումները։</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Գաղտնաբառի պահման ժամանակ հայտնվեց սխալ։
+
 
 ## Login Export Dialog
 
@@ -217,3 +232,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] CSV փաստաթուղթ
        *[other] CSV ֆայլ
     }
+
+## Login Import Dialog
+

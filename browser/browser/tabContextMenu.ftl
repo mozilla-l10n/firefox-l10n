@@ -53,12 +53,12 @@ move-to-end =
 move-to-new-window =
     .label = Տեղափոխել Նոր Պատուհան
     .accesskey = Պ
-undo-close-tab =
-    .label = Հետարկել փակված ներդիրը
-    .accesskey = Հ
 tab-context-close-multiple-tabs =
     .label = Փակել բազմակի ներդիրները
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

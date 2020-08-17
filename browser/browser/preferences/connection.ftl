@@ -35,12 +35,7 @@ connection-proxy-http = HTTP պրոքսի
     .accesskey = x
 connection-proxy-http-port = Պորտ
     .accesskey = Դ
-connection-proxy-http-share =
-    .label = Օգտագործել նույն միջնորդը բոլոր աշխատակարգերի համար
-    .accesskey = գ
 
-connection-proxy-ssl = SSL պրոքսի
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Այս միջնորդը օգտագործեք նաև FTP-ի և HTTPS-ի համար
     .accesskey = s

@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Արխիվ">
 <!ENTITY hdrArchiveButton1.tooltip "Արխիվացնել նամակը">
-<!ENTITY hdrOpenConversationButton1.label "Զրույց">
-<!ENTITY hdrOpenConversationButton1.tooltip "Ցույց տալ այս հաղորդագրության զրույցը">
 <!ENTITY hdrSmartReplyButton1.label "Խելացի պատ.">
 <!ENTITY hdrReplyButton1.label "Պատասխանել">
 <!ENTITY hdrReplyButton2.tooltip "Պատասխանել նամակի հեղինակին">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Պատաս. ցանկին">
 <!ENTITY hdrFollowupButton1.label "Հետևել">
 <!ENTITY hdrFollowupButton1.tooltip "Հետևել այս լուրախմբին">
-<!ENTITY hdrMenuForwardButton.label "Փոխանցել որպես">
 <!ENTITY hdrForwardButton1.label "Փոխանցել">
 <!ENTITY hdrForwardButton1.tooltip "Փոխանցել նամակը">
 <!ENTITY hdrJunkButton1.label "Թափոն">

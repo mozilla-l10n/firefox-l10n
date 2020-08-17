@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Պահպանել որպես…
     .accesskey = e
-media-preview =
-    .value = Մեդիայի նախադիտում.
 
 perm-tab =
     .label = Թույլտվություններ
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Այո, cookie-ներ
 security-site-data-no = Ոչ
 
 image-size-unknown = Անհայտ
-not-set-verified-by = Նշված չէ
 page-info-not-specified =
     .value = Նշված չէ
 not-set-alternative-text = Նշված չէ
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Համատեղելիության Եղանակ (Quirks)
 general-strict-mode =
     .value = Ստանդարտներին համաձայն եղանակ
-security-no-owner = Այս վեբ կայքը չի տրամադրում իր սեփականատիրոջ ինֆորմացիան:
 page-info-security-no-owner =
     .value = Այս վեբ կայքը չի տրամադրում իր սեփականատիրոջ ինֆորմացիան:
 media-select-folder = Ընտրեք թղթապանակ՝ պատկերները պահպանելու համար

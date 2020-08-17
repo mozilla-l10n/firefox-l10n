@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Դուրս գալ Լիաէկրանից
 find = Գտնել
 new-tab = Նոր ներդիր
 add-bookmark = Ավելացնել Էջանիշ
-open-bookmarks-sidebar = Բացել էջանիշերի կողմնասյունը
 reader-view = Ընթերցողի դիտում
 # Meant to match the string displayed in an empty URL bar.
 open-location = Որոնել կամ մուտքագրել հասցե

@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Հեղինակային տեղեկատվ�
 certificate-viewer-certificate-policies = Վկայագրի դրույթները
 certificate-viewer-embedded-scts = Ներկառուցված SCTs
 certificate-viewer-crl-endpoints = CRL֊ի վերջնակետերը
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Ներբեռնել
@@ -103,6 +104,7 @@ certificate-viewer-download-pem =
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Այս ընդլայնումը նշվել է որպես կրիտիկական, ինչը նշանակում է, որ հաճախորդները պետք է մերժեն վկայագիրը, եթե նրանք չեն հասկանում դա:

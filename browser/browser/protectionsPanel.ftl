@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Զեկույցը ուղարկելիս սխալ տեղի ունեցավ։ Կրկին փորձեք ավելի ուշ։
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Կայքը շտկվա՞ծ է։ Ուղարկել զեկույց
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Ստանդարտ
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Հետագծումից ընդլայնված պաշտպանության մասին լրացուցիչ տեղեկություններ
+
 protections-panel-etp-on-header = Ընդլայնված պաշտպանությունը հետագծումից ՄԻԱՑՎԱԾ է այս կայքում
 protections-panel-etp-off-header = Ընդլայնված պաշտպանությունը հետագծումից ԱՆՋԱՏՎԱԾ է այս կայքում
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Կայքը չի՞ աշխատում:
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Կայքը չի՞ աշխատում:
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Այս կայքի բոլո�
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name }-ին հայտնի ոչ մի հայտնի հետագծիչներ չեն հայտնաբերվել այս էջում։
+
 protections-panel-content-blocking-tracking-protection = Հետևող բովանդակություն
+
 protections-panel-content-blocking-socialblock = Սոց մեդիայի հետևումներ
 protections-panel-content-blocking-cryptominers-label = Ծպտյալ արժույթներ
 protections-panel-content-blocking-fingerprinters-label = Մատնահետքեր
@@ -57,7 +63,6 @@ protections-panel-not-found-label = Ոչ մեկը չի հայտնաբերվել
 ##
 
 protections-panel-settings-label = Պաշտպանության կարգավորումներ
-protections-panel-showreport-label = Ցույց տալ զեկույց
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Պաշտպանության վահանակ
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = Պաշտպանության վահ
 
 # The header of the list
 protections-panel-site-not-working-view-header = Անջատեք պաշտպանությունները, եթե խնդիրներ ունեք.
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Մուտքի դաշտերը
 protections-panel-site-not-working-view-issue-list-forms = Ձևեր
 protections-panel-site-not-working-view-issue-list-payments = Վճարումներ
 protections-panel-site-not-working-view-issue-list-comments = Մեկնաբանություններ
 protections-panel-site-not-working-view-issue-list-videos = Տեսանյութեր
+
 protections-panel-site-not-working-view-send-report = Ուղարկել զեկույց
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = Գաղտնազերծիչները օգտագոր
 protections-panel-fingerprinters = Մատնահետքերը հավաքում են կարգավորումներ ձեր զննարկչից և համակարգչից ձեր հատկագիրը ստեղծելու համար։ Օգտագործելով այս թվային մատնահետքը, նրանք կարող են հետևել ձեզ տարբեր վեբ կայքերի միջով։
 protections-panel-tracking-content = Կայքերը կարող են բեռնել արտաքին գովազդներ, տեսանյութեր և այլ պարունակություն հետևման կոդով։ Պարունակության հետևումը արգելափակելը կարող է ավելի արագացնել կայքերի բեռնումը, բայց որոշ կոճակներ, ձևեր և մուտքագործման դաշտեր կարող են չաշխատել։
 protections-panel-social-media-trackers = Սոց ցանցերը տեղադրում են հետևումներ այլ վեբ կայքերում հետևելու համար, թե ինչ եք անում՝ տեսնելու և դիտելու առցանց։ Սա թույլատրում է սոց մեդիա ընկերությունների իմանալ ավելին ձեր մասին մինչ ձեր կիսումը հատկագրերում։
+
 protections-panel-content-blocking-manage-settings =
     .label = Կառավարել պաշտպանություն կարգավորումները
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Հաղորդել կոտրված կայքի մասին
 protections-panel-content-blocking-breakage-report-view-description = Որոշ հետևումների արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Այս խնդիրների զեկուցումը { -brand-short-name }-ը բոլորի համար ավելի լավը կդարձնի։ Այս զեկույցն ուղարկելով Mozila-ին կուղարկվի URL և ձեր զննարկչի կարգավորումների մասին տեղեկություն։ <label data-l10n-name="learn-more">Իմանալ ավելին</label>

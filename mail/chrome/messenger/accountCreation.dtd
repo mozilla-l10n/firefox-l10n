@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Տեղակայել էլ. փոստի առկա հաշիվ">
-
 <!ENTITY emailWizard.title               "Էլ․փոստի ձեր գործող հասցեն">
 <!ENTITY emailWizard.caption             "Մուտքագրեք Ձեր էլ­. փոստի հասցեն">
 <!ENTITY name.label                      "Ձեր անունը.">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Անուն ազգանուն">
 <!ENTITY fullname.placeholder            "Ձեր անունը.">
 <!ENTITY name.text                       "Ձեր անունը, որը ցուցադրվելու է բոլորին">
 <!ENTITY name.error                      "Նշեք Ձեր անունը։">
 <!ENTITY email.label                     "Էլ. հասցեն.">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "էլ­. փոստի հասցեն">
 <!ENTITY email.text                      "Էլ. փոստի ձեր գործող հասցեն">
 <!ENTITY email.error                     "Անվավեր Հասցե">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Ելքային.">
 <!ENTITY outgoingColumn.label            "Ելից">
 <!ENTITY username.label                  "Մականուն.">
-<!ENTITY hostname.label                  "Սպասարկիչի հոսթի անունը">
-<!ENTITY port.label                      "Պորտը">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Սպասարկիչ․">
 <!ENTITY portRow.label                   "Մուտք․">
 <!ENTITY sslRow.label                    "SSL․">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Փորձել">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Ձեռադիր կարգ.">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Ձեռքով կազմաձևել…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Ստանալ էլ. փոստի նոր հասցե…">
