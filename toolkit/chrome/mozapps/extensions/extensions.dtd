@@ -3,73 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Ieslēgt">
-<!ENTITY cmd.enableAddon.accesskey            "e">
-<!ENTITY cmd.disableAddon.label               "Atslēgt">
-<!ENTITY cmd.disableAddon.accesskey           "t">
-
-<!ENTITY cmd.askToActivate.label              "Jautāt, lai aktivētu">
-<!ENTITY cmd.askToActivate.tooltip            "Jautāt katru reizi pirms šī papildinājuma izmantošanas">
-<!ENTITY cmd.alwaysActivate.label             "Aktivēt vienmēr">
-<!ENTITY cmd.alwaysActivate.tooltip           "Vienmēr izmantot šo papildinājumu">
-<!ENTITY cmd.neverActivate.label              "Nekad neaktivēt">
-<!ENTITY cmd.neverActivate.tooltip            "Nekad neizmantot šo papildinājumu">
-<!ENTITY cmd.stateMenu.tooltip                "Nosakiet, kad tiks izmantots papildinājums">
-
-<!ENTITY cmd.uninstallAddon.label             "Noņemt">
-<!ENTITY cmd.uninstallAddon.accesskey         "N">
-<!ENTITY cmd.showPreferencesWin.label         "Iestatījumi">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Izmainīt šī papildinājuma iestatījumus">
-<!ENTITY cmd.showPreferencesUnix.label        "Iestatījumi">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Izmainīt šī papildinājuma iestatījumus">
-
-<!ENTITY cmd.showReleaseNotes.label           "Parādīt laidiena piezīmes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Parādīt šī atjauninājuma laidiena piezīmes">
-<!ENTITY cmd.hideReleaseNotes.label           "Paslēpt laidiena piezīmes">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Paslēpt šī laidiena piezīmes">
-<!ENTITY cmd.findReplacement.label            "Atrast aizvietotājus">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Atcelt">
-
-
-<!ENTITY addon.details.label                  "Vairāk">
-<!ENTITY addon.details.tooltip                "Rādīt vairāk informācijas par šo papildinājumu">
-<!ENTITY addon.unknownDate                    "Nezināms">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "MANTOJUMS">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(atslēgts)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "atjauninājums">
-<!ENTITY addon.undoAction.label               "Atcelt">
-<!ENTITY addon.undoAction.tooltip             "Atcelt šo darbību">
-<!ENTITY addon.undoRemove.label               "Atcelt">
-<!ENTITY addon.undoRemove.tooltip             "Saglabāt šo papildinājumu">
-
-<!ENTITY addon.install.label                  "Instalēt">
-<!ENTITY addon.install.tooltip                "Instalēt šo papildinājumu">
-<!ENTITY addon.updateNow.label                "Atjaunināt">
-<!ENTITY addon.updateNow.tooltip              "Instalēt šī papildinājuma atjauninājumu">
-<!ENTITY addon.includeUpdate.label            "Iekļaut atjauninājumā">
-<!ENTITY addon.updateAvailable.label          "Ir pieejams atjauninājums">
-<!ENTITY addon.checkingForUpdates.label       "Meklē atjauninājumus…">
-<!ENTITY addon.releaseNotes.label             "Laidiena piezīmes:">
-<!ENTITY addon.loadingReleaseNotes.label      "Ielādē…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Atvainojiet, bet ielādējot laidiena piezīmes notikusi kļūda.">
-
-<!ENTITY addon.createdBy.label                "Autors: ">
-
-<!ENTITY settings.path.button.label           "Pārlūkot…">
 
 <!ENTITY setting.learnmore "Uzzināt vairāk…">
 

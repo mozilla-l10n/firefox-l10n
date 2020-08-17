@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinhronizētās cilnes
 synced-tabs-sidebar-noclients-subtitle = Gribat redzēt cilnes no citām savām ierīcēm?
-synced-tabs-sidebar-notsignedin = Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.
 synced-tabs-sidebar-unverified = Jūsu kontam nepieciešams apstiprinājums.
 synced-tabs-sidebar-notabs = Nav atvērto cilņu
 synced-tabs-sidebar-openprefs = Atvērt { -sync-brand-short-name } iestatījumus

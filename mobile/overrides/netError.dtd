@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams &brandShortName; kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ &brandShortName; automātiski neveic sensitīvu dokumentu atkārtotu ielādi.</li><li>Spiediet pogu Mēģināt vēlreiz, lai atkārtoti ielādētu šo dokumentu no attiecīgās vietnes.</li></ul>">
 
 <!ENTITY netOffline.title "Nesaistes režīms">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Mēģiniet vēlreiz. &brandShortName; mēģinās atvērt savienojumu un ielādēt lapu. <button id='wifi'>Ieslēgt Wi-Fi</button></li> </ul>">
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> </ul>">

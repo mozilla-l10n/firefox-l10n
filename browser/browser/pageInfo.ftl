@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Saglabāt kā...
     .accesskey = e
-media-preview =
-    .value = Paraugs:
 
 perm-tab =
     .label = Atļaujas
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Jā, sīkdatnes
 security-site-data-no = Nē
 
 image-size-unknown = Nezināms
-not-set-verified-by = Nav norādīts
 page-info-not-specified =
     .value = Nav norādīts
 not-set-alternative-text = Nav norādīts
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Saderības režīms
 general-strict-mode =
     .value = Standartu atbilstības režīms
-security-no-owner = Šī mājas lapa nepiedāvā informāciju par savu īpašnieku.
 page-info-security-no-owner =
     .value = Šī mājas lapa nepiedāvā informāciju par savu īpašnieku.
 media-select-folder = Izvēlieties mapi, kurā saglabāt attēlus

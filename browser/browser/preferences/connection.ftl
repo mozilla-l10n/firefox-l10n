@@ -35,12 +35,6 @@ connection-proxy-http = HTTP starpniekserveris
     .accesskey = x
 connection-proxy-http-port = Ports
     .accesskey = P
-connection-proxy-http-share =
-    .label = Izmantot proxy visiem protokoliem
-    .accesskey = x
-
-connection-proxy-ssl = SSL starpniekserveris
-    .accesskey = L
 
 connection-proxy-ssl-port = Ports
     .accesskey = o

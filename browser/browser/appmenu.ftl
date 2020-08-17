@@ -5,7 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Privātuma aizsardzība
 appmenuitem-customize-mode =
     .label = Pielāgot…
 
@@ -20,3 +19,4 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kas jauns?
+

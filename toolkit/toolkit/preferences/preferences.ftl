@@ -14,6 +14,7 @@ pw-erased-ok = Jūs izdzēsāt savu galveno paroli. { pw-empty-warning }
 pw-not-wanted = Brīdinājums! Jūs izlēmāt neizmantot galveno paroli. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Jūs šobrīd esat FIPS režīmā. FIPS nepieļauj tukšu galveno paroli.
+
 pw-change-success-title = Parole sekmīgi nomainīta
 pw-change-failed-title = Neizdevās nomainīt paroli
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Mainīt galveno paroli
+
 set-password-old-password = Pašreizējā parole:
 set-password-new-password = Ievadiet jaunu paroli:
 set-password-reenter-password = Vēlreiz ievadiet paroli:
@@ -31,6 +33,7 @@ master-password-warning = Lūdzu, atcerieties šeit ievadīto galveno paroli. Ja
 
 remove-password =
     .title = Noņemt galveno paroli
+
 remove-info =
     .value = Lai turpinātu, jāievada pašreizējā parole:
 remove-warning1 = Jūsu galvenā parole aizsargā svarīgu informāciju, piemēram, vietņu paroles.

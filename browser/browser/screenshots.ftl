@@ -5,3 +5,4 @@
 screenshots-cancel-button = Atcelt
 screenshots-download-button = Lejupielādēt
 screenshots-copy-button = Kopēt
+

@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Apskatītās funkcijas nosaukums un atrašanās vieta.">
 <!ENTITY performanceUI.table.totalAlloc               "Kopā apskatītās piešķiršanas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Kopējais apskatīto objekta piešķīrumu skaits šajā vietā un izsaucējos">
-<!ENTITY performanceUI.table.selfAlloc                "Paša apskatītie piešķīrumi">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Kopējais apskatīto objekta piešķīrumu skaits šajā vietā.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

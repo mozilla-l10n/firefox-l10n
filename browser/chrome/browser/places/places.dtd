@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Izvēlēties failu...">
 <!ENTITY cmd.restoreFromFile.accesskey  "I">
 
-<!ENTITY cmd.deleteDomainData.label     "Aizmirst par šo lapu">
-<!ENTITY cmd.deleteDomainData.accesskey "A">
-
-<!ENTITY cmd.open.label                  "Atvērt">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Atvērt jaunā logā">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Atvērt saiti jaunā privātajā logā">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Atvērt jaunā cilnē">
-<!ENTITY cmd.open_tab.accesskey          "u">
-<!ENTITY cmd.open_all_in_tabs.label      "Atvērt visas cilnēs">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
-
-<!ENTITY cmd.properties.label      "Īpašības">
-<!ENTITY cmd.properties.accesskey  "p">
-
-<!ENTITY cmd.sortby_name.label              "Kārtot pēc nosaukuma">
-<!ENTITY cmd.sortby_name.accesskey          "K">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Jauna grāmatzīme...">
-<!ENTITY cmd.new_bookmark.accesskey        "g">
-<!ENTITY cmd.new_folder.label              "Jauna mape...">
-<!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "m">
-<!ENTITY cmd.new_separator.label           "Jauns atdalītājs">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Nosaukums">
 <!ENTITY col.tags.label          "Birkas">
 <!ENTITY col.url.label           "Adrese">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Apmeklējumu skaits">
 <!ENTITY col.dateadded.label     "Pievienota">
 <!ENTITY col.lastmodified.label  "Pēdējo reizi labota">
-
-<!ENTITY historySearch.placeholder  "Meklēšanas vēsture">
-<!ENTITY bookmarksSearch.placeholder  "Meklēt grāmatzīmes">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Izvēlieties elementu, ko aplūkot vai rediģēt">
 
-<!ENTITY view.label               "Skats">
-<!ENTITY view.accesskey           "t">
-<!ENTITY byDate.label             "Pēc datuma">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Pēc vietnes">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Pēc visbiežākā apmeklējuma">
-<!ENTITY byMostVisited.accesskey  "v">
-<!ENTITY byLastVisited.label      "Pēc pēdējā apmeklējuma">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Pēc datuma un vietnes">
-<!ENTITY byDayAndSite.accesskey   "t">

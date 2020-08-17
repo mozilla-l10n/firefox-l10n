@@ -64,15 +64,6 @@
 <!ENTITY redoCmd.label "Atcelt atsaukšanu">
 
 <!ENTITY redoCmd.accesskey "t">
-<!ENTITY cutCmd.label "Izgriezt">
-
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopēt">
-
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Ielīmēt">
-
-<!ENTITY pasteCmd.accesskey "I">
 
 
 
@@ -81,8 +72,6 @@
 
 
 
-
-<!ENTITY selectAllCmd.label "Atlasīt visus">
 
 <!ENTITY selectAllCmd.accesskey "v">
 
