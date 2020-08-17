@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Tshireletseho">
-<!ENTITY securityHeading.label "Ho romela melaetsa e saennweng kapa e enkriptilweng, o lokela ho hlakisa setefikeiti sa ho saena ka dijitale kapa setifikeiti sa ho ekripta.">
-<!ENTITY encryptionGroupTitle.label "Ho enkripta">
-<!ENTITY encryptionChoiceLabel.label "Disetwa tsa kamehla tsa ho ekripta ha o romela melaetsa:">
-<!ENTITY neverEncrypt.label "Le kgale (se sebedisi khoute)">
-<!ENTITY alwaysEncryptMessage.label "E a hlokeha (molaetsa o ke ke wa romelwa ntle le ha baamohedi bohle ba ena le setefikeiti)">
-<!ENTITY encryptionCert.message "Sebedisa setefikeiti sena ho enkripta &amp; ho enkriptolla melaetsa e rometsweng ho wena:">
-
 <!ENTITY signingGroupTitle.label "Tshaeno ya Dijitale">
-<!ENTITY signMessage.label "Molaetsa o saennweng ka dijitale (kamehla)">
-<!ENTITY signingCert.message "Sebedisa setefikeiti sena ho saena ka dijitale melaetsa eo o e romelang:">
-
-<!ENTITY certificates.label "Ditefikeiti">
 

@@ -8,7 +8,6 @@
 
 <!ENTITY importFrom.label "Dikgetho tsa Thomelo-kahare, Ditshwayabuka, Histori, Diphasewete le data e nngwe:">
 <!ENTITY importFromUnix.label "Boikgethelo ba Thomelo-kahare, Ditshwayabuka, Histori, Diphasewete le data e nngwe ho tswa ho:">
-<!ENTITY importFromBookmarks.label "Romela-kahare ditshwayabuka ho tswa ho:">
 
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">

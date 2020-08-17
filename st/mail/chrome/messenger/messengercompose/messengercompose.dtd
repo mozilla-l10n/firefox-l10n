@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "Pheta">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "p">
-<!ENTITY cutCmd.label "Kgaola">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "o">
-<!ENTITY copyCmd.label "Khopi">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Peista">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY editRewrapCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Phumula">
 <!ENTITY deleteCmd.accesskey "p">
 <!ENTITY editRewrapCmd.label "Phuthela botjha">
-<!ENTITY selectAllCmd.label "Kgetha Tsohle">
 <!ENTITY selectAllCmd.accesskey "t">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Fumana Hape">
 <!ENTITY findAgainCmd.accesskey "a">
 <!ENTITY findAgainCmd.key "G">
@@ -180,17 +172,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "E tswa ho:">
 <!ENTITY fromAddr.accesskey "t">
-<!ENTITY toAddr.label "E ya ho:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Araba-Ho:">
-<!ENTITY newsgroupsAddr.label "Sehlopha sa ditaba:">
-<!ENTITY followupAddr.label "Tshalomorao-Ho:">
-<!ENTITY subject.label "Taba:">
 <!ENTITY subject.accesskey "T">
-<!ENTITY attachments.accesskey "p">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 

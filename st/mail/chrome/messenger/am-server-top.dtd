@@ -52,14 +52,11 @@
 <!ENTITY maxMessagesEnd.label "melaetsa">
 <!ENTITY alwaysAuthenticate.label "Kamehla kopa netefaletso pele o hokela seveng ena">
 <!ENTITY alwaysAuthenticate.accesskey "m">
-<!ENTITY newsrcFilePath.label "faele ya ditaba:">
-<!ENTITY newsrcPicker.label "Kgetha faele ya Ditaba">
 <!ENTITY abbreviate.label "Bontsha mabitso a dihlopha tsa ditaba fenstereng ya Foldara ya Meile e le:">
 <!ENTITY abbreviateOn.label "Mabitso ka botlalo (mohlala, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Kgutsufatsa mabitso (Mohlala, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "E hatetseng pele...">
 <!ENTITY advancedButton.accesskey "h">
-<!ENTITY localPath.label "Daerekthri ya tikoloho:">
 <!ENTITY localFolderPicker.label "Kgetha Daerektri ya Haufi">
 <!ENTITY browseFolder.label "Lekola...">
 <!ENTITY browseFolder.accesskey "L">

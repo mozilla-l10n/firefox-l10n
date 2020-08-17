@@ -192,6 +192,7 @@ use-current-pages =
 ## Privacy Section - Logins and Passwords
 
 forms-master-pw-fips-title = Hajwale o mokgweng wa FIPS. FIPS e hloka Phasewete e Kgolo e seng lephaka.
+
 forms-master-pw-fips-desc = Phetolo ya Phasewete e Hlolehile
 
 ## OS Authentication dialog
@@ -231,6 +232,8 @@ forms-master-pw-fips-desc = Phetolo ya Phasewete e Hlolehile
 
 ## Privacy Section - Certificates
 
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
