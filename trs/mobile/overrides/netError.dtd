@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Ñanj nana'uî't ni nitaj ma nu riña caché si'iaj &brandShortName;.</p><ul><li>Guendâ ga nì gache nut ni, &brandShortName; nu achín nasinùnj ma 'ngo ñanj ahii ma.</li><li>Guru'ma ra'a riña taj nayi'ì nakà ñû da' nu ga'ue na'nïnj ra'a ñanj nana'ui' ra.</li></ul>">
 
 <!ENTITY netOffline.title "Si gida'aj internet">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Nayi'ì ñû. &brandShortName; ni ni'ia si ga'ue nari'ìj internet ni na'nïn riña página. <button id='wifi'>Nachrun Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Gire' 'ngo chrej nana'uij sa gachrûnt">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Gi'iaj 'ngo sunnuj ni, nanà'uì' ahui si si'iaj huin sitiô na ni gachinj na'anjt nuj huin saj gire'ej.</li> </ul>">

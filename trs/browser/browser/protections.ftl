@@ -20,21 +20,6 @@ graph-total-tracker-summary =
        *[other] <b>{ $count }</b> naran riña nej sa naga'naj a asij { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Danaj yakàn nukuaj sa narán <b>man Da'nga' ngè</b>
-    .title = Guij riña si configurasiûn sa naràn rayi'ît
-protection-report-header-details-strict = Danaj yakàn nùkuaj sa narán <b>Ûta yakàn huaj</b>
-    .title = Guij riña si configurasiûn sa naràn rayi'ît
-protection-report-header-details-custom = Danaj yakàn nùkuaj sa narán <b>Dàj nagi'iát</b>
-    .title = Guij riña si configurasiûn sa naràn rayi'ît
-protection-report-page-title = Nej sa narán rayi'ît
-protection-report-content-title = Nej sa narán rayi'ît
-
-etp-card-title = Sa narán rayi'ît nùkuaj doj
-etp-card-content = Sa 'iaj nej sa naga'naj a huin sisi nikò' nej man sò' ngà aché nunt ni 'iaj tuj nej nuguan' hua 'iát ni nej sa 'iát. { -brand-short-name } narán riña ga'ì nej sa naga'naj nan ni riña a'ngô nej sa yi'ìi.
-
 protection-report-etp-card-content-custom-not-blocking = Gina’àj sa dugumîn sò’ akuan’ nïn nan. Naguī ahuin sa naga’nāj garánt riña sisī garasunt si konfigurasiûn sa dugumîn gu’nàj { -brand-short-name }.
 protection-report-manage-protections = Gi’nïnj ra’a configuración
 
@@ -61,20 +46,8 @@ cryptominer-tab-title = Nej kriptominêro
 cryptominer-tab-content = Arâj sun nej kriptominêro sa hua riña si aga't da' gi'iaj tuj san'anj digital. Nej scripts nikaj nej kriptominerîa dunahuij hìo man ñan'an nu riña si aga't, nagi'iaj naj man ni ga'ue gahui yakàn ña'aan riñant. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
   
 lockwise-title = Si gini'ñûnt da'nga' huì nikajt a'ngô ñû
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } na'nïn sà' hue'ej nej da'nga' huì nikajt riña aché nunt
 lockwise-header-content-logged-in = Nachra sà' ni nagi'iaj guña nej da'nga' huì nikajt riña daran nej si aga't.
-protection-report-view-logins-button = Ni’iā riña gayì’ìt sesiûn
-    .title = Guīj riña na’nïn sà’t riña gayì’ìt sesiûn
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Nanun sa' da'nga' huìi <a data-l10n-name="lockwise-how-it-works">Dàj 'iaj sunj</a>
-       *[other] Nanun sà' nej da'nga' huìi <a data-l10n-name="lockwise-how-it-works">Dàj 'iaj sunj</a>
-    }
 
 turn-on-sync = Na'nïn riña{ -sync-brand-short-name }...
     .title = Guij riña nej si preferencia sa nagi'iaj guñant
@@ -83,7 +56,6 @@ monitor-title = Sasà' ni'iajt sisi nadunâ nej si sa hua riña nej dâto
 monitor-link = Dàj 'iaj sunj
 monitor-header-content-no-account = Nātsij ni'iajt { -monitor-brand-name } da' gini'înt sisī gi'iaj yi'ì nej si si datôt nī ga'ue nahuin ra'at nej nuguan' natà' snan'anj sisī ruhuâ nej si gi'iaj yi'ì ñû nej si.
 monitor-header-content-signed-in = { -monitor-brand-name } atāj snan'ānj gunïnt sisī gi'iaj yi'ì nej si nej datô nikājt.
-monitor-sign-up = Nutà' si yuguît da' ga'ue nahuin ra'ât nej nuguan' a'min rayi'ì sa nu dugahuin
 auto-scan = Gui hìaj ni 'iaj eskaneândo man'an man
 
 # This string is displayed after a large numeral that indicates the total number
@@ -111,17 +83,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] Huā ni'nïnj chre da'nga' huì riña ga'ue huā sa giran't
        *[other] Huā ni'nïnj chre nej da'nga' huì riña ga'ue huā sa giran't
-    }
-
-full-report-link = Ni'iaj da' hua ngè infôrme rayi'î <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Riña gayi'ì sesiûn na'nïn sà't ni hua riña ahi ginun si datôt. Naduna da'nga' huì nan da' ga gudadû doj gachet riña lînia. <a data-l10n-name="lockwise-link">Gini'iaj riña gayi'ìt sesûn na'nïn sà't</a>
-       *[other] Riña gayi'ì nej sesiûn na'nïn sà't ni hua riña ahi ginun si datôt. Naduna nej da'nga' huì nan da' ga gudadû doj gachet riña lînia. <a data-l10n-name="lockwise-link">Gini'iaj riña gayi'ìt sesûn na'nïn sà't</a>
     }
 
 ## The title attribute is used to display the type of protection.

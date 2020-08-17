@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Na'nïnj so' 'ngà...
     .accesskey = e
-media-preview =
-    .value = Daj gurui' ma:
 
 perm-tab =
     .label = Gachinj ni'iô'
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ga'ue, kookies
 security-site-data-no = Si ga'ue
 
 image-size-unknown = Sê sa ni'în' huin
-not-set-verified-by = Nuni'in ahuin si huin
 page-info-not-specified =
     .value = Nuni'in ahuin si huin
 not-set-alternative-text = Nuni'in ahuin si huin
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Da' ruguñu'unj ma
 general-strict-mode =
     .value = Da' ruguñu'unj guña ma
-security-no-owner = Nitaj si ni'in sitio na rayi'ì nej si aga't.
 page-info-security-no-owner =
     .value = Nitaj si ni'in sitio na rayi'ì nej si aga't.
 media-select-folder = Ganahui 'ngò karpetâ riña na'nïnj sa't nej ña du'ua ma

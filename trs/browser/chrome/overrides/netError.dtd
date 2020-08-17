@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Na'ue gatu riña internet ma">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Hua arán riña sitiô na">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Nu narì'ij serbidor">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Mmmm. Na'ue nari' ma sitio na ma.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Si hua hue'ê direksiôn na ni ga'ue garahuet 'ngà nej sa 'na' na:</strong>
 <ul>
@@ -33,17 +27,11 @@
   <li>Si rajsunt firewall, ni ni'iaj &brandShortName; a'nine ma gatu't riña web.</li>
 </ul>">
 
-<!ENTITY fileNotFound.title "Nu narì'ij archivo">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Natsij ni ni'iajt si nu gachrun a'na't si yugui archivo.</li> <li>Natsij ni ni'iajt si nu narè' archivo, gisikij asi nadunâ si yugui.</li> </ul>">
-
-<!ENTITY fileAccessDenied.title "Nun raj yinaj gun' aa atû'">
 
 <!ENTITY fileAccessDenied.longDesc "<ul> 
 <li> ga'ue si ganare'ej nej si guisikïj dadin' na'ue gun ña atû'.</li> 
 </ul>">
-
-<!ENTITY generic.title "'Uà'">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; hua nuj huin saj na'ue na'nïn página na.</p>">
 
@@ -53,81 +41,50 @@
 <!ENTITY openPortalLoginPage.label2 "Nanïn' pajinâ riña Ayi'i' sesiôn riña red">
 
 <!ENTITY malformedURI.pageTitle "Nitaj si ni'ñanj URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Mmm. Nitaj si ra'nga' hue'ê direksiôn na.">
-
-<!ENTITY netInterrupt.title "Giyichin' ngè conexión">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Ngà gire' ñanj na">
-
 <!ENTITY notCached.longDesc "<p>Nitaj si nu ñaj nana'ui't riña cache &brandShortName;.</p><ul><li>Guenda ga yitiïnj, &brandShortName; ni si gachín da' nana'ui' ma'an ma ñaj hua ahi</li><li>Ga'ui' riña taj garahue ñu' da' gachinjt ñaj na riña sitio web.</li></ul>">
 
-<!ENTITY netOffline.title "Si gida'aj internet">
-
 <!ENTITY netOffline.longDesc2 "<ul><li>prênsa &quot;Narì' nukuaj ñû&quot; da' natut riña lînia ni ga'ue nayi'nïn pâjina.</li></ul>">
-
-<!ENTITY contentEncodingError.title "Gire' 'ngo chrej nana'uij sa gachrûnt">
 
 <!ENTITY contentEncodingError.longDesc "<ul>
  <li>Gi'iaj 'ngo sunnuj ni, nanà'uì' ahui si si'iaj huin sitiô na ni gachinj na'anjt nuj huin saj gire'ej.</li>
 </ul>">
 
-<!ENTITY unsafeContentType.title "'Ngo archivo hua ahii huin">
-
 <!ENTITY unsafeContentType.longDesc "<ul>
  <li>Gi'iaj 'ngo sunnuj ni, nanà'uì' ahui si si'iaj huin sitiô na ni gachinj na'anjt nuj huin saj gire'ej.</li>
  </ul>">
 
-<!ENTITY netReset.title "Nayi'ì ñû conexión">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Ganahuij diû ana'uijt">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Nu gachrun hue'êt direksiôn">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul>
  <li>Da'uît ni ga'nïnjt a'ngô programa da' nu nayi'nïj riña dirección na.</li>
  </ul>">
-
-<!ENTITY proxyConnectFailure.title "Nu a'nïnj servidor proxy gatut riña internet">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Ni'iaj si nagi'iaj hue'êt riña proxy a.</li> 
 <li>Ga'min ngà sô' 'nïnj ra'a red na da' gini'in yangà't sisi proxy  'iaj sun hue'ê a.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Na'ue nari'ìj proxy ma">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>Natsij ni'iaj dàj nahuin Proxy da' gini'înt si hua hue'ê man.</li><li>Ni'iaj sisi 'iaj sun red ngà si aga't aga' sikà' ràa.</li><li> sisi hua sa tna'uej rayi'î si agâ't rû' huaj nin &brandShortName; a'nïn gatut riña web.</li></ul>">
-
-<!ENTITY redirectLoop.title "Nitaj si 'iaj redireksionando hue'ê pajinâ nan">
 
 <!ENTITY redirectLoop.longDesc "<ul>
  <li>'Iaj chì' riña aga' na si guruhuaj dadin ga'nèjt nej cookies.</li> 
 </ul>">
-
-<!ENTITY unknownSocketType.title "Se 'ngo nuguan' hue'ê nariki servidor">
 
 <!ENTITY unknownSocketType.longDesc "<ul>
  <li>Natsij ni ni'iajt sisi nikaj si aga't 'ngo sa narán riña nej nuguan'  a'min rayi'î ra.</li> 
 <li>Sa nagi'iaj nakàt ni se 'ngo sa aran' dugui' ngà servidor huin yi'ì dan 'iaj chíj a.</li>
  </ul>">
 
-<!ENTITY nssFailure2.title "Gire' conexión hia">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
  <li>Ñaj ni'iaj ruat ni si ga'ue nayi'ni ma dadi' nuni'in' si hua sa' ma, nitaj ni'in daj huaj. </li>
 <li>Gi'iaj suntuj ni ga'ninj nuguan' riña nej dugui' nikaj ñu'unj sitio web na.</li>
 </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Gadadut: Nū 'ngò yi'ì nukuaj">
-<!ENTITY certerror.sts.longpagetitle  "Nu ga'ue gida'aj: Siruaj ni hua ahī ma">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -155,11 +112,7 @@ was trying to connect. -->
   <li>Sisi hua rán rayi'î si aga't 'iaj proxi, ni'iaj sisi
     nan &brandShortName; ga'nïn gatut riña Web.</li> </ul>">
 
-<!ENTITY cspBlocked.title "'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; Nu ga'nïn da' nayi'nïn página na dadin' hua sa ma riñaj ni ga'ue si sa yi'ìi huin nej ma.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Gire'ej dadin' sa nun riñan hua a'nan'">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; nu ga’nïn nayi’nïn pajinâ nan dadin‘ nīka ‘ngō nuguan‘ gu’nàj X-Frame-Options.</p>">
 
@@ -170,11 +123,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Ga'ninj nugua'an ga'anj riña Mozilla da' gini'in' nej sitio hua yi'ī.">
 <!ENTITY errorReporting.learnMore "Gahuin chrūn doj...">
 
-<!ENTITY remoteXUL.title "XUL nagi'iaj mun'ûn'">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Gachinj ni'ia riñan nin nana'ui' ahuin si si'iaj huin sitio nan da' nata' nuin si gahuin an.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Si ga'ue guida'a hue'e man ">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -185,15 +134,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> hua 'ngo sa dugumin ma gu'naj ma HTTP Strict Transport Security (HSTS), sa gata ruaj huin si &brandShortName; man 'nga na gi'iaj sunj. Si ga'ue ahuin si gataj gà gatut riña sitio na.">
 <!ENTITY certerror.copyToClipboard.label "Guyun' nej nuguan'">
 
-<!ENTITY inadequateSecurityError.title "Nitaj si gua hue'e si conexion re'">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> arâj sunj ‘ngō sa gō nitāj si arán hue’ê riña sa yi’ìi. Si gatū nej si nī nda nanè chre gini’in nej si sa màn sà’ ‘iát. Asinïn da’ui sû’ nikāj ñu’ūnj sitiô nan nagi’iaj si man da’ ga’ue gatūt riñanj.</p><p>Da’nga’ nikāj sa gahui a’nan’an: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Hua blokeado pagina">
-
-<!ENTITY certerror.mitm.title "Na’uēj Software ga’nïn riña &brandShortName; da’ gatū sa’àj riña sitiô nan">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> Huin ‘ngō sitiô sà’a si gūruhuaj, sanī na’ue gi’iaj konektandô sà’aj. <span class='mitm-name'/> huin sa ‘iaj hua sa huā dànanj, nī sa nū riña si aga’t nî’ asi riña red arâj sunt.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Sisī antivirus nikājt nani’in man nej koneksiûn huā ráan (gu’nàj “web scanning” asi “https scanning”), ga’ue dunâ’àjt sa huā dànanj. Sisī na’ue nī nadure’ antivirus nī na’nïnj ñût man.">
@@ -201,14 +146,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Sisī nitāj si râj sun yìtïnjt <span class='mitm-name'/>, ga’ue si sa yi’ìi huin nan nī dugunàj huaj si gahuīt riña sîtio.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Sisī nitāj si râj sun yìtïnjt <span class='mitm-name'/>, ga’ue si sa yi’ìi huin nan nī nitāj dàj gāj gatūt riña sitiô nan ngà’.">
 
-<!ENTITY clockSkewError.title "Nitaj si nū hue'ê hora riña si aga't">
-
 <!ENTITY clockSkewError.longDesc "Anïn ruhuâ si aga’t sisī <span id='wrongSystemTime_systemDate1'/>, huin sa nu a’nïnj riña &brandShortName; da’ gi’iaj konektândo sà’aj. Da’ ga’ue gatūt riña <span class='hostname'></span>, nagi’iaj nakà ôra riña si agâ’t, diû, sôna orâria, nī dunayì’ì ñût <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Rû’ huaj sisī konfigurasiûn si seguridâ internet ‘iaj hua sa huā dànanj. Ruhuât nanìka dàj rû’ hua niñanj ‘naj da’ nahuin sà’aj aj?">
 <!ENTITY prefReset.label "Nagi'iaj run' hua nianj">
-
-<!ENTITY networkProtocolError.title "Gire' si protokolo red">
 
 <!ENTITY enableTls10.longDesc "Si guruhuaj nī nitāj si aran’ sitiô nan ngà TLS 1.2, dadin’ huê man huin ‘ngō sa achín &brandShortName;. Si nachrūnt TLS 1.0 ngà TLS 1.1 ga’ue ga’nïn gatūt si gurūhuaj.">
 <!ENTITY enableTls10.note "TLS 1.0 ngà TLS 1.1 narè’ nguèj man ngà versiûn nakà guruguì’.">

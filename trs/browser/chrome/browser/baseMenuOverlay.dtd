@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Nagi'iaj lij">
-<!ENTITY bringAllToFront.label    "Duguachîn' daran'anj ne' ñaan">
-<!ENTITY zoomWindow.label         "dàj nìko ma'an">
-<!ENTITY windowMenu.label         "Sa ni'io'">
-
-<!ENTITY helpMenu.label           "Sa ruguñu'unj un"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Sa ruguñu'unj un"> 
-<!ENTITY helpMenuWin.accesskey    "S">
-
 <!ENTITY aboutProduct2.label      "rayi'î &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "r">
-<!ENTITY productHelp2.label       "Sa ruguñu'unj un &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "S">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Sa hìo doj gà' da' si garasun' teklâdo">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "Nayi'ì ñû' ngà nej sa ga'ue nutò' giyichin'">
-<!ENTITY helpSafeMode.accesskey   "N">
-<!ENTITY helpSafeMode.stop.label       "Nayi'ì ñû' ngà nej sa ga'ue nutò' hua yugui">
-<!ENTITY helpSafeMode.stop.accesskey   "N">
-
-<!ENTITY helpTroubleshootingInfo.label      "Nuguan' garasun' dàj nagi'iô' sa hua a'nan'an">
-<!ENTITY helpTroubleshootingInfo.accesskey  "N">
-
-<!ENTITY helpFeedbackPage.label      "Ga'nïnj 'ngo si nuguàn't">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY helpShowTour2.label            "gache nu' riña &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Sa arajsun' doj">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Sun ruguñu'unj un">
 
 <!ENTITY hideThisAppCmdMac2.label       "Nagi'iaj hùi &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Nagi'iaj hùi a'ngô da'aj man">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Nadigân daran'anj">
 

@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Nada'a daran' rakïj ñanj
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Dure' riña naránt rakïj ñanj
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = Dugumin' ra'a ma

@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Gi'iaj 'ngo sunnuj u ni, gachrun hue'e si direcc
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Sa si gi'iaj guendô' - Sa narán riña sa màn
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Guxun ngèt sa narán riña sa yi'ìi guendâ nej sitiô nan.
-
 permissions-exceptions-etp-window =
     .title = Sa nitaj si hua riña sa nará riña sa naga'naj sà' doj
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Ga'ue gatajt ahuin sitio web dugutuj complemento. Gachrūn direksion ni ga'ui't klik riña taj ga'nïn.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Sā taj a - Gayi'ì ma'an ma
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Ga'ue gatajt ahuin sitio ga'ue nī sa si ga'ue nachrun ma'ān sa gini'io' 'ngà sa guni'. Gachrun si direksion sitio dan nī ne' rukù ga'ui't riña taj si ga'nïn' nej si riña taj ga'nïn'.
 
 ## Site Permissions - Autoplay
 

@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Nagi'iaj">
-<!ENTITY editMenu.accesskey        "e">
-<!ENTITY undoCmd.label             "Nadurê'">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "u">
-<!ENTITY redoCmd.label             "Nagi'iaj ñunj">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
-<!ENTITY cutCmd.label              "Ga'nè'">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Guxun' ni nachrun' a'ngô hiuj u">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
-<!ENTITY pasteCmd.label            "Gachrun">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "p">
-<!ENTITY deleteCmd.label           "Dure'">
-<!ENTITY deleteCmd.accesskey       "d">
-<!ENTITY selectAllCmd.label        "Ga'nïnj chrej e daran'anj">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
-
 <!ENTITY findCmd.label             "Nana'uì'">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "Nana'uì' sa hìaj Gachîn">
-<!ENTITY findPreviousCmd.accesskey "v">

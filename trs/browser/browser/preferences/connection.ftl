@@ -35,12 +35,6 @@ connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = Puerto
     .accesskey = P
-connection-proxy-http-share =
-    .label = Hue 'ngē proxy na garasun' 'ngà daran' protokolo
-    .accesskey = H
-
-connection-proxy-ssl = SSL Proxy
-    .accesskey = L
 
 connection-proxy-ssl-port = Puerto
     .accesskey = o

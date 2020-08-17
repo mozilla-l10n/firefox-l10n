@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Nej rakïj ñaj guña hua
 synced-tabs-sidebar-noclients-subtitle = Ni'iaj rakïj ñaj nū riña a'ngo si aga' asij ñuna ànj
-synced-tabs-sidebar-notsignedin = Gayi'ì sesión da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.
 synced-tabs-sidebar-intro = Ni’iāj nej rakïj ñaj asij riña a'ngô nej si agâ’t
 synced-tabs-sidebar-unverified = Da'ui ma ganatsij ma si kuentat
 synced-tabs-sidebar-notabs = Si na'nï' rakij ñanj

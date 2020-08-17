@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Ganikaj ñu'u' komplementos 'ngà ga'ui' kl
 appmenu-addon-post-install-incognito-checkbox =
     .label = Ga'nïn sis ekstensiûn nan ni gi'iaj sunj riña Bentanâ huìi
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Naduna nej ekstensiûn riña Bentana huìi
-    .buttonlabel = Ginikaj ñu'unj nej ekstensiûn
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Ga'ue, ngà nikà man
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Ahuin man'an ekstensiûn nutà't riña { -brand-shorter-name } ruhuât ni, si gi'iaj sunj riña Windows huìi sisi gâ'nïnjt riña configurasiûn.
-appmenu-addon-private-browsing-learn-more = Gahuin chrun dàj gi'iaj sunt ngà nej ekstensiûn
     
 appmenu-new-tab-controlled =
     .label = Nadunà rakïj ñanj.

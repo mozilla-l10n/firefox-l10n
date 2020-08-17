@@ -24,10 +24,6 @@ serviceworker-worker-unregister = Guxūn' si yugui'
 serviceworker-worker-debug = Nagi'iaj hue'e'
     .title = Ma nej sa nagi'iaj suun ga'ue nahuin hue'ê
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = Gayi'ì
-
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Nahuin nàkaj <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -47,8 +43,4 @@ serviceworker-worker-status-running = Sa duguaché
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Ganikïnj
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = Nutaj si yugui
 

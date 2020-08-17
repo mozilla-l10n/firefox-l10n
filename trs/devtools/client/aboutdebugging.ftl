@@ -104,9 +104,6 @@ about-debugging-setup-title = Chrej ganikò'
 about-debugging-setup-intro = Nagi'iaj dàj ga koneksiûn ruhuât nagi'iaj hìo ra'at si agâ't.
 
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = Garasun<a>{ about-debugging-this-firefox-runtime-name }</a> da' nagi'iaj hìot rakïj ñanj, nej ekstensiûn ni nej sa 'iaj sun riña versiûn nikaj { -brand-shorter-name }.
-
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Garasun<a>{ about-debugging-this-firefox-runtime-name }</a> da' nagi'iaj hìot nej ekstensiûn ni nej sa 'iaj sun riña versiûn nikaj { -brand-shorter-name }.
 
 # Title of the heading Connect section of the Setup page.
@@ -225,14 +222,6 @@ about-debugging-runtime-service-workers-not-compatible = Konfugurasiûn nikaj ri
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Ginâj rukù sa riña nana'uî't nuguan'an ({ $runtimeVersion }). Sa ginâj rukù nï' ga'ue gi'iaj sunt huin ({ $minVersion }). Nitaj si a'ue garan'anj ngà konfigurasiûn nan ni ga'ue si gi'iaj sun hue'ê DevTools gi'ia. Gi'iaj sunuj u ni nagi'iaj nakàt riña nana'uî't nuguan arâj sunt akan' nïn. <a>Sa nagi'iaj sa hua a'nan'an</a>
 
-# Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = Si guruhuaj ni si gi'iaj sun Panel nagi'iaj hìo ngà sa riña nana'uî't nuguan'an akuen' nïn. Gi'iaj sunuj u ni garasunt Firefox { $runtimeVersion } sisi garasunt sa nagi'iaj hìo nga sa nana'uî't nuguan' nan.
-
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -320,15 +309,6 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = Si ekstensiûn ID
-
-# This string is displayed as a label of the button that pushes a test payload
-# to a service worker.
-# Notes, this relates to the "Push" API, which is normally not localized so it is
-# probably better to not localize it.
-about-debugging-worker-action-push = Push
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = Gayi'ì
 
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.

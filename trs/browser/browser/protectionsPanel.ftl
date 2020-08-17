@@ -53,7 +53,6 @@ protections-panel-not-found-label = Nitāj à'ngòj nari'ij
 ##
 
 protections-panel-settings-label = Riña 'na' nej sa nagi'iô' sa narán rayi'î'
-protections-panel-showreport-label = Nadigân repôrte
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

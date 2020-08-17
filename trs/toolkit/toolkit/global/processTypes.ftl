@@ -4,10 +4,6 @@
 
 process-type-web = Sa nu riña web
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Sa nu hua hue'ê doj
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Hua sa hua riñant Guendâ

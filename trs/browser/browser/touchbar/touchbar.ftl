@@ -12,7 +12,6 @@ fullscreen = Nagi'iaj gachrò' riña aga' sikà' ràa
 find = Narì'
 new-tab = Rakïj ñanj nakàa
 add-bookmark = Nutò' riña sa raj sun nichro' doj
-open-bookmarks-sidebar = Na'nïn riña panel markador
 reader-view = Sa ni'iaj duguî' ahiaa
 # Meant to match the string displayed in an empty URL bar.
 open-location = Nana'uì' asi gachrûn direksiûn

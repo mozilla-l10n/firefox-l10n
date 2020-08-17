@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Nadunij riña Google Play
 login-app-promo-apple =
     .alt = Naduni' asîj riña App Store
+
 login-filter =
     .placeholder = Nana'uì' nej riña gayi'ì sesiûn
+
 create-login-button = Giri 'ngo riña gayi'ì sesiûn nakàa
+
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
 fxaccounts-sign-in-button = Gatu riña { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Nana'uit riña gayi'i si sesiôn raj? Gi'iaj yuhui { -sync-brand-short-name }
+
 about-logins-login-intro-heading-logged-out = Nana'uî't nej da'nga' huì nū sà' 'iá raj. Nāgi'iaj riña { -sync-brand-short-name } asi gānākāj gā'naj.
 about-logins-login-intro-heading-logged-in = Nu nari'ìj riña gayi'ìt sesiûn hua nuguan'àn
 login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-bra
 login-intro-instruction-fxa-settings = Ni'iaj si ganahuit riña gayi'iìt sesioôn riña { -sync-brand-short-name }
 about-logins-intro-instruction-help = Guij riña <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sopôrte</a> da' narì't doj sa rugûñu'unj sò'
 about-logins-intro-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a’ngô riña nana’uî’t, ga’ue <a data-l10n-name="import-link">duguachînt riña { -lockwise-brand-short-name }
+
 about-logins-intro-import2 = Sisī nej riña gayì’ìt sēsiûn nu sà’ ne’ yē’ { -brand-product-name }, ga’ue <a data-l10n-name="import-browser-link">gūxūnt ga’naj āsìj riña a’ngô sa riñā nana’uî’t</a> asi <a data-l10n-name="import-file-link">āsìj riña ‘ngō archivo</a>
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Da’ nāgi’iát riña ga
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = Nāgi’iaj riña gayi’ìt sēsiûn na’nïn sà’t
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Da’ gīni’iājt riña si da'nga' huìt, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = Gīni’iāj da’nga’ huì nū sà’ ‘iát
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Da’ gūxūnt nī nāchrūnt a’ngô hiūj si da'nga' huìt, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Gūxūn nī nāchrūn a’ngô hiūj da’nga’ huì nū sà’ ‘iát
+
+## Master Password notification
+
+master-password-notification-message = Gachrun da'naga' huî nikajt ni ga'ue ni'iajt si yugui usuârio ni nej da'nga' huì na'nïn sà't
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Da’ gā’nïnt gan'ānj riña gayi’ìt sēsiûn, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi nū sà’ ‘iát
-
-## Master Password notification
-
-master-password-notification-message = Gachrun da'naga' huî nikajt ni ga'ue ni'iajt si yugui usuârio ni nej da'nga' huì na'nïn sà't
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Duyichin'
 confirmation-dialog-dismiss-button =
     .title = Duyichin'
+
 about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
+
 about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
 about-logins-confirm-export-dialog-message = Ngà lêchra nāginu sà’ nej da’nga’ huì huā ‘iát (Dàj rû’, BadP@ssw0rd) da’ ga’ue gīni’iāj ahuin mān’an duguî’ na’nïn archivo nan.
 about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
+
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
 confirm-discard-changes-dialog-confirm-button = Dunâj man
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Gāhuin chrūn doj
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ngà hua 'ngo nuguan' hua dàdanj riña { $loginTitle } dàj rû' hua sa gachrûnt. <a data-l10n-name="duplicate-link">Gatut ni'iajt riña nuguan' dan anj</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Hua 'ngo sa gire' ngà gahuin ruhuât na'nïnj sà' da'nga' huì nan.
+
 
 ## Login Export Dialog
 

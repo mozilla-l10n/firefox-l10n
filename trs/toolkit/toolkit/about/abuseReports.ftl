@@ -58,30 +58,19 @@ abuse-report-messagebar-action-cancel = Duyichin'
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = 'Iaj yi'ìj si aga'á aga' sikà' ràa ni nej sinuguan'ànj
-
 abuse-report-damage-reason-v2 = Dure’ej si aga’á asi ganatsi nej sa màn ‘iá
 abuse-report-damage-example = Dàj rû': yi'ì atûj asi nuguan' huan'anj ni'ia
 
-abuse-report-spam-reason = Rij spam asi nuguan' nitaj si ruhuô' ni'io'
-
 abuse-report-spam-reason-v2 = Nīka spam asi duguachinj sa nitāj sa aran’ ruhuô’ ni’io’
 abuse-report-spam-example = Dàj rû': A'nïn nuguan' nitaj si ruhuô' ni'io' riña pajina
-
-abuse-report-settings-reason = Nitaj si nachin' nan'an ni nadunaj sa riña nana'uí nuguan'an, pajinâ ayi'ìj asi rikïj ñanj nakàa.
 
 abuse-report-settings-reason-v2 = Nitāj si nachin' nan'an nī nadunaj sa riña nana'uí nuguan'an, pajinâ ayi'ìj asi rakïj ñanj nakàa.
 abuse-report-settings-suggestions = Asij achin gutà't gakïn' rayi'î ekstensiûn ni naduna sinïn si configurasiûnt:
 abuse-report-settings-suggestions-search = Naduna sa hua riña sa nana'nuî't 'na' niñaa
 abuse-report-settings-suggestions-homepage = Naduna si pajinât riña ayi'ìt ni rakïj ñanj nakàa
 
-abuse-report-deceptive-reason = Gahuin 'ngo sa sêj huin ruhuaj
-
 abuse-report-deceptive-reason-v2 = Gahuin 'ngō sa sêj huin ruhuaj
 abuse-report-deceptive-example = Dàj rû': Nuguan' asi ñadu'ua diga'ñun'unj un
-
-abuse-report-broken-reason-extension = Nitaj si 'iaj sunj, dure'ej nej sîtio, asi nagi'iaj nna { -brand-product-name }
-abuse-report-broken-reason-theme = Nitaj si 'iaj sunj asi dure'ej riña sa nana'uî' nuguan'an
 
 abuse-report-broken-reason-extension-v2 = Nitāj si 'iaj sunj, dure'ej nej sîtio, asi nagi'iaj nna { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nitāj si 'iaj sunj asi dure'ej riña sa nana'uî' nuguan'an
@@ -89,12 +78,8 @@ abuse-report-broken-example = Dàj rû': 'Iaj sun nnaj nej sa nika, chì' gi'iaj
 abuse-report-broken-suggestions-extension = Rû' huaj si nari't 'ngo sa hua a'nan'an. Dunâj 'ngo nuguan' hiuj nan, ni ga'nïnj a'ngoj gan'anj riña nej duguî' girirà ekstensiûn nan da' nagi'iaj si man. <a data-l10n-name="support-link">Gatu ni'iajt si pajinâ ekstensiûn</a> da' narì't doj nuguan'an rayi'ij.
 abuse-report-broken-suggestions-theme = Rû' huaj si narî't 'ngo sa hua a'nan'an. Dunâj 'ngo nuguan' hiuj nan ni ga'nïnjt 'ngo gan'anj riña duguî' girirà tema nan. <a data-l10n-name="support-link">Gatu ni'iaj riña si pajinâ têma</a> da' gini'înt doj dàj hua rayi'ij.
 
-abuse-report-policy-reason = Nika sa nitaj si ruhuô ni'io', sa kïj ï asi sa ahii
-
 abuse-report-policy-reason-v2 = Nīka sa nitāj si ruhuô ni'io', sa kïj ï asi sa ahīi
 abuse-report-policy-suggestions = Nuguan'an: Nej sa hua rayi'î diguî riràa ni sa 'iaj registrandô' da'ui ngè ga ninïnj. <a data-l10n-name="report-infringement-link">Garasun nej nuguan nan</a> da' natà't sa hua rayi'ij.
-
-abuse-report-unwanted-reason = Nitaj aman garan' ruhuât ni'int ekstensiûn nan ni nu ni'înt dàj nadurê't man
 
 abuse-report-unwanted-reason-v2 = Nu garan’ ruhuâj ni’ín man nī nu ni’ín dàj gi’iâ guxùnj man
 abuse-report-unwanted-example = Dà rû': Ga'nïn 'ngo App nu garayinâj ga'nïn

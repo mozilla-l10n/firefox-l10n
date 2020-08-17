@@ -21,6 +21,9 @@ change-password-reenter = Da'nga' huìi (gachrun ñû):
 reset-password-window =
     .title = Nagi'iaj da'nga' huì ñaa
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Nagi'iaj ñû
 reset-password-text = Si nachrūn ñûnt da'nga' huì a'nïn' nikājt, nī narè' daran' nej da'nga' huì nū sà' riña si korreôt ni roña web, si nuguàn' formulârio, si sertifikadôt nī nej da'nga' huì hua 'iát. Anïn hia ruhuât nachrūnt da'nga' huì a'nïn' nikāj raj?

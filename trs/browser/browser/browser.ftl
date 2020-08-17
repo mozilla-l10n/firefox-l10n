@@ -103,6 +103,8 @@ urlbar-tip-help-icon =
 
 urlbar-search-tips-onboard = Ninaj gachrut. nikò narit: Nana'ui' 'ngà { $engineName } asij riña dukuán direksiôn.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -178,6 +180,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Dunâj da' nahuin man sa riña nana'uì' niganjt sa ruhuât riña Private Windows
     .accesskey = P
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -268,8 +277,10 @@ popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Gachrūn nuguan' ruhuât nanà'uìt
+
 urlbar-placeholder =
     .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Àsij gan' nikaj ñu'unj nej dugui' navegador
 urlbar-permissions-granted =

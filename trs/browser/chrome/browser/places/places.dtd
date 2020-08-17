@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Nahui' archivu...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Gini'ñu sitio na">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "Na'nïn">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Na'nïn' riña a'ngô rakïj ñaj nakàa">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Na'nïn' riña a'ngô rakïj ñaj huìi">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Na'nïn' riña a'ngô rakïj ñaj nakàa">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Na'nïn' dara'anj 'ngà rakïj ñanj">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Sa nikaj ñu'un ma">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Nagi'iaj chre' daj si yugui ma">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Markador nakàa…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Karpetâ nakàa…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Sa 'iaj ninin">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Si yuguit">
 <!ENTITY col.tags.label          "Da'nga' achrûn'">
 <!ENTITY col.url.label           "Dane' huin">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Antaj dugui' gatuj">
 <!ENTITY col.dateadded.label     "'Ngà nuta' ma">
 <!ENTITY col.lastmodified.label  "Sa nagi'iât ne' rukù ni'inj">
-
-<!ENTITY historySearch.placeholder  "Nej sa ni'io' gà' nana'uî'">
-<!ENTITY bookmarksSearch.placeholder  "Nana'ui' sa raj sun nichrò' doj">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Ganahui 'ngò elemento ni'iaj ni nagi'iât">
 
-<!ENTITY view.label               "Gini'iaj">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Da' diu">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Da' sitio">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Da' niko dugui' ni'iaj">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Da' ni'iaj dugui' rukù ni'inj">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "Da' dato ni sitio">
-<!ENTITY byDayAndSite.accesskey   "t">

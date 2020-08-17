@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Hìaj ayi'ij...
-
 list-empty-installed =
     .value = Nitaj ngà' si 'ngo komplementô hua dananj nu 'iaj sun 'iát
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Gahuin chrūn doj rayi’î nej komplemênto
 
-install-addon-from-file =
-    .label = Ga'nïnj Komplemênto asij riña archibô…
-    .accesskey = I
-
 help-button = Nej sa hua doj riña sopôrte
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } Sa huaa
        *[other] { -brand-short-name } Sa arâj sun yitïnjt
     }
-
-tools-menu =
-    .tooltiptext = Rasuun gini'ñanj daran' nej komplemênto
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Ni'iaj daran' extensiôn
-
-debug-addons =
-    .label = Nej komplemênto nagi'iaj depurandô
-    .accesskey = B
 
 cmd-show-details =
     .label = Ni'iaj doj nuguan' a'min rayi'î nan
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Rugûñu'unj da' nahuin hue'ê doj komplementô nan
 
-discover-title = ¿Nuhuìn si huin nej komplemênto rà'aj?
-
-discover-description = Nej komplemênto huin nej aplikasiûn ruguñu'unj da' nagi'iát { -brand-short-name } ngà 'ngo sa hua hue'ê doj asi 'ngo sa ruhuât nutà't. Yakaj da'nga' ngà 'ngo barra da' dugumînt si diût, 'ngo sa nata' na'anj dàj ga diû, asi 'ngo sa ruhuât nadunat { -brand-short-name } dàj garan' ruhuâ ma'ânt.
-
-discover-footer = Ngà atujt riña internet ni, ginun nej komplemênto araj sun doj guìi ni sa hua hue'ê doj riña panel nan da' garasunt si ruhuât.
-
 detail-version =
     .label = Versión
 
@@ -140,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Na'nïn riña Windows huìi
 
-detail-private-browsing-description2 = Sisi ga'ue ga'nïn, extensiûn nan ni ga'ue ni'ia sa 'iát ngà aché nun huìt. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin chrun doj</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Si ga'ue riña Windows huìi
-detail-private-disallowed-description = Nga aché nunt riña Windows huìi ni nitaj si 'iaj sun ekstensiûn nan. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin Chrun doj</label>
 
 detail-private-disallowed-description2 = Ngà aché nun huìt nī nitāj si ‘iaj sun ekstensiûn nan. <a data-l10n-name="learn-more">Gāhuin chrūn doj</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Da'ui na'nïn riña Windows huìi
-detail-private-required-description = Ga'ue ni'iaj ekstensiûn nan sa' 'iát nga aché nun huìt. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin Chrun Doj</label>
 
 detail-private-required-description2 = Ngà aché nun huìt nī atûj ekstensiûn na ni’ia sa ‘iát. <a data-l10n-name="learn-more">Gāhuin chrūn doj</a>
 
@@ -223,18 +199,6 @@ legacy-extensions-description = Nitaj si digahuin nej extensiûn nan ngà nej ch
 
 private-browsing-description2 = { -brand-short-name } nadunaj dàj 'iaj sun nej ekstensiûn riña aché nun huìt. Ahuin man'an ekstensiûn nutà't riña { -brand-short-name } ni gay'ì man'an gi'iaj sun riña Windows huìi. Nda doj si ga'nïnt riña configurasiûn, sani ekstensiûn nan ni si gi'iaj sunj riña aché nun huìt ni si gini'in sa 'iát. Nan huin nagi'iaj ñûnj dadin' ruhuâ ñûnj sisi nda hue'ê ga gache nunt. <label data-l10n-name="private-browsing-learn-more"> Gahuin chrun doj dàj gi'iaj sunt ngà ekstensiûn nan</label>
 
-extensions-view-discopane =
-    .name = Nuguan' ganikò't
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Nej sa hìaj nahuin nakà
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Nej sa ga'ue nahuin nakà
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Nuguan' ganikò't
 addon-category-discover-title =
     .title = Nuguan' ganikò't
@@ -262,29 +226,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Giyichin' hue'ê daran' nej komplemênto.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Nej sa natsij nej komplemênto nitaj si 'iaj sun. Ga'ue ginu komplemênto nitaj si ara' ngà aga' nan.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Dugi'iaj sun' man
-    .tooltiptext = Nachrun sa natsij si aran' nej komplemênto ngà nej aga' nan
-
-extensions-warning-update-security-label =
-    .value = Giyichin' sa natsij si hua nïn 'iaj sun nej komplemênto. Ga'ue ni nahuin nakà 'ngo sa nu garan' ruhuât.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Dugi'iaj sun' man
-    .tooltiptext = Nachrun sa dugumîn si hua hue'ê nej sa nahuin nakà riña aga' nan
-
 extensions-warning-safe-mode = Giyichin' hue'ê daran' nej komplemênto.
 extensions-warning-check-compatibility = Nej sa natsij nej komplemênto nitaj si 'iaj sun. Ga'ue ginu komplemênto nitaj si ara' ngà aga' nan.
 extensions-warning-check-compatibility-button = Dugi'iaj sun' man
@@ -296,14 +237,6 @@ extensions-warning-update-security-button = Dugi'iaj sun' man
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Nana'uì' sa Nahuin nakà doj
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = Ni'iaj nej sa hìaj nahuin nakà
-    .accesskey = V
-
 addon-updates-check-for-updates = Nana'uì' sa Nahuin nakà doj
     .accesskey = C
 addon-updates-view-updates = Ni'iaj nej sa hìaj nahuin nakà
@@ -311,10 +244,6 @@ addon-updates-view-updates = Ni'iaj nej sa hìaj nahuin nakà
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Dunaj nahuin nakà ma'an nej komplemênto
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Dunaj nahuin nakà ma'an nej komplemênto
     .accesskey = A
@@ -325,36 +254,12 @@ addon-updates-update-addons-automatically = Dunaj nahuin nakà ma'an nej komplem
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Na'nïnj ñû daran' nej komplemênto da' ga'ue nahuin nakà ma'an nej man
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = Na'nïnj ñû daran' nej komplemênto da' ga'ue nagi'iaj nakà nej man
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = Na'nïnj ñû daran' nej komplemênto da' ga'ue nahuin nakà ma'an nej man
     .accesskey = R
 addon-updates-reset-updates-to-manual = Na'nïnj ñû daran' nej komplemênto da' ga'ue nagi'iaj nakà nej man
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Sa nagi'iaj nakà nej komplemênto
-extensions-updates-installed =
-    .value = Ngà nahuin nakà nej si komplementôt.
-extensions-updates-downloaded =
-    .value = Ngà nahuij nanïnj nej si komplementôt.
-extensions-updates-restart =
-    .label = Dunayi'ì nakà si aga't da' ga'ue nanu sa ga'nïnt
-extensions-updates-none-found =
-    .value = Nu nari'ìj nej sa nahuin nakàa
-extensions-updates-manual-updates-found =
-    .label = Ni'iaj nej sa ga'ue nahuin nakà
-extensions-updates-update-selected =
-    .label = Ga'nïnj nej sa nakà doj
-    .tooltiptext = Ga'nïn nej sa ga'ue nahuin nakà nu riña lsita nan
 
 addon-updates-updating = Sa nagi'iaj nakà nej komplemênto
 addon-updates-installed = Ngà nahuin nakà nej si komplementôt.
@@ -372,10 +277,6 @@ addon-open-about-debugging = Nej komplemênto nagi'iaj depurandô
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Ni'iaj dàj nagi'iát riña ekstensiûn
-    .accesskey = S
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Ni'iaj dàj nagi'iát riña ekstensiûn
     .accesskey = S
@@ -384,8 +285,6 @@ shortcuts-no-addons = Nitaj ngà' si 'ngo ekstensiûn 'iaj sun 'iát.
 shortcuts-no-commands = Nitaj a'ngô nùhuin si hua riña nej ekstensiûn nan:
 shortcuts-input =
     .placeholder = Gachrun a'ngò chrej e
-
-shortcuts-browserAction = Dugi'iaj sun ekstensiûn
 
 shortcuts-pageAction = Dugi'iaj sun si sun pâjina
 shortcuts-sidebarAction = Dukuán nun nitïn gu'nàj Toggle
@@ -415,9 +314,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Nadigân Dòj
-
-go-back-button =
-    .tooltiptext = Nanikàj rukù
 
 header-back-button =
     .title = Nanikàj rukù
@@ -462,7 +358,6 @@ remove-addon-button = Guxūn
 remove-addon-disabled-button = Na’ue narè’ej <a data-l10n-name="link">Nù huin saj?</a>
 disable-addon-button = Dunikïn'
 enable-addon-button = Dugi'iaj sun' man
-expand-addon-button = Doj sa ga'ue nagi'át
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Sa huaa
@@ -471,9 +366,6 @@ preferences-addon-button =
 details-addon-button = A'ngô nej sa nika
 release-notes-addon-button = Nuguan' ri' riña aga' na
 permissions-addon-button = Gachinj ni'iô'
-
-addons-enabled-heading = Ngà 'iaj sunj
-addons-disabled-heading = Nitaj si huáj
 
 extension-enabled-heading = Ngà 'iaj sunj
 extension-disabled-heading = Nitaj si 'iaj sunj
@@ -536,23 +428,12 @@ install-update-button = Nagi'iaj nakà
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Màn riña nej bentanâ huìi huaj
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Màn riña nej bentanâ huìi huaj
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Sisi ga'nïn, ekstensiûn nan ga'ue ni'iaj sa 'iát nga aché nun huìt. <a data-l10n-name="learn-more">Gahuin chrun doj</a>
 addon-detail-private-browsing-allow = Ga'nïn
 addon-detail-private-browsing-disallow = Si ga'nï'
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Sā sà'a huin ânj
-    .alt = Sā sà'a huin ânj
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

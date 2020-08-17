@@ -9,13 +9,17 @@ all-tabs-menu-undo-close-tabs =
             [one] Dure' riña naránt rakïj ñanj
            *[other] Dure' riña naránt rakïj ñanj
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Nana'uì' nej Rakïj ñanj
+
 all-tabs-menu-new-user-context =
     .label = Rakïj ñanj man sa garasun'
+
 all-tabs-menu-hidden-tabs =
     .label = Rakïj ñanj nun huì
+
 all-tabs-menu-manage-user-context =
     .label = Dugumî hue'ê' kontenedor
     .accesskey = O

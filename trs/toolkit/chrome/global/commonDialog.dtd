@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Nahuin ru'u sa nùn ne' rà ma"> 
-<!ENTITY message.label    "Na huin ngo nuguan digan.">
-
 <!ENTITY editfield0.label "Si yuguit"> 
 <!ENTITY editfield1.label "Da'nga' huìi"> 
-<!ENTITY checkbox.label   "nachi'"> 
 <!ENTITY copyCmd.label    "Guyun'">
 <!ENTITY copyCmd.accesskey "G">
 <!ENTITY selectAllCmd.label "Ganahui' da'ua ngê ma">

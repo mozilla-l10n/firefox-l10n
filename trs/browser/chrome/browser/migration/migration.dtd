@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Ganukuo' markador, riña gaché nu', da'ngà huìi ni a'ngò si dato:">
 <!ENTITY importFromUnix.label           "Ganukuo', preferensia, markador, riña gaché nu', da'ngà huìi ni a'ngò si dato:">
-<!ENTITY importFromBookmarks.label      "Ganukuo' markador:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

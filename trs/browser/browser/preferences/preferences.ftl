@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Nigànj chre
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Nagui’iaj
-           *[other] Nagui’iaj
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Nagui’iaj
@@ -431,16 +424,6 @@ update-application-use-service =
     .label = Garasun' a'ngo servidor da' dugout' sa nakà doj
     .accesskey = b
 
-update-enable-search-update =
-    .label = Nagi'aj nakà ma'ān ma nej sa nana'ui'
-    .accesskey = e
-
-update-pref-write-failure-title = Gire' sa âchrun
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Na'ue na'nïnj sà'aj sa ni'hiajt doj. Nu ga'ue gachrunj riña archibô: { $path }
-
 update-setting-write-failure-title = Gire' guendâ na'nïnj sà'aj nej sa nihià' doj uhuât nagi'iaj nakàt
 
 # Variables:
@@ -603,7 +586,6 @@ home-prefs-topsites-description = Riña gaché nu yitïnjt
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Sa hua hue'e taj { $provider }
-home-prefs-recommended-by-description = Sa hua hue'e doj riña web, guendat huin
 ##
 
 home-prefs-recommended-by-learn-more = Dàj 'iaj sunj
@@ -645,7 +627,6 @@ search-bar-shown =
     .label = Nuto' dukuán nana'ui' riña dukuán mā sa garasun'
 
 search-engine-default-header = Sa ruguñu'unj ñù' nana'uì'
-search-engine-default-desc = Ganahui' sa nana'ui' da' garasun' riña dukuán direksion nī riña dukuán 'na sa nana'ui'.
 
 search-engine-default-desc-2 = Nan huin sa 'na' niñā guendâ nanà'uì't nī nùn man riña nej bârra. Ga'ue nadunāt amān garan' ruhuâ.
 search-engine-default-private-desc-2 = Nanà'uì' 'ngo sa riñā nanà'uì' niñānt guendâ Windows Huìi
@@ -674,8 +655,6 @@ search-show-suggestions-above-history-option =
 
 search-show-suggestions-private-windows =
     .label = Dīganj nuguan' dàj nanà'uì' riña Windows guendâ 'ngo rîn'
-
-suggestions-addressbar-settings = Nadunā dàj gā sa gini'iājt nga gaché nunt, nej markadô nī dàj gā rakïj ñanj
 
 search-suggestions-cant-show = Nej sa nana'uit nī se si nadiganj riña dukuán direksion dàdin' dàdanj nagi'iât { -brand-short-name } da' si nachra sa'aj.
 
@@ -708,8 +687,6 @@ search-keyword-warning-bookmark = Nuguan' na nī 'ngà rajsun 'ngo markador. Gan
 
 ## Containers Section
 
-containers-back-link = « Nanikàj rukù
-
 containers-header = Rakïj ñanj mā ma
 containers-add-button =
     .label = Nuto' sa nakàa
@@ -728,14 +705,6 @@ containers-remove-button =
 
 sync-signedout-caption = Ganikaj web ga'ant
 sync-signedout-description = Gi'iaj sun ma 'ngà markador, riña sa gaché nu't, da'ngà huìi riña da'ua si aga't.
-
-sync-signedout-account-title = Gatu' 'ngà { -fxaccount-brand-name }
-sync-signedout-account-create = Nitaj si taj si yugui ra'. Gayi'ì aj
-    .accesskey = c
-
-sync-signedout-account-signin =
-    .label = Gayi'i sesión
-    .accesskey = I
 
 sync-signedout-account-signin2 =
     .label = Gaui'i' sesión riña { -sync-brand-short-name }…
@@ -759,10 +728,6 @@ sync-mobile-promo = Naduni' Firefox guenda <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Nadunā ña du'uat
 
-sync-disconnect =
-    .label = Gahui'...
-    .accesskey = D
-
 sync-sign-out =
     .label = Gahuī…
     .accesskey = G
@@ -784,9 +749,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Gayi'i sesión
     .accesskey = G
-
-sync-signedin-settings-header = Nagi'iô' daj huin ruhuô' Sync
-sync-signedin-settings-desc = Ganahui ahuin si gi'iaj sun 'ngà aga' rajsun { -brand-short-name }
 
 ## Sync section - enabling or disabling sync.
 
@@ -849,11 +811,6 @@ sync-engine-tabs =
     .tooltiptext = Nej na hua ni'nïnj riña si agat
     .accesskey = t
 
-sync-engine-logins =
-    .label = Nej riña ayi'ì' sesión
-    .tooltiptext = Gara sun nej da'nga 'ngà nun sa'
-    .accesskey = L
-
 sync-engine-logins-passwords =
     .label = Nej riña gayi'ìt sesiûn nī nej da'nga' huìi
     .tooltiptext = Si yuguît nī nej da'nga' huì na'nïn sà't
@@ -901,22 +858,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Gatu 'ngà a'ngo aga'a...
 
-sync-manage-devices = Ganikaj ñu'un' nej aga'a
-
-sync-fxa-begin-pairing = Nagi'iaj guña 'ngo aga'a
-
-sync-tos-link = Nuguan' da'uît gini'înt si ruhuât garasunt
-
-sync-fxa-privacy-notice = Notisia huìi
-
 ## Privacy Section
 
 privacy-header = Daj da'ui navegador gi'iaj sunj
 
 ## Privacy Section - Forms
 
-
-logins-header = Gayi'ìt gatut ni Da'nga' huìi
 
 ## Privacy Section - Logins and Passwords
 
@@ -954,6 +901,7 @@ forms-master-pw-change =
     .accesskey = N
 
 forms-master-pw-fips-title = Akuan’ nïn nī nunt ngà modô FIPS. FIPS nī ni’ñan ‘ngō Da’nga’ Huì a’nïn’ïn.
+
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
 
 ## OS Authentication dialog
@@ -1041,9 +989,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Sa naràn riña
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = Sa naga'naj a'ngô nej si
-
 sitedata-option-block-cross-site-trackers =
     .label = Sa naga'naj riña nej sitiô nadunâ dugui'
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -1087,34 +1032,11 @@ addressbar-suggestions-settings = Naduno' riña sa ruguñu'unj da' gache nu'
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Garun' riña sa ma
-
-content-blocking-section-description = Dugumî man'ânt nga aché nunt. Narán riña nej nuguan' nitaj si ra'ngà' hua sani naga'na nùhuin si 'iát nga aché nunt asi nej pefî. Si naránt riña da'aj nej nuguan' nan nj ga'ue gi'iaj sun hìo doj pajinâ nan.
-
 content-blocking-enhanced-tracking-protection = Sa hua hue'ê doj guendâ nará riña sa naga'naj a
 
 content-blocking-section-top-level-description = Sa 'iaj nej sa naga'naj a huin sisi nikò' nej man sò' ngà aché nunt ni 'iaj tuj nej nuguan' hua 'iát ni nej sa 'iát. { -brand-short-name } narán riña ga'ì nej sa naga'naj nan ni riña a'ngô nej sa yi'ìi.
 
 content-blocking-learn-more = Gahuin chrūn doj
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Standard
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Sa ahìi
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = Nagi'iaj
-    .accesskey = C
-
-content-blocking-standard-desc = Huaj guendâ dugumij ni gi'iaj sun hìo. A'nïn gatu da'aj sa naga'naj a da' gi'iaj su hue'ê doj nej sîtio.
-content-blocking-strict-description = Si ga'nïn dugumîn hue'eu man doj, ni ga'ue dure'ej da'aj sîtio.
-content-blocking-custom-desc = Nagui ahuin si riña naránt.
-
-content-blocking-private-trackers = Mà riña Windows huìi ga'ue gini'în' nej sa naga'naj yitïnj ïn
-content-blocking-third-party-cookies = Nej kokî nikò' sa nuhui' si ni'ñanj nìko
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1141,15 +1063,12 @@ content-blocking-cross-site-tracking-cookies = Si kokî nej sa naga'naj sò' ri�
 content-blocking-social-media-trackers = Sa naga'naj sò' riña nej rêd sociâl
 content-blocking-all-cookies = daran' nej kôki
 content-blocking-unvisited-cookies = SI kokî nej sitiô nitaj si ni'iajt
-content-blocking-all-windows-trackers = Nej sa naga'naj yitïn riña daran' nej bentâna
 content-blocking-all-windows-tracking-content = Sa ni'iaj sa màn 'iát riña daran' bentâna
 content-blocking-all-third-party-cookies = Daran' nej a'ngô kokî huaa
 content-blocking-cryptominers = Nej Kriptominêro
 content-blocking-fingerprinters = Nej da'nga' ra'a
 
 content-blocking-warning-title = ¡Nuguan' huaa!
-content-blocking-warning-description = Si naránt riña da'aj kontenido ni ga'ue dure'ej da'aj sîtio. Sê si chì' huaj na'nïnt riña nej sitiô ngà ni'înt.
-content-blocking-learn-how = Gahuin chrūn doj
 
 content-blocking-warning-learn-how = Gahuin chrūn dàj
 
@@ -1157,10 +1076,6 @@ content-blocking-reload-description = Da' naduna sa huin ruhuât ni da'uît nagi
 content-blocking-reload-tabs-button =
     .label = Nagi'iaj nakà daran' nej rakïj ñaj
     .accesskey = R
-
-content-blocking-trackers-label =
-    .label = Sa naga'naj
-    .accesskey = T
 
 content-blocking-tracking-content-label =
     .label = Sa naga'naj kontenîdo
@@ -1225,14 +1140,6 @@ permissions-notification-link = Gahuin chrun doj
 permissions-notification-pause =
     .label = Duyichi' akuan't nej sa ataj na'an dâ { -brand-short-name } nayi'ì ñu
     .accesskey = n
-
-permissions-block-autoplay-media2 =
-    .label = Narán riña nej sîtio da' si duyinga' man'an nej man nanèe
-    .accesskey = B
-
-permissions-block-autoplay-media-exceptions =
-    .label = Sa taj a...
-    .accesskey = E
 
 permissions-autoplay = Duyinga' man'an man nanèe
 
@@ -1366,6 +1273,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } doj sîna' hua ni'nïnj riña disko. Gahuin ni si gurui' hue'ê sa ma riña sitio na. Huij riña "Gahuin chrūn doj" da' nagi'îat si diskot ni gache nut.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

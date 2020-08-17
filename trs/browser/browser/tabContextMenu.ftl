@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Dusiki' 'ngo Bendâna
     .accesskey = B
-undo-close-tab =
-    .label = Tanikaj ñûn' rakïj ñanj
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Ganarán riñanj
     .accesskey = c
