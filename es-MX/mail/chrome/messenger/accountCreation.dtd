@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Configurar una cuenta de correo existente">
-
 <!ENTITY emailWizard.title               "Introduce tu correo electrónico existente">
 <!ENTITY emailWizard.caption             "Utilizar tu correo electrónico actual">
 <!ENTITY name.label                      "Tu nombre:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Nombre y apellido">
 <!ENTITY fullname.placeholder            "Tu nombre completo">
 <!ENTITY name.text                       "Tu nombre, como se muestra a otros usuarios">
 <!ENTITY name.error                      "Por favor, ingresa tu nombre">
 <!ENTITY email.label                     "Correo electrónico:">
 <!ENTITY email.accesskey                 "E">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Tu dirección de correo electrónico">
 <!ENTITY email.text                      "Tu correo electrónico existente">
 <!ENTITY email.error                     "Dirección de correo electrónico no válido">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Saliente:">
 <!ENTITY outgoingColumn.label            "Saliente">
 <!ENTITY username.label                  "Nombre de usuario:">
-<!ENTITY hostname.label                  "Nombre host del servidor">
-<!ENTITY port.label                      "Puerto">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Servidor:">
 <!ENTITY portRow.label                   "Puerto:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Volver a probar">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Configuración manual">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Configurar manualmente…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Obtener una nueva dirección de correo electrónico…">

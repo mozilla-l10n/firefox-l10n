@@ -8,3 +8,4 @@ tag-dialog-window =
 tag-name-label =
     .value = Nombre de la etiqueta:
     .accesskey = T
+

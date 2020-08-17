@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Picture-in-Picture">
 
-<!ENTITY stats.media "Medios">
-<!ENTITY stats.size "Tamaño">
-<!ENTITY stats.activity "Actividad">
-<!ENTITY stats.activityPaused "En pausa">
-<!ENTITY stats.activityPlaying "Reproduciendo">
-<!ENTITY stats.activityEnded "Finalizado">
-<!ENTITY stats.activitySeeking "(buscando)">
-<!ENTITY stats.volume "Volumen">
-<!ENTITY stats.framesParsed "Cuadros procesados">
-<!ENTITY stats.framesDecoded "Cuadros decodificados">
-<!ENTITY stats.framesPresented "Cuadros mostrados">
-<!ENTITY stats.framesPainted "Cuadros mostrados">
-
 <!ENTITY error.aborted "Se detuvo la carga del video.">
 <!ENTITY error.network "Reproducción de video interrumpida por un error de red.">
 <!ENTITY error.decode "No puede reproducirse el video porque el archivo está corrupto.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "La reproducción del video se detuvo por un error desconocido.">
 
 <!ENTITY status.pictureInPicture "Este video se está reproduciendo en modo Picture-in-Picture.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 de #2 transcurrido">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
