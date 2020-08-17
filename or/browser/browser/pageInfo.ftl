@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = e
-media-preview =
-    .value = ମାଧ୍ୟମ ପ୍ରାକଦର୍ଶନ:
 
 perm-tab =
     .label = ଅନୁମତି
@@ -126,7 +124,6 @@ security-site-data-cookies-only = ହଁ, ପିଠା
 security-site-data-no = ନାଁ
 
 image-size-unknown = ଅଜଣା
-not-set-verified-by = ଉଲ୍ଲେଖିତ ହୋଇନଥିବା
 page-info-not-specified =
     .value = ଉଲ୍ଲେଖିତ ହୋଇନଥିବା
 not-set-alternative-text = ଉଲ୍ଲେଖିତ ହୋଇନଥିବା
@@ -151,7 +148,6 @@ general-quirks-mode =
     .value = ଭେଦ ଅବସ୍ଥା
 general-strict-mode =
     .value = ମାନକ ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ଅବସ୍ଥା
-security-no-owner = ଏହି ୱେବ ସାଇଟ ମାଲିକତ୍ତ୍ୱ ସୂଚନା ପ୍ରଦାନ କରିନଥାଏ।
 page-info-security-no-owner =
     .value = ଏହି ୱେବ ସାଇଟ ମାଲିକତ୍ତ୍ୱ ସୂଚନା ପ୍ରଦାନ କରିନଥାଏ।
 media-select-folder = ପ୍ରତିଛବିଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଗୋଟିଏ ଫୋଲଡର ଚୟନକରନ୍ତୁ

@@ -38,14 +38,6 @@ appmenu-addon-private-browsing-installed =
 appmenu-addon-post-install-incognito-checkbox =
     .label = ଏକଷ୍ଟେନ୍ସନଟିକୁ ଗୋପନୀୟ ୱିଣ୍ଡୋରେ ଚାଲିବାର ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = ଏ
-appmenu-addon-private-browsing =
-    .label = ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋଜ୍ ରେ ଏକ୍ସଟେନ୍ସନ୍ କୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ
-    .buttonlabel = ଏକ୍ସଟେନ୍ସନ୍ କୁ ପରିଚାଳନ କରନ୍ତୁ
-    .buttonaccesskey = M
-    .secondarybuttonlabel = ଠିକ ଅଛି, ବୁଝିଲି
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = ଯେକୌଣସି ନୂତନ ଏକ୍ସଟେନ୍ସନ୍ ଆପଣ { -brand-shorter-name } ରେ ଯୋଡିଛନ୍ତି, ଯଦି ଆପଣ ସେଟିଂସମୂହରେ ଏହାକୁ ଅନୁମତି ନ ଦିଅନ୍ତି ତେବେ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ କାମ କରିବ ନାହିଁ
-appmenu-addon-private-browsing-learn-more = ଏକଷ୍ଟେନ୍ସନ ସେଟିଂସମୂହ କିପରି ପରିଚାଳନା କରିବେ ଶିଖନ୍ତୁ
     
 appmenu-new-tab-controlled =
     .label = ଆପଣଙ୍କର ନୂଆ ଟ୍ୟାବ୍ ବଦଳାଯାଇଛି

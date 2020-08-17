@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = ଗୋପନୀୟତା ସୁରକ୍ଷା
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = ଆପଣଙ୍କର ଗୋପନୀୟତା ପତ୍ରକୁ ଯାଆନ୍ତୁ
 appmenuitem-customize-mode =
     .label = ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ…
 
@@ -26,3 +23,4 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
+

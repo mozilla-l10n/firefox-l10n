@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ବିକଳ୍ପ, ଚିହ୍ନିତ ସ୍ଥାନ, ଇତିହାସ, ପ୍ରବେଶ ସଂକେତ ଏବଂ ଅନ୍ୟାନ୍ୟ ତଥ୍ୟକୁ ଆମଦାନୀ କରନ୍ତୁ:">
 <!ENTITY importFromUnix.label           "ପସନ୍ଦ, ଚିହ୍ନିତ ସ୍ଥାନ, ଇତିହାସ, ପ୍ରବେଶ ସଂକେତ ଏବଂ ଅନ୍ୟାନ୍ୟ ତଥ୍ୟକୁ ଆମଦାନୀ କରନ୍ତୁ :">
-<!ENTITY importFromBookmarks.label      "ଚିହ୍ନିତ ସ୍ଥାନ ଆମଦାନୀ କରନ୍ତୁ :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
