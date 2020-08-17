@@ -7,13 +7,6 @@ do-not-track-learn-more = बेसी जानू
 do-not-track-option-always =
     .label = हरदम
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] विकल्प
-           *[other] वरीयता
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] विकल्प
@@ -277,7 +270,6 @@ home-prefs-topsites-description = जे साइट अहाँ सबसँ 
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित
-home-prefs-recommended-by-description = वेब सँ बढियाँ कंटेंट पाबू, अहाँ खातिर पर्सनलाइज कएल गेल
 ##
 
 
@@ -350,8 +342,6 @@ search-keyword-warning-bookmark = अहाँ एकटाटा बीजश�
 
 sync-signedout-description = अपन सभ उपकरण पर अपन बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, आओर वरीयताकेँ तुल्यकालित करू.
 
-sync-signedout-account-title = { -fxaccount-brand-name } सँग कनेक्ट करू.
-
 ## Sync Section - Signed in
 
 
@@ -383,10 +373,6 @@ sync-engine-history =
 
 sync-device-name-header = युक्ति नाम
 
-sync-tos-link = सेवा शर्त
-
-sync-fxa-privacy-notice = गोपनीयता नीति
-
 ## Privacy Section
 
 
@@ -410,6 +396,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = अहाँ अखन FIPS मोड मे अछि . FIPS कलेल गैर रिक्त मुख्य गुड़किल्ली चाही.
+
 forms-master-pw-fips-desc = गुड़किल्ली बदलनाइ विफल
 
 ## OS Authentication dialog
@@ -497,6 +484,8 @@ certs-header = प्रमाणपत्र
 certs-enable-ocsp =
     .label = OCSP रेस्पांडर सर्वर कए प्रश्न करू जाहि स प्रमाणपत्रक मोजुदा वैधताक पुष्टि भए सकय (Q)
     .accesskey = Q
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

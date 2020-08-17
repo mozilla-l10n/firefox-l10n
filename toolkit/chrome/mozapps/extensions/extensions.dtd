@@ -12,31 +12,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "सक्रिय करू ">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "निष्क्रिय करू ">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "सक्रियण हेतु पूछू">
-<!ENTITY cmd.askToActivate.tooltip            "सभ बेर ई सहयुक्तिक उपयोगक लेल पूछू">
-<!ENTITY cmd.alwaysActivate.label             "हमेशा सक्रिय करू">
-<!ENTITY cmd.alwaysActivate.tooltip           "हमेशा ई सहयुक्तिक उपयोग करू">
-<!ENTITY cmd.neverActivate.label              "कखनो सक्रिय नहि करू">
-<!ENTITY cmd.neverActivate.tooltip            "इ सहयुक्तिक कखनो उपयोग नहि करू">
-<!ENTITY cmd.stateMenu.tooltip                "एकरा बदलू जखन सहयुक्ति चलैछ">
-
-<!ENTITY cmd.uninstallAddon.label             "हटाउ">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "विकल्प">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ई सहयुक्तिक विकल्पकेँ बदलू">
-<!ENTITY cmd.showPreferencesUnix.label        "वरीयता">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ई सहयुक्तिक वरीयता बदलू">
-
-<!ENTITY cmd.showReleaseNotes.label           "रिलीज नोट्स देखाउ">
-<!ENTITY cmd.showReleaseNotes.tooltip         "ई अद्यतन क लेल रिलीज नोट्स देखाउ">
-<!ENTITY cmd.hideReleaseNotes.label           "रिलीज नोट्स नुकाउ">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "ई अद्यतन क लेल रिलीज नोट्स नुकाउ">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -48,44 +23,13 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "रद्द करू ">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  " बेसी ">
-<!ENTITY addon.details.tooltip                "ई सहयुक्तिक संबंधमे बेसी विस्तार सँ देखाउ">
-<!ENTITY addon.unknownDate                    "अज्ञात">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(disabled)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "अद्यतन करू ">
-<!ENTITY addon.undoAction.label               "पहिने जहिना">
-<!ENTITY addon.undoAction.tooltip             " एकरा पहिने जहिना करू ">
-<!ENTITY addon.undoRemove.label               "पहिने जहिना">
-<!ENTITY addon.undoRemove.tooltip             "ई सहयुक्ति केँ संस्थापित राखू">
 
-<!ENTITY addon.install.label                  "संस्थापित  करू ">
-<!ENTITY addon.install.tooltip                "ई सहयुक्ति केँ संस्थापित करू ">
-<!ENTITY addon.updateNow.label                "आब अद्यतन करू ">
-<!ENTITY addon.updateNow.tooltip              "ई सहयुक्तिक लेल अद्यतन संस्थापित  करू ">
-<!ENTITY addon.includeUpdate.label            "अद्यतन मे शामिल  करू ">
-<!ENTITY addon.updateAvailable.label          "एकटा अद्यतन उपलब्ध अछि">
-<!ENTITY addon.checkingForUpdates.label       "अद्यतन क लेल जाँच रहल अछि…">
-<!ENTITY addon.releaseNotes.label             "रिलीज नोट्स:">
-<!ENTITY addon.loadingReleaseNotes.label      "लोड कए रहल अछि…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "माफ करू  मुदा एहि रिलीज नोट्स क लोड करब मे त्रुटि आएल.">
-
-<!ENTITY addon.createdBy.label                "By ">
-
-<!ENTITY settings.path.button.label           "ब्राउज करू…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

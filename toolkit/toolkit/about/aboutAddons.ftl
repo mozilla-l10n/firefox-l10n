@@ -10,9 +10,6 @@ addons-page-title = सहयुक्ति प्रबंधक
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = लोड कए रहल अछि…
-
 list-empty-installed =
     .value = अहाँक एहि प्रकारक कोनो सहयुक्ति संस्थापित नहि अछि
 
@@ -27,13 +24,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = सहयुक्तिक संबंधमे  बेसी जानू
-
-install-addon-from-file =
-    .label = फाइल सँ सहयुक्ति संस्थापित करू …
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = सभटा सहयुक्ति क लेल अओजार
 
 show-unsigned-extensions-button =
     .label = किछु विस्तार जाँचल नहि जाए सकल
@@ -77,12 +67,6 @@ cmd-contribute =
     .label = योगदान करू
     .accesskey = C
     .tooltiptext = ई सहयुक्ति क विकासमे अपन योगदान दिअ
-
-discover-title = सहयुक्ति क अछि?
-
-discover-description = सहयुक्ति एहन अनुप्रयोग अछि जे अहाँकेँ { -brand-short-name } केँ  अतिरिक्त प्रकार्यात्मकता अथवा शैली सँ व्यक्तिगत रूचि क अनुसार ढालबमे मदति करैत अछि. समय बचाबैबला कतकापट्टी, मौसम सूचक अथवा एकटा एहिन प्रसंग जे अहाँक  अपन { -brand-short-name } बनाबैबला प्रसंग आजमाउ.
-
-discover-footer = जखन अहाँ इंटरनेट सँ कनेक्टेड होइछ, ई पट्टी अहाँक लेल सबसँ नीक आओर लोकप्रिय सहयुक्ति प्रस्तुत करैत अछि जकरा अहाँ आजमाए सकू.
 
 detail-version =
     .label = संस्करण
@@ -156,14 +140,6 @@ disabled-unsigned-learn-more = अहाँ अपना केँ ऑनला�
 
 disabled-unsigned-devinfo = डेवलपर रुचि देखाबत हुए अपन एड-ऑन केँ जाँचनाय जारी राखत पढ़ि कए<label data-l10n-name="learn-more">मैनुअल</label>.
 
-extensions-view-recent-updates =
-    .name = हालिया अद्यतन
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = उपलब्ध अद्यतन
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = विस्तार
 addon-category-extension-title =
     .title = विस्तार
@@ -185,29 +161,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = सहयुक्ति सुसंगतता जाँच निष्क्रिय अछि. अहाँक पास असंगत सहयुक्ति भए सकैत अछि.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = सक्रिय  करू
-    .tooltiptext = सहयुक्ति सुसंगतता जाँच सक्रिय  करू
-
-extensions-warning-update-security-label =
-    .value = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = सक्रिय  करू
-    .tooltiptext = सहयुक्ति अद्यतन सुरक्षा जाँच सक्रिय करू
-
 extensions-warning-safe-mode = सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.
 extensions-warning-check-compatibility = सहयुक्ति सुसंगतता जाँच निष्क्रिय अछि. अहाँक पास असंगत सहयुक्ति भए सकैत अछि.
 extensions-warning-check-compatibility-button = सक्रिय  करू
@@ -219,14 +172,6 @@ extensions-warning-update-security-button = सक्रिय  करू
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = अद्यतनकएल जाएँच  करू
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = हालिया अद्यतन देखू
-    .accesskey = V
-
 addon-updates-check-for-updates = अद्यतनकएल जाएँच  करू
     .accesskey = C
 addon-updates-view-updates = हालिया अद्यतन देखू
@@ -234,10 +179,6 @@ addon-updates-view-updates = हालिया अद्यतन देखू
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = सहयुक्ति स्वतः अद्यतन  करू
-    .accesskey = A
 
 addon-updates-update-addons-automatically = सहयुक्ति स्वतः अद्यतन  करू
     .accesskey = A
@@ -248,36 +189,12 @@ addon-updates-update-addons-automatically = सहयुक्ति स्व�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = अद्यतन स्वतः करबाक लेल सबहि सहयुक्ति फेर सेट  करू
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = दस्ती रूप सँ अद्यतन करब क लेल सबहि सहयुक्ति फेर सेट  करू
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = अद्यतन स्वतः करबाक लेल सबहि सहयुक्ति फेर सेट  करू
     .accesskey = R
 addon-updates-reset-updates-to-manual = दस्ती रूप सँ अद्यतन करब क लेल सबहि सहयुक्ति फेर सेट  करू
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = सहयुक्ति अद्यतन कए रहल अछि
-extensions-updates-installed =
-    .value = अहाँक सहयुक्ति अद्यतन कएल जाए चुकल अछि.
-extensions-updates-downloaded =
-    .value = अहाँक सहयुक्ति अद्यतन डाउनलोड कएल जाए रही अछि.
-extensions-updates-restart =
-    .label = संस्थापन पूरा करब क लेल आब फेर आरंभ  करू
-extensions-updates-none-found =
-    .value = कोनो अद्यतन नहि भेटल
-extensions-updates-manual-updates-found =
-    .label = उपलब्ध अद्यतन देखू
-extensions-updates-update-selected =
-    .label = अद्यतन संस्थापित  करू
-    .tooltiptext = ई सूची मे उपलब्ध अद्यतन संस्थापित  करू
 
 addon-updates-updating = सहयुक्ति अद्यतन कए रहल अछि
 addon-updates-installed = अहाँक सहयुक्ति अद्यतन कएल जाए चुकल अछि.

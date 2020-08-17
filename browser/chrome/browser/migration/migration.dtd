@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "पसन्द, पुस्तकचिह्न, इतिहास, गुड़किल्ली आओर आन आँकड़ा एतय सँ आयात करू :">
 <!ENTITY importFromUnix.label           "विकल्प, पुस्तकचिह्न, इतिहास, गुड़किल्ली आओर आन आंकड़ा एतय सँ आयात करू :">
-<!ENTITY importFromBookmarks.label      "पुस्तकचिह्न एतय सँ आयात  करू :">
 
 <!ENTITY importFromIE.label             "माइक्रोसाफ़्ट इंटरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey         "M">
