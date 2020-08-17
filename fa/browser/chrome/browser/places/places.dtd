@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "انتخاب پرونده…">
 <!ENTITY cmd.restoreFromFile.accesskey  "پ">
 
-<!ENTITY cmd.deleteDomainData.label     "فراموش کردن این سایت">
-<!ENTITY cmd.deleteDomainData.accesskey "ف">
-
-<!ENTITY cmd.open.label                  "باز کردن">
-<!ENTITY cmd.open.accesskey              "ب">
-<!ENTITY cmd.open_window.label           "باز کردن در پنجرهٔ جدید">
-<!ENTITY cmd.open_window.accesskey       "پ">
-<!ENTITY cmd.open_private_window.label     "باز کردن پنجرهٔ ناشناس جدید">
-<!ENTITY cmd.open_private_window.accesskey "ن">
-<!ENTITY cmd.open_tab.label              "باز کردن در زبانهٔ جدید">
-<!ENTITY cmd.open_tab.accesskey          "ج">
-<!ENTITY cmd.open_all_in_tabs.label      "باز کردن همه در زبانه‌های خاص خود">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "ب">
-
-<!ENTITY cmd.properties.label      "ویژگی‌ها">
-<!ENTITY cmd.properties.accesskey  "و">
-
-<!ENTITY cmd.sortby_name.label              "مرتب‌سازی بر حسب نام">
-<!ENTITY cmd.sortby_name.accesskey          "ن">
-<!ENTITY cmd.context_sortby_name.accesskey  "ن">
-
-<!ENTITY cmd.new_bookmark.label            "نشانک جدید…">
-<!ENTITY cmd.new_bookmark.accesskey        "ن">
-<!ENTITY cmd.new_folder.label              "پوشهٔ جدید…">
-<!ENTITY cmd.new_folder.accesskey          "ش">
-<!ENTITY cmd.context_new_folder.accesskey  "پ">
-<!ENTITY cmd.new_separator.label           "جداساز جدید">
-<!ENTITY cmd.new_separator.accesskey       "س">
-
 <!ENTITY col.name.label          "نام">
 <!ENTITY col.tags.label          "برچسب‌ها">
 <!ENTITY col.url.label           "مکان">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "تعداد بازدید">
 <!ENTITY col.dateadded.label     "تاریخ افزوده شدن">
 <!ENTITY col.lastmodified.label  "زمان آخرین تغییر">
-
-<!ENTITY historySearch.placeholder  "تاریخچه جست‌و‌جو">
-<!ENTITY bookmarksSearch.placeholder  "جست‌و‌جو نشانک‌ها">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "یک مورد را برای مشاهده و ویرایش انتخاب کنید">
 
-<!ENTITY view.label               "نما">
-<!ENTITY view.accesskey           "ن">
-<!ENTITY byDate.label             "‌بر حسب تاریخ">
-<!ENTITY byDate.accesskey         "ت">
-<!ENTITY bySite.label             "بر حسب پایگاه">
-<!ENTITY bySite.accesskey         "پ">
-<!ENTITY byMostVisited.label      "بر حسب بیشترین بازدید">
-<!ENTITY byMostVisited.accesskey  "ب">
-<!ENTITY byLastVisited.label      "بر حسب آخرین بازدید">
-<!ENTITY byLastVisited.accesskey  "خ">
-<!ENTITY byDayAndSite.label       "بر حسب تاریخ و پایگاه">
-<!ENTITY byDayAndSite.accesskey   "ر">

@@ -79,11 +79,6 @@ permissions-invalid-uri-label = لطفاً نام میزبان معتبری را
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = استثناها - مسدودسازی محتوا
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = شما مسدودسازی محتوا را در این وب‌سایت‌ها غیرفعال کرده‌اید.
-
 permissions-exceptions-etp-window =
     .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند افزودنی‌هایی نصب کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = استثناها - پخش خودکار
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها همیشه یا هیچ‌وقت مجاز به پخش رسانه با صدا باشند. نشانی پایگاهی را که می‌خواهید مدیریت کنید وارد و سپس روی «باز داشتن» یا «اجازه دادن» کلیک کنید.
 
 ## Site Permissions - Autoplay
 

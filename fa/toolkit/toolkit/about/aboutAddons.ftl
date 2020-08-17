@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = در حال بار کردن…
-
 list-empty-installed =
     .value = هیچ افزودنی‌ای از این نوع نصب نشده است
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = دربارهٔ افزودنی‌ها بیشتر بدانید
 
-install-addon-from-file =
-    .label = نصب افزودنی از یک پرونده…
-    .accesskey = ن
-
 help-button = پشتیبانی افزونه
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] گزینه ها{ -brand-short-name }
        *[other] ترجیحات{ -brand-short-name }
     }
-
-tools-menu =
-    .tooltiptext = ابزارهای مخصوص همهٔ افزودنی‌ها
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = نمایش تمام توسعه‌ها
-
-debug-addons =
-    .label = اشکال‌زدایی افزودنی‌ها
-    .accesskey = ی
 
 cmd-show-details =
     .label = نمایش اطلاعات بیشتر
@@ -103,12 +89,6 @@ cmd-contribute =
     .label = مشارکت
     .accesskey = م
     .tooltiptext = مشارکت در توسعهٔ این افزودنی
-
-discover-title = افزودنی‌ها به چه کار می‌آیند؟
-
-discover-description = افزودنی‌ها برنامه‌هایی هستند که به شما امکان شخصی‌سازی { -brand-short-name } را با افزودن قابلیت‌های جدید یا تغییر ظاهر آن می‌دهند. برای داشتن { -brand-short-name } شخصی، افزودن نوار کناری برای صرفه‌جویی در زمان، یک افزودنی اطلاع از وضعیت هوا، یا یک ظاهر جدید را امتحان کنید.
-
-discover-footer = زمانی که به اینترنت متصل باشید، این ناحیه برخی از بهترین و پرطرفدارترین افزودنی‌هایی که می‌توانید آزمایش کنید را نشان می‌دهد.
 
 detail-version =
     .label = نسخه
@@ -206,18 +186,6 @@ legacy-extensions =
 
 legacy-extensions-description = این ضمیمه‌ها استاندارهای لازم { -brand-short-name } را ندارند و به همین دلیل غیرفعال شده‌اند. <label data-l10n-name="legacy-learn-more">در مورد تغییرات در افزودنی‌ها بیشتر بدانید</label>
 
-extensions-view-discopane =
-    .name = توصیه‌ها
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = بروزرسانی‌های اخیر
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = بروزرسانی‌های موجود
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = توصیه‌ها
 addon-category-discover-title =
     .title = توصیه‌ها
@@ -245,29 +213,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = فعال کردن
-    .tooltiptext = فعال کردن کنترل سازگاری افزودنی‌ها
-
-extensions-warning-update-security-label =
-    .value = بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = فعال کردن
-    .tooltiptext = فعال کردن بررسی امنیتی بروزرسانی افزودنی‌ها
-
 extensions-warning-safe-mode = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
 extensions-warning-check-compatibility = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
 extensions-warning-check-compatibility-button = فعال کردن
@@ -279,14 +224,6 @@ extensions-warning-update-security-button = فعال کردن
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = بررسی برای بروزرسانی‌ها
-    .accesskey = ب
-
-extensions-updates-view-updates =
-    .label = مشاهده بروزرسانی‌های اخیر
-    .accesskey = م
-
 addon-updates-check-for-updates = بررسی برای بروزرسانی‌ها
     .accesskey = ب
 addon-updates-view-updates = مشاهده بروزرسانی‌های اخیر
@@ -294,10 +231,6 @@ addon-updates-view-updates = مشاهده بروزرسانی‌های اخیر
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = بروزرسانی خودکار همهٔ افزودنی‌ها
-    .accesskey = ب
 
 addon-updates-update-addons-automatically = بروزرسانی خودکار همهٔ افزودنی‌ها
     .accesskey = ب
@@ -308,36 +241,12 @@ addon-updates-update-addons-automatically = بروزرسانی خودکار هم
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت خودکار
-    .accesskey = خ
-
-extensions-updates-reset-updates-to-manual =
-    .label = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت دستی
-    .accesskey = ت
-
 addon-updates-reset-updates-to-automatic = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت خودکار
     .accesskey = خ
 addon-updates-reset-updates-to-manual = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت دستی
     .accesskey = ت
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = در حال بروزرسانی افزودنی‌ها
-extensions-updates-installed =
-    .value = افزودنی‌های شما به‌هنگام شدند.
-extensions-updates-downloaded =
-    .value = بروزرسانی‌های افزودنی‌های شما دریافت گردیدند.
-extensions-updates-restart =
-    .label = را‌ه‌اندازی مجدد به منظور اتمام نصب
-extensions-updates-none-found =
-    .value = هیچ بروزرسانی‌ای پیدا نشد
-extensions-updates-manual-updates-found =
-    .label = مشاهدهٔ بروزرسانی‌های موجود
-extensions-updates-update-selected =
-    .label = نصب بروزرسانی
-    .tooltiptext = نصب بروزرسانی‌های موجود در این فهرست
 
 addon-updates-updating = در حال بروزرسانی افزودنی‌ها
 addon-updates-installed = افزودنی‌های شما به‌هنگام شدند.
@@ -355,15 +264,9 @@ addon-open-about-debugging = اشکال‌زدایی افزودنی‌ها
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = میانبرهای افزونه را مدیریت کنید
-    .accesskey = م
-
 shortcuts-no-addons = شما هیچ افزونه فعالی ندارید.
 shortcuts-input =
     .placeholder = یک میانبر وارد کنید
-
-shortcuts-browserAction = افزونه را فعال کنید
 
 shortcuts-sidebarAction = تغییر حالت نوار کناری
 
@@ -385,9 +288,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = نمایش کمتر
-
-go-back-button =
-    .tooltiptext = برگشتن
 
 header-back-button =
     .title = برگشتن
@@ -424,7 +324,6 @@ report-addon-button = گزارش
 remove-addon-button = حذف
 disable-addon-button = غیرفعال کردن
 enable-addon-button = فعال کردن
-expand-addon-button = گزینه‌های بیشتر
 preferences-addon-button =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -433,9 +332,6 @@ preferences-addon-button =
 details-addon-button = جزئیات
 release-notes-addon-button = یادداشت‌های انتشار
 permissions-addon-button = مجوزها
-
-addons-enabled-heading = فعال شد
-addons-disabled-heading = غیرفعال شد
 
 extension-enabled-heading = فعال شد
 extension-disabled-heading = غیرفعال شد
@@ -498,23 +394,12 @@ install-update-button = بروزرسانی
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = در پنجره‌های ناشناس مجاز است
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = در پنجره‌های ناشناس مجاز است
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = در صورت اجازه، این افزونه هنگام مرور ناشناس به فعالیت‌های برخط شما دسترسی خواهد داشت. <a data-l10n-name="learn-more">بیشتر بیاموزید</a>
 addon-detail-private-browsing-allow = اجازه دادن
 addon-detail-private-browsing-disallow = اجازه نده
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = توصیه شده
-    .alt = توصیه شده
 
 available-updates-heading = بروزرسانی‌های موجود
 recent-updates-heading = بروزرسانی‌های اخیر

@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = ذخیره به نام…
     .accesskey = ذ
-media-preview =
-    .value = پیش‌نمایش رسانه:
 
 perm-tab =
     .label = مجوزها
@@ -132,7 +130,6 @@ security-site-data-cookies-only = بله، کوکی‌ها
 security-site-data-no = خیر
 
 image-size-unknown = نامعلوم
-not-set-verified-by = نامشخص
 page-info-not-specified =
     .value = نامشخص
 not-set-alternative-text = نامشخص
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = حالت غیر استاندارد
 general-strict-mode =
     .value = حالت پیروی از استاندارد
-security-no-owner = این پایگاه وبی اطلاعی در مورد مالک خود ارائه نمی‌دهد.
 page-info-security-no-owner =
     .value = این پایگاه وبی اطلاعی در مورد مالک خود ارائه نمی‌دهد.
 media-select-folder = پوشه‌ای برای ذخیرهٔ تصویر انتخاب کنید

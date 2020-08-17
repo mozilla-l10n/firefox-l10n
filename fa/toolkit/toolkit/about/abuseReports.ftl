@@ -60,30 +60,19 @@ abuse-report-messagebar-action-cancel = لغو
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = به رایانه و داده‌های من آسیب می‌رساند
-
 abuse-report-damage-reason-v2 = به رایانه من آسیب رساند یا اطلاعات من را در معرض خطر قرار داد
 abuse-report-damage-example = مثال: بدافزار تزریق کرده است یا داده‌ها را سرقت می‌کند
 
-abuse-report-spam-reason = اسپم یا تبلیغات ایجاد می‌کند
-
 abuse-report-spam-reason-v2 = حاوی هرزنامه است یا تبلیفات ناخواسته درج می‌کند
 abuse-report-spam-example = مثال: تبلیغات به صفحات وب اضافه می‌کند
-
-abuse-report-settings-reason = بدون اطلاع دادن یا سؤال از من، موتور جستجو، صفحه اصلی یا اطلاعات برگهٔ جدید را تغییر داد
 
 abuse-report-settings-reason-v2 = بدون اطلاع دادن یا سؤال از من، موتور جستجو، صفحه اصلی یا اطلاعات برگهٔ جدید را تغییر داد
 abuse-report-settings-suggestions = قبل از گزارش افزونه، می‌توانید تنظیمات خود را تغییر دهید:
 abuse-report-settings-suggestions-search = تنظیمات موتور جستجوی پیش فرض خود را تغییر دهید
 abuse-report-settings-suggestions-homepage = صفحه خانگی و برگهٔ جدید خود را تغییر دهید
 
-abuse-report-deceptive-reason = وانمود می‌کند چیز متفاوتی است
-
 abuse-report-deceptive-reason-v2 = ادعا می‌کند چیز متفاوتی است
 abuse-report-deceptive-example = مثال: توضیحات یا تصاویر گمراه کننده
-
-abuse-report-broken-reason-extension = کار نمی کند، وب سایت‌ها را خراب می‌کند، یا سرعت { -brand-product-name } را کاهش می دهد
-abuse-report-broken-reason-theme = کار نمی‌کند یا چهرهٔ مرورگر را خراب می‌کند
 
 abuse-report-broken-reason-extension-v2 = کار نمی کند، وب سایت‌ها را خراب می‌کند، یا سرعت { -brand-product-name } را کاهش می دهد
 abuse-report-broken-reason-theme-v2 = کار نمی‌کند یا چهرهٔ مرورگر را خراب می‌کند
@@ -95,14 +84,10 @@ abuse-report-broken-suggestions-theme =
     به نظر می رسد شما یک اشکال را شناسایی کرده‌اید. علاوه بر ثبت گزارش در اینجا، بهترین راهبرای حل مسئله عملکرد، تماس با توسعه دهنده تم است.
     برای دریافت اطلاعات توسعه‌دهنده به <a data-l10n-name="support-link">وب سایت تم</a> مراجعه کنید.
 
-abuse-report-policy-reason = محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
-
 abuse-report-policy-reason-v2 = حاوی محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
 abuse-report-policy-suggestions =
     توجه: مسائل مربوط به کپی رایت و مارک تجاری باید در یک فرآیند جداگانه گزارش شود.
     برای گزارش مشکل از این<a data-l10n-name="report-infringement-link"> دستورالعمل‌ها </a>استفاده کنید
-
-abuse-report-unwanted-reason = هرگز این افزونه را نمی‌خواستید و نمی‌توانید از شر آن خلاص شوید
 
 abuse-report-unwanted-reason-v2 = هرگز این افزونه را نمی‌خواستم و نمی‌دانم چگونه از شر آن خلاص بشوم
 abuse-report-unwanted-example = مثال: برنامه‌ای بدون اجازه من آن را نصب کرده است

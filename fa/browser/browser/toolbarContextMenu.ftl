@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = انتخاب همه‌ی زبانه‌ها
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = برگردان زبانه بسته شده
-    .accesskey = ب
 
 toolbar-context-menu-manage-extension =
     .label = مدیریت افزودنی‌ها

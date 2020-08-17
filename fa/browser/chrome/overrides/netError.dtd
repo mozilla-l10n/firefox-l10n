@@ -14,31 +14,19 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "قادر به برقراری اتصال نیست">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "این نشانی ممنوع است">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "سرور پیدا نشد">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "آممم. ما کمی مشکل در پیدا کردن این پایگاه اینترنتی داریم.">
 <!ENTITY dnsNotFound.longDesc1 "<strong> اگر این آدرس درست است،‌ اینجا سه چیز دیگر وجود دارد که شما باید امتحان کنید:</strong><ul>
   <li>بعدا دوباره تلاش کنید.</li>
   <li>شبکه خود را بررسی کنید.</li>
   <li>اگر شما متصل هستید اما در پشت دیوار اتشین هستید،‌&brandShortName; را بررسی کنیدتا اجازه اتصال به وب را داشته باشد</li></ul>">
 
-<!ENTITY fileNotFound.title "پرونده پیدا نشد">
-
 <!ENTITY fileNotFound.longDesc "<ul><li>صحتِ نام پرونده را برای احتمال وجود غلط املایی بررسی کنید. </li><li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li></ul>">
 
-<!ENTITY fileAccessDenied.title "دسترسی به پرونده رد شد">
-
 <!ENTITY fileAccessDenied.longDesc "<ul><li>ممکن است حذف،‌ منتقل یا مجوز‌های پرونده از دسترسی به آن جلوگیری می‌کند.</li></ul>">
-
-<!ENTITY generic.title "متأسفیم.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
@@ -48,63 +36,33 @@
 <!ENTITY openPortalLoginPage.label2 "بازکردن صفحه ورود به شبکه">
 
 <!ENTITY malformedURI.pageTitle "نشانی معتبر نیست">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "آممم. آدرس به نظر درست نیست.">
-
-<!ENTITY netInterrupt.title "اتصال مختل شد">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "پرونده منقضی شده">
-
 <!ENTITY notCached.longDesc "<p> پرونده درخواستی در حافظه &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمه &quot;تلاش دوباره&quot; کلیک کنید.</li></ul>">
-
-<!ENTITY netOffline.title "حالت منفصل">
 
 <!ENTITY netOffline.longDesc2 "<ul><li>دکمهٔ «تلاش دوباره» را فشار دهید تا به حالت آنلاین برگردید و صفحه را دوباره بارگذاری کنید.</li></ul>">
 
-<!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>لطفاً با صاحبان پایگاه وب تماس بگیرید تا آنها را در جریان این مشکل قرار دهید.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "نوع پروندهٔ ناامن">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>لطفاً با صاحبان پایگاه وب تماس بگیرید تا آنها را در جریان این مشکل قرار دهید.</li> </ul>">
 
-<!ENTITY netReset.title "اتصال قطع شد">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "مهلت اتصال تمام شد">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "نشانی قابل فهم نبود">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li> ممکن است نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید. </li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "کارگزار پیشکار از برقراری اتصال خودداری می‌کند.">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار به درستی کار می‌کند.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نشد">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>بررسی کنید تا مطمئن شوید که اتصال شبکهٔ رایانهٔ شما به درستی کار می‌کند.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوار آتش محافظت می‌شود، مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
-
-<!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>این مشکل گاهی ممکن است به دلیل غیر فعال کردن یا خودداری از قبول کوکی‌ها به وجود بیاید.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» روی رایانهٔ شما نصب شده باشد.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
-
-<!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
 
 <!ENTITY nssFailure2.longDesc2 "<ul><li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا امکان تایید اعتبار اطلاعات دریافتی آن وجود ندارد.</li><li>لطفاً با صاحبان این پایگاه اینترنتی تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
-<!ENTITY certerror.longpagetitle2 "هشدار: خطر امنیتی نهفته در پیش است">
-<!ENTITY certerror.sts.longpagetitle  "متصل نشد: مشکل امنیتی بالقوه">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -117,11 +75,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>ممکن است این پایگاه به طور موقت خارج از دسترس یا بیش از حد مشغول باشد. چند دقیقه صبر کنید و بعد دوباره تلاش کنید.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازه دسترسی به وب را دارد.</li> </ul>">
 
-<!ENTITY cspBlocked.title "مسدود شده بنا بر سیاست امنیتی محتوا">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "خطای خرابی محتوا">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا خطایی در هنگام انتقال اطلاعات رُخ داده است.</p><ul><li>لطفاً با صاحبان این پایگاه اینترنتی تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
@@ -130,11 +84,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "خطاهایی مانند این را گزارش کنید تا به موزیلا برای شناسایی و مسدود کردن سایت‌های مخرب کمک کنید.">
 <!ENTITY errorReporting.learnMore "اطلاعات بیشتر…">
 
-<!ENTITY remoteXUL.title "XUL راه دور">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "قادر به برقراری اتصال امن نمیباشد">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -144,8 +94,6 @@ was trying to connect. -->
 <!ENTITY certerror.sts.pagetitle  "متصل نشد: مشکل امنیتی بالقوه">
 <!ENTITY certerror.copyToClipboard.label "رونوشت متن به کلیپ بورد">
 
-<!ENTITY inadequateSecurityError.title "اتصال شما امن نیست">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> استفاده از تکنولوژی های امنیتی که تاریخ‌ آن‌ها گذشته است در برابر حملات آسیب پذیراست. و حمله کننده می ‌تواند به راحتی اطلاعاتی که شما تصویر می‌کنید امن است را فاش کند. مدیریت پایگاه وب نیاز دارد تا نخست کارگزار را قبل از بازدید پایگاه وب درست کند.</p><p> کد خطا: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -153,11 +101,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "صفحهٔ مسدود شده">
 
 
-<!ENTITY clockSkewError.title "ساعت رایانه شما اشتباه است">
-
 <!ENTITY prefReset.longDesc "به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟">
 <!ENTITY prefReset.label "بازگردانی تنظیمات پیش‌فرض">
 
-
-<!ENTITY networkProtocolError.title "خطای پروتکل شبکه">
 

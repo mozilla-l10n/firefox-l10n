@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = امتحان کنید: سنجاق کردن زب�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = چرا این را می‌بینم
+
 cfr-doorhanger-extension-cancel-button = اکنون نه
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = اکنون اضافه کن
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = سنجاق کردن این زبانه
     .accesskey = س
+
 cfr-doorhanger-extension-manage-settings-button = مدیریت تنظیمات پیشنهادی
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = این پیشنهاد را به من نشان نده
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = بیشتر بدانید
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = توسط { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصیه
 cfr-doorhanger-extension-notification2 = توصیه
     .tooltiptext = افزونه‌های توصیه شده
     .a11y-announcement = افزونه‌های توصیه شده موجود
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = توصیه
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } کاربر
        *[other] { $total } کاربر
     }
+
 cfr-doorhanger-pintab-description = به آسانی به وب‌سایت‌های پرکاربرد خود دسترسی داشته باشید. وب‌سایت‌ها در یک زبانه باز نگه دارید(حتی با راه‌اندازی دوباره نرم‌افزار).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = به آسانی به وب‌سایت‌ها�
 cfr-doorhanger-pintab-step1 = بر زبانه‌ای که می‌خواهید آن را سنجاق کنید <b>راست-کلیک</b> کنید.
 cfr-doorhanger-pintab-step2 = گزینه <b>سنجاق کردن زبانه</b> را از این منو انتخاب کنید.
 cfr-doorhanger-pintab-step3 = اگر این وب‌سایت به روزرسانی داشته باشد، یک نقطه آبی در کنار زبانه سنجاق شده خواهید دید.
+
 cfr-doorhanger-pintab-animation-pause = توقف
 cfr-doorhanger-pintab-animation-resume = راه اندازی
+
 
 ## Firefox Accounts Message
 
@@ -89,18 +100,24 @@ cfr-protections-panel-link-text = بیشتر بدانید
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ویژگی‌های جدید:
+
 cfr-whatsnew-button =
     .label = تازه‌ها
     .tooltiptext = تازه‌ها
+
 cfr-whatsnew-panel-header = تازه‌ها
+
 cfr-whatsnew-release-notes-link-text = یادداشت‌های انتشار را بخوانید
+
 cfr-whatsnew-fx70-title = { -brand-short-name } برای حریم‌شخصی شما سخت‌تر می جنگد
 cfr-whatsnew-fx70-body = آخرین به روزرسانی، ویژگی محافظت در برابر ردیابی را ارتقا داده است و ساختن گذرواژه امن برای هر وب‌سایتی را از همیشه ساده‌تر کرده است.
+
 cfr-whatsnew-tracking-protect-title = خود را در مقابل ردیاب‌ها محافظت کنید
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } بسیاری از ردیاب‌های اجتماعی و بین وب‌سایتی را که
     فعالیت آنلاین شما را دنبال می‌کنند، مسدود می‌کند.
 cfr-whatsnew-tracking-protect-link-text = گزارش خود را مشاهده کنید
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -111,9 +128,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = از { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = نمایش گزارش
+
 cfr-whatsnew-lockwise-backup-title = از گذرواژه‌های خود نسخه پشتیبان تهیه کنید
 cfr-whatsnew-lockwise-backup-body = حالا گذرواژه‌های امنی ایجاد کنید، که با ورود به حساب خود می‌توانید از هرجایی به آن‌ها دسترسی داشته باشید.
 cfr-whatsnew-lockwise-backup-link-text = فعال‌سازی پشتیبان گیری
+
 cfr-whatsnew-lockwise-take-title = گذرواژه‌های خود را با خود داشته باشید
 cfr-whatsnew-lockwise-take-body = برنامهٔ تلفن همراه { -lockwise-brand-short-name } به شما اجازه دسترسی امن را از هرجایی به گذرواژه‌های پشتیبانی گرفته شده می‌دهد.
 cfr-whatsnew-lockwise-take-link-text = دریافت اپ

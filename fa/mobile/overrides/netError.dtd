@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>پرونده درخواستی در حافظه &brandShortName; موجود نیست.</p><ul><li>به عنوان یک احتیاط امنیتی، &brandShortName; به‌طور خودکار نوشتارهای حساس را مجددا درخواست نمی‌کند.</li><li>بر روی تلاش مجدد کلیک کنید تا نوشتار از پایگاه‌وب مجددا درخواست شود.</li></ul>">
 
 <!ENTITY netOffline.title "حالت منفصل">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>دوباره سعی کنید. &brandShortName; تلاش خواهد کرد تا اتصال جدیدی باز کند و صفحه را مجدد بارگزاری کنید. <button id='wifi'>فعال سازی Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>لطفاً با صاحبان وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li> </ul>">

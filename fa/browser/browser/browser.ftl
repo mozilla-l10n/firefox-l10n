@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (مرور ناشناس)‏
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (مرور ناشناس)‏
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (مرور ناشناس)‏
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (مرور ناشناس)‏
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -110,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = کمتر تایپ کنید، بیشتر پیدا کنید: تنها از طریق نوار آدرس با { $engineName } جست‌وجو کنید.
 urlbar-search-tips-redirect-2 = جست‌وجوی خود را در نوار آدرس تایپ کنید تا پیشنهادهایی از { $engineName } و تاریخچهٔ مرور خود ببینید.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -136,10 +140,12 @@ urlbar-midi-blocked =
     .tooltiptext = شما دسترسی این وب‌سایت به MIDI را مسدود کرده‌اید.
 urlbar-install-blocked =
     .tooltiptext = شما نصب افزونه‌ها از طریق این وب‌سایت را مسدود کرده‌اید.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ویرایش این نشانک ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -170,12 +176,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = این بار، جست‌وجو با:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = تغییر تنظیمات جستجو
 search-one-offs-change-settings-compact-button =
     .tooltiptext = تغییر تنظیمات جستجو
+
 search-one-offs-context-open-new-tab =
     .label = جست‌وجو در زبانه جدید
     .accesskey = ز
@@ -186,13 +194,22 @@ search-one-offs-context-set-as-default-private =
     .label = تنظیم به عنوان موتور جست‌وجو پیش‌فرض در پنجره‌های ناشناس
     .accesskey = P
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = نمایش ویرایش‌گر هنگام ذخیره‌سازی
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = انجام شد
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -264,12 +281,15 @@ popup-select-microphone =
     .value = میکروفون جهت به‌اشتراک‌گذاری:
     .accesskey = م
 popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.
+
 popup-screen-sharing-not-now =
     .label = اکنون نه (w)
     .accesskey = w
+
 popup-screen-sharing-never =
     .label = هرگز اجازه نده (N)
     .accesskey = N
+
 popup-silence-notifications-checkbox = از کار انداختن آگاهی‌ها از { -brand-short-name } هنگام هم‌رسانی
 popup-silence-notifications-checkbox-warning = { -brand-short-name } هنگام هم‌رسانی، اعلان‌ها را نمایش نمی‌دهد.
 
@@ -286,21 +306,26 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = برای استفاده از میانبر F12، ابتدا DevTools را از طریق منوی توسعه‌دهندگان باز کنید.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
+
 urlbar-placeholder =
     .placeholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = مرورگر تحت کنترل از راه دور است
 urlbar-permissions-granted =
     .tooltiptext = به این پایگاه وب دسترسی‌های اضافی اعطا کرده‌اید.
 urlbar-switch-to-tab =
     .value = پرش به زبانه:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ضمیمه:
+
 urlbar-go-button =
     .tooltiptext = رفتن به نشانی موجود در نوار مکان
 urlbar-page-action-button =

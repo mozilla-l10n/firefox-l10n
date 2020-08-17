@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = فعال‌سازی رفع‌اشکال از راه دور
-options-enable-remote-tooltip =
-    .title = فعال کردن این گزینه به ابزار توسعه اجازه اشکال زدایی از راه دور فایرفاکس مانند سیستم عامل فایرفاکس را می‌دهد
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = فعال کردن خدمات کارگران برای روی HTTP ( وقتی که جعبه ابزار باز است)

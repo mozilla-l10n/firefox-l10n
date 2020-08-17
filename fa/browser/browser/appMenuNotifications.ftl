@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = با کلیک بر روی <image data-l10n-
 appmenu-addon-post-install-incognito-checkbox =
     .label = به این افزونه اجازه‌ی اجرا در پنجره خصوصی را بده
     .accesskey = ب
-appmenu-addon-private-browsing =
-    .label = به افزونه‌های پنجره خصوصی تغییر بده
-    .buttonlabel = مدیریت افزونه‌ها
-    .buttonaccesskey = م
-    .secondarybuttonlabel = باشه فهمیدم
-    .secondarybuttonaccesskey = ب
-appmenu-addon-private-browsing-message = هر افزونه جدیدی که به { -brand-shorter-name } اضافه می‌کنید تا وقتی در تنظیمات به آن اجازه ندهید، در پنجره خصوصی کار نخواهد کرد.
-appmenu-addon-private-browsing-learn-more = مدیریت تنظیمات افزونه‌ها را یاد بگیرید
     
 appmenu-new-tab-controlled =
     .label = زبانه جدید شما دچار تغییر شده است.

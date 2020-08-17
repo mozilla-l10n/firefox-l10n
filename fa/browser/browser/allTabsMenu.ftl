@@ -9,13 +9,17 @@ all-tabs-menu-undo-close-tabs =
             [one] برگرداندن زبانهٔ بسته‌شده
            *[other] برگرداندن زبانه‌های بسته‌شده
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = جست‌وجو زبانه‌ها
+
 all-tabs-menu-new-user-context =
     .label = زبانه حامل جدید
+
 all-tabs-menu-hidden-tabs =
     .label = زبانه‌های مخفی
+
 all-tabs-menu-manage-user-context =
     .label = مدیریت کانتینرها
     .accesskey = O

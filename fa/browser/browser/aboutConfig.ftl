@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = اینجا گودزیلا خوابیده!
-about-config-warning-text = تغییر این تنظیماتِ پیشرفته، می‌تواند برای پایداری، امنیت، و کارایی این برنامه مضر باشد. تنها در صورتی که از کاری که می‌کنید اطمینان دارید، ادامه دهید.
-about-config-warning-checkbox = دوباره من را آزار دهید، لطفاً!
-about-config-warning-button = خطر را می‌پذیرم
-
-about-config2-title = پیکربندی‌های پیشرفته
-
-about-config-search-input =
-    .placeholder = جستجو
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = با هوشیاری پیش بروید
@@ -32,13 +21,6 @@ about-config-page-title = ترجیحات پیشرفته
 about-config-search-input1 =
     .placeholder = جست‌وجوی نام ترجیحات
 about-config-show-all = نمایش همه
-
-about-config-pref-add = اضافه کردن
-about-config-pref-toggle = تغییر وضعیت
-about-config-pref-edit = ویرایش
-about-config-pref-save = ذخیره
-about-config-pref-reset = بازنشانی
-about-config-pref-delete = حذف
 
 about-config-pref-add-button =
     .title = افزودن

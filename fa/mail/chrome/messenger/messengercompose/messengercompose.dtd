@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "از نو">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ز">
-<!ENTITY cutCmd.label "بریدن">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ب">
-<!ENTITY copyCmd.label "رونوشت برداشتن">
 
-<!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "چسباندن">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "چ">
 <!ENTITY pasteNoFormattingCmd.key "V">
 
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -85,7 +79,6 @@
 <!ENTITY editRewrapCmd.key "R">
 
 
-<!ENTITY selectAllCmd.label "انتخاب همه">
 <!ENTITY selectAllCmd.accesskey "ا">
 
 
@@ -93,7 +86,6 @@
 
 
 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "پیدا کردن مجدد">
 <!ENTITY findAgainCmd.accesskey "پ">
 <!ENTITY findAgainCmd.key "G">
@@ -222,21 +214,8 @@
 <!ENTITY printButton.tooltip "Print this message">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY fromAddr.label "From:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "به:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Reply-To:">
-<!ENTITY newsgroupsAddr.label "Newsgroup:">
-<!ENTITY followupAddr.label "Followup-To:">
-<!ENTITY subject.label "موضوع:">
 <!ENTITY subject.accesskey "م">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Insert a smiley face">
