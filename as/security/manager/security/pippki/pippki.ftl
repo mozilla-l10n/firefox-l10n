@@ -21,6 +21,9 @@ change-password-reenter = নতুন পাছৱাৰ্ড (আকৌ):
 reset-password-window =
     .title = প্ৰমূখ পাছৱাৰ্ড পুনঃ স্থাপন কৰক
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = পুনঃ স্থাপন
 reset-password-text = আপুনি প্ৰমূখ পাছৱাৰ্ড পুনঃ স্থাপন কৰিলে, সকলো ৱেব আৰু ই-মেইল পাছৱাৰ্ড, ফৰ্মৰ তথ্য, ব্যক্তিগত প্ৰমাণপত্ৰ, আৰু ব্যক্তিগগত কি' পাহৰা হ'ব। আপুনি প্ৰমূখ পাছৱাৰ্ড পুনঃ স্থাপন কৰিবলৈ নিশ্চিত নে ?

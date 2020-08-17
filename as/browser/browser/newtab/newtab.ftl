@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = সন্ধান কৰক
     .aria-label = সন্ধান কৰক
+
 newtab-search-box-search-the-web-text = ৱেবত সন্ধান কৰক
 newtab-search-box-search-the-web-input =
     .placeholder = ৱেবত সন্ধান কৰক
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = শীৰ্ষ ছাইট সম্প
 newtab-topsites-title-label = শীৰ্ষক
 newtab-topsites-title-input =
     .placeholder = শীৰ্ষক প্ৰবিষ্ট কৰক
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL টাইপ বা পে'ষ্ট কৰক
 newtab-topsites-url-validation = বৈধ URLৰ প্ৰয়োজন
+
 newtab-topsites-image-url-label = কাষ্টম ছবিৰ URL
 newtab-topsites-use-image-link = কাষ্টম ছবি ব্যৱহাৰ কৰক…
 newtab-topsites-image-validation = ছবি ল'ড হোৱা বিফল হ'ল। বেলেগ এটা URL পৰীক্ষা কৰক।
@@ -54,10 +57,12 @@ newtab-topsites-add-button = যোগ কৰক
 newtab-menu-section-tooltip =
     .title = মেন্যু খোলক
     .aria-label = মেন্যু খোলক
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = আঁতৰাওক
     .aria-label = আঁতৰাওক
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.

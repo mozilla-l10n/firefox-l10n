@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ফাইল বাছক…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "এই ছাইটৰ বিষয়ে পাহৰি যাওক">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "খোলক">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "এটা নতুন উইন্ডোত খোলক">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "নতুন ব্যক্তিগত উইণ্ড' এটাত খোলক">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "এটা নতুন টেবত খোলক">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "সকলোক টেবত খোলক">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "বৈশিষ্ট্যসমূহ">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "নামেৰে সজাঁওক">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "নতুন পত্ৰচিহ্ন…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "নতুন ফোল্ডাৰ…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "নতুন বিভাজক">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "নাম">
 <!ENTITY col.tags.label          "টেগ">
 <!ENTITY col.url.label           "স্থান">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "দৰ্শনৰ সংখ্যা">
 <!ENTITY col.dateadded.label     "যোগ কৰা হ'ল">
 <!ENTITY col.lastmodified.label  "সৰ্বেশষ পৰিৱৰ্তীত">
-
-<!ENTITY historySearch.placeholder  "ইতিহাসৰ সন্ধান কৰক">
-<!ENTITY bookmarksSearch.placeholder  "বুকমাৰ্কৰ সন্ধান কৰক">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "বৈশিষ্টসমূহ চাই আৰু তাক সম্পাদন কৰিবলৈ এটা বস্তু বাছক।">
 
-<!ENTITY view.label               "দৰ্শন কৰক">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "তাৰিখৰে">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "ছাইটৰে">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "সৰ্বাধিক ভ্ৰমণ কৰা">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "শেহতীয়াভাৱে ভ্ৰমণ কৰা">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "তাৰিখ আৰু ছাইটৰে">
-<!ENTITY byDayAndSite.accesskey   "t">

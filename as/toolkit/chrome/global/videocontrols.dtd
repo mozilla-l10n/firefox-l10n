@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "ছবিৰ-ওপৰত-ছবি">
 
-<!ENTITY stats.media "মিডিয়া">
-<!ENTITY stats.size "আকাৰ">
-<!ENTITY stats.activity "কাৰ্যকলাপ">
-<!ENTITY stats.activityPaused "ৰখোৱা হল">
-<!ENTITY stats.activityPlaying "চলি আছে">
-<!ENTITY stats.activityEnded "শেষ হ'ল">
-<!ENTITY stats.activitySeeking "(বিচাৰি থকা হৈছে)">
-<!ENTITY stats.volume "ভলিউম">
-<!ENTITY stats.framesParsed "বিশ্লেষিত ফ্ৰেইমসমূহ">
-<!ENTITY stats.framesDecoded "ডিক'ড কৰা ফ্ৰেইমসমূহ">
-<!ENTITY stats.framesPresented "প্ৰদৰ্শন কৰা ফ্ৰেইমসমূহ">
-<!ENTITY stats.framesPainted "ৰঙ কৰা ফ্ৰেইমসমূহ">
-
 <!ENTITY error.aborted "ভিডিঅ' ল'ড হোৱাটো ৰৈ গ'ল।">
 <!ENTITY error.network "এটা নেটৱৰ্ক ত্ৰুটিৰ বাবে ভিডিঅ' প্লে'বেক ৰখোৱা হ'ল।">
 <!ENTITY error.decode "ভিডিঅ' চলাব নোৱাৰি কাৰণ ফাইলটো ক্ষতিগ্ৰস্থ।">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "এটা অজ্ঞাত ত্ৰুটিৰ বাবে ভিডিঅ' প্লে'বেক ৰখোৱা হ'ল।">
 
 <!ENTITY status.pictureInPicture "এই ভিডিঅ' ছবিৰ-ওপৰত-ছবি ম'ডত চলি আছে।">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#2ৰ ভিতৰত #1 অতিবাহিত">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

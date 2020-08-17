@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></i
 appmenu-addon-post-install-incognito-checkbox =
     .label = এই এক্সটেনশ্যনক ব্যক্তিগত উইণ্ড'বোৰত চলাৰ অনুমতি দিয়ক
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = ব্যক্তিগত উইণ্ড'বোৰত এক্সটেনশ্যনবোৰলৈ সলাওক
-    .buttonlabel = এক্সটেনশ্যন পৰিচালনা
-    .buttonaccesskey = M
-    .secondarybuttonlabel = ঠিক আছে, বুজিছোঁ
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = আপুনি { -brand-shorter-name }-ত যোগ কৰা কোনো এক্সটেনশ্যন ব্যক্তিগত উইণ্ড'বোৰত কাম নকৰে যেতিয়ালৈকে আপুনি ছেটিংছত তাৰ অনুমতি নিদিয়ে।
-appmenu-addon-private-browsing-learn-more = এক্সটেনশ্যন ছেটিংছ কেনেকৈ পৰিচালনা কৰে শিকক
+    
 appmenu-new-tab-controlled =
     .label = আপোনাৰ নতুন টেব সলনি হৈছে।
     .buttonlabel = সালসলনি ৰাখক

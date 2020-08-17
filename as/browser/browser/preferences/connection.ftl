@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = এই নেটৱাৰ্কৰ বাবে প্ৰক্সি স্বচালিতভাৱে সন্ধান কৰক
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = সকলো প্ৰটোকলৰ বাবে এই প্ৰক্সি চাৰ্ভাৰ ব্যৱহাৰ কৰক
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

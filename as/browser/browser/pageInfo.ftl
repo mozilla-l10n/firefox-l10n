@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = এই ধৰণে সংৰক্ষণ কৰক…
     .accesskey = e
-media-preview =
-    .value = মাধ্যমৰ পূৰ্ব প্ৰদৰ্শন:
 
 perm-tab =
     .label = অনুমতিসমূহ
@@ -132,7 +130,6 @@ security-site-data-cookies-only = হয়, কুকিজ
 security-site-data-no = নহয়
 
 image-size-unknown = অজ্ঞাত
-not-set-verified-by = নিৰ্ধাৰিত কৰা হোৱা নাই
 page-info-not-specified =
     .value = নিৰ্ধাৰিত কৰা হোৱা নাই
 not-set-alternative-text = নিৰ্ধাৰিত কৰা হোৱা নাই
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks অৱস্থা
 general-strict-mode =
     .value = মান আজ্ঞা পালনৰ অৱস্থা
-security-no-owner = এই ৱেব ছাইটে গৰাকীৰ তথ্য নিদিয়ে।
 page-info-security-no-owner =
     .value = এই ৱেব ছাইটে মালিকানা তথ্য নিদিয়ে।
 media-select-folder = ছবি সংৰক্ষণ কৰিবলৈ এটা ফোল্ডাৰ নিৰ্বাচন কৰক

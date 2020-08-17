@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = পিং ডাটাৰ উৎস:
-about-telemetry-show-current-ping-data = বৰ্তমানৰ পিং ডাটা
 about-telemetry-show-current-data = বৰ্তমান ডাটা
 about-telemetry-choose-ping = পিংগ বাচি লওক:
 about-telemetry-archive-ping-type = পিংগৰ প্ৰকাৰ
@@ -80,8 +79,6 @@ about-telemetry-no-search-results-all = দুঃখিত! “{ $searchTerms }�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = দুঃখিত! বৰ্তমান “{ $sectionName }”ত কোনো ডাটা উপলব্ধ নহয়
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = বৰ্তমান পিংগ
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = বৰ্তমান ডাটা
 # used in the “Ping Type” select

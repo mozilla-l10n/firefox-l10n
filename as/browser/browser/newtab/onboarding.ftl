@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = অধিক জানক
-onboarding-button-label-try-now = এতিয়াই পৰীক্ষা কৰক
 onboarding-button-label-get-started = আৰম্ভ কৰক
 
 ## Welcome modal dialog strings
@@ -21,8 +20,6 @@ onboarding-button-label-get-started = আৰম্ভ কৰক
 onboarding-welcome-header = { -brand-short-name }-লৈ স্বাগতম
 onboarding-welcome-body = আপুনি ব্ৰাউজাৰ পালে।<br/>{ -brand-product-name }-ৰ বাকীখিনিৰ সৈতে চিনাকি হওঁক।
 onboarding-welcome-learn-more = লাভবোৰৰ বিষয়ে অধিক জানক।
-
-onboarding-join-form-header = { -brand-product-name }-ক যোগদান কৰক
 
 onboarding-join-form-body = আৰম্ভ কৰিবলৈ আপোনাৰ ইমেইল ঠিকনা প্ৰবিষ্ট কৰক।
 onboarding-join-form-email =
@@ -36,6 +33,13 @@ onboarding-start-browsing-button-label = ব্ৰাউজ কৰা আৰম�
 onboarding-cards-dismiss =
     .title = খাৰিজ কৰক
     .aria-label = খাৰিজ কৰক
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -61,8 +65,6 @@ onboarding-sync-form-sub-header = { -sync-brand-name }-ত অব্যাহত
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = উপযোগী পণ্য
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -70,11 +72,6 @@ onboarding-benefit-products-title = উপযোগী পণ্য
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-screenshots-title = স্ক্ৰীণশ্ব'ট
-onboarding-screenshots-text = স্ক্ৰীণশ্ব'ট লওঁক, সঞ্চয় আৰু ভাগ-বতৰা কৰক - { -brand-short-name }-ৰ পৰা ওলাই নোযোৱাকৈয়ে। আপুনি ব্ৰাউজ কৰোঁতেই পৃষ্ঠাৰ কোনো অংশ বা গোটেইখিনি কেপচাৰ কৰক। পিছত সহজে পাবলৈ আৰু ভাগ-বতৰা কৰিবলৈ ৱেবত সঞ্চয় কৰক।
-
-onboarding-ghostery-title = Ghostery
 
 onboarding-tracking-protection-button2 = ই কেনেকৈ কাম কৰে
 

@@ -169,15 +169,6 @@ about-debugging-extension-location =
 about-debugging-extension-id =
     .label = এক্সটেনশ্যন ID
 
-# This string is displayed as a label of the button that pushes a test payload
-# to a service worker.
-# Notes, this relates to the "Push" API, which is normally not localized so it is
-# probably better to not localize it.
-about-debugging-worker-action-push = পুশ্ব কৰক
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = আৰম্ভ কৰক
-
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = মুখ্য প্ৰক্ৰিয়া
