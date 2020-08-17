@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Yu'thenxi">
-<!ENTITY editMenu.accesskey        "Y">
-<!ENTITY undoCmd.label             "&amp; khũkhnxi">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "Ki'h vxithna ">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "K">
-<!ENTITY cutCmd.label              "Spẽhna">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "S">
-<!ENTITY copyCmd.label             "Kapsxidun">
-<!ENTITY copyCmd.key               "K">
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "Çxkitxanxi">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "Ç">
-<!ENTITY deleteCmd.label           "Khũhkhna">
-<!ENTITY deleteCmd.accesskey       "K">
-<!ENTITY selectAllCmd.label        "Txhitxna&amp; jxuka">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "A">
-
 <!ENTITY findCmd.label             "Pakwena">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "P">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "E'stewe'sxa's pakwen">
-<!ENTITY findPreviousCmd.accesskey "E">

@@ -43,9 +43,6 @@
 
 
 <!ENTITY netOffline.title "Txã'wẽiçxaa çxkitxanxime'">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>txitxin use tahkya. &brandShortName; txitxin teçx phandeya i'san çxkitxaya jĩçxa txi' tũsuna kaskhe'wũjnxisas. <button id='wifi'>Ka'ktu'nduwha Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Ewmẽe pheujnxĩi ũsa' txãa fxi'jnxi">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Mẽen, bhaya webte nãmũtx txãa yuwes ta'hsxya.</li> </ul>">

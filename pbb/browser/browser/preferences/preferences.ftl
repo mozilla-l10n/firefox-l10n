@@ -143,5 +143,7 @@ search-choose-engine-column =
 ## Privacy Section - Certificates
 
 
+## Privacy Section - HTTPS-Only
+
 ## The following strings are used in the Download section of settings
 

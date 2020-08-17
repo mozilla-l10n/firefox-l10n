@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Txitxn eç jxawnxisa's… ">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.deleteDomainData.label     "Peçxkanun ayte weba's">
-<!ENTITY cmd.deleteDomainData.accesskey "P">
-
-<!ENTITY cmd.open.label                  "Phaden">
-<!ENTITY cmd.open.accesskey              "P">
-<!ENTITY cmd.open_window.label           "Phaden vxite vxitx le'çxkwes">
-<!ENTITY cmd.open_window.accesskey       "P">
-<!ENTITY cmd.open_private_window.label     "Paçte vxitx le'çxkwes phaden">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Phaden vxite u'sesa's">
-<!ENTITY cmd.open_tab.accesskey          "u">
-<!ENTITY cmd.open_all_in_tabs.label      "Jxuka kaskhewujnxite çehk phaden">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "J">
-
-<!ENTITY cmd.properties.label      "Petxjĩçekh">
-<!ENTITY cmd.properties.accesskey  "P">
-
-<!ENTITY cmd.sortby_name.label              "Yase isa phewuhn">
-<!ENTITY cmd.sortby_name.accesskey          "Y">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "U'se txi'pnxisa…">
-<!ENTITY cmd.new_bookmark.accesskey        "U">
-<!ENTITY cmd.new_folder.label              "U'se eç jxawnxisa…">
-<!ENTITY cmd.new_folder.accesskey          "U">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "U'se txudesa">
-<!ENTITY cmd.new_separator.accesskey       "U">
-
 <!ENTITY col.name.label          "Yase">
 <!ENTITY col.tags.label          "Kã'sxisxnxita">
 <!ENTITY col.url.label           "Dxijanxi">
@@ -91,15 +62,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Mtxitx vxite kãjanxisa txã'nxuçxa fxi'hjya ewuna petxjĩtxih">
 
-<!ENTITY view.label               "Thegna">
-<!ENTITY view.accesskey           "T">
-<!ENTITY byDate.label             "Eentx isan">
-<!ENTITY byDate.accesskey         "E">
-<!ENTITY bySite.label             "Txawẽ ayte">
-<!ENTITY bySite.accesskey         "T">
-<!ENTITY byMostVisited.label      "Na' thakwe isaçx pahnxisa">
-<!ENTITY byMostVisited.accesskey  "p">
-<!ENTITY byLastVisited.label      "Nmehj pahnxisa">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "Txawẽn aytewe'sx txi'pte">
-<!ENTITY byDayAndSite.accesskey   "t">

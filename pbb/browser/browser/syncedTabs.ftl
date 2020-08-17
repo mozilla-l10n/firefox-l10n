@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Ja'da txunden
-synced-tabs-sidebar-notsignedin = Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.
 synced-tabs-sidebar-notabs = Phadenxii meeta
 synced-tabs-sidebar-openprefs = Wejx wẽdxnxisatx phaden txtee { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.

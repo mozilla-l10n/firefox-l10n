@@ -12,31 +12,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Ki'tan">
-<!ENTITY cmd.enableAddon.accesskey            "K">
-<!ENTITY cmd.disableAddon.label               "Spakhna">
-<!ENTITY cmd.disableAddon.accesskey           "S">
-
-<!ENTITY cmd.askToActivate.label              "Papẽyna ki'h ki'tan">
-<!ENTITY cmd.askToActivate.tooltip            "Papẽyna vxisnaçxaa naa kãajãhnxisa's">
-<!ENTITY cmd.alwaysActivate.label             "Ma'wẽnpa ki'tan">
-<!ENTITY cmd.alwaysActivate.tooltip           "Ma'wẽnpa kselpihn naa kãajãhnxisa's">
-<!ENTITY cmd.neverActivate.label              "Bagaçx yuhpa ki'tanu">
-<!ENTITY cmd.neverActivate.tooltip            "Bagaçx yuhpa vxisyamee naa kãajaãnxisa's ">
-<!ENTITY cmd.stateMenu.tooltip                "Ma'wẽn i'h yu'pthẽhn naa kãajãnxisa's kẽse'hn ũsa'.">
-
-<!ENTITY cmd.uninstallAddon.label             "Khũkhna">
-<!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.showPreferencesWin.label         "Kuh jwed">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Kuh jwed yu'pthẽhn naa kãajãnxisatx">
-<!ENTITY cmd.showPreferencesUnix.label        "Txhitxnxi">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Yu'pthẽn txhitxna  na's kãajãhya'">
-
-<!ENTITY cmd.showReleaseNotes.label           "Kthẽguhna eç kaanxisa's yu'pthehn fxiyfxiysa's.">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Kthegun eç kaanxi'sa's yu'phten fxiyfxiy ktegun na's yu'pthẽwa'ja's">
-<!ENTITY cmd.hideReleaseNotes.label           "Paaçte eç kaanxi's yu'phten fxiyfxiy ktegun.">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Paaçte eç kaanxi yu'phten fxiyfxiy ktegun naa yu'pthẽwa'ja's ">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -48,43 +23,14 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Tuduçmeeth">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Jwe">
-<!ENTITY addon.details.tooltip                "Jweiçxaa kthegun na'wẽ thegna kwekweju na's kãajãhna ">
-<!ENTITY addon.unknownDate                    "Jiyunximesaa">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(fxiçxhawa'j)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Yu'pthẽhna">
-<!ENTITY addon.undoAction.label               "Kuh jwend jxã´ya ewusamee">
-<!ENTITY addon.undoAction.tooltip             "kuh jwend jxã´ya ewumesa's kẽse'n ũsya'">
-<!ENTITY addon.undoRemove.label               "Kuh jwend jxã´ya ewumesa">
-<!ENTITY addon.undoRemove.tooltip             "Jxawna naa kãajãnxisatx çxkitxan ">
-
-<!ENTITY addon.install.label                  "Çxkitxana">
-<!ENTITY addon.install.tooltip                "Çxkitxan naa kãajãnxisa's ">
-<!ENTITY addon.updateNow.label                "Ãçxh yu'pthẽhna">
-<!ENTITY addon.updateNow.tooltip              "Çxkitxan yupthẽn naa kãjãnxitx">
-<!ENTITY addon.includeUpdate.label            "Kçaajãn yu'pthẽhn">
-<!ENTITY addon.updateAvailable.label          "Teeçxsa's yu'pthẽn een ji'phsa's ">
-<!ENTITY addon.checkingForUpdates.label       "Pakwen yu'pthẽwa'ja's...">
-<!ENTITY addon.releaseNotes.label             "Eç kaanxisa's yu'pthẽhn fxiy fxiy kthẽgun:">
-<!ENTITY addon.loadingReleaseNotes.label      "Ktheguhwa'j...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ya' yatxi'thaw, napa skhewka teçx ewmesa txãa yu'phten fxiyfxiy ktegun.">
 
 
-<!ENTITY settings.path.button.label           "Atxa'jya'...">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

@@ -17,9 +17,9 @@ pin-tab =
 move-to-new-window =
     .label = Kesejxa u'se txundenxisa's
     .accesskey = K
-undo-close-tab =
-    .label = Vxites wãtajna jiçxa aphna nmejte txundenxi's
-    .accesskey = V
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Txundenxi's aphna
     .accesskey = T

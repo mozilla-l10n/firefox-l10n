@@ -11,19 +11,6 @@
 <!ENTITY castingButton.castingLabel "Mkaa thẽgnxisa's ">
 
 
-<!ENTITY stats.media "Pxiahn">
-<!ENTITY stats.size "Walasaa">
-<!ENTITY stats.activity "Mjĩinxi">
-<!ENTITY stats.activityPaused "Tudte kyujun">
-<!ENTITY stats.activityPlaying "Nuykũjaana ">
-<!ENTITY stats.activityEnded "Jxãhna ">
-<!ENTITY stats.activitySeeking "(Pakwena)">
-
-<!ENTITY stats.framesParsed "Pahn puza yuwesaa">
-<!ENTITY stats.framesDecoded "Piisanxi yuwe we'wenxis naa pnasaate' fxi'hsaa">
-<!ENTITY stats.framesPresented "Pisanxi's kthẽgun ">
-<!ENTITY stats.framesPainted "Pisanxi's ktheguhna">
-
 <!ENTITY error.aborted "kyujuhnxi'k neyũu kapnasa's kthegunxisaa.">
 <!ENTITY error.network "Nuypenanxisa' pnasa's kthegunxisaa teeçxsa' swenak ujwe ũkhe wesa'.">
 <!ENTITY error.decode "Nuypẽhnaya' ewuçme' pnasa's thẽgnxisa' eç jxawnxisa' weynxiya' ũsa'.">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "Jxkhẽwna #1 de #2">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

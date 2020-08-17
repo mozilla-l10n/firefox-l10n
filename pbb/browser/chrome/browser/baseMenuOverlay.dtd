@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Le'çxkwe vxitjxa">
-<!ENTITY bringAllToFront.label    "Jxuka mnejxuu dxi'puçekh">
-<!ENTITY zoomWindow.label         "Isanxii's">
-<!ENTITY windowMenu.label         "Vxitx le'çxkwe">
-
-<!ENTITY helpMenu.label           "Pu'çxwajas"> 
-<!ENTITY helpMenu.accesskey       "P"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Pu'çxwajas"> 
-<!ENTITY helpMenuWin.accesskey    "P">
-
 <!ENTITY aboutProduct2.label      "Txa u'txa txte &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "T">
-<!ENTITY productHelp2.label       "Pu'çxna txte &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "P">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Fxijnxi's txte aphsã">
-<!ENTITY helpKeyboardShortcuts.accesskey "F">
-
-<!ENTITY helpSafeMode.label       "Kãjanxisa'nxakh pu'txna fxiçxa'nxisanxakhjxa…">
-<!ENTITY helpSafeMode.accesskey   "K">
-<!ENTITY helpSafeMode.stop.label       "Kçxãçxa'nxisanxakhjxa ta'khna kajãnxinxakh">
-<!ENTITY helpSafeMode.stop.accesskey   "K">
-
-<!ENTITY helpTroubleshootingInfo.label      "Ptasxisxwah na' yu'wes pheu'jxa">
-<!ENTITY helpTroubleshootingInfo.accesskey  "P">
-
-<!ENTITY helpFeedbackPage.label      "Yatxnxi's kahwa'">
-<!ENTITY helpFeedbackPage.accesskey  "Y">
-
-<!ENTITY helpShowTour2.label            "Kasejçx u'jnxisa txkãa &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Txhitxnxi…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Selpisaa">
 
 <!ENTITY hideThisAppCmdMac2.label       "Paçte &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Vxitetxi suthn">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Jxuka mikthe'gu">
 

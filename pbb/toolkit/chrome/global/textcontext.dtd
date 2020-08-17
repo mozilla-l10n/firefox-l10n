@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Spẽhna">
-<!ENTITY cutCmd.accesskey "S">
-<!ENTITY copyCmd.label "Kaapsxidun">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Çxkitxanxi">
-<!ENTITY pasteCmd.accesskey "Ç">
-<!ENTITY undoCmd.label "Khũkhnxi">
-<!ENTITY undoCmd.accesskey "K">
-<!ENTITY selectAllCmd.label "Txhitxnaar jxuka">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Khũkhna">
-<!ENTITY deleteCmd.accesskey "K">
-
 <!ENTITY spellAddToDictionary.label "Yuwe tasxa's kãjãna ">
 <!ENTITY spellAddToDictionary.accesskey "k">
 <!ENTITY spellUndoAddToDictionary.label "Nuyvxitun Kãjã'na yuwe &amp; tasxa's">
