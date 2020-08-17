@@ -5,9 +5,6 @@
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Kunetu…
-
 list-empty-button =
     .label = Ka´vi kue´eka jie´e ka̱a̱ chunta´an
 
@@ -43,15 +40,6 @@ detail-repository-value =
     .value = { detail-repository.label }
 
 ## These are global warnings
-
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
 
 
 ## Strings connected to add-on updates

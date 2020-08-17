@@ -5,50 +5,66 @@
 permissions-window =
     .title = Nuu tetiñu tutu nnatava
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Da nuu Web
     .accesskey = D
+
 permissions-block =
     .label = Kasɨ
     .accesskey = K
+
 permissions-session =
     .label = Kuvi nuu sesión ya´a
     .accesskey = s
+
 permissions-allow =
     .label = Kuvi
     .accesskey = K
+
 permissions-site-name =
     .label = Sitio web
+
 permissions-status =
     .label = Estado
+
 permissions-remove =
     .label = Sna nuu Web
     .accesskey = S
+
 permissions-remove-all =
     .label = Sna kuaiyo nuu Web
     .accesskey = S
+
 permissions-button-cancel =
     .label = Nkuvi-ka
     .accesskey = N
+
 permissions-button-ok =
     .label = Chuva´a nsama
     .accesskey = C
+
 permissions-autoplay-menu = Kua vají nuu kuaiyo nuu web:
+
 permissions-searchbox =
     .placeholder = Nánuku nuu Web
+
 permissions-capabilities-autoplay-allow =
     .label = Kuvi koo nasun ji tutu kana
 permissions-capabilities-autoplay-block =
     .label = Kasɨ audio
 permissions-capabilities-autoplay-blockall =
     .label = Kasɨ audio ji video
+
 permissions-capabilities-allow =
     .label = Kuvi
 permissions-capabilities-block =
     .label = Kasɨ
 permissions-capabilities-prompt =
     .label = Ntaka ichi katu´un
+
 permissions-capabilities-listitem-allow =
     .value = Kuvi
 permissions-capabilities-listitem-block =
@@ -62,11 +78,6 @@ permissions-invalid-uri-title = Nuu ka̱a̱ servidor ntu vatu
 permissions-invalid-uri-label = Nejika chu´unu iin nuu vatu
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-content-blocking-window =
-    .title = Excepciones - Nnakasɨ contenido
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu da sitios ya´a.
 
 ## Exceptions - Cookies
 

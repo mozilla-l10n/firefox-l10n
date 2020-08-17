@@ -11,6 +11,7 @@
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
+
 sec-error-bad-password = Contraseña seguridad nchu´un ntu vatu.
 sec-error-retry-password = Contraseña jíía nchu´un ntu vatu. Chu´uma íchika.
 sec-error-cert-not-valid = Certificado ntu válido.

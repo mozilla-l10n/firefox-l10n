@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Tutu kuvi-nu kune´ya-nu ntu íyo tiñu nuun caché &brandShortName;.</p><ul><li>Saa kumi-ani a sá´á-nu, &brandShortName; ntu jíkan tutu ntu íyo sensible.</li><li>Kauxin tuku saa nákánu íchika tutu nuun web ya´a.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Ichika. &brandShortName; Kuvi-ji íchika síne iin conexión jee nakivɨ tuku nuun página. <button id='wifi'>Sikune Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Nei koo ininu ka´an jii ñivɨ ke´í sitio web ya´a a ntu kuvi kivɨ-nu saa kuvi nasá´á-da</li> </ul>">

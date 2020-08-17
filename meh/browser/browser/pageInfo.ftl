@@ -64,8 +64,6 @@ media-save-as =
 media-save-image-as =
     .label = Chuva´a kua...
     .accesskey = a
-media-preview =
-    .value = Vista preliminar:
 
 perm-tab =
     .label = Permisos

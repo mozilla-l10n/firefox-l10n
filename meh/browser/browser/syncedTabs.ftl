@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Pestañas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = ¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?
-synced-tabs-sidebar-notsignedin = Kajie´e sesión saa kune´yanu iin lista da pestañas da inka dispositivos.
 synced-tabs-sidebar-unverified = Cuenta noo´o nejika koo verificada.
 synced-tabs-sidebar-notabs = Ntu íyo pestañas nune
 synced-tabs-sidebar-openprefs = Síne da preferencias { -sync-brand-short-name }

@@ -9,15 +9,20 @@
 
 title = Tu´un jíía íyo
 heading = Da nsama perfil { -brand-short-name } noo´o
+
 changed-title = Naku nsama?
 changed-desc-profiles = A nchu´un ya´a { -brand-short-name } kumi iin perfil jíía. Iin perfil kuvi kue´e archivos nuu Firefox chuva´a tu´un kua da a ta´a ini noo´o, contraseñas ji preferencias usuario.
 changed-desc-dedicated = Saa kuvi nko viji je vatu saa sama da nchu´un Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition je Firefox Nightly), a nchu´un ya´a ni´i iin perfil especifico. Nkua´a tu´un nchuva´a ji da inka nchu´un Firefox.
+
 lost = <b>Ntu skuitanu ni´i dato noo´o.</b> De a nchuva´anu tu´un nuu Firefox nuu ka̱a̱ tee nɨnuu ya´a, íyo da tu´un ya´a nuu da inka a nchu´un Firefox.
+
 options-title = ¿Naku kuvi kajini?
 options-do-nothing = De nsá´ánu iin a kuvi, datos perfil noo´o { -brand-short-name } kuvi nko inu datos perfil ji da inka nchu´un Firefox.
 options-use-sync = De kuvinu kuaíyo datos perfil noo´o koo inu ntaka nuu chu´unu Firefox, kuvi ni´inu iin { -fxaccount-brand-name } je koo sincronizados.
+
 resources = Recursos:
 support-link = Ni'i administrador perfiles - Articulo de soporte
+
 sync-header = Kajie´e sesión a xíín sá´á { -fxaccount-brand-name }
 sync-label = Chu´un email noo´o
 sync-input =

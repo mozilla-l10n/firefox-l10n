@@ -47,12 +47,12 @@ move-to-end =
 move-to-new-window =
     .label = Skana nuu iin ventana jia
     .accesskey = v
-undo-close-tab =
-    .label = Tanɨ nakasɨ nuu nɨ'ɨ pestaña
-    .accesskey = T
 tab-context-close-multiple-tabs =
     .label = Nakasɨ kuaiyo da sukua
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Nakasɨ pestaña
     .accesskey = n

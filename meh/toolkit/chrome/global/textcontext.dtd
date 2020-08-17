@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Ke´ne">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Tɨɨn">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Tee">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Kaji kuaiyo">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Xita">
-<!ENTITY deleteCmd.accesskey "E">
-
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.accesskey "b">

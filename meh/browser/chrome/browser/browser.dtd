@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Nánuku yu´u)">
-
 <!ENTITY appmenu.tooltip                     "Síne menu">
 <!ENTITY navbarOverflow.label                "Kue'eka ka̱a̱...">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Chiso sukua">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "A">
 <!ENTITY  unpinTab.label                     "Xita sukua">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "D">
-<!ENTITY  sendPageToDevice.label             "Chu´un ichi página nuu ka̱a">
-<!ENTITY  sendPageToDevice.accesskey         "d">
-<!ENTITY  sendLinkToDevice.label             "Chu´un íchi enlace nuu ka̱a̱">
-<!ENTITY  sendLinkToDevice.accesskey         "d">
-<!ENTITY  undoCloseTab.label                 "Tanɨ nakasɨ nuu nɨ'ɨ pestaña">
-<!ENTITY  undoCloseTab.accesskey             "h">
-<!ENTITY  hiddenTabs.label                   "Pestañas yu'u">
 
 <!ENTITY  listAllTabs.label      "Kutuvi kuaiyo pestañas">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Nánuku pestañas">
 
 <!ENTITY tabCmd.label "Sukua jíía">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Síne nuu…">
 <!ENTITY openFileCmd.label "Síne archivo…">
-<!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Ke'i página…">
-<!ENTITY printSetupCmd.accesskey "p">
-<!ENTITY printPreviewCmd.label "Vista previa">
-<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Nátava…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Nake'ema ji inka ka̱a̱ nánuku">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Tetiñu da tareas">
 
-<!ENTITY goOfflineCmd.label "Satiñu nko conexión">
-<!ENTITY goOfflineCmd.accesskey "k">
-
 <!ENTITY menubarCmd.label "Barra de Menú">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Barra nuu jika">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,65 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "A ta´a ini noo´o">
 <!ENTITY bookmarksToolbarItem.label "Nantiñu da barra marcadores">
 
-<!ENTITY pageSourceCmd.label "Código vaji yata nuu ya´a">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Tu´un jie´e nuu ya´a">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Depurador de diseño">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.accesskey "M">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Kajie'e pantalla ka´nu">
-<!ENTITY enterFullScreenCmd.accesskey "P">
-<!ENTITY exitFullScreenCmd.label "Kene nuu pantalla ka'nu">
-<!ENTITY exitFullScreenCmd.accesskey "p">
-
 <!ENTITY fullScreenCmd.label "Pantalla ka'nu">
-<!ENTITY fullScreenCmd.accesskey "P">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Xituvi kuaiyo da pestañas">
-<!ENTITY showAllTabsCmd.accesskey "t">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Kajie'e sesión ji &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Síne preferencias &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Nakɨvu tuku nuu &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Verifica tu cuenta">
-
-
-<!ENTITY fullScreenMinimize.tooltip "Nasa´a luli">
-<!ENTITY fullScreenRestore.tooltip "Natee">
-<!ENTITY fullScreenClose.tooltip "Kasɨ">
-<!ENTITY fullScreenAutohide.label "Chiyu´u da barra ka̱a̱">
-<!ENTITY fullScreenAutohide.accesskey "O">
-<!ENTITY fullScreenExit.label "Kene nuu pantalla ka'nu">
-<!ENTITY fullScreenExit.accesskey "c">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Kua'a Firefox ji noo'o">
-<!ENTITY fxa.signin.description.label "Kivɨ marcadores, historial, contraseñas je kue´eka ke´i nuu kuaiyo ka̱a̱.">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Kune´ya correo noo´o">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Yɨ´ɨ kua">
-<!ENTITY fxa.menu.manageAccount.label "Tetiñu cuenta...">
 
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -178,14 +73,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Kene nuu pantalla ka'nu (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Kene nuu pantalla ka'nu (esc)">
-<!ENTITY leaveDOMFullScreen.label "Kene nuu pantalla ka'nu">
-<!ENTITY leaveDOMFullScreen.accesskey "a">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Picture-in-Picture">
-<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -194,83 +81,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
-<!ENTITY closeWindow.label "Kasɨ ventana">
-<!ENTITY closeWindow.accesskey "v">
-
-<!ENTITY bookmarksMenu.label "A ta´a ini noo´o">
-<!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Tee página ya´a nuu a ta´an ini noo´o">
-<!ENTITY editThisBookmarkCmd.label "Sama marcador ya´a">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Tee da pestañas nune...">
-
 <!ENTITY showAllBookmarks2.label "Xituvi kuaiyo a ta´a ini noo´o">
 <!ENTITY recentBookmarks.label "A ta´a ini noo´o skuata ntee">
-<!ENTITY otherBookmarksCmd.label "Inka a ta´a ini noo´o">
-<!ENTITY mobileBookmarksCmd.label "A ta´a ini noo´o móviles">
 <!ENTITY bookmarksToolbarChevron.tooltip "Xituvi kuaiyo a ta´a ini noo´o">
-
-<!ENTITY backCmd.label                "Niko yata">
-<!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "Sniko iin página">
-<!ENTITY forwardCmd.label             "Ichi nuu">
-<!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "Kaka iin página">
-<!ENTITY backForwardButtonMenu.tooltip "Kuaxin kuá´á a xiin staka kutuvi historial">
-<!ENTITY reloadCmd.label              "Nachu'un tuku">
-<!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY stopCmd.label                "Siankuiñi">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Kaka nu barra nuu.">
 
 <!ENTITY printButton.label            "Nátava">
 <!ENTITY printButton.tooltip          "Natava página ya´a">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Kune´ya tu´un sitio">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Síne panel da mensajes">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Síne panel jiniñu´u ubicación">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Sine panel reproducción automática">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Síne panel da mensajes chu´un nachisó-kúmani">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Tetiñu permiso extración canvas">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Síne panel mensajes nchuva´a ntu íyo conexión">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Síne panel da mensajes da contraseñas nchuva´a">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tetiñu naja ni´i plugins">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Sama de kene notificaciones sitio">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Chuva´a datos kino kue´e kivɨ">
-
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Síne panel auntenticación web">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Síne panel permisos actividad navegación">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tetiñu kua´a ka̱a̱ natava / micrófono ji sitio">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tetiñu kua´a micrófono ji sitio">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tetiñu kua´a ventana a xiin pantalla ji sitio">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Síne panel tu´un chu´un">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tetiñu traducción página">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tetiñu naja ni´i software DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Ka̱a̱ natava nasɨ nuu sitio web ya´a.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Microfono noo´o nasɨ nuu  web ya´a.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Nuu web ya´a nasɨ je nkuvi kua´a pantalla.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Nasɨ información nuu iñɨ noo´o nuu web ya´a.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Nasɨ da notificaciones nuu sitio web ya´a.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Nñasɨnɨ nchuva´a nuu sitio web ya´a.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Nasɨ da pop-ups nuu sitio web ya´a.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Nñasɨnɨ nkajie´e kata nasun nuu web ya´a.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Noo´o nakasɨ tava datos canvas nuu sitio ya´a.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Noo´o nakasɨ nuu sitio ya´a ni´i plugin Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Nñasɨnɨ acceso MIDI nuu web ya´a.">
-<!ENTITY urlbar.installBlocked.tooltip           "Nñasɨnɨ nchu´un ka̱a̱ chunta´an nuu web ya´a.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Kutuvi sɨ´ɨ">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Nña'anu da inka permisos nuu web ya´a.">
 
 
 <!ENTITY searchItem.title             "Nánuku">
@@ -280,7 +96,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "Página nu kajie´e &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "A ta´a ini noo´o">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "A ta´a ini noo´o">
 <!ENTITY bookmarksMenuButton2.label         "A ta´a ini noo´o Menu">
@@ -292,101 +107,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Chiyu'u barra a ta´a ini noo´o">
 <!ENTITY searchBookmarks.label              "Nánuku a ta´a ini noo´o">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Sɨ´ɨ">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Ka̱a̱">
-<!ENTITY toolsMenu.accesskey          "t">
-
-<!ENTITY keywordfield.accesskey       "p">
 
 <!ENTITY downloads.label              "Da nxinú">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Da nxinú">
-<!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Ka̱a̱ chunta´an">
-<!ENTITY addons.accesskey             "C">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Ñivɨ sa´a Web">
-<!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY inspectContextMenu.accesskey "I">
-
-
-<!ENTITY fileMenu.label         "Archivo">
-<!ENTITY fileMenu.accesskey       "A">
-<!ENTITY newUserContext.accesskey         "c">
-<!ENTITY manageUserContext.accesskey      "O">
 
 <!ENTITY newNavigatorCmd.label        "Ventana jíía">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Ventana jíía yu´u">
-<!ENTITY newPrivateWindow.accesskey "p">
 
 <!ENTITY editMenu.label         "Natee">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "Tanɨ">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "D">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "Ke´ne">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "r">
-<!ENTITY copyCmd.label            "Tɨɨn">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "Tee">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "Xita">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "l">
-<!ENTITY selectAllCmd.label         "Kaji kuaiyo">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "t">
 <!ENTITY preferencesCmd2.label       "Kaji">
-<!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY preferencesCmdUnix.accesskey     "f">
 <!ENTITY logins.label                           "Da nuu kajie´e sesión ji contraseñas">
-
-<!ENTITY clearRecentHistory.label               "Xinó a nnánukunu ntañu´u…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Kune'ya">
-<!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "Barra ka̱a̱">
-<!ENTITY viewToolbarsMenu.accesskey     "h">
-<!ENTITY viewSidebarMenu.label "Barra kuá´á">
-<!ENTITY viewSidebarMenu.accesskey "l">
-
-<!ENTITY viewCustomizeToolbar.label       "Sá´á vii">
-<!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 <!ENTITY overflowCustomizeToolbar.label       "Sá´á vii barra ka̱a̱...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Sɨ´ɨ">
-<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestañas nnakasɨ ntañu´u">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Pestañas nnakasɨ ntañu´u">
-<!ENTITY historyRestoreLastSession.label "Nate tuku sesión yata">
-
-<!ENTITY showAllHistoryCmd2.label "Tuvi kuaiyo sɨ´ɨ">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tuvi kuaiyo sɨ´ɨ">
 <!ENTITY appMenuHistory.clearRecent.label "Xinó a nnánukunu ntañu´u…">
@@ -412,7 +157,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Síne prefrencias Sync">
-<!ENTITY appMenuRemoteTabs.signin.label "Kajie´e sesión ji Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Kajie'e sesión ji &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tetiñu da ka̱a̱…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Kune'ya sukua sincronizadas nu barra kuá´á">
@@ -426,70 +170,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Q">
 <!ENTITY customizeMenu.addMoreItems.label "Tee kue'eka elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.label "Xina extensión">
-<!ENTITY customizeMenu.removeExtension.accesskey "v">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Kue'eka">
 
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Nánuku a xíín chu´un iin nuu">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Extension:">
-<!ENTITY urlbar.switchToTab.label     "Sama su̱ku̱a:">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Sama da opciones…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Nánuku consulta">
 
 <!ENTITY contentSearchSubmit.tooltip  "Chu'un íchi a nánuku">
 
@@ -498,202 +189,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Nánuku">
 <!ENTITY searchIcon.tooltip           "Nánuku">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Nánuku:">
-<!ENTITY searchWith.label             " ji:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Nánuku">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Nánuku:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Sama naja nánuku">
-<!ENTITY changeSearchSettings.tooltip "Sama naja nánuku">
-
-<!ENTITY searchInNewTab.label         "Nánuku nuu iin sukua jíía">
-<!ENTITY searchInNewTab.accesskey     "p">
-<!ENTITY searchSetAsDefault.label     "Tee ka̱a̱ nánuku kua vaji">
-<!ENTITY searchSetAsDefault.accesskey "p">
-
-<!ENTITY openLinkCmdInTab.label       "Síne enlace nuu iin sukua jíía">
-
 <!ENTITY openLinkCmdInTab.accesskey   "p">
-<!ENTITY openLinkCmd.label            "Sikune enlace nuu ventana jíía">
-<!ENTITY openLinkCmd.accesskey        "v">
-<!ENTITY openLinkInPrivateWindowCmd.label "Síne enlace nuu ventana jíía yu´u">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Síne enlace">
-<!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openFrameCmdInTab.label      "Síne marco nuu iin pestaña jíía">
-<!ENTITY openFrameCmdInTab.accesskey  "t">
-<!ENTITY openFrameCmd.label           "Síne marco nuu iin ventana jíía">
-<!ENTITY openFrameCmd.accesskey       "e">
-<!ENTITY openLinkCmdInContainerTab.label "Síne enlace nuu a jíía sukua contenedora">
-<!ENTITY openLinkCmdInContainerTab.accesskey "C">
-<!ENTITY showOnlyThisFrameCmd.label     "Kune´ya ntu xini marco ya´a">
-<!ENTITY showOnlyThisFrameCmd.accesskey "e">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Nachu'un tuku marco">
-<!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Kune´ya tu´un nee yata ya´a nkaji">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Kune´ya tu´un nee yata página ya´a">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "Kune´ya tu´un nee yata marco ya´a">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Kune´ya tu´un página ya´a">
-<!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Kune´ya tu´un marco ya´a">
-<!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY reloadImageCmd.label         "Nachu'un tuku tutu nátava">
-<!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Kune'ya tutu nátava">
-<!ENTITY viewImageCmd.accesskey       "i">
-<!ENTITY viewImageInfoCmd.label       "Kune´ya información tutu natava">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Kune'ya descripción">
-<!ENTITY viewImageDescCmd.accesskey   "d">
-<!ENTITY viewVideoCmd.label           "Kune´ya tutu kana">
-<!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "Kune´ya imagen yata">
-<!ENTITY viewBGImageCmd.accesskey     "F">
-<!ENTITY setDesktopBackgroundCmd.label      "Tee kua fondo escritorio....">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Tee página ya´a nuu marcadores">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "Tee enlace ya´a nuu marcadores">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
-<!ENTITY bookmarkThisFrameCmd.label      "Tee marco ya´a nuu marcadores">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY pageAction.copyLink.label    "Tɨɨn enlacae">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Chuva´a nuu Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Chuva´a página nuu Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Chuva´a enlace nuu Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Kune'ya lista Pocket">
 
 <!ENTITY emailPageCmd.label           "Chu´un íchi enlace...">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "Chuva´a kua…">
-<!ENTITY savePageCmd.accesskey        "G">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Chuva´a marco kua…">
-<!ENTITY saveFrameCmd.accesskey       "G">
-<!ENTITY printFrameCmd.label          "Natava marco...">
-<!ENTITY printFrameCmd.accesskey      "p">
-<!ENTITY saveLinkCmd.label            "Chuva´a vínculo kua...">
-<!ENTITY saveLinkCmd.accesskey        "G">
-<!ENTITY saveImageCmd.label           "Chuva´a tutu nátava kua…">
-<!ENTITY saveImageCmd.accesskey       "u">
-<!ENTITY saveVideoCmd.label           "Chuva´a nátava káná kua...">
-<!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Chuva´a nasun kua...">
-<!ENTITY saveAudioCmd.accesskey       "G">
-<!ENTITY emailImageCmd.label          "Chu´un ichi tutu nátava…">
-<!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "Chu'un íchi tutu kana…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Chu´un íchi nasun nuu correo...">
-<!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activar ka̱a̱ chunta´an ya´a">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Chiyu´u complemento">
-<!ENTITY hidePluginCmd.accesskey      "O">
-<!ENTITY copyLinkCmd.label            "Tɨɨn nuu enlace">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Tɨɨn nuu tutu nátava">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Tɨɨn tutu nátava">
-<!ENTITY copyImageContentsCmd.accesskey  "C">
-<!ENTITY copyVideoURLCmd.label        "Tɨɨn nuu tutu kana">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Tɨɨn nuu nasun">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Tɨɨn correo electrónico">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "e">
-<!ENTITY thisFrameMenu.label              "Marco ya´a">
-<!ENTITY thisFrameMenu.accesskey          "m">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Kajie´e">
-<!ENTITY mediaPlay.accesskey         "R">
-<!ENTITY mediaPause.label            "Siankuiñɨ">
-<!ENTITY mediaPause.accesskey        "P">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Silenciar">
-<!ENTITY mediaMute.accesskey         "S">
-<!ENTITY mediaUnmute.label           "Teso´o">
-<!ENTITY mediaUnmute.accesskey       "E">
-<!ENTITY mediaPlaybackRate2.label     "Velocidad de reproducción">
-<!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "Kue (0.5 ×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "L">
-<!ENTITY mediaPlaybackRate100x2.label "Normal">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Ñama (1.25 )">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
-<!ENTITY mediaPlaybackRate150x2.label "Ñama (1.5 × )">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Ñamaka (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Ichika">
-<!ENTITY mediaLoop.accesskey         "R">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Xitúvi controles">
-<!ENTITY mediaShowControls.accesskey "c">
-<!ENTITY mediaHideControls.label     "Chiyu´u controles">
-<!ENTITY mediaHideControls.accesskey "c">
-<!ENTITY videoFullScreen.label       "Pantalla ka'nu">
-<!ENTITY videoFullScreen.accesskey   "P">
-<!ENTITY videoSaveImage.label        "Chuva´a captura kua...">
-<!ENTITY videoSaveImage.accesskey    "G">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Xituvi estadísticas">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Chiyu'u estadísticas">
-<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -701,53 +208,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Sá´á ka´nu">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Sá´á luli">
-<!ENTITY fullZoomReduceCmd.accesskey    "R">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Niko kua íyó">
-<!ENTITY fullZoomResetCmd.accesskey     "I">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Sama tu´un">
-<!ENTITY fullZoomToggleCmd.accesskey    "S">
-
 <!ENTITY fullZoom.label                 "Naja ka'nu">
-<!ENTITY fullZoom.accesskey             "T">
 
 <!ENTITY sidebarCloseButton.tooltip     "Kasɨ barra kuá´á">
-<!ENTITY sidebarMenuClose.label         "Kasɨ barra kuá´á">
 
 <!ENTITY quitApplicationCmdWin2.label       "Kene">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Kene &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Kene">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac2.label   "Kene &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Nakasɨ">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "C">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Estilo de página">
-<!ENTITY pageStyleMenu.accesskey "E">
-<!ENTITY pageStyleNoStyle.label "Naxita">
-<!ENTITY pageStyleNoStyle.accesskey "D">
-<!ENTITY pageStylePersistentOnly.label "Básico">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -756,62 +226,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Sama orientación página ya´a">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Sama orientación tu'un">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "o">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Nánuku nuu página ya´a…">
-<!ENTITY findOnCmd.accesskey "B">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Nánuku tuku">
-<!ENTITY findAgainCmd.accesskey "R">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Tee diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Xinɨ´ɨ">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Xituvi editor saa chuva´a">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Seguridad nuu ya´a">
-
-<!ENTITY identity.connection "Conexión">
-<!ENTITY identity.connectionSecure "Conexión vatu">
-<!ENTITY identity.connectionNotSecure "Conexión ntu va´a.">
-<!ENTITY identity.connectionFile "Página ya´a nchuva´a nuu ka̱a̱ tee nɨnuu noo´o.">
-<!ENTITY identity.connectionInternal "Página ya'a iyo &brandShortName; vatu.">
-<!ENTITY identity.extensionPage "Nuu ya´a nakivɨ tuku ji iin extensión.">
-<!ENTITY identity.insecureLoginForms2 "Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.">
-<!ENTITY identity.customRoot "Conexión verificada ji iin vetiñu taji certificados je Mozilla ntu nakuni.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; nñasɨ yaku ka̱a̱ nuu ya´a jiee ntu tuvi vatu.">
-<!ENTITY identity.passiveLoaded "Sava página ya´a ntu iyo vatu (kua daa tutu nátava).">
-<!ENTITY identity.activeLoaded "Nnakasɨnɨ a kumi noo´o nuu página ya´a.">
-<!ENTITY identity.weakEncryption "Nuu ya´a ni´i encriptación ntu nakui.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Conexión noo´o ntu íyo yu´u. Tu´un chu´un íchinu sana kutuvi nuu inka ñivɨ (contraseñas, mensajes, da tutu xu´un, etc.).">
-<!ENTITY identity.description.insecureLoginForms "Tu´un nuu kajie´e sesión chu´unu nuu página ya´a ntu íyo va´a je kuvi sakui´inadama.">
-
-<!ENTITY identity.enableMixedContentBlocking.accesskey "H">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "Ka´vi kue´eka">
-
-<!ENTITY identity.removeCertException.accesskey "E">
-
-<!ENTITY identity.moreInfoLinkText2 "Kue'eka tu'un">
 
 
 
@@ -819,89 +237,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Da sukua íyo sincronizadas">
-
-<!ENTITY syncedTabs.sidebar.label              "Da sukua íyo sincronizadas">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
-
-<!ENTITY syncSignIn.label             "Kajie'e sesión ji &syncBrand.shortName.label;...">
-<!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Sincronizar ntañu´u">
-<!ENTITY syncSyncNowItemSyncing.label "Sincronizando...">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Nakɨvu tuku nuu &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "Sync">
-
-
-<!ENTITY getUserMedia.selectCamera.accesskey "c">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
-
-<!ENTITY contentBlocking.trackingProtection3.label "Ka̱a̱ nita">
-
-<!ENTITY contentBlocking.manageSettings.accesskey "M">
-
-<!ENTITY contentBlocking.trackersView.label "Ka̱a̱ nita">
-
-<!ENTITY contentBlocking.cookies.label "Cookies">
-<!ENTITY contentBlocking.cookiesView.label "Cookies ji datos nuu ya´a">
-
-<!ENTITY contentBlocking.cryptominers.label "Criptomineros">
-<!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
-
-<!ENTITY contentBlocking.fingerprinters.label "Huellas dactilares">
-<!ENTITY contentBlocking.fingerprintersView.label "Huellas dactilares">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Kachi jie´e iin tixi">
-<!ENTITY contentBlocking.breakageReportView.label "Kachi jie´e iin tixi">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Ka´vi kue´eka">
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Chu´un íchi reporte">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Nkuvi-ka">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.accesskey "T">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
-<!ENTITY trackingProtection.block6.accesskey "T">
-<!ENTITY trackingProtection.reload2.label "Nachu'un tuku página">
-<!ENTITY trackingProtection.reload2.accesskey "R">
-
-<!ENTITY pluginNotification.showAll.accesskey "M">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Nakasɨ">
-
-
-<!ENTITY emeLearnMoreContextMenu.label            "Kuni kue´eka jiee´e DRM...">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
-
-<!ENTITY newTabControlled.header.message "Pestaña jíía nsama">
-<!ENTITY newTabControlled.keepButton.label "Kino da nsama">
-<!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "Xita extensión">
-<!ENTITY newTabControlled.disableButton.accesskey "D">
-
-<!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.accesskey "D">
-
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 
 
@@ -913,3 +252,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+

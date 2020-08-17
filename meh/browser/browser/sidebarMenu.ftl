@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = A ta´a ini noo´o
+
 sidebar-menu-history =
     .label = Sɨ´ɨ
+
 sidebar-menu-synced-tabs =
     .label = Da sukua íyo sincronizadas
+
 sidebar-menu-close =
     .label = Kasɨ barra kuá´á

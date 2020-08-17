@@ -5,25 +5,33 @@
 bookmark-overlay-name =
     .value = Sivɨ:
     .accesskey = N
+
 bookmark-overlay-location =
     .value = Nuu:
     .accesskey = c
+
 bookmark-overlay-folder =
     .value = Carpeta:
+
 bookmark-overlay-choose =
     .label = Kaji...
+
 bookmark-overlay-new-folder-button =
     .label = Carpeta jíía
     .accesskey = N
+
 bookmark-overlay-tags =
     .value = Etiquetas
     .accesskey = t
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Stasava da etiquetas ji comas (,)
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Xituvi kuaiyo da etiquetas
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Chiyu'u
+
 bookmark-overlay-keyword =
     .value = Tu´un clave
     .accesskey = b

@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = ¡Kaka nuu ntu jinio!
-about-config-warning-text = De sama nke'i sana nko vatu jee nsatiñu va'a ka̱a̱ ya´a. Nejika kakanu de jininu a sa'anu.
-about-config-warning-checkbox = ¡Katu´un tuku íchika!
-about-config-warning-button = Kuka´nu inini jiee riesgo
-
-about-config2-title = Ke'i avanzados
-
-about-config-search-input =
-    .placeholder = Nánuku
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Kaka ji precaución
@@ -30,13 +19,6 @@ about-config-page-title = Preferencias avanzadas
 about-config-search-input1 =
     .placeholder = Sivɨ nánuku
 about-config-show-all = Kune´yá kuaiyo
-
-about-config-pref-add = Tee
-about-config-pref-toggle = Conmutar
-about-config-pref-edit = Natee
-about-config-pref-save = Chuva´a
-about-config-pref-reset = Niko kua íyó
-about-config-pref-delete = Náxitá-má
 
 about-config-pref-add-button =
     .title = Tee

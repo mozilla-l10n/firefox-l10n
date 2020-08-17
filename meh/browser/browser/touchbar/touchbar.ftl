@@ -13,13 +13,13 @@ touchbar-fullscreen-exit = Kene nuu pantalla ka'nu
 find = Nánuku
 new-tab = Sukua jíía
 add-bookmark = Tee a ta´a ini noo´o
-open-bookmarks-sidebar = Síne barra kuá´á marcadores
 reader-view = Vista ka'vi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Nánuku a xíín chu´un iin nuu
 share = Kua´a ya´a
 close-window = Kasɨ ventana
 open-sidebar = Da barra kuá´á
+
 # This string describes shortcuts for search.
 search-popover = Atajos nnánukunu
 # Describes searches limited to a specific scope

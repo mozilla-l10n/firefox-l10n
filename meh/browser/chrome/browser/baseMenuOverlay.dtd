@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Nasa´a luli">
-<!ENTITY bringAllToFront.label    "Nake´e kuaiyo je chisoma nu">
-<!ENTITY zoomWindow.label         "Nasa´a ka´nu/Nasa´a luli">
-<!ENTITY windowMenu.label         "ventana">
-
-<!ENTITY helpMenu.label           "Chinei"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Chinei"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
 <!ENTITY aboutProduct2.label      "Jie'e &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "J">
-<!ENTITY productHelp2.label       "&brandShorterName; Chineii ">
-<!ENTITY productHelp2.accesskey   "C">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Sá´á ñama ka̱a̱ tee">
-<!ENTITY helpKeyboardShortcuts.accesskey "S">
-
-<!ENTITY helpSafeMode.label       "Nakaji´e ji da a nachisó-kúmani na´va…">
-<!ENTITY helpSafeMode.accesskey   "N">
-<!ENTITY helpSafeMode.stop.label       "Nakaji´e ji da nachisó kúmani na´va">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "Ka´vi da ya´a saa kuvi nasa´anu ya´a de na iyo va´a">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "Chuiichi da a jianininu…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac2.label       "Chiyu´un &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Chiyu´u da inka">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Kune’yá kuaiyo">
 
