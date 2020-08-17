@@ -63,7 +63,6 @@ protections-panel-not-found-label = Não detectado:
 ##
 
 protections-panel-settings-label = Configurações de proteção
-protections-panel-showreport-label = Mostrar relatório
 
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Painel de proteções

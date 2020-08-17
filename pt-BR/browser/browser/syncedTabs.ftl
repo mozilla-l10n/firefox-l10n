@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Abas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = Quer ver suas abas de outros dispositivos aqui?
-synced-tabs-sidebar-notsignedin = Entre para ver uma lista de abas de seus outros dispositivos.
 synced-tabs-sidebar-intro = Veja uma lista de abas de seus outros dispositivos.
 synced-tabs-sidebar-unverified = Sua conta precisa ser verificada.
 synced-tabs-sidebar-notabs = Nenhuma aba aberta

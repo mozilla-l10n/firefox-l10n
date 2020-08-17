@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Rascunho">
-<!ENTITY scratchpadCmd.accesskey "S">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Receber mensagens">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Reencaminhar mensagem selecionada como anexo">
 <!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
-<!ENTITY openConversationButton.tooltip "Mostrar a conversa das mensagens selecionadas">
 <!ENTITY openMsgConversationButton.tooltip "Mostrar conversa da mensagem selecionada">
 <!ENTITY nextButton.tooltip "Mover para próxima mensagem não lida">
 <!ENTITY nextMsgButton.tooltip "Mover para próxima mensagem">

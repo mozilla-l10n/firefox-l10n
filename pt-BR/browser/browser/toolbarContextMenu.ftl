@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selecionar todas as abas
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Reabrir aba
-    .accesskey = b
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Criptografar esta mensagem">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Não criptografar">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "o">
 
