@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = ping: nisqapi ñawi qallariy  imanisqankuna .
-about-telemetry-show-current-ping-data = ping nisqapi kunan imanisqakuna
 about-telemetry-show-archived-ping-data = ping nisqapi  imanisqakuna  taqisqa.
 about-telemetry-show-subsession-data = subsesión nisqapi imanisqakuna qawachiy
 about-telemetry-choose-ping = ping:nisqa aqllay
