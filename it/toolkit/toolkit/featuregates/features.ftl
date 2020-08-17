@@ -4,26 +4,18 @@
 
 # The following string should not be localized as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-masonry =
-    .label = CSS Masonry Layout
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Attiva il supporto per la funzione sperimentale CSS Masonry Layout. Consultare <a data-l10n-name="explainer">questo documento</a> per ottenere una descrizione generale di questa funzione. Per fornire commenti e suggerimenti è possibile utilizzare <a data-l10n-name="w3c-issue">questa issue in GitHub</a> o <a data-l10n-name="bug">questo bug</a>.
 
 # The following string should not be localized as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-gpu =
-    .label = WebGPU
-experimental-features-web-gpu-description = API sperimentale per la gestione di grafica ed elaborazioni sul Web
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Questa nuova API fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. Le <a data-l10n-name="spec">specifiche</a> non sono ancora definitive. Consultare <a data-l10n-name="bugzilla">bug 1602129</a> per ulteriori dettagli.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-avif =
-    .label = AVIF
-experimental-features-avif-description = Supporto sperimentale per AVIF, il formato di file AV1 Image
 experimental-features-media-avif =
     .label = Media: AVIF
 experimental-features-media-avif-description = Attivando questa funzione, { -brand-short-name } supporta il formato AV1 Image File (AVIF). Si tratta di un formato per immagini che sfrutta le potenzialità dell’algoritmo di compressione video AV1 per ridurre la dimensione dei file. Consultare <a data-l10n-name="bugzilla">bug 1443863</a> per ulteriori dettagli.
