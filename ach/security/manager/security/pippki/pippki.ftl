@@ -21,6 +21,9 @@ change-password-reenter = Mung me donyo manyen (doki):
 reset-password-window =
     .title = Ter mung me donyo Madit
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Ter nitit
 reset-password-text = Ka i tero mung me donyo mamegi madit nitit, web megi weng ma kigwoko ki mung me e-mail, ket waraga me tic pari, ki wic bi wil ki lagony pa dano. I moko ada ni imito tero mung me donyo madit nitit?

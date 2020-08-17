@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Nying ki kama tic ma ki temo ni oaa iye.">
 <!ENTITY performanceUI.table.totalAlloc               "Wel pok weng ma kitemo">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Wel jami weng ma ki poko ma kitemo i kabedo man ki i lwongo.">
-<!ENTITY performanceUI.table.selfAlloc                "Ma poke kene ma kitemo">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Wel jami ma ki poko ma kitemo i kabedo man.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Pe romo kubo">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Kanonge man kigengo woko">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Lapok tic pe ononge">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Wa tye ka nongo peko i nongo kakube meno.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Kace kanonge meno tye kakare, magi aye jami adek mukene ma itero temo:</strong>
 <ul>
@@ -34,15 +28,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Pwal pe ononge">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ngi nying pwail pi nukta madongo onyo coc mogo ma pe kicoyo maber.</li> <li>Ngi me neno kace pwaile kikobo woko, kicako nyinge manyen onyo kijwayo woko.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Kikwero woko nongo pwail ne">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Romo bedo ni kikwanyo woko, kikobo, onyo twero me pwail tye ka gengo nongo ne.</li> </ul>">
-
-<!ENTITY generic.title "Ayi.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; pe twero cano pot buk man pi tyen lok mo.</p>">
 
@@ -52,58 +40,30 @@
 <!ENTITY openPortalLoginPage.label2 "Yab potbuk me donyo iyie netwak">
 
 <!ENTITY malformedURI.pageTitle "URL mape atir">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Kanonge meno pe tye kakare.">
-
-<!ENTITY netInterrupt.title "Kibalo kube woko">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Gin acoya Kare ne okato woko">
-
 <!ENTITY notCached.longDesc "<p>Gin acoya ma ikwayo pire ni pe nonge kama &brandShortName; ogwoko iye.</p><ul><li>Me gwoke ki i peko, &brandShortName; pe nwoyo kwayo pire kene gin acoyo ma pi gi lit.</li><li>Dii Tem Doki wek i nwo kwayo gin acoya ki i kakube.</li></ul>">
-
-<!ENTITY netOffline.title "Pe okube iyamo">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Dii &quot;Tem Doki&quot; wek i loke ikube i yamo kadong i nwo cano pot buke.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Bal me loko cik i gin matye iye">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Tim ber ikube ki wegi kakube man pi mini gi ngec pi peko man.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Kit pwail man pe ber">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Tim ber i kube ki wegi kakube man pi mini gi ngec pi peko man.</li> </ul>">
 
-<!ENTITY netReset.title "Kitero kube odoco">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Kare me kube otum woko">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Pe ki niang kanonge">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Mogo romo mite ni i ket purugram mukene wek oyab kanonge man.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Lapok tic pi lawote pe tye ka ye kube">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ngi ter me latic pi lawote wek inen ni meno gi tye kakare.</li> <li>Kube ki ngat ma loyo kakube wek inen ni lapok tic pi lawote tye katic.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Pe romo nongo lapok tic pi lawote">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ngi ter pa latic pi lawote wek i nen ni meno gi tye kakare.</li> <li>Ngi wek i nen ni meno komputa ni tye ki kakube ma tiyo.</li> <li>Ka ce komputa onyo kakube me koputa ni kigwoko ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Potbuk ne pe tye ka wire maber">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Peko man kare mukene bino pi juko onyo kwero ye angija.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Lagam ma pe kibedo ka kuro ki bot lapok tic">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ngi me neno ni ki keto Lalor gwoko kuc pa dano i nyonyo ni.</li> <li>Man twero bedo pi ter mogo mape ki ye i lapok tic.</li> </ul>">
-
-<!ENTITY nssFailure2.title "Kube ma tye ki ber bedo pe olare">
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pot buk ma i tye ka temo neno ne ni pe kitwero nyuto ne pien twero pi tic ma kinongo ni pe ki romo moko.</li> <li>Tim ber i kube ki wegi kakube man pi mini gi ngec me peko man.</li> </ul>">
 
@@ -118,11 +78,7 @@
 
 <!ENTITY sharedLongDesc "<ul> <li>Kakube romo bedo ni pe nonge pi tutunu onyo tic odiyo. Tem doki inge karemanok.</li> <li>Ka pe iromo cano pot buk mo keken, ngi kakube me komputa mamegi.</li> <li>Ka ce komputa onyo kakube ni kigengo ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Kigengo ki Cik me Gwoko ber-bedo pa jami matye iye">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ogengo woko pot buk man me canne i yo man pien pot buk ke tye ki cik me jami matye iye mape ye en.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Bal me jami matye iye ma oballe">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Pot buk ma i tye katemo neno ne ni pe kitwero nyuto ne pien bal onyute i cwalo tic.</p><ul><li>Tim ber i kube ki wegi kakube man pi mini gi ngec pi peko man.</li></ul>">
 
@@ -130,19 +86,13 @@
 <!ENTITY errorReporting.automatic2 "Mi ripot me bal calo man me konyo Mozilla nongo ki gengo kakube ma raco">
 <!ENTITY errorReporting.learnMore "Nong ngec mapol…">
 
-<!ENTITY remoteXUL.title "XUL ma tye wa kama bor">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi kakube pi mini gi ngec pi peko man.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Pe twero kube ma ber bedo tye">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ngec ma lamal: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.copyToClipboard.label "Lok coc i bao coc">
-
-<!ENTITY inadequateSecurityError.title "Kube ni pe tye ki ber bedo">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
@@ -151,11 +101,7 @@
 <!ENTITY blockedByPolicy.title "Potbuk ma kigengo">
 
 
-<!ENTITY clockSkewError.title "Cawa me kompiuta ni pe tye kakare">
-
 <!ENTITY prefReset.longDesc "Nen calo ter me ber bedo per netwak mamegi aye tye ka kelo man. Imito ni ki dwok ter makwongo?">
 <!ENTITY prefReset.label "Dwok ter makwongo">
-
-<!ENTITY networkProtocolError.title "Bal me Cik me Netwak">
 
 <!ENTITY networkProtocolError.longDesc "<p>Pot buk ma i tye katemo neno ne pe romo nyutu pien bal mo i cik me netwak onyute.</p><ul><li>Tim ber i kube ki wegi di bar me Web me minigi ngec pi peko man.</li></ul>">

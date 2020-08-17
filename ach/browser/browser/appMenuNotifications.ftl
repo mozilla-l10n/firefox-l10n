@@ -38,14 +38,6 @@ appmenu-addon-post-install-message = Lo med-ikome mamegi ki diino <image data-l1
 appmenu-addon-post-install-incognito-checkbox =
     .label = Yer lamed man me tic i Dirica me Mung
     .accesskey = Y
-appmenu-addon-private-browsing =
-    .label = Lokke i lamed ii Dirica me Mung
-    .buttonlabel = Lor Lamed
-    .buttonaccesskey = L
-    .secondarybuttonlabel = Aya, Aniang
-    .secondarybuttonaccesskey = A
-appmenu-addon-private-browsing-message = Lamed mo keken manyen ma imedo i { -brand-shorter-name } pe bitic i Dirica me Mung ni kwanyo ka i yee man i ter.
-appmenu-addon-private-browsing-learn-more = Nong ngec ikit me loono ter me lamed
     
 appmenu-new-tab-controlled =
     .label = Dirica matidi ni manyen olokke.

@@ -108,8 +108,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ye nongo bal ki kama bor
-options-enable-remote-tooltip =
-    .title = Cako gin ayera man bi weko gitic pa ludiro nongo bal i gin ma tye katime ki kama bor calo Firefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Cak Service Workers i HTTP (kacce bok me gitic tye ayaba)

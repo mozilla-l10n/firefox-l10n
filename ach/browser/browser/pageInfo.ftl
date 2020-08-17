@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Gwok calo…
     .accesskey = e
-media-preview =
-    .value = Neno adyere:
 
 perm-tab =
     .label = Rukuca
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Eyo, angija
 security-site-data-no = Pe
 
 image-size-unknown = Pe ngene
-not-set-verified-by = Pe kicimo
 page-info-not-specified =
     .value = Pe kicimo
 not-set-alternative-text = Pe kicimo
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Kit ma pe ngene
 general-strict-mode =
     .value = Kit ma lubo la por
-security-no-owner = Kabedo me kube man pe poko ngec me nga ma rwode.
 page-info-security-no-owner =
     .value = Kabedo me kube man pe poko ngec me nga ma rwode.
 media-select-folder = Yer boc me gwoko cal iye

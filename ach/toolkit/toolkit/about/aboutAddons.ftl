@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Cano…
-
 list-empty-installed =
     .value = Pe itye ki med-ikome ma kit man ma kiketo
 
@@ -32,27 +29,16 @@ list-empty-find-updates =
 list-empty-button =
     .label = Nong ngec mapol ikom med-ikome
 
-install-addon-from-file =
-    .label = Ket med-ikome ki i pwail…
-    .accesskey = K
-
 help-button = Kony me Med-ikome
 
 sidebar-help-button-title =
     .title = Kony me Med-ikome
-
-tools-menu =
-    .tooltiptext = Gintic pi med-ikome weng
 
 show-unsigned-extensions-button =
     .label = Pe onongo kiromo moko ada pa lamed mogo
 
 show-all-extensions-button =
     .label = Nyut lamed weng
-
-debug-addons =
-    .label = Nong bal i Med-ikome
-    .accesskey = o
 
 cmd-show-details =
     .label = Nyut Ngec Mukene
@@ -91,12 +77,6 @@ cmd-contribute =
     .accesskey = J
     .tooltiptext = Mi bot pi yubo med-ikome man
 
-discover-title = Ngo ma med-ikome obedo?
-
-discover-description = Med-ikome obedo purugram ma weko i yiko imiti ni { -brand-short-name } kwedetic mogo madwong onyo kit. Tem gintic ma inget me gwoko cawa, lami ngec me kot, onyo poro lok me weko { -brand-short-name } bed megi.
-
-discover-footer = Ka ikube i intanet, dirica man bi nyutu med-ikome mogo ma beco loyo dok ngen tutwal pi yin me temo gi.
-
 detail-version =
     .label = Kite
 
@@ -120,16 +100,12 @@ detail-update-manual =
     .label = Neki
     .tooltiptext = Pe i ket ngec manyen pire kene
 
-detail-private-browsing-description2 = Ka ki yee, lamed binongo tic mamegi me wiyamo ma itye i yeny me mung. <label data-l10n-name="detail-private-browsing-learn-more">Nong ngec mapol</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Pe ki Yee i Dirica me Mung
-detail-private-disallowed-description = Lamed man pe tiyo ma nongo tye i yeny me mung. <label data-l10n-name="detail-private-browsing-learn-more">Nong ngec mapol</label>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Mito nongo Dirica me Mung
-detail-private-required-description = Lamed man nongo tic mamegi me wiyamo ma itye i yeny me mung. <label data-l10n-name="detail-private-browsing-learn-more">Nong ngec mapol</label>
 
 detail-private-browsing-on =
     .label = Yee
@@ -203,14 +179,6 @@ private-browsing-description2 =
     kunu. Watimo alokaloka man me gwoko yeny me mung mamegi i mung.
     <label data-l10n-name="private-browsing-learn-more">Nong ngec ikit me loono ter pa lamed</label>
 
-extensions-view-recent-updates =
-    .name = Ngec manyen ma cokki
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Ngec manyen matye
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Kube pa tic a kompiuta
 addon-category-extension-title =
     .title = Kube pa tic a kompiuta
@@ -235,29 +203,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Kit maber ojuko woko med-ikome weng.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Med ikome kityeko juko woko roto rwate ne. I romo bedo ki med ikome mape rwate.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Ye
-    .tooltiptext = Ye ngiyo rwate me tic pa med-ikome
-
-extensions-warning-update-security-label =
-    .value = Ngiyo ber bedo pa ngec manyen me med-ikome kijuko woko. Mogo nongo inongo peko ki bot ngec manyen.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Ye
-    .tooltiptext = Ye ngiyo ber bedo pa ngec mayen
-
 extensions-warning-safe-mode = Kit maber ojuko woko med-ikome weng.
 extensions-warning-check-compatibility = Med ikome kityeko juko woko roto rwate ne. I romo bedo ki med ikome mape rwate.
 extensions-warning-check-compatibility-button = Ye
@@ -269,14 +214,6 @@ extensions-warning-update-security-button = Ye
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Rot pi ngec manyen
-    .accesskey = R
-
-extensions-updates-view-updates =
-    .label = Nen ngec manyen macocoki
-    .accesskey = N
-
 addon-updates-check-for-updates = Rot pi ngec manyen
     .accesskey = R
 addon-updates-view-updates = Nen ngec manyen macocoki
@@ -284,10 +221,6 @@ addon-updates-view-updates = Nen ngec manyen macocoki
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Ket ngec manyen i med-ikome pire kene
-    .accesskey = m
 
 addon-updates-update-addons-automatically = Ket ngec manyen i med-ikome pire kene
     .accesskey = m
@@ -298,36 +231,12 @@ addon-updates-update-addons-automatically = Ket ngec manyen i med-ikome pire ken
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Nwo tero med-ikome weng me keto ngec manyen pire kene
-    .accesskey = N
-
-extensions-updates-reset-updates-to-manual =
-    .label = Nwo tero med-ikome weng me keto ngec manyen ki cing
-    .accesskey = N
-
 addon-updates-reset-updates-to-automatic = Nwo tero med-ikome weng me keto ngec manyen pire kene
     .accesskey = N
 addon-updates-reset-updates-to-manual = Nwo tero med-ikome weng me keto ngec manyen ki cing
     .accesskey = N
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Keto ngec manyen iye med-ikome
-extensions-updates-installed =
-    .value = Ki tyeko keto ngec mayen iye med-ikome mamegi.
-extensions-updates-downloaded =
-    .value = Kigamo ngec manyen me med-ikome mamegi.
-extensions-updates-restart =
-    .label = Cak nitit kombedi pi tyeko keto
-extensions-updates-none-found =
-    .value = Pe ki nongo ngec manyen
-extensions-updates-manual-updates-found =
-    .label = Nen ngec manyen matye
-extensions-updates-update-selected =
-    .label = Ket ngec manyen
-    .tooltiptext = Ket ngec manyen matye i nying jami man
 
 addon-updates-updating = Keto ngec manyen iye med-ikome
 addon-updates-installed = Ki tyeko keto ngec mayen iye med-ikome mamegi.
@@ -346,8 +255,6 @@ addon-open-about-debugging = Nong bal i Med-ikome
 ## Extension shortcut management
 
 shortcuts-no-addons = Pe itye ki lamed mo ma kicako.
-
-shortcuts-browserAction = Cak lamed
 
 shortcuts-pageAction = Cak tic me potbuk
 shortcuts-sidebarAction = Lok gitic me nget

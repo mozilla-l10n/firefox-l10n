@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Yer Pwail…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Y">
 
-<!ENTITY cmd.deleteDomainData.label     "Wek wii owil woko ikom pot buk man">
-<!ENTITY cmd.deleteDomainData.accesskey "W">
-
-<!ENTITY cmd.open.label                  "Yab">
-<!ENTITY cmd.open.accesskey              "Y">
-<!ENTITY cmd.open_window.label           "Yab i dirica Manyen">
-<!ENTITY cmd.open_window.accesskey       "M">
-<!ENTITY cmd.open_private_window.label     "Yab i dirica manyen me mung">
-<!ENTITY cmd.open_private_window.accesskey "m">
-<!ENTITY cmd.open_tab.label              "Yab i dirica matidi manyen">
-<!ENTITY cmd.open_tab.accesskey          "a">
-<!ENTITY cmd.open_all_in_tabs.label      "Yab weng i dirica matino">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "Y">
-
-<!ENTITY cmd.properties.label      "Jami me tic">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Yek ki nying">
-<!ENTITY cmd.sortby_name.accesskey          "Y">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Alama me buk manyen…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Boc Manyen…">
-<!ENTITY cmd.new_folder.accesskey          "n">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Lapok kine Manyen">
-<!ENTITY cmd.new_separator.accesskey       "L">
-
 <!ENTITY col.name.label          "Nying">
 <!ENTITY col.tags.label          "Lanyut">
 <!ENTITY col.url.label           "Kabedo">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Wel Lim">
 <!ENTITY col.dateadded.label     "Kimedo">
 <!ENTITY col.lastmodified.label  "Yub me agiki">
-
-<!ENTITY historySearch.placeholder  "Yeny gin mukato">
-<!ENTITY bookmarksSearch.placeholder  "Yeny alamabuk">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Yer jami me anena kadong i yub jami me ticce">
 
-<!ENTITY view.label               "Nen">
-<!ENTITY view.accesskey           "n">
-<!ENTITY byDate.label             "Ki Nino dwe">
-<!ENTITY byDate.accesskey         "N">
-<!ENTITY bySite.label             "Ki Kakube">
-<!ENTITY bySite.accesskey         "K">
-<!ENTITY byMostVisited.label      "Ki Ma kilimo loyo">
-<!ENTITY byMostVisited.accesskey  "M">
-<!ENTITY byLastVisited.label      "Ki Ma kilimo me agiki">
-<!ENTITY byLastVisited.accesskey  "a">
-<!ENTITY byDayAndSite.label       "Ki Nino dwe kacel ki Kakube">
-<!ENTITY byDayAndSite.accesskey   "n">

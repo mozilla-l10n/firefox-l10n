@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Yeny i mung)">
-
 <!ENTITY appmenu.tooltip                     "Yab nying gin ayera">
 <!ENTITY navbarOverflow.label                "Jami tic mukene…">
 
@@ -26,54 +16,19 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Mwon dirica matidi">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "M">
 <!ENTITY  unpinTab.label                     "Pe i wal dirica matidi">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "r">
-<!ENTITY  sendPageToDevice.label             "Cwal Potbuk i Nyonyo">
-<!ENTITY  sendPageToDevice.accesskey         "o">
-<!ENTITY  sendLinkToDevice.label             "Cwal kakube i Nyonyo">
-<!ENTITY  sendLinkToDevice.accesskey         "o">
-<!ENTITY  undoCloseTab.label                 "Gony loro dirica matidi">
-<!ENTITY  undoCloseTab.accesskey             "G">
-<!ENTITY  hiddenTabs.label                   "Dirica matino ma okane">
 
 <!ENTITY  listAllTabs.label      "Rwe dirica matino weng">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "Drica matidi manyen">
-<!ENTITY tabCmd.accesskey "D">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Yab Kabedo…">
 <!ENTITY openFileCmd.label "Yab pwail…">
-<!ENTITY openFileCmd.accesskey "Y">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tero Pot Buk…">
-<!ENTITY printSetupCmd.accesskey "t">
-<!ENTITY printPreviewCmd.label "Nen kit ma obibedo ka ki goyo">
-<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Go…">
-<!ENTITY printCmd.accesskey "G">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Kel ki i Layeny Mukene…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "K">
 
-
-<!ENTITY goOfflineCmd.label "Ti ma pe ikube iyamo">
-<!ENTITY goOfflineCmd.accesskey "T">
 
 <!ENTITY menubarCmd.label "Lanyut nying gin ayera">
 <!ENTITY menubarCmd.accesskey "L">
-<!ENTITY navbarCmd.label "Gintic me wot">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -85,71 +40,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Alamabuk">
 <!ENTITY bookmarksToolbarItem.label "Jami me gintic me alama buk">
 
-<!ENTITY pageSourceCmd.label "Kama pot buk nonge iye">
-<!ENTITY pageSourceCmd.accesskey "k">
-
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Ngec me pot buk">
-<!ENTITY pageInfoCmd.accesskey "N">
-
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Por dirica matidi">
-<!ENTITY mirrorTabCmd.accesskey "P">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Dony i wang komputa ma opong">
-<!ENTITY enterFullScreenCmd.accesskey "w">
-<!ENTITY exitFullScreenCmd.label "Kat woko ki i wang komputa ma opong">
-<!ENTITY exitFullScreenCmd.accesskey "w">
-
 <!ENTITY fullScreenCmd.label "Wang komputa ma opong">
-<!ENTITY fullScreenCmd.accesskey "W">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Nyut dirica matino weng">
-<!ENTITY showAllTabsCmd.accesskey "w">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
-
-<!ENTITY fxaSignIn.label "Dony iyie &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Yab ter me &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Nwo kube bot &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Mok akaunt mamegi">
 
 
 <!-- } is above this key on many keyboards -->
-
-
-<!ENTITY fullScreenMinimize.tooltip "Kan piny">
-<!ENTITY fullScreenRestore.tooltip "Dwoki">
-<!ENTITY fullScreenClose.tooltip "Lor">
-<!ENTITY fullScreenAutohide.label "Kan gintic">
-<!ENTITY fullScreenAutohide.accesskey "K">
-<!ENTITY fullScreenExit.label "Kat woko ki i kit wang komputa ma opong">
-<!ENTITY fullScreenExit.accesskey "w">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Wot ki Firefox">
-<!ENTITY fxa.signin.description.label "Nong alamabuk mamegi, gin mukato, mung me donyo ki ter mukene i nyonyo ni weng.">
-<!ENTITY fxa.signin.button.label "Cak &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Rot Email mamegi">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "I donyo iyie calo">
-<!ENTITY fxa.menu.manageAccount.label "Lo Akaunt…">
 
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -185,8 +79,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Kat woko ki i wang kio ma opong (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Kat woko ki i wang kio ma opong (esc)">
-<!ENTITY leaveDOMFullScreen.label "Kat woko ki i wang komputa ma opong">
-<!ENTITY leaveDOMFullScreen.accesskey "w">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
@@ -201,80 +93,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.">
 <!ENTITY pointerlockWarning.generic.label "Jami eni Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.">
 
-<!ENTITY closeWindow.label "Lor dirica">
-<!ENTITY closeWindow.accesskey "c">
-
-<!ENTITY bookmarksMenu.label "Alama buk">
-<!ENTITY bookmarksMenu.accesskey "A">
-
-<!ENTITY bookmarkThisPageCmd.label "Ket alama buk i pot buk man">
-<!ENTITY editThisBookmarkCmd.label "Yub alama buk man">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Ket alama buk i dirica matino weng…">
-
 <!ENTITY showAllBookmarks2.label "Nyut alamabuk weng">
 <!ENTITY recentBookmarks.label "Ma kiketo Alamabuk cokki">
-<!ENTITY otherBookmarksCmd.label "Alamabuk Mukene">
-<!ENTITY mobileBookmarksCmd.label "Alamabuk me cing">
 <!ENTITY bookmarksToolbarChevron.tooltip "Nyut alama buk mukene">
-
-<!ENTITY backCmd.label                "Cen">
-<!ENTITY backCmd.accesskey            "C">
-<!ENTITY backButton.tooltip           "Dok cen pot buk acel">
-<!ENTITY forwardCmd.label             "Anyim">
-<!ENTITY forwardCmd.accesskey         "A">
-<!ENTITY forwardButton.tooltip        "Cit anyim pot buk acel">
-<!ENTITY backForwardButtonMenu.tooltip "Dii tung lacuc nyo tel piny me nyuto gin mukato">
-<!ENTITY backForwardButtonMenuMac.tooltip "Tel piny me nyuto gin mukato">
-<!ENTITY reloadCmd.label              "Nwo cano">
-<!ENTITY reloadCmd.accesskey          "N">
-<!ENTITY stopCmd.label                "Juk">
-<!ENTITY stopCmd.accesskey            "J">
-
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Cit i kanonge ma i lanyut me gintic kabedo">
 
 <!ENTITY printButton.label            "Go">
 <!ENTITY printButton.tooltip          "Go pot buk man">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Nen ngec ikom kakube">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Yab dirica me kwena">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Yab dirica me penyo pi kabedo">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Yab dirica me tuko pire kene">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Yab dirica me kwena pi keto med-ikome">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Yab dirica me kwena pi kan mape iwiyamo">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Yab dirica me kwena pi gwoko mung me donyo">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lo tic ki larwak">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ki tye ka loono layeny ki kama bor">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Lo nywako dirica onyo kio mamegi ki kakube">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Yab dirica me kwena pi ket">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Kob pot buk man">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Lo kobo potbuk">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lo tic ki purugram me DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Yab dirica me MIDI">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Igengo woko lamak cal mamegi pi kakube man.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Igengo woko mikropon mamegi pi kakube man.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Igengo woko kakube man me tic ki larwak me Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "I gengo woko nongo MIDI pi kakube man.">
-<!ENTITY urlbar.installBlocked.tooltip           "Igengo woko keto med-ikome pi kakube man.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
-
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Imiyo ki kakube man twero mukene.">
 
 
 <!ENTITY searchItem.title             "Yeny">
@@ -284,7 +108,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Acakki">
 
 <!ENTITY bookmarksButton.label          "Alama buk">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Alamabuk">
 <!ENTITY bookmarksMenuButton2.label         "Jami ayera me alamabuk">
@@ -299,107 +122,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Med jami ayera me alamabuk ii Gitic">
 <!ENTITY removeBookmarksMenu.label          "Kwany jami ayera me alamabuk ki i Gitic">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Gin mukato">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Gintic">
-<!ENTITY toolsMenu.accesskey          "G">
-
-<!ENTITY keywordfield.label           "Med lok mapire tek pi yeny man…">
-<!ENTITY keywordfield.accesskey       "l">
 
 <!ENTITY downloads.label              "Gam">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Gam">
-<!ENTITY downloads.accesskey          "G">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Med-ikome">
-<!ENTITY addons.accesskey             "M">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Layub Kakube">
-<!ENTITY webDeveloperMenu.accesskey   "L">
 
-<!ENTITY inspectContextMenu.label     "Ngiyo gin ma i but">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-
-<!ENTITY fileMenu.label         "Pwail">
-<!ENTITY fileMenu.accesskey       "P">
-
-<!ENTITY newUserContext.label             "Dirica matidi manyen me mako jami">
-<!ENTITY newUserContext.accesskey         "m">
 
 <!ENTITY newNavigatorCmd.label        "Dirica manyen">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "D">
 <!ENTITY newPrivateWindow.label     "Dirica manyen me mung">
-<!ENTITY newPrivateWindow.accesskey "D">
 
 <!ENTITY editMenu.label         "Yub">
-<!ENTITY editMenu.accesskey       "Y">
-<!ENTITY undoCmd.label            "Gony">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "G">
-<!ENTITY redoCmd.label            "Nwo timo">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "N">
-<!ENTITY cutCmd.label           "Ngol">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "o">
-<!ENTITY copyCmd.label            "Lok">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "L">
-<!ENTITY pasteCmd.label           "Mwon">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "M">
-<!ENTITY deleteCmd.label          "Kwany woko">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "K">
-<!ENTITY selectAllCmd.label         "Yer weng">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "w">
 <!ENTITY preferencesCmd2.label       "Gin ayera">
-<!ENTITY preferencesCmd2.accesskey     "G">
 <!ENTITY preferencesCmdUnix.label       "Ma imaro">
-<!ENTITY preferencesCmdUnix.accesskey     "r">
 <!ENTITY logins.label                           "Donyo iyie ki Mung me donyo">
-
-<!ENTITY clearRecentHistory.label               "Jwa gin mukato cokki…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Nen">
-<!ENTITY viewMenu.accesskey       "N">
-<!ENTITY viewToolbarsMenu.label       "Gintic">
-<!ENTITY viewToolbarsMenu.accesskey     "G">
-<!ENTITY viewSidebarMenu.label "Gintic ma i nget">
-<!ENTITY viewSidebarMenu.accesskey "n">
-
-<!ENTITY viewCustomizeToolbar.label       "Yiki…">
-<!ENTITY viewCustomizeToolbar.accesskey     "Y">
 
 <!ENTITY overflowCustomizeToolbar.label       "Yub gitic…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "Y">
 
 <!ENTITY historyMenu.label "Gin mukato">
-<!ENTITY historyMenu.accesskey "u">
 <!ENTITY historyUndoMenu.label "Dirica matino ma kiloro cokki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dirica ma kiloro cokki">
-<!ENTITY historyRestoreLastSession.label "Dwok kare ma okato ni">
-
-<!ENTITY showAllHistoryCmd2.label "Nyut gin mukato weng">
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Nyut gin mukato weng">
 <!ENTITY appMenuHistory.clearRecent.label "Jwa gin mukato cokki…">
@@ -427,9 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Myero ki mok ada pa akaunt mamegi.">
-<!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Dony iyie &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Cak &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Lor nyonyo…">
@@ -446,77 +192,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Medi i Jami ayera ma okane">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Mwon ii Jami ayera ma okane">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "War ki ii Jami ayera ma okane">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "W">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kwany ki bot gintic">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
 <!ENTITY customizeMenu.addMoreItems.label "Med jami mukene…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "Kan pire kene i Gitic">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "K">
-<!ENTITY customizeMenu.manageExtension.label "Lo Lamed">
-<!ENTITY customizeMenu.manageExtension.accesskey "A">
-<!ENTITY customizeMenu.removeExtension.label "Kwany Lamed">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Mi ripot ikom Lamed">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Mapol">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Lamed:">
-<!ENTITY urlbar.switchToTab.label     "Lokke bot dirica matidi:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ngec:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Nong kony i yenyo jami! Yeny &#x1F50E; ma inget tam amiya me yeny.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Lok ter…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Lok ter…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Lapeny me yeny">
 
 <!ENTITY contentSearchSubmit.tooltip  "Cwal yeny">
 
@@ -525,201 +211,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Yeny">
 <!ENTITY searchIcon.tooltip           "Yeny">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Yeny pi ">
-<!ENTITY searchWith.label             " kwede:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Yeny ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Yeny ki:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Lok ter me yeny">
-<!ENTITY changeSearchSettings.tooltip "Lok ter me yeny">
-
-<!ENTITY searchInNewTab.label         "Yeny i dirica matidi manyen">
-<!ENTITY searchInNewTab.accesskey     "d">
-<!ENTITY searchSetAsDefault.label     "Ter calo Ingin me yeny makwongo">
-<!ENTITY searchSetAsDefault.accesskey "m">
-
-<!ENTITY openLinkCmdInTab.label       "Yab kakube i dirica matidi manyen">
-
 <!ENTITY openLinkCmdInTab.accesskey   "d">
-<!ENTITY openLinkCmd.label            "Yab kakube i dirica manyen">
-<!ENTITY openLinkCmd.accesskey        "r">
-<!ENTITY openLinkInPrivateWindowCmd.label "Yab kakube i dirica manyen me mung">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "m">
-<!ENTITY openLinkCmdInCurrent.label     "Yab Kakube">
-<!ENTITY openLinkCmdInCurrent.accesskey "Y">
-<!ENTITY openFrameCmdInTab.label      "Yab pem i dirica matidi manyen">
-<!ENTITY openFrameCmdInTab.accesskey  "d">
-<!ENTITY openFrameCmd.label           "Yab pem i dirica manyen">
-<!ENTITY openFrameCmd.accesskey       "d">
-<!ENTITY openLinkCmdInContainerTab.label "Yab kakube i dirica matidi manyen me mako jami">
-<!ENTITY openLinkCmdInContainerTab.accesskey "a">
-<!ENTITY showOnlyThisFrameCmd.label     "Nyut pem man keken">
-<!ENTITY showOnlyThisFrameCmd.accesskey "N">
-
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Nwo cano pem">
-<!ENTITY reloadFrameCmd.accesskey     "N">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Nen yer me kama nonge iye">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Nen kama pot buk nonge iye">
-<!ENTITY viewPageSourceCmd.accesskey  "N">
-<!ENTITY viewFrameSourceCmd.label     "Nen kama pem nonge iye">
-<!ENTITY viewFrameSourceCmd.accesskey "N">
-<!ENTITY viewPageInfoCmd.label        "Nen ngec me pot buk">
-<!ENTITY viewPageInfoCmd.accesskey    "n">
-<!ENTITY viewFrameInfoCmd.label       "Nen ngec me pem">
-<!ENTITY viewFrameInfoCmd.accesskey   "n">
-<!ENTITY reloadImageCmd.label         "Nwo cano cal">
-<!ENTITY reloadImageCmd.accesskey     "N">
-<!ENTITY viewImageCmd.label           "Nen Cal">
-<!ENTITY viewImageCmd.accesskey       "C">
-<!ENTITY viewImageInfoCmd.label       "Nen ngec me cal">
-<!ENTITY viewImageInfoCmd.accesskey   "e">
-<!ENTITY viewImageDescCmd.label       "Nen lok kome">
-<!ENTITY viewImageDescCmd.accesskey   "k">
-<!ENTITY viewVideoCmd.label           "Nen Vidio">
-<!ENTITY viewVideoCmd.accesskey       "e">
-<!ENTITY viewBGImageCmd.label         "Nen cal me ngeye">
-<!ENTITY viewBGImageCmd.accesskey     "n">
-<!ENTITY setDesktopBackgroundCmd.label      "Ket calo cal me nge wang kompiuta…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "K">
-<!ENTITY bookmarkPageCmd2.label       "Ket alama buk i pot buk man">
-<!ENTITY bookmarkPageCmd2.accesskey   "k">
-<!ENTITY bookmarkThisLinkCmd.label      "Ket alama buk i kakube man">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "k">
-<!ENTITY bookmarkThisFrameCmd.label      "Ket alama buk i pem man">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "a">
 
 <!ENTITY pageAction.copyLink.label    "Lok kakube">
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Gwok i Pocket">
-
 <!ENTITY saveToPocketCmd.label        "Gwok Potbuk i Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Gwok Kakube i Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Nen Jami ma i Pocket">
 
 <!ENTITY emailPageCmd.label           "Cwal kakube…">
-<!ENTITY emailPageCmd.accesskey       "C">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.label            "Gwok pot buk calo…">
-<!ENTITY savePageCmd.accesskey        "c">
-<!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Gwok pem calo…">
-<!ENTITY saveFrameCmd.accesskey       "p">
-<!ENTITY printFrameCmd.label          "Go pem…">
-<!ENTITY printFrameCmd.accesskey      "G">
-<!ENTITY saveLinkCmd.label            "Gwok kakube calo…">
-<!ENTITY saveLinkCmd.accesskey        "e">
-<!ENTITY saveImageCmd.label           "Gwok cal calo…">
-<!ENTITY saveImageCmd.accesskey       "k">
-<!ENTITY saveVideoCmd.label           "Gwok vidio calo…">
-<!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Gwok dwon calo…">
-<!ENTITY saveAudioCmd.accesskey       "o">
-<!ENTITY emailImageCmd.label          "Cwal cal…">
-<!ENTITY emailImageCmd.accesskey      "l">
-<!ENTITY emailVideoCmd.label          "Cwal vidio…">
-<!ENTITY emailVideoCmd.accesskey      "l">
-<!ENTITY emailAudioCmd.label          "Cwal dwon…">
-<!ENTITY emailAudioCmd.accesskey      "l">
-<!ENTITY playPluginCmd.label          "Cak larwak man">
-<!ENTITY playPluginCmd.accesskey      "a">
-<!ENTITY hidePluginCmd.label          "Kan larwak man">
-<!ENTITY hidePluginCmd.accesskey      "K">
-<!ENTITY copyLinkCmd.label            "Lok kabedo me kakube">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "e">
-<!ENTITY copyImageCmd.label           "Lok kabedo me cal">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Lok cal">
-<!ENTITY copyImageContentsCmd.accesskey  "k">
-<!ENTITY copyVideoURLCmd.label        "Lok kabedo me vidio">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Lok kabedo me dwon">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Lok kanonge me email">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "k">
-<!ENTITY thisFrameMenu.label              "Pem man">
-<!ENTITY thisFrameMenu.accesskey          "a">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Tuki">
-<!ENTITY mediaPlay.accesskey         "T">
-<!ENTITY mediaPause.label            "Cung">
-<!ENTITY mediaPause.accesskey        "C">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Nek dwone">
-<!ENTITY mediaMute.accesskey         "N">
-<!ENTITY mediaUnmute.label           "Yab dwone">
-<!ENTITY mediaUnmute.accesskey       "d">
-<!ENTITY mediaPlaybackRate2.label     "Dwiro me Tuko">
-<!ENTITY mediaPlaybackRate2.accesskey "T">
-<!ENTITY mediaPlaybackRate050x2.label "Mot (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "M">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Oyot (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "O">
-<!ENTITY mediaPlaybackRate150x2.label "Oyot adada (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "O">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Dwiro ne dong gwa (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "D">
-<!ENTITY mediaLoop.label             "Lworre">
-<!ENTITY mediaLoop.accesskey         "L">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Nyut kit me tic kwede">
-<!ENTITY mediaShowControls.accesskey "k">
-<!ENTITY mediaHideControls.label     "Kan kit me tic kwede">
-<!ENTITY mediaHideControls.accesskey "k">
-<!ENTITY videoFullScreen.label       "Wang komputa ma opong">
-<!ENTITY videoFullScreen.accesskey   "W">
-<!ENTITY videoSaveImage.label        "Gwok cal calo…">
-<!ENTITY videoSaveImage.accesskey    "G">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Nyut cura ne">
-<!ENTITY videoShowStats.accesskey    "u">
-<!ENTITY videoHideStats.label        "Kan cura ne">
-<!ENTITY videoHideStats.accesskey    "u">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -727,57 +228,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Kwot madit">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
-
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Jwik matidi">
-<!ENTITY fullZoomReduceCmd.accesskey    "m">
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Nwo tero">
-<!ENTITY fullZoomResetCmd.accesskey     "N">
-
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Kwot coc keken">
-<!ENTITY fullZoomToggleCmd.accesskey    "c">
-
 <!ENTITY fullZoom.label                 "Kwoti">
-<!ENTITY fullZoom.accesskey             "K">
 
 <!ENTITY sidebarCloseButton.tooltip     "Lor gintic ma inget">
-<!ENTITY sidebarMenuClose.label         "Lor lanyut me nget">
 
 <!ENTITY quitApplicationCmdWin2.label       "Kat woko">
 <!ENTITY quitApplicationCmdWin2.accesskey   "a">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Kat woko ki i &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Weki">
 <!ENTITY quitApplicationCmd.accesskey   "W">
 <!ENTITY quitApplicationCmdMac2.label   "Wek &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Lor">
-
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "L">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Kit pot buk">
-<!ENTITY pageStyleMenu.accesskey "t">
-<!ENTITY pageStyleNoStyle.label "Kite Pe">
-<!ENTITY pageStyleNoStyle.accesskey "K">
-<!ENTITY pageStylePersistentOnly.label "Kit pot buk ma dong tidi">
-<!ENTITY pageStylePersistentOnly.accesskey "K">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -788,159 +248,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "Y">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Lok tung pot buk">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Lok tung coc">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "o">
-
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Nong i pot buk man…">
-<!ENTITY findOnCmd.accesskey "N">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Nong doki">
-<!ENTITY findAgainCmd.accesskey "o">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Med buk me gonyo lok…">
 <!ENTITY spellAddDictionaries.accesskey "M">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Otum">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Ber bedo pa kakube">
-
-<!ENTITY identity.connection "Kube">
-<!ENTITY identity.connectionSecure "Kube maber">
-<!ENTITY identity.connectionNotSecure "Kube pe tye ki ber bedo">
-
-<!ENTITY identity.connectionFile "Kigwoko potbuk man i kompiuta mamegi.">
-<!ENTITY identity.connectionVerified2 "Itye ki kube maber ki kakube man, rwode aye:">
-<!ENTITY identity.connectionInternal "Man potbuk me &brandShortName; matye ki ber bedo.">
-<!ENTITY identity.extensionPage "Kicano potbuk man ki i lamed">
-<!ENTITY identity.insecureLoginForms2 "Donyo iyie ma kiketo gi i potbuk man twero bedo ki goro.">
-<!ENTITY identity.customRoot "Kimoko kube ki lami catibiket ma Mozilla pe ngeyo.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
-<!ENTITY identity.passiveLoaded "But potbuk man pe tye ki ber bedo (calo cal).">
-<!ENTITY identity.activeLoaded "I juko gwokke woko ki i potbuk man.">
-<!ENTITY identity.weakEncryption "Potbuk man tiyo ki loko ngec i kod ma goro.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Kube ni ki kakube man pe tye i mung. Jo mukene twero neno ngec ma i cwalo (calo mung me donyo, kwena, ka me wil, ki mukene).">
-<!ENTITY identity.description.insecureLoginForms "Ngec me donyo iye ma i keto i pot buk man pe ki ber bedo kadong ki romo libo ne.">
-<!ENTITY identity.description.weakCipher "Kube ni ki kakube man tiyo ki loko ngec i kod ma goro ki peke i mung.">
-<!ENTITY identity.description.weakCipher2 "Jo mukene twero neno ngec mamegi onyo loko time pa kakube.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
-<!ENTITY identity.description.passiveLoaded "Kube mamegi pe tye ki ber bedo kadong jo mukene twero neno ngec ma i nywako ki kakube ne.">
-<!ENTITY identity.description.passiveLoaded2 "Kakube man tye ki jami mogo ma pe tye ki ber bedo (calo cal).">
-<!ENTITY identity.description.passiveLoaded3 "Kadi bed &brandShortName; ogengo jami mogo, pud tye jami i potbuk man ma pe tye ki ber bedo (calo cal).">
-<!ENTITY identity.description.activeLoaded "Kakube man tye ki jami ma pe tye ki ber bedo (calo coc) ki kube mamegi iye pe tye i mung.">
-<!ENTITY identity.description.activeLoaded2 "Jo mukene twero neno ngec ma i nywako ki kakube man (calo mung me donyo, kwena, ka me wil, ki mukene).">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Cak gwoke">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "C">
-<!ENTITY identity.disableMixedContentBlocking.label "Juk gwoke pi kombedi">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "J">
-<!ENTITY identity.learnMore "Nong ngec mapol">
-
-<!ENTITY identity.removeCertException.label "Kwany ma kiweko woko">
-<!ENTITY identity.removeCertException.accesskey "K">
-
-<!ENTITY identity.moreInfoLinkText2 "Ngec mapol">
-
-<!ENTITY identity.clearSiteData "Jwa Angija ki Data me kakube…">
-
-<!ENTITY identity.permissions "Rukuca">
-
-<!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
-<!ENTITY identity.permissionsReloadHint "Twero mite ni myero i nwo cano potbuk wek alokaloka otime.">
-<!ENTITY identity.permissionsPreferences.tooltip "Yab Ter me Twero">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Dirica matino me layeny">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Dirica matino ma kiribo">
-
-<!ENTITY syncedTabs.sidebar.label              "Dirica matino ma kiribo">
-
 <!ENTITY syncBrand.shortName.label    "Ribo">
-
-<!ENTITY syncSignIn.label             "Dony iyie &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Rib Kombedi">
-<!ENTITY syncSyncNowItem.accesskey    "R">
-<!ENTITY syncReAuthItem.label         "Nwo kube bot &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "N">
-<!ENTITY syncToolbarButton.label      "Ribo">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Kan pire kene">
 
-<!ENTITY getUserMedia.selectCamera.label "Lamak cal me anywaka:">
-<!ENTITY getUserMedia.selectCamera.accesskey "L">
-<!ENTITY getUserMedia.selectMicrophone.label "Mikropon me anywaka:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Ki binywako dwon ma i dirica matidi.">
-<!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
-
-
-<!ENTITY contentBlocking.trackingProtection3.label "Lulub kor">
-
-
-<!ENTITY contentBlocking.trackersView.label "Lulub kor">
-
-<!ENTITY contentBlocking.cookies.label "Angija">
-<!ENTITY contentBlocking.cookiesView.label "Angija ki Data me kakube">
 
 
 
-
-
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Mi ripot me bal">
-<!ENTITY contentBlocking.breakageReportView.label "Mi ripot me bal">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Nong ngec mapol">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Peko ango ma ibedo kwede? (Ka imito)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Cwal Ripot">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Juki">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Juk Gengo Pi Kakube Man">
-<!ENTITY trackingProtection.unblock5.accesskey "K">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Juk Gengo pi Tutunu">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "K">
-<!ENTITY trackingProtection.block6.label "Cak Gengo Pi Kakube Man">
-<!ENTITY trackingProtection.block6.accesskey "C">
-<!ENTITY trackingProtection.reload2.label "Nwo cano pot buk">
-<!ENTITY trackingProtection.reload2.accesskey "N">
-
-<!ENTITY pluginNotification.showAll.label "Nyut weng">
-<!ENTITY pluginNotification.showAll.accesskey "N">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Lor">
@@ -949,37 +273,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Yeny ma ber!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Pwoc!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Nong ngec mapol ikom DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "Gam ngec manyen pi &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Gam &brandShorterName; manyenne">
 <!ENTITY updateRestart.panelUI.label2 "Nwo cako me keto ngec manyen i &brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "Dirica matidi ni manyen olokke.">
-<!ENTITY newTabControlled.keepButton.label "Gwok alokaloka">
-<!ENTITY newTabControlled.keepButton.accesskey "G">
-<!ENTITY newTabControlled.disableButton.label "Juk lamed">
-<!ENTITY newTabControlled.disableButton.accesskey "K">
-
-<!ENTITY homepageControlled.message "Lamed mo oloko ngo ma ineno calo potbuk me acakki mamegi. Itwero dwoko ter mamegi kace pe imito alokaloka man.">
-
-<!ENTITY homepageControlled.header.message "Potbukki me acakki oloke oko.">
-<!ENTITY homepageControlled.keepButton.label "Gwok alokaloka">
-<!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "Juk lamed">
-<!ENTITY homepageControlled.disableButton.accesskey "J">
-
-<!ENTITY tabHideControlled.header.message "Nong dirica matino mamegi ma okane">
-<!ENTITY tabHideControlled.keepButton.label "Gwok dirica matino ma okane">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "Juk lamed">
-<!ENTITY tabHideControlled.disableButton.accesskey "K">
-
-<!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
-<!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
-<!ENTITY pageAction.removeFromUrlbar.label "Kwany ki i lanyut me kanonge">
-<!ENTITY pageAction.manageExtension.label "Lo Lamed…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
 

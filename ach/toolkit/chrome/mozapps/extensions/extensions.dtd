@@ -3,73 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Mi tii">
-<!ENTITY cmd.enableAddon.accesskey            "M">
-<!ENTITY cmd.disableAddon.label               "Kwany woko">
-<!ENTITY cmd.disableAddon.accesskey           "K">
-
-<!ENTITY cmd.askToActivate.label              "Peny me cako">
-<!ENTITY cmd.askToActivate.tooltip            "Peny me tic ki med-ikome man">
-<!ENTITY cmd.alwaysActivate.label             "Jwijwi cak">
-<!ENTITY cmd.alwaysActivate.tooltip           "Jwijwi tii ki med-ikome man">
-<!ENTITY cmd.neverActivate.label              "Pe i cak matwal">
-<!ENTITY cmd.neverActivate.tooltip            "Pe i tii ki med-ikome man matwal">
-<!ENTITY cmd.stateMenu.tooltip                "Lokke kace med-ikome man tiyo">
-
-<!ENTITY cmd.uninstallAddon.label             "Kwany woko">
-<!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.showPreferencesWin.label         "Gin ayera">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Lok gin ayera me med-ikome man">
-<!ENTITY cmd.showPreferencesUnix.label        "Ter">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Lok ter me med-ikome man">
-
-<!ENTITY cmd.showReleaseNotes.label           "Nyut Gonyo Coc">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Nyut gonyo coc pi ngec manyen man">
-<!ENTITY cmd.hideReleaseNotes.label           "Kan Gonyo Coc">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Kan gonyo coc pi ngec manyen man">
-<!ENTITY cmd.findReplacement.label            "Nong lale kakare">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Juki">
-
-
-<!ENTITY addon.details.label                  "Mukene">
-<!ENTITY addon.details.tooltip                "Nuyt matut mapol ikom med-ikome man">
-<!ENTITY addon.unknownDate                    "Pe ngene">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(kikwanyo woko)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Ngec manyen">
-<!ENTITY addon.undoAction.label               "Dok cen">
-<!ENTITY addon.undoAction.tooltip             "Dok cen odoco">
-<!ENTITY addon.undoRemove.label               "Dok cen">
-<!ENTITY addon.undoRemove.tooltip             "Gwok med-ikome man ma okete">
-
-<!ENTITY addon.install.label                  "Keti">
-<!ENTITY addon.install.tooltip                "Ket med-ikome man">
-<!ENTITY addon.updateNow.label                "Ket ngec manyen kombedi">
-<!ENTITY addon.updateNow.tooltip              "Ket ngec manyen pi med-ikome man">
-<!ENTITY addon.includeUpdate.label            "Med i ngec manyen">
-<!ENTITY addon.updateAvailable.label          "Ngec manyen tye">
-<!ENTITY addon.checkingForUpdates.label       "Roto pi ngec manyen…">
-<!ENTITY addon.releaseNotes.label             "Gony Coc:">
-<!ENTITY addon.loadingReleaseNotes.label      "Tye ka cano…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Tim wa kica, ento bal otime i cano coc me cwalo woko.">
-
-<!ENTITY addon.createdBy.label                "Ki ">
-
-<!ENTITY settings.path.button.label           "Yabi…">
 
 <!ENTITY setting.learnmore "Nong ngec Mapol…">
 

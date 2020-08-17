@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Gin acoya ma ikwayo pire ni pe nonge kama &brandShortName; ogwoko iye.</p><ul><li>Me gwoke ki i peko, &brandShortName; pe nwoyo kwayo pire kene gin acoyo ma pi gi lit.</li><li>Dii Tem Doki wek i nwo kwayo gin acoya ki i kakube.</li></ul>">
 
 <!ENTITY netOffline.title "Kit mape i wiyamo">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Tem doki. &brandShortName; bi temme me yabo kube ki nwoyo cano potbuk. <button id='wifi'>Cak Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Gin matye iye Tye ka jogo Bal">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>tim ber ikube ki wegi di bar me Web wek i mii gi ngec pi peko man.</li> </ul>">

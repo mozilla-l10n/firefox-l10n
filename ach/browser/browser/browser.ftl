@@ -102,6 +102,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Coo manok, nong mapol: Yeny { $engineName } atir ki ii lanyut me kanonge mamegi.
 urlbar-search-tips-redirect-2 = Cak yeny mamegi ki i lanyut me kanonge me neno tam amia ki bot { $engineName } ki yeny mamegi mukato.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -169,6 +171,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ter calo Injin Yeny Makwongo pi Dirica me Mung
     .accesskey = D
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -254,8 +263,10 @@ popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Yeny onyo ket kanonge
+
 urlbar-placeholder =
     .placeholder = Yeny onyo ket kanonge
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ki tye ka loono layeny ki kama bor
 urlbar-permissions-granted =

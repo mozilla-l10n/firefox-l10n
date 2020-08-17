@@ -35,12 +35,6 @@ connection-proxy-http = Proxy me HTTP
     .accesskey = x
 connection-proxy-http-port = Bur
     .accesskey = P
-connection-proxy-http-share =
-    .label = Tii ki proxy me lapok tic man pi cik me kube weng
-    .accesskey = i
-
-connection-proxy-ssl = Proxy me SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Bur
     .accesskey = o

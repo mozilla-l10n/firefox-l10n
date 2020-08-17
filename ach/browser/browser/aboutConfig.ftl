@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Gwokke!
-about-config-warning-text = Loko ter magi me rwom ma malu twero kelo bal i bedo mot, gwoko kuc, ki tic maber pa purugram man. Omyero I mede keken kacce I ngeyo ngo ma in itye katimo.
-about-config-warning-checkbox = Cwe cwinya doki, tim ber!
-about-config-warning-button = Aye acara ne!
-
-about-config2-title = Ter ma lamal
-
-about-config-search-input =
-    .placeholder = Yeny
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Mede ki Diro
@@ -32,13 +21,6 @@ about-config-page-title = Ter ma lamal
 about-config-search-input1 =
     .placeholder = Yeny nying ter
 about-config-show-all = Nyut weng
-
-about-config-pref-add = Medi
-about-config-pref-toggle = Loki
-about-config-pref-edit = Yubi
-about-config-pref-save = Gwoki
-about-config-pref-reset = Nwo tero
-about-config-pref-delete = Kwany
 
 about-config-pref-add-button =
     .title = Medi

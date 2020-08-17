@@ -14,6 +14,7 @@ pw-erased-ok = I kwanyo woko mung me donyo megi madit.  { pw-empty-warning }
 pw-not-wanted = Cik! In i moko tami pe me tic ki mung me donyo madit. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Kombedi itye i kit FIPS kit. FIPS mito mung me donyo madit mape nono.
+
 pw-change-success-title = Loko mung me donyo otime maber
 pw-change-failed-title = Loko mung me donyo pe olare
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Lok mung me donyo madit
+
 set-password-old-password = Mung me donyo ma kombedi:
 set-password-new-password = Ket mung me donyo manyen:
 set-password-reenter-password = Nwo-keto mung me donyo:
@@ -31,6 +33,7 @@ master-password-warning = Tim ber i poo ikom mung me donyo madit ma i tero.  Ka 
 
 remove-password =
     .title = Kwany woko mung me donyo madit
+
 remove-info =
     .value = Myero i ket mung me donyo matye wek i mede anyim:
 remove-warning1 = Mungi me donyo megi Madit kitiyo kwede me gwoko ngec ma kit calo mung me donyo i di bar.

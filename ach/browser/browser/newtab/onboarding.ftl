@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Nong ngec mapol
-onboarding-button-label-try-now = Tem kombedi
 onboarding-button-label-get-started = Caki
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = Wajoli i { -brand-short-name }
 onboarding-welcome-body = Dong itye ki layeny.<br/>Rwatte ki jami mukene me { -brand-product-name }.
 onboarding-welcome-learn-more = Nong ngec mapol ikom ber ne.
 
-onboarding-join-form-header = Dony iyie { -brand-product-name }
 onboarding-welcome-modal-get-body = Dong itye ki layeny.<br/>Dong nong mapol ki i { -brand-product-name }.
 onboarding-welcome-modal-privacy-body = Dong itye ki layeny. Wek wamed gwoke me mung mapol.
 onboarding-welcome-modal-family-learn-more = Nong ngec mapol ikom dul jami me { -brand-product-name }.
@@ -45,6 +43,13 @@ onboarding-start-browsing-button-label = Cak yeny
 onboarding-cards-dismiss =
     .title = Kwer
     .aria-label = Kwer
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -73,14 +78,7 @@ onboarding-sync-form-sub-header = me mede i { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Jami mabeco
-
 onboarding-benefit-products-text = Tim jami ki dul pa gitic ma woro mung mamegi i nyonyo weng mamegi.
-
-onboarding-benefit-knowledge-title = Ngec me tic
-onboarding-benefit-knowledge-text = Pwony jami weng ma mite ki in me bedo ryek ki maber iwiyamo.
-
-onboarding-benefit-privacy-title = Mung Kikome
 
 
 onboarding-benefit-sync-title = { -sync-brand-short-name }
@@ -97,17 +95,6 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Yeny i mung
-onboarding-private-browsing-text = Yeny piri keni. Yeny i mung ki Lageng Jami gengo lulub kor me iwiyamo ma lubo kor in kaweng i kakube.
-
-onboarding-addons-title = Med-ikome
-onboarding-addons-text = Med jami mapol ma weko { -brand-short-name } tiyo matek piri. Po wel, rot piny kit ma tye kwede onyo nyut kiti ki theme ma iyubo piri.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Yeny oyot, ki ngec, onyo maber ki lamed calo Ghostery, ma weko i gengo kwena cato wil ma cwero yii
-
-onboarding-fxa-text = Coone pi { -fxaccount-brand-name } ka i rib alamabuk, mung me donyo, ki yab dirica matino i kabedo mo keken ma itiyo ki { -brand-short-name }.
 
 onboarding-tracking-protection-title2 = Gwokke ikom lubo kor
 onboarding-tracking-protection-text2 = { -brand-short-name } konyo me juko kakube ikom lubo kori iwiyamo, weko bedo tek tutwal ki kwena cato wil me lubo kori i kakube.
@@ -130,18 +117,11 @@ onboarding-mobile-phone-text = GAm { -brand-product-name } pi iOS onyo Android k
 
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Send Tabs nywako cut potbukke ikin nyonyo mamegi labongo mite me loko mwono, onyo weko layeny.
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
 onboarding-send-tabs-text2 = Nywak iyoo mayot potbukke ikin nyonyo mamegi labongo mite me loko kakube onyo weko layeny.
 onboarding-send-tabs-button = Cak tic ki Send Tabs
 
 onboarding-pocket-anywhere-title = Kwan ki Winy Ka mo keken
 onboarding-pocket-anywhere-button = Tem { -pocket-brand-name }
-
-onboarding-lockwise-passwords-title = Wot ki mung me donyo mamegi ka mo keken
-onboarding-lockwise-passwords-text2 = Gwok mung me donyo ma igwoko gi maber ki dony mayot iyie akaunt mamegi ki { -lockwise-brand-name }.
-onboarding-lockwise-passwords-button2 = Nong purugram ne
 
 onboarding-lockwise-strong-passwords-button = Lo Donyo iyie Mamegi
 

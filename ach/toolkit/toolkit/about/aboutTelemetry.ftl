@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Nong kama data oa iye:
-about-telemetry-show-current-ping-data = Data pi nong ma kombedi
 about-telemetry-show-archived-ping-data = Data me nong ma okato
 about-telemetry-show-subsession-data = Nyut data me but kare
 about-telemetry-choose-ping = Yer nong:

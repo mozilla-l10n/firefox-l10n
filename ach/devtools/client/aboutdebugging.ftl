@@ -141,6 +141,3 @@ about-debugging-tmp-extension-install-message = Yer pwail me manifest.json onyo 
 about-debugging-extension-location =
     .label = Kabedo
 
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = Caki
-

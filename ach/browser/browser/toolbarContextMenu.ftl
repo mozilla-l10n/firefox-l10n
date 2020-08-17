@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Yer dirica matino weng
     .accesskey = Y
-toolbar-context-menu-undo-close-tab =
-    .label = Gony loro dirica matidi
-    .accesskey = G
 
 toolbar-context-menu-manage-extension =
     .label = Lo Lamed
