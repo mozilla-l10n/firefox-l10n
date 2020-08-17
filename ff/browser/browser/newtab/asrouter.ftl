@@ -217,3 +217,12 @@ cfr-whatsnew-passwords-icon-alt = Maandel coktirgal finnde yaafnde
 
 cfr-whatsnew-pip-fullscreen-header = Ƴettu njaajeendi yaynirde natal-nder-natal
 cfr-whatsnew-pip-fullscreen-icon-alt = Maandel natal-nder-natal
+
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

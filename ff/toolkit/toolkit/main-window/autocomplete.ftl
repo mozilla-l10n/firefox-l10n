@@ -12,5 +12,10 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">jiggo seŋorde maa e { $browser }
     <div data-l10n-name="line2">ngam { $host } e lowe goɗɗe</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Ɓeydu humpito

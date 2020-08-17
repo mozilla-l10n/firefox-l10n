@@ -14,6 +14,7 @@ pw-erased-ok = A momtii Finnde Baabaare maa.  { pw-empty-warning }
 pw-not-wanted = Reentino! A suɓiima waasde huutoraade Finnde Baabaare. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Ngon-ɗaa ɗoo ko e mbayka FIPS. Mbayka FIPS ena naamnii Finnde Baabaare nde ɓolɗaani.
+
 pw-change-success-title = Baylugol Finnde Moƴƴii
 pw-change-failed-title = Baylugol Finnde Woorii
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Waylu Finnde Baabaare
+
 set-password-old-password = Finnde woodnde:
 set-password-new-password = Naatnu finnde hesere:
 set-password-reenter-password = Naatnu kadi finnde:
@@ -31,6 +33,7 @@ master-password-warning = Tiiɗno ƴeew so maa siiftor Finnde Baabaare cuɓi-ɗa
 
 remove-password =
     .title = Momtu Finnde Baabaare
+
 remove-info =
     .value = Maa naatnaa finnde maa jooni ndee nde njokkaa:
 remove-warning1 = Finnde Baabaare maa huutortee ngam suurde humpito maa hulanaango hono finndeeji lowe.

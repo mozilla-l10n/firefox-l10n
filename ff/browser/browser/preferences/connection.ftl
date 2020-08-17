@@ -35,12 +35,6 @@ connection-proxy-http = HTTP Poroksi
     .accesskey = x
 connection-proxy-http-port = Seŋorde
     .accesskey = P
-connection-proxy-http-share =
-    .label = Huutoro ndee sarworde proxy e jaɓɓitore fof
-    .accesskey = u
-
-connection-proxy-ssl = SSL Poroksi
-    .accesskey = L
 
 connection-proxy-ssl-port = Seŋorde
     .accesskey = o

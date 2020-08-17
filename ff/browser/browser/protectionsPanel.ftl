@@ -45,7 +45,6 @@ protections-panel-not-blocking-label = Yamiraama
 ##
 
 protections-panel-settings-label = Teelte Ndeenka
-protections-panel-showreport-label = Hollu jaŋtol
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

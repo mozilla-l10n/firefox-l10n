@@ -73,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Njiilotoɗaa ko ceŋorɗe maa danndaaɗe? Teelto { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Alaa ceŋorɗe jahdinaaɗe njiytaa.
 login-intro-description = So a danndii ceŋorɗe maa e { -brand-product-name } e kaɓirgal goɗngal, ko nii keɓirtaaɗe ɗoo:
 login-intro-instruction-fxa = Sos walla seŋo e { -fxaccount-brand-name } maa e kaɓirgal ngal ɗo ceŋorɗe maa ndanndaa
@@ -134,6 +135,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Natto finnde danndaan
 ## Master Password notification
 
 master-password-notification-message = Tiiɗno naatnu finnde maa dowrowre ngam yiyde ceŋorɗe danndaaɗe & pinle
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Seŋo
     .accesskey = S
@@ -202,4 +206,6 @@ about-logins-error-message-default = Juumre waɗii tuma etagol danndude ndee fin
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

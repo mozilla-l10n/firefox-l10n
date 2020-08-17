@@ -4,10 +4,6 @@
 
 process-type-web = Loowdi Geese
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Loowdi towaandi
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Towaandi baɗte

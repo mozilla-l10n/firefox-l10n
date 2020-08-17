@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-config-warning-text = Waylude ɗee teelte ceeɓtore ena waawi addude caɗeele jamɗugol, kisal e jaawgol ngal jaaɓnirgal. Pot-ɗaa jokkude tan ko so tawii aɗa yenanaa aɗa anndi ko mbaɗataa koo.
-about-config-warning-checkbox = Seknam kadi, tiiɗno!
-about-config-warning-button = Mi jaɓii jeemaade!
-
-about-config2-title = Teelte lugge
-
-about-config-search-input =
-    .placeholder = Yiylo
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Yahru seese
@@ -28,13 +19,6 @@ about-config-page-title = Cuɓoraaɗe ceeɓtore
 about-config-search-input1 =
     .placeholder = Yiylo innde cuɓoraaɗe
 about-config-show-all = Hollu Fof
-
-about-config-pref-add = Ɓeydu
-about-config-pref-toggle = Toggilo
-about-config-pref-edit = Taƴto
-about-config-pref-save = Danndu
-about-config-pref-reset = Firlit
-about-config-pref-delete = Momtu
 
 about-config-pref-add-button =
     .title = Ɓeydu

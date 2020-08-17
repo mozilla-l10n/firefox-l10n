@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li></ul>">
 
 <!ENTITY netOffline.title "Mbaydi ceŋtol">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Fuɗɗito. &brandShortName; maa eto seŋaade ngam loowde hello ngoo kadi. <button id='wifi'>Hurmin WiFi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Juumre Dokkitannde Loowdi">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> </ul>">

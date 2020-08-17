@@ -7,13 +7,6 @@ do-not-track-learn-more = Ɓeydu humpito
 do-not-track-option-always =
     .label = Sahaa kala
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Cuɓe
-           *[other] Cuɓoraaɗe
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Cuɓe
@@ -439,16 +432,6 @@ update-application-use-service =
     .label = Huutoro carwol cakkitol ngam aafde kesɗitine
     .accesskey = c
 
-update-enable-search-update =
-    .label = Hesɗitin jiylorɗe e jaajol
-    .accesskey = l
-
-update-pref-write-failure-title = Gallugol binndol
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Daɗndugol cuɓaaɗe aaɓnotaako. Binndol aaɓnotaako nder fiilde:{ $path }
-
 update-setting-write-failure-title = Juumre e danndugol cuɓoraaɗe kesɗitine
 
 update-in-progress-message = Aɗa yiɗiɗ { -brand-short-name } jokka e ɗee kesɗitine?
@@ -596,7 +579,6 @@ home-prefs-topsites-description = Lowe ɗe ɓurɗaa waawde yillaade
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Waggini ɗum ko { $provider }
-home-prefs-recommended-by-description = Loowdi dowrowri geese, keertinanaandi ma
 ##
 
 home-prefs-recommended-by-learn-more = Hol no gollortoo
@@ -638,7 +620,6 @@ search-bar-shown =
     .label = Ɓeydu palal njiilaw e palal kuutorɗe
 
 search-engine-default-header = Yiylorde Woowaande
-search-engine-default-desc = Suɓo yiylorde woowaande ngam huutoraade e palal ñiiɓirɗe e yiylorde.
 
 search-suggestions-header = Yiylo wasiyaaji
 
@@ -689,8 +670,6 @@ search-keyword-warning-bookmark = A suɓiima helmere yiylorde wonnde e huutoreed
 
 ## Containers Section
 
-containers-back-link = « Rutto Caggal
-
 containers-back-button =
     .aria-label =
         { PLATFORM() ->
@@ -720,14 +699,6 @@ containers-remove-button =
 sync-signedout-caption = Nawor Geesa Maa
 sync-signedout-description = Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.
 
-sync-signedout-account-title = Seŋoro { -fxaccount-brand-name }
-sync-signedout-account-create = A alaa konte? Fuɗɗo jooni
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = Seŋo…
-    .accesskey = I
-
 sync-signedout-account-signin2 =
     .label = Seŋo e { -sync-brand-short-name }…
     .accesskey = e
@@ -750,10 +721,6 @@ sync-mobile-promo = Aawto Firefox mo <img data-l10n-name="android-icon"/> <a dat
 sync-profile-picture =
     .tooltiptext = Waylu natal heftinirde
 
-sync-disconnect =
-    .label = Seŋtondir…
-    .accesskey = d
-
 sync-sign-out =
     .label = Seŋto…
     .accesskey = ŋ
@@ -775,9 +742,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Seŋao
     .accesskey = g
-
-sync-signedin-settings-header = Yahdin teelte
-sync-signedin-settings-desc = Suɓo ko pot-ɗaa yahdinde nder kaɓirɗi maa kuutortookon { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -818,11 +782,6 @@ sync-engine-tabs =
     .label = Uddit tabbe
     .tooltiptext = Doggol ko udditii e masiŋaaji maa jahdinaaɗi fof
     .accesskey = N
-
-sync-engine-logins =
-    .label = Ceŋorɗe
-    .tooltiptext = Inle kuutoro kam e finndeeji ɗi dannduɗaa
-    .accesskey = C
 
 sync-engine-logins-passwords =
     .label = Ceŋorɗe e pinle
@@ -871,20 +830,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Seŋ kaɓirgol goɗngol
 
-sync-manage-devices = Toppito kaɓirɗe
-
-sync-tos-link = Laabi Carwol
-
-sync-fxa-privacy-notice = Tintinol Suturo
-
 ## Privacy Section
 
 privacy-header = Suturo Wanngorde
 
 ## Privacy Section - Forms
 
-
-logins-header = Ceŋorɗe & Pinle
 
 ## Privacy Section - Logins and Passwords
 
@@ -912,6 +863,7 @@ forms-master-pw-change =
     .accesskey = B
 
 forms-master-pw-fips-title = Ngon-ɗaa ɗoo ko e mbayka FIPS. Mbayka FIPS ena naamnii Finnde Baabaare nde ɓolɗaani.
+
 forms-master-pw-fips-desc = Baylugol Finnde Woorii
 
 ## OS Authentication dialog
@@ -998,9 +950,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Sifaa paddaaɗo
     .accesskey = S
 
-sitedata-option-block-trackers =
-    .label = Rewindotooɓe woɗɓe
-
 sitedata-option-block-cross-site-trackers =
     .label = Rewindotooɓe hakkunde lowe
 
@@ -1031,8 +980,6 @@ addressbar-locbar-openpage-option =
 addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
 ## Privacy Section - Content Blocking
-
-content-blocking-header = Paddagol loowdi
 
 content-blocking-learn-more = Ɓeydu humpito
 
@@ -1075,10 +1022,6 @@ permissions-notification-link = Ɓeydu humpito
 permissions-notification-pause =
     .label = Dartin tintine haa { -brand-short-name } hurmitii
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = Paltooje...
-    .accesskey = E
 
 permissions-block-popups =
     .label = Falo kenorɗe cuppitte
@@ -1202,6 +1145,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } ina ŋakkiraa boowal mbeɗu. Loowdi lowre ndee waawaa hollireede no feewiri. Yillo "Ɓeydude Humpito" ngam ittinde kuutoragol mbeɗu maa ngam humpito moƴƴo banngagol.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

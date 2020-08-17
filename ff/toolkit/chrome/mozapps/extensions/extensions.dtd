@@ -3,73 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Daaƴtu">
-<!ENTITY cmd.enableAddon.accesskey            "D">
-<!ENTITY cmd.disableAddon.label               "Daaƴ">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "Naamno ngam Hurminde">
-<!ENTITY cmd.askToActivate.tooltip            "Naamndo ngam huutoraade ndee seŋre saha kala">
-<!ENTITY cmd.alwaysActivate.label             "Hurminat sahaa kala">
-<!ENTITY cmd.alwaysActivate.tooltip           "Huutoto ndee seŋre sahaa kala">
-<!ENTITY cmd.neverActivate.label              "Hoto Hurminat">
-<!ENTITY cmd.neverActivate.tooltip            "Hoto huutoro ndee seŋre hay sahaa">
-<!ENTITY cmd.stateMenu.tooltip                "Waylu so ndee seŋre hurmii">
-
-<!ENTITY cmd.uninstallAddon.label             "Ittu">
-<!ENTITY cmd.uninstallAddon.accesskey         "I">
-<!ENTITY cmd.showPreferencesWin.label         "Cuɓe">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Waylu cuɓe ngal ɓeydital">
-<!ENTITY cmd.showPreferencesUnix.label        "Cuɓoraaɗe">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Waylu cuɓoraaɗe ngal ɓeydital">
-
-<!ENTITY cmd.showReleaseNotes.label           "Hollu Konngol Bayyinol">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Hollu konngol bayyinol ngal ɓeydital">
-<!ENTITY cmd.hideReleaseNotes.label           "Suuɗ Konngol Bayyinol">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Suuɗ konngol bayyinol ngal ɓeydital">
-<!ENTITY cmd.findReplacement.label            "Yiytu Lomto">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Haaytu">
-
-
-<!ENTITY addon.details.label                  "Teelte goɗɗe">
-<!ENTITY addon.details.tooltip                "Hollu teelɗe goɗɗe baɗte ngal ɓeydital">
-<!ENTITY addon.unknownDate                    "Anndaaka">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(ko ko daaƴaa)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Hesɗitin">
-<!ENTITY addon.undoAction.label               "Firtu">
-<!ENTITY addon.undoAction.tooltip             "Firtu ngal baɗal">
-<!ENTITY addon.undoRemove.label               "Firtu">
-<!ENTITY addon.undoRemove.tooltip             "Woppu ngal ɓeydital ɗo aafii ɗoo">
-
-<!ENTITY addon.install.label                  "Aaf">
-<!ENTITY addon.install.tooltip                "Aaf ngal ɓeydital">
-<!ENTITY addon.updateNow.label                "Hesɗitin Jooni">
-<!ENTITY addon.updateNow.tooltip              "LoAaf ow kesɗitinal ngal ɓeydital">
-<!ENTITY addon.includeUpdate.label            "Waɗor e kesɗitinal">
-<!ENTITY addon.updateAvailable.label          "Kesɗitinal ena woodi">
-<!ENTITY addon.checkingForUpdates.label       "Nana yiyloo kesɗitine…">
-<!ENTITY addon.releaseNotes.label             "Konngol Bayyinol:">
-<!ENTITY addon.loadingReleaseNotes.label      "Nana loowa…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ɗaccu hakke, kono waɗii juumre e loowgol konngol bayyinol.">
-
-<!ENTITY addon.createdBy.label                "Waɗi ko ">
-
-<!ENTITY settings.path.button.label           "Weɗɗit…">
 
 <!ENTITY setting.learnmore "Ɓeydu Humpito…">
 

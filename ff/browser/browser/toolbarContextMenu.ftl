@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Suɓo tabbe ɗee fof
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Firtu Uddol Tabbere
-    .accesskey = F
 
 toolbar-context-menu-manage-extension =
     .label = Toppito Jokkel

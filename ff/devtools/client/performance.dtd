@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Innde e nokku iwdi gollal jubbitaangal ngal.">
 <!ENTITY performanceUI.table.totalAlloc               "Kuuɓal Taƴne Jubbitaaɗe">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Kuuɓal taƴne geɗe jubbitaaɗe e oo nokku e nder noddirgon.">
-<!ENTITY performanceUI.table.selfAlloc                "Taƴne Jubbit-ɗe Koye mum en">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Keeweendi taƴne geɗe jubbitaaɗe e oo nokku.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

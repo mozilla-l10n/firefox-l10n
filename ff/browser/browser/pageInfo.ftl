@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Danndu e Innde…
     .accesskey = e
-media-preview =
-    .value = Jiytindagol Mejaare:
 
 perm-tab =
     .label = Jamirooje
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Eey, kuukiije
 security-site-data-no = Alaa
 
 image-size-unknown = Anndaaka
-not-set-verified-by = Laɓɓinaaka
 page-info-not-specified =
     .value = Laɓɓinaaka
 not-set-alternative-text = Laɓɓinaaka
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Mbayka Quirks
 general-strict-mode =
     .value = Mbayka ɗooftagol nanondiraaɗe
-security-no-owner = Ndee lowre geese hokkataa humpito jeyal.
 page-info-security-no-owner =
     .value = Ndee lowre geese hokkataa humpito jeyal.
 media-select-folder = Labo Runngere ngam Danndude Nate ɗee
