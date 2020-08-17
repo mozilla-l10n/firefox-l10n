@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "जिलिञ ञुतुम"> 
-<!ENTITY message.label    "तिनाक् गान ओनोल ना़मुना नोडे चालाक् आ.">
-
 <!ENTITY editfield0.label "का़मी यिजाक् ञुतुम"> 
 <!ENTITY editfield1.label "दानाङ साबाद :"> 
-<!ENTITY checkbox.label   "सुही ञेल"> 
 <!ENTITY copyCmd.label    "नोकोल">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "जोतो बाछाव">

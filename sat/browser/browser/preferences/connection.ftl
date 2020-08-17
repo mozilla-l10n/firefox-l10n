@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = नोवा नेटवार्क ला़गित् आच् ते -पानते एड़े साजाव को .
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = जोतो गापाते ला़गित् नोवा एड़े ते सार्बार बेभार मे
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

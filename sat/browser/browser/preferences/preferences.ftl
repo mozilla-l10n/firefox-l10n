@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] आपनार मोने तेयाक् को
-           *[other] कुसियाक् को
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] आपनार मोने तेयाक् को
@@ -299,10 +292,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = का़मी नियोम को
-
-sync-fxa-privacy-notice = निजेराक् इतला़य
-
 ## Privacy Section
 
 
@@ -323,6 +312,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = आम नितोक्  FIPS  ओबोसता रे मेनामा. FIPS लागित मित् बाङ एकेनाक् मुल साबाद लाकती आ.
+
 forms-master-pw-fips-desc = दानाङ साबाद बोदोल डिगा़वेना.
 
 ## OS Authentication dialog
@@ -404,6 +394,8 @@ certs-header = पोरमान साकाम को
 certs-enable-ocsp =
     .label = पोरमान साकाम रेयाक् नितोगाक् बाताव एम निसेटाय ला़गित् कुकाली OCSP रोड़रुवा़ड़यिजाक् सार्बार
     .accesskey = Q
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "उसरा़व होचो">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "बाङ हुय होचो">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "चोगोड़ ला़गित् कुली">
-<!ENTITY cmd.askToActivate.tooltip            "जोतो ओकतो नोवा एड- ऑन बेभार ला़गित् कुली मेया .">
-<!ENTITY cmd.alwaysActivate.label             "जावगे चोगोड़ मे">
-<!ENTITY cmd.alwaysActivate.tooltip           "नोवा एड-ऑन जावगे बेभार मे">
-<!ENTITY cmd.neverActivate.label              "तिस हों आलोम चोगोड़ा">
-<!ENTITY cmd.neverActivate.tooltip            "नोवा एड-ऑन तिस हों आलोम बेभारा">
-<!ENTITY cmd.stateMenu.tooltip                "नोवा एड-ऑन चालाक् जोहोक् बोदोल मे">
-
-<!ENTITY cmd.uninstallAddon.label             "ओचोक्">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "आपनार मोने तेयाक् को">
-<!ENTITY cmd.showPreferencesWin.tooltip       "नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में ">
-<!ENTITY cmd.showPreferencesUnix.label        "कुसियाक् को">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "नोवा एड-ऑनस रेयाक् कुसियाक् को ">
-
-<!ENTITY cmd.showReleaseNotes.label           "उछा़न खाटो ओल उदुक्">
-<!ENTITY cmd.showReleaseNotes.tooltip         "नोवा हा़ली ला़गित् उछा़न खाटो ओल उदुग मे">
-<!ENTITY cmd.hideReleaseNotes.label           "उछान खाटो ओल को उकुय मे">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "नोवा हा़ली ला़गित् खाटो ओल को उकुय मे">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,13 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "बा़डरा़">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "ढेर">
-<!ENTITY addon.details.tooltip                "नोवा एड-ऑन बाबोत ते ढेर बिबरोन को उदुग में">
-<!ENTITY addon.unknownDate                    "बाङ बाडायाक्">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(बाङ हुय होचोवाक्)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "हा़ली होचो">
-<!ENTITY addon.undoAction.label               "माड़ाङ लेका झिज मे">
-<!ENTITY addon.undoAction.tooltip             "नोवा का़मी माड़ाङ लेका झिज मे">
-<!ENTITY addon.undoRemove.label               "माड़ाङ लेका झिज मे">
-<!ENTITY addon.undoRemove.tooltip             "नोवा एड-ऑन बो़हाल दोहोय मे">
 
-<!ENTITY addon.install.label                  "बो़हाल में">
-<!ENTITY addon.install.tooltip                "नोवा एड-ऑन बोहाल मे">
-<!ENTITY addon.updateNow.label                "नित् हा़ली मे">
-<!ENTITY addon.updateNow.tooltip              "नोवा एड-ऑन ला़गित् हा़ली बो़हाल में">
-<!ENTITY addon.includeUpdate.label            "हा़ली रे मेसाय में">
-<!ENTITY addon.updateAvailable.label          "मित् हा़लियाक् ञामोक आ">
-<!ENTITY addon.checkingForUpdates.label       "हा़लियाक् को ला़गित् तेंघानेक आ…">
-<!ENTITY addon.releaseNotes.label             "खाटो ओल को उछा़न मे:">
-<!ENTITY addon.loadingReleaseNotes.label      "लादेयेक् आ…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "इका़यिञ मे, मेनखान ओंडे मित् उछा़न खाटो ओल लादे रे भुल ताहें काना .">
-
-<!ENTITY addon.createdBy.label                "दाराय ते ">
-
-<!ENTITY settings.path.button.label           "पानते…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

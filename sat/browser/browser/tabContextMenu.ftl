@@ -20,6 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = नावा विंडो रे चालाव
     .accesskey = W
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = टैव बोनदोय मे
     .accesskey = C

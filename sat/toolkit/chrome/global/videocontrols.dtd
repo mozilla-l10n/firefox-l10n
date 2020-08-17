@@ -11,19 +11,6 @@
 <!ENTITY castingButton.castingLabel "Cast to Screen">
 
 
-<!ENTITY stats.media "मिडिया">
-<!ENTITY stats.size "माराङ तेत्">
-<!ENTITY stats.activity "चोगोड़">
-<!ENTITY stats.activityPaused "तिंगु लेना">
-<!ENTITY stats.activityPlaying "खिलोंड़  काना">
-<!ENTITY stats.activityEnded "मुचा़त् आकाना">
-<!ENTITY stats.activitySeeking "(पानतेयेत् अ)">
-<!ENTITY stats.volume "रा़रु">
-<!ENTITY stats.framesParsed "साज को बेयान आकाना">
-<!ENTITY stats.framesDecoded "साज चिनहा़ आखोर पुसटा़व">
-<!ENTITY stats.framesPresented "साज उदुक् लेना">
-<!ENTITY stats.framesPainted "साज चिता़र ते उदुक्">
-
 <!ENTITY error.aborted "मिडियो लादे तिंगुयेना.">
 <!ENTITY error.network "मिडियो खेलोंड रुवा़ड़ मित् नेटवार्क भुल कारोन ते आड़ाक् होचो केत् आ .">
 <!ENTITY error.decode "मिडियो बाङ खेलोंड होचो दाड़ेयाक् आ चेदाक् जे रेत् रा़पुद गेया .">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 of #2 रेयाक् पारोम तेत्">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

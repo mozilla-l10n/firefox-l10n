@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "हुड़िञ उता़र तेयार">
-<!ENTITY bringAllToFront.label    "जोतो सामाङ रे आ़गु.">
-<!ENTITY zoomWindow.label         "हुडिञ ला़टु तेयार">
-<!ENTITY windowMenu.label         "विंडो">
-
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
@@ -16,28 +10,7 @@
 
 
 
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "का़ठी बोर्ड काटो तेयार">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …">
-<!ENTITY helpSafeMode.accesskey   "R">
-
-
-
-
-
-<!ENTITY helpTroubleshootingInfo.label      "दिगधा़ हुयुगाक् ला़य सोदोर">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "फिडबैक जोमा एम …">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-
-
 <!ENTITY preferencesCmdMac.label        "कुसियाक् को…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "का़मी को">
 

@@ -14,6 +14,7 @@ pw-erased-ok = आम आमाक् मुल दानाङ साबाद 
 pw-not-wanted = होंसिया़र ! आम मुल दानाङ साबाद बाङ बेभारेम गोटा आकात् आ. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = आम नितोक्  FIPS  ओबोसता रे मेनामा. FIPS लागित मित् बाङ एकेनाक् मुल साबाद लाकती आ.
+
 pw-change-success-title = दानाङ साबाद बोदोल रा़स लेकाते हुयेना.
 pw-change-failed-title = दानाङ साबाद बोदोल डिगा़वेना.
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = मुल दानाङ साबाद बोदोल
+
 set-password-old-password = नितोगाक् दानाङ साबाद :
 set-password-new-password = नावा दानाङ साबाद आदेर:
 set-password-reenter-password = दानाङ साबाद दोहड़ा आदेर
@@ -31,6 +33,7 @@ master-password-warning = आम गोटाय मे जे आम मुल 
 
 remove-password =
     .title = मुल दानाङ साबाद ओचोग मे
+
 remove-info =
     .value = आम माड़ाङ सेत् चालाक् ला़गित् आमाक् दानाङ साबाद आदेर होचो ला़कती:
 remove-warning1 = आमाक् मुल दानाङ साबाद साइट दानाङ साबाद लेका भेदावाक् खोबोर आड ला़गित् बेभारा.

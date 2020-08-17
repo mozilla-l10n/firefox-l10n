@@ -10,9 +10,6 @@ addons-page-title = एड-ऑनस बेबोसतायिच्
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = लादेयेक् आ…
-
 list-empty-installed =
     .value = आम ठेन नोवा लेकान बोहालाक्  रेयाक्  जाहान एड-ऑनस बा़नुक् आ
 
@@ -27,13 +24,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = खोंजा-आदेर बाबोत् बाड़ती चेद मे
-
-install-addon-from-file =
-    .label = रेत् खोन एड-ऑन बो़हाल मे…
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = जोतो एड-ऑनस ला़गित् टुल्स को
 
 cmd-show-details =
     .label = ढेर ला़य सोदोर को उदुग मे
@@ -71,12 +61,6 @@ cmd-contribute =
     .label = एनेम
     .accesskey = C
     .tooltiptext = नोवा एड-ऑन रेयाक् लाहा़नती रे एनेम
-
-discover-title = एड-ऑन दो चेत् काना ?
-
-discover-description = एड -ऑन दो एपलिकेसोन काना ओका आम  निजेराक् ए तेयार होचो आमा  { -brand-short-name } सांव  बाड़तीयाक् का़मी तेत् आर हुना़र. मित् ओकतो-सांचाव धारे बार कुरुमुटु मे, मित् होय हिसित् उदुगाक्, आर बाङ मित् उनुयहा़र तेयार लेका ञेलोक्  { -brand-short-name } आमाक् निजेर.
-
-discover-footer = तिन रे आम इन्टारनेट रेम जोड़ाव कोक् आ, नोवा फांक दो गुन  तिना़क् गान बेस आर आम कुरुमुटु होचो ला़गित् आ़डी ञुतुमाक् एड-ऑन ताहेंना .
 
 detail-version =
     .label = बार्सान
@@ -141,14 +125,6 @@ detail-rating =
 addon-restart-now =
     .label = नित दोहड़ा एहोब मे
 
-extensions-view-recent-updates =
-    .name = नितोक् हा़लियाक् को
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = हा़लियाक् को ञामोक् आ
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = पासनाव को
 addon-category-extension-title =
     .title = पासनाव को
@@ -170,29 +146,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = जोतो एड-ऑनस जा़पती ओबोसता दाराय ते बाङ हुय होचो आकाना.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = एड- ऑन सोंगोताक् ञेल ञेल दो बाय हुय होचो आकाना.आम एड -ऑन बाङ सोंगगोत हुय दाड़ेयाक् .
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = हुय होचो
-    .tooltiptext = हुय होचो तेयार एड-ऑन सोंगोत ए ञेलेत् आ
-
-extensions-warning-update-security-label =
-    .value = एड-ऑन आ़पती ञेल दो बाङ हुय होचो बाकाना . आम हा़ली को दाराय ते सुला़नामा दाड़ेयाक् आ .
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = हुय होचो
-    .tooltiptext = एड-ऑन हा़ली ञेंल हुय होचो तेयार में
-
 extensions-warning-safe-mode = जोतो एड-ऑनस जा़पती ओबोसता दाराय ते बाङ हुय होचो आकाना.
 extensions-warning-check-compatibility = एड- ऑन सोंगोताक् ञेल ञेल दो बाय हुय होचो आकाना.आम एड -ऑन बाङ सोंगगोत हुय दाड़ेयाक् .
 extensions-warning-check-compatibility-button = हुय होचो
@@ -204,14 +157,6 @@ extensions-warning-update-security-button = हुय होचो
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = हा़लियाक् को ला़गित् तेंघान
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = नितोक् हा़लियाक् को ञेल मे
-    .accesskey = V
-
 addon-updates-check-for-updates = हा़लियाक् को ला़गित् तेंघान
     .accesskey = C
 addon-updates-view-updates = नितोक् हा़लियाक् को ञेल मे
@@ -219,10 +164,6 @@ addon-updates-view-updates = नितोक् हा़लियाक् क�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = एड-ऑनस आच् आच् ते हा़ली मे
-    .accesskey = A
 
 addon-updates-update-addons-automatically = एड-ऑनस आच् आच् ते हा़ली मे
     .accesskey = A
@@ -233,36 +174,12 @@ addon-updates-update-addons-automatically = एड-ऑनस आच् आच्
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में
     .accesskey = R
 addon-updates-reset-updates-to-manual = जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = एड ऑन को हा़ली येत् आ.
-extensions-updates-installed =
-    .value = आमाक् सहा़ली आकाना.
-extensions-updates-downloaded =
-    .value = आमाक् एड-ऑन हा़लियाक् को आ़तुर आंड़गो होचो आकाना.
-extensions-updates-restart =
-    .label = बो़हाल पुरा़व ला़गित् नितोक् दोहड़ा एहोब मे
-extensions-updates-none-found =
-    .value = जाहान हा़लियाक् को बाय ञाम लेना
-extensions-updates-manual-updates-found =
-    .label = ञामोक् हा़लियाक् को ञेंल मे
-extensions-updates-update-selected =
-    .label = हा़लियाक् को बो़हाल मे
-    .tooltiptext = नोवा लिसटी रे ञामोक् हा़लियाक् को बो़हाल मे
 
 addon-updates-updating = एड ऑन को हा़ली येत् आ.
 addon-updates-installed = आमाक् सहा़ली आकाना.

@@ -62,8 +62,6 @@
   -  logo.
   -->
 
-<!ENTITY translation.options.attribution.beforeLogo "दाराय ते तोरजोमा.">
-<!ENTITY translation.options.attribution.afterLogo "">
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

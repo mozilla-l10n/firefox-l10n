@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "रेत् बाछाव…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "नोवा साइड बाबोत ते हिंड़िग मे">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  " झिच्">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           " मित् नावा विंडो रे झिज मे .">
-<!ENTITY cmd.open_window.accesskey       "N">
-
-
-<!ENTITY cmd.open_tab.label              "मित् नावा टेब रे झिज मे ">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "टेब रे जोतो  झिज मे">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      " गुन को">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              " ञुतुम दाराय ते झिज  मे">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "नावा पुथी चिनहा़…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "नावा पोटोम …">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "नावा भेगार होचो">
-<!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY col.name.label          "ञुतुम">
 <!ENTITY col.tags.label          "तोल को ">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "मित् जिनिस आर ओना रेयाक् गुन को ञेल आर सासापड़ाव ला़गित् बाछाव मे  .">
 
-<!ENTITY view.label               "ञेल मे">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "मा़हित् दाराय ते ">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "साइड दाराय ते .">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "आ़डी ढेर ञेल दाराय ते ">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      " मुचा़द ञेल दाराय ते.">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "मा़हित् आर साइट दाराय ते ">
-<!ENTITY byDayAndSite.accesskey   "t">

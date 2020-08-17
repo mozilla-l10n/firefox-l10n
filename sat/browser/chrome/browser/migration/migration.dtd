@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "आपनार मोने तेयाक् आ़गू,  पुथी चिनहा़ को, हिता़ल, दानाङ साबाद को आर एटागाक् डाटा खोन">
 <!ENTITY importFromUnix.label           "कुसियाक् को आ़गू,  पुथी चिनहा़ को, हिता़ल, दानाङ साबाद को आर एटागाक् डाटा खोन:">
-<!ENTITY importFromBookmarks.label      "खोन पुथी चिनहा़ को आ़गु :">
 
 <!ENTITY importFromIE.label             "माइक्रो सोफ्ट इनटार नेट एक्सपोलोरार ">
 <!ENTITY importFromIE.accesskey         "M">
