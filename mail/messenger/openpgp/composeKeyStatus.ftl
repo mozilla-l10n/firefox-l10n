@@ -11,3 +11,6 @@ openpgp-compose-key-status-recipient =
 openpgp-compose-key-status-status =
     .label = 상태
 openpgp-compose-key-status-open-details = 선택한 수신자의 키 관리…
+openpgp-recip-good = 확인
+openpgp-recip-missing = 사용 가능한 키 없음
+openpgp-recip-none-accepted = 허용 된 키 없음
