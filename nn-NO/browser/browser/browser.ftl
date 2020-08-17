@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privat nettlesing)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privat nettlesing)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privat nettlesing)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privat nettlesing)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Du har blokkert MIDI-tilgang for denne nettsida.
 urlbar-install-blocked =
     .tooltiptext = Du har blokkert installasjon av utvidingar for denne nettstaden.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Rediger dette bokmerket ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Søk ein gong med:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Endre søkjeinnstillingar
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Endre søkjeinnstillingar
-
 search-one-offs-context-open-new-tab =
     .label = Søk i ny fane
     .accesskey = ø
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Vel som standard søkjemotor for private vindauge
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Vis redigerar ved lagring
     .accesskey = V
-
 bookmark-panel-done-button =
     .label = Ferdig
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = Mikrofon som vert delt:
     .accesskey = M
 popup-all-windows-shared = Alle synlege vindauge på skjermen vil bli delte.
-
 popup-screen-sharing-not-now =
     .label = Ikkje no
     .accesskey = n
-
 popup-screen-sharing-never =
     .label = Tillat aldri
     .accesskey = a
-
 popup-silence-notifications-checkbox = Deaktiver varsel frå { -brand-short-name } medan du deler
 popup-silence-notifications-checkbox-warning = { -brand-short-name } vil ikkje vise varsel medan du deler.
 
@@ -326,17 +314,42 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = For å bruke F12-snarvegen, må du først opne DevTools via menyen for Nettsideutvikling
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Søk eller skriv inn ei adresse
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Søk eller skriv inn ei adresse
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Søk på nettet
+    .aria-label = Søk med { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Skriv inn søketekst
+    .aria-label = Søk { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Skriv inn søketekst
+    .aria-label = Søk i bokmerke
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Skriv inn søketekst
+    .aria-label = Søk i historikk
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Skriv inn søketekst
+    .aria-label = Søk i faner
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -347,11 +360,9 @@ urlbar-permissions-granted =
     .tooltiptext = Du har gjeve denne nettstaden ytterlegare løyve.
 urlbar-switch-to-tab =
     .value = Byt til fane:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Utviding:
-
 urlbar-go-button =
     .tooltiptext = Gå til adressa i adresselinja
 urlbar-page-action-button =
