@@ -7,3 +7,4 @@
 
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Pre aktuálnu stránku nie sú dostupné žiadne údaje
+

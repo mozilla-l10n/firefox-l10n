@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti prehliadača &brandShortName;.</p><ul><li>Z bezpečnostných dôvodov &brandShortName; automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Skúste to znova. &brandShortName; sa pokúsi nadviazať spojenie a načítať stránku.
-    <button id='wifi'>Povoliť Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Chyba kódovania obsahu">
 <!ENTITY contentEncodingError.longDesc "

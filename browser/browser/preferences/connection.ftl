@@ -35,12 +35,7 @@ connection-proxy-http = Server proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = t
-connection-proxy-http-share =
-    .label = Použiť tento server proxy pre všetky protokoly
-    .accesskey = x
 
-connection-proxy-ssl = Server proxy SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Použiť tento server proxy pre FTP aj pre HTTPS
     .accesskey = s

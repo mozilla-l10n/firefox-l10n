@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Typ priečinka:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">
-<!ENTITY folderQuotaRoot.label                   "Hlavná kvóta:">
 <!ENTITY folderQuotaUsage.label                  "Využitie:">
 <!ENTITY folderQuotaStatus.label                 "Stav:">
 

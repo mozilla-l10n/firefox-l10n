@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Informácie o autorite
 certificate-viewer-certificate-policies = Pravidlá certifikátu
 certificate-viewer-embedded-scts = Vstavané SCTs
 certificate-viewer-crl-endpoints = CRL koncové body
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Prevziať
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (certifikát)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (reťazec)
     .download = { $fileName }-chain.pem
+
 certificate-viewer-export = Exportovať
     .download = { $fileName }.pem
 

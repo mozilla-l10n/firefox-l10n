@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikony vedľa textu">
 <!ENTITY useSmallIcons.label      "Použiť malé ikony">
 <!ENTITY restoreDefaultSet.label  "Obnoviť predvolenú sadu">
-<!ENTITY addNewToolbar.label      "Pridať nový panel">
-<!ENTITY showTitlebar.label       "Zobraziť panel s titulkom okna">
-<!ENTITY extraDragSpace.label     "Pridať priestor na presunutie">
 <!ENTITY showTitlebar2.label      "Panel s titulkom okna">
 <!ENTITY extraDragSpace2.label    "Priestor na presunutie">
 <!ENTITY saveChanges.label        "Hotovo">

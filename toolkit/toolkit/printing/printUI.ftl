@@ -4,3 +4,4 @@
 
 printui-primary-button = Tlačiť
 printui-cancel-button = Zrušiť
+

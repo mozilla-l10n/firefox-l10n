@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Zdroj údajov pre ping:
-about-telemetry-show-current-ping-data = Aktuálne údaje príkazu ping
 about-telemetry-show-current-data = Aktuálne údaje
 about-telemetry-show-archived-ping-data = Archivované údaje príkazu ping
 about-telemetry-show-subsession-data = Zobraziť údaje sub-relácie
@@ -65,7 +64,6 @@ about-telemetry-settings-explanation = Telemetria zbiera { about-telemetry-data-
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Všetky informácie sú odosielané ako súčasť “<a data-l10n-name="ping-link">pings</a>”. Teraz sa pozeráte na ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Všetky informácie sú odosielané ako súčasť “<a data-l10n-name="ping-link">pings</a>“. Teraz sa pozeráte na ping súčasný.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -90,8 +88,6 @@ about-telemetry-no-search-results-all = Mrzí nás to, no pre hľadaný výraz �
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Mrzí nás to, no v sekcii „{ $sectionName }“ nie sú dostupné žiadne údaje
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = súčasný ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = súčasné údaje
 # used in the “Ping Type” select
