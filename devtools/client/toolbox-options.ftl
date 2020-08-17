@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Cumasaigh cian-dífhabhtú
-options-enable-remote-tooltip =
-    .title = Leis an rogha seo, beidh tú in ann na huirlisí forbartha a úsáid chun cóip de Firefox i gcéin a dhífhabhtú, mar shampla ar Firefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Cumasaigh Oibrithe Seirbhíse thar HTTP (nuair a bhíonn an bosca uirlisí oscailte)

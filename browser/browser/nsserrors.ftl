@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 psmerr-ssl-disabled = Ní féidir ceangal slán a bhunú toisc go bhfuil an prótacal SSL díchumasaithe.
 psmerr-ssl2-disabled = Ní féidir ceangal slán a bhunú toisc go n-úsáideann an suíomh seanleagan den phrótacal SSL nach bhfuil slán.
 

@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Cineál an Fhillteáin:">
 
 <!ENTITY folderQuotaTab.label                    "Cuóta">
-<!ENTITY folderQuotaRoot.label                   "Fréamh an Chuóta:">
 <!ENTITY folderQuotaUsage.label                  "Úsáid:">
 <!ENTITY folderQuotaStatus.label                 "Stádas:">
 

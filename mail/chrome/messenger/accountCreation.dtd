@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "D'ainm:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Ainm Sloinne">
 <!ENTITY name.text                       "D'ainm, mar a thaispeántar é do dhaoine eile">
 <!ENTITY email.label                     "Seoladh ríomhphoist:">
 <!ENTITY email.accesskey                 "l">
@@ -21,9 +20,6 @@
 <!ENTITY incoming.label                  "Isteach:">
 <!ENTITY outgoing.label                  "Amach:">
 <!ENTITY username.label                  "Ainm úsáideora:">
-<!ENTITY hostname.label                  "Óstainm an fhreastalaí">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Fíordheimhniú">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
@@ -49,8 +45,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Tástáil Arís">
 <!ENTITY half-manual-test.accesskey      "T">
-<!ENTITY manual-edit.label               "Cumraíocht láimhe">
-<!ENTITY manual-edit.accesskey           "l">
 
 
 <!ENTITY warning.label                   "Rabhadh!">

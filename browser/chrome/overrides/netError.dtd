@@ -12,23 +12,13 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Ní féidir ceangal">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Tá an seoladh seo srianta">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY fileNotFound.title "Comhad gan aimsiú">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Scrúdaigh an t-ainm comhaid le haghaidh botúin chlóscríofa sna litreacha móra srl.</li> <li>Féach an bhfuil an comhad bogtha, athainmnithe nó scriosta.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Diúltaíodh rochtain ar an gcomhad">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Seans nach bhfuil an comhad ann a thuilleadh, nó b'fhéidir nach bhfuil cead agat é a rochtain.</li> </ul>">
-
-<!ENTITY generic.title "Úps.">
 
 <!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a lódáil ar fáth éigin.</p>">
 
@@ -37,65 +27,35 @@
 
 <!ENTITY openPortalLoginPage.label2 "Logáil Isteach i Líonra">
 
-<!ENTITY netInterrupt.title "Idirbhriseadh an ceangal">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Cáipéis As Feidhm">
 
 <!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
 
-<!ENTITY netOffline.title "Mód as líne">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Brúigh &quot;Déan Iarracht Arís&quot; chun dul ar líne agus an leathanach a lódáil arís.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Cineál Comhaid Baolach">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
-
-<!ENTITY netReset.title "Athshocraíodh an ceangal">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Ceangal imithe thar am">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Níor tuigeadh an seoladh">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo a oscailt.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Tá an seachfhreastalaí ag diúltú le ceangail">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> <li>Téigh i dteagmháil le do riarthóir líonra le bheith cinnte go bhfuil an seachfhreastalaí ag obair.</li></ul>">
-
-<!ENTITY proxyResolveFailure.title "Ní féidir an seachfhreastalaí a aimsiú">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> <li>Cinntigh go bhfuil ceangal líonra do ríomhaire ag obair.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li></ul>">
 
-<!ENTITY redirectLoop.title "Níl an leathanach ag atreorú i gceart">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Uaireanta tarlaíonn an fhadhb seo de bharr fianáin a bheith díchumasaithe nó bheith ag diúltú leo.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Freagra nach rabhthas ag súil leis ón bhfreastalaí">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
-
-<!ENTITY nssFailure2.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li> <li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li></ul>">
 
-<!ENTITY cspBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
-
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; stad ar lódáil an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Earráid: Ábhar Truaillithe">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
 
@@ -103,11 +63,7 @@
 <!ENTITY errorReporting.automatic2 "Tuairiscigh earráidí cosúil leis seo chun cuidiú le Mozilla suíomhanna mailíseacha a aithint agus a chosc">
 <!ENTITY errorReporting.learnMore "Tuilleadh eolais…">
 
-<!ENTITY remoteXUL.title "XUL Cianda">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Ní féidir ceangal slán a bhunú">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -117,8 +73,6 @@
      tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.copyToClipboard.label "Cóipeáil an téacs go dtí an ghearrthaisce">
-
-<!ENTITY inadequateSecurityError.title "Níl do cheangal slán">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "teachtaireacht is déanaí">
 <!ENTITY alwaysAuthenticate.label "Iarr fíordheimhniú i gcónaí nuair a cheanglófar leis an bhfreastalaí seo">
 <!ENTITY alwaysAuthenticate.accesskey "f">
-<!ENTITY newsrcFilePath.label "comhad newsrc:">
-<!ENTITY newsrcPicker.label "Roghnaigh comhad newsrc">
 <!ENTITY abbreviate.label "Taispeáin ainmneacha na ngrúpaí nuachta i bpána na bhFillteán Ríomhphoist mar:">
 <!ENTITY abbreviateOn.label "Ainmneacha iomlána (m.sh. &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Ainmneacha giorraithe (m.sh. &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Ardroghanna…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Ionchódú Réamhshocraithe:">
-<!ENTITY localPath.label "Comhadlann logánta:">
 <!ENTITY localFolderPicker.label "Roghnaigh Comhadlann Logánta">
 <!ENTITY browseFolder.label "Brabhsáil…">
 <!ENTITY browseFolder.accesskey "B">

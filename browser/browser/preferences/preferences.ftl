@@ -7,13 +7,6 @@ do-not-track-learn-more = Tuilleadh eolais
 do-not-track-option-always =
     .label = I gCónaí
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Roghanna
-           *[other] Sainroghanna
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Roghanna
@@ -362,10 +355,6 @@ update-application-use-service =
     .label = Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil
     .accesskey = b
 
-update-enable-search-update =
-    .label = Nuashonraigh innill chuardaigh go huathoibríoch
-    .accesskey = c
-
 ## General Section - Performance
 
 performance-title = Feidhmíocht
@@ -488,7 +477,6 @@ home-prefs-snippets-header =
 ## Search Section
 
 search-engine-default-header = Inneall Cuardaigh Réamhshocraithe
-search-engine-default-desc = Roghnaigh inneall cuardaigh réamhshocraithe le húsáid sa bharra suímh agus sa bharra cuardaigh.
 
 search-suggestions-option =
     .label = Tabhair moltaí cuardaigh dom
@@ -529,8 +517,6 @@ search-keyword-warning-bookmark = Roghnaigh tú eochairfhocal atá in úsáid fa
 
 ## Containers Section
 
-containers-back-link = « Ar Ais
-
 containers-header = Cluaisíní Coimeádáin
 containers-add-button =
     .label = Coimeádán Nua
@@ -550,12 +536,6 @@ containers-remove-button =
 sync-signedout-caption = Beir do Ghréasán féin leat
 sync-signedout-description = Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.
 
-sync-signedout-account-title = Ceangail le { -fxaccount-brand-name }
-
-sync-signedout-account-signin =
-    .label = Logáil Isteach...
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -574,10 +554,6 @@ sync-mobile-promo = Íoslódáil Firefox ar <img data-l10n-name="android-icon"/>
 sync-profile-picture =
     .tooltiptext = Athraigh an pictiúr próifíle
 
-sync-disconnect =
-    .label = Dícheangail...
-    .accesskey = D
-
 sync-manage-account = Bainistigh mo chuntas
     .accesskey = o
 
@@ -587,9 +563,6 @@ sync-signedin-login-failure = Logáil isteach chun athcheangal { $email }
 sync-sign-in =
     .label = Logáil isteach
     .accesskey = g
-
-sync-signedin-settings-header = Socruithe Sioncronaithe
-sync-signedin-settings-desc = Roghnaigh na rudaí le sioncronú ar do chuid gléasanna ag úsáid { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -633,10 +606,6 @@ sync-device-name-save =
     .label = Sábháil
     .accesskey = b
 
-sync-tos-link = Téarmaí Seirbhíse
-
-sync-fxa-privacy-notice = Fógra Príobháideachais
-
 ## Privacy Section
 
 privacy-header = Príobháideachas
@@ -661,6 +630,7 @@ forms-master-pw-change =
     .accesskey = P
 
 forms-master-pw-fips-title = Tá tú i mód FIPS faoi láthair. Tá Príomhfhocal Faire neamhfholamh ag teastáil ó FIPS.
+
 forms-master-pw-fips-desc = Theip ar athrú an fhocail faire.
 
 ## OS Authentication dialog
@@ -733,12 +703,6 @@ addressbar-suggestions-settings = Roghanna a bhaineann le moltaí cuardaigh
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Tuilleadh eolais
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Caighdeánach
-    .accesskey = d
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -898,6 +862,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = Níl mórán spáis fágtha ar an diosca ag { -brand-short-name }. Seans nach dtaispeánfar ábhar mar is ceart sa bhrabhsálaí. Cliceáil “Tuilleadh Eolais” le foghlaim conas an úsáid is fearr a bhaint as an diosca.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

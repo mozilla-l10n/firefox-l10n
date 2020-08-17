@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Cosaint Príobháideachais
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Oscail do thuairisc phríobháideachais
 appmenuitem-customize-mode =
     .label = Saincheap…
 
@@ -26,3 +23,4 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Gnéithe Nua
+

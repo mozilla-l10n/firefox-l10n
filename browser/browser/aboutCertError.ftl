@@ -51,7 +51,6 @@ proxyResolveFailure-title = Ní féidir an seachfhreastalaí a aimsiú
 redirectLoop-title = Níl an leathanach ag atreorú i gceart
 unknownSocketType-title = Freagra nach rabhthas ag súil leis ón bhfreastalaí
 nssFailure2-title = Níorbh Fhéidir Ceangal Slán a Bhunú
-cspBlocked-title = Bactha ag an Polasaí Slándala Inneachair
 corruptedContentError-title = Earráid: Ábhar Truaillithe
 remoteXUL-title = XUL Cianda
 sslv3Used-title = Ní féidir ceangal slán a bhunú

@@ -32,10 +32,6 @@ abuse-report-messagebar-action-cancel = Cealaigh
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Déanann sé díobháil do mo ríomhaire agus do mo chuid sonraí
-
-abuse-report-unwanted-reason = Níor theastaigh an breiseán seo uaim riamh agus ní féidir liom fáil réidh leis
-
 abuse-report-unwanted-reason-v2 = Níor theastaigh sé uaim riamh agus níl a fhios agam conas fáil réidh leis
 
 abuse-report-other-reason = Rud éigin eile

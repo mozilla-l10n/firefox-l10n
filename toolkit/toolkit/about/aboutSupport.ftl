@@ -4,6 +4,7 @@
 
 page-title = Fabhtcheartú
 page-subtitle = Ar an leathanach seo tá eolas teicniúil a d'fhéadfadh a bheith úsáideach agus tú ag iarraidh fadhb a réiteach. Má tá freagraí á lorg agat ar cheisteanna coitianta maidir le { -brand-short-name }, féach ar ár <a data-l10n-name="support-link">suíomh tacaíochta</a>.
+
 crashes-title = Tuairiscí Tuairteála
 crashes-id = Aitheantas na Tuairisce
 crashes-send-date = Seolta
@@ -70,8 +71,6 @@ graphics-workarounds-title = Seifteanna
 place-database-title = Bunachar Sonraí Áiteanna
 place-database-integrity = Sláine
 place-database-verify-integrity = Deimhnigh an tSláine
-js-title = JavaScript
-js-incremental-gc = Bailitheoir Dramhaíola Incriminteach
 a11y-title = Inrochtaineacht
 a11y-activated = Gníomhachtaithe
 a11y-force-disabled = Coisc Inrochtaineacht
@@ -120,6 +119,7 @@ report-crash-for-days =
         [many] Tuairiscí Tuairteála sa { $days } lá is déanaí
        *[other] Tuairiscí Tuairteála sa { $days } lá is déanaí
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -130,6 +130,7 @@ crashes-time-minutes =
         [many] { $minutes } nóiméad ó shin
        *[other] { $minutes } nóiméad ó shin
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -140,6 +141,7 @@ crashes-time-hours =
         [many] { $hours } n-uaire ó shin
        *[other] { $hours } uair ó shin
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -150,6 +152,7 @@ crashes-time-days =
         [many] { $days } lá ó shin
        *[other] { $days } lá ó shin
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -160,6 +163,7 @@ pending-reports =
         [many] Gach Tuairisc Tuairteála (le { $reports } dtuairt sa raon ama seo ar feitheamh)
        *[other] Gach Tuairisc Tuairteála (le { $reports } tuairt sa raon ama seo ar feitheamh)
     }
+
 raw-data-copied = Cóipeáladh na hamhshonraí go dtí an ghearrthaisce
 text-copied = Cóipeáladh an téacs go dtí an ghearrthaisce
 
@@ -172,9 +176,11 @@ blocked-mismatched-version = Coiscthe do do thiománaí grafaice: ní ionann an 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Chuir thiománaí do chárta grafaice cosc air. Bain triail as leagan { $driverVersion } nó níos nuaí den tiománaí.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paraiméadair ClearType
+
 compositing = Cumasc
 hardware-h264 = Díchódú Crua-Earraí H264
 main-thread-no-omtc = príomhshnáithe, gan OMTC
@@ -187,6 +193,7 @@ no = Níl
 
 found = Aimsithe
 missing = Ar iarraidh
+
 gpu-description = Cur Síos
 gpu-vendor-id = Aitheantas an tSoláthraí
 gpu-device-id = Aitheantas Gléis
@@ -207,22 +214,27 @@ webgl2-version = Leagan an Tiománaí WebGL 2
 webgl2-driver-extensions = Eisínteachtaí an Tiománaí WebGL 2
 webgl2-extensions = Eisínteachtaí WebGL 2
 blocklisted-bug = Ar an liosta blocála mar gheall ar fhadhbanna atá ar eolas
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = fabht { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ar an liosta blocála; cód teipthe { $failureCode }
+
 d3d11layers-crash-guard = Eagraí D3D11
 d3d11video-crash-guard = Díchódóir Físe D3D11
-d3d9video-crash-buard = Díchódóir Físe D3D9
 d3d9video-crash-guard = Díchódóir Físe D3D9
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Athshocrú ar an chéad atosú eile
 gpu-process-kill-button = Cuir deireadh le próiseas GPU
 gpu-device-reset-button = Cuir tús le hatosú an ghléis
+
 min-lib-versions = Leagan is sine a rabhthas ag súil leis
 loaded-lib-versions = Leagan in úsáid
+
 has-seccomp-bpf = Seccomp-BPF (Scagadh Glaonna Córais)
 has-seccomp-tsync = Sioncronú Snáitheanna Seccomp
 has-user-namespaces = Ainmspásanna Úsáideora
@@ -233,6 +245,7 @@ content-sandbox-level = Leibhéal Bosca Gainimh don Phróiseas Ábhair
 effective-content-sandbox-level = Fíorleibhéal Bosca Gainimh don Phróiseas Ábhair
 sandbox-proc-type-content = ábhar
 sandbox-proc-type-media-plugin = forlíontán meáin
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -245,6 +258,7 @@ multi-process-status-6 = Díchumasaithe de bharr ionchur téacs gan tacaíocht
 multi-process-status-7 = Díchumasaithe trí bhreiseáin
 multi-process-status-8 = Díchumasaithe le lámh láidir
 multi-process-status-unknown = Stádas anaithnid
+
 async-pan-zoom = Peanáil/Zúmáil Aisioncronach
 apz-none = faic
 wheel-enabled = ionchur rotha cumasaithe

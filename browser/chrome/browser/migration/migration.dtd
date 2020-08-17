@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Iompórtáil Roghanna, Leabharmharcanna, Stair, Focail Fhaire agus sonraí eile ó:">
 <!ENTITY importFromUnix.label           "Iompórtáil Sainroghanna, Leabharmharcanna, Stair, Focail Fhaire agus sonraí eile ó:">
-<!ENTITY importFromBookmarks.label      "Iompórtáil comhad leabharmharc ó:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
