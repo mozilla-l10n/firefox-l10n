@@ -14,6 +14,7 @@ pw-erased-ok = Dilamet ho peus ho ker-tremen mestr.  { pw-empty-warning }
 pw-not-wanted = Diwall ! Dibabet ho peus na ober gant ur ger-tremen mestr. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Emaoc'h bremañ er mod FIPS. Azgoulenn a ra FIPS ur ger-tremen mestr enanket.
+
 pw-change-success-title = Kemm ho ker-tremen kempennet
 pw-change-failed-title = Fazi gant kemm ar ger-tremen
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Kemmañ ar ger-tremen mestr
+
 set-password-old-password = Ger-tremen bremanel :
 set-password-new-password = Roit ur ger-tremen nevez :
 set-password-reenter-password = Enankit ar ger-tremen en-dro :
@@ -31,6 +33,7 @@ master-password-warning = Bezit sur e vo dalc'het soñj eus ar ger-tremen mestr 
 
 remove-password =
     .title = Dilemel ho ker-tremen mestr
+
 remove-info =
     .value = Dav e deoc'h enankañ ho ker-tremen bremanel evit mont pelloc'h :
 remove-warning1 = Implijet e vez ho ker-tremen mestr a-benn gwareziñ stlennoù prevez kizidik evel gerioù-tremen ho lec'hiennoù.

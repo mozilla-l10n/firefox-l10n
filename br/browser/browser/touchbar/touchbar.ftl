@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Kuitaat ar mod skramm a-bezh
 find = Klask
 new-tab = Ivinell nevez
 add-bookmark = Ouzhpennañ ur sined
-open-bookmarks-sidebar = Digeriñ barrenn gostez ar sinedoù
 reader-view = Mod Lenn
 # Meant to match the string displayed in an empty URL bar.
 open-location = Bizskrivit un termen da glask pe ur chomlec'h

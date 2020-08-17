@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Enrollañ evel…
     .accesskey = e
-media-preview =
-    .value = Alberz ar media :
 
 perm-tab =
     .label = Aotreoù
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ya, toupinoù
 security-site-data-no = Ket
 
 image-size-unknown = Dianav
-not-set-verified-by = Anerspizet
 page-info-not-specified =
     .value = Anspisaet
 not-set-alternative-text = Anerspizet
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Mod an iskisted
 general-strict-mode =
     .value = Mod kenfurmded ar skouerioù
-security-no-owner = Al lec'hienn-mañ ne bourchas ket titouroù a-fet pivelezh.
 page-info-security-no-owner =
     .value = Al lec'hienn-mañ ne bourchas ket titouroù a-fet pivelezh.
 media-select-folder = Diuzañ ur c'havlec'hiad evit enrollañ ar skeudennoù

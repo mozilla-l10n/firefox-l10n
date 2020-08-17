@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Diuzañ an holl ivinelloù
     .accesskey = h
-toolbar-context-menu-undo-close-tab =
-    .label = Dizober Serriñ an ivinell
-    .accesskey = z
 
 toolbar-context-menu-manage-extension =
     .label = Merañ an askouezh

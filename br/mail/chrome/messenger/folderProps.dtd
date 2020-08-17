@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Rizh an teuliad :">
 
 <!ENTITY folderQuotaTab.label                    "Feur">
-<!ENTITY folderQuotaRoot.label                   "Gwrizienn ar feur :">
 <!ENTITY folderQuotaUsage.label                  "En arver :">
 <!ENTITY folderQuotaStatus.label                 "Stad :">
 

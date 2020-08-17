@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Merdeiñ prevez)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Merdeiñ prevez)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Merdeiñ prevez)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Merdeiñ prevez)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -110,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Skrivit nebeutoc'h, kavit muioc'h: Klaskit war { $engineName } adalek ho parrenn chomlec'h.
 urlbar-search-tips-redirect-2 = Krogit ho klask er varrenn-chomlec'h evit gwelout alioù klask { $engineName } hag ho roll istor merdeiñ.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -136,10 +140,12 @@ urlbar-midi-blocked =
     .tooltiptext = Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.
 urlbar-install-blocked =
     .tooltiptext = Stanket ho peus ar staliadurioù askouezhioù war al lec'hienn-mañ.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Embann ar sined-mañ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -170,12 +176,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ar wech-mañ, klaskit gant:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Kemmañ an arventennoù klask
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Kemmañ an arventennoù klask
+
 search-one-offs-context-open-new-tab =
     .label = Klask en ivinell nevez
     .accesskey = n
@@ -186,13 +194,22 @@ search-one-offs-context-set-as-default-private =
     .label = Lakaat da lusker enklask dre ziouer evit ar prenestroù prevez
     .accesskey = P
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Diskouez an embanner pa enroll
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Graet
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -266,12 +283,15 @@ popup-select-microphone =
     .value = Klevell da rannañ :
     .accesskey = K
 popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
+
 popup-screen-sharing-not-now =
     .label = Diwezhatoc'h
     .accesskey = D
+
 popup-screen-sharing-never =
     .label = Na aotren biken
     .accesskey = N
+
 popup-silence-notifications-checkbox = Diweredekaat ar rebuziñ eus { -brand-short-name } e-pad ar rannadenn
 popup-silence-notifications-checkbox-warning = { -brand-short-name } na ziskouezo ket a rebuzadurioù p'emaoc'h o rannañ.
 
@@ -288,21 +308,26 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Evit ober gant ar verradenn F12, digorit DevTools dre al lañser diorroen web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Bizskrivit un termen da glask pe ur chomlec'h
+
 urlbar-placeholder =
     .placeholder = Bizskrivit un termen da glask pe ur chomlec'h
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Reoliet a-bell eo ar merdeer
 urlbar-permissions-granted =
     .tooltiptext = Roet ho peus aotreoù ouzhpenn d'al lec'hienn-mañ.
 urlbar-switch-to-tab =
     .value = Mont d'an ivinell :
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Askouezh:
+
 urlbar-go-button =
     .tooltiptext = Mont d'ar chomlec'h er varrenn lec'hiañ
 urlbar-page-action-button =

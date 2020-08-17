@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Troc'hañ">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Eilañ">
-<!ENTITY copyCmd.accesskey "i">
-<!ENTITY pasteCmd.label "Pegañ">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "Dizober">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Diuz pep tra">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Dilemel">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "Ouzhpennañ d'ar geriadur">
 <!ENTITY spellAddToDictionary.accesskey "r">
 <!ENTITY spellUndoAddToDictionary.label "Nullañ an ouzhpennañ d'ar geriadur">

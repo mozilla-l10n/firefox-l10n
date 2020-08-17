@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Diellaouiñ">
 <!ENTITY hdrArchiveButton1.tooltip "Diellaouiñ ar gemennadenn-mañ">
-<!ENTITY hdrOpenConversationButton1.label "Kaozeadenn">
-<!ENTITY hdrOpenConversationButton1.tooltip "Diskouez kaozeadenn ar gemennadenn-mañ">
 <!ENTITY hdrSmartReplyButton1.label "Respont speredek">
 <!ENTITY hdrReplyButton1.label "Respont">
 <!ENTITY hdrReplyButton2.tooltip "Respont da gaser ar gemennadenn-mañ">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Respont d'ar roll skignañ">
 <!ENTITY hdrFollowupButton1.label "Respont d'ar strollad-keleier">
 <!ENTITY hdrFollowupButton1.tooltip "Kas ur respont d'ar strollad-keleier-mañ">
-<!ENTITY hdrMenuForwardButton.label "Treuzkas evel">
 <!ENTITY hdrForwardButton1.label "Treuzkas">
 <!ENTITY hdrForwardButton1.tooltip "Treuzkas ar gemennadenn-mañ">
 <!ENTITY hdrJunkButton1.label "Lastez">

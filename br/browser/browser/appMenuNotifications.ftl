@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Merit hoc'h askouezhioù en ur glikañ war 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Aotren an askouezh-mañ da vezañ lañset en ur prenestr merdeiñ prevez
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Cheñchamant evit an askouezhioù er merdeiñ prevez
-    .buttonlabel = Merañ an askouezhioù
-    .buttonaccesskey = a
-    .secondarybuttonlabel = Mat eo, komprenet am eus
-    .secondarybuttonaccesskey = M
-appmenu-addon-private-browsing-message = Forzh pe askouezh nevez a ouzhpennit da { -brand-shorter-name } a vo stanket er prenestroù prevez estreget mard aotreit anezho en arventennoù.
-appmenu-addon-private-browsing-learn-more = Deskit penaos merañ arventennoù an askouezhioù.
     
 appmenu-new-tab-controlled =
     .label = Kemmet eo bet pajenn an ivinell nevez.

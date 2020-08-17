@@ -5,50 +5,66 @@
 permissions-window =
     .title = Nemedennoù
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Chomlec'h al lec'hienn
     .accesskey = C
+
 permissions-block =
     .label = Herzel
     .accesskey = H
+
 permissions-session =
     .label = Aotren evit an estez
     .accesskey = A
+
 permissions-allow =
     .label = Aotren
     .accesskey = A
+
 permissions-site-name =
     .label = Lec'hienn
+
 permissions-status =
     .label = Stad
+
 permissions-remove =
     .label = Lemel kuit al lec'hienn
     .accesskey = L
+
 permissions-remove-all =
     .label = Lemel kuit an holl lec'hiennoù
     .accesskey = h
+
 permissions-button-cancel =
     .label = Nullañ
     .accesskey = N
+
 permissions-button-ok =
     .label = Enrollañ ar c'hemmoù
     .accesskey = E
+
 permissions-autoplay-menu = Dre ziouer evit an holl lec'hiennoù:
+
 permissions-searchbox =
     .placeholder = Klask lec'hiennoù
+
 permissions-capabilities-autoplay-allow =
     .label = Aotren aodio ha video
 permissions-capabilities-autoplay-block =
     .label = Stankañ an aodio
 permissions-capabilities-autoplay-blockall =
     .label = Stankañ an aodio ha video
+
 permissions-capabilities-allow =
     .label = Aotren
 permissions-capabilities-block =
     .label = Herzel
 permissions-capabilities-prompt =
     .label = Goulenn bewech
+
 permissions-capabilities-listitem-allow =
     .value = Aotren
 permissions-capabilities-listitem-block =
@@ -63,10 +79,6 @@ permissions-invalid-uri-label = Roit un anv ostiz talvoudek, mar plij
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Nemedennoù - stankadur endalc'had
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Diweredekaet ho peus ar stankadur endalc'had war al lec'hiennoù-mañ.
 permissions-exceptions-etp-window =
     .title = Nemedennoù evit ar gwarez heuliañ araokaet.
     .style = { permissions-window.style }
@@ -101,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù a vo aotreet da staliañ askouezhioù. Roit chomlec'h spis al lec'hienn da vezañ aotreet ha klikit war Aotren.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Nemedennoù - Lenn emgefreek
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Gallout a rit despizañ pe lec'hiennoù a zo bepred aotreet da lenn mediaoù ent emgefreek gant ar son, hag ar re n'int morse aotreet. Biziatait chomlec'h al lec'hienn a fell deoc'h merañ ha klikit war Stankañ pe Aotren.
 
 ## Site Permissions - Autoplay
 

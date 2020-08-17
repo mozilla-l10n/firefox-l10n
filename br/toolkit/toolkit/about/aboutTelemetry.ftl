@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Mammenn roadennoù ping :
-about-telemetry-show-current-ping-data = Roadennoù ping bremanel
 about-telemetry-show-archived-ping-data = Roadennoù ping diellet
 about-telemetry-show-subsession-data = Diskouez ar roadennoù iz-estez
 about-telemetry-choose-ping = Dibabit ar ping :
@@ -77,7 +76,6 @@ about-telemetry-settings-explanation = Ar pellventerezh a zo o tastum { about-te
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Kement titour a zo paket ha kaset e “<a data-l10n-name="ping-link">pingoù</a>”. Emaoc'h o sellout ouzh ar ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Kement titour a zo paket ha kaset e “<a data-l10n-name="ping-link">pingoù</a>“. Emaoc'h o sellout ouzh ar ping bremanel.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Digarezit! N'eus disoc'h ebet evit “{ 
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Digarezit! N'eus roadenn ebet hegerz e “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping bremanel
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = pep tra
 # button label to copy the histogram

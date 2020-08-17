@@ -18,6 +18,7 @@ column-heading-time-password-changed =
     .label = Kemm diwezhañ
 column-heading-times-used =
     .label = Niver a arverioù
+
 logins-description-filtered = An titouroù kennaskañ a glot gant ho klask :
 remove-all-passwords-title = Dilemel an holl c'herioù-tremen
 no-master-password-prompt = Ha sur oc'h ho peus c'hoant da ziskouez ho kerioù-tremen ?
@@ -26,5 +27,6 @@ no-master-password-prompt = Ha sur oc'h ho peus c'hoant da ziskouez ho kerioù-t
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Gwiriit ho identelezh a-benn diskouez ar c'herioù-tremen enrollet.
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

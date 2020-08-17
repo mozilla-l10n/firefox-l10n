@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Dilec'hiañ en ur prenestr nevez
     .accesskey = D
-undo-close-tab =
-    .label = Dizober Serriñ an ivinell
-    .accesskey = z
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Serriñ an ivinell
     .accesskey = e

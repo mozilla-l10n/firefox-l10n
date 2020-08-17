@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Skeudenn-ouzh-skeudenn">
 
-<!ENTITY stats.media "Media">
-<!ENTITY stats.size "Ment">
-<!ENTITY stats.activity "Oberiantiz">
-<!ENTITY stats.activityPaused "Ehanet">
-<!ENTITY stats.activityPlaying "O lenn">
-<!ENTITY stats.activityEnded "Echu">
-<!ENTITY stats.activitySeeking "(o klask)">
-<!ENTITY stats.volume "Tregern">
-<!ENTITY stats.framesParsed "Anneuennoù dezrannet">
-<!ENTITY stats.framesDecoded "Anneuennoù ezvoneget">
-<!ENTITY stats.framesPresented "Anneuennoù kinniget">
-<!ENTITY stats.framesPainted "Anneuennoù treset">
-
 <!ENTITY error.aborted "Paouezet eo bet kargadur ar video.">
 <!ENTITY error.network "Paouezet eo bet lenn ar video en abeg d'ur fazi rouedad.">
 <!ENTITY error.decode "N'haller ket lenn ar video rak kontronet eo ar restr.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "Paouezet eo bet lenn ar video en abeg d'ur fazi dianav.">
 
 <!ENTITY status.pictureInPicture "Er mod skeudenn-ouzh-skeudenn emañ ar video-se o vezañ lennet.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 dre #2 tremenet">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

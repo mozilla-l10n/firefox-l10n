@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Diogelroez">
-<!ENTITY securityTab.label "Diogelroez">
-<!ENTITY securityHeading.label "A-benn kas ha degemer kemennadennoù sinet pe enrineget e vefe gwell deoc'h erspizañ un testeni sinañ niverel hag ivez un testeni enrinegañ.">
-<!ENTITY encryptionGroupTitle.label "Enrinegañ">
-<!ENTITY encryptionChoiceLabel.label "Arventennoù enrinegañ dre ziouer pa vez kaset kemennadennoù :">
-<!ENTITY neverEncrypt.label "Morse (na arverañ an enrinegañ)">
-<!ENTITY neverEncrypt.accesskey "n">
-<!ENTITY alwaysEncryptMessage.label "Azgoulennet (n'hall ket kas kemennadennoù anez ma vefe testenioù gant an holl zegemererien)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Arverañ an testeni-mañ evit enrinegañ hag ezrinegañ ar c'hemennadennoù kaset deoc'h :">
-
 <!ENTITY digitalSign.certificate.button "Diuzañ…">
 <!ENTITY digitalSign.certificate.accesskey "z">
 <!ENTITY digitalSign.certificate_clear.button "Skarzhañ">
@@ -22,15 +11,8 @@
 <!ENTITY encryption.certificate_clear.button "Skarzhañ">
 <!ENTITY encryption.certificate_clear.accesskey "k">
 <!ENTITY signingGroupTitle.label "Sinañ niverel">
-<!ENTITY signMessage.label "Sinañ ar c'hemennadennoù gant un doare niverel (dre ziouer)">
 <!ENTITY signMessage.accesskey "S">
-<!ENTITY signingCert.message "Arverañ an testeni-mañ evit sinañ gant un doare niverel ar c'hemennadennoù kaset ganeoc'h :">
 
-<!ENTITY certificates.label "Testenioù">
-<!ENTITY manageCerts2.label "Ardeiñ an testenioù">
-<!ENTITY manageCerts2.accesskey "A">
-<!ENTITY manageDevices.label "Trevnad diogelroez">
-<!ENTITY manageDevices.accesskey "o">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Diuzañ un testeni">

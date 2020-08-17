@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>N'eo ket hegerz an teul goulennet e-barzh krubuilh &brandShortName;.</p><ul><li>&brandShortName; ne c'houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.</li><li>Klikit war Klask en-dro a-benn goulenn an teul digant al lec'hienn en-dro.</li></ul>">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Klaskit en-dro. &brandShortName; a glasko digeriñ ur c'hennask hag adkargañ ar bajennad. <button id='wifi'>Gweredekaat ar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
 <!ENTITY contentEncodingError.longDesc " <ul> <li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> </ul>">

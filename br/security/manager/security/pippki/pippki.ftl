@@ -21,6 +21,9 @@ change-password-reenter = Ger-tremen nevez (c'hoazh) :
 reset-password-window =
     .title = Adderaouekaat ger-tremen mestr
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Adderaouekaat
 reset-password-text = Mar adderaouekait ho ker-tremen mestr e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho roadennoù furmskridoù, ho testenioù personel hag hoc'h alc'hwezioù prevez. Fellout a ra deoc'h dilemel ho ker-tremen mestr ?

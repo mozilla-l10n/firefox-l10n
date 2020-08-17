@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Embann">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Dizober">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "z">
 <!ENTITY redoCmd.label            "Adober">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "r">
-<!ENTITY cutCmd.label            "Troc'hañ">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "T">
-<!ENTITY copyCmd.label            "Eilañ">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "E">
-<!ENTITY pasteCmd.label            "Pegañ">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "P">
 <!ENTITY deleteCmd.label          "Dilemel">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label          "Diuzañ pep tra">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmd2.label "Dibarzhioù…">
 <!ENTITY preferencesCmd2.accesskey "D">
 <!ENTITY preferencesCmdUnix.label       "Gwellvezioù">

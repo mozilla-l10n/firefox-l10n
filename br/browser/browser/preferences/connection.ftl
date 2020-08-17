@@ -35,12 +35,7 @@ connection-proxy-http = Proksi HTTP
     .accesskey = H
 connection-proxy-http-port = Porzh
     .accesskey = p
-connection-proxy-http-share =
-    .label = Arverañ ar proksi-mañ evit an holl gomenadoù
-    .accesskey = p
 
-connection-proxy-ssl = Proksi SSL
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Arverañ ar proksi-mañ evit an FTP hag an HTTP ivez
     .accesskey = A

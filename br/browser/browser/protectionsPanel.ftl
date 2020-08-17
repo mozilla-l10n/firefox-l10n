@@ -63,7 +63,6 @@ protections-panel-not-found-label = Hini ebet dinoet
 ##
 
 protections-panel-settings-label = Arventennoù gwarez
-protections-panel-showreport-label = Diskouez an danevell
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

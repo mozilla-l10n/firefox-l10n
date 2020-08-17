@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Embann">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Dizober">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "z">
-<!ENTITY redoCmd.label                                  "Adober">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
-<!ENTITY cutCmd.label                                   "Troc'hañ">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "T">
-<!ENTITY copyCmd.label                                  "Eilañ">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "a">
-<!ENTITY pasteCmd.label                                 "Pegañ">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Dilemel">
-<!ENTITY deleteCmd.accesskey                            "D">
 <!ENTITY deleteAbCmd.label                              "Dilemel ar c'harned posteloù">
 <!ENTITY deleteContactCmd.label                         "Dilemel an darempred">
 <!ENTITY deleteContactsCmd.label                        "Dilemel an darempredoù">
 <!ENTITY deleteListCmd.label                            "Dilemel ar roll">
 <!ENTITY deleteListsCmd.label                           "Dilemel ar rolloù">
 <!ENTITY deleteItemsCmd.label                           "Dilemel an elfennoù">
-<!ENTITY selectAllCmd.label                             "Diuz pep tra">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Pebeilañ ar c'hentanv/an anv familh">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "b">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Perzhioù">
 <!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">

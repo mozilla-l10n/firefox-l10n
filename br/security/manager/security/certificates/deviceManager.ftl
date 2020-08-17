@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Steudriñv
 
 fips-nonempty-password-required = Azgoulennet eo gant ar mod FIPS ma vo ur ger-tremen mestr ganeoc'h, kefluniet evit an holl drevnadoù diogelroez. Kefluniañ ar ger-tremen kent klask gweredekaat ar mod FIPS.
+
 unable-to-toggle-fips = N'haller ket kemmañ ar mod FIPS evit an trevnad diogelroez. Erbedet eo kuitaat hag adloc'hañ an arload-mañ.
 load-pk11-module-file-picker-title = Dibabit ur sturier trevnad PKCS#11 da gargañ
 

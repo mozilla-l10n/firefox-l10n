@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Embann">
-<!ENTITY editMenu.accesskey        "a">
-<!ENTITY undoCmd.label             "Dizober ">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "D">
-<!ENTITY redoCmd.label             "Adober">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "o">
-<!ENTITY cutCmd.label              "Troc'hañ">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "T">
-<!ENTITY copyCmd.label             "Eilañ">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "i">
-<!ENTITY pasteCmd.label            "Pegañ">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "Dilemel">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "Diuz pep tra">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
-
 <!ENTITY findCmd.label             "Klask">
 <!ENTITY findCmd.key               "f">
 <!ENTITY findCmd.accesskey         "K">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "n">
-<!ENTITY findPreviousCmd.label     "Klask an hini kent">
-<!ENTITY findPreviousCmd.accesskey "K">

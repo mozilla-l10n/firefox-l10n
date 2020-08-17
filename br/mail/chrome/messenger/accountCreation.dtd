@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Kefluniañ ur gont postel nevez">
-
 <!ENTITY emailWizard.title               "Kefluniañ ho chomlec'h postel">
 <!ENTITY emailWizard.caption             "Ober gant ho chomlec'h postel bremanel">
 <!ENTITY name.label                      "Hoc'h anv :">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Anv-bihan Anv">
 <!ENTITY fullname.placeholder            "Hoc'h anv a-bezh">
 <!ENTITY name.text                       "Hoc'h anv, evel e vo diskouezet d'ar re all">
 <!ENTITY name.error                      "Skrivit hoc'h anv mar plij">
 <!ENTITY email.label                     "Chomlec'h :">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "chomlec'h@example.com">
 <!ENTITY email3.placeholder              "Ho chomlec'h postel">
 <!ENTITY email.text                      "Ho chomlec'h postel">
 <!ENTITY email.error                     "N'eo ket talvoudek ar chomlec'h postel">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Dafariad kas :">
 <!ENTITY outgoingColumn.label            "Dafariad kas">
 <!ENTITY username.label                  "Anv arveriad :">
-<!ENTITY hostname.label                  "Anv an dafariad">
-<!ENTITY port.label                      "Porzh">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Dafariad:">
 <!ENTITY portRow.label                   "Porzh:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Amprouiñ en-dro">
 <!ENTITY half-manual-test.accesskey      "A">
-<!ENTITY manual-edit.label               "Kefluniad dornel">
-<!ENTITY manual-edit.accesskey           "d">
 <!ENTITY manual-config.label             "Kefluniañ dre zorn…">
 <!ENTITY manual-config.accesskey         "K">
 <!ENTITY open-provisioner.label          "Kaout ur chomlec'h postel nevez…">

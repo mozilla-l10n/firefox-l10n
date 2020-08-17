@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "a gemennadennoù">
 <!ENTITY alwaysAuthenticate.label "Azgoulenn atav an dilesa pa vez kennasket ouzh an dafariad">
 <!ENTITY alwaysAuthenticate.accesskey "t">
-<!ENTITY newsrcFilePath.label "Restr newsrc :">
-<!ENTITY newsrcPicker.label "Dizuañ ar restr newsrc">
 <!ENTITY abbreviate.label "Diskouez anvioù ar strolladoù-keleier e penel an teuliad posteloù evel :">
 <!ENTITY abbreviateOn.label "Anvioù klok ('netscape.public.mozilla.mail-news', da skouer)">
 <!ENTITY abbreviateOff.label "Anvioù berraet ('n.p.m.mail-news', da skouer)">
 <!ENTITY advancedButton.label "Kempleshoc'h …">
 <!ENTITY advancedButton.accesskey "K">
 <!ENTITY serverDefaultCharset2.label "Bonegadur an arouezioù dre ziouer :">
-<!ENTITY localPath.label "Kavlec'hiad lec'hel:">
 <!ENTITY localFolderPicker.label "Diuzañ ar c'havlec'hiadoù lec'hel :">
 <!ENTITY browseFolder.label "Furchal…">
 <!ENTITY browseFolder.accesskey "F">

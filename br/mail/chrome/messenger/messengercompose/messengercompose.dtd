@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Adober">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Troc'hañ">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Eilañ">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "a">
-<!ENTITY pasteCmd.label "Pegañ">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "t">
@@ -93,15 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Diuzañ pep tra">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Klask…">
 <!ENTITY findBarCmd.accesskey "K">
 <!ENTITY findBarCmd.key "F">
@@ -256,25 +242,8 @@
 <!ENTITY printButton.tooltip "Moullañ ar gemennadenn-mañ">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "A-berzh :">
 <!ENTITY fromAddr.accesskey "b">
-<!ENTITY toAddr.label "Da :">
-<!ENTITY ccAddr.label "Cc :">
-<!ENTITY bccAddr.label "Bcc :">
-<!ENTITY replyAddr.label "Respont-da :">
-<!ENTITY newsgroupsAddr.label "Strollad-keleier :">
-<!ENTITY followupAddr.label "Kas en-dro-da :">
-<!ENTITY subject.label "Danvez :">
 <!ENTITY subject.accesskey "D">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
-<!ENTITY attachments.accesskey "e">
-<!ENTITY attachmentBucketHeader.tooltip "Penel ar c'henstagadurioù">
 <!ENTITY attachmentBucketCloseButton.tooltip "Kuzhat penel ar c'henstagadurioù">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

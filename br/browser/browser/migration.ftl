@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Skoazeller Enporzhiañ
+
 import-from =
     { PLATFORM() ->
         [windows] Enporzhiañ an dibarzhioù, sinedoù, roll istor, gerioù-tremen ha roadennoù all adalek :
        *[other] Enporzhiañ an dibaboù gwellañ, sinedoù, roll istor, gerioù-tremen ha roadennoù all diouzh :
     }
+
 import-from-bookmarks = Enporzhiañ sinedoù diouzh :
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = Merdeer diogel 360
     .accesskey = 3
+
 no-migration-sources = N'hall ket kavout goulev ebet a zo ennañ sinedoù, rolladoù istor pe gerioù-tremen.
+
 import-source-page-title = Enporzhiañ arventennoù ha roadennoù diouzh …
 import-items-page-title = Ergorennoù da enporzhiañ
+
 import-items-description = Diuz pe elfennoù da enporzhiañ :
+
 import-migrating-page-title = Oc'h enporzhiañ …
+
 import-migrating-description = Emañ an ergorennoù da heul o vezañ enporzhiet…
+
 import-select-profile-page-title = Diuz an aelad
+
 import-select-profile-description = An aeladoù da heul a c'hell bezañ enporzhiet diouzh :
+
 import-done-page-title = Echu eo an enporzhiañ
+
 import-done-description = Enporzhiet eo bet an ergorennoù da heul gant berzh :
+
 import-close-source-browser = Gwiriekait eo serret ar merdeer diuzet a-raok kenderc'hel.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Diouzh { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = Merdeer diogel 360
+
 imported-safari-reading-list = Roll al lennadurioù (diouzh Safari)
 imported-edge-reading-list = Roll al lennadurioù (diouzh Edge)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = Toupinoù
 browser-data-cookies-label =
     .value = Toupinoù
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -109,10 +125,12 @@ browser-data-history-label =
             [firefox] Roll istor merdeiñ ha sineoù
            *[other] Roll istor merdeiñ
         }
+
 browser-data-formdata-checkbox =
     .label = Roll istor ar furmskridoù enrollet
 browser-data-formdata-label =
     .value = Roll istor ar furmskridoù enrollet
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -121,6 +139,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Titouroù kennaskañ enrollet
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -135,10 +154,12 @@ browser-data-bookmarks-label =
             [edge] Sinedoù
            *[other] Sinedoù
         }
+
 browser-data-otherdata-checkbox =
     .label = Roadennoù all
 browser-data-otherdata-label =
     .label = Roadennoù all
+
 browser-data-session-checkbox =
     .label = Prenestroù hag ivinelloù
 browser-data-session-label =

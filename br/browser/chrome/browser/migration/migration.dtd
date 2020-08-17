@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Enporzhiañ an dibarzhioù, sinedoù, roll istor, gerioù-tremen ha roadennoù all adalek :">
 <!ENTITY importFromUnix.label           "Enporzhiañ an dibaboù gwellañ, sinedoù, roll istor, gerioù-tremen ha roadennoù all diouzh :">
-<!ENTITY importFromBookmarks.label      "Enporzhiañ sinedoù diouzh :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

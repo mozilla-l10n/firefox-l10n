@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Pegañ hep furmaozañ">
 <!ENTITY pasteNoFormatting.accesskey "h">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Pegañ evel">
-<!ENTITY pasteAs.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.label "Pegañ evel ur meneg">
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Kavout…">
-<!ENTITY findReplaceCmd.label "Kavout hag amsaviñ…">
-<!ENTITY enableInlineSpellChecker.label "Reizhskrivañ en ur vizskrivañ">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Gwiriañ ar reizhskrivañ…">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Enlakaat">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Korf testenn">
 <!ENTITY bodyTextCmd.accesskey "t">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Perzhioù kempleshoc'h">
-<!ENTITY advancedPropertiesCmd.accesskey "r">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Desteudañ">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Marzekaat">
 <!ENTITY alignJustify.accesskey "r">
 <!ENTITY alignJustify.tooltip "Desteudañ marzekaet">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Gwiskad">
-<!ENTITY layerSendToBack.tooltip "Kas d'an drekleur">
-<!ENTITY layerBringToFront.tooltip "Kas d'ar rakleur">
 
 <!ENTITY increaseIndent.label "Kreskiñ ar c'hilañ">
 <!ENTITY increaseIndent.accesskey "i">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Perzhioù an daolenn…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Barrenn lañser">
-<!ENTITY formatToolbar.tooltip "Barrenn ostilhoù mentrezhañ">
-<!ENTITY cutToolbarCmd.tooltip "Troc'hañ">
-<!ENTITY copyToolbarCmd.tooltip "Eilañ">
-<!ENTITY pasteToolbarCmd.tooltip "Pegañ">
-<!ENTITY printToolbarCmd.label "Moullañ">
-<!ENTITY printToolbarCmd.tooltip "Moullañ ar bajennad-mañ">
-<!ENTITY findToolbarCmd.label "Kavout">
-<!ENTITY findToolbarCmd.tooltip "Kavout testenn war ar bajenn">
-<!ENTITY spellToolbarCmd.label "Reizhskrivañ">
-<!ENTITY spellToolbarCmd.tooltip "Gwiriañ reizhskrivañ an diuzad pe ar bajennad a-bezh">
-
 <!ENTITY imageToolbarCmd.label "Skeudenn">
 <!ENTITY imageToolbarCmd.tooltip "Enlakaat ur skeudenn nevez pe embann perzhioù ar skeudenn diuzet">
 <!ENTITY hruleToolbarCmd.label "Linenn a-blaen">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Enlakaat un eor nevez anvet pe embann perzhioù an eor diuzet">
 <!ENTITY TextColorButton.tooltip "Dibab ul liv evit an destenn">
 <!ENTITY BackgroundColorButton.tooltip "Dibab al liv evit an drekleur">
-<!ENTITY throbber.tooltip2 "Mont da bajenn degemer &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Dibab al liv sklêrijennañ evit an destenn">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ment an nodrezh">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Desteudañ an destenn e kreiz">
 <!ENTITY alignRightButton.tooltip "Desteudañ an destenn a-hed ar marz dehou">
 <!ENTITY alignJustifyButton.tooltip "Marzekaat an destenn a-hed ar marzoù kleiz ha dehou">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Diuzañ">
-<!ENTITY structSelect.accesskey     "D">
-<!ENTITY structRemoveTag.label      "Lemel kuit ar c'hlav">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "Kemmañ ar c'hlav">
-<!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Enlakaat">

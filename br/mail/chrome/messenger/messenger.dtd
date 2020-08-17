@@ -521,17 +521,6 @@
 <!ENTITY errorConsoleCmd.label "Penel ar fazioù">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Bloc'h-notennañ">
-<!ENTITY scratchpadCmd.accesskey "B">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Kerc'hat ar c'hemennadennoù ">
@@ -585,7 +574,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Treuzkas ar gemennadenn diuzet evel kenstagadur">
 <!ENTITY fileButton.tooltip "Leuniañ ar gemennadenn diuzet">
 <!ENTITY archiveButton.tooltip "Diellaouiñ ar c'hemennadennoù diuzet">
-<!ENTITY openConversationButton.tooltip "Diskouez kaozeadenn ar gemennadenn diuzet">
 <!ENTITY openMsgConversationButton.tooltip "Diskouez kaozeadenn ar gemennadenn diuzet">
 <!ENTITY nextButton.tooltip "Mont d'ar gemennadenn anlennet war-lerc'h">
 <!ENTITY nextMsgButton.tooltip "Mont d'ar gemennadenn war-lerc'h">

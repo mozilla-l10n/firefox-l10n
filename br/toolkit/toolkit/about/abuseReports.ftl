@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Nullañ
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Mekaat ma urzhiataer ha ma roadennoù.
-
 abuse-report-damage-reason-v2 = Mekaet eo bet ma urzhiataer ha ma roadennoù.
 abuse-report-damage-example = Skouer: en deus ensinklet ur wallveziant pe laeret roadennoù
 
-abuse-report-spam-reason = A grou spam pe bruderezh
-
 abuse-report-spam-reason-v2 = En deus spam ennañ pe a ziskouez bruderezh strobus
 abuse-report-spam-example = Skouer: a lak bruderezh war pajennoù web
-
-abuse-report-settings-reason = En deus cheñchet ma lusker enklask, ma fajenn degemer pe ivinell nevez hep kelaouiñ ac'hanon pe goulenn ouzhin
 
 abuse-report-settings-reason-v2 = En deus cheñchet ma lusker enklask, ma fajenn degemer pe ivinell nevez hep kelaouiñ ac'hanon pe goulenn ouzhin
 abuse-report-settings-suggestions = A-raok danevelliñ an astenn e c'hellit klask cheñch ho arventennoù:
 abuse-report-settings-suggestions-search = A cheñch ho arventennoù enklask dre ziouer
 abuse-report-settings-suggestions-homepage = A cheñch ho pajenn degemer hag ivinell nevez
 
-abuse-report-deceptive-reason = A lavar eo un dra bennak n'eo ket anezhañ/anezhi
-
 abuse-report-deceptive-reason-v2 = Lavarout a ra eo un dra bennak n'eo ket anezhañ/anezhi
 abuse-report-deceptive-example = Skouer: deskrivadur pe skeudennoù touellus
-
-abuse-report-broken-reason-extension = N'ez a ket en-dro, terriñ a ra al lec'hiennoù web pe gorrekaat a ra { -brand-product-name }
-abuse-report-broken-reason-theme = N'ez a ket en-dro pe terriñ a ra diskweladur ar merdeer
 
 abuse-report-broken-reason-extension-v2 = N'ez a ket en-dro, terriñ a ra al lec'hiennoù web pe gorrekaat a ra { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = N'ez a ket en-dro pe terriñ a ra diskweladur ar merdeer
@@ -99,15 +88,11 @@ abuse-report-broken-suggestions-theme =
     ur gudenn arc'hweladur, an hent gwellañ a zo mont e darempred ouzh diorroer an tem.
     <a data-l10n-name="support-link"> Kit da welout lec'hienn internet an tem</a> evit gouzout hiroc'h diwar-benn an diorroer.
 
-abuse-report-policy-reason = Danvez kasonius, feulz pe er-maez lezenn
-
 abuse-report-policy-reason-v2 = Danvez kasonius, feulz pe er-maez lezenn en deus ennañ
 abuse-report-policy-suggestions =
     Evezhiadenn: Ar c'hudennoù gwirioù oberour ha merkoù a rank bezañ disklêriet dre un hent all.
     <a data-l10n-name="report-infringement-link">Grit diouzh ar c'hemennadoù-se</a> a-benn 
     disklêriañ ar gudenn.
-
-abuse-report-unwanted-reason = Gwech ebet n'em eus bet c'hoant da gaout an astennad-mañ ha ne zeuan ket a-benn da zilezel anezhañ
 
 abuse-report-unwanted-reason-v2 = Biken n'em eus bet c'hoant da gaout anezhañ ha n'ouzon ket penaos ober evit e zilezel.
 abuse-report-unwanted-example = Skouer: Un arload en deus staliet anezhañ hep ma aotre

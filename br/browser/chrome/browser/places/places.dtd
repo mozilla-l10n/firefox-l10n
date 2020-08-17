@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Dibab ur restr…">
 <!ENTITY cmd.restoreFromFile.accesskey  "b">
 
-<!ENTITY cmd.deleteDomainData.label     "Ankouaat al lec'hienn-mañ">
-<!ENTITY cmd.deleteDomainData.accesskey "A">
-
-<!ENTITY cmd.open.label                  "Digeriñ">
-<!ENTITY cmd.open.accesskey              "g">
-<!ENTITY cmd.open_window.label           "Digeriñ e-barzh ur prenestr nevez">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Digeriñ e-barzh ur prenestr merdeiñ prevez nevez">
-<!ENTITY cmd.open_private_window.accesskey "m">
-<!ENTITY cmd.open_tab.label              "Digeriñ e-barzh un ivinell nevez">
-<!ENTITY cmd.open_tab.accesskey          "g">
-<!ENTITY cmd.open_all_in_tabs.label      "Digeriñ an holl anezho e ivinelloù">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Perzhioù">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Rummañ dre anv">
-<!ENTITY cmd.sortby_name.accesskey          "m">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Sined nevez…">
-<!ENTITY cmd.new_bookmark.accesskey        "n">
-<!ENTITY cmd.new_folder.label              "Teuliad nevez…">
-<!ENTITY cmd.new_folder.accesskey          "u">
-<!ENTITY cmd.context_new_folder.accesskey  "N">
-<!ENTITY cmd.new_separator.label           "Disranner nevez">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Anv">
 <!ENTITY col.tags.label          "Klavioù">
 <!ENTITY col.url.label           "Lec'hiadur">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Kont ar gweladenniñ">
 <!ENTITY col.dateadded.label     "Ouzhpennet">
 <!ENTITY col.lastmodified.label  "An hini kemmet diwezhañ">
-
-<!ENTITY historySearch.placeholder  "Klask er roll istor">
-<!ENTITY bookmarksSearch.placeholder  "Klask er sinedoù">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Diuzañ an ergorenn evit gwelout he ferzhioù">
 
-<!ENTITY view.label               "Gwelout">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Diouzh an deiziad">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Diouzh al lec'hienn">
-<!ENTITY bySite.accesskey         "D">
-<!ENTITY byMostVisited.label      "Diouzh an hini gweladennetañ">
-<!ENTITY byMostVisited.accesskey  "D">
-<!ENTITY byLastVisited.label      "Diouzh an hini gweladennet diwezhatañ">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Diouzh an deiziad hag al lec'hienn">
-<!ENTITY byDayAndSite.accesskey   "D">
