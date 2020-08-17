@@ -48,8 +48,8 @@ about-telemetry-data-type =
 #   $uploadcase (String): represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
-        [enabled] omogućeno
-       *[disabled] onemogućeno
+        [enabled] aktivirano
+       *[disabled] deaktivirano
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:

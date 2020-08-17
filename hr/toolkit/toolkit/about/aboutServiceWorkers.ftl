@@ -7,9 +7,8 @@
 
 about-service-workers-title = O radnim procesima usluge
 about-service-workers-main-title = Registrirani radni procesi usluge
-about-service-workers-warning-not-enabled = Radni procesi usluge nisu uključeni.
+about-service-workers-warning-not-enabled = Radni procesi usluge nisu aktivirani.
 about-service-workers-warning-no-service-workers = Nema registriranih radnih procesa usluge.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Naziv aktivne priručne memorije:</strong> { $name }
 waiting-cache-name = <strong>Naziv prirične memorije na čekanju:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Aktualiziraj
-
 unregister-button = Odjavi
-
 unregister-error = Odjava ovog radnog procesa usluge nije uspjela.
-
 waiting = Čekanje…
