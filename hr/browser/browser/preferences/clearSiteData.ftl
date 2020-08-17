@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Kolačići i podaci web stranice
     .accesskey = K
-clear-site-data-cookies-info = Moguće je da ćete biti odjavljeni sa web stranica ukoliko obrišete.
+clear-site-data-cookies-info = Moguće je da ćeš se odjaviti s web stranica, ako izbrišeš
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
