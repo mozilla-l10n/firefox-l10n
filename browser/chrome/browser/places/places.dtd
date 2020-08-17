@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Elekti dosieron…">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
-<!ENTITY cmd.deleteDomainData.label     "Forgesi tiun ĉi retejon">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "Malfermi">
-<!ENTITY cmd.open.accesskey              "M">
-<!ENTITY cmd.open_window.label           "Malfermi en nova fenestro">
-<!ENTITY cmd.open_window.accesskey       "F">
-<!ENTITY cmd.open_private_window.label     "Malfermi en nova privata fenestro">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Malfermi en nova langeto">
-<!ENTITY cmd.open_tab.accesskey          "n">
-<!ENTITY cmd.open_all_in_tabs.label      "Malfermi ĉiujn en langetoj">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "M">
-
-<!ENTITY cmd.properties.label      "Atributoj">
-<!ENTITY cmd.properties.accesskey  "o">
-
-<!ENTITY cmd.sortby_name.label              "Ordigi laŭ nomo">
-<!ENTITY cmd.sortby_name.accesskey          "O">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nova legosigno…">
-<!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_folder.label              "Nova dosierujo…">
-<!ENTITY cmd.new_folder.accesskey          "n">
-<!ENTITY cmd.context_new_folder.accesskey  "M">
-<!ENTITY cmd.new_separator.label           "Nova apartigilo">
-<!ENTITY cmd.new_separator.accesskey       "N">
-
 <!ENTITY col.name.label          "Nomo">
 <!ENTITY col.tags.label          "Etikedoj">
 <!ENTITY col.url.label           "Retadreso">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Nombro de vizitoj">
 <!ENTITY col.dateadded.label     "Aldonita">
 <!ENTITY col.lastmodified.label  "Laste modifita">
-
-<!ENTITY historySearch.placeholder  "Serĉi historion">
-<!ENTITY bookmarksSearch.placeholder  "Serĉi legosignojn">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Elekti elementon por vidi kaj modifi ĝiajn atributojn">
 
-<!ENTITY view.label               "Vidi">
-<!ENTITY view.accesskey           "v">
-<!ENTITY byDate.label             "Laŭ dato">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Laŭ retejo">
-<!ENTITY bySite.accesskey         "r">
-<!ENTITY byMostVisited.label      "Laŭ vizitoj">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Laŭ dato de vizito">
-<!ENTITY byLastVisited.accesskey  "a">
-<!ENTITY byDayAndSite.label       "Laŭ dato kaj retejo">
-<!ENTITY byDayAndSite.accesskey   "k">

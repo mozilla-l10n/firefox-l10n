@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Ricevu ĝin en Google Play
 login-app-promo-apple =
     .alt = Elŝuti el la App Store
+
 login-filter =
     .placeholder = Serĉi en legitimiloj
+
 create-login-button = Krei novan legitimilon
+
 fxaccounts-sign-in-text = Spegulu viajn pasvortojn en viaj aliaj aparatoj
 fxaccounts-sign-in-button = Komenci seancon en { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name } aŭ enportu Ilin.
 about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Krei konton aŭ komencu seancon en { -fxaccount-br
 login-intro-instruction-fxa-settings = Certu esti elektinta la markobutonon Legitimiloj en la agordoj de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo
 about-logins-intro-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Se viaj legitimiloj estas konservitaj ekster { -brand-product-name }, vi povas <a data-l10n-name="import-browser-link">enporti ilin el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Por redakti viajn legitimil
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifi la konservitan legitimilon
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Por vidi vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = malkaŝi la konservitan pasvorton
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Por kopii vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopii la konservitan pasvorton
+
+## Master Password notification
+
+master-password-notification-message = Bonvolu tajpi vian ĉefan pasvorton por vidi konservitajn legitimilojn kaj pasvortojn
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Por elporti viajn legitimilojn, tajpu la akdreditilojn  de Windows. Tio helpas protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Elporto konservis legitimilojn kaj pasvortojn
-
-## Master Password notification
-
-master-password-notification-message = Bonvolu tajpi vian ĉefan pasvorton por vidi konservitajn legitimilojn kaj pasvortojn
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Nuligi
 confirmation-dialog-dismiss-button =
     .title = Nuligi
+
 about-logins-confirm-remove-dialog-title = Ĉu forigi tiun ĉi legitimilon?
 confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
 about-logins-confirm-remove-dialog-confirm-button = Forigi
+
 about-logins-confirm-export-dialog-title = Elporti legitimilojn kaj pasvortojn
 about-logins-confirm-export-dialog-message = Viaj pasvortoj estos konservitaj kiel legebla teksto (ekzemple: Aĉ@pasvorto) tiel ke iu ajn kun aliro al la dosiero povos vidi ilin.
 about-logins-confirm-export-dialog-confirm-button = Elporti…
+
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
 confirm-discard-changes-dialog-message = Ĉiuj nekonservitaj ŝanĝoj estos perditaj.
 confirm-discard-changes-dialog-confirm-button = Ignori
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Pli da informo
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Jam ekzistas elemento por { $loginTitle } kun tiu nomo de uzanto. <a data-l10n-name="duplicate-link">Ĉu iri al la ekzistanta elemento?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Eraro okazis dum konservo de tiu ĉi pasvorto.
+
 
 ## Login Export Dialog
 

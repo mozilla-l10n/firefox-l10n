@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Administru viajn aldonaĵojn per alklako de
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj
     .accesskey = P
-appmenu-addon-private-browsing =
-    .label = Ŝanĝoj de etendaĵoj en privataj fenestroj
-    .buttonlabel = Administri etendaĵojn
-    .buttonaccesskey = A
-    .secondarybuttonlabel = En ordo, mi komprenis
-    .secondarybuttonaccesskey = o
-appmenu-addon-private-browsing-message = Neniu nova etendaĵo aldonita al { -brand-shorter-name } funkcios en privataj fenestroj, krom se vi tion permesas en la agordoj.
-appmenu-addon-private-browsing-learn-more = Pli da informo pri administro de agordoj de etendaĵoj.
     
 appmenu-new-tab-controlled =
     .label = Via nova langeto ŝanĝiĝis.

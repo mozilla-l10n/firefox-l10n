@@ -3,5 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "Spegulado">
-<!ENTITY syncBrand.fullName.label   "Spegulado de Firefox">
 <!ENTITY syncBrand.fxAccount.label  "Konto de Firefox">

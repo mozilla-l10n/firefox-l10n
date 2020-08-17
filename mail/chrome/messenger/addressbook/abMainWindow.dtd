@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Redakti">
 <!ENTITY editMenu.accesskey                             "R">
-<!ENTITY undoCmd.label                                  "Malfari">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "M">
-<!ENTITY redoCmd.label                                  "Refari">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "R">
-<!ENTITY cutCmd.label                                   "Eltondi">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Kopii">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Alglui">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "g">
 <!ENTITY deleteCmd.label                                "Forigi">
-<!ENTITY deleteCmd.accesskey                            "F">
 <!ENTITY deleteAbCmd.label                              "Forigi adresaron">
 <!ENTITY deleteContactCmd.label                         "Forigi kontakton">
 <!ENTITY deleteContactsCmd.label                        "Forigi kontaktojn">
 <!ENTITY deleteListCmd.label                            "Forigi liston">
 <!ENTITY deleteListsCmd.label                           "Forigi listojn">
 <!ENTITY deleteItemsCmd.label                           "Forigi objektojn">
-<!ENTITY selectAllCmd.label                             "Elekti ĉiujn">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "E">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Interŝanĝi nomojn familian/personan">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "I">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Atributoj">
 <!ENTITY propertiesMenu.accesskey                       "A">
 <!ENTITY propertiesCmd.key                              "i">

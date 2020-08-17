@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Alglui neformatitan tekston">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Alglui kiel">
-<!ENTITY pasteAs.accesskey "k">
 <!ENTITY pasteAsQuotationCmd.label "Alglui kiel citaĵon">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Serĉi…">
-<!ENTITY findReplaceCmd.label "Serĉi kaj anstataŭigi…">
-<!ENTITY enableInlineSpellChecker.label "Kontroli literumadon dum tajpi">
-<!ENTITY enableInlineSpellChecker.accesskey "K">
-<!ENTITY checkSpellingCmd2.label "Kontroli literumadon…">
-<!ENTITY checkSpellingCmd2.accesskey "l">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Enmeti">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Enhavo">
 <!ENTITY bodyTextCmd.accesskey "E">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Spertulaj atributoj">
-<!ENTITY advancedPropertiesCmd.accesskey "j">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Ĝisrandigi">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "ambaŭflanken">
 <!ENTITY alignJustify.accesskey "a">
 <!ENTITY alignJustify.tooltip "Alkadrigi la elementon ambaŭflanken">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Tavolo">
-<!ENTITY layerSendToBack.tooltip "Movi fonen">
-<!ENTITY layerBringToFront.tooltip "Movi malfonen">
 
 <!ENTITY increaseIndent.label "Pliigi marĝenon">
 <!ENTITY increaseIndent.accesskey "P">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Atributoj de tabelo…">
 <!ENTITY tableProperties.accesskey "A">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Strio de menuo">
-<!ENTITY formatToolbar.tooltip "Strio de formatado">
-<!ENTITY cutToolbarCmd.tooltip "Eltondi">
-<!ENTITY copyToolbarCmd.tooltip "Kopii">
-<!ENTITY pasteToolbarCmd.tooltip "Alglui">
-<!ENTITY printToolbarCmd.label "Presi">
-<!ENTITY printToolbarCmd.tooltip "Presi tiun ĉi paĝon">
-<!ENTITY findToolbarCmd.label "Serĉi">
-<!ENTITY findToolbarCmd.tooltip "Serĉi tekston en la paĝo">
-<!ENTITY spellToolbarCmd.label "Ortografio">
-<!ENTITY spellToolbarCmd.tooltip "Kontroli pri ortografiaj eraroj en la elekto aŭ en la tuta paĝo">
-
 <!ENTITY imageToolbarCmd.label "Bildo">
 <!ENTITY imageToolbarCmd.tooltip "Enmeti novan bildon aŭ redakti atributojn de elektita bildo">
 <!ENTITY hruleToolbarCmd.label "Horizontala linio">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Enmeti novan nomitan ankron aŭ redakti atributojn de elektita ankro">
 <!ENTITY TextColorButton.tooltip "Elekti koloron de teksto">
 <!ENTITY BackgroundColorButton.tooltip "Elekti koloron de fono">
-<!ENTITY throbber.tooltip2 "Iri al retejo de la programo &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Elekti koloron de prilumo de teksto">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Elekti grandon de tiparo">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Ĝisrandigi tekston al la centro">
 <!ENTITY alignRightButton.tooltip "Ĝisrandigi tekston al dekstra marĝeno">
 <!ENTITY alignJustifyButton.tooltip "Ĝisrandigi tekston egale al maldekstra kaj dekstra marĝenoj">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Elekti">
-<!ENTITY structSelect.accesskey     "E">
-<!ENTITY structRemoveTag.label      "Forigi etikedon">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "Ŝanĝi etikedon">
-<!ENTITY structChangeTag.accesskey  "n">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Enmeti">

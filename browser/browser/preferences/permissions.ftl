@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Bonvolu tajpi validan servilan nomon
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Esceptoj - Blokado de enhavo
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Vi malaktvigis la blokadon de enhavo por tiuj ĉi retejoj.
-
 permissions-exceptions-etp-window =
     .title = Esceptoj por la plibonigita protekto kontraŭ spurado
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Vi povas difini, kiuj retejoj havos la permeson instali aldonaĵojn. Tajpu la ekzaktan adreson de la retejo al kiu vi volas doni tiun rajton kaj poste alklaku sur Permesi.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Esceptoj - Aŭtomata ludado
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Vi povas specifi, kiuj retejoj rajtos ĉu ĉiam ĉu neniam aŭtomate ludi audvidaĵon kun sono. Tajpu la adreson de la retejo, kiun vi volas administri, kaj poste alklaku Bloki aŭ Permesi.
 
 ## Site Permissions - Autoplay
 

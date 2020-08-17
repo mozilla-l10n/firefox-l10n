@@ -2,16 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Agordi ekzistantan retpoŝtan konton">
-
 <!ENTITY name.label                      "Nomo:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "Persona FAMILIA">
 <!ENTITY name.text                       "Via nomo, kiu estos montrata al aliuloj">
 <!ENTITY email.label                     "Retpoŝta adreso">
 <!ENTITY email.accesskey                 "a">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "vi@example.com">
 <!ENTITY email.text                      "Via ekzistanta retpoŝta adreso">
 <!ENTITY password.label                  "Pasvorto:">
 <!ENTITY password.accesskey              "P">
@@ -32,9 +27,6 @@
 <!ENTITY incoming.label                  "Enira servilo:">
 <!ENTITY outgoing.label                  "Elira servilo:">
 <!ENTITY username.label                  "Salutnomo:">
-<!ENTITY hostname.label                  "Servila nomo">
-<!ENTITY port.label                      "Pordo">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Aŭtentigo">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -65,8 +57,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Eltrovi ree">
 <!ENTITY half-manual-test.accesskey      "E">
-<!ENTITY manual-edit.label               "Agordi permane">
-<!ENTITY manual-edit.accesskey           "p">
 <!ENTITY open-provisioner.label          "Akiri novan retpoŝtan adreson…">
 <!ENTITY open-provisioner.accesskey      "n">
 

@@ -12,8 +12,5 @@
 <!ENTITY iconsBesideText.label    "Bildsimboloj ĉe tekstoj">
 <!ENTITY useSmallIcons.label      "Uzi etajn bildsimbolojn">
 <!ENTITY restoreDefaultSet.label  "Implicita aranĝo">
-<!ENTITY addNewToolbar.label      "Aldoni novan ilaron">
-<!ENTITY showTitlebar.label       "Montri titol‑ilaron">
-<!ENTITY extraDragSpace.label     "Aldoni lokon por treni">
 <!ENTITY saveChanges.label        "Farita">
 <!ENTITY undoChanges.label        "Malfari ŝanĝojn">

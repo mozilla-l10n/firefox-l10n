@@ -35,12 +35,7 @@ connection-proxy-http = Peranto por HTTP
     .accesskey = H
 connection-proxy-http-port = Pordo
     .accesskey = P
-connection-proxy-http-share =
-    .label = Uzi tiun ĉi peranton por ĉiuj protokoloj
-    .accesskey = p
 
-connection-proxy-ssl = Peranto por SSL
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Uzi tiun ĉi retperanton ankaŭ por FTP kaj HTTPS.
     .accesskey = U
