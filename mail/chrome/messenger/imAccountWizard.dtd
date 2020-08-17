@@ -14,7 +14,7 @@
 
 <!ENTITY accountPasswordTitle.label   "비밀번호">
 <!ENTITY accountPasswordInfo.label    "계정 비밀번호를 입력해 주십시오.">
-<!ENTITY accountPasswordField.label   "암호:">
+<!ENTITY accountPasswordField.label   "비밀번호:">
 <!ENTITY accountPasswordManager.label "입력된 암호는 암호 관리자에 저장됩니다.암호가 필요없거나 계정 접속시에 암호를 매회 입력하고 싶은 경우 이 박스에 아무것도 입력하지 않으시면 됩니다.">
 
 <!ENTITY accountAdvancedTitle.label   "상세 설정">
