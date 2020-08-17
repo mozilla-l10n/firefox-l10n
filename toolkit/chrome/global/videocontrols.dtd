@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Vidèo incrustada">
 
-<!ENTITY stats.media "Mèdia">
-<!ENTITY stats.size "Talha">
-<!ENTITY stats.activity "Activitat">
-<!ENTITY stats.activityPaused "En pausa">
-<!ENTITY stats.activityPlaying "Lectura en cors">
-<!ENTITY stats.activityEnded "Acabat">
-<!ENTITY stats.activitySeeking "(recèrca)">
-<!ENTITY stats.volume "Volum">
-<!ENTITY stats.framesParsed "Imatges analisats">
-<!ENTITY stats.framesDecoded "Imatges desencodats">
-<!ENTITY stats.framesPresented "Imatges presentats">
-<!ENTITY stats.framesPainted "Imatges dessenhats">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "La lectura de la vidèo es estada arrestada a causa d'una error desconeguda.">
 
 <!ENTITY status.pictureInPicture "Aquesta vidèo es en lectura en mòde Vidèo incrustada">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 sus #2 passat(s)">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

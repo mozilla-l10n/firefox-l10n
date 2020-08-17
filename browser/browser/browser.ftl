@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navegacion privada)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navegacion privada)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegacion privada)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegacion privada)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = Avètz blocat l’accès MIDI per aqueste site web.
 urlbar-install-blocked =
     .tooltiptext = Avètz blocat l’installacion de moduls complementaris per aqueste site.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modificar aqueste marcapagina ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,12 +180,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Aqueste còp, recercar amb :
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Paramètres de recèrca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar los paramètres de recèrca
+
 search-one-offs-context-open-new-tab =
     .label = Recercar dins un onglet novèl
     .accesskey = R
@@ -191,6 +197,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Definir coma motor de recèrca per defaut en navegacion privada
     .accesskey = p
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -217,8 +224,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Mostrar l’editor en enregistrant
     .accesskey = M
+
 bookmark-panel-done-button =
     .label = Acabar
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -292,12 +301,15 @@ popup-select-microphone =
     .value = Microfòn de partejar :
     .accesskey = M
 popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.
+
 popup-screen-sharing-not-now =
     .label = Pas ara
     .accesskey = P
+
 popup-screen-sharing-never =
     .label = Autorizar pas jamai
     .accesskey = p
+
 popup-silence-notifications-checkbox = Desactivar las notificacions de { -brand-short-name } pendent lo partatge
 popup-silence-notifications-checkbox-warning = { -brand-short-name } mostrarà pas de notificacions pendent lo partatge.
 
@@ -314,23 +326,17 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Per utilizar l’acorchi F12, dobrissètz d’en primièr lo panèl d’aisinas de desvolopament via lo menú Desvolopaire Web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Picar un tèrme de recercar o una adreça
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Picar un tèrme de recercar o una adreça
-# This placeholder is used in search mode with search engines that search the
-# entire web.
-urlbar-placeholder-search-mode-web =
-    .placeholder = Recèrca sul web
-# This placeholder is used in search mode with search engines that search a
-# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
-# tabs).
-urlbar-placeholder-search-mode-other =
-    .placeholder = Picar un tèrme de recèrca
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -341,9 +347,11 @@ urlbar-permissions-granted =
     .tooltiptext = Avètz donat de permissions suplementàrias a aquel site.
 urlbar-switch-to-tab =
     .value = Anar a l'onglet :
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension :
+
 urlbar-go-button =
     .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
 urlbar-page-action-button =

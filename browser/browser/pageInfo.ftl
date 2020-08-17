@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Enregistrar jos…
     .accesskey = E
-media-preview =
-    .value = Apercebut del mèdia :
 
 perm-tab =
     .label = Permissions
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Òc-ben, de cookies
 security-site-data-no = Non
 
 image-size-unknown = Desconegut
-not-set-verified-by = Pas especificat
 page-info-not-specified =
     .value = Pas especificat
 not-set-alternative-text = Pas especificat
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Mòde de compatibilitat (quirks)
 general-strict-mode =
     .value = Mòde de respècte dels estandards
-security-no-owner = Aqueste site web dòna pas cap d'informacions sul proprietari.
 page-info-security-no-owner =
     .value = Aqueste site web dòna pas cap d'informacions sul proprietari.
 media-select-folder = Seleccionatz un repertòri ont enregistrar los imatges

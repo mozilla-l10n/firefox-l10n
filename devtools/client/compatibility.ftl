@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (obsolèt)
 compatibility-issue-experimental = (experimental)
 compatibility-issue-prefixneeded = (prefix requerit)
 compatibility-issue-deprecated-experimental = (obsolèt, experimental)
+
 compatibility-issue-deprecated-prefixneeded = (obsolèt, prefix requerit)
 compatibility-issue-experimental-prefixneeded = (experimental, prefix requerit)
 compatibility-issue-deprecated-experimental-prefixneeded = (obsolèt, experimental, prefix requerit)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } occuréncia
        *[other] { $number } occuréncias
     }
+
 compatibility-no-issues-found = Cap de problèma de compatibilitat pas trobat.
 compatibility-close-settings-button =
     .title = Tampar los paramètres

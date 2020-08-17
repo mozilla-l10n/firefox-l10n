@@ -35,12 +35,7 @@ connection-proxy-http = Servidor mandatari HTTP
     .accesskey = H
 connection-proxy-http-port = Pòrt
     .accesskey = P
-connection-proxy-http-share =
-    .label = Utilizar aqueste servidor mandatari per totes los protocòls
-    .accesskey = t
 
-connection-proxy-ssl = Servidor mandatari SSL
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Utilizar tanben aqueste servidor mandatari pel FTP e HTTPS
     .accesskey = s

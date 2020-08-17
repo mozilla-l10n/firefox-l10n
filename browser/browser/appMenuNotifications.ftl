@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Gerir los moduls en clicant <image data-l10
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autorizar aquesta extension en navegacion privada
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Cambiament per las extensions en fenèstras privadas
-    .buttonlabel = Gestion de las extensions
-    .buttonaccesskey = G
-    .secondarybuttonlabel = Òc-en, comprés
-    .secondarybuttonaccesskey = o
-appmenu-addon-private-browsing-message = Las novèlas extensions qu’ajustatz a { -brand-shorter-name } foncionaràn pas en fenèstra privada fins que las autorisetz dins los paramètres.
-appmenu-addon-private-browsing-learn-more = Aprendre a gerir los paramètres de las extensions
     
 appmenu-new-tab-controlled =
     .label = La pagina Onglet novèls es estada cambiada.

@@ -70,15 +70,6 @@
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins lo cache de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; tòrna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Tornar ensajar per tornar demandar aqueste document a partir del site web.</li></ul>">
 
 <!ENTITY netOffline.title "Mòde sens connexion">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Tornatz ensajar. &brandShortName; esperarà per dobrir una connexion e tornarà cargar la pagina.
-    <button id='wifi'>Activar la connexion Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Error d’encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "

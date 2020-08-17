@@ -60,24 +60,16 @@
 <!ENTITY redoCmd.label "Rétablir">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
-<!ENTITY cutCmd.label "Couper">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "C">
-<!ENTITY copyCmd.label "Copier">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "p">
-<!ENTITY pasteCmd.label "Coller">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "o">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.accesskey  "o">
 <!ENTITY deleteCmd.label "Effacer">
 <!ENTITY deleteCmd.accesskey "e">
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.accesskey "T"> 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Rechercher le suivant">
 <!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key "G">
@@ -192,18 +184,8 @@
 <!ENTITY pasteButton.tooltip            "Coller">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY fromAddr.label "Expéditeur :">
-<!ENTITY fromAddr.accesskey "x">
-<!ENTITY toAddr.label "Pour :"> 
-<!ENTITY ccAddr.label "Copie à :"> 
-<!ENTITY bccAddr.label "Copie cachée à :"> 
-<!ENTITY replyAddr.label "Répondre à :"> 
-<!ENTITY newsgroupsAddr.label "Groupe :"> 
-<!ENTITY followupAddr.label "Faire suivre à :"> 
-<!ENTITY subject.label  "Sujet :">
+<!ENTITY fromAddr.accesskey "x"> 
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "j">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Insérer une émoticône">

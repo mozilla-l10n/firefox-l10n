@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Font de donadas de ping :
-about-telemetry-show-current-ping-data = Donadas actualas ping
 about-telemetry-show-current-data = Donadas actualas
 about-telemetry-show-archived-ping-data = Donadas ping archivadas
 about-telemetry-show-subsession-data = Afichar las donadas de substitucion
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = La telemetria reculhís las { about-telem
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Cada informacion es mandada empaquetada dins “<a data-l10n-name="ping-link">pings</a>”. Sètz a gaitar lo ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Cada informacion es mandada empaquetada dins “<a data-l10n-name="ping-link">pings</a>“. Sètz a gaitar lo ping actual.
 about-telemetry-data-details-current = Cada tròç d’informacion es mandat dins de paquets apelats « <a data-l10n-name="ping-link">pings</a> ». Sètz a gaitar las donadas actualas.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = O planhèm, i a pas cap de resultat per 
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = O planhèm, pel moment i a pas cap de donada disponibla dins “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping actual
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = donadas actualas
 # used in the “Ping Type” select

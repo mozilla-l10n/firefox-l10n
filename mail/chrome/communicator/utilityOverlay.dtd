@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label		"Edicion">
 <!ENTITY editMenu.accesskey		"n">
 <!ENTITY undoCmd.label		"Anullar">
-<!ENTITY undoCmd.key			"Z">
 <!ENTITY undoCmd.accesskey		"u">
 <!ENTITY redoCmd.label		"Restablir">
-<!ENTITY redoCmd.key			"Y">
 <!ENTITY redoCmd.accesskey		"R">
-<!ENTITY cutCmd.label			"Copar">
-<!ENTITY cutCmd.key			"X">
-<!ENTITY cutCmd.accesskey		"C">
-<!ENTITY copyCmd.label		"Copiar">
-<!ENTITY copyCmd.key			"C">
-<!ENTITY copyCmd.accesskey		"p">
-<!ENTITY pasteCmd.label		"Empegar">
-<!ENTITY pasteCmd.key			"V">
-<!ENTITY pasteCmd.accesskey		"o">
 <!ENTITY deleteCmd.label		"Escafar">
 <!ENTITY deleteCmd.accesskey		"E">
-<!ENTITY selectAllCmd.label		"Seleccionar tot">
-<!ENTITY selectAllCmd.key		"A">
-<!ENTITY selectAllCmd.accesskey	"T">
 <!ENTITY preferencesCmdUnix.label	"Preferéncias">
 <!ENTITY preferencesCmdUnix.accesskey	"n">
 

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Seguretat">
-<!ENTITY securityTab.label "Seguretat">
-<!ENTITY securityHeading.label "Per mandar e recebre de messatges signats o chifrats, es necessari d'especificar a l'encòp un certificat de signatura numerica e un certificat de chiframent.">
-<!ENTITY encryptionGroupTitle.label "Chiframent">
-<!ENTITY encryptionChoiceLabel.label "Utilizar lo chiframent pel mandadís dels messatges :">
-<!ENTITY neverEncrypt.label "Pas jamai">
-<!ENTITY neverEncrypt.accesskey "J">
-<!ENTITY alwaysEncryptMessage.label "Chifrar totjorn los messatges">
-<!ENTITY alwaysEncryptMessage.accesskey "T">
-<!ENTITY encryptionCert.message "Certificat personal per chifrar e deschifrar los messatges mandats :">
-
 <!ENTITY digitalSign.certificate.button "Seleccionar un certificat…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Escafar">
@@ -22,11 +11,5 @@
 <!ENTITY encryption.certificate_clear.button "Escafar">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Signatura">
-<!ENTITY signMessage.label "Signar los messatges numericament">
 <!ENTITY signMessage.accesskey "S">
-<!ENTITY signingCert.message "Certificat personal per signar numericament los messatges mandats :">
-
-<!ENTITY certificates.label "Certificats">
-<!ENTITY manageDevices.label "Periferics de seguretat">
-<!ENTITY manageDevices.accesskey "P">
 

@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Excepcions - Blocatge de contengut
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Avètz desactivat lo blocatge de contengut per aquestes sites.
-
 permissions-exceptions-etp-window =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz a installar de moduls complementaris. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Excepcions - Lectura automatica
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Podètz indicar quines sites web an totjorn o jamai l’autorizacion de lançar un mèdia amb son. Picatz las adreças dels sites que volètz gerir e causissètz Blocar o Autorizar.
 
 ## Site Permissions - Autoplay
 

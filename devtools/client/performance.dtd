@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Lo nom e l’emplaçament de la font de la foncion escapolonada.">
 <!ENTITY performanceUI.table.totalAlloc               "Assignacions escapolodadas totalas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Lo nombre total d’assignacions d’objèctes escapolonats dins aquestes emplaçaments e cridas.">
-<!ENTITY performanceUI.table.selfAlloc                "Allocacions escapolonadas pròprias">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Lo nombre d'assignacions d'objèctes ascapolonats dins aqueste emplaçament.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

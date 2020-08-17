@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Ensajatz aquò : penjar un onglet
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perqué aquò se bota aquí ?
+
 cfr-doorhanger-extension-cancel-button = Pas ara
     .accesskey = P
+
 cfr-doorhanger-extension-ok-button = Apondre ara
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Penjar aqueste onglet
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Gerir los paramètres de recomandacion
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = Me mostrar pas aquela recomandacion
     .accesskey = M
+
 cfr-doorhanger-extension-learn-more-link = Ne saber mai
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomandacions
 cfr-doorhanger-extension-notification2 = Recomandacions
     .tooltiptext = Extensions recomandadas
     .a11y-announcement = Recomendacions d’extensions disponiblas
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomandacions
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilizaire
        *[other] { $total } utilizaires
     }
+
 cfr-doorhanger-pintab-description = Accedissètz facilament als sites mai utilizats. Gardatz los sites dobèrts dins un onglets (amai quand reaviatz)
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Accedissètz facilament als sites mai utiliz
 cfr-doorhanger-pintab-step1 = <b>Clic drech</b> sus l’onglet que volètz penjar.
 cfr-doorhanger-pintab-step2 = Seleccionatz <b>Penjar aqueste onglet</b> al menú.
 cfr-doorhanger-pintab-step3 = Se lo site a una mesa a jorn, veiretz un punt blau sus vòstre onglet penjat.
+
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Reprendre
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Ne saber mai
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Novèla foncionalitat :
+
 cfr-whatsnew-button =
     .label = Qué de nòu
     .tooltiptext = Qué de nòu
+
 cfr-whatsnew-panel-header = Qué de nòu
+
 cfr-whatsnew-release-notes-link-text = Legir la nòta de version
+
 cfr-whatsnew-fx70-title = { -brand-short-name } luta encara mai per vòstra vida privada
 cfr-whatsnew-fx70-body =
     La darrièra mesa a jorn melhora la foncion de proteccion
     contra lo seguiment e permet de crear de senhals segurs per cada site.
+
 cfr-whatsnew-tracking-protect-title = Protegissètz-vos dels traçadors
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } bloca los elements de seguiment dels malhums socials e intersites
     mai populars  que vos pistan en linha.
 cfr-whatsnew-tracking-protect-link-text = Consultar vòstre rapòrt
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Dempuèi { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Veire lo rapòrt
+
 cfr-whatsnew-lockwise-backup-title = Salvagardatz vòstres senhals
 cfr-whatsnew-lockwise-backup-body = Ara podètz generar vòstres senhals securizats e i accedir de pertot ont vos connectatz.
 cfr-whatsnew-lockwise-backup-link-text = Activar las salvagardas
+
 cfr-whatsnew-lockwise-take-title = Emportatz vòstres senhals amb vos
 cfr-whatsnew-lockwise-take-body =
     L'aplicacion mobila { -lockwise-brand-short-name } vos permet d'accedir en tota seguretat vòstres
@@ -151,6 +170,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Generadors d’emprentas numericas
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloca fòrça generadors d’empruntas numericas qu’amassan d‘informacions tocant vòstre periferic e vòstras accions per crear un perfil publicitari vòstre.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Generadors d’emprentas numericas
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } pòt blocar los generadors d’empruntas numericas qu’amassan d‘informacions tocant vòstre periferic e vòstras accions per crear un perfil publicitari vòstre.
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = O mostrar tot
     .accesskey = m
+
 cfr-doorhanger-milestone-close-button = Tampar
     .accesskey = T
 

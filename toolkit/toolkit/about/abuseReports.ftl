@@ -60,30 +60,19 @@ abuse-report-messagebar-action-cancel = Anullar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Damatja mon ordenador e mas donadas
-
 abuse-report-damage-reason-v2 = Damatgèt mon ordenador o mas donadas
 abuse-report-damage-example = Exemple : logicial malvolent introduch o donada panada
 
-abuse-report-spam-reason = Crèa d'spma o de pubicitat
-
 abuse-report-spam-reason-v2 = Conten d'spam e de publicitat non desirada
 abuse-report-spam-example = Exemple : inserís publicitats sus las paginas web
-
-abuse-report-settings-reason = A cambiat mon motor de recèrca, pagina d’acuèlh, o d'onglets nòus sens m'avertir o me demandar
 
 abuse-report-settings-reason-v2 = A cambiat mon motor de recèrca, pagina d’acuèlh, o d’onglets nòus sens m'avertir o me demandar
 abuse-report-settings-suggestions = Abans de senhalar l’extension, podètz enssajar de modificar vòstres paramètres :
 abuse-report-settings-suggestions-search = Càmbia vòstres paramètres de recèrca per defaut
 abuse-report-settings-suggestions-homepage = Càmbia vòstra pagina d’acuèlh e d’onglet nòu
 
-abuse-report-deceptive-reason = Pretend èsser quicòm qu’es pas
-
 abuse-report-deceptive-reason-v2 = Pretend èsser quicòm qu’es pas
 abuse-report-deceptive-example = Exemple : descripcion e imatges enganaires
-
-abuse-report-broken-reason-extension = Fonciona pas, còpa los sites web, o alentís { -brand-product-name }
-abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
 
 abuse-report-broken-reason-extension-v2 = Fonciona pas, còpa los sites web, o alentís { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
@@ -97,15 +86,11 @@ abuse-report-broken-suggestions-theme =
     per resòlvre un problèma de foncionalitat es de contactar lo desvolopaire del tèma.
     <a data-l10n-name="support-link">Consultatz lo site Web del tèma</a> per obténer las informacions suls desvolopaires.
 
-abuse-report-policy-reason = Contengut asirós, violent o illegal
-
 abuse-report-policy-reason-v2 = Conten de contengut asirós, violent o illegal
 abuse-report-policy-suggestions =
     Remarca : los problèmas de drech d'autor e de marca devon èsser senhalats dins un processús diferent.
     <a data-l10n-name="report-infringement-link">Utilisatz aquestas instruccions</a> per
     senhalar lo problèma.
-
-abuse-report-unwanted-reason = Ai pas jamai volgut aquesta extension e pòdi pas me‘n desfar
 
 abuse-report-unwanted-reason-v2 = Ai pas jamai volgut aquò e sabi pas cossí me’n desfar
 abuse-report-unwanted-example = Exemple : una aplicacion l’installèt sens ma permission
