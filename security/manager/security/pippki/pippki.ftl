@@ -21,6 +21,9 @@ change-password-reenter = Novo contrasinal (outra vez):
 reset-password-window =
     .title = Restabelecer o contrasinal principal
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Restabelecer
 reset-password-text = Se restabelece o contrasinal principal esqueceranse os contrasinais de web e correo electrónico, os datos dos formularios, os certificados persoais e as chaves privadas que estean almacenados. Confirma que quere restabelecelo?

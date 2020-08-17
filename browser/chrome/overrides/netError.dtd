@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Non é posíbel conectarse">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Este enderezo está restrinxido">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Non se atopou o servidor">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Estamos tendo problemas para atopar ese sitio.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Se este enderezo é correcto, pode probar estas tres accións:</strong>
 <ul>
@@ -34,19 +28,13 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Non se atopou o ficheiro">
-
 <!ENTITY fileNotFound.longDesc "<ul><li>Comprobe o uso de maiúsculas no nome do ficheiro ou outros erros de escrita.</li><li>Comprobe se o ficheiro foi movido, renomeado ou borrado.</li></ul>">
-
-<!ENTITY fileAccessDenied.title "Denegouse o acceso ao ficheiro">
 
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Pode que fose retirado, movido ou os permisos do ficheiro impiden o acceso.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Vaites.">
 
 <!ENTITY generic.longDesc "<p>Non é posíbel que &brandShortName; cargue esta páxina por algunha razón.</p>
 ">
@@ -59,18 +47,10 @@
 <!ENTITY openPortalLoginPage.label2 "Abrir a páxina de inicio de sesión na rede">
 
 <!ENTITY malformedURI.pageTitle "URL non válido">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "O enderezo non parece correcto.">
-
-<!ENTITY netInterrupt.title "Interrompeuse a conexión">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "O documento caducou">
-
 <!ENTITY notCached.longDesc "<p>O documento solicitado non está dispoñíbel na memoria caché do &brandShortName;.</p><ul><li>Por razóns de seguranza, automaticamente o &brandShortName; non volve a solicitar documentos sensíbeis.</li><li>Prema Tentar de novo para volver a solicitar o documento do sitio web.</li></ul>">
-
-<!ENTITY netOffline.title "Modo sen conexión">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -78,23 +58,13 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Erro de codificación do contido">
-
 <!ENTITY contentEncodingError.longDesc "<ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
-
-<!ENTITY unsafeContentType.title "Tipo de ficheiro inseguro">
 
 <!ENTITY unsafeContentType.longDesc "<ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
-<!ENTITY netReset.title "Reiniciouse a conexión">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "A conexión esgotou o tempo">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Non se entendeu o enderezo">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -102,27 +72,17 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "O servidor proxy está a rexeitar as conexións">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>Comprobe a configuración proxy para asegurarse de que é correcta.</li>
   <li>Contacte co seu administrador de rede para asegurarse de que o servidor proxy está a funcionar.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Non é posíbel atopar o servidor proxy">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>Comprobe a configuración do proxy para asegurarse de que é a correcta.</li><li>Asegúrese de que o computador ten unha conexión de rede que funcione.</li><li>Se o seu computador ou rede está protexido por unha devasa ou un proxy, asegúrese de que &brandShortName; ten permiso para acceder á Web.</li></ul>">
-
-<!ENTITY redirectLoop.title "A páxina non está a redirixir correctamente">
 
 <!ENTITY redirectLoop.longDesc "<ul><li>Ás veces, este problema pode estar causado pola desactivación ou rexeitamento de aceptar cookies.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
-
 <!ENTITY unknownSocketType.longDesc "<ul><li>Comprobe que o seu sistema ten instalado o Xestor de seguranza persoal.</li><li>Isto podería deberse a unha configuración non estándar no servidor.</li></ul>">
-
-<!ENTITY nssFailure2.title "Fallou a conexión segura">
 
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
@@ -130,9 +90,6 @@
   <li>Contacte cos propietarios do sitio web para informalos deste problema.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Aviso: potencial risco de seguranza">
-<!ENTITY certerror.sts.longpagetitle  "Conexión bloqueada: Potencial incidencia de seguranza">
 
 <!ENTITY certerror.introPara2 "&brandShortName; detectou unha posible ameaza de seguranza e interrompeu a conexión a <span class='hostname'/>. Se visita este sitio, os atacantes poderían tentar roubar información como os seus contrasinais, correos, ou detalles da tarxeta de crédito.">
 
@@ -160,11 +117,7 @@
 
 <!ENTITY sharedLongDesc "<ul><li>O sitio podería estar non dispoñíbel temporalmente ou estar demasiado saturado. Tente acceder de novo nuns minutos</li><li>Se non consegue cargar algunhas páxinas, comprobe a conexión de rede do computador.</li><li>Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que &brandShortName; ten permiso para acceder á Web.</li></ul>">
 
-<!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Erro de contido danado">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
@@ -174,11 +127,7 @@
 <!ENTITY errorReporting.automatic2 "Informar de erros como este axuda a Mozilla a identificar e bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Obter máis información…">
 
-<!ENTITY remoteXUL.title "XUL remoto">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Non é posíbel conectarse de forma segura">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -189,21 +138,15 @@
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ten unha política de seguranza chamada «HTTP Strict Transport Security» (Seguranza de transporte estrita HTTP, ou HSTS), que significa que &brandShortName; só pode conectarse con el de forma segura. Non é posíbel engadir unha excepción para visitar este sitio.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto ao portapapeis">
 
-<!ENTITY inadequateSecurityError.title "A súa conexión non é segura">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa unha tecnoloxía de seguranza obsoleta e vulnerábel a un ataque. Un atacante podería facilmente obter información que vostede cre segura. O administrador do sitio web debe arranxar o servidor antes de poder visitar o sitio.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Páxina bloqueada">
 
-<!ENTITY clockSkewError.title "A hora do seu computador é incorrecta">
-
 <!ENTITY clockSkewError.longDesc "Segundo o seu computador, a data e hora actual son: <span id='wrongSystemTime_systemDate1'/>, o que impide que &brandShortName; se conecte de forma segura. Para visitar <span class='hostname'></span>, actualice o reloxo do seu computador na súa configuración do sistema á data e hora actual, ao fuso horario apropiado, e logo actualice <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Semella que a súa configuración de seguranza de rede podería causar isto. Quere restaurar a configuración predeterminada?">
 <!ENTITY prefReset.label "Restaurar a configuración predeterminada">
-
-<!ENTITY networkProtocolError.title "Erro do protocolo de rede">
 
 <!ENTITY networkProtocolError.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro protocolo da rede.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">

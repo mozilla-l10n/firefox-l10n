@@ -14,6 +14,7 @@ pw-erased-ok = Eliminou o contrasinal principal. { pw-empty-warning }
 pw-not-wanted = Aviso: Decidiu non utilizar un contrasinal principal. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Está en modo FIPS, que require un contrasinal principal que non estea en branco.
+
 pw-change-success-title = Contrasinal modificado con éxito
 pw-change-failed-title = Erro na modificación de contrasinal
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Modificar o contrasinal principal
+
 set-password-old-password = Contrasinal actual:
 set-password-new-password = Introducir novo contrasinal:
 set-password-reenter-password = Introducir de novo o contrasinal:
@@ -31,6 +33,7 @@ master-password-warning = Teña a certeza de memorizar o contrasinal principal d
 
 remove-password =
     .title = Eliminar o contrasinal principal
+
 remove-info =
     .value = Introduza o seu contrasinal para proseguir:
 remove-warning1 = O contrasinal principal utilízase para protexer información delicada, como os contrasinais dos sitios.

@@ -7,13 +7,6 @@ do-not-track-learn-more = Máis información
 do-not-track-option-always =
     .label = Sempre
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcións
-           *[other] Preferencias
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Opcións
@@ -413,16 +406,6 @@ update-application-use-service =
     .label = Usar un servizo en segundo plano para instalar as actualizacións
     .accesskey = g
 
-update-enable-search-update =
-    .label = Actualizar automaticamente os buscadores
-    .accesskey = e
-
-update-pref-write-failure-title = Erro de escritura
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Non é posíbel gardar a preferencia. Non foi posíbel escribir no ficheiro: { $path }
-
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -556,7 +539,6 @@ home-prefs-topsites-description = Os sitios que máis visita
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
-home-prefs-recommended-by-description = Os mellores contidos dispoñíbeis na web, personalizados para vostede
 ##
 
 home-prefs-recommended-by-learn-more = Como funciona
@@ -598,7 +580,6 @@ search-bar-shown =
     .label = Engadir unha barra de busca á barra de ferramentas
 
 search-engine-default-header = Buscador predeterminado
-search-engine-default-desc = Escolla o buscador predeterminado para usar na barra de enderezos e na de busca.
 
 search-suggestions-option =
     .label = Fornecer suxestións de busca
@@ -647,8 +628,6 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 
 ## Containers Section
 
-containers-back-link = « Retroceder
-
 containers-header = Lapelas contedor
 containers-add-button =
     .label = Engadir un novo contedor
@@ -668,14 +647,6 @@ containers-remove-button =
 sync-signedout-caption = Leve a Web con vostede
 sync-signedout-description = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
 
-sync-signedout-account-title = Conectar con { -fxaccount-brand-name }
-sync-signedout-account-create = Non ten unha conta? Comece aquí
-    .accesskey = c
-
-sync-signedout-account-signin =
-    .label = Identificarse…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -694,10 +665,6 @@ sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Cambiar a foto do perfil
 
-sync-disconnect =
-    .label = Desconectar…
-    .accesskey = D
-
 sync-manage-account = Xestionar conta
     .accesskey = o
 
@@ -715,9 +682,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Identificarse
     .accesskey = f
-
-sync-signedin-settings-header = Configuración de Sync
-sync-signedin-settings-desc = Use { -brand-short-name } para seleccionar o que desexa sincronizar nos seus dispositivos
 
 ## Sync section - enabling or disabling sync.
 
@@ -739,11 +703,6 @@ sync-engine-tabs =
     .label = Lapelas abertas
     .tooltiptext = Lista do que ten aberto en todos os dispositivos sincronizados
     .accesskey = t
-
-sync-engine-logins =
-    .label = Identificacións
-    .tooltiptext = Nomes de usuario e contrasinais que gardou
-    .accesskey = f
 
 sync-engine-addresses =
     .label = Enderezos
@@ -785,18 +744,12 @@ sync-device-name-save =
     .label = Gardar
     .accesskey = G
 
-sync-tos-link = Termos do servizo
-
-sync-fxa-privacy-notice = Política de privacidade
-
 ## Privacy Section
 
 privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
-
-logins-header = Identificacións e contrasinais
 
 ## Privacy Section - Logins and Passwords
 
@@ -822,6 +775,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = Está en modo FIPS, que require un contrasinal principal que non estea baleiro.
+
 forms-master-pw-fips-desc = Erro ao modificar o contrasinal
 
 ## OS Authentication dialog
@@ -939,25 +893,7 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Bloqueo de contido
-
 content-blocking-learn-more = Máis información
-
-content-blocking-setting-standard =
-    .label = Estándar
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Estrito
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = Personalizado
-    .accesskey = z
-
-content-blocking-standard-desc = Equilibrado entre protección e rendemento. Permite algúns elementos de seguimento para que os sitios web funcionen correctamente.
-content-blocking-custom-desc = Escolla que vai bloquear.
-
-content-blocking-private-trackers = Só elementos de seguimento coñecidos nas xanelas privadas
-content-blocking-third-party-cookies = Cookies de terceiros usadas con fins de seguimento
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -975,11 +911,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-windows-trackers = Elementos de seguimento coñecidos en todas as xanelas
 content-blocking-all-third-party-cookies = Todas as cookies de terceiros
 
 content-blocking-warning-title = Atención!
-content-blocking-learn-how = Coñeza como
 
 content-blocking-tracking-protection-change-block-list = Cambiar a lista de bloqueo
 
@@ -1021,10 +955,6 @@ permissions-notification-link = Máis información
 permissions-notification-pause =
     .label = Interromper as notificacións ata que { -brand-short-name } se reinicie
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = Excepcións…
-    .accesskey = E
 
 permissions-block-popups =
     .label = Bloquear xanelas emerxentes
@@ -1148,6 +1078,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = d
 
 space-alert-under-5gb-message = { -brand-short-name } xa non ten suficiente espazo en disco. É posíbel que o contido dos sitios web non se amose correctamente. Visite a ligazón «Máis información» para optimizar o seu uso de disco para mellorar a experiencia de navegación.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

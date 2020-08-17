@@ -10,8 +10,6 @@
 
 ##
 
-about-config-pref-save = Gardar
-
 ## Labels for the type selection radio buttons shown when adding preferences.
 
 

@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Tipo de cartafol:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
-<!ENTITY folderQuotaRoot.label                   "Raíz da cota:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Estado:">
 

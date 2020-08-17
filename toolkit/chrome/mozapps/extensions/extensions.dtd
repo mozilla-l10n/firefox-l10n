@@ -3,74 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!-- addon actions -->
-<!ENTITY cmd.enableAddon.label                "Activar">
-<!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.disableAddon.label               "Desactivar">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "Preguntar para activar">
-<!ENTITY cmd.askToActivate.tooltip            "Preguntar cada vez se usar este complemento">
-<!ENTITY cmd.alwaysActivate.label             "Activar sempre">
-<!ENTITY cmd.alwaysActivate.tooltip           "Usar sempre este complemento">
-<!ENTITY cmd.neverActivate.label              "Non activar nunca">
-<!ENTITY cmd.neverActivate.tooltip            "Nunca usar este complemento">
-<!ENTITY cmd.stateMenu.tooltip                "Cambiar cando se execute este complemento">
-
-<!ENTITY cmd.uninstallAddon.label             "Eliminar">
-<!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.showPreferencesWin.label         "Opcións">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar as opcións deste complemento">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Modificar as preferencias deste complemento">
-
-<!ENTITY cmd.showReleaseNotes.label           "Amosar notas do lanzamento">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Amosar as notas do lanzamento desta actualización">
-<!ENTITY cmd.hideReleaseNotes.label           "Agochar notas do lanzamento">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Agochar as notas do lanzamento desta versión">
-<!ENTITY cmd.findReplacement.label            "Atopar un substituto">
-
 <!-- discovery view -->
 
-
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Cancelar">
-
-<!ENTITY addon.details.label                  "Máis">
-<!ENTITY addon.details.tooltip                "Amosar máis detalles sobre este complemento">
-<!ENTITY addon.unknownDate                    "Descoñecido">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "HERDADO">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(desactivado)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Actualizar">
-<!ENTITY addon.undoAction.label               "Desfacer">
-<!ENTITY addon.undoAction.tooltip             "Desfacer esta acción">
-<!ENTITY addon.undoRemove.label               "Desfacer">
-<!ENTITY addon.undoRemove.tooltip             "Conservar este complemento instalado">
-
-<!ENTITY addon.install.label                  "Instalar">
-<!ENTITY addon.install.tooltip                "Instalar este complemento">
-<!ENTITY addon.updateNow.label                "Actualizar agora">
-<!ENTITY addon.updateNow.tooltip              "Instalar a actualización deste complemento">
-<!ENTITY addon.includeUpdate.label            "Incluír na actualización">
-<!ENTITY addon.updateAvailable.label          "Está dispoñíbel unha actualización">
-<!ENTITY addon.checkingForUpdates.label       "Comprobando actualizacións…">
-<!ENTITY addon.releaseNotes.label             "Notas do lanzamento:">
-<!ENTITY addon.loadingReleaseNotes.label      "Cargando…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sentímolo, pero produciuse un erro ao cargar as notas do lanzamento.">
-
-<!ENTITY addon.createdBy.label                "Por ">
-
-<!ENTITY settings.path.button.label           "Examinar…">
 
 <!ENTITY setting.learnmore "Máis información…">
 
