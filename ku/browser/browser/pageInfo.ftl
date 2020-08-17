@@ -64,8 +64,6 @@ media-save-as =
 media-save-image-as =
     .label = Cuda Tomar Bike...
     .accesskey = a
-media-preview =
-    .value = Pêşdîtina Medyayê:
 
 perm-tab =
     .label = Destûr
@@ -110,7 +108,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Nenas
-not-set-verified-by = Nehatiye diyarkirin
 page-info-not-specified =
     .value = Nehatiye diyarkirin
 not-set-alternative-text = Nehatiye diyarkirin
@@ -135,7 +132,6 @@ general-quirks-mode =
     .value = Moda Quirk
 general-strict-mode =
     .value = Moda komplîansa standard
-security-no-owner = Di vê malperê de agahiyên xwediyê malperê nîn in.
 page-info-security-no-owner =
     .value = Di vê malperê de agahiyên xwediyê malperê nîn in.
 media-select-folder = Ji bo Tomarkirina Wêneyan Peldankekê Hilbijêre

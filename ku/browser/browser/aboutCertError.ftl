@@ -36,6 +36,5 @@ proxyConnectFailure-title = Pêşkêşkara proksiyê girêdanan red dike
 proxyResolveFailure-title = Pêşkêşkara proksiyê nayê dîtin to find the proxy server
 redirectLoop-title = redirectLoop sernav
 unknownSocketType-title = Çewtî! Soket nayê zanîn
-cspBlocked-title = Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin
 corruptedContentError-title = Çewtiya Naveroka Şikestî
 remoteXUL-title = XULa dûr

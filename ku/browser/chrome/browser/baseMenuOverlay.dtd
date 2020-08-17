@@ -2,52 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Biçûk Bike">
-<!ENTITY bringAllToFront.label    "Hemûyan bi pêş ve bîne.">
-<!ENTITY zoomWindow.label         "Nêzîk Bike">
-<!ENTITY windowMenu.label         "Pencere">
-
-<!ENTITY helpMenu.label           "Alîkarî"> 
-<!ENTITY helpMenu.accesskey       "A"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Alîkarî"> 
-<!ENTITY helpMenuWin.accesskey    "A">
-
 <!ENTITY aboutProduct2.label      "Derbarê &brandShortName;ê de">
 <!ENTITY aboutProduct2.accesskey  "D">
-<!ENTITY productHelp2.label       "Alîkariya &brandShorterName;ê">
-<!ENTITY productHelp2.accesskey   "A">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Kurteriyên klavyeyê">
-<!ENTITY helpKeyboardShortcuts.accesskey "k">
-
-<!ENTITY helpSafeMode.label       "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
-<!ENTITY helpSafeMode.accesskey   "r">
 
 
-
-<!ENTITY helpTroubleshootingInfo.label      "Agahiyên tamîrkirinê">
-<!ENTITY helpTroubleshootingInfo.accesskey  "t">
-
-<!ENTITY helpFeedbackPage.label      "Ramanan Bişîne…">
-<!ENTITY helpFeedbackPage.accesskey  "R">
-
-<!ENTITY helpShowTour2.label            "Tura &brandShorterName;ê">
-<!ENTITY helpShowTour2.accesskey        "T">
 
 <!ENTITY preferencesCmdMac.label        "Vebijêrk">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servîs">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; 'ê veşêre">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Yên Din Veşêre">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Hemûyan Nîşan Bide">
 

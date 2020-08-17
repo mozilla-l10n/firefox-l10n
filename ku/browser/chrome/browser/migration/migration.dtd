@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Vebijêrk, Bijare, Mêjû, Nasnav û Daneyên din yên virê veguhêzîne hundir:">
 <!ENTITY importFromUnix.label           " Vebijêrk, Bijare, Mêjû, Nasnav û Daneyên din yên virê veguhêzîne hundir:">
-<!ENTITY importFromBookmarks.label      "Bijareyan ji virê bi hundir ve veguhêzîne:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

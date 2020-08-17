@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Çalak">
-<!ENTITY cmd.enableAddon.accesskey            "a">
-<!ENTITY cmd.disableAddon.label               "Neçalak">
-<!ENTITY cmd.disableAddon.accesskey           "N">
-
-<!ENTITY cmd.askToActivate.label              "Binêre ka pêvekên te nû ne yan na">
-<!ENTITY cmd.askToActivate.tooltip            "Bikaranîna vê pêvekê hemû caran bipirse">
-<!ENTITY cmd.alwaysActivate.label             "Hemû caran çalak bike">
-<!ENTITY cmd.alwaysActivate.tooltip           "Hemû caran vê pêvekê bi kar bîne">
-<!ENTITY cmd.neverActivate.label              "Hîç çalak neke">
-<!ENTITY cmd.neverActivate.tooltip            "Vê pêvekê hîç bi kar neyne">
-<!ENTITY cmd.stateMenu.tooltip                "Dema ev pêvek bê xebitandin biguherîne">
-
-<!ENTITY cmd.uninstallAddon.label             "Rake">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Vebijêrk">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Vebijêrkên vê add-onê biguherîne">
-<!ENTITY cmd.showPreferencesUnix.label        "Vebijêrk">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Vebijêrkên vê add-onê biguherîne">
-
-<!ENTITY cmd.showReleaseNotes.label           "Têbiniyên Weşanê Nîşan Bide">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Ji bo vê rojanekirinê têbiniyên weşanê nîşan bide">
-<!ENTITY cmd.hideReleaseNotes.label           "Têbiniyên Weşanê Veşêre">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Têbiniyên weşanê yên ji bo vê rojanekirinê veşêre">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,12 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Betal">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Zêdetir">
-<!ENTITY addon.details.tooltip                "Derbarê vê add-onê de zêdetir kitekitan nîşan bide">
-<!ENTITY addon.unknownDate                    "Nenas">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(neçalak e)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Rojanekirin">
-<!ENTITY addon.undoAction.label               "Şûnde bîne">
-<!ENTITY addon.undoAction.tooltip             "Vê çalakiyê vegerîne">
-<!ENTITY addon.undoRemove.label               "Şûnde bîne">
-<!ENTITY addon.undoRemove.tooltip             "Vê add-onê sazkirî bihêle">
-
-<!ENTITY addon.install.label                  "Saz Bike">
-<!ENTITY addon.install.tooltip                "Vê add-onê saz bike">
-<!ENTITY addon.updateNow.label                "Niha Rojane Bike">
-<!ENTITY addon.updateNow.tooltip              "Rojanekirina vê add-onê saz bike">
-<!ENTITY addon.includeUpdate.label            "Rojanekirê têxê">
-<!ENTITY addon.updateAvailable.label          "Rojanekirinek heye">
-<!ENTITY addon.checkingForUpdates.label       "Li rojanekirina digere…">
-<!ENTITY addon.releaseNotes.label             "Têbiniyên Weşanê:">
-<!ENTITY addon.loadingReleaseNotes.label      "Tê barkirin…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Bibore, di barkirina têbiniyên weşanê de çewtiyek derket.">
-
-<!ENTITY addon.createdBy.label                "Ji hêla ">
-
-<!ENTITY settings.path.button.label           "Bigere...">
 
 
 

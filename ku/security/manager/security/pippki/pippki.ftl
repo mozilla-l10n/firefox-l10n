@@ -21,6 +21,9 @@ change-password-reenter = Nasnavê nû (dubare):
 reset-password-window =
     .title = Şîfreya Bingehîn Vala Bike
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Reset Bike
 reset-password-text = Heke nasnavê xwe yê rêvebiriyê vala bihêlî, nasnavên te yên Web û E-Peyamê, agahiyên te yên Formê, sertîfîkayên te yên kesane û kilîta te ya taybet dê winda bibin. Dixwazî nasnavê xwe yê rêvebiriyê vala bikî?

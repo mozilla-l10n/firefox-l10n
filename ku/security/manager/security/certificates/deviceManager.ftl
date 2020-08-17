@@ -102,6 +102,7 @@ devinfo-serialnum =
     .label = Hejmara Rêzeyî
 
 fips-nonempty-password-required = Pêdiviya moda FIPS , ji bo hemû mîhengên ewlekariyê, bi nasnavekî bingehîn heye. Şîfreya ku divê têkevê û ji bo çalakirina moda FIPS ji nû ve biceribîne.
+
 unable-to-toggle-fips = Nebû ku moda FIPS ji bo cîhaza ewlekariyê bê guhertin. Divê ji vê sepanê derkevî û ji nû ve vekî.
 
 add-module-failure = Lêzêdekirina modulê ne gengaz e
