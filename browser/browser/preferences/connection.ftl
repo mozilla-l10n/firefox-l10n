@@ -35,12 +35,7 @@ connection-proxy-http = HTTP-proxy
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Ugyanazon proxy használata minden protokollhoz
-    .accesskey = U
 
-connection-proxy-ssl = SSL-proxy
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Használja ezt a proxyt FTP és HTTPS esetén is
     .accesskey = p

@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Szerezze be a Google Play-en
 login-app-promo-apple =
     .alt = Töltse le az App Store-ból
+
 login-filter =
     .placeholder = Bejelentkezések keresése
+
 create-login-button = Új bejelentkezés létrehozása
+
 fxaccounts-sign-in-text = Érje el jelszavait a többi eszközén is
 fxaccounts-sign-in-button = Jelentkezzen be a { -sync-brand-short-name }be
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = A mentett bejelentkezéseit keresi? Állítsa be a { -sync-brand-short-name }-t.
+
 about-logins-login-intro-heading-logged-out = A mentett bejelentkezéseit keresi? Állítsa be a { -sync-brand-short-name }-et vagy importálja őket.
 about-logins-login-intro-heading-logged-in = Nem található szinkronizált bejelentkezés.
 login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name }ban, akkor így érheti el őket itt:
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Hozzon létre egyet, vagy jelentkezzen be a { -fxa
 login-intro-instruction-fxa-settings = Győződjön meg róla, hogy bejelölte a Bejelentkezések választómezőt a { -sync-brand-short-name } beállításokban
 about-logins-intro-instruction-help = További segítéségért keresse fel a <a data-l10n-name="help-link">{ -lockwise-brand-short-name } támogatást</a>
 about-logins-intro-import = Ha bejelentkezéseit egy másik böngészőben mentette el, <a data-l10n-name="import-link">importálhatja azokat a { -lockwise-brand-short-name }-ba</a>
+
 about-logins-intro-import2 = Ha a bejelentkezéseit a { -brand-product-name }on kívül mentette, akkor <a data-l10n-name="import-browser-link">importálhatja őket egy másik böngészőből</a> vagy <a data-l10n-name="import-file-link">egy fájlból</a>
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = A bejelentkezés szerkeszt�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = szerkessze a mentett bejelentkezést
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = A jelszava megtekintéséhez írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = felfedje a mentett jelszót
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = A jelszava másolásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = másolja a mentett jelszót
+
+## Master Password notification
+
+master-password-notification-message = Adja meg a mesterjelszavát a mentett bejelentkezések és jelszavak megtekintéséhez
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = A bejelentkezés exportálásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = mentett bejelentkezések és jelszavak exportálása
-
-## Master Password notification
-
-master-password-notification-message = Adja meg a mesterjelszavát a mentett bejelentkezések és jelszavak megtekintéséhez
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Mégse
 confirmation-dialog-dismiss-button =
     .title = Mégse
+
 about-logins-confirm-remove-dialog-title = Eltávolítja ezt a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 about-logins-confirm-remove-dialog-confirm-button = Eltávolítás
+
 about-logins-confirm-export-dialog-title = Bejelentkezések és jelszavak exportálása
 about-logins-confirm-export-dialog-message = A jelszavai olvasható szövegként lesznek mentve (például R0sszJel$zó), így bárki megtekintheti, aki meg tudja nyitni az exportált fájlt.
 about-logins-confirm-export-dialog-confirm-button = Exportálás…
+
 confirm-discard-changes-dialog-title = Elveti a mentetlen módosításokat?
 confirm-discard-changes-dialog-message = Minden nem mentett változás elvész.
 confirm-discard-changes-dialog-confirm-button = Elvetés
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = További tudnivalók
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Már létezik bejegyzése a(z) { $loginTitle } oldalhoz ezzel a felhasználónévvel. <a data-l10n-name="duplicate-link">Ugrás a létező bejegyzéshez?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Hiba történt a jelszó mentésekor.
+
 
 ## Login Export Dialog
 

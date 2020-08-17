@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Kilépés a teljes képernyős módból
 find = Keresés
 new-tab = Új lap
 add-bookmark = Könyvjelzők hozzáadása
-open-bookmarks-sidebar = Könyvjelzők oldalsáv megnyitása
 reader-view = Olvasó nézet
 # Meant to match the string displayed in an empty URL bar.
 open-location = Keressen, vagy adjon meg címet

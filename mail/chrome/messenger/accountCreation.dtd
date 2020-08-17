@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Meglévő e-mail fiók beállítása">
-
 <!ENTITY emailWizard.title               "Meglévő e-mail fiókja beállítása">
 <!ENTITY emailWizard.caption             "A jelenlegi e-mail címének használata">
 <!ENTITY name.label                      "Név:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "Utónév, vezetéknév">
 <!ENTITY fullname.placeholder            "A teljes neve">
 <!ENTITY name.text                       "Így fog megjelenni a neve">
 <!ENTITY name.error                      "Adja meg a nevét">
 <!ENTITY email.label                     "E-mail cím:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "email@example.com">
 <!ENTITY email3.placeholder              "Az email címe">
 <!ENTITY email.text                      "A meglévő e-mail címe">
 <!ENTITY email.error                     "Érvénytelen e-mail cím">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Kimenő:">
 <!ENTITY outgoingColumn.label            "Kimenő">
 <!ENTITY username.label                  "Felhasználónév:">
-<!ENTITY hostname.label                  "Kiszolgáló neve">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Kiszolgáló:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Újratesztelés">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Kézi beállítás">
-<!ENTITY manual-edit.accesskey           "K">
 <!ENTITY manual-config.label             "Kézi beállítás…">
 <!ENTITY manual-config.accesskey         "K">
 <!ENTITY open-provisioner.label          "Új e-mail cím regisztrációja…">

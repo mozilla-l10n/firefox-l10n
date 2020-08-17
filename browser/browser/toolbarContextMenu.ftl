@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Összes lap kiválasztása
     .accesskey = e
-toolbar-context-menu-undo-close-tab =
-    .label = Lapbezárás visszavonása
-    .accesskey = v
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

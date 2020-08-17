@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Szerkesztés">
 <!ENTITY editMenu.accesskey                             "z">
-<!ENTITY undoCmd.label                                  "Visszavonás">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "V">
-<!ENTITY redoCmd.label                                  "Újra">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
-<!ENTITY cutCmd.label                                   "Kivágás">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "K">
-<!ENTITY copyCmd.label                                  "Másolás">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "M">
-<!ENTITY pasteCmd.label                                 "Beillesztés">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "B">
 <!ENTITY deleteCmd.label                                "Törlés">
-<!ENTITY deleteCmd.accesskey                            "T">
 <!ENTITY deleteAbCmd.label                              "Címjegyzék törlése">
 <!ENTITY deleteContactCmd.label                         "Névjegy törlése">
 <!ENTITY deleteContactsCmd.label                        "Névjegyek törlése">
 <!ENTITY deleteListCmd.label                            "Lista törlése">
 <!ENTITY deleteListsCmd.label                           "Listák törlése">
 <!ENTITY deleteItemsCmd.label                           "Elemek törlése">
-<!ENTITY selectAllCmd.label                             "Minden kijelölése">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "d">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Utónév és vezetéknév felcserélése">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "U">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Tulajdonságok">
 <!ENTITY propertiesMenu.accesskey                       "u">
 <!ENTITY propertiesCmd.key                              "i">

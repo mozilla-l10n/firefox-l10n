@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Kép a képben">
 
-<!ENTITY stats.media "Média">
-<!ENTITY stats.size "Méret">
-<!ENTITY stats.activity "Tevékenység">
-<!ENTITY stats.activityPaused "Szünetel">
-<!ENTITY stats.activityPlaying "Lejátszás">
-<!ENTITY stats.activityEnded "Vége">
-<!ENTITY stats.activitySeeking "(keres)">
-<!ENTITY stats.volume "Hangerő">
-<!ENTITY stats.framesParsed "Beolvasott képkockák">
-<!ENTITY stats.framesDecoded "Dekódolt képkockák">
-<!ENTITY stats.framesPresented "Prezentált képkockák">
-<!ENTITY stats.framesPainted "Kirajzolt képkockák">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "A videólejátszás leállt ismeretlen hiba miatt.">
 
 <!ENTITY status.pictureInPicture "Ez a videó kép a képben módban van lejátszva.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 / #2 eltelt">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikonok a szöveg mellett">
 <!ENTITY useSmallIcons.label      "Kis ikonok használata">
 <!ENTITY restoreDefaultSet.label  "Alapértelmezett készlet visszaállítása">
-<!ENTITY addNewToolbar.label      "Új eszköztár hozzáadása">
-<!ENTITY showTitlebar.label       "Címsor megjelenítése">
-<!ENTITY extraDragSpace.label     "Húzási terület hozzáadása">
 <!ENTITY showTitlebar2.label      "Címsor">
 <!ENTITY extraDragSpace2.label    "Húzási terület">
 <!ENTITY saveChanges.label        "Kész">

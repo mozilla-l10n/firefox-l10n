@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Kezelje kiegészítőit a <image data-l10n-
 appmenu-addon-post-install-incognito-checkbox =
     .label = A kiegészítő futtatásának engedélyezése privát ablakokban
     .accesskey = e
-appmenu-addon-private-browsing =
-    .label = Változás a kiegészítők privát ablakokban történő működésében
-    .buttonlabel = Kiegészítők kezelése
-    .buttonaccesskey = K
-    .secondarybuttonlabel = Rendben, értem
-    .secondarybuttonaccesskey = R
-appmenu-addon-private-browsing-message = Az újonnan hozzáadott { -brand-shorter-name } kiegészítők nem fognak működni privát ablakokban, hacsak nem engedélyezi ezt a beállításokban.
-appmenu-addon-private-browsing-learn-more = Ismerje meg, hogyan kezelje a kiegészítőbeállításokat.
     
 appmenu-new-tab-controlled =
     .label = Az Új lap megváltozott.
