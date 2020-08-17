@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "归档">
 <!ENTITY hdrArchiveButton1.tooltip "归档消息">
-<!ENTITY hdrOpenConversationButton1.label "对话">
-<!ENTITY hdrOpenConversationButton1.tooltip "显示此消息的对话">
 <!ENTITY hdrSmartReplyButton1.label "智能回复">
 <!ENTITY hdrReplyButton1.label "回复">
 <!ENTITY hdrReplyButton2.tooltip "回复至此消息的发送者">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "回复至邮件列表">
 <!ENTITY hdrFollowupButton1.label "回复组">
 <!ENTITY hdrFollowupButton1.tooltip "向这个新闻组发送一封回复">
-<!ENTITY hdrMenuForwardButton.label "转发">
 <!ENTITY hdrForwardButton1.label "转发">
 <!ENTITY hdrForwardButton1.tooltip "转发此消息">
 <!ENTITY hdrJunkButton1.label "垃圾">

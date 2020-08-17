@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = 选择所有标签页
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = 恢复关闭的标签页
-    .accesskey = U
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

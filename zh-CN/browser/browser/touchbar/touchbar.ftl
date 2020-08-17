@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = 退出全屏
 find = 查找
 new-tab = 新标签页
 add-bookmark = 添加书签
-open-bookmarks-sidebar = 打开书签侧栏
 reader-view = 阅读器视图
 # Meant to match the string displayed in an empty URL bar.
 open-location = 搜索或输入网址

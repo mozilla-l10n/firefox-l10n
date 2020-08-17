@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping 数据源：
-about-telemetry-show-current-ping-data = 当前的 Ping 数据
 about-telemetry-show-current-data = 当前数据
 about-telemetry-show-archived-ping-data = 已存档的 Ping 数据
 about-telemetry-show-subsession-data = 显示提交数据
@@ -75,7 +74,6 @@ about-telemetry-settings-explanation = 遥测服务正在收集{ about-telemetry
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 每组信息都将打包成“<a data-l10n-name="ping-link">ping</a>”上传。您正在查看 { $name } 于 { $timestamp } 的 Ping。
-about-telemetry-ping-details-current = 每组信息都将打包成“<a data-l10n-name="ping-link">ping</a>”上传。您正在查看当前处理的 Ping。
 about-telemetry-data-details-current = 每组信息都会打包成“<a data-l10n-name="ping-link">Ping</a>”上传。您正在看的是当前数据。
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -101,8 +99,6 @@ about-telemetry-no-search-results-all = 很抱歉，所有版块中都没有找�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = 很抱歉，“{ $sectionName }”中没有可用的数据
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = 当前处理的 Ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = 当前数据
 # used in the “Ping Type” select

@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "文件夹类型：">
 
 <!ENTITY folderQuotaTab.label                    "配额">
-<!ENTITY folderQuotaRoot.label                   "根配额：">
 <!ENTITY folderQuotaUsage.label                  "使用量：">
 <!ENTITY folderQuotaStatus.label                 "状态：">
 

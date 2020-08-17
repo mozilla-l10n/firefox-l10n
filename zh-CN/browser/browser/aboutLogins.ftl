@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = 从 Google Play 获取
 login-app-promo-apple =
     .alt = 到 App Store 下载
+
 login-filter =
     .placeholder = 搜索登录信息
+
 create-login-button = 新建登录信息
+
 fxaccounts-sign-in-text = 在您的其他设备上取得您的密码
 fxaccounts-sign-in-button = 登录{ -sync-brand-short-name }服务
 fxaccounts-avatar-button =
@@ -67,6 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = 在找您保存的登录信息？请设置“{ -sync-brand-short-name }”。
+
 about-logins-login-intro-heading-logged-out = 在找您保存的登录信息？请设置{ -sync-brand-short-name }或导入。
 about-logins-login-intro-heading-logged-in = 未找到同步的登录信息。
 login-intro-description = 若您曾在其他设备上将登录信息保存到 { -brand-product-name }，请按以下步骤操作：
@@ -74,6 +78,7 @@ login-intro-instruction-fxa = 在您保存登录信息的设备，注册或登�
 login-intro-instruction-fxa-settings = 确定您已在“{ -sync-brand-short-name }”设置中勾选了“登录信息”复选框
 about-logins-intro-instruction-help = 若需帮助，请访问 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 用户支持</a>
 about-logins-intro-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = 若您的登录信息并未存储在 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">从另一款浏览器</a>或<a data-l10n-name="import-file-link">文件</a>导入
 
 ## Login
@@ -114,25 +119,28 @@ about-logins-edit-login-os-auth-dialog-message-win = 请输入 Windows 登录凭
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 编辑存放的登录信息
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以查看密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 显示存放的密码
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以复制密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 复制存放的密码
+
+## Master Password notification
+
+master-password-notification-message = 请输入您的主密码，以查看保存的登录信息
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以继续导出登录信息。这有助于保护您的账户安全。
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = 导出存放的登录名和密码
-
-## Master Password notification
-
-master-password-notification-message = 请输入您的主密码，以查看保存的登录信息
 
 ## Primary Password notification
 
@@ -164,12 +172,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
+
 about-logins-confirm-remove-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
+
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
+
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
 confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
 confirm-discard-changes-dialog-confirm-button = 丢弃
@@ -200,8 +211,10 @@ about-logins-vulnerable-alert-learn-more-link = 详细了解
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = 已存在具有该用户名的 { $loginTitle } 条目。<a data-l10n-name="duplicate-link">要转至现有条目吗？</a>
+
 # This is a generic error message.
 about-logins-error-message-default = 尝试保存该密码时发生错误。
+
 
 ## Login Export Dialog
 

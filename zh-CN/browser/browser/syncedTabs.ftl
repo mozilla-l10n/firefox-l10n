@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = 受同步的标签页
 synced-tabs-sidebar-noclients-subtitle = 想查看您在其他设备上的标签页吗？
-synced-tabs-sidebar-notsignedin = 登录即可查看您的其他设备上的标签页列表。
 synced-tabs-sidebar-intro = 查看来自您的其他设备的标签页列表。
 synced-tabs-sidebar-unverified = 您的账号需要验证。
 synced-tabs-sidebar-notabs = 尚无打开的标签页

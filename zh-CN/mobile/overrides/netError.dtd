@@ -69,13 +69,6 @@
 <!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>为了您的安全，&brandShortName; 不会自动重新获取敏感信息文档。</li><li>您可以点击“重试”来重新请求从网站获取该文档。</li></ul>">
 
 <!ENTITY netOffline.title "脱机模式">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>再试一次。 &brandShortName; 会再次尝试建立连接并重新载入页面。 
-<button id='wifi'>启用 Wi-Fi</button> 
-</li> 
-</ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
 <!ENTITY contentEncodingError.longDesc "<ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">
