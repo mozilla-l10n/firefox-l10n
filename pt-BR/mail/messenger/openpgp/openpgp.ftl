@@ -33,6 +33,7 @@ openpgp-generate-key =
     .tooltiptext = Gera uma nova chave em conformidade com OpenPGP para criptografia e/ou assinatura
 openpgp-advanced-prefs-button-label =
     .label = Avançado…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">NOTA: A geração de chaves pode levar vários minutos para ser concluída. Não saia do aplicativo enquanto a geração de chaves estiver em andamento. Navegar ativamente ou realizar operações com uso intenso de disco durante a geração de chaves irá reabastecer o 'pool de aleatoriedade' e acelerar o processo. Você será alertado quando a geração de chaves for concluída.
 openpgp-key-expiry-label =
     .label = Validade
 openpgp-key-id-label =
@@ -219,6 +220,14 @@ openpgp-description =
         [one] O Thunderbird encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
        *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Selecione uma chave válida para ativar o protocolo OpenPGP.
+        [one] Sua configuração atual usa o ID de chave <b>{ $key }</b>
+       *[other] Sua configuração atual usa os IDs de chave <b>{ $key }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Sua configuração atual usa a chave <b>{ $key }</b>, que está vencida.
 openpgp-add-key-button =
@@ -287,6 +296,10 @@ keyserver-error-unavailable = O servidor de chaves não está disponível.
 keyserver-error-security-error = O servidor de chaves não suporta acesso criptografado.
 keyserver-error-certificate-error = O certificado do servidor de chaves não é válido.
 keyserver-error-unsupported = O servidor de chaves não é suportado.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Seu provedor de e-mail processou sua solicitação de enviar sua chave pública para o OpenPGP Web Key Directory.
+    Confirme para concluir a publicação de sua chave pública.
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmo de assinatura desconhecido (ID: { $id })
 unknown-hash-alg = Hash de criptografia desconhecido (ID: { $id })
