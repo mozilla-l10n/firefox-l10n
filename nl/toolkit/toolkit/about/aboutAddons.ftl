@@ -425,6 +425,8 @@ addon-detail-version-label = Versie
 addon-detail-last-updated-label = Laatst bijgewerkt
 addon-detail-homepage-label = Startpagina
 addon-detail-rating-label = Waardering
+# Message for add-ons with a staged pending update.
+install-postponed-message = Deze extensie wordt bijgewerkt wanneer { -brand-short-name } herstart.
 install-postponed-button = Nu bijwerken
 # The average rating that the add-on has received.
 # Variables:

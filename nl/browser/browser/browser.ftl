@@ -331,6 +331,10 @@ urlbar-placeholder-search-mode-web =
 # tabs).
 urlbar-placeholder-search-mode-other =
     .placeholder = Voer zoektermen in
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Voer zoekterm voor { $name } of adres in
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser wordt op afstand bestuurd
 urlbar-permissions-granted =

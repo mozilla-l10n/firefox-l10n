@@ -6,3 +6,4 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Over Glean
+about-glean-warning = Als u deze interface verkeerd gebruikt, kan { -brand-short-name } crashen.
