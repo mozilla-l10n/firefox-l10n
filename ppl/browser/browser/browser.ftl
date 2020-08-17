@@ -15,6 +15,8 @@
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 ## Page Action Context Menu
@@ -25,6 +27,13 @@
 
 ## Search Engine selection buttons (one-offs)
 
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
