@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "加入現有郵件帳號">
-
 <!ENTITY emailWizard.title               "設定現有的電子郵件地址">
 <!ENTITY emailWizard.caption             "使用目前的電子郵件地址">
 <!ENTITY name.label                      "您的大名:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "姓名">
 <!ENTITY fullname.placeholder            "您的全名">
 <!ENTITY name.text                       "您的名字，用於顯示在您的郵件上">
 <!ENTITY name.error                      "請輸入您的大名">
 <!ENTITY email.label                     "電子郵件地址:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "您的電子郵件地址">
 <!ENTITY email.text                      "您目前的電子郵件地址">
 <!ENTITY email.error                     "無效的電子郵件地址">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "寄件:">
 <!ENTITY outgoingColumn.label            "外寄">
 <!ENTITY username.label                  "使用者名稱:">
-<!ENTITY hostname.label                  "伺服器主機名稱">
-<!ENTITY port.label                      "埠">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "伺服器:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "重新測試">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "手動設定">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "手動設定…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "註冊新信箱…">

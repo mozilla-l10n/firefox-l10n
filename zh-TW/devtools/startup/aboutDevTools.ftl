@@ -13,6 +13,7 @@ enable-common-message = 為了讓您能對瀏覽器更有控制，已預設停�
 enable-learn-more-link = 了解開發者工具的更多資訊
 enable-enable-button = 啟用開發者工具
 enable-close-button = 關閉此分頁
+
 welcome-title = 歡迎使用 Firefox 開發者工具！
 newsletter-title = Mozilla 開發者電子報
 newsletter-message = 讓開發者消息、秘訣與資源直接寄到信箱裡。
@@ -22,9 +23,11 @@ newsletter-privacy-label = 我同意 Mozilla 依照<a data-l10n-name="privacy-po
 newsletter-subscribe-button = 訂閱
 newsletter-thanks-title = 謝啦！
 newsletter-thanks-message = 若您先前沒有確認訂閱過 Mozilla 電子報，現在可能需要確認。請到信箱收信，或到垃圾信件匣中看看有沒有來自我們的訊息。
+
 footer-title = Firefox Developer Edition
 footer-message = 想要的不只是開發者工具嗎？快試試特地為了開發者與現代工作流程所打造的 Firefox 瀏覽器。
 footer-learn-more-link = 了解更多
+
 features-learn-more = 了解更多
 features-inspector-title = 檢測器
 features-inspector-desc = 檢測並改善程式碼，讓版面上的每個像素都顯得完美。<a data-l10n-name="learn-more">{ features-learn-more }</a>

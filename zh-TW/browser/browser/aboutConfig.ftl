@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = 隨便亂搞會讓保固失效！
-about-config-warning-text = 更改進階設定可能會影響本程式的穩定性、安全性及執行效能。在修改前請確定您知道在做什麼，或者確定參考的文件值得信賴。
-about-config-warning-checkbox = 請繼續吵我，謝謝！
-about-config-warning-button = 我發誓，我一定會小心的！
-about-config2-title = 進階設定
-about-config-search-input =
-    .placeholder = 搜尋
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = 調整設定前請務必小心！
@@ -22,16 +13,13 @@ about-config-intro-warning-button = 接受風險並繼續
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = 調整這些偏好設定，可能會影響 { -brand-short-name } 的效能或安全性。
+
 about-config-page-title = 進階偏好設定
+
 about-config-search-input1 =
     .placeholder = 搜尋偏好設定
 about-config-show-all = 全部顯示
-about-config-pref-add = 新增
-about-config-pref-toggle = 切換
-about-config-pref-edit = 編輯
-about-config-pref-save = 儲存
-about-config-pref-reset = 重設
-about-config-pref-delete = 刪除
+
 about-config-pref-add-button =
     .title = 新增
 about-config-pref-toggle-button =

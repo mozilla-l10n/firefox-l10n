@@ -23,21 +23,6 @@ graph-private-window = { -brand-short-name } 會繼續在隱私瀏覽視窗當�
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = { -brand-short-name } 本週封鎖的追蹤器
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = 保護等級設為<b>標準</b>
-    .title = 前往隱私設定
-protection-report-header-details-strict = 保護等級設為<b>嚴格</b>
-    .title = 前往隱私設定
-protection-report-header-details-custom = 保護等級設為<b>自訂</b>
-    .title = 前往隱私設定
-protection-report-page-title = 隱私保護
-protection-report-content-title = 隱私保護
-
-etp-card-title = 加強型追蹤保護
-etp-card-content = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
-
 protection-report-webpage-title = 保護資訊儀錶板
 protection-report-page-content-title = 保護資訊儀錶板
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -84,12 +69,9 @@ mobile-app-card-content = 使用內建廣告追蹤保護的行動瀏覽器
 mobile-app-links = { -brand-product-name } 瀏覽器 <a data-l10n-name="android-mobile-inline-link">Android</a> 版與 <a data-l10n-name="ios-mobile-inline-link">iOS</a> 版
 
 lockwise-title = 不再忘記密碼
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = 密碼管理
 lockwise-header-content = { -lockwise-brand-name } 會安全地在您的瀏覽器中儲存密碼。
 lockwise-header-content-logged-in = 安全地儲存密碼，並同步到您的所有裝置中。
-protection-report-view-logins-button = 檢視登入資訊
-    .title = 前往已存登入資訊
 protection-report-save-passwords-button = 儲存密碼
     .title = 將密碼儲存到 { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = 管理密碼
@@ -97,14 +79,6 @@ protection-report-manage-passwords-button = 管理密碼
 lockwise-mobile-app-title = 密碼隨身帶著走
 lockwise-no-logins-card-content = 在任何裝置上使用儲存到 { -brand-short-name } 的密碼。
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 與 <a data-l10n-name="lockwise-ios-inline-link">iOS</a> 版的 { -lockwise-brand-name }
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-       *[other] 安全地儲存密碼<a data-l10n-name="lockwise-how-it-works">運作原理</a>
-    }
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
@@ -126,20 +100,10 @@ lockwise-how-it-works-link = 原理是什麼
 turn-on-sync = 開啟 { -sync-brand-short-name }…
     .title = 前往同步偏好設定
 
-manage-connected-devices = 管理裝置…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-       *[other] 已連線到 { $count } 台裝置
-    }
-
 monitor-title = 檢查是否發生資料外洩事件
 monitor-link = 原理是什麼
 monitor-header-content-no-account = 使用 { -monitor-brand-name } 檢查您是否處於已知的資料外洩事件之中，並在有新事件發生時收到通知。
 monitor-header-content-signed-in = 若您的資訊出現在已知的資料外洩事件中，{ -monitor-brand-name } 將警告您。
-monitor-sign-up = 訂閱資料外洩警報
 monitor-sign-up-link = 訂閱資料外洩警報
     .title = 到 { -monitor-brand-name } 訂閱資料外洩警報
 auto-scan = 今天自動掃描過
@@ -181,16 +145,6 @@ info-known-breaches-resolved =
 info-exposed-passwords-found =
     { $count ->
        *[other] 所有事件中洩漏出的密碼組數
-    }
-
-full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> 看完整報告
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-       *[other] 有網站發生資料外洩事件，當中可能流出了您儲存的登入資訊。請更改此密碼以維護線上安全。<a data-l10n-name="lockwise-link">檢視已存登入資訊</a>
     }
 
 # This string is displayed after a large numeral that indicates the total number

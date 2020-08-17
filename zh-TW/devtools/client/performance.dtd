@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "被取樣函數的名稱與原始碼位置。">
 <!ENTITY performanceUI.table.totalAlloc               "總取樣到的配置數">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "在此位置被呼叫項目取樣到的總配置數。">
-<!ENTITY performanceUI.table.selfAlloc                "自我取樣的配置數">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "在此位置取樣到的物件配置數。">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

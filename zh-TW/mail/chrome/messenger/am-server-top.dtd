@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "封">
 <!ENTITY alwaysAuthenticate.label "連線到此伺服器時一律要求認證">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc 檔:">
-<!ENTITY newsrcPicker.label "選取 newsrc 檔">
 <!ENTITY newsrcFilePath1.label "News.rc 檔案:">
 <!ENTITY newsrcPicker1.label "選擇 News.rc 檔案">
 <!ENTITY abbreviate.label "資料夾顯示新聞群組名稱的方式:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "進階…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "預設文字編碼:">
-<!ENTITY localPath.label "本地目錄:">
 <!ENTITY localPath1.label "本機目錄:">
 <!ENTITY localFolderPicker.label "選取本地目錄">
 <!ENTITY browseFolder.label "瀏覽…">

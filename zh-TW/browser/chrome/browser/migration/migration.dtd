@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "由下列來源匯入選項、書籤、歷史記錄、已存密碼及其他資料:">
 <!ENTITY importFromUnix.label           "由下列來源匯入偏好設定、書籤、記錄、密碼等資料:">
-<!ENTITY importFromBookmarks.label      "由下列來源匯入書籤:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

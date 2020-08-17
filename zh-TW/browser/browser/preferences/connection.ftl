@@ -35,12 +35,7 @@ connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = 埠
     .accesskey = P
-connection-proxy-http-share =
-    .label = 所有通訊協定都使用此 Proxy 代理伺服器
-    .accesskey = s
 
-connection-proxy-ssl = SSL Proxy
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = 也針對 FTP 與 HTTPS 連線使用此代理伺服器
     .accesskey = s

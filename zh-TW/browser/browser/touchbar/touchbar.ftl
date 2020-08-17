@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = 離開全螢幕模式
 find = 尋找
 new-tab = 開新分頁
 add-bookmark = 新增書籤
-open-bookmarks-sidebar = 開啟書籤欄
 reader-view = 閱讀畫面
 # Meant to match the string displayed in an empty URL bar.
 open-location = 搜尋或輸入網址

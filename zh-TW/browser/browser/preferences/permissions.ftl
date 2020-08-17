@@ -79,11 +79,6 @@ permissions-invalid-uri-label = 請輸入正確的主機名稱
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = 例外 - 內容封鎖
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = 您已針對這些網站停用內容封鎖功能。
-
 permissions-exceptions-etp-window =
     .title = 加強型追蹤保護的例外
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = 您可以指定哪些網站可以安裝附加元件。請輸入完整網址後按「允許」。
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = 例外 - 自動播放
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = 您可以指定允許哪些網站是否可自動播放有聲音的媒體內容。請輸入您要指定的網站網址後按「封鎖」或「允許」。
 
 ## Site Permissions - Autoplay
 
