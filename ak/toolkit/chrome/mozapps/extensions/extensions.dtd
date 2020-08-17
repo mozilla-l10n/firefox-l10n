@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Sɔ">
-<!ENTITY cmd.enableAddon.accesskey            "S">
-<!ENTITY cmd.disableAddon.label               "Dum">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "Bisa na wɔn Nkenyan">
-<!ENTITY cmd.askToActivate.tooltip            "Bisa sɛ wo bɛ yɛ nkaho yi ho dwuma bere biara">
-<!ENTITY cmd.alwaysActivate.label             "Sɔw bere biara">
-<!ENTITY cmd.alwaysActivate.tooltip           "Fa nkaho yi bere biara">
-<!ENTITY cmd.neverActivate.label              "Nsɔw Da">
-<!ENTITY cmd.neverActivate.tooltip            "Ɛmfa nkaho yi da biara">
-<!ENTITY cmd.stateMenu.tooltip                "Sesa mu wɔ bere a nkaho yi yɛ adwuma">
-
-<!ENTITY cmd.uninstallAddon.label             "Yi">
-<!ENTITY cmd.uninstallAddon.accesskey         "Y">
-<!ENTITY cmd.showPreferencesWin.label         "Nɔphyɛn">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Sesa kaho yi ne nɔphyɛn">
-<!ENTITY cmd.showPreferencesUnix.label        "Apɛde">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Sesa kaho yi ne apɛde">
-
-<!ENTITY cmd.showReleaseNotes.label           "Kyerɛ reliis nkrataa">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Kyerɛ reliis nkraataa ma ntoso yi">
-<!ENTITY cmd.hideReleaseNotes.label           "Suma reliis nkrataa">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Suma reliis nkrataa ma ntoso yi">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,12 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Twa-mu">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Bio ka ho">
-<!ENTITY addon.details.tooltip                "Kyerɛ kaho yi ho nsɛm bio a wɔka ho">
-<!ENTITY addon.unknownDate                    "Woana-so-ni">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(edum)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Ntoso">
-<!ENTITY addon.undoAction.label               "Nnyɛ">
-<!ENTITY addon.undoAction.tooltip             "Nnyɛ dwumadi yi">
-<!ENTITY addon.undoRemove.label               "Nnyɛ">
-<!ENTITY addon.undoRemove.tooltip             "Gyae nkaho a wɔeinstɔl yi">
-
-<!ENTITY addon.install.label                  "Instɔl">
-<!ENTITY addon.install.tooltip                "Instɔl kaho yi">
-<!ENTITY addon.updateNow.label                "To so seisei ara">
-<!ENTITY addon.updateNow.tooltip              "Instɔl ntoso no ma kaho yi">
-<!ENTITY addon.includeUpdate.label            "Fa ntoso ka ho">
-<!ENTITY addon.updateAvailable.label          "Ntosoɔ wɔhɔ">
-<!ENTITY addon.checkingForUpdates.label       "Rehwehwɛ ntoso…">
-<!ENTITY addon.releaseNotes.label             "Reliis nkrataa:">
-<!ENTITY addon.loadingReleaseNotes.label      "Relood…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Kosɛ, na mfomso bi bae wɔ bere a wɔrelood reliis nkrataa no.">
-
-<!ENTITY addon.createdBy.label                "Firi">
-
-<!ENTITY settings.path.button.label           "Brawse…">
 
 
 

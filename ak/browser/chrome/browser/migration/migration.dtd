@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Impɔɔt Nɔphyɛn, Mbukmaak, Abakɔsɛm, Ehintansɛmfua ne data a wɔka ho firi:">
 <!ENTITY importFromUnix.label           "Impɔɔt Apɛde, Mbukmaak, Abakɔsɛm, Ehintansɛmfua ne data a wɔka ho firi:">
-<!ENTITY importFromBookmarks.label      "Impɔɔt Mbukmaak firi:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

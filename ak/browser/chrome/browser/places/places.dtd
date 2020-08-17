@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Fa Fael…">
 <!ENTITY cmd.restoreFromFile.accesskey  "F">
 
-<!ENTITY cmd.deleteDomainData.label     "Ma Wo Were Mfiri Saet Yi">
-<!ENTITY cmd.deleteDomainData.accesskey "f">
-
-<!ENTITY cmd.open.label                  "Bue">
-<!ENTITY cmd.open.accesskey              "B">
-<!ENTITY cmd.open_window.label           "Bue wɔ Tokuro Foforo mu">
-<!ENTITY cmd.open_window.accesskey       "o">
-
-
-<!ENTITY cmd.open_tab.label              "Bue wɔ Tab Foforo mu">
-<!ENTITY cmd.open_tab.accesskey          "f">
-<!ENTITY cmd.open_all_in_tabs.label      "Bue No Nyinara wɔ Ntab mu">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Ho-nsɛm">
-<!ENTITY cmd.properties.accesskey  "s">
-
-<!ENTITY cmd.sortby_name.label              "Fa Din Hyehyɛ">
-<!ENTITY cmd.sortby_name.accesskey          "h">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Bukmaak Foforo…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Folda Foforo…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Akyɛmude Foforo">
-<!ENTITY cmd.new_separator.accesskey       "k">
 
 <!ENTITY col.name.label          "Din">
 <!ENTITY col.tags.label          "Ntag">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Fa aetɛm, hwɛ na sesa ne ho nsɛm">
 
-<!ENTITY view.label               "Hwɛ">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Fa Afeda">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Fa Saet">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Fa beebi a wɔasra hɔ kyɛn beebi foforo biara">
-<!ENTITY byMostVisited.accesskey  "w">
-<!ENTITY byLastVisited.label      "Fa Beebi a Wɔkɔɔ hɔ Nnkyɛree">
-<!ENTITY byLastVisited.accesskey  "k">
-<!ENTITY byDayAndSite.label       "Fa Afeda ne Saet">
-<!ENTITY byDayAndSite.accesskey   "d">

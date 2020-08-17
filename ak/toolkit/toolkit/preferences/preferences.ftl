@@ -14,6 +14,7 @@ pw-erased-ok = Woetwa wo ehintasɛmfua-papa no mu.  { pw-empty-warning }
 pw-not-wanted = Kɔkɔbɔ! Woayɛ adwen sɛ womfa ehintasɛmfua-papa. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Sesei no wo wɔ FIPS tebea mu. FIPS hia sɛ wobɛwɔ ehintasɛmfua-papa.
+
 pw-change-success-title = Woetumi asesa wo ehintasɛmfua-papa no
 pw-change-failed-title = Woentumi ansesa wo ehintasɛmfua-papa no
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Sesa ehintasɛmfua-papa no
+
 set-password-old-password = Ɛndɛ-ehintasɛmfua:
 set-password-new-password = Bɔ ehintasɛmfua foforo:
 set-password-reenter-password = San-bɔ ehintasɛmfua:
@@ -31,6 +33,7 @@ master-password-warning = Hwɛ sɛ wobɛkae ehintasɛmfua-papa a woahyehyɛ. Se 
 
 remove-password =
     .title = Yi ehintasɛmfua papa no
+
 remove-info =
     .value = Ɛwɔ sɛ wobɔ wo ɛndɛ-ehintasɛmfua de toa so:
 remove-warning1 = Wɔde ehintasɛmfua papa no de sie infɔmehyen atenkanoɔden te sɛ wo saet ehintansɛmfua.

@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Hunu saa nɛtwɛk yi prɔksi nhyehyɛe otomatikmu
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = Fa saa prɔksi somfo yi yɛ protokɔl nyinara ho edwuma
-    .accesskey = k
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

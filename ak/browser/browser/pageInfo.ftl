@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = Fa sie sɛ…
     .accesskey = e
-media-preview =
-    .value = Midea priviw:
 
 perm-tab =
     .label = Akwanya
@@ -107,7 +105,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Nnim
-not-set-verified-by = Wɔmmpawee
 page-info-not-specified =
     .value = Wɔmmpawee
 not-set-alternative-text = Wɔmmpawee
@@ -132,7 +129,6 @@ general-quirks-mode =
     .value = Quirks Tebea bi
 general-strict-mode =
     .value = Tipɛnkorɔ ndiso Tebea bi
-security-no-owner = Wɛbsaet yi nnkyerɛ infɔmehyɛn mmfa wɔn a wɛbsaet no yɛ wɔn de ho.
 page-info-security-no-owner =
     .value = Wɛbsaet yi nnkyerɛ infɔmehyɛn mmfa wɔn a wɛbsaet no yɛ wɔn de ho.
 media-select-folder = Fa Folda a Wobɛsie Mfonin Wɔ Mu

@@ -2,51 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Yɛ-ketewa">
-<!ENTITY bringAllToFront.label    "Fa No Nyinara Bra Enim">
-<!ENTITY zoomWindow.label         "Zuum">
-<!ENTITY windowMenu.label         "Tokura">
 
-<!ENTITY helpMenu.label           "Mboa"> 
-<!ENTITY helpMenu.accesskey       "M"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Mboa"> 
-<!ENTITY helpMenuWin.accesskey    "M">
-
-
-
-
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Kibɔd kwantia">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "Sanhyɛase a woedum nkaho no…">
-<!ENTITY helpSafeMode.accesskey   "S">
-
-
-
-
-
-<!ENTITY helpTroubleshootingInfo.label      "Hawyi ho infɔmehyɛn">
-<!ENTITY helpTroubleshootingInfo.accesskey  "H">
-
-<!ENTITY helpFeedbackPage.label      "Sabmet wo fiidbak…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
 
 
 
 <!ENTITY preferencesCmdMac.label        "Nhyehyɛe…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Asom">
 
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
-
 <!ENTITY hideOtherAppsCmdMac.label      "Suma Nkaa No">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Kyerɛ No Nyinara">
 
