@@ -11,32 +11,37 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> ट्रैकर { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } के बाद से अवरुद्ध हैं
        *[other] <b>{ $count }</b> ट्रैकर { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } के बाद से अवरुद्ध हैं
     }
-protection-report-page-title = गोपनीयता सुरक्षाएं
-protection-report-content-title = गोपनीयता सुरक्षाएं
-etp-card-title = संवर्धित ट्रैकिंग सुरक्षा
+
 protection-report-settings-link = अपनी गोपनीयता और सुरक्षा सेटिंग प्रबंधित करें
+
 etp-card-title-always = उन्नत ट्रैकिंग सुरक्षा: हमेशा चालू
 etp-card-title-custom-not-blocking = उन्नत ट्रैकिंग सुरक्षा: बंद
 protection-report-manage-protections = सेटिंग प्रबंधित करें
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = आज
+
 social-tab-title = सोशल मीडिया ट्रैकर
+
 cookie-tab-title = क्रॉस-साइट ट्रैकिंग कुकीज़
+
 tracker-tab-title = ट्रैकिंग सामग्री
+
 fingerprinter-tab-title = फिंगरप्रिंटर
+
 cryptominer-tab-title = क्रिप्टोमाइनर
+
 protections-close-button2 =
     .aria-label = बंद करें
     .title = बंद करें
+  
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> और <a data-l10n-name="ios-mobile-inline-link">iOS</a> के लिए { -brand-product-name } ब्राउज़र
+
 lockwise-title = पासवर्ड फिर कभी न भूलें
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = पासवर्ड प्रबंधन
 lockwise-header-content = { -lockwise-brand-name } आपके पासवर्ड को आपके ब्राउज़र में सुरक्षित रूप से संग्रहीत करता है।
 lockwise-header-content-logged-in = अपने पासवर्ड को अपने सभी उपकरणों पर सुरक्षापूर्ण तरीके से संग्रहित और सिंक करें।
-protection-report-view-logins-button = लॉगिन देखें
-    .title = सहेजे गए लॉगिन पर जाएँ
 protection-report-save-passwords-button = पासवर्ड सहेजें
     .title = { -lockwise-brand-short-name } पर पासवर्ड सहेजें
 protection-report-manage-passwords-button = पासवर्ड प्रबंधित करें
@@ -44,6 +49,7 @@ protection-report-manage-passwords-button = पासवर्ड प्रब�
 lockwise-mobile-app-title = हर जगह अपना पासवर्ड लेकर चलें
 lockwise-no-logins-card-content = किसी भी उपकरण पर { -brand-short-name } में सहेजे गए पासवर्ड का उपयोग करें।
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> और <a data-l10n-name="lockwise-ios-inline-link">iOS</a> के लिए { -lockwise-brand-name }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -54,20 +60,14 @@ lockwise-scanned-text-no-breached-logins =
        *[other] आपके पासवर्ड सुरक्षित रूप से संग्रहीत किए जा रहे हैं।
     }
 lockwise-how-it-works-link = यह कैसे काम करता है
+
 turn-on-sync = { -sync-brand-short-name } चालू करें…
     .title = सिंक वरीयताओं पर जाएँ
-manage-connected-devices = उपकरणों को प्रबंधित करें…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] { $count } उपकरण से जुड़ा
-       *[other] { $count } उपकरणों से जुड़ा
-    }
+
 monitor-title = डेटा उल्लंघनों की तलाश करें
 monitor-link = यह किस प्रकार काम करता है
-monitor-sign-up = उल्लंघन अलर्ट के लिए साइन अप करें
 auto-scan = आज स्वचालित रूप से स्कैन किया गया
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -76,6 +76,7 @@ info-monitored-emails =
         [one] ईमेल पते पर नजर रखी जा रही है
        *[other] ईमेल पतों पर नजर रखी जा रही है
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -84,11 +85,13 @@ info-known-breaches-found =
         [one] ज्ञात डेटा विच्छेद ने आपकी जानकारी को उजागर कर दिया है
        *[other] ज्ञात डेटा विच्छेदों ने आपकी जानकारी को उजागर कर दिया है
     }
-full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> पर पूरी रिपोर्ट दिखाएं
+
 monitor-no-breaches-title = खुशखबरी!
+
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% पूरा
+
 monitor-partial-breaches-motivation-title-start = शानदार शुरुआत!
 monitor-partial-breaches-motivation-title-middle = लगे रहें!
 monitor-partial-breaches-motivation-title-end = लगभग हो गया! लगे रहें।

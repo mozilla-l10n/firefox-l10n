@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "सुरक्षा">
-<!ENTITY securityHeading.label "हस्ताक्षरित व गोपित संदेश प्राप्त करने के लिये, आपको दोनों डिजिटल हस्ताक्षरित व गोपन प्रमाणपत्र निर्दिष्ट करना चाहिये.">
-<!ENTITY encryptionGroupTitle.label "गोपन">
-<!ENTITY encryptionChoiceLabel.label "मूलभूत गोपन जमावट जब संदेश भेजा जा रहा हो:">
-<!ENTITY neverEncrypt.label "कभी नहीं (do not use encryption)">
-<!ENTITY alwaysEncryptMessage.label "जरूरी (can't send message unless all recipients have certificates)">
-<!ENTITY encryptionCert.message "इस प्रमाणपत्र को &amp; गोपित करने के प्रयोग करें विगोपित संदेश आपको भेजा जाता है:">
-
 <!ENTITY signingGroupTitle.label "डिजिटल हस्ताक्षर">
-<!ENTITY signMessage.label "डिजिटली हस्ताक्षर संदेश (मूलभूत रूप से)">
-<!ENTITY signingCert.message "इस प्रमाणपत्र का प्रयोग करें डिजिटली हस्ताक्षर जो आप भेजते हैं:">
-
-<!ENTITY certificates.label     "प्रमाणपत्र">
 

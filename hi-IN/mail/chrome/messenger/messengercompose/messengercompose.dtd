@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "फिर करें">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r"> 
-<!ENTITY cutCmd.label "काटें">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "कॉपी करें">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c"> 
-<!ENTITY pasteCmd.label "चिपकायें">
+<!ENTITY cutCmd.key "X"> 
+<!ENTITY copyCmd.key "C"> 
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "मिटायें">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY editRewrapCmd.label "फिर रैप करें">
-<!ENTITY selectAllCmd.label "सबको चुनें">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "फिर ढूंढें">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -177,18 +169,8 @@
 <!ENTITY pasteButton.tooltip            "चिपकायें">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY fromAddr.label "प्रेषक:">
-<!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "प्रति:"> 
-<!ENTITY ccAddr.label "सीसी:"> 
-<!ENTITY bccAddr.label "बीसीसी:"> 
-<!ENTITY replyAddr.label "इसको जबाव:"> 
-<!ENTITY newsgroupsAddr.label "समाचारसमूह:"> 
-<!ENTITY followupAddr.label "इसमें फोलोअप:"> 
-<!ENTITY subject.label "विषय:">
+<!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 

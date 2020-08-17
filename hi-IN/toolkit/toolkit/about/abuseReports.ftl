@@ -62,26 +62,15 @@ abuse-report-messagebar-action-cancel = रद्द करें
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = मेरे कंप्यूटर और डेटा को नुकसान पहुंचाता है
-
 abuse-report-damage-example = उदाहरण: इंजेक्ट किया गया मैलवेयर या डेटा चुराया गया
 
-abuse-report-spam-reason = स्पैम या विज्ञापन बनाता है
-
 abuse-report-spam-example = उदाहरण: वेबपृष्ठों पर विज्ञापन डालें
-
-abuse-report-settings-reason = मेरे खोज इंजन, मुखपृष्ठ, या नए टैब को बिना बताए या मुझसे पूछे बदले
 
 abuse-report-settings-suggestions = विस्तार की रिपोर्ट करने से पहले, आप अपनी सेटिंग्स बदलने की कोशिश कर सकते हैं:
 abuse-report-settings-suggestions-search = अपनी डिफ़ॉल्ट खोज सेटिंग बदलें
 abuse-report-settings-suggestions-homepage = अपना मुखपृष्ठ और नया टैब बदलें
 
-abuse-report-deceptive-reason = ऐसा कुछ होने का नाटक करें
-
 abuse-report-deceptive-example = उदाहरण: भ्रामक वर्णन या कल्पना
-
-abuse-report-broken-reason-extension = काम नहीं करता, वेबसाइटों को तोड़ता है, या { -brand-product-name } को धीमा कर देता है
-abuse-report-broken-reason-theme = ब्राउज़र प्रदर्शन को काम नहीं करता या तोड़ता नहीं है
 
 abuse-report-broken-example = उदाहरण: विशेषताएं धीमी हैं, उपयोग करना कठिन है, या काम नहीं कर रहा है; वेबसाइटों के हिस्से लोड या असामान्य नहीं दिखेंगे
 abuse-report-broken-suggestions-extension =
@@ -93,14 +82,10 @@ abuse-report-broken-suggestions-theme =
     एक कार्यक्षमता समस्या को हल करने के लिए विषय डेवलपर से संपर्क करना है।
     डेवलपर जानकारी प्राप्त करने के लिए <a data-l10n-name="support-link"> थीम की वेबसाइट </a> पर जाएं।
 
-abuse-report-policy-reason = घृणित, हिंसक या अवैध सामग्री
-
 abuse-report-policy-suggestions =
     नोट: कॉपीराइट और ट्रेडमार्क मुद्दों को एक अलग प्रक्रिया में सूचित किया जाना चाहिए।
     <a data-l10n-name="report-infringement-link"> इन निर्देशों का उपयोग करें </a> से
     समस्या की रिपोर्ट करें।
-
-abuse-report-unwanted-reason = यह एक्सटेंशन कभी नहीं चाहता था और इससे छुटकारा नहीं मिल सकता है
 
 abuse-report-unwanted-example = उदाहरण: एक एप्लिकेशन ने इसे मेरी अनुमति के बिना स्थापित किया
 

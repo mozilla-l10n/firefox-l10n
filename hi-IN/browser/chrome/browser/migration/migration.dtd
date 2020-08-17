@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "पसन्द, बुकमार्क, इतिहास, कूटशब्द‌ एवं अन्य डेटा यहाँ से आयात करें:">
 <!ENTITY importFromUnix.label           "वरीयताएँ, बुकमार्क, इतिहास, कूटशब्द एवं अन्य आंकड़ा यहाँ से आयात करें:">
-<!ENTITY importFromBookmarks.label      "बुकमार्क‌ यहाँ से आयात करें:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

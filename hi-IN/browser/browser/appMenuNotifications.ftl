@@ -38,14 +38,7 @@ appmenu-addon-private-browsing-installed =
 appmenu-addon-post-install-incognito-checkbox =
     .label = इस एक्सटेंशन को निजी विंडोज में चलने दें
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = निजी विंडोज में एक्सटेंशन बदलें
-    .buttonlabel = एक्स्टेंशन प्रबंधित करें
-    .buttonaccesskey = M
-    .secondarybuttonlabel = ठीक हैं, समझ गए
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = आप जो भी एक्स्टेंशन { -brand-shorter-name } में जोड़ते हैं वह तब तक निजी विंडो में काम नहीं करेगा जब तक आप उसे सेटिंग में जाकर अनुमति नहीं देते।
-appmenu-addon-private-browsing-learn-more = एक्सटेंशन सेटिंग प्रबंधित करना सीखें
+    
 appmenu-new-tab-controlled =
     .label = आपका नया टैब बदल गया है.
     .buttonlabel = परिवर्तन रखें

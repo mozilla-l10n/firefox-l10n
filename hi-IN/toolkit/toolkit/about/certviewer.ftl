@@ -43,6 +43,7 @@ certificate-viewer-issuer-name = जारीकर्ता का नाम
 certificate-viewer-validity = वैधता
 certificate-viewer-authority-info-aia = प्राधिकरण जानकारी (AIA)
 certificate-viewer-certificate-policies = प्रमाणपत्र नीतियां
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = डाउनलोड

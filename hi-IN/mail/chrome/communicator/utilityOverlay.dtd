@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label					"संपादित करें"> 
 <!ENTITY editMenu.accesskey				"e"> 
 <!ENTITY undoCmd.label						"वापस करें">  
-<!ENTITY undoCmd.key						"Z">  
 <!ENTITY undoCmd.accesskey					"u"> 
 <!ENTITY redoCmd.label						"फिर करें">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"r"> 
-<!ENTITY cutCmd.label						"काटें">  
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"t"> 
-<!ENTITY copyCmd.label						"कॉपी करें">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"c"> 
-<!ENTITY pasteCmd.label						"चिपकायें">  
-<!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY redoCmd.accesskey					"r">  
 <!ENTITY deleteCmd.label					"मिटायें">  
-<!ENTITY deleteCmd.accesskey				"d"> 
-<!ENTITY selectAllCmd.label					"सबको चुनें">  
-<!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY deleteCmd.accesskey				"d">  
 <!ENTITY preferencesCmdUnix.label       "प्राथमिकता">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 

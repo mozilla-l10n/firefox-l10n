@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = इसे आज़माएं: पिन टै�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = मैं यह क्यों देख रहा हूँ
+
 cfr-doorhanger-extension-cancel-button = अभी नहीं
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = अभी जोड़ें
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = इस टैब को पिन करें
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = अनुशंसा सेटिंग प्रबंधित करें|
     .accesskey = म
+
 cfr-doorhanger-extension-never-show-recommendation = मुझे यह अनुशंसा न दिखाएं
     .accesskey = स
+
 cfr-doorhanger-extension-learn-more-link = अधिक जानें
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } द्वारा
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = सिफारिश
 cfr-doorhanger-extension-notification2 = अनुशंसा
     .tooltiptext = विस्तारक अनुशंसा
     .a11y-announcement = विस्तारक अनुशंसा उपलब्ध
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = अनुशंसा
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } उपयोगकर्ता
        *[other] { $total } उपयोग्कत्तायें
     }
+
 cfr-doorhanger-pintab-description = अपनी सबसे अधिक उपयोग की जाने वाली साइटों तक आसान पहुंच प्राप्त करें। साइटों को एक टैब में खुला रखें (यहां तक कि जब आप फिर से खोलें)।
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = अपनी सबसे अधिक उ�
 cfr-doorhanger-pintab-step1 = उस टैब के ऊपर <b>राइट-क्लिक करें</b> जिसे आप पिन करना चाहते हैं।
 cfr-doorhanger-pintab-step2 = मेन्यू से <b>पिन टैब</b> चुनें।
 cfr-doorhanger-pintab-step3 = अगर साइट पर कोई अपडेट हो तो आपको पिन किए गए टैब पर एक नीला डॉट दिखाई देगा।
+
 cfr-doorhanger-pintab-animation-pause = ठहरें
 cfr-doorhanger-pintab-animation-resume = फिर से शुरू करें
+
 
 ## Firefox Accounts Message
 
@@ -88,13 +99,18 @@ cfr-protections-panel-link-text = अधिक जानें
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = नई विशेषताएँ:
+
 cfr-whatsnew-button =
     .label = क्या नया है
     .tooltiptext = क्या नया है
+
 cfr-whatsnew-panel-header = क्या नया है
+
 cfr-whatsnew-release-notes-link-text = रिलीज नोट्स पढ़ें
+
 cfr-whatsnew-tracking-protect-title = ट्रैकर्स से खुद को बचाएं
 cfr-whatsnew-tracking-protect-link-text = अपनी रिपोर्ट देखें
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -105,9 +121,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } से
 cfr-whatsnew-tracking-blocked-link-text = रिपोर्ट देखें
+
 cfr-whatsnew-lockwise-backup-title = अपने पासवर्ड का बैकअप लें
 cfr-whatsnew-lockwise-backup-body = अब एक सुरक्षित पासवर्ड बनाएं जिसका उपयोग आप कहीं भी साइन इन करने के लिए कर सकते हैं।
 cfr-whatsnew-lockwise-backup-link-text = बैकअप चालू करें
+
 cfr-whatsnew-lockwise-take-title = अपना पासवर्ड अपने साथ रखें
 cfr-whatsnew-lockwise-take-link-text = एप्प प्राप्त करें
 
@@ -134,6 +152,7 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] फ़िंगरप्रिंटर अवरूद्ध किया गया
        *[other] फ़िंगरप्रिंटर अवरूद्ध किए गए
     }
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = फिंगरप्रिंटर
 
@@ -179,6 +198,7 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } ने इस पृ
 
 cfr-doorhanger-milestone-ok-button = सभी देखें
     .accesskey = S
+
 cfr-doorhanger-milestone-close-button = बंद करें
     .accesskey = C
 

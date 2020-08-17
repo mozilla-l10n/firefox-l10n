@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "नमूना समारोह के नाम और स्रोत स्थान.">
 <!ENTITY performanceUI.table.totalAlloc               "कुल नमूना आवंटन">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "इस स्थान पर और कॉल्लीस में ऑब्जेक्ट आवंटन नमूनों की कुल संख्या ।">
-<!ENTITY performanceUI.table.selfAlloc                "कुल नमूना आवंटन">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "इस स्थान पर वस्तु आवंटन की संख्या का नमूना.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
