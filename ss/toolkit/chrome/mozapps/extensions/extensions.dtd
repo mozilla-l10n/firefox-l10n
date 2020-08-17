@@ -70,32 +70,6 @@
 
 
 
-<!ENTITY cmd.enableAddon.label                "Vumela">
-<!ENTITY cmd.enableAddon.accesskey            "V">
-<!ENTITY cmd.disableAddon.label               "Khinyabetekile">
-<!ENTITY cmd.disableAddon.accesskey           "K">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY cmd.showPreferencesWin.label         "Kwekutikhetsela">
-
-<!ENTITY cmd.showPreferencesUnix.label        "Lokutsandvwako">
-
-
-
-
 
 
 

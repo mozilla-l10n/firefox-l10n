@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Ngenisa Lokukhetsako, Tibekisi, Umlandvo, Libitophawu nalolunye lwati ku:">
 <!ENTITY importFromUnix.label           "Ngenisa Lokunconotako, Emabhukumakhi, Umlandvo, Libitophawu nalolunye lwati ku:">
-<!ENTITY importFromBookmarks.label      "Ngenisa Tibekisi ku:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

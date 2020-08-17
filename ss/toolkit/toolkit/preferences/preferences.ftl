@@ -13,6 +13,7 @@ pw-empty-warning = Emabitophawu akho lagciniwe e-imeyili, lifomu ledatha, netikh
 pw-not-wanted = Secwayiso! Utincumele kungalisebentisi Libitophawu Lelikhulu. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Kwanyalo usesimeni se-FIPS. I-FIPS idzinga libitophawu lelikhulu lelinelutfo.
+
 pw-change-success-title = Kwenteke ngemphukelelo kuguculwa kwelibitophawu
 pw-change-failed-title = Alikakhoni kuguculeka libitophawu
 pw-remove-button =
@@ -20,6 +21,7 @@ pw-remove-button =
 
 set-password =
     .title = Gucula Libitophawu Lelikhulu
+
 set-password-old-password = Libitophawu Lanyalo:
 set-password-new-password = Faka Libitophawu lelisha:
 set-password-reenter-password = Phindza ulifake Libitophawu:
@@ -30,6 +32,7 @@ master-password-warning = Uyacelwa kutsi uciniseke kutsi uyalikhumbula Lelibitop
 
 remove-password =
     .title = Susa umlawuli welibitophawu
+
 remove-info =
     .value = Kufanele ungenise libitophawu lakho lanyalo kuchubeka:
 remove-warning1 = Libitophawu lelikhulu lisetjentiswa kuvikela lwati lolubalulekile njengendzawo yemabitophawu.

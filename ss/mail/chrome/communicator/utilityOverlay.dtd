@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label "Editha">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Ungenti">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Phindza">
-<!ENTITY redoCmd.key "Yenta">
 <!ENTITY redoCmd.accesskey "p">
-<!ENTITY cutCmd.label "Juba">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "b">
-<!ENTITY copyCmd.label "Kopa">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Namatsisela">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Cisha">
 <!ENTITY deleteCmd.accesskey "c">
-<!ENTITY selectAllCmd.label "Khetsa konkhe">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "k">
 <!ENTITY preferencesCmdUnix.label "Lokunconotwako">
 <!ENTITY preferencesCmdUnix.accesskey "t">
 

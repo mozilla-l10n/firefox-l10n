@@ -2,23 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Nciphisa">
-<!ENTITY bringAllToFront.label    "Kubuyise konkhe ngembili">
-<!ENTITY zoomWindow.label         "Zumu">
-<!ENTITY windowMenu.label         "Windo">
-
-<!ENTITY helpMenu.label           "Sita"> 
-<!ENTITY helpMenu.accesskey       "S"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Sita"> 
-<!ENTITY helpMenuWin.accesskey    "S">
-
-
-<!ENTITY productHelp2.label       "&brandShorterName; Sita">
-<!ENTITY productHelp2.accesskey   "S">
-
 
 
 

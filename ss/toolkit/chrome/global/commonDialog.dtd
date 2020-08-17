@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Luhlaka Sihloko"> 
-<!ENTITY message.label    "Lamanye emasampula alokubhalilwe angena la.">
-
 <!ENTITY editfield0.label "Libitosebenta:"> 
-<!ENTITY editfield1.label "Libitophawu:"> 
-<!ENTITY checkbox.label   "hlola">
+<!ENTITY editfield1.label "Libitophawu:">
 
 
 

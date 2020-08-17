@@ -149,6 +149,7 @@ browsing-use-smooth-scrolling =
 ## Privacy Section - Logins and Passwords
 
 forms-master-pw-fips-title = Kwanyalo usesimeni se-FIPS. I-FIPS idzinga libitophawu lelikhulu lelinelutfo.
+
 forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 
 ## OS Authentication dialog
@@ -190,6 +191,8 @@ history-header = Umlandvo
 ## Privacy Section - Certificates
 
 certs-header = Titifiketi
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

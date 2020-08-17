@@ -52,14 +52,11 @@
 <!ENTITY maxMessagesEnd.label "imilayeto">
 <!ENTITY alwaysAuthenticate.label "Ubocela siciniseko njalo nje nawutsekeleta kusilondvoloti">
 <!ENTITY alwaysAuthenticate.accesskey "u">
-<!ENTITY newsrcFilePath.label "newsrc lifayela:">
-<!ENTITY newsrcPicker.label "Khetsa newsrc lifayela">
 <!ENTITY abbreviate.label "Khombisa emabito etindzaba telicembu engilazini yeMeyilifolda njenge:">
 <!ENTITY abbreviateOn.label "Emabito lagcwele (Sibonelo, 'netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Fishanisa emabito (Sibonelo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Lechubekile...">
 <!ENTITY advancedButton.accesskey "l">
-<!ENTITY localPath.label "Inkhomba yesekhaya:">
 <!ENTITY localFolderPicker.label "Phawula inkhomba yasekhaya">
 <!ENTITY browseFolder.label "Tfungatsa...">
 <!ENTITY browseFolder.accesskey "T">

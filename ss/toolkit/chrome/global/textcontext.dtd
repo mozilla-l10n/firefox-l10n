@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Juba">
-<!ENTITY cutCmd.accesskey "b">
-<!ENTITY copyCmd.label "Kopa">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Amatsisela">
-<!ENTITY pasteCmd.accesskey "A">
-<!ENTITY undoCmd.label "Chacha">
-<!ENTITY undoCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Khetsa konkhe">
-<!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY deleteCmd.label "Cisha">
-<!ENTITY deleteCmd.accesskey "C">
-
 
 
 

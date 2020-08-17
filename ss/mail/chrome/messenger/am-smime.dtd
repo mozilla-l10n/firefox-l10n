@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Kuphepha">
-<!ENTITY securityHeading.label "Kutfumela nekutfola imilayeto lephawuliwe, kufanele uphawule titifiketi letisayinwe ngedijithi naletiphawuliwe.">
-<!ENTITY encryptionGroupTitle.label "Timphawumbhalo">
-<!ENTITY encryptionChoiceLabel.label "Ciniseka ngetinhlelo tetimphawumbhalo nawutfumela imilayeto:">
-<!ENTITY neverEncrypt.label "Ungacali (ungasebentisi timphawu)">
-<!ENTITY alwaysEncryptMessage.label "Lokudzingekile (awukwati kutfumela imilayeto ngaphandle nangabe bonkhe lobatfumelelako banetitifiketi)">
-<!ENTITY encryptionCert.message "Sebentisa sitifiketi lesiphawulwe &amp; ususe timphawu kumlayeto lotfunyelwe kuwe:">
-
 <!ENTITY signingGroupTitle.label "Kusayina ngedijithi">
-<!ENTITY signMessage.label "Imilayeto lesayinwe ngedijithi (ngedifolthi)">
-<!ENTITY signingCert.message "Sebentisa lesitifiketi kusayina ngadijithi imilayeto loyitfumelako:">
-
-<!ENTITY certificates.label "Titifiketi">
 
