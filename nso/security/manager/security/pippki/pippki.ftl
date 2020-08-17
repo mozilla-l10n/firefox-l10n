@@ -21,6 +21,9 @@ change-password-reenter = Lentšuphetišo le leswa (gape):
 reset-password-window =
     .title = Beakanyaleswa Lentšuphetišo la Motheo
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Go beakanyaleswa
 reset-password-text = Ge o beakanyaleswa lentšuphetišo la gago la motheo, mantšuphetišo a gago a web le e-poso ka moka ao o a bolokilego, sebopego sa tshedimošo, disetifikheiti tša gago, le dinotlelo tša sephiri di tla lebalwa. Naa o na le bonnete bja gore o nyaka go beakanyaleswa lentšuphetišo la motheo?

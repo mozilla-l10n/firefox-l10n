@@ -12,72 +12,40 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Ga e kgone go kgokaganya">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Aterese ye e thibetšwe">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "Faele ga ya hwetšwa">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Lekola leina la faele bakeng sa ditlhaka-kgolo goba diphošo tše dingwe tša go tlanya.</li> <li>Lekola go bona ge e ba faele e tlošitšwe, e reilwe leina gape goba e phumotšwe.</li> </ul>">
 
 
-
-<!ENTITY generic.title "O!O!">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; e ka se hlahlele letlakala le ka lebaka le itšego.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Kgokaganyo e šitišitšwe">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Tokumente e feletšwe ke nako">
 
 <!ENTITY notCached.longDesc "<p>Tokumente e kgopetšwego ga e hwetšagale ka polokelo-tsebišo ya &brandShortName;.</p><ul><li> Bakeng sa tšhireletšego, &brandShortName; ga e kgopele gape ditokumente tša bohlokwa ka maitirišo.</li><li>Kgotla Leka gape gore o kgopele tokumente gape go tšwa wepesaeteng.</li></ul>">
 
-<!ENTITY netOffline.title "Mokgwa wa go se be inthaneteng">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Gatelela &quot;Leka gape&quot; gore o fetogele go mokgwa wa inthaneteng gomme o hlahlele letlakala gape.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Phošo ya phetošo ya dikagare">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Mohuta o sa bolokegago wa faele">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li> </ul>">
-
-<!ENTITY netReset.title "Kgokaganyo e beakantšwe-leswa">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Kgokaganyo e feletšwe ke nako">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Aterese ga ya kwešišwa">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>O ka swanelwa ke go lokela lenaneotirišo le lengwe la khomphutha gore o bule aterese ye.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Seabi sa kemedi se gana dikgokaganyo">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Lekola dipeakanyo tša kemedi go kgonthišetša gore di nepagetše.</li> <li>Ikgokaganye le molaodi wa gago wa neteweke go kgonthišetša gore seabi sa kemedi se a šoma.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Ga e kgone go hwetša seabi sa kemedi">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Lekola dipeakanyo tša kemedi go kgonthišetša gore di nepagetše.</li> <li>Lekola go kgonthišetša gore khomphutha ya gago e na le kgokaganyo ya neteweke yeo e šomago.</li> <li>Ge e ba khomphutha ya gago goba neteweke e šireleditšwe ke sešireletši goba kemedi, kgonthišetša gore &brandShortName; e dumeletšwe go tsena wepeng.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Letlakala le ga le laele gape ka tshwanelo">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Bothata bjo mabakeng a mangwe bo ka bakwa ke go palediša goba go gana go amogela dikhukhi.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Karabo e sa letelwago go tšwa go seabi">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Lekola go kgonthišetša gore tshepedišo ya gago e loketšwe molaodi wa tšhireletšo wa botho.</li> <li>Se se ka ba se bakwa ke peakanyo yeo e sego molaong sebareng.</li> </ul>">
 
@@ -89,17 +57,11 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Saete e ka ba e se gona ka nakwana goba e swaregile kudu. Leka gape ka moragonyana.</li> <li>Ge e ba o sa kgone go hlahlela matlakala le ge e le afe, lekola kgokaganyo ya neteweke ya khomphutha ya gago.</li> <li>Ge e ba khomphutha ya gago goba neteweke e šireleditšwe ke sešireletši goba kemedi, kgonthišetša gore &brandShortName; e dumeletšwe go tsena wepeng.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Thibetšwe ke pholisi ya tšhireletšego ya dikagare">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Phošo ya dikagare tšeo di senyegilego">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane go lemogilwe phošo go phetišetšo ya tsebišo.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
 
 
-
-<!ENTITY remoteXUL.title "XUL ya kgole">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul></p>">
 

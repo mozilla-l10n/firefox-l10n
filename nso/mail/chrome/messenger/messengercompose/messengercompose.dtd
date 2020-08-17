@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "Buša">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "b">
-<!ENTITY cutCmd.label "Ripa">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "p">
-<!ENTITY copyCmd.label "Kopolla">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Kgorametša">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "k">
 <!ENTITY editRewrapCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Phumula">
 <!ENTITY deleteCmd.accesskey "p">
 <!ENTITY editRewrapCmd.label "Phuthela gape">
-<!ENTITY selectAllCmd.label "Kgetha Ka moka">
 <!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Hwetša Gape">
 <!ENTITY findAgainCmd.accesskey "a">
 <!ENTITY findAgainCmd.key "G">
@@ -180,17 +172,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "Go tšwa go:">
 <!ENTITY fromAddr.accesskey "š">
-<!ENTITY toAddr.label "Go ya go:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Phetolo-Go ya go:">
-<!ENTITY newsgroupsAddr.label "Ditabakgoboko:">
-<!ENTITY followupAddr.label "Kgopotšo-Go ya go:">
-<!ENTITY subject.label "Hlogo:">
 <!ENTITY subject.accesskey "H">
-<!ENTITY attachments.accesskey "r">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 

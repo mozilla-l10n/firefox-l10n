@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Tšhireletšo">
-<!ENTITY securityHeading.label "Go romela le go amogela melaetša ya go saeniwa goba go enkriptiwa, o swanetše go bontšha ka bobedi sethifikheiti sa go saenwa ka tsela ya ditšitale le sethifikheiti sa enkripšene.">
-<!ENTITY encryptionGroupTitle.label "Enkripšene">
-<!ENTITY encryptionChoiceLabel.label "Se fetole peakanyo ya enkripšene ge o romela melaetša:">
-<!ENTITY neverEncrypt.label "Le gatee (se ke wa šomiša enkripšene)">
-<!ENTITY alwaysEncryptMessage.label "Nyakegago (ka se romele melaetša ka ntle ga ge baamogedi ka moka ba na le ditifikheiti)">
-<!ENTITY encryptionCert.message "Šomiša setifikheiti se go enkriptha &amp; se enkripthe melaetša yeo o e rometšwego:">
-
 <!ENTITY signingGroupTitle.label "Go saena ka mokgwa wa Titšithale">
-<!ENTITY signMessage.label "Saena melaetša ka mokgwa wa titšithale (ka go se fetole)">
-<!ENTITY signingCert.message "Šomiša setifikheiti se go saena melaetša ka tsela ya titšithale yeo o e romelago:">
-
-<!ENTITY certificates.label "Ditifikheiti">
 
