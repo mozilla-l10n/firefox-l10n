@@ -45,8 +45,6 @@
 <!ENTITY performanceUI.table.function.tooltip "El nombre y dirección de origen de la función muestreada.">
 <!ENTITY performanceUI.table.totalAlloc "Total de asignaciones de memoria muestreadas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip "El número total de asignaciones de objeto recogidas en esta ubicación y sus objetos llamados.">
-<!ENTITY performanceUI.table.selfAlloc "Asignaciones de memoria automuestreadas">
-<!ENTITY performanceUI.table.selfAlloc.tooltip "El número de asignaciones de objeto recogidos en esta ubicación.">
 
 <!ENTITY performanceUI.options.filter.tooltiptext "Seleccione qué datos mostrar en la línea de tiempos">
 

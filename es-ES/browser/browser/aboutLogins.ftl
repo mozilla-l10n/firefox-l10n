@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Descargar en Google Play
 login-app-promo-apple =
     .alt = Descargar en App Store
+
 login-filter =
     .placeholder = Buscar inicios de sesión
+
 create-login-button = Crear nuevo inicio de sesión
+
 fxaccounts-sign-in-text = Acceda a sus contraseñas en todos sus dispositivos
 fxaccounts-sign-in-button = Inicia sesión en { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ¿Busca sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = ¿Busca inicios de sesión guardados? Configure { -sync-brand-short-name } o impórtelos
 about-logins-login-intro-heading-logged-in = No se han encontrado credenciales sincronizadas.
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, éstos son los pasos a seguir para tenerlos aquí también:
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-nam
 login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de Inicios de sesión en los ajustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consulte la <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda </a> para obtener más información
 about-logins-intro-import = Si sus inicios de sesión están guardados en otro navegador, puede <a data-l10n-name="import-link">importarlos en { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Si sus inicios de sesión se guardan fuera de { -brand-product-name }, puede <a data-l10n-name="import-browser-link">importarlos desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo </a>
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar su inicio de se
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar el inicio de sesión guardado
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver su contraseña, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostrar la contraseña guardada
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Para copiar su contraseña, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contraseña guardada
+
+## Master Password notification
+
+master-password-notification-message = Por favor, introduzca su contraseña maestra para ver los nombres de usuario y contraseñas guardadas.
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Para exportar sus inicios de sesión, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar usuarios y contraseñas guardadas
-
-## Master Password notification
-
-master-password-notification-message = Por favor, introduzca su contraseña maestra para ver los nombres de usuario y contraseñas guardadas.
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+
 about-logins-confirm-remove-dialog-title = ¿Eliminar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no se puede deshacer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y contraseñas
 about-logins-confirm-export-dialog-message = Sus contraseñas se guardarán como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+
 confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
 confirm-discard-changes-dialog-message = Todos los cambios no guardados se perderán.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Saber más
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ya hay una entrada para { $loginTitle } con ese nombre de usuario. <a data-l10n-name="duplicate-link"> ¿Quiere ir a esa entrada? </a>
+
 # This is a generic error message.
 about-logins-error-message-default = Se produjo un error al intentar guardar la contraseña.
+
 
 ## Login Export Dialog
 

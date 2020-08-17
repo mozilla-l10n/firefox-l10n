@@ -2,19 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title "Configurar una dirección de correo existente">
-
 <!ENTITY emailWizard.title "Configure su dirección de correo electrónico existente">
 <!ENTITY emailWizard.caption "Use su dirección de correo electrónico actual">
 <!ENTITY name.label "Su nombre:">
 <!ENTITY name.accesskey "S">
-<!ENTITY name.placeholder "Nombre y apellidos">
 <!ENTITY fullname.placeholder "Su nombre completo">
 <!ENTITY name.text "Su nombre, tal y como se muestra a los demás">
 <!ENTITY name.error "Introduzca su nombre">
 <!ENTITY email.label "Dirección de correo:">
 <!ENTITY email.accesskey "D">
-<!ENTITY email2.placeholder "usted@example.com">
 <!ENTITY email3.placeholder "Su dirección de correo electrónico">
 <!ENTITY email.text "Su dirección de correo existente">
 <!ENTITY email.error "Dirección de correo no válida">
@@ -40,9 +36,6 @@
 <!ENTITY outgoing.label "Saliente:">
 <!ENTITY outgoingColumn.label "Saliente">
 <!ENTITY username.label "Nombre de usuario:">
-<!ENTITY hostname.label "Nombre del servidor">
-<!ENTITY port.label "Puerto">
-<!ENTITY ssl.label "SSL">
 <!ENTITY serverRow.label "Servidor:">
 <!ENTITY portRow.label "Puerto:">
 <!ENTITY sslRow.label "SSL:">
@@ -68,8 +61,6 @@
 <!ENTITY stop.accesskey "P">
 <!ENTITY half-manual-test.label "Volver a probar">
 <!ENTITY half-manual-test.accesskey "V">
-<!ENTITY manual-edit.label "Config. manual">
-<!ENTITY manual-edit.accesskey "m">
 <!ENTITY manual-config.label "Configurar manualmente…">
 <!ENTITY manual-config.accesskey "M">
 <!ENTITY open-provisioner.label "Obtener una nueva dirección de correo…">

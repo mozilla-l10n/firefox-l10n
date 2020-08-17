@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleccionar todas las pestañas
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Deshacer el cierre de la última pestaña
-    .accesskey = h
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

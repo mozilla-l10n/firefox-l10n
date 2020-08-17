@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Gestione sus complementos haciendo clic <im
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensión se ejecute en ventanas privadas
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Cambiar a extensiones en ventanas privadas
-    .buttonlabel = Gestionar extensiones
-    .buttonaccesskey = G
-    .secondarybuttonlabel = Vale, entendido
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Cualquier nueva extensión que añada a { -brand-shorter-name } no funcionará en ventanas privadas a menos que lo permita en la configuración.
-appmenu-addon-private-browsing-learn-more = Sepa cómo administrar la configuración de extensiones.
     
 appmenu-new-tab-controlled =
     .label = Su pestaña nueva ha cambiado.

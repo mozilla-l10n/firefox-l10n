@@ -27,7 +27,3 @@
 <!ENTITY translation.options.preferences.label "Preferencias de traducción">
 <!ENTITY translation.options.preferences.accesskey "P">
 
-<!ENTITY translation.options.attribution.beforeLogo "Traducciones de">
-<!ENTITY translation.options.attribution.afterLogo "">
-
-<!ENTITY translation.options.attribution.yandexTranslate "Basado en Yandex.Translate">

@@ -112,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Escriba menos, encuentre más: busque con { $engineName } directamente desde la barra de direcciones.
 urlbar-search-tips-redirect-2 = Inicie su búsqueda en la barra de direcciones para ver sugerencias de { $engineName } y su historial de navegación.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -191,6 +193,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Establecer como buscador predeterminado para ventanas privadas
     .accesskey = P
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -304,8 +313,10 @@ enable-devtools-popup-description = Para usar el acceso directo F12, primero abr
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Término de búsqueda o dirección
+
 urlbar-placeholder =
     .placeholder = Término de búsqueda o dirección
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = El navegador está bajo control remoto
 urlbar-permissions-granted =
