@@ -21,6 +21,9 @@ change-password-reenter = නව රහස්පදය (යළි):
 reset-password-window =
     .title = ප්‍රධාන රහස්පදය නැවත සකසන්න
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = නැවත සකසන්න
 reset-password-text = ඔබගේ ප්‍රධාන රහස්පදය නැවත සැකසුවහොත්, ඔබගේ සියලු වියුණු සහ විද්‍යුත් තැපැල් රහස්පද, පොරම දත්ත, පුද්ගලික සහතික, පෞද්ගලික යතුරු මතකයෙන් ඉවත්වනු ඇත. ඔබට විශ්වාස ද ඔබගේ ප්‍රධාන රහස්පදය නැවත සැකසීමට අවශ්‍ය බවට?

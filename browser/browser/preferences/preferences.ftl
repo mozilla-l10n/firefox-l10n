@@ -7,13 +7,6 @@ do-not-track-learn-more = තවත් දැනගන්න
 do-not-track-option-always =
     .label = සැමවිටම
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] විකල්ප
-           *[other] මනාපයන්
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] විකල්ප
@@ -356,10 +349,6 @@ update-application-use-service =
     .label = යාවත්කාලීන ස්ථාපනය සඳහා පසුබ්ම් සේවාව (background service) භාවිතා කරන්න
     .accesskey = b
 
-update-enable-search-update =
-    .label = සෙවුම් යන්ත්‍ර ස්වයංක්‍රීයව යාවත් කරන්න
-    .accesskey = e
-
 ## General Section - Performance
 
 performance-title = ක්‍රියාකාරීත්වය
@@ -543,8 +532,6 @@ search-keyword-warning-bookmark = ඔබ විසින් තෝරාගත�
 
 ## Containers Section
 
-containers-back-link = « ආපසු යන්න
-
 containers-header = බහාලුම් ටැබ
 containers-add-button =
     .label = නව බහාලුමක් එක් කරන්න
@@ -563,14 +550,6 @@ containers-remove-button =
 
 sync-signedout-caption = ඔබේ ජාලය ඔබ සමඟ ගෙනයන්න
 
-sync-signedout-account-title = { -fxaccount-brand-name } සමඟ සම්බන්ද වන්න
-sync-signedout-account-create = ගිණුමක් නැද්ද? අාරම්භ කරන්න
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = ඇතුළු වන්න...
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -588,10 +567,6 @@ sync-mobile-promo = මෙය සඳහා Firefox බාගත කරන්න 
 
 sync-profile-picture =
     .tooltiptext = පැතිකඩ පින්තූරය වෙනස් කරන්න
-
-sync-disconnect =
-    .label = විසන්ධි කරන්න...
-    .accesskey = D
 
 sync-manage-account = ගිණුම කළමනාකරණය කරන්න
     .accesskey = o
@@ -627,11 +602,6 @@ sync-engine-history =
     .label = පෙරදෑ
     .accesskey = r
 
-sync-engine-logins =
-    .label = පිවිසුම්
-    .tooltiptext = ඔබ සුරක්ෂිත කර අැති පරිශීලක නාම හා මුරපද
-    .accesskey = L
-
 sync-engine-addresses =
     .label = ලිපින
     .tooltiptext = ඔබ සුරක්ෂිත කර අැති ලිපින (මේස පරිඝනකයේ පමණි)
@@ -658,18 +628,12 @@ sync-device-name-save =
     .label = සුරකින්න
     .accesskey = v
 
-sync-tos-link = සේවා කොන්දේසි
-
-sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
-
 ## Privacy Section
 
 privacy-header = ගවේශන පුද්ගලිකත්වය
 
 ## Privacy Section - Forms
 
-
-logins-header = පිවිසුම් සහ මුරපද
 
 ## Privacy Section - Logins and Passwords
 
@@ -692,6 +656,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
+
 forms-master-pw-fips-desc = රහස්පදය වෙනස් කිරීම අසාර්තකයි
 
 ## OS Authentication dialog
@@ -772,18 +737,6 @@ addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ
 
 content-blocking-learn-more = තවත් දැනගන්න
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = සම්මත
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = දැඩි
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = රිසිකළ
-    .accesskey = C
-
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
@@ -799,8 +752,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = C
 
 ##
-
-content-blocking-learn-how = කෙසේදැයි ඉගෙන ගන්න
 
 ## Privacy Section - Tracking
 
@@ -836,10 +787,6 @@ permissions-notification-link = තවත් දැනගන්න
 permissions-notification-pause =
     .label = { -brand-short-name } යළි ඇරඹේන තෙක්දැ නුම්දීම් මඳක් නවතන්න
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = හැරදැමීම්...
-    .accesskey = E
 
 permissions-block-popups =
     .label = පොප්-අප් කවුළු වලකන්න
@@ -931,6 +878,8 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = හරි, පැහැදිලියි
     .accesskey = K
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

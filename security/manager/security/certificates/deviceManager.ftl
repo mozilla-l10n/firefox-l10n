@@ -106,6 +106,7 @@ devinfo-serialnum =
     .label = අනුක්‍රමික අංකය
 
 fips-nonempty-password-required = FIPS මාදිලියේදී සෑම ආරක්ෂක උපාංගයකටම ඔබ ප්‍රධාන රහස්පදයක් යොදා තිබීම අවශ්‍යය. FIPS මාදිලිය සක්‍රීය කිරීමට පළමු රහස්පද‍ය ඇතුළත් කරන්න.
+
 unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
 
 add-module-failure = මොඩියුලය එක් කළ නොහැක

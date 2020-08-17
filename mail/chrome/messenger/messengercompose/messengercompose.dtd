@@ -63,15 +63,9 @@
 <!ENTITY redoCmd.label "යළි කරන්න">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
-<!ENTITY cutCmd.label "කපන්න">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "පිටපත් කරන්න">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c"> 
-<!ENTITY pasteCmd.label "අලවන්න">
+<!ENTITY cutCmd.key "X"> 
+<!ENTITY copyCmd.key "C"> 
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -81,9 +75,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "ඇමුණුම යළි නම්කිරීම…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.accesskey "A"> 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "නැවත සොයන්න">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -203,20 +195,8 @@
 <!ENTITY pasteButton.tooltip            "ඇලවීමට">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!-- Headers -->
-<!ENTITY fromAddr.label "යවන්නා:">
-<!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "ලබන්නා:"> 
-<!ENTITY ccAddr.label "පිටපත්:"> 
-<!ENTITY bccAddr.label "රහස්‍ය පිටපත්:"> 
-<!ENTITY replyAddr.label "පිළිතුරු මෙයට:"> 
-<!ENTITY newsgroupsAddr.label "පුවත්සමූහ:"> 
-<!ENTITY followupAddr.label "පසුවිපරම් මෙයට:"> 
-<!ENTITY subject.label "මාතෘකාව:">
+<!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 

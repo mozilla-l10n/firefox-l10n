@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "ඔබේ නම:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder "පළමු අවසාන">
 <!ENTITY name.text                       "ඔබේ නම, අන් අයට පෙන්වන අයුරු">
 <!ENTITY email.label                     "විද්‍යුත් තැපැල් ලිපිනය:">
 <!ENTITY email.accesskey                 "l">
@@ -22,9 +21,6 @@
 <!ENTITY incoming.label                  "එවුම් :">
 <!ENTITY outgoing.label                  "යැවුම්:">
 <!ENTITY username.label "පරිශීලක නම:">
-<!ENTITY hostname.label "සේවාදායක ධාරක නම">
-<!ENTITY port.label "වාවරය (Port)">
-<!ENTITY ssl.label "SSL">
 <!ENTITY auth.label "සත්‍යාපනය">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label "POP3">
@@ -50,8 +46,6 @@
 
 <!ENTITY half-manual-test.label "යළි-පරීක්ෂා කරන්න">
 <!ENTITY half-manual-test.accesskey "t">
-<!ENTITY manual-edit.label "අභිමත මානකිරීම්">
-<!ENTITY manual-edit.accesskey "M">
 
 
 <!ENTITY warning.label                   "අවවාදයයි!">

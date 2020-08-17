@@ -33,12 +33,6 @@ connection-proxy-http = HTTP ප්‍රොක්සි
     .accesskey = x
 connection-proxy-http-port = පේනුව
     .accesskey = P
-connection-proxy-http-share =
-    .label = සියලු නියමාවලි සඳහා එකම ප්‍රොක්සි භාවිතා කරන්න
-    .accesskey = s
-
-connection-proxy-ssl = SSL ප්‍රොක්සි
-    .accesskey = L
 
 connection-proxy-ssl-port = පේනුව
     .accesskey = o

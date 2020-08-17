@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = පූරණය වේ…
-
 list-empty-installed =
     .value = මේ ආකාරයේ කිසිඳු ඇඩෝනයක් ඔබ ස්ථාපනය කර නැත
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = ඇඩෝන පිළිබඳව වැඩිදුරටත් දැනගන්න
 
-install-addon-from-file =
-    .label = ඇඩෝන ගොනුවෙන් ස්ථාපනය කරන්න…
-    .accesskey = I
-
 help-button = ඇඩෝන සහාය
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } විකල්ප
        *[other] { -brand-short-name } අභිප්‍රේත
     }
-
-tools-menu =
-    .tooltiptext = සියළු ඇඩෝන සඳහා මෙවලම්
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = සියළු දිගු පෙන්වන්න
-
-debug-addons =
-    .label = ඇඩෝන දෝශ නිරාකරණය
-    .accesskey = B
 
 cmd-show-details =
     .label = තවත් තොරතුරු පෙන්වන්න
@@ -103,17 +89,6 @@ cmd-contribute =
     .label = දායකවන්න
     .accesskey = C
     .tooltiptext = මෙම ඇඩෝනයේ සංවර්ධනය වෙනුවෙන් දායකවන්න
-
-discover-title = ඇඩෝන මොනවාද?
-
-discover-description =
-    Add-ons are applications that let you personalize { -brand-short-name } with
-    extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make { -brand-short-name }
-    your own.
-
-discover-footer =
-    ඔබ අන්තර්ජාලයට සම්බන්ධව සිටින විට, මෙය වඩාත් ජනප්‍රිය සහ ප්‍රයෝජනවත්
-    ඇඩෝන ඔබට උත්සාහ කර බැලීම පිණිස මෙහි දක්වනු ඇත.
 
 detail-version =
     .label = න්කුතුව
@@ -200,14 +175,6 @@ disabled-unsigned-devinfo = මෙය කියවීම මගින් තම 
 
 plugin-deprecation-description = යමක් අහිමිද? { -brand-short-name } විසින් ඇතැම් ප්ලගින වෙත තවදුරටත් සහය නොදක්වයි. <label data-l10n-name="learn-more"> තවත් දැනගන්න.</label>
 
-extensions-view-recent-updates =
-    .name = මෑතකාලීන යාවත්කාලීන
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = පවතින යාවත්කාලීන
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = දිගුකිරීම්
 addon-category-extension-title =
     .title = දිගුකිරීම්
@@ -229,29 +196,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = ආරක්ෂිත මාදිලිය (safe mode) විසින් සියළු ඇඩෝන කර ඇත.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = ඇඩෝන අනුකූලතා පරීක්ෂාව අබල (disable) කර ඇත. මෙහි අනුකූල නොවන ඇඩෝන තිබිය හැකිය.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = බලැති (Enable) කරන්න
-    .tooltiptext = ඇඩෝන අනුකූලතා පරීක්ෂාව බලැති (Enable) කරන්න
-
-extensions-warning-update-security-label =
-    .value = Add-on update security checking is disabled. You may be compromised by updates.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = බලැති (Enable) කරන්න
-    .tooltiptext = ඇඩෝන යාවත්කාලීන කිරීමේ ආරක්ෂක සැකසුම් බලැතා (Enable) කරන්න
-
 extensions-warning-safe-mode = ආරක්ෂිත මාදිලිය (safe mode) විසින් සියළු ඇඩෝන කර ඇත.
 extensions-warning-check-compatibility = ඇඩෝන අනුකූලතා පරීක්ෂාව අබල (disable) කර ඇත. මෙහි අනුකූල නොවන ඇඩෝන තිබිය හැකිය.
 extensions-warning-check-compatibility-button = බලැති (Enable) කරන්න
@@ -263,14 +207,6 @@ extensions-warning-update-security-button = බලැති (Enable) කරන�
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = මෑතකාලීන යාවත්කාලීන පෙන්වන්න
-    .accesskey = V
-
 addon-updates-check-for-updates = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
     .accesskey = C
 addon-updates-view-updates = මෑතකාලීන යාවත්කාලීන පෙන්වන්න
@@ -278,10 +214,6 @@ addon-updates-view-updates = මෑතකාලීන යාවත්කාල�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = ස්වයංක්‍රීයව ඇඩෝන යාවත්කාලීන කරන්න
-    .accesskey = A
 
 addon-updates-update-addons-automatically = ස්වයංක්‍රීයව ඇඩෝන යාවත්කාලීන කරන්න
     .accesskey = A
@@ -292,36 +224,12 @@ addon-updates-update-addons-automatically = ස්වයංක්‍රීයව
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = ස්වයංක්‍රීයව යාවත්කාලීන කිරීමට සියළු ඇඩෝන ප්‍රත්‍යාරම්භ (Restart) කරන්න
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = Reset All Add-ons to Update Manually
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = ස්වයංක්‍රීයව යාවත්කාලීන කිරීමට සියළු ඇඩෝන ප්‍රත්‍යාරම්භ (Restart) කරන්න
     .accesskey = R
 addon-updates-reset-updates-to-manual = Reset All Add-ons to Update Manually
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = ඇඩෝන යාවත්කාලීන කිරීම
-extensions-updates-installed =
-    .value = ඔබගේ ඇඩෝන යාවත්කාලීන නර ඇත.
-extensions-updates-downloaded =
-    .value = ඔබගේ ඇඩෝන යාවත්කාලීන බාගත කර ඇත.
-extensions-updates-restart =
-    .label = ස්ථාපනය සම්පූර්ණ වීමට දැන් යළි-ආරම්භ කරන්න
-extensions-updates-none-found =
-    .value = යාවත්කාලීන හමු නොවීය
-extensions-updates-manual-updates-found =
-    .label = පවතින යාවත්කාලීන පෙන්වන්න
-extensions-updates-update-selected =
-    .label = යාවත්කාලීන ස්ථාපනය කරන්න
-    .tooltiptext = මෙම ලැයිස්තුවේ පවතින යාවත්කාලීන ස්ථාපනය කරන්න
 
 addon-updates-updating = ඇඩෝන යාවත්කාලීන කිරීම
 addon-updates-installed = ඔබගේ ඇඩෝන යාවත්කාලීන නර ඇත.
@@ -342,8 +250,6 @@ addon-open-about-debugging = ඇඩෝන දෝශ නිරාකරණය
 shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
 
-shortcuts-browserAction = දිගුව සක්‍රීය කරන්න
-
 shortcuts-pageAction = පිටු ක්‍රියාව සක්‍රීය කරන්න
 
 shortcuts-modifier-mac = Ctrl, Alt, හෝ ⌘ ඇතුලත් කරන්න
@@ -357,9 +263,6 @@ shortcuts-modifier-other = Ctrl හෝ Alt ඇතුලත් කරන්න
 remove-addon-button = ඉවත් කරන්න
 disable-addon-button = අක්‍රීය කරන්න
 enable-addon-button = සක්‍රීය
-
-addons-enabled-heading = සක්‍රීය කළ
-addons-disabled-heading = අක්‍රීය කළ
 
 ## Pending uninstall message bar
 

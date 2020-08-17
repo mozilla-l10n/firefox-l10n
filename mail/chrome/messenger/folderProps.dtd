@@ -56,7 +56,6 @@
 <!ENTITY folderType.label                        "ෆෝල්ඩර ආකාරය:">
 
 <!ENTITY folderQuotaTab.label                    "පංගුව (Quota)">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
 <!ENTITY folderQuotaUsage.label                  "භාවිතාව:">
 <!ENTITY folderQuotaStatus.label                 "තත්ත්වය:">
 

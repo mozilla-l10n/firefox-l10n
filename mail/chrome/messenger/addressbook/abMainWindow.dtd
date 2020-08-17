@@ -42,38 +42,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "සැකසුම්">
 <!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "අහෝසි.">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
-<!ENTITY redoCmd.label                                  "යළි කරන්න">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
-<!ENTITY cutCmd.label                                   "කපන්න">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "පිටපත් කරන්න">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "c">
-<!ENTITY pasteCmd.label                                 "අලවන්න">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "මකන්න">
-<!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "ලිපින පොත මකන්න">
 <!ENTITY deleteContactCmd.label                         "සබඳතාව මකන්න">
 <!ENTITY deleteContactsCmd.label                        "සබඳතා මකන්න">
 <!ENTITY deleteListCmd.label                            "ලැයිස්තුව මකන්න">
 <!ENTITY deleteListsCmd.label                           "ලැයිස්තු මකන්න">
 <!ENTITY deleteItemsCmd.label                           "අයිතමයන් මකන්න">
-<!ENTITY selectAllCmd.label                             "සියල්ල තෝරන්න">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "මුල්/අවසන් නම හුවමාරු කරන්න">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->

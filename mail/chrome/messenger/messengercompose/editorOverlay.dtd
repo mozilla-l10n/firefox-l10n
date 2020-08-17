@@ -6,26 +6,16 @@
 
 <!-- File menu items -->
 
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "හැඩගැසුම් නොමැතිව අලවන්න">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "අලවන අයුර">
-<!ENTITY pasteAs.accesskey "A">
 
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
 <!ENTITY pasteAsQuotationCmd.label "උපුටා ගැනීමක් සේ අලවන්න">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY enableInlineSpellChecker.label "ලියන විටදීම අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "K">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ඇතුලත් කිරීම්">
@@ -176,9 +166,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "බ‍ඳේ පාඨ">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "වැඩිදුර ගුණාංග">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "පෙළගැස්ම">
@@ -195,11 +182,6 @@
 <!ENTITY alignJustify.label "සමව පෙළ">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "සමව පෙළගැස්ම">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "ස්තරය">
-<!ENTITY layerSendToBack.tooltip "පසුපසට යවන්න">
-<!ENTITY layerBringToFront.tooltip "මතුපිටට තන්න">
 
 <!ENTITY increaseIndent.label "එබුම (Indent) වැඩි කරන්න">
 <!ENTITY increaseIndent.accesskey "I">
@@ -278,19 +260,6 @@
 <!ENTITY tableProperties.accesskey "o">
 
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "මෙනු තීරුව">
-<!ENTITY formatToolbar.tooltip "හැඩතල මෙවලම්තීරුව">
-<!ENTITY cutToolbarCmd.tooltip "කපන්න">
-<!ENTITY copyToolbarCmd.tooltip "පිටපත් කරන්න">
-<!ENTITY pasteToolbarCmd.tooltip "අලවන්න">
-<!ENTITY printToolbarCmd.label "මුද්‍රණය">
-<!ENTITY printToolbarCmd.tooltip "මෙම පිටුව මුද්‍රණය කිරීම">
-<!ENTITY findToolbarCmd.label "සෙයෙන්න">
-<!ENTITY findToolbarCmd.tooltip "පිටුවේ පාඨ සෙවීම">
-<!ENTITY spellToolbarCmd.label "අක්ෂර වින්‍යාසය">
-<!ENTITY spellToolbarCmd.tooltip "තෝරාගත් කොටාස් හෝ පිටුවේ අක්ෂර වින්‍යාසය පරීක්ෂා කිරීම">
-
 <!ENTITY imageToolbarCmd.label "රූප">
 <!ENTITY imageToolbarCmd.tooltip "නව රූපයක් ඇතුළු කිරීම හෝ කෝරාගත් රූපයක ලක්ෂණ සැකසීම">
 <!ENTITY hruleToolbarCmd.label "තිරස් රේඛාව">
@@ -303,7 +272,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "නව නම්කළ නැංගූරමක් (named anchor) ඇතුලත් කිරීම හෝ තෝරාගත් එකක ලක්ෂණ සැකසීම">
 <!ENTITY TextColorButton.tooltip "පාඨ සඳහා වර්ණ තේරීම">
 <!ENTITY BackgroundColorButton.tooltip "පසුබිම සඳහා වර්ණ තේරීම">
-<!ENTITY HighlightColorButton.tooltip "පාඨ ඉස්මතු කිරීම සඳහා වර්ණ තේරීම">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "කුඩා ප්‍රමාණාය් පාඨ">
@@ -322,14 +290,6 @@
 <!ENTITY alignRightButton.tooltip "දකුණු මාර්ජීනය ඔස්සේ පාඨ පෙළගස්සන්න">
 <!ENTITY alignJustifyButton.tooltip "දකුණු සහ වම් මාර්ජීනයන් ඔස්සේ පාඨ පෙළගස්සන්න">
 
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "තෝරන්න">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "ටැග් ඉවත් කරන්න">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "ටැග් වෙනස් කරන්න">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "ඇතුලත් කරන්න">

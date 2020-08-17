@@ -2,68 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cmd.enableAddon.label                "බලැති (Enable) කරන්න">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "අබල කරන්න">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "සක්‍රීය කිරීමට විමසන්න">
-<!ENTITY cmd.askToActivate.tooltip            "සෑම විටම මෙම ඇඩෝනය භාවිත කිරීමට විමසන්න">
-<!ENTITY cmd.alwaysActivate.label             "සැමවිටම සක්‍රීය">
-<!ENTITY cmd.alwaysActivate.tooltip           "සැමවිටම මෙම ඇඩෝනය භාවිත කරන්න">
-<!ENTITY cmd.neverActivate.label              "කිසිවිට සක්‍රීය නොකරන්න">
-<!ENTITY cmd.neverActivate.tooltip            "කිසිවිට මෙම ඇඩෝනය භාවිත නොකරන්න">
-<!ENTITY cmd.stateMenu.tooltip                "ඇඩෝනය ක්‍රියාකරන විට වෙනස් කරන්න">
-
-<!ENTITY cmd.uninstallAddon.label             "ඉවත් කරන්න">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "විකල්ප">
-<!ENTITY cmd.showPreferencesWin.tooltip       "මෙම ඇඩෝනයේ විකල්ප වෙනස් කරන්න">
-<!ENTITY cmd.showPreferencesUnix.label        "මනාපයන්">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "මෙම ඇඩෝනයේ මනාපයන් වෙනස් කරන්න">
-
-<!ENTITY cmd.showReleaseNotes.label           "නිකුතු සටහන් පෙන්වන්න">
-<!ENTITY cmd.showReleaseNotes.tooltip         "මෙම යාවත්කාලීනය සඳහා නිකුතු සටහන් පෙන්වන්න">
-<!ENTITY cmd.hideReleaseNotes.label           "නිකුතු සටහන් සඟවන්න">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "මෙම යාවත්කාලීනයේ නිකුතු සටහන් සඟවන්න">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "එපා">
-
-
-<!ENTITY addon.details.label                  "More">
-<!ENTITY addon.details.tooltip                "මෙම ඇඩෝන ගැන වැඩි විස්තර පෙන්වන්න">
-<!ENTITY addon.unknownDate                    "නොදන්නා">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(අබලැති-disabled)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "යාවත්කාලීන කරන්න">
-<!ENTITY addon.undoAction.label               "අහොස් කරන්න">
-<!ENTITY addon.undoAction.tooltip             "මෙම ක්‍රියාව අහෝසි කරන්න">
-<!ENTITY addon.undoRemove.label               "අහෝසි කරන්න">
-<!ENTITY addon.undoRemove.tooltip             "මෙම ඇඩෝනය ස්ථාපනය කර තබන්න">
-
-<!ENTITY addon.install.label                  "ස්ථාපනය කරන්න">
-<!ENTITY addon.install.tooltip                "මෙම ඇඩෝනය ස්ථාපනය කරන්න">
-<!ENTITY addon.updateNow.label                "දැන් යාවත්කාලීන කරන්න">
-<!ENTITY addon.updateNow.tooltip              "මෙම ඇඩෝනයේ යාවත්කාලීන ස්ථාපනය කරන්න">
-<!ENTITY addon.includeUpdate.label            "යාවත්කාලීන තුළ ඇතුළත් කරන්න">
-<!ENTITY addon.updateAvailable.label          "යාවත්කාලීන ඇත">
-<!ENTITY addon.checkingForUpdates.label       "යාවත්කාලීන සඳහා පරීක්ෂා කරයි…">
-<!ENTITY addon.releaseNotes.label             "නිකුතු සටහන්:">
-<!ENTITY addon.loadingReleaseNotes.label      "පූරණය වේ…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.">
-
-<!ENTITY addon.createdBy.label                "By ">
-
-<!ENTITY settings.path.button.label           "ගවේෂණය…">
 
 <!ENTITY setting.learnmore "වැඩිදුර ඉගෙනගන්න...">
 

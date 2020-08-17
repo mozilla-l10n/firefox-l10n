@@ -5,3 +5,4 @@
 tag-name-label =
     .value = ටැගයේ නම:
     .accesskey = T
+
