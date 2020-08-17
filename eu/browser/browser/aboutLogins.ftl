@@ -18,9 +18,12 @@ login-app-promo-android =
     .alt = Eskuratu Google Play-n
 login-app-promo-apple =
     .alt = Deskargatu App Store-an
+
 login-filter =
     .placeholder = Bilatu saio-hasierak
+
 create-login-button = Sortu saio-hasiera berria
+
 fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
 fxaccounts-sign-in-button = Hasi saioa { -sync-brand-short-name }(e)n
 fxaccounts-avatar-button =
@@ -72,6 +75,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Ez da sinkronizatuta saio-hasierarik aurkitu.
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
 login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name } kontuan saio-hasierak gordeta dituzun gailuan
@@ -117,25 +121,31 @@ about-logins-edit-login-os-auth-dialog-message-win = Zure saio-hasiera editatzek
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editatu gordetako saio-hasiera
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Zure pasahitza ikusteko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = agerrarazi gordetako pasahitza
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Zure pasahitza kopiatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiatu gordetako pasahitza
+
+## Master Password notification
+
+master-password-notification-message = Idatzi zure pasahitz nagusia gordetako saio-hasiera eta pasahitzak ikusteko
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Zure saio-hasierak esportatzeko, idatzi Windowseko zure saio-hasiera kredentzialak. Zure kontuen segurtasuna babesten laguntzen du honek.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esportatu gordetako saio-hasiera eta pasahitzak
 
-## Master Password notification
+## Primary Password notification
 
-master-password-notification-message = Idatzi zure pasahitz nagusia gordetako saio-hasiera eta pasahitzak ikusteko
 master-password-reload-button =
     .label = Hasi saioa
     .accesskey = H
@@ -163,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Utzi
 confirmation-dialog-dismiss-button =
     .title = Utzi
+
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
+
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…
+
 confirm-discard-changes-dialog-title = Baztertu gorde gabeko aldaketak?
 confirm-discard-changes-dialog-message = Gorde gabeko aldaketa guztiak galdu egingo dira.
 confirm-discard-changes-dialog-confirm-button = Baztertu
@@ -199,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Argibide gehiago
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Erabiltzaile-izen hori duen sarrera bat badago lehendik ere { $loginTitle } webgunerako. <a data-l10n-name="duplicate-link">Sarrera horretara joan?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Errorea gertatu da pasahitz hau gordetzen saiatzean.
+
 
 ## Login Export Dialog
 
@@ -217,3 +232,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] CSV dokumentua
        *[other] CSV fitxategia
     }
+
+## Login Import Dialog
+

@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Kargatzen…
-
 list-empty-installed =
     .value = Ez daukazu mota honetako gehigarririk instalatuta
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Gehigarriei buruzko argibide gehiago
 
-install-addon-from-file =
-    .label = Instalatu gehigarria fitxategitik…
-    .accesskey = I
-
 help-button = Gehigarrien laguntza
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } aukerak
        *[other] { -brand-short-name } hobespenak
     }
-
-tools-menu =
-    .tooltiptext = Tresnak gehigarri guztientzat
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Erakutsi gehigarri guztiak
-
-debug-addons =
-    .label = Araztu gehigarriak
-    .accesskey = z
 
 cmd-show-details =
     .label = Erakutsi informazio gehiago
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = L
     .tooltiptext = Lagundu gehigarri honen garapenean
 
-discover-title = Zer dira gehigarriak?
-
-discover-description = { -brand-short-name } aparteko funtzionaltasun edo estiloarekin pertsonalizatzeko aplikazioak dira gehigarriak. Proba ezazu denbora aurrezteko alboko barra bat, eguraldiaren jakinarazlea edo { -brand-short-name }(r)en itxura zeure egiteko itxura bat.
-
-discover-footer = Internetera konektatuta zaudenean, panel honetan gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.
-
 detail-version =
     .label = Bertsioa
 
@@ -140,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Exekutatu leiho pribatuetan
 
-detail-private-browsing-description2 = Baimenduta dagoenean, hedapenak zure lineako jardueren sarbidea izango du nabigatze pribatuko moduan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ez da leiho pribatuetan onartzen
-detail-private-disallowed-description = Hedapen hau ez dabil leiho pribatuetan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
 
 detail-private-disallowed-description2 = Hedapen hau ez dabil nabigatze pribatuan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Leiho pribatuetarako sarbidea behar du
-detail-private-required-description = Hedapen honek zure lineako jardueren sarbidea du nabigatze pribatuko moduan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
 
 detail-private-required-description2 = Hedapen honek zure online jardueretarako sarbidea du nabigatze pribatuan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 
@@ -223,18 +199,6 @@ legacy-extensions-description = Hedapen hauek ez dira { -brand-short-name }(r)en
 
 private-browsing-description2 = { -brand-short-name } aldatzen ari da hedapenak nola dabiltzan nabigatze pribatuan. { -brand-short-name }(e)ra gehitutako hedapen berriak lehenespenez ez dira leiho pribatuetan ibiliko. Ezarpenetan baimendu ezean, hedapena ez da ibiliko modu pribatuan nabigatu ahala eta bertan ez du zure lineako jardueretarako sarbiderik izango. Zure nabigatze pribatua benetan pribatu mantentzeko egin dugu aldaketa hau. <label data-l10n-name="private-browsing-learn-more">Hedapenen ezarpenak kudeatzeko argibide gehiago.</label>
 
-extensions-view-discopane =
-    .name = Gomendioak
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Azken eguneraketak
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Eguneraketak eskura
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Gomendioak
 addon-category-discover-title =
     .title = Gomendioak
@@ -262,29 +226,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Modu seguruak gehigarri guztiak desgaitu ditu.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Gaitu
-    .tooltiptext = Gaitu gehigarrien bateragarritasuna egiaztatzea
-
-extensions-warning-update-security-label =
-    .value = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Gaitu
-    .tooltiptext = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
-
 extensions-warning-safe-mode = Modu seguruak gehigarri guztiak desgaitu ditu.
 extensions-warning-check-compatibility = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
 extensions-warning-check-compatibility-button = Gaitu
@@ -296,14 +237,6 @@ extensions-warning-update-security-button = Gaitu
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Bilatu eguneraketak
-    .accesskey = B
-
-extensions-updates-view-updates =
-    .label = Ikusi azken eguneraketak
-    .accesskey = I
-
 addon-updates-check-for-updates = Bilatu eguneraketak
     .accesskey = B
 addon-updates-view-updates = Ikusi azken eguneraketak
@@ -311,10 +244,6 @@ addon-updates-view-updates = Ikusi azken eguneraketak
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Eguneratu gehigarriak automatikoki
-    .accesskey = g
 
 addon-updates-update-addons-automatically = Eguneratu gehigarriak automatikoki
     .accesskey = g
@@ -325,36 +254,12 @@ addon-updates-update-addons-automatically = Eguneratu gehigarriak automatikoki
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Berrezarri gehigarri guztiak automatikoki egunera daitezen
-    .accesskey = B
-
-extensions-updates-reset-updates-to-manual =
-    .label = Berrezarri gehigarri guztiak eskuz egunera daitezen
-    .accesskey = B
-
 addon-updates-reset-updates-to-automatic = Berrezarri gehigarri guztiak automatikoki egunera daitezen
     .accesskey = B
 addon-updates-reset-updates-to-manual = Berrezarri gehigarri guztiak eskuz egunera daitezen
     .accesskey = B
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Gehigarriak eguneratzen
-extensions-updates-installed =
-    .value = Gehigarriak eguneratu egin dira.
-extensions-updates-downloaded =
-    .value = Gehigarrien eguneraketak deskargatu egin dira.
-extensions-updates-restart =
-    .label = Berrabiarazi orain instalazioa osatzeko
-extensions-updates-none-found =
-    .value = Ez da eguneraketarik aurkitu
-extensions-updates-manual-updates-found =
-    .label = Ikusi eskura dauden eguneraketak
-extensions-updates-update-selected =
-    .label = Instalatu eguneraketak
-    .tooltiptext = Instalatu zerrenda honetan eskura dauden eguneraketak
 
 addon-updates-updating = Gehigarriak eguneratzen
 addon-updates-installed = Gehigarriak eguneratu egin dira.
@@ -372,10 +277,6 @@ addon-open-about-debugging = Araztu gehigarriak
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Kudeatu hedapenen lasterbideak
-    .accesskey = K
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Kudeatu hedapenen lasterbideak
     .accesskey = K
@@ -384,8 +285,6 @@ shortcuts-no-addons = Ez daukazu hedapenik gaituta.
 shortcuts-no-commands = Ondorengo hedapenek ez dute lasterbiderik:
 shortcuts-input =
     .placeholder = Idatzi lasterbidea
-
-shortcuts-browserAction = Gaitu hedapena
 
 shortcuts-browserAction2 = Aktibatu tresna-barrako botoia
 shortcuts-pageAction = Gaitu orri-ekintza
@@ -417,9 +316,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Erakutsi gutxiago
-
-go-back-button =
-    .tooltiptext = Joan atzera
 
 header-back-button =
     .title = Joan atzera
@@ -464,7 +360,6 @@ remove-addon-button = Kendu
 remove-addon-disabled-button = Ezin da kendu <a data-l10n-name="link">Zergatik?</a>
 disable-addon-button = Desgaitu
 enable-addon-button = Gaitu
-expand-addon-button = Aukera gehiago
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -477,9 +372,6 @@ preferences-addon-button =
 details-addon-button = Xehetasunak
 release-notes-addon-button = Bertsio-oharrak
 permissions-addon-button = Baimenak
-
-addons-enabled-heading = Gaituta
-addons-disabled-heading = Desgaituta
 
 extension-enabled-heading = Gaituta
 extension-disabled-heading = Desgaituta
@@ -542,23 +434,12 @@ install-update-button = Eguneratu
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Leiho pribatuetan baimenduta
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Leiho pribatuetan baimenduta
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Baimenduta dagoenean, hedapenak zure lineako jardueretarako sarbidea izango du nabigatze pribatuko moduan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 addon-detail-private-browsing-allow = Baimendu
 addon-detail-private-browsing-disallow = Ez baimendu
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Gomendatua
-    .alt = Gomendatua
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

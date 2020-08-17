@@ -23,4 +23,6 @@ otr-require-encryption-info =
     ez dira erakutsiko elkarrizketa arrunt bateko atal bezala, eta ez dira erregistratuko.
 otr-verifyNudge =
     .label = Beti gogorarazi egiaztatzea egiaztatu gabeko kontaktuak
+
 otr-notYetAvailable = oraindik ez dago erabilgarri
+

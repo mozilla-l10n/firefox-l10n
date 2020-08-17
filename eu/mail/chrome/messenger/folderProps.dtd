@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Karpeta mota:">
 
 <!ENTITY folderQuotaTab.label                    "Kuota">
-<!ENTITY folderQuotaRoot.label                   "Kuota-erroa:">
 <!ENTITY folderQuotaUsage.label                  "Erabilera:">
 <!ENTITY folderQuotaStatus.label                 "Egoera:">
 

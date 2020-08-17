@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Gaitu urruneko arazketa
-options-enable-remote-tooltip =
-    .title = Ezarrita badago, garatzaile-tresnekin urruneko instantziak araztu ahal izango dira, adibidez Firefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Gaitu zerbitzu-langileak HTTP bidez (tresna-kutxa irekita dagoenean)

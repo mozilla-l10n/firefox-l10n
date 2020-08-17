@@ -60,30 +60,19 @@ abuse-report-messagebar-action-cancel = Utzi
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Nire ordenagailua eta datuak hondatzen ditu
-
 abuse-report-damage-reason-v2 = Nire ordenagailua kaltetu du edo nire datuak arriskuan jarri ditu
 abuse-report-damage-example = Adibidea: malwarea txertatu du edo datuak lapurtu ditu
 
-abuse-report-spam-reason = Spama edo publizitatea sortzen du
-
 abuse-report-spam-reason-v2 = Spama du edo nahi ez ditudan iragarkiak ditu
 abuse-report-spam-example = Adibidea: iragarkiak txertatzen ditu webguneetan
-
-abuse-report-settings-reason = Nire bilaketa-motorra, hasiera-orria edo fitxa berria aldatu ditu galdetu gabe eta onespenik gabe
 
 abuse-report-settings-reason-v2 = Nire bilaketa-motorra, hasiera-orria edo fitxa berria aldatu ditu galdetu gabe eta onespenik gabe
 abuse-report-settings-suggestions = Hedapena salatu aurretik, zure ezarpenak aldatzen saia zaitezke:
 abuse-report-settings-suggestions-search = Aldatu zure bilaketa-ezarpen lehenetsiak
 abuse-report-settings-suggestions-homepage = Aldatu zure hasiera-orria eta fitxa berria
 
-abuse-report-deceptive-reason = Benetan ez den zerbait izaten saiatu da
-
 abuse-report-deceptive-reason-v2 = Benetan ez den zerbait izaten saiatu da
 abuse-report-deceptive-example = Adibidea: gezurretako azalpen edo iruditeria
-
-abuse-report-broken-reason-extension = Ez dabil, webguneak apurtzen ditu edo { -brand-product-name } moteltzen du
-abuse-report-broken-reason-theme = Ez dabil edo nabigatzailearen bistaratzea apurtzen du
 
 abuse-report-broken-reason-extension-v2 = Ez dabil, webguneak apurtzen ditu edo { -brand-product-name } moteltzen du
 abuse-report-broken-reason-theme-v2 = Ez dabil edo nabigatzailearen bistaratzea apurtzen du
@@ -91,12 +80,8 @@ abuse-report-broken-example = Adibidea: eginbideak makalak edo erabiltzeko zaila
 abuse-report-broken-suggestions-extension = Badirudi programa-errore bat aurkitu duzula. Hemen bertan horren berri emateaz gain, arazoa konpontzeko biderik onena zuzenean hedapenaren garatzailearekin harremanetan jartzea da. Garatzaileari buruzko informazioa eskuratzeko, <a data-l10n-name="support-link">bisitatu hedapenaren webgunea</a>.
 abuse-report-broken-suggestions-theme = Badirudi programa-errore bat aurkitu duzula. Hemen bertan horren berri emateaz gain, arazoa konpontzeko biderik onena zuzenean itxuraren garatzailearekin harremanetan jartzea da. Garatzaileari buruzko informazioa eskuratzeko, <a data-l10n-name="support-link">bisitatu itxuraren webgunea</a>.
 
-abuse-report-policy-reason = Eduki gaitzesgarria, indarkeriazkoa edo ilegala
-
 abuse-report-policy-reason-v2 = Eduki gaitzesgarria, indarkeriazkoa edo ilegala du
 abuse-report-policy-suggestions = Oharra: Copyright eta marka erregistratuei buruzko arazoak aparteko prozesu batean salatu behar dira. Arazoaren berri emateko, <a data-l10n-name="report-infringement-link">erabili jarraibide hauek</a>.
-
-abuse-report-unwanted-reason = Inoiz ez dut hedapen hau nahi izan eta ezin dut kendu
 
 abuse-report-unwanted-reason-v2 = Inoiz ez dut nahi izan eta ez dakit nola gainetik kendu
 abuse-report-unwanted-example = Adibidea: aplikazio batek nire baimenik gabe instalatu du

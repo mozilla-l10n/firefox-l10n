@@ -14,6 +14,7 @@ pw-erased-ok = Zure pasahitz nagusia ezabatu duzu. { pw-empty-warning }
 pw-not-wanted = Kontuz! Pasahitz nagusia ez erabiltzea erabaki duzu. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Orain FIPS moduan zaude. FIPS-ek pasahitz nagusi ez-hutsa behar du.
+
 pw-change-success-title = Pasahitza ondo aldatu da
 pw-change-failed-title = Pasahitz aldaketak huts egin du
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Aldatu pasahitz nagusia
+
 set-password-old-password = Uneko pasahitza:
 set-password-new-password = Idatzi pasahitz berria:
 set-password-reenter-password = Idatzi berriz pasahitza:
@@ -31,6 +33,7 @@ master-password-warning = Ziurta ezazu ezarritako pasahitz nagusia gogoratzen du
 
 remove-password =
     .title = Ezabatu pasahitz nagusia
+
 remove-info =
     .value = Uneko pasahitza eman behar duzu jarraitzeko:
 remove-warning1 = Pasahitz nagusia isilpeko informazioa babesteko erabiltzen da, adibidez guneetako pasahitzak.

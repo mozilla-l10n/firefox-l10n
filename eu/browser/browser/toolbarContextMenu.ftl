@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Hautatu fitxa guztiak
     .accesskey = z
-toolbar-context-menu-undo-close-tab =
-    .label = Desegin fitxa ixtea
-    .accesskey = D
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -28,18 +25,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Desegin fitxak ixtea
         }
     .accesskey = D
+
 toolbar-context-menu-manage-extension =
     .label = Kudeatu hedapena
     .accesskey = h
 toolbar-context-menu-remove-extension =
     .label = Kendu hedapena
     .accesskey = K
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Eman hedapenaren berri
     .accesskey = E
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

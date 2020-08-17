@@ -4,127 +4,183 @@
 
 certmgr-title =
     .title = Ziurtagiri-kudeatzailea
+
 certmgr-tab-mine =
     .label = Zure ziurtagiriak
+
 certmgr-tab-remembered =
     .label = Autentifikazio-erabakiak
+
 certmgr-tab-people =
     .label = Pertsonak
+
 certmgr-tab-servers =
     .label = Zerbitzariak
+
 certmgr-tab-ca =
     .label = Autoritateak
+
 certmgr-mine = Zu identifikatzen zaituzten erakunde hauen ziurtagiriak dituzu artxibatuta
 certmgr-remembered = Ziurtagiri hauek webguneetan zu identifikatzeko erabiltzen dira
 certmgr-people = Pertsona hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
 certmgr-servers = Zerbitzari hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
 certmgr-ca = Autoritate ziurtagiri-emaile hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
+
 certmgr-detail-general-tab-title =
     .label = Orokorra
     .accesskey = O
+
 certmgr-detail-pretty-print-tab-title =
     .label = Xehetasunak
     .accesskey = X
+
 certmgr-pending-label =
     .value = Ziurtagiria egiaztatzen…
+
 certmgr-subject-label = Honi emana:
+
 certmgr-issuer-label = Jaulkitzailea:
+
 certmgr-period-of-validity = Balio-epea
+
 certmgr-fingerprints = Hatz-markak
+
 certmgr-cert-detail =
     .title = Ziurtagiriaren xehetasunak
     .buttonlabelaccept = Itxi
     .buttonaccesskeyaccept = x
+
 certmgr-cert-detail-commonname = Izen Arrunta (IA)
+
 certmgr-cert-detail-org = Erakundea (E)
+
 certmgr-cert-detail-orgunit = Erakunde saila (ES)
+
 certmgr-cert-detail-serial-number = Serie-zenbakia:
+
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 hatzmarka
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 hatzmarka
+
 certmgr-edit-ca-cert =
     .title = Editatu AZ ziurtagiriaren fidagarritasun-ezarpenak
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Editatu fidagarritasun-ezarpenak:
+
 certmgr-edit-cert-trust-ssl =
     .label = Ziurtagiri honek webguneak identifika ditzake.
+
 certmgr-edit-cert-trust-email =
     .label = Ziurtagiri honek posta erabiltzaileak identifika ditzake.
+
 certmgr-delete-cert =
     .title = Ezabatu ziurtagiria
     .style = width: 48em; height: 24em;
+
 certmgr-cert-host =
     .label = Ostalaria
+
 certmgr-cert-name =
     .label = Ziurtagiriaren izena
+
 certmgr-cert-server =
     .label = Zerbitzaria
+
 certmgr-override-lifetime =
     .label = Iraupena
+
 certmgr-token-name =
     .label = Segurtasun-gailua
+
 certmgr-begins-on = Hasiera-data
+
 certmgr-begins-label =
     .label = Hasiera-data
+
 certmgr-expires-on = Iraungitze-data
+
 certmgr-expires-label =
     .label = Iraungitze-data
+
 certmgr-email =
     .label = Helbide elektronikoa
+
 certmgr-serial =
     .label = Serie-zenbakia:
+
 certmgr-view =
     .label = Ikusi…
     .accesskey = k
+
 certmgr-edit =
     .label = Editatu fidagarritasuna…
     .accesskey = E
+
 certmgr-export =
     .label = Esportatu…
     .accesskey = s
+
 certmgr-delete =
     .label = Ezabatu…
     .accesskey = E
+
 certmgr-delete-builtin =
     .label = Ezabatu edo mesfidatu…
     .accesskey = E
+
 certmgr-backup =
     .label = Babeskopia…
     .accesskey = B
+
 certmgr-backup-all =
     .label = Egin guztiaren basbeskopia…
     .accesskey = k
+
 certmgr-restore =
     .label = Inportatu…
     .accesskey = n
+
 certmgr-details =
     .value = Ziurtagiri-eremuak
     .accesskey = m
+
 certmgr-fields =
     .value = Eremuaren balioa
     .accesskey = i
+
 certmgr-hierarchy =
     .value = Ziurtagiri-hierarkia
     .accesskey = h
+
 certmgr-add-exception =
     .label = Gehitu salbuespena…
     .accesskey = l
+
 exception-mgr =
     .title = Gehitu segurtasun-salbuespena
+
 exception-mgr-extra-button =
     .label = Berretsi segurtasun-salbuespena
     .accesskey = B
+
 exception-mgr-supplemental-warning = Banku legitimo, denda eta beste gune publikoek ez dizute hau egiteko eskatuko.
+
 exception-mgr-cert-location-url =
     .value = Kokapena:
+
 exception-mgr-cert-location-download =
     .label = Eskuratu ziurtagiria
     .accesskey = E
+
 exception-mgr-cert-status-view-cert =
     .label = Ikusi…
     .accesskey = I
+
 exception-mgr-permanent =
     .label = Gorde betirako salbuespen hau
     .accesskey = b
+
 pk11-bad-password = Idatzitako token-pasahitza ez da zuzena.
 pkcs12-decode-err = Huts egin du fitxategi hau deskodetzeak.  Ez dago PKCS #12 formatuan, hondatuta dago, edo idatzi duzun pasahitza ez da zuzena.
 pkcs12-unknown-err-restore = Huts egin du PKCS #12 fitxategia leheneratzean, arrazoi ezezagunengatik.
@@ -157,18 +213,24 @@ delete-user-cert-title =
     .title = Ezabatu zure ziurtagiriak
 delete-user-cert-confirm = Ziur zaude ziurtagiri hauek ezabatu nahi dituzula?
 delete-user-cert-impact = Zure ziurtagirietako bat ezabatzen baduzu, ezin izango duzu gero zeure burua identifikatzeko erabili.
+
+
 delete-ssl-cert-title =
     .title = Ezabatu zerbitzari ziurtagiri salbuespenak
 delete-ssl-cert-confirm = Ziur zaude zerbitzari salbuespen hauek ezabatu nahi dituzula?
 delete-ssl-cert-impact = Zerbitzari salbuespena ezabatzen baduzu, gune honentza segurtasun egiaztapen arrunak berregingo dira eta baliozko ziurtagiri bat erabiltzea behar da.
+
 delete-ca-cert-title =
     .title = Ezabatu edo mesfidatu ZA ziurtagiriak
 delete-ca-cert-confirm = ZA ziurtagiri hauek ezabatzea eskatu duzu. Integratutako ziurtagirientzat fidagarritasun guztia kenduko da eta eragin berdina du. Ziur zaude ezabatu edo mesfidatu nahi duzula?
 delete-ca-cert-impact = Ziurtagiri Autoritate (ZA) ziurtagiria ezabatu edo mesfidatzen baduzu, aplikazio hau ez da gehiago ZA honek jaulkitako ziurtagirietaz fidatuko.
+
+
 delete-email-cert-title =
     .title = Ezabatu e-posta ziurtagiriak
 delete-email-cert-confirm = Ziur zaude pertsona hauen e-posta ziurtagiriak ezabatu nahi dituzula?
 delete-email-cert-impact = Pertsona baten e-posta ziurtagiria ezabatzen baduzu, ez zara pertsona horri zifratutako mezuak bidaltzeko gai izango.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -184,21 +246,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Ziurtagirien ikustailea: "{ $certName }"
+
 not-present =
     .value = <Ez da ziurtagiriaren zatia>
+
 # Cert verification
 cert-verified = Ziurtagiri hau ondorengo erabileretarako egiaztatu da:
+
 # Add usage
 verify-ssl-client =
     .value = SSL bezeroaren ziurtagiria
+
 verify-ssl-server =
     .value = SSL zerbitzariaren ziurtagiria
+
 verify-ssl-ca =
     .value = SSL ziurtagiri-autoritatea
+
 verify-email-signer =
     .value = Posta elektroniko sinatzailearen ziurtagiria
+
 verify-email-recip =
     .value = Posta elektroniko hartzailearen ziurtagiria
+
 # Cert verification
 cert-not-verified-cert-revoked = Ezin izan da ziurtagiri hau egiaztatu, errebokatua izan delako.
 cert-not-verified-cert-expired = Ezin izan da ziurtagiri hau egiaztatu, iraungi egin delako.

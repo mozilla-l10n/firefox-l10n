@@ -104,9 +104,6 @@ about-debugging-setup-title = Konfigurazioa
 about-debugging-setup-intro = Konfiguratu zure gailua urrunetik arazteko nahi duzun konexio-metodoa.
 
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = Erabili <a>{ about-debugging-this-firefox-runtime-name }</a> { -brand-shorter-name }(r)en bertsio honetan fitxak, hedapenak eta zerbitzu-langileak arazteko.
-
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Erabili <a>{ about-debugging-this-firefox-runtime-name }</a> { -brand-shorter-name }(r)en bertsio honetan hedapenak eta zerbitzu-langileak arazteko.
 
 # Title of the heading Connect section of the Setup page.
@@ -226,14 +223,6 @@ about-debugging-runtime-service-workers-not-compatible = Zure nabigatzailearen k
 about-debugging-browser-version-too-old = Konektatutako nabigatzaileak bertsio zaharra dauka ({ $runtimeVersion }). Onartutako bertsio minimoa ({ $minVersion }) da. Euskarririk gabeko konfigurazioa da hau eta garatzaile-tresnek huts egitea eragin lezake. Mesedez eguneratu konektatutako nabigatzailea. <a>Arazo-konpontzea</a>
 
 # Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = Baliteke arazketa-panela konektatutako nabigatzailearekin ez ibiltzea. Araztailea nabigatzaile honekin erabili behar baduzu, erabili Firefox { $runtimeVersion } mesedez.
-
-# Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Firefoxen bertsio honek ezin du Androiderako Firefox (68) araztu. Probak egiteko, Androiderako Firefoxen Nightly bertsioa instalatzea gomendatzen dugu. <a>Xehetasun gehiago</a>
 
@@ -324,15 +313,6 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = Hedapenaren IDa
-
-# This string is displayed as a label of the button that pushes a test payload
-# to a service worker.
-# Notes, this relates to the "Push" API, which is normally not localized so it is
-# probably better to not localize it.
-about-debugging-worker-action-push = Push
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = Hasi
 
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.

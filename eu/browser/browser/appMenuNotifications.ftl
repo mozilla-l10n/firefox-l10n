@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Kudeatu zure gehigarriak <image data-l10n-n
 appmenu-addon-post-install-incognito-checkbox =
     .label = Baimendu hedapen honi leiho pribatuetan exekutatzea
     .accesskey = B
-appmenu-addon-private-browsing =
-    .label = Aldatu leiho pribatuetako hedapenetara
-    .buttonlabel = Kudeatu hedapenak
-    .buttonaccesskey = K
-    .secondarybuttonlabel = Ados, ulertuta
-    .secondarybuttonaccesskey = u
-appmenu-addon-private-browsing-message = Ezarpenetan baimendu ezean, { -brand-shorter-name }(e)ra gehitutako hedapen berriak ez dira leiho pribatuetan ibiliko.
-appmenu-addon-private-browsing-learn-more = Ikasi nola kudeatu hedapenen ezarpenak.
     
 appmenu-new-tab-controlled =
     .label = Zure fitxa berria aldatu egin da.

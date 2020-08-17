@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Laster-markak, historia, pasahitzak eta beste zenbait datu hemendik inportatu:">
 <!ENTITY importFromUnix.label           "Hobespenak, laster-markak, historia, pasahitzak eta beste zenbait datu hemendik inportatu:">
-<!ENTITY importFromBookmarks.label      "Laster-markak nondik inportatu:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

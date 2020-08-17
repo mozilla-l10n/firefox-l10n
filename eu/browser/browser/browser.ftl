@@ -112,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Gutxiago idatzi, gehiago aurkitu: bilatu { $engineName } erabiliz helbide-barratik zuzenean.
 urlbar-search-tips-redirect-2 = Hasi zure bilaketa helbide-barran { $engineName } bilatzailearen eta zure nabigazio-historialeko proposamenak ikusteko
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -191,6 +193,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ezarri leiho pribatuetarako bilaketa-motor lehenetsi gisa
     .accesskey = E
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -304,8 +313,10 @@ enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik g
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Idatzi bilaketa edo helbidea
+
 urlbar-placeholder =
     .placeholder = Idatzi bilaketa edo helbidea
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Nabigatzailea urruneko agintepean dago
 urlbar-permissions-granted =

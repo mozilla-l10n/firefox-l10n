@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Irten pantaila osotik
 find = Bilatu
 new-tab = Fitxa berria
 add-bookmark = Gehitu laster-marka
-open-bookmarks-sidebar = Ireki laster-marken tresna-barra
 reader-view = Irakurtzeko ikuspegia
 # Meant to match the string displayed in an empty URL bar.
 open-location = Bilatu edo idatzi helbidea

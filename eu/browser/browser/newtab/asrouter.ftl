@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Probatu hau: ainguratu fitxa
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zergatik ari naizen hau ikusten
+
 cfr-doorhanger-extension-cancel-button = Une honetan ez
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Gehitu orain
     .accesskey = G
 cfr-doorhanger-pintab-ok-button = Ainguratu fitxa hau
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Kudeatu gomendioen ezarpenak
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Ez erakutsi gomendio hau
     .accesskey = z
+
 cfr-doorhanger-extension-learn-more-link = Argibide gehiago
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = egilea: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Gomendioa
 cfr-doorhanger-extension-notification2 = Gomendioa
     .tooltiptext = Hedapenaren gomendioa
     .a11y-announcement = Hedapenaren gomendioa erabilgarri dago
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Gomendioa
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] erabiltzaile bat
        *[other] { $total } erabiltzaile
     }
+
 cfr-doorhanger-pintab-description = Eskuratu gehien erabilitako guneetarako sarbide azkarra. Mantendu guneak zabalik fitxa batean (berrabiarazita ere bai).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Eskuratu gehien erabilitako guneetarako sarb
 cfr-doorhanger-pintab-step1 = Egin <b>eskuin-klika</b> ainguratu nahi duzun fitxan.
 cfr-doorhanger-pintab-step2 = Hautatu <b>Ainguratu fitxa</b> menu-aukera.
 cfr-doorhanger-pintab-step3 = Gunea eguneratzen bada, puntu urdin bat ikusiko duzu ainguratutako fitxan.
+
 cfr-doorhanger-pintab-animation-pause = Pausatu
 cfr-doorhanger-pintab-animation-resume = Berrekin
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = Argibide gehiago
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Eginbide berria:
+
 cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
+
 cfr-whatsnew-panel-header = Nobedadeak
+
 cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
+
 cfr-whatsnew-fx70-title = { -brand-short-name }(e)k zure pribatutasunarengatik gogorrago egiten du borrokan orain
 cfr-whatsnew-fx70-body = Azken eguneraketak jarraipenaren babesaren eginbidea hobetzen du eta inoiz baino gehiago errazten du gune bakoitzerako pasahitzak sortzea.
+
 cfr-whatsnew-tracking-protect-title = Babestu zure burua jarraipen-elementuetatik
 cfr-whatsnew-tracking-protect-body = Zure jarraipena egiten duten sare sozialetako eta guneen arteko ohiko elementuak blokeatzen ditu orain { -brand-short-name }(e)k.
 cfr-whatsnew-tracking-protect-link-text = Ikusi zure txostena
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Data honetatik: { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Ikusi txostena
+
 cfr-whatsnew-lockwise-backup-title = Egin zure pasahitzen babeskopia
 cfr-whatsnew-lockwise-backup-body = Sortu saioa hasi behar duzun toki orotan atzi ditzakezun pasahitz seguruak.
 cfr-whatsnew-lockwise-backup-link-text = Aktibatu babeskopiak
+
 cfr-whatsnew-lockwise-take-title = Eraman pasahitzak zurekin
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mugikorrerako aplikazioarekin babeskopian dituzun pasahitzak edonondik atzitu ahal izango dituzu.
 cfr-whatsnew-lockwise-take-link-text = Eskuratu aplikazioa
@@ -145,6 +164,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Hatz-marka bidezko jarraipena blokeatuta
     }
 cfr-whatsnew-fingerprinter-counter-body = Zuri buruzko iragarki-profila sortzeko asmoz zure gailuaren eta zure ekintzei buruzko informazioa sekretupean biltzen dituzten hatz-marka bidezko jarraipen-elementuak blokeatzen ditu { -brand-shorter-name }(e)k.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Hatz-marka bidezko jarraipena
 cfr-whatsnew-fingerprinter-counter-body-alt = Zuri buruzko iragarki-profila sortzeko asmoz zure gailuaren eta zure ekintzei buruzko informazioa sekretupean biltzen dituzten hatz-marka bidezko jarraipen-elementuak blokea ditzake { -brand-shorter-name }(e)k.
@@ -205,6 +225,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Ikusi guztiak
     .accesskey = I
+
 cfr-doorhanger-milestone-close-button = Itxi
     .accesskey = x
 
@@ -245,3 +266,6 @@ cfr-doorhanger-doh-primary-button = Ados, ulertuta
     .accesskey = A
 cfr-doorhanger-doh-secondary-button = Desgaitu
     .accesskey = D
+
+## What's new: Cookies message
+

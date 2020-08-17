@@ -4,11 +4,15 @@
 
 openpgp-change-key-expiry-title =
     .title = Aldatu gakoaren iraungitzea
+
 info-will-expire = Orain gakoa ondorengo datan iraungitzeko konfiguratu da: { $date }
 info-already-expired = Gakoa iraungia dago.
 info-does-not-expire = Gakoa ez dadin iraungi konfiguratu da.
+
 info-explanation-1 = <b>Gakoa iraungi ondoren</b>, ez da posible izango erabiltzea zifratzeko edo digitalki sinatzeko.
+
 info-explanation-2 = Gakoa hau epe luzeagoan erabiltzeko, aldatu bere iraungitze data,eta orduan banatu gako publikoa zure elkarrizketatuekin berriro.
+
 expire-dont-change =
     .label = Ez aldatu iraungitze datarik
 expire-never-label =

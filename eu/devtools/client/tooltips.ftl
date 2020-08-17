@@ -53,10 +53,6 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> propiet
 
 inactive-css-not-grid-or-flex-container-fix = Saiatu <strong>display: grid</strong> edo <strong>display: flex</strong> gehitzen. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix = Saiatu <strong>display: grid</strong>, <strong>display: flex</strong>, <strong>display: inline-grid</strong> edo <strong>display: inline-flex</strong> gehitzen. { learn-more }
-
-inactive-css-not-grid-item-fix = Saiatu elementuaren gurasoari <strong>display: grid</strong> edo <strong>display: inline-grid</strong> gehitzen. { learn-more }
-
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Saiatu <strong>display: grid</strong>, <strong>display: flex</strong> edo <strong>columns: 2</strong> gehitzen. { learn-more }
 
 inactive-css-not-grid-or-flex-item-fix-2 = Saiatu <strong>display: grid</strong>, <strong>display: flex</strong>, <strong>display: inline-grid</strong> edo <strong>display: inline-flex</strong> gehitzen. { learn-more }
@@ -64,8 +60,6 @@ inactive-css-not-grid-or-flex-item-fix-2 = Saiatu <strong>display: grid</strong>
 inactive-css-not-grid-item-fix-2 = Saiatu elementuaren gurasoari <strong>display: grid</strong> edo <strong>display: inline-grid</strong> gehitzen. { learn-more }
 
 inactive-css-not-grid-container-fix = Saiatu <strong>display: grid</strong> edo <strong>display: inline-grid</strong> gehitzen. { learn-more }
-
-inactive-css-not-flex-item-fix = Saiatu elementuaren gurasoari <strong>display: flex</strong> edo <strong>display: inline-flex</strong> gehitzen. { learn-more }
 
 inactive-css-not-flex-item-fix-2 = Saiatu elementuaren gurasoari <strong>display: flex</strong> edo <strong>display: inline-flex</strong> gehitzen. { learn-more }
 
@@ -82,3 +76,11 @@ inactive-css-not-display-block-on-floated-fix = Saiatu <strong>float</strong> ke
 inactive-css-position-property-on-unpositioned-box-fix = Saiatu bere <strong>position</strong> propietateari <strong>static</strong> ez den beste balio bat ezartzen. { learn-more }
 
 inactive-text-overflow-when-no-overflow-fix = Saiatu <strong>overflow:hidden</strong> gehitzen. { learn-more }
+
+## In the Rule View when a CSS property may have compatibility issues with other browsers
+## we display an icon. When this icon is hovered this message is displayed to explain why
+## the property is incompatible and the platforms it is incompatible on.
+## Variables:
+##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
+##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
+

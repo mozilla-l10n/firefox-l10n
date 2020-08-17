@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Eskatutako dokumentua ez dago &brandShortName;(r)en cache memorian.</p><ul><li>Segurtasun-neurri gisa, &brandShortName;(e)k ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.</li><li>Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.</li></ul>">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Saiatu berriro. Konexioa ireki eta orria berritzen saiatuko da &brandShortName;. <button id='wifi'>Gaitu Wi-Fia</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Edukien kodeketa-errorea">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> </ul>">
