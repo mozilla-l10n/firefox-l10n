@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Kies lêer…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.deleteDomainData.label     "Vergeet van hierdie werf">
-<!ENTITY cmd.deleteDomainData.accesskey "V">
-
-<!ENTITY cmd.open.label                  "Open">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Open in nuwe venster">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Open in nuwe private venster">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Open in nuwe oortjie">
-<!ENTITY cmd.open_tab.accesskey          "n">
-<!ENTITY cmd.open_all_in_tabs.label      "Open almal in oortjies">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Eienskappe">
-<!ENTITY cmd.properties.accesskey  "k">
-
-<!ENTITY cmd.sortby_name.label              "Rangskik volgens naam">
-<!ENTITY cmd.sortby_name.accesskey          "s">
-<!ENTITY cmd.context_sortby_name.accesskey  "R">
-
-<!ENTITY cmd.new_bookmark.label            "Nuwe boekmerk…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Nuwe vouer…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "o">
-<!ENTITY cmd.new_separator.label           "Nuwe skeier">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Naam">
 <!ENTITY col.tags.label          "Merkers">
 <!ENTITY col.url.label           "Ligging">
@@ -90,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Kies 'n item om sy eienskappe te kyk en te redigeer">
 
-<!ENTITY view.label               "Bekyk">
-<!ENTITY view.accesskey           "k">
-<!ENTITY byDate.label             "Volgens datum">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Volgens werf">
-<!ENTITY bySite.accesskey         "w">
-<!ENTITY byMostVisited.label      "Volgens meeste besoek">
-<!ENTITY byMostVisited.accesskey  "b">
-<!ENTITY byLastVisited.label      "Volgens jongste besoek">
-<!ENTITY byLastVisited.accesskey  "j">
-<!ENTITY byDayAndSite.label       "Volgens datum en werf">
-<!ENTITY byDayAndSite.accesskey   "a">

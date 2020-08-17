@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Vouersoort:">
 
 <!ENTITY folderQuotaTab.label                    "Kwota">
-<!ENTITY folderQuotaRoot.label                   "Kwotawortel:">
 <!ENTITY folderQuotaUsage.label                  "Verbruik:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

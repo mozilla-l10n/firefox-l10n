@@ -11,19 +11,6 @@
 <!ENTITY castingButton.castingLabel "Stuur na skerm">
 <!ENTITY closedCaption.off "Af">
 
-<!ENTITY stats.media "Media">
-<!ENTITY stats.size "Grootte">
-<!ENTITY stats.activity "Aktiwiteit">
-<!ENTITY stats.activityPaused "Wagtend">
-<!ENTITY stats.activityPlaying "Speel tans">
-<!ENTITY stats.activityEnded "Beëindig">
-<!ENTITY stats.activitySeeking "(soek tans)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.framesParsed "Raampies ontleed">
-<!ENTITY stats.framesDecoded "Raampies gedekodeer">
-<!ENTITY stats.framesPresented "Raampies aangebied">
-<!ENTITY stats.framesPainted "Raampies geteken">
-
 <!ENTITY error.aborted "Laai van video gestop.">
 <!ENTITY error.network "Terugspeel van video gestaak weens netwerkfout.">
 <!ENTITY error.decode "Video kan nie gespeel word nie want die lêer is korrup.">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 van #2 verstreke">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

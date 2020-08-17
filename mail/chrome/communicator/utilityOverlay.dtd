@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "Redigeer">
 <!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label            "Ontdoen">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "O">
 <!ENTITY redoCmd.label            "Herdoen">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "H">
-<!ENTITY cutCmd.label            "Knip">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "p">
-<!ENTITY copyCmd.label            "Kopieer">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label            "Plak">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "P">
 <!ENTITY deleteCmd.label          "Skrap">
 <!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY selectAllCmd.label          "Merk alles">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
 
 
 <!ENTITY preferencesCmdUnix.label       "Voorkeure">

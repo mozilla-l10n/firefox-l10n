@@ -45,7 +45,6 @@ proxyResolveFailure-title = Kon nie die instaanbediener vind nie
 redirectLoop-title = Die bladsy herverwys nie behoorlik nie
 unknownSocketType-title = Onverwagse respons vanaf bediener
 nssFailure2-title = Kon nie beveilig koppel nie
-cspBlocked-title = Geblokkeer deur inhoudbeveiligingsbeleid
 corruptedContentError-title = Fout: inhoud korrup
 remoteXUL-title = Afgeleë XUL
 sslv3Used-title = Kan nie beveilig koppel nie

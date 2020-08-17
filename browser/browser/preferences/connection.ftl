@@ -17,9 +17,6 @@ connection-proxy-option-auto =
 
 connection-proxy-http-port = Poort
     .accesskey = P
-connection-proxy-http-share =
-    .label = Gebruik hierdie instaanbediener vir alle protokolle
-    .accesskey = s
 
 connection-proxy-ftp-port = Poort
     .accesskey = r

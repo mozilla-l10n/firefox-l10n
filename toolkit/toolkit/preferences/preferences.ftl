@@ -14,6 +14,7 @@ pw-erased-ok = U het u meesterwagwoord geskrap.  { pw-empty-warning }
 pw-not-wanted = Let wel! U het besluit om nie 'n meesterwagwoord te gebruik nie. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = U is tans in FIPS-modus. FIPS vereis 'n nieleë meesterwagwoord.
+
 pw-change-success-title = Wagwoordverandering was suksesvol
 pw-change-failed-title = Kon nie wagwoord verander nie
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Wysig meesterwagwoord
+
 set-password-old-password = Huidige wagwoord:
 set-password-new-password = Tik nuwe wagwoord in:
 set-password-reenter-password = Tik nuwe wagwoord weer in:
@@ -31,6 +33,7 @@ master-password-warning = Maak seker dat u die meesterwagwoord onthou wat u gest
 
 remove-password =
     .title = Verwyder meesterwagwoord
+
 remove-info =
     .value = U moet u huidige wagwoord intik om voort te gaan:
 remove-warning1 = U meesterwagwoord word gebruik om sensitiewe inligting soos werfwagwoorde te beskerm.

@@ -11,14 +11,8 @@
 
 <!ENTITY pasteAsQuotationCmd.label "Plak as aanhaling">
 <!ENTITY pasteAsQuotationCmd.accesskey "a">
-<!ENTITY pasteAsQuotationCmd.key "o">
 
 
-<!ENTITY enableInlineSpellChecker.label "Gaan spelling na terwyl u tik">
-<!ENTITY enableInlineSpellChecker.accesskey "G">
-
-
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Invoeg">
@@ -183,9 +177,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Lyfteks">
 <!ENTITY bodyTextCmd.accesskey "t">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Gevorderde eienskappe">
-<!ENTITY advancedPropertiesCmd.accesskey "G">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Belyn">
@@ -203,10 +194,6 @@
 <!ENTITY alignJustify.accesskey "A">
 <!ENTITY alignJustify.tooltip "Rig alkanthaaks">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Laag">
-<!ENTITY layerSendToBack.tooltip "Stuur agtertoe">
-<!ENTITY layerBringToFront.tooltip "Bring vorentoe">
 
 <!ENTITY increaseIndent.label "Meer inkeep">
 <!ENTITY increaseIndent.accesskey "M">
@@ -281,17 +268,7 @@
 <!ENTITY tableProperties.accesskey "e">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Kieslysbalk">
-<!ENTITY formatToolbar.tooltip "Formateer-nutsbalk">
 
-
-
-<!ENTITY printToolbarCmd.label "Druk">
-<!ENTITY printToolbarCmd.tooltip "Druk hierdie bladsy">
-<!ENTITY findToolbarCmd.label "Vind">
-<!ENTITY findToolbarCmd.tooltip "Vind teks in bladsy">
-<!ENTITY spellToolbarCmd.label "Spel">
-<!ENTITY spellToolbarCmd.tooltip "Toets spelling van gemerkte teks of hele bladsy">
 
 <!ENTITY imageToolbarCmd.label "Prent">
 <!ENTITY imageToolbarCmd.tooltip "Voeg nuwe prent in of redigeer gemerkte prent se eienskappe">
@@ -305,7 +282,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Voeg nuwe genoemde anker in of redigeer gemerkte anker se eienskappe">
 <!ENTITY TextColorButton.tooltip "Kies kleur vir teks">
 <!ENTITY BackgroundColorButton.tooltip "Kies kleur vir agtergrond">
-<!ENTITY HighlightColorButton.tooltip "Kies verligkleur vir teks">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleiner lettertipe">
@@ -325,12 +301,6 @@
 <!ENTITY alignJustifyButton.tooltip "Rig teks langs linker- en regterkantlyn langs">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label         "Kies">
-<!ENTITY structSelect.accesskey     "K">
-<!ENTITY structRemoveTag.label      "Verwyder merker">
-<!ENTITY structRemoveTag.accesskey  "V">
-<!ENTITY structChangeTag.label      "Wysig merker">
-<!ENTITY structChangeTag.accesskey  "W">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Invoeg">

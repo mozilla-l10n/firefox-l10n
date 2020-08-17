@@ -67,15 +67,12 @@
 <!ENTITY maxMessagesEnd.label "boodskappe">
 <!ENTITY alwaysAuthenticate.label "Versoek altyd magtiging wanneer aan hierdie bediener koppel">
 <!ENTITY alwaysAuthenticate.accesskey "e">
-<!ENTITY newsrcFilePath.label "newsrc-lêer:">
-<!ENTITY newsrcPicker.label "Kies newsrc-lêer">
 <!ENTITY abbreviate.label "Vertoon nuusgroepname in die posvouer-paneel as:">
 <!ENTITY abbreviateOn.label "Volledige name (byvoorbeeld 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Afgekorte name (byvoorbeeld 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Gevorderd…">
 <!ENTITY advancedButton.accesskey "G">
 
-<!ENTITY localPath.label "Plaaslike gids:">
 <!ENTITY localFolderPicker.label "Kies plaaslike gids">
 <!ENTITY browseFolder.label "Blaai…">
 <!ENTITY browseFolder.accesskey "B">

@@ -21,6 +21,9 @@ change-password-reenter = Nuwe wagwoord (weer):
 reset-password-window =
     .title = Stel meesterwagwoord terug
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Stel terug
 reset-password-text = Indien u u meesterwagwoord terugstel, sal al u gestoorde web- en e-poswagwoorde, vormdata, persoonlike sertifikate en private sleutels vergeet word. Wil u definitief die meesterwagwoord teruglaai?
