@@ -186,10 +186,10 @@ search-one-offs-context-open-new-tab =
     .label = Traži u novoj kartici
     .accesskey = t
 search-one-offs-context-set-as-default =
-    .label = Postavi kao zadanu tražilicu
+    .label = Postavi kao standardnu tražilicu
     .accesskey = d
 search-one-offs-context-set-as-default-private =
-    .label = Postavi zadanu pretragu za privatne prozore
+    .label = Postavi kao standardnu tražilicu za privatne prozore
     .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -317,11 +317,11 @@ enable-devtools-popup-description = Kako biste koristili F12 prečicu, prvo otvo
 ## URL Bar
 
 urlbar-default-placeholder =
-    .defaultPlaceholder = Pretraži ili upiši adresu
+    .defaultPlaceholder = Traži ili upiši adresu
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Pretraži ili upiši adresu
+    .placeholder = Traži ili upiši adresu
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
