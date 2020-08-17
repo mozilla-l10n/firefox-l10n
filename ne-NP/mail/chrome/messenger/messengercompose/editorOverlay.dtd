@@ -51,14 +51,10 @@
 
 <!ENTITY pasteNoFormatting.label "ढाँचाबद्ध नगरि टाँस्नुहोस्">
 <!ENTITY pasteNoFormatting.accesskey "o">
-<!ENTITY pasteAs.label "यस रूपमा टाँस्नुहोस्">
-<!ENTITY pasteAs.accesskey "a">
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
 <!ENTITY pasteAsQuotationCmd.label "उद्धरणका रूपमा टाँस्नुहोस्">
-<!ENTITY enableInlineSpellChecker.label "तपाईँले टाइप गरेको अनुरूपको हिज्जे जाँच गर्नुहोस्">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 <!-- View menu items -->
 
 <!-- Insert menu items -->
@@ -153,8 +149,6 @@
 <!ENTITY ParagraphSelect.tooltip "अनुच्छेद ढाँचा रोज्नुहोस्">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "मुख्य भाग पाठ">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "उन्नत गुण">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -170,10 +164,6 @@
 <!ENTITY alignJustify.label "समरेखन गर्नुहोस्">
 <!ENTITY alignJustify.tooltip "समरेखित पङ्क्तिबद्ध गर्नुहोस्">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "तह">
-<!ENTITY layerSendToBack.tooltip "पछाडि पठाउनुहोस्">
-<!ENTITY layerBringToFront.tooltip "अगाडि ल्याउनुहोस्">
 
 <!ENTITY increaseIndent.label "इन्डेन्ट बढाउनुहोस्">
 <!ENTITY decreaseIndent.label "इन्डेन्ट घटाउनुहोस्">
@@ -229,15 +219,6 @@
 
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "मेनुपट्टी">
-<!ENTITY formatToolbar.tooltip "ढाँचा उपकरणपट्टी">
-<!ENTITY printToolbarCmd.label "मुद्रण गर्नुहोस्">
-<!ENTITY printToolbarCmd.tooltip "यो पृष्ठ मुद्रण गर्नुहोस्">
-<!ENTITY findToolbarCmd.label "फेला पार्नुहोस्">
-<!ENTITY findToolbarCmd.tooltip "यस पृष्ठमा पाठ फेला पार्नुहोस्">
-<!ENTITY spellToolbarCmd.label "हिज्जे">
-<!ENTITY spellToolbarCmd.tooltip "चयन वा पूरै पृष्ठको हिज्जे जाँच गर्नुहोस्">
-
 <!ENTITY imageToolbarCmd.label "छवि">
 <!ENTITY imageToolbarCmd.tooltip "नयाँ छवि घुसाउनुहोस् वा चयन गरिएका छविको गुण सम्पादन गर्नुहोस्">
 <!ENTITY hruleToolbarCmd.label "H रेखा">
@@ -250,7 +231,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "नयाँ नामकरण गरिएको एङ्कर घुसाउनुहोस् वा चयन गरिएका एङ्करको गुण सम्पादन गर्नुहोस्">
 <!ENTITY TextColorButton.tooltip "पाठका लागि रङ रोज्नुहोस्">
 <!ENTITY BackgroundColorButton.tooltip "पृष्ठभूमिका लागि रङ रोज्नुहोस्">
-<!ENTITY HighlightColorButton.tooltip "पाठका लागि हाइलाइट रङ रोज्नुहोस्">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "सानो फन्ट साइज">
@@ -282,12 +262,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "चयन गर्नुहोस्">
-<!ENTITY structSelect.accesskey "s">
-<!ENTITY structRemoveTag.label "ट्याग हटाउनुहोस्">
-<!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "ट्याग परिवर्तन गर्नुहोस्">
-<!ENTITY structChangeTag.accesskey "c">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "घुसाउनुहोस्">

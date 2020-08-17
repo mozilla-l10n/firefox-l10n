@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "सुरक्षा">
-<!ENTITY securityHeading.label "साइन गरिएका वा गुप्तिकृत गरिएका सन्देशहरू पठाउन र प्राप्त गर्न, तपाईँले दुवै डिजिटल साइनिङ प्रमाणपत्र र एउटा गुप्तिकरण प्रमाणपत्र निर्दिष्ट गर्नुपर्नेछ ।">
-<!ENTITY encryptionGroupTitle.label "गुप्तिकरण">
-<!ENTITY encryptionChoiceLabel.label "सन्देशहरू पठाउँदा पूर्वनिर्धारित गुप्तिकरण सेटिङ:">
-<!ENTITY neverEncrypt.label "कहिल्यै पनि (गुप्तिकरण प्रयोग नगर्नुहोस्)">
-<!ENTITY alwaysEncryptMessage.label "आवश्यक (सबै प्रापकसँग प्रमाणपत्र नभएसम्म सन्देशहरू पठाउन सकिँदैन)">
-<!ENTITY encryptionCert.message "तपाईँलाई पठाएको सन्देशहरू गुप्तिकरणबाट हटाउन, &amp; गुप्तिकरण गर्न यो प्रमाणपत्र प्रयोग गर्नुहोस्:">
-
 <!ENTITY signingGroupTitle.label "डिजिटल साइनिङ">
-<!ENTITY signMessage.label "(पूर्वनिर्धारित रूपमा) सन्देशहरू डिजिटल्ली साइन गर्नुहोस्">
-<!ENTITY signingCert.message "तपाईँले पठाउनुभएको सन्देशहरू डिजिटल रूपमा साइन गर्न यो प्रमाणपत्र प्रयोग गर्नुहोस्:">
-
-<!ENTITY certificates.label "प्रमाणपत्र">
 

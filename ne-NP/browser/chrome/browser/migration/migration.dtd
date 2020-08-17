@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "विकल्पहरू, पुस्तकचिनोहरू, इतिहास, गोप्यशब्दहरू र अन्य डाटा आयात गर्नुहोस्:">
 <!ENTITY importFromUnix.label           "प्राथमिकताहरू ,पुस्तकचिनोहरू, इतिहास, गोप्यशब्दहरू र अन्य डाटा आयात गर्नुहोस्:">
-<!ENTITY importFromBookmarks.label      "बाट पुस्तकचिनो आयात गर्नुहोस्:">
 
 <!ENTITY importFromIE.label             "माइक्रोसफ्ट इन्टरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey         "M">

@@ -2,29 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Here be dragons!
-about-config-warning-text = यी उन्नत सेटिंग्स को परिवर्तन यो स्थिरता, सुरक्षा, र यस अनुप्रयोग को प्रदर्शन को लागी हानिकारक हुन सक्छ। तपाइँ मात्र जारी राख्न सक्नुहुन्छ यदि तपाइँ के गर्दै हुनुहुन्छ भन्नेमा निश्चित हुनुहुन्छ।
-about-config-warning-checkbox = कृपया मलाई फेरि रीस उठाउनुहोस्!
-about-config-warning-button = म जोखिम स्वीकार गर्दछु
-
-about-config2-title = उन्नत कन्फिगरेसनहरू
-
-about-config-search-input =
-    .placeholder = खोज्नुहोस्
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 ##
 
 about-config-show-all = सबै देखाऊ
-
-about-config-pref-add = थप्नुहोस्
-about-config-pref-toggle = टगल
-about-config-pref-edit = सम्पादन गर्नुहोस्
-about-config-pref-save = बचत गर्नुहोस्
-about-config-pref-reset = रिसेट गर्नुहोस्
-about-config-pref-delete = हटाउनुहोस्
 
 about-config-pref-add-button =
     .title = थप्नुहोस्

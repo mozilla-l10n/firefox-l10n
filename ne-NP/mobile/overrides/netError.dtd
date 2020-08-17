@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>अनुरोध गरिएको कागजात &brandShortName; को क्यासमा उपलब्ध छैन।</p><ul><li>सुरक्षालाई ध्यानमा राख्दै, &brandShortName; ले स्वतः संवेदनशील कागजातहरूलाई पुन:अनुरोध गर्दैन।</li><li>कागजात पुन:अनुरोध गर्नलाई पुन: प्रयासमा थिच्नुहोस्। </li></ul>">
 
 <!ENTITY netOffline.title "अफलाइन शैली">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>फेरी प्रयास गर्नुहोस्। &brandShortName; ले पेज जडान सुरु गर्न र पुनः लोड गर्न प्रयास गर्ने छ। <button id='wifi'>Wi-Fi सक्षम गर्नुहोस</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "सामग्री संकेतीकरण त्रुटी">
 <!ENTITY contentEncodingError.longDesc "<ul>

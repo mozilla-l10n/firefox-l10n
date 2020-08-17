@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = यस रूपमा सङ्ग्रह गर्नुहोस्...
     .accesskey = e
-media-preview =
-    .value = सञ्चार पूर्वावलोकनः
 
 perm-tab =
     .label = अनुमतिहरू
@@ -118,7 +116,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = अज्ञात
-not-set-verified-by = निर्दिष्ट नगरिएको
 page-info-not-specified =
     .value = निर्दिष्ट नगरिएको
 not-set-alternative-text = निर्दिष्ट नगरिएको
@@ -143,7 +140,6 @@ general-quirks-mode =
     .value = क्विर्क मोड
 general-strict-mode =
     .value = गुणस्तर अनुवृत्ति मोड
-security-no-owner = This web site does not supply ownership information.
 page-info-security-no-owner =
     .value = This web site does not supply ownership information.
 media-select-folder = तस्विरहरू सङ्ग्रह गर्नको लागि फोल्डर चयन गर्नुहोस

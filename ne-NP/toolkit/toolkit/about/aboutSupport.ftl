@@ -4,6 +4,7 @@
 
 page-title = समस्या समाधानको सूचना
 page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
+
 crashes-title = समस्या समाधानको जानकारी
 crashes-id = Report ID
 crashes-send-date = पेश गरियो
@@ -77,8 +78,6 @@ graphics-workarounds-title = कार्यक्षेत्र
 place-database-title = ठाउँहरूको डाटाबेस
 place-database-integrity = समग्रता
 place-database-verify-integrity = समग्रता रूजु गर्नुहोस्
-js-title = JavaScript
-js-incremental-gc = Incremental GC
 a11y-title = पहुँचता
 a11y-activated = सक्रिय गरिएको
 a11y-force-disabled = पहुँच सेटिङ रोक्नुहोस
@@ -103,7 +102,6 @@ restart-in-safe-mode-label = एडअनहरू अक्षम पारे�
 
 audio-backend = अडियो ब्याकइन्ड
 max-audio-channels = अधिकतम च्यानलहरु
-channel-layout = रुचाइएको च्यानल आवरण
 sample-rate = रुचाइएको नमूना दर
 media-title = सञ्चार
 media-output-devices-title = निर्गत यन्त्रहरु
@@ -149,6 +147,7 @@ report-crash-for-days =
         [one] अन्तिम { $days } दिनको लागि क्र्यास प्रतिवेदनहरू
        *[other] अन्तिम { $days } दिनहरूका लागि क्र्यास प्रतिवेदनहरू
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -156,6 +155,7 @@ crashes-time-minutes =
         [one] { $minutes } मिनेट अगाडि
        *[other] { $minutes } मिनेट अगाडि
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -163,6 +163,7 @@ crashes-time-hours =
         [one] { $hours } घण्टा अगाडि
        *[other] { $hours } घण्टा अगाडि
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -170,6 +171,7 @@ crashes-time-days =
         [one] { $days } दिन अगाडि
        *[other] { $days } दिन अगाडि
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -177,6 +179,7 @@ pending-reports =
         [one] सबै दुर्घटना प्रतिवेदन (दिएको समय सीमामा { $reports } बाँकी रहेको दुर्घटना सहित)
        *[other] सबै दुर्घटना प्रतिवेदन (दिएको समय सीमा मा { $reports } बाँकी रहेको दुर्घटनाहरू सहित)
     }
+
 raw-data-copied = क्लिपबोर्डमा कच्चा डाटा प्रतिलिपि गरियो
 text-copied = क्लिपबोर्डमा पाठ प्रतिलिपि गरियो
 
@@ -189,9 +192,11 @@ blocked-mismatched-version = रजिस्ट्री र DLL बीच त�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = तपाईँको ग्राफिक्स ड्राइभर संस्करणको लागि अवरुद्ध छ। संस्करण { $driverVersion } वा नयाँ संस्करणको ग्राफिक्सड्राइभर अद्यावधिक गर्ने प्रयास गर्नुहोस्।
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType परामितिहरू
+
 compositing = सम्मिश्रण गरिँदै
 hardware-h264 = हार्डवेयर H264 असङ्केतन
 main-thread-no-omtc = मुख्य थ्रेड, OMTC छैन
@@ -204,6 +209,7 @@ no = होइन
 
 found = फेला पर्यो
 missing = हराइरहेको छ
+
 gpu-description = विवरण
 gpu-vendor-id = बिक्रेता आईडी
 gpu-device-id = यन्त्र आइडी
@@ -224,17 +230,20 @@ webgl2-version = WebGL 2 ड्राइभर संस्करण
 webgl2-driver-extensions = WebGL 2 ड्राइभर एक्सटेन्सनहरू
 webgl2-extensions = WebGL 2 एक्सटेन्सनहरू
 blocklisted-bug = ज्ञात मुद्दाहरूका कारण अबरुद्दसुचीमा राखिएको
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = बग { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = अबरुद्दसुचीत; विफल कोड { $failureCode }
+
 d3d11layers-crash-guard = D3D11 मिश्रणकर्ता
 d3d11video-crash-guard = D3D11 भिडियो डीकोडर
-d3d9video-crash-buard = D3D9 भिडियो डिकोडर
 d3d9video-crash-guard = D3D9 भिडियो डिकोडर
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = अर्को पुन:सुचारु गर्दा रिसेट गर्नुहोस्
 gpu-process-kill-button = GPU प्रकृयालाई अन्त्य गर्ने
 gpu-device-reset-button = उपकरण रिसेट ट्रिगर गर्नुहोस्
@@ -242,8 +251,10 @@ uses-tiling = टाइल प्रयोग गर्दछ
 content-uses-tiling = टाइल प्रयोग गर्दछ (सामग्री)
 off-main-thread-paint-enabled = बन्द मुख्य थ्रेड चित्रकला सक्षम गर्नुहोस्
 off-main-thread-paint-worker-count = बन्द मुख्य थ्रेड चित्रकला कार्यकर्ता गणना
+
 min-lib-versions = अपेक्षित न्यूनतम संस्करण
 loaded-lib-versions = प्रयोगमा रहेको संस्करण
+
 has-seccomp-bpf = Seccomp-BPF (सिस्टम कल फ़िल्टरिङ्ग)
 has-seccomp-tsync = Seccomp थ्रेड समिकरण
 has-user-namespaces = प्रयोगकर्ता नेमस्पेसहरू
@@ -255,6 +266,7 @@ effective-content-sandbox-level = प्रभावकारी सामग्
 sandbox-proc-type-content = सामग्री
 sandbox-proc-type-file = फाइल सामग्री
 sandbox-proc-type-media-plugin = मिडिया प्लगइन
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -267,6 +279,7 @@ multi-process-status-6 = असमर्थित पाठ निवेशद�
 multi-process-status-7 = एडअनद्वारा असक्षम पारिएको
 multi-process-status-8 = जबर्जस्ती अक्षम परियो
 multi-process-status-unknown = अज्ञात स्थिति
+
 async-pan-zoom = एसिक्रोनस पान / जूम
 apz-none = कुनै पनि होइन
 wheel-enabled = व्हील निवेश सक्रिय
