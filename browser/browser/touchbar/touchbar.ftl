@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Dil nga “Sa Krejt Ekrani”
 find = Gjej
 new-tab = Skedë e re
 add-bookmark = Shtoni faqerojtës
-open-bookmarks-sidebar = Hap Anështyllë Faqerojtësish
 reader-view = Pamja Lexues
 # Meant to match the string displayed in an empty URL bar.
 open-location = Bëni kërkim ose jepni adresë

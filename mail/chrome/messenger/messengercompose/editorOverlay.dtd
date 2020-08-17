@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Ngjite Pa Formatim">
 <!ENTITY pasteNoFormatting.accesskey "a">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Ngjite Si">
-<!ENTITY pasteAs.accesskey "S">
 <!ENTITY pasteAsQuotationCmd.label "Ngjite Si Citim">
 <!ENTITY pasteAsQuotationCmd.accesskey "C">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Gjeni…">
-<!ENTITY findReplaceCmd.label "Gjeni dhe Zëvendësoni…">
-<!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkrimi Teksa Shkruani">
-<!ENTITY enableInlineSpellChecker.accesskey "D">
-<!ENTITY checkSpellingCmd2.label "Kontrolloni Drejtshkrimin…">
-<!ENTITY checkSpellingCmd2.accesskey "K">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Futje">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Teksti">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Veti të Mëtejshme">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Vendosje">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Përligj">
 <!ENTITY alignJustify.accesskey "P">
 <!ENTITY alignJustify.tooltip "Drejtim i Përligjur">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Shtresë">
-<!ENTITY layerSendToBack.tooltip "Shpjereni Prapa">
-<!ENTITY layerBringToFront.tooltip "Bjereni Përpara">
 
 <!ENTITY increaseIndent.label "Rrit Hapësirë Kryeradhe">
 <!ENTITY increaseIndent.accesskey "R">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Veti Tabele…">
 <!ENTITY tableProperties.accesskey "v">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Shtyllë Menush">
-<!ENTITY formatToolbar.tooltip "Panel Formatimesh">
-<!ENTITY cutToolbarCmd.tooltip "Prijeni">
-<!ENTITY copyToolbarCmd.tooltip "Kopjojeni">
-<!ENTITY pasteToolbarCmd.tooltip "Ngjiteni">
-<!ENTITY printToolbarCmd.label "Shtype">
-<!ENTITY printToolbarCmd.tooltip "Shtypeni këtë faqe">
-<!ENTITY findToolbarCmd.label "Gjej">
-<!ENTITY findToolbarCmd.tooltip "Gjeni tekst në faqe">
-<!ENTITY spellToolbarCmd.label "Drejtshkrim">
-<!ENTITY spellToolbarCmd.tooltip "Kontrolloni drejtshkrimin për përzgjedhjen ose tërë faqen">
-
 <!ENTITY imageToolbarCmd.label "Figurë">
 <!ENTITY imageToolbarCmd.tooltip "Futni figurë të re ose përpunoni vetitë e figurës së përzgjedhur">
 <!ENTITY hruleToolbarCmd.label "Rresht H.">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Futni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
 <!ENTITY TextColorButton.tooltip "Zgjidhni ngjyrë për tekstin">
 <!ENTITY BackgroundColorButton.tooltip "Zgjidhni ngjyrë për sfondin">
-<!ENTITY throbber.tooltip2 "Shko te kreu i &brandShortName;-it">
-<!ENTITY HighlightColorButton.tooltip "Zgjidhni ngjyrë theksimi teksti">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Caktoni madhësi shkronjash">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Vendoseni tekstin në qendër">
 <!ENTITY alignRightButton.tooltip "Vendoseni tekstin përgjatë mënjanash djathtas">
 <!ENTITY alignJustifyButton.tooltip "Vendoseni tekstin përgjatë mënjanash majtas dhe djathtas">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Përzgjidhni">
-<!ENTITY structSelect.accesskey     "P">
-<!ENTITY structRemoveTag.label      "Hiqe shenjën">
-<!ENTITY structRemoveTag.accesskey  "H">
-<!ENTITY structChangeTag.label      "Ndryshoje shenjën">
-<!ENTITY structChangeTag.accesskey  "N">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Futni">

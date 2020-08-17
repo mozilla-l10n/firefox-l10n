@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Mësoni Më Tepër
-onboarding-button-label-try-now = Provojeni Që Tani
 onboarding-button-label-get-started = Fillojani
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = Mirë se vini te { -brand-short-name }
 onboarding-welcome-body = E morët shfletuesin.<br/>Njihuni me pjesën tjetër të { -brand-product-name }.
 onboarding-welcome-learn-more = Mësoni më tepër mbi përfitimet.
 
-onboarding-join-form-header = Bëhuni pjesë e { -brand-product-name }
 onboarding-welcome-modal-get-body = E keni shfletuesin.<br/>Tani përfitoni maksimumin prej { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Superngarkoni mbrojtjen e privatësisë tuaj.
 onboarding-welcome-modal-privacy-body = E keni shfletuesin. Le të shtojmë më tepër mbrojtje privatësie.
@@ -46,6 +44,13 @@ onboarding-start-browsing-button-label = Filloni të Shfletoni
 onboarding-cards-dismiss =
     .title = Hidhe tej
     .aria-label = Hidhe tej
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -74,14 +79,7 @@ onboarding-sync-form-sub-header = që të vazhdoni te { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Produkte të Dobishëm
-
 onboarding-benefit-products-text = Mbaroni punë me një familje mjetesh që respektojnë privatësinë tuaj nëpër pajisjet tuaja.
-
-onboarding-benefit-knowledge-title = Dije Praktike
-onboarding-benefit-knowledge-text = Mësoni gjithçka që duhet të dini për të qenë më të mençur dhe më të parrezikuar në internet.
-
-onboarding-benefit-privacy-title = Privatësi e Vërtetë
 
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -108,22 +106,6 @@ onboarding-benefit-lockwise-text = Administroni fjalëkalime që janë të mbroj
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Shfletim Privat
-onboarding-private-browsing-text = Shfletësoni vetëm. Shfletimi Privat me Bllokim Lënde bllokon gjurmuesit internetorë që ju ndjekin hap pas hapi në web.
-
-onboarding-screenshots-title = Foto ekrani
-onboarding-screenshots-text = Bëni, ruani dhe ndani me të tjerët foto ekrani — pa dalë nga { -brand-short-name }. Të një pjese ose të një faqeje të tërë, teksa shfletoni. Mandej ruajini në web për përdorim dhe ndarje të lehtë me të tjerët.
-
-onboarding-addons-title = Shtesa
-onboarding-addons-text = Shtojini madje edhe më tepër veçori që e bëjnë { -brand-short-name } të punojë më fort për ju. Krahasoni çmime, shihni motin ose shprehni personalitetin tuaj me një temë grafike të përshtatur.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Shfletoni më shpejt, me më mençuri, ose me më siguri, përmes zgjerimesh të tillë si Ghostery, që ju lejon të bllokoni reklama të bezdishme.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Njëkohësoni
-onboarding-fxa-text = Regjistrohuni për një  { -fxaccount-brand-name } dhe njëkohësoni fjalëkalimet tuaj, faqerojtësit dhe skedat e hapura nga kudo që përdorni { -brand-short-name }.
-
 onboarding-tracking-protection-title2 = Mbrojtje Nga Gjurmimi
 onboarding-tracking-protection-text2 = { -brand-short-name } ndihmon të ndalet gjurmimi juaj në internet nga sajte, duke e bërë më të vështirë për reklamat t’ju ndjekin nëpër internet.
 onboarding-tracking-protection-button2 = Si Funksionon
@@ -134,7 +116,6 @@ onboarding-data-sync-text2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet, et
 onboarding-data-sync-button2 = Hyni te { -sync-brand-short-name }-u
 
 onboarding-firefox-monitor-title = Jini Në Dijeni të Cenimeve të të Dhënave
-onboarding-firefox-monitor-text = { -monitor-brand-name } mbikëqyr se mos email-i juaj është shfaqur në ndonjë cenim të dhënash dhe ju vë në dijeni nëse shfaqet në një cenim të ri.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } mbikëqyr se mos email-i juaj është parë në ndonjë cenim të ditur të dhënash dhe ju sinjalizon nëse shfaqet në një cenim të ri.
 onboarding-firefox-monitor-button = Regjistrohuni për Sinjalizime
 
@@ -155,19 +136,12 @@ onboarding-mobile-phone-button = Shkarkoni Shfletuesin Për Celular
 onboarding-send-tabs-title = Dërgojini Vetes Skeda Aty Për Aty
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Me Dërgim Skedash bëni ndarje të menjëhershme faqesh mes pajisjeve tuaja pa u dashur të kopjoni, ngjitni, apo të braktisni shfletuesin.
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
 onboarding-send-tabs-text2 = Ndani lehtësisht faqe mes pajisjeve tuaja pa u dashur të kopjoni lidhje apo të braktisni shfletuesin.
 onboarding-send-tabs-button = Filloni të përdorni Dërgim Skedash
 
 onboarding-pocket-anywhere-title = Lexoni dhe Dëgjoni Kudo
 onboarding-pocket-anywhere-text2 = Ruani jashtë interneti lëndën tuaj të parapëlqyer, me aplikacionin  { -pocket-brand-name } dhe lexojeni, dëgjojeni apo shiheni kurdo që keni kohë.
 onboarding-pocket-anywhere-button = Provojeni { -pocket-brand-name }-in
-
-onboarding-lockwise-passwords-title = Merrini Fjalëkalimet Tuaja Kudo
-onboarding-lockwise-passwords-text2 = Ruajini pa rrezik fjalëkalimet tuaja dhe hyni me lehtësi në llogaritë tuaja, përmes { -lockwise-brand-name }.
-onboarding-lockwise-passwords-button2 = Merrni Aplikacionin
 
 onboarding-lockwise-strong-passwords-title = Krijoni dhe Depozitoni Fjalëkalime të Fuqishëm
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } krijon aty për aty fjalëkalime të fuqishëm dhe i ruan të tërë në një vend.

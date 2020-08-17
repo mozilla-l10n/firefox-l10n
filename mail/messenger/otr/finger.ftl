@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Mbylle
     .title = Shenja Gishtash OTR të Para Më Herët
+
 finger-intro = Shenja gishtash OTR prej bisedash të mëparshme të fshehtëzuara skaj-më-skaj.
+
 finger-screenName =
     .label = Kontakt
 finger-verified =
     .label = Gjendje Verifikimi
 finger-fingerprint =
     .label = Shenja gishtash
+
 finger-remove =
     .label = Hiq të Përzgjedhurën
+
 finger-remove-all =
     .label = Hiqi Krejt

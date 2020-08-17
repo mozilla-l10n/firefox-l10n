@@ -4,11 +4,14 @@
 
 otr-add-finger =
     .title = Shtoni Shenja Gishtash Kyçi OTR
+
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
 otr-add-finger-description = Jepni shenja gishtash kyçi OTR për { $name }.
+
 otr-add-finger-fingerprint = Shenja gishtash:
 otr-add-finger-tooltip-error = U dha shenjë e pavlefshme. Lejohen vetëm shkronjat ABCDEF dhe numra
+
 otr-add-finger-input =
     .placeholder = Shenjat e gishtave të kyçit OTR,  40 shenja e gjatë
