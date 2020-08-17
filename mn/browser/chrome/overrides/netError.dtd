@@ -12,63 +12,25 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Холбогдож чадахгүй байна">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Хаяг хязгаарлагдсан байна">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY fileNotFound.title "Файл олдсонгүй">
 
 
-
-
-<!ENTITY generic.title "Уучлаарай.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; энэ хуудсыг зарим шалтгаанаар дуудаж чадахгүй байна.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Холболт тасарсан">
-
-
-<!ENTITY notCached.title "Хавтасны хугацаа дууссан">
-
-
-<!ENTITY netOffline.title "Салангид горим">
-
-
-
-
-<!ENTITY unsafeContentType.title "Найдваргүй файлын төрөл">
-
-
-<!ENTITY netReset.title "Холболт шинэчлэгдсэн">
-
-
-<!ENTITY netTimeout.title "Холболтын цаг дууссан">
-
-
-<!ENTITY unknownProtocolFound.title "Хаяг ойлгогдоогүй">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Та энэ хаягийг нээхийн тулд магадгүй өөр програм суулгах хэрэгтэй байж болзошгүй.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Прокси сервер холболтоос татгалзлаа">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проксигийн тохиргоо зөв эсэхийг шалгана уу.</li> <li>Прокси сервер ажиллаж буй эсэхийг сүлжээ зохицуулагчаас лавлана уу.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Прокси серверийг олж чадсангүй">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Проксигийн тохиргоо зөв эсэхийг шалгана уу.</li> <li>Таны компьютер ажиллагаатай сүлжээнд холбогдсон эсэхээ шалга.</li> <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Хуудсанд зөв дамжуулалт хийгдсэнгүй">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Энэ хүндрэл заримдаа күүкиг хорих юм уу татгалзсан үед гардаг.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Хүсээгүй үед ирсэн серверийн хариулт">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Та компьютерт Хувийн нууцлалын зохицуулагч суулгасан эсэхээ шалгана уу.</li> <li>Энэ магадгүй сервер дээр стандарт бус тохиргуулга хийсэнтэй холбоотой.</li> </ul>">
 
@@ -80,13 +42,8 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Хуудас түр хугацаагаар хаагдсан, эсвэл завгүй байж магадгүй. Хэсэг хугацааны дараа дахин оролдоно уу.</li> <li>Хэрэв та ямар ч хуудас дуудаж чадахгүй байгаа бол компьютерийнхээ сүлжээг шалгаарай.</li> <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
 
 
-
-
-
-<!ENTITY remoteXUL.title "Алсын XUL ">
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

@@ -40,34 +40,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Файл сонго…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Ф">
 
-<!ENTITY cmd.deleteDomainData.label     "Энэ хуудсыг март">
-<!ENTITY cmd.deleteDomainData.accesskey "м">
-
-<!ENTITY cmd.open.label                  "Нээ">
-<!ENTITY cmd.open.accesskey              "Н">
-<!ENTITY cmd.open_window.label           "Шинэ цонхонд нээ">
-<!ENTITY cmd.open_window.accesskey       "Ш">
-
-
-<!ENTITY cmd.open_tab.label              "Шинэ самбарт нээ">
-<!ENTITY cmd.open_tab.accesskey          "с">
-<!ENTITY cmd.open_all_in_tabs.label      "Бүгдийг нь самбарт нээ">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "н">
-
-<!ENTITY cmd.properties.label      "Шинж чанар">
-<!ENTITY cmd.properties.accesskey  "и">
-
-<!ENTITY cmd.sortby_name.label              "Нэрээр эрэмбэл">
-<!ENTITY cmd.sortby_name.accesskey          "р">
-<!ENTITY cmd.context_sortby_name.accesskey  "э">
-
-<!ENTITY cmd.new_bookmark.label            "Шинэ хаяг…">
-<!ENTITY cmd.new_bookmark.accesskey        "Ш">
-<!ENTITY cmd.new_folder.label              "Шинэ сан…">
-<!ENTITY cmd.new_folder.accesskey          "с">
-
-<!ENTITY cmd.new_separator.label           "Шинэ тусгаарлагч">
-<!ENTITY cmd.new_separator.accesskey       "т">
 
 <!ENTITY col.name.label          "Нэр">
 <!ENTITY col.tags.label          "Таглаа">
@@ -89,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Харахыг болон засварлахыг хүссэн зүйлээ сонгоно уу">
 
-<!ENTITY view.label               "Харах">
-<!ENTITY view.accesskey           "р">
-<!ENTITY byDate.label             "Огноогоор">
-<!ENTITY byDate.accesskey         "О">
-<!ENTITY bySite.label             "Хуудсаар">
-<!ENTITY bySite.accesskey         "с">
-<!ENTITY byMostVisited.label      "Хамгийн их зорчсоноор">
-<!ENTITY byMostVisited.accesskey  "з">
-<!ENTITY byLastVisited.label      "Сүүлд зорчсоноор">
-<!ENTITY byLastVisited.accesskey  "л">
-<!ENTITY byDayAndSite.label       "Огноо ба Хуудсаар">
-<!ENTITY byDayAndSite.accesskey   "б">

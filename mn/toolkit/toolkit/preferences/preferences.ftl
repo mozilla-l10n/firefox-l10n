@@ -14,12 +14,14 @@ pw-erased-ok = Та мастер нууц үгээ устгалаа.  { pw-empty
 pw-not-wanted = Анхааруулга! Та Мастер нууц үг хэрэглэхгүй гэж шийдсэн байна. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Та одоогоор FIPS горимд байна. Энэ горимд мастер нууц үг хоосон байх ёсгүй.
+
 pw-change-success-title = Нууц үг амжилттай солигдлоо
 pw-remove-button =
     .label = Устга
 
 set-password =
     .title = Мастер нууц үгийг өөрчил
+
 set-password-old-password = Одоогийн нууц үг:
 set-password-new-password = Шинэ нууц үг оруул:
 set-password-reenter-password = Дахин оруул:
@@ -30,6 +32,7 @@ master-password-warning = Та суулгасан мастер нууц үгээ
 
 remove-password =
     .title = Мастер нууц үгийг устга
+
 remove-info =
     .value = Та гүйцэтгэхийн тулд одоогийн нууц үгээ оруулах ёстой:
 remove-warning1 = Таны мастер нууц үг нь хуудасны нууц үг зэрэг нарийн мэдээллийг хамгаалахад хэрэглэгдэнэ.

@@ -21,6 +21,9 @@ change-password-reenter = Шинэ нууц үг (дахиад):
 reset-password-window =
     .title = Мастер Нууц үгийг дахин сэргээх
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Сэргээ
 

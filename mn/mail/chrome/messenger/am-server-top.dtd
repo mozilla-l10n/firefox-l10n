@@ -45,14 +45,11 @@
 <!ENTITY maxMessagesEnd.label "захиа">
 <!ENTITY alwaysAuthenticate.label "Энэ сервертэй холбогдох үед үргэлж нэр болон нууц үгээ шалгуул.">
 <!ENTITY alwaysAuthenticate.accesskey "э">
-<!ENTITY newsrcFilePath.label "Мэдээний эх файл:">
-<!ENTITY newsrcPicker.label "Мэдээний эх файлыг сонго">
 <!ENTITY abbreviate.label "Захианы групын нэрийг Захианы санд харуулахдаа:">
 <!ENTITY abbreviateOn.label "Бүтэн нэр (Жишээлбэл, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Товчилсон нэр (Жишээлбэл, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Нэмэгдэл…">
 <!ENTITY advancedButton.accesskey "э">
-<!ENTITY localPath.label "Дотоод сан:">
 <!ENTITY localFolderPicker.label "Дотоод санг сонго">
 <!ENTITY browseFolder.label "Зааж өг…">
 <!ENTITY browseFolder.accesskey "ө">

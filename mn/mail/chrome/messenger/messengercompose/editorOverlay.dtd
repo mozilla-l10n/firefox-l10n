@@ -48,12 +48,8 @@
 
 <!ENTITY pasteNoFormatting.label "Хэлбэржүүлэлгүй буулга">
 <!ENTITY pasteNoFormatting.accesskey "й">
-<!ENTITY pasteAs.label "Буулгахдаа">
-<!ENTITY pasteAs.accesskey "Б">
 
 <!ENTITY pasteAsQuotationCmd.label "Хашилттай мэт буулга">
-<!ENTITY enableInlineSpellChecker.label "Бичиж эхлэнгүүт үгийн алдааг шалга">
-<!ENTITY enableInlineSpellChecker.accesskey "ж">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Орлуул">
@@ -143,9 +139,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "Улаан мөрийн сонголт">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Үндсэн текст">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Нэмэлт шинж чанар">  
+<!ENTITY bodyTextCmd.label "Үндсэн текст">  
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Зэрэгц">
 <!ENTITY alignLeft.label "Зүүн">
@@ -156,11 +150,6 @@
 <!ENTITY alignRight.tooltip "Баруун талд зэрэгц">
 <!ENTITY alignJustify.label "Мөр зэрэгц">
 <!ENTITY alignJustify.tooltip "Хоёр талдаа зэрэгц">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Тавцан">
-<!ENTITY layerSendToBack.tooltip "Ар талд илгээ">
-<!ENTITY layerBringToFront.tooltip "Эхэнд авчирах">
 
 <!ENTITY increaseIndent.label "Мөр эхлэх зайг ихэсгэ">
 <!ENTITY decreaseIndent.label "Мөр эхлэх зайг багасга">
@@ -211,16 +200,6 @@
 <!ENTITY tableProperties.label "Хүснэгтийн шинж чанар">
 <!ENTITY tableProperties.accesskey "ш">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Цэст самбар">
-<!ENTITY formatToolbar.tooltip "Багажит самбарыг тохируулах">
-<!ENTITY printToolbarCmd.label "Хэвлэ">
-<!ENTITY printToolbarCmd.tooltip "Энэ хуудсыг хэвлэ">
-<!ENTITY findToolbarCmd.label "Хайлт">
-<!ENTITY findToolbarCmd.tooltip "Хуудсанд текст ол">
-<!ENTITY spellToolbarCmd.label "Үгийн алдаа шалгах">
-<!ENTITY spellToolbarCmd.tooltip "Сонгосон хэсэгт эсвэл бүхэл хуудсанд үгийн алдаа шалга">
-
 <!ENTITY imageToolbarCmd.label "Зураг">
 <!ENTITY imageToolbarCmd.tooltip "Шинэ зураг орлуул эсвэл сонгосон зургийн шинж чанарыг засварла">
 <!ENTITY hruleToolbarCmd.label "Хэвтээ шугам">
@@ -233,7 +212,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Шинэ нэртэй зангуу орлуул эсвэл сонгосон зангууны шинж чанарыг засварла">
 <!ENTITY TextColorButton.tooltip "Текстийн өнгө сонго">
 <!ENTITY BackgroundColorButton.tooltip "Арын дэвсгэрийн өнгө сонго">
-<!ENTITY HighlightColorButton.tooltip "Текстийн гэрэлтэх өнгийг сонго">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Үсгийн хэмжээг багасга">
@@ -250,14 +228,6 @@
 <!ENTITY alignLeftButton.tooltip "Текстийг зүүн зай авалтад зэрэгцүүл">
 <!ENTITY alignCenterButton.tooltip "Текстийг төвд зэрэгц">
 <!ENTITY alignRightButton.tooltip "Баруун зай авалтад зэрэгц">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Сонго">
-<!ENTITY structSelect.accesskey     "с">
-<!ENTITY structRemoveTag.label      "Тагийг устга">
-<!ENTITY structRemoveTag.accesskey  "Т">
-<!ENTITY structChangeTag.label      "Тагийг солих">
-<!ENTITY structChangeTag.accesskey  "с">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Орлуул">

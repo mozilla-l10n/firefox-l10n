@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Сонголт, хаяг, түүх, нууц үгсийг импортлох байршил:">
 <!ENTITY importFromUnix.label           "Тохируулга, хаяг, түүх, нууц үгсийг импортлох байршил:">
-<!ENTITY importFromBookmarks.label      "Хаяг импортлох байршил:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
