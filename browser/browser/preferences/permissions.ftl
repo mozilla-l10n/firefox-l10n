@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Skriv inn et gyldig servernavn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Unntak - innholdsblokkering
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Du har slått av innholdsblokkering på disse nettstedene.
-
 permissions-exceptions-etp-window =
     .title = Unntak for utvidet sporingsbeskyttelse
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillatelse til å installere programtillegg. Skriv inn den eksakte adressen til nettstedet du vil tillate, og trykk «Tillat».
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Unntak - autoavspilling
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Du kan spesifisere hvilke nettsteder som alltid eller aldri kan spille av  medier med lyd. Skriv inn nettstedsadressen og trykk Blokker eller Tillat.
 
 ## Site Permissions - Autoplay
 

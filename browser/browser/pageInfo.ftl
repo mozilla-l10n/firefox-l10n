@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Lagre som …
     .accesskey = e
-media-preview =
-    .value = Forhåndsvisning:
 
 perm-tab =
     .label = Tillatelser
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ja, infokapsler
 security-site-data-no = Nei
 
 image-size-unknown = Ukjent
-not-set-verified-by = Ikke angitt
 page-info-not-specified =
     .value = Ikke angitt
 not-set-alternative-text = Ikke angitt
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Særmodus
 general-strict-mode =
     .value = Standardmodus
-security-no-owner = Dette nettstedet oppgir ikke info om eieren.
 page-info-security-no-owner =
     .value = Dette nettstedet oppgir ikke info om eieren.
 media-select-folder = Velg en mappe for å lagre bildene

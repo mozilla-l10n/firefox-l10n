@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Avslutt fullskjerm
 find = Søk
 new-tab = Ny fane
 add-bookmark = Legg til bokmerke
-open-bookmarks-sidebar = Åpne bokmerkesidestolpen
 reader-view = Lesevisning
 # Meant to match the string displayed in an empty URL bar.
 open-location = Søk eller skriv inn adresse

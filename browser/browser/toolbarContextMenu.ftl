@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Velg alle faner
     .accesskey = V
-toolbar-context-menu-undo-close-tab =
-    .label = Angre lukking av fane
-    .accesskey = n
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

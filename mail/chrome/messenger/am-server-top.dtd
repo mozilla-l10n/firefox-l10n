@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "meldinger">
 <!ENTITY alwaysAuthenticate.label "Alltid spør etter autentisering ved tilkobling til denne serveren">
 <!ENTITY alwaysAuthenticate.accesskey "A">
-<!ENTITY newsrcFilePath.label "newsrc-fil:">
-<!ENTITY newsrcPicker.label "Velg newsrc-fil">
 <!ENTITY newsrcFilePath1.label "News.rc-fil:">
 <!ENTITY newsrcPicker1.label "Velg News.rc-fil">
 <!ENTITY abbreviate.label "Vis navn i mappelisten med">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Standard tekstkoding:">
-<!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY localPath1.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Velg lokal mappe:">
 <!ENTITY browseFolder.label "Bla gjennom …">

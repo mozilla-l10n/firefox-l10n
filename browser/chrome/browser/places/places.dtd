@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Velg fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.deleteDomainData.label     "Glem dette nettstedet">
-<!ENTITY cmd.deleteDomainData.accesskey "G">
-
-<!ENTITY cmd.open.label                  "Åpne">
-<!ENTITY cmd.open.accesskey              "Å">
-<!ENTITY cmd.open_window.label           "Åpne i nytt vindu">
-<!ENTITY cmd.open_window.accesskey       "p">
-<!ENTITY cmd.open_private_window.label     "Åpne i nytt privat vindu">
-<!ENTITY cmd.open_private_window.accesskey "n">
-<!ENTITY cmd.open_tab.label              "Åpne i ny fane">
-<!ENTITY cmd.open_tab.accesskey          "f">
-<!ENTITY cmd.open_all_in_tabs.label      "Åpne alle i faner">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "a">
-
-<!ENTITY cmd.properties.label      "Egenskaper">
-<!ENTITY cmd.properties.accesskey  "E">
-
-<!ENTITY cmd.sortby_name.label              "Sorter etter navn">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nytt bokmerke …">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Ny mappe …">
-<!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "m">
-<!ENTITY cmd.new_separator.label           "Ny skillelinje">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Navn">
 <!ENTITY col.tags.label          "Etiketter">
 <!ENTITY col.url.label           "Adresse">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Antall besøk">
 <!ENTITY col.dateadded.label     "Lagt til">
 <!ENTITY col.lastmodified.label  "Sist endret">
-
-<!ENTITY historySearch.placeholder  "Søk historikk">
-<!ENTITY bookmarksSearch.placeholder  "Søk bokmerker">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Velg elementet du vil vise og redigere">
 
-<!ENTITY view.label               "Vis">
-<!ENTITY view.accesskey           "i">
-<!ENTITY byDate.label             "Etter dato">
-<!ENTITY byDate.accesskey         "a">
-<!ENTITY bySite.label             "Etter nettsted">
-<!ENTITY bySite.accesskey         "n">
-<!ENTITY byMostVisited.label      "Etter mest besøkt">
-<!ENTITY byMostVisited.accesskey  "m">
-<!ENTITY byLastVisited.label      "Etter sist besøkt">
-<!ENTITY byLastVisited.accesskey  "s">
-<!ENTITY byDayAndSite.label       "Etter dato og nettsted">
-<!ENTITY byDayAndSite.accesskey   "d">

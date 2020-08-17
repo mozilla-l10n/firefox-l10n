@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Skader min datamaskin og mine data
-
 abuse-report-damage-reason-v2 = Det skadet datamaskinen min eller kompromitterte mine data
 abuse-report-damage-example = Eksempel: Injiserte skadelig kode eller stjal data
 
-abuse-report-spam-reason = Viser spam eller reklamer
-
 abuse-report-spam-reason-v2 = Den inneholder spam eller legger inn uønsket annonsering
 abuse-report-spam-example = Eksempel: Setter inn reklamer på nettsider
-
-abuse-report-settings-reason = Endret min søkmotor, startside eller ny fane uten å informere eller spørre meg
 
 abuse-report-settings-reason-v2 = Den endret min søkmotor, startside eller ny fane uten å informere eller spørre meg
 abuse-report-settings-suggestions = Før du rapporterer utvidelsen, kan du prøve å endre dine innstillinger:
 abuse-report-settings-suggestions-search = Endre dine standardinnstillinger for søkemotor
 abuse-report-settings-suggestions-homepage = Endre startside og ny fane-siden
 
-abuse-report-deceptive-reason = Gir seg ut for å være noe den ikke er
-
 abuse-report-deceptive-reason-v2 = Den gir seg ut for å være noe den ikke er
 abuse-report-deceptive-example = Eksempel: Villedende beskrivelse eller bilder
-
-abuse-report-broken-reason-extension = Fungerer ikke, ødelegger nettsteder, eller gjør { -brand-product-name } treg
-abuse-report-broken-reason-theme = Virker ikke eller ødelegger nettsidens utseende
 
 abuse-report-broken-reason-extension-v2 = Den fungerer ikke, ødelegger nettsteder, eller gjør { -brand-product-name } treg
 abuse-report-broken-reason-theme-v2 = Den virker ikke eller ødelegger nettsidens utseende
@@ -99,15 +88,11 @@ abuse-report-broken-suggestions-theme =
     for å få en funksjonell feil løst på er å kontakte temautvikleren.
     <a data-l10n-name="support-link">Besøk temaets nettsted</a> for å få informasjon om utvikleren.
 
-abuse-report-policy-reason = Hatefullt, voldelig eller ulovlig innhold
-
 abuse-report-policy-reason-v2 = Den inneholder hatefullt, voldelig eller ulovlig innhold
 abuse-report-policy-suggestions =
     Merknad: Opphavsrett- og varemerkerproblemer rapporteres på en annen måte.
     <a data-l10n-name="report-infringement-link">Bruk disse instruksjonene</a> for å
     rapportere problemet.
-
-abuse-report-unwanted-reason = Ville aldri ha utvidelsen og klarer ikke å bli kvitt den
 
 abuse-report-unwanted-reason-v2 = Jeg har aldri ønsket den og jeg vet ikke hvordan jeg kan bli kvitt den
 abuse-report-unwanted-example = Eksempel: Et program installerte den uten min tillatelse

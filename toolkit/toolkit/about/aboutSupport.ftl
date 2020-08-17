@@ -4,6 +4,7 @@
 
 page-title = Feilsøking
 page-subtitle = Denne siden inneholder teknisk informasjon som kan være nyttig når du forsøker å løse et problem. Besøk også <a data-l10n-name="support-link">brukerstøttenettstedet</a> for å få svar på ofte stilte spørsmål om { -brand-short-name }.
+
 crashes-title = Krasjrapporter
 crashes-id = Rapport-ID
 crashes-send-date = Sendt
@@ -104,8 +105,6 @@ graphics-desktop-environment = Skrivebordsmiljø
 place-database-title = Plasser-database
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifiser integritet
-js-title = JavaScript
-js-incremental-gc = Inkrementell GC
 a11y-title = Tilgjengelighet
 a11y-activated = Aktivert
 a11y-force-disabled = Forhindre tilgjengelighet
@@ -125,6 +124,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argument
 safe-mode-title = Prøv sikker modus
 restart-in-safe-mode-label = Start på nytt uten utvidelser …
+
 clear-startup-cache-title = Prøv å tømme oppstartshurtiglageret
 clear-startup-cache-label = Tøm oppstartshurtiglageret…
 startup-cache-dialog-title = Tøm oppstartshurtiglageret
@@ -135,7 +135,6 @@ restart-button-label = Start på nytt
 
 audio-backend = Lydgrensesnitt
 max-audio-channels = Maks kanaler
-channel-layout = Foretrukket kanaloppsett
 sample-rate = Foretrukket samplingshastighet
 roundtrip-latency = Tur-/retur-forsinkelse (standardavvik)
 media-title = Medier
@@ -188,6 +187,7 @@ report-crash-for-days =
         [one] Krasjrapporter den siste { $days } dag
        *[other] Krasjrapporter de siste { $days } dagene
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -195,6 +195,7 @@ crashes-time-minutes =
         [one] { $minutes } minutt siden
        *[other] { $minutes } minutter siden
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -202,6 +203,7 @@ crashes-time-hours =
         [one] { $hours } time siden
        *[other] { $hours } timer siden
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -209,6 +211,7 @@ crashes-time-days =
         [one] { $days } dag siden
        *[other] { $days } dager siden
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -216,6 +219,7 @@ pending-reports =
         [one] Alle krasjrapporter (inkludert { $reports } krasjrapport som venter behandling i tidsrommet)
        *[other] Alle krasjrapporter (inkludert { $reports } krasjrapport som venter behandling i tidsrommet)
     }
+
 raw-data-copied = Rådata kopiert til utklippstavlen
 text-copied = Tekst kopiert til utklippstavlen
 
@@ -228,9 +232,11 @@ blocked-mismatched-version = Blokkert for din versjon av grafikkdriver, ubalanse
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokkert av grafikkdriveren. Prøv å oppdatere grafikkdriveren til versjon { $driverVersion } eller nyere.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parametere
+
 compositing = Kompositt
 hardware-h264 = Hardware H264 dekoding
 main-thread-no-omtc = hovedtråd, ingen OMTC
@@ -245,6 +251,7 @@ virtual-monitor-disp = Virtuell bildeskjermvisning
 
 found = Funnet
 missing = Mangler
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Beskrivelse
@@ -268,21 +275,25 @@ webgl2-version = WebGL 2 driverversjon
 webgl2-driver-extensions = WebGL 2 driverutvidelse
 webgl2-extensions = WebGL 2 utvidelse
 blocklisted-bug = Svartelistet på grunn av kjente problemer
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = feil { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blokkert på grunn av kjente problemer: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Svartelistet; feilkode { $failureCode }
+
 d3d11layers-crash-guard = D3D11-kompositør
 d3d11video-crash-guard = D3D11-videodekoder
-d3d9video-crash-buard = D3D9-videodekoder
 d3d9video-crash-guard = D3D9-videodekoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX-videodekoder
+
 reset-on-next-restart = Tilbakestill ved neste omstart
 gpu-process-kill-button = Avslutt GPU-prosess
 gpu-device-reset = Enhetstilbakestilling
@@ -292,8 +303,10 @@ content-uses-tiling = Bruker Tiling (innhold)
 off-main-thread-paint-enabled = Opptegning utenfor hovedtråd aktivert
 off-main-thread-paint-worker-count = Opptegning utenfor hovedtråd workerantall
 target-frame-rate = Mål for framerate
+
 min-lib-versions = Forventet minimumsversjon
 loaded-lib-versions = Versjon i bruk
+
 has-seccomp-bpf = Seccomp-BPF (systemkall-filtrering)
 has-seccomp-tsync = Seccomp trådsynkronisering
 has-user-namespaces = Brukernavnerom
@@ -306,15 +319,18 @@ sandbox-proc-type-content = innhold
 sandbox-proc-type-file = filinnhold
 sandbox-proc-type-media-plugin = programtillegg for medier
 sandbox-proc-type-data-decoder = datadekoder
+
 startup-cache-title = Oppstartshurtiglager
 startup-cache-disk-cache-path = Sti for diskhurtiglager
 startup-cache-ignore-disk-cache = Ignorer diskhurtiglager
 startup-cache-found-disk-cache-on-init = Fant diskhurtiglager på Init
 startup-cache-wrote-to-disk-cache = Skrev til diskhurtiglager
+
 launcher-process-status-0 = Aktivert
 launcher-process-status-1 = Deaktivert på grunn av feil
 launcher-process-status-2 = Tvunget deaktivert
 launcher-process-status-unknown = Ukjent status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -327,6 +343,7 @@ multi-process-status-6 = Avslått av ustøttet tekstinput
 multi-process-status-7 = Avslått av utvidelser
 multi-process-status-8 = Tvunget deaktivert
 multi-process-status-unknown = Ukjent status
+
 async-pan-zoom = Asynkron pan/zoom
 apz-none = ingen
 wheel-enabled = hjulinput påslått
