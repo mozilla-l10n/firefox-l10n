@@ -50,6 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Eksperimente { -brand-short-name }
+category-experimental =
+    .tooltiptext = Eksperimente { -brand-short-name }
+pane-experimental-subtitle = Vazhdoni me Kujdes
+pane-experimental-search-results-header = Eksperimente { -brand-short-name }: Vazhdoni me Kujdes
+pane-experimental-description = Ndryshimi i parapëlqimeve për formësim të mëtejshëm mund të ketë ndikim në funksionimin dhe sigurinë e { -brand-short-name }-it.
 help-button-label = Asistencë { -brand-short-name }-i
 addons-button-label = Zgjerime & Tema
 focus-search =
@@ -82,6 +88,9 @@ extension-controlled-homepage-override = Faqen tuaj hyrëse e kontrollon një zg
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Faqen tuaj Skedë e Re e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Këtë rregullim e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Këtë rregullim e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
@@ -499,7 +508,6 @@ home-prefs-topsites-description = Sajtet që vizitoni më tepër
 
 home-prefs-recommended-by-header =
     .label = Rekomanduar nga { $provider }
-home-prefs-recommended-by-description = Lëndë e bukur nga anembanë internetit, personalizuar për ju
 home-prefs-recommended-by-description-update = Lëndë e jashtëzakonshme nga anembanë intereti, nën përkujdesjen e { $provider }
 
 ##
@@ -563,7 +571,6 @@ search-show-suggestions-above-history-option =
     .label = Shfaq te përfundimet në shtyllën e adresave sugjerime kërkimi përpara se historik shfletimi
 search-show-suggestions-private-windows =
     .label = Shfaq sugjerime kërkimesh në Dritare Private
-suggestions-addressbar-settings = Ndryshoni parapëlqime për historik shfletimesh, faqerojtës, dhe sugjerime skedash
 suggestions-addressbar-settings-generic = Ndryshoni parapëlqime për sugjerimet të tjera shtylle adresash
 search-suggestions-cant-show = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 search-one-click-header = Motorë kërkimesh me një klikim
@@ -799,10 +806,25 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Përdor fjalëkalim të përgjithshëm
     .accesskey = o
+forms-primary-pw-use =
+    .label = Përdorni një Fjalëkalim të Përgjithshëm
+    .accesskey = P
+forms-primary-pw-learn-more-link = Mësoni më tepër
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
     .accesskey = F
 forms-master-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalëkalim të Përgjithshëm jo të zbrazët.
+forms-primary-pw-change =
+    .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
+    .accesskey = N
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Njohur dikur si Fjalëkalim Kryesor
+forms-primary-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalëkalim të Përgjithshëm jo të zbrazët.
 forms-master-pw-fips-desc = Ndryshimi i Fjalëkalimit Dështoi
 
 ## OS Authentication dialog
@@ -814,6 +836,13 @@ master-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim t�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = të krijojë një Fjalëkalim të Përgjithshëm
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = të krijojë një Fjalëkalim të Përgjithshëm
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -1161,6 +1190,18 @@ space-alert-under-5gb-ok-button =
     .label = OK, e mora vesh
     .accesskey = O
 space-alert-under-5gb-message = Po mbaron hapësira e diskut për { -brand-short-name }. Lënda e sajtit mund të mos shfaqet si duhet. Vizitoni “Mësoni Më Tepër” që të optimizoni përdorimin tuaj të diskut oër shfletim më të mirë.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Mënyra Vetëm-HTTPS
+httpsonly-description = HTTPS-ja furnizon një lidhje të sigurt, të fshehtëzuar, mes { -brand-short-name }-it dhe sajtit që vizitoni. Shumica e sajteve e mbulojnë përdorimin e HTTPS-së, dhe nëse është aktivizuar mënyrë Vetëm-HTTPS, atëherë { -brand-short-name }-i do t’i kalojë krejt lidhjet nën mënyrën HTTPS.
+httpsonly-learn-more = Mësoni më tepër
+httpsonly-radio-enabled =
+    .label = Aktivizoje Mënyrën Vetëm-HTTPS në krejt dritaret
+httpsonly-radio-enabled-pbm =
+    .label = Aktivizoje Mënyrën Vetëm-HTTPS vetëm në dritare private
+httpsonly-radio-disabled =
+    .label = Mos e aktivizo Mënyrën Vetëm-HTTPS
 
 ## The following strings are used in the Download section of settings
 
