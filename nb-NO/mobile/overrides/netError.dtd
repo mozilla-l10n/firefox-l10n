@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Det foerspurte dokumentet er ikke tilgjengelig i &brandShortName; sitt hurtiglager.</p><ul><li>Av sikkerhetshensyn henter ikke &brandShortName; automatisk inn sensitive dokumenter på nytt.</li><li>Trykk Prøv igjen for å hente inn dokumentet fra nettsiden på nytt.</li></ul>">
 
 <!ENTITY netOffline.title "Frakoblet modus">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakt eieren av nettstedet og informer om problemet.</li> </ul>">

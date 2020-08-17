@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Lim inn uten formatering">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Lim inn som">
-<!ENTITY pasteAs.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Finn …">
-<!ENTITY findReplaceCmd.label "Finn og erstatt …">
-<!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Kontroller staving">
-<!ENTITY checkSpellingCmd2.accesskey "K">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Sett inn">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Brødtekst">
 <!ENTITY bodyTextCmd.accesskey "B">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Avanserte egenskaper">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Justering">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Blokkjustert">
 <!ENTITY alignJustify.accesskey "B">
 <!ENTITY alignJustify.tooltip "Blokkjuster">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Lag">
-<!ENTITY layerSendToBack.tooltip "Send til bakgrunn">
-<!ENTITY layerBringToFront.tooltip "Send til forgrunn">
 
 <!ENTITY increaseIndent.label "Øk innrykk">
 <!ENTITY increaseIndent.accesskey "Ø">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Tabellegenskaper …">
 <!ENTITY tableProperties.accesskey "T">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menylinje">
-<!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
-<!ENTITY cutToolbarCmd.tooltip "Klipp ut">
-<!ENTITY copyToolbarCmd.tooltip "Kopier">
-<!ENTITY pasteToolbarCmd.tooltip "Lim inn">
-<!ENTITY printToolbarCmd.label "Skriv ut">
-<!ENTITY printToolbarCmd.tooltip "Skriv ut denne siden">
-<!ENTITY findToolbarCmd.label "Søk">
-<!ENTITY findToolbarCmd.tooltip "Finn tekst på siden">
-<!ENTITY spellToolbarCmd.label "Stavekontroll">
-<!ENTITY spellToolbarCmd.tooltip "Stavekontroller merket område eller hele siden">
-
 <!ENTITY imageToolbarCmd.label "Bilde">
 <!ENTITY imageToolbarCmd.tooltip "Sett inn nytt bilde eller rediger det valgte bildets egenskaper">
 <!ENTITY hruleToolbarCmd.label "Horisontal linje">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Sett inn nytt navngitt anker eller rediger valgt ankers egenskaper">
 <!ENTITY TextColorButton.tooltip "Velg tekstfarge">
 <!ENTITY BackgroundColorButton.tooltip "Velg bakgrunnsfarge">
-<!ENTITY throbber.tooltip2 "Gå til hjemmesiden til &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Velg uthevingsfarge for tekst">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Velg skriftstørrelse">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Midtstill tekst">
 <!ENTITY alignRightButton.tooltip "Juster tekst langs høyre marg">
 <!ENTITY alignJustifyButton.tooltip "Juster tekst etter venstre og høyre marg">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Velg">
-<!ENTITY structSelect.accesskey     "V">
-<!ENTITY structRemoveTag.label      "Fjern tagg">
-<!ENTITY structRemoveTag.accesskey  "F">
-<!ENTITY structChangeTag.label      "Endre tagg">
-<!ENTITY structChangeTag.accesskey  "E">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Sett inn">

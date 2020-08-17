@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikoner ved siden av teksten">
 <!ENTITY useSmallIcons.label      "Bruk små ikoner">
 <!ENTITY restoreDefaultSet.label  "Gjenopprett standardsett">
-<!ENTITY addNewToolbar.label      "Legg til ny verktøylinje">
-<!ENTITY showTitlebar.label       "Vis tittellinje">
-<!ENTITY extraDragSpace.label     "Legg til dra-og-slipp-område">
 <!ENTITY showTitlebar2.label      "Tittellinje">
 <!ENTITY extraDragSpace2.label    "Dra-og-slipp-område">
 <!ENTITY saveChanges.label        "Ferdig">

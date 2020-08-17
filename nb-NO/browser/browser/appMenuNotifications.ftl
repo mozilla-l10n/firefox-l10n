@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Administrer utvidelsene dine ved å klikke 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillat at denne utvidelsen kjøres i private vindu
     .accesskey = a
-appmenu-addon-private-browsing =
-    .label = Endring av hvordan utvidelser virker i private vindu
-    .buttonlabel = Behandle utvidelser
-    .buttonaccesskey = h
-    .secondarybuttonlabel = Ok, jeg forstår
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Eventuelle nye utvidelser du legger til { -brand-shorter-name } vil ikke fungere i private vinuder med mindre du tillater dette i innstillingene.
-appmenu-addon-private-browsing-learn-more = Les om hvordan du behandler utvidelsesinnstillinger.
     
 appmenu-new-tab-controlled =
     .label = Din ny fane-side har blitt endret.
