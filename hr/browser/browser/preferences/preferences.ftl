@@ -35,7 +35,7 @@ category-general =
 pane-home-title = Početna stranica
 category-home =
     .tooltiptext = { pane-home-title }
-pane-search-title = Traži
+pane-search-title = Pretraga
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = Privatnost i sigurnost
@@ -105,7 +105,7 @@ extension-controlled-enable = Za aktiviranje dodatak idi na <img data-l10n-name=
 
 ## Preferences UI Search Results
 
-search-results-header = Rezultati pretrage
+search-results-header = Rezultati pretraživanja
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
@@ -419,7 +419,7 @@ browsing-use-cursor-navigation =
     .label = Uvijek koristi tipke pokazivača za navigaciju unutar stranica
     .accesskey = c
 browsing-search-on-start-typing =
-    .label = Traženje teksta već prilikom upisivanja
+    .label = Traži tekst već prilikom upisivanja
     .accesskey = k
 browsing-picture-in-picture-toggle-enabled =
     .label = Aktiviraj video kontrole za slika-u-slici
@@ -484,7 +484,7 @@ choose-bookmark =
 home-prefs-content-header = Firefox početni sadržaj
 home-prefs-content-description = Odaberi sadržaj koji želiš na početnoj stranici Firefoxa.
 home-prefs-search-header =
-    .label = Web pretraživanje
+    .label = Web pretraga
 home-prefs-topsites-header =
     .label = Najbolje stranice
 home-prefs-topsites-description = Stranice koje najviše posjećujete
@@ -528,24 +528,24 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Traka za pretragu
+search-bar-header = Traka za pretraživanje
 search-bar-hidden =
     .label = Koristi adresnu traku za pretraživanje i navigaciju
 search-bar-shown =
-    .label = Dodaj traku za pretragu u alatnu traku
+    .label = Dodaj traku za pretraživanje u alatnu traku
 search-engine-default-header = Standardna tražilica
 search-engine-default-desc-2 = Ovo je standardna tražilica u adresnoj traci i traci za pretraživanje. Možeš je promijeniti u bilo koje vrijeme.
 search-engine-default-private-desc-2 = Odaberi jednu drugu standardnu tražilicu samo za privatne prozore
 search-separate-default-engine =
     .label = Koristi ovu tražilicu u privatnim prozorima
     .accesskey = K
-search-suggestions-header = Prijedlozi za pretragu
+search-suggestions-header = Prijedlozi za pretraživanje
 search-suggestions-desc = Odaberi način prikaza prijedloga tražilica.
 search-suggestions-option =
-    .label = Prikaži prijedloge pretraživanja
+    .label = Prikaži prijedloge za pretraživanje
     .accesskey = P
 search-show-suggestions-url-bar-option =
-    .label = Prikaži prijedloge pretrage u rezultatima adresne trake
+    .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -553,9 +553,10 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Prikaži prijedloge pretrage u rezultatima adresne trake prije povijesti pregledavanja
+    .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake prije povijesti pregledavanja
 search-show-suggestions-private-windows =
     .label = Prikaži prijedloge za pretraživanje u privatnim prozorima
+suggestions-addressbar-settings-generic = Promijeni postavke za ostale prijedloge u adresnoj traci
 search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u lokacijskoj traci, jer je { -brand-short-name } podešen, da ne pamti povijest.
 search-one-click-header = Tražilice jednim klikom
 search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti ispod adresne trake i trake pretraživanja kad počneš upisivati pojmove.
