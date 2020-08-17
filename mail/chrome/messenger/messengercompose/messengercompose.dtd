@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Rehacer">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -90,10 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Panel del archivo adjunto">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Buscar…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -248,23 +239,12 @@
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "De:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Otros tipos de campos de direcciones">
 <!ENTITY fromAddr2.label "De">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Para:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Cco:">
-<!ENTITY replyAddr.label "Responder a:">
-<!ENTITY newsgroupsAddr.label "Grupo de noticias:">
-<!ENTITY followupAddr.label "Seguimiento a:">
-<!ENTITY subject.label "Asunto:">
 <!ENTITY toAddr2.label "Para">
 <!ENTITY ccAddr2.label "Cc">
 <!ENTITY bccAddr2.label "Cco">
@@ -273,14 +253,6 @@
 <!ENTITY followupAddr2.label "Seguimiento a">
 <!ENTITY subject2.label "Asunto">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "m">
-<!ENTITY attachmentBucketHeader.tooltip "Panel del archivo adjunto">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ocultar panel del archivo adjunto">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

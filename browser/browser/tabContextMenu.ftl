@@ -53,12 +53,12 @@ move-to-end =
 move-to-new-window =
     .label = Mover a una nueva ventana
     .accesskey = v
-undo-close-tab =
-    .label = Deshacer el cierre de la última pestaña
-    .accesskey = h
 tab-context-close-multiple-tabs =
     .label = Cerrar varias pestañas
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

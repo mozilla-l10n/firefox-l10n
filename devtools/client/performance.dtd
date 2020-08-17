@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "El nombre y la ubicación de la fuente de la función muestreada.">
 <!ENTITY performanceUI.table.totalAlloc               "Total de las asignaciones del muestreo">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "El total del número de asignaciones muestreadas en esta ubicación.">
-<!ENTITY performanceUI.table.selfAlloc                "Asignaciones muestreadas propias">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "El número de asignaciones de objetos muestreados en esta ubicación.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

@@ -21,6 +21,9 @@ change-password-reenter = Nueva contraseña (confirmar):
 reset-password-window =
     .title = Restablecer la contraseña maestra
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Restablecer
 reset-password-text = Si restableces tu contraseña maestra, se borrarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?

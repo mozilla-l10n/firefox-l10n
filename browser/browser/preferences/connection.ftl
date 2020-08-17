@@ -35,12 +35,7 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Puerto
     .accesskey = P
-connection-proxy-http-share =
-    .label = Usar el mismo proxy globalmente
-    .accesskey = g
 
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = También usa este proxy para FTP y HTTPS
     .accesskey = s
