@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Nombor Siri
 
 fips-nonempty-password-required = Mod FIPS memerlukan anda memiliki set Kata laluan Induk untuk setiap peranti sekuriti. Sila tetapkan kata laluan sebelum cuba membolehkan mod FIPS.
+
 unable-to-toggle-fips = Tidak boleh untuk menukarkan mod FIPS untuk sekuriti peranti. Ini disyorkan kepada anda untuk dan mulakan semula aplikasi ini.
 load-pk11-module-file-picker-title = Pilih pemacu peranti PKCS#11 untuk dimuat
 

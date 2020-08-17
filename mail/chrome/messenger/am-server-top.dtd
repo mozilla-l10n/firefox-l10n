@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "mesej">
 <!ENTITY alwaysAuthenticate.label "Sentiasa minta pengesahan semasa menyambung ke pelayan ini">
 <!ENTITY alwaysAuthenticate.accesskey "s">
-<!ENTITY newsrcFilePath.label "fail newsrc:">
-<!ENTITY newsrcPicker.label "Pilih Fail newsrc">
 <!ENTITY abbreviate.label "Papar nama kumpulan berita dalam anak tetingkap Folder Mel sebagai:">
 <!ENTITY abbreviateOn.label "Nama penuh (sebagai contoh, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nama singkatan (Sebagai contoh, 'n.p.m .mail-news')">
 <!ENTITY advancedButton.label "Lanjutan…">
 <!ENTITY advancedButton.accesskey "j">
 <!ENTITY serverDefaultCharset2.label "Pengekodan Teks Piawai:">
-<!ENTITY localPath.label "Direktori lokal:">
 <!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
 <!ENTITY browseFolder.label "Cari…">
 <!ENTITY browseFolder.accesskey "C">

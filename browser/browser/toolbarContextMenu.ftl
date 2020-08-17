@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Pilih Semua Tab
     .accesskey = P
-toolbar-context-menu-undo-close-tab =
-    .label = Batal Tutup Tab
-    .accesskey = B
 
 toolbar-context-menu-manage-extension =
     .label = Urus Ekstensi

@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Edit">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Batal">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "B">
 <!ENTITY redoCmd.label            "Ulang">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "U">
-<!ENTITY cutCmd.label            "Potong">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Salin">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "S">
-<!ENTITY pasteCmd.label            "Tampal">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "T">
 <!ENTITY deleteCmd.label          "Buang">
 <!ENTITY deleteCmd.accesskey        "B">
-<!ENTITY selectAllCmd.label          "Pilih Semua">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "S">
 <!ENTITY preferencesCmd2.label "Pilihan">
 <!ENTITY preferencesCmd2.accesskey "P">
 <!ENTITY preferencesCmdUnix.label       "Keutamaan">

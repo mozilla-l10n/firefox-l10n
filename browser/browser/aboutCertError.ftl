@@ -93,7 +93,6 @@ proxyResolveFailure-title = Tidak dapat menemui pelayan proksi
 redirectLoop-title = Halaman tidak diarahkan semula dengan betul
 unknownSocketType-title = Respon tidak dijangka daripada pelayan
 nssFailure2-title = Gagal Disambung Dengan Selamat
-cspBlocked-title = Disekat oleh Polisi Keselamatan Kandungan
 corruptedContentError-title = Ralat Kandungan Rosak
 remoteXUL-title = XUL jauh
 sslv3Used-title = Tidak dapat Disambung dengan Selamat

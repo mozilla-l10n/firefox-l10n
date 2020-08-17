@@ -14,6 +14,7 @@ pw-erased-ok = Anda telah menghapuskan Kata Laluan Induk anda.  { pw-empty-warn
 pw-not-wanted = Amaran! Anda membuat keputusan untuk tidak menggunakan Kata laluan Induk. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata laluan Induk bukan-kosong.
+
 pw-change-success-title = Kata laluan Berjaya Ditukar
 pw-change-failed-title = Kata laluan Gagal Ditukar
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Tukar Katalaluan Induk
+
 set-password-old-password = Kata laluan semasa:
 set-password-new-password = Masukkan kata laluan baru:
 set-password-reenter-password = Masukkan semula kata laluan:
@@ -31,6 +33,7 @@ master-password-warning = Sila pastikan anda ingat Kata laluan Induk yang anda t
 
 remove-password =
     .title = Buang Kata laluan Induk
+
 remove-info =
     .value = Anda mesti masukkan kata laluan semasa anda untuk meneruskannya:
 remove-warning1 = Kata laluan Induk anda digunakan untuk melindungi maklumat sensitif contohnya kata laluan laman.

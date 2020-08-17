@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Nama dan sumber lokasi fungsi yang menjadi sampel.">
 <!ENTITY performanceUI.table.totalAlloc               "Jumlah Peruntukan Disampel">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Bilangan peruntukan sampel Objek di lokasi ini dan di penerima.">
-<!ENTITY performanceUI.table.selfAlloc                "Jumlah Peruntukan Sendiri">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Bilangan peruntukan sampel Objek di lokasi ini.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

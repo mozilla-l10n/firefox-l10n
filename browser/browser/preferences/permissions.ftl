@@ -70,11 +70,6 @@ permissions-invalid-uri-label = Sila masukkan nama hos yang sah
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Pengecualian - Sekatan Kandungan
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Anda telah menyahdayakan sekatan kandungan dalam laman web ini.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Anda boleh tentukan laman web yang diizinkan memasang add-ons. Taip alamat laman yang tepat untuk anda izinkan dan kemudian klik Izinkan.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Pengecualian - Automain
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Anda boleh tentukan laman web yang sentiasa atau tidak diizinkan automain media dengan suara. Taip alamat laman web yang anda mahu uruskan dan kemudian klik Sekat atau Izinkan.
 
 ## Site Permissions - Autoplay
 

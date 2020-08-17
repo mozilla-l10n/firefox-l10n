@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkib">
 <!ENTITY hdrArchiveButton1.tooltip "Arkib mesej ini">
-<!ENTITY hdrOpenConversationButton1.label "Perbualan">
-<!ENTITY hdrOpenConversationButton1.tooltip "Papar perbualan mesej ini">
 <!ENTITY hdrSmartReplyButton1.label "Balasan Bijak">
 <!ENTITY hdrReplyButton1.label "Balas">
 <!ENTITY hdrReplyButton2.tooltip "Balas kepada pengirim mesej ini">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Balas kepada kenalan dalam senarai mel">
 <!ENTITY hdrFollowupButton1.label "Susulan">
 <!ENTITY hdrFollowupButton1.tooltip "Siar susulan kepada kumpulan berita ini">
-<!ENTITY hdrMenuForwardButton.label "Kirim Semula Sebagai">
 <!ENTITY hdrForwardButton1.label "Kirim semula">
 <!ENTITY hdrForwardButton1.tooltip "Kirim semula mesej ini">
 <!ENTITY hdrJunkButton1.label "Mel Remeh">
