@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Modìfica">
-<!ENTITY editMenu.accesskey        "M">
-<!ENTITY undoCmd.label             "Iscontza">
-
-<!ENTITY undoCmd.accesskey         "I">
-<!ENTITY redoCmd.label             "Torra a fàghere">
-
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "Sega">
-
-<!ENTITY cutCmd.accesskey          "S">
-<!ENTITY copyCmd.label             "Còpia">
-
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "Incolla">
-
-<!ENTITY pasteCmd.accesskey        "I">
-<!ENTITY deleteCmd.label           "Cantzella">
-<!ENTITY deleteCmd.accesskey       "C">
-<!ENTITY selectAllCmd.label        "Seletziona totu">
-
-<!ENTITY selectAllCmd.accesskey    "S">
-
 
 
 

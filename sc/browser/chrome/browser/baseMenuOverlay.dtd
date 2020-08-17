@@ -2,22 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.label     "Impicòchia">
-<!ENTITY bringAllToFront.label    "Lea in primu pranu">
-<!ENTITY zoomWindow.label         "Ismànnia">
-<!ENTITY windowMenu.label         "Ventana">
-
-<!ENTITY helpMenu.label           "Agiudu"> 
-<!ENTITY helpMenu.accesskey       "A"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Agiudu"> 
-<!ENTITY helpMenuWin.accesskey    "A">
-
 <!ENTITY aboutProduct2.label      "Informatziones de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "I">
-<!ENTITY productHelp2.label       "Agiudu de &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "A">
 
 
 

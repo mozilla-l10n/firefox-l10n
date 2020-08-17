@@ -7,15 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigatzione privada)">
-
 <!ENTITY appmenu.tooltip                     "Aberi menù">
 <!ENTITY navbarOverflow.label                "Àteros istrumentos...">
 
@@ -28,28 +19,16 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "Apica ischeda">
-<!ENTITY  pinTab.accesskey                   "A">
 <!ENTITY  unpinTab.label                     "Boga s'ischeda">
-<!ENTITY  unpinTab.accesskey                 "B">
-<!ENTITY  sendPageToDevice.label             "Imbia pàgina a su dispositivu">
-<!ENTITY  sendPageToDevice.accesskey         "d">
-<!ENTITY  sendLinkToDevice.label             "Imbia ligàmene a su dispositivu">
-<!ENTITY  sendLinkToDevice.accesskey         "d">
 
 
 
 
 <!ENTITY tabCmd.label "Ischeda noa">
-<!ENTITY tabCmd.accesskey "n">
-<!ENTITY tabCmd.commandkey "n">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Aberi un'archìviu...">
-<!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.commandkey "a">
-<!ENTITY printSetupCmd.label "Cunfiguratzione de pàgina...">
-<!ENTITY printSetupCmd.accesskey "z">
 
 
 
@@ -60,7 +39,6 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barra de menù">
 <!ENTITY menubarCmd.accesskey "B">
-<!ENTITY navbarCmd.label "Barra de navigatzione">
 <!ENTITY personalbarCmd.label "Barra de signa-libros">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementos de sa barra de signa-libros">
@@ -71,35 +49,16 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY pageInfoCmd.label "Informatziones de sa pàgina">
-<!ENTITY pageInfoCmd.accesskey "I">
-
-
-
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 
 
 
 <!ENTITY fullScreenCmd.label "Mannària prena">
-<!ENTITY fullScreenCmd.accesskey "M">
-<!ENTITY fullScreenCmd.macCommandKey "m">
-<!ENTITY showAllTabsCmd.label "Ammustra totu sas ischedas">
-<!ENTITY showAllTabsCmd.accesskey "A">
 
 
 
 
-<!ENTITY fxaUnverified.label "Verìfica su contu tuo">
-
-
-<!ENTITY fullScreenMinimize.tooltip "Impicòchia">
-<!ENTITY fullScreenRestore.tooltip "Ripristina">
-<!ENTITY fullScreenClose.tooltip "Serra">
-<!ENTITY fullScreenAutohide.label "Cua barras">
-<!ENTITY fullScreenAutohide.accesskey "C">
-<!ENTITY fullScreenExit.label "Essi dae sa Mannària prena">
-<!ENTITY fullScreenExit.accesskey "M">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -115,8 +74,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY exitDOMFullscreen.button "Essi dae sa mannària prena (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Essi dae sa mannària prena (esc)">
-<!ENTITY leaveDOMFullScreen.label "Essi dae sa mannària prena">
-<!ENTITY leaveDOMFullScreen.accesskey "m">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
@@ -127,41 +84,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY closeWindow.label "Serra sa ventana">
-<!ENTITY closeWindow.accesskey "v">
-
-<!ENTITY bookmarksMenu.label "Signa-libros">
-<!ENTITY bookmarksMenu.accesskey "S">
-<!ENTITY bookmarkThisPageCmd.label "Pone custa pàgina in sos signa-libros">
-<!ENTITY editThisBookmarkCmd.label "Modìfica custu signa-libru">
-
-
-
-
-<!ENTITY addCurPagesCmd.label "Pone totu sas ischedas in sos signa-libros">
 
 <!ENTITY showAllBookmarks2.label "Ammustra totu sos signa-libros">
 <!ENTITY recentBookmarks.label "Postu de reghente in sos signa-libros">
-<!ENTITY otherBookmarksCmd.label "Àteros signa-libros">
-<!ENTITY mobileBookmarksCmd.label "Signa-libros mòbiles">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ammustra àteros signa-libros">
-
-<!ENTITY backCmd.label                "In segus">
-<!ENTITY backButton.tooltip           "Bae a sa pàgina de primu">
-<!ENTITY forwardCmd.label             "In antis">
-<!ENTITY forwardButton.tooltip        "Bae a sa pàgina in antis">
-
-
-<!ENTITY reloadCmd.label              "Agiorna">
-<!ENTITY stopCmd.label                "Firma">
 
 
 <!ENTITY printButton.label            "Imprenta">
 <!ENTITY printButton.tooltip          "Imprenta custa pàgina">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Visualiza informatziones de su situ">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Aberi pannellu de messàgios">
 
 
 
@@ -172,21 +103,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Borta custa pàgina">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Manìgia sa tradutzione de sa pàgina">
-
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "As blocadu sa càmera pro custu situ.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "As blocadu su micròfonu pro custu situ.">
-
-
-
-
-
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Ammustra sa cronologia">
 
 <!-- Toolbar items -->
 
@@ -211,19 +127,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "a">
-
 
 <!ENTITY historyButton.label            "Cronologia">
 
 
-<!ENTITY toolsMenu.label              "Istrumentos">
-<!ENTITY toolsMenu.accesskey          "I">
-
-
 
 <!ENTITY downloads.label              "Iscarrigamentos">
-<!ENTITY downloads.accesskey          "I">
 
 
 
@@ -231,71 +140,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY webDeveloperMenu.label       "Isvilupadore web">
-<!ENTITY webDeveloperMenu.accesskey   "w">
 
-
-
-<!ENTITY fileMenu.label         "Archìviu">
-<!ENTITY fileMenu.accesskey       "A">
 
 
 <!ENTITY newNavigatorCmd.label        "Ventana noa">
 
-<!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Ventana privada noa">
-<!ENTITY newPrivateWindow.accesskey "V">
 
 
 <!ENTITY editMenu.label         "Modìfica">
-<!ENTITY editMenu.accesskey       "M">
-<!ENTITY undoCmd.label            "Iscontza">
 
-<!ENTITY undoCmd.accesskey          "I">
-<!ENTITY redoCmd.label            "Torra a fàghere">
-
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "Sega">
-
-<!ENTITY cutCmd.accesskey         "S">
-<!ENTITY copyCmd.label            "Còpia">
-
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "Incolla">
-
-<!ENTITY pasteCmd.accesskey         "I">
-<!ENTITY deleteCmd.label          "Cantzella">
-
-<!ENTITY deleteCmd.accesskey        "C">
-<!ENTITY selectAllCmd.label         "Seletziona totu">
-
-<!ENTITY selectAllCmd.accesskey       "S">
 <!ENTITY preferencesCmd2.label       "Optziones">
-<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferèntzias">
-<!ENTITY preferencesCmdUnix.accesskey     "P">
-
-<!ENTITY clearRecentHistory.label               "Cantzella sa cronologia reghente...">
-
-
-<!ENTITY viewMenu.label         "Visualiza">
-<!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "Barras de istrumentos">
-<!ENTITY viewToolbarsMenu.accesskey     "B">
-
-
-<!ENTITY viewCustomizeToolbar.label       "Personaliza">
-<!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 
 
 <!ENTITY historyMenu.label "Cronologia">
-<!ENTITY historyMenu.accesskey "C">
 <!ENTITY historyUndoMenu.label "Ischedas serradas de reghente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas serradas de reghente">
-<!ENTITY historyRestoreLastSession.label "Ripristina sa sessione de prima">
-
-<!ENTITY showAllHistoryCmd2.label "Ammustra totu sa cronologia">
 
 
 <!ENTITY appMenuHistory.showAll.label "Ammustra totu sa cronologia">
@@ -320,7 +183,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-<!ENTITY appMenuRemoteTabs.signin.label "Identìfica·ti a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Manìgia dispositivos">
 
 
@@ -345,19 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY moreMenu.label "Àteru">
 
-<!ENTITY urlbar.placeholder2          "Chirca o inserta·nche un'indiritzu">
-
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Agiunta:">
-<!ENTITY urlbar.switchToTab.label     "Bae a s'ischeda:">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Cussìgiu:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Modìfica optziones...">
-
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Modìfica sas preferèntzias...">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -392,8 +242,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!ENTITY searchFor.label              "Chirca ">
-<!ENTITY searchWith.label             " cun:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -401,34 +249,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
-<!ENTITY search.label                 "Chirca ">
-<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 
-<!ENTITY searchWithHeader.label       "Chirca cun">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Modìfica sa cunfiguratzione de chirca">
-<!ENTITY changeSearchSettings.tooltip "Modìfica sa cunfiguratzione de chirca">
-
-<!ENTITY searchInNewTab.label         "Chirca in un'ischeda noa">
-<!ENTITY searchInNewTab.accesskey     "C">
-<!ENTITY searchSetAsDefault.label     "Sèbera su motore de chirca predefinidu">
-<!ENTITY searchSetAsDefault.accesskey "d">
-
-<!ENTITY openLinkCmdInTab.label       "Aberi ligàmene in un'ischeda noa">
-
 <!ENTITY openLinkCmdInTab.accesskey   "A">
-<!ENTITY openLinkCmd.label            "Aberi ligàmene in una ventana noa">
-<!ENTITY openLinkCmd.accesskey        "v">
-<!ENTITY openLinkInPrivateWindowCmd.label "Aberi ligàmene in una ventana privada noa">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Aberi ligàmene">
-<!ENTITY openLinkCmdInCurrent.accesskey "A">
 
 
 
@@ -442,89 +268,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPageSourceCmd.label      "Visualiza su còdighe de sa pàgina">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-
-
-<!ENTITY viewPageInfoCmd.label        "Visualiza informatziones de sa pàgina">
-<!ENTITY viewPageInfoCmd.accesskey    "i">
-
-
-<!ENTITY reloadImageCmd.label         "Torra a carrigare s'imàgine">
-<!ENTITY reloadImageCmd.accesskey     "r">
-<!ENTITY viewImageCmd.label           "Visualiza s'imàgine">
-<!ENTITY viewImageCmd.accesskey       "i">
-<!ENTITY viewImageInfoCmd.label       "Visualiza informatziones de s'imàgine">
-<!ENTITY viewImageInfoCmd.accesskey   "i">
-<!ENTITY viewImageDescCmd.label       "Visualiza sa descritzione">
-<!ENTITY viewImageDescCmd.accesskey   "d">
-<!ENTITY viewVideoCmd.label           "Visualiza vìdeu">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Visualiza s'imàgine de isfundu">
-<!ENTITY viewBGImageCmd.accesskey     "z">
-<!ENTITY setDesktopBackgroundCmd.label      "Cunfigura comente imàgine de isfundu de s'iscrivania">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Pone custa pàgina in sos signa-libros">
-<!ENTITY bookmarkThisLinkCmd.label      "Pone custu ligàmene in sos signa-libros">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
-
-
-<!ENTITY savePageCmd.label            "Sarva sa pàgina comente...">
-<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 
 
 
 
 
-<!ENTITY saveLinkCmd.label            "Sarva su ligàmene comente...">
-<!ENTITY saveLinkCmd.accesskey        "g">
-<!ENTITY saveImageCmd.label           "Sarva s'imàgine comente...">
-<!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "Sarva su vìdeu comente...">
-<!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Sarva s'àudio comente...">
-<!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Imbia s'imàgine...">
-<!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Imbia su vìdeu...">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Imbia s'àudio...">
-<!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Ativa custu plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Cua custu plugin">
-<!ENTITY hidePluginCmd.accesskey      "C">
-<!ENTITY copyLinkCmd.label            "Còpia su tretu de su ligàmene">
-<!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Còpia su tretu de s'imàgine">
-<!ENTITY copyImageCmd.accesskey       "ò">
-<!ENTITY copyImageContentsCmd.label   "Còpia s'imàgine">
-<!ENTITY copyImageContentsCmd.accesskey  "i">
-<!ENTITY copyVideoURLCmd.label        "Còpia su tretu de su vìdeu">
-<!ENTITY copyVideoURLCmd.accesskey    "ò">
-<!ENTITY copyAudioURLCmd.label        "Còpia su tretu de s'àudio">
-<!ENTITY copyAudioURLCmd.accesskey    "ò">
-<!ENTITY copyEmailCmd.label           "Còpia s'indiritzu">
-<!ENTITY copyEmailCmd.accesskey       "C">
-
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
-<!ENTITY mediaPlay.label             "Reprodue">
-<!ENTITY mediaPlay.accesskey         "R">
-
-
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "A sa muda">
-<!ENTITY mediaMute.accesskey         "m">
 
 
 
@@ -549,10 +302,6 @@ items are mutually exclusive. -->
 
 
 
-<!ENTITY videoFullScreen.label       "Mannària prena">
-<!ENTITY videoFullScreen.accesskey   "M">
-
-
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -564,18 +313,6 @@ fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
-
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-
-
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-
-
-<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 
 
@@ -616,24 +353,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY findOnCmd.commandkey "m">
-
-
-
-
-
-
-
-
-<!ENTITY editBookmark.done.label                     "Fatu">
-
-
-
-
-
-
-
-
 <!-- Strings for connection state warnings. -->
 
 
@@ -652,21 +371,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY identity.learnMore "Nde chèrgio ischire de prus">
-
-
-
-
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
-
-<!ENTITY syncTabsMenu3.label     "Ischedas sincronizadas">
-
-<!ENTITY syncedTabs.sidebar.label              "Ischedas sincronizadas">
 
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -685,13 +392,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
-
-
-
-
-
-
-<!ENTITY syncToolbarButton.label      "Sync">
 
 
 

@@ -42,6 +42,7 @@ no = Nono
 ## not found.
 
 gpu-description = Descritzione
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
