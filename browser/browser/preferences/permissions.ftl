@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Please enter a valid hostname
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Exceptions - Content Blocking
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = You have disabled content blocking on these websites.
-
 permissions-exceptions-etp-window =
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = You can specify which websites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Exceptions - Autoplay
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = You can specify which websites are always or never allowed to autoplay media with sound. Type the address of the site you want to manage and then click Block or Allow.
 
 ## Site Permissions - Autoplay
 

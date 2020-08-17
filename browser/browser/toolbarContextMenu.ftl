@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Select All Tabs
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Undo Close Tab
-    .accesskey = U
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
