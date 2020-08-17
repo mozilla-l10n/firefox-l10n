@@ -63,12 +63,6 @@
 <!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como una precaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos sensibles.</li><li>Aprieta el botón de volver a intentar para volver a solicitar el documento desde el sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>
-  <li>Vuelve a intentarlo. &brandShortName; intentará abrir una conexión y recargar la página.
-    <button id='wifi'>Habilitar Wi-Fi</button>
-  </li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul>

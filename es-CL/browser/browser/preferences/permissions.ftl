@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Por favor, introduce un nombre de servidor váli
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Excepciones - Bloqueo de contenido
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Has desactivado el bloqueo de contenido en estos sitios web.
-
 permissions-exceptions-etp-window =
     .title = Excepciones para la protección de seguimiento mejorada
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Puedes especificar qué sitios web pueden instalar complementos. Escribe la dirección exacta del sitio que deseas permitir y luego haz clic en Permitir.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Excepciones - Reproducción automática
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Puedes especificar qué sitios tienen permitido o prohibido reproducir automáticamente contenido multimedia con sonido. Ingresa la dirección exacta del sitio que quieras administrar y después haz clic en Bloquear o Permitir.
 
 ## Site Permissions - Autoplay
 

@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Guardar como…
     .accesskey = e
-media-preview =
-    .value = Vista previa de medios:
 
 perm-tab =
     .label = Permisos
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Sí, cookies
 security-site-data-no = No
 
 image-size-unknown = Desconocido
-not-set-verified-by = No especificado
 page-info-not-specified =
     .value = No especificado
 not-set-alternative-text = No especificado
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Modo de compatibilidad
 general-strict-mode =
     .value = Modo de cumplimiento de estándares
-security-no-owner = Este sitio web no ha suministrado información del propietario.
 page-info-security-no-owner =
     .value = Este sitio web no ha suministrado información del propietario.
 media-select-folder = Selecciona una carpeta donde guardar las imágenes

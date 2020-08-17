@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Elegir archivo…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
-<!ENTITY cmd.deleteDomainData.label     "Olvidarse de este sitio">
-<!ENTITY cmd.deleteDomainData.accesskey "O">
-
-<!ENTITY cmd.open.label                  "Abrir">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Abrir en una nueva ventana">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Abrir en una nueva ventana privada">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Abrir en una nueva pestaña">
-<!ENTITY cmd.open_tab.accesskey          "A">
-<!ENTITY cmd.open_all_in_tabs.label      "Abrir todo en pestañas">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Propiedades">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Ordenar por nombre">
-<!ENTITY cmd.sortby_name.accesskey          "O">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nuevo marcador…">
-<!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_folder.label              "Nueva carpeta…">
-<!ENTITY cmd.new_folder.accesskey          "N">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Nuevo separador">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Nombre">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Ubicación">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Contador de visitas">
 <!ENTITY col.dateadded.label     "Añadido">
 <!ENTITY col.lastmodified.label  "Última modificación">
-
-<!ENTITY historySearch.placeholder  "Buscar historial">
-<!ENTITY bookmarksSearch.placeholder  "Buscar marcadores">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Selecciona un elemento para ver y editar sus propiedades">
 
-<!ENTITY view.label               "Ver">
-<!ENTITY view.accesskey           "r">
-<!ENTITY byDate.label             "Por fecha">
-<!ENTITY byDate.accesskey         "f">
-<!ENTITY bySite.label             "Por sitio">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Por el más visitado">
-<!ENTITY byMostVisited.accesskey  "v">
-<!ENTITY byLastVisited.label      "Por el último visitado">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Por fecha y sitio">
-<!ENTITY byDayAndSite.accesskey   "t">
