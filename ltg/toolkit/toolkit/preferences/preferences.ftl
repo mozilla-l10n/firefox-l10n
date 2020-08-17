@@ -14,6 +14,7 @@ pw-erased-ok = Jius izdziesot sovu golvonū paroli. { pw-empty-warning }
 pw-not-wanted = Breidynuojums! Jius izliemot naizmantuot golvonū paroli. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Jius itūbreid asot FIPS režymā. FIPS napīļauj tukšu golvonū paroli.
+
 pw-change-success-title = Parole sekmeigi nūmaineita
 pw-change-failed-title = Naizadeve nūmaineit paroli
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Maineit golvonū paroli
+
 set-password-old-password = Pošreizejuo parole:
 set-password-new-password = Īvodit jaunu paroli:
 set-password-reenter-password = Vēļreiz īvodit paroli:
@@ -31,6 +33,7 @@ master-password-warning = Lyudzu, atguodojit ite īvadeitū golvonū paroli. Nui
 
 remove-password =
     .title = Nūjimt golvonū paroli
+
 remove-info =
     .value = Kab turpynuotu, juoīvoda pošreizejuo parole:
 remove-warning1 = Jiusu golvonuo parole aizsorgoj svareigu informaceju, pīmāram, vītņu paroles.

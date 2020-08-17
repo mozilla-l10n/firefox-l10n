@@ -107,7 +107,6 @@ proxyResolveFailure-title = Navar atrast storpnīkserveri
 redirectLoop-title = Lopa natīk korekti puoradreseita
 unknownSocketType-title = Nagaideita atbiļde nu servera
 nssFailure2-title = Drūsais savīnuojums naizadeve
-cspBlocked-title = Blokej satura drūseibys politika
 corruptedContentError-title = Būjuota satura klaida
 remoteXUL-title = Attuolynuots XUL
 sslv3Used-title = Naizadeve drūsais pīsasliegt

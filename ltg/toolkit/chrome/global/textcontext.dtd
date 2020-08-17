@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Izgrīzt">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopēt">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Īleimeit">
-<!ENTITY pasteCmd.accesskey "Ī">
-<!ENTITY undoCmd.label "Atsaukt">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY selectAllCmd.label "Īzeimeit vysu">
-<!ENTITY selectAllCmd.accesskey "v">
-<!ENTITY deleteCmd.label "Dzēst">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "Pīvīnuot vuordneicai">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Atceļt vuordneicys pīvīnuošonu">

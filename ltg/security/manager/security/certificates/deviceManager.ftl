@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Serejis numurs
 
 fips-nonempty-password-required = FIPS režyms pīprosa, ka kotrai drūseibys īrīcei ir īstateita golvonuo parole. Pyrms īslēgt FIPS režymu, lyudzu, īstotit paroli.
+
 unable-to-toggle-fips = Navar puorslēgt FIPS režymu drūseibys īrīcei. Īsokom aiztaiseit i puorstarteit programu.
 load-pk11-module-file-picker-title = Izavielit īluodiejamū PKCS#11 īreici
 

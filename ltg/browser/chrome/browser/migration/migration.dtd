@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importeit īstatiejumus, gruomotzeimes, viesturi, paroles i cytus datus nu:">
 <!ENTITY importFromUnix.label           "Importeit īstatiejumus, gruomotzeimes, viesturi, paroles i cytus datus nu:">
-<!ENTITY importFromBookmarks.label      "Importeit gruomotzeimes nu:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

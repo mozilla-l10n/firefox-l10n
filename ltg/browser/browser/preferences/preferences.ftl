@@ -7,13 +7,6 @@ do-not-track-learn-more = Uzzynojit vairuok
 do-not-track-option-always =
     .label = Vīnmār
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Īstatiejumi
-           *[other] Īstatiejumi
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Īstatiejumi
@@ -404,10 +397,6 @@ update-application-use-service =
     .label = Instaleit atjaunynuojumus fonā
     .accesskey = f
 
-update-enable-search-update =
-    .label = Automatiski atjaunynuot meklietuojus
-    .accesskey = e
-
 ## General Section - Performance
 
 performance-title = Veiktspieja
@@ -533,7 +522,6 @@ home-prefs-topsites-description = Vaira apmaklātōs lopys
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } īsaceitōs
-home-prefs-recommended-by-description = Tev dalāgōts saturs nu vysa interneta
 ##
 
 
@@ -576,7 +564,6 @@ search-bar-shown =
     .label = Pīvīnuot mekliešonys jūslu reikjūslai
 
 search-engine-default-header = Nūkluseitais mekleituojs
-search-engine-default-desc = Choose the default search engine to use in the address bar and search bar.
 
 search-suggestions-option =
     .label = Provide search suggestions
@@ -625,8 +612,6 @@ search-keyword-warning-bookmark = Jius izavieliejatīs atslāgi vuordu, kū jau 
 
 ## Containers Section
 
-containers-back-link = « Īt atpakaļ
-
 containers-header = Skreines cilnes
 containers-add-button =
     .label = Pīvīnōt jaunu skreini
@@ -646,14 +631,6 @@ containers-remove-button =
 sync-signedout-caption = Take Your Web With You
 sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 
-sync-signedout-account-title = Pīsasliedzit ar { -fxaccount-brand-name }
-sync-signedout-account-create = Nav konta? Tū var lobuot
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = Pīsasliegt…
-    .accesskey = P
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -672,10 +649,6 @@ sync-mobile-promo = Lejupīluodeit Firefox <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Maineit profila attālu
 
-sync-disconnect =
-    .label = Atsaslēgt…
-    .accesskey = t
-
 sync-manage-account = Puorvaļdeit kontu
     .accesskey = a
 
@@ -693,9 +666,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Pīsasliegt
     .accesskey = P
-
-sync-signedin-settings-header = Sync īstatiejumi
-sync-signedin-settings-desc = Izavieleit, kū sinhronizeit īreicī, izmontojūt iz { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -717,11 +687,6 @@ sync-engine-tabs =
     .label = Attaiseituos cilnes
     .tooltiptext = Saroksts ar tū, kas attaisiets vysōs sinhronizietojōs īreicēs
     .accesskey = C
-
-sync-engine-logins =
-    .label = Logins
-    .tooltiptext = Saglobōtī lītōtōjvōrdi un paroles
-    .accesskey = L
 
 sync-engine-addresses =
     .label = Adresi
@@ -763,10 +728,6 @@ sync-device-name-save =
     .label = Saglobuot
     .accesskey = v
 
-sync-tos-link = Lītuošonys nūsacejumi
-
-sync-fxa-privacy-notice = Privatuma pīzeime
-
 ## Privacy Section
 
 privacy-header = Puorlūka privatums
@@ -794,6 +755,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = Itūbreid jius asot FIPS režymā. FIPS napīļauj tukšu golvonū paroli.
+
 forms-master-pw-fips-desc = Paroles maiņa naizadeve
 
 ## OS Authentication dialog
@@ -902,8 +864,6 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Satura bloķiešona
-
 content-blocking-learn-more = Vaira
 
 ## These strings are used to define the different levels of
@@ -943,10 +903,6 @@ permissions-notification-link = Uzzynojit vairuok
 permissions-notification-pause =
     .label = Narōdēt paziņojumus cikam { -brand-short-name } porzastartēs
     .accesskey = p
-
-permissions-block-autoplay-media-exceptions =
-    .label = Izjāmumi...
-    .accesskey = I
 
 permissions-block-popups =
     .label = Blokeit jaunūs lūgus
@@ -1070,6 +1026,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = L
 
 space-alert-under-5gb-message = { -brand-short-name } is running out of disk space. Website contents may not display properly. Visit “Learn More” to optimize your disk usage for better browsing experience.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

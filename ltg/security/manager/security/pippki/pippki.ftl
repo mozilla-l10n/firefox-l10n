@@ -21,6 +21,9 @@ change-password-reenter = Jaunō parole (vēļreiz):
 reset-password-window =
     .title = Atstateit golvonū paroli
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Atstateit
 reset-password-text = Nui atstateisit golvonū paroli, tiks aizamierst vysys saglobuotuos šķārsteikla i e-posta paroles, formu dati, personeigī sertifikati i privatuos atslāgi.  Voi asot puorlīcynuots, ka vālotīs atstateit golvonū paroli?

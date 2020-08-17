@@ -12,7 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = Paraugi ņiuļa
 onboarding-button-label-get-started = Ar kū sōkt
 
 ## Welcome modal dialog strings
@@ -24,6 +23,13 @@ onboarding-start-browsing-button-label = Sōkt porlyukōšonu
 onboarding-cards-dismiss =
     .title = Paslēpt
     .aria-label = Paslēpt
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -55,22 +61,6 @@ onboarding-sync-form-sub-header = kab turpynōt { -sync-brand-name }
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Privātō porlyukōšona
-onboarding-private-browsing-text = Porlyukoj privāti. Privātō porlyukōšona ar satura bloķiešonu bloķej interneta izsekōtōjus.
-
-onboarding-screenshots-title = Ekranšōvīni
-onboarding-screenshots-text = Taisi, sagloboj un dolīs ar ekranšōvīnim naizejut nu { -brand-short-name }. Atlosi lopys apgobolu ci vysu lūgu. Sagloboj tūs vīglōkai pīkļuvei un kūplītōšonai.
-
-onboarding-addons-title = Papyldynōjumi
-onboarding-addons-text = Papyldynoj { -brand-short-name } ar vysaidom papyldu funkcejom, kab apmīrinōtu sovas vajadzeibas. Saleidzynoj cenas, uzzynoj laika ziņas voj maini porlyuka izskotu pec sovas gaumes.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Porlyukoj škārsteiklu mudrōk, gudrōk un drūšōk ar taidym papyldynojumim kai Ghostery, kas bloķej apniceigū reklamu.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sinhronizēt
-onboarding-fxa-text = Pīzaroksti ar { -fxaccount-brand-name } un sinhronizej grōmotzeimes, paroles un attaisi cilnes vysur, kur izmontoj { -brand-short-name }.
 
 
 ## Message strings belonging to the Return to AMO flow

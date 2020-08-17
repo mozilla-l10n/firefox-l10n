@@ -68,6 +68,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Vaicoj saglobōtūs pīejas datus? Īstoti { -sync-brand-short-name }.
+
 login-intro-description = Ja tu saglobōji sovus pīejas datus { -brand-product-name } cytā īreicē, tod itai var dabōt pi jīm pīeji ite:
 login-intro-instruction-fxa = Izveidoj voi īej sovā { -fxaccount-brand-name } uz īreices, kur saglobōti tovi pīejas dati
 login-intro-instruction-fxa-settings = Porzalīcynoj, ka esi īstatiejs aktivu īrokstu "Lītōtōjvōrdi" { -sync-brand-short-name } īstatejumūs
@@ -104,6 +105,9 @@ login-item-time-used = Lītots pādejū reizi: { DATETIME($timeUsed, day: "numer
 ## Master Password notification
 
 master-password-notification-message = Lyudzu, īvodi sovu golvanū paroli, kab radzēt saglobōtūs pīejas datus
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Pīsazaceit
     .accesskey = P
@@ -148,4 +152,6 @@ about-logins-error-message-default = Raugūt saglobōt paroli, nūtykuse klaida.
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

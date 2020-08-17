@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinhronizeituos cilnes
 synced-tabs-sidebar-noclients-subtitle = Grybot redzeit cilnes nu cytom sovom īreičom?
-synced-tabs-sidebar-notsignedin = Pīraksteitīs, kab radzāti ite cilnes nu itom īreičom.
 synced-tabs-sidebar-unverified = Tovam kontam jōbyun apstyprynōtam.
 synced-tabs-sidebar-notabs = No open tabs
 synced-tabs-sidebar-openprefs = Attaiseit { -sync-brand-short-name } īstatiejumus

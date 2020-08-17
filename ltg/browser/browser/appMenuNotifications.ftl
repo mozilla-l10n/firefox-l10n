@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Prvoldi sovus paplašinojumus damīdzūt <i
 appmenu-addon-post-install-incognito-checkbox =
     .label = Atļaut itam paplašinojumam pasaist privatūs lūgus
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Izmaiņas paplašinojumim privatajūs lūgūs
-    .buttonlabel = Porvaļdēt paplašinojumus
-    .buttonaccesskey = P
-    .secondarybuttonlabel = Skaidrs, saprotu
-    .secondarybuttonaccesskey = S
-appmenu-addon-private-browsing-message = Kaskurī jaunī paplašinōjumi, kuri davīnōti { -brand-shorter-name } nastrōdōs Privātajūs lūgūs, cikam tys nabyus atļauts īstatejumūs.
-appmenu-addon-private-browsing-learn-more = Uzzynoj, kai porvaļdēt paplašinōjumus
     
 appmenu-new-tab-controlled =
     .label = Tova jaunō cilne ir izmaineita.

@@ -35,9 +35,9 @@ reopen-in-container =
 move-to-new-window =
     .label = Puorīt iz jaunu lūgu
     .accesskey = P
-undo-close-tab =
-    .label = Atsaukt cilnes aiztaiseišonu
-    .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Aiztaiseit cilni
     .accesskey = c

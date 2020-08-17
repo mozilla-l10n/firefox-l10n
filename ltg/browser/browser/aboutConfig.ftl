@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Te dzeivoj pūķi!
-about-config-warning-text = Itū īstatejumu izmaineišona var pazamynōt lītōtnes stabilitāti, drūšeibu un ōtrdarbeibu. Turpynoj viņ tod, ja saprūti, kū dori.
-about-config-warning-checkbox = Atgōdynōt ari iz prīkšdīnom!
-about-config-warning-button = Es pīkreitu riskam
-
-about-config2-title = Paplašinōta īstateišona
-
-about-config-search-input =
-    .placeholder = Mekleit
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Turpynōt pīzasorgut
@@ -32,13 +21,6 @@ about-config-page-title = Paplašinōti īstatejumi
 about-config-search-input1 =
     .placeholder = Mekleit īstatiejuma nūsaukumu
 about-config-show-all = Parōdeit vysus
-
-about-config-pref-add = Pīvīnōt
-about-config-pref-toggle = Porslēgt
-about-config-pref-edit = Redigeit
-about-config-pref-save = Saglobōt
-about-config-pref-reset = Atstateit
-about-config-pref-delete = Dzēst
 
 about-config-pref-add-button =
     .title = Pīvīnōt

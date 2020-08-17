@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Minimizeit">
-<!ENTITY bringAllToFront.label    "Nest vysu iz prīkšplanu">
-<!ENTITY zoomWindow.label         "Mārūgs">
-<!ENTITY windowMenu.label         "Lūgs">
-
-<!ENTITY helpMenu.label           "Paleidzeiba"> 
-<!ENTITY helpMenu.accesskey       "P"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Paleidzeiba"> 
-<!ENTITY helpMenuWin.accesskey    "P">
-
 <!ENTITY aboutProduct2.label      "Par &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "a">
-<!ENTITY productHelp2.label       "&brandShorterName; paleidzeiba">
-<!ENTITY productHelp2.accesskey   "l">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Tausteņu kombinacejis">
-<!ENTITY helpKeyboardShortcuts.accesskey "k">
-
-<!ENTITY helpSafeMode.label       "Puorstarteit ar deaktiveitim papyldynuojumym…">
-<!ENTITY helpSafeMode.accesskey   "r">
-<!ENTITY helpSafeMode.stop.label       "Puorstarteit ar deaktiveitim papyldynuojumym">
-<!ENTITY helpSafeMode.stop.accesskey   "r">
-
-<!ENTITY helpTroubleshootingInfo.label      "Problemu nūvieršonys informaceja">
-<!ENTITY helpTroubleshootingInfo.accesskey  "P">
-
-<!ENTITY helpFeedbackPage.label      "Nūsyuteit atsauksmi…">
-<!ENTITY helpFeedbackPage.accesskey  "s">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Īstatiejumi…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servisi">
 
 <!ENTITY hideThisAppCmdMac2.label       "Paslēpt &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Paslēpt cytus">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Paruodeit vysus">
 

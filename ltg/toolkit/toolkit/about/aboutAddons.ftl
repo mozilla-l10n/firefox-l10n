@@ -10,9 +10,6 @@ addons-page-title = Papyldynuojumu puorvaļdnīks
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Īluodej…
-
 list-empty-installed =
     .value = Jiusim nav uzinstaleits nivīns itei tipa atjaunynuojums
 
@@ -28,22 +25,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = Uzzinit vairuok par papyldynuojumym
 
-install-addon-from-file =
-    .label = Instaleit nu faila…
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = Vysu papyldynuojumu reiki
-
 show-unsigned-extensions-button =
     .label = Dažus papyldynuojums navar puorbaudeit
 
 show-all-extensions-button =
     .label = Ruodeit vysus papyldynuojums
-
-debug-addons =
-    .label = Atklaiduot papyldynuojums
-    .accesskey = d
 
 cmd-show-details =
     .label = Ruodeit papyldus informaceju
@@ -81,12 +67,6 @@ cmd-contribute =
     .label = Pabaļsteit
     .accesskey = P
     .tooltiptext = Pabaļsteit itei papyldynuojuma izstruodi
-
-discover-title = Kas ir papyldynuojumi?
-
-discover-description = Papyldynuojumi ir mozys programenis, kas ļauj jiusim papyldynuot { -brand-short-name } ar papyldus funkcionalitati voi stilu. Izmieginojit laiku ītaupūšū suonu jūslu, laika ziņu programeņu voi pīlāguotu { -brand-short-name } izskotu, kab padareitu sovu { -brand-short-name } unikalu.
-
-discover-footer = Kod asot savīnuoti ar šķārsteiklu, itymā lūgā byus radzami popularuokī i lobuokī papyldynuojumi, kas pīejami jiusu izmieginuošonai.
 
 detail-version =
     .label = Verseja
@@ -169,14 +149,6 @@ legacy-extensions =
 
 legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
 
-extensions-view-recent-updates =
-    .name = Nasenī atjaunynuojumi
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Pīejamī atjaunynuojumi
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Papyldynuojumi
 addon-category-extension-title =
     .title = Papyldynuojumi
@@ -201,29 +173,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Drūsais režyms ir deaktiviejs vysus papyldynuojumu.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Aktivēt
-    .tooltiptext = Aktivēt papyldynuojumu savītuojameibys puorbaudi
-
-extensions-warning-update-security-label =
-    .value = Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Aktivēt
-    .tooltiptext = Aktivēt papyldynuojumu drūseibys puorbaudi
-
 extensions-warning-safe-mode = Drūsais režyms ir deaktiviejs vysus papyldynuojumu.
 extensions-warning-check-compatibility = Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.
 extensions-warning-check-compatibility-button = Aktivēt
@@ -235,14 +184,6 @@ extensions-warning-update-security-button = Aktivēt
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Mekleit atjaunynuojumus
-    .accesskey = M
-
-extensions-updates-view-updates =
-    .label = Apsavērt nasenūs atjaunynuojumus
-    .accesskey = n
-
 addon-updates-check-for-updates = Mekleit atjaunynuojumus
     .accesskey = M
 addon-updates-view-updates = Apsavērt nasenūs atjaunynuojumus
@@ -250,10 +191,6 @@ addon-updates-view-updates = Apsavērt nasenūs atjaunynuojumus
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Atjaunynuot papyldynuojums automatiski
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Atjaunynuot papyldynuojums automatiski
     .accesskey = A
@@ -264,36 +201,12 @@ addon-updates-update-addons-automatically = Atjaunynuot papyldynuojums automatis
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Atjaunynuot vysus papyldynuojums automatiski
-    .accesskey = l
-
-extensions-updates-reset-updates-to-manual =
-    .label = Atjaunynuot vysus papyldynuojums manuali
-    .accesskey = m
-
 addon-updates-reset-updates-to-automatic = Atjaunynuot vysus papyldynuojums automatiski
     .accesskey = l
 addon-updates-reset-updates-to-manual = Atjaunynuot vysus papyldynuojums manuali
     .accesskey = m
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Atjaunynoj papyldynuojums
-extensions-updates-installed =
-    .value = Jiusu papyldynuojumi ir atjaunynuoti.
-extensions-updates-downloaded =
-    .value = Jiusu papyldynuojumu atjaunynuojumi ir lejupīluodeiti.
-extensions-updates-restart =
-    .label = Puorstartejit, kab pabeigtu atjaunynuošonu
-extensions-updates-none-found =
-    .value = Atjaunynuojumi nav atrosti
-extensions-updates-manual-updates-found =
-    .label = Apsavērt pīejamūs atjaunynuojumus
-extensions-updates-update-selected =
-    .label = Instaleit atjaunynuojumus
-    .tooltiptext = Instaleit vysus itymā sarokstā pīejamūs atjaunynuojumus
 
 addon-updates-updating = Atjaunynoj papyldynuojums
 addon-updates-installed = Jiusu papyldynuojumi ir atjaunynuoti.

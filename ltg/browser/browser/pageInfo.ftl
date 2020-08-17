@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Saglobuot kai...
     .accesskey = e
-media-preview =
-    .value = Paraugs:
 
 perm-tab =
     .label = Atļuovis
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Jā, seikdatnes
 security-site-data-no = Nā
 
 image-size-unknown = Nazynuoms
-not-set-verified-by = Nav nūruodeits
 page-info-not-specified =
     .value = Nav nūruodeits
 not-set-alternative-text = Nav nūruodeits
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Sadereibys režyms
 general-strict-mode =
     .value = Standartu atbiļsteibys režyms
-security-no-owner = Itei sātys lopa napīduovoj informaceju par sovu eipašnīku.
 page-info-security-no-owner =
     .value = Itei sātys lopa napīduovoj informaceju par sovu eipašnīku.
 media-select-folder = Izavielit mapi, kurā saglobuot attālus

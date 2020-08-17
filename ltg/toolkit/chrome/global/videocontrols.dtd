@@ -11,19 +11,6 @@
 <!ENTITY castingButton.castingLabel "Puorraideit iz ekranu">
 <!ENTITY closedCaption.off "Izslāgts">
 
-<!ENTITY stats.media "Vide">
-<!ENTITY stats.size "Izmārs">
-<!ENTITY stats.activity "Aktivitate">
-<!ENTITY stats.activityPaused "Apturāts">
-<!ENTITY stats.activityPlaying "Atskaņoj">
-<!ENTITY stats.activityEnded "Atskaņuots">
-<!ENTITY stats.activitySeeking "(meklej)">
-<!ENTITY stats.volume "Skaļums">
-<!ENTITY stats.framesParsed "Apstruoduoti kadri">
-<!ENTITY stats.framesDecoded "Dokodeiti kadri">
-<!ENTITY stats.framesPresented "Prezenteitī kadri">
-<!ENTITY stats.framesPainted "Uzzeimeitī kadri">
-
 <!ENTITY error.aborted "Video īluode apturāta.">
 <!ENTITY error.network "Video atskaņuošona apturāta teikla kliumes dieļ.">
 <!ENTITY error.decode "Video navar atskaņuot, kam tei fails ir būjuots.">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "atskaņuotys #1 nu #2">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

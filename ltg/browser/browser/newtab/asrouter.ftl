@@ -103,3 +103,11 @@ cfr-doorhanger-pintab-animation-resume = Turpynōt
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

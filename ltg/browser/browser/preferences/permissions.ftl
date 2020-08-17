@@ -100,11 +100,6 @@ permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir at
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window2 =
-    .title = Izjāmumi - Automatiska atskanōšona
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Tu vari nūrōdēt, kurom lopom vysod atļauts voi nikod nav atļauts automatiski atskaņōt multimedejas. Īroksti precizu lopys adresi, nu kurōs gribi atļaut un damīdz Atļaut voi Aizlīgt.
-
 ## Site Permissions - Autoplay
 
 ## Site Permissions - Notifications

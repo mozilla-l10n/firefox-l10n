@@ -12,17 +12,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Navar pīsasliegt">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Pīkļuve itai adresam ir līgta">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Serveris nav atrosts">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Dīmžāl myusim naizadūd atrast itū lopu.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>If that address is correct, here are three other things you can try:</strong>
 <ul>
@@ -32,15 +26,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fails nav atrosts">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Puorbaudit, voi faila vuords ir uzraksteits pareizi i ar pareizuo leluma burtym.</li> <li>Puorsalīcinojit, ka fails nav puorvītuots, puorsaukts voi izdzāsts.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Pīeja failam tyka līgta">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Tys varātu byut aizvuokts, puorvītuots voi ari faila pīkļuves tīseibys līdz pīkļuvi tam.</li> </ul>">
-
-<!ENTITY generic.title "Sovaidi gon...">
 
 <!ENTITY generic.longDesc "<p>Kaida nazynuoma īmesla dieļ &brandShortName; navar attaiseit itū lopu.</p>">
 
@@ -52,18 +40,10 @@
 <!ENTITY openPortalLoginPage.label2 "Attaiseit teikla pīsasliegšonuos lopu">
 
 <!ENTITY malformedURI.pageTitle "Nadereiga adress">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Likās itei adress nav korekta.">
-
-<!ENTITY netInterrupt.title "Savīnuojums tyka puortraukts">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokumenta dereiguma termeņš beidzīs">
-
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;’s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
-
-<!ENTITY netOffline.title "Nasaistis režyms">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -71,43 +51,23 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Satura kodiejumā klaida">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Lyudzu, informejit sātys lopys eipašnīkus par itū problemu.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Nadrūss faila tips">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Lyudzu, informejit sātys lopys eipašnīkus par itū problemu.</li> </ul>">
 
-<!ENTITY netReset.title "Savīnuojums tyka puorrauts">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Savīnuojumam īsastuojās nūilgums">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Adress natyka saprosta">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Īspiejams, jiusim juoīinstelej kaida cyta programa, kab apstruoduotu itei tipa adresi.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Storpnīkserveris (proxy) napījem savīnuojumus">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Puorbaudit storpnīkservera (proxy) īstatiejumus.</li> <li>Sasazynojit ar sovu teikla administratoru, kab puorlīcynuotūs, ka storpnīkserveris struodoj korekti.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Navar atrast storpnīkserveri">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Puorbaudit storpnīkservera (proxy) īstatiejumus.</li> <li>Puorsalīcinojit, ka datoram ir struodojūšs teikla savīnuojums.</li> <li>Nui jiusu datu aizsardzeibai tīk izmontuots guņsmyurs, puorsalīcinojit, ka &brandShortName; ir atļauts pīkliut šķārsteiklam.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Lopa natīk korekti puoradreseita">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Itū problemu reizem var atrysynuot, deaktivejūt seikdatnes voi napījemūt tuos nu ituos lopys.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Nagaideita atbiļde nu servera">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Puorsalīcinojit, ka jiusim ir instaleits Personiskuos drūseibys puorvaļdnīks.</li> <li>Īmesls var byut ari nastandarta servera konfiguraceja.</li> </ul>">
-
-<!ENTITY nssFailure2.title "Drūsais savīnuojums naizadeve">
 
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
@@ -115,8 +75,6 @@
   <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Breidynojums: Potencials drūšeibys risks">
 
 <!ENTITY certerror.introPara2 "&brandShortName; atroda potencialu drūšeibys apdraudejumu un naataisēja <span class='hostname'/>. Ka tu īsi un itū lopu, uzbruceji var nūzagt informaceji, kai paroles, e-postus voi bankas kartes datus.">
 
@@ -131,11 +89,7 @@
 
 <!ENTITY sharedLongDesc "<ul> <li>Lopa var byut eislaiceigi napīejama voi puoruok aizjimta. Raugit vēļreiz piec puors mynotom.</li> <li>Nui navarot attaiseit nivīnu lopu, puorbaudit sova datora teikla savīnuojumu.</li> <li>Nui jiusu datu aizsardzeibai tīk izmontuots guņsmyurs, puorsalīcinojit, ka &brandShortName; ir atļauts pīkliut šķārsteiklam.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Blokej satura drūseibys politika">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Būjuota satura klaida">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
@@ -145,11 +99,7 @@
 <!ENTITY errorReporting.automatic2 "Report errors like this to help Mozilla identify and block malicious sites">
 <!ENTITY errorReporting.learnMore "Uzzynojit vairuok…">
 
-<!ENTITY remoteXUL.title "Attuolynuots XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lyudzu sasazynojit ar sātys lopys eipašnīkim i informejit jūs par itū problemu.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Naizadeve drūsais pīsasliegt">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -159,15 +109,11 @@
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> izmontoj drūšeibys politiku, kū sauc HTTP Strict Transport Security (HSTS), kas nozeimoj, ka &brandShortName; var lopai pīzaslēgt viņ drūšajā režimā. Tu navari pīvīnōt izjāmumu, kab apsavērt itū lopu.">
 <!ENTITY certerror.copyToClipboard.label "Kopēt tekstu atmiņā">
 
-<!ENTITY inadequateSecurityError.title "Savīnuojums nav drūss">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Bloķeita lopa">
-
-<!ENTITY clockSkewError.title "Tova datora stundinīks ir napareizs">
 
 <!ENTITY clockSkewError.longDesc "Tovs dators dūmoj, ka ir <span id='wrongSystemTime_systemDate1'/>, kas naļaun &brandShortName; pīzaslēgt drūšajā savīnojumā. Kab īt iz <span class='hostname'></span>, īstoti datora stundinīku iz takušū datumu, laiku un laika jūslu un tod īlōdej nu jauna <span class='hostname'></span>.">
 

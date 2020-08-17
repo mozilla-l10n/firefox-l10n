@@ -5,10 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Privātuma aizsardzeiba
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Porīt iz sovu atskaiti par privātumu
-
 appmenuitem-customize-mode =
     .label = Pīlāgōt…
 

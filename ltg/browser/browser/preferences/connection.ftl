@@ -35,12 +35,6 @@ connection-proxy-http = HTTP storpnīkserveris
     .accesskey = x
 connection-proxy-http-port = Ports
     .accesskey = P
-connection-proxy-http-share =
-    .label = Izmantuot proxy vysim protokolym
-    .accesskey = x
-
-connection-proxy-ssl = SSL storpnīkserveris
-    .accesskey = L
 
 connection-proxy-ssl-port = Ports
     .accesskey = o

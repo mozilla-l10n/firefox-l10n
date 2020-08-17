@@ -3,73 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Īslēgt">
-<!ENTITY cmd.enableAddon.accesskey            "Ī">
-<!ENTITY cmd.disableAddon.label               "Atslēgt">
-<!ENTITY cmd.disableAddon.accesskey           "t">
-
-<!ENTITY cmd.askToActivate.label              "Vaicuot, kab aktivātu">
-<!ENTITY cmd.askToActivate.tooltip            "Vaicuot kotru reizi pyrms itei papyldynuojuma izmontuošonys">
-<!ENTITY cmd.alwaysActivate.label             "Aktivēt vīnmār">
-<!ENTITY cmd.alwaysActivate.tooltip           "Vīnmār izmantuot itū papyldynuojumu">
-<!ENTITY cmd.neverActivate.label              "Nikod naaktiveit">
-<!ENTITY cmd.neverActivate.tooltip            "Nikod naizmantuot itū papyldynuojumu">
-<!ENTITY cmd.stateMenu.tooltip                "Nūsokit, kod tiks izmontuots papyldynuojums">
-
-<!ENTITY cmd.uninstallAddon.label             "Nūjimt">
-<!ENTITY cmd.uninstallAddon.accesskey         "N">
-<!ENTITY cmd.showPreferencesWin.label         "Īstatiejumi">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Izmaineit itei papyldynuojuma īstatiejumus">
-<!ENTITY cmd.showPreferencesUnix.label        "Īstatiejumi">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Izmaineit itei papyldynuojuma īstatiejumus">
-
-<!ENTITY cmd.showReleaseNotes.label           "Paruodeit laidīņa pīzeimes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Paruodeit itei atjaunynuojuma laidīņa pīzeimes">
-<!ENTITY cmd.hideReleaseNotes.label           "Paslēpt laidīņa pīzeimes">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Paslēpt itei laidīņa pīzeimes">
-<!ENTITY cmd.findReplacement.label            "Find a Replacement">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Atceļt">
-
-
-<!ENTITY addon.details.label                  "Vairuok">
-<!ENTITY addon.details.tooltip                "Ruodeit vairuok informacejis par itū papyldynuojumu">
-<!ENTITY addon.unknownDate                    "Nazynuoms">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(atslāgts)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "atjaunynuojums">
-<!ENTITY addon.undoAction.label               "Atceļt">
-<!ENTITY addon.undoAction.tooltip             "Atceļt itū darbeibu">
-<!ENTITY addon.undoRemove.label               "Atceļt">
-<!ENTITY addon.undoRemove.tooltip             "Saglobuot itū papyldynuojumu">
-
-<!ENTITY addon.install.label                  "Instaleit">
-<!ENTITY addon.install.tooltip                "Instaleit itū papyldynuojumu">
-<!ENTITY addon.updateNow.label                "Atjaunynuot">
-<!ENTITY addon.updateNow.tooltip              "Instaleit itei papyldynuojuma atjaunynuojumu">
-<!ENTITY addon.includeUpdate.label            "Īkļaut atjaunynuojumā">
-<!ENTITY addon.updateAvailable.label          "Ir pīejams atjaunynuojums">
-<!ENTITY addon.checkingForUpdates.label       "Meklej atjaunynuojumus…">
-<!ENTITY addon.releaseNotes.label             "Laidīņa pīzeimes:">
-<!ENTITY addon.loadingReleaseNotes.label      "Īluodej…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Atlaidit, bet īluodejūt laidīņa pīzeimes nūtykusi klaida.">
-
-<!ENTITY addon.createdBy.label                "Autors: ">
-
-<!ENTITY settings.path.button.label           "Puorsavērt…">
 
 <!ENTITY setting.learnmore "Uzzynojit vairuok…">
 
