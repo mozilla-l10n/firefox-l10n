@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Այստեղ զգույշ եղեք:
-about-config-warning-text = Լրացուցիչ կարգավորումների փոփոխումը կարող է վտանգել այս ծրագրի կայունությունը, անվտանգությունը և աշխատանքի որակը: Դուք պետք է շարունակեք միայն այն դեպքում, երբ վստահ գիտեք թե ինչ էք անում:
-about-config-warning-checkbox = Խնդրում եմ կրկին զգուշացնել։
-about-config-warning-button = Ես ընդունում եմ վտանգը:
-
-about-config2-title = Ընդլայնված կազմաձևեր
-
-about-config-search-input =
-    .placeholder = Որոնում
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Շարունակեք զգուշությամբ
@@ -30,13 +19,6 @@ about-config-page-title = Ընդլայնված նախընտրություննե�
 about-config-search-input1 =
     .placeholder = Որոնել նախընտրանքի անուն
 about-config-show-all = Ցուցադրել բոլորը
-
-about-config-pref-add = Ավելացնել
-about-config-pref-toggle = Փոփոխել
-about-config-pref-edit = Խմբագրել
-about-config-pref-save = Պահպանել
-about-config-pref-reset = Վերակայել
-about-config-pref-delete = Ջնջել
 
 about-config-pref-add-button =
     .title = Ավելացնել

@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Պատկերակ գրույթի կողքին">
 <!ENTITY useSmallIcons.label      "Օգտ. փոքր պատկերներ">
 <!ENTITY restoreDefaultSet.label  "Վերականգնել լռելյայնը">
-<!ENTITY addNewToolbar.label      "Ավելացնել Նոր Գործիքագոտի">
-<!ENTITY showTitlebar.label       "Ցուցադրել վերնագրի տողը">
-<!ENTITY extraDragSpace.label     "Ավելացնել Drag Space">
 <!ENTITY showTitlebar2.label      "Անվանագոտի">
 <!ENTITY extraDragSpace2.label    "Քաշել բացատ">
 <!ENTITY saveChanges.label        "Պատրաստ է">

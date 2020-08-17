@@ -9,6 +9,7 @@ graph-week-summary =
         [one] Անցած շաբաթվա ընթացքում { -brand-short-name }-- արգելափակված { $count }-ի հետևում
        *[other] Անցած շաբաթվա ընթացքում { -brand-short-name }--արգելափակված { $count }-ի հետևումներ
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -18,63 +19,61 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> հետևումը արգելափակվել է սկսած { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }-ից
        *[other] <b>{ $count }</b> հետևումները արգելափակվել են սկսած { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }-ից
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name }-ը շարունակում է արգելափակել հետքերը անձնական Windows- ում, բայց չի պահում գրառումը, թե ինչն է արգելափակված:
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = { -brand-short-name }-ի հետագծումները այս շաբաթ արգելափակել են
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Պաշտպանության մակարդակը սահմանված է <b>Միանմուշ</b>
-    .title = Գնալ դեպի գաղտնիության կարգավորումները
-protection-report-header-details-strict = Պաշտպանության մակարդակը սահմանված է <b>Ճշգրիտ</b>
-    .title = Գնալ դեպի գաղտնիության կարգավորումները
-protection-report-header-details-custom = Պաշտպանության մակարդակը սահմանված է <b>Ընտրովի</b>
-    .title = Գնալ դեպի գաղտնիության կարգավորումները
-protection-report-page-title = Գաղտնիության պաշտպանություն
-protection-report-content-title = Գաղտնիության պաշտպանություն
-etp-card-title = Ընդլայնված Հետապնդման Պաշտպանություն
-etp-card-content = Հետևումները ձեզ հետևում են առցանց՝ ձեր զննման սովորույթների և հետաքրքրությունների վերաբերյալ տեղեկատվություն հավաքելու համար: { -brand-short-name } ֊ը արգելափակում է շատ նման հետևումներ և այլ չարամիտ գրություններ:
+
 protection-report-webpage-title = Պաշտպանության վահանակ
 protection-report-page-content-title = Պաշտպանության վահանակ
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }-ը կարող է պաշտպանել ձեր գաղտնիությունը կուլիսների հետևում՝ երբ զննարկում եք: Սա այդ պաշտպանության անհատականացված ամփոփագիրն է, ներառյալ գործիքները`ձեր առցանց անվտանգությունը վերահսկելու համար:
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name }-ը պաշտպանում է ձեր գաղտնիությունը կուլիսների հետևում՝ երբ զննարկում եք: Սա այդ պաշտպանության անհատականացված ամփոփագիրն է, ներառյալ գործիքները`ձեր առցանց անվտանգությունը վերահսկելու համար:
+
 protection-report-settings-link = Կառավարեք ձեր գաղտնիության և անվտանգության կարգավորումները
+
 etp-card-title-always = Բարելավված հետագծման պաշտպանություն. միշտ միաց. է
 etp-card-title-custom-not-blocking = Բարելավված հետագծման պաշտպանություն. ԱՆՋ.
 etp-card-content-description = { -brand-short-name }-ը ինքնաբար կանգնեցնում է ընկերություններին՝  համացանցում Ձեզ գաղտնի հետևելուց:
 protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանություններն անջատված են։Ընտրեք, թե որ թիրախն է արգելափակել՝կառավարելով ձեր { -brand-short-name } կարգավորումները։
 protection-report-manage-protections = Փոխել կարգավորումները
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Այսօր
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Գրաֆիկ, որը պարունակում է այս շաբաթվա ընթացքում խցանված յուրաքանչյուր տեսակի հետախուզողի ընդհանուր թիվը։
+
 social-tab-title = Ընդհանուր միջավայրի հետևումներ
 social-tab-contant = Սոցցանցերը հետագծումը են ձեզ այլ կայքերում, ձեր գործողությունները իմանալու համար։ Սա թույլատրում է սոցմեդիայի կազմակերպություններին իմանալ ավելին ձեր մասին ըստ նրա, թե ինչով եք  կիսվում ձեր սոցմեդիա հաշիվներով։ <a data-l10n-name="learn-more-link">Իմանալ ավելին</a>
+
 cookie-tab-title = Միջակայքի հետևող նշոցիկներ
 cookie-tab-content = Այս նշոցիկները հետևում են ձեզ՝ կայքից կայք, ձեր գործողությունների մասին տեղեկանալու համար։ Նրանք սահմանվել են կազմակերպությունների վերլուծումների և գովազդատուների կողմից։ Արգելփակելով խաչվող կայքի հետապնդող նշոցիկների նվազեցնում եք գովազդի քանակը ձեր շրջապատում։ <a data-l10n-name="learn-more-link">Իմանալ ավելին</a>
+
 tracker-tab-title = Հետագծող բովանդակություն
 tracker-tab-description = Կայքերը կարող են բեռնել արտաքին գովազդ և այլ բովանդակություն հետապնդվող կոդով։ Հետապնդվող բովանդակությանը արգելափակումը կարող է օգնել կայքերին ավելի արագ բեռնվել, բայց որոշ կոճակներ ձևեր և մուտքային դաշտեր կարող են չաշխատել։ <a data-l10n-name="learn-more-link">Իմանալ ավելին</a>
+
 fingerprinter-tab-title = Մատնահետքեր
 fingerprinter-tab-content = Մատնահետքերը հավաքում են կարգավորումներ ձեր զննարկչից և համակարգչից ձեր հատկագրից ստեղծելու համար։ Օգտագործելով այդ թվային մատնահետքերը նրանք կարող են հետապնդել ձեզ տարբեր վեբ կայքերում։ <a data-l10n-name="learn-more-link">Իմանա ավելին</a>
+
 cryptominer-tab-title = Ծպտյալ արժույթներ
 cryptominer-tab-content = Կրիպտոարժույթները օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողը հանելու համար։ Ծպտյալ արժեքների գրվածքները սպառում են ձեր մարտկոցը, դանդաղեցնում ձեր համակարգիչը և կարող են մեծացնել ձեր էներգիայի հաշիվը։ <a data-l10n-name="learn-more-link"> Իմանալ ավելին</a>
+
 protections-close-button2 =
     .aria-label = Փակել
     .title = Փակել
+  
 mobile-app-title = Արգելափակել գովազդի հետքերը ավելի շատ սարքերում
 mobile-app-card-content = Օգտագործեք բջջային զննարկիչը ներկառուցված պաշտպանությամբ `գովազդի հետևման դեմ:
 mobile-app-links = { -brand-product-name } զննարկիչը <a data-l10n-name="android-mobile-inline-link">Android</a>-ի և <a data-l10n-name="ios-mobile-inline-link">iOS</a>-ի համար
+
 lockwise-title = Այլևս երբեք չմոռանալ գաղտնաբառը
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Գաղտնաբառերի կառավարում
 lockwise-header-content = { -lockwise-brand-name } ապահով պահպանում է ձեր գաղտնաբառերը ձեր զննարկիչում:
 lockwise-header-content-logged-in = Ապահով պահեք և համաժամացրեք ձեր գաղտնաբառերը ձեր բոլոր սարքերում:
-protection-report-view-logins-button = Դիտել մուտքերը
-    .title = Անցնել պահված մուտքերին
 protection-report-save-passwords-button = Պահպանել գաղտնաբառեր
     .title = Պահպանել գաղտնաբառերը { -lockwise-brand-short-name }-ում
 protection-report-manage-passwords-button = Պահպանել գաղտնաբառեր
@@ -82,14 +81,7 @@ protection-report-manage-passwords-button = Պահպանել գաղտնաբառ�
 lockwise-mobile-app-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
 lockwise-no-logins-card-content = Ցանկացած սարքում օգտագործեք { -brand-short-name }-ով պահված գաղտնաբառերը:
 lockwise-app-links = { -lockwise-brand-name }-ը <a data-l10n-name="lockwise-android-inline-link">Android</a>-ի և <a data-l10n-name="lockwise-ios-inline-link">iOS</a>-ի համար
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Անվտանգ պահված գաղտնաբառ <a data-l10n-name="lockwise-how-it-works"> Ինչպես է այն աշխատում </a>
-       *[other] Անվտանգ պահված գաղտնաբառերը <a data-l10n-name="lockwise-how-it-works"> Ինչպես է այն աշխատում </a>
-    }
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -97,6 +89,7 @@ lockwise-scanned-text-breached-logins =
         [one] 1 գաղտնաբառ կարող է հանգեցնել տվյալների խախտման:
        *[other] { $count } գաղտնաբառեր կարող են հանգեցնել տվյալների խախտման:
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -107,30 +100,25 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Ձեր գաղտնաբառերը անվտանգ պահվել են:
     }
 lockwise-how-it-works-link = Ինչպես է այն աշխատում
+
 turn-on-sync = Միացնել { -sync-brand-short-name }
     .title = Անցնել համաժամեցման հատկություններին
-manage-connected-devices = Կառավարել սարքերը…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Կապակցված է { $count } սարքին
-       *[other] Կապակցված են { $count } սարքերին
-    }
+
 monitor-title = Փնտրել տվյալների խախտումներ
 monitor-link = Ինչպես է դա աշխատում
 monitor-header-content-no-account = Ստուգեք { -monitor-brand-name }՝իմանալու համար, թե արդյոք դուք եղել եք հայտնի տվյալների խախտման մաս, և ահազանգեր ստացեք նոր խախտումների մասին։
 monitor-header-content-signed-in = { -monitor-brand-name }-ը զգուշացնում է Ձեզ, եթե Ձեր տեղեկութիւնները բախուել են յայտնի խախտման հետ։
-monitor-sign-up = Գրանցվեք խախտումների մասին ահազանգների համար
 monitor-sign-up-link = Գրանցվեք խախտումների մասին զգուշացվելու համար
     .title = Գրանցվեք խախտումների մասին զգուշացվելու համար { -monitor-brand-name }-ում
 auto-scan = Այսօր ինքնուրույն պատկերահանվել է։
+
 monitor-emails-tooltip =
     .title = Դիտել դիտազննված էլ. փոստի հասցեները { -monitor-brand-short-name }-ում
 monitor-breaches-tooltip =
     .title = Դիտել տվյալների հայտնի խախտումները { -monitor-brand-short-name }-ում
 monitor-passwords-tooltip =
     .title = Դիտել վտանգված գաղտնաբառերը { -monitor-brand-short-name }-ում
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -139,6 +127,7 @@ info-monitored-emails =
         [one] Էլ. փոստի հասցեն վերահսկվում են
        *[other] Էլ. փոստի հասցեները վերահսկվում են
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -147,6 +136,7 @@ info-known-breaches-found =
         [one] Հայտնի տվյալների խախտումները բացահայտեցին ձեր տեղեկատվությունը
        *[other] Հայտնի տվյալների խախտումները բացահայտեցին ձեր տեղեկատվությունը
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -155,6 +145,7 @@ info-known-breaches-resolved =
         [one] Հայտնի տվյալների խախտումը նշվել է որպես լուծված
        *[other] Հայտնի տվյալների խախտումները նշվել են որպես լուծված
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -163,15 +154,7 @@ info-exposed-passwords-found =
         [one] Գաղտնաբառերը ենթարկվում են խախտումների
        *[other] Գաղտնաբառերը ենթարկվում են խախտումների
     }
-full-report-link = Տեսեք ողջ դիմումը այստեղ՝ <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Պահպանված մուտքերը կարող են ենթարկվել տվյալների խախտման: Փոխեք այս գաղտնաբառերը առցանց ավելի լավ անվտանգության համար: <a data-l10n-name="lockwise-link"> Դիտեք պահված մուտքերը </a>
-       *[other] Պահպանված մուտքերը կարող են ենթարկվել տվյալների խախտման: Փոխեք այս գաղտնաբառերը առցանց ավելի լավ անվտանգության համար: <a data-l10n-name="lockwise-link"> Դիտեք պահված մուտքերը </a>
-    }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -180,6 +163,7 @@ info-exposed-passwords-resolved =
         [one] Գաղտնաբառը ենթարկվում է չլուծված խախտումների
        *[other] Գաղտնաբառերը ենթարկվում են չլուծված խախտումների
     }
+
 monitor-no-breaches-title = Լավ նորություն:
 monitor-no-breaches-description = Դուք հայտնի խախտումներ չունեք: Եթե դա փոխվի, մենք ձեզ կտեղեկացնենք:
 monitor-view-report-link = Դիտել զեկույցը
@@ -190,6 +174,7 @@ monitor-manage-breaches-link = Կառավարել խախտումները
     .title = Կառավարեք խախտումները { -monitor-brand-short-name }-ում
 monitor-breaches-resolved-title = Լավ է: Դուք ուղղել եք բոլոր հայտնի խախտումները:
 monitor-breaches-resolved-description = Եթե ձեր էլ. փոստը երևա որևէ նոր խախտումում, մենք ձեզ կտեղեկացնենք:
+
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
@@ -198,9 +183,11 @@ monitor-partial-breaches-title =
         [one] { $numBreachesResolved }-ը՝ { $numBreaches } խախտումից նշվել է որպես ուղղված:
        *[other] { $numBreachesResolved }-ը՝ { $numBreaches } խախտումներից նշվել է որպես ուղղված:
     }
+
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }%-ը արված է
+
 monitor-partial-breaches-motivation-title-start = Հիանալի մեկնարկ:
 monitor-partial-breaches-motivation-title-middle = Շարունակիր նույն ձեւով:
 monitor-partial-breaches-motivation-title-end = Գրեթե պատրաստ է: Շարունակիր նույն ձեւով:

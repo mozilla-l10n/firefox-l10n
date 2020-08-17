@@ -7,9 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Հեռացնել { $type } դաշտը
+
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = Հեռացնել { $type } դաշտը
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -18,6 +20,7 @@ address-input-type-aria-label =
         [one] { $type } հասցեներով, օգտագործեք ձախ սլաքի ստեղնը `դրանց վրա կենտրոնանալու համար:
        *[other] { $type } { $count } հասցեներով, օգտագործեք ձախ սլաքի ստեղնը `դրանց վրա կենտրոնանալու համար:
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -25,18 +28,23 @@ pill-aria-label =
         [one] { $email }. սեղմեք Enter՝ խմբագրելու, Ջնջել՝ ջնջելու համար:
        *[other] { $email }, 1-ը { $count }-ից. սեղմեք Enter՝ խմբագրելու, Ջնջել՝ ջնջելու համար:
     }
+
 pill-action-edit =
     .label = Խմբագրել հասցեն
     .accesskey = e
+
 pill-action-move-to =
     .label = Տեղափոխել Ում
     .accesskey = T
+
 pill-action-move-cc =
     .label = Տեղափոխել Cc
     .accesskey = C
+
 pill-action-move-bcc =
     .label = Տեղափոխել Bcc
     .accesskey = B
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -46,6 +54,7 @@ attachment-bucket-count =
            *[other] { $count } կցորդներ
         }
     .accesskey = m
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -54,9 +63,11 @@ attachments-placeholder-tooltip =
             [one] { $count } կցորդ
            *[other] { $count } կցորդ
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
 button-return-receipt =
     .label = Ստացական
     .tooltiptext = Հետադարձ ստացական հայցել նամակի համար

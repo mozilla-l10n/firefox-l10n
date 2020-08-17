@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Ընտրել Ֆայլ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Մոռանալ Այս Կայքի Մասին">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "Բացել">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Բացել նոր պատուհանում">
-<!ENTITY cmd.open_window.accesskey       "ն">
-<!ENTITY cmd.open_private_window.label     "Բացել հղումը Գաղտնի Դիտարկմամբ">
-<!ENTITY cmd.open_private_window.accesskey "Դ">
-<!ENTITY cmd.open_tab.label              "Բացել նոր ներդիրում">
-<!ENTITY cmd.open_tab.accesskey          "Բ">
-<!ENTITY cmd.open_all_in_tabs.label      "Բացել Բոլորը Ներդիրներում">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Հատկությունները">
-<!ENTITY cmd.properties.accesskey  "թ">
-
-<!ENTITY cmd.sortby_name.label              "Խմբավորել ըստ անունների">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Նոր էջանիշ…">
-<!ENTITY cmd.new_bookmark.accesskey        "Ն">
-<!ENTITY cmd.new_folder.label              "Նոր թղթապանակ...">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Նոր բաժանիչ">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Անվանումը">
 <!ENTITY col.tags.label          "Կցապիտակներ">
 <!ENTITY col.url.label           "Հասցե">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Այցելումների քանակ">
 <!ENTITY col.dateadded.label     "Ավելացվել է">
 <!ENTITY col.lastmodified.label  "Վերջին փոփոխությունը">
-
-<!ENTITY historySearch.placeholder  "Որոնել պատմություն">
-<!ENTITY bookmarksSearch.placeholder  "Որոնել էջանիշեր">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները">
 
-<!ENTITY view.label               "Տեսք">
-<!ENTITY view.accesskey           "Տ">
-<!ENTITY byDate.label             "Ըստ ամսաթվի">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Ըստ կայքի">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Ըստ առավել այցերի">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Ըստ վերջին այցի">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "Ըստ ամսաթվի և կայքի">
-<!ENTITY byDayAndSite.accesskey   "t">

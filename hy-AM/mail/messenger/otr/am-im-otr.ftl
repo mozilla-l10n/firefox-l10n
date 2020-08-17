@@ -19,4 +19,6 @@ otr-requireEncryption =
     .label = Պահանջել վերաջոր գաղտնագրում՝ մեկը մյուսին զրույցներում
 otr-verifyNudge =
     .label = Միշտ հիշեցնել ինձ`ստուգել չվավերացված կոնտակը
+
 otr-notYetAvailable = Դեռևս մատչելի չէ
+

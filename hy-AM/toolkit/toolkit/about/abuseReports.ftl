@@ -8,15 +8,19 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Զեկույցել { $addon-name }֊ի համար
+
 abuse-report-title-extension = Զեկուցեք այս ընդլայնման մասին { -vendor-short-name }-ին
 abuse-report-title-theme = Զեկուցեք այս հիմնապատկերի մասին { -vendor-short-name }-ին
 abuse-report-subtitle = Ի՞նչումն է խնդիրը։
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a>-ի կողմից
+
 abuse-report-learnmore =
     Վստահ չե՞ք որ խնդիրը ընտրեք։
     <a data-l10n-name="learnmore-link">Իմանալ ավելին ընդլայնումները և հիմնապատկերները մասին զեկուցելիս</a>
+
 abuse-report-submit-description = Նկարագրեք խնդիրը (ըստ ցանկության)
 abuse-report-textarea =
     .placeholder = Եթե մենք ունենք առանձնահատկություններ մեզ համար ավելի հեշտ է խնդիրը լուծել։ Նկարագրեք ինչ եք փորձում։ Շնորհակալություն վեբը աշխտունակ պահելուն օգնելու համար։
@@ -57,22 +61,20 @@ abuse-report-messagebar-action-cancel = Չեղարկել
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Վնասում է իմ համակարգչին և տվյալներին
 abuse-report-damage-reason-v2 = Դա վնասեց իմ համակարգչը կամ իմ տվյալները
 abuse-report-damage-example = Օրինակ՝ ներածված վնասագիր կամ գողացված տվյալներ
-abuse-report-spam-reason = Ստեղծում է աղբ կամ գովազդ
+
 abuse-report-spam-reason-v2 = Այն պարունակում է աղբ կամ ներածում է անցանկալի գովազդ
 abuse-report-spam-example = Օրինակ՝ կայքերում ներածել գովազդներ
-abuse-report-settings-reason = Փոխեք իմ որոնման միջոցը, տնէջը կամ նոր ներդիրը առանց ինձ տեղեկացնելու կամ հարցնելու
+
 abuse-report-settings-reason-v2 = Այն փոխեց իմ որոնման միջոցը, տնէջը կամ նոր ներդիրը առանց ինձ տեղեկացնելու կամ հարցնելու
 abuse-report-settings-suggestions = Նախքան ընդլայնման մասին զեկույց ուղարկելը, կարող եք փորձել փոխել Ձեր կարգավորումները․
 abuse-report-settings-suggestions-search = Փոխել Ձեր լռելյայն որոնման կարգավորումները
 abuse-report-settings-suggestions-homepage = Փոխել Ձեր տնէջը և նոր ներդիրը
-abuse-report-deceptive-reason = Ձևացրեք, թե դա ինչ որ բան չէ
+
 abuse-report-deceptive-reason-v2 = Այն պնդում է, որ դա ինչ-որ բան չէ
 abuse-report-deceptive-example = Օրինակ՝ ապակողմնորոշիչ նկարագրություն և պատկեր
-abuse-report-broken-reason-extension = Չի աշխատում, կոտրում է կաքեր կամ դանդաղեցնում է { -brand-product-name }-ը
-abuse-report-broken-reason-theme = Չի աշխատում կամ կոտրում զննարկչի ցուցադրիչը
+
 abuse-report-broken-reason-extension-v2 = Չի աշխատում, կոտրում կայքեր կամ դանդաղեցնում։ { -brand-product-name }-ը
 abuse-report-broken-reason-theme-v2 = Այն չի աշխատում կամ չի ընդհատում զննարկչի ցուցադրումը
 abuse-report-broken-example = Օրինակ․ հատկությունները դանդաղ են, դժվար է օգտագործել կամ չեն աշխատում; կայքերի մասերը չեն բեռնվի կամ արտասովոր տեսք կունենան
@@ -84,13 +86,15 @@ abuse-report-broken-suggestions-theme =
     Թվում է, թե դուք սխալ եք հայտնաբերել: Բացի այստեղ զեկույց ներկայացնելուց՝ լավագույն միջոցը
     գործառության խնդրի լուծման համար, կապ հաստատելն է ընդլայնման մշակողի հետ:
     <a data-l10n-name="support-link">Այցելել ձևավորման կայքէջ</a>՝ մշակողի տեղեկությունները ստանալու համար:
-abuse-report-policy-reason = Ատելի, բռնի կամ անօրինական բովանդակություն
+
 abuse-report-policy-reason-v2 = Այն պարունակում է ապօրինի, բռնի կամ ատելի բովանդակություն:
 abuse-report-policy-suggestions =
     Նշում․Հեղինակային իրավունքի և ապրանքային նշանի խախտման պահանջները պետք է ներկայացվեն առանձին։
     <a data-l10n-name="report-infringement-link"> օգտագործեք այս հրահանգները </a>
     զեկուցել մի խնդրի մասին։
-abuse-report-unwanted-reason = Երբեք չցանկացաք այս ընդլայնումը և չկարողացաք  ձերբազատվել դրանից
+
 abuse-report-unwanted-reason-v2 = Ես երբեք դա չեմ ցանկացել և չգիտեմ, թե ինչպես ազատվել դրանից:
 abuse-report-unwanted-example = Օրինակ․Հայտը տեղադրեց առանց իմ թույլտվության
+
 abuse-report-other-reason = Այլ բան
+

@@ -21,6 +21,9 @@ change-password-reenter = Նոր գաղտնաբառ (կրկին) ՝
 reset-password-window =
     .title = Մաքրել Հիմնական գաղտնաբառը
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Վերադարձնել
 reset-password-text = Եթե մաքրեք Ձեր հիմնական գաղտնաբառը, ապա բոլոր պահպանված Վեբ և Էլ-Փոստ գաղտնաբառերը, ձեվերի տվյալները, անհատական արտոնաթղթերը, անձնական բանալիները կմոռացվեն: Համո՞զված եք, որ ցանկանում եք հիմնական գաղտնաբառը մաքրել:

@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Խմբագրել">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Հետարկել">
-<!ENTITY undoCmd.key                                    "Հ">
-<!ENTITY undoCmd.accesskey                              "Հ">
-<!ENTITY redoCmd.label                                  "Կրկնել">
-<!ENTITY redoCmd.key                                    "Ա">
-<!ENTITY redoCmd.accesskey                              "R">
-<!ENTITY cutCmd.label                                   "Կտրել">
-<!ENTITY cutCmd.key                                     "Կ">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Պատճենել">
-<!ENTITY copyCmd.key                                    "Պ">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Տեղադրել">
-<!ENTITY pasteCmd.key                                   "Տ">
-<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Ջնջել">
-<!ENTITY deleteCmd.accesskey                            "D">
 <!ENTITY deleteAbCmd.label                              "Ջնջել Հասցեագիրքը">
 <!ENTITY deleteContactCmd.label                         "Ջնջել կոնտակտը">
 <!ENTITY deleteContactsCmd.label                        "Ջնջել կոնտակտները">
 <!ENTITY deleteListCmd.label                            "Ջնջել ցանկը">
 <!ENTITY deleteListsCmd.label                           "Ջնջել ցանկերը">
 <!ENTITY deleteItemsCmd.label                           "Ջնջել">
-<!ENTITY selectAllCmd.label                             "Ընտրել բոլորը">
-<!ENTITY selectAllCmd.key                               "Ը">
 <!ENTITY searchAddressesCmd.key                         "Փ">
-<!ENTITY selectAllCmd.accesskey                         "A">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Փոխանակել Անուն/Ազգանունը">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Հատկություններ">
 <!ENTITY propertiesMenu.accesskey                       "ո">
 <!ENTITY propertiesCmd.key                              "Հ">

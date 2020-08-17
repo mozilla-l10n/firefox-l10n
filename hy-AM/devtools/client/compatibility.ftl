@@ -38,6 +38,7 @@ compatibility-issue-occurrences =
         [one] { $number } դեպք
        *[other] { $number } դեպքեր
     }
+
 compatibility-no-issues-found = Համատեղելիության խնդիրներ չեն գտնվել:
 compatibility-close-settings-button =
     .title = Փակել կարգավորումները

@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Կրկնել">
 <!ENTITY redoCmd.key "Ա">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Կտրել">
 <!ENTITY cutCmd.key "Կ">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Պատճենել">
 <!ENTITY copyCmd.key "Պ">
-<!ENTITY copyCmd.accesskey "Պ">
-<!ENTITY pasteCmd.label "Տեղադրել">
 <!ENTITY pasteCmd.key "Տ">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "ղ">
@@ -90,10 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Կցորդի փեղկ">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY selectAllCmd.key "Ը">
 <!ENTITY findBarCmd.label "Գտնել...">
 <!ENTITY findBarCmd.accesskey "Գ">
 <!ENTITY findBarCmd.key "F">
@@ -248,23 +239,12 @@
 <!ENTITY printButton.tooltip "Տպել այս նամակը">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Ումից.">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Հասցեագրման դաշտերի այլ տեսակներ">
 <!ENTITY fromAddr2.label "Ումից">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Ում.">
-<!ENTITY ccAddr.label "Cc.">
-<!ENTITY bccAddr.label "Bcc.">
-<!ENTITY replyAddr.label "Պատասխանել՝">
-<!ENTITY newsgroupsAddr.label "Լուրախումբ.">
-<!ENTITY followupAddr.label "Հետևել՝">
-<!ENTITY subject.label "Վերնագիր.">
 <!ENTITY toAddr2.label "Ում">
 <!ENTITY ccAddr2.label "Պճ">
 <!ENTITY bccAddr2.label "Ծպճ">
@@ -273,14 +253,6 @@
 <!ENTITY followupAddr2.label "Հետևել՝">
 <!ENTITY subject2.label "Վերնագիր">
 <!ENTITY subject.accesskey "Վ">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "m">
-<!ENTITY attachmentBucketHeader.tooltip "Կցորդի փեղկ">
 <!ENTITY attachmentBucketCloseButton.tooltip "Թաքցնել կցորդի փեղկը">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

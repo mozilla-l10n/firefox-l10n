@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Փակել
     .title = Նախկինում տեսած OTR մատնահետքեր
+
 finger-intro = OTR ստեղնաշարի մատնահետքեր նախորդ վերջավոր գաղտնագրված զրույցներից:
+
 finger-screenName =
     .label = Կոնտակտ
 finger-verified =
     .label = Ստուգման վիճակը
 finger-fingerprint =
     .label = Մատնահետք
+
 finger-remove =
     .label = Հեռացնել ընտրվածը
+
 finger-remove-all =
     .label = Հեռացնել բոլորը

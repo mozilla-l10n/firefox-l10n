@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Թղթապ. տեսակը.">
 
 <!ENTITY folderQuotaTab.label                    "Մեջբերում">
-<!ENTITY folderQuotaRoot.label                   "Մեջբերման հիմքը.">
 <!ENTITY folderQuotaUsage.label                  "Օգտագործումը.">
 <!ENTITY folderQuotaStatus.label                 "Վիճակ.">
 

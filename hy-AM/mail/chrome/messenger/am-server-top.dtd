@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "նամակներ">
 <!ENTITY alwaysAuthenticate.label "Սպասարկիչին կապակցելիս միշտ պահանջել իսկորոշում">
 <!ENTITY alwaysAuthenticate.accesskey "տ">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY newsrcFilePath1.label "News.rc ֆայլ.">
 <!ENTITY newsrcPicker1.label "Ընտրեք News.rc ֆայլ">
 <!ENTITY abbreviate.label "Ցուցադրել լուրախմբերը Նամակի թղթապանակում որպես՝">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Հիմնական Կոդավորում.">
-<!ENTITY localPath.label "Տեղային թղթապանակ.">
 <!ENTITY localPath1.label "Տեղային պանակ.">
 <!ENTITY localFolderPicker.label "Ընտրեք տեղային թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">

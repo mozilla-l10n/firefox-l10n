@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Անվտանգություն">
-<!ENTITY securityTab.label "Անվտանգություն">
-<!ENTITY securityHeading.label "Ուղարկելու և ստանալու համար ստորագրված կամ գաղտնագրված նամակներ, նախ պետք է որոշեք թվային ստորագրության հավաստագիրը և կոդավորված հավաստագիրը։">
-<!ENTITY encryptionGroupTitle.label "Գաղտնագրում">
-<!ENTITY encryptionChoiceLabel.label "Նամակը ուղարկելիս ծրագրային կոդավորումը.">
-<!ENTITY neverEncrypt.label "Երբեք (չօգտագործել կոդավորում)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Պարտադիր է (չի կարող ուղարկել նամակը, քանի դեռ բոլոր ստացողները չունեն հավաստագրեր)">
-<!ENTITY alwaysEncryptMessage.accesskey "դ">
-<!ENTITY encryptionCert.message "Օգտ. այս հավաստագիրը՝ այլագրելու և ապաայլագրելու համար Ձեզ ուարկված նամակները.">
-
 <!ENTITY e2eTitle.label "Վերջավոր գաղտնագրում">
-<!ENTITY e2eIntro.description "Գաղտնագրված կամ թվայնորեն ստորագրված հաղորդագրություններ ուղարկելու համար հարկավոր է կարգավորել գաղտնագրման տեխնոլոգիան ՝ OpenPGP կամ S / MIME:">
 <!ENTITY e2eLearnMore.label "">
 
 <!ENTITY e2eEnc.description "Առանց վերջավոր գաղտնագրման, հաղորդագրությունների պարունակությունը հեշտությամբ ենթարկվում է ձեր էլփոստի մատակարարին և զանգվածային վերահսկողության:">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Մաքրել">
 <!ENTITY encryption.certificate_clear.accesskey "Մ">
 <!ENTITY signingGroupTitle.label "Թվային ստորագր.">
-<!ENTITY signMessage.label "Թվային ստորագրված նամակներ (ծրագրային)">
 <!ENTITY signMessage2.label "Սկզբնադիր ավելացնել իմ թվային ստորագրությունը">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Օգտ. այս հավաստագիրը՝ նամակների թվային ստորագրման համար.">
-
-<!ENTITY certificates.label "Հավաստագրեր">
-<!ENTITY manageCerts2.label "Կառավարել վկայագրերը">
-<!ENTITY manageCerts2.accesskey "Կ">
-<!ENTITY manageDevices.label "Անվտանգության սարքեր">
-<!ENTITY manageDevices.accesskey "y">
 
 <!ENTITY signingCert2.message "Գաղտնագրման համար անձնական վկայագիր.">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Նախընտրել  OpenPGP-ին">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Կառավարել OpenPGP ստեղները">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Ընտրել վկայագիր">
