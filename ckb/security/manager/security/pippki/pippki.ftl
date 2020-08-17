@@ -6,6 +6,8 @@
 
 ## Reset Password dialog
 
+## Reset Primary Password dialog
+
 ## Downloading cert dialog
 
 ## Client Authorization Ask dialog

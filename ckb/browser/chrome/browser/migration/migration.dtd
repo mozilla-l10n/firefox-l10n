@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "هێنانی هەڵبژاردەکان، دڵخوزەکان، مێژوو، وشەی تێپەڕبوون و زانیاری زیاتر لە:">
 <!ENTITY importFromUnix.label           "هێنانی هەڵبژاردنەکان، دڵخوزەکان، مێژوو، وشەی تێپەڕبوون و زانیاری زیاتر لە:">
-<!ENTITY importFromBookmarks.label      "هێنانی دڵخوازەکان لە:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

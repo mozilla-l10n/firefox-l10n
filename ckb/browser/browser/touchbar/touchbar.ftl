@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = لە پڕاوپڕی شاشە دەرچۆ
 find = دۆزینەوە
 new-tab = بازدەری نوێ
 add-bookmark = دڵخواز زیاد بکە
-open-bookmarks-sidebar = لاتەنیشتی دڵخوازەکان بکەرەوە
 reader-view = بینینی خوێندنەوە
 # Meant to match the string displayed in an empty URL bar.
 open-location = بگەڕێ یان ناونیشان بنووسە

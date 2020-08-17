@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "نەتوانرا پەیوەندی بکا">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "ئەم ناونیشانە ڕێپێدراو نیە">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "ڕاژە نەدۆزرایەوە">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "هممم. ئێمە ناتوانین ئەو ماڵپەڕە بدۆزینەوە.">
 <!ENTITY dnsNotFound.longDesc1 "<strong>ئەگەر ناونیشانەکە ڕاستبێت، دەتوانیت شتی تر تاقی بکەیتەوە وەک:</strong>
 <ul>
   <li>کاتێکی تر هەوڵبدەرەوە.</li>
@@ -32,13 +26,6 @@
   <li>ئەگەر پەیوەندیت هەیە لە پشتی ئاگرەدیوارەوە, چێکی ئەوەبکە کە  &brandShortName; دەسەڵاتی هەیە  بچیتە ناو ئینتەرنێت.</li>
 </ul>">
 
-<!ENTITY fileNotFound.title "پەڕگە نەدۆزرایەوە">
-
-
-<!ENTITY fileAccessDenied.title "چوونەناوی پەڕگە ڕەتکرایەوە">
-
-
-<!ENTITY generic.title "ئوپس.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; ناتوانێت پەڕگە باربکات لەبەر چەند هۆکارێک.</p>">
 
@@ -48,34 +35,14 @@
 <!ENTITY openPortalLoginPage.label2 "پەڕەی چوونەناوی ڕایەڵە بکەرەوە">
 
 <!ENTITY malformedURI.pageTitle "بەستەر نەگونجاوە">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "ئهممم. ئەو ناونیشانە بە ڕاست ناچێت.">
-
-<!ENTITY netInterrupt.title "پەیوەندی جیگیر نیە">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "بەڵگەنامە بەسەرچووە">
-
-
-<!ENTITY netOffline.title "دۆخی دەرهێڵ">
-
-
-<!ENTITY contentEncodingError.title "هەڵەی کۆدکردنی ناوەڕۆک">
-
-
-<!ENTITY unsafeContentType.title "جۆری پەڕگە پارێزراو نیە">
-
-
-<!ENTITY netReset.title "پەیوەندی نوێکرایەوە">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "پەیوەندی بەسەرچوو">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "ناونیشان تێی ناگەین">
 
 
 
@@ -84,12 +51,6 @@
 
 
 
-
-
-<!ENTITY nssFailure2.title "پەیوەندی پارێزراو سەرکەوتوو نەبوو">
-
-
-<!ENTITY certerror.longpagetitle2 "ئاگاداربە: کێشەیەکی مەترسیدار لە پێشە">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user

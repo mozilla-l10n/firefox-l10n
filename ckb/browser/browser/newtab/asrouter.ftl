@@ -13,21 +13,28 @@ cfr-doorhanger-pintab-heading = ئەمە تاقیبکەرەوە: بازدەر ج
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = بۆچی من ئەمە دەبینم؟
+
 cfr-doorhanger-extension-cancel-button = ئێستا نا
     .accesskey = ۆ
+
 cfr-doorhanger-extension-ok-button = ئێستا زیادی بکە
     .accesskey = ز
 cfr-doorhanger-pintab-ok-button = ئەم بازدەرە جێگیر بکە
     .accesskey = ج
+
 cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنی پێشنیازکراوەکان
     .accesskey = ب
+
 cfr-doorhanger-extension-never-show-recommendation = ئەوەم بۆ پێشنیاز مەکە
     .accesskey = پ
+
 cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = لە لایەن { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = پێشنیازکراو
@@ -56,8 +63,10 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-pintab-step1 = <b>کرتەی ڕاست</b> بکە لەسەر ئەو بازدەرەی کە جـێگیری دەکەیت.
 cfr-doorhanger-pintab-step2 = <b>جێگیرکردنی بازدەر</b> هەڵبژێرە لە پێڕستەوە.
+
 cfr-doorhanger-pintab-animation-pause = وچان
 cfr-doorhanger-pintab-animation-resume = بەردەوامبوونەوە
+
 
 ## Firefox Accounts Message
 
@@ -78,16 +87,22 @@ cfr-protections-panel-link-text = زیاتر بزانە
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = تایبەتمەندیی نوێ:
+
 cfr-whatsnew-button =
     .label = چی نوێ هەیە
     .tooltiptext = چی نوێ هەیە
+
 cfr-whatsnew-panel-header = چی نوێ هەیە
+
 cfr-whatsnew-release-notes-link-text = سەرنجەکانی وەشان بخوێنەوە
+
 cfr-whatsnew-fx70-title = { -brand-short-name } ئێستا هەوڵی زیادتر دەدات بۆ پاراستنی زانیارییەکانت
 cfr-whatsnew-fx70-body = وەشانی تازە تایبەتمەندیی پاراستن لە جێپێ هەڵگرتن بەهێزتر دەکا و ئاسانکاری دەکات بۆ دانانی تێپەڕەوشەی پارێزراو بۆ هەموو ماڵپەڕێک.
+
 cfr-whatsnew-tracking-protect-title = خۆت بپارێزە لە جێپێ هەڵگرەکان
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } زۆر لەو جێپێ هەڵگرە کۆمەڵایەتییانە بلۆک دەکات کە چاودێری کارەکانت دەکەن لەسەر هێڵ و لەنێوان ماڵپەڕەکاندا دەیگوازنەوە.
 cfr-whatsnew-tracking-protect-link-text = ڕاپۆرت پیشان بدە
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -98,8 +113,10 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = لە { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ڕاپۆرت پیشان بدە
+
 cfr-whatsnew-lockwise-backup-title = وشەی تێپەڕبوونەکانت پاڵپشت هەڵگرە.
 cfr-whatsnew-lockwise-backup-link-text = پاڵپشتی کارا بکە
+
 cfr-whatsnew-lockwise-take-title = وشەی تێپەڕبوون لەگەڵ خۆت ببە
 cfr-whatsnew-lockwise-take-link-text = داوانامە بەدەست بهێنە
 
@@ -178,4 +195,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = وێنۆچکەی وێنە-لەناو-وێ
 
 
 ## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
 

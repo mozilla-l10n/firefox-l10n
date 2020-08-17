@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = باردەکرێت...
-
 list-empty-installed =
     .value = هیچ پێوەکراوێکت لەم جۆرە دانەمەزراندووە.
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = زیاتر بزانە دەربارەی پێوەکراوەکان
 
-install-addon-from-file =
-    .label = دامەزراندنی پێوەکراو لە پەڕگەوە...
-    .accesskey = I
-
 help-button = پشتگیری پێوەکراوە
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } هەڵبژاردەکان
        *[other] { -brand-short-name } هەڵبژاردنەکان
     }
-
-tools-menu =
-    .tooltiptext = ئامراز بۆ هەموو پێوەکراوەکان
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = هەمووی پێوەکراوەکان پیشان بدە
-
-debug-addons =
-    .label = هەڵەدۆزی پێوەکراوە
-    .accesskey = b
 
 cmd-show-details =
     .label = زانیاری زیاتر پیشان بدە
@@ -103,8 +89,6 @@ cmd-contribute =
     .label = بەشداری
     .accesskey = C
     .tooltiptext = بەشدار بە لە گەشەپێدانی حەم پێوەکراوە
-
-discover-title = پێوەکراوەکان چییە؟
 
 detail-version =
     .label = وەشان
@@ -187,18 +171,6 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = هەندێک لە پێوەکراوەکان ناچالاکە
 
-extensions-view-discopane =
-    .name = پێشنیازکراوەکان
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = دووا نوێکاری
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = نوێکاری بەردەست
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = پێشنیازکراوەکان
 addon-category-discover-title =
     .title = پێشنیازکراوەکان
@@ -226,22 +198,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = چالاک
-    .tooltiptext = چێکی گونجاندنی پێوەکراو چالاک بکە
-
-extensions-warning-update-security-enable =
-    .label = چالاک
-    .tooltiptext = چێکردنی پاراستنی نوێکاری پێوەکراو چالاک بکە
-
 extensions-warning-safe-mode = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
 extensions-warning-check-compatibility-button = چالاک
     .title = چێکردنی گونجاندنی پێوکراو چالاک بکە
@@ -251,14 +207,6 @@ extensions-warning-update-security-button = چالاک
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = چێکردنی نوێکردنەوە
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = دووا نوێکاری پیشان بدە
-    .accesskey = V
-
 addon-updates-check-for-updates = چێکردنی نوێکردنەوە
     .accesskey = C
 addon-updates-view-updates = دووا نوێکاری پیشان بدە
@@ -266,10 +214,6 @@ addon-updates-view-updates = دووا نوێکاری پیشان بدە
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = نوێکردنەوەی پێوەکراوەکان خۆکارانەیە
-    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -323,7 +267,6 @@ report-addon-button = ڕاپۆرت
 remove-addon-button = سڕینەوە
 disable-addon-button = ناچالاک
 enable-addon-button = چالاک
-expand-addon-button = کرداری زیاتر
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -336,9 +279,6 @@ preferences-addon-button =
 details-addon-button = وردەکاری
 release-notes-addon-button = تێبینییەکانی بڵاوکراوە
 permissions-addon-button = ڕێگەپێدانەکان
-
-addons-enabled-heading = چالاکە
-addons-disabled-heading = ناچالاکە
 
 extension-enabled-heading = چالاکە
 extension-disabled-heading = ناچالاکە
@@ -392,22 +332,11 @@ install-update-button = نوێکاری
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-allow = ڕێگەبدە
 addon-detail-private-browsing-disallow = ڕێگە مەدە
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = پێشنیارکراو
-    .alt = پێشنیارکراو
 
 available-updates-heading = نوێکاری بەردەست
 recent-updates-heading = دووا نوێکاری

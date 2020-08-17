@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = بازدەرە هاوکاتگەرییەکان
 synced-tabs-sidebar-noclients-subtitle = دەتەوێت بازدەرەکانت لە ئامێرەکانی ترەوە ببینی؟
-synced-tabs-sidebar-notsignedin = بچۆژوورەوە بۆ بینینی لیستی بازدەرەکان لە ئامێرەکانی ترت.
 synced-tabs-sidebar-intro = لیستەی بازدەرەکان پیشان بدە لە ئامێرەکانی ترەوە.
 synced-tabs-sidebar-unverified = پێویستە هەژمارەکەت بسەلمێندرێت.
 synced-tabs-sidebar-notabs = بازدەری کراوە نیە

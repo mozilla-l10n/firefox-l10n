@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "پەڕگە هەڵبژێرە...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "دەربارەی ئەم ماڵپەڕە لە بیربکە">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "کردنەوە">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "لە پەنجەرەیەکی نوێ بیکەرەوە">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "لە پەنجەرەیەکی نویی تایبەت بیکەرەوە">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "کردنەوەی لە بازدەری نوێ">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "هەمووی لە ناو بازدەرەکان بکەرەوە">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "تایبەتمەندی">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "بەپێی ناو">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "دڵخوازی نوێ...">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "بوخچەی نوێ...">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "جیاکەرەوەی نوێ">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "ناو">
 <!ENTITY col.tags.label          "تاگەکان">
 <!ENTITY col.url.label           "شوێن">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "ژمارەی سەردانیکردن">
 <!ENTITY col.dateadded.label     "زیادکرا">
 <!ENTITY col.lastmodified.label  "دووا دەستکاریکراو">
-
-<!ENTITY historySearch.placeholder  "گەڕان لە ناو مێژووی کاردا">
-<!ENTITY bookmarksSearch.placeholder  "گەڕان لە دڵخوازەکان">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "بڕگەیەک هەڵبژێرە بۆ پیشاندان و دەستکاریکردنی تایبەتمەندییەکانی">
 
-<!ENTITY view.label               "پیشاندان">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "بە پێی ڕۆژ">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "بەپێی ماڵپەڕ">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "بەپێی زۆرترین سەردانکراو">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "بەپێی دووا سەردانیکراو">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "بەپێی ڕۆژ و ماڵپەڕ">
-<!ENTITY byDayAndSite.accesskey   "t">

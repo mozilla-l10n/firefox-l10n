@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = دراگۆنەکان لێرەن!
-about-config-warning-text = گۆڕینی ئەم رێکخستنە پێشکەوتووە دەکرێت زیانبەخش بێت بۆ جێگیری، ئاسایش، وە کارکردنی ئەم نەرمە کاڵایە. تۆ پێویستە بەردەوام بیت تەنها ئەوکاتەی کە دەزانی چی دەکەیت.
-about-config-warning-checkbox = بێزارم کە دووبارە، تکایە!
-about-config-warning-button = بە مەترسیەکە ڕازیم
-about-config2-title = ڕێکخستنی پێشکەوتوو
-about-config-search-input =
-    .placeholder = گەڕان
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = بەردەوام بە وریایەوە
@@ -22,16 +13,13 @@ about-config-intro-warning-button = مەترسیەکە وەردەگرم و بە�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = گۆڕینی ئەم هەڵبژاردنانە لەوانەیە کاربکاتە سەر توانای کار و پاراستنی { -brand-short-name }.
+
 about-config-page-title = هەڵبژاردنی پێشکەوتوو
+
 about-config-search-input1 =
     .placeholder = بگەڕێ بۆ ناوی هەڵبژاردن
 about-config-show-all = هەمووی پیشان بدە
-about-config-pref-add = زیادکردن
-about-config-pref-toggle = بەستن و داخستن
-about-config-pref-edit = دەستکاریکردن
-about-config-pref-save = پاشەکەوتکردن
-about-config-pref-reset = نوێکردنەوە
-about-config-pref-delete = سڕینەوە
+
 about-config-pref-add-button =
     .title = زیادکردن
 about-config-pref-toggle-button =

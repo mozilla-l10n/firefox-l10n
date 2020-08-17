@@ -73,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
+
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
 login-intro-instruction-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
@@ -128,6 +129,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی
 ## Master Password notification
 
 master-password-notification-message = وشەی تێپەڕبوونی سەرەکی لێبدە بۆ ئەوەی بتوانی چوونەژوورەوە و وشەی تێپەڕەکان ببینی.
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = بچۆژوورەوە
     .accesskey = ب
@@ -176,4 +180,6 @@ about-logins-error-message-default = هەڵەیەک ڕوویدا لە کاتی �
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

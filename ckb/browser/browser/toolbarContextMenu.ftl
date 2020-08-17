@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = هەموو بازدەرەکان دیاریبکە
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = بازدەری داخراو بهێنەوە
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = بەڕێوەبردنی پێوەکراو

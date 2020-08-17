@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = پارێزگاری تایبەتێتی
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = بڕۆ بۆ ڕاپۆرتی تایبەتێتی خۆت
 appmenuitem-protection-dashboard-title = بۆردی پارێزگاری
 appmenuitem-customize-mode =
     .label = دڵخوازکردن…
@@ -27,6 +24,7 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = چی نوێ هەیە
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =

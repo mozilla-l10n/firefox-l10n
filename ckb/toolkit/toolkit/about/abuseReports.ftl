@@ -8,15 +8,19 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = ڕاپۆرت بۆ { $addon-name }
+
 abuse-report-title-extension = ئەم زیادکراوە ڕاپۆرت بکە بۆ { -vendor-short-name }
 abuse-report-title-theme = ئەم ڕووکارە ڕاپۆرت بکە بۆ { -vendor-short-name }
 abuse-report-subtitle = کێشەکە چییە؟
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = لە لایەن <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore =
     دڵنیانیت کێشەکە چییە؟
     <a data-l10n-name="learnmore-link">زیاتر بخوێنەوە لەسەر ڕاپۆرت کردنی زیادکراو ڕووکارەکان</a>
+
 abuse-report-submit-description = کێشەکە پێناسە بکە (دڵخوازە)
 
 ## Panel buttons.
@@ -48,10 +52,11 @@ abuse-report-messagebar-action-cancel = پاشگەزبوونەوە
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = زانیارییەکان و کۆمپیوتەرکەم تێک دەدات
 abuse-report-damage-reason-v2 = کۆمپیوتەرەکەمی تێکدا و زانیارییەکانم بینرا
 abuse-report-damage-example = نموونە: زیانەوەڵای دانا یان زانیاری دزەپێکرد
-abuse-report-spam-reason = شتی نەخوازراو یان ڕیکلام
+
 abuse-report-spam-reason-v2 = بابەتی نەخوازراو یان ڕێکلامی نەویستراو دەهێنێت
 abuse-report-spam-example = نموونە: هێنانی ڕێکلام و پەڕەی تر
+
 abuse-report-other-reason = شتێکی تر
+

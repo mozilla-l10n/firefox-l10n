@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "بچووکردنەوە">
-<!ENTITY bringAllToFront.label    "هەمووی بهێنە پێشەوە">
-<!ENTITY zoomWindow.label         "زووم">
-<!ENTITY windowMenu.label         "پەنجەرە">
-
-<!ENTITY helpMenu.label           "یارمەتی"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "یارمەتی"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
 <!ENTITY aboutProduct2.label      "دەربارەی &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "یارمەتی &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "قەدبڕەکانی تەختەکلیل">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "دووبارە پێکردنەوە بە پێوەکراوی ناچالاکەوە...">
-<!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "دووبارە پێکردنەوە بە پێوەکراوی چالاکەوە...">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "زانیاری گەڕان بۆ کیشەکان">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "ڕەخنەوپێشنیار بنێرە...">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY helpShowTour2.label            "گەشتکردن &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "هەڵبژاردنەکان...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "خزمەتگوزارییەکان">
 
 <!ENTITY hideThisAppCmdMac2.label       "شاردنەوەی &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "ئەوانی تر بشارەوە">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "هەمووی پیشان بدە">
 

@@ -1,12 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY header.label     "ناونیشانێکی کورت"> 
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. --> 
 
 <!ENTITY editfield0.label "ناوی بەکارهێنەر:"> 
 <!ENTITY editfield1.label "وشەی تێپەڕبوون:"> 
-<!ENTITY checkbox.label   "چێکردن"> 
 <!ENTITY copyCmd.label    "لەبەرگرتنەوە">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "هەمووی دیاریبکە">

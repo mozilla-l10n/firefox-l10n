@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = هەمووکات
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] هەڵبژاردەکان
-           *[other] هەڵبژاردنەکان
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] هەڵبژاردەکان
@@ -402,10 +395,6 @@ update-application-use-service =
     .label = خزمەتگوزاریی پشتەوە بەکاربەرە بۆ دامەراندنی نوێکارییەکان
     .accesskey = b
 
-update-enable-search-update =
-    .label = خۆکارانە بزوێنەری گەڕان نوێبکەرەوە
-    .accesskey = e
-
 update-in-progress-title = نوێکاریی لە کاردایە
 
 update-in-progress-message = دەتەوێت { -brand-short-name } بەردەوام بێت لەگەڵ ئەم نوێکارییە
@@ -542,7 +531,6 @@ home-prefs-topsites-description = ئەو ماڵپەڕانەی زۆرترین س�
 
 home-prefs-recommended-by-header =
     .label = پێشنیازکراوە لە لایەن { $provider }
-home-prefs-recommended-by-description = ناوەڕۆکێکی گرنگ لە وێب، تایبەتکراوە بۆ تۆ
 
 ##
 
@@ -585,7 +573,6 @@ search-bar-shown =
     .label = شریتی گەڕان زیادبکە لە توڵامراز
 
 search-engine-default-header = بزوێنەری گەڕانی بنەڕەتی
-search-engine-default-desc = بزوێنەری بنەڕەتی بەکاربێنە لە شریتی ناونیشان و شریتی گەڕان.
 
 search-engine-default-desc-2 = ئەمە بزوێنەری بنەڕەتییە لە شریتی ناونیشان و گەڕان، دەتوانیت بچیتە سەری هەرکاتێک بتەوێت.
 search-engine-default-private-desc-2 = بزوێنەری گەڕانی جیاواز دابنێ بۆ پەنجەرەی تایبەتی بە تەنها.
@@ -615,8 +602,6 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = پێشنیارەکانی گەڕان لە پەنجەرەی تایبەت پیشان بدە
 
-suggestions-addressbar-settings = هەڵبژاردنەکان بگۆڕە بۆ مێژووی گەڕان، دڵخوازەکان، پێسنیاری بازدەر.
-
 search-one-click-header = بزوێنەری گەڕان بە یەک کرتە
 
 search-one-click-desc = بزوێنەرێکی تری گەڕان بەکاربێنە دەربکەوێت کاتێک لە شریتی گەڕانی یان شریتی ناونیشان دەست دەکەی بە نووسین.
@@ -644,8 +629,6 @@ search-keyword-warning-title = دووبارەکردنەوەی کلیلەوشە
 search-keyword-warning-engine = کلیلر وشەیەکی هەڵبژاردووە کە ئێستا لە کاردایە لە لایەن “{ $name }”. تکایە دانەیەکی تر هەڵبژێرە.
 
 ## Containers Section
-
-containers-back-link = « بڕۆ دواوە
 
 containers-back-button =
     .aria-label =
@@ -675,14 +658,6 @@ containers-remove-button =
 
 sync-signedout-caption = وێب لەگەڵ خۆت ببە
 
-sync-signedout-account-title = پێک ببەستەوە لەگەڵ { -fxaccount-brand-name }
-sync-signedout-account-create = هەژمارت نیە؟ دەستپێبکە
-    .accesskey = c
-
-sync-signedout-account-signin =
-    .label = بچۆ ژوورەوە...
-    .accesskey = I
-
 sync-signedout-account-signin2 =
     .label = بچۆ ژوورەوە بۆ { -sync-brand-short-name }...
     .accesskey = i
@@ -705,10 +680,6 @@ sync-mobile-promo = Firefox دابگرە بۆ <img data-l10n-name="android-icon"
 sync-profile-picture =
     .tooltiptext = وێنەی تاکەکەسی دیاریبکە
 
-sync-disconnect =
-    .label = دەرهێڵ بە
-    .accesskey = D
-
 sync-sign-out =
     .label = بچۆ دەرەوە
     .accesskey = g
@@ -730,9 +701,6 @@ sync-remove-account =
 sync-sign-in =
     .label = بچۆژوورەوە
     .accesskey = g
-
-sync-signedin-settings-header = ڕێکخستنی هاوکاتگەری
-sync-signedin-settings-desc = ئەوە هەڵبژێرە کە دەتەوێ هاوکاتگەری پێبکرێت بە هۆی { -brand-short-name }
 
 ## Sync section - enabling or disabling sync.
 
@@ -785,11 +753,6 @@ sync-engine-tabs =
     .tooltiptext = لیستەی ئەوانەی کە ئێستا لە هەموو ئامێرەکان کراوەتەوە
     .accesskey = t
 
-sync-engine-logins =
-    .label = چوونەژوورەوەکان
-    .tooltiptext = ناوی بەکارهێنەر و وشەی تێپەڕبووەکان کە پاشەکەوت کراون
-    .accesskey = L
-
 sync-engine-logins-passwords =
     .label = چوونەژوورەوە و وشەی تێپەڕەکان
     .tooltiptext = چوونەژوورەوە و وشەی تێپەڕەکان کە پاشەکەوت کراون
@@ -818,21 +781,11 @@ sync-device-name-save =
 
 sync-connect-another-device = پەیوەندی بکە بە ئامێرێکی تر
 
-sync-manage-devices = بەڕێوەبردنی ئامێرەکان
-
-sync-fxa-begin-pairing = ئامێرێک پیک ببەستەوە
-
-sync-tos-link = مەرجەکانی بەکارهێنان
-
-sync-fxa-privacy-notice = تێبینی تایبەتێتی
-
 ## Privacy Section
 
 privacy-header = تایبەتێتی وێبگەڕ
 
 ## Privacy Section - Forms
-
-logins-header = چوونەژوورەوە و وشەی تێپەڕەکان
 
 ## Privacy Section - Logins and Passwords
 
@@ -870,6 +823,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = تۆ ئێستا لە دۆخی FIPS دایت. FIPS پێویستە وشەی تێپەڕی سەرەکی بەتاڵ نەبێت.
+
 forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سەرکەوتوو نەبوو
 
 ## OS Authentication dialog
@@ -879,6 +833,7 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = وشەی تێپەڕبوونی سەرەکی درووست بکە
+
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -939,9 +894,6 @@ sitedata-disallow-cookies-option =
     .label = شەکرۆکە و زانیاری ماڵپەڕ ڕێگەمەدە
     .accesskey = B
 
-sitedata-option-block-trackers =
-    .label = چاودێریکەری لایەنی سێهەم
-
 sitedata-option-block-cross-site-trackers =
     .label = چاودێریکەری ناو ماڵپەڕ
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -979,27 +931,7 @@ addressbar-suggestions-settings = هەڵبژاردنەکان بگۆڕە بۆ پ�
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = بلۆککردنی ناوەڕۆک
-
 content-blocking-learn-more = زیاتر بزانە
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = ستاندارد
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = پتەو
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = دڵخواز
-    .accesskey = C
-
-content-blocking-strict-description = پارێزگاری زیاتر،  لەوانەیە زانیاری ماڵپەڕان بشکێندرێن .
-content-blocking-custom-desc = هەڵبژێرە چیت دەوێ بلۆکی بکەیت.
-
-content-blocking-private-trackers = چاودێریکەری ناسراو تەنها لە پەنجەرەی تایبەتیی
-content-blocking-third-party-cookies = شەکرۆکەی چاودێری لایەنی سێهەم
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1022,23 +954,17 @@ content-blocking-etp-custom-desc = دیاریبکە کام چاودێریکەر 
 
 content-blocking-all-cookies = هەموو شەکرۆکەکان
 content-blocking-unvisited-cookies = شەکرۆکە لەو ماڵپەڕانەی کە سەردانت نەکردوون
-content-blocking-all-windows-trackers = چاودێریکەرانی ناسراو لە هەموو پەنجەرەکان
 content-blocking-all-windows-tracking-content = چاودێریکردنی ناوەڕۆک لە هەموو پەنجەرەکان
 content-blocking-all-third-party-cookies = هەموو شەکرۆکەکانی لایەنی سێهەم
 content-blocking-fingerprinters = پەنجە مۆرەکان
 
 content-blocking-warning-title = ئاگاداربە!
-content-blocking-learn-how = بزانە چۆن
 
 content-blocking-warning-learn-how = بزانە چۆن
 
 content-blocking-reload-tabs-button =
     .label = هەموو بازدەرەکان باربکەرەوە
     .accesskey = R
-
-content-blocking-trackers-label =
-    .label = چاودێریکەر
-    .accesskey = T
 
 content-blocking-tracking-content-label =
     .label = چاودێریکردنی ناوەڕۆک
@@ -1104,10 +1030,6 @@ permissions-notification-pause =
     .label = ئاگاانامەکان بوەستێنە تاوەکوو { -brand-short-name } پێدەکرێتەوە
     .accesskey = n
 
-permissions-block-autoplay-media-exceptions =
-    .label = هەڵاوێردی...
-    .accesskey = E
-
 permissions-autoplay = خۆپێکردن
 
 permissions-autoplay-settings =
@@ -1168,6 +1090,8 @@ space-alert-learn-more-button =
 space-alert-under-5gb-ok-button =
     .label = باشە، تێگەشتم
     .accesskey = K
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "بڕین">
-<!ENTITY cutCmd.accesskey "ب">
-<!ENTITY copyCmd.label "لەبەرگرتنەوە">
-<!ENTITY copyCmd.accesskey "گ">
-<!ENTITY pasteCmd.label "لکاندن">
-<!ENTITY pasteCmd.accesskey "ل">
-<!ENTITY undoCmd.label "گەڕانەوە">
-<!ENTITY undoCmd.accesskey "ن">
-<!ENTITY selectAllCmd.label "هەمووی دیاریبکە">
-<!ENTITY selectAllCmd.accesskey "ه">
-<!ENTITY deleteCmd.label "سڕینەوە">
-<!ENTITY deleteCmd.accesskey "ی">
-
 <!ENTITY spellAddToDictionary.label "بیکە ناو فەرهەنگ">
 <!ENTITY spellAddToDictionary.accesskey "ف">
 <!ENTITY spellUndoAddToDictionary.label "بیکە ناو فەرهەنگ بگەڕێنەوە">

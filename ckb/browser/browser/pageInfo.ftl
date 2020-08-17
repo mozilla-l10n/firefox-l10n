@@ -23,6 +23,7 @@ general-meta-name =
     .label = ناو
 general-meta-content =
     .label = ناوەڕۆک
+
 media-tab =
     .label = میدیا
     .accesskey = م
@@ -36,11 +37,13 @@ media-size =
     .label = قەبارە
 media-long-desc =
     .value = ڕوونکردنەوەی تەواو:
+
 perm-tab =
     .label = ڕێپێدان
     .accesskey = ڕ
 permissions-for =
     .value = ڕێپێدان بۆ:
+
 security-tab =
     .label = خۆپاراستن
     .accesskey = خ
@@ -58,11 +61,14 @@ security-view-identity-validity =
     .value = بەسەردەچێت لە:
 security-view-privacy =
     .value = تایبەتیی و مێژووی کار
+
 security-view-privacy-history-value = ئایا من پێشتر سەردانی ئەم ماڵپەڕەم کردووە؟
 security-view-privacy-sitedata-value = ئایا ئەم ماڵپەڕە زانیاری لەنێو کۆمپیوتەری من هەڵدەگرێت؟
+
 security-view-privacy-viewpasswords =
     .label = بینینی ووشە نهێنییە هەڵگیراوەکان
     .accesskey = ب
+
 help-button =
     .label = یارمەتی
 
@@ -73,14 +79,17 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-no = نەخێر
+
 image-size-unknown = نەزانراو
 media-link = وێنۆچکە
 media-video = ڤیدیۆ
 media-audio = دەنگ
 saved-passwords-yes = بەڵێ
 saved-passwords-no = نەخێر
+
 no-page-title =
     .value = لاپەڕەی بێ ناو:
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -88,3 +97,4 @@ no-page-title =
 media-block-image =
     .label = وێنە بلۆک بکە لە { $website }
     .accesskey = B
+

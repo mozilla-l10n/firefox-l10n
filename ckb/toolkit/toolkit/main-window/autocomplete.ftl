@@ -12,5 +12,10 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">چوونەژوورەوەکانت بهێنە لە { $browser }</div>
     <div data-l10n-name="line2">بۆ { $host } لەگەڵ ماڵپەڕەکانی تر</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = زیاتر بزانە

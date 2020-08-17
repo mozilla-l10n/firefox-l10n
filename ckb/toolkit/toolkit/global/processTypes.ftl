@@ -4,10 +4,6 @@
 
 process-type-web = ناوەڕۆکی وێب
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = ناوەڕۆکی شاراوە
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = دەربارەی شاراوە

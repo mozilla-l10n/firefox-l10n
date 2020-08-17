@@ -30,12 +30,7 @@ connection-proxy-http = پرۆکسی HTTP
     .accesskey = پ
 connection-proxy-http-port = دەرەچە
     .accesskey = P
-connection-proxy-http-share =
-    .label = ئەم پرۆکسیە بەکاربێنە بۆ هەموو پرۆتۆکۆڵەکان
-    .accesskey = پ
 
-connection-proxy-ssl = پرۆکسی SSL
-    .accesskey = خ
 connection-proxy-http-sharing =
     .label = هەموو کات ئەم پرۆکسیە بەکاربێنە بۆ FTP و HTTPS
     .accesskey = ه

@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator "-">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(گەڕانی تایبەتیی)">
-
 <!ENTITY appmenu.tooltip                     "پێڕست بکەرەوە">
 <!ENTITY navbarOverflow.label                "ئامرازی تر...">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "بازدەر جێگیربکە">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "بازدەر لابەرە">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "p">
-<!ENTITY  sendPageToDevice.label             "ناردنی پەڕە بۆ ئامێر">
-<!ENTITY  sendPageToDevice.accesskey         "n">
-<!ENTITY  sendLinkToDevice.label             "ناردنی بەستەر بۆ ئامێر">
-<!ENTITY  sendLinkToDevice.accesskey         "n">
-<!ENTITY  undoCloseTab.label                 "بازدەری داخراو بهێنەوە">
-<!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  hiddenTabs.label                   "بازدەری شاراوە">
 
 <!ENTITY  listAllTabs.label      "هەموو بازدەرەکان لیست بکە">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "گەڕان لە بازدەرەکان">
 
 <!ENTITY tabCmd.label "بازدەری نوێ">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "شوێنەکەی بکەرەوە...">
 <!ENTITY openFileCmd.label "پەڕگە بکەرەوە...">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "ڕێکخستنی پەڕە...">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "پێشبینی چاپ">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "چاپکردن...">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "هێنان لە وێبگەڕی ترەوە...">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "بەڕێوەبردنی تاسک (ئەرک)">
 
-<!ENTITY goOfflineCmd.label "بەدەرهێڵ کاربکە">
-<!ENTITY goOfflineCmd.accesskey "k">
-
 <!ENTITY menubarCmd.label "شریتی پێڕست">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "توڵامرازی ڕێدۆزی">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,70 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "دڵخوازەکان">
 <!ENTITY bookmarksToolbarItem.label "بڕگەکانی توڵامرازی دڵخوازەکان">
 
-<!ENTITY pageSourceCmd.label "سەرچاوەی پەڕە">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "زانیاری پەڕە">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "نەخشەی هەڵەدۆزی">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "ئاوێنەی بازدەر">
-<!ENTITY mirrorTabCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "بیکە پڕاوپڕی شاشە">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "لە پڕاوپڕی شاشە دەرچۆ">
-<!ENTITY exitFullScreenCmd.accesskey "F">
-
 <!ENTITY fullScreenCmd.label "پڕاوپڕ">
-<!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "هەموو بازدەرەکان پیشان بدە">
-<!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "بچۆژوورەوە بۆ &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "هەڵبژاردنەکانی &syncBrand.shortName.label; بکەرەوە">
-<!ENTITY fxaSignInError.label "پەیوەندی بکەرەوە بە &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "هەژمارەکەت بسەلمێنە">
-
-
-<!ENTITY fullScreenMinimize.tooltip "بچووکردنەوە">
-<!ENTITY fullScreenRestore.tooltip "هێنانەوە">
-<!ENTITY fullScreenClose.tooltip "داخستن">
-<!ENTITY fullScreenAutohide.label "شاردنەوەی توڵامراز">
-<!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "لە دۆخی پڕاوپڕی شاشە دەرچۆ">
-<!ENTITY fullScreenExit.accesskey "F">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Firefox لەگەڵ خۆت ببە">
-<!ENTITY fxa.signin.description.label "هەموو دڵخوازەکان، مێژوو، وشەی تێپەڕبوون و ڕێکخستنەکانی تر بۆ هەمووو ئامێرەکانت.">
-<!ENTITY fxa.signin.button.label "کاراکردنی &syncBrand.shortName.label;...">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "چێکی پۆستی ئەلیکترۆنیەکەت بکە">
-<!ENTITY fxa.unverified.description.label "پێویستە هەژمارەکەت بسەلمێنیت پێش ئەوەی هاوکاتگەری بکەی.">
-<!ENTITY fxa.unverified.button.label "ڕێکخستنەکانی &syncBrand.shortName.label; بکەرەوە...">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "لەژوورەوەی وەک">
-<!ENTITY fxa.menu.manageAccount.label "بەڕێوەبردنی هەژمار...">
-<!ENTITY fxa.menu.syncSettings.label "ڕێکخستنەکانی &syncBrand.shortName.label;...">
 
 <!ENTITY pictureInPictureHideToggle.label "هێمادانانی وێنە-لەناو-وێنە بشارەوە">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
@@ -190,14 +80,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "لە پڕاوپڕی شاشە دەرچۆ (ESC)">
 <!ENTITY exitDOMFullscreenMac.button "لە پڕاوپڕی شاشە دەرچۆ (esc)">
-<!ENTITY leaveDOMFullScreen.label "لە پڕاوپڕی شاشە دەرچۆ">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "وێنە-لەناو-وێنە">
-<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -208,75 +90,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC  بۆ بەدەستهێنانەوەی جڵەوگیری.">
 <!ENTITY pointerlockWarning.generic.label "ئەم بەڵگەنامەیە جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC بۆ بەدەستهێنانەوەی جڵەوگیری.">
 
-<!ENTITY closeWindow.label "پەنجەرە دابخە">
-<!ENTITY closeWindow.accesskey "d">
-
-<!ENTITY bookmarksMenu.label "دڵخوازەکان">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ئەم پەرەیە دڵخواز بکە">
-<!ENTITY editThisBookmarkCmd.label "ئەم دڵخوازە دەستکاریبکە">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "هەموو بازدەرەکان دڵخواز بکە...">
-
 <!ENTITY showAllBookmarks2.label "هەموو دڵخوازەکان پیشان بدە">
 <!ENTITY recentBookmarks.label "دووا دڵخوازکراو">
-<!ENTITY otherBookmarksCmd.label "دڵخوازی تر">
-<!ENTITY mobileBookmarksCmd.label "دڵخوازەکانی مۆبایل">
 <!ENTITY bookmarksToolbarChevron.tooltip "دڵخوازی زیاتر پیشان بدە">
-
-<!ENTITY backCmd.label                "دواوە">
-<!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "یەک پەڕە بچۆ دواوە">
-<!ENTITY forwardCmd.label             "پێشەوە">
-<!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "یەک پەڕە بچۆ پێشتر">
-<!ENTITY backForwardButtonMenu.tooltip "کرتەی ڕاست یان ڕایکێشە خوارەوە بۆ بینینی مێژووی کار">
-<!ENTITY backForwardButtonMenuMac.tooltip "ڕایکێشە خوارەوە بۆ پیشاندانی مێژووی کار">
-<!ENTITY reloadCmd.label              "بارکردنەوە">
-<!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY stopCmd.label                "بوەستە">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "بڕۆ بۆ ناونیشان لە توڵی شوێن">
 
 <!ENTITY printButton.label            "چاپکردن">
 <!ENTITY printButton.tooltip          "ئەم پەڕەیە چاپبکە">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "زانیاری مالپەڕ پیشان بدە">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "پانێڵی پەیامەکان بکەرەوە">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "پانێڵی داواکاری شوێن بکەرەوە">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "پانێڵی لێدانی خۆکار بکەرەوە">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "پانێڵی پەیامی دامەزراندنی پێوەکراو بکەرەوە">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "پانێڵی پەیامی بیرگەی دەرهێڵ بکەرەوە">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "پانێڵی پەیامی پاشەکەوتی وشەی تێپەڕ بکەرەوە">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ڕێکخستنی ئەو پێوەکراوانەی لە کاردان">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "دیاریبکە چ کاتێک دەتەوێت ئاگانامەت بۆ بێت لەڕێگەی ماڵپەڕەوە">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "پاشەکەوتکردنی زانیاری لە بیرگەی هەمیشەیی">
-
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "پانێڵی ڕێگەپێدانی وێب بکەرەوە">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "پانێڵی ڕێگەپێدانی چالاکی گەڕان بکەرەوە">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ڕێکخستنی بڵاوکردنەوەی کامێرا و مایکرۆفۆن لەگەڵ ئەم ماڵپەڕە">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ڕێکخستنی بڵاوکردنەوەی مایکرۆفۆنەکەت لەگەڵ ئەم ماڵپەڕە">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ڕێکخستنی بڵاوکردنەوەی پەنجەرەکان و شاشەکەت لەگەڵ ئەم ماڵپەڕە">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "پانێڵی پەیامی دامەزراندن بکەرەوە">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ئەم پەڕەیە وەربگێڕە">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ڕێکخستنی وەرگێڕانی پەڕە">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "ڕێکخستنی بەکارهێنانی نەرمەکاڵای DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "پانێڵێ MIDI بکەرەوە">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "تۆ کامێراکەت بۆ ئەم ماڵپەڕە بلۆک کرد.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "تۆ مایکرۆفۆنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.">
-<!ENTITY urlbar.screenBlocked.tooltip            "تۆ ئەم ماڵپەڕەت بلۆککردووە لە بڵاوکردنەوەی وێنەی شاشەکەت.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "تۆ زانیاری شوێنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "تۆ ئاگانامەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "تۆ بیرگەی هەمیشەییت بۆ ئەم ماڵپەڕە بلۆک کردووە.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "پیشاندانی مێژوو">
 
 
 
@@ -287,7 +106,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "پەڕەی سەرەکی &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "دڵخوازەکان">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "دڵخوازەکان">
 <!ENTITY bookmarksMenuButton2.label         "پێڕستی دڵخوازەکان">
@@ -302,108 +120,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "پێڕستی دڵخوازەکان زیادبکە بۆ توڵامراز">
 <!ENTITY removeBookmarksMenu.label          "پێڕستی دڵخوازەکان بسڕەوە لە توڵامراز">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "مێژوو">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "ئامرازەکان">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY keywordfield.label           "کلیلە وشە زیادبکە بۆ ئەم گەڕانە...">
-<!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "داگرتنەکان">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "داگرتنەکان">
-<!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "پێوەکراوەکان">
-<!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "گەشەپێدەری وێب">
-<!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY inspectContextMenu.label     "بەدواداچوونی توخم">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY inspectA11YContextMenu.label     "تایبەتمەندی بەدەستگەیشتنی بەدواداچوون">
-
-<!ENTITY fileMenu.label         "پەڕگە">
-<!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "بازدەری لەخۆگری نوێ">
-<!ENTITY newUserContext.accesskey         "B">
-<!ENTITY manageUserContext.label          "ڕێکخستنی لەخۆگرەکان">
-<!ENTITY manageUserContext.accesskey      "O">
 
 <!ENTITY newNavigatorCmd.label        "پەنجەرەی نوێ">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "پەنجەرەی تایبەتی نوێ">
-<!ENTITY newPrivateWindow.accesskey "w">
 
 <!ENTITY editMenu.label         "دەستکاریکردن">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "گەڕانەوە">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.label            "پێـشتر">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "بڕین">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "t">
-<!ENTITY copyCmd.label            "لەبەرگرتنەوە">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "لکاندن">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "سڕینەوە">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label         "هەمووی دیاریبکە">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "هەڵبژاردەکان">
-<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "هەڵبژاردنەکان">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "چوونەژوورەوە و وشەی تێپەڕەکان">
-
-<!ENTITY clearRecentHistory.label               "دووا مێژووی بەکارهێنان بسڕەوە...">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "پیشاندان">
-<!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "توڵامراز">
-<!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "لاتەنیشت">
-<!ENTITY viewSidebarMenu.accesskey "e">
-
-<!ENTITY viewCustomizeToolbar.label       "دڵخوازکردن…">
-<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY overflowCustomizeToolbar.label       "دڵخوازکردنی توڵامراز...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "مێژوو">
-<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "دووا بازدەری داخراو">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "دووا پەنجەرەی داخراو">
-<!ENTITY historyRestoreLastSession.label "دانیشتنی پێشوو بهێنەوە">
-
-<!ENTITY showAllHistoryCmd2.label "هەموو مێژووی کار پیشان بدە">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "هەموو مێژووی کار پیشان بدە">
 <!ENTITY appMenuHistory.clearRecent.label "دووا مێژووی بەکارهێنان بسڕەوە...">
@@ -433,10 +174,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "دەتەوێت بازدەرەکانت لە ئامێرەکانی ترەوە ببینی؟">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "هەـلبژاردنەکانی هاوکاتگەری بکەرەوە">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "بچۆژوورەوە بۆ بینینی لیستی بازدەرەکان لە ئامێرەکانی ترت.">
 <!ENTITY appMenuRemoteTabs.welcome.label "لیستەی بازدەرەکان پیشان بدە لە ئامێرەکانی ترەوە.">
 <!ENTITY appMenuRemoteTabs.unverified.label "پێویستە هەژمارەکەت بسەلمێندرێت.">
-<!ENTITY appMenuRemoteTabs.signin.label "بچۆژوورەوە بۆ هاوکاتگەری...">
 <!ENTITY appMenuRemoteTabs.signintosync.label "بچۆژوورەوە بۆ &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "کاراکردنی &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.managedevices.label "بەڕێوەبردنی ئامێرەکان...">
@@ -453,76 +192,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "سڕینەوەی لە توڵامراز">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "بڕگەی تر زیاد بکە...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "شاردنەوەی خۆکار لە توڵامراز">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "بەڕێوەبردنی پێوەکراو">
-<!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.label "سڕینەوەی پێوەکراو">
-<!ENTITY customizeMenu.removeExtension.accesskey "v">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "پێوەکراو ڕاپۆرت بکە">
-<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "زیاتر">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "بگەڕێ یان ناونیشان بنووسە">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "پێوەکراوەکان:">
-<!ENTITY urlbar.switchToTab.label     "بچۆ بۆ بازدەری:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "زانیاری:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "گۆڕینی هەڵبژاردەکان...">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "گۆڕینی هەڵبژاردنەکان...">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "گەڕانی داوکاری">
 
 <!ENTITY contentSearchSubmit.tooltip  "ناردنی گەڕان">
 
@@ -531,202 +210,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "گەڕان">
 <!ENTITY searchIcon.tooltip           "گەڕان">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "بگەڕێ بۆ">
-<!ENTITY searchWith.label             "لەگەڵ:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "گەڕان">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "بگەڕێ لەگەڵ:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "گۆڕینی ڕێکخستنەکانی گەڕان">
-<!ENTITY changeSearchSettings.tooltip "گۆڕینی ڕێکخستنەکانی گەڕان">
-
-<!ENTITY searchInNewTab.label         "گەڕان لە بازدەری نوێ">
-<!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "بیکە بە گەڕۆکی سەرەکی">
-<!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY openLinkCmdInTab.label       "بەستەر لە بازدەری نوێ بکەرەوە">
-
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "لە پەنجەرەیەکی نوێ بیکەرەوە">
-<!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "لە پەنجەرەیەکی نویی تایبەت بیکەرەوە">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
-<!ENTITY openLinkCmdInCurrent.label     "بەستەر بکەرەوە">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "چوارچێوە لە بازدەری نوێ بکەرەوە">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "چوارچێوە لە پەنجەرەیەکی نوێ بکەرەوە">
-<!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "بەستەر لە بازدەری لەخۆگری نوێ بکەرەوە">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
-<!ENTITY showOnlyThisFrameCmd.label     "تەنها ئەم چوارچێوەیە پیشان بدە">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "چوارچێوە باربکەرەوە">
-<!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "سەرچاوەی دیاریکراو ببینە">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "سەرچاوەی پەڕەپیشان بدە">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "سەرچاوەی چوارچێوە پیشان بدە">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "زانیاری پەڕە پیشان بدە">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "زانیاری چوارچێوە پیشان بدە">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "بارکردنەوەی وێنە">
-<!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "وێنە پیشان دە">
-<!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "زانیاری وێنە پیشان بدە">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "پوختەیەک پیشان بدە">
-<!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "ڤیدیۆ پیشان بدە">
-<!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "وێنەی پاشبنەما پیشان بدە">
-<!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "بیخە سەر پاشبنەمای ڕوومێزەکەت...">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ئەم پەرەیە دڵخواز بکە">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "ئەم پەرەیە دڵخواز بکە">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "ئەم چوارچێوەیە دڵخواز بکە">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY pageAction.copyLink.label    "بەستەر لەبەربگرەوە">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "پاشەکەوتی بکە لە Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "پاشەکەوتی بکە لە Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "بەستەر پاشەکەوت بکە لە Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "لیستەی Pocket پیشان بدە">
 
 <!ENTITY emailPageCmd.label           "بەستەر بنێرە...">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "پەرە پاشەکەوت بکە وەک...">
-<!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "چوارچێوە پاشەکەوت بکە وەک ...">
-<!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "چوارچێوە چاپ بکە...">
-<!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "بەستەر پاشەکەوت بکە وەک...">
-<!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "وێنە پاشەکەوت بکە وەک...">
-<!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "ڤیدیۆ پاشەکەوت بکە وەک ...">
-<!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "دەنگ پاشەکەوت بکە وەک...">
-<!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "ناردنی وێنە...">
-<!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "ناردنی ڤیدیۆ...">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "ناردنی دەنگ...">
-<!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "ئەم پێوەکراوە چالاک بکە">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "پیوەکراو بشارەوە">
-<!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "شوێنی بەستەر لەبەر بگرەوە">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "شوێنی وێنە لەبەر بگرەوە">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "وێنە لەبەرگرەوە">
-<!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "شوێنی ڤیدیۆ لەبەربگرەوە">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "شوێنی دەنگە لەبەربگرەوە">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "لەبەرگرتنەوەی پۆستی ئەلکترۆنی">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "A">
-<!ENTITY thisFrameMenu.label              "ئەم چێوەیە">
-<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "لێدان">
-<!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "وچان">
-<!ENTITY mediaPause.accesskey        "P">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "بێدەنگردن">
-<!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "دەنگ پێدان">
-<!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "خێرای پێکردن">
-<!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "خاو (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "ئاسایی">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "خێرا (*١.٢٥)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
-<!ENTITY mediaPlaybackRate150x2.label "خێراتر (١.٥*)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "زۆر خێرا (٢*)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "خول">
-<!ENTITY mediaLoop.accesskey         "L">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "دەستپێگەشتن پیشان بدە">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "دەستپێگەشتن بشارەوە">
-<!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "پڕاوپڕ">
-<!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "snapshot پاشەکەوت بکە...">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "ئامار پیشان بدە">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "ئامار بشارەوە">
-<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -734,53 +229,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "هێنانەپێش">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "ڕۆچوونی">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "نوێکردنەوە">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "تەنها دەقەکان زووم بکە">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-
 <!ENTITY fullZoom.label                 "زووم">
-<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "لاتەنیشت دابخە">
-<!ENTITY sidebarMenuClose.label         "لاتەنیشت دابخە">
 
 <!ENTITY quitApplicationCmdWin2.label       "دەرچوون">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "داخستنی &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "وازهێنان">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "وازهێنانی &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "داخستن">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "C">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "شێوازی پەڕە">
-<!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "بێ شێواز">
-<!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "شێوازی پەڕەی ئاسایی">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -789,154 +247,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "ئاڕاستەی پەڕە بگۆڕە">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "ئاڕاستەی نووسین بگۆڕە">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "دۆزینەوە لەم پەڕەیە...">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "دووبارە بگەڕێ">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "زیادکردنی فەرهەنگ...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "تەواو">
-<!ENTITY editBookmark.showForNewBookmarks.label       "دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "ئاسایشی ماڵپەڕ">
-
-<!ENTITY identity.connection "پەیوەندیگرتن">
-<!ENTITY identity.connectionSecure "پەیوەندیگرتنی پارێزراو">
-<!ENTITY identity.connectionNotSecure "پەیوەندی پارێزراو نیە">
-<!ENTITY identity.connectionFile "ئەم پەڕەیە پاشەکەوتکراوە لە ناو کۆمپیوتەرەکەت.">
-<!ENTITY identity.connectionVerified2 "تۆ بە پارێزراوی بەستراوی بەم ماڵپەڕەوە، کە تایبەتە بە:">
-<!ENTITY identity.connectionInternal "ئەم پەڕەیە &brandShortName; پارێزراوە.">
-<!ENTITY identity.extensionPage "ئەم پەڕەیە بارکراوە لە پێوەکراوێکەوە.">
-<!ENTITY identity.insecureLoginForms2 "چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.">
-<!ENTITY identity.customRoot "پەیوەندی سەلمێنراوە لە لایەنێکەوە کە نەناسراوە لە لایەن Mozillaوە.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; چەند بەشێکی ئەم پەڕەی بلۆک کردووە چونکە پارێزراو نیە.">
-<!ENTITY identity.passiveLoaded "بەشێک لەم پەڕەیە پارێزراو نیە (وەک وێنەکان).">
-<!ENTITY identity.activeLoaded "تۆ پارێزگاریت ناچالاک کرد بۆ ئەم پەڕەیە.">
-<!ENTITY identity.weakEncryption "ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.">
-
 <!-- Strings for connection state warnings in the subview. -->
-
-<!ENTITY identity.enableMixedContentBlocking.label "پارێزگاری چالاک بکە">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "پارێزگاری ناچالاک بکە لە ئێستادا">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "زیاتر بزانە">
-
-<!ENTITY identity.removeCertException.label "سڕینەوەی هەڵاوێردی">
-<!ENTITY identity.removeCertException.accesskey "R">
-
-<!ENTITY identity.moreInfoLinkText2 "زانیاری زیاتر">
-
-<!ENTITY identity.clearSiteData "شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...">
-
-<!ENTITY identity.permissions "ڕێگەپێدانەکان">
-<!ENTITY identity.permissionsEmpty "هیچ دەسەڵاتێکی تایبەتت نەداوە بەم پەڕەیە.">
-<!ENTITY identity.permissionsReloadHint "لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.">
-<!ENTITY identity.permissionsPreferences.tooltip "هەڵبژاردنەکانی ڕێگەپێدان بکەرەوە">
-<!ENTITY identity.contentBlockingPreferences.tooltip "هەڵبژاردنەکانی بلۆککردنی ناوەڕۆک بکەرەوە">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "بازدەرەکانی وێبگەڕ">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "بازدەرە هاوکاتگەرییەکان">
-
-<!ENTITY syncedTabs.sidebar.label              "بازدەرە هاوکاتگەرییەکان">
-
 <!ENTITY syncBrand.shortName.label    "هاوکاتگەری">
 
-<!ENTITY syncSignIn.label             "بچۆژوورەوە بۆ &syncBrand.shortName.label;...">
-<!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "هاوکاتگەری بکە ئێستا">
-<!ENTITY syncSyncNowItemSyncing.label "هاوکاتگەری دەکرێت...">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "پەیوەندی بکەرەوە بە &syncBrand.shortName.label;...">
-<!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "هاوکاتگەری">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "شاردنەوەی خۆکار">
-
-<!ENTITY getUserMedia.selectCamera.label "کامێرا بۆ بڵاوکردنەوە">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "مایکرۆفۆن بۆ بڵاوکردنەوە">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "دەنگ لە بازدەرەوە بڵاودەکرێتەوە.">
-<!ENTITY getUserMedia.allWindowsShared.message "هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.">
-
-<!ENTITY contentBlocking.title "بلۆککردنی ناوەڕۆک">
-<!ENTITY contentBlocking.detected "ناوەڕۆکێک دۆزرایەوە کە دەتوانرێت بلۆک بکرێت لەم ماڵپەڕە.">
-<!ENTITY contentBlocking.notDetected "هیچ ناوەڕۆکێک دۆزرایەوە کە بتوانرێت بلۆک بکرێت لەم ماڵپەڕە.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "چاودێریکەر">
-
-<!ENTITY contentBlocking.manageSettings.label "بەڕێوەبردنی بلۆککردنی ناوەڕۆک">
-<!ENTITY contentBlocking.manageSettings.accesskey "M">
-
-<!ENTITY contentBlocking.trackersView.label "چاودێریکەر">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "بۆ بلۆک کردنی هەموو چاودێریکردنێک، ئەوا بلۆککردنی ناوەڕۆک بکە بە “پتەو”.">
-
-<!ENTITY contentBlocking.cookies.label "شەکرۆکە">
-<!ENTITY contentBlocking.cookiesView.label "شەکرۆکە و زانیاری ماڵپەڕ">
-
-
-<!ENTITY contentBlocking.fingerprinters.label "پەنجە مۆرەکان">
-<!ENTITY contentBlocking.fingerprintersView.label "پەنجە مۆرەکان">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "کێشە بنێرە">
-<!ENTITY contentBlocking.breakageReportView.label "کێشە بنێرە">
-<!ENTITY contentBlocking.breakageReportView.learnMore "زیاتر بزانە">
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "بەستەر">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "چی کێشەیەکت هەیە؟ (دڵخوازییە)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "ڕاپۆرت بنێرە">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "پاشگەزبوونەوە">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "بلۆک بۆ ئەم ماڵپەڕە بکوژێنەوە">
-<!ENTITY trackingProtection.unblock5.accesskey "T">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "بەشێوەیییەکی کاتیی بلۆککردن بکوژێنەوە">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
-<!ENTITY trackingProtection.block6.label "بلۆک بۆ ئەم ماڵپەڕە کارا بکە">
-<!ENTITY trackingProtection.block6.accesskey "T">
-<!ENTITY trackingProtection.reload2.label "بارکردنەوەی پەڕە">
-<!ENTITY trackingProtection.reload2.accesskey "R">
-
-<!ENTITY pluginNotification.showAll.label "هەمووی پیشان بدە">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "23em">
 
 
 <!ENTITY uiTour.infoPanel.close "داخستن">
@@ -945,36 +270,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "گەڕانێکی پارێزراو!">
 <!ENTITY panicButton.thankyou.buttonlabel         "سوپاس!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "زیاتر بزانە دەربارەی DRM...">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "نوێکاری &brandShorterName; دابگرە">
 <!ENTITY updateManual.panelUI.label "ڕوونووسێکی نوێ دابگرە لە &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "ناتوانیت نوێکاری زیاتر ئەنجام بدەیت">
 <!ENTITY updateRestart.panelUI.label2 "پێبکەرەوە بۆ نوێکردنەوە &brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "بازدەری نوێ گۆڕا.">
-<!ENTITY newTabControlled.keepButton.label "گۆڕانکارییەکان بهێڵەوە">
-<!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "پێوەکراو ناچالاک بکە">
-<!ENTITY newTabControlled.disableButton.accesskey "D">
-
-<!ENTITY homepageControlled.header.message "پەڕەی سەرەکیت گۆڕانکاری بەسەرهات.">
-<!ENTITY homepageControlled.keepButton.label "گۆڕانکارییەکان بهێڵەوە">
-<!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "پێوەکراو ناچالاک بکە">
-<!ENTITY homepageControlled.disableButton.accesskey "D">
-
-<!ENTITY tabHideControlled.header.message "بچۆناو بازدەرە شاراوەکانەوە">
-<!ENTITY tabHideControlled.keepButton.label "بازدەرەکان بەشاراوەیی بهێڵەوە">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "پێوەکراو ناچالاک بکە">
-<!ENTITY tabHideControlled.disableButton.accesskey "D">
-
-<!ENTITY pageActionButton.tooltip "کردارەکانی پەڕە">
-<!ENTITY pageAction.addToUrlbar.label "زیادی بکە بۆ توڵی ناونیشان">
-<!ENTITY pageAction.removeFromUrlbar.label "سڕینەوە لە توڵی ناونیشان">
-<!ENTITY pageAction.manageExtension.label "بەڕێوەبردنی پێوەکراو...">
 
 <!ENTITY sendToDevice.syncNotReady.label "هاوکاتگەریکردنی ئامێرەکان...">
 

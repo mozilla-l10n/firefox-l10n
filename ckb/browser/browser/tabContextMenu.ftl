@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = بڕۆ بۆ پەنجەرەیەکی نوێ
     .accesskey = W
-undo-close-tab =
-    .label = بازدەری داخراو بهێنەوە
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = بازدەر دابخە
     .accesskey = c
