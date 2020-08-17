@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Tutup
     .title = Sidik Jari OTR yang Terlihat Sebelumnya
+
 finger-intro = Sidik jari kunci OTR dari percakapan terenkripsi ujung-ke-ujung sebelumnya.
+
 finger-screenName =
     .label = Kontak
 finger-verified =
     .label = Status Verifikasi
 finger-fingerprint =
     .label = Sidik Jari
+
 finger-remove =
     .label = Hapus yang Dipilih
+
 finger-remove-all =
     .label = Hapus Seluruhnya

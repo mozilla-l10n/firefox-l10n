@@ -28,10 +28,6 @@ serviceworker-worker-unregister = Batalkan Pendaftaran
 serviceworker-worker-debug = Debug
     .title = Hanya service workers yang berjalan dapat didebug
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = Mulai
-
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = Debug
@@ -61,10 +57,6 @@ serviceworker-worker-status-running = Berjalan
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Dihentikan
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = Mendaftarkan
 
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers

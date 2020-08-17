@@ -23,4 +23,6 @@ otr-require-encryption-info =
     tidak akan ditampilkan sebagai bagian dari percakapan reguler, dan tidak dicatat.
 otr-verifyNudge =
     .label = Selalu ingatkan saya untuk memverifikasi kontak yang tidak diverifikasi
+
 otr-notYetAvailable = belum tersedia
+

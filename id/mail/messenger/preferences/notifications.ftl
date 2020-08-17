@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Atur Peringatan Email Baru
+
 customize-alert-description = Pilih field yang akan ditampilkan pada alarm peringatan:
+
 preview-text-checkbox =
     .label = Teks Pratinjau Pesan
     .accesskey = j
+
 subject-checkbox =
     .label = Subjek:
     .accesskey = S
+
 sender-checkbox =
     .label = Pengirim
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Tampilkan Peringatan Surel Baru untuk
     .accesskey = N
+
 open-time-label-after =
     .value = detik

@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arsipkan">
 <!ENTITY hdrArchiveButton1.tooltip "Arsipkan pesan ini">
-<!ENTITY hdrOpenConversationButton1.label "Percakapan">
-<!ENTITY hdrOpenConversationButton1.tooltip "Tampilkan percakapan dari pesan ini">
 <!ENTITY hdrSmartReplyButton1.label "Balasan pintar">
 <!ENTITY hdrReplyButton1.label "Balas">
 <!ENTITY hdrReplyButton2.tooltip "Balas ke pengirim pesan ini">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Balas ke milis">
 <!ENTITY hdrFollowupButton1.label "Balasan">
 <!ENTITY hdrFollowupButton1.tooltip "Kirimkan balasan ke newsgroup ini">
-<!ENTITY hdrMenuForwardButton.label "Teruskan sebagai">
 <!ENTITY hdrForwardButton1.label "Teruskan">
 <!ENTITY hdrForwardButton1.tooltip "Teruskan pesan ini">
 <!ENTITY hdrJunkButton1.label "Junk">

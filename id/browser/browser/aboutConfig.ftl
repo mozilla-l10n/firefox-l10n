@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Inilah naga!
-about-config-warning-text = Mengubah nilai bawaan pada pengaturan tingkat lanjut ini dapat mengakibatkan kerusakan pada stabilitas, keamanan, dan kinerja aplikasi ini. Hanya lanjutkan jika benar-benar tahu apa yang akan Anda lakukan.
-about-config-warning-checkbox = Tanya lagi nanti!
-about-config-warning-button = Saya terima risikonya
-
-about-config2-title = Konfigurasi Lanjutan
-
-about-config-search-input =
-    .placeholder = Cari
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Lanjutkan dengan Kehati-hatian
@@ -30,13 +19,6 @@ about-config-page-title = Preferensi Tingkat Lanjut
 about-config-search-input1 =
     .placeholder = Cari nama preferensi
 about-config-show-all = Tampilkan Semua
-
-about-config-pref-add = Tambah
-about-config-pref-toggle = Aktifkan/Nonaktifkan
-about-config-pref-edit = Edit
-about-config-pref-save = Simpan
-about-config-pref-reset = Setel Ulang
-about-config-pref-delete = Hapus
 
 about-config-pref-add-button =
     .title = Tambah

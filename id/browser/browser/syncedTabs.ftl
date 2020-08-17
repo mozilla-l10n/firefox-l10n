@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Tab yang Disinkronkan
 synced-tabs-sidebar-noclients-subtitle = Ingin melihat tab dari perangkat Anda yang lain di sini?
-synced-tabs-sidebar-notsignedin = Masuk untuk melihat daftar tab dari perangkat lainnya.
 synced-tabs-sidebar-intro = Lihat daftar tab dari perangkat Anda lainnya.
 synced-tabs-sidebar-unverified = Akun Anda perlu diverifikasi.
 synced-tabs-sidebar-notabs = Tidak ada tab terbuka

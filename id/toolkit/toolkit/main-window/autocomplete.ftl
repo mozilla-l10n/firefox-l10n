@@ -11,5 +11,11 @@
 autocomplete-import-logins =
     <div data-l10n-name = "line1"> Impor info masuk Anda dari { $browser } </div>
     <div data-l10n-name = "line2"> untuk { $host } dan situs lain </div>
+
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Pelajari lebih lanjut

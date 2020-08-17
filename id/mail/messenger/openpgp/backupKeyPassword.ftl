@@ -4,5 +4,7 @@
 
 set-password-window =
     .title = Pilih sandi untuk membuat cadangan Kunci OpenPGP Anda
+
 set-password-legend = Tentukan Sandi
+
 password-quality-meter = Pengukur kualitas sandi

@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "s">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Tempel tanpa Format">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Tempel Sebagai">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Tempel sebagai Kutipan">
 <!ENTITY pasteAsQuotationCmd.accesskey "K">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Cari…">
-<!ENTITY findReplaceCmd.label "Cari dan Ganti…">
-<!ENTITY enableInlineSpellChecker.label "Periksa Ejaan saat Mengetik">
-<!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd2.label "Periksa Ejaan">
-<!ENTITY checkSpellingCmd2.accesskey "e">
-<!ENTITY checkSpellingCmd2.key "k">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Sisipkan">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Teks Isi">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Properti Canggih">
-<!ENTITY advancedPropertiesCmd.accesskey "C">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Rata">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Kiri-Kanan">
 <!ENTITY alignJustify.accesskey "n">
 <!ENTITY alignJustify.tooltip "Rata Kiri-Kanan">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Layer">
-<!ENTITY layerSendToBack.tooltip "Pindahkan ke Belakang">
-<!ENTITY layerBringToFront.tooltip "Pindahkan ke Depan">
 
 <!ENTITY increaseIndent.label "Tambah Indentasi">
 <!ENTITY increaseIndent.accesskey "I">
@@ -283,19 +262,6 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Bilah Menu">
-<!ENTITY formatToolbar.tooltip "Bilah Format">
-<!ENTITY cutToolbarCmd.tooltip "Potong">
-<!ENTITY copyToolbarCmd.tooltip "Salin">
-<!ENTITY pasteToolbarCmd.tooltip "Tempel">
-<!ENTITY printToolbarCmd.label "Cetak">
-<!ENTITY printToolbarCmd.tooltip "Cetak Laman Ini">
-<!ENTITY findToolbarCmd.label "Cari">
-<!ENTITY findToolbarCmd.tooltip "Cari teks di laman">
-<!ENTITY spellToolbarCmd.label "Periksa Ejaan">
-<!ENTITY spellToolbarCmd.tooltip "Periksa Ejaan saat mengetik atau seluruh laman">
-
-<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Gambar">
 <!ENTITY imageToolbarCmd.tooltip "Sisipkan gambar baru atau sunting properti gambar yang dipilih">
 <!ENTITY hruleToolbarCmd.label "G.Mendatar">
@@ -308,8 +274,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Sisipkan penanda bernama baru atau sunting properti penanda bernama terpilih">
 <!ENTITY TextColorButton.tooltip "Pilih warna untuk teks">
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna untuk latar belakang">
-<!ENTITY throbber.tooltip2 "Buka &brandShortName; beranda">
-<!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Tetapkan ukuran font">
@@ -328,14 +292,6 @@
 <!ENTITY alignCenterButton.tooltip "Buat teks rata tengah">
 <!ENTITY alignRightButton.tooltip "Buat teks rata kanan pada margin kanan">
 <!ENTITY alignJustifyButton.tooltip "Buat teks rata pada margin kiri dan kanan">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Pilih">
-<!ENTITY structSelect.accesskey     "P">
-<!ENTITY structRemoveTag.label      "Hapus tag">
-<!ENTITY structRemoveTag.accesskey  "H">
-<!ENTITY structChangeTag.label      "Ubah tag">
-<!ENTITY structChangeTag.accesskey  "U">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Sisipkan">

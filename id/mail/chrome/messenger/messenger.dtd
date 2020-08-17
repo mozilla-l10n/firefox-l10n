@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "Konsol Kesalahan">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Scratchpad">
-<!ENTITY scratchpadCmd.accesskey "S">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Ambil Pesan">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Teruskan pesan yang dipilih sebagai lampiran">
 <!ENTITY fileButton.tooltip "Simpan pesan terpilih sebagai berkas ">
 <!ENTITY archiveButton.tooltip "Arsipkan pesan terpilih">
-<!ENTITY openConversationButton.tooltip "Tampilkan percakapan dari pesan yang dipilih">
 <!ENTITY openMsgConversationButton.tooltip "Tampilkan percakapan dari pesan yang dipilih">
 <!ENTITY nextButton.tooltip "Pindah ke pesan yang belum dibaca selanjutnya">
 <!ENTITY nextMsgButton.tooltip "Pindah ke pesan selanjutnya">

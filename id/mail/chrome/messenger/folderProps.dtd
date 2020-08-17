@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Jenis Folder:">
 
 <!ENTITY folderQuotaTab.label                    "Kuota">
-<!ENTITY folderQuotaRoot.label                   "Kuota Dasar:">
 <!ENTITY folderQuotaUsage.label                  "Penggunaan:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

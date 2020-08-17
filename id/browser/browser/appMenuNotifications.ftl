@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Kelola pengaya Anda dengan mengeklik <image
 appmenu-addon-post-install-incognito-checkbox =
     .label = Izinkan ekstensi ini untuk berjalan di Jendela Pribadi
     .accesskey = I
-appmenu-addon-private-browsing =
-    .label = Ubah ke ekstensi pada Jendela Pribadi
-    .buttonlabel = Kelola Ekstensi
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Oke, paham
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Semua ekstensi baru yang Anda tambahkan ke { -brand-shorter-name } tidak akan berjalan di Jendela Pribadi kecuali Anda mengizinkannya di peraturan.
-appmenu-addon-private-browsing-learn-more = Pelajari cara mengelola pengaturan ekstensi.
     
 appmenu-new-tab-controlled =
     .label = Tab Baru Anda telah diubah.
