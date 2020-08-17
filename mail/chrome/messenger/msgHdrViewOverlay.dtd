@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Архивиране">
 <!ENTITY hdrArchiveButton1.tooltip "Архивира съобщението">
-<!ENTITY hdrOpenConversationButton1.label "Разговор">
-<!ENTITY hdrOpenConversationButton1.tooltip "Показване на разговора на това съобщение">
 <!ENTITY hdrSmartReplyButton1.label "Умен отговор">
 <!ENTITY hdrReplyButton1.label "Отговаряне">
 <!ENTITY hdrReplyButton2.tooltip "Изпращане на отговор до подателя на писмото">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Отговор до пощенски списък">
 <!ENTITY hdrFollowupButton1.label "Отговор">
 <!ENTITY hdrFollowupButton1.tooltip "Изпращане на отговор до дискусионната група">
-<!ENTITY hdrMenuForwardButton.label "Препращане като">
 <!ENTITY hdrForwardButton1.label "Препращане">
 <!ENTITY hdrForwardButton1.tooltip "Препраща съобщението">
 <!ENTITY hdrJunkButton1.label "Нежелана">

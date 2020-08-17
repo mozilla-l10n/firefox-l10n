@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = В нов прозорец
     .accesskey = п
-undo-close-tab =
-    .label = Отваряне на затворен раздел
-    .accesskey = О
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Затваряне на раздела
     .accesskey = З

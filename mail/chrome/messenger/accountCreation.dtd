@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Настройка на съществуваща пощенска кутия">
-
 <!ENTITY emailWizard.title               "Настройте своя съществуваща пощенска кутия">
 <!ENTITY emailWizard.caption             "Използвайте текущия си адрес на ел. поща">
 <!ENTITY name.label                      "Имена:">
 <!ENTITY name.accesskey                  "и">
-<!ENTITY name.placeholder                "Име Фамилия">
 <!ENTITY fullname.placeholder            "Вашите две имена">
 <!ENTITY name.text                       "Вашите имена, както ще ги виждат другите">
 <!ENTITY name.error                      "Моля, въведете имената си">
 <!ENTITY email.label                     "Електронен адрес:">
 <!ENTITY email.accesskey                 "Е">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Вашият адрес на ел. поща">
 <!ENTITY email.text                      "Вашият съществуващ адрес на ел. поща">
 <!ENTITY email.error                     "Недействителен адрес на ел. поща">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Изходяща:">
 <!ENTITY outgoingColumn.label            "Изходяща">
 <!ENTITY username.label                  "Потребителско име:">
-<!ENTITY hostname.label                  "Име на сървъра">
-<!ENTITY port.label                      "Порт">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Сървър:">
 <!ENTITY portRow.label                   "Порт:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Тест отново">
 <!ENTITY half-manual-test.accesskey      "Т">
-<!ENTITY manual-edit.label               "Ръчна настройка">
-<!ENTITY manual-edit.accesskey           "Р">
 <!ENTITY manual-config.label             "Ръчни настройки…">
 <!ENTITY manual-config.accesskey         "р">
 <!ENTITY open-provisioner.label          "Получете нов електронен адрес…">

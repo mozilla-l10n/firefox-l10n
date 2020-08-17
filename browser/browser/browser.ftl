@@ -112,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Въвеждайте малко, намирайте много: търсете с { $engineName } направо от адресната лента.
 urlbar-search-tips-redirect-2 = Започнете търсене от адресната лента, за да видите предложения от { $engineName } и историята на разглеждане.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -191,6 +193,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Задаване като стандартна търсачка в поверителни прозорци
     .accesskey = п
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -291,8 +300,10 @@ popup-screen-sharing-never =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Търсете или въведете адрес
+
 urlbar-placeholder =
     .placeholder = Търсете или въведете адрес
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Четецът е под дистанционно управление
 urlbar-permissions-granted =

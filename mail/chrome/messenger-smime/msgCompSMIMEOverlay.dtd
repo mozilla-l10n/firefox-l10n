@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Шифроване на писмото">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Без шифроване">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "з">
 

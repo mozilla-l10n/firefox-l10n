@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "писма">
 <!ENTITY alwaysAuthenticate.label "При свързване с този сървър винаги се изисква идентификация">
 <!ENTITY alwaysAuthenticate.accesskey "ъ">
-<!ENTITY newsrcFilePath.label "newsrc файл:">
-<!ENTITY newsrcPicker.label "Изберете newsrc файл">
 <!ENTITY abbreviate.label "Имената на дискусионните групи се показват с:">
 <!ENTITY abbreviateOn.label "Пълни имена (напр. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Съкратени имена (напр. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Разширени…">
 <!ENTITY advancedButton.accesskey "ш">
 <!ENTITY serverDefaultCharset2.label "Стандартно кодиране:">
-<!ENTITY localPath.label "Местна директория:">
 <!ENTITY localFolderPicker.label "Изберете директория">
 <!ENTITY browseFolder.label "Избор…">
 <!ENTITY browseFolder.accesskey "б">

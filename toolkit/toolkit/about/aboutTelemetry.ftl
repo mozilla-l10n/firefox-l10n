@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Източник на данните в пакета:
-about-telemetry-show-current-ping-data = Текущи данни
 about-telemetry-show-archived-ping-data = Архивни данни
 about-telemetry-show-subsession-data = Показване на подробни данни
 about-telemetry-choose-ping = Избиране на пакет:
@@ -63,7 +62,6 @@ about-telemetry-settings-explanation = Телеметрията събира { a
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Всяко парче информация бива изпращано под формата на „<a data-l10n-name="ping-link">пакети</a>“. В момента разглеждате пакет { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Всяко парче информация бива изпращано под формата на „<a data-l10n-name="ping-link">пакети</a>“. В момента разглеждате пакет текущ.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -88,8 +86,6 @@ about-telemetry-no-search-results-all = Съжаляваме! В нито едн
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Съжаляваме! В секция „{ $sectionName }“ няма данни
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = текущ пакет
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = всички
 # button label to copy the histogram

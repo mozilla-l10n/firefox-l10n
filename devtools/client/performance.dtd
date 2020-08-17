@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Име и местоположение на изходния код на функцията от извадката.">
 <!ENTITY performanceUI.table.totalAlloc               "Общо заделяния в извадка">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Общият брой на заделяния на Object по време на извадките в това местоположение и подчинените извиквания.">
-<!ENTITY performanceUI.table.selfAlloc                "Собствени заделяния в извадка">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Брой на заделяния на Object по време на извадките в това местоположение.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

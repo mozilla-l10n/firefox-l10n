@@ -72,15 +72,6 @@
 </ul>">
 
 <!ENTITY netOffline.title "Работа извън мрежата">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Опитайте отново. &brandShortName; ще се опита да направи връзка и да презареди страницата.
-    <button id='wifi'>Включване на Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, уведомете собствениците на страницата за проблема.</li> </ul>">

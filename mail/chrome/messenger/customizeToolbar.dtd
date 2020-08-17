@@ -12,6 +12,5 @@
 <!ENTITY iconsBesideText.label    "Текст до иконите">
 <!ENTITY useSmallIcons.label      "Малки икони">
 <!ENTITY restoreDefaultSet.label  "Стандартни настройки">
-<!ENTITY addNewToolbar.label      "Нова лента">
 <!ENTITY saveChanges.label        "Готово">
 <!ENTITY undoChanges.label        "Отмяна на промените">

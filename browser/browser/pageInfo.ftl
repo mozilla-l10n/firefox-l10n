@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Запазване като…
     .accesskey = к
-media-preview =
-    .value = Предварителен преглед:
 
 perm-tab =
     .label = Права
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Да, бисквитките
 security-site-data-no = Не
 
 image-size-unknown = Неизвестно
-not-set-verified-by = Неизвестно
 page-info-not-specified =
     .value = Не е посочено
 not-set-alternative-text = Неизвестно
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Нестандартен режим
 general-strict-mode =
     .value = Стандартен режим
-security-no-owner = Сайтът не предоставя информация за собственост.
 page-info-security-no-owner =
     .value = Сайтът не предоставя информация за собственост.
 media-select-folder = Изберете папка за запазване на изображенията

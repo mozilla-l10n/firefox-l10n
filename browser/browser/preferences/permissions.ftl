@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Моля, въведете валидно име
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Изключения – Ограничаване на съдържание
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Изключили сте ограничаването на съдържание за тези страници.
-
 permissions-exceptions-etp-window =
     .title = Изключения в разширената защита от проследяване
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Може да посочите страници, на които е позволено да инсталират добавки. Въведете точния адрес на страница и натиснете „Разрешаване“.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Изключения – Автоматично възпроизвеждане
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Може да укажете страниците, на които винаги е разрешено или забранено автоматично да възпроизвеждат медия със звук. Въведете точния адрес на страницата и изберете „Забраняване“ или „Разрешаване“.
 
 ## Site Permissions - Autoplay
 

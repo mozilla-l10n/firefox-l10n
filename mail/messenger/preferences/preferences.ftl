@@ -32,10 +32,6 @@ collection-backlogged-crash-reports-link = Научете повече
 
 # Variables:
 #   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Настройките не могат да бъдат запазени. Във файлa „{ $path }“ не може да бъде записвано.
-
-# Variables:
-#   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =

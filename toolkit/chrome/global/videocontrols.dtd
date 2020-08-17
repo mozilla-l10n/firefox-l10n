@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Картина в картината">
 
-<!ENTITY stats.media "Медия">
-<!ENTITY stats.size "Размер">
-<!ENTITY stats.activity "Активност">
-<!ENTITY stats.activityPaused "На пауза">
-<!ENTITY stats.activityPlaying "Изпълняване">
-<!ENTITY stats.activityEnded "Край">
-<!ENTITY stats.activitySeeking "(преместване)">
-<!ENTITY stats.volume "Сила на звука">
-<!ENTITY stats.framesParsed "Разпознати рамки">
-<!ENTITY stats.framesDecoded "Декодирани рамки">
-<!ENTITY stats.framesPresented "Налични рамки">
-<!ENTITY stats.framesPainted "Изчертани рамки">
-
 <!ENTITY error.aborted "Зареждането на видео спря.">
 <!ENTITY error.network "Зареждането на видео е прекъснато поради мрежова грешка.">
 <!ENTITY error.decode "Видеото не може да бъде възпроизведено, защото файлът е развален.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "Възпроизвеждането на видео прекъсна поради неизвестна грешка.">
 
 <!ENTITY status.pictureInPicture "Видеоклипът се възпроизвежда в режим картина в картината.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "изтекли са #1 от #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
