@@ -6,13 +6,6 @@ do-not-track-learn-more = Skua'a kuakaa
 do-not-track-option-always =
     .label = Ntikiì
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Preferencias
-           *[other] Preferencias
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Preferencias
@@ -257,18 +250,10 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-account-signin =
-    .label = Kitsaa
-    .accesskey = k
-
 ## Sync Section - Signed in
 
 
 ## Firefox Account - Signed in
-
-sync-disconnect =
-    .label = Keè
-    .accesskey = K
 
 sync-remove-account =
     .label = Stoó Kuenta
@@ -298,11 +283,6 @@ sync-engine-tabs =
     .label = Kuna xikua
     .tooltiptext = Iin  ña nuna nu ntii kaa ndusu itaán
     .accesskey = t
-
-sync-engine-logins =
-    .label = Kitsa
-    .tooltiptext = Nivi tsi tu'un see nchikavau
-    .accesskey = L
 
 sync-engine-addons =
     .label = Add-ons
@@ -376,10 +356,6 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
-content-blocking-setting-custom =
-    .label = Nixi kunu
-    .accesskey = N
-
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
@@ -443,6 +419,8 @@ security-enable-safe-browsing-link = Skua'a kuakaa
 
 ## Privacy Section - Certificates
 
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

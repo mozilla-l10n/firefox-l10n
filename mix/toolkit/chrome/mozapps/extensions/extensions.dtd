@@ -7,9 +7,6 @@
 
 
 
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Kunchatu">
-
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->

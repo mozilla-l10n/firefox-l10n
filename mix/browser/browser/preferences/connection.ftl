@@ -22,9 +22,6 @@ connection-proxy-http = HTTP Proxy
 connection-proxy-http-port = Puerto
     .accesskey = P
 
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
-
 connection-proxy-ssl-port = Puerto
     .accesskey = P
 

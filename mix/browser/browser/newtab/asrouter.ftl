@@ -125,3 +125,11 @@ cfr-doorhanger-socialtracking-close-button = Kasi
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

@@ -88,7 +88,6 @@ security-site-data-cookies-only = Vaá,  cookies
 security-site-data-no = No
 
 image-size-unknown = Desconocido
-not-set-verified-by = No especificado
 page-info-not-specified =
     .value = No especificado
 not-set-alternative-text = No especificado

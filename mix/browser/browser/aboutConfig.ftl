@@ -2,26 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = ¡Kunchee ña yee!
-about-config-warning-checkbox = ¡Katu'un nu, saa ña mani!
-about-config-warning-button = Vaa
-
-about-config-search-input =
-    .placeholder = Nduku
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 ##
 
 about-config-show-all = Snaa ntia
-
-about-config-pref-add = Chikaa
-about-config-pref-toggle = Sama
-about-config-pref-edit = Sama
-about-config-pref-save = Chika vaà
-about-config-pref-reset = Ndakitsaà
-about-config-pref-delete = Stoò
 
 about-config-pref-add-button =
     .title = Chikaa

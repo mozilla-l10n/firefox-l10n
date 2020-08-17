@@ -89,6 +89,8 @@ login-item-time-used = Ntsuana sa ntii: { DATETIME($timeUsed, day: "numeric", mo
 
 ## Master Password notification
 
+## Primary Password notification
+
 master-password-reload-button =
     .label = Kivii
     .accesskey = K
@@ -121,4 +123,6 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

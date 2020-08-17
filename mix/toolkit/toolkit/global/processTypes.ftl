@@ -4,10 +4,6 @@
 
 process-type-web = Tutu web
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Tutu vaá
-
 process-type-extension = Extensión
 
 # process used to open file:// URLs

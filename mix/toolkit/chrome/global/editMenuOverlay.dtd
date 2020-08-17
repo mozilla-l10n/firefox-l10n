@@ -2,14 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Sama">
-<!ENTITY editMenu.accesskey        "e">
-<!ENTITY copyCmd.label             "Ndatava">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
-<!ENTITY deleteCmd.label           "Stoò">
-<!ENTITY deleteCmd.accesskey       "d">
-
 <!ENTITY findCmd.label             "Nduku">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "N">

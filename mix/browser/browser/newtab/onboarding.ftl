@@ -13,20 +13,24 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Skua'a kuaka
-onboarding-button-label-try-now = Kunche vichi
 onboarding-button-label-get-started = Kitsaà
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Kukueni { -brand-short-name }
 
-onboarding-join-form-header = Ndututu tsi  { -brand-product-name }
-
 onboarding-join-form-email =
     .placeholder = Chaa Korreoku
 onboarding-join-form-continue = Inka
 
 onboarding-start-browsing-button-label = Kitsaà Ntuku
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -53,17 +57,6 @@ onboarding-sync-form-header = Chaa korreoku
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Nduku seé
-
-onboarding-screenshots-title = Nta'tava
-
-onboarding-addons-title = Komplementos
-
-onboarding-ghostery-title = Ghostery
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sync
-
 onboarding-tracking-protection-button2 = Nixi Kuachu'un ña
 
 onboarding-firefox-send-button = Kunchee { -send-brand-name }
@@ -74,8 +67,6 @@ onboarding-mobile-phone-title = Nduku { -brand-product-name } kaa ndusuku
 onboarding-mobile-phone-button = Snuu navegador móvil
 
 onboarding-pocket-anywhere-button = Kunchee { -pocket-brand-name }
-
-onboarding-lockwise-passwords-button2 = Nduku aplicación
 
 
 ## Message strings belonging to the Return to AMO flow

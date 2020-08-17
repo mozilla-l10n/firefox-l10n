@@ -45,8 +45,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "Skua'a kuakaa…">
 
-<!ENTITY remoteXUL.title "XUL remoto">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
