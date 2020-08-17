@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "条时询问我">
 <!ENTITY alwaysAuthenticate.label "连接到该服务器时一律请求认证">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc 文件：">
-<!ENTITY newsrcPicker.label "选择 newsrc 文件">
 <!ENTITY newsrcFilePath1.label "News.rc 文件：">
 <!ENTITY newsrcPicker1.label "选择 News.rc 文件">
 <!ENTITY abbreviate.label "在“邮件夹”中显示新闻组名为：">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "高级…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "默认文字编码：">
-<!ENTITY localPath.label "本地目录：">
 <!ENTITY localPath1.label "本地目录：">
 <!ENTITY localFolderPicker.label "选择本地文件夹">
 <!ENTITY browseFolder.label "浏览…">

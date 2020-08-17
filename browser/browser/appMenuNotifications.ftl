@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = 点击 <image data-l10n-name='addon-menu-ic
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允许此扩展在隐私窗口中运行
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = 隐私窗口中扩展的变化
-    .buttonlabel = 管理扩展
-    .buttonaccesskey = M
-    .secondarybuttonlabel = 好的，明白了
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = 除非您在设置中明确允许，否则新装到 { -brand-shorter-name } 的扩展一律无法在隐私窗口中使用。
-appmenu-addon-private-browsing-learn-more = 了解如何管理扩展设置。
     
 appmenu-new-tab-controlled =
     .label = 您的新标签页已变更。

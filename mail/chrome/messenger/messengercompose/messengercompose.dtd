@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "重做">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "剪切">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "复制">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "粘贴">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "选择全部">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "查找…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "打印这条消息">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "来自：">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "其他类型的地址">
 <!ENTITY fromAddr2.label "发件人">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "发至：">
-<!ENTITY ccAddr.label "抄送：">
-<!ENTITY bccAddr.label "密件抄送：">
-<!ENTITY replyAddr.label "回复地址：">
-<!ENTITY newsgroupsAddr.label "新闻组：">
-<!ENTITY followupAddr.label "跟踪地址：">
-<!ENTITY subject.label "主题:">
 <!ENTITY toAddr2.label "收件人">
 <!ENTITY ccAddr2.label "抄送">
 <!ENTITY bccAddr2.label "密送">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "跟踪地址：">
 <!ENTITY subject2.label "主题">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "c">
-<!ENTITY attachmentBucketHeader.tooltip "附件窗格">
 <!ENTITY attachmentBucketCloseButton.tooltip "隐藏附件窗格">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

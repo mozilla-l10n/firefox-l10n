@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = 另存为…
     .accesskey = e
-media-preview =
-    .value = 媒体预览：
 
 perm-tab =
     .label = 权限
@@ -132,7 +130,6 @@ security-site-data-cookies-only = 有，Cookie
 security-site-data-no = 无
 
 image-size-unknown = 未知
-not-set-verified-by = 未指明
 page-info-not-specified =
     .value = 未指明
 not-set-alternative-text = 未指明
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = 怪异模式
 general-strict-mode =
     .value = 标准规范模式
-security-no-owner = 此网站未提供所有者信息。
 page-info-security-no-owner =
     .value = 此网站未提供所有者信息。
 media-select-folder = 请选择保存图像的文件夹

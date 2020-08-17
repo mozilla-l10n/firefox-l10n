@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "取样函数的名称和源代码位置。">
 <!ENTITY performanceUI.table.totalAlloc               "总计采样分配量">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "在此位置和被呼叫项目中采样到的对象分配总数。">
-<!ENTITY performanceUI.table.selfAlloc                "自身被采样分配量">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "此位置被采样分配量的对象总数。">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

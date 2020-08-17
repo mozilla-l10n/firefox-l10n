@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "从下列来源导入选项、书签、历史记录、密码以及其他数据：">
 <!ENTITY importFromUnix.label           "从下列来源导入首选项、书签、历史记录、密码以及其他数据：">
-<!ENTITY importFromBookmarks.label      "从下列来源导入书签：">
 
 <!ENTITY importFromIE.label             "微软 IE 浏览器">
 <!ENTITY importFromIE.accesskey         "M">
