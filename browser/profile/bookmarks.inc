@@ -58,10 +58,6 @@
 # Nightly builds only, link title for about:crashes
 #define crashes Elenco degli arresti anomali
 
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Il canale IRC dedicato a Nightly
-
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
 #define planet Pianeta Mozilla
