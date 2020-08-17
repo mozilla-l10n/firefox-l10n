@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Maikling Pamagat"> 
-<!ENTITY message.label    "Dito ang sample Text.">
-
 <!ENTITY editfield0.label "Pangalan ng User:"> 
 <!ENTITY editfield1.label "Password:"> 
-<!ENTITY checkbox.label   "tsek"> 
 <!ENTITY copyCmd.label    "Kopyahin">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Piliin ang Lahat">

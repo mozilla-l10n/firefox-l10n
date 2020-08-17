@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
-
 <!ENTITY appmenu.tooltip                     "Buksan ang menu">
 <!ENTITY navbarOverflow.label                "Marami pang mga kagamitan…">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "I-pin ang Tab">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "I-unpin ang Tab">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendPageToDevice.label             "Ipadala ang Pahina sa Device">
-<!ENTITY  sendPageToDevice.accesskey         "D">
-<!ENTITY  sendLinkToDevice.label             "Ipadala ang Link sa Device">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  undoCloseTab.label                 "Buksang Muli ang Isinarang Tab">
-<!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  hiddenTabs.label                   "Mga Nakatagong Tab">
 
 <!ENTITY  listAllTabs.label      "Ilista ang lahat ng mga tabs">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Hanapin sa mga tab">
 
 <!ENTITY tabCmd.label "Bagong Tab">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Buksan ang Lokasyon…">
 <!ENTITY openFileCmd.label "Magbukas ng file…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Maglagay ng Pahina…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Print Preview">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "I-print...">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "I-import mula sa ibang Browser…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Task Manager">
 
-<!ENTITY goOfflineCmd.label "Magtrabaho Offline">
-<!ENTITY goOfflineCmd.accesskey "k">
-
 <!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Mga Navigation Toolbar">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,70 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Mga bookmark">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmark Toolbar">
 
-<!ENTITY pageSourceCmd.label "Source Code ng Pahina">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Impormasyon tungkol sa Pahina">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Layout Debugger">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Mirror Tab">
-<!ENTITY mirrorTabCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Pasukin ang Full Screen">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Umalis sa Full Screen">
-<!ENTITY exitFullScreenCmd.accesskey "F">
-
 <!ENTITY fullScreenCmd.label "Buong Screen">
-<!ENTITY fullScreenCmd.accesskey "B">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Ipakita ang Lahat ng Mga Tab">
-<!ENTITY showAllTabsCmd.accesskey "a">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Mag Sign in sa &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Buksan ang Pagpipilian ng &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Muling kumonekta sa &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "I-verify ang Iyong Account">
-
-
-<!ENTITY fullScreenMinimize.tooltip "i-Minimize">
-<!ENTITY fullScreenRestore.tooltip "Ibalik">
-<!ENTITY fullScreenClose.tooltip "Isara">
-<!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
-<!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "Lumabas sa Full Screen Mode">
-<!ENTITY fullScreenExit.accesskey "F">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Dalhin ang Firefox kasama Mo">
-<!ENTITY fxa.signin.description.label "Kunin ang iyong mga bookmark, history, password at iba pang mga setting sa lahat ng iyong mga device.">
-<!ENTITY fxa.signin.button.label "Buksan ang &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "I-check ang iyong Email">
-<!ENTITY fxa.unverified.description.label "Kailangan mong i-verify ang iyong account bago ka makapag-sync.">
-<!ENTITY fxa.unverified.button.label "Buksan ang mga &syncBrand.shortName.label; Setting…">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Mag-sign in bilang si">
-<!ENTITY fxa.menu.manageAccount.label "I-manage ang Account…">
-<!ENTITY fxa.menu.syncSettings.label "Mga &syncBrand.shortName.label; Setting…">
 
 <!ENTITY pictureInPictureHideToggle.label "Itago ang Toggle para sa Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
@@ -191,14 +81,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Umalis sa Full Screen (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Umalis sa Full Screen (Esc)">
-<!ENTITY leaveDOMFullScreen.label "Umalis sa Full Screen">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Picture-in-Picture">
-<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -209,86 +91,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "ay may kontrol sa iyong pointer. Pindutin ang ESC para mabawi ang kontrol.">
 <!ENTITY pointerlockWarning.generic.label "Ang dokumentong ito ay may kontrol sa iyong pointer. Pindutin ang Esc para manumbalik ang kontrol.">
 
-<!ENTITY closeWindow.label "Isara ang Window">
-<!ENTITY closeWindow.accesskey "d">
-
-<!ENTITY bookmarksMenu.label "Mga Bookmark">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "i-Bookmark ang Pahinang Ito">
-<!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "i-bookmark Lahat ng mga Tab…">
-
 <!ENTITY showAllBookmarks2.label "Ipakita Lahat ng mga Bookmark">
 <!ENTITY recentBookmarks.label "Mga Na-bookmark Kamakailan">
-<!ENTITY otherBookmarksCmd.label "Iba pang mga Bookmark">
-<!ENTITY mobileBookmarksCmd.label "Mga Mobile Bookmark">
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
-
-<!ENTITY backCmd.label                "Bumalik">
-<!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "Bumalik nang isang pahina">
-<!ENTITY forwardCmd.label             "Magpatuloy">
-<!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "Pumunta sa susunod na pahina">
-<!ENTITY backForwardButtonMenu.tooltip "Mag-right-click o mag-pull down para makita ang history">
-<!ENTITY backForwardButtonMenuMac.tooltip "Hilahing pababa para ipakita ang kasaysayan">
-<!ENTITY reloadCmd.label              "Ulitin muli">
-<!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY stopCmd.label                "Itigil">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
 
 <!ENTITY printButton.label            "I-print">
 <!ENTITY printButton.tooltip          "I-limbag ang pahina na ito">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Tingnan ang impormasyon ng site">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Buksan ang panel ng mensahe">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Buksan ang panel ng kahilingan ng lokasyon">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Buksan ang panel ng autoplay">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Buksan ang add-on intallation message panel">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pamahalaan ang pahintulot sa pagkuha ng cavas">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Buksan ang offline storage message panel">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buksan ang panel ng mga naitabing password">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Pangasiwaan ang paggamit ng plug-in">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Baguhin kung pwede ka na makakuha ng abiso galing sa site">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Ilagay ang datos sa Persistent Storage">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser ay kasalukuyang nire-remote kontrol">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Buksan ang Web Authentication panel">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Buksan ang panel ng mga pahintulot para sa browsing activity">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Pangasiwaan ang pag-bahagi ng iyong kodak at/o mikropono sa site">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Pangasiwaan ang pag-bahagi ng iyong mikropono sa site">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Pangasiwaan ang pag-bahagi ng iyong windows o screen sa site">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Buksan ang install message panel">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Isalin ang pahina na ito">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "I-manage ang page translation">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pamahalaan ang paggamit ng DRM software">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buksan ang MIDI panel">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Hinarangan mo ang iyong camera para sa website na ito.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Na-block mo ang iyong mikropono para sa website na ito.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Na-block mo ang website na ito mula sa pagbabahagi ng iyong screen.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Na-block mo ang impormasyon ng lokasyon para sa website na ito.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Na-block mo ang mga notification para sa website na ito.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Na-block mo ang paulit-ulit na imbakan para sa website na ito.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Hinarangan mo ang mga pop-up sa website na ito.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Hinarangan mo ang pag autoplay ng media na may tunog sa website na ito.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Na-block mo ang data extraction ng canvas para sa website na ito.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Na-block mo ang website na ito mula sa paggamit ng Adobe Flash plugin.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Na-block mo ang access sa MIDI para sa website na ito.">
-<!ENTITY urlbar.installBlocked.tooltip           "Hinarang mo ang pagkabit ng mga add-on sa website na ito.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
-
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.">
 
 
 <!ENTITY searchItem.title             "Hanapin">
@@ -298,7 +106,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Home Page">
 
 <!ENTITY bookmarksButton.label          "Mga bookmark">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Mga bookmark">
 <!ENTITY bookmarksMenuButton2.label         "Menu ng mga Bookmark">
@@ -313,109 +120,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Idagdag ang Bookmark Menu sa Toolbar">
 <!ENTITY removeBookmarksMenu.label          "Alisin ang Bookmark Menu mula sa Toolbar">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Kasaysayan">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Mga Kagamitan">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY keywordfield.label           "Magdagdag ng Keyword para sa Search na ito...">
-<!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Mga Download">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Mga Download">
-<!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Mga add-on">
-<!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY inspectContextMenu.label     "Inspect Element">
-<!ENTITY inspectContextMenu.accesskey "I">
-
-<!ENTITY inspectA11YContextMenu.label     "Inspect Accessibility Properties">
-
-<!ENTITY fileMenu.label         "File">
-<!ENTITY fileMenu.accesskey       "F">
-
-<!ENTITY newUserContext.label             "Bagong Container Tab">
-<!ENTITY newUserContext.accesskey         "B">
-<!ENTITY manageUserContext.label          "Manage Containers">
-<!ENTITY manageUserContext.accesskey      "O">
 
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
-<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Edit">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "i-Undo">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.label            "Ulitin">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "i-Cut">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "t">
-<!ENTITY copyCmd.label            "Kopyahin">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "i-Paste">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "Burahin">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "B">
-<!ENTITY selectAllCmd.label         "Piliin Lahat">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "Mga pagpipilian">
-<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Mga Kagustuhan">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "Mga Login at Password">
-
-<!ENTITY clearRecentHistory.label               "Burahin ang Kasaysayan…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Tingnan">
-<!ENTITY viewMenu.accesskey       "T">
-<!ENTITY viewToolbarsMenu.label       "Mga Toolbars">
-<!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "Sidebar">
-<!ENTITY viewSidebarMenu.accesskey "e">
-
-<!ENTITY viewCustomizeToolbar.label       "I-customize...">
-<!ENTITY viewCustomizeToolbar.accesskey     "c">
 
 <!ENTITY overflowCustomizeToolbar.label       "I-customize ang Toolbar...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Kasaysayan">
-<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Mga Naisarang Tab">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Mga Bagong Sarang Window">
-<!ENTITY historyRestoreLastSession.label "Ibalik ang Nakaraang Session">
-
-<!ENTITY showAllHistoryCmd2.label "Ipakita ang Lahat ng Kasaysayan">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Ipakita ang Lahat na Kasaysayan">
 <!ENTITY appMenuHistory.clearRecent.label "Burahin ang Kasaysayan">
@@ -445,10 +174,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buksan ang Mga Kagustuhan sa Pag-sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in para makita ang listahan ng mga tab mula sa iba mong mga device.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Tingnan ang listahan ng mga tab mula sa iba mong mga device.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ang iyong account ay kailangang ma-verify.">
-<!ENTITY appMenuRemoteTabs.signin.label "Mag-sign in sa Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Mag-sign in sa &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Buksan ang &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
@@ -466,79 +193,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "I-dagdag sa Overflow Menu">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "I-pin sa Overflow Menu">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "I-unpin mula sa Overflow Menu">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Alisin sa Toolbar">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Magdagdag ng Higit pang Mga Item...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "Auto-Hide in Toolbar">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "I-manage ang Extension">
-<!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.label "Alisin ang Extension">
-<!ENTITY customizeMenu.removeExtension.accesskey "v">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "i-Report ang Extension">
-<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Higit pa">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Hanapin o ilagay ang address">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Extension:">
-<!ENTITY urlbar.switchToTab.label     "Lumipat sa tab:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Humingi ng tulong sa paghahanap ng mga bagay! Hanapin ang &#x1F50E; Sa tabi ng mga mungkahi sa paghahanap.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Baguhin ang mga Pagpipilian…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Baguhin ang mga Kagustuhan…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Hanapin ang tanong">
 
 <!ENTITY contentSearchSubmit.tooltip  "Isumite ang hinahanap">
 
@@ -547,202 +212,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Hanapin">
 <!ENTITY searchIcon.tooltip           "Hanapin">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Hanapin ang ">
-<!ENTITY searchWith.label             " pati:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Hanapin ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Hanapin gamit ang:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Baguhin ang mga Search Setting">
-<!ENTITY changeSearchSettings.tooltip "Baguhin ang mga search setting">
-
-<!ENTITY searchInNewTab.label         "Hanapin sa Bagong Tab">
-<!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "I-set sa Default Search Engine">
-<!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY openLinkCmdInTab.label       "Buksan ang Link sa Bagong Tab">
-
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Buksan ang Link sa Bagong Window">
-<!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Buksan ang Link sa Bagong Pribadong Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
-<!ENTITY openLinkCmdInCurrent.label     "Buksan ang Link">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "Buksan ang Frame sa Bagong Tab">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "Buksan ang Frame sa Bagong Window">
-<!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "Buksan ang Link sa Bagong Container Tab">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
-<!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
-<!ENTITY showOnlyThisFrameCmd.accesskey "k">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "I-load ang Frame muli">
-<!ENTITY reloadFrameCmd.accesskey     "l">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Ipakita ang Source Code ng Selection">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Tingnan ang Source Code ng Pahina">
-<!ENTITY viewPageSourceCmd.accesskey  "T">
-<!ENTITY viewFrameSourceCmd.label     "Ipakita ang Frame Source">
-<!ENTITY viewFrameSourceCmd.accesskey "k">
-<!ENTITY viewPageInfoCmd.label        "Tingnan ang Impormasyon tungkol sa Pahina">
-<!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Ipakita ang Frame Info">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "I-reload ang Larawan">
-<!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Tingnan ang Larawan">
-<!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Tingnan ang Impormasyon ng Larawan">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Tingnan ang Paglalarawan">
-<!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "Tingnan ang Video">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Ipakita ang Background Image">
-<!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "i-Bookmark ang Pahinang Ito">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "i-Bookmark ang Link na Ito">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "i-Bookmark ang Frame na Ito">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY pageAction.copyLink.label    "Kopyahin ang Link">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "I-save sa Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "I-save ang Page sa Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "I-save ang Link sa Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Tingnan ang Pocket List">
 
 <!ENTITY emailPageCmd.label           "i-Email ang Link…">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "I-save ang Pahina Bilang…">
-<!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "I-Save ang Frame Bilang…">
-<!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "I-print ang Frame…">
-<!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "I-save ang Link Bilang…">
-<!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "I-save ang Larawan Bilang...">
-<!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "I-save ang Video Bilang...">
-<!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
-<!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "i-Email ang Larawan…">
-<!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "i-Email ang Video…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "i-Email ang Audio...">
-<!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Paganahin ang plugin na ito">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Itago ang plugin na ito">
-<!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "Kopyahin ang Lokasyon ng Link">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Kopyahin ang Lokasyon ng Larawan">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Kopyahin ang Larawan">
-<!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "Kopyahin ang Lokasyon ng Video">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Kopyahin ang Lokasyon ng Audio">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Kopyahin ang Email Address">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Ang Frame na Ito">
-<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "I-play">
-<!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "Pause">
-<!ENTITY mediaPause.accesskey        "P">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "I-mute">
-<!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "I-unmute">
-<!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "Bilis ng Pag-play">
-<!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "Pabagalin ng(0.5 x)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "Normal">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Mabilis ng(1.25 x)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
-<!ENTITY mediaPlaybackRate150x2.label "Mas mabilis ng (1.5 x )">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Loop">
-<!ENTITY mediaLoop.accesskey         "L">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Ipakita ang Controls">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Itago ang mga Control">
-<!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Buong Screen">
-<!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "I-save ang Snapshot Bilang…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Ipakita ang mga Statistics">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Itago ang Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -750,53 +231,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Palakihin">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Paliitin">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "I-reset">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "I-zoom lamang ang Teksto">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-
 <!ENTITY fullZoom.label                 "i-Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Isara ang sidebar ">
-<!ENTITY sidebarMenuClose.label         "Isara ang Sidebar">
 
 <!ENTITY quitApplicationCmdWin2.label       "Lumabas">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Lumabas &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Lumabas">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Isara ang &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Isara">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "C">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Style ng Page">
-<!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "Walang Istilo">
-<!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "Basic na Estilo ng Pahina">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -807,169 +251,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Lumipat ng Page Direction">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Switch Text Direction">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Hanapin sa Pahinang Ito…">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Ipahanap Ulit">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Ilagay sa Diksyonaryo...">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Tapos na">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Ipakita ang editor kapag nagse-save">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Seguridad ng Site">
-
-<!ENTITY identity.connection "Koneksyon">
-<!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
-<!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
-<!ENTITY identity.connectionFile "Ang pahinang ito ay naka-imbak sa iyong computer.">
-<!ENTITY identity.connectionVerified2 "Malayo kang konektado sa site na ito, na pag-aari ng:">
-<!ENTITY identity.connectionInternal "Ito ay secure na &brandShortName; na pahina.">
-<!ENTITY identity.extensionPage "Ang pahinang ito ay nai-load mula sa isang extension.">
-<!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
-<!ENTITY identity.customRoot "Ang connection ay na-verify ng isang certificate issuer na hindi kinikilala ng Mozilla.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
-<!ENTITY identity.passiveLoaded "Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad ng mga larawan).">
-<!ENTITY identity.activeLoaded "Hindi mo pinagana ang proteksyon sa pahinang ito.">
-<!ENTITY identity.weakEncryption "Ang pahinang ito ay gumagamit ng mahina na pag-encrypt.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Ang iyong koneksyon sa site na ito ay hindi pribado. Ang impormasyon na iyong isinumite ay maaaring matingnan ng iba (tulad ng mga password, mensahe, credit card, atbp.).">
-<!ENTITY identity.description.insecureLoginForms "Ang impormasyon sa pag-login na ipinasok mo sa pahinang ito ay hindi ligtas at maaaring makompromiso.">
-<!ENTITY identity.description.weakCipher "Ang iyong koneksyon sa website na ito ay gumagamit ng mahina na pag-encrypt at hindi pribado.">
-<!ENTITY identity.description.weakCipher2 "Maaaring tingnan ng iba pang mga tao ang iyong impormasyon o baguhin ang pag-uugali ng website.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
-<!ENTITY identity.description.passiveLoaded "Ang iyong koneksyon ay hindi pribado at ang impormasyon na iyong ibinabahagi sa site ay maaaring makita ng iba.">
-<!ENTITY identity.description.passiveLoaded2 "Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan).">
-<!ENTITY identity.description.passiveLoaded3 "Kahit na &brandShortName; Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan).">
-<!ENTITY identity.description.activeLoaded "Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga script) at ang iyong koneksyon dito ay hindi pribado.">
-<!ENTITY identity.description.activeLoaded2 "Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).">
-<!ENTITY identity.description.customRoot "Hindi kilala ng Mozilla ang certificate issuer na ito. Maaari itong nadagdag sa iyong operating system o ng isang administrator.">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Paganahin ang proteksyon">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "Huwag paganahin ang proteksyon sa ngayon">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "Matuto ng higit pa">
-
-<!ENTITY identity.removeCertException.label "Tanggalin ang Exception">
-<!ENTITY identity.removeCertException.accesskey "R">
-
-<!ENTITY identity.moreInfoLinkText2 "Karagdagang Impormasyon">
-
-<!ENTITY identity.clearSiteData "Burahin ang mga Cookie at Site Data…">
-
-<!ENTITY identity.permissions "Pahintulot">
-<!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
-<!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
-<!ENTITY identity.permissionsPreferences.tooltip "Buksan ang Mga Kagustuhan sa mga Permission">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Buksan ang mga Kagustuhan sa Content Blocking">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Mga tab ng browser">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Mga Naka-sync na Tab">
-
-<!ENTITY syncedTabs.sidebar.label              "Mga Naka-sync na Tab">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Mag sign-in sa &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Mag-sync Na">
-<!ENTITY syncSyncNowItemSyncing.label "Nagsi-Sync…">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Kumonekta ulit sa &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "I-sync">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Auto-hide">
-
-<!ENTITY getUserMedia.selectCamera.label "Camera na ibabahagi:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Mga mikropono na pwedeng ibahagi:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Ang mga audio na galing sa tab ay maibabahagi.">
-<!ENTITY getUserMedia.allWindowsShared.message "Lahat ng nakikitang window sa iyong screen ay ibabahagi.">
-
-<!ENTITY contentBlocking.title "Content Blocking">
-<!ENTITY contentBlocking.detected "May natuklasang nilalaman na maaaring harangin sa site na ito.">
-<!ENTITY contentBlocking.notDetected "Walang natuklasang nilalaman na maaaring harangin sa site na ito.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "Mga tracker">
-
-<!ENTITY contentBlocking.manageSettings.label "I-manage ang Content Blocking">
-<!ENTITY contentBlocking.manageSettings.accesskey "M">
-
-<!ENTITY contentBlocking.trackersView.label "Mga tracker">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Upang harangan ang lahat ng mga tracker, i-set ang content blocking sa “Strict”.">
-
-<!ENTITY contentBlocking.cookies.label "Mga cookie">
-<!ENTITY contentBlocking.cookiesView.label "Mga Cookie at Site Data">
-
-<!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
-<!ENTITY contentBlocking.cryptominersView.label "Mga cryptominer">
-
-<!ENTITY contentBlocking.fingerprinters.label "Mga fingerprinter">
-<!ENTITY contentBlocking.fingerprintersView.label "Mga fingerprinter">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Mag-ulat ng problema">
-<!ENTITY contentBlocking.breakageReportView.label "I-report ang mga problema">
-<!ENTITY contentBlocking.breakageReportView2.description "Ang pagharang ng content ay maaaring maging dahilan ng problema sa ilang mga website. Kapag nag-ulat ka ng mga problema, matutulungan mong pahusayin ang &brandShortName; para sa lahat. (Ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa Mozilla.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Alamin pa">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Anong mga problema ang mayroon ka? (Optional)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Magpasa ng Report">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Kanselahin">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Isara ang Pagharang sa Site na Ito">
-<!ENTITY trackingProtection.unblock5.accesskey "T">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Pansamantalang Isara ang Pagharang">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
-<!ENTITY trackingProtection.block6.label "Buksan ang Blocking para sa Site na Ito">
-<!ENTITY trackingProtection.block6.accesskey "T">
-<!ENTITY trackingProtection.reload2.label "I-reload ang Pahina">
-<!ENTITY trackingProtection.reload2.accesskey "R">
-
-<!ENTITY pluginNotification.showAll.label "Ipakita ang lahat ">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Isarado">
@@ -978,38 +272,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Ligtas na pag-browse!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Salamat!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Alamin ang tungkol sa DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "I-download ang &brandShorterName; na pagbabago">
 <!ENTITY updateManual.panelUI.label "I-download ang bagong kopya ng &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Hindi ka maaaring magsagawa ng dagdag pang mga update">
 <!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update ang &brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "Ang iyong Bagong Tab ay nagbago.">
-<!ENTITY newTabControlled.keepButton.label "Panatilihin ang Mga Pagbabago">
-<!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "Disable Extension">
-<!ENTITY newTabControlled.disableButton.accesskey "D">
-
-<!ENTITY homepageControlled.message "May ekstensyon na nagpabago sa kung anong nakikita mo ngayon bilang homepage. Maaari mong ibalik ang dating mga setting kung ayaw mo sa nagawang pagbabago.">
-
-<!ENTITY homepageControlled.header.message "Ang iyong home page ay nagbago.">
-<!ENTITY homepageControlled.keepButton.label "Panatilihin ang mga Pagbabago">
-<!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "Disable Extension">
-<!ENTITY homepageControlled.disableButton.accesskey "D">
-
-<!ENTITY tabHideControlled.header.message "Puntahan ang mga Nakatagong Tab">
-<!ENTITY tabHideControlled.keepButton.label "Panatilihing nakatago ang mga Tab">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "Disable Extension">
-<!ENTITY tabHideControlled.disableButton.accesskey "D">
-
-<!ENTITY pageActionButton.tooltip "Page actions">
-<!ENTITY pageAction.addToUrlbar.label "Idagdag sa Address Bar">
-<!ENTITY pageAction.removeFromUrlbar.label "Tanggalin sa Address Bar">
-<!ENTITY pageAction.manageExtension.label "Manage Extension…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
 

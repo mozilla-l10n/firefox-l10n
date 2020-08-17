@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "i-Minimize">
-<!ENTITY bringAllToFront.label    "Dalhin Lahat sa Harapan">
-<!ENTITY zoomWindow.label         "i-Zoom">
-<!ENTITY windowMenu.label         "Window">
-
-<!ENTITY helpMenu.label           "Tulong"> 
-<!ENTITY helpMenu.accesskey       "T"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Tulong"> 
-<!ENTITY helpMenuWin.accesskey    "T">
-
 <!ENTITY aboutProduct2.label      "Tungkol sa &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShorterName; Help">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Restart with Add-ons Enabled">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "Impormasyon para sa Troubleshooting">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "Ipasa ang Katugunan">
-<!ENTITY helpFeedbackPage.accesskey  "s">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Mga Kagustuhan...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Mga Serbisyo">
 
 <!ENTITY hideThisAppCmdMac2.label       "Itago ang &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Itago ang Iba">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Ipakita ang lahat">
 

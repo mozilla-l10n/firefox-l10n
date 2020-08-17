@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Kunin sa Google Play
 login-app-promo-apple =
     .alt = I-download sa App Store
+
 login-filter =
     .placeholder = Hanapin sa mga Login
+
 create-login-button = Gumawa ng panibagong Login
+
 fxaccounts-sign-in-text = Kuhanin ang iyong mga password sa iba mong mga device
 fxaccounts-sign-in-button = Mag-sign in sa { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Hinahanap mo ba ang iyong naka-save na mga login? I-set up ang { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Walang natagpuang naka-sync na mga login.
 login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-name } sa ibang device, ganito ang dapat gawin para makuha mo sila rito:
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
@@ -111,9 +115,11 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = i-edit ang naka-save na login
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ipakita ang naka-save na password
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopyahin ang naka-save na password
@@ -151,10 +157,13 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Kanselahin
 confirmation-dialog-dismiss-button =
     .title = Kanselahin
+
 about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
 about-logins-confirm-remove-dialog-confirm-button = Tanggalin
+
 about-logins-confirm-export-dialog-confirm-button = i-Export…
+
 confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
 confirm-discard-changes-dialog-confirm-button = Balewalain
@@ -185,8 +194,10 @@ about-logins-vulnerable-alert-learn-more-link = Alamin
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = May entry na sa { $loginTitle } na may ganyang username. <a data-l10n-name="duplicate-link">Puntahan ang entry na ito?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Nagkaroon ng problema habang sine-save ang password na ito.
+
 
 ## Login Export Dialog
 

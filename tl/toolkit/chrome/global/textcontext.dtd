@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "I-cut">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopyahin">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "i-Paste">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY undoCmd.label "i-Undo">
-<!ENTITY undoCmd.accesskey "I">
-<!ENTITY selectAllCmd.label "Piliin Lahat">
-<!ENTITY selectAllCmd.accesskey "L">
-<!ENTITY deleteCmd.label "Delete">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "Idagdag sa Diksyunaryo">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "I-undo ang Idinagdag sa Diksyunaryo">

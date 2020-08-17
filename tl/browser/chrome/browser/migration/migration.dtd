@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Mag-import ng mga Option, Bookmark, Kasaysayan, Password at iba pang data mula sa:">
 <!ENTITY importFromUnix.label           "I-import ang mga Kagustuhan, Bookmarks, History, Passwords atbp. mula sa:">
-<!ENTITY importFromBookmarks.label      "I-angkat ang mga Bookmark mula sa:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

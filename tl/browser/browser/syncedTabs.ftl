@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Mga Naka-sync na Tab
 synced-tabs-sidebar-noclients-subtitle = Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?
-synced-tabs-sidebar-notsignedin = Mag sign-in para makita ang listahan ng mga tab galing sa iba mo pang devices.
 synced-tabs-sidebar-intro = Tingnan ang listahan ng mga tab mula sa iba mong mga device.
 synced-tabs-sidebar-unverified = Ang iyong account ay kailangang ma-verify.
 synced-tabs-sidebar-notabs = Walang bukas na mga tab

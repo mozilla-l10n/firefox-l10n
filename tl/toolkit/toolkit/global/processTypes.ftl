@@ -4,10 +4,6 @@
 
 process-type-web = Content ng Web
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Privileged Content
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privileged About

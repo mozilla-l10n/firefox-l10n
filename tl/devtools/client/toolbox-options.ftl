@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = I-enable ang remote debugging
-options-enable-remote-tooltip =
-    .title = Ang pagbukas sa option na ito ay pahihintulutan ang mga developer tool para makapag-debug ng remote instance kagaya ng Firefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = I-enable ang mga Service Worker over HTTP (kapag nakabukas ang toolbox)

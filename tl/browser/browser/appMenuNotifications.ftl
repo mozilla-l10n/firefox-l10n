@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Pindutin ang <image data-l10n-name='addon-i
 appmenu-addon-post-install-incognito-checkbox =
     .label = Payagan ang extension na ito upang tumakbo sa mga Pribadong Window
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Pagbabago sa mga extension sa mga Pribadong Window
-    .buttonlabel = I-manage ang mga Extension
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Sige, Nakuha Ko
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Hindi na gagana sa mga Private Window ang mga bagong extension na idadagdag mo sa { -brand-shorter-name } maliban kung papayagan mo ito sa mga setting.
-appmenu-addon-private-browsing-learn-more = Alamin kung papaano i-manage ang mga setting ng extension
     
 appmenu-new-tab-controlled =
     .label = Ang iyong Bagong Tab ay nagbago.

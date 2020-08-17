@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = I-ping ang data source:
-about-telemetry-show-current-ping-data = Kasalukuyang ping data
 about-telemetry-show-current-data = Kasalukuyang data
 about-telemetry-show-archived-ping-data = Naka-archive na ping data
 about-telemetry-show-subsession-data = Ipakita ang subsession data
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Ang telemetry ay nangongolekta ng { about
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Bawat piraso ng impormasyon ay pinadala na nakabungkos sa “<a data-l10n-name="ping-link">pings</a>”. Ikaw ay nakatingin sa { $name }, { $timestamp } na ping.
-about-telemetry-ping-details-current = Bawat piraso ng impormasyon ay pinadala na nakabungkos sa “<a data-l10n-name="ping-link">pings</a>“. Ikaw ay nakatingin sa kasalukuyan na ping.
 about-telemetry-data-details-current = Bawat piraso ng impormasyon ay pinapadala nang naka-bundle sa mga “<a data-l10n-name="ping-link">ping</a>“. Tinitingnan mo ang kasalukuyang data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Ipagpaumanhin! Walang mga resulta sa kah
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Ipagpaumanhin! Walang kasalukuyang mga datos na magagamit sa “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = kasalukuyan na ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = kasalukuyang data
 # used in the “Ping Type” select

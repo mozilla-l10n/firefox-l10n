@@ -35,12 +35,7 @@ connection-proxy-http = Proxy pang-HTTP
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Gamitin ang proxy server na ito para sa lahat ng mga protocol
-    .accesskey = s
 
-connection-proxy-ssl = Proxy pang-SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Gamitin din ang proxy na ito para sa FTP at HTTPS
     .accesskey = s

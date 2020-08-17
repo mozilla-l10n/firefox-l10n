@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Umalis sa Fullscreen
 find = Hanapin
 new-tab = Bagong tab
 add-bookmark = Magdagdag ng bookmark
-open-bookmarks-sidebar = Buksan ang Bookmark Sidebar
 reader-view = Reader View
 # Meant to match the string displayed in an empty URL bar.
 open-location = Hanapin o ilagay ang address

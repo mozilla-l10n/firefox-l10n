@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Import Wizard
+
 import-from =
     { PLATFORM() ->
         [windows] Mag-import ng mga Option, Bookmark, Kasaysayan, Password at iba pang data mula sa:
        *[other] I-import ang mga Kagustuhan, Bookmarks, History, Passwords atbp. mula sa:
     }
+
 import-from-bookmarks = I-angkat ang mga Bookmark mula sa:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Ligtas na Browser
     .accesskey = 3
+
 no-migration-sources = Walang mahanap na application na naglalaman ng bookmark, history o password data.
+
 import-source-page-title = Mag-import ng mga Setting at Data
 import-items-page-title = Mga item na Iimport
+
 import-items-description = Pumili kung aling item ang i-import:
+
 import-migrating-page-title = Ini-import...
+
 import-migrating-description = Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat
+
 import-select-profile-page-title = Piliin ang Profile
+
 import-select-profile-description = Ang mga sumusunod na mga profile ay pweden i-import mula sa:
+
 import-done-page-title = Nakumpleto na ang Pag-angkat
+
 import-done-description = Ang mga sumusunod na mga bagay ay matagumpay na naiangkat :
+
 import-close-source-browser = Siguruhing ang piniling browser ay nakasara bago magpatuloy.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Mula sa { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Listahan ng Babasahin (Mula sa Safari)
 imported-edge-reading-list = Listahan ng Babasahin (Mula sa Edge)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = Mga cookie
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-session-checkbox =
     .label = Mga Window at mga tab
 browser-data-session-label =

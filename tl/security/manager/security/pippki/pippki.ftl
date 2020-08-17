@@ -21,6 +21,9 @@ change-password-reenter = Bagong password (ulit):
 reset-password-window =
     .title = Ireset ang Master Password
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = I-reset
 reset-password-text = Pag nireset mo ang master password, makakalimutan lahat ng nakatagong web at email passwords, form data, personal certificates, at private keys. Gusto mo ba talagang ireset ang master password mo?

@@ -65,15 +65,6 @@
 <!ENTITY notCached.longDesc "<p>Ang hiniling na dokumento ay hindi magagamit sa cache ng &brandShortName;’</p><ul><li>.Bilang pag-iingat sa seguridad, &brandShortName; ay hindi awtomatikong muling humiling ng mga sensitibong dokumento.</li><li> I-click ang Subukan Muli upang muling hilingin ang dokumento mula sa website.</li></ul>">
 
 <!ENTITY netOffline.title "Di konektado">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Subukan muli. &brandShortName; ay susubukang buksan ang isang koneksyon at i-reload ang pahina.
-    <button id='wifi'>Paganahin ang Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Error sa Pag-encode ng Nilalaman">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">

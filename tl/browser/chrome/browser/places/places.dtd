@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pumili ng File…">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.deleteDomainData.label     "Kalimutan ang pahinang ito">
-<!ENTITY cmd.deleteDomainData.accesskey "K">
-
-<!ENTITY cmd.open.label                  "Buksan">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Buksan sa Bagong Window">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Buksan sa Bagong Pribadong Window">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Buksan sa Bagong Tab">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Buksan Lahat sa mga Tab">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Mga katangian">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Pagsunod-sunurin ayon sa Pangalan">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Bagong Bookmark...">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Bagong Folder...">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Bagong Separator">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Pangalan">
 <!ENTITY col.tags.label          "Mga Tag">
 <!ENTITY col.url.label           "Lokasyon">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Bilang ng Pagbisita">
 <!ENTITY col.dateadded.label     "Idinagdag">
 <!ENTITY col.lastmodified.label  "Huling Binago">
-
-<!ENTITY historySearch.placeholder  "Kasaysayan ng paghahanap">
-<!ENTITY bookmarksSearch.placeholder  "Maghanap ng mga bookmark">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Pumili ng item na titingnan at i-edit ang mga properties nito">
 
-<!ENTITY view.label               "I-view ">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Ayon sa Petsa">
-<!ENTITY byDate.accesskey         "A">
-<!ENTITY bySite.label             "Ayon sa Site">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Ayon sa Pinakamadalas Puntahan">
-<!ENTITY byMostVisited.accesskey  "A">
-<!ENTITY byLastVisited.label      "Ayon sa Pinakahuling Pinuntahan">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Ayon sa Petsa at Site">
-<!ENTITY byDayAndSite.accesskey   "t">

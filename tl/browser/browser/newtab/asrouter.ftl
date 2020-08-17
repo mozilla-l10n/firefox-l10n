@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Subukan: Mag-pin ng Tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bakit ko nakikita ito
+
 cfr-doorhanger-extension-cancel-button = Hindi Ngayon
     .accesskey = H
+
 cfr-doorhanger-extension-ok-button = Idagdag Ngayon
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = I-pin itong Tab
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Mangasiwa sa Rekomendasyong Itinakda
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Itago ang Rekomendasyong ito
     .accesskey = I
+
 cfr-doorhanger-extension-learn-more-link = Alamin
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ni { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasyon
 cfr-doorhanger-extension-notification2 = Rekomendasyon
     .tooltiptext = Rekomendasyon
     .a11y-announcement = Rekomendasyon
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendasyon
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } taga-gamit
        *[other] { $total } mga taga-gamit
     }
+
 cfr-doorhanger-pintab-description = I-access ang mga pinakaginagamit mong site sa pinakamadaling paraan. Panatilihing bukas ang mga site sa isang tab (kahit magrestart ka pa).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = I-access ang mga pinakaginagamit mong site s
 cfr-doorhanger-pintab-step1 = Mag-<b>Right-click</b> sa tab na gusto mong i-pin.
 cfr-doorhanger-pintab-step2 = Piliin ang <b>Pin Tab</b> mula sa menu.
 cfr-doorhanger-pintab-step3 = Kung ang site ay may pagbabago may makikitang asul na tuldok sa iyong naka-pin na tab.
+
 cfr-doorhanger-pintab-animation-pause = Sandaling ihinto
 cfr-doorhanger-pintab-animation-resume = Ipagpatuloy
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = Karagdagang kaalaman
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Bagong tampok:
+
 cfr-whatsnew-button =
     .label = Ano ang Bago
     .tooltiptext = Ano ang Bago
+
 cfr-whatsnew-panel-header = Ano ang Bago
+
 cfr-whatsnew-release-notes-link-text = Basahin ang mga release note
+
 cfr-whatsnew-fx70-title = Ipinaglalaban ka ng { -brand-short-name } para sa iyong privacy.
 cfr-whatsnew-fx70-body = Pinaigi sa pinakabagong update ang Tracking Protection feature at lalong pinadali ang paggawa ng ligtas na mga password para sa bawat site.
+
 cfr-whatsnew-tracking-protect-title = Protektahan ang iyong sarili mula sa mga tracker
 cfr-whatsnew-tracking-protect-body = Hinaharang ng { -brand-short-name } ang karaniwang mga social at cross-site tracker na nagmamanman sa mga gawain mo online.
 cfr-whatsnew-tracking-protect-link-text = Tingnan ang Iyong Ulat
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Magmula pa noong { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Tingnan ang Ulat
+
 cfr-whatsnew-lockwise-backup-title = I-back up ang iyong mga password
 cfr-whatsnew-lockwise-backup-body = Ngayon ay nakagagawa na ng mga ligtas na password na pwede mong ma-access saan man ka mag-sign in.
 cfr-whatsnew-lockwise-backup-link-text = Buksan ang mga backup
+
 cfr-whatsnew-lockwise-take-title = Dalhin kahit saan ang iyong mga password
 cfr-whatsnew-lockwise-take-body = Hinahayaan ka ng { -lockwise-brand-short-name } mobile app na ligtas na ma-access kahit saan ang iyong mga naka-backup na mga password.
 cfr-whatsnew-lockwise-take-link-text = Kunin ang app
@@ -145,6 +164,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Naharang na mga Fingerprinter
     }
 cfr-whatsnew-fingerprinter-counter-body = Hinaharang ng { -brand-shorter-name } ang maraming mga fingerprinter na palihim na nangangalap ng impormasyon tungkol sa iyong device at mga pagkilos para gumawa ng isang advertising profile tungkol sa iyo.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Mga Fingerprinter
 cfr-whatsnew-fingerprinter-counter-body-alt = Maaaring harangan ng { -brand-shorter-name } ang mga fingerprinter na palihim na nangangalap ng impormasyon ukol sa iyong device at mga action para gumawa ng iyong advertising profile.
@@ -204,6 +224,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Tingnan Lahat
     .accesskey = T
+
 cfr-doorhanger-milestone-close-button = Isarado
     .accesskey = I
 
@@ -233,4 +254,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
 
 
 ## DOH Message
+
+## What's new: Cookies message
 

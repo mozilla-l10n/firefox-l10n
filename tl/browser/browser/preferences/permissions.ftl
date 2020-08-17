@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Maglagay ng wastong hostname
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Mga Exception - Content Blocking
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Pinatay mo ang Pagharang ng Nilalaman sa site na ito.
-
 permissions-exceptions-etp-window =
     .title = Mga Exception para sa Enhanced Tracking Protection
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Maaari mong tukuyin aling mga website ang pinapayagang magkabit ng mga add-on. I-type ang mismong address ng site na gusto mong payagan at pindutin ang Payagan.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Mga Exception - Autoplay
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Maaari mong banggitin aling mga website ang palagi o di-kailanman papayagan na mag-autoplay ng media na walang tunog. I-type ang address ng site na gusto mong i-manage at pagkatapos ay pindutin ang Harangin o Payagan.
 
 ## Site Permissions - Autoplay
 

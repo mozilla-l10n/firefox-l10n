@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Picture-in-Picture">
 
-<!ENTITY stats.media "Media">
-<!ENTITY stats.size "Sukat">
-<!ENTITY stats.activity "Aktibidad">
-<!ENTITY stats.activityPaused "Naka-hinto">
-<!ENTITY stats.activityPlaying "paglalaro">
-<!ENTITY stats.activityEnded "pagkatapos">
-<!ENTITY stats.activitySeeking "(naghahanap)">
-<!ENTITY stats.volume "Dami">
-<!ENTITY stats.framesParsed "Frames parsed">
-<!ENTITY stats.framesDecoded "Frames decoded">
-<!ENTITY stats.framesPresented "Frames na napakita">
-<!ENTITY stats.framesPainted "Frames painted">
-
 <!ENTITY error.aborted "Ang pagload ng video ay tumigil.">
 <!ENTITY error.network "Ang pagplay ng video ay nahinto dahil sa network error.">
 <!ENTITY error.decode "Ang video ay hindi maipapalabas dahil sira ang file.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "Ang pagplay ng video ay nahinto sa hindi malamang error.">
 
 <!ENTITY status.pictureInPicture "Ang video na ito ay umaandar sa Picture-in-Picture mode.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 sa #2 nalampasan na">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

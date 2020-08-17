@@ -49,10 +49,6 @@ inactive-css-property-is-impossible-to-override-in-visited = Imposibleng mapatun
 
 inactive-css-not-grid-or-flex-container-fix = Subukang magdagdag ng <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix = Subukang magdagdag ng <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. { learn-more }
-
-inactive-css-not-grid-item-fix = Subukang magdagdag ng <strong>display:grid</strong> o <strong>display:inline-grid</strong> sa parent ng item. { learn-more }
-
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Subukang magdagdag ng <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
 
 inactive-css-not-grid-or-flex-item-fix-2 = Subukang magdagdag ng <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong>. { learn-more }
@@ -60,8 +56,6 @@ inactive-css-not-grid-or-flex-item-fix-2 = Subukang magdagdag ng <strong>display
 inactive-css-not-grid-item-fix-2 = Subukang magdagdag ng <strong>display:grid</strong> o <strong>display:inline-grid</strong> sa parent ng element. { learn-more }
 
 inactive-css-not-grid-container-fix = Subukang magdagdag ng <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
-
-inactive-css-not-flex-item-fix = Subukang magdagdag ng <strong>display:flex</strong> o <strong>display:inline-flex</strong> sa parent ng item. { learn-more }
 
 inactive-css-not-flex-item-fix-2 = Subukang magdagdag ng <strong>display:flex</strong> o <strong>display:inline-flex</strong> sa parent ng element. { learn-more }
 
@@ -74,4 +68,11 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Subukang magdag
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Subukang magdagdag ng <strong>display:inline-block</strong>. { learn-more }
 
 inactive-css-not-display-block-on-floated-fix = Subukang tanggalin ang <strong>float</strong> o magdagdag ng <strong>display:block</strong>. { learn-more }
+
+## In the Rule View when a CSS property may have compatibility issues with other browsers
+## we display an icon. When this icon is hovered this message is displayed to explain why
+## the property is incompatible and the platforms it is incompatible on.
+## Variables:
+##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
+##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 

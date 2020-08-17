@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Piliin ang lahat ng mga Tab
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Ibalik ang Nakasarang Tab
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = I-manage ang Extension

@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Nag-loload...
-
 list-empty-installed =
     .value = Wala kang mga add-on na ganitong uri na nakakabit
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Alamin ang tungkol sa mga add-on
 
-install-addon-from-file =
-    .label = Mag-install ng Add-on Mula sa File…
-    .accesskey = i
-
 help-button = Suporta sa mga Add-on
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] Mga pagpipilian sa { -brand-short-name }
        *[other] Mga kagustuhan sa { -brand-short-name }
     }
-
-tools-menu =
-    .tooltiptext = Mga kagamitan para sa lahat ng mga add-on
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Ipakita ang lahat ng mga extension
-
-debug-addons =
-    .label = I-debug ang mga Add-on
-    .accesskey = B
 
 cmd-show-details =
     .label = Magpakita ng Karagdagang Impormasyon
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = S
     .tooltiptext = Tumulong sa pagpapaunlad ng add-on na ito
 
-discover-title = Ano ang mga Add-on?
-
-discover-description = Ang Add-ons ay application na hahayaan kang i-personalize ang { -brand-short-name } na may  extra functionality o style.Subukan ang time-saving sidebar, weather notifier, o ang themed look upang gawin ang { -brand-short-name } sa iyong kagustuhan
-
-discover-footer = Pag konektado ka sa Internet, ipapakita ng pane na ito ang ilan sa pinakamagaganda at sikat na add-ons para masubukan mo.
-
 detail-version =
     .label = Bersyon
 
@@ -140,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Patakbuhin sa mga Private Window
 
-detail-private-browsing-description2 = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Hindi Pinapayagan sa mga Private Window
-detail-private-disallowed-description = Hindi tumatakbo ang extension na ito habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>
 
 detail-private-disallowed-description2 = Ang extension na ito ay hindi tumatakbo kapag nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Nangangailangan ng Access sa mga Private Window
-detail-private-required-description = Ang extension na ito ay may access sa iyong mga online activity habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>
 
 detail-private-required-description2 = Ang extension na ito ay may access sa mga gawain mo online habang nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 
@@ -223,18 +199,6 @@ legacy-extensions-description = Ang mga extension na ito ay hindi nakatutugon sa
 
 private-browsing-description2 = Binabago na ng { -brand-short-name } kung paano gumagana ang mga extension sa pribadong pag-browse. Ang mga bagong extension na idinagdag mo sa { -brand-short-name } ay hindi kusang tatakbo sa mga Private Window. Maliban na lang kung payagan mo sa mga setting, hindi gagana ang extension habang nagba-browse nang pribado, at wala itong makukuhang impormasyon sa mga gawain mo online. Ginawa namin itong pagbabagong ito para mapanatiling pribado ang iyong pag-browse nang pribado. <label data-l10n-name="private-browsing-learn-more">Alamin kung paano i-manage ang mga extension setting</label>
 
-extensions-view-discopane =
-    .name = Mga Mungkahi
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Mga Bagong Updates
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Mga Available na Update
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Mga Mungkahi
 addon-category-discover-title =
     .title = Mga Mungkahi
@@ -262,29 +226,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Idinisable lahat ng mga add-on sa safe mode.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = I-enable
-    .tooltiptext = I-enable ang add-on compatibility checking
-
-extensions-warning-update-security-label =
-    .value = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = I-enable
-    .tooltiptext = I-enable ang add-on security checking
-
 extensions-warning-safe-mode = Idinisable lahat ng mga add-on sa safe mode.
 extensions-warning-check-compatibility = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
 extensions-warning-check-compatibility-button = I-enable
@@ -296,14 +237,6 @@ extensions-warning-update-security-button = I-enable
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Maghanap ng mga Update
-    .accesskey = M
-
-extensions-updates-view-updates =
-    .label = Tingnan ang mga Bagong Update
-    .accesskey = T
-
 addon-updates-check-for-updates = Maghanap ng mga Update
     .accesskey = M
 addon-updates-view-updates = Tingnan ang mga Bagong Update
@@ -311,10 +244,6 @@ addon-updates-view-updates = Tingnan ang mga Bagong Update
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = I-update nang Kusa ang mga Add-on
-    .accesskey = A
 
 addon-updates-update-addons-automatically = I-update nang Kusa ang mga Add-on
     .accesskey = A
@@ -325,36 +254,12 @@ addon-updates-update-addons-automatically = I-update nang Kusa ang mga Add-on
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = I-reset lahat ng mga add-on para kusang mag-update
-    .accesskey = r
-
-extensions-updates-reset-updates-to-manual =
-    .label = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
-    .accesskey = I
-
 addon-updates-reset-updates-to-automatic = I-reset lahat ng mga add-on para kusang mag-update
     .accesskey = r
 addon-updates-reset-updates-to-manual = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
     .accesskey = I
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Ina-update ang mga add-on
-extensions-updates-installed =
-    .value = Na-update na ang add-on mo.
-extensions-updates-downloaded =
-    .value = Na-download na ang mga update sa mga add-on mo.
-extensions-updates-restart =
-    .label = Mag-restart ngayon para makumpleto ang installation
-extensions-updates-none-found =
-    .value = Walang updates na nakita
-extensions-updates-manual-updates-found =
-    .label = Tingnan Lahat ng mga Update
-extensions-updates-update-selected =
-    .label = I-install ang mga Update
-    .tooltiptext = I-install ang mga update na nasa listahan
 
 addon-updates-updating = Ina-update ang mga add-on
 addon-updates-installed = Na-update na ang add-on mo.
@@ -372,10 +277,6 @@ addon-open-about-debugging = I-debug ang mga Add-on
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = I-manage ang mga Extension Shortcut
-    .accesskey = S
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = I-manage ang mga Extension Shortcut
     .accesskey = S
@@ -384,8 +285,6 @@ shortcuts-no-addons = Wala kang extension na naka-enable.
 shortcuts-no-commands = Ang mga sumusunod na extension ay walang shortcut:
 shortcuts-input =
     .placeholder = Mag-type ng shortcut
-
-shortcuts-browserAction = I-activate ang extension
 
 shortcuts-pageAction = I-activate ang page action
 shortcuts-sidebarAction = i-Toggle ang sidebar
@@ -416,9 +315,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Magpakita ng Mas Kaunti
-
-go-back-button =
-    .tooltiptext = Bumalik
 
 header-back-button =
     .title = Bumalik
@@ -463,7 +359,6 @@ remove-addon-button = Tanggalin
 remove-addon-disabled-button = Hindi Matanggal <a data-l10n-name="link">Bakit?</a>
 disable-addon-button = I-disable
 enable-addon-button = I-enable
-expand-addon-button = Karagdagang Pagpipilian
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -476,9 +371,6 @@ preferences-addon-button =
 details-addon-button = Mga Detalye
 release-notes-addon-button = Mga Release Note
 permissions-addon-button = Mga Permiso
-
-addons-enabled-heading = Naka-enable
-addons-disabled-heading = Naka-disable
 
 extension-enabled-heading = Naka-enable
 extension-disabled-heading = Naka-disable
@@ -541,23 +433,12 @@ install-update-button = I-update
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Pinagpayagan sa mga private window
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Pinagpayagan sa mga private window
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 addon-detail-private-browsing-allow = Payagan
 addon-detail-private-browsing-disallow = Huwag Payagan
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Inirerekomenda
-    .alt = Inirerekomenda
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

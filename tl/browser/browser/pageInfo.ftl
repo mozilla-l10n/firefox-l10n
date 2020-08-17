@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = I-save Bilang…
     .accesskey = e
-media-preview =
-    .value = Preview ng Media:
 
 perm-tab =
     .label = Mga Pahintulot
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Oo, mga cookie
 security-site-data-no = Hindi
 
 image-size-unknown = Hindi alam
-not-set-verified-by = Hindi tukoy
 page-info-not-specified =
     .value = Hindi tukoy
 not-set-alternative-text = Hindi tukoy
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks mode
 general-strict-mode =
     .value = Standards compliance mode
-security-no-owner = Ang website na ito ay hindi nagbibigay ng impormasyon tungkol sa pagmamay-ari.
 page-info-security-no-owner =
     .value = Ang website na ito ay hindi nagbibigay ng impormasyon tungkol sa pagmamay-ari.
 media-select-folder = Pumili ng Folder na Paglalagyan ng mga Larawan
