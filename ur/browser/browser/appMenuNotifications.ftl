@@ -42,14 +42,7 @@ appmenu-addon-post-install-message =
 appmenu-addon-post-install-incognito-checkbox =
     .label = اس ایکسٹینشن  کو نجی ونڈوز میں چلنے دیں
     .accesskey = ا
-appmenu-addon-private-browsing =
-    .label = پرائیوٹ ونڈوز میں ایکسٹینشن میں تبدیل کریں
-    .buttonlabel = ایکسٹینشن کا نظم کریں
-    .buttonaccesskey = M
-    .secondarybuttonlabel = ٹھیک ہے ، سمجھ گیا
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = کوئی بھی نئی ایکسٹینشن جو آپ { -brand-shorter-name } میں شامل کرتے ہیں نجی ونڈوز میں اس وقت تک کام نہیں کرے گی جب تک کہ آپ اسے سیٹنگز میں اس کی اجازت نہ دیں۔
-appmenu-addon-private-browsing-learn-more = ایکسٹینشن کی سیٹنگز کو بندرست کرنے کا طریقہ سیکھیں
+    
 appmenu-new-tab-controlled =
     .label = آپکا نیا ٹیب تبدیل کردیا گیا ہے۔
     .buttonlabel = تبدیلیاں برقرار رکھیں

@@ -4,118 +4,171 @@
 
 certmgr-title =
     .title = تصدیق نامہ مینیجر
+
 certmgr-tab-mine =
     .label = آپ کے تصدیق نامے
+
 certmgr-tab-people =
     .label = لوگ
+
 certmgr-tab-servers =
     .label = پیش کار
+
 certmgr-tab-ca =
     .label = مقتدرات
+
 certmgr-detail-general-tab-title =
     .label = عمومی
     .accesskey = ع
+
 certmgr-detail-pretty-print-tab-title =
     .label = تفصیلات
     .accesskey = ت
+
 certmgr-pending-label =
     .value = فی الحال تصدیق نامے کی توثیق کر رہا ہے…
+
 certmgr-subject-label = جاری شدہ بنام
+
 certmgr-issuer-label = جاری شدہ بمطابق
+
 certmgr-period-of-validity = جواز کا عرصہ
+
 certmgr-fingerprints = انگلیوں کے نشان
+
 certmgr-cert-detail =
     .title = تصدیق نامہ تفصیل
     .buttonlabelaccept = بند کریں
     .buttonaccesskeyaccept = ب
+
 certmgr-cert-detail-commonname = کامن نیم (CN)
+
 certmgr-cert-detail-org = تنظیم (O)
+
 certmgr-cert-detail-orgunit = تنظیمی یونٹ (OU)
+
 certmgr-cert-detail-serial-number = تسلسلی نمبر
+
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 انگلی کے نشان
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 انگلیوں کے نشان
+
 certmgr-edit-ca-cert =
     .title = CA تصدیق نامہ بھروسا سیٹنگز تدوین کریں
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = بھروسا سیٹنگز تدوین کریں:
+
 certmgr-edit-cert-trust-ssl =
     .label = یہ تصدیق نامہ ویب سائٹیں شناخت کر سکتا ہے۔
+
 certmgr-edit-cert-trust-email =
     .label = یہ تصدیق نامہ ڈاک صارفین  شناخت کر سکتا ہے۔
+
 certmgr-delete-cert =
     .title = تصدیق نامہ حذف کریں
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = نام تصدیق نامہ
+
 certmgr-cert-server =
     .label = پیش کار
+
 certmgr-override-lifetime =
     .label = تاحیات
+
 certmgr-token-name =
     .label = سلامتی آلہ
+
 certmgr-begins-on = شروع ہوتا ہے
+
 certmgr-begins-label =
     .label = شروع ہوتا ہے
+
 certmgr-expires-on = مدت ختم ہوتی ہے بر
+
 certmgr-expires-label =
     .label = مدت ختم ہوتی ہے بر
+
 certmgr-email =
     .label = ای میل پتہ
+
 certmgr-serial =
     .label = سیریل نمبر
+
 certmgr-view =
     .label = نظارہ…
     .accesskey = ن
+
 certmgr-edit =
     .label = ٹرسٹ تدوین کریں…
     .accesskey = ٹ
+
 certmgr-export =
     .label = برآمد کریں…
     .accesskey = x
+
 certmgr-delete =
     .label = حذف کریں...
     .accesskey = ح
+
 certmgr-delete-builtin =
     .label = حذف کریں یا بد اعتمادی ...
     .accesskey = D
+
 certmgr-backup =
     .label = پشتارہ...
     .accesskey = پ
+
 certmgr-backup-all =
     .label = تمام پشتارہ کریں...
     .accesskey = پ
+
 certmgr-restore =
     .label = درآمد کریں...
     .accesskey = د
+
 certmgr-details =
     .value = قطعات تصدیق نامہ
     .accesskey = ق
+
 certmgr-fields =
     .value = قطعہ قدر
     .accesskey = ق
+
 certmgr-hierarchy =
     .value = تصدیق نامہ درجہ بندی
     .accesskey = H
+
 certmgr-add-exception =
     .label = اکسیپشن اضافہ کریں…
     .accesskey = ا
+
 exception-mgr =
     .title = سلامتی استثنا شامل کریں
+
 exception-mgr-extra-button =
     .label = تصدیق شدہ حفاظتی استثنا
     .accesskey = ت
+
 exception-mgr-supplemental-warning = جائز بینکوں، دکانوں، اور دیگر عوامی سائٹس ایسا کرنے کو کہہ نہیں کریں گے.
+
 exception-mgr-cert-location-url =
     .value = محل وقوع:
+
 exception-mgr-cert-location-download =
     .label = تصدیق نامہ لائیں
     .accesskey = گ
+
 exception-mgr-cert-status-view-cert =
     .label = نظارہ…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = مستقل طور پر محفوظ یہ استثنا
     .accesskey = م
+
 pk11-bad-password = داخل کردہ پاس ورڈ غیر صحیح تھا۔
 pkcs12-decode-err = مسل کی ضابطہ رہائی کرنے میں ناکام ہوا۔ یہ یا تو PKCS #12 وضع میں نہیں ہے، خراب شدہ ہے، یا جو پاس ورڈ آپ نے داخل کیا وہ غیر صحیح تھا۔
 pkcs12-unknown-err-restore = نامعلوم وجوہات کی بنا پر PKCS #12 مسل بحال کرنے میں ناکام ہوا۔
@@ -148,18 +201,24 @@ delete-user-cert-title =
     .title = اپنے تصدیق نامے حذف کریں
 delete-user-cert-confirm = کیا آپ واقعی یہ تصدیق نامے حذف کرنا چاہتے ہیں؟
 delete-user-cert-impact = اگر آپ اپنا کوئی تصدیق نامہ حذف کرتے ہیں تو آپ آئندہ سے اسے اپنی شناخت کے لیے استعمال نہیں کر سکتے۔
+
+
 delete-ssl-cert-title =
     .title = پیش کار تصدیق نامہ استثنیات حذف کریں
 delete-ssl-cert-confirm = کیا آپ واقعی یہ پیش کار استثنیات حذف کرنا چاہتے ہیں؟
 delete-ssl-cert-impact = اگر آپ پیش کار کی استثنا کو حذف کریں گے، آپ اس پیش کار کے لیئے عام سلامتی پڑتال کو بحال کریں گے اور اسکا استعمال کرنا طلب کرے گا ایک جائز تصدیق نامہ کی۔
+
 delete-ca-cert-title =
     .title = CA تصدیق نامے کی بے اعتمادی کریں یا حذف کریں
 delete-ca-cert-confirm = آپ نے یہ CA تصدیق ناموں کو حذف کرنے کی درخواست کی پے۔ در ساختہ تصدیق ناموں میں تمام بھروسا حذف کر لیا جائے گا، جس کا ایک حیسا اثر ہے۔ کیا آپکو یقین ہے کے آپ حذف یا بد اعتمادی کرنا چاہتے ہیں؟
 delete-ca-cert-impact = اگر آپ تصدیق نامہ مقتدرہ (CA) تصدیق نامہ حذف کرتے ہیں تو آپ کا براؤزر آئندہ سے اس CA کے جاری کئے گئے کسی بھی تصدیق نامے پر بھروسا نہیں کرے گا۔
+
+
 delete-email-cert-title =
     .title = ای میل تصدیق نامے حذف کریں
 delete-email-cert-confirm = کیا آپ واقعی ان لوگوں کے ای میل تصدیق نامے حذف کرنا چاہتے ہیں؟
 delete-email-cert-impact = اگر آپ ای میل تصدیق نامہ حذف کرتے ہیں تو آپ آئندہ سے ان لوگوں کو خفیہ کردہ ای میل بھیجنے کے اہل نہیں رہیں گے۔
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -175,21 +234,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = تصدیق نامہ ناظرین: “{ $certName }”
+
 not-present =
     .value = <Not Part Of Certificate>
+
 # Cert verification
 cert-verified = یہ تصدیق نامہ مندرجہ ذیل استعمالات کےلیے توثیق کیا جا چکا ہے:
+
 # Add usage
 verify-ssl-client =
     .value = SSL وصول کار تصدیق نامہ
+
 verify-ssl-server =
     .value = SSL پیش کار تصدیق نامہ
+
 verify-ssl-ca =
     .value = SSL مقتدرہ تصدیق نامہ
+
 verify-email-signer =
     .value = ای میل دستخط کنندہ تصدیق نامہ
+
 verify-email-recip =
     .value = ای میل وصولندہ تصدیق نامہ
+
 # Cert verification
 cert-not-verified-cert-revoked = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ یہ باطل قرار دیا گیا ہے۔
 cert-not-verified-cert-expired = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ اس کی مدت ختم ہو چکی ہے۔

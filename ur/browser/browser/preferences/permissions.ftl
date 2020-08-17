@@ -79,11 +79,6 @@ permissions-invalid-uri-label = کوئی جائز نام میزبان داخل �
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = استثنیات - مواد روکنا
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = آپنے مواد روکنا غیر فعال کر دی ہے  ان ویبسیٹس کے لئے۔
-
 permissions-exceptions-etp-window =
     .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں وابستہ دریچے کھولنے کےلیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر 'اجازت دیں' پر کلک کریں۔
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = استثنیات - اوٹوپلے
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = آپ اس بات کی وضاحت کر سکتے ہے کہ کون سے ویب سائٹ کو اواز کے ساتھ میڈیا خودبخد چلانے کی اجازت ہمیشہ یا کبھی بھی نھی ہے۔ آپ جس سائٹ کو منظم کرنا چاہتے ہے اس کا پتہ درج کریں اور پھر روکیں یا اجازت پر کلک کریں۔
 
 ## Site Permissions - Autoplay
 

@@ -35,12 +35,6 @@ connection-proxy-http = HTTP پراکسی
     .accesskey = x
 connection-proxy-http-port = پورٹ
     .accesskey = P
-connection-proxy-http-share =
-    .label = تمام پروٹوکول کے لیے یہ پراکسی سرور استعمال کریں
-    .accesskey = s
-
-connection-proxy-ssl = SSL پراکسی
-    .accesskey = L
 
 connection-proxy-https = HTTPS پراکسی
     .accesskey = H

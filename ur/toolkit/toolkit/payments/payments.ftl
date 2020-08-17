@@ -13,17 +13,20 @@
 # Variables:
 #   $number (String): Partially-redacted credit card number
 credit-card-label-number = { $number }
+
 # Label for a credit card with a number and name
 #
 # Variables:
 #   $number (String): Partially-redacted credit card number
 #   $name (String): Cardholder name
 credit-card-label-number-name = { $number }, { $name }
+
 # Label for a credit card with a number and expiration date
 #
 # Variables:
 #   $number (String): Partially-redacted credit card number
 credit-card-label-number-expiration = { $number }, { credit-card-expiration }
+
 # Label for a credit card with a number, name, and expiration date
 #
 # Variables:

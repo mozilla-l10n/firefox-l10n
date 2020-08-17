@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "مسل منتخاب کریں…">
 <!ENTITY cmd.restoreFromFile.accesskey  "م">
 
-<!ENTITY cmd.deleteDomainData.label     "اس سائٹ کے بارے میں بھول جائیں">
-<!ENTITY cmd.deleteDomainData.accesskey "ب">
-
-<!ENTITY cmd.open.label                  "کھولیں">
-<!ENTITY cmd.open.accesskey              "ک">
-<!ENTITY cmd.open_window.label           "نئے دریچے میں کھولیں">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "ربط نئے نجی دریچے میں کھولیں">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "نئی ٹیب میں کھولیں">
-<!ENTITY cmd.open_tab.accesskey          "ن">
-<!ENTITY cmd.open_all_in_tabs.label      "تمام ٹیبوں میں کھولیں">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "ت">
-
-<!ENTITY cmd.properties.label      "خواص">
-<!ENTITY cmd.properties.accesskey  "خ">
-
-<!ENTITY cmd.sortby_name.label              "چھانٹیں بمطابق نام">
-<!ENTITY cmd.sortby_name.accesskey          "چ">
-<!ENTITY cmd.context_sortby_name.accesskey  "ن">
-
-<!ENTITY cmd.new_bookmark.label            "نئی بک مارک…">
-<!ENTITY cmd.new_bookmark.accesskey        "ن">
-<!ENTITY cmd.new_folder.label              "نیا پوشہ…">
-<!ENTITY cmd.new_folder.accesskey          "پ">
-<!ENTITY cmd.context_new_folder.accesskey  "پ">
-<!ENTITY cmd.new_separator.label           "نیا جداکار">
-<!ENTITY cmd.new_separator.accesskey       "ج">
-
 <!ENTITY col.name.label          "نام">
 <!ENTITY col.tags.label          "ٹیگ">
 <!ENTITY col.url.label           "محل وقوع">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "ملاحظہ شماری">
 <!ENTITY col.dateadded.label     "اضافہ شدہ">
 <!ENTITY col.lastmodified.label  "آخری بار ترمیم کردہ">
-
-<!ENTITY historySearch.placeholder  "سابقات تلاش کریں">
-<!ENTITY bookmarksSearch.placeholder  "بک مارک تلاش کریں">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "شے کے خواص نظارہ اور تدوین کرنے کے لیے اسے منتخب کریں">
 
-<!ENTITY view.label               "نظارہ">
-<!ENTITY view.accesskey           "ن">
-<!ENTITY byDate.label             "حسبِ تاریخ">
-<!ENTITY byDate.accesskey         "ت">
-<!ENTITY bySite.label             "حسبِ سائٹ">
-<!ENTITY bySite.accesskey         "س">
-<!ENTITY byMostVisited.label      "برائے زیادہ ملاحظہ کیے گۓ">
-<!ENTITY byMostVisited.accesskey  "م">
-<!ENTITY byLastVisited.label      "حسب آخری بار ملاحظہ کردہ">
-<!ENTITY byLastVisited.accesskey  "ب">
-<!ENTITY byDayAndSite.label       "حسب تاریخ اور سائٹ">
-<!ENTITY byDayAndSite.accesskey   "ت">

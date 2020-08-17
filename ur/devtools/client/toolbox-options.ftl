@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = بعید ٹھیک کر رہا ہے اہل بنائیں
-options-enable-remote-tooltip =
-    .title = اس اختیار کو چالوں کرنے سے تخلیق کار ٹول کو بعید انسٹانس جیسے کی Firefox OS کو ٹھیک کرنے دیگا
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = خدمت کارکنان کو  HTTP کے اوپر اہل بنائیں (جب ٹول بکس کھلا ہو )

@@ -47,9 +47,9 @@ reopen-in-container =
 move-to-new-window =
     .label = نئے دریچے میں بڑھائیں
     .accesskey = W
-undo-close-tab =
-    .label = ٹیب بند کو کالعدم کریں
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ٹیب بند کر دیں
     .accesskey = c

@@ -14,26 +14,16 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "جڑنے میں ناکامیاب">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "یہ پتہ رسٹرکٹڈ ہے">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "پیش کار نہیں ملا">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY fileNotFound.title "مسل نہیں ملی">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>مسل نام کو کیپیٹل یا دوسرے ٹائپنگ نقص کے لیے چیک کریں</li> <li>چیک کریں کہ مسل ہٹائی، نام تبدیل یا ڈلیٹ تو نہیں کر دی گئی۔ </li> </ul>">
 
-<!ENTITY fileAccessDenied.title "مسل تک رسائی مسترد کردی گئی ہے">
-
 <!ENTITY fileAccessDenied.longDesc "<ul><li>یہ شاید ہٹائی گئی ہو، منتقل کر دیا ہو یا مسل کی اجازت رسائ سے روک رہی ہو</li></ul>">
-
-<!ENTITY generic.title "اف">
 
 <!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
 
@@ -43,58 +33,30 @@
 <!ENTITY openPortalLoginPage.label2 "نیٹ ورک کا لاگ ان صفحہ کھولیں">
 
 <!ENTITY malformedURI.pageTitle "ناجائز URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "ہمم۔ یہ پتہ صحیح نہیں لگ رہا">
-
-<!ENTITY netInterrupt.title "کنکشن خراب ہو گیا">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "دستاویز زائدالمدت">
-
 <!ENTITY notCached.longDesc "<p> درخواست کردہ دستاویز &brandShortName; کے کیسے میں دستیاب نہیں۔ </p><ul><li> احتیاط کے لیے &brandShortName; حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔ </li><li> ویب سائٹ سے دستاویز پھر مانگنے کے لیے &quot;پھر کوشش کریں&quot; پر کلک کریں۔</li></ul>">
-
-<!ENTITY netOffline.title "آف لائن موڈ">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>آن لائن موڈ پر آنے کے لیے اور صفح پھر لوڈ کرنے کے لیے &quot;پھر کوشش کریں&quot; دبائیں</li> </ul>">
 
-<!ENTITY contentEncodingError.title "مواد انکوڈنگ نقص">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے رابطہ کریں</li> </ul>">
-
-<!ENTITY unsafeContentType.title "غیر محفوظ فائل قسم">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے رابطہ کریں</li> </ul>">
 
-<!ENTITY netReset.title "کنکشن ریسٹ ہو گیا">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "کنکشن ٹائم آوٹ ہو گیا ہے">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "پتہ سمجھ نہیں آیا">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>آپ کو یہ پتہ کھولنے کے لیے دیگر سافٹ ویئر تنصیب کرنے کی ضرورت پڑھ سکتی ہے۔</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "پراکسی پیش کار کنکشن واپس کر رہا ہے">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>پراکسی سیٹنگز چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔</li> <li>یہ چیک کرنے کے لیے کہ آپ کا پراکسی پیش کار ٹھیک سے کام کر رہا ہے، اپنے نیٹورک نظام کار سے رابطہ کریں۔</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "پراکسی پیش کار ڈھونڈیں میں ناکام">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>پراکسی سیٹنگز چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔</li> <li>چیک کریں کہ آپ کے کمپیوٹر کے پاس ایک ٹھیک نیٹورک کنکشن ہے۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل کے ذریعے محفوظ ہے تو چیک کریں کہ  ویب تک رسائی کر سکتا ہے۔&brandShortName;</li> </ul>">
-
-<!ENTITY redirectLoop.title "صفحہ ٹھیک طرح ری ڈائریکٹ نہیں ہو رہا">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>یہ مسلہ کبھی کبھی کوکیز نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔</li> </ul>">
 
-<!ENTITY unknownSocketType.title "سرور کی طرف سے غیر متوقع جواب">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>چیک کریں کہ آپ کے سسٹم پر پرسنل سکیورٹی مینیجر  تنصیب ہے۔</li> <li>یہ پیش کار پر غیر سٹینڈرڈ تشکیل کی وجہ سے ہو سکتا ہے۔</li> </ul>">
-
-<!ENTITY nssFailure2.title "قابل بھروسا کنکشن ناکام ہو گیا ہے">
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>جو صفحہ آپ دیکھنا چاہ رہے ہیں، دکھایا نہیں جا سکتا کیونکہ موصول قوائف کی اصلیت کی تصدیق نہیں ہو سکی۔</li> <li>ویب سائٹ کے مالک کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li> </ul>">
 
@@ -111,11 +73,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>سائٹ عارظی طور پر غیر موجود یا مصروف ہو سکتی ہے۔ کچھ دیر بعد پھر کوشش کریں۔</li> <li>اگر آپ کوئی بھی صفحے نہیں لوڈ کر پائیں تو اپنے کمپیوٹر کےنیٹورک کنکشن کی پڑتال کریں۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل یا پراکسی کے ذریعے محفوظ ہے تو پڑتال کریں کہ &brandShortName; ویب تک رسائی کی اجازت ہے</li> </ul>">
 
-<!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
-
 <!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
-
-<!ENTITY corruptedContentErrorv2.title "خراب مواد نقص">
 
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جا سکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul>">
@@ -125,11 +83,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
 
-<!ENTITY remoteXUL.title "بعید XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul></p>">
-
-<!ENTITY sslv3Used.title "حفاظتی طور پر جڑنے میں ناکام">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -137,8 +91,6 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.pagetitle  "رابطہ قائم نہیں ھوا: امکانی حفاظتی مسئلہ">
 <!ENTITY certerror.copyToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
-
-<!ENTITY inadequateSecurityError.title "آپکا کنکشن ناقابل بھروسا ہے">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
@@ -149,13 +101,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "اگر آپ کارپوریٹ نیٹ ورک پر ہیں تو ، آپ اپنے آئی ٹی ڈیپارٹمنٹ سے رابطہ کرسکتے ہیں۔">
 
-<!ENTITY clockSkewError.title "آپ کے کمپیوٹر کی گھڑی غلط ہے">
-
 
 <!ENTITY prefReset.longDesc "ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی سیٹنگز ہو سکتی ہے۔ کیا آپ طےشدہ سیٹنگز بحال کرناچاہتے ہیں؟">
 <!ENTITY prefReset.label "طے شدہ سیٹنگز بحال کریں">
-
-<!ENTITY networkProtocolError.title "نیٹ ورک پروٹوکول کی خرابی">
 
 <!ENTITY enableTls10.label "TLS 1.0 اور 1.1 کو فعال کریں">
 

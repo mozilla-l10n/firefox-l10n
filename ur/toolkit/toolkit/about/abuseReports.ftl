@@ -57,43 +57,29 @@ abuse-report-messagebar-action-cancel = منسوخ کریں
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = میرے کمپیوٹر اور کواٴیف  کو نقصان پہنچا رہا ہے
-
 abuse-report-damage-reason-v2 = اس نے میرے کمپیوٹر کو نقصان پہنچایا یا میرے ڈیٹا سے سمجھوتہ کیا
 abuse-report-damage-example = مثال: انجکشن شدہ مالویئر یا ڈیٹا چوری کرنا
 
-abuse-report-spam-reason = اسپام یا اشتہار بناتا ہے
-
 abuse-report-spam-reason-v2 = اس میں اسپام ہے یا ناپسندیدہ اشتہار داخل ہوتا ہے
 abuse-report-spam-example = مثال: ویب صفحات پر اشتہارات داخل کریں
-
-abuse-report-settings-reason = مجھ کو بتائے یا پوچھے بغیر میرے سرچ انجن ، ابتداٴی صفحہ ، یا نئے ٹیب کو تبدیل کردیا گیا
 
 abuse-report-settings-reason-v2 = مجھ کو بتائے یا پوچھے بغیر میرے سرچ انجن ، ابتداٴی صفحہ ، یا نئے ٹیب کو تبدیل کردیا گیا
 abuse-report-settings-suggestions = توسیع کی اطلاع دینے سے پہلے ، آپ اپنی سیٹنگز کو تبدیل کرنے کی کوشش کر سکتے ہیں۔
 abuse-report-settings-suggestions-search = اپنی ڈیفالٹ تلاش کی سیٹنگز کو تبدیل کریں
 abuse-report-settings-suggestions-homepage = اپنا ہوم پیج اور نیا ٹیب تبدیل کریں
 
-abuse-report-deceptive-reason = ایسی چیز کا بہانہ لگائیں جو ایسا نہیں ہے
-
 abuse-report-deceptive-reason-v2 = یہ دعوی کرتا ہے کہ ایسی چیز ہے جو نہیں ہے
 abuse-report-deceptive-example = مثال: گمراہ کن تفصیل یا منظر کشی
-
-abuse-report-broken-reason-theme = یہ کام نہیں کرتا ہے یا براؤزر کے ڈسپلے کو توڑتا ہے
 
 abuse-report-broken-reason-extension-v2 = یہ کام نہیں کرتا ، ویب سائٹوں کو توڑتا ہے ، یا { -brand-product-name } سست کرتا ہے۔
 abuse-report-broken-reason-theme-v2 = یہ کام نہیں کرتا ہے یا براؤزر کے ڈسپلے کو توڑتا ہے
 abuse-report-broken-example = مثال: خصوصیات آہستہ ہیں ، استعمال میں سخت ہیں ، یا کام نہیں کرتی ہیں۔ ویب سائٹ کے کچھ حصے لوڈ یا غیر معمولی نظر نہیں آئیں گے
-
-abuse-report-policy-reason = نفرت انگیز ، پرتشدد ، یا غیر قانونی مواد
 
 abuse-report-policy-reason-v2 = اس میں نفرت انگیز ، پرتشدد ، یا غیر قانونی مواد شامل ہے
 abuse-report-policy-suggestions =
     نوٹ: کاپی رائٹ اور ٹریڈ مارک کے معاملات کی اطلاع علیحدہ عمل میں دینی چاہئے۔
     <a data-l10n-name="report-infringement-link"> ان ہدایات کا استعمال کریں </a>
     مسئلہ کی اطلاع دیں۔
-
-abuse-report-unwanted-reason = کبھی بھی یہ ایکسٹینشن کو نہیں چاہتا تھا اور نہ ہی اس سے چھٹکارا پا سک رہا ہوں
 
 abuse-report-unwanted-reason-v2 = میں یہ کبھی نہیں چاہتا تھا اور نہ جانتا ہوں کہ اس سے کیسے چھٹکارا حاصل کروں
 abuse-report-unwanted-example = مثال: کسی ایپلیکیشن نے اسے میری اجازت کے بغیر انسٹال کیا  ہے

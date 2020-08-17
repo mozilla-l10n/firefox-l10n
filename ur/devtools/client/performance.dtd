@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "نمونے تقریب کے نام اور ماخذ محل وقوع.">
 <!ENTITY performanceUI.table.totalAlloc               "کل بطور نمونہ اختصام">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "اس مقام پر اورکالز میں نمونے آبجیکٹ مختص کی کل تعداد.">
-<!ENTITY performanceUI.table.selfAlloc                "کل بطور نمونہ اختصام">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "اس مقام پر نمونے آبجیکٹ آونٹن کی تعداد.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

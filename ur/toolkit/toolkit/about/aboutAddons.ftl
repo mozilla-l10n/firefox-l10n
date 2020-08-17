@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = لوڈ کر رہا ہے...
-
 list-empty-installed =
     .value = آپ کے پاس اس قسم کے کوئی ایڈ اون تنصیب شدہ نہیں
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = ایڈ اون کے بارے میں اور سیکھیں
 
-install-addon-from-file =
-    .label = ایڈ اون مسل سے تنصیب کریں...
-    .accesskey = ت
-
 help-button = ایڈ اون ہمایت کردہ
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } اختیارات
        *[other] { -brand-short-name } ترجیحات
     }
-
-tools-menu =
-    .tooltiptext = تمام ایڈ اون کے لیے ٹول
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = تمام ایکسٹینشنز دکھائیں
-
-debug-addons =
-    .label = ایڈز آن ازالہ کرے
-    .accesskey = b
 
 cmd-show-details =
     .label = مزید معلومات دکھائیں
@@ -103,12 +89,6 @@ cmd-contribute =
     .label = حصہ لیں
     .accesskey = ح
     .tooltiptext = اس ایڈ اون کی تکمیل کاری میں حصہ لیں
-
-discover-title = ایڈ اون کیا ہوتے ہیں؟
-
-discover-description = ایڈ اون ایسی ایپلی کیشیں ہوتی ہیں جو آپ کو { -brand-short-name } کو  اور فعلیت اور طرز سے ذاتی بنانے میں مدد دیتی ہیں. { -brand-short-name } کو اپنا بنانے لے لیے وقت بچانے والا بغلی بار، موسم اعلان کنندہ  یا کوئی خیالیہ استعمال کر کے دیکھیں۔
-
-discover-footer = جب آپ انٹرنیٹ سے جڑے ہوں گے، تو یہ جھروکا آپ کے آزمانے کے لیے  سب سے بہترین اور معروف ایڈ اون فیچر کرے گا۔
 
 detail-version =
     .label = ورژن
@@ -211,18 +191,6 @@ legacy-warning-show-legacy = میراث توسیعات دکھائیں
 legacy-extensions =
     .value = میراث ایکسٹینشن
 
-extensions-view-discopane =
-    .name = سفارشات
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = حالیہ تازہ کاریاں
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = دستیاب تازہ کاریاں
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = سفارشات
 addon-category-discover-title =
     .title = سفارشات
@@ -250,29 +218,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = اہل بنائیں
-    .tooltiptext = ایڈ اون موازنت پڑتال اہل بنائیں
-
-extensions-warning-update-security-label =
-    .value = ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = اہل بنائیں
-    .tooltiptext = ایڈ اون تازہ کاری سلامتی پڑتال کو اہل بنائیں
-
 extensions-warning-safe-mode = محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔
 extensions-warning-check-compatibility = ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔
 extensions-warning-check-compatibility-button = اہل بنائیں
@@ -284,14 +229,6 @@ extensions-warning-update-security-button = اہل بنائیں
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = تازہ کاریوں کے لیے پڑتال کریں
-    .accesskey = پ
-
-extensions-updates-view-updates =
-    .label = حالیہ تازہ کاریاں نظارہ کریں
-    .accesskey = ن
-
 addon-updates-check-for-updates = تازہ کاریوں کے لیے پڑتال کریں
     .accesskey = پ
 addon-updates-view-updates = حالیہ تازہ کاریاں نظارہ کریں
@@ -299,10 +236,6 @@ addon-updates-view-updates = حالیہ تازہ کاریاں نظارہ کری�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = ایڈ اون خود بخود تازہ کریں
-    .accesskey = ا
 
 addon-updates-update-addons-automatically = ایڈ اون خود بخود تازہ کریں
     .accesskey = ا
@@ -313,36 +246,12 @@ addon-updates-update-addons-automatically = ایڈ اون خود بخود تاز
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = تما ایڈ اون کو خود بخود تازہ ہونے کے لیے پھر سیٹ کریں
-    .accesskey = پ
-
-extensions-updates-reset-updates-to-manual =
-    .label = تما ایڈ اون کو دستی بہ تازہ ہونے کے لیے پھر سیٹ کریں
-    .accesskey = پ
-
 addon-updates-reset-updates-to-automatic = تما ایڈ اون کو خود بخود تازہ ہونے کے لیے پھر سیٹ کریں
     .accesskey = پ
 addon-updates-reset-updates-to-manual = تما ایڈ اون کو دستی بہ تازہ ہونے کے لیے پھر سیٹ کریں
     .accesskey = پ
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = ایڈ اون تازہ کر رہا ہے
-extensions-updates-installed =
-    .value = آپ کے ایڈ اون تازہ ہو گئے ہیں۔
-extensions-updates-downloaded =
-    .value = آپ کے ایڈ اون ڈاؤن لوڈ ہو گئے ہیں۔
-extensions-updates-restart =
-    .label = تنصیب مکمل کرنے کے لیے ابھی دوباره شروع کریں
-extensions-updates-none-found =
-    .value = کوئی تازہ کاریاں نہیں ملیں
-extensions-updates-manual-updates-found =
-    .label = دستیاب تازہ کاریاں نظارہ کریں
-extensions-updates-update-selected =
-    .label = تازہ کاریاں تنصیب کریں
-    .tooltiptext = اس فہرست میں دستیاب تازہ کاریاں تنصیب کریں
 
 addon-updates-updating = ایڈ اون تازہ کر رہا ہے
 addon-updates-installed = آپ کے ایڈ اون تازہ ہو گئے ہیں۔
@@ -363,8 +272,6 @@ addon-open-about-debugging = ایڈز آن ازالہ کرے
 shortcuts-no-addons = آپ کے پاس کوئی ایکسٹینشن فعال نہیں ہے۔
 shortcuts-no-commands = مندرجہ ذیل ایکسٹینشنز میں شارٹ کٹس نہیں ہیں۔
 
-shortcuts-browserAction = ایکسٹینشن فاعال کریں
-
 shortcuts-browserAction2 = ٹول بار کے بٹن کو فعال بنائیں
 
 shortcuts-modifier-other = Ctrl یا Alt شامل کریں
@@ -377,9 +284,6 @@ shortcuts-letter = ایک خط ٹائپ کریں
 shortcuts-exists = پہلے ہی { $addon } کے استعمال میں ہے
 
 shortcuts-card-collapse-button = کم دکھائیں
-
-go-back-button =
-    .tooltiptext = واپس جائیں
 
 header-back-button =
     .title = واپس جائیں
@@ -411,7 +315,6 @@ report-addon-button = ‎رپورٹ کریں
 remove-addon-button = ہٹائیں
 disable-addon-button = غیر فعال
 enable-addon-button = فعال
-expand-addon-button = مزید اختیارات
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -424,9 +327,6 @@ preferences-addon-button =
 details-addon-button = تفصیلات
 release-notes-addon-button = اجرائی نوٹ
 permissions-addon-button = اجازتیں
-
-addons-enabled-heading = فعال
-addons-disabled-heading = غیر فعال
 
 extension-enabled-heading = اہل بنایا گیا
 extension-disabled-heading = نااہل
@@ -466,12 +366,6 @@ install-update-button = تازہ کاری کریں
 
 addon-detail-private-browsing-allow = اجازت دیں
 addon-detail-private-browsing-disallow = اجازت مت دیں
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = تجویز کردہ
-    .alt = تجویز کردہ
 
 available-updates-heading = دستیاب تازہ کاریاں
 recent-updates-heading = حالیہ تازہ کاریاں

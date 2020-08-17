@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "اختیارات، بک مارک، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں: ">
 <!ENTITY importFromUnix.label           "ترجیحات، بک مارک، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں: ">
-<!ENTITY importFromBookmarks.label      "بک مارک یہاں سے درآمد کریں: ">
 
 <!ENTITY importFromIE.label             "Microsoft انٹرنیٹ ایکسپلورر ">
 <!ENTITY importFromIE.accesskey         "ا">

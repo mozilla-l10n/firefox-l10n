@@ -24,10 +24,6 @@ serviceworker-worker-unregister = ریجسٹریشن ختم کریں
 serviceworker-worker-debug = ٹھیک کریں
     .title = فعال خدت کارکنان کو ٹھیک کیا جا سکتا ہے
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = آغاز
-
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = ڈیبگ
@@ -52,10 +48,6 @@ serviceworker-worker-status-running = چلائے
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = رکا ہوا
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = رجسٹر کر رہا ہے
 
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers

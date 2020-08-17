@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = رپورٹ ارسال کرنے میں ایک خامی تھی۔ براہ کرم کچھ دیر بعد کوشش کریں.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = سائٹ ٹھیک ہو گی؟ رپورٹ ارسال کریں
 
@@ -19,8 +20,10 @@ protections-popup-footer-protection-label-standard = معیاری
 ##
 
 protections-panel-etp-off-header = ٹریکنگ سے بہتر تحفظ اس سائٹ کے لیئے بند ہے
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = سائٹ کام نہیں کررہی ہے؟
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = سائٹ کام نہیں کررہا ہے؟
@@ -33,6 +36,7 @@ protections-panel-not-blocking-why-label = کیوں؟
 ##
 
 protections-panel-content-blocking-tracking-protection = مواد کی  ٹریکنگ
+
 protections-panel-content-blocking-socialblock = سوشل میڈیا ٹریکرز
 protections-panel-content-blocking-cryptominers-label = کریپٹومینر
 protections-panel-content-blocking-fingerprinters-label = فنگر پرنٹرز
@@ -56,12 +60,14 @@ protections-panel-settings-label = تحفظ کی سیٹنگز
 
 # The header of the list
 protections-panel-site-not-working-view-header = اگر آپ کو پریشانی ہو رہی ہے تو تحفظات کو بند کردیں:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = لاگ ان قطئے
 protections-panel-site-not-working-view-issue-list-forms = فارم
 protections-panel-site-not-working-view-issue-list-payments = ادائیگیاں
 protections-panel-site-not-working-view-issue-list-comments = تبصرہ
 protections-panel-site-not-working-view-issue-list-videos = ویڈیوز
+
 protections-panel-site-not-working-view-send-report = ایک رپورٹ ارسال کریں
 
 ##
@@ -69,6 +75,7 @@ protections-panel-site-not-working-view-send-report = ایک رپورٹ ارسا
 protections-panel-content-blocking-manage-settings =
     .label = تحفظ کی سیٹنگز کو منظم کریں
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = ٹوٹی ہوئی سائٹ کی رپورٹ کریں
 protections-panel-content-blocking-breakage-report-view-collection-url = URL

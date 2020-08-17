@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = یہ آزمائیں: پن ٹیب
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = میں یہ کیوں دیکھ رہا ہوں
+
 cfr-doorhanger-extension-cancel-button = ابھی نہیں
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = اب شامل کریں
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = اس ٹیب کو پن کریں
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = سفارش کی سیٹنگز منظم کریں
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = مجھے اس کی سفارش نا دکھائیں
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = مزید سیکھیں
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } کے ساتھ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = سفارش
 cfr-doorhanger-extension-notification2 = سفارش
     .tooltiptext = ایکسٹینشن کی سفارش
     .a11y-announcement = ایکسٹینشن کی  دتستیاب سفارش
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = سفارشات
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } صارف
        *[other] { $total } صارفین
     }
+
 cfr-doorhanger-pintab-description = اپنی سب سے زیادہ استعمال شدہ سائٹس تک آسانی سے رسائی حاصل کریں۔ سائٹس کو ٹیب میں کھلا رکھیں (یہاں تک کہ جب آپ دوبارہ شروع کریں)۔
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = اپنی سب سے زیادہ استعمال
 cfr-doorhanger-pintab-step1 = آپ ٹیب پر <b> دائیں کلک کریں </ b> جس پر آپ پن کرنا چاہتے ہیں۔
 cfr-doorhanger-pintab-step2 = مینو سے <b> پن ٹیب </ b> منتخب کریں۔
 cfr-doorhanger-pintab-step3 = اگر سائٹ میں تازہ کاری ہوئی تو آپ کو اپنے پن شدہ ٹیب پر ایک نیلا نقطہ نظر آئے گا۔
+
 cfr-doorhanger-pintab-animation-pause = توقف کریں
 cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = مزید سیکھیں
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = نئی خصوصیات
+
 cfr-whatsnew-button =
     .label = نیا کیا ہے
     .tooltiptext = نیا کیا ہے
+
 cfr-whatsnew-panel-header = نیا کیا ہے
+
 cfr-whatsnew-release-notes-link-text = اجرائی نوٹس پڑھیں
+
 cfr-whatsnew-fx70-title = { -brand-short-name } اب آپ کی رازداری کے لئے اب سخت مقابلہ کررہا ہے
 cfr-whatsnew-fx70-body = تازہ ترین اپ ڈیٹ ٹریکنگ، پروٹیکشن کی خصوصیت میں اضافہ کرتی ہے اور اسےہر سائٹ کے لئے محفوظ پاس ورڈ بنانے میں  پہلے سے کہیں زیادہ آسان بناتی ہے۔
+
 cfr-whatsnew-tracking-protect-title = اپنے آپ کو  سراغ  کاری سے بچائیں
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } بہت سے عام سماجی اور کراس سائٹ ٹریکروں کو روکتا ہے جواسکی پیروی کر تےھیں کے آپ آن لائن کیا کرتے ہیں
 cfr-whatsnew-tracking-protect-link-text = اپنی رپورٹ دیکھیں
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = چونکہ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = رپورٹ ملاحظہ کریں
+
 cfr-whatsnew-lockwise-backup-title = اپنے پاس ورڈ کا بیک اپ بنائیں
 cfr-whatsnew-lockwise-backup-body = اب محفوظ پاس ورڈ بنائیں جسکو آپ کہیں بھی جہاں آپ سائن ان کرتے ہیں وہاں حاصل کر سکتے ہیں ۔
 cfr-whatsnew-lockwise-backup-link-text = بیک اپ کو چالو کریں
+
 cfr-whatsnew-lockwise-take-title = اپنے پاس ورڈ اپنے ساتھ رکھیں
 cfr-whatsnew-lockwise-take-body =
      { -lockwise-brand-short-name } موبائل ایپ کی مدد سے آپ کو اپنے پاس محفوظ طریقے سے رسائی حاصل کرنے کی سہولت ملتی ہے
@@ -147,6 +166,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] فنگر پرنٹرز مسدود ہیں
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } بہت سے فنگر پرنٹوں کو روکتا ہے جو آپ کی اشتہاری پروفائل بنانے کے لیے چپکے سے آپ کے آلے اور اعمال کے بارے میں معلومات اکٹھا کرتے ہیں۔
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = فنگر پرنٹرز
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } بہت سے فنگر پرنٹوں کو روکتا ہے جو آپ کی اشتہاری پروفائل بنانے کے لیے چپکے سے آپ کے آلے اور اعمال کے بارے میں معلومات اکٹھا کرتے ہیں۔
@@ -193,6 +213,7 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } نے اس صفحے �
 
 cfr-doorhanger-milestone-ok-button = تمام دیکھیں
     .accesskey = س
+
 cfr-doorhanger-milestone-close-button = بند کریں
     .accesskey = C
 

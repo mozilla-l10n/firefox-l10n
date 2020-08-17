@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p> درخواست کردہ دستاویز &brandShortName; کے کیسے میں دستیاب نہیں۔ </p><ul><li> احتیاط کے لیے &brandShortName; حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔ </li><li> ویب سائٹ سے دستاویز پھر مانگنے کے لیے &quot;پھر کوشش کریں&quot; پر کلک کریں۔</li></ul>">
 
 <!ENTITY netOffline.title "آف لائن موڈ">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>پھر کوشش کریں۔ &brandShortName; کنکشن کھولنے کی کوشش کرے گا اور صفحہ دوبارہ لوڈ کرے گا۔ <button id='wifi'>وائی فائی اہل بنائیں</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "مواد انکوڈنگ نقص">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے رابطہ کریں</li> </ul>">

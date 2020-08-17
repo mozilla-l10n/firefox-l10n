@@ -3,72 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "اہل بنایا گیا">
-<!ENTITY cmd.enableAddon.accesskey            "ا">
-<!ENTITY cmd.disableAddon.label               "نا اہل بنائیں">
-<!ENTITY cmd.disableAddon.accesskey           "ن">
-
-<!ENTITY cmd.askToActivate.label              "عمل میں لانے کے لیے پوچھیں">
-<!ENTITY cmd.askToActivate.tooltip            "اس ایڈ اون کو ہر بار استعمال کرنے کے لیے پوچھیں">
-<!ENTITY cmd.alwaysActivate.label             "ہمیشہ متحرک کریں">
-<!ENTITY cmd.alwaysActivate.tooltip           "اس ایڈ اون کو ہمیشہ استعمال کریں">
-<!ENTITY cmd.neverActivate.label              "کبھی متحرک نہ کریں">
-<!ENTITY cmd.neverActivate.tooltip            "اس ایڈ اون کو کبھی نہیں استعمال کریں">
-<!ENTITY cmd.stateMenu.tooltip                "جب یہ ایڈ اون چلے تو بدلیں">
-
-<!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
-<!ENTITY cmd.uninstallAddon.accesskey         "ہ">
-<!ENTITY cmd.showPreferencesWin.label         "اختیارات">
-<!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
-<!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "اس ایڈ اون کی ترجیحات تبدیل کریں">
-
-<!ENTITY cmd.showReleaseNotes.label           "اجرا نوٹ دکھائیں">
-<!ENTITY cmd.showReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ دکھائیں">
-<!ENTITY cmd.hideReleaseNotes.label           "اجرا نوٹ چھپائیں">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ چھپائیں">
-<!ENTITY cmd.findReplacement.label            "تبدیلی ڈھونڈیں">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "منسوخ کریں">
-
-<!ENTITY addon.details.label                  "مزید">
-<!ENTITY addon.details.tooltip                "اس ایڈ اون کے بارے میں مزید تفاصیل دکھائیں">
-<!ENTITY addon.unknownDate                    "نامعلوم">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(نا اہل)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "تازہ کاری کریں">
-<!ENTITY addon.undoAction.label               "کالعدم کریں">
-<!ENTITY addon.undoAction.tooltip             "اس عمل کو کالعدم کریں">
-<!ENTITY addon.undoRemove.label               "کالعدم کریں">
-<!ENTITY addon.undoRemove.tooltip             "اس ایڈ اون کو تنصیب شدہ رہنے دیں">
-
-<!ENTITY addon.install.label                  "تنصیب کریں">
-<!ENTITY addon.install.tooltip                "اس ایڈ اون کو تنصیب کریں">
-<!ENTITY addon.updateNow.label                "ابھی تازہ کاری کریں">
-<!ENTITY addon.updateNow.tooltip              "اس ایڈ اون کے لیے تازہ کاری تنصیب کریں">
-<!ENTITY addon.includeUpdate.label            "تازہ کاری میں شامل کریں">
-<!ENTITY addon.updateAvailable.label          "تازہ کاری دستیاب ہے">
-<!ENTITY addon.checkingForUpdates.label       "تازہ کاریوں کے لیے پڑتال کر رہا ہے...">
-<!ENTITY addon.releaseNotes.label             "اجرا نوٹ:">
-<!ENTITY addon.loadingReleaseNotes.label      "لوڈ کر رہا ہے...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "اجرا نوٹ لوڈ کرنے میں نقص آ گیا۔">
-
-<!ENTITY addon.createdBy.label                "از  ">
-
-<!ENTITY settings.path.button.label           "براؤز کریں ...">
 
 <!ENTITY setting.learnmore "مزید سیکھیں…">
 

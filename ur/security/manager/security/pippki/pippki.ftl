@@ -21,6 +21,9 @@ change-password-reenter = نیا پاس ورڈ (دوبارہ):
 reset-password-window =
     .title = ماسٹر پاس ورڈ پھر سیٹ کریں
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = پھر سیٹ کریں
 reset-password-text = اگر آپ اپنا ماسٹر پاس ورڈ پھر سیٹ کرتے ہیں تو آپ کے تمام ذخیرہ شدہ ویب اور ای میل پاس ورڈ، فارم کوائف، ذاتی تصدیق نامے اور نجی کلیدیں بھلا دی جائیں گی۔ کیا آپ واقعی اپنا ماسٹر پاس ورڈ پھر سیٹ کرنا چاہتے ہیں؟

@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = محفوظ کریں بطور...
     .accesskey = e
-media-preview =
-    .value = میڈیا پیش نظارہ
 
 perm-tab =
     .label = اجازتیں
@@ -132,7 +130,6 @@ security-site-data-cookies-only = ہاں، کوکیز
 security-site-data-no = نہیں
 
 image-size-unknown = نامعلوم
-not-set-verified-by = اختصاص شدہ نہیں
 page-info-not-specified =
     .value = اختصاص شدہ نہیں
 not-set-alternative-text = اختصاص شدہ نہیں
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = نرالا موڈ
 general-strict-mode =
     .value = معیاری تعمیل موڈ
-security-no-owner = یہ ویب سائٹ مالکیت کی معلومات نہیں دیتی۔
 page-info-security-no-owner =
     .value = یہ ویب سائٹ مالکیت کی معلومات نہیں دیتی۔
 media-select-folder = نقوش محفوظ کرنے کے لیے پوشہ منتخب کریں
