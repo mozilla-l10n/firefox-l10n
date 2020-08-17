@@ -12,7 +12,6 @@ fullscreen = تمام‌صفحه
 find = پیدا کردن
 new-tab = زبانه جدید
 add-bookmark = اضافه کردن نشانک
-open-bookmarks-sidebar = باز کردن نوار کناری نشانک‌ها
 reader-view = نمای مطالعه
 # Meant to match the string displayed in an empty URL bar.
 open-location = جست‌وجو یا ورود نشانی

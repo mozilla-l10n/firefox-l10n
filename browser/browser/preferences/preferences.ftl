@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = همیشه
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] گزینه‌ها
-           *[other] ترجیحات
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -442,16 +435,6 @@ update-application-use-service =
     .label = از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود
     .accesskey = پ
 
-update-enable-search-update =
-    .label = بطور خودکار موتورهای جست‌وجو بروزرسانی شوند
-    .accesskey = س
-
-update-pref-write-failure-title = خطای نگارش
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = امکان ذخیرهٔ ترجیحات نیست. نوشتن در پرونده امکان‌پذیر نبود: { $path }
-
 update-setting-write-failure-title = خطا در ذخیره کردن ترجیحات بروزرسانی
 
 update-in-progress-title = در حال بروزرسانی
@@ -605,7 +588,6 @@ home-prefs-topsites-description = سایت‌هایی که بیشتر بازدی
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = پیشنهاد شده توسط { $provider }
-home-prefs-recommended-by-description = محتوایی عالی از سراسر وب، شخصی شده برای شما
 ##
 
 home-prefs-recommended-by-learn-more = این چجوری کار میکنه
@@ -647,7 +629,6 @@ search-bar-shown =
     .label = اضافه کردن نوار جست‌وجو به نوار ابزار
 
 search-engine-default-header = موتور جست‌وجو پیش‌فرض
-search-engine-default-desc = انتخاب یک موتور جست‌وجو پیش فرض برای استفاده در نوار ادرس و نوار جست‌وجو
 
 search-separate-default-engine =
     .label = از این موتور جستجو در پنجره‌های ناشناس استفاده کنید
@@ -671,8 +652,6 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = نمایش پیشنهادات جست‌وجو در بالا ی تاریخچه مرورگر در نوار آدرس
-
-suggestions-addressbar-settings = ترجیحات برای تاریخچهٔ مرور، نشانک‌ها و پیشنهادات زبانه را تغییر دهید
 
 search-suggestions-cant-show = پیشنهادهای جست‌وجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
 
@@ -705,8 +684,6 @@ search-keyword-warning-bookmark = شما کلیدواژه‌ای انتخاب ن
 
 ## Containers Section
 
-containers-back-link = « برگشت به عقب
-
 containers-header = زبانه‌های حامل
 containers-add-button =
     .label = افزودن حامل جدید
@@ -726,14 +703,6 @@ containers-remove-button =
 sync-signedout-caption = وب را با خودتان همراه کنید
 sync-signedout-description = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
 
-sync-signedout-account-title = اتصال به یک { -fxaccount-brand-name }
-sync-signedout-account-create = حساب کاربری ندارید؟ شروع کنید
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = ورود…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -751,10 +720,6 @@ sync-mobile-promo = بارگیری فایرفاکس برای <img data-l10n-name
 
 sync-profile-picture =
     .tooltiptext = تغییرتصویر نمایه
-
-sync-disconnect =
-    .label = قطع ارتباط…
-    .accesskey = ق
 
 sync-sign-out =
     .label = خروج...
@@ -777,9 +742,6 @@ sync-remove-account =
 sync-sign-in =
     .label = ورود
     .accesskey = و
-
-sync-signedin-settings-header = تنظیمات همگام‌سازی
-sync-signedin-settings-desc = اینکه چه چیزهایی بر روی دستگاه‌هایتان توسط { -brand-short-name } همگام‌سازی شوند را انتخاب کنید.
 
 ## Sync section - enabling or disabling sync.
 
@@ -842,11 +804,6 @@ sync-engine-tabs =
     .tooltiptext = فهرستی از تمام دستگاه‌های همگام سازی شده باز
     .accesskey = T
 
-sync-engine-logins =
-    .label = ورودها
-    .tooltiptext = نام کاربری و کلمه عبوری که شما ذخیره کرده‌اید
-    .accesskey = و
-
 sync-engine-logins-passwords =
     .label = ورودها و گذرواژه‌ها
     .tooltiptext = نام‌های کاربری و گذرواژه‌هایی که ذخیره کرده‌اید
@@ -894,22 +851,12 @@ sync-device-name-save =
 
 sync-connect-another-device = اتصال یک دستگاه دیگر
 
-sync-manage-devices = مدیریت دستگاه‌ها
-
-sync-fxa-begin-pairing = جفت کردن یک دستگاه
-
-sync-tos-link = شرایط ارائهٔ خدمات
-
-sync-fxa-privacy-notice = نکات حفظ حریم خصوصی
-
 ## Privacy Section
 
 privacy-header = حریم خصوصی مرورگر
 
 ## Privacy Section - Forms
 
-
-logins-header = ورودها و گذرواژه‌ها
 
 ## Privacy Section - Logins and Passwords
 
@@ -943,6 +890,7 @@ forms-master-pw-change =
     .accesskey = ص
 
 forms-master-pw-fips-title = شما هم‌اکنون در حالت FIPS هستید. در این حالت لازم است گذرواژهٔ اصلی خالی نباشد.
+
 forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
 
 ## OS Authentication dialog
@@ -1023,9 +971,6 @@ sitedata-disallow-cookies-option =
     .label = مسدودسازی کوکی‌ها و داده‌های سایت
     .accesskey = B
 
-sitedata-option-block-trackers =
-    .label = ردیاب‌های متفرقه
-
 sitedata-option-block-unvisited =
     .label = کوکی‌ها از وب‌سایت‌های مشاهده نشده
 sitedata-option-block-all-third-party =
@@ -1065,27 +1010,9 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = مسدود کردن محتوا
-
 content-blocking-enhanced-tracking-protection = محفاظت پیشرفته در برابر ردیابی
 
 content-blocking-learn-more = بیشتر بدانید
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = استاندارد
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = شدید
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = سفارشی
-    .accesskey = C
-
-content-blocking-custom-desc = انتخاب کنید چه چیزی مسدود شود.
-
-content-blocking-third-party-cookies = کوکی‌هایِ ردیبابِ متفرقه
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1104,23 +1031,17 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-all-cookies = همه کوکی‌ها
-content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها
 content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
 content-blocking-cryptominers = استخراج کننده‌های رمزارزها
 content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
 
 content-blocking-warning-title = هوشیار باشید!
-content-blocking-learn-how = بیشتر بدانید
 
 content-blocking-warning-learn-how = بیشتر بدانید
 
 content-blocking-reload-tabs-button =
     .label = بارگذاری مجدد تمام زبانه‌ها
     .accesskey = R
-
-content-blocking-trackers-label =
-    .label = ردیاب‌ها
-    .accesskey = T
 
 content-blocking-tracking-content-label =
     .label = محتوای ردیابی
@@ -1179,14 +1100,6 @@ permissions-notification-link = بیشتر بدانید
 permissions-notification-pause =
     .label = توقف هوشدار تا زمانی که { -brand-short-name } مجدد راه اندازی شود
     .accesskey = n
-
-permissions-block-autoplay-media2 =
-    .label = مسدود کردن وب‌سایت‌ها از پخش خودکار صدا
-    .accesskey = B
-
-permissions-block-autoplay-media-exceptions =
-    .label = استثاناها…
-    .accesskey = E
 
 permissions-autoplay = پخش خودکار
 
@@ -1314,6 +1227,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = ب
 
 space-alert-under-5gb-message = فضای ذخیره سازی { -brand-short-name } تمام شده است. ممکن است محتواهای سایت‌ها خوب نمایش داده نشود.“اطلاعات بیشتر” رابرای بهبود سازی فضای ذخیره سازی خود در جهت کسب تجربه بهتری از مرورگر مشاهده کنید.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

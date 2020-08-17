@@ -6,24 +6,13 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Paste Without Formatting">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Paste As">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "پیدا کردن">
-<!ENTITY findReplaceCmd.label "پیدا کردن و جایگذاری...">
-<!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "بررسی املا">
-<!ENTITY checkSpellingCmd2.accesskey "ب">
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Insert">
@@ -189,9 +178,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Body Text">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Advanced Properties">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Align">
@@ -209,10 +195,6 @@
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Align Justified">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Layer">
-<!ENTITY layerSendToBack.tooltip "Send to Back">
-<!ENTITY layerBringToFront.tooltip "Bring to Front">
 
 <!ENTITY increaseIndent.label "Increase Indent">
 <!ENTITY increaseIndent.accesskey "I">
@@ -288,18 +270,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Menu Bar">
-<!ENTITY formatToolbar.tooltip "Formatting Toolbar">
-<!ENTITY cutToolbarCmd.tooltip "بریدن">
-<!ENTITY copyToolbarCmd.tooltip "رونوشت برداشتن">
-<!ENTITY pasteToolbarCmd.tooltip "چسباندن">
-<!ENTITY printToolbarCmd.label "چاپ">
-<!ENTITY printToolbarCmd.tooltip "چاپ کردن این صفحه">
-<!ENTITY findToolbarCmd.label "پیدا کردن">
-<!ENTITY findToolbarCmd.tooltip "Find text in page">
-<!ENTITY spellToolbarCmd.label "Spell">
-<!ENTITY spellToolbarCmd.tooltip "Check spelling of selection or entire page">
-
 <!ENTITY imageToolbarCmd.label "تصویر">
 <!ENTITY imageToolbarCmd.tooltip "Insert new image or edit selected image's properties">
 <!ENTITY hruleToolbarCmd.label "H.Line">
@@ -312,7 +282,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
 <!ENTITY TextColorButton.tooltip "Choose color for text">
 <!ENTITY BackgroundColorButton.tooltip "Choose color for background">
-<!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
 <!-- Editor toolbar -->
 
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "تنظیم اندازه قلم">
@@ -333,12 +302,6 @@
 <!ENTITY alignJustifyButton.tooltip "تراز کردن متن با حاشیه‌های چپ و راست">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label         "انتخاب">
-<!ENTITY structSelect.accesskey     "ا">
-<!ENTITY structRemoveTag.label      "Remove tag">
-<!ENTITY structRemoveTag.accesskey  "R">
-<!ENTITY structChangeTag.label      "Change tag">
-<!ENTITY structChangeTag.accesskey  "C">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Insert">

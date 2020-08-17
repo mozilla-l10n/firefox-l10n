@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = منبع اطلاعات پینگ:
-about-telemetry-show-current-ping-data = اطلاعات پینگ فعلی
 about-telemetry-show-archived-ping-data = بایگانی اطلاعات پینگ
 about-telemetry-show-subsession-data = نمایش اطلاعات زیرنشست‌ها
 about-telemetry-choose-ping = انتخاب پینگ:
@@ -63,7 +62,6 @@ about-telemetry-settings-explanation = سنجش از راه دور { about-telem
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = هر قطعه از این اطلاعات به همراه“<a data-l10n-name="ping-link">پینگ‌ها</a>” ارسال شده است. شما در حال نگاه کردن به پینگ { $name }, { $timestamp } هستید.
-about-telemetry-ping-details-current = هر قطعه از این اطلاعات به همراه“<a data-l10n-name="ping-link">پینگ‌ها</a>” ارسال شده است. شما در حال نگاه کردن به پینگ جاری هستید.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -88,8 +86,6 @@ about-telemetry-no-search-results-all = متاسفیم! نتیجه ای برای
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = متاسفیم! ولی در حال حاضر اطلاعاتی برای “{ $sectionName }” در دسترس نیست
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = پینگ جاری
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = همه
 # button label to copy the histogram

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "امنیت">
-<!ENTITY securityTab.label "امنیت">
-<!ENTITY securityHeading.label "To send and receive signed or encrypted messages, you should specify both a digital signing certificate and an encryption certificate.">
-<!ENTITY encryptionGroupTitle.label "رمزنگاری">
-<!ENTITY encryptionChoiceLabel.label "Default encryption setting when sending messages:">
-<!ENTITY neverEncrypt.label "Never (do not use encryption)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Required (can't send message unless all recipients have certificates)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Use this certificate to encrypt &amp; decrypt messages sent to you:">
-
 <!ENTITY digitalSign.certificate.button "Select…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "پاک کردن">
@@ -22,15 +11,9 @@
 <!ENTITY encryption.certificate_clear.button "پاک کردن">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digital Signing">
-<!ENTITY signMessage.label "Digitally sign messages (by default)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Use this certificate to digitally sign messages you send:">
-
-<!ENTITY certificates.label "گواهی‌ها">
 
 
-<!ENTITY manageDevices.label "Security Devices">
-<!ENTITY manageDevices.accesskey "y">
 <!-- Strings for the cert picker dialog -->
 
 

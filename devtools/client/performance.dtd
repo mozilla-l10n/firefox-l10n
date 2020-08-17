@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "نام و منبع موقعیت تابع نمونه برداری شده.">
 <!ENTITY performanceUI.table.totalAlloc               "تمام نمونه های اختصاص داده شده">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "همه تعداد اشیائی که برای نمونه اختصاص داده شده است در این موقعیت در callees.">
-<!ENTITY performanceUI.table.selfAlloc                "اختصاص دادن نمونه‌های سرخود">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "تعداد اشیا که برای نمونه ها در این مکان اختصاص داده شده است.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

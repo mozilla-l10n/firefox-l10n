@@ -20,20 +20,6 @@ graph-total-tracker-summary =
        *[other] <b>{ $count }</b> ردیاب از { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } مسدود شده‌اند.
     }
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = سطح محافظت روی <b>استاندارد</b> تنظیم شده است
-    .title = به تنظیمات حریم شخصی بروید
-protection-report-header-details-strict = سطح محافظت روی <b>سختگیرانه</b> تنظیم شده است
-    .title = به تنظیمات حریم شخصی بروید
-protection-report-header-details-custom = سطح محافظت روی <b>سفارشی</b> تنظیم شده است
-    .title = به تنظیمات حریم شخصی بروید
-protection-report-page-title = محافظ‌های حریم‌خصوصی
-protection-report-content-title = محافظ‌های حریم‌خصوصی
-
-etp-card-title = محافظت پیشرفته در برابر ردیابی
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = امروز
@@ -45,20 +31,8 @@ tracker-tab-title = محتوای ردیابی کننده
 cryptominer-tab-title = استخراج کننده‌های رمزارزها
   
 lockwise-title = هرگز گذرواژه را فراموش نکن
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } گذرواژه‌های شما را به صورت امن در مرورگر ذخیره می‌کند.
 lockwise-header-content-logged-in = ذخیره امن گذرواژه‌ها و همگام‌سازی با تمام دستگاه های شما.
-protection-report-view-logins-button = نمایش ورودها
-    .title = به ورودهای ذخیره شده برو
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] گذرواژه به شکل امن ذخیره شد  <a data-l10n-name="lockwise-how-it-works"> این چگونه کار می‌کند</a>
-       *[other] گذرواژه‌ها به شکل امن ذخیره شدند  <a data-l10n-name="lockwise-how-it-works"> این چگونه کار می‌کند</a>
-    }
 
 turn-on-sync = روشن کردن { -sync-brand-short-name }…
     .title = به تنظیمات همگام‌سازی برو

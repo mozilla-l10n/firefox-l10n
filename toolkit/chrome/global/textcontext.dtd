@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "بریدن">
-<!ENTITY cutCmd.accesskey "ر">
-<!ENTITY copyCmd.label "رونوشت برداشتن">
-<!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "جایگذاری">
-<!ENTITY pasteCmd.accesskey "ج">
-<!ENTITY undoCmd.label "واگرد">
-<!ENTITY undoCmd.accesskey "و">
-<!ENTITY selectAllCmd.label "انتخاب همه">
-<!ENTITY selectAllCmd.accesskey "ه">
-<!ENTITY deleteCmd.label "حذف">
-<!ENTITY deleteCmd.accesskey "ح">
-
 <!ENTITY spellAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
 <!ENTITY spellAddToDictionary.accesskey "ا">
 <!ENTITY spellUndoAddToDictionary.label "حذف کردن از واژه‌ نامه">

@@ -43,36 +43,14 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "ویرایش">
 <!ENTITY editMenu.accesskey                             "و">
-<!ENTITY undoCmd.label                                  "واگرد">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "و">
-<!ENTITY redoCmd.label                                  "از نو">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "ز">
-<!ENTITY cutCmd.label                                   "بریدن">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "ب">
-<!ENTITY copyCmd.label                                  "رونوشت برداشتن">
-<!ENTITY copyCmd.accesskey                              "ن">
-<!ENTITY pasteCmd.label                                 "چسباندن">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "چ">
 <!ENTITY deleteCmd.label                                "حذف">
-<!ENTITY deleteCmd.accesskey                            "ح">
 <!ENTITY deleteAbCmd.label                              "Delete Address Book">
 <!ENTITY deleteContactCmd.label                         "حذف مخاطب">
 <!ENTITY deleteContactsCmd.label                        "حذف مخاطبین">
 <!ENTITY deleteListCmd.label                            "Delete List">
 <!ENTITY deleteListsCmd.label                           "Delete Lists">
 <!ENTITY deleteItemsCmd.label                           "Delete Items">
-<!ENTITY selectAllCmd.label                             "انتخاب همه">
-<!ENTITY selectAllCmd.key                               "A">
-<!ENTITY selectAllCmd.accesskey                         "ا">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "نما">

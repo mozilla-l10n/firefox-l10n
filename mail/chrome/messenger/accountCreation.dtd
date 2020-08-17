@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "نام شما:">
 <!ENTITY name.accesskey                  "ن">
-<!ENTITY name.placeholder                "نام نام خانوادگی">
 <!ENTITY name.text                       "نام شما؛ برای نشان داده شدن به دیگران">
 <!ENTITY email.label                     "آدرس پست الکترونیکی:">
 <!ENTITY email.accesskey                 "د">
@@ -22,8 +21,6 @@
 <!ENTITY incoming.label                  "ورودی:">
 <!ENTITY outgoing.label                  "خروجی:">
 <!ENTITY username.label                  "&amp;نام کاربری:">
-<!ENTITY hostname.label                  "نام میزبان سرویس دهنده">
-<!ENTITY port.label                      "درگاه">
 
 <!ENTITY auth.label                      "تصدیق‌هویت">
 
@@ -50,8 +47,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "امتحان مجدد">
 <!ENTITY half-manual-test.accesskey      "م">
-<!ENTITY manual-edit.label               "پیکربندی دستی">
-<!ENTITY manual-edit.accesskey           "س">
 
 
 <!ENTITY warning.label                   "هشدار!">

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "وارد کردن گزینه‌ها، نشانک‌ها، تاریخچه، گذرواژه‌ها و دیگر داده‌ها از:">
 <!ENTITY importFromUnix.label           "وارد کردن ترجیحات، نشانک‌ها، تاریخچه، گذرواژه‌ها و دیگر داده‌ها از:">
-<!ENTITY importFromBookmarks.label      "وارد کردن نشانک‌ها از:">
 
 <!ENTITY importFromIE.label             "اینترنت اکسپلورر مایکروسافت">
 <!ENTITY importFromIE.accesskey         "م">

@@ -4,10 +4,6 @@
 
 process-type-web = محتوای وب
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = محتوای ممتاز
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = محتوای اختصاصی Mozilla
