@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Zatvori
     .title = Prethodno viđeni neslužbeni digitalni otisci
+
 finger-intro = Otisci prsta OTR ključa iz prethodnih potpuno kriptiranih razgovora.
+
 finger-screenName =
     .label = Kontakt
 finger-verified =
     .label = Stanje provjere
 finger-fingerprint =
     .label = Digitalni otisak
+
 finger-remove =
     .label = Ukloni odabrano
+
 finger-remove-all =
     .label = Ukloni sve

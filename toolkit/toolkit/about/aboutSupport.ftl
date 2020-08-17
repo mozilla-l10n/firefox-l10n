@@ -4,6 +4,7 @@
 
 page-title = Podaci za rješavanja problema
 page-subtitle = Ova stranica sadrži tehničke podatke koji mogu biti korisni pri rješavanju problema. Ako tražiš odgovore na česta pitanja o { -brand-short-name }u, posjeti našu <a data-l10n-name="support-link">web stranicu podrške</a>.
+
 crashes-title = Izvještaji o rušenju
 crashes-id = ID izvještaja
 crashes-send-date = Poslano
@@ -104,8 +105,6 @@ graphics-desktop-environment = Radno okruženje
 place-database-title = Baza podataka mjesta
 place-database-integrity = Cjelovitost
 place-database-verify-integrity = Provjeri cjelovitost
-js-title = JavaScript
-js-incremental-gc = Inkrementalno sakupljanje smeća (GC)
 a11y-title = Pristupačnost
 a11y-activated = Aktivirano
 a11y-force-disabled = Sprečavanje pristupačnosti
@@ -125,6 +124,7 @@ sandbox-sys-call-number = Poziv sustava
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Pokušaj siguran način rada
 restart-in-safe-mode-label = Ponovo pokreni s isključenim dodacima …
+
 clear-startup-cache-title = Pokušaj poništiti predmemoriju pokretanja
 clear-startup-cache-label = Poništi predmemoriju pokretanja …
 startup-cache-dialog-title = Poništi predmemoriju pokretanja
@@ -135,7 +135,6 @@ restart-button-label = Pokreni ponovo
 
 audio-backend = Audio pozadina
 max-audio-channels = Maksimalan broj kanala
-channel-layout = Preferirani raspored kanala
 sample-rate = Željena učestalost uzorka
 media-title = Medij
 media-output-devices-title = Izlazni uređaji
@@ -188,6 +187,7 @@ report-crash-for-days =
         [few] Izvještaji o rušenju za proteklih { $days } dana
        *[other] Izvještaji o rušenju za proteklih { $days } dana
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -196,6 +196,7 @@ crashes-time-minutes =
         [few] Prije { $minutes } minute
        *[other] Prije { $minutes } minuta
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -204,6 +205,7 @@ crashes-time-hours =
         [few] Prije { $hours } sata
        *[other] Prije { $hours } sati
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -212,6 +214,7 @@ crashes-time-days =
         [few] Prije { $days } dana
        *[other] Prije { $days } dana
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -220,6 +223,7 @@ pending-reports =
         [few] Svi izvještaji o rušenju (uključujući { $reports } neriješena rušenja u danom periodu)
        *[other] Svi izvještaji o rušenju (uključujući { $reports } neriješenih rušenja u danom periodu)
     }
+
 raw-data-copied = Neobrađeni podaci kopirani u međuspremnik
 text-copied = Tekst kopiran u međuspremnik
 
@@ -232,9 +236,11 @@ blocked-mismatched-version = Blokiran zbog nepodudaranja verzije upravljačkog p
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokirano za verziju upravljačkog programa grafičke kartice. Pokušaj nadograditi upravljački program grafičke kartice na verziju { $driverVersion } ili noviju.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametri
+
 compositing = Sastavljanje
 hardware-h264 = Hardversko H264 dekodiranje
 main-thread-no-omtc = glavna nit, bez OMTC
@@ -249,6 +255,7 @@ virtual-monitor-disp = Prikaz virtualnog monitora
 
 found = Pronađeno
 missing = Nedostaje
+
 gpu-process-pid = Pid procesa grafičke procesorske jedinice
 gpu-process = Proces grafičke procesorske jedinice
 gpu-description = Opis
@@ -272,18 +279,21 @@ webgl2-version = Verzija upravljačkog programa WebGL 2
 webgl2-driver-extensions = Dodaci upravljačkog programa WebGL 2
 webgl2-extensions = WebGL 2 dodaci
 blocklisted-bug = Blokiran zbog poznatih problema
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = greška { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokiran; kȏd neuspjeha { $failureCode }
+
 d3d11layers-crash-guard = D3D11 kompozitor
 d3d11video-crash-guard = D3D11 video dekoder
-d3d9video-crash-buard = D3D9 video dekoder
 d3d9video-crash-guard = D3D9 video dekoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX video dekoder
+
 reset-on-next-restart = Vrati na početne prilikom sljedećeg pokretanja
 gpu-process-kill-button = Prekini GPU proces
 gpu-device-reset = Ponovno pokretanje uređaja
@@ -293,8 +303,10 @@ content-uses-tiling = Koristi sličice (sadržaj)
 off-main-thread-paint-enabled = Aktivirano iscrtavanje izvan glavnog procesa
 off-main-thread-paint-worker-count = Broj radnih procesa za iscrtavanje izvan glavne niti
 target-frame-rate = Ciljani broj sličica
+
 min-lib-versions = Očekivana najmanja verzija
 loaded-lib-versions = Korištena verzija
+
 has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
 has-seccomp-tsync = Seccomp Thread sinkronizacija
 has-user-namespaces = Korisnički imenski prostori
@@ -307,15 +319,18 @@ sandbox-proc-type-content = sadržaj
 sandbox-proc-type-file = sadržaj datoteke
 sandbox-proc-type-media-plugin = priključak za medije
 sandbox-proc-type-data-decoder = dekoder podataka
+
 startup-cache-title = Predmemorija pokretanja
 startup-cache-disk-cache-path = Staza predmemorije diska
 startup-cache-ignore-disk-cache = Zanemari predmemoriju diska
 startup-cache-found-disk-cache-on-init = Pronađena je predmemorija diska pri inicijaliziranju
 startup-cache-wrote-to-disk-cache = Zapisano u predmemoriju diska
+
 launcher-process-status-0 = Omogućeno
 launcher-process-status-1 = Onemogućeno zbog kvara
 launcher-process-status-2 = Prisilno onemogućeno
 launcher-process-status-unknown = Nepoznato stanje
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -328,6 +343,7 @@ multi-process-status-6 = Onemogućio nepodržani unos teksta
 multi-process-status-7 = Onemogućili dodaci
 multi-process-status-8 = Prisilno onemogućeno
 multi-process-status-unknown = Nepoznato stanje
+
 async-pan-zoom = Asinkrono pomicanje/zumiranje
 apz-none = ništa
 wheel-enabled = unos kotačićem uključen

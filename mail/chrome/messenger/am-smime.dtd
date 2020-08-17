@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Sigurnost">
-<!ENTITY securityTab.label "Sigurnost">
-<!ENTITY securityHeading.label "Za slanje i primanje potpisanih ili šifriranih poruka, odredi certifikat za digitalni potpis i certifikat za šifriranje.">
-<!ENTITY encryptionGroupTitle.label "Šifriranje">
-<!ENTITY encryptionChoiceLabel.label "Zadana postavka šifriranja prilikom slanja poruka:">
-<!ENTITY neverEncrypt.label "Nikada (ne koristi šifriranje)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Obavezno (poruka se ne može poslati ukoliko svi primatelji nemaju certifikate)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Koristi ovaj certifikat za šifriranje i dešifriranje tebi poslanih poruka:">
-
 <!ENTITY e2eTitle.label "End-To-End šifriranje">
-<!ENTITY e2eIntro.description "Za slanje šifriranih ili digitalno potpisanih poruka moraš konfigurirati tehnologiju šifriranja, bilo OpenPGP ili S/MIME.">
 <!ENTITY e2eLearnMore.label "Saznaj više">
 
 <!ENTITY e2eEnc.description "Bez end-to-end šifriranja, sadržaji tvojih poruka lako su dostupni tvom davatelju usluge e-pošte i drugim masovnim nadzorima.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Očisti">
 <!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Digitalno potpisivanje">
-<!ENTITY signMessage.label "Digitalno potpiši poruke (zadano)">
 <!ENTITY signMessage2.label "Standardno dodaj moj digitalni potpis">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Koristi ovaj certifikat za digitalno potpisivanje poruka koje šaljete:">
-
-<!ENTITY certificates.label "Certifikati">
-<!ENTITY manageCerts2.label "Upravljanje certifikatima">
-<!ENTITY manageCerts2.accesskey "m">
-<!ENTITY manageDevices.label "Sigurnosni uređaji">
-<!ENTITY manageDevices.accesskey "g">
 
 <!ENTITY signingCert2.message "Osobni certifikat za digitalno potpisivanje:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Preferiraj OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Upravljaj OpenPGP ključevima">
-<!ENTITY manageKeys.accesskey "k">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Odaberite certifikat">

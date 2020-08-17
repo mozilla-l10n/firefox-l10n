@@ -104,9 +104,6 @@ about-debugging-setup-title = Konfiguracija
 about-debugging-setup-intro = Konfiguriraj način povezivanja za uklanjanje grešaka na tvom uređaju.
 
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za uklanjanje grešaka kartica, proširenja i radnih procesa ove verzije { -brand-shorter-name }a.
-
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za uklanjanje grešaka proširenja i radnih procesa ove verzije { -brand-shorter-name }a.
 
 # Title of the heading Connect section of the Setup page.
@@ -226,14 +223,6 @@ about-debugging-runtime-service-workers-not-compatible = Konfiguracija tvog preg
 about-debugging-browser-version-too-old = Povezani preglednik je starije verzije { $runtimeVersion }. Najmanja podržana verzija je { $minVersion }. Ovo je nepodržana postava i programerski alati možda neće raditi. Aktualiziraj povezani preglednik. <a>Ispravljanje grešaka</a>
 
 # Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = Ploča ispravljača grešaka možda ne radi s povezanim preglednikom. Koristi Firefox { $runtimeVersion } ako moraš koristiti ispravljača grešaka s ovim preglednikom.
-
-# Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Ova verzija Firefoxa ne može uklanjati greške programa Firefox za Android (68). Preporučujemo instaliranje Firefoxa za Android Nightly na mobitel radi testiranja. <a>Više detalja</a>
 
@@ -324,9 +313,6 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID proširenja
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = Pokreni
 
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Pokreni

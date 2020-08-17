@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Upiši valjano ime glavnog računala
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Iznimke - blokiranje sadržaja
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Onemogućili ste blokiranje sadržaja za ove stranice.
-
 permissions-exceptions-etp-window =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Možeš odrediti web-stranice, koje smiju instalirati dodatke. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Iznimke - automatska reprodukcija
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Možeš odrediti web-stranice, koje smiju uvijek ili ne smiju nikada automatski svirati audio snimke. Upiši točnu adresu stranice koju želiš podesiti i klikni „Blokiraj”, „Dozvoli za sesiju” ili „Dozvoli”.
 
 ## Site Permissions - Autoplay
 
