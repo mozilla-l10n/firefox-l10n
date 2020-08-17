@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Gutubya">
-<!ENTITY bringAllToFront.label    "Kuzana byose Imbere">
-<!ENTITY zoomWindow.label         "Ihindurangano">
-<!ENTITY windowMenu.label         "Idirishya">
-
-<!ENTITY helpMenu.label           "Ifashayobora"> 
-<!ENTITY helpMenu.accesskey       "f"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Ifashayobora"> 
-<!ENTITY helpMenuWin.accesskey    "f">
-
 
 
 
@@ -35,14 +22,10 @@
 
 
 <!ENTITY preferencesCmdMac.label        "Ibyatoranyijwe...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Ibikorwa">
 
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
-
 <!ENTITY hideOtherAppsCmdMac.label      "Guhisha Ibindi">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Kwerekana Byose">
 

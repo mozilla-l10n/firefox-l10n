@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Guhindura">
-<!ENTITY editMenu.accesskey        "h">
-<!ENTITY undoCmd.label             "Gukuraho">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "k">
-<!ENTITY redoCmd.label             "Gusubiramo">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "s">
-<!ENTITY cutCmd.label              "Gukata">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Gukoporora">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "k">
-<!ENTITY pasteCmd.label            "Komeka">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "m">
-<!ENTITY deleteCmd.label           "Gusiba">
-<!ENTITY deleteCmd.accesskey       "b">
-<!ENTITY selectAllCmd.label        "Guhitamo Byose">
-<!ENTITY selectAllCmd.key          "h">
-<!ENTITY selectAllCmd.accesskey    "a">
-
 <!ENTITY findCmd.label             "Gushaka">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "k">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "G">
-<!ENTITY findPreviousCmd.label     "Gushaka Ibibanza">
-<!ENTITY findPreviousCmd.accesskey "z">

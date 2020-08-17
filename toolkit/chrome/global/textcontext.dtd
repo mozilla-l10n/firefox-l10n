@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Gukata">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Gukoporora">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Komeka">
-<!ENTITY pasteCmd.accesskey "e">
-<!ENTITY undoCmd.label "Gukuraho">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY selectAllCmd.label "Guhitamo Byose">
-<!ENTITY selectAllCmd.accesskey "B">
-<!ENTITY deleteCmd.label "Gusiba">
-<!ENTITY deleteCmd.accesskey "s">
-
 <!ENTITY spellAddToDictionary.label "Kongera mu nkoranyamagambo">
 <!ENTITY spellAddToDictionary.accesskey "n">
 

@@ -14,6 +14,7 @@ pw-erased-ok = Wasibye Ijambobanga Ngenga yawe.  { pw-empty-warning }
 pw-not-wanted = Iburira! Wahisemo kutakoresha Ijambobanga Ngenga. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Uri ubungubu mu buryo bwa FIPS. FIPS ikeneye Ijambobanga Ngenga itarimo ubusa.
+
 pw-change-success-title = Guhindura ijambobanga byakunze
 pw-change-failed-title = Guhindura ijambobanga byaze
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Guhindura Ijambobanga Ngenga
+
 set-password-old-password = Ijambobanga iriho:
 set-password-new-password = Injiza Ijambobanga Nshya:
 set-password-reenter-password = Ongera winjize ijambobanga:
@@ -31,6 +33,7 @@ master-password-warning = Usabwe kumenya neza niba wibuka Ijambobanga Ngenga was
 
 remove-password =
     .title = Gusiba Ijambobanga Ngenga
+
 remove-info =
     .value = Ugomba kwinjiza ijambobanga ufite ubu kugira ngo ukomeze:
 remove-warning1 = Ijambobanga Ngenga ryawe rikoreshwa kugira ngo urinde amakuru akomeye nk'amagambobanga y'urubuga.
