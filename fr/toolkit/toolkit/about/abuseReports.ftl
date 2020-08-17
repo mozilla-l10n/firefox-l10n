@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Annuler
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Endommage mon ordinateur et mes données
-
 abuse-report-damage-reason-v2 = Mes données ou mon ordinateur ont été endommagés
 abuse-report-damage-example = Exemple : a injecté un logiciel malveillant ou volé des données
 
-abuse-report-spam-reason = Crée du spam ou de la publicité
-
 abuse-report-spam-reason-v2 = Contient du spam ou insère de la publicité indésirable
 abuse-report-spam-example = Exemple : insère des publicités sur des pages web
-
-abuse-report-settings-reason = A modifié mon moteur de recherche, ma page d’accueil ou de nouvel onglet sans me prévenir ou me demander
 
 abuse-report-settings-reason-v2 = A modifié mon moteur de recherche, ma page d’accueil ou de nouvel onglet sans me prévenir ou me demander
 abuse-report-settings-suggestions = Avant de signaler l’extension, vous pouvez essayer de modifier vos paramètres :
 abuse-report-settings-suggestions-search = Modifie vos paramètres de recherche par défaut
 abuse-report-settings-suggestions-homepage = Modifie votre page d’accueil et de nouvel onglet
 
-abuse-report-deceptive-reason = Prétend être ce qu’il/elle n’est pas
-
 abuse-report-deceptive-reason-v2 = Prétend être ce qu’il/elle n’est pas
 abuse-report-deceptive-example = Exemple : description ou images trompeuses
-
-abuse-report-broken-reason-extension = Ne fonctionne pas, casse les sites web ou ralentit { -brand-product-name }
-abuse-report-broken-reason-theme = Ne fonctionne pas ou interrompt l’affichage du navigateur
 
 abuse-report-broken-reason-extension-v2 = Ne fonctionne pas, casse les sites web ou ralentit { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ne fonctionne pas ou interrompt l’affichage du navigateur
@@ -97,14 +86,10 @@ abuse-report-broken-suggestions-theme =
     Vous avez probablement identifié un problème. En plus de soumettre un rapport ici, la meilleure façon de résoudre un problème de fonctionnalité est de contacter le développeur du thème.
     <a data-l10n-name="support-link">Visitez le site web du thème</a> pour trouver des informations sur le développeur.
 
-abuse-report-policy-reason = Contenus haineux, violents ou illégaux
-
 abuse-report-policy-reason-v2 = Contient des contenus haineux, violents ou illégaux
 abuse-report-policy-suggestions =
     Remarque : Les problèmes de droits d’auteur et de marques doivent être signalés dans un processus séparé.
     <a data-l10n-name="report-infringement-link">Suivez ces instructions</a> pour signaler le problème.
-
-abuse-report-unwanted-reason = Je n’ai jamais voulu cette extension et je ne peux pas m’en débarrasser
 
 abuse-report-unwanted-reason-v2 = Je n’en ai jamais voulu et je ne sais pas comment m’en débarrasser
 abuse-report-unwanted-example = Exemple : une application l’a installée sans mon autorisation

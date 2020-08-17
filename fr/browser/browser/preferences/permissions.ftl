@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Veuillez saisir un nom d’hôte valide
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Exceptions - Blocage de contenu
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Vous avez désactivé le blocage de contenu sur ces sites.
-
 permissions-exceptions-etp-window =
     .title = Exceptions pour la protection renforcée contre le pistage
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Vous pouvez indiquer les sites web autorisés à installer des modules complémentaires. Saisissez l’adresse exacte du site que vous souhaitez autoriser et cliquez sur Autoriser.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Exceptions - Lecture automatique
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Vous pouvez indiquer les sites web qui sont toujours ou ne sont jamais autorisés à lancer automatiquement la lecture de contenu multimédia comportant du son. Saisissez l’adresse du site et cliquez sur Bloquer ou Autoriser.
 
 ## Site Permissions - Autoplay
 

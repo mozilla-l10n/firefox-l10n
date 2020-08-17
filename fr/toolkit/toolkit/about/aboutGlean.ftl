@@ -7,6 +7,7 @@
 
 about-glean-page-title = À propos de Glean
 about-glean-warning = Une mauvaise utilisation de cette interface peut faire planter { -brand-short-name }.
+
 tag-pings-label = Marquer tous les pings envoyés avec cette étiquette
 log-pings-label = Enregistrer la charge brute du ping avant l’envoi ?
 controls-button-label = Envoyer les paramètres

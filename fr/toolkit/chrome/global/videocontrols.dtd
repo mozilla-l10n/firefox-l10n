@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Incrustation vidéo">
 
-<!ENTITY stats.media "Média">
-<!ENTITY stats.size "Taille">
-<!ENTITY stats.activity "Activité">
-<!ENTITY stats.activityPaused "En pause">
-<!ENTITY stats.activityPlaying "Lecture en cours">
-<!ENTITY stats.activityEnded "Terminé">
-<!ENTITY stats.activitySeeking "(recherche)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.framesParsed "Images analysées">
-<!ENTITY stats.framesDecoded "Images décodées">
-<!ENTITY stats.framesPresented "Images présentées">
-<!ENTITY stats.framesPainted "Images dessinées">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "La lecture de la vidéo a été interrompue à cause d’une erreur inconnue.">
 
 <!ENTITY status.pictureInPicture "Cette vidéo est en cours de lecture en mode incrustation.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 sur #2 écoulées">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Gérez vos modules en cliquant sur <image d
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autoriser cette extension à s’exécuter dans une fenêtre de navigation privée
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Changement pour les extensions en fenêtres de navigation privée
-    .buttonlabel = Gérer les extensions
-    .buttonaccesskey = G
-    .secondarybuttonlabel = J’ai compris
-    .secondarybuttonaccesskey = a
-appmenu-addon-private-browsing-message = Les nouvelles extensions que vous ajouterez à { -brand-shorter-name } ne fonctionneront pas dans les fenêtres de navigation privée à moins d’autoriser explicitement leur exécution dans les paramètres.
-appmenu-addon-private-browsing-learn-more = Apprendre à gérer les paramètres des extensions
     
 appmenu-new-tab-controlled =
     .label = La page Nouvel onglet a été modifiée.

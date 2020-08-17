@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Texte à côté des icônes">
 <!ENTITY useSmallIcons.label      "Petites icônes">
 <!ENTITY restoreDefaultSet.label  "Configuration par défaut">
-<!ENTITY addNewToolbar.label      "Nouvelle barre">
-<!ENTITY showTitlebar.label       "Afficher la barre de titre">
-<!ENTITY extraDragSpace.label     "Espace pour saisir la fenêtre">
 <!ENTITY showTitlebar2.label      "Barre de titre">
 <!ENTITY extraDragSpace2.label    "Espace pour saisir la fenêtre">
 <!ENTITY saveChanges.label        "Terminé">

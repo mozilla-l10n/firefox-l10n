@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importer les options, marque-pages, historique, mots de passe et autres données depuis :">
 <!ENTITY importFromUnix.label           "Importer les préférences, marque-pages, historique, mots de passe et autres données depuis :">
-<!ENTITY importFromBookmarks.label      "Importer les marque-pages depuis :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
