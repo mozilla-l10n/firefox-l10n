@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Print
-
+# Dialog title to prompt the user for a filename to save print to PDF.
+printui-save-to-pdf-title = Save As
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -11,7 +12,6 @@ printui-sheets-count =
         [one] { $sheetCount } sheet of paper
        *[other] { $sheetCount } sheets of paper
     }
-
 printui-page-range-all = All
 printui-page-range-custom = Custom
 printui-page-range-label = Pages
@@ -19,33 +19,27 @@ printui-page-range-picker =
     .aria-label = Pick page range
 printui-page-custom-range =
     .aria-label = Enter custom page range
-
 # Section title for the number of copies to print
 printui-copies-label = Copies
-
 printui-orientation = Orientation
 printui-landscape = Landscape
 printui-portrait = Portrait
-
 # Section title for the printer or destination device to target
 printui-destination-label = Destination
-
+printui-destination-pdf-label = Save to PDF
 printui-more-settings = More settings
 printui-less-settings = Fewer settings
-
 # Section title (noun) for the print scaling options
 printui-scale = Scale
 printui-scale-fit-to-page = Fit to page
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scale
-
 # Section title for miscellaneous print options
 printui-options = Options
 printui-headers-footers-checkbox = Print headers and footers
 printui-backgrounds-checkbox = Print backgrounds
-
 printui-system-dialog-link = Print using the system dialog…
-
 printui-primary-button = Print
+printui-primary-button-save = Save
 printui-cancel-button = Cancel
-
+printui-loading = Preparing Preview
