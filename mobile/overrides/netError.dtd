@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn hentar ikkje &brandShortName; automatisk inn sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å henta inn dokumentet frå nettsida på nytt.</li></ul>">
 
 <!ENTITY netOffline.title "Fråkopla-modus">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Prøv igjen. &brandShortName; vil freista å opna ei tilkopling og lasta sida på nytt. <button id='wifi'>Slå på WiFi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Feil med teiknkoding">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakt eigarane av nettstaden og informer om problemet.</li> </ul>">

@@ -23,4 +23,6 @@ otr-require-encryption-info =
     vert ikkje viste som ein del av den vanlege samtalen, og vert heller ikkje logga.
 otr-verifyNudge =
     .label = Minn meg alltid på å stadfeste ein ikkje-stadfesta kontakt
+
 otr-notYetAvailable = ikkje tilgjengeleg enno
+

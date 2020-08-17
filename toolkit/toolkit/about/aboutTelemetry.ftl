@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Pingdata-kjelde
-about-telemetry-show-current-ping-data = Gjeldande ping-data
 about-telemetry-show-current-data = Gjeldande data
 about-telemetry-show-archived-ping-data = Arkiverte ping-data
 about-telemetry-show-subsession-data = Vis underøkt-data
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Telemetri samlar inn { about-telemetry-da
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Kvar informasjonsdel vert sendt i ein pakke til “<a data-l10n-name="ping-link">ping</a>”. Du ser på ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Kvar informasjonsdel vert sendt i ein pakke til “<a data-l10n-name="ping-link">ping</a>“. Du ser på gjeldande ping.
 about-telemetry-data-details-current = Kvar informasjonsdel blir sendt i ein pakke til «<a data-l10n-name="ping-link">pings</a>». Du ser på gjeldande data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Det finnes ingen resultat i nokon seksjo
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Det finst ingen data tilgjengelege i «{ $sectionName }»
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = gjeldande ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = gjeldande data
 # used in the “Ping Type” select

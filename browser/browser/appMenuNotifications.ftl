@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Administrer tillegga dine ved å klikke på
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillat denne utvidinga å kløyre i private vindauge
     .accesskey = T
-appmenu-addon-private-browsing =
-    .label = Endring av korleis utvidingar fungerer i private vindauge
-    .buttonlabel = Handter tillegg
-    .buttonaccesskey = H
-    .secondarybuttonlabel = Ok, eg forstår
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Eventuelle nye utvidingar du legg til i { -brand-shorter-name } vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.
-appmenu-addon-private-browsing-learn-more = Les om korleis du handterer utvidingsinnstillingar.
     
 appmenu-new-tab-controlled =
     .label = Den nye fana di er endra.
