@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = ਰਿਪੋਰਟ ਭੇਜਣ ਦੌਰਾਨ ਗ਼ਲਤੀ ਆਈ ਸੀ। ਬਾਅਦ 'ਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = ਸਾਈਟ ਠੀਕ ਸੀ? ਰਿਪੋਰਟ ਭੇਜੋ
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = ਸਟੈਂਡਰਡ
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ
+
 protections-panel-etp-on-header = ਇਸ ਸਾਈਟ ਲਈ ਵਾਧਾ ਕੀਤਾ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਚਾਲੂ ਹੈ
 protections-panel-etp-off-header = ਇਸ ਸਾਈਟ ਲਈ ਵਾਧਾ ਕੀਤਾ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ਸਾਈਟ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੀ ਹੈ?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = ਸਾਈਟ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੀ ਹੈ?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = ਸੁਰੱਖਿਆਵਾ
 ##
 
 protections-panel-no-trackers-found = ਇਸ ਸਫ਼ੇ ‘ਤੇ { -brand-short-name } ਵਲੋਂ ਜਾਣੇ-ਪਛਾਣੇ ਕੋਈ ਟਰੈਕਰ ਨਹੀਂ ਹਨ।
+
 protections-panel-content-blocking-tracking-protection = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
+
 protections-panel-content-blocking-socialblock = ਸਮਾਜਿਕ ਮੀਡਿਆ ਟਰੈਕਰ
 protections-panel-content-blocking-cryptominers-label = ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
 protections-panel-content-blocking-fingerprinters-label = ਫਿੰਗਰਪਰਿੰਟਰ
@@ -57,7 +63,6 @@ protections-panel-not-found-label = ਕੋਈ ਨਹੀਂ ਖੋਜੇ
 ##
 
 protections-panel-settings-label = ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ
-protections-panel-showreport-label = ਰਿਪੋਰਟ ਵੇਖਾਓ
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = ਸੁਰੱਖਿਆ ਡੈਸ਼�
 
 # The header of the list
 protections-panel-site-not-working-view-header = ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਮਸਲੇ ਹਨ ਤਾਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕਰੋ:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = ਲਾਗਇਨ ਖੇਤਰ
 protections-panel-site-not-working-view-issue-list-forms = ਫ਼ਾਰਮ
 protections-panel-site-not-working-view-issue-list-payments = ਭੁਗਤਾਨ
 protections-panel-site-not-working-view-issue-list-comments = ਟਿੱਪਣੀਆਂ
 protections-panel-site-not-working-view-issue-list-videos = ਵਿਡੀਓ
+
 protections-panel-site-not-working-view-send-report = ਰਿਪੋਰਟ ਭੇਜੋ
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਡਿਜ਼�
 protections-panel-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ ਤੁਹਾਡੇ ਬਾਰੇ ਪਰੋਫਾਈਲ ਬਣਾਉਣ ਲਈ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਅਤੇ ਕੰਪਿਊਟਰ ਤੋਂ ਸੈਟਿੰਗਾਂ ਇਕੱਤਰ ਕਰਦੇ ਹਨ। ਇਹ ਡਿਜ਼ਿਟਲ ਫਿੰਗਰਪਰਿੰਟ ਵਰਤ ਕੇ ਉਹ ਤੁਹਾਨੂੰ ਵੱਖੋ-ਵੱਖ ਵੈੱਬਸਾਈਟਾਂ ਦੁਆਲੇ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ।
 protections-panel-tracking-content = ਵੈੱਬਸਾਈਟਾਂ ਟਰੈਕਿੰਗ ਕੋਡ ਨਾਲ ਬਾਹਰੀ ਇਸ਼ਤਿਹਾਰਾਂ, ਵੀਡਿਓ ਅਤੇ ਹੋਰ ਭਾਗਾਂ ਨੂੰ ਲੋਡ ਕਰ ਸਕਦੀਆਂ ਹਨ। ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣਾ ਸਾਈਟਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਕਰਨ ਮਦਦ ਸਕਦਾ ਹੈ, ਪਰ ਕੁਝ ਬਟਨ, ਫਾਰਮ ਅਤੇ ਲਾਗਇਨ ਖੇਤਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਸਕਦੇ ਹਨ।
 protections-panel-social-media-trackers = ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਹੋਰ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਟਰੈਕਰ (ਸੂਹੀਏ) ਲਾ ਦਿੰਦੀਆਂ ਹਨ, ਜੋ ਕਿ ਆਨਲਾਈਨ ਤੁਸੀਂ ਕੀ ਕਰਦੇ ਹੋ, ਕੀ ਵੇਖਦੇ ਹੋ, ਦਾ ਪਿੱਛਾ ਕਰਦੇ ਹਨ। ਇਹ ਸਮਾਜਿਕ ਮੀਡੀਆ ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡੇ ਬਾਰੇ ਉਹ ਵੀ ਸਿੱਖਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹਨ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਮਾਜਿਕ ਮੀਡਿਆ ਪਰੋਫਾਈਲਾਂ ਉੱਤੇ ਸਾਂਝਾ ਨਹੀਂ ਕਰਦੇ ਹੋ।
+
 protections-panel-content-blocking-manage-settings =
     .label = ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 protections-panel-content-blocking-breakage-report-view-description = ਕੁਝ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਕਰਕੇ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ। ਇਹ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ ਹਰ ਕਿਸੇ ਲਈ { -brand-short-name } ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਰਿਪੋਰਟ URL ਦੇ ਨਾਲ ਨਾਲ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਬਾਰੇ ਕੁਝ ਜਾਣਕਾਰੀ ਮੋਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦੀ ਹੈ। <label data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</label>

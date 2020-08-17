@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ਚੋਣ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:">
 <!ENTITY importFromUnix.label           "ਚੋਣ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:">
-<!ENTITY importFromBookmarks.label      "ਬੁੱਕਮਾਰਕ ਇੱਥੋਂ ਇੰਪੋਰਟ:">
 
 <!ENTITY importFromIE.label             "ਮਾਈਕ੍ਰੋਸਾਫਟ ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ">
 <!ENTITY importFromIE.accesskey         "M">

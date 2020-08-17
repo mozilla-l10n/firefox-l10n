@@ -70,14 +70,11 @@
 <!ENTITY maxMessagesEnd.label "ਸੁਨੇਹਾ">
 <!ENTITY alwaysAuthenticate.label "ਇਸ ਸਰਵਰ ਨਾਲ ਜੁੜਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਪਰਮਾਣਕਿਤਾ ਲਈ ਬੇਨਤੀ ਕਰੋ">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc ਫਾਇਲ:">
-<!ENTITY newsrcPicker.label "ਫਾਇਲ newsrc ਚੁਣੋ">
 <!ENTITY abbreviate.label "ਪੱਤਰ ਫੋਲਡਰ ਵਿੱਚ ਨਿਊਜ਼-ਗਰੁੱਪ ਦਾ ਨਾਂ ਇੰਝ ਵੇਖੋ:">
 <!ENTITY abbreviateOn.label "ਪੂਰਾ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "ਸੰਖੇਪ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "ਤਕਨੀਕੀ...">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localPath.label "ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ:">
 <!ENTITY localFolderPicker.label "ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ">
 <!ENTITY browseFolder.label "ਝਲਕ...">
 <!ENTITY browseFolder.accesskey "B">

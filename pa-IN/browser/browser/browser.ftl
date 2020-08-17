@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈਬਸਾਈਟ ਲਈ MIDI ਪਹੁੰਚ ਲਈ ਪਾਬੰਦੀਲਗਾਈ ਹੈ।
 urlbar-install-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,12 +180,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ਇਸ ਵੇਲੇ ਇਸ ਨਾਲ ਖੋਜੋ:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲੋ
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲੋ
+
 search-one-offs-context-open-new-tab =
     .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਜੋ
     .accesskey = T
@@ -191,6 +197,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਲਈ ਮੂਲ ਖੋਜ ਇੰਜਣ ਨਿਯਤ ਕਰੋ
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -217,8 +224,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = ਸੰਭਾਲਣ ‘ਤੇ ਸੰਪਾਦਕ ਵੇਖੋ
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = ਮੁਕੰਮਲ
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -292,12 +301,15 @@ popup-select-microphone =
     .value = ਸਾਂਝਾ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ:
     .accesskey = M
 popup-all-windows-shared = ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।
+
 popup-screen-sharing-not-now =
     .label = ਹੁਣੇ ਨਹੀਂ
     .accesskey = w
+
 popup-screen-sharing-never =
     .label = ਕਦੇ ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ
     .accesskey = N
+
 popup-silence-notifications-checkbox = ਸਾਂਝਾ ਕਰਨ ਦੇ ਦੌਰਾਨ { -brand-short-name } ਤੋਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
 popup-silence-notifications-checkbox-warning = ਜਦੋਂ ਤੁਸੀਂ ਸਾਂਝਾ ਕਰੋ ਤਾਂ { -brand-short-name } ਨੋਟੀਫਿਕੇਸ਼ਨ ਨਹੀਂ ਦਿਖਾਏਗਾ।
 
@@ -314,23 +326,17 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = F12 ਸ਼ਾਰਟਕੱਟ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ ਵੈੱਬ ਡਿਵੈਲਪਰ ਮੇਨੂ ਤੋਂ DevTools ਨੂੰ ਖੋਲ੍ਹੋ।
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
-# This placeholder is used in search mode with search engines that search the
-# entire web.
-urlbar-placeholder-search-mode-web =
-    .placeholder = ਵੈਬ ਨੂੰ ਖੋਜੋ
-# This placeholder is used in search mode with search engines that search a
-# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
-# tabs).
-urlbar-placeholder-search-mode-other =
-    .placeholder = ਖੋਜ ਸ਼ਬਦ ਦਿਓ
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -341,9 +347,11 @@ urlbar-permissions-granted =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦਿੱਤੀਆਂ ਹਨ।
 urlbar-switch-to-tab =
     .value = ਟੈਬ 'ਤੇ ਜਾਓ:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ਇਕਟੈਨਸ਼ਨ:
+
 urlbar-go-button =
     .tooltiptext = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ
 urlbar-page-action-button =

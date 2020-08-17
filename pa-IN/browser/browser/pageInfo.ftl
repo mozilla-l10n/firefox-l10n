@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = … ਵਜੋਂ ਸੰਭਾਲੋ
     .accesskey = e
-media-preview =
-    .value = ਮੀਡਿਆ ਝਲਕ:
 
 perm-tab =
     .label = ਅਧਿਕਾਰ
@@ -132,7 +130,6 @@ security-site-data-cookies-only = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼
 security-site-data-no = ਨਹੀਂ
 
 image-size-unknown = ਅਣਜਾਣ
-not-set-verified-by = ਦਿੱਤਾ ਨਹੀਂ
 page-info-not-specified =
     .value = ਦਿੱਤਾ ਨਹੀਂ
 not-set-alternative-text = ਦਿੱਤਾ ਨਹੀਂ
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = ਕੁਈਰਕਸ ਮੋਡ
 general-strict-mode =
     .value = ਸਟੈਂਡਰਡ ਪੂਰਨਤਾ ਮੋਡ
-security-no-owner = ਇਹ ਵੈੱਬ ਸਾਈਟ ਮਲਕੀਅਤ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।
 page-info-security-no-owner =
     .value = ਇਹ ਵੈੱਬ ਸਾਈਟ ਮਲਕੀਅਤ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।
 media-select-folder = ਚਿੱਤਰ ਸੰਭਾਲਣ ਵਾਸਤੇ ਇੱਕ ਫੋਲਡਰ ਨੂੰ ਚੁਣੋ

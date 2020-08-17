@@ -2,15 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ। { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = ਗ਼ਲਤੀ ਕੋਡ: { $error }
+
 psmerr-ssl-disabled = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕਿਉਂਕਿ SSL ਪਰੋਟੋਕਾਲ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ।
 psmerr-ssl2-disabled = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕਿਉਂਕਿ ਸਾਇਟ SSL ਪਰੋਟੋਕਾਲ ਦਾ ਪੁਰਾਣਾ, ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਵਰਜਨ ਵਰਤ ਰਹੀ ਹੈ।
+
 ssl-error-export-only-server = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਰਚਨਾ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਪੀਅਰ ਹਾਈ-ਗਰੇਡ ਇੰਕ੍ਰਿਪਸ਼ਨ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।
 ssl-error-us-only-server = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਪੀਅਰ ਲਈ ਹਾਈ-ਗਰੇਡ ਇੰਕ੍ਰਿਪਸ਼ਨ ਦੀ ਲੋੜ ਹੈ, ਜੋ ਕਿ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।
 ssl-error-no-cypher-overlap = ਪੀਅਰ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕੀਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ: ਕੋਈ ਸਾਂਝਾ ਇੰਕ੍ਰਿਪਸ਼ਣ ਐਲਗੋਰਥਿਮ ਨਹੀਂ ਹੈ।

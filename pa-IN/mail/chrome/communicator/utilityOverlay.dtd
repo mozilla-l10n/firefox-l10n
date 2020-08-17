@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label          "ਸੋਧ">
 <!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label            "ਵਾਪਸ">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "u">
 <!ENTITY redoCmd.label            "ਪਰਤਾਓ">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "r">
-<!ENTITY cutCmd.label            "ਕੱਟੋ">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "c">
-<!ENTITY pasteCmd.label            "ਚੇਪੋ">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "p">
 <!ENTITY deleteCmd.label          "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey        "d">
-<!ENTITY selectAllCmd.label          "ਸਭ ਚੁਣੋ">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 

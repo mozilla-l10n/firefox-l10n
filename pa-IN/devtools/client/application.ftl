@@ -21,10 +21,6 @@ serviceworker-list-header = ਸਰਵਿਸ ਵਰਕਰ
 serviceworker-worker-debug = ਡੀਬੱਗ
     .title = ਸਿਰਫ਼ ਚੱਲ ਰਹੇ ਸਰਵਿਸ ਵਰਕਰਾਂ ਨੂੰ ਹੀ ਡੀਬੱਗ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = ਸ਼ੁਰੂ
-
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time> ਅੱਪਡੇਟ ਕੀਤਾ
@@ -44,10 +40,6 @@ serviceworker-worker-status-running = ਚੱਲ ਰਿਹਾ ਹੈ
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = ਰੁਕਿਆ
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = ਰਜਿਸਟਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = ਪਛਾਣ
