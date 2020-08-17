@@ -290,9 +290,14 @@ key-accept-warning = Accepteer geen frauduleuze sleutel. Gebruik een ander commu
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kan het bericht niet verzenden, omdat er een probleem is met uw persoonlijke sleutel. { $problem }
 cannot-encrypt-because-missing = Kan dit bericht niet verzenden met end-to-end-versleuteling, omdat er problemen zijn met de sleutels van de volgende ontvangers: { $problem }
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Versleuteld berichtgedeelte
+mime-decrypt-encrypted-part-concealed-data = Dit is een versleuteld berichtgedeelte. U moet het in een apart venster openen door op de bijlage te klikken.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Afgebroken
 keyserver-error-unknown = Er is een onbekende fout opgetreden
+keyserver-error-server-error = De sleutelserver heeft een fout gemeld.
+keyserver-error-import-error = Kan de gedownloade sleutel niet importeren.
 
 ## Account settings export output
 
