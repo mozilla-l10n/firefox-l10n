@@ -519,8 +519,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
-    .label = 짧은 요약
-home-prefs-snippets-description = { -vendor-short-name }와 { -brand-product-name } 소식
+    .label = 짧은 소식
+home-prefs-snippets-description = { -vendor-short-name }와 { -brand-product-name }에 대한 업데이트
 home-prefs-sections-rows-option =
     .label = { $num } 행
 
