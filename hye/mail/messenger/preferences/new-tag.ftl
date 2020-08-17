@@ -4,6 +4,8 @@
 
 tag-dialog-window =
     .title = Նոր Պիտակ
+
 tag-name-label =
     .value = Պիտակի Անուն․
     .accesskey = T
+

@@ -8,6 +8,7 @@ password-quality-meter = Գաղտնաբառի ապահովութիւնը
 
 change-password-window =
     .title = Փոխել հիմնական գաղտնաբառը
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Անվտանգութեան սարք: { $tokenName }
@@ -20,6 +21,9 @@ change-password-reenter = Նոր գաղտնաբառ (կրկին):
 reset-password-window =
     .title = Վերագործարկել հիմնական գաղտնաբառը
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Վերագործարկել
 reset-password-text = Եթե վերականգնէք հիմնական գաղտնաբառը, ապա բոլոր պահպանուած ցանցային եւ ել-Փոստերի գաղտնաբառերը, ձեւանմուշների տուեալները, անհատական արտոնաթղթերը, անձնական բանալիները կը մոռացուեն: Համո՞զուած էք, որ ցանկանում էք հիմնական գաղտնաբառը վերականգնել:

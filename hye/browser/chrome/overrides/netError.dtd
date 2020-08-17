@@ -14,16 +14,10 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Չյաջողուեց կապ հաստատել">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Այս հասցէեն արգելափակուած է">
 
 
 <!ENTITY dnsNotFound.pageTitle "Սպասարկիչը չի գտնուել">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Հնարաւոր չէ գտնել այդ կայքը։">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Եթե հասցէն ճիշտ է՝ ահա երեք այլ տարբերակ, որոնք կարող եք փորձել.</strong>
 <ul>
   <li>Կրկին փորձէք աւելի ուշ։</li>
@@ -31,20 +25,14 @@
   <li>Եթե կապակցուած եք, բայց ունեք արգելապատնեշ, ստուգէք, թէ արդեաւք &brandShortName;-ը ունի վեբ մուտք գործելու թոյլտուութիւն։</li>
 </ul>">
 
-<!ENTITY fileNotFound.title "Նիշքը չի գտնուել">
-
 <!ENTITY fileNotFound.longDesc "<ul>
   <li>Ստուգէք նիշքի անունը մեծատառերի կամ այլ տպագրական սխալների համար։</li>
   <li>Ստուգէք, թէ արդեաւք նիշքը չի տեղափոխուել, անուանափոխուել կամ ջնջուել։</li>
 </ul>">
 
-<!ENTITY fileAccessDenied.title "Նիշքի ընդունումը մերժուած է">
-
 <!ENTITY fileAccessDenied.longDesc "<ul>
   <li>Հնարաւոր է՝ այն հեռացուել է, տեղափոխուել կամ նիշքի թոյլտուութիւնները կանխել են ընդունումը։</li>
 </ul>">
-
-<!ENTITY generic.title "Վա՜յ։">
 
 <!ENTITY generic.longDesc "<p>&brandShortName;-ը ինչ-որ պատճառով չի կարող բեռնել այս էջը։</p>">
 
@@ -54,69 +42,38 @@
 <!ENTITY openPortalLoginPage.label2 "Բացել ցանց մուտք գործելու էջը">
 
 <!ENTITY malformedURI.pageTitle "Անվաւեր URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Կարծես հասցէն ճիշտ չէ։">
-
-<!ENTITY netInterrupt.title "Կապը խզուեց">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Փաստաթուղթը սպառուել է">
-
 <!ENTITY notCached.longDesc "<p>Պահանջուող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգութեան նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմէք, Կրկին փորձել՝ վերապահանջելու փաստաթուղթը կայքից։</li></ul>">
-
-<!ENTITY netOffline.title "Անցանց եղանակ">
 
 <!ENTITY netOffline.longDesc2 "<ul>
   <li>Սեղմէք &quot;Կրկին փորձել&quot;` անցնելու համար առցանց եղանակի եւ էջը վերաբացելու համար։</li>
 </ul>">
 
-<!ENTITY contentEncodingError.title "Բովանդակութեան կոդաւորման սխալ">
-
 <!ENTITY contentEncodingError.longDesc "<ul>
   <li>Խնդրեմ կապուէք այս կայքի սեփականատերերին այս խնդրի մասին տեղեակ պահելու համար։</li>
 </ul>">
-
-<!ENTITY unsafeContentType.title "Ոչ անվտանգ նիշքի տեսակ">
 
 <!ENTITY unsafeContentType.longDesc "<ul>
   <li>Խնդրեմ կապուեք այս կայքի սեփականատերերին այս խնդրի մասին տեղեակ պահելու համար։</li>
 </ul>">
 
-<!ENTITY netReset.title "Կապը խզուեց">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Կապի հաստատման ժամանակը սպառուեց">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Հասցէն անհասկանալի էր">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Այս հասցէն բացելու համար Ձեզ հաւանաբար անհրաժեշտ է ձեռք բերել այլ ծրագիր։</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Պրոքսի սպասարկիչը մերժում է ընդունել կապը">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ստուգէք պրոքսի կարգաւորումները՝ նրանց ստոյգութեան մեջ համոզուելու համար։</li> <li>Կապուեք Ձեր ցանցի կառաւարիչի հետ՝ համոզուելու համար, որ պրոքսի սպասարկիչը  աշխատում է:</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Չի ստացուում գտնել պրոքսի սպասարկիչը">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ստուգէք պրոքսի կարգաւորումները՝ համոզուելու համար դրանք ճիշտ են:</li> <li>Ստուգէք եւ համոզուեք, որ համակարգիչը ունի աշխատող ցանցային կապակցում։</li> <li>Եթե Ձեր համակարգիչը կամ ցանցը պաշտպանուած է firewall-ով կամ պրոքսիով,  համոզուեք, որ &brandShortName;-ը ունի ցանցին միանալու իրաւունք:</li> </ul>">
-
-<!ENTITY redirectLoop.title "Էջի սխալ վերահասցեաւորում">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Այս խնդիրը երբեմն կարող է ծագել cookie-ների  անջատումից կամ մերժումից:</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Սպասարկիչի պատասխանը անհասկանալի է։">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ստուգէք եւ համոզուէք, որ Ձեր համակարգը ունի տեղակայված Անվտանգութեան  Անձնական Կառավարիչ։</li> <li>Դա կարող է լինել սպասարկիչի ոչ ստանդարտ կարգաւորման արդիւնք։</li> </ul>">
 
-<!ENTITY nssFailure2.title "Չյաջողուեց կատարել պաշտպանուած կապակցում">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Այն էջը, որը փորձում եք դիտել, կարող է չերեւալ, որովհետեւ ստացուած տուեալների իսկութիւնը  չի կարող ստուգուել։</li> <li>Խնդրում ենք կապնուել կայքի սեփականատերերի հետ՝ նրանց տեղեակ պահելու այս խնդրի մասին։</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Զգուշացում․ հնարաւոր է ապահովութեան վտանգ">
-<!ENTITY certerror.sts.longpagetitle  "Չկապակցուեց․ հնարաւոր անվտանգութեան ելք">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -139,11 +96,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Հնարաւոր է՝ կայքը անհասանելի կամ գերբեռնուած է։ Կրկին փորձէք մի քանի րոպէ անց։</li> <li>Եթե չի ստացուում բացել որեւէ էջ, ստուգէք Ձեր համակարգչի  ցանցային միացումը։</li> <li>Եթե Ձեր համակարգիչը կամ ցանցը ապահովագրուած է firewall-ով, համոզուեք, որ  &brandShortName;-ը ունի ցանցին միանալու արտոնութիւն։</li> </ul>">
 
-<!ENTITY cspBlocked.title "Արգելափակուած է բովանդակութեան անվտանգութեան քաղաքականութեամբ">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բեռնաւորումը, քանի որ էջի պարունակութեան անվտանգութեան կանոնակարգն արգելում է նման բեռնաւորումը։</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Բովանդակութիւնը վնասուած է">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName;֊ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակութեան անվտանգութեան կանոնակարգն արգելում է դա։</p>">
 
@@ -154,11 +107,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Հաղորդէք նման սխալների մասին՝ աւգնելու համար Mozilla-ին գտնելու եւ արգելափակելու վնասակար կայքերը">
 <!ENTITY errorReporting.learnMore "Իմանալ աւելին…">
 
-<!ENTITY remoteXUL.title "Հեռադիր XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվէք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար։</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Չհաջողուեց անվտանգ կապակցումը">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -169,15 +118,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ունի անվտանգութեան քաղաքականութիւն, որը կոչուում է HTTP Strict Transport Security (HSTS), ինչը նշանակում է, որ &brandShortName; կարող է միայն ապահով կերպով միանալու դրան։ Դուք չէք կարող բացառութիւն աւելացնել այս կայք այցելելու համար։">
 <!ENTITY certerror.copyToClipboard.label "Պատճէնել սեղմատախտակին">
 
-<!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> աւգտագործում է անվտանգ տեխնոլոգիա, որը հնացած է եւ խոցելի հարձակումների համար։ Հարձակվողը կարող է հեշտութեամբ յայտնաբերել տեղեկութիւններ, որոնք Ձեր կարծիքով ապահով են։ Կայքի վարիչը պէտք է նախ ուղղի սպասարկիչը, որպէսզի կարողանաք այցելել կայքը։</p><p>Սխալի կոդը՝ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Արգելափակուած էջ">
-
-<!ENTITY certerror.mitm.title "Ծրագիրը կանխում է &brandShortName; Անվտանգորէն կապուելով այս կայքի հետ։">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span>֊ը ամենայն հաւանականութեամբ, անվտանգ կայք է, բայց անվտանգ կապ չի ստեղծուել։ Այս խնդիրը պայմանաւորուած է <span class='mitm-name'/>֊ի կողմից, որը համակարգչային ծրագիր է Ձեր համակարգչի կամ Ձեր ցանցի վրա։">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Եթե Ձեր հակաւիրուսային ծրագիրը ներառում է այնպիսի յատկութիւն, որը սկանաւորում է կոդաւորուած կապերը (Հաճախ կոչուում է «վեբ սկանաւորում» կամ «https սկան»), կարող եք անջատել այդ հնարաւորութիւնը։ Եթե դա չի աշխատում, կարող եք հեռացնել եւ վերազինել հակաւիրուսային ծրագիր։">
@@ -185,14 +130,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Եթե Դուք ծանոթ չէք <span class='mitm-name'/>֊ին, ապա դա կարող է հարձակուել,եւ չպէտք է շարունակէք կայքում ձեր գաւրծողութիւնը:">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Եթե Դուք ծանոթ չէք <span class='mitm-name'/>֊ի հետ, ապա դա կարող է լինել հարձակում, եւ չկա որեւէ բան, որ Դուք կարողանաք անել կայք մուտք գործելու համար։">
 
-<!ENTITY clockSkewError.title "Ձեր համակարգչի ժամացոյցը սխալ է">
-
 <!ENTITY clockSkewError.longDesc "Ըստ Ձեր համակարգչի այն է <span id='wrongSystemTime_systemDate1'/>, որը արգելում է &brandShortName; ապահով միացումից։ <span class='hostname'></span> այցելելու համար, թարմացրէք Ձեր համակարգչի ժամացոյցը Ձեր ընթացիկ տուեալների, ժամանակի եւ ժամանակի գոտու համակարգի կարգաւորումներում եւ յետոյ թարմացրէք <span class='hostname'></span>։">
 
 <!ENTITY prefReset.longDesc "Կարծես՝ Ձեր ցանցի անվտանգութեան կարգաւորումները առաջացել է դրանից։ Վերականգնե՞լ հիմնական կարգաւորումները։">
 <!ENTITY prefReset.label "Վերականգնել հիմնական կարգաւորումները">
-
-<!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
 
 <!ENTITY enableTls10.longDesc "Այս կայքը հնարաւոր է աջակցի TLS 1.2 հաղորդակարգին, որը ամենա փոքր տարբերակն է &brandShortName;-ի կողմից աջակցուած։ TLS 1.0 և TLS 1.1 թոյլատրելը հնարաւոր է յաջողացնի այս միացումը։">
 <!ENTITY enableTls10.note "TLS 1.0 և TLS 1.1 մշտապէս կանջատուեն ապագայ թողարկումում։">

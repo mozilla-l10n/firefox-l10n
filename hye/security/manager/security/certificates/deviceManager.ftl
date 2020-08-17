@@ -8,12 +8,15 @@
 devmgr =
     .title = Սարքերի կառավարիչ
     .style = width: 67em; height: 32em;
+
 devmgr-button-changepw =
     .label = Փոխել գաղտնաբառը
     .accesskey = գ
+
 devmgr-button-load =
     .label = Բեռնել
     .accesskey = բ
+
 devmgr-button-unload =
     .label = Ապաբեռնաւորել
     .accesskey = Ա
@@ -25,8 +28,12 @@ devmgr-button-unload =
 
 devinfo-man-id =
     .label = Արտադրող
+
 devinfo-hwversion =
     .label = HW Տարբերակը
+
 devinfo-modpath =
     .label = Ուղի
+
 load-pk11-module-file-picker-title = Ընտրել PKCS#11 սարքի սարքավարը բեռնելու համար
+

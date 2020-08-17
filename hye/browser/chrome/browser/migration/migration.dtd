@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Ներմուծել ընտրանքները, էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ տուեալներ այստեղից՝">
 <!ENTITY importFromUnix.label           "Ներմուծել կարգաւորումները, էջանիշները, գաղտնաբառերը եւ այլ տուեալներ՝">
-<!ENTITY importFromBookmarks.label      "Ներմուծել էջանիշները՝">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

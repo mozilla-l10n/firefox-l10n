@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Համաժամեցուած ներդիրներ
 synced-tabs-sidebar-noclients-subtitle = Ցանկանու՞մ եք տեսնել Ձեր այլ սարքերի ներդիրները։
-synced-tabs-sidebar-notsignedin = Մուտք գործէք՝ տեսնելու Ձեր այլ սարքերից աւելացրած ներդիրների ցանկը։
 synced-tabs-sidebar-intro = Դիտէք այլ սարքերից աւելացրած ներդիրների ցանկը։
 synced-tabs-sidebar-unverified = Ձեր հաշիւը պէտք է ստուգուի։
 synced-tabs-sidebar-notabs = Չկան բաց ներդիրներ

@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Բեռնում…
-
 list-empty-installed =
     .value = Ձեզ մաւտ նմանատիպ յաւելումներ տեղադրուած չեն
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Իմանալ աւելին յաւելումների մասին
 
-install-addon-from-file =
-    .label = Տեղադրել յաւելումը նիշքից…
-    .accesskey = I
-
 help-button = Յաւելումների սպասարկում
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } Ընտրանքներ
        *[other] { -brand-short-name } Նախընտրութիւններ
     }
-
-tools-menu =
-    .tooltiptext = Գործիքներ բոլոր յաւելումների համար
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Ցուցադրել բոլոր ընդլայնումները
-
-debug-addons =
-    .label = Վրիպազերծել յաւելումները
-    .accesskey = b
 
 cmd-show-details =
     .label = Ցուցադրել լրացուցիչ տեղեկութիւն
@@ -104,14 +90,6 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Ներդրում կատարել այս յաւելման մշակման համար
 
-discover-title = Ի՞նչ են յաւելումները:
-
-discover-description =
-    Յաւելումները ծրագրեր են, որոնք թոյլ են տալիս անհատականացնել{ -brand-short-name }-ը  յաւելեալ 
-    գործառոյթով կամ ոճով: Փորձէք ժամանակ տնտեսող կողմնագաւտին, եղանակի տեղեկատուն կամ որեւէ բնորոշ տեսք { -brand-short-name }-ը ձեր սեպհականը դարձնելու համար:
-
-discover-footer = Երբ մուտք գործէք համացանց, այս վահանակը կը ցուցադրի լաւագոյն եւ ամենատարածուած յաւելումները, որպէսզի դուք դրանք փորձարկէք:
-
 detail-version =
     .label = Տարբերակ
 
@@ -142,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Բացել Գաղտնի Պատուհաններում
 
-detail-private-browsing-description2 = Թոյլտուութեան դէպքում, գաղտնի զննարկման ժամանակ, ընդլայնումը հասանելիութիւն կունենայ ձեր առցանց գործողութիւններին։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Թոյլատրուած չէ Գաղտնի Պատուհաններում
-detail-private-disallowed-description = Սոյն ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
 
 detail-private-disallowed-description2 = Սոյն ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ աւելին</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Պահանջում է Մուտք Գաղտնի Պատուհաններ
-detail-private-required-description = Սոյն ընդլայնումը հասանելիութիւն ունի ձեր առցանց գործունութեանը գաղտնի զննարկման ժամանակ։ <label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
 
 detail-private-required-description2 = Սոյն ընդլայնումը հասանելիութիւն ունի է ձեր առցանց գործունութեանը գաղտնի զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ աւելին</a>
 
@@ -229,18 +203,6 @@ private-browsing-description2 =
     Մենք կատարել ենք այս փոփոխութիւնը ձեր գաղտնի զննարկումն իսկապէս գաղտնի պահելու համար։
     <label data-l10n-name="private-browsing-learn-more">Իմանալ ինչպէս կառավարել ընդլայնման կարգաւորումները</label>
 
-extensions-view-discopane =
-    .name = Առաջարկութիւններ
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Վերջին թարմացումներ
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Առկայ թարմացումներ
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Առաջարկութիւններ
 addon-category-discover-title =
     .title = Առաջարկութիւններ
@@ -268,29 +230,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Միացնել
-    .tooltiptext = Միացնել յաւելման համատեղելիութեան ստուգումը
-
-extensions-warning-update-security-label =
-    .value = Յաւելումների թարմացման անվտանգութեան ստուգումն անջատուած է: Թարմացումները կարող են վտանգաւոր լինել:
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Միացնել
-    .tooltiptext = Միացնել յաւելման թարմացման անվտանգութեան ստուգումը
-
 extensions-warning-safe-mode = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
 extensions-warning-check-compatibility = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
 extensions-warning-check-compatibility-button = Միացնել
@@ -302,14 +241,6 @@ extensions-warning-update-security-button = Միացնել
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Ստուգել թարմացումները
-    .accesskey = Ս
-
-extensions-updates-view-updates =
-    .label = Տեսնել վերջին թարմացումները
-    .accesskey = Տ
-
 addon-updates-check-for-updates = Ստուգել թարմացումները
     .accesskey = Ս
 addon-updates-view-updates = Տեսնել վերջին թարմացումները
@@ -317,10 +248,6 @@ addon-updates-view-updates = Տեսնել վերջին թարմացումներ�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Թարմացնել յաւելումներն ինքնաշխատաւրէն
-    .accesskey = Թ
 
 addon-updates-update-addons-automatically = Թարմացնել յաւելումներն ինքնաշխատաւրէն
     .accesskey = Թ
@@ -331,36 +258,12 @@ addon-updates-update-addons-automatically = Թարմացնել յաւելում�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Վերակայել բոլոր յաւելումները՝ ինքնաշխատ թարմացնելու համար
-    .accesskey = Վ
-
-extensions-updates-reset-updates-to-manual =
-    .label = Վերակայել բոլոր յաւելումները՝  ձեռքով թարմացնելու համար
-    .accesskey = Վ
-
 addon-updates-reset-updates-to-automatic = Վերակայել բոլոր յաւելումները՝  ինքնաշխատ թարմացնելու համար
     .accesskey = Վ
 addon-updates-reset-updates-to-manual = Վերակայել բոլոր յաւելումները՝ ձեռքով թարմացնելու համար
     .accesskey = Վ
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Յաւելումները թարմացուում են
-extensions-updates-installed =
-    .value = Ձեր յաւելումները թարմացուեցին:
-extensions-updates-downloaded =
-    .value = Ձեր յաւելումների թարմացումները բեռնուել են:
-extensions-updates-restart =
-    .label = Վերամեկնարկէք տեղադրումն աւարտելու համար
-extensions-updates-none-found =
-    .value = Թարմացումներ չեն գտնուել
-extensions-updates-manual-updates-found =
-    .label = Տեսնել առկայ թարմացումները
-extensions-updates-update-selected =
-    .label = Տեղադրել Թարմացումները
-    .tooltiptext = Տեղադրել այս ցանկում առկայ թարմացումները
 
 addon-updates-updating = Յաւելումները թարմացուում են
 addon-updates-installed = Ձեր յաւելումները թարմացուեցին:
@@ -378,10 +281,6 @@ addon-open-about-debugging = Վրիպազերծել յաւելումները
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Կառաւարել ընդլայնումների դիւրանցումը
-    .accesskey = S
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Կառաւարել ընդլայնումների դիւրանցումը
     .accesskey = S
@@ -390,8 +289,6 @@ shortcuts-no-addons = Որեւէ ընդյալնում միացուած չէ:
 shortcuts-no-commands = Հետեւեալ ընդլայնումները դիւրանցումներ չունեն։
 shortcuts-input =
     .placeholder = Մուտքագրել դիւրացնում
-
-shortcuts-browserAction = Միացնել ընդլայնումը
 
 shortcuts-browserAction2 = Միացնել գործիքագաւտու կոճակը
 shortcuts-pageAction = Գործունացնել էջի գործողութիւնը
@@ -423,9 +320,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Ցուցադրել աւելի քիչ
-
-go-back-button =
-    .tooltiptext = Վերադառնալ
 
 header-back-button =
     .title = Վերադառնալ
@@ -473,7 +367,6 @@ remove-addon-button = Հեռացնել
 remove-addon-disabled-button = Հնարաւոր չէ հեռացնել <a data-l10n-name="link">Ինչո՞ւ։</a>
 disable-addon-button = Անջատել
 enable-addon-button = Միացնել
-expand-addon-button = Լրացուցիչ ընտրանքներ
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -486,9 +379,6 @@ preferences-addon-button =
 details-addon-button = Մանրամասներ
 release-notes-addon-button = Թողարկման նշումներ
 permissions-addon-button = Թոյլտուութիւններ
-
-addons-enabled-heading = Միացուած
-addons-disabled-heading = Անջատուած
 
 extension-enabled-heading = Միացուած
 extension-disabled-heading = Անջատուած
@@ -551,22 +441,11 @@ install-update-button = Թարմացնել
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Թոյլատրուած է գաղտնի պատուհաններում
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Թոյլատրուած է գաղտնի պատուհաններում
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-allow = Թոյլատրել
 addon-detail-private-browsing-disallow = Չթոյլատրել
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Երաշխաւորուած
-    .alt = Երաշխաւորուած
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

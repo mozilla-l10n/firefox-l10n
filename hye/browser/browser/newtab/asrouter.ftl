@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Փորձէք սա. ամրացնել ներդիր
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչո՞ւ եմ ես սա տեսնում
+
 cfr-doorhanger-extension-cancel-button = Ոչ հիմա
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Աւելացնել հիմա
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Ամրացնել այս ներդիրը
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Կառավարել երաշխաւորուող կարգաւորումները
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Չցուցադրել ինձ այս երաշխաւորութիւնները
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Իմանալ աւելին
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }-ի կողմից
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Երաշխաւորութիւն
 cfr-doorhanger-extension-notification2 = Երաշխաւորութիւն
     .tooltiptext = Ընդլայնման երաշխաւորութիւն
     .a11y-announcement = Հասանելի ընդլայնման երաշխաւորութիւն
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Երաշխաւորութիւն
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } աւգտատէր
        *[other] { $total } աւգտատէրեր
     }
+
 cfr-doorhanger-pintab-description = Մատչեք առաւել շատ աւգտագործուող կայքերը։ Պահեք կայքերը բացուած ներդիրում, եթե անգամ վերագործարկում եք։
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Մատչեք առաւել շատ աւգտա�
 cfr-doorhanger-pintab-step1 = <b>Աջ սեղմում</b>՝ այն ներդիրի վրայ, որը ցանկանում եք ամրացնել։
 cfr-doorhanger-pintab-step2 = Ընտրեք<b>Ամրացնել ներդիրը</b>՝ ցանկից։
 cfr-doorhanger-pintab-step3 = Եթե կայքը թարմացում ունի, Դուք կտեսնեք կապոյտ կէտ Ձեր ամրացուած ներդիրում։
+
 cfr-doorhanger-pintab-animation-pause = Դադար
 cfr-doorhanger-pintab-animation-resume = Վերսկսել
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = Իմանալ աւելին
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Նոր հատկութիւն․
+
 cfr-whatsnew-button =
     .label = Ինչն է նոր
     .tooltiptext = Ինչն է նոր
+
 cfr-whatsnew-panel-header = Ինչն է նոր
+
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
+
 cfr-whatsnew-fx70-title = { -brand-short-name } այժմ աւելի է պայքարում Ձեր գաղտնիութեան համար
 cfr-whatsnew-fx70-body = Վերջին թարմացումը ուժեղացնում է պաշտպանումը վնասներից առանձնահատկութիւնը եւ դարձնում է այն աւելի հեշտ, քան երբեւէ բոլոր կայքերի համար անուտանգ գաղտնաբառեր ստեղծելը։
+
 cfr-whatsnew-tracking-protect-title = Պաշտպանեք Ձեզ հետագծումներից
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } արգելափակում է շատ տարածուած սոցիալական եւ խաչմերուկային վնասները, որոնք հետեւում են Ձեր առցանց գործողութիւններին։
 cfr-whatsnew-tracking-protect-link-text = Դիտել Ձեր զեկոյցը
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Քանի որ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Դիտել զեկոյցը
+
 cfr-whatsnew-lockwise-backup-title = Կրկնաւրինակել Ձեր գաղտնաբառերը
 cfr-whatsnew-lockwise-backup-body = Այժմ ստեղծեք անուտանգ գաղտնաբառեր, որոնցից կարող եք մուտք գործել ցանկացած մուտք։
 cfr-whatsnew-lockwise-backup-link-text = Միացնել կրկնաւրինակումները
+
 cfr-whatsnew-lockwise-take-title = Վերցրեք Ձեր գաղտնաբառերը Ձեզ հետ
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } բջջային հաւելուածը հնարաւորութիւն է տալիս ապահով կերպով մուտք գործել Ձեր կրկնաւրինակուած գաղտնաբառերը ցանկացած վայրից։
 cfr-whatsnew-lockwise-take-link-text = Ստանալ հաւելուածը
@@ -145,6 +164,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Մատնահետքերը արգելափակուեց
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }-ն արգելափակում է բազմաթիւ մատնահետքեր, որոնք գաղտնի հաւաքում են տեղեկատուութիւն Ձեր սարքի եւ գործողութիւնների մասին Ձեր կողմից գովազդային յատկագիր ստեղծելու նպատակով:
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Մատնահետքեր
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } կարող է արգելափակել մատնահետքերը, որոնք գաղտնի տեղեկատուութիւն են հաւաքում Ձեր սարքի եւ գործողութիւնների մասին Ձեր գովազդային հաշիւը ստեղծելու համար։
@@ -205,6 +225,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
     .accesskey = S
+
 cfr-doorhanger-milestone-close-button = Փակել
     .accesskey = C
 

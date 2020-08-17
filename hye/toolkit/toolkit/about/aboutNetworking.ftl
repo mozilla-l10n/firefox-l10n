@@ -2,23 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title = Ցանցի մասին
-warning = Սա  փորձնական է: Մի աւգտագործէք առանց առաջադէմ խորհրդատուի:
-show-next-time-checkbox = Ցուցադրել այս զգուշացումը յաջորդ անգամ
-ok = Լաւ
-http = HTTP
-sockets = Բնիկներ
-dns = DNS
-websockets = WebSockets
-refresh = Թարմացնել
-auto-refresh = Ինքնաթարմացնել 3 վայրկեանը մէկ
-hostname = Հիւրընկալողի անունը
-port = Մատոյց
-http2 = HTTP/2
-ssl = SSL
-active = Ակտիւ
-idle = Անգործ
-
 about-networking-http = HTTP
 about-networking-sockets = Բնիկներ
 about-networking-dns = DNS

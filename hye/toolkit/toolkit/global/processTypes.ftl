@@ -4,10 +4,6 @@
 
 process-type-web = Վեբ բովանդակութիւն
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Արտոնեալ բովանդակութիւն
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Արտոնեալի մասին

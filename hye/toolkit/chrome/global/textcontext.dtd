@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Կտրել">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Պատճէնել">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Կպցնել">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY undoCmd.label "Յետարկել">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY selectAllCmd.label "Նշել բոլորը">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Ջնջել">
-<!ENTITY deleteCmd.accesskey "d">
-
 <!ENTITY spellAddToDictionary.label "Աւելացնել բառարանում">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Յետարկել բառարանի աւելացումը">

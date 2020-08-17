@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Անկում տուեալի աղբիւրին.
-about-telemetry-show-current-ping-data = Ընթացիկ անկման  տուեալ
 about-telemetry-show-current-data = Ներկայիս տուեալները
 about-telemetry-show-archived-ping-data = Արխիւացուած անկման տուեալ
 about-telemetry-show-subsession-data = Ցուցադրել տուեալի ենթաշրջանը
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Հեռուստաչափութիւններ�
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Տեղեկատուութեան իւրաքանչիւր կտոր ուղարկուում է <a data-l10n-name="ping-link">pings</a>"-ի միջոցով: Դուք նայում եք անկման { $name },{ $timestamp }֊ին։
-about-telemetry-ping-details-current = Տեղեկատուութեան իւրաքանչիւր կտոր ուղարկուում է “<a data-l10n-name="ping-link"> pings </a>"֊ի միջոցով: Դուք նայում եք ընթացիկ անկմանը։
 about-telemetry-data-details-current = Տեղեկատուութեան իւրաքանչյուր կտոր ուղարկուում է “<a data-l10n-name="ping-link"> pings </a>"֊ի միջոցով: Դուք նայում եք ընթացիկ տուեալներին։
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -94,8 +92,6 @@ about-telemetry-results-for-search = “{ $searchTerms }”-ի արդիւնքն�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Կներէք, ներկայումս “{ $sectionName }”–ում հասանելի տուեալներ չկան:
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ընթացիկ տողը
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = ընթացիկ տուեալներ
 # used in the “Ping Type” select

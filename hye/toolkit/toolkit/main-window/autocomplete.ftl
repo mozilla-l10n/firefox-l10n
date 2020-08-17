@@ -12,5 +12,10 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">Ներմուծէք Ձեր մուտքը { $browser }</div>
     <div data-l10n-name="line2">{ $host }֊ի եւ այլ կայքերի համար </div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Իմանալ աւելին

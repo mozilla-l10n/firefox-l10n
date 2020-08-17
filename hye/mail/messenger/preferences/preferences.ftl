@@ -39,8 +39,6 @@ privacy-passwords-header = Գաղտնաբառեր
 
 privacy-junk-header = Թափոն
 
-privacy-data-collection-header = Տուեալների հաւաքում եւ աւգտագործում
-
 privacy-security-header = Անվտանգութիւն
 
 privacy-scam-detection-title = Խաբեութեան յայտնաբերում
@@ -61,12 +59,6 @@ choose-messenger-language-description = Ընտրեք ընտրացանկերը, �
 confirm-messenger-language-change-description = Այս փոփոխութիւնները կիրառելու համար վերագործարկեք { -brand-short-name }֊ը
 confirm-messenger-language-change-button = Կիրառել եւ վերագործարկել
 
-update-pref-write-failure-title = Գրէք ձախողում
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Անհնար է պահպանել նախապատուութիւնը: Չը յաջողուեց գրէլ նիշքի՝{ $path }
-
 update-setting-write-failure-title = Սխալ թարմացուող նախապատուութիւնների պահպանում
 
 update-in-progress-title = Թարմացումն ընթացքի մէջ է
@@ -79,9 +71,6 @@ update-in-progress-ok-button = Հրաժարուել
 update-in-progress-cancel-button = & Շարունակել
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Ստուգեք ձեր ինքնությունը՝ հիմնաւրինակ գաղտնաբառ ստեղծելու համար:
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Հիմնաւրինակ գաղտնաբառ ստեղծելու համար մուտքագրեք ձեր պատուհանների մուտքի հավատարմագրերը: Սա աւգնում է պաշտպանել ձեր հաշիւների անւտանգութիւնը:

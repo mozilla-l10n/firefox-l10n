@@ -57,7 +57,6 @@ protections-panel-not-found-label = Ոչ մեկը չի յայտնաբերուե�
 ##
 
 protections-panel-settings-label = Պաշտպանութեան կարգաւորումներ
-protections-panel-showreport-label = Ցոյց տալ զեկոյց
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

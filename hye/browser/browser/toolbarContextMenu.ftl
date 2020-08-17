@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Ընտրել բոլոր ներդիրները
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Յետարկել փակուած ներդիրը
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = Կառաւարել ընդլայնումը

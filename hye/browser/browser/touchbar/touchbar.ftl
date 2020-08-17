@@ -13,13 +13,13 @@ touchbar-fullscreen-exit = Ելնել լիեկրանից
 find = Գտնել
 new-tab = Նոր ներդիր
 add-bookmark = Աւելացնել Էջանիշ
-open-bookmarks-sidebar = Բացել էջանիշերի կողմնասիւնը
 reader-view = Ընթերցողի դիտում
 # Meant to match the string displayed in an empty URL bar.
 open-location = Որոնել կամ մուտքագրել հասցէ
 share = Կիսուել
 close-window = Փակել պատուհանը
 open-sidebar = Կողմնասիւներ
+
 # This string describes shortcuts for search.
 search-popover = Որոնել դիւրացումները
 # Describes searches limited to a specific scope

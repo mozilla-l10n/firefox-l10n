@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Տեղափոխել նոր պատուհան
     .accesskey = W
-undo-close-tab =
-    .label = Յետարկել փակուած ներդիրը
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Փակել ներդիրը
     .accesskey = c
