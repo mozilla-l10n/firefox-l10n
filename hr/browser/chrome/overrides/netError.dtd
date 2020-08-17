@@ -154,7 +154,7 @@ was trying to connect. -->
 <!ENTITY clockSkewError.longDesc "Tvoje računalo misli da je <span id='wrongSystemTime_systemDate1'/>, što sprečava &brandShortName; da se sigurno poveže. Za posjećivanje poslužitelja <span class='hostname'></span>, aktualiziraj sat tvog računala na trenutačni datum, vrijeme i vremensku zonu te onda osvježi <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Izgleda da tvoje postavke sigurnosti mreže možda ovo uzrokuju. Želiš li vratiti standardne postavke?">
-<!ENTITY prefReset.label "Vrati početne postavke">
+<!ENTITY prefReset.label "Vrati standardne postavke">
 
 <!ENTITY enableTls10.longDesc "Ova web stranica ne podržava TLS 1.2 protokol, koji je minimalni protokol kojeg &brandShortName; podržava. Veza će možda uspjeti, ako aktiviraš protokole TLS 1.0 i TLS 1.1.">
 <!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 će biti trajno onemogućeni u budućim izdanjima.">
