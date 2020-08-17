@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ഫയല്‍ തെരഞ്ഞെടുക്കുക…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "ഈ സൈറ്റ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ഉപേക്ഷിക്കുക">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "തുറക്കുക">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "പുതിയ ജാലകത്തില്‍ തുറക്കുക">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "കണ്ണി പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "പുതിയ ടാബില്‍ തുറക്കുക">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "എല്ലാം ടാബുകളില്‍ തുറക്കുക">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "ഗുണഗണങ്ങള്‍">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "പേരു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "പുതിയ അടയാളക്കുറിപ്പു്…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "പുതിയ ഫോള്‍ഡര്‍…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "പുതിയ വിടവടയാളം">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "പേരു്">
 <!ENTITY col.tags.label          "ടാഗുകള്‍">
 <!ENTITY col.url.label           "സ്ഥാനം">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "എത്ര തവണ സന്ദര്‍ശിച്ചു">
 <!ENTITY col.dateadded.label     "ചേര്‍ത്തിരിക്കുന്നു">
 <!ENTITY col.lastmodified.label  "ഏറ്റവും ഒടുവില്‍ മാറ്റിയതു്">
-
-<!ENTITY historySearch.placeholder  "ഹിസ്റ്ററി സെര്‍ച്ച് ചെയ്യുക">
-<!ENTITY bookmarksSearch.placeholder  "ബുക്ക്മാര്‍ക്സ് സെര്‍ച്ച് ചെയ്യുക">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക">
 
-<!ENTITY view.label               "കാഴ്ച">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "തീയതി അനുസരിച്ചു്">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "സൈറ്റ് അനുസരിച്ചു്">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "ഏറ്റവും കൂടുതല്‍ സന്ദര്‍ശിച്ചതു് അനുസരിച്ചു്">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "ഏറ്റവും ഒടുവില്‍ സന്ദര്‍ശിച്ചതു് അനുസരിച്ചു്">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "തീയതിയും സൈറ്റും അനുസരിച്ചു്">
-<!ENTITY byDayAndSite.accesskey   "t">

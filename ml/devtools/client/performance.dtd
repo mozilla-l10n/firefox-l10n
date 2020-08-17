@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "സാമ്പിള്‍ ഫംങ്ഷന്‍റെ പേരും ഉറവിടവും.">
 <!ENTITY performanceUI.table.totalAlloc               "ആകെ സാമ്പിള്‍ഡ് അലോക്കേഷന്‍">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ഈ സ്ഥാനത്ത് കോളീ രീതിയില്‍ സാമ്പിള്‍ ചെയ്യപ്പെട്ട ഒബ്ജക്റ്റ് അലോക്കേഷനുകളുടെ എണ്ണം.">
-<!ENTITY performanceUI.table.selfAlloc                "സെല്‍ഫ് സാമ്പിള്‍ഡ് അലോക്കേഷന്‍സ്">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "ഈ സ്ഥാനത്ത് സാമ്പിള്‍ ചെയ്യപ്പെട്ട ഒബ്ജക്റ്റ് അലോക്കേഷനുകളുടെ എണ്ണം.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = പിങ് ഡാറ്റയുടെ ശ്രോതസ്സ്
-about-telemetry-show-current-ping-data = ഇപ്പോഴത്തെ പിങ് ഡാറ്റ
 about-telemetry-show-archived-ping-data = ശേഖരിച്ചുവെക്കപ്പെട്ട പിങ് ഡാറ്റ
 about-telemetry-show-subsession-data = സബ്മിഷൻ ഡാറ്റ കാണിക്കുക
 about-telemetry-choose-ping = പിങ് തിരഞ്ഞെടുക്കുക:

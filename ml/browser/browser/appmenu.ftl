@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = സ്വകാര്യ സുരക്ഷ
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = നിങ്ങളുടെ സ്വകാര്യതാ റിപ്പോർട്ടിലേക്ക് പോകുക
 appmenuitem-customize-mode =
     .label = ഇച്ഛാനുസൃതമാക്കുക...
 
@@ -26,3 +23,4 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = പുതിയതെന്താണ്
+

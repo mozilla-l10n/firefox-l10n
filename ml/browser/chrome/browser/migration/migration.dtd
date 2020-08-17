@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ഓപ്ഷനുകള്‍, അടയാളങ്ങള്‍, ചരിത്രം, പാസ്‌വേഡുകള്‍ കൂടാതെ മറ്റ്‌ വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക ">
 <!ENTITY importFromUnix.label           "മുന്‍ഗണനകള്‍, അടയാളങ്ങള്‍, ചരിത്രം, പാസ്‌വേഡുകള്‍ കൂടാതെ മറ്റ്‌ വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക ">
-<!ENTITY importFromBookmarks.label      "ഇവിടെ നിന്നും അടയാളങ്ങള്‍ ഇറക്കുമതി ചെയ്യുക ">
 
 <!ENTITY importFromIE.label             "മൈക്രൊസോഫ്റ്റ്‌ ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍">
 <!ENTITY importFromIE.accesskey         "M">

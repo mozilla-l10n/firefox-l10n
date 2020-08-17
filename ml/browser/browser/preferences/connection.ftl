@@ -35,12 +35,6 @@ connection-proxy-http = HTTP പ്രോക്സി
     .accesskey = x
 connection-proxy-http-port = പോര്‍ട്ട്
     .accesskey = P
-connection-proxy-http-share =
-    .label = എല്ലാ പ്രോട്ടോകോളുകള്‍ക്കും ഈ പ്രോക്സി സെര്‍വര്‍ ഉപയോഗിക്കുക
-    .accesskey = s
-
-connection-proxy-ssl = SSL പ്രോക്സി
-    .accesskey = L
 
 connection-proxy-ssl-port = പോര്‍ട്ട്
     .accesskey = o

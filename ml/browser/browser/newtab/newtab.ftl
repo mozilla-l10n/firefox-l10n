@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = തിരയുക
     .aria-label = തിരയുക
+
 newtab-search-box-search-the-web-text = ഇൻറർനെറ്റിൽ തിരയുക
 newtab-search-box-search-the-web-input =
     .placeholder = ഇൻറർനെറ്റിൽ തിരയുക
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് ല
 newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
     .placeholder = തലക്കെട്ട് നൽകൂ
+
 newtab-topsites-url-label = യുആര്‍എല്‍
 newtab-topsites-url-input =
     .placeholder = വെബ്URLനൽകൂ
 newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കുന്ന URL ആവശ്യമാണ്
+
 newtab-topsites-image-url-label = ഇഷ്‌ടാനുസൃത ചിത്രത്തിന്റെ യുആര്‍എല്‍
 newtab-topsites-use-image-link = ഒരു ഇഷ്‌ടാനുസൃത ചിത്രം ഉപയോഗിക്കുക…
 
@@ -56,6 +59,7 @@ newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയ�
 newtab-menu-section-tooltip =
     .title = മെനു തുറക്കുക
     .aria-label = മെനു തുറക്കുക
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ഈ സൈറ്റ് തിരുത്തുക
@@ -142,10 +146,12 @@ newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്ത�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ബ്രൗസിംഗ് ആരംഭിക്കുക, നിങ്ങൾ സമീപകാലത്ത് സന്ദർശിച്ചതോ ബുക്ക്മാർക്ക് ചെയ്തതോ ആയ മികച്ച ലേഖനങ്ങളിൽ നിന്നോ, വീഡിയോകളിൽ നിന്നോ, മറ്റു പേജുകളിൽ നിന്നോ ചിലത് ഞങ്ങൾ ഇവിടെ കാണിക്കും.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ എത്തി. { $provider }ൽ നിന്നുള്ള കൂടുതൽ പ്രധാന വാർത്തകൾക്കായി പിന്നീട് വീണ്ടും പരിശോധിക്കുക. കാത്തിരിക്കാൻ പറ്റില്ലേ? വെബിൽ നിന്ന് കൂടുതൽ മികച്ച കഥകൾ കണ്ടെത്തുന്നതിന് ഒരു ജനപ്രിയ വിഷയം തിരഞ്ഞെടുക്കുക.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
