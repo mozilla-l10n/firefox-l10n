@@ -4,5 +4,6 @@
 
 finger-remove =
     .label = Elimina la selecció
+
 finger-remove-all =
     .label = Elimina-ho tot

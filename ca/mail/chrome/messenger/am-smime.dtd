@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Seguretat">
-<!ENTITY securityTab.label "Seguretat">
-<!ENTITY securityHeading.label "Per enviar i rebre missatges signats o xifrats, heu d'indicar tant un certificat de signatura digital com un certificat de xifratge.">
-<!ENTITY encryptionGroupTitle.label "Xifratge">
-<!ENTITY encryptionChoiceLabel.label "Paràmetre de xifratge per defecte en enviar missatges:">
-<!ENTITY neverEncrypt.label "Mai (no utilitzis cap xifratge)">
-<!ENTITY neverEncrypt.accesskey "M">
-<!ENTITY alwaysEncryptMessage.label "Obligatori (no es pot enviar cap missatge llevat que tots els destinataris tinguin certificats)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Utilitza aquest certificat per xifrar i desxifrar missatges que us hagin enviat:">
-
 <!ENTITY e2eTitle.label "Xifratge d'extrem a extrem">
 <!ENTITY e2eLearnMore.label "Més informació">
 
@@ -29,15 +18,7 @@
 <!ENTITY encryption.certificate_clear.button "Neteja">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Signatura digital">
-<!ENTITY signMessage.label "Signa els missatges digitalment">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Utilitzeu aquest certificat per signar digitalment els missatges que envieu:">
-
-<!ENTITY certificates.label "Certificats">
-<!ENTITY manageCerts2.label "Gestiona els certificats">
-<!ENTITY manageCerts2.accesskey "G">
-<!ENTITY manageDevices.label "Dispositius de seguretat">
-<!ENTITY manageDevices.accesskey "s">
 
 
 

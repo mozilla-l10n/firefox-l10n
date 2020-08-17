@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Enganxa sense formatar">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Enganxa com a">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Enganxa com a citació">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Cerca…">
-<!ENTITY findReplaceCmd.label "Cerca i reemplaça…">
-<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia a mesura que s'escriu">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Verifica l'ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "o">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insereix">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text del cos">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Propietats avançades">
-<!ENTITY advancedPropertiesCmd.accesskey "r">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Alinea">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Justifica">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Alineació justificada">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Capa">
-<!ENTITY layerSendToBack.tooltip "Torna enrere">
-<!ENTITY layerBringToFront.tooltip "Porta endavant">
 
 <!ENTITY increaseIndent.label "Augmenta el sagnat">
 <!ENTITY increaseIndent.accesskey "g">
@@ -283,19 +262,6 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Barra de menú">
-<!ENTITY formatToolbar.tooltip "Barra d'eines de format">
-<!ENTITY cutToolbarCmd.tooltip "Retalla">
-<!ENTITY copyToolbarCmd.tooltip "Copia">
-<!ENTITY pasteToolbarCmd.tooltip "Enganxa">
-<!ENTITY printToolbarCmd.label "Imprimeix">
-<!ENTITY printToolbarCmd.tooltip "Imprimeix aquesta pàgina">
-<!ENTITY findToolbarCmd.label "Cerca">
-<!ENTITY findToolbarCmd.tooltip "Cerca text a la pàgina">
-<!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Verifica l'ortografia de la selecció o de tota la pàgina">
-
-<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Imatge">
 <!ENTITY imageToolbarCmd.tooltip "Insereix una imatge nova o edita les propietats de la imatge seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línia horitzontal">
@@ -308,8 +274,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Insereix una àncora amb nom nova o edita les propietats de l'àncora seleccionada">
 <!ENTITY TextColorButton.tooltip "Trieu un color per al text">
 <!ENTITY BackgroundColorButton.tooltip "Trieu un color per al fons">
-<!ENTITY throbber.tooltip2 "Vés a la pàgina inicial del &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Trieu el color del ressaltat del text">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defineix la mida del tipus de lletra">
@@ -328,14 +292,6 @@
 <!ENTITY alignCenterButton.tooltip "Centra el text">
 <!ENTITY alignRightButton.tooltip "Alinea el text al marge dret">
 <!ENTITY alignJustifyButton.tooltip "Alinea el text als marges dret i esquerra">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Selecciona">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Elimina l'etiqueta">
-<!ENTITY structRemoveTag.accesskey  "E">
-<!ENTITY structChangeTag.label      "Canvia l'etiqueta">
-<!ENTITY structChangeTag.accesskey  "C">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Insereix">

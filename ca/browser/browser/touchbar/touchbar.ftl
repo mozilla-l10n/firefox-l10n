@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Surt de la pantalla completa
 find = Cerca
 new-tab = Pestanya nova
 add-bookmark = Afegeix a les adreces d'interès
-open-bookmarks-sidebar = Obre la barra lateral de les adreces d'interès
 reader-view = Vista de lectura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Escriviu una cerca o adreça

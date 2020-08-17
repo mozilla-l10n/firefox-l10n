@@ -35,12 +35,7 @@ connection-proxy-http = Servidor intermediari d'HTTP
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Utilitza aquest servidor intermediari per a tots els protocols
-    .accesskey = l
 
-connection-proxy-ssl = Servidor intermediari de SSL
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Utilitza també aquest servidor intermediari per a FTP i HTTPS
     .accesskey = s

@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Edita">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Desfés">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "D">
-<!ENTITY redoCmd.label                                  "Refés">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "R">
-<!ENTITY cutCmd.label                                   "Retalla">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copia">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Enganxa">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "x">
 <!ENTITY deleteCmd.label                                "Suprimeix">
-<!ENTITY deleteCmd.accesskey                            "u">
 <!ENTITY deleteAbCmd.label                              "Suprimeix la llibreta d'adreces">
 <!ENTITY deleteContactCmd.label                         "Suprimeix el contacte">
 <!ENTITY deleteContactsCmd.label                        "Suprimeix els contactes">
 <!ENTITY deleteListCmd.label                            "Suprimeix la llista">
 <!ENTITY deleteListsCmd.label                           "Suprimeix les llistes">
 <!ENTITY deleteItemsCmd.label                           "Suprimeix els elements">
-<!ENTITY selectAllCmd.label                             "Selecciona-ho tot">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Intercanvia el nom i el cognom">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "v">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Propietats">
 <!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">

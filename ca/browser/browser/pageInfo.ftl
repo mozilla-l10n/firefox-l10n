@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Anomena i desa…
     .accesskey = e
-media-preview =
-    .value = Previsualització dels fitxers multimèdia:
 
 perm-tab =
     .label = Permisos
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Sí, galetes
 security-site-data-no = No
 
 image-size-unknown = Desconegut
-not-set-verified-by = No s'ha especificat
 page-info-not-specified =
     .value = Sense especificar
 not-set-alternative-text = No s'ha especificat
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Mode de compatibilitat
 general-strict-mode =
     .value = Mode de compliment dels estàndards
-security-no-owner = Aquest lloc web no proporciona cap informació de propietat.
 page-info-security-no-owner =
     .value = Aquest lloc web no proporciona cap informació de propietat.
 media-select-folder = Seleccioneu una carpeta on desar les imatges

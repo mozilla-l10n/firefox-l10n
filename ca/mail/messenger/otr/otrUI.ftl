@@ -4,3 +4,4 @@
 
 error-title = Error
 success-title = Xifratge d'extrem a extrem
+

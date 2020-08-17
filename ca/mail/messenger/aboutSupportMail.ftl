@@ -14,5 +14,7 @@ accounts-conn-security = Seguretat de la connexió
 accounts-auth-method = Mètode d'autenticació
 accounts-default = Per defecte?
 identity-name = Identitat
+
 send-via-email = Envia per correu electrònic
+
 app-basics-telemetry = Dades de telemesura

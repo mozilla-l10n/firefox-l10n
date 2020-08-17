@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Tipus de carpeta:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Arrel de la quota:">
 <!ENTITY folderQuotaUsage.label                  "Utilització:">
 <!ENTITY folderQuotaStatus.label                 "Estat:">
 

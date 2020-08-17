@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Edita">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Desfés">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.label            "Refés">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Retalla">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Copia">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Enganxa">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "x">
 <!ENTITY deleteCmd.label          "Suprimeix">
 <!ENTITY deleteCmd.accesskey        "u">
-<!ENTITY selectAllCmd.label          "Selecciona-ho tot">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmd2.label "Opcions">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferències">
