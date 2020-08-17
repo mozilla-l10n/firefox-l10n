@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Bitte tragen Sie einen gültigen Hostnamen ein
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Ausnahmen - Blockieren von Seitenelementen
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Sie haben das Blockieren von Seitenelementen auf diesen Websites deaktiviert.
-
 permissions-exceptions-etp-window =
     .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Sie können festlegen, welchen Websites Sie erlauben möchten, Add-ons zu installieren. Geben Sie bitte die exakte Adresse der Website ein, der Sie das erlauben möchten, und klicken Sie dann auf Erlauben.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Ausnahmen - Automatische Wiedergabe
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Hier können die Websites festgelegt werden, welche immer oder nie automatisch Medien mit Ton wiedergeben dürfen. Geben Sie die Adresse der Website ein und klicken Sie dann auf "Blockieren" oder "Erlauben".
 
 ## Site Permissions - Autoplay
 

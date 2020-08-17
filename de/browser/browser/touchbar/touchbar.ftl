@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Vollbild beenden
 find = Seite durchsuchen
 new-tab = Neuer Tab
 add-bookmark = Lesezeichen hinzufügen
-open-bookmarks-sidebar = Lesezeichen-Sidebar anzeigen
 reader-view = Leseansicht
 # Meant to match the string displayed in an empty URL bar.
 open-location = Suche oder Adresse eingeben

@@ -65,8 +65,6 @@ privacy-passwords-header = Passwörter
 
 privacy-junk-header = Junk
 
-privacy-data-collection-header = Datenerfassung und -übermittlung
-
 collection-header = Datenerhebung durch { -brand-short-name } und deren Verwendung
 
 collection-description = Wir lassen Ihnen die Wahl, ob Sie uns Daten senden, und sammeln nur die Daten, welche erforderlich sind, um { -brand-short-name } für jeden anbieten und verbessern zu können. Wir fragen immer um Ihre Erlaubnis, bevor wir persönliche Daten senden.
@@ -112,12 +110,6 @@ manage-messenger-languages-button =
 confirm-messenger-language-change-description = { -brand-short-name } muss neu gestartet werden, um die Änderungen zu übernehmen.
 confirm-messenger-language-change-button = Anwenden und neu starten
 
-update-pref-write-failure-title = Schreibfehler
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Einstellung konnte nicht gespeichert werden. Fehler beim Schreiben dieser Datei: { $path }
-
 update-setting-write-failure-title = Fehler beim Speichern der Update-Einstellungen
 
 # Variables:
@@ -141,9 +133,6 @@ update-in-progress-cancel-button = &Fortfahren
 addons-button = Erweiterungen & Themes
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Bestätigen Sie Ihre Identität, um ein Master-Passwort festzulegen.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Um ein Master-Passwort festzulegen, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.

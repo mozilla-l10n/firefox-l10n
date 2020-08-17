@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Wiederherstellen">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "W">
-<!ENTITY cutCmd.label "Ausschneiden">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "A">
-<!ENTITY copyCmd.label "Kopieren">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Einfügen">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "b">
@@ -93,15 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
-<!ENTITY toggleAttachmentPaneCmd.key "g">
-<!ENTITY selectAllCmd.label "Alles auswählen">
 <!ENTITY selectAllCmd.accesskey "u">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Suchen…">
 <!ENTITY findBarCmd.accesskey "S">
 <!ENTITY findBarCmd.key "F">
@@ -256,23 +242,12 @@
 <!ENTITY printButton.tooltip "Diese Nachricht drucken">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 11em;">
-<!ENTITY fromAddr.label "Von:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 9em;">
 <!ENTITY extraRecipients.tooltip "Andere Arten von Adressfeldern">
 <!ENTITY fromAddr2.label "Von">
 <!ENTITY fromAddr.accesskey "V">
-<!ENTITY toAddr.label "An:">
-<!ENTITY ccAddr.label "Kopie (CC):">
-<!ENTITY bccAddr.label "Blindkopie (BCC):">
-<!ENTITY replyAddr.label "Antwort an:">
-<!ENTITY newsgroupsAddr.label "Newsgruppe:">
-<!ENTITY followupAddr.label "Followup an:">
-<!ENTITY subject.label "Betreff:">
 <!ENTITY toAddr2.label "An">
 <!ENTITY ccAddr2.label "Kopie (CC)">
 <!ENTITY bccAddr2.label "Blindkopie (BCC)">
@@ -281,13 +256,7 @@
 <!ENTITY followupAddr2.label "Followup an">
 <!ENTITY subject2.label "Betreff">
 <!ENTITY subject.accesskey "r">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
-<!ENTITY attachments.accesskey "g">
 
-<!ENTITY attachmentBucketHeader.tooltip "Anhangbereich">
 <!ENTITY attachmentBucketCloseButton.tooltip "Anhangbereich ausblenden">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

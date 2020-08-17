@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Ausschneiden">
-<!ENTITY cutCmd.accesskey "A">
-<!ENTITY copyCmd.label "Kopieren">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Einfügen">
-<!ENTITY pasteCmd.accesskey "E">
-<!ENTITY undoCmd.label "Rückgängig">
-<!ENTITY undoCmd.accesskey "R">
-<!ENTITY selectAllCmd.label "Alles auswählen">
-<!ENTITY selectAllCmd.accesskey "u">
-<!ENTITY deleteCmd.label "Löschen">
-<!ENTITY deleteCmd.accesskey "L">
-
 <!ENTITY spellAddToDictionary.label "Zu Benutzerwörterbuch hinzufügen">
 <!ENTITY spellAddToDictionary.accesskey "Z">
 <!ENTITY spellUndoAddToDictionary.label "Wörterbuch-Eintrag zurücknehmen">

@@ -3,75 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!-- addon actions -->
-<!ENTITY cmd.enableAddon.label                "Aktivieren">
-<!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.disableAddon.label               "Deaktivieren">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "Nachfragen, ob aktiviert werden soll">
-<!ENTITY cmd.askToActivate.tooltip            "Jedes Mal nachfragen, ob das Add-on aktiviert werden soll">
-<!ENTITY cmd.alwaysActivate.label             "Immer aktivieren">
-<!ENTITY cmd.alwaysActivate.tooltip           "Dieses Add-on immer verwenden">
-<!ENTITY cmd.neverActivate.label              "Nie aktivieren">
-<!ENTITY cmd.neverActivate.tooltip            "Dieses Add-on nie verwenden">
-<!ENTITY cmd.stateMenu.tooltip                "Ändern, wann das Add-on verwendet wird">
-
-<!ENTITY cmd.uninstallAddon.label             "Entfernen">
-<!ENTITY cmd.uninstallAddon.accesskey         "n">
-<!ENTITY cmd.showPreferencesWin.label         "Einstellungen">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Die Einstellungen dieses Add-ons ändern">
-<!ENTITY cmd.showPreferencesUnix.label        "Einstellungen">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Die Einstellungen dieses Add-ons ändern">
-
-<!ENTITY cmd.showReleaseNotes.label           "Versionshinweise anzeigen">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Versionshinweise für dieses Update anzeigen">
-<!ENTITY cmd.hideReleaseNotes.label           "Versionshinweise ausblenden">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Versionshinweise für dieses Update ausblenden">
-<!ENTITY cmd.findReplacement.label            "Ersatz finden">
-
 <!-- discovery view -->
 
-
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Abbrechen">
-
-<!ENTITY addon.details.label                  "Mehr">
-<!ENTITY addon.details.tooltip                "Mehr Details über dieses Add-on anzeigen">
-<!ENTITY addon.unknownDate                    "Unbekannt">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "Alter Add-on-Typ">
-<!ENTITY addon.privateBrowsing.label          "In privaten Fenstern erlaubt">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(deaktiviert)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Update">
-<!ENTITY addon.undoAction.label               "Rückgängig">
-<!ENTITY addon.undoAction.tooltip             "Diese Aktion rückgängig machen">
-<!ENTITY addon.undoRemove.label               "Rückgängig">
-<!ENTITY addon.undoRemove.tooltip             "Dieses Add-on installiert lassen">
-
-<!ENTITY addon.install.label                  "Installieren">
-<!ENTITY addon.install.tooltip                "Dieses Add-on installieren">
-<!ENTITY addon.updateNow.label                "Jetzt aktualisieren">
-<!ENTITY addon.updateNow.tooltip              "Das Update für dieses Add-on installieren">
-<!ENTITY addon.includeUpdate.label            "In Update einschließen">
-<!ENTITY addon.updateAvailable.label          "Ein Update ist verfügbar">
-<!ENTITY addon.checkingForUpdates.label       "Auf Updates prüfen…">
-<!ENTITY addon.releaseNotes.label             "Versionshinweise:">
-<!ENTITY addon.loadingReleaseNotes.label      "Wird geladen…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Während des Ladens der Versionshinweise ist ein Fehler aufgetreten.">
-
-<!ENTITY addon.createdBy.label                "Von ">
-
-<!ENTITY settings.path.button.label           "Durchsuchen…">
 
 <!ENTITY setting.learnmore "Weitere Informationen…">
 

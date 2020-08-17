@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "Nachrichten">
 <!ENTITY alwaysAuthenticate.label "Beim Verbinden mit diesem Server immer Authentifizierung verlangen">
 <!ENTITY alwaysAuthenticate.accesskey "i">
-<!ENTITY newsrcFilePath.label "newsrc-Datei:">
-<!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY newsrcFilePath1.label "News.rc-Datei:">
 <!ENTITY newsrcPicker1.label "News.rc-Datei auswählen">
 <!ENTITY abbreviate.label "Newsgruppen in der Ordner-Liste anzeigen mit:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
 <!ENTITY serverDefaultCharset2.label "Standard-Textkodierung:">
-<!ENTITY localPath.label "Lokaler Ordner:">
 <!ENTITY localPath1.label "Lokaler Ordner:">
 <!ENTITY localFolderPicker.label "Lokalen Ordner wählen:">
 <!ENTITY browseFolder.label "Ordner wählen…">

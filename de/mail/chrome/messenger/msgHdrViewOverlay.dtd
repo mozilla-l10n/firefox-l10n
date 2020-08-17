@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivieren">
 <!ENTITY hdrArchiveButton1.tooltip "Diese Nachricht archivieren">
-<!ENTITY hdrOpenConversationButton1.label "Themenbaum">
-<!ENTITY hdrOpenConversationButton1.tooltip "Themenbaum dieser Nachricht anzeigen">
 <!ENTITY hdrSmartReplyButton1.label "Smart antworten">
 <!ENTITY hdrReplyButton1.label "Antworten">
 <!ENTITY hdrReplyButton2.tooltip "Dem Absender antworten">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Antwort an die Mailing-Liste">
 <!ENTITY hdrFollowupButton1.label "Newsgruppe antworten">
 <!ENTITY hdrFollowupButton1.tooltip "Antwort an die Newsgruppe">
-<!ENTITY hdrMenuForwardButton.label "Weiterleiten als">
 <!ENTITY hdrForwardButton1.label "Weiterleiten">
 <!ENTITY hdrForwardButton1.tooltip "Diese Nachricht weiterleiten">
 <!ENTITY hdrJunkButton1.label "Junk">

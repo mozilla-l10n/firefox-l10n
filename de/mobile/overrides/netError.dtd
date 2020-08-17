@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht mehr im Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme fordert &brandShortName; nicht automatisch vertrauliche Dokumente erneut an.</li><li>Klicken Sie auf &quot;Nochmals versuchen&quot;, um das Dokument erneut anzufordern.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-Modus">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Probieren Sie es erneut. &brandShortName; wird versuchen, eine Verbindung zu öffnen und die Seite neu zu laden.
-    <button id='wifi'>WLAN aktivieren</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Content-Encoding-Fehler">
 <!ENTITY contentEncodingError.longDesc "

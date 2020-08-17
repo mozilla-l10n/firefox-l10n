@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Speichern unter…
     .accesskey = e
-media-preview =
-    .value = Medienvorschau:
 
 perm-tab =
     .label = Berechtigungen
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ja, Cookies
 security-site-data-no = Nein
 
 image-size-unknown = Unbekannt
-not-set-verified-by = Nicht angegeben
 page-info-not-specified =
     .value = Nicht angegeben
 not-set-alternative-text = Nicht angegeben
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Kompatibilitätsmodus (Quirks)
 general-strict-mode =
     .value = Standardkonformer Modus
-security-no-owner = Diese Website stellt keine Informationen über den Besitzer zur Verfügung.
 page-info-security-no-owner =
     .value = Diese Website stellt keine Informationen über den Besitzer zur Verfügung.
 media-select-folder = Wählen Sie einen Ordner, um die Grafiken zu speichern

@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Synchronisierte Tabs
 synced-tabs-sidebar-noclients-subtitle = Wollen Sie Ihre Tabs von Ihren anderen Geräten hier angezeigt bekommen?
-synced-tabs-sidebar-notsignedin = Melden Sie sich an, um eine Liste der Tabs von Ihren anderen Geräten angezeigt zu bekommen.
 synced-tabs-sidebar-intro = Zeigt eine Liste der Tabs von Ihren anderen Geräten an.
 synced-tabs-sidebar-unverified = Ihr Konto muss verifiziert werden.
 synced-tabs-sidebar-notabs = Keine offenen Tabs
