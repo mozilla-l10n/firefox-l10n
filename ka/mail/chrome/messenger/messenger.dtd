@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "შეცდომების კონსოლი">
 <!ENTITY errorConsoleCmd.accesskey "ე">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "სამუშაო დაფა">
-<!ENTITY scratchpadCmd.accesskey "ს">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "ფოსტის მიღება">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "შერჩეული წერილის გადაგზავნა დანართის სახით">
 <!ENTITY fileButton.tooltip "შერჩეული წერილის შენახვა">
 <!ENTITY archiveButton.tooltip "შერჩეული წერილის დაარქივება">
-<!ENTITY openConversationButton.tooltip "მითითებული შეტყობინების სრული საუბრის ჩვენება">
 <!ENTITY openMsgConversationButton.tooltip "მითითებული შეტყობინების სრული საუბრის ჩვენება">
 <!ENTITY nextButton.tooltip "გადასვლა შემდეგ წასაკითხ წერილზე">
 <!ENTITY nextMsgButton.tooltip "გადასვლა შემდეგ წერილზე">

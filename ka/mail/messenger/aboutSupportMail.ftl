@@ -14,5 +14,7 @@ accounts-conn-security = კავშირის უსაფრთხოებ
 accounts-auth-method = ანგარიშზე შესვლის გზა:
 accounts-default = ნაგულისხმევი?
 identity-name = მოწმობა
+
 send-via-email = ელფოსტით გაგზავნა
+
 app-basics-telemetry = გაზომვების მონაცემები

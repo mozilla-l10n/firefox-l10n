@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "წერილის დაშიფვრა">
-
 <!ENTITY menu_securityDoNotEncrypt.label "დაშიფვრის გარეშე">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "ე">
 

@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = დასინქრონებული ჩანართები
 synced-tabs-sidebar-noclients-subtitle = გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?
-synced-tabs-sidebar-notsignedin = შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.
 synced-tabs-sidebar-intro = იხილეთ ჩანართების სია თქვენი სხვა მოწყობილობებიდან.
 synced-tabs-sidebar-unverified = თქვენი ანგარიში საჭიროებს დამოწმებას.
 synced-tabs-sidebar-notabs = გახსნილი ჩანართები არაა

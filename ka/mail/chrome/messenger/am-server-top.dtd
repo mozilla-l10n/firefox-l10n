@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "ერთეულს">
 <!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას, ანგარიშზე შესვლის მოთხოვნა ყოველ ჯერზე">
 <!ENTITY alwaysAuthenticate.accesskey "დ">
-<!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
-<!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
 <!ENTITY newsrcFilePath1.label "News.rc ფაილი:">
 <!ENTITY newsrcPicker1.label "აირჩიეთ News.rc ფაილი">
 <!ENTITY abbreviate.label "წერილების საქაღალდეების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "დამატებით…">
 <!ENTITY advancedButton.accesskey "მ">
 <!ENTITY serverDefaultCharset2.label "ტექსტის ნაგულისხმევი კოდირება:">
-<!ENTITY localPath.label "ადგილობრივი საქაღლდე:">
 <!ENTITY localPath1.label "ადგილობრივი საქაღალდე:">
 <!ENTITY localFolderPicker.label "ადგილობრივი საქაღალდის არჩევა">
 <!ENTITY browseFolder.label "ამორჩევა…">

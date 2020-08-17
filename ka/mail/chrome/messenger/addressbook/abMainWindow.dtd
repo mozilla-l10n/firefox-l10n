@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "ჩასწორება">
 <!ENTITY editMenu.accesskey                             "ჩ">
-<!ENTITY undoCmd.label                                  "დაბრუნება">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "დ">
-<!ENTITY redoCmd.label                                  "კვლავ შესრულება">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "კ">
-<!ENTITY cutCmd.label                                   "ამოჭრა">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "ო">
-<!ENTITY copyCmd.label                                  "ასლი">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "ლ">
-<!ENTITY pasteCmd.label                                 "ჩასმა">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "ჩ">
 <!ENTITY deleteCmd.label                                "წაშლა">
-<!ENTITY deleteCmd.accesskey                            "წ">
 <!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">
 <!ENTITY deleteContactCmd.label                         "პირის ამოშლა">
 <!ENTITY deleteContactsCmd.label                        "ხალხის ამოშლა">
 <!ENTITY deleteListCmd.label                            "სიის წაშლა">
 <!ENTITY deleteListsCmd.label                           "სიების წაშლა">
 <!ENTITY deleteItemsCmd.label                           "ელემენტების წაშლა">
-<!ENTITY selectAllCmd.label                             "ყველას მონიშვნა">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "ყ">
-<!ENTITY swapFirstNameLastNameCmd.label                 "სახელის/გვარის ადგილების გაცვლა">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "დ">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "პარამეტრები">
 <!ENTITY propertiesMenu.accesskey                       "რ">
 <!ENTITY propertiesCmd.key                              "i">

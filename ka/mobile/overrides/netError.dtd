@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი მიუწვდომელია &brandShortName;-ის ბუფერში.</p><ul><li>უსაფრთხოების უზრუნველსაყოფად, &brandShortName; ხელმეორედ არ მოითხოვს მნიშვნელოვან დოკუმენტებს.</li><li>Click სცადეთ დოკუმენტის ხელახლა მოთხოვნა ვებსაიტიდან.</li></ul>">
 
 <!ENTITY netOffline.title "კავშირგარეშე რეჟიმი">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>ხელახლა ცდა. &brandShortName; შეეცდება კავშირის გახსნას და გვერდის გადატვირთვას.
-    <button id='wifi'>Wi-Fi-ს ჩართვა</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "შიგთავსის დაშიფვრის შეცდომა">
 <!ENTITY contentEncodingError.longDesc "

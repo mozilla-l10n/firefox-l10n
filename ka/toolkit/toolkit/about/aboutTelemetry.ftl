@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = პინგის მონაცემების წყარო:
-about-telemetry-show-current-ping-data = პინგის მიმდინარე მონაცემები
 about-telemetry-show-current-data = მიმდინარე მონაცემები
 about-telemetry-show-archived-ping-data = პინგის დაარქივებული მონაცემები
 about-telemetry-show-subsession-data = ქვესეანსის მონაცემების ჩვენება
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = გაზომვებით აღი�
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ { $name }, { $timestamp } პინგს.
-about-telemetry-ping-details-current = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ მიმდინარე პინგს.
 about-telemetry-data-details-current = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ მიმდინარე მონაცემებს.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = ვწუხვართ! არცე�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = ვწუხვართ! მონაცემები „{ $sectionName }“ განყოფილებაში, ამჟამად არაა ხელმისაწვდომი
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = მიმდინარე პინგი
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = მიმდინარე მონაცემები
 # used in the “Ping Type” select

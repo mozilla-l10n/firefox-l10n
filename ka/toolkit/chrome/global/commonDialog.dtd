@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "მოკლე სათაური"> 
-<!ENTITY message.label    "აქ სანიმუშო ტექსტია განთავსებული.">
-
 <!ENTITY editfield0.label "სახელი:"> 
 <!ENTITY editfield1.label "პაროლი:"> 
-<!ENTITY checkbox.label   "შემოწმება"> 
 <!ENTITY copyCmd.label    "ასლი">
 <!ENTITY copyCmd.accesskey "ლ">
 <!ENTITY selectAllCmd.label "ყველას მონიშვნა">
