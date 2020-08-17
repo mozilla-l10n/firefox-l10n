@@ -10,9 +10,6 @@ addons-page-title = Topitorde Ɓeyditte
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Nana loowa…
-
 list-empty-installed =
     .value = A alaa hay ɓeydital gootal aafaangal e oo fannu
 
@@ -28,22 +25,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = Ɓeydu humpito e ɓeyditte
 
-install-addon-from-file =
-    .label = Aaf Ɓeyditte Iwde e Fiilde…
-    .accesskey = A
-
-tools-menu =
-    .tooltiptext = Kuutorɗe ɓeyditte fof
-
 show-unsigned-extensions-button =
     .label = Won e timmitte koriima ƴeewteede
 
 show-all-extensions-button =
     .label = Hollu timmitte fof
-
-debug-addons =
-    .label = Buggito Ɓeyditte
-    .accesskey = b
 
 cmd-show-details =
     .label = Hollir Humpito Ɓeydoro
@@ -81,12 +67,6 @@ cmd-contribute =
     .label = Addu ballal
     .accesskey = A
     .tooltiptext = Wallit e totagol ngal ɓeydital
-
-discover-title = Ko woni ɓeyditte?
-
-discover-description = Ɓeyditte ko jaaɓnirɗe ballooje-ma heertinde { -brand-short-name } ɓeyda heen gaatuleeje goɗɗe walla panni. Ƴeewndo palal kuutorɗe jaawnowal, tintinorde asamaan, walla mbaydi siŋkoore ɓeydowal { -brand-short-name } nanndude e yiɗde maa.
-
-discover-footer = So a seŋiima e enternet, ngal alluwal maa hollu ɓeyditte ɓurɗe ŋarɗude e lollude ngal ƴeewndo-ɗaa.
 
 detail-version =
     .label = Yamre
@@ -169,14 +149,6 @@ legacy-extensions =
 
 legacy-extensions-description = Ɗee timmitte ɗooftaaki nanondiraaɗe { -brand-short-name } wadde ɗe ndaaƴaama. <label data-l10n-name="legacy-learn-more">Ɓeydu humpito baɗte waylooji ɓeyditte</label>
 
-extensions-view-recent-updates =
-    .name = Kesɗitine Cakkitiiɗe
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Kesɗitine Goodaaɗe
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Timmitte
 addon-category-extension-title =
     .title = Timmitte
@@ -201,29 +173,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Mbayka kisnal daaƴii ɓeyditte fof.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Daaƴtu
-    .tooltiptext = Daaƴtu ƴeewtagol jaaɓdugol ɓeyditte
-
-extensions-warning-update-security-label =
-    .value = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Daaƴtu
-    .tooltiptext = Daaƴtu ƴeewtagol kisnal ɓeyditte
-
 extensions-warning-safe-mode = Mbayka kisnal daaƴii ɓeyditte fof.
 extensions-warning-check-compatibility = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
 extensions-warning-check-compatibility-button = Daaƴtu
@@ -235,14 +184,6 @@ extensions-warning-update-security-button = Daaƴtu
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Yuurno kesɗitine
-    .accesskey = Y
-
-extensions-updates-view-updates =
-    .label = Hollir Kesɗitine Cakkitiiɗe
-    .accesskey = H
-
 addon-updates-check-for-updates = Yuurno kesɗitine
     .accesskey = Y
 addon-updates-view-updates = Hollir Kesɗitine Cakkitiiɗe
@@ -250,10 +191,6 @@ addon-updates-view-updates = Hollir Kesɗitine Cakkitiiɗe
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Hesɗitin Ɓeyditte e Jaajol
-    .accesskey = Ɓ
 
 addon-updates-update-addons-automatically = Hesɗitin Ɓeyditte e Jaajol
     .accesskey = Ɓ
@@ -264,36 +201,12 @@ addon-updates-update-addons-automatically = Hesɗitin Ɓeyditte e Jaajol
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Waklit Ɓeyditte Fof yoo Kesɗitino e Jaajol
-    .accesskey = W
-
-extensions-updates-reset-updates-to-manual =
-    .label = Waklit Ɓeyditte Fof yoo Kesɗitino e Junngol
-    .accesskey = W
-
 addon-updates-reset-updates-to-automatic = Waklit Ɓeyditte Fof yoo Kesɗitino e Jaajol
     .accesskey = W
 addon-updates-reset-updates-to-manual = Waklit Ɓeyditte Fof yoo Kesɗitino e Junngol
     .accesskey = W
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Nana hesɗitina ɓeyditte
-extensions-updates-installed =
-    .value = Ɓeyditte maa kesɗitinaama.
-extensions-updates-downloaded =
-    .value = Kesɗitine ɓeyditte maa ngaawtaama.
-extensions-updates-restart =
-    .label = Hurmitin jooni ngam jokkitde aafgol
-extensions-updates-none-found =
-    .value = Alaa kesɗitine njiytaa
-extensions-updates-manual-updates-found =
-    .label = Hollir Kesɗitine Goodaaɗe
-extensions-updates-update-selected =
-    .label = Aaf Kesɗitine
-    .tooltiptext = Aaf kesɗitine goodaaɗe e ngol doggol
 
 addon-updates-updating = Nana hesɗitina ɓeyditte
 addon-updates-installed = Ɓeyditte maa kesɗitinaama.

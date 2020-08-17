@@ -25,11 +25,6 @@ graph-private-window = { -brand-short-name } ina jokki  daaƴde rewindotooɓe e 
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Rewindotooɓe { -brand-short-name } ndaaƴaama ndee yontere
 
-protection-report-page-title = Ndeenkaaji Suturo
-protection-report-content-title = Ndeenkaaji Suturo
-
-etp-card-title = Ndeenka Dewindol Ƴellitiika
-
 protection-report-manage-protections = Toppito Teelte
 
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -45,21 +40,15 @@ protections-close-button2 =
 mobile-app-title = Daaƴ rewindotooɓe ɓaŋŋine e masiŋon keewkon
 
 lockwise-title = Hoto majjin finnde maa kadi abadaa
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-mobile-app-title = Nawor ceŋorɗe e pinle maa kala nokku.
 lockwise-no-logins-card-content = Huutoro pinle danndaaɗe nder { -brand-short-name } e kaɓirgol baawngol won'de fof.
 lockwise-app-links = { -lockwise-brand-name } ngam a data-l10n-name="lockwise-android-inline-link">Android</a> e  <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-
-manage-connected-devices = Toppito kaɓirɗe…
 
 monitor-title = Yuurnito ciigol keɓe
 monitor-link = Hol no gollortoo
 monitor-header-content-no-account = Ƴeewto { -monitor-brand-name }ngam ƴeewde so tawii a jeyanooma e ciigol keɓe ganndangol, etee heɓ jeertine baɗte ciigol keɓe kesol.
 monitor-header-content-signed-in = { -monitor-brand-name } ina reentin maa so kabaruuji maa peeñii e ciigol keɓe kesol ganndangol.
-monitor-sign-up = Winndito e Jeertine Ciigol keɓe
 auto-scan = Niiwtaama ɗoon e ɗoon hannde
-
-full-report-link = Yiy jaŋtol timmungol e <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

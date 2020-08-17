@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Horiima seŋaade">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Ndee ñiiɓirde ko suraande">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Sarworde Nde Yiytaaka">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Min ndañii saɗeende e yiytude hello ngo.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>So ndeen ñiiɓirde ena moƴƴi, aɗa waawi etaade ɗeeɗoo geɗe:</strong>
 <ul>
@@ -34,15 +28,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fiilde yiytaaka">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> <li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Ballagol fiilde salaama">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Maa taw ko nde momtaande, dirtinaande, walla jamire fiilde ena kala ballagol.</li> </ul>">
-
-<!ENTITY generic.title "Ndo.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; horiima loowde ngoo hello.</p>">
 
@@ -52,63 +40,32 @@
 <!ENTITY openPortalLoginPage.label2 "Uddit nello seŋorgo e laylaytol ngol">
 
 <!ENTITY malformedURI.pageTitle "URL o moƴƴaani">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Ndee ñiiɓirde nanndaani e moƴƴere.">
-
-<!ENTITY netInterrupt.title "Ceŋagol ngol taƴii">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Fiilannde Hiiɗtii">
-
 <!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li></ul>">
-
-<!ENTITY netOffline.title "Mbaydi ceŋtol">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Ñoƴƴu &quot;Fuɗɗito&quot; ngam faytude e mbayka ceŋol kesɗitinaa hello ngoo.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Juumre Dokkitannde Loowdi">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Ndee Fiilde Toolnaaki">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> </ul>">
 
-<!ENTITY netReset.title "Ceŋagol ngol fuɗɗitaama">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Ceŋagol ngol honaama waktu">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Ñiiɓirde ndee faamaaka">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ena wona ko maa aafaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Sarworde proxy ndee saliima ceŋanɗe">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ƴeewto teelte proxy ɗee ngam yuurnitaade so eɗe peewi.</li> <li>Jokkondir e jiiloowo laylaytol maa ngam ƴeewde so sarworde proxy ndee ena moƴƴi.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Horiima yiytude sarworde proxy ndee">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ƴeewto teelte proxy ɗee ngam yuurnitaade so eɗe peewi.</li> <li>Ƴeewto so tawii ordinateer maa ena jogii seŋorde moƴƴere.</li> <li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno so &brandShortName; ena yamiraa naatde e geese.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Ngoo hello wonaani e yiiltude no feewiri">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ɗee caɗeele ena mbaawi arde so tawii ko a daaƴɗo walla caliiɗo kukiije.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Jaatol sarworde faamaaka">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ƴeewto ngam yuurnitaade so yuɓɓo maa ena aafaa Personal Security Manager.</li> <li>Ɗum ena jolde so tawii teeltol sarworde ndee heftinaaka.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Ceŋagol Kisnangol Woorii">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Hello ngo etoto-ɗaa naatnde ngoo waawaa hollireede sabu goongɗingol keɓe keɓaaɗe ɗee waawaa ƴeewteede.</li> <li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Jeertino: Soomi tanaa kisal yeeso">
-<!ENTITY certerror.sts.longpagetitle  "Hoto seŋo: soomi saɗeende kisal">
 
 <!ENTITY certerror.introPara2 "&brandShortName; tinii tanaa cooaaɗo wonande kisal, tee jokkaani haa <span class='hostname'/>. So aɗa yilloo ndee lowre, taƴooɓe ina mbaawi etaade wujjude kabaruuji baaɗi no pinle, iimeeluuji walla kabaruuji kartal keredi.">
 
@@ -129,11 +86,7 @@
 
 <!ENTITY sharedLongDesc "<ul> <li>Ndee lowre ena waawi tawo heɓotaako walla ko nde haljunde. Eto kadi ɗoo e ɓooyde.</li> <li>So a horiima loowde hay so hello, ƴeewto laylaytol ordinateer maa so ena seŋii.</li> <li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno so &brandShortName; ena yamiraa naatde e geese.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Dawirgol Kisnal Loowdi daaƴii ɗum">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; haɗii ngo hello loowaade e ndii mbaydi sabu hello ngoo ena jogii dawirdol kisnal loowdi caliindi ɗum.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Juumre Loowdi Jiibndi">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Hello ngo etot-ɗaa naatnde ngoo waawaa hollireede sabu juumre waɗii e baanjitagol keɓe ɗee.</p><ul><li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li></ul>">
 
@@ -143,11 +96,7 @@
 <!ENTITY errorReporting.automatic2 "Jaŋto juume hono ɗee ngam wallude Mozilla heftinde e falaade lowe bonnooje">
 <!ENTITY errorReporting.learnMore "Ɓeydu humpito…">
 
-<!ENTITY remoteXUL.title "XUL Poottiiɗo">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe caɗe ɗee.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Horiima Seŋaade e Kisal">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -158,21 +107,15 @@
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ina jogii politik kisal biyeteengal HSTS (HTTP Strict Transport Security), ɗum firti ko &brandShortName; seŋortoo tan ko e kisal. A waawaa ɓeydude luulndal ngam yillaade ndee lowre.">
 <!ENTITY certerror.copyToClipboard.label "Natto binndol to ɗakkitorde">
 
-<!ENTITY inadequateSecurityError.title "Ceŋagol maa hisaani">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.</p><p>Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Hello Daaƴaango">
 
-<!ENTITY clockSkewError.title "Montoor ordinateer maa goongɗaani">
-
 <!ENTITY clockSkewError.longDesc "Ordinateer maa ina sikki ko <span id='wrongSystemTime_systemDate1'/> haɗata &brandShortName; seŋoraade e kisal. Ngam yillaade <span class='hostname'></span>, waɗ montoor ordinateer maa e waktu to teelte yuɓɓo haa yahda e ñalngu e waktu jurol waktu gonangol ngol, caggal ɗuum kesɗitinaa <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ena wayi hono teelte kisal laylaytol maa gaddata ɗee caɗe. Aɗa yiɗi artirde teelte goowaaɗe ɗee?">
 <!ENTITY prefReset.label "Artir teelte goowaaɗe">
-
-<!ENTITY networkProtocolError.title "Juumre jaɓɓitorde geese">
 
 <!ENTITY networkProtocolError.longDesc "<p>Hello ngo etoto-ɗaa ɗisde ngoo waawaa ɗiseede sibu juumre yiytaande nder jaɓɓitorde geese.</p><ul><li>Tiiɗno jokkondir e joom en lowe geese ɗee ngam habrude ɗum en saɗeende ndee.</li></ul>">

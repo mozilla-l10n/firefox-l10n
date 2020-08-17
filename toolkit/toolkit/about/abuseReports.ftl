@@ -52,19 +52,13 @@ abuse-report-messagebar-action-cancel = Haaytu
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Ina bonna ordinateer am kam e keɓe am
-
 abuse-report-damage-reason-v2 = Ina bonna ordinateer am walla jaaya keɓe am
 abuse-report-damage-example = Yeru: addii mbonanteeri walla wujjii keɓe
 
 abuse-report-spam-example = Yeru: ɓittii ɓaŋŋine e kelle geese
 
-abuse-report-settings-reason = Waylii yiylorde am, jaɓɓorgo am, walla tabbere hesere tawo ɗum humpitaani mi walla ɗum naamnaaki mi
-
 abuse-report-settings-reason-v2 = Ɗum waylii yiylorde am, jaɓɓorgo am, walla tabbere hesere tawo ɗum humpitaani mi walla ɗum naamnaaki mi
 abuse-report-settings-suggestions = Hade maa jaŋtaade timmitere ndee, aɗa waawi etaade waylude teelte maa;
 abuse-report-settings-suggestions-search = Waylu teelte njiilaw maa gaawooɗo
 abuse-report-settings-suggestions-homepage = Waylu jaɓɓorgo maa e tabbere hesere
-
-abuse-report-deceptive-reason = Ina wonkinoo ko wonaa
 

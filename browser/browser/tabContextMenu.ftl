@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Dirtin to Henorde Hesere
     .accesskey = H
-undo-close-tab =
-    .label = Firtu Uddol Tabbere
-    .accesskey = F
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Uddu Tabbere
     .accesskey = U

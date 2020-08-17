@@ -110,6 +110,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Tappu seeɗa, yiytu ko heewi: Yiylo { $engineName } e palal ñiiɓirde maa.
 urlbar-search-tips-redirect-2 = Fuɗɗo njiilaw e palal ñiiɓirde ngam yiyde baggine ummoraade e { $engineName } kam e aslol banngogol maa.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -187,6 +189,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Waɗtu Yiylorɗe Woowaanɗe ngam Windows Keeriiɗo
     .accesskey = P
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -281,8 +290,10 @@ enable-devtools-popup-description = Ngam huutoraade sodorde F12, uddit tawo DevT
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Yiylo walla naatnu ñiiɓirde
+
 urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Wanngorde woni ko e yuurnito woɗɗungo
 urlbar-permissions-granted =

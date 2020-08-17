@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Tonngoode Degginol
 
 fips-nonempty-password-required = Mbayka FIPS ena naamnii yo a jogo Finnde Baabaare e kala kaɓirgol kisal. Tiiɗno sos finnde hade maa etaade daaƴtude mbayka FIPS kaa.
+
 unable-to-toggle-fips = Horiima waylude mbayka FIPS e ngol kaɓirgol kisal. Ena wasiyaa yo a yaltu ngati kurmitinaa ngal jaaɓnirgala.
 load-pk11-module-file-picker-title = Suɓo pilot kaɓirgel PKCS#11 ngam loowde
 

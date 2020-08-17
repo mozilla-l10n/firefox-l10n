@@ -21,6 +21,9 @@ change-password-reenter = Finnde hesere (goɗngol):
 reset-password-window =
     .title = Finnde maa waklitaama
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Firlit
 reset-password-text = So a waklitii finnde maa baabaare, finndeeji maa geese e iimeel, porme keɓe, seedamfaaje keeriiɗe, e kele suturo maa njejjite. Aɗa yenanaa yiɗde waklitde finnde baabaare maa?

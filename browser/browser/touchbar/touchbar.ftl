@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Yaltu Njaajeendi Yaynirde
 find = Yiytu
 new-tab = Tabbere hesere
 add-bookmark = Ɓeydu Maantore
-open-bookmarks-sidebar = Uddit Palal Sawndo Maantore
 reader-view = Jiytol Tarorde
 # Meant to match the string displayed in an empty URL bar.
 open-location = Yiylo walla naatnu ñiiɓirde

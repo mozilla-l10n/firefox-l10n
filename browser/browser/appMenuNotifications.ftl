@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Yiil ɓeyditte maa e dobaade <image data-l1
 appmenu-addon-post-install-incognito-checkbox =
     .label = Yamir ndee timmitere dogde e kenorɗe cuuriiɗe
     .accesskey = Y
-appmenu-addon-private-browsing =
-    .label = Faatu e timmitte nder kenorɗe cuuriiɗe
-    .buttonlabel = Toppito Timmitte
-    .buttonaccesskey = T
-    .secondarybuttonlabel = Eey, mi faami
-    .secondarybuttonaccesskey = E
-appmenu-addon-private-browsing-message = Timmitte kese ɓeyduɗaa e { -brand-shorter-name } ndogataa e kenorɗe cuuriiɗe so wonaa a yamir ɗum e nder teelte ɗee.
-appmenu-addon-private-browsing-learn-more = Humpito hol no toppitortoɗaa teelte timmitte
     
 appmenu-new-tab-controlled =
     .label = Tabbere maa Hesere wayliima.

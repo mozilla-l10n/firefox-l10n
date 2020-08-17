@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Tabbe synckaaɗe
 synced-tabs-sidebar-noclients-subtitle = Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?
-synced-tabs-sidebar-notsignedin = Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.
 synced-tabs-sidebar-unverified = Konte maa ina cokli ƴeewteede.
 synced-tabs-sidebar-notabs = Alaa tabbe udditiiɗe
 synced-tabs-sidebar-openprefs = Uddit cuɓoraaɗe { -sync-brand-short-name }

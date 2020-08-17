@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Ɓeydu humpito
-onboarding-button-label-try-now = Enndu ɗum jooni
 onboarding-button-label-get-started = Fuɗɗo
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = A jaɓɓaama e { -brand-short-name }
 onboarding-welcome-body = A heɓii wanngorde ndee.<br/>Ƴeew ko heddii koo e { -brand-product-name }.
 onboarding-welcome-learn-more = Ɓeydu humpito baɗte ɓure ɗee.
 
-onboarding-join-form-header = Tawtu { -brand-product-name }
 onboarding-welcome-modal-get-body = A heɓii wanngorde ndee.<br/>Jooni noon heɓ ko ɓuri yuɓɓude e { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Ɓeydu ndeenka suturo maa.
 onboarding-welcome-modal-privacy-body = A heɓii wanngorde ndee. Ɓeyden ndeenka suturo heewka.
@@ -46,6 +44,13 @@ onboarding-start-browsing-button-label = Fuɗɗo wanngaade
 onboarding-cards-dismiss =
     .title = Salo
     .aria-label = Salo
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -74,10 +79,6 @@ onboarding-sync-form-sub-header = ngam jokkude to { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Topirɗe nafooje
-
-onboarding-benefit-knowledge-text = Humpito kala ko cokluɗaa humpitaade ngam wonde ɓurɗo ƴoƴde et ɓurɗo hisde e ceŋogol.
-
 
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Naw maantore mma, pinle maa, aslol maa e goɗɗe kala ɗo kuutoriɗaa { -brand-product-name }.
@@ -95,22 +96,6 @@ onboarding-benefit-lockwise-text = Toppito pinle deenaaɗe etee naworteeɗe.
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Banngogol Suturo
-onboarding-private-browsing-text = Wanngano hoore maa. Banngagol sutura paddotoongol ina faddoo rewindo e ceŋol rewindiiɗi ma nder geese.
-
-onboarding-screenshots-title = Nokitte Yaynirde
-onboarding-screenshots-text = Ƴettu, kisnaa, lollinaa nokitte yaynirde - tawa a yaltaani { -brand-short-name }. Natto diiwaan walla hello huurngo so aɗa wanngoo. Caggal ɗuum hisnu nder geese ngam newnude gartol e lollingol.
-
-onboarding-addons-title = ɓeyditte
-onboarding-addons-text = Ɓeydu kadi gollirɗe goɗɗe mbele { -brand-short-name } ina gollano maa no moƴƴi. Yerondir coodguuli, humpito meteyoo walla hollitir neɗɗaagu maa kettol neɗɗinangol.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Huutoro njokkon mbaakon no Ghostery ngam banngagol ɓurngol yaawde, ɓurngol ƴoƴde walla siirde, sibu ekon paddoo jeeyle kaljinooje.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sync
-onboarding-fxa-text = Winndito ngam { -fxaccount-brand-name } njahdinaa maante maa, pinle maa kam e tabbe udditiiɗe kala ɗo kuutorto-ɗaa { -brand-short-name }.
 
 onboarding-tracking-protection-title2 = Ndeenka e dewindol
 onboarding-tracking-protection-text2 = { -brand-short-name } ina walla haɗde lowe geese rewindaade ma e ceŋogol, saɗtinana ɓaŋŋine rewde e maa e geese ɗee.
@@ -141,10 +126,6 @@ onboarding-send-tabs-title = Neldu hoore maa tabbe ko aldaa e hebaade
 onboarding-pocket-anywhere-title = Tar e heɗo kala ɗo ngonɗaa
 onboarding-pocket-anywhere-text2 = Danndu loowdi maa katojinɗaa e jaaɓnirgal{ -pocket-brand-name } ngal e tar, heɗo, etee ndaar kala nde ɗum hawran-maa.
 onboarding-pocket-anywhere-button = Eto { -pocket-brand-name }
-
-onboarding-lockwise-passwords-title = Nawor pinle maa kala nokku
-onboarding-lockwise-passwords-text2 = Waɗ pinle ndannduɗaa-ɗee kisɗe etee seŋo no weeɓiri e konte maa e { -lockwise-brand-name }.
-onboarding-lockwise-passwords-button2 = Heɓ jaaɓnirgal ngal
 
 onboarding-lockwise-strong-passwords-title = Sos e mooftu pinle maa tekkuɗe
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ina sosa pinle tekkuɗe e darnde etee moofta kanje fof e nokku gooto.
