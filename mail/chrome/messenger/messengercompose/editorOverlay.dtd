@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Уставіць без фарматавання">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Уставіць як">
-<!ENTITY pasteAs.accesskey "Я">
 <!ENTITY pasteAsQuotationCmd.label "Уставіць як вытрымку">
 <!ENTITY pasteAsQuotationCmd.accesskey "в">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Знайсці…">
-<!ENTITY findReplaceCmd.label "Знайсці і замяніць">
-<!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
-<!ENTITY enableInlineSpellChecker.accesskey "П">
-<!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
-<!ENTITY checkSpellingCmd2.accesskey "р">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Уставіць">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Тэкст цела">
 <!ENTITY bodyTextCmd.accesskey "Т">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Пашыраныя ўласцівасці">
-<!ENTITY advancedPropertiesCmd.accesskey "ш">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Выраўноўванне">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Разасяродзіць">
 <!ENTITY alignJustify.accesskey "з">
 <!ENTITY alignJustify.tooltip "Выраўноўваць разасяроджана">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Слой">
-<!ENTITY layerSendToBack.tooltip "Адпіхнуць назад">
-<!ENTITY layerBringToFront.tooltip "Выцягнуць наперад">
 
 <!ENTITY increaseIndent.label "Павялічыць водступ">
 <!ENTITY increaseIndent.accesskey "в">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Уласцівасці табліцы…">
 <!ENTITY tableProperties.accesskey "ц">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Паліца меню">
-<!ENTITY formatToolbar.tooltip "Паліца прыладаў фарматавання">
-<!ENTITY cutToolbarCmd.tooltip "Выразаць">
-<!ENTITY copyToolbarCmd.tooltip "Капіяваць">
-<!ENTITY pasteToolbarCmd.tooltip "Уставіць">
-<!ENTITY printToolbarCmd.label "Друкаваць">
-<!ENTITY printToolbarCmd.tooltip "Надрукаваць гэтую старонку">
-<!ENTITY findToolbarCmd.label "Знайсці">
-<!ENTITY findToolbarCmd.tooltip "Знайсці тэкст на старонцы">
-<!ENTITY spellToolbarCmd.label "Правапіс">
-<!ENTITY spellToolbarCmd.tooltip "Праверыць правапіс вылучэння або ўсёй старонкі ">
-
 <!ENTITY imageToolbarCmd.label "Выява">
 <!ENTITY imageToolbarCmd.tooltip "Уставіць новую выяву або правіць уласцівасці выбранай">
 <!ENTITY hruleToolbarCmd.label "Г.рыска">
@@ -307,7 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Уставіць новы іменаваны якар або рэдагаваць уласцівасці вылучанага якара ">
 <!ENTITY TextColorButton.tooltip "Выбраць колер тэксту">
 <!ENTITY BackgroundColorButton.tooltip "Выбраць колер фону">
-<!ENTITY HighlightColorButton.tooltip "Выбраць колер падфарбоўкі для тэксту">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ўсталяваць памер шрыфту">
@@ -326,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Цэнтраванае выраўноўванне тэксту">
 <!ENTITY alignRightButton.tooltip "Выраўноўваць тэкст уздоўж правага прымежку">
 <!ENTITY alignJustifyButton.tooltip "Выраўноваць тэкст да левага і правага прымежкаў">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Вылучыць">
-<!ENTITY structSelect.accesskey     "л">
-<!ENTITY structRemoveTag.label      "Выдаліць меціну">
-<!ENTITY structRemoveTag.accesskey  "д">
-<!ENTITY structChangeTag.label      "Змяніць меціну">
-<!ENTITY structChangeTag.accesskey  "м">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Уставіць">

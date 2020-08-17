@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Увядзіце назву хоста
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Выключэнні - Блакаванне змесціва
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Вы адключылі блакаванне змесціва на гэтых сайтах.
-
 permissions-exceptions-etp-window =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена ўсталёўваць дадаткі. Набярыце дакладны адрас сайта, якому вы хочаце гэта дазволіць, і пстрыкніце Дазволіць.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Выключэнні - Аўтапрайграванне
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Вы можаце вызначыць, якім вэб-сайтам заўсёды дазволена або ніколі не дазволена аўтаматычна прайграваць гук. Набярыце адрас сайта, якім хочаце кіраваць, і пстрыкніце Блакаваць або Дазволіць.
 
 ## Site Permissions - Autoplay
 

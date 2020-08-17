@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Шукаць
     .aria-label = Шукаць
+
 newtab-search-box-search-the-web-text = Пошук у Інтэрнэце
 newtab-search-box-search-the-web-input =
     .placeholder = Пошук у Інтэрнэце
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Рэдагаваць папулярны �
 newtab-topsites-title-label = Загаловак
 newtab-topsites-title-input =
     .placeholder = Увядзіце назву
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Увядзіце або ўстаўце URL
 newtab-topsites-url-validation = Патрабуецца сапраўдны URL
+
 newtab-topsites-image-url-label = URL уласнага відарыса
 newtab-topsites-use-image-link = Выкарыстоўваць уласны відарыс…
 newtab-topsites-image-validation = Не ўдалося атрымаць відарыс. Паспрабуйце іншы URL.
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = Гэта дзеянне немагчыма а
 newtab-menu-section-tooltip =
     .title = Адкрыць меню
     .aria-label = Адкрыць меню
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Выдаліць
     .aria-label = Выдаліць
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -133,10 +138,12 @@ newtab-label-removed-bookmark = Закладка выдалена
 newtab-label-recommended = Тэндэнцыі
 newtab-label-saved = Захавана ў { -pocket-brand-name }
 newtab-label-download = Сцягнута
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спансаравана
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -174,10 +181,12 @@ newtab-section-header-pocket = Рэкамендавана { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Пачніце агляданне, і мы пакажам вам тут некаторыя з найлепшых артыкулаў, відэаролікаў і іншых старонак, якія вы нядаўна наведалі або дадалі ў закладкі.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Гатова. Праверце пазней, каб убачыць больш матэрыялаў ад { $provider }. Не жадаеце чакаць? Выберыце папулярную тэму, каб знайсці больш цікавых матэрыялаў з усяго Інтэрнэту.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Вярнуць">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "В">
-<!ENTITY cutCmd.label "Выразаць">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "р">
-<!ENTITY copyCmd.label "Капіяваць">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "к">
-<!ENTITY pasteCmd.label "Уставіць">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "у">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "г">
@@ -88,9 +82,7 @@
 <!ENTITY reorderAttachmentsCmd.label "Перапарадкаваць укладанні…">
 <!ENTITY reorderAttachmentsCmd.accesskey "а">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.accesskey "у">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Знайсці…">
 <!ENTITY findBarCmd.accesskey "З">
 <!ENTITY findBarCmd.key "F">
@@ -243,22 +235,8 @@
 <!ENTITY printButton.tooltip "Надрукаваць гэты ліст">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 10em;">
-<!ENTITY fromAddr.label "Ад:">
 <!ENTITY fromAddr.accesskey "А">
-<!ENTITY toAddr.label "Да:">
-<!ENTITY ccAddr.label "Са:">
-<!ENTITY bccAddr.label "Сса:">
-<!ENTITY replyAddr.label "Зваротны адрас:">
-<!ENTITY newsgroupsAddr.label "Навінакупа:">
-<!ENTITY followupAddr.label "Водгук-Да:">
-<!ENTITY subject.label "Тэма:">
 <!ENTITY subject.accesskey "Т">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "ч">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Уставіць тварык-усмешку">

@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Тут цмокі!
-about-config-warning-text = Змяненне прадвызначаных значэнняў гэтых пашыраных налад можа быць шкодным для ўстойлівасці, бяспекі і прадукцыйнасці гэтай праграмы. Вы павінны рабіць гэта толькі тады, калі ўпэўнены ў тым, што робіце.
-about-config-warning-checkbox = Нагадваць пра гэта ў наступны раз!
-about-config-warning-button = Я прымаю рызыку
-
-about-config2-title = Пашыраная наладка
-
-about-config-search-input =
-    .placeholder = Шукаць
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Працягвайце з асцярожнасцю
@@ -32,13 +21,6 @@ about-config-page-title = Пашыраныя налады
 about-config-search-input1 =
     .placeholder = Шукаць назву параметра
 about-config-show-all = Паказаць усе
-
-about-config-pref-add = Дадаць
-about-config-pref-toggle = Пераключыць
-about-config-pref-edit = Змяніць
-about-config-pref-save = Захаваць
-about-config-pref-reset = Скінуць
-about-config-pref-delete = Выдаліць
 
 about-config-pref-add-button =
     .title = Дадаць

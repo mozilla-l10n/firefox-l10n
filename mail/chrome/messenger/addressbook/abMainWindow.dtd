@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Праўка">
 <!ENTITY editMenu.accesskey                             "П">
-<!ENTITY undoCmd.label                                  "Адмяніць">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "А">
-<!ENTITY redoCmd.label                                  "Вярнуць">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "В">
-<!ENTITY cutCmd.label                                   "Выразаць">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "р">
-<!ENTITY copyCmd.label                                  "Капіяваць">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "К">
-<!ENTITY pasteCmd.label                                 "Уставіць">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "у">
 <!ENTITY deleteCmd.label                                "Выдаліць">
-<!ENTITY deleteCmd.accesskey                            "д">
 <!ENTITY deleteAbCmd.label                              "Выдаліць адрасную кнігу">
 <!ENTITY deleteContactCmd.label                         "Выдаліць сувязь">
 <!ENTITY deleteContactsCmd.label                        "Выдаліць сувязі">
 <!ENTITY deleteListCmd.label                            "Выдаліць спіс">
 <!ENTITY deleteListsCmd.label                           "Выдаліць спісы">
 <!ENTITY deleteItemsCmd.label                           "Выдаліць адзінкі">
-<!ENTITY selectAllCmd.label                             "Вылучыць усе">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "у">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Абменяць імя/прозвішча">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "м">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "false">
 <!ENTITY propertiesMenu.label                           "Уласцівасці">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Адмяніць">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "м">
 <!ENTITY redoCmd.label "Вярнуць">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "В">
-<!ENTITY cutCmd.label "Выразаць">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "р">
-<!ENTITY copyCmd.label "Капіяваць">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "к">
-<!ENTITY pasteCmd.label "Уставіць">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "у">
 <!ENTITY deleteCmd.label "Выдаліць">
 <!ENTITY deleteCmd.accesskey "д">
-<!ENTITY selectAllCmd.label "Вылучыць усё">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "л">
 <!ENTITY preferencesCmd2.label "Наладжванні">
 <!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">

@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "У архіў">
 <!ENTITY hdrArchiveButton1.tooltip "Архіваваць гэты ліст">
-<!ENTITY hdrOpenConversationButton1.label "Размова">
-<!ENTITY hdrOpenConversationButton1.tooltip "Паказаць размову для гэтага паведамлення">
 <!ENTITY hdrSmartReplyButton1.label "Кемны адказ">
 <!ENTITY hdrReplyButton1.label "Адказаць">
 <!ENTITY hdrReplyButton2.tooltip "Адказаць дасылальніку гэтага ліста">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Адказаць паштоваму спісу">
 <!ENTITY hdrFollowupButton1.label "Даслаць водгук">
 <!ENTITY hdrFollowupButton1.tooltip "Даслаць водгук у навінакупу">
-<!ENTITY hdrMenuForwardButton.label "Накіраваць як">
 <!ENTITY hdrForwardButton1.label "Накіраваць">
 <!ENTITY hdrForwardButton1.tooltip "Накіраваць гэты ліст">
 <!ENTITY hdrJunkButton1.label "Лухта">

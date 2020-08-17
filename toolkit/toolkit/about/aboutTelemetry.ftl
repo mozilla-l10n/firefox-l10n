@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Крыніца дадзеных пінга:
-about-telemetry-show-current-ping-data = Дадзеныя бягучага пінга
 about-telemetry-show-current-data = Бягучыя дадзеныя
 about-telemetry-show-archived-ping-data = Дадзеныя архіўнага пінга
 about-telemetry-show-subsession-data = Адлюстроўваць дадзеныя падсесіі
@@ -77,7 +76,6 @@ about-telemetry-settings-explanation = Тэлеметрыя збірае { about
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Кожная частка інфармацыі адпраўляецца ў камплекце “<a data-l10n-name="ping-link">пінгі</a>”. Вы праглядаеце пінг { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Кожная частка інфармацыі адпраўляецца ў камплекце “<a data-l10n-name="ping-link">пінгі</a>“. Вы праглядаеце пінг бягучы.
 about-telemetry-data-details-current = Кожны фрагмент інфармацыі дасылаецца ў камплекце з "<a data-l10n-name="ping-link">пінгамі</a>". Вы глядзіце на бягучыя дадзеныя.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -103,8 +101,6 @@ about-telemetry-no-search-results-all = Выбачайце! Ні ў адным �
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Выбачайце! Зараз няма ніякіх звестак у “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = бягучы пінг
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = бягучыя дадзеныя
 # used in the “Ping Type” select

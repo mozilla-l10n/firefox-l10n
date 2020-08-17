@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Імя і размяшчэнне крыніцы выбранай функцыі.">
 <!ENTITY performanceUI.table.totalAlloc               "Агульная колькасць выбраных размяшчэнняў">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Агульная колькасць размяшчэнняў Аб'екта, выбраных ў гэтым месцы і ў выкліках.">
-<!ENTITY performanceUI.table.selfAlloc                "Уласныя выбраныя размяшчэнні">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Колькасць размяшчэнняў Аб'екта, выбраных ў гэтым месцы.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

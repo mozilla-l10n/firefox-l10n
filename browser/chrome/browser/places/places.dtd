@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Выбраць файл…">
 <!ENTITY cmd.restoreFromFile.accesskey  "В">
 
-<!ENTITY cmd.deleteDomainData.label     "Забыць гэты сайт">
-<!ENTITY cmd.deleteDomainData.accesskey "З">
-
-<!ENTITY cmd.open.label                  "Адкрыць">
-<!ENTITY cmd.open.accesskey              "А">
-<!ENTITY cmd.open_window.label           "Адкрыць у новым акне">
-<!ENTITY cmd.open_window.accesskey       "н">
-<!ENTITY cmd.open_private_window.label     "Адкрыць у новым прыватным акне">
-<!ENTITY cmd.open_private_window.accesskey "п">
-<!ENTITY cmd.open_tab.label              "Адкрыць у новай картцы">
-<!ENTITY cmd.open_tab.accesskey          "в">
-<!ENTITY cmd.open_all_in_tabs.label      "Адкрыць усе ў картках">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "у">
-
-<!ENTITY cmd.properties.label      "Уласцівасці">
-<!ENTITY cmd.properties.accesskey  "У">
-
-<!ENTITY cmd.sortby_name.label              "Сартаваць па назве">
-<!ENTITY cmd.sortby_name.accesskey          "С">
-<!ENTITY cmd.context_sortby_name.accesskey  "н">
-
-<!ENTITY cmd.new_bookmark.label            "Новая закладка…">
-<!ENTITY cmd.new_bookmark.accesskey        "Н">
-<!ENTITY cmd.new_folder.label              "Новая папка…">
-<!ENTITY cmd.new_folder.accesskey          "Н">
-<!ENTITY cmd.context_new_folder.accesskey  "п">
-<!ENTITY cmd.new_separator.label           "Новы межнік">
-<!ENTITY cmd.new_separator.accesskey       "м">
-
 <!ENTITY col.name.label          "Назва">
 <!ENTITY col.tags.label          "Тэгі">
 <!ENTITY col.url.label           "Адрас">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Колькасць наведванняў">
 <!ENTITY col.dateadded.label     "Дададзена">
 <!ENTITY col.lastmodified.label  "Апошняе змяненне">
-
-<!ENTITY historySearch.placeholder  "Шукаць у гісторыі">
-<!ENTITY bookmarksSearch.placeholder  "Шукаць у закладках">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Выбар элемента для прагляду і праўкі яго ўласцівасцяў">
 
-<!ENTITY view.label               "Прагляд">
-<!ENTITY view.accesskey           "г">
-<!ENTITY byDate.label             "Па даце">
-<!ENTITY byDate.accesskey         "д">
-<!ENTITY bySite.label             "Па сайце">
-<!ENTITY bySite.accesskey         "п">
-<!ENTITY byMostVisited.label      "Па колькасці наведванняў">
-<!ENTITY byMostVisited.accesskey  "л">
-<!ENTITY byLastVisited.label      "Па апошнім наведванні">
-<!ENTITY byLastVisited.accesskey  "а">
-<!ENTITY byDayAndSite.label       "Па даце і сайце">
-<!ENTITY byDayAndSite.accesskey   "і">

@@ -76,15 +76,6 @@
 <!ENTITY notCached.longDesc '<p>Запатрабаваны дакумент не даступны ў кэшы &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Кліккніце "Паспрабаваць зноў", каб запытаць дакумент з сайта зноў.</li></ul>'>
 
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Паспрабуйце зноў. &brandShortName; паспрабуе адкрыць злучэнне і перазагрузіць старонку.
-    <button id='wifi'>Уключыць Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
 <!ENTITY contentEncodingError.longDesc "

@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Скасаваць
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Псуе мой камп'ютар і дадзеныя
-
 abuse-report-damage-reason-v2 = Пашкодзіла мой камп'ютар або кампраметавала мае дадзеныя
 abuse-report-damage-example = Прыклад: Укаранёна шкодная праграма або скрадзены дадзеныя
 
-abuse-report-spam-reason = Стварае спам або рэкламу
-
 abuse-report-spam-reason-v2 = Утрымлівае спам або ўстаўляе непажаданую рэкламу
 abuse-report-spam-example = Прыклад: устаўлены аб'явы на вэб-старонках
-
-abuse-report-settings-reason = Змяніў маю пошукавую сістэму, хатнюю старонку або новую картку, не інфармуючы і не спытаўшы мяне
 
 abuse-report-settings-reason-v2 = Змяніла маю пошукавую сістэму, хатнюю старонку або новую картку, не інфармуючы і не спытаўшы мяне
 abuse-report-settings-suggestions = Перш чым паведаміць аб пашырэнні, вы можаце паспрабаваць змяніць параметры:
 abuse-report-settings-suggestions-search = Змяніць прадвызначаныя налады пошуку
 abuse-report-settings-suggestions-homepage = Змяніць хатнюю старонку і новую картку
 
-abuse-report-deceptive-reason = Выдае сябе за тое, чым не з'яўляецца
-
 abuse-report-deceptive-reason-v2 = Выдае сябе за тое, чым не з'яўляецца
 abuse-report-deceptive-example = Прыклад: Апісанне або выява ўводзіць у зман
-
-abuse-report-broken-reason-extension = Не працуе, псуе вэб-сайты або запавольвае { -brand-product-name }
-abuse-report-broken-reason-theme = Не працуе або парушае адлюстраванне браўзера
 
 abuse-report-broken-reason-extension-v2 = Не працуе, псуе вэб-сайты або запавольвае { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Не працуе або парушае адлюстраванне браўзера
@@ -99,15 +88,11 @@ abuse-report-broken-suggestions-theme =
     вырашыць праблему з функцыянальнасцю - звязацца з распрацоўшчыкам тэмы.
     <a data-l10n-name="support-link">Наведайце вэб-сайт тэмы</a> для звестак пра распрацоўніка.
 
-abuse-report-policy-reason = Ненавісны, гвалтоўны або незаконны змест
-
 abuse-report-policy-reason-v2 = Змяшчае ненавісны, жорсткі ці незаконны змест
 abuse-report-policy-suggestions =
     Заўвага. Аб праблемах аўтарскага права і таварных знакаў неабходна паведамляць у асобным працэсе.
     <a data-l10n-name="report-infringement-link">Выкарыстоўвайце гэтыя інструкцыі</a> каб
     паведаміць пра праблему.
-
-abuse-report-unwanted-reason = Ніколі не хацеў гэта пашырэнне і не магу пазбавіцца ад яго
 
 abuse-report-unwanted-reason-v2 = Ніколі не хацеў гэтага і не ведаю, як гэтага пазбавіцца
 abuse-report-unwanted-example = Прыклад: праграма усталявала гэта без майго дазволу

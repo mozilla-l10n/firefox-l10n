@@ -2,16 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Надзіць існуючы ўліковы запіс эл.пошты">
-
 <!ENTITY name.label                      "Ваша імя:">
 <!ENTITY name.accesskey                  "і">
-<!ENTITY name.placeholder                "Імя Прозвішча">
 <!ENTITY name.text                       "Ваша імя для іншых людзей">
 <!ENTITY email.label                     "Адрас э-пошты:">
 <!ENTITY email.accesskey                 "А">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email.text                      "Ваш існуючы адрас эл.пошты">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
@@ -26,9 +21,6 @@
 <!ENTITY incoming.label                  "Уваходны:">
 <!ENTITY outgoing.label                  "Выходны:">
 <!ENTITY username.label                  "Імя карыстальніка:">
-<!ENTITY hostname.label                  "Назва трымальніка паслугача">
-<!ENTITY port.label                      "Порт">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Апазнаванне">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
@@ -54,8 +46,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Пераправерыць">
 <!ENTITY half-manual-test.accesskey      "е">
-<!ENTITY manual-edit.label               "Ручная наладка">
-<!ENTITY manual-edit.accesskey           "Р">
 <!ENTITY open-provisioner.label          "Атрымаць новы адрас эл.пошты…">
 <!ENTITY open-provisioner.accesskey      "а">
 
