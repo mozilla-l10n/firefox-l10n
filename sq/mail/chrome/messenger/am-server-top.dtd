@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "mesazhe">
 <!ENTITY alwaysAuthenticate.label "Kërko përherë mirëfilltësim kur lidhesh me këtë shërbyes">
 <!ENTITY alwaysAuthenticate.accesskey "k">
-<!ENTITY newsrcFilePath.label "kartelë newsrc:">
-<!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
 <!ENTITY newsrcFilePath1.label "Kartelë News.rc:">
 <!ENTITY newsrcPicker1.label "Përzgjidhni Kartelë News.rc">
 <!ENTITY abbreviate.label "Trego emra grupe lajmesh tek pjesa Dosje Poste si:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Të mëtejshme…">
 <!ENTITY advancedButton.accesskey "m">
 <!ENTITY serverDefaultCharset2.label "Kodim Parazgjedhje Tekstesh:">
-<!ENTITY localPath.label "Drejtori vendore:">
 <!ENTITY localPath1.label "Drejtori Vendore:">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni…">

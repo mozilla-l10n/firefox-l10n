@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Prije">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Kopjoje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Ngjite">
-<!ENTITY pasteCmd.accesskey "N">
-<!ENTITY undoCmd.label "Zhbëje">
-<!ENTITY undoCmd.accesskey "z">
-<!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
-<!ENTITY selectAllCmd.accesskey "i">
-<!ENTITY deleteCmd.label "Fshije">
-<!ENTITY deleteCmd.accesskey "F">
-
 <!ENTITY spellAddToDictionary.label "Shtoje në fjalor">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Zhbëje Shtimin Në Fjalor">

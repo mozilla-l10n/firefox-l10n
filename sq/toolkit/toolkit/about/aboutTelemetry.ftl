@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Burim të dhënash ping-u:
-about-telemetry-show-current-ping-data = Të dhëna ping-u të tanishme
 about-telemetry-show-current-data = Të dhëna të tanishme
 about-telemetry-show-archived-ping-data = Të dhëna ping-u të arkivuara
 about-telemetry-show-subsession-data = Shfaqni të dhëna nënsesioni
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Telemetry-a po grumbullon { about-telemet
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Çdo pjesë të dhënash dërgohet e paketuar në “<a data-l10n-name="ping-link">ping-e</a>”. Po shihni ping-un { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Çdo pjesë të dhënash dërgohet e paketuar në “<a data-l10n-name="ping-link">ping-e</a>”. Po shihni ping-un i tanishmi.
 about-telemetry-data-details-current = Çdo element informacioni dërgohet i paketuar në “<a data-l10n-name="ping-link">pingje</a>“.Po shihni të dhënat e tanishme.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Na ndjeni! S’ka përfundime në ndonj�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Na ndjeni! S’ka të dhëna të passhme në “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping-u i tanishëm
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = të dhëna të tanishme
 # used in the “Ping Type” select

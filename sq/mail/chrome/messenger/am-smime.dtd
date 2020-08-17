@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Siguri">
-<!ENTITY securityTab.label "Siguri">
-<!ENTITY securityHeading.label "Për të marrë dhe dërguar mesazhe të nënshkruar ose të fshehtëzuar, do të duhej të jepni një dëshmi nënshkrimesh shifrore dhe një dëshmi fshehtëzimesh.">
-<!ENTITY encryptionGroupTitle.label "Fshehtëzim">
-<!ENTITY encryptionChoiceLabel.label "Rregullime parazgjedhje fshehtëzimi për dërgim mesazhesh:">
-<!ENTITY neverEncrypt.label "Kurrë (mos përdor fshehtëzim)">
-<!ENTITY neverEncrypt.accesskey "K">
-<!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
-<!ENTITY alwaysEncryptMessage.accesskey "E">
-<!ENTITY encryptionCert.message "Përdorni këtë dëshmi për të fshehtëzuar &amp; shfshehtëzuar mesazhe të dërguar te ju:">
-
 <!ENTITY e2eTitle.label "Fshehtëzim Skaj-Më-Skaj">
-<!ENTITY e2eIntro.description "Që të dërgoni mesazhe të fshehtëzuar ose të nënshkruar në mënyrë dixhitale, ju duhet të formësoni një teknologji fshehtëzimi, OpenPGP ose S/MIME.">
 <!ENTITY e2eLearnMore.label "Mësoni më tepër">
 
 <!ENTITY e2eEnc.description "Pa fshehtëzim skaj-më-skaj lënda e mesazheve është lehtësisht e ekspozuar ndaj furnizuesit tuaj të email-it dhe survejimit masiv.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Spastroje">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Nënshkrim Numerik">
-<!ENTITY signMessage.label "Nënshkruaji mesazhet në mënyrë shifrore (si parazgjedhje)">
 <!ENTITY signMessage2.label "Shtoje, si parazgjedhje, dëshminë time dixhitale">
 <!ENTITY signMessage.accesskey "N">
-<!ENTITY signingCert.message "Përdor këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
-
-<!ENTITY certificates.label "Dëshmi">
-<!ENTITY manageCerts2.label "Administroni Dëshmi">
-<!ENTITY manageCerts2.accesskey "A">
-<!ENTITY manageDevices.label "Pajisje Sigurie">
-<!ENTITY manageDevices.accesskey "S">
 
 <!ENTITY signingCert2.message "Dëshmi personale për nënshkrim dixhital:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Parapëlqe OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Administroni Kyçe OpenPGP">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Përzgjidhni Dëshmi">

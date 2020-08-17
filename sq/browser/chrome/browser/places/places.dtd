@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Zgjidhni Kartelë…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.deleteDomainData.label     "Harroje Këtë Sajt">
-<!ENTITY cmd.deleteDomainData.accesskey "H">
-
-<!ENTITY cmd.open.label                  "Hape">
-<!ENTITY cmd.open.accesskey              "H">
-<!ENTITY cmd.open_window.label           "Hape në Dritare të Re">
-<!ENTITY cmd.open_window.accesskey       "D">
-<!ENTITY cmd.open_private_window.label     "Hape në Dritare të Re Private">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Hape në Skedë të Re">
-<!ENTITY cmd.open_tab.accesskey          "S">
-<!ENTITY cmd.open_all_in_tabs.label      "Hapi Krejt në Skeda">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "T">
-
-<!ENTITY cmd.properties.label      "Veti">
-<!ENTITY cmd.properties.accesskey  "V">
-
-<!ENTITY cmd.sortby_name.label              "Renditi Sipas Emrash">
-<!ENTITY cmd.sortby_name.accesskey          "R">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Faqerojtës i Ri…">
-<!ENTITY cmd.new_bookmark.accesskey        "q">
-<!ENTITY cmd.new_folder.label              "Dosje e Re…">
-<!ENTITY cmd.new_folder.accesskey          "D">
-<!ENTITY cmd.context_new_folder.accesskey  "O">
-<!ENTITY cmd.new_separator.label           "Ndarës i Ri">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Emër">
 <!ENTITY col.tags.label          "Etiketa">
 <!ENTITY col.url.label           "Vendndodhje">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Numër Vizitash">
 <!ENTITY col.dateadded.label     "Shtuar më">
 <!ENTITY col.lastmodified.label  "Ndryshuar Së Fundi">
-
-<!ENTITY historySearch.placeholder  "Kërkoni në historik">
-<!ENTITY bookmarksSearch.placeholder  "Kërkoni te faqerojtësit">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Përzgjidhni një objekt për ta parë dhe për t&amp;i përpunuar vetitë">
 
-<!ENTITY view.label               "Shihni">
-<!ENTITY view.accesskey           "i">
-<!ENTITY byDate.label             "Sipas Datash">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Sipas Sajtesh">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Sipas Më të Vizituarve">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Sipas Vizituar Së Fundi">
-<!ENTITY byLastVisited.accesskey  "F">
-<!ENTITY byDayAndSite.label       "Sipas Datash dhe Sajtesh">
-<!ENTITY byDayAndSite.accesskey   "t">

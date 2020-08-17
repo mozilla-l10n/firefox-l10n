@@ -21,6 +21,9 @@ change-password-reenter = Fjalëkalimi i ri (sërish):
 reset-password-window =
     .title = Ricaktoni Fjalëkalimin e Përgjithshëm
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Riktheje te parazgjedhjet
 reset-password-text = Nëse ricaktoni fjalëkalimin tuaj të përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, të dhëna formularësh, dëshmi vetjake, dhe kyçe private do të harrohen. Jeni i sigurt se doni të ricaktoni fjalëkalimin tuaj të përgjithshëm?

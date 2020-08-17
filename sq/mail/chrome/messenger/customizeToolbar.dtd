@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikona në krah të Tekstit">
 <!ENTITY useSmallIcons.label      "Përdor Ikona të Vogla">
 <!ENTITY restoreDefaultSet.label  "Rikthe Grupin Parazgjedhje">
-<!ENTITY addNewToolbar.label      "Shtoni Panel të Ri">
-<!ENTITY showTitlebar.label       "Shfaq Shtyllë Titujsh">
-<!ENTITY extraDragSpace.label     "Shtoni Hapësirë Tërheqjesh">
 <!ENTITY showTitlebar2.label      "Shtyllë Titujsh">
 <!ENTITY extraDragSpace2.label    "Tërhiqni Hapësirë">
 <!ENTITY saveChanges.label        "U bë">

@@ -24,4 +24,6 @@ otr-require-encryption-info =
     i tyre.
 otr-verifyNudge =
     .label = Kujtomë përherë të verifikoj një kontakt të paverifikuar
+
 otr-notYetAvailable = ende jo gati
+

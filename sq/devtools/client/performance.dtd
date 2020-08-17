@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Emri dhe vendndodhja e burimit të funksionit të kampionizuar.">
 <!ENTITY performanceUI.table.totalAlloc               "Shpërndarje të Kampionizuara Gjithsej">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Numri gjithsej i shpërndarjeve të objekteve të kampionizuara në këtë vend dhe në ato të të thirrurve prej tij.">
-<!ENTITY performanceUI.table.selfAlloc                "Shpërndarje Vetjake të Kampionizuara">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Numri gjithsej i shpërndarjeve të objekteve të kampionizuara në këtë vendndodhje.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

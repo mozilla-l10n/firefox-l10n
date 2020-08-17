@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkivoje">
 <!ENTITY hdrArchiveButton1.tooltip "Arkivojeni këtë mesazh">
-<!ENTITY hdrOpenConversationButton1.label "Bisedë">
-<!ENTITY hdrOpenConversationButton1.tooltip "Shfaq bisedën e këtij mesazhi">
 <!ENTITY hdrSmartReplyButton1.label "Përgjigje e Mençur">
 <!ENTITY hdrReplyButton1.label "Përgjigjuni">
 <!ENTITY hdrReplyButton2.tooltip "Përgjigjiuni dërguesit të këtij mesazhi">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Përgjigjuni te lista e postimeve">
 <!ENTITY hdrFollowupButton1.label "Vazhdim">
 <!ENTITY hdrFollowupButton1.tooltip "Postoni një vazhdim te ky grup lajmesh">
-<!ENTITY hdrMenuForwardButton.label "Përcille Si">
 <!ENTITY hdrForwardButton1.label "Përcille">
 <!ENTITY hdrForwardButton1.tooltip "Përcilleni këtë mesazh">
 <!ENTITY hdrJunkButton1.label "I pavlerë">

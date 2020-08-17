@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Hic sunt leones!
-about-config-warning-text = Ndryshimi i vlerave për këto rregullime të mëtejshme mund të jetë i dëmshëm për qëndrueshmërinë, sigurinë, dhe funksionimin e këtij aplikacioni. Duhet të vazhdoni vetëm nëse jeni i sigurt për çka po bëni.
-about-config-warning-checkbox = Bezdismëni prapë, ju lutem!
-about-config-warning-button = E pranoj rrezikun
-
-about-config2-title = Formësime të Thelluara
-
-about-config-search-input =
-    .placeholder = Kërkoni
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Vazhdoni me Kujdes
@@ -32,13 +21,6 @@ about-config-page-title = Parapëlqime të Mëtejshme
 about-config-search-input1 =
     .placeholder = Kërkoni për emër parapëlqimi
 about-config-show-all = Shfaqi Krejt
-
-about-config-pref-add = Shtoje
-about-config-pref-toggle = Këmbeje
-about-config-pref-edit = Përpunojeni
-about-config-pref-save = Ruaje
-about-config-pref-reset = Riktheje te parazgjedhjet
-about-config-pref-delete = Fshije
 
 about-config-pref-add-button =
     .title = Shtoni

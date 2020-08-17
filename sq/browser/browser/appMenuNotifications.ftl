@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Administroni shtesat tuaj duke klikuar <ima
 appmenu-addon-post-install-incognito-checkbox =
     .label = Lejoje këtë zgjerim të xhirojë në Dritare Private
     .accesskey = L
-appmenu-addon-private-browsing =
-    .label = Ndryshim te zgjerime në Dritare Private
-    .buttonlabel = Administroni Zgjerime
-    .buttonaccesskey = A
-    .secondarybuttonlabel = OK, e mora vesh
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Çfarëdo zgjerimesh të reja që shtoni te { -brand-shorter-name } s’do të funksionojë në Dritare Private, veç në e lejofshi ju këtë te rregullimet.
-appmenu-addon-private-browsing-learn-more = Mësoni si të administroni rregullime zgjerimesh.
     
 appmenu-new-tab-controlled =
     .label = Rregullimet tuaja për Skedë të Re kanë ndryshuar.
