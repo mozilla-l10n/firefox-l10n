@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Pictogrammen naast tekst">
 <!ENTITY useSmallIcons.label      "Kleine pictogrammen">
 <!ENTITY restoreDefaultSet.label  "Standaardset herstellen">
-<!ENTITY addNewToolbar.label      "Nieuwe werkbalk">
-<!ENTITY showTitlebar.label       "Titelbalk tonen">
-<!ENTITY extraDragSpace.label     "Sleepruimte toevoegen">
 <!ENTITY showTitlebar2.label      "Titelbalk">
 <!ENTITY extraDragSpace2.label    "Sleepruimte">
 <!ENTITY saveChanges.label        "Gereed">

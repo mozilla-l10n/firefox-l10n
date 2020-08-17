@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Bewerken">
 <!ENTITY editMenu.accesskey                             "W">
-<!ENTITY undoCmd.label                                  "Ongedaan maken">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "O">
-<!ENTITY redoCmd.label                                  "Opnieuw uitvoeren">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "u">
-<!ENTITY cutCmd.label                                   "Knippen">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "N">
-<!ENTITY copyCmd.label                                  "Kopiëren">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Plakken">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Verwijderen">
-<!ENTITY deleteCmd.accesskey                            "V">
 <!ENTITY deleteAbCmd.label                              "Adresboek verwijderen">
 <!ENTITY deleteContactCmd.label                         "Contact verwijderen">
 <!ENTITY deleteContactsCmd.label                        "Contacten verwijderen">
 <!ENTITY deleteListCmd.label                            "Lijst verwijderen">
 <!ENTITY deleteListsCmd.label                           "Lijsten verwijderen">
 <!ENTITY deleteItemsCmd.label                           "Items verwijderen">
-<!ENTITY selectAllCmd.label                             "Alles selecteren">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "A">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Voor-/achternaam wisselen">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Eigenschappen">
 <!ENTITY propertiesMenu.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">

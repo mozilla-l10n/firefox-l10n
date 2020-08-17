@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiveren">
 <!ENTITY hdrArchiveButton1.tooltip "Dit bericht archiveren">
-<!ENTITY hdrOpenConversationButton1.label "Conversatie">
-<!ENTITY hdrOpenConversationButton1.tooltip "Conversatie van dit bericht tonen">
 <!ENTITY hdrSmartReplyButton1.label "Slim beantwoorden">
 <!ENTITY hdrReplyButton1.label "Beantwoorden">
 <!ENTITY hdrReplyButton2.tooltip "Afzender van dit bericht beantwoorden">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Mailinglijst beantwoorden">
 <!ENTITY hdrFollowupButton1.label "Reageren">
 <!ENTITY hdrFollowupButton1.tooltip "Een reactie in deze nieuwsgroep plaatsen">
-<!ENTITY hdrMenuForwardButton.label "Doorsturen als">
 <!ENTITY hdrForwardButton1.label "Doorsturen">
 <!ENTITY hdrForwardButton1.tooltip "Dit bericht doorsturen">
 <!ENTITY hdrJunkButton1.label "Ongewenst">

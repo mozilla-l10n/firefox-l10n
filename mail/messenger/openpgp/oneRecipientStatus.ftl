@@ -16,12 +16,15 @@ openpgp-one-recipient-status-open-details =
     .label = Details openen en acceptatie bewerken…
 openpgp-one-recipient-status-discover =
     .label = Nieuwe of bijgewerkte sleutel ontdekken
+
 openpgp-one-recipient-status-instruction1 = Om een end-to-end-versleuteld bericht naar een ontvanger te sturen, dient u diens publieke OpenPGP-sleutel te verkrijgen en deze als geaccepteerd te markeren.
 openpgp-one-recipient-status-instruction2 = Om de publieke sleutel te verkrijgen, importeert u deze vanuit het e-mailbericht waarin de sleutel is opgenomen dat ze u hebben verzonden. U kunt ook proberen hun publieke sleutel in een map te vinden.
+
 openpgp-key-own = Geaccepteerd (persoonlijke sleutel)
 openpgp-key-secret-not-personal = Niet bruikbaar
 openpgp-key-verified = Geaccepteerd (geverifieerd)
 openpgp-key-unverified = Geaccepteerd (niet geverifieerd)
 openpgp-key-undecided = Niet geaccepteerd (onbeslist)
 openpgp-key-rejected = Niet geaccepteerd (afgewezen)
+
 openpgp-intro = Beschikbare publieke sleutels voor { $key }

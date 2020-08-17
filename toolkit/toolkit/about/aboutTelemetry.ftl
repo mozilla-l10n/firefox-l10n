@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping-gegevensbron:
-about-telemetry-show-current-ping-data = Huidige ping-gegevens
 about-telemetry-show-current-data = Huidige gegevens
 about-telemetry-show-archived-ping-data = Gearchiveerde ping-gegevens
 about-telemetry-show-subsession-data = Subsessiegegevens tonen
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Telemetry verzamelt { about-telemetry-dat
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Elk stukje gegevens wordt gebundeld in ‘<a data-l10n-name="ping-link">pings</a>’ verzonden. U kijkt naar de ping { $timestamp } van { $name }.
-about-telemetry-ping-details-current = Elk stukje gegevens wordt gebundeld in ‘<a data-l10n-name="ping-link">pings</a>’ verzonden. U kijkt naar de huidige ping.
 about-telemetry-data-details-current = Elk stukje informatie wordt gebundeld verzonden in ‘<a data-l10n-name="ping-link">pings</a>’. U kijkt naar de actuele gegevens.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Sorry! Er zijn geen secties met resultat
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Sorry! Er zijn momenteel geen gegevens beschikbaar in ‘{ $sectionName }’
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = huidige ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = huidige gegevens
 # used in the “Ping Type” select

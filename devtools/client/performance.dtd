@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "De naam en bronlocatie van de bemonsterde functie">
 <!ENTITY performanceUI.table.totalAlloc               "Totale bemonsterde toewijzingen">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Het totale aantal op deze locatie en in aanroepstructuren bemonsterde objecttoewijzingen">
-<!ENTITY performanceUI.table.selfAlloc                "Eigen bemonsterde toewijzingen">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Het aantal op deze locatie bemonsterde objecttoewijzingen">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

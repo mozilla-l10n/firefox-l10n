@@ -23,4 +23,6 @@ otr-require-encryption-info =
     worden niet getoond als onderdeel van het reguliere gesprek en ook niet geregistreerd.
 otr-verifyNudge =
     .label = Mij altijd eraan herinneren een ongeverifieerd contact te verifiëren
+
 otr-notYetAvailable = nog niet beschikbaar
+
