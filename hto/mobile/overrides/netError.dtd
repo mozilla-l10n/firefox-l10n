@@ -43,9 +43,6 @@
 <!ENTITY notCached.longDesc "<p>Jɨkaka rábeniko beno iñede íemo caché &brandShortName;.</p><ul><li>Ñúe éroiri ñúe íyena, &brandShortName; Rábeniko jɨkañede dáma ízoi</li><li>Bénomo jeta ábɨdo kómue taɨneyena jɨkanoyena rábeniko bíe íyano  web.</li></ul>">
 
 <!ENTITY netOffline.title "Nítaoinide bírui íte">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Ábɨdo fɨnode. &brandShortName; nítaóide abɨdo tuñoye, rábe abɨdo rokaye. <button id='wifi'>Bónode Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Fákara íyano núe íñede.">
 <!ENTITY contentEncodingError.longDesc "<ul><li> Naamakɨ béno níta  íyano web ñúeñede yoyena </li></ul>">

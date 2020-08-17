@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Nɨzeye
-           *[other] Kúe gaɨga
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Nɨzeye
@@ -238,8 +231,6 @@ choose-bookmark =
 
 sync-signedout-description = Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.
 
-sync-signedout-account-title = Zɨtade { -fxaccount-brand-name }
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -280,10 +271,6 @@ sync-engine-history =
 ## The device name controls.
 
 sync-device-name-header = Jóriaɨ mámekɨ
-
-sync-tos-link = Taɨniamo, ñúe ite
-
-sync-fxa-privacy-notice = Káɨe bíe fáka Dáma kue úai
 
 ## Privacy Section
 
@@ -389,6 +376,8 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

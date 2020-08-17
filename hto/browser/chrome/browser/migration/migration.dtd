@@ -6,8 +6,6 @@
 <!ENTITY migrationWizard.title          "Atɨka ɨmɨe">
 
 
-<!ENTITY importFromBookmarks.label      "Átɨri rigɨnoa bíemo:">
-
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">

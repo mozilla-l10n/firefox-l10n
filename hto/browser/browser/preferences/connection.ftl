@@ -6,10 +6,6 @@ connection-proxy-option-no =
     .label = Proxy íñede
     .accesskey = P
 
-connection-proxy-http-share =
-    .label = Dano proxy nana taɨji
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

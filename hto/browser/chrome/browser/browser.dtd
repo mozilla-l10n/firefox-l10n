@@ -7,11 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 
@@ -104,11 +99,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY fullScreenClose.tooltip "Ɨ́baide">
-
-
-
-
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -139,33 +129,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "Tuñoka úitɨraɨ zota...">
-
-
-
-
-
-
-
-
-
-
-<!ENTITY backCmd.label                "Ɨfede">
-<!ENTITY backButton.tooltip           "Jɨáɨkena rábe jáiri">
-<!ENTITY forwardCmd.label             "Báɨfene">
-<!ENTITY forwardButton.tooltip        "Báɨfene rábe jáiri">
-
-<!ENTITY backForwardButtonMenuMac.tooltip "Gɨgɨta jágaɨ kɨoiyena">
-<!ENTITY reloadCmd.label              "Ábɨdo taɨne">
-<!ENTITY stopCmd.label                "Mozide">
-<!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY printButton.label            "Rábe fɨnoraɨma">
 <!ENTITY printButton.tooltip          "Bíe Rábe fɨno">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Bíe íyano ráfue ákata">
 
 
 
@@ -177,20 +145,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bíe rabe jɨaɨe úiado jóne">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kúe dáma bíe rabe jɨaɨe úiado jóne">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Software DRM kúe dáma taɨjɨa">
-
-
-
-
-
-
-
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Ákatari jágaɨ">
 
 <!-- Toolbar items -->
 
@@ -198,7 +152,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Táɨnia">
 
 <!ENTITY bookmarksButton.label          "Rɨgɨnoga">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 
 
@@ -214,94 +167,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Jaganɨaɨ">
-<!ENTITY historySidebarCmd.commandKey   "ch">
-
-<!ENTITY toolsMenu.label              "Ránɨaɨ táɨjɨyena">
-<!ENTITY toolsMenu.accesskey          "R">
 
 
 
 <!ENTITY downloads.label              "Yúnua">
-<!ENTITY downloads.accesskey          "Y">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Jɨaɨe">
-<!ENTITY addons.accesskey             "J">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Web fɨnorɨma">
-<!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY inspectContextMenu.label     "Ráanɨaɨ éroiye">
-<!ENTITY inspectContextMenu.accesskey "I">
-
-<!ENTITY fileMenu.label         "Jónia ráa">
-<!ENTITY fileMenu.accesskey       "J">
 
 
 <!ENTITY newNavigatorCmd.label        "Kómue eroirafo">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "K">
 <!ENTITY newPrivateWindow.label     "Dáma kúe kómue eroirafo">
-<!ENTITY newPrivateWindow.accesskey "e">
 
 <!ENTITY editMenu.label         "Abɨdo Fɨnode">
-<!ENTITY editMenu.accesskey       "A">
-<!ENTITY undoCmd.label            "Óni dóta">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "Ó">
-<!ENTITY redoCmd.label            "Ábɨdo jóne">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "Á">
-<!ENTITY cutCmd.label           "Kotade">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "d">
 
 
 
-<!ENTITY pasteCmd.label           "Níta">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "N">
-<!ENTITY deleteCmd.label          "Fúitade">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "F">
-<!ENTITY selectAllCmd.label         "Nána nɨze">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "n">
 <!ENTITY preferencesCmd2.label       "Nɨzede">
-<!ENTITY preferencesCmd2.accesskey     "N">
 <!ENTITY preferencesCmdUnix.label       "Kúe gaɨga">
-<!ENTITY preferencesCmdUnix.accesskey     "g">
-
-<!ENTITY clearRecentHistory.label               "Kómue jagaɨ dono...">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Éroi">
-<!ENTITY viewMenu.accesskey       "É">
-<!ENTITY viewToolbarsMenu.label       "Jófo tajɨyena ránɨɨ">
-<!ENTITY viewToolbarsMenu.accesskey     "r">
-<!ENTITY viewSidebarMenu.label "Úieko rádozi">
-<!ENTITY viewSidebarMenu.accesskey "r">
-
-<!ENTITY viewCustomizeToolbar.label       "Kúe dama íena…">
-<!ENTITY viewCustomizeToolbar.accesskey     "K">
 
 
 
 <!ENTITY historyMenu.label "Jagaɨ">
-<!ENTITY historyMenu.accesskey "J">
 <!ENTITY historyUndoMenu.label "Kómo ɨ́baika úitɨraɨ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Kómo ɨ́baika éroraifo">
 
-
-<!ENTITY showAllHistoryCmd2.label "Nána jagaɨ éroita">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Nána jagaɨ éroita">
 <!ENTITY appMenuHistory.clearRecent.label "Kómue jagaɨ dono...">
@@ -351,13 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
-<!ENTITY openCmd.commandkey           "I">
-
-<!ENTITY urlbar.placeholder2          "Jéno íe kúeno bíe íyano">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.switchToTab.label     "Jɨaɨe úitɨraɨ jóne:">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
@@ -385,14 +270,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-
-<!ENTITY contentSearchInput.label     "Jɨkánoyena jéno">
 
 <!ENTITY contentSearchSubmit.tooltip  "Jenóyena  óre">
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -402,8 +282,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!ENTITY searchFor.label              "Jéno:">
-<!ENTITY searchWith.label             "Bíedo:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -411,70 +289,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
-<!ENTITY search.label                 "Jéno">
-<!ENTITY searchAfter.label            "?">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 
-<!ENTITY searchWithHeader.label       "Biedo jéno:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Jenóyena jɨaɨena jóne">
 
-
-<!ENTITY searchInNewTab.label         "Kómue úitɨraɨ jéno">
-<!ENTITY searchInNewTab.accesskey     "ú">
-
-
-
-<!ENTITY openLinkCmdInTab.label       "Tuñoka úitɨraɨ kómue">
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Tuñoka úitɨraɨ kómue">
-<!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Tuñoka úitɨraɨ kómue dáma">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
-<!ENTITY openLinkCmdInCurrent.label     "Tuño úitaka">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "Tuñoka úitɨraɨ kómue">
-<!ENTITY openFrameCmdInTab.accesskey  "k">
-<!ENTITY openFrameCmd.label           "Tuñoka úitɨraɨ kómue">
-<!ENTITY openFrameCmd.accesskey       "k">
 
 
-
-
-<!ENTITY reloadCmd.commandkey         "r">
-
-
-
-
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-
-
-
-
-
-
-
-
-
-
-<!ENTITY viewImageCmd.label           "Jána ákata">
-<!ENTITY viewImageCmd.accesskey       "á">
-
-
-
-
-<!ENTITY viewVideoCmd.label           "Ákata Joreño fɨnóka ">
-<!ENTITY viewVideoCmd.accesskey       "f">
-<!ENTITY viewBGImageCmd.label         "Ákata jána anáfene">
-<!ENTITY viewBGImageCmd.accesskey     "a">
 
 
 
@@ -484,64 +308,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY emailPageCmd.label           "óre zótaka...">
-<!ENTITY emailPageCmd.accesskey       "ó">
-<!ENTITY savePageCmd.label            "Jóne bénomo...">
-<!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "ss">
 
 
 
 
-
-
-<!ENTITY saveImageCmd.label           "Béno joreño jóne...">
-<!ENTITY saveImageCmd.accesskey       "j">
-
-
-
-
-<!ENTITY emailImageCmd.label          "Jána óre...">
-<!ENTITY emailImageCmd.accesskey      ".">
-<!ENTITY emailVideoCmd.label          "Óre&amp; jóreño fɨnoka...">
-<!ENTITY emailVideoCmd.accesskey      "a">
-
-
-
-
-<!ENTITY hidePluginCmd.label          "Retáido&amp; bíe plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
-
-
-
-
-<!ENTITY copyImageContentsCmd.label   "Fakádote jana">
-<!ENTITY copyImageContentsCmd.accesskey  "j">
-
-
-
-
-<!ENTITY copyEmailCmd.label           "Fakádote úiraɨma">
-<!ENTITY copyEmailCmd.accesskey       "ú">
 
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
-<!ENTITY mediaPlay.label             "Abɨdo bóno">
-<!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "Fɨaikana">
-<!ENTITY mediaPause.accesskey        "F">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Kákanide">
-<!ENTITY mediaMute.accesskey         "K">
-<!ENTITY mediaUnmute.label           "Kákareide">
-<!ENTITY mediaUnmute.accesskey       "K">
 
 
 
@@ -558,17 +334,6 @@ fast. -->
 
 
 
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Okuíra Ákatairi">
-<!ENTITY mediaShowControls.accesskey "Á">
-<!ENTITY mediaHideControls.label     "Okuíra Rétaido">
-<!ENTITY mediaHideControls.accesskey "R">
-<!ENTITY videoFullScreen.label       "Nána éroiya ráa">
-<!ENTITY videoFullScreen.accesskey   "N">
-<!ENTITY videoSaveImage.label        "Yɨnoga bíe ízoi jóne…">
-<!ENTITY videoSaveImage.accesskey    "Y">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -582,52 +347,16 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Jebuide">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "J">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "?">
-
-<!ENTITY fullZoomReduceCmd.label        "Abɨdo bóno">
-<!ENTITY fullZoomReduceCmd.accesskey    "A">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "?">
-
-<!ENTITY fullZoomResetCmd.label         "Taɨnede">
-<!ENTITY fullZoomResetCmd.accesskey     "T">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "?">
-
-<!ENTITY fullZoomToggleCmd.label        "Dama rábe jɨaɨe jóne">
-<!ENTITY fullZoomToggleCmd.accesskey    "D">
-
 <!ENTITY fullZoom.label                 "Dɨeze">
-<!ENTITY fullZoom.accesskey             "D">
 
 
 
 <!ENTITY quitApplicationCmdWin2.label       "Jino jaide">
 <!ENTITY quitApplicationCmdWin2.accesskey   "J">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Jino jaide íedo &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Jáiri">
 <!ENTITY quitApplicationCmd.accesskey   "J">
 <!ENTITY quitApplicationCmdMac2.label   "Jáiri íedo &brandShorterName;">
-
-
-<!ENTITY closeCmd.label                 "Ɨ́baide">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "Ɨ">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-
-<!ENTITY pageStyleNoStyle.label "Óni óno">
-<!ENTITY pageStyleNoStyle.accesskey "Ó">
-<!ENTITY pageStylePersistentOnly.label "Dái íte">
-<!ENTITY pageStylePersistentOnly.accesskey "D">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -641,31 +370,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Rabemo&amp; jéno bíe íyano...">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Ábɨdo jéno">
-<!ENTITY findAgainCmd.accesskey "j">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Úai íyano jóne...">
 <!ENTITY spellAddDictionaries.accesskey "Ú">
 
 
 
-<!ENTITY identity.connectionSecure "Ñúe nitáde">
-<!ENTITY identity.connectionNotSecure "Ñúe nitánoñede">
-
-
-
-
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.passiveLoaded "Bíe rábe afenedo ñúe íñede (jána izoi).">
 
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -679,28 +390,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY identity.enableMixedContentBlocking.label "Rɨidite bonua">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "R">
-
-
-<!ENTITY identity.learnMore "Aiyo onóde">
-
-
-
-<!ENTITY identity.moreInfoLinkText2 "Jamano ráfue">
-
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 
 <!ENTITY tabsToolbar.label "Mákara úitɨraɨ">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu3.label     "Dáamakɨ úitɨraɨ">
-
-<!ENTITY syncedTabs.sidebar.label              "Dáamakɨ úitɨraɨ">
 
 
 
@@ -730,14 +425,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Dáamakɨ">
 
-<!ENTITY syncSignIn.label             "Taɨnede &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Bírui dáamakɨ">
-<!ENTITY syncSyncNowItem.accesskey    "B">
-<!ENTITY syncReAuthItem.label         "Ábɨdo jóne  &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "Á">
-<!ENTITY syncToolbarButton.label      "Dáamakɨ">
-
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -757,13 +444,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY getUserMedia.selectCamera.label "Jóreño óra fekáyena:">
-<!ENTITY getUserMedia.selectCamera.accesskey "J">
-<!ENTITY getUserMedia.selectMicrophone.label "Fekayena úriraiya:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "F">
-
-
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -773,8 +453,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 
-<!ENTITY pluginNotification.showAll.label "Nate ákatairi">
-<!ENTITY pluginNotification.showAll.accesskey "N">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
@@ -782,8 +460,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Ɨ́baide">
@@ -795,9 +471,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Kómue jágaɨ féide.">
 <!ENTITY panicButton.thankyou.msg2                "¡Fɨaɨkana makára!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Fɨgóra!">
-
-<!ENTITY emeLearnMoreContextMenu.label            "Aiyo onóde bémo DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
 

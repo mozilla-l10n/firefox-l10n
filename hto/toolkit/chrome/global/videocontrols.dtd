@@ -11,16 +11,6 @@
 <!ENTITY castingButton.castingLabel "Eroiya ráa óre">
 
 
-<!ENTITY stats.media "Dɨnodo">
-<!ENTITY stats.size "Dɨeze">
-
-<!ENTITY stats.activityPaused "Fɨaikana íte">
-
-<!ENTITY stats.activityEnded "Fúitaka">
-<!ENTITY stats.activitySeeking "(Jénojenode)">
-<!ENTITY stats.volume "Kakáiyena">
-
-
 
 
 
@@ -36,7 +26,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 de #2 jáide">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

@@ -53,30 +53,6 @@
 
 
 
-<!ENTITY cmd.enableAddon.label                "Bónode">
-<!ENTITY cmd.enableAddon.accesskey            "B">
-<!ENTITY cmd.disableAddon.label               "Duitaga">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-
-
-
-
-
-
-
-<!ENTITY cmd.neverActivate.label              "Bíe bónñeiga">
-
-
-<!ENTITY cmd.uninstallAddon.label             "Óni óno">
-<!ENTITY cmd.uninstallAddon.accesskey         "ó">
-
-
-<!ENTITY cmd.showPreferencesUnix.label        "Kúe gaɨga">
-
-
-
-
 
 
 
@@ -131,37 +107,11 @@
 
 
 
-<!ENTITY addon.unknownDate                    "Onóñegamakɨ">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(duitaga)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.undoAction.label               "Óni dóta">
-
-<!ENTITY addon.undoRemove.label               "Óni dóta">
-
-<!ENTITY addon.install.label                  "Jónete">
-
-<!ENTITY addon.updateNow.label                "Bírui méidoye">
 
 
-
-<!ENTITY addon.checkingForUpdates.label       "Méidoyena jénode...">
-<!ENTITY addon.releaseNotes.label             "Kúiana:">
-<!ENTITY addon.loadingReleaseNotes.label      "Abɨ́abɨde...">
-
-
-<!ENTITY addon.createdBy.label                "Nɨbai ">
-
-
-<!ENTITY settings.path.button.label           "Ñúe éroi...">
 
 <!ENTITY setting.learnmore "Aiyo onóde...">
 

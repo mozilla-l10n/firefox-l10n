@@ -66,8 +66,6 @@ media-save-as =
 media-save-image-as =
     .label = Bíe ízoi jóne…
     .accesskey = e
-media-preview =
-    .value = Dáfeneido éroi:
 
 perm-tab =
     .label = Jɨkano
@@ -114,7 +112,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Onóñegamakɨ
-not-set-verified-by = Fɨnoyega
 page-info-not-specified =
     .value = Fɨnoyega
 not-set-alternative-text = Fɨnoyega

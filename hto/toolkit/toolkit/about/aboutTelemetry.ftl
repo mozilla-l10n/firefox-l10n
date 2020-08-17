@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Jíyakɨmona ráanɨaɨ ping:
-about-telemetry-show-current-ping-data = Bíruimo ráanɨaɨ ping
 about-telemetry-choose-ping = Nɨzede ping:
 about-telemetry-archive-ping-header = Ping
 about-telemetry-page-title = Ráanɨaɨ Telemetry
