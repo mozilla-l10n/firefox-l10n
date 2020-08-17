@@ -39,6 +39,7 @@ compatibility-issue-occurrences =
         [few] { $number } pojavljivanja
        *[other] { $number } pojavljivanja
     }
+
 compatibility-no-issues-found = Nema problema s kompatibilnošću.
 compatibility-close-settings-button =
     .title = Zatvori postavke

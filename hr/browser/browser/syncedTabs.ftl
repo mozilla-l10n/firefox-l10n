@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinkronizirane kartice
 synced-tabs-sidebar-noclients-subtitle = Želiš li ovdje vidjeti tvoje kartice s drugih uređaja?
-synced-tabs-sidebar-notsignedin = Prijavi se za prikaz kartica s tvojih ostalih uređaja.
 synced-tabs-sidebar-intro = Pogledaj popis kartica s tvojih ostalih uređaja.
 synced-tabs-sidebar-unverified = Tvoj račun mora biti potvrđen.
 synced-tabs-sidebar-notabs = Nema otvorenih kartica

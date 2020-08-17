@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Odaberi datoteku …">
 <!ENTITY cmd.restoreFromFile.accesskey  "O">
 
-<!ENTITY cmd.deleteDomainData.label     "Zaboravi ovu stranicu">
-<!ENTITY cmd.deleteDomainData.accesskey "Z">
-
-<!ENTITY cmd.open.label                  "Otvori">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Otvori u novom prozoru">
-<!ENTITY cmd.open_window.accesskey       "p">
-<!ENTITY cmd.open_private_window.label     "Otvori u novom privatnom prozoru">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Otvori u novoj kartici">
-<!ENTITY cmd.open_tab.accesskey          "k">
-<!ENTITY cmd.open_all_in_tabs.label      "Otvori sve u karticama">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "s">
-
-<!ENTITY cmd.properties.label      "Svojstva">
-<!ENTITY cmd.properties.accesskey  "S">
-
-<!ENTITY cmd.sortby_name.label              "Poredaj po imenu">
-<!ENTITY cmd.sortby_name.accesskey          "P">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nova zabilješka…">
-<!ENTITY cmd.new_bookmark.accesskey        "z">
-<!ENTITY cmd.new_folder.label              "Nova mapa…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "m">
-<!ENTITY cmd.new_separator.label           "Novi razdjelnik">
-<!ENTITY cmd.new_separator.accesskey       "r">
-
 <!ENTITY col.name.label          "Ime">
 <!ENTITY col.tags.label          "Oznake">
 <!ENTITY col.url.label           "Lokacija">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Broj posjeta">
 <!ENTITY col.dateadded.label     "Dodano">
 <!ENTITY col.lastmodified.label  "Zadnje izmijenjeno">
-
-<!ENTITY historySearch.placeholder  "Povijest pretraživanja">
-<!ENTITY bookmarksSearch.placeholder  "Pretraži zabilješke">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Odaberi stavku za pregled i uređivanje njenih svojstava">
 
-<!ENTITY view.label               "Prikaz">
-<!ENTITY view.accesskey           "i">
-<!ENTITY byDate.label             "Prema datumu">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Prema stranici">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Prema posjećenosti">
-<!ENTITY byMostVisited.accesskey  "e">
-<!ENTITY byLastVisited.label      "Prema zadnjem posjetu">
-<!ENTITY byLastVisited.accesskey  "r">
-<!ENTITY byDayAndSite.label       "Prema datumu i stranici">
-<!ENTITY byDayAndSite.accesskey   "t">

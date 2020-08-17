@@ -2,30 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-private-browsing-learn-more = Saznaj više o <a data-l10n-name="learn-more">privatnom pregledavanju</a>.
-about-private-browsing-info-visited = posjećene stranica
 privatebrowsingpage-open-private-window-label = Otvori privatni prozor
     .accesskey = p
-about-private-browsing-info-notsaved = Kada pregledavaš u privatnom prozoru, { -brand-short-name } <strong>ne sprema</strong>:
 about-private-browsing-search-placeholder = Pretraži web
-about-private-browsing-info-bookmarks = zabilješke
 about-private-browsing-info-title = Nalaziš se u privatnom prozoru
-about-private-browsing-info-searches = pretraživanja
-about-private-browsing-info-downloads = preuzimanja
-private-browsing-title = Privatno pregledavanje
-about-private-browsing-info-saved = { -brand-short-name } <strong>će spremiti</strong> tvoja:
 about-private-browsing-info-myths = Česti mitovi o privatnom pregledavanju
-about-private-browsing-info-clipboard = kopirani tekst
-about-private-browsing-info-temporary-files = privremene datoteke
-about-private-browsing-info-cookies = kolačiće
-tracking-protection-start-tour = Saznaj kako radi
-about-private-browsing-note = Privatno pregledavanje <strong>te ne čini anonimnim</strong> na internetu. Tvoj poslodavac ili pružatelj internet usluga svejedno može pratiti koje stranice posjećuješ.
 about-private-browsing =
     .title = Pretraži web
 about-private-browsing-not-private = Trenutačno nisi u privatnom prozoru.
-content-blocking-title = Blokiranje sadržaja
-content-blocking-description = Neke web stranice koriste skripte za praćenje koje nadgledaju tvoju aktivnost diljem Interneta. U privatnom načinu, { -brand-short-name } blokiranje sadržaja automatski blokira mnoge skripte za praćenje koje bi mogle prikupljati informacije o tvom pregledavanju.
 about-private-browsing-info-description = { -brand-short-name } čisti tvoju povijest pretraživanja i pregledavanja kad izađeš iz aplikacije ili kad zatvoriš sve kartice i prozore privatnog pregledavanja. Ovo te ne čini anonimnim prema web-stranicama ili tvom pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržiš privatnim ono što radiš na internetu od ostalih osoba koje koriste ovo računalo.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Premjesti u novi prozor
     .accesskey = z
-undo-close-tab =
-    .label = Poništi zatvaranje kartice
-    .accesskey = P
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

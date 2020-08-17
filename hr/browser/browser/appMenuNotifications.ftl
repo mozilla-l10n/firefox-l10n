@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = Upravljaj svojim dodacima klikom na <image 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dozvoli ovom dodatku da radi u privatnom prozoru
     .accesskey = a
-appmenu-addon-private-browsing =
-    .label = Promijeni u dodatke u privatnim prozorima
-    .buttonlabel = Upravljanje dodacima
-    .buttonaccesskey = d
-    .secondarybuttonlabel = U redu, razumijem
-    .secondarybuttonaccesskey = U
-appmenu-addon-private-browsing-message = Nove dodatke koje dodaš u { -brand-shorter-name } neće raditi u privatnim prozorima, ukoliko to ne dozvoliš u postavkama.
-appmenu-addon-private-browsing-learn-more = Saznaj kako upravljati postavkama dodataka
+    
 appmenu-new-tab-controlled =
     .label = Tvoja nova kartica je promijenjena.
     .buttonlabel = Zadrži promjene

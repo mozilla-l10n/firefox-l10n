@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Vrsta mape:">
 
 <!ENTITY folderQuotaTab.label                    "Kvota">
-<!ENTITY folderQuotaRoot.label                   "Root kvota:">
 <!ENTITY folderQuotaUsage.label                  "Upotreba:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

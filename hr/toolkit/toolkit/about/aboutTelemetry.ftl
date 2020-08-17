@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Izvor ping podataka:
-about-telemetry-show-current-ping-data = Trenutačni ping podaci
 about-telemetry-show-current-data = Trenutačni podaci
 about-telemetry-show-archived-ping-data = Arhivirani ping podaci
 about-telemetry-show-subsession-data = Prikaži podatke podsesije
@@ -70,7 +69,6 @@ about-telemetry-page-subtitle = Ova stranica prikazuje informacije o perfomansi,
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Svaki dio informacije je poslan u paketu s “<a data-l10n-name="ping-link">pingovi</a>”. Gledate na { $name }, { $timestamp } ping.
-about-telemetry-ping-details-current = Svaki dio informacije je poslan u paketu s “<a data-l10n-name="ping-link">pingovi</a>“. Gledate na trenutno ping.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -95,8 +93,6 @@ about-telemetry-no-search-results-all = Nema rezultata u bilo kojem odjeljku za 
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = “{ $sectionName }” trenutno nema dostupnih podataka
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = trenutačni ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = trenutačni podaci
 # used in the “Ping Type” select

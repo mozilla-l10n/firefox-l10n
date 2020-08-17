@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Ponovi">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "P">
-<!ENTITY cutCmd.label "Izreži">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "I">
-<!ENTITY copyCmd.label "Kopiraj">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Zalijepi">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "Z">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "n">
@@ -90,10 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Okno privitka">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "o">
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Označi sve">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Traži…">
 <!ENTITY findBarCmd.accesskey "T">
 <!ENTITY findBarCmd.key "T">
@@ -248,23 +239,12 @@
 <!ENTITY printButton.tooltip "Ispiši ovu poruku">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Šalje:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Druge vrste polja za adresiranje">
 <!ENTITY fromAddr2.label "Šalje">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr.label "Prima:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Odgovori na:">
-<!ENTITY newsgroupsAddr.label "Interesna grupa:">
-<!ENTITY followupAddr.label "Nastavak - za:">
-<!ENTITY subject.label "Naslov:">
 <!ENTITY toAddr2.label "Prima">
 <!ENTITY ccAddr2.label "Cc">
 <!ENTITY bccAddr2.label "Bcc">
@@ -273,14 +253,6 @@
 <!ENTITY followupAddr2.label "Nastavak - za">
 <!ENTITY subject2.label "Naslov">
 <!ENTITY subject.accesskey "s">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "t">
-<!ENTITY attachmentBucketHeader.tooltip "Okno privitka">
 <!ENTITY attachmentBucketCloseButton.tooltip "Sakrij okno privitka">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

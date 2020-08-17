@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Kriptiraj ovu poruku">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Nemoj šifrirati">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "o">
 

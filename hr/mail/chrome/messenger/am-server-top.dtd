@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "poruka">
 <!ENTITY alwaysAuthenticate.label "Uvijek zahtijevaj autentifikaciju prilikom povezivanja na ovaj poslužitelj">
 <!ENTITY alwaysAuthenticate.accesskey "v">
-<!ENTITY newsrcFilePath.label "newsrc datoteka:">
-<!ENTITY newsrcPicker.label "Odaberi newsrc datoteku">
 <!ENTITY newsrcFilePath1.label "News.rc datoteka:">
 <!ENTITY newsrcPicker1.label "Odaberi News.rc datoteku">
 <!ENTITY abbreviate.label "Prikaži imena interesnih grupa u oknu pošte kao:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Napredno…">
 <!ENTITY advancedButton.accesskey "r">
 <!ENTITY serverDefaultCharset2.label "Zadana kôdna stranica:">
-<!ENTITY localPath.label "Lokalna mapa:">
 <!ENTITY localPath1.label "Lokalna mapa:">
 <!ENTITY localFolderPicker.label "Odaberi lokalnu mapu">
 <!ENTITY browseFolder.label "Odaberi…">

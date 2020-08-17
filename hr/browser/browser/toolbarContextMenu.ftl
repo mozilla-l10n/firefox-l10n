@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Odaberi sve kartice
     .accesskey = s
-toolbar-context-menu-undo-close-tab =
-    .label = Poništi zatvaranje kartice
-    .accesskey = P
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -29,18 +26,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Poništi zatvaranje kartica
         }
     .accesskey = n
+
 toolbar-context-menu-manage-extension =
     .label = Upravljaj proširenjem
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Ukloni dodatak
     .accesskey = U
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Prijavi dodatak
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

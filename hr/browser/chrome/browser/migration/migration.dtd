@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Uvezi opcije, zabilješke, povijest pretraživanja, lozinke i ostale podatke iz:">
 <!ENTITY importFromUnix.label           "Uvezi postavke, zabilješke, povijest, lozinke i ostale podatke iz:">
-<!ENTITY importFromBookmarks.label      "Uvezi zabilješke iz:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
