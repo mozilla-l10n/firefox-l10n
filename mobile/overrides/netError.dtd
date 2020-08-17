@@ -45,9 +45,6 @@
 <!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita novamente e de forma automática documentos sensíveis.</li><li>Clique em Tentar novamente para solicitar novamente o documento do website.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Tente novamente. O &brandShortName; vai tentar abrir uma ligação e recarregar a página. <button id='wifi'>Ativar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Por favor, contacte os proprietários do website para os informar deste problema.</li> </ul>">

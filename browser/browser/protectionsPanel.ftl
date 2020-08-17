@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ocorreu um erro ao enviar o relatório. Por favor, tente novamente mais tarde.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Site corrigido? Enviar relatório
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Padrão
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Mais informação sobre a Proteção melhorada contra a monitorização
+
 protections-panel-etp-on-header = A proteção melhorada contra a monitorização está ATIVADA para este site
 protections-panel-etp-off-header = A proteção melhorada contra a monitorização está DESATIVADA para este site
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O site não está a funcionar?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = O site não está a funcionar?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Todos os rastreadores deste
 ##
 
 protections-panel-no-trackers-found = Não foi detetado nenhum rastreador conhecido pelo { -brand-short-name } nesta página.
+
 protections-panel-content-blocking-tracking-protection = Conteúdo de monitorização
+
 protections-panel-content-blocking-socialblock = Rastreadores de redes sociais
 protections-panel-content-blocking-cryptominers-label = Cripto-mineradores
 protections-panel-content-blocking-fingerprinters-label = Identificadores
@@ -57,7 +63,6 @@ protections-panel-not-found-label = Nenhuma detetada
 ##
 
 protections-panel-settings-label = Definições de proteção
-protections-panel-showreport-label = Mostrar relatório
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Painel das proteções
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = Painel das proteções
 
 # The header of the list
 protections-panel-site-not-working-view-header = Desligue as proteções se estiver a ter problemas com:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Campos de credenciais
 protections-panel-site-not-working-view-issue-list-forms = Formulários
 protections-panel-site-not-working-view-issue-list-payments = Pagamentos
 protections-panel-site-not-working-view-issue-list-comments = Comentários
 protections-panel-site-not-working-view-issue-list-videos = Vídeos
+
 protections-panel-site-not-working-view-send-report = Enviar um relatório
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = Os cripto-mineradores utilizam o poder de compu
 protections-panel-fingerprinters = Os identificadores recolhem definições do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes.
 protections-panel-tracking-content = Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar.
 protections-panel-social-media-trackers = As redes sociais colocam rastreadores em outros sites para monitorizar o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais.
+
 protections-panel-content-blocking-manage-settings =
     .label = Gerir definições de proteção
     .accesskey = G
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Reportar um site quebrado
 protections-panel-content-blocking-breakage-report-view-description = O bloqueio de determinados rastreadores pode causar problemas com alguns sites. Reportar estes problemas ajuda o { -brand-short-name } a melhorar para todos. O envio deste relatório irá enviar um endereço e informação sobre as suas definições do navegador à Mozilla. <label data-l10n-name="learn-more">Saber mais</label>

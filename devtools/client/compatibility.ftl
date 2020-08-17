@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (descontinuado)
 compatibility-issue-experimental = (experimental)
 compatibility-issue-prefixneeded = (prefixo necessário)
 compatibility-issue-deprecated-experimental = (descontinuado, experimental)
+
 compatibility-issue-deprecated-prefixneeded = (obsoleto, prefixo necessário)
 compatibility-issue-experimental-prefixneeded = (experimental, prefixo necessário)
 compatibility-issue-deprecated-experimental-prefixneeded = (obsoleto, experimental, prefixo necessário)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } ocorrência
        *[other] { $number } ocorrências
     }
+
 compatibility-no-issues-found = Não foi encontrado nenhum problema de compatibilidade.
 compatibility-close-settings-button =
     .title = Fechar definições

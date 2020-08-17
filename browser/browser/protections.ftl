@@ -9,6 +9,7 @@ graph-week-summary =
         [one] { -brand-short-name } bloqueou { $count } rastreador ao longo da semana passada
        *[other] { -brand-short-name } bloqueou { $count } rastreadores ao longo da semana passada
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -18,63 +19,61 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> rastreador bloqueado desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> rastreadores bloqueados desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = O { -brand-short-name } continua a bloquear os rastreadores em janelas privadas, mas não mantém um registo do que foi bloqueado.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Rastreadores que o { -brand-short-name } bloqueou esta semana
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = O nível de proteção está definido para <b>Padrão</b>
-    .title = Ir para as Definições de privacidade
-protection-report-header-details-strict = O nível de proteção está definido para <b>Rigoroso</b>
-    .title = Ir para as Definições de privacidade
-protection-report-header-details-custom = O nível de proteção está definido para <b>Personalizado</b>
-    .title = Ir para as Definições de privacidade
-protection-report-page-title = Proteções de privacidade
-protection-report-content-title = Proteções de privacidade
-etp-card-title = Proteção melhorada contra a monitorização
-etp-card-content = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros "scripts" maliciosos.
+
 protection-report-webpage-title = Painel das proteções
 protection-report-page-content-title = Painel das proteções
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = O { -brand-short-name } pode proteger a sua privacidade nos bastidores, enquanto navega. Este é um resumo personalizado destas proteções, incluindo ferramentas para assumir o controle da sua segurança na Internet.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = O { -brand-short-name } protege a sua privacidade, nos bastidores, enquanto navega. Este é um resumo personalizado destas proteções, incluindo ferramentas para assumir a gestão da sua segurança na Internet.
+
 protection-report-settings-link = Gerir as suas definições de privacidade e segurança
+
 etp-card-title-always = Proteção melhorada contra a monitorização: Sempre ligada
 etp-card-title-custom-not-blocking = Proteção melhorada contra a monitorização: DESLIGADA
 etp-card-content-description = O { -brand-short-name } impede automaticamente que as empresas o sigam secretamente pela Internet.
 protection-report-etp-card-content-custom-not-blocking = Atualmente, todas as proteções estão desativadas. Escolha que rastreadores devem ser bloqueados gerindo as definições de proteção do { -brand-short-name }.
 protection-report-manage-protections = Gerir definições
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoje
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Um gráfico contendo o número total de cada tipo de rastreador bloqueado esta semana.
+
 social-tab-title = Rastreadores de redes sociais
 social-tab-contant = As redes sociais colocam rastreadores em outros sites para monitorizar o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais. <a data-l10n-name="learn-more-link">Saber mais</a>
+
 cookie-tab-title = Cookies de monitorização entre sites
 cookie-tab-content = Estas cookies seguem-no entre vários sites para recolher dados sobre o que faz na Internet. São definidas por terceiros, como anunciantes ou empresas de análise. O bloqueio de cookies de rastreamento entre sites reduz o número de anúncios que o seguem. <a data-l10n-name="learn-more-link">Saber mais</a>
+
 tracker-tab-title = Monitorização de conteúdo
 tracker-tab-description = Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar. <a data-l10n-name="learn-more-link">Saber mais</a>
+
 fingerprinter-tab-title = Identificadores
 fingerprinter-tab-content = Os identificadores recolhem definições do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes. <a data-l10n-name="learn-more-link">Saber mais</a>
+
 cryptominer-tab-title = Cripto-mineradores
 cryptominer-tab-content = Os cripto-mineradores utilizam o poder de computação do seu sistema para minerar dinheiro digital. Os scripts de cripto-mineração podem descarregar a sua bateria, tornar o seu computador mais lento e aumentar os custos com a sua fatura elétrica. <a data-l10n-name="learn-more-link">Saber mais</a>
+
 protections-close-button2 =
     .aria-label = Fechar
     .title = Fechar
+  
 mobile-app-title = Bloquear anúncios de monitorização em mais dispositivos
 mobile-app-card-content = Utilize o navegador móvel com proteção integrada contra anúncios de monitorização.
 mobile-app-links = O navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = Nunca mais esqueça uma palavra-passe
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Gestão de palavras-passe
 lockwise-header-content = O { -lockwise-brand-name } guarda as suas palavras-passe em segurança no seu navegador.
 lockwise-header-content-logged-in = Guarde e sincronize em segurança as suas palavras-passe em todos os seus dispositivos.
-protection-report-view-logins-button = Ver credenciais
-    .title = Ir para Credenciais guardadas
 protection-report-save-passwords-button = Guardar palavras-passe
     .title = Guardar palavras-passe no { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Gerir palavras-passe
@@ -82,14 +81,7 @@ protection-report-manage-passwords-button = Gerir palavras-passe
 lockwise-mobile-app-title = Leve as suas palavras-passe para todo o lado
 lockwise-no-logins-card-content = Utilize as palavras-passe guardadas no { -brand-short-name } em qualquer dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Palavra-passe guardada com segurança <a data-l10n-name="lockwise-how-it-works">Como funciona</a>
-       *[other] Palavras-passe guardadas com segurança <a data-l10n-name="lockwise-how-it-works">Como funciona</a>
-    }
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -97,6 +89,7 @@ lockwise-scanned-text-breached-logins =
         [one] 1 palavra-passe poderá ter sido exposta numa violação de dados.
        *[other] { $count } palavras-passe poderão ter sido expostas numa violação de dados
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -107,30 +100,25 @@ lockwise-scanned-text-no-breached-logins =
        *[other] As suas palavras-passe estão a ser guardadas em segurança.
     }
 lockwise-how-it-works-link = Como é que funciona
+
 turn-on-sync = Ligar { -sync-brand-short-name }…
     .title = Ir para as preferências de sincronização
-manage-connected-devices = Gerir dispositivos…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Ligado a { $count } dispositivo
-       *[other] Ligado a { $count } dispositivos
-    }
+
 monitor-title = Procurar por violações de dados
 monitor-link = Como funciona
 monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas violações de dados.
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa violação de dados conhecida.
-monitor-sign-up = Registar contar para alertas de violações de dados
 monitor-sign-up-link = Registar para alertas de violações de dados
     .title = Registar no { -monitor-brand-name } para alertas de violações de dados
 auto-scan = Analisado hoje, de forma automática
+
 monitor-emails-tooltip =
     .title = Ver os endereços de e-mail monitorados no { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Ver no { -monitor-brand-short-name } as violações de dados conhecidas
 monitor-passwords-tooltip =
     .title = Ver no { -monitor-brand-short-name } as palavras-passe expostas.
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -139,6 +127,7 @@ info-monitored-emails =
         [one] endereço de e-mail em monitorização
        *[other] endereços de e-mail em monitorização
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -147,6 +136,7 @@ info-known-breaches-found =
         [one] Violação de dados conhecida que expôs a sua informação
        *[other] Violações de dados conhecidas que expuseram a sua informação
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -155,6 +145,7 @@ info-known-breaches-resolved =
         [one] Violação de dados conhecida marcada como resolvida
        *[other] Violações de dados conhecidas marcadas como resolvidas
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -163,15 +154,7 @@ info-exposed-passwords-found =
         [one] palavra-passe exposta em todas as violações de dados
        *[other] palavras-passe expostas em todas as violações de dados
     }
-full-report-link = Ver o relatório completo em <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] A credencial guardada pode ter sido exposta numa violação de dados. Altere esta palavra-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
-       *[other] As credenciais guardadas podem ter sido expostas numa violação de dados. Altere estas palavras-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
-    }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -180,6 +163,7 @@ info-exposed-passwords-resolved =
         [one] Palavra-passe exposta em violações de dados não resolvidas
        *[other] Palavras-passe expostas em violações de dados não resolvidas
     }
+
 monitor-no-breaches-title = Boas notícias!
 monitor-no-breaches-description = Você não tem violações de dados conhecidas. Se isto se alterar, nós iremos avisá-lo.
 monitor-view-report-link = Ver relatório
@@ -192,6 +176,7 @@ monitor-manage-breaches-link = Gerir violações de dados
     .title = Gerir violações de dados no { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Muito bem! Resolveu todas as violações de dados conhecidas.
 monitor-breaches-resolved-description = Iremos informá-lo se o seu e-mail aparecer em novas violações de dados.
+
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
@@ -200,9 +185,11 @@ monitor-partial-breaches-title =
         [one] { $numBreachesResolved } de { $numBreaches } violação de dados marcada como resolvida
        *[other] { $numBreachesResolved } de { $numBreaches } violações de dados marcadas como resolvidas
     }
+
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } concluído
+
 monitor-partial-breaches-motivation-title-start = Ótimo começo!
 monitor-partial-breaches-motivation-title-middle = Continue assim!
 monitor-partial-breaches-motivation-title-end = Está quase! Continue assim.

@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Segurança">
-<!ENTITY securityTab.label "Segurança">
-<!ENTITY securityHeading.label "Para enviar ou receber mensagens encriptadas, deve especificar um certificado assinando digitalmente e um certificado de encriptado.">
-<!ENTITY encryptionGroupTitle.label "Encriptação">
-<!ENTITY encryptionChoiceLabel.label "Configuração da encriptação predefinida ao enviar mensagens:">
-<!ENTITY neverEncrypt.label "Nunca (não utilizar encriptação)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Necessário (incapaz de enviar mensagens a menos que os destinatários possuam um certificado)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Utilizar este certificado para encriptar e desencriptar mensagens enviadas para si:">
-
 <!ENTITY e2eTitle.label "Criptografia de ponta a ponta">
-<!ENTITY e2eIntro.description "Para enviar mensagens encriptadas ou assinadas digitalmente, tem de configurar uma tecnologia de encriptação, OpenPGP ou S/MIME.">
 <!ENTITY e2eLearnMore.label "Saber mais">
 
 <!ENTITY e2eEnc.description "Sem encriptação de ponta-a-ponta, os conteúdos das mensagens são facilmente expostos ao seu provedor de e-mail e à vigilância em massa.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Limpar">
 <!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Assinatura digital">
-<!ENTITY signMessage.label "Assinar mensagens digitalmente (pré-definição)">
 <!ENTITY signMessage2.label "Adicionar a minha assinatura digital por predefinição">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Utilizar este certificado para assinar digitalmente as mensagens enviadas:">
-
-<!ENTITY certificates.label "Certificados">
-<!ENTITY manageCerts2.label "Gerir certificados">
-<!ENTITY manageCerts2.accesskey "G">
-<!ENTITY manageDevices.label "Dispositivos de segurança">
-<!ENTITY manageDevices.accesskey "D">
 
 <!ENTITY signingCert2.message "Certificado pessoal para a assinatura digital:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Preferir OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Gerir chaves OpenPGP">
-<!ENTITY manageKeys.accesskey "c">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Selecionar certificado">
