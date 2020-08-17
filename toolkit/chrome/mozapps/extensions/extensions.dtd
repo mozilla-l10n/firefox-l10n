@@ -3,72 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "सुरू करा">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "बंद करा">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "सक्रिय करण्यास विचारा">
-<!ENTITY cmd.askToActivate.tooltip            "ह्या ॲड-ऑनच्या वापरकरिता प्रत्येकवेळी विचारा">
-<!ENTITY cmd.alwaysActivate.label             "नेहमी सक्रिय करा">
-<!ENTITY cmd.alwaysActivate.tooltip           "नेहमी ह्या ॲड-ऑनचा वापर करा">
-<!ENTITY cmd.neverActivate.label              "कधिही सक्रिय करू नका">
-<!ENTITY cmd.neverActivate.tooltip            "कधिही ह्या ॲड-ऑनचा वापर करू नका">
-<!ENTITY cmd.stateMenu.tooltip                "हे ॲड-ऑन चालवतेवेळी बदल करा">
-
-<!ENTITY cmd.uninstallAddon.label             "काढून टाका">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "पर्याय">
-<!ENTITY cmd.showPreferencesWin.tooltip       "या ॲड-ऑनचे पर्याय बदला">
-<!ENTITY cmd.showPreferencesUnix.label        "प्राधान्यक्रम">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "या ॲड-ऑनचा प्राधान्यक्रम बदला">
-
-<!ENTITY cmd.showReleaseNotes.label           "प्रकाशन टिपा दाखवा">
-<!ENTITY cmd.showReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा दाखवा">
-<!ENTITY cmd.hideReleaseNotes.label           "प्रकाशन टिपा लपवा">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा लपवा">
-<!ENTITY cmd.findReplacement.label            "पुनर्बदल शोधा">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "रद्द करा">
-
-<!ENTITY addon.details.label                  "अधिक">
-<!ENTITY addon.details.tooltip                "या ॲड-ऑनविषयी अधिक माहिती दाखवा">
-<!ENTITY addon.unknownDate                    "अपरिचीत">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "अप्रचलित">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(बंद)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "सुधारणा">
-<!ENTITY addon.undoAction.label               "पूर्ववत् करा">
-<!ENTITY addon.undoAction.tooltip             "या कृतीला पूर्ववत् करा">
-<!ENTITY addon.undoRemove.label               "पूर्ववत् करा">
-<!ENTITY addon.undoRemove.tooltip             "हे ॲड-ऑन प्रतिष्ठापीत असू द्या">
-
-<!ENTITY addon.install.label                  "प्रतिष्ठापन">
-<!ENTITY addon.install.tooltip                "हे ॲड-ऑन प्रतिष्ठापीत करा">
-<!ENTITY addon.updateNow.label                "आत्ता सुधारीत करा">
-<!ENTITY addon.updateNow.tooltip              "या ॲड-ऑनकरीता सुधारणा प्रतिष्ठापीत करा">
-<!ENTITY addon.includeUpdate.label            "सुधारणामध्ये समाविष्ट करा">
-<!ENTITY addon.updateAvailable.label          "सुधारणा उपलब्ध आहे">
-<!ENTITY addon.checkingForUpdates.label       "सुधारणांकरीता तपासणी करत आहे…">
-<!ENTITY addon.releaseNotes.label             "प्रकाशन टिपा:">
-<!ENTITY addon.loadingReleaseNotes.label      "लोड करत आहे…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "माफ करा, परंतु प्रकाशन टिपा लोड करतेवेळी त्रुटी आढळली.">
-
-<!ENTITY addon.createdBy.label                "द्वारे निर्मीत ">
-
-<!ENTITY settings.path.button.label           "ब्राउज करा…">
 
 <!ENTITY setting.learnmore "अधिक जाणा…">
 

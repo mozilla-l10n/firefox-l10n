@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = सर्व टॅब निवडा
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = टॅब बंद करणे पूर्ववत् करा
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = एक्सटेन्शन व्यवस्थापित करा
