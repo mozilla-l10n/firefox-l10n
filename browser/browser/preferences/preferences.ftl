@@ -1022,7 +1022,7 @@ addon-recommendations =
 addon-recommendations-link = Saznaj više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
+collection-health-report-disabled = Izvještaji o podacima su deaktivirani za konfiguraciju za izgradnju
 collection-backlogged-crash-reports =
     .label = Dozvoli { -brand-short-name }u da šalje zapise o rušenju u tvoje ime
     .accesskey = o
