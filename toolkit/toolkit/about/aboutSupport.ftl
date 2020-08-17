@@ -7,6 +7,7 @@ page-subtitle =
     Esta página contiene información técnica que podría ser útil si está
     tratando de resolver un problema. Si está buscando respuestas a preguntas comunes
     acerca de { -brand-short-name }, busque en el <a data-l10n-name="support-link">sitio web de soporte</a>.
+
 crashes-title = Informes de fallos
 crashes-id = ID de informe
 crashes-send-date = Enviados
@@ -107,8 +108,6 @@ graphics-desktop-environment = Entorno de escritorio
 place-database-title = Base de datos de lugares
 place-database-integrity = Integridad
 place-database-verify-integrity = Verificar integridad
-js-title = JavaScript
-js-incremental-gc = GC incremental
 a11y-title = Accesibilidad
 a11y-activated = Activada
 a11y-force-disabled = Impedir accesibilidad
@@ -128,6 +127,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Intentar modo seguro
 restart-in-safe-mode-label = Reiniciar con complementos deshabilitados…
+
 clear-startup-cache-title = Intentar borrar la caché de inicio
 clear-startup-cache-label = Eliminar caché de inicio…
 startup-cache-dialog-title = Eliminar caché de inicio
@@ -138,7 +138,6 @@ restart-button-label = Reiniciar
 
 audio-backend = Backend de audio
 max-audio-channels = Canales máximos
-channel-layout = Configuración de canales pincipal
 sample-rate = Frecuencia de muestreo principal
 roundtrip-latency = Latencia de ida y vuelta (desviación estándar)
 media-title = Medios
@@ -191,6 +190,7 @@ report-crash-for-days =
         [one] Informes de fallo del ultimo día
        *[other] Informes de fallos de los últimos { $days } días
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,6 +198,7 @@ crashes-time-minutes =
         [one] Hace { $minutes } minuto
        *[other] Hace { $minutes } minutos
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -205,6 +206,7 @@ crashes-time-hours =
         [one] Hace { $hours } hora
        *[other] Hace { $hours } horas
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -212,6 +214,7 @@ crashes-time-days =
         [one] Hace { $days } día
        *[other] Hace { $days } días
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -219,6 +222,7 @@ pending-reports =
         [one] Todos los informes de fallos (incluyendo { $reports } fallo pendiente en el rango de tiempo especificado)
        *[other] Todos los informes de fallos (incluyendo { $reports } fallos pendientes en el rango de tiempo especificado)
     }
+
 raw-data-copied = Datos en bruto copiados al portapapeles
 text-copied = Texto copiado al portapapeles
 
@@ -231,9 +235,11 @@ blocked-mismatched-version = Bloqueado porque no coincide la versión del contro
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado para la versión de su driver de video. Intente actualizar el driver a la versión { $driverVersion } o superior.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
+
 compositing = Composición
 hardware-h264 = Decodificación H264 por hadrware
 main-thread-no-omtc = hilo principal, no OMTC
@@ -248,6 +254,7 @@ virtual-monitor-disp = Pantalla del monitor virtual
 
 found = Encontrada
 missing = Faltante
+
 gpu-process-pid = GPUProcessPid
 gpu-process = Proceso GPU
 gpu-description = Descripción
@@ -271,21 +278,25 @@ webgl2-version = Versión del controlador WebGL 2
 webgl2-driver-extensions = Extensiones del controlador WebGL 2
 webgl2-extensions = Extensiones WebGL 2
 blocklisted-bug = Bloqueado por problemas conocidos
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = En lista de bloqueo debido a problemas conocidos: <a data-l10n-name="bug-link">{ $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloqueado; código de falla { $failureCode }
+
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificador de video D3D11
-d3d9video-crash-buard = Decodificador de video D3D9
 d3d9video-crash-guard = Decodificador de video D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodificador de video WMF VPX
+
 reset-on-next-restart = Restablecer en próximo reinicio
 gpu-process-kill-button = Terminar proceso de GPU
 gpu-device-reset = Restablecer dispositivo
@@ -295,8 +306,10 @@ content-uses-tiling = Utiliza baldosas (contenido)
 off-main-thread-paint-enabled = Pintura habilitada fuera del hilo principal
 off-main-thread-paint-worker-count = Cantidad de workers de pintura fuera del hilo principal
 target-frame-rate = Tasa de marco de destino
+
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
+
 has-seccomp-bpf = Seccomp-BPF (Filtrado de llamadas del sistema)
 has-seccomp-tsync = Sincronización de hilos seccomp
 has-user-namespaces = User Namespaces
@@ -309,15 +322,18 @@ sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido de archivo
 sandbox-proc-type-media-plugin = plugin de medios
 sandbox-proc-type-data-decoder = decodificador de datos
+
 startup-cache-title = Caché de inicio
 startup-cache-disk-cache-path = Ruta de caché de disco
 startup-cache-ignore-disk-cache = Ignorar caché de disco
 startup-cache-found-disk-cache-on-init = Se encontró caché de disco en Init
 startup-cache-wrote-to-disk-cache = Escribió en caché de disco
+
 launcher-process-status-0 = Habilitado
 launcher-process-status-1 = Deshabilitado por fallo
 launcher-process-status-2 = Deshabilitado por la fuerza
 launcher-process-status-unknown = Estado desconocido
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -330,6 +346,7 @@ multi-process-status-6 = Deshabiliatdo por ingreso de texto no soportado
 multi-process-status-7 = Deshabilitado por complementos
 multi-process-status-8 = Deshabilitado por la fuerza
 multi-process-status-unknown = Estado desconocido
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ninguna
 wheel-enabled = rueda habilitada
