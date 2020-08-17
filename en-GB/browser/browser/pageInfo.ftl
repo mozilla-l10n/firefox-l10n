@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Save As…
     .accesskey = e
-media-preview =
-    .value = Media Preview:
 
 perm-tab =
     .label = Permissions
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Yes, cookies
 security-site-data-no = No
 
 image-size-unknown = Unknown
-not-set-verified-by = Not specified
 page-info-not-specified =
     .value = Not specified
 not-set-alternative-text = Not specified
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks mode
 general-strict-mode =
     .value = Standards compliance mode
-security-no-owner = This web site does not supply ownership information.
 page-info-security-no-owner =
     .value = This web site does not supply ownership information.
 media-select-folder = Select a Folder to Save the Images
