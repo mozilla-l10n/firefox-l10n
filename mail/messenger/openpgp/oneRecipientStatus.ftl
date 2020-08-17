@@ -12,6 +12,7 @@ openpgp-one-recipient-status-expires-date =
     .label = Płaćiwy do
 openpgp-one-recipient-status-discover =
     .label = Nowy abo zaktualizowany kluč namakać
-
 openpgp-key-secret-not-personal = Njewužiwajomny
-
+openpgp-key-verified = Akceptowany (wobkrućeny)
+openpgp-key-unverified = Akceptowany (njewobkrućeny)
+openpgp-key-rejected = Njeakceptowany (wotpokazany)

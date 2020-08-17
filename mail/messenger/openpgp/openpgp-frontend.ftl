@@ -4,6 +4,8 @@
 
 openpgp-import-sender-key =
     .label = Importować…
-
+openpgp-broken-exchange-repair =
+    .label = Powěsć porjedźić
 openpgp-broken-exchange-wait = Prošu čakajće…
-
+openpgp-partial-verify-button = Wobkrućić
+openpgp-partial-decrypt-button = Dešifrować
