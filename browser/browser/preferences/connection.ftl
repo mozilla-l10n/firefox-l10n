@@ -35,12 +35,7 @@ connection-proxy-http = HTTP-proksy
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Ten samski proksy za wšykne protokole wužywaś
-    .accesskey = s
 
-connection-proxy-ssl = SSL-proksy
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Teke toś ten proksy za FTP a HTTPS wužywaś
     .accesskey = t

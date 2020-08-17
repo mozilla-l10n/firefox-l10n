@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Nastajenja, cytańske znamjenja, historiju, gronidła a hynakše daty importěrowaś z:">
 <!ENTITY importFromUnix.label           "Nastajenja, cytańske znamjenja, historiju, gronidła a hynakše daty importěrowaś z:">
-<!ENTITY importFromBookmarks.label      "Cytańske znamjenja importěrowaś z:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

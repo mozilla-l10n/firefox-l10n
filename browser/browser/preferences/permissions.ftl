@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Pšosym zapódajśo płaśiwe mě hosta
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Wuwześa - Blokěrowanje wopśimjeśa
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Sćo znjemóžnił blokěrowanje wopśimjeśa na toś tych websedłach.
-
 permissions-exceptions-etp-window =
     .title = Wuwześa za pólěpšony slědowański šćit
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju dodanki instalěrowaś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Wuwześe - awtomatiske wótgraśe
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Móžośo pódaś, kótare websedła pśecej směju abo nigda njesměju medije awtomatiski ze zukom wótgraś. Zapódajśo adresu sedła, kótarež cośo zastojaś a klikniśo pótom na Blokěrowaś abo Dowóliś.
 
 ## Site Permissions - Autoplay
 

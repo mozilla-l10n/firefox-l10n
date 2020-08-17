@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Wóspjetowaś">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "e">
-<!ENTITY cutCmd.label "Wurězaś">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "u">
-<!ENTITY copyCmd.label "Kopěrowaś">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Zasunuś">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "Z">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "d">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Wšo wubraś">
 <!ENTITY selectAllCmd.accesskey "b">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Pytaś…">
 <!ENTITY findBarCmd.accesskey "P">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "Toś tu powěsć śišćaś">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 10em;">
-<!ENTITY fromAddr.label "Wót:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Druge typy adresowych pólow">
 <!ENTITY fromAddr2.label "Wót">
 <!ENTITY fromAddr.accesskey "t">
-<!ENTITY toAddr.label "Komu:">
-<!ENTITY ccAddr.label "Kopija:">
-<!ENTITY bccAddr.label "Schowana kopija:">
-<!ENTITY replyAddr.label "Wótegrono na:">
-<!ENTITY newsgroupsAddr.label "Diskusijna kupka:">
-<!ENTITY followupAddr.label "Dalej pósrědniś:">
-<!ENTITY subject.label "Tema:">
 <!ENTITY toAddr2.label "Komu">
 <!ENTITY ccAddr2.label "Kopija">
 <!ENTITY bccAddr2.label "Schowana kopija">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "Wótegrono do">
 <!ENTITY subject2.label "Tema">
 <!ENTITY subject.accesskey "T">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "w">
-<!ENTITY attachmentBucketHeader.tooltip "Pśidankowe wokno">
 <!ENTITY attachmentBucketCloseButton.tooltip "Pśidankowe wokno schowaś">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

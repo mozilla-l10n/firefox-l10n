@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (zestarjony)
 compatibility-issue-experimental = (eksperimentelny)
 compatibility-issue-prefixneeded = (prefiks trjebny)
 compatibility-issue-deprecated-experimental = (zestarjony, eksperimentelny)
+
 compatibility-issue-deprecated-prefixneeded = (zestarjony, prefiks trjebny)
 compatibility-issue-experimental-prefixneeded = (eksperimentelny, prefiks trjebny)
 compatibility-issue-deprecated-experimental-prefixneeded = (zestarjony, eksperimentelny, prefiks trjebny)
@@ -44,6 +45,7 @@ compatibility-issue-occurrences =
         [few] { $number } wustupowanja
        *[other] { $number } wustupowanjow
     }
+
 compatibility-no-issues-found = Žedne problemy kompatibelnosći namakane.
 compatibility-close-settings-button =
     .title = Nastajenja zacyniś

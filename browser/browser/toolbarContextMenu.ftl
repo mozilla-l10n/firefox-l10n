@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Wšykne rejtariki wubraś
     .accesskey = u
-toolbar-context-menu-undo-close-tab =
-    .label = Zacynjony rejtarik wótnowiś
-    .accesskey = c
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -30,18 +27,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Zacynjone rejtariki wócyniś
         }
     .accesskey = Z
+
 toolbar-context-menu-manage-extension =
     .label = Rozšyrjenje zastojaś
     .accesskey = R
 toolbar-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
     .accesskey = t
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Rozšyrjenje k wěsći daś
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Symbole a tekst">
 <!ENTITY useSmallIcons.label      "Małe symbole wužywaś">
 <!ENTITY restoreDefaultSet.label  "Standard wótnowiś">
-<!ENTITY addNewToolbar.label      "Nowu symbolowu rědku pśidaś">
-<!ENTITY showTitlebar.label       "Titelowu rědku pokazaś">
-<!ENTITY extraDragSpace.label     "Śěgaty rum pśidaś">
 <!ENTITY showTitlebar2.label      "Titelowa rědka">
 <!ENTITY extraDragSpace2.label    "Śěgaty rum">
 <!ENTITY saveChanges.label        "Gótowo">

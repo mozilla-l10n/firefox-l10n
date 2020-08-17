@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiwěrowaś">
 <!ENTITY hdrArchiveButton1.tooltip "Toś tu powěsć archiwěrowaś">
-<!ENTITY hdrOpenConversationButton1.label "Rozgrono">
-<!ENTITY hdrOpenConversationButton1.tooltip "Rozgrono toś teje powěsći pokazaś">
 <!ENTITY hdrSmartReplyButton1.label "Inteligentne wótegrono">
 <!ENTITY hdrReplyButton1.label "Wótegroniś">
 <!ENTITY hdrReplyButton2.tooltip "Wótpósłarjeju toś teje powěsći wótegroniś">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Rozpósłańskej lisćinje wótegroniś">
 <!ENTITY hdrFollowupButton1.label "Powěsć slědowaś">
 <!ENTITY hdrFollowupButton1.tooltip "Dalejpósrědnenje na toś tu diskusijnu kupku pósłaś">
-<!ENTITY hdrMenuForwardButton.label "Dalej pósrědniś ako">
 <!ENTITY hdrForwardButton1.label "Dalej pósrědniś">
 <!ENTITY hdrForwardButton1.tooltip "Toś tu powěsć dalej pósrědniś">
 <!ENTITY hdrJunkButton1.label "Cajk">

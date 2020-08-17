@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Dataju wubraś…">
 <!ENTITY cmd.restoreFromFile.accesskey  "D">
 
-<!ENTITY cmd.deleteDomainData.label     "Toś to sedło zabyś">
-<!ENTITY cmd.deleteDomainData.accesskey "s">
-
-<!ENTITY cmd.open.label                  "Wócyniś">
-<!ENTITY cmd.open.accesskey              "c">
-<!ENTITY cmd.open_window.label           "W nowem woknje wócyniś">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "W nowem priwatnem woknje wócyniś">
-<!ENTITY cmd.open_private_window.accesskey "r">
-<!ENTITY cmd.open_tab.label              "W nowem rejtariku wócyniś">
-<!ENTITY cmd.open_tab.accesskey          "r">
-<!ENTITY cmd.open_all_in_tabs.label      "Wšykne w rejtarikach wócyniś">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "W">
-
-<!ENTITY cmd.properties.label      "Kakosći">
-<!ENTITY cmd.properties.accesskey  "K">
-
-<!ENTITY cmd.sortby_name.label              "Pó mjenje sortěrowaś">
-<!ENTITY cmd.sortby_name.accesskey          "m">
-<!ENTITY cmd.context_sortby_name.accesskey  "m">
-
-<!ENTITY cmd.new_bookmark.label            "Nowe cytańske znamje…">
-<!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_folder.label              "Nowy zarědnik…">
-<!ENTITY cmd.new_folder.accesskey          "r">
-<!ENTITY cmd.context_new_folder.accesskey  "r">
-<!ENTITY cmd.new_separator.label           "Nowa źěleńska linija">
-<!ENTITY cmd.new_separator.accesskey       "l">
-
 <!ENTITY col.name.label          "Mě">
 <!ENTITY col.tags.label          "Wobznamjenja">
 <!ENTITY col.url.label           "Městno">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Licba woglědow">
 <!ENTITY col.dateadded.label     "Pśidany">
 <!ENTITY col.lastmodified.label  "Slědna změna">
-
-<!ENTITY historySearch.placeholder  "Historiju pśepytaś">
-<!ENTITY bookmarksSearch.placeholder  "Cytańske znamjenja pśepytaś">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Zapisk wubraś, aby se jogo kakosći woglědali a wobźěłali">
 
-<!ENTITY view.label               "Naglěd">
-<!ENTITY view.accesskey           "N">
-<!ENTITY byDate.label             "Pó datumje">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Pó sedle">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Pó nejcesćej woglědanych">
-<!ENTITY byMostVisited.accesskey  "h">
-<!ENTITY byLastVisited.label      "Pó ako slědny woglědanych">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Pó datumje a sedle">
-<!ENTITY byDayAndSite.accesskey   "t">

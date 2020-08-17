@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Bźez formatěrowanja zasajźiś">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Zasajźiś ako">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Ako citat zasajźiś">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Pytaś…">
-<!ENTITY findReplaceCmd.label "Pytaś a wuměniś…">
-<!ENTITY enableInlineSpellChecker.label "Pśi zapódaśu pšawopis kontrolěrowaś">
-<!ENTITY enableInlineSpellChecker.accesskey "z">
-<!ENTITY checkSpellingCmd2.label "Pšawopis kontrolěrowaś…">
-<!ENTITY checkSpellingCmd2.accesskey "k">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Zasajźiś">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Dokumentowy tekst">
 <!ENTITY bodyTextCmd.accesskey "u">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Rozšyrjone kakosći">
-<!ENTITY advancedPropertiesCmd.accesskey "R">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Wusměriś">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Blokowa sajźba">
 <!ENTITY alignJustify.accesskey "b">
 <!ENTITY alignJustify.tooltip "Blokowa sajźba">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Warsta">
-<!ENTITY layerSendToBack.tooltip "Do slězyny">
-<!ENTITY layerBringToFront.tooltip "Do prědka">
 
 <!ENTITY increaseIndent.label "Zasunjenje powětšyś">
 <!ENTITY increaseIndent.accesskey "w">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Kakosći tabele…">
 <!ENTITY tableProperties.accesskey "K">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menijowa rědka">
-<!ENTITY formatToolbar.tooltip "Formatěrowańska rědka">
-<!ENTITY cutToolbarCmd.tooltip "Wurězaś">
-<!ENTITY copyToolbarCmd.tooltip "Kopěrowaś">
-<!ENTITY pasteToolbarCmd.tooltip "Zasajźiś">
-<!ENTITY printToolbarCmd.label "Śišćaś">
-<!ENTITY printToolbarCmd.tooltip "Toś ten bok śišćaś">
-<!ENTITY findToolbarCmd.label "Pytaś">
-<!ENTITY findToolbarCmd.tooltip "Tekst na boku namakaś">
-<!ENTITY spellToolbarCmd.label "Pšawopis kontrolěrowaś">
-<!ENTITY spellToolbarCmd.tooltip "Pšawopis wuběrka abo cełego boka kontrolěrowaś">
-
 <!ENTITY imageToolbarCmd.label "Wobraz">
 <!ENTITY imageToolbarCmd.tooltip "Nowy wobraz zasajźiś abo kakosći wubranego wobraza wobźěłaś">
 <!ENTITY hruleToolbarCmd.label "Horicontalna linija">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenjonu kokulku zasajźiś abo kakosći wubraneje kokulki wobźěłaś">
 <!ENTITY TextColorButton.tooltip "Barwu za tekst wubraś">
 <!ENTITY BackgroundColorButton.tooltip "Barwu za slězynu wubraś">
-<!ENTITY throbber.tooltip2 "K startowemu bokoju &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Wuzwignjeńsku barwu za tekst wubraś">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Wjelikosć pisma nastajiś">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Tekst centrěrowano wusměriś">
 <!ENTITY alignRightButton.tooltip "Tekst pó pšawej kšomje wusměriś">
 <!ENTITY alignJustifyButton.tooltip "Tekst pó lěwej a pšawej kšomje wusměriś">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Wubraś">
-<!ENTITY structSelect.accesskey     "b">
-<!ENTITY structRemoveTag.label      "Element wótpóraś">
-<!ENTITY structRemoveTag.accesskey  "E">
-<!ENTITY structChangeTag.label      "Element změniś">
-<!ENTITY structChangeTag.accesskey  "z">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Zasajźiś">

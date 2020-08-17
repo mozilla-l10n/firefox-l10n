@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Synchronizěrowane rejtariki
 synced-tabs-sidebar-noclients-subtitle = Cośo how swóje rejtariki z drugich rědow wiźeś?
-synced-tabs-sidebar-notsignedin = Pśizjawśo se, aby se lisćinu rejtarikow ze swójich drugich rědow woglědał.
 synced-tabs-sidebar-intro = Woglědajśo se lisćinu rejtarikow ze swójich rědow.
 synced-tabs-sidebar-unverified = Wašo konto musy se wobkšuśiś.
 synced-tabs-sidebar-notabs = Žedne wócynjone rejtariki
