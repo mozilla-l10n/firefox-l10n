@@ -76,6 +76,8 @@ urlbar-web-rtc-share-devices-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 # Variables
@@ -113,6 +115,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = तयशुदा सर्च इंजिन रूपेँ सेट करू
     .accesskey = D
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -174,8 +183,10 @@ popup-all-windows-shared = अहाँक स्क्रीन पर सभ �
 
 urlbar-default-placeholder =
     .defaultPlaceholder = खोजू अथवा पता दर्ज करू
+
 urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
+
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
 

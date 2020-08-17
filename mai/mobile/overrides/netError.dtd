@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>अनुरोध कएल गेल दस्तावेज़ &brandShortName; क अस्थाई भंडार मे उपलब्ध नहि अछि.</p><ul><li>सुरक्षा सावधानी क रूप मे, &brandShortName; स्वतः संवेदनशील दस्तावेज़ कलेल पुनः आग्रह नहि करैत अछि.</li><li>वेबसाइट सँ दस्तावेज़ केँ पुनः आग्रह करए लेली पुनः प्रयास करू केँ दाबू.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>फेर सँ प्रयास करू. &brandShortName; कनेक्शन खोलए आओर पृष्ठ रिलोड करए केर प्रयास करताह. <button id='wifi'>वाई-फाई आरंभ करू</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "अंतर्वस्तु एन्कोडिंग त्रुटि">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया वेबसाइट मालिक सँ हुनका एहि समस्याक संबंधमे बताबैक लेल संपर्क करू.</li> </ul>">

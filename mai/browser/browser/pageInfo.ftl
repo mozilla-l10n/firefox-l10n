@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = एहिना सहेजू…
     .accesskey = e
-media-preview =
-    .value = मीडिया पूर्वावलोकन:
 
 perm-tab =
     .label = अनुमति
@@ -118,7 +116,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = अज्ञात
-not-set-verified-by = निर्दिष्ट नहि
 page-info-not-specified =
     .value = निर्दिष्ट नहि
 not-set-alternative-text = निर्दिष्ट नहि
@@ -143,7 +140,6 @@ general-quirks-mode =
     .value = क्वर्क विधि
 general-strict-mode =
     .value = मानक संगत विधि
-security-no-owner = ई वेबसाइट स्वामित्व सूचना क आपूर्ति नहि करैत  अछि .
 page-info-security-no-owner =
     .value = ई वेबसाइट स्वामित्व सूचना क आपूर्ति नहि करैत  अछि .
 media-select-folder = छवि केँ सहेजबाक लेल कोनो फोल्डर चुनू
