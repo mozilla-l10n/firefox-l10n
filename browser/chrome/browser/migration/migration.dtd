@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Dikgetho tša kamogelo, dipukutshwayo, histori, mantšuphetišo le tsebišo e nngwe go tšwa go:">
 <!ENTITY importFromUnix.label           "Dikganyogo tša kamogelo, dipukutshwayo, histori, mantšuphetišo le tsebišo e nngwe go tšwa go:">
-<!ENTITY importFromBookmarks.label      "Amogela dipukutshwayo go tšwa go:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

@@ -14,6 +14,7 @@ pw-erased-ok = O phumotše Lentšuphetišo la gago la Motheo.  { pw-empty-warnin
 pw-not-wanted = Temošo! O phethile go se šomiše Lentšuphetišo la Motheo. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Gabjale o mo go tsela ya FIPS. FIPS e nyaka Lentšuphetišo la Motheo e sego leo le sego la tlala.
+
 pw-change-success-title = Go fetoša Lentšuphetišo go Atlegile
 pw-change-failed-title = Go fetoša Lentšuphetišo go Paletšwe
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Fetola Lentšuphetišo le Legolo
+
 set-password-old-password = Lentšuphetišo la Bjale:
 set-password-new-password = Tsenya lentšuphetišo le leswa:
 set-password-reenter-password = Tsenya lentšuphetišo gape:
@@ -31,6 +33,7 @@ master-password-warning = Ka kgopelo netefatša gore o gopola Lentšuphetiso le 
 
 remove-password =
     .title = Tloša Lentšuphetišo la Motheo
+
 remove-info =
     .value = O swanetše go lokela lentšuphetišo la gago la bjale go tšwela pele:
 remove-warning1 = Lentšuphetišo la Gago la Motheo le šomišwa go šireletša tshedimošo e bohlokwa go swana le mantšuphetišo a disaete.

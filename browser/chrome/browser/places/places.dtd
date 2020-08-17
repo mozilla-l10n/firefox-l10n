@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Kgetha faele…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.deleteDomainData.label     "Lebala ka saete ye">
-<!ENTITY cmd.deleteDomainData.accesskey "a">
-
-<!ENTITY cmd.open.label                  "Bula">
-<!ENTITY cmd.open.accesskey              "l">
-<!ENTITY cmd.open_window.label           "Bula go lefasetere le leswa">
-<!ENTITY cmd.open_window.accesskey       "e">
-
-
-<!ENTITY cmd.open_tab.label              "Bula go thepo e mpsha">
-<!ENTITY cmd.open_tab.accesskey          "m">
-<!ENTITY cmd.open_all_in_tabs.label      "Bula tšohle ka dithepo">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "l">
-
-<!ENTITY cmd.properties.label      "Dipharologantšho">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Hlopha ka leina">
-<!ENTITY cmd.sortby_name.accesskey          "a">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Pukutshwayo e mpsha…">
-<!ENTITY cmd.new_bookmark.accesskey        "P">
-<!ENTITY cmd.new_folder.label              "Foltara e mpsha…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Sekgaoganyi se seswa">
-<!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY col.name.label          "Leina">
 <!ENTITY col.tags.label          "Ditshwayo">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Kgetha aetheme gore o lebelele le go lokiša dipharologantšho tša yona">
 
-<!ENTITY view.label               "Tebelelo">
-<!ENTITY view.accesskey           "l">
-<!ENTITY byDate.label             "Ka letšatšikgwedi">
-<!ENTITY byDate.accesskey         "l">
-<!ENTITY bySite.label             "Ka saete">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Ka tšeo di etetšwego gantši">
-<!ENTITY byMostVisited.accesskey  "e">
-<!ENTITY byLastVisited.label      "Ka e etetšwego la mafelelo">
-<!ENTITY byLastVisited.accesskey  "m">
-<!ENTITY byDayAndSite.label       "Ka letšatšikgwedi le saete">
-<!ENTITY byDayAndSite.accesskey   "t">

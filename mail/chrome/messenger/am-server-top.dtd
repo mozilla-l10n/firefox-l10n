@@ -52,14 +52,11 @@
 <!ENTITY maxMessagesEnd.label "melaetša">
 <!ENTITY alwaysAuthenticate.label "Phela o kgopela netefatšo ge o kgokaganya go sebara ye">
 <!ENTITY alwaysAuthenticate.accesskey "e">
-<!ENTITY newsrcFilePath.label "ditabarc faele:">
-<!ENTITY newsrcPicker.label "Kgetha ditabarc Faele">
 <!ENTITY abbreviate.label "Laetša maina a ditabakgoboko go lefasetere la Foltara ya Maina bjalo ka:">
 <!ENTITY abbreviateOn.label "Maina ka botlalo (Mohlala, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Kopafatša maina (Mohlala, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Gatetšego pele...">
 <!ENTITY advancedButton.accesskey "t">
-<!ENTITY localPath.label "Tšhupamegala ya tikologo:">
 <!ENTITY localFolderPicker.label "Kgetha Tšhupamegala ya Tikologo">
 <!ENTITY browseFolder.label "Fetleka...">
 <!ENTITY browseFolder.accesskey "F">

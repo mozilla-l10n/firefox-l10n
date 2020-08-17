@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = Boloka e le…
     .accesskey = e
-media-preview =
-    .value = Tebelelo pele ya kgašoditaba:
 
 perm-tab =
     .label = Ditumelelo
@@ -107,7 +105,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Sa tsebjwego
-not-set-verified-by = Ga ya hlathwa
 page-info-not-specified =
     .value = Ga ya hlathwa
 not-set-alternative-text = Ga ya hlathwa
@@ -132,7 +129,6 @@ general-quirks-mode =
     .value = Mokgwa wa ditiragalo di sele
 general-strict-mode =
     .value = Mokgwa wa maemo a tumelelano
-security-no-owner = Wepesaete ye ga e fane ka tshedimošo ya gore ke ya mang.
 page-info-security-no-owner =
     .value = Wepesaete ye ga e fane ka tshedimošo ya gore ke ya mang.
 media-select-folder = Kgetha foltara ya go boloka diswantšho

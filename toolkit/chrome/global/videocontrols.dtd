@@ -11,19 +11,6 @@
 
 
 
-<!ENTITY stats.media "Kgašoditaba">
-<!ENTITY stats.size "Bogolo">
-<!ENTITY stats.activity "Tiragalo">
-<!ENTITY stats.activityPaused "Khutšišitšwe">
-<!ENTITY stats.activityPlaying "E a bapala">
-<!ENTITY stats.activityEnded "Fedile">
-<!ENTITY stats.activitySeeking "(nyaka)">
-<!ENTITY stats.volume "Bolumo">
-<!ENTITY stats.framesParsed "Diforeimi tše arotšwego">
-<!ENTITY stats.framesDecoded "Diforeimi tše tlošitšwego dikhoutu">
-<!ENTITY stats.framesPresented "Diforeimi tše filwego">
-<!ENTITY stats.framesPainted "Diforeimi tše pentilwego">
-
 <!ENTITY error.aborted "Go hlahlela bidio go emišitšwe.">
 <!ENTITY error.network "Go boeletša go bapala bidio go foloditše ka baka la phošo ya neteweke.">
 <!ENTITY error.decode "Bidio e ka se bapale ka gobane faele e senyegile.">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 ya #2 e fedile">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

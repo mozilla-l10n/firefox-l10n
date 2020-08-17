@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label "Rulaganya">
 <!ENTITY editMenu.accesskey "r">
 <!ENTITY undoCmd.label "Dirolla">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "d">
 <!ENTITY redoCmd.label "Dira gape">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "d">
-<!ENTITY cutCmd.label "Ripa">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "a">
-<!ENTITY copyCmd.label "Khopa">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Kgomaretša">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "k">
 <!ENTITY deleteCmd.label "Phumula">
 <!ENTITY deleteCmd.accesskey "p">
-<!ENTITY selectAllCmd.label "Kgetha ka Moka">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "k">
 <!ENTITY preferencesCmdUnix.label "Dipharologantšho">
 <!ENTITY preferencesCmdUnix.accesskey "l">
 

@@ -10,8 +10,6 @@
 
 <!ENTITY pasteNoFormatting.label "Kgomaretša ka ntle ga go Fometa">
 <!ENTITY pasteNoFormatting.accesskey "n">
-<!ENTITY pasteAs.label "Kgomaretša Bjalo ka">
-<!ENTITY pasteAs.accesskey "b">
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
@@ -110,8 +108,6 @@
 <!ENTITY ParagraphSelect.tooltip "Kgetha fomete ya temana">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Mmele wa Sengwalwa">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Dipahrologantšho tše gatetšego pele">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -127,10 +123,6 @@
 <!ENTITY alignJustify.label "Lekanyetša">
 <!ENTITY alignJustify.tooltip "Beakanya Lekanyetša">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Leyara">
-<!ENTITY layerSendToBack.tooltip "Romela go Morago">
-<!ENTITY layerBringToFront.tooltip "Tliša ka Pele">
 
 <!ENTITY increaseIndent.label "Oketša Indente">
 <!ENTITY decreaseIndent.label "Fokotša Indente">
@@ -186,15 +178,6 @@
 
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Bara ya Lenaneo la Dikagare">
-<!ENTITY formatToolbar.tooltip "Thulupaa ya go Fometa">
-<!ENTITY printToolbarCmd.label "Gatiša">
-<!ENTITY printToolbarCmd.tooltip "Gatiša letlakala le">
-<!ENTITY findToolbarCmd.label "Hwetša">
-<!ENTITY findToolbarCmd.tooltip "Hwetša sengwalwa ka go letlakala">
-<!ENTITY spellToolbarCmd.label "Peleta">
-<!ENTITY spellToolbarCmd.tooltip "Hlokomela mopeleto wa kgetho goba letlakala ka moka">
-
 <!ENTITY imageToolbarCmd.label "Seswantšho">
 <!ENTITY imageToolbarCmd.tooltip "Lokela seswantšho se sefsa goba rulaganya dipharologantšho tša seswantšho se se kgethilwego">
 <!ENTITY hruleToolbarCmd.label "H.Mothalo">
@@ -207,7 +190,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Lokela anchor ye mpsha ye e theilwego leina goba rulaganya dipeakanyo tša anchor ye e kgethilwego">
 <!ENTITY TextColorButton.tooltip "Kgetha mmala wa sengwalwa">
 <!ENTITY BackgroundColorButton.tooltip "Kgetha mmalwa wa bokamorago">
-<!ENTITY HighlightColorButton.tooltip "Kgetha mmala wa go bonagatša go sengwalwa">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Saese ya fonte e nnyane">
@@ -239,12 +221,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Kgetha">
-<!ENTITY structSelect.accesskey "k">
-<!ENTITY structRemoveTag.label "Tloša theke">
-<!ENTITY structRemoveTag.accesskey "t">
-<!ENTITY structChangeTag.label "Fetola theke">
-<!ENTITY structChangeTag.accesskey "f">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "Lokela">

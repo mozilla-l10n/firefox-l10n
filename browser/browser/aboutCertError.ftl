@@ -21,6 +21,5 @@ proxyConnectFailure-title = Seabi sa kemedi se gana dikgokaganyo
 proxyResolveFailure-title = Ga e kgone go hwetša seabi sa kemedi
 redirectLoop-title = Letlakala le ga le laele gape ka tshwanelo
 unknownSocketType-title = Karabo e sa letelwago go tšwa go seabi
-cspBlocked-title = Thibetšwe ke pholisi ya tšhireletšego ya dikagare
 corruptedContentError-title = Phošo ya dikagare tšeo di senyegilego
 remoteXUL-title = XUL ya kgole

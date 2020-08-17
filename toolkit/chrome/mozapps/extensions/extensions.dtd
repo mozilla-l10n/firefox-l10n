@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Kgonagatša">
-<!ENTITY cmd.enableAddon.accesskey            "K">
-<!ENTITY cmd.disableAddon.label               "Šitiša">
-<!ENTITY cmd.disableAddon.accesskey           "t">
-
-<!ENTITY cmd.askToActivate.label              "Botšiša gore o diragatše">
-<!ENTITY cmd.askToActivate.tooltip            "Botšiša gore o diriše setlaleletši se nako le nako">
-<!ENTITY cmd.alwaysActivate.label             "Ka mehla diragatša">
-<!ENTITY cmd.alwaysActivate.tooltip           "Ka mehla diriša setlaleletši se">
-<!ENTITY cmd.neverActivate.label              "Se diragatše le gatee">
-<!ENTITY cmd.neverActivate.tooltip            "Se diriše setlaleletši se le gatee">
-<!ENTITY cmd.stateMenu.tooltip                "Fetoša ge setlaleletši se se kitima">
-
-<!ENTITY cmd.uninstallAddon.label             "Tloša">
-<!ENTITY cmd.uninstallAddon.accesskey         "T">
-<!ENTITY cmd.showPreferencesWin.label         "Dikgetho">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Fetoša dikgetho tša setlaleletši se">
-<!ENTITY cmd.showPreferencesUnix.label        "Dikganyogo">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Fetoša dikganyogo tša setlaleletši se">
-
-<!ENTITY cmd.showReleaseNotes.label           "Laetša dintlha tša tokollo">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Laetša dintlha tša tokollo tša mpshafatšo ye">
-<!ENTITY cmd.hideReleaseNotes.label           "Fihla dintlha tša tokollo">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Fihla dintlha tša tokollo tša mpshafatšo ye">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,12 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Khansela">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Ntši">
-<!ENTITY addon.details.tooltip                "Laetša dintlha tše oketšegilego ka setlaleletši se">
-<!ENTITY addon.unknownDate                    "Sa tsebjego">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(šitišitšwe)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Mpshafatšo">
-<!ENTITY addon.undoAction.label               "Dirolla">
-<!ENTITY addon.undoAction.tooltip             "Dirolla tiro ye">
-<!ENTITY addon.undoRemove.label               "Dirolla">
-<!ENTITY addon.undoRemove.tooltip             "Boloka setlaleletši se se loketšwe">
-
-<!ENTITY addon.install.label                  "Lokela">
-<!ENTITY addon.install.tooltip                "Lokela setlaleletši se">
-<!ENTITY addon.updateNow.label                "Mpshafatša gona bjale">
-<!ENTITY addon.updateNow.tooltip              "Lokela mpshafatšo ya setlaleletši se">
-<!ENTITY addon.includeUpdate.label            "Akaretša go mpshafatšo">
-<!ENTITY addon.updateAvailable.label          "Mpshafatšo e a hwetšagala">
-<!ENTITY addon.checkingForUpdates.label       "Go lekola dimpshafatšo...">
-<!ENTITY addon.releaseNotes.label             "Dintlha tša tokollo:">
-<!ENTITY addon.loadingReleaseNotes.label      "Go hlahlela…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Tshwarelo, eupša go bile le phošo ya go hlahlela dintlha tša tokollo">
-
-<!ENTITY addon.createdBy.label                "Ka">
-
-<!ENTITY settings.path.button.label           "Praosa...">
 
 
 

@@ -14,6 +14,9 @@ unpin-tab =
 move-to-new-window =
     .label = Šuthela go lefasetere le leswa
     .accesskey = w
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Tswalela thepo
     .accesskey = T

@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Hwetša ka maitirišo dipeakanyo tša kemedi tša neteweke ye
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = Diriša seabi se sa kemedi go diprotokole ka moka
-    .accesskey = i
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
