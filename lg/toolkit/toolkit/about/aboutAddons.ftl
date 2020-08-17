@@ -10,9 +10,6 @@ addons-page-title = Omukulu w'ebyongerwako
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Okutikka…
-
 list-empty-installed =
     .value = Tolina byongerwako byonna bya kika kino biteereddwako
 
@@ -27,13 +24,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Yiga ebisingawo ku byongerwako
-
-install-addon-from-file =
-    .label = Teekako ebyongerwako okuva mu fayiro
-    .accesskey = T
-
-tools-menu =
-    .tooltiptext = Ebikozesebwa ku byongerebwako ebyabuli ngeri
 
 cmd-show-details =
     .label = Laga Ebisingakawo
@@ -71,12 +61,6 @@ cmd-contribute =
     .label = waayo
     .accesskey = w
     .tooltiptext = Waayo ku kulaakulanya kw'ekyokwongerako kino
-
-discover-title = Ebigattibwako bye biki?
-
-discover-description = Obugatibwako bwe bu pulogulaamu obukusobozesa okufula  { -brand-short-name }  nga bwogyagala nokufuna enkola nendabika eyenjawulo. Gezako akabawo kebali, akalanga obudde, oba endabika eyenjawulo okufula  { -brand-short-name } eyiyo.
-
-discover-footer = Bwonoba oyungidwa ku mukutu gwensi yona, ekitundu kino kijjakulaga obumuku ku bugattibwako obusinga obulungi nokumanyika osoobole obugezako.
 
 detail-version =
     .label = Enkola
@@ -141,14 +125,6 @@ detail-rating =
 addon-restart-now =
     .label = Tandika nate kati
 
-extensions-view-recent-updates =
-    .name = Ebituusa ebbipya
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Eby'okutuukanya ebiriwo
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Ebyongerebwako
 addon-category-extension-title =
     .title = Ebyongerebwako
@@ -170,29 +146,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Sobozesa
-    .tooltiptext = Sobozesa ebikebera entuukaganya y'ebyongerwako
-
-extensions-warning-update-security-label =
-    .value = Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Sobozesa
-    .tooltiptext = Sobozesa ebyongerebwako okukebera eby'okwerinda
-
 extensions-warning-safe-mode = Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu
 extensions-warning-check-compatibility = Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.
 extensions-warning-check-compatibility-button = Sobozesa
@@ -204,14 +157,6 @@ extensions-warning-update-security-button = Sobozesa
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Kebera Ebitusaganya Ebipya
-    .accesskey = e
-
-extensions-updates-view-updates =
-    .label = Laba okutuukanya okukoleddwa emabegako
-    .accesskey = L
-
 addon-updates-check-for-updates = Kebera Ebitusaganya Ebipya
     .accesskey = e
 addon-updates-view-updates = Laba okutuukanya okukoleddwa emabegako
@@ -219,10 +164,6 @@ addon-updates-view-updates = Laba okutuukanya okukoleddwa emabegako
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Tuukanya Ebyongerwako wekka
-    .accesskey = E
 
 addon-updates-update-addons-automatically = Tuukanya Ebyongerwako wekka
     .accesskey = E
@@ -233,36 +174,12 @@ addon-updates-update-addons-automatically = Tuukanya Ebyongerwako wekka
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Tegeka ebyokwongerako byonna byetuukanye byokka
-    .accesskey = T
-
-extensions-updates-reset-updates-to-manual =
-    .label = Tegeka ebyokwongerako byonna bituusaganyizibwe
-    .accesskey = T
-
 addon-updates-reset-updates-to-automatic = Tegeka ebyokwongerako byonna byetuukanye byokka
     .accesskey = T
 addon-updates-reset-updates-to-manual = Tegeka ebyokwongerako byonna bituusaganyizibwe
     .accesskey = T
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Kutuukanya byongerwako
-extensions-updates-installed =
-    .value = Ebyongerwako byo bituukanyiziddwa
-extensions-updates-downloaded =
-    .value = Ebyokutuukanya ebyongerwako byo biwanuliddwa
-extensions-updates-restart =
-    .label = Tandika butto kompyuta yo okumaliliza okuteekamu
-extensions-updates-none-found =
-    .value = Tewali bituusa bizuuliddwa
-extensions-updates-manual-updates-found =
-    .label = Laba ebyokutuukanya ebiriwo
-extensions-updates-update-selected =
-    .label = Teekamu Ebitusaganya
-    .tooltiptext = Teeka ebyokutuukanya ebiriwo mu lukalala luno
 
 addon-updates-updating = Kutuukanya byongerwako
 addon-updates-installed = Ebyongerwako byo bituukanyiziddwa

@@ -31,8 +31,6 @@ printpreview-print =
     .accesskey = F
 printpreview-of =
     .value = ogwa
-printpreview-custom-prompt =
-    .value = Ekipimo ekimanyiddwa…
 printpreview-custom-scale-prompt-title = Ekipimo Ky'oyagala
 printpreview-page-setup =
     .label = Entegeka Y'omuko…
@@ -59,3 +57,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Omuko ogusembayo
+

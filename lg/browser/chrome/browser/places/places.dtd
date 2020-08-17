@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Londako Fayiro…">
 <!ENTITY cmd.restoreFromFile.accesskey  "L">
 
-<!ENTITY cmd.deleteDomainData.label     "Werabire Ebikwata ku Muko Gunno">
-<!ENTITY cmd.deleteDomainData.accesskey "W">
-
-<!ENTITY cmd.open.label                  "Ggulawo">
-<!ENTITY cmd.open.accesskey              "G">
-<!ENTITY cmd.open_window.label           "Gulirawo mu Ddirisa Epya">
-<!ENTITY cmd.open_window.accesskey       "E">
-
-
-<!ENTITY cmd.open_tab.label              "Ggulirawo mu Waddirira Awapya">
-<!ENTITY cmd.open_tab.accesskey          "a">
-<!ENTITY cmd.open_all_in_tabs.label      "Ggulirawo Byonna mu Awaddirira">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "G">
-
-<!ENTITY cmd.properties.label      "Ebikikwatako">
-<!ENTITY cmd.properties.accesskey  "a">
-
-<!ENTITY cmd.sortby_name.label              "Tegeka ng'Osinziira ku Linnya">
-<!ENTITY cmd.sortby_name.accesskey          "T">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Akapya Akalambe…">
-<!ENTITY cmd.new_bookmark.accesskey        "A">
-<!ENTITY cmd.new_folder.label              "Etterekero Epya…">
-<!ENTITY cmd.new_folder.accesskey          "t">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Akaawula Akapya">
-<!ENTITY cmd.new_separator.accesskey       "A">
 
 <!ENTITY col.name.label          "Erinnya">
 <!ENTITY col.tags.label          "Ta'aga">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Londayo ekintu nga bw'okirongoosamu">
 
-<!ENTITY view.label               "Endabika">
-<!ENTITY view.accesskey           "a">
-<!ENTITY byDate.label             "Ku Nnaku z'omwezi">
-<!ENTITY byDate.accesskey         "N">
-<!ENTITY bySite.label             "Ku Kibanja">
-<!ENTITY bySite.accesskey         "K">
-<!ENTITY byMostVisited.label      "Ku Kisinga Okukyalirwa">
-<!ENTITY byMostVisited.accesskey  "O">
-<!ENTITY byLastVisited.label      "Ku Kisembyeyo Okukyalirwa">
-<!ENTITY byLastVisited.accesskey  "K">
-<!ENTITY byDayAndSite.label       "Ku Lunaku n'Ekibanja">
-<!ENTITY byDayAndSite.accesskey   "n">

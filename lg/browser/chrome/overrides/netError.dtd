@@ -12,72 +12,40 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Tekisobose kuyungibwa">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Endagiriro eno ekugiddwa">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "Enteresi ebuze">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.</li> <li>Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.</li> </ul>">
 
 
-
-<!ENTITY generic.title "Oops.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; terisobola kutikka muko guno olw'ensonga ezimu.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Okuyungibwa kwataataaganyizibbwa">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Ekiseera kyekiwandiko Kiwedeko">
 
 <!ENTITY notCached.longDesc "<p>Ekiwandiko ekisabbidwa tekiriwo mu terekero lya &brandShortName;.</p><ul><li>Okuwabulwa mu byokwerinda, &brandShortName; tedamu kusaba nate ebiwandiko ebirimu bwino akumibwa.</li><li>Koona ku Gezako Nate okusaba ekiwandiko okuva ku kyapa kweva.</li></ul>">
 
-<!ENTITY netOffline.title "Toli ku lutimbe">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Nyiiga &quot;Gezako Natte&quot; okudda yungibwa nate odemu otike omuko.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> </ul>">
-
-<!ENTITY netReset.title "Okuyungibwa kwaddiddwamu okuteekebwa natte">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Obudde bw'okuyunga buweddeyo">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Endagiriro teyategeerekese">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Kompyuta enfuga zinayo egaanyi obuyunzi">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kebera entegeka eyokumpi okukakassa nti bituufu.</li> <li>Tegeeza kalabaalaba wempulizigannya yo okakase nti enviisirizi enfuzi kweri  ekola.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Tesobodde kuzuula kompyuta effuga zinayo">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kebera enkola ye`ntegekka okulaba nti ntuufu.</li> <li>Kebera okukakasa nti kompyuuta yo eyungiddwa ku mukutu ogukola.</li> <li>Kompyuuta yo oba empulisiganya bweba nga ekumiddwa abasirikale bapulogulamu oba enkola, ffuba okulaba nti &brandShortName; ekirizibwa okukozesa omukutu.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Omuko guno tegulagirira bulungi">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza  kuki.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Engabirizi ezemu nga tekissubirwa">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kebera okakase ng'omuyungiro gwo gulina obukuumi Obwannannyini  obwateekebwako.</li> <li>kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.</li> </ul>">
 
@@ -89,17 +57,11 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Omutimbo guyinza okumala akaseera nga teguliiko oba gwandiba nga gukozesebwa nnyo. Gezaako nate  mu kaseera akomumaaso.</li> <li>Bw'obeera olemeddwa okuttikka entimbe, kebera kenkwasaganya  yo'mukutu ku Kompyuta yo.</li> <li>Bw'eba nga kompyuta yo oba empuliziganya ekumiddwa fgguluggulu oba kompyuta enkozi poxi, gezaako okulaba  nti &brandShortName; ekkirizibwa okweyambisa omutimbagano.</li>  </ul>">
 
-<!ENTITY cspBlocked.title "Kiziyiziddwa Eteka Elifuga  Ebyokwerinda Ebyomunda">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; eziyiza omuko guno okutika mungeri eno kubanga omuko guno gulina amateka agafuga ebyokwerinda byomunda elitagikiriza.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Ensobi Mubyomunda Ebicupudwa">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
 
 
-
-<!ENTITY remoteXUL.title "XUL ku kompyuta endala">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li></ul></p>">
 

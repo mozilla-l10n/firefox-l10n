@@ -63,8 +63,6 @@ media-save-as =
 media-save-image-as =
     .label = Tereka nga…
     .accesskey = e
-media-preview =
-    .value = Okubikulilwa:
 
 perm-tab =
     .label = Olukusa
@@ -111,7 +109,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Tekimanyiddwa
-not-set-verified-by = Tekyawuddwa
 page-info-not-specified =
     .value = Tekyawuddwa
 not-set-alternative-text = Tekyawuddwa
@@ -136,7 +133,6 @@ general-quirks-mode =
     .value = Enkola teteredde
 general-strict-mode =
     .value = Enkola etukagana neyo ekirizibbwa
-security-no-owner = Ekibanja kino tekiwereza bwiino akawata ku nanyini kyo.
 page-info-security-no-owner =
     .value = Ekibanja kino tekiwereza bwiino akawata ku nanyini kyo.
 media-select-folder = Londa Eterekero lya fayiro mwonatereka Ebifananyi

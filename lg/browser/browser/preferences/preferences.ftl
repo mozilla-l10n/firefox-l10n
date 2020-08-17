@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Ebyokulondako
-           *[other] Okweroboza
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Ebyokulondako
@@ -286,8 +279,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = Amateeka g'empeereza
-
 ## Privacy Section
 
 
@@ -308,6 +299,7 @@ forms-master-pw-change =
     .accesskey = E
 
 forms-master-pw-fips-title = Kati olimu FIPS modi. FIPS enyagala Akasumulizo ka Masita okubamu.
+
 forms-master-pw-fips-desc = Okukyuusa Akasumulizo ku Ganye
 
 ## OS Authentication dialog
@@ -383,6 +375,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Zasatifiketi
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

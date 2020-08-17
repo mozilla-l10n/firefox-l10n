@@ -11,28 +11,11 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Sobozesa">
-<!ENTITY cmd.enableAddon.accesskey            "S">
-<!ENTITY cmd.disableAddon.label               "Kikomye">
-<!ENTITY cmd.disableAddon.accesskey           "K">
 
 
 
 
 
-
-
-<!ENTITY cmd.uninstallAddon.label             "Jjamu">
-<!ENTITY cmd.uninstallAddon.accesskey         "J">
-<!ENTITY cmd.showPreferencesWin.label         "Ebyokwerobozaako">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Kyusa ebyokulondako bye' ekyongerwako kino">
-<!ENTITY cmd.showPreferencesUnix.label        "Byololonzeko">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Kyusa ebyokulondako by'ekyongerwako kino">
-
-<!ENTITY cmd.showReleaseNotes.label           "Laga eby'okuyiga ebiteereddwa">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Laga eby'okuyiga ebitereddwa ebikwata ku kutuukanya">
-<!ENTITY cmd.hideReleaseNotes.label           "Kweeka Ebiwandiko Ebigiraku'nfuluma">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Kweeka eby'okuyiga ku kutuukanya kuno">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -45,44 +28,12 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Sazaamu">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Ebisingawo">
-<!ENTITY addon.details.tooltip                "Laga ebisingawo ku kyongerwako kuno">
-<!ENTITY addon.unknownDate                    "Tekimanyiddwa">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(maliddwamu amaayi)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Ebituusa">
-<!ENTITY addon.undoAction.label               "Ddayo">
-<!ENTITY addon.undoAction.tooltip             "Zzayo ekikolwa kino">
-<!ENTITY addon.undoRemove.label               "Ddayo">
-<!ENTITY addon.undoRemove.tooltip             "Kuuma ekyongerwako kino nga kiteekeddwako">
-
-<!ENTITY addon.install.label                  "Tteekamu">
-<!ENTITY addon.install.tooltip                "Teekako ekyongerwako kino">
-<!ENTITY addon.updateNow.label                "Tuukanya kati">
-<!ENTITY addon.updateNow.tooltip              "Tteekamu akatuusa ka'akagattibwako kano">
-<!ENTITY addon.includeUpdate.label            "Gatta ku Bituusaganya">
-<!ENTITY addon.updateAvailable.label          "Eky'okutuukanya w'ekiri">
-<!ENTITY addon.checkingForUpdates.label       "Okukebera Ebipya…">
-<!ENTITY addon.releaseNotes.label             "Ebiwandiiko bye Enfulumya:">
-<!ENTITY addon.loadingReleaseNotes.label      "Okutikka…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ngolabye, naye waabaddewo ensobi mu kuteekayo eby'okuyiga ebifulumiziddwa.">
-
-<!ENTITY addon.createdBy.label                "Ne ">
-
-<!ENTITY settings.path.button.label           "Noonya…">
 
 
 

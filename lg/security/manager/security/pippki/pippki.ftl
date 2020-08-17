@@ -21,6 +21,9 @@ change-password-reenter = Akasumulizo akapya (nddamu):
 reset-password-window =
     .title = Ddamu oteegeke Akasumulizo nga kamasita
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Ddamu otegeke
 reset-password-text = Bwona kyusa akasumulizoko ka masita, byona byoteresee ku muko ne akasumulizo ka i-mayilu, fomu ya wiino, santifikati mubuntu, ne akasumulizo kenenyini kaza kwerabirwa. Okakasa oyagala ku kyusa akasmulizo ka masita ko?

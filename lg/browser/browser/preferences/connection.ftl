@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Funa entegeka ya puloxi sava
     .accesskey = a
 
-connection-proxy-http-share =
-    .label = Kozesa puloxi eno ku mateka gonna
-    .accesskey = o
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

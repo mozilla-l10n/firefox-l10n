@@ -14,6 +14,7 @@ pw-erased-ok = Osagundee Akasumulizoo aka Kuu.  { pw-empty-warning }
 pw-not-wanted = Warning! You have decided not to use a Master Password. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Kati olimu FIPS modi. FIPS enyagala akasumulizo nga ka masita.
+
 pw-change-success-title = Okukyusa ekisumuluzo kuyiseemu
 pw-change-failed-title = Okukyuusa Akasumulizo Kuganye
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Change Master Password
+
 set-password-old-password = Current password:
 set-password-new-password = Yingiza akasumuluzo ko:
 set-password-reenter-password = Ddamu oyingize akasumuluzo:
@@ -31,6 +33,7 @@ master-password-warning = Bambi kakasa nti ojjukira ekisumuluzo ekikulu kyotadde
 
 remove-password =
     .title = Gjamu Akasumulizo Akakuu
+
 remove-info =
     .value = Otekeddwa okuyingiza akasumuluzo kolina okusobola okweyongerayo:
 remove-warning1 = Ekisumuluzo kyo ekikulu kikozesebwa okukuuma amawulire ag'ekyama nga obusumuluzo bw'ekibanja.

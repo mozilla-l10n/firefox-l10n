@@ -102,6 +102,7 @@ devinfo-serialnum =
     .label = Enamba eye kyama
 
 fips-nonempty-password-required = FIPS modi eyagala nga oyina Akasumulizo akakulu akatekerwawo kurwo ebyokwereinda ebintu. Kale tekawoakasumulizo nga tonagezeko ku sobozisa FIPS modi.
+
 unable-to-toggle-fips = Tekisobose okukyusa FIPS modi eye byokwerinda by ekyuma kino. Ki sembedwa nti ogalewo era otandike buto ploglamu eno.
 
 add-module-failure = Unable to add module
