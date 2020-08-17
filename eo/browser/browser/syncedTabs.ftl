@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Spegulitaj langetoj
 synced-tabs-sidebar-noclients-subtitle = Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?
-synced-tabs-sidebar-notsignedin = Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.
 synced-tabs-sidebar-intro = Vidi liston de langetoj en viaj aliaj aparatoj.
 synced-tabs-sidebar-unverified = Via konto bezonas esti kontrolita.
 synced-tabs-sidebar-notabs = Neniu malfermita langeto

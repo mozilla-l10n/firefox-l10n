@@ -12,5 +12,10 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">Enporti vian akreditilon el { $browser }</div>
     <div data-l10n-name="line2">for { $host } kaj aliaj retejoj</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Pli da informo

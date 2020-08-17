@@ -73,15 +73,6 @@
 <!ENTITY notCached.longDesc "<p>La petita dokumento ne ekzistas en la staplo de &brandShortName;.</p><ul><li>Pro sekureca singardo, &brandShortName; aŭtomate ne repetas delikatajn dokumentojn.</li><li>Alklaku 'Klopodi denove' por peti denove la dokumenton al la retejo.</li></ul>">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Klopodi denove. &brandShortName; provos konektiĝi kaj reŝargi la paĝon.
-    <button id='wifi'>Ŝalti sendratan reton</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Eraro de enkodigo de enhavo">
 <!ENTITY contentEncodingError.longDesc "<ul> 

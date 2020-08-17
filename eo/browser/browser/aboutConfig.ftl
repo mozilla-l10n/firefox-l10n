@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Tie ĉi loĝas drakoj!
-about-config-warning-text = Ŝanĝo de tiuj spertulaj agordoj povas efiki malbone sur la stabileco, sekureco kaj efikeco de tiu ĉi programo. Vi devus daŭrigi nur se vi estas certa, ke vi scias kion vi faras.
-about-config-warning-checkbox = Bonvolu averti min venontfoje!
-about-config-warning-button = Mi akceptas la riskon
-
-about-config2-title = Spertulaj agordoj
-
-about-config-search-input =
-    .placeholder = Serĉi
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Daŭrigu singarde
@@ -32,13 +21,6 @@ about-config-page-title = Spertulaj preferoj
 about-config-search-input1 =
     .placeholder = Serĉi nomon de prefero
 about-config-show-all = Montri ĉiujn
-
-about-config-pref-add = Aldoni
-about-config-pref-toggle = Baskuligi
-about-config-pref-edit = Redakti
-about-config-pref-save = Konservi
-about-config-pref-reset = Norma valoro
-about-config-pref-delete = Forigi
 
 about-config-pref-add-button =
     .title = Aldoni

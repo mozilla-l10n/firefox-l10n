@@ -66,15 +66,12 @@
 <!ENTITY maxMessagesEnd.label "mesaĝojn">
 <!ENTITY alwaysAuthenticate.label "Ĉiam postuli aŭtentigon kiam konekti al tiu ĉi servilo">
 <!ENTITY alwaysAuthenticate.accesskey "l">
-<!ENTITY newsrcFilePath.label "Dosiero newsrc:">
-<!ENTITY newsrcPicker.label "Elekti dosieron newsrc">
 <!ENTITY abbreviate.label "Montri nomojn de novaĵgrupoj en la panelo de mesaĝujoj kiel:">
 <!ENTITY abbreviateOn.label "plenajn nomojn (ekz. “netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "mallongigitajn nomojn (ekz. “n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Spertulaj…">
 <!ENTITY advancedButton.accesskey "j">
 <!ENTITY serverDefaultCharset2.label "Implicita teksta kodprezento:">
-<!ENTITY localPath.label "Loka dosierujo:">
 <!ENTITY localFolderPicker.label "Elekti lokan dosierujon">
 <!ENTITY browseFolder.label "Esplori…">
 <!ENTITY browseFolder.accesskey "E">

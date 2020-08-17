@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Refari">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Eltondi">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "d">
-<!ENTITY copyCmd.label "Kopii">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Alglui">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "g">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "l">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "a">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Elekti ĉion">
 <!ENTITY selectAllCmd.accesskey "E">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Serĉi…">
 <!ENTITY findBarCmd.accesskey "S">
 <!ENTITY findBarCmd.key "F">
@@ -255,27 +242,8 @@
 <!ENTITY printButton.tooltip "Presi tiun ĉi mesaĝon">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 10em;">
-<!ENTITY fromAddr.label "El:">
 <!ENTITY fromAddr.accesskey "E">
-<!ENTITY toAddr.label "Al:">
-<!ENTITY ccAddr.label "Kopio:">
-<!ENTITY bccAddr.label "Kaŝkopio:">
-<!ENTITY replyAddr.label "Respondi al:">
-<!ENTITY newsgroupsAddr.label "Novaĵgrupo:">
-<!ENTITY followupAddr.label "Pluigi al:">
-<!ENTITY subject.label "Temo:">
 <!ENTITY subject.accesskey "T">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "a">
-<!ENTITY attachmentBucketHeader.tooltip "Listo de kunsendaĵoj">
 <!ENTITY attachmentBucketCloseButton.tooltip "Kaŝi liston de kunsendaĵoj">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

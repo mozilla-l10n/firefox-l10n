@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "La nomo kaj fonta loko de la specimenita funkcio.">
 <!ENTITY performanceUI.table.totalAlloc               "Tuta nombro de specimenaj asignoj">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "La nombro de asignoj de Object en tiu ĉi loko kaj en la vokitaj funkcioj.">
-<!ENTITY performanceUI.table.selfAlloc                "Propre specimenitaj asignoj">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "La nombro de asignoj de Object specimenitaj en tiu ĉi loko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

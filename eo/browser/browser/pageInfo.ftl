@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Konservi kiel…
     .accesskey = e
-media-preview =
-    .value = Antaŭvidi komunikrimedon:
 
 perm-tab =
     .label = Permesoj
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Jes, kuketojn
 security-site-data-no = Ne
 
 image-size-unknown = Nekonata
-not-set-verified-by = Ne difinita
 page-info-not-specified =
     .value = Ne difinita
 not-set-alternative-text = Ne difinita
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Kongruema reĝimo
 general-strict-mode =
     .value = Normokongrua reĝimo
-security-no-owner = Tiu ĉi retejo ne provizas informon pri sia posedanto.
 page-info-security-no-owner =
     .value = Tiu ĉi retejo ne provizas informon pri sia posedanto.
 media-select-folder = Elektu dosierujon kie konservi bildojn

@@ -58,30 +58,19 @@ abuse-report-messagebar-action-cancel = Nuligi
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Ĝi difektas mian komputilon kaj datumojn
-
 abuse-report-damage-reason-v2 = Ĝi difektis mian komputilon aŭ elmetis miajn datumojn
 abuse-report-damage-example = Ekzemplo: ĝi injektis malican programon aŭ ŝtelis datumojn
 
-abuse-report-spam-reason = Ĝi kreas trudmesaĝojn aŭ reklamojn
-
 abuse-report-spam-reason-v2 = Ĝi enhavas trudmesaĝojn aŭ reklamojn
 abuse-report-spam-example = Ekzemplo: ĝi aldonas reklamojn al retejoj
-
-abuse-report-settings-reason = Ĝi ŝanĝis mian serĉilon, ekan paĝon aŭ novan langeton sen sciigi aŭ demandi
 
 abuse-report-settings-reason-v2 = Ĝi ŝanĝis mian serĉilon, ekan paĝon aŭ novajn langetojn sen sciigi aŭ pridemandi
 abuse-report-settings-suggestions = Antaŭ ol denunci la etendaĵojn, vi povas provi ŝanĝi viajn agordojn:
 abuse-report-settings-suggestions-search = Ŝanĝi viajn normajn serĉajn agordojn
 abuse-report-settings-suggestions-homepage = Ŝanĝi vian ekan paĝon kaj novan langeton
 
-abuse-report-deceptive-reason = Ĝi ŝajnigas esti io, kio ĝi ne estas
-
 abuse-report-deceptive-reason-v2 = Ĝi pretendas esti io alia
 abuse-report-deceptive-example = Ekzemplo: priskribo aŭ bildoj trompaj
-
-abuse-report-broken-reason-extension = Ĝi ne funkcias, misfunkciigas retejojn aŭ malrapidigas { -brand-product-name }
-abuse-report-broken-reason-theme = Ĝi ne funkcias aŭ difektas la vidon de la retumilo
 
 abuse-report-broken-reason-extension-v2 = Ĝi ne funkcias, misfunkciigas retejojn aŭ malrapidigas { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ĝi ne funkcias kaj misfunkciigas la montradon de paĝoj
@@ -89,12 +78,8 @@ abuse-report-broken-example = Ekzemplo: trajtoj estas malrapidaj, malfacile uzeb
 abuse-report-broken-suggestions-extension = Ŝajne vi ĵus trovis eraron. Krom tiu ĉi denunco, la plej bona maniero solvi problemon estas kontakti la programiston. <a data-l10n-name="support-link">Vizitu la retejon de la etendaĵo</a> por havi informon pri la programisto.
 abuse-report-broken-suggestions-theme = Ŝajne vi ĵus trovis eraron. Krom tiu ĉi denunco, la plej bona maniero solvi problemon estas kontakti la programiston. <a data-l10n-name="support-link">Vizitu la retejon de la etoso</a> por havi informon pri la programisto.
 
-abuse-report-policy-reason = Abomena, perforta aŭ kontraŭleĝa enhavo
-
 abuse-report-policy-reason-v2 = Ĝi enhavas abomenan, perfortan aŭ kontraŭleĝan enhavon
 abuse-report-policy-suggestions = Rimarko: kopirajtajn kaj varmarkajn aferojn oni devas denunci aparte. <a data-l10n-name="report-infringement-link">Uzu tiun ĉi instrukciojn</a> por denunci la problemon.
-
-abuse-report-unwanted-reason = Mi neniam volis tiun ĉi etendaĵon kaj mi ne povas malinstali ĝin
 
 abuse-report-unwanted-reason-v2 = Mi neniam volis ĝin kaj mi ne scias kiel forigi ĝin
 abuse-report-unwanted-example = Ekzemplo: programo instalis ĝin sen mia permeso

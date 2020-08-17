@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importi preferojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:">
 <!ENTITY importFromUnix.label           "Importi preferojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:">
-<!ENTITY importFromBookmarks.label      "Importi legosignojn el:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Eliri el plenekrana reĝimo
 find = Serĉi
 new-tab = Nova langeto
 add-bookmark = Aldoni legosignon
-open-bookmarks-sidebar = Malfermi flankan strion de legosignoj
 reader-view = Legila vido
 # Meant to match the string displayed in an empty URL bar.
 open-location = Serĉu ion aŭ tajpu adreson
