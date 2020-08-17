@@ -356,6 +356,13 @@ delete-external-key-title = Remover a chave GnuPG externa
 delete-external-key-description = Quer remover este ID de chave GnuPG externa?
 key-in-use-title = Chave OpenPGP em uso no momento
 delete-key-in-use-description = Não foi possível prosseguir! A chave que você selecionou para ser excluída está sendo usada no momento por esta identidade. Selecione outra chave ou não selecione nenhuma e tente novamente.
+revoke-key-in-use-description = Não foi possível prosseguir! A chave que você selecionou para ser revogada está sendo usada no momento por esta identidade. Selecione outra chave ou não selecione nenhuma e tente novamente.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = O endereço de e-mail '{ $keySpec }' não corresponde a nenhuma chave de seu chaveiro.
+key-error-key-id-not-found = O ID de chave '{ $keySpec }' configurado não foi encontrado em seu chaveiro.
+key-error-not-accepted-as-personal = Você não confirmou se a chave com ID '{ $keySpec }' é sua chave pessoal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = A função que você selecionou não está disponível no modo offline. Fique online e tente novamente.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Não foi possível encontrar nenhuma chave que corresponda aos critérios de pesquisa especificados.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
@@ -399,6 +406,8 @@ key-man-button-generate-key-continue = &Continuar geração de chaves
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Erro - Falha na descriptografia
 fix-broken-exchange-msg-failed = Não foi possível reparar a mensagem.
+attachment-no-match-from-signature = Não foi possível combinar o arquivo de assinatura '{ $attachment }' com um anexo
+attachment-no-match-to-signature = Não foi possível combinar o anexo '{ $attachment }' com um arquivo de assinatura
 signature-verified-ok = A assinatura do anexo { $attachment } foi verificada com sucesso
 signature-verify-failed = A assinatura do anexo { $attachment } não pôde ser verificada
 decrypt-ok-no-sig =
@@ -417,6 +426,7 @@ key-revoked = Chave '{ $key }' revogada
 msg-compose-internal-error = Ocorreu um erro interno.
 keys-to-export = Selecione chaves OpenPGP a inserir
 msg-compose-cannot-save-draft = Erro ao salvar rascunho
+msg-compose-partially-encrypted-short = Cuidado com o vazamento de informações sensíveis - e-mail parcialmente criptografado.
 sending-news =
     A operação de envio criptografado foi interrompida.
     Esta mensagem não pode ser criptografada porque há destinatários de grupos de notícias. Reenvie a mensagem sem criptografia.
