@@ -376,6 +376,11 @@ delete-pub-key =
     Wilt u de publieke sleutel ‘{ $userId }’
     verwijderen?
 delete-selected-pub-key = Wilt u de publieke sleutels verwijderen?
+refresh-all-question = U heeft geen enkele sleutel geselecteerd. Wilt u ALLE sleutels vernieuwen?
+key-man-button-export-sec-key = &Geheime sleutels exporteren
+key-man-button-export-pub-key = Alleen &publieke sleutels exporteren
+key-man-button-refresh-all = Alle sleutels &vernieuwen
+key-man-loading-keys = Sleutels worden geladen, een moment geduld…
 
 ## Account settings export output
 
