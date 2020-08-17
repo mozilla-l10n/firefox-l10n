@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Diitlhophelwa
-           *[other] Diratwabogolo
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Diitlhophelwa
@@ -259,8 +252,6 @@ sync-signedin-unverified = { $email } ga e a netefadiwa.
 
 ## The device name controls.
 
-sync-tos-link = Melawana ya Tirelo
-
 ## Privacy Section
 
 
@@ -270,6 +261,7 @@ sync-tos-link = Melawana ya Tirelo
 ## Privacy Section - Logins and Passwords
 
 forms-master-pw-fips-title = Ga jaana o mo mokgweng wa FIPS. FIPS e tlhoka Khunololamoraba e Kgolo e e seng lolea.
+
 forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
 
 ## OS Authentication dialog
@@ -326,6 +318,8 @@ permissions-block-popups-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Ditifikeiti
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

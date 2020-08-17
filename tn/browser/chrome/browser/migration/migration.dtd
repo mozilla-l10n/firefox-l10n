@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Tlisateng Boitlhopelo, Matshwaotsebe, Hisetori, Dikhunololomoraba Dikhunololamoraba le tshedimosetso e nngwe go tswa:">
 <!ENTITY importFromUnix.label           "Tlisateng Diratwabogolo, Matshwaotsebe, Hisetori, Dikhunololamoraba le tshedimosetso e nngwe go tswa:">
-<!ENTITY importFromBookmarks.label      "Tlisateng Matshwaotsebe go tswa:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

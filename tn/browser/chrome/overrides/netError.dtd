@@ -13,8 +13,6 @@
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY fileNotFound.title "Faele ga e a bonwa">
-
 
 
 
@@ -29,21 +27,7 @@
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> </ul>">
-
-<!ENTITY netReset.title "Kgolagano e rulagantswesešwa">
-
-
-<!ENTITY netTimeout.title "Kgolagano e tsene mo kgokaganyololo tlogo">
-
-
-
-
-
-
-<!ENTITY proxyResolveFailure.title "Ga e kgone go bona sefarakemela">
 
 
 
@@ -59,8 +43,6 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Phoso ya Diteng e Senyegileng">
-
 <!ENTITY corruptedContentErrorv2.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 
@@ -68,7 +50,6 @@ was trying to connect. -->
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Ga go kgonege go Golagana mo go Sireletsegileng">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,

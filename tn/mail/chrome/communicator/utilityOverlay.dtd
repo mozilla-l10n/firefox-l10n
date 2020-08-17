@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "Tseleganya">
 <!ENTITY editMenu.accesskey        "T">
 <!ENTITY undoCmd.label            "Dirolola">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.label            "Dira gape">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "D">
-<!ENTITY cutCmd.label            "Sega">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "a">
-<!ENTITY copyCmd.label            "Kopolola">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label            "Manega">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "M">
 <!ENTITY deleteCmd.label          "Phimola">
 <!ENTITY deleteCmd.accesskey        "P">
-<!ENTITY selectAllCmd.label          "Tlhopha Gotlhe">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "G">
 <!ENTITY preferencesCmd2.label "Options">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Diratwabogolo">

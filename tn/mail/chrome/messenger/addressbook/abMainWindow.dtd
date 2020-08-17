@@ -44,38 +44,15 @@
 
 <!ENTITY editMenu.label                                 "Tseleganya">
 <!ENTITY editMenu.accesskey                             "T">
-<!ENTITY undoCmd.label                                  "Dirolola">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "D">
-<!ENTITY redoCmd.label                                  "Dira gape">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "D">
-<!ENTITY cutCmd.label                                   "Kgaola">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "o">
-<!ENTITY copyCmd.label                                  "Kopolola">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Manega">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "M">
 <!ENTITY deleteCmd.label                                "Phimola">
-<!ENTITY deleteCmd.accesskey                            "P">
 <!ENTITY deleteAbCmd.label                              "Phimola Buka ya Diaterese">
 <!ENTITY deleteContactCmd.label                         "Delete Contact">
 <!ENTITY deleteContactsCmd.label                        "Delete Contacts">
 <!ENTITY deleteListCmd.label                            "Delete List">
 <!ENTITY deleteListsCmd.label                           "Delete Lists">
 <!ENTITY deleteItemsCmd.label                           "Delete Items">
-<!ENTITY selectAllCmd.label                             "Tlhopha Gotlhe">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "o">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Ananya Leina la Ntlha/Bofelo">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "n">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 

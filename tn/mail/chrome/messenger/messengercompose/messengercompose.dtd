@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Dira sešwa">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "D">
-<!ENTITY cutCmd.label "Sega">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "g">
-<!ENTITY copyCmd.label "Kopolola">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Manega">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "M">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "u">
@@ -85,9 +79,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Rename Attachment…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "Tlhopha Gotlhe">
 <!ENTITY selectAllCmd.accesskey "G">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Find…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -222,20 +214,8 @@
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Go tswa go:">
 <!ENTITY fromAddr.accesskey "o">
-<!ENTITY toAddr.label "Go:">
-<!ENTITY ccAddr.label "Le:">
-<!ENTITY bccAddr.label "Gape le:">
-<!ENTITY replyAddr.label "Arabela-Go:">
-<!ENTITY newsgroupsAddr.label "Setlhopha sa dikgang:">
-<!ENTITY followupAddr.label "Latedisa-Go:">
-<!ENTITY subject.label "Temakgang:">
 <!ENTITY subject.accesskey "T">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "m">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Tsenya sefatshego sa monyenyo">
