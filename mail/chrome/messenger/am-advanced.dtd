@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-advanced.xhtml -->
+
 <!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
+
 <!ENTITY smtpDescription.label "Nella gestione delle proprie identità è possibile utilizzare un server della lista seguente selezionandolo come Server in uscita (SMTP) o lasciare il predefinito selezionando &quot;Server predefinito&quot;.">
+
 <!ENTITY smtpListAdd.label "Aggiungi…">
 <!ENTITY smtpListAdd.accesskey "g">
 <!ENTITY smtpListEdit.label "Modifica…">
@@ -12,6 +16,7 @@
 <!ENTITY smtpListDelete.accesskey "n">
 <!ENTITY smtpListSetDefault.label "Imposta predefinito">
 <!ENTITY smtpListSetDefault.accesskey "t">
+
 <!ENTITY serverDetails.label "Dettagli del server selezionato:">
 <!ENTITY serverDescription.label "Descrizione: ">
 <!ENTITY serverName.label "Nome server: ">

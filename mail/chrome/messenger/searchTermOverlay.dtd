@@ -8,6 +8,7 @@
 <!ENTITY matchAny.accesskey "z">
 <!ENTITY matchAllMsgs.label "Tutte incondizionatamente">
 <!ENTITY matchAllMsgs.accesskey "m">
+
 <!ENTITY searchTermListAttributesFlexValue "1">
 <!ENTITY searchTermListOperatorsFlexValue "1">
 <!ENTITY searchTermListValueFlexValue "3">

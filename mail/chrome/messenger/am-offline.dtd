@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Al fine di risparmiare spazio su disco, non scaricare:">
 <!ENTITY doNotDownloadNntp.label "Al fine di risparmiare spazio su disco, non scaricare per l’uso “non in linea”:">
 <!ENTITY doNotDownloadImap.label "Al fine di risparmiare spazio su disco, è possibile gestire la copia locale dei messaggi in base all’età e alla dimensione.">
-<!ENTITY allFoldersOffline.label "Conserva in questo computer i messaggi di questo account">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Conserva in questo computer i messaggi di qualunque cartella di questo account">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Nota: la modifica riguarda tutte le cartelle di questo account. Per impostare le singole cartelle, utilizzare il pulsante Avanzate… .">

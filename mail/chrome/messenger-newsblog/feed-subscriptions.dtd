@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL per il feed:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Inserire un URL valido per il feed da aggiungere">
 <!ENTITY feedLocation2.placeholder   "Scrivere un indirizzo di feed valido">
 <!ENTITY locationValidate.label      "Controllo">
 <!ENTITY validateText.label          "Controlla la correttezza e ottieni un url valido.">

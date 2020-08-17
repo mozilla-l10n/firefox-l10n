@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Incolla senza formattazione">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Incolla come">
-<!ENTITY pasteAs.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.label "Incolla come citazione">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Trova…">
-<!ENTITY findReplaceCmd.label "Trova e sostituisci…">
-<!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
-<!ENTITY enableInlineSpellChecker.accesskey "z">
-<!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "C">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserisci">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo del testo">
 <!ENTITY bodyTextCmd.accesskey "C">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Proprietà avanzate">
-<!ENTITY advancedPropertiesCmd.accesskey "P">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Allinea">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Giustifica">
 <!ENTITY alignJustify.accesskey "G">
 <!ENTITY alignJustify.tooltip "Giustificato">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Posizionamento assoluto">
-<!ENTITY layerSendToBack.tooltip "Porta sotto">
-<!ENTITY layerBringToFront.tooltip "Porta sopra">
 
 <!ENTITY increaseIndent.label "Aumenta indentazione">
 <!ENTITY increaseIndent.accesskey "u">
@@ -282,18 +261,6 @@
 <!ENTITY tableProperties.label "Proprietà tabella…">
 <!ENTITY tableProperties.accesskey "P">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Barra dei menu">
-<!ENTITY formatToolbar.tooltip "Barra di formattazione">
-<!ENTITY cutToolbarCmd.tooltip "Taglia">
-<!ENTITY copyToolbarCmd.tooltip "Copia">
-<!ENTITY pasteToolbarCmd.tooltip "Incolla">
-<!ENTITY printToolbarCmd.label "Stampa">
-<!ENTITY printToolbarCmd.tooltip "Stampa la pagina">
-<!ENTITY findToolbarCmd.label "Trova">
-<!ENTITY findToolbarCmd.tooltip "Trova testo nella pagina">
-<!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Controllo ortografico della parte selezionata o dell’intera pagina">
 <!ENTITY imageToolbarCmd.label "Immagine">
 <!ENTITY imageToolbarCmd.tooltip "Modifica proprietà immagine selezionata o inseriscine una nuova">
 <!ENTITY hruleToolbarCmd.label "Separatore">
@@ -306,9 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Modifica ancora selezionata o inseriscine una nuova">
 <!ENTITY TextColorButton.tooltip "Scegli il colore del testo">
 <!ENTITY BackgroundColorButton.tooltip "Scegli il colore dello sfondo">
-<!ENTITY throbber.tooltip "Vai alla pagina iniziale di &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Vai alla pagina iniziale di &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Scegli il colore di selezione testo">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Imposta grandezza carattere">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Allinea il testo al centro">
 <!ENTITY alignRightButton.tooltip "Allinea il testo lungo il margine destro">
 <!ENTITY alignJustifyButton.tooltip "Allinea il testo lungo i margini destro e sinistro">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Seleziona">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Rimuovi tag">
-<!ENTITY structRemoveTag.accesskey  "R">
-<!ENTITY structChangeTag.label      "Modifica tag">
-<!ENTITY structChangeTag.accesskey  "M">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserisci">

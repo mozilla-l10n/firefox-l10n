@@ -4,13 +4,18 @@
 
 <!ENTITY safeModeDialog.title "Modalità provvisoria di &brandShortName;">
 <!ENTITY window.width "49em">
+
 <!ENTITY safeModeDescription.label "&brandShortName; è avviato in modalità provvisoria, quindi i componenti aggiuntivi e le impostazioni personali sono stati temporaneamente disattivati.">
 <!ENTITY safeModeDescription2.label "È possibile eseguire in modo definitivo una o più delle seguenti operazioni:">
+
 <!ENTITY disableAddons.label "Disattiva tutti i Componenti aggiuntivi">
 <!ENTITY disableAddons.accesskey "D">
+
 <!ENTITY resetToolbars.label "Ripristina le barre degli strumenti e i controlli">
 <!ENTITY resetToolbars.accesskey "R">
+
 <!ENTITY changeAndRestartButton.label "Applica le modifiche e riavvia">
 <!ENTITY changeAndRestartButton.accesskey "A">
+
 <!ENTITY continueButton.label "Continua in modalità provvisoria">
 <!ENTITY continueButton.accesskey "C">

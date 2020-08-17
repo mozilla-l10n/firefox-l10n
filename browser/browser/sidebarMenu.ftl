@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Segnalibri
+
 sidebar-menu-history =
     .label = Cronologia
+
 sidebar-menu-synced-tabs =
     .label = Schede sincronizzate
+
 sidebar-menu-close =
     .label = Chiudi barra laterale

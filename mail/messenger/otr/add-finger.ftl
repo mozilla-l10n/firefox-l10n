@@ -4,11 +4,14 @@
 
 otr-add-finger =
     .title = Aggiungi chiave fingerprint OTR
+
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
 otr-add-finger-description = Inserire la chiave fingerprint OTR per { $name }.
+
 otr-add-finger-fingerprint = Fingerprint:
 otr-add-finger-tooltip-error = Inserito carattere non valido. Sono consentiti solo numeri e le lettere ABCDEF.
+
 otr-add-finger-input =
     .placeholder = La chiave fingerprint OTR lunga 40 caratteri

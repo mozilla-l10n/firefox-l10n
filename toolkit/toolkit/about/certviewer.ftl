@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Info autorità (AIA)
 certificate-viewer-certificate-policies = Criteri certificato
 certificate-viewer-embedded-scts = SCT inclusi
 certificate-viewer-crl-endpoints = Endpoint CRL
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Download

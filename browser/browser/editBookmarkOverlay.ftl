@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Nome:
     .accesskey = N
+
 bookmark-overlay-location =
     .value = Indirizzo:
     .accesskey = I
+
 bookmark-overlay-folder =
     .value = Cartella:
+
 bookmark-overlay-choose =
     .label = Scegli…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Visualizza tutte le cartelle dei segnalibri
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Nascondi
+
 bookmark-overlay-new-folder-button =
     .label = Nuova cartella
     .accesskey = o
+
 bookmark-overlay-tags =
     .value = Etichette:
     .accesskey = E
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Separare più etichette con una virgola
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Visualizza tutte le etichette
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Nascondi
+
 bookmark-overlay-keyword =
     .value = Parola chiave:
     .accesskey = P

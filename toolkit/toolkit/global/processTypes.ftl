@@ -3,13 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = Contenuti web
-process-type-privileged = Contenuti privilegiati
+
 process-type-privilegedabout = Pagine “about” privilegiate
+
 process-type-privilegedmozilla = Contenuti Mozilla privilegiati
+
 process-type-extension = Estensione
+
 process-type-file = File locale
+
 process-type-weblargeallocation = Allocazione di grandi dimensioni
+
 process-type-webisolated = Contenuti web isolati
+
 process-type-gpu = GPU
+
 process-type-socket = Socket
+
 process-type-prealloc = Preallocato

@@ -5,6 +5,7 @@
 <!ENTITY aboutDownloads.title "Download">
 <!ENTITY aboutDownloads.header "Download">
 <!ENTITY aboutDownloads.empty "Nessun download">
+
 <!ENTITY aboutDownloads.open "Apri">
 <!ENTITY aboutDownloads.remove "Elimina">
 <!ENTITY aboutDownloads.removeAll "Elimina tutto">

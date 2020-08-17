@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = Gestisci i componenti aggiuntivi facendo cl
 appmenu-addon-post-install-incognito-checkbox =
     .label = Consenti il funzionamento di questa estensione in finestre anonime
     .accesskey = C
-appmenu-addon-private-browsing =
-    .label = Cambiamenti relativi alle estensioni in finestre anonime
-    .buttonlabel = Gestisci estensioni
-    .buttonaccesskey = G
-    .secondarybuttonlabel = OK, tutto chiaro
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Qualunque estensione aggiunta a { -brand-shorter-name } non funzionerà in finestre anonime a meno che non venga garantito il permesso nelle impostazioni.
-appmenu-addon-private-browsing-learn-more = Scopri come gestire le impostazioni delle estensioni
+    
 appmenu-new-tab-controlled =
     .label = La pagina Nuova scheda è cambiata
     .buttonlabel = Mantieni modifiche

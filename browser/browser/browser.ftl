@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazione anonima)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigazione anonima)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigazione anonima)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigazione anonima)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -139,10 +141,12 @@ urlbar-midi-blocked =
     .tooltiptext = È stato bloccato l’accesso alle funzioni MIDI per questo sito web.
 urlbar-install-blocked =
     .tooltiptext = È stata bloccata l’installazione di componenti aggiuntivi per questo sito.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifica questo segnalibro ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -173,12 +177,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Adesso cerca con:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Impostazioni ricerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Modifica le impostazioni di ricerca
+
 search-one-offs-context-open-new-tab =
     .label = Cerca in una nuova scheda
     .accesskey = n
@@ -215,8 +221,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Visualizza editor quando si salva
     .accesskey = V
+
 bookmark-panel-done-button =
     .label = Fatto
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -290,12 +298,15 @@ popup-select-microphone =
     .value = Microfono da condividere:
     .accesskey = M
 popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
+
 popup-screen-sharing-not-now =
     .label = Non adesso
     .accesskey = a
+
 popup-screen-sharing-never =
     .label = Mai
     .accesskey = M
+
 popup-silence-notifications-checkbox = Disattiva notifiche di { -brand-short-name } durante la condivisione
 popup-silence-notifications-checkbox-warning = { -brand-short-name } non visualizzerà notifiche durante la condivisione.
 
@@ -312,10 +323,12 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Inserisci un indirizzo o avvia una ricerca
+
 urlbar-placeholder =
     .placeholder = Inserisci un indirizzo o avvia una ricerca
 
@@ -362,9 +375,11 @@ urlbar-permissions-granted =
     .tooltiptext = Sono stati concessi permessi aggiuntivi a questo sito web.
 urlbar-switch-to-tab =
     .value = Passa alla scheda:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensione:
+
 urlbar-go-button =
     .tooltiptext = Vai all’URL inserito nella barra degli indirizzi
 urlbar-page-action-button =

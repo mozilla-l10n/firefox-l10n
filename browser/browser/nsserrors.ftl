@@ -2,20 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Si è verificato un errore durante la connessione a { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codice di errore: { $error }
+
 psmerr-ssl-disabled = Impossibile stabilire una connessione sicura, il protocollo SSL è stato disattivato.
 psmerr-ssl2-disabled = Impossibile stabilire una connessione sicura, il sito utilizza una versione obsoleta e non sicura del protocollo SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Si è ricevuto un certificato non valido. Si consiglia di contattare l’amministratore del server o l’indirizzo email corrispondente e fornire le seguenti informazioni:
     
     Il certificato contiene lo stesso numero di serie di un altro certificato emesso dall’autorità di certificazione. Richiedere un nuovo certificato contenente un numero di serie univoco.
+
 ssl-error-export-only-server = Impossibile stabilire una connessione sicura. Il peer non supporta algoritmi crittografici di alto livello.
 ssl-error-us-only-server = Impossibile stabilire una connessione sicura. Il peer richiede algoritmi crittografici di alto livello non disponibili.
 ssl-error-no-cypher-overlap = Impossibile stabilire una connessione sicura con il peer: non esistono algoritmi crittografici in comune.

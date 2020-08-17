@@ -56,15 +56,15 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
             [1] Riapri scheda chiusa
            *[other] Riapri schede chiuse
         }
-    .accesskey = s
-undo-close-tab =
-    .label = Riapri scheda chiusa
     .accesskey = s
 close-tab =
     .label = Chiudi scheda

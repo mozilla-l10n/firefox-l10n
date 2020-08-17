@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Predefinito ({ $name })
 fonts-label-default-unnamed =
     .label = Predefinito
+
 fonts-encoding-dialog-title =
     .title = Caratteri e codifica
+
 fonts-language-legend =
     .value = Caratteri per:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proporzionale:
     .accesskey = P
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Con grazie
+
 default-font-sans-serif =
     .label = Senza grazie
+
 font-size-label =
     .value = Dim.:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Dim.:
     .accesskey = i
+
 font-serif-label =
     .value = Con grazie:
     .accesskey = c
+
 font-sans-serif-label =
     .value = Senza grazie:
     .accesskey = n
+
 font-monospace-label =
     .value = Larghezza fissa:
     .accesskey = L
+
 font-min-size-label =
     .value = Dim. minima carattere:
     .accesskey = m
+
 min-size-none =
     .label = Nessuna
 
 ## Fonts in message
 
 font-control-legend = Controllo carattere
+
 use-document-fonts-checkbox =
     .label = Consenti ai messaggi di utilizzare altri caratteri
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Utilizza caratteri a larghezza fissa per i messaggi in testo semplice
     .accesskey = U
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codifica testo
+
 text-encoding-description = Impostare la codifica di testo predefinita per inviare e ricevere la posta
+
 font-outgoing-email-label =
     .value = Posta in uscita:
     .accesskey = s
+
 font-incoming-email-label =
     .value = Posta in arrivo:
     .accesskey = a
+
 default-font-reply-checkbox =
     .label = Se possibile utilizzare la codifica del testo predefinita nelle risposte
     .accesskey = S

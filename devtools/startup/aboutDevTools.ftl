@@ -13,6 +13,7 @@ enable-common-message = Gli strumenti di sviluppo di Firefox sono disattivati pe
 enable-learn-more-link = Ulteriori informazioni sugli strumenti di sviluppo
 enable-enable-button = Attiva strumenti di sviluppo
 enable-close-button = Chiudi questa scheda
+
 welcome-title = Benvenuto negli strumenti di sviluppo di Firefox
 newsletter-title = Newsletter Mozilla dedicata agli sviluppatori
 newsletter-message = Ricevi notizie, suggerimenti e risorse sullo sviluppo web direttamente nella tua casella di posta.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Acconsento al trattamento dei dati da parte di Mozill
 newsletter-subscribe-button = Iscrivimi
 newsletter-thanks-title = Grazie!
 newsletter-thanks-message = Potrebbe essere necessario confermare l’iscrizione se non sei già iscritto a una newsletter Mozilla. Verifica se c’è un nostro messaggio nella posta in arrivo o nello spam.
+
 footer-title = Firefox Developer Edition
 footer-message = Hai bisogno di qualcosa in più rispetto ai soli strumenti di sviluppo? Dai un’occhiata alla versione di Firefox realizzata appositamente per sviluppatori e flussi di lavoro all’avanguardia.
 footer-learn-more-link = Ulteriori informazioni
+
 features-learn-more = Ulteriori informazioni
 features-inspector-title = Analisi pagina
 features-inspector-desc = Analizza e migliora il codice per realizzare layout perfetti fino all’ultimo pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>

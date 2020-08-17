@@ -14,5 +14,7 @@ accounts-conn-security = Sicurezza della connessione
 accounts-auth-method = Metodo di autenticazione
 accounts-default = Predefinito?
 identity-name = Identità
+
 send-via-email = Manda via mail
+
 app-basics-telemetry = Dati telemetria

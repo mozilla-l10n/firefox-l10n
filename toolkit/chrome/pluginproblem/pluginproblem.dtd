@@ -8,6 +8,9 @@
 <!ENTITY blockedPlugin.label "Questo plugin è stato bloccato per motivi di sicurezza.">
 <!ENTITY hidePluginBtn.label "Nascondi plugin">
 <!ENTITY managePlugins "Gestione plugin…">
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Ricaricare la pagina">
 <!ENTITY reloadPlugin.post " per riprovare.">
@@ -19,6 +22,7 @@
 <!ENTITY report.unavailable "Nessuna segnalazione disponibile.">
 <!ENTITY report.comment "Aggiungi un commento (i commenti sono visibili pubblicamente)">
 <!ENTITY report.pageURL "Includi indirizzo della pagina">
+
 <!ENTITY plugin.file "File">
 <!ENTITY plugin.mimeTypes "Tipi MIME">
 <!ENTITY plugin.flashProtectedMode.label "Attiva modalità protetta in Adobe Flash">

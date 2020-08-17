@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Composizione e indirizzi">
 <!ENTITY addressingGroupTitle.label "Indirizzi">
 <!ENTITY addressingText.label      "Quando si cercano indirizzi:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "nessuno">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Composizione">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
