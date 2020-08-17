@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "лістоў">
 <!ENTITY alwaysAuthenticate.label "Заўсёды патрабаваць апазнаванне ў час злучэння з гэтым паслугачом">
 <!ENTITY alwaysAuthenticate.accesskey "ў">
-<!ENTITY newsrcFilePath.label "файл newsrc:">
-<!ENTITY newsrcPicker.label "Выбраць файл newsrc">
 <!ENTITY abbreviate.label "Паказваць назвы навінакупаў у шыбе паштовай папкі як:">
 <!ENTITY abbreviateOn.label "Цэлыя назвы (Напрыклад, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Скарочаныя назвы (Напрыклад, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Пашыраны…">
 <!ENTITY advancedButton.accesskey "ш">
 <!ENTITY serverDefaultCharset2.label "Прадвызначанае кадаванне тэксту:">
-<!ENTITY localPath.label "Мясцовая дырэкторыя:">
 <!ENTITY localFolderPicker.label "Вылучыць мясцовую дырэкторыю">
 <!ENTITY browseFolder.label "Агляд…">
 <!ENTITY browseFolder.accesskey "г">

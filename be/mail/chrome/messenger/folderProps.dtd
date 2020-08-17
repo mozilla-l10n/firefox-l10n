@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Тып папкі:">
 
 <!ENTITY folderQuotaTab.label                    "Доля">
-<!ENTITY folderQuotaRoot.label                   "Корань доляў:">
 <!ENTITY folderQuotaUsage.label                  "Выкарыстоўванне:">
 <!ENTITY folderQuotaStatus.label                 "Статус:">
 

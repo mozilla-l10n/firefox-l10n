@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Атрымаць на Google Play
 login-app-promo-apple =
     .alt = Сцягнуць з App Store
+
 login-filter =
     .placeholder = Шукаць лагіны
+
 create-login-button = Дадаць новы лагін
+
 fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
 fxaccounts-sign-in-button = Увайсці ў { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
@@ -69,6 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Шукаеце захаваныя лагіны? Наладзьце { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Шукаеце захаваныя лагіны? Наладзьце { -sync-brand-short-name } або імпартуйце іх.
 about-logins-login-intro-heading-logged-in = Сінхранізаваныя лагіны не знойдзены.
 login-intro-description = Калі вы захавалі свае лагіны ў { -brand-product-name } на іншай прыладзе, вось як атрымаць іх тут:
@@ -76,6 +80,7 @@ login-intro-instruction-fxa = Стварыце альбо ўвайдзіце ў 
 login-intro-instruction-fxa-settings = Пераканайцеся, што вы ўстанавілі сцяжок Лагіны у наладах { -sync-brand-short-name }
 about-logins-intro-instruction-help = Для атрымання дадатковай даведкі наведайце <a data-l10n-name="help-link">{ -lockwise-brand-short-name } падтрымку</a>
 about-logins-intro-import = Калі вашы паролі захоўваюцца ў іншым браўзеры, вы можаце <a data-l10n-name="import-link">імпартаваць іх у { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Калі вашы лагіны захоўваюцца па-за { -brand-product-name }, вы можаце <a data-l10n-name="import-browser-link">імпартаваць іх з іншага браўзера</a> або <a data-l10n-name="import-file-link">з файла</a>
 
 ## Login
@@ -116,25 +121,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Каб змяніць ва�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = рэдагаваць захаваны лагін
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Каб пабачыць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = паказаць захаваны пароль
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Каб скапіраваць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = скапіраваць захаваны пароль
+
+## Master Password notification
+
+master-password-notification-message = Калі ласка, увядзіце ваш галоўны пароль для прагляду захаваных лагінаў і пароляў
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Каб экспартаваць вашы лагіны, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = экспартаваць захаваныя лагіны і паролі
-
-## Master Password notification
-
-master-password-notification-message = Калі ласка, увядзіце ваш галоўны пароль для прагляду захаваных лагінаў і пароляў
 
 ## Primary Password notification
 
@@ -166,12 +174,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Скасаваць
 confirmation-dialog-dismiss-button =
     .title = Скасаваць
+
 about-logins-confirm-remove-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 about-logins-confirm-remove-dialog-confirm-button = Выдаліць
+
 about-logins-confirm-export-dialog-title = Экспарт лагінаў і пароляў
 about-logins-confirm-export-dialog-message = Вашы паролі будуць захаваны як звычайны тэкст (напр., BadP@ssw0rd), таму кожны, хто можа адкрыць экспартаваны файл, можа ўбачыць іх.
 about-logins-confirm-export-dialog-confirm-button = Экспартаваць…
+
 confirm-discard-changes-dialog-title = Адхіліць незахаваныя змены?
 confirm-discard-changes-dialog-message = Усе незапісаныя змены будуць страчаны.
 confirm-discard-changes-dialog-confirm-button = Адхіліць
@@ -202,8 +213,10 @@ about-logins-vulnerable-alert-learn-more-link = Падрабязней
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запіс для { $loginTitle } з такім імем карыстальніка ўжо ёсць. <a data-l10n-name="duplicate-link">Перайсці да наяўнага запісу?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Пры спробе захавання гэтага пароля здарылася памылка.
+
 
 ## Login Export Dialog
 

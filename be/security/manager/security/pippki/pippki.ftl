@@ -21,6 +21,9 @@ change-password-reenter = Новы пароль (ізноў):
 reset-password-window =
     .title = Скіданне галоўнага пароля
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Скінуць
 reset-password-text = Калі вы пазбавіцеся вашага галоўнага пароля, усе вашы захаваныя паролі сеціва і э-пошты, даныя формаў, асабістыя пасведчанні і прыватныя ключы згубяцца. Вы сапраўды хочаце скінуць ваш галоўны пароль?

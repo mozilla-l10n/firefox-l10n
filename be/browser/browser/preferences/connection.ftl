@@ -35,12 +35,7 @@ connection-proxy-http = HTTP проксі
     .accesskey = п
 connection-proxy-http-port = Порт
     .accesskey = п
-connection-proxy-http-share =
-    .label = Ужываць адзін проксі для ўсіх пратаколаў
-    .accesskey = ў
 
-connection-proxy-ssl = SSL проксі
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Таксама выкарыстоўваць гэты проксі для FTP і HTTPS
     .accesskey = п

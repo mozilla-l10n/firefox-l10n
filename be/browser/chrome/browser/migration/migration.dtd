@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Імпартаваць налады, закладкі, гісторыю, паролі і іншыя дадзеныя з:">
 <!ENTITY importFromUnix.label           "Імпарт Налад, Закладак, Гісторыі, Пароляў ці іншых дадзеных з:">
-<!ENTITY importFromBookmarks.label      "Імпарт Закладак з:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

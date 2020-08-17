@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Сінхранізаваныя карткі
 synced-tabs-sidebar-noclients-subtitle = Хочаце пабачыць вашы карткі з іншых прылад тут?
-synced-tabs-sidebar-notsignedin = Увайдзіце, каб бачыць спіс картак з вашых астатніх прылад.
 synced-tabs-sidebar-intro = Паглядзіце спіс картак з іншых прылад.
 synced-tabs-sidebar-unverified = Ваш уліковы запіс патрабуе пацвярджэння.
 synced-tabs-sidebar-notabs = Няма адкрытых картак
