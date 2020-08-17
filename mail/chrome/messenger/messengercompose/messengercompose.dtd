@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "रिडू गर्नुहोस्">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "काट्नुहोस्">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "प्रतिलिपि बनाउनुहोस्">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "टाँस्नुहोस्">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "मेट्नुहोस्">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY editRewrapCmd.label "पुन: बेर्नुहोस्">
-<!ENTITY selectAllCmd.label "सबै चयन गर्नुहोस्">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "फेरि फेला पार्नुहोस्">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -180,17 +172,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "बाट:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "लाई:">
-<!ENTITY ccAddr.label "बोधार्थ प्रतिलिपि:">
-<!ENTITY bccAddr.label "गुप्त बोधार्थ प्रतिलिपि:">
-<!ENTITY replyAddr.label "लाई-जवाफ:">
-<!ENTITY newsgroupsAddr.label "समाचार समूह:">
-<!ENTITY followupAddr.label "लाई-अनुगमन:">
-<!ENTITY subject.label "विषय:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 

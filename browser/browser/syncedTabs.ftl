@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sync गरिएका ट्याबहरू
 synced-tabs-sidebar-noclients-subtitle = अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?
-synced-tabs-sidebar-notsignedin = तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।
 synced-tabs-sidebar-unverified = तपाईँको खाता प्रमाणित गर्न जरुरी छ।
 synced-tabs-sidebar-notabs = खुला ट्याबहरू छैनन्
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } को प्राथमिकताहरू खोल्नुहोस्

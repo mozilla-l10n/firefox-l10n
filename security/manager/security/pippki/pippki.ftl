@@ -21,6 +21,9 @@ change-password-reenter = नयाँ गोप्यशब्द(पुनः)
 reset-password-window =
     .title = मुल गोप्यशब्द रिसेट गर्नुहोस्
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = रिसेट गर्नुहोस्
 reset-password-text = तपाईँले मास्टर प्रवेशचिन्ह रिसेट गर्नुभयो भने, तपाईँका सबै भण्डारण गरिएका वेब र इमेल प्रवेशचिन्हहरू, फाराम लगत, निजी प्रमाणपत्रहरू, र निजी कुञ्जीहरूलाई बिर्सिनेछ। के तपाईँ मास्टर प्रवेशचिन्ह रिसेट गर्ने कुरामा दृढ हुनुहुन्छ?

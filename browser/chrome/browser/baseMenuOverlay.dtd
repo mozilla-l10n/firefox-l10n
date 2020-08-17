@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "सानो गर्नुहोस्">
-<!ENTITY bringAllToFront.label    "सबैलाई अगाडि ल्याउनुहोस्">
-<!ENTITY zoomWindow.label         "जुम गर्नुहोस्">
-<!ENTITY windowMenu.label         "सञ्झ्याल">
-
-<!ENTITY helpMenu.label           "सहयोग"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "सहयोग"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
 <!ENTITY aboutProduct2.label      "&brandShorterName; को बारेमा">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShorterName; सहयोग">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "कुञ्जीपाटी सर्टकटहरू">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "एडअनहरू अक्षम पारेर पुनःसुरु गर्नुहोस् …">
-<!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "एडअनहरू सक्षम पारेर पुनःसुरु गर्नुहोस्">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "समस्या समाधानको सूचना">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दिनुहोस्…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "प्राथमिकताहरू…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "सेवाहरू">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; लुकाउनुहोस्">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "अन्य लुकाउनुहोस्">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "सबै देखाउनुहोस्">
 

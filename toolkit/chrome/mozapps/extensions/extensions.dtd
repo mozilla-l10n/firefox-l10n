@@ -3,73 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "सक्षम पार्नुहोस्">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "अक्षम पार्नुहोस्">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "सक्रिय पार्न लगाउनुहोस्">
-<!ENTITY cmd.askToActivate.tooltip            "यो एड-अन प्रयोग गर्न हरेक पटक सोध्नुहोस्">
-<!ENTITY cmd.alwaysActivate.label             "सँधै सक्रिय गर्नुहोस्">
-<!ENTITY cmd.alwaysActivate.tooltip           "सधैँ यो एड-अन प्रयोग गर्नुहोस्">
-<!ENTITY cmd.neverActivate.label              "कहिल्यै सक्रिय नगर्नुहोस्">
-<!ENTITY cmd.neverActivate.tooltip            "कहिल्यै यो एड-अन प्रयोग नगर्नुहोस्">
-<!ENTITY cmd.stateMenu.tooltip                "यो एड-अन कहिले चल्छ परिवर्तन गर्नुहोस्">
-
-<!ENTITY cmd.uninstallAddon.label             "हटाउनुहोस्">
-<!ENTITY cmd.uninstallAddon.accesskey         "ह">
-<!ENTITY cmd.showPreferencesWin.label         "विकल्पहरू">
-<!ENTITY cmd.showPreferencesWin.tooltip       "यस एड-अनका विकल्पहरू बदल्नुहोस्">
-<!ENTITY cmd.showPreferencesUnix.label        "प्राथमिकताहरू">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
-
-<!ENTITY cmd.showReleaseNotes.label           "रिलिज नोट देखाउनुहोस्">
-<!ENTITY cmd.showReleaseNotes.tooltip         "यो अद्यावधीको रिलिज टिप्पणीहरू देखाउनुहोस्">
-<!ENTITY cmd.hideReleaseNotes.label           "रिलिज नोट लुकाउनुहोस्">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "यो अद्यावधिको लागि रिलिज नोटहरू लुकाउनुहोस्">
-<!ENTITY cmd.findReplacement.label            "प्रतिस्थापन फेला पार्नुहोस्">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "रद्द गर्नुहोस्">
-
-
-<!ENTITY addon.details.label                  "थप">
-<!ENTITY addon.details.tooltip                "यस एड-अन बारे थप विवरण देखाउनुहोस्">
-<!ENTITY addon.unknownDate                    "अज्ञात">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(disabled)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "अद्यावधिक">
-<!ENTITY addon.undoAction.label               "पूर्वस्थितिमा फर्काउनुहोस्">
-<!ENTITY addon.undoAction.tooltip             "यस कार्यलाई पूर्ववत स्थितिमा ल्याउनुहोस्">
-<!ENTITY addon.undoRemove.label               "पूर्वस्थितिमा फर्काउनुहोस्">
-<!ENTITY addon.undoRemove.tooltip             "यस एड-अनलाई स्थापित राख्नुहोस्">
-
-<!ENTITY addon.install.label                  "स्थापना गर्नुहोस्">
-<!ENTITY addon.install.tooltip                "यस एड-अनलाई स्थापित गर्नुहोस्">
-<!ENTITY addon.updateNow.label                "अद्यावधिक गर्नुहोस्">
-<!ENTITY addon.updateNow.tooltip              "यो एड-अनको लागि अद्यावधिक स्थापना गर्नुहोस्">
-<!ENTITY addon.includeUpdate.label            "अद्यावधिमा समावेश गर्ने">
-<!ENTITY addon.updateAvailable.label          "अद्यावधि उपलब्ध छ">
-<!ENTITY addon.checkingForUpdates.label       "अद्यावधिकहरूका लागि जाँच गर्नुहोस्…">
-<!ENTITY addon.releaseNotes.label             "रिलिज नोटहरू:">
-<!ENTITY addon.loadingReleaseNotes.label      "लोड हुँदैछ…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "माफ गर्नुहोस्, तर रिलीज टिप्पणीहरू लोड गर्दा एउटा त्रुटि भयो।">
-
-<!ENTITY addon.createdBy.label                "सर्जक">
-
-<!ENTITY settings.path.button.label           "ब्राउज गर्नुहोस्…">
 
 <!ENTITY setting.learnmore "थप जान्नुहोस्…">
 

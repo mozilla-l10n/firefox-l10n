@@ -94,6 +94,8 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -158,6 +160,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
     .accesskey = D
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -227,8 +236,10 @@ popup-all-windows-shared = तपाईँको स्क्रिन मा �
 
 urlbar-default-placeholder =
     .defaultPlaceholder = खोज वा ठेगाना राखनुहोस्।
+
 urlbar-placeholder =
     .placeholder = खोज वा ठेगाना राखनुहोस्।
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ब्राउजर रिमोट कंट्रोल अन्तर्गत छ
 urlbar-switch-to-tab =

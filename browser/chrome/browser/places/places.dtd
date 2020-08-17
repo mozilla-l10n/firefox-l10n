@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "फाइल रोज्नुहोस्...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "यो साइटको बारेमा बिर्सनुहोस्">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "खोल्नुहोस्">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "लिङ्कलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस् ">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "नयाँ ट्याबमा खोल्नुहोस्">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "सबैलाई ट्याबहरूमा खोल्नुहोस्">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "गुणहरू">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "नाम अनुसार क्रमबद्ध गर्नुहोस्">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "नयाँ पुस्तकचिनो…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "नयाँ फोल्डर…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "नयाँ विभाजक">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "नाम">
 <!ENTITY col.tags.label          "ट्यागहरू">
 <!ENTITY col.url.label           "स्थान">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "भ्रमण गणना">
 <!ENTITY col.dateadded.label     "थपिएको">
 <!ENTITY col.lastmodified.label  "पछिल्लो परिमार्जित">
-
-<!ENTITY historySearch.placeholder  "इतिहास खोज्नुहोस्">
-<!ENTITY bookmarksSearch.placeholder  "पुस्तकचिनोहरू खोज्नुहोस्">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "वस्तुको गुण हेर्न र सम्पादन गर्न कुनै एक वस्तु चयन गर्नुहोस्">
 
-<!ENTITY view.label               "दृश्य">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "मिति अनुरूप">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "साइट अनुरूप">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "धेरै अगान्तुक आएको अनुसार">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "सबभन्दा पछि भ्रमण गरिएको अनुसार">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "समय अनी साईट अनुसार">
-<!ENTITY byDayAndSite.accesskey   "t">
