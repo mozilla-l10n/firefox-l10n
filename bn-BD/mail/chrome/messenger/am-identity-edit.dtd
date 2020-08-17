@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identityDialog.style "width: 67ch;">
-
 <!ENTITY identityListDesc.label "এই পরিচয়ের জন্য সেটিংসমূহ কনফিগার করা হবে:">
 
 <!ENTITY settingsTab.label "সেটিংসমূহ">

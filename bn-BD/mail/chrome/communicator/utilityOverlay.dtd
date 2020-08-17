@@ -15,25 +15,11 @@
 <!ENTITY editMenu.label "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "পূর্বাবস্থায় ফিরিয়ে আনা (U)">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "পুনরায় করা (R)">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "কাটা (t)">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "অনুলিপি (C)">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "প্রতিলেপন (P)">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "মুছে ফেলা (D)">
 <!ENTITY deleteCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 

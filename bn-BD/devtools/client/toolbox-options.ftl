@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = রিমোট ডিবাগিং সক্রিয় করুন
-options-enable-remote-tooltip =
-    .title = অপশনটি চালু করলে ডেভেলোপার টুলগুলো দূরে থেকে ডিবাগ করা যাবে যেমন Firefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করুন (যখন টুলবক্স খোলা থাকে)

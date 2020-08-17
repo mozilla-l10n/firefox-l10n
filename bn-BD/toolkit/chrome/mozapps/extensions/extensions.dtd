@@ -3,74 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!-- addon actions -->
-<!ENTITY cmd.enableAddon.label                "সক্রিয় E">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "নিষ্ক্রিয় D">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "সক্রিয় করতে বলুন">
-<!ENTITY cmd.askToActivate.tooltip            "প্রতিবার এই এড-অন ব্যবহার এর সময় জিজ্ঞাসা করুন">
-<!ENTITY cmd.alwaysActivate.label             "সবসময় সক্রিয়">
-<!ENTITY cmd.alwaysActivate.tooltip           "সবসময় এই অ্যাড-অন টি ব্যাবহার করুন">
-<!ENTITY cmd.neverActivate.label              "কখনোই সক্রিয় করবেন না">
-<!ENTITY cmd.neverActivate.tooltip            "কখনোই এই অ্যাড-অন টি ব্যাবহার করবেন না">
-<!ENTITY cmd.stateMenu.tooltip                "যখন এই এড-অনটি চালু হয় তখন পরিবর্তন করুন">
-
-<!ENTITY cmd.uninstallAddon.label             "অপসারন করুন R">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "অপশন">
-<!ENTITY cmd.showPreferencesWin.tooltip       "এই অ্যাড-অন এর অপশন পরিবর্তন করুন">
-<!ENTITY cmd.showPreferencesUnix.label        "পছন্দসমূহ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন">
-
-<!ENTITY cmd.showReleaseNotes.label           "রিলিজ নোট প্রদর্শন করা হবে">
-<!ENTITY cmd.showReleaseNotes.tooltip         "হালনাগাদের জন্য রিলিজ নোট প্রদর্শন করা হবে">
-<!ENTITY cmd.hideReleaseNotes.label           "রিলিজ নোট আড়াল করা হবে">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "এই হালনাগাদের জন্য রিলিজ নোট আড়াল করা হবে">
-<!ENTITY cmd.findReplacement.label            "কোন প্রতিস্থাপন খুঁজুন">
-
 <!-- discovery view -->
 
-
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "বাতিল">
-
-<!ENTITY addon.details.label                  "আরও">
-<!ENTITY addon.details.tooltip                "এই অ্যাড-অন সম্পর্কে আরও বিস্তারিত তথ্য প্রদর্শন">
-<!ENTITY addon.unknownDate                    "অজানা">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(নিস্ক্রিয়)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "হালনাগাদ">
-<!ENTITY addon.undoAction.label               "পূর্বাবস্থায় আনা">
-<!ENTITY addon.undoAction.tooltip             "কাজটিকে পূর্বাবস্থায় আনা">
-<!ENTITY addon.undoRemove.label               "পূর্বাবস্থায় আনা">
-<!ENTITY addon.undoRemove.tooltip             "এই অ্যাড-অন ইনস্টলকৃত অবস্থায় রেখে দেয়া হবে">
-
-<!ENTITY addon.install.label                  "ইনস্টল">
-<!ENTITY addon.install.tooltip                "এ অ্যাড-অন ইনস্টল">
-<!ENTITY addon.updateNow.label                "এখন হালনাগাদ">
-<!ENTITY addon.updateNow.tooltip              "এ অ্যাড-অন এর জন্য হালনাগাদ ইনস্টল">
-<!ENTITY addon.includeUpdate.label            "হালনাগাদে সংযুক্ত">
-<!ENTITY addon.updateAvailable.label          "হালনাগাদ বিদ্যমান">
-<!ENTITY addon.checkingForUpdates.label       "হালনাগাদ পরীক্ষা…">
-<!ENTITY addon.releaseNotes.label             "রিলিজ নোট:">
-<!ENTITY addon.loadingReleaseNotes.label      "লোড করা হচ্ছে…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "দুঃখিত রিলিজ নোট লোড করার সময় ত্রুটি">
-
-<!ENTITY addon.createdBy.label                "দ্বারা ">
-
-<!ENTITY settings.path.button.label           "ব্রাউজ…">
 
 <!ENTITY setting.learnmore "আরও জানুন…">
 

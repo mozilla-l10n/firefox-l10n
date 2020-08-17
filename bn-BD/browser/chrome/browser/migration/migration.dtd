@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "উল্লেখিত স্থান থেকে অপশনসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইমপোর্ট করা হবে:">
 <!ENTITY importFromUnix.label           "উল্লেখিত স্থান থেকে পছন্দসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইমপোর্ট করা হবে:">
-<!ENTITY importFromBookmarks.label      "উল্লেখিত স্থান থেকে বুকমার্ক ইমপোর্ট করা হবে:">
 
 <!ENTITY importFromIE.label             "মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার">
 <!ENTITY importFromIE.accesskey         "M">

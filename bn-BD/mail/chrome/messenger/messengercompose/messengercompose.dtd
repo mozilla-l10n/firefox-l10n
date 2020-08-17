@@ -60,15 +60,9 @@
 <!ENTITY redoCmd.label "পুনরায় করা (R)">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "কাটা (t)">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "অনুলিপি (C)">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "প্রতিলেপন (P)">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -76,9 +70,7 @@
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY editRewrapCmd.label "পুনরায় মোড়ানো (w)">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY selectAllCmd.label "সব নির্বাচন করা হবে (A)">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "পুনরায় খোঁজা হবে (g)">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -194,19 +186,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "প্রেরক (r):">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "প্রাপক:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "উত্তরের- প্রাপক:">
-<!ENTITY newsgroupsAddr.label "নিউজগ্রুপ:">
-<!ENTITY followupAddr.label "অনুক্রমণ- প্রাপক:">
-<!ENTITY subject.label "বিষয় (S):">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "একটি হাস্যজ্জ্বল মুখ প্রবেশ করান">

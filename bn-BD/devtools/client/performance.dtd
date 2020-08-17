@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "নমুনা ফাংশনটির নাম এবং উৎসের অবস্থান।">
 <!ENTITY performanceUI.table.totalAlloc               "মোট নমুনা বরাদ্দকৃত">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "এই অবস্থানে এবং callees মধ্যে নমুনা বস্তু বণ্টন করার মোট সংখ্যা।">
-<!ENTITY performanceUI.table.selfAlloc                "নিজস্ব নমুনা বরাদ্দকৃত">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "এই অবস্থানে বরাদ্দকৃত অবজেক্ট নমুনার সংখ্যা">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
