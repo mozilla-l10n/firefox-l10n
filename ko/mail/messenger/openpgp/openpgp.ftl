@@ -325,11 +325,11 @@ expiry-keys-expire-soon =
     새 키를 생성하고 이를 사용하도록 해당 계정을 구성하는 것이 좋습니다.
 expiry-key-missing-owner-trust =
     비밀 키 { $desc }에 신뢰가 없습니다.
-    주요 속성에서 "인증 의존함"을 "최종"으로 설정하는 것이 좋습니다.
+    주요 속성에서 "인증 의존함"을 "완전히 신뢰함"으로 설정하는 것이 좋습니다.
 expiry-keys-missing-owner-trust =
     다음 비밀 키에 신뢰가 없습니다.
     { $desc }.
-    주요 속성에서 "인증 의존함"을 "최종"으로 설정하는 것이 좋습니다.
+    주요 속성에서 "인증 의존함"을 "완전히 신뢰함"으로 설정하는 것이 좋습니다.
 expiry-open-key-manager = OpenPGP 키 관리자 열기
 expiry-open-key-properties = 키 속성 열기
 # Strings filters.jsm
@@ -405,7 +405,7 @@ key-ring-pub-key-revoked = { $userId } 키 (키 ID { $keyId })가 폐기되었�
 key-ring-pub-key-expired = { $userId } 키 (키 ID { $keyId })가 만료되었습니다.
 key-ring-key-disabled = { $userId } 키 (키 ID { $keyId })가 비활성화되었습니다. 사용할 수 없습니다.
 key-ring-key-invalid = { $userId } 키 (키 ID { $keyId })가 유효하지 않습니다. 올바르게 확인하십시오.
-key-ring-key-not-trusted = { $userId } 키 (키 ID { $keyId })는 충분히 신뢰할 수 없습니다. 서명에 사용하려면 키의 신뢰 수준을 "영구"로 설정하십시오.
+key-ring-key-not-trusted = { $userId } 키 (키 ID { $keyId })는 충분히 신뢰할 수 없습니다. 서명에 사용하려면 키의 신뢰 수준을 "완전히 신뢰함"으로 설정하십시오.
 key-ring-no-secret-key = 키링에 { $userId } (키 ID { $keyId })에 대한 비밀 키가 없는 것 같습니다. 서명에 키를 사용할 수 없습니다.
 key-ring-pub-key-not-for-signing = { $userId } 키 (키 ID { $keyId })는 서명에 사용할 수 없습니다.
 key-ring-pub-key-not-for-encryption = { $userId } 키 (키 ID { $keyId })는 암호화에 사용할 수 없습니다.
@@ -473,7 +473,7 @@ key-valid-expired = 만료됨
 key-trust-untrusted = 신뢰할 수 없음
 key-trust-marginal = 일부
 key-trust-full = 신뢰할 수 있음
-key-trust-ultimate = 완전히 신뢰할 수 있음
+key-trust-ultimate = 완전히 신뢰함
 key-trust-group = (그룹)
 # Strings used in commonWorkflows.js
 import-key-file = OpenPGP 키 파일 가져 오기
@@ -579,3 +579,11 @@ dlg-no-prompt = 이 대화 상자를 다시 표시하지 않음
 enig-prompt = OpenPGP 프롬프트
 enig-confirm = OpenPGP 확인
 enig-alert = OpenPGP 경고
+enig-info = OpenPGP 정보
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = 재시도
+dlg-button-skip = 건너뛰기
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP 오류
+enig-alert-title =
+    .title = OpenPGP 경고
