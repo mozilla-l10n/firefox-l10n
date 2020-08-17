@@ -4,6 +4,7 @@
 
 page-title = Feilsøking
 page-subtitle = Denne sida inneheld teknisk informasjon som kan vere nyttig når du prøver å løyse eit problem. Gå til <a data-l10n-name="support-link">brukarstøttenettsida</a> for å få svar på ofte stilte spørsmål om { -brand-short-name }.
+
 crashes-title = Krasjrapportar
 crashes-id = Rapport-ID
 crashes-send-date = Sendt
@@ -104,8 +105,6 @@ graphics-desktop-environment = Skrivebordsmiljø
 place-database-title = Plasser database
 place-database-integrity = Integritet
 place-database-verify-integrity = Stadfest integritet
-js-title = JavaScript
-js-incremental-gc = Inkrementell GC
 a11y-title = Tilgjenge
 a11y-activated = Aktivert
 a11y-force-disabled = Hindra tilgjenge
@@ -125,6 +124,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argument
 safe-mode-title = Prøv trygg modus
 restart-in-safe-mode-label = Start på nytt utan tillegg…
+
 clear-startup-cache-title = Prøv å tøme oppstart-snøgglageret
 clear-startup-cache-label = Tøm oppstart-snøgglageret…
 startup-cache-dialog-title = Tøm oppstart-snøgglageret
@@ -135,7 +135,6 @@ restart-button-label = Start på nytt
 
 audio-backend = Lydgrensesnitt
 max-audio-channels = Maks kanalar
-channel-layout = Føretrekt kanaloppsett
 sample-rate = Føretrekt samplingsfart
 roundtrip-latency = Tur-/retur-forseinking (standardavvik)
 media-title = Media
@@ -188,6 +187,7 @@ report-crash-for-days =
         [one] Krasjrapportar den siste { $days } dag
        *[other] Krasjrapportar dei siste { $days } dagane
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -195,6 +195,7 @@ crashes-time-minutes =
         [one] { $minutes } minutt sidan
        *[other] { $minutes } minutt sidan
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -202,6 +203,7 @@ crashes-time-hours =
         [one] { $hours } time sidan
        *[other] { $hours } timar sidan
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -209,6 +211,7 @@ crashes-time-days =
         [one] { $days } dag sidan
        *[other] { $days } dagar sidan
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -216,6 +219,7 @@ pending-reports =
         [one] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handsaming i tidsrommet)
        *[other] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handtering i tidsrommet)
     }
+
 raw-data-copied = Rådata kopiert til utklippstavla
 text-copied = Tekst kopiert til utklippstavla
 
@@ -228,9 +232,11 @@ blocked-mismatched-version = Blokkert for din versjon av grafikkdrivar, ubalanse
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokkert av grafikkdrivaren. Prøv å oppdatera grafikkdrivaren til versjon { $driverVersion } eller nyare.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parameter
+
 compositing = Kompositt
 hardware-h264 = H264 hardvaredekodning
 main-thread-no-omtc = hovudtråd, ingen OMTC
@@ -245,6 +251,7 @@ virtual-monitor-disp = Virtuell bildeskjermvising
 
 found = Funne
 missing = Manglar
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Skildring
@@ -268,21 +275,25 @@ webgl2-version = WebGL 2 drivarversjon
 webgl2-driver-extensions = WebGL 2 drivarutviding
 webgl2-extensions = WebGL 2 utviding
 blocklisted-bug = Svartelista på grunn av kjende problem
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = feil { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blokkert på grunn av kjende problem: <a data-l10n-name="bug-link">feilrapport { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Svartlista; feilkode { $failureCode }
+
 d3d11layers-crash-guard = D3D11-kompositoren
 d3d11video-crash-guard = D3D11 videodekodar
-d3d9video-crash-buard = D3D9 videodekodar
 d3d9video-crash-guard = D3D9 videodekodar
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video-dekodar
+
 reset-on-next-restart = Tilbakestill ved neste omstart
 gpu-process-kill-button = Avslutt GPU-prosess
 gpu-device-reset = Einingstilbakestilling
@@ -292,8 +303,10 @@ content-uses-tiling = Brukar Tiling (innhald)
 off-main-thread-paint-enabled = Oppteikning utanfor hovudtråd aktivert
 off-main-thread-paint-worker-count = Opptegning utanfor hovudtråd worker-mengde
 target-frame-rate = Målrammefart
+
 min-lib-versions = Forventa minimumsversjon
 loaded-lib-versions = Versjon i bruk
+
 has-seccomp-bpf = Seccomp-BPF (Systemkall-filtrering)
 has-seccomp-tsync = Seccomp-trådsynkronisering
 has-user-namespaces = Brukarnamnområde
@@ -306,15 +319,18 @@ sandbox-proc-type-content = innhald
 sandbox-proc-type-file = filinnhald
 sandbox-proc-type-media-plugin = programtillegg for media
 sandbox-proc-type-data-decoder = datadekodar
+
 startup-cache-title = Oppstart-snøgglager
 startup-cache-disk-cache-path = Sti for disk-snøgglager
 startup-cache-ignore-disk-cache = Ignorer disk-snøgglager
 startup-cache-found-disk-cache-on-init = Fann disk-snøgglager på Init
 startup-cache-wrote-to-disk-cache = Skreiv til disk-snøgglager
+
 launcher-process-status-0 = Påslått
 launcher-process-status-1 = Deaktivert på grunn av feil
 launcher-process-status-2 = Tvungen deaktivering
 launcher-process-status-unknown = Ukjend status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -327,6 +343,7 @@ multi-process-status-6 = Slått av av ikkje-støtta tekst-input
 multi-process-status-7 = Slått av av tillegg
 multi-process-status-8 = Tvinga deaktivering
 multi-process-status-unknown = Ukjend status
+
 async-pan-zoom = Asynkron pan/zoom
 apz-none = ingen
 wheel-enabled = Hjulinnmating slått på

@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Klarte ikkje å kople til">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Tilgang til denne adressa er avgrensa">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Fann ikkje serveren">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Vi har problem med å finne nettstaden.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Viss adressa er rett, er det tre andre ting du kan prøve:</strong>
 <ul>
@@ -34,15 +28,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fann ikkje fila">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnadar i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Tilgang til fila vart nekta">
-
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan ha vorte fjerna, flytta, eller filrettar hindrar tilgang.</li></ul>">
-
-<!ENTITY generic.title "Ops.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å laste denne sida av ukjend årsak.</p>">
 
@@ -54,63 +42,32 @@
 <!ENTITY openPortalLoginPage.label2 "Opne innloggingsside for nettverk">
 
 <!ENTITY malformedURI.pageTitle "Ugyldig nettadresse">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Denne adressa ser ikkje rett ut.">
-
-<!ENTITY netInterrupt.title "Tilkoplinga vart broten">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokumentet er utgått på dato">
-
 <!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk hente sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å hente dokumentet på nytt frå nettstaden.</li></ul>">
-
-<!ENTITY netOffline.title "Fråkopla modus">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Feil med teiknkoding">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakt eigarane av nettstaden og informer dei om problemet.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Utrygg filtype">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Kontakt eigaren av nettsida og informer dei om dette problemet.</li> </ul>">
 
-<!ENTITY netReset.title "Tilkoplinga vart broten">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Tilkoplinga fekk tidsavbrot">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Klarte ikkje å forstå adressa">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du må kanskje installere anna programvare for å opne denne adressa.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Proxyserveren godtek ikkje tilkoplingar">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at proxy-innstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikre deg om at proxyserveren fungerer.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Klarte ikkje å finne proxyserveren">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at proxyinnstillingane er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller proxy, kontroller at &brandShortName; har løyve til å kople til Internett.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Dette problemet kan av og til kome av at infokapslar har vorte slått av eller ved å ikkje godta infokapslar.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Uventa svar frå tenar">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kontroller at systemet ditt har Personal Security Manager installert.</li> <li>Dette problemet kan kome av eit uvanleg oppsett på tenaren.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Trygt samband feila">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sida du prøver å opne kan ikkje visast fordi det ikkje kan stadfestast at overførte data er autentiske.</li> <li>Kontakt nettstadeigarane og informer om problemet.</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Åtvaring: Potensiell sikkerheitsrisiko forut">
-<!ENTITY certerror.sts.longpagetitle  "Kopla ikkje til: Potensielt tryggingsproblem">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -140,11 +97,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv på nytt om ei lita stund.</li> <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.</li> <li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke nettet.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å laste inn på denne måten fordi nettsida har ein tryggingspraksis som forbyr det.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Øydelagt innhald">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; hindra denne nettsida i å laste i denne konteksten fordi nettsida har ein X-Frame-Options-policy som ikkje tillèt det.</p>">
 
@@ -155,11 +108,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Rapporter feil som dette for å hjelpe Mozilla med å identifisere og blokkere skadelege nettstadar">
 <!ENTITY errorReporting.learnMore "Les meir…">
 
-<!ENTITY remoteXUL.title "Ekstern-XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Klarte ikkje å kople til trygt">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -170,15 +119,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har ein sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; berre kan kople til den sikkert. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
 
-<!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje sikker">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløre informasjon som du trudde skulle vere sikker. Administrator på nettstaden må fikse tenaren før du kan besøkje nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkert side">
-
-<!ENTITY certerror.mitm.title "Programvara hindrar &brandShortName; frå trygg tilkopling til denne nettstaden">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er sannsynlegvis ein sikker nettstad, men ei sikker tilkopling kunne ikkje etablerast. Problemet er forårsaka av <span class='mitm-name'/> som anten er eit program på datamaskina di eller på nettverket ditt.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Viss antivirusprogrammet ditt inneheld ein funksjon som skannar krypterte tilkoplingar (ofte kalla «webscanning» eller «https-skanning»), kan du deaktivere denne funksjonen. Viss det ikkje verkar, kan du fjerne og installere antivirusprogrammet på nytt.">
@@ -186,14 +131,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Viss du ikkje kjenner til <span class='mitm-name'/>, kan dette vere eit angrep, og du bør ikkje fortsette til nettstaden.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Viss du ikkje kjenner til <span class='mitm-name'/>, kan dette vere eit angrep, og det er ingenting du kan gjere for å få tilgang til nettstaden.">
 
-<!ENTITY clockSkewError.title "Klokka på datamaskina di er feil">
-
 <!ENTITY clockSkewError.longDesc "Datamaskina di trur det er <span id='wrongSystemTime_systemDate1'/>, som hindrar &brandShortName; frå å kople til sikkert. For å besøke <span class='hostname'></span>, oppdater klokka til datamaskina i systeminnstillingane til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Det ser ut til at sikkerheitsinnstillingane i nettverket kan vere årsak til dette. Vil du stille tilbake til standard innstillingar?">
 <!ENTITY prefReset.label "Bruk standardinnstillingar">
-
-<!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
 
 <!ENTITY enableTls10.longDesc "Denne nettstaden støttar kanskje ikkje TLS 1.2-protokollen, som er den minste versjonen som vert støtta av &brandShortName;. Dersom du slår på TLS 1.0 og TLS 1.1, kan det hende at denne tilkoplinga lykkast.">
 <!ENTITY enableTls10.note "TLS 1.0 og TLS 1.1 vil bli permanent deaktivert i ei framtidig utgåve.">

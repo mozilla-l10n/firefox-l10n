@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Skadar datamaskina mi og dataa mine
-
 abuse-report-damage-reason-v2 = Det skada datamaskina mi eller kompromitterte dattaa mine.
 abuse-report-damage-example = Døme: Injiserte skadeleg kode eller stal data
 
-abuse-report-spam-reason = Viser spam eller reklamar
-
 abuse-report-spam-reason-v2 = Den inneheld spam eller legg inn uønskt annonsering
 abuse-report-spam-example = Døme: Set inn reklame på nettsider
-
-abuse-report-settings-reason = Endra søkjmotoren min, startsida eller ny fane utan å informere eller spørje meg
 
 abuse-report-settings-reason-v2 = Den endra søkjemotoren min, startside eller ny fane utan å informere eller spørje meg
 abuse-report-settings-suggestions = Før du rapporterer utvidinga, kan du prøve å endre innstillingane dine:
 abuse-report-settings-suggestions-search = Endre standardinnstillingane dine for søking
 abuse-report-settings-suggestions-homepage = Endre startside og ny fane-sida
 
-abuse-report-deceptive-reason = Gjev seg ut for å vere noko den ikkje er
-
 abuse-report-deceptive-reason-v2 = Den gir seg ut for å vere noko den ikkje er
 abuse-report-deceptive-example = Døme: villeiande skildring eller bilde
-
-abuse-report-broken-reason-extension = Fungerer ikkje, øydeleggjer nettstadar, eller gjer { -brand-product-name } treg
-abuse-report-broken-reason-theme = Verkar ikkje eller øydeleggjer utsjånaden til nettsida
 
 abuse-report-broken-reason-extension-v2 = Den fungerer ikk je, øydelegg nettstadar, eller gjer { -brand-product-name } treg
 abuse-report-broken-reason-theme-v2 = Den verkar ikkje eller øydelegg utsjånaden til nettsidene
@@ -98,15 +87,11 @@ abuse-report-broken-suggestions-theme =
     å få retta funksjonelle feil på å kontakte temautviklaren.
     <a data-l10n-name="support-link">Besøk nettstaden til temaet</a> for å få informasjon om utviklaren.
 
-abuse-report-policy-reason = Hatefullt, valdeleg, eller ulovleg innhald
-
 abuse-report-policy-reason-v2 = Den inneheld hatefullt, valdeleg eller ulovleg innhald
 abuse-report-policy-suggestions =
     Merknad: Opphavsrett- og varemerkerproblem vert rapporterte på ein annan måte.
     <a data-l10n-name="report-infringement-link">Bruk desse instruksjonane</a> for å
     rapportere problemet.
-
-abuse-report-unwanted-reason = Ville aldri ha denne utvidinga og greier ikkje å kvitte meg med henne
 
 abuse-report-unwanted-reason-v2 = Eg har aldri ønskt den og eg veit ikkje korleis eg kan bli kvitt den
 abuse-report-unwanted-example = Døme: Eit program installerte den utan løyve frå meg

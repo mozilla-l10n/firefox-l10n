@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Synkroniserte faner
 synced-tabs-sidebar-noclients-subtitle = Vil du sjå faner frå dei andre einingane dine her?
-synced-tabs-sidebar-notsignedin = Logg inn for å vise ei liste over faner frå dei andre einingane dine.
 synced-tabs-sidebar-intro = Vis ei liste over faner frå andre einingar.
 synced-tabs-sidebar-unverified = Kontoen din må stadfestast.
 synced-tabs-sidebar-notabs = Ingen opne faner

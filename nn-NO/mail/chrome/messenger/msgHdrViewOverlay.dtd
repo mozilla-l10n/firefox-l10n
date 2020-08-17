@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkiver">
 <!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meldinga">
-<!ENTITY hdrOpenConversationButton1.label "Samtale">
-<!ENTITY hdrOpenConversationButton1.tooltip "Vis samtalen for denne meldinga">
 <!ENTITY hdrSmartReplyButton1.label "Smart svar">
 <!ENTITY hdrReplyButton1.label "Svar">
 <!ENTITY hdrReplyButton2.tooltip "Svar til avsendaren av denne meldinga">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Svar til e-postliste">
 <!ENTITY hdrFollowupButton1.label "Følg opp">
 <!ENTITY hdrFollowupButton1.tooltip "Svar med oppfølging til denne nyhendegruppa">
-<!ENTITY hdrMenuForwardButton.label "Vidaresend som">
 <!ENTITY hdrForwardButton1.label "Vidaresend">
 <!ENTITY hdrForwardButton1.tooltip "Vidaresend denne meldinga">
 <!ENTITY hdrJunkButton1.label "Uønskt">

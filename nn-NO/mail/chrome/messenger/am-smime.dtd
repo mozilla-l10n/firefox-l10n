@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Sikkerheit">
-<!ENTITY securityTab.label "Sikkerheit">
-<!ENTITY securityHeading.label "For å senda og ta i mot signerte eller krypterte meldingar, bør du leggje inn både eit digitalt signatur-sertifikat og eit krypterings-sertifikat.">
-<!ENTITY encryptionGroupTitle.label "Kryptering">
-<!ENTITY encryptionChoiceLabel.label "Standard krypteringsval under sending av meldingar:">
-<!ENTITY neverEncrypt.label "Aldri (ikkje bruk kryptering)">
-<!ENTITY neverEncrypt.accesskey "A">
-<!ENTITY alwaysEncryptMessage.label "Påkravd (alle mottakarar må ha sertifikat)">
-<!ENTITY alwaysEncryptMessage.accesskey "P">
-<!ENTITY encryptionCert.message "Bruk dette sertifikatet til å kryptera og dekryptera meldingar sendt til deg:">
-
 <!ENTITY e2eTitle.label "Ende-til-ende-kryptering">
-<!ENTITY e2eIntro.description "For å sende krypterte eller digitalt signerte meldingar, må du konfigurere ein krypteringsteknologi, anten OpenPGP eller S/MIME.">
 <!ENTITY e2eLearnMore.label "Les meir">
 
 <!ENTITY e2eEnc.description "Utan ende-til-ende-kryptering kan innhaldet i meldingane lett eksponerast for e-postleverandøren din og for masseovervaking.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Tøm">
 <!ENTITY encryption.certificate_clear.accesskey "ø">
 <!ENTITY signingGroupTitle.label "Digital signering">
-<!ENTITY signMessage.label "Signer meldingar digitalt (som standard)">
 <!ENTITY signMessage2.label "Legg til den digitale signaturen min som standard">
 <!ENTITY signMessage.accesskey "S">
-<!ENTITY signingCert.message "Bruk dette sertifikatet til å signera meldingar du sender digitalt:">
-
-<!ENTITY certificates.label "Sertifikat">
-<!ENTITY manageCerts2.label "Handter sertifikat">
-<!ENTITY manageCerts2.accesskey "H">
-<!ENTITY manageDevices.label "Tryggingseiningar">
-<!ENTITY manageDevices.accesskey "T">
 
 <!ENTITY signingCert2.message "Personleg sertifikat for digital signering:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Føretrekk OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Handter OpenPGP-nøklar">
-<!ENTITY manageKeys.accesskey "n">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Vel sertifikat">
