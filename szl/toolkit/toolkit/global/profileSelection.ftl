@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Ôbier profil używocza
+
 profile-selection-button-accept =
     .label = Sztart aplikacyje { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Skōńcz
+
 profile-selection-new-button =
     .label = Zrychtuj profil…
     .accesskey = R
+
 profile-selection-rename-button =
     .label = Przemianuj profil…
     .accesskey = P
+
 profile-selection-delete-button =
     .label = Skasuj profil…
     .accesskey = S
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } schranio informacyje ô twojich sztalōnkach, preferyncyjach i inkszych twojich elymyntach we twojim prywatnym profilu.
+
 profile-manager-work-offline =
     .label = Rōb offline
     .accesskey = o
+
 profile-manager-use-selected =
     .label = Używej ôbranego profilu bez pytanio przi sztarcie
     .accesskey = u

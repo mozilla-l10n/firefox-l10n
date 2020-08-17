@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Synchrōnizowane karty
 synced-tabs-sidebar-noclients-subtitle = Chcesz sam ôboczyć karty z inkszych maszin?
-synced-tabs-sidebar-notsignedin = Wloguj sie, coby pokozać wykoz kart z inkszych maszin.
 synced-tabs-sidebar-intro = Pokoż wykoz kart z inkszych maszin.
 synced-tabs-sidebar-unverified = Trza zweryfikować twoje kōnto.
 synced-tabs-sidebar-notabs = Niy ma żodnych ôtwartych kart

@@ -18,9 +18,12 @@ login-app-promo-android =
     .alt = Ściōng z Google Play
 login-app-promo-apple =
     .alt = Ściōng ze App Store
+
 login-filter =
     .placeholder = Szukej danych logowanio
+
 create-login-button = Stwōrz nowe dane logowanio
+
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
 fxaccounts-sign-in-button = Wloguj sie do { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -73,6 +76,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Szukosz swojich spamiyntanych danych logowanio? Nastaluj { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Niy szło znojś żodnych danych logowanio.
 login-intro-description = Jeźli dane logowanio do aplikacyje { -brand-product-name } były spamiyntane na inkszyj maszinie, idzie je ściōngnōńć takōm metodōm:
 login-intro-instruction-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
@@ -118,25 +122,31 @@ about-logins-edit-login-os-auth-dialog-message-win = Żeby edytować login, wklu
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edytować spamiyntane dane logowanio
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Żeby ôbejzdrzeć hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ôbejzdrzeć spamiyntane hasło
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Żeby skopiować hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skopiować spamiyntane hasło
+
+## Master Password notification
+
+master-password-notification-message = Wkludź swoje głōwne hasło, żeby ôbejzdrzeć spamiyntane loginy i hasła
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Żeby eksportować swoje loginy, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = eksportuj spamiyntane dane logowanio i hasła
 
-## Master Password notification
+## Primary Password notification
 
-master-password-notification-message = Wkludź swoje głōwne hasło, żeby ôbejzdrzeć spamiyntane loginy i hasła
 master-password-reload-button =
     .label = Wloguj
     .accesskey = l
@@ -164,12 +174,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Pociep
 confirmation-dialog-dismiss-button =
     .title = Pociep
+
 about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
 confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
 about-logins-confirm-remove-dialog-confirm-button = Skasuj
+
 about-logins-confirm-export-dialog-title = Eksportuj dane logowanio i hasła
 about-logins-confirm-export-dialog-message = Twoje hasła bydōm spamiyntane za czytelny tekst (bp. Złeh@sł0), tōż kożdy, fto bydzie mōg ôtworzić eksportowany zbiōr, bydzie je widzieć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
+
 confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
 confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
 confirm-discard-changes-dialog-confirm-button = Ôdciep
@@ -200,8 +213,10 @@ about-logins-vulnerable-alert-learn-more-link = Wiyncyj informacyji
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Dane logowanio na { $loginTitle } ze takim mianym używocza już istniyjōm. <a data-l10n-name="duplicate-link">Pokozać dane, co już istniyjōm?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Doszło do feleru przi prōbie spamiyntanio tego hasła.
+
 
 ## Login Export Dialog
 
@@ -218,3 +233,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] Dokumynt CSV
        *[other] Zbiōr CSV
     }
+
+## Login Import Dialog
+

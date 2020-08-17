@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importuj ôpcyje, zokłodki, historyjo, hasła i inksze dane ze:">
 <!ENTITY importFromUnix.label           "Importuj preferyncyje, zokłodki, historyjo, hasła i inksze dane ze:">
-<!ENTITY importFromBookmarks.label      "Importuj zokłodki ze:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

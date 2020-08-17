@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Spamiyntej za…
     .accesskey = e
-media-preview =
-    .value = Podglōnd:
 
 perm-tab =
     .label = Dozwolyństwa
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Niy
 
 image-size-unknown = Niypoznany
-not-set-verified-by = Niyôkryślōne
 page-info-not-specified =
     .value = Niyôkreślōne
 not-set-alternative-text = Niyôkryślōne
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Tryb kōmpatybilności
 general-strict-mode =
     .value = Tryb standardōw
-security-no-owner = Ta strōna niy dowo znać ô swojich posiedzicielach.
 page-info-security-no-owner =
     .value = Ta strōna niy dowo znać ô swojich posiedzicielach.
 media-select-folder = Ôbier katalog do spamiyntowanio ôbrazōw

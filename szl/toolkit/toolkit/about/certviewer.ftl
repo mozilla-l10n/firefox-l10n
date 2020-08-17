@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Info ô regiyrōnku (AIA)
 certificate-viewer-certificate-policies = Prawidła certyfikatu
 certificate-viewer-embedded-scts = Wkludzōne SCTs
 certificate-viewer-crl-endpoints = Endpōnkty CRL
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Pobier
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (certyfikat)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lyńcuch)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Te rozszyrzynie je ôbznoczone za krytyczne, skuli tagi klijynty muszōm ôdkozać tyn certyfikat, jak go niy spokopili.

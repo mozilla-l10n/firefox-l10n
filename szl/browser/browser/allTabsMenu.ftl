@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-all-tabs-menu-undo-close-tab =
-    .label = Prziwrōć zawarto karta
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -12,13 +10,17 @@ all-tabs-menu-undo-close-tabs =
             [few] Cofnij zawarcie kart
            *[many] Cofnij zawarcie kart
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Szukej po kartach
+
 all-tabs-menu-new-user-context =
     .label = Nowo kōntynerowo karta
+
 all-tabs-menu-hidden-tabs =
     .label = Skryte karty
+
 all-tabs-menu-manage-user-context =
     .label = Regyruj kōntynerami
     .accesskey = k

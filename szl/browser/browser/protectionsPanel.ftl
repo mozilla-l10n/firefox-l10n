@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Przi posyłaniu raportu pokozoł sie feler. Sprōbuj niyskorzij.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Strōna już funguje? Poślij raport
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Sztandardowo
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Wiyncyj informacyji ô polepszōnyj ôchrōnie ôd śledzynio
+
 protections-panel-etp-on-header = Polepszōno ôchrōna ôd śledzynio je załōnczōno na tyj strōnie
 protections-panel-etp-off-header = Polepszōno ôchrōna ôd śledzynio je wyłōnczōno na tyj strōnie
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Strōna niy funguje?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Strōna niy funguje?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Wszyskie śledzōnce elymyn
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name } niy znod na tyj strōnie żodnych poznanych śledzōncych elymyntōw.
+
 protections-panel-content-blocking-tracking-protection = Śledzōnco zawartość
+
 protections-panel-content-blocking-socialblock = Elymynty śledzōnce ôd społecznościowych serwisōw
 protections-panel-content-blocking-cryptominers-label = Elymynty, co fedrujōm kryptopiniōndze
 protections-panel-content-blocking-fingerprinters-label = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
@@ -57,7 +63,6 @@ protections-panel-not-found-label = Żodnych znodniyntych
 ##
 
 protections-panel-settings-label = Nasztalowania ôchrōny
-protections-panel-showreport-label = Pokoż raport
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Przeglōnd ôchrōny
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = Przeglōnd ôchrōny
 
 # The header of the list
 protections-panel-site-not-working-view-header = Wyłōncz ôchrōna, jak mosz problymy ze:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Polami na logowanie
 protections-panel-site-not-working-view-issue-list-forms = Formularami
 protections-panel-site-not-working-view-issue-list-payments = Płatami
 protections-panel-site-not-working-view-issue-list-comments = Kōmyntorzami
 protections-panel-site-not-working-view-issue-list-videos = Filmami
+
 protections-panel-site-not-working-view-send-report = Poślij raport
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = Elymynty, co używajōm siyły rachowanio twoji
 protections-panel-fingerprinters = Elymynty, co zbiyrajōm nasztalowania przeglōndarki i kōmputra, coby zrychtować twōj profil. Skuli takigo cyfrowego ôdciska palca mogōm iś za tobōm miyndzy roztōmajtymi strōnami.
 protections-panel-tracking-content = Strōny mogōm ladować zewnyntrzne reklamy, filmy i inkszo zawartość ze śledzōncym kodym. Skuli zaszperowanio śledzōncych elymyntōw strōny mogōm sie gibcyj ladować, ale niykere knefle, formulary i pola logowanio mogōm już niy fungować.
 protections-panel-social-media-trackers = Społecznościowe serwisy dowajōm na swojich strōnach śledzōnce elymynty, coby zaglōndać na to, co robisz, widzisz i ôglōndosz w internecie. Skuli tego ich posiedziciele przewiadujōm sie ô ciebie wiyncyj jak to, co udostympniosz we tych serwisach.
+
 protections-panel-content-blocking-manage-settings =
     .label = Regiyruj nasztalowaniami ôchrōny
     .accesskey = R
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Dej znać ô strōnie, co niy funguje
 protections-panel-content-blocking-breakage-report-view-description = Skuli zaszperowanio jednych śledzōncych elymyntōw mogōm pokozać sie problymy z niykerymi strōnami. { -brand-short-name } bydzie lepszy do wszyskich, jak bydziesz dować znać ô takich problymach. Z raportym pudzie do Mozille informacyjo ô adresie URL i nasztalowaniach tyj przeglōndarki. <label data-l10n-name="learn-more">Przewiydz sie wiyncyj</label>

@@ -13,6 +13,7 @@ enable-common-message = Noczynia do deweloprōw ôd Firefoxa sōm bazowo zastawi
 enable-learn-more-link = Przewiydz sie wiyncyj ô noczyniach do deweloprōw
 enable-enable-button = Załōncz noczynia do deweloprōw
 enable-close-button = Zawrzij ta karta
+
 welcome-title = Witej we noczyniach do dewelorpōw ôd Firefoxa!
 newsletter-title = Newsletter do deweloprōw ôd Mozille
 newsletter-message = Dostowej nowiny, knify i źdrzōdła do deweloprōw drek do swojij krzinki.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Dowōm zgoda, coby Mozilla robiyła z mojimi informac
 newsletter-subscribe-button = Abōnuj
 newsletter-thanks-title = Dziynkujymy!
 newsletter-thanks-message = Jak niy mosz przituplowanego abōnowanio newslettera ôd Mozille, to możno trza bydzie to zrobić. Poszukej we swojij krzince abo miyndzy spamym za emailym ôd nos.
+
 footer-title = Firefox Developer Edition
 footer-message = Szukosz za czym wiyncyj jak ino za noczyniami do deweloprōw? Badnij na ta przeglōndarka Firefox, co je zbudowano ekstra do deweloprōw i modernego trybu roboty.
 footer-learn-more-link = Przewiydz sie wiyncyj
+
 features-learn-more = Przewiydz sie wiyncyj
 features-inspector-title = Inspektōr
 features-inspector-desc = Badej i polepszej kod, coby zbudować pikselowo doskonałe rozłożynia. <a data-l10n-name="learn-more">{ features-learn-more }</a>

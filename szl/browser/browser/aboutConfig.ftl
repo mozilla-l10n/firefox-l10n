@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Tukej żyjōm drachy!
-about-config-warning-text = Skuli zmiany tych sztelōnkōw mogōm sie pokozać problymy ze stabilnościōm, bezpieczyństwym a wydajnościōm tyj aplikacyje. Kōntynuuj ino jak wiysz, co robisz.
-about-config-warning-checkbox = Dycki pokazuj to ôstrzyżynie
-about-config-warning-button = Akceptuja te ryzyko
-about-config2-title = Rozszyrzōne sztalōnki
-about-config-search-input =
-    .placeholder = Szukej
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Pozōr!
@@ -22,16 +13,13 @@ about-config-intro-warning-button = Akceptuja ryzyko i chca kōntynuować
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Zmiana tyj kōnfiguracyje może pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+
 about-config-page-title = Zaawansowano kōnfiguracyjo
+
 about-config-search-input1 =
     .placeholder = Szukej po mianie kōnfiguracyje
 about-config-show-all = Pokoż wszyske
-about-config-pref-add = Przidej
-about-config-pref-toggle = Przełōncz
-about-config-pref-edit = Edytuj
-about-config-pref-save = Spamiyntej
-about-config-pref-reset = Wysnoż
-about-config-pref-delete = Skasuj
+
 about-config-pref-add-button =
     .title = Przidej
 about-config-pref-toggle-button =

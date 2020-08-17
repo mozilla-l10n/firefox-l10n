@@ -103,6 +103,7 @@ print-window =
     .title = Durkowanie
 print-complete =
     .value = Durkowanie je skōńczōne.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

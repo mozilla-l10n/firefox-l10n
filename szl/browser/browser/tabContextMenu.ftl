@@ -53,12 +53,12 @@ move-to-end =
 move-to-new-window =
     .label = Dej do nowego ôkna
     .accesskey = O
-undo-close-tab =
-    .label = Wrōć zawarto karta
-    .accesskey = W
 tab-context-close-multiple-tabs =
     .label = Ôbier mocka kart
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

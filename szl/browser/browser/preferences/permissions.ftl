@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Wkludź dobre miano serwera
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Szperowanie zawartości - wyjōntki
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Szperowanie zawartości na tych strōnach je wyłōnczōne.
-
 permissions-exceptions-etp-window =
     .title = Rozszyrzōno ôchrōna ôd śledzynio - wyjōntki
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Możesz pedzieć, kere strōny śmiōm insztalować rozszyrzynia. Wkludź akuratno adresa strōny, keryj chcesz na to przizwolić, a potym kliknij: Przizwōl.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Autopuszczanie - wyjōntki
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Możesz pedzieć, kere strōny śmiōm abo niy śmiōm autōmatycznie puszczać mydyjōw z klangiym. Wkludź akuratno adresa strōny, na keryj chcesz tym regiyrować, a potym kliknij: Szperuj abo Przizwōl.
 
 ## Site Permissions - Autoplay
 

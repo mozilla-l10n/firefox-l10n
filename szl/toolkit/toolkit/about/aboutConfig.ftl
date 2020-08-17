@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Akceptuja te ryzyko!
 config-about-warning-checkbox =
     .label = Pokoż te upozorniynie na drugi roz
+
 config-search-prefs =
     .value = Szukej:
     .accesskey = S
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopiuj
     .accesskey = K
+
 config-copy-name =
     .label = Kopiuj miano
     .accesskey = M
+
 config-copy-value =
     .label = Kopiuj wert
     .accesskey = w
+
 config-modify =
     .label = Zmiyń
     .accesskey = z
+
 config-toggle =
     .label = Przełōncz
     .accesskey = P
+
 config-reset =
     .label = Wynuluj
     .accesskey = W
+
 config-new =
     .label = Nowy sztalōnek
     .accesskey = w
+
 config-string =
     .label = Lyńcuch
     .accesskey = L
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = bazowy
 config-modified = zmiyniōny
 config-locked = zaszperowany
+
 config-property-string = lyńcuch
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Wkludź miano nowyj preferyncyje
+
 config-nan-title = Zły wert
 config-nan-text = Wkludzōny tekst to niy ma nōmer.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nowy sztalōnek typu { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Wkludź wert sztalōnku typu { $type }

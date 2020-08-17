@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Ôbier zbiōr…">
 <!ENTITY cmd.restoreFromFile.accesskey  "r">
 
-<!ENTITY cmd.deleteDomainData.label     "Zapōmnij ô tyj strōnie">
-<!ENTITY cmd.deleteDomainData.accesskey "Z">
-
-<!ENTITY cmd.open.label                  "Ôdewrzij">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Ôdewrzij w nowym ôknie">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Ôdewrzij w nowym prywatnym ôknie">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Ôdewrzij w nowyj karcie">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Ôdewrzij wszyskie w kartach">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Włosności">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Sortuj podug miana">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nowo zokłodka…">
-<!ENTITY cmd.new_bookmark.accesskey        "Z">
-<!ENTITY cmd.new_folder.label              "Nowy katalog…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "k">
-<!ENTITY cmd.new_separator.label           "Nowy separatōr">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Miano">
 <!ENTITY col.tags.label          "Etykety">
 <!ENTITY col.url.label           "Plac">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Wielość byzuchōw">
 <!ENTITY col.dateadded.label     "Przidane">
 <!ENTITY col.lastmodified.label  "Ôstatnio zmiyniōne">
-
-<!ENTITY historySearch.placeholder  "Szukej w historyji">
-<!ENTITY bookmarksSearch.placeholder  "Szukej w zokłodkach">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Ôbier elymynt, coby pokozać i edytować jego włosności">
 
-<!ENTITY view.label               "Pokoż">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Podug daty">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Podug strōny">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Podug wielości byzuchōw">
-<!ENTITY byMostVisited.accesskey  "w">
-<!ENTITY byLastVisited.label      "Podug ôstatnigo byzuchu">
-<!ENTITY byLastVisited.accesskey  "o">
-<!ENTITY byDayAndSite.label       "Podug daty i strōny">
-<!ENTITY byDayAndSite.accesskey   "t">

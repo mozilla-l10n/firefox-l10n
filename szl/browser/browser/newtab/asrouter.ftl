@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Sprōbuj tego: Przipnij karta
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Po jakimu to widza?
+
 cfr-doorhanger-extension-cancel-button = Niy teroz
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Przidej teroz
     .accesskey = P
 cfr-doorhanger-pintab-ok-button = Przipnij ta karta
     .accesskey = K
+
 cfr-doorhanger-extension-manage-settings-button = Nasztalowania rykōmyndacyji
     .accesskey = n
+
 cfr-doorhanger-extension-never-show-recommendation = Niy pokozuj mi tyj rykōmyndacyje
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Przewiydz sie wiyncyj
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autōr: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekōmyndacyjo
 cfr-doorhanger-extension-notification2 = Rekōmyndacyjo
     .tooltiptext = Rekōmyndacyjo rozszyrzynio
     .a11y-announcement = Rekōmyndacyjo rozszyrzynio je dostympno
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekōmyndacyjo
@@ -61,6 +69,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } użytkowniki
        *[many] { $total } użytkownikōw
     }
+
 cfr-doorhanger-pintab-description = Snadny dostymp do strōn, co ich nojwiyncyj używosz: karty ś nimi sōm durch ôtwarte (tyż przi resztartowaniu).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +77,10 @@ cfr-doorhanger-pintab-description = Snadny dostymp do strōn, co ich nojwiyncyj 
 cfr-doorhanger-pintab-step1 = Prziciś <b>prawym prziciskiym</b> na karta, kero chcesz przipnōnć.
 cfr-doorhanger-pintab-step2 = Ôbier <b>Przipnij karta</b> w myni.
 cfr-doorhanger-pintab-step3 = Jak strōna mo jako aktualizacyjo, to na przipniyntyj karcie pokoże sie modro kropka.
+
 cfr-doorhanger-pintab-animation-pause = Pauza
 cfr-doorhanger-pintab-animation-resume = Rōb zaś
+
 
 ## Firefox Accounts Message
 
@@ -91,16 +102,22 @@ cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowo funkcyjo:
+
 cfr-whatsnew-button =
     .label = Co je nowego
     .tooltiptext = Co je nowego
+
 cfr-whatsnew-panel-header = Co je nowego
+
 cfr-whatsnew-release-notes-link-text = Poczytej informacyje ô wydaniu
+
 cfr-whatsnew-fx70-title = { -brand-short-name } teroz wiyncyj sie bije ô twoja prywatność
 cfr-whatsnew-fx70-body = Nojnowszo aktualizacyjo polepszo funkcyjo ôchrōny ôd śledzynio. Skuli nij rychtowanie bezpiecznych haseł do kożdyj strōny je snadniyjsze jak kej ino.
+
 cfr-whatsnew-tracking-protect-title = Ôbrōń sie ôd śledzōncych elymyntōw
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } szperuje moc popularnych śledzōncych elymyntōw ze społecznościowych serwisōw, co filujōm na twoja aktywność w internecie.
 cfr-whatsnew-tracking-protect-link-text = Pokoż raport
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -112,9 +129,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Ôd { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Pokoż raport
+
 cfr-whatsnew-lockwise-backup-title = Rōb ibryczne kopije haseł
 cfr-whatsnew-lockwise-backup-body = Rychtuj bezpieczne hasła dostympne wszyńdzie, kaj sie wlogujesz.
 cfr-whatsnew-lockwise-backup-link-text = Załōncz kopiowanie na ibrich
+
 cfr-whatsnew-lockwise-take-title = Miyj swoje hasła przi siebie
 cfr-whatsnew-lockwise-take-body = Mobilno aplikacyjo { -lockwise-brand-short-name } dowo ci wszyńdzie bezpieczny dostymp do twojich haseł spamiyntanych w ibrycznych kopijach.
 cfr-whatsnew-lockwise-take-link-text = Pobier aplikacyjo
@@ -149,6 +168,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[many] Zaszperowane chytanie ôdciska
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } szperuje moc elymyntōw, co rychtujōm ôdciski przeglōndarki: po kryjōmu zbiyrajōm informacyje ô twojij maszinie i akcyjach, coby stworzić twōj reklamowy profil.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Szperowanie ôdciska ôd przeglōndarki
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poradzi zaszperować rychtowanie ôdciska twojij przeglōndarki (zbiyranie po kryjōmu informacyji ô twojij maszinie i akcyjach, coby stworzić twōj reklamowy profil).
@@ -210,6 +230,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Pokoż wszyskie
     .accesskey = P
+
 cfr-doorhanger-milestone-close-button = Zawrzij
     .accesskey = Z
 
@@ -254,3 +275,6 @@ cfr-doorhanger-doh-primary-button = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zastow
     .accesskey = Z
+
+## What's new: Cookies message
+

@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = Regyruj swojimi przidowkami bez klikniyńci
 appmenu-addon-post-install-incognito-checkbox =
     .label = Zgoda, coby te rozszyrzynie fungowało we prywatnych ôknach
     .accesskey = Z
-appmenu-addon-private-browsing =
-    .label = Zmiana fungowanio rozszyrzyń we prywatnych ôknach
-    .buttonlabel = Regyruj rozszyrzyniami
-    .buttonaccesskey = E
-    .secondarybuttonlabel = Rozumia
-    .secondarybuttonaccesskey = R
-appmenu-addon-private-browsing-message = Nowe rozszyrzynia, co je przidowosz do aplikacyje { -brand-shorter-name }, niy bydōm fungować we prywatnych ôknach, podwiela niy dosz na to zgody we sztelōnkach.
-appmenu-addon-private-browsing-learn-more = Dowiydz sie, jak sztalować rozszyrzynia
+    
 appmenu-new-tab-controlled =
     .label = Nowo karta je teroz zmiyniōno.
     .buttonlabel = Spamiyntej zmiany

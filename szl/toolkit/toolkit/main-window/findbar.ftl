@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Znojdź nastympne pokozanie sie tyj frazy
 findbar-previous =
     .tooltiptext = Znojdź piyrwyjsze pokozanie sie tyj frazy
+
 findbar-find-button-close =
     .tooltiptext = Zawrzij posek znojdowanio
+
 findbar-highlight-all2 =
     .label = Ôbznocz wszysko
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] o
         }
     .tooltiptext = Ôbznocz wszyskie pokozania sie tyj frazy
+
 findbar-case-sensitive =
     .label = Poznowej srogość liter
     .accesskey = L
     .tooltiptext = Szukej ze zważowaniym na srogość liter
+
 findbar-match-diacritics =
     .label = Poznowej diakrytyki
     .accesskey = i
     .tooltiptext = Poznowej rōżnica miyndzy bazowymi literami a takimi z diakrytykami (bez przikłod przi szukaniu hasła "wroc" niy bydzie znojdniynte słowo "wrōć")
+
 findbar-entire-word =
     .label = Cołke słowa
     .accesskey = C

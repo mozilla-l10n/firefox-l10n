@@ -8,6 +8,7 @@ page-subtitle =
     jak mosz problym do rozwiōnzanio. Jak szukosz za ôdpowiydziami na pytania
     ô aplikacyjo { -brand-short-name }, co sōm porzōnd zadowane, badnij na nasza
     <a data-l10n-name="support-link">strōna spōmożki</a>.
+
 crashes-title = Raporty z awaryje
 crashes-id = ID zgłoszynio
 crashes-send-date = Posłane
@@ -102,8 +103,6 @@ graphics-desktop-environment = Strzodowisko biōrka
 place-database-title = Baza danych Places
 place-database-integrity = Integralność
 place-database-verify-integrity = Badej integralność
-js-title = JavaScript
-js-incremental-gc = Inkrementalny GC
 a11y-title = Dostympność
 a11y-activated = Aktywowano
 a11y-force-disabled = Zastow dostympność
@@ -123,6 +122,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Parametry
 safe-mode-title = Sprōbuj trybu bezpieczyństwa
 restart-in-safe-mode-label = Resztartuj z wyłōnczōnymi rozszyrzyniami…
+
 clear-startup-cache-title = Sprōbuj wypucować podrynczno pamiyńć sztartowanio
 clear-startup-cache-label = Wypucuj podrynczno pamiyńć sztartowanio…
 startup-cache-dialog-title = Wypucuj podrynczno pamiyńć sztartowanio
@@ -133,7 +133,6 @@ restart-button-label = Resztartnij
 
 audio-backend = Audio Backend
 max-audio-channels = Maksymalno wielość kanałōw
-channel-layout = Preferowane rozłożynie kanałōw
 sample-rate = Preferowano frekwyncyjo prōbkowanio
 roundtrip-latency = Zniyskorzynie tam a nazod (standardowe ôdchylynie)
 media-title = Mydia
@@ -187,6 +186,7 @@ report-crash-for-days =
         [few] Raporty z awaryje z ôstatnich { $days } dni
        *[many] Raporty z awaryje z ôstatnich { $days } dni
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -195,6 +195,7 @@ crashes-time-minutes =
         [few] { $minutes } minuty tymu
        *[many] { $minutes } minut tymu
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -203,6 +204,7 @@ crashes-time-hours =
         [few] { $hours } godziny tymu
        *[many] { $hours } godzin tymu
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -211,6 +213,7 @@ crashes-time-days =
         [few] { $days } dni tymu
        *[many] { $days } dni tymu
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -219,6 +222,7 @@ pending-reports =
         [few] Wszyskie raporty z awaryje (ze { $reports }, co czekajōm z tego czasu)
        *[many] Wszyskie raporty z awaryje (ze { $reports }, co czekajōm z tego czasu)
     }
+
 raw-data-copied = Surowe dane skopiowane do kamerlika
 text-copied = Tekst je skopiowany do kamerlika
 
@@ -231,9 +235,11 @@ blocked-mismatched-version = Zaszperowane skuli niyskłodności registra i DLL w
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Zaszperowane skuli wersyje twojigo sterownika grafiki. Sprōbuj go zaktualizować do wersyje { $driverVersion } abo nowszyj.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
+
 compositing = Compositing
 hardware-h264 = Hardwarowe dekodowanie H264
 main-thread-no-omtc = głōwny wōntek, żodne OMTC
@@ -248,6 +254,7 @@ virtual-monitor-disp = Pokozanie wirtualnego mōnitora
 
 found = Znodniynty
 missing = Chybio
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Ôpis
@@ -271,18 +278,21 @@ webgl2-version = Wersyjo sterownika WebGL 2
 webgl2-driver-extensions = Rozszyrzynia sterownika WebGL 2
 webgl2-extensions = Rozszyrzynia WebGL 2
 blocklisted-bug = Zaszperowane skuli poznanych problymōw
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zaszperowane; kod felera { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video dekoder
-d3d9video-crash-buard = D3D9 Video dekoder
 d3d9video-crash-guard = D3D9 Video dekoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video dekoder
+
 reset-on-next-restart = Zresetuj przi nastympnym resztarcie
 gpu-process-kill-button = Zakōńcz proces GPU
 gpu-device-reset = Reset masziny
@@ -292,8 +302,10 @@ content-uses-tiling = Używo skłodanio (zawartość)
 off-main-thread-paint-enabled = Kryślynie poza głōwnym wōntkiym je załōnczōne
 off-main-thread-paint-worker-count = Wielość kryślynio poza głōwnym wōntkiym
 target-frame-rate = Cylowo frekwyncyjo rōmek
+
 min-lib-versions = Ôczekowano minimalno wersyjo
 loaded-lib-versions = Używano wersyjo
+
 has-seccomp-bpf = Seccomp-BPF (filtrowanie systymowych wołań)
 has-seccomp-tsync = Synchrōnizowanie wōntkōw Seccomp
 has-user-namespaces = Ôbtoczynia mianōw ôd używocza
@@ -306,15 +318,18 @@ sandbox-proc-type-content = zawartość
 sandbox-proc-type-file = zawartość zbioru
 sandbox-proc-type-media-plugin = mydiowe rozszyrzynie plugin
 sandbox-proc-type-data-decoder = dekoder danych
+
 startup-cache-title = Podrynczno pamiynć sztartowanio
 startup-cache-disk-cache-path = Cesta ku podryncznyj pamiynci na dysku
 startup-cache-ignore-disk-cache = Ignoruj pamiynć podrynczno na dysku
 startup-cache-found-disk-cache-on-init = Podrynczno pamiyńć na dysku je znaleziōno przi inicjacyji
 startup-cache-wrote-to-disk-cache = Zapisane do podryncznyj pamiynci
+
 launcher-process-status-0 = Załōnczōny
 launcher-process-status-1 = Zastawiōny skuli awaryje
 launcher-process-status-2 = Zastawiōny skuli przikazu
 launcher-process-status-unknown = Niypoznany status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -327,6 +342,7 @@ multi-process-status-6 = Zastawiōne skuli niyôbsugowanego wkludzanio tekstu
 multi-process-status-7 = Zastawiōne skuli rozszyrzyń
 multi-process-status-8 = Zastawiōny skuli przikazu
 multi-process-status-unknown = Niypoznany status
+
 async-pan-zoom = Asynchrōniczno panorama/zwiynkszanie
 apz-none = żodne
 wheel-enabled = wkludzanie kōłkiym myszki je załōnczōne

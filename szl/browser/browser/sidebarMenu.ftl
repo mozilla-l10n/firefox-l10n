@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Zokłodki
+
 sidebar-menu-history =
     .label = Historyjo
+
 sidebar-menu-synced-tabs =
     .label = Synchrōnizowane karty
+
 sidebar-menu-close =
     .label = Zawrzij posek na rancie

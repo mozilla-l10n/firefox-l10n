@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Niy idzie sie połōnczyć">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Zaszperowano adresa">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Serwer niy ma znodniynty">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm, mōmy problym znojś ta strōna.">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Jak adresa je dobro, idzie jeszcze sprōbować tego:</strong>
 <ul>
   <li>Sprōbuj zaś niyskorzij.</li>
@@ -32,20 +26,14 @@
   <li>Jak mosz połōnczynie bez firewall, badnij, jeźli &brandShortName; mo zgoda na dostymp do neca.</li>
 </ul>">
 
-<!ENTITY fileNotFound.title "Zbiōr niy ma znodniynty">
-
 <!ENTITY fileNotFound.longDesc "<ul>
   <li>Badnij na miano zbioru, jeźli niy mo felerōw abo złyj srogości liter.</li>
   <li>Badnij, jeźli zbiōr niy bōł wrażony kaj indzij, skasowany, abo niy mioł zmiynionego miana.</li>
 </ul>">
 
-<!ENTITY fileAccessDenied.title "Dostymp do pliku ôstoł ôdciepniynty">
-
 <!ENTITY fileAccessDenied.longDesc "<ul>
   <li>Bōł skasowany, przeniysiōny, abo niy ma ku nimu dostympu skuli nasztalowanych przizwōlyń.</li>
 </ul>">
-
-<!ENTITY generic.title "Ups.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; niy poradzi zaladować tyj strony.</p>">
 
@@ -55,57 +43,35 @@
 <!ENTITY openPortalLoginPage.label2 "Ôdewrzij strōna logowanio do necu">
 
 <!ENTITY malformedURI.pageTitle "Zło adresa URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Ta adresa niy wyglōndo na dobro.">
-
-<!ENTITY netInterrupt.title "Połōnczynie przerwane">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokumynt sie przedowniōł">
-
 <!ENTITY notCached.longDesc '<p>Proszōny dokumynt niy ma dostympny w podryncznyj pamiyńci aplikacyje &brandShortName;. </p><ul><li>Skuli bezpieczynstwa &brandShortName; autōmatycznie  niy pobiyro zaś prywatnych dokumyntōw. </li><li>Kliknij "Sprōbuj jeszcze roz", coby jeszcze roz pobrać dokumynt ze strōny.</li></ul>'>
-
-<!ENTITY netOffline.title "Tryb offline">
 
 <!ENTITY netOffline.longDesc2 "<ul>
   <li>Coby przełōnczyć na tryb online i przeladować strōna, prziciś „Sprōbuj jeszcze roz“.</li>
 </ul>">
 
-<!ENTITY contentEncodingError.title "Feler kodowanio zawartości">
-
 <!ENTITY contentEncodingError.longDesc "<ul>
   <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
 </ul>">
-
-<!ENTITY unsafeContentType.title "Niybezpieczny typ zbioru">
 
 <!ENTITY unsafeContentType.longDesc "<ul>
   <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
 </ul>">
 
-<!ENTITY netReset.title "Połōnczynie zresetowane">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Przestōmpiōny czas połōnczynio">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Niyspokopiōno adresa">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul>
   <li>Możno bydzie trza zainsztalować inksze programy, coby ôdewrzić ta adresa.</li>
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Serwer proxy ôdciepuje połōnczynia">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>Badnij, jeźli nasztalowania serwera proxy sōm dobre</li>
   <li>Spytej sie swojigo administratora neca, jeźli serwer proxy funguje.</li>
 </ul>">
-
-<!ENTITY proxyResolveFailure.title "Niy idzie znojś serwera proxy">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Badnij, jeźli nasztalowania serwera proxy sōm dobre</li>
@@ -113,28 +79,19 @@
   <li>Jak tyn kōmputer je chroniōny ôd firewalla abo serwera proxy, badnij jeźli &brandShortName; mo zgoda na dostymp do internetu.</li>
 </ul>">
 
-<!ENTITY redirectLoop.title "Strōna felernie przekerowuje">
-
 <!ENTITY redirectLoop.longDesc "<ul>
   <li>Niykedy tyn problym pokazuje sie skuli zastawiynio abo ôdkozanio zgody na cookies.</li>
 </ul>">
-
-<!ENTITY unknownSocketType.title "Niyspodziywano ôdpowiydź ze serwera">
 
 <!ENTITY unknownSocketType.longDesc "<ul>
   <li>Badnij, jeźli tyn systym mo zainsztalowane Personal Security Manager.</li>
   <li>Problym może sie pokazować skuli niysztandardowyj kōnfiguracyje serwera.</li>
 </ul>">
 
-<!ENTITY nssFailure2.title "Niypodarzōne bezpieczne połōnczynie">
-
 <!ENTITY nssFailure2.longDesc2 "<ul>
   <li>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo niy szło zweryfikować autyntyczności ôd dostōnych danych.</li>
   <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
 </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Pozōr: Możebne zagrożynie bezpieczyństwa">
-<!ENTITY certerror.sts.longpagetitle  "Niypołōnczōne: Możebne zagrożynie bezpieczyństwa">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -165,11 +122,7 @@ za pora chwil.</li>
     &brandShortName; mo zgoda na dostymp do internetu.</li>
 </ul>">
 
-<!ENTITY cspBlocked.title "Zaszperowane skuli polityki bezpieczyństwa zawartości">
-
 <!ENTITY cspBlocked.longDesc "<p>Aplikacyjo &brandShortName; niy dała tyj strōnie sie tak zaladować skuli polityki bezpieczyństwa strōny, co na to niy przizwolo.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Feler: felerno zawartość">
 
 <!ENTITY xfoBlocked.longDesc "<p>Aplikacyjo &brandShortName; niy dała tyj strōnie sie zaladować w tym kōntekście,  skuli polityki X-Frame-Options strōny, co na to niy przizwolo.</p>">
 
@@ -183,11 +136,7 @@ za pora chwil.</li>
 <!ENTITY errorReporting.automatic2 "Dej znać ô takich felerach, coby pōmōc Mizilli znojdować i szperować ôszydne strōny">
 <!ENTITY errorReporting.learnMore "Przewiydz sie wiyncyj…">
 
-<!ENTITY remoteXUL.title "Zdalne XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Niy idzie sie bezpiecznie połōnczyć">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -198,15 +147,11 @@ za pora chwil.</li>
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Serwer <span class='hostname'></span> mo polityka bezpieczyństwa HTTP Strict Transport Security (HSTS), bez co aplikacyjo &brandShortName; poradzi sie ś nim połōnczyć ino bezpiecznie. Niy idzie przidać wyjōntku, coby nawiydzić ta strōna.">
 <!ENTITY certerror.copyToClipboard.label "Kopiuj tekst do kamerlika">
 
-<!ENTITY inadequateSecurityError.title "Twoje połōnczynie niy ma bezpieczne">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "Serwer <p><span class='hostname'></span> używo przedowniōnyj technologije bezpieczyństwa i leko idzie go zaatakować. Napastnik leko by poradziōł poznać informacyje, kere mosz za bezpieczne. Administratōr strōny bydzie musioł naprawić serwer, podwiela pōdzie nawiydzić ta strōna.</p><p>Kod felera: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zaszperowano strōna">
-
-<!ENTITY certerror.mitm.title "Ôprogramowanie niy dowo &brandShortName; bezpiecznie sie połōnczyć z tōm strōnōm.">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> wyglōndo na bezpieczno strōna, ale niy szło nawiōnzać bezpiecznego połōnczynio. Problym sprowiōł <span class='mitm-name'/>, co je softwarym na tym kōmputrze abo w twojim necu.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Jak twōj antywirusowy program mo funkcyjo, co skanuje zaszyfrowane połōnczynia (czynsto mianowano "skanowanie neca" abo "skanowanie HTTPS"), to możesz ta funkcyjo zastawić. Jak to niy pōmoże, możesz tyż skasować i nazod zainsztalować antywirusowy program.'>
@@ -214,14 +159,10 @@ za pora chwil.</li>
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jak niy poznowosz <span class='mitm-name'/>, to może to być atak i lepij niy iść na ta strōna.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jak niy poznowosz <span class='mitm-name'/>, to może to być atak i niy idzie nic zrobić, coby wlyźć na ta strōna.">
 
-<!ENTITY clockSkewError.title "Zygor ôd twojigo kōmputra źle chodzi">
-
 <!ENTITY clockSkewError.longDesc "Zygor w tym kōmputrze je źle nastawiōny na <span id='wrongSystemTime_systemDate1'/>, bez co aplikacyjo &brandShortName; niy poradzi sie bezpiecznie połōnczyć. Coby nawiydzić serwer <span class='hostname'></span>, zaktualizuj zygor kōmputra w systymowych nasztalowaniach na dobro data, godzina i czasowo strefa, a potym ôdświyż ta strōna.">
 
 <!ENTITY prefReset.longDesc "Zdo sie, co może to być skuli nasztalowań bezpieczyństwa twojigo neca. Wrōcić bazowe nasztalowania?">
 <!ENTITY prefReset.label "Wrōć bazowe nasztalowania">
-
-<!ENTITY networkProtocolError.title "Feler necowego protokołu">
 
 <!ENTITY enableTls10.longDesc "Ta strōna może niy ôbsugować protokołu TLS 1.2 - minimalnyj wersyji ôbsugowanyj ôd aplikacyje &brandShortName;. Połōnczynie może sie podarzić po załōnczyniu TLS 1.0 i TLS 1.1.">
 <!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 bydōm na zawdy zastawiōne we prziszłym wydaniu.">

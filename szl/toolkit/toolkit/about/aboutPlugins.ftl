@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Ô rozszyrzyniach plugin
+
 installed-plugins-label = Zainstalowane rozszyrzynia plugin
 no-plugins-are-installed-label = Żodne zainstalowane rozszyrzynia plugin niy sōm znodniynte
+
 deprecation-description = Chybio czego? Niykere rozszyrzynia już niy sōm ôbsugowane. <a data-l10n-name="deprecation-link">Przewiydz sie wiyncyj.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Sztatus:</span> Załōnczōne
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Sztatus:</span> Załōnczōne ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Sztatus:</span> Zastawiōne
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Sztatus:</span> Zastawiōne ({ $blockListState })
+
 mime-type-label = Typ MIME
 description-label = Ôpis
 suffixes-label = Kōńcōwki

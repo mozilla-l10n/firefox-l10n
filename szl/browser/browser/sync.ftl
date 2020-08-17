@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Synchrōnizacyjo…
 fxa-toolbar-sync-syncing-tabs =
     .label = Synchrōnizowanie kart…
+
 sync-disconnect-dialog-title = Rozłōnczyć { -sync-brand-short-name(case: "acc") }?
 sync-disconnect-dialog-body = { -brand-product-name } skōńczy synchrōnizować twoje kōnto, ale niy skasuje żodnych danych przeglōndanio na tyj maszinie.
 fxa-disconnect-dialog-title = Rozłōnczyć aplikacyjo { -brand-product-name }?

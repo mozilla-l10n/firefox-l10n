@@ -31,8 +31,6 @@ printpreview-print =
     .accesskey = D
 printpreview-of =
     .value = ze
-printpreview-custom-prompt =
-    .value = Włosno skala…
 printpreview-custom-scale-prompt-title = Włosno skala
 printpreview-page-setup =
     .label = Sztalowanie strōny
@@ -59,3 +57,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Ôstatnio strōna
+

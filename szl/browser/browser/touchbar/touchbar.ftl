@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Wylyź z trybu cołkigo ekranu
 find = Znojdź
 new-tab = Nowo karta
 add-bookmark = Przidej zokłodka
-open-bookmarks-sidebar = Ôdewrzij lajsta na rancie z zokłodkami
 reader-view = Wyglōnd do czytanio
 # Meant to match the string displayed in an empty URL bar.
 open-location = Szukej abo wkludź adresa
