@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Билэни талыы…">
 <!ENTITY cmd.restoreFromFile.accesskey  "т">
 
-<!ENTITY cmd.deleteDomainData.label     "Бу ситим-сири умнарга">
-<!ENTITY cmd.deleteDomainData.accesskey "Б">
-
-<!ENTITY cmd.open.label                  "Арый">
-<!ENTITY cmd.open.accesskey              "А">
-<!ENTITY cmd.open_window.label           "Саҥа түннүккэ арый">
-<!ENTITY cmd.open_window.accesskey       "т">
-
-
-<!ENTITY cmd.open_tab.label              "Саҥа кыбытыкка арый ">
-<!ENTITY cmd.open_tab.accesskey          "к">
-<!ENTITY cmd.open_all_in_tabs.label      "Барытын кыбытыктарга арый">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "к">
-
-<!ENTITY cmd.properties.label      "Уратылар">
-<!ENTITY cmd.properties.accesskey  "р">
-
-<!ENTITY cmd.sortby_name.label              "Аатынан наардаа">
-<!ENTITY cmd.sortby_name.accesskey          "А">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Саҥа бэлиэ...">
-<!ENTITY cmd.new_bookmark.accesskey        "б">
-<!ENTITY cmd.new_folder.label              "Саҥа паапка…">
-<!ENTITY cmd.new_folder.accesskey          "а">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Саҥа быыс">
-<!ENTITY cmd.new_separator.accesskey       "б">
 
 <!ENTITY col.name.label          "Аат">
 <!ENTITY col.tags.label          "Бэлиэлэр">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Элэмиэн ис тутулун көрөргө уонна көннөрөргө бэйэтин тал">
 
-<!ENTITY view.label               "Көстүүтэ">
-<!ENTITY view.accesskey           "т">
-<!ENTITY byDate.label             "Кэминэн">
-<!ENTITY byDate.accesskey         "К">
-<!ENTITY bySite.label             "Ситим-сирдэринэн">
-<!ENTITY bySite.accesskey         "с">
-<!ENTITY byMostVisited.label      "Киирии ахсаанынан">
-<!ENTITY byMostVisited.accesskey  "а">
-<!ENTITY byLastVisited.label      "Кэнники киирии кэминэн">
-<!ENTITY byLastVisited.accesskey  "к">
-<!ENTITY byDayAndSite.label       "Кэминэн уонна ситим-сирдэринэн">
-<!ENTITY byDayAndSite.accesskey   "у">

@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Бу ситим прокситын аптамаатынан туруор
     .accesskey = с
 
-connection-proxy-http-share =
-    .label = Бу прокси-сиэрбэри бары боротокуолларга тутун
-    .accesskey = и
-
 connection-proxy-socks4 =
     .label = SOCKS 4
     .accesskey = 4

@@ -68,15 +68,6 @@
 <!ENTITY notCached.longDesc "<p>Көрдөнүллүбүт дөкүмүөн кэшкэ суох &brandShortName;.</p><ul><li>Куттал суоһаабатын диэн &brandShortName; аптамаатынан хос көрдөөбөт.</li><li>Дөкүмүөнү хат көрдүүргэ «Хат хачайдаа» диэни баттаа.</li></ul>">
 
 <!ENTITY netOffline.title "Холбоммокко үлэлээһин">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Иһинээҕитин куода алҕастаах">
 <!ENTITY contentEncodingError.longDesc "<ul> 

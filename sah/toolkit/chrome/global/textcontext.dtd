@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Быһан ыл">
-<!ENTITY cutCmd.accesskey "Б">
-<!ENTITY copyCmd.label "Төгүллээ">
-<!ENTITY copyCmd.accesskey "Т">
-<!ENTITY pasteCmd.label "Ук">
-<!ENTITY pasteCmd.accesskey "У">
-<!ENTITY undoCmd.label "Төннөр">
-<!ENTITY undoCmd.accesskey "Т">
-<!ENTITY selectAllCmd.label "Барытын хараарт">
-<!ENTITY selectAllCmd.accesskey "х">
-<!ENTITY deleteCmd.label "Сот">
-<!ENTITY deleteCmd.accesskey "С">
-
 <!ENTITY spellAddToDictionary.label "Тылдьыкка эп">
 <!ENTITY spellAddToDictionary.accesskey "э">
 <!ENTITY spellUndoAddToDictionary.label "Тылдьыкка эбиини суох гын">

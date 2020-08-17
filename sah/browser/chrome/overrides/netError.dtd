@@ -12,72 +12,40 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Ситимнэһэр кыаллыбата">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Бу аадырыс бобуллубут">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "Билэ көстүбэтэ">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Билэ аата сөпкө суруллубутун, регистрын, атын алҕастар баалларын көр.</li> <li>Баҕар билэ аата уларыйбыта, эбэтэр билэ сотуллубута дуу, көһөрүллүбүтэ дуу буолуо.</li> </ul>">
 
 
-
-<!ENTITY generic.title "Бабат-татай.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; бу сирэйи тоҕо эрэ кыайан хачайдаабата.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Ситим быстан хаалла">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Дөкүмүөн болдьоҕо ааспыт">
 
 <!ENTITY notCached.longDesc "<p>Көрдөнүллүбүт дөкүмүөн кэшкэ суох &brandShortName;.</p><ul><li>Куттал суоһаабатын диэн &brandShortName; аптамаатынан хос көрдөөбөт.</li><li>Дөкүмүөнү хат көрдүүргэ «Хат хачайдаа» диэни баттаа.</li></ul>">
 
-<!ENTITY netOffline.title "Холбоммокко үлэлээһин">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Ситимнэһэн сирэйгэ киирэргэ &quot;Хатылаан көр&quot; диэни баттаа.</li> </ul> ">
-
-<!ENTITY contentEncodingError.title "Иһинээҕитин куода алҕастаах">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Бука диэн ситим-сир иччитигэр тахсаҥҥын бу туһунан эт.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Билэ сэрэхтээх көрүҥэ">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Бука диэн ситим-сир иччитигэр тахсан бу туһунан эт.</li> </ul>">
-
-<!ENTITY netReset.title "Холбонуу араҕан ылбыт">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Холбонууну кэтэһии болдьоҕо бүппүт">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Аадырыс көрүҥэ биллибэт">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Бу аадырыһы арыйарга баҕар туспа бырагыраамманы туруорар наада буолуо.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Прокси-сиэрбэр холбуон баҕарбат">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Прокси-сиэрбэр туруорууларын көр, сөптөөҕүн тургут.</li> <li>Дьаһабылга тахсан прокси-сиэрбэр үлэлиирин ыйыт.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Прокси-сиэрбэри булар сатаммата">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Прокси-сиэрбэр туруорууларын тургут.</li> <li>Көмпүүтэр ситимин тургут.</li> <li>Көмпүүтэриҥ эбэтэр ситимиҥ көмүскүүр экрааннаах эбэтэр прокси-сиэрбэр нөҥүө холбоһор буоллаҕына &brandShortName; интэриниэккэ тахсара көҥүллэммитин көр.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Сирэй алҕастаах утаарыылаах">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Маннык кыһалҕа кууканыараардахха эбэтэр ылары боптоххо тахсыан сөп.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Сиэрбэр хоруйа кыайан быһаарыллыбата">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Көмпүүтэргэр «Тус көмүскүүр тэрил (PSM)» турарын тургут.</li> <li>Баҕар субу сиэрбэр конфигурациятыттан тахсыбыта буолуо.</li> </ul>">
 
@@ -89,17 +57,11 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Ситим-сир быстах кэмҥэ арахсыбыт эбэтэр наһаа элбэх киһи киирэн тохтоон турар. Тохтуу түһэн баран хат холбоон көрөөр.</li> <li>Биир да сирэй хачайдаммат буоллаҕына интэриниэккин тургут.</li> <li>Көмпүүтэриҥ эбэтэр ситимиҥ көмүскүүр экрааннаах эбэтэр прокси нөҥүө холбонор буоллаҕына  &brandShortName; интэриниэккэ тахсара көҥүллэмитин көр.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Иһинээҕитин көрөн хааччахтааһыҥҥа түбэстэ">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;  бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Иһинээҕитэ туох эрэ алҕастаах">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Көрөөрү гыммыт сирэйиҥ сатаан хачайдаммата, тоҕо диэтэххэ биэрии кэмигэр туох эрэ алҕас таҕыста.</p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul>">
 
 
-
-<!ENTITY remoteXUL.title "Тэйиччи XUL">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul></p>">
 

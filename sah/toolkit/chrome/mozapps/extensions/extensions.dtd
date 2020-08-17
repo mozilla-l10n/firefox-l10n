@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Холбоо">
-<!ENTITY cmd.enableAddon.accesskey            "Х">
-<!ENTITY cmd.disableAddon.label               "Араар">
-<!ENTITY cmd.disableAddon.accesskey           "А">
-
-<!ENTITY cmd.askToActivate.label              "Холбот">
-<!ENTITY cmd.askToActivate.tooltip            "Бу эбиискэни куруук туттары көрдөө">
-<!ENTITY cmd.alwaysActivate.label             "Куруук холбоо">
-<!ENTITY cmd.alwaysActivate.tooltip           "Бу эбиискэни куруук тутун">
-<!ENTITY cmd.neverActivate.label              "Хаһан да холбообот буол">
-<!ENTITY cmd.neverActivate.tooltip            "Бу эбиискэни хаһан да туһаныма">
-<!ENTITY cmd.stateMenu.tooltip                "Эбиискэ холбонноҕуна уларытаар">
-
-<!ENTITY cmd.uninstallAddon.label             "Сот">
-<!ENTITY cmd.uninstallAddon.accesskey         "о">
-<!ENTITY cmd.showPreferencesWin.label         "Опциялара">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Бу эбиискэ туруорууларын уларыт">
-<!ENTITY cmd.showPreferencesUnix.label        "Туруоруулар">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Бу эбиискэ туруорууларын уларыт">
-
-<!ENTITY cmd.showReleaseNotes.label           "Барыл быһаарыыларын көрдөр">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Барыл тахсыытыгар анаммыт быһаарыылары көрдөр">
-<!ENTITY cmd.hideReleaseNotes.label           "Быһаарыылары көстүбэт гын">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Быһаарыылары бу саҥардыыга көстүбэт гын">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,12 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Салҕаама">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Эбии">
-<!ENTITY addon.details.tooltip                "Бу эбиискэ туһунан сиһилии">
-<!ENTITY addon.unknownDate                    "Биллибэт">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(араарыллыбыт)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Саҥардыы">
-<!ENTITY addon.undoAction.label               "Төннөр">
-<!ENTITY addon.undoAction.tooltip             "Бу дьайыыны төннөр">
-<!ENTITY addon.undoRemove.label               "Төннөр">
-<!ENTITY addon.undoRemove.tooltip             "Бу эбиискэни сотума">
-
-<!ENTITY addon.install.label                  "Туруор">
-<!ENTITY addon.install.tooltip                "Бу эбиискэни туруор">
-<!ENTITY addon.updateNow.label                "Билигин саҥарт">
-<!ENTITY addon.updateNow.tooltip              "Бу эбиискэ саҥардыытын туруор">
-<!ENTITY addon.includeUpdate.label            "Саҥардыыны холбоо">
-<!ENTITY addon.updateAvailable.label          "Саҥардыы баар">
-<!ENTITY addon.checkingForUpdates.label       "Саҥардыы баарын көрүү...">
-<!ENTITY addon.releaseNotes.label             "Барыл туһунан:">
-<!ENTITY addon.loadingReleaseNotes.label      "Хачайдааһын...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Хомойуох иһин, туох эрэ алҕас таҕыста.">
-
-<!ENTITY addon.createdBy.label                "Киниэнэ - ">
-
-<!ENTITY settings.path.button.label           "Көрүү…">
 
 
 

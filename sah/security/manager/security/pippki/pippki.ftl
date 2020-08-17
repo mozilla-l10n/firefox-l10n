@@ -17,6 +17,9 @@ change-password-token = Көмүскэл тэрил: { $tokenName }
 reset-password-window =
     .title = Маастар киирии тылы уларытарга
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Хос
 

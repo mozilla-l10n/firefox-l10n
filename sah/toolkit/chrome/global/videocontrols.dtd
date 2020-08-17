@@ -11,19 +11,6 @@
 
 
 
-<!ENTITY stats.media "Медиа">
-<!ENTITY stats.size "Кээмэй">
-<!ENTITY stats.activity "Туруга">
-<!ENTITY stats.activityPaused "Быстах кэмҥэ тохтотуллубут">
-<!ENTITY stats.activityPlaying "Оонньоно турар">
-<!ENTITY stats.activityEnded "Бүппүт">
-<!ENTITY stats.activitySeeking "(көрдөөһүн)">
-<!ENTITY stats.volume "Улахана">
-<!ENTITY stats.framesParsed "Бачча каадыр ырытылынна">
-<!ENTITY stats.framesDecoded "Бачча каадыр расшифровкаланна">
-<!ENTITY stats.framesPresented "Бачча каадыр көрдөрүлүннэ">
-<!ENTITY stats.framesPainted "Бачча каадыр уруһуйданна">
-
 <!ENTITY error.aborted "Видеону киллэрии тохтотулунна.">
 <!ENTITY error.network "Видеону көрдөрүү ситим алҕаһыттан тохтоото.">
 <!ENTITY error.decode "Видео көстөр кыаҕа суох, тоҕо диэтэххэ билэ туох эрэ омсоломмут.">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "Баччаттан #1баччата #2">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

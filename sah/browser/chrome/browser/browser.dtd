@@ -7,15 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Саһан көрөөһүн)">
-
 <!ENTITY appmenu.tooltip                     "Менюну арый">
 <!ENTITY navbarOverflow.label                "Атын тэриллэр...">
 
@@ -29,9 +20,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "Кыбытыгы туттар">
-<!ENTITY  pinTab.accesskey                   "К">
 <!ENTITY  unpinTab.label                     "Кыбытыгы өһүл">
-<!ENTITY  unpinTab.accesskey                 "ы">
 
 
 
@@ -41,24 +30,11 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Бары кыбытыктар тиһиктэрэ">
 
 <!ENTITY tabCmd.label "Саҥа кыбытык">
-<!ENTITY tabCmd.accesskey "к">
-<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Билэни арый…">
-<!ENTITY openFileCmd.accesskey "Б">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Сирэй туруоруулара...">
-<!ENTITY printSetupCmd.accesskey "т">
-<!ENTITY printPreviewCmd.label "Эрдэ көрүү">
-<!ENTITY printPreviewCmd.accesskey "к">
 <!ENTITY printCmd.label "Бэчээт…">
-<!ENTITY printCmd.accesskey "Б">
-<!ENTITY printCmd.commandkey "p">
-
-<!ENTITY goOfflineCmd.label "Холбоммокко үлэ">
-<!ENTITY goOfflineCmd.accesskey "л">
 
 <!ENTITY menubarCmd.label "Меню хаптаһына">
 <!ENTITY menubarCmd.accesskey "М">
@@ -73,42 +49,10 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY pageSourceCmd.label "Сирэй исходнига">
-<!ENTITY pageSourceCmd.accesskey "и">
-<!ENTITY pageSourceCmd.commandkey "u">
-
-<!ENTITY pageInfoCmd.label "Сирэй туһунан">
-<!ENTITY pageInfoCmd.accesskey "т">
-<!ENTITY pageInfoCmd.commandkey "i">
-
-
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Толору экраанҥа киир">
-<!ENTITY enterFullScreenCmd.accesskey "Т">
-<!ENTITY exitFullScreenCmd.label "Толору экраантан таҕыс">
-<!ENTITY exitFullScreenCmd.accesskey "э">
-
 <!ENTITY fullScreenCmd.label "Толору экраан">
-<!ENTITY fullScreenCmd.accesskey "Т">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Бары кыбытыктары көрдөр">
-<!ENTITY showAllTabsCmd.accesskey "к">
-
-
-<!ENTITY fxaSignIn.label "Киир уонна &syncBrand.shortName.label;">
-
-<!ENTITY fxaSignInError.label "Маны хат холбоо &syncBrand.shortName.label;">
 
 
 
-<!ENTITY fullScreenMinimize.tooltip "Кыччат">
-<!ENTITY fullScreenRestore.tooltip "Хат улаатыннар">
-
-<!ENTITY fullScreenAutohide.label "Үстүрүмүөннэри кистээ">
-<!ENTITY fullScreenAutohide.accesskey "Ү">
-<!ENTITY fullScreenExit.label "Толору экраантан таҕыс">
-<!ENTITY fullScreenExit.accesskey "э">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -122,8 +66,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY leaveDOMFullScreen.label "Толору экраантан таҕыс">
-<!ENTITY leaveDOMFullScreen.accesskey "э">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
@@ -134,18 +76,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY closeWindow.label "Түннүгү сап">
-<!ENTITY closeWindow.accesskey "с">
-
-<!ENTITY bookmarksMenu.label "Бэлиэлэр">
-<!ENTITY bookmarksMenu.accesskey "Б">
-
-<!ENTITY editThisBookmarkCmd.label "Бэлиэни уларытыы">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-
-<!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
-
 <!ENTITY showAllBookmarks2.label "Бэлиэтэммити барытын көрдөр">
 
 
@@ -155,17 +85,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY backButton.tooltip           "Бу иннинээҕи сирэйгэ">
-
-<!ENTITY forwardButton.tooltip        "Аныгыскы сирэйгэ">
-<!ENTITY backForwardButtonMenu.tooltip "Уҥа тимэҕи баттаан эбэтэр аллара тардан устуоруйатын көр">
-<!ENTITY backForwardButtonMenuMac.tooltip "Устуоруйатын көрөргө аллара тарт">
-
-
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Аадырыс устуруокатын аадырыһыгар киир">
 
 <!ENTITY printButton.label            "Бэчээт">
 <!ENTITY printButton.tooltip          "Бу сирэйи бэчээттээ">
@@ -201,7 +120,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Дьиэ-сирэйгэ">
 
 <!ENTITY bookmarksButton.label          "Бэлиэлэр">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 
 
@@ -217,93 +135,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Үстүрүмүөннэр">
-<!ENTITY toolsMenu.accesskey          "Ү">
-
-<!ENTITY keywordfield.label           "Бу көрдөөһүҥҥэ күлүүс тылла эп…">
-<!ENTITY keywordfield.accesskey       "к">
-
 <!ENTITY downloads.label              "Хачайдааһыннар">
-<!ENTITY downloads.accesskey          "Х">
-<!ENTITY downloads.commandkey         "j">
 
 <!ENTITY addons.label                 "Эбиискэлэр">
-<!ENTITY addons.accesskey             "Э">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Ситим сир оҥорооччу">
-<!ENTITY webDeveloperMenu.accesskey   "С">
-
-<!ENTITY inspectContextMenu.label     "Элэмиэни чинчий">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY fileMenu.label         "Билэ">
-<!ENTITY fileMenu.accesskey       "Б">
 
 
 <!ENTITY newNavigatorCmd.label        "Саҥа түннүк">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "С">
 <!ENTITY newPrivateWindow.label     "Бүөмнээн көрүү саҥа түннүгэ">
-<!ENTITY newPrivateWindow.accesskey "с">
 
 
 <!ENTITY editMenu.label         "Уларытыы">
-<!ENTITY editMenu.accesskey       "У">
-<!ENTITY undoCmd.label            "Төннөр">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "Т">
-<!ENTITY redoCmd.label            "Хатылаа">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "Х">
-<!ENTITY cutCmd.label           "Кырый">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "К">
 
 
 
-<!ENTITY pasteCmd.label           "Ук">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "У">
-<!ENTITY deleteCmd.label          "Сот">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "С">
-<!ENTITY selectAllCmd.label         "Барытын тал">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "т">
 <!ENTITY preferencesCmd2.label       "Туруоруулар">
-<!ENTITY preferencesCmd2.accesskey     "Т">
 <!ENTITY preferencesCmdUnix.label       "Туруоруулар">
-<!ENTITY preferencesCmdUnix.accesskey     "Т">
-
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Көстүү">
-<!ENTITY viewMenu.accesskey       "К">
-<!ENTITY viewToolbarsMenu.label       "Тэриллэр">
-<!ENTITY viewToolbarsMenu.accesskey     "Т">
-<!ENTITY viewSidebarMenu.label "Ойоҕос панель">
-<!ENTITY viewSidebarMenu.accesskey "О">
-
-<!ENTITY viewCustomizeToolbar.label       "Туруорууларын чопчулаа…">
-<!ENTITY viewCustomizeToolbar.accesskey     "Т">
 
 
 
 <!ENTITY historyMenu.label "Сурунаал">
-<!ENTITY historyMenu.accesskey "С">
 <!ENTITY historyUndoMenu.label "Соторутааҕыта сабыллыбыт кыбытыктар">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Соторутааҕыта сабыллыбыт түннүктэр">
-
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 
 
@@ -367,13 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Көрдөт эбэтэр аадырыһы ук">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.switchToTab.label     "Кыбытыгы арый:">
-
 
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
@@ -403,9 +251,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -417,13 +262,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -437,120 +275,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY openLinkCmdInTab.label       "Саҥа кыбытыкка арый">
-
 <!ENTITY openLinkCmdInTab.accesskey   "к">
-<!ENTITY openLinkCmd.label            "Саҥа түннүккэ арый">
-<!ENTITY openLinkCmd.accesskey        "т">
-<!ENTITY openLinkInPrivateWindowCmd.label "Саҥа бүөмнээн көрүү түннүгэр арый">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "т">
-<!ENTITY openLinkCmdInCurrent.label     "Сигэни арый">
-<!ENTITY openLinkCmdInCurrent.accesskey "С">
-<!ENTITY openFrameCmdInTab.label      "Фреймы саҥа кыбытыкка арый">
-<!ENTITY openFrameCmdInTab.accesskey  "с">
-<!ENTITY openFrameCmd.label           "Фреймы саҥа түннүккэ арый">
-<!ENTITY openFrameCmd.accesskey       "с">
 
-
-<!ENTITY showOnlyThisFrameCmd.label     "Бу эрэ фреймы көрдөр">
-<!ENTITY showOnlyThisFrameCmd.accesskey "Б">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Фреймы саҥарт">
-<!ENTITY reloadFrameCmd.accesskey     "Ф">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Бэлиэтэммити исходнигын көрдөр">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Сирэй исходнига">
-<!ENTITY viewPageSourceCmd.accesskey  "С">
-<!ENTITY viewFrameSourceCmd.label     "Фрейм исходнига">
-<!ENTITY viewFrameSourceCmd.accesskey "Ф">
-<!ENTITY viewPageInfoCmd.label        "Сирэй туһунан">
-<!ENTITY viewPageInfoCmd.accesskey    "т">
-<!ENTITY viewFrameInfoCmd.label       "Фрейм туһунан">
-<!ENTITY viewFrameInfoCmd.accesskey   "т">
-<!ENTITY reloadImageCmd.label         "Ойууну хос киллэр">
-<!ENTITY reloadImageCmd.accesskey     "О">
-<!ENTITY viewImageCmd.label           "Ойууну арыйыы">
-<!ENTITY viewImageCmd.accesskey       "О">
-<!ENTITY viewImageInfoCmd.label       "Ойуу туһунан">
-<!ENTITY viewImageInfoCmd.accesskey   "т">
-<!ENTITY viewImageDescCmd.label       "Бу туһунан">
-<!ENTITY viewImageDescCmd.accesskey   "т">
-<!ENTITY viewVideoCmd.label           "Видеону арый">
-<!ENTITY viewVideoCmd.accesskey       "н">
-<!ENTITY viewBGImageCmd.label         "Кэтэх ойууну арый">
-<!ENTITY viewBGImageCmd.accesskey     "ы">
-<!ENTITY setDesktopBackgroundCmd.label      "Остуол ойуута гын…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "О">
-
-<!ENTITY bookmarkThisLinkCmd.label      "Бу сигэни бэлиэтээ">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "с">
-<!ENTITY bookmarkThisFrameCmd.label      "Бу сирэйи бэлиэ-кыбытыктарга эп">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "с">
 
 <!ENTITY emailPageCmd.label           "Email сигэ…">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "Маннык бигэргэт...">
-<!ENTITY savePageCmd.accesskey        "б">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "р">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Фрейми маннык бигэргэт...">
-<!ENTITY saveFrameCmd.accesskey       "б">
-<!ENTITY printFrameCmd.label          "Фрейми бэчээттээһин…">
-<!ENTITY printFrameCmd.accesskey      "и">
-<!ENTITY saveLinkCmd.label            "Сигэни маннык бигэргэт…">
-<!ENTITY saveLinkCmd.accesskey        "б">
-<!ENTITY saveImageCmd.label           "Ойууну маннык бигэргэт…">
-<!ENTITY saveImageCmd.accesskey       "О">
-
-
-<!ENTITY saveAudioCmd.label           "Аудиону маннык бигэргэт…">
-<!ENTITY saveAudioCmd.accesskey       "м">
-<!ENTITY emailImageCmd.label          "Ойууну эл. почтанан …">
-<!ENTITY emailImageCmd.accesskey      "н">
-<!ENTITY emailVideoCmd.label          "Email видео…">
-<!ENTITY emailVideoCmd.accesskey      "a">
 
 
 
-
-<!ENTITY playPluginCmd.label          "Бу плагины холобоо">
-<!ENTITY playPluginCmd.accesskey      "а">
-<!ENTITY hidePluginCmd.label          "Бу плагины кистээ">
-<!ENTITY hidePluginCmd.accesskey      "г">
-<!ENTITY copyLinkCmd.label            "Сигэни төгүлээ">
-<!ENTITY copyLinkCmd.accesskey        "г">
-<!ENTITY copyImageCmd.label           "Ойууга сигэни хатылаа">
-<!ENTITY copyImageCmd.accesskey       "г">
-<!ENTITY copyImageContentsCmd.label   "Ойууну хатылаа">
-<!ENTITY copyImageContentsCmd.accesskey  "т">
-<!ENTITY copyVideoURLCmd.label        "Видеоҕа сигэни төгүллээ">
-<!ENTITY copyVideoURLCmd.accesskey    "г">
-<!ENTITY copyAudioURLCmd.label        "Аудиоҕа сигэни төгүллээ">
-<!ENTITY copyAudioURLCmd.accesskey    "г">
-<!ENTITY copyEmailCmd.label           "Email-ы төгүллээ">
-<!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Бу фреймҥэ">
-<!ENTITY thisFrameMenu.accesskey          "ф">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
-<!ENTITY mediaPlay.label             "Оонньот">
-<!ENTITY mediaPlay.accesskey         "О">
-<!ENTITY mediaPause.label            "Тохтото түс">
-<!ENTITY mediaPause.accesskey        "Т">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Тыаһаабат гын">
-<!ENTITY mediaMute.accesskey         "Т">
-<!ENTITY mediaUnmute.label           "Тыаһын баар гын">
-<!ENTITY mediaUnmute.accesskey       "б">
 
 
 
@@ -567,25 +303,6 @@ fast. -->
 
 
 
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Салалтаны көрдөр">
-<!ENTITY mediaShowControls.accesskey "С">
-<!ENTITY mediaHideControls.label     "Салалтаны көстүбэт гын">
-<!ENTITY mediaHideControls.accesskey "к">
-<!ENTITY videoFullScreen.label       "Толору экраан">
-<!ENTITY videoFullScreen.accesskey   "Т">
-<!ENTITY videoSaveImage.label        "Каадыры маннык хааллар...">
-<!ENTITY videoSaveImage.accesskey    "х">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Статиистиканы көрдөр">
-<!ENTITY videoShowStats.accesskey    "т">
-<!ENTITY videoHideStats.label        "Статиистиканы кистээ">
-<!ENTITY videoHideStats.accesskey    "т">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -593,28 +310,7 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Улаатыннар">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "л">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Куччат">
-<!ENTITY fullZoomReduceCmd.accesskey    "ч">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Хаттаан">
-<!ENTITY fullZoomResetCmd.accesskey     "Х">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Тиэкиһи эрэ">
-<!ENTITY fullZoomToggleCmd.accesskey    "Т">
-
 <!ENTITY fullZoom.label                 "Улаатыннар">
-<!ENTITY fullZoom.accesskey             "У">
 
 <!ENTITY sidebarCloseButton.tooltip     "Ойоҕос хапталы көстүбэт гын">
 
@@ -622,24 +318,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Тахсыы">
 <!ENTITY quitApplicationCmdWin2.accesskey   "с">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Маны &brandShorterName; бүтэр">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Таҕыс">
 <!ENTITY quitApplicationCmd.accesskey   "Т">
 <!ENTITY quitApplicationCmdMac2.label   "Маны &brandShorterName; бүтэр">
 
-
-<!ENTITY closeCmd.label                 "Сап">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "С">
-
-
-<!ENTITY pageStyleMenu.label "Сирэй истиилэ">
-<!ENTITY pageStyleMenu.accesskey "т">
-<!ENTITY pageStyleNoStyle.label "Истиилэ суох">
-<!ENTITY pageStyleNoStyle.accesskey "И">
-<!ENTITY pageStylePersistentOnly.label "Сирэй сүрүн истиилэ">
-<!ENTITY pageStylePersistentOnly.accesskey "С">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -650,19 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "О">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Сирэйгэ тиэкис хайысхатын уларыт">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "х">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Тиэкис хайысхатын уларыт">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "х">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Бу сирэйтэн бул...">
-<!ENTITY findOnCmd.accesskey "Б">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Хат көрдөө">
-<!ENTITY findAgainCmd.accesskey "к">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
 <!ENTITY spellAddDictionaries.label "Тылдьыттары эп…">
@@ -697,9 +367,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY identity.permissions "Көҥүллээһин">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -741,13 +408,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 
-<!ENTITY syncSyncNowItem.label        "Синхроннаа">
-<!ENTITY syncSyncNowItem.accesskey    "С">
-
-
-<!ENTITY syncToolbarButton.label      "Синхронизация">
-
-
 
 
 
@@ -773,14 +433,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY getUserMedia.selectCamera.label "Каамераны холбооһун:">
-<!ENTITY getUserMedia.selectCamera.accesskey "К">
-<!ENTITY getUserMedia.selectMicrophone.label "Микрофону холбооһун:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "М">
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -799,8 +451,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY pluginNotification.showAll.label "Барытын көрдөр">
-<!ENTITY pluginNotification.showAll.accesskey "Б">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
@@ -808,8 +458,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
-<!ENTITY pluginNotification.width "28em">
 
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):

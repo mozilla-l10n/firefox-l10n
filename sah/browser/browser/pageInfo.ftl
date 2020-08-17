@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = Маннык бигэргэт...
     .accesskey = e
-media-preview =
-    .value = Мултимедианы эрдэ көрүү:
 
 perm-tab =
     .label = Көҥүллээһин
@@ -107,7 +105,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Биллибэт
-not-set-verified-by = Ыйыллыбатах
 page-info-not-specified =
     .value = Ыйыллыбатах
 not-set-alternative-text = Ыйыллыбатах
@@ -132,7 +129,6 @@ general-quirks-mode =
     .value = Сөп түбэһии эрэсиимэ
 general-strict-mode =
     .value = Стандаартарга сөп түбэһии эрэсиимэ
-security-no-owner = Бу ситим-сири бас билээччи туһунан туох да суох.
 page-info-security-no-owner =
     .value = Бу ситим-сири бас билээччи туһунан туох да суох.
 media-select-folder = Ойуулары харайар паапкаҕын тал

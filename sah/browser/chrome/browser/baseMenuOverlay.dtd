@@ -2,51 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "к">
-<!ENTITY minimizeWindow.label     "Кыччат">
-<!ENTITY bringAllToFront.label    "Бары түннүктэри инники таһаар">
-<!ENTITY zoomWindow.label         "Улаатыннар">
-<!ENTITY windowMenu.label         "Түннүк">
 
-<!ENTITY helpMenu.label           "Көмө"> 
-<!ENTITY helpMenu.accesskey       "К"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Көмө"> 
-<!ENTITY helpMenuWin.accesskey    "К">
-
-
-<!ENTITY productHelp2.label       "&brandShorterName; Көмө">
-<!ENTITY productHelp2.accesskey   "К">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Кылгас клавиатура">
-<!ENTITY helpKeyboardShortcuts.accesskey "К">
-
-<!ENTITY helpSafeMode.label       "Эбиилэрин арааран баран хат холбоо…">
-<!ENTITY helpSafeMode.accesskey   "х">
-
-
-
-<!ENTITY helpTroubleshootingInfo.label      "Кыһалҕаны быһаарар туһунан">
-<!ENTITY helpTroubleshootingInfo.accesskey  "К">
-
-<!ENTITY helpFeedbackPage.label      "Бэйэҥ санааҕын ыыт…">
-<!ENTITY helpFeedbackPage.accesskey  "Б">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Көмө">
-<!ENTITY helpShowTour2.accesskey        "К">
 
 <!ENTITY preferencesCmdMac.label        "Туруоруулар...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Сулууспалар">
 
 <!ENTITY hideThisAppCmdMac2.label       "Маны &brandShorterName; кистээ">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Атыны кистээ">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Барытын көрдөр">
 

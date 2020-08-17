@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Мантан туруорууларын, кыбытык-бэлиэлэрин, сурунаалы, киирии тыллары уонна да атыны ыларга:">
 <!ENTITY importFromUnix.label           "Мантан туруорууларын, кыбытык-бэлиэлэрин, сурунаалы, киирии тыллары уонна да атыны ыларга:">
-<!ENTITY importFromBookmarks.label      "Кыбытык-бэлиэлэри мантан ыл:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

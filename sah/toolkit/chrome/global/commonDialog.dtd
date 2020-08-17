@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Кылгас баһа"> 
-<!ENTITY message.label    "Ханнык эмит тиэкис холобура.">
-
 <!ENTITY editfield0.label "Кыттааччы аата:"> 
 <!ENTITY editfield1.label "Киирии тыл:"> 
-<!ENTITY checkbox.label   "туруор"> 
 <!ENTITY copyCmd.label    "Төгүллээ">
 <!ENTITY copyCmd.accesskey "Т">
 <!ENTITY selectAllCmd.label "Барытын тал">

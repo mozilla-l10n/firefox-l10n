@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Опциялара
-           *[other] Туруоруулар
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Опциялара
@@ -288,8 +281,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = Туһаныы усулуобуйата
-
 ## Privacy Section
 
 
@@ -310,6 +301,7 @@ forms-master-pw-change =
     .accesskey = М
 
 forms-master-pw-fips-title = Эн FIPS эрэсиимигэр холбонон олороҕун. Маннык эрэсиимҥэ маастар киирии тылы туоруорар ирдэнэр.
+
 forms-master-pw-fips-desc = Киирии тыл уларыйбата
 
 ## OS Authentication dialog
@@ -385,6 +377,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Сэртипикээттэр
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
