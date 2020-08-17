@@ -20,21 +20,6 @@ graph-total-tracker-summary =
        *[other] <b>{ $count }</b> trazzatura bluccati dû { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = U liveḍḍu di prutizziuni è mpustatu a <b>Nurmali</b>
-    .title = Vai nnê Mpustazziuna di privatizza
-protection-report-header-details-strict = U liveḍḍu di prutizziuni è mpustatu a <b>Strittu</b>
-    .title = Vai nnê Mpustazziuna di privatizza
-protection-report-header-details-custom = U liveḍḍu di prutizziuni è mpustatu a <b>Pirsunalizzatu</b>
-    .title = Vai nnê Mpustazziuna di privatizza
-protection-report-page-title = Prutizziuna pâ privatizza
-protection-report-content-title = Prutizziuna pâ privatizza
-
-etp-card-title = Prutizziuni avanzata dû trazzamentu
-etp-card-content = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazziuna supra i to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
-
 protection-report-etp-card-content-custom-not-blocking = Tutti i prutizziuna sunnu sdisarmati accamora. Scegghi quali trazzatura bluccari nnê mpustazziuna di prutizziuni di { -brand-short-name }.
 protection-report-manage-protections = Gistisci mpustazziuna
 
@@ -61,39 +46,16 @@ cryptominer-tab-title = Minatura di crittumunita
 cryptominer-tab-content = I minatura di crittumunita ùsanu a putenza dû to sistema pi criari munita diggitali. Sti prugrammi cunzùmanu a battirìa, fannu addivintari cchiù lentu u to computer e ti ponnu custari assai nnâ bulletta elèttrica. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
   
 lockwise-title = Nun ti scurdari cchiù nuḍḍa chiavi
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } sarba 'n sicurizza i to chiavi nnô to navigaturi.
 lockwise-header-content-logged-in = Sarba i to chiavi 'n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
-protection-report-view-logins-button = Vidi cridinziali
-    .title = Vai nnê Cridinziali sarbati
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Chiavi sarbata 'n sicurizza <a data-l10n-name="lockwise-how-it-works">Comu funziona</a>
-       *[other] Chiavi sarbati 'n sicurizza <a data-l10n-name="lockwise-how-it-works">Comu funziona</a>
-    }
 
 turn-on-sync = Attiva { -sync-brand-short-name }…
     .title = Vai nnê prifirenzi di sincrunizzazziuni
-
-manage-connected-devices = Gistisci dispusitivi…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Culligatu cu { $count } dispusitivu
-       *[other] Culligatu cu { $count } dispusitivi
-    }
 
 monitor-title = Stai accura ê viulazziuna dî dati
 monitor-link = Comu funziona
 monitor-header-content-no-account = Cuntrolla { -monitor-brand-name } pi vìdiri si avisti quarchi viulazziuni dî dati, e nfòrmati supra ê novi viulazziuna.
 monitor-header-content-signed-in = { -monitor-brand-name } t'abbisa si i to dati spùntanu nna quarchi viulazziuni di dati canusciuta.
-monitor-sign-up = Iscrìviti pi l'abbisi di viulazziuni
 auto-scan = Cuntrullatu autumaticamenti oji
 
 # This string is displayed after a large numeral that indicates the total number
@@ -121,17 +83,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] Chiavi cumprumisa di tutti i viulazziuna
        *[other] Chiavi cumprumisi di tutti i viulazziuna
-    }
-
-full-report-link = Vidi tuttu u rapportu nne <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] È pussìbbili ca na cridinziali sarbata fu pubblicata nna na viulazziuni di dati. Cancia sta chiavi pi na megghiu sicurizza 'n riti. <a data-l10n-name="lockwise-link">Vidi i cridinziali sarbati</a>
-       *[other] È pussìbbili ca certi cridinziali sarbati foru pubblicati nna na viulazziuni di dati. Cancia sta chiavi pi na megghiu sicurizza 'n riti. <a data-l10n-name="lockwise-link">Vidi i cridinziali sarbati</a>
     }
 
 ## The title attribute is used to display the type of protection.

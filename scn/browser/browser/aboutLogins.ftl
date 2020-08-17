@@ -67,6 +67,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Stai circannu i to cridinziali sarbati? Cunfijura { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Nuḍḍa cridinziali sincrunizzata truvata.
 login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n'autru dispusitivu, i po' ricupirari accussì:
 login-intro-instruction-fxa = Crea o trasi nne { -fxaccount-brand-name } nnô dispusitivu unni sunnu sarbati i cridinziali
@@ -108,6 +109,9 @@ login-item-time-used = Ùrtimu usu: { DATETIME($timeUsed, day: "numeric", month:
 ## Master Password notification
 
 master-password-notification-message = Pi favuri metti a to chiavi mastra pi vìdiri i cridinziali e i chiavi sarbati
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Trasi
     .accesskey = T
@@ -163,4 +167,6 @@ about-logins-error-message-default = Cci fu n'erruri pruvannu a sarbari sta chia
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

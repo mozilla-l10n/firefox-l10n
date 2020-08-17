@@ -103,6 +103,8 @@ urlbar-tip-help-icon =
 
 urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchi+ assai: cerca cu { $engineName } direttamenti dâ to barra dû nnirizzu.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -177,6 +179,13 @@ search-one-offs-context-set-as-default-private =
     .label = Metti comu muturi di ricerca pridifinutu pî finestri privati
     .accesskey = v
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
@@ -236,8 +245,10 @@ popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cerca o metti nu nnirizzu
+
 urlbar-placeholder =
     .placeholder = Cerca o metti nu nnirizzu
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = U navigaturi è sutta cuntrollu rimotu
 urlbar-permissions-granted =

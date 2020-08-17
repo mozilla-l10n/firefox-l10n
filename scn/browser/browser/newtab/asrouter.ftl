@@ -226,3 +226,11 @@ cfr-doorhanger-milestone-ok-button = Vidi tuttu
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

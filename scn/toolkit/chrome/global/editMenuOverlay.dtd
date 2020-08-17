@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY undoCmd.label             "Sfai">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "S">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY cutCmd.label              "Tagghia">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY copyCmd.label             "Copia">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY pasteCmd.label            "Ncoḍḍa">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY selectAllCmd.key          "A">
-
 <!ENTITY findCmd.label             "Trova">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "v">

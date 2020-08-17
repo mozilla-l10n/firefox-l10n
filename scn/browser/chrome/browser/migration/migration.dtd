@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Mporta i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
 <!ENTITY importFromUnix.label           "Mporta i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
-<!ENTITY importFromBookmarks.label      "Mporta i nzingalibbri di:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

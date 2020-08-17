@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Scegghi tutti i schedi
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Sfai Chiuji scheda
-    .accesskey = S
 
 toolbar-context-menu-manage-extension =
     .label = Gistisci stinziuni

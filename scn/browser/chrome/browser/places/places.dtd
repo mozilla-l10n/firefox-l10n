@@ -16,24 +16,8 @@
 <!ENTITY importOtherBrowser.label          "Pigghia dati di n'autru navigaturi…">
 
 
-<!ENTITY cmd.deleteDomainData.label     "Scòrdati stu situ">
-<!ENTITY cmd.deleteDomainData.accesskey "S">
-
-<!ENTITY cmd.open.label                  "Rapi">
-<!ENTITY cmd.open.accesskey              "R">
-<!ENTITY cmd.open_window.label           "Rapi nta na finestra nova">
-<!ENTITY cmd.open_private_window.accesskey "A">
-
-
-<!ENTITY cmd.sortby_name.label              "Òrdina pi nomu">
-
-<!ENTITY cmd.new_bookmark.label            "Novu nzingalibbru…">
-<!ENTITY cmd.new_folder.label              "Nova carpetta…">
-
 <!ENTITY col.url.label           "Pusizziuni">
 <!ENTITY col.dateadded.label     "Agghiunciutu">
-
-<!ENTITY bookmarksSearch.placeholder  "Cerca nnê nzingalibbri">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -42,5 +26,3 @@
 
 
 
-<!ENTITY byMostVisited.label      "Pi nùmmaru di vìsiti">
-<!ENTITY byLastVisited.label      "Pi ùrtima vìsita">

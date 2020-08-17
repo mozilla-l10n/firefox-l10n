@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Sarba comu…
     .accesskey = c
-media-preview =
-    .value = Antiprima media:
 
 perm-tab =
     .label = Pirimisi
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Se, cookie
 security-site-data-no = No
 
 image-size-unknown = Scanusciutu
-not-set-verified-by = Nun spicificatu
 page-info-not-specified =
     .value = Nun spicificatu
 not-set-alternative-text = Nun spicificatu
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Mudalità stravaganza
 general-strict-mode =
     .value = Mudalità rispettu dî standard
-security-no-owner = Stu situ nun àvi nfurmazziuna supra u prupitariu.
 page-info-security-no-owner =
     .value = Stu situ nun àvi nfurmazziuna supra u prupitariu.
 media-select-folder = Scegghi na carpetta unni sarbari i mmàggini

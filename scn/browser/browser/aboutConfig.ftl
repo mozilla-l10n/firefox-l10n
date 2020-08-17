@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Cca cci su' i liuna!
-about-config-warning-text = Canciari sti mpustazziuna avanzati po èssiri piriculusu pâ stabbilità, pâ sicurizza e pî pristazziuna di st'appricazziuni. Cuntinua sulu si sì sicuru di soccu fai.
-about-config-warning-checkbox = Ncuètami arrè, pi fauri!
-about-config-warning-button = Accettu u rìsicu
-
-about-config2-title = Cunfijurazziuna avanzati
-
-about-config-search-input =
-    .placeholder = Cerca
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Stai accura
@@ -32,13 +21,6 @@ about-config-page-title = Prifirenzi avanzati
 about-config-search-input1 =
     .placeholder = Cerca u nomu dâ prifirenza
 about-config-show-all = Mustra tuttu
-
-about-config-pref-add = Agghiunci
-about-config-pref-toggle = Attiva
-about-config-pref-edit = Cancia
-about-config-pref-save = Sarba
-about-config-pref-reset = Rimposta
-about-config-pref-delete = Cancella
 
 about-config-pref-add-button =
     .title = Agghiunci

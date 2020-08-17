@@ -35,12 +35,6 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Porta
     .accesskey = P
-connection-proxy-http-share =
-    .label = Usa stu sirburi proxy pi tutti i prutucolli
-    .accesskey = s
-
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Porta
     .accesskey = o

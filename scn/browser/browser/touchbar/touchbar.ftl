@@ -12,7 +12,6 @@ fullscreen = Tuttu schirmu
 find = Trova
 new-tab = Nova scheda
 add-bookmark = Agghiunci nzingalibbru
-open-bookmarks-sidebar = Rapi sbarra di ciancu dî nzingalibbri
 reader-view = Vista litturi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Cerca o metti nu nnirizzu

@@ -5,10 +5,6 @@
 <!-- addon actions -->
 
 
-<!ENTITY cmd.showPreferencesWin.label         "Uzziuni">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Cancia chisti uzziuni di l'agghiuncitina">
-
-
 <!-- download/install progress -->
 
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
@@ -17,14 +13,6 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.undoAction.label               "Sfai">
-<!ENTITY addon.undoAction.tooltip             "Sfai st'azziuni">
-<!ENTITY addon.undoRemove.label               "Sfai">
 
 
 

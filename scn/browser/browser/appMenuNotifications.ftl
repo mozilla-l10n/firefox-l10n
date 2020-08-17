@@ -39,12 +39,4 @@ appmenu-addon-post-install-message = Gistisci i to agghiuncitini ammaccannu <ima
 appmenu-addon-post-install-incognito-checkbox =
     .label = Pirmetti a sta stinziuni di travagghiari ntê Finestri privati
     .accesskey = P
-appmenu-addon-private-browsing =
-    .label = Cancia a stinziuna nnê finestri privati
-    .buttonlabel = Gistisci stinziuna
-    .buttonaccesskey = G
-    .secondarybuttonlabel = D'accordu
-    .secondarybuttonaccesskey = D
-appmenu-addon-private-browsing-message = Tutti i novi stinziuna ca ci agghiunci a { -brand-shorter-name } nun funziunarannu nnê finestri privati, sempri ca nun ci u pirmetti nnê mpustazziuna.
-appmenu-addon-private-browsing-learn-more = Nzìgnati comu gistiri i mpustazziuna dî stinziuna
     

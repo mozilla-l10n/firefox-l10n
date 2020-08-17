@@ -2,46 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Arriduci">
-<!ENTITY zoomWindow.label         "Grannizza">
-<!ENTITY windowMenu.label         "Finestra">
-
-<!ENTITY helpMenu.label           "Ajutu"> 
-<!ENTITY helpMenu.accesskey       "A"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Ajutu"> 
-<!ENTITY helpMenuWin.accesskey    "A">
-
 <!ENTITY aboutProduct2.label      "Supra &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "S">
-<!ENTITY productHelp2.label       "Ajutu di &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "A">
-<!ENTITY helpMac.commandkey       "?">
 
-
-<!ENTITY helpSafeMode.label       "Riabbìa cu l'agghiuncitini disabbilitati…">
-<!ENTITY helpSafeMode.stop.label       "Riabbìa cu l'agghiuncitini abbilitati">
-
-<!ENTITY helpTroubleshootingInfo.label      "Nfurmazziuna p'arrisòrbiri prubblemi">
-<!ENTITY helpTroubleshootingInfo.accesskey  "p">
-
-<!ENTITY helpFeedbackPage.label      "Manna riscontru…">
-<!ENTITY helpFeedbackPage.accesskey  "c">
-
-<!ENTITY helpShowTour2.label            "Vìsita cunnuciuta di &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "V">
 
 <!ENTITY preferencesCmdMac.label        "Prifirenzi…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Sirbizza">
 
 <!ENTITY hideThisAppCmdMac2.label       "Ammuccia &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ammuccia l'autri">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 

@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Metti nomu òspiti vàlidu
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Ccizziuna - Bloccu dî cuntinuti
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Disabbilitasti u bloccu dî cuntinuti nna stu situ.
-
 permissions-exceptions-etp-window =
     .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nstallari agghiuncitini. Dìggita u nnirizzu giustu dû situ ô quali ci u vo' pirmèttiri e poi ammacca Pirmetti.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Ccizziuna - Ripruduzziuni autumàtica
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Po' spicificari quali siti ponnu o nun ponnu mai riprudùciri autumaticamenti media cû sonu. Dìggita u nnirizzu giustu dû situ ca vo' gistiri e poi ammacca Blocca o Pirmetti.
 
 ## Site Permissions - Autoplay
 

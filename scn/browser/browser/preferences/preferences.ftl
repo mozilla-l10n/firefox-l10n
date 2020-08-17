@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Sempri
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Uzziuna
-           *[other] Prifirenzi
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Uzziuna
@@ -444,16 +437,6 @@ update-application-use-service =
     .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzazziuna
     .accesskey = b
 
-update-enable-search-update =
-    .label = Attualizza autumaticamenti i mutura di ricerca
-    .accesskey = e
-
-update-pref-write-failure-title = Erruri di scrittura
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Mpussìbbili sarbari i prifirenzi. Mpussìbbili scrìviri nnô pricu: { $path }
-
 update-setting-write-failure-title = Erruri sarbannu i prifirenzi
 
 # Variables:
@@ -617,7 +600,6 @@ home-prefs-topsites-description = I siti chi vìsiti cchiù assai
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Cunzigghiati di { $provider }
-home-prefs-recommended-by-description = Cuntinuti ntirissanti dâ riti, pirsunalizzati pi tia
 ##
 
 home-prefs-recommended-by-learn-more = Comu funziona
@@ -657,7 +639,6 @@ search-bar-shown =
     .label = Agghiunci sbarra di ricerca nnâ sbarra dî strumenti
 
 search-engine-default-header = Muturi di ricerca pridifinutu
-search-engine-default-desc = Scegghi u muturi di ricerca pridifinutu di usari nnâ barra dû nnirizzu e nnâ barra di ricerca.
 
 search-engine-default-desc-2 = Chistu è u to muturi di ricerca pridifinutu pâ barra dû nnirizzu e chiḍḍa di ricerca. Po' canciallu quannu voi.
 search-engine-default-private-desc-2 = Scegghi n'autru muturi di ricerca sulu pî finestri privati.
@@ -686,8 +667,6 @@ search-show-suggestions-above-history-option =
 
 search-show-suggestions-private-windows =
     .label = Mustra suggirimenti di ricerca nnê finestri privati
-
-suggestions-addressbar-settings = Cancia prifirenzi dî suggirimenti pâ cronuluggìa di navigazziuni, i nzingalibbri e i schedi
 
 search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a cronuluggìa.
 
@@ -720,8 +699,6 @@ search-keyword-warning-bookmark = Scigghisti na palora-chiavi ca a stu mumentu v
 
 ## Containers Section
 
-containers-back-link = « Torna nn'arrè
-
 containers-back-button =
     .aria-label =
         { PLATFORM() ->
@@ -747,14 +724,6 @@ containers-remove-button =
 sync-signedout-caption = Pòrtati appressu a to Riti
 sync-signedout-description = Sincrunizza i to nzingalibbri, a cronuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
 
-sync-signedout-account-title = Cunnetti cu un { -fxaccount-brand-name }
-sync-signedout-account-create = Nun ài un cuntu? Accumincia
-    .accesskey = c
-
-sync-signedout-account-signin =
-    .label = Trasi…
-    .accesskey = I
-
 sync-signedout-account-signin2 =
     .label = Trasi nne { -sync-brand-short-name }…
     .accesskey = T
@@ -777,10 +746,6 @@ sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Cancia a mmàggini dû prufilu
 
-sync-disconnect =
-    .label = Discunnetti…
-    .accesskey = D
-
 sync-sign-out =
     .label = Nesci…
     .accesskey = N
@@ -802,9 +767,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Trasi
     .accesskey = T
-
-sync-signedin-settings-header = Mpustazziuna di sincrunizzazziuni
-sync-signedin-settings-desc = Scigghi chi vo' sincrunizzari nnê to dispusitivi usannu { -brand-short-name }
 
 ## Sync section - enabling or disabling sync.
 
@@ -867,11 +829,6 @@ sync-engine-tabs =
     .tooltiptext = Na lista di soccu cc'è raputu nna tutti i to dispusitivi sincrunizzati
     .accesskey = t
 
-sync-engine-logins =
-    .label = Accessi
-    .tooltiptext = Nomi utenti e chiavi ca sarbasti
-    .accesskey = A
-
 sync-engine-logins-passwords =
     .label = Accessi e chiavi
     .tooltiptext = Nomi utenti e chiavi chi sarbasti
@@ -919,22 +876,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Cunnetti n'autru dispusitivu
 
-sync-manage-devices = Gistisci dispusitivi
-
-sync-fxa-begin-pairing = Accucchia un dispusitivu
-
-sync-tos-link = Tèrmini di sirbizzu
-
-sync-fxa-privacy-notice = Abbisu di privatizza
-
 ## Privacy Section
 
 privacy-header = Privatizza navigaturi
 
 ## Privacy Section - Forms
 
-
-logins-header = Accessi e chiavi
 
 ## Privacy Section - Logins and Passwords
 
@@ -972,6 +919,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = Accamora sì 'n mudalità FIPS. FIPS abbisogna di na chiavi mastra mpustata.
+
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
 ## OS Authentication dialog
@@ -1059,9 +1007,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Tipu bluccatu
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = Trazzatura di terzi parti
-
 sitedata-option-block-cross-site-trackers =
     .label = Trazzatura ntirsitu
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -1105,34 +1050,11 @@ addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Bloccu dî cuntinuti
-
-content-blocking-section-description = Pruteggi a to privatizza mentri nàvighi. Blocca i cuntinuti mmisìbbili ca tràzzanu i siti ca vìsiti e ti prufìlanu. Bluccari certi di sti cuntinuti ponnu fari carricari i pàggini cchiù lesti.
-
 content-blocking-enhanced-tracking-protection = Prutizziuni avanzata dû trazzamentu
 
 content-blocking-section-top-level-description = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazziuna supra i to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
 
 content-blocking-learn-more = Cchiù nfurmazziuna
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Nurmali
-    .accesskey = N
-content-blocking-setting-strict =
-    .label = Rìggidu
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = Pirsunalizzatu
-    .accesskey = P
-
-content-blocking-standard-desc = Valanzatu pi prutizziuni e pristazziuna. Pirmetti certi trazzatura pi fari funziunari i siti boni.
-content-blocking-strict-description = Prutizziuni cchiù forti, putissi ncippari certi siti.
-content-blocking-custom-desc = Scegghi zoccu bluccari.
-
-content-blocking-private-trackers = Trazzatura canusciuti sulu nnê finestri privati
-content-blocking-third-party-cookies = Cookie di trazzamentu di terzi parti
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1158,15 +1080,12 @@ content-blocking-cross-site-tracking-cookies = Cookie trazzanti ntirsitu
 content-blocking-social-media-trackers = Trazzatura dî riti suciali
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-unvisited-cookies = Cookie di siti nun visitati
-content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti i finestri
 content-blocking-all-windows-tracking-content = Cuntinuti trazzanti 'n tutti i finestri
 content-blocking-all-third-party-cookies = Tutti i cookie di terzi parti
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d'urmi diggitali
 
 content-blocking-warning-title = Cumanna!
-content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari u bloccu pî siti dî quali ti fidi.
-content-blocking-learn-how = Scopri comu
 
 content-blocking-warning-learn-how = Vidi comu
 
@@ -1174,10 +1093,6 @@ content-blocking-reload-description = Ài a ricarricari i schedi p'appricari sti
 content-blocking-reload-tabs-button =
     .label = Ricàrrica tutti i schedi
     .accesskey = R
-
-content-blocking-trackers-label =
-    .label = Trazzatura
-    .accesskey = T
 
 content-blocking-tracking-content-label =
     .label = Cuntinutu trazzanti
@@ -1247,14 +1162,6 @@ permissions-notification-link = Cchiù nfurmazziuna
 permissions-notification-pause =
     .label = Ferma i nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
     .accesskey = n
-
-permissions-block-autoplay-media2 =
-    .label = Mpidisci ê siti di riprudùciri soni autumaticamenti
-    .accesskey = M
-
-permissions-block-autoplay-media-exceptions =
-    .label = Eccizziuna…
-    .accesskey = E
 
 permissions-autoplay = Ripruduzziuni autumàtica
 
@@ -1391,6 +1298,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = D
 
 space-alert-under-5gb-message = { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti dî siti si putìssiru vìdiri mali. Vìsita “Cchiù nfurmazziuna” p'uttimizzari l'usu dû discu pi na megghiu spirienza di navigazziuni.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

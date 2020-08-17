@@ -50,9 +50,9 @@ move-to-end =
 move-to-new-window =
     .label = Movi nta na finestra nova
     .accesskey = f
-undo-close-tab =
-    .label = Sfai Chiuji scheda
-    .accesskey = S
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Chiuji scheda
     .accesskey = C

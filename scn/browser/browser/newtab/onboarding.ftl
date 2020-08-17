@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Cchiù nfurmazziuna
-onboarding-button-label-try-now = Pròvalu ora
 onboarding-button-label-get-started = Accumincia
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = Bimminuti nne { -brand-short-name }
 onboarding-welcome-body = Ài u navigaturi.<br/>Canusci u restu di { -brand-product-name }.
 onboarding-welcome-learn-more = Cchiù nfurmazziuna supra i binifici.
 
-onboarding-join-form-header = Jùnciti a { -brand-product-name }
 onboarding-welcome-modal-get-body = Ài u navigaturi.<br/>Ora sfrutta { -brand-product-name } megghiu ca poi!
 onboarding-welcome-modal-supercharge-body = Prutizziuni dâ to privatizza ê màssimi liveḍḍi.
 onboarding-welcome-modal-privacy-body = Ài u navigaturi. Agghiunci quarchi prutizziuni pâ to privatizza.
@@ -46,6 +44,13 @@ onboarding-start-browsing-button-label = Accumincia a navigari
 onboarding-cards-dismiss =
     .title = Leva
     .aria-label = Leva
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -74,14 +79,7 @@ onboarding-sync-form-sub-header = pi cuntinuari cu { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Prudutti ùtili
-
 onboarding-benefit-products-text = Tròvati i cosi fatti cu na famigghia di strumenti ca arrispetta a to privatizza nnê to dispusitivi.
-
-onboarding-benefit-knowledge-title = Canuscenzi pràtichi
-onboarding-benefit-knowledge-text = Nzìgnati tuttu chiḍḍu ca ti serbi sapiri p'arristari sicuru 'n linia.
-
-onboarding-benefit-privacy-title = Privatizza vera
 
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -108,22 +106,6 @@ onboarding-benefit-lockwise-text = Gistisci i chiavi 'n manera sicura e purtàbb
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Navigazziuni privata
-onboarding-private-browsing-text = Naviga pi cuntu to. A Navigazziuni privata cû Bloccu dî cuntinuti blocca i trazzatura 'n linia ca t'assicùtanu riti riti.
-
-onboarding-screenshots-title = Schirmati
-onboarding-screenshots-text = Fai, sarba e sparti i schirmati - senza nèsciri di { -brand-short-name }. Cattura na parti o na pàggina sana mentri nàvighi. Poi sàrbali nnâ riti pi truvalli e spartilli fàcili.
-
-onboarding-addons-title = Agghiuncitini
-onboarding-addons-text = Agghiunci autri carattirìstichi ca fannu travagghiari cchiù forti { -brand-short-name } pi tia. Cunfrunta i prezzi, cuntrolla u tempu o sprimi a to pirsunalità cu un tema pirsunali.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Nàviga cchiù lestu, cchiù spertu o cchiù sicuru chî stinziuna comu Ghostery, ca ti fa bluccari i pubblicità ca nun ti ntirèssanu.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sincrunizza
-onboarding-fxa-text = Riggìstra un { -fxaccount-brand-name } e sincrunizza i to nzingalibbri, i chiavi, e rapi schedi unn'è-è ca usi { -brand-short-name }.
-
 onboarding-tracking-protection-title2 = Prutizziuni dû trazzamentu
 onboarding-tracking-protection-text2 = { -brand-short-name } t'ajuta a nun fàriti trazzari 'n riti dî siti, facennu addivintari cchiù diffìcili u trazzamentu dî pubblicità 'n riti.
 onboarding-tracking-protection-button2 = Comu funziona
@@ -134,7 +116,6 @@ onboarding-data-sync-text2 = Sincrunizza i to nzingalibbri, i chiavi e autru unn
 onboarding-data-sync-button2 = Trasi nne { -sync-brand-short-name }
 
 onboarding-firefox-monitor-title = Arresta nfurmatu ncapu i viulazziuna dî dati
-onboarding-firefox-monitor-text = { -monitor-brand-name } munìtura si a to e-mail cumparìu nna quarchi viulazziuni di dati e t'abbisa si cumparisci nna quarchi nova viulazziuni.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } munìtura si a to e-mail cumparìu nna quarchi viulazziuni di dati e t'abbisa si cumparisci nna quarchi nova viulazziuni.
 onboarding-firefox-monitor-button = Riggìstrati pi l'abbisi
 
@@ -155,19 +136,12 @@ onboarding-mobile-phone-button = Scàrrica u navigaturi pû tilèfunu
 onboarding-send-tabs-title = Mànnati i schedi di sùbbitu
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = “Manna schedi” sparti di sùbbitu i pàggini ntra i to dispusitivi senza ca ài a cupiari, ncuḍḍari o nèsciri dû navigaturi.
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
 onboarding-send-tabs-text2 = Sparti fàcili i pàggini ntra i to dispusitivi senza cupiari lijami o nèsciri dû navigaturi.
 onboarding-send-tabs-button = Accumincia a usari Manna schedi
 
 onboarding-pocket-anywhere-title = Leggi e ascuta unn'è-è
 onboarding-pocket-anywhere-text2 = Sarba i to cuntinuti favuriti fora-linia cu l'app { -pocket-brand-name } e lèggili, ascùtali e talìali quannu ti veni cchiù còmmidu.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
-
-onboarding-lockwise-passwords-title = Pòrtati i chiavi unn'è-è
-onboarding-lockwise-passwords-text2 = Teni i chiavi chi sarbi ô sicuru e trasi fàcili nnî to cunti cu { -lockwise-brand-name }.
-onboarding-lockwise-passwords-button2 = Nzìtati l'App
 
 onboarding-lockwise-strong-passwords-title = Crea e sarba chiavi cumpricati
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crea chiavi cumpricati di sùbbitu e i sarba tutti nna un postu.
