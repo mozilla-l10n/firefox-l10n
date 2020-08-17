@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Αποθήκευση ως...
     .accesskey = η
-media-preview =
-    .value = Προεπισκόπηση πολυμέσων:
 
 perm-tab =
     .label = Δικαιώματα
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ναι, cookies
 security-site-data-no = Όχι
 
 image-size-unknown = Άγνωστο
-not-set-verified-by = Δεν έχει καθοριστεί
 page-info-not-specified =
     .value = Δεν έχει καθοριστεί
 not-set-alternative-text = Δεν έχει καθοριστεί
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Λειτουργία συμβατότητας
 general-strict-mode =
     .value = Λειτουργία σύμφωνα με τα πρότυπα
-security-no-owner = Αυτή η ιστοσελίδα δεν παρέχει πληροφορίες ιδιοκτησίας.
 page-info-security-no-owner =
     .value = Αυτή η ιστοσελίδα δεν παρέχει πληροφορίες ιδιοκτησίας.
 media-select-folder = Επιλέξτε ένα φάκελο για αποθήκευση εικόνων

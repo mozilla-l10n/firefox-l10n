@@ -13,13 +13,13 @@ touchbar-fullscreen-exit = Έξοδος από πλήρη οθόνη
 find = Εύρεση
 new-tab = Νέα καρτέλα
 add-bookmark = Προσθήκη σελιδοδείκτη
-open-bookmarks-sidebar = Άνοιγμα πλευρικής στήλης σελιδοδεικτών
 reader-view = Προβολή ανάγνωσης
 # Meant to match the string displayed in an empty URL bar.
 open-location = Αναζήτηση ή εισαγωγή διεύθυνσης
 share = Κοινή χρήση
 close-window = Κλείσιμο παραθύρου
 open-sidebar = Πλευρικές γραμμές
+
 # This string describes shortcuts for search.
 search-popover = Συντομεύσεις αναζήτησης
 # Describes searches limited to a specific scope

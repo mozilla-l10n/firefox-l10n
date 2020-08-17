@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Τύπος φακέλου:">
 
 <!ENTITY folderQuotaTab.label                    "Όριο">
-<!ENTITY folderQuotaRoot.label                   "Όριο ρίζας:">
 <!ENTITY folderQuotaUsage.label                  "Χρήση:">
 <!ENTITY folderQuotaStatus.label                 "Κατάσταση:">
 

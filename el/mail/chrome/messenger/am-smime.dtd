@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Ασφάλεια">
-<!ENTITY securityTab.label "Ασφάλεια">
-<!ENTITY securityHeading.label "Για την αποστολή και λήψη υπογεγραμμένων ή κρυπτογραφημένων μηνυμάτων, θα πρέπει να ορίσετε ένα πιστοποιητικό ψηφιακής υπογραφής και ένα πιστοποιητικό κρυπτογράφησης.">
-<!ENTITY encryptionGroupTitle.label "Κρυπτογράφηση">
-<!ENTITY encryptionChoiceLabel.label "Χρήση κρυπτογράφησης κατά την αποστολή μηνυμάτων:">
-<!ENTITY neverEncrypt.label "Ποτέ (χωρίς κρυπτογράφηση)">
-<!ENTITY neverEncrypt.accesskey "Π">
-<!ENTITY alwaysEncryptMessage.label "Απαιτείται (δεν γίνεται αποστολή αν δεν έχουν όλοι οι παραλήπτες πιστοποιητικό)">
-<!ENTITY alwaysEncryptMessage.accesskey "α">
-<!ENTITY encryptionCert.message "Χρήση του εξής πιστοποιητικού για κρυπτογράφηση &amp; αποκρυπτογράφηση ληφθέντων μηνυμάτων:">
-
 <!ENTITY e2eTitle.label "Κρυπτογράφηση από άκρο σε άκρο">
-<!ENTITY e2eIntro.description "Για να στείλετε κρυπτογραφημένα ή ψηφιακά υπογεγραμμένα μηνύματα, πρέπει να ρυθμίσετε μια τεχνολογία κρυπτογράφησης, είτε OpenPGP είτε S/MIME.">
 <!ENTITY e2eLearnMore.label "Μάθετε περισσότερα">
 
 <!ENTITY e2eEnc.description "Χωρίς κρυπτογράφηση από άκρο σε άκρο, τα περιεχόμενα των μηνυμάτων εκτίθενται εύκολα στον πάροχο ηλεκτρονικού ταχυδρομείου σας και σε μαζική παρακολούθηση.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Απαλοιφή">
 <!ENTITY encryption.certificate_clear.accesskey "φ">
 <!ENTITY signingGroupTitle.label "Ψηφιακή υπογραφή">
-<!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων (από προεπιλογή)">
 <!ENTITY signMessage2.label "Προσθήκη ψηφιακής υπογραφής από προεπιλογή">
 <!ENTITY signMessage.accesskey "Ψ">
-<!ENTITY signingCert.message "Χρήση του εξής πιστοποιητικού για ψηφιακή υπογραφή απεσταλμένων μηνυμάτων:">
-
-<!ENTITY certificates.label "Πιστοποιητικά">
-<!ENTITY manageCerts2.label "Διαχείριση πιστοποιητικών">
-<!ENTITY manageCerts2.accesskey "Δ">
-<!ENTITY manageDevices.label "Συσκευές ασφαλείας">
-<!ENTITY manageDevices.accesskey "υ">
 
 <!ENTITY signingCert2.message "Προσωπικό πιστοποιητικό για ψηφιακή υπογραφή:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Να προτιμάται το OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Διαχείριση κλειδιών OpenPGP">
-<!ENTITY manageKeys.accesskey "κ">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Επιλογή πιστοποιητικού">

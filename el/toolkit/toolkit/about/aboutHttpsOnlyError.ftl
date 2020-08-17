@@ -3,15 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = Μη διαθέσιμη ασφαλής σύνδεση
+
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-insecure-explanation-unavailable = Είστε σε λειτουργία Μόνο-HTTPS και δεν είναι διαθέσιμη κάποια ασφαλής έκδοση HTTPS του <em>{ $websiteUrl }</em>.
 about-httpsonly-insecure-explanation-reasons = Πιθανότατα, η ιστοσελίδα δεν υποστηρίζει HTTPS, αλλά είναι επίσης πιθανό ότι ένας εισβολέας αποκλείει την έκδοση HTTPS.
 about-httpsonly-insecure-explanation-exception = Ενώ ο κίνδυνος ασφαλείας είναι μικρός, αν αποφασίσετε να επισκεφθείτε την έκδοση HTTP της ιστοσελίδας, δεν θα πρέπει να καταχωρήσετε ευαίσθητες πληροφορίες, όπως κωδικούς πρόσβασης, emails ή στοιχεία πιστωτικών καρτών.
+
 about-httpsonly-button-make-exception = Αποδοχή κινδύνου και συνέχεια στην ιστοσελίδα
+
 about-httpsonly-title = Το { -brand-short-name } εντόπισε πιθανό ζήτημα ασφαλείας
+
 about-httpsonly-explanation-question = Τι μπορεί να το προκαλεί αυτό;
 about-httpsonly-explanation-nosupport = Πιθανότατα, η ιστοσελίδα απλά δεν υποστηρίζει HTTPS.
+
 about-httpsonly-button-accept-and-continue = Αποδοχή κινδύνου και συνέχεια
 about-httpsonly-button-go-back = Επιστροφή
 about-httpsonly-link-learn-more = Μάθετε περισσότερα…

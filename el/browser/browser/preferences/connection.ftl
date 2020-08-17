@@ -35,12 +35,7 @@ connection-proxy-http = Διαμεσολαβητής HTTP
     .accesskey = λ
 connection-proxy-http-port = Θύρα
     .accesskey = Θ
-connection-proxy-http-share =
-    .label = Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα
-    .accesskey = δ
 
-connection-proxy-ssl = Διαμεσολαβητής SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Χρήση αυτού του διαμεσολαβητή και για FTP και HTTPS
     .accesskey = σ

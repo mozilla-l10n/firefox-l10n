@@ -23,10 +23,13 @@ openpgp-key-gen-key-type-rsa =
     .label = RSA
 openpgp-advanced-prefs-button-label =
     .label = Για προχωρημένους…
+
 openpgp-key-expiry-label =
     .label = Λήξη
+
 openpgp-key-man-title =
     .title = Διαχείριση κλειδιών OpenPGP
+
 openpgp-key-man-file-menu =
     .label = Αρχείο
     .accesskey = Α
@@ -39,10 +42,13 @@ openpgp-key-man-view-menu =
 openpgp-key-man-generate-menu =
     .label = Δημιουργία
     .accesskey = Δ
+
 openpgp-key-man-discover-progress = Αναζήτηση…
+
 openpgp-key-details-created-label =
     .label = Δημιουργήθηκε
 openpgp-key-details-created-header = Δημιουργήθηκε
+
 openpgp-copy-cmd-label =
     .label = Αντιγραφή
 
@@ -55,9 +61,13 @@ openpgp-keygen-success = Επιτυχής δημιουργία κλειδιού 
 openpgp-manager-button =
     .label = Διαχείριση κλειδιών OpenPGP
     .accesskey = κ
+
 key-type-primary = κύριο κλειδί
+
 expiry-open-key-manager = Άνοιγμα διαχείρισης κλειδιών OpenPGP
+
 import-info-created = Δημιουργήθηκε
+
 # Strings in enigmailKeyManager.js
 import-from-clip = Θέλετε να εισάγετε μερικά κλειδιά από το πρόχειρο;
 

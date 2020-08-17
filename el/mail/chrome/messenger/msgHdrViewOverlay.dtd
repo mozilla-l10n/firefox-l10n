@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Αρχειοθέτηση">
 <!ENTITY hdrArchiveButton1.tooltip "Αρχειοθέτηση μηνύματος">
-<!ENTITY hdrOpenConversationButton1.label "Συζήτηση">
-<!ENTITY hdrOpenConversationButton1.tooltip "Εμφάνιση της συζήτησης για το μήνυμα">
 <!ENTITY hdrSmartReplyButton1.label "Έξυπνη απάντηση">
 <!ENTITY hdrReplyButton1.label "Απάντηση">
 <!ENTITY hdrReplyButton2.tooltip "Απάντηση στον αποστολέα αυτού του μηνύματος">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Απάντηση στη λίστα αλληλογραφίας">
 <!ENTITY hdrFollowupButton1.label "Σε συνέχεια">
 <!ENTITY hdrFollowupButton1.tooltip "Σύνταξη μηνύματος ως συνέχεια κάποιου στην ομάδα συζητήσεων">
-<!ENTITY hdrMenuForwardButton.label "Προώθηση ως">
 <!ENTITY hdrForwardButton1.label "Προώθηση">
 <!ENTITY hdrForwardButton1.tooltip "Προώθηση μηνύματος">
 <!ENTITY hdrJunkButton1.label "Ανεπιθύμητα">

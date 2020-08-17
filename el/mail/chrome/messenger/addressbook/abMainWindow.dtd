@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Επεξεργασία">
 <!ENTITY editMenu.accesskey                             "ξ">
-<!ENTITY undoCmd.label                                  "Αναίρεση">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "Α">
-<!ENTITY redoCmd.label                                  "Επανάληψη">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "ψ">
-<!ENTITY cutCmd.label                                   "Αποκοπή">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "κ">
-<!ENTITY copyCmd.label                                  "Αντιγραφή">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "γ">
-<!ENTITY pasteCmd.label                                 "Επικόλληση">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "π">
 <!ENTITY deleteCmd.label                                "Διαγραφή">
-<!ENTITY deleteCmd.accesskey                            "γ">
 <!ENTITY deleteAbCmd.label                              "Διαγραφή ευρετηρίου διευθύνσεων">
 <!ENTITY deleteContactCmd.label                         "Διαγραφή επαφής">
 <!ENTITY deleteContactsCmd.label                        "Διαγραφή επαφών">
 <!ENTITY deleteListCmd.label                            "Διαγραφή λίστας">
 <!ENTITY deleteListsCmd.label                           "Διαγραφή λιστών">
 <!ENTITY deleteItemsCmd.label                           "Διαγραφή στοιχείων">
-<!ENTITY selectAllCmd.label                             "Επιλογή όλων">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "λ">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Εναλλαγή ονόματος/επωνύμου">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "μ">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Ιδιότητες">
 <!ENTITY propertiesMenu.accesskey                       "ι">
 <!ENTITY propertiesCmd.key                              "i">

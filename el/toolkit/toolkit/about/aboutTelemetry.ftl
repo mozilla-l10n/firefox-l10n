@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Πηγή δεδομένων ping:
-about-telemetry-show-current-ping-data = Δεδομένα τρέχοντος ping
 about-telemetry-show-current-data = Τρέχοντα δεδομένα
 about-telemetry-show-archived-ping-data = Αρχειοθετημένα δεδομένα ping
 about-telemetry-show-subsession-data = Εμφάνιση δεδομένων υποσυνεδρίας
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Η τηλεμετρία συλλέγει 
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο σε “<a data-l10n-name="ping-link">pings</a>”. Βλέπετε το ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο σε “<a data-l10n-name="ping-link">pings</a>”. Βλέπετε το τρέχον ping.
 about-telemetry-data-details-current = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο σε “<a data-l10n-name="ping-link">pings</a>”. Βλέπετε τα τρέχοντα δεδομένα.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Λυπούμαστε! Δεν υπάρχ�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Λυπούμαστε! Δεν υπάρχουν διαθέσιμα δεδομένα στο “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = τρέχον ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = τρέχοντα δεδομένα
 # used in the “Ping Type” select

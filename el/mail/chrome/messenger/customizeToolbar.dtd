@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Εικονίδια δίπλα στο κείμενο">
 <!ENTITY useSmallIcons.label      "Χρήση Μικρών Εικονιδίων">
 <!ENTITY restoreDefaultSet.label  "Επαναφορά προεπιλεγμένου σετ">
-<!ENTITY addNewToolbar.label      "Προσθήκη νέας γραμμής εργαλείων">
-<!ENTITY showTitlebar.label       "Εμφάνιση γραμμής τίτλου">
-<!ENTITY extraDragSpace.label     "Προσθήκη χώρου">
 <!ENTITY showTitlebar2.label      "Γραμμή τίτλου">
 <!ENTITY extraDragSpace2.label    "Χώρος μεταφοράς">
 <!ENTITY saveChanges.label        "Τέλος">

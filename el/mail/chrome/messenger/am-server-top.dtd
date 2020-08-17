@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "μηνύματα">
 <!ENTITY alwaysAuthenticate.label "Να απαιτείται πάντα πιστοποίηση κατά τη σύνδεση με αυτόν τον διακομιστή">
 <!ENTITY alwaysAuthenticate.accesskey "π">
-<!ENTITY newsrcFilePath.label "αρχείο newsrc:">
-<!ENTITY newsrcPicker.label "Επιλογή αρχείου newsrc">
 <!ENTITY newsrcFilePath1.label "Αρχείο News.rc:">
 <!ENTITY newsrcPicker1.label "Επιλογή αρχείου News.rc">
 <!ENTITY abbreviate.label "Προβολή ονομάτων ομάδων συζήτησης σαν:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Για προχωρημένους…">
 <!ENTITY advancedButton.accesskey "χ">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
-<!ENTITY localPath.label "Τοπικός κατάλογος:">
 <!ENTITY localPath1.label "Τοπικός φάκελος:">
 <!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
 <!ENTITY browseFolder.label "Περιήγηση…">

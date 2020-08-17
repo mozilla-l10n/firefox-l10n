@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Το όνομα και η τοποθεσία στον κώδικα της συνάρτησης δειγματοληψίας.">
 <!ENTITY performanceUI.table.totalAlloc               "Συνολικοί Καταμερισμοί Δειγμάτων">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Ο συνολικός αριθμός εκχωρήσεων αντικειμένων, από τα οποία λήφθηκε δείγμα σε αυτή την τοποθεσία και στους καλούντες.">
-<!ENTITY performanceUI.table.selfAlloc                "Εκχωρήσεις αυτόματης δειγματοληψίας">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Ο αριθμός των κατανομών αντικειμένων δειγματοληψίας σε αυτή την τοποθεσία.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

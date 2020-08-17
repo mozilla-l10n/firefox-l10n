@@ -8,8 +8,10 @@ password-quality-meter = Μέτρηση ποιότητας πιστοποιητ�
 
 change-password-window =
     .title = Αλλαγή κύριου κωδικού
+
 change-device-password-window =
     .title = Αλλαγή κωδικού πρόσβασης
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Συσκευή ασφάλειας: { $tokenName }
@@ -22,8 +24,10 @@ change-password-reenter = Εισάγετε τον κωδικό ξανά
 reset-password-window =
     .title = Επαναφορά κύριου κωδικού
     .style = width: 40em
+
 pippki-failed-pw-change = Αδυναμία αλλαγής κωδικού πρόσβασης.
 pippki-pw-change-ok = Επιτυχής αλλαγή κωδικού πρόσβασης.
+
 pippki-pw-erased-ok = Ο κωδικός πρόσβασής σας έχει διαγραφεί. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
@@ -34,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Επαναφορά
 reset-password-text = Αν επαναφέρετε τον κύριο κωδικό σας, όλοι οι αποθηκευμένοι κωδικοί πρόσβασης από ιστοσελίδες και e-mail, τα δεδομένα φορμών, τα προσωπικά πιστοποιητικά και τα ιδιωτικά κλειδιά σας θα διαγραφούν. Θέλετε σίγουρα να επαναφέρετε τον κύριο κωδικό σας;
+
 pippki-reset-password-confirmation-title = Επαναφορά κύριου κωδικού πρόσβασης
 pippki-reset-password-confirmation-message = Έγινε επαναφορά του κύριου κωδικού πρόσβασής σας.
 

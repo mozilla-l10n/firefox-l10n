@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = Διαχειριστείτε τα πρόσ�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Να επιτρέπεται η εκτέλεση αυτής της επέκτασης σε ιδιωτικά παράθυρα
     .accesskey = Ν
-appmenu-addon-private-browsing =
-    .label = Αλλαγή σε επεκτάσεις ιδιωτικών παραθύρων
-    .buttonlabel = Διαχείριση επεκτάσεων
-    .buttonaccesskey = Δ
-    .secondarybuttonlabel = Εντάξει, το 'πιασα
-    .secondarybuttonaccesskey = Ε
-appmenu-addon-private-browsing-message = Τυχόν νέες επεκτάσεις που προσθέτετε στο { -brand-shorter-name } δεν θα λειτουργούν στα ιδιωτικά παράθυρα, εκτός κι αν το επιτρέψετε στις ρυθμίσεις.
-appmenu-addon-private-browsing-learn-more = Μάθετε πώς να διαχειρίζεστε τις ρυθμίσεις επεκτάσεων
+    
 appmenu-new-tab-controlled =
     .label = Η νέα σας καρτέλα έχει αλλάξει.
     .buttonlabel = Διατήρηση αλλαγών

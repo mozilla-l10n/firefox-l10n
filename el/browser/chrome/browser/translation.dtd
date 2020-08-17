@@ -57,19 +57,3 @@
 <!ENTITY translation.options.preferences.label  "Προτιμήσεις μετάφρασης">
 <!ENTITY translation.options.preferences.accesskey "μ">
 
-<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
-  -                     translation.options.attribution.afterLogo):
-  -  These 2 strings are displayed before and after a 'Microsoft Translator'
-  -  logo.
-  -->
-<!ENTITY translation.options.attribution.beforeLogo "Μεταφράσεις από">
-<!ENTITY translation.options.attribution.afterLogo "">
-
-<!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
-                        translation.options.attribution.beforeLogo,
-  -                     translation.options.attribution.afterLogo):
-  -  translation.options.attribution.poweredByYandex is displayed instead of
-  -  the other two strings when yandex translation engine is preferred by the
-  -  user.
-  -->
-<!ENTITY translation.options.attribution.yandexTranslate "Με την υποστήριξη του Yandex.Translate">

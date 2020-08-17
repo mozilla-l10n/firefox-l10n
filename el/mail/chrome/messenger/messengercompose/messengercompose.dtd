@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Επανάληψη">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "λ">
-<!ENTITY cutCmd.label "Αποκοπή">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "π">
-<!ENTITY copyCmd.label "Αντιγραφή">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "γ">
-<!ENTITY pasteCmd.label "Επικόλληση">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "π">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "δ">
@@ -90,14 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Πίνακας συνημμένων">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "μ">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Επιλογή όλων">
 <!ENTITY selectAllCmd.accesskey "λ">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Εύρεση…">
 <!ENTITY findBarCmd.accesskey "Ε">
 <!ENTITY findBarCmd.key "F">
@@ -252,23 +239,12 @@
 <!ENTITY printButton.tooltip "Εκτύπωση μηνύματος">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Από:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Άλλοι τύποι πεδίων διευθυνσιοδότησης">
 <!ENTITY fromAddr2.label "Από">
 <!ENTITY fromAddr.accesskey "π">
-<!ENTITY toAddr.label "Προς:">
-<!ENTITY ccAddr.label "Κοιν:">
-<!ENTITY bccAddr.label "Κρυφ. Κοιν:">
-<!ENTITY replyAddr.label "Απάντηση σε:">
-<!ENTITY newsgroupsAddr.label "Ομάδα συζήτησης:">
-<!ENTITY followupAddr.label "Συνέχεια σε:">
-<!ENTITY subject.label "Θέμα:">
 <!ENTITY toAddr2.label "Προς">
 <!ENTITY ccAddr2.label "Κοιν.">
 <!ENTITY bccAddr2.label "Κρυφή Κοιν.">
@@ -277,14 +253,6 @@
 <!ENTITY followupAddr2.label "Σε συνέχεια του ">
 <!ENTITY subject2.label "Θέμα">
 <!ENTITY subject.accesskey "Θ">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "ν">
-<!ENTITY attachmentBucketHeader.tooltip "Πίνακας συνημμένων">
 <!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Ρύθμιση υπάρχοντος λογαριασμού email">
-
 <!ENTITY emailWizard.title               "Ρύθμιση της υπάρχουσας διεύθυνσης email">
 <!ENTITY emailWizard.caption             "Χρήση της τρέχουσας διεύθυνσης email">
 <!ENTITY name.label                      "Το όνομά σας:">
 <!ENTITY name.accesskey                  "ν">
-<!ENTITY name.placeholder                "Όνομα Επίθετο">
 <!ENTITY fullname.placeholder            "Το πλήρες όνομά σας">
 <!ENTITY name.text                       "Το όνομά σας, όπως θα εμφανίζεται σε τρίτους">
 <!ENTITY name.error                      "Παρακαλούμε εισάγετε το όνομά σας">
 <!ENTITY email.label                     "Διεύθυνση email:">
 <!ENTITY email.accesskey                 "ε">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Η διεύθυνση email σας">
 <!ENTITY email.text                      "Η υπάρχουσα διεύθυνση email σας">
 <!ENTITY email.error                     "Μη έγκυρη διεύθυνση email">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Εξερχόμενα:">
 <!ENTITY outgoingColumn.label            "Εξερχόμενα">
 <!ENTITY username.label                  "Όνομα χρήστη:">
-<!ENTITY hostname.label                  "Όνομα συστήματος διακομιστή">
-<!ENTITY port.label                      "Θύρα">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Διακομιστής:">
 <!ENTITY portRow.label                   "Θύρα:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Δοκιμή ξανά">
 <!ENTITY half-manual-test.accesskey      "ξ">
-<!ENTITY manual-edit.label               "Χειροκίνητη ρύθμιση">
-<!ENTITY manual-edit.accesskey           "ρ">
 <!ENTITY manual-config.label             "Χειροκίνητη ρύθμιση…">
 <!ENTITY manual-config.accesskey         "Χ">
 <!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης email…">
