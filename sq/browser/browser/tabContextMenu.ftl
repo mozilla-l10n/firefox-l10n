@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Mbyll Skeda të Shumta
     .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -79,3 +83,19 @@ move-tabs =
 move-tab =
     .label = Lëvizeni Skedën
     .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mbylle Skedën
+            [one] Mbylle Skedën
+           *[other] Mbylli Skedat
+        }
+    .accesskey = M
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Lëvize Skedën
+            [one] Lëvize Skedën
+           *[other] Lëvizni Skeda
+        }
+    .accesskey = L
