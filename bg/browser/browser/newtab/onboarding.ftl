@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Научете повече
-onboarding-button-label-try-now = Опитайте сега
 onboarding-button-label-get-started = Въведение
 
 ## Welcome modal dialog strings
@@ -23,7 +22,6 @@ onboarding-welcome-header = Добре дошли във { -brand-short-name }
 onboarding-welcome-body = Разполагате с четеца.<br/>Запознайте се с останалото от { -brand-product-name }
 onboarding-welcome-learn-more = Научете повече за ползите.
 
-onboarding-join-form-header = Присъединете се към { -brand-product-name }
 onboarding-welcome-modal-get-body = Разполагате с четеца.<br/>Сега се възползвайте максимално от { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Презаредете защитата на поверителността си.
 onboarding-welcome-modal-privacy-body = Разполагате с четеца. Нека подобрим поверителността.
@@ -47,6 +45,13 @@ onboarding-start-browsing-button-label = Започнете да разглеж�
 onboarding-cards-dismiss =
     .title = Отхвърляне
     .aria-label = Отхвърляне
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -74,13 +79,6 @@ onboarding-sync-form-sub-header = за да продължите към { -sync-
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Полезни продукти
-
-onboarding-benefit-knowledge-title = Практически знания
-onboarding-benefit-knowledge-text = Научете всичко, което трябва да знаете, за да сте в безопасност онлайн.
-
-onboarding-benefit-privacy-title = Истинска поверителност
-
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
@@ -105,22 +103,6 @@ onboarding-benefit-lockwise-text = Управлявайте пароли, кои
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Поверително разглеждане
-onboarding-private-browsing-text = Разглеждайте необезпокоявани. Поверителното разглеждане с ограничаване на съдържанието спира проследяванията, които ви следват из мрежата.
-
-onboarding-screenshots-title = Снимки на екрана
-onboarding-screenshots-text = Създавайте, запазвайте и споделяйте снимки на екрана без да напускате { -brand-short-name }. Уловете на част от екрана или цялата страница докато разглеждате. След това запазете снимката на екрана в Мрежата за по-лесен достъп и споделяне.
-
-onboarding-addons-title = Добавки
-onboarding-addons-text = Добавете още възможности към { -brand-short-name }, за да работи по-усърдно за вас. От сравняване на цени и проверка на времето до избиране на потребителска тема.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Разглеждайте по-бързо, по-удобно и безопасно с разширения като Ghostery, което спира досадните реклами.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sync
-onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и синхронизирайте отметки, пароли и отворени раздели навсякъде където използвате { -brand-short-name }.
 
 onboarding-tracking-protection-title2 = Защита от проследяване
 onboarding-tracking-protection-text2 = { -brand-short-name } помага да спрете уебсайтовете да ви следят онлайн, като затруднява и рекламите да ви досаждат в мрежата.
@@ -155,9 +137,6 @@ onboarding-send-tabs-button = Започнете да изпращате раз�
 
 onboarding-pocket-anywhere-title = Четете и слушайте навсякъде
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
-
-onboarding-lockwise-passwords-title = Вземете паролите си навсякъде
-onboarding-lockwise-passwords-button2 = Вземете приложението
 
 onboarding-lockwise-strong-passwords-title = Създавайте и съхранявайте силни пароли
 onboarding-lockwise-strong-passwords-button = Управление на регистрации

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Внасяне на настройки, отметки, история, пароли и други данни от:">
 <!ENTITY importFromUnix.label           "Внасяне на настройки, отметки, история, пароли и други данни от:">
-<!ENTITY importFromBookmarks.label      "Внасяне на отметки от:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

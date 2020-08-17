@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Зареждане…
-
 list-empty-installed =
     .value = Няма инсталирани добавки от този вид
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Научете повече за добавките
 
-install-addon-from-file =
-    .label = Инсталиране на добавка от файл…
-    .accesskey = И
-
 help-button = Поддръжка
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] Настройки на { -brand-short-name }
        *[other] Настройки на { -brand-short-name }
     }
-
-tools-menu =
-    .tooltiptext = Инструменти за всички добавки
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Показване на всички разширения
-
-debug-addons =
-    .label = Дебъгване на добавки
-    .accesskey = Д
 
 cmd-show-details =
     .label = Повече информация
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = Д
     .tooltiptext = Допринасяне за развитието на добавката
 
-discover-title = Какво са добавките?
-
-discover-description = Добавките са приложения, с които персонализирате { -brand-short-name }, така че да има допълнителна функционалност или външен вид. Опитайте удобната странична лента, известия за времето или нов изглед за { -brand-short-name }.
-
-discover-footer = Когато сте свързани с Интернет, този панел ще показва някои от най-добрите и популярни добавки, така че да може да ги опитате.
-
 detail-version =
     .label = Версия
 
@@ -140,16 +120,12 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Работa в поверителни прозорци
 
-detail-private-browsing-description2 = Когато е разрешено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не позволено в поверителни прозорци
-detail-private-disallowed-description = Разширението не работи докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Изисква достъп до поверителни прозорци
-detail-private-required-description = Разширението има достъп до дейностите ви, докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
 
 detail-private-browsing-on =
     .label = Разрешаване
@@ -221,18 +197,6 @@ private-browsing-description2 =
     { -brand-short-name } променя начина на работа на разширенията в поверителни прозорци. Всяко ново разширение, което добавите в { -brand-short-name } няма да работи по подразбиране в поверителен прозорец, освен ако вие не промените неговите настройки. Направихме тази промяна за да запазим поверителното ви разглеждане наистина поверително.
     <label data-l10n-name="private-browsing-learn-more">Научете повече как да управлявате разширенията</label>
 
-extensions-view-discopane =
-    .name = Препоръки
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Скорошни обновявания
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Налични обновявания
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Препоръки
 addon-category-discover-title =
     .title = Препоръки
@@ -260,29 +224,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Всички добавки са изключени от Надеждния режим.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Проверката за съвместимост на добавките е изключена. Възможно е да имате несъвместими добавки.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Включване
-    .tooltiptext = Включване на проверка за съвместимост на добавки
-
-extensions-warning-update-security-label =
-    .value = Проверката за безопасност на обновяването на добавки е изключена. Възможно е системата да се компрометира от добавки.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Включване
-    .tooltiptext = Включване на проверка за безопасност на обновяването на добавки
-
 extensions-warning-safe-mode = Всички добавки са изключени от Надеждния режим.
 extensions-warning-check-compatibility = Проверката за съвместимост на добавките е изключена. Възможно е да имате несъвместими добавки.
 extensions-warning-check-compatibility-button = Включване
@@ -294,14 +235,6 @@ extensions-warning-update-security-button = Включване
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Проверка за обновяване
-    .accesskey = П
-
-extensions-updates-view-updates =
-    .label = Последни обновявания
-    .accesskey = о
-
 addon-updates-check-for-updates = Проверка за обновяване
     .accesskey = П
 addon-updates-view-updates = Последни обновявания
@@ -309,10 +242,6 @@ addon-updates-view-updates = Последни обновявания
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Автоматично обновяване на добавките
-    .accesskey = А
 
 addon-updates-update-addons-automatically = Автоматично обновяване на добавките
     .accesskey = А
@@ -323,36 +252,12 @@ addon-updates-update-addons-automatically = Автоматично обновя�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Нулиране на всички добавки, за да бъдат автоматично обновявани
-    .accesskey = Н
-
-extensions-updates-reset-updates-to-manual =
-    .label = Нулиране на всички добавки, за да бъдат ръчно обновявани
-    .accesskey = у
-
 addon-updates-reset-updates-to-automatic = Нулиране на всички добавки, за да бъдат автоматично обновявани
     .accesskey = Н
 addon-updates-reset-updates-to-manual = Нулиране на всички добавки, за да бъдат ръчно обновявани
     .accesskey = у
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Обновяване на добавките
-extensions-updates-installed =
-    .value = Добавките са обновени.
-extensions-updates-downloaded =
-    .value = Обновяването за вашите добавки е изтеглено.
-extensions-updates-restart =
-    .label = Рестартирайте, за да завършите инсталацията сега
-extensions-updates-none-found =
-    .value = Не са открити обновявания
-extensions-updates-manual-updates-found =
-    .label = Показване на наличните обновявания
-extensions-updates-update-selected =
-    .label = Инсталиране на обновявания
-    .tooltiptext = Инсталиране на наличните обновявания от този списък
 
 addon-updates-updating = Обновяване на добавките
 addon-updates-installed = Добавките са обновени.
@@ -370,10 +275,6 @@ addon-open-about-debugging = Дебъгване на добавки
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Управление на клавишните комбинации на разширението
-    .accesskey = к
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Управление на клавишните комбинации на разширението
     .accesskey = к
@@ -382,8 +283,6 @@ shortcuts-no-addons = Нямате включени разширения.
 shortcuts-no-commands = Следните разширения нямат клавишни комбинации:
 shortcuts-input =
     .placeholder = Изберете комбинация
-
-shortcuts-browserAction = Изпълняване на разширението
 
 shortcuts-pageAction = Изпълняване на действието със страницата
 shortcuts-sidebarAction = Превключване на страничната лента
@@ -406,9 +305,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = По-малко
-
-go-back-button =
-    .tooltiptext = Назад
 
 header-back-button =
     .title = Назад
@@ -451,7 +347,6 @@ report-addon-button = Докладване
 remove-addon-button = Премахване
 disable-addon-button = Изключване
 enable-addon-button = Включване
-expand-addon-button = Повече настройки
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Настройки
@@ -460,9 +355,6 @@ preferences-addon-button =
 details-addon-button = Подробности
 release-notes-addon-button = Бележки към изданието
 permissions-addon-button = Права
-
-addons-enabled-heading = Включено
-addons-disabled-heading = Изключено
 
 always-activate-button = Винаги включено
 never-activate-button = Винаги изключено
@@ -509,23 +401,12 @@ install-update-button = Обновяване
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Разрешено в поверителни прозорци
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Разрешено в поверителни прозорци
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Когато е разрешено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
 addon-detail-private-browsing-allow = Разрешаване
 addon-detail-private-browsing-disallow = Забраняване
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Препоръчано
-    .alt = Препоръчано
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

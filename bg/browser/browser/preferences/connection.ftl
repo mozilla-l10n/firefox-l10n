@@ -35,12 +35,7 @@ connection-proxy-http = Посредник за HTTP
     .accesskey = р
 connection-proxy-http-port = Порт
     .accesskey = П
-connection-proxy-http-share =
-    .label = Използване на този мрежов посредник за всички протоколи
-    .accesskey = п
 
-connection-proxy-ssl = Посредник за SSL
-    .accesskey = о
 connection-proxy-http-sharing =
     .label = Използвайте също този мрежов посредник за FTP и HTTPS
     .accesskey = с

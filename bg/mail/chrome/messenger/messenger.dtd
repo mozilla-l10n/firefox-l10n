@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "Конзола за грешки">
 <!ENTITY errorConsoleCmd.accesskey "н">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Бяла дъска">
-<!ENTITY scratchpadCmd.accesskey "Б">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Изтегляне на писма">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Препращане на избраното съобщение като притурка">
 <!ENTITY fileButton.tooltip "Запазване като файл">
 <!ENTITY archiveButton.tooltip "Архивиране на избраните съобщения">
-<!ENTITY openConversationButton.tooltip "Показване на разговора на избраното съобщение">
 <!ENTITY openMsgConversationButton.tooltip "Показване на разговора на избраното съобщение">
 <!ENTITY nextButton.tooltip "Напред към следващото непрочетено писмо">
 <!ENTITY nextMsgButton.tooltip "Напред към следващото непрочетено писмо">

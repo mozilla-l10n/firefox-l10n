@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Излизане от цял екран
 find = Търсене
 new-tab = Нов раздел
 add-bookmark = Добавяне на отметка
-open-bookmarks-sidebar = Показване на страничната лента с отметки
 reader-view = Изглед за четене
 # Meant to match the string displayed in an empty URL bar.
 open-location = Търсете или въведете адрес

@@ -246,3 +246,5 @@ cfr-whatsnew-protections-icon-alt = Пиктограма на щит
 
 ## DOH Message
 
+## What's new: Cookies message
+

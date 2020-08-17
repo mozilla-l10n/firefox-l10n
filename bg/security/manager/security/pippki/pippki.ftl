@@ -21,6 +21,9 @@ change-password-reenter = Нова парола (отново):
 reset-password-window =
     .title = Нулиране на главната парола
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Нулиране
 reset-password-text = Ако нулирате главната парола, всичките съхранени пароли за сайтове и е-поща, данни за формуляри, лични сертификати и персонални ключове ще бъдат загубени. Сигурни ли сте, че искате да нулирате главната парола?

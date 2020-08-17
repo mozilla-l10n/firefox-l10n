@@ -70,6 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Търсите запазените си данни за вход? Настройте { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
 login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
 login-intro-instruction-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
@@ -125,6 +126,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = копира запа
 ## Master Password notification
 
 master-password-notification-message = Моля, въведете главната си парола, за да видите запазените входни данни и пароли
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Вписване
     .accesskey = в
@@ -210,3 +214,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] Документ на CSV
        *[other] Файл на CSV
     }
+
+## Login Import Dialog
+

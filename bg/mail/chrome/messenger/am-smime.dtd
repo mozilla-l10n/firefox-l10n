@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Защита">
-<!ENTITY securityTab.label "Защита">
-<!ENTITY securityHeading.label "За да изпращате и получавате подписани или шифровани писма, вие трябва да определите сертификат за цифров подпис и сертификат за шифроване.">
-<!ENTITY encryptionGroupTitle.label "Шифроване">
-<!ENTITY encryptionChoiceLabel.label "Настройка за шифроване по подразбиране при изпращане на писма:">
-<!ENTITY neverEncrypt.label "Никога (не се използва шифриране)">
-<!ENTITY neverEncrypt.accesskey "Н">
-<!ENTITY alwaysEncryptMessage.label "Задължително (не се изпраща писмо, докато всички получатели не получат сертификати)">
-<!ENTITY alwaysEncryptMessage.accesskey "З">
-<!ENTITY encryptionCert.message "При шифроване и дешифроване на писма, изпратени до вас, се използва този сертификат:">
-
 <!ENTITY e2eLearnMore.label "Научете повече">
 
 
@@ -26,15 +15,7 @@
 <!ENTITY encryption.certificate_clear.button "Изчистване">
 <!ENTITY encryption.certificate_clear.accesskey "и">
 <!ENTITY signingGroupTitle.label "Цифров подпис">
-<!ENTITY signMessage.label "Подписване на писмата (по подразбиране)">
 <!ENTITY signMessage.accesskey "П">
-<!ENTITY signingCert.message "При изпращане на писма с цифров подпис се използва този сертификат:">
-
-<!ENTITY certificates.label "Сертификати">
-<!ENTITY manageCerts2.label "Управление на сертификати">
-<!ENTITY manageCerts2.accesskey "У">
-<!ENTITY manageDevices.label "Защитни устройства">
-<!ENTITY manageDevices.accesskey "щ">
 
 
 

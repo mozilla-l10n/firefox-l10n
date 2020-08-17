@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Вид папка:">
 
 <!ENTITY folderQuotaTab.label                    "Дял">
-<!ENTITY folderQuotaRoot.label                   "Коренен дял:">
 <!ENTITY folderQuotaUsage.label                  "Употреба:">
 <!ENTITY folderQuotaStatus.label                 "Състояние:">
 

@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Избиране на всички раздели
     .accesskey = и
-toolbar-context-menu-undo-close-tab =
-    .label = Отваряне на затворен раздел
-    .accesskey = О
 
 toolbar-context-menu-manage-extension =
     .label = Управление на добавката

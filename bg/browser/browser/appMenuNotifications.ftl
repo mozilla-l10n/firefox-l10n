@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Управлявайте добавките
 appmenu-addon-post-install-incognito-checkbox =
     .label = Позволете на разширението да работи в поверителни прозорци
     .accesskey = з
-appmenu-addon-private-browsing =
-    .label = Промяна при добавките в Поверителни прозорци
-    .buttonlabel = Управление на разширения
-    .buttonaccesskey = у
-    .secondarybuttonlabel = Да, разбрах
-    .secondarybuttonaccesskey = а
-appmenu-addon-private-browsing-message = Новите разширения, които добавяте към { -brand-shorter-name } няма да работят в поверителни прозорци освен изрично не разрешите в настройките.
-appmenu-addon-private-browsing-learn-more = Научете как да управлявате настройките на разширенията
     
 appmenu-new-tab-controlled =
     .label = Новият раздел е променен
