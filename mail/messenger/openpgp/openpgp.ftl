@@ -167,6 +167,15 @@ e2e-learn-more = Mësoni më tepër
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Asnjë
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Skadon më: { $date }
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Ka skaduar më: { $date }
+openpgp-key-expand-section =
+    .tooltiptext = Më tepër të dhëna
+openpgp-key-edit-title = Ndryshoni Kyç OpenPGP
 
 ## Account settings export output
 
