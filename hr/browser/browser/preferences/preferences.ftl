@@ -528,11 +528,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Traka pretraživanja
+search-bar-header = Traka za pretragu
 search-bar-hidden =
     .label = Koristi adresnu traku za pretraživanje i navigaciju
 search-bar-shown =
-    .label = Dodaj traku pretraživanja u alatnu traku
+    .label = Dodaj traku za pretragu u alatnu traku
 search-engine-default-header = Standardna tražilica
 search-engine-default-desc-2 = Ovo je standardna tražilica u adresnoj traci i traci za pretraživanje. Možeš je promijeniti u bilo koje vrijeme.
 search-engine-default-private-desc-2 = Odaberi jednu drugu standardnu tražilicu samo za privatne prozore
