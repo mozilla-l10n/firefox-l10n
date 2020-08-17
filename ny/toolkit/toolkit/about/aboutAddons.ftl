@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-loading-label =
-    .value = Kupakira…
-
 list-empty-find-updates =
     .label = Kuona zobwera kumene
 
@@ -27,15 +24,6 @@ detail-repository-value =
     .value = { detail-repository.label }
 
 ## These are global warnings
-
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
 
 
 ## Strings connected to add-on updates

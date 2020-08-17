@@ -76,18 +76,6 @@
 
 
 
-<!ENTITY cmd.showPreferencesWin.label         "Zochita kusankha">
-
-
-
-
-
-
-
-
-
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -131,16 +119,6 @@
 
 
 
-
-
-
-
-
-
-
-<!ENTITY addon.checkingForUpdates.label       "Kuwona mauthenga obwera kumene">
-
-<!ENTITY addon.loadingReleaseNotes.label      "Kupakira…">
 
 
 
