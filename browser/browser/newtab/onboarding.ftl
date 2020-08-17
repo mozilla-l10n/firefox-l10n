@@ -104,6 +104,12 @@ onboarding-multistage-theme-tooltip-dark =
         Een donker uiterlijk gebruiken voor knoppen,
         menu’s en vensters.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Een kleurrijk uiterlijk gebruiken voor knoppen,
+        menu‘s en vensters.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
