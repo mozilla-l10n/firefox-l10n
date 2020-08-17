@@ -96,7 +96,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "Ispiši">
 <!ENTITY printButton.tooltip          "Ispiši ovu stranicu">
 
-<!ENTITY searchItem.title             "Traži">
+<!ENTITY searchItem.title             "Pretraga">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Početna stranica">
