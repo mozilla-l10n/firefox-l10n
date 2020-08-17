@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "أرشِف">
 <!ENTITY hdrArchiveButton1.tooltip "أرشِف هذه الرسالة">
-<!ENTITY hdrOpenConversationButton1.label "محادثة">
-<!ENTITY hdrOpenConversationButton1.tooltip "أظهر المحادثة التي تحتوي هذه الرسالة">
 <!ENTITY hdrSmartReplyButton1.label "ردّ ذكي">
 <!ENTITY hdrReplyButton1.label "ردّ">
 <!ENTITY hdrReplyButton2.tooltip "ردّ على مُرسِل هذه الرسالة">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "ردّ على القائمة البريدية">
 <!ENTITY hdrFollowupButton1.label "متابعة">
 <!ENTITY hdrFollowupButton1.tooltip "أرسل متابعة إلى مجموعو الأخبار">
-<!ENTITY hdrMenuForwardButton.label "مرّر ك‍">
 <!ENTITY hdrForwardButton1.label "مرّر">
 <!ENTITY hdrForwardButton1.tooltip "مرّر هذه الرسالة">
 <!ENTITY hdrJunkButton1.label "سخام">

@@ -2,19 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "اضبط حساب بريد إلكتروني موجود">
-
 <!ENTITY emailWizard.caption             "استخدم عنوان بريدك الإلكتروني الحالي">
 <!ENTITY name.label                      "اسمك:">
 <!ENTITY name.accesskey                  "س">
-<!ENTITY name.placeholder                "الاسم الكامل">
 <!ENTITY fullname.placeholder            "اسمك الكامل">
 <!ENTITY name.text                       "اسمك الذي سيظهر للآخرين">
 <!ENTITY name.error                      "من فضلك أدخِل اسمك">
 <!ENTITY email.label                     "البريد الإلكتروني:">
 <!ENTITY email.accesskey                 "د">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "عنوان البريد الإلكتروني">
 <!ENTITY email.text                      "عنوان البريد الإلكتروني">
 <!ENTITY email.error                     "العنوان غير صالح">
@@ -37,9 +32,6 @@
 <!ENTITY outgoing.label                  "المصدِّر:">
 <!ENTITY outgoingColumn.label            "الصادر">
 <!ENTITY username.label                  "اسم المستخدم:">
-<!ENTITY hostname.label                  "اسم مضيف الخادوم">
-<!ENTITY port.label                      "المنفذ">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "الخادوم:">
 <!ENTITY portRow.label                   "المنفذ:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -72,8 +64,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "أعدِ الاختبار">
 <!ENTITY half-manual-test.accesskey      "خ">
-<!ENTITY manual-edit.label               "إعداد يدوي">
-<!ENTITY manual-edit.accesskey           "و">
 <!ENTITY open-provisioner.label          "احصل على عنوان بريد إلكتروني جديد…">
 <!ENTITY open-provisioner.accesskey      "ص">
 

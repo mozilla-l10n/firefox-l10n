@@ -35,12 +35,7 @@ connection-proxy-http = وسيط HTTP
     .accesskey = س
 connection-proxy-http-port = المنفذ
     .accesskey = م
-connection-proxy-http-share =
-    .label = استعمل هذا الخادوم الوسيط لكل البروتوكولات
-    .accesskey = س
 
-connection-proxy-ssl = وسيط SSL
-    .accesskey = ي
 connection-proxy-http-sharing =
     .label = استعمل هذا الوسيط لبروتوكولات FTP وHTTPS أيضًا
     .accesskey = ك

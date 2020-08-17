@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = مصدر بيانات الطرْق:
-about-telemetry-show-current-ping-data = بيانات الطرْق الحالية
 about-telemetry-show-current-data = البيانات الحالية
 about-telemetry-show-archived-ping-data = بيانات الطرْق المحفوظة
 about-telemetry-show-subsession-data = اعرض بيانات الإرسال
@@ -62,7 +61,6 @@ about-telemetry-settings-explanation = يجمع تيليمتري { about-telemet
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = كل معلومة ترسل مدمجة مع ”<a data-l10n-name="ping-link">طَرَقَات</a>“. تنظر حاليًا إلى طَرْقَة ‏{ $name }، ‏{ $timestamp }.
-about-telemetry-ping-details-current = كل معلومة ترسل مدمجة مع ”<a data-l10n-name="ping-link">طَرَقَات</a>“. تنظر حاليًا إلى طَرْقَة الحالي.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -87,8 +85,6 @@ about-telemetry-no-search-results-all = للأسف لا نتائج في أي م�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = للأسف لا بيانات متاحة حاليا في ”{ $sectionName }“
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = الطرْق الحالي
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = البيانات الحالية
 # used in the “Ping Type” select

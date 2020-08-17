@@ -102,8 +102,6 @@ options-disable-javascript-label = عطّل جافاسكربت *
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = فعِّل التنقيح البعيد
-options-enable-remote-tooltip =
-    .title = تفعيل هذا الخيار سيسمح لأدوات المطورين بتنقيح سيرورات بعيدة مثل نظام Firefox
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = فعّل عمّال الخدمة عبر HTTP (عندما يكون صندوق الأدوات مفتوحا)

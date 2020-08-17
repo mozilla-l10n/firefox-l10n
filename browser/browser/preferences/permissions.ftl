@@ -79,11 +79,6 @@ permissions-invalid-uri-label = رجاءً أدخل اسم مستضيف صالح
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = الاستثناءات - حجب المحتوى
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = عطّلت حجب المحتوى في هذه المواقع.
-
 permissions-exceptions-etp-window =
     .title = استثناءات الحماية الموسّعة من التعقب
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتنصيب إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = الاستثناءات - التشغيل التلقائي
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = يمكنك تحديد أي مواقع يسمح لها دائمًا أو لا يسمح أبدًا بتشغيل تشغيل الوسائط التي تحتوي صوتا تلقائيا.  اكتب عنوان الموقع الذي تريد إدارته وانقر احجب، أو اسمح.
 
 ## Site Permissions - Autoplay
 

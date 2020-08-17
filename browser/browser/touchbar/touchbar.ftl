@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = غادر ملء الشاشة
 find = ابحث
 new-tab = لسان جديد
 add-bookmark = أضِف علامة
-open-bookmarks-sidebar = افتح شريط العلامات الجانبي
 reader-view = منظور القارئ
 # Meant to match the string displayed in an empty URL bar.
 open-location = ابحث أو أدخِل عنوانا

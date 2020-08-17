@@ -55,8 +55,6 @@ privacy-main-header = الخصوصية
 
 privacy-passwords-header = كلمات السر
 
-privacy-data-collection-header = جمع البيانات واستخدامها
-
 privacy-security-header = الأمان
 
 privacy-anti-virus-title = مضاد فيروسات
@@ -74,8 +72,6 @@ chat-pane-styling-header = التصميم
 choose-messenger-language-description = اختر اللغات المستخدمة لعرض القوائم والرسائل والتنبيهات من { -brand-short-name }.
 confirm-messenger-language-change-description = أعِد تشغيل { -brand-short-name } لتطبيق هذه التغييرات
 confirm-messenger-language-change-button = طبِّق وأعِد التشغيل
-
-update-pref-write-failure-title = فشلت الكتابة
 
 update-setting-write-failure-title = حدث عُطل أثناء تحديث التفضيلات
 

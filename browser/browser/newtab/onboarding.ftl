@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = اطّلع على المزيد
-onboarding-button-label-try-now = جرّبه الآن
 onboarding-button-label-get-started = فلنبدأ
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
 
-onboarding-join-form-header = انضم إلى { -brand-product-name }
 onboarding-welcome-modal-get-body = وصلك الآن المتصفّح.<br/>بقيت أمامك روائع { -brand-product-name } كلّها.
 onboarding-welcome-modal-supercharge-body = عزّز حمايات الخصوصية.
 onboarding-welcome-modal-privacy-body = صار المتصفّح عندك. الآن لنزيد من حمايات الخصوصيّة.
@@ -46,6 +44,13 @@ onboarding-start-browsing-button-label = ابدأ التصفح
 onboarding-cards-dismiss =
     .title = ألغِ
     .aria-label = ألغِ
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -74,14 +79,7 @@ onboarding-sync-form-sub-header = لمواصلة استخدام { -sync-brand-na
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = منتجات مفيدة
-
 onboarding-benefit-products-text = أنجِز أمورك مستخدما طقما من الأدوات يحترم خصوصيتك على مختلف الأجهزة لديك.
-
-onboarding-benefit-knowledge-title = المعرفة العملية
-onboarding-benefit-knowledge-text = اعرف كل ما يلزمك لتكون حذِقًا وآمنًا على شبكة الإنترنت.
-
-onboarding-benefit-privacy-title = خصوصية حقة
 
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -108,22 +106,6 @@ onboarding-benefit-lockwise-text = أدِر كلمات السر لديك الم�
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = التصفح الخاص
-onboarding-private-browsing-text = تصفَّح لوحدك. يحجب التصفح الخاص مع ميزة حجب المحتوى- يحجب المتعقّبات الشبكية التي تتبعك وأنت تجول الوِب.
-
-onboarding-screenshots-title = لقطات الشاشة
-onboarding-screenshots-text = التقط و احفظ لقطات الشاشة، دون مغادرة { -brand-short-name }. التقط منطقة من الصفحة أو الصفحة كلها بينما تتصفح. ثم احفظها على الوب لسهولة الوصول إليها و مشاركتها.
-
-onboarding-addons-title = الإضافات
-onboarding-addons-text = أضِف مزايا أكثر بكثير تجعل { -brand-short-name } يعمل بجِدّ أكثر لأجلك. قارن الأسعار أو راجع نشرة الطقس أو عبّر عن نفسك باستخدام سمة مخصوصة.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = تصفّح بشكل أسرع، أو ربما أكثر ذكاء، أو أكثر أمنًا وذلك باستخدام الامتدادات مثل Ghostery، والذي يتيح لك حجب الإعلانات المزعجة.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = زامِن
-onboarding-fxa-text = سجّل حساب { -fxaccount-brand-name } وزامن علاماتك وكلمات السر وافتح الألسنة في كل مكان تستخدم { -brand-short-name } فيه.
-
 onboarding-tracking-protection-title2 = الحماية من التعقّب
 onboarding-tracking-protection-text2 = يساعدك { -brand-short-name } بمنع المواقع من تعقّبك في الوِب، ما يصعّب الأمر على الإعلانات بمعرفة ما تفعل وأين تذهب.
 onboarding-tracking-protection-button2 = كيف تعمل
@@ -134,7 +116,6 @@ onboarding-data-sync-text2 = زامِن علاماتك وكلمات السر و�
 onboarding-data-sync-button2 = لِج إلى { -sync-brand-short-name }
 
 onboarding-firefox-monitor-title = اعلم متى يحدث تسرّب بيانات
-onboarding-firefox-monitor-text = يراقب { -monitor-brand-name } وينبّهك لو ظهر بريدك الإلكتروني في أيّ تسرّب بيانات جديد.
 onboarding-firefox-monitor-text2 = يراقب { -monitor-brand-name } وينبّهك لو ظهر بريدك الإلكتروني في أيّ تسريبٍ جديد للبيانات.
 onboarding-firefox-monitor-button = سجّل لتصلك التنبيهات
 
@@ -155,19 +136,12 @@ onboarding-mobile-phone-button = نزّل متصفّح المحمول
 onboarding-send-tabs-title = أرسِل الألسنة إلى ذاتك الأخرى مباشرةً
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = تُشارك خاصية إرسال الألسنة الصفحات بين أجزتك بسهولة تامة دون نسخ شيء ولا مغادرة المتصفّح.
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
 onboarding-send-tabs-text2 = شارِك الصفحات بين أجهزتك بسهولة تامة دون نسخ الروابط يدويًا أو ترك المتصفّح.
 onboarding-send-tabs-button = ابدأ استعمال ميزة «إرسال الألسنة»
 
 onboarding-pocket-anywhere-title = اقرأ واستمع إلى ما ترغب أينما كنت
 onboarding-pocket-anywhere-text2 = احفظ ما تحبّ من محتوى وتصفّحه دون اتصال عبر تطبيق { -pocket-brand-name }. بهذا تقرأه وتسمعه وتطالعه متى ما أردت وحينما تشاء.
 onboarding-pocket-anywhere-button = جرّب { -pocket-brand-name }
-
-onboarding-lockwise-passwords-title = خُذ معك كلمات السر أينما ذهبت
-onboarding-lockwise-passwords-text2 = حافظ على كلمات السر التي حفظتها آمنة ولِج إلى حساباتك عبر { -lockwise-brand-name } ودون عناء.
-onboarding-lockwise-passwords-button2 = نزّل التطبيق
 
 onboarding-lockwise-strong-passwords-title = أنشِئ كلمات سر قوية وخزّنها
 onboarding-lockwise-strong-passwords-text = يصنع { -lockwise-brand-name } كلمات سرّ قوية مباشرةً ويحفظها كلها في مكان واحد.

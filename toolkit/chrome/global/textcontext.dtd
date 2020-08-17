@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "قصّ">
-<!ENTITY cutCmd.accesskey "ق">
-<!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "ألصق">
-<!ENTITY pasteCmd.accesskey "ل">
-<!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.accesskey "ر">
-<!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.accesskey "ك">
-<!ENTITY deleteCmd.label "احذف">
-<!ENTITY deleteCmd.accesskey "ذ">
-
 <!ENTITY spellAddToDictionary.label "أضِف إلى القاموس">
 <!ENTITY spellAddToDictionary.accesskey "ف">
 <!ENTITY spellUndoAddToDictionary.label "تراجع عن الإضافة إلى القاموس">

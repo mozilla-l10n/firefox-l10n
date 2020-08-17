@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = هيا جرّب: ثبّت اللسان
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = لماذا أرى هذا
+
 cfr-doorhanger-extension-cancel-button = ليس الآن
     .accesskey = ل
+
 cfr-doorhanger-extension-ok-button = أضِف الآن
     .accesskey = ض
 cfr-doorhanger-pintab-ok-button = ثبّت هذا اللسان
     .accesskey = ث
+
 cfr-doorhanger-extension-manage-settings-button = أدِر إعدادات التوصيات
     .accesskey = د
+
 cfr-doorhanger-extension-never-show-recommendation = لا تعرض لي هذه التوصية
     .accesskey = ت
+
 cfr-doorhanger-extension-learn-more-link = اطّلع على المزيد
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = من { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصية
 cfr-doorhanger-extension-notification2 = توصية
     .tooltiptext = نُوصيك بامتداد
     .a11y-announcement = توصية بوجود امتداد
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = توصية
@@ -67,6 +75,7 @@ cfr-doorhanger-extension-total-users =
         [many] { $total } مستخدما
        *[other] { $total } مستخدم
     }
+
 cfr-doorhanger-pintab-description = انتقل إلى أكثر المواقع التي تزورها بسرعة. بهذا تبقى المواقع مفتوحة في ألسنة (حتى إن أعدت تشغيل المتصفح).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -74,8 +83,10 @@ cfr-doorhanger-pintab-description = انتقل إلى أكثر المواقع ا
 cfr-doorhanger-pintab-step1 = <b>انقر باليمين</b> على أي لسان تريد تثبيته.
 cfr-doorhanger-pintab-step2 = اختر <b>ثبّت اللسان</b> من القائمة.
 cfr-doorhanger-pintab-step3 = إن حصل شيء في الموقع وطرأ تحديث، سترى نقطة زرقاء في اللسان الذي ثبّته.
+
 cfr-doorhanger-pintab-animation-pause = ألبِث
 cfr-doorhanger-pintab-animation-resume = استأنف
+
 
 ## Firefox Accounts Message
 
@@ -97,20 +108,26 @@ cfr-protections-panel-link-text = اطّلع على المزيد
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ميزة جديدة:
+
 cfr-whatsnew-button =
     .label = ما الجديد
     .tooltiptext = ما الجديد
+
 cfr-whatsnew-panel-header = ما الجديد
+
 cfr-whatsnew-release-notes-link-text = اقرأ ملاحظات الإصدار
+
 cfr-whatsnew-fx70-title = الآن، يكافح { -brand-short-name } أكثر فأكثر لحماية خصوصيتك
 cfr-whatsnew-fx70-body =
     يحسّن آخر تحديث ميزة الحماية من التعقّب ويبسّط
     عملية اختيار كلمات السر للمواقع كافة إلى حد غير مسبوق.
+
 cfr-whatsnew-tracking-protect-title = احمِ نفسك من خطر المتعقّبات
 cfr-whatsnew-tracking-protect-body =
     يحجب { -brand-short-name } عددًا من المتعقّبات الاجتماعية والمتعقّبات بين المواقع،
     متعقّبات هدفها معرفة ما تفعله في المواقع.
 cfr-whatsnew-tracking-protect-link-text = اعرض تقرير الحماية
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -125,9 +142,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = منذ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = اعرض التقرير
+
 cfr-whatsnew-lockwise-backup-title = انسخ كلمات السر احتياطيًا
 cfr-whatsnew-lockwise-backup-body = بات بإمكانك الآن توليد كلمات سر آمنة تدخلها أينما تريد متى ما ولجت.
 cfr-whatsnew-lockwise-backup-link-text = فعّل النسخ الاحتياطي
+
 cfr-whatsnew-lockwise-take-title = خُذ معك كلمات السر أينما ذهبت
 cfr-whatsnew-lockwise-take-body =
     يتيح لك تطبيق { -lockwise-brand-short-name } للمحمول الوصول بأمان إلى
@@ -167,6 +186,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] مسجّلات البصمات المحجوبة
     }
 cfr-whatsnew-fingerprinter-counter-body = يحجب { -brand-shorter-name } العديد من مسجّلات البصمات التي تجمع معلومات جهازك وأفعالك لتفتح عنك ملفًا شخصيًا تستعمله للإعلانات.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = مسجّلات البصمات
 cfr-whatsnew-fingerprinter-counter-body-alt = يمكن أن يحجب { -brand-shorter-name } العديد من مسجّلات البصمات التي تجمع معلومات جهازك وأفعالك لتفتح عنك ملفًا شخصيًا تستعمله للإعلانات.
@@ -231,6 +251,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = اعرض الكل
     .accesskey = ع
+
 cfr-doorhanger-milestone-close-button = أغلِق
     .accesskey = غ
 

@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "نوع المجلد:">
 
 <!ENTITY folderQuotaTab.label                    "الحصّة">
-<!ENTITY folderQuotaRoot.label                   "جذر الحصّة:">
 <!ENTITY folderQuotaUsage.label                  "الاستخدام:">
 <!ENTITY folderQuotaStatus.label                 "الحالة:">
 

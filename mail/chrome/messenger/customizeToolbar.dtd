@@ -12,8 +12,5 @@
 <!ENTITY iconsBesideText.label    "الأيقونات بجانب النص">
 <!ENTITY useSmallIcons.label      "استخدم أيقونات صغيرة">
 <!ENTITY restoreDefaultSet.label  "استعد المجموعة المبدئيّة">
-<!ENTITY addNewToolbar.label      "أضِف شريط أدوات جديد">
-<!ENTITY showTitlebar.label       "أظهِر شريط العنوان">
-<!ENTITY extraDragSpace.label     "أضِف مساحة للسحب">
 <!ENTITY saveChanges.label        "تمّ">
 <!ENTITY undoChanges.label        "تراجع عن التّغييرات">

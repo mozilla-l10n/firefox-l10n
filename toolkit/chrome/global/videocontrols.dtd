@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "ڤديو معترِض">
 
-<!ENTITY stats.media "الوسيطة">
-<!ENTITY stats.size "الحجم">
-<!ENTITY stats.activity "النشاط">
-<!ENTITY stats.activityPaused "مُلبثة">
-<!ENTITY stats.activityPlaying "مُشغَّلة">
-<!ENTITY stats.activityEnded "منتهية">
-<!ENTITY stats.activitySeeking "(تبحث)">
-<!ENTITY stats.volume "الصوت">
-<!ENTITY stats.framesParsed "اللقطات المحللة">
-<!ENTITY stats.framesDecoded "اللقطات التي فُكّ ترميزها">
-<!ENTITY stats.framesPresented "اللقطات المعروضة">
-<!ENTITY stats.framesPainted "اللقطات المرسومة">
-
 <!ENTITY error.aborted "توقف تحميل الفديو.">
 <!ENTITY error.network "توقف تشغيل الفديو بسبب عُطل شبكي.">
 <!ENTITY error.decode "تعذّر تشغيل الفديو لعطب في الملف.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "توقف تشغيل الفديو بسبب عُطل غير معروف.">
 
 <!ENTITY status.pictureInPicture "يعمل هذا الڤديو في وضع الڤديوهات المعترِضة.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "انقضت #1 من أصل #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

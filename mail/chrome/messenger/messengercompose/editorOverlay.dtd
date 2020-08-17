@@ -6,24 +6,13 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "ألصق بلا تنسيق">
 <!ENTITY pasteNoFormatting.accesskey "ب">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "ألصق ك‍">
-<!ENTITY pasteAs.accesskey "ل">
 <!ENTITY pasteAsQuotationCmd.label "ألصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "ابحث…">
-<!ENTITY findReplaceCmd.label "ابحث و استبدل…">
-<!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
-<!ENTITY enableInlineSpellChecker.accesskey "د">
-<!ENTITY checkSpellingCmd2.label "دقِّق الإملاء…">
-<!ENTITY checkSpellingCmd2.accesskey "ء">
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "أدرج">
@@ -189,9 +178,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "متن النص">
 <!ENTITY bodyTextCmd.accesskey "ن">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "خصائص متقدمة">
-<!ENTITY advancedPropertiesCmd.accesskey "د">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "حاذِ">
@@ -209,10 +195,6 @@
 <!ENTITY alignJustify.accesskey "س">
 <!ENTITY alignJustify.tooltip "حاذِ مساوي">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "طبقة">
-<!ENTITY layerSendToBack.tooltip "أرسل للخلف">
-<!ENTITY layerBringToFront.tooltip "اجلب للمقدمة">
 
 <!ENTITY increaseIndent.label "زِد الإزاحة">
 <!ENTITY increaseIndent.accesskey "ز">
@@ -288,18 +270,6 @@
 <!ENTITY tableProperties.accesskey "خ">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "شريط القوائم">
-<!ENTITY formatToolbar.tooltip "شريط أدوات التنسيق">
-<!ENTITY cutToolbarCmd.tooltip "قصّ">
-<!ENTITY copyToolbarCmd.tooltip "انسخ">
-<!ENTITY pasteToolbarCmd.tooltip "ألصق">
-<!ENTITY printToolbarCmd.label "اطبع">
-<!ENTITY printToolbarCmd.tooltip "اطبع هذه الصفحة">
-<!ENTITY findToolbarCmd.label "ابحث">
-<!ENTITY findToolbarCmd.tooltip "ابحث عن نص في الصفحة">
-<!ENTITY spellToolbarCmd.label "دقق الإملاء">
-<!ENTITY spellToolbarCmd.tooltip "دقق إملاء التحديد أو الصفحة كاملة">
-
 <!ENTITY imageToolbarCmd.label "صورة">
 <!ENTITY imageToolbarCmd.tooltip "أدرج صورة جديدة أو حرر خصائص الصورة المختارة">
 <!ENTITY hruleToolbarCmd.label "خط أفقي">
@@ -312,7 +282,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "أدرج مربطا مسمًى جديدا أو حرر خصائص المربط المختار">
 <!ENTITY TextColorButton.tooltip "اختر لون النص">
 <!ENTITY BackgroundColorButton.tooltip "اختر لون الخلفية">
-<!ENTITY HighlightColorButton.tooltip "اختر لون إبراز النص">
 <!-- Editor toolbar -->
 
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "حدد حجم الخط">
@@ -333,12 +302,6 @@
 <!ENTITY alignJustifyButton.tooltip "حاذِ النص مراعيًا الهامشين الأيمن والأيسر">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label         "اختر">
-<!ENTITY structSelect.accesskey     "خ">
-<!ENTITY structRemoveTag.label      "أزل الوسم">
-<!ENTITY structRemoveTag.accesskey  "ز">
-<!ENTITY structChangeTag.label      "غيّر الوسم">
-<!ENTITY structChangeTag.accesskey  "غ">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "أدرج">
