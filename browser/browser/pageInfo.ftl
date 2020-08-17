@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = შენახვა როგორც…
     .accesskey = ე
-media-preview =
-    .value = გამოსახულების შეთვალიერება:
 
 perm-tab =
     .label = ნებართვები
@@ -132,7 +130,6 @@ security-site-data-cookies-only = დიახ, ფუნთუშებს
 security-site-data-no = არა
 
 image-size-unknown = უცნობი
-not-set-verified-by = მითითებული არ არის
 page-info-not-specified =
     .value = მითითებული არ არის
 not-set-alternative-text = მითითებული არ არის
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = მოძველებული სტანდარტის
 general-strict-mode =
     .value = სტანდარტების შესაბამისი
-security-no-owner = ვებსაიტი მფლობელის შესახებ ინფორმაციას არ იძლევა.
 page-info-security-no-owner =
     .value = ვებსაიტი მფლობელის შესახებ ინფორმაციას არ იძლევა.
 media-select-folder = აირჩიეთ საქაღალდე სურათის შესანახად

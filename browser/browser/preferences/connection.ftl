@@ -35,12 +35,7 @@ connection-proxy-http = HTTP პროქსი
     .accesskey = H
 connection-proxy-http-port = პორტი
     .accesskey = პ
-connection-proxy-http-share =
-    .label = ყველა ოქმისთვის ამ პროქსი-სერვერის გამოყენება
-    .accesskey = ყ
 
-connection-proxy-ssl = SSL პროქსი
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = აგრეთვე, ამ პროქსის გამოყენება FTP-სა და HTTPS-ისთვის
     .accesskey = გ

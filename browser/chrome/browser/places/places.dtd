@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ფაილის არჩევა…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ჩ">
 
-<!ENTITY cmd.deleteDomainData.label     "საიტის დავიწყება">
-<!ENTITY cmd.deleteDomainData.accesskey "დ">
-
-<!ENTITY cmd.open.label                  "გახსნა">
-<!ENTITY cmd.open.accesskey              "გ">
-<!ENTITY cmd.open_window.label           "გახსნა ახალ ფანჯარაში">
-<!ENTITY cmd.open_window.accesskey       "ფ">
-<!ENTITY cmd.open_private_window.label     "გახსნა ახალ პირად ფანჯარაში">
-<!ENTITY cmd.open_private_window.accesskey "პ">
-<!ENTITY cmd.open_tab.label              "გახსნა ახალ ჩანართში">
-<!ENTITY cmd.open_tab.accesskey          "ლ">
-<!ENTITY cmd.open_all_in_tabs.label      "ყველას გახსნა ჩანართებში">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "ყ">
-
-<!ENTITY cmd.properties.label      "თვისებები">
-<!ENTITY cmd.properties.accesskey  "თ">
-
-<!ENTITY cmd.sortby_name.label              "სახელით დალაგება">
-<!ENTITY cmd.sortby_name.accesskey          "დ">
-<!ENTITY cmd.context_sortby_name.accesskey  "ხ">
-
-<!ENTITY cmd.new_bookmark.label            "ახალი სანიშნი…">
-<!ENTITY cmd.new_bookmark.accesskey        "ს">
-<!ENTITY cmd.new_folder.label              "ახალი საქაღალდე…">
-<!ENTITY cmd.new_folder.accesskey          "ა">
-<!ENTITY cmd.context_new_folder.accesskey  "ქ">
-<!ENTITY cmd.new_separator.label           "ახალი გამყოფი">
-<!ENTITY cmd.new_separator.accesskey       "გ">
-
 <!ENTITY col.name.label          "სახელი">
 <!ENTITY col.tags.label          "ჭდეები">
 <!ENTITY col.url.label           "მისამართი">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "ნახვები">
 <!ENTITY col.dateadded.label     "დამატების თარიღი">
 <!ENTITY col.lastmodified.label  "ბოლო ცვლილება">
-
-<!ENTITY historySearch.placeholder  "ძიება ისტორიაში">
-<!ENTITY bookmarksSearch.placeholder  "სანიშნების ძიება">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტი მისი პარამეტრების სანახავად და ჩასასწორებლად">
 
-<!ENTITY view.label               "ხედი">
-<!ENTITY view.accesskey           "ხ">
-<!ENTITY byDate.label             "თარიღი">
-<!ENTITY byDate.accesskey         "თ">
-<!ENTITY bySite.label             "საიტი">
-<!ENTITY bySite.accesskey         "ს">
-<!ENTITY byMostVisited.label      "ხშირად მონახულებული">
-<!ENTITY byMostVisited.accesskey  "მ">
-<!ENTITY byLastVisited.label      "ბოლოს მონახულებული">
-<!ENTITY byLastVisited.accesskey  "ბ">
-<!ENTITY byDayAndSite.label       "თარიღი და საიტი">
-<!ENTITY byDayAndSite.accesskey   "დ">

@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "ჩასმა გაფორმების გარეშე">
 <!ENTITY pasteNoFormatting.accesskey "გ">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "ჩასმა როგორც">
-<!ENTITY pasteAs.accesskey "რ">
 <!ENTITY pasteAsQuotationCmd.label "ჩასმა ციტატის სახით">
 <!ENTITY pasteAsQuotationCmd.accesskey "ც">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "ძიება…">
-<!ENTITY findReplaceCmd.label "პოვნა და ჩანაცვლება…">
-<!ENTITY enableInlineSpellChecker.label "მართლწერის შემოწმება ტექსტის შეტანისას">
-<!ENTITY enableInlineSpellChecker.accesskey "მ">
-<!ENTITY checkSpellingCmd2.label "მართლწერის შემოწმება">
-<!ENTITY checkSpellingCmd2.accesskey "შ">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ჩამატება">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "ძირითადი ტექსტი">
 <!ENTITY bodyTextCmd.accesskey "ძ">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "გაფართოებული პარამეტრები">
-<!ENTITY advancedPropertiesCmd.accesskey "გ">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "განთავსება">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "გასწორება">
 <!ENTITY alignJustify.accesskey "წ">
 <!ENTITY alignJustify.tooltip "განთავსება გასწორებით">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "ფენა">
-<!ENTITY layerSendToBack.tooltip "წინ გადმოტანა">
-<!ENTITY layerBringToFront.tooltip "უკან გადატანა">
 
 <!ENTITY increaseIndent.label "აბზაცის გაზრდა">
 <!ENTITY increaseIndent.accesskey "ზ">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "ცხრილის პარამეტრები…">
 <!ENTITY tableProperties.accesskey "ი">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "მენიუს პანელი">
-<!ENTITY formatToolbar.tooltip "გაფორმების ხელსაწყოთა ზოლი">
-<!ENTITY cutToolbarCmd.tooltip "ამოჭრა">
-<!ENTITY copyToolbarCmd.tooltip "ასლი">
-<!ENTITY pasteToolbarCmd.tooltip "ჩასმა">
-<!ENTITY printToolbarCmd.label "ბეჭდვა">
-<!ENTITY printToolbarCmd.tooltip "ამ გვერდის ბეჭდვა">
-<!ENTITY findToolbarCmd.label "ძიება">
-<!ENTITY findToolbarCmd.tooltip "ძიება ამ გვერდზე">
-<!ENTITY spellToolbarCmd.label "მართლწერა">
-<!ENTITY spellToolbarCmd.tooltip "მონიშნული ტექსტის ან გვერდის მართლწერის შემოწმება">
-
 <!ENTITY imageToolbarCmd.label "გამოსახულება">
 <!ENTITY imageToolbarCmd.tooltip "ახალი სურათის ჩამატება ან მონიშნული გამოსახულების ჩასწორება">
 <!ENTITY hruleToolbarCmd.label "თ.ხაზი">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "ახალი ღუზის ჩამატება ან მონიშნულის პარამეტრების ჩასწორება">
 <!ENTITY TextColorButton.tooltip "ტექსტის ფერის არჩევა">
 <!ENTITY BackgroundColorButton.tooltip "ფონის ფერის არჩევა">
-<!ENTITY throbber.tooltip2 "&brandShortName; – საწყის გვერდზე გადასვლა">
-<!ENTITY HighlightColorButton.tooltip "მონიშნული ტექსტის ფერის შერჩევა">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "შრიფტის ზომის დაყენება">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "ტექსტის სწორება ცენტრზე">
 <!ENTITY alignRightButton.tooltip "ტექსტის სწორება მარჯვნივ">
 <!ENTITY alignJustifyButton.tooltip "ტექსტის სწორება შევსებით">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "მონიშვნა">
-<!ENTITY structSelect.accesskey     "მ">
-<!ENTITY structRemoveTag.label      "ჭდის მოცილება">
-<!ENTITY structRemoveTag.accesskey  "ც">
-<!ENTITY structChangeTag.label      "ჭდის შეცვლა">
-<!ENTITY structChangeTag.accesskey  "შ">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "ჩასმა">

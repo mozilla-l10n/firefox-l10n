@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = გამოსვლა სრული ეკრა
 find = ძიება
 new-tab = ახალი ჩანართი
 add-bookmark = სანიშნის დამატება
-open-bookmarks-sidebar = სანიშნების გვერდითი ზოლი
 reader-view = კითხვის რეჟიმი
 # Meant to match the string displayed in an empty URL bar.
 open-location = მოძებნეთ ან შეიყვანეთ მისამართი

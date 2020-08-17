@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "ამოჭრა">
-<!ENTITY cutCmd.accesskey "ა">
-<!ENTITY copyCmd.label "ასლი">
-<!ENTITY copyCmd.accesskey "ლ">
-<!ENTITY pasteCmd.label "ჩასმა">
-<!ENTITY pasteCmd.accesskey "ჩ">
-<!ENTITY undoCmd.label "დაბრუნება">
-<!ENTITY undoCmd.accesskey "დ">
-<!ENTITY selectAllCmd.label "ყველაფრის მონიშვნა">
-<!ENTITY selectAllCmd.accesskey "ყ">
-<!ENTITY deleteCmd.label "წაშლა">
-<!ENTITY deleteCmd.accesskey "წ">
-
 <!ENTITY spellAddToDictionary.label "ლექსიკონში დამატება">
 <!ENTITY spellAddToDictionary.accesskey "ლ">
 <!ENTITY spellUndoAddToDictionary.label "ლექსიკონში დამატების გაუქმება">

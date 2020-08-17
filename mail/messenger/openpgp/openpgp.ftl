@@ -6,11 +6,13 @@ openpgp-cancel-key =
     .label = გაუქმება
     .tooltiptext = გასაღების შედგენის გაუქმება
 openpgp-key-gen-key-type-label = გასაღების სახეობა
+
 openpgp-key-man-title =
     .title = OpenPGP-გასაღების მმართველი
 openpgp-key-man-generate =
     .label = გასაღებების ახალი წყვილი
     .accesskey = ღ
+
 openpgp-key-man-file-menu =
     .label = ფაილი
     .accesskey = ფ
@@ -26,6 +28,7 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = გასაღებების სერვერი
     .accesskey = ღ
+
 openpgp-key-man-close =
     .label = დახურვა
 openpgp-key-man-user-id-label =
@@ -33,6 +36,7 @@ openpgp-key-man-user-id-label =
 openpgp-key-man-select-all =
     .label = ყველა გასაღების შერჩევა
     .accesskey = ყ
+
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = დახურვა
 openpgp-acceptance-label =
@@ -57,8 +61,10 @@ e2e-learn-more = ვრცლად
 
 key-do-you-accept = გსურთ დაუშვათ ეს გასაღები, ციფრული ხელმოწერებისა და დაშიფრული წერილების დასამოწმებლად?
 key-accept-warning = თავი დაიცავით თაღლითური გასაღების დაშვებისგან. გამოიყენეთ სხვა ელფოსტისგან განსხვავებული დამაკავშირებელი არხები, შესაბამისი გასაღების ანაბეჭდის დასამოწმებლად.
+
 import-info-details = მონაცემების ნახვა და დაშვების მართვა
 
 ## Account settings export output
 
 key-error-not-accepted-as-personal = თქვენ არ დაგიდასტურებიათ, რომ გასაღები ID ნომრით „{ $keySpec }“, თქვენი პირადი გასაღებია.
+

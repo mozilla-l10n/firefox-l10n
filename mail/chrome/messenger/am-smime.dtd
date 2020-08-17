@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "უსაფრთხოება">
-<!ENTITY securityTab.label "უსაფრთხოება">
-<!ENTITY securityHeading.label "ხელმოწერილი ან დაშიფრული წერილების გასაგზავნად და მისაღებად უნდა მიეთითოს ორივე, ციფრული ხელმოწერისა და დაშიფვრის სერტიფიკატი.">
-<!ENTITY encryptionGroupTitle.label "დაშიფვრა">
-<!ENTITY encryptionChoiceLabel.label "დაშიფვრის ძირითადი პარამეტრები წერილების გაგზავნისას:">
-<!ENTITY neverEncrypt.label "არასოდეს (დაუშიფრავად)">
-<!ENTITY neverEncrypt.accesskey "რ">
-<!ENTITY alwaysEncryptMessage.label "ყოველთვის (არ გაიგზავნება თუ ყველა მიმღებს არ გააჩნია სერტიფიკატი)">
-<!ENTITY alwaysEncryptMessage.accesskey "ყ">
-<!ENTITY encryptionCert.message "ამ სერტთიფიკატის გამოყენება გამოგზავნილი წერილების დასაშიფრად და გასაშიფრად:">
-
 <!ENTITY e2eTitle.label "გამჭოლი დაშიფვრა">
-<!ENTITY e2eIntro.description "დაშიფრული ან ციფრულად ხელმოწერილი წერილის გასაგზავნად, საჭიროა გამართოთ დაშიფვრის საშუალებები, ან OpenPGP ან S/MIME.">
 <!ENTITY e2eLearnMore.label "ვრცლად">
 
 <!ENTITY e2eEnc.description "გამჭოლი დაშიფვრის გარეშე, წერილის შიგთავსი მარტივად გამჟღავნდება თქვენი ელფოსტის მომწოდებლისთვის ან საერთო მეთვალყურეებისთვის.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "გასუფთავება">
 <!ENTITY encryption.certificate_clear.accesskey "უ">
 <!ENTITY signingGroupTitle.label "ციფრული ხელმოწერა">
-<!ENTITY signMessage.label "ციფრული ხელმოწერილი წერილები (ნაგულისხმები)">
 <!ENTITY signMessage2.label "ჩემი ციფრული ხელმოწერის დამატება ნაგულისხმევად">
 <!ENTITY signMessage.accesskey "დ">
-<!ENTITY signingCert.message "ამ სერტიფიკატის გასაგზავნი წერილების ხელმოსაწერად გამოყენება:">
-
-<!ENTITY certificates.label "სერტიფიკატები">
-<!ENTITY manageCerts2.label "სერტიფიკატების მართვა">
-<!ENTITY manageCerts2.accesskey "მ">
-<!ENTITY manageDevices.label "უსაფრთხოების მოწყობილობები">
-<!ENTITY manageDevices.accesskey "უ">
 
 <!ENTITY signingCert2.message "პირადი სერტიფიკატი ციფრული ხელმოწერისთვის:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "უპირატესად OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGP გასაღებების მართვა">
-<!ENTITY manageKeys.accesskey "გ">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "სერტიფიკატის არჩევა">

@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "არსებული ელფოსტის ანგარიშის გამართვა">
-
 <!ENTITY emailWizard.title               "გამართეთ თქვენი არსებული ელფოსტის მისამართი">
 <!ENTITY emailWizard.caption             "გამოიყენეთ თქვენი არსებული ელფოსტის მისამართი">
 <!ENTITY name.label                      "თქვენი სახელი:">
 <!ENTITY name.accesskey                  "ს">
-<!ENTITY name.placeholder                "სახელი გვარი">
 <!ENTITY fullname.placeholder            "თქვენი სრული სახელი">
 <!ENTITY name.text                       "სახელი, რომლებსაც სხვები დაინახავენ">
 <!ENTITY name.error                      "გთხოვთ მიუთითოთ თქვენი სახელი">
 <!ENTITY email.label                     "ელფოსტის მისამართი:">
 <!ENTITY email.accesskey                 "ე">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "სახელი@example.com">
 <!ENTITY email3.placeholder              "თქვენი ელფოსტის მისამართი">
 <!ENTITY email.text                      "თქვენი მიმდინარე ელფოსტის მისამართი">
 <!ENTITY email.error                     "ელფოსტის არასწორი მისამართი">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "გამავალი:">
 <!ENTITY outgoingColumn.label            "გაგზავნილი">
 <!ENTITY username.label                  "სახელი:">
-<!ENTITY hostname.label                  "სერვერის ჰოსტი">
-<!ENTITY port.label                      "პორტი">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "სერვერი:">
 <!ENTITY portRow.label                   "პორტი:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "ხელახლა შემოწმება">
 <!ENTITY half-manual-test.accesskey      "წ">
-<!ENTITY manual-edit.label               "ხელით გამართვა">
-<!ENTITY manual-edit.accesskey           "ხ">
 <!ENTITY manual-config.label             "ხელით გამართვა…">
 <!ENTITY manual-config.accesskey         "ხ">
 <!ENTITY open-provisioner.label          "ელფოსტის ახალი მისამართის მიღება…">

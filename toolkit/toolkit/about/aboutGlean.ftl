@@ -8,6 +8,7 @@
 about-glean-page-title = Glean – შესახებ
 about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> მონაცემთა აღმრიცხველი ბიბლიოთეკაა, რომელიც Mozilla-ს პროდუქტებში გამოიყენება. ეს გვერდი შემმუშავებლებისა და შემმოწმებლებისთვისაა, რომელთაც ესაჭიროებათ <a data-l10n-name="fog-debug-doc-link">გამართვისა და აღრიცხვის მდგომარეობის განსაზღვრა, Glean SDK-ში</a>.
 about-glean-warning = არასწორმა გამოყენებამ, { -brand-short-name } შესაძლოა უეცრად გათიშოს.
+
 tag-pings-label = მონიშვნა ყველა გაგზავნილი ნაკრების ამ ჭდით
 log-pings-label = აღირიცხოს ნაკრების დატვირთვა, გაგზავნამდე?
 send-pings-label = სახელობითი ნაკრების გაგზავნა

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "გადმოიტანეთ პარამეტრები, სანიშნები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
 <!ENTITY importFromUnix.label           "გადმოიტანეთ პარამეტრები, სანიშნები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
-<!ENTITY importFromBookmarks.label      "სანიშნების გადმოტანა:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

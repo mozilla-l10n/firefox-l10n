@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "ჩასწორება">
 <!ENTITY editMenu.accesskey        "ჩ">
 <!ENTITY undoCmd.label            "დაბრუნება">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "დ">
 <!ENTITY redoCmd.label            "გამეორება">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "ო">
-<!ENTITY cutCmd.label            "ამოჭრა">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "ჭ">
-<!ENTITY copyCmd.label            "ასლი">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "ლ">
-<!ENTITY pasteCmd.label            "ჩასმა">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "ჩ">
 <!ENTITY deleteCmd.label          "წაშლა">
 <!ENTITY deleteCmd.accesskey        "წ">
-<!ENTITY selectAllCmd.label          "ყველას მონიშვნა">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "ყ">
 <!ENTITY preferencesCmd2.label "პარამეტრები">
 <!ENTITY preferencesCmd2.accesskey "პ">
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">

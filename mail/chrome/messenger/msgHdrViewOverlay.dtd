@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "არქივი">
 <!ENTITY hdrArchiveButton1.tooltip "ამ წერილის დაარქივება">
-<!ENTITY hdrOpenConversationButton1.label "საუბარი">
-<!ENTITY hdrOpenConversationButton1.tooltip "ამ შეტყობინების სრული საუბრის ჩვენება">
 <!ENTITY hdrSmartReplyButton1.label "სხარტი პასუხი">
 <!ENTITY hdrReplyButton1.label "პასუხი">
 <!ENTITY hdrReplyButton2.tooltip "პასუხი ამ წერილის გამომგზავნს">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "პასუხი დაგზავნის სიაზე">
 <!ENTITY hdrFollowupButton1.label "ადევნება">
 <!ENTITY hdrFollowupButton1.tooltip "გამოხმაურება სიახლეთა ამ ჯგუფს">
-<!ENTITY hdrMenuForwardButton.label "გადაგზავნა როგორც">
 <!ENTITY hdrForwardButton1.label "გადაგზავნა">
 <!ENTITY hdrForwardButton1.tooltip "ამ წერილის გადაგზავნა">
 <!ENTITY hdrJunkButton1.label "ჯართი">
