@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Taɣellist">
-<!ENTITY securityTab.label "Taɣellist">
-<!ENTITY securityHeading.label "Akken ad tzzneḍ u ad d-remseḍ iznan yettwazemlen neɣ yettwawgelhen, yessefk ad d-muddeḍ aselkin n uzmul umdin akked uselkin n uwgelhen.">
-<!ENTITY encryptionGroupTitle.label "Awgelhen">
-<!ENTITY encryptionChoiceLabel.label "Aɣewwaṛ n uwgelhen amezwer di tuzzna nyeznan:">
-<!ENTITY neverEncrypt.label "Werǧin (ur seqdac ara awgelhen)">
-<!ENTITY neverEncrypt.accesskey "W">
-<!ENTITY alwaysEncryptMessage.label "Yettawsra(ur yezmir ara ad yazen izen arama akk iɣewaḍen ɣur-sen iselkan)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Seqdec aselkin-agi akken i uwgelhen &amp; azmak n yeznan i d-remseḍ:">
-
 <!ENTITY e2eTitle.label "Awgelhen seg yixef ɣer wayeḍ">
-<!ENTITY e2eIntro.description "Akken ad tazneḍ iznan ittwawgelhen neɣ yettwazemlen s wudem umḍin, tesriḍ ad tsewleḍ tatiknulujit n awgelhen, OpenPGP neɣ S/MIME.">
 <!ENTITY e2eLearnMore.label "Issin ugar">
 
 <!ENTITY e2eEnc.description "S war awgelhen si ṭṭerf ɣer ṭṭerf, agbur n yiznan izmer ad t-iwali usaǧǧaw-ik n yimayl, izmer daɣen ad tḥaz-it tɛessast.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Sfeḍ">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Azmul umḍin">
-<!ENTITY signMessage.label "Zmel s wudem umḍin iznan (amezwer)">
 <!ENTITY signMessage2.label "Rnu azmul-inu umḍin s wudem amezwer">
 <!ENTITY signMessage.accesskey "Z">
-<!ENTITY signingCert.message "Seqdec aselkin-agi i uzmel s wudem umḍin n yeznan i d-remseḍ:">
-
-<!ENTITY certificates.label "Iselkan">
-<!ENTITY manageCerts2.label "Sefrek iselkan">
-<!ENTITY manageCerts2.accesskey "f">
-<!ENTITY manageDevices.label "Ibenkan n tɣellist">
-<!ENTITY manageDevices.accesskey "k">
 
 <!ENTITY signingCert2.message "Aselkin udmawan i uzmul amḍin:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Smenyef OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Sefrek tisura OpenPGP">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Fren aselkin">

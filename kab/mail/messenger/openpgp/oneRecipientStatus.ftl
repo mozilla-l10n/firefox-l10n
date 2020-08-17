@@ -16,12 +16,15 @@ openpgp-one-recipient-status-open-details =
     .label = Ldi talqayt syen ẓreg aqbal…
 openpgp-one-recipient-status-discover =
     .label = Snirem tasarut tamaynut neɣ tin yettwaleqqmen
+
 openpgp-one-recipient-status-instruction1 = Akken ad tazneḍ izen awgelhen seg yixef ɣer yixef i uɣerwaḍ, teḥwaǧeḍ ad d-tawiḍ tisura-nsen tizuyaz n OpenPGP syen creḍ fell-asent ttwaqeblent.
 openpgp-one-recipient-status-instruction2 = Akken ad d-tawiḍ tisura-nsen, kter-itent-id seg yimaylen i ak·am-d-uznen syen rnu-tent. Neɣ, ɛreḍ ad d-tafeḍ tisura-nsen tizuyaz ɣef ukaram.
+
 openpgp-key-own = Yettwaqbel (tasarut tudmawant)
 openpgp-key-secret-not-personal = Ur yettwaseqdac ara
 openpgp-key-verified = Yettwaqbel (ittwasenqed)
 openpgp-key-unverified = Yettwaqbel (ur ittwasenqed ara)
 openpgp-key-undecided = Ur yettwaqbel ara (ur yerkid ara)
 openpgp-key-rejected = Ur yettwaqbel ara (yettwagi)
+
 openpgp-intro = Llant tsura tizuyaz i { $key }

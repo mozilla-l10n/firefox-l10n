@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Ffeɣ seg ugdil ačuran
 find = Nadi
 new-tab = Iccer amaynut
 add-bookmark = Rnu tacreṭ n usebter
-open-bookmarks-sidebar = Ldi agalis n tecraḍ n yisebtar
 reader-view = Askar n tɣuṛi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Nadi neɣ sekcem tansa

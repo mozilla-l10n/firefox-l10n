@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Sekles s yisem…
     .accesskey = y
-media-preview =
-    .value = Taskant n wallal n teywalt:
 
 perm-tab =
     .label = Tisirag
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ih, inagan n tuqna
 security-site-data-no = Ala
 
 image-size-unknown = Arussin
-not-set-verified-by = Ur d-ittumudd ara
 page-info-not-specified =
     .value = Ur d-ittumudd ara
 not-set-alternative-text = Ur d-ittumudd ara
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Askar n tsiḍent (quirks)
 general-strict-mode =
     .value = Askar n uqadeṛ n ilugan
-security-no-owner = Asmel-a web ur d-yettmuddu ara talɣut ɣef bab-is.
 page-info-security-no-owner =
     .value = Asmel-a web ur d-yettmuddu ara talɣut ɣef bab-is.
 media-select-folder = Fren akaram i usekles n tugniwin

@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Tansa yettwasutren ulac-itt deg tuffirt n &brandShortName;.</p><ul><li>Ɣef sebba n tɣellist, &brandShortName; ur yessutur ara tikelt-nniḍen s wudem awurman isemliyen n tbaḍnit.</li><li>Ɛreḍ tikelt-nniḍen asuter n isemli seg usmel web.</li></ul>">
 
 <!ENTITY netOffline.title "Askar war tuqqna">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Ɛreḍ tikelt-nniḍen. &brandShortName; ad yeɛreḍ ad d-yeldi tuqqna udiɣ ad d-yesali asebter tikelt-nniḍen. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li> </ul>">

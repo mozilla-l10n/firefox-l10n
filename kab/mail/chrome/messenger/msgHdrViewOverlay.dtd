@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Aɣbaṛ">
 <!ENTITY hdrArchiveButton1.tooltip "Ḥrez izen-agi">
-<!ENTITY hdrOpenConversationButton1.label "Adiwenni">
-<!ENTITY hdrOpenConversationButton1.tooltip "Sken adiwenni n yizen agi">
 <!ENTITY hdrSmartReplyButton1.label "Tiririt s tigzi">
 <!ENTITY hdrReplyButton1.label "Err">
 <!ENTITY hdrReplyButton2.tooltip "Err i umazan n yizen-agi">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Err i tabdart n tirawt">
 <!ENTITY hdrFollowupButton1.label "Ḍfaṛ">
 <!ENTITY hdrFollowupButton1.tooltip "Azen aseḍfeṛ i ugraw-agi n isalen">
-<!ENTITY hdrMenuForwardButton.label "Welleh am">
 <!ENTITY hdrForwardButton1.label "Welleh">
 <!ENTITY hdrForwardButton1.tooltip "Welleh izen-agi">
 <!ENTITY hdrJunkButton1.label "Aspam">

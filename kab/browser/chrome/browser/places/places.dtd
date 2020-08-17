@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Fren afaylu…">
 <!ENTITY cmd.restoreFromFile.accesskey  "F">
 
-<!ENTITY cmd.deleteDomainData.label     "Ttu asmel-a">
-<!ENTITY cmd.deleteDomainData.accesskey "a">
-
-<!ENTITY cmd.open.label                  "Ldi">
-<!ENTITY cmd.open.accesskey              "L">
-<!ENTITY cmd.open_window.label           "Ldi deg usfaylu amaynut">
-<!ENTITY cmd.open_window.accesskey       "y">
-<!ENTITY cmd.open_private_window.label     "Ldi ɣef usfaylu uslig amaynut">
-<!ENTITY cmd.open_private_window.accesskey "L">
-<!ENTITY cmd.open_tab.label              "Ldi ɣef iccer amaynut">
-<!ENTITY cmd.open_tab.accesskey          "c">
-<!ENTITY cmd.open_all_in_tabs.label      "Ldi merra ɣef yIccaren">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "m">
-
-<!ENTITY cmd.properties.label      "Taɣaṛa">
-<!ENTITY cmd.properties.accesskey  "ṛ">
-
-<!ENTITY cmd.sortby_name.label              "Smizzwer s yisem">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Tacreṭ n uqebtar tamaynut…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Akaram Amaynut...">
-<!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Anabraz amaynut">
-<!ENTITY cmd.new_separator.accesskey       "b">
-
 <!ENTITY col.name.label          "Isem">
 <!ENTITY col.tags.label          "Tibzimin">
 <!ENTITY col.url.label           "Tansa">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Amḍan n tmerziwin">
 <!ENTITY col.dateadded.label     "Azem n tmerna">
 <!ENTITY col.lastmodified.label  "Asnifel aneggaru">
-
-<!ENTITY historySearch.placeholder  "Azray n unadi">
-<!ENTITY bookmarksSearch.placeholder  "Nadi ticraḍ n isebtar">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Fren aferdis akken ad twaliḍ udiɣ ad tesnifleḍ taɣaṛa-yines">
 
-<!ENTITY view.label               "Smizzwer">
-<!ENTITY view.accesskey           "S">
-<!ENTITY byDate.label             "S wazemz">
-<!ENTITY byDate.accesskey         "z">
-<!ENTITY bySite.label             "S usmel">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "S umḍan n unerzu">
-<!ENTITY byMostVisited.accesskey  "n">
-<!ENTITY byLastVisited.label      "S wazemz n unerzu aneggaru">
-<!ENTITY byLastVisited.accesskey  "g">
-<!ENTITY byDayAndSite.label       "S wazemz d usmel">
-<!ENTITY byDayAndSite.accesskey   "m">

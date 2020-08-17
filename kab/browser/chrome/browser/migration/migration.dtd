@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtar, azray, awalen uffiren d isefka-nniḍen seg:">
 <!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtar, azray, awalen uffiren d isefka-nniḍen seg:">
-<!ENTITY importFromBookmarks.label      "Kter ticṛaḍ n isebtar seg: ">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

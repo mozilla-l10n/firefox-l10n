@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "Tadiwent n tuccḍa">
 <!ENTITY errorConsoleCmd.accesskey "d">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Tacirra JavaScript">
-<!ENTITY scratchpadCmd.accesskey "T">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Awid iznan">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Welleh izen yettwafernen am umedday">
 <!ENTITY fileButton.tooltip "Err iznan yettwafernen ɣer ufaylu">
 <!ENTITY archiveButton.tooltip "Ḥrez iznan yettwafernen">
-<!ENTITY openConversationButton.tooltip "Sken adiwenni n yizen yettwafernen">
 <!ENTITY openMsgConversationButton.tooltip "Sken adiwenni n yizen yettwafernen">
 <!ENTITY nextButton.tooltip "Ddu ɣer yizen ur nettwaɣri ara i d-iteddun">
 <!ENTITY nextMsgButton.tooltip "Ddu ɣer yizen d-iteddun ur nettwaɣri ara">

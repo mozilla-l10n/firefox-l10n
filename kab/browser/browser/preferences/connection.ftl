@@ -35,12 +35,7 @@ connection-proxy-http = Apṛuksi HTTP
     .accesskey = q
 connection-proxy-http-port = Tabburt
     .accesskey = P
-connection-proxy-http-share =
-    .label = Seqdec aqeddac-a, apṛuksi, i yal aneggaf
-    .accesskey = c
 
-connection-proxy-ssl = Apṛuksi SSL
-    .accesskey = Y
 connection-proxy-http-sharing =
     .label = Seqdec daɣen apṛuksi-a i FTP akked HTTPS
     .accesskey = s

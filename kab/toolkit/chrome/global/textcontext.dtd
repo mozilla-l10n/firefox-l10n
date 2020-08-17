@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Gzem">
-<!ENTITY cutCmd.accesskey "G">
-<!ENTITY copyCmd.label "Nɣel">
-<!ENTITY copyCmd.accesskey "N">
-<!ENTITY pasteCmd.label "Senteḍ">
-<!ENTITY pasteCmd.accesskey "t">
-<!ENTITY undoCmd.label "Sefsex">
-<!ENTITY undoCmd.accesskey "S">
-<!ENTITY selectAllCmd.label "Ffren imaṛṛa">
-<!ENTITY selectAllCmd.accesskey "F">
-<!ENTITY deleteCmd.label "Kkes">
-<!ENTITY deleteCmd.accesskey "K">
-
 <!ENTITY spellAddToDictionary.label "Rnu ɣer umawal">
 <!ENTITY spellAddToDictionary.accesskey "w">
 <!ENTITY spellUndoAddToDictionary.label "Sefsex timerna n umawal">

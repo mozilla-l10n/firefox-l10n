@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = I wakken ad tazneḍ iznan i yettwawgelhen neɣ yettwazemlen s wudem umḍin, tesriḍ ad tsewleḍ tatiknulujit n uwgelhen, OpenPGP neɣ S/MIME.
+
 e2e-intro-description-more = Fren tasarut-ik·im tudmawant i usermed n useqdec n OpenPGP, neɣ aselken udmawan i usermed n useqdec n S/MIME. I tsarut tudmawant neɣ i uselken udmawan, ɣur-k tasarut tuffirt yemṣadan.
+
 openpgp-key-user-id-label = Amiḍan / Asulay n useqdac
 openpgp-keygen-title-label =
     .title = Sirew tasarut OpenPGP
@@ -33,15 +35,19 @@ openpgp-generate-key =
     .tooltiptext = Sirew tasarut i yemṣadan d OpenPGP i uwgelhen d/neɣ uzmul
 openpgp-advanced-prefs-button-label =
     .label = Talqayt…
+
 openpgp-key-expiry-label =
     .label = Azemz n taggara
+
 openpgp-key-id-label =
     .label = Asulay n tsarut
+
 openpgp-key-man-title =
     .title = Asefrak n tsarut OpenPGP
 openpgp-key-man-generate =
     .label = Tayuga n tsura timaynutin
     .accesskey = K
+
 openpgp-key-man-file-menu =
     .label = Afaylu
     .accesskey = F
@@ -57,16 +63,20 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Aqeddac n tsarut
     .accesskey = K
+
 openpgp-key-man-import-public-from-file =
     .label = Kter tasarut(tisura) tazayezt(tizuyaz) seg ufaylu
     .accesskey = l
 openpgp-key-man-import-secret-from-file =
     .label = Kter tasarut(tisura) tuffirt(tuffirin) seg ufaylu
+
 openpgp-key-man-discover-progress = Anadi…
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kter tisura ɣer ufaylu
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Nɣel tisura tizuyaz ɣer afus
+
 openpgp-key-man-close =
     .label = Mdel
 openpgp-key-man-ctx-view-photo-label =
@@ -75,10 +85,13 @@ openpgp-key-man-user-id-label =
     .label = Isem
 openpgp-key-man-fingerprint-label =
     .label = Adsil umḍin
+
 openpgp-key-man-filter-label =
     .placeholder = Anadi ɣef tsura
+
 openpgp-key-man-select-all-key =
     .key = A
+
 openpgp-key-details-title =
     .title = Iraten n tsarut
 openpgp-key-details-signatures-tab =
@@ -115,6 +128,7 @@ openpgp-personal-no-label =
     .label = Uhu, ur tt-seqdaceɣ ara am tsarut-iw tudmawant.
 openpgp-personal-yes-label =
     .label = Ih, ḥseb tasarut-a am tsarut tudmawant.
+
 openpgp-copy-cmd-label =
     .label = Nɣel
 

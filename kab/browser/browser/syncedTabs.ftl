@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Accaren yemtawin
 synced-tabs-sidebar-noclients-subtitle = Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?
-synced-tabs-sidebar-notsignedin = Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.
 synced-tabs-sidebar-intro = Wali tabdart n waccaren seg yibenkan-ik-nniḍen.
 synced-tabs-sidebar-unverified = Amiḍan-ik yeḥwaǧ ad ittusenqed.
 synced-tabs-sidebar-notabs = Ulac accaren yeldin

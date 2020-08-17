@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Isem d uɣballu n wadeg n tawuri n ulemmec">
 <!ENTITY performanceUI.table.totalAlloc               "Aḥerri asemday">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍan asemday n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
-<!ENTITY performanceUI.table.selfAlloc                "Iḥerriyen isemdayen">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Amḍan n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Senteḍ s war amsal">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Senteḍ am">
-<!ENTITY pasteAs.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.label "Sented am ubder">
 <!ENTITY pasteAsQuotationCmd.accesskey "b">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "&amp;Af…">
-<!ENTITY findReplaceCmd.label "Nadi u semselsi…">
-<!ENTITY enableInlineSpellChecker.label "Senqed taɣdira mara  teţaruḍ">
-<!ENTITY enableInlineSpellChecker.accesskey "q">
-<!ENTITY checkSpellingCmd2.label "Senqed taɣdira…">
-<!ENTITY checkSpellingCmd2.accesskey "S">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Senni">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Aḍris n tfekka">
 <!ENTITY bodyTextCmd.accesskey "k">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Timeẓiliyin leqqayen">
-<!ENTITY advancedPropertiesCmd.accesskey "ẓ">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Reyyec">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Reyyec">
 <!ENTITY alignJustify.accesskey "R">
 <!ENTITY alignJustify.tooltip "Reyyec s triglwin">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Tissi">
-<!ENTITY layerSendToBack.tooltip "Err-it ɣer ugilal">
-<!ENTITY layerBringToFront.tooltip "Awi-t-id ɣer zdat">
 
 <!ENTITY increaseIndent.label "Rnu arigel">
 <!ENTITY increaseIndent.accesskey "R">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Timeẓliyin n tfelwit…">
 <!ENTITY tableProperties.accesskey "e">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Afeggag n wumuɣ">
-<!ENTITY formatToolbar.tooltip "Afeggag n umasal">
-<!ENTITY cutToolbarCmd.tooltip "Gzem">
-<!ENTITY copyToolbarCmd.tooltip "Nɣel">
-<!ENTITY pasteToolbarCmd.tooltip "Senteḍ">
-<!ENTITY printToolbarCmd.label "Siggez">
-<!ENTITY printToolbarCmd.tooltip "Siggez asebter-agi">
-<!ENTITY findToolbarCmd.label "Af">
-<!ENTITY findToolbarCmd.tooltip "Nadi aḍris deg usebter">
-<!ENTITY spellToolbarCmd.label "Mmel s usekkil">
-<!ENTITY spellToolbarCmd.tooltip "ṣeɣti taɣdira n ufran n usebter imeṛṛa">
-
 <!ENTITY imageToolbarCmd.label "Tugna">
 <!ENTITY imageToolbarCmd.tooltip "Ger tugna tamaynut neɣ ẓreg timeẓliyin n tugna yettwafernen">
 <!ENTITY hruleToolbarCmd.label "Izirig aglawan">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Ger tamdeyt tamaynut neɣ ẓreg timeẓliyin n temdeyt yettwafernen">
 <!ENTITY TextColorButton.tooltip "Fren ini i weḍris">
 <!ENTITY BackgroundColorButton.tooltip "Fren ini i ugilal">
-<!ENTITY throbber.tooltip2 "Ddu ɣer usebter agejdan &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Fren ini n usebruṛeq n uḍris">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Sbadu teɣzi n tesefsit">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Reyyec aḍris ɣer tlemmast">
 <!ENTITY alignRightButton.tooltip "Reyyec aḍris ɣer tama tayeffust">
 <!ENTITY alignJustifyButton.tooltip "Reyyec aḍris gar tama tazelmat akked tama tayeffust">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Fren">
-<!ENTITY structSelect.accesskey     "n">
-<!ENTITY structRemoveTag.label      "Kkes tabzimt">
-<!ENTITY structRemoveTag.accesskey  "K">
-<!ENTITY structChangeTag.label      "Snifel tabzimt">
-<!ENTITY structChangeTag.accesskey  "S">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ger">

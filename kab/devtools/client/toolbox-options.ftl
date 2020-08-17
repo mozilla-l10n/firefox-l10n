@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Rmed taseɣtit tanmeggagt
-options-enable-remote-tooltip =
-    .title = Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tesqedceḍ ifecka n tneflit di tseɣtit n tummant tanmeggagt am Firefox OS
 
 options-enable-remote-tooltip2 =
     .title = Armad n uɣewwar-a ad k-yeǧǧ ad tseɣtiḍ tummant-a n yiminig s wudem anmeggay.

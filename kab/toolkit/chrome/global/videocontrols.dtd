@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Tugna-deg-tugna">
 
-<!ENTITY stats.media "Allal n teywalt">
-<!ENTITY stats.size "Teɣzi">
-<!ENTITY stats.activity "Armud">
-<!ENTITY stats.activityPaused "Isteɛfa">
-<!ENTITY stats.activityPlaying "Urar iteddu">
-<!ENTITY stats.activityEnded "Immed">
-<!ENTITY stats.activitySeeking "(anadi)">
-<!ENTITY stats.volume "Ableɣ">
-<!ENTITY stats.framesParsed "Tugniwin ţwaselḍent">
-<!ENTITY stats.framesDecoded "Tugniwin iţukksenglen">
-<!ENTITY stats.framesPresented "Tugniwin iţusenkden">
-<!ENTITY stats.framesPainted "Tugniwin iţusunɣen">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Urar n tvidyutt yeḥbes acku tella tuccḍa tarussint.">
 
 <!ENTITY status.pictureInPicture "Tavidyut-a tattwaɣray akka tura deg uskar usliɣ.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 ɣef #2 zrin">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

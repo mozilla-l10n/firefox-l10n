@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Sbadu amiḍan n yimayl yellan">
-
 <!ENTITY emailWizard.title               "Sbadu amiḍan-ik.m n yimayl yellan">
 <!ENTITY emailWizard.caption             "Seqdec tansa-inek.m imayl tamirant">
 <!ENTITY name.label                      "Isem-ik:">
 <!ENTITY name.accesskey                  "I">
-<!ENTITY name.placeholder                "Aneggaru d amezwaru">
 <!ENTITY fullname.placeholder            "Isem-ik.m akkit">
 <!ENTITY name.text                       "Isem-ik, akken tettwalin wiyaḍ">
 <!ENTITY name.error                      "Ma ulac aɣilif, mudd-d isem-ik">
 <!ENTITY email.label                     "Tansa imayl">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "kečč@amedya.com">
 <!ENTITY email3.placeholder              "Tansa-inek imayl">
 <!ENTITY email.text                      "Tansa yinek imayl yellan">
 <!ENTITY email.error                     "Yir tansa n yimayl.">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Ad yeffeɣ:">
 <!ENTITY outgoingColumn.label            "Ad yeffeɣ">
 <!ENTITY username.label                  "Isem n useqdac:">
-<!ENTITY hostname.label                  "Asenneftaɣ aqeddac">
-<!ENTITY port.label                      "Tabburt">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Aqeddac:">
 <!ENTITY portRow.label                   "Tabburt:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Sekyed tikelt nniḍen">
 <!ENTITY half-manual-test.accesskey      "k">
-<!ENTITY manual-edit.label               "Tawila n ufus">
-<!ENTITY manual-edit.accesskey           "f">
 <!ENTITY manual-config.label             "Sbadu s ufus…">
 <!ENTITY manual-config.accesskey         "F">
 <!ENTITY open-provisioner.label          "Awi tansa n yimayl tamaynut...">

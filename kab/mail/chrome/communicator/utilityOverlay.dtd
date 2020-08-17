@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Ẓreg">
 <!ENTITY editMenu.accesskey        "Ẓ">
 <!ENTITY undoCmd.label            "Sefsax">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "S">
 <!ENTITY redoCmd.label            "Err-d">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "E">
-<!ENTITY cutCmd.label            "Gzem">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "G">
-<!ENTITY copyCmd.label            "Nɣel">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "N">
-<!ENTITY pasteCmd.label            "Senteḍ">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "n">
 <!ENTITY deleteCmd.label          "Kkes">
 <!ENTITY deleteCmd.accesskey        "K">
-<!ENTITY selectAllCmd.label          "Fren Imaṛṛa">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "I">
 <!ENTITY preferencesCmd2.label "Iɣewwaṛen">
 <!ENTITY preferencesCmd2.accesskey "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">

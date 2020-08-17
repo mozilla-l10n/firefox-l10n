@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Tunigin Tusligt)">
-
 <!ENTITY appmenu.tooltip                     "Ldi umuɣ">
 <!ENTITY navbarOverflow.label                "Ugar n yifecka…">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Rzi iccer-a">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "Q">
 <!ENTITY  unpinTab.label                     "Serreḥ i yiccer-a">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "S">
-<!ENTITY  sendPageToDevice.label             "Azen asebter ɣer yibenk">
-<!ENTITY  sendPageToDevice.accesskey         "b">
-<!ENTITY  sendLinkToDevice.label             "Azen aseɣwen ɣer yibenk">
-<!ENTITY  sendLinkToDevice.accesskey         "b">
-<!ENTITY  undoCloseTab.label                 "Sefsex amdal n yiccer.">
-<!ENTITY  undoCloseTab.accesskey             "S">
-<!ENTITY  hiddenTabs.label                   "Iccaren ifren">
 
 <!ENTITY  listAllTabs.label      "Bder akk accaren">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Nadi deg yiccaren">
 
 <!ENTITY tabCmd.label "Iccer amaynut">
-<!ENTITY tabCmd.accesskey "I">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Ldi adeg…">
 <!ENTITY openFileCmd.label "Ldi afaylu…">
-<!ENTITY openFileCmd.accesskey "L">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tarusi n yisebtar…">
-<!ENTITY printSetupCmd.accesskey "a">
-<!ENTITY printPreviewCmd.label "Awali send asiggez">
-<!ENTITY printPreviewCmd.accesskey "s">
 <!ENTITY printCmd.label "Siggez">
-<!ENTITY printCmd.accesskey "S">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Kter seg iminig nniḍen…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Amsefrak n twuri">
 
-<!ENTITY goOfflineCmd.label "Xdem war tuqqna">
-<!ENTITY goOfflineCmd.accesskey "q">
-
 <!ENTITY menubarCmd.label "Afeggag n wumuɣ">
 <!ENTITY menubarCmd.accesskey "A">
-<!ENTITY navbarCmd.label "Afeggag n tunigin">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,70 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Ticraḍ n isebtar">
 <!ENTITY bookmarksToolbarItem.label "Iferdisen n ufeggag n tecraḍ">
 
-<!ENTITY pageSourceCmd.label "Tangalt taɣbalut n usebter">
-<!ENTITY pageSourceCmd.accesskey "T">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Talɣut ɣef usebter">
-<!ENTITY pageInfoCmd.accesskey "T">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Amseγti n tneγruft">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Sleg iccer">
-<!ENTITY mirrorTabCmd.accesskey "l">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Uɣal ɣer Agdil Ačaran">
-<!ENTITY enterFullScreenCmd.accesskey "U">
-<!ENTITY exitFullScreenCmd.label "Ffeɣ seg Agdil Ačaran">
-<!ENTITY exitFullScreenCmd.accesskey "F">
-
 <!ENTITY fullScreenCmd.label "Agdil Ačaran">
-<!ENTITY fullScreenCmd.accesskey "A">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Sken akk accaren">
-<!ENTITY showAllTabsCmd.accesskey "k">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Qqen ɣer &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Ldi ismenyifen n &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Qqen i tikelt-nniḍen ɣer &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Senqed amiḍan-ik">
-
-
-<!ENTITY fullScreenMinimize.tooltip "Semẓi">
-<!ENTITY fullScreenRestore.tooltip "Err-d">
-<!ENTITY fullScreenClose.tooltip "Mdel">
-<!ENTITY fullScreenAutohide.label "Ffer afeggag n yifecka">
-<!ENTITY fullScreenAutohide.accesskey "F">
-<!ENTITY fullScreenExit.label "Ffeɣ seg uskar n ugdil ačaran">
-<!ENTITY fullScreenExit.accesskey "F">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Awi Firefox yid-k">
-<!ENTITY fxa.signin.description.label "Awi ticraḍ-ik n yisebtar, azray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.">
-<!ENTITY fxa.signin.button.label "Rmed &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Senqed imayl">
-<!ENTITY fxa.unverified.description.label "Ilaq-ak ad tesfeqdeḍ amiḍan-ik uqbel ad tizmireḍ ad temtawiḍ.">
-<!ENTITY fxa.unverified.button.label "Ldi iɣewwaṛen n &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Tkecmeḍ s yisem">
-<!ENTITY fxa.menu.manageAccount.label "Sefrek imiḍanen…">
-<!ENTITY fxa.menu.syncSettings.label "Iɣewwaṛen n &syncBrand.shortName.label;…">
 
 <!ENTITY pictureInPictureHideToggle.label "Ffer asfaylu tugna deg tugna">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
@@ -191,14 +81,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Ffeɣ seg ugdil ačuṛan (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Ffeɣ seg ugdil ačuṛan (Esc)">
-<!ENTITY leaveDOMFullScreen.label "Ffeɣ seg uskar n ugdil ačuran ">
-<!ENTITY leaveDOMFullScreen.accesskey "F">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Tugna-deg-tugna">
-<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -209,86 +91,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "Ɣur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
 <!ENTITY pointerlockWarning.generic.label "Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc akken ad teṭṭfeḍ asewwaṛ.">
 
-<!ENTITY closeWindow.label "Mdel asfaylu">
-<!ENTITY closeWindow.accesskey "d">
-
-<!ENTITY bookmarksMenu.label "Ticraḍ n yisebtar">
-<!ENTITY bookmarksMenu.accesskey "r">
-<!ENTITY bookmarkThisPageCmd.label "Creḍ asebter-a">
-<!ENTITY editThisBookmarkCmd.label "Ẓreg tacreḍṭ n usebter-a">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Creḍ akk accaren…">
-
 <!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n yisebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
-<!ENTITY otherBookmarksCmd.label "Ticraḍ-nniḍen">
-<!ENTITY mobileBookmarksCmd.label "Ticraḍ n yisebtar n uziraz">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n tecraḍ n yisebtar">
-
-<!ENTITY backCmd.label                "Ɣer deffir">
-<!ENTITY backCmd.accesskey            "D">
-<!ENTITY backButton.tooltip           "Uɣal s yiwen n usebter">
-<!ENTITY forwardCmd.label             "Ɣer zdat">
-<!ENTITY forwardCmd.accesskey         "Z">
-<!ENTITY forwardButton.tooltip        "Aẓ ɣer zdat s yiwen usebter">
-<!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ azray">
-<!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ azray">
-<!ENTITY reloadCmd.label              "Smiren">
-<!ENTITY reloadCmd.accesskey          "M">
-<!ENTITY stopCmd.label                "Seḥbes">
-<!ENTITY stopCmd.accesskey            "Ḥ">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tansa">
 
 <!ENTITY printButton.label            "Siggez">
 <!ENTITY printButton.tooltip          "Siggez asebtar-a">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Sken talɣut n usmel">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ldi agalis n yizen">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ldi agalis n usuter n wadeg">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Ldi agalis n urar awurman">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ldi agalis n yizen i usebded n uzegrir">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Sefrek tasiregt n usuffeɣ n tneɣruft">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n yizegrar">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Beddel ma yella tebɣiḍ ad d-tremseḍ ilɣa seg usmel">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Err-d isefka deg uselkim">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Iminig yettwaṭṭef s wudem anmeggag">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ldi afeggag n usentem Web">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Ldi agalis n tsirag n tunigin">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n tkamirat-ik d/neɣ asawaḍ-ik d usmel">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ-ik d usmel">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sefrek beṭṭu n yisfuyla neɣ igdilen d usmel">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ldi agalis n yizen n usebded">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Suqel asebter-a">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebter">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ldi agalis MIDI">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-ik i usmelweb-a.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadeg i usmelweb-a.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-a.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Teswaḥleḍ urar awurman n teywalt s umeslaw i usmel-agi web.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Tesweḥleḍ asmel-agi web seg useqdec n umenṭaḍ Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
-<!ENTITY urlbar.installBlocked.tooltip           "Tesweḥleḍ asbeddi n yizegrar i usmel-a.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Sken azray">
-
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ɣur-k tisirag-nniḍen akken ad tkecmeḍ ɣeṛ usmel-a web.">
 
 
 <!ENTITY searchItem.title             "Nadi">
@@ -298,7 +106,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "Asebter agejdan &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Ticraḍ n yisebtar">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Ticraḍ n yisebtar">
 <!ENTITY bookmarksMenuButton2.label         "Umuɣ n tecraḍ n yisebtar">
@@ -313,109 +120,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Rnu umuγ n tecraḍ n yisebtar ɣer ufeggag">
 <!ENTITY removeBookmarksMenu.label          "Kkes umuγ n tecraḍ n yisebtar seg ufeggag">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Azray">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Ifecka">
-<!ENTITY toolsMenu.accesskey          "I">
-
-<!ENTITY keywordfield.label           "Rnu awal tasarut i unadi-a…">
-<!ENTITY keywordfield.accesskey       "w">
 
 <!ENTITY downloads.label              "Isadaren">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Isadaren">
-<!ENTITY downloads.accesskey          "i">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Izegrar">
-<!ENTITY addons.accesskey             "I">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Aneflay web">
-<!ENTITY webDeveloperMenu.accesskey   "A">
-
-<!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
-<!ENTITY inspectContextMenu.accesskey "S">
-
-<!ENTITY inspectA11YContextMenu.label     "Sweḍ timeẓliyin n tnekcumt">
-
-<!ENTITY fileMenu.label         "Afaylu">
-<!ENTITY fileMenu.accesskey       "f">
-
-<!ENTITY newUserContext.label             "Iccer amagbar amaynut">
-<!ENTITY newUserContext.accesskey         "m">
-<!ENTITY manageUserContext.label          "Sefrek imagbaren">
-<!ENTITY manageUserContext.accesskey      "O">
 
 <!ENTITY newNavigatorCmd.label        "Asfaylu amaynut">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "s">
 <!ENTITY newPrivateWindow.label     "Asfaylu amaynut n tunigin tusligt">
-<!ENTITY newPrivateWindow.accesskey "y">
 
 <!ENTITY editMenu.label         "Taẓrigt">
-<!ENTITY editMenu.accesskey       "ẓ">
-<!ENTITY undoCmd.label            "Sefsex">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "S">
-<!ENTITY redoCmd.label            "Err-d">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "E">
-<!ENTITY cutCmd.label           "Gzem">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "G">
-<!ENTITY copyCmd.label            "Nɣel">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "N">
-<!ENTITY pasteCmd.label           "Senṭeḍ">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "n">
-<!ENTITY deleteCmd.label          "Kkes">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "K">
-<!ENTITY selectAllCmd.label         "Fren Kullec">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "F">
 <!ENTITY preferencesCmd2.label       "Iɣewwaren">
-<!ENTITY preferencesCmd2.accesskey     "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
-<!ENTITY preferencesCmdUnix.accesskey     "s">
 <!ENTITY logins.label                           "Inekcam d wawalen uffiren">
-
-<!ENTITY clearRecentHistory.label               "Sfeḍ azray-ik n melmi kan…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Askan">
-<!ENTITY viewMenu.accesskey       "i">
-<!ENTITY viewToolbarsMenu.label       "Afeggag n yifecka">
-<!ENTITY viewToolbarsMenu.accesskey     "A">
-<!ENTITY viewSidebarMenu.label "Agalis adisan">
-<!ENTITY viewSidebarMenu.accesskey "g">
-
-<!ENTITY viewCustomizeToolbar.label       "Sagen…">
-<!ENTITY viewCustomizeToolbar.accesskey     "S">
 
 <!ENTITY overflowCustomizeToolbar.label       "Sagen afeggag n yifecka…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
 <!ENTITY historyMenu.label "Azray">
-<!ENTITY historyMenu.accesskey "A">
 <!ENTITY historyUndoMenu.label "Accaren imedlen melmi kan">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Isfuyla imedlen melmi kan">
-<!ENTITY historyRestoreLastSession.label "Err-d tiɣimit yezrin">
-
-<!ENTITY showAllHistoryCmd2.label "Sken akk azray">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Sken akk azray">
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ azray-ik n melmi kan…">
@@ -445,10 +174,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ldi amtawi n Ismenyifen">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Wali tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
-<!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Qqen ɣer &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Rmed &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
@@ -466,79 +193,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Rnu ɣer wumuɣ n tfuli">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "F">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Senṭeḍ deg wumuɣ n tfuli">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "R">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Kkes seg wumuɣ n tfuli">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "S">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kkes seg ufeggag n yifecka">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
 <!ENTITY customizeMenu.addMoreItems.label "Rnu ugar n yiferdisen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "n">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "Tufra twurmant deg ufeggag n ifecka">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "Sefrek isiɣzaf">
-<!ENTITY customizeMenu.manageExtension.accesskey "n">
-<!ENTITY customizeMenu.removeExtension.label "Kkes asiɣzef">
-<!ENTITY customizeMenu.removeExtension.accesskey "v">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Mmel asiɣzef">
-<!ENTITY customizeMenu.reportExtension.accesskey "u">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Ugar">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Nadi neɣ sekcem tansa">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Asiɣzef:">
-<!ENTITY urlbar.switchToTab.label     "Ddu ɣer yiccer:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Taxbalut:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Awi tallelt deg unadi! nadi tigit &#x1F50E; tama n usumer n unadi.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Beddel iɣewwaren…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Y">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Beddel Ismenyifen…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Y">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Nadi tuttra">
 
 <!ENTITY contentSearchSubmit.tooltip  "Azen anadi">
 
@@ -547,200 +212,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Nadi">
 <!ENTITY searchIcon.tooltip           "Nadi">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Nadi ">
-<!ENTITY searchWith.label             " s:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Nadi ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Nadi s:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Iɣewwaren n unadi">
-<!ENTITY changeSearchSettings.tooltip "Beddel iɣewwaren n unadi">
-
-<!ENTITY searchInNewTab.label         "Nadi deg yiccer amaynut">
-<!ENTITY searchInNewTab.accesskey     "c">
-<!ENTITY searchSetAsDefault.label     "Sers-it d amsedday n unadi amezwer">
-<!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY openLinkCmdInTab.label       "Ldi aseɣwen deg yiccer amaynut">
-
 <!ENTITY openLinkCmdInTab.accesskey   "d">
-<!ENTITY openLinkCmd.label            "Ldi aseɣwen deg usfaylu amaynut">
-<!ENTITY openLinkCmd.accesskey        "d">
-<!ENTITY openLinkInPrivateWindowCmd.label "Ldi aseɣwen deg usfaylu uslig amaynut">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "L">
-<!ENTITY openLinkCmdInCurrent.label     "Ldi aseɣwen">
-<!ENTITY openLinkCmdInCurrent.accesskey "L">
-<!ENTITY openFrameCmdInTab.label      "Ldi akatar deg yiccer amaynut">
-<!ENTITY openFrameCmdInTab.accesskey  "L">
-<!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
-<!ENTITY openFrameCmd.accesskey       "L">
-<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg yiccer amagbar amaynut">
-<!ENTITY openLinkCmdInContainerTab.accesskey "L">
-<!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-a kan">
-<!ENTITY showOnlyThisFrameCmd.accesskey "k">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Smiren akatar">
-<!ENTITY reloadFrameCmd.accesskey     "S">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Wali tangalt taɣbalut n tefrant">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Tangalt taɣbalut n usebter">
-<!ENTITY viewPageSourceCmd.accesskey  "T">
-<!ENTITY viewFrameSourceCmd.label     "Tangalt aɣbalu n ukatar">
-<!ENTITY viewFrameSourceCmd.accesskey "g">
-<!ENTITY viewPageInfoCmd.label        "Wali talɣut n usebter">
-<!ENTITY viewPageInfoCmd.accesskey    "l">
-<!ENTITY viewFrameInfoCmd.label       "Wali talɣut n ukatar-a">
-<!ENTITY viewFrameInfoCmd.accesskey   "l">
-<!ENTITY reloadImageCmd.label         "Smiren tugna">
-<!ENTITY reloadImageCmd.accesskey     "S">
-<!ENTITY viewImageCmd.label           "Sken tugna">
-<!ENTITY viewImageCmd.accesskey       "k">
-<!ENTITY viewImageInfoCmd.label       "Talɣut ɣef tugna">
-<!ENTITY viewImageInfoCmd.accesskey   "l">
-<!ENTITY viewImageDescCmd.label       "Aglam n tugna">
-<!ENTITY viewImageDescCmd.accesskey   "t">
-<!ENTITY viewVideoCmd.label           "Sken tavidyut">
-<!ENTITY viewVideoCmd.accesskey       "m">
-<!ENTITY viewBGImageCmd.label         "Sken tugna n ugilal">
-<!ENTITY viewBGImageCmd.accesskey     "S">
-<!ENTITY setDesktopBackgroundCmd.label      "Fren tugna n ugilal...">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "F">
-<!ENTITY bookmarkPageCmd2.label       "Creḍ asebter-a">
-<!ENTITY bookmarkPageCmd2.accesskey   "c">
-<!ENTITY bookmarkThisLinkCmd.label      "Creḍ aseɣwen-a">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "r">
-<!ENTITY bookmarkThisFrameCmd.label      "Creḍ akatar-a">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "c">
 
 <!ENTITY pageAction.copyLink.label    "Nɣel aseɣwen">
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Sekles ɣer Pocket">
-
 <!ENTITY saveToPocketCmd.label        "Sekles asebter ɣer Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Sekles aseɣwen ɣer Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Sken tabdart n Pocket">
 
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
-<!ENTITY emailPageCmd.accesskey       "A">
-<!ENTITY savePageCmd.label            "Sekles asebter di...">
-<!ENTITY savePageCmd.accesskey        "l">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Sekles akatar s yisem...">
-<!ENTITY saveFrameCmd.accesskey       "S">
-<!ENTITY printFrameCmd.label          "Siggez akatar...">
-<!ENTITY printFrameCmd.accesskey      "g">
-<!ENTITY saveLinkCmd.label            "Sekles aseɣwen s yisem…">
-<!ENTITY saveLinkCmd.accesskey        "S">
-<!ENTITY saveImageCmd.label           "Sekles tugna s yisem…">
-<!ENTITY saveImageCmd.accesskey       "u">
-<!ENTITY saveVideoCmd.label           "Sekles tavidyut s yisem…">
-<!ENTITY saveVideoCmd.accesskey       "l">
-<!ENTITY saveAudioCmd.label           "Sekles ameslaw s yisem…">
-<!ENTITY saveAudioCmd.accesskey       "m">
-<!ENTITY emailImageCmd.label          "Azen tugna s yimayl…">
-<!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Azen tavidyut s yimayl…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Azen ameslaw s yimayl…">
-<!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Rmed azegrir-a">
-<!ENTITY playPluginCmd.accesskey      "z">
-<!ENTITY hidePluginCmd.label          "Ffer Azegrir-a">
-<!ENTITY hidePluginCmd.accesskey      "F">
-<!ENTITY copyLinkCmd.label            "Nɣel tansa n useɣwen">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "N">
-<!ENTITY copyImageCmd.label           "Nɣel tansa n tugna">
-<!ENTITY copyImageCmd.accesskey       "N">
-<!ENTITY copyImageContentsCmd.label   "Nɣel tugna">
-<!ENTITY copyImageContentsCmd.accesskey  "n">
-<!ENTITY copyVideoURLCmd.label        "Nɣel tansa n tvidyut">
-<!ENTITY copyVideoURLCmd.accesskey    "N">
-<!ENTITY copyAudioURLCmd.label        "Nɣel tansa n umeslaw">
-<!ENTITY copyAudioURLCmd.accesskey    "N">
-<!ENTITY copyEmailCmd.label           "Nɣel tansa imayl">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "t">
-<!ENTITY thisFrameMenu.label              "Akatar-a">
-<!ENTITY thisFrameMenu.accesskey          "k">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Urar">
-<!ENTITY mediaPlay.accesskey         "U">
-<!ENTITY mediaPause.label            "Asteɛfu">
-<!ENTITY mediaPause.accesskey        "A">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Tasusmi">
-<!ENTITY mediaMute.accesskey         "S">
-<!ENTITY mediaUnmute.label           "Kkes tasusmi">
-<!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "Arured n tɣuri">
-<!ENTITY mediaPlaybackRate2.accesskey "r">
-<!ENTITY mediaPlaybackRate050x2.label "S ttawil (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "Amagnu">
-<!ENTITY mediaPlaybackRate100x2.accesskey "m">
-<!ENTITY mediaPlaybackRate125x2.label "S tɣawla (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "z">
-<!ENTITY mediaPlaybackRate150x2.label "Ittɣawal aṭas (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "r">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Arured (×2)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "u">
-<!ENTITY mediaLoop.label             "Loop">
-<!ENTITY mediaLoop.accesskey         "L">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Sken isenqaden">
-<!ENTITY mediaShowControls.accesskey "k">
-<!ENTITY mediaHideControls.label     "Ffer isenqaden">
-<!ENTITY mediaHideControls.accesskey "F">
-<!ENTITY videoFullScreen.label       "Agdil ačaran">
-<!ENTITY videoFullScreen.accesskey   "A">
-<!ENTITY videoSaveImage.label        "Sekles anɣel n ugdil s yisem…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Sken asiḍen">
-<!ENTITY videoShowStats.accesskey    "d">
-<!ENTITY videoHideStats.label        "Ffer asiḍen">
-<!ENTITY videoHideStats.accesskey    "d">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -748,53 +229,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Semɣer">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Semẓi">
-<!ENTITY fullZoomReduceCmd.accesskey    "S">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Amagnu">
-<!ENTITY fullZoomResetCmd.accesskey     "A">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Semɣer kan aḍris">
-<!ENTITY fullZoomToggleCmd.accesskey    "S">
-
 <!ENTITY fullZoom.label                 "Semɣer">
-<!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY sidebarCloseButton.tooltip     "Mdel agalis adisan">
-<!ENTITY sidebarMenuClose.label         "Mdel agalis adisan">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ffeɣ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "F">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Anef &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Ffeɣ">
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Anef &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Mdel">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "M">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Aɣanib n usebter">
-<!ENTITY pageStyleMenu.accesskey "b">
-<!ENTITY pageStyleNoStyle.label "Ulac aɣanib">
-<!ENTITY pageStyleNoStyle.accesskey "l">
-<!ENTITY pageStylePersistentOnly.label "Aɣanib azadur n usebter">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -805,169 +249,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "r">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Beddel tanila n usebter">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Beddel taɣda n uḍris">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Nadi deg usebter-a…">
-<!ENTITY findOnCmd.accesskey "d">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Nadi ɣer zdat">
-<!ENTITY findAgainCmd.accesskey "d">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Rnu isegzawalen ...">
 <!ENTITY spellAddDictionaries.accesskey "n">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Immed">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Sken amaẓrag deg usekles">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "k">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Taɣellist n usmel">
-
-<!ENTITY identity.connection "Tuqqna">
-<!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
-<!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
-<!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
-<!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
-<!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
-<!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
-<!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
-<!ENTITY identity.customRoot "Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
-<!ENTITY identity.passiveLoaded "Kra n yiḥricen deg usebter-a mačči d iɣelsanen (am tugniwin).">
-<!ENTITY identity.activeLoaded "Tessenseḍ ammesten deg usebter-a.">
-<!ENTITY identity.weakEncryption "Asebter-a isseqdac awgelhen fessusen.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Tuqqna-inek ɣer usmel-a mačči d tusligt. Zemren wiyaḍ ad walin talɣut ara tazneḍ (am wawalen uffiren, iznan, atg.).">
-<!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqdac i d-tefkiḍ deg usebter-a mačči d taɣelsant u yezmer ad tettwaker.">
-<!ENTITY identity.description.weakCipher "Tuqqna-inek ɣeṛ usmel-a tesseqdac awgelhen fessusen u mačči d tusligt.">
-<!ENTITY identity.description.weakCipher2 "Zemren imdanen-nniḍen ad walin talɣut-ik neɣ ad beddlen tikli n usmel web.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; issewḥel kra n yiḥricen n usebter-a ur nelli ara d iɣelsanen.">
-<!ENTITY identity.description.passiveLoaded "Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a acku tuqqna-k mačči d tusligt.">
-<!ENTITY identity.description.passiveLoaded2 "Asmel-a isεa agbur araɣelsan (am tugniwin).">
-<!ENTITY identity.description.passiveLoaded3 "Ɣas akken &brandShortName; issewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan deg usebter (am tugniwin).">
-<!ENTITY identity.description.activeLoaded "Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.">
-<!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a (am wawalen uffiren, iznan, atg.).">
-<!ENTITY identity.description.customRoot "Mozilla ur teɛqil ara amazan-a n uselkin. Ahat yezmer yettwarn seg unagraw-ik n wammud neɣ anedbal.">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Sermed ammesten">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "R">
-<!ENTITY identity.disableMixedContentBlocking.label "Kkes ammesten i tura">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "K">
-<!ENTITY identity.learnMore "Issin ugar">
-
-<!ENTITY identity.removeCertException.label "Kkes tasureft">
-<!ENTITY identity.removeCertException.accesskey "K">
-
-<!ENTITY identity.moreInfoLinkText2 "Ugar n telɣut">
-
-<!ENTITY identity.clearSiteData "Sfeḍ inagan n tuqqna akked isefka n usme…">
-
-<!ENTITY identity.permissions "Tisirag">
-<!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
-<!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.">
-<!ENTITY identity.permissionsPreferences.tooltip "Ldi ismenyifen n tsirag">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Ldi ismenyifen n usewḥel n ugbur">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Accaren n yiminig">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Accaren yemtawin">
-
-<!ENTITY syncedTabs.sidebar.label              "Accaren yemtawin">
-
 <!ENTITY syncBrand.shortName.label    "Mtawi">
 
-<!ENTITY syncSignIn.label             "Kcem ɣer &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Mtawi tura">
-<!ENTITY syncSyncNowItemSyncing.label "Amtawi…">
-<!ENTITY syncSyncNowItem.accesskey    "M">
-<!ENTITY syncReAuthItem.label         "Qqen i tikelt-nniḍen ɣeṛ &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "Q">
-<!ENTITY syncToolbarButton.label      "Mtawi">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ffer s wudem awurman">
-
-<!ENTITY getUserMedia.selectCamera.label "Takamiṛat i beṭṭu:">
-<!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectMicrophone.label "Asawaḍ i beṭṭu:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "S">
-<!ENTITY getUserMedia.audioCapture.label "Ameslaw seg yiccer ad ittwabḍu.">
-<!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.">
-
-<!ENTITY contentBlocking.title "Asewḥel n ugbur">
-<!ENTITY contentBlocking.detected "Agbur izemren ad ittusewḥel yettwaf deg usmel-agi.">
-<!ENTITY contentBlocking.notDetected "Ulac agbur izemren ad ittusewḥel i ittwafen deg usebter-agi.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "Ineḍfaren">
-
-<!ENTITY contentBlocking.manageSettings.label "Sefrek Asewḥel n Ugbur">
-<!ENTITY contentBlocking.manageSettings.accesskey "S">
-
-<!ENTITY contentBlocking.trackersView.label "Ineḍfaren">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Akken ad tesweḥleḍ akk ineḍfaren, sbadu asewḥel n ugbur ɣer “Uḥris”.">
-
-<!ENTITY contentBlocking.cookies.label "Inagan n tuqqna">
-<!ENTITY contentBlocking.cookiesView.label "Inagan n tuqna akked isefka n usmel">
-
-<!ENTITY contentBlocking.cryptominers.label "Ikripṭuminaren">
-<!ENTITY contentBlocking.cryptominersView.label "Ikripṭuminaren">
-
-<!ENTITY contentBlocking.fingerprinters.label "Idsilen umḍinen">
-<!ENTITY contentBlocking.fingerprintersView.label "Idsilen umḍinen">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Azen-d ugur">
-<!ENTITY contentBlocking.breakageReportView.label "Azen-d uguren">
-<!ENTITY contentBlocking.breakageReportView2.description "Asewḥel n ugbur izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili &brandShortName; igerrez i yal yiwen. ( aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Issin ugar">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "D acu n wuguren i tesɛiḍ? (afrayan)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Azen aneqqis">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Sefsex">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Sens asewḥel n ugbur i yesmal-agi">
-<!ENTITY trackingProtection.unblock5.accesskey "Y">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Sens asewḥel kra n wakud kan">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "Ḥ">
-<!ENTITY trackingProtection.block6.label "Rmed asewḥel n ugbur i yesmal-agi">
-<!ENTITY trackingProtection.block6.accesskey "Ḥ">
-<!ENTITY trackingProtection.reload2.label "Smiren asebter">
-<!ENTITY trackingProtection.reload2.accesskey "R">
-
-<!ENTITY pluginNotification.showAll.label "Sken kullec">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Mdel">
@@ -976,38 +270,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Tunigin igerrzen!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tanemmirt!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Issin ugar ɣef DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "Sider lqem n &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Sider anɣel amaynut n &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Ur tezmireḍ ara ad tgeḍ aleqqem-nniḍen">
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "Iccer-ik amaynut ibeddel.">
-<!ENTITY newTabControlled.keepButton.label "Ḥrez abeddel">
-<!ENTITY newTabControlled.keepButton.accesskey "Ḥ">
-<!ENTITY newTabControlled.disableButton.label "Sens aseɣzif">
-<!ENTITY newTabControlled.disableButton.accesskey "D">
-
-<!ENTITY homepageControlled.message "Asiɣzef ibeddel asebter-ik agejdan. Tzemreḍ ad tbeddleḍ iɣewwaṛen ma yella ur teqbileḍ ara ibeddilen-agi.">
-
-<!ENTITY homepageControlled.header.message "Asebter-inek agejdan ibeddel.">
-<!ENTITY homepageControlled.keepButton.label "Ḥrez abeddel">
-<!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "Sens aseɣzif">
-<!ENTITY homepageControlled.disableButton.accesskey "D">
-
-<!ENTITY tabHideControlled.header.message "Kcem γer iccaren-inek ifren">
-<!ENTITY tabHideControlled.keepButton.label "Eǧǧ iccaren fren">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "Sens aseɣzif">
-<!ENTITY tabHideControlled.disableButton.accesskey "D">
-
-<!ENTITY pageActionButton.tooltip "Asebter n tigawin">
-<!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ yimedlis n tansa">
-<!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
-<!ENTITY pageAction.manageExtension.label "Sefrek aseɣzef…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n yibenkan…">
 

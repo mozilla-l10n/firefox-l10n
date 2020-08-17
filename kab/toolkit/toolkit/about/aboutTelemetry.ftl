@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Aɣbalu n isefka n Ping:
-about-telemetry-show-current-ping-data = Isefkan Ping amiran
 about-telemetry-show-current-data = Isefka imiranen
 about-telemetry-show-archived-ping-data = Isefka n Ping ittwaɣebṛen
 about-telemetry-show-subsession-data = Sken isefka n adtiɣimit
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Tilisγelt tettalqqaḍ { about-telemetry
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Yal aḥric seg iḥricen n telɣut ad ittwazen γer <a data-l10n-name="ping-link">ipingen</a>. Aql-ak tettwaliḍ aping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Yal aḥric seg iḥricen n telγut ad ittwazen γer <a data-l10n-name="ping-link">ipingen</a>. Aql-ak tettwaliḍ aping amiran.
 about-telemetry-data-details-current = Yal aḥric seg iḥricen n telγut ad ittwazen γer “<a data-l10n-name="ping-link">ipingen</a>“. Aql-ak tettwaliḍ ɣer yisefka imiranen.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Nesḥasef! Ulac igemmaḍ ula d yiwet n
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Nesḥasef! Ulac akka tura isefka i “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = aping amiran
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = Isefka imiranen
 # used in the “Ping Type” select

@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Err-d">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "E">
-<!ENTITY cutCmd.label "Gzem">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "G">
-<!ENTITY copyCmd.label "Nɣel">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "N">
-<!ENTITY pasteCmd.label "Senteḍ">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "Z">
@@ -90,10 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Agalis n yifuyla yeddan">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "f">
-<!ENTITY toggleAttachmentPaneCmd.key "f">
-<!ENTITY selectAllCmd.label "Fren Imaṛṛa">
 <!ENTITY selectAllCmd.accesskey "I">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Nadi…">
 <!ENTITY findBarCmd.accesskey "N">
 <!ENTITY findBarCmd.key "F">
@@ -248,23 +239,12 @@
 <!ENTITY printButton.tooltip "Siggez izen-agi">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Si:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Anawen-nniḍen n wurtan n tansiwin">
 <!ENTITY fromAddr2.label "Seg">
 <!ENTITY fromAddr.accesskey "S">
-<!ENTITY toAddr.label "I:">
-<!ENTITY ccAddr.label "Anɣ.I:">
-<!ENTITY bccAddr.label "Anɣ.Uff.I:">
-<!ENTITY replyAddr.label "Err-i:">
-<!ENTITY newsgroupsAddr.label "Agraw n isalen:">
-<!ENTITY followupAddr.label "Seḍfer-I:">
-<!ENTITY subject.label "Asentel:">
 <!ENTITY toAddr2.label "I">
 <!ENTITY ccAddr2.label "Anɣ.I">
 <!ENTITY bccAddr2.label "Anɣ.Uff.I">
@@ -273,14 +253,6 @@
 <!ENTITY followupAddr2.label "Seḍfer-I">
 <!ENTITY subject2.label "Asentel">
 <!ENTITY subject.accesskey "A">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "m">
-<!ENTITY attachmentBucketHeader.tooltip "Agalis n yifuyla yeddan">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ffer agalis n yifuyla yeddan">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

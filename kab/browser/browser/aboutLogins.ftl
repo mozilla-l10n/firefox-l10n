@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Yella di Google Play
 login-app-promo-apple =
     .alt = Sader si App Store
+
 login-filter =
     .placeholder = Nadi inekcam
+
 create-login-button = Rnu anekcum amaynut
+
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
 fxaccounts-sign-in-button = Qqen ɣer { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Tettnadiḍ inekcam-ik yettwaskelsen? Swel { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Tettnadiḍ inekcam-ik/im yettwaskelsen? Swel { -sync-brand-short-name } neɣ kter-iten-id.
 about-logins-login-intro-heading-logged-in = Ulac inekcam yemtawin i yettwafen.
 login-intro-description = Ma teskelseḍ inekcam-ik deg { -brand-product-name } ɣef ddeqs n yibenkan, a-t-an amek ara tkecmeḍ ɣur-sen.
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Rnu neɣ qqen ɣer { -fxaccount-brand-name } inek 
 login-intro-instruction-fxa-settings = Ḍmed d akken trecmeḍ inekcam-ik deg yiɣewwaṛen n { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Rzu ɣer <a data-l10n-name="help-link"> tallelt n { -lockwise-brand-short-name }</a> i wugar n yisallen.
 about-logins-intro-import = Ma yella tuqqna-inek tettwasekles deg yiminig-nniḍen, tzemreḍ <a data-l10n-name="import-link"> ad ten-id-ktereḍ seg { -lockwise-brand-short-name }
+
 about-logins-intro-import2 = Ma yella inekcam-ik/im ttwaskelsen beṛṛa n { -brand-product-name }, tzemreḍ <a data-l10n-name="import-browser-link"> ad ten-id-tketreḍ seg yiminig-nniḍen</a> neɣ <a data-l10n-name="import-file-link">seg ufaylu</a>
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Akken ad tbeddleḍ anekcam
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ẓreg isem n useqdac yettwaskelsen
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Akken ad twaliḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = beggen-d awal-inek uffir yettwaskelsen
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Akken ad d-tneɣleḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad iεiwen deg ummesten n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Nɣel awal-inek uffir yettwaskelsen
+
+## Master Password notification
+
+master-password-notification-message = Ma ulac aɣilif, sekcem awal uffir agejdan akken ad twaliḍ inekcam d wawalen uffiren yettwaskelsen
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Akken ad tketreḍ inekcam-inek/inem, sekcem anekcum-inek/inem n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Akter n yinekcam d wawalen uffiren yettwasekles
-
-## Master Password notification
-
-master-password-notification-message = Ma ulac aɣilif, sekcem awal uffir agejdan akken ad twaliḍ inekcam d wawalen uffiren yettwaskelsen
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Sefsex
 confirmation-dialog-dismiss-button =
     .title = Sefsex
+
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
+
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
+
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
 confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
 confirm-discard-changes-dialog-confirm-button = Kkes
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Issin ugar
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Anekcum i { $loginTitle } s yisem-a yella yakan.<a data-l10n-name="duplicate-link"> Ddu ɣer unekcum yellan?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Teḍra-d tuccḍa deg uɛraḍ n usekles n wawal-a uffir.
+
 
 ## Login Export Dialog
 

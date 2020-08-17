@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (d aqbur)
 compatibility-issue-experimental = (armitan)
 compatibility-issue-prefixneeded = (uzwir yettusra)
 compatibility-issue-deprecated-experimental = (d aqbur, d armitan)
+
 compatibility-issue-deprecated-prefixneeded = (d aqbur, uzwir yettusra)
 compatibility-issue-experimental-prefixneeded = (d armitan, uzwir yettusra)
 compatibility-issue-deprecated-experimental-prefixneeded = (d aqbur, d armitan, uzwir yettusra)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } timeḍriwt
        *[other] { $number } timeḍriwin
     }
+
 compatibility-no-issues-found = Ulac uguren n mṣada yettwafen.
 compatibility-close-settings-button =
     .title = Mdel iɣewwaren

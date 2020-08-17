@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "iznan">
 <!ENTITY alwaysAuthenticate.label "Sutur yal tiklet asesteb ticki teqqneḍ ɣer uqeddac">
 <!ENTITY alwaysAuthenticate.accesskey "y">
-<!ENTITY newsrcFilePath.label "afaylu newsrc:">
-<!ENTITY newsrcPicker.label "Fren afaylu newsrc">
 <!ENTITY newsrcFilePath1.label "Afaylu News.rc:">
 <!ENTITY newsrcPicker1.label "Fren afaylu News.rc">
 <!ENTITY abbreviate.label "Sken agraw n isalen deg ugalis n ukaram n tirawt am:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Leqqayen…">
 <!ENTITY advancedButton.accesskey "q">
 <!ENTITY serverDefaultCharset2.label "Asettengel n uḍris amezwer:">
-<!ENTITY localPath.label "Akaram adigan:">
 <!ENTITY localPath1.label "Akaram adigan:">
 <!ENTITY localFolderPicker.label "Fren akaram adigan">
 <!ENTITY browseFolder.label "Ḍum…">

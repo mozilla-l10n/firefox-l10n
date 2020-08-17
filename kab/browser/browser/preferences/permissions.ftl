@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Ma ulac aɣilif, sekcem isem n usenneftaɣ ameɣ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Tisuraf - Asewḥel n ugbur
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Tsenseḍ asewḥel n ugbur i yesmal-agi.
-
 permissions-exceptions-etp-window =
     .title = Tisuraf i ummesten yettwaseǧhed mgal aḍfaṛ
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧǧeḍ ad sbedden izegrar. Sekcem tansa n usmel tebɣiḍ ad teǧǧeḍ u sit ɣef Sireg.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Tisuraf - Taɣuri tawurmant
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Tzemreḍ ad d-tmuddeḍ ismal web yellan yal tikkelt neɣ werǧin llan seqdacen taɣuri tawurmant n wallalen n teγwalt s imesli.  Mudd-d tansa n usmel u sit ɣef Sewḥel neɣ Sireg.
 
 ## Site Permissions - Autoplay
 
