@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Qoʻshimcha dasturlarni <image data-l10n-na
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu kengaytmani Maxfiy oynalarda ishga tushishiga ruxsat berish
     .accesskey = r
-appmenu-addon-private-browsing =
-    .label = Kengaytmalarni maxfiy oynalarda ishlaydigan qilish
-    .buttonlabel = Kengaytmalarni boshqarish
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Yaxshi, tushundim
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = { -brand-shorter-name }ga qoʻshilgan har qanday kengaytma Maxfiy oynalarda ishlamaydi. Ishlashi uchun sozlamalar orqali ruxsat bering.
-appmenu-addon-private-browsing-learn-more = Kengaytmalar sozlamalarini boshqarish haqida batafsil
     
 appmenu-new-tab-controlled =
     .label = Yangi varaq oʻzgardi.

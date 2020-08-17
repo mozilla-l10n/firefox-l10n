@@ -35,7 +35,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Yozishmalar ro‘yxatiga javob qaytarish">
 <!ENTITY hdrFollowupButton1.label "Kuzatib borish">
 <!ENTITY hdrFollowupButton1.tooltip "Ushbu yangiliklar to‘plamiga kuzatib borish uchun xabar yozish">
-<!ENTITY hdrMenuForwardButton.label "Yo‘naltirish">
 <!ENTITY hdrForwardButton1.label "Yo‘naltirish">
 <!ENTITY hdrForwardButton1.tooltip "Ushbu xabarni yo‘naltirish">
 <!ENTITY hdrJunkButton1.label "Spam">

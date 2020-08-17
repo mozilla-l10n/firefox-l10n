@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "Ismingiz:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Ismingiz va familiyangiz">
 <!ENTITY name.text                       "Ismingiz (boshqalarga ko‘rinadigan)">
 <!ENTITY email.label                     "E-pochta manzili:">
 <!ENTITY email.accesskey                 "l">
@@ -21,9 +20,6 @@
 <!ENTITY incoming.label                  "Kiruvchi:">
 <!ENTITY outgoing.label                  "Chiquvchi:">
 <!ENTITY username.label                  "Foydalanuvchi nomi:">
-<!ENTITY hostname.label                  "Server hosti nomi">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Tasdiqdan o‘tkazish">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
@@ -49,8 +45,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Qayta sinash">
 <!ENTITY half-manual-test.accesskey      "s">
-<!ENTITY manual-edit.label               "Qo‘lbola moslash">
-<!ENTITY manual-edit.accesskey           "Q">
 
 
 <!ENTITY warning.label                   "Diqqat!">

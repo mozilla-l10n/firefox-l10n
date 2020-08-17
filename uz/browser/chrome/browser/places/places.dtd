@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Faylni tanlash">
 <!ENTITY cmd.restoreFromFile.accesskey  "t">
 
-<!ENTITY cmd.deleteDomainData.label     "Bu saytni unutish">
-<!ENTITY cmd.deleteDomainData.accesskey "u">
-
-<!ENTITY cmd.open.label                  "Ochish">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Yangi oynada ochish">
-<!ENTITY cmd.open_window.accesskey       "Y">
-<!ENTITY cmd.open_private_window.label     "Linkni yangi maxfiy oynada ochish">
-<!ENTITY cmd.open_private_window.accesskey "m">
-<!ENTITY cmd.open_tab.label              "Yangi varaqda ochish">
-<!ENTITY cmd.open_tab.accesskey          "n">
-<!ENTITY cmd.open_all_in_tabs.label      "Barchasini varaqlarda ochish">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Xossalari">
-<!ENTITY cmd.properties.accesskey  "r">
-
-<!ENTITY cmd.sortby_name.label              "Nomi boʻyicha saralash">
-<!ENTITY cmd.sortby_name.accesskey          "s">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Yangi xatchoʻp">
-<!ENTITY cmd.new_bookmark.accesskey        "x">
-<!ENTITY cmd.new_folder.label              "Yangi jild">
-<!ENTITY cmd.new_folder.accesskey          "j">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Yangi ajratgich">
-<!ENTITY cmd.new_separator.accesskey       "a">
-
 <!ENTITY col.name.label          "Nomi">
 <!ENTITY col.tags.label          "Teglar">
 <!ENTITY col.url.label           "Manzili">
@@ -91,15 +62,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Koʻrish uchun bandni tanlang va xossalarini oʻzgartiring">
 
-<!ENTITY view.label               "Koʻrinishi">
-<!ENTITY view.accesskey           "i">
-<!ENTITY byDate.label             "Sana boʻyicha">
-<!ENTITY byDate.accesskey         "S">
-<!ENTITY bySite.label             "Sayt boʻyicha">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Koʻp kirilganligi boʻyicha">
-<!ENTITY byMostVisited.accesskey  "K">
-<!ENTITY byLastVisited.label      "Soʻnggi kirilgani boʻyicha">
-<!ENTITY byLastVisited.accesskey  "S">
-<!ENTITY byDayAndSite.label       "Sana va sayt boʻyicha">
-<!ENTITY byDayAndSite.accesskey   "S">

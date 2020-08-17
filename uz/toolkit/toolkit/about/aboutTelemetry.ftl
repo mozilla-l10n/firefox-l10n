@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping ma’lumotlar markazi:
-about-telemetry-show-current-ping-data = Joriy ping ma’lumotlari
 about-telemetry-show-archived-ping-data = Arxivlangan ping ma’lumotlari
 about-telemetry-show-subsession-data = Quyi seans ma’lumotlarini ko‘rsatish
 about-telemetry-choose-ping = Ping’ni tanlash:

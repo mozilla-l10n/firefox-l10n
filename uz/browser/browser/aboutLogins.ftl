@@ -73,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Saqlangan parollaringizni qidiryapsizmi? { -sync-brand-short-name }ni sozlang.
+
 about-logins-login-intro-heading-logged-in = Sinxronlangan loginlar topilmadi
 login-intro-description = Loginlaringizni boshqa qurilmadagi { -brand-product-name } brauzeriga saqlagan boʻlsangiz, ularni olish haqida bu yerdan maʼlumot olish mumkin:
 login-intro-instruction-fxa = Yangi hisob yarating yoki loginlaringiz saqlangan qurilmadagi { -fxaccount-brand-name } hisobiga kiring
@@ -128,6 +129,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = saqlangan paroldan nu
 ## Master Password notification
 
 master-password-notification-message = Saqlangan login va parollarni koʻrish uchun parol ustasiga kiring
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Kirish
     .accesskey = K
@@ -196,4 +200,6 @@ about-logins-error-message-default = Bu parolni saqlashda xatolik yuz berdi.
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

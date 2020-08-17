@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Butun ekrandan chiqish
 find = Topish
 new-tab = Yangi varaq
 add-bookmark = Xatchoʻp qoʻshish
-open-bookmarks-sidebar = Xatchoʻplar yon panelini ochish
 reader-view = Oʻqish rejimi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Izlang yoki manzilni kiriting

@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>So‘ralgan hujjat &brandShortName; keshida mavjud emas.</p><ul><li>Xavfsizlik sabablariga ko‘ra, &brandShortName; maxfiy hujjatlarni avtomatik qayta so‘ramaydi.</li><li>Hujjatni saytdan qayta so‘rash uchun &quot;Yana urinib ko‘rish&quot;ni bosing.</li></ul>">
 
 <!ENTITY netOffline.title "Oflayn usuli">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Yana urinib ko‘ring. &brandShortName; ulanishni ochishga va sahifani yangilashga urinib ko‘radi. <button id='wifi'>Wi-Fi’ni yoqish</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Kontentni kodlashda xato">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li> </ul>">

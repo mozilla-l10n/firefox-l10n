@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Yangi oynaga ko‘chirish
     .accesskey = y
-undo-close-tab =
-    .label = Yopilgan varaqni qaytarish
-    .accesskey = q
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Varaqni yopish
     .accesskey = y

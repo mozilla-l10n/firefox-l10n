@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Amalni qaytarish">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "q">
-<!ENTITY cutCmd.label "Kesish">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Nusxa olish">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "N">
-<!ENTITY pasteCmd.label "Qo‘yish">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "Q">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "j">
@@ -85,9 +79,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Biriktirma nomini o‘zgartirish…">
 <!ENTITY renameAttachmentCmd.accesskey "n">
-<!ENTITY selectAllCmd.label "Barchasini tanlash">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Topish…">
 <!ENTITY findBarCmd.accesskey "T">
 <!ENTITY findBarCmd.key "F">
@@ -224,20 +216,8 @@
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Jo‘natuvchi:">
 <!ENTITY fromAddr.accesskey "J">
-<!ENTITY toAddr.label "Qabul qiluvchi:">
-<!ENTITY ccAddr.label "Nusxasi">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Jo‘natuvchiga javob yozish">
-<!ENTITY newsgroupsAddr.label "Yangiliklar to‘plami">
-<!ENTITY followupAddr.label "Jo‘natuvchini kuzatib borish:">
-<!ENTITY subject.label "Mavzu:">
 <!ENTITY subject.accesskey "M">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "m">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Smayl kiritish">

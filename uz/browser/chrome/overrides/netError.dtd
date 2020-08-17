@@ -11,25 +11,15 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Ulana olmadi">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Bu manzil cheklangan">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY fileNotFound.title "Fayl topilmadi">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Fayl nomlarining katta-kichik harfdaligi yoki matndagi boshqa xatolarini tekshiring.</li> <li>Fayl o‘chirilgan, nomi o‘zgargan yoki ko‘chirilgan bo‘lishi mumkin.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Fayldan foydalanishga ruxsat berilmadi">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>O‘chirib tashlangan, ko‘chirilgan yoki foydalanishga ruxsat berilmagan bo‘lishi mumkin.</li> </ul>">
-
-<!ENTITY generic.title "Obbo.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani ba’zi sabablarga ko‘ra yuklay olmadi.</p>">
 
@@ -40,55 +30,29 @@
 
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY netInterrupt.title "Aloqa uzilib qoldi">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Hujjat mavjud emas">
 
 <!ENTITY notCached.longDesc "<p>So‘ralgan hujjat &brandShortName;’ning keshida mavjud emas.</p><ul><li>Xavfsizlik sabablariga ko‘ra, &brandShortName; maxfiy hujjatlarni avtomatik qayta so‘ramaydi.</li><li>Hujjatni saytdan qayta so‘rash uchun &quot;Yana urinib ko‘ring&quot;ni bosing.</li></ul>">
 
-<!ENTITY netOffline.title "Oflayn usuli">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Onlayn usuliga o‘tish va sahifani qayta yuklash uchun &quot;Yana urinib ko‘rish&quot;ni bosing.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Kontentni kodlashda xato">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ushbu muammo haqida xabar berish uchun vebsahifa egasi bilan bog‘laning.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Xavfli fayl turi">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Ushbu muammo haqida xabar berish uchun vebsahifa egasi bilan bog‘laning.</li> </ul>">
-
-<!ENTITY netReset.title "Ulanish uzilib qolgan">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Ulanish vaqti o‘tib ketdi">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Manzil tushunilmadi">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ushbu manzilni ochish uchun boshqa dasturni o‘rnatishingiz kerak.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Proksi server ulanishlarni rad qilmoqda">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Proksi moslamalari to‘g‘ri ekanligini tekshirib ko‘ring.</li> <li>Proksi server ishlayotganligiga ishonch hosil qilish uchun tarmoq administratori bilan bog‘laning.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Proksi server topilmadi">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Proksining to‘g‘ri moslanganligini tekshirib ko‘ring.</li> <li>Kompyuteringizning tarmoqqa ulanganligini tekshirib ko‘ring.</li> <li>Agar kompyuteringiz yoki tarmog‘ingiz fayervol yoki proksi bilan himoyalanganbo‘lsa, &brandShortName;ning internetga kirishi cheklanmaganligini tekshirib ko‘ring.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmagan">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ushbu muammo ba’zida kukilarni o‘chirilishiga yoki rozilikni rad qilinishiga sabab bo‘lishi mumkin.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Serverdan kutilmagan javob">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Shaxsiy xavfsizlik boshqaruvchisi (PSM) tizimingizda o‘rnatilganligini tekshirib ko‘ring.</li> <li>Bu serveringizning nostandart moslanganligidan ham bo‘lishi mumkin.</li> </ul>">
-
-<!ENTITY nssFailure2.title "Xavfsiz ulanib bo‘lmadi">
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Siz ko‘rmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki olingan fayllar tasdiqdan o‘tmagan.</li> <li>Ushbu muammo haqida xabar berish uchun vebsahifa egasi bilan bog‘laning.</li> </ul>">
 
@@ -104,13 +68,9 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Bu sayt vaqtinchalik ishlamayotgan yoki juda band boʻlishi mumkin. Birozdan soʻng urinib ko‘ring.</li> <li>Agar birorta ham sahifa yuklanmasa, kompyuteringizni tarmoqqa ulanishini tekshirib ko‘ring.</li> <li>Agar kompyuter yoki tarmogʻingiz fayervol yoki proksi bilan himoyalangan boʻlsa, &brandShortName;ning internetga kirishi cheklanmaganligini tekshirib koʻring.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan bloklangan">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
 
 
-
-<!ENTITY corruptedContentErrorv2.title "Buzilgan kontent xatosi">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Siz ko‘rmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki ma’lumotlarni uzatishda xato aniqlandi.</p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li></ul>">
 
@@ -118,19 +78,13 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Shu kabi xatolik hisobotlari Mozillaga zararli saytlarni aniqlash va bloklashda yordam beradi">
 <!ENTITY errorReporting.learnMore "Ko‘proq o‘rganish…">
 
-<!ENTITY remoteXUL.title "Masofadagi XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Xavfsiz ulanish amalga oshmadi">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Qo‘shimcha ma’lumot: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.copyToClipboard.label "Matndan vaqtinchalik xotiraga nusxa olish">
-
-<!ENTITY inadequateSecurityError.title "Ulanish xavfsiz emas">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

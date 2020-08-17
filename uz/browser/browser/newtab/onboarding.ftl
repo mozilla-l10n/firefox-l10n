@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Batafsil
-onboarding-button-label-try-now = Sinab koʻring
 onboarding-button-label-get-started = Boshlash
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = { -brand-short-name }ga xush kelibsiz
 onboarding-welcome-body = Endi brauzeringiz bor.<br/>{ -brand-product-name } bilan yaqindan tanishing.
 onboarding-welcome-learn-more = Yutuqlari haqida batafsil maʼlumot oling.
 
-onboarding-join-form-header = { -brand-product-name } hamjamiyatiga qoʻshiling
 onboarding-welcome-modal-get-body = Endi brauzeringiz bor.<br/>{ -brand-product-name }dan samarali foydalaning.
 onboarding-welcome-modal-supercharge-body = Maxfiyligingiz himoyasini “qayta quvvatlang”.
 onboarding-welcome-modal-privacy-body = Brauzeringiz bor. Endi unga maxfiylik himoyasini qoʻshamiz.
@@ -46,6 +44,13 @@ onboarding-start-browsing-button-label = Koʻrishni boshlash
 onboarding-cards-dismiss =
     .title = Yopish
     .aria-label = Yopish
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -74,14 +79,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name } bilan ishlashda davom eti
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Foydali mahsulotlar
-
 onboarding-benefit-products-text = Barcha qurilmalarda maxfiyligingizni taʼminlovchi vositalar oilasidan foydalaning.
-
-onboarding-benefit-knowledge-title = Amaliy bilim
-onboarding-benefit-knowledge-text = Onlayn xavfsiz va hushyor boʻlish uchun kerakli bilimlarni oling.
-
-onboarding-benefit-privacy-title = Haqiqiy maxfiylik
 
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -108,22 +106,6 @@ onboarding-benefit-lockwise-text = Himoyalangan va koʻchma parollarni boshqaris
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Maxfiy ko‘rish
-onboarding-private-browsing-text = Internetdan faqat o‘zingiz uchun foydalaning. "Kontentni bloklash" funksiyasi bilan maxfiy ko‘rish rejimida sizni onlayn kuzatishi mumkin bo‘lgan kuzatuvchilarni bloklay olasiz.
-
-onboarding-screenshots-title = Skrinshotlar
-onboarding-screenshots-text = { -brand-short-name }dan chiqmasdan skrinshotlar oling, saqlang va ulashing. Xohlaganingizdek butun sahifa yoki bir qismini rasmga olishingiz mumkin. Keyin esa foydalanish va ulashish oson bo‘lishi uchun internetga saqlashingiz mumkin.
-
-onboarding-addons-title = Qo‘shimcha dasturlar
-onboarding-addons-text = { -brand-short-name } siz uchun yanada qattiqroq ishlashi uchun yana funksiyalar qo‘shing. Narxlarni solishtirish, ob-havoni tekshirish yoki turli mavzular o‘rnatish kabi imkoniyatini taqdim etadi.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Ghostery kabi kengaytmalar bilan internetda tezroq, oson va xavfsiz ishlash mumkin. U bilan asabga teguvchi reklamalarni bloklash mumkin.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sinxronizatsiya
-onboarding-fxa-text = { -fxaccount-brand-name } uchun roʻyxatdan oʻting va xatchoʻp, parol va ochiq varaqlardan { -brand-short-name } orqali foydalaning.
-
 onboarding-tracking-protection-title2 = Kuzatuvdan himoya
 onboarding-tracking-protection-text2 = { -brand-short-name } syatlarning faoliyatingizni onlayn kuzatishlarini toʻxtatishda yordam beradi, internetda sizni kuzatuvchi reklamalar chiqishini qiyinlashtiradi.
 onboarding-tracking-protection-button2 = U qanday ishlaydi
@@ -134,7 +116,6 @@ onboarding-data-sync-text2 = Xatchoʻp va parol kabilardan istalgan yerda { -bra
 onboarding-data-sync-button2 = { -sync-brand-short-name } hisobiga kirish
 
 onboarding-firefox-monitor-title = Maʼlumotlar sizishi haqidagi bildirishnomaga yozilish
-onboarding-firefox-monitor-text = { -monitor-brand-name } email manzilingizda maʼlumotlar sizishi mavjud yoki yoʻqligini nazorat qiladi, agar aniqlansa, sizga xabar beradi.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } email manzilingizda maʼlumotlar sizishi mavjud yoki yoʻqligini nazorat qiladi, agar aniqlansa, sizga xabar beradi.
 onboarding-firefox-monitor-button = Bildirishnomalar uchun yozilish
 
@@ -155,19 +136,12 @@ onboarding-mobile-phone-button = Mobil brauzerni yuklab olish
 onboarding-send-tabs-title = Varaqlarni osoniga oʻzingizga joʻnating
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Send Tabs funksiyasi yordamida sahifalarni barcha qurilmalaringizga osongina yuborish mumkin. Nusxa olish, joylash va brauzerdan chiqish shart boʻlmaydi.
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
 onboarding-send-tabs-text2 = Sahifalarni barcha qurilmalaringizga osongina yuboring. Nusxa olish va brauzerdan chiqish shart emas.
 onboarding-send-tabs-button = Varaqlarni yuborishni boshlang
 
 onboarding-pocket-anywhere-title = Istalgan joyda oʻqing va tinglang
 onboarding-pocket-anywhere-text2 = Sevimli maqolalaringizni { -pocket-brand-name } yordamida saqlab qoʻying. Istalgan vaqtda internetga kirmasdan uni oʻqish, tinglash va koʻrishingiz mumkin.
 onboarding-pocket-anywhere-button = { -pocket-brand-name }ni ishlatib koʻrish
-
-onboarding-lockwise-passwords-title = Parollaringizdan istalgan yerda foydalaning
-onboarding-lockwise-passwords-text2 = Parollaringizni maxfiy saqlang va { -lockwise-brand-name } yordamida hisoblaringizga osongina kiring.
-onboarding-lockwise-passwords-button2 = Ilovani yuklab olish
 
 onboarding-lockwise-strong-passwords-title = Ishonchli parollar yarating va saqlang
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ishonchli parollar yaratadi va ularni bir joyda saqlaydi.

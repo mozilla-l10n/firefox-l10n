@@ -21,8 +21,6 @@ abuse-report-learnmore =
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-settings-reason = Qidiruv tizimi, bosh sahifa va yangi varaqlarni mendan soʻramasdan va menga xabar bermay oʻzgartiryapti
-
 abuse-report-settings-reason-v2 = Qidiruv tizimi, bosh sahifa va yangi varaqlarni mendan soʻramasdan va menga xabar bermay oʻzgartiryapti
 abuse-report-settings-suggestions-search = Qidiruv tizimi sozlamalari standart holat boʻyicha oʻzgaryapti
 

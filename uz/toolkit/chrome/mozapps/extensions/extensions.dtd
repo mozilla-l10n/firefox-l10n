@@ -12,31 +12,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Yoqish">
-<!ENTITY cmd.enableAddon.accesskey            "Y">
-<!ENTITY cmd.disableAddon.label               "Oʻchirish">
-<!ENTITY cmd.disableAddon.accesskey           "O">
-
-<!ENTITY cmd.askToActivate.label              "Faollashtirish uchun soʻralsin">
-<!ENTITY cmd.askToActivate.tooltip            "Doimo ushbu q-cha dasturdan foydalanish soʻralsin">
-<!ENTITY cmd.alwaysActivate.label             "Doimo faollashtirilsin">
-<!ENTITY cmd.alwaysActivate.tooltip           "Ushbu q-cha dasturdan doimo foydalanilsin">
-<!ENTITY cmd.neverActivate.label              "Hech qachon faollashtirilmasin">
-<!ENTITY cmd.neverActivate.tooltip            "Ushbu q-cha dasturdan hech qachon foydalanilmasin">
-<!ENTITY cmd.stateMenu.tooltip                "Ushbu q-cha dastur ishlga tushirilganda oʻzgartirilsin">
-
-<!ENTITY cmd.uninstallAddon.label             "Oʻchirish">
-<!ENTITY cmd.uninstallAddon.accesskey         "O">
-<!ENTITY cmd.showPreferencesWin.label         "Moslamalar">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish">
-<!ENTITY cmd.showPreferencesUnix.label        "Moslamalar">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish">
-
-<!ENTITY cmd.showReleaseNotes.label           "Relez eslatmalarini koʻrsatish">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Ushbu yangilanish uchun relez eslatmalarini koʻrsatish">
-<!ENTITY cmd.hideReleaseNotes.label           "Relez eslatmalarini yashirish">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ushbu yangilanishlar uchun relez eslatmalarini yashirish">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -48,44 +23,13 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Bekor qilish">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Koʻproq">
-<!ENTITY addon.details.tooltip                "Ushbu qoʻshimcha dastur haqida koʻproq ma`lumotlarni koʻrsat">
-<!ENTITY addon.unknownDate                    "Noma`lum">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(oʻchirilgan)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Yangilash">
-<!ENTITY addon.undoAction.label               "Bekor qilish">
-<!ENTITY addon.undoAction.tooltip             "Ushbu amalni bekor qilish">
-<!ENTITY addon.undoRemove.label               "Bekor qilish">
-<!ENTITY addon.undoRemove.tooltip             "Ushbu qoʻshimcha dasturni oʻrnatilgan holda saqlash">
 
-<!ENTITY addon.install.label                  "Oʻrnatish">
-<!ENTITY addon.install.tooltip                "Bu qoʻshimcha dasturni oʻrnatish">
-<!ENTITY addon.updateNow.label                "Hozir yangilash">
-<!ENTITY addon.updateNow.tooltip              "Ushbu qoʻshimcha dastur uchun yangilanishni oʻrnatish">
-<!ENTITY addon.includeUpdate.label            "Yangilanishga qoʻshilgan">
-<!ENTITY addon.updateAvailable.label          "Yangilanish mavjud">
-<!ENTITY addon.checkingForUpdates.label       "Yangilanishlar uchun tekshirlmoqda...">
-<!ENTITY addon.releaseNotes.label             "Relez eslatmalari">
-<!ENTITY addon.loadingReleaseNotes.label      "Yuklanmoqda...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Kechirasiz, relez eslatmalari yuklanayotganda xato yuz berdi.">
-
-<!ENTITY addon.createdBy.label                "tomonidan:">
-
-<!ENTITY settings.path.button.label           "Koʻrish">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

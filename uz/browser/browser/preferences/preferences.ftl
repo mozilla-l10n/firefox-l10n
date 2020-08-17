@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Doimo
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Moslamalar
-           *[other] Moslamalar
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Moslamalar
@@ -386,10 +379,6 @@ update-application-use-service =
     .label = Yangilanishlarni oʻrnatish uchun orqa fon xizmatidan foydalanish
     .accesskey = o
 
-update-enable-search-update =
-    .label = Qidiruv tizimlarini avtomatik yangilasin
-    .accesskey = e
-
 update-in-progress-ok-button = &Rad etish
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -530,7 +519,6 @@ home-prefs-topsites-description = Tez-tez tashrif buyuradigan saytlaringiz
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } tomonidan tavsiya qilingan
-home-prefs-recommended-by-description = Siz uchun moslangan internetdagi ajoyib kontent
 ##
 
 
@@ -573,7 +561,6 @@ search-bar-shown =
     .label = Asboblar paneliga qidiruv panelini qo‘shish
 
 search-engine-default-header = Standart qidiruv tizimi
-search-engine-default-desc = Manzil va qidiruv panelida foydalanish uchun asosiy qidiruv tizimini tanlang.
 
 search-engine-default-desc-2 = Bu manzil va qidiruv panelida chiqadigan standart qidiruv tizimi. Xohlagan vaqtingizda uni oʻzgartirishingiz mumkin.
 search-engine-default-private-desc-2 = Faqat Maxfiy oyanalarda ishlatiladigan boshqa standart qidiruv tizimini tanlang
@@ -602,8 +589,6 @@ search-show-suggestions-above-history-option =
 
 search-show-suggestions-private-windows =
     .label = Qidiruv tavsiyalarini Maxfiy oynalarda koʻrsatish
-
-suggestions-addressbar-settings = Brauzer tarixi, xatchoʻp va varaqlar takliflari sozlamalrini oʻzgartirish
 
 search-suggestions-cant-show = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
 
@@ -636,8 +621,6 @@ search-keyword-warning-bookmark = Xatcho‘pda foydalaniladigan kalit so‘zni t
 
 ## Containers Section
 
-containers-back-link = « Orqaga qaytish
-
 containers-back-button =
     .aria-label =
         { PLATFORM() ->
@@ -663,14 +646,6 @@ containers-remove-button =
 sync-signedout-caption = Internet doim siz bilan birga
 sync-signedout-description = Xatcho‘plar, tarix, tablar, parollar, qo‘shimcha dasturlar va boshqa parametrlarni barcha qurilmalar aro sinxronlang.
 
-sync-signedout-account-title = { -fxaccount-brand-name } bilan ulanish
-sync-signedout-account-create = Hisobingiz yo‘qmi? Unda
-    .accesskey = s
-
-sync-signedout-account-signin =
-    .label = Kirish
-    .accesskey = i
-
 sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name } hisobiga kirish…
     .accesskey = i
@@ -693,10 +668,6 @@ sync-mobile-promo = Firefox brauzerini mobil qurilmangiz bilan sinxronlash uchun
 sync-profile-picture =
     .tooltiptext = Profil rasmini o‘zgartirish
 
-sync-disconnect =
-    .label = Uzish
-    .accesskey = U
-
 sync-sign-out =
     .label = Chiqish…
     .accesskey = C
@@ -718,9 +689,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Kirish
     .accesskey = K
-
-sync-signedin-settings-header = Sinxronizatsiya moslamalari
-sync-signedin-settings-desc = Qurilmangizda { -brand-short-name }dan foydalanib nimalarni sinxronlashni tanlang.
 
 ## Sync section - enabling or disabling sync.
 
@@ -749,11 +717,6 @@ sync-engine-tabs =
     .label = Ochiq varaqlar
     .tooltiptext = Barcha sinxronlangan qurilmalardagi ochiq ichki oynalar ro‘yxati
     .accesskey = O
-
-sync-engine-logins =
-    .label = Login ma’lumotlari
-    .tooltiptext = Siz saqlagan taxallus va parollar
-    .accesskey = L
 
 sync-engine-addresses =
     .label = Manzillar
@@ -795,10 +758,6 @@ sync-device-name-save =
     .label = Saqlash
     .accesskey = S
 
-sync-tos-link = Xizmat shartlari
-
-sync-fxa-privacy-notice = Maxfiylik ogohlantirishlari
-
 ## Privacy Section
 
 privacy-header = Brauzer maxfiyligi
@@ -827,6 +786,7 @@ forms-master-pw-change =
     .accesskey = u
 
 forms-master-pw-fips-title = Siz hozirda FIPS usulidasiz. FIPS boʻsh boʻlmagan master maxfiy soʻzni talab qiladi.
+
 forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
 
 ## OS Authentication dialog
@@ -1039,6 +999,8 @@ certs-view =
 certs-devices =
     .label = Xavfsizlik qurilmalari
     .accesskey = X
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

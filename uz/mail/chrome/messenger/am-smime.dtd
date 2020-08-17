@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Xavfsizlik">
-<!ENTITY securityTab.label "Xavfsizlik">
-<!ENTITY securityHeading.label "Imzo qo‘yilgan va shifrlangan xabarlarni jo‘natish va qabul qilish uchun raqamli imzo sertifikati va shifrlash sertifikatini taqdim qilishingiz lozim.">
-<!ENTITY encryptionGroupTitle.label "Shifrlash">
-<!ENTITY encryptionChoiceLabel.label "Xabarlar jo‘natilayotganda asosiy shifrlash sozlamasi:">
-<!ENTITY neverEncrypt.label "Hech qachon (shifrlashdan foydalanilmasin)">
-<!ENTITY neverEncrypt.accesskey "H">
-<!ENTITY alwaysEncryptMessage.label "Majburiy (barcha qabul qiluvchilarda sertifikat bo‘lmasa xabarni jo‘natib bo‘lmaydi)">
-<!ENTITY alwaysEncryptMessage.accesskey "M">
-<!ENTITY encryptionCert.message "Bu sertifikatdan sizga jo‘natilgan xabarlarni shifrlash va shifrdan chiqarish uchun foydalaning:">
-
 <!ENTITY digitalSign.certificate.button "Tanlash…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Tozalash">
@@ -22,15 +11,8 @@
 <!ENTITY encryption.certificate_clear.button "Tozalash">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Raqamli imzo">
-<!ENTITY signMessage.label "Raqamli imzo xabarlari (standart holi bo‘yicha)">
 <!ENTITY signMessage.accesskey "R">
-<!ENTITY signingCert.message "Bu sertifikatdan siz jo‘natadigan xabarlarga imzo qo‘yishda foydalanish:">
 
-<!ENTITY certificates.label "Sertifikatlar">
-<!ENTITY manageCerts2.label "Sertifikatlarni boshqarish">
-<!ENTITY manageCerts2.accesskey "b">
-<!ENTITY manageDevices.label "Xavfsizlik qurilmalari">
-<!ENTITY manageDevices.accesskey "q">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Sertifikatlarni tanlash">

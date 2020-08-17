@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Moslamalar, xatchoʻplar, tarix, parollar va boshqa ma`lumotlarni ushbu brauzerdan import qilish:">
 <!ENTITY importFromUnix.label           "Parametrlar, xatchoʻplar, tarix, parollar va boshqa ma`lumotlarni ushbu brauzerdan import qilish:">
-<!ENTITY importFromBookmarks.label      "Xatchoʻplarni ushbu brauzerdan import qilish:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

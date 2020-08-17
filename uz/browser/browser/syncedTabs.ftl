@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinxronlangan varaqlar
 synced-tabs-sidebar-noclients-subtitle = Bu yerdagi varaqlarni boshqa qurilmalarda koʻrishni xohlaysizmi?
-synced-tabs-sidebar-notsignedin = Boshqa qurilmalardagi varaqlar roʻyxatini koʻrish uchun Firefox hisobiga kiring.
 synced-tabs-sidebar-intro = Boshqa qurilmalaringizdagi varaqlar roʻyxatini koʻring
 synced-tabs-sidebar-unverified = Hisobingiz tasdiqlanishi kerak.
 synced-tabs-sidebar-notabs = Ochiq varaqlar yoʻq

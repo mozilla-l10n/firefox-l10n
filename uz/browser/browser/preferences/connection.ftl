@@ -35,12 +35,7 @@ connection-proxy-http = HTTP proksi
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Barcha protokollar uchun ushbu proksi serverdan foydalanish
-    .accesskey = s
 
-connection-proxy-ssl = SSL proksi
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Bu proksidan FTP va HTTPS uchun ham foydalaning
     .accesskey = s

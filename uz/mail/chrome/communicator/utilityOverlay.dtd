@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "Tahrirlash">
 <!ENTITY editMenu.accesskey        "T">
 <!ENTITY undoCmd.label            "Amalni bekor qilish">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "b">
 <!ENTITY redoCmd.label            "Amalni qaytarish">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "q">
-<!ENTITY cutCmd.label            "Kesish">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "K">
-<!ENTITY copyCmd.label            "Nusxa olish">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "N">
-<!ENTITY pasteCmd.label            "Qo‘yish">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "Q">
 <!ENTITY deleteCmd.label          "O‘chirish">
 <!ENTITY deleteCmd.accesskey        "O">
-<!ENTITY selectAllCmd.label          "Barchasini tanlash">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmd2.label "Tanlamalar">
 <!ENTITY preferencesCmd2.accesskey "T">
 <!ENTITY preferencesCmdUnix.label       "Parametrlar">

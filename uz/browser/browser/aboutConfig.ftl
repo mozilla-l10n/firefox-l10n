@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Bu yerda ajdarholar bor!
-about-config-warning-text = Qoʻshimcha moslamalarni oʻzgartirsangiz, ushbu ilova dasturning barqarorligi, xavfsizligi  va ishlashiga zarar yetkazishi mumkin. Toʻliq ishionchingiz komil boʻlsa, davom ettiring.
-about-config-warning-checkbox = Bu haqida menga keyingi safar eslatilsin!
-about-config-warning-button = Xavfda qolishga roziman
-
-about-config2-title = Qoʻshimcha sozlamalar
-
-about-config-search-input =
-    .placeholder = Qidirish
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Ehtiyotkorlik bilan davom eting
@@ -32,13 +21,6 @@ about-config-page-title = Qoʻshimcha parametrlar
 about-config-search-input1 =
     .placeholder = Parametr nomini izlash
 about-config-show-all = Hammasini koʻrsatish
-
-about-config-pref-add = Qoʻshish
-about-config-pref-toggle = Almashish
-about-config-pref-edit = Tahrirlash
-about-config-pref-save = Saqlash
-about-config-pref-reset = Tiklash
-about-config-pref-delete = Oʻchirish
 
 about-config-pref-add-button =
     .title = Qoʻshish

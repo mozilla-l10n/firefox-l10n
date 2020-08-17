@@ -112,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Kamroq yozib, koʻproq toping: manzillar panelidan { $engineName } orqali qidiring.
 urlbar-search-tips-redirect-2 = { $engineName } tavsiyalari va brauzer tarixini koʻrish uchun qidiruvni manzillar panelidan boshlang.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -189,6 +191,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Maxfiy oynalar uchun asosiy qidiruv tizimi sifatida oʻrnatish
     .accesskey = s
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -279,8 +288,10 @@ popup-all-windows-shared = Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lis
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Izlang yoki manzilni kiriting
+
 urlbar-placeholder =
     .placeholder = Izlang yoki manzilni kiriting
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Brauzer nazorat ostida!
 urlbar-permissions-granted =

@@ -102,6 +102,7 @@ devinfo-serialnum =
     .label = Serial raqam
 
 fips-nonempty-password-required = FIPS usuli har bir qurilmangizga parol ustasi o‘rnatilgan bo‘lishini talab qiladi. FIPS usulini yoqib qo‘yishga urinishdan oldin parolni o‘rnating.
+
 unable-to-toggle-fips = Xavfsizlik qurilmasi uchun FIPS usulini o‘zgartirib bo‘lmadi. U sizdan ilovadan chiqishni va qaytadan ishga tushirishni talab qiladi.
 
 add-module-failure = Modulni qo‘shib bo‘lmadi

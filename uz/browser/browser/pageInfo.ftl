@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Saqlash…
     .accesskey = e
-media-preview =
-    .value = Mediani oldindan ko‘rish
 
 perm-tab =
     .label = Ruxsatlar
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ha, cookie fayllar
 security-site-data-no = Yoʻq
 
 image-size-unknown = Noma’lum
-not-set-verified-by = Ko‘rsatilmagan
 page-info-not-specified =
     .value = Ko‘rsatilmagan
 not-set-alternative-text = Ko‘rsatilmagan
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Moslashtirish usuli
 general-strict-mode =
     .value = Standartga mos keluvchi usul
-security-no-owner = Bu veb sayt egalik ma’lumotlarini o‘zida saqlamagan
 page-info-security-no-owner =
     .value = Bu veb sayt egalik ma’lumotlarini o‘zida saqlamagan
 media-select-folder = Rasmni saqlash uchun jildni ko‘rsating

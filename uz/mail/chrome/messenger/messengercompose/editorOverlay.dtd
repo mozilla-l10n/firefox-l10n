@@ -6,24 +6,13 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Formalamasdan qo‘yish">
 <!ENTITY pasteNoFormatting.accesskey "F">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Qo‘yish">
-<!ENTITY pasteAs.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.label "Iqtibos sifatida qo‘yish">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Topish…">
-<!ENTITY findReplaceCmd.label "Topish va almashtirish…">
-<!ENTITY enableInlineSpellChecker.label "Yozayotganda imloni tekshirish">
-<!ENTITY enableInlineSpellChecker.accesskey "i">
-<!ENTITY checkSpellingCmd2.label "Imloni tekshirish…">
-<!ENTITY checkSpellingCmd2.accesskey "t">
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Kiritish">
@@ -189,9 +178,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Matn asosiy qismi">
 <!ENTITY bodyTextCmd.accesskey "M">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Qo‘shimcha xossalari">
-<!ENTITY advancedPropertiesCmd.accesskey "Q">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Taxlash">
@@ -209,10 +195,6 @@
 <!ENTITY alignJustify.accesskey "T">
 <!ENTITY alignJustify.tooltip "Tasdiqlashni taxlash">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Qatlam">
-<!ENTITY layerSendToBack.tooltip "Orqaga o‘tkazish">
-<!ENTITY layerBringToFront.tooltip "Oldinga o‘tkazish">
 
 <!ENTITY increaseIndent.label "Xat boshini kattalashtirish">
 <!ENTITY increaseIndent.accesskey "k">
@@ -288,18 +270,6 @@
 <!ENTITY tableProperties.accesskey "x">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Menyu paneli">
-<!ENTITY formatToolbar.tooltip "Format asboblar paneli">
-<!ENTITY cutToolbarCmd.tooltip "Kesib olish">
-<!ENTITY copyToolbarCmd.tooltip "Nusxa olish">
-<!ENTITY pasteToolbarCmd.tooltip "Qo‘yish">
-<!ENTITY printToolbarCmd.label "Chop qilish">
-<!ENTITY printToolbarCmd.tooltip "Ushbu sahifani chop qilish">
-<!ENTITY findToolbarCmd.label "Topish">
-<!ENTITY findToolbarCmd.tooltip "Sahifadan matnni topish">
-<!ENTITY spellToolbarCmd.label "Imlo">
-<!ENTITY spellToolbarCmd.tooltip "Butun sahifa yoki tanlanganning imlosini tekshirish">
-
 <!ENTITY imageToolbarCmd.label "Rasm">
 <!ENTITY imageToolbarCmd.tooltip "Yangi rasmni kiriting yoi tanlangan rasmning xossalarini tahrirlang">
 <!ENTITY hruleToolbarCmd.label "H.qatori">
@@ -312,7 +282,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Langarning yangi nomini kiriting yoki tanlangan langanrning xossalarini tahrirlang">
 <!ENTITY TextColorButton.tooltip "Matn uchun rangni tanlang">
 <!ENTITY BackgroundColorButton.tooltip "Orqa fon uchun rangni tanlang">
-<!ENTITY HighlightColorButton.tooltip "Matn uchun ajratib ko‘rsatish rangini tanlang">
 <!-- Editor toolbar -->
 
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Shrift hajmini o‘rnatish">
@@ -333,12 +302,6 @@
 <!ENTITY alignJustifyButton.tooltip "Matnni chap va o‘ng chegalari bo‘yicha taxlash">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label         "Tanlash">
-<!ENTITY structSelect.accesskey     "T">
-<!ENTITY structRemoveTag.label      "Tegni olib tashlash">
-<!ENTITY structRemoveTag.accesskey  "o">
-<!ENTITY structChangeTag.label      "Tegni o‘zgartirish">
-<!ENTITY structChangeTag.accesskey  "o">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Kiritish">

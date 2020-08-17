@@ -44,38 +44,15 @@
 
 <!ENTITY editMenu.label                                 "Tahrirlash">
 <!ENTITY editMenu.accesskey                             "T">
-<!ENTITY undoCmd.label                                  "Amalni bekor qilish">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "b">
-<!ENTITY redoCmd.label                                  "Amalni qaytarish">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "q">
-<!ENTITY cutCmd.label                                   "Kesish">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "K">
-<!ENTITY copyCmd.label                                  "Nusxa olish">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "N">
-<!ENTITY pasteCmd.label                                 "Qo‘yish">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "Q">
 <!ENTITY deleteCmd.label                                "O‘chirish">
-<!ENTITY deleteCmd.accesskey                            "O">
 <!ENTITY deleteAbCmd.label                              "Manzil kitobini o‘chirish">
 <!ENTITY deleteContactCmd.label                         "Kontaktni o‘chirish">
 <!ENTITY deleteContactsCmd.label                        "Kontaktlarni o‘chirish">
 <!ENTITY deleteListCmd.label                            "Ro‘yxatni o‘chirish">
 <!ENTITY deleteListsCmd.label                           "Ro‘yxatlarni o‘chirish">
 <!ENTITY deleteItemsCmd.label                           "Elementlarni o‘chirish">
-<!ENTITY selectAllCmd.label                             "Barchasini tanlash">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Ism/Familiyasi almashtirish">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "a">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 
 
 <!ENTITY propertiesCmd.key                              "i">

@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "xabarlar">
 <!ENTITY alwaysAuthenticate.label "Serverga ulanganda doimo shaxsni tasdiqlash so‘ralsin">
 <!ENTITY alwaysAuthenticate.accesskey "d">
-<!ENTITY newsrcFilePath.label "newsrc fayli:">
-<!ENTITY newsrcPicker.label "Newsrc faylini tanlash">
 <!ENTITY abbreviate.label "Yangiliklar to‘plami nomlarini xat jildida yon oyna sifatida ko‘rsatish:">
 <!ENTITY abbreviateOn.label "To‘liq nomlari (Masalan, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Qisqartma nomlari (Masalan, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Qoʻshimcha…">
 <!ENTITY advancedButton.accesskey "Q">
 <!ENTITY serverDefaultCharset2.label "Asosiy matnni kodlash usuli:">
-<!ENTITY localPath.label "Mahalliy direktoriya:">
 <!ENTITY localFolderPicker.label "Kompyuterdagi jildni tanlash">
 <!ENTITY browseFolder.label "Ko‘rish…">
 <!ENTITY browseFolder.accesskey "r">

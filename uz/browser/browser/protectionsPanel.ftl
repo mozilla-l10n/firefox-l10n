@@ -57,7 +57,6 @@ protections-panel-not-found-label = Hech narsa aniqlanmadi
 ##
 
 protections-panel-settings-label = Himoya sozlamalari
-protections-panel-showreport-label = Hisobotni koʻrsatish
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

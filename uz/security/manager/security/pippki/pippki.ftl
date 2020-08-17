@@ -21,6 +21,9 @@ change-password-reenter = Yangi parol (yana):
 reset-password-window =
     .title = Parol ustasini tiklash
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Tiklash
 reset-password-text = Agar parol ustasini tiklasangiz, barcha internetdagi va e-pochta mazillaringiz, to‘ldirish shakllari ma’lumotlari, shaxsiy sertifikatlar va maxfiy kalitlaringiz parollari unutiladi. Parol ustasini tiklashni xohlashingizga ishonchingiz komilmi?

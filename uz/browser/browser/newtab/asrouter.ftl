@@ -239,3 +239,12 @@ cfr-whatsnew-passwords-icon-alt = Kuchsiz parol haqidagi yorliq
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Rasm ichida rasm funksiyasini butun ekranga olish
+
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

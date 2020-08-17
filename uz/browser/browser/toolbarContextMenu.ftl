@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Barcha varaqlarni tanlash
     .accesskey = l
-toolbar-context-menu-undo-close-tab =
-    .label = Yopilgan varaqni qaytarish
-    .accesskey = q
 
 toolbar-context-menu-manage-extension =
     .label = Kengaytmani boshqarish

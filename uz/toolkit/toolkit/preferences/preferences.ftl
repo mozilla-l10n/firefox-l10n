@@ -14,6 +14,7 @@ pw-erased-ok = "Parol ustasi"ni oʻchirib tashlagansiz. { pw-empty-warning }
 pw-not-wanted = Diqqat! "Parol ustasi"dan foydalanmaslikka qaror qildingiz. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Hozirda FIPS usulidasiz. FIPS boʻsh boʻlmagan "Parol ustasi"ni talab qiladi.
+
 pw-change-success-title = Parolni oʻzgartirish muvaffaqiyatli amalga oshirildi
 pw-change-failed-title = Parolni almashtirib boʻlmadi
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Parol ustasini oʻzgartirish
+
 set-password-old-password = Joriy parol:
 set-password-new-password = Yangi parolni kiriting:
 set-password-reenter-password = Parolni qayta kiriting:
@@ -31,6 +33,7 @@ master-password-warning = Parol ustasi oʻrnatilganligiga ishonch hosil qiling. 
 
 remove-password =
     .title = "Parol ustasi"ni oʻchirish
+
 remove-info =
     .value = Amaldagi joriy parolingizni kiritishingiz kerak:
 remove-warning1 = "Parol ustasi" sayt parollariga oʻxshash nozik ma`lumotlarni himoya qilishda foydalaniladi.
