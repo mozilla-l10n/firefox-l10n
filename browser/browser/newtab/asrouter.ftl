@@ -13,21 +13,28 @@ cfr-doorhanger-pintab-heading = ടാബ് പിൻ ചെയ്യുന്�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = എന്തുകൊണ്ട് ഞാനിത് കാണുന്നു
+
 cfr-doorhanger-extension-cancel-button = ഇപ്പോൾ വേണ്ട
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = ഇപ്പോൾ ചേർക്കൂ
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = ഈ ടാബ് പിൻ ചെയ്യുക
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = ശുപാർശ ക്രമീകരണം നിയന്ത്രിക്കുക
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = ഈ ശുപാർശ എന്നെ കാണിക്കേണ്ടതില്ല
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = കൂടുതല്‍ അറിയുക
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } നാല്‍
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ശുപാർശ
@@ -57,8 +64,10 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-step1 = നിങ്ങൾ പിൻ ചെയ്യാൻ ആഗ്രഹിക്കുന്ന ടാബിൽ <b>റൈറ്റ് ക്ലിക്ക് ചെയ്യുക</b>.
 cfr-doorhanger-pintab-step2 = മെനുവിൽ നിന്നും  <b>പി൯ ടാബ് </b> തിരഞ്ഞെടുക്കുക
 cfr-doorhanger-pintab-step3 = സൈറ്റ്  നവീകരിച്ചിട്ടുണ്ടെന്കിൽ പി൯ ചെയ്ത ടാബിൽ ഒരു നീല പുള്ളി നിങ്ങൾക്  കാണാ൯ സാധിക്കും.
+
 cfr-doorhanger-pintab-animation-pause = താൽക്കാലികമായി നിർത്തുക
 cfr-doorhanger-pintab-animation-resume = തുടരുക
+
 
 ## Firefox Accounts Message
 
@@ -74,11 +83,16 @@ cfr-protections-panel-link-text = കൂടുതല്‍ അറിയുക
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = പുതിയ സവിശേഷത:
+
 cfr-whatsnew-panel-header = പുതിയതെന്താണ്
+
 cfr-whatsnew-tracking-protect-link-text = നിങ്ങളുടെ റിപ്പോർട്ട് കാണുക
+
 cfr-whatsnew-tracking-blocked-link-text = റിപ്പോർട്ട് കാണുക
+
 cfr-whatsnew-lockwise-backup-title = നിങ്ങളുടെ പാസ്‌വേഡുകൾ ബാക്കപ്പ് ചെയ്യുക
 cfr-whatsnew-lockwise-backup-link-text = ബാക്കപ്പുകൾ ഓണാക്കുക
+
 cfr-whatsnew-lockwise-take-title = നിങ്ങളുടെ പാസ്‌വേഡുകൾ നിങ്ങൾക്കൊപ്പം കൊണ്ടുപോകുക
 cfr-whatsnew-lockwise-take-link-text = അപ്ലിക്കേഷൻ നേടുക
 
@@ -129,4 +143,12 @@ cfr-doorhanger-send-tab-header = എവിടെയായിരുന്നാ�
 
 
 ## Picture-in-Picture fullscreen message
+
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
 

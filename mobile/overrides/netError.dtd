@@ -42,13 +42,6 @@
 <!ENTITY notCached.longDesc '<p>നിങ്ങള്‍ അന്വേഷിച്ച ഡോക്യുമെന്റ് &brandShortName; ന്റെ കാഷേയില്‍ ഇല്ല.</p><ul><li> നിങ്ങളുടെ സുരക്ഷക്കായി, &brandShortName; ഒരിക്കലും സ്വമേധയാ വീണ്ടും റിക്വസ്റ്റ് അയക്കുന്നതല്ല.</li><li>വെബ്സൈറ്റിൽ നിന്നും രേഖ വീണ്ടും അഭ്യർത്ഥിക്കുന്നതിന് "വീണ്ടും ശ്രമിക്കുക" ക്ലിക്കുചെയ്യുക.</li></ul>'>
 
 <!ENTITY netOffline.title "ഓഫ്‌ലൈന്‍ മോഡ്‌">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>
-  <li>വീണ്ടും ശ്രമിക്കുക. &brandShortName; ഒരു കണക്ഷന്‍ തുറ്ക്കാനും പേജു റീലോഡ് ചെയ്യാനും ശ്രമിക്കുന്നതാണ്.
-    <button id='wifi'>വൈഫൈ പ്രാവര്‍ത്തികമാക്കുക</button>
-  </li>‌
-</ul>">
 
 <!ENTITY contentEncodingError.title "ഉള്ളടക്കം എന്‍കോഡ് ചെയ്യുന്നതില്‍ പിശകു്">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ദയവായി വെബ് സൈറ്റ് ഉടമസ്ഥാക്കളെ ഈ പ്രശ്നത്തെപ്പറ്റി അറിയിയ്ക്കുക.</li> </ul>">

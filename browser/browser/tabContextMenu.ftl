@@ -41,9 +41,9 @@ move-to-start =
 move-to-new-window =
     .label = പുതിയ ജാലകത്തിലേക്ക് നീക്കുക
     .accesskey = W
-undo-close-tab =
-    .label = റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = റ്റാബ് അടയ്ക്കുക
     .accesskey = c

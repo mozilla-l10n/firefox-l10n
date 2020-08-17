@@ -11,7 +11,6 @@ home = പൂമുഖം
 find = കണ്ടെത്തുക
 new-tab = പുതിയ ടാബ്
 add-bookmark = അടയാളക്കുറിപ്പുകള്‍ ചേര്‍ക്കുക
-open-bookmarks-sidebar = അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള സൈഡ്ബാര്‍ തുറക്കുക
 reader-view = വായനയ്ക്കുള്ള കാഴ്ച
 # Meant to match the string displayed in an empty URL bar.
 open-location = തെരയൂ അല്ലെങ്കില്‍ വിലാസം നല്‍കൂ

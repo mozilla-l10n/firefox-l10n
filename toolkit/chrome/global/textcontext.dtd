@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "മുറിക്കുക ">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "പകര്‍ത്തുക ">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "പതിക്കുക">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "പൂര്‍വ്വാവസ്ഥയിലാക്കുക">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "എല്ലാം തെരഞ്ഞെടുക്കുക">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "മായിക്കുക">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "നിഘണ്ടു ചേര്‍ക്കുക">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "നിഘണ്ടുവിലേക്കു് ചേര്‍ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">

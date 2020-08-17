@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = മാറ്റി സൂക്ഷിക്കുക
     .accesskey = e
-media-preview =
-    .value = മീഡിയ പ്രിവ്യൂ
 
 perm-tab =
     .label = ആനുകൂല്യങ്ങള്‍
@@ -129,7 +127,6 @@ security-site-data-cookies-only = അതെ, കുക്കികൾ
 security-site-data-no = അല്ല
 
 image-size-unknown = അറിയില്ലാത്തത്‌
-not-set-verified-by = വ്യക്തമാക്കിയിട്ടില്ല
 page-info-not-specified =
     .value = വ്യക്തമാക്കിയിട്ടില്ല
 not-set-alternative-text = വ്യക്തമാക്കിയിട്ടില്ല
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = ക്വിര്‍ക്ക്സ്‌ മോഡ്‌
 general-strict-mode =
     .value = സ്റ്റാന്റേഡ്സ്‌ കംപ്ലൈയന്‍സ്‌ മോഡ്‌
-security-no-owner = ഈ വെബ്സൈറ്റ് ഉടമസ്ഥാവകാശം സംബന്ധിച്ച ഒരു വിവരവും നല്‍കുന്നില്ല.
 page-info-security-no-owner =
     .value = ഈ വെബ്സൈറ്റ് ഉടമസ്ഥാവകാശം സംബന്ധിച്ച ഒരു വിവരവും നല്‍കുന്നില്ല.
 media-select-folder = ഇമേജുകള്‍ സൂക്ഷിക്കുന്നതിനായി ഒരു ഫോള്‍ഡര്‍ തെരഞ്ഞെടുക്കുക
