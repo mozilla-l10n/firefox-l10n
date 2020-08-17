@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Alltaf
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Valkostir
-           *[other] Valkostir
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Valkostir
@@ -426,16 +419,6 @@ update-application-use-service =
     .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
     .accesskey = b
 
-update-enable-search-update =
-    .label = Uppfæra leitarvélar sjálfvirkt
-    .accesskey = e
-
-update-pref-write-failure-title = Skrifvilla
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Ekki er hægt að vista val. Gat ekki skrifað skrá sem: { $path }
-
 update-setting-write-failure-title = Ekki tókst að vista uppfærða valkosti
 
 update-in-progress-title = Uppfærsla í vinnslu
@@ -583,7 +566,6 @@ home-prefs-topsites-description = Mest heimsóttu vefsíður
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
-home-prefs-recommended-by-description = Frábært efni víðsvegar að af vefnum, sérsniðið fyrir þig
 ##
 
 home-prefs-recommended-by-learn-more = Hvernig það virkar
@@ -625,7 +607,6 @@ search-bar-shown =
     .label = Bæta við leitarslá í verkfæraslá
 
 search-engine-default-header = Sjálfgefin leitarvél
-search-engine-default-desc = Veldu sjálfgefna leitarvél sem er notuð fyrir staðsetningarslá og leitarslá
 
 search-suggestions-option =
     .label = Birta uppástungur fyrir leit
@@ -674,8 +655,6 @@ search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í n
 
 ## Containers Section
 
-containers-back-link = « Til baka
-
 containers-header = Innihalds flipar
 containers-add-button =
     .label = Bæta við nýjum innihaldsflipa
@@ -695,14 +674,6 @@ containers-remove-button =
 sync-signedout-caption = Taktu vefinn með þér
 sync-signedout-description = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.
 
-sync-signedout-account-title = Tengjast með { -fxaccount-brand-name }
-sync-signedout-account-create = Ertu ekki með reikning? Skráðu þig
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = Innskráning…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -721,10 +692,6 @@ sync-mobile-promo = Hala niður Firefox fyrir <img data-l10n-name="android-icon"
 sync-profile-picture =
     .tooltiptext = Breyta notandamynd
 
-sync-disconnect =
-    .label = Aftengja…
-    .accesskey = A
-
 sync-manage-account = Sýsla með aðgang
     .accesskey = S
 
@@ -742,9 +709,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Innskráning
     .accesskey = g
-
-sync-signedin-settings-header = Sync stillingar
-sync-signedin-settings-desc = Velja hvað á að samstilla á tækjum sem eru að nota { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -766,11 +730,6 @@ sync-engine-tabs =
     .label = Opna flipa
     .tooltiptext = Listi yfir hvað er opið á öllum samstilltum tækjum
     .accesskey = f
-
-sync-engine-logins =
-    .label = Innskráningar
-    .tooltiptext = Notandanöfn og lykilorð sem þú hefur vistað
-    .accesskey = I
 
 sync-engine-addresses =
     .label = Vistföng
@@ -814,22 +773,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Tengja annað tæki
 
-sync-manage-devices = Sýsla með tæki
-
-sync-fxa-begin-pairing = Para tæki
-
-sync-tos-link = Skilmálar þjónustu
-
-sync-fxa-privacy-notice = Upplýsingar um meðferð persónuupplýsinga
-
 ## Privacy Section
 
 privacy-header = Friðhelgi vafra
 
 ## Privacy Section - Forms
 
-
-logins-header = Innskráning og lykilorð
 
 ## Privacy Section - Logins and Passwords
 
@@ -859,6 +808,7 @@ forms-master-pw-change =
     .accesskey = B
 
 forms-master-pw-fips-title = Þú ert núna í FIPS ham. FIPS má ekki hafa tómt aðallykilorð.
+
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
 
 ## OS Authentication dialog
@@ -946,9 +896,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Tegund blokkuð
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = Rekjarar þriðja aðila
-
 sitedata-option-block-unvisited =
     .label = Vefkökur frá óheimsóttum vefsíðum
 sitedata-option-block-all-third-party =
@@ -988,27 +935,7 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Blokkun efnis
-
 content-blocking-learn-more = Læra meira
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Staðlað
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Strangt
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = Sérsniðið
-    .accesskey = C
-
-content-blocking-standard-desc = Jafnvægi á vernd og vinnslu. Leyfir suma rekjara svo vefsíður virki rétt.
-content-blocking-custom-desc = Velja hvað skal blokka.
-
-content-blocking-private-trackers = Þekktir rekjarar einungis í huliðsglugga.
-content-blocking-third-party-cookies = Vefkökur frá þriðja aðila
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1028,21 +955,15 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-all-cookies = Allar vefkökur
 content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
-content-blocking-all-windows-trackers = Þekktir rekjarar í öllum gluggum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
 content-blocking-cryptominers = Rafmynt grafarar
 content-blocking-fingerprinters = Fingraför
 
 content-blocking-warning-title = Gættu þín!
-content-blocking-learn-how = Læra hvernig
 
 content-blocking-reload-tabs-button =
     .label = Endurhlaða alla flipa
     .accesskey = E
-
-content-blocking-trackers-label =
-    .label = Rekjarar
-    .accesskey = T
 
 content-blocking-tracking-protection-option-all-windows =
     .label = Í öllum gluggum
@@ -1104,10 +1025,6 @@ permissions-notification-link = Vita meira
 permissions-notification-pause =
     .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = Undanþágur...
-    .accesskey = E
 
 permissions-autoplay = Sjálfvirk spilun
 
@@ -1241,6 +1158,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = l
 
 space-alert-under-5gb-message = { -brand-short-name } er verða búið með diskaplássið. Hugsanlega birtist innihald vefsvæði ekki rétt. Kíktu á “Fræðast meira” til að lagfæra disk notkun til að vafra betur.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

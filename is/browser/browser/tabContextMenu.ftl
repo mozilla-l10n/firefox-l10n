@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Færa yfir í nýjan glugga
     .accesskey = g
-undo-close-tab =
-    .label = Afturkalla loka flipa
-    .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Loka flipa
     .accesskey = L

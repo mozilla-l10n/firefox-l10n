@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Raðnúmer
 
 fips-nonempty-password-required = FIPS hamur þarfnast þess að aðallykilorð sé skilgreint fyrir hvert öryggistæki. Settu upp lykilorðið áður en þú reynir að virkja FIPS ham.
+
 unable-to-toggle-fips = Get ekki breytt FIPS ham fyrir öryggistæki. Mælt er með að þú hættir og endurræsir þetta forrit.
 load-pk11-module-file-picker-title = Veldu PKCS#11 rekil til að hlaða inn
 

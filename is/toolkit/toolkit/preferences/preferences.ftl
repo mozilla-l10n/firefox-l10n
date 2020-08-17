@@ -14,6 +14,7 @@ pw-erased-ok = Aðallykilorði eytt.  { pw-empty-warning }
 pw-not-wanted = Aðvörun! Þú hefur ákveðið að nota ekki aðallykilorð. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Þú ert núna í FIPS ham. FIPS má ekki hafa tómt aðallykilorð.
+
 pw-change-success-title = Lykilorði breytt
 pw-change-failed-title = Gat ekki breytt lykilorði
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Breyta aðallykilorði
+
 set-password-old-password = Núverandi lykilorð:
 set-password-new-password = Sláðu inn nýtt lykilorð:
 set-password-reenter-password = Staðfestu lykilorðið:
@@ -31,6 +33,7 @@ master-password-warning = Vertu öruggur um að þú munir aðallykilorðið.  E
 
 remove-password =
     .title = Fjarlægja aðallykilorð
+
 remove-info =
     .value = Til að halda áfram verður þú að slá inn núverandi lykilorð:
 remove-warning1 = Aðallykilorð er notað til að vernda viðkvæmar upplýsingar eins til dæmis lykilorð fyrir vefsvæði.

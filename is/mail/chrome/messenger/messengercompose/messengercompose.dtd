@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Endurtaka">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Klippa">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Afrita">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "A">
-<!ENTITY pasteCmd.label "Líma">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "L">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "s">
@@ -85,9 +79,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Endurnefna viðhengi…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "Velja allt">
 <!ENTITY selectAllCmd.accesskey "j">
-<!ENTITY selectAllCmd.key "V">
 <!ENTITY findBarCmd.label "Finna…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -222,22 +214,8 @@
 <!ENTITY printButton.tooltip "Prenta þennan póst">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Frá:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Til:">
-<!ENTITY ccAddr.label "Afrit:">
-<!ENTITY bccAddr.label "Falið afrit:">
-<!ENTITY replyAddr.label "Svara á:">
-<!ENTITY newsgroupsAddr.label "Fréttahópur:">
-<!ENTITY followupAddr.label "Eftirfylgni:">
-<!ENTITY subject.label "Efni:">
 <!ENTITY subject.accesskey "f">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "V">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Setja inn broskarl">

@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Get ekki tengst">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Aðgangur að gátt er ekki leyfður">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Netþjónn fannst ekki">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Við eigum í einhverjum erfiðleikum með að finna þetta vefsvæði.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Ef slóðin er rétt, þá er þrennt sem þú getur reynt að gera:</strong>
 <ul>
@@ -34,8 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Skrá fannst ekki">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.</li>
@@ -43,11 +35,7 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Aðgangur að skránni ekki leyfður">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.</li> </ul>">
-
-<!ENTITY generic.title "Ææ.">
 
 <!ENTITY generic.longDesc "<p>Af einhverri ástæðu getur &brandShortName; ekki hlaðið inn þessari síðu.</p>">
 
@@ -57,63 +45,32 @@
 <!ENTITY openPortalLoginPage.label2 "Opna net innskráningar síðu">
 
 <!ENTITY malformedURI.pageTitle "Ógild slóð (URL)">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Þessi slóð virðist ekki vera rétt.">
-
-<!ENTITY netInterrupt.title "Tenging slitnaði">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Skjal er útrunnið">
-
 <!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki til í skyndiminni &brandShortName;.</p><ul><li>Vegna öryggisástæðna, nær &brandShortName; ekki sjálfkrafa aftur í viðkvæm skjöl.</li><li>Smelltu á reyna aftur til að ná aftur í skjalið frá vefsvæðinu.</li></ul>">
-
-<!ENTITY netOffline.title "Ónettengdur hamur">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Smelltu á &quot;Reyna aftur&quot; til að tengjast netinu og endurnýja síðuna.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Kóðunarvilla">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Óörugg skráartegund">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li> </ul>">
 
-<!ENTITY netReset.title "Tenging slitnaði">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Tengingin svaraði ekki tímanlega">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Óþekkt samskiptaregla">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Til að opna þetta veffang gætir þú þurft að hlaða inn öðrum hugbúnaði.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Milliþjónn neitar tengingum">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Athugaðu milliþjóna stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li> <li>Hafðu samband við netkerfisstjóra til að athuga hvort milliþjónn sé virkur.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Fann ekki milliþjónn">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Athugaðu milliþjóna stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li> <li>Athugaðu hvort tölvan þín sé tengd við netið.</li> <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort &brandShortName; hefur leyfi til að tengjast netinu.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Síðan er ekki að endurbeina rétt">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Þetta vandamál getur verið vegna þess að lokað er á smákökur eða þær hafa verið aftengdar.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Rangt svar frá netþjóni">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Athugaðu hvort tölvan þín sé með persónulegan öryggisstjóra uppsettann.</li> <li>Þetta vandamál gæti verið vegna óstaðlaða stillinga á netþjóni.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Örugg tenging mistókst">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ekki er hægt að sýna síðuna vegna þess að ekki var hægt að auðkenna gögnin.</li> <li>Hafið samband við vefstjóra svæðisins til að láta hann vita af þessu vandamáli.</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Viðvörun: Hugsanleg öryggisáhætta framundan">
-<!ENTITY certerror.sts.longpagetitle  "Tengdist ekki: Mögulegt öryggisvandamál">
 
 <!ENTITY certerror.introPara2 "&brandShortName; uppgötvaði hugsanlega öryggisógn og hélt ekki áfram á <span class='hostname'/>. Ef þú heimsækir þessa síðu gætu árásarmenn reynt að stela upplýsingum eins og lykilorðum þínum, tölvupósti eða kreditkortaupplýsingum.">
 
@@ -125,11 +82,7 @@
 
 <!ENTITY sharedLongDesc "<ul> <li>Vefsvæðið er kannski ekki aðgengilegt eins og stendur eða er upptekið. Reyndu aftur seinna.</li> <li>Ef þú getur ekki hlaðið inn neinni síðu, athugaðu þá nettengingu tölvunnar.</li> <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort &brandShortName; hafi aðgang til þess að fara á netið.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Lokað á vegna öryggisreglu">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Villa skemmd gögn">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
 
@@ -139,11 +92,7 @@
 <!ENTITY errorReporting.automatic2 "Tilkynntu villur eins og þessa til að hjálpa Mozilla að bera kennsl á og loka á hættuleg vefsvæði">
 <!ENTITY errorReporting.learnMore "Fræðast meira…">
 
-<!ENTITY remoteXUL.title "Fjarlægt XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hafðu samband við eigendur vefsvæðins til að láta þá vita af þessu vandamáli.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Get ekki tengst á öruggan hátt">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -153,8 +102,6 @@
 <!ENTITY certerror.sts.pagetitle  "Tengdist ekki: Mögulegt öryggisvandamál">
 <!ENTITY certerror.copyToClipboard.label "Afrita texta á klemmuspjald">
 
-<!ENTITY inadequateSecurityError.title "Tenging er ekki örugg">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> notast við öryggistækni sem er úreld og ekki lengur örugg. Árásaraðili gæti auðveldlega komist í upplýsingar sem þú telur vera öruggar. Vefumsjónaraðilinn verður að laga miðlarann áður en þú getur heimsótt vefsvæðið .</p><p>Villu kóði: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -162,10 +109,6 @@
 <!ENTITY blockedByPolicy.title "Lokuð síða">
 
 
-<!ENTITY clockSkewError.title "Klukkan í tölvunni þinni er vitlaus">
-
 <!ENTITY prefReset.longDesc "Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?">
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
-
-<!ENTITY networkProtocolError.title "Villa í netsamskiptum">
 

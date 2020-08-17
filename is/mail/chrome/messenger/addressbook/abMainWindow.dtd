@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Breyta">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Afturkalla">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Endurtaka">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Klippa">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Afrita">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "A">
-<!ENTITY pasteCmd.label "Líma">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "L">
 <!ENTITY deleteCmd.label "Eyða">
-<!ENTITY deleteCmd.accesskey "y">
 <!ENTITY deleteAbCmd.label "Eyða nafnaskrá">
 <!ENTITY deleteContactCmd.label "Eyða tengilið">
 <!ENTITY deleteContactsCmd.label "Eyða tengiliðum">
 <!ENTITY deleteListCmd.label "Eyða lista">
 <!ENTITY deleteListsCmd.label "Eyða listum">
 <!ENTITY deleteItemsCmd.label "Eyða færslu">
-<!ENTITY selectAllCmd.label "Velja allt">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "j">
-<!ENTITY swapFirstNameLastNameCmd.label "Víxla Eiginnafni/Eftirnafni">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "V">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label "Eiginleikar">
 <!ENTITY propertiesMenu.accesskey "i">
 <!ENTITY propertiesCmd.key "i">

@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Veldu skrá…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.deleteDomainData.label     "Gleyma þessu vefsvæði">
-<!ENTITY cmd.deleteDomainData.accesskey "f">
-
-<!ENTITY cmd.open.label                  "Opna">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Opna í nýjum glugga">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Opna í nýjum huliðsglugga">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Opna í nýjum flipa">
-<!ENTITY cmd.open_tab.accesskey          "f">
-<!ENTITY cmd.open_all_in_tabs.label      "Opna allt í flipum">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Eiginleikar">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Raða eftir nafni">
-<!ENTITY cmd.sortby_name.accesskey          "R">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nýtt bókamerki…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Ný mappa…">
-<!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "m">
-<!ENTITY cmd.new_separator.label           "Nýr aðgreinir">
-<!ENTITY cmd.new_separator.accesskey       "g">
-
 <!ENTITY col.name.label          "Nafn">
 <!ENTITY col.tags.label          "Tög">
 <!ENTITY col.url.label           "Staðsetning">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Fjöldi heimsókna">
 <!ENTITY col.dateadded.label     "Bætt við">
 <!ENTITY col.lastmodified.label  "Síðast breytt">
-
-<!ENTITY historySearch.placeholder  "Leita í ferli">
-<!ENTITY bookmarksSearch.placeholder  "Leita í bókamerkjum">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Veldu hlut til að skoða og breyta">
 
-<!ENTITY view.label               "Skoða">
-<!ENTITY view.accesskey           "S">
-<!ENTITY byDate.label             "Eftir dagsetningu">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Eftir vefsvæði">
-<!ENTITY bySite.accesskey         "v">
-<!ENTITY byMostVisited.label      "Eftir flestum heimsóknum">
-<!ENTITY byMostVisited.accesskey  "h">
-<!ENTITY byLastVisited.label      "Eftir síðast skoðað">
-<!ENTITY byLastVisited.accesskey  "a">
-<!ENTITY byDayAndSite.label       "Eftir dagsetningu og vefsvæði">
-<!ENTITY byDayAndSite.accesskey   "t">

@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Velja alla flipa
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Afturkalla að loka flipa
-    .accesskey = u
 
 toolbar-context-menu-manage-extension =
     .label = Stjórna viðbótum

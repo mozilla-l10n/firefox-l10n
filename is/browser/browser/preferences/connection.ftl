@@ -35,12 +35,6 @@ connection-proxy-http = HTTP milliþjónn
     .accesskey = H
 connection-proxy-http-port = Gátt
     .accesskey = G
-connection-proxy-http-share =
-    .label = Nota þennan milliþjón fyrir allar samskiptareglur
-    .accesskey = o
-
-connection-proxy-ssl = SSL milliþjónn
-    .accesskey = S
 
 connection-proxy-ssl-port = Gátt
     .accesskey = t

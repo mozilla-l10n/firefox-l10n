@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Huliðsstilling)">
-
 <!ENTITY appmenu.tooltip                     "Opna valmynd">
 <!ENTITY navbarOverflow.label                "Fleiri verkfæri…">
 
@@ -26,124 +16,24 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Festa flipa">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Losa flipa">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "L">
-<!ENTITY  sendPageToDevice.label             "Senda síðu á tæki">
-<!ENTITY  sendPageToDevice.accesskey         "æ">
-<!ENTITY  sendLinkToDevice.label             "Senda tengil á tæki">
-<!ENTITY  sendLinkToDevice.accesskey         "æ">
-<!ENTITY  undoCloseTab.label                 "Afturkalla loka flipa">
-<!ENTITY  undoCloseTab.accesskey             "u">
-<!ENTITY  hiddenTabs.label                   "Faldir flipar">
 
 <!ENTITY  listAllTabs.label      "Sýna alla flipa">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Leita í flipum">
 
 <!ENTITY tabCmd.label "Nýr flipi">
-<!ENTITY tabCmd.accesskey "f">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Opna tengil…">
 <!ENTITY openFileCmd.label "Opna skrá…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Uppsetning síðu…">
-<!ENTITY printSetupCmd.accesskey "U">
-<!ENTITY printPreviewCmd.label "Prentskoðun">
-<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Prenta…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Flytja inn gögn frá öðrum vafa…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Verkefnisstjóri">
 
-<!ENTITY goOfflineCmd.label "Vinna án nettengingar">
-<!ENTITY goOfflineCmd.accesskey "g">
-
 <!ENTITY menubarCmd.label "Valmyndaslá">
 <!ENTITY menubarCmd.accesskey "V">
-<!ENTITY navbarCmd.label "Flakktækjaslá">
 <!ENTITY personalbarCmd.label "Bókamerkjaslá">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Hlutir í bókamerkjaslá">
 
-<!ENTITY pageSourceCmd.label "Frumkóði síðu">
-<!ENTITY pageSourceCmd.accesskey "k">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Upplýsingar síðu">
-<!ENTITY pageInfoCmd.accesskey "U">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Útlits aflúsari">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Spegla flipa">
-<!ENTITY mirrorTabCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Fara í fullan skjá">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Hætta í fullum skjá">
-<!ENTITY exitFullScreenCmd.accesskey "f">
-
 <!ENTITY fullScreenCmd.label "Fylla skjá">
-<!ENTITY fullScreenCmd.accesskey "y">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Sýna alla flipa">
-<!ENTITY showAllTabsCmd.accesskey "a">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Skráðu þig inn í &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Opna &syncBrand.shortName.label; stillingar">
-<!ENTITY fxaSignInError.label "Endurtengjast við &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Staðfesta reikning">
-
-
-<!ENTITY fullScreenMinimize.tooltip "Minnka">
-<!ENTITY fullScreenRestore.tooltip "Endurheimta">
-<!ENTITY fullScreenClose.tooltip "Loka">
-<!ENTITY fullScreenAutohide.label "Fela tækjaslár">
-<!ENTITY fullScreenAutohide.accesskey "F">
-<!ENTITY fullScreenExit.label "Ekki fylla skjá">
-<!ENTITY fullScreenExit.accesskey "f">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Taktu Firefox með þér">
-<!ENTITY fxa.signin.description.label "Fáðu bókamerki, ferli, lykilorð og aðrar stillingar á öllum tækjunum þínum.">
-<!ENTITY fxa.signin.button.label "Kveikja á &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Skoðaðu tölvupóstinn þinn">
-<!ENTITY fxa.unverified.description.label "Þú þarft að staðfesta reikninginn þinn áður en þú getur samstillt.">
-<!ENTITY fxa.unverified.button.label "Opna &syncBrand.shortName.label; stillingar…">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Skráður inn sem">
-<!ENTITY fxa.menu.manageAccount.label "Sýsla með aðgang…">
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Stillingar…">
 
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Tengja annað tæki…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -162,14 +52,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Hætta í fullum skjá (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Hætta í fullum skjá (esc)">
-<!ENTITY leaveDOMFullScreen.label "Hætta í fullum skjá">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Mynd-í-mynd">
-<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -180,84 +62,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "hefur stjórn á bendi. Ýttu á Esc til að taka aftur yfir stjórn.">
 <!ENTITY pointerlockWarning.generic.label "Þetta skjal hefur nú stjórnina á bendi. Ýttu á Esc til að taka aftur yfir stjórn.">
 
-<!ENTITY closeWindow.label "Loka glugga">
-<!ENTITY closeWindow.accesskey "k">
-
-<!ENTITY bookmarksMenu.label "Bókamerki">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Setja síðu í bókamerki">
-<!ENTITY editThisBookmarkCmd.label "Breyta bókamerki">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Setja alla flipa í bókamerki…">
-
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
 <!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
-<!ENTITY otherBookmarksCmd.label "Önnur bókamerki">
-<!ENTITY mobileBookmarksCmd.label "Bókamerki farsíma">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
-
-<!ENTITY backCmd.label                "Til baka">
-<!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "Til baka um eina síðu">
-<!ENTITY forwardCmd.label             "Áfram">
-<!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "Áfram um eina síðu">
-<!ENTITY backForwardButtonMenu.tooltip "Hægri smelltu eða flettu niður til að sýna feril">
-<!ENTITY backForwardButtonMenuMac.tooltip "Flettu niður til að sýna feril">
-<!ENTITY reloadCmd.label              "Endurnýja">
-<!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY stopCmd.label                "Stöðva">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Hoppa á tengilinn sem er í staðsetningarslánni">
 
 <!ENTITY printButton.label            "Prenta">
 <!ENTITY printButton.tooltip          "Prenta síðu">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Skoða upplýsingar um vefsvæði">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opna skilaboðaflipa">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opna staðsetningarbeiðnaflipa">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Opna spjald sjálfkrafa afspilunar">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Opna skilaboðaflipa fyrir viðbótauppsetningu">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Sýsla með öryggi fyrir canvas upplýsingar">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Opna skilaboðaflipa fyrir aftengda geymslu">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Opna skilaboðaflipa fyrir vistuð lykilorð">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sýsla með notkun tengiforrita">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Breyta hvort vefsvæði getur sent þér tilkynningar">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Geyma gögn í varanlegri gagnageymslu">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Vafri er á fjarstýringu">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Opna auðkenningarspjald vefs">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Opna heimildaspjald vafravirkni">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sýsla með að deila hljóðnema á vefsvæðinu">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sýsla með að deila gluggum eða skjá á vefsvæðinu">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Opna skilaboðaflipa uppsetninga">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Þýða þessa síðu">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sýsla með þýðingar á síðu">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sýsla með notkun á DRM hugbúnaði">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Opna MIDI flipa">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Þú hefur lokað fyrir myndavélina á þessu vefsvæði.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Þú hefur lokað fyrir hljóðnema á þessu vefsvæði.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Þú hefur lokað fyrir að deila skjáum á þessu vefsvæði.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Þú hefur lokað fyrir tilkynningar á þessu vefsvæði.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Þú hefur lokað fyrir sjálfkrafa afspilun á þessari vefsíðu.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Þú hefur lokað á að nálgast gluggagögn fyrir þetta vefsvæði.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Þú hefur lokað á að þetta vefsvæði geti notað Adobe Flash viðbót.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.">
-<!ENTITY urlbar.installBlocked.tooltip           "Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.">
-
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">
 
 
 <!ENTITY searchItem.title             "Leita">
@@ -267,7 +77,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Heimasíða">
 
 <!ENTITY bookmarksButton.label          "Bókamerki">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Bókamerki">
 <!ENTITY bookmarksMenuButton2.label         "Bókarmerkja valmynd">
@@ -282,109 +91,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Bæta bókamerkjavalmynd við verkfæraslá">
 <!ENTITY removeBookmarksMenu.label          "Fjarlægja bókamerkjavalmynd úr verkfæraslá">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Ferill">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Verkfæri">
-<!ENTITY toolsMenu.accesskey          "V">
-
-<!ENTITY keywordfield.label           "Bæta við orði í leit…">
-<!ENTITY keywordfield.accesskey       "o">
 
 <!ENTITY downloads.label              "Niðurhal">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Niðurhöl">
-<!ENTITY downloads.accesskey          "N">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Viðbætur">
-<!ENTITY addons.accesskey             "i">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Vefforritari">
-<!ENTITY webDeveloperMenu.accesskey   "f">
-
-<!ENTITY inspectContextMenu.label     "Skoða einindi">
-<!ENTITY inspectContextMenu.accesskey "e">
-
-<!ENTITY inspectA11YContextMenu.label     "Skoða aðgengiseiginleika">
-
-<!ENTITY fileMenu.label         "Skrá">
-<!ENTITY fileMenu.accesskey       "S">
-
-<!ENTITY newUserContext.label             "Nýr hópaflipi">
-<!ENTITY newUserContext.accesskey         "h">
-<!ENTITY manageUserContext.label          "Stjórna hópafllipum">
-<!ENTITY manageUserContext.accesskey      "O">
 
 <!ENTITY newNavigatorCmd.label        "Nýr gluggi">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nýr huliðsgluggi">
-<!ENTITY newPrivateWindow.accesskey "g">
 
 <!ENTITY editMenu.label         "Breyta">
-<!ENTITY editMenu.accesskey       "e">
-<!ENTITY undoCmd.label            "Afturkalla">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "f">
-<!ENTITY redoCmd.label            "Endurtaka">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "n">
-<!ENTITY cutCmd.label           "Klippa">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "K">
-<!ENTITY copyCmd.label            "Afrita">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "A">
-<!ENTITY pasteCmd.label           "Líma">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "L">
-<!ENTITY deleteCmd.label          "Eyða">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "E">
-<!ENTITY selectAllCmd.label         "Velja allt">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "j">
 <!ENTITY preferencesCmd2.label       "Valkostir">
-<!ENTITY preferencesCmd2.accesskey     "V">
 <!ENTITY preferencesCmdUnix.label       "Valkostir">
-<!ENTITY preferencesCmdUnix.accesskey     "V">
 <!ENTITY logins.label                           "Innskráning og lykilorð">
-
-<!ENTITY clearRecentHistory.label               "Hreinsa nýlega ferla…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Skoða">
-<!ENTITY viewMenu.accesskey       "k">
-<!ENTITY viewToolbarsMenu.label       "Verkfæraslár">
-<!ENTITY viewToolbarsMenu.accesskey     "V">
-<!ENTITY viewSidebarMenu.label "Hliðslá">
-<!ENTITY viewSidebarMenu.accesskey "H">
-
-<!ENTITY viewCustomizeToolbar.label       "Sérsníða…">
-<!ENTITY viewCustomizeToolbar.accesskey     "S">
 
 <!ENTITY overflowCustomizeToolbar.label       "Sérsníða verkfæraslá…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Ferill">
-<!ENTITY historyMenu.accesskey "F">
 <!ENTITY historyUndoMenu.label "Nýlega lokaðir flipar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nýlega lokaðir gluggar">
-<!ENTITY historyRestoreLastSession.label "Sækja fyrri vafralotu">
-
-<!ENTITY showAllHistoryCmd2.label "Skoða alla ferla">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Skoða alla ferla">
 <!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
@@ -414,9 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Opna Sync stillingar">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Nauðsynlegt er að staðfesta reikning.">
-<!ENTITY appMenuRemoteTabs.signin.label "Skráðu þig inn í Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sýsla með tæki…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Skoða samstillta flipavalmynd">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Fela hliðslá fyrir samstillta flipa">
@@ -432,79 +161,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Bæta við yfirflæði valmynd">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Festa við yfirflæði valmynd">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Taka úr yfirfræði valmynd">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "T">
 <!ENTITY customizeMenu.removeFromToolbar.label "Fjarlægja frá verkfæraslá">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Bæta við fleiri hlutum…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "Fela sjálfkrafa í tækjastikunni">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "Stjórna viðbótum">
-<!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.label "Fjarlægja viðbót">
-<!ENTITY customizeMenu.removeExtension.accesskey "v">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Kvarta yfir viðbót">
-<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Meira">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
-<!ENTITY urlbar.accesskey             "ð">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Skráarending:">
-<!ENTITY urlbar.switchToTab.label     "Fara á flipa:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ábending:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Fáðu hjálp við að finna hluti! Líttu eftir &#x1F50E; við hliðina á leitar ábendingum.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Breyta stillingum…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "B">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Breyta stillingum…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "B">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Leitar fyrirspurn">
 
 <!ENTITY contentSearchSubmit.tooltip  "Senda leit">
 
@@ -513,200 +180,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Leita">
 <!ENTITY searchIcon.tooltip           "Leita">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Leita að ">
-<!ENTITY searchWith.label             " með:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Leita ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Leita með:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Breyta leitarstillingum">
-<!ENTITY changeSearchSettings.tooltip "Breyta leitarstillingum">
-
-<!ENTITY searchInNewTab.label         "Leita og birta í nýjum flipa">
-<!ENTITY searchInNewTab.accesskey     "f">
-<!ENTITY searchSetAsDefault.label     "Setja sem sjálfgefna leitarvél">
-<!ENTITY searchSetAsDefault.accesskey "l">
-
-<!ENTITY openLinkCmdInTab.label       "Opna tengil í nýjum flipa">
-
 <!ENTITY openLinkCmdInTab.accesskey   "f">
-<!ENTITY openLinkCmd.label            "Opna tengil í nýjum glugga">
-<!ENTITY openLinkCmd.accesskey        "g">
-<!ENTITY openLinkInPrivateWindowCmd.label "Opna tengil í nýjum huliðsglugga">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Opna tengil">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "Opna ramma í nýjum flipa">
-<!ENTITY openFrameCmdInTab.accesskey  "f">
-<!ENTITY openFrameCmd.label           "Opna ramma í nýjum glugga">
-<!ENTITY openFrameCmd.accesskey       "g">
-<!ENTITY openLinkCmdInContainerTab.label "Opna tengil í nýjum hópaflipa">
-<!ENTITY openLinkCmdInContainerTab.accesskey "d">
-<!ENTITY showOnlyThisFrameCmd.label     "Sýna einungis þennan ramma">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Endurnýja ramma">
-<!ENTITY reloadFrameCmd.accesskey     "r">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Sýna frumkóða vals">
-<!ENTITY viewPartialSourceCmd.accesskey "n">
-<!ENTITY viewPageSourceCmd.label      "Sýna frumkóða síðu">
-<!ENTITY viewPageSourceCmd.accesskey  "k">
-<!ENTITY viewFrameSourceCmd.label     "Sýna frumkóða ramma">
-<!ENTITY viewFrameSourceCmd.accesskey "k">
-<!ENTITY viewPageInfoCmd.label        "Skoða upplýsingar síðu">
-<!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Skoða upplýsingar ramma">
-<!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY reloadImageCmd.label         "Endurlesa mynd">
-<!ENTITY reloadImageCmd.accesskey     "r">
-<!ENTITY viewImageCmd.label           "Sjá mynd">
-<!ENTITY viewImageCmd.accesskey       "m">
-<!ENTITY viewImageInfoCmd.label       "Skoða upplýsingar um mynd">
-<!ENTITY viewImageInfoCmd.accesskey   "u">
-<!ENTITY viewImageDescCmd.label       "Lýsing á yfirliti">
-<!ENTITY viewImageDescCmd.accesskey   "y">
-<!ENTITY viewVideoCmd.label           "Skoða myndband">
-<!ENTITY viewVideoCmd.accesskey       "k">
-<!ENTITY viewBGImageCmd.label         "Sjá bakgrunnsmynd">
-<!ENTITY viewBGImageCmd.accesskey     "g">
-<!ENTITY setDesktopBackgroundCmd.label      "Setja sem bakgrunnsmynd…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Setja síðu í bókamerki">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "Setja tengil í bókamerki">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
-<!ENTITY bookmarkThisFrameCmd.label      "Setja ramma í bókamerki">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY pageAction.copyLink.label    "Afrita tengil">
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Vista í Pocket">
-
 <!ENTITY saveToPocketCmd.label        "Vista síðu í Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Vista tengil í Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Skoða Pocket lista">
 
 <!ENTITY emailPageCmd.label           "Senda tengil…">
-<!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY savePageCmd.label            "Vista síðu sem…">
-<!ENTITY savePageCmd.accesskey        "V">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "V">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Vista ramma sem…">
-<!ENTITY saveFrameCmd.accesskey       "a">
-<!ENTITY printFrameCmd.label          "Prenta ramma…">
-<!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "Vista tengil sem…">
-<!ENTITY saveLinkCmd.accesskey        "V">
-<!ENTITY saveImageCmd.label           "Vista mynd sem…">
-<!ENTITY saveImageCmd.accesskey       "V">
-<!ENTITY saveVideoCmd.label           "Vista myndband sem…">
-<!ENTITY saveVideoCmd.accesskey       "V">
-<!ENTITY saveAudioCmd.label           "Vista hljóð sem…">
-<!ENTITY saveAudioCmd.accesskey       "V">
-<!ENTITY emailImageCmd.label          "Senda mynd…">
-<!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "Senda myndband…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Senda hljóðskrá…">
-<!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Gera þessa viðbót virka">
-<!ENTITY playPluginCmd.accesskey      "G">
-<!ENTITY hidePluginCmd.label          "Fela þetta tengiforrit">
-<!ENTITY hidePluginCmd.accesskey      "F">
-<!ENTITY copyLinkCmd.label            "Afrita tengil">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "r">
-<!ENTITY copyImageCmd.label           "Afrita staðsetningu myndar">
-<!ENTITY copyImageCmd.accesskey       "s">
-<!ENTITY copyImageContentsCmd.label   "Afrita mynd">
-<!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "Afrita myndbandatengil">
-<!ENTITY copyVideoURLCmd.accesskey    "m">
-<!ENTITY copyAudioURLCmd.label        "Afrita hljóðtengil">
-<!ENTITY copyAudioURLCmd.accesskey    "h">
-<!ENTITY copyEmailCmd.label           "Afrita póstfang">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "p">
-<!ENTITY thisFrameMenu.label              "Þessi rammi">
-<!ENTITY thisFrameMenu.accesskey          "Þ">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Spila">
-<!ENTITY mediaPlay.accesskey         "S">
-<!ENTITY mediaPause.label            "Í bið">
-<!ENTITY mediaPause.accesskey        "b">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Hljóðlaus">
-<!ENTITY mediaMute.accesskey         "H">
-<!ENTITY mediaUnmute.label           "Virkja hljóð">
-<!ENTITY mediaUnmute.accesskey       "h">
-<!ENTITY mediaPlaybackRate2.label     "Spilunarhraði">
-<!ENTITY mediaPlaybackRate2.accesskey "l">
-<!ENTITY mediaPlaybackRate050x2.label "Hægt (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "H">
-<!ENTITY mediaPlaybackRate100x2.label "Venjulegt">
-<!ENTITY mediaPlaybackRate100x2.accesskey "n">
-<!ENTITY mediaPlaybackRate125x2.label "Hratt(1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "r">
-<!ENTITY mediaPlaybackRate150x2.label "Hraðara (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Fáránlega hratt (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "l">
-<!ENTITY mediaLoop.label             "Endurtaka">
-<!ENTITY mediaLoop.accesskey         "E">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Sýna stjórntæki">
-<!ENTITY mediaShowControls.accesskey "n">
-<!ENTITY mediaHideControls.label     "Fela stjórntæki">
-<!ENTITY mediaHideControls.accesskey "F">
-<!ENTITY videoFullScreen.label       "Fylla skjá">
-<!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Vista skjámynd sem…">
-<!ENTITY videoSaveImage.accesskey    "s">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Sýna tölfræði">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Fela tölfræði">
-<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -714,53 +197,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Stækka">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "S">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Minnka">
-<!ENTITY fullZoomReduceCmd.accesskey    "M">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Endursetja">
-<!ENTITY fullZoomResetCmd.accesskey     "E">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Stækka/minnka einungis texta">
-<!ENTITY fullZoomToggleCmd.accesskey    "t">
-
 <!ENTITY fullZoom.label                 "Aðdráttur">
-<!ENTITY fullZoom.accesskey             "ð">
 
 <!ENTITY sidebarCloseButton.tooltip     "Loka hliðslá">
-<!ENTITY sidebarMenuClose.label         "Loka hliðslá">
 
 <!ENTITY quitApplicationCmdWin2.label       "Hætta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "H">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Hætta í &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Hætta">
 <!ENTITY quitApplicationCmd.accesskey   "H">
 <!ENTITY quitApplicationCmdMac2.label   "Hætta í &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Loka">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "L">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Síðustíll">
-<!ENTITY pageStyleMenu.accesskey "u">
-<!ENTITY pageStyleNoStyle.label "Enginn stíll">
-<!ENTITY pageStyleNoStyle.accesskey "E">
-<!ENTITY pageStylePersistentOnly.label "Almennur síðustíll">
-<!ENTITY pageStylePersistentOnly.accesskey "A">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -771,168 +217,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "B">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Skipta um síðu átt">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Skipta um texta átt">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Leita á síðu…">
-<!ENTITY findOnCmd.accesskey "t">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Leita aftur">
-<!ENTITY findAgainCmd.accesskey "u">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
 <!ENTITY spellAddDictionaries.accesskey "B">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Ljúka">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Sýna ritil þegar vistað er">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Öryggi svæðis">
-
-<!ENTITY identity.connection "Tenging">
-<!ENTITY identity.connectionSecure "Örugg tenging">
-<!ENTITY identity.connectionNotSecure "Tenging er ekki örugg">
-<!ENTITY identity.connectionFile "Þessi síða er vistuð á tölvunni þinni.">
-<!ENTITY identity.connectionVerified2 "Þú ert tengdur á öruggan hátt við þetta vefsvæði, sem er frá:">
-<!ENTITY identity.connectionInternal "Þetta er örugg &brandShortName; síða.">
-<!ENTITY identity.extensionPage "Þessi síða er hlaðinn inn af viðbót.">
-<!ENTITY identity.insecureLoginForms2 "Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.">
-<!ENTITY identity.customRoot "Tenging staðfest af útgefanda vottorðs sem ekki er viðurkennt af Mozilla.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
-<!ENTITY identity.passiveLoaded "Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).">
-<!ENTITY identity.activeLoaded "Þú hefur slökkt á vernd fyrir þessa síðu.">
-<!ENTITY identity.weakEncryption "Þessi síða notar lélega dulkóðun.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Tengingin við þetta vefsvæði er ekki læst. Þær upplýsingar sem þú sendir gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).">
-<!ENTITY identity.description.insecureLoginForms "Upplýsingarnar sem þú setur inn á þessa síðu eru ekki öruggar og hugsanlega gæti þriðji aðili komist yfir þær.">
-<!ENTITY identity.description.weakCipher "Tengingin við þetta vefsvæði notar lélega dulkóðun og er ekki lokuð.">
-<!ENTITY identity.description.weakCipher2 "Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
-<!ENTITY identity.description.passiveLoaded "Tengingin við þetta vefsvæði er ekki lokuð og upplýsingar sem þú sendir gætu aðrir skoðað.">
-<!ENTITY identity.description.passiveLoaded2 "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir).">
-<!ENTITY identity.description.passiveLoaded3 "Þótt &brandShortName; hafi lokað á suma hluta, er ennþá innihald á síðunni sem er ekki öruggt (eins og myndir).">
-<!ENTITY identity.description.activeLoaded "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.">
-<!ENTITY identity.description.activeLoaded2 "Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Virkja vernd">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "e">
-<!ENTITY identity.disableMixedContentBlocking.label "Hætta við vörn í bili">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "H">
-<!ENTITY identity.learnMore "Fræðast meira">
-
-<!ENTITY identity.removeCertException.label "Fjarlægja undantekningu">
-<!ENTITY identity.removeCertException.accesskey "r">
-
-<!ENTITY identity.moreInfoLinkText2 "Nánari upplýsingar">
-
-<!ENTITY identity.clearSiteData "Hreinsa vefkökur og síðugögn…">
-
-<!ENTITY identity.permissions "Heimildir">
-<!ENTITY identity.permissionsEmpty "Þú hefur ekki gefið þessu vefsvæði nein sérstök réttindi.">
-<!ENTITY identity.permissionsReloadHint "Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.">
-<!ENTITY identity.permissionsPreferences.tooltip "Opna heimildastillingar">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Opna stillingar um efnisblokkun">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Vafraflipa">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Samstilltir flipar">
-
-<!ENTITY syncedTabs.sidebar.label              "Samstilltir flipar">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Skráðu þig inn í &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "y">
-<!ENTITY syncSyncNowItem.label        "Samstilla núna">
-<!ENTITY syncSyncNowItemSyncing.label "Er að samstilla…">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Endurtengjast við &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "r">
-<!ENTITY syncToolbarButton.label      "Sync">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Fela sjálfkrafa">
-
-<!ENTITY getUserMedia.selectCamera.label "Myndavél til að deila:">
-<!ENTITY getUserMedia.selectCamera.accesskey "y">
-<!ENTITY getUserMedia.selectMicrophone.label "Hljóðnemi til að deila:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-<!ENTITY getUserMedia.audioCapture.label "Hljóð frá flipa verður deilt.">
-<!ENTITY getUserMedia.allWindowsShared.message "Öllum sýnilegum gluggum á skjánum verður deilt.">
-
-<!ENTITY contentBlocking.title "Blokkun efnis">
-<!ENTITY contentBlocking.detected "Blokkanlegt efni fundið á þessari síðu.">
-<!ENTITY contentBlocking.notDetected "Ekkert blokkanlegt efni fundið á þessari síðu.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "Rekjarar">
-
-<!ENTITY contentBlocking.manageSettings.label "Stjórna efnisblokkun">
-<!ENTITY contentBlocking.manageSettings.accesskey "M">
-
-<!ENTITY contentBlocking.trackersView.label "Rekjarar">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Til að blokka alla rekjara, stilltu efnisblokkun á “Strict”.">
-
-<!ENTITY contentBlocking.cookies.label "Vefkökur">
-<!ENTITY contentBlocking.cookiesView.label "Vefkökur og síðugögn">
-
-<!ENTITY contentBlocking.cryptominers.label "Rafmynt grafarar">
-<!ENTITY contentBlocking.cryptominersView.label "Rafmynt grafarar">
-
-<!ENTITY contentBlocking.fingerprinters.label "Fingraför">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingraför">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Tilkynna vandamál">
-<!ENTITY contentBlocking.breakageReportView.label "Tilkynna vandamál">
-<!ENTITY contentBlocking.breakageReportView2.description "Efnisblokkun getur valdið vandamálum með sum vefsvæði. Þegar þú tilkynnir vandamál, þá hjálparðu að gera &brandShortName; betra fyrir alla. (Þetta sendir vefslóð og upplýsingar um vafrastillingarnar þínar til Mozilla.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Læra meira">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "Vefslóð">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvert var vandamálið? (Valkvæmt)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Senda tilkynningu">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Hætta við">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Slökkva á blokkun fyrir þessa síðu">
-<!ENTITY trackingProtection.unblock5.accesskey "T">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Slökkva á blokkun tímabundið">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
-<!ENTITY trackingProtection.block6.label "Slökkva á blokkun fyrir þessa síðu">
-<!ENTITY trackingProtection.block6.accesskey "T">
-<!ENTITY trackingProtection.reload2.label "Endurhlaða síðu">
-<!ENTITY trackingProtection.reload2.accesskey "R">
-
-<!ENTITY pluginNotification.showAll.label "Sýna allt">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Loka">
@@ -941,38 +238,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Örugg vöfrun!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Takk!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Vita meira um DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "Hala niður &brandShorterName; uppfærslu">
 <!ENTITY updateManual.panelUI.label "Hala niður nýrri útgáfu af &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Ekki er hægt að framkvæma frekari uppfærslur">
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "Nýi flipinn breyttist.">
-<!ENTITY newTabControlled.keepButton.label "Halda breytingum">
-<!ENTITY newTabControlled.keepButton.accesskey "g">
-<!ENTITY newTabControlled.disableButton.label "Slökkva á viðbót">
-<!ENTITY newTabControlled.disableButton.accesskey "ð">
-
-<!ENTITY homepageControlled.message "Einhver viðbót hefur breytt síðunni sem er alltaf opnuð fyrir nýja flipa. Ef þú vilt ekki þessa breytingu geturðu endurheimt eldri stillingar.">
-
-<!ENTITY homepageControlled.header.message "Heimasíða þín hefur breyst.">
-<!ENTITY homepageControlled.keepButton.label "Halda breytingum">
-<!ENTITY homepageControlled.keepButton.accesskey "H">
-<!ENTITY homepageControlled.disableButton.label "Slökkva á viðbót">
-<!ENTITY homepageControlled.disableButton.accesskey "ö">
-
-<!ENTITY tabHideControlled.header.message "Opna falda flipa">
-<!ENTITY tabHideControlled.keepButton.label "Halda flipum földum">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "Slökkva á viðbót">
-<!ENTITY tabHideControlled.disableButton.accesskey "D">
-
-<!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
-<!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
-<!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr staðsetningarslá">
-<!ENTITY pageAction.manageExtension.label "Sýsla með viðbót…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
 

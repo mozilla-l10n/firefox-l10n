@@ -51,6 +51,8 @@ login-item-time-created = Created: { DATETIME($timeCreated, day: "numeric", mont
 
 ## Master Password notification
 
+## Primary Password notification
+
 master-password-reload-button =
     .label = Innskráning
     .accesskey = g
@@ -70,4 +72,6 @@ master-password-reload-button =
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

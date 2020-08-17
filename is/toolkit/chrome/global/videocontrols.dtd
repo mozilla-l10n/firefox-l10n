@@ -14,32 +14,12 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Hljóðstyrksval">
 
-<!ENTITY stats.media "Gögn">
-<!ENTITY stats.size "Stærð">
-<!ENTITY stats.activity "Aðgerð">
-<!ENTITY stats.activityPaused "Í bið">
-<!ENTITY stats.activityPlaying "Spila">
-<!ENTITY stats.activityEnded "Lokið">
-<!ENTITY stats.activitySeeking "(leita)">
-<!ENTITY stats.volume "Bindi">
-<!ENTITY stats.framesParsed "Þáttaðir rammar">
-<!ENTITY stats.framesDecoded "Afkóðaðir rammar">
-<!ENTITY stats.framesPresented "Birtir rammar">
-<!ENTITY stats.framesPainted "Litaðir rammar">
-
 <!ENTITY error.aborted "Myndbandhleðsla stöðvuð.">
 <!ENTITY error.network "Ekki er hægt að spila myndband vegna villu í netkerfi.">
 <!ENTITY error.decode "Ekki er hægt að spila myndband vegna þess að skráin er brengluð.">
 <!ENTITY error.srcNotSupported "Myndbandasnið eða MIME tegund er ekki með stuðning.">
 <!ENTITY error.noSource2 "Fann ekki myndband sem er með stuðning og rétta MIME tegund.">
 <!ENTITY error.generic "Hætt við spilun á myndbandi vegna óþekktrar villu.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 af #2 búið">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

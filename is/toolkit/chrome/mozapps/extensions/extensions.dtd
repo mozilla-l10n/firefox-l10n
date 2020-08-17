@@ -3,74 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!-- addon actions -->
-<!ENTITY cmd.enableAddon.label                "Virkja">
-<!ENTITY cmd.enableAddon.accesskey            "i">
-<!ENTITY cmd.disableAddon.label               "Slökkva">
-<!ENTITY cmd.disableAddon.accesskey           "l">
-
-<!ENTITY cmd.askToActivate.label              "Spyrja hvort eigi að virkja">
-<!ENTITY cmd.askToActivate.tooltip            "Spyrja hvort eigi að nota þessa viðbót í hvert skipti">
-<!ENTITY cmd.alwaysActivate.label             "Alltaf virkja">
-<!ENTITY cmd.alwaysActivate.tooltip           "Alltaf nota þessa viðbót">
-<!ENTITY cmd.neverActivate.label              "Aldrei virkja">
-<!ENTITY cmd.neverActivate.tooltip            "Aldrei nota þessa viðbót">
-<!ENTITY cmd.stateMenu.tooltip                "Breyta hvenær þessi viðbót keyrir">
-
-<!ENTITY cmd.uninstallAddon.label             "Fjarlægja">
-<!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.showPreferencesWin.label         "Valkostir">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Breyta stillingum fyrir þessa viðbót">
-<!ENTITY cmd.showPreferencesUnix.label        "Valkostir">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Breyta stillingum viðbótar">
-
-<!ENTITY cmd.showReleaseNotes.label           "Sýna útgáfuupplýsingar">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Sýna útgáfuupplýsingar fyrir þessa uppfærslu">
-<!ENTITY cmd.hideReleaseNotes.label           "Fela útgáfuupplýsingar">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Fela útgáfuupplýsingar fyrir þessa uppfærslu">
-<!ENTITY cmd.findReplacement.label            "Finna staðgengil">
-
 <!-- discovery view -->
 
-
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Hætta við">
-
-<!ENTITY addon.details.label                  "Meira">
-<!ENTITY addon.details.tooltip                "Sýna meiri upplýsingar um þessa viðbót">
-<!ENTITY addon.unknownDate                    "Óþekkt">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "GAMALT">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(óvirk)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Uppfæra">
-<!ENTITY addon.undoAction.label               "Afturkalla">
-<!ENTITY addon.undoAction.tooltip             "Hætta við þessa aðgerð">
-<!ENTITY addon.undoRemove.label               "Afturkalla">
-<!ENTITY addon.undoRemove.tooltip             "Halda þessari viðbót uppsettri">
-
-<!ENTITY addon.install.label                  "Setja upp">
-<!ENTITY addon.install.tooltip                "Setja inn þessa viðbót">
-<!ENTITY addon.updateNow.label                "Uppfæra nú">
-<!ENTITY addon.updateNow.tooltip              "Setja inn uppfærslu fyrir þessa viðbót">
-<!ENTITY addon.includeUpdate.label            "Taka með í uppfærslu">
-<!ENTITY addon.updateAvailable.label          "Uppfærsla er fáanleg">
-<!ENTITY addon.checkingForUpdates.label       "Athuga með uppfærslur…">
-<!ENTITY addon.releaseNotes.label             "Útgáfuupplýsingar:">
-<!ENTITY addon.loadingReleaseNotes.label      "Hleður…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Því miður kom upp villa við að sýna útgáfuupplýsingar.">
-
-<!ENTITY addon.createdBy.label                "Frá ">
-
-<!ENTITY settings.path.button.label           "Velja…">
 
 <!ENTITY setting.learnmore "Fræðast meira…">
 
