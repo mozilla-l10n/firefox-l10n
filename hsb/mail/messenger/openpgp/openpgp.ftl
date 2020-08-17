@@ -106,12 +106,43 @@ openpgp-key-details-created-header = Wutworjeny
 openpgp-key-details-usage-label =
     .label = Wužiwanje
 openpgp-key-details-fingerprint-label = Porstowy wotćišć
+openpgp-key-details-sel-action =
+    .label = Akciju wubrać
+    .accesskey = b
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Začinić
+openpgp-acceptance-rejected-label =
+    .label = Ně, tutón kluč wotpokazać.
+openpgp-acceptance-undecided-label =
+    .label = Hišće nic, snano pozdźišo.
+openpgp-copy-cmd-label =
+    .label = Kopěrować
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Kluč přidać…
+    .accesskey = K
+e2e-learn-more = Dalše informacije
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Žadyn
+openpgp-key-expand-section =
+    .tooltiptext = Dalše informacije
+openpgp-key-revoke-title = Kluč wotwołać
+openpgp-key-edit-title = OpenPGP-kluč změnić
+# Strings in keyDetailsDlg.xhtml
+key-type-public = zjawny kluč
+key-type-primary = hłowny kluč
+key-type-subkey = podkluč
+key-expiry-never = ženje
+key-usage-encrypt = Zaklučować
+key-usage-sign = Signować
+key-usage-certify = Certifikować
+key-usage-authentication = Awtentifikacija
+key-does-not-expire = Kluč njespadnje
 
 ## Account settings export output
 
