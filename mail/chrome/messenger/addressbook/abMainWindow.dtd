@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Bearbeiten">
 <!ENTITY editMenu.accesskey                             "B">
-<!ENTITY undoCmd.label                                  "Rückgängig">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "R">
-<!ENTITY redoCmd.label                                  "Wiederherstellen">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "W">
-<!ENTITY cutCmd.label                                   "Ausschneiden">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "A">
-<!ENTITY copyCmd.label                                  "Kopieren">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Einfügen">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Löschen">
-<!ENTITY deleteCmd.accesskey                            "L">
 <!ENTITY deleteAbCmd.label                              "Adressbuch löschen">
 <!ENTITY deleteContactCmd.label                         "Kontakt löschen">
 <!ENTITY deleteContactsCmd.label                        "Kontakte löschen">
 <!ENTITY deleteListCmd.label                            "Liste löschen">
 <!ENTITY deleteListsCmd.label                           "Listen löschen">
 <!ENTITY deleteItemsCmd.label                           "Elemente löschen">
-<!ENTITY selectAllCmd.label                             "Alles auswählen">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "u">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Vor-/Nachnamen vertauschen">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "V">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "false">
 <!ENTITY propertiesMenu.label                           "Eigenschaften">
 <!ENTITY propertiesMenu.accesskey                       "n">
 <!ENTITY propertiesCmd.key                              "i">

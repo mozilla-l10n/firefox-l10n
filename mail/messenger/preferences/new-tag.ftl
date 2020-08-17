@@ -8,3 +8,4 @@ tag-dialog-window =
 tag-name-label =
     .value = Schlagwort und zugeordnete Farbe:
     .accesskey = S
+

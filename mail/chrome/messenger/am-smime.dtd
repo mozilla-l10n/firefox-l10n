@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "S/MIME-Sicherheit">
-<!ENTITY securityTab.label "S/MIME-Sicherheit">
-<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für Verschlüsselung als auch eines für digitale Unterschrift angeben.">
-<!ENTITY encryptionGroupTitle.label "Verschlüsselung">
-<!ENTITY encryptionChoiceLabel.label "Standard-Verschlüsselungseinstellung beim Senden von Nachrichten:">
-<!ENTITY neverEncrypt.label "Nie (keine Verschlüsselung verwenden)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Notwendig (Senden nur möglich, wenn alle Empfänger ein Zertifikat besitzen)">
-<!ENTITY alwaysEncryptMessage.accesskey "o">
-<!ENTITY encryptionCert.message "Folgendes Zertifikat verwenden, um Nachrichten zu ver- und entschlüsseln:">
-
 <!ENTITY e2eTitle.label "Ende-zu-Ende-Verschlüsselung">
-<!ENTITY e2eIntro.description "Zum Senden von verschlüsselten oder digital unterschriebenen Nachrichten muss eine Verschlüsselungs-Technologie eingerichtet. Dies kann entweder OpenPGP oder S/MIME sein.">
 <!ENTITY e2eLearnMore.label "Weitere Informationen">
 
 <!ENTITY e2eEnc.description "Ohne Ende-zu-Ende-Verschlüsselung ist der Inhalt Ihrer Nachrichten für Ihren E-Mail-Anbieter leicht zugänglich und kann auch Bestandteil einer Massenüberwachung werden.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Leeren">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitale Unterschrift">
-<!ENTITY signMessage.label "Nachrichten digital unterschreiben (als Standard)">
 <!ENTITY signMessage2.label "Eigene digitale Unterschrift standardmäßig hinzufügen">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Folgendes Zertifikat verwenden, um Nachrichten digital zu unterschreiben:">
-
-<!ENTITY certificates.label "Zertifikate">
-<!ENTITY manageCerts2.label "Zertifikate verwalten…">
-<!ENTITY manageCerts2.accesskey "Z">
-<!ENTITY manageDevices.label "Kryptographie-Module verwalten…">
-<!ENTITY manageDevices.accesskey "M">
 
 <!ENTITY signingCert2.message "Persönliches Zertifikat für digitale Unterschrift:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "OpenPGP bevorzugen">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGP-Schlüssel verwalten">
-<!ENTITY manageKeys.accesskey "O">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Zertifikat auswählen">

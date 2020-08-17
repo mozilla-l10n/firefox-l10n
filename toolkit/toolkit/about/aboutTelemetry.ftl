@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Datensatz auswählen:
-about-telemetry-show-current-ping-data = Datensatz in Aufzeichnung
 about-telemetry-show-current-data = Datensatz in Aufzeichnung
 about-telemetry-show-archived-ping-data = Archivierte Datensätze
 about-telemetry-show-subsession-data = Untersitzungsdaten anzeigen
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Telemetrie sammelt { about-telemetry-data
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Jede Information wird als "<a data-l10n-name="ping-link">Datensatz</a>" verpackt gesendet. Dies ist der Datensatz { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Jede Information wird als "<a data-l10n-name="ping-link">Datensatz</a>" verpackt gesendet. Dies ist der aktuelle Datensatz.
 about-telemetry-data-details-current = Jede Information wird als "<a data-l10n-name="ping-link">Datensatz</a>" verpackt gesendet. Dies ist der aktuelle Datensatz.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Keine Übereinstimmungen für "{ $search
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Keine Daten in "{ $sectionName }" vorhanden
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = aktueller Datensatz
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = aktueller Datensatz
 # used in the “Ping Type” select

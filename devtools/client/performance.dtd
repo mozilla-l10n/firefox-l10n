@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Name und Adresse im Quellcode der aufgezeichneten Funktion">
 <!ENTITY performanceUI.table.totalAlloc               "Aufgezeichnete Gesamtallokationen">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Gesamtzahl der aufgezeichneten Object-Allokationen für diese Adresse und in von dieser aufgerufenen Funktionen">
-<!ENTITY performanceUI.table.selfAlloc                "Aufgezeichnete Eigenallokationen">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Anzahl der für diese Adresse aufgezeichneten Object-Allokationen">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Einstellungen, Lesezeichen, Chronik, Passwörter und sonstige Daten importieren von:">
 <!ENTITY importFromUnix.label           "Einstellungen, Lesezeichen, Chronik, Passwörter und sonstige Daten importieren von:">
-<!ENTITY importFromBookmarks.label      "Lesezeichen importieren aus:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

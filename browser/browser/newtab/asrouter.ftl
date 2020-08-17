@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Probieren Sie es aus: Tab anheften
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Warum wird das angezeigt?
+
 cfr-doorhanger-extension-cancel-button = Nicht jetzt
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Jetzt hinzufügen
     .accesskey = h
 cfr-doorhanger-pintab-ok-button = Diesen Tab anheften
     .accesskey = a
+
 cfr-doorhanger-extension-manage-settings-button = Einstellungen für Empfehlungen verwalten
     .accesskey = E
+
 cfr-doorhanger-extension-never-show-recommendation = Diese Empfehlung nicht anzeigen
     .accesskey = D
+
 cfr-doorhanger-extension-learn-more-link = Weitere Informationen
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = von { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Empfehlung
 cfr-doorhanger-extension-notification2 = Empfehlung
     .tooltiptext = Erweiterungsempfehlung
     .a11y-announcement = Erweiterungsempfehlung verfügbar
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Empfehlung
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } Benutzer
        *[other] { $total } Benutzer
     }
+
 cfr-doorhanger-pintab-description = Schneller Zugriff auf die meistverwendeten Seiten. Seiten bleiben geöffnet, selbst nach einem Neustart.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Schneller Zugriff auf die meistverwendeten S
 cfr-doorhanger-pintab-step1 = Klicken Sie mit der <b>rechten Maustaste</b> auf den anzuheftenden Tab.
 cfr-doorhanger-pintab-step2 = Wählen Sie <b>Tab anheften</b> aus dem Menü.
 cfr-doorhanger-pintab-step3 = Falls die Seite auf eine Aktualisierung aufmerksam machen will, wird ein blauer Punkt auf dem angehefteten Tab angezeigt.
+
 cfr-doorhanger-pintab-animation-pause = Anhalten
 cfr-doorhanger-pintab-animation-resume = Fortfahren
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Weitere Informationen
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Neue Funktion:
+
 cfr-whatsnew-button =
     .label = Neue Funktionen und Änderungen
     .tooltiptext = Neue Funktionen und Änderungen
+
 cfr-whatsnew-panel-header = Neue Funktionen und Änderungen
+
 cfr-whatsnew-release-notes-link-text = Release Notes lesen
+
 cfr-whatsnew-fx70-title = { -brand-short-name } kämpft noch stärker für deine Privatsphäre
 cfr-whatsnew-fx70-body =
     Das neueste Update verbessert den Tracking-Schutz und macht es
     dir einfacher denn je, sichere Passwörter für jede Webseite zu erstellen.
+
 cfr-whatsnew-tracking-protect-title = Schütze dich vor Online-Tracking
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blockt gängige Online-Tracker sozialer Plattformen und anderer Webseiten,
     die dir durchs Web folgen wollen.
 cfr-whatsnew-tracking-protect-link-text = Deinen Bericht anzeigen
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Seit { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Bericht anzeigen
+
 cfr-whatsnew-lockwise-backup-title = Speichere deine Passwörter ab
 cfr-whatsnew-lockwise-backup-body = Generiere jetzt sichere Passwörter, auf die du mit deinem Konto von überall aus zugreifen kannst.
 cfr-whatsnew-lockwise-backup-link-text = Backups einschalten
+
 cfr-whatsnew-lockwise-take-title = Nimm deine Passwörter mit
 cfr-whatsnew-lockwise-take-body =
     Mit der { -lockwise-brand-short-name } App für mobile Geräte kannst du von überall aus sicher auf deine
@@ -151,6 +170,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Identifizierer (Fingerprinter) blockiert
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blockiert viele Identifizierer (Fingerprinter), welche sonst heimlich Informationen über dein Gerät und deine Aktivitäten sammeln, um ein Werbeprofil über dich zu erstellen.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Identifizierer (Fingerprinter)
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kann Identifizierer (Fingerprinter) blockieren, die sonst heimlich Informationen über dein Gerät und deine Aktivitäten sammeln, um ein Werbeprofil über dich zu erstellen.
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Alle anzeigen
     .accesskey = A
+
 cfr-doorhanger-milestone-close-button = Schließen
     .accesskey = S
 
