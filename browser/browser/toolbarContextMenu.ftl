@@ -5,9 +5,6 @@
 toolbar-context-menu-reload-selected-tabs =
     .label = ಆಯ್ದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು
     .accesskey = R
-toolbar-context-menu-undo-close-tab =
-    .label = Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು
-    .accesskey = U
 
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different

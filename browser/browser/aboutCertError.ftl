@@ -49,7 +49,6 @@ proxyResolveFailure-title = ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ
 redirectLoop-title = ಪುಟವು ಸರಿಯಾಗಿ ಮರಳಿ ನಿರ್ದೇಶನಗೊಳ್ಳುತ್ತಿಲ್ಲ
 unknownSocketType-title = ಪರಿಚಾರಕದಿಂದ ಅನಿರೀಕ್ಷಿತ ಪ್ರತಿಕ್ರಿಯೆ
 nssFailure2-title = ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವು ವಿಫಲಗೊಂಡಿದೆ
-cspBlocked-title = ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ
 corruptedContentError-title = ವಿಷಯ ಹಾಳಾದ ದೋಷ
 remoteXUL-title = ದೂರಸ್ಥ XUL
 sslv3Used-title = ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ

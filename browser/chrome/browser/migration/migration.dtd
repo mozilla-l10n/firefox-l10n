@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ಇಲ್ಲಿಂದ ಆಯ್ಕೆಗಳನ್ನು, ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು, ಇತಿಹಾಸ, ಗುಪ್ತಪದ ಹಾಗು ಇತರೆ ಮಾಹಿತಿಯನ್ನು ಆಮದು ಮಾಡಿಕೊ:">
 <!ENTITY importFromUnix.label           "ಇಲ್ಲಿಂದ ಆದ್ಯತೆಗಳನ್ನು, ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು, ಇತಿಹಾಸ, ಗುಪ್ತಪದ ಹಾಗು ಇತರೆ ಮಾಹಿತಿಯನ್ನು ಆಮದು ಮಾಡಿಕೊ:">
-<!ENTITY importFromBookmarks.label      "ಇಲ್ಲಿಂದ ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು ಆಮದು ಮಾಡಿಕೊ:">
 
 <!ENTITY importFromIE.label             "ಮೈಕ್ರೋಸಾಫ್ಟ್‍ ಇಂಟರ್ನೆಟ್ ಎಕ್ಸ್‍ಪ್ಲೋರರ್">
 <!ENTITY importFromIE.accesskey         "M">

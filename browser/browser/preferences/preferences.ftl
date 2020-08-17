@@ -7,13 +7,6 @@ do-not-track-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 do-not-track-option-always =
     .label = ಯಾವಾಗಲೂ
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] ಆಯ್ಕೆಗಳು
-           *[other] ಆದ್ಯತೆಗಳು
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] ಆಯ್ಕೆಗಳು
@@ -485,8 +478,6 @@ search-keyword-warning-bookmark = ಒಂದು ಬುಕ್‌ಮಾರ್ಕಿ
 
 ## Containers Section
 
-containers-back-link = « ಹಿಂದೆ ಹೋಗಿ
-
 containers-header = ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍
 containers-add-button =
     .label = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
@@ -506,14 +497,6 @@ containers-remove-button =
 sync-signedout-caption = ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ
 sync-signedout-description = ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ
 
-sync-signedout-account-title = { -fxaccount-brand-name } ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು
-sync-signedout-account-create = ನಿಮ್ಮ ಖಾತೆ ಇಲ್ಲವೆ? ಶುರು ಮಾಡಿ
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = ಸೈನ್ ಇನ್…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -532,10 +515,6 @@ sync-mobile-promo = Firefox ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ<img data-l1
 sync-profile-picture =
     .tooltiptext = ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು
 
-sync-disconnect =
-    .label = ಸಂಪರ್ಕ ತಪ್ಪಿಸು…
-    .accesskey = D
-
 sync-manage-account = ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು
     .accesskey = o
 
@@ -549,8 +528,6 @@ sync-remove-account =
 sync-sign-in =
     .label = ಒಳಗೆ ಪ್ರವೇಶಿಸು‍
     .accesskey = g
-
-sync-signedin-settings-header = ಸಿಂಕ್‍ನ ಸಿದ್ಧತೆಗಳು
 
 ## Sync section - enabling or disabling sync.
 
@@ -589,10 +566,6 @@ sync-device-name-save =
     .label = ಉಳಿಸು‍
     .accesskey = v
 
-sync-tos-link = ಸೇವೆಯ ನಿಯಮಗಳು
-
-sync-fxa-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
-
 ## Privacy Section
 
 privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
@@ -617,6 +590,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = ನೀವು ಸದ್ಯಕ್ಕೆ FIPS ವಿಧಾನದಲ್ಲಿದ್ದೀರಿ. FIPS ಗೆ ಒಂದು ಖಾಲಿ ಇರದ ಮಾಸ್ಟರ್ ಗುಪ್ತಪದದ ಅಗತ್ಯವಿದೆ.
+
 forms-master-pw-fips-desc = ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ
 
 ## OS Authentication dialog
@@ -821,6 +795,8 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = OK ಸರಿ, ಗೊತ್ತಾಯಿತು
     .accesskey = K
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

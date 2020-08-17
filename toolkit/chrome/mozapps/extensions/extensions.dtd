@@ -3,72 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Enable">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "Disable">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "ಸಕ್ರಿಯಗೊಳಿಸಲು ಕೇಳಿ">
-<!ENTITY cmd.askToActivate.tooltip            "ಪ್ರತಿ ಬಾರಿಯೂ ಸಹ ಇದನ್ನು ಬಳಸಲು ಕೇಳು">
-<!ENTITY cmd.alwaysActivate.label             "ಯಾವಾಗಲೂ ಸಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY cmd.alwaysActivate.tooltip           "ಯಾವಾಗಲೂ ಈ ಆಡ್-ಆನ್ ಅನ್ನು ಬಳಸು">
-<!ENTITY cmd.neverActivate.label              "ಎಂದಿಗೂ ಸಕ್ರಿಯಗೊಳಿಸಬೇಡ">
-<!ENTITY cmd.neverActivate.tooltip            "ಎಂದಿಗೂ ಈ ಆಡ್-ಆನ್ ಅನ್ನು ಬಳಸಬೇಡ">
-<!ENTITY cmd.stateMenu.tooltip                "ಈ ಆಡ್-ಆನ್ ಚಲಾಯಿತಗೊಂಡಾಗ ಬದಲಾಯಿಸು">
-
-<!ENTITY cmd.uninstallAddon.label             "Remove">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "ಆಯ್ಕೆಗಳು">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ಈ ಆಡ್‌-ಆನ್‌ನ ಆಯ್ಕೆಗಳನ್ನು ಬದಲಾಯಿಸಿ">
-<!ENTITY cmd.showPreferencesUnix.label        "ಆದ್ಯತೆಗಳು">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ಈ ಆಡ್‌-ಆನ್‌ನ ಆದ್ಯತೆಗಳನ್ನು ಬದಲಾಯಿಸಿ">
-
-<!ENTITY cmd.showReleaseNotes.label           "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY cmd.showReleaseNotes.tooltip         "ಈ ಅಪ್‌ಡೇಟ್‌ಗಾಗಿನ ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY cmd.hideReleaseNotes.label           "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಅಡಗಿಸು">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "ಈ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಅಡಗಿಸು">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "ರದ್ದುಗೊಳಿಸಿ">
-
-
-<!ENTITY addon.details.label                  "ಇನ್ನಷ್ಟು">
-<!ENTITY addon.details.tooltip                "ಈ ಆಡ್-ಆನ್‌ನ ಬಗೆಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು">
-<!ENTITY addon.unknownDate                    "ಗೊತ್ತಿರದ">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(ಅಶಕ್ತಗೊಂಡ)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "ಅಪ್‌ಡೇಟ್‌">
-<!ENTITY addon.undoAction.label               "ರದ್ದುಗೊಳಿಸು">
-<!ENTITY addon.undoAction.tooltip             "ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಿ">
-<!ENTITY addon.undoRemove.label               "ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಮರಳಿಸು">
-<!ENTITY addon.undoRemove.tooltip             "ಈ ಆಡ್-ಆನ್ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿರಲಿ">
-
-<!ENTITY addon.install.label                  "ಅನುಸ್ಥಾಪಿಸು">
-<!ENTITY addon.install.tooltip                "ಈ ಆಡ್-ಆನ್‌ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸು">
-<!ENTITY addon.updateNow.label                "ಈಗಲೆ ಅಪ್‌ಡೇಟ್ ಮಾಡು">
-<!ENTITY addon.updateNow.tooltip              "ಈ ಆಡ್-ಆನ್‌ಗಾಗಿ ಅಪ್‌ಡೇಟ್‌ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ">
-<!ENTITY addon.includeUpdate.label            "ಅಪ್‌ಡೇಟ್‌ನಲ್ಲಿ ಸೇರ್ಪಡಿಸು">
-<!ENTITY addon.updateAvailable.label          "ಒಂದು ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆ">
-<!ENTITY addon.checkingForUpdates.label       "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…">
-<!ENTITY addon.releaseNotes.label             "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು:">
-<!ENTITY addon.loadingReleaseNotes.label      "ಲೋಡ್ ಆಗುತ್ತಿದೆ…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "ಕ್ಷಮಿಸಿ, ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ಒಂದು ದೋಷ ಉಂಟಾಗಿದೆ.">
-
-<!ENTITY addon.createdBy.label                "ಇವರಿಂದ ">
-
-<!ENTITY settings.path.button.label           "ವೀಕ್ಷಿಸಿ…">
 
 <!ENTITY setting.learnmore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">
 

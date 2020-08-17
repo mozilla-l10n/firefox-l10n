@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು
 synced-tabs-sidebar-noclients-subtitle = ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?
-synced-tabs-sidebar-notsignedin = ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.
 synced-tabs-sidebar-unverified = ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಬೇಕಾಗಿದೆ.
 synced-tabs-sidebar-notabs = ಯಾವುದೆ ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳಿಲ್ಲ
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } ಆದ್ಯತೆಗಳು ಅನ್ನು ತೆರೆ

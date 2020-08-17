@@ -21,6 +21,9 @@ change-password-reenter = ಹೊಸ ಗುಪ್ತಪದ (ಮತ್ತೊಮ್
 reset-password-window =
     .title = ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಹೊಂದಿಸು
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = ಮರಳಿ ಹೊಂದಿಸು
 reset-password-text = ನೀವು ನಿಮ್ಮ ಮುಖ್ಯ ಪದವನ್ನು ಮರಳಿ ಹೊಂದಿಸಿದರೆ, ಶೇಖರಿತಗೊಂಡ ನಿಮ್ಮ ಎಲ್ಲಾ ಜಾಲ ಹಾಗು ಇ-ಮೇಲ್ ಗುಪ್ತಪದಗಳು, ಫಾರ್ಮ್ ಮಾಹಿತಿ, ವೈಯಕ್ತಿಕ ಪ್ರಮಾಣಪತ್ರಗಳು, ಹಾಗು ಖಾಸಗಿ ಕೀಲಿಗಳು ಮರೆಯಲ್ಪಡುತ್ತವೆ. ನೀವು ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ಖಚಿತವಾಗಿಯೂ ಮರಳಿ ಹೊಂದಿಸಲು ಬಯಸುತ್ತೀರೆ?
