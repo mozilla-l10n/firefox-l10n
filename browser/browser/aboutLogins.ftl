@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Kredenciale Hyrjesh & Fjalëkalime
@@ -32,6 +27,7 @@ menu =
     .title = Hape menunë
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importoni nga Tjetër Shfletues…
+about-logins-menu-menuitem-import-from-a-file = Importoni prej një Kartele…
 about-logins-menu-menuitem-export-logins = Eksportoni Kredenciale Hyrjesh…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Po shihni për kredenciale hyrjesh tuajat të ruajtura? Ujdisni { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Po shihni për kredenciale hyrjesh tuajat të ruajtura? Ujdisni { -sync-brand-short-name } ose Importojini.
 about-logins-login-intro-heading-logged-in = S’u gjetën kredenciale të njëkohësuar hyrjesh.
 login-intro-description = Nëse ruajtët kredenciale tuajat hyrjesh te { -brand-product-name } në një pajisje tjetër, ja se si t’i merrni këtu:
 login-intro-instruction-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } e juaj te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
 login-intro-instruction-fxa-settings = Sigurohuni se keni përzgjedhur kutizën Kredenciale Hyrjeshte Rregullime { -sync-brand-short-name }
 about-logins-intro-instruction-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="help-link">Asistencë { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Nëse kredencialet tuaj për hyrje janë ruajtur në një shfletues tjetër, mund t’i <a data-l10n-name="import-link">importoni ata te { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Nëse kredencialet tuaja për hyrje janë ruajtur jashtë { -brand-product-name }-it, mund t’i <a data-l10n-name="import-browser-link">importoni që nga një shfletues tjetër</a> ose <a data-l10n-name="import-file-link">prej një kartele</a>
 
 ## Login
 
@@ -136,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = eksporto kredencial
 ## Master Password notification
 
 master-password-notification-message = Që të shihni kredenciale hyrjesh të ruajtura, ju lutemi, jepni fjalëkalimin tuaj të përgjithshëm
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Që të shihni kredenciale hyrjesh të ruajtura & fjalëkalime, ju lutemi, jepni Fjalëkalimin tuaj Parësor
 master-password-reload-button =
     .label = Hyni
     .accesskey = H
@@ -215,5 +217,18 @@ about-logins-export-file-picker-export-button = Eksporto
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
+       *[other] Kartelë CVS
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importoni Kartelë Kredencialesh Hyrjesh
+about-logins-import-file-picker-import-button = Importo
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CVS
        *[other] Kartelë CVS
     }

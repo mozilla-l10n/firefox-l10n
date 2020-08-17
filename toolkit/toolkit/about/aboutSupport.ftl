@@ -17,7 +17,10 @@ extensions-name = Emër
 extensions-enabled = I aktivizuar
 extensions-version = Version
 extensions-id = ID
+support-addons-title = Shtesa
 support-addons-name = Emër
+support-addons-type = Lloj
+support-addons-enabled = E aktivizuar
 support-addons-version = Version
 support-addons-id = ID
 security-software-title = Software Sigurie
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Hape Dosjen
        *[other] Hape Drejtorinë
     }
+experimental-features-title = Veçori Eksperimentale
+experimental-features-name = Emër
+experimental-features-value = Vlerë
 modified-key-prefs-title = Parapëlqime të Rëndësishme të Ndryshuara
 modified-prefs-name = Emër
 modified-prefs-value = Vlerë
@@ -266,6 +272,9 @@ blocklisted-bug = Vënë në listë të zezë, për shkak problemesh të njohura
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = e meta { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Shtuar në listë bllokimesh për shkak çështjesh të njohura: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Vënë në listë të zezë, kod dështimi { $failureCode }
