@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Biçimlendirme olmadan yapıştır">
 <!ENTITY pasteNoFormatting.accesskey "O">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Farklı yapıştır">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Bul…">
-<!ENTITY findReplaceCmd.label "Bul ve değiştir…">
-<!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimi yap">
-<!ENTITY enableInlineSpellChecker.accesskey "Y">
-<!ENTITY checkSpellingCmd2.label "Yazımı denetle…">
-<!ENTITY checkSpellingCmd2.accesskey "D">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ekle">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Gövde metni">
 <!ENTITY bodyTextCmd.accesskey "M">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Gelişmiş özellikler">
-<!ENTITY advancedPropertiesCmd.accesskey "Ö">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Hizala">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Yasla">
 <!ENTITY alignJustify.accesskey "Y">
 <!ENTITY alignJustify.tooltip "İki yana yasla">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Katman">
-<!ENTITY layerSendToBack.tooltip "Arkaya gönder">
-<!ENTITY layerBringToFront.tooltip "Öne getir">
 
 <!ENTITY increaseIndent.label "Girintiyi artır">
 <!ENTITY increaseIndent.accesskey "r">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Tablo özellikleri…">
 <!ENTITY tableProperties.accesskey "b">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menü çubuğu">
-<!ENTITY formatToolbar.tooltip "Biçimlendirme araç çubuğu">
-<!ENTITY cutToolbarCmd.tooltip "Kes">
-<!ENTITY copyToolbarCmd.tooltip "Kopyala">
-<!ENTITY pasteToolbarCmd.tooltip "Yapıștır">
-<!ENTITY printToolbarCmd.label "Yazdır">
-<!ENTITY printToolbarCmd.tooltip "Bu sayfayı yazdır">
-<!ENTITY findToolbarCmd.label "Bul">
-<!ENTITY findToolbarCmd.tooltip "Sayfada metin bul">
-<!ENTITY spellToolbarCmd.label "Yazım">
-<!ENTITY spellToolbarCmd.tooltip "Seçimin veya tüm sayfada yazım denetimi yap">
-
 <!ENTITY imageToolbarCmd.label "Resim">
 <!ENTITY imageToolbarCmd.tooltip "Yeni bir resim ekle veya seçili görüntünün özelliklerini düzenle">
 <!ENTITY hruleToolbarCmd.label "Y. çizgi">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Yeni bir isimli çıpa ekle veya seçili çıpanın özelliklerini düzenle">
 <!ENTITY TextColorButton.tooltip "Metin rengini seç">
 <!ENTITY BackgroundColorButton.tooltip "Arka plan rengini seç">
-<!ENTITY throbber.tooltip2 "&brandShortName; ana sayfasına git">
-<!ENTITY HighlightColorButton.tooltip "Vurgulu metin rengini seç">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Yazı tipi boyutunu ayarla">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Metni ortala">
 <!ENTITY alignRightButton.tooltip "Metni sağ kenara hizala">
 <!ENTITY alignJustifyButton.tooltip "Metni sol ve sağ kenarlar boyunca hizala">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Seç">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Etiketi kaldır">
-<!ENTITY structRemoveTag.accesskey  "E">
-<!ENTITY structChangeTag.label      "Etiketi değiştir">
-<!ENTITY structChangeTag.accesskey  "t">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ekle">

@@ -5,17 +5,23 @@
 #   $identity (String) - the email address of the currently selected identity
 key-wizard-dialog-window =
     .title = { $identity } için Kişisel OpenPGP Anahtarı Ekle
+
 key-wizard-button =
     .buttonlabelaccept = Devam et
     .buttonlabelhelp = Geri dön
+
 key-wizard-warning = Bu e-posta adresi için <b>mevcut bir kişisel anahtarınız varsa</b> onu içe aktarmalısınız. Aksi halde şifrelenmiş e-posta arşivlerinize erişemez ve mevcut anahtarınızı kullanan kişilerden gelen şifrelenmiş e-postaları okuyamazsınız.
+
 key-wizard-learn-more = Daha fazla bilgi al
+
 radio-create-key =
     .label = Yeni OpenPGP anahtarı oluştur
     .accesskey = Y
+
 radio-import-key =
     .label = Mevcut bir OpenPGP anahtarını içe aktar
     .accesskey = M
+
 radio-gnupg-key =
     .label = GnuPG aracılığıyla harici anahtarımı kullan (örn. bir akıllı karttan)
     .accesskey = k
@@ -23,51 +29,74 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP Anahtarı Oluştur
+
 radio-keygen-no-expiry =
     .label = Anahtarın süresi dolmasın
     .accesskey = d
+
 openpgp-keygen-days-label =
     .label = gün
 openpgp-keygen-months-label =
     .label = ay
 openpgp-keygen-years-label =
     .label = yıl
+
 openpgp-keygen-advanced-title = Gelişmiş ayarlar
+
 openpgp-keygen-advanced-description = OpenPGP anahtarınızın gelişmiş ayarlarını yönetin.
+
 openpgp-keygen-keytype =
     .value = Anahtar türü:
     .accesskey = t
+
 openpgp-keygen-keysize =
     .value = Anahtar boyutu:
     .accesskey = b
+
 openpgp-keygen-type-rsa =
     .label = RSA
+
 openpgp-keygen-button = Anahtar oluştur
+
 openpgp-keygen-progress-title = Yeni OpenPGP anahtarınız oluşturuluyor…
+
 openpgp-keygen-import-progress-title = OpenPGP anahtarlarınız içe aktarılıyor…
+
 openpgp-import-success = OpenPGP anahtarları başarıyla içe aktarıldı!
+
 openpgp-keygen-confirm =
     .label = Onayla
+
 openpgp-keygen-dismiss =
     .label = Vazgeç
+
 openpgp-keygen-cancel =
     .label = İşlemi iptal et…
+
 openpgp-keygen-import-complete =
     .label = Kapat
     .accesskey = K
+
 openpgp-keygen-long-expiry = Süresi 100 yıldan fazla olan bir anahtar oluşturamazsınız.
 openpgp-keygen-short-expiry = Anahtarınız en az bir gün geçerli olmalıdır.
+
 openpgp-keygen-ongoing = Anahtar üretimi devam ediyor!
+
 openpgp-keygen-abort-title = Anahtar üretimi iptal edilsin mi?
 openpgp-keygen-abort = OpenPGP anahtar üretimi şu anda devam ediyor. İptal etmek istediğinizden emin misiniz?
 
 ## Import Key section
 
 openpgp-passphrase-prompt-title = Parola gerekli
+
 gnupg-file = GnuPG dosyaları
+
 openpgp-import-identity-label = Kimlik
+
 openpgp-import-fingerprint-label = Parmak izi
+
 openpgp-import-bits-label = Bit
+
 openpgp-import-key-props =
     .label = Anahtar özellikleri
     .accesskey = A
@@ -75,6 +104,8 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Harici GnuPG anahtarı
+
 openpgp-save-external-button = Anahtar kimliğini kaydet
+
 openpgp-external-key-input =
     .placeholder = 123456789341298340

@@ -5,6 +5,7 @@
 openpgp-manage-keys-openpgp-cmd =
     .label = OpenPGP Anahtar Yöneticisi
     .accesskey = O
+
 openpgp-ctx-decrypt-open =
     .label = Şifreyi çöz ve aç
     .accesskey = Ç
@@ -17,13 +18,20 @@ openpgp-ctx-import-key =
 openpgp-ctx-verify-att =
     .label = İmzayı doğrula
     .accesskey = d
+
 openpgp-import-sender-key =
     .label = İçe aktar…
+
 openpgp-search-keys-openpgp =
     .label = OpenPGP anahtarını keşfet
+
 openpgp-missing-signature-key = Bu ileti henüz sahip olmadığınız bir anahtarla imzalandı.
+
 openpgp-search-signature-key =
     .label = Keşfet…
+
 openpgp-broken-exchange-wait = Lütfen bekleyin…
+
 openpgp-partial-verify-button = Doğrula
 openpgp-partial-decrypt-button = Şifreyi çöz
+

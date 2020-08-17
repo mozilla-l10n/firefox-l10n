@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "Y">
-<!ENTITY cutCmd.label "Kes">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "a">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "e">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.accesskey "e">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Bul…">
 <!ENTITY findBarCmd.accesskey "B">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "Bu iletiyi yazdır">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Gönderen:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Diğer adres alanı türleri">
 <!ENTITY fromAddr2.label "Kimden">
 <!ENTITY fromAddr.accesskey "m">
-<!ENTITY toAddr.label "Kime:">
-<!ENTITY ccAddr.label "Bilgi:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Reply-To:">
-<!ENTITY newsgroupsAddr.label "Haber Grubu:">
-<!ENTITY followupAddr.label "Takip Adresi:">
-<!ENTITY subject.label "Konu:">
 <!ENTITY toAddr2.label "Kime">
 <!ENTITY ccAddr2.label "Cc">
 <!ENTITY bccAddr2.label "Bcc">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "Followup-To">
 <!ENTITY subject2.label "Konu">
 <!ENTITY subject.accesskey "K">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "e">
-<!ENTITY attachmentBucketHeader.tooltip "Ek bölmesi">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ek bölmesini gizle">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

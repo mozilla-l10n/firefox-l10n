@@ -3,10 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-openpgp = OpenPGP
+
 openpgp-no-sig = Dijital imza yok
 openpgp-uncertain-sig = Belirsiz dijital imza
 openpgp-invalid-sig = Geçersiz dijital imza
 openpgp-good-sig = İyi dijital imza
+
 openpgp-sig-key-id = İmzalayan anahtar kimliği: { $key }
 openpgp-sig-key-id-with-subkey-id = İmzalayan anahtar kimliği: { $key } (Alt anahtar kimliği: { $subkey })
+
 openpgp-unknown-key-id = Bilinmeyen anahtar
+

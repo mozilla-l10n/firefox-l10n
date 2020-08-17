@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (kullanımdan kaldırıldı)
 compatibility-issue-experimental = (deneysel)
 compatibility-issue-prefixneeded = (ön ek gerekli)
 compatibility-issue-deprecated-experimental = (kullanımdan kaldırıldı, deneysel)
+
 compatibility-issue-deprecated-prefixneeded = (kullanımdan kaldırıldı, ön ek gerekli)
 compatibility-issue-experimental-prefixneeded = (deneysel, ön ek gerekli)
 compatibility-issue-deprecated-experimental-prefixneeded = (kullanımdan kaldırıldı, deneysel, ön ek gerekli)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } tekrar
        *[other] { $number } tekrar
     }
+
 compatibility-no-issues-found = Uyumluluk sorunu bulunamadı.
 compatibility-close-settings-button =
     .title = Ayarları kapat

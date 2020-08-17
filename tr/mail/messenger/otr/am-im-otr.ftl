@@ -23,4 +23,6 @@ otr-require-encryption-info =
     normal görüşmenin bir parçası olarak gösterilmez ve günlüğe kaydedilmez.
 otr-verifyNudge =
     .label = Doğrulanmamış kişileri doğrulamamı her zaman hatırlat
+
 otr-notYetAvailable = henüz mevcut değil
+

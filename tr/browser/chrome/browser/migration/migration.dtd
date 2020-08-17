@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Seçenekleri, yer imlerini, gezinti geçmişini, parolaları ve diğer verileri şu tarayıcıdan aktar:">
 <!ENTITY importFromUnix.label           "Tercihleri, yer imlerini, gezinti geçmişini, parolaları ve diğer verileri şu tarayıcıdan aktar:">
-<!ENTITY importFromBookmarks.label      "Yer imlerini buradan içe aktar:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

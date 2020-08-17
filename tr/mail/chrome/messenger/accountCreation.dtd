@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Mevcut E-posta Adresimi Kur">
-
 <!ENTITY emailWizard.title               "Mevcut E-posta Adresinizi Ayarlayın">
 <!ENTITY emailWizard.caption             "Mevcut e-posta adresimi kullanacağım">
 <!ENTITY name.label                      "Adınız:">
 <!ENTITY name.accesskey                  "A">
-<!ENTITY name.placeholder                "Ad Soyadı">
 <!ENTITY fullname.placeholder            "Tam adınız">
 <!ENTITY name.text                       "Başkalarına gösterilecek adınız">
 <!ENTITY name.error                      "Lütfen adınızı girin">
 <!ENTITY email.label                     "E-posta adresi:">
 <!ENTITY email.accesskey                 "E">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "kullanici@example.com">
 <!ENTITY email3.placeholder              "E-posta adresiniz">
 <!ENTITY email.text                      "Mevcut e-posta adresiniz">
 <!ENTITY email.error                     "Geçersiz e-posta adresi">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Giden:">
 <!ENTITY outgoingColumn.label            "Giden">
 <!ENTITY username.label                  "Kullanıcı adı:">
-<!ENTITY hostname.label                  "Sunucu adresi">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Sunucu:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Tekrar sına">
 <!ENTITY half-manual-test.accesskey      "s">
-<!ENTITY manual-edit.label               "Elle yapılandırma">
-<!ENTITY manual-edit.accesskey           "l">
 <!ENTITY manual-config.label             "Elle yapılandır…">
 <!ENTITY manual-config.accesskey         "E">
 <!ENTITY open-provisioner.label          "Yeni bir e-posta adresi al…">

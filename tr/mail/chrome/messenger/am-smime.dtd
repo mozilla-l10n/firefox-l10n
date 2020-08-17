@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Güvenlik">
-<!ENTITY securityTab.label "Güvenlik">
-<!ENTITY securityHeading.label "İmzalanmış ve şifrelenmiş iletileri almak ve göndermek için hem sayısal imza sertifikası hem de şifreleme sertifikası belirtmelisiniz.">
-<!ENTITY encryptionGroupTitle.label "Şifreleme">
-<!ENTITY encryptionChoiceLabel.label "İleti gönderirken kullanılacak varsayılan şifreleme ayarı:">
-<!ENTITY neverEncrypt.label "Asla (şifreleme kullanma)">
-<!ENTITY neverEncrypt.accesskey "A">
-<!ENTITY alwaysEncryptMessage.label "Gerekli (tüm alıcıların sertifikası yoksa ileti gönderilemez)">
-<!ENTITY alwaysEncryptMessage.accesskey "G">
-<!ENTITY encryptionCert.message "Bana gönderilen iletileri şifrelemek ve çözmek için bu sertifikayı kullan:">
-
 <!ENTITY e2eTitle.label "Uçtan uca şifreleme">
-<!ENTITY e2eIntro.description "Şifrelenmiş veya dijital olarak imzalanmış iletiler göndermek için OpenPGP veya S/MIME gibi bir şifreleme teknolojisini yapılandırmanız gerekir.">
 <!ENTITY e2eLearnMore.label "Daha fazla bilgi al">
 
 <!ENTITY e2eEnc.description "Uçtan uca şifreleme olmazsa iletilerinizin içeriği kolayca e-posta sağlayıcınız ve başkaları tarafından gözetlenebilir.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Temizle">
 <!ENTITY encryption.certificate_clear.accesskey "z">
 <!ENTITY signingGroupTitle.label "Sayısal imza">
-<!ENTITY signMessage.label "Postaları sayısal olarak imzala (varsayılan)">
 <!ENTITY signMessage2.label "Dijital imzamı varsayılan olarak ekle">
 <!ENTITY signMessage.accesskey "o">
-<!ENTITY signingCert.message "Gönderdiğim iletileri sayısal olarak imzalamak için bu sertifikayı kullan:">
-
-<!ENTITY certificates.label "Sertifikalar">
-<!ENTITY manageCerts2.label "Sertifikaları yönet">
-<!ENTITY manageCerts2.accesskey "r">
-<!ENTITY manageDevices.label "Güvenlik aygıtları">
-<!ENTITY manageDevices.accesskey "n">
 
 <!ENTITY signingCert2.message "Dijital imza için kişisel sertifika:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "OpenPGP’yi tercih et">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGP anahtarlarını yönet">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sertifika seçin">

@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Google Play’den indir
 login-app-promo-apple =
     .alt = App Store’dan indir
+
 login-filter =
     .placeholder = Hesaplarda ara
+
 create-login-button = Yeni hesap oluştur
+
 fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
 fxaccounts-sign-in-button = { -sync-brand-short-name }’e giriş yapın
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Kayıtlı hesaplarınızı mı arıyorsunuz? { -sync-brand-short-name }’i kurun.
+
 about-logins-login-intro-heading-logged-out = Kayıtlı hesaplarınızı mı arıyorsunuz? { -sync-brand-short-name }’i kurun veya hesapları içe aktarın.
 about-logins-login-intro-heading-logged-in = Eşitlenmiş hesap bulunamadı.
 login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Hesaplarınızın kayıtlı olduğu cihazda  { -fx
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } ayarlarında “Hesaplar”ı işaretlediğinizden emin olun
 about-logins-intro-instruction-help = Daha fazla yardım için <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Destek</a>'i ziyaret edebilirsiniz
 about-logins-intro-import = Hesaplarınız başka bir tarayıcıda kayıtlıysa onları <a data-l10n-name="import-link">{ -lockwise-brand-short-name }’a aktarabilirsiniz</a>
+
 about-logins-intro-import2 = Hesaplarınız { -brand-product-name } dışında kayıtlıysa onları <a data-l10n-name="import-browser-link">başka bir tarayıcıdan</a> veya <a data-l10n-name="import-file-link">dosyadan</a> içe aktarabilirsiniz
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Hesabınızı düzenlemek i
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = kayıtlı hesabı düzenleme
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Parolanızı görmek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = kayıtlı parolayı gösterme
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Parolanızı kopyalamak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kayıtlı parolayı kopyalama
+
+## Master Password notification
+
+master-password-notification-message = Kayıtlı parola ve hesaplarınızı görmek için lütfen ana parolanızı girin
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Hesaplarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = kayıtlı hesapları ve parolaları dışa aktarma
-
-## Master Password notification
-
-master-password-notification-message = Kayıtlı parola ve hesaplarınızı görmek için lütfen ana parolanızı girin
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = İptal
 confirmation-dialog-dismiss-button =
     .title = İptal
+
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
+
 about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
 about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
+
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
 confirm-discard-changes-dialog-confirm-button = Vazgeç
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Daha fazla bilgi al
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } için bu kullanıcı adına sahip bir kayıt zaten var. <a data-l10n-name="duplicate-link">Mevcut kayda gitmek ister misiniz?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Bu parola kaydedilirken bir hata oluştu.
+
 
 ## Login Export Dialog
 

@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Eklentilerinizi yönetmek için <image data
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu eklentinin gizli pencerelerde çalışmasına izin ver
     .accesskey = B
-appmenu-addon-private-browsing =
-    .label = Gizli pencerelerde eklentiler değişiyor
-    .buttonlabel = Eklentileri yönet
-    .buttonaccesskey = E
-    .secondarybuttonlabel = Tamam, anladım
-    .secondarybuttonaccesskey = T
-appmenu-addon-private-browsing-message = Bundan sonra { -brand-shorter-name } tarayıcınıza ekleyeceğiniz eklentiler, siz özellikle izin vermedikçe gizli pencerelerde çalışmayacak.
-appmenu-addon-private-browsing-learn-more = Eklenti ayarlarını yönetmeyi öğrenin.
     
 appmenu-new-tab-controlled =
     .label = Yeni Sekme’niz değişti.

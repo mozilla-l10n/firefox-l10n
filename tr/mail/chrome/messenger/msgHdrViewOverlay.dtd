@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
-<!ENTITY hdrOpenConversationButton1.label "Yazışma">
-<!ENTITY hdrOpenConversationButton1.tooltip "Bu iletinin yazışmalarını göster">
 <!ENTITY hdrSmartReplyButton1.label "Akıllı yanıt">
 <!ENTITY hdrReplyButton1.label "Yanıtla">
 <!ENTITY hdrReplyButton2.tooltip "Bu iletiyi gönderene yanıt yaz">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Posta listesini yanıtla">
 <!ENTITY hdrFollowupButton1.label "Devam iletisi">
 <!ENTITY hdrFollowupButton1.tooltip "Bu haber grubuna bir devam iletisi gönder">
-<!ENTITY hdrMenuForwardButton.label "Farklı ilet">
 <!ENTITY hdrForwardButton1.label "İlet">
 <!ENTITY hdrForwardButton1.tooltip "Bu iletiyi ilet">
 <!ENTITY hdrJunkButton1.label "Gereksiz">
