@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Henter…
-
 list-empty-installed =
     .value = Du har ikke nogen tilføjelser af denne type installeret
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Lær mere om tilføjelser
 
-install-addon-from-file =
-    .label = Installer tilføjelse fra fil…
-    .accesskey = I
-
 help-button = Hjælp til tilføjelser
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] Indstillinger for { -brand-short-name }
        *[other] Indstillinger for { -brand-short-name }
     }
-
-tools-menu =
-    .tooltiptext = Indstillinger for alle tilføjelser
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Vis alle udvidelser
-
-debug-addons =
-    .label = Debug udvidelser
-    .accesskey = e
 
 cmd-show-details =
     .label = Vis flere detaljer
@@ -104,17 +90,6 @@ cmd-contribute =
     .accesskey = B
     .tooltiptext = Bidrag til udviklingen af denne tilføjelse
 
-discover-title = Hvad er tilføjelser?
-
-discover-description =
-    Tilføjelser er små programmer som du kan bruge til at tilpasse { -brand-short-name } med
-    ekstra funktioner eller andet udseende. Prøv et tidsbesparende sidepanel, bliv gjort opmærksom på vejret, eller prøv et nyt look og gør
-    dermed  { -brand-short-name } til din helt egen.
-
-discover-footer =
-    Når du er koblet til nettet vil denne oversigt
-    vise nogle af de bedste og mest populære tilføjelser, som du kan prøve af.
-
 detail-version =
     .label = Version
 
@@ -145,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Anvend i private vinduer
 
-detail-private-browsing-description2 = Udvidelsen har adgang til dine aktiviteter i privat browsing-tilstand, hvis du giver den tilladelse til det. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Virker ikke i privat browsing
-detail-private-disallowed-description = Denne udvidelse virker ikke under privat browsing. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
 detail-private-disallowed-description2 = Denne udvidelse virker ikke under privat browsing. <a data-l10n-name="learn-more">Læs mere</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Har altid adgang til private vinduer
-detail-private-required-description = Denne udvidelse har adgang til din aktivitet på nettet, når du anvender privat browsing.<label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
 detail-private-required-description2 = Denne udvidelse har adgang til dine aktiviteter på nettet, når du bruger privat browsing. <a data-l10n-name="learn-more">Læs mere</a>
 
@@ -237,18 +208,6 @@ private-browsing-description2 =
     på nettet, når du benytter privat browsing.
     <label data-l10n-name="private-browsing-learn-more">Læs her, hvordan du håndterer indstillingerne for udvidelser.
 
-extensions-view-discopane =
-    .name = Anbefalinger
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Seneste opdateringer
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Tilgængelige opdateringer
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Anbefalinger
 addon-category-discover-title =
     .title = Anbefalinger
@@ -276,29 +235,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Aktiver
-    .tooltiptext = Aktiver kompatibilitetstjek for tilføjelser
-
-extensions-warning-update-security-label =
-    .value = Sikkerhedstjek ved opdatering af tilføjelser er deaktiveret. Du kan blive kompromiteret ved opdateringer.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Aktiver
-    .tooltiptext = Aktiver sikkerhedstjek ved opdatering af tilføjelser
-
 extensions-warning-safe-mode = Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.
 extensions-warning-check-compatibility = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
 extensions-warning-check-compatibility-button = Aktiver
@@ -310,14 +246,6 @@ extensions-warning-update-security-button = Aktiver
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Søg efter opdateringer
-    .accesskey = T
-
-extensions-updates-view-updates =
-    .label = Vis seneste opdateringer
-    .accesskey = V
-
 addon-updates-check-for-updates = Søg efter opdateringer
     .accesskey = T
 addon-updates-view-updates = Vis seneste opdateringer
@@ -325,10 +253,6 @@ addon-updates-view-updates = Vis seneste opdateringer
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Opdater tilføjelser automatisk
-    .accesskey = a
 
 addon-updates-update-addons-automatically = Opdater tilføjelser automatisk
     .accesskey = a
@@ -339,36 +263,12 @@ addon-updates-update-addons-automatically = Opdater tilføjelser automatisk
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Nulstil alle tilføjelser til automatisk opdatering
-    .accesskey = N
-
-extensions-updates-reset-updates-to-manual =
-    .label = Nulstil alle tilføjelser til manuel opdatering
-    .accesskey = N
-
 addon-updates-reset-updates-to-automatic = Nulstil alle tilføjelser til automatisk opdatering
     .accesskey = N
 addon-updates-reset-updates-to-manual = Nulstil alle tilføjelser til manuel opdatering
     .accesskey = N
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Opdaterer tilføjelser
-extensions-updates-installed =
-    .value = Dine tilføjelser er blevet opdateret.
-extensions-updates-downloaded =
-    .value = Dine opdateringer til tilføjelser er blevet hentet.
-extensions-updates-restart =
-    .label = Genstart nu for at færdiggøre installationen
-extensions-updates-none-found =
-    .value = Ingen opdateringer blev fundet
-extensions-updates-manual-updates-found =
-    .label = Vis tilgængelige opdateringer
-extensions-updates-update-selected =
-    .label = Installer opdateringer
-    .tooltiptext = Installer tilgængelige opdateringer i denne oversigt
 
 addon-updates-updating = Opdaterer tilføjelser
 addon-updates-installed = Dine tilføjelser er blevet opdateret.
@@ -386,10 +286,6 @@ addon-open-about-debugging = Debug udvidelser
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Håndter genveje til udvidelser
-    .accesskey = H
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Håndter genveje til udvidelser
     .accesskey = H
@@ -398,8 +294,6 @@ shortcuts-no-addons = Du har ikke aktiveret nogen udvidelser.
 shortcuts-no-commands = Følgende udvidelser han ingen genveje:
 shortcuts-input =
     .placeholder = Indtast en genvej.
-
-shortcuts-browserAction = Aktiver udvidelse
 
 shortcuts-browserAction2 = Aktiver knap på værktøjslinjen
 shortcuts-pageAction = Aktiver sidehandling
@@ -430,9 +324,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Vis færre
-
-go-back-button =
-    .tooltiptext = Gå tilbage
 
 header-back-button =
     .title = Gå tilbage
@@ -485,7 +376,6 @@ remove-addon-button = Fjern
 remove-addon-disabled-button = Kan ikke fjernes <a data-l10n-name="link">Læs hvorfor</a>
 disable-addon-button = Deaktiver
 enable-addon-button = Aktiver
-expand-addon-button = Flere indstillinger
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -498,9 +388,6 @@ preferences-addon-button =
 details-addon-button = Detaljer
 release-notes-addon-button = Udgivelsesnoter
 permissions-addon-button = Tilladelser
-
-addons-enabled-heading = Aktiveret
-addons-disabled-heading = Deaktiveret
 
 extension-enabled-heading = Aktiveret
 extension-disabled-heading = Deaktiveret
@@ -563,23 +450,12 @@ install-update-button = Opdater
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Tilladt i private vinduer
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Tilladt i private vinduer
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Udvidelsen har adgang til dine aktiviteter i privat browsing-tilstand, hvis du giver den tilladelse til det. <a data-l10n-name="learn-more">Læs mere</a>
 addon-detail-private-browsing-allow = Tillad
 addon-detail-private-browsing-disallow = Tillad ikke
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Anbefalet
-    .alt = Anbefalet
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Navn og kilde for den prøveudtagne funktion.">
 <!ENTITY performanceUI.table.totalAlloc       "Totale allokeringer">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Det totale antal objektallokeringer foretaget af denne fuktion, og funktioner den kalder.">
-<!ENTITY performanceUI.table.selfAlloc        "Egne allokationer">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Antal objekt-allokationer indsamlet på denne placering.">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

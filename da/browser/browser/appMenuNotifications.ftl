@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Håndter dine tilføjelser ved at klikke p�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillad denne udvidelse at virke i private vinduer.
     .accesskey = T
-appmenu-addon-private-browsing =
-    .label = Ændring til udvidelser i private vinduer
-    .buttonlabel = Håndter udvidelser
-    .buttonaccesskey = H
-    .secondarybuttonlabel = Ok, forstået
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Nye udvidelser, du føjer til { -brand-shorter-name } virker kun i private vinduer, hvis du tillader dette i indstillingerne.
-appmenu-addon-private-browsing-learn-more = Læs mere om at håndtere indstillinger for udvidelser.
     
 appmenu-new-tab-controlled =
     .label = Nyt faneblad er ændret

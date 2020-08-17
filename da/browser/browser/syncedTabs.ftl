@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Synkroniserede faneblade
 synced-tabs-sidebar-noclients-subtitle = Vil du gerne se faneblade fra dine andre enheder her?
-synced-tabs-sidebar-notsignedin = Log ind for at se en liste med faneblade fra dine andre enheder.
 synced-tabs-sidebar-intro = Se en liste med faneblade fra dine andre enheder.
 synced-tabs-sidebar-unverified = Din konto skal godkendes.
 synced-tabs-sidebar-notabs = Ingen åbne faneblade

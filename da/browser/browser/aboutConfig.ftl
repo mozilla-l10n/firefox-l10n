@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Farligt farvand forude!
-about-config-warning-text = Ved at ændre disse avancerede indstillinger kan du risikere at skade programmets stabilitet, sikkerhed og ydelse. Du bør kun fortsætte, hvis du ved, hvad du laver.
-about-config-warning-checkbox = Advar mig en anden gang
-about-config-warning-button = Jeg ved, hvad jeg laver
-
-about-config2-title = Avancerede indstillinger
-
-about-config-search-input =
-    .placeholder = Søg
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Fortsæt på eget ansvar
@@ -30,13 +19,6 @@ about-config-page-title = Avancerede indstillinger
 about-config-search-input1 =
     .placeholder = Søg efter indstilling
 about-config-show-all = Vis alle
-
-about-config-pref-add = Tilføj
-about-config-pref-toggle = Skift
-about-config-pref-edit = Rediger
-about-config-pref-save = Gem
-about-config-pref-reset = Nulstil
-about-config-pref-delete = Slet
 
 about-config-pref-add-button =
     .title = Tilføj

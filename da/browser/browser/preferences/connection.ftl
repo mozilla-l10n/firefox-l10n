@@ -35,12 +35,7 @@ connection-proxy-http = HTTP-proxy
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Brug denne proxy-server for alle protokoller
-    .accesskey = x
 
-connection-proxy-ssl = SSL-proxy
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Brug også denne proxy til FTP og HTTPS
     .accesskey = s

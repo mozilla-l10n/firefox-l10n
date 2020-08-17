@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Gem som…
     .accesskey = e
-media-preview =
-    .value = Forhåndsvisning:
 
 perm-tab =
     .label = Tilladelser
@@ -131,7 +129,6 @@ security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nej
 
 image-size-unknown = Ukendt
-not-set-verified-by = Ikke angivet
 page-info-not-specified =
     .value = Ikke angivet
 not-set-alternative-text = Ikke angivet
@@ -156,7 +153,6 @@ general-quirks-mode =
     .value = Quirks tilstand
 general-strict-mode =
     .value = Standardoverholdelsestilstand
-security-no-owner = Dette websted leverer ingen ejerskabsinformation.
 page-info-security-no-owner =
     .value = Dette websted leverer ingen ejerskabsinformation.
 media-select-folder = Vælg en mappe hvor billederne gemmes

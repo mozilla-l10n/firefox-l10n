@@ -8,8 +8,10 @@ password-quality-meter = Kvalitetsmåler for adgangskode
 
 change-password-window =
     .title = Skift hovedadgangskode
+
 change-device-password-window =
     .title = Skift adgangskode
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sikkerhedsenhed: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Ny adgangskode (igen):
 reset-password-window =
     .title = Nulstil hovedadgangskode
     .style = width: 40em
+
 pippki-failed-pw-change = Kan ikke ændre adgangskode.
 pippki-incorrect-pw = Du indtastede ikke den nuværende adgangskode. Prøv igen.
 pippki-pw-change-ok = Adgangskoden blev ændret.
+
 pippki-pw-empty-warning = Dine gemte afgangskoder og private nøgler vil ikke blive beskyttet.
 pippki-pw-erased-ok = Du har slettet din adgangskode. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Advarsel! Du har valgt ikke at bruge en adgangskode. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Du befinder dig for øjeblikket i FIPS-tilstand. FIPS kræver, at du bruger en adgangskode.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Nulstil
 reset-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte web- og mail-adgangskoder, formulardata, personlige certifikater og private nøgler blive slettet. Er du sikker på, at du vil nulstille din hovedadgangskode?
+
 reset-primary-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte websteds- og mail-adgangskoder, personlige certifikater og private nøgler blive glemt. Er du sikker på, at du vil nulstille din hovedadgangskode?
+
 pippki-reset-password-confirmation-title = Nulstil hovedadgangskode
 pippki-reset-password-confirmation-message = Din hovedadgangskode er blevet nulstillet.
 

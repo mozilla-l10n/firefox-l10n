@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Krypter meddelelsen">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Krypter ikke">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "r">
 

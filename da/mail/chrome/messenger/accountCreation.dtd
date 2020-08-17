@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Opret en eksisterende mailkonto">
-
 <!ENTITY emailWizard.title               "Tilføj din eksisterende mailadresse">
 <!ENTITY emailWizard.caption             "Brug din nuværende mailadresse">
 <!ENTITY name.label                      "Dit navn:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Fornavn Efternavn">
 <!ENTITY fullname.placeholder            "Dit fulde navn">
 <!ENTITY name.text                       "Dit navn som andre skal se det">
 <!ENTITY name.error                      "Indtast dit navn">
 <!ENTITY email.label                     "Din mailadresse:">
 <!ENTITY email.accesskey                 "m">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "mail@eksempel.dk">
 <!ENTITY email3.placeholder              "Din mailadresse">
 <!ENTITY email.text                      "Din eksisterende mailadresse">
 <!ENTITY email.error                     "Ugyldig mailadresse">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Udgående:">
 <!ENTITY outgoingColumn.label            "Udgående">
 <!ENTITY username.label                  "Brugernavn:">
-<!ENTITY hostname.label                  "Server-adresse">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Afprøv konfigurationen">
 <!ENTITY half-manual-test.accesskey      "ø">
-<!ENTITY manual-edit.label               "Manuel konfiguration">
-<!ENTITY manual-edit.accesskey           "K">
 <!ENTITY manual-config.label             "Manuel opsætning…">
 <!ENTITY manual-config.accesskey         "O">
 <!ENTITY open-provisioner.label          "Få en ny mailadresse…">

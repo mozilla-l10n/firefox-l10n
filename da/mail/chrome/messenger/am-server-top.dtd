@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "meddelelser">
 <!ENTITY alwaysAuthenticate.label "Kræv altid godkendelse ved tilslutning til denne server">
 <!ENTITY alwaysAuthenticate.accesskey "æ">
-<!ENTITY newsrcFilePath.label "newsrc fil:">
-<!ENTITY newsrcPicker.label "Vælg newsrc fil">
 <!ENTITY newsrcFilePath1.label "News.rc-fil:">
 <!ENTITY newsrcPicker1.label "Vælg News.rc-fil">
 <!ENTITY abbreviate.label "Vis nyhedsgruppenavne i mappeoversigten som:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avanceret…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Standardtegnkodning:">
-<!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY localPath1.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Vælg lokal mappe">
 <!ENTITY browseFolder.label "Gennemse…">

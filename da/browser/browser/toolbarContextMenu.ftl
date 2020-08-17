@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vælg alle faneblade
     .accesskey = a
-toolbar-context-menu-undo-close-tab =
-    .label = Fortryd lukning af faneblad
-    .accesskey = l
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

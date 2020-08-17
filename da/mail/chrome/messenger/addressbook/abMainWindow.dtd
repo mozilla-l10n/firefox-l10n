@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Rediger">
 <!ENTITY editMenu.accesskey                             "R">
-<!ENTITY undoCmd.label                                  "Fortryd">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "F">
-<!ENTITY redoCmd.label                                  "Gendan">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "G">
-<!ENTITY cutCmd.label                                   "Klip">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "K">
-<!ENTITY copyCmd.label                                  "Kopier">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "o">
-<!ENTITY pasteCmd.label                                 "Indsæt">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "æ">
 <!ENTITY deleteCmd.label                                "Slet">
-<!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Slet adressebog">
 <!ENTITY deleteContactCmd.label                         "Slet kontakt">
 <!ENTITY deleteContactsCmd.label                        "Slet kontakter">
 <!ENTITY deleteListCmd.label                            "Slet liste">
 <!ENTITY deleteListsCmd.label                           "Slet lister">
 <!ENTITY deleteItemsCmd.label                           "Slet elementer">
-<!ENTITY selectAllCmd.label                             "Vælg alle">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Byt om på fornavn/efternavn">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "B">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Egenskaber">
 <!ENTITY propertiesMenu.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
