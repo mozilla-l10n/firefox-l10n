@@ -2,15 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-config-search-input =
-    .placeholder = Ŕmee
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 
 ##
-
-about-config-pref-delete = Ujiñ
 
 about-config-pref-delete-button =
     .title = Ujiñ

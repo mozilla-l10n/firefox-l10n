@@ -173,5 +173,7 @@ space-alert-learn-more-button =
     .label = Terabum Ŕpo
     .accesskey = T
 
+## Privacy Section - HTTPS-Only
+
 ## The following strings are used in the Download section of settings
 

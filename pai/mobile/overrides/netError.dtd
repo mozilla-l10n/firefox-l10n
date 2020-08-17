@@ -62,9 +62,6 @@
 <!ENTITY notCached.longDesc "<p>Tñur k´kaach hah kos caché &brandShortName; wihal yaktem.</p><ul><li>Mŕboh majanuka, &brandShortName; hay kos tñur mŕaayha kos k´kaabtem.</li><li>Mtkweek tñur webhal kyakha mŕmeeyik clic mwika.</li></ul>">
 
 <!ENTITY netOffline.title "Chyuch kos tublichtpaay">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Tkweek mwiyi. &brandShortName; hay tkweek chpach chu jkaay sol pay tkweek chyakuha jukewuwa. <button id='wifi'>Wi-Fi mchubowu</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Mul chmichuhay chaam">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Chkwiyha paa mŕmee web yay klyeeb mik pamukunabuhikyawa.</li> </ul>">

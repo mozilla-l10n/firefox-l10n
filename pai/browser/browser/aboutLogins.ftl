@@ -35,6 +35,8 @@
 ## Master Password notification
 
 
+## Primary Password notification
+
 ## Password Sync notification
 
 
@@ -53,4 +55,6 @@ about-logins-vulnerable-alert-learn-more-link = Terabum ŕpo
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 
