@@ -64,8 +64,6 @@ media-save-as =
 media-save-image-as =
     .label = Zapiszë jakno…
     .accesskey = i
-media-preview =
-    .value = Pòdzérk mediów:
 
 perm-tab =
     .label = Przistãp
@@ -109,7 +107,6 @@ security-view-technical =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = nieznóné
-not-set-verified-by = felëje
 page-info-not-specified =
     .value = felëje
 not-set-alternative-text = felëje
@@ -134,7 +131,6 @@ general-quirks-mode =
     .value = Nieznóny zgòdnoscë
 general-strict-mode =
     .value = Sztandardowi
-security-no-owner = Na strona nie dôwô wëdowiédzë ò swòjich miéwcach
 page-info-security-no-owner =
     .value = Na strona nie dôwô wëdowiédzë ò swòjich miéwcach
 media-select-folder = Wëbierzë katalog do zapisywaniô òbrôzków

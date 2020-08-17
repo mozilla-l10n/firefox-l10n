@@ -41,33 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Wëbierzë lopk…">
 <!ENTITY cmd.restoreFromFile.accesskey  "W">
 
-<!ENTITY cmd.deleteDomainData.label     "Rëmôj całowną domenã">
-<!ENTITY cmd.deleteDomainData.accesskey "d">
-
-<!ENTITY cmd.open.label                  "Òtemkni">
-<!ENTITY cmd.open.accesskey              "t">
-<!ENTITY cmd.open_window.label           "Òtemkni w nowim òknie">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_tab.label              "Òtemkni w nowi kôrce">
-<!ENTITY cmd.open_tab.accesskey          "k">
-<!ENTITY cmd.open_all_in_tabs.label      "Òtemkni wszëtkò w kôrtach">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "Ò">
-
-<!ENTITY cmd.properties.label      "Swòjiznë">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Zortëjë wedle miona">
-<!ENTITY cmd.sortby_name.accesskey          "Z">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nowô załóżka">
-<!ENTITY cmd.new_bookmark.accesskey        "z">
-<!ENTITY cmd.new_folder.label              "Nowi katalog…">
-<!ENTITY cmd.new_folder.accesskey          "k">
-<!ENTITY cmd.context_new_folder.accesskey  "N">
-<!ENTITY cmd.new_separator.label           "Nowi rozdzelnik">
-<!ENTITY cmd.new_separator.accesskey       "r">
-
 <!ENTITY col.name.label          "Miono">
 <!ENTITY col.tags.label          "Znakòwniczi">
 <!ENTITY col.url.label           "Adres">
@@ -87,15 +60,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Wëbierzë element, abë wëskrzënic i editowac jegò swòjiznã">
 
-<!ENTITY view.label               "Wëzdrzatk">
-<!ENTITY view.accesskey           "W">
-<!ENTITY byDate.label             "Wedle datuma">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Wedle stronë">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Wedle nôbarżi òbzérónëch">
-<!ENTITY byMostVisited.accesskey  "n">
-<!ENTITY byLastVisited.label      "Wedle slédno òbzérónëch">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Wedle datuma i stronë">
-<!ENTITY byDayAndSite.accesskey   "t">

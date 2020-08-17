@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Wëkriwôj aùtomatno nastawë serwera proxy dlô ti sécë
     .accesskey = ë
 
-connection-proxy-http-share =
-    .label = Ùżëjë negò serwera proxy dlô wszëtczéch protokółów
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = 4

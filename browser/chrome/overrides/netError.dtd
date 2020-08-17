@@ -23,30 +23,16 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Nie dało sã sparłãczec">
-
-<!ENTITY deniedPortAccess.title "Pòrt je zastrzeżóny z przëczënë bezpiekù">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "Nie jidze nalezc lopka">
 
 <!ENTITY fileNotFound.longDesc "<ul><li>Mòżlëwé, że nen lopk òstôł rëminãti, przeniosłi abò mô zmienioné miono.</li><li>Nót je òbaczëc, czë w pòdónym adresu ni ma felë pisënkù, w tim wiôlgòscë lëterów,  czë téż tipògraficznëch felów.</li><li>Nót je ùgwësnic sã, że mô sã dobré prawa przistãpù do przezéraniô stronë.</li></ul>">
 
 
-<!ENTITY generic.title "Ni mòże skùńczëc żądaniô">
-
 <!ENTITY generic.longDesc "<p>Dodôwnô wëdowiédzô ò tim problemie abò felë nie są terô przistãpné.</p>">
 
-<!ENTITY netInterrupt.title "Òprzestóné sélanié pòdôwków">
-
-
-<!ENTITY notCached.title "Dokùment ju je wëgasłi">
 
 <!ENTITY notCached.longDesc "<p>Żądóny dokùment nie je przistãpny w kaszu Firefoksa.</p><ul><li>Z pòzdrzatkù na bezpiek, Firefox
 ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Klëkni knąpã Spróbùjë znowa, bë jesz rôz pòbrac dokùment z sécë.</li></ul>">
-
-<!ENTITY netOffline.title "Trib offline">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -54,37 +40,19 @@ ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Fela kòdowaniô zamkłoscë">
-
 <!ENTITY contentEncodingError.longDesc "<p>strona, chtërną chcesz òtemknąc ni mòże bëc wëskrzënionô, dlôte że brëkùje òna lëchëch abò niewspierónëch fòrm kòmpresji.</p><ul><li>Nót je dac wiédzã miéwcë stronë ò problemie.</li></ul>">
-
-<!ENTITY unsafeContentType.title "Niebezpieczny ôrt lopka">
 
 <!ENTITY unsafeContentType.longDesc "<ul>
   <li>Proszã dac wiedzã miewcë ti stronë ò tim problemie.</li>
 </ul>">
 
-<!ENTITY netReset.title "Òprzestóné sparłączenié">
-
-<!ENTITY netTimeout.title "Czas sparłãczenia skùńcził sã">
-
-<!ENTITY proxyConnectFailure.title "Serwer proxy pòcysnął sparłãczenié">
-
 <!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcysnął sparłãczenié.</p><ul><li>Je kònfigùracjô serwerów proxy w przezérnikù dobrô? Sprôwdzë nastawë i spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
-
-<!ENTITY proxyResolveFailure.title "Nie jidze nalezc serwera proxy">
 
 <!ENTITY proxyResolveFailure.longDesc "<p>Przezérnik je tak skònfigùrowny, abë brëkòwac serwera proxy, równak nen ni mòże bëc nalazłi.</p><ul><li>Je kònfigùracjô serwerów proxy dobrô? Nót je sprôwdzëc nastawë i spróbòwac znowa.</li><li>Je kòmpùtr sparłãczony z robiącą sécą?</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
 
-<!ENTITY redirectLoop.title "Òpãtlo przeczérowaniów">
-
 <!ENTITY redirectLoop.longDesc "<p>Przezérnik òprzestół próbã zladënkù żądónegò elementu. strona przeczerowùje żądanié na ôrt, chtëren nie dôwô mòżnotë jegò skùńczeniô.</p><ul><li>Są kùszczi wëłączoné abò zablokòwóné dlô ti stronë?</li><li><em>BÔCZËNK</em>: Jeżlë włączenié òbsłużënkù kùszków dlô ti stronë nie rozwiąże problemu, je to prôwdopòdodno problem kònfigùracje serwera, a ni twòjégò kòmpùtra.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Lëchô òdpòwiesc serwera">
-
 <!ENTITY unknownSocketType.longDesc "<p>strona òdpòwiedza na niespòdzajny  ôrt i przezérnik ni mòże jic dali.</p>">
-
-<!ENTITY nssFailure2.title "Felënk bezpiecznégò sparłãczeniô">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -99,8 +67,6 @@ ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
-
-<!ENTITY remoteXUL.title "Zdalné XUL">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiedzã miéwcë ti stronë ò tim problemie.</li></ul></p>">
 

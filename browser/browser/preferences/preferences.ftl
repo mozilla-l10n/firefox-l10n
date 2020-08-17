@@ -259,8 +259,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = Leżnoscë brëkòwaniô serwisu
-
 ## Privacy Section
 
 
@@ -280,6 +278,7 @@ forms-master-pw-change =
     .accesskey = Z
 
 forms-master-pw-fips-title = Robisz w tribie FIPS. Tribòwi FIPS je nót niepùsti przédny parolë.
+
 forms-master-pw-fips-desc = Zmiana parolë nie darziła sã.
 
 ## OS Authentication dialog
@@ -360,6 +359,8 @@ collection-backlogged-crash-reports-link = Wëdowiedzë sã wicy
 ## Privacy Section - Certificates
 
 certs-header = Certifikatë
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
