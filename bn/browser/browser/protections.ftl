@@ -20,21 +20,6 @@ graph-total-tracker-summary =
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } থেকে <b>{ $count }</b> ট্র্যাকার ব্লক করা হয়েছে
     }
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = <b>আদর্শ </b>তে সুরক্ষার ধাপ সেট করা হয়েছে
-    .title = গোপনীয়তা সেটিংয়ে যান
-protection-report-header-details-strict = সুরক্ষা স্তর <b>কঠোর</ b> সেট করা আছে
-    .title = গোপনীয়তা সেটিং এ যান
-protection-report-header-details-custom = সুরক্ষা স্তরটি <b> কাস্টম </ b> সেট করা আছে
-    .title = গোপনীয়তা সেটিং এ যান
-protection-report-page-title = গোপনীয়তা সুরক্ষা
-protection-report-content-title = গোপনীয়তা সুরক্ষা
-
-etp-card-title = বর্ধিত ট্র্যাকিং সুরক্ষা
-etp-card-content = আপনার ব্রাউজিং অভ্যাস এবং আগ্রহ সম্পর্কে তথ্য সংগ্রহ করতে ট্র্যাকাররা অনলাইনে আপনাকে অনুসরণ করে। { -brand-short-name } এর মধ্যে অনেক ট্র্যাকার এবং অন্যান্য বিদ্বেষপূর্ণ স্ক্রিপ্ট অবরুদ্ধ করে।
-
 protection-report-etp-card-content-custom-not-blocking = সকল সুরক্ষা বর্তমানে বন্ধ আছে। কোন ট্র্যাকারকে ব্লক করবেন তা নির্বাচন করতে { -brand-short-name } সুরক্ষা সেটিংস থেকে পরিচালনা করুন।
 protection-report-manage-protections = সেটিং পরিচালনা
 
@@ -61,39 +46,16 @@ cryptominer-tab-title = ক্রিপ্টোমাইনার
 cryptominer-tab-content = ক্রিপ্টোমাইনাররা গোপনে আপনার সিস্টেমের কম্পিউটিং শক্তি ডিজিটাল অর্থ মাইনিং এ ব্যবহার করে। ক্রিপ্টোমাইনিং স্ক্রিপ্টগুলি আপনার ব্যাটারি নিষ্কাশন করে, আপনার কম্পিউটারকে ধীর করে দেয় এবং আপনার বিদ্যুৎ বিল বাড়িয়ে দিতে পারে।<a data-l10n-name="learn-more-link">আরও জানুন</a>
   
 lockwise-title = আবার কখনো পাসওয়ার্ড ভুলে যাবেন না
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } নিরাপদভাবে ব্রাউজারে আপনার পাসওয়ার্ড সংরক্ষণ করে।
 lockwise-header-content-logged-in = নিরাপদভাবে আপনার সকল ডিভাইসে আপনার পাসওয়ার্ড সংরক্ষণ করুন এবং সিঙ্ক করুন।
-protection-report-view-logins-button = লগইন সমূহ দেখুন
-    .title = সংরক্ষিত লগইন এ যান
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] পাসওয়ার্ড নিরাপদভাবে সংরক্ষণ করা হয়েছে <a data-l10n-name="lockwise-how-it-works"> এটি কীভাবে কাজ করে </a>
-       *[other] পাসওয়ার্ড নিরাপদভাবে সংরক্ষণ করা হয়েছে <a data-l10n-name="lockwise-how-it-works"> এটি কীভাবে কাজ করে </a>
-    }
 
 turn-on-sync = { -sync-brand-short-name } চালু করুন...
     .title = সিঙ্ক পছন্দগুলোতে যান
-
-manage-connected-devices = ডিভাইস ব্যবস্থাপনা…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] { $count } টি ডিভাইসে সংযুক্ত
-       *[other] { $count } টি ডিভাইসে সংযুক্ত
-    }
 
 monitor-title = ডাটা ফাটল সন্ধান করুন
 monitor-link = কিভাবে এটি কাজ করে
 monitor-header-content-no-account = যাচাই করে দেখুন { -monitor-brand-name } জানা ডাটা লঙ্ঘনের অংশ হয়েছে কিনা এবং নতুন লঙ্ঘন সম্পর্কে সঙ্কেত পান।
 monitor-header-content-signed-in = আপনার তথ্য যদি কোনও জানা ডাটা লঙ্ঘনে দেখা যায় তবে { -monitor-brand-name } আপনাকে সতর্ক করে।
-monitor-sign-up = নিরাপত্তা সতর্কতার জন্য সাইন আপ করুন
 auto-scan = আজ স্বয়ংক্রিয়ভাবে স্ক্যান করা হয়েছে
 
 # This string is displayed after a large numeral that indicates the total number
@@ -121,17 +83,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] সমস্ত লঙ্ঘনে পাসওয়ার্ড উন্মুক্ত
        *[other] সমস্ত লঙ্ঘনে পাসওয়ার্ড উন্মুক্ত
-    }
-
-full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> এ সম্পূর্ণ প্রতিবেদন দেখুন
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] সংরক্ষিত লগইন ডাটা লঙ্ঘনে প্রকাশিত হতে পারে। আরও ভাল অনলাইন সুরক্ষার জন্য পাসওয়ার্ড পরিবর্তন করুন। <a data-l10n-name="lockwise-link">সংরক্ষিত লগইন দেখুন</a>
-       *[other] সংরক্ষিত লগইনগুলি ডাটা লঙ্ঘনে প্রকাশিত হতে পারে। আরও ভাল অনলাইন সুরক্ষার জন্য পাসওয়ার্ড পরিবর্তন করুন। <a data-l10n-name="lockwise-link"> সংরক্ষিত লগইন দেখুন </a>
     }
 
 ## The title attribute is used to display the type of protection.

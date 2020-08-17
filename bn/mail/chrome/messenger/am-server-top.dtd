@@ -65,14 +65,11 @@
 <!ENTITY maxMessagesEnd.label "বার্তা">
 <!ENTITY alwaysAuthenticate.label "এই সার্ভারের সাথে সংযুক্ত করার সময়, সর্বদা প্রমাণীকরণ অনুরোধ করা হবে (w)">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc ফাইল:">
-<!ENTITY newsrcPicker.label "newsrc ফাইল নির্বাচন">
 <!ENTITY abbreviate.label "যেভাবে মেইল ফোল্ডার প্যানে নিউজগ্রুপ নাম প্রদর্শন করা হবে:">
 <!ENTITY abbreviateOn.label "সম্পূর্ণ নাম (উদাহরণস্বরূপ, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "নামের সংক্ষিপ্তরূপ (উদাহরণস্বরূপ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "উচ্চ পর্যায়ের… (v)">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localPath.label "স্থানীয় ডিরেক্টরি:">
 <!ENTITY localFolderPicker.label "স্থানীয় ডিরেক্টরি নির্বাচন">
 <!ENTITY browseFolder.label "ব্রাউজ… (B)">
 <!ENTITY browseFolder.accesskey "B">

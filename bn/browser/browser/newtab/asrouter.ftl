@@ -226,3 +226,11 @@ cfr-whatsnew-passwords-icon-alt = অরক্ষিত পাসওয়ার
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

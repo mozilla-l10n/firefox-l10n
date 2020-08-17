@@ -4,10 +4,6 @@
 
 process-type-web = ওয়েব কন্টেন্ট
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = অধিকারপ্রাপ্ত কন্টেন্ট
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = অধিকারপ্রাপ্ত

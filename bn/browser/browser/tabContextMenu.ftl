@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = নতুন উইন্ডোতে স্থানান্তর W
     .accesskey = W
-undo-close-tab =
-    .label = বন্ধ করা ট্যাব পুনরায় খুলুন U
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ট্যাব বন্ধ C
     .accesskey = C

@@ -104,9 +104,6 @@ about-debugging-setup-title = সেটআপ
 about-debugging-setup-intro = আপনি যে সংযোগ পদ্ধতিতে ডিভাইসটি রিমোটলি ডিবাগ করতে চান তা কনফিগার করুন।
 
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = ট্যাব, এক্সটেনশন এবং পরিষেবা কর্মীদের ডিবাগ করতে <a>{ about-debugging-this-firefox-runtime-name }</a> ব্যবহার করুন, { -brand-shorter-name }এই সংস্করণে।
-
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = এক্সটেনশন এবং পরিষেবা কর্মীদের ডিবাগ করতে <a>{ about-debugging-this-firefox-runtime-name }</a>ব্যবহার করুন, { -brand-shorter-name }এই সংস্করণে।
 
 # Title of the heading Connect section of the Setup page.
@@ -225,14 +222,6 @@ about-debugging-runtime-service-workers-not-compatible = আপনার ব্�
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = সংযুক্ত ব্রাউজারটির একটু পুরানো সংস্করণ ({ $runtimeVersion }) রয়েছে। সর্বনিম্ন সমর্থিত সংস্করণ হলো ({ $minVersion })। এই অসমর্থিত সেটআপ DevTools কে বিকল করে দেয়ার জন্য দায়ি হতে পারে। অনুগ্রহ করে সংযুক্ত ব্রাউজার হালনাগাদ করুন। <a>সমস্যার সমাধান</a>
 
-# Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = সংযুক্ত ব্রাউজারের সাথে ডিবাগার প্যানেল কাজ নাও করতে পারে। আপনার যদি এই ব্রাউজার দিয়ে ডিবাগার ব্যবহারের প্রয়োজন হয় তাহলে অনুগ্রহ করে Firefox { $runtimeVersion } ব্যবহার করুন।
-
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -320,15 +309,6 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = এক্সটেনশন ID
-
-# This string is displayed as a label of the button that pushes a test payload
-# to a service worker.
-# Notes, this relates to the "Push" API, which is normally not localized so it is
-# probably better to not localize it.
-about-debugging-worker-action-push = পুশ করুন
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = শুরু
 
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.

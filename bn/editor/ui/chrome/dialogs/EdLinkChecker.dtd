@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
-
-<!ENTITY windowTitle.label "ছবি এবং লিংকের অবস্থান পরীক্ষা করুন">
-<!ENTITY succeeded.label "সফল">
-<!ENTITY failed.label "ব্যর্থ">
-<!ENTITY closeButton.label "বন্ধ করুন">
