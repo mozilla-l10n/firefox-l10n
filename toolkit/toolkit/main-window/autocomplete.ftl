@@ -10,5 +10,10 @@
 #   $host (String) - Host name of the current site.
 autocomplete-import-logins = <div data-l10n-name="line2">{ $host } আৰু অন্য ছাইটসমূহৰ বাবে</div> <div data-l10n-name="line1">{ $browser }-ৰ পৰা আপোনাৰ লগিন আমদানি কৰক</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = অধিক জানক

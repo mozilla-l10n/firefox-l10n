@@ -4,6 +4,7 @@
 
 page-title = সমস্যমুক্তিৰ তথ্য
 page-subtitle = এই পৃষ্ঠাত কাৰিকৰী তথ্য আছে যোনটো লাভদায়ক হব পাৰে যদি আপুনি এটা সমস্যা সমাধান কৰিব বিচাৰিছে। যদি আপুনি { -brand-short-name } ৰ সাধাৰণ প্ৰশ্ন কিছুমানৰ উত্তৰ বিচাৰিছে, আমাৰ সমৰ্থন ৱেবছাইট <a data-l10n-name="support-link">সমৰ্থন ৱেবছাইট</a> চাওক।
+
 crashes-title = স্খলন সংবাদসমূহ
 crashes-id = সংবাদ ID
 crashes-send-date = জমা দিয়া হল
@@ -65,8 +66,6 @@ locked-key-prefs-title = গুৰুত্বপূৰ্ণ লক্ড প�
 locked-prefs-name = নাম
 locked-prefs-value = মান
 graphics-title = গ্ৰাফিকসমূহ
-js-title = JavaScript
-js-incremental-gc = বৃদ্ধিত GC
 a11y-title = অভিগম্যতা
 a11y-activated = সক্ৰিয়
 a11y-force-disabled = অভিগম্যতা প্ৰতিৰোধ কৰক
@@ -120,6 +119,7 @@ report-crash-for-days =
         [one] সৰ্বশেষ { $days } দিনৰ স্খলন সংবাদসমূহ
        *[other] সৰ্বশেষ { $days } দিনৰ স্খলন সংবাদসমূহ
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -127,6 +127,7 @@ crashes-time-minutes =
         [one] { $minutes } মিনিট আগত
        *[other] { $minutes } মিনিট আগত
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -134,6 +135,7 @@ crashes-time-hours =
         [one] { $hours } ঘন্টা আগত
        *[other] { $hours } ঘন্টা আগত
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -141,6 +143,7 @@ crashes-time-days =
         [one] { $days } দিন আগত
        *[other] { $days } দিন আগত
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -148,6 +151,7 @@ pending-reports =
         [one] সকলো স্খলন সংবাদ (প্ৰদান কৰা সময় বিস্তাৰত { $reports } বাকি স্খলনৰ সৈতে)
        *[other] সকলো স্খলন সংবাদ(প্ৰদান কৰা সময় বিস্তাৰত { $reports } বাকি স্খলনৰ সৈতে)
     }
+
 raw-data-copied = ৰ' তথ্য ক্লিপবৰ্ডলে কপি কৰা হল
 text-copied = লিখনিক ক্লিপবৰ্ডলৈ কপি কৰা হল
 
@@ -159,6 +163,7 @@ blocked-os-version = আপোনাৰ অপাৰেটিং চিস্ট
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = আপোনাৰ গ্ৰাফীয় ড্ৰাইভাৰ সংস্কৰণৰ বাবে প্ৰতিৰোধ কৰা হৈছে। আপোনাৰ গ্ৰাফীয় ড্ৰাইভাৰক সংস্কৰণ { $driverVersion } অথবা নতুনলে আপডেইট কৰাৰ চেষ্টা কৰক।
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType প্ৰাচলসমূহ
@@ -169,6 +174,7 @@ clear-type-parameters = ClearType প্ৰাচলসমূহ
 
 found = পোৱা গ'ল
 missing = হেৰাই আছে
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = বৰ্ণনা
@@ -182,11 +188,15 @@ webgl1-wsiinfo = WebGL 1 ড্ৰাইভাৰ WSI তথ্য
 webgl1-renderer = WebGL 1 ড্ৰাইভাৰ ৰেণ্ডাৰাৰ
 webgl1-version = WebGL 1 ড্ৰাইভাৰ সংস্কৰণ
 webgl1-driver-extensions = WebGL 1 ড্ৰাইভাৰ এক্সটেনশ্যনবোৰ
+
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = পৰৱৰ্তী পুনৰাৰম্ভৰ সময়ত ৰিছেট কৰক
 gpu-device-reset = ডিভাইচ ৰিছেট
+
 min-lib-versions = প্ৰত্যাশীত নূন্যতম সংস্কৰণ
 loaded-lib-versions = ব্যৱহাৰত থকা সংস্কৰণ
+
 has-seccomp-bpf = Seccomp-BPF (চিস্টেম কল ফিল্টাৰিং)
 can-sandbox-content = সমল প্ৰক্ৰিয়া চেণ্ডবক্সিং
 can-sandbox-media = মাধ্যম প্লাগিন চেণ্ডবক্সিং
@@ -194,14 +204,17 @@ sandbox-proc-type-content = সমল
 sandbox-proc-type-file = ফাইল সমল
 sandbox-proc-type-media-plugin = মিডিয়া প্লাগইন
 sandbox-proc-type-data-decoder = ডাটা ডিক'ডাৰ
+
 launcher-process-status-0 = সক্ষম
 launcher-process-status-1 = বিফলতাৰ কাৰণে অক্ষম কৰা হৈছে
 launcher-process-status-2 = জোৰেৰে অক্ষম কৰা হৈছে
 launcher-process-status-unknown = অজ্ঞাত স্থিতি
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+
 apz-none = এটাও নহয়
 
 ## Variables

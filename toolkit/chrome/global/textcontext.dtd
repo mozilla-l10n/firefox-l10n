@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "কাট কৰক">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "কপি কৰক">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "পেইস্ট কৰক">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "বাতিল কৰক">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "সকলো বাছক">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "মচক">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "শব্দকোষত যোগ কৰক">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "শব্দকোষত যোগ কৰা বাতিল কৰক">

@@ -39,9 +39,6 @@
 
 
 <!ENTITY netOffline.title "অফলাইন ধৰণ">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>পুনৰ চেষ্টা কৰক। &brandShortName; এ এটা সংযোগ খোলাৰ চেষ্টা কৰি পৃষ্ঠা পুনৰ ল'ড কৰাৰচেষ্টা কৰিব। <button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "সমল এনক'ডিংত ত্ৰুটি">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যাৰ বিষয়ে জনাওক।</li> </ul>">

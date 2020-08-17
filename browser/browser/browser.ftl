@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ব্যক্তিগত ব্ৰাউছিং)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ব্যক্তিগত ব্ৰাউছিং)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ব্যক্তিগত ব্ৰাউছিং)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ব্যক্তিগত ব্ৰাউছিং)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -110,6 +112,8 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = কমকৈ টাইপ কৰক, বেছিকৈ বিচাৰক: আপোনাৰ ঠিকনা দণ্ডিকাৰে পৰা { $engineName } সন্ধান কৰক।
 urlbar-search-tips-redirect-2 = { $engineName }-ৰ পৰামৰ্শৱলী আৰু আপোনাৰ ব্ৰাউজিং ইতিহাস চাবলৈ ঠিকনা দণ্ডিকাত আপোনাৰ সন্ধান আৰম্ভ কৰক।
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -136,10 +140,12 @@ urlbar-midi-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি MIDI এক্সেছ অৱৰোধ কৰিছে।
 urlbar-install-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি এড-অন ইনষ্টলেশ্যন অৱৰোধ কৰিছে।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই পত্ৰচিহ্ন সম্পাদন কৰক ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -170,12 +176,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = এইবাৰ এইটোৰে সন্ধান কৰক:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = সন্ধানৰ সংহতিসমূহ পৰিবৰ্তন কৰক
 search-one-offs-change-settings-compact-button =
     .tooltiptext = সন্ধান ছেটিংছ সলনি কৰক
+
 search-one-offs-context-open-new-tab =
     .label = নতুন টেবত সন্ধান কৰক
     .accesskey = T
@@ -186,13 +194,22 @@ search-one-offs-context-set-as-default-private =
     .label = ব্যক্তিগত উইণ্ড'ৰ বাবে ডিফ'ল্ট ছাৰ্চ ইঞ্জিনৰূপে ছেট কৰক
     .accesskey = P
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = সঞ্চয় কৰোঁতে এডিটৰ দেখুৱাব
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = হৈ গ'ল
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -248,9 +265,11 @@ popup-select-microphone =
     .value = অংশীদাৰী কৰিবলে মাইক্ৰফোন:
     .accesskey = M
 popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইন্ডোক অংশীদাৰী কৰা হব।
+
 popup-screen-sharing-not-now =
     .label = এতিয়া নহয়
     .accesskey = w
+
 popup-screen-sharing-never =
     .label = কেতিয়াও অনুমতি নিদিব
     .accesskey = N
@@ -267,17 +286,21 @@ sharing-warning-proceed-to-tab =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
+
 urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
 urlbar-permissions-granted =
     .tooltiptext = আপুনি এই ছাইটটোক অতিৰিক্ত অনুমতি প্ৰদান কৰিছে।
 urlbar-switch-to-tab =
     .value = টেবলৈ যাওক:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশ্যন:
+
 urlbar-go-button =
     .tooltiptext = অৱস্থান বাৰত থকা ঠিকনালে যাওক
 urlbar-page-action-button =

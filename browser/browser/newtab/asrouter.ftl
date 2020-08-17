@@ -13,19 +13,25 @@ cfr-doorhanger-pintab-heading = এয়া কৰি চাওঁক: টেব �
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = মই এয়া কিয় দেখি আছোঁ
+
 cfr-doorhanger-extension-cancel-button = এতিয়া নহয়
     .accesskey = এ
+
 cfr-doorhanger-extension-ok-button = এতিয়াই যোগ কৰক
     .accesskey = য
 cfr-doorhanger-pintab-ok-button = এই টেব পিন কৰক
     .accesskey = প
+
 cfr-doorhanger-extension-never-show-recommendation = মোক এই পৰামৰ্শ নেদেখুৱাব
     .accesskey = দ
+
 cfr-doorhanger-extension-learn-more-link = অধিক জানক
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } দ্বাৰা
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = পৰামৰ্শ
@@ -55,8 +61,10 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-step1 = আপুনি পিন কৰিবলৈ বিচৰা টেবত <b>সোঁ-ক্লিক কৰক</b>।
 cfr-doorhanger-pintab-step2 = মেন্যুৰ পৰা <b>টেব পিন কৰক</b> বাছি লওঁক।
 cfr-doorhanger-pintab-step3 = ছাইটৰ কিবা আপডেট থাকিলে আপুনি আপোনাৰ পিন কৰা টেবত এটা নীলা বিন্দু দেখা পাব।
+
 cfr-doorhanger-pintab-animation-pause = ৰখাওঁক
 cfr-doorhanger-pintab-animation-resume = পুনৰাৰম্ভ
+
 
 ## Firefox Accounts Message
 
@@ -72,14 +80,20 @@ cfr-protections-panel-link-text = অধিক জানক
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = নতুন সুবিধা:
+
 cfr-whatsnew-button =
     .label = নতুন কি আছে
     .tooltiptext = নতুন কি আছে
+
 cfr-whatsnew-panel-header = নতুন কি আছে
+
 cfr-whatsnew-release-notes-link-text = ৰিলীজ ন'টসমূহ পঢ়ক
+
 cfr-whatsnew-fx70-title = { -brand-short-name }-এ এতিয়া আপোনাৰ গোপনিয়তাৰ বাবে আৰু কঠোৰভাৱে যুঁজ দিয়ে
+
 cfr-whatsnew-tracking-protect-title = ট্রেকাৰসমূহৰ পৰা নিজকে ৰক্ষা কৰক
 cfr-whatsnew-tracking-protect-link-text = আপোনাৰ ৰিপ'ৰ্ট চাওঁক
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -90,8 +104,10 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } তাৰিখৰে পৰা
 cfr-whatsnew-tracking-blocked-link-text = ৰিপ'ৰ্ট চাওঁক
+
 cfr-whatsnew-lockwise-backup-title = আপোনাৰ পাছৱৰ্ডসমূহৰ বেক আপ লওঁক
 cfr-whatsnew-lockwise-backup-link-text = বেকআপ চালু কৰক
+
 cfr-whatsnew-lockwise-take-title = আপোনাৰ পাছৱৰ্ডসমূহ নিজৰ লগত লৈ ফুৰক
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } ম'বাইল এপে আপোনাক সুৰক্ষিতভাৱে আপোনাৰ পাছৱৰ্ডসমূহ যিকোনো ঠাইৰ পৰা এক্সেছ কৰিবলৈ দিয়ে।
 cfr-whatsnew-lockwise-take-link-text = এপ লাভ কৰক
@@ -121,6 +137,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] ফিংগাৰপ্ৰিণ্টাৰ অৱৰুদ্ধ হ'ল
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }-এ বহুতো ফিংগাৰপ্ৰিণ্টাৰ অৱৰোধ কৰে যিয়ে আপোনাৰ বিজ্ঞাপন প্ৰ'ফাইল তৈয়াৰ কৰিবলৈ গোপনে আপোনাৰ ডিভাইচ আৰু কাৰ্য্যসমূহৰ বিষয়ে তথ্য গোটায়।
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = ফিংগাৰপ্ৰিণ্টাৰ
 cfr-whatsnew-fingerprinter-counter-body-alt = আপোনাৰ বিজ্ঞাপন প্ৰ'ফাইল তৈয়াৰ কৰিবলৈ গোপনে আপোনাৰ ডিভাইচ আৰু কাৰ্য্যসমূহৰ বিষয়ে তথ্য গোটোৱা ফিংগাৰপ্ৰিণ্টাৰসমূহ { -brand-shorter-name }-এ অৱৰোধ কৰিব পাৰে।
@@ -178,4 +195,8 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } আইকন
 
 
 ## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
 

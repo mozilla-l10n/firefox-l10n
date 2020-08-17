@@ -25,19 +25,6 @@ graph-private-window = { -brand-short-name }-এ ব্যক্তিগত উ
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = এই সপ্তাহত { -brand-short-name }-এ অৱৰোধ কৰা ট্রেকাৰৰ সংখ্যা
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = সুৰক্ষাৰ স্তৰ <b>মানক</b>লৈ ছেট কৰা আছে
-    .title = গোপনীয়তা ছেটিংছলৈ যাওঁক
-protection-report-header-details-strict = সুৰক্ষাৰ স্তৰ <b>কঠোৰ</b>লৈ ছেট কৰা আছে
-    .title = গোপনীয়তা ছেটিংছলৈ যাওঁক
-protection-report-page-title = গোপনীয়তা সুৰক্ষা
-protection-report-content-title = গোপনীয়তা সুৰক্ষা
-
-etp-card-title = বৰ্ধিত ট্ৰেকিং সুৰক্ষা
-etp-card-content = আপোনাৰ ব্ৰাউজিং অভ্যাস আৰু আগ্ৰহৰ বিষয়ে তথ্য সংগ্ৰহ কৰিবলৈ ট্রেকাৰবোৰে অনলাইন আপোনাক অনুসৰণ কৰে। { -brand-short-name }-এ ইয়াৰে বহুতো ট্রেকাৰ আৰু অন্য দূষিত স্ক্ৰিপ্ট অৱৰোধ কৰে।
-
 protection-report-etp-card-content-custom-not-blocking = বৰ্তমান সকলো সুৰক্ষা বন্ধ হৈ আছে। আপোনাৰ { -brand-short-name } সুৰক্ষা ছেটিংছ পৰিচালনা কৰি কোনোটো কোনোটো ট্রেকাৰ অৱৰোধ কৰিব লাগে বাছি লওঁক।
 protection-report-manage-protections = ছেটিংছ পৰিচালনা কৰক
 
@@ -53,8 +40,6 @@ fingerprinter-tab-title = ফিংগাৰপ্ৰিণ্টাৰ
 
 cryptominer-tab-title = ক্ৰীপ্ট'মাইনাৰ
   
-full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>-ৰ বিষয়ে সম্পূৰ্ণ প্ৰতিবেদন চাওক
-
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
 ##
