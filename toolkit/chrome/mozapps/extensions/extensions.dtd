@@ -54,17 +54,6 @@
 
 
 
-<!ENTITY cmd.enableAddon.label                "Зөвшөөр">
-<!ENTITY cmd.enableAddon.accesskey            "З">
-<!ENTITY cmd.disableAddon.label               "Хорих">
-<!ENTITY cmd.disableAddon.accesskey           "Х">
-
-
-
-
-
-
-
 
 
 
@@ -108,7 +97,6 @@
 <!-- ratings -->
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Цуцал">
 <!-- list sorting -->
 
 
@@ -148,12 +136,6 @@
 
 
 
-
-
-
-
-
-<!ENTITY settings.path.button.label           "Зааж өг…">
 
 
 

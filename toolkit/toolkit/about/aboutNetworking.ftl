@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-show-next-time-checkbox = Дараагийн удаа энэ анхааруулгыг харуул
-ok = OK
-
 ## Link is intended as "network link"
 
 ##

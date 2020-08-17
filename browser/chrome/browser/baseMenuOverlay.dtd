@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Хураах">
-<!ENTITY bringAllToFront.label    "Бүгдийг өмнө авчир">
-<!ENTITY zoomWindow.label         "Тэлэлт">
-<!ENTITY windowMenu.label         "Цонх">
-
-<!ENTITY helpMenu.label           "Тусламж"> 
-<!ENTITY helpMenu.accesskey       "Т"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Тусламж"> 
-<!ENTITY helpMenuWin.accesskey    "Т">
-
-
-
-
-
-
-
-
-<!ENTITY helpSafeMode.label       "Нэмэлтүүдийг идэвхижүүлээгүй горимд дахин эхлүүлэх…">
-<!ENTITY helpSafeMode.accesskey   "Н">
-
 
 
 
@@ -36,14 +13,10 @@
 
 
 <!ENTITY preferencesCmdMac.label        "Тохируулга…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Үйлчилгээнүүд">
 
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
-
 <!ENTITY hideOtherAppsCmdMac.label      "Бусдыг нь нуу">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Бүгдийг харуул">
 

@@ -58,23 +58,15 @@
 <!ENTITY redoCmd.label "Дахин үйлд">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "й"> 
-<!ENTITY cutCmd.label "Тасдаж сануул">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "у"> 
-<!ENTITY copyCmd.label "Сануул">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "а"> 
-<!ENTITY pasteCmd.label "Санамж буулга">
+<!ENTITY cutCmd.key "X"> 
+<!ENTITY copyCmd.key "C"> 
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "б">
 <!ENTITY editRewrapCmd.accesskey "н">
 <!ENTITY deleteCmd.label "Устга">
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY editRewrapCmd.label "Мөр нугал">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY selectAllCmd.label "Бүгдийг сонго">
 <!ENTITY selectAllCmd.accesskey "о"> 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Дахиад ол">
 <!ENTITY findAgainCmd.accesskey "д">
 <!ENTITY findAgainCmd.key "G">
@@ -180,18 +172,8 @@
 <!ENTITY pasteButton.tooltip            "Санамж буулга">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY fromAddr.label "Хэнээс:">
-<!ENTITY fromAddr.accesskey "э">
-<!ENTITY toAddr.label "Хэнд:"> 
-<!ENTITY ccAddr.label "Хуулбар:"> 
-<!ENTITY bccAddr.label "Хуулбар1:"> 
-<!ENTITY replyAddr.label "Хариулах-хаяг:"> 
-<!ENTITY newsgroupsAddr.label "Мэдээний груп:"> 
-<!ENTITY followupAddr.label "Дагалдаж-Хэнд:"> 
-<!ENTITY subject.label "Гарчиг:">
+<!ENTITY fromAddr.accesskey "э"> 
 <!ENTITY subject.accesskey "ч">
-<!ENTITY attachments.accesskey "т">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 

@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Нууцлал">
-<!ENTITY securityHeading.label "Гарын үсэгтэй эсвэл нууцлалтай захиа илгээх болон хүлээж авахын тулд та электрон гарын үсгийн гэрчилгээ болон нууцлалын гэрчилгээг зааж өгөх ёстой.">
-<!ENTITY encryptionGroupTitle.label "Нууцлал хувиргалт">
-<!ENTITY encryptionChoiceLabel.label "Захиаг илгээх үед анхны нууцлалын тохиргоо:">
-<!ENTITY neverEncrypt.label "Хэзээ ч бүү хэрэглэ (нууц хувиргалт хэрэглэхгүй)">
-<!ENTITY alwaysEncryptMessage.label "Шаардагдсан (Бүх хүлээн авагчид гэрчилгээтэй байхаас бусад үед захиаг илгээж чадахгүй)">
-<!ENTITY encryptionCert.message "Танд ирсэн захианд нууцлал болон нууцлал тайлах энэ гэрчилгээг хэрэглэ:">
-
 <!ENTITY signingGroupTitle.label "Электрон гарын үсэг зурах">
-<!ENTITY signMessage.label "Захианд электрон гарын үсэг зур (Анхных)">
-<!ENTITY signingCert.message "Энэ гэрчилгээг хэрэглэж илгээх захианд электрон гарын үсэг зур:">
-
-<!ENTITY certificates.label "Гэрчилгээ">
 

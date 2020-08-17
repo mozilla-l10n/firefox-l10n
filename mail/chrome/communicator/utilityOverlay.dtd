@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label					"Засварла"> 
 <!ENTITY editMenu.accesskey				"в"> 
 <!ENTITY undoCmd.label						"Буцаж үйлд">  
-<!ENTITY undoCmd.key						"Z">  
 <!ENTITY undoCmd.accesskey					"ц"> 
 <!ENTITY redoCmd.label						"Дахин үйлд">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"д"> 
-<!ENTITY cutCmd.label						"Тасдаж сана">  
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"с"> 
-<!ENTITY copyCmd.label						"Сануул">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"с"> 
-<!ENTITY pasteCmd.label						"Санамж буулга">  
-<!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"б"> 
+<!ENTITY redoCmd.accesskey					"д">  
 <!ENTITY deleteCmd.label					"Устга">  
-<!ENTITY deleteCmd.accesskey				"у"> 
-<!ENTITY selectAllCmd.label					"Бүгдийг сонго">  
-<!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"с"> 
+<!ENTITY deleteCmd.accesskey				"у">  
 <!ENTITY preferencesCmdUnix.label       "Тохируулга">
 <!ENTITY preferencesCmdUnix.accesskey     "и"> 
 

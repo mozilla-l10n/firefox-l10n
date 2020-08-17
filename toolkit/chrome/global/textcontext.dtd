@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Тасдаж сана">
-<!ENTITY cutCmd.accesskey "с">
-<!ENTITY copyCmd.label "Сануул">
-<!ENTITY copyCmd.accesskey "С">
-<!ENTITY pasteCmd.label "Санамж буулга">
-<!ENTITY pasteCmd.accesskey "б">
-<!ENTITY undoCmd.label "Буцаж үйлд">
-<!ENTITY undoCmd.accesskey "ц">
-<!ENTITY selectAllCmd.label "Бүгдийг сонго">
-<!ENTITY selectAllCmd.accesskey "с">
-<!ENTITY deleteCmd.label "Устга">
-<!ENTITY deleteCmd.accesskey "У">
-
 <!ENTITY spellAddToDictionary.label "Толь бичигт нэм">
 <!ENTITY spellAddToDictionary.accesskey "э">
 <!ENTITY spellUndoAddToDictionary.label "Буцан толь бичиг рүү нэмэх">

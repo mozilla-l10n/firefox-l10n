@@ -31,33 +31,10 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Засварла">
 <!ENTITY editMenu.accesskey                             "с">
-<!ENTITY undoCmd.label                                  "Буцаж үйлд">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "ж">
-<!ENTITY redoCmd.label                                  "Дахин үйлд">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "й">
-<!ENTITY cutCmd.label                                   "Тасдаж сануул">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "с">
-<!ENTITY copyCmd.label                                  "Сануул">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "л">
-<!ENTITY pasteCmd.label                                 "Санамж буулга">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "С">
 <!ENTITY deleteCmd.label                                "Устга">
-<!ENTITY deleteCmd.accesskey                            "г">
 <!ENTITY deleteAbCmd.label                              "Хаягийн тэмдэглэл устга">
-<!ENTITY selectAllCmd.label                             "Бүгдийг сонго">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "Б">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Нэр/Овог нэрийг сэлгэ">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "в">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->

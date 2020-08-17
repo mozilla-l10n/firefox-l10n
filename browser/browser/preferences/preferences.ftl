@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Сонголт
-           *[other] Тохируулга
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Сонголт
@@ -260,8 +253,6 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 
 ## The device name controls.
 
-sync-tos-link = үйлчилгээний нөхцөл
-
 ## Privacy Section
 
 
@@ -344,6 +335,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Гэрчилгээ
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

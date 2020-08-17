@@ -75,7 +75,6 @@
 <!ENTITY folderType.label "Сангийн төрөл:">
 
 <!ENTITY folderQuotaTab.label "Хашилт">
-<!ENTITY folderQuotaRoot.label "Хашилтын толгой хэсэг:">
 <!ENTITY folderQuotaUsage.label "Хэрэглээ:">
 <!ENTITY folderQuotaStatus.label "Төлөв байдал:">
 

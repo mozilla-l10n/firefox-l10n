@@ -7,16 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Хувийн зорчилт)">
-
-
 <!-- Tab context menu -->
 
 
@@ -49,21 +39,11 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Бүх самбарын жагсаалтыг харуул">
 
 <!ENTITY tabCmd.label "Хөтлөгч самбар">
-<!ENTITY tabCmd.accesskey "Х">
-<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Файл нээ…">
-<!ENTITY openFileCmd.accesskey "н">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Хуудасны тохиргоо">
-<!ENTITY printSetupCmd.accesskey "и">
-<!ENTITY printPreviewCmd.label "Хэвлэх харагдац">
-<!ENTITY printPreviewCmd.accesskey "р">
 <!ENTITY printCmd.label "Хэвлэ…">
-<!ENTITY printCmd.accesskey "л">
-<!ENTITY printCmd.commandkey "p">
 
 
 
@@ -77,15 +57,6 @@ when there are no windows but Firefox is still running. -->
 
 
 
-
-
-<!ENTITY pageSourceCmd.label "Хуудасны эх бичлэг">
-<!ENTITY pageSourceCmd.accesskey "ч">
-<!ENTITY pageSourceCmd.commandkey "u">
-
-<!ENTITY pageInfoCmd.label "Хуудасны мэдээлэл">
-<!ENTITY pageInfoCmd.accesskey "м">
-<!ENTITY pageInfoCmd.commandkey "i">
 
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -104,12 +75,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY fullScreenRestore.tooltip "Сэргээ">
-
-<!ENTITY fullScreenAutohide.label "Самбарыг нуу">
-<!ENTITY fullScreenAutohide.accesskey "н">
-<!ENTITY fullScreenExit.label "Дэлгэц дүүрэм горимоос гарах">
-<!ENTITY fullScreenExit.accesskey "и">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -135,16 +100,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY closeWindow.label "Цонх хаа">
-<!ENTITY closeWindow.accesskey "х">
-
-
-
-<!ENTITY editThisBookmarkCmd.label "Хадгалсан хаяганд засвар хийх">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-
-
 
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Нэмэлт хаягнуудыг харуул">
@@ -153,16 +108,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY backButton.tooltip           "Нэг хуудас буц">
-
-
-
-
-
-
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Хаягийн самбарын хаяг бичих газар очно">
 
 <!ENTITY printButton.label            "Хэвлэ">
 <!ENTITY printButton.tooltip          "Энэ хуудсыг хэвлэ">
@@ -212,87 +157,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 
 
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Багаж">
-<!ENTITY toolsMenu.accesskey          "Б">
-
-<!ENTITY keywordfield.label           "Энэ хайлтад түлхүүр үг нэм…">
-<!ENTITY keywordfield.accesskey       "ү">
-
 <!ENTITY downloads.label              "Татаж авсан файлууд">
-<!ENTITY downloads.accesskey          "Т">
-<!ENTITY downloads.commandkey         "j">
 
 <!ENTITY addons.label                 "Нэмэгдлүүд">
-<!ENTITY addons.accesskey             "Н">
 
 
 
 
-
-
-<!ENTITY fileMenu.label         "Файл">
-<!ENTITY fileMenu.accesskey       "Ф">
 
 
 <!ENTITY newNavigatorCmd.label        "Шинэ цонх">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "Ш">
 
 
 
 
 <!ENTITY editMenu.label         "Засварла">
-<!ENTITY editMenu.accesskey       "З">
 
-<!ENTITY undoCmd.key            "Z">
-
-<!ENTITY redoCmd.label            "Дахин үйлд">
-
-<!ENTITY redoCmd.accesskey          "Д">
-<!ENTITY cutCmd.label           "Тасдаж сана">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "Т">
-
-
-
-<!ENTITY pasteCmd.label           "Санамж буулга">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "С">
-<!ENTITY deleteCmd.label          "Устга">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "У">
-<!ENTITY selectAllCmd.label         "Бүгдийг сонго">
-
-<!ENTITY selectAllCmd.accesskey       "Б">
 
 
 <!ENTITY preferencesCmdUnix.label       "Тохируулга">
-<!ENTITY preferencesCmdUnix.accesskey     "Т">
-
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Харагдац">
-<!ENTITY viewMenu.accesskey       "ц">
-<!ENTITY viewToolbarsMenu.label       "Багажит самбарууд">
-<!ENTITY viewToolbarsMenu.accesskey     "Б">
-<!ENTITY viewSidebarMenu.label "Хажуу самбарт">
-<!ENTITY viewSidebarMenu.accesskey "Х">
 
 
 
 
 
 <!ENTITY historyMenu.label "Түүх">
-<!ENTITY historyMenu.accesskey "х">
 <!ENTITY historyUndoMenu.label "Сүүлд хаагдсан самбарууд">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Сүүлд хаагдсан самбарууд">
-
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 
 
@@ -358,7 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 
-<!ENTITY urlbar.accesskey             "я">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 
 
@@ -370,28 +261,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -403,13 +272,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -423,77 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY openLinkCmdInTab.label       "Холбоосыг шинэ самбарт нээ">
-
 <!ENTITY openLinkCmdInTab.accesskey   "Х">
-<!ENTITY openLinkCmd.label            "Холбоосыг шинэ цонхонд нээ">
-<!ENTITY openLinkCmd.accesskey        "Х">
-
-
-
-
-<!ENTITY openFrameCmdInTab.label      "Хүрээг шинэ самбарт нээ">
-<!ENTITY openFrameCmdInTab.accesskey  "Х">
-<!ENTITY openFrameCmd.label           "Хүрээг шинэ цонхонд нээ">
-<!ENTITY openFrameCmd.accesskey       "Х">
-
-
-<!ENTITY showOnlyThisFrameCmd.label     "Зөвхөн энэ хүрээг харах">
-<!ENTITY showOnlyThisFrameCmd.accesskey "З">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Хүрээг дахин дууд">
-<!ENTITY reloadFrameCmd.accesskey     "Х">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Сонгосон хэсгийн эх бичлэгийг харах">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "ч">
-<!ENTITY viewPageSourceCmd.label      "Хуудасны эх бичлэгийг харах">
-<!ENTITY viewPageSourceCmd.accesskey  "Х">
-<!ENTITY viewFrameSourceCmd.label     "Хүрээний эх бичлэгийг харах">
-<!ENTITY viewFrameSourceCmd.accesskey "Х">
-<!ENTITY viewPageInfoCmd.label        "Хуудасны мэдэгдлийг харах">
-<!ENTITY viewPageInfoCmd.accesskey    "Х">
-<!ENTITY viewFrameInfoCmd.label       "Хүрээний мэдэгдлийг харах">
-<!ENTITY viewFrameInfoCmd.accesskey   "Х">
-<!ENTITY reloadImageCmd.label         "Зургийг дахин дууд">
-<!ENTITY reloadImageCmd.accesskey     "д">
-<!ENTITY viewImageCmd.label           "Зургийг харах">
-<!ENTITY viewImageCmd.accesskey       "З">
-
-
-
-
-<!ENTITY viewVideoCmd.label           "Видеог харах">
-<!ENTITY viewVideoCmd.accesskey       "В">
-<!ENTITY viewBGImageCmd.label         "Арын дэвсгэр зураг харах">
-<!ENTITY viewBGImageCmd.accesskey     "А">
-<!ENTITY setDesktopBackgroundCmd.label      "Арын дэвсгэр зураг болго…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "А">
-
-<!ENTITY bookmarkThisLinkCmd.label      "Энэ холбоосыг хаяганд нэм">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "х">
-<!ENTITY bookmarkThisFrameCmd.label      "Энэ хүрээний хаягийг хадгал">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "л">
-
-
-
-<!ENTITY savePageCmd.label            "Хуудсанд нэр өгч хадгал…">
-<!ENTITY savePageCmd.accesskey        "Х">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "р">
-
-<!ENTITY saveFrameCmd.label           "Хүрээнд нэр өгч хадгал…">
-<!ENTITY saveFrameCmd.accesskey       "Х">
-<!ENTITY printFrameCmd.label          "Хүрээг хэвлэ…">
-<!ENTITY printFrameCmd.accesskey      "в">
-<!ENTITY saveLinkCmd.label            "Холбогдсон файлд нэр өгч хадгал">
-<!ENTITY saveLinkCmd.accesskey        "ө">
-<!ENTITY saveImageCmd.label           "Зурганд нэр өгч хадгал…">
-<!ENTITY saveImageCmd.accesskey       "З">
-
-
-<!ENTITY saveAudioCmd.label           "Дуут файлд нэр өгч хадгал…">
-<!ENTITY saveAudioCmd.accesskey       "н">
 
 
 
@@ -505,38 +297,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY copyLinkCmd.label            "Холбоос хаягийг сануул">
-<!ENTITY copyLinkCmd.accesskey        "Х">
-<!ENTITY copyImageCmd.label           "Зургийн байрлалыг сануул">
-<!ENTITY copyImageCmd.accesskey       "З">
-<!ENTITY copyImageContentsCmd.label   "Зургийг сануул">
-<!ENTITY copyImageContentsCmd.accesskey  "у">
-<!ENTITY copyVideoURLCmd.label        "Видеоны байрлалыг сануул">
-<!ENTITY copyVideoURLCmd.accesskey    "л">
-<!ENTITY copyAudioURLCmd.label        "Дуут файлын байрлалыг сануул">
-<!ENTITY copyAudioURLCmd.accesskey    "н">
-<!ENTITY copyEmailCmd.label           "Захианы хаягийг сана">
-<!ENTITY copyEmailCmd.accesskey       "З">
-<!ENTITY thisFrameMenu.label              "Энэ хүрээ">
-<!ENTITY thisFrameMenu.accesskey          "Э">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
-<!ENTITY mediaPlay.label             "Тоглуул">
-<!ENTITY mediaPlay.accesskey         "о">
-<!ENTITY mediaPause.label            "Завсарла">
-<!ENTITY mediaPause.accesskey        "в">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Дуугүй">
-<!ENTITY mediaMute.accesskey         "ү">
-<!ENTITY mediaUnmute.label           "Дуутай">
-<!ENTITY mediaUnmute.accesskey       "й">
 
 
 
@@ -550,16 +315,6 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Удирдлагыг харуул">
-<!ENTITY mediaShowControls.accesskey "д">
-<!ENTITY mediaHideControls.label     "Удирдлагыг нуу">
-<!ENTITY mediaHideControls.accesskey "ы">
 
 
 
@@ -577,52 +332,16 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Томруул">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "о">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Багасга">
-<!ENTITY fullZoomReduceCmd.accesskey    "г">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Энгийн">
-<!ENTITY fullZoomResetCmd.accesskey     "Э">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Зөвхөн текст томруул">
-<!ENTITY fullZoomToggleCmd.accesskey    "м">
-
 <!ENTITY fullZoom.label                 "Харуулах хэмжээ">
-<!ENTITY fullZoom.accesskey             "ж">
 
 
 
 <!ENTITY quitApplicationCmdWin2.label       "Гарах">
 <!ENTITY quitApplicationCmdWin2.accesskey   "Г">
 
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Гарах">
 <!ENTITY quitApplicationCmd.accesskey   "Г">
 
-
-
-<!ENTITY closeCmd.label                 "Хаа">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "Х">
-
-
-<!ENTITY pageStyleMenu.label "Хуудасны маяг">
-<!ENTITY pageStyleMenu.accesskey "д">
-<!ENTITY pageStyleNoStyle.label "Маяггүй">
-<!ENTITY pageStyleNoStyle.accesskey "я">
-<!ENTITY pageStylePersistentOnly.label "Хуудасны үндсэн загвар">
-<!ENTITY pageStylePersistentOnly.accesskey "Х">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -634,17 +353,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 
-<!ENTITY bidiSwitchTextDirectionItem.label        "Текстийн чиглэлд сэлгэ">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ч">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Энэ хуудсанд ол">
-<!ENTITY findOnCmd.accesskey "о">
-
-<!ENTITY findAgainCmd.label  "Ахиад ол">
-<!ENTITY findAgainCmd.accesskey "о">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
 <!ENTITY spellAddDictionaries.label "Толь бичиг нэм…">
@@ -679,9 +388,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY identity.permissions "Хандах эрх">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

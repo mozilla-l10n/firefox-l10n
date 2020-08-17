@@ -59,8 +59,6 @@ media-save-as =
 media-save-image-as =
     .label = Нэр өгч хадгал…
     .accesskey = г
-media-preview =
-    .value = Дуу дүрсийг харах:
 
 perm-tab =
     .label = Хандах эрх
@@ -97,7 +95,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Үл мэдэгдсэн
-not-set-verified-by = Зааж өгөөгүй
 page-info-not-specified =
     .value = Зааж өгөөгүй
 not-set-alternative-text = Зааж өгөөгүй

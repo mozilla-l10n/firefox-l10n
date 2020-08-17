@@ -5,6 +5,9 @@
 reload-tab =
     .label = Самбарыг дахин дууд
     .accesskey = м
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Самбарыг хаа
     .accesskey = С
