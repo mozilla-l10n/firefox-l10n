@@ -298,6 +298,84 @@ keyserver-error-aborted = Afgebroken
 keyserver-error-unknown = Er is een onbekende fout opgetreden
 keyserver-error-server-error = De sleutelserver heeft een fout gemeld.
 keyserver-error-import-error = Kan de gedownloade sleutel niet importeren.
+keyserver-error-unavailable = De sleutelserver is niet beschikbaar.
+keyserver-error-security-error = De sleutelserver ondersteunt geen versleutelde toegang.
+keyserver-error-certificate-error = Het certificaat van de sleutelserver is niet geldig.
+keyserver-error-unsupported = De sleutelserver wordt niet ondersteund.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Uw e-mailprovider heeft uw verzoek om uw openbare sleutel te uploaden naar de OpenPGP Web Key Directory verwerkt.
+    Stuur een bevestiging om de publicatie van uw publieke sleutel te voltooien.
+wkd-message-body-process =
+    Dit is een e-mailbericht in relatie tot de automatische verwerking om uw publieke sleutel te uploaden naar de OpenPGP Web Key Directory.
+    U hoeft op dit moment geen handmatige actie te ondernemen.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Kan bericht met onderwerp { $subject }
+    niet decoderen.
+    Wilt u het opnieuw proberen met een andere wachtwoordzin of wilt u het bericht overslaan?
+# Strings in gpg.jsm
+unknown-signing-alg = Onbekend ondertekeningsalgoritme (ID: { $id })
+unknown-hash-alg = Onbekende cryptografische hash (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Uw sleutel { $desc } vervalt over minder dan { $days } dagen.
+    We raden u aan een nieuw sleutelpaar te maken en de bijbehorende accounts voor gebruik ervan te configureren.
+expiry-keys-expire-soon =
+    Uw volgende sleutels vervallen over minder dan { $days } dagen: { $desc }.
+    We raden u aan nieuwe sleutels te maken en de bijbehorende accounts te voor gebruik ervan te configureren.
+expiry-key-missing-owner-trust =
+    Uw geheime sleutel { $desc } is niet vertrouwd.
+    We raden u aan ‘U vertrouwt op certificeringen’ in de sleuteleigenschappen in te stellen op ‘maximaal’.
+expiry-keys-missing-owner-trust =
+    Het volgende van uw geheime sleutels zijn niet vertrouwd.
+    { $desc }.
+    We raden u aan ‘U vertrouwt op certificeringen’ in de sleuteleigenschappen in te stellen op ‘maximaal’.
+expiry-open-key-manager = OpenPGP-sleutelbeheerder openen
+expiry-open-key-properties = Sleuteleigenschappen openen
+# Strings filters.jsm
+filter-folder-required = U moet een doelmap selecteren.
+filter-decrypt-move-warn-experimental =
+    Waarschuwing – de filteractie ‘Permanent ontsleutelen’ kan leiden tot vernietigde berichten.
+    We raden u sterk aan om eerst het filter ‘Ontsleutelde kopie maken’ te proberen, het resultaat zorgvuldig te testen en dit filter pas te gaan gebruiken als u tevreden bent met het resultaat.
+filter-term-pgpencrypted-label = OpenPGP-versleuteld
+filter-key-required = U moet een ontvangersleutel selecteren.
+filter-key-not-found = Kan geen versleutelingssleutel vinden voor ‘{ $desc }’.
+filter-warn-key-not-secret =
+    Waarschuwing – de filteractie ‘Versleutelen naar sleutel’ vervangt de ontvangers.
+    Als u de geheime sleutel voor ‘{ $desc }’ niet hebt, kunt u de e-mailberichten niet meer lezen.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Permanent ontsleutelen (OpenPGP)
+filter-decrypt-copy-label = Ontsleutelde kopie maken (OpenPGP)
+filter-encrypt-label = Versleutelen naar sleutel (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Succes! Sleutels geïmporteerd
+import-info-bits = Bits
+import-info-created = Aangemaakt
+import-info-fpr = Vingerafdruk
+import-info-details = Details bekijken en sleutelacceptatie beheren
+import-info-no-keys = Geen sleutels geïmporteerd.
+# Strings in enigmailKeyManager.js
+import-from-clip = Wilt u een of enkele sleutel(s) van het klembord importeren?
+import-from-url = Publieke sleutel van deze URL downloaden:
+copy-to-clipbrd-failed = Kan de geselecteerde sleutel(s) niet naar het klembord kopiëren.
+copy-to-clipbrd-ok = Sleutel(s) naar klembord gekopieerd
+delete-secret-key =
+    WAARSCHUWING: U staat op het punt een geheime sleutel te verwijderen!
+    
+    Als u uw geheime sleutel verwijdert, kunt u geen berichten meer ontsleutelen die voor die sleutel zijn versleuteld, en kunt u deze ook niet intrekken.
+    
+    Wilt u echt ZOWEL de geheime sleutel ALS de publieke sleutel ‘{ $userId }’
+    verwijderen?
+delete-mix =
+    WAARSCHUWING: U staat op het punt geheime sleutels te verwijderen!
+    Als u uw geheime sleutel verwijdert, kunt u geen berichten meer ontsleutelen die voor die sleutel zijn versleuteld.
+    Wilt u echt ZOWEL de geselecteerde geheime ALS de publieke sleutels verwijderen?
+delete-pub-key =
+    Wilt u de publieke sleutel ‘{ $userId }’
+    verwijderen?
+delete-selected-pub-key = Wilt u de publieke sleutels verwijderen?
 
 ## Account settings export output
 
