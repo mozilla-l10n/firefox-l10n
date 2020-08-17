@@ -10,6 +10,7 @@ graph-week-summary =
         [few] Per pastarąją savaitę „{ -brand-short-name }“ užblokavo { $count } stebėjimo elementus
        *[other] Per pastarąją savaitę „{ -brand-short-name }“ užblokavo { $count } stebėjimo elementų
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -20,63 +21,61 @@ graph-total-tracker-summary =
         [few] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuoti <b>{ $count }</b> stebėjimo elementai
        *[other] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuota <b>{ $count }</b> stebėjimo elementų
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = „{ -brand-short-name }“ ir toliau blokuoja stebėjimo elementus privačiojo naršymo languose, tačiau nefiksuoja, kas buvo užblokuota.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Šią savaitę „{ -brand-short-name }“ užblokuoti stebėjimo elementai
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Parinktas <b>numatytasis</b> apsaugos lygmuo
-    .title = Eiti į privatumo nuostatas
-protection-report-header-details-strict = Parinktas <b>griežtas</b> apsaugos lygmuo
-    .title = Eiti į privatumo nuostatas
-protection-report-header-details-custom = Parinktas <b>tinkintas</b> apsaugos lygmuo
-    .title = Eiti į privatumo nuostatas
-protection-report-page-title = Privatumo apsaugos
-protection-report-content-title = Privatumo apsaugos
-etp-card-title = Išplėsta apsauga nuo stebėjimo
-etp-card-content = Stebėjimo elementai seka jus internete, siekdami surinkti informacijos apie jūsų naršymo įpročius ir pomėgius. „{ -brand-short-name }“ blokuoja daugelį šių elementų ir kitų kenksmingų scenarijų.
+
 protection-report-webpage-title = Apsaugos skydelis
 protection-report-page-content-title = Apsaugos skydelis
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = „{ -brand-short-name }“ gali saugoti jūsų privatumą jums naršant. Čia pateikiama asmeninė šios apsaugos santrauka, kartu su įrankiais, kurie leidžia tai valdyti.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = „{ -brand-short-name }“ saugo jūsų privatumą jums naršant. Čia pateikiama asmeninė šios apsaugos santrauka, kartu su įrankiais, kurie leidžia tai valdyti.
+
 protection-report-settings-link = Tvarkykite savo privatumo ir saugumo nuostatas
+
 etp-card-title-always = Išplėsta apsauga nuo stebėjimo: visada įjungta
 etp-card-title-custom-not-blocking = Išplėsta apsauga nuo stebėjimo: išjungta
 etp-card-content-description = „{ -brand-short-name }“ automatiškai blokuoja kompanijų bandymus sekti jūsų veiklą internete.
 protection-report-etp-card-content-custom-not-blocking = Šiuo metu visos apsaugos yra išjungtos. Pasirinkite, ką norite blokuoti, per savo „{ -brand-short-name }“ apsaugų nuostatas.
 protection-report-manage-protections = Keisti nuostatas
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Šiandien
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Grafikas, kuriame pavaizduotas bendras kiekvieno per šia savaitę užblokuoto stebėjimo lementų tipo skaičius.
+
 social-tab-title = Socialinių tinklų stebėjimo elementai
 social-tab-contant = Socialiniai tinklai deda stebėjimo elementus kitose svetainėse, kad galėtų sekti ką veikiate, matote, žiūrite naršydami. Tai leidžia kompanijoms sužinoti apie jus žymiai daugiau, negu dalinatės savo socialinių tinklų profiliuose. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+
 cookie-tab-title = Tarp svetainių veikiantys stebėjimo slapukai
 cookie-tab-content = Šie slapukai seka jus tarp skirtingų svetainių, rinkdami informaciją, ką veikiate naršydami. Jie yra valdomi trečiųjų šalių, pvz., reklamų kūrėjų arba analitikos kompanijų. Juos blokuodami sumažinsite jus sekančių reklamų kiekį. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+
 tracker-tab-title = Stebėjimui naudojamas turinys
 tracker-tab-description = Svetainės gali įkelti išorines reklamas, vaizdo įrašus, ir kitą turinį su stebėjimo kodu. Tokio turinio blokavimas gali leisti gerčiau įkelti svetaines, tačiau kartu gali neveikti dalis mygtukų, formų, prisijungimo laukų. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+
 fingerprinter-tab-title = Skaitmeninių atspaudų stebėjimas
 fingerprinter-tab-content = Skaitmeninių atspaudų stebėjimo metu surenkama informacija apie jūsų naršyklės ir kompiuterio parametrus, kad būtų sudarytas jūsų profilis. Jį turint, jus galima sekti tarp skirtingų svetainių. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+
 cryptominer-tab-title = Kriptovaliutų kasėjai
 cryptominer-tab-content = Kriptovaliutų kasėjai naudoja jūsų kompiuterio resursus, kad iškastų skaitmeninių pinigų. Šis procesas eikvoja jūsų bateriją, lėtina kompiuterio veikimą, ir gali padidinti sąskaitą už elektrą. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+
 protections-close-button2 =
     .aria-label = Užverti
     .title = Užverti
+  
 mobile-app-title = Blokuokite reklaminius elementus ir kituose įrenginiuose
 mobile-app-card-content = Naudokite mobiliąją naršyklę su integruota apsauga nuo reklaminių stebėjimo elementų.
 mobile-app-links = „{ -brand-product-name }“ naršyklė, skirta <a data-l10n-name="android-mobile-inline-link">„Android“</a> ir <a data-l10n-name="ios-mobile-inline-link">„iOS“</a>
+
 lockwise-title = Daugiau nepamirškite nė vieno slaptažodžio
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Slaptažodžių tvarkymas
 lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slaptažodžius į jūsų naršyklę.
 lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
-protection-report-view-logins-button = Peržiūrėti prisijungimus
-    .title = Eiti į įrašytus prisijungimus
 protection-report-save-passwords-button = Laikyti slaptažodžius
     .title = Laikyti slaptažodžius su „{ -lockwise-brand-short-name }“
 protection-report-manage-passwords-button = Tvarkyti slaptažodžius
@@ -84,15 +83,7 @@ protection-report-manage-passwords-button = Tvarkyti slaptažodžius
 lockwise-mobile-app-title = Turėkite savo slaptažodžius visur
 lockwise-no-logins-card-content = Slaptažodžius, esančius „{ -brand-short-name }“, galite naudoti bet kuriame įrenginyje.
 lockwise-app-links = „{ -lockwise-brand-name }“, skirta „<a data-l10n-name="lockwise-android-inline-link">„Android“</a> ir <a data-l10n-name="lockwise-ios-inline-link">„iOS“</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] slaptažodis įrašytas saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
-        [few] slaptažodžiai įrašyti saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
-       *[other] slaptažodžių įrašyti saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
-    }
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -101,6 +92,7 @@ lockwise-scanned-text-breached-logins =
         [few] { $count } slaptažodžiai galėjo patekti tarp nutekėjusių duomenų.
        *[other] { $count } slaptažodžių galėjo patekti tarp nutekėjusių duomenų.
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -112,31 +104,25 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Jūsų slaptažodžiai laikomi saugiai.
     }
 lockwise-how-it-works-link = Kaip tai veikia
+
 turn-on-sync = Įjungti „{ -sync-brand-short-name }“…
     .title = Eiti į sinchronizavimo nuostatas
-manage-connected-devices = Tvarkyti įrenginius…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Prijungta prie { $count } įrenginio
-        [few] Prijungta prie { $count } įrenginių
-       *[other] Prijungta prie { $count } įrenginių
-    }
+
 monitor-title = Būkite informuoti apie duomenų pažeidimus
 monitor-link = Kaip tai veikia
 monitor-header-content-no-account = „{ -monitor-brand-name }“ pateikia informaciją apie tai, ar jūsų duomenys yra patekę tarp nutekėjusių, ir gali pranešti apie naujus pažeidimus.
 monitor-header-content-signed-in = „{ -monitor-brand-name }“ perspėja, kai jūsų duomenys pasirodo žinomuose duomenų nutekėjimuose.
-monitor-sign-up = Gauti įspėjimus apie duomenų nutekėjimus
 monitor-sign-up-link = Gauti įspėjimus apie duomenų nutekėjimus
     .title = Gauti įspėjimus apie duomenų nutekėjimus su „{ -monitor-brand-name }“
 auto-scan = Automatiškai skenuota šiandien
+
 monitor-emails-tooltip =
     .title = Peržiūrėti stebimus el. pašto adresus per „{ -monitor-brand-short-name }“
 monitor-breaches-tooltip =
     .title = Peržiūrėti žinomus duomenų nutekėjimus per „{ -monitor-brand-short-name }“
 monitor-passwords-tooltip =
     .title = Peržiūrėti nutekėjusius slaptažodžius per „{ -monitor-brand-short-name }“
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -146,6 +132,7 @@ info-monitored-emails =
         [few] stebimi el. pašto adresai
        *[other] stebimų el. pašto adresų
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -155,6 +142,7 @@ info-known-breaches-found =
         [few] žinomi duomenų nutekėjimai atskleidė jūsų informaciją
        *[other] žinomų duomenų nutekėjimų atskleidė jūsų informaciją
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -164,6 +152,7 @@ info-known-breaches-resolved =
         [few] patikrinti žinomi duomenų nutekėjimai
        *[other] patikrintų žinomų duomenų nutekėjimų
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -173,16 +162,7 @@ info-exposed-passwords-found =
         [few] atskleisti slaptažodžiai tarp visų nutekėjimų
        *[other] atskleistų slaptažodžių tarp visų nutekėjimų
     }
-full-report-link = Peržiūrėti visą ataskaitą per <a data-l10n-name="monitor-inline-link">„{ -monitor-brand-name }“</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] įrašytas prisijungimas galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šį slaptažodį dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
-        [few] įrašyti prisijungimai galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
-       *[other] Įrašytų prisijungimų galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
-    }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -192,6 +172,7 @@ info-exposed-passwords-resolved =
         [few] nepatikrinti nutekėję slaptažodžiai
        *[other] nepatikrintų nutekėjusių slaptažodžių
     }
+
 monitor-no-breaches-title = Geros žinios!
 monitor-no-breaches-description = Neturite jokių žinomų duomenų nutekėjimų. Jei tai pasikeis, jums pranešime.
 monitor-view-report-link = Peržiūrėti ataskaitą
@@ -202,6 +183,7 @@ monitor-manage-breaches-link = Tvarkyti nutekėjimus
     .title = Tvarkyti nutekėjimus su „{ -monitor-brand-short-name }“
 monitor-breaches-resolved-title = Puiku! Patikrinote visus žinomus nutekėjimus.
 monitor-breaches-resolved-description = Jei jūsų el. paštas pasirodys naujuose nutekėjimuose, jums pranešime.
+
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
@@ -211,9 +193,11 @@ monitor-partial-breaches-title =
         [few] Patikrinti { $numBreachesResolved } iš { $numBreaches } nutekėjimų
        *[other] Patikrinta { $numBreachesResolved } iš { $numBreaches } nutekėjimų
     }
+
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = Užbaigta { $percentageResolved }%
+
 monitor-partial-breaches-motivation-title-start = Puiki pradžia!
 monitor-partial-breaches-motivation-title-middle = Tęskite toliau!
 monitor-partial-breaches-motivation-title-end = Beveik baigta! Tęskite toliau.

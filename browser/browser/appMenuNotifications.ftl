@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Tvarkykite savo priedus paspausdami <image 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leisti šiam priedui veikti privačiojo naršymo languose
     .accesskey = L
-appmenu-addon-private-browsing =
-    .label = Pakeisti į priedus privačioje naršymo languose
-    .buttonlabel = Tvarkyti priedus
-    .buttonaccesskey = T
-    .secondarybuttonlabel = Gerai, supratau
-    .secondarybuttonaccesskey = G
-appmenu-addon-private-browsing-message = Visi naujai priedai, kuriuos pridėsite į „{ -brand-shorter-name }“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.
-appmenu-addon-private-browsing-learn-more = Sužinokite, kaip tvarkyti priedų nuostatas.
     
 appmenu-new-tab-controlled =
     .label = Pasikeitė jūsų nauja kortelė.

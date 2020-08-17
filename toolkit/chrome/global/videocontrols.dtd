@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Vaizdas vaizde">
 
-<!ENTITY stats.media "Medija">
-<!ENTITY stats.size "Dydis">
-<!ENTITY stats.activity "Būsena">
-<!ENTITY stats.activityPaused "Pristabdytas">
-<!ENTITY stats.activityPlaying "Atkuriamas">
-<!ENTITY stats.activityEnded "Pasibaigęs">
-<!ENTITY stats.activitySeeking "(ieškoma)">
-<!ENTITY stats.volume "Garsas">
-<!ENTITY stats.framesParsed "Išanalizuota kadrų">
-<!ENTITY stats.framesDecoded "Iškoduota kadrų">
-<!ENTITY stats.framesPresented "Pateikta kadrų">
-<!ENTITY stats.framesPainted "Atvaizduota kadrų">
-
 <!ENTITY error.aborted "Vaizdo įkėlimas sustabdytas.">
 <!ENTITY error.network "Vaizdo atkūrimas nutrauktas dėl tinklo klaidos.">
 <!ENTITY error.decode "Vaizdo leisti neįmanoma, nes failas sugadintas.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "Vaizdo atkūrimas nutrauktas dėl nežinomos klaidos.">
 
 <!ENTITY status.pictureInPicture "Šis vaizdo įrašas groja vaizdas–vaizde rodiniu.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "praėjo #1 iš #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

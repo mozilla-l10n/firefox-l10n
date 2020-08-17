@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Numeris
 
 fips-nonempty-password-required = Norint dirbti FIPS veiksenoje, reikia turėti tiek pagrindinių slaptažodžių, kiek turite saugumo priemonių. Prašom sukurti pagrindinius slaptažodžius prieš įjungiant FIPS veikseną.
+
 unable-to-toggle-fips = Nepavyko pakeisti su saugumo priemone naudojamos FIPS veiksenos. Patariame užbaigti šios programos darbą, o tada paleisti ją iš naujo.
 load-pk11-module-file-picker-title = Pasirinkite norimą įkelti PKCS#11 įrenginio tvarkyklę
 

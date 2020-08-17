@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Įkeliama…
-
 list-empty-installed =
     .value = Nėra įdiegtų šio tipo priedų
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Sužinokite apie priedus daugiau
 
-install-addon-from-file =
-    .label = Įdiegti priedą iš failo…
-    .accesskey = d
-
 help-button = Priedų pagalba
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] „{ -brand-short-name }“ nuostatos
        *[other] „{ -brand-short-name }“ nuostatos
     }
-
-tools-menu =
-    .tooltiptext = Visiems priedams taikomos priemonės
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Rodyti visus plėtinius
-
-debug-addons =
-    .label = Derinti priedus
-    .accesskey = r
 
 cmd-show-details =
     .label = Išsamiau
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = P
     .tooltiptext = Paremti šio priedo kūrimą
 
-discover-title = Kas yra priedai?
-
-discover-description = Priedai – nedidelės programos, kurios leidžia pritaikyti „{ -brand-short-name }“ savo poreikiams, suteikiant papildomų funkcijų ar pakeičiant išvaizdą. Individualizuokite „{ -brand-short-name }“, išbandydami laiką taupantį parankinės modulį, orų pranešiklį ar jums patinkantį grafinį apvalkalą.
-
-discover-footer = Kai prisijungsite prie interneto, šioje srityje pamatysite keletą geriausių ir populiariausių priedų.
-
 detail-version =
     .label = Laida
 
@@ -140,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Leisti privačiojo naršymo languose
 
-detail-private-browsing-description2 = Jums leidus, šis priedas turės prieigą prie jūsų veiklos internete, kai naršote privačiai. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Neleidžiama privačiojo naršymo languose
-detail-private-disallowed-description = Šis priedas neveikia privačiojo naršymo languose. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
 
 detail-private-disallowed-description2 = Šis priedas neveikia privačiojo naršymo languose. <a data-l10n-name="learn-more">Sužinoti daugiau</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Reikalinga prieiga prie privačiojo naršymo langų
-detail-private-required-description = Šis priedas turi prieigą prie jūsų veiksmų naršant privačiai. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
 
 detail-private-required-description2 = Šis priedas turi priėjimą prie jūsų veiklos naršant privačiai. <a data-l10n-name="learn-more">Sužinoti daugiau</a>
 
@@ -228,18 +204,6 @@ private-browsing-description2 =
     norėdami išlaikyti jūsų privatųjį naršymą privačiu.
     <label data-l10n-name="private-browsing-learn-more">Sužinokite, kaip tvarkyti priedų nuostatas.</label>
 
-extensions-view-discopane =
-    .name = Rekomendacijos
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Paskiausiai atnaujinti
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Galimi naujinimai
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Rekomendacijos
 addon-category-discover-title =
     .title = Rekomendacijos
@@ -267,29 +231,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Ribotojoje veiksenoje visi priedai išjungti.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Tikrinti
-    .tooltiptext = Įjungti priedų suderinamumo tikrinimą
-
-extensions-warning-update-security-label =
-    .value = Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Tikrinti
-    .tooltiptext = Įjungti priedų naujinimų saugumo tikrinimą
-
 extensions-warning-safe-mode = Ribotojoje veiksenoje visi priedai išjungti.
 extensions-warning-check-compatibility = Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.
 extensions-warning-check-compatibility-button = Tikrinti
@@ -301,14 +242,6 @@ extensions-warning-update-security-button = Tikrinti
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Tikrinti, ar yra naujinimų
-    .accesskey = T
-
-extensions-updates-view-updates =
-    .label = Rodyti paskiausiai atnaujintus priedus
-    .accesskey = p
-
 addon-updates-check-for-updates = Tikrinti, ar yra naujinimų
     .accesskey = T
 addon-updates-view-updates = Rodyti paskiausiai atnaujintus priedus
@@ -316,10 +249,6 @@ addon-updates-view-updates = Rodyti paskiausiai atnaujintus priedus
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Naujinti priedus automatiškai
-    .accesskey = N
 
 addon-updates-update-addons-automatically = Naujinti priedus automatiškai
     .accesskey = N
@@ -330,36 +259,12 @@ addon-updates-update-addons-automatically = Naujinti priedus automatiškai
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Visus priedus naujinti automatiškai
-    .accesskey = V
-
-extensions-updates-reset-updates-to-manual =
-    .label = Visus priedus naujinti rankiniu būdu
-    .accesskey = V
-
 addon-updates-reset-updates-to-automatic = Visus priedus naujinti automatiškai
     .accesskey = V
 addon-updates-reset-updates-to-manual = Visus priedus naujinti rankiniu būdu
     .accesskey = V
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Priedai naujinami
-extensions-updates-installed =
-    .value = Turimi priedai atnaujinti.
-extensions-updates-downloaded =
-    .value = Parsiųsti turimų priedų naujinimai.
-extensions-updates-restart =
-    .label = Paleiskite programą iš naujo, kad diegimas būtų užbaigtas
-extensions-updates-none-found =
-    .value = Naujinimų nerasta
-extensions-updates-manual-updates-found =
-    .label = Rodyti galimus atnaujinti priedus
-extensions-updates-update-selected =
-    .label = Įdiegti naujinimus
-    .tooltiptext = Įdiegti šiame sąraše esančių priedų naujinimus
 
 addon-updates-updating = Priedai naujinami
 addon-updates-installed = Turimi priedai atnaujinti.
@@ -377,10 +282,6 @@ addon-open-about-debugging = Derinti priedus
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Tvarkyti sparčiuosius klavišus priedams
-    .accesskey = s
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Tvarkyti sparčiuosius klavišus priedams
     .accesskey = s
@@ -389,8 +290,6 @@ shortcuts-no-addons = Neturite jokių įjungtų priedų.
 shortcuts-no-commands = Šie priedai neturi sparčiųjų klavišų komandų:
 shortcuts-input =
     .placeholder = Surinkite klavišų kombinaciją
-
-shortcuts-browserAction = Įjungti priedą
 
 shortcuts-browserAction2 = Aktyvuoti priemonių juostos mygtuką
 shortcuts-pageAction = Įjungti veiksmą tinklalapyje
@@ -423,9 +322,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Rodyti mažiau
-
-go-back-button =
-    .tooltiptext = Eiti atgal
 
 header-back-button =
     .title = Eiti atgal
@@ -478,7 +374,6 @@ remove-addon-button = Pašalinti
 remove-addon-disabled-button = Negalima pašalinti. <a data-l10n-name="link">Kodėl?</a>
 disable-addon-button = Išjungti
 enable-addon-button = Įjungti
-expand-addon-button = Daugiau veiksmų
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -491,9 +386,6 @@ preferences-addon-button =
 details-addon-button = Išsamiau
 release-notes-addon-button = Laidos apžvalga
 permissions-addon-button = Leidimai
-
-addons-enabled-heading = Įjungta
-addons-disabled-heading = Išjungta
 
 extension-enabled-heading = Įjungtas
 extension-disabled-heading = Išjungtas
@@ -557,23 +449,12 @@ install-update-button = Atnaujinti
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Leidžiama privačiojo naršymo languose
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Leidžiama privačiojo naršymo languose
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūsų veiklos internete naršant privačiai. <a data-l10n-name="learn-more">Sužinokite daugiau</a>
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Rekomenduojamas
-    .alt = Rekomenduojamas
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

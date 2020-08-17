@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Čia yra drakonų!
-about-config-warning-text = Šių ekspertinių nustatymų keitimas gali pakenkti programos stabilumui, saugumui ir darbo greičiui. Turėtumėte tai daryti tik tuomet, jei tikrai žinote, ką darote.
-about-config-warning-checkbox = Suerzinkite mane ir vėl, prašau!
-about-config-warning-button = Sutinku su rizika
-
-about-config2-title = Papildoma sąranka
-
-about-config-search-input =
-    .placeholder = Ieškoti
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Elkitės atsargiai
@@ -32,13 +21,6 @@ about-config-page-title = Išplėstinės nuostatos
 about-config-search-input1 =
     .placeholder = Ieškoti nuostatos pavadinimo
 about-config-show-all = Rodyti viską
-
-about-config-pref-add = Pridėti
-about-config-pref-toggle = Perjungti
-about-config-pref-edit = Keisti
-about-config-pref-save = Įrašyti
-about-config-pref-reset = Atstatyti
-about-config-pref-delete = Pašalinti
 
 about-config-pref-add-button =
     .title = Pridėti

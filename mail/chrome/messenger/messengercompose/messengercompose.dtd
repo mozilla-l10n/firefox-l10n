@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Atstatyti">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "t">
-<!ENTITY cutCmd.label "Iškirpti">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "r">
-<!ENTITY copyCmd.label "Kopijuoti">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Įdėti">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "d">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "n">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Pažymėti viską">
 <!ENTITY selectAllCmd.accesskey "v">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Ieškoti…">
 <!ENTITY findBarCmd.accesskey "I">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "Spausdinti šį laišką">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 6em;">
-<!ENTITY fromAddr.label "Kas:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Kiti adresų laukų tipai">
 <!ENTITY fromAddr2.label "Siuntėjas">
 <!ENTITY fromAddr.accesskey "K">
-<!ENTITY toAddr.label "Kam:">
-<!ENTITY ccAddr.label "Kopija:">
-<!ENTITY bccAddr.label "Nematomoji kopija:">
-<!ENTITY replyAddr.label "Atgalinis adresas:">
-<!ENTITY newsgroupsAddr.label "Naujienų grupė:">
-<!ENTITY followupAddr.label "Nukreipti į grupę:">
-<!ENTITY subject.label "Tema:">
 <!ENTITY toAddr2.label "Gavėjas">
 <!ENTITY ccAddr2.label "Kopija">
 <!ENTITY bccAddr2.label "Nematoma kopija">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "Kitai grupei">
 <!ENTITY subject2.label "Tema">
 <!ENTITY subject.accesskey "e">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "e">
-<!ENTITY attachmentBucketHeader.tooltip "Priedų polangis">
 <!ENTITY attachmentBucketCloseButton.tooltip "Slėpti priedų polangį">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

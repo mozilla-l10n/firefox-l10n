@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Pavadinimas ir šaltinio vieta ėminio funkcijoje.">
 <!ENTITY performanceUI.table.totalAlloc               "Viso atrinktų išskyrimų">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Bendras atrinktų objekto išskyrimų skaičius šioje vietoje ir kreipiniuose.">
-<!ENTITY performanceUI.table.selfAlloc                "Vidiniai atrinkti išskyrimai">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Atrinktų objekto išskyrimų skaičius šioje vietoje.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

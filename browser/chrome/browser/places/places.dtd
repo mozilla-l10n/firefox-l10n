@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pasirinkite failą…">
 <!ENTITY cmd.restoreFromFile.accesskey  "f">
 
-<!ENTITY cmd.deleteDomainData.label     "Užmiršti viską apie šią svetainę">
-<!ENTITY cmd.deleteDomainData.accesskey "U">
-
-<!ENTITY cmd.open.label                  "Atverti">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Atverti naujame lange">
-<!ENTITY cmd.open_window.accesskey       "l">
-<!ENTITY cmd.open_private_window.label     "Atverti naujame privačiojo naršymo lange">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Atverti naujoje kortelėje">
-<!ENTITY cmd.open_tab.accesskey          "o">
-<!ENTITY cmd.open_all_in_tabs.label      "Atverti kortelėse">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
-
-<!ENTITY cmd.properties.label      "Savybės">
-<!ENTITY cmd.properties.accesskey  "S">
-
-<!ENTITY cmd.sortby_name.label              "Rikiuoti pagal pavadinimą">
-<!ENTITY cmd.sortby_name.accesskey          "R">
-<!ENTITY cmd.context_sortby_name.accesskey  "R">
-
-<!ENTITY cmd.new_bookmark.label            "Naujas adresas…">
-<!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_folder.label              "Naujas aplankas…">
-<!ENTITY cmd.new_folder.accesskey          "l">
-<!ENTITY cmd.context_new_folder.accesskey  "a">
-<!ENTITY cmd.new_separator.label           "Naujas skirtukas">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Pavadinimas">
 <!ENTITY col.tags.label          "Gairės">
 <!ENTITY col.url.label           "Adresas">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Aplankymų kiekis">
 <!ENTITY col.dateadded.label     "Įtrauktas">
 <!ENTITY col.lastmodified.label  "Atnaujintas">
-
-<!ENTITY historySearch.placeholder  "Ieškoti žurnale">
-<!ENTITY bookmarksSearch.placeholder  "Ieškoti adresyne">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">
 
-<!ENTITY view.label               "Rodyti">
-<!ENTITY view.accesskey           "o">
-<!ENTITY byDate.label             "pagal datą">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "pagal svetainę">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "pagal lankymo dažnumą">
-<!ENTITY byMostVisited.accesskey  "ž">
-<!ENTITY byLastVisited.label      "pagal lankymo datą">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "pagal datą ir svetainę">
-<!ENTITY byDayAndSite.accesskey   "t">

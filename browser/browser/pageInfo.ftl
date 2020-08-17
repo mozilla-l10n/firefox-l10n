@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Įrašyti kaip…
     .accesskey = š
-media-preview =
-    .value = Elemento peržiūra:
 
 perm-tab =
     .label = Leidimai
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Taip, slapukų
 security-site-data-no = Ne
 
 image-size-unknown = nežinomas
-not-set-verified-by = nenurodytas
 page-info-not-specified =
     .value = nenurodytas
 not-set-alternative-text = nenurodytas
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = standartų nepaisymo veiksena
 general-strict-mode =
     .value = suderinamumo su standartais veiksena
-security-no-owner = Ši svetainė nepateikia informacijos apie savininkus.
 page-info-security-no-owner =
     .value = Ši svetainė nepateikia informacijos apie savininkus.
 media-select-folder = Parinkite aplanką, į kurį saugoti paveikslėlius

@@ -53,12 +53,12 @@ move-to-end =
 move-to-new-window =
     .label = Perkelti į naują langą
     .accesskey = l
-undo-close-tab =
-    .label = Atšaukti kortelės užvėrimą
-    .accesskey = š
 tab-context-close-multiple-tabs =
     .label = Užverti keletą kortelių
     .accesskey = k
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

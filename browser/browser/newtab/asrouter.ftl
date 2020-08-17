@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Pabandykite: kortelės įsegimas
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kodėl tai matau
+
 cfr-doorhanger-extension-cancel-button = Ne dabar
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Pridėti dabar
     .accesskey = P
 cfr-doorhanger-pintab-ok-button = Įsegti šią kortelę
     .accesskey = s
+
 cfr-doorhanger-extension-manage-settings-button = Tvarkyti rekomendacijų nuostatas
     .accesskey = T
+
 cfr-doorhanger-extension-never-show-recommendation = Nerodyti man šios rekomendacijos
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Sužinoti daugiau
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = sukūrė { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendacija
 cfr-doorhanger-extension-notification2 = Rekomendacija
     .tooltiptext = Priedo rekomendacija
     .a11y-announcement = Siūloma priedo rekomendacija
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendacija
@@ -61,6 +69,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } naudotojai
        *[other] { $total } naudotojų
     }
+
 cfr-doorhanger-pintab-description = Lengvai pasiekite dažniausiai naudojamas svetaines. Laikykite jas atvertas kortelėse (net kai iš naujo atidarote naršyklę).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +77,10 @@ cfr-doorhanger-pintab-description = Lengvai pasiekite dažniausiai naudojamas sv
 cfr-doorhanger-pintab-step1 = <b>Spustelėkite dešiniu pelės mygtuku</b> ant kortelės, kurią norite įsegti.
 cfr-doorhanger-pintab-step2 = Iš meniu pasirinkite <b>įsegti kortelę</b>.
 cfr-doorhanger-pintab-step3 = Jeigu svetainė atsinaujino, ant įsegtos kortelės matysite mėlyną tašką.
+
 cfr-doorhanger-pintab-animation-pause = Pristabdyti
 cfr-doorhanger-pintab-animation-resume = Tęsti
+
 
 ## Firefox Accounts Message
 
@@ -91,20 +102,26 @@ cfr-protections-panel-link-text = Sužinoti daugiau
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Naujovė:
+
 cfr-whatsnew-button =
     .label = Kas naujo
     .tooltiptext = Kas naujo
+
 cfr-whatsnew-panel-header = Kas naujo
+
 cfr-whatsnew-release-notes-link-text = Skaityti laidos apžvalgą
+
 cfr-whatsnew-fx70-title = „{ -brand-short-name }“ už jūsų privatumą dabar kovoja dar labiau
 cfr-whatsnew-fx70-body =
     Paskiausias naujinimas pagerina apsaugą nuo stebėjimo, ir leidžia dar lengviau
     sukurti saugius slaptažodžius visoms svetainėms.
+
 cfr-whatsnew-tracking-protect-title = Apsaugokite save nuo stebėjimo elementų
 cfr-whatsnew-tracking-protect-body =
     „{ -brand-short-name }“ blokuoja daugelį dažniausiai pasitaikančių socialinių ir tarp svetainių veikiančių
     stebėjimo elementų, sekančių jūsų veiklą internete.
 cfr-whatsnew-tracking-protect-link-text = Peržiūrėti jūsų ataskaitą
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -116,9 +133,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Nuo { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Peržiūrėti ataskaitą
+
 cfr-whatsnew-lockwise-backup-title = Pasidarykite savo slaptažodžių kopiją
 cfr-whatsnew-lockwise-backup-body = Dabar susikurkite saugius slaptažodžius, kuriuos galėsite pasiekti visur, kur prisijungiate.
 cfr-whatsnew-lockwise-backup-link-text = Įjungti atsargines kopijas
+
 cfr-whatsnew-lockwise-take-title = Turėkite savo slaptažodžius su savimi
 cfr-whatsnew-lockwise-take-body =
     Mobilioji „{ -lockwise-brand-short-name }“ programa leidžia saugiai
@@ -155,6 +174,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Užblokuota skaitmeninių atspaudų stebėjimo elementų
     }
 cfr-whatsnew-fingerprinter-counter-body = „{ -brand-shorter-name }“ blokuoja daugelį skaitmeninių atspaudų stebėjimo elementų, kurie nepastebimai renka informaciją apie jūsų įrenginį ir veiksmus, siekiant sukurti jūsų reklaminį profilį.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Skaitmeninių atspaudų stebėjimo elementai
 cfr-whatsnew-fingerprinter-counter-body-alt = „{ -brand-shorter-name }“ gali blokuoti skaitmeninių atspaudų stebėjimo elementus, kurie nepastebimai renka informaciją apie jūsų įrenginį ir veiksmus, siekiant sukurti jūsų reklaminį profilį.
@@ -216,6 +236,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Rodyti viską
     .accesskey = R
+
 cfr-doorhanger-milestone-close-button = Užverti
     .accesskey = v
 

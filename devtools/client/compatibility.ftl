@@ -39,6 +39,7 @@ compatibility-issue-occurrences =
         [few] { $number } pasikartojimai
        *[other] { $number } pasikartojimų
     }
+
 compatibility-no-issues-found = Nerasta suderinamumo problemų.
 compatibility-close-settings-button =
     .title = Užverti nuostatas

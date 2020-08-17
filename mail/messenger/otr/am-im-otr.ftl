@@ -23,4 +23,6 @@ otr-require-encryption-info =
     nebus rodomos kaip įprasto pokalbio dalis ir nebus fiksuojamos.
 otr-verifyNudge =
     .label = Visada priminkite man patvirtinti nepatikrintą kontaktą
+
 otr-notYetAvailable = kol kas nepasiekiamas
+

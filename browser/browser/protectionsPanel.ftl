@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Klaida pateikiant pranešimą. Prašome pabandyti vėliau.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Svetainė sutvarkyta? Praneškite
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Įprastinė
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Daugiau informacijos apie išplėstą apsaugą nuo stebėjimo
+
 protections-panel-etp-on-header = Išplėsta apsauga nuo stebėjimo šioje svetainėje įjungta
 protections-panel-etp-off-header = Išplėsta apsauga nuo stebėjimo šioje svetainėje išjungta
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Neveikia svetainė?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Neveikia svetainė?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Buvo įkelti visi šioje sv
 ##
 
 protections-panel-no-trackers-found = Tinklalapyje nerasta „{ -brand-short-name }“ žinomų stebėjimo elementų.
+
 protections-panel-content-blocking-tracking-protection = Stebėjimui naudojamas turinys
+
 protections-panel-content-blocking-socialblock = Socialinių tinklų stebėjimo elementai
 protections-panel-content-blocking-cryptominers-label = Kriptovaliutų kasėjai
 protections-panel-content-blocking-fingerprinters-label = Skaitmeninių atspaudų stebėjimas
@@ -57,7 +63,6 @@ protections-panel-not-found-label = Neaptikta jokių
 ##
 
 protections-panel-settings-label = Apsaugos nuostatos
-protections-panel-showreport-label = Rodyti ataskaitą
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Apsaugos skydelis
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = Apsaugos skydelis
 
 # The header of the list
 protections-panel-site-not-working-view-header = Išjunkite apsaugas, jeigu patiriate problemų su:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Prisijungimų laukais
 protections-panel-site-not-working-view-issue-list-forms = Formomis
 protections-panel-site-not-working-view-issue-list-payments = Mokėjimais
 protections-panel-site-not-working-view-issue-list-comments = Komentarais
 protections-panel-site-not-working-view-issue-list-videos = Vaizdo įrašais
+
 protections-panel-site-not-working-view-send-report = Siųsti pranešimą
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = Kriptovaliutų kasėjai naudoja jūsų kompiute
 protections-panel-fingerprinters = Skaitmeninių atspaudų stebėjimo metu surenkama informacija apie jūsų naršyklės ir kompiuterio parametrus, kad būtų sudarytas jūsų profilis. Jį turint, jus galima sekti tarp skirtingų svetainių.
 protections-panel-tracking-content = Svetainės gali įkelti išorines reklamas, vaizdo įrašus, ir kitą turinį su stebimo kodu. Tokio turinio blokavimas gali leisti gerčiau įkelti svetaines, tačiau kartu gali neveikti dalis mygtukų, formų, prisijungimo laukų.
 protections-panel-social-media-trackers = Socialiniai tinklai deda stebėjimo elementus kitose svetainėse, kad galėtų sekti ką veikiate, matote, žiūrite naršydami. Tai leidžia kompanijoms sužinoti apie jus žymiai daugiau, negu dalinatės savo socialinių tinklų profiliuose.
+
 protections-panel-content-blocking-manage-settings =
     .label = Tvarkyti apsaugos nuostatas
     .accesskey = T
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Pranešti apie neveikiančią svetainę
 protections-panel-content-blocking-breakage-report-view-description = Stebėjimo elementų blokavimas gali sutrikdyti kai kurių svetainių veikimą. Pranešdami apie problemas, padėsite tobulinti „{ -brand-short-name }“. Išsiuntus šį pranešimą, „Mozillai“ bus perduotas svetainės adresas bei informacija apie jūsų naršyklės nuostatas. <label data-l10n-name="learn-more">Sužinoti daugiau</label>
