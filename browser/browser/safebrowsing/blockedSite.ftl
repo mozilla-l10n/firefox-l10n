@@ -7,7 +7,7 @@ safeb-blocked-malware-page-title = Posjećivanje ove stranice može naštetiti t
 safeb-blocked-unwanted-page-title = Sljedeća stranica može sadržavati zlonamjerne programe
 safeb-blocked-harmful-page-title = Sljedeća stranica može sadržavati zlonamjerni softver
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi te mogla navesti da učiniš nešto opasno, poput instaliranja softvera ili otkrivanja osobnih podataka kao što lozinke ili brojevi kreditnih kartica.
-safeb-blocked-malware-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer može pokušati instalirati zlonamjeran softver koji bi mogao ukrasti ili obrisati osobne podatke na tvom računalu.
+safeb-blocked-malware-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer može pokušati instalirati zlonamjeran softver koji bi mogao ukrasti ili izbrisati osobne podatke na tvom računalu.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi te mogla navesti na instaliranje programa koji štete tvom načinu surfanja (npr. mijenja početnu stranicu ili da ti prikazuje oglase na stranicama koje posjećuješ).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } je blokirao ovu stranicu iz razloga što možda pokušava instalirati zlonamjerne aplikacije koje kradu ili brišu tvoje podatke (npr. slike, lozinke, poruke i kreditne kartice).
 safeb-palm-advisory-desc = Savjetovanje pruža <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.

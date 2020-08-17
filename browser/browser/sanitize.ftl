@@ -15,7 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Izbriši svu povijest
     .style = width: 34em
-clear-data-settings-label = Kada je zatvoren, { -brand-short-name } bi automatski trebao obrisati sve
+clear-data-settings-label = Kad se zatvori, { -brand-short-name } bi automatski trebao sve izbrisati
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -79,8 +79,8 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Obrisat će se sva povijest.
+sanitize-everything-warning = Izbrisat će se sva povijest.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Obrisat će se sve će odabrane stavke.
+sanitize-selected-warning = Izbrisat će se sve odabrane stavke.

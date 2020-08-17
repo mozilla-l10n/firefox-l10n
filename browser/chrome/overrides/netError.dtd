@@ -26,7 +26,7 @@
   <li>Ako je tvoj uređaj povezan, ali iza vatrozida, provjeri smije li &brandShortName; pristupiti internetu.</li>
 </ul>">
 
-<!ENTITY fileNotFound.longDesc "<ul> <li>Provjeri naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjeri, je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Provjeri naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjeri, je li datoteka premještena, preimenovana ili izbrisana.</li> </ul>">
 
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.</li> </ul>">
 

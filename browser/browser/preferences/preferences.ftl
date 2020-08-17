@@ -831,7 +831,7 @@ sitedata-learn-more = Saznaj više
 sitedata-delete-on-close =
     .label = Izbriši kolačiće i podatke stranica kad se { -brand-short-name } zatvori
     .accesskey = c
-sitedata-delete-on-close-private-browsing = U trajnom privatnom pregledavanju, kolačići i podaci o web stranicama će uvijek biti obrisani kad se zatvori { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = U trajnom privatnom pregledavanju, kolačići i podaci o web stranicama će uvijek biti izbrisani kad se zatvori { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Prihvati kolačiće i podatke web stranica
     .accesskey = a
@@ -1081,8 +1081,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. Spremljene podatke možeš obrisati u Mogućnosti > Privatnost i sigurnost > Kolačići i podaci stranica.
-       *[other] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. premljene podatke možeš obrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci stranica.
+        [windows] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. Spremljene podatke možeš izbrisati u Mogućnosti > Privatnost i sigurnost > Kolačići i podaci stranica.
+       *[other] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. premljene podatke možeš izbrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci stranica.
     }
 space-alert-under-5gb-ok-button =
     .label = U redu, razumijem

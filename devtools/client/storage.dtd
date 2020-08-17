@@ -8,7 +8,7 @@
 <!ENTITY searchBox.placeholder         "Filtriraj stavke">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
-<!ENTITY storage.popupMenu.deleteAllLabel "Obriši sve">
+<!ENTITY storage.popupMenu.deleteAllLabel "Izbriši sve">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
 <!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Izbriši sve kolačiće sesije">
