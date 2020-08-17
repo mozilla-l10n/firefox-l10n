@@ -44,7 +44,6 @@ media-long-desc =
 security-site-data-no = Neen
 
 image-size-unknown = Onbekannt
-not-set-verified-by = Net spezifizéiert
 page-info-not-specified =
     .value = Net spezifizéiert
 not-set-alternative-text = Net spezifizéiert

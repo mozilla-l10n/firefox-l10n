@@ -32,15 +32,6 @@
 <!ENTITY cmd.restore2.label             "Restauréieren">
 
 
-<!ENTITY cmd.open.label                  "Opmaachen">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "An enger neier Fënster opmaachen">
-<!ENTITY cmd.open_window.accesskey       "N">
-
-
-
-<!ENTITY cmd.new_bookmark.label            "Neit Lieszeechen…">
-
 
 <!ENTITY col.name.label          "Numm">
 <!ENTITY col.lastmodified.label  "Zulescht geännert">
@@ -50,7 +41,3 @@
 
 
 
-<!ENTITY byDate.label             "No Datum">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "No Site">
-<!ENTITY bySite.accesskey         "S">

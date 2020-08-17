@@ -17,20 +17,9 @@
 <!ENTITY dnsNotFound.pageTitle "Server net fonnt">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY fileNotFound.title "Fichier net fonnt">
-
-
-<!ENTITY generic.title "Upps.">
-
 
 
 <!ENTITY malformedURI.pageTitle "Net valabel URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Dës Adress schéngt net richteg ze sinn.">
-
-<!ENTITY netInterrupt.title "D'Verbindung gouf ënnerbrach">
-
-<!ENTITY notCached.title "Dokument ofgelaf">
 
 
 
@@ -63,7 +52,6 @@ was trying to connect. -->
      tags will be injected with actual values, please leave them unchanged. -->
 
 
-<!ENTITY inadequateSecurityError.title "Deng Verbindung ass net sécher">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

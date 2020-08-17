@@ -13,13 +13,18 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = Elo ausprobéieren
-
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Wëllkomm bei { -brand-short-name }
 
 onboarding-start-browsing-button-label = Lassurfen
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -38,14 +43,6 @@ onboarding-start-browsing-button-label = Lassurfen
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Privat surfen
-onboarding-private-browsing-text = Surf fir Dech. Private Surfen mat Inhaltënnerdréckung blockéiert online Tracker déi Dech um Web verfollegen.
-
-onboarding-screenshots-title = Schiermfotoen
-onboarding-screenshots-text = Huel, späicher, an deel Schiermfotoen - ouni de { -brand-short-name } ze verloossen. Hal eng Regioun oder eng ganz Säit fest, wärend dem Surfen. Späicher duerno online fir einfachen Accès a fir ze deelen.
-
-onboarding-addons-title = Add-ons
 
 
 ## Message strings belonging to the Return to AMO flow

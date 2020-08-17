@@ -23,7 +23,6 @@ locked-prefs-name = Numm
 locked-prefs-value = Wäert
 graphics-title = Grafiken
 place-database-integrity = Integritéit
-js-title = JavaScript
 a11y-activated = Aktivéiert
 sandbox-title = Sandkëscht
 sandbox-sys-call-age = Viru Sekonnen
@@ -62,10 +61,14 @@ no = Nee
 ## not found.
 
 found = Fonnt
+
 gpu-description = Beschreiwung
 gpu-active = Aktiv
+
 loaded-lib-versions = Benotzt Versioun
+
 sandbox-proc-type-content = Inhalt
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

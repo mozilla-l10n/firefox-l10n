@@ -14,6 +14,7 @@ pw-erased-ok = Du hues Däi Master-Passwuert geläscht. { pw-empty-warning }
 pw-not-wanted = Opgepasst! Du hues Dech dofir decidéiert kee Master-Passwuert ze benotzen. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Dir sidd elo am FIPS-Modus. FIPS verlaangt e Master-Passwuert dat net eidel ass.
+
 pw-change-success-title = Passwuert mat Erfolleg geännert
 pw-change-failed-title = Ännere vum Passwuert ass feelgeschloen
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Master-Passwuert änneren
+
 set-password-old-password = Aktuellt Passwuert:
 set-password-new-password = Neit Passwuert aginn:
 set-password-reenter-password = Neit Passwuert (nach eng Kéier):

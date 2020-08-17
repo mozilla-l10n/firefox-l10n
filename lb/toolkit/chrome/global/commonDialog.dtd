@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Kuerztitel"> 
-<!ENTITY message.label    "Beispilltext kënnt heihinner.">
-
 <!ENTITY editfield0.label "Benotzernumm:"> 
 <!ENTITY editfield1.label "Passwuert:"> 
-<!ENTITY checkbox.label   "nokucken"> 
 <!ENTITY copyCmd.label    "Kopéieren">
 <!ENTITY selectAllCmd.label "Alles markéieren">

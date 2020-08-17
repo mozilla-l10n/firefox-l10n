@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Minimiséieren">
-<!ENTITY bringAllToFront.label    "All no vir bréngen">
-<!ENTITY zoomWindow.label         "Zoom">
-<!ENTITY windowMenu.label         "Fënster">
-
-<!ENTITY helpMenu.label           "Hëllef"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Hëllef"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
 <!ENTITY aboutProduct2.label      "Iwwer &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "I">
-<!ENTITY productHelp2.label       "&brandShorterName; Hëllef">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Tastekombinatiounen">
-<!ENTITY helpKeyboardShortcuts.accesskey "T">
-
-<!ENTITY helpSafeMode.label       "Ouni Add-ons nei starten...">
-<!ENTITY helpSafeMode.accesskey   "A">
-<!ENTITY helpSafeMode.stop.label       "Mat Add-ons nei starten">
-<!ENTITY helpSafeMode.stop.accesskey   "O">
-
-<!ENTITY helpTroubleshootingInfo.label      "Informatiounen zur Feelerbehiewung">
-<!ENTITY helpTroubleshootingInfo.accesskey  "f">
-
-<!ENTITY helpFeedbackPage.label      "Feedback schécken…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Astellungen…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicer">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; verstoppen">
-<!ENTITY hideThisAppCmdMac2.commandkey  "V">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Anerer verstoppen">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "All weisen">
 

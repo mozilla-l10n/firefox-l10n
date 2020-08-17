@@ -24,43 +24,15 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 
-<!ENTITY cmd.enableAddon.label                "Aktivéieren">
-<!ENTITY cmd.disableAddon.label               "Desaktivéieren">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.uninstallAddon.label             "Ewechhuelen">
-<!ENTITY cmd.uninstallAddon.accesskey         "E">
-<!ENTITY cmd.showPreferencesUnix.label        "Astellungen">
-
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Ofbriechen">
-
-
-<!ENTITY addon.details.label                  "Méi">
-<!ENTITY addon.unknownDate                    "Onbekannt">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(desaktivéiert)">
-
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.install.label                  "Installéieren">
-<!ENTITY addon.updateNow.label                "Elo aktualiséieren">
-<!ENTITY addon.loadingReleaseNotes.label      "Lueden…">
-
-<!ENTITY addon.createdBy.label                "Vu(n) ">
 
 
 

@@ -5,8 +5,6 @@
 
 <!ENTITY migrationWizard.title          "Import Assistent">
 
-<!ENTITY importFromBookmarks.label      "Lieszeechen importéiere vun:">
-
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromNothing.label        "Näischt importéieren">

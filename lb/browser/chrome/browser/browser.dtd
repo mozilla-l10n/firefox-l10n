@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Modus)">
-
 <!ENTITY appmenu.tooltip                     "Menü opmaachen">
 <!ENTITY navbarOverflow.label                "Méi Handwierksgeschir…">
 
@@ -26,96 +16,24 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Tab uspéngelen">
-<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Tab ewechspéngelen">
-<!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendPageToDevice.label             "Säit op en Apparat schécken">
-<!ENTITY  sendPageToDevice.accesskey         "n">
-<!ENTITY  sendLinkToDevice.label             "Link op en Apparat schécken">
-<!ENTITY  sendLinkToDevice.accesskey         "n">
-<!ENTITY  undoCloseTab.label                 "Tab zoumaachen réckgängeg maachen">
-<!ENTITY  undoCloseTab.accesskey             "U">
-
-<!ENTITY  hiddenTabs.label                   "Verstoppt Tabs">
 
 <!ENTITY  listAllTabs.label      "All Tabs oplëschten">
 
 <!ENTITY tabCmd.label "Neien Tab">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Adress opmaachen…">
 <!ENTITY openFileCmd.label "Fichier Opmaachen…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Säitenastellungen…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Dréckvirschau">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Drécken…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
-
-<!ENTITY goOfflineCmd.label "Offline schaffen">
-<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Menüleescht">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Navigatiounssymbolleescht">
 <!ENTITY personalbarCmd.label "Lieszeechensymbolleescht">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Lieszeechensymbolleeschtelementer">
 
-<!ENTITY pageSourceCmd.label "Quellcode vun der Säit">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Säiteninformatiounen">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Layout Debugger">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Tab spigelen">
-<!ENTITY mirrorTabCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Vollbildmodus">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Vollbild zoumaachen">
-<!ENTITY exitFullScreenCmd.accesskey "F">
-
 <!ENTITY fullScreenCmd.label "Vollbild">
-<!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "All Tabs weisen">
-<!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY toggleReaderMode.key "R">
-
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
-
-<!ENTITY fxaSignIn.label "Bei &syncBrand.shortName.label; umellen">
-<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; Astellungen opmaachen">
-<!ENTITY fxaSignInError.label "Mam &syncBrand.shortName.label; nei verbannen">
-<!ENTITY fxaUnverified.label "Kuckt Äre Benotzerkont no">
 
 
-<!ENTITY fullScreenMinimize.tooltip "Minimiséieren">
-<!ENTITY fullScreenRestore.tooltip "Restauréieren">
-<!ENTITY fullScreenClose.tooltip "Zoumaachen">
-<!ENTITY fullScreenAutohide.label "Symbolleescht ausblennen">
-<!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "Aus dem Vollbildmodus erausgoen">
-<!ENTITY fullScreenExit.accesskey "F">
-
- <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -129,8 +47,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Vollbild zoumaachen (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Vollbild zoumaachen (esc)">
-<!ENTITY leaveDOMFullScreen.label "Vollbild zoumaachen">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -141,64 +57,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "kontrolléiert de Maus. Esc drécken fir d'Kontroll z'iwwerhuelen.">
 <!ENTITY pointerlockWarning.generic.label "Dëst Dokument huet d'Kontroll iwwert d'Maus. Dréck Esc fir d'Kontroll z'iwwerhuelen.">
 
-<!ENTITY closeWindow.label "Fënster zoumaachen">
-<!ENTITY closeWindow.accesskey "d">
-
-<!ENTITY bookmarksMenu.label "Lieszeechen">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "E Lieszeechen fir des Säit dobäisetzen">
-<!ENTITY editThisBookmarkCmd.label "Dëst Lieszeechen änneren">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Lieszeechen fir all Tabs dobäisetzen…">
-
 <!ENTITY showAllBookmarks2.label "All Lieszeeche weisen">
 <!ENTITY recentBookmarks.label "Rezent Lieszeechen">
-<!ENTITY otherBookmarksCmd.label "Aner Lieszeechen">
-<!ENTITY mobileBookmarksCmd.label "Mobil Lieszeechen">
 <!ENTITY bookmarksToolbarChevron.tooltip "Méi Lieszeeche weisen">
-
-<!ENTITY backCmd.label                "Zréck">
-<!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "Eng Säit zréckgoen">
-<!ENTITY forwardCmd.label             "Virun">
-<!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "Eng Säit no vir goen">
-<!ENTITY backForwardButtonMenu.tooltip "Riets-klick oder erofzéien fir den Historique ze weisen">
-<!ENTITY backForwardButtonMenuMac.tooltip "Erofzéien fir den Historique ze weisen">
-<!ENTITY reloadCmd.label              "Nei lueden">
-<!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY stopCmd.label                "Stopp">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "D'Adress aus der Leescht lueden">
 
 <!ENTITY printButton.label            "Drécken">
 <!ENTITY printButton.tooltip          "Dës Säit drécken">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Informatioune vum Site uweisen">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Messagepanneau opmaachen">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Panneau vun de Standuert Ufroen opmaachen">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Add-on Installatioun Messagepanneau opmaachen">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Erlaabnis zur Offro vu Canvas-Donnéeën verwalten">
-
-
-
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dës Säit iwwersetzen">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Säitiwwersetzung geréieren">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Benotzen vun DRM Software verwalten">
-
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI Panneau opmaachen">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Du hues Deng Kamera fir dësen Internetsite gespaart.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Du hues Däi Mikro fir dësen Internetsite gespaart.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Du hues den Zougrëff op d'Informatioun vun Denger Positioun fir dësen Internetsite gespaart.">
-
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Historique uweisen">
 
 
 <!ENTITY searchItem.title             "Sich">
@@ -207,7 +72,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Heem">
 
 <!ENTITY bookmarksButton.label          "Lieszeechen">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Lieszeechen">
 <!ENTITY bookmarksMenuButton2.label         "Lieszeeche Menü">
@@ -215,93 +79,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobil Lieszeechen">
 <!ENTITY searchBookmarks.label              "An de Lieszeeche sichen">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Historique">
-<!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Extras">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY keywordfield.accesskey       "K">
-
-<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
-  -  downloads.label, but used in the Library panel. -->
-<!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-ons">
-<!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY inspectContextMenu.label     "Element inspizéieren">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-
-<!ENTITY fileMenu.label         "Fichier">
-<!ENTITY fileMenu.accesskey       "F">
-
-<!ENTITY newUserContext.accesskey         "B">
 
 <!ENTITY newNavigatorCmd.label        "Nei Fënster">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nei privat Fënster">
-<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Änneren">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "Réckgängeg maachen">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "Ausschneiden">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "t">
-<!ENTITY copyCmd.label            "Kopéieren">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "Pechen">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "Läschen">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label         "Alles auswielen">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "Optiounen">
-<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Astellungen">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
-
-<!ENTITY clearRecentHistory.label               "Rezenten Historique läschen…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Usiicht">
-<!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.accesskey "e">
-
-<!ENTITY viewCustomizeToolbar.label       "Upassen…">
-<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
-<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Rezent zougemaach Tabs">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Rezent zougemaach Fënsteren">
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.restoreSession.label "Vireg Sessioun restauréieren">
 <!ENTITY appMenuHelp.label "Hëllef">
@@ -322,7 +116,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronisatiounsastellungen opmaachen">
 <!ENTITY appMenuRemoteTabs.unverified.label "Äre Benotzerkont muss iwwerpréift ginn.">
-<!ENTITY appMenuRemoteTabs.signin.label "Alogge fir ze synchroniséieren">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparate geréieren…">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Aneren Apparat verbannen">
 
@@ -334,7 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Méi Elementer dobäisetzen…">
@@ -345,42 +137,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 <!ENTITY moreMenu.label "Méi">
 
-<!ENTITY urlbar.placeholder2          "Sichen oder Adress aginn">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Erweiderung:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tipp:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Optiounen änneren…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Astellungen änneren…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -390,144 +146,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Sichen">
 <!ENTITY searchIcon.tooltip           "Sichen">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "No ">
-<!ENTITY searchWith.label             " mat:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Mat ">
-<!ENTITY searchAfter.label            " sichen">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Sichen mat:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Sichastellungen änneren">
-<!ENTITY changeSearchSettings.tooltip "Sichastellungen änneren">
-
-<!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "Als Standard-Sichmaschinn festleeën">
-<!ENTITY searchSetAsDefault.accesskey "D">
-
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Link an enger neier Fënster opmaachen">
-<!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Link an enger neier privater Fënster opmaachen">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
-<!ENTITY openLinkCmdInCurrent.label     "Link opmaachen">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.accesskey     "R">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Quellcode vun der Säit weisen">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Informatioune vun der Säit weisen">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "Bild nei lueden">
-<!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Bild weisen">
-<!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Informatioune vum Bild weisen">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Beschreiwung weisen">
-<!ENTITY viewVideoCmd.label           "Video weisen">
-<!ENTITY viewBGImageCmd.label         "Hannergrondbild weisen">
-<!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "Als Hannergrondbild astellen…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "E Lieszeechen fir des Säit dobäisetzen">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "E Lieszeechen fir des Säit dobäisetzen">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "E Lieszeechen fir des Säit dobäisetzen">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY pageAction.copyLink.label    "Link kopéieren">
 
 <!ENTITY emailPageCmd.label           "Link mailen…">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "Säit späicheren ënner…">
-<!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY saveLinkCmd.label            "Link späicheren ënner…">
-<!ENTITY saveImageCmd.label           "Bild späicheren ënner…">
-<!ENTITY saveVideoCmd.label           "Video späicheren ënner…">
-<!ENTITY saveAudioCmd.label           "Audio späicheren ënner…">
-<!ENTITY emailImageCmd.label          "Bild mailen…">
-<!ENTITY emailVideoCmd.label          "Video mailen…">
-<!ENTITY playPluginCmd.label          "Dëse Plugin aktivéieren">
-<!ENTITY hidePluginCmd.label          "Dëse Plugin verstoppen">
-<!ENTITY copyLinkCmd.label            "Linkadress kopéieren">
-<!ENTITY copyImageCmd.label           "Adress vum Bild kopéieren">
-<!ENTITY copyImageContentsCmd.label   "Bild kopéieren">
-<!ENTITY copyVideoURLCmd.label        "Adress vum Video kopéieren">
-<!ENTITY copyAudioURLCmd.label        "Adress vum Audio kopéieren">
-<!ENTITY copyEmailCmd.label           "E-Mail-Adress kopéieren">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Spillen">
-<!ENTITY mediaPause.label            "Paus">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Toun aus">
-<!ENTITY mediaUnmute.label           "Toun un">
-<!ENTITY mediaPlaybackRate2.label     "Ofspillvitesse">
-<!ENTITY mediaPlaybackRate050x2.label "Lues (×0.5)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "Normal">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Séier (×1.25)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
-<!ENTITY mediaPlaybackRate150x2.label "Méi séier (×1.5)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Ganz séier (×2)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Endlosschläif">
-<!ENTITY mediaLoop.accesskey         "L">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Vollbild">
-<!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Statistike weisen">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Statistike verstoppen">
-<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -535,12 +160,7 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Erazoomen">
- <!-- + is above this key on many keyboards -->
-
-<!ENTITY fullZoomReduceCmd.label        "Erauszoomen">
-
-<!ENTITY fullZoomResetCmd.label         "Zrécksetzen">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -549,10 +169,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; zoumaachen">
 <!ENTITY quitApplicationCmd.label       "Verloossen">
 
-<!ENTITY closeCmd.label                 "Zoumaachen">
-
-
-<!ENTITY pageStyleNoStyle.label "Kee Stil">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -560,30 +176,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY findOnCmd.label     "Op dëser Säit sichen…">
-<!ENTITY findAgainCmd.label  "Weidersichen">
 
-
-<!ENTITY editBookmark.done.label                     "Fäerdeg">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 
-<!ENTITY identity.connectionSecure "Sécher Verbindung">
-<!ENTITY identity.connectionNotSecure "Verbindung ass net sécher">
-<!ENTITY identity.connectionFile "Dës Säit ass op Dengem Computer gespäichert.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.weakEncryption "Dës Säit benotzt eng schwaach Verschlësselung.">
-
 <!-- Strings for connection state warnings in the subview. -->
-
-<!ENTITY identity.learnMore "Fir méi ze wëssen">
-
-<!ENTITY identity.removeCertException.label "Ausnam läschen">
-
-<!ENTITY identity.moreInfoLinkText2 "Méi Informatiounen">
-
-<!ENTITY identity.permissions "Erlaabnesser">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -595,10 +193,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-<!ENTITY syncSyncNowItem.label        "Elo synchroniséieren">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Synchroniséieren">
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
@@ -613,8 +207,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-<!ENTITY pluginNotification.showAll.label "All weisen">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -632,9 +224,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.thankyou.msg2                "Sécher surfen!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Merci!">
-
-
-<!ENTITY newTabControlled.keepButton.label "Ännerunge bäibehalen">
 
 
 

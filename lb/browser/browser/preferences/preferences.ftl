@@ -7,13 +7,6 @@ do-not-track-learn-more = Fir méi ze wëssen
 do-not-track-option-always =
     .label = Ëmmer
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Astellungen
-           *[other] Astellungen
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Astellungen
@@ -386,8 +379,6 @@ search-remove-engine =
 
 ## Containers Section
 
-containers-back-link = « Zréck goen
-
 containers-remove-button =
     .label = Läschen
 
@@ -510,6 +501,8 @@ security-enable-safe-browsing-link = Fir méi ze wëssen
 certs-select-ask-option =
     .label = Ëmmer froen
     .accesskey = A
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
