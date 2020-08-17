@@ -51,8 +51,6 @@
 
 <!ENTITY pasteNoFormatting.label "Namatsisela ngaphandle kwekufometha">
 <!ENTITY pasteNoFormatting.accesskey "n">
-<!ENTITY pasteAs.label "Namatsisela njenge">
-<!ENTITY pasteAs.accesskey "n">
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
@@ -151,8 +149,6 @@
 <!ENTITY ParagraphSelect.tooltip "Khetsa ifomethi yepharagrafu">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Umtimba wembhalo">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Timphahla letichubekile">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -168,10 +164,6 @@
 <!ENTITY alignJustify.label "Jastifaya">
 <!ENTITY alignJustify.tooltip "Linganisa kujastifaya">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Ileya">
-<!ENTITY layerSendToBack.tooltip "Tfumela emuva">
-<!ENTITY layerBringToFront.tooltip "Yisa embili">
 
 <!ENTITY increaseIndent.label "Yandzisa I-indenti">
 <!ENTITY decreaseIndent.label "Nciphisa I-indenti">
@@ -227,15 +219,6 @@
 
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Imenyu-bha">
-<!ENTITY formatToolbar.tooltip "Kumiswa kwethulu-bha">
-<!ENTITY printToolbarCmd.label "Printa">
-<!ENTITY printToolbarCmd.tooltip "Printa lelipheji">
-<!ENTITY findToolbarCmd.label "Tfola">
-<!ENTITY findToolbarCmd.tooltip "Tfola umbhalo ephejini">
-<!ENTITY spellToolbarCmd.label "Pela">
-<!ENTITY spellToolbarCmd.tooltip "Hlola sipelingi salokuphawuliwe nome salo lonkhe lelipheji">
-
 <!ENTITY imageToolbarCmd.label "Sitfombe">
 <!ENTITY imageToolbarCmd.tooltip "Fala sitfombe lesisha nome uhlele timphahla tesitfombe lesikhetsiwe">
 <!ENTITY hruleToolbarCmd.label "H. Lilayini">
@@ -248,7 +231,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Faka sisimiso lesinelibito lesisha nome uhlele timphahla tesisimiso lesikhetsiwe">
 <!ENTITY TextColorButton.tooltip "Khetsa umbala wembhalo">
 <!ENTITY BackgroundColorButton.tooltip "Khetsa umbala welingemuva">
-<!ENTITY HighlightColorButton.tooltip "Khetsa umbala logqamile wembhalo">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Isayizi lencane yefonti">
@@ -280,12 +262,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Khetsa">
-<!ENTITY structSelect.accesskey "k">
-<!ENTITY structRemoveTag.label "Susa ithegi">
-<!ENTITY structRemoveTag.accesskey "s">
-<!ENTITY structChangeTag.label "Gucula ithegi">
-<!ENTITY structChangeTag.accesskey "g">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "Faka">

@@ -18,6 +18,9 @@ change-password-reenter = Libitophawu lelisha (futsi):
 reset-password-window =
     .title = Hlela libitophawu lelikhulu kabusha
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Hlela kabusha
 reset-password-text = Nawuphindza usetha libitophawu lakho lelikhulu, onkhe emawebhu akho lalondvolotiwe nemabitophawu e-imeyili, emafomu edatha, titifiketi takho ngco, netikhiya tangasense titawukhohlakala. Ucinisekile kutsi ufuna kusetha kabusha libitophawu lakho lelikhulu?

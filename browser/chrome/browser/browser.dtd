@@ -7,11 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 
@@ -51,21 +46,12 @@ can reach it easily. -->
 
 
 <!ENTITY tabCmd.label "Emathebhu Lamasha">
-<!ENTITY tabCmd.accesskey "E">
-<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Vula Lifayela…">
-<!ENTITY openFileCmd.accesskey "V">
 
-<!ENTITY printSetupCmd.label "Kuhlelwa Kwelipheji…">
-<!ENTITY printSetupCmd.accesskey "K">
-<!ENTITY printPreviewCmd.label "Kulunguta iprinti">
-<!ENTITY printPreviewCmd.accesskey "i">
 <!ENTITY printCmd.label "Printa…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
 
 
 
@@ -81,15 +67,6 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY pageSourceCmd.label "Imvelaphi Yelipheji">
-<!ENTITY pageSourceCmd.accesskey "m">
-<!ENTITY pageSourceCmd.commandkey "u">
-
-<!ENTITY pageInfoCmd.label "Lwatipheji">
-<!ENTITY pageInfoCmd.accesskey "L">
-<!ENTITY pageInfoCmd.commandkey "i">
-
-
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 
@@ -102,13 +79,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
-
-
-<!ENTITY fullScreenMinimize.tooltip "Nciphisa">
-<!ENTITY fullScreenRestore.tooltip "Buyisela">
 
 
 
@@ -141,8 +111,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY bookmarksMenu.label "Tibekiso">
-<!ENTITY bookmarksMenu.accesskey "T">
 
 
 
@@ -154,20 +122,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
-
-
-
-<!ENTITY backButton.tooltip           "Buyela emuva lipheji linye">
-
-<!ENTITY forwardButton.tooltip        "Yani embili lipheji linye">
-
-
-
-
-<!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY printButton.label            "Printa">
 <!ENTITY printButton.tooltip          "Printa lelipheji">
@@ -221,17 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 
 
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Emathulusi">
-<!ENTITY toolsMenu.accesskey          "E">
-
-<!ENTITY keywordfield.label           "Yengeta a ligamasikhiya kuloluphenyo…">
-<!ENTITY keywordfield.accesskey       "l">
-
 <!ENTITY downloads.label              "Layishela">
-<!ENTITY downloads.accesskey          "L">
-<!ENTITY downloads.commandkey         "j">
 
 
 
@@ -239,58 +183,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-<!ENTITY fileMenu.label         "Lifayela">
-<!ENTITY fileMenu.accesskey       "L">
 
 
 <!ENTITY newNavigatorCmd.label        "Liwindo Lelisha">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "L">
 
 
 
 
 <!ENTITY editMenu.label         "Editha">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "Cisha">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "C">
-<!ENTITY redoCmd.label            "Phindza wente">
 
-<!ENTITY redoCmd.accesskey          "P">
-<!ENTITY cutCmd.label           "Juba">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "J">
-
-
-
-<!ENTITY pasteCmd.label           "Namatsisela">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "N">
-<!ENTITY deleteCmd.label          "Susa">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY selectAllCmd.label         "Kuphawule Konkhe">
-
-<!ENTITY selectAllCmd.accesskey       "K">
 
 
 <!ENTITY preferencesCmdUnix.label       "Lokuncono">
-<!ENTITY preferencesCmdUnix.accesskey     "c">
-
-
-
-<!ENTITY viewMenu.label         "Buka">
-<!ENTITY viewMenu.accesskey       "B">
-<!ENTITY viewToolbarsMenu.label       "Emathulu-bha">
-<!ENTITY viewToolbarsMenu.accesskey     "E">
-<!ENTITY viewSidebarMenu.label "Bhaceleni">
-<!ENTITY viewSidebarMenu.accesskey "B">
-
-<!ENTITY viewCustomizeToolbar.label       "Yetateta…">
-<!ENTITY viewCustomizeToolbar.accesskey     "Y">
 
 
 
@@ -365,7 +269,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 
-<!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 
 
@@ -402,9 +305,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -416,13 +316,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -436,52 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY openLinkCmdInTab.label       "Vula kuhlangana Kuthebhu Lensha">
-
 <!ENTITY openLinkCmdInTab.accesskey   "K">
-<!ENTITY openLinkCmd.label            "Vula kuhlangana Kuwindo Lensha">
-<!ENTITY openLinkCmd.accesskey        "K">
-
-
-
-
-<!ENTITY openFrameCmdInTab.label      "Vula ifulemu Kuthebhu Lensha">
-<!ENTITY openFrameCmdInTab.accesskey  "L">
-<!ENTITY openFrameCmd.label           "Vula Ifulemu Kuwindo Lensha">
-<!ENTITY openFrameCmd.accesskey       "L">
-
-
-
-
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Layishela Ifulemu">
-<!ENTITY reloadFrameCmd.accesskey     "L">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Buka imvelaphi Yekukhetfwa/phawulwa">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Buka imvelaphi Yelipheji">
-<!ENTITY viewPageSourceCmd.accesskey  "B">
-<!ENTITY viewFrameSourceCmd.label     "Lunguta imvelaphi Yefulemu">
-<!ENTITY viewFrameSourceCmd.accesskey "n">
-<!ENTITY viewPageInfoCmd.label        "Buka Lwati Lwelipheji">
-<!ENTITY viewPageInfoCmd.accesskey    "L">
-<!ENTITY viewFrameInfoCmd.label       "Buka Lwati Lwefulemui">
-<!ENTITY viewFrameInfoCmd.accesskey   "L">
-
-
-<!ENTITY viewImageCmd.label           "Buka Sitfombe">
-<!ENTITY viewImageCmd.accesskey       "S">
-
-
-
-
-
-
-<!ENTITY viewBGImageCmd.label         "Buka Umsuka Wesitfombe">
-<!ENTITY viewBGImageCmd.accesskey     "U">
-<!ENTITY setDesktopBackgroundCmd.label      "Misa njengebuso Bengcondvomshina…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "M">
 
 
 
@@ -490,18 +338,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY savePageCmd.label            "Seva lelipheji njenge…">
-<!ENTITY savePageCmd.accesskey        "n">
 <!-- alternate for content area context menu -->
 
-<!ENTITY saveFrameCmd.label           "Seva Ifulemu njenge…">
-<!ENTITY saveFrameCmd.accesskey       "I">
-
-
-<!ENTITY saveLinkCmd.label            "Seva Loluchumano…">
-<!ENTITY saveLinkCmd.accesskey        "L">
-<!ENTITY saveImageCmd.label           "Seva Lesitfombe njenge…">
-<!ENTITY saveImageCmd.accesskey       "a">
 
 
 
@@ -518,20 +356,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-<!ENTITY copyImageCmd.label           "Kopa Lendzawo Yesitfombe">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Kopa Sitfombe">
-<!ENTITY copyImageContentsCmd.accesskey  "S">
-
-
-
-
-<!ENTITY copyEmailCmd.label           "Kopa Likheli Le-imeyili">
-<!ENTITY copyEmailCmd.accesskey       "e">
-<!ENTITY thisFrameMenu.label              "Lefulemu">
-<!ENTITY thisFrameMenu.accesskey          "L">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -585,18 +409,6 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-
-
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-
-
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-
 
 
 
@@ -606,24 +418,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
 
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Shiya">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 
-
-
-<!ENTITY closeCmd.label                 "Vala">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "V">
-
-
-<!ENTITY pageStyleMenu.label "Sitayela Selipheji">
-<!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "Kute sitayela">
-<!ENTITY pageStyleNoStyle.accesskey "K">
-<!ENTITY pageStylePersistentOnly.label "Umsuka Wesitayela Selipheji">
-<!ENTITY pageStylePersistentOnly.accesskey "U">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -635,17 +432,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 
-<!ENTITY bidiSwitchTextDirectionItem.label        "Jikisa indlela yembhalo">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "i">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Tfola Kulelipheji…">
-<!ENTITY findOnCmd.accesskey "T">
-
-<!ENTITY findAgainCmd.label  "Phindza utfole">
-<!ENTITY findAgainCmd.accesskey "u">
-
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
 

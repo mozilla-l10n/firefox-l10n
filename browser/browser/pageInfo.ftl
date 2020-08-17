@@ -29,8 +29,6 @@ media-count =
     .label = Bala
 media-long-desc =
     .value = Inchazelo lendze:
-media-preview =
-    .value = Cala ubuke ngembi kwetekuchumana:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -39,7 +37,6 @@ media-preview =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Akwatiwa
-not-set-verified-by = Akukachazwa
 page-info-not-specified =
     .value = Akukachazwa
 not-set-alternative-text = Akukachazwa
