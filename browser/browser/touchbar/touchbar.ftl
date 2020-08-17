@@ -12,7 +12,6 @@ fullscreen = Täisekraanirežiim
 find = Otsi
 new-tab = Uus kaart
 add-bookmark = Lisa järjehoidjatesse
-open-bookmarks-sidebar = Ava järjehoidjate külgriba
 reader-view = Lugemisvaade
 # Meant to match the string displayed in an empty URL bar.
 open-location = Otsi või sisesta aadress

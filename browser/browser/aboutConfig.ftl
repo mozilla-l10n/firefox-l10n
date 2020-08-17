@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Siin võib olla lohesid!
-about-config-warning-text = Nende edasijõudnud kasutajatele mõeldud sätete muutmine võib mõjuda kahjulikult rakenduse stabiilsusele, turvalisusele ja võimekusele. Sa peaksid jätkama ainult siis, kui tead, mida teed.
-about-config-warning-checkbox = Riskidest teavitatakse ka edaspidi
-about-config-warning-button = Ma võtan selle riski
-
-about-config2-title = Täpsem häälestamine
-
-about-config-search-input =
-    .placeholder = Otsi
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Jätka ettevaatlikult
@@ -32,13 +21,6 @@ about-config-page-title = Täpsem häälestamine
 about-config-search-input1 =
     .placeholder = Otsi parameetri nime
 about-config-show-all = Kuva kõiki
-
-about-config-pref-add = Lisa
-about-config-pref-toggle = Lülita ümber
-about-config-pref-edit = Muuda
-about-config-pref-save = Salvesta
-about-config-pref-reset = Lähtesta
-about-config-pref-delete = Kustuta
 
 about-config-pref-add-button =
     .title = Lisa

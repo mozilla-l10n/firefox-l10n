@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sünkroniseeritud kaardid
 synced-tabs-sidebar-noclients-subtitle = Soovid siin näha teistes seadmetes avatud kaarte?
-synced-tabs-sidebar-notsignedin = Teistes seadmetes avatud kaartide nimekirja nägemiseks logi sisse.
 synced-tabs-sidebar-intro = Vaata teistes seadmetes avatud kaartide nimekirja.
 synced-tabs-sidebar-unverified = Sinu konto vajab kinnitamist.
 synced-tabs-sidebar-notabs = Avatud kaarte pole

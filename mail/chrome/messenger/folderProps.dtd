@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                       "Kausta tüüp:">
 
 <!ENTITY folderQuotaTab.label                   "Kvoot">
-<!ENTITY folderQuotaRoot.label                  "Kvoodi juurkaust:">
 <!ENTITY folderQuotaUsage.label                 "Kasutamine:">
 <!ENTITY folderQuotaStatus.label                "Olek:">
 

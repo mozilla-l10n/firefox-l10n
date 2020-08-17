@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Laadimine…
-
 list-empty-installed =
     .value = Ühtegi seda tüüpi lisa pole paigaldatud
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Rohkem teavet lisade kohta
 
-install-addon-from-file =
-    .label = Paigalda lisa failist…
-    .accesskey = P
-
 help-button = Lisade kasutajatugi
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name }i sätted
        *[other] { -brand-short-name }i eelistused
     }
-
-tools-menu =
-    .tooltiptext = Tööriistad kõigile lisadele
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Kuva kõiki laiendusi
-
-debug-addons =
-    .label = Debugi lisasid
-    .accesskey = D
 
 cmd-show-details =
     .label = Kuva rohkem teavet
@@ -104,17 +90,6 @@ cmd-contribute =
     .accesskey = i
     .tooltiptext = Panusta selle lisa arendusse
 
-discover-title = Mis on lisad?
-
-discover-description =
-    Lisad on rakendused, mis lubavad { -brand-short-name }i lisafunktsionaalsuse või stiilidega
-    personaliseerida. Proovi aegasäästvat külgriba, ilmateadustajat või temaatilist välimust, et muuta { -brand-short-name }
-    enda omaks.
-
-discover-footer =
-    Internetiühenduse olemasolul kuvatakse sellel paneelil järgi proovimiseks valik parimaid ja
-    populaarsemaid lisasid.
-
 detail-version =
     .label = Versioon
 
@@ -145,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Privaatsetes akendes käivitamine
 
-detail-private-browsing-description2 = Lubamise korral saab see laiendus ligi sinu tegevustele privaatsetes akendes. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Privaatsetes akendes keelatud
-detail-private-disallowed-description = See laiendus on privaatse veebilehitsemise ajal keelatud. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
 
 detail-private-disallowed-description2 = See laiendus on privaatse veebilehitsemise ajal keelatud. <a data-l10n-name="learn-more">Rohkem teavet</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Nõuab ligipääsu privaatsetele akendele
-detail-private-required-description = Sel laiendusel on ligipääs sinu tegevusele privaatsetes akendes. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
 
 detail-private-required-description2 = Sel laiendusel on privaatse lehitsemise režiimis ligipääs sinu tegevusele. <a data-l10n-name="learn-more">Rohkem teavet</a>
 
@@ -228,18 +199,6 @@ legacy-extensions-description = Need laiendused ei vasta tänapäevastele { -bra
 
 private-browsing-description2 = { -brand-short-name } on muutmas seda, kuidas laiendused töötavad privaatse veebilehitsemise režiimis. Uued { -brand-short-name }ile paigaldatud laiendused privaatsetes akendes vaikimisi enam ei tööta. Kui sa sätetes ei luba laienduse töötamist privaatsetes akendes, siis ei ole sel ligipääsu sinu tegevusele neis akendes. Me tegime selle muudatuse, et hoida sinu privaatne veebilehitsemine täielikult privaatsena. <label data-l10n-name="private-browsing-learn-more">Rohkem teavet laienduste sätete haldamise kohta</label>
 
-extensions-view-discopane =
-    .name = Soovitused
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Hiljutised uuendused
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Saadaolevad uuendused
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Soovitused
 addon-category-discover-title =
     .title = Soovitused
@@ -267,29 +226,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Kõik lisad on ohutu režiimi poolt keelatud.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Luba
-    .tooltiptext = Luba lisade ühilduvuse kontrollimine
-
-extensions-warning-update-security-label =
-    .value = Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Luba
-    .tooltiptext = Luba lisade uuendamise turvalisuse kontrollimine
-
 extensions-warning-safe-mode = Kõik lisad on ohutu režiimi poolt keelatud.
 extensions-warning-check-compatibility = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
 extensions-warning-check-compatibility-button = Luba
@@ -301,14 +237,6 @@ extensions-warning-update-security-button = Luba
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Kontrolli uuendusi
-    .accesskey = o
-
-extensions-updates-view-updates =
-    .label = Vaata hiljutisi uuendusi
-    .accesskey = V
-
 addon-updates-check-for-updates = Kontrolli uuendusi
     .accesskey = o
 addon-updates-view-updates = Vaata hiljutisi uuendusi
@@ -316,10 +244,6 @@ addon-updates-view-updates = Vaata hiljutisi uuendusi
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Lisasid uuendatakse automaatselt
-    .accesskey = L
 
 addon-updates-update-addons-automatically = Lisasid uuendatakse automaatselt
     .accesskey = L
@@ -330,36 +254,12 @@ addon-updates-update-addons-automatically = Lisasid uuendatakse automaatselt
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Määra kõik lisad uuendama automaatselt
-    .accesskey = M
-
-extensions-updates-reset-updates-to-manual =
-    .label = Määra kõik lisad käsitsi uuendamisele
-    .accesskey = M
-
 addon-updates-reset-updates-to-automatic = Määra kõik lisad uuendama automaatselt
     .accesskey = M
 addon-updates-reset-updates-to-manual = Määra kõik lisad käsitsi uuendamisele
     .accesskey = M
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Lisade uuendamine
-extensions-updates-installed =
-    .value = Lisad on uuendatud.
-extensions-updates-downloaded =
-    .value = Lisade uuendused on alla laaditud.
-extensions-updates-restart =
-    .label = Paigalduse lõpetamiseks taaskäivita kohe
-extensions-updates-none-found =
-    .value = Uuendusi ei leitud
-extensions-updates-manual-updates-found =
-    .label = Vaata saadaolevaid uuendusi
-extensions-updates-update-selected =
-    .label = Paigalda uuendused
-    .tooltiptext = Paigalda saadaolevad uuendused sellest nimekirjast
 
 addon-updates-updating = Lisade uuendamine
 addon-updates-installed = Lisad on uuendatud.
@@ -377,10 +277,6 @@ addon-open-about-debugging = Debugi lisasid
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Halda laienduste kiirklahve
-    .accesskey = H
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Halda laienduste kiirklahve
     .accesskey = H
@@ -389,8 +285,6 @@ shortcuts-no-addons = Ühtki laiendust pole lubatud.
 shortcuts-no-commands = Järgmistel laiendustel puuduvad kiirklahvid:
 shortcuts-input =
     .placeholder = Sisesta kiirklahvide kombinatsioon
-
-shortcuts-browserAction = Aktiveeri laiendus
 
 shortcuts-pageAction = Aktiveeri lehe toiming
 shortcuts-sidebarAction = Kuva/peida külgriba
@@ -421,9 +315,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Näita vähem
-
-go-back-button =
-    .tooltiptext = Mine tagasi
 
 header-back-button =
     .title = Mine tagasi
@@ -468,7 +359,6 @@ report-addon-button = Raporteeri
 remove-addon-button = Eemalda
 disable-addon-button = Keela
 enable-addon-button = Luba
-expand-addon-button = Rohkem sätteid
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Sätted
@@ -477,9 +367,6 @@ preferences-addon-button =
 details-addon-button = Üksikasjad
 release-notes-addon-button = Väljalaskemärkmed
 permissions-addon-button = Õigused
-
-addons-enabled-heading = Lubatud
-addons-disabled-heading = Keelatud
 
 extension-enabled-heading = Lubatud
 extension-disabled-heading = Keelatud
@@ -542,23 +429,12 @@ install-update-button = Uuenda
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Töötamine privaatsetes akendes
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Töötamine privaatsetes akendes on lubatud
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu sinu tegevusele privaatsetes akendes. <a data-l10n-name="learn-more">Rohkem teavet</a>
 addon-detail-private-browsing-allow = lubatud
 addon-detail-private-browsing-disallow = keelatud
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Soovitus
-    .alt = Soovitus
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

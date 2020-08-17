@@ -67,6 +67,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name }.
+
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
 login-intro-instruction-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
 login-intro-instruction-fxa-settings = Veendu, et { -sync-brand-short-name }i sätetes oleks Kasutajakontod ees linnuke
@@ -103,6 +104,9 @@ login-item-time-used = Viimati kasutatud: { DATETIME($timeUsed, day: "numeric", 
 ## Master Password notification
 
 master-password-notification-message = Salvestatud kasutajatunnuste ja paroolide nägemiseks sisesta ülemparool
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Logi sisse
     .accesskey = L
@@ -153,4 +157,6 @@ about-logins-error-message-default = Parooli salvestamisel esines viga.
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

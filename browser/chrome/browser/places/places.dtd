@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Vali fail…">
 <!ENTITY cmd.restoreFromFile.accesskey  "a">
 
-<!ENTITY cmd.deleteDomainData.label     "Unusta selle lehe info">
-<!ENTITY cmd.deleteDomainData.accesskey "U">
-
-<!ENTITY cmd.open.label                  "Ava">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Ava uues aknas">
-<!ENTITY cmd.open_window.accesskey       "v">
-<!ENTITY cmd.open_private_window.label     "Ava uues privaatses aknas">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Ava uuel kaardil">
-<!ENTITY cmd.open_tab.accesskey          "u">
-<!ENTITY cmd.open_all_in_tabs.label      "Ava kõik kaartidel">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "k">
-
-<!ENTITY cmd.properties.label      "Omadused">
-<!ENTITY cmd.properties.accesskey  "O">
-
-<!ENTITY cmd.sortby_name.label              "Sordi nime järgi">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Uus järjehoidja…">
-<!ENTITY cmd.new_bookmark.accesskey        "j">
-<!ENTITY cmd.new_folder.label              "Uus kaust…">
-<!ENTITY cmd.new_folder.accesskey          "k">
-<!ENTITY cmd.context_new_folder.accesskey  "t">
-<!ENTITY cmd.new_separator.label           "Uus eraldaja">
-<!ENTITY cmd.new_separator.accesskey       "d">
-
 <!ENTITY col.name.label          "Nimi">
 <!ENTITY col.tags.label          "Sildid">
 <!ENTITY col.url.label           "Asukoht">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Külastuste arv">
 <!ENTITY col.dateadded.label     "Lisatud">
 <!ENTITY col.lastmodified.label  "Viimati muudetud">
-
-<!ENTITY historySearch.placeholder  "Otsi ajaloost">
-<!ENTITY bookmarksSearch.placeholder  "Otsi järjehoidjatest">
 
 <!ENTITY cmd.find.key  "F">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Vali element, et vaadata ja muuta selle omadusi">
 
-<!ENTITY view.label               "Näita">
-<!ENTITY view.accesskey           "N">
-<!ENTITY byDate.label             "Kuupäeva järgi">
-<!ENTITY byDate.accesskey         "K">
-<!ENTITY bySite.label             "Suuruse järgi">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Külastuste arvu järgi">
-<!ENTITY byMostVisited.accesskey  "u">
-<!ENTITY byLastVisited.label      "Viimase külastuse järgi">
-<!ENTITY byLastVisited.accesskey  "V">
-<!ENTITY byDayAndSite.label       "Kuupäeva ja veebilehe järgi">
-<!ENTITY byDayAndSite.accesskey   "e">

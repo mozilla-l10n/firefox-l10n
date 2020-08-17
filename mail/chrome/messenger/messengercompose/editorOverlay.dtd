@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "s">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Aseta ilma vorminguta">
 <!ENTITY pasteNoFormatting.accesskey "i">
 <!ENTITY pasteNoFormatting.key "v">
-<!ENTITY pasteAs.label "Aseta kui">
-<!ENTITY pasteAs.accesskey "u">
 <!ENTITY pasteAsQuotationCmd.label "Aseta tsitaadina">
 <!ENTITY pasteAsQuotationCmd.accesskey "t">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Otsi…">
-<!ENTITY findReplaceCmd.label "Otsi ja asenda…">
-<!ENTITY enableInlineSpellChecker.label "Õigekirja kontroll sisestamise ajal">
-<!ENTITY enableInlineSpellChecker.accesskey "j">
-<!ENTITY checkSpellingCmd2.label "Kontrolli õigekirja">
-<!ENTITY checkSpellingCmd2.accesskey "o">
-<!ENTITY checkSpellingCmd2.key "k">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Lisamine">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Sisutekst">
 <!ENTITY bodyTextCmd.accesskey "S">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Täpsemad omadused">
-<!ENTITY advancedPropertiesCmd.accesskey "p">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Joondus">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Rööpselt">
 <!ENTITY alignJustify.accesskey "R">
 <!ENTITY alignJustify.tooltip "Joonda servast servani">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Järjestus">
-<!ENTITY layerSendToBack.tooltip "Vii kõige taha">
-<!ENTITY layerBringToFront.tooltip "Too kõige ette">
 
 <!ENTITY increaseIndent.label "Suurenda taanet">
 <!ENTITY increaseIndent.accesskey "t">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Tabeli omadused...">
 <!ENTITY tableProperties.accesskey "a">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menüüriba">
-<!ENTITY formatToolbar.tooltip "Vorminguriba">
-<!ENTITY cutToolbarCmd.tooltip "Lõika">
-<!ENTITY copyToolbarCmd.tooltip "Kopeeri">
-<!ENTITY pasteToolbarCmd.tooltip "Aseta">
-<!ENTITY printToolbarCmd.label "Prindi">
-<!ENTITY printToolbarCmd.tooltip "Prindi see lehekülg">
-<!ENTITY findToolbarCmd.label "Otsi">
-<!ENTITY findToolbarCmd.tooltip "Otsi sellelt lehelt">
-<!ENTITY spellToolbarCmd.label "Õigekiri">
-<!ENTITY spellToolbarCmd.tooltip "Kontrolli valitud lõigu või lehe õigekirja">
-
 <!ENTITY imageToolbarCmd.label "Pilt">
 <!ENTITY imageToolbarCmd.tooltip "Redigeeri valitud pildi omadusi või lisa uus pilt">
 <!ENTITY hruleToolbarCmd.label "H.joon">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Redigeeri valitud ankrut või loo uus">
 <!ENTITY TextColorButton.tooltip "Vali teksti värv">
 <!ENTITY BackgroundColorButton.tooltip "Vali taustavärv">
-<!ENTITY throbber.tooltip2 "Mine &brandShortName;i kodulehele">
-<!ENTITY HighlightColorButton.tooltip "Vali teksti esiletoov värv">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Määra fondi suurus">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Joonda tekst keskele">
 <!ENTITY alignRightButton.tooltip "Joonda tekst paremale">
 <!ENTITY alignJustifyButton.tooltip "Joonda tekst servast servani">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Vali">
-<!ENTITY structSelect.accesskey     "V">
-<!ENTITY structRemoveTag.label      "Eemalda silt">
-<!ENTITY structRemoveTag.accesskey  "E">
-<!ENTITY structChangeTag.label      "Redigeeri silti">
-<!ENTITY structChangeTag.accesskey  "R">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Lisa">

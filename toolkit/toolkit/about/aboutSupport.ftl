@@ -7,6 +7,7 @@ page-subtitle =
     See leht sisaldab tehnilist teavet, mis võib olla kasulik probleemide lahendamisel.
     Kui otsid vastuseid { -brand-short-name }i puudutavatele enamlevinud küsimustele, siis
     külasta meie <a data-l10n-name="support-link">tugiveebi</a>.
+
 crashes-title = Vearaportid
 crashes-id = Raporti ID
 crashes-send-date = Saatmise aeg
@@ -98,8 +99,6 @@ graphics-window-protocol = Graafilise kasutajaliidese protokoll
 place-database-title = Asukohtade andmebaas
 place-database-integrity = Terviklus
 place-database-verify-integrity = Verifitseeri terviklus
-js-title = JavaScript
-js-incremental-gc = Inkrementaalne GC
 a11y-title = Hõlbustus
 a11y-activated = Aktiveeritud
 a11y-force-disabled = Hõlbustus on keelatud
@@ -124,7 +123,6 @@ restart-in-safe-mode-label = Taaskäivita koos lisade keelamisega…
 
 audio-backend = Helisüsteem
 max-audio-channels = Maksimaalne arv kanaleid
-channel-layout = Eelistatud kanalite asetus
 sample-rate = Eelistatud diskreetimissagedus
 media-title = Meedia
 media-output-devices-title = Väljundseadmed
@@ -173,6 +171,7 @@ report-crash-for-days =
         [one] Viimase päeva vearaportid
        *[other] Viimase { $days } päeva vearaportid
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -180,6 +179,7 @@ crashes-time-minutes =
         [one] { $minutes } minut tagasi
        *[other] { $minutes } minutit tagasi
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -187,6 +187,7 @@ crashes-time-hours =
         [one] { $hours } tund tagasi
        *[other] { $hours } tundi tagasi
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -194,6 +195,7 @@ crashes-time-days =
         [one] { $days } päev tagasi
        *[other] { $days } päeva tagasi
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -201,6 +203,7 @@ pending-reports =
         [one] Kõik vearaportid (kaasa arvatud { $reports } ootel olev vearaport)
        *[other] Kõik vearaportid (kaasa arvatud { $reports } ootel olevat vearaportit)
     }
+
 raw-data-copied = Kopeeriti vormindamata andmed
 text-copied = Kopeeriti tekst
 
@@ -213,9 +216,11 @@ blocked-mismatched-version = Blokitud, sest registris olev graafikadraiveri vers
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Selle graafikadraiveri versiooni jaoks blokitud. Proovi uuendada graafikadraiver versioonile { $driverVersion } või uuemale.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType'i parameetrid
+
 compositing = Komposiit
 hardware-h264 = Riistvaraline H264-dekodeerimise tugi
 main-thread-no-omtc = peamine lõim, ilma OMTC'ta
@@ -230,6 +235,7 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = leitud
 missing = puudub
+
 gpu-process-pid = GPU protsessi pid
 gpu-process = GPU protsess
 gpu-description = Kirjeldus
@@ -253,17 +259,20 @@ webgl2-version = WebGL 2 draiveri versioon
 webgl2-driver-extensions = WebGL 2 draiveri laiendused
 webgl2-extensions = WebGL 2 laiendused
 blocklisted-bug = Teadaolevate vigade tõttu blokitud
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = vearaport number { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Teadaoleva vea tõttu blokitud; veakood: { $failureCode }
+
 d3d11layers-crash-guard = D3D11 komposiitor
 d3d11video-crash-guard = D3D11 video dekodeerija
-d3d9video-crash-buard = D3D9 video dekodeerija
 d3d9video-crash-guard = D3D9 video dekodeerija
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Lähtesta järgmisel taaskäivitusel
 gpu-process-kill-button = Peata GPU protsessi töö
 gpu-device-reset = Seadme lähtestamine
@@ -273,8 +282,10 @@ content-uses-tiling = Uses Tiling (Content)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 target-frame-rate = Target Frame Rate
+
 min-lib-versions = Eeldatav minimaalne versioon
 loaded-lib-versions = Kasutusel olev versioon
+
 has-seccomp-bpf = Seccomp-BPF (süsteemikutsete filtreerimine)
 has-seccomp-tsync = Seccompi lõimede sünkroniseerimine
 has-user-namespaces = Kasutaja nimeruumid
@@ -287,10 +298,12 @@ sandbox-proc-type-content = sisu
 sandbox-proc-type-file = faili sisu
 sandbox-proc-type-media-plugin = meediaplugin
 sandbox-proc-type-data-decoder = data decoder
+
 launcher-process-status-0 = lubatud
 launcher-process-status-1 = ebaõnnestumise tõttu keelatud
 launcher-process-status-2 = jõuga keelatud
 launcher-process-status-unknown = tundmatu olek
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -303,6 +316,7 @@ multi-process-status-6 = keelatud toetuseta teksti sisestamise tõttu
 multi-process-status-7 = keelatud lisade poolt
 multi-process-status-8 = keelatud jõuga
 multi-process-status-unknown = tundmatu olek
+
 async-pan-zoom = Asünkroonne suurendamine
 apz-none = puudub
 wheel-enabled = rulliku sisend on lubatud

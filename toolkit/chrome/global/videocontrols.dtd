@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Pilt-pildis">
 
-<!ENTITY stats.media "Meedia">
-<!ENTITY stats.size "Suurus">
-<!ENTITY stats.activity "Aktiivsus">
-<!ENTITY stats.activityPaused "Pausil">
-<!ENTITY stats.activityPlaying "Esitamisel">
-<!ENTITY stats.activityEnded "Lõppenud">
-<!ENTITY stats.activitySeeking "(otsimine)">
-<!ENTITY stats.volume "Helitugevus">
-<!ENTITY stats.framesParsed "Parsitud kaadreid">
-<!ENTITY stats.framesDecoded "Dekodeeritud kaadreid">
-<!ENTITY stats.framesPresented "Esitatavaid kaadreid">
-<!ENTITY stats.framesPainted "Esitatud kaadreid">
-
 <!ENTITY error.aborted "Video laadimine peatati.">
 <!ENTITY error.network "Video esitamine katkestati võrguvea tõttu.">
 <!ENTITY error.decode "Videot pole võimalik esitada, kuna fail on vigane.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "Video esitamine katkestati tundmatu vea tõttu.">
 
 <!ENTITY status.pictureInPicture "Seda videot esitatakse pilt-pildis režiimis.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 - #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

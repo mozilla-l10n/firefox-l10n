@@ -184,3 +184,11 @@ cfr-doorhanger-cryptominers-description = Sinu privaatsus on oluline. { -brand-s
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

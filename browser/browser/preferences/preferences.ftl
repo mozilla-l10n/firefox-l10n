@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = alati
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Sätted
-           *[other] Eelistused
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Sätted
@@ -426,16 +419,6 @@ update-application-use-service =
     .label = Uuenduste paigaldamiseks kasutatakse taustateenust
     .accesskey = d
 
-update-enable-search-update =
-    .label = Otsingumootoreid uuendatakse automaatselt
-    .accesskey = O
-
-update-pref-write-failure-title = Viga kirjutamisel
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Sätete salvestamine polnud võimalik. Järgmisse faili polnud võimalik kirjutada: { $path }
-
 update-setting-write-failure-title = Uuendamise sätete salvestamisel esines viga
 
 # Variables:
@@ -598,7 +581,6 @@ home-prefs-topsites-description = Enim külastatud saidid
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab
-home-prefs-recommended-by-description = Parim veebisisu sinu huvidest lähtuvalt
 ##
 
 home-prefs-recommended-by-learn-more = Kuidas see töötab?
@@ -640,7 +622,6 @@ search-bar-shown =
     .label = Kasutatakse eraldi otsinguriba
 
 search-engine-default-header = Vaikeotsingumootor
-search-engine-default-desc = Vali vaikeotsingumootor, mida kasutatakse aadressi- ja otsinguribal.
 
 search-separate-default-engine =
     .label = Seda otsingumootorit kasutatakse ka privaatsetes akendes
@@ -664,8 +645,6 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Aadressiriba tulemustes kuvatakse otsingusoovitusi enne lehitsemise ajalugu
-
-suggestions-addressbar-settings = Muuda lehitsemise ajaloo, järjehoidjate ja kaartide soovituste sätteid
 
 search-suggestions-cant-show = Otsingusoovitusi asukohariba tulemuste seas ei kuvata, sest { -brand-short-name } ei ole häälestatud ajalugu säilitama.
 
@@ -698,8 +677,6 @@ search-keyword-warning-bookmark = Sa valisid võtmesõna, mis on kasutusel järj
 
 ## Containers Section
 
-containers-back-link = « Tagasi
-
 containers-header = Konteinerkaardid
 containers-add-button =
     .label = Lisa uus konteiner
@@ -719,14 +696,6 @@ containers-remove-button =
 sync-signedout-caption = Võta oma veeb endaga kaasa
 sync-signedout-description = Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.
 
-sync-signedout-account-title = Ühendu { -fxaccount-brand-name }ga
-sync-signedout-account-create = Sul pole kontot? Tee algust
-    .accesskey = T
-
-sync-signedout-account-signin =
-    .label = Logi sisse…
-    .accesskey = o
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -744,10 +713,6 @@ sync-mobile-promo = Hangi Firefox <img data-l10n-name="android-icon"/> <a data-l
 
 sync-profile-picture =
     .tooltiptext = Muuda profiilipilti
-
-sync-disconnect =
-    .label = Katkesta ühendus…
-    .accesskey = K
 
 sync-sign-out =
     .label = Logi välja…
@@ -770,9 +735,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Logi sisse
     .accesskey = g
-
-sync-signedin-settings-header = Sünkroniseerimise sätted
-sync-signedin-settings-desc = Vali { -brand-short-name }i poolt sünkroniseeritavad andmed.
 
 ## Sync section - enabling or disabling sync.
 
@@ -835,11 +797,6 @@ sync-engine-tabs =
     .tooltiptext = Nimekiri kaartidest, mis on avatud sünkroniseeritud seadmetes
     .accesskey = r
 
-sync-engine-logins =
-    .label = Kasutajakontod
-    .tooltiptext = Salvestatud kasutajanimed ja paroolid
-    .accesskey = u
-
 sync-engine-logins-passwords =
     .label = Kasutajatunnused ja paroolid
     .tooltiptext = Salvestatud kasutajanimed ja paroolid
@@ -887,22 +844,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Ühenda teine seade
 
-sync-manage-devices = Halda seadmeid
-
-sync-fxa-begin-pairing = Lisa seade
-
-sync-tos-link = Teenuse tingimused
-
-sync-fxa-privacy-notice = Privaatsusest
-
 ## Privacy Section
 
 privacy-header = Veebilehitseja privaatsus
 
 ## Privacy Section - Forms
 
-
-logins-header = Kasutajatunnused ja paroolid
 
 ## Privacy Section - Logins and Passwords
 
@@ -938,6 +885,7 @@ forms-master-pw-change =
     .accesskey = p
 
 forms-master-pw-fips-title = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
+
 forms-master-pw-fips-desc = Parooli muutmine nurjus
 
 ## OS Authentication dialog
@@ -1025,9 +973,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Seejuures blokitakse
     .accesskey = u
 
-sitedata-option-block-trackers =
-    .label = kolmanda osapoole jälitajad
-
 sitedata-option-block-cross-site-trackers =
     .label = Saitideülesed jälitajad
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -1071,34 +1016,11 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Sisu blokkimine
-
-content-blocking-section-description = Kaitse veebilehitsemise ajal oma privaatsust. Bloki nähtamatu sisu, mis jälitab ning profileerib sinu tegevust. Sellise sisu blokkimine võib teha lehtede laadimise kiiremaks.
-
 content-blocking-enhanced-tracking-protection = Täiustatud jälitamisvastane kaitse
 
 content-blocking-section-top-level-description = Jälitajad järgnevad sulle kõikjal veebis, et koguda andmeid sinu lehitsemisharjumuste ja huvide kohta. { -brand-short-name } blokib paljud neist jälitajatest ja ka muud pahatahtlikud skriptid.
 
 content-blocking-learn-more = Rohkem teavet
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Tavaline
-    .accesskey = T
-content-blocking-setting-strict =
-    .label = Range
-    .accesskey = R
-content-blocking-setting-custom =
-    .label = Kohandatud
-    .accesskey = K
-
-content-blocking-standard-desc = Tasakaalustatud kaitse ja jõudlus. Mõned jälitajad on lubatud, et saidid töötaks korrektselt.
-content-blocking-strict-description = Tugevam kaitse, võib põhjustada mõnel saidil probleeme.
-content-blocking-custom-desc = Võimaldab blokitava sisu ise valida.
-
-content-blocking-private-trackers = tuntud jälitajad ainult privaatsetes akendes
-content-blocking-third-party-cookies = kolmanda osapoole jälitamise küpsised
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1125,15 +1047,12 @@ content-blocking-cross-site-tracking-cookies = saitideülesed jälitamisküpsise
 content-blocking-social-media-trackers = Sotsiaalmeedia jälitajad
 content-blocking-all-cookies = Kõik küpsised
 content-blocking-unvisited-cookies = küpsised külastamata saitidelt
-content-blocking-all-windows-trackers = tuntud jälitajad kõigis akendes
 content-blocking-all-windows-tracking-content = Jälitav sisu kõigis akendes
 content-blocking-all-third-party-cookies = kõik kolmanda osapoole küpsised
 content-blocking-cryptominers = krüptorahakaevurid
 content-blocking-fingerprinters = seadmetuvastajad
 
 content-blocking-warning-title = Tähelepanu!
-content-blocking-warning-description = Sisu blokkimine võib põhjustada mõnede saitide purunemise. Blokkimise keelamine usaldusväärsetel saitidel on lihtne.
-content-blocking-learn-how = Vaata juhendit
 
 content-blocking-warning-learn-how = Vaata juhendit
 
@@ -1141,10 +1060,6 @@ content-blocking-reload-description = Tehtud muudatuste rakendamiseks tuleb sul 
 content-blocking-reload-tabs-button =
     .label = Laadi kõik kaardid uuesti
     .accesskey = u
-
-content-blocking-trackers-label =
-    .label = Jälitajad
-    .accesskey = J
 
 content-blocking-tracking-content-label =
     .label = Jälitav sisu
@@ -1209,14 +1124,6 @@ permissions-notification-link = Rohkem teavet
 permissions-notification-pause =
     .label = Pane teavitused { -brand-short-name }i taaskäivitumiseni pausile
     .accesskey = P
-
-permissions-block-autoplay-media2 =
-    .label = Veebisaitidel ei lubata automaatselt heli esitada
-    .accesskey = h
-
-permissions-block-autoplay-media-exceptions =
-    .label = Erandid…
-    .accesskey = E
 
 permissions-autoplay = Automaatne esitamine
 
@@ -1350,6 +1257,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = O
 
 space-alert-under-5gb-message = { -brand-short-name }il saab salvestuspind otsa. Saidi sisu võidakse kuvada ebakorrektselt. Vaata “Rohkem teavet”, et optimeerida oma salvestuspinna kasutust parema kogemuse saamiseks.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

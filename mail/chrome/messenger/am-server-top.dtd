@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "kirja">
 <!ENTITY alwaysAuthenticate.label "Selle serveriga ühendudes nõutakse alati kasutaja tuvastamist">
 <!ENTITY alwaysAuthenticate.accesskey "S">
-<!ENTITY newsrcFilePath.label "newsrc fail:">
-<!ENTITY newsrcPicker.label "newsrc faili valimine">
 <!ENTITY abbreviate.label "Uudistegruppide nimesid näidatakse kaustade paanis:">
 <!ENTITY abbreviateOn.label "täielikult (näiteks 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "lühendatult (näiteks 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Täpsemalt...">
 <!ENTITY advancedButton.accesskey "T">
 <!ENTITY serverDefaultCharset2.label "Vaikimisi kodeering:">
-<!ENTITY localPath.label "Kohalik kaust:">
 <!ENTITY localFolderPicker.label "Kohaliku kausta valimine">
 <!ENTITY browseFolder.label "Lehitse...">
 <!ENTITY browseFolder.accesskey "L">

@@ -35,12 +35,6 @@ connection-proxy-http = HTTP-puhverserver
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = r
-connection-proxy-http-share =
-    .label = Seda puhverserverit kasutatakse kõigi protokollide puhul
-    .accesskey = a
-
-connection-proxy-ssl = SSL-puhverserver
-    .accesskey = L
 
 connection-proxy-ssl-port = Port
     .accesskey = o

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Turvalisus">
-<!ENTITY securityTab.label "Turvalisus">
-<!ENTITY securityHeading.label "Krüptitud kirjade saatmiseks ja vastuvõtuks pead määrama nii digitaalse allkirjastussertifikaadi kui krüptimissertifikaadi.">
-<!ENTITY encryptionGroupTitle.label "Krüptimine">
-<!ENTITY encryptionChoiceLabel.label "Saadetavate kirjade vaikimisi krüptimise sätted:">
-<!ENTITY neverEncrypt.label "mitte kunagi (krüptimist ei kasutata)">
-<!ENTITY neverEncrypt.accesskey "m">
-<!ENTITY alwaysEncryptMessage.label "nõutud (kirja pole võimalik saata, kui kõigil vastuvõtjatel ei ole sertifikaate)">
-<!ENTITY alwaysEncryptMessage.accesskey "n">
-<!ENTITY encryptionCert.message "Kirjade krüptimiseks ja dekrüptimiseks kasutatakse järgmist sertifikaati:">
-
 <!ENTITY digitalSign.certificate.button "Vali...">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Puhasta">
@@ -22,15 +11,7 @@
 <!ENTITY encryption.certificate_clear.button "Puhasta">
 <!ENTITY encryption.certificate_clear.accesskey "h">
 <!ENTITY signingGroupTitle.label "Digiallkirjastamine">
-<!ENTITY signMessage.label "Kirjad digiallkirjastatakse (vaikimisi)">
 <!ENTITY signMessage.accesskey "K">
-<!ENTITY signingCert.message "Saadetavate kirjade allkirjastamiseks kasutatakse järgmist sertifikaati:">
-
-<!ENTITY certificates.label "Sertifikaadid">
-<!ENTITY manageCerts2.label "Halda sertifikaate">
-<!ENTITY manageCerts2.accesskey "l">
-<!ENTITY manageDevices.label "Turvaseadmed">
-<!ENTITY manageDevices.accesskey "T">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sertifikaadi valimine">

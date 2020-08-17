@@ -12,8 +12,5 @@
 <!ENTITY iconsBesideText.label    "Ikoonid teksti kõrval">
 <!ENTITY useSmallIcons.label      "Kasutatakse väikseid ikoone">
 <!ENTITY restoreDefaultSet.label  "Taasta algsätted">
-<!ENTITY addNewToolbar.label      "Lisa uus tööriistariba">
-<!ENTITY showTitlebar.label       "Kuva tiitliriba">
-<!ENTITY extraDragSpace.label     "Lisa lohistamise ala">
 <!ENTITY saveChanges.label        "Valmis">
 <!ENTITY undoChanges.label        "Võta muudatused tagasi">

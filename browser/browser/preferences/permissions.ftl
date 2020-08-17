@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Palun sisesta korrektne masinanimi
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Erandid - sisu blokkimine
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Sisu blokkimine on järgnevatel saitidel keelatud.
-
 permissions-exceptions-etp-window =
     .title = Erandid - täiustatud jälitamisvastane kaitse
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Sa võid määrata, millistel veebilehtedel on lubatud lisasid paigaldada. Sisesta vastava veebilehe täpne aadress ning klõpsa Luba.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Erandid - automaatne esitamine
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Sa võid määrata, millistel saitidel on lubatud või pole mitte kunagi lubatud meedia automaatne heliga esitamine. Sisesta hallatava saidi täpne aadress ning seejärel klõpsa Bloki või Luba.
 
 ## Site Permissions - Autoplay
 

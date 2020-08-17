@@ -65,8 +65,6 @@ privacy-passwords-header = Paroolid
 
 privacy-junk-header = Rämpspost
 
-privacy-data-collection-header = Andmete kogumine ja kasutamine
-
 privacy-security-header = Turvalisus
 
 privacy-scam-detection-title = Kelmuse tuvastamine
@@ -89,12 +87,6 @@ manage-messenger-languages-button =
     .accesskey = M
 confirm-messenger-language-change-description = Muudatuste rakendamiseks taaskäivita { -brand-short-name }
 confirm-messenger-language-change-button = Rakenda ja taaskäivita
-
-update-pref-write-failure-title = Viga kirjutamisel
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Sätete salvestamine polnud võimalik. Järgmisse faili polnud võimalik kirjutada: { $path }
 
 update-setting-write-failure-title = Uuendamise sätete salvestamisel esines viga
 

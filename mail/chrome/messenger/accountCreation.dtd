@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Olemasoleva e-posti konto seadistamine">
-
 <!ENTITY emailWizard.title               "Olemasoleva e-posti konto seadistamine">
 <!ENTITY emailWizard.caption             "Kasuta oma olemasolevat e-posti aadressi">
 <!ENTITY name.label                      "Sinu nimi:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Eesnimi Perenimi">
 <!ENTITY fullname.placeholder            "Täisnimi">
 <!ENTITY name.text                       "Nimi, mida kuvatakse teistele">
 <!ENTITY name.error                      "Palun sisesta oma nimi">
 <!ENTITY email.label                     "E-posti aadress:">
 <!ENTITY email.accesskey                 "p">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "sinu.aadress@example.com">
 <!ENTITY email3.placeholder              "Sinu e-posti aadress">
 <!ENTITY email.text                      "Sinu olemasolev e-posti aadress">
 <!ENTITY email.error                     "Vigane e-posti aadress">
@@ -42,9 +37,6 @@
 <!ENTITY outgoing.label                  "Saatev:">
 <!ENTITY outgoingColumn.label            "Saatev">
 <!ENTITY username.label                  "Kasutajanimi:">
-<!ENTITY hostname.label                  "Serveri aadress">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -78,8 +70,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Kontrolli häälestust uuesti">
 <!ENTITY half-manual-test.accesskey      "K">
-<!ENTITY manual-edit.label               "Seadista käsitsi">
-<!ENTITY manual-edit.accesskey           "S">
 <!ENTITY manual-config.label             "Seadista käsitsi…">
 <!ENTITY manual-config.accesskey         "k">
 <!ENTITY open-provisioner.label          "Hangi uus e-posti aadress…">
