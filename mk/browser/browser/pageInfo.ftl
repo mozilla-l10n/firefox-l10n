@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Сними како…
     .accesskey = н
-media-preview =
-    .value = Преглед на медиум:
 
 perm-tab =
     .label = Дозволи
@@ -122,7 +120,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Непозната
-not-set-verified-by = Неодредено
 page-info-not-specified =
     .value = Неодредено
 not-set-alternative-text = Неодредено
@@ -147,7 +144,6 @@ general-quirks-mode =
     .value = Чуден режим
 general-strict-mode =
     .value = Во согласност со стандардите
-security-no-owner = Ова мрежно место не доставува информации за сопственост
 page-info-security-no-owner =
     .value = Ова мрежно место не доставува информации за сопственост
 media-select-folder = Одберете папка за снимање на слики

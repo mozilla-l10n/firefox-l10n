@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Изберете датотека…">
 <!ENTITY cmd.restoreFromFile.accesskey  "О">
 
-<!ENTITY cmd.deleteDomainData.label     "Заборави го ова место">
-<!ENTITY cmd.deleteDomainData.accesskey "б">
-
-<!ENTITY cmd.open.label                  "Отвори">
-<!ENTITY cmd.open.accesskey              "О">
-<!ENTITY cmd.open_window.label           "Отвори во нов прозорец">
-<!ENTITY cmd.open_window.accesskey       "н">
-<!ENTITY cmd.open_private_window.label     "Отвори во нов приватен прозорец">
-<!ENTITY cmd.open_private_window.accesskey "П">
-<!ENTITY cmd.open_tab.label              "Отвори во ново јазиче">
-<!ENTITY cmd.open_tab.accesskey          "в">
-<!ENTITY cmd.open_all_in_tabs.label      "Отвори во јазичиња">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "т">
-
-<!ENTITY cmd.properties.label      "Својства">
-<!ENTITY cmd.properties.accesskey  "ј">
-
-<!ENTITY cmd.sortby_name.label              "Подреди по име">
-<!ENTITY cmd.sortby_name.accesskey          "П">
-<!ENTITY cmd.context_sortby_name.accesskey  "р">
-
-<!ENTITY cmd.new_bookmark.label            "Нов обележувач">
-<!ENTITY cmd.new_bookmark.accesskey        "б">
-<!ENTITY cmd.new_folder.label              "Нова папка">
-<!ENTITY cmd.new_folder.accesskey          "о">
-<!ENTITY cmd.context_new_folder.accesskey  "о">
-<!ENTITY cmd.new_separator.label           "Нов одделувач">
-<!ENTITY cmd.new_separator.accesskey       "д">
-
 <!ENTITY col.name.label          "Име">
 <!ENTITY col.tags.label          "Етикети">
 <!ENTITY col.url.label           "Локација">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Број на посети">
 <!ENTITY col.dateadded.label     "Додадено">
 <!ENTITY col.lastmodified.label  "Последна промена">
-
-<!ENTITY historySearch.placeholder  "Барај во историјата">
-<!ENTITY bookmarksSearch.placeholder  "Барај во обележувачите">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Одберете ставка за преглед и уредете ги нејзините својства">
 
-<!ENTITY view.label               "Поглед">
-<!ENTITY view.accesskey           "П">
-<!ENTITY byDate.label             "Датум">
-<!ENTITY byDate.accesskey         "Д">
-<!ENTITY bySite.label             "Место">
-<!ENTITY bySite.accesskey         "с">
-<!ENTITY byMostVisited.label      "Најчеста посета">
-<!ENTITY byMostVisited.accesskey  "ј">
-<!ENTITY byLastVisited.label      "Последна посета">
-<!ENTITY byLastVisited.accesskey  "л">
-<!ENTITY byDayAndSite.label       "Датум и место">
-<!ENTITY byDayAndSite.accesskey   "т">

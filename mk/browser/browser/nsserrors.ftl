@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 psmerr-ssl-disabled = Безбедното поврзување не е можно бидејќи SSL протоколот е оневозможен.
 psmerr-ssl2-disabled = Безбедното поврзување не е можно бидејќи страницата користи стара и небезбедна верзија на SSL протоколот.
 

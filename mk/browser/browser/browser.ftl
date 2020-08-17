@@ -78,6 +78,8 @@ urlbar-persistent-storage-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -122,6 +124,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Постави како основен пребарувач
     .accesskey = П
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -190,8 +199,10 @@ popup-all-windows-shared = Сите видливи прозорци на ваш�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Барај или внеси адреса
+
 urlbar-placeholder =
     .placeholder = Барај или внеси адреса
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прелистувачот е контролиран далечински
 urlbar-switch-to-tab =

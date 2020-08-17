@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "Повтори">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "р">
-<!ENTITY cutCmd.label "Отсечи">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "с">
-<!ENTITY copyCmd.label "Копирај">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Залепи">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "п">
 <!ENTITY editRewrapCmd.accesskey "в">
 <!ENTITY deleteCmd.label "Избриши">
 <!ENTITY deleteCmd.accesskey "з">
 <!ENTITY editRewrapCmd.label "Скрати повторно">
-<!ENTITY selectAllCmd.label "Избери сè">
 <!ENTITY selectAllCmd.accesskey "с">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Пронајди повторно">
 <!ENTITY findAgainCmd.accesskey "П">
 <!ENTITY findAgainCmd.key "G">
@@ -180,17 +172,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "Од:">
 <!ENTITY fromAddr.accesskey "О">
-<!ENTITY toAddr.label "До:">
-<!ENTITY ccAddr.label "Копија:">
-<!ENTITY bccAddr.label "Слепа копија:">
-<!ENTITY replyAddr.label "Одговори на:">
-<!ENTITY newsgroupsAddr.label "Дискусиона група:">
-<!ENTITY followupAddr.label "Праќај до:">
-<!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
-<!ENTITY attachments.accesskey "в">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 

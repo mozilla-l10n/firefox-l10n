@@ -10,9 +10,6 @@ addons-page-title = Менаџер за додатоци
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Се вчитува…
-
 list-empty-installed =
     .value = Немате инсталирано додатоци од овој тип
 
@@ -28,22 +25,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = Научи повеќе за додатоците
 
-install-addon-from-file =
-    .label = Инсталирај додаток од датотека…
-    .accesskey = И
-
-tools-menu =
-    .tooltiptext = Алатки за сите додатоци
-
 show-unsigned-extensions-button =
     .label = Некои додатоци не може да се верификуваат
 
 show-all-extensions-button =
     .label = Прикажи ги сите додатоци
-
-debug-addons =
-    .label = Дебагирање на додатоци
-    .accesskey = B
 
 cmd-show-details =
     .label = Прикажи информации
@@ -81,15 +67,6 @@ cmd-contribute =
     .label = Придонеси
     .accesskey = П
     .tooltiptext = Придонеси за развојот на овој додаток
-
-discover-title = Што се додатоци?
-
-discover-description =
-    Додатоците се апликации што ви овозможуваат да го персонализирате { -brand-short-name }
-    со дополнителни функционалности или стил. Пробајте алатки што штедат време, известувачи за временска прогноза
-    или тема за изгледот за да го направите { -brand-short-name } ваш.
-
-discover-footer = Кога сте поврзани на интернет овој панел ќе прикажува некои од најдобрите и најпопуларни додатоци што може да ги пробате.
 
 detail-version =
     .label = Верзија
@@ -172,14 +149,6 @@ legacy-extensions =
 
 legacy-extensions-description = Овие проширувања не се во согласност со сегашните стандарди на { -brand-short-name } па, беа исклучени. <label data-l10n-name="legacy-learn-more">Дознајте повеќе за измените на додатоците</label>
 
-extensions-view-recent-updates =
-    .name = Скорешни надградби
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Достапни надградби
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Проширувања
 addon-category-extension-title =
     .title = Проширувања
@@ -204,29 +173,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Сите додатоци се оневозможени од безбедниот режим.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Проверката за компатибилност на додатоците е оневозможена. Можеби имате некомпатибилни додатоци.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Овозможи
-    .tooltiptext = Овозможи проверување на компатибилноста на додатоците
-
-extensions-warning-update-security-label =
-    .value = Проверката за безбедност при надградба на додатоци е оневозможена. Надградбите може да Ви наштетат.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Овозможи
-    .tooltiptext = Овозможи проверување на безбедноста при надградба на додаток
-
 extensions-warning-safe-mode = Сите додатоци се оневозможени од безбедниот режим.
 extensions-warning-check-compatibility = Проверката за компатибилност на додатоците е оневозможена. Можеби имате некомпатибилни додатоци.
 extensions-warning-check-compatibility-button = Овозможи
@@ -238,14 +184,6 @@ extensions-warning-update-security-button = Овозможи
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Провери за надградби
-    .accesskey = П
-
-extensions-updates-view-updates =
-    .label = Прегледај неодамнешни надградби
-    .accesskey = н
-
 addon-updates-check-for-updates = Провери за надградби
     .accesskey = П
 addon-updates-view-updates = Прегледај неодамнешни надградби
@@ -253,10 +191,6 @@ addon-updates-view-updates = Прегледај неодамнешни надг�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Автоматски надградувај ги додатоците
-    .accesskey = А
 
 addon-updates-update-addons-automatically = Автоматски надградувај ги додатоците
     .accesskey = А
@@ -267,36 +201,12 @@ addon-updates-update-addons-automatically = Автоматски надград�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Постави сите додатоци да се надградуваат автоматски
-    .accesskey = с
-
-extensions-updates-reset-updates-to-manual =
-    .label = Постави сите додатоци да се надградуваат рачно
-    .accesskey = с
-
 addon-updates-reset-updates-to-automatic = Постави сите додатоци да се надградуваат автоматски
     .accesskey = с
 addon-updates-reset-updates-to-manual = Постави сите додатоци да се надградуваат рачно
     .accesskey = с
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Надградување на додатоци
-extensions-updates-installed =
-    .value = Вашиот додаток е надграден
-extensions-updates-downloaded =
-    .value = Вашите надградби за додатоци се преземени
-extensions-updates-restart =
-    .label = Рестартирајте за да заврши инсталацијата.
-extensions-updates-none-found =
-    .value = Не се пронајдени надградби
-extensions-updates-manual-updates-found =
-    .label = Прегледај достапни надградби
-extensions-updates-update-selected =
-    .label = Инсталирање на надградбите
-    .tooltiptext = Инсталирај ги достапните надградби од оваа листа
 
 addon-updates-updating = Надградување на додатоци
 addon-updates-installed = Вашиот додаток е надграден

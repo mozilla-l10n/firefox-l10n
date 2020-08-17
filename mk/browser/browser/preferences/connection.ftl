@@ -25,9 +25,6 @@ connection-proxy-option-auto =
 
 connection-proxy-http-port = Порта
     .accesskey = П
-connection-proxy-http-share =
-    .label = Овој сервер е за сите протоколи
-    .accesskey = с
 
 connection-proxy-ssl-port = Порта
     .accesskey = о

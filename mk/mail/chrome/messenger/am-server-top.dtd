@@ -54,14 +54,11 @@
 <!ENTITY maxMessagesEnd.label "пораки">
 <!ENTITY alwaysAuthenticate.label "При секое поврзување со овој сервер барај идентификување">
 <!ENTITY alwaysAuthenticate.accesskey "и">
-<!ENTITY newsrcFilePath.label "newsrc датотека:">
-<!ENTITY newsrcPicker.label "Избери newsrc датотека">
 <!ENTITY abbreviate.label "Прикажи ги имињата на дискусионите групите во панелот за пошта како:">
 <!ENTITY abbreviateOn.label "Цели имиња (на пример, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Крати ги имињата (на пример: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Напредно…">
 <!ENTITY advancedButton.accesskey "а">
-<!ENTITY localPath.label "Локален директориум:">
 <!ENTITY localFolderPicker.label "Избор на локален директориум">
 <!ENTITY browseFolder.label "Разгледај…">
 <!ENTITY browseFolder.accesskey "Р">

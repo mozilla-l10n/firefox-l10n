@@ -20,6 +20,13 @@ onboarding-cards-dismiss =
     .title = Откажи
     .aria-label = Откажи
 
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 ## Welcome full page string
 
 ## Firefox Sync modal dialog strings.

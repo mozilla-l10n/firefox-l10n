@@ -21,6 +21,9 @@ change-password-reenter = Нова лозинка (повторно):
 reset-password-window =
     .title = Ресетирање на главната лозинка
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Ресетирај
 reset-password-text = Ако ја ресетирате главната лозинка сите ваши снимени лозикни, податоци за обрасци, сертификати и приватни клучеви ќе бидат загубени. Сигурно сакате да ја ресетирате главната лозинка?

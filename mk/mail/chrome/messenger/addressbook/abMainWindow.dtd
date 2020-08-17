@@ -34,33 +34,10 @@
 
 <!ENTITY editMenu.label "Уредување">
 <!ENTITY editMenu.accesskey "е">
-<!ENTITY undoCmd.label "Врати">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "т">
-<!ENTITY redoCmd.label "Повтори">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "р">
-<!ENTITY cutCmd.label "Отсечи">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "с">
-<!ENTITY copyCmd.label "Копирај">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Залепи">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "п">
 <!ENTITY deleteCmd.label "Избриши">
-<!ENTITY deleteCmd.accesskey "з">
 <!ENTITY deleteAbCmd.label "Избриши го адресарот">
-<!ENTITY selectAllCmd.label "Избери сè">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "е">
-<!ENTITY swapFirstNameLastNameCmd.label "Смени го името/презимето">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "м">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 

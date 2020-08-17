@@ -23,9 +23,9 @@ unpin-tab =
 move-to-new-window =
     .label = Премести во нов прозорец
     .accesskey = П
-undo-close-tab =
-    .label = Врати го затвореното јазиче
-    .accesskey = В
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Затвори јазиче
     .accesskey = З

@@ -3,72 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Овозможи">
-<!ENTITY cmd.enableAddon.accesskey            "О">
-<!ENTITY cmd.disableAddon.label               "Оневозможи">
-<!ENTITY cmd.disableAddon.accesskey           "н">
-
-<!ENTITY cmd.askToActivate.label              "Прашај пред да активираш">
-<!ENTITY cmd.askToActivate.tooltip            "Секој пат прашувај дали да се користи овој додаток">
-<!ENTITY cmd.alwaysActivate.label             "Секогаш активирај">
-<!ENTITY cmd.alwaysActivate.tooltip           "Секогаш користи го овој додаток">
-<!ENTITY cmd.neverActivate.label              "Никогаш не активирај">
-<!ENTITY cmd.neverActivate.tooltip            "Никогаш не го користи овој додаток">
-<!ENTITY cmd.stateMenu.tooltip                "Променете кога овој додаток ќе се извршува">
-
-<!ENTITY cmd.uninstallAddon.label             "Отстрани">
-<!ENTITY cmd.uninstallAddon.accesskey         "р">
-<!ENTITY cmd.showPreferencesWin.label         "Опции">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Промени ги опциите на овој додаток">
-<!ENTITY cmd.showPreferencesUnix.label        "Поставки">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Промени ги параметрите на овој додаток">
-
-<!ENTITY cmd.showReleaseNotes.label           "Прикажи ги белешките за изданието">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Прикажи ги белешките за оваа надградба">
-<!ENTITY cmd.hideReleaseNotes.label           "Скриј ги белешките за верзијата">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Скриј ги белешките за оваа надградба">
-<!ENTITY cmd.findReplacement.label            "Најди замена">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Откажи">
-
-<!ENTITY addon.details.label                  "Повеќе">
-<!ENTITY addon.details.tooltip                "Прикажи повеќе опции за овој додаток">
-<!ENTITY addon.unknownDate                    "Непознат">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "ЗАСТАРЕНО">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(оневозможен)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Надградби">
-<!ENTITY addon.undoAction.label               "Врати">
-<!ENTITY addon.undoAction.tooltip             "Врати назад">
-<!ENTITY addon.undoRemove.label               "Врати">
-<!ENTITY addon.undoRemove.tooltip             "Задржи ги овие додатоци инсталирани">
-
-<!ENTITY addon.install.label                  "Инсталирај">
-<!ENTITY addon.install.tooltip                "Инсталирај го овој додаток">
-<!ENTITY addon.updateNow.label                "Ажурирај сега">
-<!ENTITY addon.updateNow.tooltip              "Инсталирај надградба за овој додаток">
-<!ENTITY addon.includeUpdate.label            "Вклучи ја надградбата">
-<!ENTITY addon.updateAvailable.label          "Достапна е надградба">
-<!ENTITY addon.checkingForUpdates.label       "Проверувам за надградби…">
-<!ENTITY addon.releaseNotes.label             "Белешки кон изданието:">
-<!ENTITY addon.loadingReleaseNotes.label      "Се вчитува…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Извинете, но имаше грешка при вчитувањето на белешките за изданието.">
-
-<!ENTITY addon.createdBy.label                "Од ">
-
-<!ENTITY settings.path.button.label           "Разгледај…">
 
 <!ENTITY setting.learnmore "Дознајте повеќе …">
 
