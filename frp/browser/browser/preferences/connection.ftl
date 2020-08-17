@@ -35,12 +35,6 @@ connection-proxy-http = Sèrvòr mitan HTTP
     .accesskey = H
 connection-proxy-http-port = Pòrt
     .accesskey = P
-connection-proxy-http-share =
-    .label = Utilisar ceti sèrvor mitan por totes les conèxions
-    .accesskey = s
-
-connection-proxy-ssl = Sèrvòr mitan SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Pòrt
     .accesskey = r

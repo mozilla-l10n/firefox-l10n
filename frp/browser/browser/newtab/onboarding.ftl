@@ -13,7 +13,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = Èprovar ôra
 onboarding-button-label-get-started = Comenciér
 
 ## Welcome modal dialog strings
@@ -21,6 +20,13 @@ onboarding-button-label-get-started = Comenciér
 onboarding-welcome-header = Benvenyu a { -brand-short-name }
 
 onboarding-start-browsing-button-label = Comenciér a navigar
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -39,13 +45,6 @@ onboarding-start-browsing-button-label = Comenciér a navigar
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Navigacion privâ
-
-onboarding-addons-title = Agllètons
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sincronisar
 
 
 ## Message strings belonging to the Return to AMO flow

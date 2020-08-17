@@ -2,16 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Iqui demôront los dragons
-about-config-warning-checkbox = Me rapèlar la prochèna vês, mèrci!
-about-config-warning-button = Accèpto lo risco
-
-about-config2-title = Règllâjos avanciês
-
-about-config-search-input =
-    .placeholder = Chèrchér
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-button = Accèptar lo risco et continuar
@@ -19,13 +9,6 @@ about-config-intro-warning-button = Accèptar lo risco et continuar
 ##
 
 about-config-show-all = Tot montrar
-
-about-config-pref-add = Apondre
-about-config-pref-toggle = Envèrsar
-about-config-pref-edit = Èditar
-about-config-pref-save = Sârvar
-about-config-pref-reset = Recomenciér
-about-config-pref-delete = Garar
 
 about-config-pref-add-button =
     .title = Apondre

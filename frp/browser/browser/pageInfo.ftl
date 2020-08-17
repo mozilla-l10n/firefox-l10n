@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Sârvar imâge sos...
     .accesskey = e
-media-preview =
-    .value = Prèvisualisacion de mèdia:
 
 perm-tab =
     .label = Pèrmissions
@@ -107,7 +105,6 @@ security-view-privacy =
 security-site-data-no = Non
 
 image-size-unknown = Enconyu
-not-set-verified-by = Pas spècifiâ
 page-info-not-specified =
     .value = Pas spècifiâ
 not-set-alternative-text = Pas spècifiâ

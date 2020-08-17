@@ -26,8 +26,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.alwaysActivate.label             "Tojòrn activar">
-
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -36,9 +34,6 @@
 
 
 <!-- ratings -->
-
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Anular">
 
 
 <!-- list sorting -->

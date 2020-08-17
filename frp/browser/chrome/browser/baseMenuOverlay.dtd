@@ -2,50 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Rèduire">
-<!ENTITY bringAllToFront.label    "Betar tot davant">
-<!ENTITY zoomWindow.label         "Zoom">
-<!ENTITY windowMenu.label         "Fené‛tra">
-
-<!ENTITY helpMenu.label           "Ede"> 
-<!ENTITY helpMenu.accesskey       "E"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Ede"> 
-<!ENTITY helpMenuWin.accesskey    "E">
-
 <!ENTITY aboutProduct2.label      "A propôs de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "Ede de &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "E">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Racorsa de claviér">
-<!ENTITY helpKeyboardShortcuts.accesskey "R">
-
-<!ENTITY helpSafeMode.label       "Renrayér aglètons dèsacitvâs…">
-<!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Renrayér aglètons acitvâs…">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "Enformacions de dèpanajo">
-<!ENTITY helpTroubleshootingInfo.accesskey  "E">
-
-<!ENTITY helpFeedbackPage.label      "Balyér vo‛tr’opinion…">
-<!ENTITY helpFeedbackPage.accesskey  "B">
-
-<!ENTITY helpShowTour2.label            "Visita de &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "V">
 
 <!ENTITY preferencesCmdMac.label        "Prèfèrences…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Sèrviços">
 
 <!ENTITY hideThisAppCmdMac2.label       "Recondre &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Recondre los âtros">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 

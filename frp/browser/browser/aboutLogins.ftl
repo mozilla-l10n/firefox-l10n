@@ -61,6 +61,8 @@ login-item-cancel-button = Anular
 ## Master Password notification
 
 
+## Primary Password notification
+
 ## Password Sync notification
 
 
@@ -76,4 +78,6 @@ login-item-cancel-button = Anular
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 
