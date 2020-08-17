@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Alzar como…
     .accesskey = u
-media-preview =
-    .value = Vista preliminar d'o fichero multimedia:
 
 perm-tab =
     .label = Permisos
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Sí, las cookies
 security-site-data-no = No
 
 image-size-unknown = Desconoixiu
-not-set-verified-by = No s'ha especificau
 page-info-not-specified =
     .value = No s'ha especificau
 not-set-alternative-text = No s'ha especificau
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Modo de compatibilidat con extensions no estandar
 general-strict-mode =
     .value = Modo de compatibilidad d'os estandars
-security-no-owner = Iste puesto web no proporciona información sobre o suyo amo.
 page-info-security-no-owner =
     .value = Iste puesto web no proporciona información sobre o suyo amo.
 media-select-folder = Trigue una carpeta a on alzar as imachens

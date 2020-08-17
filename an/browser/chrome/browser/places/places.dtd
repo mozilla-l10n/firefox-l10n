@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Trigar fichero…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.deleteDomainData.label     "Xublidar iste puesto web">
-<!ENTITY cmd.deleteDomainData.accesskey "X">
-
-<!ENTITY cmd.open.label                  "Ubrir">
-<!ENTITY cmd.open.accesskey              "U">
-<!ENTITY cmd.open_window.label           "Ubrir en una finestra nueva">
-<!ENTITY cmd.open_window.accesskey       "b">
-<!ENTITY cmd.open_private_window.label     "Ubrir en una nueva finestra privada">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Ubrir en una pestanya nueva">
-<!ENTITY cmd.open_tab.accesskey          "v">
-<!ENTITY cmd.open_all_in_tabs.label      "Ubrir tot en pestanyas">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Propiedatz">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Ordenar por nombre">
-<!ENTITY cmd.sortby_name.accesskey          "n">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Adhibir un nuevo marcapachinas…">
-<!ENTITY cmd.new_bookmark.accesskey        "n">
-<!ENTITY cmd.new_folder.label              "Creyar una nueva carpeta…">
-<!ENTITY cmd.new_folder.accesskey          "u">
-<!ENTITY cmd.context_new_folder.accesskey  "c">
-<!ENTITY cmd.new_separator.label           "Adhibir un nuevo separador">
-<!ENTITY cmd.new_separator.accesskey       "v">
-
 <!ENTITY col.name.label          "Nombre">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Adreza">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Numero de visitas">
 <!ENTITY col.dateadded.label     "Calendata d'adición">
 <!ENTITY col.lastmodified.label  "Zaguera modificación">
-
-<!ENTITY historySearch.placeholder  "Buscar en l'historial">
-<!ENTITY bookmarksSearch.placeholder  "Trobar marcapachinas">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Seleccione un elemento ta veyer y editar as suyas propiedatz">
 
-<!ENTITY view.label               "Veyer">
-<!ENTITY view.accesskey           "r">
-<!ENTITY byDate.label             "Por calendata">
-<!ENTITY byDate.accesskey         "P">
-<!ENTITY bySite.label             "Por puesto">
-<!ENTITY bySite.accesskey         "p">
-<!ENTITY byMostVisited.label      "Por numero de visitas">
-<!ENTITY byMostVisited.accesskey  "v">
-<!ENTITY byLastVisited.label      "Por calendata d'a zaguera visita">
-<!ENTITY byLastVisited.accesskey  "g">
-<!ENTITY byDayAndSite.label       "Por calendata y sitio">
-<!ENTITY byDayAndSite.accesskey   "t">

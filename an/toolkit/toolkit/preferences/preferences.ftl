@@ -14,6 +14,7 @@ pw-erased-ok = Ha eliminau a suya clau mayestra.  { pw-empty-warning }
 pw-not-wanted = Ficacio! Ha decidiu de no utilizar una clau mayestra. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Se troba en modo FIPS. FIPS requiere una clau mayestra no vueda.
+
 pw-change-success-title = O cambeo de clau s'ha realizau con exito
 pw-change-failed-title = O cambeo de clau ha fallau
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Cambiar a clau mayestra
+
 set-password-old-password = Clau actual:
 set-password-new-password = Escribir una nueva clau:
 set-password-reenter-password = Tornar a escribir a clau:
@@ -31,6 +33,7 @@ master-password-warning = Asegure-se de remerar a clau mayestra. Si la ixuplida,
 
 remove-password =
     .title = Eliminar a clau mayestra
+
 remove-info =
     .value = Ha d'introducir a suya clau actual ta abanzar:
 remove-warning1 = A suya clau mayestra se ferá servir ta protecher información confidencial como as claus d'os puestos web.

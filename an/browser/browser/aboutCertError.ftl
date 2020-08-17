@@ -63,7 +63,6 @@ proxyResolveFailure-title = No s'ha puesto trobar o servidor proxy
 redirectLoop-title = A pachina no ye reendrezando adequadament
 unknownSocketType-title = Respuesta inasperada d'o servidor
 nssFailure2-title = Ha fallau la connexión segura
-cspBlocked-title = S'ha blocau por a politica de seguranza de conteniu
 corruptedContentError-title = Error en o conteniu d'a pachina
 remoteXUL-title = XUL remoto
 sslv3Used-title = No ye posible connectar de traza segura

@@ -67,6 +67,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Yes mirando los inicios de sesión que has alzaus? Configura { -sync-brand-short-name }
+
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
 login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la sesión dende lo dispositivo an que tiens alzaus los inicios de sesión
@@ -108,6 +109,9 @@ login-item-time-used = Zaguer uso: { DATETIME($timeUsed, day: "numeric", month: 
 ## Master Password notification
 
 master-password-notification-message = Escribe la clau mayestra pa veyer los inicios de sesión y claus alzaus
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Iniciar sesión
     .accesskey = I
@@ -163,4 +167,6 @@ about-logins-error-message-default = S'ha produciu una error quan se miraba d'al
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

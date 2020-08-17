@@ -8,13 +8,17 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Informe pa { $addon-name }
+
 abuse-report-title-extension = Informar d'esta extensión a { -vendor-short-name }
 abuse-report-title-theme = Informar d'este tema a { -vendor-short-name }
 abuse-report-subtitle = Quál ye lo problema?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = per <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore = No sabe qué problema triar? <a data-l10n-name="learnmore-link">Descubre mas sobre cómo informar d'extensions y temas</a>
+
 abuse-report-submit-description = Describir lo problema (opcional)
 abuse-report-textarea =
     .placeholder = Pa nusatros ye mas facil apanyar un problema si tenemos detalles especificos. Describa lo suyo problema. Gracias per aduyar-nos a que Internet siga estando saludable.
@@ -53,34 +57,34 @@ abuse-report-messagebar-action-cancel = Cancelar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Danya lo mío equipo y información
 abuse-report-damage-reason-v2 = Ha danyau lo mío ordinador u los míos datos s'han visto compromesos
 abuse-report-damage-example = Eixemplo: instalar malware u furtar información
-abuse-report-spam-reason = Creya spam u publicidat
+
 abuse-report-spam-reason-v2 = Contiene spam u inserta publicidat no deseyada
 abuse-report-spam-example = Eixemplo: fica publicidat en pachinas web
-abuse-report-settings-reason = Ha cambiau lo mío buscador, pachina d'inicio u pachina Nueva pestanya sin informar-me ni preguntar-me
+
 abuse-report-settings-reason-v2 = Ha cambiau la mía buscador, pachina d'inicio u nueva pestanya sin informar-me ni preguntar-me
 abuse-report-settings-suggestions = Antes d'informar sobre la extensión, prebe a cambiar la configuración:
 abuse-report-settings-suggestions-search = Cambie la configuración predeterminada d'as busquedas
 abuse-report-settings-suggestions-homepage = Cambie la pachina d'inicio y de nueva pestanya
-abuse-report-deceptive-reason = Pretender estar bella cosa que no ye
+
 abuse-report-deceptive-reason-v2 = Simula estar bella cosa que no ye
 abuse-report-deceptive-example = Eixemplo: descripción u imachens erronias
-abuse-report-broken-reason-extension = No funciona, pencha los puestos web u ralentiza { -brand-product-name }
-abuse-report-broken-reason-theme = No funciona u no se visualiza correctament
+
 abuse-report-broken-reason-extension-v2 = No funciona, provoca errors en puestos u ralentiza { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = No funciona u estorba lo que amuestra lo navegador
 abuse-report-broken-example = Eixemplo: la función ye lenta, dificil d'usar u no funciona; bellas partes d'os puestos web no se cargan u s'amuestran de forma incorrecta
 abuse-report-broken-suggestions-extension = Pareixe que ha identificau un problema. Amás de ninviar un informe per aquí, lo millor pa aconseguir que se resuelta un problema de funcionalidat ye contactar con o desembolicador d'a extensión. <a data-l10n-name="support-link">Acceda a lo puesto web d'a extensión</a> pa aconseguir los datos de contacto d'o desembolicador.
 abuse-report-broken-suggestions-theme = Pareixe que ha identificau un problema. Amás de ninviar un informe per aquí, lo millor pa aconseguir que se resuelta un problema de funcionalidat ye contactar con o desembolicador d'o tema. <a data-l10n-name="support-link">Acceda a lo puesto web d'o tema</a> pa aconseguir los datos de contacto d'o desenvolvedor.
-abuse-report-policy-reason = Conteniu violento, ilegal u d'odeyo.
+
 abuse-report-policy-reason-v2 = Tiene conteniu d'odio, violento u ilegal
 abuse-report-policy-suggestions =
     Nota: Los problemas relacionaus con dreitos d'autor y marcas rechistradas han d'informar-se en un proceso separau.
     <a data-l10n-name="report-infringement-link">Utilice estas instruccions</a> pa
     informar d'o problema
-abuse-report-unwanted-reason = Nunca querié esta extensión y no puedo desinstalar-la
+
 abuse-report-unwanted-reason-v2 = Nunca lo querié y no sé cómo desfer-me d'ell
 abuse-report-unwanted-example = Eixemplo: una aplicación la instaló sin lo mío permiso
+
 abuse-report-other-reason = Unatra coseta
+

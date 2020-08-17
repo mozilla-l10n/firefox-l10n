@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "O nombre y localización d'a fuent d'a función mostriada.">
 <!ENTITY performanceUI.table.totalAlloc               "Total d'asignacions mostriadas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "O numbro total d'asignacions d'obchectos mostriadas en ista ubicación y en os destinatarios d'a grita.">
-<!ENTITY performanceUI.table.selfAlloc                "Asignacions mostriadas propias">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "O numbro total d'asignacions d'obchectos mostriadas en ista ubicación.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

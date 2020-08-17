@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Intenta esto: Fixar pestanya
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Per qué soi veyendo esto?
+
 cfr-doorhanger-extension-cancel-button = No pas agora
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Anyadir agora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixar esta pestanya
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Administrar achustes de recomendacions
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = No amostrar-me esta recomendación
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Saber-ne mas
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación d'extensión
     .a11y-announcement = Recomendación d'extensión disponible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+
 cfr-doorhanger-pintab-description = Obtienga acceso rapido a los suyos puestos mas visitaus. Mantienga puestos ubiertos en una pestanya (mesmo quan reinicie).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Obtienga acceso rapido a los suyos puestos m
 cfr-doorhanger-pintab-step1 = <b>Fe clic con o botón dreito</b> en a pestanya que quiers fixar.
 cfr-doorhanger-pintab-step2 = Tría <b>Fixar pestanya</b> en o menú.
 cfr-doorhanger-pintab-step3 = Si lo puesto tiene una actualización, veyerás un punto azul en a pestanya fixada.
+
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Continar
+
 
 ## Firefox Accounts Message
 
@@ -89,18 +100,24 @@ cfr-protections-panel-link-text = Saber mas
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nueva función:
+
 cfr-whatsnew-button =
     .label = Novedatz
     .tooltiptext = Novedatz
+
 cfr-whatsnew-panel-header = Novedatz
+
 cfr-whatsnew-release-notes-link-text = Consulte las notas de lanzamiento
+
 cfr-whatsnew-fx70-title = Agora, { -brand-short-name } luita mas en pro d'a suya privacidat
 cfr-whatsnew-fx70-body = La zaguera actualización millora la función de protección contra seguimiento y fa que sía mas facil que nunca la creación de claus seguras pa cada puesto.
+
 cfr-whatsnew-tracking-protect-title = Se protecha d'os elementos de seguimiento
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } bloca los elementos de seguimiento socials y entre puestos mas comuns que
     le fan seguimiento mientres navega.
 cfr-whatsnew-tracking-protect-link-text = Veyer lo suyo informe
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -111,9 +128,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Dende { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Veyer informe
+
 cfr-whatsnew-lockwise-backup-title = Alce una copia d'as suyas claus
 cfr-whatsnew-lockwise-backup-body = Agora puede chenerar claus seguras a las qualas puede acceder dende qualsequier puesto an enciete sesión.
 cfr-whatsnew-lockwise-backup-link-text = Activar copias de seguridat
+
 cfr-whatsnew-lockwise-take-title = se Leve siempre las suyas claus con ell
 cfr-whatsnew-lockwise-take-body = L'aplicación pa mobils { -lockwise-brand-short-name } le permite acceder a las suyas claus de forma segura  dende qualsequier parte.
 cfr-whatsnew-lockwise-take-link-text = Obtener l'aplicación
@@ -147,6 +166,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Detectors de ditaladas dichitals blocaus
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloca muitos detectores de ditaladas (fingerprinters) que recopilan en secreto información sobre lo suyo dispositivo y accions, pa creyar un perfil suyo con fins publicitarias.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Ditaladas dichitals
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede blocar muitos detectores de ditaladas dichitals (fingerprinters) que recopilan en secreto información sobre lo suyo dispositivo y accions, pa creyar un perfil suyo con fins publicitarias.
@@ -206,6 +226,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Veyer tot
     .accesskey = V
+
 cfr-doorhanger-milestone-close-button = Zarrar
     .accesskey = Z
 

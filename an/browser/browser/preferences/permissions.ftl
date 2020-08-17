@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor valido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Excepcions - Bloqueyo de contenius
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Has desactivau lo bloqueyo de contenius en estes puestos web.
-
 permissions-exceptions-etp-window =
     .title = Excepcions pa la protección de seguimiento millorada
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden instalar complementos. Escriba l'adreza exacta d'o puesto que quiere permitir y prete Permitir.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Excepcions - Lectura automatica
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Puetz indicar qués puestos web tienen siempre u nunca lo permiso pa reproducir automaticament conteniu multimedia con son. Escribe las adrezas d'os puestos que queretz blocar u autorizar.
 
 ## Site Permissions - Autoplay
 

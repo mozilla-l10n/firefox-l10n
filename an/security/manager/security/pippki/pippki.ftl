@@ -21,6 +21,9 @@ change-password-reenter = Clau nueva (unatra vegada):
 reset-password-window =
     .title = Restablir a clau mayestra
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Restablir
 reset-password-text = Si restableix a suya clau mayestra, todas as claus de web y de correu electronico, os datos d'os formularios, os certificaus personals y as claves privadas almagazenaus serán ixuplidaus. Ye seguro que quiere restablir a suya clau mayestra?

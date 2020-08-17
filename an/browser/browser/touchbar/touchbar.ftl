@@ -13,13 +13,13 @@ touchbar-fullscreen-exit = Salir d'a pantalla completa
 find = Mirar
 new-tab = Pestanya nueva
 add-bookmark = Anyadir un marcapachinas
-open-bookmarks-sidebar = Ubrir la barra lateral de marcapachinas
 reader-view = Vista de lectura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Mirar u escribir adreza
 share = Compartir
 close-window = Zarrar la finestra
 open-sidebar = Barras laterals
+
 # This string describes shortcuts for search.
 search-popover = Mirar alcorces
 # Describes searches limited to a specific scope
