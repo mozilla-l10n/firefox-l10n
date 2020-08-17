@@ -146,3 +146,17 @@ key-does-not-expire = Kluč njespadnje
 
 ## Account settings export output
 
+# Strings used in trust.jsm
+key-valid-unknown = njeznaty
+key-valid-invalid = njepłaćiwy
+key-valid-disabled = znjemóžnjeny
+key-valid-revoked = wotwołany
+key-valid-expired = spadnjeny
+key-trust-untrusted = dowěry njehódny
+key-trust-full = dowěry hódny
+key-trust-group = (skupina)
+gnupg-file = GnuPG-dataje
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Powěsć pósłać
+msg-compose-details-button-label = Podrobnosće…
+msg-compose-details-button-access-key = P
