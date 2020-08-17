@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Ключові слова Вкладень
+
 attachment-reminder-label = { -brand-short-name } буде попереджати вас про відсутні вкладення, якщо у листі, який ви збираєтесь надіслати, є одне з цих ключових слів.
+
 keyword-new-button =
     .label = Нове…
     .accesskey = Н
+
 keyword-edit-button =
     .label = Змінити…
     .accesskey = З
+
 keyword-remove-button =
     .label = Видалити
     .accesskey = В
+
 new-keyword-title = Нове ключове слово
 new-keyword-label = Ключове слово:
+
 edit-keyword-title = Редагувати ключове слово
 edit-keyword-label = Ключове слово:

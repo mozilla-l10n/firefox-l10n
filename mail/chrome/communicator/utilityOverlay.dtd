@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Редагування">
 <!ENTITY editMenu.accesskey        "Р">
 <!ENTITY undoCmd.label            "Скасувати">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "с">
 <!ENTITY redoCmd.label            "Повторити">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "в">
-<!ENTITY cutCmd.label            "Вирізати">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "и">
-<!ENTITY copyCmd.label            "Копіювати">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "п">
-<!ENTITY pasteCmd.label            "Вставити">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "т">
 <!ENTITY deleteCmd.label          "Видалити">
 <!ENTITY deleteCmd.accesskey        "В">
-<!ENTITY selectAllCmd.label          "Виділити все">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "с">
 <!ENTITY preferencesCmd2.label "Налаштування">
 <!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label       "Налаштування">

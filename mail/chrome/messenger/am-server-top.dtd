@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "повідомлень">
 <!ENTITY alwaysAuthenticate.label "Завжди вимагати автентифікацію при з'єднанні з цим сервером">
 <!ENTITY alwaysAuthenticate.accesskey "З">
-<!ENTITY newsrcFilePath.label "файл newsrc:">
-<!ENTITY newsrcPicker.label "Вибрати файл newsrc">
 <!ENTITY newsrcFilePath1.label "Файл News.rc:">
 <!ENTITY newsrcPicker1.label "Обрати файл News.rc">
 <!ENTITY abbreviate.label "Показувати назви груп новин як:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Додатково…">
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY serverDefaultCharset2.label "Типове кодування шрифту:">
-<!ENTITY localPath.label "Локальна тека:">
 <!ENTITY localPath1.label "Локальний каталог:">
 <!ENTITY localFolderPicker.label "Розташування локальних тек">
 <!ENTITY browseFolder.label "Огляд…">

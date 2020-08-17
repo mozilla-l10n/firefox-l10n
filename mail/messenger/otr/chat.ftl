@@ -3,12 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 state-label = Стан шифрування:
+
 start-text = Почати зашифровану розмову
+
 start-label =
     .label = { start-text }
+
 start-tooltip =
     .tooltiptext = { start-text }
+
 end-label =
     .label = Закінчити зашифровану розмову
+
 auth-label =
     .label = Підтвердити ідентифікатор контакту

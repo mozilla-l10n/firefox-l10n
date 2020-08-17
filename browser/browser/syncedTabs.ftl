@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Синхронізовані вкладки
 synced-tabs-sidebar-noclients-subtitle = Хочете побачити тут свої вкладки з інших пристроїв?
-synced-tabs-sidebar-notsignedin = Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.
 synced-tabs-sidebar-intro = Переглядайте список вкладок з ваших інших пристроїв.
 synced-tabs-sidebar-unverified = Ваш обліковий запис потребує підтвердження.
 synced-tabs-sidebar-notabs = Немає відкритих вкладок

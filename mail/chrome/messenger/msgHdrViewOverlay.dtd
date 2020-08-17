@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Архівувати">
 <!ENTITY hdrArchiveButton1.tooltip "Архівувати це повідомлення">
-<!ENTITY hdrOpenConversationButton1.label "Розмова">
-<!ENTITY hdrOpenConversationButton1.tooltip "Показати розмову цього повідомлення">
 <!ENTITY hdrSmartReplyButton1.label "Розумна відповідь">
 <!ENTITY hdrReplyButton1.label "Відповісти">
 <!ENTITY hdrReplyButton2.tooltip "Відповісти автору цього повідомлення">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Відповісти списку розсилки">
 <!ENTITY hdrFollowupButton1.label "Відповісти в групу">
 <!ENTITY hdrFollowupButton1.tooltip "Опублікувати відповідь в цій групі новин">
-<!ENTITY hdrMenuForwardButton.label "Переслати як">
 <!ENTITY hdrForwardButton1.label "Переслати">
 <!ENTITY hdrForwardButton1.tooltip "Переслати це повідомлення">
 <!ENTITY hdrJunkButton1.label "Спам">

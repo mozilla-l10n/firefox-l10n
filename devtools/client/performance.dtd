@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Назва і розташування джерела виміряної функції.">
 <!ENTITY performanceUI.table.totalAlloc               "Всього виміряних алокацій">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Загальна кількість виміряних алокацій об'єкта в цьому розташуванні та у викликаних методах.">
-<!ENTITY performanceUI.table.selfAlloc                "Власні виміряні алокації">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Кількість виміряних алокацій в цьому розташуванні.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
