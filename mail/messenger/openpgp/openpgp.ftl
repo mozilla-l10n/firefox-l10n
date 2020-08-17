@@ -133,6 +133,11 @@ openpgp-key-man-key-props =
 openpgp-key-man-key-more =
     .label = Mais
     .accesskey = M
+openpgp-key-man-view-photo =
+    .label = ID de foto
+    .accesskey = f
+openpgp-key-man-ctx-view-photo-label =
+    .label = Ver ID de foto
 openpgp-key-man-show-invalid-keys =
     .label = Exibir chaves inválidas
     .accesskey = x
@@ -156,6 +161,8 @@ openpgp-key-man-filter-label =
     .placeholder = Procurar chaves
 openpgp-key-man-select-all-key =
     .key = T
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-key-details-title =
     .title = Propriedades da chave
 openpgp-key-details-signatures-tab =
@@ -375,6 +382,7 @@ key-man-button-export-sec-key = Exportar chaves &secretas
 key-man-button-export-pub-key = Exportar só chaves &públicas
 key-man-button-refresh-all = &Atualizar todas as chaves
 key-man-loading-keys = Carregando chaves, aguarde…
+ascii-armor-file = Arquivos ASCII blindados (*.asc)
 no-key-selected = Você deve selecionar pelo menos uma chave para executar a operação selecionada
 export-to-file = Exportar chave pública para arquivo
 export-keypair-to-file = Exportar chaves secretas e públicas para arquivo
@@ -456,6 +464,7 @@ not-first-block = Erro - Primeiro bloco OpenPGP não é bloco de chave pública
 import-key-confirm = Importar chave(s) pública(s) incorporada(s) na mensagem?
 fail-key-import = Erro - Falha na importação de chave
 file-write-failed = Falha ao gravar no arquivo { $output }
+no-pgp-block = Erro - Não foi encontrado nenhum bloco blindado válido de dados OpenPGP
 confirm-permissive-import = Falha na importação. A chave que você está tentando importar pode estar corrompida ou usar atributos desconhecidos. Quer tentar importar as partes que estão corretas? Isso pode resultar na importação de chaves incompletas e inutilizáveis.
 # Strings used in trust.jsm
 key-valid-unknown = desconhecida
@@ -545,6 +554,7 @@ do-import-one = Importar { $name } ({ $id })?
 cant-import = Erro ao importar chave pública
 unverified-reply = Parte deslocada da mensagem (resposta) provavelmente foi modificada
 key-in-message-body = Uma chave foi encontrada no corpo da mensagem. Clique em 'Importar chave' para importar a chave
+sig-mismatch = Erro - Assinatura não combina
 invalid-email = Erro - Endereço(s) de e-mail inválido(s)
 attachment-pgp-key =
     O anexo '{ $name }' que você está abrindo parece ser um arquivo de chave OpenPGP.
@@ -552,6 +562,8 @@ attachment-pgp-key =
 dlg-button-view = &Ver
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Mensagem descriptografada (restaurado o formato de e-mail PGP corrompido, provavelmente causado por um servidor Exchange antigo, de modo que o resultado pode não ser perfeito para ler)
+# Strings used in encryption.jsm
+not-required = Erro - nenhuma criptografia necessária
 # Strings used in windows.jsm
 no-photo-available = Nenhuma foto disponível
 error-photo-path-not-readable = O caminho da foto '{ $photo }' não é legível
