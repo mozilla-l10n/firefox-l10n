@@ -58,30 +58,19 @@ abuse-report-messagebar-action-cancel = Cancelar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Daña mi computador y datos
-
 abuse-report-damage-reason-v2 = Dañó mi computador o comprometió mis datos
 abuse-report-damage-example = Ejemplo: Malware inyectado o datos robados
 
-abuse-report-spam-reason = Crea spam o publicidad
-
 abuse-report-spam-reason-v2 = Contiene spam o inserta publicidad no deseada
 abuse-report-spam-example = Ejemplo: Inserta publicidad en sitios web
-
-abuse-report-settings-reason = Cambió mi motor de búsquedas, página de inicio o página de nueva pestaña sin informar o preguntar
 
 abuse-report-settings-reason-v2 = Cambió mi buscador, página de inicio o nueva pestaña sin informarme ni preguntarme
 abuse-report-settings-suggestions = Antes de reportar la extensión, puedes intentar cambiar tus ajustes:
 abuse-report-settings-suggestions-search = Cambia tus ajustes de búsqueda predeterminados
 abuse-report-settings-suggestions-homepage = Cambia tu página de inicio y nueva pestaña
 
-abuse-report-deceptive-reason = Pretende ser algo que no es
-
 abuse-report-deceptive-reason-v2 = Dice ser algo que no es
 abuse-report-deceptive-example = Ejemplo: Descripción o imágenes engañosas
-
-abuse-report-broken-reason-extension = No funciona, provoca errores en sitios o enlentece { -brand-product-name }
-abuse-report-broken-reason-theme = No funciona o corrompe la vista del navegador
 
 abuse-report-broken-reason-extension-v2 = No funciona, provoca errores en sitios o enlentece { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = No funciona o corrompe la vista del navegador
@@ -89,12 +78,8 @@ abuse-report-broken-example = Ejemplo: Las funciones son lentas, difíciles de u
 abuse-report-broken-suggestions-extension = Parece que has identificado un bug. Junto con enviar un reporte aquí, la mejor forma de que un problema de funcionalidad sea resuelto es contactar al desarrollador de la extensión. <a data-l10n-name="support-link">Visita el sitio web de la extensión</a> para conseguir la información del desarrollador.
 abuse-report-broken-suggestions-theme = Parece que has identificado un bug. Junto con enviar un reporte aquí, la mejor forma de que un problema de funcionalidad sea resuelto es contactar al desarrollador del tema. <a data-l10n-name="support-link">Visita el sitio web del tema</a> para conseguir la información del desarrollador.
 
-abuse-report-policy-reason = Contenido de odio, violencia o ilegal
-
 abuse-report-policy-reason-v2 = Muestra contenido de odio, violencia o ilegal
 abuse-report-policy-suggestions = Nota: Problemas de derechos de autor y uso de marca deben ser reportados en un proceso separado. <a data-l10n-name="report-infringement-link">Usa estas instrucciones</a> para reportar el problema.
-
-abuse-report-unwanted-reason = Extensión no deseada y que no puedes desinstalar
 
 abuse-report-unwanted-reason-v2 = Nunca lo quise y no sé cómo deshacerme de él
 abuse-report-unwanted-example = Ejemplo: Una aplicación instalada sin mi permiso
