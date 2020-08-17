@@ -43,9 +43,6 @@
 <!ENTITY notCached.longDesc "<p>Takadda hãantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonse.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Ceeci koyne. &brandShortName; ga wiri ka dobu feeri nda ga moɲoo zumandi taaga. <button id='wifi'>Wi-Fi tunandi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Taare wa šendaa woo alhabar tee war nungoo maykey se.</li> </ul>">

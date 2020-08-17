@@ -49,7 +49,6 @@ proxyResolveFailure-title = Mana hin ka duu feršikaw tokoraa
 redirectLoop-title = Moɲoo woo ši ma bisandi taaga boryo
 unknownSocketType-title = Zaabi kaŋ mana hongandi hun feršikaa do
 nssFailure2-title = Ciyari saajante kay
-cspBlocked-title = Gagayandi gundekuna saajaw alhukum bande
 corruptedContentError-title = Gundekuna laybante firka
 remoteXUL-title = XUL moora
 sslv3Used-title = Ši hin ka ciyari saajante tee

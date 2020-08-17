@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tuku suuba…">
 <!ENTITY cmd.restoreFromFile.accesskey  "s">
 
-<!ENTITY cmd.deleteDomainData.label     "Dirɲa nungoo woo">
-<!ENTITY cmd.deleteDomainData.accesskey "D">
-
-<!ENTITY cmd.open.label                  "Feeri">
-<!ENTITY cmd.open.accesskey              "F">
-<!ENTITY cmd.open_window.label           "Feeri zanfun taaga ra">
-<!ENTITY cmd.open_window.accesskey       "t">
-<!ENTITY cmd.open_private_window.label     "Feeri sutura zanfun taaga ra">
-<!ENTITY cmd.open_private_window.accesskey "s">
-<!ENTITY cmd.open_tab.label              "Feeri nor loku taaga ra">
-<!ENTITY cmd.open_tab.accesskey          "t">
-<!ENTITY cmd.open_all_in_tabs.label      "Kul feeri nor lokey ra">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "f">
-
-<!ENTITY cmd.properties.label      "Mayrawey">
-<!ENTITY cmd.properties.accesskey  "M">
-
-<!ENTITY cmd.sortby_name.label              "Fay maa bande">
-<!ENTITY cmd.sortby_name.accesskey          "F">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Doo-šilbay taaga…">
-<!ENTITY cmd.new_bookmark.accesskey        "t">
-<!ENTITY cmd.new_folder.label              "Foolo taaga…">
-<!ENTITY cmd.new_folder.accesskey          "F">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Fayari taaga">
-<!ENTITY cmd.new_separator.accesskey       "t">
-
 <!ENTITY col.name.label          "Maa">
 <!ENTITY col.tags.label          "Kanjey">
 <!ENTITY col.url.label           "Gorodoo">
@@ -91,15 +62,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Hayiize suuba k'a guna nda ka nga mayrawey fasal.">
 
-<!ENTITY view.label               "Guna">
-<!ENTITY view.accesskey           "G">
-<!ENTITY byDate.label             "Han bande">
-<!ENTITY byDate.accesskey         "H">
-<!ENTITY bySite.label             "Nungu bande">
-<!ENTITY bySite.accesskey         "N">
-<!ENTITY byMostVisited.label      "Narumi hinna bande">
-<!ENTITY byMostVisited.accesskey  "N">
-<!ENTITY byLastVisited.label      "Narumi kokorante bande">
-<!ENTITY byLastVisited.accesskey  "k">
-<!ENTITY byDayAndSite.label       "Han nda nungu bande">
-<!ENTITY byDayAndSite.accesskey   "H">

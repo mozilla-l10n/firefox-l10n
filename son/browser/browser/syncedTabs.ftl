@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Kanji hangantey
 synced-tabs-sidebar-noclients-subtitle = Mar ga boona ka dii war jinay taney kanjey ne?
-synced-tabs-sidebar-notsignedin = Huru ka dii kanji maašeede foo war jinay taney ga.
 synced-tabs-sidebar-notabs = Kanji feerante kul šii
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } ibaayey feeri
 synced-tabs-sidebar-tabsnotsyncing = Kanji hangandiyan tunandi ka dii kanjey maašeede jinay taney ga.

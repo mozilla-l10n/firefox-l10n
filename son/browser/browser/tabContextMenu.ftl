@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = Ganandi zanfun taagaa ra
     .accesskey = z
-undo-close-tab =
-    .label = Kanji daabuyan taafeeri
-    .accesskey = t
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Kanjoo daabu
     .accesskey = d

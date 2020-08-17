@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Gaabu sanda…
     .accesskey = e
-media-preview =
-    .value = Alhabar goyjinay moo-fur:
 
 perm-tab =
     .label = Duɲeyaney
@@ -116,7 +114,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Šibayante
-not-set-verified-by = Ši tabatante
 page-info-not-specified =
     .value = Ši tabatante
 not-set-alternative-text = Ši tabatante
@@ -141,7 +138,6 @@ general-quirks-mode =
     .value = Jijiriyan alhaali
 general-strict-mode =
     .value = Dumi tabatante alhaaley
-security-no-owner = Interneti nungoo woo ši mayray alhabar noo.
 page-info-security-no-owner =
     .value = Interneti nungoo woo ši mayray alhabar noo.
 media-select-folder = Foolo suuba ka biyey gaabu

@@ -12,23 +12,13 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Ši hin ka ciya">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Aderesoo ga dafandi">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY fileNotFound.title "Tuku mana diyandi">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Tuku maɲoo guna harfu beerandiyan wala hantum firkayaŋ še.</li> <li>Guna ka dii wala tukooo mana ganandi, maa-barmandi, wala tuusandi.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Tukoo duuyanoo mongu">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>A hin ka tee kaŋ a n' ka hun, ka ganandi wala duɲeyaney ga ganji a ma duwandi.</li> </ul>">
-
-<!ENTITY generic.title "Jalla!">
 
 <!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
@@ -37,65 +27,35 @@
 
 <!ENTITY openPortalLoginPage.label2 "Sankaa huruyan tammaasa moɲoo feeri">
 
-<!ENTITY netInterrupt.title "Ciyaroo dunbu">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Takaddaa waatoo ben">
 
 <!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonše.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
 
-<!ENTITY netOffline.title "Bila nda ciyari alhaali">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>&quot;Ceeci koyne&quot; naagu ka bere ciyari alhaali ga nda ka moɲoo zumandi taaga.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> </ul>">
-
-<!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Ciyari batuyan waatoo bisa">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Aderesoo mana fahamandi">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>War ga hima ka goyjinaw waani foo sinji ka aderesoo feeri.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Feršikaw tokoraa ga wanji ciyarey ga">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Guna wala tokore alhaaley k'alhakiika wal'i ga boori.</li> <li>War feršikaw juwalkaa hãa wala feršikaw tokoraa goo goy ra.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Mana hin ka duu feršikaw tokoraa">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Guna wala tokore alhaaley k'alhakiika wal'i ga boori.</li> <li>Guna wala war ordinateroo goo nda sankay ciyari goyante.</li> <li>Guna wala nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, m'alhakiika wala &brandShortName; goo nda fondo ka huru tataaroo ra.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Moɲoo woo ši ma bisandi taaga boryo">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Cee fooyaŋ šenday ga tee nda war na aleewawey kayandi wal'i hode.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Zaabi kaŋ mana hongandi hun feršikaa do">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Guna k'alhakiika wala boŋ-saajaw juwalkaw sinjandi.</li> <li>Woo sotoloo ga hin ka tee hanseyan dumi foo kaŋ fondaa ši hennay ga bara feršikaa ga.</li> </ul>">
-
-<!ENTITY nssFailure2.title "Ciyari saajante kay">
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Moɲoo kaŋ war ga ceeci k'a guna ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi</li> <li>Taare war interneti nungu koyey cee ka šendaa woo bayrandi i se.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Nungoo ši duwandi waati foo, wala a goo goy warga ra. A ceeci koyne nd'a too kayna.</li> <li>Nda war mana hin ka moɲey zumandi, guna wala war ordinateroo sanka ga ciya.</li> <li>Nda nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, w'alhakiika kaŋ goo &brandShortName; nda fondo ka huru tataaroo ra.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Gundekuna laybante firka">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">
 
@@ -103,11 +63,7 @@
 <!ENTITY errorReporting.automatic2 "Firkawey bangandi ka Mozilla faaba ka dii nungu laaley nda k'i gagay">
 <!ENTITY errorReporting.learnMore "Bay ka tonton…">
 
-<!ENTITY remoteXUL.title "XUL moora">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Ši hin ka ciyari saajante tee">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -117,8 +73,6 @@
      tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.copyToClipboard.label "Hantumoo berandi deeji-walhaa ga">
-
-<!ENTITY inadequateSecurityError.title "War ciyaroo manti saajante">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ɲooje bayhaya aššil:
-about-telemetry-show-current-ping-data = Sohõda ɲooje bayhaya
 about-telemetry-show-archived-ping-data = Ɲooje bayhaya jisante
 about-telemetry-show-subsession-data = Batu-ize bayhayey cebe
 about-telemetry-choose-ping = Ɲooje suuba:

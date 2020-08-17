@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Leeti goyoo maaɲoo nda aššil gorodogoo.">
 <!ENTITY performanceUI.table.totalAlloc               "Leeti fersey kul">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Jinay fersey kaŋ leetandi gorodogoo woo ga nda ciyarey ra hinnaa kul.">
-<!ENTITY performanceUI.table.selfAlloc                "Boŋ-leetiyan fersey">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Jinay fersey kaŋ leetandi gorodogoo woo ga hinnaa.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

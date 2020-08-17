@@ -90,6 +90,8 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -142,6 +144,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Kayandi sanda tilasu ceecijinay
     .accesskey = t
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -208,8 +217,10 @@ popup-all-windows-shared = Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ceeci wala aderesu dam
+
 urlbar-placeholder =
     .placeholder = Ceeci wala aderesu dam
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ceecijaw goo juwal moora cire
 urlbar-switch-to-tab =

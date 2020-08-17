@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Suubarey
-           *[other] Ibaayey
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Suubarey
@@ -286,10 +279,6 @@ update-application-use-service =
     .label = Goy bandafaari zaa ka taagarandirey sinji
     .accesskey = b
 
-update-enable-search-update =
-    .label = Ceecijinawey ma taagandi ngi boŋ se
-    .accesskey = a
-
 ## General Section - Performance
 
 performance-title = Teeyan sahã
@@ -417,8 +406,6 @@ containers-remove-button =
 sync-signedout-caption = War internetoo kanbe war bande
 sync-signedout-description = War doo-šilbawey, taariki, kanji, šennikufaley, tontoney nda ibaayey hangandi cere war jinawey kul ga.
 
-sync-signedout-account-title = Ciya nda { -fxaccount-brand-name } foo
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -437,19 +424,12 @@ sync-mobile-promo = Firefox zumandi <img data-l10n-name="android-icon"/> <a data
 sync-profile-picture =
     .tooltiptext = Alhaali bii barmay
 
-sync-disconnect =
-    .label = Ciyari dunbu…
-    .accesskey = d
-
 sync-signedin-unverified = { $email } mana korosandi.
 sync-signedin-login-failure = War maa hantum ka ciya koyne { $email }
 
 sync-sign-in =
     .label = Huru
     .accesskey = H
-
-sync-signedin-settings-header = Sync kayandiyaney
-sync-signedin-settings-desc = Suuba woo kaŋ ga hangandi war jinawey ga nda { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -483,10 +463,6 @@ sync-device-name-save =
     .label = Gaabu
     .accesskey = b
 
-sync-tos-link = Goy kalima-izey
-
-sync-fxa-privacy-notice = Sutura laasaabay
-
 ## Privacy Section
 
 
@@ -510,6 +486,7 @@ forms-master-pw-change =
     .accesskey = T
 
 forms-master-pw-fips-title = Sohõda war goo FIPS yaayi ra. FIPS ga takaddaɲaa šennikufal kaŋ ši koonu waažibandi.
+
 forms-master-pw-fips-desc = Šennikufal mana hin ka barmay mana
 
 ## OS Authentication dialog
@@ -636,6 +613,8 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.
     .accesskey = H
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

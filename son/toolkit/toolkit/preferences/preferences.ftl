@@ -14,6 +14,7 @@ pw-erased-ok = War na war takaddaɲaa šennikufaloo tuusu.  { pw-empty-warning }
 pw-not-wanted = Yaamar: War mana soobay ka takaddaɲaa šennikufal foo goyandi. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Sohõda war goo FIPS yaayi ra. FIPS ga takaddaɲaa šennikufal kaŋ ši koonu waažibandi.
+
 pw-change-success-title = Šennikufal barmay ka boori
 pw-change-failed-title = Šennikufal mana barmay ka boori
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Takaddaɲaa šennikufal barmay
+
 set-password-old-password = Sohõda šennikufal:
 set-password-new-password = Šennikufal taaga dam:
 set-password-reenter-password = Šennikufal dam taaga:
@@ -31,6 +33,7 @@ master-password-warning = Taare alhakiika war ga honga takaddaɲaa šennikufaloo
 
 remove-password =
     .title = Takaddaɲaa šennikufal kaa
+
 remove-info =
     .value = War ga hima ka war sohõda šennikufaloo dam ka koy jine;
 remove-warning1 = War takaddaɲaa šennikufaloo ga gaa ka naanay alhabar jejebu sanda tataaru nungu šennikufaley.

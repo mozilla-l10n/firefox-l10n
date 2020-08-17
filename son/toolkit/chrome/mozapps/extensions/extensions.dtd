@@ -10,31 +10,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Tunandi">
-<!ENTITY cmd.enableAddon.accesskey            "T">
-<!ENTITY cmd.disableAddon.label               "Kayandi">
-<!ENTITY cmd.disableAddon.accesskey           "K">
-
-<!ENTITY cmd.askToActivate.label              "Hãa ka tunandi">
-<!ENTITY cmd.askToActivate.tooltip            "Hãa ka goy nda tontonoo woo cee foo kul">
-<!ENTITY cmd.alwaysActivate.label             "Tunandi waati kul">
-<!ENTITY cmd.alwaysActivate.tooltip           "Tontonoo woo ka goy waati kul">
-<!ENTITY cmd.neverActivate.label              "Ma ši tunandi abada">
-<!ENTITY cmd.neverActivate.tooltip            "Ma ši goy nda tontonoo woo abada">
-<!ENTITY cmd.stateMenu.tooltip                "Barmay nda tontonoo woo ga dira">
-
-<!ENTITY cmd.uninstallAddon.label             "Kaa">
-<!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.showPreferencesWin.label         "Suubarey">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Tontonoo woo suubarey barmay">
-<!ENTITY cmd.showPreferencesUnix.label        "Ibaayey">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Tontonoo woo ibaayey barmay">
-
-<!ENTITY cmd.showReleaseNotes.label           "Kaataray hantumey cebe">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Kaataray hantumey cebe taagandiroo woo še">
-<!ENTITY cmd.hideReleaseNotes.label           "Kaataray hantumey tugu">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Kaataray hantumey tugu taagandiroo woo še">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -46,45 +21,9 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Naŋ">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Ka tonton">
-<!ENTITY addon.details.tooltip                "Šilbayhayey cebe tontonoo woo še">
-<!ENTITY addon.unknownDate                    "Šibayante">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "IŽEENA">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(kayante)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Taagandiri">
-<!ENTITY addon.undoAction.label               "Taafeeri">
-<!ENTITY addon.undoAction.tooltip             "Teeraa woo taafeeri">
-<!ENTITY addon.undoRemove.label               "Taafeeri">
-<!ENTITY addon.undoRemove.tooltip             "Tontoni sinjantaa woo gaabu">
-
-<!ENTITY addon.install.label                  "Sinji">
-<!ENTITY addon.install.tooltip                "Tontonoo woo sinji">
-<!ENTITY addon.updateNow.label                "Taagandi sohõ">
-<!ENTITY addon.updateNow.tooltip              "Taagandiri foo sinji tontonoo woo še">
-<!ENTITY addon.includeUpdate.label            "Dam taagandiroo ra">
-<!ENTITY addon.updateAvailable.label          "Taagandiri foo ga bara">
-<!ENTITY addon.checkingForUpdates.label       "Taagandirey ceeci…">
-<!ENTITY addon.releaseNotes.label             "Kaataray hantumey:">
-<!ENTITY addon.loadingReleaseNotes.label      "Goo ma zumandi…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Alhaa naŋ, ammaa firka bangay kaataray hantumey zumandiroo waate.">
-
-<!ENTITY addon.createdBy.label                "Teekaw ">
-
-<!ENTITY settings.path.button.label           "Ceeci…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

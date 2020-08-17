@@ -23,10 +23,6 @@ connection-proxy-option-auto =
     .label = Tokore kayandiyaney boŋ honnay sankaa woo se
     .accesskey = k
 
-connection-proxy-http-share =
-    .label = Feršikaw tokoraa woo goyandi berehawey kul se
-    .accesskey = g
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
