@@ -23,4 +23,6 @@ otr-require-encryption-info =
     se ako źěl normalnego rozgrona njepokaže daniž njeprotokolěruju.
 otr-verifyNudge =
     .label = Mě pśecej na to dopomniś, njepśeglědany kontakt pśeglědowaś
+
 otr-notYetAvailable = njejo hyšći k dispoziciji
+

@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Zacyniś
     .title = Do togo wiźone palcowe wótśišće OTR
+
 finger-intro = Palcowe wóotśišće OTR-kluca z pjerwjejšnych rozgronow wót kóńca do kóńca.
+
 finger-screenName =
     .label = Kontakt
 finger-verified =
     .label = Pśespytowański status
 finger-fingerprint =
     .label = Palcowy wótśišć
+
 finger-remove =
     .label = Wubrane wótwónoźeś
+
 finger-remove-all =
     .label = Wše wótwónoźeś

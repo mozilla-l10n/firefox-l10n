@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Daś su how plony!
-about-config-warning-text = Gaž toś te rozšyrjone nastajenja změnijośo, móžo se to škódnje na stabilitu, wěstotu a wugbaśe toś togo nałoženja wustatkowaś. Wy měł jano z tym pókšacowaś, jolic sćo se wěsty, což cyniśo.
-about-config-warning-checkbox = Wobuz mě zasej pšosym!
-about-config-warning-button = Akceptěrujom riziko
-
-about-config2-title = Rozšyrjone konfiguracije
-
-about-config-search-input =
-    .placeholder = Pytaś
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Z glědanim pókšacowaś
@@ -32,13 +21,6 @@ about-config-page-title = Rozšyrjone nastajenja
 about-config-search-input1 =
     .placeholder = Mě nastajenja pytaś
 about-config-show-all = Wšykne pokazaś
-
-about-config-pref-add = Pśidaś
-about-config-pref-toggle = Pśešaltowaś
-about-config-pref-edit = Wobźěłaś
-about-config-pref-save = Składowaś
-about-config-pref-reset = Slědk stajiś
-about-config-pref-delete = Lašowaś
 
 about-config-pref-add-button =
     .title = Pśidaś

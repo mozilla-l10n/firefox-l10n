@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Klikniśo na <image data-l10n-name='addon-i
 appmenu-addon-post-install-incognito-checkbox =
     .label = Toś to rozšyrjenje w priwatnych woknach dowóliś
     .accesskey = T
-appmenu-addon-private-browsing =
-    .label = K rozšyrjenjam w priwatnych woknach přejś
-    .buttonlabel = Rozšyrjenja zastojaś
-    .buttonaccesskey = R
-    .secondarybuttonlabel = W pórěźe, som zrozměł
-    .secondarybuttonaccesskey = z
-appmenu-addon-private-browsing-message = Někotare nowe rozšyrjenja, kótarež { -brand-shorter-name } pśidawaśo, w priwatnych woknach njefunkcioněruju, snaźkuli dowólujośo to w nastajenjach.
-appmenu-addon-private-browsing-learn-more = Zgóńśo, kak se nastajenja rozšyrjenjow zastojaju.
     
 appmenu-new-tab-controlled =
     .label = Waš nowy rejtarik jo se změnił.

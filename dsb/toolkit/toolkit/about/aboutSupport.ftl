@@ -4,6 +4,7 @@
 
 page-title = Informacije za rozwězowanje problemow
 page-subtitle = Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja qó { -brand-short-name }, woglědajśo k našomu <a data-l10n-name="support-link">pódpěrańskemu websydłoju</a>.
+
 crashes-title = Rozpšawy wowalenjow
 crashes-id = ID rozpšawy
 crashes-send-date = Wótpósłany
@@ -104,8 +105,6 @@ graphics-desktop-environment = Desktopowa wokolina
 place-database-title = Datowa banka historije a cytańskich znamjenjow
 place-database-integrity = Integrita
 place-database-verify-integrity = Integritu pśeglědowaś
-js-title = JavaScript
-js-incremental-gc = Inkrementelny GC
 a11y-title = Bźezbariernosć
 a11y-activated = Aktiwěrowany
 a11y-force-disabled = Bźezbarjernosći zajźowaś
@@ -125,6 +124,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Wěsty modus wopytaś
 restart-in-safe-mode-label = Ze znjemóžnjonymi dodankami znowego startowaś…
+
 clear-startup-cache-title = Wopytajśo startowy pufrowak wuprozniś
 clear-startup-cache-label = Startowy pufrowak wuprozniś…
 startup-cache-dialog-title = Startowy pufrowak wuprozniś
@@ -135,7 +135,6 @@ restart-button-label = Znowego startowaś
 
 audio-backend = Awdiobackend
 max-audio-channels = Maksimalna licba kanalow
-channel-layout = Preferěrowane kanalowe wugótowanje
 sample-rate = Preferěrowana wótsmasowańska rata
 roundtrip-latency = Woběgowa latenca (standardne wótchylenje)
 media-title = Medije
@@ -190,6 +189,7 @@ report-crash-for-days =
         [few] Rozpšawy wó wowalenjach za zachadne { $days } dny
        *[other] Rozpšawy wó wowalenjach za zachadnych { $days } dnjow
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -199,6 +199,7 @@ crashes-time-minutes =
         [few] pśed { $minutes } minutami
        *[other] pśed { $minutes } minutami
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -208,6 +209,7 @@ crashes-time-hours =
         [few] pśed { $hours } góźinami
        *[other] pśed { $hours } góźinami
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -217,6 +219,7 @@ crashes-time-days =
         [few] pśed { $days } dnjami
        *[other] pśed { $days } dnjami
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -226,6 +229,7 @@ pending-reports =
         [few] Wšykne rozpšawy wó wowalenjach (inkluziwnje { $reports } njedocynjone wowalenja w danem casu)
        *[other] Wšykne rozpšawy wó wowalenjach (inkluziwnje { $reports } njedocinjonych wowalenjow w danem casu)
     }
+
 raw-data-copied = Gropny daty kopěrowane do mjazywótkłada
 text-copied = Tekst kopěrowany do mjazywótkłada
 
@@ -238,9 +242,11 @@ blocked-mismatched-version = Blokěrowany, dokulaž wersija wašogo grafikowego 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Za wašu wersiju grafiskego gónjaka zablokěrowany. Wopytajśo swój grafiski gónjak na wersiju { $driverVersion } abo nowšu aktualizěrowaś.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
+
 compositing = Compositing
 hardware-h264 = Hardwarowe dekoděrowanje H264
 main-thread-no-omtc = głowna nitka, žeden OMTC
@@ -255,6 +261,7 @@ virtual-monitor-disp = Zwobraznjenje wirtuelnego monitora
 
 found = Namakany
 missing = Felujucy
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Wopisanje
@@ -278,21 +285,25 @@ webgl2-version = WebGL 2 - wersija gónjaka
 webgl2-driver-extensions = WebGL 2 - rozšyrjenja gónjaka
 webgl2-extensions = WebGL 2 - rozšyrjenja
 blocklisted-bug = W blokěrowańskej lisćinje znatych problemow dla
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = programowa zmólka { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = W blokěrowańskej lisćinje znatych problemow dla: <a data-l10n-name="bug-link">programowa zmólka { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = W blokěrowańskej lisćinje; zmólkowy kod { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Wideodekoder WMF VPX
+
 reset-on-next-restart = Pśi pśiducem nowem starśe slědk stajiś
 gpu-process-kill-button = GPU-proces skóńcyś
 gpu-device-reset = Rěd slědk stajiś
@@ -302,8 +313,10 @@ content-uses-tiling = Wužywa kachlickowanje (wopśimjeśe)
 off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjony
 off-main-thread-paint-worker-count = Licba workerow Off Main Thread Painting
 target-frame-rate = Celowa wobceŕkowa cestosć
+
 min-lib-versions = Wótcakowana minimalna wersija
 loaded-lib-versions = Wužyta wersija
+
 has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
 has-seccomp-tsync = Nitkowa synchronizacija Seccomp
 has-user-namespaces = Wužywaŕske mjenjowe rumy
@@ -316,15 +329,18 @@ sandbox-proc-type-content = wopśimjeśe
 sandbox-proc-type-file = datajowe wopśimjeśe
 sandbox-proc-type-media-plugin = medijowy tykac
 sandbox-proc-type-data-decoder = dekoděrowak datow
+
 startup-cache-title = Startowy pufrowak
 startup-cache-disk-cache-path = Sćažka platowego pufrowaka
 startup-cache-ignore-disk-cache = Platowy pufrowak ignorěrowaś
 startup-cache-found-disk-cache-on-init = Platowy pufrowak jo se namakał pśi inicializěrowanju
 startup-cache-wrote-to-disk-cache = Jo se napisało do platowego pufrowaka
+
 launcher-process-status-0 = Zmóžnjony
 launcher-process-status-1 = Zmólki dla znjemóžnjony
 launcher-process-status-2 = Z nuzkanim znjemóžnjony
 launcher-process-status-unknown = Njeznaty status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -337,6 +353,7 @@ multi-process-status-6 = Pśez njepódpěrane tekstowe zapódaśe znjemóžnjony
 multi-process-status-7 = Pśez dodanki znjemóžnjony
 multi-process-status-8 = Namócnje znjemóžnjony
 multi-process-status-unknown = Njeznaty status
+
 async-pan-zoom = Asynchrone pśesuwanje/skalěrowanje
 apz-none = žeden
 wheel-enabled = zapódaśe z kólaskom zmóžnjone

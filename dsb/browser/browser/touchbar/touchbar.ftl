@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Połnu wobrazowku spušćiś
 find = Pytaś
 new-tab = Nowy rejtarik
 add-bookmark = Cytańske znamje pśidaś
-open-bookmarks-sidebar = Bocnicu cytańskich znamjenjow wócyniś
 reader-view = Cytański naglěd
 # Meant to match the string displayed in an empty URL bar.
 open-location = Pytaś abo adresu zapódaś

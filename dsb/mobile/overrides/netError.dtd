@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Pominany dokument stoj w pufrowaku &brandShortName; k dispoziciji.</p><ul><li>Ako wěstnotnu napšawu &brandShortName; njewótwołujo awtomatiski sensibelne dokumenty znowego.</li><li>Klikniśo na Hyšći raz, aby dokument hyšći raz z websedła wótwołał.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-modus">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Wopytajśo hyšći raz. &brandShortName; wopytajo zwisk wócynjaś a bok znowego zacytowaś. <button id='wifi'>WLAN zmóžniś</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Zmólka pśi koděrowanju wopśimjeśa">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby jich wó toś tom problemje informěrował.</li> </ul>">

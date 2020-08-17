@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Wobstarajśo se jo wót Google Play
 login-app-promo-apple =
     .alt = Ześěgniśo wót App Store
+
 login-filter =
     .placeholder = Pśizjawjenja pytaś
+
 create-login-button = Nowe pśizjawjenje załožyś
+
 fxaccounts-sign-in-text = Pśinjasćo swóje gronidła do wašych drugich rědow
 fxaccounts-sign-in-button = Pla { -sync-brand-short-name } pśizjawiś
 fxaccounts-avatar-button =
@@ -70,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Pytaśo swóje skłaźone pśizjawjenja? Konfigurěrujśo { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Pytaśo swóje skłaźone pśizjawjenja? Konfigurěrujśo { -sync-brand-short-name } abo importěrujśo je.
 about-logins-login-intro-heading-logged-in = Žedne synchronizěrowane pśizjawjenja namakane.
 login-intro-description = Jolic sćo składł swóje pśizjawjenja { -brand-product-name } na drugem rěźe, tak móžośo je sem pśinjasć:
@@ -77,6 +81,7 @@ login-intro-instruction-fxa = Załožćo abo pśizjawśo se pla swójogo { -fxac
 login-intro-instruction-fxa-settings = Pśeznańśo se, až sćo wubrał kontrolny kašćik pśizjawjenjow w nastajenjach { -sync-brand-short-name }
 about-logins-intro-instruction-help = Woglědajśo se k <a data-l10n-name="help-link">pomocy { -lockwise-brand-short-name }</a> za wěcej pomocy
 about-logins-intro-import = Jolic waše pśizjawjenja su skłaźone w drugem wobglědowaku, móžośo <a data-l10n-name="import-link">je do { -lockwise-brand-short-name } importěrowaś</a>
+
 about-logins-intro-import2 = Jolic waše pśizjawjenja se zwenka { -brand-product-name } składuju, móžośo <a data-l10n-name="import-browser-link">je z drugego wobglědowaka importěrowaś</a>, abo <a data-l10n-name="import-file-link">z dataje</a>
 
 ## Login
@@ -117,25 +122,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Zapódajśo swóje pśizjaw
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = skłaźone pśizjawjenje wobźěłaś
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby se gronidło woglědał. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = skłaźone gronidło pokazaś
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swójo gronidło kopěrował. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skłaźone gronidło kopěrowaś
+
+## Master Password notification
+
+master-password-notification-message = Pšosym zapódajśo swójo głowne gronidło, aby se skłaźone pśizjawjenja a gronidła woglědał
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swóje pśizjawjenja eksportěrował. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = skłaźone pśizjawjenja a gronidła eksportěrowaś
-
-## Master Password notification
-
-master-password-notification-message = Pšosym zapódajśo swójo głowne gronidło, aby se skłaźone pśizjawjenja a gronidła woglědał
 
 ## Primary Password notification
 
@@ -167,12 +175,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Pśetergnuś
 confirmation-dialog-dismiss-button =
     .title = Pśetergnuś
+
 about-logins-confirm-remove-dialog-title = Toś to pśizjawjenje wótwónoźeś?
 confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
 about-logins-confirm-remove-dialog-confirm-button = Wótwónoźeś
+
 about-logins-confirm-export-dialog-title = Pśizjawjenja a gronidła eksportěrowaś
 about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajobny tekst składowaś (na pś. BadP@ass0rd), togodla móžo kuždy, kótaryž móžo eksportěrowanu dataju wócyniś, je wiźeś.
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
+
 confirm-discard-changes-dialog-title = Njeskłaźone změny zachyśiś?
 confirm-discard-changes-dialog-message = Wšykne njeskłaźone změny se zgubiju.
 confirm-discard-changes-dialog-confirm-button = Zachyśiś
@@ -203,8 +214,10 @@ about-logins-vulnerable-alert-learn-more-link = Dalšne informacije
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Zapisk za { $loginTitle } z tym wužywaŕskim mjenim južo eksistěrujo. <a data-l10n-name="duplicate-link">K eksistěrujucemu zapiskoju?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Pśi wopyśe toś to gronidło składowaś, jo zmólka nastała.
+
 
 ## Login Export Dialog
 

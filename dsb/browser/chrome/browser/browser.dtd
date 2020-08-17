@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Priwatny modus)">
-
 <!ENTITY appmenu.tooltip                     "Meni wócyniś">
 <!ENTITY navbarOverflow.label                "Dalšne rědy…">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Rejtarik pśipěś">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "R">
 <!ENTITY  unpinTab.label                     "Rejtarik wótpěś">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "w">
-<!ENTITY  sendPageToDevice.label             "Bok na rěd pósłaś">
-<!ENTITY  sendPageToDevice.accesskey         "B">
-<!ENTITY  sendLinkToDevice.label             "Wótkaz na rěd pósłaś">
-<!ENTITY  sendLinkToDevice.accesskey         "W">
-<!ENTITY  undoCloseTab.label                 "Zacynjony rejtarik wótnowiś">
-<!ENTITY  undoCloseTab.accesskey             "c">
-<!ENTITY  hiddenTabs.label                   "Schowane rejtariki">
 
 <!ENTITY  listAllTabs.label      "Wšykne rejtariki nalicyś">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Rejtariki pśepytaś">
 
 <!ENTITY tabCmd.label "Nowy rejtarik">
-<!ENTITY tabCmd.accesskey "r">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Adresu wócyniś…">
 <!ENTITY openFileCmd.label "Dataju wócyniś…">
-<!ENTITY openFileCmd.accesskey "D">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Bok zarědowaś…">
-<!ENTITY printSetupCmd.accesskey "B">
-<!ENTITY printPreviewCmd.label "Śišćaŕski pśeglěd">
-<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Śišćaś…">
-<!ENTITY printCmd.accesskey "i">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Z drugego wobglědowaka importěrowaś…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "i">
 
 <!ENTITY taskManagerCmd.label "Zastojnik nadawkow">
 
-<!ENTITY goOfflineCmd.label "Offline źěłaś">
-<!ENTITY goOfflineCmd.accesskey "O">
-
 <!ENTITY menubarCmd.label "Menijowa rědka">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Nawigaciska rědka">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,70 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Cytańske znamjenja">
 <!ENTITY bookmarksToolbarItem.label "Zapiski rědki cytańskich znamjenjow">
 
-<!ENTITY pageSourceCmd.label "Žrědłowy tekst boka">
-<!ENTITY pageSourceCmd.accesskey "t">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Info wó boku">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Layout Debugger">
-<!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Glědałkowy rejtarik">
-<!ENTITY mirrorTabCmd.accesskey "G">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Połnu wobrazowku pokazaś">
-<!ENTITY enterFullScreenCmd.accesskey "P">
-<!ENTITY exitFullScreenCmd.label "Połnu wobrazowku spušćiś">
-<!ENTITY exitFullScreenCmd.accesskey "P">
-
 <!ENTITY fullScreenCmd.label "Połna wobrazowka">
-<!ENTITY fullScreenCmd.accesskey "P">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Wšykne rejtariki pokazaś">
-<!ENTITY showAllTabsCmd.accesskey "W">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Pla &syncBrand.shortName.label; pśizjawiś">
-<!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wócyniś">
-<!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
-<!ENTITY fxaUnverified.label "Wašo konto wobkšuśiś">
-
-
-<!ENTITY fullScreenMinimize.tooltip "Miniměrowaś">
-<!ENTITY fullScreenRestore.tooltip "Wótnowiś">
-<!ENTITY fullScreenClose.tooltip "Zacyniś">
-<!ENTITY fullScreenAutohide.label "Symbolowe rědki schowaś">
-<!ENTITY fullScreenAutohide.accesskey "b">
-<!ENTITY fullScreenExit.label "Modus połneje wobrazowki spušćiś">
-<!ENTITY fullScreenExit.accesskey "M">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Wzejśo Firefox sobu">
-<!ENTITY fxa.signin.description.label "Wzejśo swóje cytańske znamjenja, historiju, gronidła a druge nastajenja na wšych wašych rědach sobu.">
-<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; zmóžniś…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Pséglědajśo swóju e-mail">
-<!ENTITY fxa.unverified.description.label "Musyśo swójo konto wobkšuśiś, nježli až móžośo synchronizěrowaś.">
-<!ENTITY fxa.unverified.button.label "Nastajenja &syncBrand.shortName.label; wócyniś…">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Pśizjawjony ako">
-<!ENTITY fxa.menu.manageAccount.label "Konto zastojaś…">
-<!ENTITY fxa.menu.syncSettings.label "Nastajenja &syncBrand.shortName.label;…">
 
 <!ENTITY pictureInPictureHideToggle.label "Pśešaltowanje wobraz-we-wobrazu schowaś">
 <!ENTITY pictureInPictureHideToggle.accesskey "P">
@@ -191,14 +81,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Połnu wobrazowku skóńcyś (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Połnu wobrazowku (esc) skóńcyś">
-<!ENTITY leaveDOMFullScreen.label "Połnu wobrazowku spušćiś">
-<!ENTITY leaveDOMFullScreen.accesskey "o">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Wobraz-we-wobrazu">
-<!ENTITY pictureInPicture.accesskey "b">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -209,86 +91,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.">
 <!ENTITY pointerlockWarning.generic.label "Toś ten dokument ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.">
 
-<!ENTITY closeWindow.label "Wokno zacyniś">
-<!ENTITY closeWindow.accesskey "z">
-
-<!ENTITY bookmarksMenu.label "Cytańske znamjenja">
-<!ENTITY bookmarksMenu.accesskey "C">
-<!ENTITY bookmarkThisPageCmd.label "Toś ten bok ako cytańske znamje składowaś">
-<!ENTITY editThisBookmarkCmd.label "Toś to cytańske znamje wobźěłaś">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Wšykne rejtariki ako cytańske znamjenja…">
-
 <!ENTITY showAllBookmarks2.label "Wše cytańske znamjenja pokazaś">
 <!ENTITY recentBookmarks.label "Tuchylu ako cytańske znamje składowane">
-<!ENTITY otherBookmarksCmd.label "Druge cytańske znamjenja">
-<!ENTITY mobileBookmarksCmd.label "Mobilne cytańske znamjenja">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalšne cytańske znamjenja pokazaś">
-
-<!ENTITY backCmd.label                "Slědk">
-<!ENTITY backCmd.accesskey            "S">
-<!ENTITY backButton.tooltip           "Jaden bok slědk">
-<!ENTITY forwardCmd.label             "Doprědka">
-<!ENTITY forwardCmd.accesskey         "D">
-<!ENTITY forwardButton.tooltip        "Jaden bok doprědka">
-<!ENTITY backForwardButtonMenu.tooltip "Klikniśo z pšawej tastu abo śěgniśo dołoj, aby historiju pokazał">
-<!ENTITY backForwardButtonMenuMac.tooltip "Śěgniśo dołoj, aby historiju pokazał">
-<!ENTITY reloadCmd.label              "Znowego">
-<!ENTITY reloadCmd.accesskey          "Z">
-<!ENTITY stopCmd.label                "Stoj">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "K adresy w adresowem pólu">
 
 <!ENTITY printButton.label            "Śišćaś">
 <!ENTITY printButton.tooltip          "Toś ten bok śišćaś">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Sedłowe informacije se woglědaś">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobceŕk powěsćow wócyniś">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobceŕk městnowego napšašowanja wócyniś">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Wobceŕk za awtomatiske wótgraśe wócyniś">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wobcerk powěźeńki dodankoweje instalacije wócyniś">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pšawo za ekstrahěrowanje canvas zastojaś">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wobceŕk powěźeńki składowanja offline wócyniś">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Wobceŕk powěźeńki składowanja gronidła wócyniś">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Wužywanje tykacow zastojaś">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Změńśo, lěc móžośo powěźeńki wót sedła dostaś">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daty w trajnem składowaku składowaś">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobglědowak se zdaloka wóźi">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobceŕk webawtentifikacije wócyniś">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Dialog za pšawa pśeglědowańskeje aktiwity wócyniś">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Źělenje wašogo mikrofona ze sedłom zastojaś">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Źělenje wašych woknow abo wašeje wobrazowki ze sedłom zastojaś">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Wobceŕk instalaciskeje powěźeńki wócyniś">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Toś ten bok pśełožowaś">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pśełožowanje boka zastojaś">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužywanje softwary DRM zastojaś">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobceŕk wócyniś">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Sćo swóju kameru za toś to websedło zablokěrował.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Sćo swój mikrofon za toś to websedło zablokěrował.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Sćo toś tomu websedłoju informacijie wó městnje zawoborał.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Sćo powěźeńki za toś to websedło zablokěrował.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Sćo trajny składowak za toś to websedło blokěrował.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Sćo wuskokujuce wokna za toś to websedło blokěrował.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Sćo zablokěrował awtomatiske wótgraśe medijow ze zukom za toś to websedło.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Sćo toś tomu websedłoju wužywanje tykaca Adobe Flash zawoborał.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup k MIDI za toś to websedło.">
-<!ENTITY urlbar.installBlocked.tooltip           "Sćo blokěrował instalěrowanje dodankow za toś to websedło.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
-
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Sćo pśizwólił toś tomu websedłoju pśidatne pšawa.">
 
 
 <!ENTITY searchItem.title             "Pytaś">
@@ -298,7 +106,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "Startowy bok &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Cytańske znamjenja">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Cytańske znamjenja">
 <!ENTITY bookmarksMenuButton2.label         "Meni cytańskich znamjenjow">
@@ -313,109 +120,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Symbolowej rědce meni cytańskich znamjenjow pśidaś">
 <!ENTITY removeBookmarksMenu.label          "Meni cytańskich znamjenjow ze symboloweje rědki wótwónoźeś">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Historija">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Rědy">
-<!ENTITY toolsMenu.accesskey          "R">
-
-<!ENTITY keywordfield.label           "Gronidło za toś to pytanje pśidaś…">
-<!ENTITY keywordfield.accesskey       "G">
 
 <!ENTITY downloads.label              "Ześěgnjenja">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Ześěgnjenja">
-<!ENTITY downloads.accesskey          "Z">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Dodanki">
-<!ENTITY addons.accesskey             "D">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Webwuwijaŕ">
-<!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY inspectContextMenu.label     "Element pśepytowaś">
-<!ENTITY inspectContextMenu.accesskey "E">
-
-<!ENTITY inspectA11YContextMenu.label     "Kakosći bźezbariernosći pśepytowaś">
-
-<!ENTITY fileMenu.label         "Dataja">
-<!ENTITY fileMenu.accesskey       "D">
-
-<!ENTITY newUserContext.label             "Nowy kontejnerowy rejtarik">
-<!ENTITY newUserContext.accesskey         "k">
-<!ENTITY manageUserContext.label          "Kontejnery zastojaś">
-<!ENTITY manageUserContext.accesskey      "K">
 
 <!ENTITY newNavigatorCmd.label        "Nowe wokno">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nowe priwatne wokno">
-<!ENTITY newPrivateWindow.accesskey "r">
 
 <!ENTITY editMenu.label         "Wobźěłaś">
-<!ENTITY editMenu.accesskey       "b">
-<!ENTITY undoCmd.label            "Anulěrowaś">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "A">
-<!ENTITY redoCmd.label            "Wóspjetowaś">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "s">
-<!ENTITY cutCmd.label           "Wurězaś">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "r">
-<!ENTITY copyCmd.label            "Kopěrowaś">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label           "Zasajźiś">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "Z">
-<!ENTITY deleteCmd.label          "Lašowaś">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "L">
-<!ENTITY selectAllCmd.label         "Wšykno wubraś">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "u">
 <!ENTITY preferencesCmd2.label       "Nastajenja">
-<!ENTITY preferencesCmd2.accesskey     "N">
 <!ENTITY preferencesCmdUnix.label       "Nastajenja">
-<!ENTITY preferencesCmdUnix.accesskey     "N">
 <!ENTITY logins.label                           "Pśizjawjenja a gronidła">
-
-<!ENTITY clearRecentHistory.label               "Aktualnu historiju wuprozniś…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Naglěd">
-<!ENTITY viewMenu.accesskey       "N">
-<!ENTITY viewToolbarsMenu.label       "Symbolowe rědki">
-<!ENTITY viewToolbarsMenu.accesskey     "S">
-<!ENTITY viewSidebarMenu.label "Bócnica">
-<!ENTITY viewSidebarMenu.accesskey "B">
-
-<!ENTITY viewCustomizeToolbar.label       "Pśiměriś…">
-<!ENTITY viewCustomizeToolbar.accesskey     "m">
 
 <!ENTITY overflowCustomizeToolbar.label       "Symbolowu rědku pśiměriś…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Historija">
-<!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Rowno zacynjone rejtariki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Rowno zacynjone wokna">
-<!ENTITY historyRestoreLastSession.label "Pjerwjejšne pósejźenje wótnowiś">
-
-<!ENTITY showAllHistoryCmd2.label "Wšu historiju pokazaś">
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprozniś…">
@@ -445,10 +174,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtariki z drugich rědow wiźeś?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronizěrowańske nastajenja wócyniś">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarikow ze swójich drugich rědow woglědał.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Woglědajśo se lisćinu rejtarikow ze swójich rědow.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Wašo konto musy se wobkšuśiś.">
-<!ENTITY appMenuRemoteTabs.signin.label "Pla Sync pśizjawiś">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Se pla &syncBrand.shortName.label; pśizjawiś…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; zmóžniś…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rědy rědowaś…">
@@ -466,79 +193,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Woběžkowemu menijoju pśidás">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "K woběžkowemu menijoju pśipěś">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Z woběžkowego menija wótpěś">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "t">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ze symboloweje rědki wótpóraś">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Z">
 <!ENTITY customizeMenu.addMoreItems.label "Dalšne zapiski pśidaś…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "l">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "W symbolowej rědce awtomatiski schowaś">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "s">
-<!ENTITY customizeMenu.manageExtension.label "Rozšyrjenje zastojaś">
-<!ENTITY customizeMenu.manageExtension.accesskey "R">
-<!ENTITY customizeMenu.removeExtension.label "Rozšyrjenje wótwónoźeś">
-<!ENTITY customizeMenu.removeExtension.accesskey "t">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Rozšyrjenje k wěsći daś">
-<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Wěcej">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Pytaś abo adresu zapódaś">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Rozšyrjenje:">
-<!ENTITY urlbar.switchToTab.label     "K rejtarikoju pśejś:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Dostańśo pomoc, aby něco namakał! Pytajśo za &#x1F50E; pódla pytańskich naraźenjow.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Nastajenja změniś…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Nastajenja změniś…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "N">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Pytańske napšašowanje">
 
 <!ENTITY contentSearchSubmit.tooltip  "Pytanje startowaś">
 
@@ -547,200 +212,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Pytaś">
 <!ENTITY searchIcon.tooltip           "Pytaś">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Pytaś za ">
-<!ENTITY searchWith.label             " z:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Pytaś ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Pytaś z:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Pytańske nastajenja">
-<!ENTITY changeSearchSettings.tooltip "Pytańske nastajenja změniś">
-
-<!ENTITY searchInNewTab.label         "W nowem rejtariku pytaś">
-<!ENTITY searchInNewTab.accesskey     "r">
-<!ENTITY searchSetAsDefault.label     "Ako standardnu pytnicu nastajiś">
-<!ENTITY searchSetAsDefault.accesskey "d">
-
-<!ENTITY openLinkCmdInTab.label       "Wótkaz w nowem rejtariku wócyniś">
-
 <!ENTITY openLinkCmdInTab.accesskey   "r">
-<!ENTITY openLinkCmd.label            "Wótkaz w nowem woknje wócyniś">
-<!ENTITY openLinkCmd.accesskey        "n">
-<!ENTITY openLinkInPrivateWindowCmd.label "Wótkaz w nowem priwatnem woknje wócyniś">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "r">
-<!ENTITY openLinkCmdInCurrent.label     "Wótkaz wócyniś">
-<!ENTITY openLinkCmdInCurrent.accesskey "c">
-<!ENTITY openFrameCmdInTab.label      "Wobłuk w nowem rejtariku wócyniś">
-<!ENTITY openFrameCmdInTab.accesskey  "b">
-<!ENTITY openFrameCmd.label           "Wobłuk w nowem woknje wócyniś">
-<!ENTITY openFrameCmd.accesskey       "c">
-<!ENTITY openLinkCmdInContainerTab.label "Wótkaz w nowem kontejnerowem rejtariku wócyniś">
-<!ENTITY openLinkCmdInContainerTab.accesskey "t">
-<!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
-<!ENTITY showOnlyThisFrameCmd.accesskey "J">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Wobłuk znowego zacytaś">
-<!ENTITY reloadFrameCmd.accesskey     "z">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Žrědłowy tekst wuběrka zwobrazniś">
-<!ENTITY viewPartialSourceCmd.accesskey "t">
-<!ENTITY viewPageSourceCmd.label      "Žrědłowy tekst boka pokazaś">
-<!ENTITY viewPageSourceCmd.accesskey  "t">
-<!ENTITY viewFrameSourceCmd.label     "Žrědłowy tekst wobłuka zwobrazniś">
-<!ENTITY viewFrameSourceCmd.accesskey "b">
-<!ENTITY viewPageInfoCmd.label        "Info wó boku pokazaś">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "Info wó wobłuku pokazaś">
-<!ENTITY viewFrameInfoCmd.accesskey   "f">
-<!ENTITY reloadImageCmd.label         "Wobraz znowego zacytaś">
-<!ENTITY reloadImageCmd.accesskey     "b">
-<!ENTITY viewImageCmd.label           "Wobraz pokazaś">
-<!ENTITY viewImageCmd.accesskey       "r">
-<!ENTITY viewImageInfoCmd.label       "Info wó wobrazu pokazaś">
-<!ENTITY viewImageInfoCmd.accesskey   "w">
-<!ENTITY viewImageDescCmd.label       "Wopisanje pokazaś">
-<!ENTITY viewImageDescCmd.accesskey   "o">
-<!ENTITY viewVideoCmd.label           "Wideo pokazaś">
-<!ENTITY viewVideoCmd.accesskey       "d">
-<!ENTITY viewBGImageCmd.label         "Slězynowy wobraz pokazaś">
-<!ENTITY viewBGImageCmd.accesskey     "p">
-<!ENTITY setDesktopBackgroundCmd.label      "Ako desktopowu slězynu nastajiś…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "A">
-<!ENTITY bookmarkPageCmd2.label       "Toś ten bok ako cytańske znamje składowaś">
-<!ENTITY bookmarkPageCmd2.accesskey   "c">
-<!ENTITY bookmarkThisLinkCmd.label      "Toś ten wótkaz ako cytańske znamje składowaś">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "k">
-<!ENTITY bookmarkThisFrameCmd.label      "Toś ten wobłuk ako cytańske znamje skladowaś">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "b">
 
 <!ENTITY pageAction.copyLink.label    "Wótkaz kopěrowaś">
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Pla Pocket składowaś">
-
 <!ENTITY saveToPocketCmd.label        "Bok do Pocket składowaś">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Wótkaz do Pocket składowaś">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Lisćinu Pocket pokazaś">
 
 <!ENTITY emailPageCmd.label           "Wótkaz e-mailowaś…">
-<!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY savePageCmd.label            "Bok składowaś ako…">
-<!ENTITY savePageCmd.accesskey        "B">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "s">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Wobłuk składowaś ako…">
-<!ENTITY saveFrameCmd.accesskey       "b">
-<!ENTITY printFrameCmd.label          "Wobłuk śišćaś…">
-<!ENTITY printFrameCmd.accesskey      "i">
-<!ENTITY saveLinkCmd.label            "Wótkaz składowaś ako…">
-<!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "Wobraz składowaś ako…">
-<!ENTITY saveImageCmd.accesskey       "r">
-<!ENTITY saveVideoCmd.label           "Wideo składować ako…">
-<!ENTITY saveVideoCmd.accesskey       "d">
-<!ENTITY saveAudioCmd.label           "Awdiodataju składowaś ako…">
-<!ENTITY saveAudioCmd.accesskey       "A">
-<!ENTITY emailImageCmd.label          "Wobraz e-mailowaś…">
-<!ENTITY emailImageCmd.accesskey      "b">
-<!ENTITY emailVideoCmd.label          "Wideo e-mailowaś…">
-<!ENTITY emailVideoCmd.accesskey      "m">
-<!ENTITY emailAudioCmd.label          "Awdiodataju e-mailowaś…">
-<!ENTITY emailAudioCmd.accesskey      "i">
-<!ENTITY playPluginCmd.label          "Toś ten tykac aktiwěrowaś">
-<!ENTITY playPluginCmd.accesskey      "t">
-<!ENTITY hidePluginCmd.label          "Toś ten tykac schowaś">
-<!ENTITY hidePluginCmd.accesskey      "h">
-<!ENTITY copyLinkCmd.label            "Wótkazowu adresu kopěrowaś">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "k">
-<!ENTITY copyImageCmd.label           "Wobrazowu adresu kopěrowaś">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Wobraz kopěrowaś">
-<!ENTITY copyImageContentsCmd.accesskey  "r">
-<!ENTITY copyVideoURLCmd.label        "Wideowu adresu kopěrowaś">
-<!ENTITY copyVideoURLCmd.accesskey    "i">
-<!ENTITY copyAudioURLCmd.label        "Adresu awdiodataje kopěrowaś">
-<!ENTITY copyAudioURLCmd.accesskey    "u">
-<!ENTITY copyEmailCmd.label           "E-mailowu adresu kopěrowaś">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Toś ten wobłuk">
-<!ENTITY thisFrameMenu.accesskey          "T">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Wótgraś">
-<!ENTITY mediaPlay.accesskey         "t">
-<!ENTITY mediaPause.label            "Pawza">
-<!ENTITY mediaPause.accesskey        "P">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Bźez zuka">
-<!ENTITY mediaMute.accesskey         "B">
-<!ENTITY mediaUnmute.label           "Ze zukom">
-<!ENTITY mediaUnmute.accesskey       "z">
-<!ENTITY mediaPlaybackRate2.label     "Wótgrawańska malsnošć">
-<!ENTITY mediaPlaybackRate2.accesskey "m">
-<!ENTITY mediaPlaybackRate050x2.label "Pómałem (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "P">
-<!ENTITY mediaPlaybackRate100x2.label "Normalny">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Malsna (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "M">
-<!ENTITY mediaPlaybackRate150x2.label "Malsnjej (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Wjelgin wusoko (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "W">
-<!ENTITY mediaLoop.label             "Awtomatiski wóspjetowaś">
-<!ENTITY mediaLoop.accesskey         "A">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Wóźeńske elementy pokazaś">
-<!ENTITY mediaShowControls.accesskey "W">
-<!ENTITY mediaHideControls.label     "Wóźeńske elementy schowaś">
-<!ENTITY mediaHideControls.accesskey "w">
-<!ENTITY videoFullScreen.label       "Połna wobrazowka">
-<!ENTITY videoFullScreen.accesskey   "P">
-<!ENTITY videoSaveImage.label        "Foto wobrazowki składowaś ako…">
-<!ENTITY videoSaveImage.accesskey    "F">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Statistiku pokazaś">
-<!ENTITY videoShowStats.accesskey    "S">
-<!ENTITY videoHideStats.label        "Statistiku schowaś">
-<!ENTITY videoHideStats.accesskey    "S">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -748,53 +229,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Pówětšyś">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "w">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Pómjeńšyś">
-<!ENTITY fullZoomReduceCmd.accesskey    "m">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Slědk stajiś">
-<!ENTITY fullZoomResetCmd.accesskey     "l">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Jano tekst skalěrowaś">
-<!ENTITY fullZoomToggleCmd.accesskey    "J">
-
 <!ENTITY fullZoom.label                 "Skalěrowaś">
-<!ENTITY fullZoom.accesskey             "k">
 
 <!ENTITY sidebarCloseButton.tooltip     "Bócnicu zacyniś">
-<!ENTITY sidebarMenuClose.label         "Bócnicu zacyniś">
 
 <!ENTITY quitApplicationCmdWin2.label       "Skóńcyś">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; skóńcyś">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Spušćiś">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; skóńcyś">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Zacyniś">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "Z">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Stil boka">
-<!ENTITY pageStyleMenu.accesskey "l">
-<!ENTITY pageStyleNoStyle.label "Žeden stil">
-<!ENTITY pageStyleNoStyle.accesskey "e">
-<!ENTITY pageStylePersistentOnly.label "Zakładny stil boka">
-<!ENTITY pageStylePersistentOnly.accesskey "k">
 
 <!ENTITY allowPopups.accesskey "u">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -805,169 +249,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "b">
 <!ENTITY dontShowMessage.accesskey "n">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Směr boka pśešaltowaś">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "b">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Směr teksta pśešaltowaś">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Na toś tom boku pytaś…">
-<!ENTITY findOnCmd.accesskey "t">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Dalej pytaś">
-<!ENTITY findAgainCmd.accesskey "D">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Słowniki pśidaś…">
 <!ENTITY spellAddDictionaries.accesskey "S">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Dokóńcony">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Editor pśi składowanju pokazaś">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "E">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Sedłowa wěstota">
-
-<!ENTITY identity.connection "Zwisk">
-<!ENTITY identity.connectionSecure "Wěsty zwisk">
-<!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
-<!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
-<!ENTITY identity.connectionVerified2 "Sćo z toś tym sedłom wěsće zwězany, kótaregož wobsejźaŕ jo:">
-<!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
-<!ENTITY identity.extensionPage "Toś ten bok jo se z rozšyrjenja zacytał.">
-<!ENTITY identity.insecureLoginForms2 "Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.">
-<!ENTITY identity.customRoot "Zwisk jo se pśeglědował pśez certifikatowego wudawarja, kótaryž njejo pśipóznaty wót Mozilla.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
-<!ENTITY identity.passiveLoaded "Źěle toś togo boka njejsu wěste (na pśikład wobraze).">
-<!ENTITY identity.activeLoaded "Sćo šćit na toś tom boku znjemóžnił.">
-<!ENTITY identity.weakEncryption "Toś ten bok wužywa słabe koděrowanje.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Waš zwisk z toś tym sedłom njejo priwatny. Druge luźe by mógli Informacije wiźeś, kótarež sćelośo (na pśikład gronidła, powěsći, kreditne kórty atd.).">
-<!ENTITY identity.description.insecureLoginForms "Pśizjawjeńske informacije, kótarež zapódawaśo na toś tom boku, njejsu wěste a by mógli se wobgrozyś.">
-<!ENTITY identity.description.weakCipher "Waš zwisk z websedłom wužywa słabe koděrowanje a njejo priwatny.">
-<!ENTITY identity.description.weakCipher2 "Druge luźe mógu se waše informacije woglědaś abo zaźaržanje websedła změniś.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
-<!ENTITY identity.description.passiveLoaded "Waš zwisk njejo priwatny a druge mógli informacije wiźeś, kótarež źěliśo ze sedłom.">
-<!ENTITY identity.description.passiveLoaded2 "Websedło wopśimujo wopśimjeśe, kótarež njejo wěste (ako na pśikład wobraze).">
-<!ENTITY identity.description.passiveLoaded3 "Lěcrownož &brandShortName; jo wopśimjeśe blokěrował, jo hyšći wopśimjeśe na boku, kótarež njejo wěste (na pśikład wobraze).">
-<!ENTITY identity.description.activeLoaded "Toś to websedło wopśimujo wopśimjeśe, kótarež njejo wěste (na pśikład skripty) a waš zwisk z nim njejo priwatny.">
-<!ENTITY identity.description.activeLoaded2 "Druge luźe mógu informacije wiźeś, kótarež źěliśo z toś tym sedłom (na pśikład gronidła, powěsći, kreditne kórty atd.).">
-<!ENTITY identity.description.customRoot "Mozilla toś togo certifikatowego wudawarja njepśipóznawa. Jo se snaź pśidał pśez waš źěłowy system abo wót administratora.">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Šćit zmóžniś">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "z">
-<!ENTITY identity.disableMixedContentBlocking.label "Šćit nachylnje znjemóžniś">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "z">
-<!ENTITY identity.learnMore "Dalšne informacije">
-
-<!ENTITY identity.removeCertException.label "Wuwześe wótpóraś">
-<!ENTITY identity.removeCertException.accesskey "W">
-
-<!ENTITY identity.moreInfoLinkText2 "Dalšne informacije">
-
-<!ENTITY identity.clearSiteData "Cookieje a sedłowe daty wulašowaś…">
-
-<!ENTITY identity.permissions "Pšawa">
-<!ENTITY identity.permissionsEmpty "Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.">
-<!ENTITY identity.permissionsReloadHint "Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.">
-<!ENTITY identity.permissionsPreferences.tooltip "Nastajenja pšawow wócyniś">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Nastajenja blokěrowanja wopśimjeśa wócyniś">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Rejtariki wobglědowaka">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Synchronizěrowane rejtariki">
-
-<!ENTITY syncedTabs.sidebar.label              "Synchronizěrowane rejtariki">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Pla &syncBrand.shortName.label; pśizjawiś…">
-<!ENTITY syncSignIn.accesskey         "P">
-<!ENTITY syncSyncNowItem.label        "Něnto synchronizěrowaś">
-<!ENTITY syncSyncNowItemSyncing.label "Synchronizěrujo se…">
-<!ENTITY syncSyncNowItem.accesskey    "N">
-<!ENTITY syncReAuthItem.label         "Znowego z &syncBrand.shortName.label; zwězaś…">
-<!ENTITY syncReAuthItem.accesskey     "Z">
-<!ENTITY syncToolbarButton.label      "Sync">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Awtomatiski schowaś">
-
-<!ENTITY getUserMedia.selectCamera.label "Kamera, kotaraž ma se gromaźe wužywaś:">
-<!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kótaryž ma se gromaźe wužywaś:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Awdio z rejtarika buźo se źěliś.">
-<!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
-
-<!ENTITY contentBlocking.title "Blokěrowanje wopśimjeśa">
-<!ENTITY contentBlocking.detected "Blokěrujobne wopśimjeśe jo se namakało na toś tom sedle.">
-<!ENTITY contentBlocking.notDetected "Žedno blokěrujobne wopśimjeśe jo se namakało na toś tom boku.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "Pśeslědowaki">
-
-<!ENTITY contentBlocking.manageSettings.label "Blokěrowanje wopśimjeśa zastojaś">
-<!ENTITY contentBlocking.manageSettings.accesskey "z">
-
-<!ENTITY contentBlocking.trackersView.label "Pśeslědowaki">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Aby wšykne pśeslědowaki blokěrował, stajśo blokěrowanje wopśimjeśa na “Striktny”.">
-
-<!ENTITY contentBlocking.cookies.label "Cookieje">
-<!ENTITY contentBlocking.cookiesView.label "Cookieje a sedłowe daty">
-
-<!ENTITY contentBlocking.cryptominers.label "Kryptokopanje">
-<!ENTITY contentBlocking.cryptominersView.label "Kryptokopanje">
-
-<!ENTITY contentBlocking.fingerprinters.label "Palcowe wótśišće">
-<!ENTITY contentBlocking.fingerprintersView.label "Palcowe wótśišće">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Problem k wěsći daś">
-<!ENTITY contentBlocking.breakageReportView.label "Problemy k wěsći daś">
-<!ENTITY contentBlocking.breakageReportView2.description "Blokěrowanje wopśimjeśa móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo &brandShortName; za kuždego pólěpšyś. (Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Dalšne informacije">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kótare problemy sćo měł? (na žycenje)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Rozpšawu pósłaś">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Pśetergnuś">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Blokěrowanje za toś to sedło znjemóžniś">
-<!ENTITY trackingProtection.unblock5.accesskey "B">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Blokěrowanje nachylu znjemóžniś">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "B">
-<!ENTITY trackingProtection.block6.label "Blokěrowanje za toś to sedło zmóžniś">
-<!ENTITY trackingProtection.block6.accesskey "B">
-<!ENTITY trackingProtection.reload2.label "Bok znowego zacytaś">
-<!ENTITY trackingProtection.reload2.accesskey "B">
-
-<!ENTITY pluginNotification.showAll.label "Wšykno pokazaś">
-<!ENTITY pluginNotification.showAll.accesskey "W">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Zacyniś">
@@ -976,38 +270,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Wěste pśeglědowanje!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Wjeliki źěk!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Zgóńśo wěcej wó DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "Aktualizaciju &brandShorterName; ześěgnuś">
 <!ENTITY updateManual.panelUI.label "Nowu kopiju &brandShorterName; ześěgnuś">
 <!ENTITY updateUnsupported.panelUI.label "Njamóžośo dalšne aktualizacije pśewjasć">
 <!ENTITY updateRestart.panelUI.label2 "Startujśo znowego, aby &brandShorterName; aktualizěrował">
-
-<!ENTITY newTabControlled.header.message "Waš nowy rejtarik jo se změnił.">
-<!ENTITY newTabControlled.keepButton.label "Změny wobchowaś">
-<!ENTITY newTabControlled.keepButton.accesskey "Z">
-<!ENTITY newTabControlled.disableButton.label "Rozšyrjenje znjemóžniś">
-<!ENTITY newTabControlled.disableButton.accesskey "R">
-
-<!ENTITY homepageControlled.message "Rozšyrjenje jo změniło, což ako swój startowy bok wiźiśo. Móžośo swóje nastajenja wótnowiś, jolic toś tu změnu njocośo.">
-
-<!ENTITY homepageControlled.header.message "Waš startowy bok jo se změnił.">
-<!ENTITY homepageControlled.keepButton.label "Změny wobchowaś">
-<!ENTITY homepageControlled.keepButton.accesskey "Z">
-<!ENTITY homepageControlled.disableButton.label "Rozšyrjenje znjemóžniś">
-<!ENTITY homepageControlled.disableButton.accesskey "R">
-
-<!ENTITY tabHideControlled.header.message "Pśistup k wašym schowanym rejtarikam">
-<!ENTITY tabHideControlled.keepButton.label "Rejtariki schowane wobchowaś">
-<!ENTITY tabHideControlled.keepButton.accesskey "R">
-<!ENTITY tabHideControlled.disableButton.label "Rozšyrjenje znjemóžniś">
-<!ENTITY tabHideControlled.disableButton.accesskey "z">
-
-<!ENTITY pageActionButton.tooltip "Akcije boka">
-<!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
-<!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
-<!ENTITY pageAction.manageExtension.label "Rozšyrjenje zastojaś…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
 

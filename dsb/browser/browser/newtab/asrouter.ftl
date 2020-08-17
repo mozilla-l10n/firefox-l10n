@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Wopytajśo to: Rejtarik pśipěś
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Cogodla se to pokazujo
+
 cfr-doorhanger-extension-cancel-button = Nic něnto
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Něnto pśidaś
     .accesskey = d
 cfr-doorhanger-pintab-ok-button = Toś ten rejtarik pśipěś
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Dopóruceńske nastajenja zastojaś
     .accesskey = D
+
 cfr-doorhanger-extension-never-show-recommendation = Toś to dopórucenje njepokazaś
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Dalšne informacije
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = wót { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Pórucenje
 cfr-doorhanger-extension-notification2 = Dopórucenje
     .tooltiptext = Dopórucenje rozšyrjenja
     .a11y-announcement = Dopórucenje rozšyrjenja k dispoziciji
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Dopórucenje
@@ -63,6 +71,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } wužywarje
        *[other] { $total } wužywarjow
     }
+
 cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejwěcej wužywane sedła. Źaržćo sedła w rejtariku wócynjone (samo gaž znowego startujośo)
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -70,8 +79,10 @@ cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejwěcej 
 cfr-doorhanger-pintab-step1 = <b>Klikniśo z pšaweju tastu</b> na rejtarik, kótaryž cośo pśipěś.
 cfr-doorhanger-pintab-step2 = Wubjeŕśo <b>Rejtarik pśipěś</b> z menija.
 cfr-doorhanger-pintab-step3 = Jolic sedło ma aktualizaciju, buźośo módry dypk na swójom pśipětem rejtariku wiźeś.
+
 cfr-doorhanger-pintab-animation-pause = Pawza
 cfr-doorhanger-pintab-animation-resume = Pókšacowaś
+
 
 ## Firefox Accounts Message
 
@@ -93,18 +104,24 @@ cfr-protections-panel-link-text = Dalšne informacije
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowa funkcija:
+
 cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
+
 cfr-whatsnew-panel-header = Nowe funkcije a změny
+
 cfr-whatsnew-release-notes-link-text = Wersijowe informacije cytaś
+
 cfr-whatsnew-fx70-title = { -brand-short-name } šěščej za wašu priwatnosć wójujo
 cfr-whatsnew-fx70-body = Nejnowša aktualizacija funkciju slědowański šćit pólěpšujo a wólažcujo wěcej nježli gdy do togo, wěste gronidła za kužde sedło napóraś.
+
 cfr-whatsnew-tracking-protect-title = Šćitajśo se pśed pśeslědowakami
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } wjele cestych pśeslědowakow socialnych a drugich sedłow, kótarež
     slěduju, což online gótujośo.
 cfr-whatsnew-tracking-protect-link-text = Wašu rozpšawu pokazaś
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -117,9 +134,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Wót { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Rozpšawu pokazaś
+
 cfr-whatsnew-lockwise-backup-title = Zawěsććo swóje gronidła
 cfr-whatsnew-lockwise-backup-body = Napórajśo něnto wěste gronidła, ku kótarymž maśo wšuźi pśistup, źož se pśizjawijośo.
 cfr-whatsnew-lockwise-backup-link-text = Zawěsćenja zmóžniś
+
 cfr-whatsnew-lockwise-take-title = Wzejśo swóje gronidła sobu
 cfr-whatsnew-lockwise-take-body = Mobilne nałoženje { -lockwise-brand-short-name } wam wěsty pśistup k wašym zawěsćonym gronidłam wót wšuźi zmóžnja,
 cfr-whatsnew-lockwise-take-link-text = Wobstarajśo se nałoženje
@@ -155,6 +174,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Palcowe wótśišće zablokěrowane
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } wjele palcowych śišćow blokěrujo, kótarež informacije wó wašom rěźe a akcijach gromaźe, aby wabjeński profil wó was napórali.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Palcowe wótśišće
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } móžo wjele palcowych śišćow blokěrowaś, kótarež informacije wó wašom rěźe a akcijach gromaźe, aby wabjeński profil wó was napórali.
@@ -217,6 +237,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Wšykne pokazaś
     .accesskey = k
+
 cfr-doorhanger-milestone-close-button = Zacyniś
     .accesskey = Z
 
