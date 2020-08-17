@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Sika">
-<!ENTITY cutCmd.accesskey "s">
-<!ENTITY copyCmd.label "Kopa">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Namathisela">
-<!ENTITY pasteCmd.accesskey "n">
-<!ENTITY undoCmd.label "Buyisela">
-<!ENTITY undoCmd.accesskey "b">
-<!ENTITY selectAllCmd.label "Khetha Koke">
-<!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY deleteCmd.label "Cima">
-<!ENTITY deleteCmd.accesskey "c">
-
 <!ENTITY spellAddToDictionary.label "Add to dictionary">
 <!ENTITY spellAddToDictionary.accesskey "t">
 <!ENTITY spellNoSuggestions.label "(No spelling suggestions)">

@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label "Lungisa">
 <!ENTITY editMenu.accesskey "l">
 <!ENTITY undoCmd.label "Buyisela Emva">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "b">
 <!ENTITY redoCmd.label "Buyisela Emva">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "b">
-<!ENTITY cutCmd.label "Sika">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "s">
-<!ENTITY copyCmd.label "Kopa">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Namathisela">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Cima">
 <!ENTITY deleteCmd.accesskey "c">
-<!ENTITY selectAllCmd.label "Khetha Koke">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "k">
 <!ENTITY preferencesCmdUnix.label "Ukukhetha">
 <!ENTITY preferencesCmdUnix.accesskey "u">
 

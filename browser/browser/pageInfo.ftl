@@ -49,8 +49,6 @@ media-long-desc =
 media-save-as =
     .label = Bulunga Njenge...
     .accesskey = B
-media-preview =
-    .value = Ukuhlola Beendaba Ngaphambili:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -59,7 +57,6 @@ media-preview =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Akwaziwa
-not-set-verified-by = Akukatjhiwo
 page-info-not-specified =
     .value = Akukatjhiwo
 not-set-alternative-text = Akukatjhiwo
