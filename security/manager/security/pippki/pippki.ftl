@@ -8,8 +8,10 @@ password-quality-meter = Password quality meter
 
 change-password-window =
     .title = Change Master Password
+
 change-device-password-window =
     .title = Change Password
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Security Device: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = New password (again):
 reset-password-window =
     .title = Reset Master Password
     .style = width: 40em
+
 pippki-failed-pw-change = Unable to change password.
 pippki-incorrect-pw = You did not enter the correct current password. Please try again.
 pippki-pw-change-ok = Password successfully changed.
+
 pippki-pw-empty-warning = Your stored passwords and private keys will not be protected.
 pippki-pw-erased-ok = You have deleted your password. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Warning! You have decided not to use a password. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requires a non-empty password.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Reset
 reset-password-text = If you reset your master password, all your stored web and email passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?
+
 reset-primary-password-text = If you reset your Primary Password, all your stored web and e-mail passwords, personal certificates, and private keys will be forgotten. Are you sure you want to reset your Primary Password?
+
 pippki-reset-password-confirmation-title = Reset Primary Password
 pippki-reset-password-confirmation-message = Your Primary Password has been reset.
 

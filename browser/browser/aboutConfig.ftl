@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Here be dragons!
-about-config-warning-text = Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.
-about-config-warning-checkbox = Annoy me again, please!
-about-config-warning-button = I accept the risk
-
-about-config2-title = Advanced Configurations
-
-about-config-search-input =
-    .placeholder = Search
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Proceed with Caution
@@ -32,13 +21,6 @@ about-config-page-title = Advanced Preferences
 about-config-search-input1 =
     .placeholder = Search preference name
 about-config-show-all = Show All
-
-about-config-pref-add = Add
-about-config-pref-toggle = Toggle
-about-config-pref-edit = Edit
-about-config-pref-save = Save
-about-config-pref-reset = Reset
-about-config-pref-delete = Delete
 
 about-config-pref-add-button =
     .title = Add

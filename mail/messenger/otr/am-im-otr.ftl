@@ -23,4 +23,6 @@ otr-require-encryption-info =
     will not be shown as part of the regular conversation, and not logged either.
 otr-verifyNudge =
     .label = Always remind me to verify an unverified contact
+
 otr-notYetAvailable = not yet available
+
