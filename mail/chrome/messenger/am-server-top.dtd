@@ -52,14 +52,11 @@
 <!ENTITY maxMessagesEnd.label "mahungu">
 <!ENTITY alwaysAuthenticate.label "Minkarhi hinkwayo kuma ntiyisiso loko u tihlanganisa na sevha">
 <!ENTITY alwaysAuthenticate.accesskey "n">
-<!ENTITY newsrcFilePath.label "newsrc Fayili:">
-<!ENTITY newsrcPicker.label "Hlawula fayili ya newsrc">
 <!ENTITY abbreviate.label "Kombisa mavito ya mintlawa ya mahungu eka Folidara ya Mapapila:">
 <!ENTITY abbreviateOn.label "Mavito hi ntalo (Xikombiso, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nkomiso wa mavito (Xikombiso, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Swa xiyimo xa le henhla...">
 <!ENTITY advancedButton.accesskey "s">
-<!ENTITY localPath.label "Buku ya mavito ya le kaya:">
 <!ENTITY localFolderPicker.label "Hlawula Buku ya mavito ya le kaya">
 <!ENTITY browseFolder.label "Secha...">
 <!ENTITY browseFolder.accesskey "S">

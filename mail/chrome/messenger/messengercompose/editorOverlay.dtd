@@ -51,8 +51,6 @@
 
 <!ENTITY pasteNoFormatting.label "Damarheta handle ka ku fometa">
 <!ENTITY pasteNoFormatting.accesskey "d">
-<!ENTITY pasteAs.label "Damarheta tani hi">
-<!ENTITY pasteAs.accesskey "a">
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
@@ -151,8 +149,6 @@
 <!ENTITY ParagraphSelect.tooltip "Hlawula fomete ya pharagirafu">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Miri wa Tsalwa">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Swihlawulekisi swa le mahlweni">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -168,10 +164,6 @@
 <!ENTITY alignJustify.label "Tiyisisa">
 <!ENTITY alignJustify.tooltip "Lulamisa ntiyisiso">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Leyara">
-<!ENTITY layerSendToBack.tooltip "Rhumela endzhaku">
-<!ENTITY layerBringToFront.tooltip "Tisa emahlweni">
 
 <!ENTITY increaseIndent.label "Engetela indente">
 <!ENTITY decreaseIndent.label "Hunguta indente">
@@ -227,15 +219,6 @@
 
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Bara ya switirhisiwa">
-<!ENTITY formatToolbar.tooltip "Ku fometa xisecha-switirhisiwa">
-<!ENTITY printToolbarCmd.label "Pirinta">
-<!ENTITY printToolbarCmd.tooltip "Pirinta pheji leri">
-<!ENTITY findToolbarCmd.label "Kuma">
-<!ENTITY findToolbarCmd.tooltip "Kuma tsalwa eka pheji">
-<!ENTITY spellToolbarCmd.label "Peleta">
-<!ENTITY spellToolbarCmd.tooltip "Xiya mpeleto wa nhlawulo kumbe wa pheji hinkwaro">
-
 <!ENTITY imageToolbarCmd.label "Xifaniso">
 <!ENTITY imageToolbarCmd.tooltip "Nghenisa xifaniso xintshwa kumbe hlela swihlawulekisi leswi hlawuriweke swa xifaniso">
 <!ENTITY hruleToolbarCmd.label "Layini ya H">
@@ -248,7 +231,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nghenisa vito rintshwa ra enkhara kumbe hlela swihlawulekisi swa enkhara leswi hlawuriweke">
 <!ENTITY TextColorButton.tooltip "Hlawula muhlovo wa tsalwa">
 <!ENTITY BackgroundColorButton.tooltip "Hlawula muhlovo wa xitandzhaku">
-<!ENTITY HighlightColorButton.tooltip "Hlawula muhlovo wo kombisa wa tsalwa">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Sayizi leyintsongo ya fonto">
@@ -280,12 +262,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Hlawula">
-<!ENTITY structSelect.accesskey "h">
-<!ENTITY structRemoveTag.label "Susa thege">
-<!ENTITY structRemoveTag.accesskey "s">
-<!ENTITY structChangeTag.label "Cinca thege">
-<!ENTITY structChangeTag.accesskey "c">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "Nghenisa">

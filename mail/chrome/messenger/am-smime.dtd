@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Nhlayiseko">
-<!ENTITY securityHeading.label "Ku rhumela no amukela mahungu lama nga sayiniwa kumbe ku tsariwa, u fanele u kongomisa eka xitifiketi xo sayiniwa wa digithali na xitifiketi xo tsariwa.">
-<!ENTITY encryptionGroupTitle.label "Ku tsala">
-<!ENTITY encryptionChoiceLabel.label "Malulamisele yo tsala lama nga hoxeka loko ku rhumeriwa mahungu:">
-<!ENTITY neverEncrypt.label "U nga swi endli (ku tirhisa ku tsala)">
-<!ENTITY alwaysEncryptMessage.label "Swa laveka (u nge rhumeli hungu loko vaamukeri hinkwavo va nga ri na switifiketi)">
-<!ENTITY encryptionCert.message "Tirhisa xitifiketi lexi ku tsala &amp; ku sula mahungu lama u rhumeriweke wona:">
-
 <!ENTITY signingGroupTitle.label "Ku sayina ka digithali">
-<!ENTITY signMessage.label "Sayina mahungu hi digithali (hi xihoxo)">
-<!ENTITY signingCert.message "Tirhisa xitifiketi lexi ku sayina mahungu lama u rhumeriweke wona hi digithali:">
-
-<!ENTITY certificates.label "Switifiketi">
 

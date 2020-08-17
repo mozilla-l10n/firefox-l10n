@@ -14,6 +14,7 @@ pw-erased-ok = U surile Phasiwedinkulu ya wena. { pw-empty-warning }
 pw-not-wanted = Tivonele! U teke xiboho xo ka u nga tirhisi Phasiwedinkulu. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = U le ka modi wa FIPS sweswi. FIPS yi lava Phasiwedinkulu leyi nga na swin'wana.
+
 pw-change-success-title = Ku cinca Phasiwedi swi Humelerile
 pw-change-failed-title = Ku cinca Phasiwedi swi Tsandzile
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Cinca Phasiwodi-nkulu
+
 set-password-old-password = Phasiwedi ya sweswi:
 set-password-new-password = Phasiwedi leyintshwa:
 set-password-reenter-password = Nghenisa nakambe phasiwedi:
@@ -31,6 +33,7 @@ master-password-warning = Vona leswaku u tsundzuka phasiwedi-nkulu leyi u nga yi
 
 remove-password =
     .title = Susa Phasiwedinkulu
+
 remove-info =
     .value = U fanele ku nghenisa phasiwedi ya wena ya sweswi ku kota ku ya emahlweni:
 remove-warning1 = Phasiwedinkulu ya wena yi tirhiseriwa ku sirhelela mahungu ya nkok ayo kota tiphasiwedi ta sayiti.

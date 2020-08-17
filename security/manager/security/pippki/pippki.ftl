@@ -21,6 +21,9 @@ change-password-reenter = Phasiwedi yintshwa (nakambe):
 reset-password-window =
     .title = Lulamisa nakambe phasiwedinkulu
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Lulamisa nakambe
 reset-password-text = Loko u lulamisa nakambe pasiwedinkulu hinkwaswo swihlayisiwa swa webe na tiphasiwedi ya imeyili, fomo ya data, switifikheti swa wena, na makhiya ya wena ya le tlhelo ya ta rivariwa. Utiyisile leswaku u lava ku lulamisa nakambe phasiwedinkulu ya wena ke?
