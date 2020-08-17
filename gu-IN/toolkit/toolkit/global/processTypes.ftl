@@ -4,10 +4,6 @@
 
 process-type-web = વેબ સામગ્રી
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = વિશિષ્ટ સામગ્રી
-
 process-type-extension = ઍક્સટેન્શન
 
 # process used to open file:// URLs

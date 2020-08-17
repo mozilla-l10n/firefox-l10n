@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = નવી વિન્ડોમાં ખસેડો
     .accesskey = W
-undo-close-tab =
-    .label = બંધ કરેલ ટૅબને ફરીથી શરૂ કરો
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ટૅબને બંધ કરો
     .accesskey = C

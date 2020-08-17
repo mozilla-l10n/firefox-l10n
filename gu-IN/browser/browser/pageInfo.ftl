@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = આ રીતે સંગ્રહો...
     .accesskey = e
-media-preview =
-    .value = મીડિયા પૂર્વદર્શન:
 
 perm-tab =
     .label = પરવાનગીઓ
@@ -129,7 +127,6 @@ security-site-data-cookies-only = હા, કૂકીઝ
 security-site-data-no = ના
 
 image-size-unknown = અજ્ઞાત
-not-set-verified-by = સ્પષ્ટ થયેલ નથી
 page-info-not-specified =
     .value = સ્પષ્ટ થયેલ નથી
 not-set-alternative-text = સ્પષ્ટ થયેલ નથી
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Quirks સ્થિતિ
 general-strict-mode =
     .value = પ્રમાણભૂત સુસંગત સ્થિતિ
-security-no-owner = આ વેબ સાઈટ માલિક જાણકારી પૂરી પાડતી નથી.
 page-info-security-no-owner =
     .value = આ વેબ સાઈટ માલિક જાણકારી પૂરી પાડતી નથી.
 media-select-folder = ચિત્રો સંગ્રહવા માટે ફોલ્ડર પસંદ કરો

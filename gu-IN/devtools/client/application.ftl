@@ -28,10 +28,6 @@ serviceworker-worker-unregister = નોંધણી રદ કરો
 serviceworker-worker-debug = ડિબગ કરો
     .title = માત્ર ચાલુ સેવા કાર્યકરો ડિબગ કરવામાં આવી શકે છે
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = શરૂઆત
-
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = સુધારેલું <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -51,10 +47,6 @@ serviceworker-worker-status-running = ચાલી રહ્યું છે
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = બંધ કરી દીધું
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = રજિસ્ટર થાય છે
 
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers

@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "કાપો">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "નકલ">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "ચોંટાડો">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "છેલ્લી ક્રિયા રદ કરો">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "બધુ પસંદ કરો">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "રદ કરો">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "શબ્દકોષમાં એડ-ઓન">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "શબ્દકોષમાં ઉમેરો રદ કરો">

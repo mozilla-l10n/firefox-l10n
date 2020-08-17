@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = અહીં ડ્રેગન છે!
-about-config-warning-text = આ અદ્યતન સેટિંગ્સને બદલવું આ એપ્લિકેશનની સ્થિરતા, સુરક્ષા અને પ્રદર્શન માટે નુકસાનકારક હોઈ શકે છે. તમે જે કરો છો તેના વિશે તમને ખાતરી છે કે તમારે ફક્ત ચાલુ રાખવું જોઈએ.
-about-config-warning-checkbox = ફરીથી મને હેરાન કરો, કૃપા કરીને!
-about-config-warning-button = હું જોખમ સ્વીકારું છું
-
-about-config2-title = અદ્યતન રૂપરેખાંકન
-
-about-config-search-input =
-    .placeholder = શોધો
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = સાવધાની સાથે આગળ વધો
@@ -32,13 +21,6 @@ about-config-page-title = અદ્યતન પસંદગીઓ
 about-config-search-input1 =
     .placeholder = શોધ પસંદગી નામ
 about-config-show-all = બધું બતાવો
-
-about-config-pref-add = ઉમેરો
-about-config-pref-toggle = ટૉગલ કરો
-about-config-pref-edit = ફેરફાર કરો
-about-config-pref-save = સાચવો
-about-config-pref-reset = ફરીથી સેટ કરો
-about-config-pref-delete = કાઢી નાખો
 
 about-config-pref-add-button =
     .title = ઉમેરો

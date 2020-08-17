@@ -109,6 +109,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = ઓછ ટાઇપ કરો, વધુ શોધો: { $engineName } તમારા સરનામાં બારમાંથી જ શોધો.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -179,6 +181,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = મૂળભૂત શોધ એંજીન તરીકે સેટ કરો
     .accesskey = D
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -260,8 +269,10 @@ popup-all-windows-shared = તમારી સ્ક્રીન પર બધ�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = સરનામું શોધો અથવા દાખલ કરો
+
 urlbar-placeholder =
     .placeholder = સરનામું શોધો અથવા દાખલ કરો
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = બ્રાઉઝર રીમોટ કંટ્રોલ હેઠળ છે
 urlbar-switch-to-tab =

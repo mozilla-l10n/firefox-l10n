@@ -6,12 +6,8 @@
 
 <!ENTITY pasteNoFormatting.label "બંધારણ ઘડ્યા વિના ચોંટાડો">
 <!ENTITY pasteNoFormatting.accesskey "o">
-<!ENTITY pasteAs.label "આ રીતે ચોંટાડો">
-<!ENTITY pasteAs.accesskey "a">
 
 <!ENTITY pasteAsQuotationCmd.label "અવતરણ તરીકે ચોંટાડો">
-<!ENTITY enableInlineSpellChecker.label "તમે લખો તે પ્રમાણે જોડણીચકાસણી">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "એડ-ઓન">
@@ -101,9 +97,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "ફકરાનું બંધારણ પસંદ કરો">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "ભાગનું લખાણ">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "ઉન્નત ગુણધર્મો">  
+<!ENTITY bodyTextCmd.label "ભાગનું લખાણ">  
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "ગોઠવો">
 <!ENTITY alignLeft.label "ડાબુ">
@@ -114,11 +108,6 @@
 <!ENTITY alignRight.tooltip "જમણેથી ગોઠવો">
 <!ENTITY alignJustify.label "ન્યાય">
 <!ENTITY alignJustify.tooltip "ગોઠવણી ન્યાય">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "સ્તર">
-<!ENTITY layerSendToBack.tooltip "પાછું મોકલો">
-<!ENTITY layerBringToFront.tooltip "અગ્ર ભાગમાં લાવો">
 
 <!ENTITY increaseIndent.label "હાંસિયાથી અંતર વધારો">
 <!ENTITY decreaseIndent.label "હાંસિયાથી અંતર ઘટાડો">
@@ -169,16 +158,6 @@
 <!ENTITY tableProperties.label "કોષ્ટક ગુણધર્મો...">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "મેનુ બાર">
-<!ENTITY formatToolbar.tooltip "સાધનપટ્ટીનું બંધારણ ઘડી રહ્યા છીએ">
-<!ENTITY printToolbarCmd.label "છાપો">
-<!ENTITY printToolbarCmd.tooltip "આ પાનાને છાપો">
-<!ENTITY findToolbarCmd.label "શોધો">
-<!ENTITY findToolbarCmd.tooltip "લખાણને પાનામાં શોધો">
-<!ENTITY spellToolbarCmd.label "જોડણી">
-<!ENTITY spellToolbarCmd.tooltip "પસંદગીની અથવા વર્તમાન પાનાની જોડણી ચકાસો">
-
 <!ENTITY imageToolbarCmd.label "ઈમેજ">
 <!ENTITY imageToolbarCmd.tooltip "નવી ઈમેજ એડ-ઓન અથવા પસંદ કરેલ ઈમેજના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY hruleToolbarCmd.label "આડી લીટી">
@@ -191,7 +170,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "નવા નામવાળું એન્કર એડ-ઓન અથવા પસંદ કરેલ એન્કરના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY TextColorButton.tooltip "લખાણ માટે રંગ પસંદ કરો">
 <!ENTITY BackgroundColorButton.tooltip "પાશ્વ ભાગ માટે રંગ પસંદ કરો">
-<!ENTITY HighlightColorButton.tooltip "લખાણ માટે પ્રકાશિત રંગ પસંદ કરો">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "નાનું ફોન્ટ માપ">
@@ -208,14 +186,6 @@
 <!ENTITY alignLeftButton.tooltip "લખાણને ડાબા હાંસિયા સાથે ગોઠવો">
 <!ENTITY alignCenterButton.tooltip "લખાણને કેન્દ્રમાં ગોઠવો">
 <!ENTITY alignRightButton.tooltip "લખાણને જમણે હાંસિયે ગોઠવો">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "પસંદ કરો">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "ટેગ દૂર કરો">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "ટેગ બદલો">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "એડ-ઓન">

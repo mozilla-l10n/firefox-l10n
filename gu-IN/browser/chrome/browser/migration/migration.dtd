@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "વિકલ્પો, બુકમાર્કો, ઇતિહાસ, પાસવર્ડો, અહીંથી આયાત કરો:">
 <!ENTITY importFromUnix.label           "પસંદગીઓ, બુકમાર્કો, ઇતિહાસ, પાસવર્ડો, અહીંથી આયાત કરો:">
-<!ENTITY importFromBookmarks.label      "બુકમાર્કો આયાત કરો:">
 
 <!ENTITY importFromIE.label             "ઈન્ટરનેટ એક્સપ્લોરર">
 <!ENTITY importFromIE.accesskey         "M">

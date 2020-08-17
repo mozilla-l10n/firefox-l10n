@@ -71,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = તમારા સાચવેલા લોગિન્સ શોધી રહ્યાં છો? { -sync-brand-short-name }  સેટ કરો.
+
 about-logins-login-intro-heading-logged-in = કોઈ સમન્વયિત લોગિન્સ મળ્યાં નથી.
 login-intro-description = જો તમે તમારા લોગિન્સને કોઈ અલગ ડિવાઇસ { -brand-product-name } પર સાચવ્યાં છે, તો અહીં તેમને કેવી રીતે મેળવવા તે અહીં છે:
 login-intro-instruction-fxa = જ્યાં તમારા લોગિન્સ સચવાયા છે ત્યાં ડિવાઇસ પર તમારું { -fxaccount-brand-name } બનાવો અથવા સાઇન ઇન કરો
@@ -120,6 +121,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = સાચવેલા
 ## Master Password notification
 
 master-password-notification-message = સાચવેલ લોગિન્સ અને પાસવર્ડો જોવા માટે કૃપા કરીને તમારો મુખ્ય પાસવર્ડ દાખલ કરો
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = લોગિન
     .accesskey = L
@@ -171,4 +175,6 @@ about-logins-error-message-default = આ પાસવર્ડને સાચ�
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 
