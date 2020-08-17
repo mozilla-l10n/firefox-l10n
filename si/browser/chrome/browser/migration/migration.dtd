@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "වරණ, පිටු සලකුණු, පෙරදෑ, රහස්පද සහ අනෙකුත් දත්ත ආයාත කළ යුත්තේ:">
 <!ENTITY importFromUnix.label           "මනාපයන්, පිටු සලකුණු, පෙරදෑ, රහස්පද සහ අනෙකුත් දත්ත ආයාත කළ යුත්තේ:">
-<!ENTITY importFromBookmarks.label      "පිටු සලකුණු ආයාත කිරීම:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

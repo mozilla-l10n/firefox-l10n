@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = සුරකින අයුර…
     .accesskey = e
-media-preview =
-    .value = මාධ්‍යය පෙරදැක්ම:
 
 perm-tab =
     .label = බලතල
@@ -120,7 +118,6 @@ help-button =
 security-site-data-no = නැත
 
 image-size-unknown = නොදන්නා
-not-set-verified-by = විශේෂිතව දක්වා නැත
 page-info-not-specified =
     .value = විශේෂිතව දක්වා නැත
 not-set-alternative-text = විශේෂිතව දක්වා නැත
@@ -145,7 +142,6 @@ general-quirks-mode =
     .value = Quirks ආකාරය
 general-strict-mode =
     .value = සම්මත අනුකූල ආකාරය
-security-no-owner = මෙම වෙබ් අඩවිය අයිතිය පිළිබඳ තොරතුරු සපයන්නේ නැත..
 page-info-security-no-owner =
     .value = මෙම වෙබ් අඩවිය අයිතිය පිළිබඳ තොරතුරු සපයන්නේ නැත..
 media-select-folder = රූපය සුරකීමට බහලුමක් තෝරන්න

@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!-- Window title -->
-<!ENTITY windowTitle.label     "රූපයේ සහ සබැඳියේ ස්ථානය පරීක්ෂා කිරීම">
-<!ENTITY succeeded.label       "සාර්ථකයි">
-<!ENTITY failed.label          "අසාර්ථකයි">
-<!ENTITY closeButton.label     "වහන්න">

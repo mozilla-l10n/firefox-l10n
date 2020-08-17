@@ -70,14 +70,11 @@
 <!ENTITY maxMessagesEnd.label "ට වඩා වැඩි ලිපි භාගත කිරීමට පෙර විමසන්න">
 <!ENTITY alwaysAuthenticate.label "ෙම සේවාදායකයට සම්බන්ධ වීමේදී සෑමවිටම අනන්‍යතාවය තහවුරු කරවාගන්න">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcPicker.label " newsrc ගොනුව තෝරන්න">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "සම්පූර්ණ නම් (උදාහරණ, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "කෙටිකළ නම් (උදාහරණ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "වැඩිමනත්...">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localPath.label "ස්ථානීය ඩිරෙක්ටරිය (Local directory):">
 <!ENTITY localFolderPicker.label "ස්ථානීය ෆෝල්ඩරය තෝරන්න">
 <!ENTITY browseFolder.label "පිරික්සන්න...">
 <!ENTITY browseFolder.accesskey "B">

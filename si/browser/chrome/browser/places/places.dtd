@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ගොනුව තෝරන්න…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "මෙම පිටුව ගැන නොසිතන්න">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "විවෘත කරන්න">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "නව කවුළුවක විවෘත කරන්න">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "නව පුද්ගලික කවුළුවක විවෘත කරන්න">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "නව ටැබයක විවෘත කරන්න">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "සියල්ල ටැබ තුළ විවෘත කරන්න">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "වත්කම්">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "නම අනුව පෙළ ගැසු">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "නව පිටු සලකුණ…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "නව බහලුම…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "නව වෙන්කරණය">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "නම">
 <!ENTITY col.tags.label          "ලේබල">
 <!ENTITY col.url.label           "පිහිටුම">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "පිවිසුම් එකතුව">
 <!ENTITY col.dateadded.label     "එක් කළා">
 <!ENTITY col.lastmodified.label  "අවසන් වෙනස්කම">
-
-<!ENTITY historySearch.placeholder  "සෙවුම් ඉතිහාසය">
-<!ENTITY bookmarksSearch.placeholder  "සෙවුම් පිටුසලකුණු">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "වත්කම් දර්ශනයට සහ සැකසීමට අයිතමයක් තෝරන්න">
 
-<!ENTITY view.label               "දසුන්">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "දිනය අනුව">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "අඩවිය අනුව">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "වැඩි පිවිසුම්වාර ගණන අනුව">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "අවසන්වර පිවිසුම අනුව">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "දිනය සහ අඩවිය අනුව පෙළ ගැසු">
-<!ENTITY byDayAndSite.accesskey   "t">

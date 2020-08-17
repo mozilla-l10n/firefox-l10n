@@ -73,15 +73,6 @@
 <!ENTITY notCached.longDesc "<p>ඉල්ලූ ලේඛනය &brandShortName;හි කෑෂ් තුළ නැත.</p><ul><li> ආරක්ෂක ක්‍රමවේදයක් ලෙස, &brandShortName; ස්වයංක්‍රීයව සංවේදී දත්ත සහිත ලේඛන යළි ලබා ගන්නේ නැත.</li><li>වෙබ් අඩවියෙන් ලේඛන යළි ලබා ගැනීමට නැවත උත්සාහ කරන්න මත ක්ලික් කරන්න.</li></ul>">
 
 <!ENTITY netOffline.title "නොබැඳි ආකාරය">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Content Encoding Error">
 <!ENTITY contentEncodingError.longDesc "<ul> 

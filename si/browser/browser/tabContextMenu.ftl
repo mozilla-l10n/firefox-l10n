@@ -32,9 +32,9 @@ move-to-end =
 move-to-new-window =
     .label = නව කවුළුවකට යන්න
     .accesskey = W
-undo-close-tab =
-    .label = ටැබ් වැසීම අහෝසි කරන්න
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ටැබය වසන්න
     .accesskey = C

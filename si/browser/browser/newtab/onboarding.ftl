@@ -12,7 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = දැන් එය උත්සහ කරන්න
 onboarding-button-label-get-started = අරඹන්න
 
 ## Welcome modal dialog strings
@@ -24,6 +23,13 @@ onboarding-start-browsing-button-label = ගවේෂණය අරඹන්න
 onboarding-cards-dismiss =
     .title = ඉවත් කරන්න
     .aria-label = ඉවත් කරන්න
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -52,15 +58,6 @@ onboarding-sync-form-header = ඔබගේ විද්‍යුත් තැප
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = පුද්ගලික ගවේශනය
-
-onboarding-screenshots-title = තිරපිටපත්
-
-onboarding-addons-title = ඇඩෝන
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = සම්මුහු
 
 
 ## Message strings belonging to the Return to AMO flow

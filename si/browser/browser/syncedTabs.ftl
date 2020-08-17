@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = සම්මුහුර්ථ කළ ටැබ්
 synced-tabs-sidebar-noclients-subtitle = ඔබගේ ටැබ් වෙනත් උපාංගයක සිට බැලීමට අවශ්‍යද?
-synced-tabs-sidebar-notsignedin = වෙනත් උපාංගයන්ගේ ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.
 synced-tabs-sidebar-unverified = ඔබේ ගිනුම තහවුරු කල යුතුයි.
 synced-tabs-sidebar-notabs = විවෘත කළ ටැබ් නැත
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } මනාපයන් විවෘත කරන්න

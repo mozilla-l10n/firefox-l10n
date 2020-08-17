@@ -12,7 +12,6 @@ fullscreen = මුළු තිරය
 find = සොයන්න
 new-tab = නව ටැබය
 add-bookmark = පිටු සලකුණ එක් කරන්න
-open-bookmarks-sidebar = පිටු සලකුණු පැති තීරුව පෙන්වන්න
 reader-view = කියවුම් දසුන
 # Meant to match the string displayed in an empty URL bar.
 open-location = සොයන්න හෝ ලිපිනය ඇතුලත් කරන්න

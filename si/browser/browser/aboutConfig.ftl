@@ -2,26 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-config-warning-checkbox = කරුණාකර, මට නැවත සිහි කැඳවන්න !
-about-config-warning-button = මම අවදානම පිළි ගනිමි
-
-about-config2-title = සංකීර්ණ වින්‍යාසයන්
-
-about-config-search-input =
-    .placeholder = සොයන්න
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 ##
 
 about-config-show-all = සියල්ල පෙන්වන්න
-
-about-config-pref-add = එකතු
-about-config-pref-toggle = සක්‍රිය කරන්න
-about-config-pref-edit = සැකසුම්
-about-config-pref-save = සුරකින්න
-about-config-pref-reset = යළි සැකසුම
-about-config-pref-delete = මකන්න
 
 about-config-pref-add-button =
     .title = එකතු

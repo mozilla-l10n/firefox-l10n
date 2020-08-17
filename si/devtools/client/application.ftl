@@ -22,10 +22,6 @@ serviceworker-list-aboutdebugging = වෙනත් වසම් වල සේ�
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = ලියාපදිංචිය ඉවත් කරන්න
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = අරඹන්න
-
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = යාවත් කල <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -45,8 +41,4 @@ serviceworker-worker-status-running = ක්‍රියාත්මක වෙ�
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = නවතා ඇත
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = ලියාපදිංචි කරමින්
 
