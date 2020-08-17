@@ -17,6 +17,9 @@ unpin-tab =
 move-to-new-window =
     .label = Hamisha kwa Dirisha Mpya
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Funga Kichupo
     .accesskey = F

@@ -11,29 +11,8 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Wezesha">
-<!ENTITY cmd.enableAddon.accesskey            "W">
-<!ENTITY cmd.disableAddon.label               "Lemaza">
-<!ENTITY cmd.disableAddon.accesskey           "L">
-
-<!ENTITY cmd.askToActivate.label              "Uliza ili kuamilisha">
-
-<!ENTITY cmd.alwaysActivate.label             "Amilisha kila wakati">
 
 
-
-
-<!ENTITY cmd.uninstallAddon.label             "Ondoa">
-<!ENTITY cmd.uninstallAddon.accesskey         "O">
-<!ENTITY cmd.showPreferencesWin.label         "Chaguo">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Badilisha chaguo hili la vifaa vya nyongeza">
-<!ENTITY cmd.showPreferencesUnix.label        "Mapendeleo">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Badilisha mapendeleo haya ya vifaa vya nyongeza">
-
-<!ENTITY cmd.showReleaseNotes.label           "Onyesha Uachiliaji wa Dokezo">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Onyesha uachiliaji wa vidokezo kwa sasaisho hili">
-<!ENTITY cmd.hideReleaseNotes.label           "Ficha Uwachiliaji wa Vidokezo">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ficha uachiliaji wa vidokezo kwa sasaisho hili">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -46,44 +25,12 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Katiza">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Zaidi">
-<!ENTITY addon.details.tooltip                "Onyesha maelezo zaidi kuhusu kifaa hiki cha nyongeza">
-<!ENTITY addon.unknownDate                    "Isiyojulikana">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(imelemazwa)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Sasaisha">
-<!ENTITY addon.undoAction.label               "Tendua">
-<!ENTITY addon.undoAction.tooltip             "Tendua kitendo hiki">
-<!ENTITY addon.undoRemove.label               "Tendua">
-<!ENTITY addon.undoRemove.tooltip             "Weka kifaa hiki kikiwa kimesakinishwa">
-
-<!ENTITY addon.install.label                  "Sakinisha">
-<!ENTITY addon.install.tooltip                "Sakinisha kifaa hiki cha nyongeza">
-<!ENTITY addon.updateNow.label                "Sasaisha Sasa">
-<!ENTITY addon.updateNow.tooltip              "Sakinisha kisasaisho cha kifaa hiki cha nyongeza">
-<!ENTITY addon.includeUpdate.label            "Ambatanisha katika Kisasaisho">
-<!ENTITY addon.updateAvailable.label          "Kisasaisho kinapatikana">
-<!ENTITY addon.checkingForUpdates.label       "Kukagua kwa visasaisho…">
-<!ENTITY addon.releaseNotes.label             "Achilia Vidokezo:">
-<!ENTITY addon.loadingReleaseNotes.label      "Kupakia…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Samahani, lakini kulikuwa na kosa kupakia kiachilizi vidokezi.">
-
-<!ENTITY addon.createdBy.label                "Kwa ">
-
-<!ENTITY settings.path.button.label           "Vinjari…">
 
 
 

@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Gundua kiotomatiki mipangilio ya proxi ya mtandao huu
     .accesskey = n
 
-connection-proxy-http-share =
-    .label = Tumia seva hii ya proxi kwa itifaki zote
-    .accesskey = m
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

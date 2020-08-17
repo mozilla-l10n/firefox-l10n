@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Machaguo
-           *[other] Mapendeleo
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Machaguo
@@ -286,8 +279,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = Masharti ya Huduma
-
 ## Privacy Section
 
 
@@ -308,6 +299,7 @@ forms-master-pw-change =
     .accesskey = J
 
 forms-master-pw-fips-title = Kwa sasa upo kwenye modi ya FIPS. Inahitaji Neno la Siri Kuu lisilo tupu.
+
 forms-master-pw-fips-desc = Ubadilishaji wa Neno la Siri Umeshindwa
 
 ## OS Authentication dialog
@@ -383,6 +375,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Vyeti
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Chagua Faili…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Sahau Kuhusu Tovuti Hii">
-<!ENTITY cmd.deleteDomainData.accesskey "S">
-
-<!ENTITY cmd.open.label                  "Fungua">
-<!ENTITY cmd.open.accesskey              "F">
-<!ENTITY cmd.open_window.label           "Fungua katika Dirisha Mpya">
-<!ENTITY cmd.open_window.accesskey       "D">
-
-
-<!ENTITY cmd.open_tab.label              "Fungua katika Kichupo Kipya">
-<!ENTITY cmd.open_tab.accesskey          "c">
-<!ENTITY cmd.open_all_in_tabs.label      "Fungua Zote kwa vichupo">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "F">
-
-<!ENTITY cmd.properties.label      "Sifa">
-<!ENTITY cmd.properties.accesskey  "f">
-
-<!ENTITY cmd.sortby_name.label              "Panga Kwa Jina">
-<!ENTITY cmd.sortby_name.accesskey          "P">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Alamisho Mpya…">
-<!ENTITY cmd.new_bookmark.accesskey        "M">
-<!ENTITY cmd.new_folder.label              "Kabrasha Mpya…">
-<!ENTITY cmd.new_folder.accesskey          "p">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Kitenganishi Kipya">
-<!ENTITY cmd.new_separator.accesskey       "K">
 
 <!ENTITY col.name.label          "Jina">
 <!ENTITY col.tags.label          "Lebo">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Chagua kipengee cha kuangalia na kuhariri sifa zake">
 
-<!ENTITY view.label               "Onyesha">
-<!ENTITY view.accesskey           "s">
-<!ENTITY byDate.label             "Kwa Tarehe">
-<!ENTITY byDate.accesskey         "T">
-<!ENTITY bySite.label             "Kwa Tovuti">
-<!ENTITY bySite.accesskey         "T">
-<!ENTITY byMostVisited.label      "Kwa Kutembelewa Zaidi">
-<!ENTITY byMostVisited.accesskey  "Z">
-<!ENTITY byLastVisited.label      "Kwa Mara ya mwisho Kutembelewa">
-<!ENTITY byLastVisited.accesskey  "M">
-<!ENTITY byDayAndSite.label       "Kwa Tarehe na Tovuti">
-<!ENTITY byDayAndSite.accesskey   "r">

@@ -22,6 +22,5 @@ proxyConnectFailure-title = Seva mbadala inakataa miungano
 proxyResolveFailure-title = Imeshindwa kupata seva mbadala
 redirectLoop-title = Ukurasa huu hauelekezi tena vizuri
 unknownSocketType-title = Mwitikio usiotarajiwa kutoka kwa seva
-cspBlocked-title = Imezuiliwa na Sera ya Usalama wa Maudhui
 corruptedContentError-title = Kosa la Kuharibika kwa Maudhui
 remoteXUL-title = XUL ya Mbali

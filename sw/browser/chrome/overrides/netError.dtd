@@ -12,72 +12,40 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Imeshindwa kuunganisha">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Anwani hii imezuiliwa">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "Faili haipatikani">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kagua jina la faili kwa utumizi wa herufi kubwa na makosa mengine ya kuchapa.</li> <li>Kagua kuona kama faili iliondolewa, imepewa jina lipya au imefutwa.</li> </ul>">
 
 
-
-<!ENTITY generic.title "Lo.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; haiwezi kupakia ukurasa huu kwa sababu fulani.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Muunganisho ulisitishwa">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Waraka Umepita  Wakati">
 
 <!ENTITY notCached.longDesc "<p>Waraka ulioombwa haupatikani katika &brandShortName; kache. .</p><ul><li>Kama hadhari ya usalama, &brandShortName; haiombi tena kiotomatiki nyaraka zenye hisia.</li><li>Bofya Jaribu Tena ili kuomba tena waraka kutoka kwa wavuti.</li></ul>">
 
-<!ENTITY netOffline.title "Modi ya nje ya mtandao">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Bonyeza &quot;Jaribu tena&quot; Ili kubadili kwa hali ya mtandaoni na kupakia upya ukurasa.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Kosa la Usimbuaji Yaliyomo">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Tafadhali wasiliana na wamiliki wa tovuti kuwajulisha kuhusu shida hii.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Aina ya Faili Isiyo Salama">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Tafadhali wasililiana na wamiliki wa tovuti kuwajulisha kuhusu shida hii.</li> </ul>">
-
-<!ENTITY netReset.title "Muungano umewekwa upya">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Wakati wa muungano umekwisha">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Anwani haikueleweka">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Huenda utahitaji kusakinsha programu nyingine ili kufungua anwani hii.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Seva mbadala inakataa miungano">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kagua mipangilio mbadala kuhakikisha kuwa ni sahihi.</li> <li>Wasiliana na msimamizi wako wa mtandao kuhakikisha uwa seva mbadala inafanya kazi.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Imeshindwa kupata seva mbadala">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kagua mipangilio ya mbadala kuhakikisha kuwa ni sahihi.</li> <li>Kagua kuhakikisha tarakilishi yako ina muungano wa mtandao unaofanya kazi.</li> <li>Kama tarakilishi au mtandao wako umelindwa na ngome au mbadala, hakikisha kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Ukurasa huu hauelekezi tena vizuri">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Shida hii yaweza wakati mwingine kusababishwa na kulemaza au kukataa kukubali vidukizo.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Mwitikio usiotarajiwa kutoka kwa seva">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kagua kuhakikisha kuwa mfumo wako umesakinisha Msimamizi wa Usalama wa Binafsi </li> <li>Hii yaweza kusababishwa na usanidi usio sanifu kwenye sava.</li> </ul>">
 
@@ -89,17 +57,11 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Tovuti yaweza kuwa haipatikani kwa muda ama inashuguli sana. Jaribu tena katika dakika chache.</li> <li>Kama umeshindwa kupakia kurasa zozote, kagua muungano mtandao wa tarakilish yako.</li> <li>Kama tarakilishi au mtandao wako umelindwa na ngome au mbadala, hakikisha kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Kosa la Kuharibika kwa Maudhui">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
 
 
-
-<!ENTITY remoteXUL.title "XUL ya Mbali">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
 

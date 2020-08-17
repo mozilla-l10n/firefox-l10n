@@ -18,6 +18,9 @@ change-password-token = Kifaa cha Usalama: { $tokenName }
 reset-password-window =
     .title = Weka Upya Nywila Kuu
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Weka upya
 

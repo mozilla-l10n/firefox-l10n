@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Kata">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Nakili">
-<!ENTITY copyCmd.accesskey "N">
-<!ENTITY pasteCmd.label "Bandika">
-<!ENTITY pasteCmd.accesskey "B">
-<!ENTITY undoCmd.label "Tendua">
-<!ENTITY undoCmd.accesskey "T">
-<!ENTITY selectAllCmd.label "Chagua Yote">
-<!ENTITY selectAllCmd.accesskey "Y">
-<!ENTITY deleteCmd.label "Futa">
-<!ENTITY deleteCmd.accesskey "F">
-
 <!ENTITY spellAddToDictionary.label "Ongea kwa Kamusi">
 <!ENTITY spellAddToDictionary.accesskey "w">
 <!ENTITY spellUndoAddToDictionary.label "Tngua Kuongeza Kwa Kamusi">

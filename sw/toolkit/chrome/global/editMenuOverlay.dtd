@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Hariri">
-<!ENTITY editMenu.accesskey        "H">
-<!ENTITY undoCmd.label             "Tendua">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "T">
-<!ENTITY redoCmd.label             "Rudia">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "Kata">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Nakili">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "N">
-<!ENTITY pasteCmd.label            "Bandika">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "B">
-<!ENTITY deleteCmd.label           "Futa">
-<!ENTITY deleteCmd.accesskey       "F">
-<!ENTITY selectAllCmd.label        "Chagua Zote">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "Z">
-
 <!ENTITY findCmd.label             "Tafuta">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "T">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "n">
-<!ENTITY findPreviousCmd.label     "Tafuta Kabla">
-<!ENTITY findPreviousCmd.accesskey "b">

@@ -4,6 +4,7 @@
 
 page-title = Maelezo ya Usuluhishaji
 page-subtitle = Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia kuhusu { -brand-short-name }, kagua kiungo chetu <a data-l10n-name="support-link">wavuti wa usaidizi</a>.
+
 crashes-id = Kitambulishi Ripoti
 crashes-send-date = Imewasilishwa
 extensions-title = Viendelezi
@@ -29,8 +30,6 @@ modified-prefs-name = Jina
 user-js-title = Pendeleo za mtumiaji.js
 user-js-description = Folda ya maelezo mafupi yako ina faili ya <a data-l10n-name="user-js-link">mtumiaji.id</a>, ambayo inajumuisha pendeleo ambazo hazikuundwa na { -brand-short-name }.
 graphics-title = Sanaa
-js-title = Hati ya java
-js-incremental-gc = GC ya Nyongesa
 a11y-title = Ufikikaji
 a11y-activated = Imeamilishwa
 a11y-force-disabled = Zuia Upatikanaji
@@ -67,6 +66,7 @@ blocked-os-version = Imezuiliowa kwa toleo la mfumo wako wa uendeshaji.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Imezuiliwa kwenye viendeshaji vya sanaa. Jaribu kusasaisha viendelezi vyako vya sanaa kwa toleo { $driverVersion } au mpya zaidi.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Ondoa Aina ya Paramita
@@ -79,8 +79,10 @@ gpu-vendor-id = Kitambulishi cha Muuzaji
 gpu-device-id = ID ya Kifaa
 gpu-driver-version = Toleo la Kiendelezi
 gpu-driver-date = Tarehe ya Kiendelezi
+
 min-lib-versions = Toleo la chini lililotarajiwa
 loaded-lib-versions = Toleo linalotumika
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

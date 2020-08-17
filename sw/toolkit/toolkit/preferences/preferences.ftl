@@ -14,6 +14,7 @@ pw-erased-ok = Umefuta Nenosiri Kuu lako.  { pw-empty-warning }
 pw-not-wanted = Isixwayiso! Unqume ukungalisebenzisi Igama Lokungena Eliphethe. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Kwa sasa upo kwenye modi ya FIPS. Inahitaji Neno la Siri Kuu lisilo tupu.
+
 pw-change-success-title = Ukushintsha Igama Lokungena Kuphumelele
 pw-change-failed-title = Ubadilishaji wa Neno la Siri Umeshindwa
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Badilisha Nywila Kuu
+
 set-password-old-password = Nenosiri ya sasa:
 set-password-new-password = Ingiza nenosiri mpya:
 set-password-reenter-password = Ingiza tena nenosiri:
@@ -31,6 +33,7 @@ master-password-warning = Tafadhali hakikisha unakumbuka Nenosiri Kuu umeweka.  
 
 remove-password =
     .title = Ondoa Nywila Kuu
+
 remove-info =
     .value = Lazima uingize nenosiri lako la sasa ili kuendelea:
 remove-warning1 = Nenosiri lako Kuu linatumika ili kulinda maelezo yenye hisia kama manenosiri ya wavuti.

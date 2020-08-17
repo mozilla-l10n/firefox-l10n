@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Kichwa Kifupi"> 
-<!ENTITY message.label    "Sampuli nyingine ya Matini huwekwa hapa.">
-
 <!ENTITY editfield0.label "Jina Tumizi:"> 
 <!ENTITY editfield1.label "Nywila:"> 
-<!ENTITY checkbox.label   "kagua"> 
 <!ENTITY copyCmd.label    "Nakili">
 <!ENTITY copyCmd.accesskey "N">
 <!ENTITY selectAllCmd.label "Chagua Yote">

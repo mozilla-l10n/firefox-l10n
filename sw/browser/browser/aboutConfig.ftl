@@ -2,17 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-config-search-input =
-    .placeholder = Tafuta
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 
 ##
 
 about-config-show-all = Onyesha Yote
-about-config-pref-add = Ongeza
-about-config-pref-save = Hifadhi
+
 about-config-pref-add-button =
     .title = Ongeza
 about-config-pref-save-button =

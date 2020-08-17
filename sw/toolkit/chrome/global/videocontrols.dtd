@@ -11,19 +11,6 @@
 
 
 
-<!ENTITY stats.media "Midia">
-<!ENTITY stats.size "Ukubwa">
-<!ENTITY stats.activity "Shughuli">
-<!ENTITY stats.activityPaused "Imesitishwa">
-<!ENTITY stats.activityPlaying "Inacheza">
-<!ENTITY stats.activityEnded "Imekamilika">
-<!ENTITY stats.activitySeeking "(inatafuta)">
-<!ENTITY stats.volume "Sauti">
-<!ENTITY stats.framesParsed "Fremu zilizochanganuliwa">
-<!ENTITY stats.framesDecoded "Fremu zilizosimbuliwa">
-<!ENTITY stats.framesPresented "Fremu zilizoonyeshwa">
-<!ENTITY stats.framesPainted "Fremu zilizopakwa rangi">
-
 <!ENTITY error.aborted "Upakiaji wa video umesitishwa.">
 <!ENTITY error.network "Kucheza tena video kumeghairiwa kwa sababu ya hitilafu ya mtandao.">
 <!ENTITY error.decode "Video haiwezi kuchezwa kwa sababu faili imeharibika.">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 ya #2 umeisha">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

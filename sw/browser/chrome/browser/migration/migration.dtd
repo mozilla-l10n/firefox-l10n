@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Leta Chaguo, Alamisho, Historia, Maneno ya siri na data nyingine kutoka kwa:">
 <!ENTITY importFromUnix.label           "Leta Mapendeleo, Alamisho, Historia, Maneno ya siri na data nyingine kutoka kwa:">
-<!ENTITY importFromBookmarks.label      "Leta Alamisho kutoka kwa:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

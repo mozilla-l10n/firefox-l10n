@@ -2,49 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Punguza">
-<!ENTITY bringAllToFront.label    "Leta Yote Mbele">
-<!ENTITY zoomWindow.label         "Kuza">
-<!ENTITY windowMenu.label         "Dirisha">
-
-<!ENTITY helpMenu.label           "Msaada"> 
-<!ENTITY helpMenu.accesskey       "M"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Msaada"> 
-<!ENTITY helpMenuWin.accesskey    "M">
-
 <!ENTITY aboutProduct2.label      "Kuhusu &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShortName; Help">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Njiamkato za Kibodi">
-<!ENTITY helpKeyboardShortcuts.accesskey "N">
-
-<!ENTITY helpSafeMode.label       "Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…">
-<!ENTITY helpSafeMode.accesskey   "A">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "Kusuluhisha Maelezo">
-<!ENTITY helpTroubleshootingInfo.accesskey  "K">
-
-<!ENTITY helpFeedbackPage.label      "Wasilisha Maoni…">
-<!ENTITY helpFeedbackPage.accesskey  "W">
-
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Mapendeleo…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Huduma">
 
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
-
 <!ENTITY hideOtherAppsCmdMac.label      "Ficha Mengine">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Onyesha Yote">
 

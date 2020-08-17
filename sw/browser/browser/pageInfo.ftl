@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = Hifadhi Kama…
     .accesskey = e
-media-preview =
-    .value = Kihakiki Midia:
 
 perm-tab =
     .label = Ruhusa
@@ -107,7 +105,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Isiyotambulka
-not-set-verified-by = Isiyoainishwa
 page-info-not-specified =
     .value = Isiyoainishwa
 not-set-alternative-text = Isiyoainishwa
@@ -132,7 +129,6 @@ general-quirks-mode =
     .value = Hali tumizi ya waongo
 general-strict-mode =
     .value = Modi ya utiifu wa kawaida
-security-no-owner = Wavuti hii haitoi maelezo ya umiliki.
 page-info-security-no-owner =
     .value = Wavuti hii haitoi maelezo ya umiliki.
 media-select-folder = Chagua Kabrasha ya Kuhifadhi Picha
