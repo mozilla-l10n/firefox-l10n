@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = असे साठवा…
     .accesskey = e
-media-preview =
-    .value = माध्यमाचे पूर्वदर्शन:
 
 perm-tab =
     .label = परवानगी
@@ -132,7 +130,6 @@ security-site-data-cookies-only = होय, कुकिज
 security-site-data-no = नाही
 
 image-size-unknown = अपिरिचीत
-not-set-verified-by = निश्चित न केलेले
 page-info-not-specified =
     .value = निश्चित न केलेले
 not-set-alternative-text = निश्चित न केलेले
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks पद्धती
 general-strict-mode =
     .value = प्रमाणित पद्धती
-security-no-owner = हे संकेत स्थळ मालकीय माहिती पुरवत नाही.
 page-info-security-no-owner =
     .value = हे संकेत स्थळ मालकीय माहिती पुरवत नाही.
 media-select-folder = प्रतिमा संचयीत करण्याकरीता संचयीका निवडा

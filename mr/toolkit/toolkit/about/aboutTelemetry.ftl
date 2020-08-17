@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = पिंग डाटा स्रोत:
-about-telemetry-show-current-ping-data = सद्याचा पिंग डाटा
 about-telemetry-show-archived-ping-data = संग्रहित पिंग डाटा
 about-telemetry-show-subsession-data = सबसेशन डाटा दाखवा
 about-telemetry-choose-ping = पिंग निवडा:
@@ -63,7 +62,6 @@ about-telemetry-settings-explanation = Telemetry { about-telemetry-data-type } �
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = माहितीचा प्रत्येक भाग “<a data-l10n-name="ping-link">पिंग</a>” मध्ये गुंडाळुन पाठवला जातो. आपण { $name }, { $timestamp } कडे बघत आहात.
-about-telemetry-ping-details-current = माहितीचा प्रत्येक भाग “<a data-l10n-name="ping-link">पिंग</a>“ मध्ये गुंडाळुन पाठवला जातो. आपण वर्तमान कडे बघत आहात.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -88,8 +86,6 @@ about-telemetry-no-search-results-all = माफ करा! “{ $searchTerms }
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = क्षमस्व! सध्या “{ $sectionName }” मध्ये कोणताही डेटा उपलब्ध नाही
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = वर्तमान पिंग
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = सर्व
 # button label to copy the histogram

@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>&brandShortName;च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.</p><ul><li>सुरक्षा सावधगिरि म्हणून, &brandShortName; स्वयं संवदेनशील दस्तऐवजकरीता पुनःविनंती करत नाही.</li><li>संकेतस्थळापासून दस्तऐवजला पुनःविनंती करण्यासाठी पुनःप्रयत्न करा ला क्लिक करा.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>  <li>पुनःप्रयत्न करा.&brandShortName; जोडणी उघडण्याचा प्रयत्न करेल आणि पृष्ठ रीलोड होईल.  <button id='wifi'>वाय-फाय सक्षम करा</button>  </li> </ul>">
 
 <!ENTITY contentEncodingError.title "मजकूर एन्कोडींग त्रुटी">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी माहिती द्या.</li> </ul>">

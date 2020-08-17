@@ -53,7 +53,6 @@ protections-panel-not-found-label = काहीही आढळले नाह
 ##
 
 protections-panel-settings-label = संरक्षण सेटिंग
-protections-panel-showreport-label = अहवाल दर्शवा
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

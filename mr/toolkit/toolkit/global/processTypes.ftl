@@ -4,10 +4,6 @@
 
 process-type-web = वेब मजकूर
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = विशेषाधिकार मजकूर
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = बद्दल विशेषाधिकार

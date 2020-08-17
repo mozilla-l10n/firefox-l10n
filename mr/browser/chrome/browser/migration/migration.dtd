@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "पर्याय, वाचनखूणा, इतिहास, पासवर्ड व इतर माहिती येथून आयात करा:">
 <!ENTITY importFromUnix.label           "याअाधी वापरात असलेली आवडीनिवडी, वाचनखूणा, इतिहास, पासवर्ड व इतर) माहिती येथून आयात करा:">
-<!ENTITY importFromBookmarks.label      "वाचनखूणा येथून आयात करा:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

@@ -4,6 +4,7 @@
 
 page-title = त्रुटीनिवारन माहिती
 page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
+
 crashes-title = क्रॅश अहवाल
 crashes-id = अहवाल ID
 crashes-send-date = सादर केलेले
@@ -77,8 +78,6 @@ graphics-workarounds-title = वर्कअरोउंड्स
 place-database-title = जागांचा डेटाबेस
 place-database-integrity = प्रामाणिकता
 place-database-verify-integrity = प्रामाणिकता तपासा
-js-title = जावास्क्रिप्ट
-js-incremental-gc = वाढीव GC
 a11y-title = ॲक्सेसिबिलिटि
 a11y-activated = सुरू केले
 a11y-force-disabled = ॲक्सेसिबिलिटि टाळा
@@ -103,7 +102,6 @@ restart-in-safe-mode-label = ॲड-ऑन्स् निष्क्रिय 
 
 audio-backend = ऑडिओ बॅकेण्ड
 max-audio-channels = अधिकतम चॅनल
-channel-layout = प्राधान्यकृत चॅनेल मांडणी
 sample-rate = प्राधान्यकृत नमुना दर
 media-title = मीडिया
 media-output-devices-title = आऊटपुट साधने
@@ -149,6 +147,7 @@ report-crash-for-days =
         [one] क्रॅश रिपोर्ट्स, शेवटच्या { $days } दिवसकरिता
        *[other] क्रॅश रिपोर्ट्स, शेवटच्या { $days } दिवसांकरिता
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -156,6 +155,7 @@ crashes-time-minutes =
         [one] { $minutes } मिनीट पूर्वी
        *[other] { $minutes } मिनीटांपूर्वी
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -163,6 +163,7 @@ crashes-time-hours =
         [one] { $hours } तास पूर्वी
        *[other] { $hours } तास पूर्वी
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -170,6 +171,7 @@ crashes-time-days =
         [one] { $days } दिवस पूर्वी
        *[other] { $days } दिवसांपूर्वी
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -177,6 +179,7 @@ pending-reports =
         [one] सर्व क्रॅश अहवाल (दिलेल्या वेळ व्याप्तिमध्ये { $reports } उर्वरित क्रॅश समाविष्टीत)
        *[other] सर्व क्रॅश अहवाल (दिलेल्या वेळ व्याप्तिमध्ये { $reports } उर्वरित क्रॅश)
     }
+
 raw-data-copied = क्लिपबोर्डमध्ये नवख्या माहितीचे प्रत बनविले
 text-copied = क्लिपबोर्डमध्ये मजकूरचे प्रत बनविले
 
@@ -189,9 +192,11 @@ blocked-mismatched-version = रजिस्ट्री व DLL मध्ये
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ग्राफिक्स् ड्राइव्हर आवृत्तीकरीता अडवले. ग्राफिक्स् ड्राइव्हरला आवृत्ती { $driverVersion } किंवा नवीनकरीता सुधारित करा.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = क्लिअरटाइप घटके नष्ट करा
+
 compositing = संयुक्त
 hardware-h264 = हार्डवेअर H264 डिकोडिंग
 main-thread-no-omtc = मुख्य थ्रेड, OMTC नाही
@@ -205,6 +210,7 @@ unknown = अपरिचीत
 
 found = सापडले
 missing = हरवलेले
+
 gpu-description = वर्णन
 gpu-vendor-id = विक्रेताचे ID
 gpu-device-id = साधनचे ID
@@ -225,24 +231,29 @@ webgl2-version = WebGL २ ड्राइव्हर आवृत्ती
 webgl2-driver-extensions = WebGL २ ड्राइव्हर विस्तार
 webgl2-extensions = WebGL २ विस्तार
 blocklisted-bug = ज्ञात समस्यांमुळे काळ्या सूचित टाकले आहे
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = बग { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = काळ्यासूचित; अयशस्वी कोड { $failureCode }
+
 d3d11layers-crash-guard = D3D11 कॉम्पोझिटर
 d3d11video-crash-guard = D3D11 व्हिडिओ डीकोडर
-d3d9video-crash-buard = D3D9 व्हिडिओ डीकोडर
 d3d9video-crash-guard = D3D9 व्हिडिओ डीकोडर
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = पुढच्यावेळी पुन्हा सुरु करताना पूर्वस्थितीत आणा
 gpu-process-kill-button = GPU प्रक्रिया समाप्त करा
 gpu-device-reset-button = ट्रिगर साधन पुनःस्थापान
 uses-tiling = टाइलिंग वापरते
 off-main-thread-paint-enabled = मुख्य थ्रेडपेक्षा वेगळी चित्रकला सक्षम
+
 min-lib-versions = अपेक्षीत किमान आवृत्ती
 loaded-lib-versions = वापरण्याजोगी आवृत्ती
+
 has-seccomp-bpf = Seccomp-BPF (सिस्टम कॉल फिल्टरिंग)
 has-seccomp-tsync = सेकॉम्प थ्रेड सिंक्रोनायझेशन
 has-user-namespaces = वापरकर्ता नामअवकाश
@@ -254,7 +265,9 @@ effective-content-sandbox-level = प्रभावी मजकूर प्�
 sandbox-proc-type-content = मजकूर
 sandbox-proc-type-file = फाईलचा मजकूर
 sandbox-proc-type-media-plugin = मिडीया प्लगइन
+
 launcher-process-status-0 = सक्षम
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -267,6 +280,7 @@ multi-process-status-6 = असमर्थीत मजकूर इनपू�
 multi-process-status-7 = ॲड-ऑन्स् ने निष्क्रीय केले आहे
 multi-process-status-8 = जबरदस्तीने निष्क्रीय केले
 multi-process-status-unknown = अपरिचीत स्थिती
+
 async-pan-zoom = असंकालिक पॅन/झूम
 apz-none = काहीच नाही
 wheel-enabled = व्हील इनपुट कार्यान्वित

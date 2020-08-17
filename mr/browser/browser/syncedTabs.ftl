@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = ताळमेळीत टॅब्स
 synced-tabs-sidebar-noclients-subtitle = आपल्या इतर उपकरणांवरील आपले टॅब्स् येथे पाहू इच्छिता?
-synced-tabs-sidebar-notsignedin = आपल्या इतर उपकरणावरुन टॅब्स पाहण्यासाठी साइन इन करा.
 synced-tabs-sidebar-unverified = आपले खाते सत्यापित करणे आवश्यक आहे.
 synced-tabs-sidebar-notabs = उघडे टॅब्स नाही
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } प्राधान्यक्रम उघडा

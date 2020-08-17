@@ -97,6 +97,9 @@ login-item-time-used = शेवटचा वापर: { DATETIME($timeUsed, da
 ## Master Password notification
 
 master-password-notification-message = साठवलेले लॉगिन आणि संकेतशब्द बघायला तुमचा मास्टर संकेतशब्द टाका
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = लॉग इन
     .accesskey = L
@@ -136,4 +139,6 @@ about-logins-error-message-default = हा पासवर्ड साठव�
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

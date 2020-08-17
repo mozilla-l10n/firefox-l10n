@@ -10,9 +10,6 @@ addons-page-title = ॲड-ऑन्स् व्यवस्थापक
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = लोड करत आहे…
-
 list-empty-installed =
     .value = या प्रकारचे ॲड-ऑन्स् प्रतिष्ठापीत नाही
 
@@ -28,18 +25,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = ॲड-ऑन्स् विषयी अधिक शिका
 
-install-addon-from-file =
-    .label = फाइलपासून ॲड-ऑन इंस्टॉल करा…
-    .accesskey = I
-
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } पर्याय
        *[other] { -brand-short-name } पसंती
     }
-
-tools-menu =
-    .tooltiptext = सर्व ॲड-ऑन्स् करीता साधने
 
 sidebar-preferences-button-title =
     .title =
@@ -53,10 +43,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = सर्व एक्सटेंशन दर्शवा
-
-debug-addons =
-    .label = अॅड-ऑनस डीबग करा
-    .accesskey = b
 
 cmd-show-details =
     .label = आणखी माहिती दाखवा
@@ -94,12 +80,6 @@ cmd-contribute =
     .label = योगदान करा
     .accesskey = C
     .tooltiptext = या ॲड-ऑनच्या विकासकरीता योगदान करा
-
-discover-title = ॲड-ऑन्स् काय असतात?
-
-discover-description = ॲड-ऑन्स् ते ॲप्लिकेशन्स् असतात जे { -brand-short-name } ला अगाऊ कार्यक्षमता किंवा शैलीसह पसंतीचे करण्यासाठी सुविधा पुरवतात. { -brand-short-name } ला पसंतीचे करण्यासाठी टाइम-सेव्हिंग बाजूचीपट्टी, हवामान सूचक, किंवा दृष्य कल्पना या ॲड-ऑन्स् चा वापर करून पहा.
-
-discover-footer = इंटरनेटशी जोडणी केल्यावर, ही पट्टी काहिक सर्वोत्तम व सर्वात जास्त चर्चीत असलेले ॲड-ऑन्स् वापरून पाहण्याची सुविधा पुरवते.
 
 detail-version =
     .label = आवृत्ती
@@ -193,14 +173,6 @@ legacy-extensions =
 
 legacy-extensions-description = हे विस्तार सध्याच्या { -brand-short-name } मानकांमध्ये बसत नाही म्हणून ते निष्क्रिय करण्यात आले आहेत. <label data-l10n-name="legacy-learn-more">ॲड-ऑन्सबद्दल बदल जाणा</label>
 
-extensions-view-recent-updates =
-    .name = नुकतीच सुधारणा
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = उपलब्ध सुधारणा
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = एक्सटेंशन
 addon-category-extension-title =
     .title = एक्सटेंशन
@@ -225,29 +197,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = सेफ मोडद्वारे सर्व ॲड-ऑन्स् बंद केले आहे.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = ॲड-ऑन सहत्वता तपासणी बंद केली आहे. आपल्याकडे असहत्व ॲड-ऑन्स् असू शकतात.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = सुरू करा
-    .tooltiptext = ॲड-ऑन सहत्वता तपासणी सुरू करा
-
-extensions-warning-update-security-label =
-    .value = ॲड-ऑन सुधारणा सुरक्षा तपासणी बंद केले आहे. सुधारणा करतेवेळी सतर्क रहा.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = सुरू करा
-    .tooltiptext = ॲड-ऑन सुधारणा सुरक्षा तपासणी सुरू करा
-
 extensions-warning-safe-mode = सेफ मोडद्वारे सर्व ॲड-ऑन्स् बंद केले आहे.
 extensions-warning-check-compatibility = ॲड-ऑन सहत्वता तपासणी बंद केली आहे. आपल्याकडे असहत्व ॲड-ऑन्स् असू शकतात.
 extensions-warning-check-compatibility-button = सुरू करा
@@ -259,14 +208,6 @@ extensions-warning-update-security-button = सुरू करा
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = सुधारणांकरीता तपासणी करा
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = नुकत्याच सुधारणांचे दृष्य
-    .accesskey = V
-
 addon-updates-check-for-updates = सुधारणांकरीता तपासणी करा
     .accesskey = C
 addon-updates-view-updates = नुकत्याच सुधारणांचे दृष्य
@@ -274,10 +215,6 @@ addon-updates-view-updates = नुकत्याच सुधारणां�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = ॲड-ऑन्स् स्वयं सुधारित करा
-    .accesskey = A
 
 addon-updates-update-addons-automatically = ॲड-ऑन्स् स्वयं सुधारित करा
     .accesskey = A
@@ -288,36 +225,12 @@ addon-updates-update-addons-automatically = ॲड-ऑन्स् स्वय�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = स्वयं सुधारणा करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = सुधारणा स्वहस्ते करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = स्वयं सुधारणा करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
     .accesskey = R
 addon-updates-reset-updates-to-manual = सुधारणा स्वहस्ते करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = ॲड-ऑन्स् सुधारीत करत आहे
-extensions-updates-installed =
-    .value = आपले ॲड-ऑन्स् सुधारीत केले.
-extensions-updates-downloaded =
-    .value = आपले ॲड-ऑन सुधारणा डाउनलोड केले आहे.
-extensions-updates-restart =
-    .label = प्रतिष्ठापन पूर्ण करण्यासाठी आत्ता पुनःचालू करा
-extensions-updates-none-found =
-    .value = सुधारणा आढळले नाही
-extensions-updates-manual-updates-found =
-    .label = उपलब्ध सुधारणांचे दृष्य
-extensions-updates-update-selected =
-    .label = सुधारणा प्रतिष्ठापीत करा
-    .tooltiptext = या सूचीतील उपलब्ध सुधारणा प्रतिष्ठापीत करा
 
 addon-updates-updating = ॲड-ऑन्स् सुधारीत करत आहे
 addon-updates-installed = आपले ॲड-ऑन्स् सुधारीत केले.
@@ -338,16 +251,11 @@ addon-open-about-debugging = अॅड-ऑनस डीबग करा
 shortcuts-input =
     .placeholder = एक शॉर्टकट टाइप करा
 
-shortcuts-browserAction = विस्तार सक्रिय करा
-
 shortcuts-pageAction = पृष्ठ क्रिया सक्रिय करा
 
 shortcuts-letter = एक अक्षर टाइप करा
 
 shortcuts-card-collapse-button = कमी दर्शवा
-
-go-back-button =
-    .tooltiptext = मागे जा
 
 header-back-button =
     .title = मागे जा
@@ -366,13 +274,9 @@ find-more-addons = अधिक ऍड-ऑन्स शोधा
 remove-addon-button = काढून टाका
 disable-addon-button = निष्क्रिय
 enable-addon-button = सक्रिय
-expand-addon-button = आणखी पर्याय
 details-addon-button = तपशील
 release-notes-addon-button = प्रकाशन टीपा
 permissions-addon-button = परवानग्या
-
-addons-enabled-heading = सक्रिय
-addons-disabled-heading = निष्क्रिय
 
 ask-to-activate-button = सक्रिय करण्यास विचारा
 always-activate-button = नेहमी सक्रिय करा

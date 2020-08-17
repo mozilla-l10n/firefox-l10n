@@ -167,3 +167,11 @@ cfr-doorhanger-milestone-ok-button = सर्व पाहा
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

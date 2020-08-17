@@ -79,11 +79,6 @@ permissions-invalid-uri-label = कृपया वैध यजमान ना
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = अपवाद - मजकूर अवरोधन
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = आपण या साइटसाठी मजकूर अवरोधित करणे निष्क्रिय केले आहे.
-
 permissions-exceptions-etp-desc = आपण या वेबसाइटवर संरक्षण बंद केले आहे.
 
 ## Exceptions - Cookies
@@ -115,11 +110,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = कुठल्या संकेतस्थाळांना ॲड-ऑन्स् प्रतिष्ठापन करायला द्यायचे हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचे अचूक पत्ता लिहा व परवानगी आहे वर क्लिक करा.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = अपवाद - ऑटप्ले
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = कुठल्या संकेतस्थाळांना स्वायत्तपणे ध्वनीसह मीडिया चालवू द्यायचा हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचा पत्ता लिहा व आडवा किंवा परवानगी आहे वर क्लिक करा.
 
 ## Site Permissions - Autoplay
 

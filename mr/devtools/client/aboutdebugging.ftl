@@ -188,15 +188,6 @@ about-debugging-extension-location =
 about-debugging-extension-id =
     .label = विस्तार ID
 
-# This string is displayed as a label of the button that pushes a test payload
-# to a service worker.
-# Notes, this relates to the "Push" API, which is normally not localized so it is
-# probably better to not localize it.
-about-debugging-worker-action-push = ढकला
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = सुरु करा
-
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = नोंदणी रद्द करा
 

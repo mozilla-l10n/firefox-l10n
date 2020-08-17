@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protection-report-page-title = गोपनीयता संरक्षण
-protection-report-content-title = गोपनीयता संरक्षण
-
-etp-card-title = वर्धित ट्रॅकिंग संरक्षण
-
 protection-report-manage-protections = सेटिंग व्यवस्थापित करा
 
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -27,9 +22,6 @@ fingerprinter-tab-title = फिंगरप्रिंटर
 cryptominer-tab-title = क्रिप्टोमाइनर
   
 lockwise-title = पुन्हा कधीही पासवर्ड विसरू नका
-lockwise-title-logged-in = { -lockwise-brand-name }
-protection-report-view-logins-button = लॉगिन पहा
-    .title = जतन लॉगिन वर जा
 
 turn-on-sync = { -sync-brand-short-name } चालू करा…
     .title = सिंक प्राधान्यतावर जा
