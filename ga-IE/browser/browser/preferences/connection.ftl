@@ -27,12 +27,6 @@ connection-proxy-http = Seachfhreastalaí HTTP
     .accesskey = f
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Úsáid an seachfhreastalaí seo do gach prótacal
-    .accesskey = s
-
-connection-proxy-ssl = Seachfhreastalaí SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Port
     .accesskey = o

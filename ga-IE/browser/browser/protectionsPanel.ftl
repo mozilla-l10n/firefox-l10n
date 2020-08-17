@@ -45,7 +45,6 @@ protections-panel-not-blocking-label = Ceadaithe
 ##
 
 protections-panel-settings-label = Socruithe Cosanta
-protections-panel-showreport-label = Taispeáin an Tuairisc
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

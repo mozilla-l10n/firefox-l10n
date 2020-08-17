@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Cuir sa Chartlann">
 <!ENTITY hdrArchiveButton1.tooltip "Cuir an teachtaireacht seo sa chartlann">
-<!ENTITY hdrOpenConversationButton1.label "Comhrá">
-<!ENTITY hdrOpenConversationButton1.tooltip "Taispeáin an comhrá ina bhfuil an teachtaireacht roghnaithe">
 <!ENTITY hdrSmartReplyButton1.label "Freagra Cliste">
 <!ENTITY hdrReplyButton1.label "Freagair">
 <!ENTITY hdrReplyButton2.tooltip "Tabhair freagra do sheoltóir na teachtaireachta seo">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Seol freagra chuig liosta ríomhphoist">
 <!ENTITY hdrFollowupButton1.label "Leanúint">
 <!ENTITY hdrFollowupButton1.tooltip "Seol leanúint chuig an ngrúpa nuachta seo">
-<!ENTITY hdrMenuForwardButton.label "Cuir Ar Aghaidh Mar">
 <!ENTITY hdrForwardButton1.label "Ar Aghaidh">
 <!ENTITY hdrForwardButton1.tooltip "Cuir an teachtaireacht seo ar aghaidh">
 <!ENTITY hdrJunkButton1.label "Dramhphost">

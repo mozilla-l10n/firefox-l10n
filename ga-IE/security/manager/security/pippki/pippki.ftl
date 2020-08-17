@@ -21,6 +21,9 @@ change-password-reenter = Focal Faire Nua (Arís):
 reset-password-window =
     .title = Bánaigh an Príomhfhocal Faire
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Bánaigh
 reset-password-text = Má bhánaíonn tú do Phríomhfhocal Faire, caillfear na focail faire ríomhphoist agus Gréasáin a stóráil tú, na sonraí ó fhoirmeacha, do theastais phearsanta, agus d'eochracha príobháideacha. An bhfuil tú cinnte gur mian leat do Phríomhfhocal Faire a bhánú?

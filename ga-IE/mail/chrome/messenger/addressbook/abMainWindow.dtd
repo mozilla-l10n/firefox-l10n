@@ -44,38 +44,15 @@
 
 <!ENTITY editMenu.label                                 "Eagar">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Cealaigh">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "l">
-<!ENTITY redoCmd.label                                  "Athfheidhmigh">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "f">
-<!ENTITY cutCmd.label                                   "Gearr">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "G">
-<!ENTITY copyCmd.label                                  "Cóipeáil">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Greamaigh">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "r">
 <!ENTITY deleteCmd.label                                "Scrios">
-<!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Scrios Leabhar Seoltaí">
 <!ENTITY deleteContactCmd.label                         "Scrios an Teagmhálaí">
 <!ENTITY deleteContactsCmd.label                        "Scrios na Teagmhálaithe">
 <!ENTITY deleteListCmd.label                            "Scrios Liosta">
 <!ENTITY deleteListsCmd.label                           "Scrios Liostaí">
 <!ENTITY deleteItemsCmd.label                           "Scrios Míreanna">
-<!ENTITY selectAllCmd.label                             "Roghnaigh Uile">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "U">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Malartaigh Ainm agus Sloinne">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "M">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Airíonna">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

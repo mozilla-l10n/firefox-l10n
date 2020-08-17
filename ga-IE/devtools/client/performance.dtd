@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Ainm agus foinse na feidhme a ndearnadh sampláil di.">
 <!ENTITY performanceUI.table.totalAlloc               "Líon Iomlán na Leithdháilte Samplaithe">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Líon iomlán leithdháilte réada a bhí samplaithe ag an suíomh seo agus i bhfeidhmeanna glaoite.">
-<!ENTITY performanceUI.table.selfAlloc                "Leithdháilte Féinsamplaithe">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Líon na leithdháilte réada a bhí samplaithe ag an suíomh seo.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

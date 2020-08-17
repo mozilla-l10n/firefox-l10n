@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Foinse sonraí pingithe:
-about-telemetry-show-current-ping-data = Sonraí pingithe reatha
 about-telemetry-show-archived-ping-data = Sonraí pingithe sa chartlann
 about-telemetry-show-subsession-data = Taispeáin sonraí fosheisiúin
 about-telemetry-choose-ping = Roghnaigh ping:
@@ -37,7 +36,6 @@ about-telemetry-page-subtitle = Taispeánann an leathanach seo faisnéis maidir 
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Seoltar gach píosa eolais cuachta in “<a data-l10n-name="ping-link">pingeacha</a>”. Tá tú ag breathnú ar phing { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Seoltar gach píosa eolais cuachta in “<a data-l10n-name="ping-link">pingeacha</a>“. Tá tú ag breathnú ar phing reatha.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -45,8 +43,6 @@ about-telemetry-ping-details-current = Seoltar gach píosa eolais cuachta in “
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Aimsigh in { $selectedTitle }
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = an phing reatha
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = uile
 # button label to copy the histogram

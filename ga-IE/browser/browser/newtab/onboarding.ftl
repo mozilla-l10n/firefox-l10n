@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Tuilleadh Eolais
-onboarding-button-label-try-now = Bain Triail As Anois
 onboarding-button-label-get-started = Tús Maith
 
 ## Welcome modal dialog strings
@@ -23,6 +22,13 @@ onboarding-welcome-header = Fáilte go { -brand-short-name }
 onboarding-cards-dismiss =
     .title = Ruaig
     .aria-label = Ruaig
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -35,10 +41,6 @@ onboarding-cards-dismiss =
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Táirgí Úsáideacha
-
-onboarding-benefit-privacy-title = Fíorphríobháideachas
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -46,12 +48,6 @@ onboarding-benefit-privacy-title = Fíorphríobháideachas
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Brabhsáil Phríobháideach
-
-onboarding-addons-title = Breiseáin
-
-onboarding-ghostery-title = Ghostery
 
 onboarding-tracking-protection-button2 = Conas a oibríonn sé
 

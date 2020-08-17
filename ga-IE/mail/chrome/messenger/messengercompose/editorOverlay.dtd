@@ -6,24 +6,13 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Greamaigh Gan Formáidiú">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Greamaigh Mar">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Greamaigh mar Athfhriotal">
 <!ENTITY pasteAsQuotationCmd.accesskey "A">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Aimsigh…">
-<!ENTITY findReplaceCmd.label "Aimsigh agus Ionadaigh…">
-<!ENTITY enableInlineSpellChecker.label "Litriú Beo">
-<!ENTITY enableInlineSpellChecker.accesskey "L">
-<!ENTITY checkSpellingCmd2.label "Seiceáil an Litriú…">
-<!ENTITY checkSpellingCmd2.accesskey "L">
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Ionsáigh">
@@ -189,9 +178,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Príomhthéacs">
 <!ENTITY bodyTextCmd.accesskey "t">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Ardairíonna">
-<!ENTITY advancedPropertiesCmd.accesskey "r">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Ailínigh">
@@ -209,10 +195,6 @@
 <!ENTITY alignJustify.accesskey "C">
 <!ENTITY alignJustify.tooltip "Ailínigh Comhfhadaithe">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Sraith">
-<!ENTITY layerSendToBack.tooltip "Cuir go dtí an Cúl">
-<!ENTITY layerBringToFront.tooltip "Tabhair chun Tosaigh">
 
 <!ENTITY increaseIndent.label "Méadaigh Eang">
 <!ENTITY increaseIndent.accesskey "i">
@@ -288,18 +270,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Barra Roghchláir">
-<!ENTITY formatToolbar.tooltip "Barra Uirlisí Formáidithe">
-<!ENTITY cutToolbarCmd.tooltip "Gearr">
-<!ENTITY copyToolbarCmd.tooltip "Cóipeáil">
-<!ENTITY pasteToolbarCmd.tooltip "Greamaigh">
-<!ENTITY printToolbarCmd.label "Priontáil">
-<!ENTITY printToolbarCmd.tooltip "Priontáil an leathanach seo">
-<!ENTITY findToolbarCmd.label "Aimsigh">
-<!ENTITY findToolbarCmd.tooltip "Cuardaigh téacs sa leathanach">
-<!ENTITY spellToolbarCmd.label "Litriú">
-<!ENTITY spellToolbarCmd.tooltip "Seiceáil litriú an roghnaithe nó an leathanaigh iomláin">
-
 <!ENTITY imageToolbarCmd.label "Íomhá">
 <!ENTITY imageToolbarCmd.tooltip "Ionsáigh íomhá nua nó cuir airíonna na híomhá roghnaithe in eagar">
 <!ENTITY hruleToolbarCmd.label "Líne Ch.">
@@ -312,7 +282,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Ionsáigh ancaire nua nó cuir airíonna an ancaire roghnaithe in eagar">
 <!ENTITY TextColorButton.tooltip "Roghnaigh dath an téacs">
 <!ENTITY BackgroundColorButton.tooltip "Roghnaigh dath an chúlra">
-<!ENTITY HighlightColorButton.tooltip "Roghnaigh dath soilsithe an téacs">
 <!-- Editor toolbar -->
 
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Socraigh clómhéid">
@@ -333,12 +302,6 @@
 <!ENTITY alignJustifyButton.tooltip "Ailínigh téacs ar na himill chlé agus dheas">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label         "Roghnaigh">
-<!ENTITY structSelect.accesskey     "R">
-<!ENTITY structRemoveTag.label      "Bain clib">
-<!ENTITY structRemoveTag.accesskey  "B">
-<!ENTITY structChangeTag.label      "Athraigh clib">
-<!ENTITY structChangeTag.accesskey  "c">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Ionsáigh">

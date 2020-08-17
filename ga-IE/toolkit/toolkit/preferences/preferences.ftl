@@ -14,6 +14,7 @@ pw-erased-ok = Tá do Phríomhfhocal Faire scriosta agat.  { pw-empty-warning }
 pw-not-wanted = Rabhadh! Tá sé beartaithe agat gan Príomhfhocal Faire a úsáid. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Tá tú i mód FIPS faoi láthair. Tá Príomhfhocal Faire neamhfholamh ag teastáil ó FIPS.
+
 pw-change-success-title = D'éirigh le hathrú an fhocail faire
 pw-change-failed-title = Theip ar athrú an fhocail faire.
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Athraigh an Príomhfhocal Faire
+
 set-password-old-password = Focal Faire Reatha:
 set-password-new-password = Cuir isteach an focal faire nua:
 set-password-reenter-password = Cuir isteach an focal faire arís:
@@ -31,6 +33,7 @@ master-password-warning = Cinntigh go meabhraíonn tú an Príomhfhocal Faire at
 
 remove-password =
     .title = Bánaigh an Príomhfhocal Faire
+
 remove-info =
     .value = Is gá d'fhocal faire reatha a chur isteach chun leanúint ar aghaidh:
 remove-warning1 = Cosnaíonn do phríomhfhocal faire eolas tábhachtach cosúil le focail fhaire.

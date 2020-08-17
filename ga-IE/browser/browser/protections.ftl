@@ -5,20 +5,6 @@
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Lorgairí ar chuir { -brand-short-name } cosc orthu an tseachtain seo
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Leibhéal Cosanta: <b>Caighdeánach</b>
-    .title = Oscail na Socruithe Príobháideachais
-protection-report-header-details-strict = Leibhéal Cosanta: <b>Dian</b>
-    .title = Oscail na Socruithe Príobháideachais
-protection-report-header-details-custom = Leibhéal Cosanta: <b>Saincheaptha</b>
-    .title = Oscail na Socruithe Príobháideachais
-protection-report-page-title = Cosaint Príobháideachais
-protection-report-content-title = Cosaint Príobháideachais
-
-etp-card-title = Ardchosaint ar Lorgaireacht
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Inniu
@@ -34,21 +20,7 @@ fingerprinter-tab-title = Méarlorgairí
 cryptominer-tab-title = Criptimhianadóirí
   
 lockwise-title = Ná déan dearmad d'fhocal faire arís
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Stórálann { -lockwise-brand-name } do chuid focal faire slán sábháilte i do bhrabhsálaí.
-
-manage-connected-devices = Bainistigh gléasanna…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Ceangailte le { $count } ghléas
-        [two] Ceangailte le { $count } ghléas
-        [few] Ceangailte le { $count } ghléas
-        [many] Ceangailte le { $count } ngléas
-       *[other] Ceangailte le { $count } gléas
-    }
 
 monitor-link = Conas a oibríonn sé
 

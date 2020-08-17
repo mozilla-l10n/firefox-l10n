@@ -10,31 +10,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Cumasaigh">
-<!ENTITY cmd.enableAddon.accesskey            "C">
-<!ENTITY cmd.disableAddon.label               "Díchumasaigh">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "Fiafraigh díom roimh ghníomhachtú">
-<!ENTITY cmd.askToActivate.tooltip            "Fiafraigh díom faoin mbreiseán seo gach uair">
-<!ENTITY cmd.alwaysActivate.label             "Gníomhachtaigh i gCónaí">
-<!ENTITY cmd.alwaysActivate.tooltip           "Úsáid an breiseán i gcónaí">
-<!ENTITY cmd.neverActivate.label              "Ná Gníomhachtaigh Riamh">
-<!ENTITY cmd.neverActivate.tooltip            "Ná húsáid an breiseán seo riamh">
-<!ENTITY cmd.stateMenu.tooltip                "Athraigh nuair a ritheann an breiseán seo">
-
-<!ENTITY cmd.uninstallAddon.label             "Bain">
-<!ENTITY cmd.uninstallAddon.accesskey         "B">
-<!ENTITY cmd.showPreferencesWin.label         "Roghanna">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Athraigh roghanna an bhreiseáin seo">
-<!ENTITY cmd.showPreferencesUnix.label        "Sainroghanna">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Athraigh sainroghanna an bhreiseáin seo">
-
-<!ENTITY cmd.showReleaseNotes.label           "Taispeáin na Nótaí Eisiúna">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Taispeáin na nótaí eisiúna don nuashonrú seo">
-<!ENTITY cmd.hideReleaseNotes.label           "Folaigh na Nótaí Eisiúna">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Folaigh na nótaí eisiúna don nuashonrú seo">
-<!ENTITY cmd.findReplacement.label            "Aimsigh Ionadaí">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -46,45 +21,9 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Cealaigh">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Tuilleadh">
-<!ENTITY addon.details.tooltip                "Taispeáin tuilleadh eolais faoin bhreiseán seo">
-<!ENTITY addon.unknownDate                    "Anaithnid">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "OIDHREACHT">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(díchumasaithe)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Nuashonrú">
-<!ENTITY addon.undoAction.label               "Cealaigh">
-<!ENTITY addon.undoAction.tooltip             "Cealaigh an gníomh seo">
-<!ENTITY addon.undoRemove.label               "Cealaigh">
-<!ENTITY addon.undoRemove.tooltip             "Coinnigh an breiseán seo suiteáilte">
-
-<!ENTITY addon.install.label                  "Suiteáil">
-<!ENTITY addon.install.tooltip                "Suiteáil an breiseán seo">
-<!ENTITY addon.updateNow.label                "Nuashonraigh Anois">
-<!ENTITY addon.updateNow.tooltip              "Suiteáil an nuashonrú don bhreiseán seo">
-<!ENTITY addon.includeUpdate.label            "Cuir san áireamh sa nuashonrú">
-<!ENTITY addon.updateAvailable.label          "Tá nuashonrú ar fáil">
-<!ENTITY addon.checkingForUpdates.label       "Nuashonruithe á lorg…">
-<!ENTITY addon.releaseNotes.label             "Nótaí Eisiúna:">
-<!ENTITY addon.loadingReleaseNotes.label      "Á Luchtú…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Tá brón orm, ach tharla earráid agus na nótaí eisiúna á lódáil.">
-
-<!ENTITY addon.createdBy.label                "Le ">
-
-<!ENTITY settings.path.button.label           "Brabhsáil…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Slándáil">
-<!ENTITY securityTab.label "Slándáil">
-<!ENTITY securityHeading.label "Chun teachtaireachtaí sínithe nó criptithe a sheoladh nó a fháil, ba cheart duit teastas sínithe digitigh agus teastas criptiúcháin a shonrú.">
-<!ENTITY encryptionGroupTitle.label "Criptiúchán">
-<!ENTITY encryptionChoiceLabel.label "Socrú criptiúcháin réamhshocraithe le haghaidh seolta teachtaireachtaí:">
-<!ENTITY neverEncrypt.label "Ná criptigh riamh">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "De dhíth (ní féidir teachtaireacht a sheoladh mura bhfuil teastas ag gach faighteoir)">
-<!ENTITY alwaysEncryptMessage.accesskey "D">
-<!ENTITY encryptionCert.message "Úsáid an teastas seo chun teachtaireachtaí a sheoltar chugat a chriptiú agus a dhíchriptiú:">
-
 <!ENTITY digitalSign.certificate.button "Roghnaigh…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Glan">
@@ -22,15 +11,8 @@
 <!ENTITY encryption.certificate_clear.button "Glan">
 <!ENTITY encryption.certificate_clear.accesskey "l">
 <!ENTITY signingGroupTitle.label "Síniú Digiteach">
-<!ENTITY signMessage.label "Sínigh teachtaireachtaí go digiteach (mar réamhshocrú)">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Úsáid an teastas seo le haghaidh síniú na dteachtaireachtaí a sheolann tú:">
 
-<!ENTITY certificates.label "Teastais">
-<!ENTITY manageCerts2.label "Bainistigh Teastais">
-<!ENTITY manageCerts2.accesskey "B">
-<!ENTITY manageDevices.label "Gléasanna Slándála">
-<!ENTITY manageDevices.accesskey "G">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Roghnaigh Teastas">

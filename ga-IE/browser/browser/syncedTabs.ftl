@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Cluaisíní Sioncronaithe
 synced-tabs-sidebar-noclients-subtitle = Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?
-synced-tabs-sidebar-notsignedin = Logáil isteach le hamharc ar liosta chluaisíní do ghléasanna eile.
 synced-tabs-sidebar-notabs = Níl aon chluaisín ar oscailt
 synced-tabs-sidebar-openprefs = Oscail Sainroghanna { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.

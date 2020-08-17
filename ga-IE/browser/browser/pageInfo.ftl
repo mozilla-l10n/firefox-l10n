@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Sábháil Mar…
     .accesskey = l
-media-preview =
-    .value = Réamhamharc na Meán:
 
 perm-tab =
     .label = Ceadanna
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Tá, fianáin
 security-site-data-no = Níl
 
 image-size-unknown = Anaithnid
-not-set-verified-by = Gan sonrú
 page-info-not-specified =
     .value = Gan sonrú
 not-set-alternative-text = Gan sonrú
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Mód leithleachais
 general-strict-mode =
     .value = Mód oiriúna le caighdeáin
-security-no-owner = Ní sholáthraíonn an suíomh seo faisnéis maidir lena úinéirí.
 page-info-security-no-owner =
     .value = Ní sholáthraíonn an suíomh seo faisnéis maidir lena úinéirí.
 media-select-folder = Roghnaigh Fillteán a Sábhálfar na hÍomhánna Ann

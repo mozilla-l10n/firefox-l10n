@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Roghnaigh Comhad…">
 <!ENTITY cmd.restoreFromFile.accesskey  "R">
 
-<!ENTITY cmd.deleteDomainData.label     "Déan Dearmad ar an Suíomh Seo">
-<!ENTITY cmd.deleteDomainData.accesskey "D">
-
-<!ENTITY cmd.open.label                  "Oscail">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Oscail i bhFuinneog Nua">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Oscail i bhFuinneog Nua Phríobháideach">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Oscail i gCluaisín Nua">
-<!ENTITY cmd.open_tab.accesskey          "C">
-<!ENTITY cmd.open_all_in_tabs.label      "Oscail gach rud i gcluaisíní">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Airíonna">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Sórtáil de réir Ainm">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Leabharmharc Nua…">
-<!ENTITY cmd.new_bookmark.accesskey        "L">
-<!ENTITY cmd.new_folder.label              "Fillteán Nua…">
-<!ENTITY cmd.new_folder.accesskey          "F">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Deighilteoir Nua">
-<!ENTITY cmd.new_separator.accesskey       "D">
-
 <!ENTITY col.name.label          "Ainm">
 <!ENTITY col.tags.label          "Clibeanna">
 <!ENTITY col.url.label           "Suíomh">
@@ -90,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar">
 
-<!ENTITY view.label               "Amharc">
-<!ENTITY view.accesskey           "m">
-<!ENTITY byDate.label             "De réir Dáta">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "De réir Suíomh">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "De réir líon Cuairteanna">
-<!ENTITY byMostVisited.accesskey  "C">
-<!ENTITY byLastVisited.label      "De réir na Cuairte is Déanaí">
-<!ENTITY byLastVisited.accesskey  "D">
-<!ENTITY byDayAndSite.label       "De réir Dáta agus Suímh">
-<!ENTITY byDayAndSite.accesskey   "t">

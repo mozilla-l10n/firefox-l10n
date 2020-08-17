@@ -96,6 +96,8 @@ login-item-time-used = Úsáid is déanaí: { DATETIME($timeUsed, day: "numeric"
 
 ## Master Password notification
 
+## Primary Password notification
+
 master-password-reload-button =
     .label = Logáil isteach
     .accesskey = L
@@ -129,4 +131,6 @@ about-logins-error-message-default = Tharla earráid agus an focal faire seo á 
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

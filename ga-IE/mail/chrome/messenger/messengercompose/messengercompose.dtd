@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Athfheidhmigh">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "f">
-<!ENTITY cutCmd.label "Gearr">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "G">
-<!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Greamaigh">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "m">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "T">
@@ -85,9 +79,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Athainmnigh an tIatán…">
 <!ENTITY renameAttachmentCmd.accesskey "t">
-<!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.accesskey "U">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Aimsigh…">
 <!ENTITY findBarCmd.accesskey "A">
 <!ENTITY findBarCmd.key "F">
@@ -224,20 +216,8 @@
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Ó:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Chuig:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Freagra-Chuig:">
-<!ENTITY newsgroupsAddr.label "Grúpa-Nuachta:">
-<!ENTITY followupAddr.label "Leanúint-Chuig:">
-<!ENTITY subject.label "Ábhar:">
 <!ENTITY subject.accesskey "b">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "m">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Ionsáigh miongháire">

@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "Eagar">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Cealaigh">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "l">
 <!ENTITY redoCmd.label            "Athfheidhmigh">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "f">
-<!ENTITY cutCmd.label            "Gearr">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "G">
-<!ENTITY copyCmd.label            "Cóipeáil">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Greamaigh">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "r">
 <!ENTITY deleteCmd.label          "Scrios">
 <!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY selectAllCmd.label          "Roghnaigh Uile">
-<!ENTITY selectAllCmd.key          "W">
-<!ENTITY selectAllCmd.accesskey        "U">
 <!ENTITY preferencesCmd2.label "Roghanna">
 <!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label       "Sainroghanna">

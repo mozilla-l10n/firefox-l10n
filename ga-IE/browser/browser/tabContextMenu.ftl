@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = Bog go Fuinneog Nua
     .accesskey = N
-undo-close-tab =
-    .label = Cealaigh Dúnadh an Chluaisín
-    .accesskey = C
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Dún Cluaisín
     .accesskey = D

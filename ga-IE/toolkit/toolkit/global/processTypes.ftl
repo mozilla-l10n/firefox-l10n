@@ -4,10 +4,6 @@
 
 process-type-web = Inneachar Gréasáin
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Ábhar Pribhléideach
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Leathanaigh Phribhléideacha “Maidir Leis”

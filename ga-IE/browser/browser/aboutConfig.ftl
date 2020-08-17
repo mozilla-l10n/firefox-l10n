@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Tá dragain ansin!
-about-config-warning-text = D'fhéadfadh athrú sna hardroghanna seo dochar a dhéanamh do chobhsaíocht, shlándáil agus fheidhmíocht an fheidhmchláir seo. Ná lean ar aghaidh muna bhfuil tú lánchinnte faoi cad tá á dhéanamh agat.
-about-config-warning-checkbox = Cuir isteach orm arís, le bhur dtoil!
-about-config-warning-button = Glacaim leis an mbaol
-
-about-config2-title = Ardchumraíocht
-
-about-config-search-input =
-    .placeholder = Cuardaigh
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Lean ar aghaidh go cúramach
@@ -30,13 +19,6 @@ about-config-page-title = Ardroghanna
 about-config-search-input1 =
     .placeholder = Cuardach ar ainm na sainrogha
 about-config-show-all = Taispeáin Uile
-
-about-config-pref-add = Cuir Leis
-about-config-pref-toggle = Scoránaigh
-about-config-pref-edit = Eagar
-about-config-pref-save = Sábháil
-about-config-pref-reset = Athshocraigh
-about-config-pref-delete = Scrios
 
 about-config-pref-add-button =
     .title = Cuir Leis
