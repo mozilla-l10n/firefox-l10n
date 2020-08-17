@@ -14,6 +14,7 @@ pw-erased-ok = អ្នក​បាន​លុប​ពាក្យសម្�
 pw-not-wanted = ការ​ព្រមាន ! អ្នក​បាន​សម្រេចចិត្ត​មិន​ប្រើ​ពាក្យសម្ងាត់​មេ ។ { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = បច្ចុប្បន្ន​នេះ អ្នក​ស្ថិត​នៅក្នុង​របៀប FIPS ។ FIPS ទាមទារ​ពាក្យសម្ងាត់​មេ​ដែល​មិន​ទទេ​ ។
+
 pw-change-success-title = បាន​ទទួល​ជោគជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 pw-change-failed-title = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ
+
 set-password-old-password = ពាក្យ​សម្ងាត់​បច្ចុប្បន្ន ៖
 set-password-new-password = បញ្ចូល​ពាក្យសម្ងាត់​ថ្មី ៖
 set-password-reenter-password = បញ្ចូល​ពាក្យ​សម្ងាត់​ម្ដង​ទៀត ៖
@@ -31,6 +33,7 @@ master-password-warning = ត្រូវ​ច្បាស់​ថា​អ្
 
 remove-password =
     .title = យក​ពាក្យ​សម្ងាត់​មេ​ចេញ
+
 remove-info =
     .value = អ្នក​ត្រូវ​តែ​បញ្ចូល​ពាក្យសម្ងាត់​បច្ចុប្បន្ន​របស់​អ្នក ដើម្បី​បន្ត ៖
 remove-warning1 = ពាក្យ​សម្ងាត់​មេ​របស់​អ្នក ត្រូវ​ប្រើ​សម្រាប់​ការពារ​ព័ត៌មាន ដូចជា​ពាក្យ​សម្ងាត់​បណ្ដាញ ។

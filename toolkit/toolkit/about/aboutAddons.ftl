@@ -10,9 +10,6 @@ addons-page-title = កម្មវិធី​គ្រប់គ្រង​ក
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = កំពុង​ផ្ទុក…
-
 list-empty-installed =
     .value = អ្នក​មិន​មាន​កម្មវិធី​បន្ថែម​ប្រភេទ​ណាមួយ​ដែល​ត្រូវ​បាន​ដំឡើង​ទេ
 
@@ -28,22 +25,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = សិក្សា​បន្ថែម​អំពី​កម្មវិធី​បន្ថែម
 
-install-addon-from-file =
-    .label = ដំឡើង​កម្មវិធី​បន្ថែម​ពី​ឯកសារ…
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = ឧបករណ៍​សម្រាប់​កម្មវិធី​បន្ថែម​ទាំងអស់
-
 show-unsigned-extensions-button =
     .label = ផ្នែក​បន្ថែម​ខ្លះ​មិន​អាច​បញ្ជាក់​បាន​ទេ
 
 show-all-extensions-button =
     .label = បង្ហាញ​ផ្នែក​បន្ថែម​ទាំងអស់
-
-debug-addons =
-    .label = បំបាត់​កំហុស​ផ្នែក​បន្ថែម
-    .accesskey = B
 
 cmd-show-details =
     .label = បង្ហាញ​ព័ត៌មាន​បន្ថែម
@@ -81,12 +67,6 @@ cmd-contribute =
     .label = រួមចំណែក
     .accesskey = C
     .tooltiptext = ចូលរួម​ក្នុង​ការ​អភិវឌ្ឍ​កម្មវិធី​បន្ថែម​នេះ
-
-discover-title = តើ​អ្វី​ជា​កម្មវិធី​បន្ថែម ?
-
-discover-description = កម្មវិធី​បន្ថែម គឺជា​កម្មវិធី​ដែល​អនុញ្ញាត​ឲ្យ​អ្នក​ផ្លាស់ប្ដូរ { -brand-short-name } ដែល​មាន​ មុខងារ ឬ​រចនាប័ទ្ម​ផ្សេងៗ​ទៀត​តាម​តម្រូវការ​ ។ សាកល្បង​ប្រើ​របារ​ចំហៀង​សន្សំ​ពេលវេលា កម្មវិធី​ជូនដំណឹង​អំពី​អាកាសធាតុ ឬ​រូបរាង​ស្បែក​ដើម្បី​ធ្វើឲ្យ { -brand-short-name } មាន​លក្ខណៈ​ជា​​របស់​អ្នក​ផ្ទាល់ ។
-
-discover-footer = នៅ​ពេល​ដែល​អ្នក​បាន​តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត បន្ទះ​នេះ​នឹង​ធ្វើឲ្យ​​ កម្មវិធី​បន្ថែម​ដ៏​ពេញ​និយម​មួយចំនួន​របស់​អ្នក​មាន​លក្ខណៈ​កាន់តែ​ពិសេស​ឡើង​សម្រាប់​​អ្នក​ព្យាយាម។
 
 detail-version =
     .label = កំណែ
@@ -162,14 +142,6 @@ disabled-unsigned-devinfo = អ្នក​អភិវឌ្ឍ​ដែល​�
 
 plugin-deprecation-description = មាន​បាត់​អ្វី​មែន​ទេ? ផ្នែក​បន្ថែម​មួយ​ចំនួន​មិន​គាំទ្រ​ដោយ { -brand-short-name } ទៀត​ទេ។ <label data-l10n-name="learn-more">ស្វែងយល់បន្ថែម</label>
 
-extensions-view-recent-updates =
-    .name = បច្ចុប្បន្នភាព​ថ្មី​ៗ
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = មាន​បច្ចុប្បន្នភាព
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = ផ្នែក​បន្ថែម
 addon-category-extension-title =
     .title = ផ្នែក​បន្ថែម
@@ -191,29 +163,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = កម្មវិធី​បន្ថែម​ទាំងអស់​ត្រូវ​បាន​បិទ​ដោយ​របៀប​សុវត្ថិភាព ។
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = ការ​ត្រួតពិនិត្យ​ភាព​ឆបគ្នា​នៃ​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​មាន​កម្មវិធី​បន្ថែម​ដែល​មិន​ឆប​គ្នា ។
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = បើក
-    .tooltiptext = បើក​ការ​ត្រួតពិនិត្យ​មើល​ភាព​ឆបគ្នា​នៃ​កម្មវិធី​បន្ថែម
-
-extensions-warning-update-security-label =
-    .value = ការ​ត្រួតពិនិត្យ​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​ត្រូវ​បាន​សម្របសម្រួល​ទៅតាម​បច្ចុប្បន្នភាព ។
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = បើក
-    .tooltiptext = បើក​ការ​ត្រួតពិនិត្យមើល​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម
-
 extensions-warning-safe-mode = កម្មវិធី​បន្ថែម​ទាំងអស់​ត្រូវ​បាន​បិទ​ដោយ​របៀប​សុវត្ថិភាព ។
 extensions-warning-check-compatibility = ការ​ត្រួតពិនិត្យ​ភាព​ឆបគ្នា​នៃ​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​មាន​កម្មវិធី​បន្ថែម​ដែល​មិន​ឆប​គ្នា ។
 extensions-warning-check-compatibility-button = បើក
@@ -225,14 +174,6 @@ extensions-warning-update-security-button = បើក
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = ពិនិត្យមើល​បច្ចុប្បន្នភាព
-    .accesskey = ព
-
-extensions-updates-view-updates =
-    .label = មើល​បច្ចុប្បន្នភាព​ថ្មីៗ
-    .accesskey = V
-
 addon-updates-check-for-updates = ពិនិត្យមើល​បច្ចុប្បន្នភាព
     .accesskey = ព
 addon-updates-view-updates = មើល​បច្ចុប្បន្នភាព​ថ្មីៗ
@@ -240,10 +181,6 @@ addon-updates-view-updates = មើល​បច្ចុប្បន្នភា
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ
-    .accesskey = A
 
 addon-updates-update-addons-automatically = ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ
     .accesskey = A
@@ -254,36 +191,12 @@ addon-updates-update-addons-automatically = ធ្វើ​បច្ចុប្
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ដៃ
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ
     .accesskey = R
 addon-updates-reset-updates-to-manual = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ដៃ
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម
-extensions-updates-installed =
-    .value = កម្មវិធី​បន្ថែម​របស់​អ្នក​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព ។
-extensions-updates-downloaded =
-    .value = បច្ចុប្បន្នភាព​នៃ​កម្មវិធី​បន្ថែម​របស់​អ្នក​ត្រូវ​បាន​ទាញ​យក ។
-extensions-updates-restart =
-    .label = ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ ដើម្បី​បញ្ចប់​ការ​ដំឡើង
-extensions-updates-none-found =
-    .value = រក​មិន​ឃើញ​បច្ចុប្បន្នភាព
-extensions-updates-manual-updates-found =
-    .label = មើល​បច្ចុប្បន្នភាព​ដែល​មាន
-extensions-updates-update-selected =
-    .label = ដំឡើង​បច្ចុប្បន្នភាព
-    .tooltiptext = ដំឡើង​បច្ចុប្បន្នភាព​ដែល​មាន​នៅ​ក្នុង​បញ្ជី​នេះ
 
 addon-updates-updating = កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម
 addon-updates-installed = កម្មវិធី​បន្ថែម​របស់​អ្នក​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព ។

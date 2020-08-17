@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "նամակներ">
 <!ENTITY alwaysAuthenticate.label "Սպասարկիչին միանալիս միշտ պահանջել վավերացում">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY abbreviate.label "Ցուցադրել նորութ. անունները Նամակի թղթապանակում որպես.">
 <!ENTITY abbreviateOn.label "Անունները (օրինակ՝ 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "ការ​អ៊ិនកូដ​អត្ថបទ​លំនាំដើម៖">
-<!ENTITY localPath.label "Լոկալ թղթապանակը.">
 <!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">

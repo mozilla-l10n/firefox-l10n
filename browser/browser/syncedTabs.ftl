@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម
 synced-tabs-sidebar-noclients-subtitle = តើ​អ្នក​ចង់​មើល​ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេង​ទៀត​នៅ​ទីនេះ​ទេ?
-synced-tabs-sidebar-notsignedin = ចូល​ដើម្បី​មើល​បញ្ជី​នៃ​ផ្ទាំង​ទាំង​ឡាយ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។​
 synced-tabs-sidebar-unverified = គណនី​របស់​អ្នក​ត្រូវ​ធ្វើ​ការផ្ទៀងផ្ទាត់។
 synced-tabs-sidebar-notabs = គ្មានផ្ទាំងបើកទេ
 synced-tabs-sidebar-openprefs = បើក​ចំណូលចិត្ត { -sync-brand-short-name }

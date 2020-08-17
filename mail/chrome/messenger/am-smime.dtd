@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Անվտանգությունը">
-<!ENTITY securityTab.label "Անվտանգությունը">
-<!ENTITY securityHeading.label "Ուղարկելու և ստանալու համար ստորագրված կամ կոդավորված նամակներ, նախ պետք է որոշեք թվային ստորագրության հավաստագիրը և կոդավորված հավաստագիրը։">
-<!ENTITY encryptionGroupTitle.label "Կոդավորված">
-<!ENTITY encryptionChoiceLabel.label "Նամակը ուղարկելիս ծրագրային կոդավորումը">
-<!ENTITY neverEncrypt.label "Երբեք (չօգտագործել կոդավորում)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Պահանջվում է (չի կարող ուղարկել նամակը, քանի դեռ բոլոր ստացողները չունեն հավաստագրեր)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "ប្រើ​វិញ្ញាបនបត្រ​នេះ​ដើម្បី​អ៊ិនគ្រីប &amp; ឌិគ្រីប​សារ​ដែល​បាន​ផ្ញើ​ទៅ​ឲ្យ​អ្នក៖">
-
 <!ENTITY digitalSign.certificate.button "Ընտրել...">
 <!ENTITY digitalSign.certificate.accesskey "Ը">
 <!ENTITY digitalSign.certificate_clear.button "Մաքրել">
@@ -22,13 +11,6 @@
 <!ENTITY encryption.certificate_clear.button "Մաքրել">
 <!ENTITY encryption.certificate_clear.accesskey "Մ">
 <!ENTITY signingGroupTitle.label "Թվային ստորագր.">
-<!ENTITY signMessage.label "Թվային ստորագրված նամակներ (ծրագրային)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Օգտ. այս հավաստագիրը՝ նամակների թվային ստորագրման համար.">
 
-<!ENTITY certificates.label "Հավաստագրեր">
-
-
-<!ENTITY manageDevices.label "Անվտանգության սարքեր">
-<!ENTITY manageDevices.accesskey "y">
 

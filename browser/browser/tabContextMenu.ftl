@@ -50,9 +50,9 @@ move-to-end =
 move-to-new-window =
     .label = ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី
     .accesskey = W
-undo-close-tab =
-    .label = មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = បិទ​​ផ្ទាំង
     .accesskey = c

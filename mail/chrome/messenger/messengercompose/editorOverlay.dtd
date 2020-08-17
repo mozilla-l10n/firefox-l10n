@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Տեղադրել առանց փոփոխման">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "បិទភ្ជាប់">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Տեղադրել որպես մեջբերում">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "ស្វែង​រក...">
-<!ENTITY findReplaceCmd.label "Գտնել և փոխարինել">
-<!ENTITY enableInlineSpellChecker.label "Ձեր նշածով ուղղագրության ստուգում">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Ստուգել ուղղագրությունը">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ներմուծել">
@@ -181,9 +168,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Տեքստը">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Ընդլայնված հատկություններ">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Հավասարեցում">
@@ -200,11 +184,6 @@
 <!ENTITY alignJustify.label "Հավասարեցում">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Հավասարեցնել կենտրոնացումը">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Շերտը">
-<!ENTITY layerSendToBack.tooltip "Ուղարկել հետ">
-<!ENTITY layerBringToFront.tooltip "Պահել հետևում">
 
 <!ENTITY increaseIndent.label "Սահմանը մեծացնել">
 <!ENTITY increaseIndent.accesskey "I">
@@ -279,19 +258,6 @@
 <!ENTITY tableProperties.label "Աղյուսակի հատկությունները...">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Ընտրացանկ վահանակը">
-<!ENTITY formatToolbar.tooltip "Գործիքաշերտի կարգ.">
-<!ENTITY cutToolbarCmd.tooltip "Կտրել">
-<!ENTITY copyToolbarCmd.tooltip "Պատճենել">
-<!ENTITY pasteToolbarCmd.tooltip "Տեղադրել">
-<!ENTITY printToolbarCmd.label "Տպել">
-<!ENTITY printToolbarCmd.tooltip "Տպել այս էջը">
-<!ENTITY findToolbarCmd.label "Փնտրել">
-<!ENTITY findToolbarCmd.tooltip "Փնտրել էջ տեքստում">
-<!ENTITY spellToolbarCmd.label "Ուղագրություն">
-<!ENTITY spellToolbarCmd.tooltip "Ստուգել ընտրվածի ուղղագրությունը">
-
 <!ENTITY imageToolbarCmd.label "Նկար">
 <!ENTITY imageToolbarCmd.tooltip "Ներմուծել նոր նկար կամ խմբագրել նկարի հատկությունները">
 <!ENTITY hruleToolbarCmd.label "H.Line">
@@ -304,7 +270,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Ներմուծել նոր անվանարկված խարիսխ կամ խմբագրել խարսխի հատկությունները">
 <!ENTITY TextColorButton.tooltip "Ընտրեք տեքստի գույները">
 <!ENTITY BackgroundColorButton.tooltip "Ընտրեք խորապատկերի գույները">
-<!ENTITY HighlightColorButton.tooltip "Ընտրել ընդգծված գույնը տեքստի համար">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "កំណត់​ទំហំ​អក្សរ">
@@ -323,14 +288,6 @@
 <!ENTITY alignCenterButton.tooltip "Հավասարեցնել տեքստը կենտրոնով">
 <!ENTITY alignRightButton.tooltip "Հավասարեցնել տեքստը ձախ լուսանցքին">
 <!ENTITY alignJustifyButton.tooltip "Հավասարեցնել տեքստը աջ լուսանցքին">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Ընտրել">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Հեռացնել պիտակը">
-<!ENTITY structRemoveTag.accesskey  "R">
-<!ENTITY structChangeTag.label      "Փոխել պիտակը">
-<!ENTITY structChangeTag.accesskey  "C">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ներմուծել">

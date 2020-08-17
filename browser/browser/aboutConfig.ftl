@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = នេះ​ជា​នាគរាជ!
-about-config-warning-text = ការផ្លាស់ប្ដូរ​ការកំណត់​កម្រិត​ខ្ពស់​ទាំងនេះ​អាច​ប៉ះពាល់​ដល់​ស្ថេរភាព សុវត្ថិភាព និង​​ប្រតិបត្តិការ​របស់​កម្មវិធី​នេះ។ អ្នក​គួរតែ​បន្ត​ ប្រសិនបើ​អ្នក​ប្រាកដ​អំពី​អ្វី​ដែល​អ្នក​កំពុង​ធ្វើ។
-about-config-warning-checkbox = សូម​រំខាន​ខ្ញុំ​ម្ដង​ទៀត!
-about-config-warning-button = ខ្ញុំ​ទទួល​យក​​ការប្រថុយប្រថាន​នេះ
-
-about-config2-title = ការកំណត់​រចនាសម្ព័ន្ធ​កម្រិត​ខ្ពស់
-
-about-config-search-input =
-    .placeholder = ស្វែងរក
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ប្រុងប្រយ័ត្ន
@@ -32,13 +21,6 @@ about-config-page-title = ចំណង់ចំណូលចិត្តកម្
 about-config-search-input1 =
     .placeholder = ស្វែងរកឈ្មោះចំណូលចិត្ត
 about-config-show-all = បង្ហាញ​ទាំងអស់
-
-about-config-pref-add = បញ្ចូល
-about-config-pref-toggle = បិទ/បើក
-about-config-pref-edit = កែសម្រួល
-about-config-pref-save = រក្សាទុក
-about-config-pref-reset = កំណត់ឡើងវិញ
-about-config-pref-delete = លុប
 
 about-config-pref-add-button =
     .title = បញ្ចូល

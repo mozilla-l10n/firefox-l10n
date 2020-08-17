@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ស្វែងរក
     .aria-label = ស្វែងរក
+
 newtab-search-box-search-the-web-text = ស្វែងរក​បណ្ដាញ
 newtab-search-box-search-the-web-input =
     .placeholder = ស្វែងរក​បណ្ដាញ
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = កែសម្រួលសាយកំ�
 newtab-topsites-title-label = ចំណង​ជើង
 newtab-topsites-title-input =
     .placeholder = បញ្ចូលចំណងជើង
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = វាយបញ្ចូល ឬបិទភ្ជាប់ URL
 newtab-topsites-url-validation = ត្រូវការ URL ដែលត្រឹមត្រូវ
+
 newtab-topsites-image-url-label = URL រូបភាពផ្ទាល់ខ្លួន
 newtab-topsites-use-image-link = ប្រើ​ប្រាស់​រូបភាព​ផ្ទាល់ខ្លួន...
 newtab-topsites-image-validation = មិន​អាច​ផ្ទុក​រូបភាព​បាន​ទេ។ សាកល្បង URL ផ្សេង។
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = សកម្មភាពនេះមិនអ
 newtab-menu-section-tooltip =
     .title = បើក​ម៉ឺនុយ
     .aria-label = បើក​ម៉ឺនុយ
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -147,10 +151,12 @@ newtab-section-header-pocket = បានណែនាំដោយ { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ចាប់ផ្តើមការរុករក ហើយយើងនឹងបង្ហាញអត្ថបទ វីដេអូ និងទំព័រដ៏អស្ចារ្យផ្សេងទៀតដែលអ្នកបានមើល ឬបានចំណាំនៅទីនេះ។
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = អ្នកបានអានរឿងទាំងអស់ហើយ។ ពិនិត្យ​រឿង​ដែល​ពេញនិយមបំផុត​ឡើងវិញ​​ពី { $provider }។ មិនអាចរង់ចាំ? ជ្រើសរើសប្រធានបទកំពុងពេញនិយម ដើម្បីស្វែងរករឿងដ៏អស្ចារ្យនៅ​លើ​អ៊ីនធឺណិត។
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

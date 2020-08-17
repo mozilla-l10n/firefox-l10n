@@ -2,16 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = កូដកំហុស៖ { $error }
+
 psmerr-ssl-disabled = មិន​អាច​តភ្ជាប់​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ពិធីការ​​របស់ SSL ត្រូវ​បាន​បិទ ។
 psmerr-ssl2-disabled = មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ប្រើ​​តំបន់​បណ្ដាញ​ចាស់​ជាង កំណែ​របស់​ពិធីការ​របស់ SSL គ្មាន​សុវត្ថិភាព​ឡើយ ។
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     អ្នក​បាន​ទទួល​វិញ្ញាបនបត្រ​មិន​ត្រឹមត្រូវ ។ សូម​ទាក់ទង​អ្នក​គ្រប់គ្រង​ម៉ាស៊ីន​បម្រើ ឬ​អ៊ីមែល​ដោយ​ផ្ញើ​នូវ​ព័ត៌មាន​ដូច​ខាងក្រោម​ដល់​ពួកគេ ៖
     
      វិញ្ញាបនបត្រ​របស់​អ្នក​មាន​លេខ​សម្គាល់​ដូច​គ្នា​នឹង​វិញ្ញាបនបត្រ​មួយ​ផ្សេងទៀត​ដែល​បាន​ចេញ​ដោយ​ប្រភព​វិញ្ញាបនបត្រ ។ សូម​ទទួល​យក​វិញ្ញាបនបត្រ​ថ្មី​ដែល​មាន​នូវ​លេខ​សម្គាល់​តែមួយ ។
+
 ssl-error-export-only-server = មិន​អាច​​ទាក់ទង​​ដោយ​សុវត្ថិភាព​បាន​ទេ ។  ម៉ាស៊ីន​ដូច​គ្នា​មិន​គាំទ្រ​ការ​អ៊ិនគ្រីប​កម្រិត​ខ្ពស់​ឡើយ ។​
 ssl-error-us-only-server = មិន​អាច​ទាក់ទង​ដោយ​សុវត្ថិភាព​បាន​ទេ ។  ម៉ាស៊ីន​ដូចគ្នា​ទាមទារ​ការ​អ៊ិនគ្រីប​កម្រិត​ខ្ពស់​ដែល​មិន​ត្រូវ​បាន​គាំទ្រ ។
 ssl-error-no-cypher-overlap = មិន​អាច​ទាក់ទង​ជាមួយ​ម៉ាស៊ីន​ដូច​គ្នា​ដោយ​សុវត្ថិភាព​បាន​ទេ ៖ គ្មាន​ក្បួន​ដោះស្រាយ​ការ​អ៊ិនគ្រីប​ទូទៅ​ឡើយ ។

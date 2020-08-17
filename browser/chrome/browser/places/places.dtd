@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ជ្រើស​ឯកសារ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ជ">
 
-<!ENTITY cmd.deleteDomainData.label     "បំភ្លេច​តំបន់​បណ្ដាញ​នេះ">
-<!ENTITY cmd.deleteDomainData.accesskey "ប">
-
-<!ENTITY cmd.open.label                  "បើក">
-<!ENTITY cmd.open.accesskey              "ប">
-<!ENTITY cmd.open_window.label           "បើក​ក្នុង​បង្អួច​ថ្មី">
-<!ENTITY cmd.open_window.accesskey       "ប">
-<!ENTITY cmd.open_private_window.label     "បើក​ក្នុង​បង្អួចឯក​ជន​ថ្មី">
-<!ENTITY cmd.open_private_window.accesskey "ឯ">
-<!ENTITY cmd.open_tab.label              "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
-<!ENTITY cmd.open_tab.accesskey          "ផ">
-<!ENTITY cmd.open_all_in_tabs.label      "បើក​ក្នុង​ផ្ទាំង​ទាំងអស់">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "ប">
-
-<!ENTITY cmd.properties.label      "លក្ខណសម្បត្តិ">
-<!ENTITY cmd.properties.accesskey  "ស">
-
-<!ENTITY cmd.sortby_name.label              "តម្រៀប​តាម​ឈ្មោះ">
-<!ENTITY cmd.sortby_name.accesskey          "ត">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "ចំណាំ​ថ្មី">
-<!ENTITY cmd.new_bookmark.accesskey        "ច">
-<!ENTITY cmd.new_folder.label              "ថត​ថ្មី...">
-<!ENTITY cmd.new_folder.accesskey          "ថ">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "សញ្ញា​បំបែក​ថ្មី">
-<!ENTITY cmd.new_separator.accesskey       "ស">
-
 <!ENTITY col.name.label          "ឈ្មោះ">
 <!ENTITY col.tags.label          "ស្លាក">
 <!ENTITY col.url.label           "ទីតាំង">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "ចំនួន​ទស្សនា">
 <!ENTITY col.dateadded.label     "បាន​បន្ថែម">
 <!ENTITY col.lastmodified.label  "បាន​កែប្រែ​ចុងក្រោយ">
-
-<!ENTITY historySearch.placeholder  "ប្រវត្តិ​ស្វែងរក">
-<!ENTITY bookmarksSearch.placeholder  "ចំណាំ​ការស្វែងរក">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ជ្រើស​ធាតុ​ដើម្បី​មើល និង​កែ​សម្រួល​លក្ខណៈ​សម្បត្តិ​របស់​វា">
 
-<!ENTITY view.label               "មើល">
-<!ENTITY view.accesskey           "ម">
-<!ENTITY byDate.label             "តាម​កាលបរិច្ឆេទ">
-<!ENTITY byDate.accesskey         "ក">
-<!ENTITY bySite.label             "តាម​តំបន់បណ្ដាញ">
-<!ENTITY bySite.accesskey         "ត">
-<!ENTITY byMostVisited.label      "តាម​ចំនួន​ដែល​បាន​ទស្សនា​ច្រើន​បំផុត">
-<!ENTITY byMostVisited.accesskey  "ប">
-<!ENTITY byLastVisited.label      "តាម​ចំនួន​ដែល​បាន​ទស្សនា​លើក​ចុងក្រោយ">
-<!ENTITY byLastVisited.accesskey  "ល">
-<!ENTITY byDayAndSite.label       "តាម​កាលបរិច្ឆេទ និង​តំបន់បណ្ដាញ">
-<!ENTITY byDayAndSite.accesskey   "ក">

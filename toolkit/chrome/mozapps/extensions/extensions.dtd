@@ -3,68 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "បើក">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "បិទ">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "ស្នើ​ឲ្យ​ធ្វើ​ឲ្យ​សកម្ម">
-<!ENTITY cmd.askToActivate.tooltip            "ស្នើ​ឲ្យ​ប្រើ​​ក​ផ្នែក​បន្ថែម​នេះ​រាល់​ពេល">
-<!ENTITY cmd.alwaysActivate.label             "ធ្វើ​ឲ្យ​សកម្ម​ជា​និច្ច">
-<!ENTITY cmd.alwaysActivate.tooltip           "ប្រើ​ផ្នែក​បន្ថែម​នេះ​ជា​និច្ច">
-<!ENTITY cmd.neverActivate.label              "កុំ​ធ្វើ​ឲ្យ​សកម្ម">
-<!ENTITY cmd.neverActivate.tooltip            "កុំ​ប្រើផ្នែក​បន្ថែម​នេះ">
-<!ENTITY cmd.stateMenu.tooltip                "ប្ដូរ​ពេល​ផ្នែក​បន្ថែម​នេះ​ដំណើរការ">
-
-<!ENTITY cmd.uninstallAddon.label             "យកចេញ">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "ជម្រើស">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ">
-<!ENTITY cmd.showPreferencesUnix.label        "ចំណូលចិត្ត">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម​នេះ">
-
-<!ENTITY cmd.showReleaseNotes.label           "បង្ហាញ​ឯកសារ​ចេញផ្សាយ">
-<!ENTITY cmd.showReleaseNotes.tooltip         "បង្ហាញ​ឯកសារ​ចេញផ្សាយ​សម្រាប់​បច្ចុប្បន្នភាព​នេះ">
-<!ENTITY cmd.hideReleaseNotes.label           "លាក់​ឯកសារ​ចេញផ្សាយ">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "លាក់​ឯកសារ​ចេញផ្សាយ​សម្រាប់​បច្ចុប្បន្នភាព​នេះ">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "បោះបង់">
-
-
-<!ENTITY addon.details.label                  "ច្រើន​ទៀត">
-<!ENTITY addon.details.tooltip                "បង្ហាញ​ព័ត៌មាន​បន្ថែម​អំពី​កម្មវិធី​បន្ថែម​នេះ">
-<!ENTITY addon.unknownDate                    "មិន​ស្គាល់">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(បិទ)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "ធ្វើ​បច្ចុប្បន្នភាព">
-<!ENTITY addon.undoAction.label               "មិនធ្វើវិញ">
-<!ENTITY addon.undoAction.tooltip             "មិន​ធ្វើ​សកម្មភាព​នេះ​វិញ">
-<!ENTITY addon.undoRemove.label               "មិនធ្វើវិញ">
-<!ENTITY addon.undoRemove.tooltip             "បន្ត​ដំឡើង​កម្មវិធី​បន្ថែម​នេះ">
-
-<!ENTITY addon.install.label                  "ដំឡើង">
-<!ENTITY addon.install.tooltip                "ដំឡើង​កម្មវិធី​បន្ថែម​នេះ">
-<!ENTITY addon.updateNow.label                "ធ្វើ​បច្ចុប្បន្នភាព​ឥឡូវនេះ">
-<!ENTITY addon.updateNow.tooltip              "ដំឡើង​បច្ចុប្បន្នភាព​សម្រាប់​កម្មវិធី​បន្ថែម​នេះ">
-<!ENTITY addon.includeUpdate.label            "រួមបញ្ចូល​ទៅ​ក្នុង​បច្ចុប្បន្នភាព​នេះ">
-<!ENTITY addon.updateAvailable.label          "មាន​បច្ចុប្បន្នភាព">
-<!ENTITY addon.checkingForUpdates.label       "កំពុង​រក​មើល​បច្ចុប្បន្នភាព...">
-<!ENTITY addon.releaseNotes.label             "ឯកសារ​ចេញផ្សាយ ៖">
-<!ENTITY addon.loadingReleaseNotes.label      "កំពុង​ផ្ទុក…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "សូម​ទោស ប៉ុន្តែ​មាន​កំហុស​ ខណៈ​ពេល​កំពុង​ផ្ទុក​ឯកសារ​ចេញផ្សាយ ។">
-
-<!ENTITY addon.createdBy.label                "តាម">
-
-<!ENTITY settings.path.button.label           "រក​មើល…">
 
 <!ENTITY setting.learnmore "ស្វែងយល់​បន្ថែម...">
 

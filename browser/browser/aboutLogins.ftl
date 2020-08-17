@@ -67,6 +67,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = កំពុង​រក​មើល​ការចូល​ដែល​បាន​រក្សាទុក​របស់​អ្នក​មែន​ទេ? រៀបចំ { -sync-brand-short-name } ។
+
 about-logins-login-intro-heading-logged-in = រកមិនឃើញការចូលដែល​បាន​ធ្វើសមកាលកម្ម។
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instruction-fxa = បង្កើត ឬ​ចូល​ទៅ { -fxaccount-brand-name } របស់​អ្នក​នៅ​លើ​ឧបករណ៍ ត្រង់​កន្លែង​ដែល​បាន​រក្សាទុក​ការចូល​របស់​អ្នក
@@ -109,6 +110,9 @@ login-item-time-used = បាន​ប្រើប្រាស់​ចុងក
 ## Master Password notification
 
 master-password-notification-message = សូម​បញ្ចូល​ពាក្យសម្ងាត់​មេ​របស់​អ្នក ដើម្បី​មើល​ការចូល និង​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សាទុក
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = ចូល
     .accesskey = ច
@@ -154,4 +158,6 @@ breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវប
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

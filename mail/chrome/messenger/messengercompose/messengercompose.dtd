@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Redo">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cut">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Paste">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -85,9 +79,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "ប្ដូរ​ឈ្មោះ​ឯកសារ​ភ្ជាប់">
 <!ENTITY renameAttachmentCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "Select All">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "ស្វែងរក…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -225,20 +217,8 @@
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "From:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "To:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Reply-To:">
-<!ENTITY newsgroupsAddr.label "Newsgroup:">
-<!ENTITY followupAddr.label "Followup-To:">
-<!ENTITY subject.label "Subject:">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Insert a smiley face">
