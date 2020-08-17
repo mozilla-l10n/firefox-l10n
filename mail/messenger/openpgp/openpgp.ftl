@@ -289,6 +289,7 @@ key-do-you-accept = Accepteert u deze sleutel voor het verifiëren van digitale 
 key-accept-warning = Accepteer geen frauduleuze sleutel. Gebruik een ander communicatiekanaal dan e-mail om de vingerafdruk van de sleutel van uw correspondent te verifiëren.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kan het bericht niet verzenden, omdat er een probleem is met uw persoonlijke sleutel. { $problem }
+cannot-encrypt-because-missing = Kan dit bericht niet verzenden met end-to-end-versleuteling, omdat er problemen zijn met de sleutels van de volgende ontvangers: { $problem }
 # Strings in keyserver.jsm
 keyserver-error-aborted = Afgebroken
 keyserver-error-unknown = Er is een onbekende fout opgetreden
