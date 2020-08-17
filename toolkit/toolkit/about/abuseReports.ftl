@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = বাতিল ক্রুন
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = আমার কম্পিউটার এবং ডাটার ক্ষতি করে
-
 abuse-report-damage-reason-v2 = এটি আমার কম্পিউটারের ক্ষতি করেছে বা আমার ডাটা চুরি করেছে
 abuse-report-damage-example = উদাহরণ: ম্যালওয়্যার ইনজেক্ট করা বা ডাটা চুরি করা
 
-abuse-report-spam-reason = স্প্যাম বা বিজ্ঞাপন তৈরি করে
-
 abuse-report-spam-reason-v2 = এটিতে স্প্যাম বা অযাচিত বিজ্ঞাপন রয়েছে
 abuse-report-spam-example = উদাহরণ: ওয়েবপেজে বিজ্ঞাপন স্থাপন
-
-abuse-report-settings-reason = আমাকে না জানিয়ে বা জিজ্ঞাসা না করে আমার অনুসন্ধান ইঞ্জিন, হোমপেজ বা নতুন ট্যাব পরিবর্তন করেছে
 
 abuse-report-settings-reason-v2 = এটি আমাকে না জানিয়ে বা জিজ্ঞাসা না করে আমার অনসন্ধান ইঞ্জিন, হোমপেজ বা নতুন ট্যাব পরিবর্তন করেছে
 abuse-report-settings-suggestions = এক্সটেনশান সম্পর্কে রিপোর্ট জমার আগে, আপনার সেটিংস পরিবর্তনের চেষ্টা করতে পারেন:
 abuse-report-settings-suggestions-search = আপনার ডিফল্ট অনুসন্ধান সেটিংস পরিবর্তন করুন
 abuse-report-settings-suggestions-homepage = আপনার হোমপেজ এবং নতুন ট্যাব পরিবর্তন করুন
 
-abuse-report-deceptive-reason = এমন কিছু হওয়ার ভান করুন যা তা নয়
-
 abuse-report-deceptive-reason-v2 = এমন কিছু হওয়ার দাবি করে যা নয়
 abuse-report-deceptive-example = উদাহরণ: বিভ্রান্তিকর বর্ণনা বা চিত্রাবলী
-
-abuse-report-broken-reason-extension = এটি কাজ করে না, ওয়েবসাইটগুলি ভেঙে দেয়, বা { -brand-product-name } ধীরে করে দেয়
-abuse-report-broken-reason-theme = কাজ করে না বা ব্রাউজারের ডিসপ্লে ব্রেক করে
 
 abuse-report-broken-reason-extension-v2 = এটি কাজ করে না, ওয়েবসাইটগুলি ভেঙে দেয় অথবা { -brand-product-name } ধীরগতির করে
 abuse-report-broken-reason-theme-v2 = এটি কাজ করে না বা ব্রাউজার ডিসপ্লে নষ্ট করে
@@ -99,15 +88,11 @@ abuse-report-broken-suggestions-theme =
     হল কার্যকারিতা সমস্যার সমাধান করা জন্য এক্সটেনশন ডেভেলপারের সাথে যোগাযোগ করা।
     ডেভেলপারের তথ্য পেতে<a data-l10n-name="support-link">এক্সটেনশনের ওয়েবসাইটটি দেখুন</a>।
 
-abuse-report-policy-reason = ঘৃণ্য, হিংস্র বা অবৈধ সামগ্রী
-
 abuse-report-policy-reason-v2 = এটিতে ঘৃণ্য, হিংস্র বা অবৈধ কনটেন্ট রয়েছে
 abuse-report-policy-suggestions =
     দ্রষ্টব্য: কপিরাইট এবং ট্রেডমার্ক সমস্যাগুলি অবশ্যই একটি আলাদা প্রক্রিয়াতে রিপোর্ট করা উচিত।
     <a data-l10n-name="report-infringement-link"> এই নির্দেশাবলী ব্যবহার করুন </a>
     সমস্যা রিপোর্ট করতে।
-
-abuse-report-unwanted-reason = এই এক্সটেনশনটি কখনই চাইনি এবং এ থেকে মুক্তি পেতে পাচ্ছি না
 
 abuse-report-unwanted-reason-v2 = আমি কখনই এটি চাইনি এবং এটি থেকে কীভাবে মুক্তি পাবো তা আমি জানি না
 abuse-report-unwanted-example = উদাহরণ: একটি অ্যাপ্লিকেশন আমার অনুমতি ব্যতীত ইনস্টল হয়েছে

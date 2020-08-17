@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = অন্যভাবে সংরক্ষণ...
     .accesskey = e
-media-preview =
-    .value = মিডিয়ার প্রাকদর্শন:
 
 perm-tab =
     .label = অনুমোদন
@@ -132,7 +130,6 @@ security-site-data-cookies-only = হ্যাঁ, কুকি
 security-site-data-no = না
 
 image-size-unknown = অজানা
-not-set-verified-by = নির্ধারিত নয়
 page-info-not-specified =
     .value = নির্ধারিত নয়
 not-set-alternative-text = নির্ধারিত নয়
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks মোড
 general-strict-mode =
     .value = প্রমিত সমর্থিন মোড
-security-no-owner = এই ওয়েবসাইটি নিজের মালিকানা সংক্রান্ত কোন তথ্য দেয় না।
 page-info-security-no-owner =
     .value = এই ওয়েবসাইটটি মালিকানা তথ্য সরবরাহ করে না।
 media-select-folder = ছবি সংরক্ষণের জন্য ফোল্ডার নির্বাচন করুন

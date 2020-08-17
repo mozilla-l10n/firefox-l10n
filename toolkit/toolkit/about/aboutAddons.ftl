@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = লোড করা হচ্ছে…
-
 list-empty-installed =
     .value = আপনার এই ধরণের কোনো অ্যাড-অন ইনস্টল করা নেই
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = অ্যাড-অন সম্পর্কে আরও শিখুন
 
-install-addon-from-file =
-    .label = ফাইল থেকে অ্যাড-অন ইনস্টল… I
-    .accesskey = I
-
 help-button = অ্যাড-অন সহযোগীতা
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } অপশন
        *[other] { -brand-short-name } পছন্দসমূহ
     }
-
-tools-menu =
-    .tooltiptext = সব অ্যাড-অন এর জন্য টুল
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = সব এক্সটেনশন দেখাও
-
-debug-addons =
-    .label = অ্যাড-অন ডিবাগ
-    .accesskey = b
 
 cmd-show-details =
     .label = আরও তথ্য প্রদর্শন করা হবে S
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = অ্যাড-অন উন্নয়নে অবদান রাখুন
 
-discover-title = অ্যাড-অন কি?
-
-discover-description = অ্যাড-অন হল এমন অ্যাপ্লিকেশন যা কি না অতিরিক্ত কার্যকরণ বা শৈলীসহ { -brand-short-name } এর সাথে আপনাকে পরিচিত করে। সময়- সংরক্ষণীয় সাইডবার, আবহাওয়া ঘোষক, বা { -brand-short-name } কে নিজের মত করে দেখার জন্য থীম চেহারা ব্যবহার করে।
-
-discover-footer = আপনি যখন ইন্টারনেট এর সাথে সংযুক্ত থাকবেন তখন আপনার ব্যবহারের জন্য এ প্যানে কিছু সর্বোৎকৃষ্ট ও সবচেয়ে জনপ্রিয় অ্যাড-অন প্রদর্শিত হবে।
-
 detail-version =
     .label = সংস্করণ
 
@@ -140,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = ব্যক্তিগত উইন্ডোতে রান করুন
 
-detail-private-browsing-description2 = অনুমতি দেয়া হলে, ব্যাক্তিগত ব্রাউজিং করার সময় এই এক্সটেনশন আপনার অনলাইন কর্মকান্ড সম্পর্কে জানতে পারে। <label data-l10n-name="detail-private-browsing-learn-more">আরও জানুন</a>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ব্যক্তিগত উইন্ডোতে অনুমোদিত নয়
-detail-private-disallowed-description = ব্যক্তিগত ব্রাউজিং এর সময় এই এক্সটেনশন কাজ করবে না। <label data-l10n-name="detail-private-browsing-learn-more">আরো জানুন</label>
 
 detail-private-disallowed-description2 = ব্যক্তিগত ব্রাউজিং এর সময় এই এক্সটেনশন কাজ করবেনা।<a data-l10n-name="learn-more"> আরও জানুন </a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = ব্যক্তিগত উইন্ডোতে প্রবেশ প্রয়োজন
-detail-private-required-description = ব্যক্তিগত ব্রাউজিং করার সময় এই এক্সটেনশন আপনার অনলাইন কর্মকান্ড সম্পর্কে জানতে পারে। <label data-l10n-name="detail-private-browsing-learn-more">আরও জানুন </label>
 
 detail-private-required-description2 = ব্যক্তিগত ব্রাউজিং করার সময় এই এক্সটেনশন আপনার অনলাইন কর্মকান্ড সম্পর্কে জানতে পারে। <a data-l10n-name="learn-more"> আরও জানুন </a>
 
@@ -221,18 +197,6 @@ legacy-extensions =
 
 legacy-extensions-description = এই এক্সটেনশন বর্তমান { -brand-short-name } মান পূরণ করে না তাই তাদের নিষ্ক্রিয় করা হয়েছে। <label data-l10n-name="legacy-learn-more">অ্যাড-অন এ পরিবর্তন সম্পর্কে আরও জানুন</label>
 
-extensions-view-discopane =
-    .name = সুপারিশসমূহ
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = সাম্প্রতিক হালনাগাদ
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = বিদ্যমান হালনাগাদ
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = সুপারিশসমূহ
 addon-category-discover-title =
     .title = সুপারিশসমূহ
@@ -260,29 +224,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = সক্রিয়
-    .tooltiptext = অ্যাড-অনের উপযুক্ততা পরীক্ষা সক্রিয়
-
-extensions-warning-update-security-label =
-    .value = অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = সক্রিয়
-    .tooltiptext = অ্যাড-অন হালনাগাদকরন নিরাপত্তা পরীক্ষা করা সক্রিয়
-
 extensions-warning-safe-mode = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
 extensions-warning-check-compatibility = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
 extensions-warning-check-compatibility-button = সক্রিয়
@@ -294,14 +235,6 @@ extensions-warning-update-security-button = সক্রিয়
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = হালনাগাদের জন্য পরীক্ষা
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = সাম্প্রতিক হালনাগাদ দেখাও
-    .accesskey = V
-
 addon-updates-check-for-updates = হালনাগাদের জন্য পরীক্ষা
     .accesskey = C
 addon-updates-view-updates = সাম্প্রতিক হালনাগাদ দেখাও
@@ -309,10 +242,6 @@ addon-updates-view-updates = সাম্প্রতিক হালনাগ�
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ
-    .accesskey = A
 
 addon-updates-update-addons-automatically = স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ
     .accesskey = A
@@ -323,36 +252,12 @@ addon-updates-update-addons-automatically = স্বয়ংক্রিয়ভা
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = সব অ্যাড-অন স্বয়ংক্রিয়ভাবে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = সব অ্যাড-অন নিজ হাতে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = সব অ্যাড-অন স্বয়ংক্রিয়ভাবে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
     .accesskey = R
 addon-updates-reset-updates-to-manual = সব অ্যাড-অন নিজ হাতে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = অ্যাড-অন হালনাগাদ করা হচ্ছে
-extensions-updates-installed =
-    .value = আপনার সকল অ্যাড-অন হালনাগাদ করা হয়েছে।
-extensions-updates-downloaded =
-    .value = আপনার অ্যাড-অনের হালনাগাদ ডাউনলোড করা হয়েছে।
-extensions-updates-restart =
-    .label = ইনস্টল প্রক্রিয়া সম্পন্ন করার জন্য পুনরায় শুরু করুন
-extensions-updates-none-found =
-    .value = কোনো হালনাগাদ পাওয়া যায়নি
-extensions-updates-manual-updates-found =
-    .label = বিদ্যমান হালনাগাদ প্রদর্শিত হবে
-extensions-updates-update-selected =
-    .label = হালনাগাদ ইনস্টল করুন
-    .tooltiptext = তালিকায় বিদ্যমান হালনাগাদ ইনস্টল করুন
 
 addon-updates-updating = অ্যাড-অন হালনাগাদ করা হচ্ছে
 addon-updates-installed = আপনার সকল অ্যাড-অন হালনাগাদ করা হয়েছে।
@@ -370,10 +275,6 @@ addon-open-about-debugging = অ্যাড-অন ডিবাগ
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = এক্সটেনশন এর শর্টকাট পরিচালনা করুন
-    .accesskey = S
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = এক্সটেনশন এর শর্টকাট পরিচালনা করুন
     .accesskey = S
@@ -382,8 +283,6 @@ shortcuts-no-addons = আপনার কোনো এক্সটেনশ�
 shortcuts-no-commands = উল্লেখিত এক্সটেনশনের শর্টকাট নেই:
 shortcuts-input =
     .placeholder = একটি শর্টকাট টাইপ করুন
-
-shortcuts-browserAction = এক্সটেনশন সক্রিয় করুন
 
 shortcuts-pageAction = পাতার কর্ম সক্রিয় করুন
 shortcuts-sidebarAction = সাইডবার টগল করুন
@@ -414,9 +313,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = কম দেখাও
-
-go-back-button =
-    .tooltiptext = ফিরে যাও
 
 header-back-button =
     .title = ফিরে যাও
@@ -468,7 +364,6 @@ remove-addon-button = অপসারণ
 remove-addon-disabled-button = সরানো যাবে না <a data-l10n-name="link">কেনো?</a>
 disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
-expand-addon-button = আরও অপশন
 preferences-addon-button =
     { PLATFORM() ->
         [windows] বিকল্প
@@ -477,9 +372,6 @@ preferences-addon-button =
 details-addon-button = বিশদ বিবরণ
 release-notes-addon-button = রিলিজ নোট
 permissions-addon-button = অনুমতিসমূহ
-
-addons-enabled-heading = সক্রিয় হয়েছে
-addons-disabled-heading = নিষ্ক্রিয় হয়েছে
 
 extension-enabled-heading = সক্রিয়
 extension-disabled-heading = নিষ্ক্রিয়
@@ -542,23 +434,12 @@ install-update-button = হালনাগাদ
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = অনুমতি পেলে, প্রাইভেট ব্রাউজ করার সময় এই এক্সটেনশনে আপনার অনলাইন কার্যতালিকা পাবে। <a data-l10n-name="learn-more">আরো জানুন</a>
 addon-detail-private-browsing-allow = অনুমতি দাও
 addon-detail-private-browsing-disallow = অনুমতি দিও না
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = সুপারিশকৃত
-    .alt = সুপারিশকৃত
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

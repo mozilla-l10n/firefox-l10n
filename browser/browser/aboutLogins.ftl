@@ -73,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = আপনার সংরক্ষিত লগইন সন্ধান করছেন? { -sync-brand-short-name } সেট আপ করুন।
+
 about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
 login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
 login-intro-instruction-fxa = আপনার লগইন সমূহ সংরক্ষিত রয়েছে এমন ডিভাইসে আপনার { -fxaccount-brand-name } সাইন ইন করুন বা তৈরী করুন।
@@ -128,6 +129,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = সংরক্ষি
 ## Master Password notification
 
 master-password-notification-message = সংরক্ষিত লগইন এবং পাসওয়ার্ড দেখতে দয়া করে আপনার মাস্টার পাসওয়ার্ড দিন
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = লগ ইন
     .accesskey = L
@@ -193,4 +197,6 @@ about-logins-error-message-default = এই পাসওয়ার্ডটি
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

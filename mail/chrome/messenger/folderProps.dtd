@@ -55,7 +55,6 @@
 <!ENTITY folderType.label "ফোল্ডারের ধরন:">
 
 <!ENTITY folderQuotaTab.label "নির্দিষ্ট">
-<!ENTITY folderQuotaRoot.label "নির্দিষ্ট রূট:">
 <!ENTITY folderQuotaUsage.label "ব্যবহার:">
 <!ENTITY folderQuotaStatus.label "অবস্থা:">
 

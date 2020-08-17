@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY attachmentReminderDialog.title "সংযোজন স্মারকপত্রের কীওয়ার্ড">
-<!ENTITY attachKeywordText.label "&brandShortName; অনুপস্থিত সংযোজন সম্পর্কিত সতর্কবাণী দিবে, যদি আপনি যেকোনো একটি কীওয়ার্ড সহ ই-মেইল পাঠাতে চান।">
-<!ENTITY removeKeywordButton.label "মুছে ফেলুন (D)">
-<!ENTITY removeKeywordButton.accesskey "D">

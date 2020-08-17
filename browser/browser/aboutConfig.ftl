@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = এখানে ড্রাগন হতে হবে!
-about-config-warning-text = উচ্চ পর্যায়ের এই সেটিংসমূহ পরিবর্তনের ফলে অ্যাপ্লিকেশনের স্থায়ীত্ব, নিরাপত্তা ও কার্যকারিতা প্রভাবিত হতে পারে। আপনি সম্পূর্ণভাবে নিশ্চিত হলে তবেই এগিয়ে যান।
-about-config-warning-checkbox = অনুগ্রহ করে, আমাকে আবার বিরক্ত কর!
-about-config-warning-button = আমি ঝুঁকি গ্রহণ করলাম
-
-about-config2-title = উন্নত কনফিগারেশন
-
-about-config-search-input =
-    .placeholder = অনুসন্ধান করুন
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = সাবধানতার সাথে এগিয়ে যান
@@ -30,13 +19,6 @@ about-config-page-title = উন্নত পছন্দসমূহ
 about-config-search-input1 =
     .placeholder = প্রিফারেন্সের নাম খুঁজুন
 about-config-show-all = সব দেখাও
-
-about-config-pref-add = যোগ
-about-config-pref-toggle = টগল
-about-config-pref-edit = সম্পাদনা
-about-config-pref-save = সংরক্ষণ
-about-config-pref-reset = রিসেট
-about-config-pref-delete = অপসারণ
 
 about-config-pref-add-button =
     .title = যোগ

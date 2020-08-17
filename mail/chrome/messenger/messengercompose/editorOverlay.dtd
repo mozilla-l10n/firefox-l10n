@@ -6,23 +6,13 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "বিন্যাস না করেই প্রতিলেপন (o)">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "এভাবে প্রতিলেপন করুন (A)">
-<!ENTITY pasteAs.accesskey "A">
 <!ENTITY pasteAsQuotationCmd.label "উদ্ধৃতি হিসেবে প্রতিলেপন (Q)">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY enableInlineSpellChecker.label "লেখা অবস্থায় বানান পরীক্ষা করা হবে (S)">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "বানান পরীক্ষা (h)">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "প্রবেশ (I)">
@@ -170,9 +160,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "মূল অংশের পাঠ্য (T)">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "উচ্চ পর্যায়ের বৈশিষ্ট্য (v)">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "সাজানো (A)">
@@ -190,10 +177,6 @@
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "উভয়প্রান্তিককরণ">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "স্তর">
-<!ENTITY layerSendToBack.tooltip "পূর্বে পাঠানো">
-<!ENTITY layerBringToFront.tooltip "সামনে আনুন">
 
 <!ENTITY increaseIndent.label "ইনডেন্ট বাড়ানো (I)">
 <!ENTITY increaseIndent.accesskey "I">
@@ -269,15 +252,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "মেনু বার">
-<!ENTITY formatToolbar.tooltip "ফরম্যাট টুলবার">
-<!ENTITY printToolbarCmd.label "মুদ্রণ">
-<!ENTITY printToolbarCmd.tooltip "এই পৃষ্ঠাটি মুদ্রণ করুন">
-<!ENTITY findToolbarCmd.label "অনুসন্ধান">
-<!ENTITY findToolbarCmd.tooltip "পৃষ্ঠায় পাঠ্য অনুসন্ধান">
-<!ENTITY spellToolbarCmd.label "বানান">
-<!ENTITY spellToolbarCmd.tooltip "নির্বাচনের বা সম্পূর্ণ পৃষ্ঠার বানান পরীক্ষা করা হবে">
-
 <!ENTITY imageToolbarCmd.label "ছবি">
 <!ENTITY imageToolbarCmd.tooltip "নতুন ছবি প্রবেশ বা নির্বাচিত ছবির বৈশিষ্ট্য সম্পাদনা করা হবে">
 <!ENTITY hruleToolbarCmd.label "অনুভূমিক রেখা">
@@ -290,7 +264,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "নতুন নামসহ অ্যাংকর প্রবেশ বা নির্বাচিত অ্যাংকরের বৈশিষ্ট্য সম্পাদনা করা নাম">
 <!ENTITY TextColorButton.tooltip "পাঠ্যর রং বেছে নিন">
 <!ENTITY BackgroundColorButton.tooltip "পটভূমির রং বেছে নিন">
-<!ENTITY HighlightColorButton.tooltip "পাঠ্যর হাইলাইট রং বেছে নিন">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "অপেক্ষাকৃত ছোট ফন্ট আকার">
@@ -318,12 +291,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "নির্বাচন করুন (S)">
-<!ENTITY structSelect.accesskey "S">
-<!ENTITY structRemoveTag.label "ট্যাগ মুছে দিন (R)">
-<!ENTITY structRemoveTag.accesskey "R">
-<!ENTITY structChangeTag.label "ট্যাগ পরিবর্তন করুন (C)">
-<!ENTITY structChangeTag.accesskey "C">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "প্রবেশ (I)">
