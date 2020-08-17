@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "பாதுகாப்பு">
-<!ENTITY securityTab.label "பாதுகாப்பு">
-<!ENTITY securityHeading.label "கையெழுத்திட்ட அல்லது குறிமுறையாக்கப்பட்ட அஞ்சல்களை அனுப்ப மற்றும் பெற, digital signing சான்றிதழும் குறிமுறையாக்க சான்றிதழும் குறிப்பிடவேண்டும்">
-<!ENTITY encryptionGroupTitle.label "குறிமுறையாக்கம்">
-<!ENTITY encryptionChoiceLabel.label "அஞ்சல்களை அனுப்பும்போது பயன்படுத்தும் கொடாநிலை குறிமுறையாக்க அமைப்பு:">
-<!ENTITY neverEncrypt.label "ஒருபொழுதும் வேண்டாம்(குறிமுறையாக்கத்தை பயன்படுத்தவேண்டாம்)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "தேவை (அனைத்து பெறுநர்களிடமும் சான்றிதழ்கள் இருந்தால் மட்டுமே அஞ்சல்களை அனுப்பலாம்)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "amp-யை குறிமுறையாக்க இந்த சான்றிதழை பயன்படுத்துக; உங்களுக்கு அனுப்பப்பட்ட அஞ்சல்களின் குறிமுறையாக்கத்தை நீக்குக:">
-
 <!ENTITY digitalSign.certificate.button "தெரிவு செய்க…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "சுத்தமாக்குக">
@@ -22,12 +11,6 @@
 <!ENTITY encryption.certificate_clear.button "சுத்தமாக்குக">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "digital கையெழுத்திடல்">
-<!ENTITY signMessage.label "அஞ்சல்களில் digitalஆக கையெழுத்திடுக (பொதுஇருப்பில்)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "நீங்க அனுப்பும் அஞ்சல்களில் இலக்கமுறையாக கையெழுத்திட இந்த சான்றிதழை பயன்படுத்துக:">
 
-
-<!ENTITY certificates.label "சான்றிதழ்கள்">
-<!ENTITY manageDevices.label "பாதுகாப்புச் சாதனங்கள்">
-<!ENTITY manageDevices.accesskey "y">
 

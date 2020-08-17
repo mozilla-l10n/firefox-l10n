@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = இப்படி சேமி...
     .accesskey = e
-media-preview =
-    .value = ஊடக முன்னோட்டம்:
 
 perm-tab =
     .label = அனுமதிகள்
@@ -104,7 +102,6 @@ security-view-technical =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = தெரியாத
-not-set-verified-by = குறிப்பிடப்படவில்லை
 page-info-not-specified =
     .value = குறிப்பிடப்படவில்லை
 not-set-alternative-text = குறிப்பிடப்படவில்லை
@@ -127,7 +124,6 @@ no-page-title =
     .value = தலைப்பில்லாத பக்கம்:
 general-strict-mode =
     .value = தரப்படுத்தப்பட்ட இணக்க முறைமை
-security-no-owner = இந்த இணையத்தளம் உரிமை பற்றிய விவரங்களைக் கொடுக்கவில்லை.
 page-info-security-no-owner =
     .value = இந்த இணையத்தளம் உரிமை பற்றிய விவரங்களைக் கொடுக்கவில்லை.
 media-select-folder = படங்களைச் சேமிக்க ஒரு கோப்புறையைத் தெரிவுசெய்க

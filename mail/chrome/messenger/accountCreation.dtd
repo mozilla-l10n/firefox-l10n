@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "உங்களுடைய பெயர்:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder "முதல் இறுதி">
 <!ENTITY name.text                       "உங்களுடைய பெயர், மற்றவர்களுக்கு தென்படுவது">
 <!ENTITY email.label                     "மின்னஞ்சல் முகவரி:">
 <!ENTITY email.accesskey                 "l">
@@ -22,9 +21,6 @@
 <!ENTITY incoming.label                  "உள்வரும்:">
 <!ENTITY outgoing.label                  "வெளிசெல்லும்:">
 <!ENTITY username.label "பயனாளர் பெயர்:">
-<!ENTITY hostname.label "சேவையகம் ஓம்புனர் பெயர்">
-<!ENTITY port.label "Port">
-<!ENTITY ssl.label "SSL">
 <!ENTITY auth.label "அத்தாட்சிப்படுத்தல்">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label "POP3">
@@ -49,8 +45,6 @@
 
 <!ENTITY half-manual-test.label "மீண்டும் பருசோதித்தல்">
 <!ENTITY half-manual-test.accesskey "t">
-<!ENTITY manual-edit.label "கைமுறை தகவமைப்பு">
-<!ENTITY manual-edit.accesskey "M">
 
 
 <!ENTITY warning.label                   "எச்சரிக்கை!">

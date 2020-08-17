@@ -13,6 +13,20 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
+## Firefox and Mozilla Brand
+##
+## Firefox and Mozilla must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox மற்றும் Firefox சின்னங்கள் Mozilla அறக்கொடை நிறுவகத்தின் வர்த்தகமுத்திரைகளாகும்.

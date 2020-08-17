@@ -61,15 +61,9 @@
 <!ENTITY redoCmd.label "மீ-செய்">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "வெட்டு">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "நகலெடு">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "ஒட்டு">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -77,9 +71,7 @@
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY editRewrapCmd.label "மறுமடிப்பு">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY selectAllCmd.label "அனைத்தையும் தேர்ந்தெடு">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "மறுபடி தேடு">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -197,20 +189,8 @@
 <!ENTITY pasteButton.tooltip "ஒட்டு">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY headersSpace.style "அகலம்: 9em;">
-<!-- Headers -->
-<!ENTITY fromAddr.label "இருந்து:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "பெறுநர்:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "க்குப் பதில்:">
-<!ENTITY newsgroupsAddr.label "செய்தித்தொகுப்பு:">
-<!ENTITY followupAddr.label "-க்குத் தொடர்தல்:">
-<!ENTITY subject.label "தலைப்பு:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 

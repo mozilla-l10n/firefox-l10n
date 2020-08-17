@@ -66,14 +66,11 @@
 <!ENTITY maxMessagesEnd.label "செய்திகளை விட அதிகமாக பதிவிறக்கும் போது என்னிடம் கேட்கவும்.">
 <!ENTITY alwaysAuthenticate.label "இந்த சேவையகத்திற்கு தொடர்பு கொள்ளும் போது எப்பவுமே உறுதிப்படுத்தலை கோருக">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc கோப்பு:">
-<!ENTITY newsrcPicker.label "புதிய newsrc கோப்பை தெரிவு செய்க">
 <!ENTITY abbreviate.label "அஞ்சல் கோப்புறை பலகையில் செய்தித்தொகுப்பு பெயர்களை காண்பிக்கவும்:">
 <!ENTITY abbreviateOn.label "முழு பெயர்களும் (உதாரணமாக 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "பெயர்களை சுருக்குக (உதாரணமாக, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "உயர்நிலை...">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localPath.label "உள் அடைவு:">
 <!ENTITY localFolderPicker.label "உள் அடைவை தெரிவு செய்க">
 <!ENTITY browseFolder.label "உலாவு...">
 <!ENTITY browseFolder.accesskey "">

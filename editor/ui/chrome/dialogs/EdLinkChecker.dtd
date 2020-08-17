@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!-- Window title -->
-<!ENTITY windowTitle.label     "படிமத்தையும் இணைப்பு இடங்களையும் சோதனை செய்க">
-<!ENTITY succeeded.label       "வெற்றியளித்துள்ளது">
-<!ENTITY failed.label          "வெற்றியளிக்கவில்லை">
-<!ENTITY closeButton.label     "மூடுக">

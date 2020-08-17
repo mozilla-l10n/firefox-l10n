@@ -83,18 +83,6 @@
 
 
 
-<!ENTITY cmd.showPreferencesWin.label         "தேர்வுகள்">
-
-
-
-
-
-
-
-
-
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -112,8 +100,6 @@
 
 <!-- ratings -->
 
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "ரத்து">
 <!-- list sorting -->
 
 
@@ -130,30 +116,12 @@
 
 
 
-<!ENTITY addon.unknownDate                    "தெரியாத">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "இற்றைப்படுத்துக">
-
-
-
-
-
-<!ENTITY addon.install.label                  "நிறுவு">
-
-
-
-
-
-<!ENTITY addon.checkingForUpdates.label       "இற்றைப்படுத்தப்படுகிறது…">
 
 
 

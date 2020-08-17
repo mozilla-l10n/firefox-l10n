@@ -7,16 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(பிரத்தியேக உலாவல்)">
-
-
 <!-- Tab context menu -->
 
 
@@ -33,9 +23,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "தத்தலைச் சேர்">
-<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "தத்தலை நீக்குக">
-<!ENTITY  unpinTab.accesskey                 "b">
 
 
 
@@ -45,24 +33,11 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "அனைத்து தத்தல்களையும் பட்டியலிடுக">
 
 <!ENTITY tabCmd.label "புதிய தத்தல்">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "கோப்பினைத் திறக்க…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "பக்க அமைவு…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "அச்சு முன்பார்வை">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "அச்சிடுக…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
-
-<!ENTITY goOfflineCmd.label "இணைப்பில்லா நிலையில் இயங்குக">
-<!ENTITY goOfflineCmd.accesskey "k">
 
 
 
@@ -76,27 +51,7 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY pageSourceCmd.label "பக்க மூலம்">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-
-<!ENTITY pageInfoCmd.label "பக்க தகவல்">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-
-
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "முழுத்திரைக்குச் செல்">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "முழுத்திரையை விட்டு வெளியேறுக">
-<!ENTITY exitFullScreenCmd.accesskey "F">
-
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
-<!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "அனைத்து தத்தல்களையும் காட்டுக">
-<!ENTITY showAllTabsCmd.accesskey "A">
 
 
 
@@ -104,13 +59,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY fullScreenMinimize.tooltip "சுருக்குக">
-<!ENTITY fullScreenRestore.tooltip "மீளமை">
-
-<!ENTITY fullScreenAutohide.label "கருவிப்பட்டைகளை மறைக்க">
-<!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "முழுத்திரையிலிருந்து வெளியேறுக">
-<!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -124,8 +72,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY leaveDOMFullScreen.label "முழுத்திரையிலிருந்து வெளியேறுக">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
@@ -136,18 +82,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY closeWindow.label "சாளரத்தை மூடுக">
-<!ENTITY closeWindow.accesskey "d">
-
-<!ENTITY bookmarksMenu.label "புத்தகக்குறிகள்">
-<!ENTITY bookmarksMenu.accesskey "B">
-
-<!ENTITY editThisBookmarkCmd.label "இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-
-<!ENTITY addCurPagesCmd.label "அனைத்துத் தத்தல்களையும் புத்தகக்குறியிடுக…">
-
 <!ENTITY showAllBookmarks2.label "அனைத்துப் புத்தகக்குறிகளையும் காட்டுக">
 
 
@@ -157,17 +91,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY backButton.tooltip           "ஒரு பக்கம் பின்னால் செல்">
-
-<!ENTITY forwardButton.tooltip        "ஒரு பக்கம் முன்னே செல்க">
-<!ENTITY backForwardButtonMenu.tooltip "வரலாற்றை பார்க்க வலஞ் சொடுக்குக அல்லது கீழே இழுக்க                ">
-<!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றை பார்க்க கீழே இழுக்கும்">
-
-
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்">
 
 <!ENTITY printButton.label            "அச்சிடுக">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடுக">
@@ -201,7 +124,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 
 
@@ -217,92 +139,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "கருவிகள்">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY keywordfield.label           "இத் தேடுதலுக்கான விசைச் சொல்லை உள்ளிடுக">
-<!ENTITY keywordfield.accesskey       "K">
-
-
-<!ENTITY downloads.commandkey         "j">
 
 <!ENTITY addons.label                 "செருகல்கள்">
-<!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "இணையத்தள அபிவிருத்தியாளர்">
-<!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY inspectContextMenu.label     "உறுப்பாய்வு செய்க">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY fileMenu.label         "கோப்பு">
-<!ENTITY fileMenu.accesskey       "F">
 
 
 <!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "புதிய பிரத்தியேக சாளரம்">
-<!ENTITY newPrivateWindow.accesskey "W">
 
 
 <!ENTITY editMenu.label         "செவ்வையாக்கு">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "முன்செயல் நீக்கு">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.label            "மீளச் செய்க">
-
-<!ENTITY redoCmd.accesskey          "R">
-
-<!ENTITY cutCmd.key             "X">
 
 
 
 
-<!ENTITY pasteCmd.label           "ஒட்டு">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "அழி">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label         "அனைத்தையும் தெரி">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "தேர்வுகள்">
-<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "விருப்பத்தேர்வுகள்">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
-
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "நோக்கு">
-<!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "கருவிப்பட்டைகள்">
-<!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "பக்கப்பட்டை">
-<!ENTITY viewSidebarMenu.accesskey "e">
-
-<!ENTITY viewCustomizeToolbar.label       "தனிப்பயனாக்குக">
-<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 
 
 <!ENTITY historyMenu.label "வரலாறு">
-<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட தத்தல்கள்">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரங்கள்">
-
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 
 
@@ -366,13 +226,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "முகவரியைத் தேடவும் அல்லது உள்ளிடவும்">
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.switchToTab.label     "தத்தலுக்கு மாற்றுக:">
-
 
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
@@ -402,9 +255,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -416,13 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -436,120 +279,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY openLinkCmdInTab.label       "புதிய தத்தலில் இணைப்பைத் திறக்க">
-
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "இணைப்பைப் புதிய சாளரத்தில் திறக்க">
-<!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "புதிய பிரத்தியேக உலாவுதல் சாளரத்தில் இணைப்பைத் திற                ">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
-<!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "புதிய தத்தலில் சட்டகத்தைத் திறக்க">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "புதிய தத்தலில் சட்டகத்தைத் திறக்க">
-<!ENTITY openFrameCmd.accesskey       "W">
 
-
-<!ENTITY showOnlyThisFrameCmd.label     "இந்தச் சட்டகத்தை மட்டும் காட்டுக">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "சட்டகத்தை மீளேற்றுக">
-<!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "தேர்வின் மூலத்தைக் காட்டுக">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "பக்க மூலத்தைக் காட்டுக">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "சட்டக மூலத்தை காட்டுக">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
-
-
-<!ENTITY viewFrameInfoCmd.label       "சட்டகத் தகவல்களை நோக்குக">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "படத்தை மீளேற்று">
-<!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "படத்தை நோக்குக">
-<!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "படத் தகவலைப் பார்">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-
-
-<!ENTITY viewVideoCmd.label           "வீடியோவை நோக்குக">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "பின்னணி படத்தினைக் காட்டுக">
-<!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "பணிமேடையின் பின்னணியாக அமை…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
-<!ENTITY bookmarkThisLinkCmd.label      "இந்த இணைப்பைப் புத்தகக்குறியிடுக">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "இந்த சட்டகத்தைப் புத்தகக்குறியிடுக">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "பக்கத்தை இப்படிச் சேமி…">
-<!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "சட்டகத்தை இப்படிச் சேமி…">
-<!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "சட்டகத்தை அச்சிடு…">
-<!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "இணைப்பை இப்படிச் சேமி…">
-<!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           " படத்தை இப்படிச் சேமி…">
-<!ENTITY saveImageCmd.accesskey       "v">
-
-
-<!ENTITY saveAudioCmd.label           "ஓடியோவை இப்படிச் சேமி…">
-<!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "படத்தை மின்னஞ்சல் செய்...">
-<!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "வீடியோவை மின்னஞ்சல் செய்...">
-<!ENTITY emailVideoCmd.accesskey      "a">
 
 
 
-
-<!ENTITY playPluginCmd.label          "இச்செருகளை இயல்புபடுத்துக">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "இந்தச் செருகலை மறைக்கவும்">
-<!ENTITY hidePluginCmd.accesskey      "H">
-
-
-<!ENTITY copyImageCmd.label           "பட இடத்தை நகலெடு">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "படத்தை நகலெடு">
-<!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "வீடியோ இடத்தை நகலெடு">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "ஓடியோ இடத்தை நகலெடு">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "மின்னஞ்சல் முகவரியை நகலெடு">
-<!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "இந்தச் சட்டகம்">
-<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
-<!ENTITY mediaPlay.label             "இயக்கு">
-<!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "இடைநிறுத்து">
-<!ENTITY mediaPause.accesskey        "P">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "ஒலி நீக்கு">
-<!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "ஒலிக்கச் செய்">
-<!ENTITY mediaUnmute.accesskey       "m">
 
 
 
@@ -566,23 +307,12 @@ fast. -->
 
 
 
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "கட்டுப்பாடுகளைக் காட்டு                ">
-<!ENTITY mediaShowControls.accesskey "C">
-
-
-
 
 
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-
-<!ENTITY videoHideStats.label        "புள்ளிவிபரத்தை மறைக்க">
-<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -591,28 +321,7 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "பெரிதாக்கு">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "சிறிதாக்கு">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "மீளமை">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "உரையை மட்டும் பெரிதாக்கு">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-
 <!ENTITY fullZoom.label                 "பெரியதாக்கு">
-<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "பக்கப்பட்டையை மூடு">
 
@@ -620,8 +329,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Exit">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "வெளியேறு">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 
@@ -630,13 +337,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-<!ENTITY pageStyleMenu.label "பக்கப் பாணி">
-<!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "பாணி இல்லை">
-<!ENTITY pageStyleNoStyle.accesskey "N">
-<!ENTITY pageStylePersistentOnly.label "அடிப்படை பக்கப் பாணி">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -647,18 +347,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "பக்கத் திசையை மாற்று">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "உரைத் திசையை மாற்று">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 
-
-
-
-<!ENTITY findAgainCmd.label  "மீண்டும் தேடு">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
 <!ENTITY spellAddDictionaries.label "அகராதிகளைச் சேர்…">
@@ -693,9 +382,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY identity.permissions "அனுமதிகள்">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -737,10 +423,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
 
-<!ENTITY syncSyncNowItem.label        "இப்போது ஒத்திசை">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-
-
 
 
 
@@ -771,14 +453,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
-
-<!ENTITY getUserMedia.selectCamera.label "பகிர வேண்டிய கேமரா:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "பகிர வேண்டிய ஒலிவாங்கி:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 
 

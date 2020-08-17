@@ -211,8 +211,6 @@ network-proxy-connection-settings =
 
 ## The device name controls.
 
-sync-tos-link = சேவை விதிமுறைகள்
-
 ## Privacy Section
 
 
@@ -277,6 +275,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = சான்றிதழ்கள்
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

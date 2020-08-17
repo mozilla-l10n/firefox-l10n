@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "செவ்வையாக்கு">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "அ-செய்">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "மீ-செய்">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "வெட்டு">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "நகலெடு">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "ஒட்டு">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "நீக்கு">
-<!ENTITY deleteCmd.accesskey "D">
 <!ENTITY deleteAbCmd.label "முகவரிப் புத்தகத்தை நீக்கு">
 <!ENTITY deleteContactCmd.label                         "தொடர்பை நீக்கவும்">
 <!ENTITY deleteContactsCmd.label                        "தொடர்புகளை நீக்கவும்">
 <!ENTITY deleteListCmd.label                            "பட்டியலை நீக்குக">
 <!ENTITY deleteListsCmd.label                           "பட்டியல்களை நீக்குக">
 <!ENTITY deleteItemsCmd.label                           "உருப்படிகளை நீக்குக">
-<!ENTITY selectAllCmd.label "அனைத்தையும் தெரிவு செய்">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY swapFirstNameLastNameCmd.label "முதல்/கடைசி பெயரை பரஸ்பரம் மாற்று">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "உண்மை">
 <!ENTITY propertiesCmd.key "i">
 
 <!-- View Menu -->
