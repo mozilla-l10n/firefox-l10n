@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "சுருக்குக">
-<!ENTITY bringAllToFront.label    "அனைத்தையும் முன்னால் கொண்டுவரவும்">
-<!ENTITY zoomWindow.label         "அளவு">
-<!ENTITY windowMenu.label         "சாளரம்">
-
-<!ENTITY helpMenu.label           "உதவி"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "உதவி"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
-
-
-
-<!ENTITY helpMac.commandkey       "?">
-
-
-
-<!ENTITY helpSafeMode.label       "செருகல்களை இயலாமைப்படுத்தி மீள் ஆரம்பிக்க">
-<!ENTITY helpSafeMode.accesskey   "R">
-
 
 
 
@@ -36,14 +13,10 @@
 
 
 <!ENTITY preferencesCmdMac.label        "விருப்பத்தேர்வுகள்">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "சேவைகள்">
 
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
-
 <!ENTITY hideOtherAppsCmdMac.label      "ஏனையவற்றை மறைக்க">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "அனைத்தையும் காட்டு">
 

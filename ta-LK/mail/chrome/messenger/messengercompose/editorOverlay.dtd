@@ -4,21 +4,11 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!ENTITY saveCmd.key "S">
-
 <!ENTITY pasteNoFormatting.label "வடிவமைப்பு இல்லாமல் ஒட்டுக">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "ஆக ஒட்டுக">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY enableInlineSpellChecker.label "தட்டச்சு செய்யும் போது எழுத்துக்கூட்டு ஆய்வு செய்க">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "எழுத்துக்கூட்டை சரிபார்க்க">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "உள்ளிடுக">
@@ -166,9 +156,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "முக்கியப்பகுதியின் உரை">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "உயர்தர பண்பியல்புகள்">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "இசைவு செய்க">
@@ -185,11 +172,6 @@
 <!ENTITY alignJustify.label "சீர்படுத்தல்">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "சீராக இசைவு செய்க">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "அடுக்கு">
-<!ENTITY layerSendToBack.tooltip "பின் அனுப்புக">
-<!ENTITY layerBringToFront.tooltip "முன் கொணர்க">
 
 <!ENTITY increaseIndent.label "உள்தள்ளை உயர்த்துக">
 <!ENTITY increaseIndent.accesskey "I">
@@ -264,20 +246,6 @@
 <!ENTITY tableProperties.label "அட்டவணை பண்பியல்புகள்…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "பட்டிப் பட்டை">
-<!ENTITY formatToolbar.tooltip "வடிவமைக்கும் கருவிப்பட்டை">
-<!ENTITY cutToolbarCmd.tooltip "Cut">
-<!ENTITY copyToolbarCmd.tooltip "Copy">
-<!ENTITY pasteToolbarCmd.tooltip "Paste">
-
-<!ENTITY printToolbarCmd.label "அச்சிடுக">
-<!ENTITY printToolbarCmd.tooltip "இந்த பக்கத்தை அச்சடிக்கவும்">
-<!ENTITY findToolbarCmd.label "கண்டுபிடிக்க">
-<!ENTITY findToolbarCmd.tooltip "பக்கத்தில் உரையை கண்டுபிடிக்க">
-<!ENTITY spellToolbarCmd.label "எழுத்துக்கூட்டு">
-<!ENTITY spellToolbarCmd.tooltip "தேர்வு அல்லது முழு பக்கத்தின் எழுத்துக்கூட்டை சரிபார்க்கவும்">
-
 <!ENTITY imageToolbarCmd.label "படிமம்">
 <!ENTITY imageToolbarCmd.tooltip "புதிய படிமத்தை சேர்க்கவும் அல்லது தேர்வு செய்த படிமத்தின் பண்பியல்புகளை செவ்வையாக்குக">
 <!ENTITY hruleToolbarCmd.label "H.கோடு">
@@ -290,7 +258,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "புதிய பெயரிடப்பட்ட தொகுப்பை உள்ளிடுக அல்லது தேர்வு செய்த தொகுப்பின் பண்பியல்புகளை செவ்வையாக்குக">
 <!ENTITY TextColorButton.tooltip "உரையின் வண்ணத்தை தேர்வு செய்க">
 <!ENTITY BackgroundColorButton.tooltip "பின்னணி வண்ணத்தை தேர்வு செய்க">
-<!ENTITY HighlightColorButton.tooltip "உரையை தனிப்படுத்தி காட்டும் வண்ணத்தை தேர்வு செய்க">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "சிறிய எழுத்துரு அளவு">
@@ -309,14 +276,6 @@
 <!ENTITY alignRightButton.tooltip "உரையை வலது கரையுடன் இசைவு செய்க">
 <!ENTITY alignJustifyButton.tooltip "உரையை இடது மற்றும் வலது கரைகளுடன் இசைவு செய்க">
 
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "தேர்ந்தெடுக்கவும்">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "அடையான ஒட்டை நீக்குக">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "அடையான ஒட்டை மாற்றுக">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "உள்ளிடுக">

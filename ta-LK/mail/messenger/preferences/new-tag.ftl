@@ -5,3 +5,4 @@
 tag-name-label =
     .value = ஒட்டு பெயர்:
     .accesskey = ஒ
+
