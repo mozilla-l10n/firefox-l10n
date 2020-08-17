@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Dewis Ffeil…">
 <!ENTITY cmd.restoreFromFile.accesskey  "D">
 
-<!ENTITY cmd.deleteDomainData.label     "Anghofio'r Wefan Hon">
-<!ENTITY cmd.deleteDomainData.accesskey "W">
-
-<!ENTITY cmd.open.label                  "Agor">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Agor mewn Ffenestr Newydd">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Agor mewn Ffenestr Breifat Newydd">
-<!ENTITY cmd.open_private_window.accesskey "F">
-<!ENTITY cmd.open_tab.label              "Agor mewn Tab Newydd">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Agor pob Tab">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "T">
-
-<!ENTITY cmd.properties.label      "Priodweddau">
-<!ENTITY cmd.properties.accesskey  "P">
-
-<!ENTITY cmd.sortby_name.label              "Trefnu yn Ôl Enw">
-<!ENTITY cmd.sortby_name.accesskey          "E">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nod Tudalen Newydd…">
-<!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_folder.label              "Ffolder Newydd…">
-<!ENTITY cmd.new_folder.accesskey          "F">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Ymwahanydd Newydd">
-<!ENTITY cmd.new_separator.accesskey       "Y">
-
 <!ENTITY col.name.label          "Enw">
 <!ENTITY col.tags.label          "Tagiau">
 <!ENTITY col.url.label           "Lleoliad">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Cyfrif Ymweliadau">
 <!ENTITY col.dateadded.label     "Ychwanegwyd">
 <!ENTITY col.lastmodified.label  "Newidwyd Ddiwethaf">
-
-<!ENTITY historySearch.placeholder  "Hanes chwilio">
-<!ENTITY bookmarksSearch.placeholder  "Chwilio'r nodau tudalen">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Dewis eitem i'w gweld a golygu ei phriodweddau">
 
-<!ENTITY view.label               "Golwg">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Yn ôl Dyddiad">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Yn ôl Gwefan">
-<!ENTITY bySite.accesskey         "G">
-<!ENTITY byMostVisited.label      "Ymwelwyd Amlaf">
-<!ENTITY byMostVisited.accesskey  "A">
-<!ENTITY byLastVisited.label      "Ymwelwyd Diwethaf">
-<!ENTITY byLastVisited.accesskey  "D">
-<!ENTITY byDayAndSite.label       "Yn ôl Dyddiad a Gwefan">
-<!ENTITY byDayAndSite.accesskey   "Y">

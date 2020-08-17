@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Golygu">
 <!ENTITY editMenu.accesskey        "G">
 <!ENTITY undoCmd.label            "Dadwneud">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "u">
 <!ENTITY redoCmd.label            "Ailwneud">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "A">
-<!ENTITY cutCmd.label            "Torri">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "T">
-<!ENTITY copyCmd.label            "Copïo">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Gludo">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "G">
 <!ENTITY deleteCmd.label          "Dileu">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label          "Dewis Popeth">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "D">
 <!ENTITY preferencesCmd2.label "Dewisiadau">
 <!ENTITY preferencesCmd2.accesskey "D">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">

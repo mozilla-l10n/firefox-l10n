@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Amgryptio'r Neges">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Peidio ag Amgryptio">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "P">
 

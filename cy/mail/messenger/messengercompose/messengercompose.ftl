@@ -7,9 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Tynnwch y maes { $type }
+
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = Tynnwch y maes { $type }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -22,6 +24,7 @@ address-input-type-aria-label =
         [many] { $type } gyda { $count } cyfeiriad, defnyddiwch fysell y saeth chwith i ganolbwyntio arnyn nhw.
        *[other] { $type } gyda { $count } cyfeiriad, defnyddiwch fysell y saeth chwith i ganolbwyntio arnyn nhw.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -33,18 +36,23 @@ pill-aria-label =
         [many] { $email }, 1 o { $count }: pwyswch Enter i olygu, Delete i ddileu
        *[other] { $email }, 1 o { $count }: pwyswch Enter i olygu, Delete i ddileu
     }
+
 pill-action-edit =
     .label = Golygu Cyfeiriad
     .accesskey = G
+
 pill-action-move-to =
     .label = Symud i
     .accesskey = S
+
 pill-action-move-cc =
     .label = Symud i CC
     .accesskey = C
+
 pill-action-move-bcc =
     .label = Symud i Bcc
     .accesskey = B
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -58,6 +66,7 @@ attachment-bucket-count =
            *[other] { $count } Atodiad
         }
     .accesskey = A
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -70,9 +79,11 @@ attachments-placeholder-tooltip =
             [many] { $count } Atodiad
            *[other] { $count } Atodiad
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
 button-return-receipt =
     .label = Derbynneb
     .tooltiptext = Gofyn am dderbynneb dychwelyd i'r neges hon

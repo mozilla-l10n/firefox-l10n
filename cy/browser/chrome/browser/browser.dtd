@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Pori Preifat)">
-
 <!ENTITY appmenu.tooltip                     "Agor y ddewislen">
 <!ENTITY navbarOverflow.label                "Rhagor o offer…">
 
@@ -26,56 +16,18 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Pinio Tab">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Dadbinio Tab">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "D">
-<!ENTITY  sendPageToDevice.label             "Anfon Tudalen i Ddyfais">
-<!ENTITY  sendPageToDevice.accesskey         "D">
-<!ENTITY  sendLinkToDevice.label             "Anfon Dolen i Ddyfais">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
-<!ENTITY  undoCloseTab.accesskey             "D">
-<!ENTITY  hiddenTabs.label                   "Tabiau Cudd">
 
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
-<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
-in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Chwilio'r Tabiau">
 
 <!ENTITY tabCmd.label "Tab Newydd">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Agor Lleoliad…">
 <!ENTITY openFileCmd.label "Agor Ffeil…">
-<!ENTITY openFileCmd.accesskey "F">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Gosodiad Tudalen…">
-<!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
-<!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Argraffu…">
-<!ENTITY printCmd.accesskey "A">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Mewnforio o Borwr Arall…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "M">
 
 <!ENTITY taskManagerCmd.label "Rheolwr Tasgau">
 
-<!ENTITY goOfflineCmd.label "Gweithio All-lein">
-<!ENTITY goOfflineCmd.accesskey "w">
-
 <!ENTITY menubarCmd.label "Bar Dewislen">
 <!ENTITY menubarCmd.accesskey "B">
-<!ENTITY navbarCmd.label "Bar Offer Symud">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -88,75 +40,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Nodau Tudalen">
 <!ENTITY bookmarksToolbarItem.label "Eitemau Bar Offer Nodau Tudalen">
 
-<!ENTITY pageSourceCmd.label "Cod Gwreiddiol y Dudalen">
-<!ENTITY pageSourceCmd.accesskey "o">
-
-<!ENTITY pageSourceCmd.commandkey "u">
-<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
-Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
-shortcut shown in the GUI. SafariCommandKey is an alias provided for the
-convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "u">
-
-<!ENTITY pageInfoCmd.label "Gwybodaeth am y Dudalen">
-<!ENTITY pageInfoCmd.accesskey "w">
-
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Dadfygiwr Dyluniad">
-<!ENTITY ldbCmd.accesskey "D">
-<!ENTITY mirrorTabCmd.label "Tab Drych">
-<!ENTITY mirrorTabCmd.accesskey "D">
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Mynd i Sgrin Lawn">
-<!ENTITY enterFullScreenCmd.accesskey "S">
-<!ENTITY exitFullScreenCmd.label "Gadael Sgrin Lawn">
-<!ENTITY exitFullScreenCmd.accesskey "L">
-
 <!ENTITY fullScreenCmd.label "Sgrin Lawn">
-<!ENTITY fullScreenCmd.accesskey "S">
-<!ENTITY fullScreenCmd.macCommandKey "S">
-<!ENTITY showAllTabsCmd.label "Dangos Pob Tab">
-<!ENTITY showAllTabsCmd.accesskey "a">
-<!ENTITY toggleReaderMode.key "R">
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
-
-<!ENTITY fxaSignIn.label "Mewngofnodi i &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Agor dewisiadau &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Ail gysylltu i &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Gwirio eich Cyfrif">
 
 
 <!-- } is above this key on many keyboards -->
 
-
-<!ENTITY fullScreenMinimize.tooltip "Lleihau">
-<!ENTITY fullScreenRestore.tooltip "Adfer">
-<!ENTITY fullScreenClose.tooltip "Cau">
-<!ENTITY fullScreenAutohide.label "Cuddio Barrau Offer">
-<!ENTITY fullScreenAutohide.accesskey "u">
-<!ENTITY fullScreenExit.label "Gadael Modd Sgrin Lawn">
-<!ENTITY fullScreenExit.accesskey "L">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Cymrwch Firefox gyda Chi">
-<!ENTITY fxa.signin.description.label "Cael eich nodau tudalen, hanes, cyfrineiriau a gosodiadau eraill ar eich holl ddyfeisiau.">
-<!ENTITY fxa.signin.button.label "Trowch &syncBrand.shortName.label; ymlaen…">
-
-<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Gwiriwch eich e-bost">
-<!ENTITY fxa.unverified.description.label "Bydd angen i chi wirio eich cyfrif cyn y gallwch gydweddu.">
-<!ENTITY fxa.unverified.button.label "Agor Dewisiadau &syncBrand.shortName.label;…">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Mewngofnodwyd fel">
-<!ENTITY fxa.menu.manageAccount.label "Rheoli Cyfrif…">
-<!ENTITY fxa.menu.syncSettings.label "Gosodiadau &syncBrand.shortName.label;…">
 
 <!ENTITY pictureInPictureHideToggle.label "Cuddio'r Togl Llun mewn Llun">
 <!ENTITY pictureInPictureHideToggle.accesskey "L">
@@ -196,14 +84,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Gadael y Sgrin Lawn (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Gadael y Sgrin Lawn (esc)">
-<!ENTITY leaveDOMFullScreen.label "Gadael Sgrin Lawn">
-<!ENTITY leaveDOMFullScreen.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
-     these two strings are used when right-clicking on a video in the
-     content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Llun mewn Llun">
-<!ENTITY pictureInPicture.accesskey "L">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -214,88 +94,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.">
 <!ENTITY pointerlockWarning.generic.label "Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.">
 
-<!ENTITY closeWindow.label "Cau Ffenestr">
-<!ENTITY closeWindow.accesskey "F">
-
-<!ENTITY bookmarksMenu.label "Nodau Tudalen">
-<!ENTITY bookmarksMenu.accesskey "T">
-
-<!ENTITY bookmarkThisPageCmd.label "Gosod Nod Tudalen i'r Dudalen">
-<!ENTITY editThisBookmarkCmd.label "Golygu'r Nod Tudalen">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
-
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
 <!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
-<!ENTITY otherBookmarksCmd.label "Nodau Tudalen Eraill">
-<!ENTITY mobileBookmarksCmd.label "Nodau Tudalen Symudol">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
-
-<!ENTITY backCmd.label                "Nôl">
-<!ENTITY backCmd.accesskey            "N">
-<!ENTITY backButton.tooltip           "Nôl un tudalen">
-<!ENTITY forwardCmd.label             "Ymlaen">
-<!ENTITY forwardCmd.accesskey         "Y">
-<!ENTITY forwardButton.tooltip        "Ymlaen un tudalen">
-<!ENTITY backForwardButtonMenu.tooltip "Clic de neu dynnu lawr i ddangos hanes">
-<!ENTITY backForwardButtonMenuMac.tooltip "Tynnu lawr i ddangos hanes">
-<!ENTITY reloadCmd.label              "Ail-lwytho">
-<!ENTITY reloadCmd.accesskey          "A">
-<!ENTITY stopCmd.label                "Atal">
-<!ENTITY stopCmd.accesskey            "t">
-
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Mynd i'r cyfeiriad yn y Bar Lleoliad">
 
 <!ENTITY printButton.label            "Argraffu">
 <!ENTITY printButton.tooltip          "Argraffu'r dudalen">
-
-<!ENTITY urlbar.viewSiteInfo.label                      "Gweld manylion y wefan">
-
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Agor y panel negesu">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Agor panel cais y lleoliad">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Agor panel awtochwarae">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Agor panel neges gosod yr ychwanegyn">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Rheoli caniatâd tynnu canfas">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Agor y panel neges storio all-lein">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Agor panel neges y cyfrinair cadw">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Rheoli defnydd ategion">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Cadw data mewn Storfa Barhaus">
-
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Mae'r porwr o dan reolaeth bell">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Agor panel Dilysu Gwe">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Agor panel caniatâd gweithgaredd pori">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Rheoli rhannu eich meicroffon gyda'r wefan">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Rheoli rhannu eich ffenestri neu sgrin gyda'r wefan">
-
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Agor panel y neges gosod">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Cyfieithu'r dudalen hon">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Rheoli cyfieithu tudalennau">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Rheoli'r defnydd o feddalwedd DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Agor panel MIDI">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Rydych wedi diffodd eich camera ar gyfer y wefan hon.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Rydych wedi diffodd eich meicroffon ar gyfer y wefan hon.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Rydych wedi rhwystro'r manylion lleoliad ar gyfer y wefan hon.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Rydych wedi rhwystro hysbysiadau ar gyfer y wefan hon.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Rydych wedi rhwystro cyfrwng awtochwarae gyda seiniau ar gyfer y wefan hon.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Rydych wedi rhwystro tynnu data canvas o'r wefan hon.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Rydych wedi rhwystro'r wefan yma rhag defnyddio ategyn Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.">
-<!ENTITY urlbar.installBlocked.tooltip           "Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.">
-
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
-
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.">
 
 
 <!ENTITY searchItem.title             "Chwilio">
@@ -305,7 +109,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.defaultPage.tooltip "Cartref &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Nodau Tudalen">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Nodau Tudalen">
 <!ENTITY bookmarksMenuButton2.label         "Dewislen Nodau Tudalen">
@@ -320,110 +123,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Ychwanegu Dewislen Nodau Tudalen i'r Bar Offer">
 <!ENTITY removeBookmarksMenu.label          "Tynnu Dewislen Nodau Tudalen o'r Bar Offer">
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "Hanes">
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Offer">
-<!ENTITY toolsMenu.accesskey          "f">
-
-<!ENTITY keywordfield.label           "Ychwanegu Allweddair i'r Chwilio…">
-<!ENTITY keywordfield.accesskey       "Y">
 
 <!ENTITY downloads.label              "Llwytho i Lawr">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Llwythi">
-<!ENTITY downloads.accesskey          "L">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Ychwanegion">
-<!ENTITY addons.accesskey             "Y">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
-<!ENTITY webDeveloperMenu.accesskey   "D">
-
-<!ENTITY inspectContextMenu.label     "Archwilio Elfen">
-<!ENTITY inspectContextMenu.accesskey "E">
-
-<!ENTITY inspectA11YContextMenu.label     "Archwilio'r Priodoleddau Hygyrchedd">
-
-<!ENTITY fileMenu.label         "Ffeil">
-<!ENTITY fileMenu.accesskey       "F">
-
-<!ENTITY newUserContext.label             "Tab Cynhwysydd Newydd">
-<!ENTITY newUserContext.accesskey         "y">
-<!ENTITY manageUserContext.label          "Rheoli Cynhwysyddion">
-<!ENTITY manageUserContext.accesskey      "R">
 
 <!ENTITY newNavigatorCmd.label        "Ffenestr Newydd">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Ffenestr Breifat Newydd">
-<!ENTITY newPrivateWindow.accesskey "B">
 
 <!ENTITY editMenu.label         "Golygu">
-<!ENTITY editMenu.accesskey       "G">
-<!ENTITY undoCmd.label            "Dadwneud">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "w">
-<!ENTITY redoCmd.label            "Ailwneud">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "A">
-<!ENTITY cutCmd.label           "Torri">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "T">
-<!ENTITY copyCmd.label            "Copïo">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "Gludo">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "G">
-<!ENTITY deleteCmd.label          "Dileu">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "i">
-<!ENTITY selectAllCmd.label         "Dewis Popeth">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "P">
 <!ENTITY preferencesCmd2.label       "Dewisiadau">
-<!ENTITY preferencesCmd2.accesskey     "e">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
-<!ENTITY preferencesCmdUnix.accesskey     "w">
 <!ENTITY logins.label                           "Mewngofnodion a Chyfrineiriau">
-
-<!ENTITY clearRecentHistory.label               "Clirio Hanes Diweddar…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Golwg">
-<!ENTITY viewMenu.accesskey       "o">
-<!ENTITY viewToolbarsMenu.label       "Barrau Offer">
-<!ENTITY viewToolbarsMenu.accesskey     "B">
-<!ENTITY viewSidebarMenu.label "Bar Ochr">
-<!ENTITY viewSidebarMenu.accesskey "B">
-
-<!ENTITY viewCustomizeToolbar.label       "Cyfaddasu…">
-<!ENTITY viewCustomizeToolbar.accesskey     "y">
 
 <!ENTITY overflowCustomizeToolbar.label       "Cyfaddasu'r Bar Offer…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Hanes">
-<!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Tabiau Wedi eu Cau'n Ddiweddar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ffenestri wedi eu Cau yn Ddiweddar">
-<!ENTITY historyRestoreLastSession.label "Adfer y Sesiwn Flaenorol">
-
-<!ENTITY showAllHistoryCmd2.label "Dangos yr Holl Hanes">
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Dangos yr Holl Hanes">
 <!ENTITY appMenuHistory.clearRecent.label "Clirio Hanes Diweddar…">
@@ -453,10 +177,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Agor Dewisiadau Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Gweld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Mae angen i'ch cyfrif cael ei gwirio.">
-<!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Mewngofnodi i &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Cychwyn &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rheoli Dyfeisiadau…">
@@ -474,79 +196,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Ychwanegu at y Ddewislen Ychwanegol">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "D">
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Pinio i'r Ddewislen Ychwanegol">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dadbinio o'r Ddewislen Ychwanegol">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Tynnu o'r Bar Offer">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.addMoreItems.label "Ychwanegu Rhagor o Eitemau…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Y">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "Awtoguddio yn y Bar Offer">
-<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "Rheoli Estyniad">
-<!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.label "Tynnu'r Estyniad">
-<!ENTITY customizeMenu.removeExtension.accesskey "T">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Adrodd ar yr Estyniad">
-<!ENTITY customizeMenu.reportExtension.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 <!ENTITY moreMenu.label "Rhagor">
-
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Chwilio neu gyfeiriad gwe">
-<!ENTITY urlbar.accesskey             "g">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Estyniad:">
-<!ENTITY urlbar.switchToTab.label     "Newid i dab:">
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Awgrym:">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Derbyniwch gymorth wrth ganfod pethau! Chwiliwch yn yr &#x1F50E; nesaf i'r awgrymiadau chwilio.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Newid Dewisiadau…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Newid Dewisiadau…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "D">
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Ymholiad chwilio">
 
 <!ENTITY contentSearchSubmit.tooltip  "Cyflwyno'r chwilio">
 
@@ -555,202 +215,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInput.placeholder      "Chwilio">
 <!ENTITY searchIcon.tooltip           "Chwilio">
 
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Chwilio am ">
-<!ENTITY searchWith.label             " gyda:">
-
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Chwilio ">
-<!ENTITY searchAfter.label            "">
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Chwilio gyda:">
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Gosodiadau Chwilio">
-<!ENTITY changeSearchSettings.tooltip "Newid y gosodiadau chwilio">
-
-<!ENTITY searchInNewTab.label         "Chwilio mewn Tab Newydd">
-<!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "Gosod fel y Peiriant Chwilio Rhagosodedig">
-<!ENTITY searchSetAsDefault.accesskey "R">
-
-<!ENTITY openLinkCmdInTab.label       "Agor Dolen mewn Tab Newydd">
-
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Agor Dolen mewn Ffenestr Newydd">
-<!ENTITY openLinkCmd.accesskey        "F">
-<!ENTITY openLinkInPrivateWindowCmd.label "Agor Dolen mewn Ffenestr Breifat">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "F">
-<!ENTITY openLinkCmdInCurrent.label     "Agor Dolen">
-<!ENTITY openLinkCmdInCurrent.accesskey "D">
-<!ENTITY openFrameCmdInTab.label      "Agor Ffrâm mewn Tab Newydd">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "Agor Ffrâm mewn Ffenestr Newydd">
-<!ENTITY openFrameCmd.accesskey       "F">
-<!ENTITY openLinkCmdInContainerTab.label "Agor Dolen mewn Tab Cynhwysydd Newydd">
-<!ENTITY openLinkCmdInContainerTab.accesskey "T">
-<!ENTITY showOnlyThisFrameCmd.label     "Dangos y Ffrâm yma'n Unig">
-<!ENTITY showOnlyThisFrameCmd.accesskey "D">
-
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Ail-lwytho'r Ffrâm">
-<!ENTITY reloadFrameCmd.accesskey     "r">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Edrych ar Ffynhonnell y Dewis">
-<!ENTITY viewPartialSourceCmd.accesskey "E">
-<!ENTITY viewPageSourceCmd.label      "Edrych ar God Gwreiddiol y Dudalen">
-<!ENTITY viewPageSourceCmd.accesskey  "G">
-<!ENTITY viewFrameSourceCmd.label     "Edrych ar God Gwreiddiol y Ffrâm">
-<!ENTITY viewFrameSourceCmd.accesskey "F">
-<!ENTITY viewPageInfoCmd.label        "Edrych ar Wybodaeth am y Dudalen">
-<!ENTITY viewPageInfoCmd.accesskey    "E">
-<!ENTITY viewFrameInfoCmd.label       "Edrych ar Wybodaeth am y Ffrâm">
-<!ENTITY viewFrameInfoCmd.accesskey   "W">
-<!ENTITY reloadImageCmd.label         "Ail-lwytho'r Ddelwedd">
-<!ENTITY reloadImageCmd.accesskey     "D">
-<!ENTITY viewImageCmd.label           "Edrych ar Ddelwedd">
-<!ENTITY viewImageCmd.accesskey       "E">
-<!ENTITY viewImageInfoCmd.label       "Gwybodaeth am Weld Delwedd">
-<!ENTITY viewImageInfoCmd.accesskey   "D">
-<!ENTITY viewImageDescCmd.label       "Gweld Disgrifiad">
-<!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "Gwylio Fideo">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Edrych ar Ddelwedd Gefndir">
-<!ENTITY viewBGImageCmd.accesskey     "G">
-<!ENTITY setDesktopBackgroundCmd.label      "Gosod fel Cefndir Bwrdd Gwaith…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "B">
-<!ENTITY bookmarkPageCmd2.label       "Gosod Nod Tudalen i'r Dudalen">
-<!ENTITY bookmarkPageCmd2.accesskey   "N">
-<!ENTITY bookmarkThisLinkCmd.label      "Gosod Nod Tudalen i'r Ddolen">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "D">
-<!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "F">
 
 <!ENTITY pageAction.copyLink.label    "Copïo'r Ddolen">
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "Cadw i Pocket">
-
 <!ENTITY saveToPocketCmd.label        "Cadw Tudalen i Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "Cadw Dolen i Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Edrych ar Rhestr Pocket">
 
 <!ENTITY emailPageCmd.label           "E-bostio'r Ddolen…">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
-<!ENTITY savePageCmd.accesskey        "C">
-<!ENTITY savePageCmd.accesskey2       "T">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Cadw Ffrâm Fel…">
-<!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "Argraffu'r Ffrâm…">
-<!ENTITY printFrameCmd.accesskey      "A">
-<!ENTITY saveLinkCmd.label            "Cadw'r Ddolen Fel…">
-<!ENTITY saveLinkCmd.accesskey        "a">
-<!ENTITY saveImageCmd.label           "Cadw Delwedd Fel…">
-<!ENTITY saveImageCmd.accesskey       "D">
-<!ENTITY saveVideoCmd.label           "Cadw Fideo Fel…">
-<!ENTITY saveVideoCmd.accesskey       "F">
-<!ENTITY saveAudioCmd.label           "Cadw Sain Fel…">
-<!ENTITY saveAudioCmd.accesskey       "C">
-<!ENTITY emailImageCmd.label          "Delwedd E-bost…">
-<!ENTITY emailImageCmd.accesskey      "D">
-<!ENTITY emailVideoCmd.label          "Fideo E-bost…">
-<!ENTITY emailVideoCmd.accesskey      "F">
-<!ENTITY emailAudioCmd.label          "Sain E-bost…">
-<!ENTITY emailAudioCmd.accesskey      "S">
-<!ENTITY playPluginCmd.label          "Gweithredu'r ategyn">
-<!ENTITY playPluginCmd.accesskey      "G">
-<!ENTITY hidePluginCmd.label          "Cuddio'r ategyn">
-<!ENTITY hidePluginCmd.accesskey      "C">
-<!ENTITY copyLinkCmd.label            "Copïo Lleoliad Dolen">
-<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyLinkCmd.accesskey        "C">
-<!ENTITY copyImageCmd.label           "Copïo Lleoliad Delwedd">
-<!ENTITY copyImageCmd.accesskey       "L">
-<!ENTITY copyImageContentsCmd.label   "Copïo Delwedd">
-<!ENTITY copyImageContentsCmd.accesskey  "D">
-<!ENTITY copyVideoURLCmd.label        "Copïo Lleoliad Delwedd">
-<!ENTITY copyVideoURLCmd.accesskey    "e">
-<!ENTITY copyAudioURLCmd.label        "Copïo Lleoliad Delwedd">
-<!ENTITY copyAudioURLCmd.accesskey    "a">
-<!ENTITY copyEmailCmd.label           "Copïo Cyfeiriad E-bost">
-<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
-Location" and "Copy Email Address" should be the same if possible; the two
-context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Y Ffrâm">
-<!ENTITY thisFrameMenu.accesskey          "F">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Chwarae">
-<!ENTITY mediaPlay.accesskey         "C">
-<!ENTITY mediaPause.label            "Oedi">
-<!ENTITY mediaPause.accesskey        "O">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Tewi">
-<!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Dad-dewi">
-<!ENTITY mediaUnmute.accesskey       "a">
-<!ENTITY mediaPlaybackRate2.label     "Cyflymder Chwarae">
-<!ENTITY mediaPlaybackRate2.accesskey "y">
-<!ENTITY mediaPlaybackRate050x2.label "Araf (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "A">
-<!ENTITY mediaPlaybackRate100x2.label "Arferol">
-<!ENTITY mediaPlaybackRate100x2.accesskey "A">
-<!ENTITY mediaPlaybackRate125x2.label "Cyflym (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "C">
-<!ENTITY mediaPlaybackRate150x2.label "Cyflymach (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "y">
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Hyrt (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "H">
-<!ENTITY mediaLoop.label             "Cylchu">
-<!ENTITY mediaLoop.accesskey         "C">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Dangos Rheolydd">
-<!ENTITY mediaShowControls.accesskey "R">
-<!ENTITY mediaHideControls.label     "Cuddio Rheolydd">
-<!ENTITY mediaHideControls.accesskey "u">
-<!ENTITY videoFullScreen.label       "Sgrin Lawn">
-<!ENTITY videoFullScreen.accesskey   "S">
-<!ENTITY videoSaveImage.label        "Cadw Ciplun Fel…">
-<!ENTITY videoSaveImage.accesskey    "i">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Dangos Ystadegau">
-<!ENTITY videoShowStats.accesskey    "Y">
-<!ENTITY videoHideStats.label        "Cuddio Ystadegau">
-<!ENTITY videoHideStats.accesskey    "C">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -758,57 +232,16 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Chwyddo Mewn">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "M">
-
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Chwyddo Allan">
-<!ENTITY fullZoomReduceCmd.accesskey    "A">
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Ailosod">
-<!ENTITY fullZoomResetCmd.accesskey     "i">
-
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Chwyddo'r Testun yn Unig">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-
 <!ENTITY fullZoom.label                 "Chwyddo">
-<!ENTITY fullZoom.accesskey             "h">
 
 <!ENTITY sidebarCloseButton.tooltip     "Cau'r bar ochr">
-<!ENTITY sidebarMenuClose.label         "Cau'r Bar Ochr">
 
 <!ENTITY quitApplicationCmdWin2.label       "Gadael">
 <!ENTITY quitApplicationCmdWin2.accesskey   "G">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Gadael &brandShorterName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Gadael">
 <!ENTITY quitApplicationCmd.accesskey   "G">
 <!ENTITY quitApplicationCmdMac2.label   "Gadael &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
-
-<!ENTITY closeCmd.label                 "Cau">
-
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "C">
-
-<!ENTITY toggleMuteCmd.key              "M">
-
-<!ENTITY pageStyleMenu.label "Arddull Tudalen">
-<!ENTITY pageStyleMenu.accesskey "A">
-<!ENTITY pageStyleNoStyle.label "Dim Arddull">
-<!ENTITY pageStyleNoStyle.accesskey "D">
-<!ENTITY pageStylePersistentOnly.label "Arddull Tudalen Sylfaenol">
-<!ENTITY pageStylePersistentOnly.accesskey "S">
 
 <!ENTITY allowPopups.accesskey "l">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -819,172 +252,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "P">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Newid Cyfeiriad Tudalen">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "N">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Newid Cyfeiriad Testun">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
-
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Canfod ar y Dudalen…">
-<!ENTITY findOnCmd.accesskey "a">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Canfod Eto">
-<!ENTITY findAgainCmd.accesskey "E">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
 <!ENTITY spellAddDictionaries.accesskey "G">
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Gorffen">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Dangos y golygydd wrth gadw">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "D">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Diogelwch Gwefan">
-
-<!ENTITY identity.connection "Cysylltiad">
-<!ENTITY identity.connectionSecure "Cysylltiad Pell">
-<!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
-
-<!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
-<!ENTITY identity.connectionVerified2 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon, sy'n cael ei redeg gan:">
-<!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
-<!ENTITY identity.extensionPage "Mae'r dudalen wedi ei llwytho o estyniad.">
-<!ENTITY identity.insecureLoginForms2 "Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.">
-<!ENTITY identity.customRoot "Dilyswyd y cysylltiad gan gyhoeddwr tystysgrif nad yw'n cael ei gydnabod gan Mozilla.">
-
-<!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
-<!ENTITY identity.passiveLoaded "Nid yw rhannau o'r dudalen hon yn ddiogel (megis delweddau).">
-<!ENTITY identity.activeLoaded "Rydych wedi analluogi diogelwch ar y dudalen hon.">
-<!ENTITY identity.weakEncryption "Mae'r dudalen hon yn defnyddio amgryptiad gwan.">
-
-<!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Nid yw eich cysylltiad â'r dudalen hon yn breifat. Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).">
-<!ENTITY identity.description.insecureLoginForms "Nid yw'r manylion mewngofnodi rydych wedi ei roi i'r dudalen yn ddiogel a gall fod wedi ei danseilio.">
-<!ENTITY identity.description.weakCipher "Mae eich cysylltiad i'r wefan hon yn defnyddio amgryptiad gwan ac nid yw'n breifat.">
-<!ENTITY identity.description.weakCipher2 "Gall bobl eraill weld eich manylion neu newid ymddygiad y wefan.">
-<!ENTITY identity.description.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
-<!ENTITY identity.description.passiveLoaded "Nid yw eich cysylltiad yn breifat ac mae'n bosib i wybodaeth rydych yn ei rannu gael ei weld gan eraill.">
-<!ENTITY identity.description.passiveLoaded2 "Mae'r wefan yn cynnwys deunydd nad yw'n ddiogel (megis delweddau).">
-<!ENTITY identity.description.passiveLoaded3 "Er bod &brandShortName; wedi rhwystro peth cynnwys, mae cynnwys dal ar y dudalen nad yw'n ddiogel (megis delweddau).">
-<!ENTITY identity.description.activeLoaded "Mae'r wefan yn cynnwys yn deunydd nad yw'n ddiogel (megis sgriptiau) ac nid yw eich cysylltiad â nhw'n breifat.">
-<!ENTITY identity.description.activeLoaded2 "Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).">
-<!ENTITY identity.description.customRoot "Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr.">
-
-<!ENTITY identity.enableMixedContentBlocking.label "Galluogi diogelu">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "G">
-<!ENTITY identity.disableMixedContentBlocking.label "Analluogi diogelu dros dro">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "A">
-<!ENTITY identity.learnMore "Dysgu Rhagor">
-
-<!ENTITY identity.removeCertException.label "Tynnu Eithriad">
-<!ENTITY identity.removeCertException.accesskey "E">
-
-<!ENTITY identity.moreInfoLinkText2 "Rhagor o Wybodaeth">
-
-<!ENTITY identity.clearSiteData "Clirio Data Cwcis a Gwefan…">
-
-<!ENTITY identity.permissions "Caniatâd">
-
-<!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
-<!ENTITY identity.permissionsReloadHint "Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.">
-<!ENTITY identity.permissionsPreferences.tooltip "Agor Dewisiadau Caniatâd">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Agor Dewisiadau Rhwystro Cynnwys">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabiau porwyr">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Tabiau wedi'u Cydweddu">
-
-<!ENTITY syncedTabs.sidebar.label              "Tabiau wedi'u Cydweddu">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Mewngofnodi i &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
-<!ENTITY syncSyncNowItemSyncing.label "Cydweddu…">
-<!ENTITY syncSyncNowItem.accesskey    "y">
-<!ENTITY syncReAuthItem.label         "Ail gysylltu i &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "A">
-<!ENTITY syncToolbarButton.label      "Sync">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Awto-guddio">
-
-<!ENTITY getUserMedia.selectCamera.label "Camera i'w rannu:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Meicroffon i'w rannu:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Bydd sain o'r tab yn cael ei rannu.">
-<!ENTITY getUserMedia.allWindowsShared.message "Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.">
-
-<!ENTITY contentBlocking.title "Rhwystro Cynnwys">
-<!ENTITY contentBlocking.detected "Mae cynnwys rhwystradwy wedi ei ganfod ar y wefan hon.">
-<!ENTITY contentBlocking.notDetected "Dim cynnwys rhwystradwy wedi eu canfod ar y dudalen hon.">
-
-<!ENTITY contentBlocking.trackingProtection3.label "Tracwyr">
-
-<!ENTITY contentBlocking.manageSettings.label "Rheoli Rhwystro Cynnwys">
-<!ENTITY contentBlocking.manageSettings.accesskey "R">
-
-<!ENTITY contentBlocking.trackersView.label "Tracwyr">
-<!ENTITY contentBlocking.trackersView.strictInfo.label 'I rwystro pob traciwr, gosodwch rhwystro cynnwys "Llym".'>
-
-<!ENTITY contentBlocking.cookies.label "Cwcis">
-<!ENTITY contentBlocking.cookiesView.label "Cwcis a Data Gwefan">
-
-<!ENTITY contentBlocking.cryptominers.label "Cryptogloddwyr">
-<!ENTITY contentBlocking.cryptominersView.label "Cryptogloddwyr">
-
-<!ENTITY contentBlocking.fingerprinters.label "Bysbrintwyr">
-<!ENTITY contentBlocking.fingerprintersView.label "Bysbrintwyr">
-
-<!ENTITY contentBlocking.openBreakageReportView2.label "Adrodd ar broblem">
-<!ENTITY contentBlocking.breakageReportView.label "Adrodd ar Broblemau">
-<!ENTITY contentBlocking.breakageReportView2.description "Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn rhoi adroddiad ar broblemau, byddwch yn helpu gwneud &brandShortName; yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "Dysgu Rhagor">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Pa broblemau gawsoch chi? (Dewisol)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Anfon Adroddiad">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Diddymu">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Diffodd rhwystro ar y wefan hon">
-<!ENTITY trackingProtection.unblock5.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Diffodd rhywstro dros dro">
-<!ENTITY trackingProtection.unblockPrivate5.accesskey "D">
-<!ENTITY trackingProtection.block6.label "Cychwyn rhwystro ar y wefan hon">
-<!ENTITY trackingProtection.block6.accesskey "C">
-<!ENTITY trackingProtection.reload2.label "Ail-lwytho Tudalen">
-<!ENTITY trackingProtection.reload2.accesskey "T">
-
-<!ENTITY pluginNotification.showAll.label "Dangos Popeth">
-<!ENTITY pluginNotification.showAll.accesskey "P">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
 
 
 <!ENTITY uiTour.infoPanel.close "Cau">
@@ -993,38 +273,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Pori diogel!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Diolch!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Dysgu rhagor am DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY updateAvailable.panelUI.label "Llwytho diweddariad &brandShorterName; i lawr">
 <!ENTITY updateManual.panelUI.label "Llwytho i lawr fersiwn newydd o &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Nid oes modd i chi gyflawni diweddariadau pellach">
 <!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
-
-<!ENTITY newTabControlled.header.message "Mae eich Tab Newydd wedi newid.">
-<!ENTITY newTabControlled.keepButton.label "Cadw Newidiadau">
-<!ENTITY newTabControlled.keepButton.accesskey "N">
-<!ENTITY newTabControlled.disableButton.label "Analluogi Estyniad">
-<!ENTITY newTabControlled.disableButton.accesskey "A">
-
-<!ENTITY homepageControlled.message "Mae estyniad wedi newid yr hyn rydych yn ei weld ar eich tudalen cartref. Gallwch adfer eich gosodiadau os nad ydych chi eisiau'r newid hwn.">
-
-<!ENTITY homepageControlled.header.message "Mae eich tudalen cartref wedi newid.">
-<!ENTITY homepageControlled.keepButton.label "Cadw'r Newidiadau">
-<!ENTITY homepageControlled.keepButton.accesskey "C">
-<!ENTITY homepageControlled.disableButton.label "Analluogi'r Estyniad">
-<!ENTITY homepageControlled.disableButton.accesskey "A">
-
-<!ENTITY tabHideControlled.header.message "Mynd i’ch Tabiau Cudd">
-<!ENTITY tabHideControlled.keepButton.label "Cadw Tabiau’n Gudd">
-<!ENTITY tabHideControlled.keepButton.accesskey "C">
-<!ENTITY tabHideControlled.disableButton.label "Analluogi’r Estyniad">
-<!ENTITY tabHideControlled.disableButton.accesskey "A">
-
-<!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
-<!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
-<!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
-<!ENTITY pageAction.manageExtension.label "Rheoli Estyniad…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
 

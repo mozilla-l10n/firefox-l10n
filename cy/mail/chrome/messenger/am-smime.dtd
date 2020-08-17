@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Diogelwch">
-<!ENTITY securityTab.label "Diogelwch">
-<!ENTITY securityHeading.label "I anfon a derbyn negeseuon wedi'u llofnodi neu eu hamgryptio, rhaid i chi bennu tystysgrif ddigidol wedi ei lofnodi a thystysgrif amgryptio.">
-<!ENTITY encryptionGroupTitle.label "Amgryptiad">
-<!ENTITY encryptionChoiceLabel.label "Gosodiadau rhagosodedig amgryptio wrth anfon negeseuon:">
-<!ENTITY neverEncrypt.label "Byth (peidio defnyddio amgryptiad)">
-<!ENTITY neverEncrypt.accesskey "B">
-<!ENTITY alwaysEncryptMessage.label "Gofynnol (methu anfon negeseuon oni bai fod gan yr holl dderbynwyr dystysgrifau)">
-<!ENTITY alwaysEncryptMessage.accesskey "G">
-<!ENTITY encryptionCert.message "Defnyddio'r dystysgrif i amgryptio a dadgriptio negeseuon gafodd eu hanfon atoch:">
-
 <!ENTITY e2eTitle.label "Amgryptio Pen-i-Ben">
-<!ENTITY e2eIntro.description "I anfon negeseuon wedi'u hamgryptio neu wedi'u llofnodi'n ddigidol, mae angen i chi ffurfweddu technoleg amgryptio, naill ai OpenPGP neu S/MIME.">
 <!ENTITY e2eLearnMore.label "Dysgu rhagor">
 
 <!ENTITY e2eEnc.description "Heb amgryptio pen-i-ben mae cynnwys negeseuon yn hawdd eu hamlygu i'ch darparwr e-bost ac i wyliadwriaeth dorfol.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Clirio">
 <!ENTITY encryption.certificate_clear.accesskey "l">
 <!ENTITY signingGroupTitle.label "Llofnodi Digidol">
-<!ENTITY signMessage.label "Llofnodi negeseuon yn ddigidol (trwy ragosodiad)">
 <!ENTITY signMessage2.label "Ychwanegu fy llofnod ddigidol yn rhagosodedig">
 <!ENTITY signMessage.accesskey "r">
-<!ENTITY signingCert.message "Defnyddiwch y dystysgrif hon i lofnodi'r negeseuon rydych yn eu hanfon yn ddigidol:">
-
-<!ENTITY certificates.label "Tystysgrifau">
-<!ENTITY manageCerts2.label "Rheoli Tystysgrifau">
-<!ENTITY manageCerts2.accesskey "R">
-<!ENTITY manageDevices.label "Dyfeisiau Diogelwch">
-<!ENTITY manageDevices.accesskey "y">
 
 <!ENTITY signingCert2.message "Tystysgrif bersonol ar gyfer amgryptio:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Dewis OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Rheoli Allweddi OpenPGP">
-<!ENTITY manageKeys.accesskey "A">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Dewis Tystysgrif">

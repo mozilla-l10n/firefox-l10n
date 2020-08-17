@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Galluogi dadfygio pell
-options-enable-remote-tooltip =
-    .title = Bydd cychwyn y dewis hwn yn caniatáu i chi ddefnyddio offer datblygu i ddadfygio enghreifftiau o Firefox pell megis Firefox OS
 
 options-enable-remote-tooltip2 =
     .title = Bydd troi'r dewis hwn ymlaen yn caniatáu dadfygio enghraifft y porwr hwn o bell

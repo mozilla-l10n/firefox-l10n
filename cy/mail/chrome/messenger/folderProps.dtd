@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Math o Ffolder:">
 
 <!ENTITY folderQuotaTab.label                    "Cwota">
-<!ENTITY folderQuotaRoot.label                   "Gwraidd Cwota:">
 <!ENTITY folderQuotaUsage.label                  "Defnydd:">
 <!ENTITY folderQuotaStatus.label                 "Statws:">
 

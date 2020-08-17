@@ -35,12 +35,7 @@ connection-proxy-http = Dirprwy yr HTTP
     .accesskey = H
 connection-proxy-http-port = Porth
     .accesskey = P
-connection-proxy-http-share =
-    .label = Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol
-    .accesskey = e
 
-connection-proxy-ssl = Dirprwy SSL
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Defnyddiwch y dirprwy yma hefyd ar gyfer FTP a HTTPS
     .accesskey = d

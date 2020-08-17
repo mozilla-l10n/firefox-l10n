@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "Consol Gwall">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Scratchpad">
-<!ENTITY scratchpadCmd.accesskey "S">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Estyn Negeseuon">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Anfon neges dewiswyd ymlaen fel atodiad">
 <!ENTITY fileButton.tooltip "Ffeilio'r neges">
 <!ENTITY archiveButton.tooltip "Archifo'r negeseuon">
-<!ENTITY openConversationButton.tooltip "Dangos sgwrs neges sydd wedi ei dewis">
 <!ENTITY openMsgConversationButton.tooltip "Dangos sgwrs neges sydd wedi ei dewis">
 <!ENTITY nextButton.tooltip "Symud i'r neges nesaf heb ei darllen">
 <!ENTITY nextMsgButton.tooltip "Symud i'r neges nesaf">

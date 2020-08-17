@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Gludo heb fformatio">
 <!ENTITY pasteNoFormatting.accesskey "G">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Gludo Fel">
-<!ENTITY pasteAs.accesskey "G">
 <!ENTITY pasteAsQuotationCmd.label "Gludo fel Dyfyniad">
 <!ENTITY pasteAsQuotationCmd.accesskey "D">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Canfod…">
-<!ENTITY findReplaceCmd.label "Canfod a Newid…">
-<!ENTITY enableInlineSpellChecker.label "Gwirio Sillafu Wrth Deipio">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Gwirio Sillafu…">
-<!ENTITY checkSpellingCmd2.accesskey "G">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Mewnosod">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corff y Testun">
 <!ENTITY bodyTextCmd.accesskey "C">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Priodweddau Uwch">
-<!ENTITY advancedPropertiesCmd.accesskey "U">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Alinio">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Unioni">
 <!ENTITY alignJustify.accesskey "U">
 <!ENTITY alignJustify.tooltip "Alinio Unioni">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Haen">
-<!ENTITY layerSendToBack.tooltip "Anfon i'r Cefn">
-<!ENTITY layerBringToFront.tooltip "Dwyn i'r Blaen">
 
 <!ENTITY increaseIndent.label "Cynyddu'r Mewnoliad">
 <!ENTITY increaseIndent.accesskey "y">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Priodweddau Tabl…">
 <!ENTITY tableProperties.accesskey "P">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Bar Dewislen">
-<!ENTITY formatToolbar.tooltip "Bar Offer Fformatio">
-<!ENTITY cutToolbarCmd.tooltip "Torri">
-<!ENTITY copyToolbarCmd.tooltip "Copïo">
-<!ENTITY pasteToolbarCmd.tooltip "Gludo">
-<!ENTITY printToolbarCmd.label "Argraffu">
-<!ENTITY printToolbarCmd.tooltip "Argraffu'r dudalen">
-<!ENTITY findToolbarCmd.label "Canfod">
-<!ENTITY findToolbarCmd.tooltip "Canfod y testun ar y dudalen">
-<!ENTITY spellToolbarCmd.label "Sillafu">
-<!ENTITY spellToolbarCmd.tooltip "Gwirio sillafu o adran neu o'r dudalen gyfan">
-
 <!ENTITY imageToolbarCmd.label "Delwedd">
 <!ENTITY imageToolbarCmd.tooltip "Mewnosod delwedd newydd neu olygu priodweddau'r ddelwedd">
 <!ENTITY hruleToolbarCmd.label "H.Line">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Mewnosod angor a enwyd neu olygu priodweddau'r angor">
 <!ENTITY TextColorButton.tooltip "Dewiswch liw i'r testun">
 <!ENTITY BackgroundColorButton.tooltip "Dewiswch liw i'r cefndir">
-<!ENTITY throbber.tooltip2 "Ewch i dudalen cartref &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Dewis lliw amlygu ar gyfer y testun">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Gosod maint ffont">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Alinio testun wedi'i ganoli">
 <!ENTITY alignRightButton.tooltip "Alinio testun ar hyd yr ymyl dde">
 <!ENTITY alignJustifyButton.tooltip "Alinio testun ar hyd ymylon de a chwith">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Dewis">
-<!ENTITY structSelect.accesskey     "D">
-<!ENTITY structRemoveTag.label      "Tynnu tag">
-<!ENTITY structRemoveTag.accesskey  "T">
-<!ENTITY structChangeTag.label      "Newid tag">
-<!ENTITY structChangeTag.accesskey  "N">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Mewnosod">

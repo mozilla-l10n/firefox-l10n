@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Torri">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Copïo">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Gludo">
-<!ENTITY pasteCmd.accesskey "G">
-<!ENTITY undoCmd.label "Dadwneud">
-<!ENTITY undoCmd.accesskey "w">
-<!ENTITY selectAllCmd.label "Dewis Popeth">
-<!ENTITY selectAllCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Dileu">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "Ychwanegu at y Geiriadur">
 <!ENTITY spellAddToDictionary.accesskey "Y">
 <!ENTITY spellUndoAddToDictionary.label "Dadwneud Ychwanegu at y Geiriadur">

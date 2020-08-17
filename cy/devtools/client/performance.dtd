@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Enw a lleoliad ffynhonnell y swyddogaeth sampledig.">
 <!ENTITY performanceUI.table.totalAlloc               "Cyfanswm Dynodiadau Samplwyd">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Cyfanswm y nifer o ddynodiadau Gwrthrych samplwyd yn y lleoliad hwn a'i alwadwyr.">
-<!ENTITY performanceUI.table.selfAlloc                "Dynodiadau Hunan Samplwyd">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Y nifer o ddynodiadau Gwrthrych samplwyd yn y lleoliad hwn.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

@@ -33,21 +33,6 @@ graph-private-window = Mae { -brand-short-name } yn parhau i rwystro tracwyr mew
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Tracwyr rhwystrodd { -brand-short-name } yr wythnos hon
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Mae'r Lefel Diogelu wedi'i osod i <b>Safonol</b>
-    .title = Ewch i'r Gosodiadau Preifatrwydd
-protection-report-header-details-strict = Mae'r Lefel Diogelu wedi'i osod i <b>Llym</b>
-    .title = Ewch i'r Gosodiadau Preifatrwydd
-protection-report-header-details-custom = Mae'r Lefel Diogelu wedi'i osod i <b>Cyfaddas</b>
-    .title = Ewch i'r Gosodiadau Preifatrwydd
-protection-report-page-title = Diogelu Preifatrwydd
-protection-report-content-title = Diogelu Preifatrwydd
-
-etp-card-title = Diogelwch Uwch Rhag Tracio
-etp-card-content = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
-
 protection-report-webpage-title = Bwrdd Gwaith Diogelwch
 protection-report-page-content-title = Bwrdd Gwaith Diogelwch
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -94,12 +79,9 @@ mobile-app-card-content = Defnyddiwch y porwr symudol gydag diogelwch mewnol rha
 mobile-app-links = Porwr { -brand-product-name } ar gyfer <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Peidiwch byth ag anghofio cyfrinair eto
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Rheoli Cyfrineiriau
 lockwise-header-content = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau yn ddiogel yn eich porwr.
 lockwise-header-content-logged-in = Cadwch a chydweddwch eich cyfrineiriau'n ddiogel i'ch holl ddyfeisiau.
-protection-report-view-logins-button = Gweld Mewngofnodi
-    .title = Ewch i'r Mewngofnodin wedi'u Cadw
 protection-report-save-passwords-button = Cadw Cyfrineiriau
     .title = Cadw Cyfrineiriau ar { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Rheoli Cyfrineiriau
@@ -107,19 +89,6 @@ protection-report-manage-passwords-button = Rheoli Cyfrineiriau
 lockwise-mobile-app-title = Ewch â'ch cyfrineiriau i bob man
 lockwise-no-logins-card-content = Defnyddiwch gyfrineiriau wedi'u cadw yn { -brand-short-name } ar unrhyw ddyfais.
 lockwise-app-links = { -lockwise-brand-name } ar gyfer <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name = "lockwise-ios-inline-link" >iOS</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [zero] Cyfrineiriau wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
-        [one] Cyfrinair wedi'i gadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
-        [two] Gyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
-        [few] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
-        [many] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
-       *[other] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
-    }
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
@@ -151,25 +120,10 @@ lockwise-how-it-works-link = Sut mae'n gweithio
 turn-on-sync = Cychwyn { -sync-brand-short-name }…
     .title = Mynd i ddewisiadau cydweddu
 
-manage-connected-devices = Rheoli dyfeisiau…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [zero] Wedi'i gysylltu i { $count } dyfais
-        [one] Wedi'i gysylltu i { $count } dyfais
-        [two] Wedi'i gysylltu i { $count } ddyfais
-        [few] Wedi'i gysylltu i { $count } dyfais
-        [many] Wedi'i gysylltu i { $count } dyfais
-       *[other] Wedi'i gysylltu i { $count } dyfais
-    }
-
 monitor-title = Cadw llygad allan am dor-data.
 monitor-link = Sut mae'n gweithio
 monitor-header-content-no-account = Edrychwch ar { -monitor-brand-name } i weld a ydych chi wedi bod yn rhan o dor-data a chael rhybuddion am dor-data newydd.
 monitor-header-content-signed-in = Mae { -monitor-brand-name } yn eich rhybuddio os yw'ch manylion wedi ymddangos mewn tor-data hysbys
-monitor-sign-up = Cofrestrwch am Rybuddion Tor-data
 monitor-sign-up-link = Cofrestrwch ar gyfer Rhybuddion Tor-data
     .title = Cofrestrwch am rybuddion tor-data ar { -monitor-brand-name }
 auto-scan = Wedi'u sganio'n awtomatig heddiw
@@ -231,21 +185,6 @@ info-exposed-passwords-found =
         [few] Cyfrinair wedi'u hamlygu ym mhob tor-data
         [many] Chyfrinair wedi'u hamlygu ym mhob tor-data
        *[other] Cyfrinair wedi'u hamlygu ym mhob tor-data
-    }
-
-full-report-link = Mae'r adroddiad llawn yn <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [zero] Mewngofnodion wedi'u cadw wedi'u hamlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
-        [one] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrinair hwn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
-        [two] Fewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
-        [few] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
-        [many] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
-       *[other] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
     }
 
 # This string is displayed after a large numeral that indicates the total number
