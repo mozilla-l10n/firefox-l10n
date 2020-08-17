@@ -496,17 +496,6 @@
 <!ENTITY errorConsoleCmd.label "Consola d'errores">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Tableru de pruebes">
-<!ENTITY scratchpadCmd.accesskey "T">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Recibir mensaxes">
@@ -560,7 +549,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Reunviar el mensaxe esbilláu como un axuntu">
 <!ENTITY fileButton.tooltip "Archivar mensaxe esbilláu">
 <!ENTITY archiveButton.tooltip "Archivar mensaxes esbillaos">
-<!ENTITY openConversationButton.tooltip "Amosar conversación del mensaxe esbilláu">
 <!ENTITY nextButton.tooltip "Dir al siguiente mensaxe non lleíu">
 <!ENTITY nextMsgButton.tooltip "Movese al mensaxe siguiente">
 <!ENTITY previousButton.tooltip "Dir al anterior mensaxe non lleíu">

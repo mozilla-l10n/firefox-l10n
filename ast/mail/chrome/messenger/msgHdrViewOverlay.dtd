@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar esti mensaxe">
-<!ENTITY hdrOpenConversationButton1.label "Conversación">
-<!ENTITY hdrOpenConversationButton1.tooltip "Amosar conversación d'esti mensaxe">
 <!ENTITY hdrSmartReplyButton1.label "Responder a interesaos">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Responder al remitente d'esti mensaxe">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder a la llista de corréu">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Espublizar una rempuesta a la conversación nesti grupu de noticies">
-<!ENTITY hdrMenuForwardButton.label "Reunviar como">
 <!ENTITY hdrForwardButton1.label "Reunviar">
 <!ENTITY hdrForwardButton1.tooltip "Reunviar esti mensaxe">
 <!ENTITY hdrJunkButton1.label "Puxarra">

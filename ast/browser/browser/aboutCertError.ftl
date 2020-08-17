@@ -57,7 +57,6 @@ proxyResolveFailure-title = Nun pue alcontrase'l sirvidor proxy
 redirectLoop-title = La páxina nun ta redirixendo de mou afayadizu
 unknownSocketType-title = Rempuesta inesperada del sirvidor
 nssFailure2-title = Falló la conexón segura
-cspBlocked-title = Bloquiáu pola política de seguranza de conteníu
 corruptedContentError-title = Fallu de conteníu toyíu
 remoteXUL-title = XUL Remotu
 sslv3Used-title = Nun pue coneutase de mou seguru

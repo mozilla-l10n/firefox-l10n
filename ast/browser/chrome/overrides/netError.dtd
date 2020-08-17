@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Nun pue coneutase">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Esta direición ta restrinxida">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Nun s'alcontró'l sirvidor">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Eh… Tenemos problemes p'alcontrar el sitiu.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Si la direición ye correuta, equí tienes tres coses que pues probar:</strong>
 <ul>
@@ -34,8 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Comprueba les mayúscules u otros fallos d'escritura nel nome'l ficheru.</li>
@@ -43,15 +35,11 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Ñegose l'accesu al ficheru">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitando l'accesu.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Ups.">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; nun pue cargar esta páxina por daqué razón.</p>
@@ -65,18 +53,10 @@
 <!ENTITY openPortalLoginPage.label2 "Abrir páxina d'aniciu de sesión">
 
 <!ENTITY malformedURI.pageTitle "URL non válida">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Umm... La direición nun paez correuta.">
-
-<!ENTITY netInterrupt.title "Interrumpióse la conexón">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Documentu caducáu">
-
 <!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Como midida de seguranza, &brandShortName; nun vuelve a solicitar documentos sensibles.</li><li>Primi «Tentar de nueves» pa volver a solicitar el documentu del sitiu web.</li></ul>">
-
-<!ENTITY netOffline.title "Mou ensin conexón">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -84,15 +64,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Triba de ficheru insegura">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -100,23 +76,15 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Reanicióse la conexón">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Escosó'l tiempu de conexón">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Quiciabes precises instalar otru software p'abrir esta direicón.</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando les conexones">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -125,8 +93,6 @@
     ta funcionando.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Nun pue alcontrase'l sirvidor proxy">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -137,16 +103,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "La páxina nun ta redirixendo de mou afayadizu">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>A vegaes esti problema pue tar causáu por deshabilitar o refugar
     l'aceutación de cookies.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Rempuesta inesperada del sirvidor">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -156,8 +118,6 @@
     nel sirvidor.</li>
 </ul>
 ">
-
-<!ENTITY nssFailure2.title "Falló la conexón segura">
 
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
@@ -185,12 +145,8 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
 
-
-<!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li></ul>">
 
@@ -198,19 +154,13 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Informa de fallos como esti p'ayudar a Mozilla a identificar y bloquiar sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Deprendi más…">
 
-<!ENTITY remoteXUL.title "XUL Remotu">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Nun pue coneutase de mou seguru">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
-
-<!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -70,11 +70,6 @@ permissions-invalid-uri-label = Por favor, introduz un nome de host válidu
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Esceiciones - Bloquéu de conteníu
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Desactivaste'l bloquéu de conteníu nestos sitios web.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Pues especificar dende qué sitios web ta permitío instalar complementos. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Esceiciones - Reproducción automática
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Pues especificar qué sitios web puen reproducir automáticamente conteníu multimedia con soníu.  Escribi la direición exauta del sitiu que quies xestionar y fai clic en Bloquiar o Permitir.
 
 ## Site Permissions - Autoplay
 

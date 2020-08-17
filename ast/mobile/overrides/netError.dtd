@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Como una precaución de seguranza, &brandShortName; nun auto-solicitará de nueves documentos sensibles.</li><li>Primi Tentalo de nueves pa re-solicitar el documentu dende'l sitiu web.</li></ul>">
 
 <!ENTITY netOffline.title "Mou fuera de llinia">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Téntalo de nueves. &brandShortName; va tentar d'abrir una conexón y recargar la páxina.
-    <button id='wifi'>Habilitar Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "<ul>

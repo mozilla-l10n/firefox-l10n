@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "mensaxes">
 <!ENTITY alwaysAuthenticate.label "Siempre solicitar identificación cuando se coneute con esti sirvidor">
 <!ENTITY alwaysAuthenticate.accesskey "p">
-<!ENTITY newsrcFilePath.label "ficheru newsrc:">
-<!ENTITY newsrcPicker.label "Esbilla ficheru newsrc">
 <!ENTITY abbreviate.label "Amosar los nomes de los grupos de noticies na carpeta de corréu como:">
 <!ENTITY abbreviateOn.label "Nomes completos (Por exemplu, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomes curtios (Por exemplu,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzaes…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codificación de testu por defeutu:">
-<!ENTITY localPath.label "Direutoriu llocal:">
 <!ENTITY localFolderPicker.label "Esbilla direutoriu llocal">
 <!ENTITY browseFolder.label "Desaminar…">
 <!ENTITY browseFolder.accesskey "s">

@@ -21,6 +21,9 @@ change-password-reenter = Contraseña nueva (de nueves):
 reset-password-window =
     .title = Reafitar contraseña maestra
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Reafitar
 reset-password-text = Si reafites la contraseña maestra, van escaecese tolos datos de contraseñes, formularios y certificaos personales. ¿De xuru que quies reafitar la contraseña maestra?
