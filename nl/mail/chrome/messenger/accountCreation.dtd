@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Een bestaande e-mailaccount instellen">
-
 <!ENTITY emailWizard.title               "Uw bestaande e-mailadres instellen">
 <!ENTITY emailWizard.caption             "Uw bestaande e-mailadres gebruiken">
 <!ENTITY name.label                      "Uw naam:">
 <!ENTITY name.accesskey                  "U">
-<!ENTITY name.placeholder                "Voornaam Achternaam">
 <!ENTITY fullname.placeholder            "Uw volledige naam">
 <!ENTITY name.text                       "Uw naam, zoals getoond aan anderen">
 <!ENTITY name.error                      "Voer uw naam in">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "E">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "email@example.com">
 <!ENTITY email3.placeholder              "Uw e-mailadres">
 <!ENTITY email.text                      "Uw bestaande e-mailadres">
 <!ENTITY email.error                     "Ongeldig e-mailadres">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Uitgaand:">
 <!ENTITY outgoingColumn.label            "Uitgaand">
 <!ENTITY username.label                  "Gebruikersnaam:">
-<!ENTITY hostname.label                  "Serverhostnaam">
-<!ENTITY port.label                      "Poort">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Poort:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Opnieuw testen">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Handmatige configuratie">
-<!ENTITY manual-edit.accesskey           "H">
 <!ENTITY manual-config.label             "Handmatig configureren…">
 <!ENTITY manual-config.accesskey         "c">
 <!ENTITY open-provisioner.label          "Een nieuw e-mailadres verkrijgen…">

@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "s">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Plakken zonder opmaak">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Plakken als">
-<!ENTITY pasteAs.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "t">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Zoeken…">
-<!ENTITY findReplaceCmd.label "Zoeken en vervangen…">
-<!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens het typen">
-<!ENTITY enableInlineSpellChecker.accesskey "d">
-<!ENTITY checkSpellingCmd2.label "Spelling controleren…">
-<!ENTITY checkSpellingCmd2.accesskey "S">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Invoegen">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tekst">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Geavanceerde eigenschappen">
-<!ENTITY advancedPropertiesCmd.accesskey "c">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Uitlijnen">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Uitvullen">
 <!ENTITY alignJustify.accesskey "U">
 <!ENTITY alignJustify.tooltip "Uitvullen">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Laag">
-<!ENTITY layerSendToBack.tooltip "Naar achteren sturen">
-<!ENTITY layerBringToFront.tooltip "Naar voren brengen">
 
 <!ENTITY increaseIndent.label "Inspringing vergroten">
 <!ENTITY increaseIndent.accesskey "n">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Tabeleigenschappen…">
 <!ENTITY tableProperties.accesskey "e">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menubalk">
-<!ENTITY formatToolbar.tooltip "Opmaakwerkbalk">
-<!ENTITY cutToolbarCmd.tooltip "Knippen">
-<!ENTITY copyToolbarCmd.tooltip "Kopiëren">
-<!ENTITY pasteToolbarCmd.tooltip "Plakken">
-<!ENTITY printToolbarCmd.label "Afdrukken">
-<!ENTITY printToolbarCmd.tooltip "Deze pagina afdrukken">
-<!ENTITY findToolbarCmd.label "Zoeken">
-<!ENTITY findToolbarCmd.tooltip "Tekst zoeken op pagina">
-<!ENTITY spellToolbarCmd.label "Spelling">
-<!ENTITY spellToolbarCmd.tooltip "Spelling van selectie of hele pagina controleren">
-
 <!ENTITY imageToolbarCmd.label "Afbeelding">
 <!ENTITY imageToolbarCmd.tooltip "Nieuwe afbeelding invoegen of eigenschappen van geselecteerde afbeelding bewerken">
 <!ENTITY hruleToolbarCmd.label "H.lijn">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nieuw benoemd anker invoegen of eigenschappen van geselecteerde anker bewerken">
 <!ENTITY TextColorButton.tooltip "Kleur voor tekst kiezen">
 <!ENTITY BackgroundColorButton.tooltip "Kleur voor achtergrond kiezen">
-<!ENTITY throbber.tooltip2 "Naar de &brandShortName;-startpagina gaan">
-<!ENTITY HighlightColorButton.tooltip "Markeringskleur voor tekst kiezen">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Lettergrootte instellen">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Tekst gecentreerd uitlijnen">
 <!ENTITY alignRightButton.tooltip "Tekst uitlijnen langs de rechtermarge">
 <!ENTITY alignJustifyButton.tooltip "Tekst uitlijnen langs de linker- en rechtermarges">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Selecteren">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Tag verwijderen">
-<!ENTITY structRemoveTag.accesskey  "v">
-<!ENTITY structChangeTag.label      "Tag wijzigen">
-<!ENTITY structChangeTag.accesskey  "w">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Invoegen">

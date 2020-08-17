@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privénavigatie)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privénavigatie)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privénavigatie)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privénavigatie)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = U hebt MIDI-toegang voor deze website geblokkeerd.
 urlbar-install-blocked =
     .tooltiptext = U hebt installatie van add-ons voor deze website geblokkeerd.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Deze bladwijzer bewerken ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,12 +180,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Deze keer zoeken met:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Zoekinstellingen wijzigen
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Zoekinstellingen wijzigen
+
 search-one-offs-context-open-new-tab =
     .label = Zoeken in Nieuw tabblad
     .accesskey = t
@@ -191,6 +197,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Als standaardzoekmachine voor privévensters instellen
     .accesskey = p
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -217,8 +224,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Editor tonen bij opslaan
     .accesskey = E
+
 bookmark-panel-done-button =
     .label = Gereed
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -292,12 +301,15 @@ popup-select-microphone =
     .value = Te delen microfoon:
     .accesskey = M
 popup-all-windows-shared = Alle zichtbare vensters op uw scherm worden gedeeld.
+
 popup-screen-sharing-not-now =
     .label = Niet nu
     .accesskey = i
+
 popup-screen-sharing-never =
     .label = Nooit toestaan
     .accesskey = N
+
 popup-silence-notifications-checkbox = Notificaties van { -brand-short-name } uitschakelen tijdens delen
 popup-silence-notifications-checkbox-warning = { -brand-short-name } toont geen meldingen terwijl u deelt.
 
@@ -314,23 +326,17 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Open eerst DevTools in het menu Webontwikkelaar om de sneltoets F12 te gebruiken.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Voer zoekterm of adres in
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Voer zoekterm of adres in
-# This placeholder is used in search mode with search engines that search the
-# entire web.
-urlbar-placeholder-search-mode-web =
-    .placeholder = Zoeken op het web
-# This placeholder is used in search mode with search engines that search a
-# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
-# tabs).
-urlbar-placeholder-search-mode-other =
-    .placeholder = Voer zoektermen in
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -341,9 +347,11 @@ urlbar-permissions-granted =
     .tooltiptext = U hebt deze website aanvullende toestemmingen gegeven.
 urlbar-switch-to-tab =
     .value = Wisselen naar tabblad:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
+
 urlbar-go-button =
     .tooltiptext = Naar het adres in de locatiebalk gaan
 urlbar-page-action-button =

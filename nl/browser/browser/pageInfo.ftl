@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Opslaan als…
     .accesskey = p
-media-preview =
-    .value = Mediavoorbeeld:
 
 perm-tab =
     .label = Toestemmingen
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nee
 
 image-size-unknown = Onbekend
-not-set-verified-by = Niet gespecificeerd
 page-info-not-specified =
     .value = Niet gespecificeerd
 not-set-alternative-text = Niet gespecificeerd
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirksmodus
 general-strict-mode =
     .value = Standaardenmodus
-security-no-owner = Deze website verstrekt geen eigendomsinformatie.
 page-info-security-no-owner =
     .value = Deze website verstrekt geen eigendomsinformatie.
 media-select-folder = Selecteer een map voor het opslaan van de afbeeldingen

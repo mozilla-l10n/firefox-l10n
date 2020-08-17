@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Voer een geldige hostnaam in
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Uitzonderingen - Inhoudsblokkering
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = U hebt inhoudsblokkering uitgeschakeld op deze websites.
-
 permissions-exceptions-etp-window =
     .title = Uitzonderingen voor Verbeterde bescherming tegen volgen
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = U kunt opgeven welke websites toestemming hebben om add-ons te installeren. Typ het exacte adres van de website die u toestemming wilt geven en klik vervolgens op Toestaan.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Uitzonderingen - Automatisch afspelen
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = U kunt opgeven welke websites altijd of nooit toestemming hebben om automatisch media met geluid af te spelen. Typ het adres van de website die u wilt beheren en klik vervolgens op Blokkeren of Toestaan.
 
 ## Site Permissions - Autoplay
 

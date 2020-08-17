@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Gesynchroniseerde tabbladen
 synced-tabs-sidebar-noclients-subtitle = Wilt u hier uw tabbladen van andere apparaten zien?
-synced-tabs-sidebar-notsignedin = Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.
 synced-tabs-sidebar-intro = Bekijk een lijst met tabbladen van uw overige apparaten.
 synced-tabs-sidebar-unverified = Uw account moet worden geverifieerd.
 synced-tabs-sidebar-notabs = Geen open tabbladen
