@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Prilepiť bez formátovania">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Prilepiť ako">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Prilepiť ako citáciu">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Hľadať…">
-<!ENTITY findReplaceCmd.label "Hľadať a nahradiť…">
-<!ENTITY enableInlineSpellChecker.label "Kontrolovať pravopis počas písania">
-<!ENTITY enableInlineSpellChecker.accesskey "K">
-<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
-<!ENTITY checkSpellingCmd2.accesskey "p">
-<!ENTITY checkSpellingCmd2.key "P">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vložiť">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text tela">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Pokročilé vlastnosti…">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Zarovnanie">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Obojstranne">
 <!ENTITY alignJustify.accesskey "b">
 <!ENTITY alignJustify.tooltip "Zarovnať obojstranne">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Vrstva">
-<!ENTITY layerSendToBack.tooltip "Preniesť dozadu">
-<!ENTITY layerBringToFront.tooltip "Preniesť dopredu">
 
 <!ENTITY increaseIndent.label "Zväčšiť zarážku">
 <!ENTITY increaseIndent.accesskey "v">
@@ -283,19 +262,6 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Panel Ponuka">
-<!ENTITY formatToolbar.tooltip "Panel Formátovanie">
-<!ENTITY cutToolbarCmd.tooltip "Vystrihnúť">
-<!ENTITY copyToolbarCmd.tooltip "Kopírovať">
-<!ENTITY pasteToolbarCmd.tooltip "Prilepiť">
-<!ENTITY printToolbarCmd.label "Tlačiť">
-<!ENTITY printToolbarCmd.tooltip "Tlačiť stránku">
-<!ENTITY findToolbarCmd.label "Hľadať">
-<!ENTITY findToolbarCmd.tooltip "Hľadať text na stránke">
-<!ENTITY spellToolbarCmd.label "Pravopis">
-<!ENTITY spellToolbarCmd.tooltip "Kontrola pravopisu označenej časti alebo celej stránky">
-
-<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Obrázok">
 <!ENTITY imageToolbarCmd.tooltip "Upraviť vlastnosti označeného obrázka alebo vložiť nový">
 <!ENTITY hruleToolbarCmd.label "Čiara">
@@ -308,8 +274,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Upraviť vybranú kotvu alebo vložiť novú">
 <!ENTITY TextColorButton.tooltip "Vyberte farbu pre text">
 <!ENTITY BackgroundColorButton.tooltip "Vyberte farbu pozadia">
-<!ENTITY throbber.tooltip2 "Prejsť na domovskú stránku aplikácie &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Vyberte farbu pre označený text">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastaviť veľkosť písma">
@@ -328,14 +292,6 @@
 <!ENTITY alignCenterButton.tooltip "Zarovnať text na stred">
 <!ENTITY alignRightButton.tooltip "Zarovnať text podľa pravého okraja">
 <!ENTITY alignJustifyButton.tooltip "Zarovnať text podľa pravého a ľavého okraja">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Vybrať">
-<!ENTITY structSelect.accesskey     "V">
-<!ENTITY structRemoveTag.label      "Odstrániť značku">
-<!ENTITY structRemoveTag.accesskey  "O">
-<!ENTITY structChangeTag.label      "Zmeniť značku">
-<!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Vložiť">

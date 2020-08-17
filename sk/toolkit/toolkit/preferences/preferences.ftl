@@ -4,26 +4,34 @@
 
 password-not-set =
     .value = (nezadané)
+
 failed-pw-change = Nebolo možné zmeniť hlavné heslo.
 incorrect-pw = Aktuálne hlavné heslo nebolo zadané správne. Skúste to znova.
 pw-change-ok = Hlavné heslo bolo úspešne zmenené.
+
 pw-empty-warning = Uložené heslá pre webové stránky, e-mail, údaje formulárov a súkromné kľúče nebudú chránené.
 pw-erased-ok = Upozornenie! Odstránili ste svoje hlavné heslo. { pw-empty-warning }
 pw-not-wanted = Upozornenie! Rozhodli ste sa nepoužívať hlavné heslo. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Momentálne sa používa režim FIPS. Režim FIPS vyžaduje nastavenie hlavného hesla.
+
 failed-pp-change = Nebolo možné zmeniť hlavné heslo.
 incorrect-pp = Aktuálne hlavné heslo nebolo zadané správne. Skúste to znova.
 pp-change-ok = Hlavné heslo bolo úspešne zmenené.
+
 pp-empty-warning = Uložené heslá a súkromné kľúče nebudú chránené.
 pp-erased-ok = Upozornenie! Odstránili ste svoje hlavné heslo. { pp-empty-warning }
 pp-not-wanted = Upozornenie! Rozhodli ste sa nepoužívať hlavné heslo. { pp-empty-warning }
+
 pp-change2empty-in-fips-mode = Momentálne sa používa režim FIPS. Režim FIPS vyžaduje nastavenie hlavného hesla.
 pw-change-success-title = Zmena hesla bola úspešná.
 pw-change-failed-title = Zmena hesla zlyhala
 pw-remove-button =
     .label = Odstrániť
+
 set-password =
     .title = Zmena hlavného hesla
+
 primary-password-dialog =
     .title = Hlavné heslo
 set-password-old-password = Aktuálne heslo:
@@ -34,11 +42,13 @@ set-password-meter-loading = Načítava sa
 master-password-admin = Správca vášho systému vyžaduje pred ukladaním hesiel nastavenie hlavného hesla.
 master-password-description = Hlavné heslo slúži na ochranu citlivých údajov, napríklad hesiel zadávaných na stránkach. Po vytvorení hlavného hesla sa v každej relácii pri prvom pokuse programu { -brand-short-name } o získanie uložených údajov chránených heslom zobrazí výzva na jeho zadanie.
 master-password-warning = Zapamätajte si hlavné heslo, ktoré ste nastavili. Ak hlavné heslo zabudnete, nebude prístup k údajom chráneným heslom možný.
+
 remove-password =
     .title = Odstrániť hlavné heslo
 primary-password-admin = Správca vášho systému vyžaduje pred ukladaním hesiel nastavenie hlavného hesla.
 primary-password-description = Hlavné heslo slúži na ochranu citlivých údajov, napríklad hesiel zadávaných na stránkach. Po vytvorení hlavného hesla sa v každej relácii pri prvom pokuse programu { -brand-short-name } o získanie uložených údajov chránených heslom zobrazí výzva na jeho zadanie.
 primary-password-warning = Zapamätajte si hlavné heslo, ktoré ste nastavili. Ak hlavné heslo zabudnete, nebude prístup k údajom chráneným heslom možný.
+
 remove-primary-password =
     .title = Odstrániť hlavné heslo
 remove-info =

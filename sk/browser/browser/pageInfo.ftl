@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Uložiť ako…
     .accesskey = a
-media-preview =
-    .value = Ukážka:
 
 perm-tab =
     .label = Povolenia
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Áno, cookies
 security-site-data-no = Nie
 
 image-size-unknown = Neznáme
-not-set-verified-by = Nie je zadané
 page-info-not-specified =
     .value = Nie je zadané
 not-set-alternative-text = Nie je zadané
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Režim ako staršie prehliadače (Quirks)
 general-strict-mode =
     .value = Kompatibilný so štandardami
-security-no-owner = Táto stránka neposkytuje informácie o majiteľovi.
 page-info-security-no-owner =
     .value = Táto stránka neposkytuje informácie o majiteľovi.
 media-select-folder = Vyberte priečinok na uloženie obrázkov

@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Názov a umiestnenie zdroja vzorkovanej funkcie">
 <!ENTITY performanceUI.table.totalAlloc               "Celkové zozbierané vyhradenia">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Celkový počet vyhradení objektu zozbieraných v tejto lokácii a vo volaniach">
-<!ENTITY performanceUI.table.selfAlloc                "Zozbierané vlastné vyhradenia">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Počet vyhradení objektu zozbieraných v tejto lokácii">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

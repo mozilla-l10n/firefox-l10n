@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Zašifrovať túto správu">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Nešifrovať">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "N">
 

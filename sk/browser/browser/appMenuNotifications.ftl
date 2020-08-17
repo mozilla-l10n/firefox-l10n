@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Spravujte svoje doplnky kliknutím na <imag
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povoliť toto rozšírenie v súkromných oknách
     .accesskey = P
-appmenu-addon-private-browsing =
-    .label = Zmena fungovania rozšírení v súkromných oknách
-    .buttonlabel = Správa rozšírení
-    .buttonaccesskey = r
-    .secondarybuttonlabel = Ok, rozumiem
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Novo nainštalované rozšírenia budú v súkromných oknách aplikácie { -brand-shorter-name } vypnuté, až dokým ich nezapnete v možnostiach.
-appmenu-addon-private-browsing-learn-more = Ako spravovať rozšírenia.
     
 appmenu-new-tab-controlled =
     .label = Vaša stránka novej karty bola zmenená.

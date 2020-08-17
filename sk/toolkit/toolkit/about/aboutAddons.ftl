@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Načítava sa…
-
 list-empty-installed =
     .value = Nemáte nainštalované žiadne doplnky tohto typu
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Ďalšie informácie o doplnkoch
 
-install-addon-from-file =
-    .label = Nainštalovať doplnok zo súboru…
-    .accesskey = N
-
 help-button = Podpora doplnkov
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] Možnosti aplikácie
        *[other] Možnosti aplikácie
     }
-
-tools-menu =
-    .tooltiptext = Nástroje pre všetky doplnky
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Zobraziť všetky rozšírenia
-
-debug-addons =
-    .label = Ladiť doplnky
-    .accesskey = L
 
 cmd-show-details =
     .label = Zobraziť ďalšie informácie
@@ -104,17 +90,6 @@ cmd-contribute =
     .accesskey = r
     .tooltiptext = Prispieť na vývoj tohto doplnku
 
-discover-title = Čo sú doplnky?
-
-discover-description =
-    Doplnky sú malé aplikácie, ktoré umožňujú prispôsobiť si { -brand-short-name } pomocou
-    nových funkcií alebo štýlov. Vyskúšajte bočný panel prinášajúci úsporu času, upozorňovanie na predpoveď počasia alebo nový vzhľad, ktorý urobí váš { -brand-short-name }
-    jedinečným.
-
-discover-footer =
-    Ak je prehliadač pripojený k internetu, na tomto paneli
-    sa zobrazujú najzaujímavejšie a najpopulárnejšie doplnky, ktoré stoja za vyskúšanie.
-
 detail-version =
     .label = Verzia
 
@@ -145,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Povoliť v súkromných oknách
 
-detail-private-browsing-description2 = Tu môžete tomuto rozšíreniu povoliť prístup k vašej aktivite na internete v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Toto rozšírenie sa nespúšťa v súkromných oknách
-detail-private-disallowed-description = Tvorca rozšírenia zakázal jeho spúšťanie v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
 
 detail-private-disallowed-description2 = Tvorca rozšírenia zakázal jeho spúšťanie v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Vyžaduje prístup k súkromným oknám
-detail-private-required-description = Toto rozšírenie má prístup k vašim aktivitám v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
 
 detail-private-required-description2 = Toto rozšírenie má prístup k vašim aktivitám v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 
@@ -233,18 +204,6 @@ private-browsing-description2 =
     Týmto krokom sa snažíme zvýšiť vaše súkromie.
     <label data-l10n-name="private-browsing-learn-more">Ďalšie informácie o správe rozšírení.</label>
 
-extensions-view-discopane =
-    .name = Odporúčania
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Nedávno aktualizované
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Dostupné aktualizácie
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Odporúčania
 addon-category-discover-title =
     .title = Odporúčania
@@ -272,29 +231,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Všetky doplnky boli zakázané núdzovým režimom.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Kontrola kompatibility doplnkov je vypnutá. Môžete mať nekompatibilné doplnky.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Zapnúť
-    .tooltiptext = Povoliť kontrolu kompatibility doplnkov
-
-extensions-warning-update-security-label =
-    .value = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Zapnúť
-    .tooltiptext = Povoliť kontrolu bezpečnosti aktualizácií doplnkov
-
 extensions-warning-safe-mode = Všetky doplnky boli zakázané núdzovým režimom.
 extensions-warning-check-compatibility = Kontrola kompatibility doplnkov je vypnutá. Môžete mať nekompatibilné doplnky.
 extensions-warning-check-compatibility-button = Zapnúť
@@ -306,14 +242,6 @@ extensions-warning-update-security-button = Zapnúť
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Vyhľadať aktualizácie
-    .accesskey = V
-
-extensions-updates-view-updates =
-    .label = Zobraziť nedávno aktualizované
-    .accesskey = Z
-
 addon-updates-check-for-updates = Vyhľadať aktualizácie
     .accesskey = V
 addon-updates-view-updates = Zobraziť nedávno aktualizované
@@ -321,10 +249,6 @@ addon-updates-view-updates = Zobraziť nedávno aktualizované
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Automaticky aktualizovať doplnky
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Automaticky aktualizovať doplnky
     .accesskey = A
@@ -335,36 +259,12 @@ addon-updates-update-addons-automatically = Automaticky aktualizovať doplnky
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Nastaviť všetky doplnky na automatické aktualizovanie
-    .accesskey = s
-
-extensions-updates-reset-updates-to-manual =
-    .label = Nastaviť všetky doplnky na manuálne aktualizovanie
-    .accesskey = s
-
 addon-updates-reset-updates-to-automatic = Nastaviť všetky doplnky na automatické aktualizovanie
     .accesskey = s
 addon-updates-reset-updates-to-manual = Nastaviť všetky doplnky na manuálne aktualizovanie
     .accesskey = s
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Aktualizujú sa doplnky
-extensions-updates-installed =
-    .value = Vaše doplnky boli aktualizované.
-extensions-updates-downloaded =
-    .value = Aktualizácie pre vaše doplnky boli prevzaté.
-extensions-updates-restart =
-    .label = Zmeny sa prejavia až po reštartovaní
-extensions-updates-none-found =
-    .value = Neboli nájdené žiadne aktualizácie
-extensions-updates-manual-updates-found =
-    .label = Zobraziť dostupné aktualizácie
-extensions-updates-update-selected =
-    .label = Nainštalovať aktualizácie
-    .tooltiptext = Nainštalovať aktualizácie dostupné v zozname
 
 addon-updates-updating = Aktualizujú sa doplnky
 addon-updates-installed = Vaše doplnky boli aktualizované.
@@ -382,10 +282,6 @@ addon-open-about-debugging = Ladiť doplnky
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Spravovať klávesové skratky pre rozšírenia
-    .accesskey = n
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Spravovať klávesové skratky pre rozšírenia
     .accesskey = n
@@ -394,8 +290,6 @@ shortcuts-no-addons = Nemáte povolené žiadne rozšírenie.
 shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
 shortcuts-input =
     .placeholder = Zadajte klávesovú skratku
-
-shortcuts-browserAction = Aktivovať rozšírenie
 
 shortcuts-browserAction2 = Pridať tlačidlo na panel nástrojov
 shortcuts-pageAction = Aktivovať akciu stránky
@@ -428,9 +322,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Zobraziť menej
-
-go-back-button =
-    .tooltiptext = Späť
 
 header-back-button =
     .title = Späť
@@ -482,7 +373,6 @@ remove-addon-button = Odstrániť
 remove-addon-disabled-button = Nie je možné odstrániť. <a data-l10n-name="link">Prečo?</a>
 disable-addon-button = Zakázať
 enable-addon-button = Povoliť
-expand-addon-button = Ďalšie možnosti
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -495,9 +385,6 @@ preferences-addon-button =
 details-addon-button = Podrobnosti
 release-notes-addon-button = Poznámky k vydaniu
 permissions-addon-button = Povolenia
-
-addons-enabled-heading = Povolené
-addons-disabled-heading = Zakázané
 
 extension-enabled-heading = Povolené rozšírenia
 extension-disabled-heading = Zakázané rozšírenia
@@ -561,23 +448,12 @@ install-update-button = Aktualizovať
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Povolené v súkromných oknách
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Povolené v súkromných oknách
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Povolené rozšírenia majú prístup k vašim aktivitám na internete v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 addon-detail-private-browsing-allow = Povoliť
 addon-detail-private-browsing-disallow = Nepovoliť
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Odporúčané rozšírenie
-    .alt = Odporúčané rozšírenie
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

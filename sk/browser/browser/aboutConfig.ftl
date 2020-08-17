@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Tu sú draci!
-about-config-warning-text = Zmena týchto pokročilých nastavení môže nepriaznivo ovplyvniť stabilitu, bezpečnosť a výkon tejto aplikácie. Pokračovať by ste mali len v prípade, že viete, čo robíte.
-about-config-warning-checkbox = Upozorniť ma aj nabudúce
-about-config-warning-button = Rozumiem riziku
-
-about-config2-title = Pokročilé nastavenia
-
-about-config-search-input =
-    .placeholder = Hľadať
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Buďte obozretní
@@ -32,13 +21,6 @@ about-config-page-title = Rozšírené možnosti
 about-config-search-input1 =
     .placeholder = Hľadať
 about-config-show-all = Zobraziť všetko
-
-about-config-pref-add = Pridať
-about-config-pref-toggle = Prepnúť
-about-config-pref-edit = Upraviť
-about-config-pref-save = Uložiť
-about-config-pref-reset = Obnoviť
-about-config-pref-delete = Odstrániť
 
 about-config-pref-add-button =
     .title = Pridať

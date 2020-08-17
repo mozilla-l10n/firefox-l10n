@@ -12,5 +12,10 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">Importujte svoje prihlasovacie údaje pre { $host } a ďalšie stránky</div>
     <div data-l10n-name="line2">z prehliadača { $browser }</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Ďalšie informácie

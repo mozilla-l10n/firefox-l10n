@@ -103,9 +103,6 @@ about-debugging-setup-title = Nastavenie
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Nastavte si spôsob, pomocou ktorého chcete ladiť svoje zariadenie.
 
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = Použite <a>{ about-debugging-this-firefox-runtime-name }</a> na ladenie kariet, rozšírení a service workers v tejto verzii { -brand-shorter-name }.
-
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Pripojenie zariadenia
 
@@ -265,15 +262,6 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID rozšírenia
-
-# This string is displayed as a label of the button that pushes a test payload
-# to a service worker.
-# Notes, this relates to the "Push" API, which is normally not localized so it is
-# probably better to not localize it.
-about-debugging-worker-action-push = Push
-
-# This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = Spustiť
 
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Odregistrovať

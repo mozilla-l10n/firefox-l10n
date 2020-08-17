@@ -7,6 +7,7 @@ page-subtitle =
     Táto stránka obsahuje technické informácie, ktoré môžu byť užitočné pri riešení
     problémov s touto aplikáciou. Ak hľadáte odpovede na bežné otázky
     o programe { -brand-short-name }, navštívte <a data-l10n-name="support-link">stránku podpory</a>.
+
 crashes-title = Správy o zlyhaní
 crashes-id = Identifikátor správy
 crashes-send-date = Dátum odoslania
@@ -107,8 +108,6 @@ graphics-desktop-environment = Desktopové prostredie
 place-database-title = Databáza umiestnení
 place-database-integrity = Integrita
 place-database-verify-integrity = Skontrolovať integritu
-js-title = JavaScript
-js-incremental-gc = Inkrementálne GC
 a11y-title = Zjednodušenie ovládania
 a11y-activated = Aktivované
 a11y-force-disabled = Zabrániť zapnutiu funkcie Zjednodušenie ovládania
@@ -128,13 +127,13 @@ sandbox-sys-call-number = Systémové volanie
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyskúšajte núdzový režim
 restart-in-safe-mode-label = Reštartovať a zakázať doplnky…
+
 restart-button-label = Reštartovať
 
 ## Media titles
 
 audio-backend = Audio Backend
 max-audio-channels = Maximálny počet kanálov
-channel-layout = Preferované nastavenie kanála
 sample-rate = Preferovaný Sample Rate
 media-title = Médium
 media-output-devices-title = Výstupné zariadenia
@@ -187,6 +186,7 @@ report-crash-for-days =
         [few] Správy o zlyhaní za posledné { $days } dni
        *[other] Správy o zlyhaní za posledných { $days } dní
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -195,6 +195,7 @@ crashes-time-minutes =
         [few] pred { $minutes } minútami
        *[other] pred { $minutes } minútami
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -203,6 +204,7 @@ crashes-time-hours =
         [few] pred { $hours } hodinami
        *[other] pred { $hours } hodinami
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -211,6 +213,7 @@ crashes-time-days =
         [few] pred { $days } dňami
        *[other] pred { $days } dňami
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -219,6 +222,7 @@ pending-reports =
         [few] Všetky správy o zlyhaní (vrátane { $reports } čakajúcich správ za dané obdobie)
        *[other] Všetky správy o zlyhaní (vrátane { $reports } čakajúcich správ za dané obdobie)
     }
+
 raw-data-copied = Údaje boli skopírované do schránky
 text-copied = Text bol skopírovaný do schránky
 
@@ -231,9 +235,11 @@ blocked-mismatched-version = Blokované kvôli nesúladu verzie ovládača grafi
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokované kvôli verzii ovládača grafickej karty. Skúste ovládač aktualizovať na verziu { $driverVersion } alebo novšiu.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Technológia ClearType
+
 compositing = Skladanie
 hardware-h264 = Hardvérové dekódovanie H264
 main-thread-no-omtc = hlavné vlákno, bez OMTC
@@ -248,6 +254,7 @@ virtual-monitor-disp = Zobrazenie virtuálneho monitoru
 
 found = Nájdený
 missing = Chýba
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Popis
@@ -271,18 +278,21 @@ webgl2-version = Verzia ovládača WebGL 2
 webgl2-driver-extensions = Rozšírenia ovládača WebGL 2
 webgl2-extensions = Rozšírenia WebGL 2
 blocklisted-bug = Zablokované kvôli známej chybe
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokované; chybový kód { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video dekodér
-d3d9video-crash-buard = D3D9 Video dekodér
 d3d9video-crash-guard = D3D9 Video dekodér
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX video dekodér
+
 reset-on-next-restart = Obnoviť pri nasledujúcom reštarte
 gpu-process-kill-button = Ukončiť GPU proces
 gpu-device-reset = Obnova zariadenia
@@ -292,8 +302,10 @@ content-uses-tiling = Používa skladanie (obsah)
 off-main-thread-paint-enabled = Vykresľovanie mimo hlavného vlákna povolené
 off-main-thread-paint-worker-count = Počet vlákien pre vykresľovanie mimo hlavného vlákna
 target-frame-rate = Cieľová obrazová frekvencia
+
 min-lib-versions = Očakávaná minimálna verzia
 loaded-lib-versions = Používaná verzia
+
 has-seccomp-bpf = Seccomp-BPF (filtrovanie systémových volaní)
 has-seccomp-tsync = Synchronizácia vlákien Seccomp
 has-user-namespaces = Priestory názvov používateľa
@@ -306,10 +318,12 @@ sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah súboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 sandbox-proc-type-data-decoder = dekóder údajov
+
 launcher-process-status-0 = Povolený
 launcher-process-status-1 = Zakázaný kvôli chybe
 launcher-process-status-2 = Vynútene zakázaný
 launcher-process-status-unknown = Neznámy stav
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -322,6 +336,7 @@ multi-process-status-6 = Zakázané nepodporovaným textovým vstupom
 multi-process-status-7 = Zakázané doplnkami
 multi-process-status-8 = Vynútene zakázané
 multi-process-status-unknown = Neznámy stav
+
 async-pan-zoom = Asynchrónna lupa/panning
 apz-none = žiadna
 wheel-enabled = vstup kolieskom povolený

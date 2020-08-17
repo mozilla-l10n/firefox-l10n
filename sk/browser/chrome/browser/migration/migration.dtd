@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:">
 <!ENTITY importFromUnix.label           "Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:">
-<!ENTITY importFromBookmarks.label      "Importovať záložky z aplikácie:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

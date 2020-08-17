@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "správ">
 <!ENTITY alwaysAuthenticate.label "Pri pripájaní sa na tento server vždy vyžadovať overenie">
 <!ENTITY alwaysAuthenticate.accesskey "a">
-<!ENTITY newsrcFilePath.label "Súbor newsrc:">
-<!ENTITY newsrcPicker.label "Vyberte súbor newsrc">
 <!ENTITY newsrcFilePath1.label "Súbor News.rc:">
 <!ENTITY abbreviate.label "Zobraziť názvy diskusných skupín ako :">
 <!ENTITY abbreviateOn.label "Úplný názov (napr. 'netscape.public.mozilla.mail-news')">
@@ -75,7 +73,6 @@
 <!ENTITY advancedButton.label "Pokročilé…">
 <!ENTITY advancedButton.accesskey "i">
 <!ENTITY serverDefaultCharset2.label "Štandardné kódovanie textu:">
-<!ENTITY localPath.label "Lokálny priečinok:">
 <!ENTITY localFolderPicker.label "Výber lokálneho priečinka">
 <!ENTITY browseFolder.label "Prehľadávať…">
 <!ENTITY browseFolder.accesskey "h">

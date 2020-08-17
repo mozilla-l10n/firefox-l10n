@@ -60,30 +60,19 @@ abuse-report-messagebar-action-cancel = Zrušiť
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Poškodzuje môj počítač a údaje
-
 abuse-report-damage-reason-v2 = Poškodzuje môj počítač a údaje
 abuse-report-damage-example = Príklad: malvér alebo krádež údajov
 
-abuse-report-spam-reason = Spam alebo reklamy
-
 abuse-report-spam-reason-v2 = Spam alebo reklamy
 abuse-report-spam-example = Príklad: vkladanie reklám do webových stránok
-
-abuse-report-settings-reason = Zmena vyhľadávacieho modulu, domovskej stránky alebo stránky novej karty bez predchádzajúceho upozornenia
 
 abuse-report-settings-reason-v2 = Zmena vyhľadávacieho modulu, domovskej stránky alebo stránky novej karty bez predchádzajúceho upozornenia
 abuse-report-settings-suggestions = Pred nahlásením tohto rozšírenia skúste upraviť svoje nastavenia:
 abuse-report-settings-suggestions-search = Zmena vyhľadávacieho modulu
 abuse-report-settings-suggestions-homepage = Zmena domovskej stránky a stránky novej karty
 
-abuse-report-deceptive-reason = Vydáva sa za niečo iné
-
 abuse-report-deceptive-reason-v2 = Vydáva sa za niečo iné
 abuse-report-deceptive-example = Príklad: zavádzajúci popis alebo náhľady
-
-abuse-report-broken-reason-extension = Nefunguje, rozbíja webové stránky alebo spomaľuje { -brand-product-name }
-abuse-report-broken-reason-theme = Nefunguje alebo rozbíja rozhranie prehliadača
 
 abuse-report-broken-reason-extension-v2 = Nefunguje, rozbíja webové stránky alebo spomaľuje { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nefunguje alebo rozbíja rozhranie prehliadača
@@ -91,12 +80,8 @@ abuse-report-broken-example = Príklad: funkcie sú pomalé, ťažko sa použív
 abuse-report-broken-suggestions-extension = Zdá sa, že ste objavili chybu. Okrem odoslania hlásenia nám v riešení problému pomôže, ak kontaktujete aj autora rozšírenia. <a data-l10n-name="support-link">Navštívte stránky rozšírenia</a>, kde na autora nájdete kontakt.
 abuse-report-broken-suggestions-theme = Zdá sa, že ste objavili chybu. Okrem odoslania hlásenia nám v riešení problému pomôže, ak kontaktujete aj autora témy vzhľadu. <a data-l10n-name="support-link">Navštívte stránky témy vzhľadu</a>, kde na autora nájdete kontakt.
 
-abuse-report-policy-reason = Nenávistný, násilný alebo nelegálny obsah
-
 abuse-report-policy-reason-v2 = Obsahuje nenávistný, násilný alebo nelegálny obsah
 abuse-report-policy-suggestions = Poznámka: problémy s autorskými právami, prosím, hláste podľa <a data-l10n-name="report-infringement-link">tohto návodu</a>.
-
-abuse-report-unwanted-reason = Nevyžiadané rozšírenie, ktoré nejde odstrániť
 
 abuse-report-unwanted-reason-v2 = Nevyžiadané rozšírenie, ktoré neviem odstrániť
 abuse-report-unwanted-example = Príklad: nainštalované cudzou aplikáciou bez môjho vedomia

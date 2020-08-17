@@ -14,5 +14,7 @@ accounts-conn-security = Zabezpečenie pripojenia
 accounts-auth-method = Metóda overenia
 accounts-default = Predvolený?
 identity-name = Identita
+
 send-via-email = Odoslať ako e-mailovú správu
+
 app-basics-telemetry = Údaje telemetrie
