@@ -29,7 +29,7 @@ about-debugging-sidebar-setup =
 about-debugging-sidebar-usb-enabled = USB aktiviran
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
-about-debugging-sidebar-usb-disabled = USB onemogućen
+about-debugging-sidebar-usb-disabled = USB deaktiviran
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Povezan
 # Connection status (disconnected) for runtime items in the sidebar
@@ -92,7 +92,7 @@ about-debugging-setup-usb-title = USB
 about-debugging-setup-usb-disabled = Ako se ovo omogući, preuzeti i dodati će se potrebne Android USB komponente za ispravljanje grešaka u { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
-about-debugging-setup-usb-enable-button = Omogući USB uređaje
+about-debugging-setup-usb-enable-button = Aktiviraj USB uređaje
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
 about-debugging-setup-usb-disable-button = Deaktiviraj USB uređaje
 # Text of the button displayed in the USB section of the setup page while USB debugging
@@ -100,7 +100,7 @@ about-debugging-setup-usb-disable-button = Deaktiviraj USB uređaje
 about-debugging-setup-usb-updating-button = Aktualiziranje …
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Aktivirano
-about-debugging-setup-usb-status-disabled = Onemogućeno
+about-debugging-setup-usb-status-disabled = Deaktivirano
 about-debugging-setup-usb-status-updating = Aktualiziranje …
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Aktiviraj izbornik za programere na svom Android uređaju.
