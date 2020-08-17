@@ -101,6 +101,8 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = কম টাইপ করুন, আরো খুঁজুন: { $engineName } অনুসন্ধান করুন আপনার ঠিকানা বারের ডান দিক থেকে।
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -167,6 +169,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = অনুসন্ধান ইঞ্জিনকে ডিফল্ট হিসাবে সংকলন করুন
     .accesskey = D
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -248,8 +257,10 @@ popup-all-windows-shared = আপনার স্ক্রিনে সব দ�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন
+
 urlbar-placeholder =
     .placeholder = অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্রাউজার রিমোট কন্ট্রোলের অধীনে আছে
 urlbar-switch-to-tab =

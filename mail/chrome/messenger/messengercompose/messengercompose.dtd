@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "Redo">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r"> 
-<!ENTITY cutCmd.label "Cut">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c"> 
-<!ENTITY pasteCmd.label "Paste">
+<!ENTITY cutCmd.key "X"> 
+<!ENTITY copyCmd.key "C"> 
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Delete">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY selectAllCmd.label "Select All">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Find Again">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -177,18 +169,8 @@
 <!ENTITY pasteButton.tooltip            "Paste">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY fromAddr.label "From:">
-<!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "To:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "Reply-To:"> 
-<!ENTITY newsgroupsAddr.label "Newsgroup:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
-<!ENTITY subject.label "Subject:">
+<!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 

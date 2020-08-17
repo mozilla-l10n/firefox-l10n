@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = সর্বদা
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] বিকল্প
-           *[other] পছন্দ
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] বিকল্প
@@ -418,16 +411,6 @@ update-application-use-service =
     .label = আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে
     .accesskey = )
 
-update-enable-search-update =
-    .label = স্বয়ংক্রিয়ভাবে সার্চ ইঞ্জিন আপডেট করুন
-    .accesskey = e
-
-update-pref-write-failure-title = ব্যর্থতাকে লিখুন
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = পছন্দ সংরক্ষণ করতে অক্ষম। ফাইলটিতে লিখতে পারেনি: { $path }
-
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
@@ -561,7 +544,6 @@ home-prefs-topsites-description = যে সাইটগুলিতে আপ�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } দ্বারা সুপারিশকৃত
-home-prefs-recommended-by-description = ওয়েবের দারুন সব বিষয়বস্তু, নিজের মত করে সাজিয়ে নিন
 ##
 
 home-prefs-recommended-by-learn-more = এটি কিভাবে কাজ করে
@@ -603,7 +585,6 @@ search-bar-shown =
     .label = টুলবারে অনুসন্ধান বার যোগ করুন
 
 search-engine-default-header = ডিফল্ট সার্চ ইঞ্জিন
-search-engine-default-desc = ঠিকানা বারে এবং অনুসন্ধান বারে ব্যবহার করার জন্য ডিফল্ট সার্চ ইঞ্জিন চয়ন করুন।
 
 search-suggestions-option =
     .label = সার্চ সাজেশন প্রদান করুন
@@ -652,8 +633,6 @@ search-keyword-warning-bookmark = বর্তমানে একটি বু�
 
 ## Containers Section
 
-containers-back-link = « পিছনে যান
-
 containers-header = কন্টেইনার ট্যাব
 containers-add-button =
     .label = একটি কন্টেইনার যোগ করুন
@@ -673,14 +652,6 @@ containers-remove-button =
 sync-signedout-caption = আপনার সাথে আপনার ওয়েব নিন
 sync-signedout-description = আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দসমূহ সুসংগত করুন।
 
-sync-signedout-account-title = { -fxaccount-brand-name } সাথে সংযোগ স্থাপন করুন
-sync-signedout-account-create = কোনো অ্যাকাউন্ট নেই? শুরু করা যাক
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = সাইন ইন…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -699,10 +670,6 @@ sync-mobile-promo = Firefox ডাউনলোড <img data-l10n-name="android-i
 sync-profile-picture =
     .tooltiptext = প্রোফাইল ছবি পরিবর্তন করুন
 
-sync-disconnect =
-    .label = বিচ্ছিন্ন করুন…
-    .accesskey = D
-
 sync-manage-account = অ্যাকাউন্ট পরিচালনা
     .accesskey = o
 
@@ -720,9 +687,6 @@ sync-remove-account =
 sync-sign-in =
     .label = সাইন-ইন করুন
     .accesskey = g
-
-sync-signedin-settings-header = সিঙ্কের সেটিংস
-sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার ডিভাইসে কি সিঙ্ক্রোনাইজ করা হবে তা নির্বাচন করুন।
 
 ## Sync section - enabling or disabling sync.
 
@@ -744,11 +708,6 @@ sync-engine-tabs =
     .label = ট্যাব খুলুন
     .tooltiptext = সিঙ্ক করা ডিভাইসগুলোতে যা যা খোলা তার তালিকা
     .accesskey = T
-
-sync-engine-logins =
-    .label = লগইন
-    .tooltiptext = আপনার সংরক্ষিত ব্যবহারকারী নাম ও পাসওয়ার্ড
-    .accesskey = L
 
 sync-engine-addresses =
     .label = ঠিকানা
@@ -790,18 +749,12 @@ sync-device-name-save =
     .label = সংরক্ষণ করুন
     .accesskey = v
 
-sync-tos-link = পরিসেবার নিয়মাবলী
-
-sync-fxa-privacy-notice = গোপনীয়তা সংক্রান্ত নীতি
-
 ## Privacy Section
 
 privacy-header = ব্রাউজারের গোপনীয়তা
 
 ## Privacy Section - Forms
 
-
-logins-header = লগইন এবং পাসওয়ার্ড
 
 ## Privacy Section - Logins and Passwords
 
@@ -827,6 +780,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = আপনি বর্তমানে FIPS মোড ব্যবহার করছেন। FIPS-র ক্ষেত্রে প্রধান পাসওয়ার্ড ফাঁকা রাখা যাবে না।
+
 forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
 
 ## OS Authentication dialog
@@ -912,9 +866,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = ধরণ ব্লক করা হয়েছে
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = তৃতীয় পক্ষের ট্র্যাকারগুলি
-
 sitedata-clear =
     .label = তথ্য পরিষ্কার করুন…
     .accesskey = l
@@ -942,8 +893,6 @@ addressbar-locbar-openpage-option =
 addressbar-suggestions-settings = সার্চ ইঞ্জিনের পরিবর্তনের পছন্দসমূহ পরামর্শের জন্য
 
 ## Privacy Section - Content Blocking
-
-content-blocking-header = বিষয়বস্তুর ব্লকিং
 
 content-blocking-learn-more = আরো জানুন
 
@@ -986,10 +935,6 @@ permissions-notification-link = আরো জানুন
 permissions-notification-pause =
     .label = বিজ্ঞপ্তি বন্ধ রাখো যতক্ষণ না { -brand-short-name } পুনরায় শুরু হয়
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = ব্যতিক্রম…
-    .accesskey = E
 
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো প্রদর্শন প্রতিরোধ করা হবে
@@ -1113,6 +1058,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } কম ডিস্ক স্পেসে চলেছে।ওয়েবসাইট বিষয়বস্তু সঠিকভাবে প্রদর্শন নাও হতে পারে।ভাল ব্রাউজিং অভিজ্ঞতা পাওয়ার জন্য আপনার ডিস্কের ব্যবহারকে অপটিমাইজ করতে “আরো জানুন” পরিদর্শন করুন।
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
