@@ -9,6 +9,18 @@
 ## - Transliterated.
 ## - Translated.
 
+## The following feature names must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
 -facebook-container-brand-name =
     { $case ->
        *[nom] Facebook Container

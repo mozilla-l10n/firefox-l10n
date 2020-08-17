@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Vložit bez formátování">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Vložit jako">
-<!ENTITY pasteAs.accesskey "j">
 <!ENTITY pasteAsQuotationCmd.label "Vložit jako citaci">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Najít…">
-<!ENTITY findReplaceCmd.label "Najít a nahradit…">
-<!ENTITY enableInlineSpellChecker.label "Automatická kontrola pravopisu">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
-<!ENTITY checkSpellingCmd2.accesskey "p">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vložit">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tělo">
 <!ENTITY bodyTextCmd.accesskey "t">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Rozšířené vlastnosti">
-<!ENTITY advancedPropertiesCmd.accesskey "R">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Zarovnání">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Do bloku">
 <!ENTITY alignJustify.accesskey "b">
 <!ENTITY alignJustify.tooltip "Zarovnání do bloku">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Vrstva">
-<!ENTITY layerSendToBack.tooltip "Přenést do pozadí">
-<!ENTITY layerBringToFront.tooltip "Přenést do popředí">
 
 <!ENTITY increaseIndent.label "Zvětšit odsazení">
 <!ENTITY increaseIndent.accesskey "v">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Vlastnosti tabulky…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Nabídka">
-<!ENTITY formatToolbar.tooltip "Lišta úprav">
-<!ENTITY cutToolbarCmd.tooltip "Vyjmout">
-<!ENTITY copyToolbarCmd.tooltip "Kopírovat">
-<!ENTITY pasteToolbarCmd.tooltip "Vložit">
-<!ENTITY printToolbarCmd.label "Tisknout">
-<!ENTITY printToolbarCmd.tooltip "Vytiskne tuto stránku">
-<!ENTITY findToolbarCmd.label "Najít">
-<!ENTITY findToolbarCmd.tooltip "Vyhledání textu na stránce">
-<!ENTITY spellToolbarCmd.label "Pravopis">
-<!ENTITY spellToolbarCmd.tooltip "Zkontroluje pravopis v označeném textu nebo na celé stránce">
-
 <!ENTITY imageToolbarCmd.label "Obrázek">
 <!ENTITY imageToolbarCmd.tooltip "Vloží nový obrázek, nebo upraví označený">
 <!ENTITY hruleToolbarCmd.label "Vodorovná linka">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Vloží novou kotvu, nebo upraví označenou">
 <!ENTITY TextColorButton.tooltip "Vybere barvu textu">
 <!ENTITY BackgroundColorButton.tooltip "Vybere barvu pozadí">
-<!ENTITY throbber.tooltip2 "Přejde na domovskou stránku aplikace &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Vybere barvu pro barevné zvýrazňování">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastavit velikost písma">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Zarovná text na střed">
 <!ENTITY alignRightButton.tooltip "Zarovná text k pravému okraji">
 <!ENTITY alignJustifyButton.tooltip "Zarovná text do bloku">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Vybrat">
-<!ENTITY structSelect.accesskey     "V">
-<!ENTITY structRemoveTag.label      "Odebrat značku">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "Změnit značku">
-<!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Vložit">

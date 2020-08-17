@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Typ složky:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">
-<!ENTITY folderQuotaRoot.label                   "Hlavní kvóta:">
 <!ENTITY folderQuotaUsage.label                  "Využito:">
 <!ENTITY folderQuotaStatus.label                 "Stav:">
 

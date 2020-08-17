@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label "Úpravy">
 <!ENTITY editMenu.accesskey "a">
 <!ENTITY undoCmd.label "Zpět">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "Z">
 <!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "O">
-<!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "y">
-<!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "m">
-<!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY preferencesCmd2.label "Možnosti">
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">

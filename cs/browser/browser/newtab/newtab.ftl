@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Vyhledat
     .aria-label = Vyhledat
+
 newtab-search-box-search-the-web-text = Vyhledat na webu
 newtab-search-box-search-the-web-input =
     .placeholder = Vyhledat na webu
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Upravit top stránku
 newtab-topsites-title-label = Název stránky
 newtab-topsites-title-input =
     .placeholder = Zadejte název
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Zadejte nebo vložte URL adresu
 newtab-topsites-url-validation = Je vyžadována platná URL
+
 newtab-topsites-image-url-label = URL adresa vlastního obrázku
 newtab-topsites-use-image-link = Použít vlastní obrázek…
 newtab-topsites-image-validation = Obrázek se nepodařilo načíst. Zkuste jinou URL adresu.
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = Tuto akci nelze vzít zpět.
 newtab-menu-section-tooltip =
     .title = Otevře nabídku
     .aria-label = Otevře nabídku
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Odstranit
     .aria-label = Odstranit
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -135,10 +140,12 @@ newtab-label-removed-bookmark = Záložka odebrána
 newtab-label-recommended = Populární
 newtab-label-saved = Uloženo do { -pocket-brand-name(case: "gen") }
 newtab-label-download = Staženo
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · sponzrováno
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -176,10 +183,12 @@ newtab-section-header-pocket = Doporučení ze služby { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Začněte prohlížet a my vám zde ukážeme některé skvělé články, videa a další stránky, které jste nedávno viděli nebo uložili do záložek.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Už jste všechno přečetli. Další články ze služby { $provider } tu najdete zase později. Ale pokud se nemůžete dočkat, vyberte své oblíbené téma a podívejte se na další velké články z celého webu.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

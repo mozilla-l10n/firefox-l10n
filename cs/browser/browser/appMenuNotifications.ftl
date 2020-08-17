@@ -75,20 +75,6 @@ appmenu-addon-post-install-message = Své doplňky spravujte klepnutím na <imag
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povolit toto rozšíření v anonymních oknech
     .accesskey = P
-appmenu-addon-private-browsing =
-    .label = Změna fungování rozšíření v anonymních oknech
-    .buttonlabel = Správa rozšíření
-    .buttonaccesskey = S
-    .secondarybuttonlabel = Ok, rozumím
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message =
-    Nově nainstalovaná rozšíření budou v anonymních oknech { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "gen") }
-        [feminine] { -brand-shorter-name(case: "gen") }
-        [neuter] { -brand-shorter-name(case: "gen") }
-       *[other] aplikace { -brand-shorter-name }
-    } vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.
-appmenu-addon-private-browsing-learn-more = Jak na nastavení rozšíření
     
 appmenu-new-tab-controlled =
     .label = Obsah nového panelu byl změněn.

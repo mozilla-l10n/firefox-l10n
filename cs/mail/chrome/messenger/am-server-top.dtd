@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "zpráv">
 <!ENTITY alwaysAuthenticate.label "Při připojování na tento server vždy požadovat autentizaci">
 <!ENTITY alwaysAuthenticate.accesskey "v">
-<!ENTITY newsrcFilePath.label "Soubor newsrc:">
-<!ENTITY newsrcPicker.label "Vyberte soubor newsrc">
 <!ENTITY abbreviate.label "Zobrazit názvy skupin v okně poštovních složek jako:">
 <!ENTITY abbreviateOn.label "Celá jména (např.: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Zkracovat jména (např.: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
 <!ENTITY serverDefaultCharset2.label "Výchozí znaková sada textu:">
-<!ENTITY localPath.label "Místní adresář:">
 <!ENTITY localFolderPicker.label "Vyberte místní adresář">
 <!ENTITY browseFolder.label "Procházet…">
 <!ENTITY browseFolder.accesskey "P">

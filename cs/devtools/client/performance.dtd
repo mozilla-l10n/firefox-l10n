@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Název a adresa zdroje vzorkové funkce.">
 <!ENTITY performanceUI.table.totalAlloc               "Celkový počet vzorků alokací">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Celkový počet vzorků alokovaných objektů v tomto umístění a ve volaných.">
-<!ENTITY performanceUI.table.selfAlloc                "Vlastních vzorků alokací">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Počet vzorků alokovaných objektů v tomto umístění.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

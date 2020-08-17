@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Ukončit režim celé obrazovky
 find = Najít
 new-tab = Nový panel
 add-bookmark = Přidat záložku
-open-bookmarks-sidebar = Zobrazit postranní lištu záložek
 reader-view = Zobrazení čtečky
 # Meant to match the string displayed in an empty URL bar.
 open-location = Zadat hledání nebo adresu
