@@ -530,12 +530,12 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Traka pretraživanja
 search-bar-hidden =
-    .label = Koristite adresnu traku za pretraživanje i navigaciju
+    .label = Koristi adresnu traku za pretraživanje i navigaciju
 search-bar-shown =
     .label = Dodaj traku pretraživanja u alatnu traku
 search-engine-default-header = Standardna tražilica
 search-engine-default-desc-2 = Ovo je standardna tražilica u adresnoj traci i traci za pretraživanje. Možeš je promijeniti u bilo koje vrijeme.
-search-engine-default-private-desc-2 = Odaberi jednu drugi standardnu tražilicu samo za Privatne prozore
+search-engine-default-private-desc-2 = Odaberi jednu drugu standardnu tražilicu samo za privatne prozore
 search-separate-default-engine =
     .label = Koristi ovu tražilicu u privatnim prozorima
     .accesskey = K
@@ -545,7 +545,7 @@ search-suggestions-option =
     .label = Prikaži prijedloge pretraživanja
     .accesskey = P
 search-show-suggestions-url-bar-option =
-    .label = Prikaži prijedloge pretraživanja među rezultatima adresne trake
+    .label = Prikaži prijedloge pretrage u rezultatima adresne trake
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -553,7 +553,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = U adresnoj traci prikaži prijedloge za pretraživanje prije povijesti pregledavanja
+    .label = Prikaži prijedloge pretrage u rezultatima adresne trake prije povijesti pregledavanja
 search-show-suggestions-private-windows =
     .label = Prikaži prijedloge za pretraživanje u privatnim prozorima
 search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u lokacijskoj traci, jer je { -brand-short-name } podešen, da ne pamti povijest.
