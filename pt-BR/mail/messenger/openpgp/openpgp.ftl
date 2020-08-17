@@ -355,6 +355,17 @@ import-from-clip = Quer importar alguma(s) chave(s) da área de transferência?
 import-from-url = Baixar chave pública a partir desta URL:
 copy-to-clipbrd-failed = Não foi possível copiar a(s) chave(s) selecionada(s) para área de transferência.
 copy-to-clipbrd-ok = Chave(s) copiada(s) para área de transferência
+delete-secret-key =
+    AVISO: Você está prestes a excluir uma chave secreta!
+    
+    Se você excluir sua chave secreta, não poderá mais descriptografar nenhuma mensagem criptografada com essa chave, nem poderá revogá-la.
+    
+    Você realmente quer excluir AMBAS, a chave secreta e a chave pública
+    '{ $userId }'?
+delete-mix =
+    AVISO: Você está prestes a excluir chaves secretas!
+    Se você excluir sua chave secreta, não poderá mais descriptografar nenhuma mensagem criptografada com essa chave.
+    Você realmente quer excluir AMBAS, as chaves secreta e pública selecionadas?
 delete-pub-key =
     Quer excluir a chave pública
     '{ $userId }'?
@@ -403,6 +414,15 @@ keyring-photo = Foto
 user-att-photo = Atributo do usuário (imagem JPEG)
 # Strings in key.jsm
 already-revoked = Esta chave já foi revogada.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Você está prestes a revogar a chave '{ $identity }'.
+    Não poderá mais assinar com esta chave e, uma vez distribuída, outras pessoas não poderão mais criptografar com esta chave. Você ainda pode usar a chave para descriptografar mensagens antigas.
+    Quer prosseguir?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Você não tem nenhuma chave (0x{ $keyId }) que corresponda a este certificado de revogação!
+    Se você perdeu sua chave, deve importá-la (por exemplo, de um servidor de chaves) antes de importar o certificado de revogação!
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = A chave 0x{ $keyId } já foi revogada.
 key-man-button-revoke-key = &Revogar chave
