@@ -3,9 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Za pošiljanje šifriranih ali digitalno podpisanih sporočil morate nastaviti tehnologijo šifriranja, bodisi OpenPGP bodisi S/MIME.
-
 e2e-intro-description-more = Izberite si osebni ključ za omogočitev uporabe OpenPGP ali osebno digitalno potrdilo za omogočitev uporabe S/MIME. Za osebni ključ ali digitalno potrdilo imate ustrezen skrivni ključ.
-
 openpgp-key-user-id-label = Račun/ID uporabnika
 openpgp-keygen-title-label =
     .title = Ustvari ključ OpenPGP
@@ -35,21 +33,16 @@ openpgp-generate-key =
     .tooltiptext = Ustvari nov ključ, skladen z OpenPGP, za šifriranje in/ali podpisovanje
 openpgp-advanced-prefs-button-label =
     .label = Napredno …
-
 openpgp-key-expiry-label =
     .label = Datum preteka
-
 openpgp-key-id-label =
     .label = ID ključa
-
 openpgp-cannot-change-expiry = To je ključ z zapleteno strukturo; spreminjanje njegovega datuma preteka ni podprto.
-
 openpgp-key-man-title =
     .title = Upravitelj ključev OpenPGP
 openpgp-key-man-generate =
     .label = Nov par ključev
     .accesskey = k
-
 openpgp-key-man-file-menu =
     .label = Datoteka
     .accesskey = D
@@ -62,7 +55,6 @@ openpgp-key-man-view-menu =
 openpgp-key-man-generate-menu =
     .label = Ustvarjanje
     .accesskey = v
-
 openpgp-key-man-import-public-from-file =
     .label = Uvozi javne ključe iz datoteke
     .accesskey = U
@@ -83,25 +75,19 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Varnostno kopiraj skrivne ključe v datoteko
     .accesskey = V
-
 openpgp-key-man-discover-progress = Iskanje …
-
 openpgp-key-copy-key =
     .label = Kopiraj javni ključ
     .accesskey = K
-
 openpgp-key-export-key =
     .label = Izvozi javni ključ v datoteko
     .accesskey = I
-
 openpgp-key-backup-key =
     .label = Varnostno kopiraj skrivni ključ v datoteko
     .accesskey = V
-
 openpgp-key-send-key =
     .label = Pošlji javni ključ po e-pošti
     .accesskey = P
-
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopiraj javne ključe na odložišče
     .accesskey = K
@@ -109,7 +95,6 @@ openpgp-key-man-ctx-expor-to-file-label =
     .label = Izvozi ključe v datoteko
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Kopiraj javne ključe na odložišče
-
 openpgp-key-man-close =
     .label = Zapri
 openpgp-key-man-reload =
@@ -151,13 +136,10 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Izberi vse ključe
     .accesskey = v
-
 openpgp-key-man-filter-label =
     .placeholder = Išči ključe
-
 openpgp-key-man-select-all-key =
     .key = v
-
 openpgp-key-details-title =
     .title = Lastnosti ključa
 openpgp-key-details-sel-action =
@@ -183,7 +165,6 @@ openpgp-personal-no-label =
     .label = Ne, ne uporabljaj ga kot moj osebni ključ.
 openpgp-personal-yes-label =
     .label = Da, obravnavaj ta ključ kot osebni ključ.
-
 openpgp-copy-cmd-label =
     .label = Kopiraj
 
@@ -191,49 +172,34 @@ openpgp-copy-cmd-label =
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Vaša trenutna nastavitev uporablja ključ <b>{ $key }</b>, ki mu je pretekla veljavnost.
-
 openpgp-add-key-button =
     .label = Dodaj ključ …
     .accesskey = D
-
 e2e-learn-more = Več o tem
-
 openpgp-keygen-success = Ključ OpenPGP je uspešno ustvarjen!
-
 openpgp-keygen-import-success = Ključi OpenPGP so uspešno uvoženi!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Brez
-
 openpgp-radio-none-desc = Ne uporabljaj OpenPGP za to identiteto.
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Datum preteka: { $date }
-
 openpgp-key-expires-image =
     .tooltiptext = Ključ bo pretekel čez manj kot 6 mesecev
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Pretekel: { $date }
-
 openpgp-key-expired-image =
     .tooltiptext = Veljavnost ključa je pretekla
-
 openpgp-key-expand-section =
     .tooltiptext = Več informacij
-
 openpgp-key-revoke-title = Prekliči ključ
-
 openpgp-key-edit-title = Spremeni ključ OpenPGP
-
 openpgp-key-edit-date-title = Podaljšaj veljavnost
-
 openpgp-manager-button =
     .label = Upravitelj ključev OpenPGP
     .accesskey = k
-
 key-expiry-never = nikoli
 key-usage-encrypt = Šifriraj
 key-usage-sign = Podpiši
@@ -244,10 +210,12 @@ key-expired-date = Ključ je pretekel { $keyExpiry }
 key-expired-simple = Ključ je pretekel
 key-revoked-simple = Ključ je bil preklican
 key-do-you-accept = Ali sprejemate ta ključ za preverjanje digitalnih podpisov in za šifriranje sporočil?
-
+# Strings in keyserver.jsm
+keyserver-error-aborted = Prekinjeno
+keyserver-error-unknown = Prišlo je do neznane napake
+keyserver-error-import-error = Prenesenega ključa ni bilo mogoče uvoziti.
 expiry-open-key-manager = Odpri upravitelja ključev OpenPGP
 expiry-open-key-properties = Odpri lastnosti ključa
-
 # Strings filters.jsm
 filter-folder-required = Izbrati morate ciljno mapo.
 
