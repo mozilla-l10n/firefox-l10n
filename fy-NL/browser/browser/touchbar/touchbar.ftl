@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Folslein skerm ferlitte
 find = Sykje
 new-tab = Nij ljepblêd
 add-bookmark = Blêdwizer tafoegje
-open-bookmarks-sidebar = Blêdwizersydbalke iepenje
 reader-view = Lêzerwerjefte
 # Meant to match the string displayed in an empty URL bar.
 open-location = Fier sykterm of adres yn

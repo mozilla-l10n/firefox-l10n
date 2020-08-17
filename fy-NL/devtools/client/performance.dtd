@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "De namme en boarnelokaasje fan de bemonstere funksje">
 <!ENTITY performanceUI.table.totalAlloc               "Totale bemonstere tawizingen">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "It totale oantal op dizze lokaasje en yn oanropstruktueren bemonstere objekttawizingen">
-<!ENTITY performanceUI.table.selfAlloc                "Eigen bemonstere tawizingen">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "It tal op dizze lokaasjie bemonstere objekttawizingen">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

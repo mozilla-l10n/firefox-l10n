@@ -38,6 +38,7 @@ compatibility-issue-occurrences =
         [one] { $number } kear
        *[other] { $number } kear
     }
+
 compatibility-no-issues-found = Gjin kompatibiliteitsproblemen fûn.
 compatibility-close-settings-button =
     .title = Ynstellingen slute

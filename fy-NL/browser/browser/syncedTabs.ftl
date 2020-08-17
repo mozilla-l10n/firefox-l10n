@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Syngronisearre ljepblêden
 synced-tabs-sidebar-noclients-subtitle = Wolle jo hjir jo ljepblêden fan oare apparaten sjen?
-synced-tabs-sidebar-notsignedin = Meld jo oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.
 synced-tabs-sidebar-intro = Besjoch in list mei ljepblêden fan jo oare apparaten.
 synced-tabs-sidebar-unverified = Jo account moat ferifiearre wurde.
 synced-tabs-sidebar-notabs = Gjin iepen ljepblêden

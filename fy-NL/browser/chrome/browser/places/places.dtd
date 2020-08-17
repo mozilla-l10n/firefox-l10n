@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Bestân kieze…">
 <!ENTITY cmd.restoreFromFile.accesskey  "B">
 
-<!ENTITY cmd.deleteDomainData.label     "Dizze website ferjitte">
-<!ENTITY cmd.deleteDomainData.accesskey "f">
-
-<!ENTITY cmd.open.label                  "Iepenje">
-<!ENTITY cmd.open.accesskey              "I">
-<!ENTITY cmd.open_window.label           "Iepenje yn in nij finster">
-<!ENTITY cmd.open_window.accesskey       "f">
-<!ENTITY cmd.open_private_window.label     "Iepenje yn in nij priveefinster">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Iepenje yn in nij ljepblêd">
-<!ENTITY cmd.open_tab.accesskey          "l">
-<!ENTITY cmd.open_all_in_tabs.label      "Alle iepenje yn ljepblêden">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "a">
-
-<!ENTITY cmd.properties.label      "Eigenskippen">
-<!ENTITY cmd.properties.accesskey  "E">
-
-<!ENTITY cmd.sortby_name.label              "Sortearje op namme">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "S">
-
-<!ENTITY cmd.new_bookmark.label            "Nije blêdwizer…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Nije map…">
-<!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "m">
-<!ENTITY cmd.new_separator.label           "Nij skiedingsteken">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Namme">
 <!ENTITY col.tags.label          "Labels">
 <!ENTITY col.url.label           "Lokaasje">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Besykteller">
 <!ENTITY col.dateadded.label     "Tafoege">
 <!ENTITY col.lastmodified.label  "Lêst wizige">
-
-<!ENTITY historySearch.placeholder  "Skiednis trochsykje">
-<!ENTITY bookmarksSearch.placeholder  "Blêdwizers trochsykje">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Selektearje in item om te besjen en de eigenskippen te bewurkjen">
 
-<!ENTITY view.label               "Byld">
-<!ENTITY view.accesskey           "B">
-<!ENTITY byDate.label             "Op datum">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Op website">
-<!ENTITY bySite.accesskey         "w">
-<!ENTITY byMostVisited.label      "Op meast besocht">
-<!ENTITY byMostVisited.accesskey  "m">
-<!ENTITY byLastVisited.label      "Op lêst besocht">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Op datum en website">
-<!ENTITY byDayAndSite.accesskey   "e">

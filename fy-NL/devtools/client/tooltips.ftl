@@ -53,10 +53,6 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> hat gji
 
 inactive-css-not-grid-or-flex-container-fix = Probearje <strong>display:grid</strong> of <strong>display:flex</strong> ta te foegjen. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix = Probearje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> ta te foegjen. { learn-more }
-
-inactive-css-not-grid-item-fix = Probearje <strong>display:grid</strong> of <strong>display:inline-grid</strong> ta te foegjen oan it boppelizzende elemint. { learn-more }
-
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probearje <strong>display:grid</strong>, of <strong>display:flex</strong>, of <strong>colums:2</strong> ta te foegjen. { learn-more }
 
 inactive-css-not-grid-or-flex-item-fix-2 = Probearje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> ta te foegjen. { learn-more }
@@ -64,8 +60,6 @@ inactive-css-not-grid-or-flex-item-fix-2 = Probearje <strong>display:grid</stron
 inactive-css-not-grid-item-fix-2 = Probearje <strong>display:grid</strong> of <strong>display:inline-grid</strong> oan it boppe lizzende elemint ta te foegjen. { learn-more }
 
 inactive-css-not-grid-container-fix = Probearje <strong>display:grid</strong> of <strong>display:inline-grid</strong> ta te foegjen. { learn-more }
-
-inactive-css-not-flex-item-fix = Probearje <strong>display:flex</strong> of <strong>display:inline-flex</strong> ta te foegjen oan it boppelizzende elemint. { learn-more }
 
 inactive-css-not-flex-item-fix-2 = Probearje <strong>display:flex</strong> of <strong>display:inline-flex</strong> oan it boppe lizzende elemint ta te foegjen. { learn-more }
 
@@ -82,3 +76,11 @@ inactive-css-not-display-block-on-floated-fix = Probearje <strong>float</strong>
 inactive-css-position-property-on-unpositioned-box-fix = Probearje de eigenskip <strong>position</strong> op wat oars as <strong>static</strong> yn te stellen. { learn-more }
 
 inactive-text-overflow-when-no-overflow-fix = Probearje <strong>overflow:hidden</ strong> ta te foegjen. { learn-more }
+
+## In the Rule View when a CSS property may have compatibility issues with other browsers
+## we display an icon. When this icon is hovered this message is displayed to explain why
+## the property is incompatible and the platforms it is incompatible on.
+## Variables:
+##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
+##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
+

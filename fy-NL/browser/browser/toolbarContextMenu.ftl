@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Alle ljepblêden selektearje
     .accesskey = A
-toolbar-context-menu-undo-close-tab =
-    .label = Ljepblêd slute ûngedien meitsje
-    .accesskey = m
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -28,18 +25,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Ljepblêden slute ûngedien meitsje
         }
     .accesskey = u
+
 toolbar-context-menu-manage-extension =
     .label = Utwreiding beheare
     .accesskey = U
 toolbar-context-menu-remove-extension =
     .label = Utwreiding fuortsmite
     .accesskey = f
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Utwreiding rapportearje
     .accesskey = r
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

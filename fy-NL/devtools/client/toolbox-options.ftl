@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Remote debugging ynskeakelje
-options-enable-remote-tooltip =
-    .title = Troch dizze opsje oan te setten, kin it ûntwikkelersark in instance op in oar apparaat lykas Firefox OS debugge
 
 options-enable-remote-tooltip2 =
     .title = Troch dizze opsje yn te skeakeljen kinne jo dizze browserynstallaasje op ôfstân debugge

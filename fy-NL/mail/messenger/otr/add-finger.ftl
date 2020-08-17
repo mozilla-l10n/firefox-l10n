@@ -4,11 +4,14 @@
 
 otr-add-finger =
     .title = OTR-fingerôfdruk tafoegje
+
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
 otr-add-finger-description = De OTR-fingerôfdruk foar { $name } tafoegje.
+
 otr-add-finger-fingerprint = Fingerôfdruk:
 otr-add-finger-tooltip-error = Unjildich teken ynfierd. Allinnich sifers en de letters ABCDEF binne tastien
+
 otr-add-finger-input =
     .placeholder = De 40 tekens lange OTR-fingerôfdruk

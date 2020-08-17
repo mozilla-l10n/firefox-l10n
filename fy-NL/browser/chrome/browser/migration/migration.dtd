@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Opsjes, blêdwizers, skiednis, wachtwurden en oare gegevens ymportearje út:">
 <!ENTITY importFromUnix.label           "Foarkarren, blêdwizers, skiednis, wachtwurden en oare gegevens ymportearje út:">
-<!ENTITY importFromBookmarks.label      "Blêdwizers ymportearje út:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

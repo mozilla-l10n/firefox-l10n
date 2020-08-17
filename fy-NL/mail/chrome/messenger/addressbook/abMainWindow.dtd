@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Bewurkje">
 <!ENTITY editMenu.accesskey                             "W">
-<!ENTITY undoCmd.label                                  "Ungedien meitsje">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "U">
-<!ENTITY redoCmd.label                                  "Opnij útfiere">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "e">
-<!ENTITY cutCmd.label                                   "Knippe">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "N">
-<!ENTITY copyCmd.label                                  "Kopiearje">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Plakke">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Fuortsmite">
-<!ENTITY deleteCmd.accesskey                            "F">
 <!ENTITY deleteAbCmd.label                              "Adresboek fuortsmite">
 <!ENTITY deleteContactCmd.label                         "Kontakt fuortsmite">
 <!ENTITY deleteContactsCmd.label                        "Kontakten fuortsmite">
 <!ENTITY deleteListCmd.label                            "List fuortsmite">
 <!ENTITY deleteListsCmd.label                           "Listen fuortsmite">
 <!ENTITY deleteItemsCmd.label                           "Items fuortsmite">
-<!ENTITY selectAllCmd.label                             "Alles fuortsmite">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "A">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Foar-/efternamme wikselje">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "W">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Eigenskippen">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

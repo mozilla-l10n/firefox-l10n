@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Behear jo add-ons troch op <image data-l10n
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dizze útwreiding yn priveefinsters útfiere litte
     .accesskey = D
-appmenu-addon-private-browsing =
-    .label = Wiziging oan útwreidingen yn priveefinsters
-    .buttonlabel = Utwreidingen beheare
-    .buttonaccesskey = U
-    .secondarybuttonlabel = Oké, begrepen
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Nije útwreidingen dy't jo oan { -brand-shorter-name } tafoegje wurkje net yn priveefinsters, útsein jo dit tastean yn de ynstellingen.
-appmenu-addon-private-browsing-learn-more = Mear ynfo oer it behearen fan útwreidingen-ynstellingen.
     
 appmenu-new-tab-controlled =
     .label = Jo nije ljepblêd is wizige.

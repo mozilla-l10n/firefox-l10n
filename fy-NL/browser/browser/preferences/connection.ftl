@@ -35,12 +35,7 @@ connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = Poarte
     .accesskey = P
-connection-proxy-http-share =
-    .label = Deselde proxy foar alle protokollen brûke
-    .accesskey = x
 
-connection-proxy-ssl = SSL Proxy
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Dizze proxy ek foar FTP en HTTPS brûke
     .accesskey = k

@@ -12,5 +12,10 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">Jo oanmelding ymportearje út { $browser }</div>
     <div data-l10n-name="line2">foar { $host } en oare websites</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Mear ynfo
