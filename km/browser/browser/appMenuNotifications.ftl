@@ -32,7 +32,7 @@ appmenu-addon-post-install-message = គ្រប់គ្រងកម្មវ�
 appmenu-addon-post-install-incognito-checkbox =
     .label = អនុញ្ញាតឱ្យផ្នែកបន្ថែមនេះដំណើរការនៅក្នុងវីនដូឯកជន
     .accesskey = ក
-appmenu-addon-private-browsing-learn-more = ស្វែងយល់ពីវិធីគ្រប់គ្រងការកំណត់ផ្នែកបន្ថែម
+    
 appmenu-new-tab-controlled =
     .label = ផ្ទាំងថ្មីរបស់អ្នក​បាន​ផ្លាស់ប្ដូរ។
     .buttonlabel = រក្សាទុកការផ្លាស់ប្ដូរ

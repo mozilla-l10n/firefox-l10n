@@ -72,9 +72,6 @@
 <!ENTITY notCached.longDesc "<p>ឯកសារ​ដាក់​ស្នើ​មិន​មាន​នៅ​ក្នុង​ឃ្លាំង​សម្ងាត់​របស់ &brandShortName; ទេ។</p><ul><li>ជាការ​ប្រុងប្រយ័ត្ន​ផ្នែក​សុវត្ថិភាព &brandShortName; មិន​ស្នើសុំ​ឯកសារ​​រសើប​នោះ​ទេ។</li><li>ចុច​ព្យាយាម​ម្ដង​ទៀត​ដើម្បី​ដាក់​ស្នើឯកសារ​ពី​វេបសាយ។</li></ul>">
 
 <!ENTITY netOffline.title "របៀប​ក្រៅ​បណ្ដាញ">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>ព្យាយាម​ម្ដង​ទៀត។ &brandShortName; នឹង​ព្យាយាម​បើក​ការ​ភ្ជាប់ ឬ​ផ្ទុកទំព័រ​ឡើងវិញ។ <button id='wifi'>បើក​វ៉ាយហ្វាយ</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "កំហុស​ក្នុង​ការ​អ៊ិនកូដ​មាតិកា">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>សូម​ទាក់ទង​ម្ចាស់​វេបសាយ​ដើម្បី​ប្រាប់​ពួកគេ​អំពី​បញ្ហា​នេះ។</li> </ul>">

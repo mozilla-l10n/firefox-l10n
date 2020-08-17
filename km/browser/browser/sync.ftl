@@ -4,3 +4,4 @@
 
 fxa-toolbar-sync-syncing-tabs =
     .label = កំពុងធ្វើសមកាលកម្មផ្ទាំង…
+

@@ -12,7 +12,6 @@ fullscreen = អេក្រង់ពេញ
 find = រក
 new-tab = ផ្ទាំង​ថ្មី
 add-bookmark = បញ្ចូល​ចំណាំ​
-open-bookmarks-sidebar = បើក​របារ​ចំហៀង​ចំណាំ
 reader-view = ទិដ្ឋភាពអ្នកអាន
 # Meant to match the string displayed in an empty URL bar.
 open-location = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន

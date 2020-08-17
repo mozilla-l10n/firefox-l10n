@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "នាំចូល​ជម្រើស​ ចំណាំ​ ប្រវត្តិ ពាក្យសម្ងាត់ និង ទិន្នន័យ​ផ្សេងៗ​ពី ៖">
 <!ENTITY importFromUnix.label           "នាំចូល​ចំណង់​ចំណូល​ចិត្ត ចំណាំ​ ប្រវត្តិ ពាក្យ​សម្ងាត់ និង ទិន្នន័យ​ផ្សេងៗ​ពី ៖">
-<!ENTITY importFromBookmarks.label      "នាំចូល​ចំណាំ​ពី ៖">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

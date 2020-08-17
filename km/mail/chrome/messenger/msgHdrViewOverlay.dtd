@@ -32,7 +32,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Reply to mailing list">
 <!ENTITY hdrFollowupButton1.label "បន្ត​ទៅកាន់​">
 <!ENTITY hdrFollowupButton1.tooltip "ប្រកាស​កា​របន្ត​ទៅ​កាន់​វេទិកា​ព័ត៌មាន​នេះ">
-<!ENTITY hdrMenuForwardButton.label "បញ្ជូន​​បន្ត​ទៅ​">
 <!ENTITY hdrForwardButton1.label "Forward">
 <!ENTITY hdrForwardButton1.tooltip "បញ្ជូន​សារ​នេះ​បន្ត">
 <!ENTITY hdrJunkButton1.label "Junk">

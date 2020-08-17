@@ -11,9 +11,6 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = ជ្រើសរើស​ផ្ទាំង​ទាំងអស់
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = គ្រប់គ្រងផ្នែកបន្ថែម

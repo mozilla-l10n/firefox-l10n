@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "ឈ្មោះ និង​ទីតាំង​ប្រភព​នៃ​មុខងារ​គំរូ។">
 <!ENTITY performanceUI.table.totalAlloc               "ការបែងចែក​គំរូសរុប">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ចំនួន​សរុប​ការ​បែងចែក​វត្ថុ​​ដែល​បាន​ធ្វើ​ជា​គំរូ​នៅ​​ទីតាំង​នេះ និង​​ក្នុង​អ្នក​ហៅ។">
-<!ENTITY performanceUI.table.selfAlloc                "ការបែងចែក​គំរូ​ផ្ទាល់ខ្លួន​">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "ចំនួន​នៃ​ការបែងចែក​វត្ថុ​នៅ​ទីតាំង​នេះ​។">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

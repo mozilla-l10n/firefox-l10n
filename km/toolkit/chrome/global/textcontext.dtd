@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "កាត់">
-<!ENTITY cutCmd.accesskey "ក">
-<!ENTITY copyCmd.label "ចម្លង">
-<!ENTITY copyCmd.accesskey "ច">
-<!ENTITY pasteCmd.label "បិទភ្ជាប់">
-<!ENTITY pasteCmd.accesskey "ប">
-<!ENTITY undoCmd.label "មិនធ្វើវិញ">
-<!ENTITY undoCmd.accesskey "ន">
-<!ENTITY selectAllCmd.label "ជ្រើស​ទាំងអស់">
-<!ENTITY selectAllCmd.accesskey "អ">
-<!ENTITY deleteCmd.label "លុប">
-<!ENTITY deleteCmd.accesskey "ល">
-
 <!ENTITY spellAddToDictionary.label "បន្ថែម​ទៅ​វចនានុក្រម">
 <!ENTITY spellAddToDictionary.accesskey "ម">
 <!ENTITY spellUndoAddToDictionary.label "មិន​អាច​បន្ថែម​ទៅ​វចនា​នុក្រម">
