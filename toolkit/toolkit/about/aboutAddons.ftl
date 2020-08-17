@@ -10,9 +10,6 @@ addons-page-title = Umphathi wokungezwayo
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Iyalayisha…
-
 list-empty-installed =
     .value = Awunakho okungezwayo kwalolu hlobo okakiwe
 
@@ -27,13 +24,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Funda kabanzi ngokungezwayo
-
-install-addon-from-file =
-    .label = Faka okwengezwayo kusuka efayilini…
-    .accesskey = F
-
-tools-menu =
-    .tooltiptext = Amathuluzi wakho konke okwengezwayo
 
 cmd-show-details =
     .label = Bonisa ulwazi olubanzi
@@ -71,12 +61,6 @@ cmd-contribute =
     .label = Bamba iqhaza
     .accesskey = B
     .tooltiptext = Bamba iqhaza ekukukhuleni kwalokho okwengezwayo
-
-discover-title = Yini okwengezwayo?
-
-discover-description = Okwengezwayo mahlelo kisebenza akuvumela ukuba wenza kube ngokwakho i-{ -brand-short-name } ngokwenzeka okungaphezulu noma isitayela. Zana umugqa oseceleni wokonga isikhathi, isazisi ngesimo sezulu, noma ukubuka ngendikimba ukuze wenze i-{ -brand-short-name } kube ngeyakho.
-
-discover-footer = Uma uxhunyiwe kwi-inthanethi, leli windi lizofaka okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.
 
 detail-version =
     .label = Inguqulo
@@ -141,14 +125,6 @@ detail-rating =
 addon-restart-now =
     .label = Qala kabusha manje
 
-extensions-view-recent-updates =
-    .name = Ukuvuselela kwamanje
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Ukuvuselela okukona
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Izandiso
 addon-category-extension-title =
     .title = Izandiso
@@ -170,29 +146,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Konke okwengezwayo kukhutshaziwe ngesimo sokuvikela.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Ukuhlolwa kokusebenzisana kokungezwayo kukhutshaziwe. Ungaba nokungezwayo okungasebenzisani.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Nika amandla
-    .tooltiptext = Nika amandla ukuhlola okusebenzisanayo kokungezwayo
-
-extensions-warning-update-security-label =
-    .value = Ukuvikeleka kokuhlola okungeziwe kukhutshaziwe. Unganikwa ukuvuselela.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Nika amandla
-    .tooltiptext = Nika amandla ukuhlola kokuvikeleka kokuvuselela
-
 extensions-warning-safe-mode = Konke okwengezwayo kukhutshaziwe ngesimo sokuvikela.
 extensions-warning-check-compatibility = Ukuhlolwa kokusebenzisana kokungezwayo kukhutshaziwe. Ungaba nokungezwayo okungasebenzisani.
 extensions-warning-check-compatibility-button = Nika amandla
@@ -204,14 +157,6 @@ extensions-warning-update-security-button = Nika amandla
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Hlola ukuvuselela
-    .accesskey = H
-
-extensions-updates-view-updates =
-    .label = Binisa ukuvuselela kwamanje
-    .accesskey = B
-
 addon-updates-check-for-updates = Hlola ukuvuselela
     .accesskey = H
 addon-updates-view-updates = Binisa ukuvuselela kwamanje
@@ -219,10 +164,6 @@ addon-updates-view-updates = Binisa ukuvuselela kwamanje
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Vuselela okwengezwayo ngokuzenzakalela
-    .accesskey = o
 
 addon-updates-update-addons-automatically = Vuselela okwengezwayo ngokuzenzakalela
     .accesskey = o
@@ -233,36 +174,12 @@ addon-updates-update-addons-automatically = Vuselela okwengezwayo ngokuzenzakale
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Hlela kabusha konke okwengezwayo ukuze kuvuselele kuzenzakalele
-    .accesskey = H
-
-extensions-updates-reset-updates-to-manual =
-    .label = Hlela kabusha konke okwengezwayo ukuze kuviselelwe nguwe
-    .accesskey = H
-
 addon-updates-reset-updates-to-automatic = Hlela kabusha konke okwengezwayo ukuze kuvuselele kuzenzakalele
     .accesskey = H
 addon-updates-reset-updates-to-manual = Hlela kabusha konke okwengezwayo ukuze kuviselelwe nguwe
     .accesskey = H
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Ukuvuselela kokwengezwayo
-extensions-updates-installed =
-    .value = Okwengeziwe kwakho kuvuselelwe.
-extensions-updates-downloaded =
-    .value = Ukuvuselelwa kwakho kokwengeziwe kulayishwa kwafakwa.
-extensions-updates-restart =
-    .label = Qala kabusha manje ukuze uqedele ukufakwa
-extensions-updates-none-found =
-    .value = Akukho ukuvuselela okutholakele
-extensions-updates-manual-updates-found =
-    .label = Bonisa ukuvuselela okukhona
-extensions-updates-update-selected =
-    .label = Ifaka ukuvuselela
-    .tooltiptext = Faka ukuvuselela okukhona kulolu hlu
 
 addon-updates-updating = Ukuvuselela kokwengezwayo
 addon-updates-installed = Okwengeziwe kwakho kuvuselelwe.

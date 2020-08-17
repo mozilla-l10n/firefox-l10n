@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Nika amandla">
-<!ENTITY cmd.enableAddon.accesskey            "N">
-<!ENTITY cmd.disableAddon.label               "Khubaza">
-<!ENTITY cmd.disableAddon.accesskey           "K">
-
-<!ENTITY cmd.askToActivate.label              "Buza ukwenza kusebenze">
-<!ENTITY cmd.askToActivate.tooltip            "Buza ukuze usebenzise isingeniswa isikhathi ngesikhathi">
-<!ENTITY cmd.alwaysActivate.label             "Yenza kusebenze njalo">
-<!ENTITY cmd.alwaysActivate.tooltip           "Hlala usebenzise isingeniswa">
-<!ENTITY cmd.neverActivate.label              "Ungenzi kusebenze">
-<!ENTITY cmd.neverActivate.tooltip            "Ungasebenzisi lekhu okwengeziwe">
-<!ENTITY cmd.stateMenu.tooltip                "Shintsha uma lokhu okwengeziwe kudlala">
-
-<!ENTITY cmd.uninstallAddon.label             "Susa">
-<!ENTITY cmd.uninstallAddon.accesskey         "S">
-<!ENTITY cmd.showPreferencesWin.label         "Izinketho">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Shintasha izinketho zokwengezwayo">
-<!ENTITY cmd.showPreferencesUnix.label        "Okuthandwayo">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Shintsha lokhu okuthandwayo kokungezwayo">
-
-<!ENTITY cmd.showReleaseNotes.label           "Bonisa izaziswana zokukhipha">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Bonisa izaziswana zokukhipha zalokhu kuvuselelwa">
-<!ENTITY cmd.hideReleaseNotes.label           "Fihla izaziswana zokukhipha">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Fihla izaziswana zokukhipha zalokhu kuvuselelwa">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,12 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Khansela">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Okuningi">
-<!ENTITY addon.details.tooltip                "Bonisa imininingwane eminingi mayelana nalokho okwengezwayo">
-<!ENTITY addon.unknownDate                    "Akwaziwa">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(Kukhutshaziwe)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Vuselela">
-<!ENTITY addon.undoAction.label               "Hlehlisa">
-<!ENTITY addon.undoAction.tooltip             "Hlehlisa lesi senzo">
-<!ENTITY addon.undoRemove.label               "Hlehlisa">
-<!ENTITY addon.undoRemove.tooltip             "Gcina lokhu okwengezwayo kufakiwe">
-
-<!ENTITY addon.install.label                  "Faka">
-<!ENTITY addon.install.tooltip                "Faka lokhu okwengezwayo">
-<!ENTITY addon.updateNow.label                "Vuselela manje">
-<!ENTITY addon.updateNow.tooltip              "Faka ukuvuselela kwalokhu kwengezwa">
-<!ENTITY addon.includeUpdate.label            "Faka ukuvuselela">
-<!ENTITY addon.updateAvailable.label          "Ukuvuselela kuyatholakala">
-<!ENTITY addon.checkingForUpdates.label       "Uhlola ukuvuselela…">
-<!ENTITY addon.releaseNotes.label             "Khipha izaziswana:">
-<!ENTITY addon.loadingReleaseNotes.label      "Iyalayisha…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Uxolo, kubenephutha ekulayisheni izaziswana eziphumayo.">
-
-<!ENTITY addon.createdBy.label                "Ngo- ">
-
-<!ENTITY settings.path.button.label           "Bheka…">
 
 
 
