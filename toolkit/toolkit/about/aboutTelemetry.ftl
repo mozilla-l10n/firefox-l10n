@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping data source:
-about-telemetry-show-current-ping-data = Current ping data
 about-telemetry-show-archived-ping-data = Archived ping data
 about-telemetry-show-subsession-data = Show subsession data
 about-telemetry-choose-ping = Choose ping:

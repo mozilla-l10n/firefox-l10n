@@ -4,6 +4,7 @@
 
 page-title = Troubleshooting Information
 page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support website</a>.
+
 crashes-title = Crash Reports
 crashes-id = Report ID
 crashes-send-date = Submitted
@@ -52,8 +53,6 @@ graphics-diagnostics-title = Diagnostics
 graphics-failure-log-title = Failure Log
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
-js-title = JavaScript
-js-incremental-gc = Incremental GC
 a11y-title = Accessibility
 a11y-activated = Activated
 a11y-force-disabled = Prevent Accessibility
@@ -89,6 +88,7 @@ report-crash-for-days =
         [one] Crash Reports for the Last { $days } Day
        *[other] Crash Reports for the Last { $days } Days
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -96,6 +96,7 @@ crashes-time-minutes =
         [one] { $minutes } minute ago
        *[other] { $minutes } minutes ago
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -103,6 +104,7 @@ crashes-time-hours =
         [one] { $hours } hour ago
        *[other] { $hours } hours ago
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -110,6 +112,7 @@ crashes-time-days =
         [one] { $days } day ago
        *[other] { $days } days ago
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -117,6 +120,7 @@ pending-reports =
         [one] All Crash Reports (including { $reports } pending crash in the given time range)
        *[other] All Crash Reports (including { $reports } pending crashes in the given time range)
     }
+
 raw-data-copied = Raw data copied to clipboard
 text-copied = Text copied to clipboard
 
@@ -129,9 +133,11 @@ blocked-mismatched-version = Blocked for your graphics driver version mismatch b
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocked for your graphics driver version. Try updating your graphics driver to version { $driverVersion } or newer.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
+
 compositing = Compositing
 hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = main thread, no OMTC
@@ -151,14 +157,17 @@ gpu-ram = RAM
 gpu-driver-version = Driver Version
 gpu-driver-date = Driver Date
 gpu-active = Active
+
 min-lib-versions = Expected minimum version
 loaded-lib-versions = Version in use
+
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronisation
 has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = User Namespaces for privileged processes
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -171,6 +180,7 @@ multi-process-status-6 = Disabled by unsupported text input
 multi-process-status-7 = Disabled by add-ons
 multi-process-status-8 = Disabled forcibly
 multi-process-status-unknown = Unknown status
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = none
 wheel-enabled = wheel input enabled

@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Options
@@ -319,8 +312,6 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 
 sync-signedout-description = Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 
-sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -362,10 +353,6 @@ sync-engine-history =
 
 sync-device-name-header = Device Name
 
-sync-tos-link = Terms of Service
-
-sync-fxa-privacy-notice = Privacy Notice
-
 ## Privacy Section
 
 
@@ -389,6 +376,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
+
 forms-master-pw-fips-desc = Password Change Failed
 
 ## OS Authentication dialog
@@ -485,6 +473,8 @@ certs-header = Certificates
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

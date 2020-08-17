@@ -21,6 +21,9 @@ change-password-reenter = New password (again):
 reset-password-window =
     .title = Reset Master Password
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Reset
 reset-password-text = If you reset your master password, all your stored web and e-mail passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?
