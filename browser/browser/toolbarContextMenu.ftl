@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Dewis Pob Tab
     .accesskey = D
-toolbar-context-menu-undo-close-tab =
-    .label = Dadwneud Cau'r Tab
-    .accesskey = D
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

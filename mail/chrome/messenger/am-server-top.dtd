@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "neges">
 <!ENTITY alwaysAuthenticate.label "Gofyn bob tro am ddilysiad wrth gysylltu â'r gweinydd hwn">
 <!ENTITY alwaysAuthenticate.accesskey "b">
-<!ENTITY newsrcFilePath.label "ffeil newsrc:">
-<!ENTITY newsrcPicker.label "Dewis Ffeil newsrc">
 <!ENTITY newsrcFilePath1.label "Ffeil News.rc:">
 <!ENTITY newsrcPicker1.label "Dewis Ffeil News.rc">
 <!ENTITY abbreviate.label "Dangos enwau'r grŵp newyddion yn y paen Ffolder E-bost, fel:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Uwch…">
 <!ENTITY advancedButton.accesskey "U">
 <!ENTITY serverDefaultCharset2.label "Amgodiad Testun Rhagosodedig:">
-<!ENTITY localPath.label "Cyfeiriadur lleol:">
 <!ENTITY localPath1.label "Cyfeiriadur Lleol:">
 <!ENTITY localFolderPicker.label "Dewis Cyfeiriadur Lleol">
 <!ENTITY browseFolder.label "Pori…">

@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archifo">
 <!ENTITY hdrArchiveButton1.tooltip "Archifo'r neges">
-<!ENTITY hdrOpenConversationButton1.label "Sgwrs">
-<!ENTITY hdrOpenConversationButton1.tooltip "Dangos sgwrs y neges hon">
 <!ENTITY hdrSmartReplyButton1.label "Ateb Clyfar">
 <!ENTITY hdrReplyButton1.label "Ateb">
 <!ENTITY hdrReplyButton2.tooltip "Ateb i anfonwr y neges">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Ateb i'r rhestr e-bost">
 <!ENTITY hdrFollowupButton1.label "Dilyn">
 <!ENTITY hdrFollowupButton1.tooltip "Gosod cofnod dilynol i'r grŵp newyddion">
-<!ENTITY hdrMenuForwardButton.label "Ymlaen fel">
 <!ENTITY hdrForwardButton1.label "Ymlaen">
 <!ENTITY hdrForwardButton1.tooltip "Anfon y neges ymlaen">
 <!ENTITY hdrJunkButton1.label "Sbam">

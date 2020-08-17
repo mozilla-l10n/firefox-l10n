@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Mewnforio Dewisiadau, Nodau Tudalen, Hanes, Cyfrineiriau, a data arall o:">
 <!ENTITY importFromUnix.label           "Mewnforio Dewisiadau, Nodau Tudalen, Hanes, Cyfrineiriau a data arall o:">
-<!ENTITY importFromBookmarks.label      "Mewnforio Nodau Tudalen o:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

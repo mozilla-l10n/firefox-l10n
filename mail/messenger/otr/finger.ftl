@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Cau
     .title = Bysprintiau OTR Blaenorol
+
 finger-intro = Bysprintiau allweddol OTR o sgyrsiau amgryptiedig blaenorol o'r pen-i-ben.
+
 finger-screenName =
     .label = Cyswllt
 finger-verified =
     .label = Statws Gwirio
 finger-fingerprint =
     .label = Bysbrint
+
 finger-remove =
     .label = Tynnu'r Dewis
+
 finger-remove-all =
     .label = Tynnu'r Cyfan

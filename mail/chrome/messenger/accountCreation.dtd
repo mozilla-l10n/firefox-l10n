@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Gosod Cyfrif E-bost Cyfredol">
-
 <!ENTITY emailWizard.title               "Gosod eich Cyfrif E-bost Cyfredol">
 <!ENTITY emailWizard.caption             "Defnyddiwch eich cyfeiriad e-bost cyfredol">
 <!ENTITY name.label                      "Eich enw:">
 <!ENTITY name.accesskey                  "E">
-<!ENTITY name.placeholder                "Cyntaf Olaf">
 <!ENTITY fullname.placeholder            "Eich enw llawn">
 <!ENTITY name.text                       "Eich enw fel mae'n cael ei ddangos i eraill">
 <!ENTITY name.error                      "Rhowch eich enw">
 <!ENTITY email.label                     "Cyfeiriad e-bost:">
 <!ENTITY email.accesskey                 "y">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Eich cyfeiriad e-bost">
 <!ENTITY email.text                      "Eich cyfeiriad e-bost cyfredol">
 <!ENTITY email.error                     "Cyfeiriad e-bost annilys">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Anfon:">
 <!ENTITY outgoingColumn.label            "Anfon">
 <!ENTITY username.label                  "Enw Defnyddiwr:">
-<!ENTITY hostname.label                  "Enw gwesteiwr gweinydd">
-<!ENTITY port.label                      "Porth">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Gweinydd:">
 <!ENTITY portRow.label                   "Porth:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ail brofi">
 <!ENTITY half-manual-test.accesskey      "A">
-<!ENTITY manual-edit.label               "Ffurfweddu â llaw">
-<!ENTITY manual-edit.accesskey           "l">
 <!ENTITY manual-config.label             "Ffurfweddu â llaw…">
 <!ENTITY manual-config.accesskey         "F">
 <!ENTITY open-provisioner.label          "Cael cyfeiriad e-bost newydd…">

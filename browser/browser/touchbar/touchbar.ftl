@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Gadael Sgrin Lawn
 find = Canfod
 new-tab = Tab newydd
 add-bookmark = Ychwanegu nod tudalen
-open-bookmarks-sidebar = Agor Bar Offer Nodau Tudalen
 reader-view = Golwg Darllen
 # Meant to match the string displayed in an empty URL bar.
 open-location = Chwilio neu rhoi cyfeiriad

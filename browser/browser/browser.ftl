@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Pori Preifat)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Pori Preifat)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Pori Preifat)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Pori Preifat)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.
 urlbar-install-blocked =
     .tooltiptext = Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Golygu'r nod tudalen ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,12 +180,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Y tro hwn, chwilio gyda:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Gosodiadau Chwilio
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Newid y gosodiadau chwilio
+
 search-one-offs-context-open-new-tab =
     .label = Chwilio mewn Tab Newydd
     .accesskey = T
@@ -191,6 +197,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Gosod fel y Peiriant Chwilio Rhagosodedig ar gyfer Windows Preifat
     .accesskey = G
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -217,8 +224,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Dangos y golygydd wrth gadw
     .accesskey = D
+
 bookmark-panel-done-button =
     .label = Gorffen
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -292,12 +301,15 @@ popup-select-microphone =
     .value = Meicroffon i'w rannu:
     .accesskey = M
 popup-all-windows-shared = Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.
+
 popup-screen-sharing-not-now =
     .label = Nid Nawr
     .accesskey = N
+
 popup-screen-sharing-never =
     .label = Byth Caniatáu
     .accesskey = B
+
 popup-silence-notifications-checkbox = Analluogi hysbysiadau gan { -brand-short-name } wrth rannu
 popup-silence-notifications-checkbox-warning = Ni fydd { -brand-short-name } yn dangos hysbysiadau tra'ch bod chi'n rhannu.
 
@@ -314,23 +326,17 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = I ddefnyddio llwybr byr F12 agorwch DevTools yn gyntaf trwy'r ddewislen Datblygwr Gwe.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Chwilio neu gyfeiriad gwe
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
-# This placeholder is used in search mode with search engines that search the
-# entire web.
-urlbar-placeholder-search-mode-web =
-    .placeholder = Chwilio'r We
-# This placeholder is used in search mode with search engines that search a
-# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
-# tabs).
-urlbar-placeholder-search-mode-other =
-    .placeholder = Rhowch dermau chwilio
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -341,9 +347,11 @@ urlbar-permissions-granted =
     .tooltiptext = Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.
 urlbar-switch-to-tab =
     .value = Newid i dab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estyniad:
+
 urlbar-go-button =
     .tooltiptext = Mynd i'r cyfeiriad yn y Bar Lleoliad
 urlbar-page-action-button =

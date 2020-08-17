@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Tabiau wedi'u Cydweddu
 synced-tabs-sidebar-noclients-subtitle = Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?
-synced-tabs-sidebar-notsignedin = Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.
 synced-tabs-sidebar-intro = Gweld rhestr o dabiau o'ch dyfeisiau eraill.
 synced-tabs-sidebar-unverified = Mae angen i'ch cyfrif cael ei gwirio.
 synced-tabs-sidebar-notabs = Dim tabiau agored

@@ -23,4 +23,6 @@ otr-require-encryption-info =
     derbyn heb eu hamgryptio yn cael eu dangos fel rhan o'r sgwrs arferol, na'u cofnodi chwaith.
 otr-verifyNudge =
     .label = Atgoffa bob tro i wirio cyswllt heb ei wirio
+
 otr-notYetAvailable = ddim ar gael eto
+

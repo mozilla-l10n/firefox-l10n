@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Rheolwch eich ychwanegion drwy glicio <imag
 appmenu-addon-post-install-incognito-checkbox =
     .label = Caniatáu i'r estyniad yma redeg mewn Ffenestri Preifat
     .accesskey = C
-appmenu-addon-private-browsing =
-    .label = Newid i estyniadau mewn Ffenestri Preifat
-    .buttonlabel = Rheoli Estyniadau
-    .buttonaccesskey = R
-    .secondarybuttonlabel = Iawn, rwy'n deall
-    .secondarybuttonaccesskey = I
-appmenu-addon-private-browsing-message = Ni fydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i { -brand-shorter-name } yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.
-appmenu-addon-private-browsing-learn-more = Dysgu sut i reoli gosodiadau estyniad.
     
 appmenu-new-tab-controlled =
     .label = Mae eich Tab Newydd wedi newid.

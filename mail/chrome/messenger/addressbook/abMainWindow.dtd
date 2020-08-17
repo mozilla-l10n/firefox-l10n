@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Golygu">
 <!ENTITY editMenu.accesskey                             "G">
-<!ENTITY undoCmd.label                                  "Dadwneud">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
-<!ENTITY redoCmd.label                                  "Ailwneud">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "A">
-<!ENTITY cutCmd.label                                   "Torri">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "T">
-<!ENTITY copyCmd.label                                  "Copïo">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Gludo">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "G">
 <!ENTITY deleteCmd.label                                "Dileu">
-<!ENTITY deleteCmd.accesskey                            "D">
 <!ENTITY deleteAbCmd.label                              "Dileu Llyfr Cyfeiriadau">
 <!ENTITY deleteContactCmd.label                         "Dileu Cysylltiad">
 <!ENTITY deleteContactsCmd.label                        "Dileu Cysylltiadau">
 <!ENTITY deleteListCmd.label                            "Dileu Rhestr">
 <!ENTITY deleteListsCmd.label                           "Dileu Rhestrau">
 <!ENTITY deleteItemsCmd.label                           "Dileu Eitemau">
-<!ENTITY selectAllCmd.label                             "Dewis Popeth">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "D">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Newid Enw Cyntaf/Olaf">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "N">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Priodweddau">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

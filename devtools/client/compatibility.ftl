@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (anghymeradwy)
 compatibility-issue-experimental = (arbrofol)
 compatibility-issue-prefixneeded = (angen rhagddodiad)
 compatibility-issue-deprecated-experimental = (anghymeradwy, arbrofol)
+
 compatibility-issue-deprecated-prefixneeded = (anghymeradwy, angen rhagddodiad)
 compatibility-issue-experimental-prefixneeded = (arbrofol, angen rhagddodiad)
 compatibility-issue-deprecated-experimental-prefixneeded = anghymeradwy, arbrofol, angen rhagddodiad)
@@ -46,6 +47,7 @@ compatibility-issue-occurrences =
         [many] { $number } digwyddiad
        *[other] { $number } digwyddiad
     }
+
 compatibility-no-issues-found = Dim materion cydnawsedd. wedi'u canfod.
 compatibility-close-settings-button =
     .title = Cau'r gosodiadau

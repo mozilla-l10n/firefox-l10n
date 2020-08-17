@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Cadw Fel…
     .accesskey = e
-media-preview =
-    .value = Rhagolwg Cyfrwng:
 
 perm-tab =
     .label = Caniatâd
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ydy, cwcis
 security-site-data-no = Na
 
 image-size-unknown = Anhysbys
-not-set-verified-by = Heb ddiffinio
 page-info-not-specified =
     .value = Heb ddiffinio
 not-set-alternative-text = Heb ddiffinio
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Modd Quirks
 general-strict-mode =
     .value = Modd cynnal safonau
-security-no-owner = Nid yw'r wefan yn darparu gwybodaeth am ei pherchnogaeth.
 page-info-security-no-owner =
     .value = Nid yw'r wefan yn darparu gwybodaeth am ei pherchnogaeth.
 media-select-folder = Dewis Ffolder i Gadw'r Delweddau

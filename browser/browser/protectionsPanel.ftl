@@ -63,7 +63,6 @@ protections-panel-not-found-label = Heb Ganfod Dim
 ##
 
 protections-panel-settings-label = Gosodiadau Diogelu
-protections-panel-showreport-label = Dangos yr Adroddiad
 
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Bwrdd Gwaith Diogelwch

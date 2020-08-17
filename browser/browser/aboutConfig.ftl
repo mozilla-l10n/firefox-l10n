@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Cymrwch ofal - dreigiau peryglus!
-about-config-warning-text = Gall newid y gosodiadau uwch hyn wneud niwed i sefydlogrwydd, diogelwch a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.
-about-config-warning-checkbox = Blinwch fi eto, os gwelwch chi'n dda!
-about-config-warning-button = Rwy'n deall y peryglon
-
-about-config2-title = Ffurfweddiadau Uwch
-
-about-config-search-input =
-    .placeholder = Chwilio
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Byddwch Ofalus
@@ -32,13 +21,6 @@ about-config-page-title = Dewisiadau Uwch
 about-config-search-input1 =
     .placeholder = Enw dewis chwilio
 about-config-show-all = Dangos Popeth
-
-about-config-pref-add = Ychwanegu
-about-config-pref-toggle = Newid
-about-config-pref-edit = Golygu
-about-config-pref-save = Cadw
-about-config-pref-reset = Ailosod
-about-config-pref-delete = Dileu
 
 about-config-pref-add-button =
     .title = Ychwanegu
