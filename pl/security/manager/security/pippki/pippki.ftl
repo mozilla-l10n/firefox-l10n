@@ -8,8 +8,10 @@ password-quality-meter = Miernik jakości hasła
 
 change-password-window =
     .title = Zmień hasło główne
+
 change-device-password-window =
     .title = Zmień hasło
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Urządzenie zabezpieczające: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Nowe hasło (ponownie):
 reset-password-window =
     .title = Zresetuj hasło główne
     .style = width: 40em
+
 pippki-failed-pw-change = Nie można zmienić hasła.
 pippki-incorrect-pw = Nie podano właściwego hasła. Proszę spróbować ponownie.
 pippki-pw-change-ok = Hasło zostało zmienione.
+
 pippki-pw-empty-warning = Przechowywane hasła i klucze prywatne nie będą chronione.
 pippki-pw-erased-ok = Usunięto hasło. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Uwaga! Hasło nie będzie używane. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Zresetuj
 reset-password-text = Po zresetowaniu hasła głównego wszystkie przechowywane dane formularzy, hasła internetowe oraz hasła serwerów pocztowych, certyfikaty osobiste oraz prywatne klucze zostaną usunięte. Czy na pewno zresetować hasło główne?
+
 reset-primary-password-text = Po zresetowaniu hasła głównego wszystkie przechowywane hasła internetowe i hasła serwerów pocztowych, certyfikaty osobiste oraz prywatne klucze zostaną usunięte. Czy na pewno zresetować hasło główne?
+
 pippki-reset-password-confirmation-title = Zresetuj hasło główne
 pippki-reset-password-confirmation-message = Hasło główne zostało zresetowane.
 

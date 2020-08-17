@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "wiadomości">
 <!ENTITY alwaysAuthenticate.label "Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem">
 <!ENTITY alwaysAuthenticate.accesskey "l">
-<!ENTITY newsrcFilePath.label "Plik newsrc:">
-<!ENTITY newsrcPicker.label "Wybierz plik newsrc">
 <!ENTITY newsrcFilePath1.label "Plik news.rc:">
 <!ENTITY newsrcPicker1.label "Wybierz plik news.rc">
 <!ENTITY abbreviate.label "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Zaawansowane…">
 <!ENTITY advancedButton.accesskey "Z">
 <!ENTITY serverDefaultCharset2.label "Domyślne kodowanie tekstu:">
-<!ENTITY localPath.label "Katalog lokalny:">
 <!ENTITY localPath1.label "Katalog lokalny:">
 <!ENTITY localFolderPicker.label "Wybierz katalog lokalny">
 <!ENTITY browseFolder.label "Przeglądaj…">

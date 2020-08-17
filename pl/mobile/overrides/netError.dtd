@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Żądany dokument nie jest dostępny w pamięci podręcznej.</p><ul><li>Ze względów bezpieczeństwa, &brandShortName; automatycznie nie pobiera ponownie prywatnych dokumentów.</li><li>Kliknij przycisk „Spróbuj ponownie”, aby jeszcze raz pobrać dokument z witryny.</li></ul>">
 
 <!ENTITY netOffline.title "Tryb offline">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul><li>Spróbuj ponownie. &brandShortName; powtórzy próbę otwarcia połączenia i przeładuje stronę. <button id='wifi'>Włącz Wi-Fi</button></li></ul>">
 
 <!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
 <!ENTITY contentEncodingError.longDesc "<ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">

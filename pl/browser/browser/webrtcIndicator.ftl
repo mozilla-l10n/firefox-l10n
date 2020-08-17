@@ -11,6 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — wskaźnik udostępniania
+
 webrtc-sharing-window = Inne okno aplikacji jest udostępniane.
 webrtc-sharing-browser-window = { -brand-short-name } jest udostępniany.
 webrtc-sharing-screen = Cały ekran jest udostępniany.

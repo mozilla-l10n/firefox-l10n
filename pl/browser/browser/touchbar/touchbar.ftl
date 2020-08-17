@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Opuść tryb pełnoekranowy
 find = Znajdź
 new-tab = Nowa karta
 add-bookmark = Dodaj zakładkę
-open-bookmarks-sidebar = Otwórz panel zakładek
 reader-view = Popraw czytelność
 # Meant to match the string displayed in an empty URL bar.
 open-location = Wprowadź adres lub szukaj

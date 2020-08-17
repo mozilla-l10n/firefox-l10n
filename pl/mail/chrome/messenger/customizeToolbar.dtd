@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikony obok tekstu">
 <!ENTITY useSmallIcons.label      "Małe ikony">
 <!ENTITY restoreDefaultSet.label  "Domyślny układ">
-<!ENTITY addNewToolbar.label      "Nowy pasek">
-<!ENTITY showTitlebar.label       "Pasek tytułu">
-<!ENTITY extraDragSpace.label     "Pasek przeciągania okna">
 <!ENTITY showTitlebar2.label      "Pasek tytułu">
 <!ENTITY extraDragSpace2.label    "Pasek przeciągania okna">
 <!ENTITY saveChanges.label        "Gotowe">

@@ -4,7 +4,9 @@
 
 finger-yes = Zweryfikowany
 finger-no = Niezweryfikowany
+
 finger-subset-title = Usuń odciski
 finger-subset-message = Nie można usunąć co najmniej jednego odcisku, ponieważ odpowiedni klucz jest obecnie używany w aktywnej rozmowie.
+
 finger-remove-all-title = Usuń wszystkie odciski
 finger-remove-all-message = Czy na pewno chcesz usunąć wszystkie poprzednio widziane odciski? Wszystkie poprzednie weryfikacje tożsamości OTR zostaną utracone.

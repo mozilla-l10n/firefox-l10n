@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiwizuj">
 <!ENTITY hdrArchiveButton1.tooltip "Archiwizuj tę wiadomość">
-<!ENTITY hdrOpenConversationButton1.label "Wątek">
-<!ENTITY hdrOpenConversationButton1.tooltip "Wyświetl wątek tej wiadomości">
 <!ENTITY hdrSmartReplyButton1.label "Adaptatywny przycisk odpowiedzi">
 <!ENTITY hdrReplyButton1.label "Odpowiedz">
 <!ENTITY hdrReplyButton2.tooltip "Odpowiedz nadawcy tej wiadomości">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Wyślij odpowiedź na listę dyskusyjną">
 <!ENTITY hdrFollowupButton1.label "Odpowiedz grupie">
 <!ENTITY hdrFollowupButton1.tooltip "Wyślij odpowiedź na grupę dyskusyjną">
-<!ENTITY hdrMenuForwardButton.label "Przekaż jako">
 <!ENTITY hdrForwardButton1.label "Przekaż">
 <!ENTITY hdrForwardButton1.tooltip "Przekaż tę wiadomość">
 <!ENTITY hdrJunkButton1.label "Niechciana">

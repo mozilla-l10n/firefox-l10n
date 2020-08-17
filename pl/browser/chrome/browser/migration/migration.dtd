@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importuj opcje, zakładki, historię, hasła i inne dane z:">
 <!ENTITY importFromUnix.label           "Importuj preferencje, zakładki, historię, hasła i inne dane z:">
-<!ENTITY importFromBookmarks.label      "Importuj zakładki z:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

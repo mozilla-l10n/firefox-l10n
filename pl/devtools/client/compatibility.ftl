@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (przestarzałe)
 compatibility-issue-experimental = (eksperymentalne)
 compatibility-issue-prefixneeded = (wymagany przedrostek)
 compatibility-issue-deprecated-experimental = (przestarzałe, eksperymentalne)
+
 compatibility-issue-deprecated-prefixneeded = (przestarzałe, wymagany przedrostek)
 compatibility-issue-experimental-prefixneeded = (eksperymentalne, wymagany przedrostek)
 compatibility-issue-deprecated-experimental-prefixneeded = (przestarzałe, eksperymentalne, wymagany przedrostek)
@@ -43,6 +44,7 @@ compatibility-issue-occurrences =
         [few] { $number } wystąpienia
        *[many] { $number } wystąpień
     }
+
 compatibility-no-issues-found = Nie znaleziono problemów ze zgodnością.
 compatibility-close-settings-button =
     .title = Zamknij ustawienia
