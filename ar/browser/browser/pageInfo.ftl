@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = احفظ باسم…
     .accesskey = س
-media-preview =
-    .value = معاينة الوسائط:
 
 perm-tab =
     .label = التّصاريح
@@ -132,7 +130,6 @@ security-site-data-cookies-only = نعم، كعكات
 security-site-data-no = لا
 
 image-size-unknown = غير معروف
-not-set-verified-by = غير محدّد
 page-info-not-specified =
     .value = غير محدّد
 not-set-alternative-text = غير محدّد
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = نمط التحايل
 general-strict-mode =
     .value = نمط التوافقية مع المعايير
-security-no-owner = لا يقدّم موقع الوب هذا معلومات عن مالكه.
 page-info-security-no-owner =
     .value = لا يقدّم موقع الوب هذا معلومات عن مالكه.
 media-select-folder = اختر مجلدا لحفظ الصور

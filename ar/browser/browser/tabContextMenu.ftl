@@ -53,12 +53,12 @@ move-to-end =
 move-to-new-window =
     .label = انقل إلى نافذة جديدة
     .accesskey = ذ
-undo-close-tab =
-    .label = أعِد فتح اللسان
-    .accesskey = د
 tab-context-close-multiple-tabs =
     .label = أغلِق أكثر من لسان
     .accesskey = ك
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

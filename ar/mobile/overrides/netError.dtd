@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في ذاكرة &brandShortName; الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على ”حاول مرة أخرى“ لإعادة طلب المستند من الموقع.</li></ul>">
 
 <!ENTITY netOffline.title "نمط اللا اتصال">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>حاول مرة أخرى. &brandShortName; سيحاول فتح اتصال وإعادة تحميل الصفحة. <button id='wifi'>فعّل واي فاي</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">

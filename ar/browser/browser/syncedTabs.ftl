@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = الألسنة المُزامنة
 synced-tabs-sidebar-noclients-subtitle = أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟
-synced-tabs-sidebar-notsignedin = لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.
 synced-tabs-sidebar-intro = اعرض قائمة بالألسنة من أجهزتك الأخرى.
 synced-tabs-sidebar-unverified = يجب تأكيد حسابك.
 synced-tabs-sidebar-notabs = لا ألسنة مفتوحة

@@ -49,10 +49,6 @@ inactive-css-position-property-on-unpositioned-box = ليس للصفة <strong>{
 
 inactive-css-not-grid-or-flex-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong>. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>display:inline-grid</strong> أو <strong>display:inline-flex</strong>. { learn-more }
-
-inactive-css-not-grid-item-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong> إلى العنصر الأب. { learn-more }
-
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>columns:2</strong>. { learn-more }
 
 inactive-css-not-grid-or-flex-item-fix-2 = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>display:inline-grid</strong> أو <strong>display:inline-flex</strong>. { learn-more }
@@ -60,8 +56,6 @@ inactive-css-not-grid-or-flex-item-fix-2 = جرّب إضافة <strong>display:g
 inactive-css-not-grid-item-fix-2 = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong> إلى العنصر الأب. { learn-more }
 
 inactive-css-not-grid-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong>. { learn-more }
-
-inactive-css-not-flex-item-fix = جرّب إضافة <strong>display:flex</strong> أو <strong>display:inline-flex</strong> إلى العنصر الأب. { learn-more }
 
 inactive-css-not-flex-item-fix-2 = جرّب إضافة <strong>display:flex</strong> أو <strong>display:inline-flex</strong> إلى العنصر الأب. { learn-more }
 
@@ -76,4 +70,11 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = جرّب 
 inactive-css-not-display-block-on-floated-fix = جرّب إمّا إزالة <strong>float</strong> أو إضافة<strong>display:block</strong>. { learn-more }
 
 inactive-css-position-property-on-unpositioned-box-fix = جرّب ضبط خاصية <strong>position</strong> إلى شيء آخر عدا <strong>static</strong>. { learn-more }
+
+## In the Rule View when a CSS property may have compatibility issues with other browsers
+## we display an icon. When this icon is hovered this message is displayed to explain why
+## the property is incompatible and the platforms it is incompatible on.
+## Variables:
+##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
+##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 

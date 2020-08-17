@@ -100,9 +100,6 @@ about-debugging-setup-title = الإعداد
 about-debugging-setup-intro = اضبط الطريقة التي تريد بها الاتصال بجهازك لتنقيحه.
 
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = استعمل <a>{ about-debugging-this-firefox-runtime-name }</a> لتنقّح الألسنة والامتدادات وعمّال الخدمة في هذه النسخة من { -brand-shorter-name }.
-
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = استعمل <a>{ about-debugging-this-firefox-runtime-name }</a> لتنقّح الامتدادات وعمّال الخدمة في إصدارة { -brand-shorter-name } هذه.
 
 # Title of the heading Connect section of the Setup page.

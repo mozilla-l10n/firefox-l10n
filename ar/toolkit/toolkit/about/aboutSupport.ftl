@@ -4,6 +4,7 @@
 
 page-title = معلومات مواجهة الأعطال
 page-subtitle = تحتوي هذه الصفحة معلومات تقنية قد تكون مفيدة عندما تحاول حل مشكلة ما. إن كنت تبحث عن إجابات لأسئلة شائعة تخص { -brand-short-name }، تحقق من <a data-l10n-name="support-link">موقع الدعم</a>.
+
 crashes-title = بلاغات الانهيار
 crashes-id = معرّف البلاغ
 crashes-send-date = أُرسلَ
@@ -94,8 +95,6 @@ graphics-window-protocol = ميفاق النوافذ
 place-database-title = قاعدة بيانات الأماكن
 place-database-integrity = التكامل
 place-database-verify-integrity = تحقّق من التكامل
-js-title = جافاسكربت
-js-incremental-gc = جامع القمامة التزايدي
 a11y-title = الإتاحة
 a11y-activated = مفعّلة
 a11y-force-disabled = امنع الإتاحة
@@ -120,7 +119,6 @@ restart-in-safe-mode-label = أعِد التشغيل مع تعطيل الإضا�
 
 audio-backend = سند الصوت
 max-audio-channels = أقصى عدد للقنوات
-channel-layout = تخطيط القنوات المفضل
 sample-rate = معدل العينات المفضل
 media-title = الوسائط
 media-output-devices-title = أجهزة الخَرْج
@@ -170,6 +168,7 @@ report-crash-for-days =
         [many] بلاغات انهيار آخر { $days } يومًا
        *[other] بلاغات انهيار آخر { $days } يوم
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -181,6 +180,7 @@ crashes-time-minutes =
         [many] منذ { $minutes } دقيقة
        *[other] منذ { $minutes } دقيقة
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -192,6 +192,7 @@ crashes-time-hours =
         [many] منذ { $hours } ساعة
        *[other] منذ { $hours } ساعة
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -203,6 +204,7 @@ crashes-time-days =
         [many] منذ { $days } يومًا
        *[other] منذ { $days } يوم
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -214,6 +216,7 @@ pending-reports =
         [many] كل بلاغات الانهيار (تشمل { $reports } بلاغ انهيار معلّق في الفترة الزمنية المحددة)
        *[other] كل بلاغات الانهيار (تشمل { $reports } بلاغ انهيار معلّق في الفترة الزمنية المحددة)
     }
+
 raw-data-copied = نُسخت البيانات الخام إلى الحافظة
 text-copied = نُسخ النص إلى الحافظة
 
@@ -226,9 +229,11 @@ blocked-mismatched-version = معطلة بسبب عدم تطابق إصدارة 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = معطّلة بسبب إصدارة مشغل البطاقة الرسومية. جرّب تحديث مشغل البطاقة الرسومية لديك إلى النسخة { $driverVersion } أو أحدث.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = معاملات ClearType
+
 compositing = التراكب
 hardware-h264 = فك ترميز H264 باستخدام العتاد
 main-thread-no-omtc = الخيط الأساسي، لا OMTC
@@ -241,6 +246,7 @@ no = لا
 
 found = موجود
 missing = مفقود
+
 gpu-description = الوصف
 gpu-vendor-id = معرّف المنتِج
 gpu-device-id = معرّف الجهاز
@@ -261,17 +267,20 @@ webgl2-version = إصدارة مشغّل WebGL 2
 webgl2-driver-extensions = امتدادات مشغّل WebGL 2
 webgl2-extensions = امتدادات WebGL 2
 blocklisted-bug = على قائمة الحجب بسبب مشاكل معروفة معه
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = العلة { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = على قائمة الحجب؛ رمز العطل { $failureCode }
+
 d3d11layers-crash-guard = مركّب D3D11
 d3d11video-crash-guard = فاكك ترميز D3D11 للڤديو
-d3d9video-crash-buard = فاكك ترميز D3D9 للڤديو
 d3d9video-crash-guard = فاكك ترميز D3D9 للڤديو
 glcontext-crash-guard = أوپن‌جي‌إل
+
 reset-on-next-restart = صفّر عند التشغيل التالي
 gpu-process-kill-button = أنهِ سيرورة وحدة معالجة الرسوميات
 gpu-device-reset-button = أطلِق عملية إعادة الجهاز إلى حالته المبدئية
@@ -279,8 +288,10 @@ uses-tiling = يستخدم البلاطات
 content-uses-tiling = يستخدم البلاطات (المحتوى)
 off-main-thread-paint-enabled = الرسم خارج الخيط الرئيسي مفعل
 off-main-thread-paint-worker-count = عدد عمال الرسم خارج الخيط الرئيسي
+
 min-lib-versions = أقل إصدارة مقبولة
 loaded-lib-versions = الإصدارة المستخدمة
+
 has-seccomp-bpf = ‏Seccomp-BPF (ترشيح استدعاءات النظام)
 has-seccomp-tsync = مزامنة Seccomp للخيوط
 has-user-namespaces = نطاقات أسماء المستخدمين
@@ -292,6 +303,7 @@ effective-content-sandbox-level = مستوى عزل سيرورة المحتوى 
 sandbox-proc-type-content = محتوى
 sandbox-proc-type-file = محتوى الملف
 sandbox-proc-type-media-plugin = ملحقة وسائط
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -304,6 +316,7 @@ multi-process-status-6 = عطّله إدخال النصوص غير المدعو�
 multi-process-status-7 = عطّلته الإضافات
 multi-process-status-8 = عطّل إجبارًا
 multi-process-status-unknown = الحالة غير معروفة
+
 async-pan-zoom = التقريب غير المتزامن
 apz-none = لا شيء
 wheel-enabled = إدخال البكرة مُفعّل

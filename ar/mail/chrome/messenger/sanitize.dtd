@@ -24,6 +24,7 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "التفاصيل">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ف">
 
+
 <!ENTITY itemHistory.label                 "تأريخ التصفح">
 <!ENTITY itemHistory.accesskey             "ص">
 <!ENTITY itemCookies.label                 "الكعكات">

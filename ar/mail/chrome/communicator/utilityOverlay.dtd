@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "تحرير">
 <!ENTITY editMenu.accesskey        "ح">
 <!ENTITY undoCmd.label            "تراجع">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "ر">
 <!ENTITY redoCmd.label            "أعد">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "ع">
-<!ENTITY cutCmd.label            "قصّ">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "ص">
-<!ENTITY copyCmd.label            "انسخ">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "خ">
-<!ENTITY pasteCmd.label            "الصق">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "ل">
 <!ENTITY deleteCmd.label          "احذف">
 <!ENTITY deleteCmd.accesskey        "ذ">
-<!ENTITY selectAllCmd.label          "حدِّد الكلّ">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "ك">
 <!ENTITY preferencesCmd2.label "الخيارات">
 <!ENTITY preferencesCmd2.accesskey "خ">
 <!ENTITY preferencesCmdUnix.label       "التفضيلات">

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "السرّية">
-<!ENTITY securityTab.label "السرّية">
-<!ENTITY securityHeading.label "لإرسال واستقبال الرسائل الموقّعة والمعمّاة تحتاج لتحديد شهادة توقيع رقمي وشهادة تعمية.">
-<!ENTITY encryptionGroupTitle.label "التعمية">
-<!ENTITY encryptionChoiceLabel.label "إعدادات التعمية المبدئية عند إرسال الرسائل:">
-<!ENTITY neverEncrypt.label "أبدًا (لا تعمِّ)">
-<!ENTITY neverEncrypt.accesskey "د">
-<!ENTITY alwaysEncryptMessage.label "مشترطة (لا يمكن إرسال الرسائل ما لم يمتلك كل المستلمون شهادات)">
-<!ENTITY alwaysEncryptMessage.accesskey "ش">
-<!ENTITY encryptionCert.message "استخدم هذه الشهادة لتعمية و استخراج الرسائل المرسلة إليك:">
-
 <!ENTITY digitalSign.certificate.button "اختر…">
 <!ENTITY digitalSign.certificate.accesskey "خ">
 <!ENTITY digitalSign.certificate_clear.button "امسح">
@@ -22,15 +11,8 @@
 <!ENTITY encryption.certificate_clear.button "امسح">
 <!ENTITY encryption.certificate_clear.accesskey "س">
 <!ENTITY signingGroupTitle.label "التّوقيع الرقمي">
-<!ENTITY signMessage.label "وقّع الرسائل رقميًا (بشكل افتراضي)">
 <!ENTITY signMessage.accesskey "ق">
-<!ENTITY signingCert.message "استخدم هذه الشهادة لتوقيع الرسائل التي ترسلها رقميًا:">
 
-<!ENTITY certificates.label "الشّهادات">
-<!ENTITY manageCerts2.label "أدِر الشّهادات">
-<!ENTITY manageCerts2.accesskey "ش">
-<!ENTITY manageDevices.label "أجهزة الأمن">
-<!ENTITY manageDevices.accesskey "ج">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "اختر شهادة">

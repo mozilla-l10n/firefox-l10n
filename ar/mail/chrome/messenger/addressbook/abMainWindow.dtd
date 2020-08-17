@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "تحرير">
 <!ENTITY editMenu.accesskey                             "ح">
-<!ENTITY undoCmd.label                                  "تراجع">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "ر">
-<!ENTITY redoCmd.label                                  "أعِد">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "ع">
-<!ENTITY cutCmd.label                                   "قصّ">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "ق">
-<!ENTITY copyCmd.label                                  "انسخ">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "ن">
-<!ENTITY pasteCmd.label                                 "الصق">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "ل">
 <!ENTITY deleteCmd.label                                "احذف">
-<!ENTITY deleteCmd.accesskey                            "ح">
 <!ENTITY deleteAbCmd.label                              "احذف دفتر العناوين">
 <!ENTITY deleteContactCmd.label                         "احذف جهة الاتصال">
 <!ENTITY deleteContactsCmd.label                        "احذف جهات الاتصال">
 <!ENTITY deleteListCmd.label                            "احذف القائمة">
 <!ENTITY deleteListsCmd.label                           "احذف القوائم">
 <!ENTITY deleteItemsCmd.label                           "احذف العناصر">
-<!ENTITY selectAllCmd.label                             "اختر الكل">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "ك">
-<!ENTITY swapFirstNameLastNameCmd.label                 "بدّل الاسم الأول/الأخير">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "ب">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "الخصائص">
 <!ENTITY propertiesMenu.accesskey                       "خ">
 <!ENTITY propertiesCmd.key                              "i">

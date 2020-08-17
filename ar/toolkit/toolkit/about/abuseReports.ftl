@@ -62,20 +62,12 @@ abuse-report-messagebar-action-cancel = ألغِ
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = يُتلف حاسوبي وبياناتي
-
 abuse-report-damage-reason-v2 = أتلفَ حاسوبي أو كشف عن بياناتي
-
-abuse-report-settings-reason = غيّر محرّك البحث أو الصفحة الرئيسة أو صفحة اللسان الجديد دون إعلامي أو طلب ذلك
 
 abuse-report-settings-reason-v2 = غيّر محرّك البحث أو الصفحة الرئيسة أو صفحة اللسان الجديد دون إعلامي أو طلب ذلك
 abuse-report-settings-suggestions = قبل الإبلاغ عن الامتداد، جرّب تعديل إعداداتك:
 abuse-report-settings-suggestions-search = غيّر إعدادات البحث المبدئية
 abuse-report-settings-suggestions-homepage = غيّر الصفحة الرئيسة وصفحة اللسان الجديد
-
-abuse-report-broken-reason-extension = لا يعمل أو يُعطب المواقع أو يُبطئ { -brand-product-name }
-
-abuse-report-unwanted-reason = لم أرد هذا الامتداد أساسًا ولا طريقة أحذفه من المتصفح
 
 abuse-report-unwanted-reason-v2 = لم أرده من الأساس ولا أعلم كيف أحذفه
 abuse-report-unwanted-example = أمثلة: أحد التطبيقات ثبّته دون طلب ذلك مني
