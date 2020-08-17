@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Mentés másként…
     .accesskey = e
-media-preview =
-    .value = Média-előnézet:
 
 perm-tab =
     .label = Engedélyek
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Igen, sütiket
 security-site-data-no = Nem
 
 image-size-unknown = Ismeretlen
-not-set-verified-by = Nincs megadva
 page-info-not-specified =
     .value = Nincs megadva
 not-set-alternative-text = Nincs megadva
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Kompatibilitási mód
 general-strict-mode =
     .value = Szigorú szabványkompatibilitási mód
-security-no-owner = Ez a webhely nem szolgáltat információkat a tulajdonosáról.
 page-info-security-no-owner =
     .value = Ez a webhely nem szolgáltat információkat a tulajdonosáról.
 media-select-folder = Mappa kijelölése a képek mentéséhez

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Beállítások, könyvjelzők, előzmények, jelszavak és egyéb adatok importálása a következő termékből:">
 <!ENTITY importFromUnix.label           "Beállítások, könyvjelzők, előzmények, jelszavak és egyéb adatok importálása a következő termékből:">
-<!ENTITY importFromBookmarks.label      "Könyvjelzők importálása">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

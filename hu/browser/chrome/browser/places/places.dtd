@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tallózás…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.deleteDomainData.label     "Webhely elfelejtése">
-<!ENTITY cmd.deleteDomainData.accesskey "W">
-
-<!ENTITY cmd.open.label                  "Megnyitás">
-<!ENTITY cmd.open.accesskey              "e">
-<!ENTITY cmd.open_window.label           "Megnyitás új ablakban">
-<!ENTITY cmd.open_window.accesskey       "a">
-<!ENTITY cmd.open_private_window.label     "Megnyitás új privát ablakban">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Megnyitás új lapon">
-<!ENTITY cmd.open_tab.accesskey          "l">
-<!ENTITY cmd.open_all_in_tabs.label      "Mindegyik megnyitása külön lapon">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "m">
-
-<!ENTITY cmd.properties.label      "Tulajdonságok">
-<!ENTITY cmd.properties.accesskey  "T">
-
-<!ENTITY cmd.sortby_name.label              "Rendezés név szerint">
-<!ENTITY cmd.sortby_name.accesskey          "n">
-<!ENTITY cmd.context_sortby_name.accesskey  "n">
-
-<!ENTITY cmd.new_bookmark.label            "Új könyvjelző…">
-<!ENTITY cmd.new_bookmark.accesskey        "n">
-<!ENTITY cmd.new_folder.label              "Új mappa…">
-<!ENTITY cmd.new_folder.accesskey          "a">
-<!ENTITY cmd.context_new_folder.accesskey  "a">
-<!ENTITY cmd.new_separator.label           "Új elválasztó">
-<!ENTITY cmd.new_separator.accesskey       "e">
-
 <!ENTITY col.name.label          "Név">
 <!ENTITY col.tags.label          "Címkék">
 <!ENTITY col.url.label           "Hely">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Látogatások száma">
 <!ENTITY col.dateadded.label     "Hozzáadva">
 <!ENTITY col.lastmodified.label  "Utoljára módosítva">
-
-<!ENTITY historySearch.placeholder  "Előzmények keresése">
-<!ENTITY bookmarksSearch.placeholder  "Könyvjelzők keresése">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Jelöljön ki egy elemet megtekintésre, és szerkessze tulajdonságait">
 
-<!ENTITY view.label               "Megjelenítés">
-<!ENTITY view.accesskey           "M">
-<!ENTITY byDate.label             "Dátum szerint">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Kiszolgáló szerint">
-<!ENTITY bySite.accesskey         "K">
-<!ENTITY byMostVisited.label      "Látogatottság szerint">
-<!ENTITY byMostVisited.accesskey  "L">
-<!ENTITY byLastVisited.label      "Utolsó látogatás ideje szerint">
-<!ENTITY byLastVisited.accesskey  "U">
-<!ENTITY byDayAndSite.label       "Dátum és kiszolgáló szerint">
-<!ENTITY byDayAndSite.accesskey   "m">

@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Távoli hibakeresés be/ki
-options-enable-remote-tooltip =
-    .title = Ennek bekapcsolásával távoli példányok, mint például a Firefox OS hibakeresése végezhető el
 
 options-enable-remote-tooltip2 =
     .title = A beállítás bekapcsolásával engedélyezi a böngészőpéldány távoli hibakeresését.

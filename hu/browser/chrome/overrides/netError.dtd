@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "A kapcsolódás sikertelen">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Ez a cím tiltva van">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "A kiszolgáló nem található">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Probléma az oldal megkeresésekor.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Ha a cím helyes, akkor itt van három lehetőség, amit megpróbálhat:</strong>
 <ul>
@@ -34,15 +28,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "A fájl nem található">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ellenőrizze a fájlnevet, hogy jól írta-e.</li> <li>Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "A fájl elérése megtagadva">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Lehet hogy törölve lett, át lett helyezve, vagy a fájljogosultságok megakadályozzák a hozzáférést.</li> </ul>">
-
-<!ENTITY generic.title "Hoppá!">
 
 <!ENTITY generic.longDesc "<p> A &brandShortName; nem tudja betölteni az oldalt valamilyen okból.</p>">
 
@@ -52,63 +40,32 @@
 <!ENTITY openPortalLoginPage.label2 "Hálózati bejelentkezés oldal megnyitása">
 
 <!ENTITY malformedURI.pageTitle "Érvénytelen URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. A cím nem tűnik helyesnek.">
-
-<!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "A dokumentum lejárt">
-
 <!ENTITY notCached.longDesc "<p>A kért dokumentum nem érhető el a &brandShortName; gyorsítótárában.</p><ul><li>Biztonsági okokból a &brandShortName; nem kéri le automatikusan az érzékeny adatokat tartalmazó dokumentumokat.</li><li>Kattintson a „Próbálja újra” gombra, hogy újra lekérje a dokumentumot a webhelyről.</li></ul>">
-
-<!ENTITY netOffline.title "Kapcsolat nélküli mód">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Nyomja meg a „Próbálja újra” gombot az online módhoz és az oldal újratöltéséhez.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Értesítse a webhely tulajdonosait erről a problémáról.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Nem biztonságos fájltípus">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Értesítse a webhely tulajdonosait erről a problémáról.</li> </ul>">
 
-<!ENTITY netReset.title "A kapcsolat alaphelyzetbe állt">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "A kapcsolat időtúllépés miatt megszakadt">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "A cím nem volt érthető">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Lehet, hogy egyéb szoftvert kell telepítenie a cím megnyitásához.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "A proxykiszolgáló visszautasította a kapcsolatokat">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li> <li>Kérdezze meg a hálózati rendszergazdától, hogy a proxykiszolgáló működik-e.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li> <li>Ellenőrizze, hogy a számítógép hálózati kapcsolata működik-e.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Az oldal nem megfelelően van átirányítva">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ez a probléma néha a letiltott vagy visszautasított sütik miatt jelentkezik.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Váratlan válasz a kiszolgálótól">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ellenőrizze, hogy a rendszerre telepítve van-e a Personal Security Manager modul.</li> <li>A hibát okozhatja a kiszolgáló nem szabványos beállítása is.</li> </ul>">
 
-<!ENTITY nssFailure2.title "A biztonságos kapcsolat sikertelen">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.</li> <li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Figyelmeztetés: Lehetséges biztonsági kockázat következik">
-<!ENTITY certerror.sts.longpagetitle  "Nem kapcsolódott: lehetséges biztonsági probléma">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -137,11 +94,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>A webhely ideiglenesen nem érhető el vagy túlterhelt. Próbálja újra pár perc múlva.</li> <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Blokkolva a tartalombiztonsági házirend szerint">
-
 <!ENTITY cspBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági házirendje ezt tiltja.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Sérült tartalom hiba">
 
 <!ENTITY xfoBlocked.longDesc "<p>A &brandShortName; megakadályozta, hogy az oldalt ebben a környezetben betöltse, mert az oldal X-Frame-Options házirendje tiltja.</p>">
 
@@ -152,11 +105,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Az ilyen hibák jelentése segít a Mozillának a rosszindulatú oldalak azonosításában és blokkolásában">
 <!ENTITY errorReporting.learnMore "További tudnivalók…">
 
-<!ENTITY remoteXUL.title "Távoli XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Nem lehet biztonságosan kapcsolódni">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -167,15 +116,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "A(z) <span class='hostname'></span> oldal a HTTP Strict Transport Security (HSTS) nevű biztonsági házirendet használja, amely azt jelenti, hogy a &brandShortName; csak biztonságosan kapcsolódhat hozzá. Nem adhat hozzá kivételt, hogy felkeresse ezt az oldalt.">
 <!ENTITY certerror.copyToClipboard.label "Szöveg másolása a vágólapra">
 
-<!ENTITY inadequateSecurityError.title "A kapcsolat nem biztonságos">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.</p><p>Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkolt oldal">
-
-<!ENTITY certerror.mitm.title "Egy szoftver megakadályozza, hogy a &brandShortName; biztonságosan kapcsolódjon ehhez a webhelyhez">
 
 <!ENTITY certerror.mitm.longDesc "A(z) <span class='hostname'></span> valószínűleg egy biztonságos oldal, de nem hozható létre biztonságos kapcsolat. A problémát <span class='mitm-name'/> okozza, amely valószínűleg egy a számítógépén vagy a hálózatán lévő szoftver.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ha a víruskereső szoftvere olyan funkciót tartalmaz, amely titkosított kapcsolatokat ellenőriz (gyakran „webes szkennelés” vagy „https szkennelés” néven szerepel), akkor letilthatja ezt a funkciót. Ha ez nem működik, akkor eltávolíthatja és újratelepítheti a víruskereső szoftvert.">
@@ -183,14 +128,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ha nem tudja mi az a <span class='mitm-name'/>, akkor ez egy támadás lehet, és nem szabad továbblépnie a webhelyre.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ha nem tudja mi az a <span class='mitm-name'/>, akkor ez egy támadás lehet, és semmit sem tehet, hogy hozzáférjen a webhelyhez.">
 
-<!ENTITY clockSkewError.title "A számítógépe órája hibás">
-
 <!ENTITY clockSkewError.longDesc "A számítógépe szerint a pontos idő <span id='wrongSystemTime_systemDate1'/>, és ez megakadályozza, hogy a &brandShortName; biztonságosan kapcsolódjon. A(z) <span class='hostname'></span> felkereséséhez frissítse a rendszerbeállításokban a számítógép óráját a jelenlegi dátumra, időre és időzónára, és frissítse a(z) <span class='hostname'></span> oldalt.">
 
 <!ENTITY prefReset.longDesc "Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?">
 <!ENTITY prefReset.label "Alap beállítások visszaállítása">
-
-<!ENTITY networkProtocolError.title "Hálózati protokoll hiba">
 
 <!ENTITY enableTls10.longDesc "Ez a weboldal lehet, hogy nem támogatja a TLS 1.2 protokollt, amely a legkisebb verzió, amelyet a &brandShortName; támogat. A TLS 1.0 és TLS 1.1 engedélyezésével sikeres lehet ez a kapcsolat.">
 <!ENTITY enableTls10.note "Egy jövőbeli kiadásban a TLS 1.0 és TLS 1.1 véglegesen letiltásra kerül.">

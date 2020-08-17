@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiválás">
 <!ENTITY hdrArchiveButton1.tooltip "Üzenet archiválása">
-<!ENTITY hdrOpenConversationButton1.label "Beszélgetés">
-<!ENTITY hdrOpenConversationButton1.tooltip "Az üzenet beszélgetésének megjelenítése">
 <!ENTITY hdrSmartReplyButton1.label "Intelligens válasz">
 <!ENTITY hdrReplyButton1.label "Válasz">
 <!ENTITY hdrReplyButton2.tooltip "Válasz az üzenet feladójának">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Válasz a levelezőlistára">
 <!ENTITY hdrFollowupButton1.label "Válasz">
 <!ENTITY hdrFollowupButton1.tooltip "Válasz küldése ebbe a hírcsoportba">
-<!ENTITY hdrMenuForwardButton.label "Továbbítás módja">
 <!ENTITY hdrForwardButton1.label "Továbbítás">
 <!ENTITY hdrForwardButton1.tooltip "Az üzenet továbbküldése">
 <!ENTITY hdrJunkButton1.label "Szemét">

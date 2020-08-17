@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>A kért dokumentum nem érhető el a &brandShortName; gyorsítótárában.</p><ul><li>Biztonsági okokból a &brandShortName; nem kéri le automatikusan az érzékeny adatokat tartalmazó dokumentumokat.</li><li>Kattintson a „Próbálja újra” gombra, hogy újra lekérje a dokumentumot a webhelyről.</li></ul>">
 
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Próbálja újra. A &brandShortName; megpróbál kapcsolatot nyitni, és újra letölteni az oldalt. <button id='wifi'>Kapcsolja be a Wi-Fi-t</button> </li></ul>">
 
 <!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Értesítse a webhely tulajdonosait erről a problémáról.</li> </ul>">

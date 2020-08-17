@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privát böngészés)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privát böngészés)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privát böngészés)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privát böngészés)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = Blokkolta a MIDI elérést ezen az oldalon.
 urlbar-install-blocked =
     .tooltiptext = Blokkolta a kiegészítők telepítését erről az oldalról.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Könyvjelző szerkesztése ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,12 +180,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ezúttal keressen a következővel:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Keresési beállítások módosítása
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Keresési beállítások módosítása
+
 search-one-offs-context-open-new-tab =
     .label = Keresés új lapon
     .accesskey = r
@@ -191,6 +197,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Beállítás alapértelmezett keresőszolgáltatásként a privát ablakokban
     .accesskey = p
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -217,8 +224,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Szerkesztő megjelenítése mentéskor
     .accesskey = e
+
 bookmark-panel-done-button =
     .label = Kész
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -292,12 +301,15 @@ popup-select-microphone =
     .value = Megosztandó mikrofon:
     .accesskey = M
 popup-all-windows-shared = A képernyő minden látható ablaka meg lesz osztva.
+
 popup-screen-sharing-not-now =
     .label = Most nem
     .accesskey = n
+
 popup-screen-sharing-never =
     .label = Soha ne engedélyezze
     .accesskey = S
+
 popup-silence-notifications-checkbox = A { -brand-short-name } értesítéseinek kikapcsolása megosztás közben
 popup-silence-notifications-checkbox-warning = A { -brand-short-name } nem fog értesítéseket megjeleníteni megosztás közben.
 
@@ -314,23 +326,17 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Az F12 gyorsbillentyű használatához először nyissa meg fejlesztői eszközöket a Webfejlesztő menüben.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Keresés vagy cím
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Keresés vagy cím
-# This placeholder is used in search mode with search engines that search the
-# entire web.
-urlbar-placeholder-search-mode-web =
-    .placeholder = Keresés a weben
-# This placeholder is used in search mode with search engines that search a
-# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
-# tabs).
-urlbar-placeholder-search-mode-other =
-    .placeholder = Adja meg a keresési kifejezéseket
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -341,9 +347,11 @@ urlbar-permissions-granted =
     .tooltiptext = További engedélyeket adott ennek az oldalnak.
 urlbar-switch-to-tab =
     .value = Váltás erre a lapra:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Kiegészítő:
+
 urlbar-go-button =
     .tooltiptext = Ugrás a címmezőben levő címre
 urlbar-page-action-button =

@@ -60,30 +60,19 @@ abuse-report-messagebar-action-cancel = Mégse
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Kárt okoz a számítógépemben és adataimban
-
 abuse-report-damage-reason-v2 = Megrongálta a számítógépemet, vagy az adataim biztonsága sérült
 abuse-report-damage-example = Példa: kártékony szoftvert telepített vagy adatokat lopott
 
-abuse-report-spam-reason = Kéretlen tartalmat vagy reklámot hoz létre
-
 abuse-report-spam-reason-v2 = Spamet tartalmaz vagy nem kívánt hirdetéseket szúr be
 abuse-report-spam-example = Példa: Hirdetések beszúrása weboldalakba
-
-abuse-report-settings-reason = Módosította a keresőszolgáltatásomat, kezdőlapomat vagy az új lap oldalamat a tájékoztatásom vagy megkérdezésem nélkül
 
 abuse-report-settings-reason-v2 = Módosította a keresőszolgáltatásomat, kezdőlapomat vagy az új lap oldalamat a tájékoztatásom vagy megkérdezésem nélkül
 abuse-report-settings-suggestions = A kiegészítő bejelentése előtt megpróbálhatja megváltoztatni a beállításait:
 abuse-report-settings-suggestions-search = Módosítja az alapértelmezett keresési beállításokat
 abuse-report-settings-suggestions-homepage = Módosítja a kezdőlapot vagy az új lap oldalt
 
-abuse-report-deceptive-reason = Másnak tetteti magát, mint ami
-
 abuse-report-deceptive-reason-v2 = Másnak állítja magát, mint ami
 abuse-report-deceptive-example = Példa: Félrevezető leírás vagy képek
-
-abuse-report-broken-reason-extension = Nem működik, hibákat okoz weblapokon vagy lelassítja a { -brand-product-name } működését
-abuse-report-broken-reason-theme = Nem működik, vagy hibákat okoz a böngésző megjelenítésében
 
 abuse-report-broken-reason-extension-v2 = Nem működik, hibákat okoz weblapokon vagy lassítja a { -brand-product-name } működését
 abuse-report-broken-reason-theme-v2 = Nem működik, vagy hibákat okoz a böngésző megjelenítésében
@@ -97,15 +86,11 @@ abuse-report-broken-suggestions-theme =
     megoldásának az, hogy kapcsolatba lép a téma fejlesztőjével.
     <a data-l10n-name="support-link">Keresse fel a téma weboldalát</a> a fejlesztő információinak megtekintéséhez.
 
-abuse-report-policy-reason = Gyűlölködő, erőszakos vagy illegális tartalom
-
 abuse-report-policy-reason-v2 = Gyűlölködő, erőszakos vagy illegális tartalom van benne
 abuse-report-policy-suggestions =
     Megjegyzés: A szerzői jogi és védjegyekkel kapcsolatos problémákat egy külön folyamatban kell jelenteni.
     <a data-l10n-name="report-infringement-link">Használja ezeket az utasításokat</a> a
     probléma bejelentéséhez.
-
-abuse-report-unwanted-reason = Sosem akartam ezt a kiegészítőt, és nem tudok tőle megszabadulni.
 
 abuse-report-unwanted-reason-v2 = Soha nem akartam, és nem tudom, hogyan lehet megszabadulni tőle
 abuse-report-unwanted-example = Példa: Egy alkalmazás az engedélyem nélkül települt

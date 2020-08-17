@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "üzenetnél többet kellene letölteni">
 <!ENTITY alwaysAuthenticate.label "Hitelesítés kérése mindig, amikor ehhez a kiszolgálóhoz kapcsolódik">
 <!ENTITY alwaysAuthenticate.accesskey "H">
-<!ENTITY newsrcFilePath.label "newsrc fájl:">
-<!ENTITY newsrcPicker.label "Newsrc fájl kiválasztása">
 <!ENTITY newsrcFilePath1.label "News.rc-fájl:">
 <!ENTITY newsrcPicker1.label "Válasszon News.rc-fájlt">
 <!ENTITY abbreviate.label "Hírcsoportnevek megjelenítése a Levelezőmappák panelen:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Speciális…">
 <!ENTITY advancedButton.accesskey "c">
 <!ENTITY serverDefaultCharset2.label "Alapértelmezett szövegkódolás:">
-<!ENTITY localPath.label "Helyi könyvtár:">
 <!ENTITY localPath1.label "Helyi könyvtár:">
 <!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
 <!ENTITY browseFolder.label "Tallózás…">

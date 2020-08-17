@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Adatforrás pingelése:
-about-telemetry-show-current-ping-data = Aktuális ping adatok
 about-telemetry-show-current-data = Jelenlegi adatok
 about-telemetry-show-archived-ping-data = Archivált ping adatok
 about-telemetry-show-subsession-data = Almunkamenet adatainak megjelenítése
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = A telemetria { about-telemetry-data-type 
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Minden információcsomag „<a data-l10n-name="ping-link">ping</a>” csomagként kerül elküldésre. Jelenleg a következő ping látható: { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Minden információcsomag „<a data-l10n-name="ping-link">ping</a>” csomagként kerül elküldésre. Jelenleg a következő ping látható: jelenlegi.
 about-telemetry-data-details-current = Az információk „<a data-l10n-name="ping-link">pingekbe</a>” csomagolva kerülnek elküldésre. Ön a jelenlegi adatokat látja.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Elnézést, egyik szakaszban nincs talá
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Elnézést, jelenleg nincs elérhető adat itt: „{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = jelenlegi ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = jelenlegi adatok
 # used in the “Ping Type” select

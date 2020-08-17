@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Biztonság">
-<!ENTITY securityTab.label "Biztonság">
-<!ENTITY securityHeading.label "Az aláírt vagy titkosított üzenetek küldéséhez és fogadásához meg kell adnia a digitális aláírási és a titkosítási tanúsítványokat.">
-<!ENTITY encryptionGroupTitle.label "Titkosítás">
-<!ENTITY encryptionChoiceLabel.label "Titkosítás használata üzenetek küldésekor:">
-<!ENTITY neverEncrypt.label "Soha (ne használjon titkosítást)">
-<!ENTITY neverEncrypt.accesskey "S">
-<!ENTITY alwaysEncryptMessage.label "Mindig (ne engedje feladni az üzenetet, ha nincs minden címzettnek tanúsítványa)">
-<!ENTITY alwaysEncryptMessage.accesskey "M">
-<!ENTITY encryptionCert.message "Az alábbi tanúsítvány használata az Önnek küldött levelek titkosításához és visszafejtéséhez:">
-
 <!ENTITY e2eTitle.label "Végpontok közötti titkosítás">
-<!ENTITY e2eIntro.description "Titkosított vagy digitálisan aláírt üzenetek küldéséhez be kell állítania egy titkosítási technológiát, az OpenPGP-t vagy az S/MIME-ot.">
 <!ENTITY e2eLearnMore.label "További tudnivalók">
 
 <!ENTITY e2eEnc.description "Végpontok közötti titkosítás nélkül az üzenetek tartalma könnyen hozzáférhetővé válik az e-mail szolgáltatója, és a tömeges megfigyelések számára.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Törlés">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Digitális aláírás">
-<!ENTITY signMessage.label "Üzenetek digitális aláírása">
 <!ENTITY signMessage2.label "Alapértelmezés szerint adja hozzá a digitális aláírásomat">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Az alábbi tanúsítvány használata az Ön által küldött levelek aláírásához:">
-
-<!ENTITY certificates.label "Tanúsítványok">
-<!ENTITY manageCerts2.label "Tanúsítványok kezelése">
-<!ENTITY manageCerts2.accesskey "T">
-<!ENTITY manageDevices.label "Adatvédelmi eszközök">
-<!ENTITY manageDevices.accesskey "A">
 
 <!ENTITY signingCert2.message "Személyes tanúsítvány a digitális aláíráshoz:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "OpenPGP előnyben részesítése">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGP kulcsok kezelése">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Válassza ki a tanúsítványt">

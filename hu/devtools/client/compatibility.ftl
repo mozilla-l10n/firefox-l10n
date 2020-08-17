@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (elavult)
 compatibility-issue-experimental = (kísérleti)
 compatibility-issue-prefixneeded = (előtag szükséges)
 compatibility-issue-deprecated-experimental = (elavult, kísérleti)
+
 compatibility-issue-deprecated-prefixneeded = (elavult, előtag szükséges)
 compatibility-issue-experimental-prefixneeded = (kísérleti, előtag szükséges)
 compatibility-issue-deprecated-experimental-prefixneeded = (elavult, kísérleti, előtag szükséges)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } előfordulás
        *[other] { $number } előfordulás
     }
+
 compatibility-no-issues-found = Nem található kompatibilitási probléma.
 compatibility-close-settings-button =
     .title = Beállítások bezárása

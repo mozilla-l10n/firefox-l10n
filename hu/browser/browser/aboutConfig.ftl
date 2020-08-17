@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Itt sárkányok vannak!
-about-config-warning-text = Ezen speciális beállítások megváltoztatása káros hatással lehet az alkalmazás stabilitására, biztonságára vagy teljesítményére. Csak akkor folytassa, ha tisztában van azzal, hogy mit csinál.
-about-config-warning-checkbox = Emlékeztessen továbbra is
-about-config-warning-button = Elfogadom a kockázatot
-
-about-config2-title = Speciális beállítások
-
-about-config-search-input =
-    .placeholder = Keresés
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Óvatosan haladjon tovább
@@ -32,13 +21,6 @@ about-config-page-title = Speciális beállítások
 about-config-search-input1 =
     .placeholder = Beállításnév keresése
 about-config-show-all = Összes megjelenítése
-
-about-config-pref-add = Hozzáadás
-about-config-pref-toggle = Ki/be
-about-config-pref-edit = Szerkesztés
-about-config-pref-save = Mentés
-about-config-pref-reset = Visszaállítás
-about-config-pref-delete = Törlés
 
 about-config-pref-add-button =
     .title = Hozzáadás

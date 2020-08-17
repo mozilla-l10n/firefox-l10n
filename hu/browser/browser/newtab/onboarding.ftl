@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = További tudnivalók
-onboarding-button-label-try-now = Próbálja ki most
 onboarding-button-label-get-started = Kezdő lépések
 
 ## Welcome modal dialog strings
@@ -21,22 +20,24 @@ onboarding-button-label-get-started = Kezdő lépések
 onboarding-welcome-header = Üdvözli a { -brand-short-name }
 onboarding-welcome-body = Megvan a böngészője.<br/>Ismerkedjen meg a { -brand-product-name } család többi tagjával.
 onboarding-welcome-learn-more = További tudnivalók az előnyökről.
-onboarding-join-form-header = Csatlakozzon a { -brand-product-name }hoz
 onboarding-welcome-modal-get-body = Megvan a böngészője.<br/>Most pedig hozza ki a legtöbbet a { -brand-product-name }ból.
 onboarding-welcome-modal-supercharge-body = Turbózza fel a személyes adatvédelmét.
 onboarding-welcome-modal-privacy-body = Megvan a böngészője. Most adjunk hozzá még több adatvédelmet.
 onboarding-welcome-modal-family-learn-more = Tudjon meg többet a { -brand-product-name } termékcsaládról.
 onboarding-welcome-form-header = Kezdje itt
+
 onboarding-join-form-body = Kezdésként adja meg az e-mail címét.
 onboarding-join-form-email =
     .placeholder = Adja meg az e-mail címét
 onboarding-join-form-email-error = Érvényes e-mail cím szükséges
 onboarding-join-form-legal = A folytatással elfogadja a <a data-l10n-name="terms">Szolgáltatási feltételeket</a> és az <a data-l10n-name="privacy">Adatvédelmi nyilatkozatot</a>.
 onboarding-join-form-continue = Folytatás
+
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Már van fiókja?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Bejelentkezés
+
 onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-cards-dismiss =
     .title = Elutasítás
@@ -51,31 +52,38 @@ onboarding-multistage-welcome-subtitle = A gyors, biztonságos és privát böng
 onboarding-multistage-welcome-primary-button-label = Beállítás indítása
 onboarding-multistage-welcome-secondary-button-label = Bejelentkezés
 onboarding-multistage-welcome-secondary-button-text = Van már fiókja?
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Jelszavak, könyvjelzők és <span data-l10n-name="zap">egyebek</span> importálása
 onboarding-multistage-import-subtitle = Egy másik böngészőből érkezett? Könnyen áthozhat mindent a { -brand-short-name }ba.
 onboarding-multistage-import-primary-button-label = Importálás indítása
 onboarding-multistage-import-secondary-button-label = Most nem
+
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Az itt felsorolt webhelyek találhatók ezen az eszközön. A { -brand-short-name } nem menti vagy szinkronizálja az adatokat egy másik böngészőből, kivéve, ha úgy dönt, hogy importálja azokat.
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Első lépések: { $current }. képernyő / { $total }
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Válasszon egy <span data-l10n-name="zap">megjelenést</span>
 onboarding-multistage-theme-subtitle = Tegye egyedivé a { -brand-short-name }ot egy témával.
 onboarding-multistage-theme-primary-button-label = Téma mentése
 onboarding-multistage-theme-secondary-button-label = Most nem
+
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatikus
+
 # System refers to the operating system
 onboarding-multistage-theme-description-automatic = Rendszertéma használata
+
 onboarding-multistage-theme-label-light = Világos
 onboarding-multistage-theme-label-dark = Sötét
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -92,18 +100,21 @@ onboarding-multistage-theme-tooltip-automatic =
         Az operációs rendszer megjelenésének öröklése a
         gomboknál, menüknél és ablakoknál.
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light =
     .title =
         Világos megjelenés használata a gombokhoz,
         menükhöz és ablakokhoz.
     .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark =
     .title =
         Sötét megjelenés használata a gombokhoz,
         menükhöz és ablakokhoz.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow =
     .title =
@@ -122,8 +133,10 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Vigye magával a { -brand-product-name }ot
 onboarding-sync-welcome-content = Kapja meg a könyvjelzőit, előzményeit, jelszavait és egyéb beállításait az összes eszközén.
 onboarding-sync-welcome-learn-more-link = Ismerje meg a Firefox fiókokat
+
 onboarding-sync-form-input =
     .placeholder = E-mail
+
 onboarding-sync-form-continue-button = Folytatás
 onboarding-sync-form-skip-login-button = Lépés kihagyása
 
@@ -132,26 +145,28 @@ onboarding-sync-form-skip-login-button = Lépés kihagyása
 onboarding-sync-form-header = Adja meg az e-mail címét
 onboarding-sync-form-sub-header = és lépjen tovább a { -sync-brand-name }hez.
 
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Hasznos termékek
 onboarding-benefit-products-text = Végezze el a teendőit egy olyan eszközcsaláddal, amely tiszteletben tartja a magánszféráját az összes eszközén.
-onboarding-benefit-knowledge-title = Gyakorlati tudás
-onboarding-benefit-knowledge-text = Tudjon meg mindent, amit tudnia kell ahhoz, hogy okosabb legyen és nagyobb biztonságban legyen online.
-onboarding-benefit-privacy-title = Valódi adatvédelem
+
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Minden, amit teszünk, betartja a személyes adatokra vonatkozó ígéretünket: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.
+
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Vigye magával a könyvjelzőket, a jelszavakat, az előzményeket és még többet, bárhol is használja a { -brand-product-name }ot.
+
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Kapjon értesítést, ha a személyes adatai egy ismert adatsértésben szerepelnek.
+
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Kezelje a jelszavait, melyek védettek és hordozhatóak.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -160,62 +175,55 @@ onboarding-benefit-lockwise-text = Kezelje a jelszavait, melyek védettek és ho
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Privát böngészés
-onboarding-private-browsing-text = Böngésszen egyedül. A tartalomblokkolással ellátott privát böngészés blokkolja az online követőket, amelyek követik Önt a weben.
-onboarding-screenshots-title = Képernyőképek
-onboarding-screenshots-text = Készítsen, mentsen és osszon meg képernyőképeket – a { -brand-short-name } elhagyása nélkül. Rögzítsen egy területet vagy egy teljes lapot böngészés közben. Aztán mentse a webre a könnyű eléréshez és megosztáshoz.
-onboarding-addons-title = Kiegészítők
-onboarding-addons-text = A kiegészítők lehetővé teszik, hogy a { -brand-short-name } keményebben dolgozzon Önnek. Hasonlítson össze árakat, nézze meg az időjárást, vagy fejezze ki a személyiségét egy egyéni témával.
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Böngésszen gyorsabban, okosabban vagy biztonságosabban az olyan kiegészítőkkel mint a Ghostery, amelyekkel blokkolhatja az idegesítő reklámokat.
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Szinkronizálás
-onboarding-fxa-text = Regisztráljon egy { -fxaccount-brand-name }ot, és szinkronizálja a könyvjelzőit, jelszavait és nyitott lapjait bárhol, ahol { -brand-short-name }ot használ.
 onboarding-tracking-protection-title2 = Védelem a nyomon követés ellen
 onboarding-tracking-protection-text2 = A { -brand-short-name } segít megakadályozni, hogy a webhelyek nyomon követhessék Önt online, így nehezebbé teszi, hogy a hirdetések kövessék a weben.
 onboarding-tracking-protection-button2 = Hogyan működik
+
 onboarding-data-sync-title = Vigye magával a beállításait
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Szinkronizálja a könyvjelzőket, a jelszavakat és még többet, bárhol is használja a { -brand-product-name }ot.
 onboarding-data-sync-button2 = Jelentkezzen be a { -sync-brand-short-name }be
+
 onboarding-firefox-monitor-title = Figyeljen az adatszegésekre
-onboarding-firefox-monitor-text = A { -monitor-brand-name } figyeli, hogy az e-mail címe megjelent-e egy adatszegésben, és figyelmezteti Önt, ha az egy új adatszegésben jelenik meg.
 onboarding-firefox-monitor-text2 = A { -monitor-brand-name } figyeli, hogy az e-mail címe megjelent-e egy ismert adatsértésben, és figyelmezteti Önt, ha az egy új adatsértésben jelenik meg.
 onboarding-firefox-monitor-button = Iratkozzon fel a figyelmeztetésekre
+
 onboarding-browse-privately-title = Böngésszen privát módon
 onboarding-browse-privately-text = A privát böngészés törli a keresési és böngészési előzményeket, hogy titokban tartsa azokat azoktól, akik a számítógépét használják.
 onboarding-browse-privately-button = Privát ablak megnyitása
+
 onboarding-firefox-send-title = Tárolja bizalmasan a megosztott fájljait
 onboarding-firefox-send-text2 = Töltse fel a fájljait a { -send-brand-name } segítségével, és ossza meg azokat végpontok közötti titkosítással és egy automatikusan lejáró hivatkozással.
 onboarding-firefox-send-button = Próbálja ki a { -send-brand-name }et
+
 onboarding-mobile-phone-title = Szerezze be a { -brand-product-name } alkalmazást a telefonján
 onboarding-mobile-phone-text = Töltse le a { -brand-product-name } alkalmazást iOS-re vagy Androidra, és szinkronizálja az adatait az eszközei között.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Mobilböngésző letöltése
+
 onboarding-send-tabs-title = Küldjön lapokat magának azonnal
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text = A Lapok küldése azonnal megosztja a lapokat az eszközei között, anélkül hogy másolni, beillesztenie kellene, vagy elhagynia a böngészőt.
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Osszon meg könnyedén lapokat az eszközei között anélkül, hogy hivatkozásokat kellene másolnia, vagy el kellene hagyni a böngészőt.
 onboarding-send-tabs-button = Kezdje el használni a lapok küldését
+
 onboarding-pocket-anywhere-title = Olvasson és hallgasson bárhol
 onboarding-pocket-anywhere-text2 = Mentse le a kedvenc tartalmait a { -pocket-brand-name } alkalmazással, és olvassa el, hallgassa meg vagy nézze meg, amikor az Ön számára kényelmes.
 onboarding-pocket-anywhere-button = Próbálja ki a { -pocket-brand-name }et
-onboarding-lockwise-passwords-title = Vigye el a jelszavait mindenhová
-onboarding-lockwise-passwords-text2 = Tartsa biztonságban a mentett jelszavait és jelentkezzen be egyszerűen a fiókjaiba a { -lockwise-brand-name } segítségével.
-onboarding-lockwise-passwords-button2 = Alkalmazás beszerzése
+
 onboarding-lockwise-strong-passwords-title = Hozzon létre és tároljon erős jelszavakat
 onboarding-lockwise-strong-passwords-text = A { -lockwise-brand-name } erős jelszavakat hoz létre, és mindegyiket egy helyre menti.
 onboarding-lockwise-strong-passwords-button = Kezelje a bejelentkezéseit
+
 onboarding-facebook-container-title = Állítson be korlátokat a Facebookkal
 onboarding-facebook-container-text2 = A { -facebook-container-brand-name } elkülöníti a profilját minden mástól, ami nehezebbé teszi, hogy a Facebook célzott hirdetéseket küldjön Önnek.
 onboarding-facebook-container-button = A kiegészítő hozzáadása
+
 onboarding-import-browser-settings-title = Importálja könyvjelzőit, jelszavait és egyebeit
 onboarding-import-browser-settings-text = Merüljön bele azonnal – hozza magával a Chrome webhelyeit és beállításait.
 onboarding-import-browser-settings-button = Chrome adatok importálása
+
 onboarding-personal-data-promise-title = Tervezett adatvédelem
 onboarding-personal-data-promise-text = A { -brand-product-name } tiszteletben tartja az adatait azáltal, hogy kevesebbet gyűjt be, megvédi azokat, és világosan közli, hogy hogyan használjuk fel.
 onboarding-personal-data-promise-button = Olvassa el az ígéretünket
@@ -223,6 +231,7 @@ onboarding-personal-data-promise-button = Olvassa el az ígéretünket
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Nagyszerű, már van { -brand-short-name }a
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:

@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "A mintavételezett függvény neve és helye.">
 <!ENTITY performanceUI.table.totalAlloc               "Mintavételezett foglalások összesen">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Ezen a helyen és hívottakban mintavételezett objektumfoglalások teljes száma.">
-<!ENTITY performanceUI.table.selfAlloc                "Ön-mintavételezett foglalások">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Ezen a helyen mintavételezett objektumfoglalások száma.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 
