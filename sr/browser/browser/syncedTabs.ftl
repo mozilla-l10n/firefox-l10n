@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Синхронизовани језичци
 synced-tabs-sidebar-noclients-subtitle = Желите да овде видите језичке са осталих уређаја?
-synced-tabs-sidebar-notsignedin = Пријавите се да видите листу језичака са других уређаја.
 synced-tabs-sidebar-intro = Погледајте списак језичака с ваших других уређаја
 synced-tabs-sidebar-unverified = Ваш налог мора бити потврђен.
 synced-tabs-sidebar-notabs = Нема отворених језичака

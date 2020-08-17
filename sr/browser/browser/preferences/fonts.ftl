@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Фонтови
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Фонтови за
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = арапски
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Сразмерно
     .accesskey = P
+
 fonts-default-serif =
     .label = Серифни
 fonts-default-sans-serif =
     .label = Без серифа
+
 fonts-proportional-size = Величина
     .accesskey = В
+
 fonts-serif = Серифни
     .accesskey = С
+
 fonts-sans-serif = Безсерифни
     .accesskey = Б
+
 fonts-monospace = Ширине
     .accesskey = Ш
+
 fonts-monospace-size = Величина
     .accesskey = е
+
 fonts-minsize = Најмања величина фонта
     .accesskey = о
+
 fonts-minsize-none =
     .label = ниједна
+
 fonts-allow-own =
     .label = Дозволи страницама да изаберу сопствене фонтове, уместо дефинисаних
     .accesskey = Д
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кодирање текста за застарели садржај
 fonts-languages-fallback-desc = Ово кодирање текста се користи за застарели садражај који не успева да декларише кодирање.
+
 fonts-languages-fallback-label = Одступно кодирање текста
     .accesskey = т
+
 fonts-languages-fallback-name-auto =
     .label = Подразумевано за овај локал
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = вијетнамски
 fonts-languages-fallback-name-other =
     .label = други (са западноевропским)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

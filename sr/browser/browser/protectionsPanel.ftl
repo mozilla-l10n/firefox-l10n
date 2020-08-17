@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Дошло је до грешке приликом слања извештаја. Покушајте поново касније.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Страница је поправљена? Пошаљите извештај
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Стандардно
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Више података о побољшаној заштити од праћења
+
 protections-panel-etp-on-header = Побољшана заштита од праћења је УКЉУЧЕНА на овој страници
 protections-panel-etp-off-header = Побољшана заштита од праћења је ИСКЉУЧЕНА на овој страници
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Страница не ради?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Страница не ради?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Сви програми з�
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name } није уочио познате пратиоце на овој страници.
+
 protections-panel-content-blocking-tracking-protection = Садржаји који прате
+
 protections-panel-content-blocking-socialblock = Пратиоци с друштвених мрежа
 protections-panel-content-blocking-cryptominers-label = Крипто-рудари
 protections-panel-content-blocking-fingerprinters-label = Хватачи отиска
@@ -65,12 +71,14 @@ protections-panel-protectionsdashboard-label = Сигурносна команд
 
 # The header of the list
 protections-panel-site-not-working-view-header = Искључите заштиту ако имате проблеме са ставкама:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Поља за пријаву
 protections-panel-site-not-working-view-issue-list-forms = Обрасци
 protections-panel-site-not-working-view-issue-list-payments = Плаћања
 protections-panel-site-not-working-view-issue-list-comments = Коментари
 protections-panel-site-not-working-view-issue-list-videos = Видео записи
+
 protections-panel-site-not-working-view-send-report = Пошаљите извештај
 
 ##
@@ -80,9 +88,11 @@ protections-panel-cryptominers = Рудари криптовалута кори�
 protections-panel-fingerprinters = Идентификатори отисака прстију прикупљају подешавања вашег прегледача и рачунара како би створили ваш профил. Помоћу овог дигиталног отиска прста вас могу пратити преко различитих веб страница.
 protections-panel-tracking-content = Веб странице могу учитавати вањске огласе, видео записе и други садржај који садржи код за праћење. Блокирање садржаја за праћење може убрзати учитавање страница, али неки тастери, обрасци и поља за пријаву можда неће радити исправно.
 protections-panel-social-media-trackers = Друштвене мреже постављају софтвер за праћење на друге веб странице како би пратили шта радите, читате или гледате на мрежи. То друштвеним мрежама омогућава да о вама сазна много више од онога што делите на својим профилима.
+
 protections-panel-content-blocking-manage-settings =
     .label = Управљајте подешавањима заштите
     .accesskey = М
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Пријавите неисправан сајт
 protections-panel-content-blocking-breakage-report-view-description = Блокирање неких софтвера за праћење може изазвати проблеме на појединим веб страницама. Пријављивањем оваквих проблема можете помоћи { -brand-short-name } да пружи боље искуство свима. Слање повратних података шаље Mozilla-и адресу веб странице и податке о прегледачу. <label data-l10n-name="learn-more">Сазнајте више</label>

@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Иконице поред текста">
 <!ENTITY useSmallIcons.label      "Користи мале иконице">
 <!ENTITY restoreDefaultSet.label  "Врати подразумевани комплет">
-<!ENTITY addNewToolbar.label      "Додај нову алатну траку">
-<!ENTITY showTitlebar.label       "Прикажи насловну траку">
-<!ENTITY extraDragSpace.label     "Додај зону превлачења">
 <!ENTITY showTitlebar2.label      "Насловна трака">
 <!ENTITY extraDragSpace2.label    "Превуци простор">
 <!ENTITY saveChanges.label        "Готово">

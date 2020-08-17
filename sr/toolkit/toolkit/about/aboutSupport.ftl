@@ -7,6 +7,7 @@ page-subtitle =
     Ова страница садржи техничке податке који могу бити корисни када
     покушавате да решите неки проблем. Ако вам требају одговори на често постављана питања
     о програму { -brand-short-name }, прегледајте наш <a data-l10n-name="support-link">веб сајт за подршку</a>.
+
 crashes-title = Извештаји о рушењу
 crashes-id = ID извештаја
 crashes-send-date = Поднесено
@@ -107,8 +108,6 @@ graphics-desktop-environment = Радно окружење
 place-database-title = База података локација
 place-database-integrity = Интегритет
 place-database-verify-integrity = Потврди интегритет
-js-title = JavaScript
-js-incremental-gc = Инкрементални GC
 a11y-title = Приступачност
 a11y-activated = Активирана
 a11y-force-disabled = Спречи приступачност
@@ -128,6 +127,7 @@ sandbox-sys-call-number = Системски позив
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
+
 clear-startup-cache-title = Покушајте да избришете предмеморију покретања
 clear-startup-cache-label = Избриши предмеморију покретања…
 startup-cache-dialog-title = Избриши предмеморију покретања
@@ -138,7 +138,6 @@ restart-button-label = Поново покрени
 
 audio-backend = Audio Backend
 max-audio-channels = Највише канала
-channel-layout = Жељени распоред канала
 sample-rate = Жељена стопа семпла
 roundtrip-latency = Латенција у повратном правцу (стандардна девијација)
 media-title = Медиј
@@ -192,6 +191,7 @@ report-crash-for-days =
         [few] Извештаји о рушењу у последња { $days } дана
        *[other] Извештаји о рушењу у последњих { $days } дана
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -200,6 +200,7 @@ crashes-time-minutes =
         [few] Пре { $minutes } минута
        *[other] Пре { $minutes } минута
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -208,6 +209,7 @@ crashes-time-hours =
         [few] Пре { $hours } сата
        *[other] Пре { $hours } сати
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -216,6 +218,7 @@ crashes-time-days =
         [few] Пре { $days } дана
        *[other] Пре { $days } дана
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -224,6 +227,7 @@ pending-reports =
         [few] Сви извештаји о рушењу(укључујући { $reports } који чекају да буду послати)
        *[other] Сви извештаји о рушењу(укључујући { $reports } који чекају да буду послати)
     }
+
 raw-data-copied = Подаци копирани у бележницу
 text-copied = Текст копиран у бележницу
 
@@ -236,9 +240,11 @@ blocked-mismatched-version = Блокирана верзија драјвера 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Блокирано за верзију драјвера графике коју имате. Покушајте да ажурирате управљачки програм на верзију { $driverVersion } или новију.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType параметри
+
 compositing = Састављање
 hardware-h264 = Hardware H264 декодирање
 main-thread-no-omtc = главна нит, без OMTC
@@ -253,6 +259,7 @@ virtual-monitor-disp = Приказ виртуелног монитора
 
 found = Пронађено
 missing = Недостаје
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Опис
@@ -276,21 +283,25 @@ webgl2-version = WebGL 2 верзија драјвера
 webgl2-driver-extensions = WebGL 2 екстензија драјвера
 webgl2-extensions = WebGL 2 екстензије
 blocklisted-bug = На црној листи због познатих проблема
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = грешка { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Блокирано због познатих проблема: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = На црној листи; код грешке { $failureCode }
+
 d3d11layers-crash-guard = D3D11 композитор
 d3d11video-crash-guard = D3D11 видео декодер
-d3d9video-crash-buard = D3D9 видео декодер
 d3d9video-crash-guard = D3D9 видео декодер
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX видео декодер
+
 reset-on-next-restart = Ресетуј при следећем покретању
 gpu-process-kill-button = Угаси GPU процес
 gpu-device-reset = Поновно покретање уређаја
@@ -300,8 +311,10 @@ content-uses-tiling = Користи плочице (садржај)
 off-main-thread-paint-enabled = Нит за сликање омогућена
 off-main-thread-paint-worker-count = Thread Painting Worker бројач
 target-frame-rate = Циљана брзина освежавања тј. Framerate
+
 min-lib-versions = Очекивано минимално издање
 loaded-lib-versions = Издање у употреби
+
 has-seccomp-bpf = Seccomp-BPF (Системско филтрирање позива)
 has-seccomp-tsync = Seccomp синхронизација нити
 has-user-namespaces = Именски простор корисника
@@ -314,15 +327,18 @@ sandbox-proc-type-content = садржај
 sandbox-proc-type-file = садржај дадотеке
 sandbox-proc-type-media-plugin = медија прикључак
 sandbox-proc-type-data-decoder = декодер података
+
 startup-cache-title = Кеш покретања
 startup-cache-disk-cache-path = Путања до дисковног кеша
 startup-cache-ignore-disk-cache = Игноришите дисковни кеш
 startup-cache-found-disk-cache-on-init = Дисковни кеш пронађен током иницијализације
 startup-cache-wrote-to-disk-cache = Записано у дисковни кеш
+
 launcher-process-status-0 = Омогућено
 launcher-process-status-1 = Онемогућено због грешке
 launcher-process-status-2 = Онемогућен силом
 launcher-process-status-unknown = Непознат статус
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -335,6 +351,7 @@ multi-process-status-6 = Онемогућено од стране неподрж
 multi-process-status-7 = Онемогућено од стране додатака
 multi-process-status-8 = Присилно онемогућено
 multi-process-status-unknown = Непознат статус
+
 async-pan-zoom = Асинхроно кретање/увеличавање
 apz-none = нема
 wheel-enabled = унос точкића омогућен

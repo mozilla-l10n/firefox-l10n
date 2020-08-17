@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = Управљајте вашим додац�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволите рад овог проширења у приватним прозорима
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Промените на проширења у приватном прозору
-    .buttonlabel = Управљај проширењима
-    .buttonaccesskey = M
-    .secondarybuttonlabel = У реду, разумем
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Све нове екстензије које додате у { -brand-shorter-name } неће радити у приватним прозорима осим ако то не дозволите у подешавањима екстензије.
-appmenu-addon-private-browsing-learn-more = Научите како управљати подешавањима проширења
+    
 appmenu-new-tab-controlled =
     .label = Ваша страница новог језичка се променила.
     .buttonlabel = Задржи промене

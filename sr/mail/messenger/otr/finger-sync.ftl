@@ -4,6 +4,8 @@
 
 finger-yes = Потврђен
 finger-no = Непотврђен
+
 finger-subset-title = Уклони отиске
 finger-subset-message = Барем један отисак се не може уклонити зато што се припадајући кључ тренутно користи у већ постојећем разговору.
+
 finger-remove-all-title = Уклони све отиске

@@ -21,6 +21,9 @@ change-password-reenter = Нова лозинка (још једном):
 reset-password-window =
     .title = Ресетуј главну лозинку
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Ресетуј
 reset-password-text = Ако ресетујете главну лозинку, све сачуване лозинке за интернет и е-пошту, садржаји формулара, лични сертификати и кључеви биће "изгубљени". Да ли заиста желите ресетовати своју главну лозинку?

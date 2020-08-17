@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Унесите исправно име хост�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Изузеци - блокирање садржаја
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Онемогућили сте блокирање садржаја на овим веб сајтовима.
-
 permissions-exceptions-etp-window =
     .title = Изузеци од побољшане заштите од праћења
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Можете да одредите којим веб сајтовима је дозвољено да инсталирају додатке. Укуцајте тачну адресу сајта којем желите да дозволите и притисните на Дозволи.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Изузеци - Аутоматска репродукција
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Можете одредити који веб сајтови ће увек или никад омогућити аутоматско пуштање медија са звуком. Унесите адресу сајта којим желите да управљате и кликните Блокирај или Омогући.
 
 ## Site Permissions - Autoplay
 
