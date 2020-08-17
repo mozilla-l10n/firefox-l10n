@@ -8,8 +8,10 @@ password-quality-meter = Valitaziun da la qualitad dal pled-clav
 
 change-password-window =
     .title = Midar il pled-clav universal
+
 change-device-password-window =
     .title = Midar il pled-clav
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Modul da criptografia: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Pled-clav nov (repeter):
 reset-password-window =
     .title = Redefinir il pled-clav universal
     .style = width: 40em
+
 pippki-failed-pw-change = Impussibel da midar il pled-clav.
 pippki-incorrect-pw = Ti n'has betg endatà il dretg pled-clav actual. Emprova anc ina giada.
 pippki-pw-change-ok = Midà cun success il pled-clav.
+
 pippki-pw-empty-warning = Tes pleds-clav memorisads e tias clavs privatas na vegnan betg protegids.
 pippki-pw-erased-ok = Ti has stizzà tes pled-clav. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Attenziun! Ti has decidì da betg utilisar in pled-clav. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav (betg vid).
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Redefinir
 reset-password-text = Sche tes pled-clav universal vegn redefinì, perdas ti tut tes pleds-clav memorisads da web e dad e-mail, tias datas da formulars, tes certificats persunals e tias clavs privatas. Vuls ti tuttina redefinir tes pled-clav universal?
+
 reset-primary-password-text = Sche tes pled-clav universal vegn redefinì, perdas ti tut tes pleds-clav memorisads da web e dad e-mail, tes certificats persunals e tias clavs privatas. Vuls ti propi redefinir tes pled-clav universal?
+
 pippki-reset-password-confirmation-title = Redefinir il pled-clav universal
 pippki-reset-password-confirmation-message = Tes pled-clav universal è vegnì redefinì.
 

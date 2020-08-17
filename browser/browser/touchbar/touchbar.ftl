@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Bandunar il modus da maletg entir
 find = Tschertgar
 new-tab = Nov tab
 add-bookmark = Agiuntar in segnapagina
-open-bookmarks-sidebar = Avrir la trav laterala da segnapaginas
 reader-view = Vista da lectura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Tschertgar u endatar in'adressa

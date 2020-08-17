@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importar opziuns, segnapaginas, cronologia, pleds-clav ed autras datas da:">
 <!ENTITY importFromUnix.label           "Importar preferenzas, segnapaginas, cronologia, pleds-clav ed autras datas da:">
-<!ENTITY importFromBookmarks.label      "Importar ils segnapaginas da:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

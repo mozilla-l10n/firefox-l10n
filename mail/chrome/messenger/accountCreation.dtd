@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Configurar in conto dad e-mail existent">
-
 <!ENTITY emailWizard.title               "Configurar tia adressa dad e-mail existenta">
 <!ENTITY emailWizard.caption             "Utilisar tia adressa dad e-mail actuala">
 <!ENTITY name.label                      "Tes num:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Prenum Num">
 <!ENTITY fullname.placeholder            "Tes num cumplet">
 <!ENTITY name.text                       "Tes num, uschia co el duai vegnir mussà ad auters">
 <!ENTITY name.error                      "Endatescha per plaschair tes num">
 <!ENTITY email.label                     "Adressa dad e-mail:">
 <!ENTITY email.accesskey                 "a">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "ti@example.com">
 <!ENTITY email3.placeholder              "Tia adressa dad e-mail">
 <!ENTITY email.text                      "Tia adressa dad e-mail existenta">
 <!ENTITY email.error                     "Adressa dad e-mail nunvalida">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Sortida:">
 <!ENTITY outgoingColumn.label            "Posta che sorta">
 <!ENTITY username.label                  "Num d'utilisader:">
-<!ENTITY hostname.label                  "Num da host dal server">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Retestar">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Configuraziun manuala">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Configurar manualmain…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Ir per ina nova adressa dad e-mail…">

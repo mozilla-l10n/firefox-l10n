@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Modifitgar">
 <!ENTITY editMenu.accesskey                             "M">
-<!ENTITY undoCmd.label                                  "Revocar">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "v">
-<!ENTITY redoCmd.label                                  "Restituir">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "s">
-<!ENTITY cutCmd.label                                   "Tagliar ora">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copiar">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Encollar">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Stizzar">
-<!ENTITY deleteCmd.accesskey                            "z">
 <!ENTITY deleteAbCmd.label                              "Stizzar il cudeschet d'adressas">
 <!ENTITY deleteContactCmd.label                         "Stizzar il contact">
 <!ENTITY deleteContactsCmd.label                        "Stizzar ils contacts">
 <!ENTITY deleteListCmd.label                            "Stizzar la glista">
 <!ENTITY deleteListsCmd.label                           "Stizzar las glistas">
 <!ENTITY deleteItemsCmd.label                           "Stizzar elements">
-<!ENTITY selectAllCmd.label                             "Marcar tut">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "A">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Stgamiar num e prenum">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "g">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Caracteristicas">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

@@ -14,5 +14,7 @@ accounts-conn-security = Segirezza da la connexiun
 accounts-auth-method = Metoda d'autentificaziun
 accounts-default = Standard?
 identity-name = Identitad
+
 send-via-email = Trametter via e-mail
+
 app-basics-telemetry = Datas da telemetria

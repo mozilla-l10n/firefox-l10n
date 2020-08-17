@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Encollar senza formataziuns">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Encollar sco">
-<!ENTITY pasteAs.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.label "Encollar sco citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Tschertgar…">
-<!ENTITY findReplaceCmd.label "Tschertgar e remplazzar…">
-<!ENTITY enableInlineSpellChecker.label "Controllar l'ortografia durant tippar">
-<!ENTITY enableInlineSpellChecker.accesskey "t">
-<!ENTITY checkSpellingCmd2.label "Controllar l'ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "C">
-<!ENTITY checkSpellingCmd2.key "P">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserir">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text normal">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Caracteristicas extendidas">
-<!ENTITY advancedPropertiesCmd.accesskey "x">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Alingiar">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "En bloc">
 <!ENTITY alignJustify.accesskey "b">
 <!ENTITY alignJustify.tooltip "Alingiar en bloc">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Stresa">
-<!ENTITY layerSendToBack.tooltip "Metter en il fund davos">
-<!ENTITY layerBringToFront.tooltip "Trair en il fund davant">
 
 <!ENTITY increaseIndent.label "Augmentar l'incisiun">
 <!ENTITY increaseIndent.accesskey "A">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Caracteristicas da la tabella…">
 <!ENTITY tableProperties.accesskey "C">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Trav da menus">
-<!ENTITY formatToolbar.tooltip "Trav d'utensils da formataziun">
-<!ENTITY cutToolbarCmd.tooltip "Tagliar ora">
-<!ENTITY copyToolbarCmd.tooltip "Copiar">
-<!ENTITY pasteToolbarCmd.tooltip "Encollar">
-<!ENTITY printToolbarCmd.label "Stampar">
-<!ENTITY printToolbarCmd.tooltip "Stampar questa pagina">
-<!ENTITY findToolbarCmd.label "Tschertgar">
-<!ENTITY findToolbarCmd.tooltip "Tschertgar text en la pagina">
-<!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Controllar l'ortografia da la selecziun u da l'entira pagina">
-
 <!ENTITY imageToolbarCmd.label "Grafica">
 <!ENTITY imageToolbarCmd.tooltip "Inserir ina nova grafica u modifitgar las caracteristicas da la grafica selecziunada">
 <!ENTITY hruleToolbarCmd.label "Lingia">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserir ina nova ancra cun num u modifitgar las caracteristicas da l'ancra selecziunada">
 <!ENTITY TextColorButton.tooltip "Tscherner ina colur per il text">
 <!ENTITY BackgroundColorButton.tooltip "Tscherner ina colur per il fund davos">
-<!ENTITY throbber.tooltip2 "Visitar la pagina iniziala da &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Tscherner ina colur per text relevà">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definir la grondezza da scrittira">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Centrar il text">
 <!ENTITY alignRightButton.tooltip "Alingiar il text a l'ur dretg">
 <!ENTITY alignJustifyButton.tooltip "Alingiar il text a l'ur sanester ed a l'ur dretg">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Tscherner">
-<!ENTITY structSelect.accesskey     "T">
-<!ENTITY structRemoveTag.label      "Allontanar il tag">
-<!ENTITY structRemoveTag.accesskey  "A">
-<!ENTITY structChangeTag.label      "Midar il tag">
-<!ENTITY structChangeTag.accesskey  "M">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserir">

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Funtauna da datas da ping:
-about-telemetry-show-current-ping-data = Datas da ping actualas
 about-telemetry-show-current-data = Datas actualas
 about-telemetry-show-archived-ping-data = Datas da ping archivadas
 about-telemetry-show-subsession-data = Mussar datas da sesidas subordinadas
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = La telemetria rimna las { about-telemetry
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas il ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas il ping actual.
 about-telemetry-data-details-current = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas las datas actualas.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Perstgisa! Nagins resultats per «{ $sea
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Perstgisa! Naginas datas n'èn disponiblas en «{ $sectionName }»
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping actual
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = datas actualas
 # used in the “Ping Type” select

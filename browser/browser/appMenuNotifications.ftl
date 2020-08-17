@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Administrescha tes supplements cun cliccar 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permetter a questa extensiun dad esser activa en fanestras privatas
     .accesskey = a
-appmenu-addon-private-browsing =
-    .label = Midar a extensiuns en fanestras privatas
-    .buttonlabel = Administrar las extensiuns
-    .buttonaccesskey = A
-    .secondarybuttonlabel = Ok, chapì
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Mintga nova extensiun che ti agiunteschas a { -brand-shorter-name } na vegn betg a funcziunar en fanestras privatas avant che ti permettias quai en ils parameters.
-appmenu-addon-private-browsing-learn-more = Vegnir a savair co administrar ils parameters da las extensiuns.
     
 appmenu-new-tab-controlled =
     .label = La pagina «Nov tab» è vegnida midada.

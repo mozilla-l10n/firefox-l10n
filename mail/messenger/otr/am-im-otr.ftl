@@ -23,4 +23,6 @@ otr-require-encryption-info =
     na vegnan betg mussads sco part da la conversaziun regulara e n'era betg protocollads.
 otr-verifyNudge =
     .label = Adina ma regurdar da verifitgar in contact betg verifitgà
+
 otr-notYetAvailable = anc betg disponibel
+

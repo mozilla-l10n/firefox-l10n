@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Emprova quai: Fixar quest tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
+
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
+
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixar quest tab
     .accesskey = F
+
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
     .accesskey = B
+
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = da { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recumandaziun
 cfr-doorhanger-extension-notification2 = Recumandaziun
     .tooltiptext = Recumandaziun dad extensiun
     .a11y-announcement = Ina recumandaziun per ina extensiun è disponibla
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recumandaziun
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilisader
        *[other] { $total } utilisaders
     }
+
 cfr-doorhanger-pintab-description = Acceda a moda simpla a las paginas che ti visitas il pli savens. Las tegna avert en in tab (schizunt suenter avair reavià).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Acceda a moda simpla a las paginas che ti vi
 cfr-doorhanger-pintab-step1 = <b>Clicca cun la tasta dretga da la mieur</b> sin il tab che ti vuls fixar.
 cfr-doorhanger-pintab-step2 = Tscherna <b>Fixar il tab</b> en il menu.
 cfr-doorhanger-pintab-step3 = Sche la pagina è vegnida actualisada vesas ti in punct blau sin il tab fixà.
+
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Cuntinuar
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcziunalitad:
+
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
+
 cfr-whatsnew-panel-header = Novaziuns
+
 cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
+
 cfr-whatsnew-fx70-title = { -brand-short-name } cumbatta ussa anc pli ferm per tia sfera privata
 cfr-whatsnew-fx70-body = L'ultima actualisaziun augmenta la funcziun da protecziun cunter il fastizar e ta gida da crear a moda simpla pleds-clav segirs per mintga website.
+
 cfr-whatsnew-tracking-protect-title = Ta protegia dals fastizaders
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochescha blers fastizaders socials ed interpaginals frequents che registreschan tias activitads online.
 cfr-whatsnew-tracking-protect-link-text = Vesair tes rapport
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Dapi { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vesair il rapport
+
 cfr-whatsnew-lockwise-backup-title = Segirescha tes pleds-clav
 cfr-whatsnew-lockwise-backup-body = Generescha ussa pleds-clav segirs als quals ti pos acceder cun mintga apparat connectà cun tes conto.
 cfr-whatsnew-lockwise-backup-link-text = Activescha copias da segirezza
+
 cfr-whatsnew-lockwise-take-title = Prenda tes pleds-clav cun tai
 cfr-whatsnew-lockwise-take-body = L'app mobila { -lockwise-brand-short-name } ta permetta dad acceder a moda segira als pleds-clav memorisads, nua ch'i saja.
 cfr-whatsnew-lockwise-take-link-text = Ir per l'app
@@ -145,6 +164,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Bloccà improntaders
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochescha blers improntaders (fingerprinters) che rimnan adascus infurmaziuns davart tes apparat e tias acziuns per crear in profil da reclama da tai.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Improntaders
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } po bloccar improntaders (fingerprinters) che rimnan adascus infurmaziuns davart tes apparat e tias acziuns per crear in profil da reclama da tai.
@@ -205,6 +225,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vesair tut
     .accesskey = s
+
 cfr-doorhanger-milestone-close-button = Serrar
     .accesskey = S
 

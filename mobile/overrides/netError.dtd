@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Il document dumandà n'è betg disponibel en il cache da &brandShortName;.</p><ul><li>Sco mesira da precauziun na rechargia &brandShortName; betg automaticamain documents sensibels.</li><li>Clicca sin 'Empruvar danovamain' per rechargiar il document da la website.</li></ul>">
 
 <!ENTITY netOffline.title "Modus offline">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Emprova anc ina giada. &brandShortName; emprova dad avrir ina connexiun e rechargiar la pagina.
-    <button id='wifi'>Activar WLAN</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Cuntegn cun codaziun nunvalida">
 <!ENTITY contentEncodingError.longDesc "
