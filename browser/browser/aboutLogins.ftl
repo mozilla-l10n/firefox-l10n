@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Hämta den på Google Play
 login-app-promo-apple =
     .alt = Ladda ned i App Store
+
 login-filter =
     .placeholder = Sök inloggningar
+
 create-login-button = Skapa ny inloggning
+
 fxaccounts-sign-in-text = Få dina lösenord på dina andra enheter
 fxaccounts-sign-in-button = Logga in på { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Letar du efter dina sparade inloggningar? Konfigurera{ -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Letar du efter dina sparade inloggningar? Konfigurera { -sync-brand-short-name } eller importera dem.
 about-logins-login-intro-heading-logged-in = Inga synkroniserade inloggningar hittades.
 login-intro-description = Om du sparat dina inloggningar i { -brand-product-name } på en annan enhet, så här får du dem hit:
@@ -75,6 +79,7 @@ login-intro-instruction-fxa = Skapa eller logga in på ditt { -fxaccount-brand-n
 login-intro-instruction-fxa-settings = Se till att du har markerat kryssrutan för inloggningar i { -sync-brand-short-name } inställningar
 about-logins-intro-instruction-help = Besök <a data-l10n-name="help-link">{ -lockwise-brand-short-name } support</a> för mer hjälp
 about-logins-intro-import = Om dina inloggningar finns sparade i en annan webbläsare kan du <a data-l10n-name="import-link">importera dem till { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Om dina inloggningar sparas utanför { -brand-product-name } kan du  <a data-l10n-name="import-browser-link">importera dem från en annan webbläsare</a> eller <a data-l10n-name="import-file-link">från en fil</a>
 
 ## Login
@@ -115,25 +120,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Om du vill redigera din inl
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigera den sparade inloggningen
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ange dina inloggningsuppgifter för Windows för att se ditt lösenord. Detta skyddar dina kontons säkerhet.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = visa det sparade lösenordet
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Om du vill kopiera ditt lösenord anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiera det sparade lösenordet
+
+## Master Password notification
+
+master-password-notification-message = Ange ditt huvudlösenord för att se sparade inloggningar och lösenord
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = För att exportera dina inloggningar anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportera sparade inloggningar och lösenord
-
-## Master Password notification
-
-master-password-notification-message = Ange ditt huvudlösenord för att se sparade inloggningar och lösenord
 
 ## Primary Password notification
 
@@ -165,12 +173,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
+
 about-logins-confirm-remove-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
 about-logins-confirm-remove-dialog-confirm-button = Ta bort
+
 about-logins-confirm-export-dialog-title = Exportera inloggningar och lösenord
 about-logins-confirm-export-dialog-message = Dina lösenord sparas som läsbar text (t.ex. BadP@ssw0rd) så att alla som kan öppna den exporterade filen kan se dem.
 about-logins-confirm-export-dialog-confirm-button = Exportera…
+
 confirm-discard-changes-dialog-title = Ignorera dessa förändringar?
 confirm-discard-changes-dialog-message = Alla ändringar som inte är sparade kommer att gå förlorade.
 confirm-discard-changes-dialog-confirm-button = Ignorera
@@ -201,8 +212,10 @@ about-logins-vulnerable-alert-learn-more-link = Läs mer
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = En post för { $loginTitle } med det användarnamnet finns redan. <a data-l10n-name="duplicate-link">Gå till befintlig post?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Ett fel uppstod vid försök att spara lösenordet.
+
 
 ## Login Export Dialog
 

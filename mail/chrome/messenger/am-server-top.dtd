@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "meddelanden hämtas">
 <!ENTITY alwaysAuthenticate.label "Begär alltid inloggning vid anslutning till denna server">
 <!ENTITY alwaysAuthenticate.accesskey "e">
-<!ENTITY newsrcFilePath.label "newsrc-fil:">
-<!ENTITY newsrcPicker.label "Välj newsrc-fil">
 <!ENTITY newsrcFilePath1.label "News.rc-fil:">
 <!ENTITY newsrcPicker1.label "Välj News.rc-fil">
 <!ENTITY abbreviate.label "Visa namn på diskussionsgrupper:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avancerat…">
 <!ENTITY advancedButton.accesskey "c">
 <!ENTITY serverDefaultCharset2.label "Standardtextkodning:">
-<!ENTITY localPath.label "Lokal katalog:">
 <!ENTITY localPath1.label "Lokal katalog:">
 <!ENTITY localFolderPicker.label "Välj lokal katalog">
 <!ENTITY browseFolder.label "Bläddra…">

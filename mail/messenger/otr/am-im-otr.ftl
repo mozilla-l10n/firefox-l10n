@@ -23,4 +23,6 @@ otr-require-encryption-info =
     visas inte som en del av den vanliga konversationen och loggas inte heller.
 otr-verifyNudge =
     .label = Påminn mig alltid om att verifiera en overifierad kontakt
+
 otr-notYetAvailable = inte tillgänglig än
+

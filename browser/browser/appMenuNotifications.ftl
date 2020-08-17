@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Hantera dina tillägg genom att klicka på 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillåt att detta tillägg körs i privata fönster
     .accesskey = T
-appmenu-addon-private-browsing =
-    .label = Ändra hur tillägg fungerar i privata fönster
-    .buttonlabel = Hantera tillägg
-    .buttonaccesskey = H
-    .secondarybuttonlabel = Ok, jag förstår
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Alla nya tillägg du lägger till i { -brand-shorter-name } kommer inte att fungera i privata fönster om du inte tillåter detta i inställningarna.
-appmenu-addon-private-browsing-learn-more = Lär dig hur du hanterar tilläggsinställningar.
     
 appmenu-new-tab-controlled =
     .label = Din nya flik har ändrats.

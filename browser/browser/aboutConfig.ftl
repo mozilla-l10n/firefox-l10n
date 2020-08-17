@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Här finns drakar!
-about-config-warning-text = Att ändra dessa avancerade inställningar kan skada programmets stabilitet, säkerhet och prestanda. Du bör endast fortsätta om du är säker på vad du gör.
-about-config-warning-checkbox = Irritera mig igen, tack!
-about-config-warning-button = Jag accepterar risken
-
-about-config2-title = Avancerade konfigurationer
-
-about-config-search-input =
-    .placeholder = Sök
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Fortsätt med försiktighet
@@ -32,13 +21,6 @@ about-config-page-title = Avancerade inställningar
 about-config-search-input1 =
     .placeholder = Sök inställningsnamn
 about-config-show-all = Visa allt
-
-about-config-pref-add = Lägg till
-about-config-pref-toggle = Växla
-about-config-pref-edit = Redigera
-about-config-pref-save = Spara
-about-config-pref-reset = Återställ
-about-config-pref-delete = Ta bort
 
 about-config-pref-add-button =
     .title = Lägg till

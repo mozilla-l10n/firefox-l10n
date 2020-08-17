@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Text bredvid ikoner">
 <!ENTITY useSmallIcons.label      "Använd små ikoner">
 <!ENTITY restoreDefaultSet.label  "Återställ standardvärden">
-<!ENTITY addNewToolbar.label      "Lägg till nytt verktygsfält">
-<!ENTITY showTitlebar.label       "Visa titelfältet">
-<!ENTITY extraDragSpace.label     "Lägg till extra utrymme">
 <!ENTITY showTitlebar2.label      "Titelfältet">
 <!ENTITY extraDragSpace2.label    "Extra utrymme">
 <!ENTITY saveChanges.label        "Klar">

@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Välj fil…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.deleteDomainData.label     "Ta bort all historik för webbplatsen">
-<!ENTITY cmd.deleteDomainData.accesskey "b">
-
-<!ENTITY cmd.open.label                  "Öppna">
-<!ENTITY cmd.open.accesskey              "Ö">
-<!ENTITY cmd.open_window.label           "Öppna i nytt fönster">
-<!ENTITY cmd.open_window.accesskey       "f">
-<!ENTITY cmd.open_private_window.label     "Öppna i nytt privat fönster">
-<!ENTITY cmd.open_private_window.accesskey "i">
-<!ENTITY cmd.open_tab.label              "Öppna i ny flik">
-<!ENTITY cmd.open_tab.accesskey          "n">
-<!ENTITY cmd.open_all_in_tabs.label      "Öppna alla i flikar">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "n">
-
-<!ENTITY cmd.properties.label      "Egenskaper">
-<!ENTITY cmd.properties.accesskey  "E">
-
-<!ENTITY cmd.sortby_name.label              "Ordna efter namn">
-<!ENTITY cmd.sortby_name.accesskey          "d">
-<!ENTITY cmd.context_sortby_name.accesskey  "d">
-
-<!ENTITY cmd.new_bookmark.label            "Nytt bokmärke…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Ny mapp…">
-<!ENTITY cmd.new_folder.accesskey          "N">
-<!ENTITY cmd.context_new_folder.accesskey  "a">
-<!ENTITY cmd.new_separator.label           "Ny avskiljare">
-<!ENTITY cmd.new_separator.accesskey       "v">
-
 <!ENTITY col.name.label          "Namn">
 <!ENTITY col.tags.label          "Etiketter">
 <!ENTITY col.url.label           "Adress">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Antal besök">
 <!ENTITY col.dateadded.label     "Ursprungsdatum">
 <!ENTITY col.lastmodified.label  "Senast ändrad">
-
-<!ENTITY historySearch.placeholder  "Sökhistorik">
-<!ENTITY bookmarksSearch.placeholder  "Sök bokmärken">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Markera en post för att visa och redigera dess egenskaper">
 
-<!ENTITY view.label               "Visa">
-<!ENTITY view.accesskey           "V">
-<!ENTITY byDate.label             "Efter datum">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Efter plats">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Efter mest besökta">
-<!ENTITY byMostVisited.accesskey  "m">
-<!ENTITY byLastVisited.label      "Efter senast besökta">
-<!ENTITY byLastVisited.accesskey  "b">
-<!ENTITY byDayAndSite.label       "Efter datum och plats">
-<!ENTITY byDayAndSite.accesskey   "t">

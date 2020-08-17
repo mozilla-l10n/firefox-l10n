@@ -63,7 +63,6 @@ protections-panel-not-found-label = Ingen upptäckt
 ##
 
 protections-panel-settings-label = Skyddsinställningar
-protections-panel-showreport-label = Visa rapport
 
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Säkerhetsöversikt

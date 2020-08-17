@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Redigera">
 <!ENTITY editMenu.accesskey                             "R">
-<!ENTITY undoCmd.label                                  "Ångra">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "Å">
-<!ENTITY redoCmd.label                                  "Gör om">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "G">
-<!ENTITY cutCmd.label                                   "Klipp ut">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "K">
-<!ENTITY copyCmd.label                                  "Kopiera">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "o">
-<!ENTITY pasteCmd.label                                 "Klistra in">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "l">
 <!ENTITY deleteCmd.label                                "Ta bort">
-<!ENTITY deleteCmd.accesskey                            "T">
 <!ENTITY deleteAbCmd.label                              "Ta bort adressboken">
 <!ENTITY deleteContactCmd.label                         "Ta bort kontakt">
 <!ENTITY deleteContactsCmd.label                        "Ta bort kontakter">
 <!ENTITY deleteListCmd.label                            "Ta bort lista">
 <!ENTITY deleteListsCmd.label                           "Ta bort listor">
 <!ENTITY deleteItemsCmd.label                           "Ta bort poster">
-<!ENTITY selectAllCmd.label                             "Markera allt">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "M">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Kasta om för/efternamn">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "ö">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Egenskaper">
 <!ENTITY propertiesMenu.accesskey                       "e">
 <!ENTITY propertiesCmd.key                              "i">

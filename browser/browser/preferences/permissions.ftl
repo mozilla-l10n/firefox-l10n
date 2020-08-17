@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Undantag - Innehållsblockering
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Du har inaktiverat innehållsblockering på dessa webbplatser.
-
 permissions-exceptions-etp-window =
     .title = Undantag för förbättrat spårningsskydd
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får installera tillägg. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Undantag - Automatisk uppspelning
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Du kan specificera vilka webbplatser som alltid eller aldrig tillåts spela media med ljud automatiskt. Skriv in adressen till platsen du vill hantera och klicka sedan på Błockera eller Tillåt.
 
 ## Site Permissions - Autoplay
 
