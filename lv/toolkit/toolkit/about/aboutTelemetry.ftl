@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping datu avots:
-about-telemetry-show-current-ping-data = Aktuālie ping dati
 about-telemetry-show-archived-ping-data = Arhivētie ping dati
 about-telemetry-show-subsession-data = Rādīt apakšsesiju datus
 about-telemetry-choose-ping = Izvēlieties ping:
@@ -63,7 +62,6 @@ about-telemetry-settings-explanation = Telemetrija vāc { about-telemetry-data-t
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Katra informācijas vienība ir iepakota “<a data-l10n-name="ping-link">pings</a>”. Jūs skatāties uz { $name } { $timestamp } pingu.
-about-telemetry-ping-details-current = Katra informācijas vienība ir iepakota “<a data-l10n-name="ping-link">pings</a>”. Jūs skatāties uz aktīvais pingu.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -88,8 +86,6 @@ about-telemetry-no-search-results-all = Diemžēl meklējot “{ $searchTerms }�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Diemžēl šobrīd sadaļā “{ $sectionName }” dati nav pieejami
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = pašreizējais ping
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = visi
 # button label to copy the histogram

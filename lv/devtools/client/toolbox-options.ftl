@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Aktivēt attālināto atkļūdošanu
-options-enable-remote-tooltip =
-    .title = Ieslēdzot šo iespēju, jūs varēsiet izmantot izstrādātāju rīkus attālinātai Firefox instancei, piemēram Firefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktivizēt pakalpojumu darbiniekus pa HTTP (kad rīks ir atvērts)

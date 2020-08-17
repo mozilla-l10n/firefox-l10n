@@ -21,6 +21,9 @@ change-password-reenter = Jaunā parole (vēlreiz):
 reset-password-window =
     .title = Atstatīt galveno paroli
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Atstatīt
 reset-password-text = Ja atstatīsiet galveno paroli, tiks aizmirstas visas saglabātās tīmekļa un e-pasta paroles, formu dati, personīgie sertifikāti un privātās atslēgas.  Vai esat pārliecināts, ka vēlaties atstatīt galveno paroli?

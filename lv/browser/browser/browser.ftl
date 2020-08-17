@@ -99,6 +99,8 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { $engineName } adreses joslā.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -165,6 +167,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Iestatīt par noklusēto meklētāju
     .accesskey = n
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -246,8 +255,10 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Pārlūks tiek attālināti kontrolēts
 urlbar-switch-to-tab =

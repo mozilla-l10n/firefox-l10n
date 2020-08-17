@@ -6,7 +6,6 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.key "V">
@@ -14,14 +13,7 @@
 
 
 
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Atrast...">
 
-
-
-
-
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Ievietot">
@@ -189,8 +181,6 @@
 
 <!-- Layer toolbar items -->
 
-<!ENTITY layer.tooltip "Slānis">
-
 
 
 <!ENTITY increaseIndent.label "Palielināt atkāpi">
@@ -260,15 +250,6 @@
 
 
 <!-- Toolbar-only items -->
-
-<!ENTITY menuBar.tooltip "Izvēlnes josla">
-
-<!ENTITY cutToolbarCmd.tooltip "Izgriezt">
-<!ENTITY copyToolbarCmd.tooltip "Kopēt">
-<!ENTITY pasteToolbarCmd.tooltip "Ielīmēt">
-<!ENTITY printToolbarCmd.label "Drukāt">
-
-<!ENTITY findToolbarCmd.label "Atrast">
 
 
 

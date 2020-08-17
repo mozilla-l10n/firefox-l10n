@@ -7,13 +7,6 @@ do-not-track-learn-more = Uzzināt vairāk
 do-not-track-option-always =
     .label = Vienmēr
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Iestatījumi
-           *[other] Iestatījumi
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Iestatījumi
@@ -416,16 +409,6 @@ update-application-use-service =
     .label = Instalēt atjauninājumus fonā
     .accesskey = f
 
-update-enable-search-update =
-    .label = Automātiski atjaunināt meklētājus
-    .accesskey = e
-
-update-pref-write-failure-title = Rakstīšanas neveiksme
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Nevar saglabāt preferenci. Nevarēja rakstīt failā: { $path }
-
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -559,7 +542,6 @@ home-prefs-topsites-description = Biežāk apmeklētās lapas
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Iesaka { $provider }
-home-prefs-recommended-by-description = Saņemiet sev pielāgotu saturu no visas pasaules
 ##
 
 home-prefs-recommended-by-learn-more = Kā tas strādā
@@ -602,7 +584,6 @@ search-bar-shown =
     .label = Pievienot meklēšanas joslu rīkjoslai
 
 search-engine-default-header = Noklusētais meklētājs
-search-engine-default-desc = Izvēlieties noklusēto meklētāju adrešu joslai un meklēšanai.
 
 search-suggestions-option =
     .label = Piedāvāt meklēšanas ieteikumus
@@ -651,8 +632,6 @@ search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau 
 
 ## Containers Section
 
-containers-back-link = « Iet atpakaļ
-
 containers-header = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
@@ -672,14 +651,6 @@ containers-remove-button =
 sync-signedout-caption = Paņem tīmekli sev līdz
 sync-signedout-description = Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.
 
-sync-signedout-account-title = Pieslēdzieties ar { -fxaccount-brand-name }
-sync-signedout-account-create = Nav konta? To var labot
-    .accesskey = N
-
-sync-signedout-account-signin =
-    .label = Pieslēgties…
-    .accesskey = P
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -698,10 +669,6 @@ sync-mobile-promo = Lejupielādēt Firefox <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Mainīt profila attēlu
 
-sync-disconnect =
-    .label = Atslēgties…
-    .accesskey = T
-
 sync-manage-account = Pārvaldīt kontu
     .accesskey = a
 
@@ -719,9 +686,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Pieslēgties
     .accesskey = p
-
-sync-signedin-settings-header = Sync iestatījumi
-sync-signedin-settings-desc = Izvēlēties, ko sinhronizēt ierīcē, izmantojot uz { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -743,11 +707,6 @@ sync-engine-tabs =
     .label = Atvērtās cilnes
     .tooltiptext = Saraksts ar atvērtajām lietām sinhronizētajās ierīcēs
     .accesskey = C
-
-sync-engine-logins =
-    .label = Lietotājvārdi
-    .tooltiptext = Saglabātie lietotājvārdi un paroles
-    .accesskey = L
 
 sync-engine-addresses =
     .label = Adreses
@@ -789,18 +748,12 @@ sync-device-name-save =
     .label = Saglabāt
     .accesskey = r
 
-sync-tos-link = Lietošanas noteikumi
-
-sync-fxa-privacy-notice = Privātuma piezīme
-
 ## Privacy Section
 
 privacy-header = Pārlūka privātums
 
 ## Privacy Section - Forms
 
-
-logins-header = Lietotājvārdi un paroles
 
 ## Privacy Section - Logins and Passwords
 
@@ -826,6 +779,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = Šobrīd jūs esat FIPS režīmā. FIPS nepieļauj tukšu galveno paroli.
+
 forms-master-pw-fips-desc = Paroles maiņa neizdevās
 
 ## OS Authentication dialog
@@ -943,25 +897,7 @@ addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Satura bloķēšana
-
 content-blocking-learn-more = Uzzināt vairāk
-
-content-blocking-setting-standard =
-    .label = Standarta
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Strikts
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = Pielāgots
-    .accesskey = P
-
-content-blocking-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Ļauj dažiem izsekotājiem strādāt, lai vietnes darbojas pareizi.
-content-blocking-custom-desc = Izvēlies, ko bloķēt.
-
-content-blocking-private-trackers = Pazīstamos izsekotājus tikai privātajā logā
-content-blocking-third-party-cookies = Trešo pušu izsekošanas sīkfailus
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -979,11 +915,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-windows-trackers = Pazīstamos izsekotājus visos logos
 content-blocking-all-third-party-cookies = Visus trešo personu sīkfailus
 
 content-blocking-warning-title = Galvas augšu!
-content-blocking-learn-how = Uzziniet kā
 
 content-blocking-tracking-protection-change-block-list = Mainīt bloķēto sarakstu
 
@@ -1025,10 +959,6 @@ permissions-notification-link = Uzzināt vairāk
 permissions-notification-pause =
     .label = Nerādīt paziņojumus līdz { -brand-short-name } pārstartēšanai
     .accesskey = a
-
-permissions-block-autoplay-media-exceptions =
-    .label = Izņēmumi...
-    .accesskey = i
 
 permissions-block-popups =
     .label = Bloķēt jaunos logus
@@ -1152,6 +1082,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = L
 
 space-alert-under-5gb-message = { -brand-short-name } nepietiek vietas diskā. Lapu saturs var tikt nekorekti attēlots. Apmeklējiet “Uzzināt vairāk”, lai optimizētu diska izmantošanu.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

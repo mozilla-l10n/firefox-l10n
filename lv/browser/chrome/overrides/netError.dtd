@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Nevar pieslēgties">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Piekļuve šai adresei ir liegta">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Serveris nav atrasts">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Diemžēl mums neizdodas atrast šo lapu.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Ja lapas adrese ir pareiza, šīs ir dažas papildu lietas, ko varat izmēģināt:</strong>
 <ul>
@@ -34,15 +28,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fails nav atrasts">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.</li> <li>Pārliecinieties, ka fails nav pārvietots, pārsaukts vai izdzēsts.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Pieeja failam tika liegta">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Tas varētu būt aizvākts, pārvietots vai arī faila piekļuves tiesības liedz piekļuvi tam.</li> </ul>">
-
-<!ENTITY generic.title "Savādi gan...">
 
 <!ENTITY generic.longDesc "<p>Kāda nezināma iemesla dēļ &brandShortName; nevar atvērt šo lapu.</p>">
 
@@ -52,63 +40,32 @@
 <!ENTITY openPortalLoginPage.label2 "Atvērt tīkla pieslēgšanās lapu">
 
 <!ENTITY malformedURI.pageTitle "Nederīga adrese">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Šķiet šī adrese nav korekta.">
-
-<!ENTITY netInterrupt.title "Savienojums tika pārtraukts">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokumenta derīguma termiņš beidzies">
-
 <!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams  &brandShortName; kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ,  &brandShortName; neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.</li><li>Klikšķiniet uz Mēģināt vēlreiz, lai atkārtoti pieprasītu šo dokumentu no mājas lapas.</li></ul>">
-
-<!ENTITY netOffline.title "Nesaistes režīms">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Nospiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Nedrošs faila tips">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> </ul>">
 
-<!ENTITY netReset.title "Savienojums tika pārrauts">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Savienojumam iestājās noilgums">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Adrese netika saprasta">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Iespējams, jums jāuzinstalē kāda cita programma, lai apstrādātu šī tipa adreses.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Starpniekserveris (proxy) nepieņem savienojumus">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Pārbaudiet starpniekservera (proxy) iestatījumus.</li> <li>Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Nevar atrast starpniekserveri">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Pārbaudiet starpniekservera (proxy) iestatījumus.</li> <li>Pārliecinieties, ka datoram ir strādājošs tīkla savienojums.</li> <li>Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Lapa netiek korekti pāradresēta">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Negaidīta atbilde no servera">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Pārliecinieties, ka jums ir instalēts Personiskās drošības pārvaldnieks.</li> <li>Iemesls var būt arī nestandarta servera konfigurācija.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Drošais savienojums neizdevās">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Lapu, kuru jūs šobrīd mēģināt aplūkot, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu autentiskumu.</li> <li>Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Brīdinājums: Potenciāls drošības risks">
-<!ENTITY certerror.sts.longpagetitle  "Netika izveidots savienojums: potenciāla drošības problēma">
 
 <!ENTITY certerror.introPara2 "&brandShortName; atklāja potenciālus draudus drošībai un nepārgāja uz <span class='hostname'/>. Ja apmeklējat šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, jūsu paroles, e-pastus vai kredītkartes datus.">
 
@@ -131,11 +88,7 @@
 
 <!ENTITY sharedLongDesc "<ul> <li>Lapa var būt īslaicīgi nepieejama vai pārāk aizņemta. Mēģiniet vēlreiz pēc pāris minūtēm.</li> <li>Ja nevarat atvērt nevienu lapu, pārbaudiet sava datora tīkla savienojumu.</li> <li>Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Bloķē satura drošības politika">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tās drošības politika to neļauj.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Bojāta satura kļūda">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Lappuse, kuru mēģināt skatīt nevar parādīt, jo tika atrasta kļūda datu pārraidi.</p><ul><li>Lūdzu, sazinieties ar mājas īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">
 
@@ -145,11 +98,7 @@
 <!ENTITY errorReporting.automatic2 "Ziņojiet par šādām kļūdām Mozilla, lai varētu identificēt un bloķēt kaitnieciskas lapas">
 <!ENTITY errorReporting.learnMore "Uzzināt vairāk…">
 
-<!ENTITY remoteXUL.title "Attālināts XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Neizdevās droši pieslēgties">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -160,21 +109,15 @@
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> izmanto drošības politiku, ko sauc HTTP Strict Transport Security (HSTS), kas nozīmē, ka &brandShortName; var lapai pieslēgties lapai tikai drošajā režīmā. Jūs nevarat pievienot izņēmumu, lai apmeklētu šo lapu.">
 <!ENTITY certerror.copyToClipboard.label "Kopēt tekstu atmiņā">
 
-<!ENTITY inadequateSecurityError.title "Savienojums nav drošs">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> izmanto novecojušu un nedrošu drošības tehnoloģiju. Uzbrucējs varētu piekļūt informācijai, kuru uzskatījāt par droši aizsargātu. Lapas administratoram vajadzēs salabot serveri, pirms varēsiet apmeklē lapu.</p><p>Kļūdas kods: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Bloķēta lapa">
 
-<!ENTITY clockSkewError.title "Jūsu datora pulkstenis ir nepareizs">
-
 <!ENTITY clockSkewError.longDesc "Jūsu dators uzskata, ka tas ir <span id='wrongSystemTime_systemDate1'/>, kas neļauj &brandShortName; droši savienoties. Lai apmeklētu <span class='hostname'></span>, atjauniniet sava datora pulksteni jūsu sistēmas iestatījumos uz pašreizējo datumu, laiku un laika joslu un pēc tam atsvaidziniet <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Izskatās, ka jūsu tīkla drošības iestatījumi varētu bū pie vainas. Vai vēlaties atjaunot noklusētos iestatījumus?">
 <!ENTITY prefReset.label "Atjaunot noklusētos iestatījumus">
-
-<!ENTITY networkProtocolError.title "Tīkla protokola kļūda">
 
 <!ENTITY networkProtocolError.longDesc "<p>Lapu, kuru mēģināt skatīt, nevar tikt parādīta, jo tika konstatēta tīkla protokola kļūda.</p><ul><li>Lūdzu, sazinieties ar vietņu īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">

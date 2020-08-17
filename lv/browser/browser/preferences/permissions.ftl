@@ -70,11 +70,6 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Izņēmums - satura bloķēšana
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Satura bloķēšana ir atslēgta šajās lapās.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Jūs varat norādīt, no kurām lapām ir atļauts instalēt papildinājumus. Ierakstiet precīzu lapas adresi, no kuras vēlaties atļaut papildinājumu instalēšanu, un nospiediet Atļaut.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Automātiskās atskaņošanas izņēmumi
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Jūs varat norādīt, no kurām lapām ir atļauts automātiski atskaņot multimēdijas ar skaņu. Ierakstiet precīzu lapas adresi, no kuras vēlaties atļaut papildinājumu instalēšanu, un nospiediet Atļaut.
 
 ## Site Permissions - Autoplay
 

@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Izvēlēties visas cilnes
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Atsaukt cilnes aizvēršanu
-    .accesskey = u
 
 toolbar-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu

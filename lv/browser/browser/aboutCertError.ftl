@@ -5,26 +5,41 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } izmanto nederīgu drošības sertifikātu.
+
 cert-error-mitm-intro = Vietnes apliecina savu identitāti ar sertifikātiem, kurus izsniedz sertifikātu izdevējas iestādes.
+
 cert-error-mitm-mozilla = { -brand-short-name } atbalsta bezpeļņas organoizācija Mozilla, kas administrē pilnīgi atvērtu sertifikātu izsniegšanas iestādes (CA) veikalu. CA veikals palīdz nodrošināt, ka sertifikātu izdevējas iestādes ievēro paraugpraksi lietotāju drošībai.
+
 cert-error-trust-unknown-issuer-intro = Iespējams kāds mēģina izlikties par šo lapu, jums nevajadzētu turpināt.
+
 cert-error-trust-cert-invalid = Šis sertifikāts nav uzticams, jo to ir izdevis nederīgs CA sertifikāts.
+
 cert-error-trust-untrusted-issuer = Šis sertifikāts nav uzticams, jo tā izdevēja sertifikāts nav uzticams.
+
 cert-error-trust-signature-algorithm-disabled = Sertifikāts nav uzticams, jo ir parakstīts ar algoritmu, kas nav uzskatāms par drošu.
+
 cert-error-trust-expired-issuer = Šis sertifikāts nav uzticams, jo tā izdevēja sertifikāta derīguma termiņš ir beidzies.
+
 cert-error-trust-self-signed = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
+
 cert-error-untrusted-default = Sertifikāts nāk no nedroša avota.
+
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kļūdas kods: <a data-l10n-name="error-code-link">{ $error }</a>
+
 cert-error-symantec-distrust-admin = Par šo problēmu varat paziņot vietnes administratoram.
+
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+
 cert-error-details-cert-chain-label = Sertifikātu ķēde:
+
 open-in-new-window-for-csp-or-xfo-error = Atvērt vietni jaunā logā
 
 ## Messages used for certificate error titles

@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Pāriet uz jaunu logu
     .accesskey = P
-undo-close-tab =
-    .label = Atsaukt cilnes aizvēršanu
-    .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Aizvērt cilni
     .accesskey = c
