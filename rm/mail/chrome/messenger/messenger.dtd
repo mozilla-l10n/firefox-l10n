@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Bloc da notizias">
-<!ENTITY scratchpadCmd.accesskey "B">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Retschaiver messadis">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Trametter vinavant il messadi selecziunà sco agiunta">
 <!ENTITY fileButton.tooltip "Archivar il messadi tschernì">
 <!ENTITY archiveButton.tooltip "Archivar ils messadis tschernids">
-<!ENTITY openConversationButton.tooltip "Mussar la conversaziun dal messadi tschernì">
 <!ENTITY openMsgConversationButton.tooltip "Mussar la conversaziun dal messadi tschernì">
 <!ENTITY nextButton.tooltip "Ir al proxim messadi nunlegì">
 <!ENTITY nextMsgButton.tooltip "Ir al proxim messadi">

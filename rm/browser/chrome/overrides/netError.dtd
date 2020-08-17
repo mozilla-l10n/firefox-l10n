@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Connexiun betg reussida">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Il port è bloccà per motivs da segirezza">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Betg chattà il server">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Dianteren. Nus avain difficultads da chattar questa pagina.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Sche l'adressa è correcta avain nus trais propostas per schliar il problem:</strong>
 <ul>
@@ -34,23 +28,17 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Impussibel da chattar la datoteca">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Controllescha sch'il num da datoteca cuntegna in sbagl da scripziun grond u pitschen u auters sbagls da tippar.</li>
   <li>Controllescha sche la datoteca è vegnida renumnada, stizzada u spustada.</li>
 </ul>">
 
-<!ENTITY fileAccessDenied.title "Refusà l'access a la datoteca">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Forsa è ella stizzada, spustada u che ti n'es betg autorisà per l'access.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Oh Dieu!">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; na po betg chargiar questa pagina per tscherts motivs.</p>">
 
@@ -60,18 +48,10 @@
 <!ENTITY openPortalLoginPage.label2 "Avrir la pagina per s'annunziar en la rait">
 
 <!ENTITY malformedURI.pageTitle "URL nunvalid">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Questa adressa na para betg correcta.">
-
-<!ENTITY netInterrupt.title "La connexiun è interrutta">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document scrudà">
-
 <!ENTITY notCached.longDesc "<p>Il document dumandà n'è betg disponibel en il cache da &brandShortName;.</p><ul><li>Sco mesira da precauziun na rechargia &brandShortName; betg automaticamain documents delicats.</li><li>Clicca sin Empruvar danovamain per rechargiar il document da la website.</li></ul>">
-
-<!ENTITY netOffline.title "Modus offline">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -79,33 +59,21 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Cuntegns cun codaziun nunvalida">
-
 <!ENTITY contentEncodingError.longDesc "<p>La pagina dumandada na po betg vegnir mussada, perquai ch'ella utilisescha ina furma da cumpressiun nunvalida u betg cumpatibla.</p><ul><li>Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.</li></ul>">
-
-<!ENTITY unsafeContentType.title "Tip da datoteca malsegir">
 
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li> 
 </ul>">
 
-<!ENTITY netReset.title "La connexiun è interrutta">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Il temp da la rait è surpassà">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Impussibel da chapir l'adressa">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Ti stos eventualmain installar ulteriura software per avrir questa adressa.</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "Il proxy server refusescha la connexiun">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -114,8 +82,6 @@
     è en funcziun.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Impussibel da chattar il proxy server">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -126,11 +92,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Cirquit da sviament">
-
 <!ENTITY redirectLoop.longDesc "<p>L'emprova da connectar cun l'adressa dumandada è vegnida interrutta. La website dumandada sviescha la dumonda uschia ch'ella na po mai vegnir terminada.</p><ul><li>Has ti bloccà u deactivà cookies indispensabels per questa website?</li><li><em>AVIS</em>: Per cas ch'i na gida betg d'acceptar ils cookies ed ils problems cun l'adressa dumandada persistan, sa tracti probablamain d'ina configuraziun fallada dal server e betg d'in problem da tes computer.</li></ul>">
-
-<!ENTITY unknownSocketType.title "Resposta nuncorrecta">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -140,12 +102,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "La connexiun segira n'è betg reussida">
-
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.</p><ul><li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li></ul>">
-
-<!ENTITY certerror.longpagetitle2 "Attenziun: Eventual ristg per la segirezza en vista">
-<!ENTITY certerror.sts.longpagetitle  "Bloccà la connexiun: Eventual problem da segirezza">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -179,11 +136,7 @@ was trying to connect. -->
 <li>Sche tes computer u tia rait èn protegids d'ina firewall u d'in proxy, controllescha per plaschair schebain &brandShortName; dastga acceder a l'internet.</li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Errur da cuntegn donnegià">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en quest context perquai che la pagina cuntegna ina directiva X-Frame-Options che scumonda quai.</p>">
 
@@ -194,11 +147,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
 <!ENTITY errorReporting.learnMore "Ulteriuras infurmaziuns…">
 
-<!ENTITY remoteXUL.title "Remote-XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possessur da la website davart quest problem.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Impussibel da connectar a moda segira">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -209,15 +158,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha ina directiva da segirezza che sa numna HTTP Strict Transport Security (HSTS). Quai munta che &brandShortName; po mo connectar a moda segirada. Igl è impussibel dad agiuntar ina excepziun per visitar questa website.">
 <!ENTITY certerror.copyToClipboard.label "Copiar il text en l'archiv provisoric">
 
-<!ENTITY inadequateSecurityError.title "Tia connexiun n'è betg segirada">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilisescha tecnologia da segirezza ch'è obsoleta e qua tras vulnerabla. In attatgader pudess revelar a moda simpla infurmaziuns che ti has considerà sco segiradas. L'administratur da la website vegn a stuair metter en urden ses server avant che ti possias visitar la website.</p><p>Code d'errur: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina bloccada">
-
-<!ENTITY certerror.mitm.title "Software impedescha che &brandShortName; connecteschia a moda segira cun questa website">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> è probablamain ina website fidada, ma i n'è betg reussì da stabilir ina connexiun segira. Quest problem vegn chaschunà da <span class='mitm-name'/>, ina software sin tes computer u en tia rait.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Sche tia software antivirus includa ina funcziun per intercurir connexiuns criptadas (savens numnada «web scanning» u «https scanning»), emprova da deactivar questa funcziun. Sche quai na schlia betg il problem, gidi eventualmain dad allontanar e reinstallar la software antivirus.">
@@ -225,14 +170,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Sche ti n'enconuschas betg <span class='mitm-name'/> sa tracti forsa dad ina attatga e ti na duessas betg visitar la website.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Sche ti n'enconuschas betg <span class='mitm-name'/> sa tracti forsa dad ina attatga ed i n'è betg pussaivel dad acceder a la website.">
 
-<!ENTITY clockSkewError.title "L'ura da tes computer na constat betg">
-
 <!ENTITY clockSkewError.longDesc "Tes computer pensa ch'i saja las <span id='wrongSystemTime_systemDate1'/>. Quai impedescha che &brandShortName; possia connectar a moda segira. Per visitar <span class='hostname'></span>, actualisescha l'ura da tes computer en ils parameters dal sistem uschia che las infurmaziuns correspundan a la data ed al temp actual, sco era a la zona d'urari dal lieu e rechargia lura <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "I para ch'ils parameters da segirezza da tia rait chaschunian quest problem. Vuls ti restaurar ils parameters da standard?">
 <!ENTITY prefReset.label "Restaurar il standard">
-
-<!ENTITY networkProtocolError.title "Errur dal protocol da rait">
 
 <!ENTITY enableTls10.longDesc "Questa website na sustegna betg il protocol TLS 1.2, la versiun minimala che &brandShortName; pretenda. Eventualmain po la connexiun vegnir stabilida cun activar TLS 1.0 e TLS 1.1.">
 <!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 vegn deactivà permanentamain en ina versiun futura.">

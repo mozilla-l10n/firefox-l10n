@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar quest messadi">
-<!ENTITY hdrOpenConversationButton1.label "Conversaziun">
-<!ENTITY hdrOpenConversationButton1.tooltip "Mussar la conversaziun da quest messadi">
 <!ENTITY hdrSmartReplyButton1.label "Respunder smart">
 <!ENTITY hdrReplyButton1.label "Respunder">
 <!ENTITY hdrReplyButton2.tooltip "Respunder al speditur da quest messadi">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Respunder a la glista dad e-mail">
 <!ENTITY hdrFollowupButton1.label "Followup">
 <!ENTITY hdrFollowupButton1.tooltip "Trametter in followup a questa gruppa da discussiun">
-<!ENTITY hdrMenuForwardButton.label "Renviar sco">
 <!ENTITY hdrForwardButton1.label "Renviar">
 <!ENTITY hdrForwardButton1.tooltip "Renviar quest messadi">
 <!ENTITY hdrJunkButton1.label "Nungiavischà">

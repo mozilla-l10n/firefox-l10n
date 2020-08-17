@@ -35,12 +35,7 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Utilisar quest proxy server per tut ils protocols
-    .accesskey = U
 
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Era utilisar quest proxy per FTP e HTTPS
     .accesskey = r

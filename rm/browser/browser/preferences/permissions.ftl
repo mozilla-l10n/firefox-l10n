@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Endatescha per plaschair in num da host valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Excepziuns - Bloccada da cuntegn
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Ti has deactivà la bloccada da cuntegn sin questas websites.
-
 permissions-exceptions-etp-window =
     .title = Excepziuns per la protecziun avanzada cunter il fastizar
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Ti pos definir a tge websites che ti permettas d'installar supplements. Inditgescha l'adressa exacta da la website, a la quala ti vuls permetter quai e clicca sin 'Permetter'.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Excepziuns - Reproducziun automatica
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Ti pos definir a tge websites che ti permettas adina u mai da reproducir automaticamain multimedia cun tun. Inditgescha l'adressa exacta da la website che ti vuls administrar e clicca lura sin «Bloccar» u «Permetter».
 
 ## Site Permissions - Autoplay
 

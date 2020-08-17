@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Modifitgar">
 <!ENTITY editMenu.accesskey        "M">
 <!ENTITY undoCmd.label            "Revocar">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "v">
 <!ENTITY redoCmd.label            "Restituir">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "s">
-<!ENTITY cutCmd.label            "Tagliar ora">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Copiar">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Encollar">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "E">
 <!ENTITY deleteCmd.label          "Stizzar">
 <!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY selectAllCmd.label          "Marcar tut">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "M">
 <!ENTITY preferencesCmd2.label "Preferenzas">
 <!ENTITY preferencesCmd2.accesskey "e">
 <!ENTITY preferencesCmdUnix.label       "Preferenzas">

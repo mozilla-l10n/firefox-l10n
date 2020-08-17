@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Tip dad ordinatur:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Limita vala per:">
 <!ENTITY folderQuotaUsage.label                  "Occupaziun:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

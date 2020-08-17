@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Tabs sincronisads
 synced-tabs-sidebar-noclients-subtitle = Vuls ti vesair qua tes tabs dad auters apparats?
-synced-tabs-sidebar-notsignedin = T'annunzia per vesair ina glista dals tabs da tes auters apparats.
 synced-tabs-sidebar-intro = Mussar ina glista dals tabs da tes auters apparats.
 synced-tabs-sidebar-unverified = Tes conto sto vegnir verifitgà.
 synced-tabs-sidebar-notabs = Nagins tabs averts

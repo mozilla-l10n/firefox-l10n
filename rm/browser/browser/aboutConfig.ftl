@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Hic sunt dracones!
-about-config-warning-text = La modificaziun da quests parameters avanzads po cumprometter la stabilitad, segirezza e prestaziun da questa applicaziun. Cuntinuescha mo sche ti sas tge che ti fas.
-about-config-warning-checkbox = Puspè dumandar la proxima giada, grazia.
-about-config-warning-button = Jau accept il ristg
-
-about-config2-title = Configuraziuns avanzadas
-
-about-config-search-input =
-    .placeholder = Tschertgar
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Proceder cun precauziun
@@ -32,13 +21,6 @@ about-config-page-title = Preferenzas avanzadas
 about-config-search-input1 =
     .placeholder = Tschertgar in num dad ina preferenza
 about-config-show-all = Mussar tut
-
-about-config-pref-add = Agiuntar
-about-config-pref-toggle = Alternar
-about-config-pref-edit = Modifitgar
-about-config-pref-save = Memorisar
-about-config-pref-reset = Redefinir
-about-config-pref-delete = Stizzar
 
 about-config-pref-add-button =
     .title = Agiuntar

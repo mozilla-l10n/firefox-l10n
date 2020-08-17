@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Tagliar ora">
-<!ENTITY cutCmd.accesskey "a">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Encollar">
-<!ENTITY pasteCmd.accesskey "E">
-<!ENTITY undoCmd.label "Revocar">
-<!ENTITY undoCmd.accesskey "R">
-<!ENTITY selectAllCmd.label "Selecziunar tut">
-<!ENTITY selectAllCmd.accesskey "t">
-<!ENTITY deleteCmd.label "Stizzar">
-<!ENTITY deleteCmd.accesskey "S">
-
 <!ENTITY spellAddToDictionary.label "Agiuntar al dicziunari da l'utilisader">
 <!ENTITY spellAddToDictionary.accesskey "z">
 <!ENTITY spellUndoAddToDictionary.label "Puspè allontanar il pled agiuntà al dicziunari">

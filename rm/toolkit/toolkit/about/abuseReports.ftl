@@ -60,30 +60,19 @@ abuse-report-messagebar-action-cancel = Interrumper
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Donnegia mes computer e mias datas
-
 abuse-report-damage-reason-v2 = Mias datas u mes computer èn vegnids donnegiads
 abuse-report-damage-example = Exempel: ha installà malware u engulà datas
 
-abuse-report-spam-reason = Creescha spam u reclama
-
 abuse-report-spam-reason-v2 = Cuntegna spam u inserescha reclamas nungiavischadas
 abuse-report-spam-example = Exempel: Integrescha reclamas en paginas d'internet
-
-abuse-report-settings-reason = Ha modifitgà mia maschina da tschertgar, mia pagina da partenza u dal nov tab senza m'infurmar u dumandar
 
 abuse-report-settings-reason-v2 = Ha modifitgà mia maschina da tschertgar, mia pagina da partenza u la pagina da novs tabs senza m'infurmar u dumandar
 abuse-report-settings-suggestions = Avant che rapportar questa extensiun, pos ti empruvar da midar tes parameters:
 abuse-report-settings-suggestions-search = Mida tes parameters da la tschertga da standard
 abuse-report-settings-suggestions-homepage = Mida tia pagina da partenza e la pagina dad in nov tab
 
-abuse-report-deceptive-reason = Pretenda dad esser insatge auter
-
 abuse-report-deceptive-reason-v2 = Pretenda dad esser insatge auter
 abuse-report-deceptive-example = Exempel: Descripziun u grafica engianaivla
-
-abuse-report-broken-reason-extension = Na funcziuna betg, chaschuna problems cun websites u ralentescha { -brand-product-name }
-abuse-report-broken-reason-theme = Na funcziuna betg u chaschuna problems cun l'interfatscha dal navigatur
 
 abuse-report-broken-reason-extension-v2 = Na funcziuna betg, chaschuna problems cun websites u ralentescha { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Na funcziuna betg u chaschuna problems cun l'interfatscha dal navigatur
@@ -97,15 +86,11 @@ abuse-report-broken-suggestions-theme =
     da contactar il sviluppader dal design per ch'il problem possia vegnir schlià.
     <a data-l10n-name="support-link">Visita la website dal design</a> per chattar infurmaziuns davart il sviluppader.
 
-abuse-report-policy-reason = Cuntegn cun odi, violenza e cuntegns illegals
-
 abuse-report-policy-reason-v2 = Cuntegn cun odi u violenza e cuntegns illegals
 abuse-report-policy-suggestions =
     Remartga: Problems cun il dretg d'autur e violaziuns dal dretg da marcas ston vegnir annunziads en in process separà.
     <a data-l10n-name="report-infringement-link">Fa diever da questas instrucziuns</a> per
     annunziar il problem.
-
-abuse-report-unwanted-reason = Jau n'hai mai vulì questa extensiun e na poss betg l'allontanar
 
 abuse-report-unwanted-reason-v2 = Jau n'hai mai vulì quai e na sai betg co ma liberar da la chaussa
 abuse-report-unwanted-example = Exempel: Ina applicaziun ha l'installà senza mes consentiment

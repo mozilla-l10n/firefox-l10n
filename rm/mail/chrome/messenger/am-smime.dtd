@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Segirezza">
-<!ENTITY securityTab.label "Segirezza">
-<!ENTITY securityHeading.label "Per trametter u retschaiver messadis suttascrits u criptads, duessas ti inditgar tant in certificat da suttascripziun sco era in da criptaziun.">
-<!ENTITY encryptionGroupTitle.label "Criptadi">
-<!ENTITY encryptionChoiceLabel.label "Configuraziun da criptaziun predefinida cun trametter messadis:">
-<!ENTITY neverEncrypt.label "Mai (betg utilisar criptaziun)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Obligatoric (mo pussaivel da trametter sche tut ils destinaturs disponan d'in certificat)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Utilisar quest certificat per criptar &amp; decriptar messadis:">
-
 <!ENTITY e2eTitle.label "Criptadi fin-a-fin">
-<!ENTITY e2eIntro.description "Per trametter messadis criptads u suttascrits a moda digitala stos ti configurar ina tecnologia da criptadi, u OpenPGP u S/MIME.">
 <!ENTITY e2eLearnMore.label "Ulteriuras infurmaziuns">
 
 <!ENTITY e2eEnc.description "Senza criptadi fin-a-fin è il cuntegn da tes messadis expost a tes purschider dad e-mail ed a la surveglianza generala.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Stizzar">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Suttascripziun digitala">
-<!ENTITY signMessage.label "Suttascriver digitalmain messadis (sco standard)">
 <!ENTITY signMessage2.label "Agiuntar mia suttascripziun digitala tenor standard">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Utilisar quest certificat per suttascriver digitalmain messadis che vegnan tramess:">
-
-<!ENTITY certificates.label "Certificats">
-<!ENTITY manageCerts2.label "Administrar ils certificats">
-<!ENTITY manageCerts2.accesskey "m">
-<!ENTITY manageDevices.label "Moduls da criptadi">
-<!ENTITY manageDevices.accesskey "c">
 
 <!ENTITY signingCert2.message "Certificat persunal per la suttascripziun digitala:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Preferir OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Administrar las clavs OpenPGP">
-<!ENTITY manageKeys.accesskey "c">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Tscherner in certificat">

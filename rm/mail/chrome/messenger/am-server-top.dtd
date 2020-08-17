@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "messadis">
 <!ENTITY alwaysAuthenticate.label "Adina pretender in'autentificaziun cun connectar a quest server">
 <!ENTITY alwaysAuthenticate.accesskey "f">
-<!ENTITY newsrcFilePath.label "datoteca newsrc:">
-<!ENTITY newsrcPicker.label "Tscherner la datoteca newsrc">
 <!ENTITY newsrcFilePath1.label "Datoteca News.rc:">
 <!ENTITY newsrcPicker1.label "Tscherner ina datoteca News.rc">
 <!ENTITY abbreviate.label "Mussar las gruppas da discussiun en la glista dad ordinaturs cun:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Extendì…">
 <!ENTITY advancedButton.accesskey "x">
 <!ENTITY serverDefaultCharset2.label "Codaziun da text predefinida:">
-<!ENTITY localPath.label "Ordinatur local:">
 <!ENTITY localPath1.label "Ordinatur local:">
 <!ENTITY localFolderPicker.label "Tscherner in ordinatur local">
 <!ENTITY browseFolder.label "Tschertgar en…">

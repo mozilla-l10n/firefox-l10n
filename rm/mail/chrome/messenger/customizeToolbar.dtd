@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Simbols sper il text">
 <!ENTITY useSmallIcons.label      "Simbols pitschens">
 <!ENTITY restoreDefaultSet.label  "Restaurar il standard">
-<!ENTITY addNewToolbar.label      "Nova trav d'utensils">
-<!ENTITY showTitlebar.label       "Mussar la trav dal titel">
-<!ENTITY extraDragSpace.label     "Agiuntar spazi per trair">
 <!ENTITY showTitlebar2.label      "Trav dal titel">
 <!ENTITY extraDragSpace2.label    "Spazi per trair la fanestra">
 <!ENTITY saveChanges.label        "Finì">
