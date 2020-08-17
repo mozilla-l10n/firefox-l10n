@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Опции
-           *[other] Поставки
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Опции
@@ -303,7 +296,6 @@ home-prefs-snippets-header =
 ## Search Section
 
 search-engine-default-header = Основен пребарувач
-search-engine-default-desc = Изберете го основниот пребарувач кој ќе се користи во лентата за адреси и пребарување.
 
 search-suggestions-option =
     .label = Прикажувај предлог-пребарувања
@@ -339,8 +331,6 @@ search-keyword-warning-engine = Избравте клучен збор што м
 search-keyword-warning-bookmark = Избравте клучен збор што моментално се користи за обележувач. Изберете друг.
 
 ## Containers Section
-
-containers-back-link = « Назад
 
 containers-header = Контејнерски јазичиња
 containers-add-button =
@@ -389,10 +379,6 @@ sync-device-name-cancel =
     .label = Откажи
     .accesskey = к
 
-sync-tos-link = Услови за употреба
-
-sync-fxa-privacy-notice = Белешка за приватност
-
 ## Privacy Section
 
 
@@ -416,6 +402,7 @@ forms-master-pw-change =
     .accesskey = г
 
 forms-master-pw-fips-title = Моментално сте во FIPS режим. FIPS бара главна лозинка која не е празна.
+
 forms-master-pw-fips-desc = Промената на лозинката не успеа
 
 ## OS Authentication dialog
@@ -505,6 +492,8 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Сертификати
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

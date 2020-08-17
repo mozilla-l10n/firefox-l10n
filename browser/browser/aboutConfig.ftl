@@ -2,20 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-config-warning-checkbox = Изнервирај ме повторно, те молам!
-about-config-warning-button = Го прифаќам ризикот
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 ##
 
 about-config-show-all = Прикажи сѐ
-
-about-config-pref-add = Додај
-about-config-pref-edit = Уреди
-about-config-pref-save = Сними
-about-config-pref-reset = Ресетирај
-about-config-pref-delete = Избриши
 
 about-config-pref-add-button =
     .title = Додај

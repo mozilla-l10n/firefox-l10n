@@ -10,14 +10,10 @@
 
 <!ENTITY pasteNoFormatting.label "Залепи без форматирање">
 <!ENTITY pasteNoFormatting.accesskey "б">
-<!ENTITY pasteAs.label "Залепи како">
-<!ENTITY pasteAs.accesskey "а">
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
 <!ENTITY pasteAsQuotationCmd.label "Залепи како цитат">
-<!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 <!-- View menu items -->
 
 <!-- Insert menu items -->
@@ -112,8 +108,6 @@
 <!ENTITY ParagraphSelect.tooltip "Избор на формат за параграф">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Главен текст">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Напредни својства">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -129,10 +123,6 @@
 <!ENTITY alignJustify.label "Порамни од двете страни">
 <!ENTITY alignJustify.tooltip "Порамнување од двете страни">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Слој">
-<!ENTITY layerSendToBack.tooltip "Го поместува назад">
-<!ENTITY layerBringToFront.tooltip "Го поместува напред">
 
 <!ENTITY increaseIndent.label "Зголеми го поместувањето">
 <!ENTITY decreaseIndent.label "Намали го поместувањето">
@@ -188,15 +178,6 @@
 
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Лента за мени">
-<!ENTITY formatToolbar.tooltip "Алатник за форматирање">
-<!ENTITY printToolbarCmd.label "Печати">
-<!ENTITY printToolbarCmd.tooltip "Ја печати оваа страница">
-<!ENTITY findToolbarCmd.label "Пронајди">
-<!ENTITY findToolbarCmd.tooltip "Наоѓа текст на оваа страница">
-<!ENTITY spellToolbarCmd.label "Правопис">
-<!ENTITY spellToolbarCmd.tooltip "Го проверува правописот на изборот или целата страница">
-
 <!ENTITY imageToolbarCmd.label "Слика">
 <!ENTITY imageToolbarCmd.tooltip "Внесува нова слика или ги менува својствата на избраната слика">
 <!ENTITY hruleToolbarCmd.label "Х. линија">
@@ -209,7 +190,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Внесува ново именувано сидро или ги менува својствата на избраното сидро">
 <!ENTITY TextColorButton.tooltip "Избор на боја за текст">
 <!ENTITY BackgroundColorButton.tooltip "Избор на боја за позадина">
-<!ENTITY HighlightColorButton.tooltip "Избор на боја за означување на текст">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Помала големина на фонт">
@@ -241,12 +221,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Избери">
-<!ENTITY structSelect.accesskey "е">
-<!ENTITY structRemoveTag.label "Отстрани го тагот">
-<!ENTITY structRemoveTag.accesskey "р">
-<!ENTITY structChangeTag.label "Смени го тагот">
-<!ENTITY structChangeTag.accesskey "С">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "Внеси">
