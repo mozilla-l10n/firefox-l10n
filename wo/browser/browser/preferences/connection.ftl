@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Gisal boppam paraameetari proxy bu lëkkale bii
     .accesskey = i
 
-connection-proxy-http-share =
-    .label = Jëfandikoo serwëër proxy bii ci porotokol yépp
-    .accesskey = p
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

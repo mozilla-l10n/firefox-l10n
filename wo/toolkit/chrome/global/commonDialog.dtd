@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Bopp bu gatt"> 
-<!ENTITY message.label    "Mbindum misaal fii.">
-
 <!ENTITY editfield0.label "Jëfandikookat:"> 
 <!ENTITY editfield1.label "Baatu jàll:"> 
-<!ENTITY checkbox.label   "Settantal"> 
 <!ENTITY copyCmd.label    "Duppi">
 <!ENTITY copyCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "Fal lépp">

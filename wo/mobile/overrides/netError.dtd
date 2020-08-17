@@ -73,15 +73,6 @@
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj amatu ci &brandShortName;'.</p><ul><li>ngir kaarange, &brandShortName; du tëb rekk laj yenn jukki yi.</li><li>Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.</li></ul>">
 
 <!ENTITY netOffline.title "Anamu jokkoodiku">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Njumte ci suulaale këmb gi">
 <!ENTITY contentEncodingError.longDesc "<ul> 

@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = Aar ci…
     .accesskey = e
-media-preview =
-    .value = Gisaane yéenekaay bi :
 
 perm-tab =
     .label = Ndigal yi
@@ -107,7 +105,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Xameesuko
-not-set-verified-by = Non spécifié
 page-info-not-specified =
     .value = Non spécifié
 not-set-alternative-text = Non spécifié
@@ -132,7 +129,6 @@ general-quirks-mode =
     .value = Anamu waññ (quirks)
 general-strict-mode =
     .value = Anamu jox cër bu mat sëkk aada yi
-security-no-owner = Dal bi joxewul ay xibaar ci boroom.
 page-info-security-no-owner =
     .value = Dal bi joxewul ay xibaar ci boroom.
 media-select-folder = Fal benn wayndare gi ngay aar nataal yi

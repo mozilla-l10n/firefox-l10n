@@ -3,60 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Suqali">
-<!ENTITY cmd.enableAddon.accesskey            "S">
-<!ENTITY cmd.disableAddon.label               "Suuxal">
-<!ENTITY cmd.disableAddon.accesskey           "u">
-
-<!ENTITY cmd.uninstallAddon.label             "Neenal">
-<!ENTITY cmd.uninstallAddon.accesskey         "N">
-<!ENTITY cmd.showPreferencesWin.label         "Tànnéef yi">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Soppali tànnéefi modili mottali yi">
-<!ENTITY cmd.showPreferencesUnix.label        "Taamu yi">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Soppi taamu yu modilu mottali bi">
-
-<!ENTITY cmd.showReleaseNotes.label           "Wone karmati sumb">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Wone karmati sumb bu yeesal bii">
-<!ENTITY cmd.hideReleaseNotes.label           "Nëbb karmati sumb ">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Nëbb karmati sumbu yeesal bii">
-
 <!-- discovery view -->
-
-
-<!ENTITY progress.cancel.tooltip              "Neenal">
-
-
-<!ENTITY addon.details.label                  "Gën bari">
-<!ENTITY addon.details.tooltip                "Wone benn bennal yu gën bari ci modilu mottali bii">
-<!ENTITY addon.unknownDate                    "Xameesuko">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(suux)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "(Yeesal )">
-<!ENTITY addon.undoAction.label               "Neenal">
-<!ENTITY addon.undoAction.tooltip             "Neenal jëf jile">
-<!ENTITY addon.undoRemove.label               "Neenal">
-<!ENTITY addon.undoRemove.tooltip             "Denc modili mottali bii">
-
-<!ENTITY addon.install.label                  "Samp">
-<!ENTITY addon.install.tooltip                "Samp modilu mottali bii">
-<!ENTITY addon.updateNow.label                "Yeesal léegi">
-<!ENTITY addon.updateNow.tooltip              "Samp benn yeesal pur modil bi">
-<!ENTITY addon.includeUpdate.label            "Boole ci benn yeesal">
-<!ENTITY addon.updateAvailable.label          "Benn yeesal féex na">
-<!ENTITY addon.checkingForUpdates.label       "Wóoral ay yeesal…">
-<!ENTITY addon.releaseNotes.label             "Karmati sumb:">
-<!ENTITY addon.loadingReleaseNotes.label      "Fat wi…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Njumte am na bi ñuy yeb karmati sumb bi">
-
-<!ENTITY addon.createdBy.label                "Ci">
-
-<!ENTITY settings.path.button.label           "Toppaatu…">
 
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):

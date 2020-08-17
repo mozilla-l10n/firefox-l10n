@@ -41,33 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tànn benn dencukaay…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.deleteDomainData.label     "Fatte dal bile">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "Ubbi">
-<!ENTITY cmd.open.accesskey              "U">
-<!ENTITY cmd.open_window.label           "Ubbi palanteer bu bees">
-<!ENTITY cmd.open_window.accesskey       "p">
-<!ENTITY cmd.open_tab.label              "Ubbi koñ bu bees">
-<!ENTITY cmd.open_tab.accesskey          "k">
-<!ENTITY cmd.open_all_in_tabs.label      "Ubbi lépp ci ay koñ">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "l">
-
-<!ENTITY cmd.properties.label      "Jikko yi">
-<!ENTITY cmd.properties.accesskey  "J">
-
-<!ENTITY cmd.sortby_name.label              "Toftale ci ay tur">
-<!ENTITY cmd.sortby_name.accesskey          "T">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Mandarga xët bu bees…">
-<!ENTITY cmd.new_bookmark.accesskey        "M">
-<!ENTITY cmd.new_folder.label              "Wayndare bu bees…">
-<!ENTITY cmd.new_folder.accesskey          "W">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Teqalekat bu bees">
-<!ENTITY cmd.new_separator.accesskey       "T">
-
 <!ENTITY col.name.label          "Tur">
 <!ENTITY col.tags.label          "Etiket yi">
 <!ENTITY col.url.label           "Màkkaan">
@@ -87,15 +60,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Fal benn mbir ngir wone ak soppali jikko yi">
 
-<!ENTITY view.label               "Tànn">
-<!ENTITY view.accesskey           "T">
-<!ENTITY byDate.label             "Beso bes">
-<!ENTITY byDate.accesskey         "B">
-<!ENTITY bySite.label             "Daloo dal">
-<!ENTITY bySite.accesskey         "o">
-<!ENTITY byMostVisited.label      "Ci limu ganesi yi">
-<!ENTITY byMostVisited.accesskey  "C">
-<!ENTITY byLastVisited.label      "Ci besu ganesi bi mujj">
-<!ENTITY byLastVisited.accesskey  "g">
-<!ENTITY byDayAndSite.label       "Ci bes ak ci dal">
-<!ENTITY byDayAndSite.accesskey   "b">

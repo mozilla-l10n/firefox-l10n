@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Dog">
-<!ENTITY cutCmd.accesskey "g">
-<!ENTITY copyCmd.label "Duppi">
-<!ENTITY copyCmd.accesskey "D">
-<!ENTITY pasteCmd.label "Taf">
-<!ENTITY pasteCmd.accesskey "T">
-<!ENTITY undoCmd.label "Neenal">
-<!ENTITY undoCmd.accesskey "N">
-<!ENTITY selectAllCmd.label "Fal lépp">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Mabb">
-<!ENTITY deleteCmd.accesskey "M">
-
 <!ENTITY spellAddToDictionary.label "Yokk ci téere baat bi">
 <!ENTITY spellAddToDictionary.accesskey "Y">
 <!ENTITY spellUndoAddToDictionary.label "Neenal yokk ci teere baat bi">

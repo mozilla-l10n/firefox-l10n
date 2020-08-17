@@ -20,6 +20,8 @@ reset-password-window =
     .title = Far baatu jàll bi gëna am solo
     .style = width: 40em
 
+## Reset Primary Password dialog
+
 ## Downloading cert dialog
 
 download-cert-view-cert =

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Fat tànneef yi, mandarga xët yi, jaar jaar yi, baati jàll yi ak yeneen rootaan yi dale ko ci :">
 <!ENTITY importFromUnix.label           "Fat taamu yi, mandarga xët yi, jaar jaar yi, baati jàll yi ak yeneen rootaan yi dale ko ci :">
-<!ENTITY importFromBookmarks.label      "Fat mandarga xët yi dale ko ci :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

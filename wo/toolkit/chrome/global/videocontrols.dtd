@@ -10,19 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Génn ci anamu yambalaŋ">
 
 
-<!ENTITY stats.media "Yéenekaay yi">
-<!ENTITY stats.size "Dayo">
-<!ENTITY stats.activity "Yëngatu">
-<!ENTITY stats.activityPaused "Taxaw">
-<!ENTITY stats.activityPlaying "Mi ngi ci njang">
-<!ENTITY stats.activityEnded "Jeex na">
-<!ENTITY stats.activitySeeking "(wut)">
-<!ENTITY stats.volume "Rëyaay">
-<!ENTITY stats.framesParsed "Nataal yi ñu jangat">
-<!ENTITY stats.framesDecoded "Nataal yi ñu faramfacce">
-<!ENTITY stats.framesPresented "Naatal yi ñu wone">
-<!ENTITY stats.framesPainted "Nataal yi ñu rëdd">
-
 <!ENTITY error.aborted "Yebum videyoo bi taxaw.">
 <!ENTITY error.network "Njumte reso taxawal na doxub videyoo bi.">
 <!ENTITY error.decode "Wideyoo kenn mëneesuko xool ndax dencukaay bi dafa sankar.">
@@ -34,6 +21,4 @@ media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-
-<!ENTITY scrubberScale.nameFormat "#1 of #2 jàll na">
 
