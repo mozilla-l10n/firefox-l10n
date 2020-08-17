@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Impor Pengaturan, Markah (Bookmark), Riwayat, Sandi, dan data lainnya dari:">
 <!ENTITY importFromUnix.label           "Impor Pengaturan, Markah (Bookmark), Riwayat, Sandi, dan data lainnya dari:">
-<!ENTITY importFromBookmarks.label      "Impor Markah dari:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

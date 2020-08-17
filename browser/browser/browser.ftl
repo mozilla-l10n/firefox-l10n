@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Mode Penjelajahan Pribadi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Mode Penjelajahan Pribadi)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Mode Penjelajahan Pribadi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Mode Penjelajahan Pribadi)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = Anda telah memblokir akses MIDI untuk situs web ini.
 urlbar-install-blocked =
     .tooltiptext = Anda telah memblokir pemasangan pengaya untuk situs Web ini.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit markah ini ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,12 +180,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Kali ini, cari dengan:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ubah Pengaturan Pencarian
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah setelan pencarian
+
 search-one-offs-context-open-new-tab =
     .label = Cari di Tab Baru
     .accesskey = T
@@ -191,6 +197,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Jadikan sebagai Mesin Pencari Baku untuk Jendela Pribadi
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -217,8 +224,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Tampilkan editor saat menyimpan
     .accesskey = e
+
 bookmark-panel-done-button =
     .label = Selesai
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -292,12 +301,15 @@ popup-select-microphone =
     .value = Mikrofon untuk dibagikan:
     .accesskey = M
 popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
+
 popup-screen-sharing-not-now =
     .label = Jangan Sekarang
     .accesskey = J
+
 popup-screen-sharing-never =
     .label = Jangan Pernah Izinkan
     .accesskey = N
+
 popup-silence-notifications-checkbox = Nonaktifkan pemberitahuan dari { -brand-short-name } ketika berbagi
 popup-silence-notifications-checkbox-warning = { -brand-short-name } tidak akan menampilkan pemberitahuan saat Anda berbagi.
 
@@ -314,12 +326,15 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Untuk menggunakan pintasan F12, pertama buka DevTools melalui menu Pengembang Web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cari atau masukkan alamat
+
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -330,9 +345,11 @@ urlbar-permissions-granted =
     .tooltiptext = Anda telah memberikan izin tambahan kepada situs web ini.
 urlbar-switch-to-tab =
     .value = Pindah ke tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
+
 urlbar-go-button =
     .tooltiptext = Pindah ke alamat di Bilah Lokasi
 urlbar-page-action-button =

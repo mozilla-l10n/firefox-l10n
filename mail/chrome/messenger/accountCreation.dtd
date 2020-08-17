@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Atur Akun Email yang Sudah Ada">
-
 <!ENTITY emailWizard.title               "Atur Akun Surel yang Sudah Ada">
 <!ENTITY emailWizard.caption             "Gunakan alamat surel Anda">
 <!ENTITY name.label                      "Nama Anda:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "Nama Lengkap">
 <!ENTITY fullname.placeholder            "Nama lengkap Anda">
 <!ENTITY name.text                       "Nama Anda, untuk ditampilkan">
 <!ENTITY name.error                      "Masukkan nama Anda.">
 <!ENTITY email.label                     "Alamat email:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Alamat surel Anda">
 <!ENTITY email.text                      "Alamat surel yang ada">
 <!ENTITY email.error                     "Alamat surel tidak valid.">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Keluar:">
 <!ENTITY outgoingColumn.label            "Keluar">
 <!ENTITY username.label                  "Nama pengguna:">
-<!ENTITY hostname.label                  "Nama host server">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Uji ulang">
 <!ENTITY half-manual-test.accesskey      "l">
-<!ENTITY manual-edit.label               "Konfigurasi manual">
-<!ENTITY manual-edit.accesskey           "m">
 <!ENTITY manual-config.label             "Konfigurasikan secara manual...">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Dapatkan alamat surel baru…">

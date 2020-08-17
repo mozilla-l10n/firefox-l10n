@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Batal
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Merusak komputer dan data saya
-
 abuse-report-damage-reason-v2 = Ini merusak komputer saya atau membahayakan data saya
 abuse-report-damage-example = Misal: memuat malware atau mencuri data
 
-abuse-report-spam-reason = Berisi spam atau iklan
-
 abuse-report-spam-reason-v2 = Ini mengandung spam atau menyisipkan iklan yang tidak diinginkan
 abuse-report-spam-example = Misal: Memuat iklan di laman web
-
-abuse-report-settings-reason = Mengubah setelan pencarian, beranda, atau tab baru tanpa memberitahu atau bertanya pada saya
 
 abuse-report-settings-reason-v2 = Ini mengubah setelan pencarian, beranda, atau tab baru tanpa memberitahu atau bertanya pada saya
 abuse-report-settings-suggestions = Sebelum melaporkan ekstensi, Anda dapat mencoba mengubah pengaturan Anda:
 abuse-report-settings-suggestions-search = Ubah setelan pencarian baku Anda
 abuse-report-settings-suggestions-homepage = Ubah beranda dan tab baru Anda
 
-abuse-report-deceptive-reason = Berpura-pura menjadi sesuatu yang palsu
-
 abuse-report-deceptive-reason-v2 = Berpura-pura menjadi sesuatu
 abuse-report-deceptive-example = Contoh: Deskripsi atau gambar yang menyesatkan
-
-abuse-report-broken-reason-extension = Tidak berfungsi, tampilan situs web rusak, atau memperlambat { -brand-product-name }
-abuse-report-broken-reason-theme = Tidak berfungsi atau merusak tampilan peramban
 
 abuse-report-broken-reason-extension-v2 = Ini tidak berfungsi, tampilan situs web rusak, atau memperlambat { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ini tidak berfungsi atau merusak tampilan peramban
@@ -99,12 +88,8 @@ abuse-report-broken-suggestions-theme =
     untuk menyelesaikan masalah fungsionalitas adalah menghubungi pengembang tema.
     <a data-l10n-name="support-link">Kunjungi situs web tema</a> untuk mendapatkan informasi pengembang.
 
-abuse-report-policy-reason = Konten yang berisi kebencian, kekerasan, atau melanggar hukum
-
 abuse-report-policy-reason-v2 = Ini mengandung konten yang berisi kebencian, kekerasan, atau melanggar hukum
 abuse-report-policy-suggestions = Catatan: Masalah berkaitan dengan hak cipta dan merek dagang wajib dilaporkan dalama proses terpisah. <a data-l10n-name="report-infringement-link">Gunakan langkah ini</a> untuk melaporkannya.
-
-abuse-report-unwanted-reason = Tidak pernah menginginkan ekstensi ini dan tidak dapat membuangnya
 
 abuse-report-unwanted-reason-v2 = Saya tidak pernah menginginkannya dan tidak tahu bagaimana cara menghilangkannya
 abuse-report-unwanted-example = Contoh: Sebuah aplikasi memasang sesuatu tanpa izin saya

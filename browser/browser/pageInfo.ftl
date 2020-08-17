@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Simpan dengan Nama…
     .accesskey = e
-media-preview =
-    .value = Pratinjau Media:
 
 perm-tab =
     .label = Hak Akses
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ya, kuki
 security-site-data-no = Tidak
 
 image-size-unknown = Tidak Diketahui
-not-set-verified-by = Tidak ditentukan
 page-info-not-specified =
     .value = Tidak ditentukan
 not-set-alternative-text = Tidak ditentukan
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Mode "quirk"
 general-strict-mode =
     .value = Mode pemenuhan standar
-security-no-owner = Situs web ini tidak menyediakan informasi identitas.
 page-info-security-no-owner =
     .value = Situs web ini tidak menyediakan informasi identitas.
 media-select-folder = Pilih folder untuk Menyimpan Gambar

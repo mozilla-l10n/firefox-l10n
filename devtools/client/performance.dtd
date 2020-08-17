@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Nama dan lokasi sumber fungsi yang disampling.">
 <!ENTITY performanceUI.table.totalAlloc               "Jumlah Alokasi Sampel">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Jumlah total alokasi Objek yang di-samping pada lokasi ini dan pemanggilnya.">
-<!ENTITY performanceUI.table.selfAlloc                "Alokasi Sampling Mandiri">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Jumlah alokasi Objek yang di-samping pada lokasi ini.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 info-already-expired = Kunci ini telah kedaluwarsa.
+
 expire-dont-change =
     .label = Jangan mengubah tanggal kedaluwarsa
 expire-in-months = Bulan

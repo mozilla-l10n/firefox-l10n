@@ -63,9 +63,6 @@
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak ada dalam cache &brandShortName;.</p><ul><li>Sebagai tindakan pencegahan keamanan, &brandShortName; tidak meminta ulang dokumen sensitif secara otomatis.</li><li>Klik Coba Lagi untuk meminta ulang dokumen dari situs web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode luring">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Coba lagi. &brandShortName; akan mencoba membuka sambungan dan memuat ulang lamannya. <button id='wifi'>Aktifkan Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Mohon hubungi pemilik situs web mengenai masalah ini.</li> </ul>">

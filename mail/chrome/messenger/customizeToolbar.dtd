@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikon di sebelah Teks">
 <!ENTITY useSmallIcons.label      "Gunakan Ikon Kecil">
 <!ENTITY restoreDefaultSet.label  "Pulihkan Pengelompokan Tetap">
-<!ENTITY addNewToolbar.label      "Tambahkan Bilah Alat Baru">
-<!ENTITY showTitlebar.label       "Tampilkan Bilah Judul">
-<!ENTITY extraDragSpace.label     "Tambahkan Spasi Seret">
 <!ENTITY showTitlebar2.label      "Bilah Judul">
 <!ENTITY extraDragSpace2.label    "Spasi Seret">
 <!ENTITY saveChanges.label        "Selesai">

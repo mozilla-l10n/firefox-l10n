@@ -14,5 +14,7 @@ accounts-conn-security = Keamanan sambungan
 accounts-auth-method = Metode otentikasi
 accounts-default = Baku?
 identity-name = Identitas
+
 send-via-email = Kirim lewat email
+
 app-basics-telemetry = Data Telemetri

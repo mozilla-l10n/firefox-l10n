@@ -5,16 +5,22 @@
 dock-options-window-dialog =
     .title = Opsi ikon aplikasi
     .style = width: 35em;
+
 bounce-system-dock-icon =
     .label = Animasikan ikon aplikasi saat pesan baru tiba
     .accesskey = i
+
 dock-icon-legend = Lencana ikon aplikasi
+
 dock-icon-show-label =
     .value = Lencana ikon aplikasi dengan:
+
 count-unread-messages-radio =
     .label = Jumlah pesan yang belum dibaca
     .accesskey = u
+
 count-new-messages-radio =
     .label = Jumlah pesan baru
     .accesskey = n
+
 notification-settings-info = Anda bisa menonaktifkan lencana pada panel Notifikasi di Preferensi Sistem.

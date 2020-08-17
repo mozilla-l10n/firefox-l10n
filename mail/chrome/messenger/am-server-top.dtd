@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "pesan">
 <!ENTITY alwaysAuthenticate.label "Selalu kirimkan permintaan otentikasi ketika tersambung dengan server ini">
 <!ENTITY alwaysAuthenticate.accesskey "S">
-<!ENTITY newsrcFilePath.label "berkas newsrc:">
-<!ENTITY newsrcPicker.label "Pilih Berkas newsrc">
 <!ENTITY newsrcFilePath1.label "File News.rc:">
 <!ENTITY newsrcPicker1.label "Pilih File News.rc">
 <!ENTITY abbreviate.label "Tampilkan nama newsgroup pada panel Folder Email sebagai:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Khusus…">
 <!ENTITY advancedButton.accesskey "K">
 <!ENTITY serverDefaultCharset2.label "Pengodean Teks Standar:">
-<!ENTITY localPath.label "Direktori lokal:">
 <!ENTITY localPath1.label "Direktori Lokal:">
 <!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
 <!ENTITY browseFolder.label "Telusuri…">

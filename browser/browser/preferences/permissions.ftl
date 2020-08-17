@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Mohon masukkan nama host yang valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Pengecualian - Pemblokiran Konten
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Anda telah menonaktifkan pemblokiran konten di situs berikut.
-
 permissions-exceptions-etp-window =
     .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Kekecualian - Putar Otomatis
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Anda dapat menentukan situs web mana saja yang selalu atau tidak diizinkan memutar otomatis media dengan suara. Ketik alamat situs yang akan diatur, lalu klik Blokir atau Izinkan.
 
 ## Site Permissions - Autoplay
 

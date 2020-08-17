@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Keluar dari Layar Penuh
 find = Cari
 new-tab = Tab baru
 add-bookmark = Tambah markah
-open-bookmarks-sidebar = Buka Bilah Samping Markah
 reader-view = Tampilan Baca
 # Meant to match the string displayed in an empty URL bar.
 open-location = Cari atau masukkan alamat
