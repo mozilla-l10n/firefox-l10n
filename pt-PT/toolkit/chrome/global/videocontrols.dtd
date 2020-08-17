@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Vídeo em janela flutuante">
 
-<!ENTITY stats.media "Multimédia">
-<!ENTITY stats.size "Tamanho">
-<!ENTITY stats.activity "Atividade">
-<!ENTITY stats.activityPaused "Pausado">
-<!ENTITY stats.activityPlaying "A reproduzir">
-<!ENTITY stats.activityEnded "Terminada">
-<!ENTITY stats.activitySeeking "(a procurar)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.framesParsed "Frames analisados">
-<!ENTITY stats.framesDecoded "Frames descodificados">
-<!ENTITY stats.framesPresented "Frames mostrados">
-<!ENTITY stats.framesPainted "Frames desenhados">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Reprodução de vídeo abortada devido a um erro desconhecido.">
 
 <!ENTITY status.pictureInPicture "Este vídeo está a ser reproduzido numa janela flutuante.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "Reproduzidos #1 de #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

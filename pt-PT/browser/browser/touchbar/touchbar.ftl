@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Sair do ecrã completo
 find = Localizar
 new-tab = Novo separador
 add-bookmark = Adicionar marcador
-open-bookmarks-sidebar = Abrir barra lateral de marcadores
 reader-view = Vista de leitura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Pesquisar ou introduzir endereço
