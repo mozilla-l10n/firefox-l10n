@@ -8,8 +8,10 @@ password-quality-meter = มาตรวัดคุณภาพรหัสผ�
 
 change-password-window =
     .title = เปลี่ยนรหัสผ่านหลัก
+
 change-device-password-window =
     .title = เปลี่ยนรหัสผ่าน
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = อุปกรณ์ความปลอดภัย: { $tokenName }
@@ -22,6 +24,7 @@ change-password-reenter = รหัสผ่านใหม่ (อีกคร�
 reset-password-window =
     .title = ล้างรหัสผ่านหลัก
     .style = width: 40em
+
 pippki-failed-pw-change = ไม่สามารถเปลี่ยนรหัสผ่านได้
 pippki-pw-change-ok = เปลี่ยนรหัสผ่านสำเร็จแล้ว
 

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = แหล่งข้อมูล Ping:
-about-telemetry-show-current-ping-data = ข้อมูล ping ปัจจุบัน
 about-telemetry-show-current-data = ข้อมูลปัจจุบัน
 about-telemetry-show-archived-ping-data = ข้อมูล ping ที่เก็บถาวร
 about-telemetry-show-subsession-data = แสดงข้อมูลการส่ง
@@ -75,7 +74,6 @@ about-telemetry-settings-explanation = การวัดและส่งข�
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = ข้อมูลแต่ละชิ้นจะถูกส่งไปรวมไว้ใน “<a data-l10n-name="ping-link">pings</a>” คุณกำลังดู ping { $name }, { $timestamp }
-about-telemetry-ping-details-current = ข้อมูลแต่ละชิ้นจะถูกส่งไปรวมไว้ใน “<a data-l10n-name="ping-link">pings</a>” คุณกำลังดู ping ปัจจุบัน
 about-telemetry-data-details-current = ข้อมูลแต่ละชิ้นจะถูกส่งไปรวมไว้ใน “<a data-l10n-name="ping-link">pings</a>” คุณกำลังดูข้อมูลปัจจุบัน
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -101,8 +99,6 @@ about-telemetry-no-search-results-all = ขออภัย! ไม่มีผ�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = ขออภัย! ขณะนี้ไม่มีข้อมูลใน “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping ปัจจุบัน
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = ข้อมูลปัจจุบัน
 # used in the “Ping Type” select

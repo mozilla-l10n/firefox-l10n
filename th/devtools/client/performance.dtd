@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "ชื่อและตำแหน่งต้นทางของฟังก์ชันที่ถูกสุ่มตัวอย่าง">
 <!ENTITY performanceUI.table.totalAlloc               "การจัดสรรที่ถูกสุ่มตัวอย่างรวม">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "จำนวนการจัดสรรวัตถุที่ถูกสุ่มตัวอย่างรวมที่ตำแหน่งนี้และในตำแหน่งที่ถูกเรียก">
-<!ENTITY performanceUI.table.selfAlloc                "การจัดสรรที่ถูกสุ่มตัวอย่างเฉพาะส่วน">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "จำนวนการจัดสรรวัตถุที่ถูกสุ่มตัวอย่างที่ตำแหน่งนี้">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

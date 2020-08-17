@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "ตั้งค่าบัญชีอีเมลที่มีอยู่">
-
 <!ENTITY emailWizard.title               "ตั้งค่าที่อยู่อีเมลที่มีอยู่">
 <!ENTITY emailWizard.caption             "ใช้ที่อยู่อีเมลปัจจุบันของคุณ">
 <!ENTITY name.label                      "ชื่อของคุณ:">
 <!ENTITY name.accesskey                  "ช">
-<!ENTITY name.placeholder                "ชื่อจริง นามสกุล">
 <!ENTITY fullname.placeholder            "ชื่อเต็มของคุณ">
 <!ENTITY name.text                       "ชื่อของคุณที่จะแสดงให้ผู้อื่นเห็น">
 <!ENTITY name.error                      "โปรดป้อนชื่อของคุณ">
 <!ENTITY email.label                     "ที่อยู่อีเมล:">
 <!ENTITY email.accesskey                 "ท">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "ที่อยู่อีเมลของคุณ">
 <!ENTITY email.text                      "ที่อยู่อีเมลที่มีอยู่ของคุณ">
 <!ENTITY email.error                     "ที่อยู่อีเมลผิดรูปแบบ">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "ขาออก:">
 <!ENTITY outgoingColumn.label            "ขาออก">
 <!ENTITY username.label                  "ชื่อผู้ใช้:">
-<!ENTITY hostname.label                  "ชื่อโฮสต์เซิร์ฟเวอร์">
-<!ENTITY port.label                      "พอร์ต">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "เซิร์ฟเวอร์:">
 <!ENTITY portRow.label                   "พอร์ต:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "ทดสอบใหม่">
 <!ENTITY half-manual-test.accesskey      "ท">
-<!ENTITY manual-edit.label               "การกำหนดค่าด้วยตนเอง">
-<!ENTITY manual-edit.accesskey           "ก">
 <!ENTITY manual-config.label             "ตั้งค่าด้วยตนเอง…">
 <!ENTITY manual-config.accesskey         "ต">
 <!ENTITY open-provisioner.label          "รับที่อยู่อีเมลใหม่…">

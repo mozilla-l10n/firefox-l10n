@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "ความปลอดภัย">
-<!ENTITY securityTab.label "ความปลอดภัย">
-<!ENTITY securityHeading.label "เพื่อส่งและรับข้อความที่ถูกลงชื่อหรือเข้ารหัส คุณควรระบุทั้งใบรับรองลายเซ็นดิจิทัลและใบรับรองการเข้ารหัส">
-<!ENTITY encryptionGroupTitle.label "การเข้ารหัส">
-<!ENTITY encryptionChoiceLabel.label "การตั้งค่าการเข้ารหัสเริ่มต้นขณะส่งข้อความ:">
-<!ENTITY neverEncrypt.label "ไม่ต้องเข้ารหัส">
-<!ENTITY neverEncrypt.accesskey "ม">
-<!ENTITY alwaysEncryptMessage.label "ต้องเข้ารหัส (จะไม่สามารถส่งข้อความได้เว้นแต่ผู้รับทั้งหมดจะมีใบรับรอง)">
-<!ENTITY alwaysEncryptMessage.accesskey "ต">
-<!ENTITY encryptionCert.message "ใช้ใบรับรองนี้เพื่อเข้าและถอดรหัสข้อความที่ถูกส่งถึงคุณ:">
-
 <!ENTITY e2eTitle.label "การเข้ารหัสแบบครอบคลุม">
-<!ENTITY e2eIntro.description "หากต้องการส่งข้อความที่เข้ารหัสหรือลงลายเซ็นแบบดิจิทัล คุณจำเป็นต้องกำหนดค่าเทคโนโลยีการเข้ารหัสทั้ง OpenPGP หรือ S/MIME">
 <!ENTITY e2eLearnMore.label "เรียนรู้เพิ่มเติม">
 
 <!ENTITY e2eEnc.description "หากไม่มีการเข้ารหัสแบบครอบคลุม เนื้อหาของข้อความต่าง ๆ จะถูกเปิดเผยต่อผู้ให้บริการอีเมลของคุณและผู้สอดแนมสาธารณะจำนวนมากอย่างง่ายดาย">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "ล้าง">
 <!ENTITY encryption.certificate_clear.accesskey "า">
 <!ENTITY signingGroupTitle.label "ลายเซ็นดิจิทัล">
-<!ENTITY signMessage.label "ลงลายเซ็นข้อความแบบดิจิทัล (ตามค่าเริ่มต้น)">
 <!ENTITY signMessage2.label "เพิ่มลายเซ็นดิจิทัลของฉันตามค่าเริ่มต้น">
 <!ENTITY signMessage.accesskey "ซ">
-<!ENTITY signingCert.message "ใช้ใบรับรองนี้เพื่อลงลายเซ็นข้อความที่คุณส่งแบบดิจิทัล:">
-
-<!ENTITY certificates.label "ใบรับรอง">
-<!ENTITY manageCerts2.label "จัดการใบรับรอง">
-<!ENTITY manageCerts2.accesskey "จ">
-<!ENTITY manageDevices.label "อุปกรณ์ความปลอดภัย">
-<!ENTITY manageDevices.accesskey "ภ">
 
 <!ENTITY signingCert2.message "ใบรับรองส่วนตัวสำหรับการลงลายเซ็นแบบดิจิทัล:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "ต้องการ OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "จัดการกุญแจ OpenPGP">
-<!ENTITY manageKeys.accesskey "ค">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "เลือกใบรับรอง">

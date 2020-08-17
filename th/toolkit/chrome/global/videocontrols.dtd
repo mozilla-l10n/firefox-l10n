@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "ภาพที่เล่นควบคู่">
 
-<!ENTITY stats.media "สื่อ">
-<!ENTITY stats.size "ขนาด">
-<!ENTITY stats.activity "กิจกรรม">
-<!ENTITY stats.activityPaused "หยุดชั่วคราวอยู่">
-<!ENTITY stats.activityPlaying "กำลังเล่น">
-<!ENTITY stats.activityEnded "จบแล้ว">
-<!ENTITY stats.activitySeeking "(กำลังค้นหา)">
-<!ENTITY stats.volume "ระดับเสียง">
-<!ENTITY stats.framesParsed "เฟรมที่วิเคราะห์แล้ว">
-<!ENTITY stats.framesDecoded "เฟรมที่ถอดรหัสแล้ว">
-<!ENTITY stats.framesPresented "เฟรมที่แสดงผลแล้ว">
-<!ENTITY stats.framesPainted "เฟรมที่วาดแล้ว">
-
 <!ENTITY error.aborted "วิดีโอหยุดโหลด">
 <!ENTITY error.network "การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดทางเครือข่าย">
 <!ENTITY error.decode "ไม่สามารถเล่นวิดีโอได้เนื่องจากไฟล์เสียหาย">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดที่ไม่ระบุไม่ได้">
 
 <!ENTITY status.pictureInPicture "วิดีโอนี้กำลังเล่นในโหมดภาพที่เล่นควบคู่">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "ผ่านไปแล้ว #1 จาก #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = ระวังมังกร!
-about-config-warning-text = การเปลี่ยนการตั้งค่าขั้นสูงเหล่านี้อาจเป็นอันตรายต่อเสถียรภาพ ความปลอดภัย และประสิทธิภาพของแอปพลิเคชันนี้ คุณควรดำเนินการต่อเฉพาะเมื่อคุณแน่ใจว่าคุณกำลังทำอะไรอยู่เท่านั้น
-about-config-warning-checkbox = ได้โปรดกวนฉันอีกที!
-about-config-warning-button = ฉันยอมรับความเสี่ยง
-
-about-config2-title = การกำหนดค่าขั้นสูง
-
-about-config-search-input =
-    .placeholder = ค้นหา
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ดำเนินการต่อด้วยความระมัดระวัง
@@ -32,13 +21,6 @@ about-config-page-title = ค่ากำหนดขั้นสูง
 about-config-search-input1 =
     .placeholder = ค้นหาชื่อค่ากำหนด
 about-config-show-all = แสดงทั้งหมด
-
-about-config-pref-add = เพิ่ม
-about-config-pref-toggle = เปิด/ปิด
-about-config-pref-edit = แก้ไข
-about-config-pref-save = บันทึก
-about-config-pref-reset = กลับค่าเดิม
-about-config-pref-delete = ลบ
 
 about-config-pref-add-button =
     .title = เพิ่ม

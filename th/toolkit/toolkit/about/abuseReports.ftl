@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = ยกเลิก
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = ทำลายคอมพิวเตอร์และข้อมูลของฉัน
-
 abuse-report-damage-reason-v2 = มันทำให้คอมพิวเตอร์หรือข้อมูลของฉันเสียหาย
 abuse-report-damage-example = ตัวอย่างเช่น: สอดแทรกมัลแวร์หรือขโมยข้อมูล
 
-abuse-report-spam-reason = สร้างสแปมหรือโฆษณา
-
 abuse-report-spam-reason-v2 = มันมีสแปมหรือแทรกโฆษณาที่ไม่พึงประสงค์
 abuse-report-spam-example = ตัวอย่างเช่น: ใส่โฆษณาบนหน้าเว็บ
-
-abuse-report-settings-reason = เปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
 
 abuse-report-settings-reason-v2 = มันเปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
 abuse-report-settings-suggestions = ก่อนรายงานส่วนขยายนี้ คุณสามารถทดลองเปลี่ยนการตั้งค่าของคุณ:
 abuse-report-settings-suggestions-search = เปลี่ยนการตั้งค่าการค้นหาเริ่มต้นของคุณ
 abuse-report-settings-suggestions-homepage = เปลี่ยนหน้าแรกและแท็บใหม่ของคุณ
 
-abuse-report-deceptive-reason = แกล้งทำเป็นสิ่งที่ไม่ใช่
-
 abuse-report-deceptive-reason-v2 = มันอ้างว่าเป็นอย่างอื่นที่มันไม่ได้เป็น
 abuse-report-deceptive-example = ตัวอย่างเช่น: คำอธิบายหรือรูปภาพชี้นำไปในทางที่ผิด
-
-abuse-report-broken-reason-extension = ไม่ทำงาน, ทำให้เว็บไซต์ล่ม, หรือทำให้ { -brand-product-name } ช้าลง
-abuse-report-broken-reason-theme = ไม่ทำงานหรือทำให้การแสดงผลของเบราว์เซอร์เสียหาย
 
 abuse-report-broken-reason-extension-v2 = มันไม่ทำงาน, ทำให้เว็บไซต์ล่ม, หรือทำให้ { -brand-product-name } ช้าลง
 abuse-report-broken-reason-theme-v2 = มันไม่ทำงานหรือทำให้การแสดงผลของเบราว์เซอร์เสียหาย
@@ -93,12 +82,8 @@ abuse-report-broken-example = ตัวอย่างเช่น: คุณล
 abuse-report-broken-suggestions-extension = ดูเหมือนคุณจะระบุบั๊กแล้ว นอกจากคุณจะส่งรายงานที่นี่แล้ว วิธีที่ดีที่สุดเพื่อให้ปัญหาเกี่ยวกับการทำงานได้รับการแก้ไขคือให้ติดต่อนักพัฒนาส่วนขยาย <a data-l10n-name="support-link">เยี่ยมชมเว็บไซต์ของส่วนขยาย</a>เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับนักพัฒนา
 abuse-report-broken-suggestions-theme = ดูเหมือนคุณจะระบุบั๊กแล้ว นอกจากคุณจะส่งรายงานที่นี่แล้ว วิธีที่ดีที่สุดเพื่อให้ปัญหาเกี่ยวกับการทำงานได้รับการแก้ไขคือให้ติดต่อนักพัฒนาชุดตกแต่ง <a data-l10n-name="support-link">เยี่ยมชมเว็บไซต์ของชุดตกแต่ง</a>เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับนักพัฒนา
 
-abuse-report-policy-reason = เนื้อหาด้านความเกลียดชัง ความรุนแรง หรือผิดกฎหมาย
-
 abuse-report-policy-reason-v2 = มันมีเนื้อหาที่แสดงความเกลียดชัง ความรุนแรง หรือผิดกฎหมาย
 abuse-report-policy-suggestions = หมายเหตุ: ประเด็นด้านลิขสิทธิ์และเครื่องหมายการค้าจะต้องถูกรายงานในกระบวนการแยกจากนี้ <a data-l10n-name="report-infringement-link">ใช้คำแนะนำเหล่านี้</a>ในการรายงานปัญหา
-
-abuse-report-unwanted-reason = ไม่ต้องการส่วนขยายนี้อีกแล้วและไม่สามารถกำจัดมันได้
 
 abuse-report-unwanted-reason-v2 = ฉันไม่เคยต้องการมันและไม่รู้จะกำจัดมันได้อย่างไร
 abuse-report-unwanted-example = ตัวอย่าง: แอปพลิเคชันติดตั้งส่วนขยายนี้โดยที่ฉันไม่อนุญาต

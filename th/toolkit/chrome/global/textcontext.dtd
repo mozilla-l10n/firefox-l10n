@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "ตัด">
-<!ENTITY cutCmd.accesskey "ต">
-<!ENTITY copyCmd.label "คัดลอก">
-<!ENTITY copyCmd.accesskey "ค">
-<!ENTITY pasteCmd.label "วาง">
-<!ENTITY pasteCmd.accesskey "ว">
-<!ENTITY undoCmd.label "เลิกทำ">
-<!ENTITY undoCmd.accesskey "ล">
-<!ENTITY selectAllCmd.label "เลือกทั้งหมด">
-<!ENTITY selectAllCmd.accesskey "อ">
-<!ENTITY deleteCmd.label "ลบ">
-<!ENTITY deleteCmd.accesskey "บ">
-
 <!ENTITY spellAddToDictionary.label "เพิ่มลงในพจนานุกรม">
 <!ENTITY spellAddToDictionary.accesskey "พ">
 <!ENTITY spellUndoAddToDictionary.label "ยกเลิกการเพิ่มลงในพจนานุกรม">

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "นำเข้าตัวเลือก, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลอื่น ๆ จาก:">
 <!ENTITY importFromUnix.label           "นำเข้าค่ากำหนด, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลอื่น ๆ จาก:">
-<!ENTITY importFromBookmarks.label      "นำเข้าที่คั่นหน้าจาก:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

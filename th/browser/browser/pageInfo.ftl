@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = บันทึกเป็น…
     .accesskey = บ
-media-preview =
-    .value = ตัวอย่างสื่อ:
 
 perm-tab =
     .label = สิทธิอนุญาต
@@ -132,7 +130,6 @@ security-site-data-cookies-only = ใช่, คุกกี้
 security-site-data-no = ไม่
 
 image-size-unknown = ไม่ทราบ
-not-set-verified-by = ไม่ระบุ
 page-info-not-specified =
     .value = ไม่ระบุ
 not-set-alternative-text = ไม่ระบุ
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = โหมดไม่ตามมาตรฐาน
 general-strict-mode =
     .value = โหมดตามมาตรฐาน
-security-no-owner = เว็บไซต์นี้ไม่มีข้อมูลเจ้าของเว็บ
 page-info-security-no-owner =
     .value = เว็บไซต์นี้ไม่มีข้อมูลเจ้าของเว็บ
 media-select-folder = เลือกโฟลเดอร์ที่จะบันทึกภาพ

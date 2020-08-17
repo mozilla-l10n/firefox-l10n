@@ -8,7 +8,9 @@ finger-verified =
     .label = สถานะการยืนยัน
 finger-fingerprint =
     .label = ลายนิ้วมือ
+
 finger-remove =
     .label = เอาที่เลือกออก
+
 finger-remove-all =
     .label = เอาทั้งหมดออก
