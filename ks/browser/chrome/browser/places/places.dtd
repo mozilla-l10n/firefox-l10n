@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "فایل ژٲریو...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "یَتھ سایٹئ متعلق مشرٲویو">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "کھولیو">
-<!ENTITY cmd.open.accesskey              "ک">
-<!ENTITY cmd.open_window.label           "نئو۪ی وِنڈو منز كھولیو">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "اوپْن کْریو أکس نْو پرایوٹ وینڈو منز &amp;">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "نئوس ٹیبس منز كھولیو">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "سٲری كھولیو ٹیبزن منز">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "خصوصیات">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "ناوئ حسابئ ژٲریو">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "نئو نشان زَد...">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "نئو فولڈر...">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "نئو تئ الگ كرئن وۄل">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "ناو">
 <!ENTITY col.tags.label          "ٹیگس">
 <!ENTITY col.url.label           "جاے">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "گریند وچھیو">
 <!ENTITY col.dateadded.label     "رلٲومُت">
 <!ENTITY col.lastmodified.label  "ٲخری تبدیل كرموْت">
-
-<!ENTITY historySearch.placeholder  "تٲریخ ژھٲنڈيو">
-<!ENTITY bookmarksSearch.placeholder  "نشان زَد ژھٲنڈيو">
 
 <!ENTITY cmd.find.key  "F">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "آیٹم ژٲریو امچئ خصوصیات وچھنئ تئ بدلاونئ خٲطرئ">
 
-<!ENTITY view.label               "وچھیو">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "تٲریخ ہسابئ">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "سایٹئ ہسابئ">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "زیادئ وچھمئت  ہسابئ">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "ٲخری وچھمت ہسابئ">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "تٲریخ تئ سایٹئ ہسابئ">
-<!ENTITY byDayAndSite.accesskey   "t">

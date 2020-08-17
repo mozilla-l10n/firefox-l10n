@@ -11,19 +11,6 @@
 
 
 
-<!ENTITY stats.media "میڈیا">
-<!ENTITY stats.size "سایز">
-<!ENTITY stats.activity "كٲم">
-<!ENTITY stats.activityPaused "روٛكیمُت">
-<!ENTITY stats.activityPlaying "چلاوان">
-<!ENTITY stats.activityEnded "مكلیمُت">
-<!ENTITY stats.activitySeeking "(ژھانڈان)">
-<!ENTITY stats.volume "آواز">
-<!ENTITY stats.framesParsed "فریم پارسڈ">
-<!ENTITY stats.framesDecoded "فریم ڈی كوڈ كرمِت">
-<!ENTITY stats.framesPresented "فریم موجود">
-<!ENTITY stats.framesPainted "فریم پینٹ كرمِت">
-
 <!ENTITY error.aborted "ویڈیو لوڈ كروٛن رۄكٲومُت">
 <!ENTITY error.network "ویڈیو پلے بیك مكلیمُت نیٹورك دِقت كئ وجئ سٲت">
 <!ENTITY error.decode "ویڈیو ہیكٲو نئ چلٲوِتھ كیازئ كئ فایل چھَ كورپٹ">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 of #2 مكلیو">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

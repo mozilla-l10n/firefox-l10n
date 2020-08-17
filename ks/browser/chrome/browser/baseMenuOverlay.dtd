@@ -2,52 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "كم كریو">
-<!ENTITY bringAllToFront.label    "برونٹھ كُن انیو سٲری">
-<!ENTITY zoomWindow.label         "زوم">
-<!ENTITY windowMenu.label         "وینڈو">
-
-<!ENTITY helpMenu.label           "مدد"> 
-<!ENTITY helpMenu.accesskey       "م"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "مدد"> 
-<!ENTITY helpMenuWin.accesskey    "م">
-
 <!ENTITY aboutProduct2.label      " برانڈ شاٹ ناو؛;مُتلق&amp;">
 <!ENTITY aboutProduct2.accesskey  "ب">
-<!ENTITY productHelp2.label       " &amp;برانڈ شاٹ ناو؛ مدد">
-<!ENTITY productHelp2.accesskey   "م">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "کی بورڈ شاٹ کٹ&amp;">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "&amp; تئ دوبارئ كریو شروع ایڈ آنس بند كریتھ...">
-<!ENTITY helpSafeMode.accesskey   "R">
 
 
-
-<!ENTITY helpTroubleshootingInfo.label      "&amp; مثلئ ہل كرنچ مولومات">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "&amp; پنِن راے كریو دٲخل...">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY helpShowTour2.label            "  ٹوور &amp;برانڈ شاٹ ناو؛ ">
-<!ENTITY helpShowTour2.accesskey        "ب">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "خدمات">
 
 <!ENTITY hideThisAppCmdMac2.label       "ژۄر۪ی تھٲویو &amp;برانڈ شاٹ ناو؛;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "باقی تھٲویو ژور۪ی">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "سٲری ہٲویو">
 

@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] آپشنس
-           *[other] ترجیح
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] آپشنس
@@ -318,10 +311,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = خدمَتِق شرط
-
-sync-fxa-privacy-notice = پرایوسی نوٹِس
-
 ## Privacy Section
 
 
@@ -342,6 +331,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = { "  " }موڈس منز چھیو توہیہ وْنکینس۔ اکھ نان۔ایمپٹی ماسٹر پاس وأرڈ چُھ ضرورت اتھFIPS۔ FIPS
+
 forms-master-pw-fips-desc = خفیہ لفظ   تبدیلی گئی ناكام
 
 ## OS Authentication dialog
@@ -429,6 +419,8 @@ certs-header = سرٹیفیکٹس
 certs-enable-ocsp =
     .label = کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز
     .accesskey = ک
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

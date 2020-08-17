@@ -12,10 +12,6 @@ connection-proxy-option-auto =
     .label = آٹو ڈیٹیكٹ پراكزی سیٹینگس یم۪ی نیٹورك خٲطرئ
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = یئ پراكزی سرور كریو استیمال سارزی پروٹوكالزن خٲطرئ
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

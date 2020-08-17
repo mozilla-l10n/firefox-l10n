@@ -21,6 +21,9 @@ change-password-reenter = نئو ئ خفیہ لفظ(دوبارہ)
 reset-password-window =
     .title = &ماسٹر خفیہ   لفظ كریو ری سیٹ
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = ری سیٹ کریو
 reset-password-text = اگر توہیہ ریسیٹ کْریو پنُن ماسٹر پاس وأرڈ، تُہند تمام سِٹور ویب تْہ ایمیل۔پاس وأرڈ، فارم ڈاٹا، ذأتی سرٹیفیکیٹ، تْہ پرایوٹ کی یِین مشراونْہ۔ کیاہ توہیہ چھیو پْز پأٹھ ماسٹر پاس وأرڈ ریسیٹ کرُن یژھان؟

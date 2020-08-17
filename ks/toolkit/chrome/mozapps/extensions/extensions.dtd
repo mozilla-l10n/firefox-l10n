@@ -13,31 +13,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "مجاز">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "نا ممكن">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "پریژھیو ایکٹیویٹ کرنْہ باپت">
-<!ENTITY cmd.askToActivate.tooltip            "پریژھیو استعمال کرنْہ باپت یہ ایڈ۔آن پریتھ سات">
-<!ENTITY cmd.alwaysActivate.label             "ہمیشہ کْریو ایکٹیویٹ">
-<!ENTITY cmd.alwaysActivate.tooltip           "ہمیشہ کْریو یہ ایڈ آن استعمال">
-<!ENTITY cmd.neverActivate.label              "زانہہ مْہ کْریو ایکٹیویٹ">
-<!ENTITY cmd.neverActivate.tooltip            "یہ ایڈ۔آن مْہ کْریو زانہہ استعمال">
-<!ENTITY cmd.stateMenu.tooltip                "تبدیل کْریو ییلہ یہ ایڈ آن رن کرِ">
-
-<!ENTITY cmd.uninstallAddon.label             "تئ ہٹئویو">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "آپشنس  ">
-<!ENTITY cmd.showPreferencesWin.tooltip       "یئ ایڈ آن صورت بدلٲویو">
-<!ENTITY cmd.showPreferencesUnix.label        "ترجیح ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "یئ ایڈ آن ترجیح بدلٲویو">
-
-<!ENTITY cmd.showReleaseNotes.label           "ریلیز نوٹس ہٲویو">
-<!ENTITY cmd.showReleaseNotes.tooltip         "یَتھ اپڈیٹس خٲطرئ ہٲویو ریلیز نوٹس">
-<!ENTITY cmd.hideReleaseNotes.label           "ریلیز نوٹس تھَویو ژۄر۪ی">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "یَتھ اپڈیٹس خٲطرئ تھَویو  ریلیز نوٹس ژۄر۪ی">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -49,44 +24,13 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "منسوخ">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "مزید">
-<!ENTITY addon.details.tooltip                "یَتھ ايد ایڈ آنس متعلق ہٲویو مزید تفصیلات">
-<!ENTITY addon.unknownDate                    "نامولوم">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(نا ممكن بنٲومُت)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "اپ ڈیٹ ">
-<!ENTITY addon.undoAction.label               "انڈو">
-<!ENTITY addon.undoAction.tooltip             "یئ حركت كریو اَن ڈو">
-<!ENTITY addon.undoRemove.label               "انڈو">
-<!ENTITY addon.undoRemove.tooltip             "یئ ایڈ آن تھٲویو انسٹال كر۪یتھ">
 
-<!ENTITY addon.install.label                  "اِنسٹال">
-<!ENTITY addon.install.tooltip                "یئ ایڈ آن كریو اِنسٹال">
-<!ENTITY addon.updateNow.label                "وئن كریو اپڈیٹ">
-<!ENTITY addon.updateNow.tooltip              "یَتھ ایڈ آنس خٲطرئ كریو اپڈیٹ اِنسٹال">
-<!ENTITY addon.includeUpdate.label            "اپ ڈیٹس منز كریو شٲمل">
-<!ENTITY addon.updateAvailable.label          "اپ ڈیٹ چھُ دستیاب">
-<!ENTITY addon.checkingForUpdates.label       "اپڈیٹس خٲطرئ وچھان">
-<!ENTITY addon.releaseNotes.label             "ریلیز نوٹس">
-<!ENTITY addon.loadingReleaseNotes.label      "لوڈ كران">
-<!ENTITY addon.errorLoadingReleaseNotes.label "مٲفی گژھ۪ی دِن، مگر ریلیز نوٹس لوڈ كرَن ویز۪ی گیی غلطی">
-
-<!ENTITY addon.createdBy.label                "سنز زریع">
-
-<!ENTITY settings.path.button.label           "ژھانڈ">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

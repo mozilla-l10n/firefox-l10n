@@ -14,6 +14,7 @@ pw-erased-ok = تہئ چھُوئ ماسٹر خوفیئ لفظ خٲرج كرمُ�
 pw-not-wanted = آگہی۔ تہئ چھُوئ ماسٹر خوفیئ لفظ نئ استیمال كرنُك فٲصلئ كرمُت { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = توہیہ چھیو وْنکینس فیپْس موڈس منز۔ فیپس چُھ ضرورت اکھ نان۔ایمپٹی ماسٹر پاس وأرڈ۔
+
 pw-change-success-title = خفیہ لفظ   تبدیلی گئی كامیاب
 pw-change-failed-title = خفیہ لفظ   تبدیلی گئی ناكام
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = ۔ماسٹر خفیہ   لفظ  بدلٲویو
+
 set-password-old-password = حالیئ خفیئ لفظ:
 set-password-new-password = نئو خوفیا لفظ :
 set-password-reenter-password = نئو خوفیا لفظ كریل دٲخل :
@@ -31,6 +33,7 @@ master-password-warning = مہربأنی کْرتھ بنأیو یقینی زِ �
 
 remove-password =
     .title = ماسٹر خفیہ   لفظ  ہٹٲویو
+
 remove-info =
     .value = تہ پز۪ی حالُك خوفیا لفظ دئخل كرُن برونٹھ پكنئ خٲطرئ
 remove-warning1 = تُہند ماسٹر پاس وأرڈ چُھ استعمال گژھان محفوظ کرنْہ باپت حساس انفارمیشن مثلن سایٹ پاس وأرڈ۔

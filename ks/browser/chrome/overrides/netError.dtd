@@ -10,72 +10,39 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "ہیك نئ رٲبطئ كر۪یتھ">
-
 <!ENTITY connectionFailure.longDesc "&amp; لانگ ڈیسك  كریو شیر">
-
-<!ENTITY deniedPortAccess.title "یئ پتئ چھُ زٲتی">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY fileNotFound.title "فایل آی نئ اتھ۪ی">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>چک کْریو فایل ناو کیپٹیلایزیشن یا بدل ٹایپینگ ایرر باپت۔</li> <li>چک کْریو وچھنْہ باپت ذِ فایل چھاہ مو کرنْہ آمْژ، دوبار نام دِنْہ آمْژ یا ڈیلیٹ کرنْہ آمْژ</li> </ul>">
-
-
-<!ENTITY generic.title "اوہ">
 
 
 
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY netInterrupt.title "رٲبطس منز پیو خلل">
-
 <!ENTITY netInterrupt.longDesc "&amp; لانگ ڈیسك  كریو شیر">
-
-<!ENTITY notCached.title "دستاویز مكلیو">
 
 <!ENTITY notCached.longDesc "<p>مطلوب دستاویز چُھ نْہ دستیاب برانڈ شاٹ ناو؛ کیشے منز۔</p><ul><li>بطور اکھ حفاظتی احتیاط، برانڈ شاٹ ناو؛ چُھ نْہ آٹومیٹیکلی دوبار درخواست کران حساھ دستاویز۔</li><li>کْلک کْریو دوبار کْریو کوشش دوبار  درخواست کرنْہ باپت دستاویز ویب سایٹِہ پیٹھ۔</li></ul>">
 
-<!ENTITY netOffline.title "آفلاین موڈ">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>پریس کْریو   &quot;Try Again&quot; سوچ کرنْہ باپت آن لاین موڈس کُن تْہ پیج ری لوڈ کرنْہ باپت۔ </li> </ul>">
-
-<!ENTITY contentEncodingError.title "مشمولات اینكوڈینگ غلطی">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li> </ul>">
 
-<!ENTITY unsafeContentType.title "غئر محفوط فایل ٹایپ">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِم انفارم کرنْہ باپت یہ پرابلیم۔</li> </ul>">
-
-<!ENTITY netReset.title "رٲبطئ اوس ریسیٹ كرنئ آمُٹ">
 
 <!ENTITY netReset.longDesc "&amp; لانگ ڈیسك  كریو شیر">
 
-<!ENTITY netTimeout.title "رٲبطس مكلیو وقت">
-
 <!ENTITY netTimeout.longDesc "&amp; لانگ ڈیسك  كریو شیر">
-
-<!ENTITY unknownProtocolFound.title "پتئ اوس نئ آمُٹ سمجھ">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>توہیہ ما پْیہ ضرورت بدل سافٹ وْیر انسٹال کرُن یہ پتاہ اوپْن کرنْہ باپت۔</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "پراكزی سرور چھُ رٲبطئ رد كران">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>چک کْریو پراکزی سیٹینگ یقینی بناونْہ باپت ذِ تِم چھ صحیح۔</li> <li>  پنُن نیٹوْرک ایڈمینیسٹریٹر کْریو کنٹیکٹْہ یقینی بناونْہ باپت ذِ پراکزی سْرور چُھ کأم کران۔</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "پراكزی سرور ہ۪یك نئ لب۪یتھ">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>چک کْریو پراکزی سیٹینگ یقینی بناونْہ باپت ذِ تِم چھ صحیح۔</li> <li>چک کْریو یقینی بناونْہ باپت ذِ کمپیوٹرس چُھ اکھ وْرکینگ نیٹوْرک کنیکشن۔</li> <li>اگر تُہند کمپیوٹر یا نیٹوْرک بچأوتھ چُھ اکہ فایر وال یا پراکزی ذریعہ، یقینی بنأیو ذِ &amp;برانڈ شاٹ ناوس چُھ اجازت ویب ایسیس کرنہ باپت۔</li> </ul>">
 
-<!ENTITY redirectLoop.title "صفحئ چھُ نئ ری ڈایریكٹ كران سہی پٲٹھ">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>یہ پرابلیم ہیکِہ کونِہ سات گْژھیتھ ڈیسیبْل کرنْہ سْیت یا انکار کرنْہ سْیت قبول کرنْہ سْیتThis problem can sometimes be caused by disabling or refusing to accept کوکی۔</li> </ul>">
-
-<!ENTITY unknownSocketType.title "غٲر مُتوقع جواب سرور پ۪یٹھئ">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>چک کْریو یقینی بناونْہ باپت ذِ تُہندس سسٹمس چُھ ذأتی حفاظتی منیجر انسٹال کْرتھ۔</li> <li> یہ ہیکِہ أسِتھ أکس غیر۔معیأری کنفیگریشن سْیت سْرورس پیٹھ۔</li> </ul>">
 
@@ -91,22 +58,15 @@ was trying to connect. -->
 
 
 
-<!ENTITY cspBlocked.title "مشمولات حفٲظتی پالسی كرمُت بند">
-
 <!ENTITY cspBlocked.longDesc "<p>برانڈ شاٹ ناو؛ ان رُکوو یہ پیج لوڈینگ نِش یتھ طریقس منز کیازِ کہ پیجس چھ اکھ کنٹینٹ حفاظتی پالیسی یوس نْہ اتھ اجازت دِوان چِھ۔&amp;</p>">
-
-<!ENTITY corruptedContentErrorv2.title "مشمولات چھَ كورپٹڈ ">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p> یہ پیج یوس توہیہ ویو کرنْچ کوشش کران چھیو  ہیکو نْہ ہأوِتھ کیازِ کِہ ڈاٹا ٹرانسمیشنس منز آو اکھ ایرر۔</p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li></ul>">
 
 
 <!ENTITY errorReporting.learnMore "مزید  زٲنیو۔ ۔ ۔">
 
-<!ENTITY remoteXUL.title "ریموٹ XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li></ul></p>">
 
-<!ENTITY sslv3Used.title "ہیوک نْہ کنیکٹْہ کْرتھ حفاظت سان">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 

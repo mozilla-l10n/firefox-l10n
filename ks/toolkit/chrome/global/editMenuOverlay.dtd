@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "تئ ادارت">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label             "تئ انڈو">
-
-<!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "تئ دوبارہ کریو">
-
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "ژٹیو">
-
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "نقل">
-
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "تئ چسپاں ">
-
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "خٲرج کریو">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "سئری ژئریو">
-
-<!ENTITY selectAllCmd.accesskey    "A">
-
 
 
 <!ENTITY findAgainCmd.label        "بیی ژھئڈیو">

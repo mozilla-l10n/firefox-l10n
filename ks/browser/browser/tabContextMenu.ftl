@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = نئو۪ی وِنڈئ منز پكنٲویو
     .accesskey = W
-undo-close-tab =
-    .label = ٹیب بند كروٛ ن كریو اَن ڈو
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ٹیب كریو بند
     .accesskey = C

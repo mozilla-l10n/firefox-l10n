@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "مختصرعنوان "> 
-<!ENTITY message.label    "كیںہ نمونئ مثال چھئ گژھان یتیتھ ۔">
-
 <!ENTITY editfield0.label "استیمال كرن وۄل سُند ناو:"> 
 <!ENTITY editfield1.label "خفیہ لفظ"> 
-<!ENTITY checkbox.label   "جانچ کریو "> 
 <!ENTITY copyCmd.label    "نقل">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "سئری ژئریو">

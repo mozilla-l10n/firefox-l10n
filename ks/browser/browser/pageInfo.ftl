@@ -45,8 +45,6 @@ media-dimension =
     .value = حد:
 media-long-desc =
     .value = زیٹھ تفصٖیل:
-media-preview =
-    .value = میڈیا پیش منظر:
 
 permissions-for =
     .value = خٲطرئ اجازت:
@@ -79,7 +77,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = نامولوم
-not-set-verified-by = چھُنئ مشكَس
 page-info-not-specified =
     .value = چھُنئ مشكَس
 not-set-alternative-text = چھُنئ مشكَس
@@ -104,7 +101,6 @@ general-quirks-mode =
     .value = كیوركس موڈ
 general-strict-mode =
     .value = معیٲری كملاینس موڈ
-security-no-owner = یئ ویبسایٹ چھَنئ مٲلكئ سنز مولومات مہیا كران
 page-info-security-no-owner =
     .value = یئ ویبسایٹ چھَنئ مٲلكئ سنز مولومات مہیا كران
 media-select-folder = فولڈر ژٲریو شكل محفوظ تھاونئ خٲطرئ

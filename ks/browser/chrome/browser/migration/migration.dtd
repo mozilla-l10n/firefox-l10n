@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "آپشنس،نشان زد،تٲریخ،خفیہ لفظ تئ باقی ڈاٹا  كریو  درآمد پیٹھئ ">
 <!ENTITY importFromUnix.label           "ترجیحات،نشان زد،تٲریخ،خفیہ لفظ تئ دیگر ڈاٹا كریو  درآمد  پیٹھئ:">
-<!ENTITY importFromBookmarks.label      "نشان زد پیٹھئ كریو درآمد :">
 
 <!ENTITY importFromIE.label             "مایکروسافٹ انٹرنیٹ ایکسپلورر">
 <!ENTITY importFromIE.accesskey         "M">

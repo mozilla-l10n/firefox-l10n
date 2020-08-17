@@ -36,7 +36,6 @@ proxyConnectFailure-title = پراكزی سرور چھُ رٲبطئ رد كرا�
 proxyResolveFailure-title = پراكزی سرور ہ۪یك نئ لب۪یتھ
 redirectLoop-title = صفحئ چھُ نئ ری ڈایریكٹ كران سہی پٲٹھ
 unknownSocketType-title = غٲر مُتوقع جواب سرور پ۪یٹھئ
-cspBlocked-title = مشمولات حفٲظتی پالسی كرمُت بند
 corruptedContentError-title = مشمولات چھَ كورپٹڈ
 remoteXUL-title = ریموٹ XUL
 sslv3Used-title = ہیوک نْہ کنیکٹْہ کْرتھ حفاظت سان
