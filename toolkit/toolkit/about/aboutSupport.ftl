@@ -7,6 +7,7 @@ page-subtitle =
     Această pagină conține informații tehnice care ar putea fi utile atunci când
     încerci să rezolvi o problemă. Dacă cauți răspunsuri la întrebări comune despre
     { -brand-short-name }, verifică <a data-l10n-name="support-link">site-ul nostru de suport</a>.
+
 crashes-title = Rapoarte de defecțiuni
 crashes-id = ID-ul raportului
 crashes-send-date = Trimis
@@ -107,8 +108,6 @@ graphics-desktop-environment = Mediu desktop
 place-database-title = Bază de date cu locuri
 place-database-integrity = Integritate
 place-database-verify-integrity = Verifică integritatea
-js-title = JavaScript
-js-incremental-gc = GC incremental
 a11y-title = Accesibilitate
 a11y-activated = Activat
 a11y-force-disabled = Împiedică accesibilitatea
@@ -128,6 +127,7 @@ sandbox-sys-call-number = Apel sistem
 sandbox-sys-call-args = Argumente
 safe-mode-title = Încearcă modul sigur
 restart-in-safe-mode-label = Repornește cu suplimentele dezactivate…
+
 clear-startup-cache-title = Încearcă să golești cache-ul de pornire
 clear-startup-cache-label = Golește cache-ul de pornire…
 startup-cache-dialog-title = Golește cache-ul de pornire
@@ -138,7 +138,6 @@ restart-button-label = Repornește
 
 audio-backend = Backend audio
 max-audio-channels = Canale maxime
-channel-layout = Aspect preferat al canalelor
 sample-rate = Rată de eșantionare preferată
 roundtrip-latency = Latență dus-întors (deviație standard)
 media-title = Media
@@ -192,6 +191,7 @@ report-crash-for-days =
         [few] Rapoarte de defecțiuni pentru ultimele { $days } zile
        *[other] Rapoarte de defecțiuni pentru ultimele { $days } de zile
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -200,6 +200,7 @@ crashes-time-minutes =
         [few] { $minutes } minute în urmă
        *[other] { $minutes } de minute în urmă
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -208,6 +209,7 @@ crashes-time-hours =
         [few] { $hours } ore în urmă
        *[other] { $hours } de ore în urmă
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -216,6 +218,7 @@ crashes-time-days =
         [few] acum { $days } zile
        *[other] acum { $days } de zile
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -224,6 +227,7 @@ pending-reports =
         [few] Toate rapoartele de defecțiuni (inclusiv { $reports } rapoarte în așteptare în intervalul de timp dat)
        *[other] Toate rapoartele de defecțiuni (inclusiv { $reports } de rapoarte în așteptare în intervalul de timp dat)
     }
+
 raw-data-copied = Date brute copiate în clipboard
 text-copied = Text copiat în clipboard
 
@@ -236,9 +240,11 @@ blocked-mismatched-version = Blocat din cauza necorelării versiunilor driverelo
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocat pentru versiunea ta de driver pentru adaptorul grafic. Încearcă să actualizezi driverul adaptorului grafic la versiunea { $driverVersion } sau mai nouă.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametrii ClearType
+
 compositing = Compunere
 hardware-h264 = Decodare H264 hardware
 main-thread-no-omtc = fir principal, fără OMTC
@@ -253,6 +259,7 @@ virtual-monitor-disp = Afișarea monitorului virtual
 
 found = Găsită
 missing = Lipsă
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descriere
@@ -276,21 +283,25 @@ webgl2-version = Versiunea driverului WebGL 2
 webgl2-driver-extensions = Extensiile driverului WebGL 2
 webgl2-extensions = Extensii WebGL 2
 blocklisted-bug = Pe lista de blocări din cauza unor probleme cunoscute
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Pus pe lista de blocare din cauza problemelor cunoscute: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Pus pe lista de blocări; cod de eroare { $failureCode }
+
 d3d11layers-crash-guard = Compozitor D3D11
 d3d11video-crash-guard = Decodor video D3D11
-d3d9video-crash-buard = Decodor video D3D9
 d3d9video-crash-guard = Decodor video D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodor video WMF VPX
+
 reset-on-next-restart = Resetează la următoarea repornire
 gpu-process-kill-button = Termină procesul GPU
 gpu-device-reset = Resetarea dispozitivului
@@ -300,8 +311,10 @@ content-uses-tiling = Folosește Tiling (Conținut)
 off-main-thread-paint-enabled = Desenare în afara firului de execuție principal activată
 off-main-thread-paint-worker-count = Număr de workeri pentru desenare în afara firului de execuție principal
 target-frame-rate = Frecvență de cadre țintă
+
 min-lib-versions = Versiune minimă așteptată
 loaded-lib-versions = Versiune în uz
+
 has-seccomp-bpf = Seccomp-BPF (filtrarea apelurilor de sistem)
 has-seccomp-tsync = Sincronizarea firului de execuție seccomp
 has-user-namespaces = Spații de nume ale utilizatorului
@@ -314,15 +327,18 @@ sandbox-proc-type-content = conținut
 sandbox-proc-type-file = conținut fișier
 sandbox-proc-type-media-plugin = plugin media
 sandbox-proc-type-data-decoder = decodor de date
+
 startup-cache-title = Cache de pornire
 startup-cache-disk-cache-path = Cale de salvare locală pentru cache
 startup-cache-ignore-disk-cache = Ignoră cache-ul salvat local
 startup-cache-found-disk-cache-on-init = Cache local identificat la inițializare
 startup-cache-wrote-to-disk-cache = Cache salvat local
+
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Dezactivat din cauza unei probleme
 launcher-process-status-2 = Dezactivat forțat
 launcher-process-status-unknown = Stare necunoscută
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -335,6 +351,7 @@ multi-process-status-6 = Dezactivat din cauza introducerii de text neacceptat
 multi-process-status-7 = Dezactivate de suplimente
 multi-process-status-8 = Dezactivate forțat
 multi-process-status-unknown = Stare necunoscută
+
 async-pan-zoom = Panoramare/zoom asincron(ă)
 apz-none = fără
 wheel-enabled = intrare pentru rotița mouse-ului activată

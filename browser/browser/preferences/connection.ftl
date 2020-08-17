@@ -35,12 +35,7 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Folosește acest proxy pentru toate protocoalele
-    .accesskey = x
 
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Folosește acest proxy și pentru FTP și HTTPS
     .accesskey = s

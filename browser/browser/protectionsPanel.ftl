@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = A apărut o eroare la trimiterea raportului. Te rugăm să încerci mai târziu.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Site reparat? Trimite raportul
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Mai multe informații despre protecția îmbunătățită împotriva urmăririi
+
 protections-panel-etp-on-header = Protecția îmbunătățită împotriva urmăririi este ACTIVATĂ pentru acest site
 protections-panel-etp-off-header = Protecția îmbunătățită împotriva urmăririi este DEZACTIVATĂ pentru acest site
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Site-ul nu funcționează?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Site-ul nu funcționează?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Toate elementele de urmări
 ##
 
 protections-panel-no-trackers-found = Nu s-a depistat niciun element de urmărire cunoscut de { -brand-short-name } pe această pagină.
+
 protections-panel-content-blocking-tracking-protection = Conținut de urmărire
+
 protections-panel-content-blocking-socialblock = Elemente de urmărire ale rețelelor sociale
 protections-panel-content-blocking-cryptominers-label = Criptomineri
 protections-panel-content-blocking-fingerprinters-label = Generatoare de amprente digitale
@@ -57,7 +63,6 @@ protections-panel-not-found-label = Nedepistate deloc
 ##
 
 protections-panel-settings-label = Setări pentru protecție
-protections-panel-showreport-label = Afișează raportul
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Tablou de bord privind protecțiile
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = Tablou de bord privind protecții
 
 # The header of the list
 protections-panel-site-not-working-view-header = Dezactivează protecțiile dacă ai probleme cu:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Câmpurile de autentificare
 protections-panel-site-not-working-view-issue-list-forms = Formularele
 protections-panel-site-not-working-view-issue-list-payments = Plățile
 protections-panel-site-not-working-view-issue-list-comments = Comentariile
 protections-panel-site-not-working-view-issue-list-videos = Videoclipurile
+
 protections-panel-site-not-working-view-send-report = Trimite un raport
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = Criptomomerii folosesc puterea de calcul a sist
 protections-panel-fingerprinters = Generatoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Cu această amprentă digitală, te pot urmări pe diferite site-uri web.
 protections-panel-tracking-content = Site-urile web pot încărca reclame externe, videoclipuri și alte conținuturi ce conțin coduri de urmărire. Blocarea conținutului de urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
 protections-panel-social-media-trackers = Rețelele sociale plasează elemente de urmărire pe alte site-uri web pentru a urmări ceea ce faci, vezi și urmărești online. Acest lucru permite companiilor rețelelor sociale să afle mai multe despre tine, dincolo de ceea ce împărtășești pe profilurile rețelelor sociale.
+
 protections-panel-content-blocking-manage-settings =
     .label = Gestionează setările pentru protecție
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Raportează un site nefuncțional
 protections-panel-content-blocking-breakage-report-view-description = Blocarea anumitor elemente de urmărire poate produce probleme pe unele site-uri web. Raportarea acestor problemele ajută la îmbunătățirea { -brand-short-name } pentru toți. Trimițând la Mozilla acest raport vei trimite un URL și informații despre setările browserului. <label data-l10n-name="learn-more">Află mai multe</label>

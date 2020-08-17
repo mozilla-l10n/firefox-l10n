@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Pictograme alăturate textului">
 <!ENTITY useSmallIcons.label      "Folosește pictograme mici">
 <!ENTITY restoreDefaultSet.label  "Revenire la setările implicite">
-<!ENTITY addNewToolbar.label      "Adaugă o nouă bară de unelte">
-<!ENTITY showTitlebar.label       "Afișează bara de titlu">
-<!ENTITY extraDragSpace.label     "Adaugă spațiu de tragere">
 <!ENTITY showTitlebar2.label      "Bară de titlu">
 <!ENTITY extraDragSpace2.label    "Spațiu de tragere">
 <!ENTITY saveChanges.label        "Terminat">

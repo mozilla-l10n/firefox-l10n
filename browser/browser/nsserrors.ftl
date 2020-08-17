@@ -2,20 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = A apărut o eroare în timpul conectării la { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codul erorii: { $error }
+
 psmerr-ssl-disabled = Nu se poate stabili o conexiune securizată deoarece protocolul SSL a fost dezactivat.
 psmerr-ssl2-disabled = Nu se poate stabili o conexiune securizată deoarece site-ul folosește o versiune mai veche, nesigură, a protocolului SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ai primit un certificat nevalid.  Te rugăm să contactezi administratorul serverului sau adresa corespondentă de e-mail și furnizează-le următoarele informații:
     
     Certificatul tău conține același număr de serie ca un alt certificat emis de autoritatea de certificare.  Te rugăm să obții un certificat nou cu un număr de serie unic.
+
 ssl-error-export-only-server = Nu se poate comunica securizat. Partenerul de conexiune nu suportă criptare de grad înalt.
 ssl-error-us-only-server = Nu se poate comunica securizat. Partenerul de conexiune necesită criptare de grad înalt care nu este suportată.
 ssl-error-no-cypher-overlap = Nu se poate comunica securizat cu partenerul: nu este suportat niciun algoritm de criptare.

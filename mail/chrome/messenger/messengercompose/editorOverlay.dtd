@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "s">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Lipește fără formatare">
 <!ENTITY pasteNoFormatting.accesskey "i">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Lipește ca">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Caută…">
-<!ENTITY findReplaceCmd.label "Caută și înlocuiește…">
-<!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul scrierii">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "V">
-<!ENTITY checkSpellingCmd2.key "o">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserează">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text corp">
 <!ENTITY bodyTextCmd.accesskey "C">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Proprietăți avansate">
-<!ENTITY advancedPropertiesCmd.accesskey "P">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Aliniază">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Distribuit stânga/dreapta">
 <!ENTITY alignJustify.accesskey "S">
 <!ENTITY alignJustify.tooltip "Aliniază la stânga și dreapta">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Strat">
-<!ENTITY layerSendToBack.tooltip "Trimite în fundal">
-<!ENTITY layerBringToFront.tooltip "Adu în prim-plan">
 
 <!ENTITY increaseIndent.label "Mărește indentarea">
 <!ENTITY increaseIndent.accesskey "C">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Proprietăți tabel…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Bară de meniu">
-<!ENTITY formatToolbar.tooltip "Bară de formatare">
-<!ENTITY cutToolbarCmd.tooltip "Decupează">
-<!ENTITY copyToolbarCmd.tooltip "Copiază">
-<!ENTITY pasteToolbarCmd.tooltip "Lipește">
-<!ENTITY printToolbarCmd.label "Tipărește">
-<!ENTITY printToolbarCmd.tooltip "Tipărește pagina">
-<!ENTITY findToolbarCmd.label "Caută">
-<!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
-<!ENTITY spellToolbarCmd.label "Ortografie">
-<!ENTITY spellToolbarCmd.tooltip "Verifică ortografia în selecție sau pe toată pagina">
-
 <!ENTITY imageToolbarCmd.label "Imagine">
 <!ENTITY imageToolbarCmd.tooltip "Inserează o imagine nouă sau editează proprietățile imaginii selectate">
 <!ENTITY hruleToolbarCmd.label "Linie orizontală">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o ancoră denumită nouă sau editează proprietățile ancorei selectate">
 <!ENTITY TextColorButton.tooltip "Alege culoarea textului">
 <!ENTITY BackgroundColorButton.tooltip "Alege culoarea de fundal">
-<!ENTITY throbber.tooltip2 "Intră pe pagina de start &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează dimensiunea fontului">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
 <!ENTITY alignRightButton.tooltip "Aliniază textul la marginea din dreapta">
 <!ENTITY alignJustifyButton.tooltip "Aliniază textul la margini stânga/dreapta">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Selectează">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Elimină eticheta">
-<!ENTITY structRemoveTag.accesskey  "R">
-<!ENTITY structChangeTag.label      "Modifică eticheta">
-<!ENTITY structChangeTag.accesskey  "M">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserează">

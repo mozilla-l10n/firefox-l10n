@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Tip dosar:">
 
 <!ENTITY folderQuotaTab.label                    "Cotă">
-<!ENTITY folderQuotaRoot.label                   "Rădăcină cotă:">
 <!ENTITY folderQuotaUsage.label                  "Utilizare:">
 <!ENTITY folderQuotaStatus.label                 "Stare:">
 

@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "mesaje">
 <!ENTITY alwaysAuthenticate.label "Solicită întotdeauna autentificare la conectarea la acest server">
 <!ENTITY alwaysAuthenticate.accesskey "a">
-<!ENTITY newsrcFilePath.label "Fișier newsrc:">
-<!ENTITY newsrcPicker.label "Selectează fișierul newsrc">
 <!ENTITY newsrcFilePath1.label "Fișier News.rc:">
 <!ENTITY newsrcPicker1.label "Selectează fișierul News.rc">
 <!ENTITY abbreviate.label "Afișează denumirile grupurilor de discuții în panoul cu dosarele e-mail ca:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avansat…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codarea implicită pentru text:">
-<!ENTITY localPath.label "Director local:">
 <!ENTITY localPath1.label "Director local:">
 <!ENTITY localFolderPicker.label "Selectează directorul local">
 <!ENTITY browseFolder.label "Răsfoiește…">

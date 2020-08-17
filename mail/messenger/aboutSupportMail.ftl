@@ -14,5 +14,7 @@ accounts-conn-security = Securitatea conexiunii
 accounts-auth-method = Metodă de autentificare
 accounts-default = Implicită?
 identity-name = Identitate
+
 send-via-email = Trimite prin e-mail
+
 app-basics-telemetry = Date de telemetrie

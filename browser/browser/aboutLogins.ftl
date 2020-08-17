@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Acum pe Google Play
 login-app-promo-apple =
     .alt = Descarcă de pe App Store
+
 login-filter =
     .placeholder = Caută autentificări
+
 create-login-button = Creează o autentificare nouă
+
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
 fxaccounts-sign-in-button = Autentifică-te în { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -69,6 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name } sau importă-le.
 about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
@@ -76,6 +80,7 @@ login-intro-instruction-fxa = Creează un cont sau conectează-te în { -fxaccou
 login-intro-instruction-fxa-settings = Asigură-te că ai bifat caseta de selectare Date de autentificare în Setările { -sync-brand-short-name }
 about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">asistență { -lockwise-brand-short-name }</a> pentru ajutor suplimentar
 about-logins-intro-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți <a data-l10n-name="import-link">importa în{ -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Dacă datele tale de autentificare sunt salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa din alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
 
 ## Login
@@ -116,25 +121,28 @@ about-logins-edit-login-os-auth-dialog-message-win = Pentru a-ți edita datele d
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vizualiza parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
+
+## Master Password notification
+
+master-password-notification-message = Te rugăm să introduci parola principală ca să vezi datele de autentificare și parolele salvate
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datele de autentificare, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportă datele de autentificare și parolele salvate
-
-## Master Password notification
-
-master-password-notification-message = Te rugăm să introduci parola principală ca să vezi datele de autentificare și parolele salvate
 
 ## Primary Password notification
 
@@ -166,12 +174,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Renunță
 confirmation-dialog-dismiss-button =
     .title = Renunță
+
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
+
 about-logins-confirm-export-dialog-title = Exportă autentificări și parole
 about-logins-confirm-export-dialog-message = Parolele tale vor fi salvate în text lizibil (de ex., BadP@ssw0rd) și oricine poate deschide fișierul exportat le va putea vedea.
 about-logins-confirm-export-dialog-confirm-button = Exportă…
+
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
 confirm-discard-changes-dialog-confirm-button = Înlătură
@@ -202,8 +213,10 @@ about-logins-vulnerable-alert-learn-more-link = Află mai multe
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Deja există o intrare pentru { $loginTitle } cu acest nume de utilizator. <a data-l10n-name="duplicate-link">Mergi la intrarea existentă?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = A apărut o eroare la încercarea de salvare a acestei parole.
+
 
 ## Login Export Dialog
 

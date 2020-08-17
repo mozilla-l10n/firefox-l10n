@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Gestionează suplimentele dând clic pe <im
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permite acestei extensii să ruleze în ferestre private
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Modificare pentru extensii în ferestre private
-    .buttonlabel = Gestionează extensiile
-    .buttonaccesskey = M
-    .secondarybuttonlabel = OK, am înțeles
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Orice extensii noi pe care le adaugi în { -brand-shorter-name } nu vor funcționa în ferestrele private dacă nu le permiți să o facă din setări.
-appmenu-addon-private-browsing-learn-more = Află cum să gestionezi setările pentru extensii
     
 appmenu-new-tab-controlled =
     .label = Pagina de filă nouă s-a schimbat.

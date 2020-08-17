@@ -58,30 +58,19 @@ abuse-report-messagebar-action-cancel = Anulează
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Daune calculator și de date
-
 abuse-report-damage-reason-v2 = Mi-a stricat calculatorul sau mi-a compromis datele
 abuse-report-damage-example = Exemplu: Injectare de programe rău intenționate sau furt de date
 
-abuse-report-spam-reason = Creează mesaje nedorite sau publicitate
-
 abuse-report-spam-reason-v2 = Conține spam sau introduce reclame nedorite
 abuse-report-spam-example = Exemplu: Inserare de reclame pe pagini web
-
-abuse-report-settings-reason = Mi-a schimbat motorul de căutare, pagina de start sau o filă nouă fără să mă informeze sau să îmi ceară permisiunea
 
 abuse-report-settings-reason-v2 = Mi-a schimbat motorul de căutare, pagina de start sau fila nouă fără să mă informeze sau să îmi ceară permisiunea
 abuse-report-settings-suggestions = Înainte de a raporta extensia, poți încerca să îți modifici setările:
 abuse-report-settings-suggestions-search = Schimbă setările implicite de căutare
 abuse-report-settings-suggestions-homepage = Schimbă pagina de start și de filă nouă
 
-abuse-report-deceptive-reason = Pretinde că e ceea ce nu este
-
 abuse-report-deceptive-reason-v2 = Pretinde că e ceva ce nu este
 abuse-report-deceptive-example = Exemplu: Descriere sau grafică ce induce în eroare
-
-abuse-report-broken-reason-extension = Nu funcționează, face site-urile să nu funcționeze sau încetinește { -brand-product-name }
-abuse-report-broken-reason-theme = Nu funcționează sau face inutilizabil afișajul browserului
 
 abuse-report-broken-reason-extension-v2 = Nu funcționează, produce defecțiuni pe site-uri web sau înceteinește { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nu funcționează sau face inutilizabil afișajul în browser
@@ -89,12 +78,8 @@ abuse-report-broken-example = Exemplu: Funcționalitățile sunt lente, greu de 
 abuse-report-broken-suggestions-extension = Pare că ai identificat o defecțiune. În plus față de transmiterea unei raportări aici, cea mai bună cale de rezolvare a unei probleme de funcționalitate este să contactezi dezvoltatorul extensiei. <a data-l10n-name="support-link">Intră pe site-ul extensiei</a> pentru a obține datele de contact ale dezvoltatorului.
 abuse-report-broken-suggestions-theme = Pare că ai identificat o defecțiune. În plus față de transmiterea unei raportări aici, cea mai bună cale de rezolvare a unei probleme de funcționalitate este să contactezi dezvoltatorul temei. <a data-l10n-name="support-link">Intră pe site-ul temei</a> pentru a obține datele de contact ale dezvoltatorului.
 
-abuse-report-policy-reason = Conținut ofensiv, violent sau ilegal
-
 abuse-report-policy-reason-v2 = Are conținut de ură, violent sau ilegal
 abuse-report-policy-suggestions = Notă: Aspectele legate de drepturile de reproducere și mărcile comerciale trebuie raportate printr-o procedură separată. <a data-l10n-name="report-infringement-link">Folosește aceste instrucțiuni</a> ca să raportezi problema.
-
-abuse-report-unwanted-reason = Nu am vrut niciodată această extensie și nu pot scăpa de ea
 
 abuse-report-unwanted-reason-v2 = Nu l-am vrut niciodată și nu știu cum să scap de el
 abuse-report-unwanted-example = Exemplu: A fost instalată de o aplicație fără permisiunea mea
