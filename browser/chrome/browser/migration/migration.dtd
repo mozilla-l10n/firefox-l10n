@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Inportaçion de preferense, segnalibbri, stöia, paròlle segrete e atri dæti da:">
 <!ENTITY importFromUnix.label           "Inpòrta preferense, segnalibbri, stöia, paròlle segrete e atri dæti da:">
-<!ENTITY importFromBookmarks.label      "Inpòrta segnalibbri da:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

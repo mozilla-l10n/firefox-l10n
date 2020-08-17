@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = De longo
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Inpostaçioin
-           *[other] Preferense
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Inpostaçioin
@@ -422,16 +415,6 @@ update-application-use-service =
     .label = Deuvia 'n serviçio ascozo pe instalâ i agiornamenti
     .accesskey = v
 
-update-enable-search-update =
-    .label = Agiorna in outomatico i motoî de riçerca
-    .accesskey = e
-
-update-pref-write-failure-title = Erô de scritua
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = No ariescio a sarvâ e preferense. No ti peu scrive into file: { $path }
-
 ## General Section - Performance
 
 performance-title = Prestaçioin
@@ -570,7 +553,6 @@ home-prefs-topsites-description = I sciti che ti vixiti de ciù
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Consegiou da { $provider }
-home-prefs-recommended-by-description = I megio contegnui pigiæ in gio pe-a ræ, personalizæ pe ti
 ##
 
 home-prefs-recommended-by-learn-more = Comme o fonçionn-a
@@ -612,7 +594,6 @@ search-bar-shown =
     .label = Azonzi bara de riçerca inta bara di atressi
 
 search-engine-default-header = Motô de riçerca predefinio
-search-engine-default-desc = Çerni o motô de riçerca predefinio da deuviâ inta bara di indirissi e inta bara de riçerca.
 
 search-suggestions-option =
     .label = Fanni vedde conseggi de riçerca
@@ -661,8 +642,6 @@ search-keyword-warning-bookmark = Ti æ çernuo 'na paròlla ciave che a l'é uz
 
 ## Containers Section
 
-containers-back-link = « Vanni inderê
-
 containers-header = Contegnitô di feuggi
 containers-add-button =
     .label = Azonzi neuvo contegnitô
@@ -682,14 +661,6 @@ containers-remove-button =
 sync-signedout-caption = A teu Ræ, de longo con ti
 sync-signedout-description = Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.
 
-sync-signedout-account-title = Conetti { -fxaccount-brand-name }
-sync-signedout-account-create = No ti gh'æ ancon 'n conto? Iniçia chi
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = Intra…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -708,10 +679,6 @@ sync-mobile-promo = Descarega Firefox pe <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Cangia l’inmagine do profî
 
-sync-disconnect =
-    .label = Disconetti…
-    .accesskey = D
-
 sync-manage-account = Gestisci conto
     .accesskey = o
 
@@ -729,9 +696,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Intra
     .accesskey = t
-
-sync-signedin-settings-header = Inpostaçioin de Sync
-sync-signedin-settings-desc = Çerni cöse t'eu scincronizâ inti teu dispoxitivi deuviando { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -753,11 +717,6 @@ sync-engine-tabs =
     .label = Arvi Feuggi
     .tooltiptext = ’Na lista de quello ch'o l'é averto in sci dispoxitivi scincronizæ
     .accesskey = F
-
-sync-engine-logins =
-    .label = Login
-    .tooltiptext = Nommi utente e poule segrete che t'æ sarvou
-    .accesskey = L
 
 sync-engine-addresses =
     .label = Indirissi
@@ -801,22 +760,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Conetti atro dispoxitivo
 
-sync-manage-devices = Gestisci dispoxitivi
-
-sync-fxa-begin-pairing = Acobia un dispoxitivo
-
-sync-tos-link = Termini do serviçio
-
-sync-fxa-privacy-notice = Informativa in sciâ privacy
-
 ## Privacy Section
 
 privacy-header = Privacy do navegatô
 
 ## Privacy Section - Forms
 
-
-logins-header = Login e Poule segrete
 
 ## Privacy Section - Logins and Passwords
 
@@ -842,6 +791,7 @@ forms-master-pw-change =
     .accesskey = C
 
 forms-master-pw-fips-title = Òua t'ê into mòddo FIPS. A-o FIPS serve 'na paròlla segreta prinçipâ che a no segge veua.
+
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
 
 ## OS Authentication dialog
@@ -923,9 +873,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Tipo de contegnuo blocòu
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = Elementi che tracian de terse parte
-
 sitedata-option-block-unvisited =
     .label = Cookie de sciti no vixitæ
 sitedata-option-block-all-third-party =
@@ -965,29 +912,9 @@ addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî d
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Blòcco di contegnui
-
 content-blocking-enhanced-tracking-protection = Proteçion anti traciamento avansâ
 
 content-blocking-learn-more = Atre informaçioin
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Standard
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Restritivo
-    .accesskey = R
-content-blocking-setting-custom =
-    .label = Personalizzou
-    .accesskey = P
-
-content-blocking-strict-description = Proteçion ciù fòrte, çerti sciti porieivan no fonçionâ ben.
-content-blocking-custom-desc = Çerni cöse blòccâ
-
-content-blocking-private-trackers = Elementi che tracian conosciui inti barcoin privæ
-content-blocking-third-party-cookies = Cookie che tracian de terse parte
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1006,20 +933,13 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-all-cookies = Tutti i cookie
-content-blocking-all-windows-trackers = Elementi che tracian conosciui in tutti i barcoin
 content-blocking-all-third-party-cookies = Tutti i cookie de terse parte
 
 content-blocking-warning-title = Stanni atento!
-content-blocking-warning-description = Blòccâ i contegnui porieiva inpedî o fonçionamento de çerti sciti. O l'é façile dizabilitâ o blòcco pe-i sciti afidabili.
-content-blocking-learn-how = Comme se fa
 
 content-blocking-reload-tabs-button =
     .label = Recarega tutti i feuggi
     .accesskey = R
-
-content-blocking-trackers-label =
-    .label = Elementi che tracian
-    .accesskey = t
 
 content-blocking-tracking-protection-option-all-windows =
     .label = In tutti i barcoin
@@ -1081,10 +1001,6 @@ permissions-notification-link = Atre informaçioin
 permissions-notification-pause =
     .label = Ferma notificaçioin scinché { -brand-short-name } o no s'arve torna
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = Eceçioin…
-    .accesskey = E
 
 permissions-autoplay-settings =
     .label = Inpostaçioin…
@@ -1214,6 +1130,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = b
 
 space-alert-under-5gb-message = { -brand-short-name } o sta pe finî o spaçio in sciô disco. I contegnui do scito no se peuan mostrase ben. Vixita “Atre informaçioin” pe otimizâ l'uzo do disco pe avei 'na megio esperiensa de navegaçion.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

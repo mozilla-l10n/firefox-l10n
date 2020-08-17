@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Sarva co-o nomme…
     .accesskey = e
-media-preview =
-    .value = Anteprimma do media
 
 perm-tab =
     .label = Permissi
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Sci, cookie
 security-site-data-no = No
 
 image-size-unknown = no conosciuo
-not-set-verified-by = No specificou
 page-info-not-specified =
     .value = No specificou
 not-set-alternative-text = No specificou
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Mòddo Quirks
 general-strict-mode =
     .value = Mòddo standard
-security-no-owner = Sto scito o no me dixe de chi o l'e.
 page-info-security-no-owner =
     .value = Sto scito o no me dixe de chi o l'e.
 media-select-folder = Seleçionn-a 'na cartella pe sarvâ e inmagini

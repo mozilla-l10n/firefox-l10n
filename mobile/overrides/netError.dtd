@@ -73,15 +73,6 @@
 <!ENTITY notCached.longDesc "<p>O documento domandou o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Comme mezua de seguessa, o &brandShortName; o no domanda torna di documenti senscibili in aotomatico.</li><li>Sciacca Preuva Torna pe domandâ torna o documento a-o scito.</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo feua linia">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Preuva torna. &brandShortName; o proviâ a arvî a conescion e recaregâ a pagina.
-    <button id='wifi'>Abilita Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnuo">
 <!ENTITY contentEncodingError.longDesc "<ul>

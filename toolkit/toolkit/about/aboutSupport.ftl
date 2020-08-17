@@ -4,6 +4,7 @@
 
 page-title = Informaçioin in sciâ soluçion di problemi
 page-subtitle = Sta pagina a contegne informaçioin tecniche che peuan ese utili quande ti preuvi a risòlve un problema. Se ti çerchi rispòste a domande comuni in sce { -brand-short-name }, contròlla o nòstro <a data-l10n-name="support-link">scito de agiutto</a>.
+
 crashes-title = Segnalaçioin de cianto anòmalo
 crashes-id = ID segnalaçion
 crashes-send-date = Mandâ
@@ -79,8 +80,6 @@ graphics-workarounds-title = Mastrussi
 place-database-title = Database di leughi
 place-database-integrity = Integritæ
 place-database-verify-integrity = Verifica Integritæ
-js-title = JavaScript
-js-incremental-gc = Coleçion de rumenta incrementale
 a11y-title = Acesibilitæ
 a11y-activated = Ativou
 a11y-force-disabled = Inpedisci acesibilitæ
@@ -105,7 +104,6 @@ restart-in-safe-mode-label = Arvi torna co-i conponenti azonti dizativæ…
 
 audio-backend = Backend de aodio
 max-audio-channels = Mascimo numero de canâ
-channel-layout = Aspeto preferio do canâ
 sample-rate = Frequensa de canpionamento preferia
 media-title = Media
 media-output-devices-title = Dispoxitivi de output
@@ -151,6 +149,7 @@ report-crash-for-days =
         [one] Segnalaçioin de cianto anòmalo inte l'urtimo giorno
        *[other] Segnalaçioin de cianto anòmalo inti urtimi { $days } giorni
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -158,6 +157,7 @@ crashes-time-minutes =
         [one] { $minutes } menuto fa
        *[other] { $minutes } menuti fa
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -165,6 +165,7 @@ crashes-time-hours =
         [one] { $hours } oa fa
        *[other] { $hours } oe fa
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -172,6 +173,7 @@ crashes-time-days =
         [one] { $days } giorno fa
        *[other] { $days } giorni fa
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -179,6 +181,7 @@ pending-reports =
         [one] Tutte e segnalaçioin de cianto anòmalo (incluza { $reports } in ateiza inte l'intervallo de tenpo indicou)
        *[other] Tutte e segnalaçioin de cianto anòmalo (incluze { $reports } in ateiza inte l'intervallo de tenpo indicou)
     }
+
 raw-data-copied = Dæti sgreuzzi copiæ in sci aponti
 text-copied = Testo copiòu in sci aponti
 
@@ -191,9 +194,11 @@ blocked-mismatched-version = Blocòu a caoza da no corispondensa da verscion di 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocòu a caoza da a teu verscion do driver. Preuva a agiornâ o teu driver a-a verscion { $driverVersion } ò ciù neuva.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametri ClearType
+
 compositing = Conpoziçion
 hardware-h264 = Hardware Decoding H264
 main-thread-no-omtc = thread prinçipâ, no OMTC
@@ -207,6 +212,7 @@ unknown = Sconosciuo
 
 found = Atrovou
 missing = Manca
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descriçion
@@ -229,17 +235,20 @@ webgl2-version = Verscion do driver WebGL 2
 webgl2-driver-extensions = Estençion do driver WebGL 2
 webgl2-extensions = Estenscioin WebGL 2
 blocklisted-bug = Blocòu pe motivi nòtti
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bagon { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocòu; Còdice d'erô { $failureCode }
+
 d3d11layers-crash-guard = Conpositô D3D11
 d3d11video-crash-guard = Decodificatô video D3D11
-d3d9video-crash-buard = Decodificatô video D3D9
 d3d9video-crash-guard = Decodificatô video D3D9
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Reinpòsta a-a proscima avertua
 gpu-process-kill-button = Ferma processo GPU
 gpu-device-reset-button = Arvi torna dispoxitivo
@@ -247,8 +256,10 @@ uses-tiling = Deuvia ciapelle
 content-uses-tiling = Deuvia ciapelle (Contegnuo)
 off-main-thread-paint-enabled = Painting Abilitou feua do thread prinçipâ
 off-main-thread-paint-worker-count = Conta do worker Painting feua do thread prinçipâ
+
 min-lib-versions = M'aspetavo 'na verscion minima
 loaded-lib-versions = Verscion in uzo
+
 has-seccomp-bpf = Seccomp-BPF (filtro ciamæ de scistema)
 has-seccomp-tsync = Scincronizaçion thread seccomp
 has-user-namespaces = Namespace de l’utente
@@ -261,9 +272,11 @@ sandbox-proc-type-content = contegnuo
 sandbox-proc-type-file = contegnuo do schedaio
 sandbox-proc-type-media-plugin = plugin do media
 sandbox-proc-type-data-decoder = data decoder
+
 launcher-process-status-0 = Ativou
 launcher-process-status-2 = Dizabilitou con fòrsa
 launcher-process-status-unknown = Stato no conosciuo
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -276,6 +289,7 @@ multi-process-status-6 = Dizabilitou pe testo d'ingresso no soportou
 multi-process-status-7 = Dizabilitou da-i conponenti azonti
 multi-process-status-8 = Dizabilitou con fòrsa
 multi-process-status-unknown = Stato no conosciuo
+
 async-pan-zoom = Panoramica/zoom ascincroni (APZ)
 apz-none = nisciun
 wheel-enabled = input reua ativo

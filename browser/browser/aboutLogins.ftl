@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Piggitelo in sce Google Play
 login-app-promo-apple =
     .alt = Descarega da l'App Store
+
 login-filter =
     .placeholder = Çerca inti login
+
 create-login-button = Crea neuvo login
+
 fxaccounts-sign-in-button = Intra in { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gestisci conto
@@ -115,11 +118,14 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
+
 about-logins-confirm-remove-dialog-title = Scancelâ st'acesso?
 confirm-delete-dialog-message = St'açion a no peu ese anula.
 about-logins-confirm-remove-dialog-confirm-button = Scancella
+
 about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
 about-logins-confirm-export-dialog-confirm-button = Espòrta…
+
 confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification

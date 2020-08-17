@@ -12,7 +12,6 @@ fullscreen = A tutto schermo
 find = Treuva
 new-tab = Neuvo feuggio
 add-bookmark = Azonzi segnalibbro
-open-bookmarks-sidebar = Arvi bara de scianco di segnalibbri
 reader-view = Mòddo letua
 # Meant to match the string displayed in an empty URL bar.
 open-location = Çerca ò scrivi indirisso

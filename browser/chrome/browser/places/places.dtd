@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Çerni schedaio…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
-<!ENTITY cmd.deleteDomainData.label     "Ascòrdite de questo scito">
-<!ENTITY cmd.deleteDomainData.accesskey "A">
-
-<!ENTITY cmd.open.label                  "Arvi">
-<!ENTITY cmd.open.accesskey              "v">
-<!ENTITY cmd.open_window.label           "Arvi inte 'n atro barcon">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Arvi inte 'n neuva barcon privòu">
-<!ENTITY cmd.open_private_window.accesskey "m">
-<!ENTITY cmd.open_tab.label              "Arvi inte 'n atro feuggio">
-<!ENTITY cmd.open_tab.accesskey          "v">
-<!ENTITY cmd.open_all_in_tabs.label      "Arvi tutto inti feuggi">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Propietæ">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Ordina pe nomme">
-<!ENTITY cmd.sortby_name.accesskey          "Ó">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Neuvo segnalibbro…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Neuva cartella…">
-<!ENTITY cmd.new_folder.accesskey          "N">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Neuvo separatô">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Nomme">
 <!ENTITY col.tags.label          "Etichette">
 <!ENTITY col.url.label           "Indirisso">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Numero de vixite">
 <!ENTITY col.dateadded.label     "Azonto">
 <!ENTITY col.lastmodified.label  "Cangiou o">
-
-<!ENTITY historySearch.placeholder  "Çerca inta stöia">
-<!ENTITY bookmarksSearch.placeholder  "Çerca inti segnalibbri">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Seleçionn-a un ògetto pe vedde e modificâ e propietæ">
 
-<!ENTITY view.label               "Fanni vedde">
-<!ENTITY view.accesskey           "F">
-<!ENTITY byDate.label             "Pe dæta">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Pe scito">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Pe ciù vixitæ">
-<!ENTITY byMostVisited.accesskey  "v">
-<!ENTITY byLastVisited.label      "Pe urtime vixite">
-<!ENTITY byLastVisited.accesskey  "P">
-<!ENTITY byDayAndSite.label       "Pe dæta e scito">
-<!ENTITY byDayAndSite.accesskey   "t">

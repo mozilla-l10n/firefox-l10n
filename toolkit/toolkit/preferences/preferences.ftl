@@ -14,6 +14,7 @@ pw-erased-ok = T'æ scancelou a teu paròlla segreta prinçipâ. { pw-empty-warn
 pw-not-wanted = Alarme! T'æ çernuo de no deuviâ 'na paròlla segreta prinçipâ. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Òua t'ê into mòddo FIPS. A-o FIPS serve 'na paròlla segreta prinçipâ ch'a no segge veua.
+
 pw-change-success-title = Paròlla segreta cangiâ
 pw-change-failed-title = Cangio de paròlla segreta no ariescio
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Cangia a paròlla segreta prinçipâ
+
 set-password-old-password = Paròlla segreta corente:
 set-password-new-password = Inserisci neuva paròlla segreta:
 set-password-reenter-password = Reinserisci paròlla segreta:
@@ -31,6 +33,7 @@ master-password-warning = Pe piaxei no ascordate da teu paròlla segreta prinçi
 
 remove-password =
     .title = Scancella a paròlla segreta prinçipâ
+
 remove-info =
     .value = Ti devi scrive a teu paròlla segreta corente pe continoâ:
 remove-warning1 = A paròlla segreta prinçipâ a l'é uzâ pe protezze i dæti senscibili comme e paròlle segrete di sciti.

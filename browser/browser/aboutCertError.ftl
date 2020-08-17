@@ -69,7 +69,6 @@ proxyResolveFailure-title = No treuvo o proxy
 redirectLoop-title = A pagina a no redireçionn-a ben
 unknownSocketType-title = Risposta sbaliâ da-o server
 nssFailure2-title = Conescion segua no riescia
-cspBlocked-title = Blocòu da-i critei de seguessa di contegnui
 corruptedContentError-title = Erô de contegnuo andæto a mâ
 remoteXUL-title = XUL Remòtto
 sslv3Used-title = Inposcibile conetise in mòddo seguo

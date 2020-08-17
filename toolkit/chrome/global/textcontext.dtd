@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Taggia">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Còpia">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Incòlla">
-<!ENTITY pasteCmd.accesskey "I">
-<!ENTITY undoCmd.label "Anulla">
-<!ENTITY undoCmd.accesskey "A">
-<!ENTITY selectAllCmd.label "Seleçionn-a tutto">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Scancella">
-<!ENTITY deleteCmd.accesskey "S">
-
 <!ENTITY spellAddToDictionary.label "Azonzi a-o Diçionaio">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Anulla l'azonta a-o diçionaio">
