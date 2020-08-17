@@ -8,8 +8,10 @@ password-quality-meter = Parola kalite ölçümü
 
 change-password-window =
     .title = Ana parolayı değiştir
+
 change-device-password-window =
     .title = Parola değiştir
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Güvenlik aygıtı: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Yeni parola (tekrar):
 reset-password-window =
     .title = Ana Parolayı Sıfırla
     .style = width: 40em
+
 pippki-failed-pw-change = Parola değiştirilemedi.
 pippki-incorrect-pw = Mevcut parolanızı doğru şekilde girmediniz. Lütfen tekrar deneyin.
 pippki-pw-change-ok = Parola başarıyla değiştirildi.
+
 pippki-pw-empty-warning = Kayıtlı parolalarınız ve özel anahtarlarınız korunmayacak.
 pippki-pw-erased-ok = Parolanızı sildiniz. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Uyarı! Parola kullanmamaya karar verdiniz. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir ana parola gereklidir.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Sıfırla
 reset-password-text = Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?
+
 reset-primary-password-text = Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?
+
 pippki-reset-password-confirmation-title = Ana Parolayı Sıfırla
 pippki-reset-password-confirmation-message = Ana parolanız sıfırlandı.
 

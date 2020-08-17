@@ -46,9 +46,6 @@
 <!ENTITY notCached.longDesc "<p>Talep edilen belge &brandShortName; önbelleğinde mevcut değil.</p><ul><li>Bir güvenli önlemli olarak, &brandShortName; hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi siteden tekrar talep etmek için Yeniden dene’ye tıklayın.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrimdışı kip">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Yeniden deneyin. &brandShortName; bağlantıyı açıp sayfayı tazelemeye çalışacaktır. <button id='wifi'>Wi-Fi&#39;ı etkinleştir</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "

@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Farklı kaydet…
     .accesskey = e
-media-preview =
-    .value = Ortam ön izleme:
 
 perm-tab =
     .label = İzinler
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Evet, çerezler
 security-site-data-no = Hayır
 
 image-size-unknown = Bilinmiyor
-not-set-verified-by = Belirtilmemiş
 page-info-not-specified =
     .value = Belirtilmemiş
 not-set-alternative-text = Belirtilmemiş
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks kipi
 general-strict-mode =
     .value = Standartlarla uyumluluk kipi
-security-no-owner = Bu site, sahibiyle ilgili bilgi sağlamıyor.
 page-info-security-no-owner =
     .value = Bu site, sahibiyle ilgili bilgi sağlamıyor.
 media-select-folder = Resimleri kaydetmek için bir klasör seçin

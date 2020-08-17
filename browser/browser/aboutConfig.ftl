@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Dikkat, ejderha çıkabilir!
-about-config-warning-text = Bu gelişmiş ayarları değiştirmek bu uygulamanın istikrarına, güvenliğine ve performansına zarar verebilir. Sadece ne yaptığınızdan eminseniz devam etmelisiniz.
-about-config-warning-checkbox = Bu uyarıyı göstermeye devam et.
-about-config-warning-button = Riski kabul ediyorum
-
-about-config2-title = Gelişmiş Yapılandırmalar
-
-about-config-search-input =
-    .placeholder = Arama
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Dikkatli olun
@@ -32,13 +21,6 @@ about-config-page-title = Gelişmiş Tercihler
 about-config-search-input1 =
     .placeholder = Tercih adlarında ara
 about-config-show-all = Tümünü göster
-
-about-config-pref-add = Ekle
-about-config-pref-toggle = Değiştir
-about-config-pref-edit = Düzenle
-about-config-pref-save = Kaydet
-about-config-pref-reset = Sıfırla
-about-config-pref-delete = Sil
 
 about-config-pref-add-button =
     .title = Ekle

@@ -35,12 +35,7 @@ connection-proxy-http = HTTP vekil sunucusu
     .accesskey = p
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Tüm iletişim kuralları için bu vekil sunucuyu kullan
-    .accesskey = ü
 
-connection-proxy-ssl = SSL vekil sunucusu
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = FTP ve HTTPS için de bu vekil sunucusunu kullan
     .accesskey = F

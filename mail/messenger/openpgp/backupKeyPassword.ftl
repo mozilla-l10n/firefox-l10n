@@ -4,5 +4,7 @@
 
 set-password-window =
     .title = OpenPGP anahtarınızı yedeklemek için bir parola seçin
+
 set-password-legend = Bir parola seçin
+
 password-quality-meter = Parola kalite ölçümü

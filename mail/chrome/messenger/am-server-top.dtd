@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "ileti indirilecekse bana sor">
 <!ENTITY alwaysAuthenticate.label "Bu sunucuya bağlanırken her zaman kimlik doğrulaması iste">
 <!ENTITY alwaysAuthenticate.accesskey "u">
-<!ENTITY newsrcFilePath.label "newsrc doyası:">
-<!ENTITY newsrcPicker.label "newsrc dosyasını seçin">
 <!ENTITY newsrcFilePath1.label "News.rc dosyası:">
 <!ENTITY newsrcPicker1.label "News.rc dosyasını seçin">
 <!ENTITY abbreviate.label "Haber grubu isimlerini posta dizini bölmesinde göster:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Gelişmiş…">
 <!ENTITY advancedButton.accesskey "G">
 <!ENTITY serverDefaultCharset2.label "Varsayılan metin kodlaması:">
-<!ENTITY localPath.label "Yerel dizin:">
 <!ENTITY localPath1.label "Yerel klasör:">
 <!ENTITY localFolderPicker.label "Yerel dizin seçin">
 <!ENTITY browseFolder.label "Gözat…">

@@ -12,5 +12,10 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">{ $host } ve diğer sitelerdeki hesaplarınızı</div>
     <div data-l10n-name="line2">{ $browser } tarayıcısından içe aktarın</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Daha fazla bilgi alın

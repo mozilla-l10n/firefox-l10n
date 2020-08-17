@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Simgeler metnin yanında">
 <!ENTITY useSmallIcons.label      "Küçük simgeleri kullan">
 <!ENTITY restoreDefaultSet.label  "Varsayılanları geri yükle">
-<!ENTITY addNewToolbar.label      "Yeni araç çubuğu ekle">
-<!ENTITY showTitlebar.label       "Başlık çubuğunu göster">
-<!ENTITY extraDragSpace.label     "Sürükleme alanı ekle">
 <!ENTITY showTitlebar2.label      "Başlık çubuğu">
 <!ENTITY extraDragSpace2.label    "Sürükleme alanı">
 <!ENTITY saveChanges.label        "Tamam">

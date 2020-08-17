@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Eşitlenmiş sekmeler
 synced-tabs-sidebar-noclients-subtitle = Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?
-synced-tabs-sidebar-notsignedin = Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.
 synced-tabs-sidebar-intro = Diğer cihazlarınızdaki sekmelerin listesini görün.
 synced-tabs-sidebar-unverified = Hesabınızın doğrulanması gerekiyor.
 synced-tabs-sidebar-notabs = Açık sekme yok

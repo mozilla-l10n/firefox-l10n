@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Örneklenen fonksiyonun adı ve kaynak konumu.">
 <!ENTITY performanceUI.table.totalAlloc               "Örneklenen toplam atama">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Bu konumda ve arananlarda örneklenen toplam nesne ataması">
-<!ENTITY performanceUI.table.selfAlloc                "Kendi kendine örneklenen atamalar">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Bu konumda örneklenen nesne atamalarının sayısı.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

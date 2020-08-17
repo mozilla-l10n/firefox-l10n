@@ -14,10 +14,13 @@ openpgp-one-recipient-status-expires-date =
     .label = Bitiş tarihi
 openpgp-one-recipient-status-discover =
     .label = Yeni veya güncellenmiş anahtarı keşfet
+
 openpgp-one-recipient-status-instruction1 = Bir alıcıya uçtan uca şifrelenmiş ileti göndermek için alıcının OpenPGP ortak anahtarını almanız ve "kabul edildi" olarak işaretlemeniz gerekir.
+
 openpgp-key-own = Kabul edildi (kişisel anahtar)
 openpgp-key-secret-not-personal = Kullanılamaz
 openpgp-key-verified = Kabul edildi (doğrulanmış)
 openpgp-key-unverified = Kabul edildi (doğrulanmamış)
 openpgp-key-undecided = Kabul edilmedi (kararsız)
 openpgp-key-rejected = Kabul edilmedi (reddedildi)
+

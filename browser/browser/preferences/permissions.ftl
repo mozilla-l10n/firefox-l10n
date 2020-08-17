@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = İstisnalar - İçerik Engelleme
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Aşağıdaki web sitelerinde içerik engellemeyi kapattınız.
-
 permissions-exceptions-etp-window =
     .title = Gelişmiş İzlenme Koruması İstisnaları
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Hangi sitelerin eklenti yükleyebileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = İstisnalar - Otomatik Oynat
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Hangi sitelerin her zaman sesli medyaları otomatik oynatabileceğini veya asla oynatamayacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazdıktan sonra “Engelle” veya “İzin ver”e tıklayın.
 
 ## Site Permissions - Autoplay
 

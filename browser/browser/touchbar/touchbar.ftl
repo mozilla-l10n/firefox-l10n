@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Tam ekrandan çık
 find = Bul
 new-tab = Yeni sekme
 add-bookmark = Yer imlerime ekle
-open-bookmarks-sidebar = Yer imleri kenar çubuğunu aç
 reader-view = Okuyucu görünümü
 # Meant to match the string displayed in an empty URL bar.
 open-location = Arama yapın veya adres yazın
