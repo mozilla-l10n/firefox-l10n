@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Bağlanılalmay">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Bu adres sıñırlanğan">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Sunucı Tapılmadı">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Ya. O saytnı tapmaqta küçsünemiz.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>O adres doğru ise, deñeybilecegiñiz üç diger şey mındadır:</strong>
 <ul>
@@ -34,8 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Dosye tapılamadı">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Dosye ismini büyükleştirme yaki diger tuşlama hataları içün teşkeriñiz.</li>
@@ -43,15 +35,11 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Dosyege irişim inkâr etildi">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Çetleştirilgen yaki avuştırılğan olabilir ya da belki dosye ruhsetleri irişimni öñley.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Ay!">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; bazı bir sebepten dolayı bu saifeni yükleyalmay.</p>
@@ -65,18 +53,10 @@
 <!ENTITY openPortalLoginPage.label2 "Şebeke İçeri İmzalanma Saifesini Aç">
 
 <!ENTITY malformedURI.pageTitle "Keçersiz URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Ya. O adres doğru körünmey.">
-
-<!ENTITY netInterrupt.title "Bağlantı inqıtağa oğratıldı">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Vesiqa Eskirgen">
-
 <!ENTITY notCached.longDesc "<p>İstengen vesiqa &brandShortName; zulasında faydalanışlı degildir.</p><ul><li>Bir emniyet ihtiyatı olaraq, &brandShortName; hassas vesiqalarnı avtomatik olaraq kene istemez.</li><li>Vesiqanı ağ saytından kene istemek içün Yañıdan Deñe'ge çertiñiz.</li></ul>">
-
-<!ENTITY netOffline.title "Devre-tışı tarz">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -84,15 +64,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Münderice Kodlandırma Hatası">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Bu meseleden haberdar etmek içün lütfen sayt saipleri ile temasqa keçiñiz.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Ğayrı Emin Dosye Türü">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -100,23 +76,15 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Bağlantı sıfırlandı">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Bağlantı zaman aşımına oğradı">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Adres añlaşılmadı">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Bu adresni açmaq içün belki başqa yazılımnı qurmağa muhtacsıñız.</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "Proksi sunucısı bağlantılarnı red ete">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -125,8 +93,6 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Proksi sunucısı tapılalmay">
-
 <!ENTITY proxyResolveFailure.longDesc " <ul>   
   <li>Doğru olğanlarından emin olmaq içün proksi sunucısı ayarlarıñıznı teşkeriñiz.</li>
   <li>Bilgisayarıñıznıñ çalışqan bir şebeke bağlantısına saip olıp olmağanını teşkeriñiz.</li>  
@@ -134,15 +100,11 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Saifeniñ kene yönetmesi münasip degildir">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Bazan bu meseleniñ sebebi çöreklerniñ ğayrıqabilleştirilgen oluvı yaki red etilüvi olabilir.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Sunucıdan beklenmegen cevap">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -151,17 +113,12 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Emniyetli Bağlantı Muvafaqiyetsiz">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Seyretmege talpınğanıñız saife kösterilalmay çünki alınğan verilerniñ sahihligi doğrulanamadı.</li>
   <li>Bu meseleden haberdar etmek içün lütfen ağ-saytı saipleri ile temasqa keçiñiz.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Tenbi: Potensial Emniyet Riski İleride">
-<!ENTITY certerror.sts.longpagetitle  "Bağlanılmadı: Potensial Emniyet Meselesi">
 
 <!ENTITY certerror.introPara2 "&brandShortName; potensial bir emniyet qorquzuvı alğıladı ve <span class='hostname'/> adresine devam etmedi. Bu saytnı ziyaret etseñiz, ücümciler sır-sözler, e-poçtalar ve kredit kartı tafsilâtları kibi malümatıñıznı hırsızlamağa talpınabilir.">
 <!ENTITY certerror.sts.introPara "&brandShortName; potensial bir emniyet qorquzuvı alğıladı ve <span class='hostname'/> adresine devam etmedi çünki bu sayt emniyetli bir bağlantını şart qoşa.">
@@ -192,11 +149,7 @@
 	<li>Bilgisayarıñız ya da şebekeñiz ateş-divarı ya da proksi tarafından qoruna ise, &brandShortName; uyğulamasına Ağğa irişmege ruhsetniñ berilgen olğanından emin oluñız.</li>
 </ul> ">
 
-<!ENTITY cspBlocked.title "Muhteva Emniyeti Siyaseti Tarafından Bloklanğan">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu saifeniñ bu şekilde yüklenüviniñ ögüni aldı çünki saife buña izin bermegen bir muhteva emniyeti siyasetine saiptir.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "İfsat Etilgen Muhteva Hatası">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Seyretmege talpınğanıñız saife kösterilalmay çünki verilerniñ naqlinde bir hata keşfetildi.</p><ul><li>Bu meseleden olarnı haberdar etmek içün lütfen sayt saipleri ile temasqa keçiñiz.</li></ul>">
 
@@ -206,11 +159,7 @@
 <!ENTITY errorReporting.automatic2 "Mozilla’ğa fena-niyetli saytlarnı teşhis etip bloklamağa yardım etmek üzre bunıñ kibi hatalarnı maruza et">
 <!ENTITY errorReporting.learnMore "Daa çoq ögren…">
 
-<!ENTITY remoteXUL.title "Uzaqtan XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Bu meseleden haberdar etmek içün lütfen ağ-saytı saipleri ile temasqa keçiñiz.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Emniyetlice Bağlanılalmay">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -221,15 +170,11 @@
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>, HTTP Sıqı Naqliye Emniyeti (HSNE; HSTS) dengen bir emniyet siyasetine saiptir ki, &brandShortName; oña faqat emniyetlice bağlanabilir demek. Bu saytnı ziyaret etmek içün bir istisna ekleyalmaysıñız.">
 <!ENTITY certerror.copyToClipboard.label "Metinni tüyreme-tahtasına kopiyala">
 
-<!ENTITY inadequateSecurityError.title "Bağlantıñız emniyetli degildir">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> tarih-tışı ve ücümler ile örselenebilir bir emniyet teknologiyası qullana. Bir ücümci, emin olğanını sanğanıñız malümatnı qolayca ifşa etebilir edi. Bu saytnı ziyaret etebilmeñizden evvel sayt memurınıñ sunucını tüzetmesi kerekecek.</p><p>Hata kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Bloklanğan Saife">
-
-<!ENTITY certerror.mitm.title "Yazılım, &brandShortName; Uyğulamasınıñ Emin Olaraq Bu Saytqa Bağlanmasınıñ Aldını Ala">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> büyük ihtimal ile emin bir sayt, lâkin emniyetli bir bağlantı tesis etilamadı. Bu meseleniñ müsebbibi, bilgisayarıñız yaki şebekeñiz üzerindeki <span class='mitm-name'/> adlı yazılımdır.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Antivirus yazılımıñızda (sıqça “ağ taraması” yaki “https taraması” dengen) şifrelendirilgen bağlantılarnı tarağan bir hususiyet bar ise, o hususiyetni naqabilleştirebilirsiz. O işke yaramasa, antivirus yazılımıñıznı çetleştirip kene qurabilirsiñiz.">
@@ -237,13 +182,9 @@
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "<span class='mitm-name'/> ile tanış degil iseñiz, bu bir ücüm olabilir ve saytqa devam etmemeñiz lâzim.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "<span class='mitm-name'/> ile tanış degil iseñiz, bu bir ücüm olabilir, ve saytqa irişmek içün yapabilgeniñiz bir şey yoqtır.">
 
-<!ENTITY clockSkewError.title "Bilgisayar Saatıñız Yañlış">
-
 <!ENTITY clockSkewError.longDesc "Bilgisayarıñız saatnıñ <span id='wrongSystemTime_systemDate1'/> olğanını tüşüne ve bu yüzden &brandShortName; emniyetlice bağlanalmay. <span class='hostname'></span> adresini ziyaret etmek içün, sistem ayarlarıñızda bilgisayarıñıznıñ tarihi, saatı ve saat tilimini yañartıp <span class='hostname'></span> saifesini tazertiñiz.">
 
 <!ENTITY prefReset.longDesc "Bunıñ müsebbibi şebeke emniyeti ayarları olabilir kibi körüne. Ögbelgilengen ayarlarnıñ keri tiklenmesini isteysiñizmi?">
 <!ENTITY prefReset.label "Ögbelgilengen ayarlarnı keri tikle">
-
-<!ENTITY networkProtocolError.title "Şebeke Protokolı Hatası">
 
 <!ENTITY networkProtocolError.longDesc "<p>Seyretmege talpınğanıñız saife kösterilalmay çünki şebeke protokolında bir hata keşfetildi.</p><ul><li>Bu meseleden olarnı haberdar etmek içün lütfen sayt saipleri ile temasqa keçiñiz.</li></ul>">

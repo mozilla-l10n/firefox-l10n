@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Er zaman
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Seçenekler
-           *[other] Tercihler
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Seçenekler
@@ -424,16 +417,6 @@ update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
     .accesskey = a
 
-update-enable-search-update =
-    .label = Qıdırma motorlarını avtomatik olaraq yañart
-    .accesskey = d
-
-update-pref-write-failure-title = Yazma Hatası
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Tercih saqlanalmay. Dosyege yazılamadı: { $path }
-
 ## General Section - Performance
 
 performance-title = İcraat
@@ -570,7 +553,6 @@ home-prefs-topsites-description = En çoq ziyaret etkeniñiz saytlar
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } tevsiyeli
-home-prefs-recommended-by-description = İnternet etrafından mükemmel muhteva, siziñ içün şahsiyleştirilgen
 ##
 
 home-prefs-recommended-by-option-sponsored-stories =
@@ -611,7 +593,6 @@ search-bar-shown =
     .label = Alet çubuğında qıdırma çubuğını ekle
 
 search-engine-default-header = Ögbelgilengen Qıdırma Motorı
-search-engine-default-desc = Adres çubuğında ve qıdırma çubuğında qullanılacaq ögbelgilengen qıdırma motorını sayla.
 
 search-suggestions-option =
     .label = Qıdırma telqinleri temin et
@@ -660,8 +641,6 @@ search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan b
 
 ## Containers Section
 
-containers-back-link = « Geri dön
-
 containers-header = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yañı Konteyner Ekle
@@ -681,14 +660,6 @@ containers-remove-button =
 sync-signedout-caption = Ağ’ıñıznı Yanıñızda Alıñız
 sync-signedout-description = Saifeimleriñizni, keçmişiñizni, ilmekleriñizni, eklentileriñizni ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.
 
-sync-signedout-account-title = { -fxaccount-brand-name } ile bağlanıñız
-sync-signedout-account-create = Esabıñız yoqmı? Başlayberiñiz
-    .accesskey = e
-
-sync-signedout-account-signin =
-    .label = İçeri İmzalan…
-    .accesskey = e
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -707,10 +678,6 @@ sync-mobile-promo = Mobil cihazıñız ile aynılaştırmaq içün <img data-l10
 sync-profile-picture =
     .tooltiptext = Profil resmini değiştir
 
-sync-disconnect =
-    .label = Bağlantıyı kes…
-    .accesskey = B
-
 sync-manage-account = Esapnı İdare Et
     .accesskey = H
 
@@ -728,9 +695,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Giriş yap
     .accesskey = G
-
-sync-signedin-settings-header = Sync ayarları
-sync-signedin-settings-desc = { -brand-short-name } kullanan cihazlarınız arasında eşitlenecek öğeleri seçin.
 
 ## Sync section - enabling or disabling sync.
 
@@ -752,11 +716,6 @@ sync-engine-tabs =
     .label = Açık sekmeler
     .tooltiptext = Eşitlenen tüm cihazlarınızdaki açık sekmelerin listesi
     .accesskey = s
-
-sync-engine-logins =
-    .label = Esaplar
-    .tooltiptext = Kaydettiğiniz kullanıcı adları ve parolaları
-    .accesskey = H
 
 sync-engine-addresses =
     .label = Adresler
@@ -800,22 +759,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Başqa bir cihaz bağla
 
-sync-manage-devices = Cihazlarnı idare et
-
-sync-fxa-begin-pairing = Bir cihaznı çiftle
-
-sync-tos-link = Kullanım Koşulları
-
-sync-fxa-privacy-notice = Gizlilik Bildirimi
-
 ## Privacy Section
 
 privacy-header = Kezici Hususiyatı
 
 ## Privacy Section - Forms
 
-
-logins-header = İçeri İmzalanmalar ve Sır-sözler
 
 ## Privacy Section - Logins and Passwords
 
@@ -841,6 +790,7 @@ forms-master-pw-change =
     .accesskey = d
 
 forms-master-pw-fips-title = Al-azırda FIPS tarzındasıñız. FIPS, boş olmağan bir Usta Sır-sözni kerektire.
+
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
 
 ## OS Authentication dialog
@@ -928,9 +878,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Bloklanğan Tür
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = Üçünci-taraf izciler
-
 sitedata-option-block-unvisited =
     .label = Ziyaret etilmegen saytlardan çörekler
 sitedata-option-block-all-third-party =
@@ -970,27 +917,7 @@ addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlern
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Muhteva Bloklaması
-
 content-blocking-learn-more = Daha Çoq Ögren
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Standart
-    .accesskey = S
-content-blocking-setting-strict =
-    .label = Sıqı
-    .accesskey = S
-content-blocking-setting-custom =
-    .label = Özel
-    .accesskey = e
-
-content-blocking-standard-desc = İmaye ve icraat içün muvazeneli. Ağ-saytlarınıñ münasip çalışması içün bazı izcilerge izin berir.
-content-blocking-custom-desc = Nelerniñ bloklanacağını saylañız.
-
-content-blocking-private-trackers = Faqat Hususiy Pencere'lerde bilingen izciler
-content-blocking-third-party-cookies = Üçünci-taraf izleyici çörekler
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1008,16 +935,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-windows-trackers = Episi pencerelerde bilingen izciler
 content-blocking-all-third-party-cookies = Üçünci-taraf çörekleriniñ episi
 
 content-blocking-warning-title = Diqqat!
-content-blocking-warning-description = Muhtevanıñ bloklanması bazı ağ-saytlarınıñ sınmasına sebep olabilir. İtimat etkeniñiz saytlar içün bloklamanı naqabilleştirmek qolaydır.
-content-blocking-learn-how = Nasılnı ögreniñiz
-
-content-blocking-trackers-label =
-    .label = İzciler
-    .accesskey = c
 
 content-blocking-tracking-protection-option-all-windows =
     .label = Episi pencerelerde
@@ -1076,14 +996,6 @@ permissions-notification-link = Daha çoq ögren
 permissions-notification-pause =
     .label = { -brand-short-name } kene başlatılğance tebliğlerni tınışla
     .accesskey = b
-
-permissions-block-autoplay-media2 =
-    .label = Ağ-saytlarınıñ öz-özünden davuş oynatmasını blokla
-    .accesskey = b
-
-permissions-block-autoplay-media-exceptions =
-    .label = İstisnalar…
-    .accesskey = s
 
 permissions-block-popups =
     .label = Peyda pencerelerni blokla
@@ -1211,6 +1123,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = T
 
 space-alert-under-5gb-message = { -brand-short-name } tarafından qulllanılabilgen disk fezası bitmek üzre. Daa eyi bir kezinti deñeyimi içün disk qullanımıñıznı optimalleştirmege isteseñiz “Daha Çoq Ögren”ni ziyaret etiñiz.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

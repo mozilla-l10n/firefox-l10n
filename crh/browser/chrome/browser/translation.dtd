@@ -27,7 +27,3 @@
 <!ENTITY translation.options.preferences.label "Tercime tercihleri">
 <!ENTITY translation.options.preferences.accesskey "T">
 
-<!ENTITY translation.options.attribution.beforeLogo "Tercimeler">
-<!ENTITY translation.options.attribution.afterLogo "tarafındandır">
-
-<!ENTITY translation.options.attribution.yandexTranslate "Yandex.Tercime tarafından qudretlendirilgen">

@@ -15,32 +15,12 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Gürlük sürgüsi">
 
-<!ENTITY stats.media "Vasat">
-<!ENTITY stats.size "Ölçü">
-<!ENTITY stats.activity "Faaliyet">
-<!ENTITY stats.activityPaused "Tınışlanğan">
-<!ENTITY stats.activityPlaying "Oynatıla">
-<!ENTITY stats.activityEnded "Bitti">
-<!ENTITY stats.activitySeeking "(arana)">
-<!ENTITY stats.volume "Gürlük">
-<!ENTITY stats.framesParsed "Ayırıştırılğan çerçive">
-<!ENTITY stats.framesDecoded "Dekodlanğan çerçive">
-<!ENTITY stats.framesPresented "Taqdim etilgen çerçive">
-<!ENTITY stats.framesPainted "Boyalanğan çerçive">
-
 <!ENTITY error.aborted "Video yüklenmesi toqtatıldı.">
 <!ENTITY error.network "Bir şebeke hatasından dolayı video oynatımından vazgeçildi.">
 <!ENTITY error.decode "Dosye ifsat etilgen olğanından video oynatılalmay.">
 <!ENTITY error.srcNotSupported "Video formatı yaki MIME türü desteklenmey.">
 <!ENTITY error.noSource2 "Desteklengen format ve MIME türü ile bir video tapılğan degil.">
 <!ENTITY error.generic "Namalüm bir hatadan dolayı video oynatımı abortlandı.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 / #2 keçti">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

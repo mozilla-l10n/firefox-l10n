@@ -12,7 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = Hemen deneyin
 onboarding-button-label-get-started = Başlayalım
 
 ## Welcome modal dialog strings
@@ -24,6 +23,13 @@ onboarding-start-browsing-button-label = Gezinmeye başla
 onboarding-cards-dismiss =
     .title = Sav
     .aria-label = Sav
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -43,22 +49,6 @@ onboarding-cards-dismiss =
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Gizli gezinti
-onboarding-private-browsing-text = Yalnız başınıza gezin. İçerik engelleme ile gizli gezinti özelliği, web’de sizi izleyen çevrimiçi takipçileri engeller.
-
-onboarding-screenshots-title = Ekran Körüntileri
-onboarding-screenshots-text = { -brand-short-name } tarayıcınızdan çıkmadan ekran görüntüleri alın, kaydedin ve paylaşın. İstediğiniz bölgeyi veya sayfanın tamamını kaydedebilir, web’e yükleyip kolayca paylaşabilirsiniz.
-
-onboarding-addons-title = Eklentiler
-onboarding-addons-text = { -brand-short-name } tarayıcınıza daha da fazla özellik ekleyebilirsiniz. Çeviri yapın, hava durumuna bakın ya da yeni bir temayla kişiliğinizi yansıtın.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Sinir bozucu reklamları engellemenize izin veren Ghostery gibi eklentilerle daha hızlı, daha akıllı ve daha güvenli gezinebilirsiniz.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Eşitle
-onboarding-fxa-text = Yer imlerinizi, parolalarınızı ve açık sekmelerinizi { -brand-short-name } kullandığınız tüm cihazlarınızla eşitlemek için { -fxaccount-brand-name } açın.
 
 
 ## Message strings belonging to the Return to AMO flow

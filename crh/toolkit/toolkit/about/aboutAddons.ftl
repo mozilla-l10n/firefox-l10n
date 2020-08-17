@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Yüklene…
-
 list-empty-installed =
     .value = Bu türden qurulğan eklentileriñiz iç yoq
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Eklentiler aqqında daa çoq ögreniñiz
 
-install-addon-from-file =
-    .label = Dosyeden Eklenti Qur…
-    .accesskey = Q
-
 help-button = Eklentiler Destegi
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } Seçenekleri
        *[other] { -brand-short-name } Tercihleri
     }
-
-tools-menu =
-    .tooltiptext = Episi eklentiler içün aletler
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Episi uzantılarnı köster
-
-debug-addons =
-    .label = Eklentilerni İlletsizleştir
-    .accesskey = s
 
 cmd-show-details =
     .label = Daa Çoq Malümatnı Köster
@@ -103,17 +89,6 @@ cmd-contribute =
     .label = İsse qoş
     .accesskey = i
     .tooltiptext = Bu eklentiniñ inkişafına isse qoş
-
-discover-title = Eklentiler Nedir?
-
-discover-description =
-    Eklentiler, ziyade funksionallik yaki uslûp ile { -brand-short-name } uygulamañıznı
-    şahsiyleştirüviñizge imkân bergen uyğulamalardır. { -brand-short-name } uyğulamasını siziñ öz uyğulamañız yasamaq üzre bir zaman
-    tasarrufı yan çubuğı, bir ava tebliğcisi yaki bir temalı körünişni deñeñiz.
-
-discover-footer =
-    İnternet’ke bağlanğan olğanıñızda, bu terezede deñemeñiz içün
-    eñ yahşı ve eñ halqçan eklentilerniñ bazıları ögge çıqarılacaq.
 
 detail-version =
     .label = Sürüm
@@ -211,14 +186,6 @@ private-browsing-description2 =
     { -brand-short-name } uzantılarnıñ hususiy seyranda nasıl çalışqanını deñiştire. { -brand-short-name } içine eklegeniñiz er angi yañı eklentiler ögbelgilengen olaraq Hususiy Pencerelerde çapmaycaq. Ayarlarda oña izin bermegeniñiz taqdirde, uzantı hususiy seyranda olğanda çalışmaycaq ve andaki hat-üstü faaliyetleriñizge irişimi olmaycaq.
     <label data-l10n-name="private-browsing-learn-more">Uzantı ayarlarınıñ nasıl idare etilgenini ögreniñiz.</label>
 
-extensions-view-recent-updates =
-    .name = Deminki Yañartmalar
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Faydalanışlı Yañartmalar
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Uzantılar
 addon-category-extension-title =
     .title = Uzantılar
@@ -243,29 +210,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Qabilleştir
-    .tooltiptext = Eklenti telif qabiliyeti teşkerüvini qabilleştir
-
-extensions-warning-update-security-label =
-    .value = Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Qabilleştir
-    .tooltiptext = Eklenti yañartması emniyet teşkerüvini qabilleştir
-
 extensions-warning-safe-mode = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
 extensions-warning-check-compatibility = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
 extensions-warning-check-compatibility-button = Qabilleştir
@@ -277,14 +221,6 @@ extensions-warning-update-security-button = Qabilleştir
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Yañartmalar içün Teşker
-    .accesskey = T
-
-extensions-updates-view-updates =
-    .label = Deminki Yañartmalarğa Baq
-    .accesskey = B
-
 addon-updates-check-for-updates = Yañartmalar içün Teşker
     .accesskey = T
 addon-updates-view-updates = Deminki Yañartmalarğa Baq
@@ -292,10 +228,6 @@ addon-updates-view-updates = Deminki Yañartmalarğa Baq
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Eklentilerni Öz-özünden Yañart
-    .accesskey = z
 
 addon-updates-update-addons-automatically = Eklentilerni Öz-özünden Yañart
     .accesskey = z
@@ -306,36 +238,12 @@ addon-updates-update-addons-automatically = Eklentilerni Öz-özünden Yañart
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Episi Eklentilerni Öz-özünden Yañartılmaq Üzre Sıfırla
-    .accesskey = S
-
-extensions-updates-reset-updates-to-manual =
-    .label = Episi Eklentilerni Elnen Yañartılmaq Üzre Sıfırla
-    .accesskey = S
-
 addon-updates-reset-updates-to-automatic = Episi Eklentilerni Öz-özünden Yañartılmaq Üzre Sıfırla
     .accesskey = S
 addon-updates-reset-updates-to-manual = Episi Eklentilerni Elnen Yañartılmaq Üzre Sıfırla
     .accesskey = S
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Eklentiler yañartıla
-extensions-updates-installed =
-    .value = Eklentileriñiz yañartılğandır.
-extensions-updates-downloaded =
-    .value = Eklenti yañartmalarıñız endirilgendir.
-extensions-updates-restart =
-    .label = Qurulımnı tamamlamaq içün şimdi kene başlat
-extensions-updates-none-found =
-    .value = Tapılğan yañartmalar yoq
-extensions-updates-manual-updates-found =
-    .label = Faydalanışlı Yañartmalarğa Baq
-extensions-updates-update-selected =
-    .label = Yañartmalarnı Qur
-    .tooltiptext = Bu listedeki faydalanışlı yañartmalarnı qur
 
 addon-updates-updating = Eklentiler yañartıla
 addon-updates-installed = Eklentileriñiz yañartılğandır.
@@ -353,10 +261,6 @@ addon-open-about-debugging = Eklentilerni İlletsizleştir
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Eklenti Qısqayollarını İdare Et
-    .accesskey = r
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Eklenti Qısqayollarını İdare Et
     .accesskey = r
@@ -365,8 +269,6 @@ shortcuts-no-addons = Qabilleştirilgen er angi bir eklentiñiz yoq.
 shortcuts-no-commands = Aşağıdaki uzantılarnıñ qısqayolları yoq:
 shortcuts-input =
     .placeholder = Bir qısqayol kirsetiñiz
-
-shortcuts-browserAction = Uzantını faalleştir
 
 shortcuts-pageAction = Sahife fiilini faalleştir
 shortcuts-sidebarAction = Yan-çubuqnı tönter
@@ -385,9 +287,6 @@ shortcuts-card-expand-button =
 
 shortcuts-card-collapse-button = Daha Az Köster
 
-go-back-button =
-    .tooltiptext = Keri bar
-
 header-back-button =
     .title = Keri bar
 
@@ -399,9 +298,6 @@ header-back-button =
 remove-addon-button = Çetleştir
 disable-addon-button = Naqabilleştir
 enable-addon-button = Qabilleştir
-
-addons-enabled-heading = Qabilleştirilgen
-addons-disabled-heading = Naqabilleştirilgen
 
 ## Pending uninstall message bar
 

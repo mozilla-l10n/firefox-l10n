@@ -40,35 +40,6 @@
 <!ENTITY cmd.restoreFromFile.label "Dosyeni Sayla…">
 <!ENTITY cmd.restoreFromFile.accesskey "s">
 
-<!ENTITY cmd.deleteDomainData.label "Bu Sayt Aqqında Unut">
-<!ENTITY cmd.deleteDomainData.accesskey "U">
-
-<!ENTITY cmd.open.label "Aç">
-<!ENTITY cmd.open.accesskey "A">
-<!ENTITY cmd.open_window.label "Yañı Bir Pencerede Aç">
-<!ENTITY cmd.open_window.accesskey "Y">
-<!ENTITY cmd.open_private_window.label "Yañı bir Hususiy Pencerede Aç">
-<!ENTITY cmd.open_private_window.accesskey "H">
-<!ENTITY cmd.open_tab.label "Yañı Bir İlmekte Aç">
-<!ENTITY cmd.open_tab.accesskey "i">
-<!ENTITY cmd.open_all_in_tabs.label "Episini İlmeklerde Aç">
-<!ENTITY cmd.open_all_in_tabs.accesskey "e">
-
-<!ENTITY cmd.properties.label "Hasiyetler">
-<!ENTITY cmd.properties.accesskey "H">
-
-<!ENTITY cmd.sortby_name.label "İsim boyunca Sırala">
-<!ENTITY cmd.sortby_name.accesskey "i">
-<!ENTITY cmd.context_sortby_name.accesskey "r">
-
-<!ENTITY cmd.new_bookmark.label "Yañı Saife-imi…">
-<!ENTITY cmd.new_bookmark.accesskey "s">
-<!ENTITY cmd.new_folder.label "Yañı Cilbent…">
-<!ENTITY cmd.new_folder.accesskey "t">
-<!ENTITY cmd.context_new_folder.accesskey "t">
-<!ENTITY cmd.new_separator.label "Yañı Ayırğıç">
-<!ENTITY cmd.new_separator.accesskey "y">
-
 <!ENTITY col.name.label "İsim">
 <!ENTITY col.tags.label "Nişanlar">
 <!ENTITY col.url.label "Qonum">
@@ -76,9 +47,6 @@
 <!ENTITY col.visitcount.label "Ziyaret Sayısı">
 <!ENTITY col.dateadded.label "Eklengen">
 <!ENTITY col.lastmodified.label "Soñki Deñişiklik">
-
-<!ENTITY historySearch.placeholder "Keçmişni qıdır">
-<!ENTITY bookmarksSearch.placeholder "Saife-imlerini qıdır">
 
 <!ENTITY cmd.find.key "f">
 
@@ -92,15 +60,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Hasiyetlerini körip tarir etmek içün bir unsur saylañız">
 
-<!ENTITY view.label "Körünim">
-<!ENTITY view.accesskey "K">
-<!ENTITY byDate.label "Tarihqa Köre">
-<!ENTITY byDate.accesskey "T">
-<!ENTITY bySite.label "Saytqa Köre">
-<!ENTITY bySite.accesskey "S">
-<!ENTITY byMostVisited.label "Eñ Büyük Ziyaret Sayısına Köre">
-<!ENTITY byMostVisited.accesskey "Z">
-<!ENTITY byLastVisited.label "Soñki Ziyaret Etilgenlerge Köre">
-<!ENTITY byLastVisited.accesskey "o">
-<!ENTITY byDayAndSite.label "Tarih ve Saytqa Köre">
-<!ENTITY byDayAndSite.accesskey "v">

@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Yañı Pencerege Avuştır
     .accesskey = P
-undo-close-tab =
-    .label = Qapatılğan İlmekni Keri Aç
-    .accesskey = K
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = İlmekni Qapat
     .accesskey = Q

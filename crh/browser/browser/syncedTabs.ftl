@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Aynılaştırılğan İlmekler
 synced-tabs-sidebar-noclients-subtitle = Diger cihazlardan ilmekleriñizni mında köresiñiz kile?
-synced-tabs-sidebar-notsignedin = Diger cihazlarıñızdaki ilmeklerniñ bir listesini körmek içün içeri imzalanıñız.
 synced-tabs-sidebar-unverified = Esabıñız doğrulanmağa muhtac.
 synced-tabs-sidebar-notabs = Açıq ilmekler yoq
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } Tercihlerini Aç

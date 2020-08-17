@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Kes">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Kopiyala">
-<!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY pasteCmd.accesskey "Y">
-<!ENTITY undoCmd.label "Keri yap">
-<!ENTITY undoCmd.accesskey "r">
-<!ENTITY selectAllCmd.label "Episini Sayla">
-<!ENTITY selectAllCmd.accesskey "e">
-<!ENTITY deleteCmd.label "Sil">
-<!ENTITY deleteCmd.accesskey "S">
-
 <!ENTITY spellAddToDictionary.label "Luğatqa Ekle">
 <!ENTITY spellAddToDictionary.accesskey "L">
 <!ENTITY spellUndoAddToDictionary.label "Luğatqa Eklemeni Keri Yap">

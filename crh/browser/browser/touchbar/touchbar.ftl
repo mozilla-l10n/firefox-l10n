@@ -12,7 +12,6 @@ fullscreen = Tam-ekran
 find = Tap
 new-tab = Yañı ilmek
 add-bookmark = Saifeimi ekle
-open-bookmarks-sidebar = Saifeimleri Yan-çubuğını Aç
 reader-view = Oquyıcı Körünimi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Qıdır yaki adres kirset

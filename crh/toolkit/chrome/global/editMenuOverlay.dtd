@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label "Tarir">
-<!ENTITY editMenu.accesskey "T">
-<!ENTITY undoCmd.label "Keri yap">
-<!ENTITY undoCmd.key "z">
-<!ENTITY undoCmd.accesskey "r">
-<!ENTITY redoCmd.label "Kene yap">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "n">
-<!ENTITY cutCmd.label "Kes">
-<!ENTITY cutCmd.key "x">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Kopiyala">
-<!ENTITY copyCmd.key "c">
-<!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY pasteCmd.key "v">
-<!ENTITY pasteCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Sil">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY selectAllCmd.label "Episini Sayla">
-<!ENTITY selectAllCmd.key "a">
-<!ENTITY selectAllCmd.accesskey "e">
-
 <!ENTITY findCmd.label "Tap">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "T">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "d">
-<!ENTITY findPreviousCmd.label "Evelkini Tap">
-<!ENTITY findPreviousCmd.accesskey "v">

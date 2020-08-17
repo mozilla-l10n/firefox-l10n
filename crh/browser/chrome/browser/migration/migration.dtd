@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "İhtiyariyatnı, Saife-imlerini, Keçmişni, Sır-sözlerni ve diger verilerni şuradan ital et:">
 <!ENTITY importFromUnix.label           "Tercihlerni, Saife-imlerini, Keçmişni, Sır-sözlerni ve diger verilerni şuradan ital et:">
-<!ENTITY importFromBookmarks.label      "Saife-imlerini şuradan ital et:">
 
 <!ENTITY importFromIE.label             "Microsoft İnternet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

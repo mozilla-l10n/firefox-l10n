@@ -70,11 +70,6 @@ permissions-invalid-uri-label = Lütfen keçerli bir qonaqbay-ismi kirsetiñiz
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = İstisnalar - Muhteva Bloklaması
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Bu ağ-saytlarında muhteva bloklamasını naqabilleştirgen olasıñız.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Qaysı ağ-saytlarına eklentiler qurmağa izin berilgenini belirtebilirsiñiz. İzin bermege istegeniñiz saytnıñ tam adresini kirsetiñiz ve ondan soñ İzin Ber çertiñiz.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = İstisnalar - Avtooynatma
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Davuşlı vasatnı öz-özünden oynatmasınıñ angi saytlar içün er zaman caiz olğanını yaki asla caiz olmağanını belirtebilirsiñiz. İdare etmek istegeniñiz saytnıñ adresini yazıp, Blokla veya İzin Ber'ge çertiñiz.
 
 ## Site Permissions - Autoplay
 

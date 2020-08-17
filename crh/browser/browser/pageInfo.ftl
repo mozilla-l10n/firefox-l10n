@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Şöyle Saqla…
     .accesskey = e
-media-preview =
-    .value = Vasat Ögbaqışı:
 
 perm-tab =
     .label = Ruhsetler
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Ebet, çörekler
 security-site-data-no = Hayır
 
 image-size-unknown = Namalüm
-not-set-verified-by = Belirtilmegen
 page-info-not-specified =
     .value = Belirtilmegen
 not-set-alternative-text = Belirtilmegen
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Tuhaflıqlar tarzı
 general-strict-mode =
     .value = Standartlarğa uyum tarzı
-security-no-owner = Bu ağ-saytı saiplik malümatını temin etmey.
 page-info-security-no-owner =
     .value = Bu ağ-saytı saiplik malümatını temin etmey.
 media-select-folder = Suretlerni Saqlamaq içün bir Cilbent Saylañız

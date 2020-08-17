@@ -101,6 +101,8 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = Daa az tuşla, daa çoq tap: { $engineName } üzerinde doğrudan adres çubuğıñızdan qıdırıñız.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -167,6 +169,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ögbelgilengen Qıdırma Motorı Olaraq Tesbit Et
     .accesskey = b
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -248,8 +257,10 @@ popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ epi
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Qıdırıñız yaki adres kirsetiñiz
+
 urlbar-placeholder =
     .placeholder = Qıdırıñız yaki adres kirsetiñiz
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Kezici uzaqtan muraqabede
 urlbar-switch-to-tab =

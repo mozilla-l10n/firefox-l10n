@@ -97,7 +97,6 @@ proxyResolveFailure-title = Proksi sunucısı tapılalmay
 redirectLoop-title = Saifeniñ kene yönetmesi münasip degildir
 unknownSocketType-title = Sunucıdan beklenmegen cevap
 nssFailure2-title = Emniyetli Bağlantı Muvafaqiyetsiz
-cspBlocked-title = Muhteva Emniyeti Siyaseti Tarafından Bloklanğan
 corruptedContentError-title = İfsat Etilgen Muhteva Hatası
 remoteXUL-title = Uzaqtan XUL
 sslv3Used-title = Emniyetlice Bağlanılalmay

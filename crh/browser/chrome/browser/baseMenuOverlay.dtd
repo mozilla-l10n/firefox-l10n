@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Asğariyleştir">
-<!ENTITY bringAllToFront.label    "Episini Ögge Ketir">
-<!ENTITY zoomWindow.label         "Miqyasla">
-<!ENTITY windowMenu.label         "Pencere">
-
-<!ENTITY helpMenu.label           "Yardım"> 
-<!ENTITY helpMenu.accesskey       "Y"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Yardım"> 
-<!ENTITY helpMenuWin.accesskey    "Y">
-
 <!ENTITY aboutProduct2.label      "&brandShorterName; Aqqında">
 <!ENTITY aboutProduct2.accesskey  "a">
-<!ENTITY productHelp2.label       "&brandShorterName; Yardımı">
-<!ENTITY productHelp2.accesskey   "Y">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Klavye Qısqayolları">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "Eklentiler Ğayrı Faalleştirilgen Keliş Kene Başlat…">
-<!ENTITY helpSafeMode.accesskey   "B">
-<!ENTITY helpSafeMode.stop.label       "Eklentiler Qabilleştirilgen Keliş Kene Başlat">
-<!ENTITY helpSafeMode.stop.accesskey   "K">
-
-<!ENTITY helpTroubleshootingInfo.label      "Arıza Qıdıruv Malümatı">
-<!ENTITY helpTroubleshootingInfo.accesskey  "A">
-
-<!ENTITY helpFeedbackPage.label      "Keri Beslemeni Teslim Et…">
-<!ENTITY helpFeedbackPage.accesskey  "K">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Turu">
-<!ENTITY helpShowTour2.accesskey        "T">
 
 <!ENTITY preferencesCmdMac.label        "Tercihler…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Hızmetler">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; Gizlensin">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Digerlerini Gizle">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Episini Köster">
 

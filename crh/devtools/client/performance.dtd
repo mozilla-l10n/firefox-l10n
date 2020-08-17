@@ -45,8 +45,6 @@
 <!ENTITY performanceUI.table.function.tooltip "Nümunelengen fonksiyonnıñ adı ve qaynaq qonumı.">
 <!ENTITY performanceUI.table.totalAlloc "Topyekün Nümunelengen Tahsisler">
 <!ENTITY performanceUI.table.totalAlloc.tooltip "Bu qonumda ve çağırılğanlarda nümunelengen Nesne tahsisleriniñ topyekün sayısı.">
-<!ENTITY performanceUI.table.selfAlloc "Öz Nümunelengen Tahsisler">
-<!ENTITY performanceUI.table.selfAlloc.tooltip "Bu qonumda nümunelengen Nesne tahsisleriniñ sayısı.">
 
 <!ENTITY performanceUI.options.filter.tooltiptext "Zaman-hizasında angi verilerniñ kösterilecegini sayla">
 

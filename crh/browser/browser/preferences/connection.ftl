@@ -35,12 +35,6 @@ connection-proxy-http = HTTP Proksisi
     .accesskey = H
 connection-proxy-http-port = Liman
     .accesskey = L
-connection-proxy-http-share =
-    .label = Episi protokollar içün bu proksi sunucısını qullan
-    .accesskey = e
-
-connection-proxy-ssl = SSL Proksisi
-    .accesskey = L
 
 connection-proxy-ssl-port = Liman
     .accesskey = i

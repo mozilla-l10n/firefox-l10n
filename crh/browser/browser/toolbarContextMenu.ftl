@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = İlmeklerniñ Episini Sayla
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Qapatılğan İlmekni Keri Aç
-    .accesskey = r
 
 toolbar-context-menu-manage-extension =
     .label = Eklentini İdare Et

@@ -2,62 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title = Şebekeleme Aqqında
-warning = Bu pek tecribiydir. Baliğ közetimi olmadan qullanmañız.
-show-next-time-checkbox = Bu tenbini soñraki sefer de köster
-ok = Tamam
-http = HTTP
-sockets = Oyuqlar
-dns = DNS
-websockets = AğOyuqları
-refresh = Tazert
-auto-refresh = 3 saniyede bir avtotazert
-hostname = Qonaqbayadı
-port = Liman
-http2 = HTTP/2
-ssl = SSL
-active = Faal
-idle = Atıl
-host = Qonaqbay
-tcp = TCP
-sent = Yiberilgen
-received = Alınğan
-family = Aile
-trr = TRR
-addresses = Adresler
-expires = Eskire (Saniye)
-messages-sent = Yiberilgen Mesajlar
-messages-received = Alınğan Mesajlar
-bytes-sent = Yiberilgen Bayt
-bytes-received = Alınğan Bayt
-logging = Kütükleme
-log-tutorial = Bu aletniñ nasıl qullanılğanı aqqındaki talimatlar içün <a data-l10n-name="logging">HTTP Kütüklemesi</a>'ni körüñiz.
-current-log-file = Cari Kütük Dosyesi:
-current-log-modules = Cari Kütük Modülleri:
-set-log-file = Kütük Dosyesini Tesbit Et
-set-log-modules = Kütük Modüllerini Tesbit Et
-start-logging = Kütüklemeni Başlat
-stop-logging = Kütüklemeni Toqtat
-dns-lookup = DNS Baqıberişi
-dns-lookup-button = Çez
-dns-domain = Saa:
-dns-lookup-table-column = IP'ler
-rcwn = RCWN İhsaiyatı
-rcwn-status = RCWN Statusı
-rcwn-cache-won-count = Zula ğalip adedi
-rcwn-net-won-count = Safiy ğalip adedi
-total-network-requests = Topyekün şebeke istemi adedi
-rcwn-operation = Zula Ameliyesi
-rcwn-perf-open = Aç
-rcwn-perf-read = Oqu
-rcwn-perf-write = Yaz
-rcwn-perf-entry-open = Kirildi Açıq
-rcwn-avg-short = Qısqa Ortalama
-rcwn-avg-long = Uzun Ortalama
-rcwn-std-dev-long = Uzun Standart Sapma
-rcwn-cache-slow = Zula yavaş adedi
-rcwn-cache-not-slow = Zula yavaş degil adedi
-
 about-networking-title = Şebekeleme Aqqında
 about-networking-http = HTTP
 about-networking-sockets = Oyuqlar
