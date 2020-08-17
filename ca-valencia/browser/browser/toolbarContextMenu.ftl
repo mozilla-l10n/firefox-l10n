@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selecciona totes les pestanyes
     .accesskey = t
-toolbar-context-menu-undo-close-tab =
-    .label = Desfés el tancament de la pestanya
-    .accesskey = D
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -27,18 +24,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Desfés el tancament de les pestanyes
         }
     .accesskey = f
+
 toolbar-context-menu-manage-extension =
     .label = Gestiona l'extensió
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Elimina l'extensió
     .accesskey = l
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Informa sobre l'extensió
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

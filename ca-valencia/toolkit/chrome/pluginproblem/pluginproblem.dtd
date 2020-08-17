@@ -9,6 +9,7 @@
 <!ENTITY blockedPlugin.label                                 "S'ha blocat este connector per a la vostra protecció.">
 <!ENTITY hidePluginBtn.label                                 "Amaga el connector">
 <!ENTITY managePlugins                                       "Gestiona els connectors…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

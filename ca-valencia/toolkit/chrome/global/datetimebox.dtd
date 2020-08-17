@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Placeholders for input type=time -->
 
 
@@ -9,6 +10,7 @@
 <!ENTITY time.second.placeholder "--">
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
+
 <!-- Field labels for input type=time -->
 
 
@@ -17,18 +19,21 @@
 <!ENTITY time.second.label "Segons">
 <!ENTITY time.millisecond.label "Mil·lisegons">
 <!ENTITY time.dayperiod.label "AM/PM">
+
 <!-- Placeholders for input type=date -->
 
 
 <!ENTITY date.year.placeholder "aaaa">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
 <!-- Field labels for input type=date -->
 
 
 <!ENTITY date.year.label "Any">
 <!ENTITY date.month.label "Mes">
 <!ENTITY date.day.label "Dia">
+
 <!-- Date/time clear button -->
 
 

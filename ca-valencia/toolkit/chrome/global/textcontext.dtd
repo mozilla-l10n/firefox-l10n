@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Retalla">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Apega">
-<!ENTITY pasteCmd.accesskey "g">
-<!ENTITY undoCmd.label "Desfés">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Selecciona-ho tot">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteCmd.accesskey "u">
-
 <!ENTITY spellAddToDictionary.label "Afig al diccionari">
 <!ENTITY spellAddToDictionary.accesskey "d">
 <!ENTITY spellUndoAddToDictionary.label "Desfés l'acció d'afegir al diccionari">

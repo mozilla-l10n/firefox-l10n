@@ -18,10 +18,6 @@ serviceworker-list-header = Processos de treball de servei
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Suprimeix el registre
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = Inicia
-
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Font
 
@@ -37,10 +33,6 @@ serviceworker-worker-status-running = S'està executant
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Parat
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = S'està registrant
 
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Errors i avisos

@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = S'està carregant…
-
 list-empty-installed =
     .value = No teniu instal·lat cap complement d'este tipus
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Més informació dels complements
 
-install-addon-from-file =
-    .label = Instal·la un complement des d'un fitxer…
-    .accesskey = I
-
 help-button = Assistència per als complements
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] Opcions del { -brand-short-name }
        *[other] Preferències del { -brand-short-name }
     }
-
-tools-menu =
-    .tooltiptext = Eines per a tots els complements
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Mostra totes les extensions
-
-debug-addons =
-    .label = Depura complements
-    .accesskey = u
 
 cmd-show-details =
     .label = Mostra més informació
@@ -104,12 +90,6 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Col·labora en el desenvolupament del complement
 
-discover-title = Què són els complements?
-
-discover-description = Els complements són aplicacions que vos permeten personalitzar el { -brand-short-name } amb una funcionalitat o estil addicional. Proveu una barra lateral per estalviar temps, un servei meteorològic o un tema perquè el { -brand-short-name } parega més personal.
-
-discover-footer = Quan estigueu connectat a Internet, des d'esta subfinestra es mostraran alguns dels millors i més populars complements que podeu provar.
-
 detail-version =
     .label = Versió
 
@@ -140,18 +120,14 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executa en finestres privades
 
-detail-private-browsing-description2 = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No es permet en finestres privades
-detail-private-disallowed-description = Esta extensió no s'executa durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 
 detail-private-disallowed-description2 = Esta extensió no s'executa durant la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necessita accés a les finestres privades
-detail-private-required-description = Esta extensió té accés a la vostra activitat a Internet durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 
 detail-private-required-description2 = Esta extensió té accés a la vostra activitat a Internet durant la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 
@@ -225,18 +201,6 @@ private-browsing-description2 =
     El { -brand-short-name } ha canviat el funcionament de les extensions en la navegació privada. Per defecte, les extensions noves que s'afegeixin al { -brand-short-name } no s'executaran en les finestres privades. Llevat que ho permeteu als paràmetres, l'extensió no funcionarà durant la navegació privada i no tindrà accés a les vostres activitats en línia. Hem fet aquest canvi per garantir la privadesa de la vostra navegació quan s'utilitzen les finestres privades.
     <label data-l10n-name="private-browsing-learn-more">Més informació sobre com gestionar els paràmetres de les extensions</label>
 
-extensions-view-discopane =
-    .name = Recomanacions
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Actualitzacions recents
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Actualitzacions disponibles
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Recomanacions
 addon-category-discover-title =
     .title = Recomanacions
@@ -264,29 +228,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = El mode segur ha inhabilitat tots els complements.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = La comprovació de compatibilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Habilita
-    .tooltiptext = Habilita la comprovació de compatibilitat dels complements
-
-extensions-warning-update-security-label =
-    .value = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Habilita
-    .tooltiptext = Habilita la comprovació de seguretat dels complements
-
 extensions-warning-safe-mode = El mode segur ha inhabilitat tots els complements.
 extensions-warning-check-compatibility = La comprovació de compatibilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.
 extensions-warning-check-compatibility-button = Habilita
@@ -298,14 +239,6 @@ extensions-warning-update-security-button = Habilita
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Cerca actualitzacions
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = Visualitza les actualitzacions recents
-    .accesskey = V
-
 addon-updates-check-for-updates = Cerca actualitzacions
     .accesskey = C
 addon-updates-view-updates = Visualitza les actualitzacions recents
@@ -313,10 +246,6 @@ addon-updates-view-updates = Visualitza les actualitzacions recents
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Actualitza els complements automàticament
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Actualitza els complements automàticament
     .accesskey = A
@@ -327,36 +256,12 @@ addon-updates-update-addons-automatically = Actualitza els complements automàti
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Reinicia tots els complements perquè s'actualitzen automàticament
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = Reinicia tots els complements perquè s'actualitzen manualment
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = Reinicia tots els complements perquè s'actualitzen automàticament
     .accesskey = R
 addon-updates-reset-updates-to-manual = Reinicia tots els complements perquè s'actualitzen manualment
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = S'estan actualitzant els complements
-extensions-updates-installed =
-    .value = S'han actualitzat els vostres complements.
-extensions-updates-downloaded =
-    .value = S'han baixat les actualitzacions dels vostres complements.
-extensions-updates-restart =
-    .label = Reinicia ara per completar la instal·lació
-extensions-updates-none-found =
-    .value = No s'ha trobat cap actualització
-extensions-updates-manual-updates-found =
-    .label = Mostra les actualitzacions disponibles
-extensions-updates-update-selected =
-    .label = Instal·la les actualitzacions
-    .tooltiptext = Instal·la les actualitzacions disponibles en esta llista
 
 addon-updates-updating = S'estan actualitzant els complements
 addon-updates-installed = S'han actualitzat els vostres complements.
@@ -374,10 +279,6 @@ addon-open-about-debugging = Depura complements
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Gestiona les dreceres de les extensions
-    .accesskey = G
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gestiona les dreceres de les extensions
     .accesskey = G
@@ -386,8 +287,6 @@ shortcuts-no-addons = No teniu cap extensió activada.
 shortcuts-no-commands = Les extensions següents no tenen dreceres:
 shortcuts-input =
     .placeholder = Escriviu una drecera
-
-shortcuts-browserAction = Activa l'extensió
 
 shortcuts-pageAction = Activeu l'acció de la pàgina
 shortcuts-sidebarAction = Mostra/amaga la barra lateral
@@ -418,9 +317,6 @@ shortcuts-card-expand-button =
     }
 
 shortcuts-card-collapse-button = Mostra'n menys
-
-go-back-button =
-    .tooltiptext = Vés arrere
 
 header-back-button =
     .title = Vés arrere
@@ -467,7 +363,6 @@ remove-addon-button = Elimina
 remove-addon-disabled-button = No s'ha pogut eliminar. <a data-l10n-name="link">Per què?</a>
 disable-addon-button = Desactiva
 enable-addon-button = Activa
-expand-addon-button = Més opcions
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
@@ -480,9 +375,6 @@ preferences-addon-button =
 details-addon-button = Detalls
 release-notes-addon-button = Notes de la versió
 permissions-addon-button = Permisos
-
-addons-enabled-heading = Activats
-addons-disabled-heading = Desactivats
 
 extension-enabled-heading = Activades
 extension-disabled-heading = Desactivades
@@ -545,23 +437,12 @@ install-update-button = Actualitza
 
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed =
-    .title = Es permet en finestres privades
-
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Es permet en finestres privades
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetes
-
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
-addon-badge-recommended =
-    .title = Recomanat
-    .alt = Recomanat
 
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.

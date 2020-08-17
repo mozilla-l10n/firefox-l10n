@@ -18,19 +18,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 
 <!ENTITY pictureInPicture.label "Imatge sobre imatge">
 
-<!ENTITY stats.media "Suports">
-<!ENTITY stats.size "Mida">
-<!ENTITY stats.activity "Activitat">
-<!ENTITY stats.activityPaused "En pausa">
-<!ENTITY stats.activityPlaying "En reproducció">
-<!ENTITY stats.activityEnded "Finalitzat">
-<!ENTITY stats.activitySeeking "(s'està posicionant)">
-<!ENTITY stats.volume "Volum">
-<!ENTITY stats.framesParsed "Fotogrames analitzats">
-<!ENTITY stats.framesDecoded "Fotogrames descodificats">
-<!ENTITY stats.framesPresented "Fotogrames presentats">
-<!ENTITY stats.framesPainted "Fotogrames pintats">
-
 <!ENTITY error.aborted "S'ha parat la càrrega del vídeo.">
 <!ENTITY error.network "S'ha interromput la reproducció del vídeo a causa d'un problema de la xarxa.">
 <!ENTITY error.decode "No es pot reproduir el vídeo perquè el fitxer està malmés.">
@@ -45,7 +32,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "S'ha reproduït #1 de #2">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

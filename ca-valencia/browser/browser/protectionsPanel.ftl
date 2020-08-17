@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = S’ha produït un error en enviar l’informe. Torneu-ho a provar més tard.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = El lloc ja funciona? Envieu un informe
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Estàndard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Més informació sobre la protecció contra el seguiment millorada
+
 protections-panel-etp-on-header = S'ha ACTIVAT la protecció contra el seguiment millorada en este lloc
 protections-panel-etp-off-header = S'ha DESACTIVAT la protecció contra el seguiment millorada en este lloc
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = El lloc no funciona?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = El lloc no funciona?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = S'han carregat tots els ele
 ##
 
 protections-panel-no-trackers-found = No s'ha detectat cap element de seguiment conegut pel { -brand-short-name } en esta pàgina.
+
 protections-panel-content-blocking-tracking-protection = Contingut que fa seguiment
+
 protections-panel-content-blocking-socialblock = Elements de seguiment de xarxes socials
 protections-panel-content-blocking-cryptominers-label = Miners de criptomonedes
 protections-panel-content-blocking-fingerprinters-label = Generadors d'empremtes digitals
@@ -65,12 +71,14 @@ protections-panel-protectionsdashboard-label = Tauler de proteccions
 
 # The header of the list
 protections-panel-site-not-working-view-header = Desactiveu les proteccions si teniu problemes amb:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Camps d'inici de sessió
 protections-panel-site-not-working-view-issue-list-forms = Formularis
 protections-panel-site-not-working-view-issue-list-payments = Pagaments
 protections-panel-site-not-working-view-issue-list-comments = Comentaris
 protections-panel-site-not-working-view-issue-list-videos = Vídeos
+
 protections-panel-site-not-working-view-send-report = Envieu un informe
 
 ##
@@ -80,9 +88,11 @@ protections-panel-cryptominers = Els miners de criptomonedes utilitzen la potèn
 protections-panel-fingerprinters = Els generadors d'empremtes digitals recopilen els paràmetres del vostre navegador per a crear un perfil vostre. A partir d'esta empremta digital, vos poden fer el seguiment entre els diferents llocs web.
 protections-panel-tracking-content = Els llocs web poden carregar anuncis, vídeos i altre contingut extern amb un codi de seguiment. Si bloqueu este contingut que fa seguiment, els llocs web es poden carregar més de pressa, però és possible alguns botons, formularis o camps d'inici de sessió no funcionen.
 protections-panel-social-media-trackers = Les xarxes socials col·loquen elements de seguiment en altres llocs web per a fer el seguiment d'allò que feu i veieu a Internet. Això permet a les empreses de xarxes socials recopilar informació de tot allò que compartiu en els vostres perfils de xarxes socials.
+
 protections-panel-content-blocking-manage-settings =
     .label = Gestiona els paràmetres de protecció
     .accesskey = G
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Informeu sobre un lloc que no funciona
 protections-panel-content-blocking-breakage-report-view-description = El bloqueig d'alguns elements de seguiment pot causar problemes en alguns llocs web. Notificar estos problemes ajuda a millorar el { -brand-short-name } per a tothom. Juntament amb l'informe, també s'enviarà a Mozilla un URL i informació de la configuració del vostre navegador. <label data-l10n-name="learn-more">Més informació</label>
