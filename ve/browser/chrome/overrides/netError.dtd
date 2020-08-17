@@ -11,15 +11,9 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Unable to connect">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "File not found">
 
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -29,27 +23,15 @@
 ">
 
 
-<!ENTITY generic.title "Oops.">
-
 <!ENTITY generic.longDesc "
 <p>&brandShortName; can't load this page for some reason.</p>
 ">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY netOffline.title "Offline mode">
-
-<!ENTITY netReset.title "The connection was reset">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -58,8 +40,6 @@
     working.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -70,16 +50,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>This problem can sometimes be caused by disabling or refusing to accept
     cookies.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Unexpected response from server">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>

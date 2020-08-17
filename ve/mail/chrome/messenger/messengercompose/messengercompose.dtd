@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "Itani Hafhu">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "i">
-<!ENTITY cutCmd.label "Gerani">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "g">
-<!ENTITY copyCmd.label "Kopani">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Nambatedzani">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
 <!ENTITY editRewrapCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Thuthani">
 <!ENTITY deleteCmd.accesskey "t">
 <!ENTITY editRewrapCmd.label "Putelani Hafhu">
-<!ENTITY selectAllCmd.label "Nangani Zwoṱhe">
 <!ENTITY selectAllCmd.accesskey "z">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Wanani Hafhu">
 <!ENTITY findAgainCmd.accesskey "h">
 <!ENTITY findAgainCmd.key "G">
@@ -180,17 +172,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "U bva kha:">
 <!ENTITY fromAddr.accesskey "u">
-<!ENTITY toAddr.label "Kha:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Fhindulani- Kha:">
-<!ENTITY newsgroupsAddr.label "Tshigwada tsha Mafhungo:">
-<!ENTITY followupAddr.label "Wanulusani-Kha:">
-<!ENTITY subject.label "Ṱhoho:">
 <!ENTITY subject.accesskey "Ṱ">
-<!ENTITY attachments.accesskey "z">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 

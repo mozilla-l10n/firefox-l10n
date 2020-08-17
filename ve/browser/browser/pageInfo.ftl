@@ -49,8 +49,6 @@ media-long-desc =
 media-save-as =
     .label = Vhulungani Sa...
     .accesskey = S
-media-preview =
-    .value = Mbonalo ya Midia:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -59,7 +57,6 @@ media-preview =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = I sa Ḓivhei
-not-set-verified-by = I Songo Bulwaho
 page-info-not-specified =
     .value = I Songo Bulwaho
 not-set-alternative-text = I Songo Bulwaho

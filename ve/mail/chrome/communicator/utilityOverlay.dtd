@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label "Dzudzanyani">
 <!ENTITY editMenu.accesskey "d">
 <!ENTITY undoCmd.label "Itululani">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "i">
 <!ENTITY redoCmd.label "Itani Hafhu">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "i">
-<!ENTITY cutCmd.label "Gerani">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "n">
-<!ENTITY copyCmd.label "Kopani">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Nambatedzani">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Thuthani">
 <!ENTITY deleteCmd.accesskey "t">
-<!ENTITY selectAllCmd.label "Nangani Dzoṱhe">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "d">
 <!ENTITY preferencesCmdUnix.label "Zwitakalelwa">
 <!ENTITY preferencesCmdUnix.accesskey "z">
 

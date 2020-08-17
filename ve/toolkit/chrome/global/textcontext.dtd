@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Gerani">
-<!ENTITY cutCmd.accesskey "g">
-<!ENTITY copyCmd.label "Kopani">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Nambatedzani">
-<!ENTITY pasteCmd.accesskey "n">
-<!ENTITY undoCmd.label "Itululani">
-<!ENTITY undoCmd.accesskey "i">
-<!ENTITY selectAllCmd.label "Ṋangani Zwoṱhe">
-<!ENTITY selectAllCmd.accesskey "z">
-<!ENTITY deleteCmd.label "Thuthani">
-<!ENTITY deleteCmd.accesskey "t">
-
 <!ENTITY spellAddToDictionary.label "Add to dictionary">
 <!ENTITY spellAddToDictionary.accesskey "t">
 <!ENTITY spellNoSuggestions.label "(No spelling suggestions)">

@@ -51,8 +51,6 @@
 
 <!ENTITY pasteNoFormatting.label "Nambatedzani ni Songo Fomatha">
 <!ENTITY pasteNoFormatting.accesskey "n">
-<!ENTITY pasteAs.label "Nambatedzani Sa">
-<!ENTITY pasteAs.accesskey "s">
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
@@ -151,8 +149,6 @@
 <!ENTITY ParagraphSelect.tooltip "Nangani maitele a phara">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Ḽiṅwalwa la Mutumbu">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Vhuvha ho Bvelelaho">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -168,10 +164,6 @@
 <!ENTITY alignJustify.label "Ṱalutshedzani">
 <!ENTITY alignJustify.tooltip "Mbekanyo yo Ṱalutshedzwa">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Luvhemba">
-<!ENTITY layerSendToBack.tooltip "Rumelani kha Murahu">
-<!ENTITY layerBringToFront.tooltip "Ḓisani kha Phanḓa">
 
 <!ENTITY increaseIndent.label "Engedzani indenthi">
 <!ENTITY decreaseIndent.label "Fhungudzani Indenthi">
@@ -227,15 +219,6 @@
 
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Buḽoko ya Menu">
-<!ENTITY formatToolbar.tooltip "Buḽoko ya Zwishumiswa ya u Fomatha">
-<!ENTITY printToolbarCmd.label "Ganḓiso">
-<!ENTITY printToolbarCmd.tooltip "Ganḓisani heḽi siaṱari">
-<!ENTITY findToolbarCmd.label "Wanani">
-<!ENTITY findToolbarCmd.tooltip "Wanani ḽiṅwalwa kha heḽi siaṱari">
-<!ENTITY spellToolbarCmd.label "Peḽeṱani">
-<!ENTITY spellToolbarCmd.tooltip "Ṱolani mupeḽeṱo wa zwo nangiwaho kana siaṱari ḽoṱhe">
-
 <!ENTITY imageToolbarCmd.label "Tshivhumbeo">
 <!ENTITY imageToolbarCmd.tooltip "Dzhenisani siaṱari ḽiswa kana vhuvha ha tshivhumbeo tsho nangiwaho">
 <!ENTITY hruleToolbarCmd.label "H. Ḽaini">
@@ -248,7 +231,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Dzhenisani thikho ntswa kana lulamisani vhuvha ha thikho yo nangiwaho">
 <!ENTITY TextColorButton.tooltip "Nangani muvhala wa ḽiṅwalwa">
 <!ENTITY BackgroundColorButton.tooltip "Nangani muvhala wa siangane">
-<!ENTITY HighlightColorButton.tooltip "Nangani muvhala wa u kokodza maṱo wa ḽiṅwalwa">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mielo miṱuku ya muṅwalo">
@@ -280,12 +262,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Nangani">
-<!ENTITY structSelect.accesskey "n">
-<!ENTITY structRemoveTag.label "Bvisani thege">
-<!ENTITY structRemoveTag.accesskey "b">
-<!ENTITY structChangeTag.label "Shandukisani thege">
-<!ENTITY structChangeTag.accesskey "s">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "Dzhenisani">
