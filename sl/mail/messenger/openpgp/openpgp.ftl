@@ -214,6 +214,10 @@ key-do-you-accept = Ali sprejemate ta ključ za preverjanje digitalnih podpisov 
 keyserver-error-aborted = Prekinjeno
 keyserver-error-unknown = Prišlo je do neznane napake
 keyserver-error-import-error = Prenesenega ključa ni bilo mogoče uvoziti.
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Vaš ključ { $desc } bo pretekel čez manj kot { $days } dni.
+    Priporočamo, da ustvarite nov par ključev in nastavite ustrezne račune za njihovo uporabo.
 expiry-open-key-manager = Odpri upravitelja ključev OpenPGP
 expiry-open-key-properties = Odpri lastnosti ključa
 # Strings filters.jsm
