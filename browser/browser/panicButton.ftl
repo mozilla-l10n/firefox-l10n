@@ -26,6 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Nastavak će:
-panic-button-delete-cookies = Obriši nedavne <strong>kolačiće</strong>
+panic-button-delete-cookies = Izbriši nedavne <strong>kolačiće</strong>
 panic-button-delete-history = Obriši nedavnu <strong>povijest</strong>
 panic-button-delete-tabs-and-windows = Zatvori sve <strong>kartice</strong> i <strong>prozore</strong>

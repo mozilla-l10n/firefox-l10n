@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Cjeloekranski prikaz">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Sakrij prekidač za slika-u-sliku">
 <!ENTITY pictureInPictureHideToggle.accesskey "S">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Postavke">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži novi uređaj…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Prijavi se u &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Uključi &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; usluge">
@@ -222,14 +220,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Pošalji poveznicu e-poštom…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Zumiraj">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zatvori bočnu traku">
@@ -255,7 +245,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike …">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kartice preglednika">
@@ -276,7 +265,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateUnsupported.panelUI.label "Ne možeš izvršiti daljnja aktualiziranja">
 <!ENTITY updateRestart.panelUI.label2 "Ponovo pokreni za aktualiziranje &brandShorterName;a">
 
-<!ENTITY sendToDevice.syncNotReady.label "Sinkronizacija uređaja…">
+<!ENTITY sendToDevice.syncNotReady.label "Sinkroniziranje uređaja …">
 
 <!ENTITY pageAction.shareUrl.label "Dijeli">
 <!ENTITY pageAction.shareMore.label "Više…">
