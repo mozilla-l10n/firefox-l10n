@@ -50,9 +50,9 @@ move-to-end =
 move-to-new-window =
     .label = ဝင်းဒိုးအသစ်ဆီသို့ ရွှေ့ပါ
     .accesskey = W
-undo-close-tab =
-    .label = ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = တပ်ဗ်ကို ပိတ်ရန်
     .accesskey = C

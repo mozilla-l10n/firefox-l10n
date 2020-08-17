@@ -14,6 +14,7 @@ pw-erased-ok = သင့်ရဲ့ ပင်ရင်း စကားဝှက
 pw-not-wanted = သတိပေးချက်။ ပင်မ စကားဝှက်ကို မသုံးစွဲဖို့ သင် ဆုံးဖြတ်လိုက်ပြီ။ { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = လတ်တလော FIPS အသွင်အတွင်း ရှိသည်။ FIPSသည် ‌ဗလာမဖြစ်သော ပင်မစကားဝှက်တစ်ခု လိုအပ်နေသည်။
+
 pw-change-success-title = စကားဝှက် ပြောင်းတာ အောင်မြင်သွားပြီ
 pw-change-failed-title = စကားဝှက် ပြောင်းလဲတာ မအောင်မြင်ဘူး
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = ပင်မ စကားဝှက်ကို ပြောင်းလဲပါ
+
 set-password-old-password = လက်ရှိ စကားဝှက် -
 set-password-new-password = စကားဝှက်သစ်ကို ရေးထည့်ပါ -
 set-password-reenter-password = စကားဝှက်ကို ထပ်မံ ရေးထည့်ပါ
@@ -31,6 +33,7 @@ master-password-warning = သင်ချမှတ်ထားတဲ့ ပင�
 
 remove-password =
     .title = ပင်ရင်း စကားဝှက်ကို ဖယ်ရှားပါ
+
 remove-info =
     .value = ဆက်သွားဖို့ သင့်ရဲ့ လက်ရှိ စကားဝှက်ကို သင်ရေးထည့်ရမယ် -
 remove-warning1 = သင့်ရဲ့ ပင်ရင်း စကားဝှက်ဟာ ကွန်ရက်စကားဝှက်ကဲ့သို့ အရေးကြီးတဲ့ အချက်အလက်ကို ကာကွယ်ဖို့ သုံးစွဲတယ်။

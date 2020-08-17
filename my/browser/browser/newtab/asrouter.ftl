@@ -101,3 +101,11 @@ cfr-doorhanger-pintab-animation-resume = ဆက်လက်ဆောင်ရွ
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

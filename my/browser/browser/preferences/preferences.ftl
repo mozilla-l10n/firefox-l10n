@@ -7,13 +7,6 @@ do-not-track-learn-more = ဆက်လက် လေ့လာပါ
 do-not-track-option-always =
     .label = အမြဲတမ်း
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] ရွေးစရာများ
-           *[other] နှစ်သက်ရာ အပြင်အဆင်များ
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] ရွေးစရာများ
@@ -394,12 +387,6 @@ update-application-use-service =
     .label = နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ
     .accesskey = b
 
-update-enable-search-update =
-    .label = ရှာဖွေရေး ယန္တရားများကို အလိုအလျောက် မွမ်းမံပါ
-    .accesskey = e
-
-update-pref-write-failure-title = ပျက်စီးဆုံးရှုံးမှုကို ရေးပါ
-
 ## General Section - Performance
 
 performance-title = စွမ်းဆောင်ရည်
@@ -556,7 +543,6 @@ search-bar-shown =
     .label = ရှာဖွေရေးဘားတန်းကို ကိရိယာဘားတန်းသို့ ထည့်ပါ
 
 search-engine-default-header = မူသေ ရှာဖွေရေး ယန္တရား
-search-engine-default-desc = လိပ်စာဘားတန်းနှင့် ရှာဖွေရေးဘားတန်းတွင် အသုံးပြုရန် မူသေရှာဖွေရေးယန္တရားကို ရွေးချယ်သတ်မှတ်ပါ။
 
 search-suggestions-option =
     .label = ရှာဖွေရေး အကြံပြုချက်များကို ပြပါ
@@ -605,8 +591,6 @@ search-keyword-warning-bookmark = လောလောဆယ် မှတ်သာ
 
 ## Containers Section
 
-containers-back-link = « နောက်သို့ ပြန်သွားပါ
-
 containers-header = ကွန်တိန်နာတပ်ဗ်များ
 containers-add-button =
     .label = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
@@ -626,14 +610,6 @@ containers-remove-button =
 sync-signedout-caption = ဝဘ်ကို သင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ
 sync-signedout-description = သင့်ကိရိယာအားလုံးရှိ စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တစ်ပြေးညီဖြစ်စေပါ။
 
-sync-signedout-account-title = { -fxaccount-brand-name } ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်
-sync-signedout-account-create = အကောင့်မရှိလျှင် အသစ်စတင်ပါ။
-    .accesskey = c
-
-sync-signedout-account-signin =
-    .label = ဝင်ပါ...
-    .accesskey = l
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -652,10 +628,6 @@ sync-mobile-promo = ထိုစနစ်အတွက် မီးမြေခ�
 sync-profile-picture =
     .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
 
-sync-disconnect =
-    .label = ချိတ်ဆက်ဖြုတ်ရန်…
-    .accesskey = D
-
 sync-manage-account = အကောင့်ကို စီမံရန်
     .accesskey = o
 
@@ -673,9 +645,6 @@ sync-remove-account =
 sync-sign-in =
     .label = ဝင်ပါ
     .accesskey = g
-
-sync-signedin-settings-header = Sync အပြင်အဆင်များ
-sync-signedin-settings-desc = { -brand-short-name } ကို အသုံးပြုပြီး သင်၏ ကိရိယာများတွင် ပြိုင်တူလုပ်မည့်အရာများကို ရွေးပါ။
 
 ## Sync section - enabling or disabling sync.
 
@@ -697,11 +666,6 @@ sync-engine-tabs =
     .label = ဖွင့်ထားသောတပ်ဗ်များ
     .tooltiptext = ကိရိယာအားလုံးတွင် ဖွင့်ထားသော တပ်ဗ်စာရင်း
     .accesskey = t
-
-sync-engine-logins =
-    .label = ဝင်ရောက်မှုများ
-    .tooltiptext = မှတ်သားထားသည့် အသုံးပြုသူအမည်နှင့်စကားဝှက်များ
-    .accesskey = L
 
 sync-engine-addresses =
     .label = လိပ်စာများ
@@ -745,22 +709,12 @@ sync-device-name-save =
 
 sync-connect-another-device = အခြားကိရိယာကို ချိတ်ပါ။
 
-sync-manage-devices = ကိရိယာများကို စီမံပါ။
-
-sync-fxa-begin-pairing = ကိရိယာတစ်ခု တွဲဖက်ပါ။
-
-sync-tos-link = အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ
-
-sync-fxa-privacy-notice = ကိုယ်ရေးကာကွယ်မှု သတိပေးချက်
-
 ## Privacy Section
 
 privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွယ်မှု
 
 ## Privacy Section - Forms
 
-
-logins-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
 
 ## Privacy Section - Logins and Passwords
 
@@ -786,6 +740,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = လတ်တလော FIPS အသွင်အတွင်း ရှိသည်။ FIPSသည် ‌ဗလာမဖြစ်သော ပင်မစကားဝှက်တစ်ခု လိုအပ်နေသည်။
+
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
 
 ## OS Authentication dialog
@@ -885,21 +840,7 @@ addressbar-suggestions-settings = ရှာဖွေရေးယန္တရာ�
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = စာမျက်နှာတွင် ပါဝင်သည်များကို တားဆီးခြင်း
-
 content-blocking-learn-more = ပိုမိုလေ့လာရန်
-
-content-blocking-setting-strict =
-    .label = တားမြစ်ရန်
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = စိတ်ကြိုက်
-    .accesskey = C
-
-content-blocking-custom-desc = ပိတ်ပင်မည့်အရာကို ရွေးပါ။
-
-content-blocking-private-trackers = ဝင်းဒိုးအားလုံးတွင်ထင်ရှားခြေရာခံမှုများ
-content-blocking-third-party-cookies = သက်ဗ်ပါတီခြေရာခံနေသောကွတ်ကီးများ
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -915,21 +856,15 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-all-cookies = ကွတ်ကီးအားလုံး
 content-blocking-unvisited-cookies = မလည်ပတ်သောဆိုက်များမှ ကွတ်ကီးများ
-content-blocking-all-windows-trackers = ဝင်းဒိုးအားလုံးတွင် ထင်ရှားခြေရာခံမှုများ
 content-blocking-all-third-party-cookies = သက်ဗ်ပါတီ ကွတ်ကီးများအားလုံး
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = လက်ဗွေများ
 
 content-blocking-warning-title = ကြိုတင်အသိပေးသည်!
-content-blocking-learn-how = ဆောင်ရွက်ပုံကို လေ့လာရန်
 
 content-blocking-reload-tabs-button =
     .label = တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်
     .accesskey = R
-
-content-blocking-trackers-label =
-    .label = ခြေရာခံမှုများ
-    .accesskey = T
 
 content-blocking-tracking-protection-option-all-windows =
     .label = ဝင်းဒိုးအားလုံးတွင်
@@ -986,10 +921,6 @@ permissions-notification-link = ပိုမိုလေ့လာရန်
 permissions-notification-pause =
     .label = အသိပေးချက်ကို { -brand-short-name } ပြန်လည်စတင်မှု မတိုင်ခင်ထိ ရပ်တန့်ထားပါ
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = ခြွင်းချက်များ
-    .accesskey = E
 
 permissions-block-popups =
     .label = ပေါ့အပ်ဝင်းဒိုးများကို မဖွင့်ပါနှင့်
@@ -1110,6 +1041,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } ကို အသုံးပြုရန် နေရာလွတ်မရှိတော့ပါ။ ဝဘ်ဆိုက်ရှိအကြောင်းအရာများကို ကောင်းမွန်စွာ ပြသနိုင်မည် မဟုတ်ပါ။ ပိုမိုကောင်းမွန်သော အင်တာနက်ကြည့်ရှုမှု ရရှိရန်အတွက် နေရာလွတ်အသုံးပြုမှုကို ပိုမိုကျစ်လစ်ကောင်းမွန်စေရန် “ပိုမိုလေ့လာရန်” သို့ သွားရောက်ကြည့်ရှုပါ။
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = ဤသို့ သိမ်းမည်…
     .accesskey = e
-media-preview =
-    .value = မီဒီယာအစမ်းကြည့်ခြင်း
 
 perm-tab =
     .label = ခွင့်ပြုချက်များ
@@ -129,7 +127,6 @@ security-site-data-cookies-only = ဟုတ်ကဲ့၊ ကွတ်ကီး
 security-site-data-no = မသိမ်းပါ
 
 image-size-unknown = အမည်မသိ
-not-set-verified-by = ဖော်ပြမထားပါ
 page-info-not-specified =
     .value = ဖော်ပြမထားပါ
 not-set-alternative-text = ဖော်ပြမထားပါ
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = ထူးခြားအပြုအမူပုံစံ
 general-strict-mode =
     .value = စံများနှင့် ကိုက်ညီသောပုံစံ
-security-no-owner = ဒီဝဘ်ဆိုက်သည် ပိုင်ဆိုင်မှုအချက်အလက်များကို မဖော်ပြထားပါ။
 page-info-security-no-owner =
     .value = ဒီဝဘ်ဆိုက်သည် ပိုင်ဆိုင်မှုအချက်အလက်များကို မဖော်ပြထားပါ။
 media-select-folder = ရုပ်ပုံများကို သိမ်းဆည်းရန် ဖိုင်တွဲတစ်ခုကို ရွေးပါ

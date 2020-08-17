@@ -14,25 +14,17 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "မချိတ်ဆက်နိုင်ပါ">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "ယခုလိပ်စာကို တားမြစ်ထားသည်">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "ဆာဗာကို မတွေ့ပါ">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "အို့။ ထိုဝဘ်ဆိုက်ကို ရှာမတွေ့ပါ။">
 <!ENTITY dnsNotFound.longDesc1 "<strong>လိပ်စာမှန်ကန်နေပါက၊ အောက်ပါအချက်များကို စမ်းကြည့်နိုင်သည်။</strong>
 <ul>
   <li>နောက်မှပြန်ဖွင့်ရန်။</li>
   <li>ကွန်ယက်ချိတ်ဆက်မှုကိုစစ်ဆေးရန်။</li>
   <li>ကွန်ယက်ကို ချိတ်ဆက်ထားသော်လည်း မီးနံရံနောက်တွင် ရှိနေပါက &brandShortName; သည် ဝဘ်သို့ချိတ်ဆက်ခွင့်ရှိ၊ မရှိ စစ်ဆေးပါ။</li>
 </ul>">
-
-<!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရပါ">
 
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -41,11 +33,7 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "ဖိုင်အသုံးပြုခြင်းကို တားမြစ်ထားသည်">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>၎င်းကို ဖျက်ထားခြင်း၊ ရွှေ့ထားခြင်း သို့မဟုတ် ဖိုင်အသုံးပြုမှုဆိုင်ရာမူဝါဒများက အသုံးမပြုနိုင်စေရန် တားမြစ်နေခြင်း ဖြစ်နိုင်ပါသည်။</li> </ul>">
-
-<!ENTITY generic.title "မဆောင်ရွက်နိုင်ခဲ့ပါ">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; သည် အကြောင်းတစ်ခုခုကြောင့် ယခုစာမျက်နှာကို မဖွင့်နိုင်ပါ။</p>">
 
@@ -55,22 +43,12 @@
 <!ENTITY openPortalLoginPage.label2 "ကွန်ယက်သို့ လက်မှတ်ထိုးဝင်ရန် စာမျက်နှာကို ဖွင့်ပါ">
 
 <!ENTITY malformedURI.pageTitle "မမှန်ကန်သောURL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "ဟမ်။ ဒီလိပ်စာက မှန်ကန်မယ်မထင်ဘူး။">
-
-<!ENTITY netInterrupt.title "ချိတ်ဆက်မှု ပြတ်တောက်သွားခဲ့သည်">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "စာတမ်းသည် ဆွဲယူရန် သတ်မှတ်ချိန် ကျော်လွန်သွားသည်">
-
 <!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသော စာတမ်းကို &brandShortName;၏ ယာယီမှတ်ဉာဏ်တွင် မရှိတော့ပါ။</p><ul><li>လုံခြုံရေးကြိုတင်ကာကွယ်မှုအနေဖြင့် &brandShortName; သည် အရေးကြီးစာတမ်းကို အလိုအလျောက် ထပ်မံ မတောင်းဆိုပါ။</li><li>ထပ်မံဆောင်ရွက်ကြည့်ပါကို ကလစ်နှိပ်ပြီး ဝဘ်ဆိုက်ထံမှ စာတမ်းကို ပြန်လည် တောင်းဆိုနိုင်ပါသည်။</li></ul>">
 
-<!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>&quot;Try Again&quot; အားနှိပ်ပြီး အင်တာနက်ပြန်လည်ချိတ်ဆက်ကာ စာမျက်နှာအားဖွင့်.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "အကြောင်းအရာ အန်ကုဒ်ဒင်း အမှား">
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -78,31 +56,21 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "အန္တရာယ်မကင်းသော ဖိုင်အမျိုးအစား">
-
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>ယခုပြဿနာကို အသိပေးရန် ကျေးဇူးပြု၍ ဝဘ်ဆိုက်ပိုင်ရှင်ကို ဆက်သွယ်ပါ။</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "ချိတ်ဆက်မှုပြတ်တောက်ပြီး ပြန်ချိတ်ခဲ့သည်">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "ချိတ်ဆက်မှုသည် သတ်မှတ်ချိန် ကျော်လွန်ခဲ့သည်">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "လိပ်စာကို နားမလည်ပါ">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>ယခုလိပ်စာကို ဖွင့်ရန် အခြားဆော့ဖ်ဝဲလ်တစ်ခုကို လိုအပ်ကောင်း လိုအပ်ပါလိမ့်မည်။</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "ကြားခံဆာဗာသည် ချိန်ဆက်မှုများကို လက်မခံပါ">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -111,8 +79,6 @@
     ကွန်ယက်စီမံသူနှင့် ဆက်သွယ်ပါ။</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "ကြားခံဆာဗာကို ရှာမတွေ့ပါ">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -123,16 +89,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "ယခုစာမျက်နှာသည် ကောင်းမွန်စွာ လမ်းညွှန်မပေးနိုင်ပါ">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>ကွတ်ကီးအသုံးပြုမှုကို ငြင်းဆန်ခြင်း သို့မဟုတ် ပိတ်ထားခြင်းတို့ကြောင့် ယခုပြဿနာကဲ့သို့
     ဖြစ်ပေါ်စေနိုင်သည်။</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "ဆာဗာထံမှ မမျှော်မှန်းထားသော တုံ့ပြန်ချက်">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -142,15 +104,11 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "လုံခြုံသောချိတ်ဆက်မှု မအောင်မြင်ပါ">
-
 <!ENTITY nssFailure2.longDesc2 "<ul>
   <li>လက်ခံရရှိသော ဒေတာ၏ မှန်ကန်မှုကို အတည်မပြုနိုင်သောကြောင့် သင်ကြည့်ရှုလိုသော ဝဘ်ဆိုက်ကို မပြနိုင်ပါ။</li>
   <li>ယခုပြဿနာကို အသိပေးရန် ဝဘ်ဆိုက်ပိုင်ရှင်ကို ကျေးဇူးပြု၍ ဆက်သွယ်ပါ။</li>
 </ul>">
 
-<!ENTITY certerror.longpagetitle2 "သတိပေးချက်: လုံခြုံရေးအန္တရာယ်">
-<!ENTITY certerror.sts.longpagetitle  "လုံခြုံရေးပြဿနာကြောင့် မချိတ်ဆက်ခဲ့ပါ။">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -169,11 +127,7 @@ was trying to connect. -->
     &brandShortName; သည် ဝဘ်ကို အသုံးပြုခွင့် ရှိမရှိ စစ်ဆေးပါ။</li>
 </ul>">
 
-<!ENTITY cspBlocked.title "Content Security Policy အရ ပိတ်ပင်ထားသည်">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "အကြောင်းအရာ မစုံလင်သော အမှား">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
@@ -181,19 +135,13 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "မလိုတမာဝဘ်ဆိုက်များကို Mozilla က ခွဲခြားသတ်မှတ်ရာတွင်နှင့် ပိတ်ပင်တားဆီးရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။">
 <!ENTITY errorReporting.learnMore "ပိုမို လေ့လာပါ…">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
-
-<!ENTITY sslv3Used.title "လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.copyToClipboard.label "စာကို ကလစ်ဘုတ်သို့ ကူးပါ">
-
-<!ENTITY inadequateSecurityError.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

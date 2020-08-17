@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသောစာတမ်းသည် &brandShortName;၏ခေတ္တမှတ်ဉာဏ်ထဲတွင် မရှိတော့ပါ။</p><ul><li>လုံခြုံရေးကာကွယ်မှုအရ &brandShortName; သည် အချို့သောစာတမ်းများကိုသိမ်းထားလေ့မရှိပါ။</li><li>ဝဘ်ဆိုဒ်မှပြန်လည်တောင်းဆိုရန်အတွက် နောက်ထပ် ကိုနှိပ်ပါ။</li></ul>">
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>ထပ်မံကြိုးစားပါ။ &brandShortName; သည် ဆက်သွယ်မှုတစ်ခုကို ပြုလုပ်ပါမည်။ ထို့နောက် ဝဘ်စာမျက်နှာကို ပြန်လည်ဖွင့်ပါမည်။<button id='wifi'>ဝိုင်ဖိုင်ကို ဖွင့်ရန်</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "အကြောင်းအရာ စာစီစနစ် မှားယွင်းမှု">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ကျေးဇူးပြုပြီး ဝဘ်ဆိုဒ်ပိုင်ရှင်အား ဒီပြသာနာကို အကြောင်းကြားရန် ဆက်သွယ်ပါ။</li>  </ul>">

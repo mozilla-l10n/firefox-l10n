@@ -70,10 +70,6 @@ permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = ခြွင်းချက်များ၊ စာမျက်နှာရှိအကြောင်းအရာ ပိတ်ပင်ခြင်း
-    .style = { permissions-window.style }
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -102,10 +98,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = သင်သည်မည်သည့်၀တ်ဆိုက်အားအတ်အွန်များသွင်းခွင့်ပေးမည်ကို ခန့်ခွဲနိုင်သည်။သင်ခွင့်ပြုလိုသော၀တ်ဆိုက်အားတိကျစွာရိုက်ကာ ခွင့်ပြုမည်ကိုနှိပ်ပါ။
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = ခြွင်းချက်- အလိုလျောက်ပြသမှု
-    .style = { permissions-window.style }
 
 ## Site Permissions - Autoplay
 

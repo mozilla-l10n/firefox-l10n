@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = ချိတ်ဆက်ထားသော တပ်ဗ်များ
 synced-tabs-sidebar-noclients-subtitle = အခြားကိရိယာများမှ သင့်တပ်ဗ်များကို ဒီနေရာမှာ မြင်တွေ့ချင်ပါသလား။
-synced-tabs-sidebar-notsignedin = သင့်အခြားကိရိယာများရှိ တဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။
 synced-tabs-sidebar-unverified = အကောင့်ကို အတည်ပြုရန် လိုအပ်သည်။
 synced-tabs-sidebar-notabs = ဖွင့်ထားသည့်တပ်ဗ်များ မရှိပါ
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } ၏ အပြင်အဆင်များကို ဖွင့်ပါ

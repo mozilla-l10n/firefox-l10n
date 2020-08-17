@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ဖိုင် ရွေးပါ...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "ဒီကွန်ရက် အကြောင်းကို မေ့ပစ်ပါ">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "ဖွင့်ပါ">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "၀င်းဒိုးအသစ် တခုမှာ ဖွင့်ပါ">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။ P">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "စာအမှတ် အသစ်တခုမှာ ဖွင့်ပါ">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "အားလုံးကို စာအမှတ်များနဲ့ ဖွင့်ပါ">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "ဂုဏ်အင်္ဂါရပ်များ">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "အမည်အလိုက် မျိုးတူစုပါ">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "စာမှတ်အသစ်…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "ဖိုင်တွဲ အသစ်">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "ပုဒ်ခွဲ အသစ်">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "အမည်">
 <!ENTITY col.tags.label          "စာအမှတ်များ">
 <!ENTITY col.url.label           "တည်နေရာ">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "လည်ပတ်မူ အရေအတွက်">
 <!ENTITY col.dateadded.label     "ထည့်သွင်းထားပြီ">
 <!ENTITY col.lastmodified.label  "နောက်ဆုံး မွမ်းမံချိန်">
-
-<!ENTITY historySearch.placeholder  "ရှာဖွေမှု မှတ်တမ်း">
-<!ENTITY bookmarksSearch.placeholder  "စာမှတ်များကို ရှာရန်">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "အချက်တခုကို ရှုမြင်ဖို့နဲ့ ၄င်းရဲ့ ဂုဏ်အင်္ဂါရပ်များကို တည်းဖြတ်ဖို့ ရွေးချယ်ပါ">
 
-<!ENTITY view.label               "ရှုမြင်ချက်">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "ရက်ဆွဲအားဖြင့်">
-<!ENTITY byDate.accesskey         "ရ">
-<!ENTITY bySite.label             "ဝဘ်ဆိုက်လိပ်စာအားဖြင့်">
-<!ENTITY bySite.accesskey         "ဝ">
-<!ENTITY byMostVisited.label      "အရောက်များသော ဝဘ်ဆိုက်လိပ်စာအားဖြင့်">
-<!ENTITY byMostVisited.accesskey  "အ">
-<!ENTITY byLastVisited.label      "နောက်ဆုံးလည်ခဲ့သောစာမျက်နှာများအားဖြင့်">
-<!ENTITY byLastVisited.accesskey  "န">
-<!ENTITY byDayAndSite.label       "ရက်စွဲနှင့် ဝဘ်ဆိုက်လိပ်စာအားဖြင့်">
-<!ENTITY byDayAndSite.accesskey   "ရ">

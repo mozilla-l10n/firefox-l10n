@@ -94,6 +94,8 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -158,6 +160,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ပုံသေရှာဖွေရေးယန္တရားအဖြစ် သတ်မှတ်ပါ
     .accesskey = D
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -235,8 +244,10 @@ popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မ�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
+
 urlbar-placeholder =
     .placeholder = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ဘရောင်ဇာသည် အဝေးရောက်ထိန်းချုပ်မှုအောက်တွင် ရှိနေသည်
 urlbar-switch-to-tab =

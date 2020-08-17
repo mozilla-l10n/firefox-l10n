@@ -2,68 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cmd.enableAddon.label                "လုပ်ဆောင်နိုင်စေမည်။">
-<!ENTITY cmd.enableAddon.accesskey            "လ">
-<!ENTITY cmd.disableAddon.label               "ပိတ်ထားသည်">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "အသုံးပြုရန်မေး">
-<!ENTITY cmd.askToActivate.tooltip            "ယခုဆော့ဝဲအားသုံးရန်အခေါက်တိုင်းမေး">
-<!ENTITY cmd.alwaysActivate.label             "အမြဲတမ်းသုံးမည်">
-<!ENTITY cmd.alwaysActivate.tooltip           "ယခုဆော့ဝဲအားအမြဲသုံးမည်">
-<!ENTITY cmd.neverActivate.label              "ဘယ်တော့မှမသုံး">
-<!ENTITY cmd.neverActivate.tooltip            "ယခုဆော့ဝဲအားပိတ်ထားမည်">
-<!ENTITY cmd.stateMenu.tooltip                "ယခုဆော့ဝဲစတင်သောအခါပြောင်းရန်">
-
-<!ENTITY cmd.uninstallAddon.label             "ဖယ်ရှားပါ ">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "ရွေးစရာများ">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ">
-<!ENTITY cmd.showPreferencesUnix.label        "ဦးစားပေး အချက်များ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ယခုအက်အွန်၏ preferences ကိုပြောင်းပါ">
-
-<!ENTITY cmd.showReleaseNotes.label           "ထုပ်လုပ်သည့် အချက်အလက်ကို ပြပါ။">
-<!ENTITY cmd.showReleaseNotes.tooltip         "ယခု အဆင့်မြင့်တင်မှု အတွက် ထုတ်လုပ်မှု စာတမ်းအား ဖော်ပြပါ။">
-<!ENTITY cmd.hideReleaseNotes.label           "ထုပ်လုပ်သည့် အချက်အလက်ကို မဖော်ပြပါ။">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "ယခု ထုတ်လုပ်မှု၏ အကြောင်းအရာ အား ဖျောက်ထားပေးပါ">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "ပယ်​ဖျက်ပါ">
-
-
-<!ENTITY addon.details.label                  "ပိုမို၍">
-<!ENTITY addon.details.tooltip                "ယခု အက်အွန်နှင့်ပတ်သတ်၍ အသေးစိတ်ဖော်ပြပါ">
-<!ENTITY addon.unknownDate                    "မသိသော">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "ပိတ်ထားပါ">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "မွမ်းမံချက်">
-<!ENTITY addon.undoAction.label               "ပြန်ဖြည်ပါ">
-<!ENTITY addon.undoAction.tooltip             "ယခုလုပ်ဆောင်ချက်အား ပြန်လည်ပြုပြင်ပါ">
-<!ENTITY addon.undoRemove.label               "ပြန်ဖြည်ပါ">
-<!ENTITY addon.undoRemove.tooltip             "ယခုအက်အွန်ကို ဆက်လက် သွင်းပါ">
-
-<!ENTITY addon.install.label                  "တပ်ဆင်ပါ">
-<!ENTITY addon.install.tooltip                "ယခုအက်အွန်ကို သွင်းပါ">
-<!ENTITY addon.updateNow.label                "ယခုအဆင့်မြှင့်တင်ပါ">
-<!ENTITY addon.updateNow.tooltip              "ယခု အက်အွန် အတွက် အဆင့်မြင်တင်မှုအား သွင်းပါ">
-<!ENTITY addon.includeUpdate.label            "အဆင့်မြင်တင်မှုတွင် ပါ၀င်ပါသည်။">
-<!ENTITY addon.updateAvailable.label          "အဆင့်မြင်တင်မှု တွေ့ရှိပါသည်။">
-<!ENTITY addon.checkingForUpdates.label       "အသစ်ပြုပြင်ခြင်းများရှိနေပြီလားစစ်ဆေးနေပါသည်။">
-<!ENTITY addon.releaseNotes.label             "ထုတ်ဝေမှု မှတ်စုများ">
-<!ENTITY addon.loadingReleaseNotes.label      "ပွင့်လာနေတယ်...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "ထုတ်လုပ်မှူမှတ်ချက်များအားရယူနေစဉ်အတွင်းအမှားအယွင်းနည်းနည်းရှိခဲ့ပါသည်။">
-
-<!ENTITY addon.createdBy.label                "ဖြင့်">
-
-<!ENTITY settings.path.button.label           "ဖွင့်ရှာကြည့်ပါ။">
 
 <!ENTITY setting.learnmore "ပိုမို လေ့လာရန်…">
 

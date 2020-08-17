@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ရွေးစရာများ၊ မှတ်သားချက်များ၊ မှတ်တမ်း၊ စကားဝှက်များနဲ့ အ​ခြား အချက်အလက်ကြမ်း တင်သွင်းမဲ့ နေရာ၊ ">
 <!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromBookmarks.label      "မှတ်သားချက်များ တင်သွင်းမဲ့ နေရာ၊">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

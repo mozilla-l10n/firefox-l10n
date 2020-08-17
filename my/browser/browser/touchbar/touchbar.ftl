@@ -12,7 +12,6 @@ fullscreen = အပြည့်ကြည့်ရန်
 find = ရှာဖွေပါ
 new-tab = တပ်ဗ် အသစ်
 add-bookmark = စာမှတ် ထည့်ရန်
-open-bookmarks-sidebar = စာမှတ်များ ဘေးတန်းကို ပြပါ
 reader-view = စာဖတ်ပုံစံ
 # Meant to match the string displayed in an empty URL bar.
 open-location = လိပ်စာကို ရှာဖွေ သို့မဟုတ် ဝင်ပါ။

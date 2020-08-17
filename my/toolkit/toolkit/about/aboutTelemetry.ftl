@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = ကွန်ယက်စာတို(ပင်းန်) ဒေတာရင်းမြစ်။
-about-telemetry-show-current-ping-data = လက်ရှိ ပင်းန် ဒေတာ
 about-telemetry-show-archived-ping-data = သိမ်းထားသည့် ပင်းန် ဒေတာ
 about-telemetry-show-subsession-data = အချိန်ခွဲသိမ်း ဒေတာကို ပြပါ
 about-telemetry-choose-ping = ပင်းန်ကို ရွေးရန်။

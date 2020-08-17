@@ -35,12 +35,6 @@ connection-proxy-http = HTTP ကြားခံဆာဗာ
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = ပရိုတိုကောလ်အားလုံးတွင် ယခုကြားခံဆာဗာကို အသုံးပြုပါ
-    .accesskey = s
-
-connection-proxy-ssl = SSL ကြားခံဆာဗာ
-    .accesskey = L
 
 connection-proxy-ssl-port = Port
     .accesskey = o

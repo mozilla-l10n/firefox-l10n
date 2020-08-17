@@ -59,7 +59,6 @@ proxyResolveFailure-title = ကြားခံဆာဗာကို ရှာမ
 redirectLoop-title = ယခုစာမျက်နှာသည် ကောင်းမွန်စွာ လမ်းညွှန်မပေးနိုင်ပါ
 unknownSocketType-title = ဆာဗာထံမှ မမျှော်မှန်းထားသော တုံ့ပြန်ချက်
 nssFailure2-title = လုံခြုံသောချိတ်ဆက်မှု မအောင်မြင်ပါ
-cspBlocked-title = Content Security Policy အရ ပိတ်ပင်ထားသည်
 corruptedContentError-title = အကြောင်းအရာ မစုံလင်သော အမှား
 remoteXUL-title = Remote XUL
 sslv3Used-title = လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ

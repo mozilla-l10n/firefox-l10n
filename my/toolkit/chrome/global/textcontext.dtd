@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "ဖြတ်ယူပါ">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "ကူးယူပါ">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "ပွားပါ">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "ပြန်ဖြည်ပါ">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "အားလုံး ရွေးချယ်ပါ">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "ဖျက်ရန်">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "အဘိဓါန်ထဲ ထည့်သွင်းပါ">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "အဘိဓာန် မှာပေါင်းထည့်ခြင်းကို ပြန်ဖြုတ်မယ်">

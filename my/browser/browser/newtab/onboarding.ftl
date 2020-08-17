@@ -12,7 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = ယခုပင် စမ်းကြည့်ပါ
 onboarding-button-label-get-started = စတင်ပါ
 
 ## Welcome modal dialog strings
@@ -24,6 +23,13 @@ onboarding-start-browsing-button-label = ရှာဖွေမှုစမည်
 onboarding-cards-dismiss =
     .title = ပိတ်လိုက်ပါ
     .aria-label = ပိတ်လိုက်ပါ
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -53,21 +59,6 @@ onboarding-sync-form-header = သင့်အီးမေလ်းအားထ�
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = လုံခြုံစွာရှာဖွေခြင်း
-onboarding-private-browsing-text = မိမိကိုယ်တိုင် ရှာဖွေနိုင်သည်။ အကြောင်းအရာ စစ်ထုတ် တားဆီးခြင်းနှင့် လုံခြုံစွာရှာဖွေခြင်းသည် ဝဘ်တွင်ရှိတိုင်း နောက်ယောင်ခံလိုက်နေမည့် အွန်လိုင်းခြေရာခံကိရိယာများကို တားဆီးပါမည်။
-
-onboarding-screenshots-title = မျက်နှာပြင်ပုံရိပ်ဖမ်းချက်
-onboarding-screenshots-text = { -brand-short-name } ထံမှ ထွက်ခွာစရာ မလိုဘဲ မျက်နှာပြင် ပုံဖမ်းချက်များကို ရိုက်ကူးပါ၊ သိမ်းဆည်းပါ၊ ပြီးနောက် မျှဝေပါ။ နေရာတစ်ခု သို့မဟုတ် စာမျက်နှာတစ်ခုလုံးကို ဖမ်းယူပါ။ ထို့နောက် အလွယ်တကူ အသုံးပြုနိုင်ရန်နှင့် မျှဝေနိုင်ရန် ဝဘ်တွင် သိမ်းဆည်းပါ။
-
-onboarding-addons-title = အတ်အွန်များ
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Ghostery  လို extension အသုံးပြုပြီးတော့ လျှင်မြန်၊ ဖျက်လက် လုံခြုံစိတ်ချစွာရှာဖွေပါ၊ Ghostery ကစိတ်ပျက်စရာကြော်ငြာတွေကိုတားစီးပေးပါတယ်။
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = ထပ်တူပြုရန်
-onboarding-fxa-text = { -fxaccount-brand-name } အတွက် အကောင့်အသစ်ဖွင့်ပြီး { -brand-short-name } သုံးမည့်နေရာတိုင်းတွင် သင့်စာမှတ်များ၊စာဝှက်များကို အသုံးချပြီးလျှင် တက်ဗ်များကို ဖွင့်ပါ
 
 
 ## Message strings belonging to the Return to AMO flow
