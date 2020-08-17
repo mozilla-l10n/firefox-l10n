@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Numele și sursa locației a funcției eșantionate.">
 <!ENTITY performanceUI.table.totalAlloc               "Total alocări prelevate">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Numărul total de alocări de obiecte prelevate din această locație și din destinatarii apelați.">
-<!ENTITY performanceUI.table.selfAlloc                "Alocări cu prelevare proprie">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Numărul de alocări de obiecte prelevate din această locație.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

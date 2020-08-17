@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Salvează ca…
     .accesskey = e
-media-preview =
-    .value = Previzualizare media:
 
 perm-tab =
     .label = Permisiuni
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Da, cookie-uri
 security-site-data-no = Nu
 
 image-size-unknown = Necunoscut
-not-set-verified-by = Nespecificat
 page-info-not-specified =
     .value = Nespecificat
 not-set-alternative-text = Nespecificat
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Mod de compatibilitate
 general-strict-mode =
     .value = Respectă standardele
-security-no-owner = Acest site web nu oferă informații despre proprietar.
 page-info-security-no-owner =
     .value = Acest site web nu oferă informații despre proprietar.
 media-select-folder = Selectează un dosar în care să salvezi imaginile

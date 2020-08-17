@@ -8,8 +8,10 @@ password-quality-meter = Indicatorul de calitate a parolei
 
 change-password-window =
     .title = Schimbă parola generală
+
 change-device-password-window =
     .title = Schimbă parola
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispozitiv de securitate: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Parola nouă (din nou):
 reset-password-window =
     .title = Resetare parolă generală
     .style = width: 40em
+
 pippki-failed-pw-change = Parola nu a putut fi modificată.
 pippki-incorrect-pw = Nu ai introdus corect parola curentă. Te rugăm să încerci din nou.
 pippki-pw-change-ok = Parola a fost schimbată cu succes.
+
 pippki-pw-empty-warning = Parolele și cheile private salvate nu vor fi protejate.
 pippki-pw-erased-ok = Ți-ai șters parola. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Avertisment! Ai decis să nu folosești o parolă. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Acum ești în modul FIPS. FIPS necesită existența unei parole.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Resetează
 reset-password-text = Dacă resetezi parola generală, toate parolele de la site-urile web și conturile de e-mail pe care le-ai memorat, precum și datele formularelor, certificatele personale și cheile private, vor fi pierdute. Sigur vrei să resetezi parola generală?
+
 reset-primary-password-text = Dacă îți resetezi parola primară, toate parolele tale salvate de web și de e-mail, certificatele personale și cheile private vor fi uitate. Sigur vrei să îți resetezi parola primară?
+
 pippki-reset-password-confirmation-title = Resetează parola primară
 pippki-reset-password-confirmation-message = Parola primară a fost resetată.
 

@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Se sincronizează…
 fxa-toolbar-sync-syncing-tabs =
     .label = Se sincronizează filele…
+
 sync-disconnect-dialog-title = Deconectezi { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } va opri sincronizarea cu contul tău, dar nu va șterge niciuna din datele de navigare de pe acest dispozitiv.
 fxa-disconnect-dialog-title = Deconectezi { -brand-product-name }?

@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (perimate)
 compatibility-issue-experimental = (experimentale)
 compatibility-issue-prefixneeded = (este nevoie de prefix)
 compatibility-issue-deprecated-experimental = (perimate, experimentale)
+
 compatibility-issue-deprecated-prefixneeded = (perimat, este nevoie de prefix)
 compatibility-issue-experimental-prefixneeded = (experimental, este nevoie de prefix)
 compatibility-issue-deprecated-experimental-prefixneeded = (perimat, experimental, este nevoie de prefix)
@@ -43,6 +44,7 @@ compatibility-issue-occurrences =
         [few] { $number } ocurențe
        *[other] { $number } de ocurențe
     }
+
 compatibility-no-issues-found = Nu s-a depistat nicio problemă de compatibilitate.
 compatibility-close-settings-button =
     .title = Închide setările

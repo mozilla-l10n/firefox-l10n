@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Nu se poate conecta">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Adresa este restricționată">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Server negăsit">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Întâmpinăm dificultăți în găsirea acestui site.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Dacă adresa este corectă, iată alte trei lucruri pe care le poți încerca:</strong>
 <ul>
@@ -34,15 +28,9 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fișier negăsit">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifică numele fișierului - să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică fișierul - să nu fi fost mutat, redenumit sau șters.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Accesul la fișier a fost refuzat">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li> </ul>">
-
-<!ENTITY generic.title "Ups.">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; nu poate încărca această pagină dintr-un motiv oarecare.</p>
@@ -54,18 +42,10 @@
 <!ENTITY openPortalLoginPage.label2 "Deschide pagina de autentificare în rețea">
 
 <!ENTITY malformedURI.pageTitle "URL nevalid">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Adresa nu pare să fie în regulă.">
-
-<!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document expirat">
-
 <!ENTITY notCached.longDesc "<p>Documentul solicitat nu este disponibil în cache-ul &brandShortName;.</p><ul><li>Ca măsură de precauție pentru securitate, &brandShortName; nu cere din nou în mod automat documente sensibile.</li><li>Dă clic pe Încearcă din nou pentru a cere iar documentul de la site-ul web.</li></ul>">
-
-<!ENTITY netOffline.title "Mod offline">
 
 <!ENTITY netOffline.longDesc2 "
 <ul> 
@@ -73,38 +53,22 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Eroare în codarea conținutului">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Tip de fișier nesigur">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
 
-<!ENTITY netReset.title "Conexiunea a fost reinițializată">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Timpul de conectare a expirat">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>S-ar putea să fie necesară instalarea altui program pentru a deschide această adresă.</li>
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Contactează administratorul rețelei pentru a te asigura că serverul proxy funcționează.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Asigură-te că calculatorul are o conexiune funcțională la rețea.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 
 <!ENTITY redirectLoop.longDesc "
 <ul>
@@ -112,17 +76,10 @@
     acceptării de cookie-uri.</li>
 </ul>">
 
-<!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verifică dacă sistemul are instalat Managerul personal de securitate.</li> <li>Se poate întâmpla și din cauza unei configurații atipice pe server.</li> </ul>
 ">
 
-<!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Avertisment: Urmează un posibil risc de securitate">
-<!ENTITY certerror.sts.longpagetitle  "Nu s-a realizat conectarea: Posibilă problemă de securitate">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -159,11 +116,7 @@ was trying to connect. -->
     asigură-te că &brandShortName; are permisiunea de a accesa webul.</li>
 </ul>">
 
-<!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Eroare cauzată de conținut corupt">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; a împiedicat încărcarea paginii în acest context deoarece pagina are o politică de opțiuni X-Frame care nu o permite.</p>">
 
@@ -174,11 +127,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Raportează erori precum aceasta pentru a ajuta Mozilla să identifice și să blocheze site-urile rău intenționate">
 <!ENTITY errorReporting.learnMore "Află mai multe…">
 
-<!ENTITY remoteXUL.title "XUL la distanță">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Nu se poate conecta în mod securizat">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -189,15 +138,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> are o politică de securitate numită HTTP Strict Transport Security (HSTS), ceea ce înseamnă că &brandShortName; se poate conecta la acesta numai în mod securizat. Nu poți adăuga o excepție pentru a vizita acest site.">
 <!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">
 
-<!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește o tehnologie de securitate depășită și vulnerabilă la atacuri. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai în siguranță. Administratorul site-ului web va trebui să repare mai întâi serverul ca să poți intra pe site.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
-
-<!ENTITY certerror.mitm.title "Un program împiedică &brandShortName; să se conecteze în siguranță la acest site">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> este, cel mai probabil, un site sigur, dar nu s-a putut stabili o conexiune securizată. Această problemă este produsă de <span class='mitm-name'/>, care este un program de pe calculatorul tău sau din rețeaua ta.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Dacă programul tău antivirus include o funcționalitate care scanează conexiuni criptate (adesea denumită „scanare web” sau „scanare https”), o poți dezactiva. Dacă dezactivarea nu funcționează, poți elimina și reinstala programul antivirus.">
@@ -205,14 +150,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Dacă nu ești familiarizat(ă) cu <span class='mitm-name'/>, atunci acesta poate fi un atac și nu ar trebui să intri pe site.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Dacă nu ești familiarizat(ă) cu <span class='mitm-name'/>, atunci acesta poate fi un atac și nu poți face nimic ca să accesezi site-ul.">
 
-<!ENTITY clockSkewError.title "Ceasul calculatorului indică o oră greșită">
-
 <!ENTITY clockSkewError.longDesc "Calculatorul crede că este <span id='wrongSystemTime_systemDate1'/>, ceea ce împiedică &brandShortName; să stabilească o conexiune securizată. Pentru a vizita <span class='hostname'></span>, actualizează ceasul calculatorului în setările de sistem pe data, ora și fusul orar curente, apoi reîmprospătează <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Se pare că setările de securitate ale rețelei sunt de vină. Vrei să restaurezi setările implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">
-
-<!ENTITY networkProtocolError.title "Eroare legată de protocolul de rețea">
 
 <!ENTITY enableTls10.longDesc "Este posibil ca acest site să nu acccepte protocolul TLS 1.2, care este versiunea minimă acceptată de &brandShortName;. Activarea TLS 1.0 și TLS 1.1 ar putea permite realizarea acestei conexiuni cu succes.">
 <!ENTITY enableTls10.note "TLS 1.0 și TLS 1.1 vor fi dezactivate permanent în versiunile viitoare.">

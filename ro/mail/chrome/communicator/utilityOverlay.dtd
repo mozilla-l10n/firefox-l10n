@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Editare">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Anulează">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "u">
 <!ENTITY redoCmd.label            "Refă">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Taie">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "T">
-<!ENTITY copyCmd.label            "Copiază">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Lipește">
-<!ENTITY pasteCmd.key            "v">
-<!ENTITY pasteCmd.accesskey          "L">
 <!ENTITY deleteCmd.label          "Șterge">
 <!ENTITY deleteCmd.accesskey        "g">
-<!ENTITY selectAllCmd.label          "Selectează tot">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmd2.label "Opțiuni">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">

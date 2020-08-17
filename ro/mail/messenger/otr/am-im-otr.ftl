@@ -23,4 +23,6 @@ otr-require-encryption-info =
     nu vor fi afișate ca parte a conversației normale și nici nu vor fi înregistrate.
 otr-verifyNudge =
     .label = Amintește-mi întotdeauna să verific un contact neverificat
+
 otr-notYetAvailable = indisponibil încă
+

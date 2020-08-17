@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Anulează">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
-<!ENTITY redoCmd.label                                  "Restaurează">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "R">
-<!ENTITY cutCmd.label                                   "Decupează">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "D">
-<!ENTITY copyCmd.label                                  "Copiază">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Lipește">
-<!ENTITY pasteCmd.key                                   "v">
-<!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Șterge">
-<!ENTITY deleteCmd.accesskey                            "t">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
 <!ENTITY deleteContactCmd.label                         "Șterge contactul">
 <!ENTITY deleteContactsCmd.label                        "Șterge contacte">
 <!ENTITY deleteListCmd.label                            "Șterge lista">
 <!ENTITY deleteListsCmd.label                           "Șterge listele">
 <!ENTITY deleteItemsCmd.label                           "Șterge elementele">
-<!ENTITY selectAllCmd.label                             "Selectează tot">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "F">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Schimbă între prenume/nume de familie">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "b">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Proprietăți">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "I">

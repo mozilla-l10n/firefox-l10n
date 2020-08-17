@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Asistent pentru importare
+
 import-from =
     { PLATFORM() ->
         [windows] Importă opțiuni, marcaje, istoric, parole și alte date din:
        *[other] Importă preferințe, marcaje, istoric, parole și alte date din:
     }
+
 import-from-bookmarks = Importă marcaje din:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Niciun program care conține date cu marcaje, istoric sau parole nu a putut fi găsit.
+
 import-source-page-title = Importă configurații și date
 import-items-page-title = Elemente pentru importare
+
 import-items-description = Selectează care elemente să se importe:
+
 import-migrating-page-title = Se importă…
+
 import-migrating-description = Următoarele elemente se importă în prezent…
+
 import-select-profile-page-title = Selectează profilul
+
 import-select-profile-description = Următoarele profiluri sunt disponibile pentru a se importa din acestea:
+
 import-done-page-title = Importare încheiată
+
 import-done-description = Următoarele elemente au fost importate cu succes:
+
 import-close-source-browser = Te rugăm să te asiguri că browserul selectat este închis înainte de a continua.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Din { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Listă de lectură (din Safari)
 imported-edge-reading-list = Listă de lectură (din Edge)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = Cookie-uri
 browser-data-cookies-label =
     .value = Cookie-uri
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -109,10 +125,12 @@ browser-data-history-label =
             [firefox] Istoric de navigare și marcaje
            *[other] istoric de navigare
         }
+
 browser-data-formdata-checkbox =
     .label = Istoricul formularelor salvate
 browser-data-formdata-label =
     .value = Istoricul formularelor salvate
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -121,6 +139,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Date de autentificare și parole salvate
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -135,10 +154,12 @@ browser-data-bookmarks-label =
             [edge] Favorite
            *[other] Marcaje
         }
+
 browser-data-otherdata-checkbox =
     .label = Alte date
 browser-data-otherdata-label =
     .label = Alte date
+
 browser-data-session-checkbox =
     .label = Ferestre și file
 browser-data-session-label =

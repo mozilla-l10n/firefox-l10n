@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Închide
     .title = Amprente OTR văzute anterior
+
 finger-intro = Amprente de chei OTR din conversații criptate anterioare.
+
 finger-screenName =
     .label = Contact
 finger-verified =
     .label = Stare de verificare
 finger-fingerprint =
     .label = Amprentă
+
 finger-remove =
     .label = Elimină selecția
+
 finger-remove-all =
     .label = Elimină-le toate

@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Securitate">
-<!ENTITY securityTab.label "Securitate">
-<!ENTITY securityHeading.label "Pentru a trimite și primi mesaje semnate digital sau criptate, ar trebui să specifici un certificat de semnare digitală, precum și unul pentru criptare.">
-<!ENTITY encryptionGroupTitle.label "Criptare">
-<!ENTITY encryptionChoiceLabel.label "Modul de criptare implicit la trimiterea mesajelor:">
-<!ENTITY neverEncrypt.label "Niciodată (nu folosi criptarea)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Criptează întotdeauna (mesajul se trimite doar dacă toți destinatarii au certificate)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Folosește acest certificat pentru a cripta și decripta mesajele pe care le primesc:">
-
 <!ENTITY e2eTitle.label "Criptare end-to-end">
-<!ENTITY e2eIntro.description "Pentru a transmite mesaje criptate sau semnate digital, trebuie să configurezi o tehnologie de criptare, fie OpenPGP, fie S/MIME.">
 <!ENTITY e2eLearnMore.label "Află mai multe">
 
 <!ENTITY e2eEnc.description "Fără criptare end-to-end, conținutul mesajelor este ușor expus furnizorului de e-mail și supravegherii în masă.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Curăță">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Semnătură digitală">
-<!ENTITY signMessage.label "Semnează digital mesajele (implicit)">
 <!ENTITY signMessage2.label "Adaugă-mi implicit semnătura digitală">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Folosește acest certificat pentru a semna digital mesajele pe care le trimit:">
-
-<!ENTITY certificates.label "Certificate">
-<!ENTITY manageCerts2.label "Gestionează certificatele">
-<!ENTITY manageCerts2.accesskey "G">
-<!ENTITY manageDevices.label "Dispozitive de securitate">
-<!ENTITY manageDevices.accesskey "D">
 
 <!ENTITY signingCert2.message "Certificat personal pentru semnătură digitală:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Preferă OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Gestionează cheile OpenPGP">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Selectează certificatul">

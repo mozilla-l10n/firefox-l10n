@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Încearcă asta: Fixează fila
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = De ce văd asta
+
 cfr-doorhanger-extension-cancel-button = Nu acum
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Adaugă acum
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixează această filă
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Gestionează setările pentru recomandări
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Nu-mi afișa această recomandare
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Află mai multe
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomandare
 cfr-doorhanger-extension-notification2 = Recomandare
     .tooltiptext = Recomandare extensie
     .a11y-announcement = Recomandare disponibilă pentru extensie
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomandare
@@ -61,6 +69,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } utilizatori
        *[other] { $total } de utilizatori
     }
+
 cfr-doorhanger-pintab-description = Obține un acces facil la cele mai utilizate site-uri. Ține site-urile deschise într-o filă (chiar și după o repornire).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +77,10 @@ cfr-doorhanger-pintab-description = Obține un acces facil la cele mai utilizate
 cfr-doorhanger-pintab-step1 = <b>Dă clic dreapta</b> pe fila pe care vrei să o fixezi.
 cfr-doorhanger-pintab-step2 = Selectează <b>Fixează fila</b> din meniu.
 cfr-doorhanger-pintab-step3 = Dacă site-ul are o actualizare, vei vedea un punct albastru pe fila fixată.
+
 cfr-doorhanger-pintab-animation-pause = Pauză
 cfr-doorhanger-pintab-animation-resume = Continuă
+
 
 ## Firefox Accounts Message
 
@@ -91,16 +102,22 @@ cfr-protections-panel-link-text = Află mai multe
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Funcționalitate nouă:
+
 cfr-whatsnew-button =
     .label = Ce este nou
     .tooltiptext = Ce este nou
+
 cfr-whatsnew-panel-header = Ce este nou
+
 cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
+
 cfr-whatsnew-fx70-title = { -brand-short-name } acum luptă și mai mult pentru protecția vieții tale private
 cfr-whatsnew-fx70-body = Ultima actualizare sporește funcția de Protecție împotriva urmării și face mai ușoară ca niciodată crearea de parole securizate pentru fiecare site.
+
 cfr-whatsnew-tracking-protect-title = Protejează-te împotriva elementelor de urmărire
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochează multe elemente frecvente de urmărire ale rețelelor socializare și între site-uri care îți urmăresc acțiunile online.
 cfr-whatsnew-tracking-protect-link-text = Vezi raportul
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -112,9 +129,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Din { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vezi raportul
+
 cfr-whatsnew-lockwise-backup-title = Creează o copie de siguranță cu parolele
 cfr-whatsnew-lockwise-backup-body = Acum generează parole securizate pe care le poți accesa de oriunde te conectezi.
 cfr-whatsnew-lockwise-backup-link-text = Activează crearea de copii de siguranță
+
 cfr-whatsnew-lockwise-take-title = Ia-ți parolele cu tine
 cfr-whatsnew-lockwise-take-body = Aplicația pentru dispozitive mobile { -lockwise-brand-short-name } îți permite să îți accesezi în siguranță parolele cărora le-ai făcut backup, oriunde te-ai afla.
 cfr-whatsnew-lockwise-take-link-text = Obține aplicația
@@ -149,6 +168,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Generatoare de amprente digitale blocate
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochează multe generatoare de amprente digitale, care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Generatoare de amprente digitale
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poate bloca generatoarele de amprente digitale care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
@@ -210,6 +230,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Afișează tot
     .accesskey = S
+
 cfr-doorhanger-milestone-close-button = Închide
     .accesskey = C
 

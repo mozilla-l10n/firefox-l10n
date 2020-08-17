@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importă opțiuni, marcaje, istoric, parole și alte date din:">
 <!ENTITY importFromUnix.label           "Importă preferințe, marcaje, istoric, parole și alte date din:">
-<!ENTITY importFromBookmarks.label      "Importă marcaje din:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
