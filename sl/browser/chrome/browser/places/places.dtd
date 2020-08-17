@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Izberi datoteko …">
 <!ENTITY cmd.restoreFromFile.accesskey  "I">
 
-<!ENTITY cmd.deleteDomainData.label     "Pozabi na to stran">
-<!ENTITY cmd.deleteDomainData.accesskey "P">
-
-<!ENTITY cmd.open.label                  "Odpri">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Odpri v novem oknu">
-<!ENTITY cmd.open_window.accesskey       "k">
-<!ENTITY cmd.open_private_window.label     "Odpri v novem zasebnem oknu">
-<!ENTITY cmd.open_private_window.accesskey "s">
-<!ENTITY cmd.open_tab.label              "Odpri v novem zavihku">
-<!ENTITY cmd.open_tab.accesskey          "z">
-<!ENTITY cmd.open_all_in_tabs.label      "Odpri vse v zavihkih">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "a">
-
-<!ENTITY cmd.properties.label      "Lastnosti">
-<!ENTITY cmd.properties.accesskey  "L">
-
-<!ENTITY cmd.sortby_name.label              "Uredi po imenu">
-<!ENTITY cmd.sortby_name.accesskey          "U">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nov zaznamek …">
-<!ENTITY cmd.new_bookmark.accesskey        "z">
-<!ENTITY cmd.new_folder.label              "Nova mapa …">
-<!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "M">
-<!ENTITY cmd.new_separator.label           "Nova ločilna črta">
-<!ENTITY cmd.new_separator.accesskey       "l">
-
 <!ENTITY col.name.label          "Ime">
 <!ENTITY col.tags.label          "Oznake">
 <!ENTITY col.url.label           "Naslov">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Števec ogledov">
 <!ENTITY col.dateadded.label     "Dodano">
 <!ENTITY col.lastmodified.label  "Zadnja sprememba">
-
-<!ENTITY historySearch.placeholder  "Zgodovina iskanja">
-<!ENTITY bookmarksSearch.placeholder  "Iskanje po zaznamkih">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Izberi predmet za prikaz in urejanje njegovih lastnosti">
 
-<!ENTITY view.label               "Pogled">
-<!ENTITY view.accesskey           "g">
-<!ENTITY byDate.label             "Po datumu">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Po strani">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Po najpogosteje obiskanih">
-<!ENTITY byMostVisited.accesskey  "n">
-<!ENTITY byLastVisited.label      "Po nazadnje obiskanih">
-<!ENTITY byLastVisited.accesskey  "z">
-<!ENTITY byDayAndSite.label       "Po datumu in strani">
-<!ENTITY byDayAndSite.accesskey   "t">

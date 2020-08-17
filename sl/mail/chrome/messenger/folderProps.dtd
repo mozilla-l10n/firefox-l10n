@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Vrsta mape:">
 
 <!ENTITY folderQuotaTab.label                    "Količinska omejitev">
-<!ENTITY folderQuotaRoot.label                   "Koren količinske omejitve:">
 <!ENTITY folderQuotaUsage.label                  "Uporaba:">
 <!ENTITY folderQuotaStatus.label                 "Stanje:">
 

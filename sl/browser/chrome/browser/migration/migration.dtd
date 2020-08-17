@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Uvozi možnosti, zaznamke, zgodovino, gesla in ostale podatke iz:">
 <!ENTITY importFromUnix.label           "Uvozi nastavitve, zaznamke, zgodovino, gesla in ostale podatke iz:">
-<!ENTITY importFromBookmarks.label      "Uvozi zaznamke iz:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorerja">
 <!ENTITY importFromIE.accesskey         "M">

@@ -4,13 +4,19 @@
 
 start-label = Začni šifriran pogovor
 refresh-label = Osveži šifriran pogovor
+
 auth-cancel = Prekliči
+
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Dodaj prstni odtis OTR
+
 state-not_private = Trenutni pogovor ni zaseben.
+
 state-finished-label = Končano
+
 error-title = Napaka
 waiting-title = Potrditvena zahteva poslana
+
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

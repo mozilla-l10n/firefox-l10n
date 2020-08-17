@@ -8,4 +8,6 @@ view-fingerprint-button =
     .label = Upravljaj prstne odtise stikov
     .accesskey = t
 otr-settings-title = Nastavitve OTR
+
 otr-notYetAvailable = še ni na voljo
+

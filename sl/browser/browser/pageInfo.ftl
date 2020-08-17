@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Shrani kot ...
     .accesskey = r
-media-preview =
-    .value = Predogled:
 
 perm-tab =
     .label = Dovoljenja
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Da, piškotke
 security-site-data-no = Ne
 
 image-size-unknown = Neznano
-not-set-verified-by = Ni določeno
 page-info-not-specified =
     .value = Ni določeno
 not-set-alternative-text = Ni določeno
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Način prilagoditve
 general-strict-mode =
     .value = Način v skladu s standardi
-security-no-owner = Ta spletna stran ne vsebuje podatkov o lastništvu.
 page-info-security-no-owner =
     .value = Ta spletna stran ne vsebuje podatkov o lastništvu.
 media-select-folder = Izberite mapo za shranjevanje slik

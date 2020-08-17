@@ -4,3 +4,4 @@
 
 otr-add-finger-fingerprint = Prstni odtis:
 otr-add-finger-tooltip-error = Vnesen je neveljaven znak. Dovoljene so samo črke ABCDEF in številke
+

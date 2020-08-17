@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Ime in lokacija vzorčene funkcije.">
 <!ENTITY performanceUI.table.totalAlloc               "Skupne vzorčne dodelitve">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Skupno število dodelitev objektov vzorčenih na tem mestu in v klicočih funkcijah.">
-<!ENTITY performanceUI.table.selfAlloc                "Lastne vzorčne dodelitve">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Število dodelitev objektov vzorčenih na tem mestu.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

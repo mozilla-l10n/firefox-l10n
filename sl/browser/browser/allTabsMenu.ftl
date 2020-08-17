@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-all-tabs-menu-undo-close-tab =
-    .label = Ponovno odpri zavihek
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -13,13 +11,17 @@ all-tabs-menu-undo-close-tabs =
             [few] Ponovno odpri zavihke
            *[other] Ponovno odpri zavihke
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Išči zavihke
+
 all-tabs-menu-new-user-context =
     .label = Nov vsebniški zavihek
+
 all-tabs-menu-hidden-tabs =
     .label = Skriti zavihki
+
 all-tabs-menu-manage-user-context =
     .label = Upravljanje vsebnikov
     .accesskey = U

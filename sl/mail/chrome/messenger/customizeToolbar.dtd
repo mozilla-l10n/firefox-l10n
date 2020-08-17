@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Ikone poleg besedila">
 <!ENTITY useSmallIcons.label      "Uporabi majhne ikone">
 <!ENTITY restoreDefaultSet.label  "Obnovi privzeti nabor">
-<!ENTITY addNewToolbar.label      "Dodaj novo orodno vrstico">
-<!ENTITY showTitlebar.label       "Prikaži naslovno vrstico">
-<!ENTITY extraDragSpace.label     "Dodaj prostor za vlečenje">
 <!ENTITY showTitlebar2.label      "Naslovna vrstica">
 <!ENTITY extraDragSpace2.label    "Prostor za vlečenje">
 <!ENTITY saveChanges.label        "Končaj">

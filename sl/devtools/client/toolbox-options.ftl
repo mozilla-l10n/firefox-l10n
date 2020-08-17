@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Omogoči oddaljeno razhroščevanje
-options-enable-remote-tooltip =
-    .title = Vklop te možnosti bo razvojnim orodjem omogočil razhroščevanje oddaljenega primerka (npr. OS-a Firefox)
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Omogoči Service Workerje preko HTTP (ko so razvojna orodja odprta)

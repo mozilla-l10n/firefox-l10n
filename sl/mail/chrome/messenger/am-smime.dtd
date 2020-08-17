@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Varnost">
-<!ENTITY securityTab.label "Varnost">
-<!ENTITY securityHeading.label "Če želite pošiljati in prejemati šifrirana sporočila, morate navesti potrdilo za digitalno podpisovanje in potrdilo za šifriranje.">
-<!ENTITY encryptionGroupTitle.label "Šifriranje">
-<!ENTITY encryptionChoiceLabel.label "Privzeta nastavitev šifriranja pri pošiljanju sporočil:">
-<!ENTITY neverEncrypt.label "Nikoli (ne uporabljaj šifriranja)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Zahtevano (sporočila ni mogoče poslati, če nimajo potrdil vsi prejemniki)">
-<!ENTITY alwaysEncryptMessage.accesskey "Z">
-<!ENTITY encryptionCert.message "Uporabi to potrdilo za šifriranje in odšifriranje vam poslanih sporočil:">
-
-<!ENTITY e2eIntro.description "Za pošiljanje šifriranih ali digitalno podpisanih sporočil morate nastaviti tehnologijo šifriranja, bodisi OpenPGP bodisi S/MIME.">
 <!ENTITY e2eLearnMore.label "Več o tem">
 
 
@@ -34,16 +22,8 @@
 <!ENTITY encryption.certificate_clear.button "Počisti">
 <!ENTITY encryption.certificate_clear.accesskey "o">
 <!ENTITY signingGroupTitle.label "Digitalno podpisovanje">
-<!ENTITY signMessage.label "Digitalno podpiši sporočila (privzeto)">
 <!ENTITY signMessage2.label "Privzeto dodaj moj digitalni podpis">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Uporabi to potrdilo za digitalno podpisovanje sporočil, ki jih pošiljate:">
-
-<!ENTITY certificates.label "Digitalna potrdila">
-<!ENTITY manageCerts2.label "Upravljaj z digitalnimi potrdili">
-<!ENTITY manageCerts2.accesskey "U">
-<!ENTITY manageDevices.label "Varnostne naprave">
-<!ENTITY manageDevices.accesskey "V">
 
 <!ENTITY signingCert2.message "Osebno digitalno potrdilo za podpis:">
 
@@ -58,8 +38,6 @@
 <!ENTITY technologyOpenPGP.label "Daj prednost OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-
-<!ENTITY manageKeys.label "Upravljaj ključe OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Izberite potrdilo">

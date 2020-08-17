@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Uveljavi">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "U">
-<!ENTITY cutCmd.label "Izreži">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "z">
-<!ENTITY copyCmd.label "Kopiraj">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Prilepi">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "o">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.accesskey "v">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Najdi …">
 <!ENTITY findBarCmd.accesskey "N">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "Natisni to sporočilo">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Od:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Druge vrste polj za naslavljanje">
 <!ENTITY fromAddr2.label "Od">
 <!ENTITY fromAddr.accesskey "d">
-<!ENTITY toAddr.label "Za:">
-<!ENTITY ccAddr.label "Kp:">
-<!ENTITY bccAddr.label "Skp:">
-<!ENTITY replyAddr.label "Odgovori za:">
-<!ENTITY newsgroupsAddr.label "Novičarska skupina:">
-<!ENTITY followupAddr.label "Nadaljuj za:">
-<!ENTITY subject.label "Zadeva:">
 <!ENTITY toAddr2.label "Za">
 <!ENTITY ccAddr2.label "Kp">
 <!ENTITY bccAddr2.label "Skp">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "Nadaljuj za">
 <!ENTITY subject2.label "Zadeva">
 <!ENTITY subject.accesskey "Z">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "n">
-<!ENTITY attachmentBucketHeader.tooltip "Podokno za priponke">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skrij podokno za priponke">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinhronizirani zavihki
 synced-tabs-sidebar-noclients-subtitle = Želite tukaj videti zavihke drugih naprav?
-synced-tabs-sidebar-notsignedin = Prijavite se za ogled seznama zavihkov drugih naprav.
 synced-tabs-sidebar-intro = Oglejte si seznam zavihkov drugih naprav.
 synced-tabs-sidebar-unverified = Svoj račun morate potrditi.
 synced-tabs-sidebar-notabs = Ni odprtih zavihkov

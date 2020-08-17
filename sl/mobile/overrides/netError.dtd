@@ -76,15 +76,6 @@
 <!ENTITY notCached.longDesc "<p>Zahtevan dokument ni dosegljiv v predpomnilniku &brandShortName;a.</p><ul><li>Kot varnostni ukrep, &brandShortName; ne zahteva samodejne ponovne zahteve za občutljive dokumente.</li><li>Pritisnite Poskusi znova za ponovno zahtevo dokumenta s spletne strani.</li></ul>">
 
 <!ENTITY netOffline.title "Nepovezan način">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Poskusite znova. &brandShortName; bo poskušal vzpostaviti povezavo in ponovno naložiti stran.
-    <button id='wifi'>Omogoči Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
 <!ENTITY contentEncodingError.longDesc "
