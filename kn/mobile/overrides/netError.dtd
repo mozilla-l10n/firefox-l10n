@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>ಮನವಿ ಸಲ್ಲಿಸಲಾದ ದಸ್ತಾವೇಜು &brandShortName; ನ ಕ್ಯಾಶೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.</p><ul><li>ಸುರಕ್ಷತಾ ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ, &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದಿ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡುವುದಿಲ್ಲ.</li><li>ಜಾಲತಾಣದಿಂದ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡಲು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</li></ul>">
 
 <!ENTITY netOffline.title "ಆಫ್‍ಲೈನ್‍ ಕ್ರಮ">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>ಮತ್ತೆ  ಪ್ರಯತ್ನಿಸಿ. &brandShortName; ಸಂಪರ್ಕವನ್ನು ಏರ್ಪಡಿಸಲು ಮತ್ತು ಪುಟವನ್ನು ಮತ್ತೆ ತುಂಬಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. <button id='wifi'>ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸು</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "ವಿಷಯದ ಎನ್ಕೋಡಿಂಗ್‌ ದೋಷ">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ದಯವಿಟ್ಟು ಈ ತೊಂದರೆಯನ್ನು ತಿಳಿಸಲು ಜಾಲತಾಣದ ಮಾಲಿಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.</li> </ul>">

@@ -89,10 +89,6 @@ permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆ�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window2 =
-    .title = ವಿನಾಯಿತಿಗಳು - ಸ್ವಯಂಪ್ಲೇ
-    .style = { permissions-window.style }
-
 ## Site Permissions - Autoplay
 
 ## Site Permissions - Notifications

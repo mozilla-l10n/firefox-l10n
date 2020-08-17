@@ -33,12 +33,6 @@ connection-proxy-http = HTTP ಪ್ರಾಕ್ಸಿ
     .accesskey = x
 connection-proxy-http-port = ಪೋರ್ಟ್
     .accesskey = P
-connection-proxy-http-share =
-    .label = ಎಲ್ಲಾ ಪ್ರೋಟೊಕಾಲ್‍ಗಳಿಗೆ  ಈ ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಬಳಸು
-    .accesskey = s
-
-connection-proxy-ssl = SSL ಪ್ರಾಕ್ಸಿ
-    .accesskey = L
 
 connection-proxy-ssl-port = ಪೋರ್ಟ್
     .accesskey = o

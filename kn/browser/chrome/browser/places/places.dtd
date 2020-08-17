@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ಕಡತವನ್ನು ಆರಿಸು…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "ಈ ತಾಣವನ್ನು ಮರೆತು ಬಿಡು">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "ತೆರೆ">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆ">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "ಹೊಸ Private ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "ಎಲ್ಲಾ ಹಾಳೆಗಳಲ್ಲೂ ತೆರೆ">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "ಗುಣಲಕ್ಷಣಗಳು">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "ಹೆಸರಿನಿಂದ ವಿಂಗಡಿಸು">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "ಹೊಸ ಬುಕ್‌ಮಾರ್ಕ್…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "ಹೊಸ ಕಡತಕೋಶ…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "ಹೊಸ ವಿಭಜಕ">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "ಹೆಸರು">
 <!ENTITY col.tags.label          "ಟ್ಯಾಗ್‌ಗಳು">
 <!ENTITY col.url.label           "ತಾಣ">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "ಭೇಟಿ ಮಾಡಿದ ಲೆಕ್ಕ">
 <!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
 <!ENTITY col.lastmodified.label  "ಕೊನೆಯ ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
-
-<!ENTITY historySearch.placeholder  "ಇತಿಹಾಸವನ್ನು ಹುಡ್ಕು">
-<!ENTITY bookmarksSearch.placeholder  "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಹುಡುಕು">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ">
 
-<!ENTITY view.label               "ನೋಟ">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "ದಿನಾಂಕದ ಆಧಾರದಲ್ಲಿ">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "ತಾಣದ ಆಧಾರದಲ್ಲಿ">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "ಹೆಚ್ಚು ಬಾರಿ ಭೇಟಿಯ ಆಧಾರದಲ್ಲಿ">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "ಕೊನೆಯ ಬಾರಿ ಭೇಟಿಯ ಆಧಾರದಲ್ಲಿ">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "ದಿನಾಂಕ ಹಾಗು ತಾಣದ ಆಧಾರದಲ್ಲಿ">
-<!ENTITY byDayAndSite.accesskey   "t">

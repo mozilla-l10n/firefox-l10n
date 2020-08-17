@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = ದತ್ತಾಂಶ ಮೂಲವನ್ನು ಪಿಂಗ್ ಮಾಡಿ:
-about-telemetry-show-current-ping-data = ಪ್ರಸ್ತುತ ಪಿಂಗ್ ದತ್ತಾಂಶ
 about-telemetry-show-archived-ping-data = ಸಂಗ್ರಹಿಸಿದ ಪಿಂಗ್ ದತ್ತಾಂಶ
 about-telemetry-show-subsession-data = ಉಪಅಧಿವೇಶನ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು
 about-telemetry-choose-ping = ಪಿಂಗ್ ಆಯ್ಕೆ ಮಾಡು:
@@ -45,7 +44,6 @@ about-telemetry-page-subtitle = ಈ ಪುಟವು, ಟೆಲಿಮೆಟ್ರ
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = ಮಾಹಿತಿಯ ಪ್ರತಿಯೊಂದು ಕಣವನ್ನು “<a data-l10n-name="ping-link">ಪಿಂಗ್‌ಗಳು</a>” ಗೆ ಜೋಡಿಸಲಾಗಿದೆ. ನೀವು { $name }, { $timestamp } ಪಿಂಗ್ ಅನ್ನು ನೋಡುತ್ತಿದ್ದೀರಿ.
-about-telemetry-ping-details-current = ಮಾಹಿತಿಯ ಪ್ರತಿಯೊಂದು ಕಣವನ್ನು “<a data-l10n-name="ping-link">ಪಿಂಗ್‌ಗಳು</a>“ ಗೆ ಜೋಡಿಸಲಾಗಿದೆ. ನೀವು ಪ್ರಸ್ತುತ ಪಿಂಗ್ ಅನ್ನು ನೋಡುತ್ತಿದ್ದೀರಿ.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -58,8 +56,6 @@ about-telemetry-filter-all-placeholder =
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” ಗೆ ಫಲಿತಾಂಶಗಳು
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ಪ್ರಸಕ್ತ ಪಿಂಗ್
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ಎಲ್ಲ
 # button label to copy the histogram

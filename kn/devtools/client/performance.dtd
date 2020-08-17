@@ -65,8 +65,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "ಮಾದರಿ ಕಾರ್ಯಭಾರದ ಹೆಸರು ಮತ್ತು ಮೂಲದ ಸ್ಥಳ">
 <!ENTITY performanceUI.table.totalAlloc               "ಒಟ್ಟಾರೆ ಮಾದರಿ ಹೊಂದಾಣಿಕೆಗಳು">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ಈ ಸ್ಥಳದಲ್ಲಿ ಮತ್ತು ಕಾಲೀಸ್‌ನಲ್ಲಿ ನಮೂನೆ ಪಡೆದ ವಸ್ತುಗಳ ಹಂಚಿಕೆಯ ಒಟ್ಟು ಸಂಖ್ಯೆ.">
-<!ENTITY performanceUI.table.selfAlloc                "ಸ್ವಮಾದರಿಯ ಹೊಂದಾಣಿಕೆಗಳು">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "ಈ ಸ್ಥಳದಲ್ಲಿ ನಮೂನೆ ಪಡೆದ ವಸ್ತುಗಳ ಹಂಚಿಕೆಗಳ ಸಂಖ್ಯೆ.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = ಹೀಗೆ ಉಳಿಸು...
     .accesskey = e
-media-preview =
-    .value = ಮಾಧ್ಯಮ ಪೂರ್ವಾವಲೋಕನ:
 
 perm-tab =
     .label = ಅನುಮತಿಗಳು
@@ -120,7 +118,6 @@ help-button =
 security-site-data-no = ಇಲ್ಲ
 
 image-size-unknown = ಅಜ್ಞಾತ
-not-set-verified-by = ಸೂಚಿತಗೊಳ್ಳದೇ ಇರುವ
 page-info-not-specified =
     .value = ಸೂಚಿತಗೊಳ್ಳದೇ ಇರುವ
 not-set-alternative-text = ಸೂಚಿತಗೊಳ್ಳದೇ ಇರುವ
@@ -145,7 +142,6 @@ general-quirks-mode =
     .value = ವೈಖರಿಯ (Quirks) ಕ್ರಮ
 general-strict-mode =
     .value = ಸಾಮಾನ್ಯ ಅನುವರ್ತನೆ ಕ್ರಮ
-security-no-owner = ಈ ಜಾಲತಾಣವು ಮಾಲಿಕತ್ವದ ಯಾವುದೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುವುದಿಲ್ಲ.
 page-info-security-no-owner =
     .value = ಈ ಜಾಲತಾಣವು ಮಾಲಿಕತ್ವದ ಯಾವುದೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುವುದಿಲ್ಲ.
 media-select-folder = ಚಿತ್ರಗಳನ್ನು ಉಳಿಸಲು ಒಂದು ಕಡತಕೋಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ

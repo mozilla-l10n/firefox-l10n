@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "ಸಂಪಾದನೆ(E)">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "ರದ್ದು ಮಾಡು(U)">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "ಮತ್ತೊಮ್ಮೆ ಮಾಡು(R)">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "ಕತ್ತರಿಸು(t)">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "ನಕಲಿಸು(C)">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "ಅಂಟಿಸು(P)">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "P">
 <!ENTITY deleteCmd.label          "ಅಳಿಸು(D)">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label          "ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡು(A)">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "A">
 <!ENTITY preferencesCmd2.label "ಆಯ್ಕೆಗಳು">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
