@@ -4,5 +4,7 @@
 
 finger-yes = ยืนยันแล้ว
 finger-no = ยังไม่ยืนยัน
+
 finger-subset-title = เอาลายนิ้วมือออก
+
 finger-remove-all-title = เอาลายนิ้วมือทั้งหมดออก

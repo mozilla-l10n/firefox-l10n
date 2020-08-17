@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = แท็บที่ซิงค์
 synced-tabs-sidebar-noclients-subtitle = ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?
-synced-tabs-sidebar-notsignedin = ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ
 synced-tabs-sidebar-intro = ดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ
 synced-tabs-sidebar-unverified = บัญชีของคุณจำเป็นต้องได้รับการยืนยัน
 synced-tabs-sidebar-notabs = ไม่มีแท็บที่เปิดอยู่

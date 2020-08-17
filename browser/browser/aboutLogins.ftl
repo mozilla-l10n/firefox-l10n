@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = รับบน Google Play
 login-app-promo-apple =
     .alt = ดาวน์โหลดบน App Store
+
 login-filter =
     .placeholder = ค้นหาข้อมูลการเข้าสู่ระบบ
+
 create-login-button = สร้างการเข้าสู่ระบบใหม่
+
 fxaccounts-sign-in-text = รับรหัสผ่านของคุณบนอุปกรณ์อื่น ๆ ของคุณ
 fxaccounts-sign-in-button = ลงชื่อเข้า { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -67,6 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = กำลังมองหาข้อมูลการเข้าสู่ระบบที่บันทึกไว้ของคุณหรือไม่? ตั้งค่า { -sync-brand-short-name }
+
 about-logins-login-intro-heading-logged-out = กำลังมองหาข้อมูลการเข้าสู่ระบบที่บันทึกไว้ของคุณหรือไม่? ตั้งค่า { -sync-brand-short-name } หรือนำเข้า
 about-logins-login-intro-heading-logged-in = ไม่พบข้อมูลการเข้าสู่ระบบที่ซิงค์
 login-intro-description = หากคุณบันทึกข้อมูลการเข้าสู่ระบบของคุณไว้ที่ { -brand-product-name } บนอุปกรณ์อื่น ๆ คุณสามารถนำมาใช้บนอุปกรณ์นี้ได้ด้วยวิธีนี้:
@@ -74,6 +78,7 @@ login-intro-instruction-fxa = สร้างหรือลงชื่อเ�
 login-intro-instruction-fxa-settings = ตรวจสอบให้แน่ใจว่าคุณได้เลือกกล่องกาเครื่องหมายข้อมูลการเข้าสู่ระบบในการตั้งค่า { -sync-brand-short-name }
 about-logins-intro-instruction-help = เยี่ยมชม<a data-l10n-name="help-link">ฝ่ายสนับสนุน { -lockwise-brand-short-name }</a> สำหรับวิธีใช้เพิ่มเติม
 about-logins-intro-import = หากข้อมูลการเข้าสู่ระบบของคุณถูกบันทึกไว้ในเบราว์เซอร์อื่น คุณสามารถ<a data-l10n-name="import-link">นำเข้าข้อมูลเหล่านี้ใน { -lockwise-brand-short-name }</a> ได้
+
 about-logins-intro-import2 = หากข้อมูลการเข้าสู่ระบบของคุณถูกบันทึกไว้ภายนอก { -brand-product-name } คุณสามารถ<a data-l10n-name="import-browser-link">นำเข้าจากเบราว์เซอร์อื่น</a>หรือ<a data-l10n-name="import-file-link">จากไฟล์</a>ได้
 
 ## Login
@@ -114,25 +119,28 @@ about-logins-edit-login-os-auth-dialog-message-win = หากต้องกา
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = แก้ไขข้อมูลการเข้าสู่ระบบที่บันทึกไว้
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = หากต้องการดูรหัสผ่านของคุณ ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = เผยรหัสผ่านที่บันทึกไว้
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = หากต้องการคัดลอกรหัสผ่านของคุณ ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = คัดลอกรหัสผ่านที่บันทึกไว้
+
+## Master Password notification
+
+master-password-notification-message = โปรดป้อนรหัสผ่านหลักของคุณเพื่อดูข้อมูลการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = หากต้องการส่งออกข้อมูลการเข้าสู่ระบบของคุณ ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = ส่งออกข้อมูลการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
-
-## Master Password notification
-
-master-password-notification-message = โปรดป้อนรหัสผ่านหลักของคุณเพื่อดูข้อมูลการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
 
 ## Primary Password notification
 
@@ -164,12 +172,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ยกเลิก
 confirmation-dialog-dismiss-button =
     .title = ยกเลิก
+
 about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 about-logins-confirm-remove-dialog-confirm-button = ลบ
+
 about-logins-confirm-export-dialog-title = ส่งออกข้อมูลการเข้าสู่ระบบและรหัสผ่าน
 about-logins-confirm-export-dialog-message = รหัสผ่านของคุณจะถูกบันทึกเป็นข้อความที่อ่านได้ (เช่น BadP@ssw0rd) ดังนั้นใครก็ตามที่สามารถเปิดไฟล์ที่ส่งออกได้จะสามารถดูได้
 about-logins-confirm-export-dialog-confirm-button = ส่งออก…
+
 confirm-discard-changes-dialog-title = ละทิ้งการเปลี่ยนแปลงที่ยังไม่ได้บันทึก?
 confirm-discard-changes-dialog-message = การเปลี่ยนแปลงที่ยังไม่ได้บันทึกทั้งหมดจะสูญหาย
 confirm-discard-changes-dialog-confirm-button = ละทิ้ง
@@ -200,8 +211,10 @@ about-logins-vulnerable-alert-learn-more-link = เรียนรู้เพ�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = มีรายการสำหรับ { $loginTitle } พร้อมชื่อผู้ใช้นั้นแล้ว <a data-l10n-name="duplicate-link">ต้องการไปยังรายการที่มีอยู่หรือไม่?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = เกิดข้อผิดพลาดขณะพยายามบันทึกรหัสผ่านนี้
+
 
 ## Login Export Dialog
 

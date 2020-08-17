@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "คอนโซลข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey "ข">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "กระดานทดลอง">
-<!ENTITY scratchpadCmd.accesskey "ร">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "รับข้อความ">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "ส่งต่อข้อความที่เลือกเป็นไฟล์แนบ">
 <!ENTITY fileButton.tooltip "นำข้อความที่เลือกไปยังจุดอื่น">
 <!ENTITY archiveButton.tooltip "เก็บถาวรข้อความที่เลือก">
-<!ENTITY openConversationButton.tooltip "แสดงการสนทนาของข้อความที่เลือก">
 <!ENTITY openMsgConversationButton.tooltip "แสดงการสนทนาของข้อความที่เลือก">
 <!ENTITY nextButton.tooltip "ย้ายไปยังข้อความที่ยังไม่ได้อ่านถัดไป">
 <!ENTITY nextMsgButton.tooltip "ย้ายไปยังข้อความถัดไป">

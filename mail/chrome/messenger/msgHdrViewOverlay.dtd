@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "เก็บถาวร">
 <!ENTITY hdrArchiveButton1.tooltip "เก็บข้อความนี้ถาวร">
-<!ENTITY hdrOpenConversationButton1.label "การสนทนา">
-<!ENTITY hdrOpenConversationButton1.tooltip "แสดงการสนทนาของข้อความนี้">
 <!ENTITY hdrSmartReplyButton1.label "ตอบกลับแบบอัจฉริยะ">
 <!ENTITY hdrReplyButton1.label "ตอบกลับ">
 <!ENTITY hdrReplyButton2.tooltip "ตอบกลับถึงผู้ส่งของข้อความนี้">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "ตอบกลับถึงรายชื่อผู้รับจดหมาย">
 <!ENTITY hdrFollowupButton1.label "ติดตาม">
 <!ENTITY hdrFollowupButton1.tooltip "โพสต์การติดตามไปยังกลุ่มข่าวนี้">
-<!ENTITY hdrMenuForwardButton.label "ส่งต่อเป็น">
 <!ENTITY hdrForwardButton1.label "ส่งต่อ">
 <!ENTITY hdrForwardButton1.tooltip "ส่งต่อข้อความนี้">
 <!ENTITY hdrJunkButton1.label "ขยะ">

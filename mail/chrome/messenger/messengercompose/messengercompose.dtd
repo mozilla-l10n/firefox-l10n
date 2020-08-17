@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "ทำซ้ำ">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ท">
-<!ENTITY cutCmd.label "ตัด">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ต">
-<!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "ค">
-<!ENTITY pasteCmd.label "วาง">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "ว">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "บ">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "า">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.accesskey "ล">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "ค้นหา…">
 <!ENTITY findBarCmd.accesskey "ค">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "พิมพ์ข้อความนี้">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "จาก:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "ช่องกำหนดที่อยู่ชนิดอื่น">
 <!ENTITY fromAddr2.label "จาก">
 <!ENTITY fromAddr.accesskey "จ">
-<!ENTITY toAddr.label "ถึง:">
-<!ENTITY ccAddr.label "สำเนาถึง:">
-<!ENTITY bccAddr.label "สำเนาลับถึง:">
-<!ENTITY replyAddr.label "ตอบกลับถึง:">
-<!ENTITY newsgroupsAddr.label "กลุ่มข่าว:">
-<!ENTITY followupAddr.label "ติดตามถึง:">
-<!ENTITY subject.label "หัวเรื่อง:">
 <!ENTITY toAddr2.label "ถึง">
 <!ENTITY ccAddr2.label "สำเนาถึง">
 <!ENTITY bccAddr2.label "สำเนาลับถึง">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "ติดตามถึง">
 <!ENTITY subject2.label "หัวเรื่อง">
 <!ENTITY subject.accesskey "ห">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "ฟ">
-<!ENTITY attachmentBucketHeader.tooltip "บานหน้าต่างไฟล์แนบ">
 <!ENTITY attachmentBucketCloseButton.tooltip "ซ่อนบานหน้าต่างไฟล์แนบ">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

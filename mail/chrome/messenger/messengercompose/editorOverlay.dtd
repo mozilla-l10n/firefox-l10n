@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "วางโดยไม่มีการจัดรูปแบบ">
 <!ENTITY pasteNoFormatting.accesskey "ว">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "วางเป็น">
-<!ENTITY pasteAs.accesskey "ง">
 <!ENTITY pasteAsQuotationCmd.label "วางเป็นถ้อยคำอ้างอิง">
 <!ENTITY pasteAsQuotationCmd.accesskey "ป">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "ค้นหา…">
-<!ENTITY findReplaceCmd.label "ค้นหาแล้วแทนที่…">
-<!ENTITY enableInlineSpellChecker.label "ตรวจสอบการสะกดคำเมื่อคุณพิมพ์">
-<!ENTITY enableInlineSpellChecker.accesskey "ต">
-<!ENTITY checkSpellingCmd2.label "ตรวจสอบการสะกดคำ…">
-<!ENTITY checkSpellingCmd2.accesskey "ร">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "แทรก">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "เนื้อความ">
 <!ENTITY bodyTextCmd.accesskey "น">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "คุณสมบัติขั้นสูง">
-<!ENTITY advancedPropertiesCmd.accesskey "ค">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "จัดชิดแนว">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "เต็มแนว">
 <!ENTITY alignJustify.accesskey "ต">
 <!ENTITY alignJustify.tooltip "จัดเต็มแนว">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "เลเยอร์">
-<!ENTITY layerSendToBack.tooltip "ส่งไปข้างหลัง">
-<!ENTITY layerBringToFront.tooltip "นำมาข้างหน้า">
 
 <!ENTITY increaseIndent.label "เพิ่มการเยื้อง">
 <!ENTITY increaseIndent.accesskey "พ">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "คุณสมบัติตาราง…">
 <!ENTITY tableProperties.accesskey "ค">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "แถบเมนู">
-<!ENTITY formatToolbar.tooltip "แถบเครื่องมือการจัดรูปแบบ">
-<!ENTITY cutToolbarCmd.tooltip "ตัด">
-<!ENTITY copyToolbarCmd.tooltip "คัดลอก">
-<!ENTITY pasteToolbarCmd.tooltip "วาง">
-<!ENTITY printToolbarCmd.label "พิมพ์">
-<!ENTITY printToolbarCmd.tooltip "พิมพ์หน้านี้">
-<!ENTITY findToolbarCmd.label "ค้นหา">
-<!ENTITY findToolbarCmd.tooltip "ค้นหาข้อความในหน้า">
-<!ENTITY spellToolbarCmd.label "การสะกด">
-<!ENTITY spellToolbarCmd.tooltip "ตรวจสอบการสะกดของส่วนที่เลือกหรือทั้งหน้า">
-
 <!ENTITY imageToolbarCmd.label "ภาพ">
 <!ENTITY imageToolbarCmd.tooltip "แทรกภาพใหม่หรือแก้ไขคุณสมบัติของภาพที่เลือก">
 <!ENTITY hruleToolbarCmd.label "เส้นแนวนอน">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "แทรกจุดยึดที่มีชื่อใหม่หรือแก้ไขคุณสมบัติของจุดยึดที่เลือก">
 <!ENTITY TextColorButton.tooltip "เลือกสีสำหรับข้อความ">
 <!ENTITY BackgroundColorButton.tooltip "เลือกสีสำหรับพื้นหลัง">
-<!ENTITY throbber.tooltip2 "ไปยังหน้าแรกของ &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "เลือกสีเน้นสำหรับข้อความ">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "ตั้งขนาดแบบอักษร">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "จัดข้อความอยู่กึ่งกลาง">
 <!ENTITY alignRightButton.tooltip "จัดข้อความชิดขอบขวา">
 <!ENTITY alignJustifyButton.tooltip "จัดข้อความชิดขอบซ้ายและขวา">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "เลือก">
-<!ENTITY structSelect.accesskey     "ล">
-<!ENTITY structRemoveTag.label      "เอาป้ายกำกับออก">
-<!ENTITY structRemoveTag.accesskey  "อ">
-<!ENTITY structChangeTag.label      "เปลี่ยนป้ายกำกับ">
-<!ENTITY structChangeTag.accesskey  "ป">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "แทรก">

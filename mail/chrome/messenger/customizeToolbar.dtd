@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "ไอคอนข้างข้อความ">
 <!ENTITY useSmallIcons.label      "ใช้ไอคอนเล็ก">
 <!ENTITY restoreDefaultSet.label  "เรียกคืนค่าเริ่มต้น">
-<!ENTITY addNewToolbar.label      "เพิ่มแถบเครื่องมือใหม่">
-<!ENTITY showTitlebar.label       "แสดงแถบชื่อเรื่อง">
-<!ENTITY extraDragSpace.label     "เพิ่มพื้นที่ลาก">
 <!ENTITY showTitlebar2.label      "แถบชื่อเรื่อง">
 <!ENTITY extraDragSpace2.label    "พื้นที่ลาก">
 <!ENTITY saveChanges.label        "เสร็จสิ้น">

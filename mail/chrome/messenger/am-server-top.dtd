@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "ข้อความ">
 <!ENTITY alwaysAuthenticate.label "ขอการรับรองความถูกต้องเมื่อเชื่อมต่อมายังเซิร์ฟเวอร์นี้เสมอ">
 <!ENTITY alwaysAuthenticate.accesskey "ข">
-<!ENTITY newsrcFilePath.label "ไฟล์ newsrc:">
-<!ENTITY newsrcPicker.label "เลือกไฟล์ newsrc">
 <!ENTITY newsrcFilePath1.label "ไฟล์ News.rc:">
 <!ENTITY newsrcPicker1.label "เลือกไฟล์ News.rc">
 <!ENTITY abbreviate.label "แสดงชื่อกลุ่มข่าวสารในบานหน้าต่างโฟลเดอร์จดหมายเป็น:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "ขั้นสูง…">
 <!ENTITY advancedButton.accesskey "ส">
 <!ENTITY serverDefaultCharset2.label "รหัสอักขระเริ่มต้น:">
-<!ENTITY localPath.label "ไดเรกทอรีในเครื่อง:">
 <!ENTITY localPath1.label "ไดเรกทอรีในเครื่อง:">
 <!ENTITY localFolderPicker.label "เลือกไดเรกทอรีในเครื่อง">
 <!ENTITY browseFolder.label "เรียกดู…">

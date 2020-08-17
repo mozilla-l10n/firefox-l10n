@@ -14,6 +14,7 @@ pw-erased-ok = คุณได้ลบรหัสผ่านหลักข�
 pw-not-wanted = คำเตือน! คุณได้ตัดสินใจที่จะไม่ใช้รหัสผ่านหลัก { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
+
 pw-change-success-title = เปลี่ยนรหัสผ่านสำเร็จ
 pw-change-failed-title = การเปลี่ยนรหัสผ่านล้มเหลว
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = เปลี่ยนรหัสผ่านหลัก
+
 set-password-old-password = รหัสผ่านปัจจุบัน:
 set-password-new-password = ป้อนรหัสผ่านใหม่:
 set-password-reenter-password = ป้อนรหัสผ่านใหม่อีกครั้ง:
@@ -31,6 +33,7 @@ master-password-warning = กรุณาแน่ใจว่าคุณจำ
 
 remove-password =
     .title = เอารหัสผ่านหลักออก
+
 remove-info =
     .value = คุณต้องป้อนรหัสผ่านปัจจุบันของคุณเพื่อดำเนินการต่อ:
 remove-warning1 = รหัสผ่านหลักของคุณใช้ป้องกันข้อมูลอ่อนไหวอย่างรหัสผ่านเว็บไซต์

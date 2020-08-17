@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "แก้ไข">
 <!ENTITY editMenu.accesskey                             "ก">
-<!ENTITY undoCmd.label                                  "เลิกทำ">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "เ">
-<!ENTITY redoCmd.label                                  "ทำซ้ำ">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "ท">
-<!ENTITY cutCmd.label                                   "ตัด">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "ต">
-<!ENTITY copyCmd.label                                  "คัดลอก">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "ค">
-<!ENTITY pasteCmd.label                                 "วาง">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "ว">
 <!ENTITY deleteCmd.label                                "ลบ">
-<!ENTITY deleteCmd.accesskey                            "ล">
 <!ENTITY deleteAbCmd.label                              "ลบสมุดรายชื่อ">
 <!ENTITY deleteContactCmd.label                         "ลบผู้ติดต่อ">
 <!ENTITY deleteContactsCmd.label                        "ลบผู้ติดต่อ">
 <!ENTITY deleteListCmd.label                            "ลบรายชื่อ">
 <!ENTITY deleteListsCmd.label                           "ลบรายชื่อ">
 <!ENTITY deleteItemsCmd.label                           "ลบรายการ">
-<!ENTITY selectAllCmd.label                             "เลือกทั้งหมด">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "ง">
-<!ENTITY swapFirstNameLastNameCmd.label                 "สลับชื่อจริง/นามสกุล">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "ส">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "คุณสมบัติ">
 <!ENTITY propertiesMenu.accesskey                       "ค">
 <!ENTITY propertiesCmd.key                              "i">

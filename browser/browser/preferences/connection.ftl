@@ -35,12 +35,7 @@ connection-proxy-http = พร็อกซี HTTP
     .accesskey = ก
 connection-proxy-http-port = พอร์ต
     .accesskey = พ
-connection-proxy-http-share =
-    .label = ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโปรโตคอลทั้งหมด
-    .accesskey = ฟ
 
-connection-proxy-ssl = พร็อกซี SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = ใช้พร็อกซีนี้สำหรับ FTP และ HTTPS ด้วย
     .accesskey = ด
