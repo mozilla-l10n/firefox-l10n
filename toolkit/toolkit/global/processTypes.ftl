@@ -4,10 +4,6 @@
 
 process-type-web = Web-indhold
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Privilegeret indhold
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priviligerede About-sider

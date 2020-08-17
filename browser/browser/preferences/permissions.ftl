@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Indtast venligst et gyldigt værtsnavn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Undtagelser - blokering af indhold
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Du har deaktiveret blokering af indhold på disse websteder.
-
 permissions-exceptions-etp-window =
     .title = Undtagelser for udvidet beskyttelse mod sporing
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Du kan angive hvilke websteder der må installere tilføjelser. Indtast den præcise adresse på det websted, du vil tillade at installere tilføjelser og klik derefter på Tillad.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Undtagelser - automatisk afspilning
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Du kan angive, hvilke websteder der altid eller aldrig har lov til afspille lyd automatisk. Indtast adressen på et websted, og klik så på Bloker eller Tillad.
 
 ## Site Permissions - Autoplay
 

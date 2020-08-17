@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Mappetype:">
 
 <!ENTITY folderQuotaTab.label                    "Kvote">
-<!ENTITY folderQuotaRoot.label                   "Kvote-rod:">
 <!ENTITY folderQuotaUsage.label                  "Forbrug:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

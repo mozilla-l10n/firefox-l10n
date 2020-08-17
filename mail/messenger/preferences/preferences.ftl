@@ -109,12 +109,6 @@ manage-messenger-languages-button =
 confirm-messenger-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
 confirm-messenger-language-change-button = Anvend og genstart
 
-update-pref-write-failure-title = Skrivefejl
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Kunne ikke gemme indstillingerne. Kan ikke skrive til filen: { $path }
-
 update-setting-write-failure-title = Kunne ikke gemme indstillinger for opdatering
 
 # Variables:

@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Ude af stand til at oprette forbindelse">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsninger">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Serveren blev ikke fundet">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Den side kan vi ikke finde…">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Hvis adressen er korrekt, så er der tre ting, du kan gøre:</strong>
 <ul>
@@ -34,8 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fil ikke fundet">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Undersøg filnavnet for store bogstaver eller andre tastefejl.</li>
@@ -43,15 +35,11 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Den kan være blevet slettet, flyttet, eller tilladelserne for filen kan forhindre adgang.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Hovsa.">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; kan ikke indlæse denne side af en eller anden grund.</p>
@@ -65,18 +53,10 @@
 <!ENTITY openPortalLoginPage.label2 "Åbn netværkets login-side">
 
 <!ENTITY malformedURI.pageTitle "Udgyldig URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Den adresse ser ikke rigtig ud.">
-
-<!ENTITY netInterrupt.title "Forbindelsen blev afbrudt">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Siden er udløbet">
-
 <!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
-
-<!ENTITY netOffline.title "Offline-tilstand">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -84,15 +64,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Indholdskodningsfejl">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Usikker filtype">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -100,23 +76,15 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Forbindelsen blev nulstillet">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Forbindelsens tidsfrist udløb">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Du er måske nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -125,8 +93,6 @@
     fungerer.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Kunne ikke finde proxyserveren">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -138,16 +104,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Denne side viderestiller ikke forespørgslen korrekt">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse
     af cookies er blevet nægtet.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Uventet svar fra server">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -157,17 +119,12 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
   <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Advarsel: Mulig sikkerhedsrisiko">
-<!ENTITY certerror.sts.longpagetitle  "Oprettede ikke forbindelse: Muligt sikkerhedsproblem">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -206,11 +163,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder det.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst i denne kontekst, fordi siden har en politik for X-Frame-Options, der forbyder det.</p>">
 
@@ -221,11 +174,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Indberet automatisk fejl som denne for at hjælpe Mozilla med at identificere og blokere ondsindede websteder.">
 <!ENTITY errorReporting.learnMore "Læs mere…">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Kan ikke oprette sikker forbindelse">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -236,15 +185,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> bruger en sikkerhedspolitik kaldet HTTP Strict Transport Security (HSTS), hvilket betyder at &brandShortName; kun kan oprette en sikker forbindelse til webstedet. Du kan ikke tilføje en undtagelse for at besøge webstedet.">
 <!ENTITY certerror.copyToClipboard.label "Kopiér tekst til udklipsholder">
 
-<!ENTITY inadequateSecurityError.title "Din forbindelse er ikke sikker">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber kan derfor nemt få adgang til information, som du troede var sikker. Webstedets administrator er nødt til at løse problemerne på serveren, før du kan besøge webstedet.</p><p>Fejlkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokeret side">
-
-<!ENTITY certerror.mitm.title "Et program forhindrer &brandShortName; i at oprette en sikker forbindelse til dette websted.">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er højst sandsynligt et sikkert websted, men der kan ikke oprettes en sikker forbindelse til det. Problemet skyldes programmet <span class='mitm-name'/>, der enten er på din computer eller på dit netværk.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Hvis dit antivirus-program har en funktion, der skanner krypterede forbindelser (funktionen kaldes ofte “web scanning” eller “https scanning”), så kan du deaktivere funktionen. Hvis dét ikke virker, så kan du prøve at fjerne og geninstallere antivirus-programmet.">
@@ -252,14 +197,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Hvis du ikke kender <span class='mitm-name'/>, så kan dette være et angreb og du bør ikke fortsætte til webstedet.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Hvis du ikke kender<span class='mitm-name'/>, så kan dette være et angreb, og du kan ikke gøre noget for at få adgang til webstedet.">
 
-<!ENTITY clockSkewError.title "Uret i din computer er indstillet forkert">
-
 <!ENTITY clockSkewError.longDesc "Din computer tror, at <span id='wrongSystemTime_systemDate1'/> er den korrekte dato og tid, hvilket forhindrer &brandShortName; i at oprette en sikker forbindelse. For at besøge <span class='hostname'></span> skal du gå til dine systemindstillinger og opdatere din computers ur til den korrekte dato, tidszone og det korrekte klokkeslæt. Opdater derefter <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?">
 <!ENTITY prefReset.label "Gendan indstillinger til standard">
-
-<!ENTITY networkProtocolError.title "Fejl i netværksprotokol">
 
 <!ENTITY enableTls10.longDesc "Webstedet understøtter muligvis ikke protokollen TLS 1.2, der er den minimale version understøttet af &brandShortName;. Forbindelsen kan måske oprettes ved at aktivere TLS 1.0 og TLS 1.1.">
 <!ENTITY enableTls10.note "TLS 1.0 og TLS 1.1 vil blive permanent deaktiveret i en kommende udgivelse.">

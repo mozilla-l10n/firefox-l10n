@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Sikkerhed">
-<!ENTITY securityTab.label "Sikkerhed">
-<!ENTITY securityHeading.label "For at sende eller modtage underskrevne eller krypterede meddelelser, skal du angive både et certifikat til at underskrive med og et certifikat til at kryptere med.">
-<!ENTITY encryptionGroupTitle.label "Kryptering">
-<!ENTITY encryptionChoiceLabel.label "Standardindstilling for kryptering når du sender meddelelserne:">
-<!ENTITY neverEncrypt.label "Aldrig (brug ikke kryptering)">
-<!ENTITY neverEncrypt.accesskey "A">
-<!ENTITY alwaysEncryptMessage.label "Altid (deaktiver afsendelse med mindre alle modtagere har et certifikat)">
-<!ENTITY alwaysEncryptMessage.accesskey "d">
-<!ENTITY encryptionCert.message "Brug dette certifikat til kryptering og dekryptering af meddelelser:">
-
 <!ENTITY e2eTitle.label "End to end-kryptering">
-<!ENTITY e2eIntro.description "For at sende krypterede eller digitalt underskrevne meddelelser, skal du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.">
 <!ENTITY e2eLearnMore.label "Læs mere">
 
 <!ENTITY e2eEnc.description "Uden end to end-kryptering, kan indholdet af dine meddelelser nemt ses af din mailudbyder eller læses af masseovervågningsteknologier.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Ryd">
 <!ENTITY encryption.certificate_clear.accesskey "y">
 <!ENTITY signingGroupTitle.label "Digital signatur">
-<!ENTITY signMessage.label "Signer meddelelser digitalt (standard)">
 <!ENTITY signMessage2.label "Tilføj min digitale signatur som standard">
 <!ENTITY signMessage.accesskey "S">
-<!ENTITY signingCert.message "Brug dette certifikat til at signere meddelelser:">
-
-<!ENTITY certificates.label "Certifikater">
-<!ENTITY manageCerts2.label "Håndter certifikater">
-<!ENTITY manageCerts2.accesskey "c">
-<!ENTITY manageDevices.label "Håndter sikkerhedsenheder">
-<!ENTITY manageDevices.accesskey "h">
 
 <!ENTITY signingCert2.message "Personligt certifikat til digital signering:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Foretræk OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Håndter OpenPGP-nøgler">
-<!ENTITY manageKeys.accesskey "N">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Vælg certifikat">

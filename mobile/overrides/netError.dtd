@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Den forespurgte webside er ikke tilgængelig i cachen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-tilstand">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Prøv igen. &brandShortName; vil forsøge at genindlæse websiden.
-  <button id='wifi'>Aktiver wi-fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "
