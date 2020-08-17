@@ -325,7 +325,7 @@ urlbar-placeholder =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Pretraži s { $name } ili unesi adresu
+    .placeholder = Traži pomoću { $name } ili upiši adresu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Preglednik se kontrolira s udaljene lokacije
 urlbar-permissions-granted =
