@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (zestarjeny)
 compatibility-issue-experimental = (eksperimentelny)
 compatibility-issue-prefixneeded = (prefiks trěbny)
 compatibility-issue-deprecated-experimental = (zestarjeny, eksperimentelny)
+
 compatibility-issue-deprecated-prefixneeded = (zestarjeny, prefiks trěbny)
 compatibility-issue-experimental-prefixneeded = (eksperimentelny, prefiks trěbny)
 compatibility-issue-deprecated-experimental-prefixneeded = (zestarjeny, eksperimentelny, prefiks trěbny)
@@ -44,6 +45,7 @@ compatibility-issue-occurrences =
         [few] { $number } wustupowanja
        *[other] { $number } wustupowanjow
     }
+
 compatibility-no-issues-found = Žane problemy kompatibelnosće namakane.
 compatibility-close-settings-button =
     .title = Nastajenja začinić

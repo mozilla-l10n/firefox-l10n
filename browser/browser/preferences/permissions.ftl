@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Prošu zapodajće płaćiwe mjeno hosta
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Wuwzaća - Blokowanje wobsaha
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Sće blokowanje wobsaha na tutych websydłach znjemóžnił.
-
 permissions-exceptions-etp-window =
     .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Móžeće podać, kotre websydła smědźa přidatki instalować. Zapisajće eksaktnu adresu sydła, kotrež chceće dowolić a klikńće potom na Dowolić.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Wuwzaća - awtomatiske wothraće
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Móžeće podać, kotre websydła přeco smědźa abo ženje njesmědźa medije awtomatisce ze zynkom wothrać. Zapodajće adresu sydła, kotrež chceće rjadować a klikńće potom na Blokować abo Dowolić.
 
 ## Site Permissions - Autoplay
 

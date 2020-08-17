@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Wobdźěłać">
 <!ENTITY editMenu.accesskey        "b">
 <!ENTITY undoCmd.label            "Cofnyć">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "C">
 <!ENTITY redoCmd.label            "Wospjetować">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "W">
-<!ENTITY cutCmd.label            "Wutřihać">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "u">
-<!ENTITY copyCmd.label            "Kopěrować">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label            "Zasadźić">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "Z">
 <!ENTITY deleteCmd.label          "Wotstronić">
 <!ENTITY deleteCmd.accesskey        "r">
-<!ENTITY selectAllCmd.label          "Wšo woznamjenić">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmd2.label "Nastajenja">
 <!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label       "Nastajenja">

@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Bjez formatowanja zasadźić">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Zasadźić jako">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Jako citat zasadźić">
 <!ENTITY pasteAsQuotationCmd.accesskey "J">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Pytać…">
-<!ENTITY findReplaceCmd.label "Pytać a narunać…">
-<!ENTITY enableInlineSpellChecker.label "Při zapodaću prawopis kontrolować">
-<!ENTITY enableInlineSpellChecker.accesskey "z">
-<!ENTITY checkSpellingCmd2.label "Prawopis kontrolować…">
-<!ENTITY checkSpellingCmd2.accesskey "k">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Zasadźić">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Dokumentowy tekst">
 <!ENTITY bodyTextCmd.accesskey "D">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Rozšěrjene kajkosće">
-<!ENTITY advancedPropertiesCmd.accesskey "R">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Wusměrić">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Blokowa sadźba">
 <!ENTITY alignJustify.accesskey "b">
 <!ENTITY alignJustify.tooltip "Blokowa sadźba">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Woršta">
-<!ENTITY layerSendToBack.tooltip "Do pozadka">
-<!ENTITY layerBringToFront.tooltip "Do prědka">
 
 <!ENTITY increaseIndent.label "Zasunjenje powjetšić">
 <!ENTITY increaseIndent.accesskey "w">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Kajkosće tabele…">
 <!ENTITY tableProperties.accesskey "K">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menijowa lajsta">
-<!ENTITY formatToolbar.tooltip "Formatowanska lajsta">
-<!ENTITY cutToolbarCmd.tooltip "Wutřihać">
-<!ENTITY copyToolbarCmd.tooltip "Kopěrować">
-<!ENTITY pasteToolbarCmd.tooltip "Zasadźić">
-<!ENTITY printToolbarCmd.label "Ćišćeć">
-<!ENTITY printToolbarCmd.tooltip "Tutu stronu ćišćeć">
-<!ENTITY findToolbarCmd.label "Pytać">
-<!ENTITY findToolbarCmd.tooltip "Tekst na stronje namakać">
-<!ENTITY spellToolbarCmd.label "Prawopis kontrolować">
-<!ENTITY spellToolbarCmd.tooltip "Prawopis wuběra abo cyłeje strony kontrolować">
-
 <!ENTITY imageToolbarCmd.label "Wobraz">
 <!ENTITY imageToolbarCmd.tooltip "Nowy wobraz zasadźić abo kajkosće wubraneho wobraza wobdźěłać">
 <!ENTITY hruleToolbarCmd.label "Horicontalna linija">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenowanu kótwičku zasadźić abo kajkosće wubraneje kótwički wobdźěłać">
 <!ENTITY TextColorButton.tooltip "Barbu za tekst wubrać">
 <!ENTITY BackgroundColorButton.tooltip "Barbu za pozadk wubrać">
-<!ENTITY throbber.tooltip2 "K startowej stronje &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Wuzběhnjensku barbu za tekst wubrać">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Wulkosć pisma nastajić">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Tekst centrowano wusměrić">
 <!ENTITY alignRightButton.tooltip "Tekst po prawej kromje wusměrić">
 <!ENTITY alignJustifyButton.tooltip "Tekst po lěwej kromje a prawej kromje wusměrić">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Wubrać">
-<!ENTITY structSelect.accesskey     "b">
-<!ENTITY structRemoveTag.label      "Značku wotstronić">
-<!ENTITY structRemoveTag.accesskey  "w">
-<!ENTITY structChangeTag.label      "Značku změnić">
-<!ENTITY structChangeTag.accesskey  "z">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Zasadźić">

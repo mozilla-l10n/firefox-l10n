@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Składować jako…
     .accesskey = k
-media-preview =
-    .value = Přehlad medijow:
 
 perm-tab =
     .label = Prawa
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Haj, placki
 security-site-data-no = Ně
 
 image-size-unknown = Njeznaty
-not-set-verified-by = Njepodaty
 page-info-not-specified =
     .value = Njepodaty
 not-set-alternative-text = Njepodaty
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Modus kompatibelnosće
 general-strict-mode =
     .value = Modus konformnosće ze standardami
-security-no-owner = Websydło njedodawa informacije wo wobsedźerstwje.
 page-info-security-no-owner =
     .value = Websydło njedodawa informacije wo wobsedźerstwje.
 media-select-folder = Wubjerće rjadowak za składowanje wobrazow

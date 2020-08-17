@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Eksistowace e-mejlowe konto konfigurować">
-
 <!ENTITY emailWizard.title               "Nastajće swoju eksistowacu e-mejlowu adresu">
 <!ENTITY emailWizard.caption             "Wašu tuchwilnu e-mejlowu adresu wužiwać">
 <!ENTITY name.label                      "Waše mjeno:">
 <!ENTITY name.accesskey                  "m">
-<!ENTITY name.placeholder                "Předmjeno Swójbne mjeno">
 <!ENTITY fullname.placeholder            "Waše dospołne mjeno">
 <!ENTITY name.text                       "Waše mjeno, kaž so druhim pokazuje">
 <!ENTITY name.error                      "Prošu zapodajće swoje mjeno">
 <!ENTITY email.label                     "E-mejlowa adresa:">
 <!ENTITY email.accesskey                 "E">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "wy@example.com">
 <!ENTITY email3.placeholder              "Waša e-mejlowa adresa">
 <!ENTITY email.text                      "Waša eksistowaca e-mejlowa adresa">
 <!ENTITY email.error                     "Njepłaćiwa e-mejlowa adsresa">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Wuchadźace:">
 <!ENTITY outgoingColumn.label            "Wuchadźace">
 <!ENTITY username.label                  "Wužiwarske mjeno:">
-<!ENTITY hostname.label                  "Mjeno serwera">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Serwer:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Znowa testować">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Manuelna konfiguracija">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Manuelnje konfigurować…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Wobstarajće sej nowu e-mejlowu adresu…">

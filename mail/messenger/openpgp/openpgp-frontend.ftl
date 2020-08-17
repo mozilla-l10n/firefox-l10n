@@ -4,4 +4,6 @@
 
 openpgp-import-sender-key =
     .label = Importować…
+
 openpgp-broken-exchange-wait = Prošu čakajće…
+

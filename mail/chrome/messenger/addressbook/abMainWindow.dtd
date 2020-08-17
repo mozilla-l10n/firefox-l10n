@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Wobdźěłać">
 <!ENTITY editMenu.accesskey                             "b">
-<!ENTITY undoCmd.label                                  "Cofnyć">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "C">
-<!ENTITY redoCmd.label                                  "Wospjetować">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "o">
-<!ENTITY cutCmd.label                                   "Wutřihac">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Kopěrować">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Zasadźić">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "Z">
 <!ENTITY deleteCmd.label                                "Zhašeć">
-<!ENTITY deleteCmd.accesskey                            "h">
 <!ENTITY deleteAbCmd.label                              "Adresnik zhašeć">
 <!ENTITY deleteContactCmd.label                         "Kontakt zhašeć">
 <!ENTITY deleteContactsCmd.label                        "Kontakty zhašeć">
 <!ENTITY deleteListCmd.label                            "Lisćinu zhašeć">
 <!ENTITY deleteListsCmd.label                           "Lisćiny zhašeć">
 <!ENTITY deleteItemsCmd.label                           "Zapiski zhašeć">
-<!ENTITY selectAllCmd.label                             "Wšo wubrać">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Předmjeno/Swójbne mjeno wuměnić">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Kajkosće">
 <!ENTITY propertiesMenu.accesskey                       "a">
 <!ENTITY propertiesCmd.key                              "i">

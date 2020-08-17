@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Wšě rajtarki wubrać
     .accesskey = u
-toolbar-context-menu-undo-close-tab =
-    .label = Začinjeny rajtark wobnowić
-    .accesskey = b
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
