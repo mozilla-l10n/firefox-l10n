@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Povezava neuspešna">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Ta naslov je omejen">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Strežnika ni mogoče najti">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm, pri iskanju te strani imamo težave.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Če je naslov pravilen, lahko poskusite z naslednjim:</strong>
 <ul>
@@ -34,23 +28,17 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno uporabljene in da ni drugih tipkarskih napak.</li>
   <li>Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li>
 </ul>">
 
-<!ENTITY fileAccessDenied.title "Dostop do datoteke je bil zavrnjen">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Ups.">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; iz neznanega razloga ne more naložiti te strani.</p>
@@ -64,18 +52,10 @@
 <!ENTITY openPortalLoginPage.label2 "Odpri stran za prijavo v omrežje">
 
 <!ENTITY malformedURI.pageTitle "Neveljaven URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm, ta naslov ni videti pravilen.">
-
-<!ENTITY netInterrupt.title "Povezava je bila prekinjena">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokument je potekel">
-
 <!ENTITY notCached.longDesc "<p>Zahtevan dokument ni več na voljo v predpomnilniku &brandShortName;a.</p><ul><li>&brandShortName; občutljivih dokumentov iz varnostnih razlogov samodejno ne nalaga ponovno.</li><li>Kliknite poskusi znova za ponovno nalaganje dokumenta s spletne strani.</li></ul>">
-
-<!ENTITY netOffline.title "Nepovezan način">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -83,15 +63,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>O napaki obvestite lastnike spletne strani.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -99,15 +75,9 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Povezava je bila ponastavljena">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Dovoljeni čas pretekel">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Naslova ni bilo mogoče razumeti">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -115,16 +85,12 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Posrednik zavrača povezave">
-
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
   <li>Pri skrbniku svojega omrežja preverite, da posrednik deluje.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -135,15 +101,11 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Stran ne preusmerja pravilno">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Težavo lahko povzroča onemogočanje ali zavračanje piškotkov.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -152,17 +114,12 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Varna povezava ni uspela">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti sprejetih podatkov.</li>
   <li>O napaki obvestite lastnike spletne strani.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Pozor: možno varnostno tveganje">
-<!ENTITY certerror.sts.longpagetitle  "Povezava ni bila vzpostavljena: morebitna varnostna težava">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -201,11 +158,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani, ker le-ta vsebuje pravilnik X-Frame-Options, ki ne dovoljuje nalaganja na ta način.</p>">
 
@@ -216,11 +169,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "S prijavo podobnih napak pomagajte Mozilli prepoznati in zavračati zlonamerne strani">
 <!ENTITY errorReporting.learnMore "Več o tem …">
 
-<!ENTITY remoteXUL.title "Oddaljeni XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Varna povezava ni mogoča">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -231,15 +180,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko &brandShortName; nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj besedilo v odložišče">
 
-<!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zavrnjena stran">
-
-<!ENTITY certerror.mitm.title "Programska oprema &brandShortName;u preprečuje varno povezovanje s to stranjo">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je najverjetneje varna stran, vendar varne povezave ni bilo mogoče vzpostaviti. Težavo povzroča <span class='mitm-name'/>, ki je ali program na vašem računalniku ali vaše omrežje.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Če vaš protivirusni program vključuje možnost pregledovanja šifriranih povezav (pogosto imenovano "spletna zaščita" ali "pregledovanje HTTPS"), jo poskusite onemogočiti. Če to ne odpravi težave, lahko protivirusni program odstranite in znova namestite.'>
@@ -247,14 +192,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Če ne poznate <span class='mitm-name'/>, gre morda za napad in raje ne nadaljujte na spletno stran.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Če ne poznate <span class='mitm-name'/>, gre morda za napad in do spletne strani ne morete dostopati.">
 
-<!ENTITY clockSkewError.title "Nastavitev ure vašega računalnika je napačna">
-
 <!ENTITY clockSkewError.longDesc "Vaš računalnik misli, da smo <span id='wrongSystemTime_systemDate1'/>, kar &brandShortName;u preprečuje varno povezavo. Da boste lahko obiskali <span class='hostname'></span>, v nastavitvah sistema nastavite uro računalnika na trenutni datum in čas ter časovni pas, nato osvežite <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?">
 <!ENTITY prefReset.label "Obnovi privzete nastavitve">
-
-<!ENTITY networkProtocolError.title "Napaka omrežnega protokola">
 
 <!ENTITY enableTls10.longDesc "To spletno mesto ne podpira protokola TLS 1.2, ki je najnižja različica, podprta v &brandShortName;u. Če omogočite TLS 1.0 in 1.1, bo povezava morda uspela.">
 <!ENTITY enableTls10.note "TLS 1.0 in TLS 1.1 bosta v prihodnji izdaji trajno onemogočena.">

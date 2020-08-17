@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Izhod iz celozaslonskega načina
 find = Najdi
 new-tab = Nov zavihek
 add-bookmark = Dodaj zaznamek
-open-bookmarks-sidebar = Odpri stransko vrstico zaznamkov
 reader-view = Bralni pogled
 # Meant to match the string displayed in an empty URL bar.
 open-location = Iskanje ali naslov strani

@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Izjeme – Zavračanje vsebine
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Zavračanje vsebine na teh spletnih straneh je onemogočeno.
-
 permissions-exceptions-etp-window =
     .title = Izjeme za izboljšano zaščito pred sledenjem
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati dodatke. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Izjeme – Samodejno predvajanje
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Določite lahko, katere strani smejo vedno samodejno predvajati vsebine z zvokom in katere jih ne smejo nikoli. Vnesite točen naslov strani in kliknite gumb Prepovej ali Dovoli.
 
 ## Site Permissions - Autoplay
 

@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Nastavitev obstoječega e-poštnega računa">
-
 <!ENTITY emailWizard.title               "Nastavite obstoječi e-poštni naslov">
 <!ENTITY emailWizard.caption             "Uporabi svoj trenutni e-poštni naslov">
 <!ENTITY name.label                      "Vaše ime:">
 <!ENTITY name.accesskey                  "m">
-<!ENTITY name.placeholder                "Ime Priimek">
 <!ENTITY fullname.placeholder            "Vaše polno ime">
 <!ENTITY name.text                       "Vaše ime, s katerim se predstavljate">
 <!ENTITY name.error                      "Vnesite svoje ime">
 <!ENTITY email.label                     "E-poštni naslov:">
 <!ENTITY email.accesskey                 "E">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "vi@example.com">
 <!ENTITY email3.placeholder              "Vaš e-poštni naslov">
 <!ENTITY email.text                      "Vaš obstoječi e-poštni naslov">
 <!ENTITY email.error                     "Neveljaven e-poštni naslov">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Odhodni:">
 <!ENTITY outgoingColumn.label            "Odhodni">
 <!ENTITY username.label                  "Uporabniško ime:">
-<!ENTITY hostname.label                  "Ime strežnika">
-<!ENTITY port.label                      "Vrata">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Strežnik:">
 <!ENTITY portRow.label                   "Vrata:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ponovno preskusi">
 <!ENTITY half-manual-test.accesskey      "P">
-<!ENTITY manual-edit.label               "Ročna nastavitev">
-<!ENTITY manual-edit.accesskey           "R">
 <!ENTITY manual-config.label             "Nastavi ročno …">
 <!ENTITY manual-config.accesskey         "r">
 <!ENTITY open-provisioner.label          "Pridobite nov e-poštni naslov …">

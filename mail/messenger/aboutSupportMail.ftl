@@ -14,5 +14,7 @@ accounts-conn-security = Varnost povezave
 accounts-auth-method = Metoda overitve
 accounts-default = Privzeto?
 identity-name = Identiteta
+
 send-via-email = Pošlji po e-pošti
+
 app-basics-telemetry = Telemetrija

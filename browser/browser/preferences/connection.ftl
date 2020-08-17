@@ -35,12 +35,7 @@ connection-proxy-http = Posrednik HTTP
     .accesskey = H
 connection-proxy-http-port = Vrata
     .accesskey = v
-connection-proxy-http-share =
-    .label = Uporabi istega posrednika za vse protokole
-    .accesskey = o
 
-connection-proxy-ssl = Posrednik SSL
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Uporabi ta posrednik tudi za FTP in HTTPS
     .accesskey = U

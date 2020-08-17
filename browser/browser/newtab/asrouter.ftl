@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Poskusite možnost: Pripni zavihek
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zakaj vidim to
+
 cfr-doorhanger-extension-cancel-button = Ne zdaj
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Dodaj zdaj
     .accesskey = D
 cfr-doorhanger-pintab-ok-button = Pripni ta zavihek
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Upravljaj nastavitve priporočil
     .accesskey = U
+
 cfr-doorhanger-extension-never-show-recommendation = Ne prikazuj tega priporočila
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Več o tem
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = — { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Priporočilo
 cfr-doorhanger-extension-notification2 = Priporočilo
     .tooltiptext = Priporočilo razširitve
     .a11y-announcement = Na voljo je priporočilo razširitve
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Priporočilo
@@ -63,6 +71,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } uporabniki
        *[other] { $total } uporabnikov
     }
+
 cfr-doorhanger-pintab-description = Ohranite si preprost dostop do strani, ki jih najpogosteje uporabljate. Obdržite jih odprte v zavihkih (tudi po ponovnem zagonu).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -70,8 +79,10 @@ cfr-doorhanger-pintab-description = Ohranite si preprost dostop do strani, ki ji
 cfr-doorhanger-pintab-step1 = <b>Desno-kliknite</b> zavihek, ki ga želite pripeti.
 cfr-doorhanger-pintab-step2 = V meniju izberite <b>Pripni zavihek</b>.
 cfr-doorhanger-pintab-step3 = Ko se spletna stran posodobi, vas pripet zavihek na to opozori z modro piko.
+
 cfr-doorhanger-pintab-animation-pause = Premor
 cfr-doorhanger-pintab-animation-resume = Nadaljuj
+
 
 ## Firefox Accounts Message
 
@@ -93,20 +104,26 @@ cfr-protections-panel-link-text = Več o tem
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Novost:
+
 cfr-whatsnew-button =
     .label = Novosti
     .tooltiptext = Novosti
+
 cfr-whatsnew-panel-header = Novosti
+
 cfr-whatsnew-release-notes-link-text = Preberite opombe ob izdaji
+
 cfr-whatsnew-fx70-title = { -brand-short-name } se zdaj še močneje bori za vašo zasebnost
 cfr-whatsnew-fx70-body =
     Najnovejša posodobitev izboljšuje možnost zaščite pred sledenjem in omogoča
     lažje ustvarjanje varnih gesel za vse strani, kot kdajkoli prej.
+
 cfr-whatsnew-tracking-protect-title = Zaščitite se pred sledilci
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } zavrača številne sledilce družbenih omrežij in spletne sledilce, 
     ki sledijo vaši spletni dejavnosti.
 cfr-whatsnew-tracking-protect-link-text = Oglejte si svoje poročilo
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -119,9 +136,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Prikaži poročilo
+
 cfr-whatsnew-lockwise-backup-title = Varnostno kopirajte gesla
 cfr-whatsnew-lockwise-backup-body = Ustvarite varna gesla, do katerih lahko dostopate kjerkoli se prijavite.
 cfr-whatsnew-lockwise-backup-link-text = Vklopite varnostne kopije
+
 cfr-whatsnew-lockwise-take-title = Vzemite gesla s seboj
 cfr-whatsnew-lockwise-take-body =
     Mobilna aplikacija { -lockwise-brand-short-name } vam omogoča varen dostop do 
@@ -159,6 +178,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Sledilcev prstnih odtisov zavrnjenih
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } zavrača številne sledilce prstnih odtisov, ki skrivaj zbirajo podatke o vaši napravi in dejanjih ter ustvarjajo vaš oglaševalski profil.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Sledilci prstnih odtisov
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } lahko zavrača sledilce prstnih odtisov, ki skrivaj zbirajo podatke o vaši napravi in dejanjih ter ustvarjajo vaš oglaševalski profil.
@@ -221,6 +241,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Prikaži vse
     .accesskey = P
+
 cfr-doorhanger-milestone-close-button = Zapri
     .accesskey = Z
 

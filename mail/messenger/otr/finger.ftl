@@ -4,7 +4,9 @@
 
 finger-fingerprint =
     .label = Prstni odtis
+
 finger-remove =
     .label = Odstrani izbrane
+
 finger-remove-all =
     .label = Odstrani vse

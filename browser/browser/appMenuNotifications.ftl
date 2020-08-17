@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Upravljajte dodatke s klikom na <image data
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dovoli, da se ta razširitev izvaja v zasebnih oknih
     .accesskey = D
-appmenu-addon-private-browsing =
-    .label = Sprememba delovanja razširitev v zasebnih oknih
-    .buttonlabel = Upravljaj razširitve
-    .buttonaccesskey = U
-    .secondarybuttonlabel = Razumem
-    .secondarybuttonaccesskey = z
-appmenu-addon-private-browsing-message = Nove razširitve, ki jih boste dodali v { -brand-shorter-name }, ne bodo delovale v zasebnih oknih, razen če to dovolite v možnostih.
-appmenu-addon-private-browsing-learn-more = Več o upravljanju možnosti razširitev.
     
 appmenu-new-tab-controlled =
     .label = Stran novega zavihka se je spremenila.

@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "sporočil">
 <!ENTITY alwaysAuthenticate.label "Ob povezavi na ta strežnik vedno zahtevaj overitev">
 <!ENTITY alwaysAuthenticate.accesskey "o">
-<!ENTITY newsrcFilePath.label "Datoteka newsrc:">
-<!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
 <!ENTITY newsrcFilePath1.label "Datoteka news.rc:">
 <!ENTITY newsrcPicker1.label "Izberi datoteko news.rc">
 <!ENTITY abbreviate.label "Pokaži imena novičarskih skupin v podoknu Mapa za pošto kot:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Napredno …">
 <!ENTITY advancedButton.accesskey "N">
 <!ENTITY serverDefaultCharset2.label "Privzeto kodiranje besedila:">
-<!ENTITY localPath.label "Krajevni imenik:">
 <!ENTITY localPath1.label "Krajevna mapa:">
 <!ENTITY localFolderPicker.label "Izberi krajevni imenik">
 <!ENTITY browseFolder.label "Prebrskaj …">
