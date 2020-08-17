@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Khetha ifayela…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.deleteDomainData.label     "Khohlwa ngaleli sayithi">
-<!ENTITY cmd.deleteDomainData.accesskey "n">
-
-<!ENTITY cmd.open.label                  "Vula">
-<!ENTITY cmd.open.accesskey              "V">
-<!ENTITY cmd.open_window.label           "Vula efasiteleni elisha">
-<!ENTITY cmd.open_window.accesskey       "e">
-
-
-<!ENTITY cmd.open_tab.label              "Vula kumaki elisha">
-<!ENTITY cmd.open_tab.accesskey          "m">
-<!ENTITY cmd.open_all_in_tabs.label      "Vula konke kumamaki">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "m">
-
-<!ENTITY cmd.properties.label      "Izici">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Hlunga ngegama">
-<!ENTITY cmd.sortby_name.accesskey          "H">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Uphawu lokubekisa olusha…">
-<!ENTITY cmd.new_bookmark.accesskey        "l">
-<!ENTITY cmd.new_folder.label              "Ifolda entsha…">
-<!ENTITY cmd.new_folder.accesskey          "n">
-<!ENTITY cmd.context_new_folder.accesskey  "f">
-<!ENTITY cmd.new_separator.label           "Isehlukanisi esisha">
-<!ENTITY cmd.new_separator.accesskey       "h">
 
 <!ENTITY col.name.label          "Igama">
 <!ENTITY col.tags.label          "Amamaki">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Khetha into ezobukwa bese uhlela izakhiwo zayo">
 
-<!ENTITY view.label               "Bheka">
-<!ENTITY view.accesskey           "k">
-<!ENTITY byDate.label             "Ngo suku">
-<!ENTITY byDate.accesskey         "s">
-<!ENTITY bySite.label             "Ngesayithi">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Ngokuvakashelwe kakhulu">
-<!ENTITY byMostVisited.accesskey  "v">
-<!ENTITY byLastVisited.label      "Ngokugcine kuvakashelwe">
-<!ENTITY byLastVisited.accesskey  "g">
-<!ENTITY byDayAndSite.label       "Ngosuku nangesayithi">
-<!ENTITY byDayAndSite.accesskey   "s">

@@ -14,6 +14,7 @@ pw-erased-ok = Ulicishile Igama Lakho Lokungena Eliphethe. { pw-empty-warning }
 pw-not-wanted = Isixwayiso! Unqume ukungalisebenzisi Igama Lokungena Eliphethe. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Njengamanje usebenza nge-FIPS. I-FIPS idinga Igama Lokungena Eliphethe elinotho.
+
 pw-change-success-title = Ukushintsha Igama Lokungena Kuphumelele
 pw-change-failed-title = Ukushintsha Igama Lokungena Kuhlulekile
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Shintsha Igama Lokungena Eliphethe
+
 set-password-old-password = Igama lokungena lamanje:
 set-password-new-password = Bhala igama lokungena elisha:
 set-password-reenter-password = Bhala kabusha igama lokungena:
@@ -31,6 +33,7 @@ master-password-warning = Siza uqikelele ukuthi uyalikhumbula iGama Lokungena ol
 
 remove-password =
     .title = Susa Igama Lokungena Eliphethe
+
 remove-info =
     .value = Kumelwe ufake igama lakho lokungena elisebenzayo ukuze uqhubeke:
 remove-warning1 = Igama lakho Eliphethe lisetshenziselwa ukuvikela ukwaziswa okubucayi njengamagama okungena ezingosini.

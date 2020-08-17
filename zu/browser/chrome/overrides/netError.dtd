@@ -12,72 +12,40 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Ayikwazi Ukuxhuma">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Leli kheli livinjelwe">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "Ifayela alitholakali">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Hlola igama lefayela ukuthi osonhlamvukazi babhalwe kahle namanye amaphutha okubhala.</li> <li>Hlola ubone ukuthi ifayela aliyiswanga kwenye indawo, laqanjwa futhi noma lasuswa.</li> </ul>">
 
 
-
-<!ENTITY generic.title "Hayi bo.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; alikwazi ukulayisha leli khasi ngenxa yesizathu esithile.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Ukuxhumana kuphazamisekile">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Umbalo uphelelwe isikhathi">
 
 <!ENTITY notCached.longDesc "<p>Umbhalo oceliwe awutholakali esilondolozini se-&brandShortName;</p><ul><li>Njesiqaphelisi sokuphepha, i-&brandShortName; ayiceli kabusha ngokuzenzakalela imibhalo ezwela  kakhulu.</li><li>Qhofoza u-Zama Futhi ukuze ucele kabusha umbhalo kusuka kuwebhusayithi.</li></ul>">
 
-<!ENTITY netOffline.title "Ayikho ku-inthanethi">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Chofoza u-&quot;Zama futhi&quot; ukushintshela kundlela eku-inthanethi futhi ulayishe kabusha ikhasi.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Iphutha lokubhala ngemfihlo okuqukethwe">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga</li>  </ul>">
 
-<!ENTITY unsafeContentType.title "Uhlobo lwefayela elingaphephile">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li> </ul>">
-
-<!ENTITY netReset.title "Ukuxhumana kuqaliswe phansi">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Ukuxhumana kuphelelwe isikhathi">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Leli kheli aliqondakalanga">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul>  <li>Kungase kudingeke ukuba ufakele olunye uhlaka olusetshenziswayo ukuze uvule leli kheli.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Iseva ye-proxy iyenqaba ukuxhuma">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> <li>Thintana nomphathi wenethiwekhi yakho ukuze uqiniseke ukuthi iseva ye-proxy  iyasebenza.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Ayikwazi ukuthola iseva ye-proxy">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> <li>Hlola ukuze uqiniseka ukuthi ikhompyutha yakho ixhume kunethiwekhi esebenzayo.</li> <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi &brandShortName; livunyelwe ukungena kuwebhu</li> </ul>">
 
-<!ENTITY redirectLoop.title "Leli khasi aliqondile kahle kwenye indawo">
-
 <!ENTITY redirectLoop.longDesc "<ul>  <li>Le nkinga ngezinye izikhathi ingase ibangelwe ukwenza angasebenzi noma ukwenqaba ukwamukela amakukizi.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Impendulo engalindelekile evela kwi seva">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Hlola ukuze uqiniseke ukuthi uhlelo lwakho lunoMqondisi wokuvikela Okungowakho ofakelwe.</li> <li>Lokhu kungase kubangelwe isimo esingafani nezinye esikuseva.</li> </ul>">
 
@@ -89,17 +57,11 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Kungenzeka ukuthi le ngosi ayitholakali okwesikhashana noma imatasa kakhulu. Phinda uzame ngemva kwesikhashana.</li> <li>Uma ungakwazi ukulayisha amakhasi athile, hlola ukuthi ikhompyutha  yakho ixhumekile kunethiwekhi.</li> <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi &brandShortName; ivunyelwe ukungena kuwebhu.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Iphutha lokuqukethwe elimoshekile">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">
 
 
-
-<!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li></ul></p>">
 

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Yamukela Ongakhetha Kukho, Okokuphawula, Umlando, Amagama Okungena nokunye ukwaziswa kuvela:">
 <!ENTITY importFromUnix.label           "Yamukela Okuthandwayo, Okokuphawula, Umlando, Amagama Okungena nokunye ukwaziswa kuvela:">
-<!ENTITY importFromBookmarks.label      "Yamukela Okokuphawula kuvela:">
 
 <!ENTITY importFromIE.label             "IMicrosoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

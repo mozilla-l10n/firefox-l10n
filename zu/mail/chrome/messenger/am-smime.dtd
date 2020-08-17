@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Ukulondeka">
-<!ENTITY securityHeading.label "Ukuze uthumele futhi wamukele imiyalezo esayiniwe noma esayinwe ngezimpawu, kufanele uchaze ngokuqondile kokubili isitifiketi sokusayina ngezimpawu kanye nesitifiketi sokusayina ngamakhodi.">
-<!ENTITY encryptionGroupTitle.label "Ukubhala Ngamakhodi">
-<!ENTITY encryptionChoiceLabel.label "Yenza uhlelo lokubhala ngamakhodi lusebenze ngendlela evamile lapho uthumela imiyalezo:">
-<!ENTITY neverEncrypt.label "Ungalokothi (ungabhali ngamakhodi)">
-<!ENTITY alwaysEncryptMessage.label "Okudingekayo (imiyalezo ngeke ithunyelwe ngaphandle kokuba bonke abantu abayitholile benezitifiketi)">
-<!ENTITY encryptionCert.message "Sebenzisa lesitifiketi ukuba ubhale ngamakhodi &amp; cacisa amakhodi emiyalezo ethunyelwe kuwe:">
-
 <!ENTITY signingGroupTitle.label "Ukusayina Ngezimpawu">
-<!ENTITY signMessage.label "Sayina imiyalezo ngezimpawu ezithile (kwenzeke ngendlela efanayo)">
-<!ENTITY signingCert.message "Sebenzisa lesitifiketi ukuba usayine ngezimpawu ezithile imiyalezo oyithumelayo:">
-
-<!ENTITY certificates.label "Izitifiketi">
 

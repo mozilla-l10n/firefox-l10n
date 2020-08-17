@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Izinketho
-           *[other] Okuthandwayo
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Izinketho
@@ -286,8 +279,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = Imigomo yokusebenza
-
 ## Privacy Section
 
 
@@ -308,6 +299,7 @@ forms-master-pw-change =
     .accesskey = e
 
 forms-master-pw-fips-title = Njengamanje usebenza nge-FIPS. I-FIPS idinga Igama Lokungena Eliphethe elinotho.
+
 forms-master-pw-fips-desc = Ukushintsha Igama Lokungena Kuhlulekile
 
 ## OS Authentication dialog
@@ -383,6 +375,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Izitifiketi
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

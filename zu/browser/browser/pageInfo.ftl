@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = Gcina Ngokuthi…
     .accesskey = e
-media-preview =
-    .value = Indlela Umthombo Wezindaba Obukeka Ngayo:
 
 perm-tab =
     .label = Izimvume
@@ -107,7 +105,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Akwaziwa
-not-set-verified-by = Akushiwongo ngokuqondile
 page-info-not-specified =
     .value = Akushiwongo ngokuqondile
 not-set-alternative-text = Akushiwongo ngokuqondile
@@ -132,7 +129,6 @@ general-quirks-mode =
     .value = Isimo esingavamile
 general-strict-mode =
     .value = Isimo sokulandela izimiso
-security-no-owner = Le webhu sayithi ayinikeli ngemininingwane yobunikazi.
 page-info-security-no-owner =
     .value = Le webhu sayithi ayinikeli ngemininingwane yobunikazi.
 media-select-folder = Khetha ifolda ozogcina kuyo izithombe
