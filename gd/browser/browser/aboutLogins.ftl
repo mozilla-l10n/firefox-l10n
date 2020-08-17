@@ -72,6 +72,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = A’ lorg nan clàraidhean a-steach a shàbhail thu? Suidhich { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Cha deach clàradh a-steach sioncronaichte a lorg.
 login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
 login-intro-instruction-fxa = Cruthaich { -fxaccount-brand-name } no clàraich a-steach dha air an uidheam far an deach na clàraidhean a-steach agad a shàbhaladh
@@ -127,6 +128,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = lethbhreac a dhèanam
 ## Master Password notification
 
 master-password-notification-message = Cuir a-steach am facal-faire maighstir agad a dh’fhaicinn nan clàraidhean a-steach ⁊ faclan-faire a shàbhail thu
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Clàraich a-steach
     .accesskey = l
@@ -182,4 +186,6 @@ about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn 
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

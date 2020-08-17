@@ -21,6 +21,9 @@ change-password-reenter = Am faca-faire ùr (a-rithist):
 reset-password-window =
     .title = Falamhaich am prìomh fhacal-faire
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Ath-shuidhich
 reset-password-text = Ma dh'fhalmhaicheas tu am prìomh fhacal-faire, thèid gach facal-faire airson làraichean-lìn is puist-dhealain, dàta fhoirmichean, teisteanasan pearsanta is iuchraichean prìobhaideach air chall. A bheil thu cinnteach gu bheil thu airson am prìomh fhacal-faire agad aiseag?

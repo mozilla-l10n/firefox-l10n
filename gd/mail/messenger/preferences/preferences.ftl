@@ -32,12 +32,6 @@ manage-messenger-languages-button =
 confirm-messenger-language-change-description = Ath-thòisich { -brand-short-name } gus na h-atharraichean seo a chur an sàs
 confirm-messenger-language-change-button = Cuir an sàs is ath-thòisich
 
-update-pref-write-failure-title = Dh’fhàillig an sgrìobhadh
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Cha deach an roghainn a shàbhaladh oir cha b’ urrainn dhuinn sgrìobhadh san fhaidhle: { $path }
-
 addons-button = Leudachain ⁊ ùrlaran
 
 ## OS Authentication dialog

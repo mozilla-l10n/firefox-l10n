@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Gluais gu uinneag ùr
     .accesskey = G
-undo-close-tab =
-    .label = Neo-dhèan dùnadh an taba
-    .accesskey = N
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Dùin an taba
     .accesskey = D

@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Àireamh shreathach
 
 fips-nonempty-password-required = Tha e riatanach sa mhodh FIPS gu bheil prìomh fhacal-faire agad airson gach uidheam tèarainteachd. Suidhich am facal-faire mus feuch thu ris a' mhodh FIPS a chur an comas.
+
 unable-to-toggle-fips = Cha ghabh am modh FIPS airson an uidheim tèarainteachd atharrachadh. Mholar dhut gum fàg thu an-seo 's gun tòisich thu an aplacaid seo a-rithist.
 load-pk11-module-file-picker-title = Choose a PKCS#11 device driver to load
 

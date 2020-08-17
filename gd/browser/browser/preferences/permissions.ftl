@@ -70,11 +70,6 @@ permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Eisgeachdan – Bacadh susbaint
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Chuir thu bacadh susbaint à comas air na làraichean-lìn seo.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraichean-lìn as urrainn dhaibh tuilleadan a stàladh. Cuir a-steach seòladh cruinn na làraich a tha thu airson cead a thoirt dha is briog air "Ceadaich".
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Eisgeachdan – Fèin-chluich
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = ’S urrainn dhut sònrachadh dè na làraichean-lìn aig a bheil cead meadhanan le fuaim a chluich no an fheadhainn nach eil cead. Cuir a-steach seòladh na làraich a tha thu airson stiùireadh is briog air “Bac” no “Ceadaich”.
 
 ## Site Permissions - Autoplay
 

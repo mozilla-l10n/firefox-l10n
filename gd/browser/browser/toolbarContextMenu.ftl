@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Tagh gach taba
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Neo-dhèan dùnadh an taba
-    .accesskey = N
 
 toolbar-context-menu-manage-extension =
     .label = Stiùirich an leudachan

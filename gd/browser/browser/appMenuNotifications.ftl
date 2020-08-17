@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Gus na tuilleadain agad a stiùireadh, brio
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leig leis an leudachan seo ruith ann an uinneagan prìobhaideach
     .accesskey = a
-appmenu-addon-private-browsing =
-    .label = Atharraich gu leudachain ann an uinneagan prìobhaideach
-    .buttonlabel = Stiùirich na leudachain
-    .buttonaccesskey = S
-    .secondarybuttonlabel = Ceart, tha mi agaibh
-    .secondarybuttonaccesskey = C
-appmenu-addon-private-browsing-message = Chan obraich leudachan ùr sam bith a chuireas tu ri { -brand-shorter-name } ann an uinneagan prìobhaideach mur an ceadaich thu seo sna roghainnean.
-appmenu-addon-private-browsing-learn-more = Fiosraich mar a stiùiricheas tu roghainnean nan leudachan
     
 appmenu-new-tab-controlled =
     .label = Chaidh na chì thu air taba ùr atharrachadh.

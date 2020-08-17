@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Ion-phortaich roghainnean, comharran-lìn, eachdraidh, faclan-faire 's dàta eile o:">
 <!ENTITY importFromUnix.label           "Ion-phortaich roghainnean, comharran-lìn, eachdraidh, faclan-faire 's dàta eile o:">
-<!ENTITY importFromBookmarks.label      "Ion-phortaich comharran-lìn o:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

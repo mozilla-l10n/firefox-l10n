@@ -18,19 +18,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Dealbh am broinn deilbh">
 
-<!ENTITY stats.media "Meadhanan">
-<!ENTITY stats.size "Meud">
-<!ENTITY stats.activity "Gnìomhachd">
-<!ENTITY stats.activityPaused "'Na stad">
-<!ENTITY stats.activityPlaying "'Ga chluich">
-<!ENTITY stats.activityEnded "Crìochnaichte">
-<!ENTITY stats.activitySeeking "('ga shireadh)">
-<!ENTITY stats.volume "Àirde na fuaime">
-<!ENTITY stats.framesParsed "Frèamaichean air am parsadh">
-<!ENTITY stats.framesDecoded "Frèamaichean air an dì-chòdachadh">
-<!ENTITY stats.framesPresented "Frèamaichean air an sealltainn">
-<!ENTITY stats.framesPainted "Frèamaichean air am peantadh">
-
 <!ENTITY error.aborted "Sguireadh de luchdadh a' video.">
 <!ENTITY error.network "Sguireadh cluich a' video air sgàth mearachd lìonraidh.">
 <!ENTITY error.decode "Cha ghabh a' video a chluich a chionn 's gu bheil am faidhle coirbte.">
@@ -39,13 +26,6 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.generic "Sguireadh de chluich a' video air sgàth mearachd neo-aithnichte.">
 
 <!ENTITY status.pictureInPicture "Tha a’ video seo a’ cluich sa mhodh dealbh am broinn deilbh.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 seachad de #2">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

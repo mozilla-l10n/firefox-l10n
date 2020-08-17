@@ -5,8 +5,6 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 
-<!ENTITY menu_securityEncryptRequire.label "Crioptaich an teachdaireachd seo">
-
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">

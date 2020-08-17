@@ -14,6 +14,7 @@ pw-erased-ok = Sguab thu às am prìomh fhacal-faire agad.  { pw-empty-warning }
 pw-not-wanted = Rabhadh! Chuir thu romhad gun a bhith a' cleachdadh prìomh fhacal-faire. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
+
 pw-change-success-title = Shoirbhich leat le atharrachadh an fhacail-fhaire
 pw-change-failed-title = Dh'fhàillig atharrachadh an fhacail-fhaire
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Atharraich am prìomh fhacal-faire
+
 set-password-old-password = Am facal-faire làithreach:
 set-password-new-password = Cuir a-steach am facal-faire ùr:
 set-password-reenter-password = Cuir a-steach am facal-faire a-rithist:
@@ -31,6 +33,7 @@ master-password-warning = Dèan cinnteach gun cum thu am prìomh fhacal-faire ag
 
 remove-password =
     .title = Thoir air falbh am prìomh fhacal-faire
+
 remove-info =
     .value = Feumaidh tu am facal-faire làithreach a chur a-steach gus leantainn air adhart:
 remove-warning1 = Thathar a' cleachdadh a' phrìomh fhacail-fhaire agad gus fiosrachadh cugallach mar fhaclan-faire de làraichean a dhìon.

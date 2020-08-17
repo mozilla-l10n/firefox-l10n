@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Ath-dhèan">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "A">
-<!ENTITY cutCmd.label "Gearr às">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "G">
-<!ENTITY copyCmd.label "Dèan lethbhreac">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Cuir ann">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "C">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "A">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Tagh a h-uile">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Lorg...">
 <!ENTITY findBarCmd.accesskey "L">
 <!ENTITY findBarCmd.key "F">
@@ -255,27 +242,8 @@
 <!ENTITY printButton.tooltip "Clò-bhuail an teachdaireachd seo">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 20em;">
-<!ENTITY fromAddr.label "O:">
 <!ENTITY fromAddr.accesskey "O">
-<!ENTITY toAddr.label "Gu:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Freagairt-gu:">
-<!ENTITY newsgroupsAddr.label "Buidheann-naidheachd:">
-<!ENTITY followupAddr.label "Post leanmhainneach gu:">
-<!ENTITY subject.label "Cuspair:">
 <!ENTITY subject.accesskey "s">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "c">
-<!ENTITY attachmentBucketHeader.tooltip "Leòsan nan ceanglachan">
 <!ENTITY attachmentBucketCloseButton.tooltip "Falaich leòsan nan ceanglachan">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

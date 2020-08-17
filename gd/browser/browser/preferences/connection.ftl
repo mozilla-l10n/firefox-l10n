@@ -35,12 +35,6 @@ connection-proxy-http = Progsaidh HTTP
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Cleachd am progsaidh seo airson gach pròtocal
-    .accesskey = s
-
-connection-proxy-ssl = Progsaidh SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Port
     .accesskey = o

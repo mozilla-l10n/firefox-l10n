@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = An-còmhnaidh
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Roghainnean
-           *[other] Roghainnean
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Roghainnean
@@ -430,16 +423,6 @@ update-application-use-service =
     .label = Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh
     .accesskey = C
 
-update-enable-search-update =
-    .label = na h-einnseanan-luirg ùrachadh gu fèin-obrachail
-    .accesskey = e
-
-update-pref-write-failure-title = Fàilligeadh sgrìobhaidh
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Chan urrainn dhuinn an roghainn a shàbhaladh. Cha b’ urrainn dhuinn sgrìobhadh san fhaidhle “{ $path }”
-
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -576,7 +559,6 @@ home-prefs-topsites-description = Na làraichean air an tadhail thu as trice
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = ’Ga mholadh le { $provider }
-home-prefs-recommended-by-description = Sàr-shusbaint o fheadh an lìn, air a phearsantachadh dhut-sa
 ##
 
 home-prefs-recommended-by-learn-more = Mar a dh’obraicheas e
@@ -620,7 +602,6 @@ search-bar-shown =
     .label = Cuir bàr nan lorg ris a’ bhàr-inneal
 
 search-engine-default-header = An t-einnsean-luirg bunaiteach
-search-engine-default-desc = Tagh an t-einnsean-luirg bunaiteach a thèid a chleachdadh ann am bàr an t-seòlaidh is bàr nan lorg.
 
 search-suggestions-option =
     .label = Thoir dhomh molaidhean-luirg
@@ -669,8 +650,6 @@ search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann
 
 ## Containers Section
 
-containers-back-link = « Air ais
-
 containers-header = Tabaichean soithich
 containers-add-button =
     .label = Cuir soitheach ùr ris
@@ -690,14 +669,6 @@ containers-remove-button =
 sync-signedout-caption = Thoir leat an lìon
 sync-signedout-description = Sioncronaich an eachdraidh, na comharran-lìn, na faclan-faire, tuilleadain is roghainnean agad air feadh nan uidheaman agad.
 
-sync-signedout-account-title = Dèan ceangal le { -fxaccount-brand-name }
-sync-signedout-account-create = Nach eil cunntas agad? Dèan toiseach-tòiseachaidh
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = Clàraich a-steach...
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -716,10 +687,6 @@ sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android
 sync-profile-picture =
     .tooltiptext = Atharraich dealbh na pròifil
 
-sync-disconnect =
-    .label = Dì-cheangail...
-    .accesskey = D
-
 sync-manage-account = Stiùirich an cunntas
     .accesskey = n
 
@@ -737,9 +704,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Clàraich a-steach
     .accesskey = t
-
-sync-signedin-settings-header = Roghainnean sioncronachaidh
-sync-signedin-settings-desc = Cuir romhad na thèid a shioncronachadh le { -brand-short-name } air na h-uidheaman agad.
 
 ## Sync section - enabling or disabling sync.
 
@@ -761,11 +725,6 @@ sync-engine-tabs =
     .label = Tabaichean fosgailte
     .tooltiptext = Liosta dhe na tha fosgailte air gach uidheam sioncronaichte
     .accesskey = T
-
-sync-engine-logins =
-    .label = Clàraidhean a-steach
-    .tooltiptext = Ainmean-cleachdaiche is faclan-faire a shàbhail thu
-    .accesskey = l
 
 sync-engine-addresses =
     .label = Seòlaidhean
@@ -809,22 +768,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Ceangail uidheam eile ris
 
-sync-manage-devices = Stiùirich na h-uidheaman
-
-sync-fxa-begin-pairing = Paidhrich uidheam
-
-sync-tos-link = Teirmichean na Seirbheise
-
-sync-fxa-privacy-notice = Sanas prìobhaideachd
-
 ## Privacy Section
 
 privacy-header = Prìobhaideachd a’ bhrabhsair
 
 ## Privacy Section - Forms
 
-
-logins-header = Clàraidhean a-steach ⁊ faclan-faire
 
 ## Privacy Section - Logins and Passwords
 
@@ -850,6 +799,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
+
 forms-master-pw-fips-desc = Dh'fhàillig atharrachadh an fhacail-fhaire
 
 ## OS Authentication dialog
@@ -937,9 +887,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Seòrsa bacte
     .accesskey = t
 
-sitedata-option-block-trackers =
-    .label = Tracaichean threas-phàrtaidhean
-
 sitedata-option-block-unvisited =
     .label = Briosgaidean o làraichean air nach deach tadhal
 sitedata-option-block-all-third-party =
@@ -979,30 +926,7 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Bacadh susbaint
-
-content-blocking-section-description = Dìon do phrìobhaideachd fhad ’s a bhios tu a’ brabhsadh. Bac susbaint neo-fhaicsinneach a thracaicheas na làraichean air an tadhail thu agus a chruthaicheas pròifil dhìot. Ma bhacas tu cuid dhen t-susbaint seo, dh’fhaoidte gun luchdaich duilleagan nas luaithe.
-
 content-blocking-learn-more = Barrachd fiosrachaidh
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Stannardach
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Teann
-    .accesskey = n
-content-blocking-setting-custom =
-    .label = Gnàthaichte
-    .accesskey = G
-
-content-blocking-standard-desc = Cothromachadh eadar dìon is dèanadas. Ceadaichidh seo cuid a thracaichean airson ’s gun obraich làraichean-lìn mar bu chòir.
-content-blocking-strict-description = Dìon nas làidire, dh’fhaoidte gum bris seo cuid a làraichean.
-content-blocking-custom-desc = Tagh na thèid a bhacadh.
-
-content-blocking-private-trackers = Tracaichean as aithne dhuinn ann an uinneagan prìobhaideach a-mhàin
-content-blocking-third-party-cookies = Briosgaidean tracaidh le treas-phàrtaidhean
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1022,23 +946,16 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-all-cookies = Gach briosgaid
 content-blocking-unvisited-cookies = Briosgaidean o làraichean air nach deach tadhal
-content-blocking-all-windows-trackers = Tracaichean as aithne dhuinn anns gach uinneag
 content-blocking-all-third-party-cookies = Gach briosgaid le treas-phàrtaidh
 content-blocking-cryptominers = Criopto-mhèinneadairean
 content-blocking-fingerprinters = Lorgaichean-meur
 
 content-blocking-warning-title = An aire!
-content-blocking-warning-description = Ma bhacas tu susbaint, dh’fhaoidte gum bris seo cuid a làraichean-lìn. Tha e furasta a chur à comas airson làraichean sa bheil earbsa agad.
-content-blocking-learn-how = Barrachd fiosrachaidh
 
 content-blocking-reload-description = Feumaidh tu na tabaichean agad ath-luchdadh mus bi na h-atharraichean seo an sàs.
 content-blocking-reload-tabs-button =
     .label = Ath-luchdaich gach taba
     .accesskey = A
-
-content-blocking-trackers-label =
-    .label = Tracaichean
-    .accesskey = T
 
 content-blocking-tracking-protection-option-all-windows =
     .label = Anns gach uinneag
@@ -1100,14 +1017,6 @@ permissions-notification-link = Barrachd fiosrachaidh
 permissions-notification-pause =
     .label = Cuir am brath ’na stad gus an ath-thòisich { -brand-short-name }
     .accesskey = n
-
-permissions-block-autoplay-media2 =
-    .label = Bac làraichean-lìn o bhith a’ cluich fuaim gu fèin-obrachail
-    .accesskey = B
-
-permissions-block-autoplay-media-exceptions =
-    .label = Eisgeachdan...
-    .accesskey = E
 
 permissions-block-popups =
     .label = Cuir bacadh air priob-uinneagan
@@ -1235,6 +1144,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = b
 
 space-alert-under-5gb-message = Tha an t-àite a’ fàs gann air { -brand-short-name }. Dh’fhaoidte nach dèid an t-susbaint aig làraichean-lìn a shealltainn mar bu chòir. Tadhail air “Barrachd fiosrachaidh” airson feabhas a thoirt air an dòigh air an dèid an diosg agad a chleachdadh airson brabhsadh nas fhearr.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

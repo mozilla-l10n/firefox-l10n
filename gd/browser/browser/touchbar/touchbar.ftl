@@ -12,7 +12,6 @@ fullscreen = Làn-sgrìn
 find = Lorg
 new-tab = Taba ùr
 add-bookmark = Cuir comharra-lìn ris
-open-bookmarks-sidebar = Fosgail bàr-taoibh nan comharra-lìn
 reader-view = An sealladh-leughaidh
 # Meant to match the string displayed in an empty URL bar.
 open-location = Lorg no cuir seòladh ann

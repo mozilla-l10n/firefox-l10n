@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "teachdaireachdan">
 <!ENTITY alwaysAuthenticate.label "Iarr dearbhachadh gach turas a thèid ceangal a dhèanamh ris an fhrithealaiche seo">
 <!ENTITY alwaysAuthenticate.accesskey "I">
-<!ENTITY newsrcFilePath.label "Faidhle newsrc:">
-<!ENTITY newsrcPicker.label "Tagh am faidhle newsrc">
 <!ENTITY abbreviate.label "Seall ainmean nam buidhnean-naidheachd ann an leòs pasgan a' phuist mar:">
 <!ENTITY abbreviateOn.label "Ainmean slàna (Mar eisimpleir, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Ainmean goirid (Mar eisimpleir, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Adhartach…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "An còdachadh teacsa bunaiteach:">
-<!ENTITY localPath.label "Am pasgan ionadail:">
 <!ENTITY localFolderPicker.label "Tagh am pasgan ionadail">
 <!ENTITY browseFolder.label "Brabhsaich…">
 <!ENTITY browseFolder.accesskey "B">

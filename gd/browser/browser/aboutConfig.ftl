@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = An aire, oir an t-saoghail!
-about-config-warning-text = Ma dh’atharraicheas tu na roghainnean adhartach seo, dh’fhaoidte gun cuir thu claon seasmhachd, tèarainteachd agus dèanadas na h-aplacaid seo. Cha bu chòir dhut leantainn air adhart ach ma tha thu eòlach air a leithid a rud.
-about-config-warning-checkbox = Cùm a’ dol a’ sealltainn seo!
-about-config-warning-button = Tha mi leagte ris a’ chunnart
-
-about-config2-title = Roghainnean adhartach
-
-about-config-search-input =
-    .placeholder = Lorg
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Cùm a’ dol ach bidh air d’ fhaiceall
@@ -30,13 +19,6 @@ about-config-page-title = Roghainnean adhartach
 about-config-search-input1 =
     .placeholder = Lorg ainm roghainn
 about-config-show-all = Seall na h-uile
-
-about-config-pref-add = Cuir ris
-about-config-pref-toggle = Toglaich
-about-config-pref-edit = Deasaich
-about-config-pref-save = Sàbhail
-about-config-pref-reset = Ath-shuidhich
-about-config-pref-delete = Sguab às
 
 about-config-pref-add-button =
     .title = Cuir ris

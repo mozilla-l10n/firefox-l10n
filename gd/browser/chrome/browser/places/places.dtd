@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Tagh faidhle…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.deleteDomainData.label     "Dìochuimhnich an làrach seo">
-<!ENTITY cmd.deleteDomainData.accesskey "D">
-
-<!ENTITY cmd.open.label                  "Fosgail">
-<!ENTITY cmd.open.accesskey              "o">
-<!ENTITY cmd.open_window.label           "Fosgail ann an uinneag ùr">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Fosgail ann an uinneag phrìobhaideach ùr">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Fosgail ann an taba ùr">
-<!ENTITY cmd.open_tab.accesskey          "F">
-<!ENTITY cmd.open_all_in_tabs.label      "Fosgail gach duilleag ann an taba">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Roghainnean">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Seòrsaich a-rèir ainm">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Comharra-lìn ùr…">
-<!ENTITY cmd.new_bookmark.accesskey        "C">
-<!ENTITY cmd.new_folder.label              "Pasgan ùr…">
-<!ENTITY cmd.new_folder.accesskey          "P">
-<!ENTITY cmd.context_new_folder.accesskey  "P">
-<!ENTITY cmd.new_separator.label           "Sgaradair ùr">
-<!ENTITY cmd.new_separator.accesskey       "r">
-
 <!ENTITY col.name.label          "Ainm">
 <!ENTITY col.tags.label          "Tagaichean">
 <!ENTITY col.url.label           "Àite">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Uiread nan tadhal">
 <!ENTITY col.dateadded.label     "Air a chruthachadh">
 <!ENTITY col.lastmodified.label  "Atharrachadh mu dheireadh">
-
-<!ENTITY historySearch.placeholder  "Eachdraidh nan lorg">
-<!ENTITY bookmarksSearch.placeholder  "Lorg sna comharran-lìn">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Tagh rud gus fheartan fhaicinn agus an deasachadh">
 
-<!ENTITY view.label               "Seall">
-<!ENTITY view.accesskey           "S">
-<!ENTITY byDate.label             "A-rèir cinn-là">
-<!ENTITY byDate.accesskey         "A">
-<!ENTITY bySite.label             "A-rèir làraich">
-<!ENTITY bySite.accesskey         "A">
-<!ENTITY byMostVisited.label      "A-rèir uiread nan tadhal">
-<!ENTITY byMostVisited.accesskey  "A">
-<!ENTITY byLastVisited.label      "A-rèir an tadhail mu dheireadh">
-<!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "A-rèir cinn-là is làraich">
-<!ENTITY byDayAndSite.accesskey   "A">

@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Sàbhail mar…
     .accesskey = e
-media-preview =
-    .value = Ro-shealladh mheadhanan:
 
 perm-tab =
     .label = Ceadachan
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Tha, na briosgaidean
 security-site-data-no = Chan eil
 
 image-size-unknown = Neo-aithnichte
-not-set-verified-by = Gun sònrachadh
 page-info-not-specified =
     .value = Gun sònrachadh
 not-set-alternative-text = Gun sònrachadh
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Am modh cuilbheartach
 general-strict-mode =
     .value = Am modh gèillidh le stannardan
-security-no-owner = Chan eil an làrach-lìn seo a' nochdadh fiosrachadh mu na sealbhadairean.
 page-info-security-no-owner =
     .value = Chan eil an làrach-lìn seo a' nochdadh fiosrachadh mu na sealbhadairean.
 media-select-folder = Tagh pasgan san dèid na dealbhan a shàbhaladh

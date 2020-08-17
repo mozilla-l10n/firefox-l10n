@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Seòrsa a' phasgain:">
 
 <!ENTITY folderQuotaTab.label                    "Cuota">
-<!ENTITY folderQuotaRoot.label                   "Freumh a' chuota:">
 <!ENTITY folderQuotaUsage.label                  "Cleachdadh:">
 <!ENTITY folderQuotaStatus.label                 "Cor:">
 

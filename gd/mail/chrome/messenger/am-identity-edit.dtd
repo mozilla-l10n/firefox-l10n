@@ -5,8 +5,6 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 
-<!ENTITY identityDialog.style "min-width: 85ch;">
-
 <!ENTITY identityListDesc.label "Rèitich roghainnean na dearbh-aithne seo:">
 
 <!ENTITY settingsTab.label       "Roghainnean">
