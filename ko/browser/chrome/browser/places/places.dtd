@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "파일 선택…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "이 사이트 기억 안 함">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "열기">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "새 창에 열기">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "새 사생활 보호 창에 열기">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "새 탭에 열기">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "탭에 모두 열기">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "속성">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "이름순 정렬">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "새 북마크…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "새 폴더…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "새 구분자">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "이름">
 <!ENTITY col.tags.label          "태그">
 <!ENTITY col.url.label           "주소">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "방문 횟수">
 <!ENTITY col.dateadded.label     "저장일">
 <!ENTITY col.lastmodified.label  "마지막 수정일">
-
-<!ENTITY historySearch.placeholder  "기록 검색">
-<!ENTITY bookmarksSearch.placeholder  "북마크 검색">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "속성을 보고 편집할 항목을 선택하세요">
 
-<!ENTITY view.label               "보기">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "날짜순">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "사이트순">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "자주 방문순">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "마지막 방문순">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "날짜 및 사이트순">
-<!ENTITY byDayAndSite.accesskey   "t">

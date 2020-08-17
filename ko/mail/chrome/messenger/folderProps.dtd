@@ -64,7 +64,6 @@
 <!ENTITY folderType.label                        "폴더 형식:">
 
 <!ENTITY folderQuotaTab.label                    "용량">
-<!ENTITY folderQuotaRoot.label                   "인용 위치:">
 <!ENTITY folderQuotaUsage.label                  "사용:">
 <!ENTITY folderQuotaStatus.label                 "상태:">
 

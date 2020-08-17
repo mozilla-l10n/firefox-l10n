@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "편집">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "실행 취소">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "재실행">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "잘라내기">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "복사">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "붙여넣기">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "p">
 <!ENTITY deleteCmd.label          "삭제">
 <!ENTITY deleteCmd.accesskey        "d">
-<!ENTITY selectAllCmd.label          "모두 선택">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "A">
 <!ENTITY preferencesCmd2.label "설정…">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "설정">

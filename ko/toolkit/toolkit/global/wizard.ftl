@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < 뒤로
     .accesskey = B
+
 wizard-macos-button-next =
     .label = 다음
     .accesskey = C
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = 다음 >
     .accesskey = N
+
 wizard-macos-button-finish =
     .label = 완료
 wizard-linux-button-finish =
     .label = 완료
 wizard-win-button-finish =
     .label = 완료
+
 wizard-macos-button-cancel =
     .label = 취소
 wizard-linux-button-cancel =

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = 핑 데이터 소스:
-about-telemetry-show-current-ping-data = 현재 핑 데이터
 about-telemetry-show-current-data = 현재 데이터
 about-telemetry-show-archived-ping-data = 저장된 핑 데이터
 about-telemetry-show-subsession-data = 하위 세션 데이터 보기
@@ -75,7 +74,6 @@ about-telemetry-settings-explanation = Telemetry가 { about-telemetry-data-type 
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 각 정보 조각들은 “<a data-l10n-name="ping-link">핑</a>“로 번들되어 보내집니다. 지금은 { $name }, { $timestamp } 핑을 보고 있습니다.
-about-telemetry-ping-details-current = 각 정보 조각들은 “<a data-l10n-name="ping-link">핑</a>“로 번들되어 보내집니다. 지금은 현재 핑을 보고 있습니다.
 about-telemetry-data-details-current = 각 정보는 "<a data-l10n-name="ping-link">핑</a>"에 묶여 전송됩니다. 현재의 데이터를 보고 계십니다.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -101,8 +99,6 @@ about-telemetry-no-search-results-all = 죄송합니다! “{ $searchTerms }”�
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = 죄송합니다! “{ $sectionName }”에 현재 데이터가 없습니다.
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = 현재 핑
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = 현재 데이터
 # used in the “Ping Type” select

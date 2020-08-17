@@ -14,5 +14,7 @@ accounts-conn-security = 연결 보안
 accounts-auth-method = 인증 방법
 accounts-default = 기본값?
 identity-name = 아이디
+
 send-via-email = 이메일로 보내기
+
 app-basics-telemetry = 원격 측정 데이터

@@ -5,50 +5,66 @@
 permissions-window =
     .title = 예외 사이트
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = 웹 사이트 주소
     .accesskey = d
+
 permissions-block =
     .label = 차단
     .accesskey = B
+
 permissions-session =
     .label = 세션 허용
     .accesskey = S
+
 permissions-allow =
     .label = 허용
     .accesskey = A
+
 permissions-site-name =
     .label = 웹 사이트
+
 permissions-status =
     .label = 상태
+
 permissions-remove =
     .label = 웹 사이트 삭제
     .accesskey = R
+
 permissions-remove-all =
     .label = 모든 웹 사이트 삭제
     .accesskey = e
+
 permissions-button-cancel =
     .label = 취소
     .accesskey = C
+
 permissions-button-ok =
     .label = 변경 내용 저장
     .accesskey = S
+
 permissions-autoplay-menu = 모든 웹 사이트의 기본값:
+
 permissions-searchbox =
     .placeholder = 웹 사이트 검색
+
 permissions-capabilities-autoplay-allow =
     .label = 오디오 및 비디오 허용
 permissions-capabilities-autoplay-block =
     .label = 오디오 차단
 permissions-capabilities-autoplay-blockall =
     .label = 오디오 및 비디오 차단
+
 permissions-capabilities-allow =
     .label = 허용
 permissions-capabilities-block =
     .label = 차단
 permissions-capabilities-prompt =
     .label = 항상 물어보기
+
 permissions-capabilities-listitem-allow =
     .value = 허용
 permissions-capabilities-listitem-block =
@@ -63,10 +79,6 @@ permissions-invalid-uri-label = 유효한 호스트명을 입력하세요.
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = 예외 - 콘텐츠 차단
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = 이 웹 사이트에서 콘텐츠 차단을 비활성화했습니다.
 permissions-exceptions-etp-window =
     .title = 향상된 추적 방지 기능에 대한 예외
     .style = { permissions-window.style }
@@ -101,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 누르세요.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = 예외 - 자동 재생
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = 어떤 웹 사이트가 자동으로 소리가 있는 미디어를 항상 재생할지 안 할지를 설정할 수 있습니다. 관리할 웹 사이트의 주소를 정확히 입력하고 차단이나 허용을 누르세요.
 
 ## Site Permissions - Autoplay
 

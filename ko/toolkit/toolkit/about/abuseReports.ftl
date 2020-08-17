@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = 취소
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = 내 컴퓨터 및 데이터를 손상시킵니다
-
 abuse-report-damage-reason-v2 = 컴퓨터가 손상되었거나 데이터가 손상되었습니다
 abuse-report-damage-example = 예: 주입된 멀웨어 또는 도난된 데이터
 
-abuse-report-spam-reason = 스팸 또는 광고를 만듭니다
-
 abuse-report-spam-reason-v2 = 스팸을 포함하거나 원치 않는 광고를 삽입합니다
 abuse-report-spam-example = 예: 웹 페이지에 광고 삽입
-
-abuse-report-settings-reason = 알림이나 요청 없이 검색 엔진, 홈페이지 또는 새 탭을 변경했습니다
 
 abuse-report-settings-reason-v2 = 나에게 알리거나 묻지 않고 검색 엔진, 홈페이지 또는 새 탭을 변경했습니다
 abuse-report-settings-suggestions = 확장 기능을 신고하기 전에 설정을 변경해보세요:
 abuse-report-settings-suggestions-search = 기본 검색 설정 변경
 abuse-report-settings-suggestions-homepage = 홈페이지 및 새 탭 변경
 
-abuse-report-deceptive-reason = 위장합니다
-
 abuse-report-deceptive-reason-v2 = 위장합니다
 abuse-report-deceptive-example = 예: 오해의 소지가 있는 설명 또는 이미지
-
-abuse-report-broken-reason-extension = 작동하지 않거나 웹 사이트를 손상시키거나 { -brand-product-name }를 느리게합니다
-abuse-report-broken-reason-theme = 작동하지 않거나 브라우저 표시를 손상시킵니다
 
 abuse-report-broken-reason-extension-v2 = 작동하지 않거나, 웹 사이트를 깨지게 하거나, { -brand-product-name }를 느려지게 합니다
 abuse-report-broken-reason-theme-v2 = 작동하지 않거나 브라우저 화면 표시를 깨지게 합니다
@@ -97,14 +86,10 @@ abuse-report-broken-suggestions-theme =
     버그를 발견하신 것 같습니다. 여기에 신고를 하는 것 외에, 기능 문제를 해결하는 가장 좋은 방법은 테마 개발자에게 문의하시는 것입니다.
     개발자 정보를 얻으시려면 <a data-l10n-name="support-link">테마의 웹 사이트를 방문하세요</a>.
 
-abuse-report-policy-reason = 혐오스럽거나 폭력적, 불법 콘텐츠입니다
-
 abuse-report-policy-reason-v2 = 증오, 폭력 또는 불법 콘텐츠가 포함되어 있습니다
 abuse-report-policy-suggestions =
     참고: 저작권 및 상표권 문제는 별도의 절차로 보고해야 합니다.
     문제를 보고하려면 <a data-l10n-name="report-infringement-link">이 지침을 사용하세요</a>.
-
-abuse-report-unwanted-reason = 이 확장 기능을 원하지 않았고 제거 할 수도 없습니다
 
 abuse-report-unwanted-reason-v2 = 내가 원한것도 아니고 제거하는 방법도 모르겠습니다
 abuse-report-unwanted-example = 예: 내 허가 없이 응용 프로그램이 설치됐습니다

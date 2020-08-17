@@ -31,8 +31,6 @@ printpreview-print =
     .accesskey = P
 printpreview-of =
     .value = /
-printpreview-custom-prompt =
-    .value = 사용자 지정 배율…
 printpreview-custom-scale-prompt-title = 사용자 지정 배율
 printpreview-page-setup =
     .label = 페이지 설정…
@@ -59,3 +57,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = 마지막 페이지
+

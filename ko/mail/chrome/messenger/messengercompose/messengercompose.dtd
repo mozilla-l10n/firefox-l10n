@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "재실행">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "잘라내기">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "복사">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "붙여넣기">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "전체 선택">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "찾기…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "이 메시지 인쇄하기">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "보내는 사람:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "다른 종류의 주소 필드">
 <!ENTITY fromAddr2.label "보내는사람">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "받는 사람:">
-<!ENTITY ccAddr.label "참조:">
-<!ENTITY bccAddr.label "숨은 참조:">
-<!ENTITY replyAddr.label "회신 주소:">
-<!ENTITY newsgroupsAddr.label "뉴스 그룹:">
-<!ENTITY followupAddr.label "전달:">
-<!ENTITY subject.label "제목:">
 <!ENTITY toAddr2.label "받는 사람">
 <!ENTITY ccAddr2.label "참조">
 <!ENTITY bccAddr2.label "숨은 참조">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "전달 대상">
 <!ENTITY subject2.label "제목">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "m">
-<!ENTITY attachmentBucketHeader.tooltip "첨부 창">
 <!ENTITY attachmentBucketCloseButton.tooltip "첨부 창 숨기기">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

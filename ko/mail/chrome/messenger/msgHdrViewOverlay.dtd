@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "보관">
 <!ENTITY hdrArchiveButton1.tooltip "이 메시지 보관">
-<!ENTITY hdrOpenConversationButton1.label "대화">
-<!ENTITY hdrOpenConversationButton1.tooltip "이 메시지의 대화 보기">
 <!ENTITY hdrSmartReplyButton1.label "빠른 답장">
 <!ENTITY hdrReplyButton1.label "답장">
 <!ENTITY hdrReplyButton2.tooltip "이 메시지를 보낸 사람에게 답장">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "메일링 리스트로 답장">
 <!ENTITY hdrFollowupButton1.label "팔로우업">
 <!ENTITY hdrFollowupButton1.tooltip "이 뉴스 그룹에 팔로우업 투고">
-<!ENTITY hdrMenuForwardButton.label "다른 이름으로 전달">
 <!ENTITY hdrForwardButton1.label "전달">
 <!ENTITY hdrForwardButton1.tooltip "이 메시지를 전달">
 <!ENTITY hdrJunkButton1.label "스팸 표시">

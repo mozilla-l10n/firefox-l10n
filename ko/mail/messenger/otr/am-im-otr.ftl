@@ -23,4 +23,6 @@ otr-require-encryption-info =
     표시되지 않으며 기록되지 않습니다.
 otr-verifyNudge =
     .label = 확인되지 않은 연락처를 확인하도록 항상 알림
+
 otr-notYetAvailable = 아직 사용할 수 없음
+

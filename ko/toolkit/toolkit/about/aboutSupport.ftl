@@ -4,6 +4,7 @@
 
 page-title = 문제 해결 정보
 page-subtitle = 이 페이지에는 문제 해결에 유용한 기술 정보가 포함되어 있습니다. { -brand-short-name }의 일반적인 질문에 대한 답변은 <a data-l10n-name="support-link">지원 웹 사이트</a>를 확인하세요.
+
 crashes-title = 충돌 보고서
 crashes-id = 보고 ID
 crashes-send-date = 전송됨
@@ -104,8 +105,6 @@ graphics-desktop-environment = 데스크톱 환경
 place-database-title = 위치 데이터베이스
 place-database-integrity = 무결성
 place-database-verify-integrity = 무결성 확인
-js-title = JavaScript
-js-incremental-gc = 인크리멘탈 GC
 a11y-title = 접근성
 a11y-activated = 활성화
 a11y-force-disabled = 접근성 끄기
@@ -125,6 +124,7 @@ sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
 safe-mode-title = 안전 모드 시도
 restart-in-safe-mode-label = 부가 기능을 끄고 다시 시작…
+
 clear-startup-cache-title = 시작 캐시 지우기 시도
 clear-startup-cache-label = 시작 캐시 지우기…
 startup-cache-dialog-title = 시작 캐시 지우기
@@ -135,7 +135,6 @@ restart-button-label = 다시 시작
 
 audio-backend = 오디오 백엔드
 max-audio-channels = 최대 채널
-channel-layout = 기본 채널 레이아웃
 sample-rate = 기본 샘플 비율
 roundtrip-latency = 왕복 지연 시간 (표준 편차)
 media-title = 미디어
@@ -184,18 +183,23 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 지난 { $days }일간의 충돌 보고서
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes }분 전
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours }시간 전
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days }일 전
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = 모든 충돌 보고서 (주어진 시간 범위에 있는 { $reports }개의 보류중인 충돌 포함)
+
 raw-data-copied = 원시 데이터를 클립보드에 복사함
 text-copied = 문자열을 클립보드에 복사함
 
@@ -208,9 +212,11 @@ blocked-mismatched-version = 레지스트리와 DLL간의 그래픽 드라이버
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = 그래픽 드라이버는 그리기 지원이 차단되었습니다.  그래픽 드라이버를 버전 { $driverVersion } 이상으로 업데이트해 보세요.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType 매개 변수
+
 compositing = 합성
 hardware-h264 = 하드웨어 H264 디코딩
 main-thread-no-omtc = 주 스레드, OMTC 아님
@@ -225,6 +231,7 @@ virtual-monitor-disp = 가상 모니터 디스플레이
 
 found = 찾음
 missing = 없음
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = 설명
@@ -248,21 +255,25 @@ webgl2-version = WebGL 2 드라이버 버전
 webgl2-driver-extensions = WebGL 2 드라이버 확장 기능
 webgl2-extensions = WebGL 2 확장 기능
 blocklisted-bug = 알려진 문제로 인해 차단됨
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = 알려진 문제로 인해 차단됨: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = 차단됨; 실패 코드 { $failureCode }
+
 d3d11layers-crash-guard = D3D11 컴포지터
 d3d11video-crash-guard = D3D11 동영상 디코더
-d3d9video-crash-buard = D3D9 동영상 디코더
 d3d9video-crash-guard = D3D9 동영상 디코더
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX 비디오 디코더
+
 reset-on-next-restart = 다음에 다시 시작할 때 초기화
 gpu-process-kill-button = GPU 프로세스 종료
 gpu-device-reset = 기기 초기화
@@ -272,8 +283,10 @@ content-uses-tiling = 타일링(콘텐츠) 사용
 off-main-thread-paint-enabled = 주 스레드 페인팅 끄기 활성화됨
 off-main-thread-paint-worker-count = 주 스레드 페인팅 Worker 카운트 끔
 target-frame-rate = 목표 프레임 레이트
+
 min-lib-versions = 요구되는 최소 버전
 loaded-lib-versions = 사용 중인 버전
+
 has-seccomp-bpf = Seccomp-BPF (시스템 호출 필터링)
 has-seccomp-tsync = Seccomp 스레드 동기화
 has-user-namespaces = 사용자 네임스페이스
@@ -286,15 +299,18 @@ sandbox-proc-type-content = 내용
 sandbox-proc-type-file = 파일 내용
 sandbox-proc-type-media-plugin = 미디어 플러그인
 sandbox-proc-type-data-decoder = 데이터 디코더
+
 startup-cache-title = 시작 캐시
 startup-cache-disk-cache-path = 디스크 캐시 경로
 startup-cache-ignore-disk-cache = 디스크 캐시 무시
 startup-cache-found-disk-cache-on-init = 초기화시 디스크 캐시 찾음
 startup-cache-wrote-to-disk-cache = 디스크 캐시에 기록
+
 launcher-process-status-0 = 활성화됨
 launcher-process-status-1 = 실패로 비활성화됨
 launcher-process-status-2 = 강제로 비활성화됨
 launcher-process-status-unknown = 알 수 없는 상태
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -307,6 +323,7 @@ multi-process-status-6 = 지원되지 않는 텍스트 입력으로 인한 비�
 multi-process-status-7 = 부가 기능에 의해서 비활성화됨
 multi-process-status-8 = 강제로 비활성화됨
 multi-process-status-unknown = 알 수 없는 상태
+
 async-pan-zoom = 비동기 팬 및 확대/축소
 apz-none = 없음
 wheel-enabled = 휠 입력 활성화됨
