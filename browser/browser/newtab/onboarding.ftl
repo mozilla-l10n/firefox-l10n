@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = વધુ શીખો
-onboarding-button-label-try-now = અત્યારે પ્રયત્ન કરો
 onboarding-button-label-get-started = શરૂ કરો
 
 ## Welcome modal dialog strings
@@ -21,8 +20,6 @@ onboarding-button-label-get-started = શરૂ કરો
 onboarding-welcome-header = { -brand-short-name } માં તમારું સ્વાગત છે
 onboarding-welcome-body = તમને બ્રાઉઝર મળ્યો છે.<br/> બાકીના { -brand-product-name } મળો.
 onboarding-welcome-learn-more = ફાયદાઓ વિશે વધુ જાણો.
-
-onboarding-join-form-header = { -brand-product-name } માં જોડાઓ
 
 onboarding-join-form-body = શરુ કરવા માટે તમારું ઇમેઇલ સરનામું દાખલ કરો
 onboarding-join-form-email =
@@ -35,6 +32,13 @@ onboarding-start-browsing-button-label = બ્રાઉઝિંગ શરુ �
 onboarding-cards-dismiss =
     .title = રદ કરો
     .aria-label = રદ કરો
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -59,13 +63,6 @@ onboarding-sync-form-sub-header = { -sync-brand-name } ચાલુ રાખવ
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = ઉપયોગી વસ્તુઓ
-
-onboarding-benefit-knowledge-title = વ્યવહારુ જ્ઞાન
-onboarding-benefit-knowledge-text = સ્માર્ટ અને સુરક્ષિત ઑનલાઇન રહેવા માટે તમારે જાણવાની જરૂર છે તે બધું જાણો.
-
-onboarding-benefit-privacy-title = સાચું ગોપનીયતા
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -73,22 +70,6 @@ onboarding-benefit-privacy-title = સાચું ગોપનીયતા
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = ખાનગી બ્રાઉઝિંગ
-onboarding-private-browsing-text = તમારી જાતે બ્રાઉઝ કરો. સામગ્રી અવરોધિત સાથે કરેલું ખાનગી બ્રાઉઝિંગ એ ઓનલાઇન ટ્રેકર્સ કે જે તમને વેબ પર અનુસરે છે તેમને અવરોધે છે.
-
-onboarding-screenshots-title = સ્ક્રીનશોટ્સ
-onboarding-screenshots-text = { -brand-short-name } દૂર કર્યા સિવાય -  સ્ક્રીનશોટ્સ લો, સાચવો અને વહેંચો. બ્રાઉઝ કરતી વખતે સમગ્ર પાનું અથવા વિસ્તાર આવરી લો. ત્યારબાદ વેબમાં સહેલાઇથી પ્રવેશ કરવા અને વહેંચવા માટે સાચવો.
-
-onboarding-addons-title = ઍડ-ઑન્સ
-onboarding-addons-text = { -brand-short-name } તમારી માટે વધું સારી રીતે કામ કરે તેનાં માટે હજું વધારે લક્ષણો ઉમેરો. વિવિધ થીમનો ઉપયોગ કરીને કિંમતો સરખાવો, હવામાન તપાસો અથવા તમારું વ્યક્તિત્વ દર્શાવો.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Ghostery જેવાં વિસ્તરણ સાથે ઝડપી, વધું બુધ્ધિપૂર્વકનું, અથવા સલામતીભર્યુ બ્રાઉઝ કરો, જે તમને અણગમતી જાહેરાતોને અવરોધવાં દેશે.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = સમન્વય
-onboarding-fxa-text = { -fxaccount-brand-name } માટે સાઇન અપ કરો અને તમે જ્યાં પણ { -brand-short-name } નો ઉપયોગ કરો છો ત્યાં તમારા બુકમાર્ક્સ, પાસવર્ડ્સ અને ખુલ્લા ટૅબ્સને સમન્વયિત કરો.
 
 onboarding-tracking-protection-button2 = તે કેવી રીતે કામ કરે છે
 

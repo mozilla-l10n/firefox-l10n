@@ -12,7 +12,6 @@ fullscreen = સંપૂર્ણસ્ક્રીન
 find = શોધો
 new-tab = નવું ટૅબ
 add-bookmark = બુકમાર્ક ઉમેરો
-open-bookmarks-sidebar = બુકમાર્ક બાજુપટ્ટીને જુઓ
 reader-view = વાંચક જુઓ
 # Meant to match the string displayed in an empty URL bar.
 open-location = સરનામું શોધો અથવા દાખલ કરો

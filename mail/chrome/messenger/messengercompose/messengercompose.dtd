@@ -57,22 +57,14 @@
 <!ENTITY redoCmd.label "ફરીથી કરો">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r"> 
-<!ENTITY cutCmd.label "કાપો">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "નકલ કરો">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c"> 
-<!ENTITY pasteCmd.label "ચોંટાડો">
+<!ENTITY cutCmd.key "X"> 
+<!ENTITY copyCmd.key "C"> 
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "કાઢી નાંખો">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY editRewrapCmd.label "ફરી લપેટો">
-<!ENTITY selectAllCmd.label "બધું પસંદ કરો">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "ફરીથી શોધો">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -176,18 +168,8 @@
 <!ENTITY pasteButton.tooltip            "ચોંટાડો">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY fromAddr.label "તરફથી:">
-<!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "પ્રતિ:"> 
-<!ENTITY ccAddr.label "આને પણ:"> 
-<!ENTITY bccAddr.label "આને પણ ખબર વિના:"> 
-<!ENTITY replyAddr.label "ને જવાબ આપો:"> 
-<!ENTITY newsgroupsAddr.label "સમાચાર જૂથ:"> 
-<!ENTITY followupAddr.label "પ્રતિને અનુસરો:"> 
-<!ENTITY subject.label "વિષય:">
+<!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 

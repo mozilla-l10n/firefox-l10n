@@ -33,7 +33,6 @@
 <!ENTITY folderType.label                             "ફોલ્ડર પ્રકાર:">
 
 <!ENTITY folderQuotaTab.label                               "ક્વોટા">
-<!ENTITY folderQuotaRoot.label                              "ક્વોટા રુટ:">
 <!ENTITY folderQuotaUsage.label                             "વપરાશ:">
 <!ENTITY folderQuotaStatus.label                            "પરિસ્થિતી:">
 

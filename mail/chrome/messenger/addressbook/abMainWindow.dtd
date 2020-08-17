@@ -33,33 +33,10 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "ફેરફાર કરો">
 <!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "છેલ્લું રદ કરો">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
-<!ENTITY redoCmd.label                                  "ફરીથી કરો">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
-<!ENTITY cutCmd.label                                   "કાપો">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "નકલ કરો">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "c">
-<!ENTITY pasteCmd.label                                 "ચોંટાડો">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "કાઢી નાંખો">
-<!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "સરનામા પુસ્તિકા કાઢી નાંખો">
-<!ENTITY selectAllCmd.label                             "બધું પસંદ કરો">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "પ્રથમ/છેલ્લું નામ બદલો">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->

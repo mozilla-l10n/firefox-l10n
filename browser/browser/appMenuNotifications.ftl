@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'>
 appmenu-addon-post-install-incognito-checkbox =
     .label = ખાનગી વિંડોઝમાં આ એક્સ્ટેન્શનને ચલાવવાની મંજૂરી આપો
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = ખાનગી વિંડોઝમાં એક્સ્ટેન્શન્સ બદલો
-    .buttonlabel = એક્સ્ટેંશન્સનો વહીવટ કરો
-    .buttonaccesskey = M
-    .secondarybuttonlabel = ઠીક છે, સમજાઇ ગયું
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = તમે કોઈ પણ નવા એક્સ્ટેન્શન્સને { -brand-shorter-name } માં ઉમેરો છો તે ખાનગી વિંડોઝમાં કાર્ય કરશે નહીં સિવાય કે તમે આ સેટિંગ્સમાં મંજૂરી આપો.
-appmenu-addon-private-browsing-learn-more = એક્સટેંશન સેટિંગ્સ કેવી રીતે સંચાલિત કરવી તે જાણો
     
 appmenu-new-tab-controlled =
     .label = તમારી નવી ટૅબ બદલાઈ ગઈ છે.

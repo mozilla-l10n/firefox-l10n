@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = હંમેશા
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] વિકલ્પો
-           *[other] પસંદગીઓ
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] વિકલ્પો
@@ -422,16 +415,6 @@ update-application-use-service =
     .label = સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો
     .accesskey = b
 
-update-enable-search-update =
-    .label = આપમેળે શોધ એન્જિન અપડેટ કરો
-    .accesskey = e
-
-update-pref-write-failure-title = લખાણ નિષ્ફળ થયું
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = પસંદગી સાચવવામાં અસમર્થ. ફાઇલ પર લખી શકાયુ નહી: { $path }
-
 ## General Section - Performance
 
 performance-title = કામગીરી
@@ -565,7 +548,6 @@ home-prefs-topsites-description = તમે સૌથી વધુ મુલા�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } દ્વારા ભલામણ
-home-prefs-recommended-by-description = તમારા માટે વ્યક્તિગત કરેલ વેબ પરથી, વિખ્યાત સામગ્રી
 ##
 
 home-prefs-recommended-by-learn-more = તે કેવી રીતે કામ કરે છે
@@ -607,7 +589,6 @@ search-bar-shown =
     .label = ટૂલબારમાં શોધ બાર ઉમેરો
 
 search-engine-default-header = મૂળભૂત શોધ એંજીન
-search-engine-default-desc = સરનામાં બાર અને શોધ બારમાં વાપરવા માટે ડિફૉલ્ટ શોધ એંજિન પસંદ કરો.
 
 search-suggestions-option =
     .label = શોધ સૂચનો પૂરા પાડો
@@ -656,8 +637,6 @@ search-keyword-warning-bookmark = તમે પસંદ કરેલ મુખ�
 
 ## Containers Section
 
-containers-back-link = « પાછા જાવ
-
 containers-header = કન્ટેઈનર ટેબ્સ
 containers-add-button =
     .label = નવું કન્ટેઈનર ઉમેરો
@@ -677,14 +656,6 @@ containers-remove-button =
 sync-signedout-caption = તમારું વેબ તમારી સાથે રાખો
 sync-signedout-description = તમારા બધા ઉપકરણો પર તમારા બુકમાર્ક્સ, ઇતિહાસ, ટૅબ્સ, પાસવર્ડ્સ, ઍડ-ઑન્સ અને પસંદગીઓને સમન્વયિત કરો.
 
-sync-signedout-account-title = { -fxaccount-brand-name } સાથે જોડાણ કરો
-sync-signedout-account-create = શું કોઈ ખાતું નથી? શરૂ કરો
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = સાઇન ઇન કરો…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -703,10 +674,6 @@ sync-mobile-promo = ડાઉનલોડ કરો Firefox માટે <img da
 sync-profile-picture =
     .tooltiptext = પ્રોફાઇલ ચિત્ર બદલો
 
-sync-disconnect =
-    .label = જોડાણ તોડી નાખો…
-    .accesskey = D
-
 sync-manage-account = ખાતાને સંચાલિત કરો
     .accesskey = o
 
@@ -724,9 +691,6 @@ sync-remove-account =
 sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
-
-sync-signedin-settings-header = સમન્વયન સેટિંગ્સ
-sync-signedin-settings-desc = તમારા ઉપકરણો પર સમન્વયિત કરવાનું શું પસંદ કરો તે પસંદ કરો { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -748,11 +712,6 @@ sync-engine-tabs =
     .label = ટૅબ્સ ખોલો
     .tooltiptext = બધા સમન્વયિત ઉપકરણો પર શું ખુલ્લું છે તેની સૂચિ
     .accesskey = T
-
-sync-engine-logins =
-    .label = પ્રવેશો
-    .tooltiptext = તમે સાચવેલ વપરાશકર્તાનામો અને પાસવર્ડ્સ
-    .accesskey = L
 
 sync-engine-addresses =
     .label = સરનામાઓ
@@ -796,22 +755,12 @@ sync-device-name-save =
 
 sync-connect-another-device = બીજા ઉપકરણ સાથે જોડાણ કરો
 
-sync-manage-devices = ઉપકરણો સંચાલિત કરો
-
-sync-fxa-begin-pairing = ઉપકરણ જોડો
-
-sync-tos-link = સેવાની મર્યાદાઓ
-
-sync-fxa-privacy-notice = ખાનગી સૂચના
-
 ## Privacy Section
 
 privacy-header = બ્રાઉઝર ગોપનીયતા
 
 ## Privacy Section - Forms
 
-
-logins-header = લૉગ-ઇન્સ અને પાસવર્ડ્સ
 
 ## Privacy Section - Logins and Passwords
 
@@ -837,6 +786,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = તમે હાલમાં FIPS સ્થિતિમાં છો. FIPS માટે ખાલી-નહિં એવો મુખ્ય પાસવર્ડ જરૂરી છે.
+
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
 
 ## OS Authentication dialog
@@ -922,9 +872,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = પ્રકાર અવરોધિત
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = તૃતીય પક્ષ ટ્રેકર
-
 sitedata-option-block-unvisited =
     .label = નાજોયેલી વેબસાઈટની કૂકીઝ
 sitedata-option-block-all-third-party =
@@ -964,27 +911,7 @@ addressbar-suggestions-settings = શોધ એન્જિન સૂચનો �
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = સામગ્રી અવરોધિત
-
 content-blocking-learn-more = વધુ શીખો
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = પ્રમાણભૂત
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = સખત
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = વૈવિધ્યપૂર્ણ
-    .accesskey = C
-
-content-blocking-standard-desc = સુરક્ષા અને પ્રદર્શન માટે સંતુલિત છે. કેટલાક ટ્રેકર્સને મંજૂરી આપે છે જેથી વેબસાઇટ્સ યોગ્ય રીતે કાર્ય કરે.
-content-blocking-custom-desc = શું અવરોધિત છે તે પસંદ કરો
-
-content-blocking-private-trackers = ખાનગી વિન્ડોઝમાં ફક્ત જાણીતા ટ્રૅકર્સ
-content-blocking-third-party-cookies = તૃતીય પક્ષ ટ્રેકિંગ કૂકીઝ
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1003,19 +930,13 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-all-cookies = બધી કૂકીઝ
-content-blocking-all-windows-trackers = બધા વિન્ડોઝમાં જાણીતા ટ્રેકર્સ
 content-blocking-all-third-party-cookies = બધા તૃતીય પક્ષ કૂકીઝ
 
 content-blocking-warning-title = હેડ્સ અપ!
-content-blocking-learn-how = કેવી રીતે તે જાણો
 
 content-blocking-reload-tabs-button =
     .label = બધા ટૅબ્સ ફરીથી લોડ કરો
     .accesskey = R
-
-content-blocking-trackers-label =
-    .label = ટ્રેકર્સ
-    .accesskey = T
 
 content-blocking-tracking-protection-option-all-windows =
     .label = બધા વિન્ડોઝમા માં
@@ -1077,14 +998,6 @@ permissions-notification-link = વધુ શીખો
 permissions-notification-pause =
     .label = { -brand-short-name } પુનઃપ્રારંભે ત્યા સુધી સૂચનાઓ થોભાવો
     .accesskey = n
-
-permissions-block-autoplay-media2 =
-    .label = આપમેળે અવાજ વગાડવાથી વેબસાઇટ્સને અવરોધિત કરો
-    .accesskey = B
-
-permissions-block-autoplay-media-exceptions =
-    .label = અપવાદો…
-    .accesskey = E
 
 permissions-block-popups =
     .label = પોપ-અપ વિન્ડો અટકાવો
@@ -1212,6 +1125,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } ડિસ્ક જગ્યામાંથી બહાર ચાલી રહ્યું છે. વેબસાઈટ વિષયવસ્તુ કદાચ યોગ્ય રીતે દર્શાશે નહીં. સારી બ્રાઉઝિંગ અનુભવ માટે તમારા ડિસ્કનો ઉપયોગ ઑપ્ટિમાઇઝ કરવા "વધુ જાણો" ની મુલાકાત લો.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

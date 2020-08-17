@@ -64,13 +64,6 @@
 <!ENTITY notCached.longDesc "<p>વિનંતી કરેલો દસ્તાવેજ &brandShortName;ના કામચલાઉ સંગ્રહમાં ઉપલબ્ધ નથી.</p><ul><li>સુરક્ષા સાવચેતી તરીકે, &brandShortName; સ્વયંચાલિત પ્રતિબંધિત દસ્તાવેજોને ફરીથી વિનંતિ કરતું નથી.</li><li>વેબસાઇટ પરથી દસ્તાવેજની ફરી વિનંતી કરવા માટે ફરી પ્રયાસ કરો ક્લિક કરો.</li></ul>">
 
 <!ENTITY netOffline.title "ઑફલાઇન સ્થિતિ">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>
-  <li>ફરીથી પ્રયત્ન કરો. &brandShortName; જોડાણ ખોલવાનો પ્રયાસ કરશે અને પૃષ્ઠ ફરીથી લોડ કરશે.
-    <button id='wifi'>WiFi સક્ષમ કરો</button>
-</li>                                                                                                                                                                          
-</ul>">
 
 <!ENTITY contentEncodingError.title "વસ્તુ સંગ્રહપદ્ધતિ ક્ષતિ">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li> </ul>">

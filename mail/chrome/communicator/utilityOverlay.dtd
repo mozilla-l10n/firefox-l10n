@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label					"ફેરફાર કરો"> 
 <!ENTITY editMenu.accesskey				"e"> 
 <!ENTITY undoCmd.label						"છેલ્લી ક્રિયા રદ કરો">  
-<!ENTITY undoCmd.key						"Z">  
 <!ENTITY undoCmd.accesskey					"u"> 
 <!ENTITY redoCmd.label						"ફરીથી કરો">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"r"> 
-<!ENTITY cutCmd.label						"કાપો">  
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"t"> 
-<!ENTITY copyCmd.label						"નકલ કરો">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"c"> 
-<!ENTITY pasteCmd.label						"ચોંટાડો">  
-<!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY redoCmd.accesskey					"r">  
 <!ENTITY deleteCmd.label					"કાઢી નાંખો">  
-<!ENTITY deleteCmd.accesskey				"d"> 
-<!ENTITY selectAllCmd.label					"બધુ પસંદ કરો">  
-<!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY deleteCmd.accesskey				"d">  
 <!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 

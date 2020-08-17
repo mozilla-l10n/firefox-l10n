@@ -21,6 +21,9 @@ change-password-reenter = નવો પાસવર્ડ (ફરીથી):
 reset-password-window =
     .title = મુખ્ય પાસવર્ડ ફરી ગોઠવો
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = પુનઃસુયોજિત કરો
 reset-password-text = જો તમે મુખ્ય પાસવર્ડ બદલશો તો, તમારા બધા વેબ અને ઇ-મેલ પાસવર્ડ, ફોર્મ માહિતી, અંગત પ્રમાણપત્રો અને કી ભુલાઇ જશે. શું તમે ચોક્કસપણે તમારો મુખ્ય પાસવર્ડ બદલવા માંગો છો?
