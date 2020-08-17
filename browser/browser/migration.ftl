@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = אשף הייבוא
+
 import-from =
     { PLATFORM() ->
         [windows] ייבוא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:
        *[other] ייבוא העדפות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:
     }
+
 import-from-bookmarks = ייבוא סימניות מ:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = ‎360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע ססמאות.
+
 import-source-page-title = ייבוא הגדרות ונתונים
 import-items-page-title = פריטים לייבוא
+
 import-items-description = נא לבחור אילו פריטים לייבא:
+
 import-migrating-page-title = מתבצע ייבוא…
+
 import-migrating-description = הפריטים הבאים מיובאים כעת...
+
 import-select-profile-page-title = בחירת פרופיל
+
 import-select-profile-description = ניתן לייבא מהפרופילים הבאים:
+
 import-done-page-title = הייבוא הושלם
+
 import-done-description = הפריטים הבאים יובאו בהצלחה:
+
 import-close-source-browser = נא לוודא שהדפדפן הנבחר סגור לפני המשך הפעילות.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = מ־{ $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = רשימת קריאה (מ־Safari)
 imported-edge-reading-list = רשימת קריאה (מ־Edge)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = עוגיות
 browser-data-cookies-label =
     .value = עוגיות
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -109,10 +125,12 @@ browser-data-history-label =
             [firefox] היסטוריית גלישה וסימניות
            *[other] היסטוריית גלישה
         }
+
 browser-data-formdata-checkbox =
     .label = היסטוריית טפסים שמורים
 browser-data-formdata-label =
     .value = היסטוריית טפסים שמורים
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -121,6 +139,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = כניסות וססמאות שמורות
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -135,10 +154,12 @@ browser-data-bookmarks-label =
             [edge] מועדפים
            *[other] סימניות
         }
+
 browser-data-otherdata-checkbox =
     .label = נתונים אחרים
 browser-data-otherdata-label =
     .label = נתונים אחרים
+
 browser-data-session-checkbox =
     .label = חלונות ולשוניות
 browser-data-session-label =

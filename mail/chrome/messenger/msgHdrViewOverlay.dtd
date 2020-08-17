@@ -22,8 +22,6 @@
 
 <!ENTITY hdrArchiveButton1.label "ארכיון">
 <!ENTITY hdrArchiveButton1.tooltip "העבר הודעה זו לארכיון">
-<!ENTITY hdrOpenConversationButton1.label "שיחה">
-<!ENTITY hdrOpenConversationButton1.tooltip "הצגת השיחה של הודעה זו">
 <!ENTITY hdrSmartReplyButton1.label "תשובה חכמה">
 <!ENTITY hdrReplyButton1.label "השב">
 <!ENTITY hdrReplyButton2.tooltip "תגובה לשולח של הודעה זו">
@@ -31,7 +29,6 @@
 <!ENTITY hdrReplyAllButton1.tooltip "השב לשולח ולכל הנמענים">
 <!ENTITY hdrReplyListButton1.label "תשובה לרשימה">
 <!ENTITY hdrReplyListButton1.tooltip "השב לרשימת תפוצה">
-<!ENTITY hdrMenuForwardButton.label "העברה בתור">
 <!ENTITY hdrForwardButton1.label "העבר">
 <!ENTITY hdrForwardButton1.tooltip "העבר הודעה זו">
 <!ENTITY hdrJunkButton1.label "זבל">

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "אבטחה">
-<!ENTITY securityTab.label "אבטחה">
-<!ENTITY securityHeading.label "כדי לשלוח ולקבל הודעות חתומות או מוצפנות, עליך לציין גם אישור חתימה דיגיטלי וגם אישור הצפנה.">
-<!ENTITY encryptionGroupTitle.label "הצפנה">
-<!ENTITY encryptionChoiceLabel.label "הגדרת הצפנה ברירת המחדל בזמן משלוח הודעות:">
-<!ENTITY neverEncrypt.label "לעולם לא (אל תשתמש בהצפנה)">
-<!ENTITY neverEncrypt.accesskey "ל">
-<!ENTITY alwaysEncryptMessage.label "נדרשת (לא ניתן לשלוח הודעה אלא אם לכל הנמענים יש אישורים)">
-<!ENTITY alwaysEncryptMessage.accesskey "ד">
-<!ENTITY encryptionCert.message "השתמש באישור זה להצפנת ופיענוח הודעות הנשלחות אליך:">
-
 <!ENTITY digitalSign.certificate.button "בחירה…">
 <!ENTITY digitalSign.certificate.accesskey "ב">
 <!ENTITY digitalSign.certificate_clear.button "מחיקה">
@@ -22,15 +11,7 @@
 <!ENTITY encryption.certificate_clear.button "מחיקה">
 <!ENTITY encryption.certificate_clear.accesskey "ק">
 <!ENTITY signingGroupTitle.label "חתימה דיגיטלית">
-<!ENTITY signMessage.label "חתום על הודעות חתימה דיגיטלית (בברירת מחדל)">
 <!ENTITY signMessage.accesskey "ד">
-<!ENTITY signingCert.message "השתמש באישור זה לחתימה דיגיטלית על הודעות שאתה שולח:">
-
-<!ENTITY certificates.label "אישורים">
-<!ENTITY manageCerts2.label "ניהול אישורים">
-<!ENTITY manageCerts2.accesskey "נ">
-<!ENTITY manageDevices.label "התקני אבטחה">
-<!ENTITY manageDevices.accesskey "ת">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "בחירת אישור">

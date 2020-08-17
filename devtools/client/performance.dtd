@@ -57,7 +57,6 @@
 <!ENTITY performanceUI.table.samples                  "דגימות">
 <!ENTITY performanceUI.table.function                 "פונקציה">
 <!ENTITY performanceUI.table.function.tooltip         "השם והמיקום המקורי של הפונקציה שנדגמה.">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "מספר הקצאות העצמים שנדגמו במיקום הזה.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

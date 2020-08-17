@@ -58,7 +58,6 @@
 <!ENTITY folderType.label                        "סוג תיקייה:">
 
 <!ENTITY folderQuotaTab.label                    "מכסה">
-<!ENTITY folderQuotaRoot.label                   "שורש (root) ההקצאה:">
 <!ENTITY folderQuotaUsage.label                  "שימוש:">
 <!ENTITY folderQuotaStatus.label                 "מצב:">
 

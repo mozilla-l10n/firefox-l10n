@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "בחירת קובץ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ב">
 
-<!ENTITY cmd.deleteDomainData.label     "לשכוח מאתר זה">
-<!ENTITY cmd.deleteDomainData.accesskey "ש">
-
-<!ENTITY cmd.open.label                  "פתיחה">
-<!ENTITY cmd.open.accesskey              "פ">
-<!ENTITY cmd.open_window.label           "פתיחה בחלון חדש">
-<!ENTITY cmd.open_window.accesskey       "ח">
-<!ENTITY cmd.open_private_window.label     "פתיחה בחלון פרטי חדש">
-<!ENTITY cmd.open_private_window.accesskey "פ">
-<!ENTITY cmd.open_tab.label              "פתיחה בלשונית חדשה">
-<!ENTITY cmd.open_tab.accesskey          "ל">
-<!ENTITY cmd.open_all_in_tabs.label      "פתיחת הכל בלשוניות">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "פ">
-
-<!ENTITY cmd.properties.label      "מאפיינים">
-<!ENTITY cmd.properties.accesskey  "מ">
-
-<!ENTITY cmd.sortby_name.label              "מיון לפי שם">
-<!ENTITY cmd.sortby_name.accesskey          "ש">
-<!ENTITY cmd.context_sortby_name.accesskey  "מ">
-
-<!ENTITY cmd.new_bookmark.label            "סימנייה חדשה…">
-<!ENTITY cmd.new_bookmark.accesskey        "ס">
-<!ENTITY cmd.new_folder.label              "תיקייה חדשה…">
-<!ENTITY cmd.new_folder.accesskey          "ח">
-<!ENTITY cmd.context_new_folder.accesskey  "ת">
-<!ENTITY cmd.new_separator.label           "קו מפריד חדש">
-<!ENTITY cmd.new_separator.accesskey       "ק">
-
 <!ENTITY col.name.label          "שם">
 <!ENTITY col.tags.label          "תגיות">
 <!ENTITY col.url.label           "כתובת">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "מספר ביקורים">
 <!ENTITY col.dateadded.label     "תאריך הוספה">
 <!ENTITY col.lastmodified.label  "שינוי אחרון">
-
-<!ENTITY historySearch.placeholder  "חיפוש בהיסטוריה">
-<!ENTITY bookmarksSearch.placeholder  "חיפוש בסימניות">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "נא לבחור פריט כדי לצפות ולערוך את המאפיינים שלו">
 
-<!ENTITY view.label               "תצוגה">
-<!ENTITY view.accesskey           "ת">
-<!ENTITY byDate.label             "לפי תאריך">
-<!ENTITY byDate.accesskey         "ל">
-<!ENTITY bySite.label             "לפי אתר">
-<!ENTITY bySite.accesskey         "ל">
-<!ENTITY byMostVisited.label      "לפי מספר הביקורים">
-<!ENTITY byMostVisited.accesskey  "ל">
-<!ENTITY byLastVisited.label      "לפי ביקור אחרון">
-<!ENTITY byLastVisited.accesskey  "ל">
-<!ENTITY byDayAndSite.label       "לפי תאריך ואתר">
-<!ENTITY byDayAndSite.accesskey   "ל">

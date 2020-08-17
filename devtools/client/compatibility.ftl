@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (הוצא משימוש)
 compatibility-issue-experimental = (ניסיוני)
 compatibility-issue-prefixneeded = (דרושה קידומת)
 compatibility-issue-deprecated-experimental = (הוצא משימוש, ניסיוני)
+
 compatibility-issue-deprecated-prefixneeded = (הוצא משימוש, דרושה קידומת)
 compatibility-issue-experimental-prefixneeded = (ניסיוני, דרושה קידומת)
 compatibility-issue-deprecated-experimental-prefixneeded = (הוצא משימוש, ניסיוני, דרושה קידומת)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] מופע אחד
        *[other] { $number } מופעים
     }
+
 compatibility-no-issues-found = לא נמצאו בעיות תאימות.
 compatibility-close-settings-button =
     .title = סגירת הגדרות

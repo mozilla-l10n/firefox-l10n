@@ -113,8 +113,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = הפעלת מנפה שגיאות מרוחק
-options-enable-remote-tooltip =
-    .title = הפעלת אפשרות זו תאפשר לכלי המפתחים לנפות שגיאות במערכת מרוחקת כגון Firefox OS
 
 options-enable-remote-tooltip2 =
     .title = הפעלת אפשרות זו תאפשר לנפות שגיאות מרחוק במופע דפדפן זה

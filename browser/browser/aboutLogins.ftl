@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = הורדה מ־Google Play
 login-app-promo-apple =
     .alt = הורדה מה־App Store
+
 login-filter =
     .placeholder = חיפוש כניסות
+
 create-login-button = יצירת כניסה חדשה
+
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-sign-in-button = כניסה ל־{ -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -71,6 +74,7 @@ about-logins-login-intro-heading-logged-in = לא נמצאו כניסות מסו
 login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
 about-logins-intro-instruction-help = ניתן לבקר <a data-l10n-name="help-link">בתמיכה של { -lockwise-brand-short-name }</a> לעזרה נוספת
 about-logins-intro-import = אם הכניסות שלך שמורות בדפדפן אחר, באפשרותך <a data-l10n-name="import-link">לייבא אותם אל תוך { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = אם הכניסות שלך שמורות מחוץ ל־{ -brand-product-name }, באפשרותך <a data-l10n-name="import-browser-link">לייבא אותם מדפדפן אחר</a> או <a data-l10n-name="import-file-link">מקובץ</a>
 
 ## Login
@@ -111,25 +115,28 @@ about-logins-edit-login-os-auth-dialog-message-win = כדי לערוך את הכ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = לערוך את הכניסה השמורה
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = כדי להציג את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = להציג את הססמה השמורה
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = כדי להעתיק את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = להעתיק את הססמה השמורה
+
+## Master Password notification
+
+master-password-notification-message = נא להכניס את הססמה הראשית שלך כדי לצפות בכניסות וססמאות.
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = כדי לייצא את הכניסות שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = לייצא את הכניסות והססמאות השמורות
-
-## Master Password notification
-
-master-password-notification-message = נא להכניס את הססמה הראשית שלך כדי לצפות בכניסות וססמאות.
 
 ## Primary Password notification
 
@@ -161,12 +168,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ביטול
 confirmation-dialog-dismiss-button =
     .title = ביטול
+
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
+
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
+
 confirm-discard-changes-dialog-title = האם להתעלם מהשינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
 confirm-discard-changes-dialog-confirm-button = התעלמות
@@ -197,8 +207,10 @@ about-logins-vulnerable-alert-learn-more-link = מידע נוסף
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = כבר קיימת רשומה עבור { $loginTitle } עם שם המשתמש הזה. <a data-l10n-name="duplicate-link">לעבור לרשומה הקיימת?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = אירעה שגיאה במהלך הניסיון לשמור ססמה זו.
+
 
 ## Login Export Dialog
 

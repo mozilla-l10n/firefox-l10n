@@ -57,39 +57,26 @@ abuse-report-messagebar-action-cancel = ביטול
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = מזיקה למחשב ולנתונים שלי
-
 abuse-report-damage-reason-v2 = היא הזיקה למחשב שלי או שפגעה בנתונים שלי
 abuse-report-damage-example = לדוגמה: נוזקה מושתלת או מידע גנוב
 
-abuse-report-spam-reason = יוצרת ספאם או פרסומות
-
 abuse-report-spam-reason-v2 = היא מכילה ספאם או מוסיפה פרסומות לא רצויות
 abuse-report-spam-example = לדוגמה: מוסיפה פרסומות בדפי אינטרנט
-
-abuse-report-settings-reason = שינתה את מנוע החיפוש, דף הבית או הלשונית החדשה שלי מבלי ליידע או לשאול אותי
 
 abuse-report-settings-reason-v2 = היא שינתה את מנוע החיפוש, דף הבית או הלשונית החדשה שלי מבלי ליידע או לשאול אותי
 abuse-report-settings-suggestions = לפני דיווח על ההרחבה, באפשרותך לנסות לשנות את ההגדרות שלך:
 abuse-report-settings-suggestions-search = שינוי הגדרות חיפוש ברירת מחדל
 abuse-report-settings-suggestions-homepage = שינוי דף הבית והלשונית החדשה שלך
 
-abuse-report-broken-reason-extension = לא עובדת, משבשת פעילות של אתרי אינטרנט או שמאטה את { -brand-product-name }
-abuse-report-broken-reason-theme = לא עובדת או שמשבשת את ניראות הדפדפן
-
 abuse-report-broken-reason-extension-v2 = היא לא עובדת, משבשת פעילות של אתרי אינטרנט או שמאטה את { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = היא לא עובדת או שמשבשת את ניראות הדפדפן
 abuse-report-broken-example = לדוגמה: תכונות איטיות, קשה לשימוש או שאינה פועלת; חלקים מאתרי אינטרנט לא נטענים או לא נראים כשורה
-
-abuse-report-policy-reason = מכילה תוכן של שנאה, אלימות או תוכן בלתי חוקי
 
 abuse-report-policy-reason-v2 = היא מכילה תוכן של שנאה, אלימות או תוכן בלתי חוקי
 abuse-report-policy-suggestions =
     לתשומת לבך: יש לדווח על בעיות בנושא זכויות יוצרים וסימנים מסחריים בתהליך נפרד.
     <a data-l10n-name="report-infringement-link">ניתן להשתמש בהוראות האלו</a> כדי
     לדווח על הבעיה.
-
-abuse-report-unwanted-reason = אף פעם לא רציתי את ההרחבה הזו ולא ניתן להסיר אותה
 
 abuse-report-unwanted-reason-v2 = אף פעם לא רציתי את ההרחבה הזו ולא ניתן להסיר אותה
 abuse-report-unwanted-example = לדוגמה: יישום התקין אותה ללא רשותי

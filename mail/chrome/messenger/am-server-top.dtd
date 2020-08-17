@@ -66,15 +66,12 @@
 <!ENTITY maxMessagesEnd.label "הודעות">
 <!ENTITY alwaysAuthenticate.label "תמיד בקש אימות בעת התחברות לשרת זה">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "קובץ newsrc:">
-<!ENTITY newsrcPicker.label "בחר קובץ newsrc:‏">
 <!ENTITY abbreviate.label "הצג שמות קבוצות דיון בחלונית תיקיות הדואר בצורת:">
 <!ENTITY abbreviateOn.label "שמות מלאים (לדוגמה, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "שמות מקוצרים (לדוגמה, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "מתקדם…">
 <!ENTITY advancedButton.accesskey "ק">
 <!ENTITY serverDefaultCharset2.label "קידוד טקסט כבררת מחדל:">
-<!ENTITY localPath.label "ספרייה מקומית:">
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
 <!ENTITY browseFolder.label "עיון…">
 <!ENTITY browseFolder.accesskey "ע">

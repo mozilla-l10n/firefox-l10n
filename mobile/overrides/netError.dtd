@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>המסמך המבוקש לא זמין במטמון של &brandShortName;.</p><ul><li>כאמצעי זהירות, &brandShortName; לא יבקש שוב אוטומטית מסמכים רגישים.</li><li>לחץ נסה שוב כדי לבקש מחדש את המסמך מאתר האינטרנט.</li></ul>">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>נא לנסות שוב. &brandShortName; ינסה לפתוח את החיבור ולטעון את העמוד מחדש.
-    <button id='wifi'>הפעלת Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "

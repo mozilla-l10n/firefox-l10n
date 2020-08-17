@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = כאן יש דרקונים!
-about-config-warning-text = שינוי ערכי ברירת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה, והביצועים של יישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.
-about-config-warning-checkbox = תציקו לי שוב, בבקשה!
-about-config-warning-button = הסיכון מקובל עלי
-
-about-config2-title = תצורות מתקדמות
-
-about-config-search-input =
-    .placeholder = חיפוש
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = נא להמשיך בזהירות
@@ -30,13 +19,6 @@ about-config-page-title = העדפות מתקדמות
 about-config-search-input1 =
     .placeholder = חיפוש שם העדפה
 about-config-show-all = הצגת הכל
-
-about-config-pref-add = הוספה
-about-config-pref-toggle = החלפה
-about-config-pref-edit = עריכה
-about-config-pref-save = שמירה
-about-config-pref-reset = איפוס
-about-config-pref-delete = מחיקה
 
 about-config-pref-add-button =
     .title = הוספה

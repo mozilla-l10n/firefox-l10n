@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "עריכה">
 <!ENTITY editMenu.accesskey                             "ע">
-<!ENTITY undoCmd.label                                  "ביטול">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "ב">
-<!ENTITY redoCmd.label                                  "בצע שוב">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "ש">
-<!ENTITY cutCmd.label                                   "גזירה">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "ג">
-<!ENTITY copyCmd.label                                  "העתקה">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "ע">
-<!ENTITY pasteCmd.label                                 "הדבקה">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "ד">
 <!ENTITY deleteCmd.label                                "מחיקה">
-<!ENTITY deleteCmd.accesskey                            "מ">
 <!ENTITY deleteAbCmd.label                              "מחק ספר כתובות">
 <!ENTITY deleteContactCmd.label                         "מחיקת איש קשר">
 <!ENTITY deleteContactsCmd.label                        "מחיקת אנשי קשר">
 <!ENTITY deleteListCmd.label                            "מחק רשימה">
 <!ENTITY deleteListsCmd.label                           "מחק רשימות">
 <!ENTITY deleteItemsCmd.label                           "מחק פרטים">
-<!ENTITY selectAllCmd.label                             "בחר הכול">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "החלף בין שם פרטי ומשפחה">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "מאפיינים">
 <!ENTITY propertiesMenu.accesskey                       "א">
 <!ENTITY propertiesCmd.key                              "i">

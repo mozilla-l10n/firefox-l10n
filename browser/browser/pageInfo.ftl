@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = שמירה בשם…
     .accesskey = ב
-media-preview =
-    .value = תצוגה מקדימה:
 
 perm-tab =
     .label = הרשאות
@@ -132,7 +130,6 @@ security-site-data-cookies-only = כן, עוגיות
 security-site-data-no = לא
 
 image-size-unknown = לא ידוע
-not-set-verified-by = לא צוין
 page-info-not-specified =
     .value = לא צוין
 not-set-alternative-text = לא צוין
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = מצב לא תקני
 general-strict-mode =
     .value = מצב ציות לתקן
-security-no-owner = אתר זה לא מספק מידע על הבעלים.
 page-info-security-no-owner =
     .value = אתר זה לא מספק מידע על הבעלים.
 media-select-folder = בחירת תיקייה לשמירת התמונות

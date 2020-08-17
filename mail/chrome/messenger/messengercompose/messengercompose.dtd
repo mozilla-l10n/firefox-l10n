@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "בצע שוב">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ש">
-<!ENTITY cutCmd.label "גזירה">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ג">
-<!ENTITY copyCmd.label "העתקה">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "ת">
-<!ENTITY pasteCmd.label "הדבקה">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -92,13 +86,7 @@
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.accesskey "ב">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "חיפוש…">
 <!ENTITY findBarCmd.accesskey "ח">
 <!ENTITY findBarCmd.key "ח">
@@ -252,27 +240,8 @@
 <!ENTITY printButton.tooltip "הדפסת הודעה זו">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "מאת:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "אל:">
-<!ENTITY ccAddr.label "עותק:">
-<!ENTITY bccAddr.label "עותק סמוי:">
-<!ENTITY replyAddr.label "השב־אל:">
-<!ENTITY newsgroupsAddr.label "קבוצת דיון:">
-<!ENTITY followupAddr.label "מעקב־אל:">
-<!ENTITY subject.label "נושא:">
 <!ENTITY subject.accesskey "נ">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "מ">
-<!ENTITY attachmentBucketHeader.tooltip "לוח קבצים מצורפים">
 <!ENTITY attachmentBucketCloseButton.tooltip "הסתרת לוח קבצים מצורפים">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

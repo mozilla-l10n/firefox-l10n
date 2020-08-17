@@ -62,7 +62,6 @@ protections-panel-not-found-label = לא אותרו
 ##
 
 protections-panel-settings-label = הגדרות הגנה
-protections-panel-showreport-label = הצגת דוח
 
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = לוח הגנות
