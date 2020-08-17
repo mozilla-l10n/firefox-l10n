@@ -39,14 +39,7 @@ appmenu-addon-post-install-message = పొడిగింతల నిర్వ
 appmenu-addon-post-install-incognito-checkbox =
     .label = ఈ పొడగింతను అంతరంగీక కిటికీలలో నడవడానికి అనుమతించు
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = అంతరంగిక కిటికీలలో పొడగింతలకు మార్పు
-    .buttonlabel = పొడగింతలను నిర్వహించండి
-    .buttonaccesskey = M
-    .secondarybuttonlabel = సరే, అర్థమైంది
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = మీరు { -brand-shorter-name }‌కు చేర్చే కొత్త పొడగింతలు అంతరంగిక కిటికీలలో పనిచేయవు, దాన్ని మీరు అమరికలలో అనుమతిస్తే తప్ప.
-appmenu-addon-private-browsing-learn-more = పొడగింతల అమరికలను ఎలా నిర్వహించుకోవాలో తెలుసుకోండి
+    
 appmenu-new-tab-controlled =
     .label = మీ కొత్త ట్యాబు మారిపోయింది.
     .buttonlabel = మార్పులను ఉండనివ్వు

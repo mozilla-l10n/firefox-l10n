@@ -5,50 +5,66 @@
 permissions-window =
     .title = మినహాయింపులు
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = వెబ్‌సైటు చిరునామా
     .accesskey = d
+
 permissions-block =
     .label = నిరోధించు
     .accesskey = B
+
 permissions-session =
     .label = ఈ సెషనుకి అనుమతించు
     .accesskey = S
+
 permissions-allow =
     .label = అనుమతించు
     .accesskey = A
+
 permissions-site-name =
     .label = వెబ్‌సైటు
+
 permissions-status =
     .label = స్థితి
+
 permissions-remove =
     .label = వెబ్‌సైటును తీసివేయి
     .accesskey = R
+
 permissions-remove-all =
     .label = వెబ్‌సైట్లన్నీ తీసివేయి
     .accesskey = e
+
 permissions-button-cancel =
     .label = రద్దుచేయి
     .accesskey = C
+
 permissions-button-ok =
     .label = మార్పులను భద్రపరచు
     .accesskey = S
+
 permissions-autoplay-menu = వెబ్‌సైట్లన్నిటికీ అప్రమేయం:
+
 permissions-searchbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
+
 permissions-capabilities-autoplay-allow =
     .label = ఆడియో, వీడియోలను అనుమతించు
 permissions-capabilities-autoplay-block =
     .label = ఆడియోను నిరోధించు
 permissions-capabilities-autoplay-blockall =
     .label = ఆడియో, వీడియోలను నిరోధించు
+
 permissions-capabilities-allow =
     .label = అనుమతించు
 permissions-capabilities-block =
     .label = నిరోధించు
 permissions-capabilities-prompt =
     .label = ఎల్లప్పుడూ అడుగు
+
 permissions-capabilities-listitem-allow =
     .value = అనుమతించు
 permissions-capabilities-listitem-block =
@@ -63,10 +79,6 @@ permissions-invalid-uri-label = దయచేసి సరైన హోస్ట�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = మినహాయింపులు - విషయ నిరోధం
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = ఈ వెబ్‌సైట్లలో మీకు విషయ నిరోధాన్ని అచేతనం చేసారు.
 permissions-exceptions-etp-window =
     .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
     .style = { permissions-window.style }
@@ -99,10 +111,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = పొడిగింతలను స్థాపించుటకు ఏయే వెబ్ సైట్లను అనుమతించాలో మీరు పేర్కొనవచ్చు. మీరు అనుమతించాలనుకున్న వెబ్ సైటు ఖచ్చితమైన చిరునామాను ఇచ్చి అనుమతించు బొత్తాన్ని నొక్కండి.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = మినహాయింపులు - స్వీయారంభం
-    .style = { permissions-window.style }
 
 ## Site Permissions - Autoplay
 

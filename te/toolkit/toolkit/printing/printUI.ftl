@@ -4,3 +4,4 @@
 
 printui-more-settings = మరిన్ని అమరికలు
 printui-less-settings = తక్కువ అమరికలు
+

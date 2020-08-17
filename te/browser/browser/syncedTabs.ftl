@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = సింకైన ట్యాబులు
 synced-tabs-sidebar-noclients-subtitle = మీ ఇతర పరికరాలోని ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?
-synced-tabs-sidebar-notsignedin = మీ ఇతర పరికరాల లోని ట్యాబుల జాబితా చూడడానికి ప్రవేశించండి.
 synced-tabs-sidebar-unverified = మీ ఖాతాను తనిఖీ చెయ్యాలి.
 synced-tabs-sidebar-notabs = తెరిచివున్న ట్యాబులు లేవు
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } అభిరుచులు తెరువు

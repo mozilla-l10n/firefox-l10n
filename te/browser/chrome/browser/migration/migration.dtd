@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ఎంపికలను, ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను మరియు ఇతర డేటాను దిగుమతి చేయండి:">
 <!ENTITY importFromUnix.label           "అభిరుచులను, ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను, ఇతర డాటాను దిగుమతి చేయి:">
-<!ENTITY importFromBookmarks.label      "ఇష్టాంశాలను దిగుమతిచేయి:">
 
 <!ENTITY importFromIE.label             "మైక్రోసాఫ్ట్ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్">
 <!ENTITY importFromIE.accesskey         "M">

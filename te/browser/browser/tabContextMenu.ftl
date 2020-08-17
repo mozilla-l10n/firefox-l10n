@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = కొత్త విండోకి తరలించు
     .accesskey = W
-undo-close-tab =
-    .label = మూసిన ట్యాబుని తిరిగి తెరువు
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ట్యాబుని మూసివేయి
     .accesskey = C

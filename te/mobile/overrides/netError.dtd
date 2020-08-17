@@ -68,9 +68,6 @@
 <!ENTITY notCached.longDesc "<p>కాష్ యొక్క అభ్యర్థించిన పత్రంలో &brandShortName; అందుబాటులో లేదు.</p><ul><li>భద్రతా జాగ్రత్తగా, &brandShortName; స్వయంచాలకంగా తిరిగి అభ్యర్థన సున్నితమైన పత్రాలు లేదు.</li><li>వెబ్సైట్ నుండి తిరిగి అభ్యర్థన పత్రం మళ్ళీ ప్రయత్నించడానికి క్లిక్ చేయండి.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>మరలా ప్రయత్నించు. &brandShortName; అనుసంధానాన్ని తెరుచుటకు ప్రయత్నించును మరియు పేజీను తిరిగిలోడ్ చేయును. <button id='wifi'>వై-ఫై చేతనించు</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి వారికి ఈ సమస్యగురించి తెలియజెప్పండి.</li> </ul>">

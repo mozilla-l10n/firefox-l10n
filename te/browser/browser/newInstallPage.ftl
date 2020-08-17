@@ -9,10 +9,14 @@
 
 title = ముఖ్యమైన వార్తలు
 heading = మీ { -brand-short-name } ప్రొఫైలుకి మార్పులు
+
 changed-title = ఏమి మారింది?
+
 options-title = నా ఎంపికలు ఏమిటి?
+
 resources = వనరులు:
 support-link = ప్రొఫైల్ మేనేజర్ వాడుకోవడం - తోడ్పాటు వ్యాసం
+
 sync-header = ప్రవేశించండి లేదా { -fxaccount-brand-name } సృష్టించుకోండి
 sync-label = మీ ఈమెయిలును ఇవ్వండి
 sync-input =

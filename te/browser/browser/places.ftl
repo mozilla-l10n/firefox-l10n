@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = కొత్త ఆంతరంగిక విండోలో తెరువు
     .accesskey = P
+
 places-new-bookmark =
     .label = కొత్త ఇష్టాంశము…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = కొత్త సెపరేటర్
     .accesskey = S
+
 places-view =
     .label = చూడండి
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = తేదీ, సైటు క్రమంలో
     .accesskey = t
+
 places-history-search =
     .placeholder = చరిత్రలో వెతకండి
 places-bookmarks-search =
     .placeholder = ఇష్టాంశాలను వెతకండి
+
 places-delete-domain-data =
     .label = ఈ సైటుని మర్చిపో
     .accesskey = F

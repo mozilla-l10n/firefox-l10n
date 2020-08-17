@@ -31,8 +31,6 @@ printpreview-print =
     .accesskey = P
 printpreview-of =
     .value = మొత్తం
-printpreview-custom-prompt =
-    .value = ఇష్టానుసారమైన స్కేలు...
 printpreview-page-setup =
     .label = పేజీ అమరిక...
     .accesskey = u
@@ -58,3 +56,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = చివరి పేజీ
+

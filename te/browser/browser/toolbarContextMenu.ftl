@@ -11,9 +11,6 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = అన్ని ట్యాబులను ఎంచుకో
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = మూసిన ట్యాబుని తిరిగి తెరువు
-    .accesskey = U
 
 toolbar-context-menu-manage-extension =
     .label = పొడగింత నిర్వహణ

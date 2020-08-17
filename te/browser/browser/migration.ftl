@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = విజార్డు దిగుమతిచేయి
+
 import-from =
     { PLATFORM() ->
         [windows] ఎంపికలను, ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను మరియు ఇతర డేటాను దిగుమతి చేయండి:
        *[other] అభిరుచులను, ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను, ఇతర డాటాను దిగుమతి చేయి:
     }
+
 import-from-bookmarks = ఇష్టాంశాలను దిగుమతిచేయి:
 import-from-ie =
     .label = మైక్రోసాఫ్ట్ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 సురక్షిత విహారిణి
     .accesskey = 3
+
 no-migration-sources = ఇష్టాంశములు, చరిత్ర లేదా సంకేతపద డాటాను కలిగివున్న ప్రొగ్రాము కనుగొనబడలేదు.
+
 import-source-page-title = డేటాను, అమరికలను దిగుమతిచేయి
 import-items-page-title = దిగుమతి కావడానికి అంశములు
+
 import-items-description = ఏయే అంశాలు దిగుమతి కావాలో ఎంచుకోండి:
+
 import-migrating-page-title = దిగుమతవుతున్నది...
+
 import-migrating-description = ఈ క్రింది అంశములు ప్రస్తుతం దిగుమతవుతున్నవి...
+
 import-select-profile-page-title = ప్రొఫైలు ఎంచుకోండి
+
 import-select-profile-description = ఈ క్రింది ప్రొఫైల్సు దిగుమతికి అందుబాటులో వున్నాయి నుండి:
+
 import-done-page-title = పూర్తిగా దిగుమతిచేయి
+
 import-done-description = ఈ క్రింది అంశములు సమర్ధంగా దిగుమతైనవి:
+
 import-close-source-browser = కొనసాగే ముందు ఎంచుకున్న విహారిణి మూసివుందని నిర్ధారించుకోండి.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source } నుండి
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge బీటా
@@ -76,6 +90,7 @@ source-name-chrome-dev = గూగుల్ క్రోమ్ డెవ్
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 సురక్షిత విహారిణి
+
 imported-safari-reading-list = జాబితాను చదువుతోంది (సఫారీ నుండి)
 imported-edge-reading-list = చదవాల్సిన జాబితా (ఎడ్జ్ నుండి)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = కుకీలు
 browser-data-cookies-label =
     .value = కుకీలు
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -109,10 +125,12 @@ browser-data-history-label =
             [firefox] విహరణ చరిత్ర, ఇష్టాంశాలు
            *[other] విహరణ చరిత్ర
         }
+
 browser-data-formdata-checkbox =
     .label = భద్రపరచిన ఫారాల చరిత్ర
 browser-data-formdata-label =
     .value = భద్రపరచిన ఫారాల చరిత్ర
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -121,6 +139,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = భద్రపరచిన ప్రవేశాలు, సంకేతపదాలు
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -135,10 +154,12 @@ browser-data-bookmarks-label =
             [edge] ఇష్టాంశాలు
            *[other] ఇష్టాంశాలు
         }
+
 browser-data-otherdata-checkbox =
     .label = ఇతర డేటా
 browser-data-otherdata-label =
     .label = ఇతర డేటా
+
 browser-data-session-checkbox =
     .label = విండోలు, ట్యాబులు
 browser-data-session-label =
