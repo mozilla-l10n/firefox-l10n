@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "ຕັດ">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "ສຳເນົາ">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "ວາງ">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "ເອົາກັບຄືນ">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "ເລືອກທັ້ງຫມົດ">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "ລຶບ">
-<!ENTITY deleteCmd.accesskey "D">
-
 <!ENTITY spellAddToDictionary.label "ເພີ່ມເຂົ້າວັດຈະນານຸກົມ">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "ຍົກເລີກການເພີ່ມເຂົ້າວັດຈະນານຸກົມ">

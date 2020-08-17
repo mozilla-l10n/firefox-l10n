@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "ແກ້ໄຂ">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label             "ເອົາກັບຄືນ">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "ເຮັດຄືນໃຫມ່">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "ຕັດ">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "ສຳເນົາ">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "ວາງ">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "ລຶບ">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "ເລືອກທັ້ງຫມົດ">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "A">
-
 <!ENTITY findCmd.label             "ຊອກຫາ">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "ຊອກຫາ​​ກ່ອນຫນ້າ​ນີ້">
-<!ENTITY findPreviousCmd.accesskey "v">

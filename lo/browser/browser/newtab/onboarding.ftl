@@ -12,7 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = ລອງເລີຍຕອນນີ້
 onboarding-button-label-get-started = ເລີ່ມ​ຕົ້ນ
 
 ## Welcome modal dialog strings
@@ -24,6 +23,13 @@ onboarding-start-browsing-button-label = ເລີ່ມການທ່ອງເ
 onboarding-cards-dismiss =
     .title = ຍົກເລີກ
     .aria-label = ຍົກເລີກ
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -55,21 +61,6 @@ onboarding-sync-form-sub-header = ເພື່ອດຳເນີນການຕ�
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = ການທ່ອງເວັບແບບສ່ວນຕົວ
-onboarding-private-browsing-text = ທ່ອງເວັບດ້ວຍຕົວທ່ານເອງ. ການທ່ອງເວັບແບບສ່ວນຕົວພ້ອມກັບການປິດກັ້ນເນື້ອຫາລະງັບໂຕຕິດຕາມອອນໄລທີ່ຕິດຕາມທ່ານໃນເວັບຕ່າງໆ.
-
-onboarding-screenshots-title = ຖ່າຍພາບໜ້າຈໍ
-onboarding-screenshots-text = ຈັບ, ບັນທຶກ ແລະ ແບ່ງປັນພາບຖ່າຍໜ້າຈໍ - ໂດຍບໍ່ຕ້ອງອອກຈາກ { -brand-short-name }. ຈັບພາບເປັນບໍລິເວນ ຫຼື ທັງໜ້າຕາມທີ່ທ່ານທ່ອງເວັບ. ຈາກນັ້ນບັນທຶກໄປຍັງເວັບເພື່ອຄວາມງ່າຍໃນການເຂົ້າເຖິງ ແລະ ການແບ່ງປັນ.
-
-onboarding-addons-title = ສ່ວນເສີມ
-onboarding-addons-text = ເພີ່ມຄຸນລັກສະນະເພີມເຕີມທີ່ເຮັດໃຫ້ { -brand-short-name } ເຮັດວຽກໄດ້ຫຼາຍຂື້ນສຳລັບທ່ານ. ປຽບທຽບລາຄາ, ກວດສອບສະພາບອາກາດ ຫຼື ສະແດງບຸກຄະລິກກະພາບຂອງທ່ານດ້ວຍຊຸດຕົກແຕ່ງທີ່ກຳນົດເອງ.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = ຊອກຫາໄວຂື້ນ, ສະຫລາດຂື້ນ ຫຼື ປອດໄພກວ່າໂດຍ extension  ແບບ Ghostery ເຊິ່ງເຮັດໃຫ້ທ່ານສາມາດບັອກການໂຄສະນາທີ່ຫນ້າລຳຄານໄດ້.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sync
 
 
 ## Message strings belonging to the Return to AMO flow

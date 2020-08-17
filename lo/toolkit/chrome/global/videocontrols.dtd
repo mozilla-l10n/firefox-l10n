@@ -11,32 +11,12 @@
 <!ENTITY castingButton.castingLabel "Cast to Screen">
 <!ENTITY closedCaption.off "ປິດ">
 
-<!ENTITY stats.media "ມີເດຍ">
-<!ENTITY stats.size "ຂະໜາດ">
-<!ENTITY stats.activity "ກິດຈະກຳ">
-<!ENTITY stats.activityPaused "ຢຸດໄວ້ແລ້ວ">
-<!ENTITY stats.activityPlaying "ກຳລັງຫຼິ້ນ">
-<!ENTITY stats.activityEnded "ຈົບແລ້ວ">
-<!ENTITY stats.activitySeeking "(ກຳລັງຄົ້ນຫາ)">
-<!ENTITY stats.volume "ລະດັບສຽງ">
-<!ENTITY stats.framesParsed "ເຟຣມທີ່ວິເຄາະແລ້ວ">
-<!ENTITY stats.framesDecoded "ເຟຣມທີ່ຖອດລະຫັດແລ້ວ">
-<!ENTITY stats.framesPresented "ເຟຣມທີ່ສະແດງຜົນແລ້ວ">
-<!ENTITY stats.framesPainted "ເຟຣມທີ່ແຕ້ມແລ້ວ">
-
 <!ENTITY error.aborted "ການໂຫລດວິດີໂອໄດ້ຖືກຢຸດໄວ້">
 <!ENTITY error.network "ການຫຼີ້ນວິດີໂອໄດ້ຖືກຍົກເລີກເນື່ອງຈາກເກີດມີຂໍ້ຜິດພາດທາງດ້ານເຄື່ອຂາຍ.">
 <!ENTITY error.decode "ບໍ່ສາມາດຫຼີ້ນວິດີໂອນີ້ໄດ້ເພາະວ່າໄຟລ໌ເສຍຫາຍ.">
 <!ENTITY error.srcNotSupported "ຮູບແບບຂອງວິດີໂອ ຫລື MIME ປະເພດນີ້ແມ່ນບໍ່ໄດ້ຮັບການສະຫນັບສະຫນູນ.">
 <!ENTITY error.noSource2 "ບໍ່ພົບຮູບແບບວິດີໂອ ແລະ MIME ປະເພດທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ.">
 <!ENTITY error.generic "ການຫຼີ້ນວິດີໂອໄດ້ຖືກຍົກເລີກເນື່ອງຈາກເກີດຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "ຜ່ານໄປ #1 of #2 ແລ້ວ">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

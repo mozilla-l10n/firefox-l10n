@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = ແທັບທີ່ຊິງຄ໌ແລ້ວ
 synced-tabs-sidebar-noclients-subtitle = ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?
-synced-tabs-sidebar-notsignedin = ລົງຊື່ເຂົ້າໃຊ້ເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.
 synced-tabs-sidebar-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
 synced-tabs-sidebar-notabs = ບໍ່ມີແທັບທີ່ເປີດຢູ່
 synced-tabs-sidebar-openprefs = ເປີດການຕັ້ງຄ່າ { -sync-brand-short-name }

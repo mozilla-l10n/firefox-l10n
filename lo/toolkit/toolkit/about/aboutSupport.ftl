@@ -4,6 +4,7 @@
 
 page-title = ​ຂໍ້ມູນການແກ້ໄຂບັນຫາ
 page-subtitle = ຫນ້ານີ້ປະກອບມີຂໍ້ມູນທາງເທັກນິິດທີ່ອາດຈະເປັນປະໂຫຍດຕໍ່ທ່ານທີກຳລັງພະຍາຍາມຈະແກ້ໄຂບັນຫາ ຫາກວ່າທ່ານກຳລັງຊອກຫາຄຳຕອບສຳລັບຄຳຖາມທີ່ທ່ານມັກພົບຕະລອດກ່ຽວກັບ { -brand-short-name }, ໃຫ້ໄປກວດເບິງ <a data-l10n-name="support-link">ເວັບໄຊຕ໌ທີ່ໃຫ້ຂໍ້ມູນສະຫນັບສະຫນູນ</a>.
+
 crashes-title = ລາຍງານຂໍ້ຜິດພາດ
 crashes-id = ລາຍງານ ID
 crashes-send-date = ສົ່ງຂໍ້ມູນແລ້ວ
@@ -73,8 +74,6 @@ graphics-workarounds-title = Workarounds
 place-database-title = Places Database
 place-database-integrity = ຄວາມສົມບູນ
 place-database-verify-integrity = ກວດສອບຄວາມສົມບູນ
-js-title = JavaScript​
-js-incremental-gc = Incremental GC
 a11y-title = ການຊ່ວຍເຂົ້າເຖິງ
 a11y-activated = ເປີດໃຊ້ງານແລ້ວ
 a11y-force-disabled = ປ້ອງກັນການຊ່ວຍເຂົ້າເຖິງ
@@ -129,18 +128,23 @@ intl-os-title = ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = ລາຍງານຂໍ້ຜິດພາດສຳລັບ { $days } ມື້ຫລ້າສຸດ
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } ນາທີຜ່ານມາ
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } ຊົ່ວໂມງຜ່ານມາ
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } ມື້ຜ່ານມາ
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = ລາຍງາຍຂໍ້ຜິດພາດທັງຫມົດ (ປະກອບດ້ວຍ { $reports } ຂໍ້ຜິດພາດທີ່ຍັງບໍ່ທັນໄດ້ລາຍງານຕາມເວລາທີ່ກຳນົດໄວ້)
+
 raw-data-copied = ສຳເນົາຂໍ້ມູນດິບໄປໄວ້ທີ່ Clipboard ແລ້ວ
 text-copied = ຂໍ້ຄວາມໄດ້ຖືກສຳເນົາໄປໄວ້ທີ່ Clipboard ແລ້ວ
 
@@ -153,9 +157,11 @@ blocked-mismatched-version = ຖືກບັອກຈາກລຸ້ນໄດຣ
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ຖືກບັອກຈາກລຸ້ນໄດຣເວີກາດຈໍຂອງທ່ານ. ກະລຸນາອັບເດດໄດຣເວີກາດຈໍຂອງທ່ານໄປເປັນລຸ້ນທີ່ { $driverVersion } ຫລື ໃຫມ່ກ່ວາ.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ພາລາມີເຕີ ClearType
+
 compositing = ການປະກອບ
 hardware-h264 = ການຖອດລະຫັດຮາດແວ H264
 main-thread-no-omtc = main thread, no OMTC
@@ -168,6 +174,7 @@ no = ບໍ່
 
 found = ພົບ
 missing = ເສຍໄປ
+
 gpu-description = ຄຳອະທິບາຍ
 gpu-vendor-id = ID ຂອງຜູ້ຈຳຫນ່າຍ
 gpu-device-id = ID ຂອງອຸປະກອນ
@@ -188,21 +195,26 @@ webgl2-version = WebGL 2 ໄດຣ໌ເວີເວີຊັນ
 webgl2-driver-extensions = WebGL 2 ໄດຣ໌ເວີ Extensions
 webgl2-extensions = WebGL 2 Extensions
 blocklisted-bug = Blocklisted ຍ້ອນວ່າໄດ້ຮັບຮູ້ບັນຫານີ້ແລ້ວ.
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ບັກ { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; ລະຫັດຂໍ້ຜິດພາດ { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = ຕົວຖອດລະຫັດວິດີໂອ D3D11
-d3d9video-crash-buard = ຕົວຖອດລະຫັດວິດີໂອ D3D9
 d3d9video-crash-guard = ຕົວຖອດລະຫັດວິດີໂອ D3D9
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = ກັບໄປສູ່ການຕັ້ງຄ່າເດີມໃນການ Restart ຄັ້ງຕໍ່ໄປ
 gpu-process-kill-button = ຢຸດໂປຣເຊສ GPU
+
 min-lib-versions = ລຸ້ນຕຳສຸດທີ່ສາມາດໃຊ້ໄດ້
 loaded-lib-versions = ລຸ້ນທີ່ກຳລັງນຳໃຊ້ຢູ່
+
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = User Namespaces
@@ -213,6 +225,7 @@ content-sandbox-level = Content Process Sandboxing
 sandbox-proc-type-content = ເນື້ອໃນ
 sandbox-proc-type-file = ເນື້ອຫາໄຟລ໌
 sandbox-proc-type-media-plugin = ປັກອິນມີເດຍ
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -225,6 +238,7 @@ multi-process-status-6 = ຖືກປິດໃຊ້ງານໂດຍການ�
 multi-process-status-7 = ຖືກປິດໃຊ້ງານໂດຍ Add-ons
 multi-process-status-8 = ຖືກປິດໃຊ້ງານໂດຍ Forcibly
 multi-process-status-unknown = ບໍ່ຮູ້ສະຖານະ
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ບໍ່​ມີ​
 wheel-enabled = ເປີດການປ້ອນເຂົ້າ wheel ແລ້ວ

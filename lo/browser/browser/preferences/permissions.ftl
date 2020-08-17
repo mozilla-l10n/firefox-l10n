@@ -70,11 +70,6 @@ permissions-invalid-uri-label = ກະລຸນາປ້ອນຊື່ໂຮສ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = ຂໍ້ຍົກເວັ້ນ - ຕົວບັອກເນື້ອຫາ
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = ທ່ານໄດ້ປິດຕົວບັອກເນື້ອຫາໃນເວັບໄຊທເຫລົ່ານີ້
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = ທ່ານສາມາດກຳນົດເວັບໃຊ້ໃດຫນຶ່ງຂອງທ່ານທີ່ໃດ້ເປີດອະນຸຍາດໃຫ້ມີການຕິດຕັ້ງໂປຼແກຣມເສີມ. ໃຫ້ຂຽນທີ່ຢູ່ແທ້ຈິງຂອງເວັບໃຊ້ທີ່ທ່ານເປີດອະນຸຍາດ ແລະ ຫລັງຈາກນັ້ນແມ່ນໃຫ້ຄິກໃສ່ອະນຸຍາດ (Allow).
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = ຂໍ້ຍົກເວັ້ນ - ຫຼິ້ນແບບອັດຕະໂນມັດ
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = ທ່ານສາມາດລະບຸເວັບໄຊທີ່ອະນຸຍາດ ຫຼື ບໍ່ອະນຸຍາດໃຫ້ຫຼີ້ນສື່ພ້ອມສຽງໂດຍອັດຕະໂນມັດໄດ້ຢູ່ສະເໝີ. ພີມທີ່ຢູ່ຂອງໄຊທີ່ທ່ານຕ້ອງການຈັດການຈັດການແລ້ວຄິກ ລະງັບ ຫຼື ອະນຸຍາດ.
 
 ## Site Permissions - Autoplay
 

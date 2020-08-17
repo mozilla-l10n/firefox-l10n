@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "ນຳເຂົ້າຕົວເລືອກ, ບຸກມາກ, ປະຫວັດການໃຊ້ງານ, ລະຫັດຜ່ານ ແລະຂໍ້ມູນອື່ນໆຈາກ:">
 <!ENTITY importFromUnix.label           "ນຳເຂົ້າການຕັ້ງຄ່າ, ບຸກມາກ, ປະຫວັດການໃຊ້ງານ, ລະຫັດຜ່ານ ແລະຂໍ້ມູນອື່ນໆຈາກ:">
-<!ENTITY importFromBookmarks.label      "ນຳເຂົ້າບຸກມາກຈາກ:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

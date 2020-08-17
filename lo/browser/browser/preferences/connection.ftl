@@ -35,12 +35,6 @@ connection-proxy-http = ພຣັອກຊີ HTTP
     .accesskey = x
 connection-proxy-http-port = ພັອດ
     .accesskey = ພ
-connection-proxy-http-share =
-    .label = ໃຊ້ເຊີເວີພຣັອກຊີນີ້ສຳລັບໂປຣໂຕຄອລທັງຫມົດ
-    .accesskey = ທ
-
-connection-proxy-ssl = ພຣັອກຊີ SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = ພັອດ
     .accesskey = ພ

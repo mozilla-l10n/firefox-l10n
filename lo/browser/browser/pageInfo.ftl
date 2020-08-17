@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = ບັນທຶກເປັນ…
     .accesskey = e
-media-preview =
-    .value = ຕົວຢ່າງມີເດຍ:
 
 perm-tab =
     .label = ການອະນຸຍາດ
@@ -138,7 +136,6 @@ media-audio = ສຽງ
 saved-passwords-yes = ຕົກລົງ
 saved-passwords-no = ບໍ່
 
-security-no-owner = ເວັບໄຊຕ໌ນີ້ບໍ່ໄດ້ສະຫນອງຂໍ້ມູນສ່ວນບຸກຄົນ.
 page-info-security-no-owner =
     .value = ເວັບໄຊຕ໌ນີ້ບໍ່ໄດ້ສະຫນອງຂໍ້ມູນສ່ວນບຸກຄົນ.
 permissions-use-default =

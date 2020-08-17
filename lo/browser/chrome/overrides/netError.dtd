@@ -11,19 +11,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "ບໍ່ສາມາດເຊື່ອມຕໍ່">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "ທີ່ຢູ່ນີ້ໄດ້ຖືກຈໍາກັດ">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "ບໍ່ພົບເຊີບເວີ">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "ອືມ. ພວກເຮົາມີບັນຫາໃນການຄົ້ນຫາເວັບໄຊທ໌ນັ້ນ.">
-
-<!ENTITY fileNotFound.title "ບໍ່ພົບໄຟລ໌">
 
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -31,11 +23,7 @@
   <li>ກວດເບິງວ່າໄຟລ໌ໄດ້ຖືກຍ້າຍ, ປ່ຽນຊື່ ຫລື ລຶບຖີ້ມ.</li>
 </ul>">
 
-<!ENTITY fileAccessDenied.title "ການເຂົ້າເຖິງໄຟລ໌ໄດ້ຖືກປະຕິເສດ">
-
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>ມັນອາດຈະຖືກລຶບອອກໄປແລ້ວ, ຍ້າຍໄປໄວ້ຢູ່ບ່ອນອື່ນແລ້ວ ຫລື ທ່ານອາດບໍ່ມີສິດເຂົ້າເຖິງຟາຍຂໍ້ມູນນີ້.</li> </ul>">
-
-<!ENTITY generic.title "ອຸ່ຍ.">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ບໍ່ສາມາດໂຫລດຫນ້າເວັບນີ້ໄດ້ດ້ວຍບາງເຫດຜົນ.</p>">
@@ -48,25 +36,13 @@
 <!ENTITY openPortalLoginPage.label2 "ເປີດຫນ້າເຂົ້າສູ່ລະບົບເຄືອຂ່າຍ">
 
 <!ENTITY malformedURI.pageTitle "URL ບໍ່ຖືກຕ້ອງ">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "ອືມ. ທີ່ຢູ່ນັ້ນເບິ່ງຄືວ່າຈະບໍ່ຖືກຕ້ອງ.">
-
-<!ENTITY netInterrupt.title "ການເຊື່ອມຕໍ່ຖືກລົບກວນ">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "ເອກະສານຫມົດອາຍຸ">
-
-<!ENTITY netOffline.title "ໂຫມດອອບລາຍ">
-
-<!ENTITY contentEncodingError.title "ມີຂໍ້ຜິດພາດໃນການເຂົ້າລະຫັດເນື້ອຫາ">
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li>
 </ul>">
-
-<!ENTITY unsafeContentType.title "ປະເພດໄຟລ໌ທີ່ບໍ່ປອດໄພ">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -74,22 +50,14 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "ການເຊື່ອມຕໍ່ໄດ້ຮັບການຕັ້ງຄ່າໃຫມ່">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "ການເຊື່ອມຕໍ່ໄດ້ຫມົດເວລາ">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "ບໍ່ເຂົ້າໃຈທີ່ຢູ່ນີ້">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>ທ່ານອາດຈຳເປັນຕ້ອງຕິດຕັ້ງຊອບແວອື່ນເພື່ອເປີດທີ່ຢູ່ນີ້.</li>
 </ul>">
-
-<!ENTITY proxyConnectFailure.title "ພັອກຊີເຊີເວີປະຕິເສດການເຊື່ອມຕໍ່ນີ້">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -97,16 +65,10 @@
   <li>ຕິດຕໍ່ຫາຜູ້ຄ້ມຄອງລະບົບຂອງທ່ານເພື່ອໃຫ້ແນ່ໃຈວ່າພັອກຊີເຊີເວີ ເຮັດວຽກຢູ່.</li>
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "ບໍ່ສາມາດຄົ້ນຫາພັອກຊີເຊີເວີ">
-
-<!ENTITY redirectLoop.title "ຫນ້າເວັບນີ້ມີການປ່ຽນເສັ້ນທາງທີ່ບໍ່ຖືກຕ້ອງ">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>ບາງຄັ້ງບັນຫານີ້ສາມາດເກີດຂື້ນມາຈາກການປິດ ຫລື ປະຕິເສດການຍອມຮັບ ຄຸກກີ້.</li>
 </ul>">
-
-<!ENTITY unknownSocketType.title "ການຕອບສະຫນອງທີ່ບໍ່ຄາດຄິດຈາກເຊີເວີ">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -114,30 +76,20 @@
   <li>ນີ້ອາດຈະເນື່ອງມາຈາກການຕັ້ງຄ່າທີ່ບໍ່ໄດ້ມາດຕະຖານໃນເຊີເວີ.</li>
 </ul>">
 
-<!ENTITY nssFailure2.title "ການເຊື່ອມຕໍ່ທີ່ປອດໄພລົ້ມເຫລວ">
 
 
 
 
 
 
-
-
-<!ENTITY cspBlocked.title "ຖືກບັອກໂດຍນະໂຍບາຍຄວາມປອດໄພທາງດ້ານເນື້ອຫາ">
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນຫນ້າເວັບນີ້ຈາກການໂຫລດໃນທິດທາງນີ້ເພາະວ່າຫນ້າເວັບມີເນື້ອຫາທີ່ຖືກບັອກໄວ້ໂດຍນະໂຍບາຍຄວາມປອດໄພ.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "ມີການຜີດຜາດໃນການເຊື່ອມໂຍງເນື້ອຫາ">
 
 
 <!ENTITY errorReporting.automatic2 "ລາຍງານຂໍ້ຜິດພາດເຊັ່ນນີ້ເພື່ອຊ່ວຍ Mozilla ລະບຸແລະບັອກເວັບໄຊທ໌ທີ່ເປັນອັນຕະລາຍ">
 <!ENTITY errorReporting.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ...​">
 
-<!ENTITY remoteXUL.title "XUL ທາງໄກ">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງບັນຫານີ້.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ຢ່າງປອດໄພ">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -149,7 +101,6 @@
 
 <!ENTITY certerror.copyToClipboard.label "ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard">
 
-<!ENTITY inadequateSecurityError.title "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

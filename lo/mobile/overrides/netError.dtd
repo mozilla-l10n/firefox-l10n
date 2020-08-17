@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>ເອກະສານທີໄດ້ຮ້ອງຂໍໄປບໍ່ມີຢູ່ໃນຖານຄວາມຈຳຊົວຄ່າວຂອງ &brandShortName;.</p><ul><li>ເພື່ອເປັນການຮັກສາຄວາມປອດໄພ, &brandShortName; ຈະບໍ່ມີການຮ້ອງຂໍເອກະສານທີ່ລະອຽດອ່ອນຄືນແບບອັດຕະໂນມັດ.</li><li>ຄິກໃສ່ລອງອີກຄັ້ງເພື່ອຮ້ອງຂໍເອກະສານນີ້ຄືນອີກເທື່ອຫນຶ່ງຈາກເວັບໄຊທ໌ນີ້.</li></ul>">
 
 <!ENTITY netOffline.title "ໂຫມດອັອບໄລນ໌">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>ລອງອີກຄັ້ງ. &brandShortName; ຈະພະຍາຍາມເປີດການເຊື່ອມຕໍ່ ແລະ ໂຫລດຫນ້າເວັບໃຫມ່. <button id='wifi'>ເປີດໄວຟາຍ</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "ມີຂໍ້ຜິດພາດໃນການເຂົ້າລະຫັດເນື້ອຫາ">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li> </ul>">

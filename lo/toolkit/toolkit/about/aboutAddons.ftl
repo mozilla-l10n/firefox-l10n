@@ -10,9 +10,6 @@ addons-page-title = ຕົວຈັດການກັບ Add-ons
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = ກຳລັງໂຫລດ…
-
 list-empty-installed =
     .value = ທ່ານບໍ່ໄດ້ຕິດຕັ້ງ Add-ons ປະເພດນີ້ໄວ້
 
@@ -28,22 +25,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Add-ons ນີ້
 
-install-addon-from-file =
-    .label = ຕິດຕັ້ງ Add-ons ຈາກໄຟລ໌…
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = ເຄື່ອງມືສຳລັບທຸກ Add-ons
-
 show-unsigned-extensions-button =
     .label = ບໍ່ສາມາດຢືນຢັນບາງ extension ໄດ້
 
 show-all-extensions-button =
     .label = ສະແດງ extension ທັງຫມົດ
-
-debug-addons =
-    .label = ດີບັກ Add-on
-    .accesskey = B
 
 cmd-find-updates =
     .label = ຊອກຫາການອັບເດດ
@@ -102,10 +88,6 @@ detail-rating =
 addon-restart-now =
     .label = ເລີ່ມລະບົບໃໝ່ດຽວນີ້
 
-extensions-view-available-updates =
-    .name = ອັບເດດທີ່ມີຢູ່
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = ສ່ວນຂະຫຍາຍ
 addon-category-extension-title =
     .title = ສ່ວນຂະຫຍາຍ
@@ -127,35 +109,16 @@ addon-category-available-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
 extensions-warning-safe-mode = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
 
 
 ## Strings connected to add-on updates
-
-extensions-updates-check-for-updates =
-    .label = ກວດສອບການອັບເດດ
-    .accesskey = C
 
 addon-updates-check-for-updates = ກວດສອບການອັບເດດ
     .accesskey = C
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ
-    .accesskey = A
 
 addon-updates-update-addons-automatically = ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ
     .accesskey = A
@@ -168,11 +131,6 @@ addon-updates-update-addons-automatically = ອັບເດດ Add-ons ໂດຍ
 
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = ກຳລັງອັບເດດ add-ons
-extensions-updates-manual-updates-found =
-    .label = ເບິ່ງການອັບເດດທີ່ມີຢູ່
 
 addon-updates-updating = ກຳລັງອັບເດດ add-ons
 addon-updates-manual-updates-found = ເບິ່ງການອັບເດດທີ່ມີຢູ່

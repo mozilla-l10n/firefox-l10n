@@ -35,9 +35,9 @@ reopen-in-container =
 move-to-new-window =
     .label = ຍ້າຍໄປວິນໂດໃໝ່
     .accesskey = ວ
-undo-close-tab =
-    .label = ເອີ້ນຄືນແທັບທີ່ຫາກໍປິດ
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ປິດແທັບ
     .accesskey = C

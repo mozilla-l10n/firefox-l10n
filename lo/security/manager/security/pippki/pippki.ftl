@@ -14,6 +14,8 @@ change-password-old = ລະຫັດຜ່ານປະຈຸບັນ
 ## Reset Password dialog
 
 
+## Reset Primary Password dialog
+
 ## Downloading cert dialog
 
 download-cert-trust-ssl =

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-context-menu-undo-close-tab =
-    .label = ເອີ້ນຄືນແທັບທີ່ຫາກະປິດ
-    .accesskey = U
-
 toolbar-context-menu-manage-extension =
     .label = ຈັດການສ່ວນຂະຫຍາຍ
     .accesskey = E

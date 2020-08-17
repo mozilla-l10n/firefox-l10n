@@ -7,13 +7,6 @@ do-not-track-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 do-not-track-option-always =
     .label = ຕະຫຼອດເວລາ
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] ທາງເລືອກ
-           *[other] ຕັ້ງຄ່າ
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] ທາງເລືອກ
@@ -294,10 +287,6 @@ update-application-use-service =
     .label = ໃຊ້ບໍລິການພື້ນຫລັງໃນການຕິດຕັ້ງການອັບເດດ
     .accesskey = b
 
-update-enable-search-update =
-    .label = ອັບເດດເຄື່ອງມືການຊອກຫາໂດຍອັດຕະໂນມັດ
-    .accesskey = e
-
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
@@ -398,7 +387,6 @@ home-prefs-topsites-description = ເວັບໄຊທ໌ທີ່ທ່ານ�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = ແນະນຳໂດຍ { $provider }
-home-prefs-recommended-by-description = ເນື້ອຫາທີ່ຍອດຢ້ຽມຈາກເວັບຕ່າງໆ, ປັບແຕ່ງໃຫ້ເປັນສ່ວນບຸກຄົນເພື່ອທ່ານ
 ##
 
 home-prefs-recommended-by-option-sponsored-stories =
@@ -435,7 +423,6 @@ search-bar-shown =
     .label = ເພີ່ມແທັບຊອກຫາໃນແທັບເຄື່ອງມື
 
 search-engine-default-header = ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
-search-engine-default-desc = ເລືອກເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນເພື່ອໃຊ້ໃນແທັບທີ່ຢູ່ ແລະ ແທັບຄົ້ນຫາ
 
 search-suggestions-option =
     .label = ໃຫ້ຄໍາແນະນໍາໃນການຊອກຫາ
@@ -472,8 +459,6 @@ search-keyword-warning-bookmark = ທ່ານໄດ້ເລືອກເອົ�
 
 ## Containers Section
 
-containers-back-link = « ກັບຄືນ
-
 containers-header = ແທັບແຍກຂໍ້ມູນ
 containers-add-button =
     .label = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
@@ -493,14 +478,6 @@ containers-remove-button =
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
 sync-signedout-description = ເຊື່ອມຂໍ້ມູນບຸກມາກ, ປະຫວັດການໃຊ້ງານລ່າສຸດ, ແທັບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ, ແລະການຕັ້ງຄ່າຂອງທ່ານໃຫ້ກົງກັນໃນທຸກໆອຸປະກອນ.
 
-sync-signedout-account-title = ເຊື່ອມຕໍ່ດ້ວຍ { -fxaccount-brand-name }
-sync-signedout-account-create = ບໍ່ມີບັນຊີຢູ່ແລ້ວ? ເລີ່ມລົງທະບຽນເລີຍ
-    .accesskey = c
-
-sync-signedout-account-signin =
-    .label = ລົງຊື່ເຂົ້າໃຊ້…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -519,10 +496,6 @@ sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n
 sync-profile-picture =
     .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
 
-sync-disconnect =
-    .label = ຕັດການເຊື່ອມຕໍ່…
-    .accesskey = D
-
 sync-manage-account = ຈັດການບັນຊີ
     .accesskey = o
 
@@ -540,9 +513,6 @@ sync-remove-account =
 sync-sign-in =
     .label = ລົງຊື່ເຂົ້າໃຊ້
     .accesskey = g
-
-sync-signedin-settings-header = ການຕັ້ງຄ່າ Sync
-sync-signedin-settings-desc = ເລືອກຂໍ້ມູນທີ່ຈະເຊື່ອມໃນອຸປະກອນຂອງທ່ານໂດຍໃຊ້ { -brand-short-name }
 
 ## Sync section - enabling or disabling sync.
 
@@ -564,11 +534,6 @@ sync-engine-tabs =
     .label = ແທັບທີ່ເປີດ
     .tooltiptext = ລາຍການສິ່ງທີ່ເປີດເທິງອຸປະກອນທີ່ຊິງຄ໌ແລ້ວທັງຫມົດ
     .accesskey = t
-
-sync-engine-logins =
-    .label = ການເຂົ້າສູ່ລະບົບ
-    .tooltiptext = ຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານທີ່ທ່ານໄດ້ບັນທຶກໄວ້
-    .accesskey = L
 
 sync-engine-addresses =
     .label = ທີ່ຢູ່
@@ -610,10 +575,6 @@ sync-device-name-save =
     .label = ບັນທຶກ
     .accesskey = v
 
-sync-tos-link = ເງື່ອນໄຂການໃຫ້ບໍລິການ
-
-sync-fxa-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
-
 ## Privacy Section
 
 privacy-header = ຄວາມເປັນສ່ວນຕົວຂອງບຣາວເຊີ
@@ -641,6 +602,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = ຕອນນີ້ທ່ານກຳຫລັງຢູ່ໃນໂຫມດ FIPS. FIPS ຕ້ອງການໃຊ້ລະຫັດຜ່ານຫລັກ.
+
 forms-master-pw-fips-desc = ການປ່ຽນລະຫັດຜ່ານລົ້ມເຫລວ
 
 ## OS Authentication dialog
@@ -739,8 +701,6 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = ການປິດກັ້ນເນື້ອຫາ
-
 content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## These strings are used to define the different levels of
@@ -782,10 +742,6 @@ permissions-notification-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 permissions-notification-pause =
     .label = ຢຸດການແຈ້ງເຕືອນຊົ່ວຄາວຈົນກວ່າ { -brand-short-name } ເລີ່ມເຮັດວຽກໃຫມ່
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = ຂໍ້ຍົກເວັ້ນ…
-    .accesskey = E
 
 permissions-block-popups =
     .label = ປິດກັ້ນວິນໂດປັອບອັບ
@@ -898,6 +854,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = ຕ
 
 space-alert-under-5gb-message = ພື້ນທີດີດຂອງ { -brand-short-name } ກຳລັງຈະເຕັມ. ເນື້ອຫາເວັບໄຊອາດສະແດງຜົນບໍ່ຖືກຕ້ອງ. ຢ້ຽມຢາມ “ຮຽນຮູ້ເພີ່ມເຕີມ” ເພື່ອເພີ່ມປະສິດທິພາບການໃຊ້ງານດີດຂອງທ່ານສຳລັບປະສົບການທ່ອງເວັບທີ່ດີຂຶ້ນ
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

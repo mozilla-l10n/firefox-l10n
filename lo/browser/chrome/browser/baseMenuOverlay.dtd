@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "ນ້ອຍສຸດ">
-<!ENTITY bringAllToFront.label    "ນຳເອົາທັ້ງຫມົດສູ່ຕົວອັກສອນ">
-<!ENTITY zoomWindow.label         "ຂະຫຍາຍ">
-<!ENTITY windowMenu.label         "ຫນ້າຕ່າງ">
-
-<!ENTITY helpMenu.label           "ວິທີໃຊ້"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "ວິທີໃຊ້"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShorterName; ຊ່ວຍເຫລືອ">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "ແປ້ນພີມລັດ">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…">
-<!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມເປີດໃຊ້ງານໂປຣແກຣມເສີມ">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "ຂໍ້ມູນຂອງການແກ້ໄຂບັນຫາ">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "ສົ່ງຄຳຕຳນິຕິສົມ...">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; ວິທີໃຊ້">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "ການຕັ້ງຄ່າຕາມໃຈ...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "ບໍລິການ">
 
 <!ENTITY hideThisAppCmdMac2.label       "ເຊື່ອງ &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "ເຊື່ອງອັນອື່ນໆ">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "ສະແດງທັງໝົດ">
 

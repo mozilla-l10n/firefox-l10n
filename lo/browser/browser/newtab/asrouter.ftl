@@ -89,3 +89,11 @@ cfr-doorhanger-extension-total-users =
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+
