@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Exit Fullscreen
 find = Find
 new-tab = New tab
 add-bookmark = Add bookmark
-open-bookmarks-sidebar = Open Bookmarks Sidebar
 reader-view = Reader View
 # Meant to match the string displayed in an empty URL bar.
 open-location = Search or enter address

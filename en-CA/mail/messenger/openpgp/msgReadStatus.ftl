@@ -7,10 +7,12 @@ openpgp-view-signer-key =
 openpgp-view-your-encryption-key =
     .label = View your decryption key
 openpgp-openpgp = OpenPGP
+
 openpgp-no-sig = No Digital Signature
 openpgp-uncertain-sig = Uncertain Digital Signature
 openpgp-invalid-sig = Invalid Digital Signature
 openpgp-good-sig = Good Digital Signature
+
 openpgp-sig-uncertain-no-key = This message contains a digital signature, but it is uncertain if it is correct. To verify the signature, you need to obtain a copy of the sender’s public key.
 openpgp-sig-uncertain-uid-mismatch = This message contains a digital signature, but a mismatch was detected. The message was sent from an email address that doesn’t match the signer’s public key.
 openpgp-sig-uncertain-not-accepted = This message contains a digital signature, but you haven’t yet decided if the signer’s key is acceptable to you.
@@ -19,10 +21,14 @@ openpgp-sig-invalid-technical-problem = This message contains a digital signatur
 openpgp-sig-valid-unverified = This message includes a valid digital signature from a key that you have already accepted. However, you have not yet verified that the key is really owned by the sender.
 openpgp-sig-valid-verified = This message includes a valid digital signature from a verified key.
 openpgp-sig-valid-own-key = This message includes a valid digital signature from your personal key.
+
 openpgp-sig-key-id = Signer key ID: { $key }
 openpgp-sig-key-id-with-subkey-id = Signer key ID: { $key } (Sub key ID: { $subkey })
+
 openpgp-enc-key-id = Your decryption key ID: { $key }
 openpgp-enc-key-with-subkey-id = Your decryption key ID: { $key } (Sub key ID: { $subkey })
+
 openpgp-unknown-key-id = Unknown key
+
 openpgp-other-enc-additional-key-ids = In addition, the message was encrypted to the owners of the following keys:
 openpgp-other-enc-all-key-ids = The message was encrypted to the owners of the following keys:

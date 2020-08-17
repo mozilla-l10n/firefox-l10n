@@ -25,21 +25,6 @@ graph-private-window = { -brand-short-name } continues to  block trackers in Pri
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Trackers { -brand-short-name } blocked this week
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Protection Level is set to <b>Standard</b>
-    .title = Go to Privacy Settings
-protection-report-header-details-strict = Protection Level is set to <b>Strict</b>
-    .title = Go to Privacy Settings
-protection-report-header-details-custom = Protection Level is set to <b>Custom</b>
-    .title = Go to Privacy Settings
-protection-report-page-title = Privacy Protections
-protection-report-content-title = Privacy Protections
-
-etp-card-title = Enhanced Tracking Protection
-etp-card-content = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
-
 protection-report-webpage-title = Protections Dashboard
 protection-report-page-content-title = Protections Dashboard
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -86,12 +71,9 @@ mobile-app-card-content = Use the mobile browser with built-in protection agains
 mobile-app-links = { -brand-product-name } Browser for <a data-l10n-name="android-mobile-inline-link">Android</a> and <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Never forget a password again
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Password Management
 lockwise-header-content = { -lockwise-brand-name } securely stores your passwords in your browser.
 lockwise-header-content-logged-in = Securely store and sync your passwords to all your devices.
-protection-report-view-logins-button = View Logins
-    .title = Go to Saved Logins
 protection-report-save-passwords-button = Save Passwords
     .title = Save Passwords on { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Manage Passwords
@@ -99,15 +81,6 @@ protection-report-manage-passwords-button = Manage Passwords
 lockwise-mobile-app-title = Take your passwords everywhere
 lockwise-no-logins-card-content = Use passwords saved in { -brand-short-name } on any device.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Password stored securely <a data-l10n-name="lockwise-how-it-works">How it works</a>
-       *[other] Passwords stored securely <a data-l10n-name="lockwise-how-it-works">How it works</a>
-    }
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
@@ -131,21 +104,10 @@ lockwise-how-it-works-link = How it works
 turn-on-sync = Turn on { -sync-brand-short-name }…
     .title = Go to sync preferences
 
-manage-connected-devices = Manage devices…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Connected to { $count } device
-       *[other] Connected to { $count } devices
-    }
-
 monitor-title = Look out for data breaches
 monitor-link = How it works
 monitor-header-content-no-account = Check { -monitor-brand-name } to see if you’ve been part of a known data breach, and get alerts about new breaches.
 monitor-header-content-signed-in = { -monitor-brand-name } warns you if your info has appeared in a known data breach.
-monitor-sign-up = Sign Up for Breach Alerts
 monitor-sign-up-link = Sign Up for Breach Alerts
     .title = Sign up for breach alerts on { -monitor-brand-name }
 auto-scan = Automatically scanned today
@@ -191,17 +153,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] Password exposed across all breaches
        *[other] Passwords exposed across all breaches
-    }
-
-full-report-link = View full report on <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Saved login may have been exposed in a data breach. Change this password for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
-       *[other] Saved logins may have been exposed in a data breach. Change these passwords for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
     }
 
 # This string is displayed after a large numeral that indicates the total number
