@@ -12,7 +12,7 @@
 <!ENTITY spellDictionaries.label "Jezici">
 <!ENTITY spellDictionaries.accesskey "J">
 
-<!ENTITY searchTextBox.clear.label "Obriši">
+<!ENTITY searchTextBox.clear.label "Izbriši">
 
 <!ENTITY fillLoginMenu.label          "Popuni prijavu">
 <!ENTITY fillLoginMenu.accesskey      "u">

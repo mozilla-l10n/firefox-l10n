@@ -20,7 +20,7 @@ url-classifier-provider-last-update-status = Stanje zadnjeg aktualiziranja
 url-classifier-provider-update-btn = Aktualiziraj
 url-classifier-cache-title = Međuspremnik
 url-classifier-cache-refresh-btn = Osvježi
-url-classifier-cache-clear-btn = Obriši
+url-classifier-cache-clear-btn = Izbriši
 url-classifier-cache-table-name = Naziv tablice
 url-classifier-cache-ncache-entries = Broj negativnih unosa u predmemoriju
 url-classifier-cache-pcache-entries = Broj pozitivnih unosa u predmemoriju
@@ -28,7 +28,6 @@ url-classifier-cache-show-entries = Prikaži unose
 url-classifier-cache-entries = Zapisi predmemorije
 url-classifier-debug-modules = Trenutačni log moduli
 url-classifier-debug-file = Trenutačna log datoteka
-
 url-classifier-trigger-update = Pokreni nadogradnju
 url-classifier-not-available = Ništa
 url-classifier-disable-sbjs-log = Onemogući JS zapis sigurnog pregledavanja

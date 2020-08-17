@@ -12,22 +12,18 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Došlo je do pogreške prilikom povezivanja na { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kȏd greške: { $error }
-
 psmerr-ssl-disabled = Sigurno povezivanje nije moguće, jer je SSL protokol deaktiviran.
 psmerr-ssl2-disabled = Sigurno povezivanje nije moguće, jer stranica koristi stariju, nesigurnu verziju protokola.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Primljen je neispravni certifikat. Kontaktiraj administratora poslužitelja ili pošalji e-poruku sa sljedećim informacijama:
     
     Tvoj certifikat sadrži isti serijski broj kao i još barem jedan certifikat, kojeg je izdalo isto certifikacijsko tijelo. Nabavi novi certifikat s jednistvenim serijskim brojem.
-
-ssl-error-export-only-server = Sigurna komunikacija nije moguća. Čvor ne podržava kriptiranje visoke razine.
-ssl-error-us-only-server = Sigurna komunikacija nije moguća. Čvor zahtijeva kriptiranje visoke razine, koje nije podržano.
+ssl-error-export-only-server = Sigurna komunikacija nije moguća. Čvor ne podržava šifriranje visoke razine.
+ssl-error-us-only-server = Sigurna komunikacija nije moguća. Čvor zahtijeva šifriranje visoke razine, koje nije podržano.
 ssl-error-no-cypher-overlap = Sigurna komunikacija s čvorom nije moguća: nema zajedničkih algoritama šifriranja.
 ssl-error-no-certificate = Certifikat ili ključ potreban za prijavu nije moguće pronaći.
 ssl-error-bad-certificate = Sigurna komunikacija s čvorom nije moguća: certifikat čvora je odbijen.
@@ -153,7 +149,7 @@ ssl-error-rx-unexpected-cert-status = SSL je primio neočekivanu "Certificate St
 ssl-error-unsupported-hash-algorithm = TLS čvor koristi nepodržani hash algoritam.
 ssl-error-digest-failure = Digest funkcija nije uspjela.
 ssl-error-incorrect-signature-algorithm = Digitalno potpisan element ima netočno definiran algoritam potpisa.
-ssl-error-next-protocol-no-callback = Proširenje dogovaranja idućeg protokola je aktivirano, ali ponovni poziv je obrisan prije no što je bio potreban.
+ssl-error-next-protocol-no-callback = Proširenje dogovaranja idućeg protokola je aktivirano, ali ponovni poziv je izbrisan prije no što je bio potreban.
 ssl-error-next-protocol-no-protocol = Poslužitelj ne potžava nijedan protokol kojeg klijent oglašava u ALPN proširenju.
 ssl-error-inappropriate-fallback-alert = Poslužitelj je odbio rukovanja jer je klijent zatražio prelazak na nižu verziju TLS-a, koju poslužitelj ne podržava.
 ssl-error-weak-server-cert-key = Certifikat poslužitelja je sadržavao javni ključ koji je pre slab.
@@ -245,7 +241,7 @@ sec-error-pkcs12-invalid-mac = Uvoz nije moguć. Nevažeći MAC. Netočna lozink
 sec-error-pkcs12-unsupported-mac-algorithm = Uvoz nije moguć. MAC algoritam nije podržan.
 sec-error-pkcs12-unsupported-transport-mode = Uvoz nije moguć. Podržan je samo integritet lozinke i privatni način.
 sec-error-pkcs12-corrupt-pfx-structure = Uvoz nije moguć. Struktura datoteke je oštećena.
-sec-error-pkcs12-unsupported-pbe-algorithm = Uvoz nije moguć. Algoritam kriptiranja nije podržan.
+sec-error-pkcs12-unsupported-pbe-algorithm = Uvoz nije moguć. Algoritam šifriranja nije podržan.
 sec-error-pkcs12-unsupported-version = Uvoz nije moguć. Verzija datoteke nije podržana.
 sec-error-pkcs12-privacy-password-incorrect = Uvoz nije moguć. Netočna lozinka privatnosti.
 sec-error-pkcs12-cert-collision = Uvoz nije moguć. Isti nadimak već postoji u bazi podataka.
