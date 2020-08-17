@@ -192,6 +192,7 @@ use-current-pages =
 ## Privacy Section - Logins and Passwords
 
 forms-master-pw-fips-title = U le ka modi wa FIPS sweswi. FIPS yi lava Phasiwedinkulu leyi nga na swin'wana.
+
 forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 ## OS Authentication dialog
@@ -231,6 +232,8 @@ forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 ## Privacy Section - Certificates
 
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

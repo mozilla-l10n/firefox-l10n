@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label "Hlela">
 <!ENTITY editMenu.accesskey "h">
 <!ENTITY undoCmd.label "Lulamisa nakambe">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "l">
 <!ENTITY redoCmd.label "Endla nakambe">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "e">
-<!ENTITY cutCmd.label "Tsema">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "m">
-<!ENTITY copyCmd.label "Kopa">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Dameketa">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "d">
 <!ENTITY deleteCmd.label "Sula">
 <!ENTITY deleteCmd.accesskey "s">
-<!ENTITY selectAllCmd.label "Hlawula hinkwaswo">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY preferencesCmdUnix.label "Minhlawulo">
 <!ENTITY preferencesCmdUnix.accesskey "w">
 

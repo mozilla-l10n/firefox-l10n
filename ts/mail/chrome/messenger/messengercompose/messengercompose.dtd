@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "Endla nakambe">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "e">
-<!ENTITY cutCmd.label "Tsema">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "a">
-<!ENTITY copyCmd.label "Kopa">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Damaketa">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "d">
 <!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Sula">
 <!ENTITY deleteCmd.accesskey "u">
 <!ENTITY editRewrapCmd.label "Putsela nakambe">
-<!ENTITY selectAllCmd.label "Hlawula hinkwaswo">
 <!ENTITY selectAllCmd.accesskey "h">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Kuma nakambe">
 <!ENTITY findAgainCmd.accesskey "b">
 <!ENTITY findAgainCmd.key "G">
@@ -180,17 +172,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "Ku suka eka:">
 <!ENTITY fromAddr.accesskey "u">
-<!ENTITY toAddr.label "Ku ya eka:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Hlamula eka:">
-<!ENTITY newsgroupsAddr.label "Ntlawa wa mahungu:">
-<!ENTITY followupAddr.label "Landzelerisa Eka:">
-<!ENTITY subject.label "Nhlokomhaka:">
 <!ENTITY subject.accesskey "N">
-<!ENTITY attachments.accesskey "m">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
