@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "…ਫਾਈਲ ਨੂੰ ਚੁਣੋ">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "ਇਹ ਸਾਈਟ ਨੂੰ ਭੁੱਲ ਜਾਓ">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "ਖੋਲ੍ਹੋ">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "ਸਭ ਨੂੰ ਟੈਬਾਂ 'ਚ ਖੋਲ੍ਹੋ">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "ਵਿਸ਼ੇਸ਼ਤਾ">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "…ਨਵਾਂ ਬੁੱਕਮਾਰਕ">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "…ਨਵਾਂ ਫੋਲਡਰ">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "ਨਵਾਂ ਵੱਖਰੇਵਾਂ">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "ਨਾਂ">
 <!ENTITY col.tags.label          "ਟੈਗ">
 <!ENTITY col.url.label           "ਟਿਕਾਣਾ">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "ਖੋਲ੍ਹਣ ਗਿਣਤੀ">
 <!ENTITY col.dateadded.label     "ਜੋੜਨ ਮਿਤੀ">
 <!ENTITY col.lastmodified.label  "ਆਖਰੀ ਸੋਧ">
-
-<!ENTITY historySearch.placeholder  "ਅਤੀਤ ਖੋਜੋ">
-<!ENTITY bookmarksSearch.placeholder  "ਬੁੱਕਮਾਰਕ ਖੋਜੋ">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ਕਿਸੇ ਆਈਟਮ ਨੂੰ ਵੇਖਣ ਤੇ ਉਸਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧਣ ਲਈ ਚੁਣੋ">
 
-<!ENTITY view.label               "ਵੇਖੋ">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "ਮਿਤੀ">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "ਸਾਈਟ">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "ਸਭ ਤੋਂ ਵੱਧ ਵਾਰ ਖੋਲ੍ਹੀਆਂ">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "ਮਿਤੀ ਤੇ ਸਮੇਂ">
-<!ENTITY byDayAndSite.accesskey   "t">

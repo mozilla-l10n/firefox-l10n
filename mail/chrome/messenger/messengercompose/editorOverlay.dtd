@@ -5,25 +5,15 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "ਬਿਨਾਂ ਫਾਰਮੈਟ ਦੇ ਹੀ ਚੇਪੋ">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "ਇੰਝ ਚੇਪੋ">
-<!ENTITY pasteAs.accesskey "a">
 
 
 <!ENTITY pasteAsQuotationCmd.label "ਹਵਾਲੇ ਵਜੋਂ ਚੇਪੋ">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY enableInlineSpellChecker.label "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਉਵੇਂ ਹੀ ਸਪੈਲਚੈੱਕ ਕਰੋ">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ਸ਼ਾਮਲ">
@@ -177,9 +167,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "ਮੁੱਖ ਭਾਗ ਟੈਕਸਟ">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "ਤਕਨੀਕੀ ਵਿਸ਼ੇਸ਼ਤਾ">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "ਇਕਸਾਰ">
@@ -196,11 +183,6 @@
 <!ENTITY alignJustify.label "ਲੋੜ ਮੁਤਾਬਕ">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Justified ਸੈੱਟ ਕਰੋ">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "ਲੇਅਰ">
-<!ENTITY layerSendToBack.tooltip "ਪਿੱਛੇ ਭੇਜੋ">
-<!ENTITY layerBringToFront.tooltip "ਅੱਗੇ ਲਿਆਓ">
 
 <!ENTITY increaseIndent.label "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰੀ ਵਧਾਓ">
 <!ENTITY increaseIndent.accesskey "I">
@@ -275,21 +257,7 @@
 <!ENTITY tableProperties.label "ਟੇਬਲ ਵਿਸ਼ੇਸ਼ਤਾ…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "ਮੁੱਖ ਪੱਟੀ">
-<!ENTITY formatToolbar.tooltip "ਫਾਰਮੈਟਿੰਗ ਟੂਲਬਾਰ">
 
-
-
-<!ENTITY cutToolbarCmd.tooltip "ਕੱਟੋ">
-<!ENTITY copyToolbarCmd.tooltip "ਕਾਪੀ ਕਰੋ">
-<!ENTITY pasteToolbarCmd.tooltip "ਚੇਪੋ">
-<!ENTITY printToolbarCmd.label "ਪ੍ਰਿੰਟ ਕਰੋ">
-<!ENTITY printToolbarCmd.tooltip "ਇਹ ਸਫ਼ਾ ਪ੍ਰਿੰਟ ਕਰੋ">
-<!ENTITY findToolbarCmd.label "ਖੋਜ">
-<!ENTITY findToolbarCmd.tooltip "ਸਫ਼ੇ ਵਿੱਚ ਟੈਕਸਟ ਲੱਭੋ">
-<!ENTITY spellToolbarCmd.label "ਸਪੈਲ">
-<!ENTITY spellToolbarCmd.tooltip "ਚੋਣ ਜਾਂ ਪੂਰੇ ਸਫ਼ੇ ਲਈ ਸਪੈਲ ਚੈੱਕ ਕਰੋ">
 
 <!ENTITY imageToolbarCmd.label "ਚਿੱਤਰ">
 <!ENTITY imageToolbarCmd.tooltip "Insert new image or edit selected image's properties">
@@ -303,7 +271,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
 <!ENTITY TextColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਰੰਗ ਚੁਣੋ">
 <!ENTITY BackgroundColorButton.tooltip "ਬੈਕਗਰਾਊਂਡ ਲਈ ਰੰਗ ਚੁਣੋ">
-<!ENTITY HighlightColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਹਾਈਲਾਈਟ ਰੰਗ ਚੁਣੋ">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "ਫੋਂਟ ਆਕਾਰ ਹੋਰ ਛੋਟਾ">
@@ -321,14 +288,6 @@
 <!ENTITY alignCenterButton.tooltip "Align text centered">
 <!ENTITY alignRightButton.tooltip "Align text along right margin">
 <!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "ਚੁਣੋ">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "ਟੈਗ ਹਟਾਓ">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "ਟੈਗ ਬਦਲੋ">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "ਸ਼ਾਮਲ">

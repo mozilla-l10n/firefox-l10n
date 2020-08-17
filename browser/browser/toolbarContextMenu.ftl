@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = ਸਾਰੀਆਂ ਟੈਬਾਂ ਚੁਣੋ
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਿਸ ਲਵੋ
-    .accesskey = U
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -28,18 +25,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਵਾਪਸ ਲਵੋ
         }
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

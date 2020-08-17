@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'>
 appmenu-addon-post-install-incognito-checkbox =
     .label = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਜ਼ ਵਿੱਚ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਜ਼ ਵਿੱਚ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਬਦਲੋ
-    .buttonlabel = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-    .buttonaccesskey = M
-    .secondarybuttonlabel = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = { -brand-shorter-name } ‘ਚ ਤੁਹਾਡੇ ਵਲੋਂ ਕੋਈ ਵੀ ਨਵੀਂ ਜੋੜੀ ਗਈ ਇਕਸਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ‘ਚ ਤਦ ਤੱਕ ਕੰਮ ਨਹੀਂ ਕਰੇਗੀ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ‘ਚ ਇਸ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੰਦੇ।
-appmenu-addon-private-browsing-learn-more = ਸਿੱਖੋ ਕਿ ਇਕਟਨੈਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਦਾ ਕਿਵੇਂ ਕਰੀਏ
     
 appmenu-new-tab-controlled =
     .label = ਤੁਹਾਡੀ ਨਵੀਂ ਟੈਬ ਬਦਲੀ ਜਾ ਚੁੱਕੀ ਹੈ।

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = ਪਿੰਗ ਡਾਟਾ ਸਰੋਤ:
-about-telemetry-show-current-ping-data = ਮੌਜੂਦਾ ਪਿੰਗ ਡਾਟਾ
 about-telemetry-show-current-data = ਮੌਜੂਦਾ ਡਾਟਾ
 about-telemetry-show-archived-ping-data = ਅਕਾਇਵ ਕੀਤਾ ਪਿੰਗ ਡਾਟਾ
 about-telemetry-show-subsession-data = ਸਬ-ਸ਼ੈਸ਼ਨ ਡਾਟਾ ਦੇਖੋ
@@ -83,8 +82,6 @@ about-telemetry-no-search-results-all = ਅਫ਼ਸੋਸ! “{ $searchTerms }” 
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = ਅਫ਼ਸੋਸ! ਇਸ ਵੇਲੇ “{ $sectionName }” ਵਿੱਚ ਕੋਈ ਵੀ ਡਾਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ਮੌਜੂਦਾ ਪਿੰਗ
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ਸਾਰੇ
 # button label to copy the histogram

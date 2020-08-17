@@ -35,12 +35,7 @@ connection-proxy-http = HTTP ਪਰਾਕਸੀ
     .accesskey = x
 connection-proxy-http-port = ਪੋਰਟ
     .accesskey = p
-connection-proxy-http-share =
-    .label = ਸਭ ਪਰੋਟੋਕਾਲਾਂ ਲਈ ਇਹ ਸਰਵਰ ਵਰਤੋਂ
-    .accesskey = x
 
-connection-proxy-ssl = SSL ਪਰਾਕਸੀ
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = ਇਹੀ ਪਰਾਕਸੀ FTP ਅਤੇ HTTPS ਲਈ ਵੀ ਵਰਤੋ
     .accesskey = s

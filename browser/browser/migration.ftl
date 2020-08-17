@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = ਇੰਪੋਰਟ ਸਹਾਇਕ
+
 import-from =
     { PLATFORM() ->
         [windows] ਚੋਣ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
        *[other] ਚੋਣ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
     }
+
 import-from-bookmarks = ਬੁੱਕਮਾਰਕ ਇੱਥੋਂ ਇੰਪੋਰਟ:
 import-from-ie =
     .label = ਮਾਈਕ੍ਰੋਸਾਫਟ ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ
     .accesskey = 3
+
 no-migration-sources = ਕੋਈ ਵੀ ਅਜੇਹਾ ਪਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ ਹੈ, ਜੋ  ਕਿ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਰੱਖਦਾ ਹੋਵੇ।
+
 import-source-page-title = ਸੈਟਿੰਗ ਅਤੇ ਡਾਟਾ ਇੰਪੋਰਟ ਕਰੋ
 import-items-page-title = ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਆਈਟਮਾਂ
+
 import-items-description = ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਆਈਟਮਾਂ ਚੁਣੋ:
+
 import-migrating-page-title = ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ...
+
 import-migrating-description = ਹੇਠ ਦਿੱਤੀਆਂ ਆਈਟਮਾਂ ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ...
+
 import-select-profile-page-title = ਪਰੋਫਾਇਲ ਚੁਣੋ
+
 import-select-profile-description = ਇਹ ਪਰੋਫਾਇਲ ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਉਪਲੱਬਧ ਹਨ:
+
 import-done-page-title = ਇੰਪੋਰਟ ਮੁਕੰਮਲ ਹੋਇਆ
+
 import-done-description = ਇਹ ਆਈਟਮਾਂ ਸਫਲਤਾਪੂਰਕ ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ:
+
 import-close-source-browser = ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਚੁਣੇ ਗਏ ਬਰਾਊਜ਼ਰ ਦੇ ਬੰਦ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ।
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source } ਤੋਂ
+
 source-name-ie = ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -76,6 +90,7 @@ source-name-chrome-dev = ਗੂਗਲ ਕਰੋਮ ਡਿਵ
 source-name-chromium = Chromium
 source-name-firefox = ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ
 source-name-360se = 360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ
+
 imported-safari-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (ਸਫਾਰੀ ਤੋਂ)
 imported-edge-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Edge ਤੋਂ)
 
@@ -97,6 +112,7 @@ browser-data-cookies-checkbox =
     .label = ਕੂਕੀਜ਼
 browser-data-cookies-label =
     .value = ਕੂਕੀਜ਼
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -109,10 +125,12 @@ browser-data-history-label =
             [firefox] ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ
            *[other] ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
         }
+
 browser-data-formdata-checkbox =
     .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
 browser-data-formdata-label =
     .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -121,6 +139,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗ-ਇਨ ਅਤੇ ਪਾਸਵਰਡ
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -135,10 +154,12 @@ browser-data-bookmarks-label =
             [edge] ਮਨਪਸੰਦ
            *[other] ਬੁੱਕਮਾਰਕ
         }
+
 browser-data-otherdata-checkbox =
     .label = ਹੋਰ ਡਾਟਾ
 browser-data-otherdata-label =
     .label = ਹੋਰ ਡਾਟਾ
+
 browser-data-session-checkbox =
     .label = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
 browser-data-session-label =

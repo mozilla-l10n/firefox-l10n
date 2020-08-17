@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "ਸੁਰੱਖਿਆ">
-<!ENTITY securityTab.label "ਸੁਰੱਖਿਆ">
-<!ENTITY securityHeading.label "ਸਾਈਨ ਕੀਤੇ ਜਾਂ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਸੁਨੇਹੇ ਭੇਜਣ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ ਡਿਜ਼ਿਟਲ ਸਾਈਨਿੰਗ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਇੱਕ ਇੰਕ੍ਰਿਪਸ਼ਨ ਸਰਟੀਫਿਕੇਟ ਦੋਵੇਂ ਦੱਸਣ ਦੀ ਲੋੜ ਹੈ।">
-<!ENTITY encryptionGroupTitle.label "ਇੰਕ੍ਰਿਪਸ਼ਨ">
-<!ENTITY encryptionChoiceLabel.label "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜਣੇ ਹੋਣ ਤਾਂ ਡਿਫਾਲਟ ਇੰਕ੍ਰਿਪਸ਼ਨ ਸੈਟਿੰਗ:">
-<!ENTITY neverEncrypt.label "ਕਦੇ ਨਹੀਂ (ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾ ਵਰਤੋਂ)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "ਲੋੜੀਦਾ (ਸੁਨੇਹਾ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਜਦੋਂ ਤੱਕ ਸਭ ਪ੍ਰਾਪਤ ਕਰਤਾ ਕੋਲ ਸਰਟੀਫਿਕੇਟ ਨਾ ਹੋਵੇ)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "ਤੁਹਾਨੂੰ ਭੇਜੇ ਸੁਨੇਹੇ ਇੰਕ੍ਰਿਪਟ ਅਤੇ ਡਿਕ੍ਰਿਪਟ ਕਰਨ ਵਾਸਤੇ ਇਹ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ:">
-
 <!ENTITY digitalSign.certificate.button "ਚੁਣੋ…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "ਸਾਫ਼ ਕਰੋ">
@@ -22,11 +11,5 @@
 <!ENTITY encryption.certificate_clear.button "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "ਡਿਜ਼ਿਟਲ ਸਾਈਨਿੰਗ">
-<!ENTITY signMessage.label "ਡਿਜ਼ਿਟਲ ਸਾਈਨ ਸੁਨੇਹੇ (ਡਿਫਾਲਟ)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "ਤੁਹਾਡੇ ਵਲੋਂ ਭੇਜਣ ਵਾਲੇ ਸੁਨੇਹਿਆਂ ਲਈ ਡਿਜ਼ਿਟਲ ਸਾਈਨ ਲਈ ਇਹ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ:">
-
-<!ENTITY certificates.label "ਸਰਟੀਫਿਕੇਟ">
-<!ENTITY manageDevices.label "ਸੁਰੱਖਿਆ ਜੰਤਰ">
-<!ENTITY manageDevices.accesskey "y">
 

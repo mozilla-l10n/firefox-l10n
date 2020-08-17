@@ -63,15 +63,9 @@
 <!ENTITY redoCmd.label "ਪਰਤਾਓ">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r"> 
-<!ENTITY cutCmd.label "ਕੱਟੋ">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c"> 
-<!ENTITY pasteCmd.label "ਚੇਪੋ">
+<!ENTITY cutCmd.key "X"> 
+<!ENTITY copyCmd.key "C"> 
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -81,9 +75,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "ਅਟੈਚਮੈਂਟ ਨਾਂ ਬਦਲੋ…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "ਅੱਗੇ ਖੋਜ">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -203,20 +195,8 @@
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
 
 <!-- Headers -->
-<!-- Headers -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "ਵਲੋਂ:">
-<!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "ਵੱਲ:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "ਜਵਾਬ:"> 
-<!ENTITY newsgroupsAddr.label "ਨਿਊਜ਼ਗਰੁੱਪ:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
-<!ENTITY subject.label "ਵਿਸ਼ਾ:">
+<!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
-
-<!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "ਇੱਕ ਹੱਸਦਾ ਚੇਹਰਾ ਸ਼ਾਮਲ">

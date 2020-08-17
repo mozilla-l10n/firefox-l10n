@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!-- Window title -->
-<!ENTITY windowTitle.label     "ਚਿੱਤਰ ਅਤੇ ਲਿੰਕ ਟਿਕਾਣਾ ਚੁਣੋ">
-<!ENTITY succeeded.label       "ਸਫ਼ਲ">
-<!ENTITY failed.label          "ਅਸਫ਼ਲ">
-<!ENTITY closeButton.label     "ਬੰਦ ਕਰੋ">

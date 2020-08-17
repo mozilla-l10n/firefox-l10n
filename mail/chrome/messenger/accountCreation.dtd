@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "ਤੁਹਾਡਾ ਨਾਂ:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "ਪਹਿਲਾਂ  ਆਖਰੀ">
 <!ENTITY name.text                       "ਤੁਹਾਡਾ ਨਾਂ, ਜੋ ਹੋਰਾਂ ਨੂੰ ਵੇਖਾਈ ਦੇਵੇਗਾ">
 <!ENTITY email.label                     "ਈਮੇਲ ਐਡਰੈਸ:">
 <!ENTITY email.accesskey                 "l">
@@ -21,9 +20,6 @@
 <!ENTITY incoming.label                  "ਆਉਣ:">
 <!ENTITY outgoing.label                  "ਭੇਜਣ:">
 <!ENTITY username.label                  "ਯੂਜ਼ਰ ਨਾਂ:">
-<!ENTITY hostname.label                  "ਸਰਵਰ ਹੋਸਟ ਨਾਂ">
-<!ENTITY port.label                      "ਪੋਰਟ">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "ਪਰਮਾਣਕਿਤਾ">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
@@ -49,8 +45,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "ਮੁੜ-ਟੈਸਟ">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "ਖੁਦ ਸੰਰਚਨਾ ਕਰੋ">
-<!ENTITY manual-edit.accesskey           "M">
 
 
 <!ENTITY warning.label                   "ਸਾਵਧਾਨ!">
