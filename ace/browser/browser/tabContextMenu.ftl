@@ -35,9 +35,9 @@ reopen-in-container =
 move-to-new-window =
     .label = Pinah u Tingkap Barô
     .accesskey = W
-undo-close-tab =
-    .label = Pubateue Tôp Tab
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Tôp Tab
     .accesskey = c

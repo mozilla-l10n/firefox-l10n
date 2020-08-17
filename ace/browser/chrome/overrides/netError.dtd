@@ -17,11 +17,6 @@
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY fileNotFound.title "Beureukaih hana jiteumèë">
-
-
-<!ENTITY generic.title "Oops.">
-
 
 
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
@@ -30,8 +25,6 @@
 
 
 
-
-<!ENTITY unsafeContentType.title "Jeunèh Beureukaih Hana Aman">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 

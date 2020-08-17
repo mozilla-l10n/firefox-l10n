@@ -7,13 +7,6 @@ do-not-track-learn-more = Meurunoë lom
 do-not-track-option-always =
     .label = Sabé
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Atô
-           *[other] Atô
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Atô
@@ -377,10 +370,6 @@ update-application-use-service =
     .label = Ngui servis dilikôt keu pasang ata seubarô
     .accesskey = N
 
-update-enable-search-update =
-    .label = Otomatis peuseubarô meusén seumeutot
-    .accesskey = O
-
 ## General Section - Performance
 
 performance-title = Performen
@@ -507,7 +496,6 @@ home-prefs-topsites-description = Situih nyang kayèm that droëneuh saweuë
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Geu-usui uléh { $provider }
-home-prefs-recommended-by-description = Kontèn krak nibak ban mandum situihwèb, dipeuturi keu droëneuh
 ##
 
 
@@ -545,7 +533,6 @@ search-bar-shown =
     .label = Tamah bar seumeutët bak toolbar
 
 search-engine-default-header = Meusén Mita Baku
-search-engine-default-desc = Piléh meusén mita teutap keu neungui bak kutak alamat ngön kutak mita
 
 search-suggestions-option =
     .label = Geupeutaba hase seutöt
@@ -594,8 +581,6 @@ search-keyword-warning-bookmark = Droeneuh ka neupiléh narit gunci nyang jinoe 
 
 ## Containers Section
 
-containers-back-link = « Gisa
-
 containers-header = Tab Kontainer
 containers-add-button =
     .label = Tamah Kontainer Barô
@@ -615,14 +600,6 @@ containers-remove-button =
 sync-signedout-caption = Cok Web Droen Sajan Droen
 sync-signedout-description = Peuakô bookmark droen, riwayat, tab, lageuem rahsia, add-on, ngön preferensi antara mandum peukakah droen.
 
-sync-signedout-account-title = Meuhubông ngön saboh { -fxaccount-brand-name }
-sync-signedout-account-create = Hana akun lom? Jak ta peuphôn
-    .accesskey = J
-
-sync-signedout-account-signin =
-    .label = Tamöng...
-    .accesskey = T
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -641,10 +618,6 @@ sync-mobile-promo = Donlod Firefox keu <img data-l10n-name="android-icon"/><a da
 sync-profile-picture =
     .tooltiptext = Gantoe gamba profil
 
-sync-disconnect =
-    .label = Putôh konék
-    .accesskey = P
-
 sync-manage-account = Peularha akun
     .accesskey = e
 
@@ -662,9 +635,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Tamong
     .accesskey = g
-
-sync-signedin-settings-header = Peuakô neuatô
-sync-signedin-settings-desc = Pileh pue ta sinkron lam peukakah droen nyang ngui { -brand-short-name }
 
 ## Sync section - enabling or disabling sync.
 
@@ -686,11 +656,6 @@ sync-engine-tabs =
     .label = Peuhah tab tab
     .tooltiptext = Saboh list pue nyang ta peuhah nibak mandum peukakah nyang ka meu sinkron
     .accesskey = P
-
-sync-engine-logins =
-    .label = Tamöng
-    .tooltiptext = Nan ureung ngui dan lageum rahsia nyang ka neu keubah
-    .accesskey = T
 
 sync-engine-addresses =
     .label = Àlamat rumôh
@@ -731,10 +696,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Keubah
     .accesskey = K
-
-sync-tos-link = Term nibak peuhirö
-
-sync-fxa-privacy-notice = Bri thëe privasi
 
 ## Privacy Section
 
@@ -863,8 +824,6 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Tham asoe
-
 content-blocking-learn-more = Meurunoe lôm
 
 ## These strings are used to define the different levels of
@@ -904,10 +863,6 @@ permissions-notification-link = Meurunoë lom
 permissions-notification-pause =
     .label = Bèk bri thèe dilèe trôk 'an { -brand-short-name } jimulai ulang
     .accesskey = B
-
-permissions-block-autoplay-media-exceptions =
-    .label = Keucuali
-    .accesskey = K
 
 permissions-block-popups =
     .label = Blokir tingkap pop-up
@@ -1003,6 +958,8 @@ certs-view =
 certs-devices =
     .label = Peukakah Peuji'oh Mara Bahya
     .accesskey = P
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

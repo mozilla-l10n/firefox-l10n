@@ -35,12 +35,6 @@ connection-proxy-http = Proksi HTTP
     .accesskey = k
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Neugui sèrver proksi nyoë keu banmandum protokol
-    .accesskey = s
-
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Port
     .accesskey = o

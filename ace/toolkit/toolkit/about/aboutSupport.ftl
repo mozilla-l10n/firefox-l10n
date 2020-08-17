@@ -40,6 +40,7 @@ unknown = Hana Jituri
 ## not found.
 
 glcontext-crash-guard = OpenGL
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

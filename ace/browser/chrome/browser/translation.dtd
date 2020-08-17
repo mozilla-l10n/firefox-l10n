@@ -45,13 +45,6 @@
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.accesskey "T">
 
-<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
-  -                     translation.options.attribution.afterLogo):
-  -  These 2 strings are displayed before and after a 'Microsoft Translator'
-  -  logo.
-  -->
-<!ENTITY translation.options.attribution.afterLogo "">
-
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

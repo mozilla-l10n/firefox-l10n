@@ -12,8 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = Neuci Jinoe
-
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Ka trôk neuteuka bak { -brand-short-name }
@@ -23,6 +21,13 @@ onboarding-start-browsing-button-label = Mulai Seumeulop
 onboarding-cards-dismiss =
     .title = Peudong
     .aria-label = Peudong
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -54,16 +59,6 @@ onboarding-sync-form-sub-header = sambông nibak Peuakô Firefox
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Seumeulop Rasia
-onboarding-private-browsing-text = Neumeulayeu keudroe. Seulayeu rasiya deungon Peumeusom Asoe geupeutheun ureueng nyang geuseutot gata di internét.
-
-onboarding-screenshots-title = Deuneurop layeue
-
-onboarding-addons-title = Peungaya
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Peusa
 
 
 ## Message strings belonging to the Return to AMO flow
