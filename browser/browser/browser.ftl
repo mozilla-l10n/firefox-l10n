@@ -111,6 +111,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Daha az yazın, daha çox tapın: Birbaşa ünvan sətrinizdən { $engineName } ilə axtarış edin.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -184,6 +186,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Məxfi pəncərələr üçün əsas axtarış mühərriki olarak qur
     .accesskey = M
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -265,8 +274,10 @@ popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr payla
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ünvanı daxil et və ya axtar
+
 urlbar-placeholder =
     .placeholder = Ünvanı daxil et və ya axtar
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Səyyah uzaqdan idarədədir
 urlbar-switch-to-tab =

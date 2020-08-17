@@ -12,7 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = İndi Yoxlayın
 onboarding-button-label-get-started = Başla
 
 ## Welcome modal dialog strings
@@ -24,6 +23,13 @@ onboarding-start-browsing-button-label = Səyahətə Başla
 onboarding-cards-dismiss =
     .title = Rədd et
     .aria-label = Rədd et
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -55,22 +61,6 @@ onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Məxfi Səyahət
-onboarding-private-browsing-text = Özünüz üçün gəzin. Məzmun Əngəlləməli Məxfi Səyahət sizi internetdə izləyənləri əngəlləyir.
-
-onboarding-screenshots-title = Ekran Görüntüləri
-onboarding-screenshots-text = Ekran görüntülərini çəkin, saxlayın və paylaşın - { -brand-short-name } səyyahını tərk etmədən. Gəzərkən səhifələrin bir hissəsini və ya bütününü çəkin. Daha sonra da rahat görmək və paylaşmaq üçün internetdə saxlayın.
-
-onboarding-addons-title = Əlavələr
-onboarding-addons-text = { -brand-short-name } səyyahınızı daha məhsuldar etmək üçün əlavə özəlliklər əlavə edin. Qiymətləri qarşılaşdırın, hava məlumatını yoxlayın və ya fərdi məzmunlarla zövqünüzə görə bəzəyin.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Ghostery kimi bezdirən reklamları əngəlləyən əlavələrlə daha sürətli, rahat və təhlükəsiz gəzin.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sinxronlaşdır
-onboarding-fxa-text = { -fxaccount-brand-name } üçün qeyd olun və əlfəcinlərinizi, parollarınızı və açıq vərəqlərinizi { -brand-short-name } işlətdiyiniz hər yerdə sinxronlaşdırın.
 
 
 ## Message strings belonging to the Return to AMO flow

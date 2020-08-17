@@ -119,6 +119,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = saxlanılmış parolu
 ## Master Password notification
 
 master-password-notification-message = Saxlanılmış hesab və parolları görmək üçün lütfən ana parolunuzu daxil edin
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Daxil ol
     .accesskey = l
@@ -153,4 +156,6 @@ about-logins-vulnerable-alert-learn-more-link = Ətraflı öyrən
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

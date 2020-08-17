@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Yeni pəncərəyə daşı
     .accesskey = p
-undo-close-tab =
-    .label = Qapatılan vərəqləri geri al
-    .accesskey = g
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Vərəqi qapat
     .accesskey = Q

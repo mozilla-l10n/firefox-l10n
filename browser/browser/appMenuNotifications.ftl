@@ -38,14 +38,6 @@ appmenu-addon-post-install-message = Əlavələrinizi <image data-l10n-name='add
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu uzantıya Məxfi Pəncərələrdə işləməyə icazə ver.
     .accesskey = i
-appmenu-addon-private-browsing =
-    .label = Məxfi Pəncərələrdəki uzantılar dəyişdirilir
-    .buttonlabel = Uzantıları idarə et
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Tamam, başa düşdüm
-    .secondarybuttonaccesskey = T
-appmenu-addon-private-browsing-message = { -brand-shorter-name } səyyahına əlavə etdiyiniz yeni uzantılar bu tənzimləmədə icazə vermənizə qədər Məxfi Pəncərələrdə işləməyəcəklər.
-appmenu-addon-private-browsing-learn-more = Uzantı tənzimləmələrini necə idarə edəcəyinizi öyrənin.
     
 appmenu-new-tab-controlled =
     .label = Yeni Vərəqiniz dəyişdirildi.

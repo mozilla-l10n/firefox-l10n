@@ -7,13 +7,6 @@ do-not-track-learn-more = Ətraflı öyrən
 do-not-track-option-always =
     .label = Həmişə
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Seçimlər
-           *[other] Nizamlamalar
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Seçimlər
@@ -417,16 +410,6 @@ update-application-use-service =
     .label = Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et
     .accesskey = a
 
-update-enable-search-update =
-    .label = Axtarış mühərriklərini avtomatik yenilə
-    .accesskey = e
-
-update-pref-write-failure-title = Yazma Xətası
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Nizamlamalar saxlana bilmir. Bu fayla yazmaq mümkün deyil: { $path }
-
 ## General Section - Performance
 
 performance-title = Məhsuldarlıq
@@ -560,7 +543,6 @@ home-prefs-topsites-description = Ən çox ziyarət etdiyiniz saytlar
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } məsləhət görür
-home-prefs-recommended-by-description = İnternetin ən yaxşı məzmunları, sizə görə fərdiləşdirilmiş
 ##
 
 home-prefs-recommended-by-learn-more = Bu necə işləyir
@@ -602,7 +584,6 @@ search-bar-shown =
     .label = Axtarış sətrini alət sətrinə əlavə et
 
 search-engine-default-header = Əsas axtarış mühərriyi
-search-engine-default-desc = Ünvan və axtarış sətrində işlətmək üçün əsas axtarış mühərriyini seçin.
 
 search-suggestions-option =
     .label = Axtarış təkliflərini göstər
@@ -651,8 +632,6 @@ search-keyword-warning-bookmark = Hazırda bir əlfəcin tərəfindən istifadə
 
 ## Containers Section
 
-containers-back-link = « Geri qayıt
-
 containers-header = Konteyner Vərəqlər
 containers-add-button =
     .label = Yeni konteyner əlavə et
@@ -672,14 +651,6 @@ containers-remove-button =
 sync-signedout-caption = Web-inizi özünüzlə gəzdirin
 sync-signedout-description = Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.
 
-sync-signedout-account-title = { -fxaccount-brand-name } ilə qoşulun
-sync-signedout-account-create = Hesabınız yoxdur? Başlayın
-    .accesskey = s
-
-sync-signedout-account-signin =
-    .label = Daxil ol…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -698,10 +669,6 @@ sync-mobile-promo = Mobil cihazınızda sinronlaşdırmaq istəyirsinizsə <img 
 sync-profile-picture =
     .tooltiptext = Profil şəklini dəyiş
 
-sync-disconnect =
-    .label = Ayrıl…
-    .accesskey = y
-
 sync-manage-account = Hesabı idarə et
     .accesskey = b
 
@@ -719,9 +686,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Daxil ol
     .accesskey = x
-
-sync-signedin-settings-header = Sync Tənzimləmələri
-sync-signedin-settings-desc = { -brand-short-name } işlədən cihazlarınızda nələrin sinxronlaşacağını seçin.
 
 ## Sync section - enabling or disabling sync.
 
@@ -743,11 +707,6 @@ sync-engine-tabs =
     .label = Açıq Vərəqlər
     .tooltiptext = Sinxronlaşdırılmış cihazlarda açıq olanların siyahısı
     .accesskey = V
-
-sync-engine-logins =
-    .label = Daxil olmalar
-    .tooltiptext = Saxladığınız istifadəçi adları və parollar
-    .accesskey = L
 
 sync-engine-addresses =
     .label = Ünvanlar
@@ -791,22 +750,12 @@ sync-device-name-save =
 
 sync-connect-another-device = Digər cihazı qoş
 
-sync-manage-devices = Cihazları idarə et
-
-sync-fxa-begin-pairing = Cihaz qoş
-
-sync-tos-link = İstifadə Şərtləri
-
-sync-fxa-privacy-notice = Məxfilik Bildirişi
-
 ## Privacy Section
 
 privacy-header = Səyahər Məxfiliyi
 
 ## Privacy Section - Forms
 
-
-logins-header = Hesablar və Parollar
 
 ## Privacy Section - Logins and Passwords
 
@@ -832,6 +781,7 @@ forms-master-pw-change =
     .accesskey = d
 
 forms-master-pw-fips-title = Hazırda FIPS rejimindəsiniz. FIPS rejimi üçün ana parol lazımdır.
+
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
 ## OS Authentication dialog
@@ -919,9 +869,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Əngəllənən növ
     .accesskey = n
 
-sitedata-option-block-trackers =
-    .label = Üçüncü-tərəf izləyicilər
-
 sitedata-clear =
     .label = Məlumatları təmizlə…
     .accesskey = l
@@ -954,27 +901,7 @@ addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün niz
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Məzmun Əngəlləmə
-
 content-blocking-learn-more = Ətraflı Öyrən
-
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = Standart
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = Sərt
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = Fərdi
-    .accesskey = F
-
-content-blocking-standard-desc = Qoruma və məhsuldarlıq arasında tarazlaşdırılıb. Saytların düzgün işləyə bilmələri üçün bəzi izləyicilərə icazə verir.
-content-blocking-custom-desc = Nəyi əngəlləyəcəyini seçin.
-
-content-blocking-private-trackers = Ancaq Məxfi Pəncərələrdə bilinən izləyicilər
-content-blocking-third-party-cookies = Üçüncü tərəf izləmə çərəzləri
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -992,15 +919,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-windows-trackers = Bütün pəncərələrdə bilinən izləyicilər
 content-blocking-all-third-party-cookies = Bütün üçüncü tərəf çərəzləri
 
 content-blocking-warning-title = Diqqət!
-content-blocking-learn-how = Necə edəcəyinizi öyrənin
-
-content-blocking-trackers-label =
-    .label = İzləyicilər
-    .accesskey = y
 
 content-blocking-tracking-protection-option-all-windows =
     .label = Bütün pəncərələrdə
@@ -1053,10 +974,6 @@ permissions-notification-link = Ətraflı öyrən
 permissions-notification-pause =
     .label = { -brand-short-name } yenidən başladılana qədər bildirişləri dayandır
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = İstisnalar…
-    .accesskey = s
 
 permissions-block-popups =
     .label = Peyda olan pəncərələri blokla
@@ -1182,6 +1099,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = T
 
 space-alert-under-5gb-message = { -brand-short-name } səyyahının diskdə yaddaşı dolur. Sayt məzmunları səhv göstərilə bilər. Daha yaxşı internet səyahəti təcrübəsi üçün “Ətraflı Öyrən”-i ziyarət edərək disk istifadənizi optimallaşdıra bilərsiz.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

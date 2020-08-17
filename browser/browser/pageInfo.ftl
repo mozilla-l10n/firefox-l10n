@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Fərqli saxla
     .accesskey = a
-media-preview =
-    .value = Mediaya ön baxış:
 
 perm-tab =
     .label = İcazələr
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Bəli, çərəzlər
 security-site-data-no = Xeyr
 
 image-size-unknown = Bilinmir
-not-set-verified-by = Göstərilməyib
 page-info-not-specified =
     .value = Dəqiqləşdirilməyib
 not-set-alternative-text = Göstərilməyib
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks kipi
 general-strict-mode =
     .value = Standartlarla uyğunluluq rejimi
-security-no-owner = Bu sayt, sahibi ilə bağlı məlumat vermir.
 page-info-security-no-owner =
     .value = Bu sayt, sahibi ilə əlaqədar məlumat vermir.
 media-select-folder = Şəkilləri saxlamaq üçün bir qovluq seçin

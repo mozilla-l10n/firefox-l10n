@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Fayl seç…">
 <!ENTITY cmd.restoreFromFile.accesskey  "s">
 
-<!ENTITY cmd.deleteDomainData.label     "Bu saytı unut">
-<!ENTITY cmd.deleteDomainData.accesskey "u">
-
-<!ENTITY cmd.open.label                  "Aç">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Yeni Pəncərədə Aç">
-<!ENTITY cmd.open_window.accesskey       "Y">
-<!ENTITY cmd.open_private_window.label     "Yeni Məxfi Pəncərədə Aç">
-<!ENTITY cmd.open_private_window.accesskey "M">
-<!ENTITY cmd.open_tab.label              "Yeni Vərəqdə Aç">
-<!ENTITY cmd.open_tab.accesskey          "Y">
-<!ENTITY cmd.open_all_in_tabs.label      "Hamısını Vərəqlərdə Aç">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
-
-<!ENTITY cmd.properties.label      "Xüsusiyyətlər">
-<!ENTITY cmd.properties.accesskey  "s">
-
-<!ENTITY cmd.sortby_name.label              "Ada görə sırala">
-<!ENTITY cmd.sortby_name.accesskey          "s">
-<!ENTITY cmd.context_sortby_name.accesskey  "k">
-
-<!ENTITY cmd.new_bookmark.label            "Yeni Əlfəcin…">
-<!ENTITY cmd.new_bookmark.accesskey        "Ə">
-<!ENTITY cmd.new_folder.label              "Yeni qovluq…">
-<!ENTITY cmd.new_folder.accesskey          "q">
-<!ENTITY cmd.context_new_folder.accesskey  "S">
-<!ENTITY cmd.new_separator.label           "Yeni mötərizə">
-<!ENTITY cmd.new_separator.accesskey       "Y">
-
 <!ENTITY col.name.label          "Ad">
 <!ENTITY col.tags.label          "Etiketlər">
 <!ENTITY col.url.label           "Ünvan">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Baxış sayı">
 <!ENTITY col.dateadded.label     "Əlavə etmə tarixi">
 <!ENTITY col.lastmodified.label  "Son dəyişiklik">
-
-<!ENTITY historySearch.placeholder  "Tarixçədə axtar">
-<!ENTITY bookmarksSearch.placeholder  "Əlfəcinlərdə Axtar">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Xüsusiyyətlərini görmək və dəyişmək üçün bir obyekt seçin">
 
-<!ENTITY view.label               "Görünüş">
-<!ENTITY view.accesskey           "G">
-<!ENTITY byDate.label             "Tarix">
-<!ENTITY byDate.accesskey         "T">
-<!ENTITY bySite.label             "Sayt">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Ən çox baxılanlar">
-<!ENTITY byMostVisited.accesskey  "Ə">
-<!ENTITY byLastVisited.label      "Son baxılanlar">
-<!ENTITY byLastVisited.accesskey  "S">
-<!ENTITY byDayAndSite.label       "Tarix və sayt">
-<!ENTITY byDayAndSite.accesskey   "T">

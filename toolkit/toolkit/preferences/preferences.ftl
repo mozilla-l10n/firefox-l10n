@@ -14,6 +14,7 @@ pw-erased-ok = Ana Parolunuzu sildiniz. { pw-empty-warning }
 pw-not-wanted = Xəbərdarlıq! Ana Parolu istifadə etməməyə qərar verdiniz. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Hazırda FIPS rejimindəsiniz. FIPS rejimi Ana Parolu tələb edir.
+
 pw-change-success-title = Parol uğurla dəyişdirildi
 pw-change-failed-title = Parol dəyişdirmə uğursuz oldu
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Ana Parolu Dəyiş
+
 set-password-old-password = Hazırkı parol:
 set-password-new-password = Yeni parol:
 set-password-reenter-password = Yeni parolu təkrarla:
@@ -31,6 +33,7 @@ master-password-warning = Lütfən, quraşdıracağınız Ana Parolu itirməyəc
 
 remove-password =
     .title = Ana Parolu Sil
+
 remove-info =
     .value = Davam etmək üçün hazırkı Ana Parolu daxil etməlisiniz:
 remove-warning1 = Ana Parolunuz sayt parollarınız kimi həssas məlumatlarınızı qorumaq üçündür.

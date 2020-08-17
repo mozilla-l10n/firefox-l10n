@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Seriya nömrəsi
 
 fips-nonempty-password-required = FIPS rejimi bütün cihazlarınızda Ana Parolun qurulu olmasını tələb edir. Lütfən FIPS rejimini aktiv etməzdən əvvəl parolu qurun.
+
 unable-to-toggle-fips = FIPSrejimi təhlükəsizlik cihazı üçün dəyişdirilə bilmir. Bu proqramdan çıxıb yenidən başlatmağınız tövsiyyə olunur.
 load-pk11-module-file-picker-title = Yükləmək üçün bir PKCS#11 cihaz sürücüsü seçin
 

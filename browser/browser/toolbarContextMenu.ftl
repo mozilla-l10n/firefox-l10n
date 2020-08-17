@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Bütün vərəqləri seç
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Qapatılan vərəqləri geri al
-    .accesskey = g
 
 toolbar-context-menu-manage-extension =
     .label = Uzantını idarə et

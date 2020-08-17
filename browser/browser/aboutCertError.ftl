@@ -93,7 +93,6 @@ proxyResolveFailure-title = Proxy-server tapılmadı
 redirectLoop-title = Səhifə düzgün yönləndirilmir
 unknownSocketType-title = Şəbəkədən gələn cavab yanlışdır
 nssFailure2-title = Təhlükəsiz bağlantı qurula bilmədi
-cspBlocked-title = Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı
 corruptedContentError-title = Zədəli Məzmun Xətası
 remoteXUL-title = Uzaq XUL
 sslv3Used-title = Təhlükəsiz bağlanmaq mümkün olmadı
