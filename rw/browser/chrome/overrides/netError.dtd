@@ -12,60 +12,24 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Byanze kwinjira">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Aderesi yigabanyijwe">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 
-<!ENTITY fileNotFound.title "Dosiye ntibonetse">
 
 
-
-
-<!ENTITY generic.title "Ahe.">
-
-
-
-
-
-<!ENTITY netInterrupt.title "Kwihuza kwaburijwemo">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
 
-<!ENTITY netOffline.title "Buryo nta interineti">
 
 
-
-
-
-
-<!ENTITY netReset.title "Umwinjiro wasubijweho">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Kwinjira kwarengeje igihe">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Aderesi ntabwo yumvikanye">
-
-
-<!ENTITY proxyConnectFailure.title "Seriveri porogosi yanga abinjira">
-
-
-<!ENTITY proxyResolveFailure.title "Ntibishoboka kubona seriveri porogosi">
-
-
-<!ENTITY redirectLoop.title "Paji ntabwo iri kongera kuyoborwa neza">
-
-
-<!ENTITY unknownSocketType.title "Igisubizo cya seriveri gitunguranye">
 
 
 

@@ -84,18 +84,6 @@
 
 
 
-<!ENTITY cmd.showPreferencesWin.label         "Amahitamo">
-
-<!ENTITY cmd.showPreferencesUnix.label        "Ibyatoranyijwe">
-
-
-
-
-
-
-
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -119,7 +107,6 @@
 <!-- ratings -->
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Kureka">
 <!-- list sorting -->
 
 
@@ -136,24 +123,12 @@
 
 
 
-<!ENTITY addon.unknownDate                    "Kitazwi">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Kuvugurura">
-
-
-
-
-
-<!ENTITY addon.install.label                  "Kwinjizamo">
 
 
 
@@ -169,7 +144,6 @@
 
 
 
-<!ENTITY settings.path.button.label           "Gushakisha...">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

@@ -9,10 +9,6 @@ connection-proxy-option-auto =
     .label = Amagenamiterere ya porogisi nyamwitahura agenewe uru rusobemiyoboro
     .accesskey = g
 
-connection-proxy-http-share =
-    .label = Koresha iyo seriveri porogisi kuri porotokoli zose
-    .accesskey = z
-
 connection-proxy-noproxy-desc = Urugero: .mozilla.org, .net.nz, 192.168.1.0/24
 
 connection-proxy-reload =

@@ -44,8 +44,6 @@ media-long-desc =
 media-save-as =
     .label = Kubika Muri...
     .accesskey = M
-media-preview =
-    .value = Igaragazambere y'Ibitangazamakuru:
 
 security-view-unknown = Kitazwi
     .value = Kitazwi
@@ -60,7 +58,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Kitazwi
-not-set-verified-by = Ntibyagaragajwe
 page-info-not-specified =
     .value = Ntibyagaragajwe
 not-set-alternative-text = Ntibyagaragajwe

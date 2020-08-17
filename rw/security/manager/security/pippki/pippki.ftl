@@ -21,6 +21,9 @@ change-password-reenter = Ijambobanga rishya (na none):
 reset-password-window =
     .title = Kugaruraho Ijambobanga Ngenga
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Kugarura
 reset-password-text = Nugaruraho Ijambobanga ngenga ryawe, amagambobanga yawe y'urubuga na imeyili, ibyatanzwe by'imiterere, ibyemezo bwite, n'imfunguzo zihariye bizibagirana. Urashaka koko kugaruraho ijambobanga ngenga ryawe?
