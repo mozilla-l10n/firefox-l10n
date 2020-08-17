@@ -166,7 +166,7 @@
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "읽지 않은 폴더">
 <!ENTITY unreadFolders.accesskey "U">
-<!ENTITY favoriteFolders.label "즐겨찾기 폴더">
+<!ENTITY favoriteFolders.label "즐겨찾기">
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "최근 폴더">
 <!ENTITY recentFolders.accesskey "R">
