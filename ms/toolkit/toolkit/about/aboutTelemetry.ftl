@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Sumber data ping:
-about-telemetry-show-current-ping-data = Data ping semasa
 about-telemetry-show-archived-ping-data = Data ping diarkibkan
 about-telemetry-show-subsession-data = Papar data sub-sesi
 about-telemetry-choose-ping = Pilih ping:
@@ -64,7 +63,6 @@ about-telemetry-settings-explanation = Telemetri mengumpulkan { about-telemetry-
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Setiap maklumat dihantar bersama ke “<a data-l10n-name="ping-link">ping</a>”. Anda sedang melihat ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Setiap maklumat dihantar bersama ke “<a data-l10n-name="ping-link">ping</a>“. Anda sedang melihat ping semasa.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -89,8 +87,6 @@ about-telemetry-no-search-results-all = Maaf! Tiada hasil dalam mana-mana bahagi
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Maaf! Buat masa ini tiada data yang boleh didapati dalam “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping semasa
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = semua
 # button label to copy the histogram

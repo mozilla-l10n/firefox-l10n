@@ -2,16 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Tetapkan Akaun E-mel Semasa">
-
 <!ENTITY name.label                      "Nama anda:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Pertama Terakhir">
 <!ENTITY name.text                       "Nama anda, seperti yang ditunjukkan kepada orang lain">
 <!ENTITY email.label                     "Alamat e-mel:">
 <!ENTITY email.accesskey                 "A">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "anda@example.com">
 <!ENTITY email.text                      "Alamat e-mel yang sedia ada">
 <!ENTITY password.label                  "Kata laluan:">
 <!ENTITY password.accesskey              "K">
@@ -26,9 +21,6 @@
 <!ENTITY incoming.label                  "Masuk:">
 <!ENTITY outgoing.label                  "Keluar:">
 <!ENTITY username.label                  "Nama pengguna:">
-<!ENTITY hostname.label                  "Nama hos pelayan">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Pengesahan">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
@@ -54,8 +46,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Uji semula">
 <!ENTITY half-manual-test.accesskey      "s">
-<!ENTITY manual-edit.label               "Konfigurasi manual">
-<!ENTITY manual-edit.accesskey           "K">
 <!ENTITY open-provisioner.label          "Dapatkan alamat e-mel baru…">
 <!ENTITY open-provisioner.accesskey      "b">
 

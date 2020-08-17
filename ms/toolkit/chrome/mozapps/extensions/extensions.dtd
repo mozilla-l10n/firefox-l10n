@@ -3,72 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Dayakan">
-<!ENTITY cmd.enableAddon.accesskey            "a">
-<!ENTITY cmd.disableAddon.label               "Nyahdayakan">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "Tanya untuk diaktifkan">
-<!ENTITY cmd.askToActivate.tooltip            "Tanya untuk guna add-on setiap masa">
-<!ENTITY cmd.alwaysActivate.label             "Sentiasa Aktif">
-<!ENTITY cmd.alwaysActivate.tooltip           "Sentiasa guna add-on ini">
-<!ENTITY cmd.neverActivate.label              "Jangan Aktif">
-<!ENTITY cmd.neverActivate.tooltip            "Jangan guna add-on ini">
-<!ENTITY cmd.stateMenu.tooltip                "Tukar semasa add-on ini digunakan">
-
-<!ENTITY cmd.uninstallAddon.label             "Buang">
-<!ENTITY cmd.uninstallAddon.accesskey         "B">
-<!ENTITY cmd.showPreferencesWin.label         "Pilihan">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
-<!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Tukar keutamaan add-on ini">
-
-<!ENTITY cmd.showReleaseNotes.label           "Papar Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Papar nota pelepasan untuk kemaskini ini">
-<!ENTITY cmd.hideReleaseNotes.label           "Sorok Nota Pelepasan">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemaskini ini">
-<!ENTITY cmd.findReplacement.label            "Cari Pengganti">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Batal">
-
-<!ENTITY addon.details.label                  "Selanjutnya">
-<!ENTITY addon.details.tooltip                "Papar butiran lanjut add-on ini">
-<!ENTITY addon.unknownDate                    "Tidak diketahui">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGASI">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(dinyahdayakan)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Kemaskini">
-<!ENTITY addon.undoAction.label               "Batal">
-<!ENTITY addon.undoAction.tooltip             "Batal tindakan ini">
-<!ENTITY addon.undoRemove.label               "Batal">
-<!ENTITY addon.undoRemove.tooltip             "Kekalkan pemasangan add-on ini">
-
-<!ENTITY addon.install.label                  "Pasang">
-<!ENTITY addon.install.tooltip                "Pasang add-on ini">
-<!ENTITY addon.updateNow.label                "Kemaskini Sekarang">
-<!ENTITY addon.updateNow.tooltip              "Pasang kemaskini bagi add-on ini">
-<!ENTITY addon.includeUpdate.label            "Termasuk dalam Kemaskini">
-<!ENTITY addon.updateAvailable.label          "Kemaskini tersedia">
-<!ENTITY addon.checkingForUpdates.label       "Menyemak kemaskini…">
-<!ENTITY addon.releaseNotes.label             "Nota Pelepasan:">
-<!ENTITY addon.loadingReleaseNotes.label      "Memuatkan…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, ada ralat memuatkan nota pelepasan.">
-
-<!ENTITY addon.createdBy.label                "Oleh ">
-
-<!ENTITY settings.path.button.label           "Cari…">
 
 <!ENTITY setting.learnmore "Ketahui Selanjutnya…">
 

@@ -74,15 +74,6 @@
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak ada dalam cache &brandShortName;.</p><ul><li>Sebagai langkah keselamatan, &brandShortName; tidak akan meminta semula dokumen yang sensitif secara automatik.</li><li>Klik Cuba Lagi untuk meminta semula dokumen daripada laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod luar talian">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Cuba lagi. &brandShortName; akan cuba membuka sambungan dan memuat semula halaman.
-    <button id='wifi'>Dayakan Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Ralat Pengekodan Kandungan">
 <!ENTITY contentEncodingError.longDesc "

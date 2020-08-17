@@ -12,8 +12,5 @@
 <!ENTITY iconsBesideText.label    "Ikon sebelah Teks">
 <!ENTITY useSmallIcons.label      "Guna Ikon Kecil">
 <!ENTITY restoreDefaultSet.label  "Pulih Set Piawai">
-<!ENTITY addNewToolbar.label      "Tambah Bar Alat Baru">
-<!ENTITY showTitlebar.label       "Papar Bar Tajuk">
-<!ENTITY extraDragSpace.label     "Tambah Ruang Seret">
 <!ENTITY saveChanges.label        "Siap">
 <!ENTITY undoChanges.label        "Batal Perubahan">

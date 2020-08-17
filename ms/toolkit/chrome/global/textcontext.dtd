@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Potong">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.accesskey "i">
-<!ENTITY pasteCmd.label "Tampal">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY undoCmd.label "Batal">
-<!ENTITY undoCmd.accesskey "t">
-<!ENTITY selectAllCmd.label "Pilih Semua">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Buang">
-<!ENTITY deleteCmd.accesskey "g">
-
 <!ENTITY spellAddToDictionary.label "Tambah dalam Kamus">
 <!ENTITY spellAddToDictionary.accesskey "a">
 <!ENTITY spellUndoAddToDictionary.label "Batal Tambah Dalam Kamus">

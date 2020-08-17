@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Pindah ke Tetingkap Baru
     .accesskey = T
-undo-close-tab =
-    .label = Batal Tutup Tab
-    .accesskey = B
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Tutup Tab
     .accesskey = b

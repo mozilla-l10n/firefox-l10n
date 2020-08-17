@@ -99,6 +99,8 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = Taip sedikit, cari selanjutnya: Carian { $engineName } dari bar alamat anda.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -165,6 +167,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
     .accesskey = P
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -246,8 +255,10 @@ popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan d
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cari atau masukkan alamat
+
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Pelayar berada dalam kawalan jauh
 urlbar-switch-to-tab =

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Import Pilihan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
 <!ENTITY importFromUnix.label           "Import Keutamaan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
-<!ENTITY importFromBookmarks.label      "Import Tandabuku dari:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

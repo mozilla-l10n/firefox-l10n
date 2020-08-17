@@ -7,13 +7,6 @@ do-not-track-learn-more = Ketahui selanjutnya
 do-not-track-option-always =
     .label = Sentiasa
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Pilihan
-           *[other] Keutamaan
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Pilihan
@@ -401,16 +394,6 @@ update-application-use-service =
     .label = Gunakan servis latar belakang bagi pemasangan versi terkini
     .accesskey = b
 
-update-enable-search-update =
-    .label = Kemaskini enjin carian secara automatik
-    .accesskey = e
-
-update-pref-write-failure-title = Gagal Menulis
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Tidak dapat menyimpan keutamaan. Tidak dapat menulis ke fail: { $path }
-
 ## General Section - Performance
 
 performance-title = Prestasi
@@ -544,7 +527,6 @@ home-prefs-topsites-description = Laman yang anda kerap lawati
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Disyorkan oleh { $provider }
-home-prefs-recommended-by-description = Kandungan hebat dalam seluruh web, khas untuk anda
 ##
 
 home-prefs-recommended-by-learn-more = Cara pelaksanaan
@@ -582,7 +564,6 @@ search-bar-shown =
     .label = Tambah bar carian dalam bar alatan
 
 search-engine-default-header = Enjin Carian Piawai
-search-engine-default-desc = Pilih enjin carian piawai untuk digunakan dalam bar alamat dan bar carian.
 
 search-suggestions-option =
     .label = Sediakan cadangan carian
@@ -631,8 +612,6 @@ search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sedang digu
 
 ## Containers Section
 
-containers-back-link = « Undur
-
 containers-header = Tab Penyimpan
 containers-add-button =
     .label = Tambah Penyimpan Baru
@@ -652,14 +631,6 @@ containers-remove-button =
 sync-signedout-caption = Bawa Web dengan anda
 sync-signedout-description = Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.
 
-sync-signedout-account-title = Sambung dengan { -fxaccount-brand-name }
-sync-signedout-account-create = Belum ada akaun? Daftar
-    .accesskey = D
-
-sync-signedout-account-signin =
-    .label = Daftar Masuk…
-    .accesskey = M
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -678,10 +649,6 @@ sync-mobile-promo = Muat turun Firefox untuk<img data-l10n-name="android-icon"/>
 sync-profile-picture =
     .tooltiptext = Tukar gambar profil
 
-sync-disconnect =
-    .label = Memutuskan…
-    .accesskey = M
-
 sync-manage-account = Urus Akaun
     .accesskey = s
 
@@ -699,9 +666,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
-
-sync-signedin-settings-header = Tetapan Sync
-sync-signedin-settings-desc = Pilih ciri yang mahu anda sync pada peranti menggunakan { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -723,11 +687,6 @@ sync-engine-tabs =
     .label = Buka tab
     .tooltiptext = Senarai laman yang dibuka dalam semua peranti yang diselaraskan
     .accesskey = T
-
-sync-engine-logins =
-    .label = Log masuk
-    .tooltiptext = Nama pengguna dan kata laluan yang anda sudah simpan
-    .accesskey = L
 
 sync-engine-addresses =
     .label = Alamat
@@ -769,18 +728,12 @@ sync-device-name-save =
     .label = Simpan
     .accesskey = p
 
-sync-tos-link = Terma Perkhidmatan
-
-sync-fxa-privacy-notice = Notis Privasi
-
 ## Privacy Section
 
 privacy-header = Privasi Pelayar
 
 ## Privacy Section - Forms
 
-
-logins-header = Log masuk & Kata laluan
 
 ## Privacy Section - Logins and Passwords
 
@@ -806,6 +759,7 @@ forms-master-pw-change =
     .accesskey = T
 
 forms-master-pw-fips-title = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata laluan Induk bukan-kosong.
+
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
 
 ## OS Authentication dialog
@@ -923,25 +877,7 @@ addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Sekatan Kandungan
-
 content-blocking-learn-more = Ketahui selanjutnya
-
-content-blocking-setting-standard =
-    .label = Piawai
-    .accesskey = i
-content-blocking-setting-strict =
-    .label = Rapi
-    .accesskey = p
-content-blocking-setting-custom =
-    .label = Penyesuaian
-    .accesskey = P
-
-content-blocking-standard-desc = Seimbang untuk perlindungan dan prestasi. Mengizinkan beberapa penjejak supaya laman web berfungsi dengan betul.
-content-blocking-custom-desc = Pilih apa yang hendak disekat.
-
-content-blocking-private-trackers = Penjejak yang diketahui sahaja dalam Private Windows
-content-blocking-third-party-cookies = Kuki penjejakan pihak ketiga
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -959,10 +895,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-windows-trackers = Penjejak yang diketahui dalam semua tetingkap
 content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
-
-content-blocking-learn-how = Ketahui caranya
 
 content-blocking-tracking-protection-change-block-list = Tukar senarai sekatan
 
@@ -1004,10 +937,6 @@ permissions-notification-link = Ketahui selanjutnya
 permissions-notification-pause =
     .label = Jeda notifikasi hingga { -brand-short-name } mula semula
     .accesskey = n
-
-permissions-block-autoplay-media-exceptions =
-    .label = Pengecualian…
-    .accesskey = P
 
 permissions-block-popups =
     .label = Sekat tetingkap popup
@@ -1131,6 +1060,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } sedang kehabisan ruang cakera. Kandungan laman web mungkin tidak dipaparkan dengan betul. Lawati "Selanjutnya" untuk mengoptimumkan penggunaan cakera anda untuk pengalaman melayar yang lebih baik.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

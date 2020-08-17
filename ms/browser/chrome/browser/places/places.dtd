@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pilih Fail…">
 <!ENTITY cmd.restoreFromFile.accesskey  "F">
 
-<!ENTITY cmd.deleteDomainData.label     "Lupakan Laman Ini">
-<!ENTITY cmd.deleteDomainData.accesskey "L">
-
-<!ENTITY cmd.open.label                  "Buka">
-<!ENTITY cmd.open.accesskey              "k">
-<!ENTITY cmd.open_window.label           "Buka dalam Tetingkap Baru">
-<!ENTITY cmd.open_window.accesskey       "B">
-<!ENTITY cmd.open_private_window.label     "Buka dalam Tetingkap Peribadi Baru">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Buka dalam Tab Baru">
-<!ENTITY cmd.open_tab.accesskey          "u">
-<!ENTITY cmd.open_all_in_tabs.label      "Buka Semua dalam Tab">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "k">
-
-<!ENTITY cmd.properties.label      "Sifat">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Susun Mengikut Nama">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "n">
-
-<!ENTITY cmd.new_bookmark.label            "Tandabuku Baru…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Folder Baru…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Pemisah Baru">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Nama">
 <!ENTITY col.tags.label          "Tag">
 <!ENTITY col.url.label           "Lokasi">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Bilangan Lawatan">
 <!ENTITY col.dateadded.label     "Ditambah">
 <!ENTITY col.lastmodified.label  "Terakhir Diubah">
-
-<!ENTITY historySearch.placeholder  "Sejarah carian">
-<!ENTITY bookmarksSearch.placeholder  "Cari tandabuku">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Pilih item untuk dipapar dan diedit sifatnya">
 
-<!ENTITY view.label               "Papar">
-<!ENTITY view.accesskey           "a">
-<!ENTITY byDate.label             "Mengikut Tarikh">
-<!ENTITY byDate.accesskey         "T">
-<!ENTITY bySite.label             "Mengikut Laman">
-<!ENTITY bySite.accesskey         "i">
-<!ENTITY byMostVisited.label      "Mengikut Paling Dilawati">
-<!ENTITY byMostVisited.accesskey  "k">
-<!ENTITY byLastVisited.label      "Mengikut Terakhir Dilawati">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "Mengikut Tarikh dan Laman">
-<!ENTITY byDayAndSite.accesskey   "t">

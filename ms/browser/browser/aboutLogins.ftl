@@ -25,6 +25,8 @@
 
 ## Master Password notification
 
+## Primary Password notification
+
 ## Password Sync notification
 
 ## Dialogs
@@ -37,4 +39,6 @@
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

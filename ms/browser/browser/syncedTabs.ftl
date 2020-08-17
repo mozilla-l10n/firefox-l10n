@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Tab Sync
 synced-tabs-sidebar-noclients-subtitle = Mahu melihat tab anda daripada peranti lain di sini?
-synced-tabs-sidebar-notsignedin = Daftar masuk untuk papar senarai tab dari peranti anda yang lain.
 synced-tabs-sidebar-unverified = Akaun anda perlu disahkan.
 synced-tabs-sidebar-notabs = Tiada tab terbuka
 synced-tabs-sidebar-openprefs = Buka Keutamaan { -sync-brand-short-name }

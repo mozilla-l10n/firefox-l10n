@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Ulang">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "l">
-<!ENTITY cutCmd.label "Potong">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Salin">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "n">
-<!ENTITY pasteCmd.label "Tampal">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "a">
@@ -93,15 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Cari…">
 <!ENTITY findBarCmd.accesskey "C">
 <!ENTITY findBarCmd.key "F">
@@ -256,25 +242,8 @@
 <!ENTITY printButton.tooltip "Cetak mesej ini">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Daripada:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Kepada:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Balas-Kepada:">
-<!ENTITY newsgroupsAddr.label "Kumpulan berita:">
-<!ENTITY followupAddr.label "Susulan-Kepada:">
-<!ENTITY subject.label "Subjek:">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
-<!ENTITY attachments.accesskey "m">
-<!ENTITY attachmentBucketHeader.tooltip "Anak Tetingkap Lampiran">
 <!ENTITY attachmentBucketCloseButton.tooltip "Sorok anak tetingkap lampiran">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

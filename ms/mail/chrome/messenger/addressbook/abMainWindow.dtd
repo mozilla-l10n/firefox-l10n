@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Edit">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Batal">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "B">
-<!ENTITY redoCmd.label                                  "Ulang">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "U">
-<!ENTITY cutCmd.label                                   "Potong">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Salin">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "S">
-<!ENTITY pasteCmd.label                                 "Tampal">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "T">
 <!ENTITY deleteCmd.label                                "Buang">
-<!ENTITY deleteCmd.accesskey                            "B">
 <!ENTITY deleteAbCmd.label                              "Buang Buku Alamat">
 <!ENTITY deleteContactCmd.label                         "Buang Kenalan">
 <!ENTITY deleteContactsCmd.label                        "Buang Kenalan">
 <!ENTITY deleteListCmd.label                            "Buang Senarai">
 <!ENTITY deleteListsCmd.label                           "Buang Senarai">
 <!ENTITY deleteItemsCmd.label                           "Buang Item">
-<!ENTITY selectAllCmd.label                             "Pilih Semua">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "S">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Tukar Nama Pertama/Akhir">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "u">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Sifat">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">

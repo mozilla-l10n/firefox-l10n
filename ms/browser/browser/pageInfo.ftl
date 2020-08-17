@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Simpan Sebagai…
     .accesskey = e
-media-preview =
-    .value = Previu Media:
 
 perm-tab =
     .label = Keizinan
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Ya, kuki
 security-site-data-no = Tidak
 
 image-size-unknown = Tidak diketahui
-not-set-verified-by = Tidak dinyatakan
 page-info-not-specified =
     .value = Tidak dinyatakan
 not-set-alternative-text = Tidak dinyatakan
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Mod kekhasan
 general-strict-mode =
     .value = Mod pematuhan piawai
-security-no-owner = Laman web ini tidak menyediakan maklumat pemilik.
 page-info-security-no-owner =
     .value = Laman web ini tidak menyediakan maklumat pemilik.
 media-select-folder = Pilih Folder untuk Simpan Imej

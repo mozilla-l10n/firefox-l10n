@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Edit">
-<!ENTITY editMenu.accesskey        "e">
-<!ENTITY undoCmd.label             "Batal">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "B">
-<!ENTITY redoCmd.label             "Ulang">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "l">
-<!ENTITY cutCmd.label              "Potong">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Salin">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "S">
-<!ENTITY pasteCmd.label            "Tampal">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "p">
-<!ENTITY deleteCmd.label           "Buang">
-<!ENTITY deleteCmd.accesskey       "g">
-<!ENTITY selectAllCmd.label        "Pilih Semua">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
-
 <!ENTITY findCmd.label             "Cari">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "r">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "Cari Dahulu">
-<!ENTITY findPreviousCmd.accesskey "a">

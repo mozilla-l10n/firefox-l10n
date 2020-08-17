@@ -35,12 +35,6 @@ connection-proxy-http = Proksi HTTP
     .accesskey = k
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-share =
-    .label = Guna pelayan proksi ini untuk semua protokol
-    .accesskey = s
-
-connection-proxy-ssl = Proksi SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Port
     .accesskey = o
