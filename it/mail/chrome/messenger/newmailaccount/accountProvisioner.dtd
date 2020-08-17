@@ -7,9 +7,11 @@
 <!ENTITY other.languages "Verranno visualizzati solamente operatori che forniscono indirizzi nella zona geografica dell’utente. Fare clic qui per visualizzare l’elenco degli operatori.">
 <!ENTITY error.line1 "Siamo spiacenti, non riusciamo a suggerire alcun indirizzo di posta elettronica.">
 <!ENTITY error.line2 "È possibile cercare soprannomi o altri termini per trovare indirizzi di posta diversi.">
+
 <!ENTITY error.suggest.before "È anche possibile trovare una delle ">
 <!ENTITY error.suggest.middle "email gratuite alternative">
 <!ENTITY error.suggest.after ".">
+
 <!ENTITY success.title.before "Ciao ">
 <!ENTITY success.title.after ", sono disponibili i seguenti indirizzi di posta:">
 <!ENTITY success.tip "(È anche possibile cercare per soprannome o altri termini per trovare più email)">

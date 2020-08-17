@@ -13,6 +13,7 @@ compatibility-issue-deprecated = (deprecato)
 compatibility-issue-experimental = (sperimentale)
 compatibility-issue-prefixneeded = (prefisso necessario)
 compatibility-issue-deprecated-experimental = (deprecato, sperimentale)
+
 compatibility-issue-deprecated-prefixneeded = (deprecato, prefisso necessario)
 compatibility-issue-experimental-prefixneeded = (sperimentale, prefisso necessario)
 compatibility-issue-deprecated-experimental-prefixneeded = (deprecato, sperimentale, prefisso necessario)

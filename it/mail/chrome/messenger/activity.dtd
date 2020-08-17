@@ -4,7 +4,9 @@
 
 <!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
+
 <!ENTITY activity.title "Registro attività">
+
 <!ENTITY cmd.pause.label "Pausa">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.label "Riprendi">
@@ -19,6 +21,7 @@
 <!ENTITY cmd.retry.accesskey "R">
 <!ENTITY cmd.removeFromList.label "Elimina dalla lista">
 <!ENTITY cmd.removeFromList.accesskey "E">
+
 <!ENTITY cmd.close.commandkey "w">
 <!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">
@@ -27,4 +30,5 @@
 <!ENTITY cmd.clearList.accesskey "C">
 <!ENTITY cmd.find.commandkey "f">
 <!ENTITY cmd.search.commandkey "k">
+
 <!ENTITY searchBox.label "Cerca…">

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Stampa
+
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Salva con nome
 
@@ -31,6 +32,7 @@ printui-portrait = Verticale
 
 # Section title for the printer or destination device to target
 printui-destination-label = Destinazione
+
 printui-destination-pdf-label = Salva come PDF
 
 printui-more-settings = Altre impostazioni

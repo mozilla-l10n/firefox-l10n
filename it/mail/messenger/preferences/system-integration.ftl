@@ -4,12 +4,16 @@
 
 system-integration-title =
     .title = Integrazione col sistema
+
 system-integration-dialog =
     .buttonlabelaccept = Imposta come predefinito
     .buttonlabelcancel = Salta integrazione
     .buttonlabelcancel2 = Annulla
+
 default-client-intro = Utilizza { -brand-short-name } come programma predefinito per:
+
 unset-default-tooltip = Non è possibile rendere { -brand-short-name } non predefinito dall’interno di { -brand-short-name } stesso. Se si desidera che un’altra applicazione sia la predefinita si deve utilizzare la voce “Rendila predefinita” all’interno della stessa.
+
 checkbox-email-label =
     .label = E-Mail
     .tooltiptext = { unset-default-tooltip }
@@ -19,6 +23,7 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Feed
     .tooltiptext = { unset-default-tooltip }
+
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -27,9 +32,11 @@ system-search-engine-name =
         [windows] Ricerca di Windows
        *[other] { "" }
     }
+
 system-search-integration-label =
     .label = Permetti a { system-search-engine-name } di cercare nei messaggi
     .accesskey = P
+
 check-on-startup-label =
     .label = Esegui sempre questo controllo all’avvio di { -brand-short-name }
     .accesskey = A

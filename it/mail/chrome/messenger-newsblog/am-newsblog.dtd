@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "Controlla presenza di nuovi articoli all’avvio">
-<!ENTITY loginAtStartup.accesskey      "C">
 <!ENTITY biffAll.label                 "Attiva aggiornamenti per tutti i feed">
 <!ENTITY biffAll.accesskey             "A">
 

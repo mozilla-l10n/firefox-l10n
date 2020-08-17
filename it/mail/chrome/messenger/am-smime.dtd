@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Sicurezza">
-<!ENTITY securityTab.label "Sicurezza">
-<!ENTITY securityHeading.label "Per poter inviare e ricevere messaggi firmati o cifrati, devono essere specificati un certificato per la firma digitale e un certificato per la cifratura.">
-<!ENTITY encryptionGroupTitle.label "Cifratura">
-<!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per l’invio dei messaggi:">
-<!ENTITY neverEncrypt.label "Mai (non cifrare)">
-<!ENTITY neverEncrypt.accesskey "M">
-<!ENTITY alwaysEncryptMessage.label "Sempre (impedisce l’invio se tutti i destinatari non possiedono un certificato)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
-
 <!ENTITY e2eTitle.label "Crittografia end-to-end">
-<!ENTITY e2eIntro.description "Per inviare messaggi crittati o con firma digitale, configurare una tecnologia di crittografia OpenPGP o S/MIME.">
 <!ENTITY e2eLearnMore.label "Ulteriori informazioni">
 
 <!ENTITY e2eEnc.description "Senza la crittografia end-to-end, i contenuti dei messaggi sono esposti al proprio fornitore di posta elettronica e alla sorveglianza di massa.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Pulisci">
 <!ENTITY encryption.certificate_clear.accesskey "c">
 <!ENTITY signingGroupTitle.label "Firma digitale">
-<!ENTITY signMessage.label "Apponi una firma digitale ai messaggi">
 <!ENTITY signMessage2.label "Aggiungi la firma digitale per impostazione predefinita">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Utilizza il seguente certificato per firmare digitalmente i messaggi inviati:">
-
-<!ENTITY certificates.label "Certificati">
-<!ENTITY manageCerts2.label "Gestisci certificati">
-<!ENTITY manageCerts2.accesskey "G">
-<!ENTITY manageDevices.label "Dispositivi di sicurezza">
-<!ENTITY manageDevices.accesskey "z">
 
 <!ENTITY signingCert2.message "Certificato personale per la firma digitale:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Utilizza OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Gestione chiavi OpenPGP">
-<!ENTITY manageKeys.accesskey "c">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleziona certificato">

@@ -5,25 +5,34 @@
 webpage-languages-window =
     .title = Impostazioni lingue per pagine web
     .style = width: 40em
+
 languages-close-key =
     .key = w
+
 languages-description = Le pagine web sono spesso disponibili in più lingue. È possibile scegliere la lingua predefinita per queste pagine, in ordine di preferenza
+
 languages-customize-spoof-english =
     .label = Richiedi la versione in inglese delle pagine web per aumentare la privacy
+
 languages-customize-moveup =
     .label = Sposta su
     .accesskey = S
+
 languages-customize-movedown =
     .label = Sposta giù
     .accesskey = o
+
 languages-customize-remove =
     .label = Rimuovi
     .accesskey = R
+
 languages-customize-select-language =
     .placeholder = Seleziona una lingua da aggiungere…
+
 languages-customize-add =
     .label = Aggiungi
     .accesskey = A
+
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #

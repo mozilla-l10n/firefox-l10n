@@ -8,13 +8,17 @@ all-tabs-menu-undo-close-tabs =
           [1] Riapri scheda chiusa
          *[other] Riapri schede chiuse
       }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Cerca scheda
+
 all-tabs-menu-new-user-context =
     .label = Nuova scheda contenitore
+
 all-tabs-menu-hidden-tabs =
     .label = Schede nascoste
+
 all-tabs-menu-manage-user-context =
     .label = Gestisci contenitori
     .accesskey = G

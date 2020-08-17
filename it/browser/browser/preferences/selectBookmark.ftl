@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Imposta pagina iniziale
     .style = width: 32em;
+
 select-bookmark-desc = Scegliere un segnalibro da utilizzare come pagina iniziale. Se si sceglie un cartella, tutti i segnalibri in essa contenuti verranno aperti in più schede.

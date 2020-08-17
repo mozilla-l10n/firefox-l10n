@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Estensione consigliata
 cfr-doorhanger-feature-heading = Funzione consigliata
 cfr-doorhanger-pintab-heading = Prova questo: appunta scheda
+
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perché viene visualizzato questo messaggio
@@ -12,16 +16,16 @@ cfr-doorhanger-extension-sumo-link =
 cfr-doorhanger-extension-cancel-button = Non adesso
     .accesskey = N
 
+cfr-doorhanger-extension-ok-button = Aggiungi
+    .accesskey = A
+cfr-doorhanger-pintab-ok-button = Appunta questa scheda
+    .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gestisci impostazioni suggerimenti
     .accesskey = G
 
 cfr-doorhanger-extension-never-show-recommendation = Non visualizzare suggerimenti
     .accesskey = v
-
-cfr-doorhanger-extension-ok-button = Aggiungi
-    .accesskey = A
-cfr-doorhanger-pintab-ok-button = Appunta questa scheda
-    .accesskey = A
 
 cfr-doorhanger-extension-learn-more-link = Ulteriori informazioni
 
@@ -67,6 +71,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-description = Accedi facilmente ai siti web che utilizzi più spesso. Mantieni i siti aperti in una scheda (anche quando riavvii).
 
 ## These messages are steps on how to use the feature and are shown together.
+
 cfr-doorhanger-pintab-step1 = <b>Fai clic con il tasto destro</b> sulla scheda da appuntare.
 cfr-doorhanger-pintab-step2 = Seleziona <b>Appunta scheda</b> nel menu.
 cfr-doorhanger-pintab-step3 = Quando i contenuti del sito vengono aggiornati, un punto blu apparirà sulla scheda.
@@ -74,12 +79,21 @@ cfr-doorhanger-pintab-step3 = Quando i contenuti del sito vengono aggiornati, un
 cfr-doorhanger-pintab-animation-pause = Metti in pausa
 cfr-doorhanger-pintab-animation-resume = Riprendi
 
+
+## Firefox Accounts Message
+
 cfr-doorhanger-bookmark-fxa-header = Sincronizza ovunque i tuoi segnalibri
 cfr-doorhanger-bookmark-fxa-body = Ottima scoperta. Assicurati di non restare senza questo segnalibro sul tuo dispositivo mobile. Crea un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizza subito i segnalibri…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
   .aria-label = Pulsante di chiusura
   .title = Chiudi
+
+## Protections panel
+
+cfr-protections-panel-header = Naviga senza lasciarti seguire
+cfr-protections-panel-body = Mantieni i tuoi dati al riparo da occhi indiscreti. { -brand-short-name } ti protegge dagli elementi traccianti più comuni che cercano di seguire le tue attività online.
+cfr-protections-panel-link-text = Ulteriori informazioni
 
 ## What's New toolbar button and panel
 
@@ -97,6 +111,7 @@ cfr-whatsnew-release-notes-link-text = Leggi le note di versione
 
 cfr-whatsnew-fx70-title = { -brand-short-name } si batte ancora più duramente per la tua privacy
 cfr-whatsnew-fx70-body = L’ultimo aggiornamento rende la protezione antitracciamento più efficace e ti permette di creare password sicure per qualunque sito in modo semplice.
+
 cfr-whatsnew-tracking-protect-title = Proteggiti dal tracciamento
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blocca molti dei traccianti social e intersito più comuni che cercano di seguire ciò che fai online.
 cfr-whatsnew-tracking-protect-link-text = Visualizza il tuo rapporto personalizzato
@@ -198,12 +213,6 @@ cfr-doorhanger-fingerprinters-description = La tua privacy è importante. Adesso
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } ha bloccato un cryptominer in questa pagina
 cfr-doorhanger-cryptominers-description = La tua privacy è importante. Adesso { -brand-short-name } blocca i cryptominer, elementi che utilizzano le risorse del tuo sistema per effettuare il “mining” di valute digitali.
 
-## Protections panel
-
-cfr-protections-panel-header = Naviga senza lasciarti seguire
-cfr-protections-panel-body = Mantieni i tuoi dati al riparo da occhi indiscreti. { -brand-short-name } ti protegge dagli elementi traccianti più comuni che cercano di seguire le tue attività online.
-cfr-protections-panel-link-text = Ulteriori informazioni
-
 ## Enhanced Tracking Protection Milestones
 
 # Variables:
@@ -212,6 +221,7 @@ cfr-protections-panel-link-text = Ulteriori informazioni
 cfr-doorhanger-milestone-heading = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti dal { $date }.
 cfr-doorhanger-milestone-ok-button = Visualizza tutto
   .accesskey = V
+
 cfr-doorhanger-milestone-close-button = Chiudi
   .accesskey = C
 

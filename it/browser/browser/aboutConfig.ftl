@@ -2,19 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Qui ci sono i draghi!
-about-config-warning-text = La modifica di queste impostazioni avanzate può compromettere la stabilità, la sicurezza e le prestazioni del browser. Si consiglia di proseguire solo se consapevoli delle proprie azioni.
-about-config-warning-checkbox = Ricordamelo la prossima volta, grazie.
-about-config-warning-button = Accetto i rischi
-about-config2-title = Configurazioni avanzate
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Procedere con cautela
 about-config-intro-warning-text = La modifica delle impostazioni avanzate di configurazione può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
 about-config-intro-warning-checkbox = Mostra questo avviso quando si accede a queste preferenze
 about-config-intro-warning-button = Accetta il rischio e continua
+
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
@@ -22,17 +16,10 @@ about-config-caution-text = La modifica di queste impostazioni può comprometter
 
 about-config-page-title = Impostazioni avanzate
 
-about-config-search-input =
-    .placeholder = Cerca
 about-config-search-input1 =
     .placeholder = Cerca nome preferenza
 about-config-show-all = Visualizza tutto
-about-config-pref-add = Aggiungi
-about-config-pref-toggle = Cambia
-about-config-pref-edit = Modifica
-about-config-pref-save = Salva
-about-config-pref-reset = Ripristina
-about-config-pref-delete = Elimina
+
 about-config-pref-add-button =
     .title = Aggiungi
 about-config-pref-toggle-button =

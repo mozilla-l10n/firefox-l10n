@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Modifica">
 <!ENTITY editMenu.accesskey        "m">
 <!ENTITY undoCmd.label            "Annulla">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "A">
 <!ENTITY redoCmd.label            "Ripeti">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Taglia">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "T">
-<!ENTITY copyCmd.label            "Copia">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Incolla">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "i">
 <!ENTITY deleteCmd.label          "Elimina">
 <!ENTITY deleteCmd.accesskey        "E">
-<!ENTITY selectAllCmd.label          "Seleziona tutto">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "S">
 <!ENTITY preferencesCmd2.label "Opzioni">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferenze">

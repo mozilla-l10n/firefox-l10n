@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Credenziali e password
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -12,9 +17,12 @@ login-app-promo-android =
     .alt = Scarica da Google Play
 login-app-promo-apple =
     .alt = Scarica da App Store
+
 login-filter =
     .placeholder = Cerca nelle credenziali
+
 create-login-button = Inserisci nuove credenziali
+
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-button = Accedi a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -63,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name } o importale.
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
@@ -70,6 +79,7 @@ login-intro-instruction-fxa = Accedi o crea un { -fxaccount-brand-name } sul dis
 login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazioni di { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita il <a data-l10n-name="help-link">supporto per { -lockwise-brand-short-name }</a> per ulteriori informazioni
 about-logins-intro-import = Se le credenziali sono salvate in un altro browser, è possibile <a data-l10n-name="import-link">importarle in { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Se le credenziali sono salvate al di fuori di { -brand-product-name }, è possibile <a data-l10n-name="import-browser-link">importarle da un altro browser</a> o <a data-l10n-name="import-file-link">da un file</a>
 
 ## Login
@@ -123,15 +133,18 @@ about-logins-copy-password-os-auth-dialog-message-win = Per copiare la password,
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiare la password salvata
 
+## Master Password notification
+
+master-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Per esportare le credenziali salvate, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esportare credenziali e password salvate
 
-## Master Password notification
+## Primary Password notification
 
-master-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
 about-logins-primary-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
 master-password-reload-button =
     .label = Accedi
@@ -200,8 +213,10 @@ about-logins-vulnerable-alert-learn-more-link = Ulteriori informazioni
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = È già presente un elemento per { $loginTitle } con lo stesso nome utente. <a data-l10n-name="duplicate-link">Passare all’elemento esistente?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Si è verificato un errore durante il salvataggio della password.
+
 
 ## Login Export Dialog
 

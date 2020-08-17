@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "messaggi">
 <!ENTITY alwaysAuthenticate.label "Chiedi sempre l’autenticazione alla connessione a questo server">
 <!ENTITY alwaysAuthenticate.accesskey "h">
-<!ENTITY newsrcFilePath.label "File newsrc:">
-<!ENTITY newsrcPicker.label "Seleziona il file newsrc">
 <!ENTITY newsrcFilePath1.label "File News.rc:">
 <!ENTITY newsrcPicker1.label "Seleziona il file News.rc">
 <!ENTITY abbreviate.label "Mostra nome del gruppo di discussione nel pannello della posta così:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codifica del testo predefinita:">
-<!ENTITY localPath.label "Cartella locale:">
 <!ENTITY localPath1.label "Cartella locale:">
 <!ENTITY localFolderPicker.label "Scegliere la cartella locale">
 <!ENTITY browseFolder.label "Sfoglia…">

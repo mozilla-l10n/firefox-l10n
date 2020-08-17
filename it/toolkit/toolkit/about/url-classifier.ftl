@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Imposta moduli di log per Safe Browsing
 url-classifier-debug-modules = Moduli di log correnti
 url-classifier-debug-sbjs-modules = Safe Browsing JS log
 url-classifier-debug-file = File di log corrente
+
 url-classifier-trigger-update = Avvia aggiornamento
 url-classifier-not-available = N.D.
 url-classifier-disable-sbjs-log = Disattiva Safe Browsing JS Log

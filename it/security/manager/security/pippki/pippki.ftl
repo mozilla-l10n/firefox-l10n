@@ -8,14 +8,22 @@ password-quality-meter = Indicatore qualità password
 
 change-password-window =
     .title = Cambio password principale
+
 change-device-password-window =
     .title = Cambio password
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo di sicurezza: { $tokenName }
 change-password-old = Password attuale:
 change-password-new = Nuova password:
 change-password-reenter = Nuova password (conferma):
+
+## Reset Password dialog
+
+reset-password-window =
+    .title = Rimozione password principale
+    .style = width: 40em
 
 pippki-failed-pw-change = Impossibile cambiare la password.
 pippki-incorrect-pw = Non è stata inserita correttamente la password attuale. Ritentare.
@@ -27,17 +35,15 @@ pippki-pw-not-wanted = Attenzione: si è deciso di non utilizzare una password. 
 
 pippki-pw-change2empty-in-fips-mode = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
 
-## Reset Password dialog
+## Reset Primary Password dialog
 
-reset-password-window =
-    .title = Rimozione password principale
-    .style = width: 40em
 reset-primary-password-window =
     .title = Rimozione password principale
     .style = width: 40em
 reset-password-button-label =
     .label = Reimposta
 reset-password-text = La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?
+
 reset-primary-password-text = La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?
 
 pippki-reset-password-confirmation-title = Rimozione password principale
