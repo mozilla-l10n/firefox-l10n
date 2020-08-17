@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-context-menu-undo-close-tab =
-    .label = மூடிய கீற்றுகளைத் திற
-    .accesskey = U
-
 toolbar-context-menu-manage-extension =
     .label = நீட்சிகளை நிர்வகி
     .accesskey = E

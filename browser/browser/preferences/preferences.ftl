@@ -7,13 +7,6 @@ do-not-track-learn-more = மேலும் அறிய
 do-not-track-option-always =
     .label = எப்போதும்
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] தேர்வுகள்
-           *[other] முன்னுரிமைகள்
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] தேர்வுகள்
@@ -402,12 +395,6 @@ update-application-use-service =
     .label = புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்
     .accesskey = b
 
-update-enable-search-update =
-    .label = தேடுபொறிகளைத் தானாகப் புதுப்பிக்கும்
-    .accesskey = e
-
-update-pref-write-failure-title = தோல்வியை எழுது
-
 update-setting-write-failure-title = புதுப்பிப்பு விருப்பங்களைச் சேமிப்பதில் பிழை
 
 update-in-progress-title = புதுப்பிப்பு செயலிலுள்ளது
@@ -545,7 +532,6 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
-home-prefs-recommended-by-description = இணையத்திலிருந்து சிறந்த உள்ளடக்கங்கள், உங்களுக்காக தனிப்பயனாக்கப்பட்டவை
 ##
 
 
@@ -585,7 +571,6 @@ search-bar-shown =
     .label = கருவிப்பட்டையினுள் தேடும் பட்டையைச் சேர்
 
 search-engine-default-header = முன்னிருப்பு தேடுப்பொறி
-search-engine-default-desc = இடப்பட்டையிலும் தேடுபட்டையிலும் பாவிக்க இயல்புநிலைத் தேடுபொறியைத் தேர்ந்தெடு
 
 search-suggestions-option =
     .label = தேடல் பரிந்துரைகளை வழங்கு
@@ -634,8 +619,6 @@ search-keyword-warning-bookmark = நீங்கள் தேர்ந்தெ
 
 ## Containers Section
 
-containers-back-link = « திரும்பிச் செல்லுங்கள்
-
 containers-header = கலன் கீற்றுகள்
 containers-add-button =
     .label = புதிய கலன்களைச் சேர்
@@ -655,14 +638,6 @@ containers-remove-button =
 sync-signedout-caption = இணைத்தை உங்களுடன் வைத்திருங்கள்
 sync-signedout-description = புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், துணை நிரல்கள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.
 
-sync-signedout-account-title = { -fxaccount-brand-name } உடன் இணையுங்கள்
-sync-signedout-account-create = கணக்கு இல்லையா? தொடங்கவும்
-    .accesskey = C
-
-sync-signedout-account-signin =
-    .label = புகுபதிகை…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -681,10 +656,6 @@ sync-mobile-promo = பயர்பாக்சை <img data-l10n-name="android-
 sync-profile-picture =
     .tooltiptext = சுயவிவரப் படத்தை மாற்று
 
-sync-disconnect =
-    .label = துண்டி…
-    .accesskey = D
-
 sync-manage-account = கணக்கை நிர்வகி
     .accesskey = o
 
@@ -702,9 +673,6 @@ sync-remove-account =
 sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
-
-sync-signedin-settings-header = ஒத்திசைவு அமைவுகள்
-sync-signedin-settings-desc = கீழ்க்கண்டவற்றில் வேண்டியதைத் தேர்வு செய்து { -brand-short-name } மூலம் ஒத்திசை.
 
 ## Sync section - enabling or disabling sync.
 
@@ -726,11 +694,6 @@ sync-engine-tabs =
     .label = திறந்த கீற்றுகள்
     .tooltiptext = ஒத்திசைத்த கருவிகளில் திறந்தவைகளின் பட்டியல்
     .accesskey = t
-
-sync-engine-logins =
-    .label = உள்நுழைவுகள்
-    .tooltiptext = நீங்கள் சேமித்த பயனர் பெயர்கள் மற்றும் கடவுச்சொற்கள்
-    .accesskey = L
 
 sync-engine-addresses =
     .label = முகவரிகள்
@@ -772,10 +735,6 @@ sync-device-name-save =
     .label = சேமி
     .accesskey = v
 
-sync-tos-link = சேவை விதிமுறைகள்
-
-sync-fxa-privacy-notice = தனியுரிம கொள்கை
-
 ## Privacy Section
 
 privacy-header = உலாவி தனியுரிமை
@@ -803,6 +762,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = நீங்கள் தற்போது FIPS முறையில் இருக்கிறீர்கள். FIPS க்கு ஒரு வெற்றில்லாத முதன்மை கடவுச்சொல் தேவைப்படுகிறது.
+
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
 ## OS Authentication dialog
@@ -905,18 +865,6 @@ addressbar-suggestions-settings = தேடுபொறி பரிந்து
 
 content-blocking-learn-more = மேலும் அறிய
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-content-blocking-setting-standard =
-    .label = நிலையான
-    .accesskey = d
-content-blocking-setting-strict =
-    .label = கண்டிப்பாக
-    .accesskey = r
-content-blocking-setting-custom =
-    .label = தனிப்பயன்
-    .accesskey = C
-
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
@@ -964,14 +912,6 @@ permissions-notification-link = மேலும் அறிய
 permissions-notification-pause =
     .label = { -brand-short-name } மறுதொடங்கும் வரை அறிவிப்புகளை இடைநிறுத்து
     .accesskey = n
-
-permissions-block-autoplay-media2 =
-    .label = வலைத்தளங்களில் தானாக ஒலி இயக்குவதைத் தடு
-    .accesskey = த
-
-permissions-block-autoplay-media-exceptions =
-    .label = விதிவிலக்குகள்...
-    .accesskey = E
 
 permissions-block-popups =
     .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
@@ -1089,6 +1029,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name } வட்டில் காலி இடமில்லை. இணையத்தள உள்ளடக்கங்கள் சரியாகத் தோன்றாது. “மேலும் அறிய” தொடுப்பு மூலம் உங்கள் வட்டின் பயனளவை மேம்படுத்தி உலாவல் அனுபதித்தைக் கூட்டுங்கள்.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

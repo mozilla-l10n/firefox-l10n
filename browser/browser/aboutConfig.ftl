@@ -2,28 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = மறைந்திருக்கும் பகுதி இதோ!
-about-config-warning-checkbox = மீண்டும் நினைவூட்டு!
-about-config-warning-button = நான் இடரை ஏற்கிறேன்
-
-about-config2-title = மேம்பட்ட கட்டமைப்புகள்
-
-about-config-search-input =
-    .placeholder = தேடு
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 ##
 
 about-config-show-all = அனைத்தையும் காட்டு
-
-about-config-pref-add = சேர்
-about-config-pref-toggle = நிலைமாற்று
-about-config-pref-edit = தொகு
-about-config-pref-save = சேமி
-about-config-pref-reset = மீட்டமை
-about-config-pref-delete = அழி
 
 about-config-pref-add-button =
     .title = சேர்

@@ -12,7 +12,6 @@ fullscreen = முழுத்திரை
 find = கண்டுபிடி
 new-tab = புதிய கீற்று
 add-bookmark = புத்தகக்குறியாக சேர்
-open-bookmarks-sidebar = புத்தகக்குறிகளின் பக்கப்பட்டையைக் காட்டு
 reader-view = வாசகர் காட்சி
 # Meant to match the string displayed in an empty URL bar.
 open-location = தேடு அல்லது முகவரியை உள்ளிடு

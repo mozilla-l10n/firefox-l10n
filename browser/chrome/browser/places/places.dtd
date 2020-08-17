@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "கோப்பினை தேர்ந்தெடு…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "இந்த தளத்தை மறக்கவும்">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "திற">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "ஒரு புதிய சாளரத்தில் திறக்கவும்">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "புதிய கமுக்க சாளரத்தில் திறக்கவும்">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "ஒரு புதிய கீற்றில் திறக்கவும்">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "அனைத்தையும் கீற்றுகளாகத் திற">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "தன்மைகள்">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "பெயரால் அடுக்கவும்">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "புதிய புத்தகக்குறி…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "புதிய அடைவு…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "புதிய பிரிப்பி">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "பெயர்">
 <!ENTITY col.tags.label          "கீற்றுகள்">
 <!ENTITY col.url.label           "இடம்">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "பார்த்த எண்ணிக்கை">
 <!ENTITY col.dateadded.label     "சேர்க்கப்பட்டது">
 <!ENTITY col.lastmodified.label  "கடைசியாக திருத்தியமைக்கப்பட்டது">
-
-<!ENTITY historySearch.placeholder  "வரலாற்றைத் தேர்">
-<!ENTITY bookmarksSearch.placeholder  "புத்தகக்குறிகளைத் தேடு">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ஒரு உருப்படியை அதன் தன்மைகளை பார்க்க மற்றும் திருத்த தேர்ந்தெடுக்கவும்">
 
-<!ENTITY view.label               "பார்வை">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "தேதியின் படி">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "தளத்தின் படி">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "அதிகம் பார்க்கப்பட்டது படி">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "கடைசியாக பார்த்தது படி">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "தேதி மற்றும் தளத்தின் படி">
-<!ENTITY byDayAndSite.accesskey   "t">

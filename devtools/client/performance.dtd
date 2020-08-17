@@ -43,7 +43,6 @@
 <!ENTITY performanceUI.table.samples                  "மாதிரிகள்">
 <!ENTITY performanceUI.table.function                 "செயல்">
 <!ENTITY performanceUI.table.totalAlloc               "மொத்த மாதிரி ஒதுக்கீடுகள்">
-<!ENTITY performanceUI.table.selfAlloc                "சுய ஒதுக்கீடு மாதிரிகள்">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

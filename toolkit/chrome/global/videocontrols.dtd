@@ -11,19 +11,6 @@
 <!ENTITY castingButton.castingLabel "திரையில் வார்">
 <!ENTITY closedCaption.off "அணை">
 
-<!ENTITY stats.media "ஊடகம்">
-<!ENTITY stats.size "அளவு">
-<!ENTITY stats.activity "செயல்பாடு">
-<!ENTITY stats.activityPaused "இடைநிறுத்தப்பட்டது">
-<!ENTITY stats.activityPlaying "இயக்குகிறது">
-<!ENTITY stats.activityEnded "முடிவடைந்தது">
-<!ENTITY stats.activitySeeking "(தேடியடைகிறது)">
-<!ENTITY stats.volume "ஒலியளவு">
-<!ENTITY stats.framesParsed "சட்டங்களை பாகுபடுத்த">
-<!ENTITY stats.framesDecoded "குறியீடு நீக்கம் செய்யப்பட்ட பிரேம்கள்">
-<!ENTITY stats.framesPresented "வழங்கப்பட்ட பிரேம்கள்">
-<!ENTITY stats.framesPainted "பெயின்ட் செய்யப்பட்ட பிரேம்கள்">
-
 <!ENTITY error.aborted "வீடியோ ஏற்றுதல் நிறுத்தப்பட்டது.">
 <!ENTITY error.network "பிணைய பிழையின் காரணமாக வீடியோ இயக்கம் கைவிடப்பட்டது.">
 <!ENTITY error.decode "கோப்பு சிதைந்துள்ளதால், வீடியோவை இயக்க முடியாது.">
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 / #2 கடந்தது">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

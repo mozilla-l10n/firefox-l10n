@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>கோரப்பட்ட ஆவணம் &brandShortName; இன் தேக்ககத்தில் கிடைக்கவில்லை.</p><ul><li>பாதுகாப்பு எச்சரிக்கைக்காக, &brandShortName; ஆனது முக்கியமான ஆவணங்களை மறுமுறை கோராதபடி அமைக்கப்பட்டுள்ளது.</li><li>வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சி என்பதைச் சொடுக்கவும்.</li></ul>">
 
 <!ENTITY netOffline.title "இணைப்பில்லாத முறைமை">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>மீண்டும் முயற்சி. &brandShortName; இணைப்பைத் திறக்க முயற்சித்து பக்கத்தை மீளேற்றும். <button id='wifi'> அருகலையைச் செயல்படுத்து</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>இந்த பிரச்சனையை தெரியப்படுத்த வலை உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li> </ul>">

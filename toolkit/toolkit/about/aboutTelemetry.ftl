@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = தரவு மூலத்தை பிங் பன்னு:
-about-telemetry-show-current-ping-data = நடப்பு பிங் தரவு
 about-telemetry-show-archived-ping-data = காக்கப்பட்ட பிங் தரவு
 about-telemetry-show-subsession-data = துணையமர்வு தரவைக் காட்டு
 about-telemetry-choose-ping = பிங்கைத் தேர்:
@@ -59,7 +58,6 @@ about-telemetry-page-subtitle = இந்தப் பக்கமானது, 
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = ஒவ்வொரு துண்டு தகவலும் “<a data-l10n-name="ping-link">பிங்குகள்</a>” பொட்டலத்தில் அனுப்பப்பட்டது. நீங்கள் பார்ப்பது { $name }, { $timestamp } பிங் ஆகும்.
-about-telemetry-ping-details-current = ஒவ்வொரு துண்டு தகவலும் “<a data-l10n-name="ping-link">பிங்குகள்</a>“ பொட்டலத்தில் அனுப்பப்பட்டது. நீங்கள் பார்ப்பது நடப்பு பிங் ஆகும்.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -80,8 +78,6 @@ about-telemetry-no-search-results = மன்னிக்கவும்! “{ $
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-no-search-results-all = மன்னிக்கவும்! “{ $searchTerms }” என்பதற்கு எந்த பிரிவுகளிலும் முடிவுகள் இல்லை
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = தற்போதைய பிங்
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = அனைத்தும்
 # button label to copy the histogram
