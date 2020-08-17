@@ -427,6 +427,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = A chave 0x{ $keyId } já foi revogada.
 key-man-button-revoke-key = &Revogar chave
 openpgp-key-revoke-success = Chave revogada com sucesso.
+after-revoke-info =
+    A chave foi revogada.
+    Compartilhe esta chave pública novamente, enviando por e-mail ou enviando para servidores de chaves, para que outras pessoas saibam que você revogou sua chave.
+    Assim que os softwares usados por outras pessoas tomarem conhecimento da revogação, deixarão de usar sua chave antiga.
+    Se você estiver usando uma nova chave para o mesmo endereço de e-mail e anexar a nova chave pública aos e-mails que enviar, as informações sobre sua chave antiga revogada serão incluídas automaticamente.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Excluir chave OpenPGP
@@ -506,8 +511,14 @@ key-revoked = Chave '{ $key }' revogada
 key-expired = Chave '{ $key }' expirada
 msg-compose-internal-error = Ocorreu um erro interno.
 keys-to-export = Selecione chaves OpenPGP a inserir
+msg-compose-partially-encrypted-inlinePGP =
+    A mensagem que você está respondendo continha tanto partes criptografadas como não criptografadas. Se o remetente não conseguiu descriptografar algumas partes da mensagem originalmente, você pode estar vazando informações confidenciais que o remetente não conseguiu descriptografar originalmente.
+    Considere remover todo o texto citado de sua resposta a este remetente.
 msg-compose-cannot-save-draft = Erro ao salvar rascunho
 msg-compose-partially-encrypted-short = Cuidado com o vazamento de informações sensíveis - e-mail parcialmente criptografado.
+quoted-printable-warn =
+    Você ativou a codificação 'quoted-printable' para enviar mensagens. Isso pode resultar na descriptografia e/ou verificação incorreta de sua mensagem.
+    Quer desativar agora o envio de mensagens 'quoted-printable'?
 sending-news =
     A operação de envio criptografado foi interrompida.
     Esta mensagem não pode ser criptografada porque há destinatários de grupos de notícias. Reenvie a mensagem sem criptografia.
