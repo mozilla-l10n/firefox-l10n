@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Causir un fichièr…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Doblidar aqueste site">
-<!ENTITY cmd.deleteDomainData.accesskey "D">
-
-<!ENTITY cmd.open.label                  "Dobrir">
-<!ENTITY cmd.open.accesskey              "D">
-<!ENTITY cmd.open_window.label           "Dobrir dins una fenèstra novèla">
-<!ENTITY cmd.open_window.accesskey       "f">
-<!ENTITY cmd.open_private_window.label     "Dobrir lo ligam dins una novèla fenèstra privada">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Dobrir dins un onglet novèl">
-<!ENTITY cmd.open_tab.accesskey          "o">
-<!ENTITY cmd.open_all_in_tabs.label      "Tot dobrir dins d'onglets">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
-
-<!ENTITY cmd.properties.label      "Proprietats">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Triar per nom">
-<!ENTITY cmd.sortby_name.accesskey          "T">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Marcapagina novèl…">
-<!ENTITY cmd.new_bookmark.accesskey        "M">
-<!ENTITY cmd.new_folder.label              "Repertòri novèl…">
-<!ENTITY cmd.new_folder.accesskey          "R">
-<!ENTITY cmd.context_new_folder.accesskey  "R">
-<!ENTITY cmd.new_separator.label           "Separador novèl">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Nom">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Adreça">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Nombre de visitas">
 <!ENTITY col.dateadded.label     "Data d'apondon">
 <!ENTITY col.lastmodified.label  "Darrièra modificacion">
-
-<!ENTITY historySearch.placeholder  "Cercar dins l’istoric">
-<!ENTITY bookmarksSearch.placeholder  "Cercar dins los marcapaginas">
 
 <!ENTITY cmd.find.key  "F">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Seleccionatz un element per visualizar e modificar sas proprietats">
 
-<!ENTITY view.label               "Visualizar">
-<!ENTITY view.accesskey           "z">
-<!ENTITY byDate.label             "Per data">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Per site">
-<!ENTITY bySite.accesskey         "s">
-<!ENTITY byMostVisited.label      "Per nombre de visitas">
-<!ENTITY byMostVisited.accesskey  "v">
-<!ENTITY byLastVisited.label      "Per data de darrièra visita">
-<!ENTITY byLastVisited.accesskey  "d">
-<!ENTITY byDayAndSite.label       "Per data e site">
-<!ENTITY byDayAndSite.accesskey   "t">

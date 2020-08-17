@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Reduire">
-<!ENTITY bringAllToFront.label    "Tot menar al primièr plan">
-<!ENTITY zoomWindow.label         "Zoom">
-<!ENTITY windowMenu.label         "Tot menar al primièr plan">
-
-<!ENTITY helpMenu.label           "Ajuda"> 
-<!ENTITY helpMenu.accesskey       "A"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Ajuda"> 
-<!ENTITY helpMenuWin.accesskey    "j">
-
 <!ENTITY aboutProduct2.label      "A prepaus de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "Ajuda de &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "j">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Acorchis de clavièr">
-<!ENTITY helpKeyboardShortcuts.accesskey "j">
-
-<!ENTITY helpSafeMode.label       "Reaviar amb los moduls desactivats…">
-<!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Reaviar, moduls activats…">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "Informacions de depanatge">
-<!ENTITY helpTroubleshootingInfo.accesskey  "d">
-
-<!ENTITY helpFeedbackPage.label      "Balhar vòstre vejaire…">
-<!ENTITY helpFeedbackPage.accesskey  "B">
-
-<!ENTITY helpShowTour2.label            "Visita guidada de &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "V">
 
 <!ENTITY preferencesCmdMac.label        "Preferéncias…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicis">
 
 <!ENTITY hideThisAppCmdMac2.label       "Amagar &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Amagar los autres">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Afichar tot">
 

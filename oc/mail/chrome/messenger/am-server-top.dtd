@@ -63,14 +63,11 @@
 <!ENTITY maxMessagesEnd.label "messatges.">
 <!ENTITY alwaysAuthenticate.label "Demandar totjorn una autentificacion al moment de la connexion a aqueste servidor">
 <!ENTITY alwaysAuthenticate.accesskey "j">
-<!ENTITY newsrcFilePath.label "Fichièr newsrc :">
-<!ENTITY newsrcPicker.label "Seleccionar un fichièr newsrc">
 <!ENTITY abbreviate.label "Afichar los noms dels gropes de discussion dins lo panèl dels dorsièrs de corrièr coma :">
 <!ENTITY abbreviateOn.label "dels noms complets (per exemple « mozilla.dev.apps.thunderbird »)">
 <!ENTITY abbreviateOff.label "dels noms abreujats (per exemple « m.d.a.thunderbird »)">
 <!ENTITY advancedButton.label "Avançats…">
 <!ENTITY advancedButton.accesskey "s">
-<!ENTITY localPath.label "Repertòri local :">
 <!ENTITY localFolderPicker.label "Seleccionar un repertòro local">
 <!ENTITY browseFolder.label "Percórrer…">
 <!ENTITY browseFolder.accesskey "P">

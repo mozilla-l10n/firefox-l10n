@@ -48,7 +48,6 @@
 <!ENTITY folderType.label                        "Tipe de dorsièr :">
 
 <!ENTITY folderQuotaTab.label                    "Quotas">
-<!ENTITY folderQuotaRoot.label                   "Raiç dels quotas :">
 <!ENTITY folderQuotaUsage.label                  "Utilizacion :">
 <!ENTITY folderQuotaStatus.label                 "Estatut :">
 

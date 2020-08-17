@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = S'es produch una error en enviant lo rapòrt. Se vos plai, ensajatz de nòu mai tard.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Lo site es petaçat ? Enviatz un rapòrt
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Estandard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Mai d’informacions tocant la proteccion renfortida contra lo seguiment
+
 protections-panel-etp-on-header = La proteccion renfortida contra lo seguiment es ACTIVADA per aqueste site.
 protections-panel-etp-off-header = La proteccion renfortida contra lo seguiment es DESACTIVADA per aqueste site
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Lo site fonciona pas ?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Lo site foncion pas ?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Totes los traçadors sus aq
 ##
 
 protections-panel-no-trackers-found = Cap de traçadors coneguts per { -brand-short-name } pas detectat sus aquesta pagina.
+
 protections-panel-content-blocking-tracking-protection = Contengut utilizat pel seguiment
+
 protections-panel-content-blocking-socialblock = Traçadors de malhums socials
 protections-panel-content-blocking-cryptominers-label = Minaires de criptomonedas
 protections-panel-content-blocking-fingerprinters-label = Generadors d’emprentas numericas
@@ -65,12 +71,14 @@ protections-panel-protectionsdashboard-label = Taula de bòrd de las proteccions
 
 # The header of the list
 protections-panel-site-not-working-view-header = Desactivatz las proteccions s’avètz de problèmas amb :
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Los camps de connexion
 protections-panel-site-not-working-view-issue-list-forms = Los formularis
 protections-panel-site-not-working-view-issue-list-payments = Los pagaments
 protections-panel-site-not-working-view-issue-list-comments = Los comentaris
 protections-panel-site-not-working-view-issue-list-videos = Las vidèos
+
 protections-panel-site-not-working-view-send-report = Enviar un rapòrt
 
 ##
@@ -80,9 +88,11 @@ protections-panel-cryptominers = Los minaires de criptomoneda utilizan la potén
 protections-panel-fingerprinters = Los generadors d’emprentas numericas reculhisson los paramètres del navegador e de l’ordenador per crear un perfil vòstre. En utilizant aquesta emprenta numerica vos pòdon seguir de site en site.
 protections-panel-tracking-content = Los sites web pòdon cargar de reclamas, de vidèos e d’autres contenguts extèrns amb un d’elements de seguiment. Lo blocatge del contengut utilizat contra lo seguiment pòt accelerar lo cargament, mas es possible que unes botons, formularis o camps de connexion foncionen pas
 protections-panel-social-media-trackers = Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiás de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social.
+
 protections-panel-content-blocking-manage-settings =
     .label = Gerir los paramètres de proteccion
     .accesskey = G
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Senhalar un site copat
 protections-panel-content-blocking-breakage-report-view-description = Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar { -brand-short-name } per totes. Amb lo rapòrt serà tanben junta l’URL e d’informacions sus las preferéncias del navegador. <label data-l10n-name="learn-more">Ne saber mai</label>

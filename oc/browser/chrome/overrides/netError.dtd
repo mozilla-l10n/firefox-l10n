@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Impossible de se connectar">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Aquesta adreça es restrencha">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Impossible de trobar lo servidor">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Umm. capitam pas a trobar aqueste site.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>S’aquesta adreça es corrècta, vaquí tres mai causas que podètz ensajar :</strong>
 <ul>
@@ -34,19 +28,13 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fichièrs pas trobat">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">
-
-<!ENTITY fileAccessDenied.title "L'accès al fichièr es estat refusat">
 
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Benlèu es estat suprimit, bolegat o las permissions del fichièr n'empacharián l'accès.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "La requèsta pòt pas abotir">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; pòt pas cargar aquesta pagina.</p>">
 
@@ -56,18 +44,10 @@
 <!ENTITY openPortalLoginPage.label2 "Dobrir la pagina de connexion al ret">
 
 <!ENTITY malformedURI.pageTitle "URL invalida">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Umm, aquesta adreça sembla pas valida.">
-
-<!ENTITY netInterrupt.title "La connexion es estada interrompuda">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Lo document a expirat">
-
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins lo cache de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; tòrna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Tornar ensajar per tornar demandar aqueste document del site web.</li></ul>">
-
-<!ENTITY netOffline.title "Mòde fòra connexion">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -75,48 +55,25 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
-
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
-
-<!ENTITY unsafeContentType.title "Tipe de fichièr pas segur">
 
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
 
-<!ENTITY netReset.title "La connexion es estada reïnicializada">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Relambi d'espèra passat">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "La connexion es pas estada compresa">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Benlèu qu'es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Lo servidor mandatari refusa las connexions">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes ;</li> <li>Contactatz vòstre administrator de ret per vos assegurar que lo servidor proxy fonciona.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatari">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes ;</li> <li>Verificatz que la connexion ret de vòstre ordenador fonciona ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy,asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>La causa d'aqueste problèma pòt èsser la desactivacion o lo refús dels cookies.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Responsa inesperada del servidor">
-
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verificatz que lo gestionari de seguretat personala (PSM) es installat sus vòstre sistèma.</li> <li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li></ul>">
 
-<!ENTITY nssFailure2.title "La connexion segura a pas capitat">
-
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> <li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> </ul>">
-
-<!ENTITY certerror.longpagetitle2 "Atencion : risc probable de seguretat">
-<!ENTITY certerror.sts.longpagetitle  "Connexion blocada : problèma potencial de seguretat">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -139,11 +96,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navegar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Error deguda a un contengut corromput">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; a empachat lo cargament d’aquesta pagina dins aqueste contèxt pr’amor que la politica X-Frame-Options de la pagina l’autoriza pas.</p>">
 
@@ -154,11 +107,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
 
-<!ENTITY remoteXUL.title "XUL distant">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Impossible d'establir una connexion securizada">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -169,15 +118,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> utiliza una estrategia de seguretat HTTP Strict Transport Security (HSTS), una connexion securizada es obligatòria per i accedir. Podètz pas apondre d’excepcion per consultar aqueste site.">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 
-<!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza una tecnologia de seguretat obsolèta e vulnerabla a las atacas. Un atacant poiriá aisidament revelar d'informacions que pensèssetz èsser seguras. L'administrator del site web deurà d'en primièr adobar lo servidor abans que poguèssetz visitar lo site.</p><p>Error code : NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina blocada">
-
-<!ENTITY certerror.mitm.title "Un logicial empacha &brandShortName; de se connectar de biais securizat a aqueste site">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> es benlèu un site fisable, mas èra pas possible d’establir una connexion securizada. Aqueste problèma es causat per <span class='mitm-name'/>, qu’es un logicial installat siá sus vòstre ordenador, siá sus vòstre ret.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "deSe vòstre logicial antivirus inclutz una foncionalitat d’analisi de las connexions chifradas (a vegada nomenada « analisi web » o « analisi HTTPS »), podètz desactivar aquesta foncionalitat. S'aquò fonciona pas, enssajatz de suprimir puèi tornar installar vòstre logicial antivirus.">
@@ -185,14 +130,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se coneissètz pas <span class='mitm-name'/>, alara poiriá èsser una ataca e deuriatz pas anar sul site.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se coneissètz pas <span class='mitm-name'/>, alara poiriá èsser una ataca, e i a pas res de far per accedir al site.">
 
-<!ENTITY clockSkewError.title "L’ora de l’ordenador es pas corrècta">
-
 <!ENTITY clockSkewError.longDesc "Segon vòstre ordenador es <span id='wrongSystemTime_systemDate1'/> qu'empacha &brandShortName; de se connectar en tota seguretat. Per visitar <span class='hostname'></span>, reglatz lo relòtge de l’ordenador dins los paramètres sistèma de data d’ora e de fus orari, puèi actualizatz <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
-
-<!ENTITY networkProtocolError.title "Error de protocòl ret">
 
 <!ENTITY enableTls10.longDesc "Aqueste site web poiriá pas prendre en carga lo protocòl TLS 1.2, qu'es la version minimala presa en carga per &brandShortName;. L’activacion de TLS 1.0 e TLS 1.1 poiriá permetre a la connexion de foncionar.">
 <!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 seràn desactivats per totjorn per las versions venentas.">

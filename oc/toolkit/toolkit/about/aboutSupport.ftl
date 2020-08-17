@@ -4,6 +4,7 @@
 
 page-title = Informacions de depanatge
 page-subtitle = Aquesta pagina conten d'informacions tecnicas que poirián èsser utilas quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions correntas sus { -brand-short-name }, consultatz nòstre <a data-l10n-name="support-link">site Web d'assisténcia</a>.
+
 crashes-title = Rapòrts de plantatge
 crashes-id = Identificant del rapòrt
 crashes-send-date = Data de mandadís
@@ -104,8 +105,6 @@ graphics-desktop-environment = Environament de burèu
 place-database-title = Basa de donada de lòcs
 place-database-integrity = Integritat
 place-database-verify-integrity = Verificar l'integritat
-js-title = JavaScript
-js-incremental-gc = Amassamicas incremental
 a11y-title = Accessibilitat
 a11y-activated = Activar
 a11y-force-disabled = Limitar l'accessibilitat
@@ -125,6 +124,7 @@ sandbox-sys-call-number = Crida del sistèma
 sandbox-sys-call-args = Arguments
 safe-mode-title = Ensajar en mòde securizat
 restart-in-safe-mode-label = Reaviar amb los moduls desactivats…
+
 clear-startup-cache-title = Ensajatz d’escafar lo cache d’aviada
 clear-startup-cache-label = Escafar lo cache a l’aviada…
 startup-cache-dialog-title = Escafar lo cache a l’aviada
@@ -135,7 +135,6 @@ restart-button-label = Reaviar
 
 audio-backend = Sistèma de retorn àudio
 max-audio-channels = Nombre de canals maximal
-channel-layout = Mòde de canal preferit
 sample-rate = Taus d'escandalhatge preferit
 roundtrip-latency = Laténcia anar-tornar (desviacion estandarda)
 media-title = Mèdia
@@ -188,6 +187,7 @@ report-crash-for-days =
         [one] Rapòrts de plantatge del darrièr { $days } jorn
        *[other] Rapòrts de plantatge dels darrièrs { $days } jorns
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -195,6 +195,7 @@ crashes-time-minutes =
         [one] Fa { $minutes } minuta
        *[other] Fa { $minutes } minutas
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -202,6 +203,7 @@ crashes-time-hours =
         [one] Fa { $hours } ora
        *[other] Fa { $hours } oras
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -209,6 +211,7 @@ crashes-time-days =
         [one] Fa { $days } jorn
        *[other] Fa { $days } jorns
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -216,6 +219,7 @@ pending-reports =
         [one] Totes los rapòrts de fracàs (inlús { $reports } rapòrt en espèra d'un fracàs que s'es debanat dins l'interval)
        *[other] Totes los rapòrts de fracàs (incluses { $reports } rapòrts en espèra de fracasses que se son debanats dins l'interval)
     }
+
 raw-data-copied = Informacions brutas copiadas dins lo quichapapièrs
 text-copied = Tèxte copiat dins lo quichapapièrs
 
@@ -228,9 +232,11 @@ blocked-mismatched-version = Blocat perque la version de vòstre pilòt grafic q
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocat per la version de vòstre pilòt grafic. Ensajatz de far la mesa a jorn de vòstre pilòt grafic cap a la version { $driverVersion } o superiora.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramètres ClearType
+
 compositing = Composicion
 hardware-h264 = Desodatge material H264
 main-thread-no-omtc = fil màger, sens OMTC
@@ -245,6 +251,7 @@ virtual-monitor-disp = Afichatge d'ecran virtual
 
 found = Trobada
 missing = Mancant
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripcion
@@ -268,21 +275,25 @@ webgl2-version = Pilòt WebGL 2 - Version
 webgl2-driver-extensions = Pilòt WebGL 2 - Extensions
 webgl2-extensions = WebGL 2 - Extensions
 blocklisted-bug = Plaçat dins la lista de blocatge per causa de donadas conegudas
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = error { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Botat en lista negra a causa d’un problèma conegut : <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Plaçat dins la lista de blocatge; còde d'error { $failureCode }
+
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Desencodador vidèo D3D11
-d3d9video-crash-buard = Desencodador vidèo D3D9
 d3d9video-crash-guard = Desencodador vidèo D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Desencodador vidèo WMF VPX
+
 reset-on-next-restart = Reïnicializar en reaviar
 gpu-process-kill-button = Acabar lo procediment GPU
 gpu-device-reset = Reïnicializacion del periferic
@@ -292,8 +303,10 @@ content-uses-tiling = Utiliza lo caladat (contengut)
 off-main-thread-paint-enabled = Desenhar fòra en del fil d’execucion màger activat
 off-main-thread-paint-worker-count = Nombre de workers que participan al painting en defòra del fial d’execucion principal
 target-frame-rate = Frequéncia d’imatge cibla
+
 min-lib-versions = Version minimala esperada
 loaded-lib-versions = Version utilizada
+
 has-seccomp-bpf = Seccomp-BPF (Filtratge dels apèls sistèma)
 has-seccomp-tsync = Sincronizacion del fial d'execucion Seccomp
 has-user-namespaces = Espacis de noms de l'utilizaire
@@ -306,15 +319,18 @@ sandbox-proc-type-content = contengut
 sandbox-proc-type-file = contengut del fichièr
 sandbox-proc-type-media-plugin = plugin mèdia
 sandbox-proc-type-data-decoder = descodador de donadas
+
 startup-cache-title = Cache d’aviada
 startup-cache-disk-cache-path = Camin del cache disc
 startup-cache-ignore-disk-cache = Ignorar lo cache disc
 startup-cache-found-disk-cache-on-init = Cache disc trobat a l’inicializacion
 startup-cache-wrote-to-disk-cache = Escritura sul cache disc
+
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Desactivada a causa d’una error
 launcher-process-status-2 = Desactivada de fòrça
 launcher-process-status-unknown = Estatut desconegut
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -327,6 +343,7 @@ multi-process-status-6 = Desactivat per un biais de sasida non pres en carga
 multi-process-status-7 = Desactivat per de moduls complementaris
 multi-process-status-8 = Desactivat per forma forçada
 multi-process-status-unknown = Estatut desconegut
+
 async-pan-zoom = Zoom/Panoramic asincròns
 apz-none = pas cap
 wheel-enabled = entrada rodeta activada

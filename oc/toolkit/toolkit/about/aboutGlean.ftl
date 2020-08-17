@@ -7,5 +7,6 @@
 
 about-glean-page-title = A prepaus de Glean
 about-glean-warning = Una marrida utilizacion d’aquesta interfàcia pòt copar { -brand-short-name }.
+
 tag-pings-label = Etiquetar totes los pings enviats amb aquesta apelacion
 controls-button-label = Enviar los paramètres
