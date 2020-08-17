@@ -6,8 +6,6 @@
 
 <!ENTITY pasteNoFormatting.label "संरूपण के बिना चिपकायें">
 <!ENTITY pasteNoFormatting.accesskey "o">
-<!ENTITY pasteAs.label "इस रूप में चिपकायें">
-<!ENTITY pasteAs.accesskey "a">
 
 <!ENTITY pasteAsQuotationCmd.label "उद्धरण के रूप में चिपकायें">
 
@@ -100,9 +98,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "एक अनुच्छेद प्रारूप चुनें">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "शरीर पाठ">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "उन्नत गुण">  
+<!ENTITY bodyTextCmd.label "शरीर पाठ">  
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "पंक्तिबद्ध करें">
 <!ENTITY alignLeft.label "बांयां">
@@ -113,11 +109,6 @@
 <!ENTITY alignRight.tooltip "दांयें रखें">
 <!ENTITY alignJustify.label "जस्टिफाई">
 <!ENTITY alignJustify.tooltip "जस्टिफाई रखें">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "स्तर">
-<!ENTITY layerSendToBack.tooltip "पीछे जायें">
-<!ENTITY layerBringToFront.tooltip "सामने लायें">
 
 <!ENTITY increaseIndent.label "किनारा बढायें">
 <!ENTITY decreaseIndent.label "किनारा घटायें">
@@ -168,16 +159,6 @@
 <!ENTITY tableProperties.label "तालिका गुण...">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "मेनू बार">
-<!ENTITY formatToolbar.tooltip "संरूपण उपकऱणपट्टी">
-<!ENTITY printToolbarCmd.label "छापें">
-<!ENTITY printToolbarCmd.tooltip "इस पृष्ठ छापें">
-<!ENTITY findToolbarCmd.label "ढूंढे">
-<!ENTITY findToolbarCmd.tooltip "पेज में पाठ ढूंढें">
-<!ENTITY spellToolbarCmd.label "वर्तनी">
-<!ENTITY spellToolbarCmd.tooltip "चयनित या पूरे पेज की वर्तनी जांचे">
-
 <!ENTITY imageToolbarCmd.label "चित्र">
 <!ENTITY imageToolbarCmd.tooltip "नया चित्र डालें या चयनित चित्र गुण संपादित करें">
 <!ENTITY hruleToolbarCmd.label "H.रेखा">
@@ -190,7 +171,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "नामित एंकर डालें या चयनित एंकर के गुण संपादित करें">
 <!ENTITY TextColorButton.tooltip "पाठ के लिये रंग चुनें">
 <!ENTITY BackgroundColorButton.tooltip "पृष्ठभूमि के लिये रंग चुनें">
-<!ENTITY HighlightColorButton.tooltip "पाठ के लिये हाइलाइट रंग चुनें">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "छोटा फंट आकार">
@@ -207,14 +187,6 @@
 <!ENTITY alignLeftButton.tooltip "बांयें हाशिया के गिर्द पाठ समायोजित करें">
 <!ENTITY alignCenterButton.tooltip "केंद्र के गिर्द पाठ समायोजित करें">
 <!ENTITY alignRightButton.tooltip "दायें हाशिया के गिर्द पाठ समायोजित करें">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "चुनें">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "टैब हटायें">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "टैग बदलें">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "डालें">

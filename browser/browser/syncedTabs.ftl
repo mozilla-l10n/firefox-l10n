@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = संकलित टैब्स
 synced-tabs-sidebar-noclients-subtitle = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
-synced-tabs-sidebar-notsignedin = टैब्स की सूची देखने के लिए अपने दूसरे उपकरणों से साइन इन करें.
 synced-tabs-sidebar-intro = अपने अन्य उपकरणों से टैब की एक सूची देखें।
 synced-tabs-sidebar-unverified = आपके खाते की पृष्टि करने की आवश्यकता है.
 synced-tabs-sidebar-notabs = कोई खुला टैब नहीं

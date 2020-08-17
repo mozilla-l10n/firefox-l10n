@@ -79,11 +79,6 @@ permissions-invalid-uri-label = एक वैध मेजबाननाम ड
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = अपवाद - सामग्री अवरोधन
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = इन वेबसाइटों के लिए अंतर्वस्तु ब्लॉकिंग अक्षम कर दिया है।
-
 permissions-exceptions-etp-desc = आपने इन वेबसाइटों पर सुरक्षा बंद कर दी है।
 
 ## Exceptions - Cookies
@@ -115,11 +110,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = कौन-सी वेबसाइटें सहयुक्तियों का संस्थापन करेंगी यह आपके हाथ में है. जिनको आप यह अनुमति देना चाहते हैं उनका सही वेब पता लिखें और अनुमति दें पर क्लिक करें.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = अपवाद - ऑटोप्ले
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = आप चुन सकते हैं कि किन वेबसाइटों को ध्वनि के साथ मीडिया को स्वतः रूप से हमेशा या कभी नहीं चलाने की अनुमति है. उस वेबसाइट का पता दर्ज करें जिसे आप प्रबंधित करना चाहते हैं फिर ब्लॉक करें या अनुमति दें पर क्लिक करें.
 
 ## Site Permissions - Autoplay
 

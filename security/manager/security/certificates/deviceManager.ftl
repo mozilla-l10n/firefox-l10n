@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = क्रम संख्या
 
 fips-nonempty-password-required = FIPS मोड के लिये जरूरी है कि आपके पास एक मुख्य कूटशब्द रहना चाहिये हर सुरक्षा युक्ति के लिये सेट. कृपया कूटशब्द सेट करें FIPS मोड सक्रिय करने के पहले.
+
 unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
 load-pk11-module-file-picker-title = एक PKCS#11 डिवाइस ड्राइवर लोड करने के लिए चुनें
 

@@ -52,14 +52,11 @@
 <!ENTITY maxMessagesEnd.label "संदेश">
 <!ENTITY alwaysAuthenticate.label "इस सर्वर से जुड़ने पर हमेशा सत्यापन के लिये आग्रह करें">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc फाइल:">
-<!ENTITY newsrcPicker.label "newsrc फाइल चुनें">
 <!ENTITY abbreviate.label "मेल फोल्डर पैन में समाचारसमूह नाम इस रूप में दिखायें:">
 <!ENTITY abbreviateOn.label "पूरा नाम (उदाहरणार्थ, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "संक्षिप्त नाम (उदाहरणार्थ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "उन्नत...">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localPath.label "स्थानीय निर्देशिका:">
 <!ENTITY localFolderPicker.label "स्थानीय निर्देशिका चुनें">
 <!ENTITY browseFolder.label "ब्रॉउज करें...">
 <!ENTITY browseFolder.accesskey "B">

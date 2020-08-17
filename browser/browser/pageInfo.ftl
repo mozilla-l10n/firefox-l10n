@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = ऐसे सहेजें…
     .accesskey = e
-media-preview =
-    .value = मीडिया पूर्वावलोकन‌:
 
 perm-tab =
     .label = अनुमति‌
@@ -132,7 +130,6 @@ security-site-data-cookies-only = हाँ, कुकीज़
 security-site-data-no = नहीं
 
 image-size-unknown = अज्ञा‌त
-not-set-verified-by = निर्दिष्ट‌ नहीं
 page-info-not-specified =
     .value = निर्दिष्ट‌ नहीं
 not-set-alternative-text = निर्दिष्ट‌ नहीं
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = क्वर्क स्थिति
 general-strict-mode =
     .value = मानक संगत स्थिति
-security-no-owner = यह वेबसाइट स्वामित्व सूचना नहीं देती है.
 page-info-security-no-owner =
     .value = यह वेबसाइट स्वामित्व सूचना नहीं देती है.
 media-select-folder = चित्रों को सहेजने के लिए फ़ोल्डर चुनें

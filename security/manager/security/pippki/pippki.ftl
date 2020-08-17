@@ -8,8 +8,10 @@ password-quality-meter = कूटशब्द गुणवत्ता मी�
 
 change-password-window =
     .title = मुख्य कूटशब्द बदलें
+
 change-device-password-window =
     .title = पासवर्ड बदलें
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा युक्ति: { $tokenName }
