@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Gere tu additivos per cliccar sur <image da
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitter que iste extension se executa in fenestras private
     .accesskey = P
-appmenu-addon-private-browsing =
-    .label = Cambiamento al extensiones in fenestras private
-    .buttonlabel = Gerer extensiones
-    .buttonaccesskey = G
-    .secondarybuttonlabel = OK, io lo comprende
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Omne nove extensiones que tu adde a { -brand-shorter-name } non functionara in fenestras private, a minus que tu permitte isto in le configuration.
-appmenu-addon-private-browsing-learn-more = Apprende como gerer le configuration de extensiones
     
 appmenu-new-tab-controlled =
     .label = Tu nove scheda ha cambiate.

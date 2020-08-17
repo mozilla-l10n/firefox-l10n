@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Predefinite ({ $name })
 fonts-label-default-unnamed =
     .label = Predefinite
+
 fonts-encoding-dialog-title =
     .title = Typos de litteras & codificationes
+
 fonts-language-legend =
     .value = Typos de litteras pro:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proportional:
     .accesskey = P
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Dimension:
     .accesskey = o
+
 font-size-monospace-label =
     .value = Dimension:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Largor fixe:
     .accesskey = F
+
 font-min-size-label =
     .value = Dimension minime de litteras:
     .accesskey = d
+
 min-size-none =
     .label = Nulle
 
 ## Fonts in message
 
 font-control-legend = Controlo de typos de litteras
+
 use-document-fonts-checkbox =
     .label = Permitter que le messages usa altere typos de litteras
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Usar un typo de litteras a largessa fixe pro messages de texto simple
     .accesskey = x
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codification del texto
+
 text-encoding-description = Predefinir le codification del texto pro reciper e inviar posta
+
 font-outgoing-email-label =
     .value = Posta exiente:
     .accesskey = u
+
 font-incoming-email-label =
     .value = Posta entrante:
     .accesskey = { "" }
+
 default-font-reply-checkbox =
     .label = Quando possibile, usar le codification de texto predefinite in responsas
     .accesskey = Q

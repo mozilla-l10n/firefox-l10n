@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Activar le depuration remote
-options-enable-remote-tooltip =
-    .title = Activar iste option permittera al instrumentos de disveloppamento de depurar un instantia remote como Firefox OS
 
 options-enable-remote-tooltip2 =
     .title = Activar iste option consentira de depurar iste instantia de navigator a distantia

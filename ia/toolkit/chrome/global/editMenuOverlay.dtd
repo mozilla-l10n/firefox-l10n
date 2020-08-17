@@ -2,29 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Edition">
-<!ENTITY editMenu.accesskey        "e">
-<!ENTITY undoCmd.label             "Disfacer">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "D">
-<!ENTITY redoCmd.label             "Refacer">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "Taliar">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Copiar">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
-<!ENTITY pasteCmd.label            "Collar">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "l">
-<!ENTITY deleteCmd.label           "Deler">
-<!ENTITY deleteCmd.accesskey       "d">
-<!ENTITY selectAllCmd.label        "Seliger toto">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "t">
-
 <!ENTITY findCmd.label             "Cercar">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "r">
@@ -32,5 +9,3 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "s">
-<!ENTITY findPreviousCmd.label     "Cercar le precedente">
-<!ENTITY findPreviousCmd.accesskey "p">

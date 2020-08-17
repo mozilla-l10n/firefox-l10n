@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Typo de dossier:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota radice:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Stato:">
 

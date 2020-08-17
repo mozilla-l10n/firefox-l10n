@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Exceptiones - Blocage de contento
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Tu ha disactivate le blocage de contento pro iste sito web.
-
 permissions-exceptions-etp-window =
     .title = Exceptiones al protection antitraciamento reinfortiate
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Tu pote specificar que sitos web es permittite de installar additivos. Scribe le adresse exacte del sito que tu vole permitter e tunc clicca sur Permitter.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Exceptiones - Reproduction automatic
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Tu pote specificar qual sitos web sempre o nunquam pote reproducer automaticamente le multimedia con sono. Scribe le adresse del sito que tu vole gerer e pois clicca sur Blocar o Permitter.
 
 ## Site Permissions - Autoplay
 

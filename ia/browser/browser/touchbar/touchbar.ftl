@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Exir del plen schermo
 find = Trovar
 new-tab = Nove scheda
 add-bookmark = Adder marcapagina
-open-bookmarks-sidebar = Aperir le barra lateral de marcapaginas
 reader-view = Vista de lectura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Insere un adresse o face un recerca

@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Incapace de connecter se">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Iste adresse es restricte">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Servitor non trovate">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Guai. Nos ha problemas a trovar iste sito.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Si ille adresse es correcte, ecce tres altere cosas que tu pote tentar:</strong>
 <ul>
@@ -34,19 +28,13 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "File non trovate">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifica si le nomine del file ha errores de majusculas e minusculas o altere errores orthographic.</li> <li>Verifica si le file ha essite movite, renominate o delite.</li> </ul>">
-
-<!ENTITY fileAccessDenied.title "Le accesso al file esseva negate">
 
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Illo pote haber essite removite, movite, o le permissiones del file pote impedir le accesso.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Oops.">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; non pote cargar iste pagina pro alcun ration.</p>
@@ -60,18 +48,10 @@
 <!ENTITY openPortalLoginPage.label2 "Aperir le pagina de authentication al rete">
 
 <!ENTITY malformedURI.pageTitle "URL invalide">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Iste adresse non pare correcte.">
-
-<!ENTITY netInterrupt.title "Le connexion ha essite interrumpite">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Documento expirate">
-
 <!ENTITY notCached.longDesc "<p>Le documento requestate non es disponibile in le cache de &brandShortName;.</p><ul><li>Como precaution de securitate, &brandShortName; non re-requestara automaticamente documentos sensibile.</li><li>Clicca retentar pro re-requestar le documento ab le sito web.</li></ul>">
-
-<!ENTITY netOffline.title "Modo foras de linea">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -79,15 +59,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Error de codification del contento">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Typo de file non secur">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -95,15 +71,9 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Le connexion ha essite interrumpite">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Le connexion ha expirate">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Le adresse non ha essite comprendite">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -111,16 +81,12 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Le servitor proxy refusa connexiones">
-
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Controla que le parametros del proxy es correcte.</li>
   <li>Contacta tu administrator de rete pro saper si le servitor del proxy functiona.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Incapace de trovar le servitor proxy">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -131,16 +97,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Le pagina non redirige correctemente">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Iste problema pote esser causate per le disactivation o refusa
     de cookies.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Responsa inexpectate del servitor">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -149,17 +111,12 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Connexion secur fallite">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Le pagina que tu tenta vider non pote esser monstrate perque le authenticitate del datos recipite non poteva esser verificate.</li>
   <li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Advertentia: Potential risco de securitate avante">
-<!ENTITY certerror.sts.longpagetitle  "Non connectite: possibile problema de securitate">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -196,11 +153,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Blocate per le politica de securitate del contento">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediva a iste pagina de cargar in iste maniera proque le pagina ha un regula de securitate de contento que non lo permitte.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ha blocate le cargamento de iste pagina in iste contexto perque le pagina ha un politica X-Frame-Options que non lo permitte.</p>">
 
@@ -211,11 +164,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Reporta errores como tal pro adjutar Mozilla a identificar e blocar le sitos malitiose">
 <!ENTITY errorReporting.learnMore "Saper plus…">
 
-<!ENTITY remoteXUL.title "XUL remote">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Incapace de connecter se securmente">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -226,15 +175,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha un politica de securitate appellate HTTP Strict Transport Security (HSTS), le qual vole dicer que &brandShortName; solmente pote connecter se a illo de maniera secur. Tu pote adder un exception pro visitar iste sito.">
 <!ENTITY certerror.copyToClipboard.label "Copiar le texto al area de transferentia">
 
-<!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa technologia de securitate que es obsolete e vulnerabile a attaccos. Un attaccante pote facilemente revelar informationes que tu pensa esser secur. Le administrator del sito web debera reparar le servitor ante que tu pote visitar le sito.</p><p>Codice de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina blocate">
-
-<!ENTITY certerror.mitm.title "Un software impedi &brandShortName; de connecter se securmente a iste sito">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> es probabilemente un sito secur, ma un connexion secur non poteva esser establite. Iste problema es causate per <span class='mitm-name'/>, que es o un software in tu computator o tu rete.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si tu programma antivirus ha un function que controla connexiones cryptate (generalmente appellate “scan web” o “scan https”), tenta disactivar iste function. Si isto non resolve le problema, tenta remover e reinstallar le software antivirus.">
@@ -242,14 +187,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco e tu non deberea sequer al sito.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco, e il non ha qualcosa que tu pote facer pro acceder al sito.">
 
-<!ENTITY clockSkewError.title "Le horologio de tu computator es errate">
-
 <!ENTITY clockSkewError.longDesc "Tu computator signa que es <span id='wrongSystemTime_systemDate1'/>. isto impedi a &brandShortName; de connecter se con securitate. Pro visitar <span class='hostname'></span>, actualisa le horologio de tu computator al data, tempore e fuso horari currente. Pois refresca <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Pare que le configuration de securitate del rete pote esser le causa de isto. Vole tu restaurar le configuration predefinite?">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">
-
-<!ENTITY networkProtocolError.title "Error de protocollo de rete">
 
 <!ENTITY enableTls10.longDesc "Iste sito web pote non supportar le protocollo TLS 1.2, le version minime que &brandShortName; supporta. Activar TLS 1.0 e TLS 1.1 poterea permitter que iste connexion succede.">
 <!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 essera permanentemente disactivate in un version futur.">

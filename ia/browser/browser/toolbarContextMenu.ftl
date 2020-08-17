@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seliger tote le schedas
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Reaperir le ultime scheda claudite
-    .accesskey = u
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

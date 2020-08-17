@@ -25,21 +25,6 @@ graph-private-window = { -brand-short-name } continua a blocar traciatores in fe
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Traciatores que { -brand-short-name } ha blocate iste septimana
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Le nivello de protection es adjustate a <b>Standard</b>
-    .title = Ir al parametros de vita private
-protection-report-header-details-strict = Le nivello de protection es adjustate a <b>Stricte</b>
-    .title = Ir al parametros de vita private
-protection-report-header-details-custom = Le nivello de protection es adjustate a <b>Personalisate</b>
-    .title = Ir al parametros de vita private
-protection-report-page-title = Protectiones del vita private
-protection-report-content-title = Protectiones del vita private
-
-etp-card-title = Protection antitraciamento reinfortiate
-etp-card-content = Le traciatores te seque in linea pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
-
 protection-report-webpage-title = Pannello de protectiones
 protection-report-page-content-title = Pannello de protectiones
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -86,12 +71,9 @@ mobile-app-card-content = Usa le navigator mobile con protection integrate contr
 mobile-app-links = Navigator { -brand-product-name } pro <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Non oblida plus tu contrasignos
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Gestion de contrasignos
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
 lockwise-header-content-logged-in = Memorisa e synchronisa tu contrasignos sur tote tu apparatos in tote securitate.
-protection-report-view-logins-button = Vider credentiales
-    .title = Ir a Credentiales salvate
 protection-report-save-passwords-button = Salvar contrasignos
     .title = Salvar contrasignos sur { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Gerer contrasignos
@@ -99,15 +81,6 @@ protection-report-manage-passwords-button = Gerer contrasignos
 lockwise-mobile-app-title = Porta tu contrasignos sempre con te
 lockwise-no-logins-card-content = Usa le contrasignos salvate in { -brand-short-name } sur qualcunque apparato.
 lockwise-app-links = { -lockwise-brand-name } pro <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] contrasigno memorisate con securitate <a data-l10n-name="lockwise-how-it-works">Como functiona</a>
-       *[other] contrasignos memorisate con securitate <a data-l10n-name="lockwise-how-it-works">Como functiona</a>
-    }
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
@@ -131,21 +104,10 @@ lockwise-how-it-works-link = Como functiona
 turn-on-sync = Accende { -sync-brand-short-name }…
     .title = Ir al preferentias de Sync
 
-manage-connected-devices = Gerer apparatos…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Connectite a { $count } apparato
-       *[other] Connectite a { $count } apparatos
-    }
-
 monitor-title = Vigilantia contra violationes de datos
 monitor-link = Como illo functiona
 monitor-header-content-no-account = Consulta { -monitor-brand-name } pro vider si tu ha essite parte de un violation cognoscite de datos e reciper avisos sur nove violationes.
 monitor-header-content-signed-in = { -monitor-brand-name } te adverti si tu information ha apparite in un violation cognoscite de datos.
-monitor-sign-up = Inscriber te al Avisos de violation
 monitor-sign-up-link = Inscriber te al Avisos de violation
     .title = Inscriber te al Avisos de violation sur { -monitor-brand-name }
 auto-scan = Controlate automaticamente hodie
@@ -191,17 +153,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] Contrasigno exponite inter tote le violationes
        *[other] Contrasignos exponite inter tote le violationes
-    }
-
-full-report-link = Vider reporto complete sur <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Le credential salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasigno pro melior securitate online. <a data-l10n-name="lockwise-link">Vide le credential salvate</a>
-       *[other] Credentiales salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasignos pro melior securitate online. <a data-l10n-name="lockwise-link">Vide credentiales salvate</a>
     }
 
 # This string is displayed after a large numeral that indicates the total number

@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archivo">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar iste message">
-<!ENTITY hdrOpenConversationButton1.label "Conversation">
-<!ENTITY hdrOpenConversationButton1.tooltip "Monstrar conversation de iste message">
 <!ENTITY hdrSmartReplyButton1.label "Responsa intelligente">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Responder al expeditor de iste message">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder al lista de diffusion">
 <!ENTITY hdrFollowupButton1.label "Sequito">
 <!ENTITY hdrFollowupButton1.tooltip "Publicar un responsa in iste gruppo">
-<!ENTITY hdrMenuForwardButton.label "Inviar ultra como">
 <!ENTITY hdrForwardButton1.label "Inviate ultra">
 <!ENTITY hdrForwardButton1.tooltip "Inviar ultra iste message">
 <!ENTITY hdrJunkButton1.label "Indesirate">

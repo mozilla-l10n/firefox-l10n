@@ -4,11 +4,15 @@
 
 openpgp-change-key-expiry-title =
     .title = Cambiar le expiration del clave
+
 info-will-expire = Iste clave es actualmente configurate expirar le { $date }.
 info-already-expired = Iste clave ha jam expirate.
 info-does-not-expire = Iste clave es actualmente configurate expirar jammais.
+
 info-explanation-1 = <b>Post que un clave expira</b>, il non es plus possibile usar lo pro cryptographia o firma digital.
+
 info-explanation-2 = Pro usar iste clave pro un periodo de tempore plus longe, cambia su data de expiration e pois comparti de novo le clave public con tu companiones de conversation.
+
 expire-dont-change =
     .label = Non cambia le data de expiration
 expire-never-label =

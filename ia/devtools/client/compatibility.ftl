@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (obsolete)
 compatibility-issue-experimental = (experimental)
 compatibility-issue-prefixneeded = (prefixo necessari)
 compatibility-issue-deprecated-experimental = (obsolete, experimental)
+
 compatibility-issue-deprecated-prefixneeded = (obsolete, prefixo necessari)
 compatibility-issue-experimental-prefixneeded = (experimental, prefixo necessari)
 compatibility-issue-deprecated-experimental-prefixneeded = (obsolete, experimental, prefixo necessari)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } occurrentia
        *[other] { $number } occurrentias
     }
+
 compatibility-no-issues-found = Nulle problema de compatibilitate trovate.
 compatibility-close-settings-button =
     .title = Clauder le parametros

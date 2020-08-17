@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Imagine-in-imagine">
 
-<!ENTITY stats.media "Media">
-<!ENTITY stats.size "Dimension">
-<!ENTITY stats.activity "Activitate">
-<!ENTITY stats.activityPaused "Pausate">
-<!ENTITY stats.activityPlaying "In reproduction">
-<!ENTITY stats.activityEnded "Finite">
-<!ENTITY stats.activitySeeking "(recerca)">
-<!ENTITY stats.volume "Volumine">
-<!ENTITY stats.framesParsed "Photogrammas interpretate">
-<!ENTITY stats.framesDecoded "Photogrammas decodificate">
-<!ENTITY stats.framesPresented "Photogrammas presentate">
-<!ENTITY stats.framesPainted "Photogrammas designate">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Le lectura del video ha essite interrumpite a causa de un error incognite.">
 
 <!ENTITY status.pictureInPicture "Iste video se reproduce in modo imagine-in-imagine.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 de #2 reproducite">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

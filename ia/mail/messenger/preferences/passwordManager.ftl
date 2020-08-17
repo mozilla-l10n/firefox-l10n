@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Clauder
     .accesskey = C
+
 show-passwords =
     .label = Monstrar le contrasignos
     .accesskey = c
@@ -73,10 +74,12 @@ no-master-password-prompt = Desira tu vermente monstrar tu contrasignos?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Verifica tu identitate pro revelar le contrasignos salvate.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = revela le contrasignos salvate
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

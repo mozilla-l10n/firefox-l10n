@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "messages">
 <!ENTITY alwaysAuthenticate.label "Sempre demandar authentication quando se connecte a iste servitor">
 <!ENTITY alwaysAuthenticate.accesskey "s">
-<!ENTITY newsrcFilePath.label "File newsrc:">
-<!ENTITY newsrcPicker.label "Seliger le file newsrc">
 <!ENTITY newsrcFilePath1.label "File news.rc:">
 <!ENTITY newsrcPicker1.label "Seliger le file news.rc">
 <!ENTITY abbreviate.label "Monstrar le nomines de gruppos in le pannello de dossiers como:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avantiate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codification del testo predefinite:">
-<!ENTITY localPath.label "Directorio local:">
 <!ENTITY localPath1.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Selige directorio local">
 <!ENTITY browseFolder.label "Percurrer…">

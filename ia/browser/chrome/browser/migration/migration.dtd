@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importar le optiones, marcapaginas, chronologia, contrasignos e altere datos de:">
 <!ENTITY importFromUnix.label           "Importar preferentias, marcapaginas, chronologia, contrasignos e altere datos de:">
-<!ENTITY importFromBookmarks.label      "Importar le marcapaginas de:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

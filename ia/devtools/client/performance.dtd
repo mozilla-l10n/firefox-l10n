@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Le nomine e le adresse del codice fonte del function prendite.">
 <!ENTITY performanceUI.table.totalAlloc               "Quantitate de allocationes prendite">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Le numero total de allocationes de objectos prendite a iste loco e in appellates.">
-<!ENTITY performanceUI.table.selfAlloc                "Allocationes individual prendite">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Le numero de allocationes de objectos prendite a iste loco.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

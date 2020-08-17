@@ -4,7 +4,9 @@
 
 finger-yes = Verificate
 finger-no = Non verificate
+
 finger-subset-title = Remover dactylogrammas
 finger-subset-message = Al minus un dactylogramma non pote esser removite, perque le correspondente clave es actualmente usate in un conversation active.
+
 finger-remove-all-title = Remover tote le dactylogrammas
 finger-remove-all-message = Desira tu vermente remover tote le dactylogrammas previemente vidite? Tote le previe verificationes de identitate OTR sera perdite.

@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Eliger un file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
-<!ENTITY cmd.deleteDomainData.label     "Oblidar iste sito">
-<!ENTITY cmd.deleteDomainData.accesskey "O">
-
-<!ENTITY cmd.open.label                  "Aperir">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Aperir in un nove fenestra">
-<!ENTITY cmd.open_window.accesskey       "f">
-<!ENTITY cmd.open_private_window.label     "Aperir in un nove fenestra private">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Aperir in un nove scheda">
-<!ENTITY cmd.open_tab.accesskey          "s">
-<!ENTITY cmd.open_all_in_tabs.label      "Aperir toto in schedas">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Proprietates">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Ordinar per nomine">
-<!ENTITY cmd.sortby_name.accesskey          "O">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Nove marcapaginas…">
-<!ENTITY cmd.new_bookmark.accesskey        "m">
-<!ENTITY cmd.new_folder.label              "Nove dossier…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "d">
-<!ENTITY cmd.new_separator.label           "Nove separator">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Nomine">
 <!ENTITY col.tags.label          "Etiquettas">
 <!ENTITY col.url.label           "Adresse">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Quantitate de visitas">
 <!ENTITY col.dateadded.label     "Addite">
 <!ENTITY col.lastmodified.label  "Ultime modification">
-
-<!ENTITY historySearch.placeholder  "Cercar in le chronologia">
-<!ENTITY bookmarksSearch.placeholder  "Cercar in le marcapaginas">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Selige un elemento pro vider e modificar su proprietates">
 
-<!ENTITY view.label               "Vider">
-<!ENTITY view.accesskey           "r">
-<!ENTITY byDate.label             "Per data">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Per sito">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Per plus visitas">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Per ultime visita">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "Per data e sito">
-<!ENTITY byDayAndSite.accesskey   "t">

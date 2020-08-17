@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Securitate">
-<!ENTITY securityTab.label "Securitate">
-<!ENTITY securityHeading.label "Pro inviar e reciper messages signate o cryptate, tu debe specificar un certificato de signatura digital e un certificato de cryptation.">
-<!ENTITY encryptionGroupTitle.label "Cryptographia">
-<!ENTITY encryptionChoiceLabel.label "Parametro de cryptation predefinite pro le invio de messages:">
-<!ENTITY neverEncrypt.label "Nunquam (non usa le cryptographia)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Obligatori (permitte inviar solmente si tote le destinatarios ha certificatos)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Usa iste certificato pro cryptar e decryptar messages inviate a te:">
-
 <!ENTITY e2eTitle.label "Cryptographia testa a testa">
-<!ENTITY e2eIntro.description "Pro inviar messages cifrate o signate digitalmente, tu debe configurar un technologia de cryptographia OpenPGP o S/MIME.">
 <!ENTITY e2eLearnMore.label "Saper plus">
 
 <!ENTITY e2eEnc.description "Sin cryptographia testa a testa le contentos de messages es facilemente exponite a tu fornitor de email e a surveliantia de massa.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Rader">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Firma digital">
-<!ENTITY signMessage.label "Adjunger un signatura digital (predefinite)">
 <!ENTITY signMessage2.label "Adder mi firma digital per defecto">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Usar iste certificato pro signar digitalmente le messages que tu invia:">
-
-<!ENTITY certificates.label "Certificatos">
-<!ENTITY manageCerts2.label "Gerer certificatos">
-<!ENTITY manageCerts2.accesskey "G">
-<!ENTITY manageDevices.label "Dispositivos de securitate">
-<!ENTITY manageDevices.accesskey "c">
 
 <!ENTITY signingCert2.message "Certificato personal pro firma digital:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Preferer OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Gerer claves OpenPGP">
-<!ENTITY manageKeys.accesskey "C">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seliger certificato">

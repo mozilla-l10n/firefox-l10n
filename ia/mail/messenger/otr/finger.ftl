@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Clauder
     .title = Dactylogrammas OTR previemente vidite
+
 finger-intro = Dactylogrammas clave OTR de previe conversationes cryptate end-to-end.
+
 finger-screenName =
     .label = Contacto
 finger-verified =
     .label = Stato de verification
 finger-fingerprint =
     .label = Dactylogramma
+
 finger-remove =
     .label = Remover le selecte
+
 finger-remove-all =
     .label = Remover toto

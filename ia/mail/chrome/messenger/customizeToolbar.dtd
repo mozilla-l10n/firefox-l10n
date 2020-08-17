@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Icones al latere de texto">
 <!ENTITY useSmallIcons.label      "Usar micre icones">
 <!ENTITY restoreDefaultSet.label  "Restaurar le parametros">
-<!ENTITY addNewToolbar.label      "Adder nove barra de instrumentos">
-<!ENTITY showTitlebar.label       "Monstrar barra de titulos">
-<!ENTITY extraDragSpace.label     "Adder spatio de traction">
 <!ENTITY showTitlebar2.label      "Barra de titulo">
 <!ENTITY extraDragSpace2.label    "Spatio de traction">
 <!ENTITY saveChanges.label        "Facite">

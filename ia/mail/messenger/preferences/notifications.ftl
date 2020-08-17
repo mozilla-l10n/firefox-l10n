@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Personalisar aviso email de novas
+
 customize-alert-description = Eliger que campos monstrar in le notification de avisos:
+
 preview-text-checkbox =
     .label = Texto de vista preliminar de message
     .accesskey = M
+
 subject-checkbox =
     .label = Subjecto
     .accesskey = S
+
 sender-checkbox =
     .label = Expeditor
     .accesskey = E
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Monstrar alerta de nove posta durante
     .accesskey = n
+
 open-time-label-after =
     .value = secundas

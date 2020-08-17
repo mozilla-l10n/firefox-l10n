@@ -68,15 +68,6 @@
 <!ENTITY notCached.longDesc "<p>Le documento requestate non es disponibile in le cache de &brandShortName;.</p><ul><li>Como precaution de securitate, &brandShortName; non pote peter automaticamente documentos delicate.</li><li>Clicca en Reprobar pro re-requestar le documento del sito web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo disconnectite">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Retentar. &brandShortName; tentara aperir un connexion e recargar le pagina.
-    <button id='wifi'>Activar Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Error de codification del contento">
 <!ENTITY contentEncodingError.longDesc "<ul>
