@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Liitä ilman muotoilua">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Liitä määräten">
-<!ENTITY pasteAs.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.label "Liitä lainauksena">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Etsi…">
-<!ENTITY findReplaceCmd.label "Etsi ja korvaa…">
-<!ENTITY enableInlineSpellChecker.label "Oikolue kirjoitettaessa">
-<!ENTITY enableInlineSpellChecker.accesskey "k">
-<!ENTITY checkSpellingCmd2.label "Oikolue">
-<!ENTITY checkSpellingCmd2.accesskey "O">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Lisää">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Leipäteksti">
 <!ENTITY bodyTextCmd.accesskey "L">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Lisäasetukset">
-<!ENTITY advancedPropertiesCmd.accesskey "s">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Tasaus">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Tasaleveys">
 <!ENTITY alignJustify.accesskey "T">
 <!ENTITY alignJustify.tooltip "Tasaa vakioleveyteen">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Taso">
-<!ENTITY layerSendToBack.tooltip "Siirrä taaimmaiseksi">
-<!ENTITY layerBringToFront.tooltip "Nosta päällimmäiseksi">
 
 <!ENTITY increaseIndent.label "Lisää sisennystä">
 <!ENTITY increaseIndent.accesskey "e">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Taulukon ominaisuudet…">
 <!ENTITY tableProperties.accesskey "T">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Valikkopalkki">
-<!ENTITY formatToolbar.tooltip "Muotoilupalkki">
-<!ENTITY cutToolbarCmd.tooltip "Leikkaa">
-<!ENTITY copyToolbarCmd.tooltip "Kopioi">
-<!ENTITY pasteToolbarCmd.tooltip "Liitä">
-<!ENTITY printToolbarCmd.label "Tulosta">
-<!ENTITY printToolbarCmd.tooltip "Tulosta sivu">
-<!ENTITY findToolbarCmd.label "Etsi">
-<!ENTITY findToolbarCmd.tooltip "Etsi teksti sivulta">
-<!ENTITY spellToolbarCmd.label "Oikolue">
-<!ENTITY spellToolbarCmd.tooltip "Oikolue valinta tai koko sivu">
-
 <!ENTITY imageToolbarCmd.label "Kuva">
 <!ENTITY imageToolbarCmd.tooltip "Lisää uusi kuva tai muokkaa valitun kuvan ominaisuuksia">
 <!ENTITY hruleToolbarCmd.label "Vaakaviiva">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Lisää uusi ankkuri tai muokkaa valitun ankkurin ominaisuuksia">
 <!ENTITY TextColorButton.tooltip "Valitse tekstin väri">
 <!ENTITY BackgroundColorButton.tooltip "Valitse taustaväri">
-<!ENTITY throbber.tooltip2 "Siirry &brandShortName;in aloitussivulle">
-<!ENTITY HighlightColorButton.tooltip "Valitse tekstin korostusväri">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Muuta kirjasinkokoa">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Tasaa teksti keskelle">
 <!ENTITY alignRightButton.tooltip "Tasaa teksti oikean marginaalin mukaan">
 <!ENTITY alignJustifyButton.tooltip "Tasaa teksti vasemman ja oikean marginaalin mukaan">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Valitse">
-<!ENTITY structSelect.accesskey     "V">
-<!ENTITY structRemoveTag.label      "Poista tunnus">
-<!ENTITY structRemoveTag.accesskey  "P">
-<!ENTITY structChangeTag.label      "Muuta tunnusta">
-<!ENTITY structChangeTag.accesskey  "M">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Lisää">

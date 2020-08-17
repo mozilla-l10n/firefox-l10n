@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Kuvakkeet tekstin vieressä">
 <!ENTITY useSmallIcons.label      "Käytä pieniä kuvakkeita">
 <!ENTITY restoreDefaultSet.label  "Palauta oletusasetukset">
-<!ENTITY addNewToolbar.label      "Lisää uusi työkalupalkki">
-<!ENTITY showTitlebar.label       "Näytä otsikkopalkki">
-<!ENTITY extraDragSpace.label     "Lisää tyhjää tilaa vetämistä varten">
 <!ENTITY showTitlebar2.label      "Otsikkopalkki">
 <!ENTITY extraDragSpace2.label    "Lisää tyhjää tilaa">
 <!ENTITY saveChanges.label        "Valmis">

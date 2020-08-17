@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkistoi">
 <!ENTITY hdrArchiveButton1.tooltip "Arkistoi viesti">
-<!ENTITY hdrOpenConversationButton1.label "Keskustelu">
-<!ENTITY hdrOpenConversationButton1.tooltip "Näytä tämän viestin keskustelut">
 <!ENTITY hdrSmartReplyButton1.label "Älyvastaus">
 <!ENTITY hdrReplyButton1.label "Vastaa">
 <!ENTITY hdrReplyButton2.tooltip "Vastaa viestin lähettäjälle">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Vastaa postituslistalle">
 <!ENTITY hdrFollowupButton1.label "Vastaa ryhmään">
 <!ENTITY hdrFollowupButton1.tooltip "Lähetä vastaus tähän keskusteluryhmään">
-<!ENTITY hdrMenuForwardButton.label "Välitä">
 <!ENTITY hdrForwardButton1.label "Välitä">
 <!ENTITY hdrForwardButton1.tooltip "Välitä viesti">
 <!ENTITY hdrJunkButton1.label "Roskapostia">

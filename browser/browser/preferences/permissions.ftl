@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Kirjoita kelvollinen palvelinnimi
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Poikkeukset - Sisällön esto
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Olet poistanut käytöstä sisällön eston näillä sivustoilla.
-
 permissions-exceptions-etp-window =
     .title = Tehostetun seurannan suojauksen poikkeukset
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Lisäosia voidaan asentaa määrätyiltä sivustoilta. Kirjoita sivuston osoite ja napsauta Salli.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Poikkeukset - Automaattinen toisto
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Voit valita, mitkä sivustot saavat joko aina tai eivät ikinä toistaa äänellistä mediaa automaattisesti. Kirjoita sivuston osoite ja napsauta Estä tai Salli.
 
 ## Site Permissions - Autoplay
 

@@ -23,4 +23,6 @@ otr-require-encryption-info =
     ei näytetä osana normaalia keskustelua, eikä niitä myöskään kirjata.
 otr-verifyNudge =
     .label = Muistuta minua aina varmistamaan varmistamaton yhteyshenkilö
+
 otr-notYetAvailable = ei vielä saatavilla
+

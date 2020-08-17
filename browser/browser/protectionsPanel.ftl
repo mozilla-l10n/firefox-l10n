@@ -63,7 +63,6 @@ protections-panel-not-found-label = Ei havaittu
 ##
 
 protections-panel-settings-label = Suojauksen asetukset
-protections-panel-showreport-label = Näytä raportti
 
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Suojausten yhteenveto

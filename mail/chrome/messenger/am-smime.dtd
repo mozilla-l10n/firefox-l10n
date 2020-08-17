@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Turvallisuus">
-<!ENTITY securityTab.label "Turvallisuus">
-<!ENTITY securityHeading.label "Jos haluat lähettää tai vastaanottaa allekirjoitettuja tai salattuja viestejä, sinun tulee antaa varmenne sekä allekirjoittamiseen että salaamiseen.">
-<!ENTITY encryptionGroupTitle.label "Salaus">
-<!ENTITY encryptionChoiceLabel.label "Salauksen oletusasetukset viestejä lähetettäessä:">
-<!ENTITY neverEncrypt.label "Ei koskaan (älä käytä salausta)">
-<!ENTITY neverEncrypt.accesskey "E">
-<!ENTITY alwaysEncryptMessage.label "Vaadittu (viestiä ei voi lähettää, ellei kaikilla vastaanottajilla ole varmennetta)">
-<!ENTITY alwaysEncryptMessage.accesskey "V">
-<!ENTITY encryptionCert.message "Salaa ja pura salaus sinulle lähetetyistä viesteistä tällä varmenteella:">
-
 <!ENTITY e2eTitle.label "Päästä päähän -salaus">
-<!ENTITY e2eIntro.description "Salattujen tai digitaalisesti allekirjoitettujen viestien lähettämistä varten on määritettävä joko OpenPGP- tai S/MIME-salaustekniikka.">
 <!ENTITY e2eLearnMore.label "Lue lisää">
 
 <!ENTITY e2eEnc.description "Ilman päästä päähän -salausta viestien sisältö altistuu helposti sähköpostipalveluntarjoajallesi ja joukkovalvonnalle.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Tyhjennä">
 <!ENTITY encryption.certificate_clear.accesskey "y">
 <!ENTITY signingGroupTitle.label "Digitaalinen allekirjoittaminen">
-<!ENTITY signMessage.label "Allekirjoita viestit digitaalisesti (oletusarvoisesti)">
 <!ENTITY signMessage2.label "Lisää digitaalinen allekirjoitukseni oletusarvoisesti">
 <!ENTITY signMessage.accesskey "A">
-<!ENTITY signingCert.message "Allekirjoita lähettämäsi viestit tällä varmenteella:">
-
-<!ENTITY certificates.label "Varmenteet">
-<!ENTITY manageCerts2.label "Varmenteiden hallinta">
-<!ENTITY manageCerts2.accesskey "V">
-<!ENTITY manageDevices.label "Turvallisuuslaitteet">
-<!ENTITY manageDevices.accesskey "T">
 
 <!ENTITY signingCert2.message "Henkilökohtainen varmenne digitaaliseen allekirjoittamiseen:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Suosi OpenPGP:tä">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Hallinnoi OpenPGP-avaimia">
-<!ENTITY manageKeys.accesskey "a">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Valitse varmenne">

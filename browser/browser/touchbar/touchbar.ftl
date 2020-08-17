@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Poistu kokoruututilasta
 find = Etsi
 new-tab = Uusi välilehti
 add-bookmark = Lisää kirjanmerkki
-open-bookmarks-sidebar = Avaa kirjanmerkkien sivupaneeli
 reader-view = Lukunäkymä
 # Meant to match the string displayed in an empty URL bar.
 open-location = Kirjoita osoite tai hakusana

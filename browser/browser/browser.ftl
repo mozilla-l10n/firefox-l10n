@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Yksityinen selaus)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Yksityinen selaus)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Yksityinen selaus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Yksityinen selaus)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = Olet estänyt MIDI-käytön tältä sivustolta.
 urlbar-install-blocked =
     .tooltiptext = Olet estänyt lisäosien asennuksen tältä sivustolta.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Muokkaa kirjanmerkkiä ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,12 +180,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Tällä kertaa käytä hakuun:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Muuta hakuasetuksia
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Muuta hakuasetuksia
+
 search-one-offs-context-open-new-tab =
     .label = Etsi uudessa välilehdessä
     .accesskey = E
@@ -191,6 +197,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Aseta oletushakukoneeksi yksityisissä ikkunoissa
     .accesskey = A
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -217,8 +224,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Näytä muokkaus tallennettaessa
     .accesskey = m
+
 bookmark-panel-done-button =
     .label = Valmis
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -292,12 +301,15 @@ popup-select-microphone =
     .value = Jaettava mikrofoni:
     .accesskey = m
 popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
+
 popup-screen-sharing-not-now =
     .label = Ei nyt
     .accesskey = E
+
 popup-screen-sharing-never =
     .label = Älä salli koskaan
     .accesskey = Ä
+
 popup-silence-notifications-checkbox = Ei ilmoituksia { -brand-short-name(case: "elative") } jakamisen aikana
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ei näytä ilmoituksia, kun jaat näyttöä tai ikkunaa.
 
@@ -314,23 +326,17 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Voit käyttää F12-pikanäppäintä, kun olet ensin avannut työkalut Web-työkalut-valikosta.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Kirjoita osoite tai hakutermi
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakutermi
-# This placeholder is used in search mode with search engines that search the
-# entire web.
-urlbar-placeholder-search-mode-web =
-    .placeholder = Hae verkosta
-# This placeholder is used in search mode with search engines that search a
-# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
-# tabs).
-urlbar-placeholder-search-mode-other =
-    .placeholder = Kirjoita hakuehdot
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -341,9 +347,11 @@ urlbar-permissions-granted =
     .tooltiptext = Olet myöntänyt tälle sivustolle lisäoikeuksia.
 urlbar-switch-to-tab =
     .value = Siirry välilehteen:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laajennus:
+
 urlbar-go-button =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
