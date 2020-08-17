@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "El nom i la ubicació de la font de la funció mostrejada.">
 <!ENTITY performanceUI.table.totalAlloc               "Total d'assignacions mostrejades">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "El nombre total d'assignacions d'objectes mostrejades en aquesta ubicació i als destinataris de la crida.">
-<!ENTITY performanceUI.table.selfAlloc                "Assignacions mostrejades pròpies">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "El nombre total d'assignacions d'objectes mostrejades en aquesta ubicació.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "missatges">
 <!ENTITY alwaysAuthenticate.label "Sol·licita sempre autenticació en connectar amb aquest servidor">
 <!ENTITY alwaysAuthenticate.accesskey "l">
-<!ENTITY newsrcFilePath.label "Fitxer newsrc:">
-<!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
 <!ENTITY newsrcFilePath1.label "Fitxer News.rc:">
 <!ENTITY newsrcPicker1.label "Selecciona el fitxer News.rc">
 <!ENTITY abbreviate.label "Mostra els noms dels grups de discussió a la subfinestra de la carpeta de la Missatgeria com a:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codificació del text per defecte:">
-<!ENTITY localPath.label "Directori local:">
 <!ENTITY localPath1.label "Directori local:">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
 <!ENTITY browseFolder.label "Navega…">

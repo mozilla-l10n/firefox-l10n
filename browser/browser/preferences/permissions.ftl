@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Introduïu un nom d'ordinador central vàlid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Excepcions - Bloqueig de contingut
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Heu desactivat el bloqueig de contingut en aquests llocs web.
-
 permissions-exceptions-etp-window =
     .title = Excepcions a la protecció contra el seguiment millorada
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden instal·lar complements. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Excepcions - Reproducció automàtica
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Podeu especificar quins llocs web tenen o no permís per reproduir automàticament elements multimèdia amb so. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Bloca o Permet.
 
 ## Site Permissions - Autoplay
 

@@ -5,8 +5,6 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 
-<!ENTITY identityDialog.style "min-width: 75ch;">
-
 <!ENTITY identityListDesc.label "Configureu els paràmetres per a aquesta identitat:">
 
 <!ENTITY settingsTab.label       "Paràmetres">

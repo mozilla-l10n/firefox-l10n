@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Font de dades de ping:
-about-telemetry-show-current-ping-data = Dades de ping actuals
 about-telemetry-show-current-data = Dades actuals
 about-telemetry-show-archived-ping-data = Dades de ping arxivades
 about-telemetry-show-subsession-data = Mostra dades de la subsessió
@@ -49,8 +48,6 @@ about-telemetry-filter-all-placeholder =
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Resultats de «{ $searchTerms }»
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping actual
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = dades actuals
 # used in the “Ping Type” select

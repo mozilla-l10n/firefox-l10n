@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Configuració d'un compte de correu electrònic existent">
-
 <!ENTITY emailWizard.title               "Configuració de la vostra adreça electrònica existent">
 <!ENTITY emailWizard.caption             "Utilitzeu la vostra adreça electrònica actual">
 <!ENTITY name.label                      "El vostre nom:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Nom i cognoms">
 <!ENTITY fullname.placeholder            "El vostre nom complet">
 <!ENTITY name.text                       "El vostre nom, com voleu que es vegi">
 <!ENTITY name.error                      "Introduïu el vostre nom">
 <!ENTITY email.label                     "Adreça electrònica:">
 <!ENTITY email.accesskey                 "A">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "usuari@example.com">
 <!ENTITY email3.placeholder              "La vostra adreça electrònica">
 <!ENTITY email.text                      "La vostra adreça electrònica existent">
 <!ENTITY email.error                     "L'adreça electrònica no és vàlida">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Sortida:">
 <!ENTITY outgoingColumn.label            "Sortida">
 <!ENTITY username.label                  "Nom d'usuari:">
-<!ENTITY hostname.label                  "Nom del servidor">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Servidor:">
 <!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Prova-la">
 <!ENTITY half-manual-test.accesskey      "P">
-<!ENTITY manual-edit.label               "Configuració manual">
-<!ENTITY manual-edit.accesskey           "m">
 <!ENTITY manual-config.label             "Configura manualment…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Obtén una adreça electrònica nova…">

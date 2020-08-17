@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>El document sol·licitat ja no està disponible a la memòria cau del &brandShortName;.</p><ul><li>Per precaució, el &brandShortName; no tornarà a sol·licitar automàticament els documents sensibles.</li><li>Feu clic a «Torna-ho a provar» per tornar a sol·licitar el document al lloc web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode fora de línia">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Torneu-ho a provar. El &brandShortName; intentarà obrir una connexió i tornar a carregar la pàgina. <button id='wifi'>Activa la connexió Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificació del contingut">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> </ul>">

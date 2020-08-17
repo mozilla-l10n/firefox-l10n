@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arxiva">
 <!ENTITY hdrArchiveButton1.tooltip "Arxiva aquest missatge">
-<!ENTITY hdrOpenConversationButton1.label "Conversa">
-<!ENTITY hdrOpenConversationButton1.tooltip "Mostra la conversa d'aquest missatge">
 <!ENTITY hdrSmartReplyButton1.label "Resposta intel·ligent">
 <!ENTITY hdrReplyButton1.label "Respon">
 <!ENTITY hdrReplyButton2.tooltip "Respon al remitent d'aquest missatge">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Respon a la llista de correu">
 <!ENTITY hdrFollowupButton1.label "Segueix">
 <!ENTITY hdrFollowupButton1.tooltip "Publica al grup de discussió">
-<!ENTITY hdrMenuForwardButton.label "Reenvia com a">
 <!ENTITY hdrForwardButton1.label "Reenvia">
 <!ENTITY hdrForwardButton1.tooltip "Reenvia aquest missatge">
 <!ENTITY hdrJunkButton1.label "Correu brossa">

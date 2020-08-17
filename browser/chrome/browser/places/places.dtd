@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Trieu un fitxer…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.deleteDomainData.label     "Oblida aquest lloc">
-<!ENTITY cmd.deleteDomainData.accesskey "O">
-
-<!ENTITY cmd.open.label                  "Obre">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Obre en una finestra nova">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Obre en una finestra privada nova">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Obre en una pestanya nova">
-<!ENTITY cmd.open_tab.accesskey          "t">
-<!ENTITY cmd.open_all_in_tabs.label      "Obre-ho tot en pestanyes">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Propietats">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Ordena per nom">
-<!ENTITY cmd.sortby_name.accesskey          "O">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Afegeix una adreça d'interès…">
-<!ENTITY cmd.new_bookmark.accesskey        "d">
-<!ENTITY cmd.new_folder.label              "Crea una carpeta…">
-<!ENTITY cmd.new_folder.accesskey          "e">
-<!ENTITY cmd.context_new_folder.accesskey  "e">
-<!ENTITY cmd.new_separator.label           "Afegeix un separador">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Nom">
 <!ENTITY col.tags.label          "Etiquetes">
 <!ENTITY col.url.label           "Ubicació">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Nombre de visites">
 <!ENTITY col.dateadded.label     "Addició">
 <!ENTITY col.lastmodified.label  "Darrera modificació">
-
-<!ENTITY historySearch.placeholder  "Cerca en l'historial">
-<!ENTITY bookmarksSearch.placeholder  "Cerca en les adreces d'interès">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Seleccioneu un element per visualitzar-ne i editar-ne les propietats">
 
-<!ENTITY view.label               "Visualitza">
-<!ENTITY view.accesskey           "V">
-<!ENTITY byDate.label             "Per data">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Per lloc">
-<!ENTITY bySite.accesskey         "l">
-<!ENTITY byMostVisited.label      "Per més visitat">
-<!ENTITY byMostVisited.accesskey  "i">
-<!ENTITY byLastVisited.label      "Per darrera visita">
-<!ENTITY byLastVisited.accesskey  "a">
-<!ENTITY byDayAndSite.label       "Per data i lloc">
-<!ENTITY byDayAndSite.accesskey   "t">

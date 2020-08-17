@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importa les opcions, adreces d'interès, historial, contrasenyes i altres dades des de:">
 <!ENTITY importFromUnix.label           "Importa les preferències, adreces d'interès, historial, contrasenyes i altres dades des de:">
-<!ENTITY importFromBookmarks.label      "Importa les adreces d'interès del:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
