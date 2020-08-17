@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Архивтеу">
 <!ENTITY hdrArchiveButton1.tooltip "Бұл хабарламаны архивтеу">
-<!ENTITY hdrOpenConversationButton1.label "Сөйлесу">
-<!ENTITY hdrOpenConversationButton1.tooltip "Бұл хабарламаның сөйлесуін көрсету">
 <!ENTITY hdrSmartReplyButton1.label "Ақылды жауап беру">
 <!ENTITY hdrReplyButton1.label "Жауап беру">
 <!ENTITY hdrReplyButton2.tooltip "Бұл хабарламаның жіберушісіне жауап беру">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Эл. поштаны тарату тізіміне жауап беру">
 <!ENTITY hdrFollowupButton1.label "Жаңалықтар тобына жауап жазу">
 <!ENTITY hdrFollowupButton1.tooltip "Жаңалықтар тобына жауап жазу">
-<!ENTITY hdrMenuForwardButton.label "Қалайша қайта бағдарлау">
 <!ENTITY hdrForwardButton1.label "Қайта бағдарлау">
 <!ENTITY hdrForwardButton1.tooltip "Бұл хабарламаны қайта бағдарлау">
 <!ENTITY hdrJunkButton1.label "Спам">

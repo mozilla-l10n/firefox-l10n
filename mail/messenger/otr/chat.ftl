@@ -3,12 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 state-label = Шифрлеу күйі:
+
 start-text = Шифрленген сөйлесуді бастау
+
 start-label =
     .label = { start-text }
+
 start-tooltip =
     .tooltiptext = { start-text }
+
 end-label =
     .label = Шифрленген сөйлесуді аяқтау
+
 auth-label =
     .label = Контактініздің жеке басын растау

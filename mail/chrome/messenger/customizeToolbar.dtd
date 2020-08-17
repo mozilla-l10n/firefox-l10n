@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Таңбашалар мәтіннің қасында">
 <!ENTITY useSmallIcons.label      "Кішкентай таңбашалар">
 <!ENTITY restoreDefaultSet.label  "Бастапқы түрге келтіру">
-<!ENTITY addNewToolbar.label      "Жаңа саймандар панелін қосу">
-<!ENTITY showTitlebar.label       "Атау жолағын көрсету">
-<!ENTITY extraDragSpace.label     "Тартып апару орнын қосу">
 <!ENTITY showTitlebar2.label      "Атау жолағы">
 <!ENTITY extraDragSpace2.label    "Тартып апару орны">
 <!ENTITY saveChanges.label        "Дайын">

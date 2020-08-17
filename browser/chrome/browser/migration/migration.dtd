@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Баптаулар, бетбелгілер, тарихы, парольдерді және т.б. ақпаратты импорттау келесіден:">
 <!ENTITY importFromUnix.label           "Баптаулар, бетбелгілер, тарихы, парольдерді және т.б. ақпаратты импорттау келесіден:">
-<!ENTITY importFromBookmarks.label      "Бетбелгілерді келесіден импорттау:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

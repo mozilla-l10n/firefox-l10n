@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Қосымшаларыңызды <image dat
 appmenu-addon-post-install-incognito-checkbox =
     .label = Бұл кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету
     .accesskey = а
-appmenu-addon-private-browsing =
-    .label = Жекелік шолу режиміндегі кеңейтулерге өзгеріс
-    .buttonlabel = Кеңейтулерді басқару
-    .buttonaccesskey = б
-    .secondarybuttonlabel = Жақсы, түсіндім
-    .secondarybuttonaccesskey = а
-appmenu-addon-private-browsing-message = { -brand-shorter-name } ішіне қосылған әрбір жаңа кеңейту жекелік шолу терезелерінде жасамайды, сіз оған рұқсат беруіңіз керек.
-appmenu-addon-private-browsing-learn-more = Кеңейту баптауларын қалай басқаруға болатынын білу.
     
 appmenu-new-tab-controlled =
     .label = Сіздің жаңа бетіңіз өзгертілген.

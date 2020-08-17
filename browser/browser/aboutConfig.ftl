@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Міне, айдаһар!
-about-config-warning-text = Осы баптауларды өзгерту тұрақтылық, қауіпсіздік пен өнімділіктің құлдырауына әкеп соғуы мүмкін. Сенімді болсаңыз ғана, өзгертіңіз.
-about-config-warning-checkbox = Маған бұл туралы келесіде ескерту!
-about-config-warning-button = Осыны қабылдаймын!
-
-about-config2-title = Кеңейтілген баптаулар
-
-about-config-search-input =
-    .placeholder = Іздеу
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Абайлап жалғастырыңыз
@@ -32,13 +21,6 @@ about-config-page-title = Кеңейтілген баптаулар
 about-config-search-input1 =
     .placeholder = Баптау атынан іздеу
 about-config-show-all = Барлығын көрсету
-
-about-config-pref-add = Қосу
-about-config-pref-toggle = Ауыстыру
-about-config-pref-edit = Түзету
-about-config-pref-save = Сақтау
-about-config-pref-reset = Тастау
-about-config-pref-delete = Өшіру
 
 about-config-pref-add-button =
     .title = Қосу

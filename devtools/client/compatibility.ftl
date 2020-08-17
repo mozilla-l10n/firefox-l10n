@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (ескірген)
 compatibility-issue-experimental = (тәжірибелік)
 compatibility-issue-prefixneeded = (префикс қажет)
 compatibility-issue-deprecated-experimental = (ескірген, тәжірибелік)
+
 compatibility-issue-deprecated-prefixneeded = (ескірген, префикс қажет)
 compatibility-issue-experimental-prefixneeded = (тәжірибелік, префикс қажет)
 compatibility-issue-deprecated-experimental-prefixneeded = (ескірген, тәжірибелік, префикс қажет)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } кездесу
        *[other] { $number } кездесу
     }
+
 compatibility-no-issues-found = Үйлесімділік мәселелері табылмады.
 compatibility-close-settings-button =
     .title = Баптауларды жабу

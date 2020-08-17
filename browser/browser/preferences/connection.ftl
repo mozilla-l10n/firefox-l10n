@@ -35,12 +35,7 @@ connection-proxy-http = HTTP прокси
     .accesskey = H
 connection-proxy-http-port = Порт
     .accesskey = П
-connection-proxy-http-share =
-    .label = Көрсетілген прокси-серверді барлық хаттамалар үшін қолдану
-    .accesskey = К
 
-connection-proxy-ssl = SSL прокси
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = FTP және HTTPS үшін де бұл проксиді қолдану
     .accesskey = с

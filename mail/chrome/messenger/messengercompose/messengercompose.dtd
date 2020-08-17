@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Қайталау">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "й">
-<!ENTITY cutCmd.label "Қиып алу">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "и">
-<!ENTITY copyCmd.label "Көшіріп алу">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Кірістіру">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "р">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "а">
@@ -90,10 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Салынымдар панелі">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "м">
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Барлығын таңдау">
 <!ENTITY selectAllCmd.accesskey "Б">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Табу…">
 <!ENTITY findBarCmd.accesskey "Т">
 <!ENTITY findBarCmd.key "F">
@@ -248,23 +239,12 @@
 <!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Кімнен:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Адрестеу өрістерінің басқа түрлері">
 <!ENTITY fromAddr2.label "Кімнен">
 <!ENTITY fromAddr.accesskey "м">
-<!ENTITY toAddr.label "Кімге:">
-<!ENTITY ccAddr.label "Көшірме:">
-<!ENTITY bccAddr.label "Жасырын көшірме:">
-<!ENTITY replyAddr.label "Жауап алушы:">
-<!ENTITY newsgroupsAddr.label "Жаңалықтар тобы:">
-<!ENTITY followupAddr.label "Мынаған жауап жазу:">
-<!ENTITY subject.label "Тақырыбы:">
 <!ENTITY toAddr2.label "Кімге">
 <!ENTITY ccAddr2.label "Көшірме">
 <!ENTITY bccAddr2.label "Жасырын көшірме">
@@ -273,14 +253,6 @@
 <!ENTITY followupAddr2.label "Жаңалықтар тобына жауап беру">
 <!ENTITY subject2.label "Тақырыбы">
 <!ENTITY subject.accesskey "Т">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "м">
-<!ENTITY attachmentBucketHeader.tooltip "Салынымдар панелі">
 <!ENTITY attachmentBucketCloseButton.tooltip "Салыным панелін жасыру">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

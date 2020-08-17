@@ -7,8 +7,10 @@
 
 openpgp-keygen-confirm =
     .label = Растау
+
 openpgp-keygen-dismiss =
     .label = Бас тарту
+
 openpgp-keygen-import-complete =
     .label = Жабу
     .accesskey = Ж

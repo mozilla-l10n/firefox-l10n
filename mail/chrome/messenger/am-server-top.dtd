@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "хабарлама">
 <!ENTITY alwaysAuthenticate.label "Бұл серверге байланысу кезінде әрқашан да аутентификацияны сұрау">
 <!ENTITY alwaysAuthenticate.accesskey "ш">
-<!ENTITY newsrcFilePath.label "newsrc файлы:">
-<!ENTITY newsrcPicker.label "newsrc файлын таңдаңыз">
 <!ENTITY newsrcFilePath1.label "News.rc файлы:">
 <!ENTITY newsrcPicker1.label "News.rc файлын таңдау">
 <!ENTITY abbreviate.label "Пошта бумасы панелінде жаңалықтар топтары аттарын қалайша көрсету:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Қосымша…">
 <!ENTITY advancedButton.accesskey "о">
 <!ENTITY serverDefaultCharset2.label "Мәтіннің бастапқы кодталуы:">
-<!ENTITY localPath.label "Жергілікті бума:">
 <!ENTITY localPath1.label "Жергілікті бума:">
 <!ENTITY localFolderPicker.label "Жергілікті буманы таңдау">
 <!ENTITY browseFolder.label "Қарап шығу…">

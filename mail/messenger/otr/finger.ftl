@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = Жабу
     .title = Бұрын қаралған OTR баспалары
+
 finger-intro = Алдыңғы өтпелі шифрлеуі бар сөйлесулерден OTR кілт баспалары.
+
 finger-screenName =
     .label = Контакт
 finger-verified =
     .label = Растау қалып-күйі
 finger-fingerprint =
     .label = Баспа
+
 finger-remove =
     .label = Таңдалғанды өшіру
+
 finger-remove-all =
     .label = Барлығын өшіру

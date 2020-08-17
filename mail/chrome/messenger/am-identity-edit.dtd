@@ -5,8 +5,6 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 
-<!ENTITY identityDialog.style "min-width: 75ch;">
-
 <!ENTITY identityListDesc.label "Бұл жеке мәліметтерін баптау:">
 
 <!ENTITY settingsTab.label       "Баптаулар">

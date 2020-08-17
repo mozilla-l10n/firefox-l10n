@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Түзету">
 <!ENTITY editMenu.accesskey        "Т">
 <!ENTITY undoCmd.label            "Болдырмау">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "Б">
 <!ENTITY redoCmd.label            "Қайталау">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "й">
-<!ENTITY cutCmd.label            "Қиып алу">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "и">
-<!ENTITY copyCmd.label            "Көшіру">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "ш">
-<!ENTITY pasteCmd.label            "Кірістіру">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "р">
 <!ENTITY deleteCmd.label          "Өшіру">
 <!ENTITY deleteCmd.accesskey        "ш">
-<!ENTITY selectAllCmd.label          "Барлығын ерекшелеу">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "е">
 <!ENTITY preferencesCmd2.label "Опциялар">
 <!ENTITY preferencesCmd2.accesskey "О">
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
