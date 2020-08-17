@@ -66,15 +66,12 @@
 <!ENTITY maxMessagesEnd.label "imiyalezo">
 <!ENTITY alwaysAuthenticate.label "Yiba soloko ucela unyanisekiso xa udibanisa kule seva">
 <!ENTITY alwaysAuthenticate.accesskey "l">
-<!ENTITY newsrcFilePath.label "ifayili ye-newsrc:">
-<!ENTITY newsrcPicker.label "Khetha Ifayili ye-newsrc">
 <!ENTITY abbreviate.label "Bonisa amagama eqela leendaba kwisahlulo sefestile Sesiqulathi Seefayili Zeemeyile kanje:">
 <!ENTITY abbreviateOn.label "Amagama apheleleyo (Umzekelo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Shunqulela amagama (Umzekelo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Kwinqanaba Eseliphambili...">
 <!ENTITY advancedButton.accesskey "p">
 <!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
-<!ENTITY localPath.label "Uvimba weefayili zendawo leyo:">
 <!ENTITY localFolderPicker.label "Khetha Uvimba Weefayili Zendawo Leyo">
 <!ENTITY browseFolder.label "Khangela...">
 <!ENTITY browseFolder.accesskey "K">

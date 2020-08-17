@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = Yise kwifestile entsha
     .accesskey = f
-undo-close-tab =
-    .label = Rhoxisa ukuvala ithebhu
-    .accesskey = R
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Vala ithebhu
     .accesskey = V

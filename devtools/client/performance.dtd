@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Igama nomthombo wendawo womsebenzi owenziwe isampuli.">
 <!ENTITY performanceUI.table.totalAlloc               "Zizonke izinto ezabelweyo ezenziwe iisampuli ">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Inani elipheleleyo lobeko lwe-Objekthi iye yasemplishwa kule ndawo nakubafowunelwa.">
-<!ENTITY performanceUI.table.selfAlloc                "Izinto Ezabelweyo Ezenziwe Iisampuli ">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Inani leeObjekti ezibekiweyo eziyisampulu yale ndawo">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

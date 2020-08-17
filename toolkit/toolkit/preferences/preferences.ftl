@@ -14,6 +14,7 @@ pw-erased-ok = Uyicimile ipasiwedi yakho. { pw-empty-warning }
 pw-not-wanted = Isilumkiso! Wenze isigqibo sokungasebenzisi Igama Lokugqithisa Elingumalathindlela. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Okwangoku ukwimo yokusebenza ye-FIPS. I-FIPS ifuna Igama Lokugqithisa Elingumalathindlela elingekho ze.
+
 pw-change-success-title = Ukuguqulwa Kwegama Lokugqithisa Kuphumelele
 pw-change-failed-title = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Guqula Igama Lokugqithisa Elingumalathindlela
+
 set-password-old-password = Igama lokugqithisa langoku:
 set-password-new-password = Ngenisa igama lokugqithisa elitsha:
 set-password-reenter-password = Phinda ungenise igama lokugqithisa:
@@ -31,6 +33,7 @@ master-password-warning = Nceda qiniseka ukuba ukhumbula Igama Lokugqithisa olim
 
 remove-password =
     .title = Susa Igama Lokugqithisa Elingumalathindlela
+
 remove-info =
     .value = Kufuneka ungenise igama lokugqithisa lakho langoku ukuze uqhube:
 remove-warning1 = Igama Lokugqithisa lakho Elingumalathindlela lisetyenziselwa ukukhusela ulwazi olubuthathaka olufana namagama okugqithisa esiza.

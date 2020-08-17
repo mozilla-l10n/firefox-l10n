@@ -103,8 +103,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Vumela ukususa ibhagi kwerimoti
-options-enable-remote-tooltip =
-    .title = Ukuvulela olu khetho kuya kwenza izixhobo zokukhupha ibhagi zibe kude njengeFirefox OS
 
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Vulela abaSebenzi beeNkonzo kwiHTTP (xa ithulbhoks ivuliwe)

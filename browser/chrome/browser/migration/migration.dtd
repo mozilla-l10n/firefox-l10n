@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Thumela ekunokukhethwa kuko, iibhukhmakhi, imbali, ipasiwedi nezinye iingcombolo kwi-:">
 <!ENTITY importFromUnix.label           "Thumela iipriferensi, iibhukhmakhi, imbali, ipasiwedi nezinye iingcombolo kwi-:">
-<!ENTITY importFromBookmarks.label      "Thatha Ngaphandle Izalathisi Eziphawulayo ezivela:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

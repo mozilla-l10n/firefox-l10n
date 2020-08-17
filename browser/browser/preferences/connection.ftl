@@ -23,10 +23,6 @@ connection-proxy-option-auto =
     .label = Ukuzifumanela iisethingi zeproksi yale nethiwekhi
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = Usetyenziso lwale proksi kuzo zonke iiprotokholi
-    .accesskey = t
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

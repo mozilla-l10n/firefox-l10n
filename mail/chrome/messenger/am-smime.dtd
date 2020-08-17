@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Ukhuseleko">
-<!ENTITY securityTab.label "Security">
-<!ENTITY securityHeading.label "Ukuthumela nokufumana imiyalezo esayiniweyo nenoguqulelo oluntsonkothileyo, kufuneka uxele isatifikethi sokusayina samanani nesatifikethi soguqulelo oluntsonkothileyo.">
-<!ENTITY encryptionGroupTitle.label "Uguqulelo oluntsonkothileyo">
-<!ENTITY encryptionChoiceLabel.label "Ummiselo woguqulelo oluntsonkothileyo ohlala ukho xa kuthunyelwa imiyalezo:">
-<!ENTITY neverEncrypt.label "Ungaze (musa ukusebenzisa uguqulelo oluntsonkothileyo)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Okufunekayo (akunakuthunyelwa myalezo de babe bonke abamkeli banezatifikethi)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Sebenzisa esi satifikethi ukuguqulela ngokuntsonkothileyo &amp; ususe ukuntsonkotha kwimiyalezo ethunyelwa kuwe:">
-
 <!ENTITY digitalSign.certificate.button "Select…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Clear">
@@ -22,11 +11,5 @@
 <!ENTITY encryption.certificate_clear.button "Clear">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Ukusayina Ngokwamanani">
-<!ENTITY signMessage.label "Sayina imiyalezo ngokwamanani (ngokusebenzisa okuhlala kukho)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Sebenzisa esi satifikethi ekusayineni imiyalezo oyithumelayo ngokwamanani:">
-
-<!ENTITY certificates.label "Izatifikethi">
-<!ENTITY manageDevices.label "Security Devices">
-<!ENTITY manageDevices.accesskey "y">
 

@@ -6,7 +6,6 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.key "V">
@@ -14,14 +13,6 @@
 
 
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Find…">
-<!ENTITY findReplaceCmd.label "Find and Replace…">
-<!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.accesskey "I">
@@ -166,8 +157,6 @@
 
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.accesskey "A">
@@ -253,15 +242,6 @@
 
 
 <!-- Toolbar-only items -->
-
-<!ENTITY menuBar.tooltip "Ibar ye Menu">
-
-<!ENTITY cutToolbarCmd.tooltip "Cut">
-<!ENTITY copyToolbarCmd.tooltip "Copy">
-<!ENTITY pasteToolbarCmd.tooltip "Paste">
-<!ENTITY printToolbarCmd.label "Shicilela">
-<!ENTITY printToolbarCmd.tooltip "Shicilela eliphepha">
-<!ENTITY findToolbarCmd.label "Fumana">
 
 
 

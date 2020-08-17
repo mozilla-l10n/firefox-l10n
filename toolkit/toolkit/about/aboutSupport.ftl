@@ -4,6 +4,7 @@
 
 page-title = Inkcazelo yesisombululi-ngxaki
 page-subtitle = Eli phepha liqulethe inkcazelo yobuchwepheshe enokuba luncedo xa uzama ukusombulula ingxaki. Ukuba ufuna iimpendulo kwimibuzo eqhelekileyo ye-{ -brand-short-name }, khangela kwisayithi yethu <a data-l10n-name="support-link">support website</a>.
+
 crashes-title = Iingxelo zomonakalo
 crashes-id = Isazisi sengxelo
 crashes-send-date = Ithunyelwe
@@ -65,8 +66,6 @@ graphics-workarounds-title = Ukusebenza
 place-database-title = Ibeka Oovimba
 place-database-integrity = Intembeko
 place-database-verify-integrity = Qinisekisa Intembeko
-js-title = I-JavaScript
-js-incremental-gc = I-GC eyandayo
 a11y-title = Ufikeleleko
 a11y-activated = Ihlaziyiwe
 a11y-force-disabled = Thintela ufikelelo
@@ -103,6 +102,7 @@ report-crash-for-days =
         [one] Iingxelo zokonakala kolu Suku { $days } lugqithileyo
        *[other] iNgxelo zokonakala kwezu Ntsuku zi{ $days } zigqithileyo
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -110,6 +110,7 @@ crashes-time-minutes =
         [one] umzuzu om-{ $minutes } ogqithileyo
        *[other] imizuzu e-{ $minutes } egqithileyo
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -117,6 +118,7 @@ crashes-time-hours =
         [one] iyure e{ $hours } egqithileyo
        *[other] iiyure ezi{ $hours } ezigqithileyo
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -124,6 +126,7 @@ crashes-time-days =
         [one] usuku olu{ $days } olugqithileyo
        *[other] iintsuku ezi{ $days } ezigqithileyo
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -131,6 +134,7 @@ pending-reports =
         [one] Zonke iiNgxelo zoKonakala (kuquka ukonakala oku{ $reports } okusaseleyo kweli xesha)
        *[other] Zonke iiNgxelo zoKonakala (kuquka ukonakala oku{ $reports } okusaseleyo kweli xesha)
     }
+
 raw-data-copied = Iingcombolo ezingahlelwanga zikhutshelwe kwiklipbhodi
 text-copied = Umbhalo ukhutshelwe kwiklipbhodi
 
@@ -143,9 +147,11 @@ blocked-mismatched-version = Ithintelwe kwinguqulelo yedrayiva yeegrafikhi zakho
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ithintelwe kwinguqulelo yedrayiva yeegrafikhi zakho. Zama ukuhlaziya idrayiva yeegrafikhi zakho kwinguqulelo { $driverVersion } okanye.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Iiparamitha zefonti ecacileyo
+
 compositing = Ukuyila
 hardware-h264 = Ihadwe H264 Isusa Ikhowudi
 main-thread-no-omtc = Ithredi eyintloko, akukho OMTC
@@ -166,21 +172,26 @@ gpu-driver-version = Inguqulelo yedrayiva
 gpu-driver-date = Umhla wedrayiva
 gpu-active = Esebenzayo
 blocklisted-bug = Ibhlokiwe ngenxa yemiba eyaziwayo
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ibhagi { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ibhlokiwe, ikhowudi yokusilela { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Umyili
 d3d11video-crash-guard = I-D3D11 Video Decoder
-d3d9video-crash-buard = I-D3D9 Video Decoder
 d3d9video-crash-guard = I-D3D9 Video Decoder
 glcontext-crash-guard = I-OpenGL
+
 reset-on-next-restart = Seta kwakhona Xa Uphinda Uqala
 gpu-process-kill-button = Yekisa iNkqubo yeGPU
+
 min-lib-versions = Inguqulelo encinane elindelekileyo
 loaded-lib-versions = Inguqulelo esetyenziswayo
+
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Ungqamaniso lwe-Seccomp Thread
 has-user-namespaces = Izithuba zamaGama oMsebenzisi
@@ -188,6 +199,7 @@ has-privileged-user-namespaces = Izithuba zamaGama oMsebenzisi ngeenkqubo ezisel
 can-sandbox-content = Inkqubo yesiqulatho yebhokisi yesanti
 can-sandbox-media = Ukhuseleko olwahlula iinkqubo ezinesoftwe eyongeza ifitsha ethile yemidiya
 content-sandbox-level = Umlinganiselo weNkqubo yeSiqulatho yeBhokisi yeSanti
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -200,6 +212,7 @@ multi-process-status-6 = Iyekiswe lufakelo lweteksti engaxhaswayo
 multi-process-status-7 = Iyekiswe zizongezelelo
 multi-process-status-8 = Iyekiswe ngenkani
 multi-process-status-unknown = Imo engaziwayo
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = nakanye
 wheel-enabled = ufakelo lwevili lwenziwe alwasebenza

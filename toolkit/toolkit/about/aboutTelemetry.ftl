@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Uvimba ingcombolo ye-Ping:
-about-telemetry-show-current-ping-data = Inkcukacha ye-ping yakutsha nje
 about-telemetry-show-archived-ping-data = Inkcukacha ye-ping elondoloziweyo
 about-telemetry-show-subsession-data = Bonisa iseshini yenkcukacha
 about-telemetry-choose-ping = Khetha i-ping:
