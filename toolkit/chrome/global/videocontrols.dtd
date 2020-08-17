@@ -11,31 +11,12 @@
 <!ENTITY castingButton.castingLabel "Tresmitir a pantalla">
 <!ENTITY closedCaption.off "NON">
 
-<!ENTITY stats.size "Tamañu">
-<!ENTITY stats.activity "Actividá">
-<!ENTITY stats.activityPaused "Posóse">
-<!ENTITY stats.activityPlaying "En reproducción">
-<!ENTITY stats.activityEnded "Finó">
-<!ENTITY stats.activitySeeking "(guetando)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.framesParsed "Marcos analizaos">
-<!ENTITY stats.framesDecoded "Marcos descodificaos">
-<!ENTITY stats.framesPresented "Marcos presentaos">
-<!ENTITY stats.framesPainted "Marcos pintaos">
-
 <!ENTITY error.aborted "Paróse la carga del videu.">
 <!ENTITY error.network "Albortóse la reproducción de videu pola mor d'un fallu de rede.">
 <!ENTITY error.decode "Nun pue reproducise'l videu porque'l ficheru ta toyíu.">
 <!ENTITY error.srcNotSupported "Nun se sofita'l formatu'l videu o la triba MIME.">
 <!ENTITY error.noSource2 "Nun s'alcontró dengún videu col formatu y triba MIME sofitaos.">
 <!ENTITY error.generic "Albortóse la reproducción de videu pola mor d'un fallu desconocíu.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 de #2 trescurrío">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

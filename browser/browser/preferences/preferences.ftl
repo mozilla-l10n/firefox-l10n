@@ -9,13 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Siempres
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Opciones
-           *[other] Preferencies
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Opciones
@@ -418,16 +411,6 @@ update-application-use-service =
     .label = Usar serviciu en segundu planu pa instalar los anovamientos
     .accesskey = v
 
-update-enable-search-update =
-    .label = Anovar automáticamente los guetadores
-    .accesskey = A
-
-update-pref-write-failure-title = Fallu d'escritura
-
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Nun pue guardase la preferencia. Nun pudo escribise al ficheru: { $path }
-
 update-in-progress-title = Anovamientu en cursu
 
 update-in-progress-message = ¿Quies que { -brand-short-name } siga con esti anovamientu?
@@ -597,7 +580,6 @@ search-bar-shown =
     .label = Amestar barra de gueta na barra de ferramientes
 
 search-engine-default-header = Guetador por defeutu
-search-engine-default-desc = Escoyer el motor de gueta predetermináu a usar na barra de direiciones y na barra de gueta.
 
 search-suggestions-option =
     .label = Apurrir suxerencies de gueta
@@ -646,8 +628,6 @@ search-keyword-warning-bookmark = Esbillesti una pallabra clave qu'anguaño s'us
 
 ## Containers Section
 
-containers-back-link = « Dir atrás
-
 containers-header = Llingüetes contenedor
 containers-add-button =
     .label = Amestar contenedor nuevu
@@ -667,14 +647,6 @@ containers-remove-button =
 sync-signedout-caption = Lleva la web contigo
 sync-signedout-description = Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.
 
-sync-signedout-account-title = Coneutar con una { -fxaccount-brand-name }
-sync-signedout-account-create = ¿Nun tienes una cuenta? Entama agora
-    .accesskey = N
-
-sync-signedout-account-signin =
-    .label = Anicia sesión…
-    .accesskey = A
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -693,10 +665,6 @@ sync-mobile-promo = Baxa Firefox pa <img data-l10n-name="android-icon"/> <a data
 sync-profile-picture =
     .tooltiptext = Camudar semeya de perfil
 
-sync-disconnect =
-    .label = Desconeutar…
-    .accesskey = D
-
 sync-manage-account = Xestionar cuenta
     .accesskey = o
 
@@ -714,9 +682,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Aniciar sesión
     .accesskey = g
-
-sync-signedin-settings-header = Axustes de Sync
-sync-signedin-settings-desc = Escueyi qué sincronizar nos preseos usando { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -738,11 +703,6 @@ sync-engine-tabs =
     .label = Llingüetes abiertes
     .tooltiptext = Una llista de lo que ta abierto en tolos preseos sincronizaos
     .accesskey = L
-
-sync-engine-logins =
-    .label = Anicios de sesión
-    .tooltiptext = Nomes d'usuariu y contraseñes que guardasti
-    .accesskey = A
 
 sync-engine-addresses =
     .label = Direiciones
@@ -784,18 +744,12 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = v
 
-sync-tos-link = Términos del serviciu
-
-sync-fxa-privacy-notice = Avisu de privacidá
-
 ## Privacy Section
 
 privacy-header = Privacidá del restolador
 
 ## Privacy Section - Forms
 
-
-logins-header = Usuarios y contraseñes
 
 ## Privacy Section - Logins and Passwords
 
@@ -821,6 +775,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = Nesti intre tas en mou FIPS. FIPS requier una contraseña maestra non erma.
+
 forms-master-pw-fips-desc = Fallu al camudar la contraseña
 
 ## OS Authentication dialog
@@ -906,9 +861,6 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Tipu bloquiáu
     .accesskey = T
 
-sitedata-option-block-trackers =
-    .label = Rastrexadores de terceros
-
 sitedata-option-block-unvisited =
     .label = Cookies de sitios web non andaos
 sitedata-option-block-all-third-party =
@@ -947,8 +899,6 @@ addressbar-locbar-openpage-option =
 addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los motores de gueta
 
 ## Privacy Section - Content Blocking
-
-content-blocking-header = Bloquéu de conteníu
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -991,10 +941,6 @@ permissions-notification-settings =
     .label = Axustes…
     .accesskey = t
 permissions-notification-link = Deprendi más
-
-permissions-block-autoplay-media-exceptions =
-    .label = Esceiciones...
-    .accesskey = E
 
 permissions-autoplay = Reproducción automática
 
@@ -1085,6 +1031,8 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = Val, píllolo
     .accesskey = a
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = Mover a ventana nueva
     .accesskey = V
-undo-close-tab =
-    .label = Desfacer zarru de llingüeta
-    .accesskey = D
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Zarrar llingüeta
     .accesskey = Z

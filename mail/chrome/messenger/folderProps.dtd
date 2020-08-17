@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Triba de carpeta:">
 
 <!ENTITY folderQuotaTab.label                    "Cuota">
-<!ENTITY folderQuotaRoot.label                   "Cuota raíz:">
 <!ENTITY folderQuotaUsage.label                  "Usu:">
 <!ENTITY folderQuotaStatus.label                 "Estáu:">
 

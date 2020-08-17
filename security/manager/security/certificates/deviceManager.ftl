@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Númberu de serie
 
 fips-nonempty-password-required = El mou FIPS rique que tengas una contraseña maestra afitada pa cada preséu de seguranza. Afita una contraseña enantes d'activar el mou FIPS, por favor.
+
 unable-to-toggle-fips = Nun pue camudase'l mou FIPS pal preséu de seguranza. Aconséyase que coles y reanicies esta aplicación.
 load-pk11-module-file-picker-title = Escueyi un preséu PKCS#11 pa cargar
 

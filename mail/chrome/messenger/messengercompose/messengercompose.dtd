@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Refacer">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Apegar">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "x">
@@ -85,9 +79,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Renomar axuntu…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "Esbillar too">
 <!ENTITY selectAllCmd.accesskey "t">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Guetar…">
 <!ENTITY findBarCmd.accesskey "B">
 <!ENTITY findBarCmd.key "F">
@@ -221,22 +213,8 @@
 <!ENTITY printButton.tooltip "Imprentar esti mensaxe">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">
-<!ENTITY toAddr.label "Pa:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Cct:">
-<!ENTITY replyAddr.label "Responder a:">
-<!ENTITY newsgroupsAddr.label "Grupu de noticies:">
-<!ENTITY followupAddr.label "Followup-To:">
-<!ENTITY subject.label "Asuntu:">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "x">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Inxertar un fustaxe">

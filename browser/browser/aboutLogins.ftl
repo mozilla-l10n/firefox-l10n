@@ -45,6 +45,8 @@ login-item-cancel-button = Encaboxar
 ## Master Password notification
 
 
+## Primary Password notification
+
 ## Password Sync notification
 
 ## Dialogs
@@ -68,4 +70,6 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

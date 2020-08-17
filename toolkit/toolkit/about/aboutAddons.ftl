@@ -7,9 +7,6 @@ addons-window =
 
 addons-page-title = Xestor de complementos
 
-loading-label =
-    .value = Cargando…
-
 list-empty-installed =
     .value = Nun tienes instaláu dengún complementu d'esta triba
 
@@ -25,22 +22,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = Deprendi más tocante a los complementos
 
-install-addon-from-file =
-    .label = Instalar complementu dende ficheru…
-    .accesskey = I
-
-tools-menu =
-    .tooltiptext = Ferramientes pa tolos complementos
-
 show-unsigned-extensions-button =
     .label = Nun pudieron verificase delles estensiones
 
 show-all-extensions-button =
     .label = Amosar toles estensiones
-
-debug-addons =
-    .label = Depurar complementos
-    .accesskey = D
 
 cmd-show-details =
     .label = Amosar más información
@@ -78,17 +64,6 @@ cmd-contribute =
     .label = Collaborar
     .accesskey = C
     .tooltiptext = Collaborar col desendolcu d'esti complementu
-
-discover-title = ¿Qué son los complementos?
-
-discover-description =
-    Los complementos son aplicaciones que te permiten personalizar
-    { -brand-short-name } con funcionalidaes o estilos adicionales. Prueba un panel llateral que fai qu'aforres tiempu,
-    un indicador meteorolóxicu o un aspeutu pa facer { -brand-short-name } de to.
-
-discover-footer =
-    Cuando teas coneutáu a Internet, esti panel va destacar
-    dalgunos de los meyores y más populares complementos pa que los pruebes.
 
 detail-version =
     .label = Versión
@@ -171,18 +146,6 @@ legacy-extensions =
 
 legacy-extensions-description = Estes estensiones nun cumplen colos estándares actuales de { -brand-short-name } polo que tán desactivaes. <label data-l10n-name="legacy-learn-more">Deprendi tocante al cambéu nos complementos</label>
 
-extensions-view-discopane =
-    .name = Aconséyase
-    .tooltiptext = { extensions-view-discopane.name }
-
-extensions-view-recent-updates =
-    .name = Anovamientos recientes
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Anovamientos disponibles
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Aconséyase
 addon-category-discover-title =
     .title = Aconséyase
@@ -210,29 +173,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = El mou seguru desactivó tolos complementos.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = La comprobación de compatibilidá de complementos ta desactivada. Pue que tengas complementos incompatibles.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Activar
-    .tooltiptext = Activar comprobación de compatibilidá de complementos
-
-extensions-warning-update-security-label =
-    .value = La comprobación de seguranza de complementos ta desactivada. Los anovamientos podríen ser un riesgu.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Activar
-    .tooltiptext = Activar comprobación de seguranza de complementos
-
 extensions-warning-safe-mode = El mou seguru desactivó tolos complementos.
 extensions-warning-check-compatibility = La comprobación de compatibilidá de complementos ta desactivada. Pue que tengas complementos incompatibles.
 extensions-warning-check-compatibility-button = Activar
@@ -244,14 +184,6 @@ extensions-warning-update-security-button = Activar
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Comprobar anovamientos
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = Ver anovamientos recientes
-    .accesskey = V
-
 addon-updates-check-for-updates = Comprobar anovamientos
     .accesskey = C
 addon-updates-view-updates = Ver anovamientos recientes
@@ -259,10 +191,6 @@ addon-updates-view-updates = Ver anovamientos recientes
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Anovar complementos automáticamente
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Anovar complementos automáticamente
     .accesskey = A
@@ -273,36 +201,12 @@ addon-updates-update-addons-automatically = Anovar complementos automáticamente
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Reafitar tolos complementos p'anovalos automáticamente
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = Reafitar tolos complementos p'anovalos a mano
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = Reafitar tolos complementos p'anovalos automáticamente
     .accesskey = R
 addon-updates-reset-updates-to-manual = Reafitar tolos complementos p'anovalos a mano
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Anovando complementos
-extensions-updates-installed =
-    .value = Anováronse los complementos.
-extensions-updates-downloaded =
-    .value = Baxáronse los anovamientos de los complementos.
-extensions-updates-restart =
-    .label = Reaniciar agora pa completar la instalación
-extensions-updates-none-found =
-    .value = Nun s'alcontraron anovamientos
-extensions-updates-manual-updates-found =
-    .label = Ver anovamientos disponibles
-extensions-updates-update-selected =
-    .label = Instalar anovamientos
-    .tooltiptext = Instalar los anovamientos disponibles nesti llistáu
 
 addon-updates-updating = Anovando complementos
 addon-updates-installed = Anováronse los complementos.
@@ -325,8 +229,6 @@ addon-open-about-debugging = Depurar complementos
 
 
 ## Add-on actions
-
-addons-enabled-heading = Activóse
 
 extension-enabled-heading = Activóse
 

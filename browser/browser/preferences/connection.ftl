@@ -35,12 +35,6 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Puertu
     .accesskey = P
-connection-proxy-http-share =
-    .label = Usar el mesmu proxy pa too
-    .accesskey = x
-
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Puertu
     .accesskey = u

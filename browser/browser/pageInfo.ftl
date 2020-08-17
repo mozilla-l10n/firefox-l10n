@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Guardar como…
     .accesskey = e
-media-preview =
-    .value = Previsualización de medios:
 
 perm-tab =
     .label = Permisos
@@ -120,7 +118,6 @@ help-button =
 security-site-data-no = Non
 
 image-size-unknown = Desconocíu
-not-set-verified-by = Nun s'especificó
 page-info-not-specified =
     .value = Nun s'especificó
 not-set-alternative-text = Nun s'especificó
@@ -145,7 +142,6 @@ general-quirks-mode =
     .value = Mou de compatibilidá
 general-strict-mode =
     .value = Mou compatible colos estándares
-security-no-owner = Esti sitiu web nun apurre información tocante al so propietariu.
 page-info-security-no-owner =
     .value = Esti sitiu web nun apurre información tocante al so propietariu.
 media-select-folder = Esbilla una carpeta pa guardar les imáxenes

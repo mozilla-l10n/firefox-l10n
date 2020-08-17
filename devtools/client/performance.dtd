@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "El nome y allugamientu fonte de la función que se tomó.">
 <!ENTITY performanceUI.table.totalAlloc               "Allugamientos totales d'amueses">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Númberu total d'allugamientos d'oxetos recoyíos n'amuesa nesti allugamientu y nes llamaes.">
-<!ENTITY performanceUI.table.selfAlloc                "Allugamientos individuales recoyíos n'amuesa">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "El númberu d'allugamientos d'oxetos recoyíos n'amuesa nesti allugamientu.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

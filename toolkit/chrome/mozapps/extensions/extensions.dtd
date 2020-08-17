@@ -6,73 +6,8 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 
 
-<!ENTITY cmd.enableAddon.label                "Activar">
-<!ENTITY cmd.enableAddon.accesskey            "v">
-<!ENTITY cmd.disableAddon.label               "Desactivar">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "Entrugar p'activar">
-<!ENTITY cmd.askToActivate.tooltip            "Entrugar cada vegada pa usar esti complementu">
-<!ENTITY cmd.alwaysActivate.label             "Activar siempres">
-<!ENTITY cmd.alwaysActivate.tooltip           "Usar siempres esti complementu">
-<!ENTITY cmd.neverActivate.label              "Enxamás activar">
-<!ENTITY cmd.neverActivate.tooltip            "Enxamás usar esti complementu">
-<!ENTITY cmd.stateMenu.tooltip                "Camudar al executar esti complementu">
-
-<!ENTITY cmd.uninstallAddon.label             "Desaniciar">
-<!ENTITY cmd.uninstallAddon.accesskey         "D">
-<!ENTITY cmd.showPreferencesWin.label         "Opciones">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Camudar les opciones d'esti complementu">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferencies">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Camudar les preferencies d'esti complementu">
-
-<!ENTITY cmd.showReleaseNotes.label           "Amosar notes de llanzamientu">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Amosar les notes de llanzamientu d'esti anovamientu">
-<!ENTITY cmd.hideReleaseNotes.label           "Anubrir notes de llanzamientu">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Anubrir les notes de llanzamientu d'esti anovamientu">
-<!ENTITY cmd.findReplacement.label            "Alcontrar un troquéu">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Encaboxar">
-
-
-<!ENTITY addon.details.label                  "Más">
-<!ENTITY addon.details.tooltip                "Amosar más detalles tocante a esti complementu">
-<!ENTITY addon.unknownDate                    "Desconozse">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "HEREDÓSE">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(desactivóse)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Anovar">
-<!ENTITY addon.undoAction.label               "Desfacer">
-<!ENTITY addon.undoAction.tooltip             "Desfacer esta aición">
-<!ENTITY addon.undoRemove.label               "Desfacer">
-<!ENTITY addon.undoRemove.tooltip             "Caltener esti complementu instaláu">
-
-<!ENTITY addon.install.label                  "Instalar">
-<!ENTITY addon.install.tooltip                "Instalar esti complementu">
-<!ENTITY addon.updateNow.label                "Anovar agora">
-<!ENTITY addon.updateNow.tooltip              "Instalar l'anovamientu d'esti complementu">
-<!ENTITY addon.includeUpdate.label            "Incluyir nel anovamientu">
-<!ENTITY addon.updateAvailable.label          "Hai un anovamientu disponible">
-<!ENTITY addon.checkingForUpdates.label       "Comprobando anovamientos…">
-<!ENTITY addon.releaseNotes.label             "Notes de llanzamientu:">
-<!ENTITY addon.loadingReleaseNotes.label      "Cargando…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Perdona pero hebo un fallu cargando les notes de llanzamientu.">
-
-<!ENTITY addon.createdBy.label                "Por ">
-
-<!ENTITY settings.path.button.label           "Desaminar…">
 
 <!ENTITY setting.learnmore "Deprendi más…">
 

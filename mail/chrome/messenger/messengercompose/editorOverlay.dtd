@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Apegar ensin formatu">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Apegar como">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Apegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Guetar…">
-<!ENTITY findReplaceCmd.label "Guetar y trocar…">
-<!ENTITY enableInlineSpellChecker.label "Revisar ortografía según escribes">
-<!ENTITY enableInlineSpellChecker.accesskey "R">
-<!ENTITY checkSpellingCmd2.label "Revisar ortografía">
-<!ENTITY checkSpellingCmd2.accesskey "o">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inxertar">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Cuerpu del testu">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Propiedaes avanzaes">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Alliniar">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Xustificar">
 <!ENTITY alignJustify.accesskey "X">
 <!ENTITY alignJustify.tooltip "Xustificar">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Capa">
-<!ENTITY layerSendToBack.tooltip "Unviar al fondu">
-<!ENTITY layerBringToFront.tooltip "Traer al frente">
 
 <!ENTITY increaseIndent.label "Incrementar sangráu">
 <!ENTITY increaseIndent.accesskey "I">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Propiedaes de la tabla…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Barra de menú">
-<!ENTITY formatToolbar.tooltip "Barra de ferramientes de formatu">
-<!ENTITY cutToolbarCmd.tooltip "Cortar">
-<!ENTITY copyToolbarCmd.tooltip "Copiar">
-<!ENTITY pasteToolbarCmd.tooltip "Apegar">
-<!ENTITY printToolbarCmd.label "Imprentar">
-<!ENTITY printToolbarCmd.tooltip "Imprentar esta páxina">
-<!ENTITY findToolbarCmd.label "Guetar">
-<!ENTITY findToolbarCmd.tooltip "Guetar testu en la páxina">
-<!ENTITY spellToolbarCmd.label "Ortografía">
-<!ENTITY spellToolbarCmd.tooltip "Revisar ortografía de la seleición o de la páxina entera">
-
 <!ENTITY imageToolbarCmd.label "Imaxe">
 <!ENTITY imageToolbarCmd.tooltip "Inxerta una nueva imaxe o edita les propiedaes de la imaxe esbillada">
 <!ENTITY hruleToolbarCmd.label "Llinia horiz.">
@@ -307,7 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inxerta un nuevu enllaz con nome o modifica les propiedaes del enllaz con nome esbilláu">
 <!ENTITY TextColorButton.tooltip "Escueyi un color pal testu">
 <!ENTITY BackgroundColorButton.tooltip "Escueyi un color pal fondu">
-<!ENTITY HighlightColorButton.tooltip "Escueyi color pa rescamplar testu">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Afitar tamañu de fonte">
@@ -326,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Alliniar testu centráu">
 <!ENTITY alignRightButton.tooltip "Alliniar testu a lo llargo del marxe derechu">
 <!ENTITY alignJustifyButton.tooltip "Alliniar testu a los márxenes izquierdu y derechu">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Seleicionar">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "Desaniciar etiqueta">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "Cambiar etiqueta">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inxertar">

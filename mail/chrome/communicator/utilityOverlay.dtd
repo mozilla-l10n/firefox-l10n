@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desfacer">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "f">
 <!ENTITY redoCmd.label "Refacer">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Apegar">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "A">
 <!ENTITY deleteCmd.label "Desaniciar">
 <!ENTITY deleteCmd.accesskey "n">
-<!ENTITY selectAllCmd.label "Esbillar too">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY preferencesCmd2.label "Opciones">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencies">

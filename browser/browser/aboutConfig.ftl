@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-config-warning-text = Camudar estos axustes avanzaos puen fadiar la estabilidá, seguranza y el rindimientu d'esta aplicación. Namái deberíes siguir si tas seguru de lo que tas faciendo.
-about-config-warning-button = Aceuto'l riesgu
-
-about-config2-title = Configuraciones avanzaes
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 ##
