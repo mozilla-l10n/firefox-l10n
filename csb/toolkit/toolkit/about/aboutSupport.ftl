@@ -7,6 +7,7 @@ page-subtitle =
     Na strona zamikô w se techniczną  wëdowiédzô, chtërna mòże sã przëdac czej chcesz
     rozwiązac problemë. Żlë szëkôcz òdpowiescë dlô tipicznëch pëtaniów
     ò { -brand-short-name }. Sprôwdzë naszą <a data-l10n-name="support-link"> stronë wspiarcô</a>.
+
 extensions-title = Roszerzenia
 extensions-name = Miono
 extensions-enabled = Włączoné
@@ -35,8 +36,6 @@ modified-prefs-value = Wôrtnota
 user-js-title = user.js Ùstawë
 user-js-description = Katalog profilu zamikô w se <a data-l10n-name="user-js-link">user.js lopk</a>, z ùstawama chtërné nie pòchòdzą òd { -brand-short-name }.
 graphics-title = Grafika
-js-title = JavaScript
-js-incremental-gc = Pòstãpowi GC
 a11y-title = Wspiarcé dlô przistãpu
 a11y-activated = Aktiwny
 a11y-force-disabled = Ògraniczony przistãp
@@ -73,6 +72,7 @@ blocked-os-version = Niedostãpny dlô wersji Twòjégò systemù.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Niedostãpny dlô wersji Twòji kartë graficzny. Spróbùje zaktualnic do wersji { $driverVersion } abò nowszi.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametrë ClearType
@@ -83,6 +83,7 @@ clear-type-parameters = Parametrë ClearType
 
 min-lib-versions = Brëkùje minimaliny wersji
 loaded-lib-versions = Wersjô w ùżëcym
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

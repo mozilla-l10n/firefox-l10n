@@ -102,6 +102,7 @@ devinfo-serialnum =
     .label = Numer seriowi
 
 fips-nonempty-password-required = Trib FIPS wëmôgô przédny parolë dlô kòżdégò ùrządzeniô bezpiekù. Proszã ùsadzë parolã przed włączenim tribù FIPS.
+
 unable-to-toggle-fips = Nie jidze zmienic tribù FIPS ùrządzeniô bezpiekù. Zamòdlëwô sã zamkniącé i zrëszënié aplikacje znowa.
 
 add-module-failure = Ni mòże dodac mòdułu

@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = Przeniesë do nowégò òkna
     .accesskey = o
-undo-close-tab =
-    .label = Doprowadzë zamkłą kôrtã nazôd
-    .accesskey = ô
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Zamkni kôrtã
     .accesskey = a

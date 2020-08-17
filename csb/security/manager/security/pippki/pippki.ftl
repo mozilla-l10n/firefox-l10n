@@ -21,6 +21,9 @@ change-password-reenter = Nowô parola (jesz rôz):
 reset-password-window =
     .title = Resetëje przédną parolã
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Doprowadzë nazôd
 reset-password-text = Jeżlë zrecetëjesz przédną parolã, wszëtczé Internetowé i e-mailowé parolë, pòdôwczi z fòrmów, priwatné cetifikatë i priwatné klucze bãdą rëmniąté. Jes gwës że chcesz zrecetowac przédną parolã?
