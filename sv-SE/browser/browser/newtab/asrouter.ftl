@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Prova detta: Fäst flik
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Varför ser jag detta
+
 cfr-doorhanger-extension-cancel-button = Inte nu
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Lägg till nu
     .accesskey = L
 cfr-doorhanger-pintab-ok-button = Fäst denna flik
     .accesskey = F
+
 cfr-doorhanger-extension-manage-settings-button = Hantera rekommendationsinställningar
     .accesskey = H
+
 cfr-doorhanger-extension-never-show-recommendation = Visa mig inte denna rekommendation
     .accesskey = V
+
 cfr-doorhanger-extension-learn-more-link = Läs mer
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = av { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekommendation
 cfr-doorhanger-extension-notification2 = Rekommendation
     .tooltiptext = Rekommendation av tillägg
     .a11y-announcement = Rekommendation av tillägg tillgänglig
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekommendation
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } användare
        *[other] { $total } användare
     }
+
 cfr-doorhanger-pintab-description = Få enkel åtkomst till dina mest använda webbplatser. Behåll webbplatser öppna i en flik (även när du startar om).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Få enkel åtkomst till dina mest använda w
 cfr-doorhanger-pintab-step1 = <b>Högerklicka</b> på en av flikarna du vill fästa.
 cfr-doorhanger-pintab-step2 = Välj <b>Fäst flik</b> från menyn.
 cfr-doorhanger-pintab-step3 = Om webbplatsen har en uppdatering ser du en blå punkt på din fästa flik.
+
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Återuppta
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Läs mer
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
+
 cfr-whatsnew-button =
     .label = Vad är nytt
     .tooltiptext = Vad är nytt
+
 cfr-whatsnew-panel-header = Vad är nytt
+
 cfr-whatsnew-release-notes-link-text = Läs versionsfakta
+
 cfr-whatsnew-fx70-title = { -brand-short-name } kämpar ännu mer för din integritet
 cfr-whatsnew-fx70-body =
     Den senaste uppdateringen förbättrar funktionen Spårningsskydd och gör det
     lättare än någonsin att skapa säkra lösenord för varje webbplats.
+
 cfr-whatsnew-tracking-protect-title = Skydda dig från spårare
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blockerar många vanliga sociala och globala spårare som
     följer vad du gör online.
 cfr-whatsnew-tracking-protect-link-text = Visa din rapport
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Sedan { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Visa rapport
+
 cfr-whatsnew-lockwise-backup-title = Säkerhetskopiera dina lösenord
 cfr-whatsnew-lockwise-backup-body = Generera nu säkra lösenord som du kan komma åt var du än loggar in.
 cfr-whatsnew-lockwise-backup-link-text = Slå på säkerhetskopior
+
 cfr-whatsnew-lockwise-take-title = Ta dina lösenord med dig
 cfr-whatsnew-lockwise-take-body =
     Mobilappen { -lockwise-brand-short-name } låter dig säkert komma åt din
@@ -151,6 +170,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Fingeravtrycksspårare blockerade
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blockerar många fingeravtrycksspårare som i hemlighet samlar in information om din enhet och åtgärder för att skapa en reklamprofil av dig.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingeravtrycksspårare
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blockera många fingeravtrycksspårare som i hemlighet samlar in information om din enhet och åtgärder för att skapa en reklamprofil av dig.
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Visa alla
     .accesskey = V
+
 cfr-doorhanger-milestone-close-button = Stäng
     .accesskey = S
 

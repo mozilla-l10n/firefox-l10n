@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Klistra in utan formatering">
 <!ENTITY pasteNoFormatting.accesskey "u">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Klistra in som">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Klistra in som citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Sök…">
-<!ENTITY findReplaceCmd.label "Sök och ersätt…">
-<!ENTITY enableInlineSpellChecker.label "Stavningskontrollera medan du skriver">
-<!ENTITY enableInlineSpellChecker.accesskey "v">
-<!ENTITY checkSpellingCmd2.label "Stavningskontroll…">
-<!ENTITY checkSpellingCmd2.accesskey "a">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Infoga">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Brödtext">
 <!ENTITY bodyTextCmd.accesskey "x">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Avancerade egenskaper">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Kantställ">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Justerad">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Utsluten sats">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Absolut positionering">
-<!ENTITY layerSendToBack.tooltip "Placera bakom">
-<!ENTITY layerBringToFront.tooltip "Placera framför">
 
 <!ENTITY increaseIndent.label "Öka indrag">
 <!ENTITY increaseIndent.accesskey "i">
@@ -283,19 +262,6 @@
 <!ENTITY tableProperties.accesskey "E">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menyrad">
-<!ENTITY formatToolbar.tooltip "Formateringsverktyg">
-<!ENTITY cutToolbarCmd.tooltip "Klipp ut">
-<!ENTITY copyToolbarCmd.tooltip "Kopiera">
-<!ENTITY pasteToolbarCmd.tooltip "Klistra in">
-<!ENTITY printToolbarCmd.label "Skriv ut">
-<!ENTITY printToolbarCmd.tooltip "Skriv ut den här sidan">
-<!ENTITY findToolbarCmd.label "Sök">
-<!ENTITY findToolbarCmd.tooltip "Sök text på sidan">
-<!ENTITY spellToolbarCmd.label "Stavning">
-<!ENTITY spellToolbarCmd.tooltip "Kontrollera stavningen i markering eller på hela sidan">
-
-<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Bild">
 <!ENTITY imageToolbarCmd.tooltip "Infoga ny bild eller ändra egenskaperna för markerad bild">
 <!ENTITY hruleToolbarCmd.label "V. linje">
@@ -308,8 +274,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Infoga ett nytt namngivet ankare eller ändra egenskaperna för markerat ankare">
 <!ENTITY TextColorButton.tooltip "Välj färg för texten">
 <!ENTITY BackgroundColorButton.tooltip "Välj färg för bakgrunden">
-<!ENTITY throbber.tooltip2 "Gå till &brandShortName; hemsida">
-<!ENTITY HighlightColorButton.tooltip "Välj markeringsfärg för text">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ange teckenstorlek">
@@ -328,14 +292,6 @@
 <!ENTITY alignCenterButton.tooltip "Centrera texten">
 <!ENTITY alignRightButton.tooltip "Högerställ texten">
 <!ENTITY alignJustifyButton.tooltip "Justera (slå ut) texten">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Markera">
-<!ENTITY structSelect.accesskey     "M">
-<!ENTITY structRemoveTag.label      "Ta bort tagg">
-<!ENTITY structRemoveTag.accesskey  "T">
-<!ENTITY structChangeTag.label      "Ändra tagg">
-<!ENTITY structChangeTag.accesskey  "n">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Infoga">

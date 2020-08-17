@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Synkade Flikar
 synced-tabs-sidebar-noclients-subtitle = Vill du se dina flikar från andra enheter här?
-synced-tabs-sidebar-notsignedin = Logga in för att se en lista med flikar från dina andra enheter.
 synced-tabs-sidebar-intro = Se en lista med flikar från dina andra enheter.
 synced-tabs-sidebar-unverified = Ditt konto behöver verifieras.
 synced-tabs-sidebar-notabs = Inga öppna flikar

@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Säkerhet">
-<!ENTITY securityTab.label "Säkerhet">
-<!ENTITY securityHeading.label "För att kunna skicka och ta emot signerade eller krypterade meddelanden bör du ange både ett signeringscertifikat och ett krypteringscertifikat.">
-<!ENTITY encryptionGroupTitle.label "Kryptering">
-<!ENTITY encryptionChoiceLabel.label "Standardinställning för utgående meddelanden:">
-<!ENTITY neverEncrypt.label "Kryptera aldrig">
-<!ENTITY neverEncrypt.accesskey "d">
-<!ENTITY alwaysEncryptMessage.label "Kryptera alltid (Alla mottagare måste då ha varsitt certifikat)">
-<!ENTITY alwaysEncryptMessage.accesskey "K">
-<!ENTITY encryptionCert.message "Använd följande personliga certifikat:">
-
 <!ENTITY e2eTitle.label "End-to-end kryptering">
 <!ENTITY e2eLearnMore.label "Läs mer">
 
@@ -36,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Rensa">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digital signering">
-<!ENTITY signMessage.label "Signera alla meddelanden">
 <!ENTITY signMessage2.label "Lägg till min digitala signatur som standard">
 <!ENTITY signMessage.accesskey "m">
-<!ENTITY signingCert.message "Använd följande personliga certifikat:">
-
-<!ENTITY certificates.label "Certifikat">
-<!ENTITY manageCerts2.label "Hantera certifikat">
-<!ENTITY manageCerts2.accesskey "H">
-<!ENTITY manageDevices.label "Säkerhetsenheter">
-<!ENTITY manageDevices.accesskey "S">
 
 <!ENTITY signingCert2.message "Personligt certifikat för digital signering:">
 

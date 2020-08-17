@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Välj alla flikar
     .accesskey = V
-toolbar-context-menu-undo-close-tab =
-    .label = Ångra flikstängning
-    .accesskey = g
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->

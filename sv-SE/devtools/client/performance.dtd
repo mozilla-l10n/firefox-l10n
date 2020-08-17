@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Namnet och källplatsen på den samplade funktionen.">
 <!ENTITY performanceUI.table.totalAlloc               "Totalt samplade allokeringar">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Det totala antalet av objekt-allokeringar samplade på denna plats och i anropade.">
-<!ENTITY performanceUI.table.selfAlloc                "Själv-samplade allokeringar">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Antalet av objekt-allokeringar samplade på denna plats.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

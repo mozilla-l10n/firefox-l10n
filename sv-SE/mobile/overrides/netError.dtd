@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Det efterfrågade dokumentet finns inte längre i &brandShortName; cache.</p><ul><li>Av säkerhetsskäl försöker inte &brandShortName; automatiskt att ladda om känsliga dokument.</li><li>Klicka på Försök igen för att ladda om dokumentet från webbplatsen.</li></ul>">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Försök igen.&brandShortName; kommer att försöka öppna en anslutning och ladda om sidan. <button id='wifi'>Slå på Wi-Fi</button></li></ul>">
 
 <!ENTITY contentEncodingError.title "Kodningsfel av innehållet">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakta webbplatsens ägare och informera dem om detta problem.</li> </ul>">

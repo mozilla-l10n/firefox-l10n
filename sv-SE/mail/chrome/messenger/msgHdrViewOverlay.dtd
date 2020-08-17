@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkivera">
 <!ENTITY hdrArchiveButton1.tooltip "Arkivera meddelandet">
-<!ENTITY hdrOpenConversationButton1.label "Konversation">
-<!ENTITY hdrOpenConversationButton1.tooltip "Visa konversation för detta meddelande">
 <!ENTITY hdrSmartReplyButton1.label "Svara smart">
 <!ENTITY hdrReplyButton1.label "Svara">
 <!ENTITY hdrReplyButton2.tooltip "Svara avsändare av meddelandet">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Svara till e-postlistan">
 <!ENTITY hdrFollowupButton1.label "Uppföljning">
 <!ENTITY hdrFollowupButton1.tooltip "Skicka en uppföljning till nyhetsgruppen">
-<!ENTITY hdrMenuForwardButton.label "Vidarbefordra som">
 <!ENTITY hdrForwardButton1.label "Vidarebefordra">
 <!ENTITY hdrForwardButton1.tooltip "Vidarebefordra meddelandet">
 <!ENTITY hdrJunkButton1.label "Skräp">

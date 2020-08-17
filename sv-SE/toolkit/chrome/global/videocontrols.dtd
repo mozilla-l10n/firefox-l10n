@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Bild-i-bild">
 
-<!ENTITY stats.media "Media">
-<!ENTITY stats.size "Storlek">
-<!ENTITY stats.activity "Aktivitet">
-<!ENTITY stats.activityPaused "Pausad">
-<!ENTITY stats.activityPlaying "Spelar">
-<!ENTITY stats.activityEnded "Avslutad">
-<!ENTITY stats.activitySeeking "(söker)">
-<!ENTITY stats.volume "Volym">
-<!ENTITY stats.framesParsed "Inlästa bildrutor">
-<!ENTITY stats.framesDecoded "Avkodade bildrutor">
-<!ENTITY stats.framesPresented "Presenterade bildrutor">
-<!ENTITY stats.framesPainted "Visade bildrutor">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Avspelning av videon avbröts på grund av ett okänt fel.">
 
 <!ENTITY status.pictureInPicture "Den här videon spelas upp i läget Bild-i-bild.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 av #2 har förflutit">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

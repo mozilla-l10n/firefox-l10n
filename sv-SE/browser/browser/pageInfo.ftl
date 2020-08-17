@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Spara som…
     .accesskey = p
-media-preview =
-    .value = Förhandsgranskning:
 
 perm-tab =
     .label = Rättigheter
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Ja, kakor
 security-site-data-no = Nej
 
 image-size-unknown = Okänd
-not-set-verified-by = Ej angivet
 page-info-not-specified =
     .value = Ej angivet
 not-set-alternative-text = Ej angivet
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Tolerant läge
 general-strict-mode =
     .value = Strikt enligt standard
-security-no-owner = Webbplatsen har inte lämnat någon information om ägaren.
 page-info-security-no-owner =
     .value = Webbplatsen har inte lämnat någon information om ägaren.
 media-select-folder = Välj en mapp att spara bilderna i

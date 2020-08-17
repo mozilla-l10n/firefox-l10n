@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Avsluta helskärm
 find = Sök
 new-tab = Ny flik
 add-bookmark = Lägg till bokmärke
-open-bookmarks-sidebar = Öppna sidofältet bokmärken
 reader-view = Läsvy
 # Meant to match the string displayed in an empty URL bar.
 open-location = Sök eller ange adress

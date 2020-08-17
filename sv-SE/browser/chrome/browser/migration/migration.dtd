@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importera inställningar, bokmärken, historik, lösenord och annan data från:">
 <!ENTITY importFromUnix.label           "Importera inställningar, bokmärken, historik, lösenord och annan data från:">
-<!ENTITY importFromBookmarks.label      "Importera bokmärken från:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

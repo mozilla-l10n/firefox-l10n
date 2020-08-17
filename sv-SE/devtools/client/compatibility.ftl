@@ -14,6 +14,7 @@ compatibility-issue-deprecated = (föråldrad)
 compatibility-issue-experimental = (experimentell)
 compatibility-issue-prefixneeded = (prefix behövs)
 compatibility-issue-deprecated-experimental = (föråldrad, experimentell)
+
 compatibility-issue-deprecated-prefixneeded = (föråldrad, prefix behövs)
 compatibility-issue-experimental-prefixneeded = (experimentellt, prefix behövs)
 compatibility-issue-deprecated-experimental-prefixneeded = (föråldrad, experimentellt, prefix behövs)
@@ -42,6 +43,7 @@ compatibility-issue-occurrences =
         [one] { $number } händelse
        *[other] { $number } händelser
     }
+
 compatibility-no-issues-found = Inga kompatibilitetsproblem hittades.
 compatibility-close-settings-button =
     .title = Stäng inställningarna
