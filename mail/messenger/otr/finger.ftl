@@ -5,14 +5,18 @@
 otr-finger =
     .buttonlabelaccept = 닫기
     .title = 이전에 본 OTR 지문
+
 finger-intro = 이전 종단간 암호화 대화의 OTR 키 지문
+
 finger-screenName =
     .label = 연락처
 finger-verified =
     .label = 확인 상태
 finger-fingerprint =
     .label = 지문
+
 finger-remove =
     .label = 선택항목 삭제
+
 finger-remove-all =
     .label = 모두 삭제

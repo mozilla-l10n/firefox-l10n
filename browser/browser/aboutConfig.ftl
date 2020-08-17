@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = 위험한 곳입니다!
-about-config-warning-text = 이 고급 설정을 변경하면 이 프로그램의 안정성, 보안 및 성능에 해가 될 수 있습니다. 자신이 무엇을 하고 있는지 확실히 알고 있는 경우에만 계속해야 합니다.
-about-config-warning-checkbox = 다음에 이 경고 계속 표시하기
-about-config-warning-button = 위험을 감수하겠습니다!
-about-config2-title = 고급 설정
-about-config-search-input =
-    .placeholder = 검색
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = 주의해서 진행하세요
@@ -22,16 +13,13 @@ about-config-intro-warning-button = 위험을 감수하고 계속 진행
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = 다음 설정을 변경하면 { -brand-short-name }의 성능 또는 보안에 영향을 줄 수 있습니다.
+
 about-config-page-title = 고급 설정
+
 about-config-search-input1 =
     .placeholder = 설정 이름 검색
 about-config-show-all = 모두 보기
-about-config-pref-add = 추가
-about-config-pref-toggle = 설정/해제
-about-config-pref-edit = 편집
-about-config-pref-save = 저장
-about-config-pref-reset = 초기화
-about-config-pref-delete = 삭제
+
 about-config-pref-add-button =
     .title = 추가
 about-config-pref-toggle-button =

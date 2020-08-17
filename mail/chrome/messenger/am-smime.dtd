@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "보안 설정">
-<!ENTITY securityTab.label "보안">
-<!ENTITY securityHeading.label "서명 또는 암호화된 메시지를 주고받거나 인증하려면 유효한 >인증서를 사용해야 합니다.">
-<!ENTITY encryptionGroupTitle.label "암호화">
-<!ENTITY encryptionChoiceLabel.label "메시지 보낼 때 기본 암호 설정:">
-<!ENTITY neverEncrypt.label "암호화 사용하지 않음">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "암호화 사용함 (개인 인증서 필요)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "다음 개인 인증서 사용:">
-
 <!ENTITY e2eTitle.label "종단간 암호화">
-<!ENTITY e2eIntro.description "암호화되거나 디지털 서명 된 메시지를 보내려면 OpenPGP 또는 S/MIME과 같은 암호화 기술을 구성해야 합니다.">
 <!ENTITY e2eLearnMore.label "더 알아보기">
 
 <!ENTITY e2eEnc.description "종단간 암호화가 없으면 메시지 내용이 전자 메일 공급자 및 대중 사찰에 쉽게 노출됩니다.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "제거">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "디지털 서명">
-<!ENTITY signMessage.label "디지털 서명 메시지 (기본)">
 <!ENTITY signMessage2.label "기본적으로 내 디지털 서명 추가">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "다음 개인 인증서 사용:">
-
-<!ENTITY certificates.label "인증서">
-<!ENTITY manageCerts2.label "인증서 관리">
-<!ENTITY manageCerts2.accesskey "M">
-<!ENTITY manageDevices.label "보안 장치 관리">
-<!ENTITY manageDevices.accesskey "y">
 
 <!ENTITY signingCert2.message "디지털 서명을 위한 개인 인증서:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "OpenPGP 선호">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGP 키 관리">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "인증서 선택">

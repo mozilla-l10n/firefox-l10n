@@ -68,15 +68,6 @@
 <!ENTITY notCached.longDesc "<p>요청한 문서는 더 이상 &brandShortName; 캐시에 저장되어 있지 않습니다.</p><ul><li>보안 문제로 인해 &brandShortName;는 자동적으로 문서를 재 호출 합니다.</li><li>웹 사이트에서 문서를 재 요청 하시려면 다시 시도를 눌러주십시오.</li></ul>">
 
 <!ENTITY netOffline.title "오프라인 모드">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>다시 시도해보세요. &brandShortName;가 다시 연결하여 페이지를 불러옵니다.
-    <button id='wifi'>Wi-Fi 켜기</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "콘텐츠 인코딩 오류">
 <!ENTITY contentEncodingError.longDesc "<ul><li>웹 사이트 관리자에게 현재 문제를 알려 주시기 바랍니다.</li></ul>">

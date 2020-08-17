@@ -16,5 +16,7 @@ openpgp-one-recipient-status-open-details =
     .label = 세부 정보 열기 및 수락 수정…
 openpgp-one-recipient-status-discover =
     .label = 신규 및 업데이트 키 발견
+
 openpgp-one-recipient-status-instruction1 = 수신자에게 종단 간 암호화 된 메시지를 보내려면 해당 OpenPGP 공개 키를 얻어 이를 수락 된 것으로 표시해야 합니다.
 openpgp-one-recipient-status-instruction2 = 공개 키를 얻으려면 여러분에게 보낸 이메일에서 가져 오거나 디렉토리에서 공개 키를 찾을 수 있습니다.
+

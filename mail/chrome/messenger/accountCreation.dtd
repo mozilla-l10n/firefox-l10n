@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "기존 이메일 계정 설정">
-
 <!ENTITY emailWizard.title               "기존 이메일 주소 설정">
 <!ENTITY emailWizard.caption             "현재 이메일 주소를 사용하십시오">
 <!ENTITY name.label                      "이름:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "이름이나 닉네임">
 <!ENTITY fullname.placeholder            "이름">
 <!ENTITY name.text                       "다른 사람에게 보여줄 이름">
 <!ENTITY name.error                      "이름을 입력하세요">
 <!ENTITY email.label                     "메일 주소:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "이메일 주소">
 <!ENTITY email.text                      "기존 이메일 주소">
 <!ENTITY email.error                     "잘못된 이메일 주소">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "발신 서버:">
 <!ENTITY outgoingColumn.label            "발신">
 <!ENTITY username.label                  "아이디:">
-<!ENTITY hostname.label                  "서버 호스트명">
-<!ENTITY port.label                      "포트 번호">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "서버:">
 <!ENTITY portRow.label                   "포트:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "다시 테스트">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "수동 설정">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "수동으로 구성…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "새 메일 주소 만들기…">

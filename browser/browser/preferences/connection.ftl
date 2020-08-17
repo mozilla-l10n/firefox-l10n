@@ -35,12 +35,7 @@ connection-proxy-http = HTTP 프록시
     .accesskey = x
 connection-proxy-http-port = 포트
     .accesskey = P
-connection-proxy-http-share =
-    .label = 모든 프로토콜에 위의 프록시 설정 사용
-    .accesskey = s
 
-connection-proxy-ssl = SSL 프록시
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = FTP 및 HTTPS에도 이 프록시를 사용
     .accesskey = s

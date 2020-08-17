@@ -8,3 +8,4 @@ tag-dialog-window =
 tag-name-label =
     .value = 태그 이름:
     .accesskey = T
+

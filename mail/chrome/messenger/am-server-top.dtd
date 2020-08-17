@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "메시지">
 <!ENTITY alwaysAuthenticate.label "서버에 접속할 때 항상 인증 요청">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc 파일:">
-<!ENTITY newsrcPicker.label "newsrc 파일 위치">
 <!ENTITY newsrcFilePath1.label "News.rc 파일:">
 <!ENTITY newsrcPicker1.label "News.rc 파일 선택">
 <!ENTITY abbreviate.label "메일 폴더에 뉴스 그룹 이름 보이기:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "고급…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "기본 문자 인코딩:">
-<!ENTITY localPath.label "로컬 디렉터리:">
 <!ENTITY localPath1.label "로컬 디렉토리:">
 <!ENTITY localFolderPicker.label "로컬 디렉터리 위치">
 <!ENTITY browseFolder.label "찾아보기…">

@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "화면 속 화면">
 
-<!ENTITY stats.media "미디어">
-<!ENTITY stats.size "크기">
-<!ENTITY stats.activity "활동">
-<!ENTITY stats.activityPaused "중단">
-<!ENTITY stats.activityPlaying "재생중">
-<!ENTITY stats.activityEnded "완료">
-<!ENTITY stats.activitySeeking "(찾는 중)">
-<!ENTITY stats.volume "음량">
-<!ENTITY stats.framesParsed "파싱된 프레임">
-<!ENTITY stats.framesDecoded "디코딩 프레임">
-<!ENTITY stats.framesPresented "제시된 프레임">
-<!ENTITY stats.framesPainted "색상 프레임">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "알 수 없는 오류로 인해 동영상 재생이 중단되었습니다.">
 
 <!ENTITY status.pictureInPicture "이 동영상은 화면 속 화면 모드에서 재생 중입니다.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 / #2 경과됨">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -51,6 +51,7 @@ import =
 close-button =
     .label = 닫기
     .accesskey = C
+
 show-passwords =
     .label = 비밀번호 표시
     .accesskey = P
@@ -73,10 +74,12 @@ no-master-password-prompt = 정말 비밀번호를 보이게 하시겠습니까?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = 저장된 비밀번호를 보려면 자격 증명을 검증하세요.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = 저장된 비밀번호 표시
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

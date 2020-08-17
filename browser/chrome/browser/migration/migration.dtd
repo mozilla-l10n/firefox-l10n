@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "설정, 북마크, 기록, 비밀번호 및 기타 데이터를 가져올 원본:">
 <!ENTITY importFromUnix.label           "설정, 북마크, 기록, 비밀번호 및 기타 데이터를 가져올 원본:">
-<!ENTITY importFromBookmarks.label      "북마크를 가져올 원본:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

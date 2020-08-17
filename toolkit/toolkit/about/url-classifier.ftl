@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = 안전한 탐색 로그 모듈
 url-classifier-debug-modules = 현재 로그 모듈
 url-classifier-debug-sbjs-modules = 안전한 탐색 JS 로그
 url-classifier-debug-file = 현재 로그 파일
+
 url-classifier-trigger-update = 업데이트 실행
 url-classifier-not-available = 해당 없음
 url-classifier-disable-sbjs-log = 안전한 탐색 JS 로그 사용 안 함
