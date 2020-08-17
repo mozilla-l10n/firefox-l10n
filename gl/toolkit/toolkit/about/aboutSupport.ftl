@@ -4,6 +4,7 @@
 
 page-title = Información para solucionar problemas
 page-subtitle = Esta páxina contén información técnica que pode serlle útil cando tente solucionar un problema. Se está buscando respostas a preguntas frecuentes sobre o { -brand-short-name }, visite o noso <a data-l10n-name="support-link">sitio web de asistencia</a>.
+
 crashes-title = Informes de erro
 crashes-id = ID do informe
 crashes-send-date = Data de envío
@@ -77,8 +78,6 @@ graphics-workarounds-title = Solucións alternativas
 place-database-title = Bases de datos de lugares
 place-database-integrity = Integridade
 place-database-verify-integrity = Verificar a integridade
-js-title = JavaScript
-js-incremental-gc = GC incremental
 a11y-title = Accesibilidade
 a11y-activated = Activada
 a11y-force-disabled = Evitar a accesibilidade
@@ -103,7 +102,6 @@ restart-in-safe-mode-label = Reiniciar cos complementos desactivados…
 
 audio-backend = Sistema de son
 max-audio-channels = Número máximo de canles
-channel-layout = Deseño de canles preferida
 sample-rate = Frecuencia de mostraxe preferida
 media-title = Medios
 media-output-devices-title = Dispositivos de saída
@@ -149,6 +147,7 @@ report-crash-for-days =
         [one] Informes de erro do último día
        *[other] Informes de erro dos últimos { $days } días
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -156,6 +155,7 @@ crashes-time-minutes =
         [one] Hai { $minutes } minuto
        *[other] Hai { $minutes } minutos
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -163,6 +163,7 @@ crashes-time-hours =
         [one] Hai { $hours } hora
        *[other] Hai { $hours } horas
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -170,6 +171,7 @@ crashes-time-days =
         [one] Hai { $days } día
        *[other] Hai { $days } días
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -177,6 +179,7 @@ pending-reports =
         [one] Todos os informes de erro (incluíndo { $reports } falla pendente no intervalo de tempo indicado)
        *[other] Todos os informes de erro (incluíndo { $reports } fallas pendentes no intervalo de tempo indicado)
     }
+
 raw-data-copied = Copiáronse os datos sen procesar ao portapapeis
 text-copied = Copiouse o texto ao portapapeis
 
@@ -189,9 +192,11 @@ blocked-mismatched-version = Bloqueada porque non coinciden a versión do contro
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueada para a versión do seu controlador gráfico. Tente actualizar o seu controlador gráfico á versión { $driverVersion } ou superior.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
+
 compositing = Composición
 hardware-h264 = Descodificación por hardware H264
 main-thread-no-omtc = fío principal, sen OMTC
@@ -204,6 +209,7 @@ no = Non
 
 found = Atopado
 missing = Ausente
+
 gpu-description = Descrición
 gpu-vendor-id = ID do fabricante
 gpu-device-id = ID do dispositivo
@@ -224,17 +230,20 @@ webgl2-version = Versión do controlador WebGL 2
 webgl2-driver-extensions = Extensións do controlador WebGL 2
 webgl2-extensions = Extensións WebGL 2
 blocklisted-bug = Pór na lista de bloqueos debido a problemas coñecidos
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Pór na lista de bloqueos; código do erro { $failureCode }
+
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de vídeo D3D11
-d3d9video-crash-buard = Descodificador de vídeo D3D9
 d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Restabelecer no próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset-button = Provocar reinicio do dispositivo
@@ -242,8 +251,10 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contido)
 off-main-thread-paint-enabled = Off Main Thread Painting activado
 off-main-thread-paint-worker-count = Contador de workers Off Main Thread Painting
+
 min-lib-versions = Esperábase unha versión mínima
 loaded-lib-versions = Versión en uso
+
 has-seccomp-bpf = Seccomp-BPF (Filtrado de chamadas do sistema)
 has-seccomp-tsync = Sincronización de fíos seccomp
 has-user-namespaces = Espazos de nome do usuario
@@ -255,6 +266,7 @@ effective-content-sandbox-level = Nivel efectivo de illamento (sandbox) para o p
 sandbox-proc-type-content = contido
 sandbox-proc-type-file = contido do ficheiro
 sandbox-proc-type-media-plugin = engadido de medios
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -267,6 +279,7 @@ multi-process-status-6 = Desactivado porque a entrada de texto é incompatíbel
 multi-process-status-7 = Desactivado polos complementos
 multi-process-status-8 = Desactivado forzosamente
 multi-process-status-unknown = Estado descoñecido
+
 async-pan-zoom = Pan/Zoom asíncrono
 apz-none = ningún
 wheel-enabled = entrada da roda do rato activada

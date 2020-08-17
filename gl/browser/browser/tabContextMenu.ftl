@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Mover a unha nova xanela
     .accesskey = x
-undo-close-tab =
-    .label = Anular o peche da lapela
-    .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Pechar lapela
     .accesskey = c

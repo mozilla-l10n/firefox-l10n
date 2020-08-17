@@ -99,6 +99,8 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = Escriba menos e atope máis: Busque con { $engineName } directamente dende súa barra de enderezos.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -165,6 +167,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Estabelecer como buscador predeterminado
     .accesskey = d
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -246,8 +255,10 @@ popup-all-windows-shared = Compartiranse todas as xanelas visíbeis na súa pant
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Buscar ou escribir o enderezo
+
 urlbar-placeholder =
     .placeholder = Buscar ou escribir o enderezo
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = O navegador está baixo control remoto
 urlbar-switch-to-tab =

@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleccionar todas as lapelas
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Anular o peche da lapela
-    .accesskey = u
 
 toolbar-context-menu-manage-extension =
     .label = Xestionar extensión

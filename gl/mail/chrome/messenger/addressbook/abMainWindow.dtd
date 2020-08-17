@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editar">
 <!ENTITY editMenu.accesskey                             "t">
-<!ENTITY undoCmd.label                                  "Desfacer">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "c">
-<!ENTITY redoCmd.label                                  "Refacer">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "a">
-<!ENTITY cutCmd.label                                   "Cortar">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copiar">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "p">
-<!ENTITY pasteCmd.label                                 "Pegar">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Eliminar">
-<!ENTITY deleteCmd.accesskey                            "l">
 <!ENTITY deleteAbCmd.label                              "Eliminar a axenda de enderezos">
 <!ENTITY deleteContactCmd.label                         "Eliminar contacto">
 <!ENTITY deleteContactsCmd.label                        "Eliminar contactos">
 <!ENTITY deleteListCmd.label                            "Eliminar lista">
 <!ENTITY deleteListsCmd.label                           "Eliminar listas">
 <!ENTITY deleteItemsCmd.label                           "Eliminar elementos">
-<!ENTITY selectAllCmd.label                             "Seleccionar todo">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "t">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Intercambiar nome/apelido">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "r">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->

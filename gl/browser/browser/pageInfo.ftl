@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Gardar como…
     .accesskey = e
-media-preview =
-    .value = Previsualización multimedia:
 
 perm-tab =
     .label = Permisos
@@ -129,7 +127,6 @@ security-site-data-cookies-only = Si, cookies
 security-site-data-no = Non
 
 image-size-unknown = Descoñecido
-not-set-verified-by = Sen especificar
 page-info-not-specified =
     .value = Sen especificar
 not-set-alternative-text = Sen especificar
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Modo con fallos
 general-strict-mode =
     .value = Modo de seguimento dos estándares
-security-no-owner = Este sitio web non fornece información do propietario.
 page-info-security-no-owner =
     .value = Este sitio web non fornece información do propietario.
 media-select-folder = Seleccione un cartafol para gardar as imaxes

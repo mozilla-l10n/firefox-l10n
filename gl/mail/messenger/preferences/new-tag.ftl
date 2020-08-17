@@ -5,3 +5,4 @@
 tag-name-label =
     .value = Nome da etiqueta:
     .accesskey = e
+

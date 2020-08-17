@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Cargando…
-
 list-empty-installed =
     .value = Non ten instalado ningún complemento deste tipo
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Saber máis sobre os complementos
 
-install-addon-from-file =
-    .label = Instalar complemento desde o ficheiro…
-    .accesskey = I
-
 help-button = Asistencia dos módulos
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] Opcións de { -brand-short-name }
        *[other] Preferencias de { -brand-short-name }
     }
-
-tools-menu =
-    .tooltiptext = Ferramentas para todos os complementos
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Amosar todas as extensións
-
-debug-addons =
-    .label = Depurar complementos
-    .accesskey = d
 
 cmd-show-details =
     .label = Amosar máis información
@@ -103,12 +89,6 @@ cmd-contribute =
     .label = Colabore
     .accesskey = C
     .tooltiptext = Colabore co desenvolvemento deste complemento
-
-discover-title = Que son os complementos?
-
-discover-description = Os complementos son aplicativos que lle permiten personalizar { -brand-short-name } con funcionalidades ou estilos adicionais. Probe unha barra lateral que lle aforrará tempo, un indicador do tempo meteorolóxico ou un tema gráfico para facer { -brand-short-name } verdadeiramente seu.
-
-discover-footer = Cando estea conectado á Internet, este panel contará con algúns dos mellores e máis populares complementos para que vostede probe.
 
 detail-version =
     .label = Versión
@@ -191,14 +171,6 @@ legacy-extensions =
 
 legacy-extensions-description = Estas extensións non cumpren os estándares actuais de { -brand-short-name }, así que foron desactivadas. <label data-l10n-name="legacy-learn-more">Máis información sobre os cambios nos complementos</label>
 
-extensions-view-recent-updates =
-    .name = Actualizacións recentes
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Actualizacións dispoñíbeis
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Extensións
 addon-category-extension-title =
     .title = Extensións
@@ -223,29 +195,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = O modo seguro desactivou todos os complementos.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = A verificación de compatibilidade de complementos está desactivada. Pode ter complementos incompatíbeis.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Activar
-    .tooltiptext = Activar a verificación de compatibilidade de complementos
-
-extensions-warning-update-security-label =
-    .value = A verificación da seguranza das actualizacións dos complementos está desactivada. Pode estar en risco coas actualizacións.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Activar
-    .tooltiptext = Activar a verificación da seguranza das actualizacións dos complementos
-
 extensions-warning-safe-mode = O modo seguro desactivou todos os complementos.
 extensions-warning-check-compatibility = A verificación de compatibilidade de complementos está desactivada. Pode ter complementos incompatíbeis.
 extensions-warning-check-compatibility-button = Activar
@@ -257,14 +206,6 @@ extensions-warning-update-security-button = Activar
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Buscar actualizacións
-    .accesskey = c
-
-extensions-updates-view-updates =
-    .label = Ver actualizacións recentes
-    .accesskey = V
-
 addon-updates-check-for-updates = Buscar actualizacións
     .accesskey = c
 addon-updates-view-updates = Ver actualizacións recentes
@@ -272,10 +213,6 @@ addon-updates-view-updates = Ver actualizacións recentes
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Actualizar os complementos automaticamente
-    .accesskey = A
 
 addon-updates-update-addons-automatically = Actualizar os complementos automaticamente
     .accesskey = A
@@ -286,36 +223,12 @@ addon-updates-update-addons-automatically = Actualizar os complementos automatic
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Restabelecer todos os complementos para actualizalos automaticamente
-    .accesskey = R
-
-extensions-updates-reset-updates-to-manual =
-    .label = Restabelecer todos os complementos para actualizalos manualmente
-    .accesskey = R
-
 addon-updates-reset-updates-to-automatic = Restabelecer todos os complementos para actualizalos automaticamente
     .accesskey = R
 addon-updates-reset-updates-to-manual = Restabelecer todos os complementos para actualizalos manualmente
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Actualizando os complementos
-extensions-updates-installed =
-    .value = Actualizáronse os seus complementos.
-extensions-updates-downloaded =
-    .value = Descargáronse as actualizacións do seu complemento.
-extensions-updates-restart =
-    .label = Reiniciar agora para rematar a instalación
-extensions-updates-none-found =
-    .value = Non se atoparon actualizacións
-extensions-updates-manual-updates-found =
-    .label = Ver actualizacións dispoñíbeis
-extensions-updates-update-selected =
-    .label = Instalar actualizacións
-    .tooltiptext = Instalar as actualizacións dispoñíbeis desta lista
 
 addon-updates-updating = Actualizando os complementos
 addon-updates-installed = Actualizáronse os seus complementos.

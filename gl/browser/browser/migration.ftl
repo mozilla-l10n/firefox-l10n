@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Asistente de importación
+
 import-from =
     { PLATFORM() ->
         [windows] Importar opcións, marcadores, historial, contrasinais e outros datos de:
        *[other] Importar preferencias, marcadores, historial, contrasinais e outros datos de:
     }
+
 import-from-bookmarks = Importar marcadores:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -43,22 +45,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Non se atoparon programas que conteñan marcadores, historiais ou contrasinais.
+
 import-source-page-title = Importar configuración e datos
 import-items-page-title = Elementos para importar
+
 import-items-description = Escolla os elementos que quere importar:
+
 import-migrating-page-title = Importando…
+
 import-migrating-description = Estanse a importar os seguintes elementos…
+
 import-select-profile-page-title = Seleccionar perfil
+
 import-select-profile-description = Os seguintes perfís están dispoñíbeis para seren importados desde:
+
 import-done-page-title = Importación completa
+
 import-done-description = Importáronse correctamente os seguintes elementos:
+
 import-close-source-browser = Asegúrese de que o navegador seleccionado está pechado antes de continuar.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = De { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-safari = Safari
@@ -69,6 +83,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Lista de lectura (de Safari)
 imported-edge-reading-list = Lista de lectura (de Edge)
 
@@ -81,6 +96,20 @@ imported-edge-reading-list = Lista de lectura (de Edge)
 ## chrome
 ## edge
 ## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
+
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.

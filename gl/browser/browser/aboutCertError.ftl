@@ -91,7 +91,6 @@ proxyResolveFailure-title = Non é posíbel atopar o servidor proxy
 redirectLoop-title = A páxina non está a redirixir correctamente
 unknownSocketType-title = Resposta inesperada do servidor
 nssFailure2-title = Fallou a conexión segura
-cspBlocked-title = Bloqueado pola política de seguranza de contidos
 corruptedContentError-title = Erro de contido danado
 remoteXUL-title = XUL remoto
 sslv3Used-title = Non é posíbel conectarse de forma segura

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importar opcións, marcadores, historial, contrasinais e outros datos de:">
 <!ENTITY importFromUnix.label           "Importar preferencias, marcadores, historial, contrasinais e outros datos de:">
-<!ENTITY importFromBookmarks.label      "Importar marcadores:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
