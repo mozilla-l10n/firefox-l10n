@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = ଏହି ନେଟୱର୍କ ପାଇଁ ପ୍ରକ୍ସି ବିନ୍ୟାସକୁ  ସ୍ୱୟଂ-ଯାଞ୍ଚ କରନ୍ତୁ
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = ଏହି ପ୍ରକ୍ସି ସର୍ଭରକୁ ସମସ୍ତ ପ୍ରୋଟୋକଲ ପାଇଁ ବ୍ୟବହାର କରନ୍ତୁ
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ଫାଇଲ ଚୟନକରନ୍ତୁ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "ଏହି ସାଇଟ ବିଷୟରେ ଭୁଲିଯାଆନ୍ତୁ">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "ଖୋଲନ୍ତୁ">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ">
-<!ENTITY cmd.open_window.accesskey       "N">
-
-
-<!ENTITY cmd.open_tab.label              "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "ସମସ୍ତଙ୍କୁ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "ଗୁଣଧର୍ମ">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "ନାମ କ୍ରମାନୁସାରେ ସଜାଡନ୍ତୁ">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "ନୂତନ ଚିହ୍ନିତସ୍ଥାନ…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "ନୂତନ ଫୋଲଡର…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "ନୂତନ ବିଭାଜକ">
-<!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY col.name.label          "ନାମ">
 <!ENTITY col.tags.label          "ଟ୍ୟାଗଗୁଡିକ">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ଗୁଣଧର୍ମ ଦେଖିବାକୁ ଏବଂ ସମ୍ପାଦନ କରିବାକୁ ଗୋଟିଏ ବସ୍ତୁ ଚୟନ କରନ୍ତୁ">
 
-<!ENTITY view.label               "ଦୃଶ୍ୟ">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "ତାରିଖ ଦ୍ୱାରା">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "ସାଇଟ ଦ୍ୱାରା">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "ଅଧିକାଂଶ ସମୟରେ ପରିଦର୍ଶିତ ଅନୁସାରେ">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "ଶେଷଥର ପରିଦର୍ଶିତ ଅନୁସାରେ">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "ତାରିଖ ଏବଂ ସାଇଟ ଦ୍ୱାରା">
-<!ENTITY byDayAndSite.accesskey   "t">

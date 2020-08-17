@@ -11,31 +11,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "ସକ୍ରିୟ">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "ନିଷ୍କ୍ରିୟ">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "ସକ୍ରିୟ କରିବା ପାଇଁ କୁହନ୍ତୁ">
-<!ENTITY cmd.askToActivate.tooltip            "ପ୍ରତ୍ୟେକ ଥର ଏହି ଏଡ଼-ଅନକୁ ବ୍ୟବହାର କରିବା ପାଇଁ କୁହନ୍ତୁ">
-<!ENTITY cmd.alwaysActivate.label             "ସର୍ବଦା ସକ୍ରିୟ">
-<!ENTITY cmd.alwaysActivate.tooltip           "ସର୍ବଦା ଏହି ଏଡ଼-ଅନକୁ ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY cmd.neverActivate.label              "କଦାପି ସକ୍ରିୟକରନ୍ତୁ ନାହିଁ">
-<!ENTITY cmd.neverActivate.tooltip            "ଏହି ଏଡ଼-ଅନକୁ ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ">
-<!ENTITY cmd.stateMenu.tooltip                "ଏହି ଏଡ଼-ଅନ ଚାଲୁଥିବା ସମୟରେ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
-
-<!ENTITY cmd.uninstallAddon.label             "କାଢ଼ନ୍ତୁ">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "ବିକଳ୍ପଗୁଡ଼ିକ">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ଏହି ଏଡ-ଅନର ବିକଳ୍ପକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
-<!ENTITY cmd.showPreferencesUnix.label        "ପସନ୍ଦ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ଏହି ଏଡ-ଅନର ପସନ୍ଦକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
-
-<!ENTITY cmd.showReleaseNotes.label           "ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY cmd.showReleaseNotes.tooltip         "ଏହି ଅଦ୍ୟତନ ପାଇଁ ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY cmd.hideReleaseNotes.label           "ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଲୁଚାନ୍ତୁ">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "ଏହି ଅଦ୍ୟତନ ପାଇଁ ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଲୁଚାନ୍ତୁ">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -47,44 +22,13 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "ବାତିଲ କରନ୍ତୁ">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "ଅଧିକ">
-<!ENTITY addon.details.tooltip                "ଏହି ଏଡ-ଅନ ବିଷୟରେ ଅଧିକ ବିବରଣୀ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY addon.unknownDate                    "ଅଜଣା">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(ନିଷ୍କ୍ରିୟ)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "ଅଦ୍ୟତନ କରନ୍ତୁ">
-<!ENTITY addon.undoAction.label               "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
-<!ENTITY addon.undoAction.tooltip             "ଏହି  ପଦକ୍ଷେପକୁ ବାତିଲ କରନ୍ତୁ">
-<!ENTITY addon.undoRemove.label               "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
-<!ENTITY addon.undoRemove.tooltip             "ଏହି ଏଡ-ଅନକୁ ସ୍ଥାପିତ ରଖନ୍ତୁ">
 
-<!ENTITY addon.install.label                  "ସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY addon.install.tooltip                "ଏହି ଏଡ-ଅନକୁ ସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY addon.updateNow.label                "ବର୍ତ୍ତମାନ ଅଦ୍ୟତନ କରନ୍ତୁ">
-<!ENTITY addon.updateNow.tooltip              "ଏହି ଏଡ-ଅନ ପାଇଁ ଅଦ୍ୟତନକୁ ସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY addon.includeUpdate.label            "ଅଦ୍ୟତନରେ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ">
-<!ENTITY addon.updateAvailable.label          "ଗୋଟିଏ ଅଦ୍ୟତନ ଉପଲବ୍ଧ ଅଛି">
-<!ENTITY addon.checkingForUpdates.label       "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରୁଅଛି…">
-<!ENTITY addon.releaseNotes.label             "ପ୍ରକାଶନ ଟିପ୍ପଣୀ:">
-<!ENTITY addon.loadingReleaseNotes.label      "ଧାରଣ କରୁଅଛି…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "ମୁଁ ଦୁଃଖିତ, କିନ୍ତୁ ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଧାରଣ କରିବାରେ ଗୋଟିଏ ତ୍ରୁଟିର ସମ୍ମୁଖିନ ହୋଇଛି।">
-
-<!ENTITY addon.createdBy.label                "ଏହାଙ୍କ ଦ୍ୱାରା ">
-
-<!ENTITY settings.path.button.label           "ବ୍ରାଉଜ କରନ୍ତୁ…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

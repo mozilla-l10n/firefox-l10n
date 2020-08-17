@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = ନୂତନ ୱିଣ୍ଡୋକୁ ଯାଆନ୍ତୁ
     .accesskey = W
-undo-close-tab =
-    .label = ଟ୍ୟାବ ବନ୍ଦ କରିଥିବା ପଦକ୍ଷେପକୁ ବାତିଲ କରନ୍ତୁ
-    .accesskey = U
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ଟ୍ୟାବକୁ ବନ୍ଦ କରନ୍ତୁ
     .accesskey = C

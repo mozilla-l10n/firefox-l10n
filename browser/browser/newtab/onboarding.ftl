@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = ଅଧିକ ଶିଖନ୍ତୁ
-onboarding-button-label-try-now = ଏବେ ଏହା ଚେଷ୍ଟାକରନ୍ତୁ
 onboarding-button-label-get-started = ଆରମ୍ଭ କରନ୍ତୁ
 
 ## Welcome modal dialog strings
@@ -21,7 +20,6 @@ onboarding-button-label-get-started = ଆରମ୍ଭ କରନ୍ତୁ
 onboarding-welcome-header = { -brand-short-name }କୁ ସ୍ୱାଗତ
 onboarding-welcome-learn-more = ସୁବିଧାଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
 
-onboarding-join-form-header = { -brand-product-name }ରେ ଯୋଗଦାନ କରନ୍ତୁ
 onboarding-welcome-modal-supercharge-body = ଆପଣଙ୍କର ଗୋପନୀୟତା ସୁରକ୍ଷାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଚାର୍ଜ କରନ୍ତୁ
 onboarding-welcome-form-header = ଏଠାରେ ଆରମ୍ଭ କରନ୍ତୁ
 
@@ -41,6 +39,13 @@ onboarding-start-browsing-button-label = ବ୍ରାଉଜିଂ ଆରମ୍�
 onboarding-cards-dismiss =
     .title = ଖାରଜ କରିବା
     .aria-label = ଖାରଜ କରିବା
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -67,12 +72,6 @@ onboarding-sync-form-sub-header = { -sync-brand-name }ସହ ଆଗେଇବା�
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = ଆବଶ୍ୟକୀୟ ବସ୍ତୁଗୁଡ଼ିକ
-
-onboarding-benefit-knowledge-title = ବ୍ୟବହାରିକ ଜ୍ଞାନ
-
-onboarding-benefit-privacy-title = ସତ୍ୟ ଗୋପନୀୟତା
-
 
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 
@@ -87,17 +86,6 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = ଗୋପନୀୟ ବ୍ରାଉଜିଂ
-
-onboarding-screenshots-title = ସ୍କ୍ରିନ୍‌ସଟ୍‌ଗୁଡିକ
-
-onboarding-addons-title = ଏଡ-ଅନଗୁଡ଼ିକ
-
-onboarding-ghostery-title = ଘୋଷ୍ଟ୍ରି
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = ସିଙ୍କ୍
 
 onboarding-tracking-protection-title2 = ଅନୁସାରଣରୁ ସୁରକ୍ଷା
 onboarding-tracking-protection-button2 = ଏହା କିଭଳି କାମ କରେ
@@ -120,9 +108,6 @@ onboarding-send-tabs-button = ସେଣ୍ଡ ଟ୍ୟାବ ବ୍ୟବହା
 
 onboarding-pocket-anywhere-title = ଯେକୌଣସିଠାରେ ପଢ଼ନ୍ତୁ ଏବଂ ଶୁଣନ୍ତୁ
 onboarding-pocket-anywhere-button = { -pocket-brand-name }କୁ ଚେଷ୍ଟା କରନ୍ତୁ
-
-onboarding-lockwise-passwords-title = ଆପଣଙ୍କର ପାସୱାର୍ଡ଼ ସବୁଆଡ଼େ ନିଅନ୍ତୁ
-onboarding-lockwise-passwords-button2 = ଆପଟି ଅକ୍ତିଆର କରନ୍ତୁ
 
 onboarding-facebook-container-title = ଫେସବୁକ ସହିତ ବ୍ୟବଧାନ ସ୍ଥିର କରନ୍ତୁ
 onboarding-facebook-container-button = ଏକଷ୍ଟେନ୍ସନ ଯୋଡ଼ନ୍ତୁ

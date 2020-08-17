@@ -4,6 +4,7 @@
 
 page-title = ତ୍ରୁଟି ନିବାରଣ ସୂଚନା
 page-subtitle = ଏହି ପୃଷ୍ଠାରେ ପାରୀଭାଷିକ ସୂଚନା ଧାରଣ ହୋଇଥାଏ ଯାହାକି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମାଧାନ କରିବା ସମୟରେ ସହାୟକ ହୋଇପାରେ। ଯଦି ଆପଣ  { -brand-short-name } ବିଷୟରେ ସାଧାରଣ ପ୍ରଶ୍ନର ଉତ୍ତରଖୋଜୁଥାନ୍ତି , ତେବେ ଆମର <a data-l10n-name="support-link">ସହାୟତା ୱେବସାଇଟ</a> କୁ ଅନୁସରଣ କରନ୍ତୁ।
+
 crashes-title = କ୍ରାସ ବିବରଣୀ
 crashes-id = ବିବରଣୀ ପରିଚୟ
 crashes-send-date = ଦାଖଲ କରାଯାଇଛି
@@ -41,8 +42,6 @@ locked-key-prefs-title = ଆବଶ୍ୟକୀୟ ଅପରିବର୍ତ୍ତ
 locked-prefs-name = ନାମ
 locked-prefs-value = ମୂଲ୍ୟ
 graphics-title = ଆଲେଖୀ
-js-title = Java ସ୍କ୍ରିପ୍ଟ
-js-incremental-gc = କ୍ରମବର୍ଦ୍ଧିଷ୍ଣୁ GC
 a11y-title = ପ୍ରବେଶାନୁମତି
 a11y-activated = ସକ୍ରିୟ
 a11y-force-disabled = ପ୍ରବେଶାନୁମତି ବାରଣ କରନ୍ତୁ
@@ -75,6 +74,7 @@ report-crash-for-days =
         [one] ଗତ { $days } Day ପାଇଁ କ୍ରାସ ବିବରଣୀ
        *[other] ଗତ { $days } ଦିନ ପାଇଁ କ୍ରାସ ବିବରଣୀ
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -82,6 +82,7 @@ crashes-time-minutes =
         [one] { $minutes } ମିନଟ ପୂର୍ବରୁ
        *[other] { $minutes } ମିନଟ ପୂର୍ବରୁ
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -89,6 +90,7 @@ crashes-time-hours =
         [one] { $hours }ଘଣ୍ଟା ପୂର୍ବରୁ
        *[other] { $hours } ଘଣ୍ଟା ପୂର୍ବରୁ
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -96,6 +98,7 @@ crashes-time-days =
         [one] { $days } ଦିନ ପୂର୍ବରୁ
        *[other] { $days } ଦିନ ପୂର୍ବରୁ
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -103,6 +106,7 @@ pending-reports =
         [one] ସମସ୍ତ କ୍ରାସ ବିବରଣୀଗୁଡ଼ିକ ({ $reports } କୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି ପ୍ରଦତ୍ତ ସମୟ ସୀମା ମଧ୍ଯରେ କ୍ରାସ ହେବା ବାକି ଅଛି)
        *[other] ସମସ୍ତ କ୍ରାସ ବିବରଣୀଗୁଡ଼ିକ ({ $reports } କୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି ପ୍ରଦତ୍ତ ସମୟ ସୀମା ମଧ୍ଯରେ କ୍ରାସ ହେବା ବାକି ଅଛି)
     }
+
 raw-data-copied = ମୂଳ ତଥ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରାଯାଇଛି
 text-copied = ପାଠ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରାଯାଇଛି
 
@@ -114,6 +118,7 @@ blocked-os-version = ଆପଣଙ୍କର ପ୍ରଚାଳନ ତନ୍ତ୍
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ଆପଣଙ୍କ ଗ୍ରାଫିକ ଡ୍ରାଇଭର ସଂସ୍କରଣ ଅଟକିଛି । ଆପଣଙ୍କ ଗ୍ରାଫିକ ଡ୍ରାଇଭରକୁ ସଂସ୍କରଣ { $driverVersion } କିମ୍ବା ଆହୁରି ନୂଆ ସଂସ୍କରଣ ଅପଡେଟ କରିବା ପାଇଁ ଚେଷ୍ଟାକରନ୍ତୁ ।
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType ପ୍ରାଚଳଗୁଡ଼ିକ
@@ -127,8 +132,10 @@ gpu-device-id = ଉପକରଣ ID
 gpu-subsys-id = ଉପତନ୍ତ୍ର ID
 gpu-driver-version = ଡ୍ରାଇଭର ସଂସ୍କରଣ
 gpu-driver-date = ଡ୍ରାଇଭର ତାରିଖ
+
 min-lib-versions = ଆଶାକରାଯାଇଥବା ସର୍ବନିମ୍ନ ସଂସ୍କରଣ
 loaded-lib-versions = ବ୍ୟବହାର ହେଉଥିବା ସଂସ୍କରଣ
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
