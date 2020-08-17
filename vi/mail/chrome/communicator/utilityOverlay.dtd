@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Chỉnh sửa">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Hoàn tác">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Làm lại">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Cắt">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Sao chép">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Dán">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "P">
 <!ENTITY deleteCmd.label          "Xóa">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label          "Chọn tất cả">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "A">
 <!ENTITY preferencesCmd2.label "Tùy chọn">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">

@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Chọn tập tin…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Quên trang này">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "Mở">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Mở trong cửa sổ mới">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Mở trong cửa sổ riêng tư mới">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Mở trong thẻ mới">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Mở toàn bộ trong thẻ">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "Thuộc tính">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Sắp xếp theo tên">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Dấu trang mới…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Thư mục mới…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Ngăn cách mới">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "Tên">
 <!ENTITY col.tags.label          "Nhãn">
 <!ENTITY col.url.label           "Địa chỉ">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Số lần xem">
 <!ENTITY col.dateadded.label     "Ngày thêm">
 <!ENTITY col.lastmodified.label  "Sửa đổi lần cuối">
-
-<!ENTITY historySearch.placeholder  "Tìm kiếm lịch sử">
-<!ENTITY bookmarksSearch.placeholder  "Tìm kiếm dấu trang">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Chọn một mục để xem và chỉnh sửa thuộc tính của nó">
 
-<!ENTITY view.label               "Xem">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Theo ngày">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Theo trang web">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Theo lần truy cập nhiều nhất">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Theo lần truy cập cuối">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "Theo ngày và trang web">
-<!ENTITY byDayAndSite.accesskey   "t">

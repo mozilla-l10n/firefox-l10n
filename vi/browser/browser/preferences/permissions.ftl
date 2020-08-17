@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Hãy nhập một tên máy chủ có thực
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Ngoại lệ - Chặn nội dung
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Bạn đã tắt tính năng chặn nội dung trên các trang web này.
-
 permissions-exceptions-etp-window =
     .title = Các ngoại lệ cho trình chống theo dõi nâng cao
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nào được phép cài tiện ích. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Ngoại lệ - Tự động phát
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép tự động phát phương tiện với âm thanh. Nhập địa chỉ của trang web bạn muốn quản lý và sau đó nhấp vào Chặn hoặc Cho phép.
 
 ## Site Permissions - Autoplay
 

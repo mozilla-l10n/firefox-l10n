@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Bảo mật">
-<!ENTITY securityTab.label "Bảo mật">
-<!ENTITY securityHeading.label "Để gửi và nhận thư mật hóa hoặc có chữ kí, bạn cần phải xác định cả chứng thư chữ kí điện tử lẫn chứng thư mật hóa.">
-<!ENTITY encryptionGroupTitle.label "Mật hóa">
-<!ENTITY encryptionChoiceLabel.label "Thiết lập mật hóa mặc định khi gửi thư:">
-<!ENTITY neverEncrypt.label "Không bao giờ (không dùng mật hóa)">
-<!ENTITY neverEncrypt.accesskey "K">
-<!ENTITY alwaysEncryptMessage.label "Bắt buộc (không thể gửi thư trừ khi tất cả người nhận đều có chứng chỉ)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Dùng chứng thư này để mã hóa &amp; giải mã thư được gửi tới bạn:">
-
 <!ENTITY digitalSign.certificate.button "Chọn…">
 <!ENTITY digitalSign.certificate.accesskey "C">
 <!ENTITY digitalSign.certificate_clear.button "Xóa trắng">
@@ -22,15 +11,7 @@
 <!ENTITY encryption.certificate_clear.button "Xóa trắng">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Chữ kí Điện tử">
-<!ENTITY signMessage.label "Kí thư (mặc định)">
 <!ENTITY signMessage.accesskey "h">
-<!ENTITY signingCert.message "Dùng chứng thư này để kí thư mà bạn gửi đi:">
-
-<!ENTITY certificates.label "Chứng chỉ">
-<!ENTITY manageCerts2.label "Quản lý chứng chỉ">
-<!ENTITY manageCerts2.accesskey "M">
-<!ENTITY manageDevices.label "Thiết bị Bảo mật">
-<!ENTITY manageDevices.accesskey "B">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Chọn chứng chỉ">

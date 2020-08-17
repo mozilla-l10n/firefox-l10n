@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Nguồn dữ liệu ping:
-about-telemetry-show-current-ping-data = Dữ liệu ping hiện tại
 about-telemetry-show-current-data = Dữ liệu hiện tại
 about-telemetry-show-archived-ping-data = Dữ liệu ping đă lưu trữ
 about-telemetry-show-subsession-data = Hiển thị dữ liệu phụ
@@ -70,7 +69,6 @@ about-telemetry-settings-explanation = Telemetry đang thu thập { about-teleme
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Mỗi thông tin được gửi kèm theo vào “<a data-l10n-name="ping-link">ping</a>”. Bạn đang xem ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Mỗi thông tin được gửi kèm theo vào “<a data-l10n-name="ping-link">ping</a>”. Bạn đang xem ping hiện tại.
 about-telemetry-data-details-current = Mỗi thông tin được gửi kèm theo vào “<a data-l10n-name="ping-link">ping</a>”. Bạn đang xem dữ liệu hiện tại.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -96,8 +94,6 @@ about-telemetry-no-search-results-all = Xin lỗi! Không có kết quả trong 
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Xin lỗi! Hiện tại không có dữ liệu có sẵn trong “{ $sectionName }”
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping hiện tại
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = dữ liệu hiện tại
 # used in the “Ping Type” select

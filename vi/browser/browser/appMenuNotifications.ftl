@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Quản lý tiện ích của bạn bằng c
 appmenu-addon-post-install-incognito-checkbox =
     .label = Cho phép tiện ích mở rộng này chạy trong cửa sổ riêng tư
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = Thay đổi tiện ích mở rộng trong cửa sổ riêng tư
-    .buttonlabel = Quản lí tiện ích
-    .buttonaccesskey = M
-    .secondarybuttonlabel = OK, đã hiểu
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Bất kỳ tiện ích mở rộng mới nào bạn thêm vào { -brand-shorter-name } sẽ không chạy trong cửa sổ riêng tư trừ khi bạn cho phép điều này trong cài đặt.
-appmenu-addon-private-browsing-learn-more = Tìm hiểu cách quản lý cài đặt tiện ích mở rộng.
     
 appmenu-new-tab-controlled =
     .label = Thẻ mới của bạn đã bị thay đổi.

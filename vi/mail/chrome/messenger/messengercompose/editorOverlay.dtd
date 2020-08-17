@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Dán mà không cần định dạng">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Dán dưới dạng">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Dán dưới dạng trích dẫn">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Tìm…">
-<!ENTITY findReplaceCmd.label "Tìm và thay thế…">
-<!ENTITY enableInlineSpellChecker.label "Kiểm tra chính tả khi bạn nhập">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Kiểm tra chính tả…">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Chèn">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Nội dung">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Thuộc tính nâng cao">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Căn chỉnh">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Hai bên">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Căn hai bên">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Lớp">
-<!ENTITY layerSendToBack.tooltip "Đưa ra sau">
-<!ENTITY layerBringToFront.tooltip "Đưa ra trước">
 
 <!ENTITY increaseIndent.label "Tăng lề">
 <!ENTITY increaseIndent.accesskey "I">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Thuộc tính bảng…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Thanh trình đơn">
-<!ENTITY formatToolbar.tooltip "Thanh định dạng">
-<!ENTITY cutToolbarCmd.tooltip "Cắt">
-<!ENTITY copyToolbarCmd.tooltip "Sao chép">
-<!ENTITY pasteToolbarCmd.tooltip "Dán">
-<!ENTITY printToolbarCmd.label "In">
-<!ENTITY printToolbarCmd.tooltip "In trang này">
-<!ENTITY findToolbarCmd.label "Tìm">
-<!ENTITY findToolbarCmd.tooltip "Tìm văn bản trong trang">
-<!ENTITY spellToolbarCmd.label "Chính tả">
-<!ENTITY spellToolbarCmd.tooltip "Kiểm tra chính tả của phần đã chọn hoặc toàn bộ trang">
-
 <!ENTITY imageToolbarCmd.label "Hình">
 <!ENTITY imageToolbarCmd.tooltip "Chèn hình mới hoặc chỉnh sửa thuộc tính của hình">
 <!ENTITY hruleToolbarCmd.label "Đ.Ngang">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Chèn neo mới hoặc chỉnh sửa thuộc tính của neo được chọn">
 <!ENTITY TextColorButton.tooltip "Chọn màu chữ">
 <!ENTITY BackgroundColorButton.tooltip "Chọn màu nền">
-<!ENTITY throbber.tooltip2 "Truy cập trang chủ &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Chọn màu tô đậm văn bản">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Đặt cỡ chữ">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Căn vào giữa">
 <!ENTITY alignRightButton.tooltip "Căn theo lề phải">
 <!ENTITY alignJustifyButton.tooltip "Căn theo hai bên lề">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Chọn">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "Xóa thẻ">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "Thay đổi thẻ">
-<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Chèn">

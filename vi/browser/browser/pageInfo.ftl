@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Lưu thành…
     .accesskey = h
-media-preview =
-    .value = Xem trước:
 
 perm-tab =
     .label = Quyền hạn
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Có, cookie
 security-site-data-no = Không
 
 image-size-unknown = Không rõ
-not-set-verified-by = Không được chỉ định
 page-info-not-specified =
     .value = Không được chỉ định
 not-set-alternative-text = Không được chỉ định
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Chế độ Quirks
 general-strict-mode =
     .value = Chế độ chuẩn
-security-no-owner = Trang web này không cung cấp thông tin về người sở hữu.
 page-info-security-no-owner =
     .value = Trang web này không cung cấp thông tin về người sở hữu.
 media-select-folder = Chọn một thư mục để lưu hình ảnh

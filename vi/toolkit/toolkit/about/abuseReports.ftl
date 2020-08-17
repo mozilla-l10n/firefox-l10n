@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Hủy
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Gây hư hại cho máy tính và dữ liệu của tôi
-
 abuse-report-damage-reason-v2 = Nó làm hỏng máy tính của tôi hoặc làm hỏng dữ liệu của tôi
 abuse-report-damage-example = Ví dụ: bị nhiễm phần mềm độc hại hay đánh cắp dữ liệu
 
-abuse-report-spam-reason = Tạo thư rác hoặc quảng cáo
-
 abuse-report-spam-reason-v2 = Nó chứa thư rác hoặc chèn quảng cáo không mong muốn
 abuse-report-spam-example = Ví dụ: chèn quảng cáo trên các trang web
-
-abuse-report-settings-reason = Đã thay đổi công cụ tìm kiếm, trang chủ hoặc thẻ mới của tôi mà không thông báo hoặc hỏi tôi
 
 abuse-report-settings-reason-v2 = Nó đã thay đổi công cụ tìm kiếm, trang chủ hoặc thẻ mới của tôi mà không thông báo hoặc hỏi tôi
 abuse-report-settings-suggestions = Trước khi báo cáo tiện ích mở rộng, bạn có thể thử thay đổi cài đặt của mình:
 abuse-report-settings-suggestions-search = Thay đổi cài đặt tìm kiếm mặc định của bạn
 abuse-report-settings-suggestions-homepage = Thay đổi trang chủ và thẻ mới của bạn
 
-abuse-report-deceptive-reason = Giả mạo một cái gì đó
-
 abuse-report-deceptive-reason-v2 = Nó tuyên bố là một cái gì đó mà nó không làm
 abuse-report-deceptive-example = Ví dụ: phần mô tả hoặc hình ảnh gây hiểu lầm
-
-abuse-report-broken-reason-extension = Không hoạt động, phá vỡ trang web, hoặc làm chậm { -brand-product-name }
-abuse-report-broken-reason-theme = Không hoạt động hoặc hiển thị không đúng
 
 abuse-report-broken-reason-extension-v2 = Nó không hoạt động, phá vỡ các trang web hoặc làm chậm { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nó không hoạt động hoặc phá vỡ cách trình duyệt hiển thị
@@ -99,15 +88,11 @@ abuse-report-broken-suggestions-theme =
     để giải quyết vấn đề là liên hệ với nhà phát triển chủ đề.
     <a data-l10n-name="support-link">Truy cập trang web chủ đề của</a> để lấy thông tin nhà phát triển.
 
-abuse-report-policy-reason = Nội dung gây khó chịu, bạo lực hoặc bất hợp pháp
-
 abuse-report-policy-reason-v2 = Nó chứa nội dung thù địch, bạo lực hoặc bất hợp pháp
 abuse-report-policy-suggestions =
     Lưu ý: Các vấn đề về bản quyền và nhãn hiệu phải được báo cáo trong một quy trình riêng.
     <a data-l10n-name="report-infringement-link">Sử dụng các hướng dẫn này</a> để
     báo cáo vấn đề.
-
-abuse-report-unwanted-reason = Không bao giờ muốn phần mở rộng này và không thể loại bỏ nó
 
 abuse-report-unwanted-reason-v2 = Tôi không bao giờ muốn nó và không biết làm thế nào để thoát khỏi nó
 abuse-report-unwanted-example = Ví dụ: Một ứng dụng đã cài đặt nó mà không có sự cho phép của tôi

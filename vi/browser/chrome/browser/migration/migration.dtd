@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Nhập các tùy chọn, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:">
 <!ENTITY importFromUnix.label           "Nhập các tùy chỉnh, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:">
-<!ENTITY importFromBookmarks.label      "Nhập các dấu trang từ:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "I">

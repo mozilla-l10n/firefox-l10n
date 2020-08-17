@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Tên và vị trí nguồn của hàm được lấy mẫu.">
 <!ENTITY performanceUI.table.totalAlloc               "Tổng số phân bố mẫu">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Tổng số lượng mẫu tại vị trí này và các đối tượng được gọi.">
-<!ENTITY performanceUI.table.selfAlloc                "Bản thân phân bổ mẫu">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Số lượng phân bổ đối tượng được lấy mẫu tại vị trí này.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

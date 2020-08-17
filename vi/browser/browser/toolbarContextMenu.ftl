@@ -17,9 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Chọn tất cả các thẻ
     .accesskey = S
-toolbar-context-menu-undo-close-tab =
-    .label = Mở lại thẻ vừa đóng
-    .accesskey = U
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -27,18 +24,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Mở lại các thẻ vừa đóng
         }
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = Quản lí tiện ích
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Xóa tiện ích mở rộng
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Báo cáo tiện ích mở rộng
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

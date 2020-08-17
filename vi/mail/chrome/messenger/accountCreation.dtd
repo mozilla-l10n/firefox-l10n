@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Thiết lập tài khoản email hiện có">
-
 <!ENTITY emailWizard.title               "Thiết lập địa chỉ email hiện tại của bạn">
 <!ENTITY emailWizard.caption             "Sử dụng địa chỉ email hiện tại của bạn">
 <!ENTITY name.label                      "Tên của bạn:">
 <!ENTITY name.accesskey                  "T">
-<!ENTITY name.placeholder                "Tên Họ">
 <!ENTITY fullname.placeholder            "Tên đầy đủ của bạn">
 <!ENTITY name.text                       "Tên của bạn, cho người khác thấy">
 <!ENTITY name.error                      "Vui lòng nhập tên của bạn">
 <!ENTITY email.label                     "Địa chỉ email:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Địa chỉ email của bạn">
 <!ENTITY email.text                      "Địa chỉ thư điện tử hiện tại của bạn">
 <!ENTITY email.error                     "Địa chỉ email không hợp lệ">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Đi:">
 <!ENTITY outgoingColumn.label            "Hộp thư đi">
 <!ENTITY username.label                  "Tên đăng nhập:">
-<!ENTITY hostname.label                  "Tên máy chủ">
-<!ENTITY port.label                      "Cổng">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Máy chủ:">
 <!ENTITY portRow.label                   "Cổng:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Kiểm tra lại">
 <!ENTITY half-manual-test.accesskey      "K">
-<!ENTITY manual-edit.label               "Cấu hình thủ công">
-<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Cấu hình thủ công…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Tạo địa chỉ email mới…">

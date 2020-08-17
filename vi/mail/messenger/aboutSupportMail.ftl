@@ -14,5 +14,7 @@ accounts-conn-security = Bảo mật kết nối
 accounts-auth-method = Phương thức xác thực
 accounts-default = Mặc định?
 identity-name = Danh tính
+
 send-via-email = Gửi qua email
+
 app-basics-telemetry = Dữ liệu từ xa
