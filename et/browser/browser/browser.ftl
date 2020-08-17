@@ -101,6 +101,8 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = Sisesta vähem, leia rohkem: otsi otsingumootoriga { $engineName } otse oma aadressiribalt.
 
+## Local search mode indicator labels in the urlbar
+
 ##
 
 urlbar-geolocation-blocked =
@@ -173,6 +175,13 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Määra vaikeotsingumootoriks
     .accesskey = M
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
 
 ## Bookmark Panel
 
@@ -263,8 +272,10 @@ popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Otsi või sisesta aadress
+
 urlbar-placeholder =
     .placeholder = Otsi või sisesta aadress
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Veebilehitseja on kaugjuhtimisel
 urlbar-permissions-granted =

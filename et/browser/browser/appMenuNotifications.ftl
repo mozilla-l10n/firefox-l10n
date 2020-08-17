@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = Halda oma laiendusi, klõpsates nupul <imag
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sellel laiendusel lubatakse käivituda privaatsetes akendes
     .accesskey = S
-appmenu-addon-private-browsing =
-    .label = Laienduste kasutamises privaatsetes akendes on toimunud muutus
-    .buttonlabel = Halda laiendusi
-    .buttonaccesskey = H
-    .secondarybuttonlabel = Olgu, sain aru
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Uued { -brand-shorter-name }ile lisatud laiendused ei tööta privaatsetes akendes seni, kuni see pole laienduse sätetes lubatud.
-appmenu-addon-private-browsing-learn-more = Rohkem teavet laienduse sätete haldamise kohta
     
 appmenu-new-tab-controlled =
     .label = Uue kaardi sisu on muutunud.

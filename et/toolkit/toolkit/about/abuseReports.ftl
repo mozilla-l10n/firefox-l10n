@@ -52,36 +52,21 @@ abuse-report-messagebar-action-cancel = Loobu
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Kahjustab minu arvutit ja andmeid
-
 abuse-report-damage-example = Näide: paigaldas pahavara või varastas andmeid
 
-abuse-report-spam-reason = Loob rämpsposti või reklaame
-
 abuse-report-spam-example = Näide: lisab veebilehtedele reklaame
-
-abuse-report-settings-reason = Muutis minu otsingumootorit, avalehte või uue kaardi lehte ilma mind informeerimata või luba küsimata
 
 abuse-report-settings-suggestions = Enne laiendusest raporteerimist võid proovida muuta oma sätteid:
 abuse-report-settings-suggestions-search = Muuda oma vaikimisi otsingu sätteid
 abuse-report-settings-suggestions-homepage = Muuda oma avalehte ja uue kaardi lehte
 
-abuse-report-deceptive-reason = Väidab olevat end miski, mida see pole
-
 abuse-report-deceptive-example = Näide: eksitav kirjeldus või pildid
-
-abuse-report-broken-reason-extension = Ei tööta, lõhub veebilehti või aeglustab { -brand-product-name }i
-abuse-report-broken-reason-theme = Ei tööta või teeb brauseri kuvamise katki
 
 abuse-report-broken-example = Näide: funktsionaalsused on aeglased, raskesti kasutatavad või ei tööta; mõned veebilehed ei laadi või näevad välja ebatavalised
 abuse-report-broken-suggestions-extension = Tundub, et oled tuvastanud vea. Lisaks selle raporti saatmisele on parim viis funktsionaalsuse probleemide lahendamiseks võtta ühendust selle laienduse arendajaga. Arendaja kontaktide leidmiseks <a data-l10n-name="support-link">külasta laienduse veebilehte</a>.
 abuse-report-broken-suggestions-theme = Tundub, et oled tuvastanud vea. Lisaks selle raporti saatmisele on parim viis funktsionaalsuse probleemide lahendamiseks võtta ühendust selle teema arendajaga. Arendaja kontaktide leidmiseks <a data-l10n-name="support-link">külasta teema veebilehte</a>.
 
-abuse-report-policy-reason = Viha õhutav, vägivaldne või ebaseaduslik sisu
-
 abuse-report-policy-suggestions = Märkus: autoriõigusi ja kaubamärke puudutavad probleemid tuleb raporteerida eraldi. Kasuta probleemist raporteerimiseks <a data-l10n-name="report-infringement-link">neid juhiseid</a>.
-
-abuse-report-unwanted-reason = Pole seda laiendust tahtnud ja ei saa sellest lahti
 
 abuse-report-unwanted-example = Näide: rakendus paigaldas selle lisa ilma luba küsimata
 

@@ -52,7 +52,6 @@ protections-panel-not-found-label = Ei tuvastatud
 ##
 
 protections-panel-settings-label = Kaitse sätted
-protections-panel-showreport-label = Vaata raportit
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

@@ -107,7 +107,6 @@ proxyResolveFailure-title = Ei leitud puhverserverit
 redirectLoop-title = Veebileht pole korralikult ümber suunatud
 unknownSocketType-title = Ootamatu vastus serverilt
 nssFailure2-title = Turvalise ühenduse viga
-cspBlocked-title = Blokitud sisu kaitsva turvareegliga
 corruptedContentError-title = Vigane sisu
 remoteXUL-title = Remote XUL
 sslv3Used-title = Turvaline ühendumine pole võimalik

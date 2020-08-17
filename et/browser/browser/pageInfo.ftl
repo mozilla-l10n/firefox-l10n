@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Salvesta kui...
     .accesskey = e
-media-preview =
-    .value = Meediafaili eelvaatlus:
 
 perm-tab =
     .label = Õigused
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Jah, küpsiseid
 security-site-data-no = Ei
 
 image-size-unknown = Tundmatu
-not-set-verified-by = Määramata
 page-info-not-specified =
     .value = Määramata
 not-set-alternative-text = Määramata
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Lodev režiim
 general-strict-mode =
     .value = Standardipõhine režiim
-security-no-owner = Sellel lehel puudub omaniku info.
 page-info-security-no-owner =
     .value = Sellel lehel puudub omaniku info.
 media-select-folder = Vali kaust, kuhu pilt salvestada

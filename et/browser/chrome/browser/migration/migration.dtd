@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Sätete, järjehoidjate, ajaloo, paroolide ja muude andmete importimine rakendusest:">
 <!ENTITY importFromUnix.label           "Eelistuste, järjehoidjate, ajaloo, paroolide ja muude andmete importimine rakendusest:">
-<!ENTITY importFromBookmarks.label      "Järjehoidjate importimine rakendusest:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

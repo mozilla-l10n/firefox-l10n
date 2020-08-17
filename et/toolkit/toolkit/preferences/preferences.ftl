@@ -14,6 +14,7 @@ pw-erased-ok = Sa kustutasid oma ülemparooli. { pw-empty-warning }
 pw-not-wanted = Hoiatus! Sa otsustasid ülemparooli kasutamisest loobuda. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Sa oled FIPS režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
+
 pw-change-success-title = Parooli muutmine õnnestus
 pw-change-failed-title = Parooli muutmine nurjus
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Ülemparooli muutmine
+
 set-password-old-password = Praegune parool:
 set-password-new-password = Sisesta uus parool:
 set-password-reenter-password = Sisesta parool veel kord:
@@ -31,6 +33,7 @@ master-password-warning = Palun tee kindlaks, et mäletad parooli, mille sisesta
 
 remove-password =
     .title = Ülemparooli eemaldamine
+
 remove-info =
     .value = Jätkamiseks pead sa sisestama oma praeguse parooli:
 remove-warning1 = Ülemparooli kasutatakse salajaste andmete, näiteks veebilehtede paroolide kaitseks.

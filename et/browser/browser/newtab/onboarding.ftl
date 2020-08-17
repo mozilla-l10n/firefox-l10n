@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Rohkem teavet
-onboarding-button-label-try-now = Proovi kohe
 onboarding-button-label-get-started = Tee algust
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = Tere tulemast { -brand-short-name }i
 onboarding-welcome-body = Sul on nüüd brauser olemas.<br/>Tutvu ülejäänud { -brand-product-name }iga.
 onboarding-welcome-learn-more = Rohkem teavet eeliste kohta.
 
-onboarding-join-form-header = Liitu { -brand-product-name }iga
 onboarding-welcome-modal-get-body = Sul on nüüd brauser olemas.<br/>On aeg { -brand-product-name }ist viimast võtta.
 onboarding-welcome-modal-supercharge-body = On aeg privaatsuse kaitse uuele tasemele viia.
 onboarding-welcome-modal-privacy-body = Sul on brauser olemas. Nüüd lisame sellele veel täiustatuma privaatsuse kaitse.
@@ -41,6 +39,13 @@ onboarding-start-browsing-button-label = Alusta veebilehitsemist
 onboarding-cards-dismiss =
     .title = Peida
     .aria-label = Peida
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -65,14 +70,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name }iga jätkamiseks
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Kasulikud tooted
-
 onboarding-benefit-products-text = Aja kõik asjad korda meie Mozilla tööriistadega, mis hindavad sinu privaatsust kõigis sinu seadmetes.
-
-onboarding-benefit-knowledge-title = Praktilised teadmised
-onboarding-benefit-knowledge-text = Omanda teadmisi viisidest, kuidas internetis targemalt ja ohutumalt tegutseda.
-
-onboarding-benefit-privacy-title = Tõeline privaatsus
 
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -99,22 +97,6 @@ onboarding-benefit-lockwise-text = Halda paroole kaitstult ja kaasaskantavalt.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Privaatne veebilehitsemine
-onboarding-private-browsing-text = Lehitse veebi privaatselt. Sisu blokkimisega privaatse veebilehitsemise režiimis blokitakse jälitajad, kes järgnevad sulle igal pool veebis.
-
-onboarding-screenshots-title = Ekraanipildid
-onboarding-screenshots-text = Tee, salvesta ja jaga ekraanipilte - ilma { -brand-short-name }ist lahkumata. Pildista ühte piirkonda või tervet veebilehte. Siis salvesta see veebis kiireks ligipääsemiseks ja jagamiseks.
-
-onboarding-addons-title = Lisad
-onboarding-addons-text = Lisa { -brand-short-name }ile rohkem funktsionaalsust, et ta töötaks sinu jaoks efektiivsemalt. Võrdle hindu, kontrolli ilma või väljenda oma isiksust kohandatud teemaga.
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Lehitse veebi kiiremini, targemini või ohutumalt laiendustega nagu Ghostery, mis lubavad sul blokkida tüütuid reklaame.
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sync
-onboarding-fxa-text = Loo { -fxaccount-brand-name } konto ja sünkroniseeri oma järjehoidjad, paroolid ning avatud kaardid kõikjale, kus kasutad { -brand-short-name }i.
-
 onboarding-tracking-protection-title2 = Jälitamisvastane kaitse
 onboarding-tracking-protection-text2 = { -brand-short-name } aitab takistada sinu tegevuse jälitamist internetis, tehes reklaamidel sinu järgimise võrgus keerulisemaks.
 onboarding-tracking-protection-button2 = Kuidas see töötab?
@@ -125,7 +107,6 @@ onboarding-data-sync-text2 = Sünkroniseeri oma järjehoidjad, paroolid ja muud 
 onboarding-data-sync-button2 = Logi { -sync-brand-short-name }i sisse
 
 onboarding-firefox-monitor-title = Hoia end kursis andmeleketega
-onboarding-firefox-monitor-text = { -monitor-brand-name } monitoorib sinu e-posti aadressi esinemist andmeleketes ja annab teada, kui sinu aadress leitakse mõnest lekkest.
 onboarding-firefox-monitor-button = Telli hoiatused
 
 onboarding-browse-privately-title = Lehitse veebi privaatselt
@@ -143,18 +124,11 @@ onboarding-mobile-phone-text = Laadi alla { -brand-product-name } iOSile või An
 onboarding-mobile-phone-button = Laadi alla mobiilne brauser
 
 onboarding-send-tabs-title = Saada seadmete vahel kaarte kohe
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text = Kaartide saatmine seadmete vahel on kohene, nii et sa ei pea vahepeal linke kopeerima ja brauserist väljuma.
 onboarding-send-tabs-button = Alusta kaartide seadmete vahel saatmisega
 
 onboarding-pocket-anywhere-title = Loe ja kuula kõikjal
 onboarding-pocket-anywhere-text2 = Salvesta oma lemmik sisu rakendusega { -pocket-brand-name }, et saaksid seda lugeda, kuulata või vaadata sulle mugaval ajal, kas või ilma internetita.
 onboarding-pocket-anywhere-button = Proovi { -pocket-brand-name }it
-
-onboarding-lockwise-passwords-title = Võta oma paroolid kõikjale kaasa
-onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } hoiab sinu salvestatud paroole turvaliselt, et saaksid oma kontodesse lihtsalt sisse logida.
-onboarding-lockwise-passwords-button2 = Hangi rakendus
 
 onboarding-facebook-container-title = Määra Facebookile piirid
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } hoiab sinu profiili eraldi kõigest muust, tehes Facebookil sulle suunatud reklaamide kuvamise keerulisemaks.

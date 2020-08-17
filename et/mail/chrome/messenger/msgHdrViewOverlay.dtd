@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arhiveeri">
 <!ENTITY hdrArchiveButton1.tooltip "Arhiveeri see kiri">
-<!ENTITY hdrOpenConversationButton1.label "Vestlus">
-<!ENTITY hdrOpenConversationButton1.tooltip "Kuva selle kirja vestlust">
 <!ENTITY hdrSmartReplyButton1.label "Tark vastamine">
 <!ENTITY hdrReplyButton1.label "Vasta">
 <!ENTITY hdrReplyButton2.tooltip "Vasta selle kirja saatjale">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Vasta meililistile">
 <!ENTITY hdrFollowupButton1.label "Vasta uudistegruppi">
 <!ENTITY hdrFollowupButton1.tooltip "Postita vastus sellesse uudistegruppi">
-<!ENTITY hdrMenuForwardButton.label "Edasta">
 <!ENTITY hdrForwardButton1.label "Edasta">
 <!ENTITY hdrForwardButton1.tooltip "Edasta see kiri">
 <!ENTITY hdrJunkButton1.label "Märgi rämpsuks">

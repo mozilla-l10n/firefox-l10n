@@ -77,15 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Nõutud dokument pole brauseri vahemälus saadaval.</p><ul><li>Turvalisuse ettevaatusabinõuna ei laadi brauser tundliku infoga dokumente automaatselt uuesti.</li><li>Klõpsa Proovi uuesti, et hankida dokumendi sisu veebilehelt uuesti.</li></ul>">
 
 <!ENTITY netOffline.title "Võrguta režiim">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Vajuta &quot;Proovi uuesti&quot;, et lülituda võrgurežiimi ning laadida leht uuesti.
-    <button id='wifi'>Luba Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Sisu kodeeringu viga">
 <!ENTITY contentEncodingError.longDesc "

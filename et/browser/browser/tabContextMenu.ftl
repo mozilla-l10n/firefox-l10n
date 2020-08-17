@@ -53,9 +53,9 @@ move-to-end =
 move-to-new-window =
     .label = Liiguta uude aknasse
     .accesskey = k
-undo-close-tab =
-    .label = Võta kaardi sulgemine tagasi
-    .accesskey = g
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Sulge kaart
     .accesskey = S

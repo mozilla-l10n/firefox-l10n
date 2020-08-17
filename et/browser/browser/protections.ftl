@@ -20,21 +20,6 @@ graph-total-tracker-summary =
        *[other] Alates { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } on blokitud <b>{ $count }</b> jälitajat
     }
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Kaitsetasemeks on määratud <b>Tavaline</b>
-    .title = Ava privaatsuse sätted
-protection-report-header-details-strict = Kaitsetasemeks on määratud <b>Range</b>
-    .title = Ava privaatsuse sätted
-protection-report-header-details-custom = Kaitsetasemeks on määratud <b>Kohandatud</b>
-    .title = Ava privaatsuse sätted
-protection-report-page-title = Privaatsuse kaitse
-protection-report-content-title = Privaatsuse kaitse
-
-etp-card-title = Täiustatud jälitamisvastane kaitse
-etp-card-content = Jälitajad järgnevad sulle kõikjal veebis, et koguda andmeid sinu lehitsemisharjumuste ja huvide kohta. { -brand-short-name } blokib paljud neist jälitajatest ja ka muud pahatahtlikud skriptid.
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Täna
@@ -58,20 +43,8 @@ cryptominer-tab-title = Krüptorahakaevurid
 cryptominer-tab-content = Krüptorahakaevurid kasutavad sinu süsteemi arvutusressursse digitaalse raha kaevandamiseks. Krüptoraha kaevandamise skriptid tühjendavad sinu seadme akut, aeglustavad sinu arvutit ja suurendavad sinu elektriarvet. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
   
 lockwise-title = Lõpp paroolide unustamisele
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } salvestab paroolid turvaliselt sinu brauseris.
 lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
-protection-report-view-logins-button = Vaata kasutajakontosid
-    .title = Ava salvestatud kasutajakontod
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] turvaliselt salvestatud parool <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab?</a>
-       *[other] turvaliselt salvestatud parooli <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab?</a>
-    }
 
 turn-on-sync = Lülita { -sync-brand-short-name } sisse…
     .title = Ava sünkroniseerimise sätted
@@ -80,7 +53,6 @@ monitor-title = Hoia end kursis andmeleketega
 monitor-link = Kuidas see töötab?
 monitor-header-content-no-account = Kontrolli { -monitor-brand-name }i, et näha, kas sinu andmed leiduvad mõnes teadaolevas andmelekkes ja saa hoiatusi uute lekete kohta.
 monitor-header-content-signed-in = { -monitor-brand-name } hoiatab, kui sinu andmed ilmnevad mõnes teadaolevas andmelekkes.
-monitor-sign-up = Telli lekkehoiatused
 auto-scan = Täna automaatselt skanneeritud
 
 # This string is displayed after a large numeral that indicates the total number
@@ -108,17 +80,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] parool on paljastatud kõigi lekete tõttu
        *[other] parooli on paljastatud kõigi lekete tõttu
-    }
-
-full-report-link = Vaata kogu raportit <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }ist</a>
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] salvestatud kasutajakonto andmed võivad olla lekkinud. Parema turvalisuse nimel muuda selle konto parool. <a data-l10n-name="lockwise-link">Vaata salvestatud kasutajakontosid</a>
-       *[other] salvestatud kasutajakonto andmed võivad olla lekkinud. Parema turvalisuse nimel muuda nende kontode paroolid. <a data-l10n-name="lockwise-link">Vaata salvestatud kasutajakontosid</a>
     }
 
 ## The title attribute is used to display the type of protection.

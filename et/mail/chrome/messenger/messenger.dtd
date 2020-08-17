@@ -521,17 +521,6 @@
 <!ENTITY errorConsoleCmd.label "Vigade konsool">
 <!ENTITY errorConsoleCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Scratchpad">
-<!ENTITY scratchpadCmd.accesskey "S">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Tõmba kirjad">
@@ -585,7 +574,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Edasta valitud kiri manusena">
 <!ENTITY fileButton.tooltip "Salvesta valitud kiri">
 <!ENTITY archiveButton.tooltip "Arhiveeri valitud kirjad">
-<!ENTITY openConversationButton.tooltip "Kuva valitud kirja vestlust">
 <!ENTITY openMsgConversationButton.tooltip "Kuva valitud kirja vestlust">
 <!ENTITY nextButton.tooltip "Kuva järgmist lugemata kirja">
 <!ENTITY nextMsgButton.tooltip "Kuva järgmist kirja">
