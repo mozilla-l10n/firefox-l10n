@@ -7,16 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Jirhinhakurhipantani)">
-
-
 <!-- Tab context menu -->
 
 
@@ -27,9 +17,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "Xeparini arhukutarakuani">
-<!ENTITY  pinTab.accesskey                   "X">
 <!ENTITY  unpinTab.label                     "Arhukutarakua p´íkuntani">
-<!ENTITY  unpinTab.accesskey                 "p">
 
 
 
@@ -39,24 +27,11 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Xarhatani iámenduecha ma iorhukua">
 
 <!ENTITY tabCmd.label "Jimbanhi iorhukua">
-<!ENTITY tabCmd.accesskey "i">
-<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Patsarini míta…">
-<!ENTITY openFileCmd.accesskey "P">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Sési kantsanharita…">
-<!ENTITY printSetupCmd.accesskey "n">
-<!ENTITY printPreviewCmd.label "Nena xarhanharhitaa xirantarhu">
-<!ENTITY printPreviewCmd.accesskey "N">
 <!ENTITY printCmd.label "Uéchatantsï…">
-<!ENTITY printCmd.accesskey "U">
-<!ENTITY printCmd.commandkey "p">
-
-<!ENTITY goOfflineCmd.label "Áxï kuparhakutini ánchikúrhi">
-<!ENTITY goOfflineCmd.accesskey "Á">
 
 <!ENTITY menubarCmd.label "Anchikurhitecha">
 <!ENTITY menubarCmd.accesskey "A">
@@ -71,27 +46,7 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY pageSourceCmd.label "Iri eranharhikuakarakata">
-<!ENTITY pageSourceCmd.accesskey "I">
-<!ENTITY pageSourceCmd.commandkey "u">
-
-<!ENTITY pageInfoCmd.label "Arhintsï ampenkari exeni jaka">
-<!ENTITY pageInfoCmd.accesskey "A">
-<!ENTITY pageInfoCmd.commandkey "i">
-
-
-<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
-These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Yamu eranharhita">
-<!ENTITY enterFullScreenCmd.accesskey "Y">
-<!ENTITY exitFullScreenCmd.label "Sapinharhitansï mentaru">
-<!ENTITY exitFullScreenCmd.accesskey "S">
-
 <!ENTITY fullScreenCmd.label "Uininharhitantsï">
-<!ENTITY fullScreenCmd.accesskey "U">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Xarhatani iámenduecha ma iorhukua">
-<!ENTITY showAllTabsCmd.accesskey "i">
 
 
 
@@ -99,13 +54,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY fullScreenMinimize.tooltip "Sapinharhitani">
-<!ENTITY fullScreenRestore.tooltip "Péntani méntaru">
-
-<!ENTITY fullScreenAutohide.label "Achitarakuechani kéntitaani">
-<!ENTITY fullScreenAutohide.accesskey "A">
-<!ENTITY fullScreenExit.label "Sapinharhitansï">
-<!ENTITY fullScreenExit.accesskey "S">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -119,8 +67,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY leaveDOMFullScreen.label "Sapinharhitant'ani">
-<!ENTITY leaveDOMFullScreen.accesskey "S">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
@@ -131,18 +77,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY closeWindow.label "Míkani mikua">
-<!ENTITY closeWindow.accesskey "m">
-
-<!ENTITY bookmarksMenu.label "Kuirunharitarakuecha">
-<!ENTITY bookmarksMenu.accesskey "K">
-
-
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-
-<!ENTITY addCurPagesCmd.label "&amp;Arhukutarhakuechani kúparata arhistakuecharhu…">
-
 <!ENTITY showAllBookmarks2.label "Xarhatani iámenduecha kuirunharitarakuecha">
 
 
@@ -152,17 +86,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY backButton.tooltip           "Junguani ma eranharikua">
-
-<!ENTITY forwardButton.tooltip        "Uanajchakuni ma eranharhikua">
-<!ENTITY backForwardButtonMenu.tooltip "Clic jiriejkantani paka xarhatooka o tsuruaskuni ionki anapu">
-<!ENTITY backForwardButtonMenuMac.tooltip "Tsuruaskuni paka xarhatooka ionki anapu">
-
-
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Arhistatsperakuecharhu motsi">
 
 <!ENTITY printButton.label            "Uéchantaa">
 <!ENTITY printButton.tooltip          "Ini karakatani uechatantsï">
@@ -198,7 +121,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Uénakua">
 
 <!ENTITY bookmarksButton.label          "Kuirunharitarakuecha">
-<!ENTITY bookmarksCmd.commandkey "b">
 
 
 
@@ -214,90 +136,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Anchitakueecha">
-<!ENTITY toolsMenu.accesskey          "c">
-
 
 
 <!ENTITY downloads.label              "Anchitarakua keskukuecha">
-<!ENTITY downloads.accesskey          "A">
-<!ENTITY downloads.commandkey         "j">
 
 <!ENTITY addons.label                 "Jukajtakuecha">
-<!ENTITY addons.accesskey             "J">
-<!ENTITY addons.commandkey            "A">
 
-
-
-<!ENTITY inspectContextMenu.label     "Miyunharikuntsï orheta">
-<!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY fileMenu.label         "Patsarakua">
-<!ENTITY fileMenu.accesskey       "P">
 
 
 <!ENTITY newNavigatorCmd.label        "Eraatarakua jimpani">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "E">
 <!ENTITY newPrivateWindow.label     "Juchiiti eraatarakua jimpani">
-<!ENTITY newPrivateWindow.accesskey "j">
 
 
 <!ENTITY editMenu.label         "Kunharhitani">
-<!ENTITY editMenu.accesskey       "K">
-<!ENTITY undoCmd.label            "Xerentsï">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "X">
-<!ENTITY redoCmd.label            "ÚntsÏ">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "Ú">
-<!ENTITY cutCmd.label           "Akuarhetani">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "a">
 
 
 
-<!ENTITY pasteCmd.label           "Matani">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "M">
-<!ENTITY deleteCmd.label          "Xerentani">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "X">
-<!ENTITY selectAllCmd.label         "Erakuni iámendu">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "i">
 <!ENTITY preferencesCmd2.label       "Erakuani">
-<!ENTITY preferencesCmd2.accesskey     "E">
 <!ENTITY preferencesCmdUnix.label       "Sánteru xénchakuecha">
-<!ENTITY preferencesCmdUnix.accesskey     "S">
-
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "Exeni">
-<!ENTITY viewMenu.accesskey       "E">
-<!ENTITY viewToolbarsMenu.label       "Anchitakua marhuatakueecha">
-<!ENTITY viewToolbarsMenu.accesskey     "m">
-<!ENTITY viewSidebarMenu.label "Mananharitarakua">
-<!ENTITY viewSidebarMenu.accesskey "M">
-
-<!ENTITY viewCustomizeToolbar.label       "Peerakurhini…">
-<!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 
 
 <!ENTITY historyMenu.label "Patsakata">
-<!ENTITY historyMenu.accesskey "P">
 <!ENTITY historyUndoMenu.label "Arustarakueecha iaiasï míkuarhekata">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-
-
-<!ENTITY showAllHistoryCmd.commandkey "H">
 
 
 
@@ -361,12 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.switchToTab.label     "Mójtakuni ma iorhukua:">
-
 
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
@@ -396,9 +252,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -410,13 +263,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -435,82 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY openLinkCmdInCurrent.label     "Mítani parhijtsïkutarakua">
-<!ENTITY openLinkCmdInCurrent.accesskey "M">
-
-
-
-
-
-
-
-
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Eratikuani uininharhitantsï">
-<!ENTITY reloadFrameCmd.accesskey     "E">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Exe i ampe nani ueraski">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Nanina karakata jarhaski i">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "Nanina ukata jarhaski i">
-<!ENTITY viewFrameSourceCmd.accesskey "N">
-<!ENTITY viewPageInfoCmd.label        "Arhintsï iri ampe">
-<!ENTITY viewPageInfoCmd.accesskey    "A">
-<!ENTITY viewFrameInfoCmd.label       "&#037;Arhintsï iri ampe">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "Eratikuani uininharhitantsï">
-<!ENTITY reloadImageCmd.accesskey     "E">
-<!ENTITY viewImageCmd.label           "Eratekua exe">
-<!ENTITY viewImageCmd.accesskey       "E">
-<!ENTITY viewImageInfoCmd.label       "Arhintsï í eratikueri ampe">
-<!ENTITY viewImageInfoCmd.accesskey   "A">
-
-
-
-
-
-
-<!ENTITY setDesktopBackgroundCmd.label      "Jimini tatsunharitantsï…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "J">
-
-<!ENTITY bookmarkThisLinkCmd.label      "kuparatani ini ch'unkutaramakuani">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Kuparatani ini anchitarakuechani">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "K">
-
 <!ENTITY emailPageCmd.label           "Axani parhijtsïkutarakua…">
-<!ENTITY emailPageCmd.accesskey       "A">
-<!ENTITY savePageCmd.label            "Patsani esïka…">
-<!ENTITY savePageCmd.accesskey        "P">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Patsani anamutakua esïka…">
-<!ENTITY saveFrameCmd.accesskey       "P">
-<!ENTITY printFrameCmd.label          "Uechatantani…">
-<!ENTITY printFrameCmd.accesskey      "U">
-<!ENTITY saveLinkCmd.label            "Patsani parhijtsïkutarakua esïka…">
-<!ENTITY saveLinkCmd.accesskey        "P">
-<!ENTITY saveImageCmd.label           "Arisï patsani p´itakatani…">
-<!ENTITY saveImageCmd.accesskey       "A">
-
-
-
-
-
-
-<!ENTITY emailVideoCmd.label          "Email Video…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-
-
-
-
-<!ENTITY playPluginCmd.label          "Íni ánxitarakuani úra">
-<!ENTITY playPluginCmd.accesskey      "Í">
-<!ENTITY hidePluginCmd.label          "Ojchakuera ini anchikurhitarakuani">
-<!ENTITY hidePluginCmd.accesskey      "O">
 
 
 
@@ -522,9 +293,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY thisFrameMenu.label              "Antiku anamutakua">
-<!ENTITY thisFrameMenu.accesskey          "a">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -536,9 +304,6 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-
-<!ENTITY mediaUnmute.label           "Kurhanguni">
-<!ENTITY mediaUnmute.accesskey       "K">
 
 
 
@@ -577,20 +342,6 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Méntaru uéntani">
-<!ENTITY fullZoomResetCmd.accesskey     "M">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
 
 
 
@@ -600,16 +351,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Uérani">
 <!ENTITY quitApplicationCmdWin2.accesskey   "U">
 
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Uérani">
 <!ENTITY quitApplicationCmd.accesskey   "U">
-
-
-
-<!ENTITY closeCmd.label                 "Mikani">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "M">
 
 
 
@@ -626,18 +369,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY dontShowMessage.accesskey "D">
-
-
-
-
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
-
-<!ENTITY findOnCmd.commandkey "f">
-
-
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
 
@@ -709,13 +440,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
-
-
-
-
-
-
-<!ENTITY syncToolbarButton.label      "Sync">
 
 
 

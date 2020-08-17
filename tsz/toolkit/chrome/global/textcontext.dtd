@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Akuarhetani">
-<!ENTITY cutCmd.accesskey "h">
-<!ENTITY copyCmd.label "Eranhekua p’itani">
-<!ENTITY copyCmd.accesskey "E">
-<!ENTITY pasteCmd.label "Manharhitani">
-<!ENTITY pasteCmd.accesskey "M">
-<!ENTITY undoCmd.label "Xerentani">
-<!ENTITY undoCmd.accesskey "X">
-<!ENTITY selectAllCmd.label "Erakuni iámendu">
-<!ENTITY selectAllCmd.accesskey "i">
-<!ENTITY deleteCmd.label "P´ikunharhiku">
-<!ENTITY deleteCmd.accesskey "P">
-
 
 
 

@@ -53,17 +53,6 @@
 
 
 
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-
-<!ENTITY cmd.new_folder.label              "Jimpani patsaratarakua…">
-<!ENTITY cmd.new_folder.accesskey          "J">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-
-
-
-
-
 <!ENTITY col.name.label          "Arikua">
 
 <!ENTITY col.url.label           "Nani exentani">

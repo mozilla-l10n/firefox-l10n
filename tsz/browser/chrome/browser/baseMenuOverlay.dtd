@@ -2,51 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Sapinharhitani">
-<!ENTITY bringAllToFront.label    "Orhepani paarani iamintu ampe">
-<!ENTITY zoomWindow.label         "jasi">
-<!ENTITY windowMenu.label         "Mikua">
 
-<!ENTITY helpMenu.label           "Jarhuajpikua"> 
-<!ENTITY helpMenu.accesskey       "a"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Jarhuajpikua"> 
-<!ENTITY helpMenuWin.accesskey    "a">
-
-
-
-
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Sóntku Anchitarakuaecha">
-<!ENTITY helpKeyboardShortcuts.accesskey "S">
-
-<!ENTITY helpSafeMode.label       "menteru uentani urani anchitarakuechani">
-<!ENTITY helpSafeMode.accesskey   "m">
-
-
-
-
-
-<!ENTITY helpTroubleshootingInfo.label      "Arhintsï axu enkari no kurhankujka">
-<!ENTITY helpTroubleshootingInfo.accesskey  "A">
-
-<!ENTITY helpFeedbackPage.label      "Arhístatsperakua axá…">
-<!ENTITY helpFeedbackPage.accesskey  "A">
 
 
 
 <!ENTITY preferencesCmdMac.label        "Sánteru xénchakuecha…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Jarhojperakuecha">
 
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
-
 <!ENTITY hideOtherAppsCmdMac.label      "Óndatsperi máteruecha">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Xarhatani iámendu">
 

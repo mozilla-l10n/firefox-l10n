@@ -72,20 +72,6 @@
 
 
 
-<!ENTITY cmd.uninstallAddon.label             "Kéntitani">
-<!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.showPreferencesWin.label         "Erakuani">
-
-
-
-
-
-
-
-
-
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -132,23 +118,7 @@
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
 
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Jimpanherantani">
 
-
-
-
-
-
-
-
-
-
-
-<!ENTITY addon.checkingForUpdates.label       "Jimpanhe ampe jirhinhantaxati…">
 
 
 

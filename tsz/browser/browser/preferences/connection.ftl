@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Jantiojku exeni enka sesi jatsintanaka proxy pari i anchikuarikua
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = Menku urhani proxy pari iamitu ampe
-    .accesskey = x
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
