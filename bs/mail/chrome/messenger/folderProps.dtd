@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Vrsta fascikle:">
 
 <!ENTITY folderQuotaTab.label                    "Kvota">
-<!ENTITY folderQuotaRoot.label                   "Kvota najvišeg nivoa:">
 <!ENTITY folderQuotaUsage.label                  "Iskorištenost:">
 <!ENTITY folderQuotaStatus.label                 "Stanje:">
 

@@ -3,73 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "Omogući">
-<!ENTITY cmd.enableAddon.accesskey            "O">
-<!ENTITY cmd.disableAddon.label               "Onemogući">
-<!ENTITY cmd.disableAddon.accesskey           "O">
-
-<!ENTITY cmd.askToActivate.label              "Pitaj za aktivaciju">
-<!ENTITY cmd.askToActivate.tooltip            "Pitaj za upotrebu ovog add-ona svaki put">
-<!ENTITY cmd.alwaysActivate.label             "Uvijek aktiviraj">
-<!ENTITY cmd.alwaysActivate.tooltip           "Uvijek koristi ovaj add-on">
-<!ENTITY cmd.neverActivate.label              "Nikada ne aktiviraj">
-<!ENTITY cmd.neverActivate.tooltip            "Nikada ne koristi ovaj add-on">
-<!ENTITY cmd.stateMenu.tooltip                "Promijeni kada se ovaj add-on koristi">
-
-<!ENTITY cmd.uninstallAddon.label             "Ukloni">
-<!ENTITY cmd.uninstallAddon.accesskey         "U">
-<!ENTITY cmd.showPreferencesWin.label         "Opcije">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Promijeni opcije ovog add-ona">
-<!ENTITY cmd.showPreferencesUnix.label        "Postavke">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Promijeni postavke ovog add-ona">
-
-<!ENTITY cmd.showReleaseNotes.label           "Prikaži napomene o izdanju">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži napomene o izdanju za ovu nadogradnju">
-<!ENTITY cmd.hideReleaseNotes.label           "Sakrij napomene o izdanju">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij napomene o izdanju za ovu nadogradnju">
-<!ENTITY cmd.findReplacement.label            "Pronađi zamjenu">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "Otkaži">
-
-
-<!ENTITY addon.details.label                  "Više">
-<!ENTITY addon.details.tooltip                "Prikaži više informacija o ovom add-onu">
-<!ENTITY addon.unknownDate                    "Nepoznato">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "ZASTARJELO">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(onemogućen)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Nadogradnja">
-<!ENTITY addon.undoAction.label               "Poništi">
-<!ENTITY addon.undoAction.tooltip             "Poništi ovu akciju">
-<!ENTITY addon.undoRemove.label               "Poništi">
-<!ENTITY addon.undoRemove.tooltip             "Zadrži ovaj add-on instaliranim">
-
-<!ENTITY addon.install.label                  "Instaliraj">
-<!ENTITY addon.install.tooltip                "Instaliraj ovaj add-on">
-<!ENTITY addon.updateNow.label                "Nadogradi odmah">
-<!ENTITY addon.updateNow.tooltip              "Instaliraj nadogradnju za ovaj add-on">
-<!ENTITY addon.includeUpdate.label            "Uključi u nadogradnju">
-<!ENTITY addon.updateAvailable.label          "Nadogradnja dostupna">
-<!ENTITY addon.checkingForUpdates.label       "Provjeravam za nadogradnje…">
-<!ENTITY addon.releaseNotes.label             "Napomene o izdanju:">
-<!ENTITY addon.loadingReleaseNotes.label      "Učitavanje…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Oprostite, ali došlo je do greške prilikom učitavanja napomena o izdanju.">
-
-<!ENTITY addon.createdBy.label                "Od ">
-
-<!ENTITY settings.path.button.label           "Pregled…">
 
 <!ENTITY setting.learnmore "Saznajte više…">
 

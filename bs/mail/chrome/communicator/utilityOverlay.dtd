@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "Uredi">
 <!ENTITY editMenu.accesskey        "U">
 <!ENTITY undoCmd.label            "Poništi">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "P">
 <!ENTITY redoCmd.label            "Ponovi">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "P">
-<!ENTITY cutCmd.label            "Isjeci">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "I">
-<!ENTITY copyCmd.label            "Kopiraj">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label            "Zalijepi">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "p">
 <!ENTITY deleteCmd.label          "Obriši">
 <!ENTITY deleteCmd.accesskey        "O">
-<!ENTITY selectAllCmd.label          "Označi sve">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "s">
 <!ENTITY preferencesCmd2.label "Opcije">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Postavke">

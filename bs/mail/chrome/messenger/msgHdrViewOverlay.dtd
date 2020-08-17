@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arhiviraj">
 <!ENTITY hdrArchiveButton1.tooltip "Arhiviraj ovu poruku">
-<!ENTITY hdrOpenConversationButton1.label "Razgovor">
-<!ENTITY hdrOpenConversationButton1.tooltip "Prikaži razgovor ove poruke">
 <!ENTITY hdrSmartReplyButton1.label "Pametni odgovor">
 <!ENTITY hdrReplyButton1.label "Odgovori">
 <!ENTITY hdrReplyButton2.tooltip "Odgovori pošiljaocu ove poruke">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Odgovori na popis primalaca">
 <!ENTITY hdrFollowupButton1.label "Nastavak">
 <!ENTITY hdrFollowupButton1.tooltip "Pošalji nastavak na ovu novinsku grupu">
-<!ENTITY hdrMenuForwardButton.label "Proslijedi kao">
 <!ENTITY hdrForwardButton1.label "Proslijedi">
 <!ENTITY hdrForwardButton1.tooltip "Proslijedi ovu poruku">
 <!ENTITY hdrJunkButton1.label "Neželjena pošta">

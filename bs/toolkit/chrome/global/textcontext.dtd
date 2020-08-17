@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Isjeci">
-<!ENTITY cutCmd.accesskey "I">
-<!ENTITY copyCmd.label "Kopiraj">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Zalijepi">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY undoCmd.label "Poništi">
-<!ENTITY undoCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Označi sve">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Obriši">
-<!ENTITY deleteCmd.accesskey "O">
-
 <!ENTITY spellAddToDictionary.label "Dodaj u rječnik">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Poništi Dodaj u rječnik">

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privatno surfanje)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privatno surfanje)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privatno surfanje)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privatno surfanje)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,10 +125,12 @@ urlbar-popup-blocked =
     .tooltiptext = Imate blokirane pop-up prozore za ovu web stranicu.
 urlbar-canvas-blocked =
     .tooltiptext = Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Uredi ovu zabilješku ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,12 +162,14 @@ search-one-offs-change-settings-button =
     .label = Promijeni postavke pretraživača
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Promijeni postavke za pretragu
+
 search-one-offs-context-open-new-tab =
     .label = Traži u novom tabu
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Postavi kao glavni pretraživač
     .accesskey = p
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -190,8 +196,10 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Prikaži editor prilikom spašavanja
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Gotovo
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -263,17 +271,21 @@ popup-all-windows-shared = Svi vidljivi prozori na vašem ekranu će biti podije
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Unesite termin za pretragu ili adresu
+
 urlbar-placeholder =
     .placeholder = Unesite termin za pretragu ili adresu
+
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser je pod udaljenom kontrolom
 urlbar-permissions-granted =
     .tooltiptext = Ovoj stranici ste dodijelili dodatne dozvole.
 urlbar-switch-to-tab =
     .value = Prebaci se na tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Proširenje:
+
 urlbar-go-button =
     .tooltiptext = Idi na adresu upisanu u adresnoj traci
 urlbar-page-action-button =

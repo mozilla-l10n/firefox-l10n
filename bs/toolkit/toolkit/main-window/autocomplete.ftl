@@ -11,5 +11,11 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Uvezite vašu prijavu iz { $browser }</div>
     <div data-l10n-name="line2">za { $host } i druge stranice</div>
+
+## Variables:
+##   $host (String) - Host name of the current site.
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Saznajte više

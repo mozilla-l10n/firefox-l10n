@@ -2,16 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Podesite postojeći račun e-pošte">
-
 <!ENTITY name.label                      "Vaše ime:">
 <!ENTITY name.accesskey                  "i">
-<!ENTITY name.placeholder                "Ime Prezime">
 <!ENTITY name.text                       "Vaše ime, kako će biti prikazano drugima">
 <!ENTITY email.label                     "Email adresa:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "vi@example.com">
 <!ENTITY email.text                      "Vaša postojeća adresa e-pošte">
 <!ENTITY password.label                  "Lozinka:">
 <!ENTITY password.accesskey              "L">
@@ -26,9 +21,6 @@
 <!ENTITY incoming.label                  "Dolazni:">
 <!ENTITY outgoing.label                  "Odlazni:">
 <!ENTITY username.label                  "Korisničko ime:">
-<!ENTITY hostname.label                  "Naziv servera">
-<!ENTITY port.label                      "Port">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentikacija">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
@@ -54,8 +46,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ponovo testiraj">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Ručno podešavanje">
-<!ENTITY manual-edit.accesskey           "o">
 <!ENTITY open-provisioner.label          "Napravite novu adresu e-pošte…">
 <!ENTITY open-provisioner.accesskey      "n">
 

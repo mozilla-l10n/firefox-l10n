@@ -7,13 +7,6 @@ do-not-track-learn-more = Saznajte više
 do-not-track-option-always =
     .label = Uvijek
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcije
-           *[other] Postavke
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Opcije
@@ -395,10 +388,6 @@ update-application-use-service =
     .label = Koristi pozadinski servis za instalaciju nadogradnji
     .accesskey = b
 
-update-enable-search-update =
-    .label = Automatski nadograđuj pretraživače
-    .accesskey = e
-
 ## General Section - Performance
 
 performance-title = Performanse
@@ -507,7 +496,6 @@ home-prefs-topsites-description = Stranice koje najviše posjećujete
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
-home-prefs-recommended-by-description = Sjajan sadržaj s cijelog weba, personalizovan za vas
 ##
 
 
@@ -550,7 +538,6 @@ search-bar-shown =
     .label = Dodaj traku za pretragu u alatnu traku
 
 search-engine-default-header = Glavni pretraživač
-search-engine-default-desc = Izaberite glavni pretraživač koji želite koristiti u adresnoj i traci za pretraživanje.
 
 search-suggestions-option =
     .label = Pružaj prijedloge za pretraživanje
@@ -599,8 +586,6 @@ search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno kor
 
 ## Containers Section
 
-containers-back-link = « Nazad
-
 containers-header = Container tabovi
 containers-add-button =
     .label = Dodaj novi Container
@@ -620,14 +605,6 @@ containers-remove-button =
 sync-signedout-caption = Ponesite vaš Web sa vama
 sync-signedout-description = Sinhronizujte vaše zabilješke, historiju, tabove, lozinke, add-one, i druge postavke na svim vašim uređajima.
 
-sync-signedout-account-title = Poveži se sa { -fxaccount-brand-name }
-sync-signedout-account-create = Nemate račun? Započnite
-    .accesskey = r
-
-sync-signedout-account-signin =
-    .label = Prijavi…
-    .accesskey = I
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -646,10 +623,6 @@ sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a d
 sync-profile-picture =
     .tooltiptext = Promijenite profilnu sliku
 
-sync-disconnect =
-    .label = Diskonektuj…
-    .accesskey = D
-
 sync-manage-account = Upravljanje računom
     .accesskey = o
 
@@ -667,9 +640,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Prijava
     .accesskey = a
-
-sync-signedin-settings-header = Sync postavke
-sync-signedin-settings-desc = Izaberite šta sinhronizovati na vašim uređajima pomoću { -brand-short-name }a.
 
 ## Sync section - enabling or disabling sync.
 
@@ -691,11 +661,6 @@ sync-engine-tabs =
     .label = Otvoreni tabovi
     .tooltiptext = Lista svega što je otvoreno na svim sinhronizovanim uređajima
     .accesskey = T
-
-sync-engine-logins =
-    .label = Prijave
-    .tooltiptext = Korisnička imena i lozinke koje ste spasili
-    .accesskey = P
 
 sync-engine-addresses =
     .label = Adrese
@@ -737,10 +702,6 @@ sync-device-name-save =
     .label = Spasi
     .accesskey = s
 
-sync-tos-link = Uslovi korištenja
-
-sync-fxa-privacy-notice = Polica privatnosti
-
 ## Privacy Section
 
 privacy-header = Privatnost browsera
@@ -768,6 +729,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = Trenutno ste u FIPS režimu. FIPS zahtjeva postojanje glavne lozinke.
+
 forms-master-pw-fips-desc = Neuspješna izmjena lozinke
 
 ## OS Authentication dialog
@@ -1012,6 +974,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 
 space-alert-under-5gb-message = { -brand-short-name }-u ponestaje prostora na disku. Sadržaj web stranica možda neće biti prikazan ispravno. Posjetite “Saznajte više” da optimizujete vašu upotrebu diska za bolje iskustvo surfanja.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

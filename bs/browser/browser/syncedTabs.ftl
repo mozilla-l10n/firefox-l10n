@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinhronizovani tabovi
 synced-tabs-sidebar-noclients-subtitle = Želite li vidjeti vaše tabove s drugih uređaja ovdje?
-synced-tabs-sidebar-notsignedin = Prijavite se da vidite listu tabova s vaših ostalih uređaja.
 synced-tabs-sidebar-intro = Prikaz liste tabova sa vaših ostalih uređaja.
 synced-tabs-sidebar-unverified = Vaš račun mora biti verifikovan.
 synced-tabs-sidebar-notabs = Nema otvorenih tabova

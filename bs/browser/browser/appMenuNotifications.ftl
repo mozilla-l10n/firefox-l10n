@@ -29,3 +29,4 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = OK, razumijem
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Upravljajte vašim add-onima klikom na <image data-l10n-name='addon-install-icon'></image> u <image data-l10n-name='addon-menu-icon'></image> meniju.
+    

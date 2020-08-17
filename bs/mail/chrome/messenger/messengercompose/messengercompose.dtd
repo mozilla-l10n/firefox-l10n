@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Ponovi">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Isjeci">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopiraj">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Zalijepi">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -92,14 +86,7 @@
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
-<!ENTITY selectAllCmd.label "Označi sve">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Nađi…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -254,26 +241,9 @@
 <!ENTITY printButton.tooltip "Štampaj ovu poruku">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Šalje:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Prima:">
-<!ENTITY ccAddr.label "Kopija:">
-<!ENTITY bccAddr.label "sKopija:">
-<!ENTITY replyAddr.label "Odgovori na:">
-<!ENTITY newsgroupsAddr.label "Novinska grupa:">
-<!ENTITY followupAddr.label "Nastavak-za:">
-<!ENTITY subject.label "Naslov:">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
-<!ENTITY attachments.accesskey "m">
 
-<!ENTITY attachmentBucketHeader.tooltip "Okno priloga">
 <!ENTITY attachmentBucketCloseButton.tooltip "Sakrij okno priloga">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

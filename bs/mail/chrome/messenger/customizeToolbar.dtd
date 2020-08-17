@@ -12,6 +12,5 @@
 <!ENTITY iconsBesideText.label    "Ikone uz tekst">
 <!ENTITY useSmallIcons.label      "Koristi male ikone">
 <!ENTITY restoreDefaultSet.label  "Vrati na izvorne vrijednosti">
-<!ENTITY addNewToolbar.label      "Dodaj novu alatnu traku">
 <!ENTITY saveChanges.label        "Gotovo">
 <!ENTITY undoChanges.label        "Poništi promjene">

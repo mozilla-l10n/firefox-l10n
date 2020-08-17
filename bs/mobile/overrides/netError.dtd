@@ -77,9 +77,6 @@
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; privremenoj memoriji.</p><ul><li>Radi sigurnosti, &brandShortName; neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušajte ponovo da biste zatražili dokument od web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Rad van mreže">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Pokušajte ponovo. &brandShortName; će pokušati otvoriti vezu i ponovo učitati stranicu. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Greška u enkodiranju sadržaja">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.</li> </ul>">

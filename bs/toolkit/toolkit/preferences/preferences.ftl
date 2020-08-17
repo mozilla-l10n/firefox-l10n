@@ -14,6 +14,7 @@ pw-erased-ok = Obrisali ste svoju glavnu lozinku.  { pw-empty-warning }
 pw-not-wanted = Upozorenje! Odlučili ste da ne koristite glavnu lozinku. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Trenutno ste u FIPS režimu. FIPS zahtjeva postojanje glavne lozinke.
+
 pw-change-success-title = Lozinka je uspješno promijenjena
 pw-change-failed-title = Neuspješna izmjena lozinke
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Promijeni glavnu lozinku
+
 set-password-old-password = Trenutna lozinka:
 set-password-new-password = Unesite novu lozinku:
 set-password-reenter-password = Ponovo unesite lozinku:
@@ -31,6 +33,7 @@ master-password-warning = Molimo vas da zapamtite glavnu lozinku koju ste postav
 
 remove-password =
     .title = Ukloni glavnu lozinku
+
 remove-info =
     .value = Za nastavak morate unijeti vašu trenutnu lozinku:
 remove-warning1 = Vaša Glavna lozinka se koristi za zaštitu osjetljivih informacija poput lozinki za web stranice.

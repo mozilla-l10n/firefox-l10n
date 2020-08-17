@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Preuzmite na Google Play
 login-app-promo-apple =
     .alt = Preuzmite na App Store
+
 login-filter =
     .placeholder = Pretraži prijave
+
 create-login-button = Kreiraj novu prijavu
+
 fxaccounts-sign-in-text = Pristupite lozinkama na drugim uređajima
 fxaccounts-sign-in-button = Prijava na { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,6 +64,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Tražite vaše spašene prijave? Podesite { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Nema pronađenih sinhronizovanih prijava.
 login-intro-description = Ako ste spasili prijave u { -brand-product-name } na drugom uređaju, evo kako im možete pristupiti:
 login-intro-instruction-fxa = Kreirajte ili se prijavite na vaš { -fxaccount-brand-name } na uređaju na kojem ste spasili prijave
@@ -116,11 +120,14 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Otkaži
 confirmation-dialog-dismiss-button =
     .title = Otkaži
+
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja se ne može poništiti.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
+
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-confirm-button = Izvoz…
+
 confirm-discard-changes-dialog-title = Odbaci nespašene promjene?
 confirm-discard-changes-dialog-message = Sve nespašene promjene će biti izgubljene.
 confirm-discard-changes-dialog-confirm-button = Odbaci
@@ -144,6 +151,7 @@ about-logins-vulnerable-alert-learn-more-link = Saznajte više
 
 # This is a generic error message.
 about-logins-error-message-default = Desila se greška prilikom spašavanja ove lozinke.
+
 
 ## Login Export Dialog
 

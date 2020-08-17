@@ -117,6 +117,7 @@ devinfo-serialnum =
     .label = Serijski broj
 
 fips-nonempty-password-required = FIPS režim rada zahtijeva da podesite glavne lozinke za svaki od sigurnosnih uređaja. Molimo da postavite lozinke prije omogućavanja FIPS režima rada.
+
 unable-to-toggle-fips = Ne mogu promijeniti FIPS režim za sigurnosni uređaj. Preporučujemo da izađete iz aplikacije te je ponovo pokrenete.
 load-pk11-module-file-picker-title = Izaberite PKCS#11 drajver za učitavanje
 

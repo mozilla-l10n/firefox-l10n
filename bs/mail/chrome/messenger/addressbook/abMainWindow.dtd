@@ -44,38 +44,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "&amp;Uredi">
 <!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "Poništi">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "P">
-<!ENTITY redoCmd.label                                  "Ponovi">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "P">
-<!ENTITY cutCmd.label                                   "Isjeci">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "I">
-<!ENTITY copyCmd.label                                  "Kopiraj">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Zalijepi">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "Obriši">
-<!ENTITY deleteCmd.accesskey                            "O">
 <!ENTITY deleteAbCmd.label                              "Obriši adresar">
 <!ENTITY deleteContactCmd.label                         "Obriši kontakt">
 <!ENTITY deleteContactsCmd.label                        "Obriši kontakte">
 <!ENTITY deleteListCmd.label                            "Obriši listu">
 <!ENTITY deleteListsCmd.label                           "Obriši liste">
 <!ENTITY deleteItemsCmd.label                           "Obriši stavke">
-<!ENTITY selectAllCmd.label                             "Izaberi sve">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "s">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Zamijeni ime i prezime">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Postavke">
 <!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "o">

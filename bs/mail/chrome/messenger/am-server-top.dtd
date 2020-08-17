@@ -68,15 +68,12 @@
 <!ENTITY maxMessagesEnd.label "poruka">
 <!ENTITY alwaysAuthenticate.label "Uvijek zahtijevaj autentikaciju prilikom povezivanja na ovaj server">
 <!ENTITY alwaysAuthenticate.accesskey "v">
-<!ENTITY newsrcFilePath.label "newsrc fajl:">
-<!ENTITY newsrcPicker.label "Izaberi newsrc fajl">
 <!ENTITY abbreviate.label "Prikaži imena novih grupa u fascikli za poruke kao:">
 <!ENTITY abbreviateOn.label "Puni naziv (naprimjer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skraćeni naziv (naprimjer, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Napredno…">
 <!ENTITY advancedButton.accesskey "p">
 <!ENTITY serverDefaultCharset2.label "Izvorno enkodiranje teksta:">
-<!ENTITY localPath.label "Lokalni direktorij:">
 <!ENTITY localFolderPicker.label "Izaberite lokalni direktorij">
 <!ENTITY browseFolder.label "Pregled…">
 <!ENTITY browseFolder.accesskey "P">

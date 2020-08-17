@@ -6,24 +6,13 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Zalijepi bez formatiranja">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Zalijepi kao">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Zalijepi kao citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Pronađi…">
-<!ENTITY findReplaceCmd.label "Pronađi i zamijeni…">
-<!ENTITY enableInlineSpellChecker.label "Provjeravaj pravopis tokom pisanja">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Provjeri pravopis…">
-<!ENTITY checkSpellingCmd2.accesskey "v">
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Umetni">
@@ -189,9 +178,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tekst tijela">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Napredne postavke">
-<!ENTITY advancedPropertiesCmd.accesskey "p">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Poravnaj">
@@ -209,10 +195,6 @@
 <!ENTITY alignJustify.accesskey "O">
 <!ENTITY alignJustify.tooltip "Poravnaj obostrano">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Sloj">
-<!ENTITY layerSendToBack.tooltip "Pošalji u pozadinu">
-<!ENTITY layerBringToFront.tooltip "Postavi u prvi plan">
 
 <!ENTITY increaseIndent.label "Povećaj uvlaku">
 <!ENTITY increaseIndent.accesskey "e">
@@ -288,18 +270,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Traka izbornika">
-<!ENTITY formatToolbar.tooltip "Traka formatiranja">
-<!ENTITY cutToolbarCmd.tooltip "Isjeci">
-<!ENTITY copyToolbarCmd.tooltip "Kopiraj">
-<!ENTITY pasteToolbarCmd.tooltip "Umetni">
-<!ENTITY printToolbarCmd.label "Štampaj">
-<!ENTITY printToolbarCmd.tooltip "Štampaj ovu stranicu">
-<!ENTITY findToolbarCmd.label "Pronađi…">
-<!ENTITY findToolbarCmd.tooltip "Pronađi tekst na stranici">
-<!ENTITY spellToolbarCmd.label "Pravopis">
-<!ENTITY spellToolbarCmd.tooltip "Provjeri pravopis izabranog teksta ili cijele stranice">
-
 <!ENTITY imageToolbarCmd.label "Slika">
 <!ENTITY imageToolbarCmd.tooltip "Umetni novu sliku ili promijeni postavke izabrane slike">
 <!ENTITY hruleToolbarCmd.label "H.Linija">
@@ -312,7 +282,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Umetni novi imenovani achor ili uredi postavke postojećeg">
 <!ENTITY TextColorButton.tooltip "Izaberi boju teksta">
 <!ENTITY BackgroundColorButton.tooltip "Izaberi boju pozadine">
-<!ENTITY HighlightColorButton.tooltip "Izaberi boju isticanja teksta">
 <!-- Editor toolbar -->
 
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Postavi veličinu fonta">
@@ -333,12 +302,6 @@
 <!ENTITY alignJustifyButton.tooltip "Poravnaj tekst uz lijevu i desnu marginu">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label         "Izaberi">
-<!ENTITY structSelect.accesskey     "I">
-<!ENTITY structRemoveTag.label      "Ukloni oznaku">
-<!ENTITY structRemoveTag.accesskey  "U">
-<!ENTITY structChangeTag.label      "Promijeni oznaku">
-<!ENTITY structChangeTag.accesskey  "P">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Umetni">
