@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Các thẻ đã đồng bộ
 synced-tabs-sidebar-noclients-subtitle = Muốn xem thẻ từ các thiết bị khác của bạn ở đây?
-synced-tabs-sidebar-notsignedin = Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.
 synced-tabs-sidebar-intro = Xem danh sách các thẻ từ các thiết bị khác của bạn.
 synced-tabs-sidebar-unverified = Tài khoản của bạn cần được xác thực.
 synced-tabs-sidebar-notabs = Không có thẻ đang mở

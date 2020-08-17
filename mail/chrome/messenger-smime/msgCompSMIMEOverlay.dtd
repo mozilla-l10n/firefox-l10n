@@ -4,8 +4,6 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Mã hóa thư này">
-
 <!ENTITY menu_securityDoNotEncrypt.label "Không mã hóa">
 <!ENTITY menu_securityDoNotEncrypt.accesskey "o">
 

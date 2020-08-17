@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Cắt">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Sao chép">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Dán">
-<!ENTITY pasteCmd.accesskey "D">
-<!ENTITY undoCmd.label "Hoàn tác">
-<!ENTITY undoCmd.accesskey "H">
-<!ENTITY selectAllCmd.label "Chọn tất cả">
-<!ENTITY selectAllCmd.accesskey "b">
-<!ENTITY deleteCmd.label "Xóa">
-<!ENTITY deleteCmd.accesskey "X">
-
 <!ENTITY spellAddToDictionary.label "Thêm vào từ điển">
 <!ENTITY spellAddToDictionary.accesskey "v">
 <!ENTITY spellUndoAddToDictionary.label "Hoàn tác việc thêm vào từ điển">

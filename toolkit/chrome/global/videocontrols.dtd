@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Hình trong hình">
 
-<!ENTITY stats.media "Đa phương tiện">
-<!ENTITY stats.size "Dung lượng">
-<!ENTITY stats.activity "Hoạt động">
-<!ENTITY stats.activityPaused "Tạm dừng">
-<!ENTITY stats.activityPlaying "Đang phát">
-<!ENTITY stats.activityEnded "Đã kết thúc">
-<!ENTITY stats.activitySeeking "(đang dò)">
-<!ENTITY stats.volume "Âm lượng">
-<!ENTITY stats.framesParsed "Khung hình đã phân tích">
-<!ENTITY stats.framesDecoded "Khung hình đã giải mã">
-<!ENTITY stats.framesPresented "Khung hình đã chiếu">
-<!ENTITY stats.framesPainted "Khung hình đã vẽ">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Không thể xem video vì một lỗi chưa biết.">
 
 <!ENTITY status.pictureInPicture "Video này đang phát ở chế độ hình trong hình.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 trên tổng #2 đã qua">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

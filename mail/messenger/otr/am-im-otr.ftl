@@ -19,4 +19,6 @@ otr-requireEncryption =
     .label = Yêu cầu mã hóa đầu cuối cho các cuộc hội thoại một-một
 otr-verifyNudge =
     .label = Luôn nhắc tôi xác minh một liên hệ chưa được xác minh
+
 otr-notYetAvailable = chưa có sẵn
+

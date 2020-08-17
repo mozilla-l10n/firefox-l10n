@@ -22,8 +22,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Lưu trữ">
 <!ENTITY hdrArchiveButton1.tooltip "Lưu trữ thư này">
-<!ENTITY hdrOpenConversationButton1.label "Hội thoại">
-<!ENTITY hdrOpenConversationButton1.tooltip "Hiển thị cuộc trò chuyện của thư này">
 <!ENTITY hdrSmartReplyButton1.label "Trả lời thông minh">
 <!ENTITY hdrReplyButton1.label "Trả lời">
 <!ENTITY hdrReplyButton2.tooltip "Trả lời người gửi thư này">
@@ -32,7 +30,6 @@
 <!ENTITY hdrReplyListButton1.label "Trả lời danh sách">
 <!ENTITY hdrReplyListButton1.tooltip "Trả lời danh sách thư">
 <!ENTITY hdrFollowupButton1.tooltip "Đăng một bài theo dõi cho nhóm tin này">
-<!ENTITY hdrMenuForwardButton.label "Chuyển tiếp dưới dạng">
 <!ENTITY hdrForwardButton1.label "Chuyển tiếp">
 <!ENTITY hdrForwardButton1.tooltip "Chuyển tiếp thư này">
 <!ENTITY hdrJunkButton1.label "Thư rác">

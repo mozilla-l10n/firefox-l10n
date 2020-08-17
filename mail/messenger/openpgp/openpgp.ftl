@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Để gửi thư được mã hóa hoặc được ký điện tử, bạn cần định cấu hình công nghệ mã hóa, OpenPGP hoặc S/MIME.
+
 e2e-intro-description-more = Chọn khóa cá nhân của bạn để cho phép sử dụng OpenPGP hoặc chứng chỉ cá nhân của bạn để cho phép sử dụng S/MIME. Đối với khóa cá nhân hoặc chứng chỉ, bạn sở hữu khóa bí mật tương ứng.
+
 openpgp-key-user-id-label = Tài khoản / ID người dùng
 openpgp-keygen-title-label =
     .title = Tạo khóa OpenPGP
@@ -33,12 +35,16 @@ openpgp-generate-key =
     .tooltiptext = Tạo khóa tuân thủ OpenPGP mới để mã hóa và/hoặc ký
 openpgp-advanced-prefs-button-label =
     .label = Nâng cao…
+
 openpgp-key-expiry-label =
     .label = Hết hạn
+
 openpgp-key-id-label =
     .label = ID khóa
+
 openpgp-key-man-title =
     .title = Trình quản lý khóa OpenPGP
+
 openpgp-key-man-file-menu =
     .label = Tập tin
     .accesskey = F
@@ -54,6 +60,7 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Keyserver
     .accesskey = K
+
 openpgp-key-man-import-public-from-file =
     .label = Nhập (các) khóa công khai từ tập tin
     .accesskey = I
@@ -74,25 +81,32 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Sao lưu (các) khóa bí mật vào tập tin
     .accesskey = B
+
 openpgp-key-man-discover-cmd =
     .label = Khám phá khóa trực tuyến
     .accesskey = D
 openpgp-key-man-discover-prompt = Để khám phá các khóa OpenPGP trực tuyến, trên máy chủ hoặc sử dụng giao thức WKD, hãy nhập địa chỉ email hoặc ID khóa.
 openpgp-key-man-discover-progress = Đang tìm kiếm…
+
 openpgp-key-copy-key =
     .label = Sao chép khóa công khai
     .accesskey = C
+
 openpgp-key-export-key =
     .label = Xuất khóa công khai vào tập tin
     .accesskey = E
+
 openpgp-key-backup-key =
     .label = Sao lưu khóa bí mật vào tập tin
     .accesskey = B
+
 openpgp-key-send-key =
     .label = Gửi khóa công khai qua email
     .accesskey = S
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Xuất khóa sang tập tin
+
 openpgp-key-man-close =
     .label = Đóng
 openpgp-key-man-reload =
@@ -140,12 +154,15 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Không có khóa nào phù hợp với cụm từ tìm kiếm của bạn
 openpgp-key-man-please-wait-tooltip =
     .label = Vui lòng đợi trong khi các khóa đang được tải…
+
 openpgp-key-man-filter-label =
     .placeholder = Tìm kiếm khóa
+
 openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
+
 openpgp-key-details-title =
     .title = Thuộc tính khóa
 openpgp-key-details-signatures-tab =

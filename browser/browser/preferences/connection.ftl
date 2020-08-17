@@ -35,12 +35,7 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Cổng
     .accesskey = C
-connection-proxy-http-share =
-    .label = Dùng máy chủ proxy này cho mọi giao thức
-    .accesskey = x
 
-connection-proxy-ssl = Proxy SSL
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Đồng thời sử dụng proxy này cho FTP và HTTPS
     .accesskey = s

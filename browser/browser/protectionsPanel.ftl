@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Có lỗi khi gửi báo cáo. Vui lòng thử lại sau.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Trang web có bình thường không? Hãy gửi báo cáo
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Tiêu chuẩn
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Thông tin thêm về trình chống theo dõi nâng cao
+
 protections-panel-etp-on-header = Trình chống theo dõi nâng cao đã được BẬT cho trang này
 protections-panel-etp-off-header = Trình chống theo dõi nâng cao đã bị TẮT cho trang này
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Trang web không hoạt động?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Trang web không hoạt động?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Tất cả các trình theo
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name } không phát hiện ra trình theo dõi đã biết trên trang này.
+
 protections-panel-content-blocking-tracking-protection = Trình theo dõi nội dung
+
 protections-panel-content-blocking-socialblock = Trình theo dõi truyền thông xã hội
 protections-panel-content-blocking-cryptominers-label = Tiền điện tử
 protections-panel-content-blocking-fingerprinters-label = Vân tay
@@ -57,7 +63,6 @@ protections-panel-not-found-label = Không phát hiện
 ##
 
 protections-panel-settings-label = Cài đặt bảo vệ
-protections-panel-showreport-label = Hiển thị báo cáo
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Bảng điều khiển bảo vệ
 
@@ -66,12 +71,14 @@ protections-panel-protectionsdashboard-label = Bảng điều khiển bảo vệ
 
 # The header of the list
 protections-panel-site-not-working-view-header = Tắt bảo vệ nếu bạn có vấn đề với:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Trường đăng nhập
 protections-panel-site-not-working-view-issue-list-forms = Biểu mẫu
 protections-panel-site-not-working-view-issue-list-payments = Thanh toán
 protections-panel-site-not-working-view-issue-list-comments = Bình luận
 protections-panel-site-not-working-view-issue-list-videos = Video
+
 protections-panel-site-not-working-view-send-report = Gửi báo cáo
 
 ##
@@ -81,9 +88,11 @@ protections-panel-cryptominers = Tiền điện tử sử dụng sức mạnh t�
 protections-panel-fingerprinters = Dấu vân tay thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vân tay kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau.
 protections-panel-tracking-content = Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác với đoạn mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.
 protections-panel-social-media-trackers = Mạng xã hội đặt trình theo dõi trên các trang web khác để theo dõi những gì bạn làm, xem và xem trực tuyến. Điều này cho phép các công ty truyền thông xã hội tìm hiểu thêm về bạn ngoài những gì bạn chia sẻ trên hồ sơ truyền thông xã hội của mình.
+
 protections-panel-content-blocking-manage-settings =
     .label = Quản lý cài đặt bảo vệ
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Báo cáo một trang web bị hỏng
 protections-panel-content-blocking-breakage-report-view-description = Chặn một số trình theo dõi nhất định có thể gây ra vấn đề với một số trang web. Báo cáo những vấn đề này giúp tạo { -brand-short-name } tốt hơn cho mọi người. Gửi báo cáo này sẽ gửi một URL và thông tin về cài đặt trình duyệt của bạn đến Mozilla. <label data-l10n-name="learn-more">Tìm hiểu thêm</label>

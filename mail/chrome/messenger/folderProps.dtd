@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Kiểu Thư Mục:">
 
 <!ENTITY folderQuotaTab.label                    "Hạn mức">
-<!ENTITY folderQuotaRoot.label                   "Gốc rễ Hạn mức:">
 <!ENTITY folderQuotaUsage.label                  "Sử dụng:">
 <!ENTITY folderQuotaStatus.label                 "Trạng thái:">
 

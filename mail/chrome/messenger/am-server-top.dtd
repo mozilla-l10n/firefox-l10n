@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "thư">
 <!ENTITY alwaysAuthenticate.label "Luôn yêu cầu xác thực khi kết nối đến máy chủ này">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "tập tin newsrc:">
-<!ENTITY newsrcPicker.label "Chọn tập tin newsrc">
 <!ENTITY newsrcFilePath1.label "Tập tin News.rc:">
 <!ENTITY newsrcPicker1.label "Chọn tập tin News.rc">
 <!ENTITY abbreviate.label "Hiện tên nhóm tin trong bảng thư mục thư dưới dạng:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Nâng cao…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Bảng mã văn bản mặc định:">
-<!ENTITY localPath.label "Thư mục cục bộ:">
 <!ENTITY localPath1.label "Thư mục nội bộ:">
 <!ENTITY localFolderPicker.label "Chọn thư mục cục bộ">
 <!ENTITY browseFolder.label "Duyệt…">

@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Chỉnh sửa">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Hoàn tác">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "H">
-<!ENTITY redoCmd.label                                  "Làm lại">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "L">
-<!ENTITY cutCmd.label                                   "Cắt">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Sao chép">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Dán">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "D">
 <!ENTITY deleteCmd.label                                "Xóa">
-<!ENTITY deleteCmd.accesskey                            "X">
 <!ENTITY deleteAbCmd.label                              "Xóa sổ địa chỉ">
 <!ENTITY deleteContactCmd.label                         "Xóa Danh Bạ">
 <!ENTITY deleteContactsCmd.label                        "Xóa Danh Bạ">
 <!ENTITY deleteListCmd.label                            "Xóa danh sách">
 <!ENTITY deleteListsCmd.label                           "Xóa các danh sách">
 <!ENTITY deleteItemsCmd.label                           "Xóa Các Mục">
-<!ENTITY selectAllCmd.label                             "Chọn tất cả">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "B">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Hoán chuyển Tên/Họ">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Thuộc tính">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
