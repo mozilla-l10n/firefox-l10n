@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Εισαγωγή επιλογών, σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
 <!ENTITY importFromUnix.label           "Εισαγωγή προτιμήσεων,σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
-<!ENTITY importFromBookmarks.label      "Εισαγωγή σελιδοδεικτών από:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Επιλογή αρχείου...">
 <!ENTITY cmd.restoreFromFile.accesskey  "λ">
 
-<!ENTITY cmd.deleteDomainData.label     "Χωρίς απομνημόνευση σελίδας">
-<!ENTITY cmd.deleteDomainData.accesskey "Χ">
-
-<!ENTITY cmd.open.label                  "Άνοιγμα">
-<!ENTITY cmd.open.accesskey              "ν">
-<!ENTITY cmd.open_window.label           "Άνοιγμα σε νέο παράθυρο">
-<!ENTITY cmd.open_window.accesskey       "π">
-<!ENTITY cmd.open_private_window.label     "Άνοιγμα σε νέο ιδιωτικό παράθυρο">
-<!ENTITY cmd.open_private_window.accesskey "θ">
-<!ENTITY cmd.open_tab.label              "Άνοιγμα σε νέα καρτέλα">
-<!ENTITY cmd.open_tab.accesskey          "κ">
-<!ENTITY cmd.open_all_in_tabs.label      "Άνοιγμα όλων σε καρτέλες">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "ν">
-
-<!ENTITY cmd.properties.label      "Ιδιότητες">
-<!ENTITY cmd.properties.accesskey  "δ">
-
-<!ENTITY cmd.sortby_name.label              "Ταξινόμηση κατά όνομα">
-<!ENTITY cmd.sortby_name.accesskey          "Τ">
-<!ENTITY cmd.context_sortby_name.accesskey  "ι">
-
-<!ENTITY cmd.new_bookmark.label            "Νέος σελιδοδείκτης...">
-<!ENTITY cmd.new_bookmark.accesskey        "σ">
-<!ENTITY cmd.new_folder.label              "Νέος φάκελος...">
-<!ENTITY cmd.new_folder.accesskey          "Φ">
-<!ENTITY cmd.context_new_folder.accesskey  "φ">
-<!ENTITY cmd.new_separator.label           "Νέο διαχωριστικό">
-<!ENTITY cmd.new_separator.accesskey       "χ">
-
 <!ENTITY col.name.label          "Όνομα">
 <!ENTITY col.tags.label          "Ετικέτες">
 <!ENTITY col.url.label           "Τοποθεσία">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Αριθμός επισκέψεων">
 <!ENTITY col.dateadded.label     "Προσθήκη">
 <!ENTITY col.lastmodified.label  "Τελευταία τροποποίηση">
-
-<!ENTITY historySearch.placeholder  "Αναζήτηση ιστορικού">
-<!ENTITY bookmarksSearch.placeholder  "Αναζήτηση σελιδοδεικτών">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα στοιχείο για προβολή και επεξεργασία ιδιοτήτων">
 
-<!ENTITY view.label               "Προβολή">
-<!ENTITY view.accesskey           "β">
-<!ENTITY byDate.label             "Κατά ημερομηνία">
-<!ENTITY byDate.accesskey         "η">
-<!ENTITY bySite.label             "Κατά σελίδα">
-<!ENTITY bySite.accesskey         "σ">
-<!ENTITY byMostVisited.label      "Κατά συχνότητα">
-<!ENTITY byMostVisited.accesskey  "χ">
-<!ENTITY byLastVisited.label      "Κατά τελευταία επίσκεψη">
-<!ENTITY byLastVisited.accesskey  "τ">
-<!ENTITY byDayAndSite.label       "Κατά ημερομηνία και σελίδα">
-<!ENTITY byDayAndSite.accesskey   "μ">

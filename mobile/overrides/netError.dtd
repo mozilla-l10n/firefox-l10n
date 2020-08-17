@@ -75,15 +75,6 @@
 <!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν βρίσκεται στην προσωρινή μνήμη του &brandShortName;.</p><ul><li>Για λόγους ασφαλείας, το &brandShortName; δεν επαναφορτώνει αυτόματα τα ευαίσθητα έγγραφα.</li><li>Πατήστε το 'Δοκιμή ξανά' για να φορτώσετε εκ νέου το έγγραφο από την ιστοσελίδα.</li></ul>">
 
 <!ENTITY netOffline.title "Λειτουργία εργασίας χωρίς σύνδεση">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Προσπαθήστε ξανά. Το &brandShortName; θα επιχειρήσει να συνδεθεί και να φορτώσει εκ νέου τη σελίδα.
-    <button id='wifi'>Ενεργοποίηση Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Σφάλμα κωδικοποίησης περιεχομένου">
 <!ENTITY contentEncodingError.longDesc "

@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Συγχρονισμός…
 fxa-toolbar-sync-syncing-tabs =
     .label = Συγχρονισμός καρτελών…
+
 sync-disconnect-dialog-title = Αποσύνδεση { -sync-brand-short-name };
 sync-disconnect-dialog-body = Το { -brand-product-name } θα σταματήσει το συγχρονισμό του λογαριασμού σας, αλλά δεν θα διαγράψει κανένα δεδομένο περιήγησης σε αυτή τη συσκευή.
 fxa-disconnect-dialog-title = Αποσύνδεση { -brand-product-name };

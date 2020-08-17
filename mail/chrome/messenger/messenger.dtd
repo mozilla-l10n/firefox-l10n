@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "Κονσόλα σφαλμάτων">
 <!ENTITY errorConsoleCmd.accesskey "ν">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Πρόχειρο">
-<!ENTITY scratchpadCmd.accesskey "Π">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Λήψη μηνυμάτων">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "Προώθηση επιλεγμένου μηνύματος ως συνημμένο">
 <!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
 <!ENTITY archiveButton.tooltip "Αρχειοθέτηση επιλεγμένων μηνυμάτων">
-<!ENTITY openConversationButton.tooltip "Εμφάνιση συζήτησης για το επιλεγμένο μήνυμα">
 <!ENTITY openMsgConversationButton.tooltip "Εμφάνιση συζήτησης για το επιλεγμένο μήνυμα">
 <!ENTITY nextButton.tooltip "Μετάβαση στο επόμενο μη αναγνωσμένο μήνυμα">
 <!ENTITY nextMsgButton.tooltip "Μετάβαση στο επόμενο μήνυμα">

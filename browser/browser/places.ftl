@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
     .accesskey = θ
+
 places-new-bookmark =
     .label = Νέος σελιδοδείκτης...
     .accesskey = σ
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Νέο διαχωριστικό
     .accesskey = χ
+
 places-view =
     .label = Προβολή
     .accesskey = β
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Κατά ημερομηνία και σελίδα
     .accesskey = μ
+
 places-history-search =
     .placeholder = Αναζήτηση ιστορικού
 places-bookmarks-search =
     .placeholder = Αναζήτηση σελιδοδεικτών
+
 places-delete-domain-data =
     .label = Χωρίς απομνημόνευση σελίδας
     .accesskey = Χ

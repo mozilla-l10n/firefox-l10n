@@ -12,25 +12,11 @@
 <!ENTITY editMenu.label          "Επεξεργασία">
 <!ENTITY editMenu.accesskey        "Ε">
 <!ENTITY undoCmd.label            "Αναίρεση">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "ρ">
 <!ENTITY redoCmd.label            "Επανάληψη">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "Ε">
-<!ENTITY cutCmd.label            "Αποκοπή">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "κ">
-<!ENTITY copyCmd.label            "Αντιγραφή">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "γ">
-<!ENTITY pasteCmd.label            "Επικόλληση">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "λ">
 <!ENTITY deleteCmd.label          "Διαγραφή">
 <!ENTITY deleteCmd.accesskey        "Δ">
-<!ENTITY selectAllCmd.label          "Επιλογή όλων">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "ο">
 <!ENTITY preferencesCmd2.label "Επιλογές">
 <!ENTITY preferencesCmd2.accesskey "ο">
 <!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">

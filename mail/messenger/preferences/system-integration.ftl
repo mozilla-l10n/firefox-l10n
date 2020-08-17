@@ -4,12 +4,16 @@
 
 system-integration-title =
     .title = Ενσωμάτωση συστήματος
+
 system-integration-dialog =
     .buttonlabelaccept = Ορισμός ως προεπιλογή
     .buttonlabelcancel = Παράλειψη ενσωμάτωσης
     .buttonlabelcancel2 = Άκυρο
+
 default-client-intro = Ορισμός του { -brand-short-name } ως προεπιλογής για:
+
 unset-default-tooltip = Δεν είναι δυνατή η ακύρωση ορισμού του { -brand-short-name } ως προκαθορισμένου προγράμματος μέσα από το { -brand-short-name }. Για να ορίσετε άλλη εφαρμογή ως προεπιλογή πρέπει να χρησιμοποιήσετε το διάλογο της «Ορισμός ως προεπιλογή».
+
 checkbox-email-label =
     .label = Email
     .tooltiptext = { unset-default-tooltip }
@@ -19,6 +23,7 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Ροές ειδήσεων
     .tooltiptext = { unset-default-tooltip }
+
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -27,9 +32,11 @@ system-search-engine-name =
         [windows] Αναζήτηση των Windows
        *[other] { "" }
     }
+
 system-search-integration-label =
     .label = Να επιτρέπεται στην { system-search-engine-name } η αναζήτηση μηνυμάτων
     .accesskey = ε
+
 check-on-startup-label =
     .label = Πάντα έλεγχος κατά την εκκίνηση του { -brand-short-name }
     .accesskey = Π

@@ -14,17 +14,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Αδυναμία σύνδεσης">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Αυτή η διεύθυνση είναι περιορισμένη">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Δε βρέθηκε ο διακομιστής">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Χμ. Έχουμε πρόβλημα στην εύρεση του ιστοτόπου.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Αν η διεύθυνση είναι σωστή, ορίστε τρία ακόμη πράγματα που μπορείτε να δοκιμάσετε:</strong>
 <ul>
@@ -34,8 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Το αρχείο δεν βρέθηκε">
-
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Ελέγξτε το όνομα του αρχείου για εσφαλμένα κεφαλαία ή άλλα ορθογραφικά λάθη.</li>
@@ -43,15 +35,11 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Άρνηση πρόσβασης στο αρχείο">
-
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Ενδέχεται να έχει διαγραφεί, μετακινηθεί, ή να μην επιτρέπεται η πρόσβαση λόγω των δικαιωμάτων του αρχείου.</li>
 </ul>
 ">
-
-<!ENTITY generic.title "Ωχ!">
 
 <!ENTITY generic.longDesc "
 <p>Για κάποιο λόγο, το &brandShortName; δεν μπορεί να φορτώσει αυτή τη σελίδα.</p>
@@ -65,18 +53,10 @@
 <!ENTITY openPortalLoginPage.label2 "Άνοιγμα σελίδας σύνδεσης δικτύου">
 
 <!ENTITY malformedURI.pageTitle "Άκυρο URL">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Χμ. Η διεύθυνση δεν φαίνεται να είναι σωστή.">
-
-<!ENTITY netInterrupt.title "Η σύνδεση διακόπηκε">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Το έγγραφο έληξε">
-
 <!ENTITY notCached.longDesc "<p>Το ζητούμενο έγγραφο δεν είναι διαθέσιμο στην προσωρινή μνήμη του &brandShortName;.</p><ul><li>Ως μέτρο ασφαλείας, το &brandShortName; δεν ζητά εκ νέου τα ευαίσθητα έγγραφα.</li><li>Κάντε κλικ στο Δοκιμή ξανά για να εκ νέου αίτηση του εγγράφου από την ιστοσελίδα.</li></ul>">
-
-<!ENTITY netOffline.title "Λειτουργία εκτός σύνδεσης">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -84,15 +64,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Σφάλμα κωδικοποίησης περιεχομένου">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "Επισφαλής τύπος αρχείου">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -100,23 +76,15 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Έγινε επαναφορά της σύνδεσης">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Το χρονικό όριο σύνδεσης έληξε">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "Η διεύθυνση δεν έγινε κατανοητή">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Ίσως να χρειάζεται να εγκαταστήσετε κάποιο άλλο λογισμικό για το άνοιγμα αυτής της διεύθυνσης.</li>
 </ul>
 ">
-
-<!ENTITY proxyConnectFailure.title "Ο διαμεσολαβητής αρνείται συνδέσεις">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -125,8 +93,6 @@
 λειτουργεί.</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "Δεν ήταν δυνατή η εύρεση διαμεσολαβητή">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -137,16 +103,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Η σελίδα δεν ανακατευθύνει σωστά">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Αυτό το πρόβλημα μπορεί να προέρχεται από την απενεργοποίηση ή την άρνηση αποδοχής των
     cookies.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Απρόσμενη απάντηση από τον εξυπηρετητή">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -156,17 +118,12 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Αποτυχία ασφαλούς σύνδεσης">
-
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή δεν είναι δυνατή η πιστοποίηση της αυθεντικότητας των ληφθέντων δεδομένων.</li>
   <li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.</li>
 </ul>
 ">
-
-<!ENTITY certerror.longpagetitle2 "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
-<!ENTITY certerror.sts.longpagetitle  "Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -205,11 +162,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
-
 <!ENTITY cspBlocked.longDesc "<p>Το &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Σφάλμα κατεστραμμένου περιεχομένου">
 
 <!ENTITY xfoBlocked.longDesc "<p>Το &brandShortName; εμπόδισε τη φόρτωση της σελίδας, επειδή η σελίδα έχει μια πολιτική X-Frame-Options που δεν το επιτρέπει.</p>">
 
@@ -220,11 +173,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε τη Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοσελίδων">
 <!ENTITY errorReporting.learnMore "Μάθετε περισσότερα…">
 
-<!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
-
-<!ENTITY sslv3Used.title "Αδύνατη η ασφαλής σύνδεση">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -235,15 +184,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Το <span class='hostname'></span> έχει μια πολιτική ασφαλείας, που ονομάζεται HTTP Strict Transport Security (HSTS) και σημαίνει ότι το &brandShortName; μπορεί να συνδεθεί μόνο με ασφαλή τρόπο. Δεν μπορείτε να προσθέσετε μια εξαίρεση για να επισκεφθείτε αυτή την ιστοσελίδα.">
 <!ENTITY certerror.copyToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
 
-<!ENTITY inadequateSecurityError.title "Η σύνδεσή σας δεν είναι ασφαλής">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "Το <p><span class='hostname'></span> χρησιμοποιεί παρωχημένη και ευάλωτη σε επίθεση τεχνολογία ασφάλειας. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που θεωρείτε ασφαλείς. Ο διαχειριστής του ιστότοπου θα πρέπει να τον διορθώσει προτού μπορέσετε να τον επισκεφθείτε.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
-
-<!ENTITY certerror.mitm.title "Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του &brandShortName; με αυτή την ιστοσελίδα">
 
 <!ENTITY certerror.mitm.longDesc "Το <span class='hostname'></span> είναι πιθανώς μια ασφαλής ιστοσελίδα, αλλά δεν ήταν δυνατή η δημιουργία ασφαλούς σύνδεσης. Αυτό το ζήτημα προκαλείται από το <span class='mitm-name'/>, που είναι λογισμικό είτε στον υπολογιστή σας είτε στο δίκτυό σας.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Αν το λογισμικό προστασίας σας από ιούς περιλαμβάνει μια λειτουργία που σαρώνει κρυπτογραφημένες συνδέσεις (συχνά, ονομάζεται “σάρωση web” ή “σάρωση https”), μπορείτε να απενεργοποιήσετε αυτή τη λειτουργία. Αν αυτό δεν λειτουργεί, μπορείτε να καταργήσετε και να εγκαταστήσετε εκ νέου το λογισμικό προστασίας από ιούς.">
@@ -251,14 +196,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Αν δεν είστε εξοικειωμένοι με το <span class='mitm-name'/>, τότε ίσως πρόκειται για επίθεση και δεν θα πρέπει να συνεχίσετε στην ιστοσελίδα.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Αν δεν είστε εξοικειωμένοι με το <span class='mitm-name'/>, τότε ίσως πρόκειται για επίθεση και δεν μπορείτε να κάνετε τίποτα για να προσπελάσετε την ιστοσελίδα.">
 
-<!ENTITY clockSkewError.title "Το ρολόι του υπολογιστή σας είναι λάθος">
-
 <!ENTITY clockSkewError.longDesc "Ο υπολογιστής σας νομίζει ότι είναι <span id='wrongSystemTime_systemDate1'/>, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;. Για να επισκεφθείτε το <span class='hostname'></span>, ενημερώστε το ρολόι του υπολογιστή στην τρέχουσα ημερομηνία, ώρα και ζώνη ώρας από τις ρυθμίσεις συστήματος και, έπειτα, κάντε ανανέωση του <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Μοιάζει να προκαλείται από τις ρυθμίσεις ασφαλείας του δικτύου σας. Θέλετε να αποκατασταθούν οι προεπιλεγμένες ρυθμίσεις;">
 <!ENTITY prefReset.label "Επαναφορά προεπιλεγμένων ρυθμίσεων">
-
-<!ENTITY networkProtocolError.title "Σφάλμα πρωτοκόλλου δικτύου">
 
 <!ENTITY enableTls10.longDesc "Αυτή η ιστοσελίδα ενδέχεται να μην υποστηρίζει το πρωτόκολλο TLS 1.2, το οποίο είναι η παλαιότερη έκδοση που υποστηρίζεται από το &brandShortName;. Η ενεργοποίηση του TLS 1.0 και του TLS 1.1 ίσως επιτρέψει αυτή τη σύνδεση.">
 <!ENTITY enableTls10.note "Τα TLS 1.0 και TLS 1.1 θα απενεργοποιηθούν οριστικά σε μια μελλοντική έκδοση.">

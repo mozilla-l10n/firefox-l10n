@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Επικόλληση χωρίς μορφοποίηση">
 <!ENTITY pasteNoFormatting.accesskey "κ">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Επικόλληση ως">
-<!ENTITY pasteAs.accesskey "ω">
 <!ENTITY pasteAsQuotationCmd.label "Επικόλληση ως παράθεση">
 <!ENTITY pasteAsQuotationCmd.accesskey "ρ">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Εύρεση…">
-<!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση…">
-<!ENTITY enableInlineSpellChecker.label "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
-<!ENTITY enableInlineSpellChecker.accesskey "θ">
-<!ENTITY checkSpellingCmd2.label "Ορθογραφικός έλεγχος…">
-<!ENTITY checkSpellingCmd2.accesskey "χ">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Εισαγωγή">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Κύριος μέρος κειμένου">
 <!ENTITY bodyTextCmd.accesskey "μ">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Προηγμένες ιδιότητες">
-<!ENTITY advancedPropertiesCmd.accesskey "γ">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Στοίχιση">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Πλήρης στοίχιση">
 <!ENTITY alignJustify.accesskey "Π">
 <!ENTITY alignJustify.tooltip "Πλήρης στοίχιση">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Επίπεδο">
-<!ENTITY layerSendToBack.tooltip "Μεταφορά πίσω">
-<!ENTITY layerBringToFront.tooltip "Μεταφορά μπροστά">
 
 <!ENTITY increaseIndent.label "Αύξηση εσοχής">
 <!ENTITY increaseIndent.accesskey "Α">
@@ -283,19 +262,6 @@
 <!ENTITY tableProperties.accesskey "δ">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Γραμμή εργαλείων μενού">
-<!ENTITY formatToolbar.tooltip "Γραμμή εργαλείων μορφοποίησης">
-<!ENTITY cutToolbarCmd.tooltip "Αποκοπή">
-<!ENTITY copyToolbarCmd.tooltip "Αντιγραφή">
-<!ENTITY pasteToolbarCmd.tooltip "Επικόλληση">
-<!ENTITY printToolbarCmd.label "Εκτύπωση">
-<!ENTITY printToolbarCmd.tooltip "Εκτύπωση αυτής της σελίδας">
-<!ENTITY findToolbarCmd.label "Εύρεση">
-<!ENTITY findToolbarCmd.tooltip "Εύρεση κειμένου στη σελίδα">
-<!ENTITY spellToolbarCmd.label "Ορθογραφικός έλεγχος">
-<!ENTITY spellToolbarCmd.tooltip "Ορθογραφικός έλεγχος στην επιλογή ή σε όλη τη σελίδα">
-
-<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Εικόνα">
 <!ENTITY imageToolbarCmd.tooltip "Εισαγωγή νέας εικόνας ή επεξεργασία ιδιοτήτων επιλεγμένης εικόνας">
 <!ENTITY hruleToolbarCmd.label "Οριζ. γραμμή">
@@ -308,8 +274,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Εισαγωγή νέας άγκυρας ή επεξεργασία ιδιοτήτων επιλεγμένης άγκυρας">
 <!ENTITY TextColorButton.tooltip "Επιλογή χρώματος κειμένου">
 <!ENTITY BackgroundColorButton.tooltip "Επιλογή χρώματος παρασκηνίου">
-<!ENTITY throbber.tooltip2 "Μεταβείτε στην αρχική σελίδα του &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ορισμός μεγέθους γραμματοσειράς">
@@ -328,14 +292,6 @@
 <!ENTITY alignCenterButton.tooltip "Στοίχιση κειμένου στο κέντρο">
 <!ENTITY alignRightButton.tooltip "Στοίχιση κειμένου μαζί με δεξιό περιθώριο">
 <!ENTITY alignJustifyButton.tooltip "Στοίχιση κειμένου μαζί με δεξιό και αριστερό περιθώριο">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Επιλογή">
-<!ENTITY structSelect.accesskey     "λ">
-<!ENTITY structRemoveTag.label      "Αφαίρεση ετικέτας">
-<!ENTITY structRemoveTag.accesskey  "ρ">
-<!ENTITY structChangeTag.label      "Αλλαγή ετικέτας">
-<!ENTITY structChangeTag.accesskey  "κ">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Εισαγωγή">

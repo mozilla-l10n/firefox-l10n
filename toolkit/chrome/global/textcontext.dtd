@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Αποκοπή">
-<!ENTITY cutCmd.accesskey "κ">
-<!ENTITY copyCmd.label "Αντιγραφή">
-<!ENTITY copyCmd.accesskey "Α">
-<!ENTITY pasteCmd.label "Επικόλληση">
-<!ENTITY pasteCmd.accesskey "Ε">
-<!ENTITY undoCmd.label "Αναίρεση">
-<!ENTITY undoCmd.accesskey "ν">
-<!ENTITY selectAllCmd.label "Επιλογή όλων">
-<!ENTITY selectAllCmd.accesskey "λ">
-<!ENTITY deleteCmd.label "Διαγραφή">
-<!ENTITY deleteCmd.accesskey "Δ">
-
 <!ENTITY spellAddToDictionary.label "Προσθήκη στο λεξικό">
 <!ENTITY spellAddToDictionary.accesskey "θ">
 <!ENTITY spellUndoAddToDictionary.label "Αναίρεση προσθήκης στο λεξικό">

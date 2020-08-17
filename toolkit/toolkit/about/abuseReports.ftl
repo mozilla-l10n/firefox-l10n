@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Ακύρωση
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Βλάπτει τον υπολογιστή και τα δεδομένα μου
-
 abuse-report-damage-reason-v2 = Έβλαψε τον υπολογιστή ή τα δεδομένα μου
 abuse-report-damage-example = Παράδειγμα: Εγκατέστησε κακόβουλο λογισμικό ή έκλεψε δεδομένα
 
-abuse-report-spam-reason = Δημιουργεί ανεπιθύμητα μηνύματα ή διαφημίσεις
-
 abuse-report-spam-reason-v2 = Περιέχει ανεπιθύμητα μηνύματα ή διαφημίσεις
 abuse-report-spam-example = Παράδειγμα: Εισάγει διαφημίσεις σε ιστοσελίδες
-
-abuse-report-settings-reason = Άλλαξε τη μηχανή αναζήτησης, την αρχική σελίδα ή τη νέα καρτέλα μου, χωρίς να με πληροφορήσει/ρωτήσει
 
 abuse-report-settings-reason-v2 = Άλλαξε τη μηχανή αναζήτησης, την αρχική σελίδα ή τη νέα καρτέλα μου, χωρίς να με πληροφορήσει/ρωτήσει
 abuse-report-settings-suggestions = Πριν αναφέρετε την επέκταση, μπορείτε να δοκιμάσετε να αλλάξετε τις ρυθμίσεις σας:
 abuse-report-settings-suggestions-search = Αλλάξτε τις προεπιλεγμένες ρυθμίσεις αναζήτησης
 abuse-report-settings-suggestions-homepage = Αλλάξτε την αρχική σελίδα και τη νέα καρτέλα
 
-abuse-report-deceptive-reason = Προσποιείται ότι είναι κάτι που δεν είναι
-
 abuse-report-deceptive-reason-v2 = Προσποιείται ότι είναι κάτι που δεν είναι
 abuse-report-deceptive-example = Παράδειγμα: Παραπλανητική περιγραφή ή απεικόνιση
-
-abuse-report-broken-reason-extension = Δεν λειτουργεί, χαλάει ιστοσελίδες, ή επιβραδύνει το { -brand-product-name }
-abuse-report-broken-reason-theme = Δεν λειτουργεί ή χαλάει την προβολή του προγράμματος περιήγησης
 
 abuse-report-broken-reason-extension-v2 = Δεν λειτουργεί, χαλάει ιστοσελίδες, ή επιβραδύνει το { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Δεν λειτουργεί ή χαλάει την προβολή του προγράμματος περιήγησης
@@ -99,15 +88,11 @@ abuse-report-broken-suggestions-theme =
     να επιλυθεί ένα ζήτημα λειτουργικότητας είναι να επικοινωνήσετε με τον προγραμματιστή του θέματος.
     <a data-l10n-name="support-link">Επισκεφθείτε την ιστοσελίδα του θέματος</a> για να λάβετε τις πληροφορίες του προγραμματιστή.
 
-abuse-report-policy-reason = Περιεχόμενο μίσους, βίας ή εκτός νόμου
-
 abuse-report-policy-reason-v2 = Περιέχει περιεχόμενο μίσους, βίας ή παρανομίας
 abuse-report-policy-suggestions =
     Σημείωση: Τα ζητήματα πνευματικών δικαιωμάτων και εμπορικών σημάτων πρέπει να αναφέρονται σε ξεχωριστή διαδικασία.
     <a data-l10n-name="report-infringement-link">Ακολουθήστε αυτές τις οδηγίες</a> για να
     αναφέρετε το πρόβλημα.
-
-abuse-report-unwanted-reason = Δεν ήθελα ποτέ αυτή την επέκταση και δεν μπορώ να την αφαιρέσω
 
 abuse-report-unwanted-reason-v2 = Δεν το ήθελα ποτέ και δεν ξέρω πώς να το αφαιρέσω
 abuse-report-unwanted-example = Παράδειγμα: Μια εφαρμογή το εγκατέστησε χωρίς την άδειά μου
