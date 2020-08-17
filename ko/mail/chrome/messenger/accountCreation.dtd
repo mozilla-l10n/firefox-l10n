@@ -14,12 +14,12 @@
 <!ENTITY email3.placeholder              "이메일 주소">
 <!ENTITY email.text                      "기존 이메일 주소">
 <!ENTITY email.error                     "잘못된 이메일 주소">
-<!ENTITY password.label                  "암호:">
+<!ENTITY password.label                  "비밀번호:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.placeholder            "계정 암호 입력">
-<!ENTITY password.text                   "계정 이름을 검증하기 위해 사용">
+<!ENTITY password.placeholder            "비밀번호">
+<!ENTITY password.text                   "선택 사항: 사용자 이름 확인 용도로만 사용">
 <!ENTITY password.toggle                 "비밀번호 표시/숨기기">
-<!ENTITY rememberPassword.label          "암호 저장">
+<!ENTITY rememberPassword.label          "비밀번호 저장">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "사용자 로그인:">
 <!ENTITY usernameEx.accesskey            "l">
@@ -75,8 +75,6 @@
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "새 메일 주소 만들기…">
 <!ENTITY open-provisioner.accesskey      "g">
-
-
 <!ENTITY get-help.label                  "도움말">
 <!ENTITY get-help.accesskey              "H">
 
