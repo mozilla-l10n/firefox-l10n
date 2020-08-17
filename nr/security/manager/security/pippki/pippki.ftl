@@ -21,6 +21,9 @@ change-password-reenter = Inomboro yokungena etja (godu):
 reset-password-window =
     .title = Hlela butjha inomboro yokungena elawulako
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Hlela butjha
 reset-password-text = Nakube uhlela butjha inomboro yakho yokungena elawulako, zoke iinomboro zokungena zakho ze-web neze-email, ukusukela kumininingwane, iintifikhethi zakho neenkhiya zangasese zizokukhohlweka. Uqinisile bona ufuna ukuhlela godu inomboro yokungena elawulako?

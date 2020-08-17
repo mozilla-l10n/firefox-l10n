@@ -52,14 +52,11 @@
 <!ENTITY maxMessagesEnd.label "imilayezo">
 <!ENTITY alwaysAuthenticate.label "Ngaso soke isikhathi bawa isiqiniseko nawuzihlanganisa nesisetjenziswesi">
 <!ENTITY alwaysAuthenticate.accesskey "n">
-<!ENTITY newsrcFilePath.label "newsrc nefayili:">
-<!ENTITY newsrcPicker.label "Khetha ifayili leendaba">
 <!ENTITY abbreviate.label "Tjengisa amabizo weenchema zeendaba emvilobhini ye poso nje:">
 <!ENTITY abbreviateOn.label "Amagama aphelele (Isibonelo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Rhunyeza amagama (Isibonelo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Okuphambil...">
 <!ENTITY advancedButton.accesskey "o">
-<!ENTITY localPath.label "Irherho lemininingwana yangaphakathi:">
 <!ENTITY localFolderPicker.label "Khetha irherho lemininingwana langaphakathi">
 <!ENTITY browseFolder.label "Funisisa hlangana...">
 <!ENTITY browseFolder.accesskey "F">

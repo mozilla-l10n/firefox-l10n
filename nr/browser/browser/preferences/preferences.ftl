@@ -192,6 +192,7 @@ use-current-pages =
 ## Privacy Section - Logins and Passwords
 
 forms-master-pw-fips-title = Kwagades ukumhlobo weFIPS. IFIPS idinga inomboro yokungena elawulako enelitho.
+
 forms-master-pw-fips-desc = Ukutjhugululwa Kwenomboro Yokungena Kuhlulekile
 
 ## OS Authentication dialog
@@ -231,6 +232,8 @@ forms-master-pw-fips-desc = Ukutjhugululwa Kwenomboro Yokungena Kuhlulekile
 
 ## Privacy Section - Certificates
 
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

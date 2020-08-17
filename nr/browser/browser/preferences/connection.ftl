@@ -9,10 +9,6 @@ connection-proxy-option-auto =
     .label = Izakhiwo zokuzwa ngokuzenzakalela zehlanganiso leli
     .accesskey = i
 
-connection-proxy-http-share =
-    .label = Sebenzisa isijamelesi mayelana neemvumelwano zoke
-    .accesskey = s
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

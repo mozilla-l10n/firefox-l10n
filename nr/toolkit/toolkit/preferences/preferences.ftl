@@ -14,6 +14,7 @@ pw-erased-ok = Usule inomboro yakho yokungena elawulako. { pw-empty-warning }
 pw-not-wanted = Yelela! Ukhethe ukungasebenzisi Inomboro Yokungena Elawulako. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Kwagades ukumhlobo weFIPS. IFIPS idinga inomboro yokungena elawulako enelitho.
+
 pw-change-success-title = Ukutjhugululwa Kwenomboro Yokungena Kuphumelele
 pw-change-failed-title = Ukutjhugululwa Kwenomboro Yokungena Kuhlulekile
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Tjhugulula Inomboro elawula ukungena
+
 set-password-old-password = Inomboro yokungena Yanje:
 set-password-new-password = Tlola inomboro Yokungena Etja:
 set-password-reenter-password = Tloga Godu Inomboro Yokungena:
@@ -31,6 +33,7 @@ master-password-warning = Sibawa qiniseka bonanyana ukhumbulu inomboro yokungena
 
 remove-password =
     .title = Susa Inomboro Yokungena Elawulako
+
 remove-info =
     .value = Kufanele ufake inomboro yakho yokungena oyisebenzisa nje ukuragela phambili:
 remove-warning1 = Inomboro Yakho Yokungena Elawulako isetjenziselwa ukuvikela imininingwane efihlakeleko njengenomboro zokungena zendawo.

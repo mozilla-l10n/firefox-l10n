@@ -58,22 +58,14 @@
 <!ENTITY redoCmd.label "Yenza Godu">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "y">
-<!ENTITY cutCmd.label "Sika">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "s">
-<!ENTITY copyCmd.label "Kopa">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Namathisela">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
 <!ENTITY editRewrapCmd.accesskey "s">
 <!ENTITY deleteCmd.label "Cima">
 <!ENTITY deleteCmd.accesskey "c">
 <!ENTITY editRewrapCmd.label "Songa godu">
-<!ENTITY selectAllCmd.label "Khetha Koke">
 <!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Thola godu">
 <!ENTITY findAgainCmd.accesskey "t">
 <!ENTITY findAgainCmd.key "G">
@@ -180,17 +172,8 @@
 
 <!-- Headers -->
 
-<!ENTITY fromAddr.label "Iphuma ku:">
 <!ENTITY fromAddr.accesskey "i">
-<!ENTITY toAddr.label "Iya ku:">
-<!ENTITY ccAddr.label "Kopela:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Phendulela-ku:">
-<!ENTITY newsgroupsAddr.label "IsichemaSeendaba:">
-<!ENTITY followupAddr.label "Landelela-Ku:">
-<!ENTITY subject.label "Isihloko:">
 <!ENTITY subject.accesskey "I">
-<!ENTITY attachments.accesskey "i">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
