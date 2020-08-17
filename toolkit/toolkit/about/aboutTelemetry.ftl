@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = పింగ్ డేటా మూలం :
-about-telemetry-show-current-ping-data = ప్రస్తుత పింగ్ డేటా
 about-telemetry-show-archived-ping-data = భద్రపరచిన పింగ్ డేటా
 about-telemetry-show-subsession-data = ఉప సెషన్ డేటా చూపించు
 about-telemetry-choose-ping = పింగ్ ఎంచుకోండి:
@@ -71,8 +70,6 @@ about-telemetry-no-search-results-all = క్షమించాలి! “{ $se
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = క్షమించాలి! “{ $sectionName }” లో ప్రస్తుతం ఏ సమాచారం అందుబాటులో లేదు
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ప్రస్తుత పింగ్
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = అన్నీ
 # button label to copy the histogram

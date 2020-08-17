@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ఫైలును ఎంచుకోండి…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "ఈ సైటుని మర్చిపో">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "తెరువు">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "కొత్త విండోలో తెరువు">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "కొత్త ఆంతరంగిక విండోలో తెరువు">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "కొత్త ట్యాబులో తెరువు">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "అన్నింటినీ ట్యాబులలో తెరువు">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "లక్షణములు">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "పేరు ద్వారా క్రమపరచు">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "కొత్త ఇష్టాంశము…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "కొత్త సంచయం…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "కొత్త సెపరేటర్">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "పేరు">
 <!ENTITY col.tags.label          "ట్యాగులు">
 <!ENTITY col.url.label           "స్థానము">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "చూపుల సంఖ్య">
 <!ENTITY col.dateadded.label     "జతచేయబడింది">
 <!ENTITY col.lastmodified.label  "చివరిగా సవరించిన">
-
-<!ENTITY historySearch.placeholder  "చరిత్రలో వెతకండి">
-<!ENTITY bookmarksSearch.placeholder  "ఇష్టాంశాలను వెతకండి">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి">
 
-<!ENTITY view.label               "చూడండి">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "తేదీని అనుసరించి">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "సైటుని అనుసరించి">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "ఎక్కవగా చూసిన దానిని అనుసరించి">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "చివరిసారిగా చూసిన దానిని అనుసరించి">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "తేదీ మరియు సైటుని అనుసరించి">
-<!ENTITY byDayAndSite.accesskey   "t">

@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = దీన్ని గూగుల్ ప్లే నుండి పొందండి
 login-app-promo-apple =
     .alt = App Store నుండి దింపుకోండి
+
 login-filter =
     .placeholder = ప్రవేశాలను వెతకండి
+
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
+
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
 fxaccounts-sign-in-button = { -sync-brand-short-name } లోనికి ప్రవేశించండి
 fxaccounts-avatar-button =
@@ -68,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = మీరు భద్రపరుచుకొన్న ప్రవేశాల కోసం వెతుకుతున్నారా? { -sync-brand-short-name } అమర్చుకోండి.
+
 about-logins-login-intro-heading-logged-out = మీరు భద్రపరుచుకొన్న ప్రవేశాల కోసం వెతుకుతున్నారా? { -sync-brand-short-name } అమర్చుకోండి లేదా వాటిని దిగుమతి చేసుకోండి.
 about-logins-login-intro-heading-logged-in = సింక్రనిత ప్రవేశాలేమీ కనబడలేదు.
 login-intro-description = మరో పరికరంలో మీ ప్రవేశాలను { -brand-product-name }‌లో భద్రపరచుకొని ఉంటే, వాటిని ఇక్కడకు తెచ్చుకోవడం ఇలా:
@@ -142,11 +146,14 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = రద్దుచేయి
 confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
+
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
+
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
+
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు
@@ -171,6 +178,7 @@ about-logins-vulnerable-alert-learn-more-link = ఇంకా తెలుసు�
 
 # This is a generic error message.
 about-logins-error-message-default = ఈ సంకేతపదాన్ని భద్రపరచడానికి ప్రయత్నిస్తున్నప్పుడు ఏదో పొరపాటు జరిగింది.
+
 
 ## Login Export Dialog
 

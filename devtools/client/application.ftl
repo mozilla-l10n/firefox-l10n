@@ -14,16 +14,16 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = సర్వీస్ వర్కర్లు
+
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = డీబగ్
     .title = నడుస్తూన్న సర్వీస్ వర్కర్లను మాత్రమే డిబగ్ చేయగలరు
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = మెదలుపెట్టు
+
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = మూలం
+
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = స్థితి
 
@@ -33,10 +33,10 @@ serviceworker-worker-status = స్థితి
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = నడుస్తోంది
+
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = అగివుంది
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = నమోదవుతోంది
+
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = ఇంకా తెలుసుకోండి
+

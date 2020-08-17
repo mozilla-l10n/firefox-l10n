@@ -20,19 +20,6 @@
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 
-<!ENTITY stats.media "మాధ్యమం">
-<!ENTITY stats.size "పరిమాణం">
-<!ENTITY stats.activity "కార్యకలాపం">
-<!ENTITY stats.activityPaused "నిలుపబడింది">
-<!ENTITY stats.activityPlaying "నడుపుతోంది">
-<!ENTITY stats.activityEnded "ముగించెను">
-<!ENTITY stats.activitySeeking "(తెస్తోంది)">
-<!ENTITY stats.volume "ధ్వని">
-<!ENTITY stats.framesParsed "పార్సయిన ఫ్రేములు">
-<!ENTITY stats.framesDecoded "డికోడ్ అయిన ఫ్రేములు">
-<!ENTITY stats.framesPresented "సమర్పించిన ఫ్రేములు">
-<!ENTITY stats.framesPainted "పెయింటైన ఫ్రేములు">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -47,13 +34,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.noSource2 "తోడ్పాటు నిచ్చు ఫార్మాట్ లేదా MIME రకముతో యే వీడియో కనబడలేదు.">
 <!ENTITY error.generic "ఒక తెలియని తప్పిదం వల్ల వీడియో ప్లేబాక్ నిలిచిపోయింది.">
 
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "మొత్తం #2 లో #1 మిగిలివుంది">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

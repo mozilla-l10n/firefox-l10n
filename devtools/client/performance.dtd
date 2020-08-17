@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "సాంపుల్ ఫంక్షన్ యొక్క పేరు మరియు సోర్స్ స్థలం.">
 <!ENTITY performanceUI.table.totalAlloc               "మొత్తం నమూనాలు అలాకేషన్స్">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ఈ స్థానంలో నమూనాల ఆబ్జెక్ట్ కేటాయింపులు మరియు కాళాస్ లో మొత్తం సంఖ్య.">
-<!ENTITY performanceUI.table.selfAlloc                "స్వయ నమూనాలు అలాకేషన్స్">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "ఈ స్థానంలో సాంపుల్ ఆబ్జెక్ట్ కేటాయింపులు సంఖ్య.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

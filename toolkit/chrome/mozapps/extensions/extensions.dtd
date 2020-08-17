@@ -3,72 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "చేతనపరచు">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "అచేతనపరచు">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "క్రియాశీలపరచుటకు అడుగు">
-<!ENTITY cmd.askToActivate.tooltip            "ప్రతిసారి ఈ పొడిగింత ఉపయోగించుటకు అడుగు">
-<!ENTITY cmd.alwaysActivate.label             "ఎల్లప్పుడూ క్రియాశీలపరుచు">
-<!ENTITY cmd.alwaysActivate.tooltip           "ఎల్లప్పుడూ ఈ పొడగింతను వాడు">
-<!ENTITY cmd.neverActivate.label              "ఎప్పుడూ క్రియాశీలపరచవద్దు">
-<!ENTITY cmd.neverActivate.tooltip            "ఈ పొడగింతను ఎప్పుడూ వాడవద్దు">
-<!ENTITY cmd.stateMenu.tooltip                "ఈ పొడగింత ఎప్పుడు నడవాలో మార్చండి">
-
-<!ENTITY cmd.uninstallAddon.label             "తీసివేయి">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "ఎంపికలు">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ఈ పొడిగింత యొక్క ఎంపికలను మార్చు">
-<!ENTITY cmd.showPreferencesUnix.label        "అభిరుచులు">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు">
-
-<!ENTITY cmd.showReleaseNotes.label           "విడుదల నోట్స్ చూపు">
-<!ENTITY cmd.showReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ చూపు">
-<!ENTITY cmd.hideReleaseNotes.label           "విడుదల నోట్స్ మరుగుపరచు">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ మరుగుపరచు">
-<!ENTITY cmd.findReplacement.label            "ప్రత్యామ్నాయాలు కనుగొను">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "రద్దుచేయి">
-
-<!ENTITY addon.details.label                  "ఇంకా">
-<!ENTITY addon.details.tooltip                "ఈ పొడిగింత గురించి మరిన్ని వివరములను చూపు">
-<!ENTITY addon.unknownDate                    "తెలియని">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "సాంప్రదాయకం">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(అచేతనమైంది)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "నవీకరించు">
-<!ENTITY addon.undoAction.label               "చర్యరద్దు">
-<!ENTITY addon.undoAction.tooltip             "ఈ చర్యను చేయవద్దు">
-<!ENTITY addon.undoRemove.label               "చర్యరద్దు">
-<!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింతను స్థాపించబడి ఉండనివ్వు">
-
-<!ENTITY addon.install.label                  "స్థాపించు">
-<!ENTITY addon.install.tooltip                "ఈ పొడిగింతను స్థాపించు">
-<!ENTITY addon.updateNow.label                "ఇప్పుడు నవీకరించు">
-<!ENTITY addon.updateNow.tooltip              "ఈ పొడిగింత యొక్క తాజాకరణను స్థాపించు">
-<!ENTITY addon.includeUpdate.label            "నవీకరణలో చేర్చు">
-<!ENTITY addon.updateAvailable.label          "ఒక నవీకరణ అందుబాటులోవుంది">
-<!ENTITY addon.checkingForUpdates.label       "నవీకరణల కొరకు పరిశీలిస్తున్నది…">
-<!ENTITY addon.releaseNotes.label             "విడుదల నోట్స్:">
-<!ENTITY addon.loadingReleaseNotes.label      "లోడవుచున్నది…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "క్షమించండి, విడుదల నోట్స్ లోడవ్వుటలో దోషము ఉంది.">
-
-<!ENTITY addon.createdBy.label                "చేత ">
-
-<!ENTITY settings.path.button.label           "విహరించు…">
 
 <!ENTITY setting.learnmore "ఇంకా తెలుసుకోండి…">
 

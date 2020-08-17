@@ -18,10 +18,13 @@ protections-popup-footer-protection-label-standard = ప్రామాణిక
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = మెరుగైన ట్రాకింగ్ సంరక్షణ గురించి మరింత సమాచారం
+
 protections-panel-etp-on-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా ఉంది
 protections-panel-etp-off-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా లేదు
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = సైటు పనిచేయట్లేదా?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = సైటు పనిచేయట్లేదా?
@@ -34,6 +37,7 @@ protections-panel-not-blocking-why-label = ఎందుకు?
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name }కి తెలిసిన ట్రాకర్లేమీ ఈ పేజీలో కనబడలేదు.
+
 protections-panel-content-blocking-socialblock = సామాజిక మాధ్యమాల ట్రాకర్లు
 protections-panel-content-blocking-cryptominers-label = క్రిప్టోమైనర్లు
 protections-panel-content-blocking-fingerprinters-label = ఫింగర్‌ప్రింటర్లు
@@ -67,6 +71,7 @@ protections-panel-site-not-working-view-issue-list-videos = వీడియో�
 protections-panel-content-blocking-manage-settings =
     .label = సంరక్షణ అమరికలను నిర్వహించుకోండి
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

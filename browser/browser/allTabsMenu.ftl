@@ -9,13 +9,17 @@ all-tabs-menu-undo-close-tabs =
             [one] మూసిన ట్యాబుని తిరిగి తెరువు
            *[other] మూసిన ట్యాబులను తిరిగి తెరువు
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = ట్యాబులలో వెతకండి
+
 all-tabs-menu-new-user-context =
     .label = కొత్త కంటైనర్ ట్యాబు
+
 all-tabs-menu-hidden-tabs =
     .label = దాచిన ట్యాబులు
+
 all-tabs-menu-manage-user-context =
     .label = కంటెయినర్లను నిర్వహించండి
     .accesskey = O
