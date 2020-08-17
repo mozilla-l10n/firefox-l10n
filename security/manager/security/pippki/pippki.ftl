@@ -8,8 +8,10 @@ password-quality-meter = 密碼品質測量計
 
 change-password-window =
     .title = 變更主控密碼
+
 change-device-password-window =
     .title = 更改密碼
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = 安全裝置: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = 新密碼 (再輸入一次):
 reset-password-window =
     .title = 重設主控密碼
     .style = width: 40em
+
 pippki-failed-pw-change = 無法更改密碼。
 pippki-incorrect-pw = 您輸入的目前密碼錯誤，請再試一次。
 pippki-pw-change-ok = 成功變更密碼。
+
 pippki-pw-empty-warning = 將不再保護您儲存的密碼與私鑰。
 pippki-pw-erased-ok = 您已刪除密碼，{ pippki-pw-empty-warning }
 pippki-pw-not-wanted = 警告，您已決定不使用密碼，{ pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = 您目前使用 FIPS 模式。FIPS 模式必需設定密碼。
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = 重設
 reset-password-text = 如果您要重設主控密碼，您所有的網頁與電子郵件密碼、表單資料、個人憑證、私密金鑰等資訊都會被清除。您確定要重設主控密碼嗎？
+
 reset-primary-password-text = 如果要重設主控密碼，您所有的網頁與電子郵件密碼、個人憑證、私密金鑰等資訊都會被清除。確定要重設主控密碼嗎？
+
 pippki-reset-password-confirmation-title = 重設主控密碼
 pippki-reset-password-confirmation-message = 成功重設您的主控密碼。
 

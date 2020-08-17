@@ -20,4 +20,6 @@ otr-requireEncryption =
 otr-require-encryption-info = 要求必須進行端到端加密時，若一對一訊息當中的對話無法被加密，就不會送出。收到的訊息若未加密，也不會被記錄或出現於對話中。
 otr-verifyNudge =
     .label = 總是提醒我要對尚未驗證的聯絡人做驗證
+
 otr-notYetAvailable = 還無法使用
+

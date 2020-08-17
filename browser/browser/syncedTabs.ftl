@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = 同步的分頁
 synced-tabs-sidebar-noclients-subtitle = 想在這裡看到您其他裝置上開啟的分頁嗎？
-synced-tabs-sidebar-notsignedin = 登入以檢視您其他裝置中的分頁清單。
 synced-tabs-sidebar-intro = 檢視您其他裝置中的分頁清單。
 synced-tabs-sidebar-unverified = 需要驗證您的帳號。
 synced-tabs-sidebar-notabs = 無已開啟的分頁

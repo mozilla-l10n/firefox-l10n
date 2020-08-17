@@ -71,13 +71,6 @@
 <!ENTITY notCached.longDesc "<p>您所請求的文件已不存在於 &brandShortName; 的快取當中。</p><ul><li>為了您的安全，&brandShortName; 將不會自動重新請求敏感文件。</li><li>請點下重試以重新向網站請求取得文件。</li></ul>">
 
 <!ENTITY netOffline.title "離線模式">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>
-  <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。
-    <button id='wifi'>開啟 Wi-Fi</button>
-  </li>
-</ul>">
 
 <!ENTITY contentEncodingError.title "內容編碼錯誤">
 <!ENTITY contentEncodingError.longDesc "

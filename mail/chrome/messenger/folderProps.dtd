@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "信件匣類型:">
 
 <!ENTITY folderQuotaTab.label                    "配額">
-<!ENTITY folderQuotaRoot.label                   "配額根目錄:">
 <!ENTITY folderQuotaUsage.label                  "用量:">
 <!ENTITY folderQuotaStatus.label                 "狀態:">
 

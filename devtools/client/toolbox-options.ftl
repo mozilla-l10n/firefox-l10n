@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = 啟用遠端除錯
-options-enable-remote-tooltip =
-    .title = 開啟此選項將允許開發者工具對遠端實例，例如 Firefox OS 除錯
 
 options-enable-remote-tooltip2 =
     .title = 開啟此選項後，將允許從遠端對此瀏覽器除錯

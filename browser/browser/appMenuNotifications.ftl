@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = 請點擊 <image data-l10n-name='addon-menu
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允許此擴充套件於隱私瀏覽視窗中執行
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = 於隱私視窗中對擴充套件行為的變更
-    .buttonlabel = 管理擴充套件
-    .buttonaccesskey = M
-    .secondarybuttonlabel = 好的，知道了
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = 除非您在設定中允許，否則任何新安裝到 { -brand-shorter-name } 的擴充套件都將無法在隱私瀏覽視窗中使用。
-appmenu-addon-private-browsing-learn-more = 了解如何管理擴充套件設定。
     
 appmenu-new-tab-controlled =
     .label = 您的「新分頁」已經變更。

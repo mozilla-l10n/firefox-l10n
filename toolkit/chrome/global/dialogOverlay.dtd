@@ -7,5 +7,4 @@
 <!-- OK Cancel Buttons -->
 <!ENTITY okButton.label      "確定">
 <!ENTITY cancelButton.label  "取消">
-<!ENTITY helpButton.label    "說明">
 

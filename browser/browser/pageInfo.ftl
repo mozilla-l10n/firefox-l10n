@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = 另存新檔…
     .accesskey = e
-media-preview =
-    .value = 媒體預覽:
 
 perm-tab =
     .label = 權限
@@ -132,7 +130,6 @@ security-site-data-cookies-only = 有，僅 Cookie
 security-site-data-no = 無
 
 image-size-unknown = 未知
-not-set-verified-by = 未指定
 page-info-not-specified =
     .value = 未指定
 not-set-alternative-text = 未指定
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Quirks 模式
 general-strict-mode =
     .value = 標準遵循模式
-security-no-owner = 這個網站沒有提供擁有者資訊。
 page-info-security-no-owner =
     .value = 這個網站沒有提供擁有者資訊。
 media-select-folder = 請選擇要儲存圖片的資料夾

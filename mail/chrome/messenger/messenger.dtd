@@ -525,17 +525,6 @@
 <!ENTITY errorConsoleCmd.label "錯誤主控台">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "程式碼速記本">
-<!ENTITY scratchpadCmd.accesskey "S">
-
-<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
-    This should be a key code constant as per
-    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
-    (but without the DOM_ prefix) -->
-<!ENTITY scratchpadCmd.keycode "VK_F4">
-<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
-    This should be the text printed on the key defined in the previous string. -->
-<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "下載郵件">
@@ -589,7 +578,6 @@
 <!ENTITY forwardAsAttachment.tooltip "將所選的訊息作為附件轉寄">
 <!ENTITY fileButton.tooltip "歸檔所選的訊息">
 <!ENTITY archiveButton.tooltip "將選取的郵件備存">
-<!ENTITY openConversationButton.tooltip "顯示所選訊息當中的對話內容">
 <!ENTITY openMsgConversationButton.tooltip "顯示所選訊息當中的對話內容">
 <!ENTITY nextButton.tooltip "移至下一封未讀郵件">
 <!ENTITY nextMsgButton.tooltip "移動至下一封訊息">

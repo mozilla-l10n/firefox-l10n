@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "備存">
 <!ENTITY hdrArchiveButton1.tooltip "備存此訊息">
-<!ENTITY hdrOpenConversationButton1.label "討論串">
-<!ENTITY hdrOpenConversationButton1.tooltip "顯示此訊息中的討論內容">
 <!ENTITY hdrSmartReplyButton1.label "智慧回覆">
 <!ENTITY hdrReplyButton1.label "回覆">
 <!ENTITY hdrReplyButton2.tooltip "回應此訊息給寄件者">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "回覆到郵件群組">
 <!ENTITY hdrFollowupButton1.label "加入討論">
 <!ENTITY hdrFollowupButton1.tooltip "加入此郵件群組的討論">
-<!ENTITY hdrMenuForwardButton.label "轉寄為">
 <!ENTITY hdrForwardButton1.label "轉寄">
 <!ENTITY hdrForwardButton1.tooltip "轉寄此訊息">
 <!ENTITY hdrJunkButton1.label "垃圾郵件">

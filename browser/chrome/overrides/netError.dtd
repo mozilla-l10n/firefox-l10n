@@ -14,25 +14,17 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "連線失敗">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "此網址已被限制">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "找不到伺服器">
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "呃…找不到這個網站。">
 <!ENTITY dnsNotFound.longDesc1 "<strong>若網址正確無誤，還可試試下列方式:</strong>
 <ul>
   <li>稍候再試。</li>
   <li>檢查網路連線是否正常。</li>
   <li>若透過防火牆連線，請檢查 &brandShortName; 是否有權連線到網際網路。</li>
 </ul>">
-
-<!ENTITY fileNotFound.title "找不到檔案">
 
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -41,11 +33,7 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "對檔案的存取要求已被拒絕">
-
 <!ENTITY fileAccessDenied.longDesc "<ul><li>可能是檔案被移走、移除，或存取權限不正確，造成無法存取。</li></ul>">
-
-<!ENTITY generic.title "噢！">
 
 <!ENTITY generic.longDesc "
 <p>&brandShortName; 因為某些原因無法載入此網頁。</p>
@@ -57,18 +45,10 @@
 <!ENTITY openPortalLoginPage.label2 "開啟網路登入頁面">
 
 <!ENTITY malformedURI.pageTitle "網址無效">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "呃…這個網址好像有錯。">
-
-<!ENTITY netInterrupt.title "連線中斷">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "文件已過期">
-
 <!ENTITY notCached.longDesc "<p>您所請求的文件已不存在於 &brandShortName; 的快取當中。</p><ul><li>為了您的安全，&brandShortName; 將不會自動重新請求敏感文件。</li><li>請點下重試以重新向網站請求取得文件。</li></ul>">
-
-<!ENTITY netOffline.title "離線模式">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -76,15 +56,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "內容編碼錯誤">
-
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>請向網站擁有者回報此問題。</li>
 </ul>
 ">
-
-<!ENTITY unsafeContentType.title "不安全的檔案格式">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -92,19 +68,11 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "連線被重設">
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "連線已逾時">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "無法理解的網址">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul><li>您可能需要安裝其他軟體才能開啟此網址。</li></ul>">
-
-<!ENTITY proxyConnectFailure.title "Proxy 伺服器拒絕連線">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -112,8 +80,6 @@
   <li>與您的網路管理員聯絡，確定 Proxy 伺服器正常運作。</li>
 </ul>
 ">
-
-<!ENTITY proxyResolveFailure.title "找不到 Proxy 伺服器">
 
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -124,15 +90,11 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "頁面重新導向不正確">
-
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>有時候停用或拒絕接受 Cookie 會造成此問題。</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "伺服器回應錯誤">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -141,15 +103,10 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "安全連線失敗">
-
 <!ENTITY nssFailure2.longDesc2 "<ul>
   <li>因為無法驗證已接收資料的真實性，無法顯示您嘗試檢視的頁面。</li>
   <li>請向網站擁有者回報此問題。</li>
 </ul>">
-
-<!ENTITY certerror.longpagetitle2 "警告: 本網站可能有安全性風險">
-<!ENTITY certerror.sts.longpagetitle  "未連線: 潛在的安全性問題">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -180,11 +137,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "依內容安全政策封鎖">
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了這個頁面載入，因為這個頁面的內容安全政策不允許其以這種方式被載入。</p>">
-
-<!ENTITY corruptedContentErrorv2.title "內容毀損錯誤">
 
 <!ENTITY xfoBlocked.longDesc "<p>因為這個頁面包含 X-Frame-Options 政策，不允許以這種方式載入，&brandShortName; 封鎖了這個頁面載入。</p>">
 
@@ -195,11 +148,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Mozilla 找出並封鎖惡意網站">
 <!ENTITY errorReporting.learnMore "更多資訊…">
 
-<!ENTITY remoteXUL.title "遠端 XUL">
-
 <!ENTITY remoteXUL.longDesc "<p><ul><li>請聯絡網站管理員以通知他們這個問題。</li></ul></p>">
-
-<!ENTITY sslv3Used.title "無法安全地連線">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -210,15 +159,11 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 有一條稱為 HTTP Strict Transport Security (HSTS) 的安全性政策，讓 &brandShortName; 僅能與其進行安全連線。您無法加入例外，手動排除此政策。">
 <!ENTITY certerror.copyToClipboard.label "將文字複製到剪貼簿">
 
-<!ENTITY inadequateSecurityError.title "您的連線並不安全">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全的資訊。網站管理員修正伺服器設定後您才能連線至此網站。</p><p>錯誤代碼: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "已封鎖頁面">
-
-<!ENTITY certerror.mitm.title "有軟體造成 &brandShortName; 無法與此網站建立安全連線">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> 應該是一個安全的網站，但無法建立安全連線。這個問題是由 <span class='mitm-name'/> 造成的，可能是來自您的電腦或您的所在網路中的軟體。">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "若您的防毒軟體包含掃描加密連線（或稱為「網頁掃描」、「HTTPS 掃描」），請關閉該功能。若這樣做仍然無效，您可以試著移除並重新安裝防毒軟體。">
@@ -226,14 +171,10 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "若您不了解 <span class='mitm-name'/>，這可能是一場攻擊，您不該繼續前往該網站。">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "若您不了解 <span class='mitm-name'/>，這可能是一場攻擊，您無法再做什麼以前往該網站。">
 
-<!ENTITY clockSkewError.title "您的電腦時間錯誤">
-
 <!ENTITY clockSkewError.longDesc "您的電腦認為目前時間為 <span id='wrongSystemTime_systemDate1'/>，不讓 &brandShortName; 建立安全連線。若要造訪 <span class='hostname'></span>，請到系統設定中確認日期、時間、時區設定是否正確，然後重新載入 <span class='hostname'></span>。">
 
 <!ENTITY prefReset.longDesc "看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？">
 <!ENTITY prefReset.label "還原預設設定">
-
-<!ENTITY networkProtocolError.title "網路通訊協定錯誤">
 
 <!ENTITY enableTls10.longDesc "此網站可能不支援 &brandShortName; 最低支援的 TLS 1.2 版通訊協定。開啟 TLS 1.0 或 TLS 1.1 可能可以進行連線。">
 <!ENTITY enableTls10.note "將於未來的版本中永久結束支援 TLS 1.0 及 TLS 1.1。">
