@@ -5,6 +5,9 @@
 close-other-tabs =
     .label = Jup ka't unq'a ilb'al tetze'
     .accesskey = o
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Jup u ilb'al tetze'
     .accesskey = c

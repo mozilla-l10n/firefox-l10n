@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Ataj yatz'onaal tzitza'!
-about-config-warning-text = Asoj la jalpu tu chit ib'a'nil naale' as la iyansa tatine', as ye'xh kam oora koj kuxh la aq'onvu ve'te'. La ib'ane' asoj jik chit naalo'k stej kam taq'onve'.
-about-config-warning-checkbox = Nachonsa svej unpajte, b'an b'a'nil!
-about-config-warning-button = Ta'le'n ve'te' asoj la yani
-
-about-config2-title = Nim ib'anax ve't tuche'
-
-about-config-search-input =
-    .placeholder = Chuka
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Yakeb'en ti jik'il
@@ -30,13 +19,6 @@ about-config-page-title = U vee' ni chit asa' uve' nim talchu ve'te'
 about-config-search-input1 =
     .placeholder = Ib'ii unq'a vee' uve' palchit achukata'
 about-config-show-all = K'uch kaajayil
-
-about-config-pref-add = Aq'o'ke'
-about-config-pref-toggle = Jalpu
-about-config-pref-edit = B'an tuche'
-about-config-pref-save = Kola
-about-config-pref-reset = Q'aavisa unpajte
-about-config-pref-delete = Eesa el
 
 about-config-pref-add-button =
     .title = Aq'ku'

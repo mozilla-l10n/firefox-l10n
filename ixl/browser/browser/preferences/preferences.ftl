@@ -4,13 +4,6 @@
 
 do-not-track-learn-more = Ootzi ka'te
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Unka'te
-           *[other] Uve' ni chit asa'
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Unka'te
@@ -132,8 +125,6 @@ applications-use-other-label =
 ##
 
 play-drm-content-learn-more = Ootzi ka'te
-
-update-pref-write-failure-title = Yansamal itz'ib'ale'
 
 update-in-progress-message = Na sa' { -brand-short-name }la yakep u actualisasione'
 
@@ -276,10 +267,6 @@ addressbar-locbar-bookmarks-option =
 
 content-blocking-learn-more = Ootzi ka'te
 
-content-blocking-setting-custom =
-    .label = Eetz chitu'
-    .accesskey = C
-
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
@@ -349,6 +336,8 @@ security-enable-safe-browsing-link = Ootzi ka'te
 space-alert-learn-more-button =
     .label = Ootzi ka'te
     .accesskey = L
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

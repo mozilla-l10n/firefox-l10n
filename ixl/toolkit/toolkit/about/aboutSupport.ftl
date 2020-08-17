@@ -48,11 +48,14 @@ unknown = Ye' ootzimal
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-active = Ile' b'a'n ve'te'
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

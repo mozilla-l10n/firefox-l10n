@@ -13,7 +13,6 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Ootzi ka'te
-onboarding-button-label-try-now = Cha'xh ab'anb'e cheel chitu'
 onboarding-button-label-get-started = Xe'ten
 
 ## Welcome modal dialog strings
@@ -22,7 +21,6 @@ onboarding-welcome-header = B'a'n oole' tu { -brand-short-name }
 onboarding-welcome-body = At ve't u xaansab' tetze' saxe'. <br/> ootzi ve't ka'te ti' u { -brand-product-name }.
 onboarding-welcome-learn-more = La ootzi kam chit ka't kam la taq' see.
 
-onboarding-join-form-header = Oken xo'l u { -brand-product-name }
 onboarding-welcome-modal-get-body = Atve't  u ch'iche'  ta qab', oksa ve't ni txaak.
 onboarding-welcome-modal-supercharge-body = Ooksa iyak'il  unq'a vee ve etzchitu'
 onboarding-welcome-form-header = Xe'ten tzitza
@@ -39,6 +37,13 @@ onboarding-start-browsing-button-label = Xe'ten ti' axaan stuul
 onboarding-cards-dismiss =
     .title = Ya'sakan
     .aria-label = Ya'sakan
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -64,14 +69,7 @@ onboarding-sync-form-sub-header = Aq'al uva' la pal axh tu { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Unq'a uve' la chit txakoni
-
 onboarding-benefit-products-text = Tzojpisa unq'a aaq'one' tuk' unq'a molich aq'onb'ale' aq'al uva' la nimal unq'a vee' uve' eetz chitu' tulaj unq'a ach'ich'e'.
-
-onboarding-benefit-knowledge-title = Txumb'al uva' la chit b'anb'eli
-onboarding-benefit-knowledge-text = Chus kaajayil unq'a vee' nasa' ootzita' aq'al uva' jik chit ab'ene' as la chit ak'ujb'a' ak'u'l sti'.
-
-onboarding-benefit-privacy-title = Jik chit la eetzeb'i
 
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -97,16 +95,6 @@ onboarding-benefit-lockwise-text = B'an isuuchil unq'a kolb'al aqone'.
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = Axh kuxh la xaan axh stuul
-onboarding-private-browsing-text = Axh kuxh la xaan axh. Uve' la xaan axh uva' axh kuxhtu' ti' imajax ivatz u aq'one' as la maj ivatz unq'a vee' uve' xekel see'.
-
-onboarding-screenshots-title = Eesa ivatz u aaq'one' tu vach'ich'e'
-
-onboarding-addons-title = Tz'ajsab' tetz
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = u Sync
 
 onboarding-tracking-protection-button2 = Kam ib'anb'ele'
 

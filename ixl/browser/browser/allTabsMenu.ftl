@@ -9,13 +9,17 @@ all-tabs-menu-undo-close-tabs =
             [one] La q'aavisa unq'a vee' jupel kan
            *[other] La q'aavisa unq'a vee' jupel kan
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Chuk unq'a texhlale'
+
 all-tabs-menu-new-user-context =
     .label = Ak' texhlal txeyol kan tetz
+
 all-tabs-menu-hidden-tabs =
     .label = Texhlal uva' mujel kan
+
 all-tabs-menu-manage-user-context =
     .label = Tilpu isuuchil unq'a txeyol tetze'
     .accesskey = o

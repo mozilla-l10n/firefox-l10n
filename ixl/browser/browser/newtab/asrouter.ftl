@@ -192,3 +192,11 @@ cfr-doorhanger-cryptominers-description = Tii chil talchu unq'a eetze' sqej. { -
 
 ## Picture-in-Picture fullscreen message
 
+## Protections Dashboard message
+
+## Better PDF message
+
+## DOH Message
+
+## What's new: Cookies message
+

@@ -5,10 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = B'ekb'al tetz kulb'al aq'on.
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Il ivatz u aq'one' uve' eetz kuxhtu'
-
 ## Zoom Controls
 
 appmenuitem-zoom-enlarge =
@@ -24,3 +20,4 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kam ak' at ve'te'
+

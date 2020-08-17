@@ -5,15 +5,6 @@
 <!-- addon actions -->
 
 
-<!ENTITY cmd.uninstallAddon.label             "Sojsa el">
-<!ENTITY cmd.showPreferencesWin.label         "Unka'te">
-<!ENTITY cmd.showPreferencesUnix.label        "Uve' ni chit asa'">
-
-
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Ya'sakan">
-
-<!ENTITY addon.unknownDate                    "Ye' ootzimal">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->

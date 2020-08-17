@@ -73,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuche' { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-in = Ye'l tu'aal lejpo aq'al uva' la ilej tib'
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
@@ -128,6 +129,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub'
 ## Master Password notification
 
 master-password-notification-message = B'an b'a'nil, aq'ku' u eexhlale' uve' axh kuxh ootzin tetz aq'al uva' la eele' kat xe'tisaml kat aq'on x-a'n as unq'a exhlale' uve' kolel kan s-a'n unpajte
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Oken
     .accesskey = O
@@ -196,4 +200,6 @@ about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolp
 
 
 ## Login Export Dialog
+
+## Login Import Dialog
 

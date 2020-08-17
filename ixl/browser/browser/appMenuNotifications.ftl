@@ -39,12 +39,4 @@ appmenu-addon-post-install-message = Tul uva' oksa unq'a tz'ajsab' tetze' la kux
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sa'a' uva' la uch ab'enb'et tulaj unq'a ilb'ale' uva' eetz kuxhtu'
     .accesskey = S
-appmenu-addon-private-browsing =
-    .label = La jalpul unq'a eq'on  tetze' tulaj unq'a ilb'ale' uva' eetz kuxhtu'
-    .buttonlabel = Tilpu unq'a eq'on tetze'
-    .buttonaccesskey = T
-    .secondarybuttonlabel = B'a'n kuxhe'
-    .secondarybuttonaccesskey = B'
-appmenu-addon-private-browsing-message = Kamaj kuxh ak' taq'eb'al la aaq'ku' tu { -brand-shorter-name } ye'xh la aq'onvi tulaj unq'a ilb'ale' uva' eetz kuxtu', la ib'ane' asoj axh la b'anon kan stej.
-appmenu-addon-private-browsing-learn-more = Chusa kam chit la ulb'el u tatin unq'a taq'ile'
     

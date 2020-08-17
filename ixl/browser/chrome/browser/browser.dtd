@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Axh kuxh la xaan axh stuul)">
-
 <!ENTITY appmenu.tooltip                     "Jaj u tachul tatine'">
 
 <!-- Tab context menu -->
@@ -34,14 +24,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 
-<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
-displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
-<!ENTITY printPreviewCmd.label "Tilax B'axa">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Tel ch'u'l vatz u'uj…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
 
 
 
@@ -63,27 +46,15 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 
-<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 
-
-<!ENTITY fullScreenMinimize.tooltip "Ch'oob'isamal">
-<!ENTITY fullScreenClose.tooltip "Jupa">
-
- <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+<!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 
  <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.manageAccount.label "La eel isuuchil u atinb'ale'…">
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Ib'anax tuche'…">
-
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Ib'anax tuche'">
@@ -115,11 +86,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
 
-<!ENTITY bookmarksMenu.label "Aq'ol texhlal">
-
-
-
-<!ENTITY stopCmd.label                "Maja">
 
 <!ENTITY printButton.label            "Tel ch'u'l vatz u'uj">
 
@@ -138,17 +104,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 
 <!ENTITY bookmarksButton.label          "Aq'ol texhlal">
-<!ENTITY bookmarksCmd.commandkey "a">
 
 <!ENTITY bookmarksSubview.label             "Aq'ol texhlal">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
-
-<!ENTITY toolsMenu.label              "Aq'onb'al">
-<!ENTITY toolsMenu.accesskey          "T">
 
 
 <!ENTITY downloads.label              "Eq'omal ku'tzan">
@@ -160,23 +121,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY fileMenu.label         "Kolb'al aaq'on">
-<!ENTITY fileMenu.accesskey       "F">
-
-
-
 <!ENTITY editMenu.label         "B'an tuche'">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY copyCmd.label            "Eesa ivatz">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY deleteCmd.label          "Eesa el">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "D">
 <!ENTITY preferencesCmd2.label       "Unka'te">
-<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Uve' ni chit asa'">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 
 
@@ -207,11 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 
-<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys.  -->
-<!ENTITY customizeMenu.manageExtension.label "Il isuuchil tikat ni q'axkat">
-<!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -261,15 +203,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Chuka ">
-<!ENTITY searchAfter.label            "">
-
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -285,7 +218,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
-<!ENTITY savePageCmd.label            "Jup u U'uje' Eche' uva'…">
 <!-- alternate for content area context menu -->
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
@@ -295,11 +227,6 @@ Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaPause.label            "Tanb'a'">
-<!ENTITY mediaPause.accesskey        "T">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -319,20 +246,9 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!-- + is above this key on many keyboards -->
 
 
-
-
-
-<!ENTITY closeCmd.label                 "Jupa">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "C">
 
 
 
@@ -342,21 +258,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 
 
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Chuk unpajte">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
-
-
-<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
-     Should be large enough to fully display the Done and Cancel/
-     Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Tzojpiya">
-
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 
@@ -365,12 +266,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.learnMore "Ootzi ka'te">
 
-
-
-
-<!ENTITY identity.permissions "Aq'b'al okeb'al">
 
 
 <!-- LOCALIZATION NOTE:
@@ -398,25 +294,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncToolbarButton.label      "Sync">
 
 
 
 
 
-
-
-<!ENTITY contentBlocking.cookies.label "Cookies">
-
-
-
-
-
-
-<!ENTITY contentBlocking.breakageReportView.learnMore "Ootzi ka'te">
-
-<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Ya'sakan">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -425,27 +307,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-<!ENTITY pluginNotification.showAll.label "K'uch kaajayil">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "28em">
-
 
 <!ENTITY uiTour.infoPanel.close "Jupa">
 
 
 
 
-
-
-
-
-<!ENTITY pageAction.manageExtension.label "Il isuuchil tikat ni q'axkat…">
 
 
 

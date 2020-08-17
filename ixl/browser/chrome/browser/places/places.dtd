@@ -13,11 +13,6 @@
 
 
 
-<!ENTITY cmd.sortby_name.label              "Nuk'el ta'n b'ii">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-
 <!ENTITY col.name.label          "B'ii">
 
 

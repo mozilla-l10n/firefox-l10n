@@ -2,20 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Ch'oob'isamal">
-
-<!ENTITY helpMenu.label           "Lochb'al"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Lochb'al"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-
 <!ENTITY aboutProduct2.label      "Ti' u &brandShorterName;">
-<!ENTITY productHelp2.label       "&brandShorterName; Lochb'al">
-<!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "?">
 
 
 
@@ -23,7 +10,6 @@
 
 
 <!ENTITY preferencesCmdMac.label        "Uve' ni chit asa'…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 
 
