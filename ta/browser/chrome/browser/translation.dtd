@@ -62,8 +62,6 @@
   -  logo.
   -->
 
-<!ENTITY translation.options.attribution.beforeLogo "ஆல் மொழிபெயர்ப்பு">
-<!ENTITY translation.options.attribution.afterLogo "">
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -72,4 +70,3 @@
   -  user.
   -->
 
-<!ENTITY translation.options.attribution.yandexTranslate "Yandex. மொழிபெயர்ப்பால் வலுவூட்டப்பட்டது">

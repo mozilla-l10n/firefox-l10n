@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = ஒத்திசைத்த கீற்றுகள்
 synced-tabs-sidebar-noclients-subtitle = மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?
-synced-tabs-sidebar-notsignedin = உங்களின் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.
 synced-tabs-sidebar-unverified = உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.
 synced-tabs-sidebar-notabs = திறந்த கீற்றுகள் இல்லை
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } முன்னுரிமைகளைத் திற

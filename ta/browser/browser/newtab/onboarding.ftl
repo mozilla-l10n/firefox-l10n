@@ -13,15 +13,12 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = மேலும் அறிய
-onboarding-button-label-try-now = இப்போதே முயற்சியுங்கள்
 onboarding-button-label-get-started = தொடங்கு
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } என்பதற்கு வரவேற்கிறோம்
 onboarding-welcome-learn-more = நன்மைகள் பற்றி மேலும் அறிக.
-
-onboarding-join-form-header = { -brand-product-name } ல் இணைக
 
 onboarding-join-form-body = தொடங்குவதற்கு உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்.
 onboarding-join-form-email =
@@ -34,6 +31,13 @@ onboarding-start-browsing-button-label = உலவத் தொடங்கு�
 onboarding-cards-dismiss =
     .title = வெளியேற்று
     .aria-label = வெளியேற்று
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -58,12 +62,6 @@ onboarding-sync-form-sub-header = { -sync-brand-name } ஒத்திசைய�
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = பயனுள்ள தயாரிப்புகள்
-
-onboarding-benefit-knowledge-title = நடைமுறை அறிவு
-
-onboarding-benefit-privacy-title = உண்மையான தனியுரிமை
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -71,17 +69,6 @@ onboarding-benefit-privacy-title = உண்மையான தனியுர�
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = கமுக்க உலாவல்
-
-onboarding-screenshots-title = திரைப்பிடிப்புகள்
-
-onboarding-addons-title = கூடுதல்-வசதிகள்
-
-onboarding-ghostery-title = Ghostery
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = ஒத்திசைக்க
 
 onboarding-tracking-protection-title2 = கண்காணிப்பிலிருந்து பாதுகாப்பு
 onboarding-tracking-protection-button2 = இது எப்படி செயல்படுகிறது
@@ -105,9 +92,6 @@ onboarding-mobile-phone-button = மொபைல் உலாவியைப் 
 onboarding-send-tabs-button = தாவல் அனுப்புதலைப் பயன்படுத்தத் தொடங்குங்கள்
 
 onboarding-pocket-anywhere-title = எங்கும் படியுங்கள் கேளுங்கள்
-
-onboarding-lockwise-passwords-title = உங்கள் கடவுச்சொற்களை உங்களுடன் எடுத்துச் செல்லுங்கள்
-onboarding-lockwise-passwords-button2 = செயலியை பெறுங்கள்
 
 onboarding-facebook-container-button = நீட்டிப்பைச் சேர்க்க
 

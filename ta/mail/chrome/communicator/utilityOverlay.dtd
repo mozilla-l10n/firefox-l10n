@@ -13,25 +13,11 @@
 <!ENTITY editMenu.label          "தொகு">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "செயல்நீக்கு">
-<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "மீண்டும் செய்">
-<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "வெட்டு">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "நகலெடு">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "ஒட்டு">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "P">
 <!ENTITY deleteCmd.label          "அழி">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label          "அனைத்தையும் தேர்வு செய்">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "A">
 
 
 <!ENTITY preferencesCmdUnix.label       "முன்னுரிமைகள்">

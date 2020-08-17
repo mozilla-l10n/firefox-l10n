@@ -9,5 +9,3 @@
    This brand name can be used in messages where the product name needs to
    remain unchanged across different versions (Nightly, Beta, etc.). -->
 <!ENTITY  brandProductName      "Firefox">
-<!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  trademarkInfo.part1   "பயர்பாக்சு மற்றும் அதன் சின்னங்கள் மொசில்லா அறக்கட்டளையின் வர்த்தக முத்திரைகளாகும்.">

@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = இப்படி சேமி…
     .accesskey = e
-media-preview =
-    .value = ஊடக முன்பார்வை:
 
 perm-tab =
     .label = அனுமதிகள்
@@ -129,7 +127,6 @@ security-site-data-cookies-only = ஆம், நினைவிகள்
 security-site-data-no = இல்லை
 
 image-size-unknown = தெரியாதது
-not-set-verified-by = குறிப்பிடவில்லை
 page-info-not-specified =
     .value = குறிப்பிடவில்லை
 not-set-alternative-text = குறிப்பிடவில்லை
@@ -154,7 +151,6 @@ general-quirks-mode =
     .value = Quirks முறைமை
 general-strict-mode =
     .value = தரப்படுத்தப்பட்ட இணக்க முறைமை
-security-no-owner = கொடுக்கவில்லை.
 page-info-security-no-owner =
     .value = கொடுக்கவில்லை.
 media-select-folder = படங்களை சேமிக்க ஒரு அடைவைத் தேர்ந்தெடு

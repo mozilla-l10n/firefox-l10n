@@ -73,7 +73,6 @@ proxyResolveFailure-title = பதிலி சேவையகத்தைக்
 redirectLoop-title = பக்கத்தை ஒழுங்காகத் திருப்பிவிடவில்லை
 unknownSocketType-title = சேவையகத்திலிருந்து எதிர்பாராத பதில்
 nssFailure2-title = பாதுகாப்பான இணைப்பு முறிந்தது
-cspBlocked-title = உள்ளடக்க பாதுகாப்பு கொள்கையால் தடுக்கப்பட்டது
 corruptedContentError-title = சிதைந்த உள்ளடக்கப் பிழை
 remoteXUL-title = தொலைநிலை XUL
 sslv3Used-title = பாதுகாப்பாக இணைக்க இயலவில்லை

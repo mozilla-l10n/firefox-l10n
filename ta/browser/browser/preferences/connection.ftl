@@ -35,12 +35,6 @@ connection-proxy-http = HTTP பதிலாள்
     .accesskey = x
 connection-proxy-http-port = முனையம்
     .accesskey = P
-connection-proxy-http-share =
-    .label = இந்த பதிலாள் சேவையகத்தை அனைத்து நெறிமுறைகளிலும் பயன்படுத்து
-    .accesskey = s
-
-connection-proxy-ssl = SSL பதிலாள்
-    .accesskey = L
 
 connection-proxy-ssl-port = முனையம்
     .accesskey = o

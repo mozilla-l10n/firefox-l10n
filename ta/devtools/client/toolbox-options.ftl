@@ -93,8 +93,6 @@ options-disable-javascript-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = தொலைநிலை வழுநீக்கத்தை செயல்படுத்து
-options-enable-remote-tooltip =
-    .title = இந்த விருப்பத்தைச் செயற்படுத்தினால் உருவாக்குநர் கருவிகளால் Firefox OS போன்ற தொலைநிலை Firefox வடிவங்களை வழுநீக்க முடியும்
 
 options-enable-service-workers-http-tooltip =
     .title = இந்த விருப்பத்தை இயக்கினால் கருவிப்பெட்டி திறந்துள்ள கீற்றுகள் அனைத்திற்கும் HTTP சேவைப் பணியாளர்களைச் செயற்படுத்தும்.

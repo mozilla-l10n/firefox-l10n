@@ -39,14 +39,6 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></i
 appmenu-addon-post-install-incognito-checkbox =
     .label = இந்த நீட்டிப்பை கமுக்க சாளரத்தில் இயக்க அனுமதிக்கவும்
     .accesskey = A
-appmenu-addon-private-browsing =
-    .label = கமுக்க சாளரத்தில் நீட்சிக்கு மாறு
-    .buttonlabel = நீட்சிகளை நிர்வகி
-    .buttonaccesskey = M
-    .secondarybuttonlabel = சரி கிடைத்துவிட்டது
-    .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = கமுக்க சாளரத்தின் அமைவுகளில் அனுமதிக்காவிடில் { -brand-shorter-name } என்பதில் சேர்க்கப்படும் புதிய நீட்சிகள் வெலைச் செய்யாது.
-appmenu-addon-private-browsing-learn-more = நீட்சி அமைவுகளை எவ்வாறு நிர்வகிப்பது என்பதை அறிக
     
 appmenu-new-tab-controlled =
     .label = உங்களது புதிய கீற்று மாறிவிட்டது.

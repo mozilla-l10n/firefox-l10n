@@ -3,73 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cmd.enableAddon.label                "செயல்படுத்து">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "செயல்நீக்கு">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-<!ENTITY cmd.askToActivate.label              "செயல்படுத்தக் கேட்கவும்">
-<!ENTITY cmd.askToActivate.tooltip            "ஒவ்வொரு முறையும் இந்த துணை நிரலைப் பயன்படுத்தக் கேட்கவும்">
-<!ENTITY cmd.alwaysActivate.label             "எப்போதும் செயல்படுத்து">
-<!ENTITY cmd.alwaysActivate.tooltip           "எப்போதும் இந்த துணை நிரலைப் பயன்படுத்து">
-<!ENTITY cmd.neverActivate.label              "ஒருபோதும் செயல்படுத்தாதே">
-<!ENTITY cmd.neverActivate.tooltip            "ஒருபோதும் இந்த துணை நிரலைப் பயன்படுத்தாதே">
-<!ENTITY cmd.stateMenu.tooltip                "இந்த துணை நிரல் எப்போது இயங்கும் என்பதை மாற்றவும்">
-
-<!ENTITY cmd.uninstallAddon.label             "நீக்கு">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "விருப்பங்கள்">
-<!ENTITY cmd.showPreferencesWin.tooltip       "இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்">
-<!ENTITY cmd.showPreferencesUnix.label        "விருப்பங்கள்">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்">
-
-<!ENTITY cmd.showReleaseNotes.label           "வெளியீட்டு அறிக்கையைக் காட்டு">
-<!ENTITY cmd.showReleaseNotes.tooltip         "இந்த புதுப்பித்தலின் வெளியீட்டு அறிக்கையைக் காட்டு">
-<!ENTITY cmd.hideReleaseNotes.label           "வெளியீட்டு அறிக்கையை மறை">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "இந்த புதுப்பித்தலின் வெளியீட்டு அறிக்கையை மறை">
-<!ENTITY cmd.findReplacement.label            "ஒரு மாற்றைக் கண்டுபிடி">
-
 <!-- discovery view -->
 
-
-<!ENTITY progress.cancel.tooltip              "ரத்து">
-
-
-<!ENTITY addon.details.label                  "இன்னும்">
-<!ENTITY addon.details.tooltip                "இந்த கூடுதல் இணைப்பு பற்றி இன்னும் விவரங்களை காட்டு">
-<!ENTITY addon.unknownDate                    "தெரியாதது">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "மரபு">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(செயல்நீக்கப்பட்டுள்ளது)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "புதுப்பி">
-<!ENTITY addon.undoAction.label               "மறை">
-<!ENTITY addon.undoAction.tooltip             "இந்த செயலை மறை">
-<!ENTITY addon.undoRemove.label               "மறை">
-<!ENTITY addon.undoRemove.tooltip             "இந்த கூடுதல் இணைப்பை நிறுவவும்">
-
-<!ENTITY addon.install.label                  "நிறுவு">
-<!ENTITY addon.install.tooltip                "இந்த கூடுதல் இணைப்பை நிறுவு">
-<!ENTITY addon.updateNow.label                "இப்போது புதுப்பி">
-<!ENTITY addon.updateNow.tooltip              "இந்த புதுப்பித்தலை இந்த கூடுதல் இணைப்பிற்கு நிறுவு">
-<!ENTITY addon.includeUpdate.label            "புதுப்பித்தலில் சேர்">
-<!ENTITY addon.updateAvailable.label          "ஒரு புதுப்பித்தல் உள்ளது">
-<!ENTITY addon.checkingForUpdates.label       "புதுப்பித்தல்களுக்கு சரிபார்க்கிறது…">
-<!ENTITY addon.releaseNotes.label             "வெளியீட்டு அறிக்கை:">
-<!ENTITY addon.loadingReleaseNotes.label      "ஏற்றுகிறது…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "மன்னிக்கவும், ஆனால் வெளியீட்டு அறிக்கையை ஏற்றும்போது ஒரு பிழை உள்ளது.">
-
-<!ENTITY addon.createdBy.label                "உருவாக்கியவர் ">
-
-<!ENTITY settings.path.button.label           "உலாவு...">
 
 <!ENTITY setting.learnmore "மேலும் அறிய…">
 
