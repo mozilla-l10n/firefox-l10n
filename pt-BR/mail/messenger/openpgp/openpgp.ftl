@@ -434,6 +434,7 @@ save-attachment-header = Salvar anexo descriptografado
 no-temp-dir =
     Não foi possível encontrar um diretório temporário onde gravar
     Defina a variável de ambiente TEMP
+possibly-pgp-mime = Mensagem possivelmente criptografada ou assinada por PGP/MIME. Use a função 'Descriptografar/Verificar' para verificar
 cannot-send-sig-because-no-own-key = Não é possível assinar digitalmente esta mensagem, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
 cannot-send-enc-because-no-own-key = Não é possível enviar esta mensagem criptografada, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
 # Strings used in decryption.jsm
@@ -442,12 +443,14 @@ do-import-multiple =
     { $key }
 do-import-one = Importar { $name } ({ $id })?
 cant-import = Erro ao importar chave pública
+unverified-reply = Parte deslocada da mensagem (resposta) provavelmente foi modificada
 key-in-message-body = Uma chave foi encontrada no corpo da mensagem. Clique em 'Importar chave' para importar a chave
 invalid-email = Erro - Endereço(s) de e-mail inválido(s)
 dlg-button-view = &Ver
 # Strings used in windows.jsm
 no-photo-available = Nenhuma foto disponível
 error-photo-path-not-readable = O caminho da foto '{ $photo }' não é legível
+debug-log-title = Log de debug OpenPGP
 # Strings used in dialog.jsm
 repeat-prefix = Este alerta se repete { $count }
 repeat-suffix-singular = vez mais.
@@ -458,5 +461,14 @@ dlg-button-ok = &OK
 dlg-button-close = &Fechar
 dlg-button-cancel = &Cancelar
 dlg-no-prompt = Não mostrar esse diálogo novamente
+enig-prompt = Pergunta OpenPGP
+enig-confirm = Confirmação OpenPGP
+enig-alert = Alerta OpenPGP
+enig-info = Informação OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Tentar novamente
+dlg-button-skip = &Ignorar
+# Strings used in enigmailCommon.js
+enig-error = Erro OpenPGP
+enig-alert-title =
+    .title = Alerta OpenPGP
