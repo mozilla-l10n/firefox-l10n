@@ -4,6 +4,7 @@
 
 page-title = Agahiyên Tamîrkirinê
 page-subtitle = Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar, agahiyên teknîkî dihewîne. Eger li bersiva PPP yên { -brand-short-name } digerî, li <a data-l10n-name="support-link">malpera desteka webê</a> binêre.
+
 crashes-id = ID'a Raporkirinê
 extensions-title = Pêvek
 extensions-name = Nav
@@ -50,6 +51,7 @@ a11y-title = Gihîştin
 
 gpu-driver-version = Guhertoya Ajokarê
 gpu-driver-date = Dîroka Ajokarê
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

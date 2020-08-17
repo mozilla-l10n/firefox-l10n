@@ -14,6 +14,7 @@ pw-erased-ok = Te Nasnavê xwe yê Rêvebiriyê jê bir.  { pw-empty-warning }
 pw-not-wanted = Hişyarî! Te biryara bikarneanîna nasnavê xwe yê bingehîn girt. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Tu di moda FIPS de yî. Ji bo FIPS Nasnavê Rêvebiriyê vala çênabe.
+
 pw-change-success-title = Guherandina Nasnavê bi ser ket
 pw-change-failed-title = Guherandina Nasnavê bi ser neket
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Nasnavê Rêvebiriyê Biguherîne
+
 set-password-old-password = Nasnavê Niha:
 set-password-new-password = Nasnavê nû têkevê:
 set-password-reenter-password = nasnavê nû dîsa têkevê:
@@ -31,6 +33,7 @@ master-password-warning = Ji kerema xwe îspat bike ka Nasnavê Rêvebiriyê yê
 
 remove-password =
     .title = Nasnavê Rêvebiriyê Rake
+
 remove-info =
     .value = Ji bo pêşdeçûnê divê nasnavê rast têkeviyê.
 remove-warning1 = Nasnavê te yê Rêvebiriyê agahiyên nepen ên wekî şîfreyên malperan diparêze.

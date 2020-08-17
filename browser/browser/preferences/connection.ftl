@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Mîhengên pêşkêşkara cîgir, bixweber nas bike
     .accesskey = c
 
-connection-proxy-http-share =
-    .label = Ji bo hemû zagonên ragihandinê vê pêşkêşkara cîgir bikar bîne
-    .accesskey = h
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K

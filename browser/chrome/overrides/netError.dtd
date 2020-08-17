@@ -12,72 +12,40 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Çewtî! Di Girêdanê de Kêmasî hene">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Portê Ji Ber Sedemên Ewlekariyê Asteng Kir">
-
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY fileNotFound.title "Çewtî! Pel Nayê Dîtin">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dibe ku di nivîsandina tîpên hûrdek/girdek de çewtî hebe.</li> <li>Dibe ku ciyê pelê an jî navê wê hatibe guhertin an jî hatibe jêbirin.</li> </ul>">
 
 
-
-<!ENTITY generic.title "Ahhaaa.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; ji ber sedemeke nayê zanîn, nikare vê rûpelê veke.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Girêdan qut bû">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Dema belgeyê derbas bû">
 
 <!ENTITY notCached.longDesc "<p>Bergeya xwestî di pêşbîra &brandShortName;ê de tune ye.</p><ul><li>Wekî rêgiriyeke ewlekariyê, &brandShortName; belgeyên bihîstyar ji nû ve naxwaze.</li><li>Ji bo ku belgeyê dîsa ji malperê bixwazî Dîsa Biceribîneyê bitikîne.</li></ul>">
 
-<!ENTITY netOffline.title "Moda negirêdayî">
-
 <!ENTITY netOffline.longDesc2 "<ul> <li>Ji bo ku derbasî moda girêdayî bibî û rûpelê nû bikî &quot;Dîsa Biceribîne&quot;yê bitikîne.</li> </ul>">
-
-<!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ji kerema xwe re xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
-
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Ji kerema xwe re xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li> </ul>">
-
-<!ENTITY netReset.title "Çewtî! Net Reset">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Çewtî! Demê Têrê Nekir">
-
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY unknownProtocolFound.title "protocolNotFound sernav">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Dibe ku ji bo vekirina vê navnîşanê pêwîst be ku tu nermalaveke din saz bikî.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Pêşkêşkara proksiyê girêdanan red dike">
-
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Rastbûna mîhengên proksiyê kontrol bike.</li> <li>Ji bo  ka servîsa proxyê dixebite an na, bi rêvebira xwe ya torê re têkeve têkiliyê.</li> </ul>">
-
-<!ENTITY proxyResolveFailure.title "Pêşkêşkara proksiyê nayê dîtin to find the proxy server">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Mîhengên proksiyê kontrol bike ka bêpirsgirêkên an na.</li> <li>kontrol bike ka di komputera te de girêdaneke xebatê ya torê heye an na.</li> <li>Heke komputer an jî tora te ji hêla firewall an jî proksiyekê ve tê parastin hîn bibe ka ji bo &brandShortName; têkeve Webê destûr heye an na.</li> </ul>">
 
-<!ENTITY redirectLoop.title "redirectLoop sernav">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Dibe ku ev pirsgirêk bibe sedema neçalakirin an jî redkirina erêkirina çerezan.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Çewtî! Soket nayê zanîn">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Teqez bike ka Gerînendetiya Ewlekariyê ya Takeksî ya pergalê sazkirî ye an na.</li> <li>Dibe ku ev ji vesazkirina nestandard a pêşkêşkarê be.</li> </ul>">
 
@@ -89,18 +57,12 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Dibe ku mapler ji bo demekê hatibe rawestandin an jî zêde mijûl be. Di demeke kin de dîsa biceribîne.</li> <li>Heke nikaribî tu malperan vekî, girêdana torê ya komputera xwe kontrol bike.</li> <li>Heke komputer an jî tora te ji hêla Firewall an jî proxyekê ve tê parastin, binêre ka destûra &brandShortName; 'ê ya têketina webê heye an na.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
-
 <!ENTITY cspBlocked.longDesc "<p>Ji ber ku di vê rûpelê de naverokeke dijberî peymana ewlekariyê heye, &brandShortName;ê ew asteng kir.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Çewtiya Naveroka Şikestî">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin rûpel nayê nîşandan.</p><ul><li>Bi xwediyên malperê re bikeve têkiliyê yan jî ji menuya alîkariyê zêdetir agahiyan bixwîne.</li></ul>">
 
 
 <!ENTITY errorReporting.learnMore "Bêtir bizane…">
-
-<!ENTITY remoteXUL.title "XULa dûr">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tika ye ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li></ul></p>">
 

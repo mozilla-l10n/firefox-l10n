@@ -41,34 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pelê hilbijêre...">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.deleteDomainData.label     "Vê rûpelê ji bîr bike">
-<!ENTITY cmd.deleteDomainData.accesskey "b">
-
-<!ENTITY cmd.open.label                  "Veke">
-<!ENTITY cmd.open.accesskey              "V">
-<!ENTITY cmd.open_window.label           "Di pencereyeke nû de veke">
-<!ENTITY cmd.open_window.accesskey       "n">
-
-
-<!ENTITY cmd.open_tab.label              "Di Hilpekîneke Nû de Veke">
-<!ENTITY cmd.open_tab.accesskey          "D">
-<!ENTITY cmd.open_all_in_tabs.label      "Hemûyan di Hilpekînan de Veke">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "H">
-
-<!ENTITY cmd.properties.label      "Taybetmendî">
-<!ENTITY cmd.properties.accesskey  "T">
-
-<!ENTITY cmd.sortby_name.label              "li Gorî Navan Rêz Bike">
-<!ENTITY cmd.sortby_name.accesskey          "l">
-<!ENTITY cmd.context_sortby_name.accesskey  "R">
-
-<!ENTITY cmd.new_bookmark.label            "Bijareya Nû...">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Peldanka Nû...">
-<!ENTITY cmd.new_folder.accesskey          "P">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Navbeynkara Nû">
-<!ENTITY cmd.new_separator.accesskey       "N">
 
 <!ENTITY col.name.label          "Nav">
 <!ENTITY col.tags.label          "Etîket">
@@ -91,15 +63,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre">
 
-<!ENTITY view.label               "Bibîne">
-<!ENTITY view.accesskey           "B">
-<!ENTITY byDate.label             "Li gorî dîrokê">
-<!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Malper">
-<!ENTITY bySite.accesskey         "M">
-<!ENTITY byMostVisited.label      "Yên Herî Zêde Vebûne">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Yên di dawiyê de vebûne">
-<!ENTITY byLastVisited.accesskey  "Y">
-<!ENTITY byDayAndSite.label       "Li gorî dîrok û malperê">
-<!ENTITY byDayAndSite.accesskey   "L">

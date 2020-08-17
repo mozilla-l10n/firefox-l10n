@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Hilbijartin
-           *[other] Vebijêrk
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Hilbijartin
@@ -288,8 +281,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = Termên Servîsê
-
 ## Privacy Section
 
 
@@ -310,6 +301,7 @@ forms-master-pw-change =
     .accesskey = M
 
 forms-master-pw-fips-title = Tu di moda FIPS de yî. Ji bo FIPS Nasnavê Rêvebiriyê vala çênabe.
+
 forms-master-pw-fips-desc = Guherandina Nasnavê bi ser neket
 
 ## OS Authentication dialog
@@ -385,6 +377,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sertîfîka
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
