@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Aplanko tipas:">
 
 <!ENTITY folderQuotaTab.label                    "Kvota">
-<!ENTITY folderQuotaRoot.label                   "Kvotos šaknis:">
 <!ENTITY folderQuotaUsage.label                  "Naudojimas:">
 <!ENTITY folderQuotaStatus.label                 "Būsena:">
 

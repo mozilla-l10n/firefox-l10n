@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Saugumas">
-<!ENTITY securityTab.label "Saugumas">
-<!ENTITY securityHeading.label "Norint išsiųsti ir gauti pasirašytus arba šifruotus laiškus, reikia nurodyti skaitmeninio parašo ir šifravimo liudijimus.">
-<!ENTITY encryptionGroupTitle.label "Šifravimas">
-<!ENTITY encryptionChoiceLabel.label "Išsiunčiamus laiškus:">
-<!ENTITY neverEncrypt.label "nešifruoti">
-<!ENTITY neverEncrypt.accesskey "n">
-<!ENTITY alwaysEncryptMessage.label "užšifruoti (laiškas nebus išsiųstas, jei bent vienas iš jo gavėjų neturi liudijimo)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Šifravimui naudoti šį asmeninį liudijimą:">
-
 <!ENTITY e2eTitle.label "„End-to-End“ šifravimas">
-<!ENTITY e2eIntro.description "Norėdami siųsti užšifruotus ar skaitmeniškai pasirašytus pranešimus, turite sukonfigūruoti šifravimo technologiją - „OpenPGP“ arba „S/MIME“.">
 <!ENTITY e2eLearnMore.label "Sužinokite daugiau">
 
 <!ENTITY e2eEnc.description "Be „end-to-end“ šifravimo laiškų turinį gali lengvai pamatyti jūsų el. pašto paslaugų teikėjas ir globalūs informacijos stebėtojai.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Išvalyti">
 <!ENTITY encryption.certificate_clear.accesskey "t">
 <!ENTITY signingGroupTitle.label "Skaitmeninis parašas">
-<!ENTITY signMessage.label "Išsiunčiamus laiškus pasirašyti skaitmeniškai">
 <!ENTITY signMessage2.label "Pagal nutylėjimą, pridėti mano skaitmeninį parašą">
 <!ENTITY signMessage.accesskey "s">
-<!ENTITY signingCert.message "Parašui naudoti šį asmeninį liudijimą:">
-
-<!ENTITY certificates.label "Liudijimai">
-<!ENTITY manageCerts2.label "Tvarkyti liudijimus">
-<!ENTITY manageCerts2.accesskey "T">
-<!ENTITY manageDevices.label "Saugumo priemonės">
-<!ENTITY manageDevices.accesskey "a">
 
 <!ENTITY signingCert2.message "Asmeninis skaitmeninio parašo sertifikatas:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "„OpenPGP“">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Tvarkykite „OpenPGP“ raktus">
-<!ENTITY manageKeys.accesskey "r">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Pasirinkite liudijimą">

@@ -14,5 +14,7 @@ accounts-conn-security = Ryšio saugumas
 accounts-auth-method = Tapatumo tikrinimo metodas
 accounts-default = Numatytas?
 identity-name = Tapatybė
+
 send-via-email = Siųsti el. laišką
+
 app-basics-telemetry = Telemetrijos duomenys

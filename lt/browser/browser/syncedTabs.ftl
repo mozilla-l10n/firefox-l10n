@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinchronizuotos kortelės
 synced-tabs-sidebar-noclients-subtitle = Norite čia matyti savo korteles iš kitų įrenginių?
-synced-tabs-sidebar-notsignedin = Prisijunkite, norėdami peržiūrėti kituose įrenginiuose esančias korteles.
 synced-tabs-sidebar-intro = Peržiūrėkite kituose įrenginiuose esančias korteles.
 synced-tabs-sidebar-unverified = Jūsų paskyra turi būti patvirtinta.
 synced-tabs-sidebar-notabs = Nėra atvirų kortelių

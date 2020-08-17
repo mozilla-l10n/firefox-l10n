@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importuoti parinktis, adresyną, žurnalą, slaptažodžius ir kitus duomenis iš:">
 <!ENTITY importFromUnix.label           "Importuoti nuostatas, adresyną, žurnalą, slaptažodžius ir kitus duomenis iš:">
-<!ENTITY importFromBookmarks.label      "Importuoti adresyną iš:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

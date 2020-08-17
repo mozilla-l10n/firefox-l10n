@@ -4,9 +4,11 @@
 
 openpgp-change-key-expiry-title =
     .title = Keisti rakto galiojimo laiką
+
 info-will-expire = Šis raktas dabar sukonfigūruotas taip, kad nustotų galioti po { $date }.
 info-already-expired = Raktas jau nebegalioja.
 info-does-not-expire = Šis raktas dabar sukonfigūruotas taip, kad niekada nepasibaigtų.
+
 expire-dont-change =
     .label = Nekeisti galiojimo laiko
 expire-never-label =

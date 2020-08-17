@@ -62,30 +62,19 @@ abuse-report-messagebar-action-cancel = Atsisakyti
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Kenkia mano kompiuteriui ir duomenims
-
 abuse-report-damage-reason-v2 = Pažeidė mano kompiuterį arba mano duomenis
 abuse-report-damage-example = Pavyzdys: įdiegė virusą arba pavogė duomenis
 
-abuse-report-spam-reason = Kuria nepageidaujamą informaciją arba reklamas
-
 abuse-report-spam-reason-v2 = Yra nepageidaujamo turinio arba nepageidaujamų reklamų
 abuse-report-spam-example = Pavyzdys: svetainėse įterpia reklamas
-
-abuse-report-settings-reason = Pakeitė mano ieškyklę, pradžios tinklalapį, arba naujos kortelės tinklalapį be mano žinios
 
 abuse-report-settings-reason-v2 = Pakeitė mano ieškyklę, pradžios tinklalapį, arba naują kortelę, apie tai nepranešant ir nepaklausiant
 abuse-report-settings-suggestions = Prieš pranešdami apie priedą, galite pabandyti pakeisti nuostatas:
 abuse-report-settings-suggestions-search = Keisti numatytosios ieškyklės nuostatas
 abuse-report-settings-suggestions-homepage = Keisti pradžios tinklalapį ir naujos kortelės tinklalapį
 
-abuse-report-deceptive-reason = Apsimeta kažkuo kitu
-
 abuse-report-deceptive-reason-v2 = Apsimeta kažkuo kitu
 abuse-report-deceptive-example = Pavyzdys: klaidinantis aprašymas arba vaizdai
-
-abuse-report-broken-reason-extension = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą
-abuse-report-broken-reason-theme = Neveikia arba trikdo naršyklės vaizdą
 
 abuse-report-broken-reason-extension-v2 = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą{ -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Neveikia arba trikdo naršyklės vaizdą
@@ -97,14 +86,10 @@ abuse-report-broken-suggestions-theme =
     Panašu, kad aptikote triktį. Pateikus pranešimą čia, kitas geras būdas problemos spręsti
     yra susisiekti su grafinio apvalkalo kūrėju. <a data-l10n-name="support-link">Aplankę grafinio apvalkalo svetainę</a>, rasite kūrėjo kontaktus.
 
-abuse-report-policy-reason = Neapykantą, smurtą kurstantis arba nelegalus turinys
-
 abuse-report-policy-reason-v2 = Yra neapykantą, smurtą kurstančio arba nelegalaus turinio
 abuse-report-policy-suggestions =
     Atminkite: problemos dėl autorių teisių ir prekių ženklų privalo būti pateiktos atskirai.
     Norėdami pranešti apie tokią problemą, <a data-l10n-name="report-infringement-link">sekite šias instrukcijas</a>.
-
-abuse-report-unwanted-reason = Šio priedo niekada nenorėjau, ir jo nepavyksta pašalinti
 
 abuse-report-unwanted-reason-v2 = Niekada nenorėjau ir nežinau kaip tuo atsikratyti
 abuse-report-unwanted-example = Pavyzdys: programa įdiegė priedą be mano sutikimo

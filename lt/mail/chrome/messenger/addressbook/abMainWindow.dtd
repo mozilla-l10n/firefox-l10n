@@ -46,38 +46,15 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Taisa">
 <!ENTITY editMenu.accesskey                             "T">
-<!ENTITY undoCmd.label                                  "Atšaukti">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "A">
-<!ENTITY redoCmd.label                                  "Atstatyti">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "t">
-<!ENTITY cutCmd.label                                   "Iškirpti">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "r">
-<!ENTITY copyCmd.label                                  "Kopijuoti">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Įdėti">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "d">
 <!ENTITY deleteCmd.label                                "Pašalinti">
-<!ENTITY deleteCmd.accesskey                            "š">
 <!ENTITY deleteAbCmd.label                              "Pašalinti adresų knygą">
 <!ENTITY deleteContactCmd.label                         "Pašalinti adresatą">
 <!ENTITY deleteContactsCmd.label                        "Pašalinti adresatus">
 <!ENTITY deleteListCmd.label                            "Pašalinti sąrašą">
 <!ENTITY deleteListsCmd.label                           "Pašalinti sąrašus">
 <!ENTITY deleteItemsCmd.label                           "Pašalinti elementus">
-<!ENTITY selectAllCmd.label                             "Pažymėti viską">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "v">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Sukeisti vietomis vardą ir pavardę">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "S">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Savybės">
 <!ENTITY propertiesMenu.accesskey                       "S">
 <!ENTITY propertiesCmd.key                              "i">

@@ -21,6 +21,9 @@ change-password-reenter = Naujas slaptažodis (pakartoti):
 reset-password-window =
     .title = Pagrindinio slaptažodžio atšaukimas
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Atšaukti
 reset-password-text = Jei atšauksite pagrindinį slaptažodį, prarasite visus įrašytus svetainių ir el. pašto dėžučių slaptažodžius, formų duomenis, liudijimus ir asmeninius raktus. Ar atšaukti?

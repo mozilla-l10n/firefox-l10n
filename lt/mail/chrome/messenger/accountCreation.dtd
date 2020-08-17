@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Turimos el. pašto paskyros nustatymas">
-
 <!ENTITY emailWizard.title               "Turimos el. pašto paskyros nustatymas">
 <!ENTITY emailWizard.caption             "Naudoti turimą el. pašto adresą">
 <!ENTITY name.label                      "Jūsų vardas:">
 <!ENTITY name.accesskey                  "v">
-<!ENTITY name.placeholder                "Vardenis Pavardenis">
 <!ENTITY fullname.placeholder            "Jūsų vardas ir pavardė">
 <!ENTITY name.text                       "Jūsų vardas, kurį matys kiti">
 <!ENTITY name.error                      "Įveskite savo vardą">
 <!ENTITY email.label                     "El. pašto adresas:">
 <!ENTITY email.accesskey                 "a">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "vpavardenis@example.com">
 <!ENTITY email3.placeholder              "Jūsų el. pašto adresas">
 <!ENTITY email.text                      "Jūsų turimas el. pašto adresas">
 <!ENTITY email.error                     "Netinkamas el. pašto adresas">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Laiškų siuntimo serveris:">
 <!ENTITY outgoingColumn.label            "Siunčiami">
 <!ENTITY username.label                  "Abonento vardas:">
-<!ENTITY hostname.label                  "Serverio vardas">
-<!ENTITY port.label                      "Prievadas">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Serveris:">
 <!ENTITY portRow.label                   "Prievadas:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Patikrinti">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Rankinis derinimas">
-<!ENTITY manual-edit.accesskey           "R">
 <!ENTITY manual-config.label             "Konfigūruoti rankiniu būdu…">
 <!ENTITY manual-config.accesskey         "r">
 <!ENTITY open-provisioner.label          "Gauti naują el. pašto adresą…">

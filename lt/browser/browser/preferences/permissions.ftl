@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Prašom surinkti teisingą serverio vardą
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Išimtys – turinio blokavimas
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Šiose svetainėse esate išjungę turinio blokavimą.
-
 permissions-exceptions-etp-window =
     .title = Išimtys išplėstai apsaugai nuo stebėjimo
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama įdiegti priedus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Išimtys – automatinis grojimas
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Čia galima nurodyti svetaines, kurioms visada, arba niekada, leidžiama automatiškai groti medijas su garsu. Surinkite tikslų svetainės adresą ir spustelėkite atitinkamą mygtuką: „Neleisti“ ar „Leisti“.
 
 ## Site Permissions - Autoplay
 

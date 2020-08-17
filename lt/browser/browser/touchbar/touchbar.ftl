@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Grįžti iš viso ekrano
 find = Ieškoti
 new-tab = Nauja kortelė
 add-bookmark = Įtraukti adresą
-open-bookmarks-sidebar = Atverti adresyną parankinėje
 reader-view = Skaitymo rodinys
 # Meant to match the string displayed in an empty URL bar.
 open-location = Įveskite adresą arba paieškos žodžius

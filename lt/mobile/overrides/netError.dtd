@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>Prašomo dokumento programos „&brandShortName;“ podėlyje nėra.</p><ul><li>Saugumo sumetimais „&brandShortName;“ jautrių dokumentų automatiškai iš naujo neatsiunčia.</li><li>Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.</li></ul>">
 
 <!ENTITY netOffline.title "Dirbama neprisijungus prie tinklo">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Bandykite dar kartą. „&brandShortName;“ mėgins užmegzti ryšį ir įkelti tinklalapį iš naujo. <button id='wifi'>Įjungti belaidį tinklą</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Kodavimo klaida">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Prašome pranešti svetainės savininkams apie šią problemą.</li> </ul>">

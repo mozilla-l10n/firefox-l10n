@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archyvuoti">
 <!ENTITY hdrArchiveButton1.tooltip "Archyvuoti šį laišką">
-<!ENTITY hdrOpenConversationButton1.label "Diskusija">
-<!ENTITY hdrOpenConversationButton1.tooltip "Atverti šį laišką diskusijoje">
 <!ENTITY hdrSmartReplyButton1.label "Atsakyti parenkant gavėjus">
 <!ENTITY hdrReplyButton1.label "Atsakyti">
 <!ENTITY hdrReplyButton2.tooltip "Atsakyti laiško siuntėjui">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Atsakyti el. pašto grupei">
 <!ENTITY hdrFollowupButton1.label "Atsakyti grupei">
 <!ENTITY hdrFollowupButton1.tooltip "Atsakyti naujienų grupei">
-<!ENTITY hdrMenuForwardButton.label "Persiųsti kitaip">
 <!ENTITY hdrForwardButton1.label "Persiųsti">
 <!ENTITY hdrForwardButton1.tooltip "Persiųsti šį laišką">
 <!ENTITY hdrJunkButton1.label "Brukalas">

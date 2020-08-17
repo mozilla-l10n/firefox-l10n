@@ -35,12 +35,7 @@ connection-proxy-http = HTTP įgaliotasis serveris
     .accesskey = g
 connection-proxy-http-port = Prievadas
     .accesskey = P
-connection-proxy-http-share =
-    .label = Šį įgaliotąjį serverį naudoti visiems protokolams
-    .accesskey = v
 
-connection-proxy-ssl = SSL įgaliotasis serveris
-    .accesskey = L
 connection-proxy-http-sharing =
     .label = Taip pat naudoti šį serverį jungiantis per FTP ir HTTPS
     .accesskey = s

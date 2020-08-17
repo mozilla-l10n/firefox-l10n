@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Patikrinti duomenų šaltinio ryšį:
-about-telemetry-show-current-ping-data = Dabartinio ryšio patikrinimo duomenys
 about-telemetry-show-current-data = Dabartiniai duomenys
 about-telemetry-show-archived-ping-data = Archyve esantys ryšio tikrinimo duomenys
 about-telemetry-show-subsession-data = Rodyti posesijinius duomenis
@@ -77,7 +76,6 @@ about-telemetry-settings-explanation = Telemetrija renka { about-telemetry-data-
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Kiekviena informacijos dalis yra siunčiama sugrupuota į „<a data-l10n-name="ping-link">ryšio patikrinimus</a>“. Dabar žiūrite į { $name }, „{ $timestamp }“ ryšio patikrinimą.
-about-telemetry-ping-details-current = Kiekviena informacijos dalis yra siunčiama sugrupuota į „<a data-l10n-name="ping-link">ryšio patikrinimus</a>“. Dabar žiūrite į dabartinį ryšio patikrinimą.
 about-telemetry-data-details-current = Kiekviena informacijos dalis yra siunčiama sugrupuota į „<a data-l10n-name="ping-link">ryšio patikrinimus</a>“. Dabar žiūrite į dabartinius duomenis.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -103,8 +101,6 @@ about-telemetry-no-search-results-all = Deja! Nė viename skyriuje nėra rezulta
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Deja! Skyriuje „{ $sectionName }“ šiuo metu duomenų nėra
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = dabartinis ryšio patikrinimas
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = dabartiniai duomenys
 # used in the “Ping Type” select

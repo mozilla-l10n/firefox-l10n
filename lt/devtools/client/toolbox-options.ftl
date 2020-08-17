@@ -115,8 +115,6 @@ options-enable-chrome-tooltip =
 
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Įgalinti nuotolinį derinimą
-options-enable-remote-tooltip =
-    .title = Įjungę šią nuostatą, galėsite užsiimti nutolusios „Firefox“ versijos (pavyzdžiui, „Firefox OS“) derinimu
 
 options-enable-remote-tooltip2 =
     .title = Įjungus šią parinktį, bus galima per nuotolį derinti šią naršyklę
