@@ -49,8 +49,6 @@ media-long-desc =
 media-save-as =
     .label = Boloka Ele...
     .accesskey = S
-media-preview =
-    .value = Tlhahlobo ya Media:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -59,7 +57,6 @@ media-preview =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Ha e tsejwe
-not-set-verified-by = Ha e a hlaloswa
 page-info-not-specified =
     .value = Ha e a hlaloswa
 not-set-alternative-text = Ha e a hlaloswa

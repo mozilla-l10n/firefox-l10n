@@ -14,25 +14,11 @@
 <!ENTITY editMenu.label "Edita">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Etsolla">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "e">
 <!ENTITY redoCmd.label "Pheta">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "p">
-<!ENTITY cutCmd.label "Kgaola">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "o">
-<!ENTITY copyCmd.label "Kopitsa">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Peista">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Phumula">
 <!ENTITY deleteCmd.accesskey "p">
-<!ENTITY selectAllCmd.label "Kgetha Tsohle">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY preferencesCmdUnix.label "Boikgethelo">
 <!ENTITY preferencesCmdUnix.accesskey "t">
 

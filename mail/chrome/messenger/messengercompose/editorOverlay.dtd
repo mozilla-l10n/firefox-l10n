@@ -51,8 +51,6 @@
 
 <!ENTITY pasteNoFormatting.label "Peista Ntle le ho Fomata">
 <!ENTITY pasteNoFormatting.accesskey "l">
-<!ENTITY pasteAs.label "Peista Ele">
-<!ENTITY pasteAs.accesskey "e">
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
@@ -151,8 +149,6 @@
 <!ENTITY ParagraphSelect.tooltip "Kgetha ho fomatwa ha Seratswana">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Mongolo wa Bohare">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Dimelo tse Hatetseng Pele">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -168,10 +164,6 @@
 <!ENTITY alignJustify.label "Tsitsisa">
 <!ENTITY alignJustify.tooltip "Matahanyo ya Tsitsiso">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Leyara">
-<!ENTITY layerSendToBack.tooltip "Romela Morao">
-<!ENTITY layerBringToFront.tooltip "Tlisa Fontong">
 
 <!ENTITY increaseIndent.label "Eketsa Ngotlo">
 <!ENTITY decreaseIndent.label "Fokotsa Ngotlo">
@@ -227,15 +219,6 @@
 
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Mola wa Menu">
-<!ENTITY formatToolbar.tooltip "Thulebara e Fomatang">
-<!ENTITY printToolbarCmd.label "Printa">
-<!ENTITY printToolbarCmd.tooltip "Printa leqephe lena">
-<!ENTITY findToolbarCmd.label "Fumana">
-<!ENTITY findToolbarCmd.tooltip "Fumana mongolo leqepheng">
-<!ENTITY spellToolbarCmd.label "Peleta">
-<!ENTITY spellToolbarCmd.tooltip "Lekola mopeleto wa kgetho kapa leqephe lohle">
-
 <!ENTITY imageToolbarCmd.label "Setshwantsho">
 <!ENTITY imageToolbarCmd.tooltip "Kenya setshwantsho se setjha kapa o edite dimelo tsa setshwantsho se kgethilweng">
 <!ENTITY hruleToolbarCmd.label "Laene ya H">
@@ -248,7 +231,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Kenya ankere e ntjha e boletsweng kapa o edite dimelo tsa ankere e kgethilweng">
 <!ENTITY TextColorButton.tooltip "Kgetha mmala wa mongolo">
 <!ENTITY BackgroundColorButton.tooltip "Kgetha mmala wa bokamorao">
-<!ENTITY HighlightColorButton.tooltip "Kgetha mmala wa tlhakiso ya mongolo">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Saese e nyane ya fonto">
@@ -280,12 +262,6 @@
 
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Kgetha">
-<!ENTITY structSelect.accesskey "k">
-<!ENTITY structRemoveTag.label "Tlosa tag">
-<!ENTITY structRemoveTag.accesskey "t">
-<!ENTITY structChangeTag.label "Fetola tag">
-<!ENTITY structChangeTag.accesskey "f">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "Kenya">

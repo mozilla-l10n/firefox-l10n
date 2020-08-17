@@ -34,33 +34,10 @@
 
 <!ENTITY editMenu.label "Edita">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Etsolla">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "e">
-<!ENTITY redoCmd.label "Boeletsa">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "b">
-<!ENTITY cutCmd.label "Ntsha">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopitsa">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Kgomaretsa">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "k">
 <!ENTITY deleteCmd.label "Hlakola">
-<!ENTITY deleteCmd.accesskey "h">
 <!ENTITY deleteAbCmd.label "Hlakola Buka ya Diaterese">
-<!ENTITY selectAllCmd.label "Kgetha A">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY swapFirstNameLastNameCmd.label "Fapantsha bitso la qalo/qetelo">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "a">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 

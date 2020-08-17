@@ -14,6 +14,7 @@ pw-erased-ok = O phumutse Phasewete e Kgolo ya hao. { pw-empty-warning }
 pw-not-wanted = Tlhokomediso! O nkile qeto ya ho sebedisa Phasewete e Kgolo. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Hajwale o mokgweng wa FIPS. FIPS e hloka Phasewete e Kgolo e seng lephaka.
+
 pw-change-success-title = Phetolo ya Phasewete e Atlehile
 pw-change-failed-title = Phetolo ya Phasewete e Hlolehile
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Fetola Diphasewete e Kgolo
+
 set-password-old-password = Phasewete ya Hajwale:
 set-password-new-password = Kenya phasewete e ntjha:
 set-password-reenter-password = Pheta phasewete:
@@ -31,6 +33,7 @@ master-password-warning = Etsa hore o hopole Phasewete e Kgolo eo o e setileng. 
 
 remove-password =
     .title = Tlosa Phasewete e Kgolo
+
 remove-info =
     .value = O lokela ho kenya phasewete ya hajwale ya hao hore o tswele pele:
 remove-warning1 = Phasewete e Kgolo ya hao e sebediswa ho sireletsa tlhahisoleseding e kgethehileng haholo jwalo ka diphasewete tsa ditsha.

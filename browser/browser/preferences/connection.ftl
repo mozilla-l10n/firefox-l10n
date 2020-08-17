@@ -9,10 +9,6 @@ connection-proxy-option-auto =
     .label = Fumana disetwa ka ho Iketsa bakeng sa netweke ena
     .accesskey = w
 
-connection-proxy-http-share =
-    .label = Sebedisa proksi ya seva ena diprotokholeng tsohle
-    .accesskey = k
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
