@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName; səyyahının keşində mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, &brandShortName; həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi saytdan yenidən istəmək üçün, Təkrar Yoxla düyməsinə klikləyin.</li></ul>">
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Yenidən yoxla. &brandShortName; bağlantı açıb səhifəni təkrar yükləməyə cəhd edəcək. <button id='wifi'>Wi-Fi Aktivləşdir</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li> </ul>">

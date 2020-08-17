@@ -70,11 +70,6 @@ permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = İstisnalar - Məzmun Əngəlləmə
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Məzmun Əngəlləməni bu saytlarda söndürmüsünüz.
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -104,11 +99,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləcəyini seçə bilərsiniz. İcaz vermək istədiyiniz saytın tam ünvanını yazdıqdan sonra "İcazə ver"-ə klikləyin.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = İstisna - Avto Oxutma
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Hansı saytların həmişə və ya heç vaxt media məzmunlarını avtomatik səsli oxuda biləcəklərini seçə bilərsiz. İdarə etmək istədiyiniz saytın ünvanını daxil edin, Əngəllə və ya İcazə ver seçin.
 
 ## Site Permissions - Autoplay
 

@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Seçimləri, Əlfəcinləri, Tarixçəni, Parolları və digər məlumatları buradan idxal et:">
 <!ENTITY importFromUnix.label           "Nizamlamaları, Əlfəcinləri, Tarixçəni, Parolları və digər məlumatları buradan idxal et:">
-<!ENTITY importFromBookmarks.label      "Əlfəcinləri buradan idxal et:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

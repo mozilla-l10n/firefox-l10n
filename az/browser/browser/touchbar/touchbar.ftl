@@ -12,7 +12,6 @@ fullscreen = Tam ekran
 find = Tap
 new-tab = Yeni vərəq
 add-bookmark = Əlfəcin əlavə et
-open-bookmarks-sidebar = Əlfəcin yan panelini aç
 reader-view = Oxuyucu Görünüşü
 # Meant to match the string displayed in an empty URL bar.
 open-location = Ünvanı daxil et və ya axtar

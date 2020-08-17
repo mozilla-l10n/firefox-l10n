@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping məlumatı mənbəsi:
-about-telemetry-show-current-ping-data = İndiki ping məlumatı
 about-telemetry-show-archived-ping-data = Arxivlənmiş ping məlumatı
 about-telemetry-show-subsession-data = Alt seans məlumatlarını göstər
 about-telemetry-choose-ping = Ping-i seçin
@@ -64,7 +63,6 @@ about-telemetry-settings-explanation = Telemetry { about-telemetry-data-type } y
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Hər bit məlumat parçası “<a data-l10n-name="ping-link">ping</a>” paketləri halında göndərilir. Hazırda { $name }, { $timestamp } ping-inə baxırsınız.
-about-telemetry-ping-details-current = Hər bit məlumat parçası “<a data-l10n-name="ping-link">ping</a>“ paketləri halında göndərilir. Hazırda hazırkı ping-inə baxırsınız.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -89,8 +87,6 @@ about-telemetry-no-search-results-all = Bağışlayın! Heç bir bölmədə “{
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Bağışlayın! Hazırda “{ $sectionName }” bölümündə heç bir məlumat yoxdur
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = hazırkı ping
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = hamısı
 # button label to copy the histogram

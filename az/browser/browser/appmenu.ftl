@@ -5,10 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Məxfilik Qorumaları
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Məxfilik hesabatınıza gedin
-
 appmenuitem-customize-mode =
     .label = Fərdiləşdir…
 

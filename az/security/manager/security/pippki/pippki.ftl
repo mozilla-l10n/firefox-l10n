@@ -21,6 +21,9 @@ change-password-reenter = Yeni parol (təkrar):
 reset-password-window =
     .title = Ana Parolu Sıfırla
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Reset
 reset-password-text = Əgər ana parolunuzu sıfırlasanız, web və e-poçt parolunuz, forma məlumatlarınız, şəxsi təsdiq sənədləriniz və xüsusi açarlarınız silinəcək. Ana parolunuzu sıfırlamaq istədiyinizə əminsiniz?

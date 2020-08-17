@@ -14,9 +14,6 @@ search-header =
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Yüklənir…
-
 list-empty-installed =
     .value = Bu növ qurulmuş əlavəniz yoxdur
 
@@ -32,10 +29,6 @@ list-empty-find-updates =
 list-empty-button =
     .label = Əlavələr haqqında daha çox öyrənin
 
-install-addon-from-file =
-    .label = Fayldan əlavə qur...
-    .accesskey = I
-
 help-button = Əlavə Dəstəyi
 
 sidebar-help-button-title =
@@ -46,9 +39,6 @@ preferences =
         [windows] { -brand-short-name } Seçimləri
        *[other] { -brand-short-name } Nizamlamaları
     }
-
-tools-menu =
-    .tooltiptext = Bütün əlavələr üçün alətlər
 
 sidebar-preferences-button-title =
     .title =
@@ -62,10 +52,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Bütün uzantıları göstər
-
-debug-addons =
-    .label = Əlavələri Sazla
-    .accesskey = z
 
 cmd-show-details =
     .label = Əlavə məlumat ver
@@ -103,12 +89,6 @@ cmd-contribute =
     .label = Kömək
     .accesskey = C
     .tooltiptext = Bu əlavənin inkişaf etdirilməsinə kömək et
-
-discover-title = Əlavə nədir?
-
-discover-description = Əlavələr əlavə funksiya və formalarla { -brand-short-name } tətbiqinizi şəxsiləşdirmək üçün yaradılan kiçik tətbiqlərdir. Sizə zaman qazandıran bir vasitə çubuğunu, havanın vəziyyətini göstərən və ya { -brand-short-name } tətbiqinin istədiyiniz kimi görünməsini təmin edəcək bir mövzunu təcrübədən keçirin.
-
-discover-footer = İnternetə bağlananda bu bölmədə baxmağınız üçün ən çox istifadə olunana əlavələrin bəziləri önə çıxarılacaq.
 
 detail-version =
     .label = Buraxılış
@@ -202,14 +182,6 @@ legacy-extensions =
 
 legacy-extensions-description = Bu qoşmalar hazırkı { -brand-short-name } standartlarına cavab vermirlər və bu səbəbdən söndürüldülər. <label data-l10n-name="legacy-learn-more">Əlavələrə olan dəyişikliklər haqqında öyrən</label>
 
-extensions-view-recent-updates =
-    .name = Yaxın vaxtlardakı yeniləmələr
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Mövcud yeniləmələr
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Uzantılar
 addon-category-extension-title =
     .title = Uzantılar
@@ -234,29 +206,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-check-compatibility-enable =
-    .label = Aktiv et
-    .tooltiptext = Əlavə uyğunluq nəzarətini aktivləşdir
-
-extensions-warning-update-security-label =
-    .value = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
-extensions-warning-update-security-enable =
-    .label = Aktiv et
-    .tooltiptext = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir
-
 extensions-warning-safe-mode = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
 extensions-warning-check-compatibility = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
 extensions-warning-check-compatibility-button = Aktiv et
@@ -268,14 +217,6 @@ extensions-warning-update-security-button = Aktiv et
 
 ## Strings connected to add-on updates
 
-extensions-updates-check-for-updates =
-    .label = Yeniləmələrə bax…
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = Yaxın vaxtdakı yeniləmələrə bax
-    .accesskey = b
-
 addon-updates-check-for-updates = Yeniləmələrə bax…
     .accesskey = C
 addon-updates-view-updates = Yaxın vaxtdakı yeniləmələrə bax
@@ -283,10 +224,6 @@ addon-updates-view-updates = Yaxın vaxtdakı yeniləmələrə bax
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Əlavələri avtomatik yenilə
-    .accesskey = n
 
 addon-updates-update-addons-automatically = Əlavələri avtomatik yenilə
     .accesskey = n
@@ -297,36 +234,12 @@ addon-updates-update-addons-automatically = Əlavələri avtomatik yenilə
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-extensions-updates-reset-updates-to-automatic =
-    .label = Bütün əlavələri avtomatik yeniləyəcək şəkildə nizamla
-    .accesskey = a
-
-extensions-updates-reset-updates-to-manual =
-    .label = Bütün əlavələri əllə yeniləyəcək şəkildə nizamla
-    .accesskey = a
-
 addon-updates-reset-updates-to-automatic = Bütün əlavələri avtomatik yeniləyəcək şəkildə nizamla
     .accesskey = a
 addon-updates-reset-updates-to-manual = Bütün əlavələri əllə yeniləyəcək şəkildə nizamla
     .accesskey = a
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Əlavələr yenilənir
-extensions-updates-installed =
-    .value = Əlavələriniz yenilənir.
-extensions-updates-downloaded =
-    .value = Əlavələrçün yeniləmələr yükləndi.
-extensions-updates-restart =
-    .label = Quraşdırmanı tamamlamaq üçün indi yenidən başladın
-extensions-updates-none-found =
-    .value = Yenilənmə tapılmadı
-extensions-updates-manual-updates-found =
-    .label = Quraşdırıla biləcək yeniləmələrə bax
-extensions-updates-update-selected =
-    .label = Yeniləmələri quraşdır
-    .tooltiptext = Bu siyahıdakı yeniləmələri quraşdır
 
 addon-updates-updating = Əlavələr yenilənir
 addon-updates-installed = Əlavələriniz yenilənir.
@@ -344,10 +257,6 @@ addon-open-about-debugging = Əlavələri Sazla
 
 ## Extension shortcut management
 
-manage-extensions-shortcuts =
-    .label = Uzantı Qısa-yollarını İdarə et
-    .accesskey = S
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Uzantı Qısa-yollarını İdarə et
     .accesskey = S
@@ -356,8 +265,6 @@ shortcuts-no-addons = Aktiv uzantınız yoxdur.
 shortcuts-no-commands = Bu uzantıların qısa-yolları yoxdur:
 shortcuts-input =
     .placeholder = Qısayol yazın
-
-shortcuts-browserAction = Uzantını aktivləşdir
 
 shortcuts-pageAction = Səhifə əməliyyatını aktivləşdir
 shortcuts-sidebarAction = Yan Paneli Aç/Qapat
@@ -376,9 +283,6 @@ shortcuts-card-expand-button =
 
 shortcuts-card-collapse-button = Daha az göstər
 
-go-back-button =
-    .tooltiptext = Geri get
-
 header-back-button =
     .title = Geri get
 
@@ -390,9 +294,6 @@ header-back-button =
 remove-addon-button = Sil
 disable-addon-button = Söndür
 enable-addon-button = Aktiv et
-
-addons-enabled-heading = Aktivdir
-addons-disabled-heading = Söndürülüb
 
 ## Pending uninstall message bar
 
