@@ -31,8 +31,6 @@ media-count =
     .label = Palelo
 media-long-desc =
     .value = Tlhaloso e Telele:
-media-preview =
-    .value = Tebopele ya Mmedia:
 
 security-view-unknown = Ga e itsiwe
     .value = Ga e itsiwe
@@ -52,7 +50,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Ga e itsiwe
-not-set-verified-by = Ga e a totobadiwa
 page-info-not-specified =
     .value = Ga e a totobadiwa
 not-set-alternative-text = Ga e a totobadiwa

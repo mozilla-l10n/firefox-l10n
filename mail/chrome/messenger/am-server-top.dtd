@@ -66,15 +66,12 @@
 <!ENTITY maxMessagesEnd.label "melaetsa">
 <!ENTITY alwaysAuthenticate.label "Ka gale kopa rurifatso fa o gokaganya le dikgatlhong">
 <!ENTITY alwaysAuthenticate.accesskey "a">
-<!ENTITY newsrcFilePath.label "faele ya newsrc:">
-<!ENTITY newsrcPicker.label "Tlhopha Faele ya newsrc">
 <!ENTITY abbreviate.label "Bontsha maina a ditlhopha tsa dikgang mo seokomedising sa Setsholadifaele sa Poso jaaka:">
 <!ENTITY abbreviateOn.label "Maina ka botlalo (Sekai, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Khutshwafatsa maina (Sekai, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Tsweletseng...">
 <!ENTITY advancedButton.accesskey "w">
 <!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
-<!ENTITY localPath.label "Lenanefaele la Selegae:">
 <!ENTITY localFolderPicker.label "Tlhopha Lenanefaele la Selegae">
 <!ENTITY browseFolder.label "Batla...">
 <!ENTITY browseFolder.accesskey "B">

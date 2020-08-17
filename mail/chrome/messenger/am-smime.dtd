@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Pabalesego">
-<!ENTITY securityTab.label "Security">
-<!ENTITY securityHeading.label "Go romela le go amogela melaetsa e e saenilweng gongwe e e kwadilweng ka dikhoutu o tshwanetse go totobatsa setifikeiti sa dijitale se se saenang le setifikeiti sa mekwalo ya dikhoutu.">
-<!ENTITY encryptionGroupTitle.label "Tshireletso">
-<!ENTITY encryptionChoiceLabel.label "Rulaganyetsa boalo jwa mokwalo wa khoutu ruri fa go romelwa melaetsa:">
-<!ENTITY neverEncrypt.label "Le e seng (o seke wa dirisa mokwalo wa khoutu)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Tlhokega (go ka seke ga romelwa melaetsa ntle le fa fela baamogedi ba na le disetifikeiti)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Dirisa setifikeiti seno go kwala mokwalo wa khoutu &amp; khoutulola melaetsa e o e romeletsweng:">
-
 <!ENTITY digitalSign.certificate.button "Select…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Clear">
@@ -22,11 +11,5 @@
 <!ENTITY encryption.certificate_clear.button "Clear">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Mosaeno wa Dijitale">
-<!ENTITY signMessage.label "Saena melaetsa ka mokgwa wa dijitale (go rulaganyeditswe ruri)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Dirisa setifikeiti seno go saena melaetsa e o e romelang ka mokgwa wa dijitale:">
-
-<!ENTITY certificates.label "Certificates">
-<!ENTITY manageDevices.label "Security Devices">
-<!ENTITY manageDevices.accesskey "y">
 

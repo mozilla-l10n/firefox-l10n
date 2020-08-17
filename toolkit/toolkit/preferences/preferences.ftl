@@ -13,6 +13,7 @@ pw-empty-warning = Dikhunololamoraba tsa gago tse di bolokilweng tsa inthanete l
 pw-not-wanted = Tsiboso! O sweditse go se dirise Khunololamoraba e Kgolo. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Ga jaana o mo mokgweng wa FIPS. FIPS e tlhoka Khunololamoraba e Kgolo e e seng lolea.
+
 pw-change-success-title = Phetolo ya Khunololamoraba e atlegile
 pw-change-failed-title = Phetolo ya Khunololamoraba e retetse
 pw-remove-button =
@@ -20,6 +21,7 @@ pw-remove-button =
 
 set-password =
     .title = Fetola Khunololamoraba e Kgolo
+
 set-password-old-password = Khunololamoraba ya ga jaana:
 set-password-new-password = Tsenya khunulolamoraba e ntšhwa:
 set-password-reenter-password = Tsenya khunulolamoraba gape:
@@ -30,6 +32,7 @@ master-password-warning = Tsweetswee netefatsa gore o gakologelwa Khunololamorab
 
 remove-password =
     .title = Tlosa Khunololamoraba e Kgolo
+
 remove-info =
     .value = O tshwanetse go tsenya khunololamoraba ya gago ya ga jaana go tswelela pele:
 remove-warning1 = Khunololamoraba ya gago e Kgolo e dirisediwa go sireletsa tshedimosetso e e masisi e tshwana le dikhunololamoraba tsa ditsha.

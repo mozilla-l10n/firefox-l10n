@@ -18,6 +18,9 @@ change-password-reenter = Khunololamoraba e ntšhwa (gape):
 reset-password-window =
     .title = Tlhoma Khunololamoraba e Kgolo sešwa
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Tlhoma sešwa
 reset-password-text = Fa o tlhoma khunololamoraba ya gago e kgolo sešwa, dikhunololamoraba tsa gago tsotlhe tse di bolokilweng tsa inthanete le poso ya eleketoroniki, tshedimosetso ya diforomo, ditifikeiti tsa sebele, le dinotlolo tsa poraefete di tla lebalwa. A o totobetse gore o batla go tlhoma khunololamoraba ya gago e kgolo sešwa?

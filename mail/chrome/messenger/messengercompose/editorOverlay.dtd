@@ -6,24 +6,13 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Manega Ntle le go Fometa">
 <!ENTITY pasteNoFormatting.accesskey "e">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Manega Jaaka">
-<!ENTITY pasteAs.accesskey "J">
 <!ENTITY pasteAsQuotationCmd.label "Manega Jaaka Nopolo">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Find…">
-<!ENTITY findReplaceCmd.label "Find and Replace…">
-<!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Lokela">
@@ -180,9 +169,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Mmele wa Mafoko">
 <!ENTITY bodyTextCmd.accesskey "T">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Ditlhagotshedimosetso tse di Tsweletseng">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Tlhamalatsa">
@@ -200,10 +186,6 @@
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Tlhamalatsa Mo Matlhakoreng">
 <!-- Layer toolbar items -->
-
-<!ENTITY layer.tooltip "Boalo">
-<!ENTITY layerSendToBack.tooltip "Romela kwa Morago">
-<!ENTITY layerBringToFront.tooltip "Tlisa fa Pele">
 
 <!ENTITY increaseIndent.label "Oketsa Intente">
 <!ENTITY increaseIndent.accesskey "I">
@@ -279,18 +261,6 @@
 <!ENTITY tableProperties.accesskey "l">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Bara ya Lenanekhomphiutara">
-<!ENTITY formatToolbar.tooltip "Bara ya Didiriswa ya go Fometa">
-<!ENTITY cutToolbarCmd.tooltip "Cut">
-<!ENTITY copyToolbarCmd.tooltip "Copy">
-<!ENTITY pasteToolbarCmd.tooltip "Paste">
-<!ENTITY printToolbarCmd.label "Gatisa">
-<!ENTITY printToolbarCmd.tooltip "Gatisa tsebe eno">
-<!ENTITY findToolbarCmd.label "Batla">
-<!ENTITY findToolbarCmd.tooltip "Batla mafoko mo tsebeng">
-<!ENTITY spellToolbarCmd.label "Peleta">
-<!ENTITY spellToolbarCmd.tooltip "Tlhola mopeleto wa tlhopho gongwe tsebe yotlhe">
-
 <!ENTITY imageToolbarCmd.label "Setshwantsho">
 <!ENTITY imageToolbarCmd.tooltip "Lokela setshwantsho se sentšhwa gongwe o tseleganye ditlhagotshedimosetso tsa setshwantsho se se tlhophilweng">
 <!ENTITY hruleToolbarCmd.label "Mola wa o o rapameng">
@@ -303,7 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Lokela setlhomi se sentšhwa se se teilweng leina gongwe o tseleganye ditlhagotshedimosetso tsa setlhomi se se tlhophilweng">
 <!ENTITY TextColorButton.tooltip "Tlhophela mafoko mmala">
 <!ENTITY BackgroundColorButton.tooltip "Tlhophela lemorago mmala">
-<!ENTITY HighlightColorButton.tooltip "Tlhophela mafoko mmala o o sedimosang">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Fonto ya bogolo jo bonnye">
@@ -323,12 +292,6 @@
 <!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label         "Tlhopha">
-<!ENTITY structSelect.accesskey     "T">
-<!ENTITY structRemoveTag.label      "Tlosa thěkě">
-<!ENTITY structRemoveTag.accesskey  "T">
-<!ENTITY structChangeTag.label      "Fetola thěkě">
-<!ENTITY structChangeTag.accesskey  "F">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label          "Tsenyamoteng">

@@ -65,34 +65,6 @@
 
 
 
-<!ENTITY cmd.enableAddon.label                "Kgontsha">
-<!ENTITY cmd.enableAddon.accesskey            "K">
-<!ENTITY cmd.disableAddon.label               "Koafatsa">
-<!ENTITY cmd.disableAddon.accesskey           "K">
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY cmd.uninstallAddon.label             "Tlosa">
-<!ENTITY cmd.uninstallAddon.accesskey         "T">
-<!ENTITY cmd.showPreferencesWin.label         "Diitlhophelwa">
-
-<!ENTITY cmd.showPreferencesUnix.label        "Diratwabogolo">
-
-
-
-
-
-
 
 
 
@@ -114,7 +86,6 @@
 <!-- ratings -->
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Khansela">
 <!-- list sorting -->
 
 
@@ -129,9 +100,6 @@
 
 
 
-<!ENTITY addon.details.label                  "Tse dintsi">
-
-<!ENTITY addon.unknownDate                    "Ga e itsiwe">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
@@ -158,12 +126,6 @@
 
 
 
-
-
-
-
-
-<!ENTITY settings.path.button.label           "Batla…">
 
 
 

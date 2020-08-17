@@ -40,30 +40,6 @@
 
 
 
-<!ENTITY cmd.open.label                  "Bula">
-<!ENTITY cmd.open.accesskey              "B">
-<!ENTITY cmd.open_window.label           "Bula mo Window e Ntšhwa">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Bula mo Window ya Poraefete e Ntšhwa">
-<!ENTITY cmd.open_private_window.accesskey "P">
-
-
-
-
-
-<!ENTITY cmd.properties.label      "Ditlhagotshedimosetso">
-<!ENTITY cmd.properties.accesskey  "t">
-
-
-
-
-<!ENTITY cmd.new_bookmark.label            "Letshwaotsebe le Lentšhwa…">
-<!ENTITY cmd.new_bookmark.accesskey        "L">
-
-
-
-
-
 
 <!ENTITY col.name.label          "Leina">
 
@@ -84,15 +60,3 @@
 
 
 
-<!ENTITY view.label               "Leba">
-<!ENTITY view.accesskey           "a">
-<!ENTITY byDate.label             "Ka Letlha">
-<!ENTITY byDate.accesskey         "L">
-<!ENTITY bySite.label             "Ka Setsha">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Ka Tse di Etetsweng Thata">
-<!ENTITY byMostVisited.accesskey  "E">
-<!ENTITY byLastVisited.label      "Ka Tse di Etetsweng La Bofelo">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "Ka Letlha le Setsha">
-<!ENTITY byDayAndSite.accesskey   "t">

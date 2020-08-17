@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Ngotla">
-<!ENTITY bringAllToFront.label    "Tlisa Tsotlhe fa Pele">
-<!ENTITY zoomWindow.label         "Laola bogolo">
-<!ENTITY windowMenu.label         "Window">
-
-<!ENTITY helpMenu.label           "Thuso"> 
-<!ENTITY helpMenu.accesskey       "T"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Thuso"> 
-<!ENTITY helpMenuWin.accesskey    "T">
-
 <!ENTITY aboutProduct2.label      "Ka ga &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "K">
-<!ENTITY productHelp2.label       "&brandShorterName; Thuso">
-<!ENTITY productHelp2.accesskey   "T">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Keyboard Ditlhabanyetso  ">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
-
-<!ENTITY helpSafeMode.label       "Simolodisa gape ka di oketswa di Thibetswe go dira">
-<!ENTITY helpSafeMode.accesskey   "S">
-<!ENTITY helpSafeMode.stop.label       "Simolola sešwa ka dioketswa di kgontshitswe">
-<!ENTITY helpSafeMode.stop.accesskey   "S">
-
-<!ENTITY helpTroubleshootingInfo.label      "Tharabololobothata ya Tshedimosetso">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-
-<!ENTITY helpFeedbackPage.label      "Romela tshwaelo ka maitemogelo...">
-<!ENTITY helpFeedbackPage.accesskey  "R">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Tsaya Loeto">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Tse di kgethegileng...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Ditirelo">
 
 <!ENTITY hideThisAppCmdMac2.label       "Fitlha &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fitlha tse Dingwe">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "BontshaTsotlhe">
 
