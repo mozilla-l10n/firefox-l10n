@@ -2,52 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Ridûs a icone">
-<!ENTITY bringAllToFront.label    "Parte dut in prin plan">
-<!ENTITY zoomWindow.label         "Zoom">
-<!ENTITY windowMenu.label         "Barcon">
-
-<!ENTITY helpMenu.label           "Jutori"> 
-<!ENTITY helpMenu.accesskey       "J"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Jutori"> 
-<!ENTITY helpMenuWin.accesskey    "J">
-
 <!ENTITY aboutProduct2.label      "Informazions su &brandShortName;">
 <!ENTITY aboutProduct2.accesskey  "I">
-<!ENTITY productHelp2.label       "Jutori di &brandShortName; ">
-<!ENTITY productHelp2.accesskey   "J">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpKeyboardShortcuts.label     "Scurtardoriis di tastiere">
-<!ENTITY helpKeyboardShortcuts.accesskey "t">
-
-<!ENTITY helpSafeMode.label       "Torne a inviâ cence Zontis...">
-<!ENTITY helpSafeMode.accesskey   "r">
 
 
-
-<!ENTITY helpTroubleshootingInfo.label      "Informazions pal supuart…">
-<!ENTITY helpTroubleshootingInfo.accesskey  "t">
-
-<!ENTITY helpFeedbackPage.label      "Mande Feedback">
-<!ENTITY helpFeedbackPage.accesskey  "M">
-
-<!ENTITY helpShowTour2.label            "&brandShorterName; Gîr">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferencis…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servizis">
 
 <!ENTITY hideThisAppCmdMac2.label       "Plate &brandShortName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Plate altris">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostre dut">
 

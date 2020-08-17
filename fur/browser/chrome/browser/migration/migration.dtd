@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Impuarte opzions, segnelibris, cronologjie, passwords e altris dâts di:">
 <!ENTITY importFromUnix.label           "Impuarte preferencis, segnelibris, cronologjie, passwords e altris dâts di:">
-<!ENTITY importFromBookmarks.label      "Impuarte segnelibris di:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

@@ -27,25 +27,6 @@
 
 
 
-<!ENTITY cmd.enableAddon.label                "Ative">
-<!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.disableAddon.label               "Disative">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY cmd.showPreferencesWin.label         "Opzions">
-
-<!ENTITY cmd.showPreferencesUnix.label        "Preferencis">
-
 
 
 
@@ -74,7 +55,6 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Scancele">
 <!-- list sorting -->
 
 
@@ -82,38 +62,12 @@
 
 
 
-<!ENTITY addon.details.label                  "Di plui">
-<!ENTITY addon.details.tooltip                "Mostre altris detais su cheste zonte">
-<!ENTITY addon.unknownDate                    "No cognossût">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Inzornament">
-
-
-
-
-<!ENTITY addon.install.label                  "Instale">
-<!ENTITY addon.install.tooltip                "Instale cheste zonte">
-<!ENTITY addon.updateNow.label                "Inzorne cumò">
-<!ENTITY addon.updateNow.tooltip              "Instale un inzornament par cheste zonte">
-
-
-<!ENTITY addon.checkingForUpdates.label       "Daûr a cirî inzornaments...">
-<!ENTITY addon.releaseNotes.label             "Notis de version:">
-<!ENTITY addon.loadingReleaseNotes.label      "Daûr a cjamâ…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Nus displâs, ma al è sucedût un erôr tant che lis notis de versions a vignivin cjamadis.">
-
-<!ENTITY addon.createdBy.label                "Di ">
-
-<!ENTITY settings.path.button.label           "Sgarfe…">
 
 
 

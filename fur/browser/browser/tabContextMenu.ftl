@@ -20,9 +20,9 @@ unpin-tab =
 move-to-new-window =
     .label = Môf intun gnûf barcon
     .accesskey = b
-undo-close-tab =
-    .label = Anule la sierade de lengute
-    .accesskey = u
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Siere lengute
     .accesskey = S

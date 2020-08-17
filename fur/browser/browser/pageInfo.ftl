@@ -61,8 +61,6 @@ media-save-as =
 media-save-image-as =
     .label = Salve cul non…
     .accesskey = e
-media-preview =
-    .value = Anteprime multimediâl:
 
 perm-tab =
     .label = Permès
@@ -107,7 +105,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = No cognossût
-not-set-verified-by = No specificât
 page-info-not-specified =
     .value = No specificât
 not-set-alternative-text = No specificât

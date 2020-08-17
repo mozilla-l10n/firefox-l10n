@@ -10,9 +10,6 @@ addons-page-title = Gjestôr des zontis
 search-header-shortcut =
     .key = f
 
-loading-label =
-    .value = Daûr a cjamâ…
-
 list-empty-available-updates =
     .value = Nissun inzornament cjatât
 
@@ -70,14 +67,6 @@ detail-rating =
 addon-restart-now =
     .label = Torne a inviâ cumò
 
-extensions-view-recent-updates =
-    .name = Ultins inzornaments
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Inzornaments disponibii
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-extension = Estensions
 addon-category-extension-title =
     .title = Estensions
@@ -99,35 +88,12 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-label =
-    .value = Dutis lis zontis a son stadis disativadis pal Mût sigûr.
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-label =
-    .value = Il control di compatibilitât des zontis al è disativât. Tu podaressis vê zontis incompatibilis.
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-update-security-label =
-    .value = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
 extensions-warning-safe-mode = Dutis lis zontis a son stadis disativadis pal Mût sigûr.
 extensions-warning-check-compatibility = Il control di compatibilitât des zontis al è disativât. Tu podaressis vê zontis incompatibilis.
 extensions-warning-update-security = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
 
 
 ## Strings connected to add-on updates
-
-extensions-updates-check-for-updates =
-    .label = Cîr inzornaments
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = Viôt i ultins inzornaments
-    .accesskey = V
 
 addon-updates-check-for-updates = Cîr inzornaments
     .accesskey = C
@@ -136,10 +102,6 @@ addon-updates-view-updates = Viôt i ultins inzornaments
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-extensions-updates-update-addons-automatically =
-    .label = Inzorne in automatic lis zontis
-    .accesskey = a
 
 addon-updates-update-addons-automatically = Inzorne in automatic lis zontis
     .accesskey = a
@@ -152,19 +114,6 @@ addon-updates-update-addons-automatically = Inzorne in automatic lis zontis
 
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Daûr a inzornâ lis zontis
-extensions-updates-installed =
-    .value = Lis tôs zontis a son stadis inzornadis.
-extensions-updates-downloaded =
-    .value = I inzornaments pes tôs zontis a son stâts discjamâts.
-extensions-updates-restart =
-    .label = Torne a inviâ cumò par finî la instalazion
-extensions-updates-none-found =
-    .value = Nissun inzornament cjatât
-extensions-updates-manual-updates-found =
-    .label = Viôt i inzornaments disponibii
 
 addon-updates-updating = Daûr a inzornâ lis zontis
 addon-updates-installed = Lis tôs zontis a son stadis inzornadis.

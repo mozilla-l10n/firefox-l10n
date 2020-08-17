@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Taie">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Copie">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Tache">
-<!ENTITY pasteCmd.accesskey "h">
-<!ENTITY undoCmd.label "Anule">
-<!ENTITY undoCmd.accesskey "A">
-<!ENTITY selectAllCmd.label "Selezione dut">
-<!ENTITY selectAllCmd.accesskey "S">
-<!ENTITY deleteCmd.label "Elimine">
-<!ENTITY deleteCmd.accesskey "E">
-
 <!ENTITY spellAddToDictionary.label "Zonte al dizionari">
 <!ENTITY spellAddToDictionary.accesskey "Z">
 <!ENTITY spellUndoAddToDictionary.label "Anule zonte al dizionari">

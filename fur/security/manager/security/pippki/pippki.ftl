@@ -21,6 +21,9 @@ change-password-reenter = Gnove password (torne a fâ):
 reset-password-window =
     .title = Ripristine password gjenerâl
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Scancele
 reset-password-text = Se tu ripristinis la tô password gjenerâl, dutis lis passwords web e di pueste eletroniche, i dâts dai modui, i certificâts personâi e lis clâfs privadis a laran pierdudis.  Sêstu sigûr che tu vuelis ripristinâ la tô password gjenerâl?

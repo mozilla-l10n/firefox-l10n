@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Opzions
-           *[other] Preferencis
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Opzions
@@ -269,8 +262,6 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 
 ## The device name controls.
 
-sync-tos-link = Tiermins dal servizi
-
 ## Privacy Section
 
 
@@ -291,6 +282,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = Tu sês cumò tal mût FIPS. FIPS al domande une password gjenerâl no vueide.
+
 forms-master-pw-fips-desc = Cambiament de password falît
 
 ## OS Authentication dialog
@@ -370,6 +362,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Certificâts
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

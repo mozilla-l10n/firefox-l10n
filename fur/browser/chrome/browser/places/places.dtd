@@ -40,34 +40,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Sielç il file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Dismentee chest sît">
-<!ENTITY cmd.deleteDomainData.accesskey "D">
-
-<!ENTITY cmd.open.label                  "Vierç">
-<!ENTITY cmd.open.accesskey              "V">
-<!ENTITY cmd.open_window.label           "Vierç intun gnûf barcon">
-<!ENTITY cmd.open_window.accesskey       "b">
-
-
-<!ENTITY cmd.open_tab.label              "Vierç intune gnove lengute">
-<!ENTITY cmd.open_tab.accesskey          "l">
-<!ENTITY cmd.open_all_in_tabs.label      "Vierç ducj intes lengutis">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "d">
-
-<!ENTITY cmd.properties.label      "Proprietâts">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Met in ordin par non">
-<!ENTITY cmd.sortby_name.accesskey          "n">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "Gnûf segnelibri…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Gnove cartele…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Gnûf separadôr">
-<!ENTITY cmd.new_separator.accesskey       "s">
 
 <!ENTITY col.name.label          "Non">
 <!ENTITY col.tags.label          "Etichetis">
@@ -90,15 +62,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Sielç un ogjet par visualizâlu e modificâ lis sôs proprietâts">
 
-<!ENTITY view.label               "Viodude">
-<!ENTITY view.accesskey           "o">
-<!ENTITY byDate.label             "Par date">
-<!ENTITY byDate.accesskey         "P">
-<!ENTITY bySite.label             "Par sît">
-<!ENTITY bySite.accesskey         "P">
-<!ENTITY byMostVisited.label      "Par plui visitât">
-<!ENTITY byMostVisited.accesskey  "P">
-<!ENTITY byLastVisited.label      "Par ultin visitât">
-<!ENTITY byLastVisited.accesskey  "u">
-<!ENTITY byDayAndSite.label       "Par date e sît">
-<!ENTITY byDayAndSite.accesskey   "P">

@@ -11,19 +11,6 @@
 
 
 
-<!ENTITY stats.media "Media">
-<!ENTITY stats.size "Dimensions">
-<!ENTITY stats.activity "Ativitât">
-<!ENTITY stats.activityPaused "In pause">
-<!ENTITY stats.activityPlaying "In riproduzion">
-<!ENTITY stats.activityEnded "Finît">
-<!ENTITY stats.activitySeeking "(cirint)">
-<!ENTITY stats.volume "Volum">
-<!ENTITY stats.framesParsed "Frames analizâts">
-<!ENTITY stats.framesDecoded "Frames decodificâts">
-<!ENTITY stats.framesPresented "Frames presentâts">
-<!ENTITY stats.framesPainted "Frames piturâts">
-
 <!ENTITY error.aborted "Cjamade dal video fermade.">
 
 
@@ -36,7 +23,6 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 su #2 passâts">
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

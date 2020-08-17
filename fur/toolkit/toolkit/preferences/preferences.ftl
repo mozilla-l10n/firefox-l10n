@@ -14,6 +14,7 @@ pw-erased-ok = Tu âs eliminât la tô password gjenerâl. { pw-empty-warning }
 pw-not-wanted = Atenzion! Tu âs decidût di no doprâ une password gjenerâl. { pw-empty-warning }
 
 pw-change2empty-in-fips-mode = Tu sês cumò tal mût FIPS. FIPS al domande une password gjenerâl no vueide.
+
 pw-change-success-title = Cambiament de password finît cun sucès
 pw-change-failed-title = Cambiament de password falît
 pw-remove-button =
@@ -21,6 +22,7 @@ pw-remove-button =
 
 set-password =
     .title = Cambie la password gjenerâl
+
 set-password-old-password = Password corinte:
 set-password-new-password = Inserìs la gnove password:
 set-password-reenter-password = Torne a scrivile:
@@ -31,6 +33,7 @@ master-password-warning = Par plasê siguriti di visâti la Password gjenerâl c
 
 remove-password =
     .title = Gjave password gjenerâl
+
 remove-info =
     .value = Tu âs di inserî la password corinte par lâ indevant:
 remove-warning1 = La password gjenerâl e je doprade par protezi informazions sensibilis come lis passwords dai sîts.

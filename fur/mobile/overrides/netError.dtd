@@ -70,15 +70,6 @@
 
 
 <!ENTITY netOffline.title "Mût fûr linie">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Erôr te codifiche dal contignût">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li> </ul>">

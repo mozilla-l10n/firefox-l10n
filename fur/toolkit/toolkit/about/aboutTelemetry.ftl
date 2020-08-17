@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Sorzint dai dâts ping:
-about-telemetry-show-current-ping-data = Dâts ping atuai
 about-telemetry-show-archived-ping-data = Dâts ping archiviats
 about-telemetry-show-subsession-data = Mostre dâts de session inferiôr
 about-telemetry-choose-ping = Sielç ping:

@@ -11,22 +11,14 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "No si pues conetisi">
-
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Cheste direzion e je restrizude">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY fileNotFound.title "File no cjatât">
-
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifiche di vê scrit esat maiusculis e minusculis o di no vê fat altris erôrs cussì.</li> <li>Verifiche che il file nol sedi stât movût, cambiât di non o eliminât.</li> </ul>">
 
-
-<!ENTITY generic.title "Orpo.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; nol rive a cjamâ cheste pagjine par cualchi motîf.</p>">
 
@@ -34,41 +26,17 @@
 
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
-<!ENTITY netInterrupt.title "La conession e je stade interote">
-
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY notCached.title "Document scjadût">
-
-<!ENTITY netOffline.title "Mût fûr linie">
-
-<!ENTITY contentEncodingError.title "Erôr te codifiche dal contignût">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Gjenar di file no sigûr">
-
-<!ENTITY netReset.title "La conession e je stade reiniziade">
-
-<!ENTITY netTimeout.title "La conession e je lade fûr timp massim">
-
-<!ENTITY unknownProtocolFound.title "No ai capît la direzion">
-
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Par vierzi cheste direzion ti tocjarà instalâ altris programs.</li> </ul>">
-
-<!ENTITY proxyConnectFailure.title "Il servidôr proxy al refude lis conessions.">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Controle lis impostazions proxy par verificâ che a sedin coretis.</li> <li>Contate il to aministradôr di rêt par verificâ che il servidôr proxy al funzioni.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "No si pues cjatâ il servidôr proxy">
-
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Controle lis impostazions proxy par verificâ che a sedin coretis.</li> <li>Siguriti che il to ordenadôr al vedi une conession di rêt che e funzionedi.</li> <li>Se il to ordenadôr o rêt a son protezûts di un firewall o di un proxy, siguriti che &brandShortName; al vedi il permès di acedi al Web.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Il re-indreçament di cheste pagjine nol funzione ben">
-
 <!ENTITY redirectLoop.longDesc "<ul> <li>Chest probleme al pues a voltis jessi causât de disativazion o de mancjade acetazion dai cookies.</li> </ul>">
-
-<!ENTITY unknownSocketType.title "Rispueste dal servidôr no spietade">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Siguriti che il to sisteme al vedi instalât il Personal Security Manager.</li> <li>Chest al podarès jessi dovût a une configurazion no standard sul servidôr.</li> </ul>">
 
@@ -91,8 +59,6 @@ was trying to connect. -->
 
 
 
-
-<!ENTITY remoteXUL.title "XUL remot">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li></ul></p>">
 

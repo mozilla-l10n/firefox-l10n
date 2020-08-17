@@ -15,10 +15,6 @@ connection-proxy-option-auto =
     .label = Cjate in automatic la configurazion dai proxies par cheste rêt
     .accesskey = a
 
-connection-proxy-http-share =
-    .label = Dopre chest servidôr proxy par ducj i protocoi
-    .accesskey = D
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
