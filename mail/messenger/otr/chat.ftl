@@ -3,12 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 state-label = Zifratze egoera:
+
 start-text = Hasi elkarrizketa zifratua
+
 start-label =
     .label = { start-text }
+
 start-tooltip =
     .tooltiptext = { start-text }
+
 end-label =
     .label = Amaitu elkarrizketa zifratua
+
 auth-label =
     .label = Egiaztatu zure kontaktuaren identitatea

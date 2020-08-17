@@ -25,21 +25,6 @@ graph-private-window = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = { -brand-short-name }(e)k aste honetan blokeatu dituen jarraipen-elementuak
 
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Babesaren maila <b>Oinarrizkoa</b> da
-    .title = Joan pribatutasun-ezarpenetara
-protection-report-header-details-strict = Babesaren maila <b>Zorrotza</b> da
-    .title = Joan pribatutasun-ezarpenetara
-protection-report-header-details-custom = Babesaren maila <b>Pertsonalizatua</b> da
-    .title = Joan pribatutasun-ezarpenetara
-protection-report-page-title = Pribatutasun-babesak
-protection-report-content-title = Pribatutasun-babesak
-
-etp-card-title = Jarraipenaren babes hobetua
-etp-card-content = Jarraipen-elementuek zure lineako jarraipena egiten dute zure nabigatze-ohitura eta -interesei buruzko informazioa biltzeko. Jarraipen-elementu eta bestelako script maltzurretako asko blokeatzen ditu { -brand-short-name }(e)k.
-
 protection-report-webpage-title = Babesen panela
 protection-report-page-content-title = Babesen panela
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -86,12 +71,9 @@ mobile-app-card-content = Erabili mugikorreko nabigatzailea publizitatearen jarr
 mobile-app-links = { -brand-product-name } nabigatzailea <a data-l10n-name="android-mobile-inline-link">Android</a> eta <a data-l10n-name="ios-mobile-inline-link">iOS</a> plataformetarako
 
 lockwise-title = Ez ahaztu sekula pasahitzik berriro
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Pasahitzen kudeaketa
 lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
 lockwise-header-content-logged-in = Gorde eta sinkronizatu zure pasahitzak modu seguruan zure gailu guztietara.
-protection-report-view-logins-button = Ikusi saio-hasierak
-    .title = Joan gordetako saio-hasieretara
 protection-report-save-passwords-button = Gorde pasahitzak
     .title = Gorde pasahitzak { -lockwise-brand-short-name }(e)n
 protection-report-manage-passwords-button = Kudeatu pasahitzak
@@ -99,15 +81,6 @@ protection-report-manage-passwords-button = Kudeatu pasahitzak
 lockwise-mobile-app-title = Eraman pasahitzak alboan
 lockwise-no-logins-card-content = Erabili { -brand-short-name }(e)n gordetako pasahitzak edozein gailutan.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>erako { -lockwise-brand-name }
-
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
-       *[other] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
-    }
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
@@ -131,21 +104,10 @@ lockwise-how-it-works-link = Nola dabilen
 turn-on-sync = Aktibatu { -sync-brand-short-name }…
     .title = Joan sinkronizatzeko hobespenetara
 
-manage-connected-devices = Kudeatu gailuak…
-
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Gailu batera konektatuta
-       *[other] { $count } gailura konektatuta
-    }
-
 monitor-title = Erne ibili datuen inguruko urratzeekin
 monitor-link = Nola dabilen
 monitor-header-content-no-account = Egiaztatu { -monitor-brand-name } ezaguna den datu-urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.
 monitor-header-content-signed-in = { -monitor-brand-name } tresnak abisatu egiten zaitu zure informazioa datuen inguruko urratze ezagunen batean azaldu bada.
-monitor-sign-up = Eman izena datuen inguruko urratzeen abisuetara
 monitor-sign-up-link = Eman izena datuen inguruko urratzeen abisuetara
     .title = Eman izena datuen inguruko urratzeen abisuetara { -monitor-brand-name }(e)n
 auto-scan = Automatikoki eskaneatuta gaur
@@ -182,17 +144,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] Pasahitz agerian utzi da datuen inguruko urratze guztien artean
        *[other] Pasahitz agerian utzi dira datuen inguruko urratze guztien artean
-    }
-
-full-report-link = Ikusi txosten osoa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>(e)n
-
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Gordetako saio-hasiera datuen inguruko urratze batean agerian utzi izan liteke. Aldatu pasahitz hau segurtasuna hobetzeko. <a data-l10n-name="lockwise-link">Ikusi gordetako saio-hasierak</a>
-       *[other] Gordetako saio-hasierak datuen inguruko urratze batean agerian utzi izan litezke. Aldatu pasahitz hau segurtasuna hobetzeko. <a data-l10n-name="lockwise-link">Ikusi gordetako saio-hasierak</a>
     }
 
 monitor-no-breaches-title = Berri onak!

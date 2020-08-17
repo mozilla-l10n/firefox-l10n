@@ -14,5 +14,7 @@ accounts-conn-security = Konexioaren segurtasuna
 accounts-auth-method = Autentifikazio-metodoa
 accounts-default = Lehenetsia?
 identity-name = Identitatea
+
 send-via-email = Bidali posta elektronikoz
+
 app-basics-telemetry = Telemetry datuak

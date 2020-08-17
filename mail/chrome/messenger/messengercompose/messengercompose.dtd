@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Berregin">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Ebaki">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "E">
-<!ENTITY copyCmd.label "Kopiatu">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Itsatsi">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "s">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "z">
@@ -93,14 +87,7 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
-<!ENTITY toggleAttachmentPaneCmd.key "m">
-<!ENTITY selectAllCmd.label "Hautatu dena">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Bilatu…">
 <!ENTITY findBarCmd.accesskey "B">
 <!ENTITY findBarCmd.key "F">
@@ -255,23 +242,12 @@
 <!ENTITY printButton.tooltip "Inprimatu mezu hau">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Nork:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Helbideratzeko beste eremu mota batzuk">
 <!ENTITY fromAddr2.label "Nork">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Nori:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Erantzun honi:">
-<!ENTITY newsgroupsAddr.label "Berri-taldea:">
-<!ENTITY followupAddr.label "Jarraipena honi:">
-<!ENTITY subject.label "Gaia:">
 <!ENTITY toAddr2.label "Nori">
 <!ENTITY ccAddr2.label "Cc">
 <!ENTITY bccAddr2.label "Ezkutuko kopia">
@@ -280,14 +256,6 @@
 <!ENTITY followupAddr2.label "Jarraipena honi">
 <!ENTITY subject2.label "Gaia">
 <!ENTITY subject.accesskey "G">
-<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings of attachmentCount in composeMsgs.properties.
-     Please ensure that this access key is unique: Do not duplicate any other
-     first-level access keys of the compose window, e.g. those of main menu,
-     buttons, or labels (message headers, contacts side bar, attachment reminder
-     bar). -->
-<!ENTITY attachments.accesskey "n">
-<!ENTITY attachmentBucketHeader.tooltip "Eranskinen panela">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ezkutatu eranskinen panela">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->

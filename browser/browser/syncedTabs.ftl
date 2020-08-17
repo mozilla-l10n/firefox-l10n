@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Sinkronizatutako fitxak
 synced-tabs-sidebar-noclients-subtitle = Beste gailuetako zure fitxak hemen ikusi nahi dituzu?
-synced-tabs-sidebar-notsignedin = Hasi saioa zure beste gailuetako fitxak ikusteko.
 synced-tabs-sidebar-intro = Ikusi zure beste gailuetako fitxen zerrenda.
 synced-tabs-sidebar-unverified = Zure kontua egiaztatu egin behar da.
 synced-tabs-sidebar-notabs = Irekitako fitxarik ez

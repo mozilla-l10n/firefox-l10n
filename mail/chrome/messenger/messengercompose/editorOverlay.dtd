@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Itsasi formaturik gabe">
 <!ENTITY pasteNoFormatting.accesskey "g">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Itsasi honela">
-<!ENTITY pasteAs.accesskey "h">
 <!ENTITY pasteAsQuotationCmd.label "Itsatsi aipamen bezala">
 <!ENTITY pasteAsQuotationCmd.accesskey "p">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Bilatu…">
-<!ENTITY findReplaceCmd.label "Bilatu eta ordeztu…">
-<!ENTITY enableInlineSpellChecker.label "Egiaztatu idatzi ahala">
-<!ENTITY enableInlineSpellChecker.accesskey "z">
-<!ENTITY checkSpellingCmd2.label "Egiaztatu ortografia">
-<!ENTITY checkSpellingCmd2.accesskey "E">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Txertatu">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Gorputzaren testua">
 <!ENTITY bodyTextCmd.accesskey "t">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Propietate aurreratuak">
-<!ENTITY advancedPropertiesCmd.accesskey "r">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Lerrokatu">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Justifikatu">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Lerrokatu justifikatuta">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Maila">
-<!ENTITY layerSendToBack.tooltip "Bidali atzera">
-<!ENTITY layerBringToFront.tooltip "Ekarri aurrera">
 
 <!ENTITY increaseIndent.label "Handitu koska">
 <!ENTITY increaseIndent.accesskey "i">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Taularen propietateak…">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menu-barra">
-<!ENTITY formatToolbar.tooltip "Formatu tresna-barra">
-<!ENTITY cutToolbarCmd.tooltip "Ebaki">
-<!ENTITY copyToolbarCmd.tooltip "Kopiatu">
-<!ENTITY pasteToolbarCmd.tooltip "Itsatsi">
-<!ENTITY printToolbarCmd.label "Inprimatu">
-<!ENTITY printToolbarCmd.tooltip "Inprimatu orri hau">
-<!ENTITY findToolbarCmd.label "Bilatu">
-<!ENTITY findToolbarCmd.tooltip "Bilatu testua orrian">
-<!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Egiaztatu hautapenaren ortografia edo orri osoaren ortografia">
-
 <!ENTITY imageToolbarCmd.label "Irudia">
 <!ENTITY imageToolbarCmd.tooltip "Txertatu irudi berria edo aldatu hautatutako irudiaren propietateak">
 <!ENTITY hruleToolbarCmd.label "Lerro horizontala">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Txertatu izendun aingura berria edo aldatu hautatutako ainguraren propietateak">
 <!ENTITY TextColorButton.tooltip "Aukeratu testuaren kolorea">
 <!ENTITY BackgroundColorButton.tooltip "Aukeratu atzeko planoko kolorea">
-<!ENTITY throbber.tooltip2 "Joan &brandShortName;(r)en hasiera-orrira">
-<!ENTITY HighlightColorButton.tooltip "Aukeratu testuaren nabarmentze-kolorea">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ezarri letra-tipo tamaina">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Testua erdiratuta lerrokatu">
 <!ENTITY alignRightButton.tooltip "Testua eskuineko ertzean zehar lerrokatu">
 <!ENTITY alignJustifyButton.tooltip "Lerrokatu testua ezker eta eskuineko marjinetan zehar">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Hautatu">
-<!ENTITY structSelect.accesskey     "H">
-<!ENTITY structRemoveTag.label      "Ezabatu etiketa">
-<!ENTITY structRemoveTag.accesskey  "E">
-<!ENTITY structChangeTag.label      "Aldatu etiketa">
-<!ENTITY structChangeTag.accesskey  "A">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Txertatu">

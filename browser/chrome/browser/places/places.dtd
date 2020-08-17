@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Aukeratu fitxategia…">
 <!ENTITY cmd.restoreFromFile.accesskey  "A">
 
-<!ENTITY cmd.deleteDomainData.label     "Ahaztu gune honetaz">
-<!ENTITY cmd.deleteDomainData.accesskey "A">
-
-<!ENTITY cmd.open.label                  "Ireki">
-<!ENTITY cmd.open.accesskey              "I">
-<!ENTITY cmd.open_window.label           "Ireki leiho berri batean">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Ireki leiho pribatu berrian">
-<!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Ireki fitxa berri batean">
-<!ENTITY cmd.open_tab.accesskey          "x">
-<!ENTITY cmd.open_all_in_tabs.label      "Ireki guztiak fitxetan">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "I">
-
-<!ENTITY cmd.properties.label      "Propietateak">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Sailkatu izenez">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "S">
-
-<!ENTITY cmd.new_bookmark.label            "Laster-marka berria…">
-<!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Karpeta berria…">
-<!ENTITY cmd.new_folder.accesskey          "a">
-<!ENTITY cmd.context_new_folder.accesskey  "K">
-<!ENTITY cmd.new_separator.label           "Bereizle berria">
-<!ENTITY cmd.new_separator.accesskey       "z">
-
 <!ENTITY col.name.label          "Izena">
 <!ENTITY col.tags.label          "Etiketak">
 <!ENTITY col.url.label           "Kokalekua">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Bisita kopurua">
 <!ENTITY col.dateadded.label     "Gehituta">
 <!ENTITY col.lastmodified.label  "Azken aldaketa">
-
-<!ENTITY historySearch.placeholder  "Bilatu historia">
-<!ENTITY bookmarksSearch.placeholder  "Bilatu laster-markak">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Hautatu elementu bat bere propietateak ikusi eta editatzeko">
 
-<!ENTITY view.label               "Ikusi">
-<!ENTITY view.accesskey           "s">
-<!ENTITY byDate.label             "Dataren arabera">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Gunearen arabera">
-<!ENTITY bySite.accesskey         "G">
-<!ENTITY byMostVisited.label      "Gehien bisitatuaren arabera">
-<!ENTITY byMostVisited.accesskey  "b">
-<!ENTITY byLastVisited.label      "Azken bisitaren arabera">
-<!ENTITY byLastVisited.accesskey  "A">
-<!ENTITY byDayAndSite.label       "Data eta gunearen arabera">
-<!ENTITY byDayAndSite.accesskey   "t">

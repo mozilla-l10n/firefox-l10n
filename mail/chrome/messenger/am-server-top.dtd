@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "mezu baino gehiago deskargatzean">
 <!ENTITY alwaysAuthenticate.label "Eskatu beti autentifikazioa zerbitzari honetara konektatzean">
 <!ENTITY alwaysAuthenticate.accesskey "b">
-<!ENTITY newsrcFilePath.label "newsrc fitxategia:">
-<!ENTITY newsrcPicker.label "Aukeratu newsrc fitxategia">
 <!ENTITY newsrcFilePath1.label "News.rc fitxategia:">
 <!ENTITY newsrcPicker1.label "Aukeratu News.rc fitxategia">
 <!ENTITY abbreviate.label "Erakutsi honela berri-taldeen izenak posta-karpetaren panelean:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Aurreratua…">
 <!ENTITY advancedButton.accesskey "u">
 <!ENTITY serverDefaultCharset2.label "Testu kodeketa lehenetsia:">
-<!ENTITY localPath.label "Direktorio lokala:">
 <!ENTITY localPath1.label "Direktorio lokala:">
 <!ENTITY localFolderPicker.label "Hautatu direktorio lokala">
 <!ENTITY browseFolder.label "Arakatu…">

@@ -35,12 +35,7 @@ connection-proxy-http = HTTP proxy-a
     .accesskey = H
 connection-proxy-http-port = Ataka
     .accesskey = t
-connection-proxy-http-share =
-    .label = Erabili proxy hau protokolo guztietarako
-    .accesskey = x
 
-connection-proxy-ssl = SSL proxy-a
-    .accesskey = S
 connection-proxy-http-sharing =
     .label = Erabili proxy hau FTP eta HTTPS protokoloentzat ere bai
     .accesskey = E

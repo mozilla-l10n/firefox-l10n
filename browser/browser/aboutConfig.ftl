@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Hemen dragoiak daude!
-about-config-warning-text = Ezarpen aurreratu hauek aldatzea kaltegarria izan daiteke aplikazio honen egonkortasun, segurtasun eta errendimenduarentzat. Zertan ari zaren baldin badakizu jarraitu behar zenuke soilik.
-about-config-warning-checkbox = Abisatu hurrengoan ere, mesedez!
-about-config-warning-button = Arriskua onartzen dut
-
-about-config2-title = Konfigurazio aurreratuak
-
-about-config-search-input =
-    .placeholder = Bilatu
-
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Kontuz jarraitu
@@ -32,13 +21,6 @@ about-config-page-title = Hobespen aurreratuak
 about-config-search-input1 =
     .placeholder = Bilatu hobespen-izena
 about-config-show-all = Erakutsi denak
-
-about-config-pref-add = Gehitu
-about-config-pref-toggle = Txandakatu
-about-config-pref-edit = Editatu
-about-config-pref-save = Gorde
-about-config-pref-reset = Berrezarri
-about-config-pref-delete = Ezabatu
 
 about-config-pref-add-button =
     .title = Gehitu

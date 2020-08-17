@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Ezarri baduzun posta elektroniko kontu bat">
-
 <!ENTITY emailWizard.title               "Ezarri baduzun posta elektroniko helbide bat">
 <!ENTITY emailWizard.caption             "Erabili zure oraingo posta elektronikoa">
 <!ENTITY name.label                      "Zure izena:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Izena, abizena">
 <!ENTITY fullname.placeholder            "Zure izen osoa">
 <!ENTITY name.text                       "Zure izena, besteei erakutsiko zaien bezala">
 <!ENTITY name.error                      "Idatzi zure izena mesedez">
 <!ENTITY email.label                     "Helbide elektronikoa:">
 <!ENTITY email.accesskey                 "l">
-<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Zure posta-helbidea">
 <!ENTITY email.text                      "Zure posta elektroniko bat">
 <!ENTITY email.error                     "Posta-helbide baliogabea">
@@ -43,9 +38,6 @@
 <!ENTITY outgoing.label                  "Irteerakoa:">
 <!ENTITY outgoingColumn.label            "Irteerakoa">
 <!ENTITY username.label                  "Erabiltzaile-izena:">
-<!ENTITY hostname.label                  "Zerbitzariaren ostalari-izena">
-<!ENTITY port.label                      "Ataka">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Zerbitzaria:">
 <!ENTITY portRow.label                   "Ataka:">
 <!ENTITY sslRow.label                    "SSL:">
@@ -79,8 +71,6 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Birprobatu">
 <!ENTITY half-manual-test.accesskey      "B">
-<!ENTITY manual-edit.label               "Eskuzko konfigurazioa">
-<!ENTITY manual-edit.accesskey           "E">
 <!ENTITY manual-config.label             "Eskouz konfiguratu…">
 <!ENTITY manual-config.accesskey         "E">
 <!ENTITY open-provisioner.label          "Eskuratu posta elektroniko berri bat…">

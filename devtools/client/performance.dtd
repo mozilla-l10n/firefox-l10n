@@ -67,8 +67,6 @@
 <!ENTITY performanceUI.table.function.tooltip         "Lagindutako funtzioaren izena eta iturburuko kokapena.">
 <!ENTITY performanceUI.table.totalAlloc               "Hartutako esleipenen laginak guztira">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Kokaleku eta funtzio-deitzaileetan hartutako objektuen esleipenen laginak guztira.">
-<!ENTITY performanceUI.table.selfAlloc                "Berak hartutako esleipenen laginak">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Kokaleku honetan hartutako objektuen esleipenen laginak guztira.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

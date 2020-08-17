@@ -21,6 +21,9 @@ change-password-reenter = Pasahitz berria (berriro):
 reset-password-window =
     .title = Berrezarri pasahitz nagusia
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Berezarri
 reset-password-text = Pasahitz nagusia berrezartzen baduzu, gordeta dituzun webetako eta epostetako pasahitzak, inprimaki datuak, ziurtagiri pertsonalak eta gako pribatuak ahaztu egingo dira. Ziur zaude pasahitz nagusia berrezarri nahi duzula?

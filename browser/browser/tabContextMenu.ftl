@@ -53,12 +53,12 @@ move-to-end =
 move-to-new-window =
     .label = Eraman leiho berrira
     .accesskey = h
-undo-close-tab =
-    .label = Desegin fitxa ixtea
-    .accesskey = D
 tab-context-close-multiple-tabs =
     .label = Itxi hainbat fitxa
     .accesskey = h
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->

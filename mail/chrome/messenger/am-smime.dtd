@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Segurtasuna">
-<!ENTITY securityTab.label "Segurtasuna">
-<!ENTITY securityHeading.label "Sinatutako edo zifratutako mezuak bidali eta jasotzeko, sinatzeko zein zifratzeko ziurtagiri digital bana zehaztu behar duzu.">
-<!ENTITY encryptionGroupTitle.label "Zifratzea">
-<!ENTITY encryptionChoiceLabel.label "Mezuak bidaltzeko zifratze-ezarpen lehenetsiak:">
-<!ENTITY neverEncrypt.label "Inoiz ez (ez erabili zifratzerik)">
-<!ENTITY neverEncrypt.accesskey "n">
-<!ENTITY alwaysEncryptMessage.label "Beharrezkoa (ezin da mezua bidali hartzaile guztiek ziurtagirik izan ezean)">
-<!ENTITY alwaysEncryptMessage.accesskey "r">
-<!ENTITY encryptionCert.message "Erabili ziurtagiri hau jasotako mezuak zifratu eta deszifratzeko:">
-
 <!ENTITY e2eTitle.label "Muturretik muturrerako enkriptatzea">
-<!ENTITY e2eIntro.description "Enkriptatutako edo digitalki sinatutako mezuak bidali ahal izateko, enkriptatze teknologia bat nahiz OpenPGP edo  S/MIME konfiguratu behar duzu.">
 <!ENTITY e2eLearnMore.label "Argibide gehiago">
 
 <!ENTITY e2eEnc.description "Muturretik muturrerako enkriptatze gabe mezuen edukiak erraz bistaratzen ditu zure posta hornitzaileak eta zaintza masiboak.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Garbitu">
 <!ENTITY encryption.certificate_clear.accesskey "G">
 <!ENTITY signingGroupTitle.label "Sinadura digitala">
-<!ENTITY signMessage.label "Sinatu mezuak digitalki (lehenetsita)">
 <!ENTITY signMessage2.label "Gehitu sinadura digitala modu lehenetsian">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Erabili ziurtagiri hau bidalitako mezuak digitalki sinatzeko:">
-
-<!ENTITY certificates.label "Ziurtagiriak">
-<!ENTITY manageCerts2.label "Kudeatu ziurtagiriak">
-<!ENTITY manageCerts2.accesskey "K">
-<!ENTITY manageDevices.label "Segurtasun-gailuak">
-<!ENTITY manageDevices.accesskey "g">
 
 <!ENTITY signingCert2.message "Ziurtagiri pertsonala sinadura digitalerako:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "Hobetsi OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Kudeatu OpenPGP giltzak">
-<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Aukeratu ziurtagiria">

@@ -71,8 +71,6 @@ media-save-as =
 media-save-image-as =
     .label = Gorde honela…
     .accesskey = e
-media-preview =
-    .value = Media aurreikuspena:
 
 perm-tab =
     .label = Baimenak
@@ -132,7 +130,6 @@ security-site-data-cookies-only = Bai, cookieak
 security-site-data-no = Ez
 
 image-size-unknown = Ezezaguna
-not-set-verified-by = Zehaztu gabea
 page-info-not-specified =
     .value = Zehaztu gabea
 not-set-alternative-text = Zehaztu gabea
@@ -157,7 +154,6 @@ general-quirks-mode =
     .value = Bateragarritasun modua
 general-strict-mode =
     .value = Estandarrak betetzeko modua
-security-no-owner = Webguneak ez du jabetzaren inguruko argibiderik hornitzen.
 page-info-security-no-owner =
     .value = Webguneak ez du jabetzaren inguruko argibiderik hornitzen.
 media-select-folder = Hautatu irudiak gordetzeko karpeta bat

@@ -4,10 +4,6 @@
 
 process-type-web = Web edukia
 
-# process used to run privileged pages,
-# such as about:home
-process-type-privileged = Eduki pribilegiatua
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Pribilegiodun 'honi buruz' orria

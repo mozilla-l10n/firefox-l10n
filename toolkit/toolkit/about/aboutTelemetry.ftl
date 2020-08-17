@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping datu-iturria:
-about-telemetry-show-current-ping-data = Uneko ping datuak
 about-telemetry-show-current-data = Uneko datuak
 about-telemetry-show-archived-ping-data = Artxibatutako ping datuak
 about-telemetry-show-subsession-data = Erakutsi azpi-saioaren datuak
@@ -76,7 +75,6 @@ about-telemetry-settings-explanation = Telemetry { about-telemetry-data-type } b
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Informazio guztia "<a data-l10n-name="ping-link">ping</a>"etan bilduta bidaltzen da. { $name }, { $timestamp } ping-a ari zara ikusten.
-about-telemetry-ping-details-current = Informazio guztia "<a data-l10n-name="ping-link">ping</a>"etan bilduta bidaltzen da. unekoa ping-a ari zara ikusten.
 about-telemetry-data-details-current = Informazio zati bakoitza "<a data-l10n-name="ping-link">ping</a>" izeneko multzoetan bidaltzen da. Uneko datuei begira zaude.
 # string used as a placeholder for the search field
 # More info about it can be found here:
@@ -102,8 +100,6 @@ about-telemetry-no-search-results-all = Sentitzen dugu! Ataletan ez dago "{ $sea
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Sentitzen dugu! Une honetan ez dago daturik erabilgarri "{ $sectionName }" atalean
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = uneko ping-a
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = uneko datuak
 # used in the “Ping Type” select

@@ -79,11 +79,6 @@ permissions-invalid-uri-label = Idatzi baliozko zerbitzari-izena
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-content-blocking-window =
-    .title = Salbuespenak - Edukia blokeatzea
-    .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Edukia blokeatzea desgaitu duzu gune hauetarako.
-
 permissions-exceptions-etp-window =
     .title = Jarraipenaren babes hobeturako salbuespenak
     .style = { permissions-window.style }
@@ -118,11 +113,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Gehigarriak instalatzeko baimena duten webguneak ezar ditzakezu. Idatzi gunearen helbide zehatza eta egin klik 'Baimendu' botoian baimena emateko.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window2 =
-    .title = Salbuespenak - Auto-erreprodukzioa
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Soinudun multimedia automatikoki erreproduzitzeko baimena duten edo ez duten webguneak ezar daitezke hemen. Idatzi baimendu nahi duzun webgunearen helbidea eta egin klik 'Blokeatu' edo 'Baimendu' botoian.
 
 ## Site Permissions - Autoplay
 
