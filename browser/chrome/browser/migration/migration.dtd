@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Importar opcions, marcapachinas, historial, claus y atros datos de:">
 <!ENTITY importFromUnix.label           "Importar preferencias, marcapachinas, historial, claus y atros datos de:">
-<!ENTITY importFromBookmarks.label      "Importar os marcapachinas de:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

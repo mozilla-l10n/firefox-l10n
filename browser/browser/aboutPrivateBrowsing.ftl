@@ -2,30 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-private-browsing-learn-more = Mas información sobre la<a data-l10n-name="learn-more">Navegación privada</a>.
-about-private-browsing-info-visited = pachinas vesitadas
-
 privatebrowsingpage-open-private-window-label = Ubrir una finestra privada
     .accesskey = p
-about-private-browsing-info-notsaved = Quan navegue en una Finestra Privada, { -brand-short-name } <strong>no alzará</strong>:
 about-private-browsing-search-placeholder = Buscar en o web
-about-private-browsing-info-bookmarks = marcapachinas
 about-private-browsing-info-title = Yes en una finestra privada
-about-private-browsing-info-searches = buscas
-about-private-browsing-info-downloads = descargas
-private-browsing-title = Navegación privada
-about-private-browsing-info-saved = { -brand-short-name } <strong>alzará</strong> los suyos:
 about-private-browsing-info-myths = Mitos comuns alredor d'a navegación privada
-about-private-browsing-info-clipboard = texto copiau
-about-private-browsing-info-temporary-files = ficheros temporals
-about-private-browsing-info-cookies = cookies
-tracking-protection-start-tour = Cómo funciona?
-about-private-browsing-note = Navegación privada <strong>no li fa anonimo</strong> en Internet. Lo suyo emplegador u lo suyo furnidor d'Internet sí que podrían saber as pachinas que vesita.
 about-private-browsing =
     .title = Mirar en o Web
 about-private-browsing-not-private = Agora no ye en una finestra privada.
-content-blocking-title = Bloqueyo de conteniu
-content-blocking-description = Bells puestos web fan servir seguidors que pueden monitorizar la suya actividat en Internet. En as finestras privadas, lo blocador de conteniu de { -brand-short-name } puede blocar automaticament muitos seguidors que podrían replegar información sobre lo suyo comportamiento de navegación.
 about-private-browsing-info-description = { -brand-short-name } borra lo tuyo historia de busquedas y de navegación quan sales de l'aplicación u zarras totas las pestanyas y finestras de navegacion privada. Encara que ixo no fa que sigas anonimo pa los puestos webs u pa lo tuyo proveyedor de servicios d'Internet, ye mas facil mantener en privau lo que fas en línea debant de qualsequier atra persona que emplegue este ordinador.
 
 # This string is the title for the banner for search engine selection

@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>O documento solicitau ya no ye disponible en a caché de &brandShortName;.</p><ul><li>Por precaución, &brandShortName; no tornará a solicitar automaticament os documentos sensibles.</li><li>Faiga clic en Prebar-lo de nuevas ta tornar a solicitar o documento a o puesto web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin connexión">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Torne-lo a prebar. &brandShortName; mirará d'ubrir una connexión y recargar a pachina. <button id='wifi'>Activar a Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación d'o conteniu">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li> </ul>">

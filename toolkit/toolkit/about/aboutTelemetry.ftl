@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Fuent de datos de ping:
-about-telemetry-show-current-ping-data = Datos actuals de ping
 about-telemetry-show-archived-ping-data = Datos de ping archivaus
 about-telemetry-show-subsession-data = Amostrar datos d'a subsession
 about-telemetry-choose-ping = Trigar ping:
@@ -63,7 +62,6 @@ about-telemetry-settings-explanation = Telemetría ye replegando { about-telemet
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Cada información se ninvia empaquetada en “<a data-l10n-name="ping-link">pings</a>”. Yes veyendo lo ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Cada información se ninvia empaquetada en “<a data-l10n-name="ping-link">pings</a>”. Yes veyendo lo ping actual.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -88,8 +86,6 @@ about-telemetry-no-search-results-all = No i hai garra resultau en“{ $searchTe
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = No i hai garra dato disponible en “{ $sectionName }” actualment
-# used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = ping actual
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = totz
 # button label to copy the histogram

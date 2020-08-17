@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Pestanyas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = Quiere veyer aquí las pestanyas d'os atros dispositivos?
-synced-tabs-sidebar-notsignedin = Iniciar la sesión pa veyer una lista d'as pestanyas d'os atros dispositivos.
 synced-tabs-sidebar-intro = Veyer una lista d'as pestanyas d'os atros dispositivos.
 synced-tabs-sidebar-unverified = Fa falta verificar lo tuyo conto.
 synced-tabs-sidebar-notabs = No i hai garra pestanya ubierta
