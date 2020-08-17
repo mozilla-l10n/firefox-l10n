@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Wěstota">
-<!ENTITY securityTab.label "Wěstota">
-<!ENTITY securityHeading.label "Zo byšće podpisane abo zaklučowane powěsće pósłał abo přijał, dyrbiće digitalny podpisowanski a zaklučowanski certifikataj podać.">
-<!ENTITY encryptionGroupTitle.label "Zaklučowanje">
-<!ENTITY encryptionChoiceLabel.label "Standardne zaklučowanje za słanje powěsće:">
-<!ENTITY neverEncrypt.label "Ženje (zaklučowanje njewužiwać)">
-<!ENTITY neverEncrypt.accesskey "n">
-<!ENTITY alwaysEncryptMessage.label "Trěbne (njeje móžno powěsć słać, chibazo bychu wšitcy přijimarjo certifikaty měli)">
-<!ENTITY alwaysEncryptMessage.accesskey "T">
-<!ENTITY encryptionCert.message "Tutón certifikat wužić, zo byšće připósłane powěsće zaklučował a dešifrował:">
-
 <!ENTITY e2eTitle.label "Zaklučowanje wot kónca do kónca">
-<!ENTITY e2eIntro.description "Zo byšće zaklučowane abo digitalnje signowane powěsće pósłał, dyrbiće zaklučowansku technologiju konfigurować, pak OpenPGP pak S/MIME.">
 <!ENTITY e2eLearnMore.label "Dalše informacije">
 
 <!ENTITY e2eEnc.description "Bjez zaklačowanja wot kónca do kónca so wobsah powěsćow lochko wašemu e-mejlowemu poskićowarjej pokazuje a masowemu dohladowanju wustaja.">
@@ -37,16 +25,8 @@
 <!ENTITY encryption.certificate_clear.button "Zhašeć">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitalne podpisowanje">
-<!ENTITY signMessage.label "Powěsće digitalnje podpisać (standard)">
 <!ENTITY signMessage2.label "Moju digitalnu signaturu po standardźe přidać">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Tutón certifikat wužić, zo byšće powěsće digitalnje podpisał, kotrež sćeleće:">
-
-<!ENTITY certificates.label "Certifikaty">
-<!ENTITY manageCerts2.label "Certifikaty rjadować">
-<!ENTITY manageCerts2.accesskey "C">
-<!ENTITY manageDevices.label "Wěstotne graty">
-<!ENTITY manageDevices.accesskey "W">
 
 <!ENTITY signingCert2.message "Wosobinski certifikat za digitalne zaklučowanje:">
 
@@ -64,8 +44,6 @@
 <!ENTITY technologyOpenPGP.label "OpenPGP preferować">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "OpenPGP-kluče rjadować">
-<!ENTITY manageKeys.accesskey "O">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Certifikat wubrać">

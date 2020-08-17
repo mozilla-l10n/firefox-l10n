@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Při zwjazowanju z { $hostname } je zmylk wustupił. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Zmylkowy kod: { $error }
+
 psmerr-ssl-disabled = Wěsty zwisk móžny njeje, dokelž SSL-protokol je znjemóžnjeny.
 psmerr-ssl2-disabled = Wěsty zwisk móžny njeje, dokelž sydło wužiwa staršu, njewěstu wersiju SSL-protokola.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Sće njepłaćiwy certifikat dóstał. Prošu stajće so ze serwerowym administratorom abo e-mejlowym dopisowarjom do zwiska a zdźělće jemu slědowace informacije:
     
     Waš certifikat wobsahuje samsne serijowe čisło kaž druhi certifikat wudaty wot certifikatoweje awtority. Prošu wobstarajće sej nowy certifikat, kotryž jednozmyslne certifikatowe čisło wobsahuje.
+
 ssl-error-export-only-server = Wěsta komunikacija móžna njeje. Napřećiwne městno njepodpěruje wysoke zaklučowanje.
 ssl-error-us-only-server = Wěsta komunikacija móžna njeje. Napřećiwne městno wužaduje sej wysoke zaklučowanje, kotrež so njepodpěruje.
 ssl-error-no-cypher-overlap = Wěsta komunikacija z napřećiwmnym městnom móžna njeje: žane přihódne zaklučowanske algoritmusy.

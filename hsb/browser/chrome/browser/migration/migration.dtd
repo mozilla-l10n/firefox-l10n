@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Nastajenja, zapołožki, historiju, hesła a hinaše daty importować z:">
 <!ENTITY importFromUnix.label           "Nastajenja, zapołožki, historiju, hesła a hinaše daty importować z:">
-<!ENTITY importFromBookmarks.label      "Zapołožki importować z:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

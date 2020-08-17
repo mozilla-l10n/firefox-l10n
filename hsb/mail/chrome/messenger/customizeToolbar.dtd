@@ -12,9 +12,6 @@
 <!ENTITY iconsBesideText.label    "Symbole a tekst">
 <!ENTITY useSmallIcons.label      "Małe wobrazki wužiwać">
 <!ENTITY restoreDefaultSet.label  "Standard wobnowić">
-<!ENTITY addNewToolbar.label      "Nowu symbolowu lajstu přidać">
-<!ENTITY showTitlebar.label       "Titulnu lajstu pokazać">
-<!ENTITY extraDragSpace.label     "Ćehnity rum přidać">
 <!ENTITY showTitlebar2.label      "Titulowa lajsta">
 <!ENTITY extraDragSpace2.label    "Ćehnity rum">
 <!ENTITY saveChanges.label        "Hotowo">

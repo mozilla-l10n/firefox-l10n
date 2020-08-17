@@ -63,7 +63,6 @@
 <!ENTITY folderType.label                        "Typ rjadowaka:">
 
 <!ENTITY folderQuotaTab.label                    "Kwota">
-<!ENTITY folderQuotaRoot.label                   "Korjeń kwoty:">
 <!ENTITY folderQuotaUsage.label                  "Wužiće:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

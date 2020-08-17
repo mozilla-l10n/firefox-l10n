@@ -13,7 +13,6 @@ touchbar-fullscreen-exit = Połnu wobrazowku wopušćić
 find = Pytać
 new-tab = Nowy rajtark
 add-bookmark = Zapołožku přidać
-open-bookmarks-sidebar = Bóčnicu zapołožkow wočinić
 reader-view = Čitanski napohlad
 # Meant to match the string displayed in an empty URL bar.
 open-location = Pytać abo adresu zapodać

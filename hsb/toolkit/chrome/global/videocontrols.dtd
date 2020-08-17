@@ -22,19 +22,6 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Wobraz-we-wobrazu">
 
-<!ENTITY stats.media "Medije">
-<!ENTITY stats.size "Wulkosć">
-<!ENTITY stats.activity "Aktiwita">
-<!ENTITY stats.activityPaused "Přestawka">
-<!ENTITY stats.activityPlaying "Wothrawanje">
-<!ENTITY stats.activityEnded "Skónčeny">
-<!ENTITY stats.activitySeeking "(pyta so)">
-<!ENTITY stats.volume "Sylnosć zwuka">
-<!ENTITY stats.framesParsed "Analyzowane wobłuki">
-<!ENTITY stats.framesDecoded "Dekodowane wobłuki">
-<!ENTITY stats.framesPresented "Prezentowane wobłuki">
-<!ENTITY stats.framesPainted "Narysowane wobłuki">
-
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
@@ -52,13 +39,6 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.generic "Wothrawanje wideja je so njeznateho zmylka dla přetorhnyło.">
 
 <!ENTITY status.pictureInPicture "Tute widejo so w modusu wobraz-we-wobrazu wothrawa.">
-
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
-<!ENTITY scrubberScale.nameFormat "#1 z #2 zańdźene">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

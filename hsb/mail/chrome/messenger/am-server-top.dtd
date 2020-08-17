@@ -66,8 +66,6 @@
 <!ENTITY maxMessagesEnd.label "powěsćow sćehnje">
 <!ENTITY alwaysAuthenticate.label "Přeco awtentifikaciju požadać, hdyž so z tutym serwerom zwjazuje">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "Dataja newsrc:">
-<!ENTITY newsrcPicker.label "Dataju newsrc wubrać">
 <!ENTITY newsrcFilePath1.label "Dataja News.rc:">
 <!ENTITY newsrcPicker1.label "Dataju News.rc wubrać">
 <!ENTITY abbreviate.label "Mjena diskusijnych skupinow we woknje e-mejlowych rjadowakow pokazać jako:">
@@ -76,7 +74,6 @@
 <!ENTITY advancedButton.label "Rozšěrjene…">
 <!ENTITY advancedButton.accesskey "R">
 <!ENTITY serverDefaultCharset2.label "Standardne tekstowe kodowanje:">
-<!ENTITY localPath.label "Lokalny zapis:">
 <!ENTITY localPath1.label "Lokalny zapis:">
 <!ENTITY localFolderPicker.label "Lokalny zapis wubrać">
 <!ENTITY browseFolder.label "Přepytać…">

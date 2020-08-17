@@ -63,7 +63,6 @@ protections-panel-not-found-label = Njenamakany
 ##
 
 protections-panel-settings-label = Škitne nastajenja
-protections-panel-showreport-label = Rozprawu pokazać
 
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Přehlad škitow

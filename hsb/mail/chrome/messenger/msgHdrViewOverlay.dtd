@@ -24,8 +24,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Archiwować">
 <!ENTITY hdrArchiveButton1.tooltip "Tutu powěsć archiwować">
-<!ENTITY hdrOpenConversationButton1.label "Rozmołwa">
-<!ENTITY hdrOpenConversationButton1.tooltip "Rozmołwu tuteje powěsće pokazać">
 <!ENTITY hdrSmartReplyButton1.label "Inteligentna wotmołwa">
 <!ENTITY hdrReplyButton1.label "Wotmołwić">
 <!ENTITY hdrReplyButton2.tooltip "Wotpósłarjej tuteje powěsće wotmołwić">
@@ -35,7 +33,6 @@
 <!ENTITY hdrReplyListButton1.tooltip "Do rozesyłanskeje lisćiny wotmołwić">
 <!ENTITY hdrFollowupButton1.label "Powěsć slědować">
 <!ENTITY hdrFollowupButton1.tooltip "Dalesposrědkowanje na tutu diskusijnu skupinu pósłać">
-<!ENTITY hdrMenuForwardButton.label "Dale sposrědkować jako">
 <!ENTITY hdrForwardButton1.label "Dale sposrědkować">
 <!ENTITY hdrForwardButton1.tooltip "Tute powěsć dale sposrědkować">
 <!ENTITY hdrJunkButton1.label "Čapor">

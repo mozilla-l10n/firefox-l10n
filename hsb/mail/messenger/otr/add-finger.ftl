@@ -4,11 +4,14 @@
 
 otr-add-finger =
     .title = Porstowy wotćišć OTR-kluča přidać
+
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
 otr-add-finger-description = Zapodajće porstowy wotćišć OTR-kluča za { $name }.
+
 otr-add-finger-fingerprint = Porstowy wotćišć:
 otr-add-finger-tooltip-error = Njepłaćiwe znamješko je so zapodało. Jenož pismiki ABCDEF a ličby su dowolene
+
 otr-add-finger-input =
     .placeholder = 40 znamješkow dołhi porstowy wotćišć OTR-kluča
