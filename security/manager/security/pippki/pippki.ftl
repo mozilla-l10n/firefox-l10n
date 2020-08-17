@@ -21,6 +21,9 @@ change-password-reenter = নতুন পাসওয়ার্ড (পুনর
 reset-password-window =
     .title = মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করুন
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = পুনঃনির্ধারণ
 reset-password-text = মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করা হলে আপনার দ্বারা সংরক্ষিত সমস্ত ওয়েব ও ইমেইল পাসওয়ার্ড, ফর্মের তথ্য, ব্যক্তিগত সার্টিফিকেট ও কী মুছে যাবে। আপনি কি নিশ্চিতরূপে মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করতে ইচ্ছুক?

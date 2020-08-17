@@ -12,7 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = এখনই পরখ করুন
 onboarding-button-label-get-started = শুরু করুন
 
 ## Welcome modal dialog strings
@@ -24,6 +23,13 @@ onboarding-start-browsing-button-label = ব্রাউজিং শুরু �
 onboarding-cards-dismiss =
     .title = বাতিল
     .aria-label = বাতিল
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 ## Welcome full page string
 
@@ -55,22 +61,6 @@ onboarding-sync-form-sub-header = Firefox সিঙ্ক চালিয়ে য
 ## Each message has a title and a description of what the browser feature is.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
-
-onboarding-private-browsing-title = ব্যক্তিগত ব্রাউজিং
-onboarding-private-browsing-text = আপনার দ্বারা ব্রাউজ। কনটেন্ট ব্লকিং করে ব্যক্তিগত ব্রাউজিং অনলাইন ট্র্যাকার ব্লক করে, যা আপনাকে ওয়েবে অনুসরণ করে।
-
-onboarding-screenshots-title = স্ক্রিনশট
-onboarding-screenshots-text = স্ক্রিনশট নিন, সংরক্ষণ করুন এবং শেয়ার করুন - { -brand-short-name } থেকে প্রস্থান না করেই। আপনি ব্রাউজ করার সময়েই একটি অংশ বা একটি সম্পূর্ণ পেজ ক্যাপচার করুন। পরবর্তীতে সেটি সহজে ফিরে পেতে এবং ভাগ করার জন্য ওয়েবেই সংরক্ষণ করুন।
-
-onboarding-addons-title = অ্যাড-অন
-onboarding-addons-text = এমনকি আরো বেশি বৈশিষ্ট্য যোগ করে { -brand-short-name } কে আপনার জন্য কাজ করা আরো কঠিন করে তোলে। মূল্য তুলনা করুন, আবহাওয়ার খোঁজ নিন অথবা একটি কাস্টম থিম দিয়ে আপনার ব্যক্তিত্বকে প্রকাশ করুন।
-
-onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Ghostery এর মত এক্সটেনশন ব্যবহার করে আরও দ্রুত, আরও স্মার্ট বা নিরাপদ ব্রাউজ করুন, যা আপনাকে বিরক্তিকর বিজ্ঞাপন ব্লক করতে সাহায্য করবে।
-
-# Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = সিঙ্ক
-onboarding-fxa-text = আপনার বুকমার্কস, পাসওয়ার্ড এবং যেখানেই আপনি { -brand-short-name } ট্যাব খোলেন না কেন তা সিঙ্ক করতে একটি { -fxaccount-brand-name } একাউন্ট সাইন আপ করে নিন।
 
 
 ## Message strings belonging to the Return to AMO flow

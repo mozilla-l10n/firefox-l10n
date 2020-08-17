@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "নিরাপত্তা">
-<!ENTITY securityTab.label "নিরাপত্তা">
-<!ENTITY securityHeading.label "স্বাক্ষরিত বা এনক্রিপ্টকৃত বার্তা পাঠাতে এবং গ্রহণ করতে, আপনাকে ডিজিটাল স্বাক্ষরকরণ সার্টিফিকেট এবং এনক্রিপ্টশন সার্টিফিকেট উভয়ই পাঠাতে হবে।">
-<!ENTITY encryptionGroupTitle.label "এনক্রিপশন">
-<!ENTITY encryptionChoiceLabel.label "বার্তা প্রেরণের সময় ডিফল্ট এনক্রিপশন সেটিং:">
-<!ENTITY neverEncrypt.label "কখনও না (এনক্রিপশন ব্যবহার করা হবে না) (N)">
-<!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "প্রয়োজন (সকল প্রাপকের সার্টিফিকেট না থাকলে বার্তা প্রেরণ করা যায় না) (u)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "আপনার কাছে প্রেরিত বার্তা এনক্রিপ্ট ও ডিক্রিপ্ট করতে, এই সার্টিফিকেটটি ব্যবহার করা হবে:">
-
 <!ENTITY digitalSign.certificate.button "নির্বাচন…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "পরিষ্কার">
@@ -22,11 +11,5 @@
 <!ENTITY encryption.certificate_clear.button "পরিষ্কার">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "ডিজিটাল স্বাক্ষরকরণ">
-<!ENTITY signMessage.label "ডিজিটালভাবে স্বাক্ষরিত বার্তা (ডিফল্টভাবে) (D)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "আপনার প্রেরিত বার্তায় ডিজিটালভাবে স্বাক্ষর করতে, এই সার্টিফিকেটটি ব্যবহার করা হবে:">
-
-<!ENTITY certificates.label "সার্টিফিকেট">
-<!ENTITY manageDevices.label "নিরাপত্তা ডিভাইস (y)">
-<!ENTITY manageDevices.accesskey "y">
 

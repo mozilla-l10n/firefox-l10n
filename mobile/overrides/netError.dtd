@@ -42,9 +42,6 @@
 <!ENTITY notCached.longDesc "<p>&brandShortName;' এর ক্যাশে আপনি যে নথিটি চেয়েছেন তা পাওয়া যাচ্ছে না।</p><ul><li>নিরাপত্তার জন্য, &brandShortName; নাজুক নথির জন্য পুনরায় অনুরোধ পাঠাবে না।</li><li>আবার চেষ্টা করুন বাটনে ক্লিক করে ওয়েবসাইট থেকে নথিটি পুনরায় অনুরোধ করুন।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন মোড">
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>আবার চেষ্টা করুন। &brandShortName; একটি কানেকশন যুক্ত করার এবং পুনরায় পাতা লোড করার চেষ্টা করবে। <button id='wifi'>Wi-Fi সক্রিয় করুন</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "বিষয়বস্তুর এনকোডিং-এ ত্রুটি">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েবসাইট নির্মাতাদের অবগত করুন।</li> </ul>">

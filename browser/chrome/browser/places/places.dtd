@@ -41,35 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ফাইল নির্বাচন…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "এই সাইটটি মনে রাখা হবে না">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-
-<!ENTITY cmd.open.label                  "খুলুন">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "নতুন উইন্ডোতে খুলুন">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "একটি নতুন প্রাইভেট উইন্ডো খুলুন P">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "নতুন ট্যাবে খুলুন">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "ট্যাবে সব খুলুন">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
-
-<!ENTITY cmd.properties.label      "বৈশিষ্ট্যাবলী">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "নাম অনুসারে সাজান">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
-
-<!ENTITY cmd.new_bookmark.label            "নতুন বুকমার্ক…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "নতুন ফোল্ডার…">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "নতুন বিভাজক">
-<!ENTITY cmd.new_separator.accesskey       "S">
-
 <!ENTITY col.name.label          "নাম">
 <!ENTITY col.tags.label          "ট্যাগ">
 <!ENTITY col.url.label           "অবস্থান">
@@ -77,9 +48,6 @@
 <!ENTITY col.visitcount.label    "পরিদর্শনের সংখ্যা">
 <!ENTITY col.dateadded.label     "যোগ হয়েছে">
 <!ENTITY col.lastmodified.label  "সর্বশেষ পরিবর্তন">
-
-<!ENTITY historySearch.placeholder  "ইতিহাস খুঁজুন">
-<!ENTITY bookmarksSearch.placeholder  "বুকমার্ক অনুসন্ধান">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "একটি আইটেম নির্বাচন করে তার বৈশিষ্ট্য প্রদর্শন ও পরিবর্তন">
 
-<!ENTITY view.label               "প্রদর্শন">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "তারিখ অনুসারে">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "সাইট অনুসারে">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "সর্বাধিক প্রদর্শিত">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "শেষবার প্রদর্শিত">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "তারিখ ও সাইট অনুসারে">
-<!ENTITY byDayAndSite.accesskey   "t">

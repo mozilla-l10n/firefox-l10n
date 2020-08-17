@@ -4,7 +4,6 @@
 
 <!ENTITY name.label "আপনার নাম (n)">
 <!ENTITY name.accesskey "n">
-<!ENTITY name.placeholder "প্রথম শেষ">
 <!ENTITY name.text "আপনার নাম, অন্যরা আপনার যে নামটি দেখবে">
 <!ENTITY email.label "ইমেইল ঠিকানা (l):">
 <!ENTITY email.accesskey "l">

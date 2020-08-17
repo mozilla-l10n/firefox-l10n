@@ -28,10 +28,6 @@ serviceworker-worker-unregister = Unregister
 serviceworker-worker-debug = ডিবাগ
     .title = কেবলমাত্র চলন্ত সার্ভিস ওয়ার্কার ডিবাগ করা যাবে
 
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start = শুরু
-
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = উৎস
 
@@ -47,8 +43,4 @@ serviceworker-worker-status-running = চলছে
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = থেমে গেছে
-
-# Service Worker status. A registering service worker is not yet registered and cannot be
-# started or debugged.
-serviceworker-worker-status-registering = নিবন্ধ হচ্ছে
 
