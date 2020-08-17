@@ -5,16 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
-                                                                inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Napakni a Panagsursur)">
-
 
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -28,24 +18,11 @@ left instead of right. -->
 <!ENTITY  listAllTabs.label      "List all tabs">
 
 <!ENTITY tabCmd.label "Baro nga Etiketa">
-<!ENTITY tabCmd.accesskey "t">
-<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Open File…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Pagarigan ti Panagimaldit">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imaldit...">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
-
-<!ENTITY goOfflineCmd.label "Work Offline">
-<!ENTITY goOfflineCmd.accesskey "W">
 
 <!ENTITY menubarCmd.label "Barras ti Menu">
 <!ENTITY menubarCmd.accesskey "M">
@@ -54,34 +31,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "Banag iti Barras ti Pannanda">
 
 
-<!ENTITY pageSourceCmd.label "Page Source">
-<!ENTITY pageSourceCmd.accesskey "o">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
-<!ENTITY pageInfoCmd.label "Damag ti Panid">
-<!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
-
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY fullScreenCmd.label "Dagup a Pantalia">
-<!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Ipadlaw Amin a Pakasaritaan">
-<!ENTITY showAllTabsCmd.accesskey "A">
 
 
 
-<!ENTITY fullScreenMinimize.tooltip "Minimize">
-<!ENTITY fullScreenRestore.tooltip "Ipulang">
-<!ENTITY fullScreenAutohide.label "Ilemmeng ti Barras">
-<!ENTITY fullScreenAutohide.accesskey "H">
-
- <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -99,27 +61,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
-<!ENTITY closeWindow.label "Close Window">
-<!ENTITY closeWindow.accesskey "d">
-
-<!ENTITY bookmarksMenu.label "Pannanda">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY editThisBookmarkCmd.label "Baliwan Daytoy a Pannanda">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
-
 <!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY recentBookmarks.label "Nabiit a Napannanda">
 <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
-
-<!ENTITY backButton.tooltip           "Agsanud iti maysa a panid">
-<!ENTITY forwardButton.tooltip        "Go forward one page">
-<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
-<!ENTITY backForwardButtonMenuMac.tooltip "Labniten tapno maipadlaw ti pakasaritaan">
-<!ENTITY stopCmd.macCommandKey        ".">
-
-<!ENTITY goEndCap.tooltip             "Tarusan ti pagtaengan iti Barras ti Disso">
 
 <!ENTITY printButton.label            "Imaldit">
 <!ENTITY printButton.tooltip          "Imaldit daytoy a panid">
@@ -138,80 +82,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Pannanda">
 
 
-<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
-<!ENTITY historySidebarCmd.commandKey   "h">
-
-<!ENTITY toolsMenu.label              "Ramit">
-<!ENTITY toolsMenu.accesskey          "t">
-
-<!ENTITY keywordfield.label           "Add a Keyword for this Search…">
-<!ENTITY keywordfield.accesskey       "K">
-
-<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
-  -  downloads.label, but used in the Library panel. -->
-<!ENTITY downloads.commandkey         "j">
 <!ENTITY addons.label                 "Add-ons">
-<!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY inspectContextMenu.label     "Sukimaten">
-<!ENTITY inspectContextMenu.accesskey "S">
-
-
-<!ENTITY fileMenu.label         "Intar">
-<!ENTITY fileMenu.accesskey       "F">
 
 <!ENTITY newNavigatorCmd.label        "Baro a Tawa">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
 
 <!ENTITY editMenu.label         "Baliwan">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY redoCmd.label            "Uliten">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "Kartiben">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "t">
-<!ENTITY pasteCmd.label           "Idket">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "Buraen">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.key         "A">
 <!ENTITY preferencesCmd2.label       "Opsion">
-<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Pagdumdumaan">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
-
-<!ENTITY clearRecentHistory.label               "Borraen ti Nabiit a Pakasaritaan…">
-
-<!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY viewMenu.label         "View">
-<!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "Barras">
-<!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "Barras-igid">
-<!ENTITY viewSidebarMenu.accesskey "e">
 
 <!ENTITY historyMenu.label "Pakasaritaan">
-<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Nairikep itay a Nabiit a Lapayag">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nairikep itay Nabiit a Tawa">
-
-<!ENTITY showAllHistoryCmd.commandkey "T">
 
 <!ENTITY appMenuHistory.clearRecent.label "Borraen ti Nabiit a Pakasaritaan">
 <!ENTITY appMenuHistory.recentHistory.label "Nabiit a Pakasaritaan">
@@ -245,37 +130,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
-<!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.accesskey             "d">
-<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.switchToTab.label     "Etiketa a Pagisukatan:">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
@@ -288,14 +144,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
-     This string is used to build the header above the list of one-click search
-     providers when a one off engine has been selected.  The searchAfter text is
-     intentionally left empty for en-US and can be used by other localizations to
-     display a string after the search engine name.  This string will be displayed
-     as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY searchAfter.label            "">
-
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -305,99 +153,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 
 
-<!ENTITY openLinkCmdInCurrent.label     "Ilukat ti Panilpo">
-<!ENTITY openLinkCmdInCurrent.accesskey "o">
-<!ENTITY openFrameCmdInTab.label      "Pagluktan ti Kuadro ti Baro nga Etiketa">
-<!ENTITY openFrameCmdInTab.accesskey  "t">
-<!ENTITY openFrameCmd.label           "Pagluktan ti Kuadro ti Baro a Tawa">
-<!ENTITY openFrameCmd.accesskey       "w">
-<!ENTITY showOnlyThisFrameCmd.label     "Ipadlaw daydaytoy a Kuadro">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Pagsadiwaen ti Kuadro">
-<!ENTITY reloadFrameCmd.accesskey     "r">
-<!ENTITY viewPartialSourceForSelectionCmd.label "View Selection Source">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewFrameSourceCmd.label     "Imatang ti Pagtaudan ti Kuadro">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewFrameInfoCmd.label       "Imatangen ti Damdamag ti Kuadro">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY viewImageCmd.label           "View Image">
-<!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Kitaen ti Damag maipapan ti Ladawan">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewVideoCmd.label           "View Video">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "View Background Image">
-<!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "Ituding kas Likod ti Eskritorio">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkThisLinkCmd.label      "Bookmark This Link">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Tandaanan Daytoy a Kuadro">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
-<!ENTITY savePageCmd.label            "Save Page As…">
-<!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY saveFrameCmd.label           "Idulin ti Kuadro kas...">
-<!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "Imaldit ti Kuadro...">
-<!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "Idulin ti Kasilpo kas...">
-<!ENTITY saveLinkCmd.accesskey        "K">
-<!ENTITY saveImageCmd.label           "Idulin ti Ladawan kas...">
-<!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Idulin ti Audio kas...">
-<!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY copyLinkCmd.label            "Kopiaen ti Disso ti Kasilpo">
-<!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Kopiaen ti Disso ti Ladawan">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Kopiaen ti Ladawan">
-<!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "Kopiaen ti Disso ti Video">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Kopiaen ti Disso ti Audio">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Kopiaen ti Pagtaengan nga E-Mail">
-<!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Daytoy a Kuadro">
-<!ENTITY thisFrameMenu.accesskey          "h">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Pagulimeken">
-<!ENTITY mediaMute.accesskey         "m">
-<!ENTITY mediaUnmute.label           "Pagunien">
-<!ENTITY mediaUnmute.accesskey       "m">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Show Controls">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Ilemmeng ti Kontrol">
-<!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Dagup a Pantalia">
-<!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Idulin ti Snapshop a kas...">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
-<!ENTITY videoHideStats.label        "Ilemmeng ti Estadistika">
-<!ENTITY videoHideStats.accesskey    "E">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -405,45 +167,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Pasitgan">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "i">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Paadaywan">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Reset">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Zoom Text Only">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-
 <!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY quitApplicationCmdWin2.label       "Exit">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY closeCmd.label                 "Close">
-<!ENTITY closeCmd.accesskey             "C">
-
-
-<!ENTITY pageStyleMenu.label "Estilo ti Panid">
-<!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "No Style">
-<!ENTITY pageStyleNoStyle.accesskey "N">
-<!ENTITY pageStylePersistentOnly.label "Basic Page Style">
-<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -454,18 +184,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "S">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Sukatan ti Tungo ti Panid">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Sukatan ti Tungo ti Teksto">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-
 <!ENTITY findOnCmd.label     "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Biroken manen">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY spellAddDictionaries.label "Add Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -500,9 +219,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY syncSyncNowItem.label        "Ipatulad Ita">
-<!ENTITY syncSyncNowItem.accesskey    "u">
-
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
@@ -524,13 +240,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-<!ENTITY pluginNotification.width "36em">
 
 
 <!ENTITY panicButton.thankyou.msg1                "Naborran ti nabiit a pakasaritaan.">

@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Idulin kas...
     .accesskey = e
-media-preview =
-    .value = Pagarigan ti Media:
 
 perm-tab =
     .label = Pammalubos
@@ -122,7 +120,6 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-not-set-verified-by = Di-naituding
 page-info-not-specified =
     .value = Di-naituding
 not-set-alternative-text = Di-naituding

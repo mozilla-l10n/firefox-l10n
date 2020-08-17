@@ -67,16 +67,6 @@
 <!ENTITY notCached.title "Nagpaso ti Dokumento">
 <!ENTITY notCached.longDesc "<p>Saan a maal-ala ti nadawat a dokumento iti pasmok ti &brandShortName;.</p><ul><li>Kas pangseguridad nga annad, saan nga uliten a dawaten a dagus ti browser ti napakni a dokumento.</li><li>Litikanyo ti Uliten tapno madawatan manen ti dokumento ti sitio Web.</li></ul>">
 
-<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
-     The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
-
 <!ENTITY contentEncodingError.title "Kammali iti Panangkodigo ti Laon">
 
 

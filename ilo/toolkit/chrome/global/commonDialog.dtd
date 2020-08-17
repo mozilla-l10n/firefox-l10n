@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Ababa a Titulo"> 
-<!ENTITY message.label    "Pagarigan a teksto ditoy.">
-
 <!ENTITY editfield1.label "Kontrasenias:"> 
-<!ENTITY checkbox.label   "Patalgedan"> 
 <!ENTITY copyCmd.label    "Kopiaen">
 <!ENTITY copyCmd.accesskey "C">
 

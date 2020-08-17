@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Kartiben">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopiaen">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Idket">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "Undo">
-<!ENTITY undoCmd.accesskey "U">
-
-
-<!ENTITY deleteCmd.label "Buraen">
-<!ENTITY deleteCmd.accesskey "D">
 
 <!ENTITY spellAddToDictionary.label "Nayonan ti Pagipatarusan">
 <!ENTITY spellAddToDictionary.accesskey "o">

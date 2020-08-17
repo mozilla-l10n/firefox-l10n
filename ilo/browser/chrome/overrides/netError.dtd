@@ -11,55 +11,27 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Saan a makisilpo">
-
-
-<!ENTITY deniedPortAccess.title "Nagawid daytoy a pagtaengan">
-
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pasingkedan ti nagan ti intar iti kadakkel ti letra wenno sabali a kammali iti panangsurat.</li> <li>Pasingkedan no nayalis, masukatan ti nagan wenno nabura ti intar.</li> </ul>">
 
 
 
-<!ENTITY generic.title "Saan a matungpal ti dawat.">
-
 <!ENTITY generic.longDesc "<p>Adda met ti rason no apay saan a maikarga ti &brandShortName; daytoy a panid.</p>">
 
 
 
 
-<!ENTITY netInterrupt.title "Naallawat ti panilpo">
-
-
-<!ENTITY notCached.title "Nagpaso ti Dokumento">
-
 <!ENTITY notCached.longDesc "<p>Saan a maal-ala ti nadawat a dokumento iti pasmok ti &brandShortName;.</p><ul><li>Kas pangseguridad nga annad, saan nga uliten a dawaten a dagus ti browser ti napakni a dokumento.</li><li>Litikanyo ti Uliten tapno madawatan manen ti dokumento ti sitio Web.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Kammali iti Panangkodigo ti Laon">
-
-
-<!ENTITY unsafeContentType.title "Di-natalged a Kita ti Intar">
 
 
 
-
-
-
-<!ENTITY unknownProtocolFound.title "Saan a naawat ti pagtaengan">
-
-
-<!ENTITY proxyConnectFailure.title "Pappaiden ti proxy ti panilpo">
 
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Check to make sure your computer has a working network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
-
-<!ENTITY redirectLoop.title "Saan a maitudtudo a nalaing ti panid">
-
-
-<!ENTITY unknownSocketType.title "Napettat a sungbat manipud ti serbidor">
 
 
 
@@ -70,14 +42,9 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Mabalinsa a saan a madanonan iti bassit wenno makumikom la unay daytoy a purok Web. Padasenyo man intuno bassit.</li> <li>No saankayo a makakarga iti ania man a panid, paneknekanyo ti panilpo iti iket ti kompiuteryo.</li> <li>No salsalakniban ti firewall wenno proxy ti kompiuteryo wenno iketyo, paneknekan no mapalubosan ti &brandShortName; a makadanon iti Web.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Nalapdan ti Polisa ti Seguridad iti Aglalaon">
-
 <!ENTITY cspBlocked.longDesc "<p>Linapdan ti &brandShortName; ti pannakaikarga kadaytoy a panid gapu ta adda ti mammamaid a polisa ti seguridad iti aglalaon.</p>">
 
 
-
-
-<!ENTITY remoteXUL.title "Adayo a XUL">
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

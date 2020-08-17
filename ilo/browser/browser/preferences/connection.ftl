@@ -35,12 +35,6 @@ connection-proxy-http = Proxy ti HTTP
     .accesskey = x
 connection-proxy-http-port = Siwal
     .accesskey = S
-connection-proxy-http-share =
-    .label = Aramaten daytoy a proxy para iti amin a wagas
-    .accesskey = s
-
-connection-proxy-ssl = Proxy ti SSL
-    .accesskey = L
 
 connection-proxy-ssl-port = Siwal
     .accesskey = w

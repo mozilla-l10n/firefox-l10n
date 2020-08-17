@@ -9,20 +9,6 @@
 
 
 
-<!ENTITY stats.size "Kadakkel">
-<!ENTITY stats.activity "Aramid">
-<!ENTITY stats.activityPaused "Nataktak">
-<!ENTITY stats.activityPlaying "Umaandar">
-<!ENTITY stats.activityEnded "Nalpas">
-<!ENTITY stats.activitySeeking "(agbirbirok)">
-<!ENTITY stats.volume "Pigsa">
-
-<!ENTITY stats.framesDecoded "Naibatad a kuadro">
-<!ENTITY stats.framesPresented "Indatag a kuadro">
-
-
-
-
 
 
 

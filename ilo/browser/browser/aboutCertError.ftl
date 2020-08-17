@@ -27,5 +27,4 @@ unknownProtocolFound-title = Saan a naawat ti pagtaengan
 proxyConnectFailure-title = Pappaiden ti proxy ti panilpo
 redirectLoop-title = Saan a maitudtudo a nalaing ti panid
 unknownSocketType-title = Napettat a sungbat manipud ti serbidor
-cspBlocked-title = Nalapdan ti Polisa ti Seguridad iti Aglalaon
 remoteXUL-title = Adayo a XUL

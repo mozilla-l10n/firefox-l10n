@@ -22,9 +22,6 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Palutputen ti Pannanarimaan
 
-tools-menu =
-    .tooltiptext = Ramit ti paganay
-
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -68,14 +65,6 @@ detail-check-for-updates =
 addon-restart-now =
     .label = Irugi manen itan
 
-extensions-view-recent-updates =
-    .name = Nabiit a Pannanarimaan
-    .tooltiptext = { extensions-view-recent-updates.name }
-
-extensions-view-available-updates =
-    .name = Maal-ala a Pannanarimaan
-    .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-plugin = Anay
 addon-category-plugin-title =
     .title = Anay
@@ -94,25 +83,8 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode-container =
-    .tooltiptext = { extensions-warning-safe-mode-label.value }
-
-extensions-warning-check-compatibility-container =
-    .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
-extensions-warning-update-security-container =
-    .tooltiptext = { extensions-warning-update-security-label.value }
-
 
 ## Strings connected to add-on updates
-
-extensions-updates-check-for-updates =
-    .label = Palutputen ti Pannanarimaan
-    .accesskey = C
-
-extensions-updates-view-updates =
-    .label = Ipadlaw ti Nabiit a Pannanarimaan
-    .accesskey = V
 
 addon-updates-check-for-updates = Palutputen ti Pannanarimaan
     .accesskey = C
@@ -131,19 +103,6 @@ addon-updates-view-updates = Ipadlaw ti Nabiit a Pannanarimaan
 
 
 ## Status messages displayed when updating add-ons
-
-extensions-updates-updating =
-    .value = Tartarimnen ti raman
-extensions-updates-installed =
-    .value = Natarimaan ti raman.
-extensions-updates-downloaded =
-    .value = Naiyulogen dagiti pannarimaan ti raman.
-extensions-updates-restart =
-    .label = Irugi manen tapno malpas ti panaginstala
-extensions-updates-none-found =
-    .value = Awan ti nabirokan a pannarimaan
-extensions-updates-manual-updates-found =
-    .label = Ipakita ti Maal-ala a Pannanarimaan
 
 addon-updates-updating = Tartarimnen ti raman
 addon-updates-installed = Natarimaan ti raman.

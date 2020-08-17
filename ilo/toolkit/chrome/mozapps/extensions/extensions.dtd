@@ -9,12 +9,6 @@
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 
-<!ENTITY cmd.showPreferencesWin.label         "Opsion">
-<!ENTITY cmd.showPreferencesUnix.label        "Pagdumdumaan">
-
-<!ENTITY cmd.showReleaseNotes.label           "Ipadlaw ti ti Panagibbat">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Ipadlaw ti pakaammo ti panagibbat agpaay kadaytoy a pannanarimaan">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -22,28 +16,10 @@
 
 <!-- ratings -->
 
-<!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Ibabawi">
-
 
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(naiddep)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Update">
-
-<!ENTITY addon.install.tooltip                "Iyinstala daytoy a raman">
-<!ENTITY addon.updateNow.label                "Tarimnen Ita">
-<!ENTITY addon.updateNow.tooltip              "Iyinstala ti pannanarimaan maipaay kadaytoy a pagaanay">
-<!ENTITY addon.checkingForUpdates.label       "Palutputen ti pannanarimaan...">
 
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):

@@ -41,29 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pilien ti Intar...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Lipatan Daytoy a Sitio">
-
-<!ENTITY cmd.open.label                  "Lukatan">
-<!ENTITY cmd.open_window.label           "Lukatan iti Baro a Tawa">
-<!ENTITY cmd.open_private_window.label     "Lukatan iti Baro a Napakni a Tawa">
-<!ENTITY cmd.open_tab.label              "Lukatan iti Baro a Lapayag">
-<!ENTITY cmd.open_all_in_tabs.label      "Lukatan Amin a Lapayag">
-
-<!ENTITY cmd.properties.label      "Gupit">
-<!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.sortby_name.label              "Urnosen segun Nagan">
-<!ENTITY cmd.sortby_name.accesskey          "s">
-<!ENTITY cmd.context_sortby_name.accesskey  "P">
-
-<!ENTITY cmd.new_bookmark.label            "Baro a Pannanda...">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "Baro a Karpeta...">
-<!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Baro a Pagsina">
-<!ENTITY cmd.new_separator.accesskey       "s">
-
 <!ENTITY col.name.label          "Nagan">
 <!ENTITY col.tags.label          "Etiketa">
 <!ENTITY col.url.label           "Disso">
@@ -71,9 +48,6 @@
 <!ENTITY col.visitcount.label    "Panagbisita">
 <!ENTITY col.dateadded.label     "Nanayonan">
 <!ENTITY col.lastmodified.label  "Kaudian a Panagbaliw">
-
-<!ENTITY historySearch.placeholder  "Biroken iti pakasaritaan">
-<!ENTITY bookmarksSearch.placeholder  "Biroken iti pannanda">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -87,15 +61,3 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Pilienyo ti maysa tapno maipadlaw sakayonto makapangbaliw kadagiti gupitna.">
 
-<!ENTITY view.label               "Ipadlaw">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "Segun Petsa">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "Segun Sitio">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "Segun Nabasbasa">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "Segun Kaudian a Panagbisita">
-<!ENTITY byLastVisited.accesskey  "K">
-<!ENTITY byDayAndSite.label       "Segun Petsa ken Sitio">
-<!ENTITY byDayAndSite.accesskey   "t">

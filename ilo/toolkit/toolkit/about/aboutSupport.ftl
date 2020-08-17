@@ -48,6 +48,7 @@ try-newer-driver = Linapdan agsipud iti bersion ti grapiko a driver. Padasenyo n
 ## not found.
 
 gpu-device-id = ID ti aparato
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

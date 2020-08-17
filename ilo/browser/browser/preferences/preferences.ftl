@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Opsion
-           *[other] Pagdumdumaan
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Opsion
@@ -208,8 +201,6 @@ sync-engine-history =
 
 ## The device name controls.
 
-sync-tos-link = Pagannurotan ti Serbisio
-
 ## Privacy Section
 
 
@@ -285,6 +276,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sertipiko
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
