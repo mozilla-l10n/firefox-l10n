@@ -67,15 +67,9 @@
 <!ENTITY redoCmd.label "Herdoen">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "H">
-<!ENTITY cutCmd.label "Knip">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "p">
-<!ENTITY copyCmd.label "Kopieer">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Plak">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "o">
@@ -84,8 +78,6 @@
 <!ENTITY editRewrapCmd.label "Heromvou">
 <!ENTITY editRewrapCmd.key "R">
 
-
-<!ENTITY selectAllCmd.label "Merk alles">
 
 <!ENTITY selectAllCmd.accesskey "a">
 
@@ -221,17 +213,7 @@
 <!ENTITY printButton.tooltip "Druk hierdie boodskap">
 
 <!-- Headers -->
-<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
-    Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY fromAddr.label "Van:">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr.label "Aan:">
-<!ENTITY ccAddr.label "CC:">
-<!ENTITY bccAddr.label "BCC:">
-<!ENTITY replyAddr.label "Antwoord-aan:">
-<!ENTITY newsgroupsAddr.label "Nuusgroep:">
-<!ENTITY followupAddr.label "Opvolg-aan:">
-<!ENTITY subject.label "Onderwerpreël:">
 <!ENTITY subject.accesskey "O">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->

@@ -44,38 +44,15 @@
 
 <!ENTITY editMenu.label                                 "Redigeer">
 <!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "Ontdoen">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "O">
-<!ENTITY redoCmd.label                                  "Herdoen">
-<!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "H">
-<!ENTITY cutCmd.label                                   "Knip">
-<!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "p">
-<!ENTITY copyCmd.label                                  "Kopieer">
-<!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Plak">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Skrap">
-<!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Skrap adresboek">
 <!ENTITY deleteContactCmd.label                         "Skrap kennis">
 <!ENTITY deleteContactsCmd.label                        "Skrap kennisse">
 <!ENTITY deleteListCmd.label                            "Skrap lys">
 <!ENTITY deleteListsCmd.label                           "Skrap lyste">
 <!ENTITY deleteItemsCmd.label                           "Skrap items">
-<!ENTITY selectAllCmd.label                             "Kies almal">
-<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Ruil voornaam en van om">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "u">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
 
 
 <!ENTITY propertiesCmd.key                              "i">

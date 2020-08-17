@@ -6,13 +6,6 @@ do-not-track-learn-more = Meer inligting
 do-not-track-option-always =
     .label = Altyd
 
-pref-page =
-    .title =
-        { PLATFORM() ->
-            [windows] Opsies
-           *[other] Voorkeure
-        }
-
 pref-page-title =
     { PLATFORM() ->
         [windows] Opsies
@@ -332,8 +325,6 @@ update-application-use-service =
     .label = Gebruik 'n agtergronddiens om bywerkings te installeer
     .accesskey = a
 
-update-pref-write-failure-title = Skryf mislukking
-
 ## General Section - Performance
 
 performance-title = Werkverrigting
@@ -492,8 +483,6 @@ search-keyword-warning-bookmark = U het 'n sleutelwoord gekies wat tans deur 'n 
 
 ## Containers Section
 
-containers-back-link = « Gaan terug
-
 containers-header = Konteksoortjies
 containers-add-button =
     .label = Voeg nuwe konteks by
@@ -513,8 +502,6 @@ containers-remove-button =
 sync-signedout-caption = Neem die Web saam
 sync-signedout-description = Sinkroniseer boekmerke, geskiedenis, oortjies, wagwoorde, byvoegings en voorkeure oor alle toestelle.
 
-sync-signedout-account-title = Koppel met 'n { -fxaccount-brand-name }
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -533,10 +520,6 @@ sync-mobile-promo = Laai Firefox af vir <img data-l10n-name="android-icon"/> <a 
 sync-profile-picture =
     .tooltiptext = Verander profielprent
 
-sync-disconnect =
-    .label = Ontkoppel…
-    .accesskey = O
-
 sync-manage-account = Bestuur rekening
     .accesskey = o
 
@@ -550,9 +533,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Meld aan
     .accesskey = M
-
-sync-signedin-settings-header = Sync-instellings
-sync-signedin-settings-desc = Kies wat om tussen toestelle te sinkroniseer met { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -597,22 +577,12 @@ sync-device-name-save =
     .label = Stoor
     .accesskey = t
 
-sync-manage-devices = Bestuur toestelle
-
-sync-fxa-begin-pairing = Koppel 'n toestel
-
-sync-tos-link = Diensbepalings
-
-sync-fxa-privacy-notice = Privaatheidkennisgewing
-
 ## Privacy Section
 
 privacy-header = Blaaier Privaatheid
 
 ## Privacy Section - Forms
 
-
-logins-header = Aanmeldings en Wagwoorde
 
 ## Privacy Section - Logins and Passwords
 
@@ -643,6 +613,7 @@ forms-master-pw-change =
     .accesskey = m
 
 forms-master-pw-fips-title = U is tans in FIPS-modus. FIPS vereis 'n nieleë meesterwagwoord.
+
 forms-master-pw-fips-desc = Kon nie wagwoord verander nie
 
 ## OS Authentication dialog
@@ -695,9 +666,6 @@ sitedata-header = Koekies en webwerf-data
 
 sitedata-learn-more = Meer inligting
 
-sitedata-option-block-trackers =
-    .label = Derdeparty-spoorsnyers
-
 ## Privacy Section - Address Bar
 
 addressbar-locbar-history-option =
@@ -714,20 +682,9 @@ addressbar-suggestions-settings = &Verander voorkeure vir voorstelle vanaf soeke
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Inhoud blokkering
-
 content-blocking-enhanced-tracking-protection = Gevorderde beskerming van spoorsnyers
 
 content-blocking-learn-more = Meer inligting
-
-content-blocking-setting-strict =
-    .label = Streng
-    .accesskey = r
-
-content-blocking-custom-desc = Kies wat om te blokkeer.
-
-content-blocking-private-trackers = Bekende spoorsnyers slegs in privaat vensters
-content-blocking-third-party-cookies = Derdeparty spoorsnyer-koekies
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -738,10 +695,6 @@ content-blocking-third-party-cookies = Derdeparty spoorsnyer-koekies
 content-blocking-all-cookies = Alle koekies
 content-blocking-cryptominers = Kriptomyners
 content-blocking-fingerprinters = Vingerafdrukkers
-
-content-blocking-trackers-label =
-    .label = Spoorsnyers
-    .accesskey = S
 
 content-blocking-tracking-protection-option-all-windows =
     .label = In alle vensters
@@ -861,6 +814,8 @@ space-alert-under-5gb-ok-button =
     .accesskey = R
 
 space-alert-under-5gb-message = { -brand-short-name } se hardeskyfplek raak op. Webwerwe vertoon dalk nie reg nie. Besoek gerus “Meer inligting” vir optimale skyfgebruik en 'n beter blaai-ervaring.
+
+## Privacy Section - HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 

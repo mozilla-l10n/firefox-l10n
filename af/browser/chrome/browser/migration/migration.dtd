@@ -7,7 +7,6 @@
 
 <!ENTITY importFrom.label               "Voer opsies, boekmerke, geskiedenis, wagwoorde en ander data in vanaf:">
 <!ENTITY importFromUnix.label           "Voer voorkeure, boekmerke, geskiedenis, wagwoorde en ander data in vanaf:">
-<!ENTITY importFromBookmarks.label      "Voer boekmerke in vanaf:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Gesinkroniseerde oortjies
 synced-tabs-sidebar-noclients-subtitle = Lus om oortjies van ander toestelle hier te sien?
-synced-tabs-sidebar-notsignedin = Meld aan om 'n lys oortjies van ander toestelle te sien.
 synced-tabs-sidebar-notabs = Geen oop oortjies nie
 synced-tabs-sidebar-openprefs = Open { -sync-brand-short-name }-voorkeure
 synced-tabs-sidebar-tabsnotsyncing = Skakel oortjiesinkronisering aan om 'n lys oortjies van ander toestelle te sien.

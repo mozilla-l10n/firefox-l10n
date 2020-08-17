@@ -10,31 +10,6 @@
 
 <!-- addon actions -->
 
-<!ENTITY cmd.enableAddon.label                "Aktiveer">
-<!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.disableAddon.label               "Deaktiveer">
-<!ENTITY cmd.disableAddon.accesskey           "a">
-
-<!ENTITY cmd.askToActivate.label              "Vra om te aktiveer">
-<!ENTITY cmd.askToActivate.tooltip            "Vra telkens om dié byvoeging te gebruik">
-<!ENTITY cmd.alwaysActivate.label             "Aktiveer altyd">
-<!ENTITY cmd.alwaysActivate.tooltip           "Gebruik altyd dié byvoeging">
-<!ENTITY cmd.neverActivate.label              "Moet nooit aktiveer nie">
-<!ENTITY cmd.neverActivate.tooltip            "Moet nooit dié byvoeging gebruik nie">
-<!ENTITY cmd.stateMenu.tooltip                "Bepaal wanneer dié byvoeging uitvoer">
-
-<!ENTITY cmd.uninstallAddon.label             "Verwyder">
-<!ENTITY cmd.uninstallAddon.accesskey         "V">
-<!ENTITY cmd.showPreferencesWin.label         "Opsies">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Verander hierdie byvoeging se opsies">
-<!ENTITY cmd.showPreferencesUnix.label        "Voorkeure">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Verander hierdie byvoeging se voorkeure">
-
-<!ENTITY cmd.showReleaseNotes.label           "Wys vrystellingaantekeninge">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Wys die vrystellingaantekeninge vir hierdie bywerking">
-<!ENTITY cmd.hideReleaseNotes.label           "Versteek vrystellingaantekeninge">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Versteek die vrystellingaantekeninge vir hierdie bywerking">
-<!ENTITY cmd.findReplacement.label            "Soek vir plaasvervanger">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -46,45 +21,9 @@
 
 <!-- download/install progress -->
 
-<!ENTITY progress.cancel.tooltip              "Kanselleer">
 <!-- list sorting -->
 
 
-<!ENTITY addon.details.label                  "Meer">
-<!ENTITY addon.details.tooltip                "Wys meer details oor hierdie byvoeging">
-<!ENTITY addon.unknownDate                    "Onbekend">
-<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
-     to the add-on name for extensions that are not webextensions, which
-     will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "VEROUDERD">
-<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
-     to signify that an add-on is disabled, in the form
-     "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(gedeaktiveer)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
-     updates list to signify that an item is an update, in the form
-     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
-     necessary -->
-<!ENTITY addon.update.postfix                 "Bywerk">
-<!ENTITY addon.undoAction.label               "Ontdoen">
-<!ENTITY addon.undoAction.tooltip             "Ontdoen hierdie handeling">
-<!ENTITY addon.undoRemove.label               "Ontdoen">
-<!ENTITY addon.undoRemove.tooltip             "Hou hierdie byvoeging geïnstalleer">
-
-<!ENTITY addon.install.label                  "Installeer">
-<!ENTITY addon.install.tooltip                "Installeer hierdie byvoeging">
-<!ENTITY addon.updateNow.label                "Opdateer nou">
-<!ENTITY addon.updateNow.tooltip              "Installeer die bywerking vir hierdie byvoeging">
-<!ENTITY addon.includeUpdate.label            "Sluit by bywerking in">
-<!ENTITY addon.updateAvailable.label          "'n Bywerking is beskikbaar">
-<!ENTITY addon.checkingForUpdates.label       "Kontroleer vir bywerkings…">
-<!ENTITY addon.releaseNotes.label             "Vrystellingaantekeninge:">
-<!ENTITY addon.loadingReleaseNotes.label      "Laai tans…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Jammer, kon nie die vrystellingsaantekeninge laai nie.">
-
-<!ENTITY addon.createdBy.label                "Deur ">
-
-<!ENTITY settings.path.button.label           "Blaai…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

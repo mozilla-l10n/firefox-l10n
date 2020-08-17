@@ -4,7 +4,6 @@
 
 <!ENTITY name.label                      "U naam:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Voornaam en van">
 <!ENTITY name.text                       "U naam, soos aan ander gewys">
 <!ENTITY email.label                     "E-posadres:">
 <!ENTITY email.accesskey                 "E">
@@ -21,8 +20,6 @@
 <!ENTITY outgoing.label                  "Uitgaande:">
 <!ENTITY username.label                  "Gebruikernaam:">
 
-
-<!ENTITY ssl.label                       "SSL">
 
 <!ENTITY imap.label                      "IMAP">
 

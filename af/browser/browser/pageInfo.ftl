@@ -68,8 +68,6 @@ media-save-as =
 media-save-image-as =
     .label = Stoor as…
     .accesskey = r
-media-preview =
-    .value = Mediavoorskou:
 
 perm-tab =
     .label = Toestemming
@@ -121,7 +119,6 @@ security-site-data-cookies-only = Ja, koekies
 security-site-data-no = Nee
 
 image-size-unknown = Onbekend
-not-set-verified-by = Nie gespesifiseer nie
 page-info-not-specified =
     .value = Nie gespesifiseer nie
 not-set-alternative-text = Nie gespesifiseer nie
@@ -146,7 +143,6 @@ general-quirks-mode =
     .value = Glipsmodus
 general-strict-mode =
     .value = Standaardversoeningmodus
-security-no-owner = Hierdie webwerf verskaf nie eienaarsinligting nie.
 page-info-security-no-owner =
     .value = Hierdie webwerf verskaf nie eienaarsinligting nie.
 media-select-folder = Kies 'n vouer om die prente te stoor
