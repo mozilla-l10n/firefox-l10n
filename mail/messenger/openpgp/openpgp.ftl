@@ -300,9 +300,24 @@ keyserver-error-unsupported = O servidor de chaves não é suportado.
 wkd-message-body-req =
     Seu provedor de e-mail processou sua solicitação de enviar sua chave pública para o OpenPGP Web Key Directory.
     Confirme para concluir a publicação de sua chave pública.
+wkd-message-body-process =
+    Este é um e-mail relacionado ao processamento automático de envio de sua chave pública para o OpenPGP Web Key Directory.
+    Você não precisa fazer nenhuma ação manual neste momento.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Não foi possível decifrar a mensagem com assunto
+    { $subject }.
+    Quer tentar novamente com outra senha, ou quer ignorar a mensagem?
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmo de assinatura desconhecido (ID: { $id })
 unknown-hash-alg = Hash de criptografia desconhecido (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Sua chave { $desc } irá expirar em menos de { $days } dias.
+    Recomendamos que você crie um novo par de chaves e configure as contas correspondentes para usá-las.
+expiry-keys-expire-soon =
+    Suas seguintes chaves irão expirar em menos de { $days } dias: { $desc }.
+    Recomendamos que você crie novas chaves e configure as contas correspondentes para usá-las.
 expiry-key-missing-owner-trust =
     Sua chave secreta { $desc } não pode ser considerada de confiança.
     Recomendamos que você defina "Você confia em certificações" como "definitivo" nas propriedades da chave.
@@ -314,13 +329,19 @@ expiry-open-key-manager = Abrir gerenciador de chaves OpenPGP
 expiry-open-key-properties = Abrir propriedades da chave
 # Strings filters.jsm
 filter-folder-required = Você deve selecionar uma pasta destino.
+filter-decrypt-move-warn-experimental =
+    Aviso - A ação do filtro "Descriptografar permanentemente" pode levar à destruição de mensagens.
+    Recomendamos fortemente que você tente primeiro o filtro "Criar cópia descriptografada", teste o resultado cuidadosamente e só comece a usar este filtro quando estiver satisfeito com o resultado.
 filter-term-pgpencrypted-label = OpenPGP criptografado
 filter-key-required = Você deve selecionar uma chave de destinatário.
 filter-key-not-found = Não foi possível encontrar uma chave de criptografia para '{ $desc }'.
+filter-warn-key-not-secret =
+    Aviso - A ação do filtro "Criptografar com chave" substitui os destinatários.
+    Se você não tiver a chave secreta de '{ $desc }', não poderá mais ler os e-mails.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Descriptografar permanentemente (OpenPGP)
 filter-decrypt-copy-label = Criar cópia descriptografada (OpenPGP)
-filter-encrypt-label = Criptografar para chave (OpenPGP)
+filter-encrypt-label = Criptografar com chave (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Sucesso! Chaves importadas
