@@ -67,6 +67,9 @@ show-dir-label =
         [windows] Apri cartella
        *[other] Apri percorso
     }
+environment-variables-title = Variabili d’ambiente
+environment-variables-name = Nome
+environment-variables-value = Valore
 experimental-features-title = Funzioni sperimentali
 experimental-features-name = Nome
 experimental-features-value = Valore
