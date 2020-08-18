@@ -4,6 +4,9 @@
 
 history-title = Արդիացուցանել զպատմութիւն
 history-intro = Հետեւեալ արդիացմունք տեղադրեցան:
+close-button-label =
+    .buttonlabelcancel = Փակել
+    .title = Արդիացուցանել զպատմութիւն
 no-updates-label = Արդիացմունք չեւ են տեղարդեալք
 name-header = Արդիացման անուն
 date-header = Ժամանակ տեղադրման
