@@ -405,3 +405,40 @@ key-ring-pub-key-not-for-signing = De sleutel { $userId } (sleutel-ID { $keyId }
 key-ring-pub-key-not-for-encryption = De sleutel { $userId } (sleutel-ID { $keyId }) kan niet worden gebruikt voor versleuteling.
 key-ring-sign-sub-keys-revoked = Alle ondertekeningssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken.
 key-ring-sign-sub-keys-expired = Alle ondertekeningssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn vervallen.
+key-ring-sign-sub-keys-unusable = Alle ondertekeningssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken, vervallen of anderszins onbruikbaar.
+key-ring-enc-sub-keys-revoked = Alle versleutelingssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken.
+key-ring-enc-sub-keys-expired = Alle versleutelingssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn vervallen.
+key-ring-enc-sub-keys-unusable = Alle versleutelingssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken, vervallen of anderszins onbruikbaar.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Gebruikerskenmerk (JPEG-afbeelding)
+# Strings in key.jsm
+already-revoked = Deze sleutel is al ingetrokken.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    U staat op het punt de sleutel ‘{ $identity }’ in te trekken.
+    U kunt met deze sleutel niet meer ondertekenen na distributie kunnen anderen niet meer met die sleutel coderen. U kunt de sleutel nog steeds gebruiken om oude berichten te ontsleutelen.
+    Wilt u doorgaan?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    U heeft geen sleutel (0x{ $keyId }) die overeenkomt met dit intrekkingscertificaat!
+    Als u uw sleutel kwijt bent, moet u deze importeren (bijvoorbeeld van een sleutelserver) voordat u het intrekkingscertificaat importeert!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = De sleutel 0x{ $keyId } is al ingetrokken.
+key-man-button-revoke-key = Sleutel &intrekken
+openpgp-key-revoke-success = Sleutel met succes ingetrokken.
+after-revoke-info =
+    De sleutel is ingetrokken.
+    Deel deze publieke sleutel opnieuw door deze per e-mail te verzenden of door deze naar sleutelservers te uploaden, zodat anderen weten dat u uw sleutel hebt ingetrokken.
+    Zodra de software die door andere mensen wordt gebruikt over de intrekking wordt geïnformeerd zal deze uw oude sleutel niet meer gebruiken.
+    Als u een nieuwe sleutel gebruikt voor hetzelfde e-mailadres en u voegt de nieuwe publieke sleutel toe aan e-mailberichten die u verzendt, dan wordt automatisch informatie over uw ingetrokken oude sleutel toegevoegd.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importeren
+delete-key-title = OpenPGP-sleutel verwijderen
+delete-external-key-title = De externe GnuPG-sleutel verwijderen
+delete-external-key-description = Wilt u deze externe GnuPG-sleutel-ID verwijderen?
+key-in-use-title = OpenPGP-sleutel wordt momenteel gebruikt
+delete-key-in-use-description = Kan niet doorgaan! De sleutel die u hebt geselecteerd voor verwijdering wordt momenteel gebruikt door deze identiteit. Selecteer een andere sleutel of selecteer er geen en probeer het opnieuw.
+revoke-key-in-use-description = Kan niet doorgaan! De sleutel die u hebt geselecteerd voor intrekking wordt momenteel gebruikt door deze identiteit. Selecteer een andere sleutel of selecteer er geen en probeer het opnieuw.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Het e-mailadres ‘{ $keySpec }’ kan niet worden gekoppeld aan een sleutel aan uw sleutelhanger.
