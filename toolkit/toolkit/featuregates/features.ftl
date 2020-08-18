@@ -46,10 +46,12 @@ experimental-features-web-api-beforeinput-description = Globalny podawk <a data-
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Přidawanje konstruktora interfejsej <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> kaž tež wulkeje mnohosće přisłušnych změnow zmóžnja, nowe stilowe předłohi direktnje wutworić, bjeztoho zo byšće dyrbjał předłohu HTML přidać. To wosnandja, zaso wužiwajomne stilowe předłohi za wužiwanje z <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> wutworić. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1520690</a> za dalše podrobnosće.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = CyłDie gesamte { -brand-short-name }-Implementierung der Media Session API ist derzeit experimentell. Diese API dient dazu, den Umgang mit medienbezogenen Benachrichtigungen anzupassen, Ereignisse und Daten zu verwalten, die für die Darstellung einer Benutzeroberfläche zur Verwaltung der Medienwiedergabe nützlich sind, und Metadaten von Mediendateien zu erhalten. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 112032</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Wuwiwarske nastroje: Simulacija barboweje šemy
 experimental-features-devtools-execution-context-selector =
