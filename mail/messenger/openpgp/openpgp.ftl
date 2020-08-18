@@ -141,6 +141,8 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Επιλογή όλων των κλειδιών
     .accesskey = ο
+openpgp-key-man-please-wait-tooltip =
+    .label = Παρακαλούμε περιμένετε όσο φορτώνονται τα κλειδιά…
 openpgp-key-man-filter-label =
     .placeholder = Αναζήτηση για κλειδιά
 openpgp-key-details-title =
@@ -176,6 +178,10 @@ openpgp-acceptance-rejected-label =
     .label = Όχι, απόρριψη κλειδιού.
 openpgp-acceptance-undecided-label =
     .label = Όχι ακόμα, ίσως αργότερα.
+openpgp-acceptance-unverified-label =
+    .label = Ναι, αλλά δεν έχω επαληθεύσει ότι είναι το σωστό κλειδί.
+openpgp-acceptance-verified-label =
+    .label = Ναι, έχω επαληθεύσει αυτοπροσώπως ότι αυτό το κλειδί έχει το σωστό αποτύπωμα.
 openpgp-copy-cmd-label =
     .label = Αντιγραφή
 
@@ -232,6 +238,7 @@ filter-decrypt-move-label = Οριστική αποκρυπτογράφηση (O
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Επιτυχία! Τα κλειδιά εισήχθησαν
+import-info-bits = Bits
 import-info-created = Δημιουργήθηκε
 import-info-fpr = Δακτυλικό αποτύπωμα
 # Strings in enigmailKeyManager.js
@@ -247,3 +254,76 @@ general-error = Σφάλμα: { $reason }
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Φωτογραφία
+# Strings in key.jsm
+already-revoked = Αυτό το κλειδί έχει ήδη ανακληθεί.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Το κλειδί 0x{ $keyId } έχει ήδη ανακληθεί.
+key-man-button-revoke-key = &Ανάκληση κλειδιού
+openpgp-key-revoke-success = Επιτυχής ανάκληση κλειδιού.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Εισαγωγή
+delete-key-title = Διαγραφή κλειδιού OpenPGP
+delete-external-key-description = Θέλετε να αφαιρέσετε αυτό το ID εξωτερικού κλειδιού GnuPG;
+# Strings used in trust.jsm
+key-valid-unknown = άγνωστο
+key-valid-invalid = μη έγκυρο
+key-valid-disabled = ανενεργό
+key-trust-full = έμπιστο
+key-trust-group = (ομάδα)
+# Strings used in commonWorkflows.js
+import-key-file = Εισαγωγή αρχείου κλειδιού OpenPGP
+import-rev-file = Εισαγωγή αρχείου ανάκλησης OpenPGP
+gnupg-file = Αρχεία GnuPG
+import-keys-failed = Αποτυχία εισαγωγής κλειδιών
+key-man-button-generate-key = &Δημιουργία κλειδιού
+key-abort = Ακύρωση δημιουργίας κλειδιού;
+key-man-button-generate-key-abort = &Ακύρωση δημιουργίας κλειδιού
+key-man-button-generate-key-continue = &Συνέχεια δημιουργίας κλειδιού
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Σφάλμα - αποτυχία αποκρυπτογράφησης
+fix-broken-exchange-msg-failed = Αποτυχία επιδιόρθωσης μηνύματος.
+msg-ovl-button-cont-anyway = &Συνέχεια ούτως ή άλλως
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Αποστολή μηνύματος
+msg-compose-details-button-label = Λεπτομέρειες…
+msg-compose-details-button-access-key = Λ
+key-not-found = Το κλειδί '{ $key }' δεν βρέθηκε
+key-revoked = Το κλειδί '{ $key }' ανακλήθηκε
+key-expired = Το κλειδί '{ $key }' έληξε
+msg-compose-internal-error = Παρουσιάστηκε εσωτερικό σφάλμα.
+msg-compose-cannot-save-draft = Σφάλμα κατά την αποθήκευση του προχείρου
+# Strings used in decryption.jsm
+do-import-multiple =
+    Εισαγωγή των ακόλουθων κλειδιών;
+    { $key }
+do-import-one = Εισαγωγή του { $name } ({ $id });
+cant-import = Σφάλμα κατά την εισαγωγή δημόσιου κλειδιού
+sig-mismatch = Σφάλμα - Αναντιστοιχία υπογραφής
+invalid-email = Σφάλμα - μη έγκυρη διεύθυνση(εις) email
+dlg-button-view = &Προβολή
+# Strings used in encryption.jsm
+not-required = Σφάλμα - δεν απαιτείται κρυπτογράφηση
+# Strings used in windows.jsm
+no-photo-available = Καμία διαθέσιμη φωτογραφία
+# Strings used in dialog.jsm
+repeat-prefix = Αυτή η ειδοποίηση θα επαναληφθεί { $count }
+repeat-suffix-singular = ακόμη φορά.
+repeat-suffix-plural = ακόμη φορές.
+no-repeat = Αυτή η ειδοποίηση δεν θα εμφανιστεί ξανά.
+dlg-keep-setting = Αποθήκευση απάντησης και να μην γίνει ξανά ερώτηση
+dlg-button-ok = &OK
+dlg-button-close = &Κλείσιμο
+dlg-button-cancel = &Ακύρωση
+dlg-no-prompt = Να μην εμφανιστεί αυτός ο διάλογος ξανά
+enig-confirm = Επιβεβαίωση OpenPGP
+enig-alert = Ειδοποίηση OpenPGP
+enig-info = Πληροφορίες OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Επανάληψη
+dlg-button-skip = &Παράλειψη
+# Strings used in enigmailCommon.js
+enig-error = Σφάλμα OpenPGP
+enig-alert-title =
+    .title = Ειδοποίηση OpenPGP
