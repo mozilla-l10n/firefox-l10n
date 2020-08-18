@@ -193,6 +193,7 @@ openpgp-key-details-fingerprint-label = Δακτυλικό αποτύπωμα
 openpgp-key-details-sel-action =
     .label = Επιλέξτε ενέργεια…
     .accesskey = Ε
+openpgp-key-details-also-known-label = Εικαζόμενες Εναλλακτικές Ταυτότητες του Κατόχου του Κλειδιού:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Κλείσιμο
 openpgp-acceptance-label =
@@ -205,6 +206,8 @@ openpgp-acceptance-unverified-label =
     .label = Ναι, αλλά δεν έχω επαληθεύσει ότι είναι το σωστό κλειδί.
 openpgp-acceptance-verified-label =
     .label = Ναι, έχω επαληθεύσει αυτοπροσώπως ότι αυτό το κλειδί έχει το σωστό αποτύπωμα.
+openpgp-personal-no-label =
+    .label = Όχι, να μην χρησιμοποιηθεί ως προσωπικό κλειδί μου.
 openpgp-copy-cmd-label =
     .label = Αντιγραφή
 
