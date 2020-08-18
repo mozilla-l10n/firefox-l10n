@@ -7,4 +7,7 @@ printui-title = Տպագրել
 printui-save-to-pdf-title = Պահել որպէս
 # Section title for the number of copies to print
 printui-copies-label = Պատճէնք
+printui-destination-pdf-label = Պահել ի PDF
+# Section title for miscellaneous print options
+printui-options = Ընտրանք
 printui-primary-button-save = Պահել
