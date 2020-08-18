@@ -206,24 +206,42 @@ openpgp-acceptance-unverified-label =
     .label = Ναι, αλλά δεν έχω επαληθεύσει ότι είναι το σωστό κλειδί.
 openpgp-acceptance-verified-label =
     .label = Ναι, έχω επαληθεύσει αυτοπροσώπως ότι αυτό το κλειδί έχει το σωστό αποτύπωμα.
+key-accept-personal =
+    Για αυτό το κλειδί, έχετε τόσο το δημόσιο όσο και το μυστικό μέρος. Μπορείτε να το χρησιμοποιήσετε ως προσωπικό κλειδί.
+    Εάν αυτό το κλειδί σάς δόθηκε από κάποιον τρίτο, τότε μην το χρησιμοποιήσετε ως προσωπικό κλειδί.
+key-personal-warning = Δημιουργήσατε εσείς αυτό το κλειδί και η ιδιοκτησία κλειδιού που εμφανίζεται αναφέρεται σε εσάς;
 openpgp-personal-no-label =
     .label = Όχι, να μην χρησιμοποιηθεί ως προσωπικό κλειδί μου.
+openpgp-personal-yes-label =
+    .label = Ναι, να αντιμετωπιστεί το κλειδί ως προσωπικό κλειδί.
 openpgp-copy-cmd-label =
     .label = Αντιγραφή
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Το Thunderbird δεν έχει ένα προσωπικό κλειδί OpenPGP για <b>{ $identity }</b>
+        [one] Το Thunderbird βρήκε { $count } προσωπικό κλειδί OpenPGP που είναι συσχετισμένο με <b>{ $identity }</b>
+       *[other] Το Thunderbird βρήκε { $count } προσωπικά κλειδιά OpenPGP που είναι συσχετισμένα με <b>{ $identity }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Η τρέχουσα διαμόρφωσή σας χρησιμοποιεί το κλειδί <b>{ $key }</b>, το οποίο έχει λήξει.
 openpgp-add-key-button =
     .label = Προσθήκη κλειδιού…
     .accesskey = Π
 e2e-learn-more = Μάθετε περισσότερα
 openpgp-keygen-success = Επιτυχής δημιουργία κλειδιού OpenPGP!
 openpgp-keygen-import-success = Επιτυχής εισαγωγή κλειδιών OpenPGP!
+openpgp-keygen-external-success = Το εξωτερικό αναγνωριστικό κλειδιού GnuPG αποθηκεύτηκε!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Κανένα
+openpgp-radio-none-desc = Να μην χρησιμοποιηθεί OpenPGP για αυτή την ταυτότητα.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Λήγει στις: { $date }
 openpgp-key-expires-image =
@@ -237,21 +255,29 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Ανάκληση κλειδιού
 openpgp-key-edit-title = Αλλαγή κλειδιού OpenPGP
 openpgp-key-edit-date-title = Επέκταση ημερομηνίας λήξης
+openpgp-manager-description = Να χρησιμοποιείται η Διαχείριση Κλειδιών OpenPGP για εμφάνιση και διαχείριση των δημόσιων κλειδιών των επιστολογράφων σας και των υπόλοιπων κλειδιών που δεν εμφανίζονται παραπάνω.
 openpgp-manager-button =
     .label = Διαχείριση κλειδιών OpenPGP
     .accesskey = κ
+openpgp-key-remove-external =
+    .label = Αφαίρεση Εξωτερικού Αναγνωριστικού Κλειδιού
+    .accesskey = φ
 key-external-label = Εξωτερικό κλειδί GnuPG
 # Strings in keyDetailsDlg.xhtml
 key-type-public = δημόσιο κλειδί
 key-type-primary = κύριο κλειδί
+key-type-subkey = υποκλειδί
+key-type-pair = ζεύγος κλειδιού (ιδιωτικό κλειδί και δημόσιο κλειδί)
 key-expiry-never = ποτέ
 key-usage-encrypt = Κρυπτογράφηση
 key-usage-sign = Υπογραφή
 key-usage-certify = Πιστοποίηση
+key-usage-authentication = Αυθεντικοποίηση
 key-does-not-expire = Το κλειδί δεν λήγει
 key-expired-date = Το κλειδί έληξε στις { $keyExpiry }
 key-expired-simple = Το κλειδί έχει λήξει
 key-revoked-simple = Το κλειδί ανακλήθηκε
+key-do-you-accept = Αποδέχεστε αυτό το κλειδί για την επαλήθευση ψηφιακών υπογραφών και για την κρυπτογράφηση μηνυμάτων;
 # Strings in keyserver.jsm
 keyserver-error-aborted = Ακυρώθηκε
 keyserver-error-unknown = Προέκυψε άγνωστο σφάλμα
