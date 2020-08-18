@@ -7,7 +7,6 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Casowy wótrězk za lašowanje: ">
 <!ENTITY clearTimeDuration.accesskey      "w">
 <!ENTITY clearTimeDuration.lastHour       "Slědna góźina">
@@ -18,13 +17,15 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Drobnostki">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
+
+<!ENTITY historyGroup.label                "Historija">
 
 <!ENTITY itemHistory.label                 "Pśeglědowańska historija">
 <!ENTITY itemHistory.accesskey             "l">
@@ -32,10 +33,10 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Pufrowak">
 <!ENTITY itemCache.accesskey               "u">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Toś ta akcija njedajo se anulěrowaś.">
 
 <!ENTITY dialog.width                 "28em">
