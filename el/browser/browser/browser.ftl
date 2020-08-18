@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ιδιωτική Περιήγηση)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ιδιωτική Περιήγηση)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ιδιωτική Περιήγηση)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ιδιωτική Περιήγηση)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI για αυτή την ιστοσελίδα.
 urlbar-install-blocked =
     .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτή την ιστοσελίδα.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Επεξεργασία σελιδοδείκτη ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Αυτή τη φορά, αναζήτηση με:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Αλλαγή ρυθμίσεων αναζήτησης
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Αλλαγή ρυθμίσεων αναζήτησης
-
 search-one-offs-context-open-new-tab =
     .label = Αναζήτηση σε νέα καρτέλα
     .accesskey = T
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ορίστε ως προεπιλεγμένη μηχανή αναζήτησης για ιδιωτικά παράθυρα
     .accesskey = ι
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Εμφάνιση επεξεργαστή κατά την αποθήκευση
     .accesskey = Ε
-
 bookmark-panel-done-button =
     .label = Τέλος
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = Μοιραστείτε το μικρόφωνο:
     .accesskey = Μ
 popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.
-
 popup-screen-sharing-not-now =
     .label = Όχι τώρα
     .accesskey = ρ
-
 popup-screen-sharing-never =
     .label = Να μην επιτρέπεται ποτέ
     .accesskey = Ν
-
 popup-silence-notifications-checkbox = Απενεργοποίηση ειδοποιήσεων από το { -brand-short-name } κατά την κοινή χρήση
 popup-silence-notifications-checkbox-warning = Το { -brand-short-name } δεν θα εμφανίζει ειδοποιήσεις κατά την κοινή χρήση.
 
@@ -326,17 +314,42 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Για να χρησιμοποιήσετε τη συντόμευση F12, ανοίξτε πρώτα τα DevTools μέσω του μενού προγραμματιστών ιστού.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Αναζήτηση στο διαδίκτυο
+    .aria-label = Αναζήτηση με { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Εισάγετε όρους αναζήτησης
+    .aria-label = Αναζήτηση { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Εισάγετε όρους αναζήτησης
+    .aria-label = Αναζήτηση σελιδοδεικτών
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Εισάγετε όρους αναζήτησης
+    .aria-label = Αναζήτηση ιστορικού
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Εισάγετε όρους αναζήτησης
+    .aria-label = Αναζήτηση καρτελών
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -347,11 +360,9 @@ urlbar-permissions-granted =
     .tooltiptext = Έχετε χορηγήσει πρόσθετα δικαιώματα σε αυτή την ιστοσελίδα.
 urlbar-switch-to-tab =
     .value = Μετάβαση σε καρτέλα:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Επέκταση:
-
 urlbar-go-button =
     .tooltiptext = Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων
 urlbar-page-action-button =
