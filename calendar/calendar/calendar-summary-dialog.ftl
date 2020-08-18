@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 calendar-summary-dialog-edit-button =
-    .label = Правка
-    .accesskey = а
+    .label = Изменить
+    .accesskey = м
 calendar-summary-dialog-edit-menu-button =
-    .label = Правка
+    .label = Изменить
 edit-button-context-menu-this-occurrence =
     .label = Изменить только это повторение
     .accesskey = о
