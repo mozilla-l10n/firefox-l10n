@@ -24,7 +24,7 @@ openpgp-keygen-years-label =
     .label = lět
 openpgp-keygen-advanced-title = Rozšěrjene nastajenja
 openpgp-keygen-keytype =
-    .value = KLučowy typ:
+    .value = Klučowy typ:
     .accesskey = t
 openpgp-keygen-keysize =
     .value = Wulkosć kluča:
@@ -53,7 +53,7 @@ openpgp-import-fingerprint-label = Porstowy wotćišć
 openpgp-import-created-label = Wutworjeny
 openpgp-import-bits-label = Bity
 openpgp-import-key-props =
-    .label = KLučowe kajkosće
+    .label = Klučowe kajkosće
     .accesskey = K
 
 ## External Key section
