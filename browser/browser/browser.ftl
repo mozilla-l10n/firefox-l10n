@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (అంతరంగిక విహారణ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (అంతరంగిక విహారణ)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (అంతరంగిక విహారణ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (అంతరంగిక విహారణ)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -143,12 +141,10 @@ urlbar-midi-blocked =
     .tooltiptext = MIDI సౌలభ్యాన్ని పొందకుండా ఈ వెబ్‌సైటుని మీరు నిరోధించారు.
 urlbar-install-blocked =
     .tooltiptext = ఈ వెబ్‌సైటు పొడగింతలను స్థాపించకుండా మీరు నిరోధించి ఉన్నారు.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ఈ ఇష్టాంశమును సవరించు ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -179,14 +175,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ఈ సారి దీనితో వెతుకు:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = వెతుకుడు అమరికలు
 search-one-offs-change-settings-compact-button =
     .tooltiptext = వెతుకుడు అమరికలను మార్చుకోండి
-
 search-one-offs-context-open-new-tab =
     .label = కొత్త ట్యాబులో వెతుకు
     .accesskey = T
@@ -196,7 +190,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = అంతరంగిక కిటికీల కోసం అప్రమేయ శోధనయంత్రంగా అమర్చు
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -223,10 +216,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = భద్రపరుస్తున్నప్పుడు ఎడిటర్‌ను చూపించు
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = పూర్తయింది
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -255,6 +246,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = ఈ సైటుకి మీరు సురక్షితంగా అనుసంధానం కాలేదు.
 identity-connection-verified = ఈ సైటుకు మీరు సురక్షితంగా అనుసంధానమయ్యారు.
 identity-ev-owner-label = ధ్రువపత్రం వీరికి జారీ అయ్యింది:
+identity-description-custom-root = ఈ ధ్రువత్రపు జారీదారు మొజిల్లాకు తెలియనివారు. ఇది మీ నిర్వాహక వ్యవస్థ నుండి లేదా నిర్వాహకుడిచే చేర్చబడి ఉండవచ్చు. <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
 identity-remove-cert-exception =
     .label = మినహాయింపును తొలగించు
     .accesskey = R
@@ -297,11 +289,9 @@ popup-select-microphone =
     .value = పంచుకోవాల్సిన మైక్రోఫోన్:
     .accesskey = M
 popup-all-windows-shared = మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.
-
 popup-screen-sharing-not-now =
     .label = ఇప్పుడు కాదు
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = ఎప్పటికీ అనుమతించవద్దు
     .accesskey = N
@@ -318,12 +308,10 @@ sharing-warning-disable-for-session =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -334,11 +322,9 @@ urlbar-permissions-granted =
     .tooltiptext = ఈ వెబ్‌సైటుకి మీరు అదనపు అనుమతులు ఇచ్చివున్నారు.
 urlbar-switch-to-tab =
     .value = ట్యాబుకు మారు:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = పొడిగింత:
-
 urlbar-go-button =
     .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
 urlbar-page-action-button =

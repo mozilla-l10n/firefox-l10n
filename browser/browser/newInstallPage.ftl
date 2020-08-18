@@ -9,14 +9,12 @@
 
 title = ముఖ్యమైన వార్తలు
 heading = మీ { -brand-short-name } ప్రొఫైలుకి మార్పులు
-
 changed-title = ఏమి మారింది?
-
 options-title = నా ఎంపికలు ఏమిటి?
-
+options-do-nothing = మీరు ఏమీ చేయకపోతే, { -brand-short-name } లోని మీ ప్రొఫైల్ డేటా ఇతర Firefox స్థాపనల ప్రొఫైలు డేటా నుండి వేరుగా ఉంటుంది.
+options-use-sync = అన్ని Firefox స్థాపనలలోనూ మీ ప్రొఫైలు డేటా అంతా ఒకటిగా ఉండాలనుకుంటే, వాటన్నిటినీ సింక్రనించుకోడానికి మీరు { -fxaccount-brand-name } వాడుకోవచ్చు.
 resources = వనరులు:
 support-link = ప్రొఫైల్ మేనేజర్ వాడుకోవడం - తోడ్పాటు వ్యాసం
-
 sync-header = ప్రవేశించండి లేదా { -fxaccount-brand-name } సృష్టించుకోండి
 sync-label = మీ ఈమెయిలును ఇవ్వండి
 sync-input =
