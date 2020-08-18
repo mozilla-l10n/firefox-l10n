@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } （隐私浏览）
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } （隐私浏览）
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - （隐私浏览）
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - （隐私浏览）
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = 您已阻止此网站访问 MIDI。
 urlbar-install-blocked =
     .tooltiptext = 您已阻止此网站安装附加组件。
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = 编辑此书签 ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 请选择这次要用的搜索引擎：
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = 更改搜索设置
 search-one-offs-change-settings-compact-button =
     .tooltiptext = 更改搜索设置
-
 search-one-offs-context-open-new-tab =
     .label = 在新标签页中搜索
     .accesskey = T
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = 设为隐私窗口的默认搜索引擎
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = 保存时显示编辑器
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = 完成
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = 共享的麦克风：
     .accesskey = M
 popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享。
-
 popup-screen-sharing-not-now =
     .label = 暂时不要
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = 永不允许
     .accesskey = N
-
 popup-silence-notifications-checkbox = 共享时，不显示 { -brand-short-name } 的通知
 popup-silence-notifications-checkbox-warning = { -brand-short-name } 将不会在共享时显示通知。
 
@@ -326,17 +314,42 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = 请通过“Web 开发者”菜单打开开发者工具，才能使用 F12 快捷键。
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = 搜索或输入网址
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 搜索或输入网址
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = 网上搜索
+    .aria-label = 使用 { $name } 搜索
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = 输入搜索词
+    .aria-label = 搜索 { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = 输入搜索词
+    .aria-label = 搜索书签
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = 输入搜索词
+    .aria-label = 搜索历史记录
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = 输入搜索词
+    .aria-label = 搜索标签页
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -347,11 +360,9 @@ urlbar-permissions-granted =
     .tooltiptext = 您已授予此站点更多权限。
 urlbar-switch-to-tab =
     .value = 切换到标签页：
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 扩展：
-
 urlbar-go-button =
     .tooltiptext = 转到地址栏中指向的网址
 urlbar-page-action-button =
