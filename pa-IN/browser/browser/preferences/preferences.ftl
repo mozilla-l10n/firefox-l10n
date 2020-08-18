@@ -84,7 +84,7 @@ extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 
 extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } ਇਕਸਟੈਨਸਨ ਤੁਹਾਡੇ ਨਵੀਂ ਟੈਬ ਸਫ਼ੇ ਨੂੰ ਕੰਟੋਰਲ ਕਰ ਰਹੀ ਹੈ।
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlled-password-saving = ਇਕਸਟੈਨਸ਼ਨ <img data-l10n-name="icon"/> { $name } ਇਹ ਸੈਟਿੰਗ ਕੰਟਰੋਲ ਕਰ ਰਹੀ ਹੈ।
+extension-controlled-password-saving = ਇਕਸਟੈਨਸ਼ਨ <img data-l10n-name="icon"/> { $name } ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਰਹੀ ਹੈ।
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = ਇਕਸਟੈਨਸ਼ਨ, <img data-l10n-name="icon"/> { $name } ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਰਹੀ ਹੈ।
@@ -398,6 +398,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਹੱਦ
     .accesskey = L
 performance-limit-content-process-enabled-desc = ਵੱਖ-ਵੱਖ ਟੈਬਾਂ ਵਰਤਣ ਦੇ ਦੌਰਾਨ ਵਧੀਕ ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਨਾਲ ਕਾਰਗੁਜ਼ਾਰੀ ਸੁਧਰ ਸਕਦੀ ਹੈ, ਪਰ ਇਸ ਨਾਲ ਵੱਧ ਮੈਮੋਰੀ ਵੀ ਵਰਤੀ ਜਾਵੇਗੀ।
+performance-limit-content-process-blocked-desc = ਸਮੱਗਰੀ ਪਰੋਸੈਸਾਂ ਦੀ ਸੰਖਿਆ ਨੂੰ ਬਦਲਣਾ ਮਲਟੀ-ਪਰੋਸੈਸ { -brand-short-name } ਨਾਲ ਹੀ ਸੰਭਵ ਹੈ। <a data-l10n-name="learn-more">ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ ਪਤਾ ਕਰੀਏ ਕਿ ਮਲਟੀ-ਪਰੋਸੈਸ ਸਮਰੱਥ ਹੈ</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -779,6 +780,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = ਪਹਿਲਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਜੋਂ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ
+forms-primary-pw-fips-title = ਤੁਸੀਂ ਇਸ ਵੇਲੇ FIPS ਮੋਡ ਵਿੱਚ ਹੋ। FIPS ਨੂੰ ਨਾ ਖਾਲੀ ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ।
 forms-master-pw-fips-desc = ਪਾਸਵਰਡ ਨੂੰ ਬਦਲਣਾ ਫੇਲ੍ਹ ਹੋਇਆ
 
 ## OS Authentication dialog
@@ -1103,13 +1105,20 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ਲਈ ਡਿਸਕ ਥਾਂ ਖਤਮ ਹੋ ਗਈ ਹੈ। ਵੈਬਸਾਈਟ ਸਮੱਗਰੀ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਾ ਜਾ ਸਕੇ। ਤੁਸੀਂ ਚੋਣਾਂ > ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ > ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ, ਵਿੱਚ ਸਟੋਰ ਕੀਤਾ ਡਾਟਾ ਮਿਟਾ ਸਕਦੇ ਹੋ।
+       *[other] { -brand-short-name } ਲਈ ਡਿਸਕ ਥਾਂ ਖਤਮ ਹੋ ਗਈ ਹੈ। ਵੈਬਸਾਈਟ ਸਮੱਗਰੀ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਾ ਜਾ ਸਕੇ। ਤੁਸੀਂ ਪਸੰਦਾਂ > ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ > ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ, ਵਿੱਚ ਸਟੋਰ ਕੀਤਾ ਡਾਟਾ ਮਿਟਾ ਸਕਦੇ ਹੋ।
+    }
 space-alert-under-5gb-ok-button =
     .label = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
     .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } ਲਈ ਡਿਸਕ ਥਾਂ ਖਤਮ ਹੋ ਗਈ ਹੈ। ਵੈਬਸਾਈਟ ਸਮੱਗਰੀ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਾ ਜਾ ਸਕੇ। ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਬਿਹਤਰ ਤਜਰਬੇ ਲਈ ਆਪਣੀ ਡਿਸਕ ਦੀ ਵਰਤੋਂ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ “ਹੋਰ ਜਾਣੋ” ‘ਤੇ ਜਾਓ।
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = ਸਿਰਫ਼-HTTPS ਮੋਡ
+httpsonly-description = HTTPS { -brand-short-name } ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਵੈਬਸਾਈਟਾਂ ਵਿਚਾਲੇ ਇੱਕ ਸੁਰੱਖਿਅਤ, ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਕਨੈਕਸ਼ਨ ਦਿੰਦਾ ਹੈ। ਬਹੁਤੀਆਂ ਵੈਬਸਾਈਟਾਂ HTTPS ਦਾ ਸਮਰਥਨ ਕਰਦੀਆਂ ਹਨ, ਅਤੇ ਜੇ ਸਿਰਫ-HTTPS ਮੋਡ ਸਮਰੱਥ ਹੈ ਤਾਂ { -brand-short-name } ਸਾਰੇ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ HTTPS ਵਿੱਚ ਅਪਗਰੇਡ ਕਰੇਗਾ।
 httpsonly-learn-more = ਹੋਰ ਜਾਣੋ
 httpsonly-radio-enabled =
     .label = ਸਾਰੀਆੰ ਵਿੰਡੋ ਵਿੱਚ ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਕਰੋ
