@@ -21,12 +21,15 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+
 ## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
@@ -45,6 +48,7 @@ onboarding-cards-dismiss =
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-lockwise-strong-passwords-button = Upravljanje prijavama
 
 ## Message strings belonging to the Return to AMO flow
 

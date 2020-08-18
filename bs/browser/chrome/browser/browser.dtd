@@ -42,10 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Prikaz preko cijelog ekrana">
 
-
-<!-- } is above this key on many keyboards -->
-
-
 <!ENTITY pictureInPictureHideToggle.label "Sakrij preklop sa slike u sliku">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -55,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; postavke">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži drugi uređaj…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Prijava u &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Uključi &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; servisi">
@@ -101,7 +96,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "Štampaj">
 <!ENTITY printButton.tooltip          "Štampaj ovu stranicu">
 
-
 <!ENTITY searchItem.title             "Pretraga">
 
 <!-- Toolbar items -->
@@ -132,13 +126,13 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 
-
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newPrivateWindow.label     "Novi privatni prozor">
 
 <!ENTITY editMenu.label         "Uredi">
 <!ENTITY preferencesCmd2.label       "Opcije">
 <!ENTITY preferencesCmdUnix.label       "Postavke">
+<!ENTITY logins.label                           "Prijave i lozinke">
 
 <!ENTITY overflowCustomizeToolbar.label       "Prilagodi alatnu traku…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -185,7 +179,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj u alatnu traku">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Dodaj u dodatni meni">
@@ -196,9 +190,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj više stavki…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -220,14 +211,6 @@ this container is a toolbar. This avoids double-speaking. -->
   "Pocket" is a brand name. -->
 
 <!ENTITY emailPageCmd.label           "Pošalji link emailom…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zumiraj">
 
@@ -254,29 +237,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
-
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabovi browsera">
@@ -284,25 +244,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Automatski sakrij">
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 
 <!ENTITY uiTour.infoPanel.close "Zatvori">
