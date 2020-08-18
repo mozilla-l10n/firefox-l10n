@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Приватный просмотр)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Приватный просмотр)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Приватный просмотр)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Приватный просмотр)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Вы заблокировали доступ этого веб-сайта к MIDI.
 urlbar-install-blocked =
     .tooltiptext = Вы заблокировали установку дополнений с этого веб-сайта.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Редактировать эту закладку ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = В этот раз искать с помощью:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Изменить настройки поиска
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Изменить параметры поиска
-
 search-one-offs-context-open-new-tab =
     .label = Искать в новой вкладке
     .accesskey = а
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Использовать данную поисковую систему по умолчанию в Приватных окнах
     .accesskey = З
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Показывать редактор при сохранении
     .accesskey = ы
-
 bookmark-panel-done-button =
     .label = Готово
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = Доступ к микрофону:
     .accesskey = м
 popup-all-windows-shared = Будет предоставлен доступ ко всем видимым окнам на вашем экране.
-
 popup-screen-sharing-not-now =
     .label = Не сейчас
     .accesskey = е
-
 popup-screen-sharing-never =
     .label = Никогда не разрешать
     .accesskey = и
-
 popup-silence-notifications-checkbox = Отключить уведомления от { -brand-short-name } если к нему предоставлен доступ
 popup-silence-notifications-checkbox-warning = { -brand-short-name } не будет отображать уведомления, пока к нему предоставлен доступ.
 
@@ -326,17 +314,42 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Чтобы использовать клавишу F12, сначала откройте Инструменты разработчика через меню Веб-разработка.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Введите поисковый запрос или адрес
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Введите поисковый запрос или адрес
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Искать в Интернете
+    .aria-label = Поиск с помощью { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Введите поисковый запрос
+    .aria-label = Поиск в { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Введите поисковый запрос
+    .aria-label = Поиск в закладках
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Введите поисковый запрос
+    .aria-label = Поиск в истории
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Введите поисковый запрос
+    .aria-label = Поиск во вкладках
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -347,11 +360,9 @@ urlbar-permissions-granted =
     .tooltiptext = Вы предоставили этому веб-сайту дополнительные разрешения.
 urlbar-switch-to-tab =
     .value = Перейти на вкладку:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Расширение:
-
 urlbar-go-button =
     .tooltiptext = Перейти по введённому адресу
 urlbar-page-action-button =
