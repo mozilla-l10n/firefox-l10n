@@ -56,3 +56,7 @@ printui-primary-button-save = Salva
 printui-cancel-button = Annulla
 
 printui-loading = Preparazione anteprima
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Il ridimensionamento deve essere un numero compreso tra 10 e 200.
