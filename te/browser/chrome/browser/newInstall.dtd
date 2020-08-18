@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "ముఖ్యమైన వార్తలు">
+<!ENTITY window.style "width: 500px">
 <!ENTITY continue-button "కొనసాగించు">
 
