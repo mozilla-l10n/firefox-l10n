@@ -278,21 +278,36 @@ key-expired-date = Το κλειδί έληξε στις { $keyExpiry }
 key-expired-simple = Το κλειδί έχει λήξει
 key-revoked-simple = Το κλειδί ανακλήθηκε
 key-do-you-accept = Αποδέχεστε αυτό το κλειδί για την επαλήθευση ψηφιακών υπογραφών και για την κρυπτογράφηση μηνυμάτων;
+key-accept-warning = Να αποφεύγετε την αποδοχή άγνωστου-μη έμπιστου κλειδιού. Χρησιμοποιήστε ένα κανάλι επικοινωνίας διαφορετικό της ηλεκτρονικής αλληλογραφίας για να επαληθεύσετε το δακτυλικό αποτύπωμα του κλειδιού του επιστολογράφου σας.
+window-locked = Το παράθυρο σύνθεσης είναι κλειδωμένο· η αποστολή ακυρώθηκε
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Κρυπτογραφημένο μέρος μηνύματος
+mime-decrypt-encrypted-part-concealed-data = Αυτό είναι ένα τμήμα κρυπτογραφημένου μηνύματος. Πρέπει να το ανοίξετε σε ξεχωριστό παράθυρο κάνοντας κλικ στο συνημμένο.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Ακυρώθηκε
 keyserver-error-unknown = Προέκυψε άγνωστο σφάλμα
 keyserver-error-server-error = Ο διακομιστής κλειδιών ανέφερε σφάλμα.
 keyserver-error-import-error = Αποτυχία εισαγωγής ληφθέντος κλειδιού.
 keyserver-error-unavailable = Ο διακομιστής κλειδιών δεν είναι διαθέσιμος.
+keyserver-error-security-error = Ο διακομιστής κλειδιών δεν υποστηρίζει κρυπτογραφημένη πρόσβαση.
+keyserver-error-certificate-error = Το πιστοποιητικό του διακομιστή κλειδιών δεν είναι έγκυρο.
+keyserver-error-unsupported = Ο διακομιστής κλειδιών δεν υποστηρίζεται.
+# Strings in gpg.jsm
+unknown-signing-alg = Άγνωστος αλγόριθμος υπογραφής (Αναγνωριστικό: { $id })
+unknown-hash-alg = Άγνωστος κρυπτογραφικός κατακερματισμός (Αναγνωριστικό: { $id })
 expiry-open-key-manager = Άνοιγμα διαχείρισης κλειδιών OpenPGP
+filter-key-required = Πρέπει να επιλέξετε ένα κλειδί παραλήπτη.
+filter-key-not-found = Δεν ήταν δυνατή η εύρεση ενός κλειδιού κρυπτογράφησης για το '{ $desc }'.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Οριστική αποκρυπτογράφηση (OpenPGP)
+filter-encrypt-label = Κρυπτογράφηση με το κλειδί (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Επιτυχία! Τα κλειδιά εισήχθησαν
 import-info-bits = Bits
 import-info-created = Δημιουργήθηκε
 import-info-fpr = Δακτυλικό αποτύπωμα
+import-info-no-keys = Δεν εισήχθηκαν κλειδιά.
 # Strings in enigmailKeyManager.js
 import-from-clip = Θέλετε να εισάγετε μερικά κλειδιά από το πρόχειρο;
 delete-pub-key =
