@@ -241,6 +241,10 @@ shortcuts-letter = ਅੱਖਰ ਲਿਖੋ
 shortcuts-system = { -brand-short-name } ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਅਣਡਿੱਠਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } ਨੂੰ ਇੱਕ ਤੋਂ ਵੱਧ ਹਾਲਤਾਂ ਵਿੱਚ ਸ਼ਾਰਟਕੱਟ ਵਜੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ ਬੇਉਮੀਦ ਰਵੱਈਏ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੇ ਹਨ।
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -364,6 +368,7 @@ install-update-button = ਅੱਪਡੇਟ ਕਰੋ
 addon-badge-private-browsing-allowed2 =
     .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦਿਓ
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = ਜਦੋਂ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਵੀ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
 addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
