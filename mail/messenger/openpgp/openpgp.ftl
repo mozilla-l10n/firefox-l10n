@@ -450,3 +450,54 @@ key-trust-ultimate = უკიდურესი
 key-trust-group = (ჯგუფი)
 # Strings used in commonWorkflows.js
 import-key-file = OpenPGP-გასაღების ფაილის შეტანა
+import-rev-file = OpenPGP-გაუქმების ფაილის შეტანა
+gnupg-file = GnuPG-ფაილები
+import-keys-failed = გასაღებების შეტანა ვერ მოხერხდა
+passphrase-prompt = შეიყვანეთ საიდუმლო ფრაზა, რომელიც გახსნის გასაღებს: { $key }
+file-to-big-to-import = ფაილი ზედმეტად დიდია. გთხოვთ, არ შეიტანოთ გასაღებების დიდი კრებული ერთბაშად.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = შექმნა და შენახვა გაუქმების სერტიფიკატის
+revoke-cert-failed = გაუქმების სერტიფიკატის შექმნა შეუძლებელია.
+gen-going = გასაღების შედგენა უკვე მიმდინარეობს!
+keygen-missing-user-name = სახელი არაა მითითებული ამ ანგარიშისთვის/ვინაობისთვის. გთხოვთ, შეიყვანოთ მნიშვნელობა ველში  „თქვენი სახელი“ ანგარიშის პარამეტრებიდან.
+expiry-too-short = თქვენი გასაღების ვადა, ერთ დღეზე არანაკლები უნდა იყოს.
+expiry-too-long = შეუძლებელია გასაღების შექმნა, 100 წელზე მეტი ვადით.
+key-confirm = გსურთ შედგენა საჯარო და საიდუმლო გასაღების ანგარიშისთვის „{ $id }“?
+key-man-button-generate-key = გასაღების &შედგენა
+key-abort = შეწყდეს გასაღების შედგენა?
+key-man-button-generate-key-abort = &შეწყდეს გასაღების შედგენა?
+key-man-button-generate-key-continue = &გაგრძელდეს გასაღების შედგენა
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = შეცდომა – გაშიფვრა ვერ მოხერხდა
+msg-ovl-button-cont-anyway = &გაგრძელდეს მაინც
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = წერილის &გაგზავნა
+msg-compose-details-button-label = ვრცლად…
+msg-compose-details-button-access-key = ვ
+send-aborted = გაგზავნა შეწყდა.
+dlg-button-view = &ხედი
+# Strings used in windows.jsm
+no-photo-available = ფოტო არაა ხელმისაწვდომი
+error-photo-path-not-readable = ფოტოს მდებარეობა „{ $photo }“ არ იკითხება
+debug-log-title = OpenPGP გამართვის ჩანაწერები
+# Strings used in dialog.jsm
+repeat-prefix = ეს ცნობა გამეორდება { $count }
+repeat-suffix-singular = -ხელ კიდევ.
+repeat-suffix-plural = -ჯერ კიდევ.
+no-repeat = ეს ცნობა აღარ გამოჩნდება.
+dlg-keep-setting = პასუხის დამახსოვრება, მომავალში შეკითხვის გარეშე
+dlg-button-ok = &კარგი
+dlg-button-close = &დახურვა
+dlg-button-cancel = &გაუქმება
+dlg-no-prompt = აღარ გამოჩნდეს ეს ფანჯარა
+enig-prompt = OpenPGP მოთხოვნა
+enig-confirm = OpenPGP დადასტურება
+enig-alert = OpenPGP ცნობა
+enig-info = OpenPGP მონაცემები
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &გამეორება
+dlg-button-skip = &გამოტოვება
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP შეცდომა
+enig-alert-title =
+    .title = OpenPGP ცნობა
