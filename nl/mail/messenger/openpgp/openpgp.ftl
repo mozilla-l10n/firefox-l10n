@@ -290,6 +290,7 @@ key-accept-warning = Accepteer geen frauduleuze sleutel. Gebruik een ander commu
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kan het bericht niet verzenden, omdat er een probleem is met uw persoonlijke sleutel. { $problem }
 cannot-encrypt-because-missing = Kan dit bericht niet verzenden met end-to-end-versleuteling, omdat er problemen zijn met de sleutels van de volgende ontvangers: { $problem }
+window-locked = Het opstelvenster is vergrendeld; verzenden geannuleerd
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Versleuteld berichtgedeelte
 mime-decrypt-encrypted-part-concealed-data = Dit is een versleuteld berichtgedeelte. U moet het in een apart venster openen door op de bijlage te klikken.
