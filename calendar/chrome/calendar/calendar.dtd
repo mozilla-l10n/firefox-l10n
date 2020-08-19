@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Creu digwyddiad newydd" >
 <!ENTITY calendar.newtask.button.tooltip          "Creu tasg newydd" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Tasgau" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Dangos Tasgau wedi eu cwblhau">
 
 <!ENTITY calendar.today.button.label          "Heddiw">
@@ -329,8 +327,8 @@
 <!ENTITY calendar.alarm.snoozefor.label             "Cysgu am" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Cysgu Popeth am" >
 <!ENTITY calendar.alarm.title.label                 "Atgoffwyr Calendr" >
-<!ENTITY calendar.alarm.dismiss.label               "Gwrthod" >
-<!ENTITY calendar.alarm.dismissall.label            "Gwrthod Popeth" >
+<!ENTITY calendar.alarm.dismiss.label               "Cau" >
+<!ENTITY calendar.alarm.dismissall.label            "Cau Popeth" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 Munud" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 Munud" >
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Lliw:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Fformat:">
 <!ENTITY calendarproperties.location.label                 "Lleoliad:">
 <!ENTITY calendarproperties.refreshInterval.label          "Adnewyddu'r Calendr:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Darllen yn Unig">
 <!ENTITY calendarproperties.firealarms.label               "Dangos Atgoffwyr">
 <!ENTITY calendarproperties.cache3.label                   "Cefnogaeth All-lein">
-<!ENTITY calendarproperties.enabled.label                  "Newid y calendr yma ar">
 <!ENTITY calendarproperties.enabled2.label                 "Galluogi'r Calendr hwn">
 <!ENTITY calendarproperties.forceDisabled.label            "Nid oes modd canfod darparwr y calendr hwn. Mae hyn yn digwydd yn aml os ydych wedi anablu neu ddadosod rhai ychwanegion.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dad-danysgrifio">
