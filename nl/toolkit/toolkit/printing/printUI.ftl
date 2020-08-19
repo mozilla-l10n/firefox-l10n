@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Afdrukken
-
+# Dialog title to prompt the user for a filename to save print to PDF.
+printui-save-to-pdf-title = Opslaan als
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -11,7 +12,6 @@ printui-sheets-count =
         [one] { $sheetCount } pagina
        *[other] { $sheetCount } pagina’s
     }
-
 printui-page-range-all = Alle
 printui-page-range-custom = Aangepast
 printui-page-range-label = Pagina’s
@@ -19,33 +19,27 @@ printui-page-range-picker =
     .aria-label = Paginabereik kiezen
 printui-page-custom-range =
     .aria-label = Aangepast paginabereik invoeren
-
 # Section title for the number of copies to print
 printui-copies-label = Kopieën
-
 printui-orientation = Oriëntatie
 printui-landscape = Liggend
 printui-portrait = Staand
-
 # Section title for the printer or destination device to target
 printui-destination-label = Uitvoerapparaat
-
+printui-destination-pdf-label = Opslaan als PDF
 printui-more-settings = Meer instellingen
 printui-less-settings = Minder instellingen
-
 # Section title (noun) for the print scaling options
 printui-scale = Schaal
 printui-scale-fit-to-page = Verkleinen tot papierformaat
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Schaal
-
 # Section title for miscellaneous print options
 printui-options = Opties
 printui-headers-footers-checkbox = Kop- en voetteksten afdrukken
 printui-backgrounds-checkbox = Achtergronden afdrukken
-
 printui-system-dialog-link = Afdrukken via het systeemdialoogvenster…
-
 printui-primary-button = Afdrukken
+printui-primary-button-save = Opslaan
 printui-cancel-button = Annuleren
-
+printui-loading = Voorbeeld voorbereiden
