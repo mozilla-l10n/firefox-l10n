@@ -15,7 +15,7 @@ rights-intro-point-6 = 특정 형식의 동영상 재생을 위해 { -brand-shor
 rights-webservices-header = { -brand-full-name } 웹 기반 정보 서비스
 rights-webservices = { -brand-full-name }는 이용자 조건에 따라 { -brand-short-name } 프로그램에서 웹 기반 서비스(이하 "서비"스)를 제공합니다. 제공 서비스를 이용하기 원하지 않으시면 기능을 중단할 수 있습니다. 다음 특정 서비스 중단 방법을 참고하세요.:<a data-l10n-name="mozilla-disable-service-link">자세히 보기</a> (기타 기능이나 서비스는 응용 프로그램 설정에서 해제할 수 있습니다.)
 rights-locationawarebrowsing = <strong>위치 정보 서비스: </strong>이 기능은 항상 여러분에게 확인을 합니다. 허가 없이 어떠한 위치 정보도 웹 서비스로 전송되지 않습니다. 하지만 이 기능 중단을 원하시면 아래의 절차를 이용하세요:
-rights-locationawarebrowsing-term-1 = 주소창에 about:config 입력 <code>검색항목에 geo.enabled 입력</code>
+rights-locationawarebrowsing-term-1 = 주소 표시 줄에 about:config 입력 <code>검색항목에 geo.enabled 입력</code>
 rights-locationawarebrowsing-term-2 = geo.enabled 항목을 더블 클릭
 rights-locationawarebrowsing-term-3 = geo.enabled 항목값이 false로 변경
 rights-locationawarebrowsing-term-4 = 위치 정보 서비스 기능 중단
