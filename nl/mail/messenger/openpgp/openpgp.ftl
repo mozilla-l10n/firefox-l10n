@@ -389,6 +389,10 @@ export-keypair-to-file = Geheime en publieke sleutel naar bestand exporteren
 export-secret-key = Wilt u de geheime sleutel opnemen in het opgeslagen OpenPGP-sleutelbestand?
 save-keys-ok = De sleutels zijn met succes opgeslagen
 save-keys-failed = Het opslaan van de sleutels is mislukt
+default-pub-key-filename = Export-van-openbare-sleutels
+default-pub-sec-key-filename = Reservekopie-van-geheime-sleutels
+refresh-key-warn = Waarschuwing: afhankelijk van het aantal sleutels en de verbindingssnelheid kan het vernieuwen van alle sleutels een behoorlijk langdurig proces zijn!
+preview-failed = Kan bestand met publieke sleutel niet lezen.
 general-error = Fout: { $reason }
 dlg-button-delete = &Verwijderen
 
@@ -404,6 +408,7 @@ key-ring-pub-key-expired = De sleutel { $userId } (sleutel-ID { $keyId }) is ver
 key-ring-key-disabled = De sleutel { $userId } (sleutel-ID { $keyId }) is uitgeschakeld; hij kan niet worden gebruikt.
 key-ring-key-invalid = De sleutel { $userId } (sleutel-ID { $keyId }) is niet geldig. Overweeg deze correct te verifiëren.
 key-ring-key-not-trusted = De sleutel { $userId } (sleutel-ID { $keyId }) wordt niet voldoende vertrouwd. Stel het vertrouwensniveau van uw sleutel in op ‘maximaal’ om deze te gebruiken voor ondertekening.
+key-ring-no-secret-key = Het lijkt erop dat u de geheime sleutel voor { $userId } (key ID { $keyId }) niet aan uw sleutelhanger hebt; u kunt de sleutel niet gebruiken om te ondertekenen.
 key-ring-pub-key-not-for-signing = De sleutel { $userId } (sleutel-ID { $keyId }) kan niet worden gebruikt voor ondertekening.
 key-ring-pub-key-not-for-encryption = De sleutel { $userId } (sleutel-ID { $keyId }) kan niet worden gebruikt voor versleuteling.
 key-ring-sign-sub-keys-revoked = Alle ondertekeningssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken.
@@ -445,3 +450,7 @@ delete-key-in-use-description = Kan niet doorgaan! De sleutel die u hebt geselec
 revoke-key-in-use-description = Kan niet doorgaan! De sleutel die u hebt geselecteerd voor intrekking wordt momenteel gebruikt door deze identiteit. Selecteer een andere sleutel of selecteer er geen en probeer het opnieuw.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Het e-mailadres ‘{ $keySpec }’ kan niet worden gekoppeld aan een sleutel aan uw sleutelhanger.
+key-error-key-id-not-found = De geconfigureerde sleutel-ID ‘{ $keySpec }’ kan niet worden gevonden aan uw sleutelhanger.
+key-error-not-accepted-as-personal = U heeft niet bevestigd dat de sleutel met ID ‘{ $keySpec }’ uw persoonlijke sleutel is.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = De geselecteerde functie is niet beschikbaar in de offlinemodus. Ga online en probeer het opnieuw.
