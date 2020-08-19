@@ -332,6 +332,9 @@ expiry-keys-missing-owner-trust =
     { $desc }.
     სასურველია, „You rely on certifications“ იყოს „ultimate“ გასაღების თვისებებში.
 expiry-open-key-manager = OpenPGP-გასაღების მმართველის გახსნა
+expiry-open-key-properties = გასაღების პარამეტრების გახსნა
+# Strings filters.jsm
+filter-folder-required = აუცილებელია სასურველი საქაღალდის მითითება.
 import-info-details = მონაცემების ნახვა და დაშვების მართვა
 
 ## Account settings export output
