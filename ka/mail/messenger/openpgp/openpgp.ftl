@@ -315,6 +315,13 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = ხელმოწერის უცნობი ალგორითმი (ID: { $id })
 unknown-hash-alg = უცნობი კრიპტოგრაფიული ჰეში (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    თქვენი გასაღების { $desc } ვადა ამოიწურება { $days } დღეში.
+    გირჩევთ შექმნათ ახალი წყვილი გასაღებების და გამართოთ შესაბამისი ანგარიშები მათ გამოსაყენებლად.
+expiry-keys-expire-soon =
+    მოცემული გასაღებების ვადა ამოიწურება { $days } დღეში:{ $desc }
+    გირჩევთ შექმნათ ახალი წყვილი გასაღებების და გამართოთ შესაბამისი ანგარიშები მათ გამოსაყენებლად.
 import-info-details = მონაცემების ნახვა და დაშვების მართვა
 
 ## Account settings export output
