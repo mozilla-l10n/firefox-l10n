@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Βοηθός εισαγωγής
-
 import-from =
     { PLATFORM() ->
-        [windows] Εισαγωγή επιλογών, σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:
-       *[other] Εισαγωγή προτιμήσεων,σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:
+        [windows] Εισαγωγή επιλογών, σελιδοδεικτών, ιστορικού, κωδικών πρόσβασης και άλλων δεδομένων από:
+       *[other] Εισαγωγή προτιμήσεων, σελιδοδεικτών, ιστορικού, κωδικών πρόσβασης και άλλων δεδομένων από:
     }
-
 import-from-bookmarks = Εισαγωγή σελιδοδεικτών από:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -51,34 +49,22 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.
-
 import-source-page-title = Εισαγωγή ρυθμίσεων και δεδομένων
 import-items-page-title = Στοιχεία προς εισαγωγή
-
 import-items-description = Επιλέξτε στοιχεία προς εισαγωγή:
-
 import-migrating-page-title = Εισαγωγή...
-
 import-migrating-description = Γίνεται εισαγωγή των παρακάτω στοιχείων αυτή τη στιγμή…
-
 import-select-profile-page-title = Επιλογή προφίλ
-
 import-select-profile-description = Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:
-
 import-done-page-title = Η εισαγωγή ολοκληρώθηκε
-
 import-done-description = Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:
-
-import-close-source-browser = Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό προτού συνεχίσετε.
-
+import-close-source-browser = Παρακαλούμε βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό πριν συνεχίσετε.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Από { $source }
-
 source-name-ie = Ιnternet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -90,7 +76,6 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
-
 imported-safari-reading-list = Λίστα ανάγνωσης (Από Safari)
 imported-edge-reading-list = Λίστα ανάγνωσης (Από Edge)
 
@@ -112,7 +97,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -125,12 +109,10 @@ browser-data-history-label =
             [firefox] Ιστορικό περιήγησης και σελιδοδείκτες
            *[other] Ιστορικό περιήγησης
         }
-
 browser-data-formdata-checkbox =
     .label = Ιστορικό αποθηκευμένων φορμών
 browser-data-formdata-label =
     .value = Ιστορικό αποθηκευμένων φορμών
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -139,7 +121,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -154,12 +135,10 @@ browser-data-bookmarks-label =
             [edge] Αγαπημένα
            *[other] Σελιδοδείκτες
         }
-
 browser-data-otherdata-checkbox =
     .label = Άλλα δεδομένα
 browser-data-otherdata-label =
     .label = Άλλα δεδομένα
-
 browser-data-session-checkbox =
     .label = Παράθυρα και καρτέλες
 browser-data-session-label =

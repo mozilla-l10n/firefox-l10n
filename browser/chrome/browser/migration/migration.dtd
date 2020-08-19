@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Βοηθός εισαγωγής">
 
-<!ENTITY importFrom.label               "Εισαγωγή επιλογών, σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
-<!ENTITY importFromUnix.label           "Εισαγωγή προτιμήσεων,σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
+<!ENTITY importFrom.label               "Εισαγωγή επιλογών, σελιδοδεικτών, ιστορικού, κωδικών πρόσβασης και άλλων δεδομένων από:">
+<!ENTITY importFromUnix.label           "Εισαγωγή προτιμήσεων, σελιδοδεικτών, ιστορικού, κωδικών πρόσβασης και άλλων δεδομένων από:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -50,4 +50,4 @@
 <!ENTITY done.title                     "Η εισαγωγή ολοκληρώθηκε">
 <!ENTITY done.label                     "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">
 
-<!ENTITY closeSourceBrowser.label       "Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό προτού συνεχίσετε.">
+<!ENTITY closeSourceBrowser.label       "Παρακαλούμε βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό πριν συνεχίσετε.">
