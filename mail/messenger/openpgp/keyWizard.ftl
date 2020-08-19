@@ -8,10 +8,21 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = განაგრძეთ
     .buttonlabelhelp = უკან დაბრუნება
+key-wizard-warning = <b>თუ გაქვთ არსებული პირადი გასაღები</b> ამ ელფოსტისთვის, გადმოიტანეთ. სხვა შემთხვევაში წვდომას ვერ გექნებათ, თქვენს დაარქივებულ დაშიფრულ წერილებზე და ვერც მიღებულ დაშიფრულ წერილებს წაიკითხავთ იმ ხალხისგან, რომლებიც ჯერ კიდევ არსებულ გასაღებს იყენებენ.
 key-wizard-learn-more = ვრცლად
+radio-create-key =
+    .label = შექმენით ახალი OpenPGP-გასაღები
+    .accesskey = შ
+radio-import-key =
+    .label = გადმოიტანეთ არსებული OpenPGP-გასაღები
+    .accesskey = ტ
+radio-gnupg-key =
+    .label = გამოიყენეთ გარეშე გასაღები GnuPG-ით (მაგ. სმარტბარათიდან)
+    .accesskey = ყ
 
 ## Generate key section
 
+openpgp-generate-key-title = OpenPGP-გასაღების შედგენა
 radio-keygen-expiry =
     .label = გასაღებს ვადა გაუვა
     .accesskey = ვ
