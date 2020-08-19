@@ -406,4 +406,24 @@ key-ring-pub-key-expired = გასაღები { $userId } (გასაღ
 key-ring-key-disabled = გასაღები { $userId } (გასაღების ID { $keyId }) გათიშულია; ვერ იქნება გამოყენებული.
 key-ring-key-invalid = გასაღები { $userId } (გასაღების ID { $keyId }) არამართებულია. გთხოვთ, სწორად დაამოწმოთ.
 key-ring-key-not-trusted = გასაღები { $userId } (გასაღების ID { $keyId }) არასაკმარისად სანდოა. გთხოვთ, სანდოობის დონედ გასაღებისთვის მიუთითოთ „ultimate“ ხელმოწერის გამოსაყენებლად.
+key-ring-no-secret-key = თქვენ არ გაქვთ საიდუმლო გასაღები { $userId }-ისთვის (გასაღების ID { $keyId }) თქვენს სიაში; ვერ გამოიყენებთ ამ გასაღებს ხელმოსაწერად.
+key-ring-pub-key-not-for-signing = გასაღები { $userId } (გასაღების ID { $keyId }) არ გამოდგება ხელმოსაწერად.
+key-ring-pub-key-not-for-encryption = გასაღები { $userId } (გასაღების ID { $keyId }) არ გამოდგება დასაშიფრად.
+key-ring-sign-sub-keys-revoked = ყველა ხელმოსაწერი ქვეგასაღები გასაღებისა { $userId } (გასაღების ID { $keyId }) გაუქმებულია.
+key-ring-sign-sub-keys-expired = ყველა ხელმოსაწერი ქვეგასაღები გასაღებისა { $userId } (გასაღების ID { $keyId }) ვადაგასულია.
+key-ring-sign-sub-keys-unusable = ყველა ხელმოსაწერი ქვეგასაღები გასაღებისა { $userId } (გასაღების ID { $keyId }) გაუქმებულია, ვადაგასულია ან სხვა მიზეზითაა გამოუსადეგარი.
+key-ring-enc-sub-keys-revoked = ყველა დასაშიფრი ქვეგასაღები გასაღებისა { $userId } (გასაღების ID { $keyId }) გაუქმებულია.
+key-ring-enc-sub-keys-expired = ყველა დასაშიფრი ქვეგასაღები გასაღებისა { $userId } (გასაღების ID { $keyId }) ვადაგასულია.
+key-ring-enc-sub-keys-unusable = ყველა გასაშიფრი ქვეგასაღები გასაღებისა { $userId } (გასაღების ID { $keyId }) გაუქმებულია, ვადაგასულია ან სხვა მიზეზითაა გამოუსადეგარი.
+# Strings in gnupg-keylist.jsm
+keyring-photo = ფოტო
+user-att-photo = მომხმარებლის ნიშანი (JPEG-სურათი)
+# Strings in key.jsm
+already-revoked = ეს გასაღები, უკვე ვადაგასულია.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    თქვენ აპირებთ გააუქმოთ საიდუმლო გასაღები „{ $identity }“.
+    
+    ვეღარ შეძლებთ მისი მეშვეობით წერილების ხელმოწერას და როცა გავრცელდება, სხვები ვეღარ შეძლებენ მისი გამოყენებით დაშიფვრას. ძველი წერილების გაშიფვრა, კვლავ შეგეძლებათ.
+    გსურთ, განაგრძოთ?
 key-error-not-accepted-as-personal = თქვენ არ დაგიდასტურებიათ, რომ გასაღები ID ნომრით „{ $keySpec }“, თქვენი პირადი გასაღებია.
