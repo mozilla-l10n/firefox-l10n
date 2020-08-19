@@ -228,7 +228,7 @@
 
 <!ENTITY progress.level.0             "0&percnt; wedi'i Gwblhau">
 <!ENTITY progress.level.0.accesskey   "0">
-<!ENTITY progress.level.25            "25&percnt; wedi'i Gwblhawyd">
+<!ENTITY progress.level.25            "25&percnt; wedi'i Gwblhau">
 <!ENTITY progress.level.25.accesskey  "2">
 <!ENTITY progress.level.50            "50&percnt; wedi'i Gwblhau">
 <!ENTITY progress.level.50.accesskey  "5">
