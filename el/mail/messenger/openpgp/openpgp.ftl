@@ -328,10 +328,12 @@ expiry-open-key-manager = Άνοιγμα διαχείρισης κλειδιών
 expiry-open-key-properties = Άνοιγμα Ιδιοτήτων Κλειδιού
 # Strings filters.jsm
 filter-folder-required = Πρέπει να επιλέξετε έναν φάκελο προορισμού.
+filter-term-pgpencrypted-label = Κρυπτογραφημένο κατά OpenPGP
 filter-key-required = Πρέπει να επιλέξετε ένα κλειδί παραλήπτη.
 filter-key-not-found = Δεν ήταν δυνατή η εύρεση ενός κλειδιού κρυπτογράφησης για το '{ $desc }'.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Οριστική αποκρυπτογράφηση (OpenPGP)
+filter-decrypt-copy-label = Δημιουργία αποκρυπτογραφημένου αντιγράφου (OpenPGP)
 filter-encrypt-label = Κρυπτογράφηση με το κλειδί (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
@@ -339,15 +341,25 @@ import-info-title =
 import-info-bits = Bits
 import-info-created = Δημιουργήθηκε
 import-info-fpr = Δακτυλικό αποτύπωμα
+import-info-details = Προβολή λεπτομερειών και διαχείριση αποδοχής κλειδιών
 import-info-no-keys = Δεν εισήχθηκαν κλειδιά.
 # Strings in enigmailKeyManager.js
 import-from-clip = Θέλετε να εισάγετε μερικά κλειδιά από το πρόχειρο;
+import-from-url = Λήψη δημόσιου κλειδιού από αυτήν τη διεύθυνση URL:
+copy-to-clipbrd-failed = Δεν ήταν δυνατή η αντιγραφή των επιλεγμένων κλειδιών στο πρόχειρο.
+copy-to-clipbrd-ok = Τα κλειδιά αντιγράφηκαν στο πρόχειρο
 delete-pub-key =
     Θέλετε να διαγράψετε το δημόσιο κλειδί
     '{ $userId }';
 delete-selected-pub-key = Θέλετε να διαγράψετε τα δημόσια κλειδιά;
+refresh-all-question = Δεν επιλέξατε κλειδί. Θέλετε να ανανεώσετε ΟΛΑ τα κλειδιά;
 key-man-button-export-sec-key = Εξαγωγή &μυστικών κλειδιών
+key-man-button-export-pub-key = Εξαγωγή Μόνο &Δημόσιων Κλειδιών
 key-man-button-refresh-all = &Ανανέωση όλων των κλειδιών
+key-man-loading-keys = Γίνεται φόρτωση των κλειδιών, παρακαλώ περιμένετε…
+ascii-armor-file = Θωρακισμένα αρχεία ASCII (*.asc)
+no-key-selected = Πρέπει να επιλέξετε τουλάχιστον ένα πλήκτρο για να εκτελέσετε την επιλεγμένη λειτουργία
+export-to-file = Εξαγωγή δημόσιου κλειδιού σε αρχείο
 preview-failed = Δεν είναι δυνατή η ανάγνωση του αρχείου δημόσιου κλειδιού.
 general-error = Σφάλμα: { $reason }
 
