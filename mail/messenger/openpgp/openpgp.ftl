@@ -509,3 +509,5 @@ decrypt-ok-no-sig =
     Het ontsleutelen is gelukt, maar de handtekening kan niet correct worden geverifieerd
 msg-ovl-button-cont-anyway = Toch &doorgaan
 enig-content-note = *Bijlagen bij dit bericht zijn niet ondertekend of versleuteld*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Bericht verzenden
