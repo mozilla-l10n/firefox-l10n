@@ -373,7 +373,18 @@ delete-mix =
     ნამდვილად გსურთ წაიშალოს ორივე, შერჩეული საიდუმლო და საჯარო გასაღებები?
 delete-pub-key =
     ნამდვილად გსურთ წაიშალოს საჯარო გასაღები
-    '{ $userId }'?
+    „{ $userId }“?
+delete-selected-pub-key = ნამდვილად გსურთ წაიშალოს საჯარო გასაღებები?
+refresh-all-question = არ აგირჩევიათ გასაღები. გსურთ, გაახლდეს ყველა გასაღები?
+key-man-button-export-sec-key = გატანა &საიდუმლო გასაღებების
+key-man-button-export-pub-key = გატანა &საჯარო გასაღებების მხოლოდ
+key-man-button-refresh-all = &განახლება ყველა გასაღების
+key-man-loading-keys = გასაღებების ჩატვირთვა, გთხოვთ მოითმინოთ…
+ascii-armor-file = ASCII-ით აღჭურვილი ფაილები (*.asc)
+no-key-selected = უნდა შეარჩიოთ ერთი გასაღები მაინც, აღნიშნული მოქმედების შესასრულებლად
+export-to-file = საჯარო გასაღების გატანა ფაილში
+export-keypair-to-file = საჯარო და საიდუმლო გასაღების გატანა ფაილში
+export-secret-key = გსურთ, დაერთოს საიდუმლო გასაღები შენახული OpenPGP-გასაღების ფაილში?
 
 ## Account settings export output
 
