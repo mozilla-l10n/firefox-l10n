@@ -475,7 +475,11 @@ msg-compose-button-send = წერილის &გაგზავნა
 msg-compose-details-button-label = ვრცლად…
 msg-compose-details-button-access-key = ვ
 send-aborted = გაგზავნა შეწყდა.
+sig-mismatch = შეცდომა – ხელმოწერის შეუსაბამობა
+invalid-email = შეცდომა – არასწორი ელფოსტის მისამართ(ებ)ი
 dlg-button-view = &ხედი
+# Strings used in encryption.jsm
+not-required = შეცდომა – გაშიფვრა არაა მოთხოვნილა
 # Strings used in windows.jsm
 no-photo-available = ფოტო არაა ხელმისაწვდომი
 error-photo-path-not-readable = ფოტოს მდებარეობა „{ $photo }“ არ იკითხება
