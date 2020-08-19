@@ -454,3 +454,12 @@ key-error-key-id-not-found = De geconfigureerde sleutel-ID ‘{ $keySpec }’ ka
 key-error-not-accepted-as-personal = U heeft niet bevestigd dat de sleutel met ID ‘{ $keySpec }’ uw persoonlijke sleutel is.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = De geselecteerde functie is niet beschikbaar in de offlinemodus. Ga online en probeer het opnieuw.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = We kunnen geen sleutel vinden die overeenkomt met de opgegeven zoekcriteria.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Fout – sleutelextractieopdracht mislukt
+# Strings used in keyRing.jsm
+fail-cancel = Fout – sleutelontvangst geannuleerd door gebruiker
+not-first-block = Fout – eerste OpenPGP-blok is geen openbare sleutelblok
+import-key-confirm = In bericht ingesloten openbare sleutel(s) importeren?
+fail-key-import = Fout – importeren van sleutel mislukt
