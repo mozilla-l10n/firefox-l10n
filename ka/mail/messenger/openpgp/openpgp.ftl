@@ -426,4 +426,27 @@ revoke-key-question =
     
     ვეღარ შეძლებთ მისი მეშვეობით წერილების ხელმოწერას და როცა გავრცელდება, სხვები ვეღარ შეძლებენ მისი გამოყენებით დაშიფვრას. ძველი წერილების გაშიფვრა, კვლავ შეგეძლებათ.
     გსურთ, განაგრძოთ?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = გასაღები 0x{ $keyId } უკვე ვადაგასულია.
+key-man-button-revoke-key = გასაღების &გაუქმება
+openpgp-key-revoke-success = გასაღები წარმატებით გაუქმდა.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &გადმოტანა
+delete-key-title = OpenPGP-გასაღების წაშლა
+delete-external-key-title = გარე GnuPG-გასაღების მოცილება
+delete-external-key-description = გსურთ, მოცილდეს გარე GnuPG-გასაღების ID?
+key-in-use-title = ამჟამად გამოყენებული OpenPGP-გასაღები
 key-error-not-accepted-as-personal = თქვენ არ დაგიდასტურებიათ, რომ გასაღები ID ნომრით „{ $keySpec }“, თქვენი პირადი გასაღებია.
+# Strings used in trust.jsm
+key-valid-unknown = უცნობი
+key-valid-invalid = არასწორი
+key-valid-disabled = გამორთული
+key-valid-revoked = გაუქმებული
+key-valid-expired = ვადაგასული
+key-trust-untrusted = არასანდო
+key-trust-marginal = შუალედური
+key-trust-full = სანდო
+key-trust-ultimate = უკიდურესი
+key-trust-group = (ჯგუფი)
+# Strings used in commonWorkflows.js
+import-key-file = OpenPGP-გასაღების ფაილის შეტანა
