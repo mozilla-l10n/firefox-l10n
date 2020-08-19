@@ -493,3 +493,19 @@ keygen-missing-user-name = Er is geen naam opgegeven voor de geselecteerde accou
 expiry-too-short = Uw sleutel moet ten minste een dag geldig zijn.
 expiry-too-long = U kunt geen sleutel maken die over meer dan 100 jaar verloopt.
 key-confirm = Openbare en geheime sleutel voor ‘{ $id }’ aanmaken?
+key-man-button-generate-key = Sleutel &aanmaken
+key-abort = Sleutelaanmaak afbreken?
+key-man-button-generate-key-abort = Sleutelaanmaak &afbreken
+key-man-button-generate-key-continue = Sleutelaanmaak &voortzetten
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Fout – ontsleuteling mislukt
+fix-broken-exchange-msg-failed = Kon bericht niet repareren.
+attachment-no-match-from-signature = Kan handtekeningbestand ‘{ $attachment }’ niet koppelen aan een bijlage
+attachment-no-match-to-signature = Kan bijlage ‘{ $attachment }’ niet koppelen aan een handtekeningbestand
+signature-verified-ok = De handtekening voor bijlage { $attachment } is met succes geverifieerd
+signature-verify-failed = De handtekening voor bijlage { $attachment } kan niet worden geverifieerd
+decrypt-ok-no-sig =
+    Waarschuwing
+    Het ontsleutelen is gelukt, maar de handtekening kan niet correct worden geverifieerd
+msg-ovl-button-cont-anyway = Toch &doorgaan
+enig-content-note = *Bijlagen bij dit bericht zijn niet ondertekend of versleuteld*
