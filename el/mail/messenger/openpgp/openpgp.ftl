@@ -390,6 +390,7 @@ openpgp-key-revoke-success = Επιτυχής ανάκληση κλειδιού.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Εισαγωγή
 delete-key-title = Διαγραφή κλειδιού OpenPGP
+delete-external-key-title = Αφαίρεση εξωτερικού κλειδιού GnuPG
 delete-external-key-description = Θέλετε να αφαιρέσετε αυτό το ID εξωτερικού κλειδιού GnuPG;
 # Strings used in trust.jsm
 key-valid-unknown = άγνωστο
@@ -419,6 +420,7 @@ key-revoked = Το κλειδί '{ $key }' ανακλήθηκε
 key-expired = Το κλειδί '{ $key }' έληξε
 msg-compose-internal-error = Παρουσιάστηκε εσωτερικό σφάλμα.
 msg-compose-cannot-save-draft = Σφάλμα κατά την αποθήκευση του προχείρου
+save-attachment-header = Αποθήκευση αποκρυπτογραφημένου συνημμένου
 # Strings used in decryption.jsm
 do-import-multiple =
     Εισαγωγή των ακόλουθων κλειδιών;
