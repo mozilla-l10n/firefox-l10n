@@ -360,11 +360,25 @@ key-man-loading-keys = Γίνεται φόρτωση των κλειδιών, π
 ascii-armor-file = Θωρακισμένα αρχεία ASCII (*.asc)
 no-key-selected = Πρέπει να επιλέξετε τουλάχιστον ένα πλήκτρο για να εκτελέσετε την επιλεγμένη λειτουργία
 export-to-file = Εξαγωγή δημόσιου κλειδιού σε αρχείο
+export-keypair-to-file = Εξαγωγή Ιδιωτικού και Δημόσιου Κλειδιού σε αρχείο
+export-secret-key = Θέλετε να συμπεριλάβετε το μυστικό κλειδί στο αποθηκευμένο με τα κλειδιά αρχείο OpenPGP;
+save-keys-ok = Τα κλειδιά αποθηκεύτηκαν με επιτυχία
+save-keys-failed = Η αποθήκευση των κλειδιών απέτυχε
+default-pub-key-filename = Εξαγόμενα-δημόσια-κλειδιά
+default-pub-sec-key-filename = Αντίγραφα-ασφαλείας-των-ιδιωτικών-κλειδιών
+refresh-key-warn = Προειδοποίηση: ανάλογα με τον αριθμό των κλειδιών και την ταχύτητα σύνδεσης, η ανανέωση όλων των κλειδιών ενδέχεται να είναι αρκετά χρονοβόρα!
 preview-failed = Δεν είναι δυνατή η ανάγνωση του αρχείου δημόσιου κλειδιού.
 general-error = Σφάλμα: { $reason }
+dlg-button-delete = &Διαγραφή
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Το δημόσιο κλειδί εξήχθη με επιτυχία!</b>
+openpgp-export-public-fail = <b>Δεν ήταν δυνατή η εξαγωγή του επιλεγμένου δημόσιου κλειδιού!</b>
+openpgp-export-secret-success = <b>Το μυστικό κλειδί εξήχθη με επιτυχία!</b>
+openpgp-export-secret-fail = <b>Δεν ήταν δυνατή η εξαγωγή του επιλεγμένου μυστικού κλειδιού!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) είναι ανακλημένο.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Φωτογραφία
 # Strings in key.jsm
