@@ -217,10 +217,49 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird-ს არ აქვს OpenPGP-გასაღების ანგარიშისთვის <b>{ $identity }</b>
+        [one] Thunderbird-მა მონახა { $count } პირადი OpenPGP-გასაღები ანგარიშისთვის <b>{ $identity }</b>
+       *[other] Thunderbird-მა მონახა { $count } პირადი OpenPGP-გასაღები ანგარიშისთვის <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] მიუთითეთ მართებული გასაღები OpenPGP-ოქმის ასამუშავებლად.
+       *[other] მიმდინარე გამართვით, გამოიყენება გასაღების ID <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = მიმდინარე გამართვით, გამოიყენება გასაღების ID <b>{ $key }</b>, რომელიც ვადაგასულია.
+openpgp-add-key-button =
+    .label = გასაღების დამატება…
+    .accesskey = დ
 e2e-learn-more = ვრცლად
+openpgp-keygen-success = OpenPGP-გასაღები შეიქმნა წარმატებით!
+openpgp-keygen-import-success = OpenPGP-გასაღები გადმოტანილია წარმატებით!
+openpgp-keygen-external-success = გარე GnuPG-გასაღების ID შენახულია!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = არცერთი
+openpgp-radio-none-desc = არ გამოიყენოს OpenPGP ამ მისამართისთვის.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = ვადა: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = გასაღების ვადა 6 თვეზე ნაკლებია
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = ვადაგასული: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = გასაღები ვადაგასულია
+openpgp-key-expand-section =
+    .tooltiptext = ვრცლად
+openpgp-key-revoke-title = გასაღების გაუქმება
+openpgp-key-edit-title = OpenPGP-გასაღების შეცვლა
+openpgp-key-edit-date-title = ვადის გახანგრძლივება
 key-do-you-accept = გსურთ დაუშვათ ეს გასაღები, ციფრული ხელმოწერებისა და დაშიფრული წერილების დასამოწმებლად?
 key-accept-warning = თავი დაიცავით თაღლითური გასაღების დაშვებისგან. გამოიყენეთ სხვა ელფოსტისგან განსხვავებული დამაკავშირებელი არხები, შესაბამისი გასაღების ანაბეჭდის დასამოწმებლად.
 import-info-details = მონაცემების ნახვა და დაშვების მართვა
