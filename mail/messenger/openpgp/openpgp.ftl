@@ -510,3 +510,17 @@ msg-ovl-button-cont-anyway = Toch &doorgaan
 enig-content-note = *Bijlagen bij dit bericht zijn niet ondertekend of versleuteld*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Bericht verzenden
+msg-compose-details-button-label = Details…
+msg-compose-details-button-access-key = D
+send-aborted = Het verzenden is afgebroken.
+key-not-trusted = Onvoldoende vertrouwen voor sleutel ‘{ $key }’
+key-not-found = Sleutel ‘{ $key }’ niet gevonden
+key-revoked = Sleutel ‘{ $key }’ ingetrokken
+key-expired = Sleutel ‘{ $key }’ is verlopen
+msg-compose-internal-error = Er is een interne fout opgetreden.
+keys-to-export = Selecteer in te voegen OpenPGP-sleutels
+msg-compose-partially-encrypted-inlinePGP =
+    Het bericht waarop u reageert bevat zowel onversleutelde als versleutelde delen. Als de afzender sommige berichtgedeelten oorspronkelijk niet kon ontsleutelen, lekt u mogelijk vertrouwelijke informatie die de afzender oorspronkelijk niet heeft ontsleuteld.
+    Overweeg om alle geciteerde tekst te verwijderen uit uw antwoord aan deze afzender.
+msg-compose-cannot-save-draft = Fout bij opslaan van concept
+msg-compose-partially-encrypted-short = Pas op voor het lekken van gevoelige informatie – gedeeltelijk versleuteld e-mailbericht.
