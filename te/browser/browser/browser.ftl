@@ -246,7 +246,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = ఈ సైటుకి మీరు సురక్షితంగా అనుసంధానం కాలేదు.
 identity-connection-verified = ఈ సైటుకు మీరు సురక్షితంగా అనుసంధానమయ్యారు.
 identity-ev-owner-label = ధ్రువపత్రం వీరికి జారీ అయ్యింది:
-identity-description-custom-root = ఈ ధ్రువత్రపు జారీదారు మొజిల్లాకు తెలియనివారు. ఇది మీ నిర్వాహక వ్యవస్థ నుండి లేదా నిర్వాహకుడిచే చేర్చబడి ఉండవచ్చు. <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
+identity-description-custom-root = ఈ ధ్రువపత్రపు జారీదారు మొజిల్లాకు తెలియనివారు. ఇది మీ నిర్వాహక వ్యవస్థ నుండి లేదా నిర్వాహకుడిచే చేర్చబడి ఉండవచ్చు. <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
 identity-remove-cert-exception =
     .label = మినహాయింపును తొలగించు
     .accesskey = R
