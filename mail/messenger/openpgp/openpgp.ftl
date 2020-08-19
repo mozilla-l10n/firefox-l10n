@@ -272,8 +272,34 @@ key-external-label = გარე GnuPG-გასაღები
 key-type-public = საჯარო გასაღები
 key-type-primary = მთავარი გასაღები
 key-type-subkey = ქვეგასაღები
+key-type-pair = გასაღების წყვილი (საიდუმლო გასაღები და საჯარო გასაღები)
+key-expiry-never = არასდროს
+key-usage-encrypt = დაშიფვრა
+key-usage-sign = ხელმოწერა
+key-usage-certify = სერტიფიცირება
+key-usage-authentication = დამოწმება
+key-does-not-expire = გასაღები უვადოა
+key-expired-date = გასაღების ვადა იწურება { $keyExpiry }
+key-expired-simple = გასაღები ვადაგასულია
+key-revoked-simple = გასაღები გაუქმებულია
 key-do-you-accept = გსურთ დაუშვათ ეს გასაღები, ციფრული ხელმოწერებისა და დაშიფრული წერილების დასამოწმებლად?
 key-accept-warning = თავი დაიცავით თაღლითური გასაღების დაშვებისგან. გამოიყენეთ სხვა ელფოსტისგან განსხვავებული დამაკავშირებელი არხები, შესაბამისი გასაღების ანაბეჭდის დასამოწმებლად.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = წერილი ვერ იგზავნება, ვინაიდან ხარვეზი აქვს თქვენს პირად გასაღებს. { $problem }
+cannot-encrypt-because-missing = წერილი ვერ იგზავნება გამჭოლი დაშიფვრით, ვინაიდან ხარვეზები აქვს, ამ მიმღებების გასაღებებს: { $problem }
+window-locked = შესადგენი ფანჯარა ჩაიკეტა; გაგზავნა გაუქმებულია
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = წერილის დაშიფრული ნაწილი
+mime-decrypt-encrypted-part-concealed-data = ეს წერილის დაშიფრული ნაწილია. საჭიროა ცალკე ფანჯარაში გახსნა, დანართზე დაწკაპებით.
+# Strings in keyserver.jsm
+keyserver-error-aborted = შეწყვეტილი
+keyserver-error-unknown = უცნობი შეცდომა წარმოიშვა
+keyserver-error-server-error = გასაღებების სერვერი შეცდომას გადმოსცემს.
+keyserver-error-import-error = ვერ მოხერხდა ჩამოტვირთული გასაღების შემოტანა.
+keyserver-error-unavailable = გასაღებების სერვერი მიუწვდომელია.
+keyserver-error-security-error = გასაღებების სერვერზე მხარდაუჭერელია დაშიფრული წვდომა.
+keyserver-error-certificate-error = გასაღებების სერვერის სერტიფიკატი არამართებულია.
+keyserver-error-unsupported = გასაღებების სერვერი მხარდაუჭერელია.
 import-info-details = მონაცემების ნახვა და დაშვების მართვა
 
 ## Account settings export output
