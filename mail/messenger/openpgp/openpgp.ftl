@@ -463,3 +463,17 @@ fail-cancel = Fout – sleutelontvangst geannuleerd door gebruiker
 not-first-block = Fout – eerste OpenPGP-blok is geen openbare sleutelblok
 import-key-confirm = In bericht ingesloten openbare sleutel(s) importeren?
 fail-key-import = Fout – importeren van sleutel mislukt
+file-write-failed = Kan niet naar bestand { $output } schrijven
+no-pgp-block = Fout – Geen geldig armored OpenPGP-gegevensblok gevonden
+confirm-permissive-import = Importeren mislukt. De sleutel die u probeert te importeren, is mogelijk beschadigd of gebruikt onbekende attributen. Wilt u proberen de juiste delen te importeren? Dit kan ertoe leiden dat onvolledige en onbruikbare sleutels worden geïmporteerd.
+# Strings used in trust.jsm
+key-valid-unknown = onbekend
+key-valid-invalid = ongeldig
+key-valid-disabled = uitgeschakeld
+key-valid-revoked = ingetrokken
+key-valid-expired = verlopen
+key-trust-untrusted = niet vertrouwd
+key-trust-marginal = weinig
+key-trust-full = vertrouwd
+key-trust-ultimate = maximaal
+key-trust-group = (groep)
