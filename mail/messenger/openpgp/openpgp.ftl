@@ -335,7 +335,27 @@ expiry-open-key-manager = OpenPGP-გასაღების მმართვ
 expiry-open-key-properties = გასაღების პარამეტრების გახსნა
 # Strings filters.jsm
 filter-folder-required = აუცილებელია სასურველი საქაღალდის მითითება.
+filter-decrypt-move-warn-experimental =
+    გაფრთხილება – ფილტრის მოქმედება „სამუდამოდ გაშიფვრა“ შეიძლება იწვევდეს დაზიანებულ წერილს.
+    დაჟინებით გირჩევთ, ჯერ სცადოთ ფილტრი „გაშიფრული ასლის შექმნა“, გამოცადოთ შედეგი დაკვირვებით და მხოლოდ იმ შემთხვევაში გადაწყვიტოთ ამ ფილტრის გამოყენება, თუ შედეგები დაგაკმაყოფილებთ.
+filter-term-pgpencrypted-label = OpenPGP დაშიფრულია
+filter-key-required = უნდა მიუთითოთ მიმღების გასაღები.
+filter-key-not-found = ვერე მოიძებნა დაშიფვრის გასაღები „{ $desc }“.
+filter-warn-key-not-secret =
+    გაფრთხილება – ფილტრის მოქმედება „დაშიფვრა გასაღებზე“ ცვლის მიმღებებს.
+    თუ არ გაქვთ საიდუმლო გასაღები „{ $desc }“ გასაღებისთვის, ვეღარ შეძლებთ წერილების წაკითხვას.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = სამუდამოდ გაშიფვრა (OpenPGP)
+filter-decrypt-copy-label = გაშიფრული ასლის შექმნა (OpenPGP)
+filter-encrypt-label = დაშიფვრა გასაღებზე (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = წარმატებით გადმოტანილია გასაღებები.
+import-info-bits = ბიტი
+import-info-created = შექმნილი
+import-info-fpr = ანაბეჭდი
 import-info-details = მონაცემების ნახვა და დაშვების მართვა
+import-info-no-keys = არცერთი გასაღები არ გადმოტანილა.
 
 ## Account settings export output
 
