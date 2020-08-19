@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Duyệt web riêng tư)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Duyệt web riêng tư)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Duyệt web riêng tư)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Duyệt web riêng tư)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Bạn đã chặn quyền truy cập MIDI của trang web này.
 urlbar-install-blocked =
     .tooltiptext = Bạn đã chặn cài đặt tiện ích cho trang web này.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Chỉnh sửa dấu trang này ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Lần này, tìm kiếm với:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Thay đổi thiết lập tìm kiếm
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Thay đổi cài đặt tìm kiếm
-
 search-one-offs-context-open-new-tab =
     .label = Tìm trong thẻ mới
     .accesskey = T
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Đặt làm công cụ tìm kiếm mặc định cho cửa sổ riêng tư
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Hiện trình chỉnh sửa này khi lưu
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Xong
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = Chia sẻ micro:
     .accesskey = M
 popup-all-windows-shared = Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.
-
 popup-screen-sharing-not-now =
     .label = Không phải bây giờ
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = Không bao giờ cho phép
     .accesskey = N
-
 popup-silence-notifications-checkbox = Vô hiệu hóa thông báo từ { -brand-short-name } trong khi chia sẻ
 popup-silence-notifications-checkbox-warning = { -brand-short-name } sẽ không hiển thị thông báo trong khi bạn đang chia sẻ.
 
@@ -326,17 +314,42 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Để sử dụng phím tắt F12, trước tiên hãy mở DevTools thông qua menu Nhà phát triển Web.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Tìm kiếm trên mạng
+    .aria-label = Tìm kiếm với { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Nhập từ tìm kiếm
+    .aria-label = Tìm kiếm { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Nhập từ tìm kiếm
+    .aria-label = Tìm kiếm dấu trang
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Nhập từ tìm kiếm
+    .aria-label = Tìm kiếm lịch sử
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Nhập từ tìm kiếm
+    .aria-label = Tìm kiếm thẻ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -347,11 +360,9 @@ urlbar-permissions-granted =
     .tooltiptext = Bạn đã cấp cho trang web này các quyền bổ sung.
 urlbar-switch-to-tab =
     .value = Chuyển qua thẻ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tiện ích mở rộng:
-
 urlbar-go-button =
     .tooltiptext = Mở trang trong thanh địa chỉ
 urlbar-page-action-button =
