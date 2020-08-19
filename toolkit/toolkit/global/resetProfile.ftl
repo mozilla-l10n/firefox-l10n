@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 refresh-profile-dialog =
-    .title = Làm mới { -brand-short-name }
+    .title = Khôi phục { -brand-short-name }
 refresh-profile-dialog-button =
-    .label = Làm mới { -brand-short-name }
+    .label = Khôi phục { -brand-short-name }
 refresh-profile-description = Bắt đầu thiết lập mới để khắc phục sự cố và cải thiện hiệu suất.
 refresh-profile-description-details = Điều này sẽ:
 refresh-profile-remove = Xóa các tiện ích và mục tùy chỉnh
 refresh-profile-restore = Khôi phục các thiết lập trình duyệt về mặc định
-refresh-profile = Khôi phục { -brand-short-name } như ban đầu
-refresh-profile-button = Làm mới { -brand-short-name }…
+refresh-profile = Làm mới { -brand-short-name } như khi mới cài đặt
+refresh-profile-button = Khôi phục { -brand-short-name }…
