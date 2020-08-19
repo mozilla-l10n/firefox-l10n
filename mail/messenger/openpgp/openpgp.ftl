@@ -472,6 +472,7 @@ key-valid-invalid = ongeldig
 key-valid-disabled = uitgeschakeld
 key-valid-revoked = ingetrokken
 key-valid-expired = verlopen
+key-trust-untrusted = onbetrouwbaar
 key-trust-marginal = weinig
 key-trust-full = vertrouwd
 key-trust-ultimate = maximaal
@@ -575,3 +576,16 @@ no-repeat = Deze waarschuwing wordt niet meer getoond.
 dlg-keep-setting = Mijn antwoord onthouden en het me niet nog een keer vragen
 dlg-button-ok = &OK
 dlg-button-close = &Sluiten
+dlg-button-cancel = &Annuleren
+dlg-no-prompt = Dit dialoogvenster niet meer tonen
+enig-prompt = OpenPGP-vraag
+enig-confirm = OpenPGP-bevestiging
+enig-alert = OpenPGP-waarschuwing
+enig-info = OpenPGP-informatie
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Opnieuw proberen
+dlg-button-skip = Over&slaan
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-fout
+enig-alert-title =
+    .title = OpenPGP-waarschuwing
