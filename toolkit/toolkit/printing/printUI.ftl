@@ -36,7 +36,7 @@ printui-scale-fit-to-page = გვერდის სიგანეზე
 printui-scale-pcent = მასშტაბი
 # Section title for miscellaneous print options
 printui-options = პარამეტრები
-printui-headers-footers-checkbox = თავსართისა და ქვესართის ამობეჭდვა
+printui-headers-footers-checkbox = თავსართისა და ბოლოსართის ამობეჭდვა
 printui-backgrounds-checkbox = ფონის ამობეჭდვა
 printui-system-dialog-link = ამობეჭდვა სისტემის ფანჯრიდან…
 printui-primary-button = ამობეჭდვა
