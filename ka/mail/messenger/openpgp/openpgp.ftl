@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = დაშიფრული ან ციფრულად ხელმოწერილი წერილის გასაგზავნად, საჭიროა გამართოთ დაშიფვრის საშუალებები, ან OpenPGP ან S/MIME.
+e2e-intro-description-more = შეარჩიეთ პირადი გასაღები, OpenPGP-ის ასამუშავებლად, ან პირადი სერტიფიკატი რომ ჩაირთოს S/MIME. პირადი გასაღებისთვის ან სერტიფიკატისთვის, რომლისთვისაც ფლობთ შესაბამის საიდუმლო გასაღებს.
 openpgp-key-user-id-label = ანგარიშის / მომხმარებლის ID
 openpgp-keygen-title-label =
     .title = OpenPGP-გასაღების შედგენა
