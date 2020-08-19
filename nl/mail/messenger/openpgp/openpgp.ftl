@@ -477,3 +477,19 @@ key-trust-marginal = weinig
 key-trust-full = vertrouwd
 key-trust-ultimate = maximaal
 key-trust-group = (groep)
+# Strings used in commonWorkflows.js
+import-key-file = OpenPGP-sleutelbestand importeren
+import-rev-file = OpenPGP-intrekkingsbestand importeren
+gnupg-file = GnuPG-bestanden
+import-keys-failed = Het importeren van de sleutels is mislukt
+passphrase-prompt = Voer de wachtwoordzin in waarmee de volgende sleutel wordt ontgrendeld: { $key }
+file-to-big-to-import = Dit bestand is te groot. Importeer geen grote set sleutels tegelijk.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Intrekkingscertificaat maken en opslaan
+revoke-cert-ok = Het intrekkingscertificaat is met succes gemaakt. U kunt het gebruiken om uw openbare sleutel ongeldig te maken, b.v. voor het geval u uw geheime sleutel zou verliezen.
+revoke-cert-failed = Het intrekkingscertificaat kan niet worden gemaakt.
+gen-going = Sleutel wordt al aangemaakt!
+keygen-missing-user-name = Er is geen naam opgegeven voor de geselecteerde account/identiteit. Voer in de accountinstellingen een waarde in het veld ‘Uw naam’ in.
+expiry-too-short = Uw sleutel moet ten minste een dag geldig zijn.
+expiry-too-long = U kunt geen sleutel maken die over meer dan 100 jaar verloopt.
+key-confirm = Openbare en geheime sleutel voor ‘{ $id }’ aanmaken?
