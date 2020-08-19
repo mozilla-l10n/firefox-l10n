@@ -565,3 +565,13 @@ decrypted-msg-with-format-error = Ontsleuteld bericht (beschadigde PGP-e-mailind
 not-required = Fout – geen versleuteling vereist
 # Strings used in windows.jsm
 no-photo-available = Geen foto beschikbaar
+error-photo-path-not-readable = Fotopad ‘{ $photo }’ is niet leesbaar
+debug-log-title = OpenPGP-debuglogboek
+# Strings used in dialog.jsm
+repeat-prefix = Herhalingsfrequentie waarschuwing: { $count }
+repeat-suffix-singular = keer.
+repeat-suffix-plural = keer.
+no-repeat = Deze waarschuwing wordt niet meer getoond.
+dlg-keep-setting = Mijn antwoord onthouden en het me niet nog een keer vragen
+dlg-button-ok = &OK
+dlg-button-close = &Sluiten
