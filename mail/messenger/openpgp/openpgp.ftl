@@ -472,7 +472,6 @@ key-valid-invalid = ongeldig
 key-valid-disabled = uitgeschakeld
 key-valid-revoked = ingetrokken
 key-valid-expired = verlopen
-key-trust-untrusted = niet vertrouwd
 key-trust-marginal = weinig
 key-trust-full = vertrouwd
 key-trust-ultimate = maximaal
