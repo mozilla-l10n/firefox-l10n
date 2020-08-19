@@ -524,3 +524,44 @@ msg-compose-partially-encrypted-inlinePGP =
     Overweeg om alle geciteerde tekst te verwijderen uit uw antwoord aan deze afzender.
 msg-compose-cannot-save-draft = Fout bij opslaan van concept
 msg-compose-partially-encrypted-short = Pas op voor het lekken van gevoelige informatie – gedeeltelijk versleuteld e-mailbericht.
+quoted-printable-warn =
+    U heeft codering ‘quoted-printable’ ingeschakeld voor het verzenden van berichten. Dit kan resulteren in een onjuiste ontsleuteling en/of verificatie van uw bericht.
+    Wilt u het verzenden van ‘quoted-printable’-berichten nu uitschakelen?
+minimal-line-wrapping =
+    U hebt regelafbreking ingesteld op { $width } tekens. Voor een correcte versleuteling en/of ondertekening moet deze waarde ten minste 68 zijn.
+    Wilt u de regelafbreking nu wijzigen in 68 tekens?
+sending-hidden-rcpt = Bcc-ontvangers (blinde kopie) kunnen niet worden gebruikt bij het verzenden van een versleuteld bericht. Verwijder de bcc-ontvangers of verplaats ze naar het cc-veld om dit versleutelde bericht te verzenden.
+sending-news =
+    Versleutelde verzendbewerking afgebroken.
+    Dit bericht kan niet worden versleuteld omdat de ontvangers nieuwsgroepen bevatten. Verzend het bericht opnieuw zonder versleuteling.
+send-to-news-warning =
+    Waarschuwing: u staat op het punt een versleuteld e-mailbericht naar een nieuwsgroep te sturen.
+    Dit wordt ontmoedigd, omdat het alleen zinvol is als alle leden van de groep het bericht kunnen ontsleutelen, d.w.z. het bericht moet worden versleuteld met de sleutels van alle groepsdeelnemers. Stuur dit bericht alleen als u precies weet wat u doet.
+    Doorgaan?
+save-attachment-header = Ontsleutelde bijlage opslaan
+no-temp-dir =
+    Kan geen tijdelijke map vinden om naar te schrijven
+    Stel de omgevingsvariabele TEMP in
+possibly-pgp-mime = Mogelijk PGP/MIME-versleuteld of -ondertekend bericht; gebruik de functie ‘Ontsleutelen/Verifiëren’ om te verifiëren
+cannot-send-sig-because-no-own-key = Kan dit bericht niet digitaal ondertekenen, omdat u nog geen end-to-end-versleuteling voor <{ $key }> heeft geconfigureerd
+cannot-send-enc-because-no-own-key = Kan dit bericht niet versleuteld verzenden, omdat u nog geen end-to-end-versleuteling voor <{ $key }> heeft geconfigureerd
+# Strings used in decryption.jsm
+do-import-multiple =
+    De volgende sleutels importeren?
+    { $key }
+do-import-one = { $name } ({ $id }) importeren?
+cant-import = Fout bij importeren openbare sleutel
+unverified-reply = Het ingesprongen berichtgedeelte (antwoord) is waarschijnlijk gewijzigd
+key-in-message-body = Er is een sleutel gevonden in de berichttekst. Klik op ‘Sleutel importeren’ om de sleutel te importeren
+sig-mismatch = Fout – handtekening komt niet overeen
+invalid-email = Fout – ongeldig(e) e-mailadres(sen)
+attachment-pgp-key =
+    De bijlage ‘{ $name }’ die u probeert te openen lijkt een OpenPGP-sleutelbestand te zijn.
+    Klik op ‘Importeren’ om de sleutels te importeren of op ‘Weergeven’ om de inhoud van het bestand in een browservenster te bekijken
+dlg-button-view = &Weergeven
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Ontsleuteld bericht (beschadigde PGP-e-mailindeling, waarschijnlijk veroorzaakt door een oude Exchange-server, is hersteld, daarom is het resultaat mogelijk niet perfect te lezen)
+# Strings used in encryption.jsm
+not-required = Fout – geen versleuteling vereist
+# Strings used in windows.jsm
+no-photo-available = Geen foto beschikbaar
