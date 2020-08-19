@@ -28,3 +28,4 @@ autocomplete-import-logins-chromium-edge =
 
 autocomplete-import-logins-info =
     .tooltiptext = Ulteriori informazioni
+autocomplete-import-learn-more = Ulteriori informazioni
