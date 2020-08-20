@@ -22,6 +22,12 @@ printui-page-range-picker =
   .aria-label = Selezionare un intervallo di pagine
 printui-page-custom-range =
   .aria-label = Inserire un intervallo di pagine personalizzato
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = Da
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = a
 
 # Section title for the number of copies to print
 printui-copies-label = Copie
