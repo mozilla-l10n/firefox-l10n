@@ -14,7 +14,6 @@ compatibility-issue-deprecated = (verouderd)
 compatibility-issue-experimental = (experimenteel)
 compatibility-issue-prefixneeded = (voorvoegsel nodig)
 compatibility-issue-deprecated-experimental = (verouderd, experimenteel)
-
 compatibility-issue-deprecated-prefixneeded = (verouderd, voorvoegsel nodig)
 compatibility-issue-experimental-prefixneeded = (experimenteel, voorvoegsel nodig)
 compatibility-issue-deprecated-experimental-prefixneeded = (verouderd, experimenteel, voorvoegsel nodig)
@@ -43,7 +42,6 @@ compatibility-issue-occurrences =
         [one] { $number } keer
        *[other] { $number } keer
     }
-
 compatibility-no-issues-found = Geen compatibiliteitsproblemen gevonden.
 compatibility-close-settings-button =
     .title = Instellingen sluiten
