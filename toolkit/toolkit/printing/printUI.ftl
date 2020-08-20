@@ -21,6 +21,12 @@ printui-page-range-picker =
     .aria-label = Wobceŕk bokow wubraś
 printui-page-custom-range =
     .aria-label = Swójski wobceŕk bokow zapódaś
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = Wót
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = do
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Wusměrjenje
@@ -40,8 +46,22 @@ printui-scale-pcent = Skalěrowaś
 printui-options = Nastajenja
 printui-headers-footers-checkbox = Głowy a nogi śišćaś
 printui-backgrounds-checkbox = Slězyny śišćaś
+printui-color-mode-label = Barwowy modus
+printui-color-mode-color = Barwa
+printui-color-mode-bw = Carny a běły
+printui-margins = Kšomy
+printui-margins-default = Standard
+printui-margins-min = Minimum
+printui-margins-none = Žedna
 printui-system-dialog-link = Z pomocu systemowego dialoga śišćaś…
 printui-primary-button = Śišćaś
 printui-primary-button-save = Składowaś
 printui-cancel-button = Pśetergnuś
 printui-loading = Śišćarski pśeglěd pśigótowaś
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Skalěrowanje musy licba mjazy 10 a 200 byś.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Wobceŕk musy licba mjazy 1 a { $numPages } byś.
