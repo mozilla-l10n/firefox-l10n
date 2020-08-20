@@ -75,3 +75,6 @@ printui-loading = Preparazione anteprima
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Il ridimensionamento deve essere un numero compreso tra 10 e 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = L’intervallo deve essere un numero compreso tra 1 e { $numPages }.
