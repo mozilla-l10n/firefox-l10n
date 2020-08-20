@@ -7,7 +7,6 @@ page-subtitle =
     Iste pagina contine informationes technic que pote servir quando tu
     tenta de resolver un problema. Si tu cerca responsas a questiones commun
     re { -brand-short-name }, controla nostre <a data-l10n-name="support-link">sito web de assistentia</a>.
-
 crashes-title = Reportos de collapso
 crashes-id = ID de reporto
 crashes-send-date = Submittite
@@ -81,6 +80,9 @@ show-dir-label =
         [windows] Aperir le dossier
        *[other] Aperir le directorio
     }
+environment-variables-title = Variabiles de ambiente
+environment-variables-name = Nomine
+environment-variables-value = Valor
 experimental-features-title = Functionalitates experimental
 experimental-features-name = Nomine
 experimental-features-value = Valor
@@ -127,7 +129,6 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar le modo secur
 restart-in-safe-mode-label = Reinitiar con le additivos inactive…
-
 clear-startup-cache-title = Prova clarar le cache de lanceamento initial
 clear-startup-cache-label = Clarar cache de lanceamento initial…
 startup-cache-dialog-title = Clarar cache de lanceamento initial
@@ -190,7 +191,6 @@ report-crash-for-days =
         [one] Reportos de collapso del ultime { $days } die
        *[other] Reportos de collapso pro le ultime { $days } dies
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,7 +198,6 @@ crashes-time-minutes =
         [one] { $minutes } minuta retro
        *[other] { $minutes } minutas retro
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -206,7 +205,6 @@ crashes-time-hours =
         [one] { $hours } hora retro
        *[other] { $hours } horas retro
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -214,7 +212,6 @@ crashes-time-days =
         [one] { $days } die retro
        *[other] { $days } dies retro
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -222,7 +219,6 @@ pending-reports =
         [one] Tote le reportos de collapso (includente { $reports } collapso pendente in le intervallo indicate)
        *[other] Tote le reportos de collapso (includente { $reports } collapsos pendente in le intervallo indicate)
     }
-
 raw-data-copied = Datos brute copiate al area de transferentia
 text-copied = Texto copiate al area de transferentia
 
@@ -235,11 +231,9 @@ blocked-mismatched-version = Blocate perque le registro e le DLL ha un discordan
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocate per le version de tu conductor graphic. Tenta actualisar tu conductor graphic al version { $driverVersion } o plus recente.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametros ClearType
-
 compositing = Composition
 hardware-h264 = Decodification H264 hardware
 main-thread-no-omtc = filo principal, sin OMTC
@@ -254,7 +248,6 @@ virtual-monitor-disp = Schermo monitor virtual
 
 found = Trovate
 missing = Mancante
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Description
@@ -278,25 +271,20 @@ webgl2-version = Driver WebGL 2 - version
 webgl2-driver-extensions = Driver WebGL 2 - extensiones
 webgl2-extensions = Extensiones WebGL 2
 blocklisted-bug = Inserite in le lista del blocates per problemas note
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = error { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Inserite in lista del blocadas per note problemas: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Inserite in le lista del blocates: codice de error { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificator de video D3D11
 d3d9video-crash-guard = Decodificator de video D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodificator de video WMF VPX
-
 reset-on-next-restart = Reinitialisar post quitar e reaperir
 gpu-process-kill-button = Terminar le processo GPU
 gpu-device-reset = Restabilir le apparato
@@ -306,10 +294,8 @@ content-uses-tiling = Usa mosaicos (contento)
 off-main-thread-paint-enabled = Pictura foras le filo de execution principal active
 off-main-thread-paint-worker-count = Quantitate de workers de pictura foras le filo de execution principal
 target-frame-rate = Objectivo de frequentia de photogrammas
-
 min-lib-versions = Version minime expectate
 loaded-lib-versions = Version in uso
-
 has-seccomp-bpf = Seccomp-BPF (filtrage del appellos del systema)
 has-seccomp-tsync = Synchronisation del filo de execution Seccomp
 has-user-namespaces = Spatios de nomines de usator
@@ -322,18 +308,15 @@ sandbox-proc-type-content = contento
 sandbox-proc-type-file = contento del file
 sandbox-proc-type-media-plugin = plugin de media
 sandbox-proc-type-data-decoder = decodificator de datos
-
 startup-cache-title = Cache de initio
 startup-cache-disk-cache-path = Percurso al cache sur disco
 startup-cache-ignore-disk-cache = Ignorar le cache sur disco
 startup-cache-found-disk-cache-on-init = Cache sur disco trovate durante initialisation
 startup-cache-wrote-to-disk-cache = Datos scribite al cache sur disco
-
 launcher-process-status-0 = Activate
 launcher-process-status-1 = Disactivate per falta
 launcher-process-status-2 = Disactivate in modo fortiate
 launcher-process-status-unknown = Stato incognite
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -346,7 +329,6 @@ multi-process-status-6 = Disactivate per entrata de texto non supportate
 multi-process-status-7 = Disactivate per additivos
 multi-process-status-8 = Disactivate fortiatemente
 multi-process-status-unknown = Stato incognite
-
 async-pan-zoom = Pan/Zoom asynchrone
 apz-none = nulle
 wheel-enabled = entrata a rota activate
