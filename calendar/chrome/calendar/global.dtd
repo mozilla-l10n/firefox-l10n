@@ -2,35 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY time.midnight "Canol Nos" >
-<!ENTITY time.noon "Canol Dydd" >
-
-<!-- Day Names -->
-<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
-     only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "Sul" >
-<!ENTITY day.1.Ddd.accesskey "S">
-<!ENTITY day.2.Ddd "Llu" >
-<!ENTITY day.2.Ddd.accesskey "L">
-<!ENTITY day.3.Ddd "Maw" >
-<!ENTITY day.3.Ddd.accesskey "M">
-<!ENTITY day.4.Ddd "Mer" >
-<!ENTITY day.4.Ddd.accesskey "e">
-<!ENTITY day.5.Ddd "Iau" >
-<!ENTITY day.5.Ddd.accesskey "I">
-<!ENTITY day.6.Ddd "Gwe" >
-<!ENTITY day.6.Ddd.accesskey "G">
-<!ENTITY day.7.Ddd "Sad" >
-<!ENTITY day.7.Ddd.accesskey "a">
-
-<!ENTITY day.1.name "Dydd Sul" >
-<!ENTITY day.2.name "Dydd Llun" >
-<!ENTITY day.3.name "Dydd Mawrth" >
-<!ENTITY day.4.name "Dydd Mercher" >
-<!ENTITY day.5.name "Dydd Iau" >
-<!ENTITY day.6.name "Dydd Gwener" >
-<!ENTITY day.7.name "Dydd Sadwrn" >
-
 <!ENTITY month.1.name "Ionawr" >
 <!ENTITY month.2.name "Chwefror" >
 <!ENTITY month.3.name "Mawrth" >
@@ -49,6 +20,6 @@
 <!ENTITY oneyearbackward.tooltip "Nôl Un Flwyddyn" >
 <!ENTITY oneyearforward.tooltip "Ymlaen Un Flwyddyn" >
 <!ENTITY showToday.tooltip "Mynd i Heddiw">
-<!ENTITY onedayforward.tooltip "Un Diwrnod Ymlaen">
-<!ENTITY onedaybackward.tooltip "Un Diwrnod Nôl">
+<!ENTITY onedayforward.tooltip "Ymlaen Un Diwrnod">
+<!ENTITY onedaybackward.tooltip "Nôl Un Diwrnod">
 <!ENTITY showselectedday.tooltip "Dangos digwyddiadau un diwrnod">

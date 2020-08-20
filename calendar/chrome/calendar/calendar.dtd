@@ -9,7 +9,7 @@
 <!ENTITY calendar.newevent.button.tooltip         "Creu digwyddiad newydd" >
 <!ENTITY calendar.newtask.button.tooltip          "Creu tasg newydd" >
 
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Dangos Tasgau wedi eu cwblhau">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Dangos Tasgau wedi'u cwblhau">
 
 <!ENTITY calendar.today.button.label          "Heddiw">
 <!ENTITY calendar.tomorrow.button.label       "Yfory">
@@ -35,7 +35,7 @@
 <!ENTITY calendar.unifinder.tree.title.label               "Teitl">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Trefnu yn ôl teitl">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "Cwblhawyd &#037;">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Trefnu yn ôl &#037; wedi eu cwblhau">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Trefnu yn ôl &#037; wedi'u cwblhau">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Cychwyn">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Trefnu yn ôl dyddiad cychwyn">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Diwedd">
@@ -77,7 +77,7 @@
 <!ENTITY calendar.nextmonth.accesskey           "M" >
 <!ENTITY calendar.prevmonth.accesskey           "l" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "Un Diwrnod Ymlaen" >
+<!ENTITY calendar.navigation.nextday.tooltip    "Ymlaen Un Diwrnod" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Yn Diwrnod Nôl" >
 <!ENTITY calendar.navigation.nextweek.tooltip   "Un Wythnos Ymlaen" >
 <!ENTITY calendar.navigation.prevweek.tooltip   "Un Wythnos Nôl" >
@@ -362,7 +362,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Dangos Atgoffwyr">
 <!ENTITY calendarproperties.cache3.label                   "Cefnogaeth All-lein">
 <!ENTITY calendarproperties.enabled2.label                 "Galluogi'r Calendr hwn">
-<!ENTITY calendarproperties.forceDisabled.label            "Nid oes modd canfod darparwr y calendr hwn. Mae hyn yn digwydd yn aml os ydych wedi anablu neu ddadosod rhai ychwanegion.">
+<!ENTITY calendarproperties.forceDisabled.label            "Nid oes modd canfod darparwr y calendr hwn. Mae hyn yn digwydd yn aml os ydych wedi analluogi neu ddadosod rhai ychwanegion.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dad-danysgrifio">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "a">
 
