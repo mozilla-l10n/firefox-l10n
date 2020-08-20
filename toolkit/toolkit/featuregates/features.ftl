@@ -38,6 +38,8 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Εργαλεία προγραμματιστή: Προσομοίωση συνόλου χρωμάτων
 experimental-features-devtools-execution-context-selector =
     .label = Εργαλεία προγραμματιστή: Επιλογή περιβάλλοντος εκτέλεσης
 experimental-features-devtools-compatibility-panel =
@@ -62,6 +64,9 @@ experimental-features-cookie-samesite-schemeful =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Εργαλεία προγραμματιστή: Εντοπισμός σφαλμάτων service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Ενεργοποιεί την πειραματική υποστήριξη για Service Workers στον πίνακα εντοπισμού σφαλμάτων. Αυτή η δυνατότητα ενδέχεται να επιβραδύνει τα εργαλεία προγραμματιστή και να αυξήσει την κατανάλωση μνήμης.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Γραφικά: Ζουμ με ομαλό "τσίμπημα" (pinch)
+experimental-features-graphics-desktop-zooming-description = Ενεργοποιεί την υποστήριξη για ομαλό ζουμ σε οθόνες αφής και επιφάνειες αφής ακριβείας.
