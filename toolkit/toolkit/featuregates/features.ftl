@@ -57,6 +57,7 @@ experimental-features-abouthome-startup-cache =
     .label = Προσωρινή μνήμη εκκίνησης του about:home
 experimental-features-print-preview-tab-modal =
     .label = Ανασχεδιασμός προεπισκόπησης εκτύπωσης
+experimental-features-print-preview-tab-modal-description = Παρουσιάζει την ανασχεδιασμένη προεπισκόπηση εκτύπωσης και καθιστά διαθέσιμη την προεπισκόπηση εκτύπωσης στο macOS. Αυτό ίσως προκαλέσει προβλήματα και δεν περιέχει όλες τις ρυθμίσεις εκτύπωσης. Για πρόσβαση σε όλες τις ρυθμίσεις εκτύπωσης, επιλέξτε “Εκτύπωση μέσω διαλόγου συστήματος…” από το παράθυρο εκτύπωσης.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
