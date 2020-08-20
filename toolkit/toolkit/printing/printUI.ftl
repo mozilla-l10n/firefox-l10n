@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = Välj sidintervall
 printui-page-custom-range =
     .aria-label = Ange anpassat sidintervall
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = Från
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = till
 # Section title for the number of copies to print
 printui-copies-label = Kopior
 printui-orientation = Orientering
@@ -38,8 +44,16 @@ printui-scale-pcent = Skala
 printui-options = Alternativ
 printui-headers-footers-checkbox = Skriv ut sidhuvud och sidfot
 printui-backgrounds-checkbox = Skriv ut bakgrunder
+printui-color-mode-color = Färg
+printui-color-mode-bw = Svartvit
+printui-margins = Marginaler
+printui-margins-default = Standard
 printui-system-dialog-link = Skriv ut via systemets dialogruta…
 printui-primary-button = Skriv ut
 printui-primary-button-save = Spara
 printui-cancel-button = Avbryt
 printui-loading = Förbereder förhandsvisning
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Skalan måste vara ett nummer mellan 10 och 200.
