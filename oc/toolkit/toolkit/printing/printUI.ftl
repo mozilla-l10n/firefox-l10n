@@ -59,3 +59,7 @@ printui-loading = Preparacion de l’apercebut
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = L’escala deu èsser un nombre entre 10 e 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = La plaja deu èsser un nombre entre 1 e { $numPages }.
