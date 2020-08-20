@@ -43,6 +43,13 @@ printui-scale-pcent = 배율
 printui-options = 옵션
 printui-headers-footers-checkbox = 머리글 및 바닥글 인쇄
 printui-backgrounds-checkbox = 배경 인쇄
+printui-color-mode-label = 색상 모드
+printui-color-mode-color = 색상
+printui-color-mode-bw = 흑백
+printui-margins = 여백
+printui-margins-default = 기본값
+printui-margins-min = 최소값
+printui-margins-none = 없음
 printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-primary-button-save = 저장
@@ -51,3 +58,7 @@ printui-loading = 미리보기 준비 중
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = 배율은 10에서 200 사이의 숫자여야 합니다.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = 범위는 1에서 { $numPages } 사이의 숫자여야 합니다.
