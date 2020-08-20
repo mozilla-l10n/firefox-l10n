@@ -12,3 +12,12 @@ sync-disconnect-dialog-body = { -brand-product-name } interromperà la sincroniz
 fxa-disconnect-dialog-title = Disconnettersi da { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } sarà disconnesso dall’account ma non verrà rimosso alcun dato relativo alla navigazione da questo dispositivo.
 sync-disconnect-dialog-button = Disconnetti
+
+fxa-signout-dialog-heading = Disconnettersi dall’{ -fxaccount-brand-name }?
+fxa-signout-dialog-body = I dati sincronizzati verranno mantenuti nell’account.
+fxa-signout-checkbox =
+    .label = Elimina i dati da questo dispositivo (accessi, password, cronologia, segnalibri, ecc.).
+fxa-signout-dialog =
+    .title = Disconnessione dall’{ -fxaccount-brand-name }
+    .style = min-width: 375px;
+    .buttonlabelaccept = Disconnetti
