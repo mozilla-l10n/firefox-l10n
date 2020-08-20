@@ -11,6 +11,8 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Import your login from { $browser }</div>
     <div data-l10n-name="line2">for { $host } and other sites</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Learn more
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
@@ -27,5 +29,4 @@ autocomplete-import-logins-chromium-edge =
 
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Learn more
+autocomplete-import-learn-more = Learn more

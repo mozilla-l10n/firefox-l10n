@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = Pick page range
 printui-page-custom-range =
     .aria-label = Enter custom page range
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = From
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = to
 # Section title for the number of copies to print
 printui-copies-label = Copies
 printui-orientation = Orientation
@@ -38,8 +44,22 @@ printui-scale-pcent = Scale
 printui-options = Options
 printui-headers-footers-checkbox = Print headers and footers
 printui-backgrounds-checkbox = Print backgrounds
+printui-color-mode-label = Colour mode
+printui-color-mode-color = Colour
+printui-color-mode-bw = Black and white
+printui-margins = Margins
+printui-margins-default = Default
+printui-margins-min = Minimum
+printui-margins-none = None
 printui-system-dialog-link = Print using the system dialog…
 printui-primary-button = Print
 printui-primary-button-save = Save
 printui-cancel-button = Cancel
 printui-loading = Preparing Preview
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Scale must be a number between 10 and 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Range must be a number between 1 and { $numPages }.
