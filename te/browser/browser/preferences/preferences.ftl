@@ -385,6 +385,7 @@ browsing-cfr-recommendations-learn-more = ఇంకా తెలుసుకో�
 ## General Section - Proxy
 
 network-settings-title = నెట్‌వర్క్ అమరికలు
+network-proxy-connection-description = { -brand-short-name } అంతర్జాలానికి ఎలా అనుసంధామవ్వాలో స్వరూపించండి.
 network-proxy-connection-learn-more = ఇంకా తెలుసుకోండి
 network-proxy-connection-settings =
     .label = అమరికలు…
@@ -664,10 +665,17 @@ forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
 forms-breach-alerts-learn-more-link = ఇంకా తెలుసుకోండి
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = ప్రవేశాలను, సంకేతపదాలను స్వయంచాలకంగా పూరించు
+    .accesskey = i
 forms-saved-logins =
     .label = భద్రపరచిన ప్రవేశాలు…
     .accesskey = L
 forms-master-pw-use =
+    .label = ప్రధాన సంకేతపదాన్ని వాడు
+    .accesskey = U
+forms-primary-pw-use =
     .label = ప్రధాన సంకేతపదాన్ని వాడు
     .accesskey = U
 forms-primary-pw-learn-more-link = ఇంకా తెలుసుకోండి
@@ -743,8 +751,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = నిరోధించిన రకం
     .accesskey = T
+sitedata-option-block-cross-site-trackers =
+    .label = క్రాస్-సైట్ ట్రాకర్లు
 sitedata-option-block-unvisited =
     .label = చూడని వెబ్‌సైట్ల కుకీలు
+sitedata-option-block-all =
+    .label = కుకీలన్నీ (వెబ్‌సైట్లు పనిచేయకపోడానికి కారణమవుతుంది)
 sitedata-clear =
     .label = డేటాను తుడిచివేయి…
     .accesskey = l
@@ -797,7 +809,11 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-private-windows = అంతరంగిక కిటికీలలో ట్రాకింగ్ విషయం
+content-blocking-cross-site-tracking-cookies = క్రాస్ -సైట్ ట్రాకింగ్ కుకీలు
+content-blocking-social-media-trackers = సామాజిక మాధ్యమాల ట్రాకర్లు
 content-blocking-all-cookies = అన్ని కుకీలు
+content-blocking-unvisited-cookies = చూడని సైట్ల నుండి కుకీలు
 content-blocking-all-third-party-cookies = మూడవ-పక్ష కుకీలన్నీ
 content-blocking-cryptominers = క్రిప్టోమైనర్లు
 content-blocking-fingerprinters = ఫింగర్‌ప్రింటర్లు
