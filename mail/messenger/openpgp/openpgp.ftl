@@ -166,6 +166,16 @@ import-info-fpr = Palcowy wótśišć
 key-man-loading-keys = Kluce se zacytuju, pšosym cakajśo…
 export-to-file = Zjawny kluc do dataje eksportěrowaś
 general-error = Zmólka: { $reason }
+dlg-button-delete = &Lašowaś
 
 ## Account settings export output
 
+# Strings used in windows.jsm
+no-photo-available = Žedno foto k dispoziciji
+dlg-button-ok = W pó&rěźe
+dlg-button-close = &Zacyniś
+dlg-button-cancel = &Pśetergnuś
+dlg-no-prompt = Toś ten dialog wěcej njepokazaś
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Hyšći raz wopytaś
+dlg-button-skip = &Pśeskócyś
