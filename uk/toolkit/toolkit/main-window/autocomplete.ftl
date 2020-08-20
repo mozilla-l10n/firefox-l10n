@@ -11,6 +11,8 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Імпортуйте ваш пароль з { $browser }</div>
     <div data-l10n-name="line2">для { $host } та інших сайтів</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Докладніше
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
@@ -27,5 +29,4 @@ autocomplete-import-logins-chromium-edge =
 
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Докладніше
+autocomplete-import-learn-more = Докладніше
