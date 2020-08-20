@@ -18,6 +18,12 @@ printui-page-range-picker =
     .aria-label = 选择页数范围
 printui-page-custom-range =
     .aria-label = 输入自定义页数范围
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = 从
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = 到
 # Section title for the number of copies to print
 printui-copies-label = 份数
 printui-orientation = 方向
@@ -37,8 +43,22 @@ printui-scale-pcent = 缩放比例
 printui-options = 选项
 printui-headers-footers-checkbox = 打印页眉和页脚
 printui-backgrounds-checkbox = 打印背景
+printui-color-mode-label = 色彩模式
+printui-color-mode-color = 彩色
+printui-color-mode-bw = 黑白
+printui-margins = 边距
+printui-margins-default = 默认
+printui-margins-min = 最小
+printui-margins-none = 无
 printui-system-dialog-link = 使用系统对话框打印...
 printui-primary-button = 打印
 printui-primary-button-save = 保存
 printui-cancel-button = 取消
 printui-loading = 正在准备预览
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = 缩放比例须在 10 到 200 之间。
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = 打印范围须在第 1 页到第 { $numPages } 页之间。

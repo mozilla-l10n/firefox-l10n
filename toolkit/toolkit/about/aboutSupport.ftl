@@ -7,7 +7,6 @@ page-subtitle =
     本页面包含的技术信息在您寻求解决方法时或许能帮上忙。
     如果您正在寻找 { -brand-short-name } 常见问题的答案，
     可以查阅我们的<a data-l10n-name="support-link">帮助网站</a>。
-
 crashes-title = 崩溃报告
 crashes-id = 报告 ID
 crashes-send-date = 提交日期
@@ -81,6 +80,9 @@ show-dir-label =
         [windows] 打开文件夹
        *[other] 打开目录
     }
+environment-variables-title = 环境变量
+environment-variables-name = 名称
+environment-variables-value = 值
 experimental-features-title = 实验性功能
 experimental-features-name = 名称
 experimental-features-value = 值
@@ -127,7 +129,6 @@ sandbox-sys-call-number = 系统调用
 sandbox-sys-call-args = 参数
 safe-mode-title = 尝试安全模式
 restart-in-safe-mode-label = 以安全模式重启浏览器…
-
 clear-startup-cache-title = 尝试清除启动缓存
 clear-startup-cache-label = 清除启动缓存...
 startup-cache-dialog-title = 清除启动缓存
@@ -186,23 +187,18 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 近 { $days } 天的崩溃报告
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } 分钟前
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } 小时前
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } 天前
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = 全部崩溃报告（包括 { $reports } 个待上传的指定时间范围内的崩溃）
-
 raw-data-copied = 原始数据已复制到剪贴板
 text-copied = 文本已复制到剪贴板
 
@@ -215,11 +211,9 @@ blocked-mismatched-version = 因您的注册表与 DLL 中的显卡驱动程序�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = 因您的显卡驱动版本而无法启用。请尝试更新您的显卡驱动程序至版本 { $driverVersion } 或更新的版本。
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType 参数
-
 compositing = 合成
 hardware-h264 = H264 硬件解码
 main-thread-no-omtc = 主线程，无 OMTC
@@ -234,7 +228,6 @@ virtual-monitor-disp = 虚拟显示器
 
 found = 存在
 missing = 缺失
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = 描述
@@ -258,25 +251,20 @@ webgl2-version = WebGL 2 驱动程序版本
 webgl2-driver-extensions = WebGL 2 驱动程序扩展
 webgl2-extensions = WebGL 2 扩展
 blocklisted-bug = 因已知问题已被列入黑名单
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = 由于已知问题，被列入屏蔽列表：<a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = 已列入黑名单；故障代码 { $failureCode }
-
 d3d11layers-crash-guard = D3D11 合成器
 d3d11video-crash-guard = D3D11 视频解码器
 d3d9video-crash-guard = D3D9 视频解码器
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX 视频解码器
-
 reset-on-next-restart = 下次开启时重置
 gpu-process-kill-button = 终止 GPU 进程
 gpu-device-reset = 设备重置
@@ -286,10 +274,8 @@ content-uses-tiling = 使用 Tiling（内容）
 off-main-thread-paint-enabled = 非主线程绘制已启用
 off-main-thread-paint-worker-count = 非主线程绘制工作器数量
 target-frame-rate = 目标帧率
-
 min-lib-versions = 预期最低版本
 loaded-lib-versions = 目前使用版本
-
 has-seccomp-bpf = Seccomp-BPF（系统调用过滤）
 has-seccomp-tsync = Seccomp 线程同步
 has-user-namespaces = 用户命名空间
@@ -302,18 +288,15 @@ sandbox-proc-type-content = 内容
 sandbox-proc-type-file = 文件内容
 sandbox-proc-type-media-plugin = 媒体插件
 sandbox-proc-type-data-decoder = 数据解码器
-
 startup-cache-title = 启动缓存
 startup-cache-disk-cache-path = 磁盘缓存路径
 startup-cache-ignore-disk-cache = 忽略磁盘缓存
 startup-cache-found-disk-cache-on-init = 在初始化时发现磁盘缓存
 startup-cache-wrote-to-disk-cache = 已写入磁盘缓存
-
 launcher-process-status-0 = 启用
 launcher-process-status-1 = 因故障而禁用
 launcher-process-status-2 = 强制禁用
 launcher-process-status-unknown = 未知状态
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -326,7 +309,6 @@ multi-process-status-6 = 因不支持的文本输入而禁用
 multi-process-status-7 = 因部分附加组件而禁用
 multi-process-status-8 = 被强制禁用
 multi-process-status-unknown = 未知状态
-
 async-pan-zoom = 异步平移/缩放
 apz-none = 无
 wheel-enabled = 滚轮输入已启用

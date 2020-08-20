@@ -11,6 +11,8 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">从 { $browser } 导入您的登录信息</div>
     <div data-l10n-name="line2">用于 { $host } 和其他网站</div>
+autocomplete-import-logins-info =
+    .tooltiptext = 详细了解
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
@@ -21,5 +23,4 @@ autocomplete-import-logins-chromium-edge = <div data-l10n-name="line1">从 Micro
 
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = 详细了解
+autocomplete-import-learn-more = 详细了解
