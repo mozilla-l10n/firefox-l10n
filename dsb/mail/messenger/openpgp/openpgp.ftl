@@ -170,6 +170,29 @@ dlg-button-delete = &Lašowaś
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Wužywaŕski atribut (JPEG-wobraz)
+key-man-button-revoke-key = &Kluc wótwołaś
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importěrowaś
+delete-key-title = OpenPGP-kluc lašowaś
+# Strings used in trust.jsm
+key-valid-unknown = njeznaty
+key-valid-invalid = njepłaśiwy
+key-valid-disabled = znjemóžnjony
+key-valid-revoked = wótwołany
+key-valid-expired = pśepadnjony
+key-trust-untrusted = dowěry njegódny
+key-trust-full = dowěry gódny
+key-trust-group = (kupka)
+gnupg-file = GnuPG-dataje
+key-man-button-generate-key = &Kluc napóraś
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Powěsć pósłaś
+msg-compose-details-button-label = Drobnostki…
+msg-compose-details-button-access-key = D
+dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
 dlg-button-ok = W pó&rěźe
