@@ -18,6 +18,7 @@ openpgp-key-gen-years-label =
 openpgp-key-gen-no-expiry-label =
     .label = Kluc njespadnjo
 openpgp-key-gen-key-size-label = Wjelikosć kluca
+openpgp-key-gen-console-label = Naporanje kluca
 openpgp-key-gen-key-type-label = Klucowy typ
 openpgp-key-gen-key-type-rsa =
     .label = RSA
@@ -123,12 +124,24 @@ openpgp-card-details-close-window-label =
     .buttonlabelaccept = Zacyniś
 openpgp-acceptance-rejected-label =
     .label = Ně, toś ten kluc wótpokazaś.
+openpgp-acceptance-undecided-label =
+    .label = Hyšći nic, snaź pózdźej.
+openpgp-copy-cmd-label =
+    .label = Kopěrowaś
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Kluc pśidaś…
+    .accesskey = K
+e2e-learn-more = Dalšne informacije
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Žeden
+openpgp-key-expand-section =
+    .tooltiptext = Dalšne informacije
 
 ## Account settings export output
 
