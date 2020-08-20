@@ -49,6 +49,15 @@ printui-options = Opzioni
 printui-headers-footers-checkbox = Stampa intestazioni e piè di pagina
 printui-backgrounds-checkbox = Stampa sfondi
 
+printui-color-mode-label = Modalità colore
+printui-color-mode-color = Colori
+printui-color-mode-bw = Bianco e nero
+
+printui-margins = Margini
+printui-margins-default = Predefiniti
+printui-margins-min = Minimi
+printui-margins-none = Nessuno
+
 printui-system-dialog-link = Stampa utilizzando la finestra di dialogo del sistema…
 
 printui-primary-button = Stampa
