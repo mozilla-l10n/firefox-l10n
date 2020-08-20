@@ -80,6 +80,9 @@ show-dir-label =
         [windows] Map openen
        *[other] Map openen
     }
+environment-variables-title = Omgevingsvariabelen
+environment-variables-name = Naam
+environment-variables-value = Waarde
 experimental-features-title = Experimentele functies
 experimental-features-name = Naam
 experimental-features-value = Waarde

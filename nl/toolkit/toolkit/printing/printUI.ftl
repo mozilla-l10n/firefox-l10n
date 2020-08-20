@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = Paginabereik kiezen
 printui-page-custom-range =
     .aria-label = Aangepast paginabereik invoeren
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = Van
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = tot
 # Section title for the number of copies to print
 printui-copies-label = Kopieën
 printui-orientation = Oriëntatie
@@ -38,8 +44,22 @@ printui-scale-pcent = Schaal
 printui-options = Opties
 printui-headers-footers-checkbox = Kop- en voetteksten afdrukken
 printui-backgrounds-checkbox = Achtergronden afdrukken
+printui-color-mode-label = Kleurmodus
+printui-color-mode-color = Kleur
+printui-color-mode-bw = Zwart-wit
+printui-margins = Marges
+printui-margins-default = Standaard
+printui-margins-min = Minimum
+printui-margins-none = Geen
 printui-system-dialog-link = Afdrukken via het systeemdialoogvenster…
 printui-primary-button = Afdrukken
 printui-primary-button-save = Opslaan
 printui-cancel-button = Annuleren
 printui-loading = Voorbeeld voorbereiden
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = De schaal moet een getal tussen 10 en 200 zijn.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Het bereik moet een getal tussen 1 en { $numPages } zijn.
