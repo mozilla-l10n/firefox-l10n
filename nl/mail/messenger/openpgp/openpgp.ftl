@@ -224,8 +224,8 @@ openpgp-copy-cmd-label =
 openpgp-description =
     { $count ->
         [0] Thunderbird heeft geen persoonlijke OpenPGP-sleutel voor <b>{ $identity }</b>
-        [one] Thunderbird heeft { $count } persoonlijke OpenPGP-sleutel die is gekoppeld aan <b>{ $identity }</b> gevonden
-       *[other] Thunderbird heeft { $count } persoonlijke OpenPGP-sleutels die zijn gekoppeld aan <b>{ $identity }</b> gevonden
+        [one] Thunderbird heeft { $count } persoonlijke OpenPGP-sleutel gevonden die is gekoppeld aan <b>{ $identity }</b>
+       *[other] Thunderbird heeft { $count } persoonlijke OpenPGP-sleutels gevonden die zijn gekoppeld aan <b>{ $identity }</b>
     }
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $key (String) - the currently selected OpenPGP key
@@ -236,7 +236,7 @@ openpgp-selection-status =
        *[other] Uw huidige configuratie gebruikt sleutel-ID <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status-error = Uw huidige configuratie gebruikt de sleutel <b>{ $key }</b>, die is verlopen.
+openpgp-selection-status-error = Uw huidige configuratie gebruikt de sleutel <b>{ $key }</b>, die is vervallen.
 openpgp-add-key-button =
     .label = Sleutel toevoegen…
     .accesskey = v
@@ -281,7 +281,7 @@ key-usage-encrypt = Versleutelen
 key-usage-sign = Ondertekenen
 key-usage-certify = Certificeren
 key-usage-authentication = Authenticatie
-key-does-not-expire = De sleutel verloopt niet
+key-does-not-expire = De sleutel vervalt niet
 key-expired-date = De sleutel is vervallen op { $keyExpiry }
 key-expired-simple = De sleutel is vervallen
 key-revoked-simple = De sleutel is ingetrokken
