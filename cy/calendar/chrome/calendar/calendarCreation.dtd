@@ -45,7 +45,7 @@
 <!ENTITY network.nocredentials.label "Nid yw'r lleoliad hwn angen dilysiad">
 <!ENTITY network.loading.description "Arhoswch tra bod eich calendrau yn cael eu darganfod.">
 <!ENTITY network.notfound.description "Heb ganfod calendrau yn y lleoliad hwn. Gwiriwch eich gosodiadau.">
-<!ENTITY network.authfail.description "Nid yw'r manylion rydych wedi eu cynnig wedi eu derbyn. Gwiriwch eich gosodiadau.">
+<!ENTITY network.authfail.description "Nid yw'r manylion rydych wedi'u cynnig wedi eu derbyn. Gwiriwch eich gosodiadau.">
 
 <!ENTITY network.subscribe.single.description "Dewiswch y calendrau'r hoffech danysgrifio iddynt.">
 <!ENTITY network.subscribe.multiple.description "Mae mathau calendr lluosog ar gael; ar gyfer y lleoliad hwn. Dewiswch y math o galendr, yna mario'r calendrau yr hoffech chi danysgrifio iddyn nhw.">
