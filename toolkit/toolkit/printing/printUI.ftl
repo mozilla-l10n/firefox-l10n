@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = Velg sideområde
 printui-page-custom-range =
     .aria-label = Angi tilpassset sideområde
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = Fra
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = til
 # Section title for the number of copies to print
 printui-copies-label = Eksemplarer
 printui-orientation = Papirretning
@@ -38,8 +44,22 @@ printui-scale-pcent = Skalering
 printui-options = Innstillinger
 printui-headers-footers-checkbox = Skriv ut topptekst og bunntekst
 printui-backgrounds-checkbox = Skriv ut bakgrunner
+printui-color-mode-label = Fargemodus
+printui-color-mode-color = Farge
+printui-color-mode-bw = Svart-hvit
+printui-margins = Marger
+printui-margins-default = Standard
+printui-margins-min = Minimum
+printui-margins-none = Ingen
 printui-system-dialog-link = Skriv ut ved hjelp av systemdialogvinduet…
 printui-primary-button = Skriv ut
 printui-primary-button-save = Lagre
 printui-cancel-button = Avbryt
 printui-loading = Forbereder forhåndsvisning
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Skaleringen må være et tall mellom 10 og 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Området må være et tall mellom 1 og { $numPages }.
