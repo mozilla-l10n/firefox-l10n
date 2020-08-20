@@ -76,6 +76,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Un cache pentru documentul inițial about:home care este încărcat implicit la pornire. Scopul cache-ului este să îmbunătățească performanța de pornire.
 experimental-features-print-preview-tab-modal =
     .label = Reproiectarea previzualizării înainte de tipărire
+experimental-features-print-preview-tab-modal-description = Introduce previzualizarea reproiectată înainte de tipărire și face previzualizarea disponibilă pe macOS. Are potențialul de a introduce erori și nu include toate setările legate de tipărire. Pentru acces la toate setările de tipărire, selectează „Tipărește folosind fereastra de dialog a sistemului...” din panoul Tipărire.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
