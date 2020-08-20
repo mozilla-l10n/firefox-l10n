@@ -312,6 +312,34 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = జాలంలో వెతకండి
+    .aria-label = { $name }తో జాలంలో వెతకండి
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
+    .aria-label = { $name }‌లో వెతకండి
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
+    .aria-label = ఇష్టాంశాలలో వెతకండి
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
+    .aria-label = చరిత్రలో వెతకండి
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
+    .aria-label = ట్యాబులలో వెతకండి
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
