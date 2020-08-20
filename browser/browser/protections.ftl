@@ -47,6 +47,13 @@ monitor-view-report-link = నివేదికను చూడండి
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-fingerprinter =
+    .title = ఫింగర్‌ప్రింటర్లు
+    .aria-label =
+        { $count ->
+            [one] { $count } ఫింగర్‌ప్రింటర్ ({ $percentage }%)
+           *[other] { $count } ఫింగర్‌ప్రింటర్లు ({ $percentage }%)
+        }
 bar-tooltip-cryptominer =
     .title = క్రిప్టోమైనర్లు
     .aria-label =
