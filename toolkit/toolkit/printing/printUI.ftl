@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = Causir plaja de paginas
 printui-page-custom-range =
     .aria-label = Picar una plaja de paginas personalizada
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = De
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = fins a
 # Section title for the number of copies to print
 printui-copies-label = Còpias
 printui-orientation = Orientacion
@@ -38,8 +44,18 @@ printui-scale-pcent = Escala
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimir las entèstas e los pè de pagina
 printui-backgrounds-checkbox = Imprimir los rèireplans
+printui-color-mode-label = Mòde color
+printui-color-mode-color = Color
+printui-color-mode-bw = Blanc e negre
+printui-margins = Marges
+printui-margins-default = Per defaut
+printui-margins-min = Minimum
+printui-margins-none = Pas cap
 printui-system-dialog-link = Imprimir en utilizant los menús del sistèma…
 printui-primary-button = Imprimir
 printui-primary-button-save = Enregistrar
 printui-cancel-button = Anullar
 printui-loading = Preparacion de l’apercebut
+
+## Error messages shown when a user has an invalid input
+
