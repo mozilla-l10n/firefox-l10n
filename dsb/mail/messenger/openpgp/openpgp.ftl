@@ -142,6 +142,30 @@ openpgp-radio-none =
     .label = Žeden
 openpgp-key-expand-section =
     .tooltiptext = Dalšne informacije
+openpgp-key-revoke-title = Kluc wótwołaś
+openpgp-key-edit-title = OpenPGP-kluc změniś
+key-external-label = Eksterny GnuPG-kluc
+# Strings in keyDetailsDlg.xhtml
+key-type-public = zjawny kluc
+key-type-primary = głowny kluc
+key-type-subkey = pódkluc
+key-expiry-never = nigda
+key-usage-encrypt = Koděrowaś
+key-usage-sign = Signěrowaś
+key-usage-certify = Certificěrowaś
+key-usage-authentication = Awtentifikacija
+# Strings in keyserver.jsm
+keyserver-error-aborted = Pśetorgnjony
+keyserver-error-unknown = Njeznata zmólka jo nastała
+expiry-open-key-properties = Klucowe kakosći wócyniś
+# Strings filters.jsm
+filter-folder-required = Wy dejśo celowy zarědnik wubraś.
+import-info-bits = Bity
+import-info-created = Napórany
+import-info-fpr = Palcowy wótśišć
+key-man-loading-keys = Kluce se zacytuju, pšosym cakajśo…
+export-to-file = Zjawny kluc do dataje eksportěrowaś
+general-error = Zmólka: { $reason }
 
 ## Account settings export output
 
