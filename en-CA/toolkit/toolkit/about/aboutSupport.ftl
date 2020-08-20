@@ -7,7 +7,6 @@ page-subtitle =
     This page contains technical information that might be useful when you’re
     trying to solve a problem. If you are looking for answers to common questions
     about { -brand-short-name }, check out our <a data-l10n-name="support-link">support website</a>.
-
 crashes-title = Crash Reports
 crashes-id = Report ID
 crashes-send-date = Submitted
@@ -81,6 +80,9 @@ show-dir-label =
         [windows] Open Folder
        *[other] Open Directory
     }
+environment-variables-title = Environment Variables
+environment-variables-name = Name
+environment-variables-value = Value
 experimental-features-title = Experimental Features
 experimental-features-name = Name
 experimental-features-value = Value
@@ -127,7 +129,6 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Try Safe Mode
 restart-in-safe-mode-label = Restart with Add-ons Disabled…
-
 clear-startup-cache-title = Try clearing the startup cache
 clear-startup-cache-label = Clear startup cache…
 startup-cache-dialog-title = Clear startup cache
@@ -190,7 +191,6 @@ report-crash-for-days =
         [one] Crash Reports for the Last { $days } Day
        *[other] Crash Reports for the Last { $days } Days
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,7 +198,6 @@ crashes-time-minutes =
         [one] { $minutes } minute ago
        *[other] { $minutes } minutes ago
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -206,7 +205,6 @@ crashes-time-hours =
         [one] { $hours } hour ago
        *[other] { $hours } hours ago
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -214,7 +212,6 @@ crashes-time-days =
         [one] { $days } day ago
        *[other] { $days } days ago
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -222,7 +219,6 @@ pending-reports =
         [one] All Crash Reports (including { $reports } pending crash in the given time range)
        *[other] All Crash Reports (including { $reports } pending crashes in the given time range)
     }
-
 raw-data-copied = Raw data copied to clipboard
 text-copied = Text copied to clipboard
 
@@ -235,11 +231,9 @@ blocked-mismatched-version = Blocked for your graphics driver version mismatch b
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocked for your graphics driver version. Try updating your graphics driver to version { $driverVersion } or newer.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
-
 compositing = Compositing
 hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = main thread, no OMTC
@@ -254,7 +248,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Found
 missing = Missing
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Description
@@ -278,25 +271,20 @@ webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
 blocklisted-bug = Blocklisted due to known issues
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blocklisted due to known issues: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
-
 reset-on-next-restart = Reset on Next Restart
 gpu-process-kill-button = Terminate GPU Process
 gpu-device-reset = Device Reset
@@ -306,10 +294,8 @@ content-uses-tiling = Uses Tiling (Content)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 target-frame-rate = Target Frame Rate
-
 min-lib-versions = Expected minimum version
 loaded-lib-versions = Version in use
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = User Namespaces
@@ -322,18 +308,15 @@ sandbox-proc-type-content = content
 sandbox-proc-type-file = file content
 sandbox-proc-type-media-plugin = media plugin
 sandbox-proc-type-data-decoder = data decoder
-
 startup-cache-title = Startup Cache
 startup-cache-disk-cache-path = Disk Cache Path
 startup-cache-ignore-disk-cache = Ignore Disk Cache
 startup-cache-found-disk-cache-on-init = Found Disk Cache on Init
 startup-cache-wrote-to-disk-cache = Wrote to Disk Cache
-
 launcher-process-status-0 = Enabled
 launcher-process-status-1 = Disabled due to failure
 launcher-process-status-2 = Disabled forcibly
 launcher-process-status-unknown = Unknown status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -346,7 +329,6 @@ multi-process-status-6 = Disabled by unsupported text input
 multi-process-status-7 = Disabled by add-ons
 multi-process-status-8 = Disabled forcibly
 multi-process-status-unknown = Unknown status
-
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = none
 wheel-enabled = wheel input enabled
