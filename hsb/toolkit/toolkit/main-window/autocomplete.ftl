@@ -11,6 +11,8 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importujće swoje přizjewjenje z { $browser }</div>
     <div data-l10n-name="line2">za { $host } a druhe sydła</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Dalše informacije
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
@@ -27,5 +29,4 @@ autocomplete-import-logins-chromium-edge =
 
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Dalše informacije
+autocomplete-import-learn-more = Dalše informacije
