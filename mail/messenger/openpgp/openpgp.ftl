@@ -243,6 +243,55 @@ key-type-primary = kyç parësor
 key-type-subkey = nënkyç
 key-type-pair = çift kyçesh (kyç i fshehtë dhe kyç publik)
 key-expiry-never = kurrë
+key-usage-encrypt = Fshehtëzoje
+key-usage-sign = Nënshkruaje
+key-usage-certify = Certifikoje
+key-usage-authentication = Mirëfilltësim
+key-does-not-expire = Kyçi nuk skadon
+key-expired-date = Kyçi skadoi më { $keyExpiry }
+key-expired-simple = Kyçi ka skaduar
+key-revoked-simple = Kyçi u shfuqizua
+keyserver-error-unknown = Ndodhi një gabim i panjohur
+keyserver-error-server-error = Shërbyesi i kyçeve raportoi një gabim.
+keyserver-error-import-error = S’u arrit të importohej kyçi i shkarkuar.
+expiry-open-key-properties = Hap Veti Kyçi
+# Strings filters.jsm
+filter-folder-required = Duhet të përzgjidhni një dosje objektiv.
+filter-key-required = Duhet të përzgjidhni një marrës kyçi.
+import-info-bits = Bite
+import-info-created = Krijuar më
+import-info-fpr = Shenja gishtash
+import-info-details = Shihni Hollësi dhe administroni pranim kyçi
+import-info-no-keys = S’u importuan kyçe.
+general-error = Gabim: { $reason }
+dlg-button-delete = &Fshije
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Kyçi Publik u eksportua me sukses!</b>
+openpgp-export-public-fail = <b>S’arrihet të eksportohet kyçi publik i përzgjedhur!</b>
+openpgp-export-secret-success = <b>Kyçi i Dshehtë u eksportua me sukses!</b>
+openpgp-export-secret-fail = <b>S’arrihet të eksportohet kyçi i fshehtë i përzgjedhur!</b>
+# Strings used in trust.jsm
+key-valid-unknown = i panjohur
+key-valid-invalid = i pavlefshëm
+key-valid-disabled = i çaktivizuar
+key-valid-revoked = i shfuqizuar
+key-valid-expired = i skaduar
+key-trust-untrusted = i pabesuar
+key-trust-marginal = mënjanësor
+key-trust-full = i besuar
+key-trust-ultimate = përfundimtar
+key-trust-group = (grup)
+gnupg-file = Kartela GnuPG
+import-keys-failed = Importimi i kyçeve dështoi
+passphrase-prompt = Ju lutemi, jepni frazëkalimin që shkyç kyçin vijues: { $key }
+key-abort = Të ndërpritet prodhimi i kyçit?
+msg-compose-details-button-label = Hollësi…
+msg-compose-details-button-access-key = H
+msg-compose-internal-error = Ndodhi një gabim i brendshëm.
+msg-compose-cannot-save-draft = Gabim teksa ruhej skicë
+# Strings used in enigmailCommon.js
+enig-error = Gabim OpenPGP
+enig-alert-title =
+    .title = Sinjalizim OpenPGP
