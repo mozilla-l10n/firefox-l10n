@@ -11,7 +11,8 @@ about-private-browsing =
     .title = חיפוש ברשת
 about-private-browsing-not-private = אינך כעת בחלון גלישה פרטית.
 about-private-browsing-info-description = { -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך כשהיישום נסגר או בעת סגירת כל הלשוניות והחלונות של גלישה פרטית. פעולה זו אמנם לא הופכת אותך לאלמוני כלפי אתרים או ספק האינטרנט שלך, אבל כן מקלה עליך בשמירה על הפעולות המקוונות שלך מפני כל מי שמשתמש במחשב זה.
-
+about-private-browsing-need-more-privacy = יש לך צורך בעוד פרטיות?
+about-private-browsing-turn-on-vpn = אפשר לנסות את { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
