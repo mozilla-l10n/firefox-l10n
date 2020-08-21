@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = مرشِد الاستيراد
-
 import-from =
     { PLATFORM() ->
         [windows] استورد الخيارات، و العلامات، و التّأريخ، و كلمات السرّ و بيانات أخرى من:
        *[other] استورد التّفضيلات، و العلامات، و التّأريخ، و كلمات السرّ و بيانات أخرى من:
     }
-
 import-from-bookmarks = استورد العلامات من:
 import-from-ie =
     .label = ميكروسوفت إنترنت إكسبلورر
@@ -18,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = ميكروسوفت إدج
     .accesskey = ج
+import-from-edge-legacy =
+    .label = ميكروسوفت إدج العتيق
+    .accesskey = م
+import-from-edge-beta =
+    .label = ميكروسوفت إدج بيتا
+    .accesskey = ت
 import-from-nothing =
     .label = لا تستورد أي شيء
     .accesskey = ت
@@ -45,34 +49,22 @@ import-from-firefox =
 import-from-360se =
     .label = متصفح ٣٦٠ الآمن
     .accesskey = 3
-
 no-migration-sources = لم يُعثر على أي برامج تحتوي على بيانات أو علامات أو تأريخ أو كلمات سرّ.
-
 import-source-page-title = استورد الإعدادات و البيانات
 import-items-page-title = العناصر المراد استيرادها
-
 import-items-description = اختر أي العناصر تريد استيرادها:
-
 import-migrating-page-title = يستورد…
-
 import-migrating-description = يجري استيراد العناصر التالية…
-
 import-select-profile-page-title = اختر الملفّ الشّخصيّ
-
 import-select-profile-description = تتوفّر الملفّات الشّخصيّة التّالية للاستيراد منها:
-
 import-done-page-title = تمّ الاستيراد
-
 import-done-description = تمّ استيراد العناصر التّالية بنجاح:
-
 import-close-source-browser = من فضلك تأكد من أن المتصفح الذي اخترته مغلق قبل أن تتابع.
-
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = من { $source }
-
 source-name-ie = إنترنت إكسبلورر
 source-name-edge = ميكروسوفت إدج
 source-name-edge-beta = ميكروسوفت إدج بيتا
@@ -84,7 +76,6 @@ source-name-chrome-dev = إصدارة جوجل كروم التطويرية
 source-name-chromium = كروميوم
 source-name-firefox = Mozilla Firefox
 source-name-360se = متصفح ٣٦٠ الآمن
-
 imported-safari-reading-list = قائمة القراءة (من سفاري)
 imported-edge-reading-list = قائمة القراءة (من إدج)
 
@@ -106,7 +97,6 @@ browser-data-cookies-checkbox =
     .label = الكعكات
 browser-data-cookies-label =
     .value = الكعكات
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +109,10 @@ browser-data-history-label =
             [firefox] تأريخ التصفح والعلامات
            *[other] تأريخ التصفح
         }
-
 browser-data-formdata-checkbox =
     .label = تأريخ الاستمارات المحفوظة
 browser-data-formdata-label =
     .value = تأريخ الاستمارات المحفوظة
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +121,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = جلسات الولوج وكلمات السر المحفوظة
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +135,10 @@ browser-data-bookmarks-label =
             [edge] المفضّلة
            *[other] العلامات
         }
-
 browser-data-otherdata-checkbox =
     .label = بيانات أخرى
 browser-data-otherdata-label =
     .label = بيانات أخرى
-
 browser-data-session-checkbox =
     .label = النوافذ و الألسنة
 browser-data-session-label =
