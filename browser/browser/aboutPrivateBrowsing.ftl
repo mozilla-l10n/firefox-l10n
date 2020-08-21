@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Zoeken op het web
 about-private-browsing-not-private = U bevindt zich momenteel niet in een privévenster.
 about-private-browsing-info-description = { -brand-short-name } wist uw zoek- en browsergeschiedenis zodra u de toepassing afsluit of alle privénavigatietabbladen en -vensters sluit. Hoewel privénavigatie u niet anoniem maakt voor websites of uw internetprovider, maakt dit het makkelijker om wat u online doet privé te houden ten opzichte van anderen die deze computer gebruiken.
-
+about-private-browsing-need-more-privacy = Meer privacy nodig?
+about-private-browsing-turn-on-vpn = Probeer { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
