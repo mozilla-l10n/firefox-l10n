@@ -38,6 +38,7 @@ printui-less-settings = Færre innstillinger
 # Section title (noun) for the print scaling options
 printui-scale = Skalering
 printui-scale-fit-to-page = Tilpass til side
+printui-scale-fit-to-page-width = Tilpass til sidebredden
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalering
 # Section title for miscellaneous print options
