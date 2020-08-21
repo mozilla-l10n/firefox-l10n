@@ -38,6 +38,7 @@ printui-less-settings = Minder instellingen
 # Section title (noun) for the print scaling options
 printui-scale = Schaal
 printui-scale-fit-to-page = Verkleinen tot papierformaat
+printui-scale-fit-to-page-width = Aan paginabreedte aanpassen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Schaal
 # Section title for miscellaneous print options
