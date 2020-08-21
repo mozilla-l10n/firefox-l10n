@@ -24,3 +24,4 @@
 -lockwise-brand-name = Firefox Lockwise
 -monitor-brand-name = Firefox Monitor
 -send-brand-name = Firefox Send
+-mozilla-vpn-brand-name = Mozilla VPN
