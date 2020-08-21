@@ -32,6 +32,12 @@ serviceworker-worker-debug-forbidden = Debug
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Mulai
     .title = Hanya bisa memulai service worker jika multi e10s dinonaktifkan
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Inspeksi
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Mulai
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Diperbarui <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
