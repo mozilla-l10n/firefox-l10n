@@ -11,7 +11,8 @@ about-private-browsing =
     .title = वेब पर खोजें
 about-private-browsing-not-private = आप फिलहाल एक निजी विंडो में नहीं हैं.
 about-private-browsing-info-description = जब आप ऐप छोड़ते हैं या सभी निजी ब्राउज़िंग टैब और विंडो बंद करते हैं, तो { -brand-short-name } आपकी खोज और ब्राउज़िंग इतिहास को मिटा देता है। हालांकि यह आपको वेबसाइटों या आपके इंटरनेट सेवा प्रदाता के लिए अज्ञात नहीं बनाता है, लेकिन यह आसान बनाता है कि आप इस कंप्यूटर का उपयोग करने वाले किसी अन्य व्यक्ति से ऑनलाइन निजी काम करें।
-
+about-private-browsing-need-more-privacy = अधिक गोपनीयता चाहते हैं?
+about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } आज़माएं
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
