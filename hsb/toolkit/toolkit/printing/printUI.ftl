@@ -40,6 +40,7 @@ printui-less-settings = Mjenje nastajenjow
 # Section title (noun) for the print scaling options
 printui-scale = Skalowanje
 printui-scale-fit-to-page = Stronje přiměrić
+printui-scale-fit-to-page-width = Šěrokosći strony přiměrić
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalować
 # Section title for miscellaneous print options
