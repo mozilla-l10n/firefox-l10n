@@ -137,6 +137,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = सहेजे ग
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = सहेजे गए लॉगिन और पासवर्ड देखने के लिए कृपया प्राईमरी पासवर्ड दर्ज करें
 master-password-reload-button =
     .label = लॉग इन
     .accesskey = L
@@ -162,6 +163,9 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = इस लॉगिन को हटाएँ?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
+about-logins-confirm-export-dialog-title = लॉगिन और पासवर्ड निर्यात करें
+about-logins-confirm-export-dialog-message = आपके पासवर्ड पढ़ने योग्य टेक्स्ट (जैसे BadP@ssw0rd) के रूप में सहेजे जाएंगे ताकि जो भी निर्यात की गई फ़ाइल को खोल पाएंगे, उन्हें देख सकते हैं।
+about-logins-confirm-export-dialog-confirm-button = निर्यात करें…
 confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
 confirm-discard-changes-dialog-message = सभी सहेजे न गए परिवर्तन खो जाएंगे।
 confirm-discard-changes-dialog-confirm-button = छोड़ें
