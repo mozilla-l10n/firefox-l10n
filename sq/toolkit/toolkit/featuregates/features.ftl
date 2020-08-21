@@ -11,3 +11,19 @@ experimental-features-css-masonry-description = Aktivizon mbulim për veçorinë
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API Web: WebGPU
+experimental-features-web-gpu-description2 = Kjo APIe re furnizon mbulim të shkallës së ulët për kryerje përllogaritjesh dhe vizatimesh grafike duke përdorur <a data-l10n-name="wikipedia">Njësinë e Përpunimeve Grafike (GPU)</a> të pajisjes apo kompjuterit të përdoruesit. <a data-l10n-name="spec">Specifikimet</a> janë ende duke u përcaktuar. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1602129</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+experimental-features-media-avif-description = Me këtë veçori të aktivizuar, { -brand-short-name }-i mbulon formatin AV1 Image File (AVIF). Ky është një format figurash të palëvizshme që shfrytëzon aftësitë e algoritmeve AV1të ngjeshjes së videove për të reduktuar madhësi figurash. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1443863</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = API Web: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Sendërtimi ynë i atributit global <a data-l10n-name="mdn-inputmode">inputmode</a> është përditësuar sipas <a data-l10n-name="whatwg">specifikimeve WHATWG</a>, por na duhet ende të bëjmë edhe ndryshime të tjera, bie fjala, bërja e mundur e përdorimit të tij për lëndë <em>contenteditable</em>. Për më tepër hollësi. shihni <a data-l10n-name="bugzilla">të metën 1205133</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = API Web: <link rel="preload">
