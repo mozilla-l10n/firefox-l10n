@@ -57,7 +57,7 @@ openpgp-key-man-edit-menu =
     .accesskey = w
 openpgp-key-man-view-menu =
     .label = Weergeven
-    .accesskey = g
+    .accesskey = r
 openpgp-key-man-generate-menu =
     .label = Aanmaken
     .accesskey = A
@@ -92,16 +92,16 @@ openpgp-key-man-discover-cmd =
 openpgp-key-man-discover-prompt = Voer om OpenPGP-sleutels online, op sleutelservers of met het WKD-protocol te ontdekken een e-mailadres of een sleutel-ID in.
 openpgp-key-man-discover-progress = Zoeken…
 openpgp-key-copy-key =
-    .label = Publieke sleutel kopiëren
-    .accesskey = o
+    .label = Openbare sleutel kopiëren
+    .accesskey = O
 openpgp-key-export-key =
-    .label = Publieke sleutel naar bestand exporteren
+    .label = Openbare sleutel naar bestand exporteren
     .accesskey = x
 openpgp-key-backup-key =
     .label = Reservekopiebestand van geheime sleutel maken
     .accesskey = R
 openpgp-key-send-key =
-    .label = Publieke sleutel via e-mail verzenden
+    .label = Openbare sleutel via e-mail verzenden
     .accesskey = z
 openpgp-key-man-copy-to-clipbrd =
     .label = Openbare sleutel(s) naar klembord kopiëren
@@ -207,7 +207,7 @@ openpgp-acceptance-unverified-label =
 openpgp-acceptance-verified-label =
     .label = Ja, ik heb persoonlijk geverifieerd dat deze sleutel de juiste vingerafdruk heeft.
 key-accept-personal =
-    Voor deze sleutel hebt u zowel het publieke als het geheime deel. U mag hem gebruiken als een persoonlijke sleutel.
+    Voor deze sleutel hebt u zowel het openbare als het geheime deel. U mag hem gebruiken als een persoonlijke sleutel.
     Als deze sleutel door iemand anders aan u is gegeven, gebruik hem dan niet als persoonlijke sleutel.
 key-personal-warning = Hebt u deze sleutel zelf aangemaakt en verwijst het getoonde sleuteleigendom naar uzelf?
 openpgp-personal-no-label =
@@ -272,10 +272,10 @@ openpgp-key-remove-external =
     .accesskey = E
 key-external-label = Externe GnuPG-sleutel
 # Strings in keyDetailsDlg.xhtml
-key-type-public = publieke sleutel
+key-type-public = openbare sleutel
 key-type-primary = hoofdsleutel
 key-type-subkey = subsleutel
-key-type-pair = sleutelpaar (geheime sleutel en publieke sleutel)
+key-type-pair = sleutelpaar (geheime sleutel en openbare sleutel)
 key-expiry-never = nooit
 key-usage-encrypt = Versleutelen
 key-usage-sign = Ondertekenen
@@ -306,9 +306,9 @@ keyserver-error-unsupported = De sleutelserver wordt niet ondersteund.
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
     Uw e-mailprovider heeft uw verzoek om uw openbare sleutel te uploaden naar de OpenPGP Web Key Directory verwerkt.
-    Stuur een bevestiging om de publicatie van uw publieke sleutel te voltooien.
+    Stuur een bevestiging om de publicatie van uw openbare sleutel te voltooien.
 wkd-message-body-process =
-    Dit is een e-mailbericht in relatie tot de automatische verwerking om uw publieke sleutel te uploaden naar de OpenPGP Web Key Directory.
+    Dit is een e-mailbericht voor de automatische verwerking om uw openbare sleutel te uploaden naar de OpenPGP Web Key Directory.
     U hoeft op dit moment geen handmatige actie te ondernemen.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
@@ -359,7 +359,7 @@ import-info-details = Details bekijken en sleutelacceptatie beheren
 import-info-no-keys = Geen sleutels geïmporteerd.
 # Strings in enigmailKeyManager.js
 import-from-clip = Wilt u een of enkele sleutel(s) van het klembord importeren?
-import-from-url = Publieke sleutel van deze URL downloaden:
+import-from-url = Openbare sleutel van deze URL downloaden:
 copy-to-clipbrd-failed = Kan de geselecteerde sleutel(s) niet naar het klembord kopiëren.
 copy-to-clipbrd-ok = Sleutel(s) naar klembord gekopieerd
 delete-secret-key =
