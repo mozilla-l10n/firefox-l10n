@@ -246,6 +246,7 @@ identity-clear-site-data =
     .label = कूकीज़ तथा साइट डेटा हटायें…
 identity-connection-not-secure-security-view = आप इस साइट से सुरक्षित रूप से नहीं जुड़े हैं।
 identity-connection-verified = आप इस साइट से सुरक्षित रूप से जुड़े हैं।
+identity-ev-owner-label = इसे प्रमाणपत्र जारी किया गया:
 identity-description-custom-root = Mozilla इस प्रमाणपत्र जारीकर्ता को नहीं पहचानता है। यह आपके ऑपरेटिंग सिस्टम से या किसी ऐडमिनिस्ट्रेटर द्वारा जोड़ा जा सकता है। <label data-l10n-name="link">अधिक जानें</label>
 identity-remove-cert-exception =
     .label = अपवाद मिटाएँ
@@ -275,6 +276,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = न्यूनतम करें
+browser-window-maximize-button =
+    .tooltiptext = बड़ा करें
+browser-window-restore-down-button =
+    .tooltiptext = पूर्ववत करें
 browser-window-close-button =
     .tooltiptext = बंद करें
 
@@ -294,9 +299,11 @@ popup-screen-sharing-never =
     .label = कभी अनुमति न दें
     .accesskey = N
 popup-silence-notifications-checkbox = साझा करते समय { -brand-short-name } से अधिसूचना अक्षम करें
+popup-silence-notifications-checkbox-warning = साझा करते समय { -brand-short-name } आपके नोटिफिकेशन को प्रदर्शित नहीं करेगा।
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = आप { -brand-short-name } को साझा कर रहे हैं। नए टैब पर जाने पर अन्य व्यक्ति इसे देख सकता है।
 sharing-warning-disable-for-session =
     .label = इस सत्र के लिए साझाकरण सुरक्षा अक्षम करें
 
