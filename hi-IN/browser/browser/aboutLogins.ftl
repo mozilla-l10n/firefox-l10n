@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = इसे Google Play पर पायें
 login-app-promo-apple =
     .alt = App Store पर डाउनलोड करें
-
 login-filter =
     .placeholder = लॉगिन खोजें
-
 create-login-button = नई लॉगिन बनाएँ
-
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
 fxaccounts-sign-in-button = { -sync-brand-short-name } में साइन इन करें
 fxaccounts-avatar-button =
@@ -30,6 +27,8 @@ menu =
     .title = मेन्यू खोलें
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = दूसरे ब्राउज़र से आयात करें…
+about-logins-menu-menuitem-import-from-a-file = इस फ़ाइल से आयात करें…
+about-logins-menu-menuitem-export-logins = लॉगिंस निर्यात करें…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] विकल्प
@@ -69,13 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = अपने सहेजे गए लॉगिन की खोज़ है? { -sync-brand-short-name } सेट करें।
-
+about-logins-login-intro-heading-logged-out = अपने सहेजे लॉगिंस खोज रहे हैं? { -sync-brand-short-name } को सेटअप करें या उन्हें आयात करें।
 about-logins-login-intro-heading-logged-in = कोई संकलित लॉगिन नहीं मिला।
 login-intro-description = यदि आपने अपने लॉगिन को एक अलग डिवाइस पर { -brand-product-name } में सहेजा है, तो उन्हें यहां ऐसे प्राप्त करें:
 login-intro-instruction-fxa = उस उपकरण पर अपना { -fxaccount-brand-name } बनाएं या साइन इन करें जिसपर आपके लॉगिन सहेजे गए हैं
 login-intro-instruction-fxa-settings = सुनिश्चित करें कि आपने { -sync-brand-short-name } सेटिंग्स में लॉगिन चेकबॉक्स का चयन किया है
 about-logins-intro-instruction-help = अधिक मदद के लिए <a data-l10n-name="help-link">{ -lockwise-brand-short-name } सहायता </a> पर जाएं
 about-logins-intro-import = यदि आपके लॉगिन किसी अन्य ब्राउज़र में सहेजे गए हैं, तो आप उन्हें { -lockwise-brand-short-name } में <a data-l10n-name="import-link"> आयात </a> कर सकते हैं
+about-logins-intro-import2 = अगर आपके लॉगिन { -brand-product-name } के बाहर सहेजे गए हैं, तो आप उन्हें <a data-l10n-name="import-browser-link">किसी दूसरे ब्राउज़र से</a> या <a data-l10n-name="import-file-link"> फ़ाइल से आयात करें</a>
 
 ## Login
 
@@ -115,13 +115,13 @@ about-logins-edit-login-os-auth-dialog-message-win = अपने लॉगि�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजे गए लॉगिन को संपादित करें
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = अपना पासवर्ड देखने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड देखें
-
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = अपने पासवर्ड को कॉपी करने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड को कॉपी करें
@@ -129,6 +129,11 @@ about-logins-copy-password-os-auth-dialog-message-macosx = सहेजे ग�
 ## Master Password notification
 
 master-password-notification-message = सहेजे गए लॉगिन और पासवर्ड देखने के लिए कृपया अपना मास्टर पासवर्ड दर्ज करें
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = अपने लॉगिंस को निर्यात करने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = सहेजे गए लॉगिन और पासवर्ड निर्यात करें
 
 ## Primary Password notification
 
@@ -154,11 +159,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = रद्द करें
 confirmation-dialog-dismiss-button =
     .title = रद्द करें
-
 about-logins-confirm-remove-dialog-title = इस लॉगिन को हटाएँ?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
-
 confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
 confirm-discard-changes-dialog-message = सभी सहेजे न गए परिवर्तन खो जाएंगे।
 confirm-discard-changes-dialog-confirm-button = छोड़ें
@@ -185,7 +188,6 @@ about-logins-vulnerable-alert-learn-more-link = अधिक जानें
 
 # This is a generic error message.
 about-logins-error-message-default = पासवर्ड सहेजने का प्रयास करते समय एक त्रुटि हुई।
-
 
 ## Login Export Dialog
 
