@@ -26,7 +26,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "Μ">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Χρήση ευρετηρίου διευθύνσεων Mac OS X ">
+<!ENTITY osxAddressBook.label                           "Χρήση ευρετηρίου διευθύνσεων Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "ο">
 <!ENTITY closeCmd.label                                 "Κλείσιμο">
 <!ENTITY closeCmd.key                                   "W">
@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Διαγραφή λιστών">
 <!ENTITY deleteItemsCmd.label                           "Διαγραφή στοιχείων">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Ιδιότητες">
 <!ENTITY propertiesMenu.accesskey                       "ι">
 <!ENTITY propertiesCmd.key                              "i">
