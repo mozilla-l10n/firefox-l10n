@@ -39,6 +39,7 @@ printui-less-settings = Mai puține setări
 # Section title (noun) for the print scaling options
 printui-scale = Scară
 printui-scale-fit-to-page = Încadrare în pagină
+printui-scale-fit-to-page-width = Adaptează la lățimea paginii
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scară
 # Section title for miscellaneous print options
