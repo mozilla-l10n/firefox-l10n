@@ -12,6 +12,8 @@ about-private-browsing =
 about-private-browsing-not-private = Questa non è una finestra anonima.
 about-private-browsing-info-description = { -brand-short-name } cancella la cronologia di ricerca e navigazione quando si chiude l’applicazione o vengono chiuse tutte le finestre e schede in Navigazione anonima. Nonostante questa modalità non ti renda completamente anonimo nei confronti dei siti web o del tuo fornitore di servizi internet, si tratta comunque di uno strumento utile per impedire ad altri utilizzatori di questo computer di ottenere informazioni sulla tua attività online.
 
+about-private-browsing-need-more-privacy = Vuoi ancora più privacy?
+about-private-browsing-turn-on-vpn = Prova { -mozilla-vpn-brand-name }
 
 # This string is the title for the banner for search engine selection
 # in a private window.
