@@ -38,7 +38,7 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.noSource2 "Ingen video med et støttet format eller MIME-type funnet.">
 <!ENTITY error.generic "Videoavspilling avbrutt på grunn av ukjent feil.">
 
-<!ENTITY status.pictureInPicture "Denne videoen avspilles i bilde-i-bilde modus.">
+<!ENTITY status.pictureInPicture "Denne videoen avspilles i bilde-i-bilde-modus.">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
