@@ -26,7 +26,7 @@ scale =
 scale-percent =
     .value = %
 shrink-to-fit =
-    .label = 페이지 폭에 맞게 축소
+    .label = 페이지 너비에 맞게 축소
     .accesskey = W
 options-group-label =
     .value = 옵션
@@ -103,7 +103,6 @@ print-window =
     .title = 인쇄 중
 print-complete =
     .value = 인쇄가 완료되었습니다.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
