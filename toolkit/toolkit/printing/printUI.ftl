@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = בחירת טווח עמודים
 printui-page-custom-range =
     .aria-label = נא להזין טווח עמודים מותאם אישית
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = מעמוד
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = עד עמוד
 # Section title for the number of copies to print
 printui-copies-label = עותקים
 printui-orientation = כיוון
@@ -32,14 +38,29 @@ printui-less-settings = פחות הגדרות
 # Section title (noun) for the print scaling options
 printui-scale = קנה מידה
 printui-scale-fit-to-page = התאמה לעמוד
+printui-scale-fit-to-page-width = התאמה לרוחב העמוד
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = קנה מידה
 # Section title for miscellaneous print options
 printui-options = אפשרויות
 printui-headers-footers-checkbox = הדפסת כותרות עיליות ותחתיות
 printui-backgrounds-checkbox = הדפסת רקעים
+printui-color-mode-label = מצב צבע
+printui-color-mode-color = צבע
+printui-color-mode-bw = שחור ולבן
+printui-margins = שוליים
+printui-margins-default = ברירת מחדל
+printui-margins-min = מינימום
+printui-margins-none = ללא
 printui-system-dialog-link = הדפסה באמצעות תיבת הדו־שיח של המערכת…
 printui-primary-button = הדפסה
 printui-primary-button-save = שמירה
 printui-cancel-button = ביטול
 printui-loading = בתהליך הכנת תצוגה מקדימה
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = קנה המידה חייב להיות מספר בין 10 ל־200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = הטווח חייב להיות מספר בין 1 ל־{ $numPages }.
