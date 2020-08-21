@@ -3,9 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Që të dërgoni mesazhe të fshehtëzuar ose të nënshkruar në mënyrë dixhitale, ju duhet të formësoni një teknologji fshehtëzimi, OpenPGP ose S/MIME.
-
 e2e-intro-description-more = Që të aktivizohet përdorimi i OpenGPG-së, përzgjidhni kyçin tuaj personal, ose dëshminë tuaj personale që të aktivizohet përdorimi i S/MIME-s. Për një kyç apo dëshmi personale, zotëroni kyçin përkatës të fshehtë.
-
 openpgp-key-user-id-label = Llogari / ID Përdoruesi
 openpgp-keygen-title-label =
     .title = Prodho Kyç OpenPGP
@@ -36,15 +34,11 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Të mëtejshme…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">SHËNIM:Prodhimi i kyçit mund të dojë deri në disa minuta që të plotësohet.</a> Mos e mbyllni aplikacionin, teksa bëhet prodhimi i kyçit. Shfletimi aktivisht ose kryerja e veprimeve që angazhojnë fort diskun, gjatë prodhimit të kyçit, do të rimbushë “randomness pool” dhe do të përshpejtojë procesin. Kur prodhimi i kyçit të jetë plotësuar, do të njoftoheni.
-
 openpgp-key-expiry-label =
     .label = Skadim
-
 openpgp-key-id-label =
     .label = ID Kyçi
-
 openpgp-cannot-change-expiry = Ky është një kyç me një strukturë komplekse, nuk mbulohet ndryshimi i datës së skadimit të tij.
-
 openpgp-key-man-title =
     .title = Përgjegjës Kyçesh OpenPGP
 openpgp-key-man-generate =
@@ -55,7 +49,6 @@ openpgp-key-man-gen-revoke =
     .accesskey = S
 openpgp-key-man-ctx-gen-revoke-label =
     .label = Prodho & Ruaj Dëshmi Shfuqizimi
-
 openpgp-key-man-file-menu =
     .label = Kartelë
     .accesskey = K
@@ -71,7 +64,6 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Shërbyes kyçesh
     .accesskey = b
-
 openpgp-key-man-import-public-from-file =
     .label = Importo Kyç(e) Publik Nga Kartelë
     .accesskey = I
@@ -94,29 +86,23 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Kopjeruaj Kyç(e) të Fshehtë Në Kartelë
     .accesskey = K
-
 openpgp-key-man-discover-cmd =
     .label = Zbuloni Kyçe Në Internet
     .accesskey = Z
 openpgp-key-man-discover-prompt = Që të zbuloni kyçe OpenPGP në internet, në shërbyes kyçesh apo duke përdorur protokollin WKD, jepni ose një adresë email, ose një ID kyçi.
 openpgp-key-man-discover-progress = Po kërkohet…
-
 openpgp-key-copy-key =
     .label = Kopjo Kyç Publik
     .accesskey = K
-
 openpgp-key-export-key =
     .label = Eksporto Kyç Publik Në Kartelë
     .accesskey = E
-
 openpgp-key-backup-key =
     .label = Kopjeruaj Kyç të Fshehtë Në Kartelë
     .accesskey = K
-
 openpgp-key-send-key =
     .label = Dërgo Kyç Publik Me Email
     .accesskey = D
-
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopjo Kyç(e) Publik Në të Papastër
     .accesskey = K
@@ -124,7 +110,6 @@ openpgp-key-man-ctx-expor-to-file-label =
     .label = Eksportoni Kyçe Në Kartelë
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Kopjo Kyçe Publikë Në të Papastër
-
 openpgp-key-man-close =
     .label = Mbylle
 openpgp-key-man-reload =
@@ -133,9 +118,32 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Ndryshoni Datën e Skadimit
     .accesskey = S
+openpgp-key-man-del-key =
+    .label = Fshini Kyç(e)
+    .accesskey = F
+openpgp-delete-key =
+    .label = Fshini Kyç
+    .accesskey = F
+openpgp-key-man-revoke-key =
+    .label = Shfuqizoni Kyç
+    .accesskey = S
+openpgp-key-man-key-props =
+    .label = Veti Kyçi
+    .accesskey = V
 openpgp-key-man-key-more =
     .label = Më tepër
     .accesskey = M
+openpgp-key-man-view-photo =
+    .label = ID Foto
+    .accesskey = F
+openpgp-key-man-ctx-view-photo-label =
+    .label = Shihni ID Foto
+openpgp-key-man-show-invalid-keys =
+    .label = Shfaq kyçe të pavlefshëm
+    .accesskey = S
+openpgp-key-man-show-others-keys =
+    .label = Shfaq Kyçe Nga Persona të Tjerë
+    .accesskey = T
 openpgp-key-man-user-id-label =
     .label = Emër
 openpgp-key-man-fingerprint-label =
@@ -143,7 +151,12 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Përzgjidhi Krejt Kyçet
     .accesskey = K
-
+openpgp-key-man-empty-tree-tooltip =
+    .label = Jepni terma kërkimi në kutinë më sipër
+openpgp-key-man-nothing-found-tooltip =
+    .label = S’ka kyçe që përputhen me termat tuaja të kërkimit
+openpgp-key-man-please-wait-tooltip =
+    .label = Ju lutemi, prisni deri sa kyçet të fillojnë të ngarkohen…
 openpgp-key-details-title =
     .title = Veti Kyçi
 openpgp-key-details-signatures-tab =
@@ -171,7 +184,6 @@ openpgp-key-details-sel-action =
     .accesskey = P
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Mbylle
-
 openpgp-copy-cmd-label =
     .label = Kopjoje
 
@@ -180,23 +192,18 @@ openpgp-copy-cmd-label =
 openpgp-add-key-button =
     .label = Shtoni Kyç…
     .accesskey = S
-
 e2e-learn-more = Mësoni më tepër
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Asnjë
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Skadon më: { $date }
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Ka skaduar më: { $date }
-
 openpgp-key-expand-section =
     .tooltiptext = Më tepër të dhëna
-
 openpgp-key-edit-title = Ndryshoni Kyç OpenPGP
 
 ## Account settings export output
