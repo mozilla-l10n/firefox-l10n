@@ -33,6 +33,7 @@ auth-sharedSecret-label =
     .label = { auth-sharedSecret }
 auth-manualInstruction = Jarri harremanean zure elkarrizketa lagunaz beste bide autentifikatu batetik, adibidez, OpenPGP sinadurazko postaz edo telefonoz.  Besteei zure hatz-marka erakutsi behar diezu. (Hatz-marka bat, kontroleko batura bat da, zure enkriptatze gakoa identifikatzen duena.) Hatz-marka bat badator, azpiko elkarrizketan hatz-marka egiaztatu duzula adierazi beharko zenuke.
 auth-how = Nola nahi duzu egiaztatu zure kontaktuaren identitatea?
+auth-qaInstruction = Pentsatu galdera bat non erantzuna zuk eta zure kontaktuak bakarrik dakizuen. Sartu galdera eta erantzuna, ondoren itxaron zure kontaktuak erantzun arte. Erantzuna ez badator bat, erabiltzen ari zaren komunikazio kanala zaintzapean izan daiteke.
 auth-question = Idatzi galdera:
 auth-answer = Idatzi erantzuna (letra larriak berezituz)
 auth-secret = Idatzi sekretua:
