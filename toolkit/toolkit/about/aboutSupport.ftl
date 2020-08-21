@@ -78,6 +78,8 @@ show-dir-label =
        *[other] Agor Cyfeiriadur
     }
 environment-variables-title = Newidiolion Amgylcheddol
+environment-variables-name = Enw
+environment-variables-value = Gwerth
 experimental-features-title = Nodweddion Arbrofol
 experimental-features-name = Enw
 experimental-features-value = Gwerth

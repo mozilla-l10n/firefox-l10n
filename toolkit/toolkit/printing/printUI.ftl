@@ -23,6 +23,12 @@ printui-page-range-picker =
     .aria-label = Dewis yr ystod tudalen
 printui-page-custom-range =
     .aria-label = Rhowch ystod tudalen cyfaddas
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = O
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = at
 # Section title for the number of copies to print
 printui-copies-label = Copïau
 printui-orientation = Cyfeiriad
@@ -42,8 +48,22 @@ printui-scale-pcent = Graddfa
 printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
 printui-backgrounds-checkbox = Argraffu cefndiroedd
+printui-color-mode-label = Modd lliw
+printui-color-mode-color = Lliw
+printui-color-mode-bw = Du a gwyn
+printui-margins = Ymylon
+printui-margins-default = Rhagosodiad
+printui-margins-min = Lleiafswm
+printui-margins-none = Dim
 printui-system-dialog-link = Argraffu gan ddefnyddio deialog y system ...
 printui-primary-button = Argraffu
 printui-primary-button-save = Cadw
 printui-cancel-button = Diddymu
 printui-loading = Paratoi Rhagolwg
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Rhaid i'r raddfa fod yn rhif rhwng 10 a 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Rhaid i'r raddfa fod yn rhif rhwng 10 a { $numPages }.
