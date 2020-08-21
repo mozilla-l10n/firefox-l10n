@@ -183,6 +183,7 @@ about-logins-breach-alert-learn-more-link = अधिक जानें
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = कमजोर पासवर्ड
+about-logins-vulnerable-alert-text2 = यह पासवर्ड किसी अन्य खाते पर उपयोग किया गया है जिसकी डेटा ब्रीच में होने की संभावना थी। क्रेडेंशियल का दोबारा उपयोग करना आपके सभी खातों को जोखिम में डालता है। इस पासवर्ड को बदलें।
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } पर जाएं
@@ -195,9 +196,12 @@ about-logins-error-message-default = पासवर्ड सहेजने �
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = लॉगिंस फ़ाइल निर्यात करें
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = निर्यात करें
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
@@ -208,3 +212,13 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = लॉगिंस फ़ाइल को आयात करें
+about-logins-import-file-picker-import-button = आयात करें
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV दस्तावेज़
+       *[other] CSV फ़ाइल
+    }
