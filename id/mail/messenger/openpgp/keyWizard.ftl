@@ -16,6 +16,13 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = tahun
 openpgp-keygen-advanced-title = Setelan lanjutan
+openpgp-keygen-confirm =
+    .label = Konfirmasi
+openpgp-keygen-dismiss =
+    .label = Batalkan
+openpgp-keygen-import-complete =
+    .label = Tutup
+    .accesskey = T
 
 ## Import Key section
 
