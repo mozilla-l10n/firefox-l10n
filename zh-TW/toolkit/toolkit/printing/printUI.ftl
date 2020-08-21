@@ -37,6 +37,7 @@ printui-less-settings = 更少設定
 # Section title (noun) for the print scaling options
 printui-scale = 縮放
 printui-scale-fit-to-page = 填滿頁面
+printui-scale-fit-to-page-width = 符合頁面寬度
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 縮放比例
 # Section title for miscellaneous print options
