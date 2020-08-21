@@ -5,6 +5,9 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } अपडेट डाउनलोड हो रहा है
+appmenuitem-protection-dashboard-title = सुरक्षा डैशबोर्ड
 appmenuitem-customize-mode =
     .label = मनपसंद बनाएँ…
 
@@ -23,7 +26,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = क्या नया है
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =

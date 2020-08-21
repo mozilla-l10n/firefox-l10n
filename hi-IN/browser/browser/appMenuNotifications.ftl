@@ -35,10 +35,10 @@ appmenu-update-restart-message = शीघ्र पुनरारंभ कर
 appmenu-addon-private-browsing-installed =
     .buttonlabel = ठीक है, समझ गए
     .buttonaccesskey = O
+appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> मेन्यू में <image data-l10n-name='addon-menu-icon'></image> क्लिक करके अपने ऐड-ऑन प्रबंधित करें।
 appmenu-addon-post-install-incognito-checkbox =
     .label = इस एक्सटेंशन को निजी विंडोज में चलने दें
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = आपका नया टैब बदल गया है.
     .buttonlabel = परिवर्तन रखें

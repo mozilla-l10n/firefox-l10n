@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउज़िंग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउज़िंग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -71,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = संदेश पटल खोलें
 urlbar-geolocation-notification-anchor =
     .tooltiptext = स्थान अनुरोध पटल खोलें
+urlbar-xr-notification-anchor =
+    .tooltiptext = वर्चुअल रियलिटी अनुमति पैनल खोलें
 urlbar-storage-access-anchor =
     .tooltiptext = ब्राउज़िंग गतिविधि अनुमति पैनल खोलें
 urlbar-translate-notification-anchor =
@@ -112,10 +112,16 @@ urlbar-search-tips-redirect-2 = { $engineName } और अपने ब्रा
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = बुकमार्क
+urlbar-search-mode-tabs = टैब
+urlbar-search-mode-history = इतिहास
+
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए स्थान की सूचना अवरुद्ध किये है.
+urlbar-xr-blocked =
+    .tooltiptext = आपने इस वेबसाइट के लिए वर्चुअल रियलिटी डिवाइस एक्सेस को ब्लॉक कर दिया है।
 urlbar-web-notifications-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए अधिसूचना अवरुद्ध किये है.
 urlbar-camera-blocked =
@@ -136,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.
 urlbar-install-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए ऐड-ऑन संस्थापन को अवरूद्ध कर दिया है।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यह बुकमार्क संपादित करें ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -172,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = इस बार, इसके साथ खोजें:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = खोज सेटिंग बदलाव
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिंग बदले
-
 search-one-offs-context-open-new-tab =
     .label = नया टैब में खोजें
     .accesskey = T
@@ -189,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = निजी विंडो के लिए तयशुदा खोज इंजन के रूप में सेट करें
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -197,15 +205,20 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = बुकमार्क ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = टैब ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = इतिहास ({ $restrict })
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = सहेजते समय संपादक दिखाएं
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = संपन्न
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -220,6 +233,7 @@ identity-connection-internal = यह एक सुरक्षित { -brand-s
 identity-connection-file = यह पेज आपके कंप्यूटर में सहेजा जाता हैं.
 identity-extension-page = यह पृष्ठ एक्सटेंशन से लोड किया गया है.
 identity-active-blocked = { -brand-short-name } इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं.
+identity-custom-root = कनेक्शन को उस प्रमाणपत्र जारीकर्ता द्वारा सत्यापित है जिसे Mozilla द्वारा मान्यता प्राप्त नहीं है।
 identity-passive-loaded = इस पेज का भाग सुरक्षित नहीं हैं(जैसा की छवि).
 identity-active-loaded = आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.
 identity-weak-encryption = यह पेज कमजोर गोपन का उपयोग करता हैं.
@@ -273,15 +287,12 @@ popup-select-microphone =
     .value = साझा करने के लिए माइक्रोफोन:
     .accesskey = M
 popup-all-windows-shared = आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.
-
 popup-screen-sharing-not-now =
     .label = अभी नहीं
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = कभी अनुमति न दें
     .accesskey = N
-
 popup-silence-notifications-checkbox = साझा करते समय { -brand-short-name } से अधिसूचना अक्षम करें
 
 ## WebRTC window or screen share tab switch warning
@@ -296,19 +307,17 @@ sharing-warning-disable-for-session =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = खोजें या पता दर्ज करें
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = खोजें या पता दर्ज करें
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ब्राउज़र रिमोट कंट्रोल के तहत है
 urlbar-switch-to-tab =
     .value = टैब में जाएँ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = विस्तारक:
-
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पता में जाएँ
 urlbar-page-action-button =
