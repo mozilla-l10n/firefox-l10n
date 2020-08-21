@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Caută pe web
 about-private-browsing-not-private = În prezent nu ești într-o fereastră privată.
 about-private-browsing-info-description = { -brand-short-name } îți șterge istoricul de căutare și de navigare când ieși din aplicație sau închizi toate filele și ferestrele private. Deși nu te face anonim pentru site-uri sau pentru furnizorul de internet, îți permite să-ți păstrezi confidențialitatea activității online față de oricine altcineva care folosește acest calculator.
-
+about-private-browsing-need-more-privacy = Ai nevoie de mai multă intimitate?
+about-private-browsing-turn-on-vpn = Încearcă { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
