@@ -204,6 +204,14 @@ openpgp-acceptance-unverified-label =
     .label = Po, por s’e kam verifikuar që është kyçi i saktë.
 openpgp-acceptance-verified-label =
     .label = Po, e kam verifikuar në prani të personit, që ky kyç ka shenjat e sakta të gishtave.
+key-accept-personal =
+    Për këtë kyç keni si pjesën publike, ashtu edhe atë të fshehtë. Mund ta përdorni si një kyç personal.
+    Nëse ky kyç ju qe dhënë nga dikush tjetër, mos e përdorni si kyç personal.
+key-personal-warning = E krijuat vetë këtë kyç, dhe pronësia e shfaqur për kyçin ju referohet juve?
+openpgp-personal-no-label =
+    .label = Jo, mos e përdor si kyçin tim personal.
+openpgp-personal-yes-label =
+    .label = Po trajtoje këtë kyç si kyç personal.
 openpgp-copy-cmd-label =
     .label = Kopjoje
 
@@ -222,9 +230,19 @@ openpgp-radio-none =
 openpgp-radio-key-expires = Skadon më: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Ka skaduar më: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Kyçi skadoi
 openpgp-key-expand-section =
     .tooltiptext = Më tepër të dhëna
+openpgp-key-revoke-title = Shfuqizojeni Kyçin
 openpgp-key-edit-title = Ndryshoni Kyç OpenPGP
+openpgp-key-edit-date-title = Shtyni Datën e Skadimit
+# Strings in keyDetailsDlg.xhtml
+key-type-public = kyç publik
+key-type-primary = kyç parësor
+key-type-subkey = nënkyç
+key-type-pair = çift kyçesh (kyç i fshehtë dhe kyç publik)
+key-expiry-never = kurrë
 
 ## Account settings export output
 
