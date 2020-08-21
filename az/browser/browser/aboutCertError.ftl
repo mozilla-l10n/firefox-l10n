@@ -34,7 +34,7 @@ cert-error-domain-mismatch-multiple = Saytlar özlərini sertifikatlarla təsdiq
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Saytlar müəyyən bir müddət üçün etibarlı olan sertifikatlarla identikliklərini sübut edirlər. { $hostname } üçün sertifikatın etibarlılığı { $not-before-local-time } tarixində bitib.
+cert-error-expired-now = Saytlar müəyyən bir müddət üçün etibarlı olan sertifikatlarla identikliklərini sübut edirlər. { $hostname } üçün sertifikatın etibarlılığı { $not-after-local-time } tarixində bitib.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
