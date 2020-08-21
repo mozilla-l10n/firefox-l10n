@@ -27,3 +27,10 @@ experimental-features-web-api-inputmode-description = Sendërtimi ynë i atribut
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = API Web: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Atributi <a data-l10n-name="rel">rel</a> me vlerën <code>"preload"</code> në një element <a data-l10n-name="link">&lt;link&gt;</a> është menduar të ndihmojë të furnizohen përfitimeve funksionimi duke ju lejuar të shkarkoni burime herët në ciklin e jetës së faqes, duke siguruar pasjen e tyre më herët dhe më pak gjasa të bllokojnë vizatimin e faqes. Për më tepër hollësi, lexoni <a data-l10n-name="readmore">“Parangarkim lënde me <code>rel="preload"</code>”</a> ose shihni <a data-l10n-name="bugzilla">të metën</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
