@@ -39,6 +39,7 @@ printui-less-settings = Згорнути налаштування
 # Section title (noun) for the print scaling options
 printui-scale = Масштаб
 printui-scale-fit-to-page = Припасувати до сторінки
+printui-scale-fit-to-page-width = Заповнити по ширині аркуша
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Масштаб
 # Section title for miscellaneous print options
