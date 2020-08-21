@@ -202,6 +202,8 @@ openpgp-acceptance-undecided-label =
     .label = Ende jo, ndoshta më vonë.
 openpgp-acceptance-unverified-label =
     .label = Po, por s’e kam verifikuar që është kyçi i saktë.
+openpgp-acceptance-verified-label =
+    .label = Po, e kam verifikuar në prani të personit, që ky kyç ka shenjat e sakta të gishtave.
 openpgp-copy-cmd-label =
     .label = Kopjoje
 
