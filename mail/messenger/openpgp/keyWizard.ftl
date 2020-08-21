@@ -21,6 +21,11 @@ openpgp-keygen-advanced-title = Setelan lanjutan
 
 openpgp-passphrase-prompt-title = Frasa sandi diperlukan
 gnupg-file = Berkas GnuPG
+openpgp-import-identity-label = Identitas
+openpgp-import-fingerprint-label = Sidik jari
 
 ## External Key section
 
+openpgp-save-external-button = Simpan ID kunci
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
