@@ -20,12 +20,40 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar desde outro navegador…
 about-logins-menu-menuitem-import-from-a-file = Importar dun ficheiro ...
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Opcións
+       *[other] Preferencias
+    }
+about-logins-menu-menuitem-help = Axuda
+menu-menuitem-android-app = { -lockless-brand-short-name } para Android
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } sesión
+       *[other] { $count } sesións
+    }
+login-list-sort-label-text = Ordenar por:
+login-list-name-option = Nome (A-Z)
+login-list-name-reverse-option = Nome (Z-A)
+about-logins-login-list-alerts-option = Alertas
+login-list-last-changed-option = Última modificación
+login-list-last-used-option = Usado por última vez
+login-list-intro-description = Cando garde un contrasinal en { -brand-product-name }, aparecerá aquí.
+about-logins-login-list-empty-search-description = Non hai resultados que coincidan coa súa busca.
+login-list-item-title-new-login = Novo inicio de sesión
+login-list-item-subtitle-new-login = Insira as súas credenciais de inicio de sesión
+login-list-item-subtitle-missing-username = (sen nome de usuario)
+about-logins-list-item-vulnerable-password-icon =
+    .title = Contrasinal vulnerable
 
 ## Introduction screen
 
+login-intro-heading = Busca os seus inicios de sesión gardados? Configure { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Busca os seus inicios de sesión gardados? Configure { -sync-brand-short-name } ou impórteos.
+login-intro-instruction-fxa-settings = Asegúrese de que seleccionou a caixa de verificación de Iniciar sesión en Configuración de { -sync-brand-short-name }
 
 ## Login
 
