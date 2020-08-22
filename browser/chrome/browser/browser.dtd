@@ -53,10 +53,13 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 <!ENTITY fxa.menu.signin.label "Iniciar sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Servizos de &brandProductName;">
 <!ENTITY fxa.menu.account.label "Conta">
 <!ENTITY fxa.menu.settings.label "Configuración">
 <!ENTITY fxa.menu.accountSettings.label "Configuración da conta">
 <!ENTITY fxa.menu.manageAccount2.label "Xestionar conta">
+<!ENTITY fxa.menu.signOut.label "Saír…">
+<!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -129,6 +132,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY preferencesCmd2.label       "Opcións">
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
+<!ENTITY logins.label                           "Identificacións e contrasinais">
 
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar a barra de ferramentas…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "b">
@@ -142,6 +146,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.clearRecent.label "Borrar historial recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver o panel do historial">
+<!ENTITY appMenuHistory.hideSidebar.label "Agochar a barra lateral de historia">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recente">
 <!ENTITY appMenuHelp.label "Axuda">
 
@@ -165,9 +170,11 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quere ver aquí as lapelas dos outros dispositivos?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir as preferencias de sincronización">
+<!ENTITY appMenuRemoteTabs.welcome.label "Ver unha lista de lapelas doutros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Necesita comprobar a súa conta.">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Xestionar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver a barra lateral de lapelas sincronizadas">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Agochar as lapelas sincronizadas da barra lateral">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar outro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacados recentes">
@@ -205,6 +212,8 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.label        "Gardar páxina en Pocket">
+<!ENTITY pocketMenuitem.label         "Ver a lista de Pocket">
 
 <!ENTITY emailPageCmd.label           "Enviar a ligazón por correo…">
 
@@ -250,6 +259,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY updateAvailable.panelUI.label "Descargar a actualización de &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Descargar unha nova copia de &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Non pode realizar máis actualizacións">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando os dispositivos…">
