@@ -8,7 +8,6 @@ page-subtitle =
     rozwiązywania problemów. Jeśli szukasz odpowiedzi na często zadawane pytania
     dotyczące programu { -brand-short-name }, sprawdź naszą <a data-l10n-name="support-link">stronę wsparcia
     technicznego</a>.
-
 crashes-title = Zgłoszenia awarii
 crashes-id = ID zgłoszenia
 crashes-send-date = Data przesłania
@@ -82,6 +81,9 @@ show-dir-label =
         [windows] Otwórz folder
        *[other] Otwórz katalog
     }
+environment-variables-title = Zmienne środowiskowe
+environment-variables-name = Nazwa
+environment-variables-value = Wartość
 experimental-features-title = Funkcje eksperymentalne
 experimental-features-name = Nazwa
 experimental-features-value = Wartość
@@ -128,7 +130,6 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Parametry
 safe-mode-title = Tryb awaryjny
 restart-in-safe-mode-label = Uruchom ponownie z wyłączonymi dodatkami…
-
 clear-startup-cache-title = Spróbuj wyczyścić pamięć podręczną uruchamiania
 clear-startup-cache-label = Wyczyść pamięć podręczną uruchamiania…
 startup-cache-dialog-title = Wyczyść pamięć podręczną uruchamiania
@@ -192,7 +193,6 @@ report-crash-for-days =
         [few] Zgłoszenia awarii z ostatnich { $days } dni
        *[many] Zgłoszenia awarii z ostatnich { $days } dni
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -201,7 +201,6 @@ crashes-time-minutes =
         [few] { $minutes } minuty temu
        *[many] { $minutes } minut temu
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -210,7 +209,6 @@ crashes-time-hours =
         [few] { $hours } godziny temu
        *[many] { $hours } godzin temu
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -219,7 +217,6 @@ crashes-time-days =
         [few] { $days } dni temu
        *[many] { $days } dni temu
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -228,7 +225,6 @@ pending-reports =
         [few] Wszystkie zgłoszenia awarii (łącznie z { $reports } oczekującymi we wskazanym okresie)
        *[many] Wszystkie zgłoszenia awarii (łącznie z { $reports } oczekującymi we wskazanym okresie)
     }
-
 raw-data-copied = Nieprzetworzone dane skopiowane do schowka
 text-copied = Tekst skopiowany do schowka.
 
@@ -241,11 +237,9 @@ blocked-mismatched-version = Zablokowane z powodu różnicy wersji pomiędzy re
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Zablokowane dla zainstalowanej wersji sterownika grafiki. Zalecana jest aktualizacja sterownika do wersji { $driverVersion } lub nowszej.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
-
 compositing = Komponowanie
 hardware-h264 = Sprzętowe dekodowanie H.264
 main-thread-no-omtc = główny wątek, brak OMTC
@@ -260,7 +254,6 @@ virtual-monitor-disp = Wirtualny monitor
 
 found = Obecny
 missing = Brak
-
 gpu-process-pid = PID procesu GPU
 gpu-process = Proces GPU
 gpu-description = Opis
@@ -284,25 +277,20 @@ webgl2-version = Wersja sterownika WebGL 2
 webgl2-driver-extensions = Rozszerzenia sterownika WebGL 2
 webgl2-extensions = Rozszerzenia WebGL 2
 blocklisted-bug = Zablokowano z powodu znanych problemów
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = zgłoszenie { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zablokowano z powodu znanych problemów: <a data-l10n-name="bug-link">zgłoszenie { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokowano. Kod błędu: { $failureCode }
-
 d3d11layers-crash-guard = Kompozytor D3D11
 d3d11video-crash-guard = Dekoder wideo D3D11
 d3d9video-crash-guard = Dekoder wideo D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Dekoder wideo WMF VPX
-
 reset-on-next-restart = Spróbuj włączyć przy następnym uruchomieniu
 gpu-process-kill-button = Zakończ proces GPU
 gpu-device-reset = Reset urządzenia
@@ -312,10 +300,8 @@ content-uses-tiling = Używa kafelkowania (treść)
 off-main-thread-paint-enabled = Rysowanie poza głównym wątkiem
 off-main-thread-paint-worker-count = Wątki rysujące poza głównym
 target-frame-rate = Docelowa liczba klatek na sekundę
-
 min-lib-versions = Oczekiwana wersja minimalna
 loaded-lib-versions = Wersja w użyciu
-
 has-seccomp-bpf = Seccomp-BPF (filtrowanie wywołań systemowych)
 has-seccomp-tsync = Synchronizacja wątków Seccomp
 has-user-namespaces = Przestrzenie nazw użytkownika
@@ -328,18 +314,15 @@ sandbox-proc-type-content = zawartość
 sandbox-proc-type-file = zawartość pliku
 sandbox-proc-type-media-plugin = wtyczka
 sandbox-proc-type-data-decoder = dekoder danych
-
 startup-cache-title = Pamięć podręczna uruchamiania
 startup-cache-disk-cache-path = Ścieżka do pamięci podręcznej na dysku
 startup-cache-ignore-disk-cache = Ignorowanie pamięci podręcznej na dysku
 startup-cache-found-disk-cache-on-init = Odnaleziono pamięć podręczną na dysku podczas inicjacji
 startup-cache-wrote-to-disk-cache = Zapisano do pamięci podręcznej na dysku
-
 launcher-process-status-0 = włączony
 launcher-process-status-1 = wyłączony z powodu awarii
 launcher-process-status-2 = wymuszone wyłączenie
 launcher-process-status-unknown = nieznany stan
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -352,7 +335,6 @@ multi-process-status-6 = wyłączone ze względu na nieobsługiwaną metodę wpr
 multi-process-status-7 = wyłączone przez dodatki
 multi-process-status-8 = wymuszone wyłączenie
 multi-process-status-unknown = nieznany stan
-
 async-pan-zoom = Asynchroniczne przewijanie/powiększanie
 apz-none = brak
 wheel-enabled = kółko
