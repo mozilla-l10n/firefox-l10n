@@ -174,6 +174,7 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 
 about-logins-breach-alert-title = Trenque en a pachina web
 breach-alert-text = Bellas claus d'este puesto s'han filtrau u robau dende que esviellés los tuyos detalles d'inicio de sesión. Cambia la tuya clau pa protecher la tuya cuenta.
+about-logins-breach-alert-date = Iste trenque ha ocurriu en { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ir ta { $hostname }
