@@ -6,6 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } utiliza un certificado de seguranza non válido.
 cert-error-mitm-intro = Os sitios web demostran a súa identidade a través de certificados emitidos por autoridades certificadoras.
+cert-error-mitm-mozilla = { -brand-short-name } está apoiado por Mozilla, organización sen ánimo de lucro que administra un almacén de autorización de certificados (CA) completamente aberto. O almacén de CA axuda a asegurarse de que as autoridades de certificados están a seguir as mellores prácticas para a seguridade dos usuarios.
+cert-error-mitm-connection = { -brand-short-name } usa o almacén de CA da Mozilla para comprobar que a conexión é segura, máis que os certificados subministrados polo sistema operativo do usuario. Así, se un programa antivirus ou unha rede están a interceptar unha conexión cun certificado de seguridade emitido por unha CA que non se atopa no almacén de Mozilla, a conexión considérase insegura.
 cert-error-trust-unknown-issuer-intro = Alguén podería estar tratando de suplantar o sitio e non debería continuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
@@ -32,6 +34,14 @@ cert-error-domain-mismatch-single-nolink = Os sitios web xustifican a súa ident
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Os sitios web xustifican a súa identidade con certificados. { -brand-short-name } non confía en { $hostname } porque usa un certificado que non é válido para { $hostname }. O certificado só é válido para os seguintes nomes: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Os sitios web proban a súa identidade a través de certificados, válidos durante un período de tempo establecido. O certificado de { $hostname } caducou o { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Os sitios web proban a súa identidade a través de certificados, válidos durante un período de tempo establecido. O certificado para { $hostname } non será válido ata { $not-before-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Código de erro: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
@@ -45,6 +55,10 @@ cert-error-details-hsts-label = Seguranza de transporte estrita HTTP: { $hasHSTS
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadea de certificados:
+open-in-new-window-for-csp-or-xfo-error = Abrir sitio nunha xanela nova
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Para protexer a súa seguridade, { $hostname } non permitirá que { -brand-short-name } amose a páxina se outro sitio a incrustou. Para ver esta páxina, é preciso abrila nunha xanela nova.
 
 ## Messages used for certificate error titles
 
@@ -73,6 +87,7 @@ proxyResolveFailure-title = Non é posíbel atopar o servidor proxy
 redirectLoop-title = A páxina non está a redirixir correctamente
 unknownSocketType-title = Resposta inesperada do servidor
 nssFailure2-title = Fallou a conexión segura
+csp-xfo-error-title = { -brand-short-name } non pode abrir esta páxina
 corruptedContentError-title = Erro de contido danado
 remoteXUL-title = XUL remoto
 sslv3Used-title = Non é posíbel conectarse de forma segura
@@ -82,3 +97,4 @@ clockSkewError-title = A hora do seu computador é incorrecta
 networkProtocolError-title = Erro do protocolo de rede
 nssBadCert-title = Aviso: potencial risco de seguranza
 nssBadCert-sts-title = Conexión bloqueada: Potencial incidencia de seguranza
+certerror-mitm-title = O software impide que { -brand-short-name } se conecte de forma segura a este sitio
