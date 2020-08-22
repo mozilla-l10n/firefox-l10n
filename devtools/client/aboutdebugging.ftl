@@ -168,6 +168,25 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Desempeño do perfil
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = A súa configuración do navegador non é compatible cos traballadores de servizos. <a>Saiba máis</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = O navegador conectado ten unha versión antiga ({ $runtimeVersion }). A versión mínima admitida é ({ $minVersion }). Esta é unha configuración non compatible e pode causar que DevTools falle. Actualice o navegador conectado. <a>Resolución de problemas</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Esta versión de Firefox non pode depurar Firefox para Android (68). Recomendamos instalar Firefox para Android Nightly no teléfono para probalo. <a>Máis detalles</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = O navegador conectado é máis recente ({ $runtimeVersion }, buildID { $runtimeID }) que o seu { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta é unha configuración non compatible e pode causar que DevTools falle. Actualice Firefox. <a>Resolución de problemas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -176,8 +195,13 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Desconectar
 # Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Activar o aviso de conexión
+# Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Desactivar o aviso de conexión
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Perfilador
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -208,6 +232,8 @@ about-debugging-tmp-extension-remove-button = Eliminar
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Seleccione o ficheiro manifest.json ou o arquivo .xpi / .zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Esta WebExtension ten un identificador temporal. <a>Saiba máis</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -220,3 +246,66 @@ about-debugging-extension-uuid =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Localización
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Identificador da extensión
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Empurrón
+    .disabledTitle = Empurrón do Traballador de servizos está desactivado para multiprocesos de { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Iniciar
+    .disabledTitle = Inicio do Service Worker é destá desactivado por multiprocsos { -brand-shorter-name }
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Cancelar rexistro
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Obter
+    .value = Estando atento para obter eventos
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Obter
+    .value = Non estando atento para obter eventos
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = En execución
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Detido
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Rexistrando
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Ámbito
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Servizo push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = A inspección do traballador de servizo está actualmente desactivada para multiproceso { -brand-shorter-name }
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = A lapela non está totalmente cargada e non se pode inspeccionar
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Proceso principal
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Proceso principal para o navegador de destino
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Caixa de ferramentas de múltiples procesos
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Procesos principais e procesos de contido para o navegador de destino
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Pechar mensaxe
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detalles de erro
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detalles da advertencia
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detalles
