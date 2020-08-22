@@ -17,6 +17,14 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleccionar todas as lapelas
     .accesskey = S
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desfacer peche de lapela
+            [one] Desfacer o peche da lapela
+           *[other] Desfacer o peche da lapelas
+        }
+    .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = Xestionar extensión
     .accesskey = e
