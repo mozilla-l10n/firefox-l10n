@@ -28,12 +28,38 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegación">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "m">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Marcadores">
 <!ENTITY bookmarksToolbarItem.label "Elementos da barra de marcadores">
 
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 
+<!ENTITY pictureInPictureHideToggle.label "Agochar «Alternar imaxe en imaxe»">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Configuración">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar outro dispositivo…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+<!ENTITY fxa.menu.signin.label "Iniciar sesión en &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Conta">
+<!ENTITY fxa.menu.settings.label "Configuración">
+<!ENTITY fxa.menu.accountSettings.label "Configuración da conta">
+<!ENTITY fxa.menu.manageAccount2.label "Xestionar conta">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -65,7 +91,6 @@ can reach it easily. -->
 
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta páxina">
-
 
 <!ENTITY searchItem.title             "Buscar">
 
@@ -150,7 +175,7 @@ can reach it easily. -->
 <!ENTITY customizeMenu.addToToolbar.label "Engadir á barra de ferramentas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Engadir ao menú adicional (»)">
@@ -178,15 +203,10 @@ can reach it easily. -->
 
 <!ENTITY pageAction.copyLink.label    "Copiar ligazón">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "Enviar a ligazón por correo…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -213,11 +233,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
 <!ENTITY spellAddDictionaries.accesskey "g">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Lapelas do navegador">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -231,9 +249,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "Grazas!">
 
 <!ENTITY updateAvailable.panelUI.label "Descargar a actualización de &brandShorterName;">
-
 <!ENTITY updateManual.panelUI.label "Descargar unha nova copia de &brandShorterName;">
-
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando os dispositivos…">
@@ -248,4 +264,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Características de accesibilidade activadas">
-
