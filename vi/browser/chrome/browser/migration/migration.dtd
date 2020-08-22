@@ -37,7 +37,7 @@
 
 <!ENTITY noMigrationSources.label       "Không tìm thấy chương trình nào chứa dấu trang, lịch sử, hoặc dữ liệu mật khẩu.">
 
-<!ENTITY importSource.title             "Nhập các Thiết lập và Dữ liệu từ">
+<!ENTITY importSource.title             "Nhập cài đặt và dữ liệu">
 <!ENTITY importItems.title              "Các mục cần nhập">
 <!ENTITY importItems.label              "Chọn các mục để nhập:">
 
