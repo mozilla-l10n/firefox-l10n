@@ -21,6 +21,8 @@ protections-popup-footer-protection-label-standard = Estándar
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Máis información sobre a protección avanzada de rastreo
+protections-panel-etp-on-header = A protección avanzada de rastrexo está activada para este sitio
+protections-panel-etp-off-header = A protección avanzada de rastrexo está desactivada neste sitio
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O sitio non funciona?
 # The heading/title of the sub-panel view
@@ -37,6 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Cargáronse todos os rastre
 ##
 
 protections-panel-no-trackers-found = Non se detectaron rastreadores coñecidos por { -brand-short-name } nesta páxina.
+protections-panel-content-blocking-tracking-protection = Rastrexo de contido
 protections-panel-content-blocking-socialblock = Rastreadores de redes sociais
 protections-panel-content-blocking-cryptominers-label = Criptomineiros
 protections-panel-content-blocking-fingerprinters-label = Pegadas dixitais
@@ -49,6 +52,7 @@ protections-panel-content-blocking-fingerprinters-label = Pegadas dixitais
 
 protections-panel-blocking-label = Bloqueado
 protections-panel-not-blocking-label = Permitido
+protections-panel-not-found-label = Nada detectado
 
 ##
 
@@ -72,14 +76,22 @@ protections-panel-site-not-working-view-send-report = Enviar informe
 ##
 
 protections-panel-cross-site-tracking-cookies = Estas cookies seguen de sitio en sitio para recoller datos sobre o que faga en liña. Están establecidos por terceiros como anunciantes e empresas de análise.
+protections-panel-cryptominers = Os criptomineiros usan o poder informático do seu sistema para minar diñeiro dixital. Os scripts de criptomoeda drenan a batería, desaceleran o computador e poden aumentar a súa factura enerxética.
 protections-panel-fingerprinters = As pegadas dixitais recollen configuracións do seu navegador e computador para crear un perfil de vostede. Usando esta pegada dixital, poden rastrealo en diferentes sitios web.
 protections-panel-tracking-content = Os sitios web poden cargar anuncios externos, vídeos e outro contido con código de seguimento. O bloqueo de contido de seguimento pode axudar aos sitios a cargarse máis rápido, pero é posible que algúns botóns, formularios e campos de inicio de sesión non funcionen.
 protections-panel-social-media-trackers = As redes sociais colocan rastreadores noutros sitios web para seguir o que faga, vexa e mire en liña. Isto permite ás empresas de redes sociais aprender máis sobre vostede máis alá do que comparte nos seus perfís de redes sociais.
+protections-panel-content-blocking-manage-settings =
+    .label = Xestionar configuración de protección
+    .accesskey = X
 protections-panel-content-blocking-breakage-report-view =
     .title = Informar dun sitio quebrado
+protections-panel-content-blocking-breakage-report-view-description = Bloquear certos rastreadores pode causar problemas con algúns sitios web. Informar destes problemas axuda a que { -brand-short-name } sexa mellor para todos. O envío deste informe enviará un URL e información sobre a configuración do seu navegador a Mozilla. <label data-l10n-name = "aprender máis">Máis información</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: Describa o problema
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Opcional: Describa o problema
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancelar
 protections-panel-content-blocking-breakage-report-view-send-report =
