@@ -121,6 +121,7 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargase neste contexto porque a páxina ten unha política de X-Frame-Options que a invalida.</p>">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
@@ -146,11 +147,19 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Páxina bloqueada">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> é probabelmente un sitio seguro, pero non foi posíbel establecer unha conexión segura. Este problema é causado por <span class='mitm-name'/>, que é ou sexa software no seu computador ou na súa rede.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Se o seu software antivirus inclúe unha función que escanee conexións cifradas (a miúdo chamadas «analizar a web» ou «escanear https»), pode deshabilitar esta función. Se iso non funciona, pode eliminar e reinstalar o software antivirus.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Se está nunha rede corporativa, pode poñerse en contacto co seu departamento de informática.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se non está familiarizado con <span class='mitm-name'/>, entón isto podería ser un ataque e non debe continuar ata o sitio.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se non está familiarizado con <span class='mitm-name'/>, entón isto podería ser un ataque e non hai nada que poida facer para acceder ao sitio.">
 
 <!ENTITY clockSkewError.longDesc "Segundo o seu computador, a data e hora actual son: <span id='wrongSystemTime_systemDate1'/>, o que impide que &brandShortName; se conecte de forma segura. Para visitar <span class='hostname'></span>, actualice o reloxo do seu computador na súa configuración do sistema á data e hora actual, ao fuso horario apropiado, e logo actualice <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Semella que a súa configuración de seguranza de rede podería causar isto. Quere restaurar a configuración predeterminada?">
 <!ENTITY prefReset.label "Restaurar a configuración predeterminada">
 
+<!ENTITY enableTls10.longDesc "É posible que este sitio web non admitE o protocolo TLS 1.2, que é a versión mínima soportada por &brandShortName;. A habilitación de TLS 1.0 e TLS 1.1 pode permitir que esta conexión teña éxito.">
+<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 estarán desactivados permanentemente nunha versión futura.">
+<!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro protocolo da rede.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
