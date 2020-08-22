@@ -8,8 +8,8 @@ page-subtitle =
     την επίλυση προβλημάτων. Αν ψάχνετε για απαντήσεις σε συχνές ερωτήσεις σχετικά με το
     { -brand-short-name }, δείτε τη <a data-l10n-name="support-link">σελίδα υποστήριξής</a> μας.
 crashes-title = Αναφορές κατάρρευσης
-crashes-id = ID Αναφοράς
-crashes-send-date = Υποβλήθηκε
+crashes-id = ID αναφοράς
+crashes-send-date = Υποβεβλημένα
 crashes-all-reports = Όλες οι αναφορές κατάρρευσης
 crashes-no-config = Αυτή η εφαρμογή δεν έχει ρυθμιστεί για εμφάνιση αναφορών κατάρρευσης.
 extensions-title = Επεκτάσεις
@@ -29,7 +29,7 @@ security-software-name = Όνομα
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Τείχος προστασίας
-features-title = Χαρακτηριστικά του { -brand-short-name }
+features-title = Χαρακτηριστικά { -brand-short-name }
 features-name = Όνομα
 features-version = Έκδοση
 features-id = ID
@@ -46,13 +46,13 @@ app-basics-update-channel = Κανάλι ενημερώσεων
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Κατάλογος ενημέρωσης
-       *[other] Φάκελος ενημέρωσης
+        [linux] Κατάλογος ενημερώσεων
+       *[other] Φάκελος ενημερώσεων
     }
 app-basics-update-history = Ιστορικό ενημερώσεων
 app-basics-show-update-history = Προβολή ιστορικού ενημερώσεων
 # Represents the path to the binary used to start the application.
-app-basics-binary = Δυαδική εφαρμογή
+app-basics-binary = Αρχείο εφαρμογής
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Κατάλογος προφίλ
@@ -64,9 +64,9 @@ app-basics-user-agent = Πλατφόρμα χρήστη
 app-basics-os = ΛΣ
 app-basics-memory-use = Χρήση μνήμης
 app-basics-performance = Επιδόσεις
-app-basics-service-workers = Εγγεγραμμένα Service Workers
+app-basics-service-workers = Εγγεγραμμένα service worker
 app-basics-profiles = Προφίλ
-app-basics-launcher-process-status = Διαδικασία προγράμματος εκκίνησης
+app-basics-launcher-process-status = Διεργασία εκκίνησης
 app-basics-multi-process-support = Παράθυρα πολυδιεργασιών
 app-basics-remote-processes-count = Απομακρυσμένες διεργασίες
 app-basics-enterprise-policies = Πολιτικές επιχειρήσεων
@@ -76,10 +76,13 @@ app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mo
 app-basics-safe-mode = Ασφαλής λειτουργία
 show-dir-label =
     { PLATFORM() ->
-        [macos] Προβολή στον Finder
+        [macos] Προβολή στο Finder
         [windows] Άνοιγμα φακέλου
        *[other] Άνοιγμα καταλόγου
     }
+environment-variables-title = Μεταβλητές περιβάλλοντος
+environment-variables-name = Όνομα
+environment-variables-value = Τιμή
 experimental-features-title = Πειραματικές λειτουργίες
 experimental-features-name = Όνομα
 experimental-features-value = Τιμή
