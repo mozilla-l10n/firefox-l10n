@@ -33,6 +33,7 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Lóxico
 about-config-pref-add-type-number = Número
 about-config-pref-add-type-string = Cadea
 
