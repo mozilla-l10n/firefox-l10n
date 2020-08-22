@@ -72,12 +72,27 @@ cfr-doorhanger-pintab-animation-resume = Retomar
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronice os seus marcadores en todas partes.
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Botón de peche
+    .title = Pechar
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Máis información
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nova característica:
+cfr-whatsnew-button =
+    .label = Novidades
+    .tooltiptext = Novidades
+cfr-whatsnew-panel-header = Novidades
+cfr-whatsnew-release-notes-link-text = Lea as notas de lanzamento
+cfr-whatsnew-fx70-title = { -brand-short-name } agora loita máis pola súa privacidade
+cfr-whatsnew-tracking-protect-title = Protexerse dos rastreadores
+cfr-whatsnew-tracking-protect-link-text = Ver o seu informe
 
 ## Search Bar
 
