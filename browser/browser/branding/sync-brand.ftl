@@ -35,75 +35,73 @@
                 [lower] synchronizacji
             }
     }
-
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
     { $case ->
        *[nom]
             { $capitalization ->
-               *[upper] Synchronizacja Firefox
-                [lower] synchronizacja Firefox
+               *[upper] Synchronizacja Firefoksa
+                [lower] synchronizacja Firefoksa
             }
         [gen]
             { $capitalization ->
-               *[upper] Synchronizacji Firefox
-                [lower] synchronizacji Firefox
+               *[upper] Synchronizacji Firefoksa
+                [lower] synchronizacji Firefoksa
             }
         [dat]
             { $capitalization ->
-               *[upper] Synchronizacji Firefox
-                [lower] synchronizacji Firefox
+               *[upper] Synchronizacji Firefoksa
+                [lower] synchronizacji Firefoksa
             }
         [acc]
             { $capitalization ->
-               *[upper] Synchronizację Firefox
-                [lower] synchronizację Firefox
+               *[upper] Synchronizację Firefoksa
+                [lower] synchronizację Firefoksa
             }
         [ins]
             { $capitalization ->
-               *[upper] Synchronizacją Firefox
-                [lower] synchronizacją Firefox
+               *[upper] Synchronizacją Firefoksa
+                [lower] synchronizacją Firefoksa
             }
         [loc]
             { $capitalization ->
-               *[upper] Synchronizacji Firefox
-                [lower] synchronizacji Firefox
+               *[upper] Synchronizacji Firefoksa
+                [lower] synchronizacji Firefoksa
             }
     }
-
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
        *[nom]
             { $capitalization ->
-               *[upper] Konto Firefox
-                [lower] konto Firefox
+               *[upper] Konto Firefoksa
+                [lower] konto Firefoksa
             }
         [gen]
             { $capitalization ->
-               *[upper] Konta Firefox
-                [lower] konta Firefox
+               *[upper] Konta Firefoksa
+                [lower] konta Firefoksa
             }
         [dat]
             { $capitalization ->
-               *[upper] Kontu Firefox
-                [lower] kontu Firefox
+               *[upper] Kontu Firefoksa
+                [lower] kontu Firefoksa
             }
         [acc]
             { $capitalization ->
-               *[upper] Konto Firefox
-                [lower] konto Firefox
+               *[upper] Konto Firefoksa
+                [lower] konto Firefoksa
             }
         [ins]
             { $capitalization ->
-               *[upper] Kontem Firefox
-                [lower] kontem Firefox
+               *[upper] Kontem Firefoksa
+                [lower] kontem Firefoksa
             }
         [loc]
             { $capitalization ->
-               *[upper] Koncie Firefox
-                [lower] koncie Firefox
+               *[upper] Koncie Firefoksa
+                [lower] koncie Firefoksa
             }
     }
