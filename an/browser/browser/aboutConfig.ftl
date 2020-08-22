@@ -9,10 +9,27 @@
 ##
 
 about-config-page-title = Preferencias Abanzadas
+about-config-search-input1 =
+    .placeholder = Buscar por o nombre de preferencia
 about-config-show-all = Amostrar-lo tot
+about-config-pref-add-button =
+    .title = Anyadir
+about-config-pref-toggle-button =
+    .title = Commutar
+about-config-pref-edit-button =
+    .title = Editar
+about-config-pref-save-button =
+    .title = Alzar
+about-config-pref-reset-button =
+    .title = Reiniciar
+about-config-pref-delete-button =
+    .title = Borrar
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Booleano
+about-config-pref-add-type-number = Numero
+about-config-pref-add-type-string = Cadena
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -21,3 +38,7 @@ about-config-show-all = Amostrar-lo tot
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (per defecto)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (personalizau)
