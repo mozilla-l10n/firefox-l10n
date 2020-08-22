@@ -127,9 +127,13 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copia la clau alzada
 master-password-notification-message = Escribe la clau mayestra pa veyer los inicios de sesión y claus alzaus
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pa exportar los tuyos inicios de sesión, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = exportar los inicios de sesión y claus
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Escribe la clau primaria pa veyer los inicios de sesión y as claus alzaus
 master-password-reload-button =
     .label = Iniciar sesión
     .accesskey = I
@@ -160,16 +164,28 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+about-logins-confirm-export-dialog-title = Exportar inicios de sesión y claus
+about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = Descartar los cambios sin alzar?
 confirm-discard-changes-dialog-message = Totz los cambios sin alzar se pueden perder.
 confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Trenque en a pachina web
 breach-alert-text = Bellas claus d'este puesto s'han filtrau u robau dende que esviellés los tuyos detalles d'inicio de sesión. Cambia la tuya clau pa protecher la tuya cuenta.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ir ta { $hostname }
+about-logins-breach-alert-learn-more-link = Saber-ne mas
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Clau vulnerable
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ir ta  { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Saber-ne mas
 
 ## Error Messages
 
@@ -183,6 +199,25 @@ about-logins-error-message-default = S'ha produciu una error quan se miraba d'al
 
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Exportar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento CSV
+       *[other] Archivo CSV
+    }
 
 ## Login Import Dialog
 
+about-logins-import-file-picker-import-button = Importar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento CSV
+       *[other] Archivo CSV
+    }
