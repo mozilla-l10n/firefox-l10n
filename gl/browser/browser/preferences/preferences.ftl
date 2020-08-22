@@ -4,6 +4,8 @@
 
 do-not-track-description = Enviar aos sitios web un sinal "Do not track" indicándolles que non desexa ser seguido
 do-not-track-learn-more = Máis información
+do-not-track-option-default-content-blocking-known =
+    .label = Só cando { -brand-short-name } estea configurado para bloquear os rastrexadores coñecidos
 do-not-track-option-always =
     .label = Sempre
 pref-page-title =
@@ -80,6 +82,9 @@ extension-controlled-homepage-override = Unha extensión, <img data-l10n-name="i
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla a páxina «Nova lapela».
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Unha extensión, <img data-l10n-name="icon"/> { $name }, está a controlar esta opción.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla esta configuración.
@@ -201,8 +206,15 @@ advanced-fonts =
 colors-settings =
     .label = Cores…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Ampliación
+preferences-default-zoom = Ampliación predeterminada
+    .accesskey = p
 preferences-default-zoom-value =
     .label = { $percentage } %
+preferences-zoom-text-only =
+    .label = Ampliar só o texto
+    .accesskey = t
 language-header = Idioma
 choose-language-description = Escolla o seu idioma preferido para amosar as páxinas
 choose-button =
@@ -223,6 +235,10 @@ translate-attribution = Traducións de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcións…
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Use a configuración do sistema operativo do «{ $localeName }» para dar formato ás datas, horas, números e medidas.
 check-user-spelling =
     .label = Comprobar a ortografía ao escribir
     .accesskey = T
@@ -271,6 +287,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Usar { $app-name } (predeterminado)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Usar a aplicación predeterminada do macOS
+            [windows] Usar a aplicación predeterminada do Windows
+           *[other] Usar a aplicación predeterminado do sistema
+        }
 applications-use-other =
     .label = Utilizar outro…
 applications-select-helper = Seleccionar o aplicativo auxiliar
@@ -294,6 +317,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en { -brand-short-name })
+applications-open-inapp =
+    .label = Abrir no { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -339,10 +364,19 @@ update-application-check-choose =
 update-application-manual =
     .label = Non buscar actualizacións (non recomendado)
     .accesskey = n
+update-application-warning-cross-user-setting = Esta configuración aplicarase a todas as contas de Windows e perfís de { -brand-short-name } que utilicen esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servizo en segundo plano para instalar as actualizacións
     .accesskey = g
 update-setting-write-failure-title = Erro ao gardar as preferencias da actualización
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } atopou un erro e non gardou este cambio. Teña en conta que para establecer esta preferencia de actualización é necesario o permiso para escribir no seguinte ficheiro. Vostede ou a administración do sistema poden resolver o erro concedendo o grupo de usuarios o control total sobre este ficheiro.
+    
+    Non foi posíbel escribir no ficheiro: { $path }
 update-in-progress-title = Actualización en curso
 update-in-progress-message = Quere que { -brand-short-name } continúe con esta actualización?
 update-in-progress-ok-button = &Descartar
@@ -388,10 +422,16 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar o texto ao comezar a escribir
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activar os controis de vídeo de imaxe en imaxe
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Máis información
 browsing-cfr-recommendations =
     .label = Recomendar extensións mentres navega
     .accesskey = R
+browsing-cfr-features =
+    .label = Recomendar funcións mentres navega
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Máis información
 
 ## General Section - Proxy
@@ -455,6 +495,7 @@ home-prefs-topsites-description = Os sitios que máis visita
 
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
+home-prefs-recommended-by-description-update = Contido excepcional de toda a web, inspeccionado por { $provider }
 
 ##
 
@@ -495,6 +536,11 @@ search-bar-shown =
     .label = Engadir unha barra de busca á barra de ferramentas
 search-engine-default-header = Buscador predeterminado
 search-engine-default-desc-2 = Este é o motor de busca predeterminado da barra de enderezos e da barra de busca. Pode cambialo en calquera momento.
+search-engine-default-private-desc-2 = Elixir un motor de busca predeterminado diferente só para as xanelas privadas
+search-separate-default-engine =
+    .label = Utilizar este buscador nas xanelas privadas
+    .accesskey = U
+search-suggestions-header = Suxestións de busca
 search-suggestions-desc = Escolla como aparecen as suxestións dos motores de busca.
 search-suggestions-option =
     .label = Fornecer suxestións de busca
@@ -509,6 +555,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Amosar suxestións de busca antes do historial de navegación nos resultados da barra de enderezos
+search-show-suggestions-private-windows =
+    .label = Amosar suxestións de busca nas xanelas privadas
 suggestions-addressbar-settings-generic = Cambiar preferencias para outras suxestións na barra de enderezos
 search-suggestions-cant-show = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
 search-one-click-header = Buscadores nun clic
@@ -544,6 +592,9 @@ containers-header = Lapelas contedor
 containers-add-button =
     .label = Engadir un novo contedor
     .accesskey = a
+containers-new-tab-check =
+    .label = Seleccionar un contedor para cada lapela nova
+    .accesskey = S
 containers-preferences-button =
     .label = Preferencias
 containers-remove-button =
@@ -571,6 +622,9 @@ sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> 
 
 sync-profile-picture =
     .tooltiptext = Cambiar a foto do perfil
+sync-sign-out =
+    .label = Saír…
+    .accesskey = S
 sync-manage-account = Xestionar conta
     .accesskey = o
 sync-signedin-unverified = { $email } non está comprobado.
@@ -587,6 +641,11 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronización: Activada
+prefs-syncing-off = Sincronización: Desactivada
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name } ...
+    .accesskey = C
 prefs-sync-offer-setup-label = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
@@ -631,6 +690,10 @@ sync-engine-tabs =
     .label = Lapelas abertas
     .tooltiptext = Lista do que ten aberto en todos os dispositivos sincronizados
     .accesskey = t
+sync-engine-logins-passwords =
+    .label = Identificacións e contrasinais
+    .tooltiptext = Nomes de usuario e contrasinais que gardaches
+    .accesskey = I
 sync-engine-addresses =
     .label = Enderezos
     .tooltiptext = Enderezos postais gardados (só no escritorio)
@@ -710,6 +773,9 @@ forms-master-pw-change =
     .label = Modificar o contrasinal principal…
     .accesskey = M
 forms-master-pw-fips-title = Está en modo FIPS, que require un contrasinal principal que non estea baleiro.
+forms-primary-pw-change =
+    .label = Cambiar o contrasinal principal...
+    .accesskey = P
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
@@ -721,6 +787,11 @@ forms-master-pw-fips-desc = Erro ao modificar o contrasinal
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Para crear un contrasinal principal, introduza as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Crear un contrasinal principal
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Para crear un contrasinal principal, insira as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
 # This message can be seen by trying to add a Primary Password.
@@ -794,6 +865,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipo de contido bloqueado
     .accesskey = T
+sitedata-option-block-cross-site-trackers =
+    .label = Rastrexadores entre sitios
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Rastreadores entre sitios e de redes sociais
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Rastrexadores entre sitios e redes sociais e illar as cookies restantes
 sitedata-option-block-unvisited =
     .label = Cookies de sitios non visitados
 sitedata-option-block-all-third-party =
@@ -834,6 +911,7 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Protección avanzada de rastreo
+content-blocking-section-top-level-description = Os rastrexadores seguen a súa presenza para recoller información sobre os seus hábitos e intereses de navegación. { -brand-short-name } bloquea moitos destes rastrexadores e outros scripts maliciosos.
 content-blocking-learn-more = Máis información
 
 ## These strings are used to define the different levels of
@@ -852,12 +930,50 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Equilibrado para a protección e o rendemento. As páxinas cargaranse normalmente.
+content-blocking-etp-strict-desc = Unha protección máis forte, pero pode atrapallar algúns sitios ou contido.
+content-blocking-etp-custom-desc = Escolla os rastreadores e scripts que bloquear.
+content-blocking-private-windows = Tracexamento de contido en xanelas privadas
+content-blocking-cross-site-tracking-cookies = Cookies de seguimento entre sitios
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de rastrexo entre sitios e illar as cookies restantes
+content-blocking-social-media-trackers = Rastrexadores de redes sociais
+content-blocking-all-cookies = Todas as cookies
+content-blocking-unvisited-cookies = Cookies de sitios non visitados
+content-blocking-all-windows-tracking-content = Rastrexo de contido en todas as xanelas
 content-blocking-all-third-party-cookies = Todas as cookies de terceiros
+content-blocking-cryptominers = Criptomineiros
+content-blocking-fingerprinters = Pegadas dixitais
 content-blocking-warning-title = Atención!
+content-blocking-and-isolating-etp-warning-description = O bloqueo de rastrexadores e o illamento de cookies poderían afectar a funcionalidade dalgúns sitios. Actualice unha páxina con rastrexadores para cargar todo o contido.
+content-blocking-warning-learn-how = Saiba como
+content-blocking-reload-description = Deberá volver cargar as súas lapelas para aplicar estes cambios.
+content-blocking-reload-tabs-button =
+    .label = Recargar todas as lapelas
+    .accesskey = R
+content-blocking-tracking-content-label =
+    .label = Rastrexo de contido
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = En todas as xanelas
+    .accesskey = t
+content-blocking-option-private =
+    .label = Só nas xanelas privadas
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = Cambiar a lista de bloqueo
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Máis información
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptomineiros
+    .accesskey = C
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Pegadas dixitais
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
@@ -872,6 +988,10 @@ permissions-location = Localización
 permissions-location-settings =
     .label = Configuración...
     .accesskey = g
+permissions-xr = Realidade virtual
+permissions-xr-settings =
+    .label = Configuración…
+    .accesskey = C
 permissions-camera = Cámara
 permissions-camera-settings =
     .label = Configuración...
@@ -888,6 +1008,10 @@ permissions-notification-link = Máis información
 permissions-notification-pause =
     .label = Interromper as notificacións ata que { -brand-short-name } se reinicie
     .accesskey = n
+permissions-autoplay = Reprodución automática
+permissions-autoplay-settings =
+    .label = Configuración…
+    .accesskey = C
 permissions-block-popups =
     .label = Bloquear xanelas emerxentes
     .accesskey = B
@@ -910,6 +1034,8 @@ permissions-a11y-privacy-link = Máis información
 collection-header = Recolección e uso de datos do { -brand-short-name }
 collection-description = Esforzámonos para darlle opcións e recoller só aquilo que precisamos para prover e perfeccionar { -brand-short-name } para todo o mundo. Sempre lle solicitaremos permiso antes de recoller información persoal.
 collection-privacy-notice = Política de privacidade
+collection-health-report-telemetry-disabled = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
+collection-health-report-telemetry-disabled-link = Máis información
 collection-health-report =
     .label = Permitir a { -brand-short-name } o envío de datos técnicos e de interacción a { -vendor-short-name }
     .accesskey = r
@@ -917,6 +1043,9 @@ collection-health-report-link = Máis información
 collection-studies =
     .label = Permitir a { -brand-short-name } instalar e executar estudios
 collection-studies-link = Ver os estudos de { -brand-short-name }
+addon-recommendations =
+    .label = Permitir que { -brand-short-name } faga recomendacións de extensións personalizadas
+addon-recommendations-link = Máis información
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O envío de informes está desactivado nesta configuración de compilación
@@ -988,6 +1117,15 @@ space-alert-under-5gb-message = { -brand-short-name } xa non ten suficiente espa
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Modo só HTTPS
+httpsonly-description = HTTPS fornece unha conexión segura e cifrada entre { -brand-short-name } e os sitios web que visita. A maioría dos sitios web admiten HTTPS e se o modo Só HTTPS está activado, o { -brand-short-name } actualizará todas as conexións a HTTPS.
+httpsonly-learn-more = Máis información
+httpsonly-radio-enabled =
+    .label = Activar o modo só HTTPS en todas as xanelas
+httpsonly-radio-enabled-pbm =
+    .label = Activar o modo só HTTPS só nas xanelas privadas
+httpsonly-radio-disabled =
+    .label = Non activar o modo só HTTPS
 
 ## The following strings are used in the Download section of settings
 
