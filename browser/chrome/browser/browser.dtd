@@ -63,6 +63,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Envíe unha lapela ao instante a calquera dispositivo no que iniciase sesión.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -172,6 +173,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir as preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.welcome.label "Ver unha lista de lapelas doutros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Necesita comprobar a súa conta.">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Iniciar sesión en &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Xestionar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver a barra lateral de lapelas sincronizadas">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Agochar as lapelas sincronizadas da barra lateral">
