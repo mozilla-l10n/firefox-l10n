@@ -35,7 +35,7 @@ features-version = Έκδοση
 features-id = ID
 processes-title = Απομακρυσμένες διεργασίες
 processes-type = Τύπος
-processes-count = Αρίθμηση
+processes-count = Πλήθος
 app-basics-title = Βασικά εφαρμογής
 app-basics-name = Όνομα
 app-basics-version = Έκδοση
@@ -322,7 +322,7 @@ launcher-process-status-unknown = Άγνωστη κατάσταση
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Ενεργοποιήθηκε από το χρήστη
-multi-process-status-1 = Ενεργό από προεπιλογή
+multi-process-status-1 = ενεργό από προεπιλογή
 multi-process-status-2 = Ανενεργό
 multi-process-status-4 = Ανενεργό λόγω εργαλείων προσβασιμότητας
 multi-process-status-6 = Ανενεργό λόγω μη υποστηριζόμενης εισόδου κειμένου
