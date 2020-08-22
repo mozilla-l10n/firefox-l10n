@@ -93,33 +93,63 @@ cfr-whatsnew-release-notes-link-text = Lea as notas de lanzamento
 cfr-whatsnew-fx70-title = { -brand-short-name } agora loita máis pola súa privacidade
 cfr-whatsnew-tracking-protect-title = Protexerse dos rastreadores
 cfr-whatsnew-tracking-protect-link-text = Ver o seu informe
+cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Ver o informe
+cfr-whatsnew-lockwise-backup-title = Faga unha copia de seguridade dos seus contrasinais
+cfr-whatsnew-lockwise-backup-body = Xere agora contrasinais seguras ás que pode acceder en calquera lugar que inicie sesión.
+cfr-whatsnew-lockwise-backup-link-text = Activar copias de seguridade
+cfr-whatsnew-lockwise-take-title = Leve os seus contrasinais con vostede
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Escriba menos, atope máis coa barra de enderezos
+cfr-whatsnew-searchbar-body-topsites = Agora, só ten que seleccionar a barra de enderezos e unha caixa expandirase con ligazóns aos seus sitios máis importantes.
+cfr-whatsnew-searchbar-icon-alt-text = Icona da lupa
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = Máis información
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } agora bloquea que os sitios soliciten automaticamente que lle envíen mensaxes emerxentes.
+cfr-whatsnew-permission-prompt-cta = Máis información
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Pegada dixital bloqueada
+       *[other] Pegadas dixitais bloqueadas
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Pegadas dixitais
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Obteña este marcador no seu teléfono
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Non perda nunca máis un contrasinal
+cfr-doorhanger-sync-logins-body = Almacene e sincronice os seus contrasinais con seguridade en todos os seus dispositivos.
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Lea isto de camiño
+cfr-doorhanger-send-tab-recipe-header = Leve esta receita á cociña
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Comparta este PDF con seguridade
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = Pechar
+    .accesskey = C
 
 ## Enhanced Tracking Protection Milestones
 
