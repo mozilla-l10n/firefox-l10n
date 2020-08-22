@@ -150,24 +150,32 @@ cfr-doorhanger-firefox-send-header = Comparta este PDF con seguridade
 
 cfr-doorhanger-socialtracking-close-button = Pechar
     .accesskey = C
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloqueou un criptomineiro nesta páxina
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-close-button = Pechar
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Cree facilmente contrasinais seguros
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Reciba alertas sobre contrasinais vulnerables
+cfr-whatsnew-passwords-icon-alt = Icona de clave de contrasinal vulnerable
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-icon-alt = Icona de imaxe en imaxe
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Proteccións dunha soa ollada
 
 ## Better PDF message
 
