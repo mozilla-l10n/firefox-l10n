@@ -9,7 +9,7 @@
 <!ENTITY retry.label "Tentar de novo">
 <!ENTITY returnToPreviousPage.label "Ir atrás">
 <!ENTITY returnToPreviousPage1.label "Retroceder (recomendado)">
-
+<!ENTITY advanced2.label "Avanzadas…">
 <!ENTITY viewCertificate.label "Ver o certificado">
 
 <!-- Specific error messages -->
@@ -91,8 +91,10 @@
 </ul>
 ">
 
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; detectou unha posible ameaza de seguranza e interrompeu a conexión a <span class='hostname'/>. Se visita este sitio, os atacantes poderían tentar roubar información como os seus contrasinais, correos, ou detalles da tarxeta de crédito.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; detectou unha posible ameaza de seguranza e interrompeu a conexión a <span class='hostname'/> porque este sitio web require unha conexión segura.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; detectou unha incidencia e non continuou coa conexión a  <span class='hostname'/>. Ou ben o sitio web está mal configurado ou o reloxo do seu computador non ten a hora correcta.">
@@ -119,8 +121,8 @@
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Aceptar o risco e continuar">
 
@@ -144,9 +146,11 @@
 
 <!ENTITY blockedByPolicy.title "Páxina bloqueada">
 
+
 <!ENTITY clockSkewError.longDesc "Segundo o seu computador, a data e hora actual son: <span id='wrongSystemTime_systemDate1'/>, o que impide que &brandShortName; se conecte de forma segura. Para visitar <span class='hostname'></span>, actualice o reloxo do seu computador na súa configuración do sistema á data e hora actual, ao fuso horario apropiado, e logo actualice <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Semella que a súa configuración de seguranza de rede podería causar isto. Quere restaurar a configuración predeterminada?">
 <!ENTITY prefReset.label "Restaurar a configuración predeterminada">
+
 
 <!ENTITY networkProtocolError.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro protocolo da rede.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
