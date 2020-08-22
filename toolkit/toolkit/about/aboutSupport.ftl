@@ -90,8 +90,8 @@ modified-key-prefs-title = Σημαντικές τροποποιημένες π�
 modified-prefs-name = Όνομα
 modified-prefs-value = Τιμή
 user-js-title = Προτιμήσεις user.js
-user-js-description = Ο φάκελος του προφίλ σας περιέχει το <a data-l10n-name="user-js-link">αρχείο user.js</a>, που περιέχει προτιμήσεις που δεν δημιουργήθηκαν από τον { -brand-short-name }.
-locked-key-prefs-title = Σημαντικές Κλειδωμένες Προτιμήσεις
+user-js-description = Ο φάκελος του προφίλ σας περιέχει το <a data-l10n-name="user-js-link">αρχείο user.js</a>, το οποίο περιέχει προτιμήσεις που δεν δημιουργήθηκαν από το { -brand-short-name }.
+locked-key-prefs-title = Σημαντικές κλειδωμένες προτιμήσεις
 locked-prefs-name = Όνομα
 locked-prefs-value = Τιμή
 graphics-title = Γραφικά
@@ -101,7 +101,7 @@ graphics-failure-log-title = Αρχείο καταγραφής αποτυχιώ�
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Αρχείο καταγραφής αποφάσεων
-graphics-crash-guards-title = Απενεργοποιημένες λειτουργίες φύλαξης κατάρρευσης
+graphics-crash-guards-title = Ανενεργές λειτουργίες φύλαξης καταρρεύσεων
 graphics-workarounds-title = Λύσεις
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Πρωτόκολλο παραθύρου
@@ -110,23 +110,23 @@ graphics-desktop-environment = Περιβάλλον επιφάνειας εργ�
 place-database-title = Βάση δεδομένων τοποθεσιών
 place-database-integrity = Ακεραιότητα
 place-database-verify-integrity = Επαλήθευση ακεραιότητας
-a11y-title = Προσιτότητα
-a11y-activated = Ενεργοποιήθηκε
-a11y-force-disabled = Να μην επιτρέπεται η προσιτότητα
-a11y-handler-used = Προσβάσιμο όνομα χρήστη σε χρήση
+a11y-title = Προσβασιμότητα
+a11y-activated = Ενεργό
+a11y-force-disabled = Αποτροπή προσβασιμότητας
+a11y-handler-used = Προσβάσιμο handler σε χρήση
 a11y-instantiator = Ενεργοποιητής προσβασιμότητας
 library-version-title = Εκδόσεις βιβλιοθήκης
 copy-text-to-clipboard-label = Αντιγραφή κειμένου στο πρόχειρο
 copy-raw-data-to-clipboard-label = Αντιγραφή ακατέργαστων δεδομένων στο πρόχειρο
 sandbox-title = Sandbox
-sandbox-sys-call-log-title = Απορριφθήσες κλήσεις συστήματος
+sandbox-sys-call-log-title = Απορριφθείσες κλήσεις συστήματος
 sandbox-sys-call-index = #
 sandbox-sys-call-age = δευτερόλεπτα πριν
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Τύπος διεργασίας
 sandbox-sys-call-number = Syscall
-sandbox-sys-call-args = Επιχειρήματα
+sandbox-sys-call-args = Ορίσματα
 safe-mode-title = Δοκιμή ασφαλούς λειτουργίας
 restart-in-safe-mode-label = Επανεκκίνηση με ανενεργά πρόσθετα…
 clear-startup-cache-title = Απαλοιφή προσωρινής μνήμης εκκίνησης
@@ -178,7 +178,7 @@ intl-regional-prefs = Προτιμήσεις περιοχής
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = Απομακρυσμένο debugging (Πρωτόκολλο Chromium)
+remote-debugging-title = Απομακρυσμένος εντοπισμός σφαλμάτων (Πρωτόκολλο Chromium)
 remote-debugging-accepting-connections = Αποδεκτές συνδέσεις
 remote-debugging-url = URL
 
@@ -188,8 +188,8 @@ remote-debugging-url = URL
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Αναφορές κατάρρευσης για την τελευταία { $days } ημέρα
-       *[other] Αναφορές κατάρρευσης για τις τελευταίες { $days } ημέρες
+        [one] Αναφορές κατάρρευσης της τελευταίας { $days } ημέρας
+       *[other] Αναφορές κατάρρευσης των τελευταίων { $days } ημερών
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -219,8 +219,8 @@ pending-reports =
         [one] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένης { $reports } κατάρρευσης σε αναμονή στο δεδομένο χρονικό διάστημα)
        *[other] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένων { $reports } καταρρεύσεων σε αναμονή στο δεδομένο χρονικό διάστημα)
     }
-raw-data-copied = Αντιγράφτηκαν δεδομένα Raw στο πρόχειρο
-text-copied = Αντιγράφτηκε κείμενο στο πρόχειρο
+raw-data-copied = Τα ακατέργαστα δεδομένα αντιγράφτηκαν στο πρόχειρο
+text-copied = Το κείμενο αντιγράφτηκε στο πρόχειρο
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -258,7 +258,7 @@ gpu-drivers = Προγράμματα οδήγησης
 gpu-ram = RAM
 gpu-driver-vendor = Εκδότης προγράμματος οδήγησης
 gpu-driver-version = Έκδοση προγράμματος οδήγησης
-gpu-driver-date = Ημερομηνία οδηγού
+gpu-driver-date = Ημερομηνία προγράμματος οδήγησης
 gpu-active = Ενεργό
 webgl1-wsiinfo = Πληροφορίες WSI οδηγού WebGL 1
 webgl1-renderer = Πρόγραμμα απόδοσης WebGL 1
@@ -324,16 +324,16 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Ενεργοποιήθηκε από το χρήστη
 multi-process-status-1 = Ενεργό από προεπιλογή
 multi-process-status-2 = Ανενεργό
-multi-process-status-4 = Απενεργοποιημένο από τα εργαλεία προσβασιμότητας
-multi-process-status-6 = Απενεργοποιημένο από μη υποστηριζόμενη είσοδο κειµένου
-multi-process-status-7 = Απενεργοποιήθηκε από πρόσθετα
-multi-process-status-8 = Αναγκαστικώς απενεργοποιημένο
+multi-process-status-4 = Ανενεργό λόγω εργαλείων προσβασιμότητας
+multi-process-status-6 = Ανενεργό λόγω μη υποστηριζόμενης εισόδου κειμένου
+multi-process-status-7 = Ανενεργό λόγω προσθέτων
+multi-process-status-8 = Ανενεργό εξαναγκαστικά
 multi-process-status-unknown = Άγνωστη κατάσταση
-async-pan-zoom = Ασύγχρονο Pan/Zoom
+async-pan-zoom = Ασύγχρονο pan/zoom
 apz-none = κανένα
-wheel-enabled = είσοδος τροχού ενεργοποιημένη
-touch-enabled = είσοδος αφής ενεργοποιημένη
-drag-enabled = σύρσιμο γραμμής κύλισης ενεργοποιημένο
+wheel-enabled = είσοδος ρόδας ενεργή
+touch-enabled = είσοδος αφής ενεργή
+drag-enabled = ολίσθηση γραμμής κύλισης ενεργή
 keyboard-enabled = πληκτρολόγιο ενεργό
 autoscroll-enabled = αυτόματη κύλιση ενεργή
 zooming-enabled = ομαλό ζουμ ενεργό
@@ -341,8 +341,8 @@ zooming-enabled = ομαλό ζουμ ενεργό
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = ασύγχρονη είσοδος τροχού απενεργοποιημένη λόγω μη υποστηριζόμενης προτίμησης: { $preferenceKey }
-touch-warning = ασύγχρονη είσοδος αφής απενεργοποιημένη λόγω μη υποστηριζόμενης προτίμησης: { $preferenceKey }
+wheel-warning = ανενεργή ασύγχρονη είσοδος ρόδας λόγω μη υποστηριζόμενης προτίμησης: { $preferenceKey }
+touch-warning = ανενεργή ασύγχρονη είσοδος αφής λόγω μη υποστηριζόμενης προτίμησης: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
