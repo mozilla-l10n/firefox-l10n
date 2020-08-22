@@ -54,9 +54,30 @@ about-logins-list-item-vulnerable-password-icon =
 login-intro-heading = Busca os seus inicios de sesión gardados? Configure { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Busca os seus inicios de sesión gardados? Configure { -sync-brand-short-name } ou impórteos.
 login-intro-instruction-fxa-settings = Asegúrese de que seleccionou a caixa de verificación de Iniciar sesión en Configuración de { -sync-brand-short-name }
+about-logins-intro-import = Se os seus inicios de sesión están gardados noutro navegador, pode <a data-l10n-name="import-link"> importalos a { -lockwise-brand-short-name } </a>
+about-logins-intro-import2 = Se os seus inicios de sesión están gardados fóra de { -brand-product-name }, pode <a data-l10n-name="import-browser-link"> importalos desde outro navegador </a> ou <a data-l10n- name = "import-file-link"> dun ficheiro </a>
 
 ## Login
 
+login-item-new-login-title = Crear novo inicio de sesión
+login-item-edit-button = Editar
+about-logins-login-item-remove-button = Eliminar
+login-item-origin-label = Enderezo do sitio web
+login-item-username-label = Nome de usuario
+about-logins-login-item-username =
+    .placeholder = (sen nome de usuario)
+login-item-copy-username-button-text = Copiar
+login-item-copied-username-button-text = Copiouse!
+login-item-password-label = Contrasinal
+login-item-password-reveal-checkbox =
+    .aria-label = Amosar contrasinal
+login-item-copy-password-button-text = Copiar
+login-item-copied-password-button-text = Copiouse!
+login-item-save-changes-button = Gardar cambios
+login-item-save-new-button = Gardar
+login-item-cancel-button = Cancelar
+login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Creado: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
