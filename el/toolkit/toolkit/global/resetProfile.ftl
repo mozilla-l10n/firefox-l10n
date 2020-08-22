@@ -10,5 +10,5 @@ refresh-profile-description = Ξεκινήστε από την αρχή για �
 refresh-profile-description-details = Αυτό θα:
 refresh-profile-remove = Αφαιρέσει τα πρόσθετα και τις προσαρμογές που έχετε κάνει
 refresh-profile-restore = Επαναφέρει τις ρυθμίσεις του περιηγητή σας στις προκαθορισμένες
-refresh-profile = Δώστε στο { -brand-short-name } ένα φρεσκάρισμα
+refresh-profile = Διόρθωση του { -brand-short-name }
 refresh-profile-button = Ανανέωση του { -brand-short-name }…
