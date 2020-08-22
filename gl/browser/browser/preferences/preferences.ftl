@@ -685,13 +685,24 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suxerir e xerar contrasinais fortes
     .accesskey = u
+forms-breach-alerts =
+    .label = Mostrar alertas sobre contrasinais de sitios web vulnerados
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Máis información
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Encher automaticamente as contas e os contrasinais
+    .accesskey = i
 forms-saved-logins =
     .label = Identificacións gardadas…
     .accesskey = G
 forms-master-pw-use =
     .label = Usar un contrasinal principal
     .accesskey = U
+forms-primary-pw-use =
+    .label = Utilizar un contrasinal principal
+    .accesskey = U
+forms-primary-pw-learn-more-link = Máis información
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -699,10 +710,25 @@ forms-master-pw-change =
     .label = Modificar o contrasinal principal…
     .accesskey = M
 forms-master-pw-fips-title = Está en modo FIPS, que require un contrasinal principal que non estea baleiro.
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Antigamente coñecida como Master Password
+forms-primary-pw-fips-title = Actualmente está en modo FIPS. FIPS require un contrasinal principal non baleiro.
 forms-master-pw-fips-desc = Erro ao modificar o contrasinal
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Para crear un contrasinal principal, introduza as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para crear un contrasinal principal, insira as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear un contrasinal principal
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -757,6 +783,7 @@ sitedata-learn-more = Máis información
 sitedata-delete-on-close =
     .label = Eliminar as cookies e datos do sitio cando peche { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = No modo de navegación privada permanente, as cookies e os datos do sitio sempre serán borrados cando se peche { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Aceptar cookies e datos do sitio
     .accesskey = A
@@ -767,6 +794,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipo de contido bloqueado
     .accesskey = T
+sitedata-option-block-unvisited =
+    .label = Cookies de sitios non visitados
+sitedata-option-block-all-third-party =
+    .label = Todas as cookies de terceiros (pode causar erros nos sitios web)
+sitedata-option-block-all =
+    .label = Todas as cookies (pode causar erros nos sitios web)
 sitedata-clear =
     .label = Borrar datos...
     .accesskey = B
@@ -776,6 +809,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Xestionar permisos…
     .accesskey = p
+sitedata-cookies-exceptions =
+    .label = Xestionar as excepcións…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -790,10 +826,14 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Lapelas abertas
     .accesskey = b
+addressbar-locbar-topsites-option =
+    .label = Sitios favoritos
+    .accesskey = T
 addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Protección avanzada de rastreo
 content-blocking-learn-more = Máis información
 
 ## These strings are used to define the different levels of
