@@ -57,6 +57,11 @@ onboarding-multistage-import-secondary-button-label = No pas agora
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Iniciando: pantalla { $current } de { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Tría un <span data-l10n-name="zap">aspecto</span>
+onboarding-multistage-theme-subtitle = Personaliza { -brand-short-name } con un tema.
+onboarding-multistage-theme-primary-button-label = Alzar tema
 onboarding-multistage-theme-secondary-button-label = No pas agora
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatico
@@ -72,6 +77,24 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Hereda l'apariencia d'o tuyo sistema operativo
+        pa botons, menus y finestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title = Usar una apariencia clara para botons, menus y finestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title = Usar una apariencia fosca pa botons, menús y finestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title = Usar una apariencia colorida pa botons, menús y finestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
