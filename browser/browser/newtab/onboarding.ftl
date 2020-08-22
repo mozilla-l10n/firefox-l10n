@@ -46,6 +46,26 @@ onboarding-cards-dismiss =
 onboarding-multistage-welcome-header = Benvido a <span data-l10n-name = "zap"> { -brand-short-name } </span>
 onboarding-multistage-welcome-primary-button-label = Comece a configuración
 onboarding-multistage-welcome-secondary-button-label = Identificarse
+onboarding-multistage-welcome-secondary-button-text = Ten unha conta?
+onboarding-multistage-import-primary-button-label = Comece a importar
+onboarding-multistage-import-secondary-button-label = Agora non
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Primeiros pasos: pantalla { $current } de { $total }
+onboarding-multistage-theme-subtitle = Personalice { -brand-short-name } cun tema.
+onboarding-multistage-theme-primary-button-label = Garde o tema
+onboarding-multistage-theme-secondary-button-label = Agora non
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automático
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Usar o tema do sistema
+onboarding-multistage-theme-label-light = Claro
+onboarding-multistage-theme-label-dark = Escuro
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -55,6 +75,9 @@ onboarding-multistage-welcome-secondary-button-label = Identificarse
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Comecemos a explorar todo o que pode facer.
+onboarding-fullpage-form-email =
+    .placeholder = O seu enderezo de correo...
 
 ## Firefox Sync modal dialog strings.
 
@@ -74,6 +97,11 @@ onboarding-sync-form-sub-header = para continuar a { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-text = Faga cousas cunha familia de ferramentas que respecte a súa privacidade nos seus dispositivos.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Xestionar contrasinais protexidos e portátiles.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -82,6 +110,11 @@ onboarding-sync-form-sub-header = para continuar a { -sync-brand-name }.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-tracking-protection-title2 = Protección contra o rastreo
+onboarding-tracking-protection-button2 = Como funciona
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronice os seus marcadores, contrasinais e moito máis onde queira que use { -brand-product-name }.
+onboarding-data-sync-button2 = Conectarse a { -sync-brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 
