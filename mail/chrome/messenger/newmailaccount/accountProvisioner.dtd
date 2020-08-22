@@ -12,7 +12,7 @@
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-<!ENTITY error.suggest.before "Ακόμα, μπορείτε να δοκιμάσετε κάποια από τις">
+<!ENTITY error.suggest.before "Ακόμα, μπορείτε να δοκιμάσετε κάποια από τις ">
 <!ENTITY error.suggest.middle "δωρεάν εναλλακτικές λογαριασμών email">
 <!ENTITY error.suggest.after ".">
 
