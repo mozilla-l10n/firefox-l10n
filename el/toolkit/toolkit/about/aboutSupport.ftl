@@ -50,7 +50,7 @@ app-basics-update-dir =
        *[other] Φάκελος ενημερώσεων
     }
 app-basics-update-history = Ιστορικό ενημερώσεων
-app-basics-show-update-history = Προβολή ιστορικού ενημερώσεων
+app-basics-show-update-history = Εμφάνιση ιστορικού ενημερώσεων
 # Represents the path to the binary used to start the application.
 app-basics-binary = Αρχείο εφαρμογής
 app-basics-profile-dir =
