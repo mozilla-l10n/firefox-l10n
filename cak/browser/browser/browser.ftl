@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Palaqinem Wichin)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Palaqinem Wichin)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Palaqinem Wichin)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Palaqinem Wichin)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.
 urlbar-install-blocked =
     .tooltiptext = Xaq'ät kiyakik taq rutz'aqat ajk'amaya'l ruxaq re'.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tinuk' re jun yaketal ({ $shortcut }) re'
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Wakami tikanöx rik'in:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Kek'ëx ri taq rajowaxïk ri kanoxïk
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tijal kinuk'ulem kanob'äl
-
 search-one-offs-context-open-new-tab =
     .label = Tikanöx pa k'ak'a' ruwi'
     .accesskey = r
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Tiya' kan achi'el Okik'amaya'l ri K'o pa Ichinan taq Tzuwäch
     .accesskey = I
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Tik'ut k'exob'äl toq niyak
     .accesskey = k
-
 bookmark-panel-done-button =
     .label = Xk'is
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = Q'asäy ch'ab'äl richin rutaluxik:
     .accesskey = Q
 popup-all-windows-shared = Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.
-
 popup-screen-sharing-not-now =
     .label = Wakami Mani
     .accesskey = W
-
 popup-screen-sharing-never =
     .label = Majub'ey Tiya' Q'ij
     .accesskey = M
-
 popup-silence-notifications-checkbox = Kechup taq rutzijol { -brand-short-name } toq nikomonïx
 popup-silence-notifications-checkbox-warning = Man xkeruk'üt ta pe taq tzijol ri { -brand-short-name } toq nikomonin.
 
@@ -326,26 +314,55 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj Web B'anonel.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Tikanöx o titz'ib'äx ochochib'äl
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Tikanöx o titz'ib'äx ochochib'äl
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Tikanöx pa Web
+    .aria-label = Tikanöx rik'in { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Ketz'ib'äx tzij yekanöx
+    .aria-label = Tikanöx { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Ketz'ib'äx tzij yekanöx
+    .aria-label = Kekanöx taq yaketal
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Ketz'ib'äx tzij yekanöx
+    .aria-label = Tikanöx natab'äl
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Ketz'ib'äx tzij yekanöx
+    .aria-label = Kekanöx ruwi'
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Tikanöx rik'in { $name }  o titz'ib'äx ochochib'äl
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk
 urlbar-permissions-granted =
     .tooltiptext = Xaya' ruwi' ya'oj q'ij chi re re ajk'amaya'l ruxaq re'.
 urlbar-switch-to-tab =
     .value = Rujalik ri ruwi':
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = K'amal:
-
 urlbar-go-button =
     .tooltiptext = Tib'e pa JAY richin ri rucholob'al taq ochochib'äl
 urlbar-page-action-button =
