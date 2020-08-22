@@ -4,6 +4,7 @@
 
 synced-tabs-sidebar-title = Lapelas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = Quere ver aquí as lapelas dos outros dispositivos?
+synced-tabs-sidebar-intro = Ver unha lista das lapelas dos outros dispositivos.
 synced-tabs-sidebar-unverified = Necesita comprobar a súa conta.
 synced-tabs-sidebar-notabs = Ningunha lapela aberta
 synced-tabs-sidebar-openprefs = Abrir as preferencias de { -sync-brand-short-name }
@@ -39,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = Sincronizar agora
     .accesskey = S
 fxa-sign-in = Conectarse a { -sync-brand-short-name }
+turn-on-sync = Activar { -sync-brand-short-name }

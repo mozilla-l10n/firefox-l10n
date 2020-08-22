@@ -53,9 +53,21 @@ move-to-end =
 move-to-new-window =
     .label = Mover a unha nova xanela
     .accesskey = x
+tab-context-close-multiple-tabs =
+    .label = Pechar varias lapelas
+    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desfacer pechar lapela
+            [one] Desfacer pechar lapela
+           *[other] Desfacer pechar lapelas
+        }
+    .accesskey = U
 close-tab =
     .label = Pechar lapela
     .accesskey = c
@@ -67,4 +79,20 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Mover lapela
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Pechar a lapela
+            [one] Pechar a lapelas
+           *[other] Pechar as lapelas
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mover lapela
+            [one] Mover lapela
+           *[other] Mover lapelas
+        }
     .accesskey = v
