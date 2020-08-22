@@ -12,7 +12,6 @@ page-subtitle =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     } naleznete na <a data-l10n-name="support-link">webových stránkách podpory</a>.
-
 crashes-title = Hlášení pádů
 crashes-id = ID hlášení
 crashes-send-date = Odeslaná
@@ -83,6 +82,9 @@ show-dir-label =
         [macos] Zobrazit ve Finderu
        *[other] Otevřít
     }
+environment-variables-title = Proměnné prostředí
+environment-variables-name = Název
+environment-variables-value = Hodnota
 experimental-features-title = Experimentální funkce
 experimental-features-name = Název
 experimental-features-value = Hodnota
@@ -135,7 +137,6 @@ sandbox-sys-call-number = Systémové volání
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyzkoušet nouzový režim
 restart-in-safe-mode-label = Restartovat se zakázanými doplňky…
-
 clear-startup-cache-title = Zkuste vymazat mezipaměť spouštění
 clear-startup-cache-label = Vymazat mezipaměť spouštění…
 startup-cache-dialog-title = Vymazání mezipaměti spouštění
@@ -199,7 +200,6 @@ report-crash-for-days =
         [few] Hlášení o pádech za poslední { $days } dny
        *[other] Hlášení o pádech za posledních { $days } dní
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -208,7 +208,6 @@ crashes-time-minutes =
         [few] Před { $minutes } minutami
        *[other] Před { $minutes } minutami
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -217,7 +216,6 @@ crashes-time-hours =
         [few] Před { $hours } hodinami
        *[other] Před { $hours } hodinami
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -226,7 +224,6 @@ crashes-time-days =
         [few] Před { $days } dny
        *[other] Před { $days } dny
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -235,7 +232,6 @@ pending-reports =
         [few] Všechna hlášení o pádech (zahrnující { $reports } čekající za dané časové období)
        *[other] Všechna hlášení o pádech (zahrnující { $reports } čekajících za dané časové období)
     }
-
 raw-data-copied = Data byla zkopírována
 text-copied = Text zkopírován do schránky
 
@@ -248,11 +244,9 @@ blocked-mismatched-version = Zakázáno kvůli nesouhlasící verzi ovladačů v
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Zakázáno kvůli verzi ovladače grafické karty. Zkuste aktualizovat ovladač grafické karty na verzi { $driverVersion } nebo novější.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Technologie ClearType
-
 compositing = Compositing
 hardware-h264 = Hardwarové dekódování H264
 main-thread-no-omtc = hlavní vlákno, ne OMTC
@@ -267,7 +261,6 @@ virtual-monitor-disp = Zobrazení virtuálního monitoru
 
 found = Nalezeno
 missing = Chybí
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Popis
@@ -291,25 +284,20 @@ webgl2-version = Verze ovladače WebGL 2
 webgl2-driver-extensions = Rozšíření ovladače WebGL 2
 webgl2-extensions = Rozšíření WebGL 2
 blocklisted-bug = Zablokováno kvůli známé chybě
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zablokováno kvůli známým problémům: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokováno; chybový kód { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video dekodér
 d3d9video-crash-guard = D3D9 Video dekodér
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video dekodér
-
 reset-on-next-restart = Obnovit po při příštím restartu
 gpu-process-kill-button = Ukončit GPU proces
 gpu-device-reset = Obnova zařízení
@@ -319,10 +307,8 @@ content-uses-tiling = Používá skládání (obsah)
 off-main-thread-paint-enabled = Vykreslování mimo hlavní vlákno povoleno
 off-main-thread-paint-worker-count = Počet vláken pro vykreslování mimo hlavní vlákno
 target-frame-rate = Cílová frekvenci snímkování
-
 min-lib-versions = Očekávaná minimální verze
 loaded-lib-versions = Používaná verze
-
 has-seccomp-bpf = Seccomp-BPF (filtrování systémových volání)
 has-seccomp-tsync = Synchronizace vláken Seccomp
 has-user-namespaces = Uživatelské jmenné prostory
@@ -335,18 +321,15 @@ sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah souboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 sandbox-proc-type-data-decoder = dekodér dat
-
 startup-cache-title = Mezipaměť spouštění
 startup-cache-disk-cache-path = Cesta k mezipaměti na disku
 startup-cache-ignore-disk-cache = Ignorovat mezipaměť na disku
 startup-cache-found-disk-cache-on-init = Mezipaměť na disku během inicializace nalezena
 startup-cache-wrote-to-disk-cache = Zapsáno do mezipaměti na disku
-
 launcher-process-status-0 = Povoleno
 launcher-process-status-1 = Zakázáno kvůli chybě
 launcher-process-status-2 = Násilně zakázáno
 launcher-process-status-unknown = Neznámý stav
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -359,7 +342,6 @@ multi-process-status-6 = Zakázáno pro nepodporovaný textový vstup
 multi-process-status-7 = Zakázáno doplňky
 multi-process-status-8 = Násilně zakázáno
 multi-process-status-unknown = Neznámý stav
-
 async-pan-zoom = Asynchronní lupa/panning
 apz-none = nic
 wheel-enabled = vstup kolečka povolen

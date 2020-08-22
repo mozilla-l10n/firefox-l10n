@@ -24,3 +24,4 @@ about-httpsonly-explanation-nosupport = Nejspíš tento web jednoduše HTTPS nep
 about-httpsonly-explanation-risk = Je také možné, že v tom má prsty útočník. Pokud se rozhodnete tuto stránku navštívit, doporučujeme na ní nezadávat žádné citlivé informace jako jsou hesla, e-mailové adresy nebo platební údaje.
 about-httpsonly-button-accept-and-continue = Beru na vědomí a chci pokračovat
 about-httpsonly-button-go-back = Zpátky
+about-httpsonly-link-learn-more = Zjistit více…
