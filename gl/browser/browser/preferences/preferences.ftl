@@ -495,6 +495,7 @@ search-bar-shown =
     .label = Engadir unha barra de busca á barra de ferramentas
 search-engine-default-header = Buscador predeterminado
 search-engine-default-desc-2 = Este é o motor de busca predeterminado da barra de enderezos e da barra de busca. Pode cambialo en calquera momento.
+search-suggestions-desc = Escolla como aparecen as suxestións dos motores de busca.
 search-suggestions-option =
     .label = Fornecer suxestións de busca
     .accesskey = s
@@ -508,6 +509,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Amosar suxestións de busca antes do historial de navegación nos resultados da barra de enderezos
+suggestions-addressbar-settings-generic = Cambiar preferencias para outras suxestións na barra de enderezos
 search-suggestions-cant-show = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
 search-one-click-header = Buscadores nun clic
 search-one-click-desc = Escolla os buscadores alternativos que aparecerán debaixo da barra de enderezos e de busca ao comezar a escribir unha palabra clave.
@@ -532,6 +534,12 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Volver a Opcións
+           *[other] Volver a Preferencias
+        }
 containers-header = Lapelas contedor
 containers-add-button =
     .label = Engadir un novo contedor
@@ -546,6 +554,9 @@ containers-remove-button =
 
 sync-signedout-caption = Leve a Web con vostede
 sync-signedout-description = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
+sync-signedout-account-signin2 =
+    .label = Identifíquese no { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -576,12 +587,40 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-offer-setup-label = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar agora
+    .accesskeynotsyncing = N
+    .labelsyncing = Sincronizando...
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Está sincronizando estes elementos:
+sync-currently-syncing-bookmarks = Marcadores
+sync-currently-syncing-history = Historial
+sync-currently-syncing-tabs = Lapelas abertas
+sync-currently-syncing-logins-passwords = Identificacións e contrasinais
+sync-currently-syncing-addresses = Enderezos
+sync-currently-syncing-creditcards = Tarxetas de crédito
+sync-currently-syncing-addons = Complementos
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opcións
+       *[other] Preferencias
+    }
+sync-change-options =
+    .label = Cambiar…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Escolla que sincronizar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Gardar cambios
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Desconectar...
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
@@ -625,6 +664,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Gardar
     .accesskey = G
+sync-connect-another-device = Conectar outro dispositivo
 
 ## Privacy Section
 
@@ -642,6 +682,10 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepcións…
     .accesskey = p
+forms-generate-passwords =
+    .label = Suxerir e xerar contrasinais fortes
+    .accesskey = u
+forms-breach-alerts-learn-more-link = Máis información
 forms-saved-logins =
     .label = Identificacións gardadas…
     .accesskey = G
