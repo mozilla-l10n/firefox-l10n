@@ -177,6 +177,17 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ( { $bytes } bytes)
         }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } Imachen ( animada, { $frames } fotograma)
+           *[other] { $type } imachen ( animada, { $frames } fotogramas)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
