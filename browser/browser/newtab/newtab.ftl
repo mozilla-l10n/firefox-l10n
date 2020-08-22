@@ -91,6 +91,12 @@ newtab-menu-show-privacy-info = Os nosos patrocinadores e a súa privacidade
 newtab-privacy-modal-button-done = Feito
 newtab-privacy-modal-button-manage = Xestionar a configuración de contido patrocinado
 newtab-privacy-modal-header = A súa privacidade importa.
+newtab-privacy-modal-paragraph-2 =
+    Ademais de servir historias engaiolantes, tamén lle mostramos
+    contido relevante, e inspeccionado antes, de patrocinadores selectos. Teña a certeza de que <strong> a súa navegación
+    os datos nunca deixan a súa copia persoal de { -brand-product-name } </strong>: non a vemos nós e os nosos
+    patrocinadores tampouco a ven.
+newtab-privacy-modal-link = Saiba como funciona a privacidade na nova lapela
 
 ##
 
@@ -123,9 +129,18 @@ newtab-menu-open-file = Abrir o ficheiro
 
 newtab-label-visited = Visitados
 newtab-label-bookmarked = Nos marcadores
+newtab-label-removed-bookmark = Retirouse o marcador
 newtab-label-recommended = Tendencias
 newtab-label-saved = Gardado no { -pocket-brand-name }
 newtab-label-download = Descargado
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource }· Patrocinado
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Patrocinado por { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -143,6 +158,10 @@ newtab-section-menu-privacy-notice = Política de privacidade
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Contraer sección
+newtab-section-expand-section-label =
+    .aria-label = Expandir sección
 
 ## Section Headers.
 
@@ -162,12 +181,19 @@ newtab-empty-section-topstories = Xa está ao día. Regrese máis tarde para ver
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Está atrapado!
+newtab-discovery-empty-section-topstories-content = Volva máis tarde para ver máis historias.
+newtab-discovery-empty-section-topstories-try-again-button = Intentar de novo
+newtab-discovery-empty-section-topstories-loading = Cargando…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Carafio! Case cargamos esta sección, pero non de todo.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-more-recommendations = Máis recomendacións
+newtab-pocket-learn-more = Máis información
 newtab-pocket-cta-button = Obter { -pocket-brand-name }
 newtab-pocket-cta-text = Garde no { -pocket-brand-name } as historias que lle gusten, e alimente a súa imaxinación con lecturas fascinantes.
 
