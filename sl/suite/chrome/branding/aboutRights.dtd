@@ -20,14 +20,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". To pomeni, da lahko &brandShortName; uporabljate, kopirate in ga delite drugim. Spreminjate lahko tudi izvorno kodo programa &brandShortName;, tako da bo ustrezala vašim potrebam. Mozilla Public License vam daje tudi pravico do razširanja vaših spremenjenih različic.">
 
-<!ENTITY rights.intro-point2a "SeaMonkey e.V vam ne daje nikakršnih pravic do uporabe blagovnih znamk in logotipov SeaMonkey. Dodatne podatke o blagovnih znamkah lahko najdete">
-
 <!ENTITY rights.intro-point2aa "&vendorShortName; vam ne daje nikakršnih pravic do uporabe blagovnih znamk in logotipov &quot;&brandFullName;&quot;. Dodatne podatke o blagovnih znamkah lahko najdete">
 <!ENTITY rights.intro-point2b "tukaj">
 <!ENTITY rights.intro-point2c ".">
-
-<!-- point 2d is technically point 3. in the list -->
-<!ENTITY rights.intro-point2d "Nekatera orodja brskalnika &brandShortName;, na primer poročevalec o sesutjih, organizaciji &vendorShortName; omogočajo zbiranje povratnih informacij. S soglasjem dajete organizaciji &vendorShortName; dovoljenje, da povratne informacije uporabi za izboljšanje svojih programov, jih objavi na svojih spletnih straneh in jih razpečuje.">
 
 <!-- point 2da is technically point 3. in the list -->
 <!ENTITY rights.intro-point2da "Nekatera orodja brskalnika &brandShortName;, npr. poročevalec o sesutjih, organizaciji &vendorShortName; omogočajo zbiranje povratnih informacij. S soglasjem dajete organizaciji &vendorShortName; dovoljenje, da povratne informacije uporabi za izboljšanje svojih programov, jih objavi na svojih spletnih straneh in jih razpečuje.">
@@ -48,8 +43,6 @@
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
-<!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; ponuja neobvezne spletne storitve (&quot;Storitve&quot;), ki so na voljo za uporabo s to binarno različico &brandShortName;, kot je spodaj opisano. Nekatere od teh storitev (na primer storitve dodatkov za predloge in posodobitve, storitev varnega brskanja ali funkcija obveščanja o brskanju z lokacijo) so privzeto omogočene. Če ne želite uporabljati nobene od teh storitev, ali pa so spodnji pogoji nesprejemljivi, lahko najdete navodila, kako onemogočiti določeno funkcijo ali storitev,">
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-aa "&vendorShortName; ponuja neobvezne spletne storitve (&quot;Storitve&quot;), ki so na voljo za uporabo s to binarno različico &brandShortName;, kot je spodaj opisano. Nekatere od teh storitev (na primer storitve dodatkov za predloge in posodobitve, storitev varnega brskanja ali funkcija obveščanja o brskanju z lokacijo) so privzeto omogočene. Če ne želite uporabljati nobene od teh storitev, ali pa so spodnji pogoji nesprejemljivi, lahko najdete navodila, kako onemogočiti določeno funkcijo ali storitev,">
 <!ENTITY rights3.webservices-b "tukaj">
@@ -78,6 +71,4 @@
 <!ENTITY rights.locationawarebrowsing-term2 "Izberite glavno ploščo &security.label;">
 
 <!-- points 0-6 text for branded builds -->
-
-<!-- points 0-6 text for branded builds -->
-
+<!ENTITY rights.webservices-term1 "&vendorShortName; lahko prekine ali spremeni svoje storitve kadarkoli mu ustreza.">
