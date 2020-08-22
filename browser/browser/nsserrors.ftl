@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Při spojení s { $hostname } nastala chyba. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kód chyby: { $error }
-
 psmerr-ssl-disabled = Nelze se připojit zabezpečeně, protože protokol SSL je zakázán.
 psmerr-ssl2-disabled = Nelze se připojit zabezpečeně, protože server používá starší a už nespolehlivou verzi protokolu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Obdrželi jste neplatný certifikát. Kontaktujte prosím správce serveru nebo odesílatele e-mailové zprávy a poskytněte mu tyto informace:
     
     Váš certifikát obsahuje stejné sériové číslo jako jiný certifikát vydaný danou certifikační autoritou. Opatřete si prosím nový certifikát obsahující unikátní sériové číslo.
-
 ssl-error-export-only-server = Bezpečná komunikace není možná. Partner nepodporuje vysoký stupeň šifrování.
 ssl-error-us-only-server = Bezpečná komunikace není možná. Partner vyžaduje vysoký stupeň šifrování, který není podporován.
 ssl-error-no-cypher-overlap = Bezpečná komunikace s partnerem není možná: Nenalezen žádný společný šifrovací algoritmus.
@@ -45,8 +42,8 @@ ssl-error-revoked-cert-alert = Partner odmítl váš certifikát jako zneplatně
 ssl-error-expired-cert-alert = Partner odmítl váš certifikát z důvodů ukončení jeho doby platnosti.
 ssl-error-ssl-disabled = Není možné se připojit: Protokol SSL je zakázán.
 ssl-error-fortezza-pqg = Není možné se připojit: Partner protokolu SSL je další doména typu FORTEZZA.
-ssl-error-unknown-cipher-suite = Byla požadována neznámá sada šifer protokolu SSL.
-ssl-error-no-ciphers-supported = V této aplikaci nejsou přítomny a povoleny žádné sady šifer.
+ssl-error-unknown-cipher-suite = Byla požadována neznámá šifrovací sada protokolu SSL.
+ssl-error-no-ciphers-supported = V této aplikaci nejsou přítomny a povoleny žádné šifrovací sady.
 ssl-error-bad-block-padding = Při komunikaci protokolem SSL byl obdržen záznam s chybně odsazeným blokem.
 ssl-error-rx-record-too-long = Při komunikaci protokolem SSL byl obdržen záznam přesahující maximální povolenou délku.
 ssl-error-tx-record-too-long = Při komunikaci protokolem SSL je snaha odeslat záznam přesahující maximální povolenou délku.
@@ -93,8 +90,8 @@ ssl-error-sign-hashes-failure = Nepodařilo se elektronicky podepsat data potře
 ssl-error-extract-public-key-failure = Protokolu SSL se nepodařilo z certifikátu partnera extrahovat veřejný klíč.
 ssl-error-server-key-exchange-failure = Neznámá chyba během zpracování inicializace SSL Server Key Exchange.
 ssl-error-client-key-exchange-failure = Neznámá chyba během zpracování inicializace SSL Client Key Exchange.
-ssl-error-encryption-failure = Chyba algoritmu pro šifrování hromadných dat ve vybraném balíku šifer.
-ssl-error-decryption-failure = Chyba algoritmu pro dešifrování hromadných dat ve vybraném balíku šifer.
+ssl-error-encryption-failure = Chyba algoritmu pro šifrování hromadných dat ve vybrané šifrovací sadě.
+ssl-error-decryption-failure = Chyba algoritmu pro dešifrování hromadných dat ve vybrané šifrovací sadě.
 ssl-error-socket-write-failure = Chyba při zápisu šifrovaných dat do nízkoúrovňového socketu.
 ssl-error-md5-digest-failure = Chyba funkce pro hashování MD5.
 ssl-error-sha-digest-failure = Chyba funkce pro hashování SHA-1.
@@ -103,7 +100,7 @@ ssl-error-sym-key-context-failure = Chyba při vytvoření kontextu symetrickéh
 ssl-error-sym-key-unwrap-failure = Chyba při rozbalení symetrického klíče ve zprávě typu Client Key Exchange.
 ssl-error-pub-key-size-limit-exceeded = Server SSL se pokusil použít domácí veřejný klíč s exportním balíkem šifer.
 ssl-error-iv-param-failure = Kódu PKCS11 se nepodařilo přeložit IV na parametr.
-ssl-error-init-cipher-suite-failure = Chyba inicializace ve vybraném balíku šifer.
+ssl-error-init-cipher-suite-failure = Chyba inicializace ve vybrané šifrovací sadě.
 ssl-error-session-key-gen-failure = Klientovi se nepodařilo vygenerovat klíče relace SSL.
 ssl-error-no-server-key-for-alg = Server nemá žádný klíč pro algoritmus výměny klíčů.
 ssl-error-token-insertion-removal = V průběhu operace byl vložen nebo vyjmut token PKCS#11.
@@ -122,7 +119,7 @@ ssl-error-decode-error-alert = Partner nemohl dekódovat inicializační zprávu
 ssl-error-decrypt-error-alert = Partner hlásí chybu ověření podpisu nebo výměny klíče.
 ssl-error-export-restriction-alert = Partner hlásí nesoulad vyjednávání s exportními předpisy.
 ssl-error-protocol-version-alert = Partner hlásí nekompatibilní nebo nepodporovanou verzi protokolu.
-ssl-error-insufficient-security-alert = Server požaduje bezpečnější šifru, než které jsou podporovány klientem.
+ssl-error-insufficient-security-alert = Server vyžaduje bezpečnější šifrování, než které je klientem podporované.
 ssl-error-internal-error-alert = Partner hlásí, že došlo k interní chybě.
 ssl-error-user-canceled-alert = Partner zrušil inicializaci.
 ssl-error-no-renegotiation-alert = Partner nepovolil rozpoznání bezpečnostních parametrů protokolu SSL.
@@ -144,7 +141,7 @@ ssl-error-feature-not-supported-for-ssl2 = SSL vlastnost není podporována pro 
 ssl-error-feature-not-supported-for-servers = Vlastnost protokolu SSL není podporována na serverech.
 ssl-error-feature-not-supported-for-clients = Vlastnost protokolu SSL není podporována na klientech.
 ssl-error-invalid-version-range = Rozsah verzí SSL není platný.
-ssl-error-cipher-disallowed-for-version = Partner protokolu SSL zvolil šifrovací balík, který není pro danou verzi protokolu povolený.
+ssl-error-cipher-disallowed-for-version = Partner protokolu SSL zvolil šifrovací sadu, která není pro danou verzi protokolu povolená.
 ssl-error-rx-malformed-hello-verify-request = Protokol SSL přijal poškozenou inicializační zprávu Hello Verify Request.
 ssl-error-rx-unexpected-hello-verify-request = Protokol SSL přijal neočekávanou zprávu při Hello Verify Request.
 ssl-error-feature-not-supported-for-version = Vlastnost SSL není podporována pro danou verzi protokolu.

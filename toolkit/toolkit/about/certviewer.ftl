@@ -13,7 +13,7 @@ certificate-viewer-error-title = Nastala chyba.
 
 certificate-viewer-algorithm = Algoritmus
 certificate-viewer-certificate-authority = Certifikační autorita
-certificate-viewer-cipher-suite = Šifrovací množina
+certificate-viewer-cipher-suite = Šifrovací sada
 certificate-viewer-common-name = Obecné jméno
 certificate-viewer-email-address = E-mailová adresa
 # Variables:
@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = Informace a autoritě (AIA)
 certificate-viewer-certificate-policies = Pravidla certifikátu
 certificate-viewer-embedded-scts = Vložené SCTs
 certificate-viewer-crl-endpoints = CRL endpointy
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Stáhnout
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (certifikát)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (řetězec)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Toto rozšíření bylo označeno jako kritické, což znamená, že klienti musí certifikát odmítnou, pokud mu neporozumí.
