@@ -44,6 +44,8 @@ printui-destination-pdf-label = Salva come PDF
 printui-more-settings = Altre impostazioni
 printui-less-settings = Meno impostazioni
 
+printui-paper-size-label = Dimensioni carta
+
 # Section title (noun) for the print scaling options
 printui-scale = Ridimensionamento
 printui-scale-fit-to-page = Adatta alla pagina
