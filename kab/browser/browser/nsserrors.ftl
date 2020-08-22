@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Teḍra-d tuccḍa di tuqqna ɣer { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Tangalt n tuccḍa: { $error }
-
 psmerr-ssl-disabled = Tuqqna taɣelsant d tawezɣit acku aneggaf SSL itturermed.
 psmerr-ssl2-disabled = Tuqqna taɣelsant d tawezɣit acku asmel-agi seqdac aneggaf SSL aqbuṛ u d araɣelsan.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tremseḍ-d aselkin aruɣbil. Ma ulac aɣilif, nermes anedbal n uqeddac neɣ amneɣru n yimayl rnu mudd-asen talɣut-agi:
     
     Aselkin-inek igber uṭṭun n uzrir am uselkin nniḍen i d-yefka udabu n uselkin. Ma ulac aɣilif, awi-d aselkin amaynut s wuṭṭun n uzrir asuf.
-
 ssl-error-export-only-server = Ur izmir ara ad iselɣu s wudem aɣelsan. Ayugan ur isefrak ara awgelhen n uswir aɛlayan.
 ssl-error-us-only-server = Ur izmir ara ad iselɣu s wudem aɣelsan. Ayugan isra awgelhen n uswir aɛlayan ur nettusefrak ara.
 ssl-error-no-cypher-overlap = Ur izmir ara ad iselɣu s wudem aɣlsan d uyugan: Ulac alguritm n uwgelhen unmim.
@@ -94,7 +90,7 @@ ssl-error-sign-hashes-failure = Azmul umḍin n isefka isran i wusenqed n uselki
 ssl-error-extract-public-key-failure = SSL ur izmir ara ad yekkes tasarutt tazayezt seg uyugan n uselkin.
 ssl-error-server-key-exchange-failure = Teḍra-d tuccḍa ur nettwassen ara deg usesfer n tuqqna SSL Server Key Exchange.
 ssl-error-client-key-exchange-failure = Teḍra-d tuccḍa deg usesfer n tuqqna SSL Server Key Exchange.
-ssl-error-encryption-failure = Alguritm n uwgelhen n isefka s ubleɣ ur iddi ara i umazrar n uwgelhen ifernen.
+ssl-error-encryption-failure = Alguritm n uwgelhen n yisefka s ubleɣ ur iddi ara i umazrar n uwgelhen yettwafernen.
 ssl-error-decryption-failure = Alguritm n ukestengel n isefka s ubleɣ ur iddi ara i wuzrir n uwgelhen ifernen.
 ssl-error-socket-write-failure = Aɛraḍ n tira n isefka iwgelhanen ɣeṛ ugrudem n tuqqna uqṛib ur iddi ara.
 ssl-error-md5-digest-failure = Tawuri n usesfer uzwir MD5 ur teddi ara
