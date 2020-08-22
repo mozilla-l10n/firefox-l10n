@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Inicios de sesión y claus
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Baixa-te-la de Google Play
 login-app-promo-apple =
     .alt = Baixa-te-la de l'App Store
-
 login-filter =
     .placeholder = Buscar nombres d'usuario
-
 create-login-button = Creyar un nuevo nombre d'usuario
-
 fxaccounts-sign-in-text = Acceder a las claus dende totz los tuyos dispositivos
 fxaccounts-sign-in-button = Inicia la sesión en { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -32,6 +25,10 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Ubrir lo menú
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importar dende belatro navegador…
+about-logins-menu-menuitem-import-from-a-file = Importar dende un fichero…
+about-logins-menu-menuitem-export-logins = Exportar os inicios de sesión…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -52,6 +49,8 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar per:
 login-list-name-option = Nombre (A-Z)
+login-list-name-reverse-option = Nombre (Z-A)
+about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Zaguera modificación
 login-list-last-used-option = Zaguer uso
 login-list-intro-title = No s'ha trobau garra nombre d'usuario
@@ -63,11 +62,12 @@ login-list-item-subtitle-new-login = Escribe la tuya información d'inicio de se
 login-list-item-subtitle-missing-username = (garra nombre d'usuario)
 about-logins-list-item-breach-icon =
     .title = Puesto web con filtración de datos
+about-logins-list-item-vulnerable-password-icon =
+    .title = Clau vulnerable
 
 ## Introduction screen
 
 login-intro-heading = Yes mirando los inicios de sesión que has alzaus? Configura { -sync-brand-short-name }
-
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
 login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la sesión dende lo dispositivo an que tiens alzaus los inicios de sesión
@@ -102,13 +102,27 @@ login-item-time-used = Zaguer uso: { DATETIME($timeUsed, day: "numeric", month: 
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Pa editar tu inicio de sesión, escribe las tuyas credencias d'acceso a Windows. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Ta veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Pa veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copia la clau alzada
+
 ## Master Password notification
 
 master-password-notification-message = Escribe la clau mayestra pa veyer los inicios de sesión y claus alzaus
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Pa exportar los tuyos inicios de sesión, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 
 ## Primary Password notification
 
@@ -139,11 +153,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-
 about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
-
 confirm-discard-changes-dialog-title = Descartar los cambios sin alzar?
 confirm-discard-changes-dialog-message = Totz los cambios sin alzar se pueden perder.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -154,6 +166,7 @@ breach-alert-text = Bellas claus d'este puesto s'han filtrau u robau dende que e
 
 ## Vulnerable Password notification
 
+
 ## Error Messages
 
 # This is an error message that appears when a user attempts to save
@@ -161,12 +174,11 @@ breach-alert-text = Bellas claus d'este puesto s'han filtrau u robau dende que e
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ya existe una dentrada pa { $loginTitle } con ixe nombre d'usuario. <a data-l10n-name="duplicate-link">Quirs ir ta la dentrada existent?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = S'ha produciu una error quan se miraba d'alzar esta clau.
 
-
 ## Login Export Dialog
+
 
 ## Login Import Dialog
 
