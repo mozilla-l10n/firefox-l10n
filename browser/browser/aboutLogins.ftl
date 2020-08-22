@@ -35,8 +35,8 @@ menu-menuitem-preferences =
        *[other] Preferencias
     }
 about-logins-menu-menuitem-help = Axuda
-menu-menuitem-android-app = { -lockless-brand-short-name } para Android
-menu-menuitem-iphone-app = { -lockless-brand-short-name } para iPhone e iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone e iPad
 
 ## Login List
 
@@ -75,7 +75,7 @@ login-intro-instruction-fxa = Cree ou inicie sesión no seu { -fxaccount-brand-n
 login-intro-instruction-fxa-settings = Asegúrese de que seleccionou a caixa de verificación de Iniciar sesión en Configuración de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visite <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Vaia ao soporte </a> para obter máis axuda
 about-logins-intro-import = Se os seus inicios de sesión están gardados noutro navegador, pode <a data-l10n-name="import-link"> importalos a { -lockwise-brand-short-name } </a>
-about-logins-intro-import2 = Se os seus inicios de sesión están gardados fóra de { -brand-product-name }, pode <a data-l10n-name="import-browser-link"> importalos desde outro navegador </a> ou <a data-l10n- name = "import-file-link"> dun ficheiro </a>
+about-logins-intro-import2 = Se os seus inicios de sesión están gardados fóra de { -brand-product-name }, pode <a data-l10n-name="import-browser-link">importalos desde outro navegador</a> ou <a data-l10n-name="import-file-link">dun ficheiro</a>
 
 ## Login
 
@@ -84,7 +84,7 @@ login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Enderezo do sitio web
 login-item-origin =
-    .placeholder = https://www.exemplo.gal
+    .placeholder = https://www.example.com
 login-item-username-label = Nome de usuario
 about-logins-login-item-username =
     .placeholder = (sen nome de usuario)
