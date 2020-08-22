@@ -5,10 +5,11 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
-
-
+about-config-intro-warning-title = Continúe con precaución
+about-config-intro-warning-text = O cambio de preferencias avanzadas de configuración pode afectar o rendemento ou a seguridade de { -brand-short-name }.
 
 ##
+
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
