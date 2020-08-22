@@ -37,6 +37,7 @@ printui-less-settings = Ít cài đặt hơn
 # Section title (noun) for the print scaling options
 printui-scale = Tỷ lệ
 printui-scale-fit-to-page = Vừa với trang
+printui-scale-fit-to-page-width = Vừa với chiều rộng trang
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Tỷ lệ
 # Section title for miscellaneous print options
