@@ -79,3 +79,4 @@ printui-error-invalid-scale = Il ridimensionamento deve essere un numero compres
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L’intervallo deve essere un numero compreso tra 1 e { $numPages }.
+printui-error-invalid-start-overflow = Il numero della pagina “Da” deve essere inferiore al numero della pagina “a”.
