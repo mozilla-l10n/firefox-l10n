@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Ecran complet">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Amagar lo boton Imatge incrustada">
 <!ENTITY pictureInPictureHideToggle.accesskey "A">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Paramètres de &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connectar un autre periferic…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Se connectar a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicis &brandProductName;">
@@ -97,7 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
-
 
 <!ENTITY searchItem.title             "Recercar">
 
@@ -157,7 +154,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Pas cap d’onglet dobèrt">
+<!ENTITY appMenuRemoteTabs.notabs.label "Cap d’onglet pas dobèrt">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Mostrar mai d’onglets">
@@ -223,14 +220,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Enviar per corrièl un ligam cap a la pagina…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Zoom">
 
 <!ENTITY sidebarCloseButton.tooltip     "Tampar lo panèl lateral">
@@ -255,7 +244,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Apondre de diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
