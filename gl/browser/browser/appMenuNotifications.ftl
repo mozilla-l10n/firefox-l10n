@@ -18,6 +18,13 @@ appmenu-update-manual =
 appmenu-update-manual-message = Descargue unha nova copia de { -brand-shorter-name } e axudarémoslle a instalala.
 appmenu-update-whats-new =
     .value = Vexa as novidades.
+appmenu-update-unsupported =
+    .label = Non é posíbel actualizar o { -brand-shorter-name } á última versión.
+    .buttonlabel = Máis información
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Pechar
+    .secondarybuttonaccesskey = c
+appmenu-update-unsupported-message = A última versión de { -brand-shorter-name } non é compatible no seu sistema.
 appmenu-update-restart =
     .label = Reiniciar para actualizar { -brand-shorter-name }.
     .buttonlabel = Reiniciar e restaurar
@@ -25,8 +32,10 @@ appmenu-update-restart =
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Despois dun reinicio rápido, { -brand-shorter-name } restaurará todas as súas xanelas e lapelas abertas que non están no modo de navegación privada.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Entendín
+    .buttonaccesskey = O
 appmenu-addon-post-install-message = Xestione os seus complementos premendo <image data-l10n-name='addon-install-icon'></image> no menú <image data-l10n-name='addon-menu-icon'></image>.
-    
 appmenu-new-tab-controlled =
     .label = Cambiouse a súa nova lapela.
     .buttonlabel = Conservar cambios

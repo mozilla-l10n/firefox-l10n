@@ -5,11 +5,18 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = Descargando a actualización de { -brand-shorter-name }
+appmenuitem-protection-dashboard-title = Panel de proteccións
 appmenuitem-customize-mode =
     .label = Personalizar…
 
 ## Zoom Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Ampliar
+appmenuitem-zoom-reduce =
+    .label = Reducir
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -18,3 +25,9 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Novidades
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Notificar sobre as novas características
+    .accesskey = N
