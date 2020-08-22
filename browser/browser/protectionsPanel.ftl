@@ -52,13 +52,31 @@ protections-panel-not-blocking-label = Permitido
 
 ##
 
+protections-panel-settings-label = Configuración de protección
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Panel de proteccións
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Desactive as proteccións se ten problemas con:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Campos de inicio de sesión
+protections-panel-site-not-working-view-issue-list-forms = Formularios
+protections-panel-site-not-working-view-issue-list-payments = Pagamentos
+protections-panel-site-not-working-view-issue-list-comments = Comentarios
+protections-panel-site-not-working-view-issue-list-videos = Vídeos
+protections-panel-site-not-working-view-send-report = Enviar informe
 
 ##
 
+protections-panel-cross-site-tracking-cookies = Estas cookies seguen de sitio en sitio para recoller datos sobre o que faga en liña. Están establecidos por terceiros como anunciantes e empresas de análise.
+protections-panel-fingerprinters = As pegadas dixitais recollen configuracións do seu navegador e computador para crear un perfil de vostede. Usando esta pegada dixital, poden rastrealo en diferentes sitios web.
+protections-panel-tracking-content = Os sitios web poden cargar anuncios externos, vídeos e outro contido con código de seguimento. O bloqueo de contido de seguimento pode axudar aos sitios a cargarse máis rápido, pero é posible que algúns botóns, formularios e campos de inicio de sesión non funcionen.
+protections-panel-social-media-trackers = As redes sociais colocan rastreadores noutros sitios web para seguir o que faga, vexa e mire en liña. Isto permite ás empresas de redes sociais aprender máis sobre vostede máis alá do que comparte nos seus perfís de redes sociais.
+protections-panel-content-blocking-breakage-report-view =
+    .title = Informar dun sitio quebrado
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
