@@ -51,9 +51,17 @@ printui-color-mode-color = Kolorowy
 printui-color-mode-bw = Czarno-biały
 printui-margins = Marginesy
 printui-margins-default = Domyślne
+printui-margins-min = Minimalne
+printui-margins-none = Bez
 printui-system-dialog-link = Drukuj za pomocą okna systemowego…
 printui-primary-button = Drukuj
+printui-primary-button-save = Zapisz
 printui-cancel-button = Anuluj
+printui-loading = Przygotowywanie podglądu
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Skala musi być liczbą między 10 a 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Zakres musi być liczbą między 1 a { $numPages }.
