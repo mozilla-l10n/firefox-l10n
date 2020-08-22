@@ -74,7 +74,16 @@ openpgp-import-key-list-amount =
 openpgp-passphrase-prompt-title = Parola gerekli
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Lütfen şu anahtarın kilidini açmak için parolayı girin: { $key }
+openpgp-import-key-button =
+    .label = İçe aktarılacak dosyayı seç…
+    .accesskey = a
+import-key-file = OpenPGP anahtar dosyasını içe aktar
 gnupg-file = GnuPG dosyaları
+import-error-file-size = <b>Hata!</b> 5 MB'den büyük dosyalar desteklenmez.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Hata! </b> Dosya içe aktarılamadı. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Hata!</b> Anahtarlar içe aktarılamadı. { $error }
 openpgp-import-identity-label = Kimlik
 openpgp-import-fingerprint-label = Parmak izi
 openpgp-import-bits-label = Bit
