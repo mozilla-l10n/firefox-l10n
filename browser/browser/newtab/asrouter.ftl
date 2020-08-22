@@ -17,6 +17,8 @@ cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Engadir agora
     .accesskey = a
+cfr-doorhanger-pintab-ok-button = Ancorar esta lapela
+    .accesskey = A
 cfr-doorhanger-extension-manage-settings-button = Xestionar a configuración de recomendación
     .accesskey = m
 cfr-doorhanger-extension-never-show-recommendation = Non amosarme esta recomendación
@@ -29,6 +31,14 @@ cfr-doorhanger-extension-author = por { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+cfr-doorhanger-extension-notification2 = Recomendación
+    .tooltiptext = Recomendación de extensión
+    .a11y-announcement = Recomendación de extensión dispoñible
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomendación
+    .tooltiptext = Características recomendadas
+    .a11y-announcement = Características recomendadas dispoñibles
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -49,13 +59,19 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+cfr-doorhanger-pintab-description = Acceda facilmente aos sitios máis empregados. Manteña os sitios abertos nunha lapela (incluso cando reinicie).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b> Prema co botón dereito do rato</b> na lapela que desexe fixar.
+cfr-doorhanger-pintab-step2 = Seleccione <b>Ancorar lapela</b> no menú.
+cfr-doorhanger-pintab-step3 = Se o sitio ten unha actualización, verá un punto azul na súa lapela ancorada.
+cfr-doorhanger-pintab-animation-pause = Deter
 cfr-doorhanger-pintab-animation-resume = Retomar
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sincronice os seus marcadores en todas partes.
 
 ## Protections panel
 
