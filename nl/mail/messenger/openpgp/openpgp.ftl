@@ -367,19 +367,18 @@ delete-secret-key =
     
     Als u uw geheime sleutel verwijdert, kunt u geen berichten meer ontsleutelen die voor die sleutel zijn versleuteld, en kunt u deze ook niet intrekken.
     
-    Wilt u echt ZOWEL de geheime sleutel ALS de publieke sleutel ‘{ $userId }’
+    Wilt u echt ZOWEL de geheime sleutel ALS de openbare sleutel ‘{ $userId }’
     verwijderen?
 delete-mix =
     WAARSCHUWING: U staat op het punt geheime sleutels te verwijderen!
     Als u uw geheime sleutel verwijdert, kunt u geen berichten meer ontsleutelen die voor die sleutel zijn versleuteld.
-    Wilt u echt ZOWEL de geselecteerde geheime ALS de publieke sleutels verwijderen?
+    Wilt u echt ZOWEL de geselecteerde geheime ALS de openbare sleutels verwijderen?
 delete-pub-key =
-    Wilt u de publieke sleutel ‘{ $userId }’
+    Wilt u de openbare sleutel ‘{ $userId }’
     verwijderen?
-delete-selected-pub-key = Wilt u de publieke sleutels verwijderen?
 refresh-all-question = U heeft geen enkele sleutel geselecteerd. Wilt u ALLE sleutels vernieuwen?
 key-man-button-export-sec-key = &Geheime sleutels exporteren
-key-man-button-export-pub-key = Alleen &publieke sleutels exporteren
+key-man-button-export-pub-key = Alleen &openbare sleutels exporteren
 key-man-button-refresh-all = Alle sleutels &vernieuwen
 key-man-loading-keys = Sleutels worden geladen, een moment geduld…
 ascii-armor-file = ASCII-armored-bestanden (*.asc)
