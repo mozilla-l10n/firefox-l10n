@@ -54,7 +54,7 @@ protections-close-button2 =
     .title = Pechar
 mobile-app-title = Bloqueo de rastrexadores de anuncios en máis dispositivos
 mobile-app-card-content = Use o navegador móbil con protección integrada contra o rastrexamento de anuncios.
-mobile-app-links = { -brand-product-name } Navegador para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name = "ios-mobile-inline-link ">iOS</a>
+mobile-app-links = { -brand-product-name } Navegador para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Non esqueza nunca máis un contrasinal
 lockwise-title-logged-in2 = Xestor de contrasinais
 lockwise-header-content = { -lockwise-brand-name } almacena os seus contrasinais de forma segura no seu navegador.
