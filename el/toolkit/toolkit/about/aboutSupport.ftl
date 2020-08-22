@@ -224,13 +224,13 @@ text-copied = Το κείμενο αντιγράφτηκε στο πρόχειρ
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Δεν υποστηρίζεται από την έκδοση του οδηγού της κάρτας γραφικών σας.
-blocked-gfx-card = Δεν υποστηρίζεται από τη κάρτα γραφικών σας, λόγω ανεπίλυτων προβλημάτων του οδηγού γραφικών.
-blocked-os-version = Δεν υποστηρίζεται από την έκδοση του λειτουργικού σας συστήματος.
-blocked-mismatched-version = Μπλοκαρισμένο λόγω ασυμφωνίας της έκδοσης οδηγού γραφικών μεταξύ μητρώου και DLL.
+blocked-driver = Αποκλείστηκε για την έκδοση του προγράμματος οδήγησης γραφικών σας.
+blocked-gfx-card = Αποκλείστηκε για την κάρτα γραφικών σας, λόγω ανεπίλυτων προβλημάτων προγράμματος οδήγησης.
+blocked-os-version = Αποκλείστηκε για την έκδοση του λειτουργικού σας συστήματος.
+blocked-mismatched-version = Αποκλείστηκε λόγω ασυμφωνίας της έκδοσης του προγράμματος οδήγησης γραφικών μεταξύ μητρώου και DLL.
 # Variables
 # $driverVersion - The graphics driver version string
-try-newer-driver = Δεν υποστηρίζεται από τον οδηγό της κάρτας γραφικών σας. Αναβαθμίστε τον οδηγό γραφικών σε έκδοση { $driverVersion } ή νεότερη.
+try-newer-driver = Αποκλείστηκε για το πρόγραμμα οδήγησης της κάρτας γραφικών σας. Δοκιμάστε να το αναβαθμίστε στην έκδοση { $driverVersion } ή νεότερη.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Παράμετροι ClearType
@@ -260,26 +260,26 @@ gpu-driver-vendor = Εκδότης προγράμματος οδήγησης
 gpu-driver-version = Έκδοση προγράμματος οδήγησης
 gpu-driver-date = Ημερομηνία προγράμματος οδήγησης
 gpu-active = Ενεργό
-webgl1-wsiinfo = Πληροφορίες WSI οδηγού WebGL 1
-webgl1-renderer = Πρόγραμμα απόδοσης WebGL 1
-webgl1-version = Έκδοση οδηγού WebGL 1
-webgl1-driver-extensions = Επεκτάσεις οδηγού WebGL 1
+webgl1-wsiinfo = Πληροφορίες WSI προγράμματος οδήγησης WebGL 1
+webgl1-renderer = Πρόγραμμα οδήγησης απεικόνισης WebGL 1
+webgl1-version = Έκδοση προγράμματος οδήγησης WebGL 1
+webgl1-driver-extensions = Επεκτάσεις προγράμματος οδήγησης WebGL 1
 webgl1-extensions = Επεκτάσεις WebGL 1
-webgl2-wsiinfo = Πληροφορίες WSI οδηγού WebGL 2
-webgl2-renderer = Απόδοση WebGL2
-webgl2-version = Έκδοση οδηγού WebGL 2
-webgl2-driver-extensions = Επεκτάσεις οδηγού WebGL 2
+webgl2-wsiinfo = Πληροφορίες WSI προγράμματος οδήγησης WebGL 2
+webgl2-renderer = Πρόγραμμα οδήγησης απεικόνισης WebGL 2
+webgl2-version = Έκδοση προγράμματος οδήγησης WebGL 2
+webgl2-driver-extensions = Επεκτάσεις προγράμματος οδήγησης WebGL 2
 webgl2-extensions = Επεκτάσεις WebGL 2
-blocklisted-bug = Μπλοκαρίστηκε λόγω γνωστών θεμάτων
+blocklisted-bug = Αποκλείστηκε λόγω γνωστών ζητημάτων
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = σφάλμα { $bugNumber }
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
-support-blocklisted-bug = Προστέθηκε στη λίστα αποκλεισμού λόγω γνωστών ζητημάτων: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+support-blocklisted-bug = Αποκλείστηκε λόγω γνωστών ζητημάτων: <a data-l10n-name="bug-link">σφάλμα { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
-unknown-failure = Μπλοκαρίστηκε, κωδικός αποτυχίας { $failureCode }
+unknown-failure = Αποκλείστηκε· κωδικός αποτυχίας { $failureCode }
 d3d11layers-crash-guard = Συνθέτης D3D11
 d3d11video-crash-guard = Αποκωδικοποιητής βίντεο D3D11
 d3d9video-crash-guard = Αποκωδικοποιητής βίντεο D3D9
@@ -291,8 +291,8 @@ gpu-device-reset = Επαναφορά συσκευής
 gpu-device-reset-button = Έναυσμα επαναφοράς συσκευής
 uses-tiling = Χρησιμοποιεί παράθεση
 content-uses-tiling = Χρησιμοποιεί παράθεση (περιεχόμενο)
-off-main-thread-paint-enabled = Η απόδοση γραφικών εκτός κύριου νήματος ενεργοποιήθηκε
-off-main-thread-paint-worker-count = Πλήθος workers ζωγραφικής εκτός κυρίου νήματος
+off-main-thread-paint-enabled = Ενεργό off main thread painting
+off-main-thread-paint-worker-count = Πλήθος workers για off main thread painting
 target-frame-rate = Ρυθμός καρέ στόχου
 min-lib-versions = Αναμενόμενη ελάχιστη έκδοση
 loaded-lib-versions = Έκδοση σε χρήση
