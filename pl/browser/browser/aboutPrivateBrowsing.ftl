@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Szukaj w Internecie
 about-private-browsing-not-private = Okno bez aktywnego trybu prywatnego.
 about-private-browsing-info-description = { -brand-short-name } czyści historię wyszukiwania i przeglądania po wyłączeniu programu lub zamknięciu wszystkich kart i okien w trybie przeglądania prywatnego. Chociaż nie czyni to użytkownika anonimowym wobec stron internetowych ani dostawcy Internetu, to ułatwia zachowanie prywatności przed pozostałymi użytkownikami komputera.
-
+about-private-browsing-need-more-privacy = Potrzebujesz więcej prywatności?
+about-private-browsing-turn-on-vpn = Wypróbuj { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
