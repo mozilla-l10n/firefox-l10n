@@ -68,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Yes mirando los inicios de sesión que has alzaus? Configura { -sync-brand-short-name }
+about-logins-login-intro-heading-logged-out = Yes mirando los inicios de sesión que has alzau? Configura { -sync-brand-short-name } u importar-los
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
 login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la sesión dende lo dispositivo an que tiens alzaus los inicios de sesión
@@ -110,6 +111,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Pa editar tu inicio de sesión, escribe las tuyas credencias d'acceso a Windows. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inicio de sesión alzau
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ta veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to copy a password in about:logins on Windows.
