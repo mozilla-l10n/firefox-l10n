@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Cari di Web
 about-private-browsing-not-private = Anda tidak sedang dalam jendela pribadi.
 about-private-browsing-info-description = { -brand-short-name } menghapus riwayat penjelajahan dan pencarian saat keluar dari aplikasi atau saat menutup semua tab dan jendela Penjelajahan Pribadi. Meskipun hal ini tidak membuat Anda menjadi anonim dalam situs web atau penyedia layanan internet, hal ini mempermudah Anda untuk menjaga apa yang Anda lakukan secara online agar tetap pribadi dari siapa pun yang menggunakan komputer ini.
-
+about-private-browsing-need-more-privacy = Butuh privasi lebih?
+about-private-browsing-turn-on-vpn = Coba { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
