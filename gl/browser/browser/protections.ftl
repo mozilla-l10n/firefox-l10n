@@ -16,6 +16,35 @@ protection-report-manage-protections = Xestionar configuración
 # capitalization for this string should match the output for your locale.
 graph-today = Hoxe
 fingerprinter-tab-title = Pegadas dixitais
+cryptominer-tab-title = Criptomineiros
+protections-close-button2 =
+    .aria-label = Pechar
+    .title = Pechar
+lockwise-title = Non esqueza nunca máis un contrasinal
+lockwise-title-logged-in2 = Xestor de contrasinais
+lockwise-header-content-logged-in = Almacene e sincronice os seus contrasinais con seguridade en todos os seus dispositivos.
+protection-report-save-passwords-button = Gardar contrasinais
+    .title = Gardar contrasinais en { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Xestionar contrasinais
+    .title = Xestionar contrasinais en { -lockwise-brand-short-name }
+lockwise-mobile-app-title = Leve os seus contrasinais a todas partes
+lockwise-no-logins-card-content = Empregue os contrasinais gardados en { -brand-short-name } en calquera dispositivo.
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 contrasinal almacenado de maneira segura.
+       *[other] Os seus contrasinais están almacenados de forma segura.
+    }
+lockwise-how-it-works-link = Como funciona
+turn-on-sync = Active { -sync-brand-short-name } ...
+    .title = Ir ás preferencias sincronizadas
+monitor-link = Como funciona
+auto-scan = Analizado automaticamente hoxe
+monitor-passwords-tooltip =
+    .title = Ver os contrasinais expostos en { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
