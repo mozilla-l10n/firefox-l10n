@@ -439,6 +439,8 @@ revoke-key-in-use-description = Αδύνατο να συνεχίσω! Το κλ�
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Η διεύθυνση ηλεκτρονικού ταχυδρομείο '{ $keySpec }' δεν μπορεί να αντιστοιχιστεί με ένα κλειδί στο αποθετήριο κλειδιών σας.
 key-error-key-id-not-found = Το ορισμένο αναγνωριστικό κλειδιού '{ $keySpec }' δεν μπορεί να βρεθεί στο αποθετήριο κλειδιών σας.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Σφάλμα - Η εντολή εξαγωγής κλειδιού απέτυχε
 fail-key-import = Σφάλμα - η εισαγωγή κλειδιού απέτυχε
 file-write-failed = Αποτυχία εγγραφής στο αρχείο { $output }
 # Strings used in trust.jsm
