@@ -6,10 +6,10 @@ openpgp-manage-keys-openpgp-cmd =
     .label = OpenPGP gako kudeatzailea
     .accesskey = O
 openpgp-ctx-decrypt-open =
-    .label = Dezifratu eta ireki
+    .label = Deszifratu eta ireki
     .accesskey = D
 openpgp-ctx-decrypt-save =
-    .label = Dezifratu eta gorde honela…
+    .label = Deszifratu eta gorde honela…
     .accesskey = z
 openpgp-ctx-import-key =
     .label = Inportatu OpenPGP gakoa
@@ -31,4 +31,8 @@ openpgp-broken-exchange-info = Hau OpenPGP mezu bat da itxuraz MS-Exchange honda
 openpgp-broken-exchange-repair =
     .label = Konpondu mezua
 openpgp-broken-exchange-wait = Itxaron mesedez…
-openpgp-cannot-decrypt-because-mdc = Babesik gabeko mekanismo zahar bat darabilen zifratutako mezu bat da hau.
+openpgp-cannot-decrypt-because-mdc =
+    Babesik gabeko mekanismo zahar bat darabilen zifratutako mezu bat da hau.
+    Bere edukia lapurtzeko asmoz, bere ibilbidean aldatua izan ahal da.
+    Arrisku hau ekiditeko, edukiak ez dira erakusten.
+openpgp-cannot-decrypt-because-missing-key = Mezu hau deszifratzeko behar den gako sekretua ez dago erabilgarri.
