@@ -12,7 +12,7 @@
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Nombre del sitio:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip             "Seleccione el sitio que desea publicar">
+<!ENTITY siteList.tooltip             "Seleccione el sitio que quiere publicar">
 <!ENTITY newSiteButton.label          "Nuevo sitio">
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label             "Subdirectorio del sitio para esta página:">
