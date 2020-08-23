@@ -98,3 +98,5 @@ certificate-viewer-export = Exporta
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Els vostres certificats
+certificate-viewer-tab-servers = Servidors
+certificate-viewer-tab-unkonwn = Desconegut
