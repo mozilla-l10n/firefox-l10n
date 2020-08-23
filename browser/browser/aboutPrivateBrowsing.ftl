@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Verkkohaku
 about-private-browsing-not-private = Tämä ei ole yksityinen selausikkuna.
 about-private-browsing-info-description = { -brand-short-name } poistaa haku- ja selaushistorian, kun ohjelma suljetaan tai kaikki yksityisen selauksen välilehdet ja ikkunat suljetaan. Tämä ei tee sinusta anonyymiä sivustoille tai internetpalveluntarjoajallesi, mutta helpottaa pitämään verkossa tekemäsi asiat yksityisinä muilta, jotka käyttävät tätä tietokonetta.
-
+about-private-browsing-need-more-privacy = Tarvitsetko lisää yksityisyyttä?
+about-private-browsing-turn-on-vpn = Kokeile { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
