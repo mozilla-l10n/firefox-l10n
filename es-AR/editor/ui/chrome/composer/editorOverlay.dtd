@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Pegar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Pegar como">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -119,7 +117,7 @@
 <!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Énfasis">
 <!ENTITY styleEm.accesskey "f">
-<!ENTITY styleStrong.label "Más énfasis">
+<!ENTITY styleStrong.label "Mayor énfasis">
 <!ENTITY styleStrong.accesskey "f">
 <!ENTITY styleCite.label "Cita">
 <!ENTITY styleCite.accesskey "C">
@@ -162,7 +160,7 @@
 <!ENTITY heading6Cmd.label "Título 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Dirección">
-<!ENTITY paragraphAddressCmd.accesskey "D">
+<!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Preformato">
 <!ENTITY paragraphPreformatCmd.accesskey "A">
 
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Cortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Pegar">
-<!ENTITY printToolbarCmd.label "Imprimir">
-<!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
 <!ENTITY findToolbarCmd.label "Buscar">
 <!ENTITY findToolbarCmd.tooltip "Buscar texto en la página">
 <!ENTITY spellToolbarCmd.label "Ortografía">
@@ -313,8 +309,6 @@
 <!ENTITY colorButtons.title "Colores">
 <!ENTITY TextColorButton.tooltip "Elija un color para el texto">
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
-<!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Ir a la página de inicio de &brandShortName;">
 <!ENTITY HighlightColorButton.label "Resaltador">
 <!ENTITY HighlightColorButton.tooltip "Elegir color para remarcar texto">
 
@@ -358,7 +352,7 @@
 <!ENTITY structRemoveTag.label      "Eliminar etiqueta">
 <!ENTITY structRemoveTag.accesskey  "r">
 <!ENTITY structChangeTag.label      "Cambiar etiqueta">
-<!ENTITY structChangeTag.accesskey  "C">
+<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Insertar">
