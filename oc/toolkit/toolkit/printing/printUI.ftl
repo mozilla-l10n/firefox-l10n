@@ -38,6 +38,7 @@ printui-less-settings = Mens de paramètres
 # Section title (noun) for the print scaling options
 printui-scale = Escala
 printui-scale-fit-to-page = Adaptar a la pagina
+printui-scale-fit-to-page-width = Ajustar a la largor de la pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
 # Section title for miscellaneous print options
