@@ -116,6 +116,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Pa editar tu inicio de sesi
 about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inicio de sesión alzau
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ta veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = amostrar la clau alzada
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pa veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to copy a password in about:logins
