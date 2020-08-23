@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey          "z">
 <!ENTITY preferDisplayName.label        "Preferire sempre il nome visualizzato all'intestazione del messaggio">
-<!ENTITY preferDisplayName.accesskey    "P">
 <!ENTITY preferDisplayName2.accesskey   "g">
 <!ENTITY NickName.label                 "Soprannome:">
 <!ENTITY NickName.accesskey             "m">
@@ -46,9 +45,6 @@
 <!ENTITY PlainText.label                "Testo semplice">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Sconosciuto">
-<!ENTITY ScreenName.label               "Nome Instant Messenger:">
-<!ENTITY ScreenName.accesskey           "I">
-
 <!ENTITY chatName.label                 "Nome chat:">
 
 <!ENTITY WorkPhone.label                "Lavoro:">
@@ -158,3 +154,4 @@
 <!ENTITY PhotoURL.placeholder           "Incolla o inserisci l'indirizzo web di una foto">
 <!ENTITY UpdatePhoto.label              "Aggiorna">
 <!ENTITY UpdatePhoto.accesskey          "n">
+<!ENTITY PhotoDropTarget.label          "Trascinare qua una nuova foto">
