@@ -168,6 +168,7 @@ about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y claus
+about-logins-confirm-export-dialog-message = Las tuyas claus s'han alzau como testo lechible (exemplo, BadP@ssw0rd) asinas que qualsiquiera que pueda ubrir lo archivo alzau podrá leyer-las.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = Descartar los cambios sin alzar?
 confirm-discard-changes-dialog-message = Totz los cambios sin alzar se pueden perder.
