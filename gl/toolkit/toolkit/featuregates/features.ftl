@@ -15,3 +15,9 @@ experimental-features-web-api-inputmode =
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = API web: <link rel = "preload">
+experimental-features-devtools-color-scheme-simulation =
+    .label = Ferramentas para desenvolvedores: Simulación de esquemas de cores
+experimental-features-devtools-execution-context-selector =
+    .label = Ferramentas para desenvolvedores: Selector de contexto de execución
+experimental-features-devtools-compatibility-panel =
+    .label = Ferramentas para desenvolvedores: Panel de compatibilidade
