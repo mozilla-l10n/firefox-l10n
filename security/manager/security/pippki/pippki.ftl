@@ -8,7 +8,8 @@ password-quality-meter = Medidor de calidade de contrasinais
 
 change-password-window =
     .title = Mudar o contrasinal principal
-
+change-device-password-window =
+    .title = Cambiar o contrasinal
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguranza: { $tokenName }
@@ -21,12 +22,25 @@ change-password-reenter = Novo contrasinal (outra vez):
 reset-password-window =
     .title = Restabelecer o contrasinal principal
     .style = width: 40em
+pippki-failed-pw-change = Non foi posíbel cambiar o contrasinal.
+pippki-incorrect-pw = Non introduciu o contrasinal actual correcto. Por favor, inténteo de novo.
+pippki-pw-change-ok = Cambiouse correctamente o contrasinal.
+pippki-pw-empty-warning = Non se protexerán os seus contrasinais e chaves privadas almacenadas.
+pippki-pw-erased-ok = Eliminou o seu contrasinal. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Advertencia! Decidiu non usar un contrasinal. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Actualmente está en modo FIPS. FIPS require un contrasinal non baleiro.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Restablecer contrasinal principal
+    .style = width: 40em
 reset-password-button-label =
     .label = Restabelecer
 reset-password-text = Se restabelece o contrasinal principal esqueceranse os contrasinais de web e correo electrónico, os datos dos formularios, os certificados persoais e as chaves privadas que estean almacenados. Confirma que quere restabelecelo?
+reset-primary-password-text = Se restablece o seu contrasinal principal, esqueceranse todos os seus contrasinais de correo electrónico e correo electrónico, certificados persoais e chaves privadas. Confirma que desexa restablecer o seu contrasinal principal?
+pippki-reset-password-confirmation-title = Restablecer contrasinal principal
+pippki-reset-password-confirmation-message = Restableceuse o seu contrasinal principal.
 
 ## Downloading cert dialog
 
