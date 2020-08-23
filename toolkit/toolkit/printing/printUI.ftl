@@ -13,7 +13,7 @@ printui-sheets-count =
         [few] { $sheetCount } листа бумаги
        *[many] { $sheetCount } листов бумаги
     }
-printui-page-range-all = Всё
+printui-page-range-all = Все
 printui-page-range-custom = Диапазон
 printui-page-range-label = Страницы
 printui-page-range-picker =
