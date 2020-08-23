@@ -14,12 +14,18 @@ printui-sheets-count =
        *[many] { $sheetCount } листов бумаги
     }
 printui-page-range-all = Всё
-printui-page-range-custom = Пользовательский
+printui-page-range-custom = Диапазон
 printui-page-range-label = Страницы
 printui-page-range-picker =
     .aria-label = Выберите диапазон страниц
 printui-page-custom-range =
-    .aria-label = Введите пользовательский диапазон страниц
+    .aria-label = Введите свой диапазон страниц
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = С
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = по
 # Section title for the number of copies to print
 printui-copies-label = Число копий
 printui-orientation = Ориентация
@@ -33,14 +39,29 @@ printui-less-settings = Основные настройки
 # Section title (noun) for the print scaling options
 printui-scale = Масштаб
 printui-scale-fit-to-page = По размеру страницы
+printui-scale-fit-to-page-width = По ширине страницы
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Масштаб
 # Section title for miscellaneous print options
 printui-options = Настройки
 printui-headers-footers-checkbox = Печатать колонтитулы
 printui-backgrounds-checkbox = Печатать фон
+printui-color-mode-label = Цветовой режим
+printui-color-mode-color = Цветной
+printui-color-mode-bw = Чёрно-белый
+printui-margins = Поля
+printui-margins-default = По умолчанию
+printui-margins-min = Минимальные
+printui-margins-none = Нет
 printui-system-dialog-link = Печатать, используя системный диалог…
 printui-primary-button = Печать
 printui-primary-button-save = Сохранить
 printui-cancel-button = Отмена
 printui-loading = Подготовка к предпросмотру
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Масштаб должен быть числом от 10 до 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Диапазон должен быть числом от 1 до { $numPages }.
