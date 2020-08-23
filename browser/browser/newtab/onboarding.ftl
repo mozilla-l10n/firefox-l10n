@@ -49,6 +49,10 @@ onboarding-multistage-welcome-subtitle = Lo navegador rapido, seguro y privau re
 onboarding-multistage-welcome-primary-button-label = Empecipiar a configuración
 onboarding-multistage-welcome-secondary-button-label = Iniciar la sesión
 onboarding-multistage-welcome-secondary-button-text = Tiens una cuenta?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importa las tuyas claus, <br/> marcapachinas, y <span data-l10n-name="zap">mas</span>
+onboarding-multistage-import-subtitle = Viens d'unatro navegador? Ye muito facil trayer-te-lo tot ta { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Iniciar importación
 onboarding-multistage-import-secondary-button-label = No pas agora
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
