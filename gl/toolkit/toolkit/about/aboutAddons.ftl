@@ -4,63 +4,46 @@
 
 addons-window =
     .title = Xestor de complementos
-
 addons-page-title = Xestor de complementos
-
 search-header =
     .placeholder = Buscar en addons.mozilla.org
     .searchbuttonlabel = Buscar
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Non ten instalado ningún complemento deste tipo
-
 list-empty-available-updates =
     .value = Non se atoparon actualizacións
-
 list-empty-recent-updates =
     .value = Recentemente non actualizou ningún complemento
-
 list-empty-find-updates =
     .label = Buscar actualizacións
-
 list-empty-button =
     .label = Saber máis sobre os complementos
-
 help-button = Asistencia dos módulos
-
 sidebar-help-button-title =
     .title = Asistencia dos módulos
-
 preferences =
     { PLATFORM() ->
         [windows] Opcións de { -brand-short-name }
        *[other] Preferencias de { -brand-short-name }
     }
-
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
             [windows] Opcións de { -brand-short-name }
            *[other] Preferencias de { -brand-short-name }
         }
-
 show-unsigned-extensions-button =
     .label = Non foi posíbel comprobar algunhas extensións
-
 show-all-extensions-button =
     .label = Amosar todas as extensións
-
 cmd-show-details =
     .label = Amosar máis información
     .accesskey = s
-
 cmd-find-updates =
     .label = Buscar actualizacións
     .accesskey = B
-
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -72,64 +55,50 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
-
 cmd-enable-theme =
     .label = Pór o tema
     .accesskey = P
-
 cmd-disable-theme =
     .label = Quitar o tema
     .accesskey = Q
-
 cmd-install-addon =
     .label = Instalar
     .accesskey = I
-
 cmd-contribute =
     .label = Colabore
     .accesskey = C
     .tooltiptext = Colabore co desenvolvemento deste complemento
-
 detail-version =
     .label = Versión
-
 detail-last-updated =
     .label = Última actualización
-
 detail-contributions-description = O desenvolvedor solicítalle unha pequena doazón para axudar a continuar o desenvolvemento deste complemento.
-
+detail-contributions-button = Colabore
+    .title = Colabore no desenvolvemento deste complemento
+    .accesskey = C
 detail-update-type =
     .value = Actualizacións automáticas
-
 detail-update-default =
     .label = Predeterminado
     .tooltiptext = Instalar actualizacións automaticamente só se isto é o valor predeterminado
-
 detail-update-automatic =
     .label = Si
     .tooltiptext = Instalar actualizacións automaticamente
-
 detail-update-manual =
     .label = Desactivado
     .tooltiptext = Non instalar actualizacións automaticamente
-
 detail-home =
     .label = Páxina de inicio
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Perfil do complemento
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Buscar actualizacións
     .accesskey = B
     .tooltiptext = Buscar actualizacións para este complemento
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -146,31 +115,23 @@ detail-show-preferences =
             [windows] Cambiar as opcións deste complemento
            *[other] Modificar as preferencias deste complemento
         }
-
 detail-rating =
     .value = Puntuación
-
 addon-restart-now =
     .label = Reiniciar agora
-
 disabled-unsigned-heading =
     .value = Desactiváronse algúns complementos
-
 disabled-unsigned-description = Os seguintes complementos non se comprobaron para o seu uso en { -brand-short-name }. Pode <label data-l10n-name="find-addons">atopar substitutos</label> ou pedirlle ao desenvolvedor que consiga que sexan verificados.
-
 disabled-unsigned-learn-more = Obteña máis información sobre os nosos esforzos para axudalo a manterse seguro en liña.
-
 disabled-unsigned-devinfo = Os desenvolvedores interesados en conseguir que os seus complementos sexa verificados poden continuar lendo o noso <label data-l10n-name="learn-more">manual</label>.
-
 plugin-deprecation-description = Bota en falta algo? Algúns engadidos xa non son compatíbeis co { -brand-short-name }. <label data-l10n-name="learn-more">Máis información.</label>
-
 legacy-warning-show-legacy = Amosar as extensións herdadas
-
 legacy-extensions =
     .value = Extensións herdadas
-
 legacy-extensions-description = Estas extensións non cumpren os estándares actuais de { -brand-short-name }, así que foron desactivadas. <label data-l10n-name="legacy-learn-more">Máis información sobre os cambios nos complementos</label>
-
+addon-category-discover = Recomendacións
+addon-category-discover-title =
+    .title = Recomendacións
 addon-category-extension = Extensións
 addon-category-extension-title =
     .title = Extensións
@@ -202,7 +163,6 @@ extensions-warning-check-compatibility-button = Activar
 extensions-warning-update-security = A verificación da seguranza das actualizacións dos complementos está desactivada. Pode estar en risco coas actualizacións.
 extensions-warning-update-security-button = Activar
     .title = Activar a verificación da seguranza das actualizacións dos complementos
-
 
 ## Strings connected to add-on updates
 
@@ -246,6 +206,13 @@ addon-open-about-debugging = Depurar complementos
 
 ## Extension shortcut management
 
+shortcuts-no-addons = Non ten habilitada ningunha extensión.
+shortcuts-no-commands = As seguintes extensións non teñen atallos:
+shortcuts-input =
+    .placeholder = Escriba un atallo
+shortcuts-sidebarAction = Alternar a barra lateral
+shortcuts-modifier-mac = Incluír Ctrl, Alt ou ⌘
+shortcuts-modifier-other = Incluír Ctrl ou Alt
 
 ## Recommended add-ons page
 
@@ -263,9 +230,7 @@ theme-heading = Xestione os seus temas
 plugin-heading = Xestione os seus engadidos
 dictionary-heading = Xestione os seus dicionarios
 locale-heading = Xestione os seus idiomas
-
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
-
 addon-page-options-button =
     .title = Ferramentas para todos os complementos
