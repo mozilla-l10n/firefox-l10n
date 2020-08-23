@@ -4,7 +4,7 @@
 
 openpgp-manage-keys-openpgp-cmd =
     .label = OpenPGP-sleutelbeheerder
-    .accesskey = O
+    .accesskey = P
 openpgp-ctx-decrypt-open =
     .label = Ontsleutelen en openen
     .accesskey = l
