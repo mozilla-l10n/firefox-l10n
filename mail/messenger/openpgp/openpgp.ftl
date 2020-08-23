@@ -227,6 +227,13 @@ openpgp-description =
         [one] Το Thunderbird βρήκε { $count } προσωπικό κλειδί OpenPGP που είναι συσχετισμένο με <b>{ $identity }</b>
        *[other] Το Thunderbird βρήκε { $count } προσωπικά κλειδιά OpenPGP που είναι συσχετισμένα με <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Επιλέξτε ένα έγκυρο κλειδί για να ενεργοποιήσετε το πρωτόκολλο OpenPGP.
+       *[other] Η τρέχουσα ρύθμισή σας χρησιμοποιεί το ID κλειδιού <b>{ $key }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Η τρέχουσα διαμόρφωσή σας χρησιμοποιεί το κλειδί <b>{ $key }</b>, το οποίο έχει λήξει.
 openpgp-add-key-button =
