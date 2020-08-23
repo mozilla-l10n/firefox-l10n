@@ -16,17 +16,24 @@ certificate-viewer-certificate-authority = Entitat certificadora
 certificate-viewer-cipher-suite = Entorn de xifratge
 certificate-viewer-common-name = Nom comú
 certificate-viewer-email-address = Adreça electrònica
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Certificat per a { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = País (empresa)
 certificate-viewer-country = País
 certificate-viewer-curve = Corba
 certificate-viewer-distribution-point = Punt de distribució
 certificate-viewer-dns-name = Nom DNS
+certificate-viewer-ip-address = Adreça IP
+certificate-viewer-other-name = Nom alternatiu
 certificate-viewer-exponent = Exponent
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grup d'intercanvi de claus
 certificate-viewer-key-id = ID de la clau
 certificate-viewer-key-size = Mida de la clau
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Localitat (empresa)
 certificate-viewer-locality = Localitat
 certificate-viewer-location = Ubicació
 certificate-viewer-logid = ID de registre
@@ -44,6 +51,7 @@ certificate-viewer-purposes = Finalitats
 certificate-viewer-qualifier = Qualificador
 certificate-viewer-qualifiers = Qualificadors
 certificate-viewer-required = Obligatori
+certificate-viewer-unsupported = &lt;incompatible&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Estat/província (empresa)
 certificate-viewer-state-province = Estat/província
@@ -92,11 +100,16 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Aquesta extensió s'ha marcat com a crítica, que significa que els clients han de rebutjar el certificat si no l'entenen.
 certificate-viewer-export = Exporta
     .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Els vostres certificats
+certificate-viewer-tab-people = Persones
 certificate-viewer-tab-servers = Servidors
+certificate-viewer-tab-ca = Entitats
 certificate-viewer-tab-unkonwn = Desconegut
