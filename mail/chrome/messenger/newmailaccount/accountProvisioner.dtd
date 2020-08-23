@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Bienvenido a &brandShortName;">
-<!ENTITY header2.label "¿Desea una nueva dirección de correo electrónico?">
+<!ENTITY header2.label "¿Quiere una nueva dirección de correo electrónico?">
 <!ENTITY other.languages "Solamente mostraremos los proveedores que ofrecen direcciones en su zona.  Haga clic aquí para mostrar todos los proveedores.">
 <!ENTITY error.line1 "Disculpe, no podemos encontrar ninguna dirección de correo electrónico para sugerir.">
 <!ENTITY error.line2 "Puede intentar buscar apodos o algún otro término para encontrar más correos electrónicos">
@@ -23,7 +23,7 @@
 <!ENTITY success.title.after ", la siguiente dirección de correo electrónico está disponible para usted:">
 <!ENTITY success.tip "(También puede buscar apodos o algún otro término para encontrar más correos electrónicos)">
 <!ENTITY partnership.description "En sociedad con varios proveedores, &brandShortName; puede ofrecerle una nueva cuenta de correo electrónico. Ingrese su nombre y apellido o algunas otras palabras que desee para comenzar.">
-<!ENTITY existing.header "¿Ya tiene una dirección que desea usar¿?">
+<!ENTITY existing.header "¿Ya tiene una dirección que quiere usar?">
 <!ENTITY tinyheader.title "¿Tiene una dirección?">
 <!ENTITY tinyheader.existing "Saltear esto y usar mi correo existente">
 <!ENTITY content.close "Creo que configuraré mi cuenta después">
