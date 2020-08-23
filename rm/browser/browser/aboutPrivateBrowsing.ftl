@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Tschertgar en il web
 about-private-browsing-not-private = Ti n'es actualmain betg en ina fanestra privata.
 about-private-browsing-info-description = { -brand-short-name } stizza tia cronologia da tschertga e navigaziun cura che ti termineschas l'applicaziun u serras tut las fanestras e tut ils tabs privats. Cumbain che quai na ta renda betg anonim visavi websites u tes purschider dad internet, èsi in instrument util per impedir che autras persunas che utiliseschan quest computer vegnian ad infurmaziuns davart tias activitads online.
-
+about-private-browsing-need-more-privacy = Vuls proteger meglier tias datas?
+about-private-browsing-turn-on-vpn = Emprova { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
