@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la s
 login-intro-instruction-fxa-settings = Asegura-te de que has triau la casilla de selección Inicios de sesión en os achustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Pa obtener mas aduya, visita l' <a data-l10n-name="help-link">asistencia de { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Si los inicios de sesión s'han alzau en belatro ordinador, puetz <a data-l10n-name="import-link">importar-los en { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Si os tuyos inicios de sesión son guardaus defuera de { -brand-product-name }, puetz <a data-l10n-name="import-browser-link"> importar-los dende atro navegador</a> u <a data-l10n-name="import-file-link"> dende un archivo</a>
 
 ## Login
 
@@ -187,6 +188,7 @@ about-logins-breach-alert-learn-more-link = Saber-ne mas
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Clau vulnerable
+about-logins-vulnerable-alert-text2 = Esta clau s'ha usau con atra cuenta que ha amaneixiu en un robo de datos. Reusar credencials mete las tuyas cuentas en periglo. Cambia esta clau.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ir ta  { $hostname }
