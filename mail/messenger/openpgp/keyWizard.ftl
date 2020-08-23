@@ -5,17 +5,13 @@
 #   $identity (String) - the email address of the currently selected identity
 key-wizard-dialog-window =
     .title = Pridėkite asmeninį { $identity } „OpenPGP“ raktą
-
 key-wizard-learn-more = Sužinokite daugiau
-
 radio-create-key =
     .label = Sukurti naują „OpenPGP“ raktą
     .accesskey = n
-
 radio-import-key =
     .label = Įkelti esamą „OpenPGP“ raktą
     .accesskey = e
-
 radio-gnupg-key =
     .label = Naudoti išorinį raktą per „GnuPG“ (pvz. iš kortelės)
     .accesskey = i
@@ -23,67 +19,55 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Sugeneruoti „OpenPGP“ raktą
-
 openpgp-keygen-expiry-title = Rakto galiojimo laikas
-
 radio-keygen-expiry =
     .label = Rakto galiojimas baigiasi
     .accesskey = g
-
 radio-keygen-no-expiry =
     .label = Raktas nenustoja galioti
     .accesskey = n
-
 openpgp-keygen-days-label =
     .label = dienų
 openpgp-keygen-months-label =
     .label = mėnesių
 openpgp-keygen-years-label =
     .label = metų
-
 openpgp-keygen-advanced-title = Sudėtingesnės nuostatos
-
 openpgp-keygen-advanced-description = Valdyti sudėtingesnius „OpenPGP“ rakto parametrus.
-
 openpgp-keygen-keytype =
     .value = Rakto tipas:
     .accesskey = t
-
 openpgp-keygen-keysize =
     .value = Rakto dydis:
     .accesskey = d
-
 openpgp-keygen-type-rsa =
     .label = RSA
-
 openpgp-keygen-type-ecc =
     .label = ECC (elipsinė kreivė)
-
 openpgp-keygen-button = Sukurti raktą
-
 openpgp-keygen-progress-title = Generuojamas jūsų naujas „OpenPGP“ raktas…
-
 openpgp-keygen-import-progress-title = Importuojami jūsų „OpenPGP“ raktai…
-
 openpgp-import-success = „OpenPGP“ raktai sėkmingai importuoti.
-
 openpgp-import-success-title = Užbaigti importą
-
 openpgp-keygen-confirm =
     .label = Patvirtinti
-
 openpgp-keygen-dismiss =
     .label = Atšaukti
-
 openpgp-keygen-cancel =
     .label = Atšaukti procesą…
-
 openpgp-keygen-import-complete =
     .label = Užverti
     .accesskey = U
 
 ## Import Key section
 
+openpgp-import-fingerprint-label = „Pirštų antspaudas“
+openpgp-import-created-label = Sukurtas
+openpgp-import-bits-label = bitų
 
 ## External Key section
 
+openpgp-save-external-button = Išsaugoti rakto ID
+openpgp-external-key-label = Slapto rakto ID:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
