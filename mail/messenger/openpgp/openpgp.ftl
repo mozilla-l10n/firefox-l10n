@@ -438,6 +438,9 @@ delete-key-in-use-description = Αδύνατο να συνεχίσω! Το κλ�
 revoke-key-in-use-description = Αδύνατο να συνεχίσω! Το κλειδί που επιλέξατε για ανάκληση χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε διαφορετικό κλειδί ή μην επιλέγετε κάτι και δοκιμάστε ξανά.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Η διεύθυνση ηλεκτρονικού ταχυδρομείο '{ $keySpec }' δεν μπορεί να αντιστοιχιστεί με ένα κλειδί στο αποθετήριο κλειδιών σας.
+key-error-key-id-not-found = Το ορισμένο αναγνωριστικό κλειδιού '{ $keySpec }' δεν μπορεί να βρεθεί στο αποθετήριο κλειδιών σας.
+fail-key-import = Σφάλμα - η εισαγωγή κλειδιού απέτυχε
+file-write-failed = Αποτυχία εγγραφής στο αρχείο { $output }
 # Strings used in trust.jsm
 key-valid-unknown = άγνωστο
 key-valid-invalid = μη έγκυρο
