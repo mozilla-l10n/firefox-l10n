@@ -439,21 +439,48 @@ revoke-key-in-use-description = Αδύνατο να συνεχίσω! Το κλ�
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Η διεύθυνση ηλεκτρονικού ταχυδρομείο '{ $keySpec }' δεν μπορεί να αντιστοιχιστεί με ένα κλειδί στο αποθετήριο κλειδιών σας.
 key-error-key-id-not-found = Το ορισμένο αναγνωριστικό κλειδιού '{ $keySpec }' δεν μπορεί να βρεθεί στο αποθετήριο κλειδιών σας.
+key-error-not-accepted-as-personal = Δεν έχετε επιβεβαιώσει ότι το κλειδί με αναγνωριστικό '{ $keySpec }' είναι το προσωπικό σας κλειδί.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Η λειτουργία που έχετε επιλέξει δεν είναι διαθέσιμη σε λειτουργία εκτός σύνδεσης. Συνδεθείτε στο διαδίκτυο και δοκιμάστε ξανά.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Δεν μπορέσαμε να βρούμε κάποιο κλειδί που να ταιριάζει με τα καθορισμένα κριτήρια αναζήτησης.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Σφάλμα - Η εντολή εξαγωγής κλειδιού απέτυχε
+# Strings used in keyRing.jsm
+fail-cancel = Σφάλμα - Η λήψη του κλειδιού ακυρώθηκε από τον χρήστη
+not-first-block = Σφάλμα - Το πρώτο τμήμα OpenPGP δεν αποτελεί τμήμα δημόσιου κλειδιού
+import-key-confirm = Εισαγωγή των δημόσιων κλειδιών που είναι ενσωματωμένα στο μήνυμα;
 fail-key-import = Σφάλμα - η εισαγωγή κλειδιού απέτυχε
 file-write-failed = Αποτυχία εγγραφής στο αρχείο { $output }
+no-pgp-block = Σφάλμα - Δεν βρέθηκε έγκυρο μπλοκ δεδομένων θωράκισης OpenPGP
+confirm-permissive-import = Η εισαγωγή απέτυχε. Το κλειδί που προσπαθείτε να εισαγάγετε ενδέχεται να είναι κατεστραμμένο ή να χρησιμοποιεί άγνωστα χαρακτηριστικά. Θέλετε να προσπαθήσετε να εισαγάγετε τα τμήματα που είναι σωστά; Αυτό μπορεί να έχει ως αποτέλεσμα την εισαγωγή ημιτελών και μη χρησιμοποιήσιμων κλειδιών.
 # Strings used in trust.jsm
 key-valid-unknown = άγνωστο
 key-valid-invalid = μη έγκυρο
 key-valid-disabled = ανενεργό
+key-valid-revoked = ανακλήθηκε
+key-valid-expired = έληξε
+key-trust-untrusted = μη έμπιστο
+key-trust-marginal = οριακό
 key-trust-full = έμπιστο
+key-trust-ultimate = απόλυτο
 key-trust-group = (ομάδα)
 # Strings used in commonWorkflows.js
 import-key-file = Εισαγωγή αρχείου κλειδιού OpenPGP
 import-rev-file = Εισαγωγή αρχείου ανάκλησης OpenPGP
 gnupg-file = Αρχεία GnuPG
 import-keys-failed = Αποτυχία εισαγωγής κλειδιών
+passphrase-prompt = Εισαγάγετε τη μυστική φράση που ξεκλειδώνει το ακόλουθο κλειδί: { $key }
+file-to-big-to-import = Το αρχείο είναι πολύ μεγάλο. Μην εισαγάγετε ταυτόχρονα ένα μεγάλο σύνολο κλειδιών.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Δημιουργία & Αποθήκευση Πιστοποιητικού Ανάκλησης
+revoke-cert-ok = Το πιστοποιητικό ανάκλησης δημιουργήθηκε με επιτυχία. Μπορείτε να το χρησιμοποιήσετε για να ακυρώσετε το δημόσιο κλειδί σας, π.χ. σε περίπτωση που χάσετε το μυστικό κλειδί σας.
+revoke-cert-failed = Δεν ήταν δυνατή η δημιουργία του πιστοποιητικού ανάκλησης.
+gen-going = Η δημιουργία κλειδιού είναι ήδη σε εξέλιξη!
+keygen-missing-user-name = Δεν υπάρχει καθορισμένο όνομα για τον τρέχοντα λογαριασμό/ταυτότητα. Εισαγάγετε μια τιμή στο πεδίο  "Το όνομά σας" στις ρυθμίσεις του λογαριασμού.
+expiry-too-short = Το κλειδί σας πρέπει να είναι έγκυρο για τουλάχιστον μία ημέρα.
+expiry-too-long = Δεν μπορείτε να δημιουργήσετε ένα κλειδί που λήγει σε περισσότερο από 100 χρόνια.
+key-confirm = Να δημιουργηθεί το δημόσιο και ιδιωτικό κλειδί για την ταυτότητα '{ $id }';
 key-man-button-generate-key = &Δημιουργία κλειδιού
 key-abort = Ακύρωση δημιουργίας κλειδιού;
 key-man-button-generate-key-abort = &Ακύρωση δημιουργίας κλειδιού
@@ -461,6 +488,10 @@ key-man-button-generate-key-continue = &Συνέχεια δημιουργίας 
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Σφάλμα - αποτυχία αποκρυπτογράφησης
 fix-broken-exchange-msg-failed = Αποτυχία επιδιόρθωσης μηνύματος.
+attachment-no-match-from-signature = Δεν ήταν δυνατή η αντιστοίχιση του αρχείου υπογραφής '{ $attachment }' με κάποιο συνημμένο
+attachment-no-match-to-signature = Δεν ήταν δυνατή η αντιστοίχιση του συνημμένου '{ $attachment }' με ένα αρχείο υπογραφής
+signature-verified-ok = Η υπογραφή για το συνημμένο { $attachment } επαληθεύτηκε με επιτυχία
+signature-verify-failed = Δεν ήταν δυνατή η επαλήθευση της υπογραφής για το συνημμένο { $attachment }
 msg-ovl-button-cont-anyway = &Συνέχεια ούτως ή άλλως
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Αποστολή μηνύματος
