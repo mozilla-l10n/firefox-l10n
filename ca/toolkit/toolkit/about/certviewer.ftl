@@ -73,8 +73,7 @@ certificate-viewer-authority-info-aia = Informació de l'entitat certificadora (
 certificate-viewer-certificate-policies = Polítiques de certificats
 certificate-viewer-embedded-scts = SCT incrustats
 certificate-viewer-crl-endpoints = Punts finals CRL
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixa
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -93,6 +92,9 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Exporta
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Els vostres certificats
