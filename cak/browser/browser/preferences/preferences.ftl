@@ -762,6 +762,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Tokisäx ri nimaläj ewan tzij
     .accesskey = T
+forms-primary-pw-use =
+    .label = Tokisäx jun Nab'ey Ewan Tzij
+    .accesskey = k
 forms-primary-pw-learn-more-link = Tetamäx ch'aqa' chik
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -770,6 +773,10 @@ forms-master-pw-change =
     .label = Tijal Ajtij Ewan Tzij…
     .accesskey = A
 forms-master-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun nimaläj ewan tzij, ri man kowöl ta.
+forms-primary-pw-change =
+    .label = Tijal Nab'ey Ewan Tzij…
+    .accesskey = N
+forms-primary-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun Nab'ey Ewan Tzij ri man kowöl ta.
 forms-master-pw-fips-desc = Xsach toq Nijal ri Ewan Tzij
 
 ## OS Authentication dialog
@@ -781,6 +788,13 @@ master-password-os-auth-dialog-message-win = Richin natz'ük jun ajtij ewan atzi
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = Titz'uk jun Nimaläj Ewan Tzij
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

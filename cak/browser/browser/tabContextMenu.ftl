@@ -59,6 +59,7 @@ tab-context-close-multiple-tabs =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -79,3 +80,19 @@ move-tabs =
 move-tab =
     .label = Tisilöx Ruwi'
     .accesskey = x
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Titz'apïx Ruwi'
+            [one] Titz'apïx Ruwi'
+           *[other] Ketz'apïx Ruwi'
+        }
+    .accesskey = t
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tisilöx Ruwi'
+            [one] Tisilöx Ruwi'
+           *[other] Kesilöx Ruwi'
+        }
+    .accesskey = s
