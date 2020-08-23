@@ -36,3 +36,6 @@ openpgp-cannot-decrypt-because-mdc =
     Bere edukia lapurtzeko asmoz, bere ibilbidean aldatua izan ahal da.
     Arrisku hau ekiditeko, edukiak ez dira erakusten.
 openpgp-cannot-decrypt-because-missing-key = Mezu hau deszifratzeko behar den gako sekretua ez dago erabilgarri.
+openpgp-partially-signed =
+    Mezu honen azpitalde bat bakarrik dago digitalki sinatua OpenPGP erabiliz.
+    Egiaztatze botoia sakatzen baduzu, atal ez abestuak gorde egingo dira, eta sinadura digitalaren egoera erakutsiko da.
