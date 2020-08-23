@@ -11,7 +11,7 @@ about-private-browsing =
     .title = Αναζήτηση στο διαδίκτυο
 about-private-browsing-not-private = Αυτή τη στιγμή, δεν βρίσκεστε σε κάποιο ιδιωτικό παράθυρο.
 about-private-browsing-info-description = Το { -brand-short-name } διαγράφει το ιστορικό αναζήτησης και περιήγησής σας όταν κλείνετε την εφαρμογή ή όλα τα παράθυρα και τις καρτέλες ιδιωτικής περιήγησης. Αν και δεν έχετε πλήρη ανωνυμία στις ιστοσελίδες ή τον πάροχο υπηρεσίας διαδικτύου, μπορείτε να διατηρείτε τις δραστηριότητές σας ιδιωτικές από τους άλλους χρήστες αυτού του υπολογιστή πιο εύκολα.
-
+about-private-browsing-turn-on-vpn = Δοκιμή του { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
