@@ -5,46 +5,33 @@
 otr-auth =
     .title = Patikrinkite adresato tapatybę
     .buttonlabelaccept = Patikrinti
-
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 auth-title = Patikrinkite { $name } tapatybę
-
 # Variables:
 #   $own_name (String) - the user's own screen name
 auth-your-fp-value = Jūsų - { $own_name } - „piršto antspaudas":
-
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = { $their_name } „pirštų antspaudas“:
-
 auth-questionReceived = Jūsų adresatas uždavė klausimą:
-
 auth-yes =
     .label = Taip
-
 auth-no =
     .label = Ne
-
 auth-verified = Aš įsitikinau, kad tai iš tikrųjų yra teisingas „pirštų atspaudas“.
-
 auth-manualVerification = Rankinis „pirštų atspaudų“ patikrinimas
 auth-questionAndAnswer = Klausimas ir atsakymas
 auth-sharedSecret = Bendra paslaptis
-
 auth-manualVerification-label =
     .label = { auth-manualVerification }
-
 auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
-
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
-
 auth-how = Kaip norėtumėte patikrinti adresato tapatybę?
-
+auth-qaInstruction = Sugalvokite klausimą, į kurį atsakymą žinote tik jūs ir jūsų kontaktas. Įveskite klausimą ir atsakymą, tada palaukite, kol kontaktas įves atsakymą. Jei atsakymai nesutampa, jūsų naudojamas ryšio kanalas gali būti stebimas.
+auth-secretInstruction = Sugalvokite paslaptį, žinomą tik jums ir jūsų kontaktui. Nenaudokite to paties interneto ryšio pasikeisdami paslaptimi. Įveskite paslaptį, tada palaukite, kol jūsų kontaktas ją įves. Jei paslaptys nesutampa, jūsų naudojamas ryšio kanalas gali būti stebimas.
 auth-question = Įveskite klausimą:
-
 auth-answer = Įveskite atsakymą (didžiosios ir mažosios raidės skiriasi !):
-
 auth-secret = Įveskite paslaptį:
