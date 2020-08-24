@@ -93,6 +93,9 @@ servidor.</li>
 <!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
 <!ENTITY cspBlocked.longDesc "<p>O navegador impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
+<!ENTITY xfoBlocked.title "Bloqueado pola política de X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>O navegador impediu que esta páxina se cargase neste contexto porque a páxina ten unha política de X-Frame-Options que o prohibe.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Erro de contido danado">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
