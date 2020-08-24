@@ -39,5 +39,10 @@ openpgp-cannot-decrypt-because-missing-key = Nėra slapto rakto, reikalingo iš�
 openpgp-partially-signed =
     Tik dalis šio pranešimo buvo pasirašyta skaitmeniniu būdu naudojant „OpenPGP“.
     Jei spustelėsite patvirtinimo mygtuką, neapsaugotos dalys bus paslėptos ir bus parodyta skaitmeninio parašo būsena.
+openpgp-partially-encrypted =
+    Tik dalis šio pranešimo buvo užšifruota naudojant „OpenPGP“.
+    Dabar rodomos pranešimo dalys nebuvo užšifruotos.
+    Jei spustelėsite iššifruoti mygtuką, bus parodytas užšifruotų dalių turinys.
+openpgp-reminder-partial-display = Priminimas: žemiau rdomas pranešimas yra tik viso pranešimo dalis.
 openpgp-partial-verify-button = Patikrinti
 openpgp-partial-decrypt-button = Iššifruoti
