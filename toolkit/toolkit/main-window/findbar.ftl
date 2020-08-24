@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Localizar a seguinte aparición da frase
 findbar-previous =
     .tooltiptext = Localizar a anterior aparición da frase
-
 findbar-find-button-close =
     .tooltiptext = Pechar a barra de localización
-
 findbar-highlight-all2 =
     .label = Realzar todo
     .accesskey =
@@ -21,12 +19,14 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Realzar todas as aparicións da frase
-
 findbar-case-sensitive =
     .label = Diferenciar maiúsculas de minúsculas
     .accesskey = c
     .tooltiptext = Diferencias maiúsculas de minúsculas na busca
-
+findbar-match-diacritics =
+    .label = Distinguir diacríticos
+    .accesskey = i
+    .tooltiptext = Distingue entre as letras acentuadas e as que non (por exemplo, ao buscarmos «óso», «oso» non sae na busca)
 findbar-entire-word =
     .label = Palabras completas
     .accesskey = P

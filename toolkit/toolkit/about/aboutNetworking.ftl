@@ -6,11 +6,14 @@ about-networking-title = Sobre o tráfico da rede
 about-networking-http = HTTP
 about-networking-sockets = Sóckets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Limpar a caché de DNS
+about-networking-dns-suffix = Sufixo de DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Actualizar
 about-networking-auto-refresh = Actualizar automaticamente cada 3 segundos
 about-networking-hostname = Nome do servidor
 about-networking-port = Porto
+about-networking-http-version = Versión de HTTP
 about-networking-ssl = SSL
 about-networking-active = Activo
 about-networking-idle = Inactivo
@@ -22,6 +25,7 @@ about-networking-family = Familia
 about-networking-trr = TRR
 about-networking-addresses = Enderezos
 about-networking-expires = Caduca (Segundos)
+about-networking-originAttributesSuffix = Clave de illamento
 about-networking-messages-sent = Mensaxes enviadas
 about-networking-messages-received = Mensaxes recibidas
 about-networking-bytes-sent = Bytes enviados
@@ -53,9 +57,13 @@ about-networking-rcwn-avg-long = Media longa
 about-networking-rcwn-std-dev-long = Desviación estándar longa
 about-networking-rcwn-cache-slow = Reconto de caché lento
 about-networking-rcwn-cache-not-slow = Reconto de caché non lento
+about-networking-networkid = ID de rede
+about-networking-networkid-id = ID de rede
 
 ## Link is intended as "network link"
 
+about-networking-networkid-is-up = A ligazón está activa
+about-networking-networkid-status-known = O estado da ligazón é coñecido
 
 ##
 
