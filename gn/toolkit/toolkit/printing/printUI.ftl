@@ -56,6 +56,7 @@ printui-system-dialog-link = Emonguatia eipurúvo apopyvusu rovetã…
 printui-primary-button = Ñemonguatia
 printui-primary-button-save = Ñongatu
 printui-cancel-button = Heja
+printui-loading = Ehecháta jehechaha ñepyrũ
 
 ## Error messages shown when a user has an invalid input
 
