@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Kundaha ñemi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Kundaha ñemi)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Kundaha ñemi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Kundaha ñemi)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.
 urlbar-install-blocked =
     .tooltiptext = Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Ko techaukaha mbosako’i ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ko’ág̃a, eheka hendive:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Jeheka mba’epytyvõrã moambue
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Jeheka mba’epytyvõrã moambue
-
 search-one-offs-context-open-new-tab =
     .label = Tendayke pyahúpe jeheka
     .accesskey = T
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Emoĩ jehekaha mongu’eha ijypykuévaramo ovetã ñemíme
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Ehechauka mbosako’iha eñongatúvo
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Mohu’ã
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = Ñe’ẽatãha hetápe g̃uarãva:
     .accesskey = M
 popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.
-
 popup-screen-sharing-not-now =
     .label = Ani ko’ág̃a
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = Ani emoneĩ araka’eve
     .accesskey = N
-
 popup-silence-notifications-checkbox = Embogue momarandu’i { -brand-short-name } emoherakuã aja
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ndohechaukamo’ãi momarandu’i oñemoherakuã aja.
 
@@ -326,17 +314,30 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Eipurútarõ mbopya’eha F12 embojurujaraẽ DevTools ñanduti Mboguatahára poravorãme.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ñe’ẽreka ýrõ kundaharape
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ñe’ẽreka ýrõ kundaharape
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Eheka ñandutípe
+    .aria-label = Eheka { $name } ndive
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Emoinge ñe’ẽ ehekaséva
+    .aria-label = Eheka { $name }
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -347,11 +348,9 @@ urlbar-permissions-granted =
     .tooltiptext = Oñeme’ẽ ko ñanduti rendápe ñemoneĩ jo’a.
 urlbar-switch-to-tab =
     .value = Tendayképe jeguerova:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Jepysokue:
-
 urlbar-go-button =
     .tooltiptext = Kundaharape renda URL-pe jeho
 urlbar-page-action-button =
