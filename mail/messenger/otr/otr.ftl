@@ -35,6 +35,8 @@ msgevent-log_heartbeat_rcvd = Gautas ryšio palaikymo paketas iš { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = Ryšio palaikymo paketas išsiųstas { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Bandant apsaugoti jūsų užšifruotą neįrašomą pokalbį (OTR), įvyko netikėta klaida.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
@@ -45,10 +47,16 @@ msgevent-rcvdmsg_unencrypted = Šis pranešimas, gautas iš „{ $name }“, neb
 msgevent-rcvdmsg_unrecognized = Gavote neatpažintą OTR pranešimą iš { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = „{ $name }“ atsiuntė pranešimą, skirtą kitai sesijai. Jei esate prisijungę kelis kartus, pranešimą gali gauti kita sesija.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Pradėtas privatus pokalbis su „{ $name }“.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Pradėtas šifruotas, bet nepatvirtintas pokalbis su { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Sėkmingai atnaujinote užšifruotą pokalbį su „{ $name }“.
 error-enc = Šifruojant pranešimą įvyko klaida.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -59,3 +67,8 @@ resent = [pakartoti]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = „{ $name }“ baigė užšifruotą pokalbį su jumis; turėtumėt užbaigti ir jūs.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = „{ $name }“ paprašė užšifruoto neįrašomo pokalbio (OTR). Tačiau jūs neturite papildinio, kuris tai palaikytų. Norėdami gauti daugiau informacijos, apsilankykite https://en.wikipedia.org/wiki/Off-the-Record_Messaging.
