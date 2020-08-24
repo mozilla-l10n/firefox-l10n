@@ -80,10 +80,16 @@ openpgp-key-man-export-to-file =
 openpgp-key-man-send-keys =
     .label = Siųsti viešą (-us) raktą (-us) el. paštu
     .accesskey = S
+openpgp-key-man-discover-cmd =
+    .label = Ieškoti raktų internete
+    .accesskey = I
 openpgp-key-man-discover-progress = Ieškoma…
 openpgp-key-copy-key =
     .label = Kopijuoti viešąjį raktą
     .accesskey = K
+openpgp-key-export-key =
+    .label = Eksportuoti viešą (-us) raktą (-us) į failą
+    .accesskey = E
 openpgp-key-man-del-key =
     .label = Ištrinti raktą (-us)
     .accesskey = I
@@ -114,6 +120,8 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Pasirinkti visus raktus
     .accesskey = v
+openpgp-key-man-please-wait-tooltip =
+    .label = Palaukite, raktai įkeliami…
 openpgp-key-man-select-all-key =
     .key = v
 openpgp-key-details-title =
@@ -216,6 +224,51 @@ keyserver-error-unknown = Įvyko nežinoma klaida
 keyserver-error-server-error = Raktų serveris pranešė apie klaidą.
 keyserver-error-import-error = Nepavyko importuoti atsisiųsto rakto.
 keyserver-error-unavailable = Raktų serveris nepasiekiamas.
+keyserver-error-certificate-error = Raktų serverio sertifikatas negalioja.
+keyserver-error-unsupported = Raktų serveris nepalaikomas.
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Raktai sėkmingai importuoti
+import-info-bits = bitų
+import-info-created = Sukurtas
+import-info-fpr = „Pirštų antspaudas“
 
 ## Account settings export output
 
+key-ring-pub-key-expired = Rakto „{ $userId }“ (rakto ID „{ $keyId }“) galiojimas pasibaigęs.
+key-ring-key-disabled = Raktas „{ $userId }“ (rakto ID „{ $keyId }“) išjungtas; jo negalima naudoti.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Nuotrauka
+user-att-photo = Vartotojo atributas (JPEG vaizdas)
+# Strings in key.jsm
+already-revoked = Šis raktas atšauktas.
+openpgp-key-revoke-success = Raktas sėkmingai atšauktas.
+delete-key-title = Pašalingti „OpenPGP“ raktą
+delete-external-key-title = Pašalinti išorinį „GnuPG“ raktą
+key-in-use-title = Šis „OpenPGP“ raktas šiuo metu naudojamas
+# Strings used in trust.jsm
+key-valid-unknown = nežinomas
+key-valid-invalid = netinkamas
+key-valid-disabled = išjungtas
+key-valid-revoked = atšauktas
+key-valid-expired = nebegalioja
+key-trust-untrusted = nepatikimas
+key-trust-full = patikimas
+key-trust-group = (grupė)
+# Strings used in commonWorkflows.js
+import-key-file = Importuoti „OpenPGP“ raktų failą
+import-rev-file = Importuoti „OpenPGP“ atšaukimų failą
+gnupg-file = „GnuPG“ failai
+expiry-too-long = Negalite sukurti rakto, kurio galiojimo laikas baigsis daugiau nei po 100 metų.
+key-confirm = Generuoti viešą ir slaptąjį „{ $id }“ raktą?
+key-not-found = Raktas „{ $key }“ nerastas
+key-revoked = Raktas „{ $key }“ buvo atšauktas
+key-expired = Raktas „{ $key }“ nebegalioja
+repeat-suffix-singular = daugiau laiko.
+repeat-suffix-plural = daugiau kartų.
+no-repeat = Šis perspėjimas daugiau nebus rodomas.
+dlg-keep-setting = Įsiminti mano atsakymą ir daugiau nebeklausti
+# Strings used in enigmailCommon.js
+enig-error = „OpenPGP“ klaida
+enig-alert-title =
+    .title = „OpenPGP“ įspėjimas
