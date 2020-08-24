@@ -92,10 +92,10 @@ detail-private-browsing-label = Executar en xanelas privadas
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Non se admite en xanelas privadas
-detail-private-disallowed-description2 = Esta extensión non se executa durante a navegación privada. <a data-l10n-name="learn-more-link">Saiba máis</a>
+detail-private-disallowed-description2 = Esta extensión non se executa durante a navegación privada. <a data-l10n-name="learn-more">Saiba máis</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Require acceso a xanelas privadas
-detail-private-required-description2 = Esta extensión ten acceso ás súas actividades en liña mentres navega de xeito privado. <a data-l10n-name="learn-more-link">Saiba máis</a>
+detail-private-required-description2 = Esta extensión ten acceso ás súas actividades en liña mentres navega de xeito privado. <a data-l10n-name="learn-more">Saiba máis</a>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Permitir durante a navegación privada
