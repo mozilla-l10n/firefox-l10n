@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Reproducir">
 <!ENTITY playButton.pauseLabel "Pausa">
 <!ENTITY muteButton.muteLabel "Enmudecer">
@@ -10,10 +14,22 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Saír de pantalla completa">
 <!ENTITY castingButton.castingLabel "Enviar á pantalla">
 <!ENTITY closedCaption.off "Desactivado">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Control de volume">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Imaxe en imaxe">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Ver imaxe en imaxe">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Reproduza vídeos en primeiro plano mentres fai outras cousas en &brandShortName;">
 
 <!ENTITY error.aborted "Detívose a carga do vídeo.">
 <!ENTITY error.network "Interrompeuse a reprodución do vídeo debido a un erro da rede.">
@@ -21,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Non se admite o formato de vídeo ou o tipo MIME.">
 <!ENTITY error.noSource2 "Non se atopou un vídeo cun formato ou tipo MIME compatíbel.">
 <!ENTITY error.generic "Interrompeuse a reprodución do vídeo debido a un erro descoñecido.">
+
+<!ENTITY status.pictureInPicture "Este vídeo reprodúcese no modo imaxe en imaxe.">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

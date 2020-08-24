@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Información sobre o clasificador de URL
+url-classifier-search-title = Buscar
+url-classifier-search-result-title = Resultados
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Lista de táboas: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL non válido
+url-classifier-search-error-no-features = Non hai seleccionadas funcións
+url-classifier-search-btn = Comezar a buscar
+url-classifier-search-features = Características
+url-classifier-search-listType = Tipo de lista
 url-classifier-provider-title = Fornecedor
 url-classifier-provider = Fornecedor
 url-classifier-provider-last-update-time = Última actualización
@@ -30,7 +40,6 @@ url-classifier-debug-sb-modules = Módulos de rexistro da navegación segura
 url-classifier-debug-modules = Módulos actuais do rexistro
 url-classifier-debug-sbjs-modules = Rexistro JS da navegación segura
 url-classifier-debug-file = Ficheiro actual do rexistro
-
 url-classifier-trigger-update = Accionar actualización
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Desactivar o rexistro JS da navegación segura
