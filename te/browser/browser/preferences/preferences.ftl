@@ -686,6 +686,9 @@ forms-master-pw-change =
     .label = ప్రధాన సంకేతపదాన్ని మార్చు…
     .accesskey = M
 forms-master-pw-fips-title = మీరు ప్రస్తుతం FIPS రీతిలో ఉన్నారు. FIPS కు ఒక ఖాళీ-కాని ముఖ్య సంకేతపదం అవసరము.
+forms-primary-pw-change =
+    .label = ప్రధాన సంకేతపదాన్ని మార్చు…
+    .accesskey = P
 forms-master-pw-fips-desc = సంకేతపదం మార్పు విఫలమైంది
 
 ## OS Authentication dialog
@@ -753,8 +756,12 @@ sitedata-block-desc = నిరోధించిన రకం
     .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = క్రాస్-సైట్ ట్రాకర్లు
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = క్రాస్-సైటు, సామాజిక మాధ్యమాల ట్రాకర్లు
 sitedata-option-block-unvisited =
     .label = చూడని వెబ్‌సైట్ల కుకీలు
+sitedata-option-block-all-third-party =
+    .label = మూడవ-పక్ష కుకీలన్నీ (కొన్ని వెబ్‌సైట్లు పనిచేయకపోవచ్చు)
 sitedata-option-block-all =
     .label = కుకీలన్నీ (వెబ్‌సైట్లు పనిచేయకపోడానికి కారణమవుతుంది)
 sitedata-clear =
