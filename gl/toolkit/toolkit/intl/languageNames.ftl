@@ -188,6 +188,7 @@ language-name-tlh = Klingon
 language-name-tn = Tswana
 language-name-to = Tonga
 language-name-tr = Turco
+language-name-trs = Triqui
 language-name-ts = Xitsonga
 language-name-tt = Tártaro
 language-name-tw = Twi
