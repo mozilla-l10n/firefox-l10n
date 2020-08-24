@@ -75,6 +75,8 @@ openpgp-keygen-error-failed = „OpenPGP“ raktų generavimas netikėtai nutrū
 openpgp-keygen-error-revocation = „OpenPGP“ raktas sukurtas sėkmingai, tačiau nepavyko atšaukti rakto „{ $key }“
 openpgp-keygen-abort-title = Nutraukti raktų generavimą?
 openpgp-keygen-abort = Šiuo metu generuojami „OpenPGP“ raktai, ar tikrai norite atšaukti?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Generuoti viešą ir slaptąjį „{ $identity }“ raktą?
 
 ## Import Key section
 
