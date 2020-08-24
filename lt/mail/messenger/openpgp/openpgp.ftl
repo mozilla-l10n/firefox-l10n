@@ -134,12 +134,53 @@ key-accept-personal =
     Šiam raktui turite ir viešoją, ir slaptąją dalis. Galite naudoti jį kaip asmeninį raktą.
     Bet jei šį raktą jums davė kažkas kitas, nenaudokite jo kaip asmeninio rakto.
 key-personal-warning = Ar pats sukūrėte šį raktą, o rodomas rakto savininkas nurodo jus?
+openpgp-personal-no-label =
+    .label = Ne, nenaudoti jo kaip mano asmeninio rakto.
+openpgp-personal-yes-label =
+    .label = Taip, tai asmeninis raktas.
+openpgp-copy-cmd-label =
+    .label = Kopijuoti
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Pridėti raktą…
+    .accesskey = P
+e2e-learn-more = Sužinoti daugiau
+openpgp-keygen-success = „OpenPGP“ raktas sukurtas sėkmingai!
+openpgp-keygen-import-success = „OpenPGP“ raktai sėkmingai importuoti!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Joks
+openpgp-radio-none-desc = Šiai tapatybei „OpenPGP“ nenaudoti.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Galiojimas baigiasi: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Raktas baigs galioti mažiau nei po 6 mėnesių
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Negalioja nuo: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Raktas nebegalioja
+openpgp-key-expand-section =
+    .tooltiptext = Daugiau informacijos
+openpgp-key-revoke-title = Atšaukti raktą
+openpgp-key-edit-title = Pakeisti „OpenPGP“ raktą
+openpgp-key-edit-date-title = Pratęsti galiojimo datą
+# Strings in keyDetailsDlg.xhtml
+key-type-public = viešas raktas
+key-type-primary = pirminis raktas
+key-type-subkey = dalinis raktas
+key-type-pair = raktų pora (slaptas ir viešas raktai)
+key-expiry-never = niekada
+key-usage-encrypt = Užšifruoti
+key-usage-sign = Pasirašyti
+key-usage-certify = Patvirtinti
+key-does-not-expire = Raktas nenustoja galioti
+key-expired-date = Raktas negalioja nuo { $keyExpiry }
+key-expired-simple = Raktas nebegalioja
+key-revoked-simple = Raktas atšauktas
 
 ## Account settings export output
 
