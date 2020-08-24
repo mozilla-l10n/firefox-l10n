@@ -17,5 +17,5 @@ fxa-signout-checkbox =
     .label = Az adatok törlése az eszközről (bejelentkezések, jelszavak, előzmények, könyvjelzők stb.).
 fxa-signout-dialog =
     .title = Kijelentkezés a { -fxaccount-brand-name }ból
-    .style = min-width:375px;
+    .style = min-width: 375px;
     .buttonlabelaccept = Kijelentkezés
