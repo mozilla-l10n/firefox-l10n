@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Keresés a weben
 about-private-browsing-not-private = Jelenleg nem privát ablakot használ.
 about-private-browsing-info-description = A { -brand-short-name } törli a keresési és böngészési előzményeit, ha kilép az alkalmazásból, vagy bezárja az összes privát böngészési lapot és ablakot. Ugyan ez nem teszi névtelenné a weboldalak vagy a szolgáltatója felé, könnyebbé teszi, hogy bizalmasan kezelje az online tevékenységét, és más ne tudjon róla, aki ezt a számítógépet használja.
-
+about-private-browsing-need-more-privacy = Több adatvédelemre van szüksége?
+about-private-browsing-turn-on-vpn = Próbálja ki a { -mozilla-vpn-brand-name }-t
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
