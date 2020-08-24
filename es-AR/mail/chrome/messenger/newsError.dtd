@@ -20,7 +20,7 @@
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
-<!ENTITY articleExpired.title "¿Tal vez el artículo ha expirado?">
+<!ENTITY articleExpired.title "¿Tal vez el artículo ya caducó?">
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
