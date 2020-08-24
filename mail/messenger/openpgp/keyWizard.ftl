@@ -5,6 +5,9 @@
 #   $identity (String) - the email address of the currently selected identity
 key-wizard-dialog-window =
     .title = Pridėkite asmeninį { $identity } „OpenPGP“ raktą
+key-wizard-button =
+    .buttonlabelaccept = Tęsti
+    .buttonlabelhelp = Tęsti
 key-wizard-learn-more = Sužinokite daugiau
 radio-create-key =
     .label = Sukurti naują „OpenPGP“ raktą
@@ -61,12 +64,24 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b> Klaida!</b> Nepavyko importuoti failo. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b> Klaida!</b> Nepavyko importuoti raktų. { $error }
+openpgp-import-identity-label = Tapatybė
 openpgp-import-fingerprint-label = „Pirštų antspaudas“
 openpgp-import-created-label = Sukurtas
 openpgp-import-bits-label = bitų
+openpgp-import-key-props =
+    .label = Rakto savybės
+    .accesskey = s
 
 ## External Key section
 
+openpgp-external-key-title = Išorinis „GnuPG“ raktas
+openpgp-external-key-description = Konfigūruokite išorinį „GnuPG“ raktą, įvesdami rakto ID
+openpgp-external-key-info = Be to, norėdami importuoti ir priimti atitinkamą viešąjį raktą, turite naudoti „Key Manager“.
+openpgp-external-key-warning = <b> Galima sukonfigūruoti tik vieną išorinį „GnuPG“ raktą.</b> Jūsų ankstesnis įrašas bus pakeistas.
 openpgp-save-external-button = Išsaugoti rakto ID
 openpgp-external-key-label = Slapto rakto ID:
 openpgp-external-key-input =
