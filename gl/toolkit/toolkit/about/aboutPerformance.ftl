@@ -10,6 +10,7 @@ about-performance-title = Xestor de tarefas
 column-name = Nome
 column-type = Tipo
 column-energy-impact = Impacto enerxético
+column-memory = Memoria
 
 ## Special values for the Name column
 
@@ -43,18 +44,21 @@ energy-impact-low = Baixo ({ $value })
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
+
 ## Tooltips for the action buttons
 
 close-tab =
     .title = Pechar lapela
 show-addon =
     .title = Amosar no xestor de complementos
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
-#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
 #   $totalDuration (Number) - how much CPU time was used by this page since it loaded
-#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
     .title =

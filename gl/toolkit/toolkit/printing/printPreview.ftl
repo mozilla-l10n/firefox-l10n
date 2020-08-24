@@ -31,6 +31,7 @@ printpreview-print =
     .accesskey = I
 printpreview-of =
     .value = de
+printpreview-custom-scale-prompt-title = Personalizar escala
 printpreview-page-setup =
     .label = Configuración da páxina…
     .accesskey = u
@@ -42,6 +43,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Primeira páxina
@@ -54,4 +57,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Última páxina
-
