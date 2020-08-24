@@ -436,9 +436,9 @@ key-man-button-revoke-key = Sleutel &intrekken
 openpgp-key-revoke-success = Sleutel met succes ingetrokken.
 after-revoke-info =
     De sleutel is ingetrokken.
-    Deel deze openbare sleutel opnieuw door deze per e-mail te verzenden of door deze naar sleutelservers te uploaden, zodat anderen weten dat u uw sleutel hebt ingetrokken.
+    Deel deze publieke sleutel opnieuw door deze per e-mail te verzenden of door deze naar sleutelservers te uploaden, zodat anderen weten dat u uw sleutel hebt ingetrokken.
     Zodra de software die door andere mensen wordt gebruikt over de intrekking wordt geïnformeerd zal deze uw oude sleutel niet meer gebruiken.
-    Als u een nieuwe sleutel gebruikt voor hetzelfde e-mailadres en u voegt de nieuwe openbare sleutel toe aan e-mailberichten die u verzendt, dan wordt automatisch informatie over uw ingetrokken oude sleutel toegevoegd.
+    Als u een nieuwe sleutel gebruikt voor hetzelfde e-mailadres en u voegt de nieuwe publieke sleutel toe aan e-mailberichten die u verzendt, dan wordt automatisch informatie over uw ingetrokken oude sleutel toegevoegd.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importeren
 delete-key-title = OpenPGP-sleutel verwijderen
