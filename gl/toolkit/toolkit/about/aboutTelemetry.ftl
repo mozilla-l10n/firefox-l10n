@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Orixe dos datos de ping:
+about-telemetry-show-current-data = Datos actuais
 about-telemetry-show-archived-ping-data = Datos arquivados de ping
 about-telemetry-show-subsession-data = Amosar datos de subsesión
 about-telemetry-choose-ping = Escolla ping:
@@ -14,6 +15,7 @@ about-telemetry-option-group-older = Máis antigo
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datos telemétricos
+about-telemetry-current-store = Almacén actual:
 about-telemetry-more-information = Busca máis información?
 about-telemetry-firefox-data-doc = A <a data-l10n-name="data-doc-link">documentación dos datos de Firefox</a> contén guías sobre como traballar coas nosas ferramentas de datos.
 about-telemetry-telemetry-client-doc = A <a data-l10n-name="client-doc-link">documentación do cliente de telemetría de Firefox</a> inclúe definicións de conceptos, documentación da API e referencias de datos.
@@ -55,6 +57,16 @@ about-telemetry-upload-type =
         [enabled] activada
        *[disabled] desactivada
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } mostra, media = { $prettyAverage }, suma = { $sum }
+       *[other] { $sampleCount } mostras, media = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Esta páxina amosa a información sobre o rendemento, o hardware, o uso e as personalizacións recollidas por telemetría. Esta información envíase a { $telemetryServerOwner } para mellorar o { -brand-full-name }.
@@ -63,6 +75,7 @@ about-telemetry-settings-explanation = A telemetría está recollendo { about-te
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Cada anaco de información envíase empaquetado en «<a data-l10n-name="ping-link">pings</a>». Vostede está mirando o ping { $name }, { $timestamp }.
+about-telemetry-data-details-current = Cada anaco de información envíase empaquetado en «<a data-l10n-name="ping-link">pings</a>». Vostede está mirando os datos actuais.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -87,6 +100,8 @@ about-telemetry-no-search-results-all = Desculpe! Non hai resultados para «{ $s
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Desculpe! Neste momento ningún dato dispoñíbel en «{ $sectionName }»
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = datos actuais
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = todo
 # button label to copy the histogram
@@ -121,3 +136,12 @@ about-telemetry-category-header = categoría
 about-telemetry-method-header = método
 about-telemetry-object-header = obxecto
 about-telemetry-extra-header = extra
+about-telemetry-origin-section = Telemetría de orixe
+about-telemetry-origin-origin = orixe
+about-telemetry-origin-count = conta
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Telemetría de orixe de Firefox</a> codifica os datos antes de que se envíen para que { $telemetryServerOwner } poida contar cousas, pero non sabe se hai ou non algún { -brand-product-name } contribuíu a ese reconto. (<a data-l10n-name="prio-blog-link"> máis información </a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = proceso { $process }

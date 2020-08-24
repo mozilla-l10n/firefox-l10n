@@ -99,6 +99,9 @@ detail-private-required-description2 = Esta extensión ten acceso ás súas acti
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Permitir durante a navegación privada
+detail-private-browsing-off =
+    .label = Non permitir
+    .tooltiptext = Desactivar durante a navegación en privado
 detail-home =
     .label = Páxina de inicio
 detail-home-value =
@@ -141,6 +144,12 @@ legacy-warning-show-legacy = Amosar as extensións herdadas
 legacy-extensions =
     .value = Extensións herdadas
 legacy-extensions-description = Estas extensións non cumpren os estándares actuais de { -brand-short-name }, así que foron desactivadas. <label data-l10n-name="legacy-learn-more">Máis información sobre os cambios nos complementos</label>
+private-browsing-description2 =
+    { -brand-short-name } está a cambiar o funcionamento das extensións na navegación privada. Ningunha das extensións que engada
+    { -brand-short-name } se executará por omisión nas xanelas privadas. A menos que o permita nos axustes, a
+    extensión non funcionará durante a navegación privada e non terá acceso ás súas actividades na rede
+    alí. Fixemos este cambio para manter a navegación privada privada.
+    <label data-l10n-name = "private-browsing-learn-more"> Aprenda a xestionar a configuración de extensións </label>
 addon-category-discover = Recomendacións
 addon-category-discover-title =
     .title = Recomendacións
@@ -232,6 +241,7 @@ shortcuts-modifier-mac = Incluír Ctrl, Alt ou ⌘
 shortcuts-modifier-other = Incluír Ctrl ou Alt
 shortcuts-invalid = A combinación non é válida
 shortcuts-letter = Escriba unha letra
+shortcuts-system = Non é posíbel anular un atallo de { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Atallo duplicado
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
@@ -242,6 +252,11 @@ shortcuts-duplicate-warning-message = { $shortcut } utilízase como atallo en m�
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Xa está en uso por { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Amosar { $numberToShow } máis
+       *[other] Amosar { $numberToShow } máis
+    }
 shortcuts-card-collapse-button = Amosar menos
 header-back-button =
     .title = Retroceder
@@ -286,15 +301,96 @@ addon-options-button =
 
 report-addon-button = Informar
 remove-addon-button = Eliminar
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Non é posíbel eliminar <a data-l10n-name="link">Por que?</a>
 disable-addon-button = Desactivar
 enable-addon-button = Activar
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = Activar
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opcións
+       *[other] Preferencias
+    }
+details-addon-button = Detalles
+release-notes-addon-button = Notas da versión
+permissions-addon-button = Permisos
+extension-enabled-heading = Activado
+extension-disabled-heading = Desactivado
+theme-enabled-heading = Activado
+theme-disabled-heading = Desactivado
+plugin-enabled-heading = Activado
+plugin-disabled-heading = Desactivado
+dictionary-enabled-heading = Activado
+dictionary-disabled-heading = Desactivado
+locale-enabled-heading = Activado
+locale-disabled-heading = Desactivado
+ask-to-activate-button = Preguntar para activar
+always-activate-button = Activar sempre
+never-activate-button = Non activar nunca
+addon-detail-author-label = Autor
+addon-detail-version-label = Versión
+addon-detail-last-updated-label = Última actualización
+addon-detail-homepage-label = Páxina de inicio
+addon-detail-rating-label = Puntuación
+# Message for add-ons with a staged pending update.
+install-postponed-message = Esta extensión actualizarase ao reiniciar o { -brand-short-name }.
+install-postponed-button = Actualizar agora
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Puntuación { NUMBER($rating, maximumFractionDigits: 1) } sobre 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (desactivado)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] Comentario de { $numberOfReviews }
+       *[other] Comentarios de { $numberOfReviews }
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Eliminouse <span data-l10n-name = "addon-name"> { $addon } </span>.
+pending-uninstall-undo-button = Desfacer
+addon-detail-updates-label = Permitir actualizacións automáticas
+addon-detail-updates-radio-default = Predeterminado
+addon-detail-updates-radio-on = Activado
+addon-detail-updates-radio-off = Desactivado
+addon-detail-update-check-label = Buscar actualizacións
+install-update-button = Actualizar
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permitido nas xanelas privadas
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Se o permiten, a extensión terá acceso ás súas actividades en liña mentres navega privadamente. <a data-l10n-name="learn-more"> Máis información </a>
+addon-detail-private-browsing-allow = Permitir
+addon-detail-private-browsing-disallow = Non permitir
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } só recomenda extensións que cumpran os nosos estándares de seguridade e rendemento
+    .aria-label = { addon-badge-recommended2.title }
+available-updates-heading = Actualizacións dispoñíbeis
+recent-updates-heading = Actualizacións recentes
+release-notes-loading = Cargando…
+release-notes-error = Sentímolo, pero produciuse un erro ao cargar as notas do lanzamento.
+addon-permissions-empty = Esta extensión non require ningún permiso
+recommended-extensions-heading = Extensións recomendadas
+recommended-themes-heading = Temas recomendados
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Séntese creativo? <a data-l10n-name="link">Cree o seu propio tema con Firefox Color.</a>
 
 ## Page headings
 
@@ -303,6 +399,10 @@ theme-heading = Xestione os seus temas
 plugin-heading = Xestione os seus engadidos
 dictionary-heading = Xestione os seus dicionarios
 locale-heading = Xestione os seus idiomas
+updates-heading = Xestione as súas actualizacións
+discover-heading = Personalice o seu { -brand-short-name }
+shortcuts-heading = Xestionar atallos de extensións
+default-heading-search-label = Atopar máis complementos
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
 addon-page-options-button =
