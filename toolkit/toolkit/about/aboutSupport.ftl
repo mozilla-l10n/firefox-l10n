@@ -77,6 +77,10 @@ show-dir-label =
         [windows] Abrir cartafol
        *[other] Abrir cartafol
     }
+environment-variables-title = Variables de contorno
+environment-variables-name = Nome
+environment-variables-value = Valor
+experimental-features-title = Características experimentais
 experimental-features-name = Nome
 experimental-features-value = Valor
 modified-key-prefs-title = Preferencias importantes modificadas
@@ -96,6 +100,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Rexistro de decisións
 graphics-crash-guards-title = Características desactivadas para a protección contra fallos
 graphics-workarounds-title = Solucións alternativas
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocolo de xanelas
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Ambiente de escritorio
 place-database-title = Bases de datos de lugares
@@ -123,6 +129,7 @@ restart-in-safe-mode-label = Reiniciar cos complementos desactivados…
 clear-startup-cache-title = Intente limpar a caché de inicio
 clear-startup-cache-label = Borrar a caché de inicio ...
 startup-cache-dialog-title = Limpar a caché de inicio
+startup-cache-dialog-body = Reinicie { -brand-short-name } para limpar a caché de inicio. Isto non cambiará a súa configuración nin eliminará as extensións que engadiu a { -brand-short-name }.
 restart-button-label = Reiniciar
 
 ## Media titles
@@ -143,6 +150,9 @@ media-device-format = Formato
 media-device-channels = Canles
 media-device-rate = Frecuencia
 media-device-latency = Latencia
+media-capabilities-title = Capacidades de multimedia
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerar a base de datos
 
 ##
 
@@ -165,6 +175,7 @@ intl-regional-prefs = Preferencias rexionais
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Depuración remota (protocolo do Chromium)
 remote-debugging-accepting-connections = Aceptando conexións
 remote-debugging-url = URL
 
@@ -226,6 +237,7 @@ main-thread-no-omtc = fío principal, sen OMTC
 yes = Si
 no = Non
 unknown = Descoñecido
+virtual-monitor-disp = Disposición de monitores virtuais
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -241,6 +253,7 @@ gpu-device-id = ID do dispositivo
 gpu-subsys-id = ID do subsistema
 gpu-drivers = Controladores
 gpu-ram = RAM
+gpu-driver-vendor = Vendedor do controlador
 gpu-driver-version = Versión do controlador
 gpu-driver-date = Data do controlador
 gpu-active = Activa
@@ -259,12 +272,16 @@ blocklisted-bug = Pór na lista de bloqueos debido a problemas coñecidos
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Lista bloqueada por problemas coñecidos: <a data-l10n-name="bug-link">erro { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Pór na lista de bloqueos; código do erro { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de vídeo D3D11
 d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Descodificador de vídeo WMF VPX
 reset-on-next-restart = Restabelecer no próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset = Restablecer dispositivo
@@ -273,6 +290,7 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contido)
 off-main-thread-paint-enabled = Off Main Thread Painting activado
 off-main-thread-paint-worker-count = Contador de workers Off Main Thread Painting
+target-frame-rate = Taxa de fotogoramas de destino
 min-lib-versions = Esperábase unha versión mínima
 loaded-lib-versions = Versión en uso
 has-seccomp-bpf = Seccomp-BPF (Filtrado de chamadas do sistema)
@@ -289,7 +307,9 @@ sandbox-proc-type-media-plugin = engadido de medios
 sandbox-proc-type-data-decoder = decodificador de datos
 startup-cache-title = Memoria caché de inicio
 startup-cache-disk-cache-path = Ruta de caché de disco
+startup-cache-ignore-disk-cache = Ignorar a caché do disco
 startup-cache-found-disk-cache-on-init = Atopouse a caché do disco en Init
+startup-cache-wrote-to-disk-cache = Escribiuse na caché de disco
 launcher-process-status-0 = Activado
 launcher-process-status-1 = Desactivado por fallo
 launcher-process-status-2 = Desactivado forzosamente
@@ -313,6 +333,7 @@ touch-enabled = entrada táctil activada
 drag-enabled = arrastre da barra de desprazamento activado
 keyboard-enabled = teclado activado
 autoscroll-enabled = desprazamento automático activado
+zooming-enabled = activado a ampliación suave cun belisco
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
