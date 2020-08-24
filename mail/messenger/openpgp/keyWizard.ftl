@@ -61,9 +61,35 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Užverti
     .accesskey = U
+openpgp-keygen-long-expiry = Negalite sukurti rakto, kurio galiojimo laikas baigsis daugiau nei po 100 metų.
+openpgp-keygen-short-expiry = Jūsų raktas turi galioti mažiausiai vieną dieną.
+openpgp-keygen-ongoing = Raktai jau generuojami!
+openpgp-keygen-error-core = Nepavyko inicijuoti „OpenPGP Core Service“
+openpgp-keygen-error-failed = „OpenPGP“ raktų generavimas netikėtai nutrūko
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = „OpenPGP“ raktas sukurtas sėkmingai, tačiau nepavyko atšaukti rakto „{ $key }“
+openpgp-keygen-abort-title = Nutraukti raktų generavimą?
 
 ## Import Key section
 
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] „Thunderbird“ rado { $count } raktą, kurį galima importuoti.
+        [few] „Thunderbird“ rado { $count } raktus, kuriuos galima importuoti.
+       *[other] „Thunderbird“ rado { $count } raktų, kuriuos galima importuoti.
+    }
+openpgp-passphrase-prompt-title = Reikalingas slaptažodis
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Įveskite slaptažodį, kad atrakintumėte šį „{ $key }“ raktą.
+openpgp-import-key-button =
+    .label = Pasirinkite failą, kurį norite importuoti…
+    .accesskey = f
+import-key-file = Importuoti „OpenPGP“ raktų failą
+import-key-personal-checkbox =
+    .label = Tai bus asmeninis raktas.
+gnupg-file = „GnuPG“ failai
+import-error-file-size = <b>Klaida!</b> Failai turi būti mažesni nei 5 MB.
 #   $error (String) - the reported error from the failed key import method
 import-error-failed = <b> Klaida!</b> Nepavyko importuoti failo. { $error }
 #   $error (String) - the reported error from the failed key import method
