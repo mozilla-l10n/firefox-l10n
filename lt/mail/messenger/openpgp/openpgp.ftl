@@ -186,6 +186,7 @@ openpgp-add-key-button =
 e2e-learn-more = Sužinoti daugiau
 openpgp-keygen-success = „OpenPGP“ raktas sukurtas sėkmingai!
 openpgp-keygen-import-success = „OpenPGP“ raktai sėkmingai importuoti!
+openpgp-keygen-external-success = Išorinio „GnuPG“ rakto ID išsaugotas.
 
 ## OpenPGP Key selection area
 
@@ -205,6 +206,13 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Atšaukti raktą
 openpgp-key-edit-title = Pakeisti „OpenPGP“ raktą
 openpgp-key-edit-date-title = Pratęsti galiojimo datą
+openpgp-manager-button =
+    .label = „OpenPGP Key Manager“
+    .accesskey = O
+openpgp-key-remove-external =
+    .label = Pašalinti išorinio rakto ID
+    .accesskey = P
+key-external-label = Išorinis „GnuPG“ raktas
 # Strings in keyDetailsDlg.xhtml
 key-type-public = viešas raktas
 key-type-primary = pirminis raktas
@@ -218,6 +226,7 @@ key-does-not-expire = Raktas nenustoja galioti
 key-expired-date = Raktas negalioja nuo { $keyExpiry }
 key-expired-simple = Raktas nebegalioja
 key-revoked-simple = Raktas atšauktas
+key-do-you-accept = Ar priimate šį raktą skaitmeninių parašų tikrinimui ir pranešimų šifravimui?
 # Strings in keyserver.jsm
 keyserver-error-aborted = Nutraukta
 keyserver-error-unknown = Įvyko nežinoma klaida
@@ -226,6 +235,15 @@ keyserver-error-import-error = Nepavyko importuoti atsisiųsto rakto.
 keyserver-error-unavailable = Raktų serveris nepasiekiamas.
 keyserver-error-certificate-error = Raktų serverio sertifikatas negalioja.
 keyserver-error-unsupported = Raktų serveris nepalaikomas.
+# Strings in gpg.jsm
+unknown-signing-alg = Nežinomas pasirašymo algoritmas (ID: { $id })
+unknown-hash-alg = Nežinoma kriptografinė maiša (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Jūsų „{ $desc }“ raktas baigs galioti po mažiau nei { $days } dienų.
+    Rekomenduojame sukurti naują raktų porą ir atitinkamai sukonfigūruoti paskyras.
+filter-key-required = Turite pasirinkti gavėjo raktą.
+filter-key-not-found = Nepavyko rasti „{ $desc }“ šifravimo rakto.
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Raktai sėkmingai importuoti
