@@ -87,6 +87,18 @@ detail-update-automatic =
 detail-update-manual =
     .label = Desactivado
     .tooltiptext = Non instalar actualizacións automaticamente
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Executar en xanelas privadas
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Non se admite en xanelas privadas
+detail-private-disallowed-description2 = Esta extensión non se executa durante a navegación privada. <a data-l10n-name="learn-more-link">Saiba máis</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Require acceso a xanelas privadas
+detail-private-required-description2 = Esta extensión ten acceso ás súas actividades en liña mentres navega de xeito privado. <a data-l10n-name="learn-more-link">Saiba máis</a>
+detail-private-browsing-on =
+    .label = Permitir
+    .tooltiptext = Permitir durante a navegación privada
 detail-home =
     .label = Páxina de inicio
 detail-home-value =
@@ -206,19 +218,80 @@ addon-open-about-debugging = Depurar complementos
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Xestionar atallos de extensións
+    .accesskey = X
 shortcuts-no-addons = Non ten habilitada ningunha extensión.
 shortcuts-no-commands = As seguintes extensións non teñen atallos:
 shortcuts-input =
     .placeholder = Escriba un atallo
+shortcuts-browserAction2 = Activar o botón da barra de ferramentas
+shortcuts-pageAction = Activar a acción da páxina
 shortcuts-sidebarAction = Alternar a barra lateral
 shortcuts-modifier-mac = Incluír Ctrl, Alt ou ⌘
 shortcuts-modifier-other = Incluír Ctrl ou Alt
+shortcuts-invalid = A combinación non é válida
+shortcuts-letter = Escriba unha letra
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Atallo duplicado
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } utilízase como atallo en máis dun caso. Os atallos duplicados poden causar comportamentos inesperados.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Xa está en uso por { $addon }
+shortcuts-card-collapse-button = Amosar menos
+header-back-button =
+    .title = Retroceder
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    As extensións e os temas son como aplicativos para o seu navegador e permítenlle
+    protexer contrasinais, descargar vídeos, atopar ofertas, bloquear anuncios molestos, cambiar
+    como semella o seu navegador e moito máis. Estes pequenos programas son
+    a miúdo desenvolvidos por un terceiro. Aquí ten unha selección { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger"> recomendada </a> para excepcionais
+    seguridade, rendemento e funcionalidade.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Algunhas destas recomendacións son personalizadas. Baséanse noutros
+    extensións que instalou, preferencias do perfil e estatísticas de uso.
+discopane-notice-learn-more = Máis información
+privacy-policy = Política de privacidade
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = por <a data-l10n-name="author"> { $author } </a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Usuarios: { $dailyUsers }
+install-extension-button = Engadir a { -brand-product-name }
+install-theme-button = Instalar o tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Xestionar
+find-more-addons = Atopar máis complementos
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Máis opcións
 
 ## Add-on actions
 
+report-addon-button = Informar
+remove-addon-button = Eliminar
+disable-addon-button = Desactivar
+enable-addon-button = Activar
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Activar
 
 ## Pending uninstall message bar
 
