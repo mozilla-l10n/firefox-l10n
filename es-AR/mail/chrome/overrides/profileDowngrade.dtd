@@ -9,7 +9,7 @@
  Thunderbird" and "version" is used to mean "the specific revision number of a
  given Thunderbird channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Ha iniciado una versión vieja de &brandProductName;">
+<!ENTITY window.title "Inició una versión vieja de &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync2 "Una versión nueva de &brandProductName; puede haber hecho cambios al perfil que no son más compatibles con esta versión vieja. Use este perfil con aquella versión más nueva o cree un perfil nuevo para esta instalación de &brandShortName;. Crear un perfil nuevo requiere configurar de nuevo las cuentas, calendarios y complementos.">
