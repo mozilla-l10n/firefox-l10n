@@ -338,10 +338,6 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Emoinge ñe’ẽ ehekaséva
     .aria-label = Eheka { $name }
-# This placeholder is used when searching bookmarks.
-urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = ..............Ingresar términos de búsqueda
-    .aria-label = Buscar en marcadores
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Emoinge ñe’ẽ ehekaséva
