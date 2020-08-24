@@ -18,7 +18,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; vam je na voljo pod pogoji">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". To pomeni, da lahko &brandShortName; uporabljate, kopirate in ga delite drugim. Spreminjate lahko tudi izvorno kodo programa &brandShortName;, tako da bo ustrezala vašim potrebam. Mozilla Public License vam daje tudi pravico do razširanja vaših spremenjenih različic.">
+<!ENTITY rights.intro-point1c ". To pomeni, da lahko &brandShortName; uporabljate, kopirate in ga delite drugim. Spreminjate lahko tudi izvorno kodo programa &brandShortName;, tako da bo ustrezala vašim potrebam. Mozilla Public License vam daje tudi pravico do razširjanja vaših spremenjenih različic.">
 
 <!ENTITY rights.intro-point2aa "&vendorShortName; vam ne daje nikakršnih pravic do uporabe blagovnih znamk in logotipov &quot;&brandFullName;&quot;. Dodatne podatke o blagovnih znamkah lahko najdete">
 <!ENTITY rights.intro-point2b "tukaj">
@@ -71,4 +71,4 @@
 <!ENTITY rights.locationawarebrowsing-term2 "Izberite glavno ploščo &security.label;">
 
 <!-- points 0-6 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; lahko prekine ali spremeni svoje storitve kadarkoli mu ustreza.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; lahko prekine ali spremeni svoje storitve, kadarkoli mu ustreza.">
