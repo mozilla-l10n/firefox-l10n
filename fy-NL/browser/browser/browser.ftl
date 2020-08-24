@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Priveesneupe)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Priveesneupe)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Priveesneupe)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Priveesneupe)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -114,6 +112,10 @@ urlbar-search-tips-redirect-2 = Begjin yn de adresbalke mei sykjen om suggestjes
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Blêdwizers
+urlbar-search-mode-tabs = Ljepblêden
+urlbar-search-mode-history = Skiednis
+
 ##
 
 urlbar-geolocation-blocked =
@@ -140,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Jo hawwe MIDI foar dizze website blokkearre.
 urlbar-install-blocked =
     .tooltiptext = Jo hawwe ynstallaasje fan add-ons foar dizze website blokkearre.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Dizze blêdwizer bewurkje ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Diskear sykje mei:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sykynstellingen wizigje
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sykynstellingen wizigje
-
 search-one-offs-context-open-new-tab =
     .label = Sykje yn Nij ljepblêd
     .accesskey = N
@@ -193,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = As standertsykmasine foar priveefinsters ynstelle
     .accesskey = p
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -201,15 +205,20 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Blêdwizers ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Ljepblêden ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Skiednis ({ $restrict })
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = By bewarjen editor toane
     .accesskey = e
-
 bookmark-panel-done-button =
     .label = Klear
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -283,15 +292,12 @@ popup-select-microphone =
     .value = Mikrofoan om te dielen:
     .accesskey = M
 popup-all-windows-shared = Alle sichtbere finsters op jo skerm sille dield wurde.
-
 popup-screen-sharing-not-now =
     .label = No net
     .accesskey = t
-
 popup-screen-sharing-never =
     .label = Nea tastean
     .accesskey = a
-
 popup-silence-notifications-checkbox = Notifikaasjes fan { -brand-short-name } útskeakelje wylst dielen
 popup-silence-notifications-checkbox-warning = { -brand-short-name } toant gjin meldingen wylst jo diele.
 
@@ -308,26 +314,55 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Iepenje earst DevTools yn it menu Webûntwikkeler om de fluchtoets F12 te brûken.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Fier in sykterm of adres yn
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Fier in sykterm of adres yn
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Sykje op it web
+    .aria-label = Sykje mei { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Fier syktermen yn
+    .aria-label = Sykje op { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Fier syktermen yn
+    .aria-label = Sykje yn blêdwizers
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Fier syktermen yn
+    .aria-label = Sykje yn skiednis
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Fier syktermen yn
+    .aria-label = Sykje yn ljepblêden
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Fier sykterm foar { $name } of adres yn
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser wurdt op ôfstân bestjoerd
 urlbar-permissions-granted =
     .tooltiptext = Jo hawwe dizze website oanfoljende spesjale tastimmingen jûn.
 urlbar-switch-to-tab =
     .value = Wikselje nei ljepblêd:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Utwreiding:
-
 urlbar-go-button =
     .tooltiptext = It adres yn de lokaasjebalke iepenje
 urlbar-page-action-button =
