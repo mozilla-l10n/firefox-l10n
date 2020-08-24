@@ -11,7 +11,8 @@ about-private-browsing =
     .title = జాలంలో వెతకండి
 about-private-browsing-not-private = మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.
 about-private-browsing-info-description = మీరు అనువర్తనం నుండి నిష్క్రమించినప్పుడు లేదా అన్ని అంతరంగిక విహారణ ట్యాబులను, కిటికీలను మూసివేసినపుడు మీ వెతుకుడు, విహారణ చరిత్రను { -brand-short-name } తుడిచివేస్తుంది. ఇది మిమ్మల్ని వెబ్‌సైట్ల నుండి లేదా మీ అంతర్జాల సేవాదారు నుండి అనామకంగా చేయనప్పటికీ, ఈ కంప్యూటరును వాడే ఇతరుల నుండి మీ జాల కార్యకలాపాన్ని అంతరంగికంగా ఉంచుకోవడంలో తోడ్పడుతుంది.
-
+about-private-browsing-need-more-privacy = మరింత అంతరంగికత కావాలా?
+about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name }‌ను ప్రయత్నించండి
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
