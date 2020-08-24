@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-key-user-id-label = Paskyra / Vartotojo ID
 openpgp-keygen-title-label =
     .title = Sugeneruoti „OpenPGP“ raktą
 openpgp-cancel-key =
@@ -35,6 +36,8 @@ openpgp-key-expiry-label =
 openpgp-key-id-label =
     .label = Rakto ID
 openpgp-cannot-change-expiry = Tai raktas su sudėtinga struktūra, jo galiojimo pabaigos keitimas nepalaikomas.
+openpgp-key-man-title =
+    .title = „OpenPGP Key Manager“
 openpgp-key-man-generate =
     .label = Nauja raktų pora
     .accesskey = N
@@ -58,6 +61,29 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Raktų serveris
     .accesskey = R
+openpgp-key-man-import-public-from-file =
+    .label = Importuoti viešą (-us) raktą (-us) iš failo
+    .accesskey = I
+openpgp-key-man-import-secret-from-file =
+    .label = Importuoti slaptą(-us) raktą (-us) iš failo
+openpgp-key-man-import-sig-from-file =
+    .label = Importuoti atšaukimą (-us) iš failo
+openpgp-key-man-import-from-clipbrd =
+    .label = Importuoti raktą (-us) iš mainų srities
+    .accesskey = m
+openpgp-key-man-import-from-url =
+    .label = Importuoti raktą (-us) iš URL
+    .accesskey = u
+openpgp-key-man-export-to-file =
+    .label = Eksportuoti viešą (-us) raktą (-us) į failą
+    .accesskey = E
+openpgp-key-man-send-keys =
+    .label = Siųsti viešą (-us) raktą (-us) el. paštu
+    .accesskey = S
+openpgp-key-man-discover-progress = Ieškoma…
+openpgp-key-copy-key =
+    .label = Kopijuoti viešąjį raktą
+    .accesskey = K
 openpgp-key-man-del-key =
     .label = Ištrinti raktą (-us)
     .accesskey = I
@@ -70,6 +96,9 @@ openpgp-key-man-revoke-key =
 openpgp-key-man-key-props =
     .label = Rakto savybės
     .accesskey = R
+openpgp-key-man-key-more =
+    .label = Daugiau
+    .accesskey = D
 openpgp-key-man-view-photo =
     .label = Nuotrauka
     .accesskey = N
@@ -181,6 +210,12 @@ key-does-not-expire = Raktas nenustoja galioti
 key-expired-date = Raktas negalioja nuo { $keyExpiry }
 key-expired-simple = Raktas nebegalioja
 key-revoked-simple = Raktas atšauktas
+# Strings in keyserver.jsm
+keyserver-error-aborted = Nutraukta
+keyserver-error-unknown = Įvyko nežinoma klaida
+keyserver-error-server-error = Raktų serveris pranešė apie klaidą.
+keyserver-error-import-error = Nepavyko importuoti atsisiųsto rakto.
+keyserver-error-unavailable = Raktų serveris nepasiekiamas.
 
 ## Account settings export output
 
