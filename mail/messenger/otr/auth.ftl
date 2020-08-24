@@ -14,6 +14,8 @@ auth-your-fp-value = Jūsų - { $own_name } - „piršto antspaudas":
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = { $their_name } „pirštų antspaudas“:
+auth-help = Kontaktinio asmens tapatybės patikrinimas padeda įsitikinti, kad pokalbis yra tikrai privatus, todėl trečiajai šaliai labai sunku jo pasiklausyti ar juo manipuliuoti.
+auth-helpTitle = Patikrinimo pagalba
 auth-questionReceived = Jūsų adresatas uždavė klausimą:
 auth-yes =
     .label = Taip
@@ -29,6 +31,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-manualInstruction = Kreipkitės į savo numatytą pokalbio partnerį naudodamiesi kitu autentifikuotu kanalu, pavyzdžiui, el. paštu, pasirašydami „OpenPGP“, arba telefonu. Turėtumėte pasakyti vienas kitam savo „pirštų atspaudus“. („Piršto atspaudas“ yra kontrolinė suma, pagal kurią identifikuojamas šifravimo raktas.) Jei jie sutampa, sekančiame dialogo lange turėtumėte nurodyti kad patikrinote „pirštų atspaudus“.
 auth-how = Kaip norėtumėte patikrinti adresato tapatybę?
 auth-qaInstruction = Sugalvokite klausimą, į kurį atsakymą žinote tik jūs ir jūsų kontaktas. Įveskite klausimą ir atsakymą, tada palaukite, kol kontaktas įves atsakymą. Jei atsakymai nesutampa, jūsų naudojamas ryšio kanalas gali būti stebimas.
 auth-secretInstruction = Sugalvokite paslaptį, žinomą tik jums ir jūsų kontaktui. Nenaudokite to paties interneto ryšio pasikeisdami paslaptimi. Įveskite paslaptį, tada palaukite, kol jūsų kontaktas ją įves. Jei paslaptys nesutampa, jūsų naudojamas ryšio kanalas gali būti stebimas.
