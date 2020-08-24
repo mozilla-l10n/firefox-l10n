@@ -28,7 +28,7 @@
 <!ENTITY tinyheader.existing "Saltear esto y usar mi correo existente">
 <!ENTITY content.close "Creo que configuraré mi cuenta después">
 <!ENTITY successful.title "¡Felicitaciones!">
-<!ENTITY successful.successMessage "Ha configurado su cuenta exitosamente.">
+<!ENTITY successful.successMessage "Configuró su cuenta correctamente.">
 <!ENTITY successful.write "Escribir algún correo electrónico">
 <!ENTITY successful.write.desc "Deje que sus amigos y familia sepan sobre su nueva dirección.<br/> Es por eso que tiene esta nueva cuenta, ¿o no?">
 <!ENTITY successful.customize "Personalizar &brandShortName; con algunos complementos interesantes">
