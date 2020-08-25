@@ -35,6 +35,7 @@ printui-destination-label = יעד
 printui-destination-pdf-label = שמירה ל־PDF
 printui-more-settings = עוד הגדרות
 printui-less-settings = פחות הגדרות
+printui-paper-size-label = גודל נייר
 # Section title (noun) for the print scaling options
 printui-scale = קנה מידה
 printui-scale-fit-to-page = התאמה לעמוד
