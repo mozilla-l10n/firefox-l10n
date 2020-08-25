@@ -69,13 +69,20 @@ serviceworker-empty-suggestions-debugger = Jalankan tiap langkah pendaftaran Ser
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Periksa Service Workers dari domain lainnya. <a>Buka about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = TIdak ada service worker ditemukan
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Pelajari lebih lanjut
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Lihat service worker dari domain lain
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifes Aplikasi
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Anda perlu menambahkan app manifest untuk diperiksa di sini. <a>Pelajari lebih lanjut</a>
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Pelajari cara menambahkan manifest
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Galat dan Peringatan
 # Header for the Identity section of Manifest inspection displayed in the application panel.
