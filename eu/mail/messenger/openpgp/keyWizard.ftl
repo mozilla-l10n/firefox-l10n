@@ -119,3 +119,9 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = Kanpoko GnuPG gakoa
 openpgp-external-key-description = Konfiguratu kanpoko GnuPG gako bat gakoaren ID sartuz
+openpgp-external-key-info = Honez gain, Gako kudeatzailea erabili beharko zenuke dagokion gako publikoa inportatu eta onartzeko.
+openpgp-external-key-warning = <b>Kanpo GnuPG gako bat bakarrik konfiguratu dezakezu.</b> Zure aurreko sarrera ordezkatuko da.
+openpgp-save-external-button = Gorde gako ID
+openpgp-external-key-label = Gako sekretu ID:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
