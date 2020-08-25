@@ -35,6 +35,7 @@ printui-destination-label = Destinacion
 printui-destination-pdf-label = Enregistrar en PDF
 printui-more-settings = Mai de paramètres
 printui-less-settings = Mens de paramètres
+printui-paper-size-label = Talha papièr
 # Section title (noun) for the print scaling options
 printui-scale = Escala
 printui-scale-fit-to-page = Adaptar a la pagina
