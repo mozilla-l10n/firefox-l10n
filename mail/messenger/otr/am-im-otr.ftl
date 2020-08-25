@@ -7,7 +7,7 @@ account-encryption =
 account-otr-label = Mesagerie neînregistrată (OTR)
 account-otr-description = { -brand-short-name } are suport pentru criptarea end-to-end a conversațiilor unu-la-unu. Împiedică interceptarea conversațiilor de alte părți. Criptarea end-to-end poate fi utilizată numai atunci când și interlocutorul folosește un software care acceptă OTR.
 otr-encryption-title = Criptare verificată
-otr-encryption-caption = Pentru a permite altora să îți verifice identitatea în chat-urile OTR, partajează cu ei amprenta ta OTR folosind un canal de comunicații extern (în afara benzii).
+otr-encryption-caption = Pentru a permite altora să îți verifice identitatea în chat-urile OTR, partajează cu ei amprenta OTR folosind un canal de comunicații extern (în afara benzii).
 otr-fingerprint-label = Amprenta ta:
 view-fingerprint-button =
     .label = Gestionează amprentele digitale ale contactelor
@@ -23,6 +23,4 @@ otr-require-encryption-info =
     nu vor fi afișate ca parte a conversației normale și nici nu vor fi înregistrate.
 otr-verifyNudge =
     .label = Amintește-mi întotdeauna să verific un contact neverificat
-
 otr-notYetAvailable = indisponibil încă
-
