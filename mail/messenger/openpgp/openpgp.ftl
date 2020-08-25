@@ -191,9 +191,36 @@ openpgp-key-details-fingerprint-label = Hatz-marka
 openpgp-key-details-sel-action =
     .label = Aukeratu ekintza
     .accesskey = e
+openpgp-key-details-also-known-label = Adierazitako gako jabearen ordezko identitateak:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Itxi
+openpgp-acceptance-label =
+    .label = Zure onarpena
+openpgp-acceptance-rejected-label =
+    .label = Ez, atzera bota gako hau.
+openpgp-acceptance-undecided-label =
+    .label = Oraindik ez, beharbada beranduago.
+openpgp-acceptance-unverified-label =
+    .label = Bai, baina ez dut gakoa era egokian egiaztatu.
+openpgp-acceptance-verified-label =
+    .label = Bai, pertsonalki egiaztatu dut gako honek hatz-marka zuzena daukala.
+key-accept-personal =
+    Gako honentzat, biak dituzu zati publikoa eta sekretua. Gako pertsonal bezala erabili dezakezu.
+    Gako hau beste batek emandakoa bada, ez erabili gako pertsonal modura.
+key-personal-warning = Gako hau zuk zeuk sortutakoa da eta erakutsitako gako jabedun bezala zu agertzen zara?
+openpgp-personal-no-label =
+    .label = Ez, ez erabili nire gako pertsonal bezala.
+openpgp-personal-yes-label =
+    .label = Bai, tratatu gako hau pertsonal gako bezala.
+openpgp-copy-cmd-label =
+    .label = Kopiatu
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Gehitu gakoa…
+    .accesskey = G
+e2e-learn-more = Argibide gehiago
 
 ## OpenPGP Key selection area
 
