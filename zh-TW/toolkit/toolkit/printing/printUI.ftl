@@ -64,3 +64,4 @@ printui-error-invalid-scale = 縮放比例必須在 10 到 200 之間。
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = 列印範圍必須在第 1 頁到第 { $numPages } 頁之間。
+printui-error-invalid-start-overflow = 開始頁碼必須小於結束頁碼。
