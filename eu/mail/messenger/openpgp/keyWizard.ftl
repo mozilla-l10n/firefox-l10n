@@ -91,6 +91,31 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird inportatu daitezkeen { $count } gako aurkitu ditu.
     }
 openpgp-import-key-list-description = Berretsi zein gako tratatu behar diren gako pertsonal bezala. Zuk zeuk sortutako gakoak eta zure identitatea erakusten duten gakoak erabili beharko zenituzke gako pertsonal bezala. Gerora aukera hau aldatu dezakezu gakoen propietate elkarrizketa-leihoan.
+openpgp-import-key-list-caption = Gako pertsonal bezala markatutako gakoak muturretik-muturrera zifratutako sekzioan zerrendatuko dira. Besteak eskuragarri egongo dira gako kudeatzailearen barnean.
+openpgp-passphrase-prompt-title = Pasa-esaldia behar da
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Mesedez sartu pasa-esaldia ondorengo gakoa desblokeatzeko: { $key }
+openpgp-import-key-button =
+    .label = Aukeratu fitxategia inportatzeko…
+    .accesskey = A
+import-key-file = Inportatu OpenPGP gako fitxategia
+import-key-personal-checkbox =
+    .label = Tratatu gako hau pertsonal gako bezala
+gnupg-file = GnuPG fitxategiak
+import-error-file-size = <b>Errorea!</b> 5MB baino fitxategi handiagoek ez dute euskarririk.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Errorea!</b> Fitxategia inportatzeak huts egin du. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Errorea!</b> Gakoa inportatzeak huts egin du. { $error }
+openpgp-import-identity-label = Identitatea
+openpgp-import-fingerprint-label = Hatz-marka
+openpgp-import-created-label = Sortuta
+openpgp-import-bits-label = bit
+openpgp-import-key-props =
+    .label = Gako propietateak
+    .accesskey = G
 
 ## External Key section
 
+openpgp-external-key-title = Kanpoko GnuPG gakoa
+openpgp-external-key-description = Konfiguratu kanpoko GnuPG gako bat gakoaren ID sartuz
