@@ -73,6 +73,7 @@ openpgp-keygen-error-core = Ezin da abiarazi OpenPGP zerbitzu nagusia
 openpgp-keygen-error-failed = OpenPGP gako sorrera ustekabean huts egin du
 #   $identity (String) - the newly generate OpenPGP Key
 openpgp-keygen-error-revocation = OpenPGP gakoa ondo sortu da, baina huts egin du errebokazio gakoaren sorrerak { $key } gakoarentzat
+openpgp-keygen-abort-title = Bertan behera utzi sorrera?
 
 ## Import Key section
 
