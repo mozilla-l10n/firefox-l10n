@@ -35,6 +35,7 @@ printui-destination-label = Uitvoerapparaat
 printui-destination-pdf-label = Opslaan als PDF
 printui-more-settings = Meer instellingen
 printui-less-settings = Minder instellingen
+printui-paper-size-label = Papierafmeting
 # Section title (noun) for the print scaling options
 printui-scale = Schaal
 printui-scale-fit-to-page = Verkleinen tot papierformaat
@@ -64,3 +65,4 @@ printui-error-invalid-scale = De schaal moet een getal tussen 10 en 200 zijn.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Het bereik moet een getal tussen 1 en { $numPages } zijn.
+printui-error-invalid-start-overflow = Het ‘vanaf’-paginanummer moet kleiner zijn dan het ‘tot’-paginanummer.
