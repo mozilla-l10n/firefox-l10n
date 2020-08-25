@@ -37,6 +37,7 @@ printui-destination-label = Cel
 printui-destination-pdf-label = Ako PDF składowaś
 printui-more-settings = Wěcej nastajenjow
 printui-less-settings = Mjenjej nastajenjow
+printui-paper-size-label = Wjelikosć papjery
 # Section title (noun) for the print scaling options
 printui-scale = Skalěrowanje
 printui-scale-fit-to-page = Bokoju pśiměriś
@@ -66,3 +67,4 @@ printui-error-invalid-scale = Skalěrowanje musy licba mjazy 10 a 200 byś.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Wobceŕk musy licba mjazy 1 a { $numPages } byś.
+printui-error-invalid-start-overflow = Licba boka „wót“ musy mjeńša ako licba boka „do“ byś.
