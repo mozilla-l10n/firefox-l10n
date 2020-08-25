@@ -178,9 +178,9 @@ confirm-discard-changes-dialog-confirm-button = Înlătură
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Încălcarea securității datelor în cazul unui site web
+about-logins-breach-alert-title = Breșă de date pe un site web
 breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară detaliile de autentificare. Schimbă parola ca să îți protejezi contul.
-about-logins-breach-alert-date = Această încălcare a securității datelor a apărut la data de { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Această breșă de date a avut loc la data de { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Mergi la { $hostname }
@@ -189,7 +189,7 @@ about-logins-breach-alert-learn-more-link = Află mai multe
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Parolă vulnerabilă
-about-logins-vulnerable-alert-text2 = Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o încălcare a securității datelor. Refolosirea datelor de autentificare îți va pune contul în pericol. Schimbă această parolă.
+about-logins-vulnerable-alert-text2 = Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o breșă de date. Refolosirea datelor de autentificare îți va pune contul în pericol. Schimbă parola.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mergi la { $hostname }

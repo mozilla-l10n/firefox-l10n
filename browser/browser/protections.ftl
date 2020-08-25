@@ -72,9 +72,9 @@ lockwise-app-links = { -lockwise-brand-name } pentru <a data-l10n-name="lockwise
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
     { $count ->
-        [one] 1 parolă este posibil să fi fost expusă într-o încălcare a securității datelor.
-        [few] { $count } parole este posibil să fi fost expuse într-o încălcare a securității datelor.
-       *[other] { $count } de parole este posibil să fi fost expuse într-o încălcare a securității datelor.
+        [one] 1 parolă este posibil să fi fost expusă într-o breșă de date.
+        [few] { $count } parole este posibil să fi fost expuse într-o breșă de date.
+       *[other] { $count } de parole este posibil să fi fost expuse într-o breșă de date.
     }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
@@ -92,7 +92,7 @@ turn-on-sync = Activează { -sync-brand-short-name }...
 monitor-title = Stai cu ochii pe breșele de date
 monitor-link = Cum funcționează
 monitor-header-content-no-account = Intră pe { -monitor-brand-name } și vezi dacă ai fost implicat(ă) într-o breșă de date cunoscută și pentru a obține alerte despre breșele noi.
-monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă informațiile tale apar într-o încălcare cunoscută a securității datelor.
+monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă informațiile tale apar într-o breșă cunoscută de date.
 monitor-sign-up-link = Înregistrează-te pentru alerte despre breșe de date
     .title = Înregistrează-te pentru alerte despre breșe de date pe { -monitor-brand-name }
 auto-scan = Scanat automat astăzi
@@ -148,7 +148,7 @@ info-exposed-passwords-resolved =
        *[other] de parole expuse în breșe de date nerezolvate
     }
 monitor-no-breaches-title = Vești bune!
-monitor-no-breaches-description = Nu apari în nicio încălcare cunoscută. Dacă apar noutăți, te vom anunța.
+monitor-no-breaches-description = Nu apari în nicio breșă cunoscută de date. Dacă apar noutăți, te vom anunța.
 monitor-view-report-link = Vezi raportul
     .title = Rezolvă breșele de date pe { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Rezolvă-ți breșele de date
