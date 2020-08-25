@@ -35,6 +35,7 @@ printui-destination-label = Cél
 printui-destination-pdf-label = Mentés PDF-be
 printui-more-settings = Több beállítás
 printui-less-settings = Kevesebb beállítás
+printui-paper-size-label = Papírméret
 # Section title (noun) for the print scaling options
 printui-scale = Méret
 printui-scale-fit-to-page = Laphoz igazítás
@@ -64,3 +65,4 @@ printui-error-invalid-scale = A skálának 10 és 200 közötti számnak kell le
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = A tartománynak 1 és { $numPages } közötti számnak kell lennie.
+printui-error-invalid-start-overflow = Az „ettől” oldalszámnak kisebbnek kell lennie, mint az „eddig” oldalszám.
