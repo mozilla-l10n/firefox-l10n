@@ -9,8 +9,8 @@ printui-save-to-pdf-title = Farklı kaydet
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
     { $sheetCount ->
-        [one] { $sheetCount } yaprak
-       *[other] { $sheetCount } yaprak
+        [one] { $sheetCount } sayfa
+       *[other] { $sheetCount } sayfa
     }
 printui-page-range-all = Tümü
 printui-page-range-custom = Özel
@@ -35,6 +35,7 @@ printui-destination-label = Hedef
 printui-destination-pdf-label = PDF’e kaydet
 printui-more-settings = Daha fazla ayar
 printui-less-settings = Daha az ayar
+printui-paper-size-label = Kâğıt boyutu
 # Section title (noun) for the print scaling options
 printui-scale = Ölçek
 printui-scale-fit-to-page = Sayfaya sığdır
@@ -52,7 +53,7 @@ printui-margins = Kenar boşlukları
 printui-margins-default = Varsayılan
 printui-margins-min = Minimum
 printui-margins-none = Yok
-printui-system-dialog-link = Sistem iletişim kutusunu kullanarak yazdır…
+printui-system-dialog-link = Sistem iletişim kutusuyla yazdır…
 printui-primary-button = Yazdır
 printui-primary-button-save = Kaydet
 printui-cancel-button = Vazgeç
@@ -64,3 +65,4 @@ printui-error-invalid-scale = Ölçek, 10 ile 200 arasında bir sayı olmalıdı
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Aralık, 1 ile { $numPages } arasında bir sayı olmalıdır.
+printui-error-invalid-start-overflow = “Başlangıç” sayfa numarası “bitiş” sayfa numarasından küçük olmalıdır.
