@@ -124,6 +124,35 @@ openpgp-key-man-del-key =
 openpgp-delete-key =
     .label = Ezabatu gakoa
     .accesskey = z
+openpgp-key-man-revoke-key =
+    .label = Indargabetu gakoa
+    .accesskey = I
+openpgp-key-man-key-props =
+    .label = Gako propietateak
+    .accesskey = p
+openpgp-key-man-key-more =
+    .label = Gehiago
+    .accesskey = G
+openpgp-key-man-view-photo =
+    .label = Argazki ID
+    .accesskey = A
+openpgp-key-man-ctx-view-photo-label =
+    .label = Ikusi argazki IDa
+openpgp-key-man-show-invalid-keys =
+    .label = Erakutsi gako baliogabeak
+    .accesskey = b
+openpgp-key-man-show-others-keys =
+    .label = Erakutsi beste jende baten gakoak
+    .accesskey = j
+openpgp-key-man-user-id-label =
+    .label = Izena
+openpgp-key-man-fingerprint-label =
+    .label = Hatz-marka
+openpgp-key-man-select-all =
+    .label = Aukeratu gako guztiak
+    .accesskey = A
+openpgp-key-man-empty-tree-tooltip =
+    .label = Sartu termino bakoitza goiko kutxan
 
 ## e2e encryption settings
 
