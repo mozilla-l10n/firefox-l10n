@@ -35,9 +35,11 @@ printui-destination-label = Ziel
 printui-destination-pdf-label = Als PDF speichern
 printui-more-settings = Mehr Einstellungen
 printui-less-settings = Weniger Einstellungen
+printui-paper-size-label = Papiergröße
 # Section title (noun) for the print scaling options
 printui-scale = Skalierung
 printui-scale-fit-to-page = An Seite anpassen
+printui-scale-fit-to-page-width = An Seitenbreite anpassen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalierung
 # Section title for miscellaneous print options
