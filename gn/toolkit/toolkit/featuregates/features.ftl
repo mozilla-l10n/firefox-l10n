@@ -45,6 +45,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Tembipuru mboguatahárape g̃uarã: say aty ñeha’ãha
 experimental-features-devtools-execution-context-selector =
     .label = Mboguatahára rembipuru: Momba’apo Jeregua Poravoha
+experimental-features-devtools-execution-context-selector-description = Ko tembiapoite ohechauka votõ pe mbohapeha mba’e’okarupa omoneĩva omoambuéva pe jeregua hekojeráva pe ñe’ẽrysýi emoingéva. Eporandu <a data-l10n-name="bugzilla1">bug 1605154</a> ha <a data-l10n-name="bugzilla2">bug 1605153</a> eikuaa porãve hag̃ua.
 experimental-features-devtools-compatibility-panel =
     .label = Mboguatahára rembipuru: Ojokupytyva Rupa
 experimental-features-devtools-compatibility-panel-description = Ta’ãngarupa yke kuatiarogue Moambuekuaaha ohechaukáva marandu omyesakãva jokupyty reko tembipuru’i kundahára pa’ũme. Eporandu <a data-l10n-name="bugzilla">bug 1584464</a> erekove hag̃ua mba’emimi.
