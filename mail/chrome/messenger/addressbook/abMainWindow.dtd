@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Listák törlése">
 <!ENTITY deleteItemsCmd.label                           "Elemek törlése">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Tulajdonságok">
 <!ENTITY propertiesMenu.accesskey                       "u">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Levelező és hírolvasó">
 <!ENTITY messengerCmd.accesskey                         "L">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Címjegyzék">
-<!ENTITY addressBookCmd.accesskey                       "j">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Címek keresése…">
 <!ENTITY searchAddressesCmd.accesskey                   "C">
 <!ENTITY importCmd.label                                "Importálás…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "u">
 <!ENTITY abPropertiesContext.label                      "Tulajdonságok">
 <!ENTITY abPropertiesContext.accesskey                  "u">
+<!ENTITY syncContext.label                              "Szinkronizálás">
+<!ENTITY syncContext.accesskey                          "i">
 <!ENTITY editContactContext.label                       "Partner szerkesztése">
 <!ENTITY editContactContext.accesskey                   "P">
 <!ENTITY editMailingListContext.label                   "Lista szerkesztése">
