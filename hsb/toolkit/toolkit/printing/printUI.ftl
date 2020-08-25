@@ -37,6 +37,7 @@ printui-destination-label = Cil
 printui-destination-pdf-label = Jako PDF składować
 printui-more-settings = Wjace nastajenjow
 printui-less-settings = Mjenje nastajenjow
+printui-paper-size-label = Wulkosć papjery
 # Section title (noun) for the print scaling options
 printui-scale = Skalowanje
 printui-scale-fit-to-page = Stronje přiměrić
