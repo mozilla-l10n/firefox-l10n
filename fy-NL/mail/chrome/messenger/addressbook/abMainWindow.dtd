@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Listen fuortsmite">
 <!ENTITY deleteItemsCmd.label                           "Items fuortsmite">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Eigenskippen">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "E-mail &amp; nijsgroepen">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Adresboek">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Adressen sykje">
 <!ENTITY searchAddressesCmd.accesskey                   "d">
 <!ENTITY importCmd.label                                "Ymportearje">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Eigenskippen">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Syngronisearje">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Kontakt bewurkje">
 <!ENTITY editContactContext.accesskey                   "K">
 <!ENTITY editMailingListContext.label                   "List bewurkje">
