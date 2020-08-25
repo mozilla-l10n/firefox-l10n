@@ -34,6 +34,7 @@ printui-destination-label = 대상
 printui-destination-pdf-label = PDF로 저장
 printui-more-settings = 설정 자세히
 printui-less-settings = 설정 간단히
+printui-paper-size-label = 용지 크기
 # Section title (noun) for the print scaling options
 printui-scale = 배율
 printui-scale-fit-to-page = 페이지에 맞추기
@@ -63,3 +64,4 @@ printui-error-invalid-scale = 배율은 10에서 200 사이의 숫자여야 합�
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = 범위는 1에서 { $numPages } 사이의 숫자여야 합니다.
+printui-error-invalid-start-overflow = "시작" 페이지 번호는 "끝" 페이지 번호보다 작아야 합니다.
