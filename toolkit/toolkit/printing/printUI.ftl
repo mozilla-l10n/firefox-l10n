@@ -67,3 +67,4 @@ printui-error-invalid-scale = Skalowanje dyrbi ličba mjez 10 a 200 być.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Wobłuk dyrbi ličba mjez 1 a { $numPages } być.
+printui-error-invalid-start-overflow = Ličba strony „wot“ dyrbi mjeńša hač ličba strony „do“ być.
