@@ -67,3 +67,8 @@ resent = [birbidali]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name }-(e)k amaitu du zurekin zuen elkarrizketa zifratua; berdina egin beharko zenuke.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name }(e)k Off-the-Record (OTR) elkarrizketa zifratu bat eskatu du. Edonola, Ez daukazu horri euskarria emateko pluginik. Informazio gehiagorako begiratu: https://en.wikipedia.org/wiki/Off-the-Record_Messaging
