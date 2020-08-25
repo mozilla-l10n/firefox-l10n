@@ -10,3 +10,28 @@ msgevent-encryption_error = Errore bat gertatu da zure mezua enkriptatzean. Mezu
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-connection_ended = { $name }-(e)k jada itxi du zurekin zeukan konexio zifratua. Nahi gabe enkriptatu gabeko mezuen bidalketa galarazteko, zure mezua ez da bidali. Mesedez bukatu zure elkarrizketa zifratua edo berrabiarazi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup_error = Errore bat eman da elkarrizketa pribatua ezartzean { $name }-(e)kin
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Zure OTR mezuak jasotzen ari zara. Edo zure buruaz hitz egiten ari zara edo norbait zure mezuak bidaltzen dizkizu.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg_resent = { $name }-(e)i bidalitako azken mezua birbidali da.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = { $name }-(e)k bidali dizu azken mezu enkriptatua ezin da irakurri, une honetan ez zaudelako pribatuan komunikazioan.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = { $name }-(e)n mezu enkriptatu irakurri ezin bat jaso duzu.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = { $name }-(e)n datuek gaizki eratuak dituen mezu bat jaso duzu.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Taupada bat jaso duzu { $name }(e)ngandik.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Taupada bidalia { $name }-(e)i.
