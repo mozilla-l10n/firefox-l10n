@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = Seleccionar rango de páginas
 printui-page-custom-range =
     .aria-label = Ingresa un rango de páginas personalizado
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = De
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = para
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientación
@@ -32,14 +38,29 @@ printui-less-settings = Menos ajustes
 # Section title (noun) for the print scaling options
 printui-scale = Escala
 printui-scale-fit-to-page = Ajustar a la página
+printui-scale-fit-to-page-width = Ajustar al ancho de página
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprimir cabeceras y pies de página
 printui-backgrounds-checkbox = Imprimir fondos
+printui-color-mode-label = Modo color
+printui-color-mode-color = Color
+printui-color-mode-bw = Blanco y negro
+printui-margins = Márgenes
+printui-margins-default = Por defecto
+printui-margins-min = Mínimos
+printui-margins-none = Ninguno
 printui-system-dialog-link = Imprimir usando el diálogo del sistema…
 printui-primary-button = Imprimir
 printui-primary-button-save = Guardar
 printui-cancel-button = Cancelar
 printui-loading = Preparando vista previa
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = La escala debe ser un número entre 10 y 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = El rango debe ser un número entre 1 y { $numPages }.
