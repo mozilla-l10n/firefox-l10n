@@ -91,15 +91,15 @@ turn-on-sync = Activează { -sync-brand-short-name }...
     .title = Mergi la preferințele de sincronizare
 monitor-title = Stai cu ochii pe breșele de date
 monitor-link = Cum funcționează
-monitor-header-content-no-account = Verifică { -monitor-brand-name } pentru a vedea dacă faci parte dintr-o încălcare cunoscută a securității datelor și pentru a obține alerte despre încălcările noi.
+monitor-header-content-no-account = Intră pe { -monitor-brand-name } și vezi dacă ai fost implicat(ă) într-o breșă de date cunoscută și pentru a obține alerte despre breșele noi.
 monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă informațiile tale apar într-o încălcare cunoscută a securității datelor.
-monitor-sign-up-link = Înregistrează-te pentru alerte privind încălcările securității datelor
-    .title = Înregistrează-te pentru alerte privind încălcările securității datelor pe { -monitor-brand-name }
+monitor-sign-up-link = Înregistrează-te pentru alerte despre breșe de date
+    .title = Înregistrează-te pentru alerte despre breșe de date pe { -monitor-brand-name }
 auto-scan = Scanat automat astăzi
 monitor-emails-tooltip =
     .title = Afișează adresele de e-mail monitorizate în { -monitor-brand-short-name }
 monitor-breaches-tooltip =
-    .title = Vezi încălcările securității datelor pe { -monitor-brand-short-name }
+    .title = Vezi breșe de date cunoscute pe { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Afișează parolele expuse în { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
@@ -116,55 +116,55 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] încălcare cunoscută a securității datelor ți-a expus informațiile
-        [few] încălcări cunoscute ale securității datelor ți-au expus informațiile
-       *[other] de încălcări cunoscute ale securității datelor ți-au expus informațiile
+        [one] breșă de date cunoscută, care ți-a expus informațiile
+        [few] breșe de date cunoscute, care ți-au expus informațiile
+       *[other] de breșe de date cunoscute, care ți-au expus informațiile
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
 info-known-breaches-resolved =
     { $count ->
-        [one] încălcare cunoscută a securității datelor marcată ca rezolvată
-        [few] încălcări cunoscute a securității datelor marcate ca rezolvate
-       *[other] de încălcări cunoscute a securității datelor marcate ca rezolvate
+        [one] breșă de date cunoscută, marcată ca rezolvată
+        [few] breșe de date cunoscute, marcate ca rezolvate
+       *[other] de breșe de date cunoscute, marcate ca rezolvate
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] parolă expusă în toate încălcările securității datelor
-        [few] parole expuse în toate încălcările securității datelor
-       *[other] de parole expuse în toate încălcările securității datelor
+        [one] parolă expusă în toate breșele de date
+        [few] parole expuse în toate breșele de date
+       *[other] de parole expuse în toate breșele de date
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
 info-exposed-passwords-resolved =
     { $count ->
-        [one] parolă expusă în încălcări nerezolvate
-        [few] parole expuse în încălcări nerezolvate
-       *[other] de parole expuse în încălcări nerezolvate
+        [one] parolă expusă în breșe de date nerezolvate
+        [few] parole expuse în breșe de date nerezolvate
+       *[other] de parole expuse în breșe de date nerezolvate
     }
 monitor-no-breaches-title = Vești bune!
 monitor-no-breaches-description = Nu apari în nicio încălcare cunoscută. Dacă apar noutăți, te vom anunța.
 monitor-view-report-link = Vezi raportul
-    .title = Rezolvă încălcările securității datelor pe { -monitor-brand-short-name }
-monitor-breaches-unresolved-title = Rezolvă încălcările securității datelor
-monitor-breaches-unresolved-description = După ce ai văzut detaliile încălcărilor securității datelor și ai luat măsuri ca să îți protejezi informațiile, poți marca încălcările ca rezolvate.
-monitor-manage-breaches-link = Gestionează încălcările securității datelor
-    .title = Gestionează încălcările securității datelor cu { -monitor-brand-short-name }
-monitor-breaches-resolved-title = Bun! Ai rezolvat toate încălcări cunoscute ale securității datelor.
-monitor-breaches-resolved-description = Dacă adresa ta de e-mail apare în orice încălcări noi ale securității datelor, te vom anunța.
+    .title = Rezolvă breșele de date pe { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Rezolvă-ți breșele de date
+monitor-breaches-unresolved-description = După ce ai văzut detaliile breșelor de date și ai luat măsuri ca să îți protejezi informațiile, poți marca breșele ca rezolvate.
+monitor-manage-breaches-link = Gestionează breșele de date
+    .title = Gestionează breșele de date cu { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Bun! Ai rezolvat toate breșele de date cunoscute.
+monitor-breaches-resolved-description = Te vom anunța dacă adresa ta de e-mail apare în orice breșe noi de date.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-        [one] { $numBreachesResolved } din { $numBreaches } încălcări marcate ca rezolvate
-        [few] { $numBreachesResolved } din { $numBreaches } încălcări marcate ca rezolvate
-       *[other] { $numBreachesResolved } din { $numBreaches } de încălcări marcate ca rezolvate
+        [one] { $numBreachesResolved } din { $numBreaches } (de) breșe marcate ca rezolvate
+        [few] { $numBreachesResolved } din { $numBreaches } (de) breșe marcate ca rezolvate
+       *[other] { $numBreachesResolved } din { $numBreaches } (de) breșe marcate ca rezolvate
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
@@ -172,9 +172,9 @@ monitor-partial-breaches-percentage = { $percentageResolved }% terminat
 monitor-partial-breaches-motivation-title-start = Grozav început!
 monitor-partial-breaches-motivation-title-middle = Ține-o tot așa!
 monitor-partial-breaches-motivation-title-end = Aproape gata! Ține-o tot așa.
-monitor-partial-breaches-motivation-description = Rezolvă-ți restul încălcărilor securității datelor în { -monitor-brand-short-name }.
-monitor-resolve-breaches-link = Rezolvă încălcările securității datelor
-    .title = Rezolvă încălcările securității datelor în { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Rezolvă-ți restul breșelor de date în { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Rezolvă breșele de date
+    .title = Rezolvă breșele de date în { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
