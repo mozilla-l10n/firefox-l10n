@@ -65,3 +65,4 @@ printui-error-invalid-scale = קנה המידה חייב להיות מספר ב�
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = הטווח חייב להיות מספר בין 1 ל־{ $numPages }.
+printui-error-invalid-start-overflow = ערך השדה ״מעמוד״ חייב להיות קטן מערך השדה ״עד עמוד״.
