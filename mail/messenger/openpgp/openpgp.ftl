@@ -221,9 +221,28 @@ openpgp-add-key-button =
     .label = Gehitu gakoa…
     .accesskey = G
 e2e-learn-more = Argibide gehiago
+openpgp-keygen-success = OpenPGP gakoa ondo sortu da!
+openpgp-keygen-import-success = OpenPGP gakoa ondo inportatu da!
+openpgp-keygen-external-success = Kanpoko GnuPG gako ID gordeta!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Bat ere ez
+openpgp-radio-none-desc = Ez erabili OpenPGP identitate honentzat.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Iraungitze data: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Gako iraungitzea 6 hilabete baino lehenago
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Iraungitze data: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Gakoa iraungita
+openpgp-key-expand-section =
+    .tooltiptext = Informazio gehiago
+openpgp-key-revoke-title = Indargabetu gakoa
+openpgp-key-edit-title = Aldatu OpenPGP gakoa
+openpgp-key-edit-date-title = Luzatu iraungitze data
 
 ## Account settings export output
 
