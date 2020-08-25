@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Poista osoitelistat">
 <!ENTITY deleteItemsCmd.label                           "Poista kohteet">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Ominaisuudet">
 <!ENTITY propertiesMenu.accesskey                       "O">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Sähköposti ja keskusteluryhmät">
 <!ENTITY messengerCmd.accesskey                         "S">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Osoitekirja">
-<!ENTITY addressBookCmd.accesskey                       "k">
-<!ENTITY addressBookCmd.key                             "k">
 <!ENTITY searchAddressesCmd.label                       "Etsi osoitekirjasta…">
 <!ENTITY searchAddressesCmd.accesskey                   "E">
 <!ENTITY importCmd.label                                "Tuo yhteystietoja…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Ominaisuudet">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Synkronoi">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Muokkaa yhteyshenkilöä">
 <!ENTITY editContactContext.accesskey                   "M">
 <!ENTITY editMailingListContext.label                   "Muokkaa listaa">
