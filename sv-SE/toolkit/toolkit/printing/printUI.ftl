@@ -35,6 +35,7 @@ printui-destination-label = Mål
 printui-destination-pdf-label = Spara till PDF
 printui-more-settings = Mer inställningar
 printui-less-settings = Färre inställningar
+printui-paper-size-label = Pappersstorlek
 # Section title (noun) for the print scaling options
 printui-scale = Skala
 printui-scale-fit-to-page = Anpassa till sida
