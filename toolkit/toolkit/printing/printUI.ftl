@@ -13,11 +13,11 @@ printui-sheets-count =
     }
 printui-page-range-all = 全部
 printui-page-range-custom = 自定义
-printui-page-range-label = 页数
+printui-page-range-label = 页面
 printui-page-range-picker =
-    .aria-label = 选择页数范围
+    .aria-label = 选择页面范围
 printui-page-custom-range =
-    .aria-label = 输入自定义页数范围
+    .aria-label = 输入自定义页面范围
 # This label is displayed before the first input field indicating
 # the start of the range to print.
 printui-range-start = 从
@@ -34,6 +34,7 @@ printui-destination-label = 打印机
 printui-destination-pdf-label = 保存为 PDF
 printui-more-settings = 更多设置
 printui-less-settings = 更少设置
+printui-paper-size-label = 纸张大小
 # Section title (noun) for the print scaling options
 printui-scale = 缩放
 printui-scale-fit-to-page = 自适应纸张
@@ -63,3 +64,4 @@ printui-error-invalid-scale = 缩放比例须在 10 到 200 之间。
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = 打印范围须在第 1 页到第 { $numPages } 页之间。
+printui-error-invalid-start-overflow = 起始页码须小于终止页码。
