@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Ezabatu zerrendak">
 <!ENTITY deleteItemsCmd.label                           "Ezabatu elementuak">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Propietateak">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Posta eta berri-taldeak">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Helbide-liburua">
-<!ENTITY addressBookCmd.accesskey                       "h">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Bilatu helbideak…">
 <!ENTITY searchAddressesCmd.accesskey                   "B">
 <!ENTITY importCmd.label                                "Inportatu…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Propietateak">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Sinkronizatu">
+<!ENTITY syncContext.accesskey                          "S">
 <!ENTITY editContactContext.label                       "Editatu kontaktua">
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "Editatu zerrenda">
