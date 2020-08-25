@@ -34,6 +34,7 @@ printui-destination-label = 列印到
 printui-destination-pdf-label = 儲存為 PDF
 printui-more-settings = 更多設定
 printui-less-settings = 更少設定
+printui-paper-size-label = 紙張大小
 # Section title (noun) for the print scaling options
 printui-scale = 縮放
 printui-scale-fit-to-page = 填滿頁面
