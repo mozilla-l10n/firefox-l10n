@@ -23,6 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Sortarazi OpenPGP gakoa
+openpgp-generate-key-info = <b>Gakoa sortzeak hainbat minutu har ditzake burutu artean.</b> Ez irten aplikaziotik gakoa sortzen ari denean.  Gakoa sortzen ari denean, nabigatze aktiboak edo disko erabilera intentsiboa dakarten eragiketek 'ausazkotasunaren multzoa' berriz beteko dute eta prozesua azkartu. Gakoa sortzea amaitzean jakinaraziko zaizu.
 openpgp-keygen-expiry-title = Gakoaren iraungitzea
 openpgp-keygen-expiry-description = Definitu sortu berri duzun gakoaren iraungitze denbora. Ondoren data kontrola dezakezu luzatzea beharrezkoa balitz.
 radio-keygen-expiry =
@@ -66,6 +67,12 @@ openpgp-keygen-import-complete =
     .accesskey = I
 openpgp-keygen-missing-username = Ez dago izenik zehaztuta uneko konturako. Mesedez sartu balioa  "zure Izena" eremuan kontuko ezarpenetan.
 openpgp-keygen-long-expiry = Ezin duzu sortu, 100 urte baino beranduago iraungiko den gakoa.
+openpgp-keygen-short-expiry = Zure gakoa askoz jota egun baten balioztatu beharko da.
+openpgp-keygen-ongoing = Gakoaren sorrera abian da!
+openpgp-keygen-error-core = Ezin da abiarazi OpenPGP zerbitzu nagusia
+openpgp-keygen-error-failed = OpenPGP gako sorrera ustekabean huts egin du
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP gakoa ondo sortu da, baina huts egin du errebokazio gakoaren sorrerak { $key } gakoarentzat
 
 ## Import Key section
 
