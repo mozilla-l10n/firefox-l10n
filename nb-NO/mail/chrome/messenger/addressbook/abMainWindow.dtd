@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Slett lister">
 <!ENTITY deleteItemsCmd.label                           "Slett elementer">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Egenskaper">
 <!ENTITY propertiesMenu.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "E-post og nyhetsgrupper">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Adressebok">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Søk i adresser …">
 <!ENTITY searchAddressesCmd.accesskey                   "ø">
 <!ENTITY importCmd.label                                "Importer …">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "E">
 <!ENTITY abPropertiesContext.label                      "Egenskaper">
 <!ENTITY abPropertiesContext.accesskey                  "E">
+<!ENTITY syncContext.label                              "Synkroniser">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Rediger kontakt">
 <!ENTITY editContactContext.accesskey                   "R">
 <!ENTITY editMailingListContext.label                   "Rediger liste">
