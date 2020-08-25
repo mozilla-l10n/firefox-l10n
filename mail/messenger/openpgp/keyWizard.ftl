@@ -74,9 +74,22 @@ openpgp-keygen-error-failed = OpenPGP gako sorrera ustekabean huts egin du
 #   $identity (String) - the newly generate OpenPGP Key
 openpgp-keygen-error-revocation = OpenPGP gakoa ondo sortu da, baina huts egin du errebokazio gakoaren sorrerak { $key } gakoarentzat
 openpgp-keygen-abort-title = Bertan behera utzi sorrera?
+openpgp-keygen-abort = OpenPGP gakoa sortzen ari da, ziur zaude utzi nahi duzula?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Sortu gako publiko eta sekretua { $identity } identitaterako?
 
 ## Import Key section
 
+openpgp-import-key-title = Inportatu badagoen OpenPGP gako pertsonala
+openpgp-import-key-legend = Aukeratu aurreko babeskopia fitxategia.
+openpgp-import-key-description = Zuk beste OpenPGP software batekin sortutako gako pertsonalak inportatu ditzakezu.
+openpgp-import-key-info = Beste software batzuk gako pertsonala beste termino batzuekin izendatu dezakete norberaren gakoa, gako pribatua edo gako parea bezalakoak.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird inportatu daitekeen gako bat aurkitu du.
+       *[other] Thunderbird inportatu daitezkeen { $count } gako aurkitu ditu.
+    }
 
 ## External Key section
 
