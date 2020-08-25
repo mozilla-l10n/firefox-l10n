@@ -6,9 +6,8 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = A proposito de Glean
-about-glean-description = Le <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> es un bibliotheca collection de datos usate in Mozilla productos. Iste pagina es pro disveloppatores e probatores qui besonia de <a data-l10n-name="fog-debug-doc-link">configurar stato del depuration e registration in le Glean SDK</a>.
+about-glean-description = Le <a data-l10n-name="glean-sdk-doc-link">SDK Glean</a> es un bibliotheca pro collection de datos usate in le productos de Mozilla. Iste pagina es pro disveloppatores e testatores qui vole <a data-l10n-name="fog-debug-doc-link">configurar le stato de depuration e registration in le SDK Glean</a>.
 about-glean-warning = Le mal uso de iste interfacie pote facer collaber { -brand-short-name }.
-
 tag-pings-label = Taggar tote le pings inviate con iste tag
 log-pings-label = Registrar le carga utile del ping ante inviar?
 send-pings-label = Invia me le ping nominate
