@@ -35,3 +35,13 @@ msgevent-log_heartbeat_rcvd = Taupada bat jaso duzu { $name }(e)ngandik.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = Taupada bidalia { $name }-(e)i.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Ustekabeko errorea eman da zure elkarrizketa OTR erabiliz babesterakoan.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = { $name }-(e)k bidali duen ondorengo mezua ez dago enkriptatua: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = { $name }-(e)n mezu OTR mezu ezezagun bat jaso duzu.
