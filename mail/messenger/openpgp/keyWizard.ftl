@@ -90,6 +90,7 @@ openpgp-import-key-list-amount =
         [one] Thunderbird inportatu daitekeen gako bat aurkitu du.
        *[other] Thunderbird inportatu daitezkeen { $count } gako aurkitu ditu.
     }
+openpgp-import-key-list-description = Berretsi zein gako tratatu behar diren gako pertsonal bezala. Zuk zeuk sortutako gakoak eta zure identitatea erakusten duten gakoak erabili beharko zenituzke gako pertsonal bezala. Gerora aukera hau aldatu dezakezu gakoen propietate elkarrizketa-leihoan.
 
 ## External Key section
 
