@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "删除列表">
 <!ENTITY deleteItemsCmd.label                           "删除项">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "属性">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "邮件与新闻组">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "通讯录">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "搜索地址…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "导入…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "属性">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "同步">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "编辑联系人">
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "编辑列表">
