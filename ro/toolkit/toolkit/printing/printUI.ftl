@@ -36,6 +36,7 @@ printui-destination-label = Destinație
 printui-destination-pdf-label = Salvează ca PDF
 printui-more-settings = Mai multe setări
 printui-less-settings = Mai puține setări
+printui-paper-size-label = Mărime hârtie
 # Section title (noun) for the print scaling options
 printui-scale = Scară
 printui-scale-fit-to-page = Încadrare în pagină
@@ -65,3 +66,4 @@ printui-error-invalid-scale = Scala trebuie să fie un număr între 10 și 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervalul trebuie să fie un număr între 1 și { $numPages }.
+printui-error-invalid-start-overflow = Numărul paginii „de la” trebuie să fie mai mic decât numărul paginii „până la”.
