@@ -58,3 +58,12 @@ context-gone_secure_unverified = Zifratu baina egiaztatu gabeko elkarrizketa has
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = { $name }(e)kin zifratutako elkarrizketa ondo freskatu da.
 error-enc = Errorea gertatu da mezua zifratzean.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = { $name }-(er)i espero ez zuen zifratutako datuak bidali dizkiozu.
+error-unreadable = Irakurri ezina den zifratutako mezua bidali duzu.
+error-malformed = Gaizki eratutako datu mezua bidali duzu.
+resent = [birbidali]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name }-(e)k amaitu du zurekin zuen elkarrizketa zifratua; berdina egin beharko zenuke.
