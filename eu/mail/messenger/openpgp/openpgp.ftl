@@ -33,10 +33,12 @@ openpgp-generate-key =
     .tooltiptext = OpenPGP bateragarria den gako berria sortzen du zifratzeko edo/eta sinatzeko
 openpgp-advanced-prefs-button-label =
     .label = Aurreratua…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link"> OHARRA:Gakoa sortzeak hainbat minutu har ditzake burutu artean.</a> Ez irten aplikaziotik gakoa sortzen ari denean.  Gakoa sortzen ari denean, nabigatze aktiboak edo disko erabilera intentsiboa dakarten eragiketek 'ausazkotasunaren multzoa' berriz beteko dute eta prozesua azkartu. Gakoa sortzea amaitzean jakinaraziko zaizu.
 openpgp-key-expiry-label =
     .label = Iraungitze-data
 openpgp-key-id-label =
     .label = Gako IDa
+openpgp-cannot-change-expiry = Hau egitura konplexuko gakoa da, bere iraungitze data aldaketa ez da onartzen.
 openpgp-key-man-title =
     .title = OpenPGP gako kudeatzailea
 openpgp-key-man-generate =
@@ -69,6 +71,12 @@ openpgp-key-man-import-secret-from-file =
     .label = Inportatu gako sekretua(k) fitxategitik
 openpgp-key-man-import-sig-from-file =
     .label = Inportatu baliogabetze gakoa(k) fitxategitik
+openpgp-key-man-import-from-clipbrd =
+    .label = Inportatu gakoa(k) arbeletik
+    .accesskey = a
+openpgp-key-man-import-from-url =
+    .label = Inportatu gakoa(k) URLtik
+    .accesskey = U
 
 ## e2e encryption settings
 
