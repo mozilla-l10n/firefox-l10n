@@ -65,3 +65,4 @@ printui-error-invalid-scale = Le scala debe esser un numero inter 10 e 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Le intervallo debe esser un numero inter 1 e { $numPages }.
+printui-error-invalid-start-overflow = Le numero del pagina  “de” debe esser inferior a illo del pagina “a”.
