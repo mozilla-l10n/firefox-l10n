@@ -35,6 +35,7 @@ printui-destination-label = Moõpa
 printui-destination-pdf-label = Eñongatu PDF ramo
 printui-more-settings = Emoĩporãve
 printui-less-settings = Emboheko sa’ive
+printui-paper-size-label = Kuatia tuichakue
 # Section title (noun) for the print scaling options
 printui-scale = Jupiha
 printui-scale-fit-to-page = Embojuehe kuatiaroguére
