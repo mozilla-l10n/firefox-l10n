@@ -65,3 +65,4 @@ printui-error-invalid-scale = Pe jupiha ha’eva’erã 10 ha 200 pa’ũme.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Pe rango ha’eva’erã papapy 1 ha { $numPages } pa’ũme.
+printui-error-invalid-start-overflow = Kuatiarogue papapy “guive” michĩveva’erã kuatiarogue papapy “peve”.
