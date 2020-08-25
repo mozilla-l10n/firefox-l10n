@@ -65,3 +65,4 @@ printui-error-invalid-scale = Skalan måste vara ett nummer mellan 10 och 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Området måste vara ett nummer mellan 1 och { $numPages }.
+printui-error-invalid-start-overflow = Sidnumret "från" måste vara mindre än sidnumret "till".
