@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Iskanje po spletu
 about-private-browsing-not-private = Trenutno niste v zasebnem oknu.
 about-private-browsing-info-description = { -brand-short-name } izbriše zgodovino iskanja in brskanja, ko zaprete program ali ko zaprete vse zavihke in okna zasebnega brskanja. Čeprav to ne pomeni, da ste za spletna mesta ali ponudnike internetnih storitev anonimni, vam omogoča preprostejše ohranjanje zasebnosti na spletu pred ostalimi uporabniki tega računalnika.
-
+about-private-browsing-need-more-privacy = Potrebujete še več zasebnosti?
+about-private-browsing-turn-on-vpn = Preizkusite { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
