@@ -34,3 +34,7 @@ experimental-features-web-api-link-preload-description = Atributi <a data-l10n-n
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = API Web: Akt beforeinput
