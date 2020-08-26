@@ -14,7 +14,8 @@
 <!ENTITY deniedPortAccess.longDesc "<p>V požadované URL adrese byl zadán port (např. <q>mozilla.org:80</q> pro port 80 na serveru mozilla.org), který se obvykle používá pro <em>jiné</em> internetové služby než je prohlížení webových stránek. Prohlížeč zrušil požadavek z důvodů vaší ochrany.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nenalezena">
-<!ENTITY dnsNotFound.longDesc "<p>URL adresa neodpovídá známému serveru a nelze ji načíst.</p><ul><li>Zkontrolujte prosím, že jste adresu napsali správně (např. že neobsahuje <q><strong>ww</strong>.mozilla.org</q> místo <q><strong>www</strong>.mozilla.org</q>)</li><li>Je možné, že server už neexistuje.</li><li>Zobrazují se vám ostatní stránky? Tato chyba může být způsobena problémy ve vaší místní síti. Zkontrolujte nastavení síťového připojení vašeho počítače a DNS serveru.</li><li>Pokud je váš počítač chráněný firewallem nebo proxy serverem, ověřte správnost jejich nastavení.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>URL adresa neodpovídá známému serveru a nelze ji načíst.</p><ul><li>Zkontrolujte, že je adresa napsaná správně a neobsahuje chyby jako
+            <strong>ww</strong>.example.com místo <strong>www</strong>.example.com.</li><li>Je možné, že server už neexistuje.</li><li>Zobrazují se vám ostatní stránky? Tato chyba může být způsobena problémy ve vaší místní síti. Zkontrolujte nastavení síťového připojení vašeho počítače a DNS serveru.</li><li>Pokud je váš počítač chráněný firewallem nebo proxy serverem, ověřte správnost jejich nastavení.</li></ul>">
 
 <!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "<p>Požadovaný soubor nebyl na zadané adrese nalezen. Je možné, že byl smazán, přejmenován nebo přesunut.</p><ul><li>Zkontrolujte prosím, že je adresa napsána správně, a to včetně velikosti písmen.</li><li>Jste-li autorem tohoto souboru, ověřte, že daný soubor na serveru existuje a že má příslušná práva na zobrazení.</li></ul>">
