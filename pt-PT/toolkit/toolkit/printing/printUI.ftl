@@ -35,9 +35,11 @@ printui-destination-label = Destino
 printui-destination-pdf-label = Guardar como PDF
 printui-more-settings = Mais definições
 printui-less-settings = Menos definições
+printui-paper-size-label = Tamanho do papel
 # Section title (noun) for the print scaling options
 printui-scale = Escala
 printui-scale-fit-to-page = Ajustar à página
+printui-scale-fit-to-page-width = Ajustar à largura da página
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
 # Section title for miscellaneous print options
@@ -63,3 +65,4 @@ printui-error-invalid-scale = A escala deve ser um número entre 10 e 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = O intervalo deve ser um número entre 1 e { $numPages }.
+printui-error-invalid-start-overflow = O número da página “de” deve ser menor que o número da página “até”.
