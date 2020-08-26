@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Shfletim Privat)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Shfletim Privat)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Shfletim Privat)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Shfletim Privat)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -114,6 +112,10 @@ urlbar-search-tips-redirect-2 = Filloni kërkimin tuaj te shtylla e adresave që
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Faqerojtës
+urlbar-search-mode-tabs = Skeda
+urlbar-search-mode-history = Historik
+
 ##
 
 urlbar-geolocation-blocked =
@@ -140,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = E keni bllokuar hyrjen MIDI për këtë sajt.
 urlbar-install-blocked =
     .tooltiptext = Ia keni bllokuar këtij sajti instalimin e shtesave.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Përpunoni këtë faqerojtës ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Këtë herë kërko me:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ndryshoni Rregullime Kërkimi
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ndryshoni rregullime kërkimi
-
 search-one-offs-context-open-new-tab =
     .label = Kërkoni në Skedë të Re
     .accesskey = S
@@ -193,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Vëre si Motor Kërkimi Parazgjedhje për Dritare Private
     .accesskey = V
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -201,15 +205,20 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Faqerojtës ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Skeda ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historik ({ $restrict })
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Shfaqe përpunuesin kur bëhen ruajtje
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = U bë
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -283,15 +292,12 @@ popup-select-microphone =
     .value = Mikrofon për ndarje me të tjerët:
     .accesskey = M
 popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.
-
 popup-screen-sharing-not-now =
     .label = Jo Tani
     .accesskey = J
-
 popup-screen-sharing-never =
     .label = Mos e Lejo Kurrë
     .accesskey = K
-
 popup-silence-notifications-checkbox = Çaktivizo njoftime nga { -brand-short-name }-i, ndërkohë që bëhet ndarje me të tjerë
 popup-silence-notifications-checkbox-warning = { -brand-short-name }-i s’do të shfaqë njoftime, kur jeni duke ndarë gjëra me të tjerë.
 
@@ -308,26 +314,55 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Zhvillues Web.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Bëni kërkim ose jepni adresë
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Bëni kërkim ose jepni adresë
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Kërkoni në Web
+    .aria-label = Kërkoni me { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Jepni terma kërkimi
+    .aria-label = Kërkoni me { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Jepni terma kërkimi
+    .aria-label = Kërko te faqerojtësit
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Jepni terma kërkimi
+    .aria-label = Kërko në historik
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Jepni terma kërkimi
+    .aria-label = Kërko në skeda
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Kërkoni me { $name } ose jepni adresë
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Fshiheni Anështyllën e Faqerojtësve
 urlbar-permissions-granted =
     .tooltiptext = I keni akorduar leje shtesë këtij sajti.
 urlbar-switch-to-tab =
     .value = Kalo te skeda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Zgjerim:
-
 urlbar-go-button =
     .tooltiptext = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-page-action-button =
