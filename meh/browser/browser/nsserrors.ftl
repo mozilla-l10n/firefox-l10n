@@ -9,9 +9,13 @@
 # refactoring them in some way, the script will need updating.
 
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Nkene iin error ji conexión { $hostname }. { $errorMessage }
+# Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
-
+ssl-error-post-warning = Ntu nakuni error SSL.
 sec-error-bad-password = Contraseña seguridad nchu´un ntu vatu.
 sec-error-retry-password = Contraseña jíía nchu´un ntu vatu. Chu´uma íchika.
 sec-error-cert-not-valid = Certificado ntu válido.

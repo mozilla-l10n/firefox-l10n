@@ -321,6 +321,14 @@ urlbar-placeholder-search-mode-other-bookmarks =
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Tee a nánukunu
     .aria-label = Nánuku historia
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Tee a nánukunu
+    .aria-label = Nánuku pestañas
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Nánuku ji { $name } a xíín chu'un iin nuu
 urlbar-permissions-granted =
     .tooltiptext = Nña'anu permiso nuu web ya´a
 urlbar-switch-to-tab =
