@@ -8,7 +8,8 @@ password-quality-meter = پاس ورڈ کوالٹی میٹر
 
 change-password-window =
     .title = ماسٹر پاس ورڈ تبدیل کریں
-
+change-device-password-window =
+    .title = پاس ورڈ تبدیل کریں
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = سلامتی آلہ: { $tokenName }
@@ -21,12 +22,16 @@ change-password-reenter = نیا پاس ورڈ (دوبارہ):
 reset-password-window =
     .title = ماسٹر پاس ورڈ پھر سیٹ کریں
     .style = width: 40em
+pippki-failed-pw-change = پاس ورڈ تبدیل کرنے سے قاصر ہے
+pippki-pw-change-ok = پاسوڑد کامیابی سے تبدیل ہو گیا ہے.
 
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = پھر سیٹ کریں
 reset-password-text = اگر آپ اپنا ماسٹر پاس ورڈ پھر سیٹ کرتے ہیں تو آپ کے تمام ذخیرہ شدہ ویب اور ای میل پاس ورڈ، فارم کوائف، ذاتی تصدیق نامے اور نجی کلیدیں بھلا دی جائیں گی۔ کیا آپ واقعی اپنا ماسٹر پاس ورڈ پھر سیٹ کرنا چاہتے ہیں؟
+pippki-reset-password-confirmation-title = نیادی پاس ورڈ دوبارہ سیٹ کریں
+pippki-reset-password-confirmation-message = آپ کا بنیادی پاس ورڈ پھر سیٹ ہو چکا ہے۔
 
 ## Downloading cert dialog
 
