@@ -305,6 +305,22 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Nánuku nuu Web
     .aria-label = Nánuku nuu Web { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Tee a nánukunu
+    .aria-label = Nánuku { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Tee a nánukunu
+    .aria-label = Nánuku marcadores
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Tee a nánukunu
+    .aria-label = Nánuku historia
 urlbar-permissions-granted =
     .tooltiptext = Nña'anu permiso nuu web ya´a
 urlbar-switch-to-tab =
