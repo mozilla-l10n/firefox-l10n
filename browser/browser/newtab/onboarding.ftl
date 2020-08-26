@@ -72,12 +72,36 @@ onboarding-multistage-theme-primary-button-label = Ruaje Temën
 onboarding-multistage-theme-secondary-button-label = Jo tani
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Vetvetiu
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Përdor temë sistemi
+onboarding-multistage-theme-label-light = E çelët
+onboarding-multistage-theme-label-dark = E errët
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title = Përdorni të njëjtën pamje me sistemin operativ për butona, menu dhe dritare.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title = Përdorni një pamje të çelët për butona, menu dhe dritare.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Përdorni një pamje të errët për butona, menu dhe dritare.
+        menus, and windows.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title = Përdorni një pamje plot ngjyra për butona, menu dhe dritare.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
