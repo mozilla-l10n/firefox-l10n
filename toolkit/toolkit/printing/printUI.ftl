@@ -36,6 +36,7 @@ printui-destination-label = Получатель
 printui-destination-pdf-label = Сохранить в PDF
 printui-more-settings = Все настройки
 printui-less-settings = Основные настройки
+printui-paper-size-label = Размер бумаги
 # Section title (noun) for the print scaling options
 printui-scale = Масштаб
 printui-scale-fit-to-page = По размеру страницы
@@ -65,3 +66,4 @@ printui-error-invalid-scale = Масштаб должен быть числом 
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Диапазон должен быть числом от 1 до { $numPages }.
+printui-error-invalid-start-overflow = Номер страницы «С» должен быть меньше, чем номер страницы «по».
