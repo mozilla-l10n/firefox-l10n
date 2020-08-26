@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Nánuku yu´u)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Nánuku yu´u)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Nánuku yu´u)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Nánuku yu´u)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -114,6 +112,7 @@ urlbar-search-tips-redirect-2 = Kajie´e nánuku nuu ya´a je kuni tu'un kuvi { 
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -140,12 +139,10 @@ urlbar-midi-blocked =
     .tooltiptext = Nñasɨnɨ acceso nuu MIDI nuu web ya´a.
 urlbar-install-blocked =
     .tooltiptext = Nñasɨnɨ nchu´un ka̱a̱ chunta´an nuu web ya´a.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Natee a ta´an ini noo´o ya´a ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,14 +173,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nánuku ji:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sama naja nánuku
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sama naja nánuku
-
 search-one-offs-context-open-new-tab =
     .label = Nánuku nuu iin pestaña jíía
     .accesskey = j
@@ -201,15 +196,14 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Xituvi natee saa chuva´a
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Xinɨ´ɨ
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -280,11 +274,9 @@ popup-select-camera =
 popup-select-microphone =
     .value = Kua´a Micrófono:
     .accesskey = M
-
 popup-screen-sharing-not-now =
     .label = Nkuvi ntañu´u
     .accesskey = n
-
 popup-screen-sharing-never =
     .label = Nkua'a ni'i íchi
     .accesskey = N
@@ -301,19 +293,25 @@ sharing-warning-proceed-to-tab =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Nánuku a xíín chu´un iin nuu
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Nánuku a xíín chu´un iin nuu
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Nánuku nuu Web
+    .aria-label = Nánuku nuu Web { $name }
 urlbar-permissions-granted =
     .tooltiptext = Nña'anu permiso nuu web ya´a
 urlbar-switch-to-tab =
     .value = Sama su̱ku̱a:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
-
 urlbar-go-button =
     .tooltiptext = Kaka nu barra nuu.
 urlbar-page-action-button =
