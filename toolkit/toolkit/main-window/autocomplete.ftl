@@ -29,3 +29,4 @@ autocomplete-import-logins-chromium-edge =
 
 ##
 
+autocomplete-import-learn-more = En savoir plus

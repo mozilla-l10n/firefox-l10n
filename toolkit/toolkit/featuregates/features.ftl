@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Active la prise en charge de la 
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API web : WebGPU
+experimental-features-web-gpu-description2 = Cette nouvelle API fournit une prise en charge de bas niveau pour effectuer des calculs et des rendus graphiques à l’aide du <a data-l10n-name="wikipedia">processeur graphique (GPU)</a> de l’appareil ou de l’ordinateur de l’utilisateur. La <a data-l10n-name="spec">spécification</a> est toujours en cours de développement. Voir le <a data-l10n-name="bugzilla">bug 1602129</a> pour plus de détails.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
@@ -20,6 +21,8 @@ experimental-features-media-avif-description = Lorsque cette fonctionnalité est
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = API web : inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Notre implémentation de l’attribut global <a data-l10n-name="mdn-inputmode">inputmode</a> a été mise à jour conformément à <a data-l10n-name="whatwg">la spécification WHATWG</a>, mais nous devons encore apporter d’autres modifications, comme la rendre disponible sur du contenu modifiable via contenteditable. Voir le <a data-l10n-name="bugzilla">bug 1205133</a> pour plus de détails.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
