@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Удалить списки">
 <!ENTITY deleteItemsCmd.label                           "Удалить элементы">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Свойства">
 <!ENTITY propertiesMenu.accesskey                       "в">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Почта и группы новостей">
 <!ENTITY messengerCmd.accesskey                         "о">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Адресная книга">
-<!ENTITY addressBookCmd.accesskey                       "н">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Поиск адресов…">
 <!ENTITY searchAddressesCmd.accesskey                   "а">
 <!ENTITY importCmd.label                                "Импорт…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "в">
 <!ENTITY abPropertiesContext.label                      "Свойства">
 <!ENTITY abPropertiesContext.accesskey                  "в">
+<!ENTITY syncContext.label                              "Синхронизовать">
+<!ENTITY syncContext.accesskey                          "х">
 <!ENTITY editContactContext.label                       "Изменить контакт">
 <!ENTITY editContactContext.accesskey                   "м">
 <!ENTITY editMailingListContext.label                   "Изменить список">
