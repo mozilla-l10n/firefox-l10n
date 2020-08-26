@@ -32,6 +32,7 @@ policy-DisablePasswordReveal = భద్రపరచిన ప్రవేశా
 policy-DisablePocket = Pocketకు వెబ్‌పేజీలను భద్రపరిచే సౌలభ్యాన్ని అచేతనం చేయండి.
 policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
 policy-DisableProfileImport = మరొక విహారిణి నుండి దిగుమతి చేసే మెనూ ఆదేశాన్ని అచేతనం చేయి.
+policy-DisableSafeMode = సేఫ్ మోడ్‌లో పునఃప్రారంభించగలిగే సౌలభ్యాన్ని నిలిపివేయండి. గమనిక: Shift మీట ద్వారా సేఫ్ మోడ్‌లోకి ప్రవేశించడాన్ని Windowsలో మాత్రమే గ్రూప్ పాలసీని వాడి నిలిపివేయగలరు.
 policy-DisableSecurityBypass = కొన్ని భద్రతా హెచ్చరికలను వాడుకరులు దాటవేయకుండా నియంత్రించండి.
 policy-DisableSetAsDesktopBackground = బొమ్మలను డెస్క్‌టాప్ వెనులతంగా అమర్చుకొనే మెనూ ఆదేశాన్ని అచేతనం చేయి.
 policy-DisableSystemAddonUpdate = వ్యవస్థ పొడగింతలను స్థాపించడం, తాజాకరించడం నుండి విహారిణిని నివారించు.
