@@ -36,6 +36,7 @@ printui-destination-label = Zařízení pro tisk
 printui-destination-pdf-label = Uložit jako PDF
 printui-more-settings = Další nastavení
 printui-less-settings = Skrýt další nastavení
+printui-paper-size-label = Velikost papíru
 # Section title (noun) for the print scaling options
 printui-scale = Měřítko
 printui-scale-fit-to-page = Přizpůsobit na stránku
@@ -65,3 +66,4 @@ printui-error-invalid-scale = Měřítko musí být číslo mezi 10 a 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rozsah stránek musí být číslo mezi 1 a { $numPages }.
+printui-error-invalid-start-overflow = Číslo stránky „od“ musí být menší než číslo stránky „do“.
