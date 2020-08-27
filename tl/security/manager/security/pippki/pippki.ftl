@@ -8,7 +8,6 @@ password-quality-meter = Pangsukat ng kalidad ng password
 
 change-password-window =
     .title = Palitan ang Master Password
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Security Device: { $tokenName }
@@ -24,6 +23,9 @@ reset-password-window =
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = I-reset ang Primary Password
+    .style = width: 40em
 reset-password-button-label =
     .label = I-reset
 reset-password-text = Pag nireset mo ang master password, makakalimutan lahat ng nakatagong web at email passwords, form data, personal certificates, at private keys. Gusto mo ba talagang ireset ang master password mo?

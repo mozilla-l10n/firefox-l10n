@@ -124,6 +124,7 @@ master-password-notification-message = Pakipasok ang iyong master password para 
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Pakilagay ang iyong Primary Password para makita ang naka-save na mga login at password
 master-password-reload-button =
     .label = Mag-log in
     .accesskey = L

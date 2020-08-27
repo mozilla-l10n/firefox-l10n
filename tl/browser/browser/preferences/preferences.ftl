@@ -739,6 +739,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Gumamit ng master password
     .accesskey = U
+forms-primary-pw-use =
+    .label = Gumamit ng Primary Password
+    .accesskey = U
+forms-primary-pw-learn-more-link = Alamin
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -746,6 +750,14 @@ forms-master-pw-change =
     .label = Palitan ang Master Password...
     .accesskey = M
 forms-master-pw-fips-title = Kasalukuyang nasa FIPS mode ka.  Nangangailangan ang FIPS ng isang may laman na Master Password.
+forms-primary-pw-change =
+    .label = Palitan ang Primary Password…
+    .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Kilala dati bilang Master Password
+forms-primary-pw-fips-title = Kasalukuyan kang naka-FIPS mode. Kinakailangan ng FIPS ng isang hindi blangkong Primary Password.
 forms-master-pw-fips-desc = Nabigo ang Pagpalit ng Password
 
 ## OS Authentication dialog
@@ -755,6 +767,13 @@ forms-master-pw-fips-desc = Nabigo ang Pagpalit ng Password
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = lumikha ng Master Password
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para makagawa ng Primary Password, ilagay ang iyong Windows login credential. Makatutulong ito sa pagprotekta ng seguridad ng iyong mga account.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = bumuo ng Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
