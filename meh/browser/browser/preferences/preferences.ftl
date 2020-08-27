@@ -71,6 +71,9 @@ restart-later = Nakajie'e inka ichi
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Iin ka̱a̱, <img data-l10n-name="icon"/> { $name }, ke'i configuración noo´o.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Iin na´á ka̱a̱, <img data-l10n-name="icon"/> { $name }, tetiñu configuración noo´o.
 
 ## Preferences UI Search Results
 
@@ -648,6 +651,11 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = Sá´á iin contraseña maestra
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Sá´á iin contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -670,6 +678,7 @@ history-remember-option-never =
     .label = Nchuva´a historial
 history-remember-option-custom =
     .label = Ni'i configuraciones personalizadas nuu historial
+history-remember-description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
 history-private-browsing-permanent =
     .label = Ntaka ichí ni'i nánuku yu'u
     .accesskey = p

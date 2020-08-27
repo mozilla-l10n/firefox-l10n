@@ -283,6 +283,8 @@ popup-screen-sharing-never =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Noo'o jia'a { -brand-short-name }. Da inka ñivɨ kuvi kune'ya sa samanu iin pestaña jíía.
+sharing-warning-screen = Noo'o jia'a kuaiyo pantalla. Da inka ñivɨ kuvi kune'ya sa samanu iin pestaña jíía.
 sharing-warning-proceed-to-tab =
     .label = Kaka nuu sukua
 

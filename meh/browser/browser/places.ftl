@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Síne nuu iin ventana yu´u jíía
     .accesskey = p
-
 places-new-bookmark =
     .label = Marcador jíía…
     .accesskey = N
@@ -30,13 +29,19 @@ places-new-folder =
 places-new-separator =
     .label = Separador jíía
     .accesskey = v
-
 places-view =
     .label = Kune'ya
     .accesskey = V
-
+places-by-date =
+    .label = Por Fecha
+    .accesskey = F
+places-by-site =
+    .label = Por Sitio
+    .accesskey = S
 places-history-search =
     .placeholder = Nánuku historial
 places-bookmarks-search =
     .placeholder = Nánuku a ta´a ini noo´o
-
+places-delete-domain-data =
+    .label = Nnaku'u sitio ya'a
+    .accesskey = O
