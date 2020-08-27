@@ -44,6 +44,11 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Mga { -brand-short-name } Experiment
+category-experimental =
+    .tooltiptext = Mga { -brand-short-name } Experiment
+pane-experimental-subtitle = Mag-ingat sa Pagpatuloy
+pane-experimental-search-results-header = Mga { -brand-short-name } Experiment: Mag-ingat sa Pagpatuloy
 help-button-label = Suporta sa { -brand-short-name }
 addons-button-label = Mga Extension at Tema
 focus-search =
@@ -548,6 +553,9 @@ search-restore-default =
 search-remove-engine =
     .label = Alisin
     .accesskey = r
+search-add-engine =
+    .label = Magdagdag
+    .accesskey = A
 search-find-more-link = Maghanap ng mga karagdagang search engine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -762,6 +770,8 @@ forms-master-pw-fips-desc = Nabigo ang Pagpalit ng Password
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Para makagawa ng Master Password, ilagay ang iyong Windows login credential. Makatutulong ito sa pagprotekta ng seguridad ng iyong mga account.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -1088,6 +1098,13 @@ space-alert-under-5gb-message = Nauubusan na ng disk space ang { -brand-short-na
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only Mode
+httpsonly-learn-more = Alamin
+httpsonly-radio-enabled =
+    .label = I-enable ang HTTPS-Only Mode sa lahat ng mga window
+httpsonly-radio-enabled-pbm =
+    .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
+httpsonly-radio-disabled =
+    .label = Huwag i-enable ang HTTPS-Only Mode
 
 ## The following strings are used in the Download section of settings
 

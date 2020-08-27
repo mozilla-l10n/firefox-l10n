@@ -58,12 +58,56 @@ onboarding-multistage-import-secondary-button-label = Hindi sa ngayon
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Ang mga site na nakalista rito ay natagpuan sa device na ito. Hindi nagse-save o nagsi-sync ng data ang { -brand-short-name } mula sa ibang browser maliban na lang kung pinili mong i-import ito.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Pagsisimula: screen { $current } ng { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Pumili ng <span data-l10n-name="zap">itsura</span>
+onboarding-multistage-theme-subtitle = Ipasadya mo ang { -brand-short-name } gamit ang isang tema.
+onboarding-multistage-theme-primary-button-label = I-save ang Tema
+onboarding-multistage-theme-secondary-button-label = Hindi sa ngayon
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Kusa
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Gamitin ang tema ng sistema
+onboarding-multistage-theme-label-light = Maliwanag
+onboarding-multistage-theme-label-dark = Madilim
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Gayahin ang itsura ng iyong operating
+        system para sa mga button, menu, at mga window.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Gumamit ng maliwanag na itsura para sa mga button,
+        menu, at mga window.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Gumamit ng madilim na itsura para sa mga button,
+        menu, at mga window.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Gumamit ng makulay na itsura para sa mga button,
+        menu, at mga window.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 

@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Mag-set ng mga policy na maaaring ma-access ng WebExtensions sa chrome.storage.managed.
+policy-AppAutoUpdate = Mag-enable o mag-disable ng automatic application update.
 policy-AppUpdateURL = Set custom app update URL.
 policy-Authentication = I-configure ang integrated na pagpapatotoo para sa mga website na sumusuporta dito.I-configure ang integrated na pagpapatotoo para sa mga website na sumusuporta dito.
 policy-BlockAboutAddons = Harangin ang access sa Add-ons Manager (about:addons).
@@ -25,6 +26,7 @@ policy-DisabledCiphers = I-disable ang mga cipher.
 policy-DefaultDownloadDirectory = I-set ang default download directory.
 policy-DisableAppUpdate = Pigilan ang browser mula sa pag-update.
 policy-DisableBuiltinPDFViewer = I-disable ang PDF.js, ang built-in na PDF viewer sa { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Pigilan ang default browser agent sa kahit anong pagkilos. Para lamang ito sa Windows; walang agent ang ibang mga platform.
 policy-DisableDeveloperTools = I-block ang access sa paggamit ng developer tools.
 policy-DisableFeedbackCommands = I-disable ang mga command para magpadala ng feedback mula sa Help menu (Mag-submit ng Feedback at I-report ang Deceptive Site).
 policy-DisableFirefoxAccounts = I-disable ang mga service ng { -fxaccount-brand-name }, kagaya ng Sync.
@@ -72,6 +74,7 @@ policy-LegacyProfiles = I-disable ang feature na nagpapatupad ng hiwalay na prof
 ##
 
 policy-LocalFileLinks = Payagan ang ilang mga website na mag-link sa mga local file.
+policy-MasterPassword = Kailanganin o pigilang gumamit ng master password.
 policy-PrimaryPassword = Kailanganin o pigilang gumamit ng Primary Password.
 policy-NetworkPrediction = I-enable o i-disable ang network prediction (DNS prefetching).
 policy-NewTabPage = I-enable o i-disable ang New Tab page.
@@ -81,7 +84,10 @@ policy-OfferToSaveLoginsDefault = Itakda ang default value sa pagpahintulot sa {
 policy-OverrideFirstRunPage = I-override ang first run page. Itakda ang polisiyang ito sa blangko kung gusto mong i-disable ang first run page.
 policy-OverridePostUpdatePage = Patungan ang nilalaman ng pahinang "Ano ang Bago" matapos mag-update. Itakda ang polisiyang ito sa blangko kung gusto mong huwag paganahin ang post-update page.
 policy-PasswordManagerEnabled = I-enable ang pag-save ng mga password sa password manager.
+# PDF.js and PDF should not be translated
+policy-PDFjs = I-disable o i-configure ang PDF.js, ang built-in na PDF viewer sa { -brand-short-name }.
 policy-Permissions2 = I-configure ang mga pahintulot para sa camera, mikropono, lokasyon, abiso, at autoplay.
+policy-PictureInPicture = I-enable o i-disable ang Picture-in-Picture.
 policy-PopupBlocking = Payagan ang mga piling website para magpakita ng popup by default.
 policy-Preferences = I-set at i-lock ang value para sa mga kagustuhan na napili
 policy-PromptForDownloadLocation = Magtanong kung saan maaaring mag save ng file kapag nag-download.
