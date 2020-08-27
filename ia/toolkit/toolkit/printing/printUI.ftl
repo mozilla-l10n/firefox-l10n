@@ -59,6 +59,19 @@ printui-primary-button-save = Salvar
 printui-cancel-button = Cancellar
 printui-loading = Preparation del vista preliminar
 
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Le scala debe esser un numero inter 10 e 200.
