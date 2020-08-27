@@ -24,7 +24,7 @@ printui-page-custom-range =
 printui-range-start = საწყისი
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
-printui-range-end = ბოლო
+printui-range-end = საბოლოო
 # Section title for the number of copies to print
 printui-copies-label = ასლები
 printui-orientation = განლაგება
@@ -48,7 +48,11 @@ printui-headers-footers-checkbox = თავსართისა და ბო�
 printui-backgrounds-checkbox = ფონის ამობეჭდვა
 printui-color-mode-label = ფერის რეჟიმი
 printui-color-mode-color = ფერადი
-printui-color-mode-bw = შავთეთრი
+printui-color-mode-bw = შავ-თეთრი
+printui-margins = მინდვრები
+printui-margins-default = ნაგულისხმევი
+printui-margins-min = უმცირესი
+printui-margins-none = არცერთი
 printui-system-dialog-link = ამობეჭდვა სისტემის ფანჯრიდან…
 printui-primary-button = ამობეჭდვა
 printui-primary-button-save = შენახვა
@@ -57,6 +61,21 @@ printui-loading = შეთვალიერების მომზადე�
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = მასშტაბი უნდა იყოს რიცხვი შუალედში 10 და 200
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = უნდა იყოს რიცხვი შუალედში 1 და { $numPages }.
+printui-error-invalid-start-overflow = „საწყისი“ გვერდის ნომერი ნაკლებია „საბოლოოს“ ნომერზე.
