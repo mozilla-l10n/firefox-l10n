@@ -69,6 +69,8 @@ serviceworker-empty-suggestions-debugger = Mag-step through sa iyong mga Service
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Mag-inspect ng mga Service Worker sa ibang mga domain. <a>Buksan ang about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Walang natagpuang mga service worker
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Alamin
 # Header for the Manifest page when we have an actual manifest
@@ -76,6 +78,8 @@ manifest-view-header = App Manifest
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Kailangan mong magdagdag ng web app Manifest para ma-inspect ito rito. <a>Alamin</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Walang natagpuang web app manifest
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Alamin kung paano magdagdag ng manifest
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.

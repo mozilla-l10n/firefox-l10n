@@ -121,6 +121,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = kopyahin ang naka-sav
 ## Master Password notification
 
 master-password-notification-message = Pakipasok ang iyong master password para makita ang mga naka-save na login at password
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = mag-export ng mga naka-save na login at password
 
 ## Primary Password notification
 
@@ -155,6 +158,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
 about-logins-confirm-remove-dialog-confirm-button = Tanggalin
+about-logins-confirm-export-dialog-title = Mag-export ng mga login at password
+about-logins-confirm-export-dialog-message = Mase-save ang mga password mo bilang readable text (hal., PangitNaP@ssw0rd) kaya pwede itong makita ng kahit sinong makakapagbukas ng na-export na file.
 about-logins-confirm-export-dialog-confirm-button = i-Export…
 confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
