@@ -339,6 +339,7 @@ filter-decrypt-move-warn-experimental =
     Gure gomendio garrantzitsua da aurretik saiatu beharko zenukeela "sortu deszifratutako kopia" iragazkia, probatu emaitza kontu handiz eta iragazki hau bakarrik erabiltzen hasi behin emaitzarekin pozik zaudela.
 filter-term-pgpencrypted-label = OpenPGP zifratua
 filter-key-required = Hartzaile gakoa aukeratu behar duzu.
+filter-key-not-found = Ezin da '{ $desc }'  gako zifratua aurkitu.
 
 ## Account settings export output
 
