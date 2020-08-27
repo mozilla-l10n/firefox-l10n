@@ -316,6 +316,21 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = Sinatze algoritmo ezezaguna  (ID: { $id })
 unknown-hash-alg = Hash kriptografiko ezezaguna (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Zure { $desc } gakoa { $days } egun baino lehenago iraungiko da.
+    Gako pare berria sortu eta erabili ahal izateko dagokion kontuak konfiguratzea aholkatzen dizugu.
+expiry-keys-expire-soon =
+    Zure ondorengo gakoak { $days } egun baino lehen iraungiko dira: { $desc }.
+    Gako pare berriak sortu eta erabili ahal izateko dagozkion kontuak konfiguratzea aholkatzen dizugu.
+expiry-key-missing-owner-trust =
+    Zure { $desc } gako sekretuak konfiantza galdu du.
+     Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Funtsezkoak" gako propietateetan.
+expiry-keys-missing-owner-trust =
+    Zure ondorengo gako sekretuek konfiantza galdu dute.
+    { $desc }
+    Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Funtsezkoak" gako propietateetan.
 
 ## Account settings export output
 
+key-trust-ultimate = Funtsezkoak
