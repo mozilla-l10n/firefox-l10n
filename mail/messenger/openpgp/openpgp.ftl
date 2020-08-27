@@ -285,6 +285,22 @@ key-expired-simple = Gakoa iraungita dago
 key-revoked-simple = Gakoa ukatu zen.
 key-do-you-accept = Onartzen al duzu gako hau sinadura digitalak egiaztatzeko eta mezuak zifratzeko?
 key-accept-warning = Ekidin gako faltsuak onartzea. Erabili posta elektronikoa ez den beste kanal bat zure mezu-idazleen hatz-markak egiaztatzeko.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Ezin da mezua bidali, zure gako pertsonalarekin arazo bat dagoelako. { $problem }
+cannot-encrypt-because-missing = Ezin da mezua bidali muturretik-muturrerako zifratzeaz, ondorengo hartzaileen gakoekin arazoak daudelako: { $problem }
+window-locked = Mezu-prestatze leihoa blokeatua dago; bidalketa bertan behera utzi da
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Mezuaren atal zifratua
+mime-decrypt-encrypted-part-concealed-data = Hau mezuaren atal zifratua da. Aparteko leiho baten ireki beharra daukazu eranskinean klik eginda.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Bertan behera utzita
+keyserver-error-unknown = Errore ezezagun bat gertatu da
+keyserver-error-server-error = Gako-zerbitzariak errorearen berri eman du.
+keyserver-error-import-error = Huts egin du jaitsitako gakoaren inportazioak.
+keyserver-error-unavailable = Gako-zerbitzaria ez dago eskuragarri.
+keyserver-error-security-error = Gako-zerbitzariak ez du sarrera zifratuaren euskarririk.
+keyserver-error-certificate-error = Gako-zerbitzariaren ziurtagiria ez da baliozkoa.
+keyserver-error-unsupported = Ez dago gako-zerbitzari eskuragarrik.
 
 ## Account settings export output
 
