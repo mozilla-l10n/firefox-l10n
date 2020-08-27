@@ -571,6 +571,9 @@ search-restore-default =
 search-remove-engine =
     .label = Verwijderen
     .accesskey = V
+search-add-engine =
+    .label = Toevoegen
+    .accesskey = T
 search-find-more-link = Meer zoekmachines zoeken
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
