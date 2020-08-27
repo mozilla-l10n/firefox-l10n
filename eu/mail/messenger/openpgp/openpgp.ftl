@@ -233,6 +233,8 @@ openpgp-selection-status =
         [one] Zure uneko konfigurazioak <b>{ $key }</b> gako IDa darabil
        *[other] Zure uneko konfigurazioak <b>{ $key }</b> gakoak IDa darabil
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Zure uneko konfigurazioak <b>{ $key }</b> gakoa darabil, iraungita dagoena.
 openpgp-add-key-button =
     .label = Gehitu gakoa…
     .accesskey = G
