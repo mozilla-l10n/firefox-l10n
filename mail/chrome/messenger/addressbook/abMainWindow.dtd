@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Rimozione liste">
 <!ENTITY deleteItemsCmd.label                           "Rimozione oggetti">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Proprietà">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Posta e gruppi di discussione">
 <!ENTITY messengerCmd.accesskey                         "g">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Rubrica">
-<!ENTITY addressBookCmd.accesskey                       "R">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Cerca indirizzi…">
 <!ENTITY searchAddressesCmd.accesskey                   "C">
 <!ENTITY importCmd.label                                "Importa…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Proprietà">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Sincronizza">
+<!ENTITY syncContext.accesskey                          "c">
 <!ENTITY editContactContext.label                       "Modifica contatto">
 <!ENTITY editContactContext.accesskey                   "M">
 <!ENTITY editMailingListContext.label                   "Modifica lista">
