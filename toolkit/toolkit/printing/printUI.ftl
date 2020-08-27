@@ -39,9 +39,11 @@ printui-destination-label = Cyrchfan
 printui-destination-pdf-label = Cadw i PDF
 printui-more-settings = Rhagor o osodiadau
 printui-less-settings = Llai o osodiadau
+printui-paper-size-label = Maint papur
 # Section title (noun) for the print scaling options
 printui-scale = Graddfa
 printui-scale-fit-to-page = Yn ffitio'r dudalen
+printui-scale-fit-to-page-width = Yn ffitio i led y dudalen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Graddfa
 # Section title for miscellaneous print options
@@ -67,3 +69,4 @@ printui-error-invalid-scale = Rhaid i'r raddfa fod yn rhif rhwng 10 a 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rhaid i'r raddfa fod yn rhif rhwng 10 a { $numPages }.
+printui-error-invalid-start-overflow = Rhaid i rif y dudalen “o” fod yn llai na rhif y dudalen “i”.
