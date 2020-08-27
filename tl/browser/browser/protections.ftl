@@ -22,6 +22,9 @@ graph-total-tracker-summary =
 graph-private-window = Patuloy na hinaharang ng { -brand-short-name } ang mga tracker sa mga Private Window, pero hindi nito nililista kung anu-ano ang mga naharang.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Mga tracker na naharang ng { -brand-short-name } ngayong linggo
+protection-report-webpage-title = Protections Dashboard
+protection-report-page-content-title = Protections Dashboard
+etp-card-title-custom-not-blocking = Enhanced Tracking Protection: OFF
 protection-report-etp-card-content-custom-not-blocking = Lahat ng proteksyon ay kasalukyang naka-off. Piliin kung alin tracker ang i-blblock sa pamamagitan ng pamamahala ng iyong { -brand-short-name } protection settings.
 protection-report-manage-protections = Pamahalaan ang Settings
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -45,6 +48,8 @@ protections-close-button2 =
 lockwise-title = Huwag nang muling makalimot ng password
 lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga password mo sa iyong browser.
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
+protection-report-save-passwords-button = I-save ang mga Password
+    .title = Mag-save ng mga Password sa { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Dalhin kahit saan ang mga password mo
 lockwise-no-logins-card-content = Gamitin sa kahit anong device ang mga password na naka-save sa { -brand-short-name }.
 lockwise-app-links = { -lockwise-brand-name } para sa <a data-l10n-name="lockwise-android-inline-link">Android</a> at <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
