@@ -383,6 +383,14 @@ key-man-button-export-pub-key = Esportatu gako &publikoak bakarrik
 key-man-button-refresh-all = &Freskatu gako guztiak
 key-man-loading-keys = Gakoak kargatzen, mesedez itxaron…
 ascii-armor-file = ASCII egitura fitxategiak (*.asc)
+no-key-selected = Gutxienez gako bat aukeratu beharko zenuke aukeratutako eragiketa egiteko
+export-to-file = Esportatu gako publikoa fitxategira
+export-keypair-to-file = Esportatu gako publiko eta pribatua fitxategira
+export-secret-key = OpenPGP gako fitxategian erantsi nahi duzu gako sekretua?
+save-keys-ok = Gakoak arrakastaz gorde dira.
+save-keys-failed = Huts egin du gakoak gordetzean!
+default-pub-key-filename = Esportatuak-gako-publikoak
+default-pub-sec-key-filename = Gako-sekretuen-babeskopia
 
 ## Account settings export output
 
