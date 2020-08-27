@@ -340,6 +340,24 @@ filter-decrypt-move-warn-experimental =
 filter-term-pgpencrypted-label = OpenPGP zifratua
 filter-key-required = Hartzaile gakoa aukeratu behar duzu.
 filter-key-not-found = Ezin da '{ $desc }'  gako zifratua aurkitu.
+filter-warn-key-not-secret =
+    Abisua - "zifratu gakora" iragazki ekintzak hartzaileak aldatzen ditu.
+    Ez badaukazu { $desc }(e)n gako sekretua ez zara gai izango hemendik aurrera mezuak irakurtzeko.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Deszifratu betirako (OpenPGP)
+filter-decrypt-copy-label = Sortu deszifratutako kopia (OpenPGP)
+filter-encrypt-label = Zifratu gakora (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Eginda! gakoak inportatuta
+import-info-bits = bit
+import-info-created = Sortuta
+import-info-fpr = Hatz-marka
+import-info-details = Erakutsi zehetasunak eta kudeatu gako onartzea
+import-info-no-keys = Ez da gakorik inportatu
+# Strings in enigmailKeyManager.js
+import-from-clip = Gakoa(k) inportatu nahi d(it)uzu arbeletik?
+import-from-url = Jaitsi gako publikoa URL honetatik:
 
 ## Account settings export output
 
