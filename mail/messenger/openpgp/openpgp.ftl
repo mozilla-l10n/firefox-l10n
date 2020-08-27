@@ -325,11 +325,11 @@ expiry-keys-expire-soon =
     Gako pare berriak sortu eta erabili ahal izateko dagozkion kontuak konfiguratzea aholkatzen dizugu.
 expiry-key-missing-owner-trust =
     Zure { $desc } gako sekretuak konfiantza galdu du.
-     Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Funtsezkoak" gako propietateetan.
+     Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Azkenekoa" gako propietateetan.
 expiry-keys-missing-owner-trust =
     Zure ondorengo gako sekretuek konfiantza galdu dute.
     { $desc }
-    Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Funtsezkoak" gako propietateetan.
+    Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Azkenekoa" gako propietateetan.
 expiry-open-key-manager = Ireki OpenPGP gako kudeatzailea
 expiry-open-key-properties = Ireki gako propietateak
 # Strings filters.jsm
@@ -337,5 +337,5 @@ filter-folder-required = Helburu-karpeta bat hautatu behar duzu.
 
 ## Account settings export output
 
-key-ring-key-not-trusted = { $userId } (key ID { $keyId }) gakoak oraindik ez du konfiantzarik. Mesedez ezarri zure gakoaren konfiantza maila "Funtsezkoak" atalean sinatzean erabiltzeko.
-key-trust-ultimate = Funtsezkoak
+key-ring-key-not-trusted = { $userId } (key ID { $keyId }) gakoak oraindik ez du konfiantzarik. Mesedez ezarri zure gakoaren konfiantza maila "Azkenekoa" atalean sinatzean erabiltzeko.
+key-trust-ultimate = Azkenekoa
