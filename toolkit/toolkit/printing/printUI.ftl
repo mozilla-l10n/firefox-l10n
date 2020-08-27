@@ -58,6 +58,22 @@ printui-primary-button-save = 저장
 printui-cancel-button = 취소
 printui-loading = 미리보기 준비 중
 
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US 레터
+printui-paper-legal = US 리걸
+printui-paper-tabloid = 타블로이드
+
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = 배율은 10에서 200 사이의 숫자여야 합니다.

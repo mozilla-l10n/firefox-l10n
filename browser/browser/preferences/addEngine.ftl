@@ -16,3 +16,4 @@ add-engine-ok =
     .label = 엔진 추가
     .accesskey = A
 engine-name-exists = 해당 이름의 엔진이 이미 있음
+engine-alias-exists = 해당 이름의 별칭이 이미 있음
