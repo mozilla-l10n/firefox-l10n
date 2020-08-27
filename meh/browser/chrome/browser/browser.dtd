@@ -233,7 +233,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY updateAvailable.panelUI.label "Xinuu a jíía &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Xinuu iin copia jíía &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Nkuvi sá'ánu kue´e actualizaciones">
-<!ENTITY updateRestart.panelUI.label2 "Nakajie´e sa chu'un a jíía { -brand-shorter-name }.">
+<!ENTITY updateRestart.panelUI.label2 "Nakajie´e sa chu'un a jíía &brandShorterName;.">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizado da ka̱a̱…">
 
