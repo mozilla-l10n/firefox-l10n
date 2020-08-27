@@ -334,6 +334,11 @@ expiry-open-key-manager = Ireki OpenPGP gako kudeatzailea
 expiry-open-key-properties = Ireki gako propietateak
 # Strings filters.jsm
 filter-folder-required = Helburu-karpeta bat hautatu behar duzu.
+filter-decrypt-move-warn-experimental =
+    Abisua - "Deszifratu betirako" iragazki ekintzak mezuak apurtzea ekar dezake.
+    Gure gomendio garrantzitsua da aurretik saiatu beharko zenukeela "sortu deszifratutako kopia" iragazkia, probatu emaitza kontu handiz eta iragazki hau bakarrik erabiltzen hasi behin emaitzarekin pozik zaudela.
+filter-term-pgpencrypted-label = OpenPGP zifratua
+filter-key-required = Hartzaile gakoa aukeratu behar duzu.
 
 ## Account settings export output
 
