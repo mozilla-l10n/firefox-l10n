@@ -38,6 +38,7 @@ printui-less-settings = Færre innstillingar
 # Section title (noun) for the print scaling options
 printui-scale = Skalering
 printui-scale-fit-to-page = Tilpass til side
+printui-scale-fit-to-page-width = Tilpass til sidebreidda
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalering
 # Section title for miscellaneous print options
@@ -56,6 +57,19 @@ printui-primary-button = Skriv ut
 printui-primary-button-save = Lagre
 printui-cancel-button = Avbryt
 printui-loading = Førebur førehandsvising
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
 
 ## Error messages shown when a user has an invalid input
 
