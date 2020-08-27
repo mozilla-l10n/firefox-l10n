@@ -712,6 +712,9 @@ search-restore-default =
 search-remove-engine =
     .label = Rimuovi
     .accesskey = R
+search-add-engine =
+    .label = Aggiungi
+    .accesskey = A
 
 search-find-more-link = Trova altri motori di ricerca
 
