@@ -9,20 +9,15 @@
 
 title = Novas importante
 heading = Cambios a tu profilo de { -brand-short-name }
-
 changed-title = Que ha cambiate?
-changed-desc-profiles = Iste installation de { -brand-short-name } ha un nove profilo. Un profilo es le collection de files ubi Firefox salva informationes tal como marcapaginas, contrasignos e preferentias de usator.
+changed-desc-profiles = Iste installation de { -brand-short-name } ha un nove profilo. Un profilo es un collection de files ubi Firefox salva informationes como marcapaginas, contrasignos e preferentias de usator.
 changed-desc-dedicated = Pro render plus facile e plus secur passar inter installationes de Firefox (anque Firefox, Firefox ESR, Firefox Beta, Firefox Edition pro disveloppatores, e Firefox Nightly), iste installation ora ha un profilo dedicate. Illo non comparti automaticamente tu informationes salvate con altere installationes de Firefox.
-
 lost = <b>Tu non ha perdite alcun datos o personalisationes.</b> Si tu ha jam salvate informationes in Firefox sur iste computator, illos es ancora disponibile in un altere installation de Firefox.
-
 options-title = Quales es mi optiones?
 options-do-nothing = Si tu face nihil, tu datos de profilo in { -brand-short-name } essera differente del datos de profilo in altere installationes de Firefox.
-options-use-sync = Si tu desira que tote le datos de tu profilo es identic sur tote le installationes de Firefox, tu pote usar un { -fxaccount-brand-name } pro los mantener in synchronia.
-
+options-use-sync = Si tu desira que tote le datos de tu profilo es identic sur tote le installationes de Firefox, tu pote usar un { -fxaccount-brand-name } pro mantener los in synchronia.
 resources = Ressources:
 support-link = Usar le gestor de profilos - Articulo de supporto
-
 sync-header = Aperi session o crea un { -fxaccount-brand-name }
 sync-label = Insere tu adresse de e-mail
 sync-input =

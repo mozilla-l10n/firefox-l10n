@@ -6,7 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extension recommendate
-cfr-doorhanger-feature-heading = Functionalitate recommendate
+cfr-doorhanger-feature-heading = Function recommendate
 cfr-doorhanger-pintab-heading = Prova isto: Fixar scheda
 
 ##
@@ -88,14 +88,14 @@ cfr-protections-panel-link-text = Saper plus
 
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
-cfr-badge-reader-label-newfeature = Nove functionalitate:
+cfr-badge-reader-label-newfeature = Nove function:
 cfr-whatsnew-button =
     .label = Novas
     .tooltiptext = Novas
 cfr-whatsnew-panel-header = Novas
 cfr-whatsnew-release-notes-link-text = Leger le notas de version
 cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus forte pro tu vita private
-cfr-whatsnew-fx70-body = Le ultime actualisation meliora le functionalitate de protection contra le traciamento e rende plus facile que jammais crear contrasignos secur pro cata sito.
+cfr-whatsnew-fx70-body = Le ultime actualisation meliora le protection contra le traciamento e rende plus facile que jammais crear contrasignos secur pro cata sito.
 cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } bloca multe traciatores commun social e inter sitos que seque lo que tu face in linea.
 cfr-whatsnew-tracking-protect-link-text = Vider tu reporto
