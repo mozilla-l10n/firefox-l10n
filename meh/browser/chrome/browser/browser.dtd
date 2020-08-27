@@ -231,8 +231,13 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Kuta'vi!">
 
 <!ENTITY updateAvailable.panelUI.label "Xinuu a jíía &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Xinuu iin copia jíía &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Nkuvi sá'ánu kue´e actualizaciones">
+<!ENTITY updateRestart.panelUI.label2 "Nakajie´e sa chu'un a jíía { -brand-shorter-name }.">
 
+<!ENTITY sendToDevice.syncNotReady.label "Sincronizado da ka̱a̱…">
 
+<!ENTITY pageAction.shareUrl.label "Kua´a">
 <!ENTITY pageAction.shareMore.label "Kue'eka…">
 
 <!ENTITY libraryButton.tooltip "Kune'ya historial, a ta'an ini noo'o je kue'eka">
