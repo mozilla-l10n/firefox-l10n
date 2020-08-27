@@ -571,6 +571,9 @@ search-restore-default =
 search-remove-engine =
     .label = Tiyuj
     .accesskey = y
+search-add-engine =
+    .label = Titz'aqatisäx
+    .accesskey = t
 search-find-more-link = Kekanöx ch'aqa' chik kik'u'x taq kanob'äl
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -776,6 +779,10 @@ forms-master-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun nim
 forms-primary-pw-change =
     .label = Tijal Nab'ey Ewan Tzij…
     .accesskey = N
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Etaman ruwa achi'el Ajtij Ewan Tzij
 forms-primary-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun Nab'ey Ewan Tzij ri man kowöl ta.
 forms-master-pw-fips-desc = Xsach toq Nijal ri Ewan Tzij
 
