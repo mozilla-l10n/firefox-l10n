@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Pantalla ka'nu">
 
-
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -50,7 +49,6 @@ this container is a toolbar. This avoids double-speaking. -->
      followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Chu´un inka ka̱a̱…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Kajie'e sesión &brandProductName;">
 <!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.settings.label "Ke´i">
@@ -67,6 +65,8 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "ntañu'u kuvi pantalla ka'nu">
+<!ENTITY fullscreenWarning.generic.label "Tutu ya'a ntañu'u íyo nu pantalla ka'nu">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -87,7 +87,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "Nátava">
 <!ENTITY printButton.tooltip          "Natava página ya´a">
-
 
 <!ENTITY searchItem.title             "Nánuku">
 
@@ -116,7 +115,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY addons.label                 "Ka̱a̱ chunta´an">
 
 <!ENTITY webDeveloperMenu.label       "Ñivɨ sa´a Web">
-
 
 <!ENTITY newNavigatorCmd.label        "Ventana jíía">
 <!ENTITY newPrivateWindow.label     "Ventana jíía yu´u">
@@ -180,8 +178,6 @@ this container is a toolbar. This avoids double-speaking. -->
     secondary commands. -->
 <!ENTITY moreMenu.label "Kue'eka">
 
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-
 <!ENTITY contentSearchSubmit.tooltip  "Chu'un íchi a nánuku">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -199,14 +195,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pocketMenuitem.label         "Kune'ya lista Pocket">
 
 <!ENTITY emailPageCmd.label           "Chu´un íchi enlace...">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Naja ka'nu">
 
@@ -231,17 +219,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Tee diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 
+
 <!ENTITY uiTour.infoPanel.close "Nakasɨ">
 
+<!ENTITY panicButton.thankyou.buttonlabel         "¡Kuta'vi!">
+
+<!ENTITY updateAvailable.panelUI.label "Xinuu a jíía &brandShorterName;">
 
 
 <!ENTITY pageAction.shareMore.label "Kue'eka…">
@@ -252,4 +241,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
-
