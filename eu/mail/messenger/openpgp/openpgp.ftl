@@ -282,6 +282,9 @@ key-usage-authentication = Autentifikazioa
 key-does-not-expire = Gakoa ez da iraungitzen
 key-expired-date = Gakoaren iraungitzea: { $keyExpiry }
 key-expired-simple = Gakoa iraungita dago
+key-revoked-simple = Gakoa ukatu zen.
+key-do-you-accept = Onartzen al duzu gako hau sinadura digitalak egiaztatzeko eta mezuak zifratzeko?
+key-accept-warning = Ekidin gako faltsuak onartzea. Erabili posta elektronikoa ez den beste kanal bat zure mezu-idazleen hatz-markak egiaztatzeko.
 
 ## Account settings export output
 
