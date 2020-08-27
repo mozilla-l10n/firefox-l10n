@@ -358,6 +358,31 @@ import-info-no-keys = Ez da gakorik inportatu
 # Strings in enigmailKeyManager.js
 import-from-clip = Gakoa(k) inportatu nahi d(it)uzu arbeletik?
 import-from-url = Jaitsi gako publikoa URL honetatik:
+copy-to-clipbrd-failed = Ezin izan da kopiatu aukeratutako gakoak arbelera.
+copy-to-clipbrd-ok = Gakoa(k) kopiatuta arbelera
+delete-secret-key =
+    ABISUA - Gako sekretua ezabatzera zoaz.
+    
+    Gako sekretua ezabatzen baduzu, ez zara gai izango hemendik aurrera gako horrekin mezuak deszifratzeko eta ezta hura ukatzeko gai izan.
+    
+    Benetan ezabatu nahi dituzu BIAK, gako sekretua eta gako publikoa
+    '{ $userId }'?
+delete-mix =
+    ABISUA - Gako sekretuak ezabatzera zoaz.
+    
+    Gako sekretua ezabatzen baduzu, ez zara gai izango hemendik aurrera gako horrekin mezuak deszifratzeko eta ezta hura ukatzeko gai izan.
+    
+    Benetan ezabatu nahi dituzu BIAK, aukeratutako gako sekretu eta gako publikoak?
+delete-pub-key =
+    Gako publikoa ezabatu nahi duzu
+    '{ $userId }'?
+delete-selected-pub-key = Gako publikoak ezabatu nahi dituzu?
+refresh-all-question = Ez da inolako gakorik aukeratu. Gako GUZTIAK freskatu nahi dituzu?
+key-man-button-export-sec-key = Esportatu gako &sekretuak
+key-man-button-export-pub-key = Esportatu gako &publikoak bakarrik
+key-man-button-refresh-all = &Freskatu gako guztiak
+key-man-loading-keys = Gakoak kargatzen, mesedez itxaron…
+ascii-armor-file = ASCII egitura fitxategiak (*.asc)
 
 ## Account settings export output
 
