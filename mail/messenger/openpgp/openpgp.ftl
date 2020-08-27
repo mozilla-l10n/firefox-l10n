@@ -217,6 +217,22 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird ez dauka OpenPGP gako pertsonalik <b>{ $identity }</b> identitaterako
+        [one] Thunderbird  OpenPGP gako pertsonal { $count } aurkitu du <b>{ $identity }</b> identitateari lotuta
+       *[other] Thunderbird { $count } OpenPGP gako pertsonal aurkitu ditu <b>{ $identity }</b> identitateari lotuta
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Aukeratu gako egoki bat OpenPGP protokoloa gaitzeko.
+        [one] Zure uneko konfigurazioak <b>{ $key }</b> gako IDa darabil
+       *[other] Zure uneko konfigurazioak <b>{ $key }</b> gakoak IDa darabil
+    }
 openpgp-add-key-button =
     .label = Gehitu gakoa…
     .accesskey = G
