@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "სიების წაშლა">
 <!ENTITY deleteItemsCmd.label                           "ელემენტების წაშლა">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "პარამეტრები">
 <!ENTITY propertiesMenu.accesskey                       "რ">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "ფოსტა და ჯგუფები">
 <!ENTITY messengerCmd.accesskey                         "ფ">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "მისამართების წიგნაკი">
-<!ENTITY addressBookCmd.accesskey                       "წ">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "მისამართების ძიება…">
 <!ENTITY searchAddressesCmd.accesskey                   "ძ">
 <!ENTITY importCmd.label                                "გადმოტანა…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "პ">
 <!ENTITY abPropertiesContext.label                      "პარამეტრები">
 <!ENTITY abPropertiesContext.accesskey                  "რ">
+<!ENTITY syncContext.label                              "დასინქრონება">
+<!ENTITY syncContext.accesskey                          "ქ">
 <!ENTITY editContactContext.label                       "პირის მონაცემების ჩასწორება">
 <!ENTITY editContactContext.accesskey                   "ჩ">
 <!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
