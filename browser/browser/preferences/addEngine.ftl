@@ -8,6 +8,7 @@ add-engine-window =
 add-engine-button = הוספת מנוע מותאם אישית
 add-engine-name = שם מנוע החיפוש
 add-engine-alias = כינוי
+add-engine-url = כתובת האתר של המנוע, יש להשתמש ב־‎%s במקום של מונח החיפוש
 add-engine-cancel =
     .label = ביטול
     .accesskey = ב
