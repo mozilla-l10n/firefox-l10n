@@ -305,6 +305,17 @@ keyserver-error-unsupported = Ez dago gako-zerbitzari eskuragarrik.
 wkd-message-body-req =
     Zure posta elektroniko hornitzaileak zure OpenPGP gako publikoa Web gako direktorio batera kargatzea eskatzen dizu.
     Mesedez, berretsi zure gako publikoa argitaratzea osotzeko.
+wkd-message-body-process =
+    Mezu hau zure gako publikoa automatikoki OpenPGP web gako direktoriora igotzeko prozesuaz lotua dago.
+    Puntu honetan ez daukazu inolako ekintzarik egin beharrik eskuz.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Ezin da deszifratu gai hau duen mezua:
+    { $subject }.
+    Beste pasa-esaldi bat erabiliz berriz saiatu nahi duzu edo mezua saltatu nahi duzu?
+# Strings in gpg.jsm
+unknown-signing-alg = Sinatze algoritmo ezezaguna  (ID: { $id })
+unknown-hash-alg = Hash kriptografiko ezezaguna (ID: { $id })
 
 ## Account settings export output
 
