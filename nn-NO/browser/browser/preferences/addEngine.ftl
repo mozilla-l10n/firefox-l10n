@@ -5,7 +5,11 @@
 add-engine-window =
     .title = Legg til søkjemotor
     .style = width: 32em;
+add-engine-name = Søkemotornamn
 add-engine-alias = Alias
 add-engine-cancel =
     .label = Avbryt
     .accesskey = A
+add-engine-ok =
+    .label = Legg til søkemotor
+    .accesskey = L
