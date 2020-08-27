@@ -261,6 +261,27 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Indargabetu gakoa
 openpgp-key-edit-title = Aldatu OpenPGP gakoa
 openpgp-key-edit-date-title = Luzatu iraungitze data
+openpgp-manager-description = Erabili OpenPGP gako kudeatzailea goian zerrendatuak ez dauden gakoak eta zure mezu-idazleen gako publikoak ikusi eta kudeatzeko.
+openpgp-manager-button =
+    .label = OpenPGP gako kudeatzailea
+    .accesskey = g
+openpgp-key-remove-external =
+    .label = Kendu kanpo gako ID
+    .accesskey = k
+key-external-label = Kanpo GnuPG gakoa
+# Strings in keyDetailsDlg.xhtml
+key-type-public = Gako publikoa
+key-type-primary = Gako nagusia
+key-type-subkey = Azpi-gakoa
+key-type-pair = Gako parea (gako sekretua eta gako publikoa)
+key-expiry-never = Inoiz ez
+key-usage-encrypt = Zifratu
+key-usage-sign = sinatu
+key-usage-certify = Ziurtatu
+key-usage-authentication = Autentifikazioa
+key-does-not-expire = Gakoa ez da iraungitzen
+key-expired-date = Gakoaren iraungitzea: { $keyExpiry }
+key-expired-simple = Gakoa iraungita dago
 
 ## Account settings export output
 
