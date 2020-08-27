@@ -731,6 +731,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Tetiñu da permisos
     .accesskey = p
+sitedata-cookies-exceptions =
+    .label = Tetiñu da excepciones...
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 

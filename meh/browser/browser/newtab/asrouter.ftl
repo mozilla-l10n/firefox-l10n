@@ -213,6 +213,7 @@ cfr-whatsnew-better-pdf-header = Nánuku vii jíí PDF
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = Nánuku DNS ma vatu je encriptado
 cfr-doorhanger-doh-primary-button = OK, Kaka!
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Chiyu´u
