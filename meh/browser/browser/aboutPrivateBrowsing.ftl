@@ -11,7 +11,7 @@ about-private-browsing =
     .title = Nánuku nuu Web
 about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u
 about-private-browsing-info-description = { -brand-short-name } xita a nnánukunu a nsá´ánu saa kenenu nuu ka̱a̱ a xiin nakasɨnu kuaiyo da pestaña jíí ventana nánuku yu´u . Ya´a ntu taji a noo´o nánuku yu´u nuu Web ji nuu ñɨvu tatu Internet, ya´a sá´á kumi a nánukunu nuu inka ñɨvu ni´i ka̱a̱ tee nɨnuu ya´a.
-
+about-private-browsing-turn-on-vpn = Nasá´á tuku { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
