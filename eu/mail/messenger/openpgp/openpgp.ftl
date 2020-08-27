@@ -324,12 +324,12 @@ expiry-keys-expire-soon =
     Zure ondorengo gakoak { $days } egun baino lehen iraungiko dira: { $desc }.
     Gako pare berriak sortu eta erabili ahal izateko dagozkion kontuak konfiguratzea aholkatzen dizugu.
 expiry-key-missing-owner-trust =
-    Zure { $desc } gako sekretuak konfiantza galdu du.
-     Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Azkenekoa" gako propietateetan.
+    Zure { $desc } gako sekretuak fidagarritasuna galdu du.
+     Ondorengoa gomendatzen dugu, ezarri "Fidatzen naiz ziurtagirietan" "Azkenekoa" gako propietateetan.
 expiry-keys-missing-owner-trust =
-    Zure ondorengo gako sekretuek konfiantza galdu dute.
+    Zure ondorengo gako sekretuek fidagarritasuna galdu dute.
     { $desc }
-    Ondorengoa gomendatzen dugu, ezarri "Konfiantza dut ziurtagirietan" "Azkenekoa" gako propietateetan.
+    Ondorengoa gomendatzen dugu, ezarri "Fidatzen naiz ziurtagirietan" "Azkenekoa" gako propietateetan.
 expiry-open-key-manager = Ireki OpenPGP gako kudeatzailea
 expiry-open-key-properties = Ireki gako propietateak
 # Strings filters.jsm
@@ -407,7 +407,7 @@ key-ring-pub-key-revoked = { $userId } (key ID { $keyId }) gakoa ukatua dago.
 key-ring-pub-key-expired = { $userId } (key ID { $keyId }) gakoa iraungita dago.
 key-ring-key-disabled = { $userId } (key ID { $keyId }) gakoa desgaitua dago; ezin da erabili.
 key-ring-key-invalid = { $userId } (key ID { $keyId }) gakoa ez da baliagarria. Mesedez, era egokian egiaztatu beharko zenuke.
-key-ring-key-not-trusted = { $userId } (key ID { $keyId }) gakoak oraindik ez du konfiantzarik. Mesedez ezarri zure gakoaren konfiantza maila "Azkenekoa" atalean sinatzean erabiltzeko.
+key-ring-key-not-trusted = { $userId } (key ID { $keyId }) gakoak oraindik ez du fidagarritasunik. Mesedez ezarri zure gakoaren fidagarritasun maila "Azkenekoa" atalean sinatzean erabiltzeko.
 key-ring-no-secret-key = Badirudi ez daukazula gako sekreturik  { $userId } (key ID { $keyId }) gakorako zure gako-sortan; ezin duzu gakoa erabili sinatzeko.
 key-ring-pub-key-not-for-signing = { $userId } (key ID { $keyId }) gakoa ezin da erabili sinatzeko.
 key-ring-pub-key-not-for-encryption = { $userId } (key ID { $keyId }) gakoa ezin da erabili zifratzeko.
@@ -419,4 +419,108 @@ key-ring-enc-sub-keys-expired = { $userId } (key ID { $keyId }) gakoaren zifratz
 key-ring-enc-sub-keys-unusable = { $userId } (key ID { $keyId }) gakoaren zifratze azpi-gako guztiak ukatuak, iraungita edo bestelakoagatik erabil ezin daude.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Argazkia
+user-att-photo = Erabiltzaile atributua (JPEG irudia)
+# Strings in key.jsm
+already-revoked = Dagoeneko ukatuta dago gako hau.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    '{ $identity }' gakoa ukatzera zoaz.
+    Ez zara gai izango gako honekin sinatzeko, eta behin banatuta, besteek ezingo dute zifratu gako horrekin. Zuk oraindik erabil dezakezu mezu zaharrak deszifratzeko.
+    Aurrera egin nahi duzu?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Ez daukazu gakorik  (0x{ $keyId }) bat datorrenik ukatze ziurtagiri honekin!
+    Zure gakoa galdu baduzu, inportatu beharko zenuke (adib. gako-zerbitzari batetik) ukatze ziurtagiria inportatu aurretik!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = 0x{ $keyId } gakoa dagoeneko ukatua dago.
+key-man-button-revoke-key = &Ukatu gakoa
+openpgp-key-revoke-success = Gakoa behar bezala ukatu da.
+after-revoke-info =
+    Gakoa ukatu da.
+    Banatu berriz gako publiko hau, posta elektronikoz bidaliz, edo gako-zerbitzarietara igoz, besteek jakin dezaten gako hau ukatu duzula.
+    Besteek darabilten softwareak ukazioaren berri izan bezain laster, zure gako zaharra erabiltzeari utziko diote.
+    Gako berri bat erabiltzen bazabiltza posta helbide berdinaz eta gako publiko berria eransten badiozu posta bidalketei, orduan gako zaharraren ukatzearen inguruko informazioa automatikoki jasoko dute.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Inportatu
+delete-key-title = Ezabatu OpenPGP gakoa
+delete-external-key-title = Kendu kanpo GnuPG gakoa
+delete-external-key-description = Kanpo GnuPG gako ID hau kendu nahi duzu?
+key-in-use-title = OpenPGP gakoa unean erabiltzen.
+delete-key-in-use-description = Ezin da prozesatu! Ezabatzeko aukeratu duzun gakoa une honetan identitate honek darabil. Aukeratu beste gako bat edo bat ere ez eta saiatu berriz.
+revoke-key-in-use-description = Ezin da prozesatu! ukatzeko aukeratu duzun gakoa une honetan identitate honek darabil. Aukeratu beste gako bat edo bat ere ez eta saiatu berriz.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = '{ $keySpec }' posta elektroniko helbidea ez dator bat zure gako-sortako gakoekin.
+key-error-key-id-not-found = Konfiguratutako gako ID '{ $keySpec }'  ez da aurkitzen zure gako-sortan.
+key-error-not-accepted-as-personal = Ez duzu berretsi '{ $keySpec }' IDa duen gakoa zure gako pertsonala denik.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Aukeratu duzu funtzioa ez dago erabilgarri lineaz kanpo moduan. Jar zaitez linean eta saiatu berriro.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Ez da aurkitu bilaketa irizpideekin bat datorren gakorik.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Errorea - gakoa ateratzeko komandoak huts egin du
+# Strings used in keyRing.jsm
+fail-cancel = Errorea - gako harrera bertan behera utzi du erabiltzaileak
+not-first-block = Errorea - Lehen OpenPGP blokea ez da gako publiko blokea
+import-key-confirm = Inportatu mezuan kapsulatutako gako publikoa(k)?
+fail-key-import = Errorea - Gako inportatzeak huts egin du
+file-write-failed = Fitxategian idazteak huts egin du { $output }
+no-pgp-block = Errorea - Gaizki egituratutako OpenPGP datu blokea aurkitu da
+confirm-permissive-import = Inportazioak huts egin du. Inportatzea saiatzen ari zaren gakoa hondatua dagoela dirudi eta atributu ezezagunak darabil. Zuzenak diren zatiak inportatzen saiatzea nahi duzu? Honen emaitza gako ez osoa eta erabiltezina inportatzea izan daiteke.
+# Strings used in trust.jsm
+key-valid-unknown = ezezaguna
+key-valid-invalid = Baliogabea
+key-valid-disabled = desgaituta
+key-valid-revoked = Ukatua
+key-valid-expired = Iraungita
+key-trust-untrusted = Ez da fidagarria
+key-trust-marginal = Bazterrekoa
+key-trust-full = Fidagarria
 key-trust-ultimate = Azkenekoa
+key-trust-group = (taldea)
+# Strings used in commonWorkflows.js
+import-key-file = Inportatu OpenPGP gako fitxategia
+import-rev-file = Inportatu OpenPGP ukapen fitxategia
+gnupg-file = GnuPG fitxategiak
+import-keys-failed = Huts egin du gakoak inportatzeak
+passphrase-prompt = Mesedez sartu pasa-esaldia ondorengo gakoa desblokeatzen duena: { $key }
+file-to-big-to-import = Fitxategi hau handiegia da. Mesedez ez inportatu gako multzo handiak batera.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Sortu eta gorde ukapen ziurtagiria
+revoke-cert-ok = Ukapen ziurtagiria zuzen sortu da. Zure gako publikoa baliogabetzeko erabil dezakezu, adib. zure gako sekretua galdu duzunean.
+revoke-cert-failed = Ezin da sortu ukapen ziurtagiria.
+gen-going = Gakoaren sorrera abian da!
+keygen-missing-user-name = Ez dago izenik zehaztuta aukeratutako kontu/indentitaterako. Mesedez sartu balioa  "zure Izena" eremuan kontuko ezarpenetan.
+expiry-too-short = Zure gakoa askoz jota egun baten balioztatu beharko da.
+expiry-too-long = Ezin duzu sortu, 100 urte baino beranduago iraungiko den gakoa.
+key-confirm = Sortu gako publiko eta sekretua '{ $id }' identitaterako?
+key-man-button-generate-key = Sortu &gakoa
+key-abort = Bertan behera utzi gako sorrera?
+key-man-button-generate-key-abort = Bertan behera &utzi gako sorrera?
+key-not-trusted = Ez dago nahikoa konfiantza '{ $key }' gakoan
+# Strings used in encryption.jsm
+not-required = Errorea - ez da zifraketarik behar
+# Strings used in windows.jsm
+no-photo-available = Argazkia ez dago erabilgarri
+error-photo-path-not-readable = '{ $photo }' argazki bide-izena ezin da irakurri
+debug-log-title = OpenPGP arazketa egunkaria
+# Strings used in dialog.jsm
+repeat-prefix = Alerta hau errepikatuko da: { $count }
+repeat-suffix-singular = aldi baten.
+repeat-suffix-plural = alditan.
+no-repeat = Alerta hau ez da berriz erakutsiko.
+dlg-keep-setting = Gogoratu nire erantzuna eta ez galdetu berriz.
+dlg-button-ok = &ados
+dlg-button-close = It&xi
+dlg-button-cancel = &Utzi
+dlg-no-prompt = Ez erakutsi berriro elkarrizketa-koadro hau.
+enig-prompt = OpenPGP gonbita
+enig-confirm = OpenPGP berrespena
+enig-alert = OpenPGP alerta
+enig-info = OpenPGP informazioa
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = Saiatu be&rriro
+dlg-button-skip = &Saltatu
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP errorea
+enig-alert-title =
+    .title = OpenPGP alerta
