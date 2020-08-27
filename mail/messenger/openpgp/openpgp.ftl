@@ -301,6 +301,10 @@ keyserver-error-unavailable = Gako-zerbitzaria ez dago eskuragarri.
 keyserver-error-security-error = Gako-zerbitzariak ez du sarrera zifratuaren euskarririk.
 keyserver-error-certificate-error = Gako-zerbitzariaren ziurtagiria ez da baliozkoa.
 keyserver-error-unsupported = Ez dago gako-zerbitzari eskuragarrik.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Zure posta elektroniko hornitzaileak zure OpenPGP gako publikoa Web gako direktorio batera kargatzea eskatzen dizu.
+    Mesedez, berretsi zure gako publikoa argitaratzea osotzeko.
 
 ## Account settings export output
 
