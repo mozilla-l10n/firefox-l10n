@@ -496,6 +496,10 @@ key-confirm = Sortu gako publiko eta sekretua '{ $id }' identitaterako?
 key-man-button-generate-key = Sortu &gakoa
 key-abort = Bertan behera utzi gako sorrera?
 key-man-button-generate-key-abort = Bertan behera &utzi gako sorrera?
+key-man-button-generate-key-continue = &Jarraitu gako sorrera
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Errorea - deszifratzeak huts egin du
+fix-broken-exchange-msg-failed = Ez da lortu mezua konpontzea.
 key-not-trusted = Ez dago nahikoa konfiantza '{ $key }' gakoan
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
