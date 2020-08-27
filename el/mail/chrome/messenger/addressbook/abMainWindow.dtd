@@ -102,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY messengerCmd.accesskey                         "λ">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Ευρετήριο διευθύνσεων">
-<!ENTITY addressBookCmd.accesskey                       "δ">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων">
 <!ENTITY searchAddressesCmd.accesskey                   "ζ">
 <!ENTITY importCmd.label                                "Εισαγωγή...">
@@ -128,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "ι">
 <!ENTITY abPropertiesContext.label                      "Ιδιότητες">
 <!ENTITY abPropertiesContext.accesskey                  "ι">
+<!ENTITY syncContext.label                              "Συγχρονισμός">
+<!ENTITY syncContext.accesskey                          "υ">
 <!ENTITY editContactContext.label                       "Επεξεργασία επαφής">
 <!ENTITY editContactContext.accesskey                   "Ε">
 <!ENTITY editMailingListContext.label                   "Επεξεργασία λίστας">
