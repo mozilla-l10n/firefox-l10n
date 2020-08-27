@@ -391,8 +391,32 @@ save-keys-ok = Gakoak arrakastaz gorde dira.
 save-keys-failed = Huts egin du gakoak gordetzean!
 default-pub-key-filename = Esportatuak-gako-publikoak
 default-pub-sec-key-filename = Gako-sekretuen-babeskopia
+refresh-key-warn = Abisua: Gako kopuruaren arabera eta konexio abiaduraren arabera, gako guztiak freskatzea nahiko prozesu luzea izan daiteke!
+preview-failed = Ezin da gako publiko fitxategia irakurri.
+general-error = Errorea: { $reason }
+dlg-button-delete = E&zabatu
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Gako publikoa ondo esportatu da!</b>
+openpgp-export-public-fail = <b>Ezin da esportatu gako publikoa!</b>
+openpgp-export-secret-success = <b>Gako sekretua ondo esportatu da!</b>
+openpgp-export-secret-fail = <b>Ezin da esportatu gako sekretua!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = { $userId } (key ID { $keyId }) gakoa ukatua dago.
+key-ring-pub-key-expired = { $userId } (key ID { $keyId }) gakoa iraungita dago.
+key-ring-key-disabled = { $userId } (key ID { $keyId }) gakoa desgaitua dago; ezin da erabili.
+key-ring-key-invalid = { $userId } (key ID { $keyId }) gakoa ez da baliagarria. Mesedez, era egokian egiaztatu beharko zenuke.
 key-ring-key-not-trusted = { $userId } (key ID { $keyId }) gakoak oraindik ez du konfiantzarik. Mesedez ezarri zure gakoaren konfiantza maila "Azkenekoa" atalean sinatzean erabiltzeko.
+key-ring-no-secret-key = Badirudi ez daukazula gako sekreturik  { $userId } (key ID { $keyId }) gakorako zure gako-sortan; ezin duzu gakoa erabili sinatzeko.
+key-ring-pub-key-not-for-signing = { $userId } (key ID { $keyId }) gakoa ezin da erabili sinatzeko.
+key-ring-pub-key-not-for-encryption = { $userId } (key ID { $keyId }) gakoa ezin da erabili zifratzeko.
+key-ring-sign-sub-keys-revoked = { $userId } (key ID { $keyId }) gakoaren sinatze azpi-gako guztiak ukatuak daude.
+key-ring-sign-sub-keys-expired = { $userId } (key ID { $keyId }) gakoaren sinatze azpi-gako guztiak iraungita daude.
+key-ring-sign-sub-keys-unusable = { $userId } (key ID { $keyId }) gakoaren sinatze azpi-gako guztiak ukatuak, iraungita edo bestelakoagatik erabil ezin daude.
+key-ring-enc-sub-keys-revoked = { $userId } (key ID { $keyId }) gakoaren zifratze azpi-gako guztiak ukatuak daude.
+key-ring-enc-sub-keys-expired = { $userId } (key ID { $keyId }) gakoaren zifratze azpi-gako guztiak iraungita daude.
+key-ring-enc-sub-keys-unusable = { $userId } (key ID { $keyId }) gakoaren zifratze azpi-gako guztiak ukatuak, iraungita edo bestelakoagatik erabil ezin daude.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Argazkia
 key-trust-ultimate = Azkenekoa
