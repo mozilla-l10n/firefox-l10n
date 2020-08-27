@@ -212,6 +212,7 @@ cfr-doorhanger-milestone-close-button = Isarado
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Gumawa ng ligtas na password nang walang kahirap-hirap
 cfr-whatsnew-lockwise-body = Mahirap mag-isip ng kakaiba't ligtas na password sa bawat account. Kapag gumagawa ng password, piliin ang password field para gumamit ng ligtas na nabuong password mula sa { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Icon ng { -lockwise-brand-short-name }
 
@@ -219,6 +220,7 @@ cfr-whatsnew-lockwise-icon-alt = Icon ng { -lockwise-brand-short-name }
 
 cfr-whatsnew-passwords-header = Tumanggap ng mga alerto tungkol sa mga mahihinang password
 cfr-whatsnew-passwords-body = Alam ng mga hacker na inuulit-ulit lang ang mga password na ginagamit ng mga tao. Kung ginamit mo ang kaparehong password sa iba't-ibang mga site, at isa sa mga iyon ay natagpuan sa isang data breach, makakakita ka ng alerto sa { -lockwise-brand-short-name } para baguhin ang password sa site na iyon.
+cfr-whatsnew-passwords-icon-alt = Vulnerable password key icon
 
 ## Picture-in-Picture fullscreen message
 
@@ -228,14 +230,20 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-cta-link = Tingnan ang Protections Dashboard
+cfr-whatsnew-protections-icon-alt = Shield icon
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Mas magandang PDF experience
+cfr-whatsnew-better-pdf-body = Direkta nang magbubukas ang mga PDF document sa { -brand-short-name }, kaya mas madali mo nang gawin ang mga ito.
 
 ## DOH Message
 
 cfr-doorhanger-doh-primary-button = OK, Nakuha ko
     .accesskey = O
+cfr-doorhanger-doh-secondary-button = i-Disable
+    .accesskey = D
 
 ## What's new: Cookies message
 
