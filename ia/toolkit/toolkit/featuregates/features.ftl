@@ -57,7 +57,7 @@ experimental-features-devtools-color-scheme-simulation =
 experimental-features-devtools-color-scheme-simulation-description = Adde un option pro simular plure schemas de color e te permitte testar consultation de medios per <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Per iste functionalitate tu pote testar tu codice sin deber cambiar parametros in tu navigator (o in tu systema operative, si le navigator seque un configuration del combination de colores pro le systema-integre). Vide <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">bug 1137699</a> pro major detalios.
 experimental-features-devtools-execution-context-selector =
     .label = Utensiles de disveloppator: selector del contexto de execution
-experimental-features-devtools-execution-context-selector-description = Iste functionalitate monstra un button sur le linea de commando del consola pro cambiar le contexto in le qual le expression que tu insere sera exequite. Vide <a data-l10n-name="bugzilla1">bug 1605154</a> e <a data-l10n-name="bugzilla2">bug 1605153</a> pro major detalios.
+experimental-features-devtools-execution-context-selector-description = Iste function monstra un button sur le linea de commando del consola pro cambiar le contexto in le qual le expression que tu insere sera executate. Vide <a data-l10n-name="bugzilla1">bug 1605154</a> e <a data-l10n-name="bugzilla2">bug 1605153</a> pro ulterior detalios.
 experimental-features-devtools-compatibility-panel =
     .label = Utensiles de disveloppator: quadro compatibilitate
 experimental-features-devtools-compatibility-panel-description = Un quadro lateral pro le Inspector de pagina que te monstra informationes detaliate super le stato de compatibilitate inter le navigatores de tu application. Vide <a data-l10n-name="bugzilla">bug 1584464</a> pro altere detalios.
@@ -68,7 +68,7 @@ experimental-features-cookie-samesite-lax-by-default2-description = Tractar cook
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None require le attributo secur
-experimental-features-cookie-samesite-none-requires-secure2-description = Le cookies con attributo “SameSite=None” require le attributo secur. Iste functionalitate require “Cookies: SameSite=Lax predefinite”.
+experimental-features-cookie-samesite-none-requires-secure2-description = Le cookies con attributo “SameSite=None” require le attributo "secure". Iste function require “Cookies: SameSite=Lax predefinite”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
@@ -86,7 +86,7 @@ experimental-features-cookie-samesite-schemeful-description = Tracta cookies del
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Utensiles de disveloppator: depuration de obrero de servicio
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Activa supporto experimental pro Obreros de servicio in le quadro del Depurator. Iste functionalitate pote relentar le Utensiles de disveloppator e accrescer le consumption de memoria.
+experimental-features-devtools-serviceworker-debugger-support-description = Activa supporto experimental pro Service Workers in le quadro Depurator. Iste function pote relentar le Utensiles de disveloppator e augmentar le consumption de memoria.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Graphica: zoom a prisa lisie

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Un error occurreva durante un connexion a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codice de error: { $error }
-
 psmerr-ssl-disabled = Connexion secur impossibile perque le protocollo SSL ha essite disactivate.
 psmerr-ssl2-disabled = On non pote connecter se securmente perque le sito usa un version plus vetule e insecur del protocollo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tu ha recipite un certificato invalide.  Per favor contacta le administrator del servitor o le correspondente de email e da les le sequente information:
     
     Tu certificato contine le mesme numero serial que un altere certificato emittite per le autoritate de certification.  Per favor obtene un nove certificato continente un numero serial unic.
-
 ssl-error-export-only-server = Impossibile communicar in maniera secur. Le par non supporta cryptographia de alte nivello.
 ssl-error-us-only-server = Impossibile communicar in maniera secur. Le par require cryptographia de un alte nivello que non es supportate.
 ssl-error-no-cypher-overlap = Impossibile communicar in maniera secur con le par: nulle algorithmo cryptographic in commun.
@@ -140,14 +137,14 @@ ssl-error-unsafe-negotiation = Le par tentava un negotiation de connexion obsole
 ssl-error-rx-unexpected-uncompressed-record = SSL recipeva un registration non comprimite inexpectate.
 ssl-error-weak-server-ephemeral-dh-key = SSL recipeva un clave Diffie-Hellman ephemere debile in le message de negotiation de connexion Server Key Exchange.
 ssl-error-next-protocol-data-invalid = SSL recipeva datos de extension NPN non valide.
-ssl-error-feature-not-supported-for-ssl2 = Functionalitate SSL non gerite pro connexiones SSL 2.0.
-ssl-error-feature-not-supported-for-servers = Functionalitate SSL non gerite pro le servitores.
-ssl-error-feature-not-supported-for-clients = Functionalitate SSL non gerite pro le clientes.
+ssl-error-feature-not-supported-for-ssl2 = Le function SSL non es supportate pro connexiones SSL 2.0.
+ssl-error-feature-not-supported-for-servers = Le function SSL non es supportate pro servitores.
+ssl-error-feature-not-supported-for-clients = Le function SSL non es supportate pro clientes.
 ssl-error-invalid-version-range = Le campo del version SSL non es valide.
 ssl-error-cipher-disallowed-for-version = Le par SSL seligeva un suite de cifra non autorisate pro le version seligite del protocollo.
 ssl-error-rx-malformed-hello-verify-request = SSL recipeva un message de negotiation de connexion Hello Verify Request mal formate.
 ssl-error-rx-unexpected-hello-verify-request = SSL recipeva un message de negotiation de connexion Hello Verify Request mal inexpectate.
-ssl-error-feature-not-supported-for-version = Functionalitate SSL non gerite pro le version del protocollo.
+ssl-error-feature-not-supported-for-version = Le function SSL non es supportate pro iste version del protocollo.
 ssl-error-rx-unexpected-cert-status = SSL recipeva un message de negotiation de connexion Certificate Status inexpectate.
 ssl-error-unsupported-hash-algorithm = Algorithmo de hash non supportate, usate per le par TLS.
 ssl-error-digest-failure = Le function de digest falleva.
@@ -347,7 +344,7 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = Un certificato que non es 
 mozilla-pkix-error-signature-algorithm-mismatch = Le algorithmo de signatura in le campo signatura del certificato non corresponde al algorithmo in su campo signatureAlgorithm.
 mozilla-pkix-error-ocsp-response-for-cert-missing = Le responsa de OCSP non include un stato pro le certificato a verificar.
 mozilla-pkix-error-validity-too-long = Le servitor presentava un certificato que es valide durante troppo de tempore.
-mozilla-pkix-error-required-tls-feature-missing = Un characteristica de TLS necessari manca.
+mozilla-pkix-error-required-tls-feature-missing = Manca un function TLS necessari.
 mozilla-pkix-error-invalid-integer-encoding = Le servitor presentava un certificato que contine un codification non valide de un numero integre. Numeros serial negative, modulos RSA negative e codificationes plus longe quam necesse es causas commun.
 mozilla-pkix-error-empty-issuer-name = Le servitor presentava un certificato con un nomine distincte del emittitor vacue.
 mozilla-pkix-error-additional-policy-constraint-failed = Un altere coercition de regulamento falleva durante le validation de iste certificato.
