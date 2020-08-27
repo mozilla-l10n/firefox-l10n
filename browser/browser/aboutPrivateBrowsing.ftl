@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Hľadať
 about-private-browsing-not-private = Práve nie ste v súkromnom prehliadaní
 about-private-browsing-info-description = { -brand-short-name } vymaže históriu vyhľadávania a navštívených stránok po zavretí aplikácie alebo všetkých súkromných kariet a okien. S touto funkciou nie ste na internete neviditeľní a napríklad váš poskytovateľ pripojenia na internet môže stále zistiť, aké stránky navštevujete. Vaša aktivita na internete ale zostane utajená pred ďalšími používateľmi na tomto počítači.
-
+about-private-browsing-need-more-privacy = Potrebujete viac súkromia?
+about-private-browsing-turn-on-vpn = Vyskúšajte { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
