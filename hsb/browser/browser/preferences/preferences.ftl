@@ -579,6 +579,9 @@ search-restore-default =
 search-remove-engine =
     .label = Wotstronić
     .accesskey = o
+search-add-engine =
+    .label = Přidać
+    .accesskey = P
 search-find-more-link = Dalše pytawy pytać
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
