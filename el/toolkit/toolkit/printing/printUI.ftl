@@ -19,6 +19,12 @@ printui-page-range-picker =
     .aria-label = Επιλογή εύρους σελίδων
 printui-page-custom-range =
     .aria-label = Εισαγάγετε προσαρμοσμένο εύρος σελίδων
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = Από
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = έως
 # Section title for the number of copies to print
 printui-copies-label = Αντίγραφα
 printui-orientation = Προσανατολισμός
@@ -29,17 +35,34 @@ printui-destination-label = Προορισμός
 printui-destination-pdf-label = Αποθήκευση σε PDF
 printui-more-settings = Περισσότερες ρυθμίσεις
 printui-less-settings = Λιγότερες ρυθμίσεις
+printui-paper-size-label = Μέγεθος χαρτιού
 # Section title (noun) for the print scaling options
 printui-scale = Κλίμακα
 printui-scale-fit-to-page = Προσαρμογή στη σελίδα
+printui-scale-fit-to-page-width = Προσαρμογή στο πλάτος σελίδας
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Κλίμακα
 # Section title for miscellaneous print options
 printui-options = Επιλογές
 printui-headers-footers-checkbox = Εκτύπωση κεφαλίδων και υποσέλιδων
 printui-backgrounds-checkbox = Εκτύπωση παρασκηνίου
+printui-color-mode-label = Λειτουργία χρώματος
+printui-color-mode-color = Έγχρωμο
+printui-color-mode-bw = Ασπρόμαυρο
+printui-margins = Περιθώρια
+printui-margins-default = Προεπιλογή
+printui-margins-min = Ελάχιστα
+printui-margins-none = Χωρίς
 printui-system-dialog-link = Εκτύπωση μέσω διαλόγου συστήματος…
 printui-primary-button = Εκτύπωση
 printui-primary-button-save = Αποθήκευση
 printui-cancel-button = Ακύρωση
 printui-loading = Προετοιμασία προεπισκόπησης
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Η κλίμακα πρέπει να είναι μεταξύ 10 και 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Το εύρος πρέπει να είναι αριθμός μεταξύ 1 και { $numPages }.
+printui-error-invalid-start-overflow = Ο αριθμός σελίδας “από” πρέπει να είναι μικρότερος από τον αριθμό σελίδας “έως”.
