@@ -53,9 +53,20 @@ move-to-end =
 move-to-new-window =
     .label = Liiguta uude aknasse
     .accesskey = k
+tab-context-close-multiple-tabs =
+    .label = Sule mitu vahekaarti
+    .accesskey = m
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [one] Võta kaardi sulgemine tagasi
+           *[other] Võta kaartide sulgemine tagasi
+        }
+    .accesskey = V
 close-tab =
     .label = Sulge kaart
     .accesskey = S
@@ -68,3 +79,17 @@ move-tabs =
 move-tab =
     .label = Liiguta kaarti
     .accesskey = i
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [one] Sulge kaart
+           *[other] Sulge kaardid
+        }
+    .accesskey = S
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [one] Liiguta kaarti
+           *[other] Liiguta kaarte
+        }
+    .accesskey = L
