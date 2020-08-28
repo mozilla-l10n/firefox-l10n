@@ -540,6 +540,19 @@ send-to-news-warning =
     Hau ez da gomendagarria, zentsua izan dezan berri-taldeko kide guztiek gai izan behar dutelako mezua deszifratzeko. Adibidez, taldeko kide diren gako guztiekin zifratu beharko litzateke mezua. Mesedez bidali mezua zertan ari zaren ondo badakizu bakarrik.
     Jarraitu?
 save-attachment-header = Gorde zifratutako eranskina
+no-temp-dir =
+    Ezin da aurkitu idazteko aldi baterako direktorioa
+    Mesedez ezarri TEMP ingurune aldagaia
+possibly-pgp-mime = Agian PGP/MIME zifratutako edo sinatutako mezua; erabili 'Deszifratu/egiaztatu' funtzioa egiaztatzeko
+cannot-send-sig-because-no-own-key = Ezinda digitalki sinatu mezu hau, oraindik ez daukazulako <{ $key }> gakoa muturretik-muturrera konfiguratuta
+cannot-send-enc-because-no-own-key = Ezinda mezu hau zifratua bidali, oraindik ez daukazulako <{ $key }> gakoa muturretik-muturrera konfiguratuta
+# Strings used in decryption.jsm
+do-import-multiple =
+    Inportatu ondorengo gakoak?
+    { $key }
+do-import-one = Inportatu { $name } ({ $id })?
+cant-import = Errorea gako publikoa inportatzean
+unverified-reply = Koskadun mezu zatia (erantzuna) litekeena da aldatu izana
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
 # Strings used in windows.jsm
