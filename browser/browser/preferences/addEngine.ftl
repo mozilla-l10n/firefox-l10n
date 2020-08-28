@@ -5,5 +5,6 @@
 add-engine-window =
     .title = Lägg till sökmotor
     .style = width: 32em;
+add-engine-button = Lägg till anpassad motor
 add-engine-name = Sökmotor namn
 engine-name-exists = En motor med det namnet finns redan
