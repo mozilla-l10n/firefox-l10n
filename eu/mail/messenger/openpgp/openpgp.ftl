@@ -520,6 +520,11 @@ key-revoked = '{ $key }'  gakoa ukatu da
 key-expired = '{ $key }'  gakoa iraungi da
 msg-compose-internal-error = Barne errore bat eman da.
 keys-to-export = Aukeratu OpenPGP gakoak txertatzeko
+msg-compose-partially-encrypted-inlinePGP =
+    Erantzuten ari zaren mezuak bi eratako atalak ditu, zifratu eta ez zifratuak. Bidaltzailea ez bazen hasieran atal batzuk deszifratzeko gai izan, informazio konfidentziala filtratzen egon zaitezke, bidaltzaileak bere kabuz deszifratzeko gai izan ez zena.
+    Mesedez, hausnartu bidaltzaile honi kakotx arteko testu guztia kentzea zure erantzunetik.
+msg-compose-cannot-save-draft = Errorea zirriborroa gordetzean
+msg-compose-partially-encrypted-short = Argi ibili kontuzko informazioa filtratzeaz - partzialki zifratutako posta elektronikoa
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
 # Strings used in windows.jsm
