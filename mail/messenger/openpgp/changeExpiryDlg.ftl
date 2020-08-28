@@ -7,3 +7,5 @@ openpgp-change-key-expiry-title =
 info-will-expire = Dizze kaai is op it stuit konfigurearre om te ferfallen op { $date }.
 info-already-expired = Dizze kaai is al ferfallen.
 info-does-not-expire = Dizze kaai is op it stuit konfigurearre om nea te ferfallen.
+info-explanation-1 = <b>Neidat in kaai ferrûn is</b>, is it net mooglik dizze nochris te brûken foar fersifering of digitale ûndertekening.
+info-explanation-2 = As jo dizze kaai foar in langere perioade brûke wolle, wizigje dan de ferrindatum en diel jo iepenbiere kaai opnij mei jo petearpartners.
