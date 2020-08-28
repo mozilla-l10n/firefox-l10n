@@ -65,6 +65,20 @@ openpgp-key-man-import-public-from-file =
     .accesskey = I
 openpgp-key-man-import-secret-from-file =
     .label = Geheime kaai(en) ymportearje út bestân
+openpgp-key-man-import-sig-from-file =
+    .label = Ynlûking(en) ymportearje út bestân
+openpgp-key-man-import-from-clipbrd =
+    .label = Kaai(en) ymportearje fan klamboerd ôf
+    .accesskey = k
+openpgp-key-man-import-from-url =
+    .label = Kaai(en) ymportearje fan URL út
+    .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Iepenbiere kaai(en) eksportearje nei bestân
+    .accesskey = e
+openpgp-key-man-send-keys =
+    .label = Iepenbiere kaai(en) per e-mail ferstjoere
+    .accesskey = f
 openpgp-key-man-discover-progress = Sykje…
 openpgp-key-man-close =
     .label = Slute
@@ -89,6 +103,10 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Alle kaaien selektearje
     .accesskey = A
+openpgp-key-man-empty-tree-tooltip =
+    .label = Fier yn it boppesteande fjild syktermen yn
+openpgp-key-man-nothing-found-tooltip =
+    .label = Gjin inkelde kaai komt oerien mei jo syktermen
 
 ## e2e encryption settings
 
