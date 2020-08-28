@@ -24,7 +24,22 @@ cert-error-domain-mismatch = Las pachinas web gosan prebar la suya identidat con
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Lass pachinas web preban a suya identidat per medio de certificaus. { -brand-short-name } no confia en ista pachina perque fa servir un certificau que no ye valido pa { $hostname }. O certificau ye valido nomás pa <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Las pachinas web preban a suya identidat per medio de certificaus. { -brand-short-name } no confia en ista pachina perque fa servir un certificau que no ye valido pa { $hostname }. O certificau ye valido nomás pa <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Las pachinas web preban a suya identidat per medio de certificaus. { -brand-short-name } no confia en ista pachina perque fa servir un certificau que no ye valido pa { $hostname }. Lo certificau ye valido nomás pa <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Las pachinas web preban a suya identidat per medio de certificaus. { -brand-short-name } no confia en ista pachina perque fa servir un certificau que no ye valido pa { $hostname }. Lo certificau ye valido nomás pa los nombres siguients:{ $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Las pachinas web preban a suya identidat per medio de certificaus, que son validos per un cierto tiempo. Lo certificau para { $hostname } caducó lo { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Las pachinas web preban a suya identidat per medio de certificaus que son validos per un cierto tiempo. Lo certificau para { $hostname } no ye valido hasta { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codigo d'error: <a data-l10n-name="error-code-link">{ $error }</a>
