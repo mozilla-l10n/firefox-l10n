@@ -161,6 +161,8 @@ openpgp-key-man-filter-label =
     .placeholder = Bilatu gakoak
 openpgp-key-man-select-all-key =
     .key = A
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-key-details-title =
     .title = Gako propietateak
 openpgp-key-details-signatures-tab =
@@ -553,6 +555,15 @@ do-import-multiple =
 do-import-one = Inportatu { $name } ({ $id })?
 cant-import = Errorea gako publikoa inportatzean
 unverified-reply = Koskadun mezu zatia (erantzuna) litekeena da aldatu izana
+key-in-message-body = Gakoa aurkitu da mezu gorputzean. Sakatu 'Gakoa inportatu' gakoa inportatzeko
+sig-mismatch = Errorea - sinadurak ez datoz bat
+invalid-email = Errorea - Posta elektroniko helbide baliogabea
+attachment-pgp-key =
+    Irekitzen ari zaren '{ $name }' eranskina badirudi OpenPGP gako fitxategi bat duela.
+    Sakatu 'Inportatu' dauzkan gakoak inportatzeko edo 'Erakutsi' fitxategiaren edukia ikusteko nabigatzaile leiho baten
+dlg-button-view = &Erakutsi
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Deszifratutako mezua (PGP formatudun mezu apurtua berreskuratua, litekeena da Exchange zerbitzari zahar batek apurtzea, horregatik litekeena da emaitza ez izatea perfektua irakurtzeko)
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
 # Strings used in windows.jsm
