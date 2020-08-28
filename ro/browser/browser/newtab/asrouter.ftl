@@ -225,7 +225,7 @@ cfr-whatsnew-lockwise-icon-alt = Pictogramă { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Obține alerte despre parole vulnerabile
-cfr-whatsnew-passwords-body = Hackerii știu că oamenii refolosesc parolele. Dacă ai folosit aceeași parolă pe mai multe site-uri și unul dintre acele site-uri a fost implicat într-o breșă de date, vei vedea o alertă în { -lockwise-brand-short-name } ca să îți schimbi parolele pe acele site-uri.
+cfr-whatsnew-passwords-body = Hackerii știu că oamenii refolosesc parolele. Dacă ai folosit aceeași parolă pe mai multe site-uri și unul dintre acele site-uri a fost implicat într-o încălcare a securității datelor, vei vedea o alertă în { -lockwise-brand-short-name } ca să îți schimbi parola pe acele site-uri.
 cfr-whatsnew-passwords-icon-alt = Pictogramă de parolă vulnerabilă
 
 ## Picture-in-Picture fullscreen message
@@ -237,7 +237,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Pictogramă de imagine-în-imagine
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Protecții dintr-o privite
-cfr-whatsnew-protections-body = Tabloul de bord de protecții include rapoarte sumare despre breșe de date și gestionarea parolelor. Acum poți urmări câte breșe ai rezolvat și poți vedea dacă parolele salvate ți-au fost expuse într-o breșă de date.
+cfr-whatsnew-protections-body = Tablou de bord privind protecțiile include rapoarte sumare despre încălcările securității datelor și gestionarea parolelor. Acum poți urmări câte încălcări ai rezolvat și poți vedea dacă parolele salvate ți-au fost expuse într-o încălcare a securității datelor.
 cfr-whatsnew-protections-cta-link = Vezi tabloul de bord privind protecțiile
 cfr-whatsnew-protections-icon-alt = Pictogramă de scut
 
