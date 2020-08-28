@@ -6,6 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } fa servir un certificau de seguranza no valido.
 cert-error-mitm-intro = Los puestos web preban la suya identidat per medio de certificaus emesos per entidatz certificaderas.
+cert-error-mitm-mozilla = { -brand-short-name } ye refirmau per Mozilla, una organización sin animo de lucro que administra un almagazén d'autoridatz de certificación (CA) ubierto de tot. L'almagazén aduya a asegurar que las autoridatz de certificación respectan las milloras practicas de seguranza pa protecher los usuarios.
 cert-error-mitm-connection = { -brand-short-name } emplega l'almagazén de CA de Mozilla pa verfificar si una connexion ye segura, millor que con certificaus daus por o sistema operativo de l'usuario. Per ixo, si un antivirus u un ret intercepta una connexion con bell certificau dau per una CA que no ye en l'almagazén de Mozilla, la conexión se considera insegura.
 cert-error-trust-unknown-issuer-intro = Belún puet estar mirando d'impersonar lo puesto, y no habráis de continar.
 # Variables:
@@ -43,6 +44,9 @@ cert-error-not-yet-valid-now = Las pachinas web preban a suya identidat per medi
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codigo d'error: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Los puestos web preban la suya identidat per medio de certificaus, que son emesos per autoridatz de certificación. La mayor parte d'os navegadors ya no se fían d'os certificaus emesos per GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } fa servir un certificau d'una d'estas autoridatz y per ixo la identidat d'o puesto web no se puede prebar.
 cert-error-symantec-distrust-admin = Puetz notificar lo problema a l'administrador d'o puesto web.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -52,6 +56,9 @@ cert-error-details-hsts-label = Seguranza de Transporte Estricto HTTP: { $hasHST
 cert-error-details-key-pinning-label = Fixación de Clau Publica HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificaus:
 open-in-new-window-for-csp-or-xfo-error = Ubrir pachina en una finestra nueva
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Pa protecher la tuya seguranza, { $hostname } no permitirá que { -brand-short-name } amuestre la pachina si atro puesto la tiene incrustada. Pa veyer esta pachina la has d'ubrir en una nueva finestra.
 
 ## Messages used for certificate error titles
 
@@ -88,3 +95,5 @@ inadequateSecurityError-title = La connexion no ye pas segura
 blockedByPolicy-title = Pachina blocada
 clockSkewError-title = Lo reloch d'o tuyo ordinador ye mal
 networkProtocolError-title = Error de protocolo de ret
+nssBadCert-title = Atención: risgo potencial de seguranza
+nssBadCert-sts-title = Connexión blocada: problema potencial de seguranza
