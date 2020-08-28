@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+set-password-legend = Wubjeŕśo gronidło
 set-password-message = Gronidło, kótarež sćo how nastajił, šćita zawěsćeńsku dataju pótajmnego kluca OpenPGP, kótaruž naporajośo. Musyśo toś to gronidło nastajiś, pjerwjej až pókšacujośo ze zawěsćenim.
 set-password-repeat-backup-pw =
     .value = Gronidło zawěsćenja pótajmnego kluca (hyšći raz):
