@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Amaga lo commutador d'imachen incrustada">
 <!ENTITY pictureInPictureHideToggle.accesskey "A">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Achustes de &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connectar belatro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Iniciar la sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
@@ -222,14 +220,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Ninviar vinclo por correu…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Mida d'a pachina">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zarrar a barra lateral">
@@ -250,11 +240,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Trobar en ista pachina…">
+<!ENTITY findOnCmd.label     "Trobar en esta pachina…">
 
 <!ENTITY spellAddDictionaries.label "Adhibir diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -263,7 +252,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Autoamagar">
-
 
 
 <!ENTITY uiTour.infoPanel.close "Zarrar">
