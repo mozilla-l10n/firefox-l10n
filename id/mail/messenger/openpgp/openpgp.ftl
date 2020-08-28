@@ -26,6 +26,11 @@ openpgp-key-gen-key-type-rsa =
     .label = RSA
 openpgp-key-gen-key-type-ecc =
     .label = ECC (Kurva Eliptik)
+openpgp-generate-key =
+    .label = Hasilkan kunci
+    .tooltiptext = Membuat sebuah kunci kepatuhan OpenPGP baru untuk enkripsi dan atau penandatanganan
+openpgp-advanced-prefs-button-label =
+    .label = Canggih…
 
 ## e2e encryption settings
 
