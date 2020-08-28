@@ -54,8 +54,8 @@ inactive-text-overflow-when-no-overflow-fix = Probeer <strong>overflow:hidden</s
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> wordt niet ondersteund in de volgende browsers:
-css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> was een experimentele property die nu in de W3C-standaarden is verouderd. Hij wordt niet ondersteund in de volgende browsers:
-css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> was een experimentele property die nu in de W3C-standaarden is verouderd.
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> was een experimentele property die volgens de W3C-standaarden nu is verouderd. Hij wordt niet ondersteund in de volgende browsers:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> was een experimentele property die volgens de W3C-standaarden nu is verouderd.
 css-compatibility-deprecated-message = <strong>{ $property }</strong> is verouderd volgens W3C-standaarden. Het wordt niet ondersteund in de volgende browsers:
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> is verouderd volgens W3C-normen.
 css-compatibility-experimental-message = <strong>{ $property }</strong> is een experimentele property. Hij wordt niet ondersteund in de volgende browsers:
