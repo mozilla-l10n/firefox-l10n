@@ -15,7 +15,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Vistas">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Cambee a suya anvista">
+<!ENTITY views.tooltip                  "Cambia la tuya visualización">
 <!ENTITY view.columns.label             "Amostrar as columnas">
 <!ENTITY view.columns.accesskey         "A">
 <!ENTITY view.sort.label                "Ordenar">
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Ir ta debant">
 
 <!ENTITY detailsPane.selectAnItemText.description "Seleccione un elemento ta veyer y editar as suyas propiedatz">
-

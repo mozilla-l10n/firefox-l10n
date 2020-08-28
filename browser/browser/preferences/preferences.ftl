@@ -789,14 +789,14 @@ forms-master-pw-fips-desc = O cambio de clau ha fallau
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Pa crear una clau mayestra, escribe las tuyas credencials d'acceso a Windos. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
+master-password-os-auth-dialog-message-win = Pa crear una clau mayestra, escribe las tuyas credencials d'acceso a Windows. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = Crear una clau mayestra
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escribe las tuyas credencials d'acceso a Windos. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
+primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escribe las tuyas credencials d'acceso a Windows. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These

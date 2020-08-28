@@ -92,7 +92,7 @@ hf-page-and-total =
 hf-custom =
     .label = Personalizau…
 print-preview-window =
-    .title = Anvista preliminar
+    .title = Previsualización
 print-title =
     .value = Titol:
 print-preparing =
@@ -103,7 +103,6 @@ print-window =
     .title = Imprentando
 print-complete =
     .value = A impresión s'ha completau.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
