@@ -4,3 +4,6 @@
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong> ¿Establecer { -brand-short-name } como su navegador predeterminado? </strong> Obtenga una navegación rápida, segura y privada cada vez que use la Web.
+default-browser-notification-button =
+    .label = Hacer predeterminado
+    .accesskey = H
