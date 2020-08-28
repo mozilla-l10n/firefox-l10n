@@ -525,6 +525,12 @@ msg-compose-partially-encrypted-inlinePGP =
     Mesedez, hausnartu bidaltzaile honi kakotx arteko testu guztia kentzea zure erantzunetik.
 msg-compose-cannot-save-draft = Errorea zirriborroa gordetzean
 msg-compose-partially-encrypted-short = Argi ibili kontuzko informazioa filtratzeaz - partzialki zifratutako posta elektronikoa
+quoted-printable-warn =
+    Gaitua daukazu 'aipu-inprimagarriak' kodeketa bidalketa mezuentzat. Honek deszifratze oker bat ekar dezake edo/eta zure mezuaren egiaztatze okerra.
+    Desgaitu nahi duzu bidalitako mezuetako 'aipu-inprimagarriak' orain?
+minimal-line-wrapping =
+    Lerro egokitzea { $width } karakteretan ezarria daukazu. Zifraketa edo/eta sinatze zuzenerako balio hau gutxienez 68 izan beharko luke.
+    Nahi duzu orain lerro egokitzea 68 karakteretan ezartzea?
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
 # Strings used in windows.jsm
