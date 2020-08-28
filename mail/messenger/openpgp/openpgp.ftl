@@ -531,6 +531,15 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Lerro egokitzea { $width } karakteretan ezarria daukazu. Zifraketa edo/eta sinatze zuzenerako balio hau gutxienez 68 izan beharko luke.
     Nahi duzu orain lerro egokitzea 68 karakteretan ezartzea?
+sending-hidden-rcpt = BCC (ezkutuko kopia) hartzaileak ezin dira erabili zifratutako mezuak bidaltzean. Zifratutako mezu hau bidaltzeko, edo ezabatu BCC hartzaileak edo mugitu hauek CC eremura.
+sending-news =
+    Zifratutako bidalketa eragiketa abortatua.
+    Mezu hau ezin da zifratu berri-taldeak daudelako hartzaileen artean. Mesedez birbidali mezua zifratu gabe.
+send-to-news-warning =
+    Abisua: Berri-talde batera mezu zifratu bat bidaltzear zaude.
+    Hau ez da gomendagarria, zentsua izan dezan berri-taldeko kide guztiek gai izan behar dutelako mezua deszifratzeko. Adibidez, taldeko kide diren gako guztiekin zifratu beharko litzateke mezua. Mesedez bidali mezua zertan ari zaren ondo badakizu bakarrik.
+    Jarraitu?
+save-attachment-header = Gorde zifratutako eranskina
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
 # Strings used in windows.jsm
