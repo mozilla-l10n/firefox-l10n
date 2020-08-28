@@ -54,7 +54,7 @@ move-to-new-window =
     .label = Liiguta uude aknasse
     .accesskey = k
 tab-context-close-multiple-tabs =
-    .label = Sule mitu vahekaarti
+    .label = Sulge mitu kaarti
     .accesskey = m
 
 ## Variables:
