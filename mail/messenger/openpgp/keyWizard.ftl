@@ -67,9 +67,29 @@ openpgp-keygen-import-complete =
     .accesskey = S
 openpgp-keygen-missing-username = Der is gjin namme foar de aktuele account opjûn. Fier yn de accountynstellingen in wearde yn yn it fjild ‘Jo namme’.
 openpgp-keygen-long-expiry = Jo kinne gjin kaai oanmeitsje dy't oer mear as 100 jier ferrint.
+openpgp-keygen-short-expiry = Jo kaai moat op syn minst ien dag jildich wêze.
+openpgp-keygen-ongoing = Der wurdt al in kaai oanmakke!
+openpgp-keygen-error-core = Kin OpenPGP Core Service net inisjalisearje
+openpgp-keygen-error-failed = It oanmeitsjen fan de OpenPGP-kaai is ûnferwachts mislearre
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = De OpenPGP-kaai is mei sukses oanmakke, mar de ynlûking foar kaai { $key } koe net ferkrigen wurde
+openpgp-keygen-abort-title = Oanmeitsjen kaai ôfbrekke?
+openpgp-keygen-abort = Der wurdt op dit stuit in OpenPGP-kaai oanmakke, binne jo wis dat jo dit annulearje wolle?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Iepenbiere en geheime kaai foar { $identity } oanmeitsje?
 
 ## Import Key section
 
+openpgp-import-key-title = In besteande persoanlike OpenPGP-kaai ymportearje
+openpgp-import-key-legend = Selektearje in earder reservekopybestân.
+openpgp-import-key-description = Jo kinne persoanlike kaaien dy't oanmakke binne mei oare OpenPGP-software ymportearje.
+openpgp-import-key-info = Oare software beskriuwt in persoanlike kaai mooglik mei alternative termen, lykas jo eigen kaai, geheime kaai, priveekaai of kaaipear.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird hat in kaai fûn dy't ymportearre wurde kin.
+       *[other] Thunderbird hat { $count } kaaien fûn dy't ymportearre wurde kinne.
+    }
 openpgp-import-identity-label = Identiteit
 openpgp-import-fingerprint-label = Fingerôfdruk
 openpgp-import-created-label = Oanmakke
