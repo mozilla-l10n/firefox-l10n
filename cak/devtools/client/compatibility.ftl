@@ -12,7 +12,11 @@ compatibility-all-elements-header = Ronojel K'ayewal
 
 compatibility-issue-deprecated = (ojer)
 compatibility-issue-experimental = (tojtob'äl)
+compatibility-issue-prefixneeded = (najowäx ruwäch tzij)
 compatibility-issue-deprecated-experimental = (ojer, tojtob'äl)
+compatibility-issue-deprecated-prefixneeded = (ojer, najowäx ruwäch tzij)
+compatibility-issue-experimental-prefixneeded = (tojtob'enel, najowäch ruwäch tzij)
+compatibility-issue-deprecated-experimental-prefixneeded = (ojer, tojtob'enel, najowäx ruwäch tzij)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -26,8 +30,10 @@ compatibility-feedback-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Taq runuk'ulem
+compatibility-target-browsers-header = Raponel Okik'amaya'l
 
 ##
 
+compatibility-no-issues-found = Majun k'ayewal rik'in k'amonem xilitäj.
 compatibility-close-settings-button =
     .title = Ketz'apïx taq runuk'ulem

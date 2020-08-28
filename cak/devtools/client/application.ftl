@@ -69,6 +69,8 @@ serviceworker-empty-suggestions-debugger = Tatz'eta' rutz'ib'axik ri Service Wor
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ke'anik'oj ri Service Workers kichin ch'aqa' chik taq ajk'amal. <a>Tijaq about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Majun service workers xe'ilitäj
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Tetamäx ch'aqa' chik
 # Header for the Manifest page when we have an actual manifest
