@@ -90,6 +90,15 @@ openpgp-import-key-list-amount =
         [one] Thunderbird hat in kaai fûn dy't ymportearre wurde kin.
        *[other] Thunderbird hat { $count } kaaien fûn dy't ymportearre wurde kinne.
     }
+openpgp-import-key-list-description = Befêstigje hokker kaaien behannele wurde meie as persoanlike kaaien. Allinnich kaaien dy't jo sels oanmakke hawwe en jo eigen identiteit toane meie as persoanlike kaaien brûkt wurde. Jo kinne dizze opsje letter wizigje yn it dialoochfinster Kaaieigenskippen.
+openpgp-import-key-list-caption = Kaaien dy't markearre wurde om as persoanlike kaaien behanelle te wurden, wurde fermeld yn de seksje End-to-end-fersifering. De oare binne beskikber yn de Kaaibehearder.
+openpgp-passphrase-prompt-title = Wachtwurdsin fereaske
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Fier de wachtwurdsin yn om de folgjende kaai te ûntskoatteljen: { $key }
+openpgp-import-key-button =
+    .label = Selektearje te ymportearjen bestân…
+    .accesskey = S
+import-key-file = OpenPGP-kaaibestân ymportearje
 openpgp-import-identity-label = Identiteit
 openpgp-import-fingerprint-label = Fingerôfdruk
 openpgp-import-created-label = Oanmakke
