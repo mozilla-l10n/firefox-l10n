@@ -571,6 +571,9 @@ search-restore-default =
 search-remove-engine =
     .label = Kkes
     .accesskey = K
+search-add-engine =
+    .label = Rnu
+    .accesskey = R
 search-find-more-link = Aff ugar n yimseddayen n unadi
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
