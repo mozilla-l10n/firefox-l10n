@@ -178,7 +178,7 @@ confirm-discard-changes-dialog-confirm-button = Înlătură
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Încălcarea securității datelor în cazul unui site web
+about-logins-breach-alert-title = Încălcare a securității datelor în cazul unui site web
 breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară detaliile de autentificare. Schimbă parola ca să îți protejezi contul.
 about-logins-breach-alert-date = Această încălcare a securității datelor a avut loc la data de { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
