@@ -94,5 +94,6 @@ openpgp-import-key-props =
 openpgp-external-key-title = Kunci GnuPG Eksternal
 openpgp-external-key-description = Konfigurasikan kunci GnuPG eksternal dengan memasukkan ID Kunci
 openpgp-save-external-button = Simpan ID kunci
+openpgp-external-key-label = ID Kunci Rahasia:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
