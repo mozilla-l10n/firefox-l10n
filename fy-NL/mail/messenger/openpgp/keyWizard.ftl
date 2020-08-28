@@ -99,10 +99,29 @@ openpgp-import-key-button =
     .label = Selektearje te ymportearjen bestân…
     .accesskey = S
 import-key-file = OpenPGP-kaaibestân ymportearje
+import-key-personal-checkbox =
+    .label = Dizze kaai as in persoanlike kaai behannelje
+gnupg-file = GnuPG-bestannen
+import-error-file-size = <b>Flater!</b> Bestannen grutter nas 5 MB wurde net stipe.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Flater!</b> Koe bestân net ymportearje. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Flater!</b> Koe kaaien net ymportearje. { $error }
 openpgp-import-identity-label = Identiteit
 openpgp-import-fingerprint-label = Fingerôfdruk
 openpgp-import-created-label = Oanmakke
 openpgp-import-bits-label = Bits
+openpgp-import-key-props =
+    .label = Kaaieigenskippen
+    .accesskey = S
 
 ## External Key section
 
+openpgp-external-key-title = Eksterne GnuPG-kaai
+openpgp-external-key-description = Konfigurearje in eksterne GnuPG-kaai troch de kaai-ID yn te fieren
+openpgp-external-key-info = Dêrneist moatte jo Kaaibehearder brûke om de byhearrende iepenbiere kaai te ymportearjen en te akseptearjen.
+openpgp-external-key-warning = <b>Jo meie mar ien eksterne GnuPG-kaai konfigurearje.</b> Jo foarige ynfier wurdt ferfongen.
+openpgp-save-external-button = Kaai-ID bewarje
+openpgp-external-key-label = Geheime kaai-ID:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
