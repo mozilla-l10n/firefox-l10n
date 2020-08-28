@@ -45,10 +45,10 @@ openpgp-key-man-generate =
     .label = Gako pare berria
     .accesskey = p
 openpgp-key-man-gen-revoke =
-    .label = Baliogabetze ziurtagiria
-    .accesskey = b
+    .label = Ukatze ziurtagiria
+    .accesskey = U
 openpgp-key-man-ctx-gen-revoke-label =
-    .label = Baliogabetze ziurtagiria sortu eta gorde
+    .label = Ukatze ziurtagiria sortu eta gorde
 openpgp-key-man-file-menu =
     .label = Fitxategia
     .accesskey = F
@@ -125,8 +125,8 @@ openpgp-delete-key =
     .label = Ezabatu gakoa
     .accesskey = z
 openpgp-key-man-revoke-key =
-    .label = Indargabetu gakoa
-    .accesskey = I
+    .label = Ukatu gakoa
+    .accesskey = U
 openpgp-key-man-key-props =
     .label = Gako propietateak
     .accesskey = p
@@ -258,7 +258,7 @@ openpgp-key-expired-image =
     .tooltiptext = Gakoa iraungita
 openpgp-key-expand-section =
     .tooltiptext = Informazio gehiago
-openpgp-key-revoke-title = Indargabetu gakoa
+openpgp-key-revoke-title = Ukatu gakoa
 openpgp-key-edit-title = Aldatu OpenPGP gakoa
 openpgp-key-edit-date-title = Luzatu iraungitze data
 openpgp-manager-description = Erabili OpenPGP gako kudeatzailea goian zerrendatuak ez dauden gakoak eta zure mezu-idazleen gako publikoak ikusi eta kudeatzeko.
@@ -500,7 +500,25 @@ key-man-button-generate-key-continue = &Jarraitu gako sorrera
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Errorea - deszifratzeak huts egin du
 fix-broken-exchange-msg-failed = Ez da lortu mezua konpontzea.
+attachment-no-match-from-signature = '{ $attachment }' sinadura fitxategia ez dator bat eranskin batekin
+attachment-no-match-to-signature = '{ $attachment }' eranskina ez dator bat sinadura fitxategi batekin
+signature-verified-ok = { $attachment } eranskinerako sinadura ondo egiaztatu da
+signature-verify-failed = { $attachment } eranskinerako sinadura ezin da egiaztatu
+decrypt-ok-no-sig =
+    Abisua
+    Zifratzea ondo egin da, baina sinadura ezin da ondo egiaztatu
+msg-ovl-button-cont-anyway = &Jarraitu hala ere
+enig-content-note = *Mezu honen eranskinak ez dira sinatu ezta zifratu*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Bidali mezua
+msg-compose-details-button-label = Xehetasunak…
+msg-compose-details-button-access-key = X
+send-aborted = Bidaliketa eragiketa abortatua.
 key-not-trusted = Ez dago nahikoa konfiantza '{ $key }' gakoan
+key-not-found = '{ $key }'  gakoa ez da aurkitu
+key-revoked = '{ $key }'  gakoa ukatu da
+key-expired = '{ $key }'  gakoa iraungi da
+msg-compose-internal-error = Barne errore bat eman da.
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
 # Strings used in windows.jsm
