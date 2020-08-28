@@ -519,6 +519,7 @@ key-not-found = '{ $key }'  gakoa ez da aurkitu
 key-revoked = '{ $key }'  gakoa ukatu da
 key-expired = '{ $key }'  gakoa iraungi da
 msg-compose-internal-error = Barne errore bat eman da.
+keys-to-export = Aukeratu OpenPGP gakoak txertatzeko
 # Strings used in encryption.jsm
 not-required = Errorea - ez da zifraketarik behar
 # Strings used in windows.jsm
