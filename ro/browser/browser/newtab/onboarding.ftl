@@ -143,7 +143,7 @@ onboarding-benefit-privacy-text = Ne ținem de promisiunea noastră privind date
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Ia-ți cu tine marcajele, parolele, istoricul și multe altele oriunde folosești { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Primește notificări când informațiile tale cu caracter personal sunt implicate într-o breșă cunoscută de date.
+onboarding-benefit-monitor-text = Primește notificări când informațiile tale cu caracter personal sunt implicate într-o încălcare cunoscută a securității datelor.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gestionarea parolelor protejate și portabile.
 
@@ -161,8 +161,8 @@ onboarding-data-sync-title = Ia-ți cu tine setările
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincronizează-ți marcajele, parolele și multe altele oriunde folosești { -brand-product-name }.
 onboarding-data-sync-button2 = Autentifică-te în { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Rămâi la curent cu breșele de date
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } monitorizează dacă adresa ta de e-mail a apărut într-o breșă cunoscută de date și te alertează dacă apare în breșe noi.
+onboarding-firefox-monitor-title = Rămâi la curent cu încălcările securității datelor
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } monitorizează dacă adresa ta de e-mail a apărut într-o încălcare cunoscută a securității datelor și te alertează dacă apare într-o încălcare nouă.
 onboarding-firefox-monitor-button = Înregistrează-te pentru alerte
 onboarding-browse-privately-title = Navighează privat
 onboarding-browse-privately-text = Navigarea privată îți șterge căutările și istoricul de navigare pentru a le păstra secrete față de oricine altcineva folosește calculatorul.
