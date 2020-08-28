@@ -39,6 +39,34 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = jier
 openpgp-keygen-advanced-title = Avansearre ynstellingen
+openpgp-keygen-advanced-description = De avansearre ynstellingen fan jo OpenPGP-kaai beheare.
+openpgp-keygen-keytype =
+    .value = Kaaitype:
+    .accesskey = t
+openpgp-keygen-keysize =
+    .value = Kaaigrutte:
+    .accesskey = g
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (Elliptyske Kurve)
+openpgp-keygen-button = Kaai oanmeitsje
+openpgp-keygen-progress-title = Jo nije OpenPGP-kaai wurdt oanmakke…
+openpgp-keygen-import-progress-title = Jo OpenPGP-kaaien ymportearje…
+openpgp-import-success = OpenPGP-kaaien mei sukses ymportearre!
+openpgp-import-success-title = It ymportproses foltôgje
+openpgp-import-success-description = Om jo ymportearre OpenPGP-kaai foar it fersiferjen fan e-mail brûken te gean, moatte jo dit dialoochfinster slute en nei jo accountynstellingen gean om de kaai te selektearjen.
+openpgp-keygen-confirm =
+    .label = Befêstigje
+openpgp-keygen-dismiss =
+    .label = Annulearje
+openpgp-keygen-cancel =
+    .label = Proses annulearje…
+openpgp-keygen-import-complete =
+    .label = Slute
+    .accesskey = S
+openpgp-keygen-missing-username = Der is gjin namme foar de aktuele account opjûn. Fier yn de accountynstellingen in wearde yn yn it fjild ‘Jo namme’.
+openpgp-keygen-long-expiry = Jo kinne gjin kaai oanmeitsje dy't oer mear as 100 jier ferrint.
 
 ## Import Key section
 
