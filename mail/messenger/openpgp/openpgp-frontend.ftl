@@ -21,10 +21,23 @@ openpgp-has-sender-key = Pesan ini mengklaim berisi kunci publik OpenPGP pengiri
 openpgp-be-careful-new-key = Peringatan: Kunci publik OpenPGP baru dalam pesan ini berbeda dari kunci publik yang Anda terima sebelumnya untuk { $email }.
 openpgp-import-sender-key =
     .label = Impor…
+openpgp-search-keys-openpgp =
+    .label = Temukan Kunci OpenPGP
+openpgp-missing-signature-key = Pesan ini ditandatangani dengan kunci yang belum Anda miliki.
 openpgp-search-signature-key =
     .label = Menemukan…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Ini adalah pesan OpenPGP yang tampaknya rusak oleh MS-Exchange. Jika isi pesan tidak ditampilkan seperti yang diharapkan, Anda dapat mencoba perbaikan otomatis.
 openpgp-broken-exchange-repair =
     .label = Perbaiki pesan
 openpgp-broken-exchange-wait = Mohon tunggu…
+openpgp-cannot-decrypt-because-mdc =
+    Ini adalah pesan terenkripsi yang menggunakan mekanisme usang dan rentan.
+    Pesannya bisa saja dimodifikasi saat dalam perjalanan, dengan maksud untuk mencuri isinya.
+    Untuk mencegah risiko ini, isinya tidak ditampilkan.
+openpgp-cannot-decrypt-because-missing-key = Kunci rahasia yang diperlukan untuk mendekripsi pesan ini tidak tersedia.
+openpgp-partially-signed =
+    Hanya sebagian dari pesan ini yang ditandatangani secara digital menggunakan OpenPGP.
+    Jika Anda mengklik tombol verifikasi, bagian yang tidak dilindungi akan disembunyikan, dan status tanda tangan digital akan ditampilkan.
 openpgp-partial-verify-button = Verifikasi
 openpgp-partial-decrypt-button = Dekripsi
