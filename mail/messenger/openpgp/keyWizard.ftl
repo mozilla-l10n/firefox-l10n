@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Lanjut
     .buttonlabelhelp = Kembali
+key-wizard-warning = <b> Jika Anda sudah memiliki kunci pribadi </b> untuk alamat email ini, Anda harus mengimpornya. Jika tidak, Anda tidak akan memiliki akses ke arsip email terenkripsi, juga tidak dapat membaca email terenkripsi yang masuk dari orang yang masih menggunakan kunci Anda yang ada.
 key-wizard-learn-more = Pelajari lebih lanjut
 radio-create-key =
     .label = Buat Kunci OpenPGP baru
@@ -79,8 +80,32 @@ openpgp-key-confirm = Hasilkan kunci publik dan rahasia untuk { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Impor Kunci OpenPGP pribadi yang sudah ada
+openpgp-import-key-legend = Pilih file yang telah dicadangkan sebelumnya.
+openpgp-import-key-description = Anda dapat mengimpor kunci pribadi yang dibuat dengan perangkat lunak OpenPGP lainnya.
+openpgp-import-key-info = Perangkat lunak lain mungkin mendeskripsikan kunci pribadi menggunakan istilah alternatif seperti kunci Anda sendiri, kunci rahasia, kunci pribadi, atau pasangan kunci.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+       *[other] Thunderbird menemukan { $count } kunci yang dapat diimpor.
+    }
+openpgp-import-key-list-description = Konfirmasikan kunci mana yang dapat diperlakukan sebagai kunci pribadi Anda. Hanya kunci yang Anda buat sendiri dan yang menunjukkan identitas Anda yang boleh digunakan sebagai kunci pribadi. Anda dapat mengubah opsi ini nanti di dialog Properti Kunci.
+openpgp-import-key-list-caption = Kunci yang ditandai untuk diperlakukan sebagai Kunci Pribadi akan dicantumkan di bagian Enkripsi Ujung-ke-Ujung. Yang lainnya akan tersedia di dalam Key Manager.
 openpgp-passphrase-prompt-title = Frasa sandi diperlukan
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Harap masukkan frasa sandi untuk membuka kunci berikut: { $key }
+openpgp-import-key-button =
+    .label = Pilih File untuk Diimpor…
+    .accesskey = S
+import-key-file = Impor File Kunci OpenPGP
+import-key-personal-checkbox =
+    .label = Perlakukan kunci ini sebagai Kunci Pribadi
 gnupg-file = Berkas GnuPG
+import-error-file-size = <b> Kesalahan! </b> File yang lebih besar dari 5MB tidak didukung.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b> Kesalahan! </b> Gagal mengimpor file. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b> Kesalahan! </b> Gagal mengimpor kunci. { $error }
 openpgp-import-identity-label = Identitas
 openpgp-import-fingerprint-label = Sidik jari
 openpgp-import-created-label = Dibuat
@@ -93,6 +118,8 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = Kunci GnuPG Eksternal
 openpgp-external-key-description = Konfigurasikan kunci GnuPG eksternal dengan memasukkan ID Kunci
+openpgp-external-key-info = Selain itu, Anda harus menggunakan Manajer Kunci untuk mengimpor dan menerima Kunci Publik yang sesuai.
+openpgp-external-key-warning = <b> Anda hanya dapat mengkonfigurasi satu Kunci GnuPG eksternal. </b> Entri Anda sebelumnya akan diganti.
 openpgp-save-external-button = Simpan ID kunci
 openpgp-external-key-label = ID Kunci Rahasia:
 openpgp-external-key-input =

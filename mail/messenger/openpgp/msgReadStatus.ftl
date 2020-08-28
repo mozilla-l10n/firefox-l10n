@@ -11,3 +11,5 @@ openpgp-no-sig = Tidak Ada Tanda Tangan Digital
 openpgp-uncertain-sig = Tanda Tangan Digital Tidak Pasti
 openpgp-invalid-sig = Tanda Tangan Digital Tidak Valid
 openpgp-good-sig = Tanda Tangan Digital yang Baik
+openpgp-sig-key-id = ID kunci penanda tangan: { $key }
+openpgp-unknown-key-id = Kunci tidak diketahui
