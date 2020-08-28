@@ -97,3 +97,4 @@ clockSkewError-title = Lo reloch d'o tuyo ordinador ye mal
 networkProtocolError-title = Error de protocolo de ret
 nssBadCert-title = Atención: risgo potencial de seguranza
 nssBadCert-sts-title = Connexión blocada: problema potencial de seguranza
+certerror-mitm-title = Un programa ye privando que { -brand-short-name } se connecte de manera segura a este puesto
