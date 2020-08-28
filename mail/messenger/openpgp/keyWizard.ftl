@@ -23,6 +23,22 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP-kaai oanmeitsje
+openpgp-generate-key-info = <b>It oanmeitsjen fan in kaai kin inkelde minuten duorje.</b> Slút de tapassing net ôf wylst de kaai oanmakke wurdt. Aktyf navigearje of skiifyntensive bewurkingen útfiere wylst it oanmeitsjen fan de kaai sil de ‘samar-wat-pool’ oanfolje en it proses fersnelle. Jo wurde warskôge wannear't it oanmeitsjen fan de kaai ree is.
+openpgp-keygen-expiry-title = Jildichheidsdoer kaai
+openpgp-keygen-expiry-description = Definiearje de jildichheidsdoer fan jo nij oanmakke kaai. Jo kinne letter de datum oanpasse om dizze wannear nedich te ferlingen.
+radio-keygen-expiry =
+    .label = Kaai ferrint oer
+    .accesskey = e
+radio-keygen-no-expiry =
+    .label = Kaai ferrint net
+    .accesskey = n
+openpgp-keygen-days-label =
+    .label = dagen
+openpgp-keygen-months-label =
+    .label = moannen
+openpgp-keygen-years-label =
+    .label = jier
+openpgp-keygen-advanced-title = Avansearre ynstellingen
 
 ## Import Key section
 
