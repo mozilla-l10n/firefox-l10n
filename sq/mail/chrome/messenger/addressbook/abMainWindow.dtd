@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Fshiji Listat">
 <!ENTITY deleteItemsCmd.label                           "Fshiji Elementët">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Veti">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Libër Adresash">
-<!ENTITY addressBookCmd.accesskey                       "L">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Kërkoni te Adresat…">
 <!ENTITY searchAddressesCmd.accesskey                   "K">
 <!ENTITY importCmd.label                                "Importoni…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Veti">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Njëkohësoje">
+<!ENTITY syncContext.accesskey                          "N">
 <!ENTITY editContactContext.label                       "Përpunoni Kontaktin">
 <!ENTITY editContactContext.accesskey                   "P">
 <!ENTITY editMailingListContext.label                   "Përpunoni Listën">
