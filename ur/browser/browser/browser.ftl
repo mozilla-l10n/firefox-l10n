@@ -297,6 +297,7 @@ popup-screen-sharing-never =
     .label = کبھی اجازت نہیں دیں
     .accesskey = N
 popup-silence-notifications-checkbox = اشتراک کے دوران { -brand-short-name } سے اطلاعات کو غیر فعال کریں
+popup-silence-notifications-checkbox-warning = شیئرنگ کے عمل کے دوران { -brand-short-name } اطلاعات نہیں دکھایے گا.
 
 ## WebRTC window or screen share tab switch warning
 
