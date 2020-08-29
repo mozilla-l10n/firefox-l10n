@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Ieškokite saityne
 about-private-browsing-not-private = Šiuo metu jūs esate ne privačiajame lange.
 about-private-browsing-info-description = „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo žurnalą kai išjungiate programą, arba užveriate visas privačiojo naršymo korteles ir langus. Nors tai ir nepadaro jūsų anonimu internete, taip lengviau galite išlaikyti savo privatumą nuo kitų šiuo kompiuteriu besinaudojančių žmonių.
-
+about-private-browsing-need-more-privacy = Reikia daugiau privatumo?
+about-private-browsing-turn-on-vpn = Išbandykite „{ -mozilla-vpn-brand-name }“
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

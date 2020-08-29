@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (privatusis naršymas)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (privatusis naršymas)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (privatusis naršymas)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (privatusis naršymas)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -114,6 +112,10 @@ urlbar-search-tips-redirect-2 = Pradėkite savo paiešką adreso lauke, norėdam
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Adresynas
+urlbar-search-mode-tabs = Kortelės
+urlbar-search-mode-history = Žurnalas
+
 ##
 
 urlbar-geolocation-blocked =
@@ -140,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę MIDI naudojimą.
 urlbar-install-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę priedų diegimą.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Taisyti šį adresyno įrašą ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Šįkart ieškokite su:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Keisti paieškos nuostatas
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Keisti paieškos nuostatas
-
 search-one-offs-context-open-new-tab =
     .label = Ieškoti naujoje kortelėje
     .accesskey = k
@@ -193,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Skirti numatytąja ieškykle privačiojo naršymo langams
     .accesskey = p
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -201,15 +205,20 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Adresynas ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Kortelės ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Žurnalas ({ $restrict })
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Rodyti redagavimo formą įrašant
     .accesskey = R
-
 bookmark-panel-done-button =
     .label = Atlikta
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -283,15 +292,12 @@ popup-select-microphone =
     .value = Mikrofonas, kurį leisite pasiekti:
     .accesskey = M
 popup-all-windows-shared = Bus leidžiama matyti visus jūsų ekrane matomus langus.
-
 popup-screen-sharing-not-now =
     .label = Ne dabar
     .accesskey = b
-
 popup-screen-sharing-never =
     .label = Niekada neleisti
     .accesskey = N
-
 popup-silence-notifications-checkbox = Išjungti „{ -brand-short-name }“ pranešimus dalinantis
 popup-silence-notifications-checkbox-warning = „{ -brand-short-name }“ nerodys pranešimų, kai jūs dalinatės.
 
@@ -308,26 +314,55 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Įveskite adresą arba paieškos žodžius
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Įveskite adresą arba paieškos žodžius
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Ieškokite saityne
+    .aria-label = Ieškoti per „{ $name }“
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Įveskite ieškomą tekstą
+    .aria-label = Ieškoti per „{ $name }“
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Įveskite ieškomą tekstą
+    .aria-label = Ieškoti adresyne
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Įveskite ieškomą tekstą
+    .aria-label = Ieškoti žurnale
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Įveskite ieškomą tekstą
+    .aria-label = Ieškote kortelėse
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Ieškokite per „{ $name }“ arba įveskite adresą
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Naršyklė valdoma per nuotolį
 urlbar-permissions-granted =
     .tooltiptext = Šiai svetainei esate suteikę papildomų leidimų.
 urlbar-switch-to-tab =
     .value = Pereiti į kortelę:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Priedas:
-
 urlbar-go-button =
     .tooltiptext = Eiti į adreso lauke surinktą adresą
 urlbar-page-action-button =
