@@ -36,6 +36,7 @@ printui-destination-label = Drukarka
 printui-destination-pdf-label = Zapisz jako PDF
 printui-more-settings = Więcej ustawień
 printui-less-settings = Mniej ustawień
+printui-paper-size-label = Rozmiar papieru
 # Section title (noun) for the print scaling options
 printui-scale = Skalowanie
 printui-scale-fit-to-page = Dopasuj do strony
@@ -59,9 +60,26 @@ printui-primary-button-save = Zapisz
 printui-cancel-button = Anuluj
 printui-loading = Przygotowywanie podglądu
 
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
+
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skala musi być liczbą między 10 a 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Zakres musi być liczbą między 1 a { $numPages }.
+printui-error-invalid-start-overflow = Numer strony „od” musi być mniejszy niż numer strony „do”.
