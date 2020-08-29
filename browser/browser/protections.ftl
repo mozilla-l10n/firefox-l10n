@@ -150,21 +150,21 @@ info-exposed-passwords-resolved =
 monitor-no-breaches-title = Vești bune!
 monitor-no-breaches-description = Nu apari în nicio încălcare cunoscută. Dacă apar noutăți, te vom anunța.
 monitor-view-report-link = Vezi raportul
-    .title = Rezolvă breșele de date pe { -monitor-brand-short-name }
+    .title = Rezolvă încălcările securității datelor pe { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Rezolvă-ți încălcările securității datelor
 monitor-breaches-unresolved-description = După ce ai văzut detaliile încălcărilor securității datelor și ai luat măsuri ca să îți protejezi informațiile, poți marca încălcările ca rezolvate.
-monitor-manage-breaches-link = Gestionează breșele de date
-    .title = Gestionează breșele de date cu { -monitor-brand-short-name }
-monitor-breaches-resolved-title = Bun! Ai rezolvat toate breșele de date cunoscute.
-monitor-breaches-resolved-description = Te vom anunța dacă adresa ta de e-mail apare în orice breșe noi de date.
+monitor-manage-breaches-link = Gestionează încălcările securității datelor
+    .title = Gestionează încălcările securității datelor cu { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Bun! Ai rezolvat toate încălcări cunoscute ale securității datelor.
+monitor-breaches-resolved-description = Te vom anunța dacă adresa ta de e-mail apare în orice încălcări noi ale securității datelor.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-        [one] { $numBreachesResolved } din { $numBreaches } (de) breșe marcate ca rezolvate
-        [few] { $numBreachesResolved } din { $numBreaches } (de) breșe marcate ca rezolvate
-       *[other] { $numBreachesResolved } din { $numBreaches } (de) breșe marcate ca rezolvate
+        [one] { $numBreachesResolved } din { $numBreaches } încălcare marcată ca rezolvată
+        [few] { $numBreachesResolved } din { $numBreaches } încălcări marcate ca rezolvate
+       *[other] { $numBreachesResolved } din { $numBreaches } de încălcări marcate ca rezolvate
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
@@ -173,8 +173,8 @@ monitor-partial-breaches-motivation-title-start = Grozav început!
 monitor-partial-breaches-motivation-title-middle = Ține-o tot așa!
 monitor-partial-breaches-motivation-title-end = Aproape gata! Ține-o tot așa.
 monitor-partial-breaches-motivation-description = Rezolvă-ți restul încălcărilor securității datelor în { -monitor-brand-short-name }.
-monitor-resolve-breaches-link = Rezolvă breșele de date
-    .title = Rezolvă breșele de date în { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Rezolvă încălcările securității datelor
+    .title = Rezolvă încălcările securității datelor în { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
