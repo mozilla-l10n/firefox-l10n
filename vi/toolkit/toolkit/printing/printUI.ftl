@@ -34,6 +34,7 @@ printui-destination-label = Thiết bị đích
 printui-destination-pdf-label = Lưu thành PDF
 printui-more-settings = Nhiều cài đặt hơn
 printui-less-settings = Ít cài đặt hơn
+printui-paper-size-label = Khổ giấy
 # Section title (noun) for the print scaling options
 printui-scale = Tỷ lệ
 printui-scale-fit-to-page = Vừa với trang
@@ -57,9 +58,25 @@ printui-primary-button-save = Lưu
 printui-cancel-button = Hủy bỏ
 printui-loading = Đang chuẩn bị xem trước
 
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Thư Hoa Kỳ
+printui-paper-tabloid = Báo khổ nhỏ
+
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Tỉ lệ phải là số từ 10 đến 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Phạm vi phải là số từ 1 đến { $numPages }.
+printui-error-invalid-start-overflow = Số trang “từ” phải nhỏ hơn số trang “đến”.
