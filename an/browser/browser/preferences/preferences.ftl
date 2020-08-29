@@ -483,7 +483,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Conteniu d'inicio de Firefox
-home-prefs-content-description = Tría qué contenisu quiers veyer en a tuya pachina d'inicio de Firefox.
+home-prefs-content-description = Tría qué contenius quiers veyer en a tuya pachina d'inicio de Firefox.
 home-prefs-search-header =
     .label = Busqueda web
 home-prefs-topsites-header =
