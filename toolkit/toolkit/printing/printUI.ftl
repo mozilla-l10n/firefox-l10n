@@ -70,7 +70,8 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
-printui-paper-letter = Thư Hoa Kỳ
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
 printui-paper-tabloid = Báo khổ nhỏ
 
 ## Error messages shown when a user has an invalid input
