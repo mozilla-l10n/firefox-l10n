@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = کوائف ماخذ کو پنگ کریں
+about-telemetry-show-current-data = موجودہ ڈیٹا
 about-telemetry-show-archived-ping-data = محفوظہ پنگ کوائف
 about-telemetry-show-subsession-data = ذیلی سیشن کوائف دکھائیں
 about-telemetry-choose-ping = پنگ کا انتخاب کریں
@@ -84,4 +85,5 @@ about-telemetry-category-header = زمرہ
 about-telemetry-method-header = طریقہ
 about-telemetry-object-header = آبجیکٹ
 about-telemetry-extra-header = فالتو
+about-telemetry-origin-origin = اصل
 about-telemetry-origin-count = گنیں

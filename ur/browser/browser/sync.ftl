@@ -12,3 +12,7 @@ fxa-disconnect-dialog-body = { -brand-product-name } آپ کے اکاؤنٹ مق
 sync-disconnect-dialog-button = منقطع کریں
 fxa-signout-dialog-heading = { -fxaccount-brand-name } سے سائن اوٹ کریں؟
 fxa-signout-dialog-body = سنک شدہ ڈیٹا اکاؤنٹ میں  ہی رہے گا
+fxa-signout-dialog =
+    .title = { -fxaccount-brand-name } سے سائن اوٹ کریں؟
+    .style = min-width: 375px;
+    .buttonlabelaccept = سائن آؤٹ کریں

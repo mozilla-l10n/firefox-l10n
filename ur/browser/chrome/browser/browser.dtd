@@ -42,7 +42,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "پوری اسکرین">
 
-
+<!ENTITY pictureInPictureHideToggle.label "تصویر میں تصویر ٹوگل چھپائیں">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -51,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; سیٹنگز">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "ایک اور آلہ جوڑیں…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "&brandProductName; میں سائن ان کریں">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; چالو  کریں ">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; خدمات">
@@ -96,7 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "چھاپیں">
 <!ENTITY printButton.tooltip          "اس صفحہ کو چھاپیں">
-
 
 <!ENTITY searchItem.title             "تلاش">
 
@@ -222,14 +220,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "ای میل ربط…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "زوم">
 
 <!ENTITY sidebarCloseButton.tooltip     "بغلی بار بند کریں">
@@ -254,7 +244,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "لغات اضافہ کریں…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
