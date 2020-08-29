@@ -35,9 +35,11 @@ printui-destination-label = Destination
 printui-destination-pdf-label = Save to PDF
 printui-more-settings = More settings
 printui-less-settings = Fewer settings
+printui-paper-size-label = Paper size
 # Section title (noun) for the print scaling options
 printui-scale = Scale
 printui-scale-fit-to-page = Fit to page
+printui-scale-fit-to-page-width = Fit to page width
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scale
 # Section title for miscellaneous print options
@@ -57,9 +59,26 @@ printui-primary-button-save = Save
 printui-cancel-button = Cancel
 printui-loading = Preparing Preview
 
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
+
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Scale must be a number between 10 and 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Range must be a number between 1 and { $numPages }.
+printui-error-invalid-start-overflow = The “from” page number must be smaller than the “to” page number.
