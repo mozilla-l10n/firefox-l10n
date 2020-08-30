@@ -34,11 +34,14 @@ experimental-features-web-api-link-preload-description = Imyerr <a data-l10n-nam
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Yessirig aseddu n wanawen n ufukus i yiferdisen am tqeffalin d yisenqad n tferkit, ala ma yili ttwafernen i useqdec n unasiw (am. mi ara tgeḍ tarigla gar yiferdisen), maca mačči am mi ara ttwafernent s useqdec n tɣerdayt neɣ ibenk-nniḍen n usigez. Wali <a data-l10n-name="bugzilla">abug1617600</a> i wugar n telqayt.
+experimental-features-css-focus-visible-description = Yessirig aseddu n wanawen n ufukus i yiferdisen am tqeffalin d yisenqad n tferkit, ala mi ara yilin ttwafernen i useqdec n unasiw (am. mi ara tgeḍ tarigla gar yiferdisen), maca mačči am mi ara ttwafernent s useqdec n tɣerdayt neɣ ibenk-nniḍen n usigez. Wali <a data-l10n-name="bugzilla">abug1617600</a> i wugar n telqayt.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Tadyant s umata <a data-l10n-name="mdn-beforeinput">beforeinpt</a> tekker ɣef <a data-l10n-name="mdn-input">&lt;input&gt;</a> d <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> yiferdisen, neɣ kra n uferdis iwumi yettwarmed yimyerr <a data-l10n-name="mdn-contenteditable">contenteditable</a>, send kan asnifel n wazal n uferdis.Tadyant ad teǧǧ isnasen n web ad  surfen tikli tamezwert n yiminig i temyigawt n useqdac, am., isnasen web zemren ad sfesxen asekcem n useqdac kan i yisekkilen yettwafernen neɣ zemren ad sniflen aḍris n wanaw kan inetḍen s yiɣunab yettuɣeblen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
