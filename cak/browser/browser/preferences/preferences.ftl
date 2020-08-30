@@ -1121,6 +1121,7 @@ space-alert-under-5gb-message = { -brand-short-name } tajin majun rupam nikanaj 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only B'anikil
+httpsonly-description = Ri HTTPS nuya' jun jikïl chuqa' ewäl rusik'ixik okem chi kikojol ri { -brand-short-name } chuqa' ri ajk'amaya'l taq ruxaq ye'atz'ët. B'ama konojel ri ajk'amaya'l taq ruxaq yekik'ül ri HTTPS, chuqa' we tzijïl ri HTTPS-Only b'anikil, ri { -brand-short-name } xkeruk'ëx konojel ri taq okem pa HTTPS.
 httpsonly-learn-more = Tetamäx ch'aqa' chik
 httpsonly-radio-enabled =
     .label = Titzij HTTPS-Only B'anikil chi jun taq tzuwäch
