@@ -324,3 +324,19 @@ gnupg-file = GnuPG-bestannen
 msg-compose-details-button-label = Details…
 msg-compose-details-button-access-key = D
 dlg-button-view = &Werjaan
+repeat-suffix-singular = kear.
+repeat-suffix-plural = kear.
+dlg-button-ok = &OK
+dlg-button-close = &Slute
+dlg-button-cancel = &Annulearje
+enig-prompt = OpenPGP-fraach
+enig-confirm = OpenPGP-befêstiging
+enig-alert = OpenPGP-warskôging
+enig-info = OpenPGP-ynformaasje
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Opnij probearje
+dlg-button-skip = Oer&slaan
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-flater
+enig-alert-title =
+    .title = OpenPGP-warskôging
