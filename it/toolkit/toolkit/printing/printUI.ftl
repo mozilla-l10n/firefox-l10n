@@ -75,6 +75,11 @@ printui-cancel-button = Annulla
 
 printui-loading = Preparazione anteprima
 
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Anteprima di stampa
+
 ## Paper sizes that may be supported by the Save to PDF destination:
 
 printui-paper-a5 = A5
