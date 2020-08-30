@@ -47,12 +47,67 @@ onboarding-cards-dismiss =
 onboarding-multistage-welcome-header = Sveiki, čia <span data-l10n-name="zap">„{ -brand-short-name }“</span>
 onboarding-multistage-welcome-subtitle = Sparti, saugi, ir privati naršyklė, kurią palaiko ne pelno siekianti įmonė.
 onboarding-multistage-welcome-primary-button-label = Pradėti sąranką
+onboarding-multistage-welcome-secondary-button-label = Prisijunkite
+onboarding-multistage-welcome-secondary-button-text = Turite paskyrą?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importuokite savo slaptažodžius, <br/>adresyną, ir <span data-l10n-name="zap">daugiau</span>
+onboarding-multistage-import-subtitle = Pereinate iš kitos naršyklės? Labai paprasta viską perkelti į „{ -brand-short-name }“.
+onboarding-multistage-import-primary-button-label = Pradėti importavimą
+onboarding-multistage-import-secondary-button-label = Ne dabar
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Čia išvardintos svetainės buvo rastos šiame įrenginyje. „{ -brand-short-name }“ nesaugo ir nesinchronizuoja duomenų iš kitų naršyklių, nebent juos importuojate.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Pradžia: žingsnis { $current } iš { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Pasirinkite išvaizdą
+onboarding-multistage-theme-subtitle = Individualizuokite „{ -brand-short-name }“ su grafiniu apvalkalu.
+onboarding-multistage-theme-primary-button-label = Įrašyti grafinį apvalkalą
+onboarding-multistage-theme-secondary-button-label = Ne dabar
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatinis
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Naudoti sistemos grafinis apvalkalą
+onboarding-multistage-theme-label-light = Šviesus
+onboarding-multistage-theme-label-dark = Tamsus
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = „Firefox Alpenglow“
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Paveldėti jūsų operacinės sistemos spalvas
+        mygtukams, meniu elementams, ir langams.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Naudoti šviesias spalvas mygtukams,
+        meniu elementams, ir langams.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Naudoti tamsias spalvas mygtukams,
+        meniu elementams, ir langams.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Naudoti įvairiaspalvę išvaizdą mygtukams,
+        meniu elementams, ir langams.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
