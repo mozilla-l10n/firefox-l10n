@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Om fersifere of digitaal ûndertekene berjochten te ferstjoeren, moatte jo in fersiferingstechnology ynstelle, itsij OpenPGP of S/MIME.
+e2e-intro-description-more = Selektearje jo persoanlike kaai om it gebrûk fan OpenPGP mooglik te meitsjen, of jo persoanlike sertifikaat om it gebrûk fan S/MIME mooglik te meitsjen. Foar in persoanlike kaai of sertifikaat besitte jo de byhearrende geheime kaai.
 openpgp-key-user-id-label = Account / Brûkers-ID
 openpgp-keygen-title-label =
     .title = OpenPGP-kaai oanmeitsje
@@ -31,10 +33,12 @@ openpgp-generate-key =
     .tooltiptext = Makket in nije OpenPGP-kaai oan foar fersifering en/of ûndertekening
 openpgp-advanced-prefs-button-label =
     .label = Avansearre…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OPMERKING: it oanmeitsjen fan de kaai kin inkelde minuten duorje.</a> Slút de tapassing net ôf wylst de kaai oanmakke wurdt. Aktyf navigearje of skiifyntensive bewurkingen útfiere wylst it oanmeitsjen fan de kaai sil de ‘samar-wat-pool’ oanfolje en it proses fersnelle. Jo wurde warskôge wannear't it oanmeitsjen fan de kaai ree is.
 openpgp-key-expiry-label =
     .label = Ferrindatum
 openpgp-key-id-label =
     .label = Kaai-ID
+openpgp-cannot-change-expiry = Dit is in kaai mei in komplekse struktuer, it wizigjen fan de ferrindatum wurdt net stipe.
 openpgp-key-man-title =
     .title = OpenPGP-kaaibehearder
 openpgp-key-man-generate =
@@ -151,6 +155,8 @@ openpgp-key-man-empty-tree-tooltip =
     .label = Fier yn it boppesteande fjild syktermen yn
 openpgp-key-man-nothing-found-tooltip =
     .label = Gjin inkelde kaai komt oerien mei jo syktermen
+openpgp-key-man-please-wait-tooltip =
+    .label = In amerijke geduld wylst de kaaien laden wurde…
 
 ## e2e encryption settings
 
