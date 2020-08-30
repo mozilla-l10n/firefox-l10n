@@ -60,6 +60,17 @@ tab-context-close-multiple-tabs =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Dizober serriñ ivinelloù
+            [one] Dizober serriñ ivinelloù
+            [two] Dizober serriñ ivinelloù
+            [few] Dizober serriñ ivinelloù
+            [many] Dizober serriñ ivinelloù
+           *[other] Dizober serriñ ivinelloù
+        }
+    .accesskey = D
 close-tab =
     .label = Serriñ an ivinell
     .accesskey = e
