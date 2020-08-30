@@ -16,3 +16,4 @@ add-engine-ok =
     .label = Amsedday n unadi
     .accesskey = A
 engine-name-exists = Amsedday n unadi s yisem-a yella yakan
+engine-alias-exists = Amsedday n unadi s wazun-a yella yakan
