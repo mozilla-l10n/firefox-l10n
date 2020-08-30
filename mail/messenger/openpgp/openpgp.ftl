@@ -210,12 +210,76 @@ key-accept-personal =
     Foar dizze kaai hawwe jo sawol it iepenbiere as it geheime diel. Jo meie him brûke as in persoanlike kaai.
     As dizze kaai troch in oar oan jo jûn is, brûk him dan net as persoanlike kaai.
 key-personal-warning = Hawwe jo dizze kaai sels oanmakke en it ferwiist it toande kaaieigendom nei josels?
+openpgp-personal-no-label =
+    .label = Nee, net as myn persoanlike kaai brûke.
+openpgp-personal-yes-label =
+    .label = Ja, dizze kaai as in persoanlike kaai behannelje.
+openpgp-copy-cmd-label =
+    .label = Kopiearje
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird hat gjin persoanlike OpenPGP-kaai foar <b>{ $identity }</b>
+        [one] Thunderbird hat { $count } persoanlike OpenPGP-kaai fûn dy't keppele is oan <b>{ $identity }</b>
+       *[other] Thunderbird hat { $count } persoanlike OpenPGP-kaaien fûn dy't keppele binne oan <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Selektearje in jildige kaai om it OpenPGP-protokol yn te skeakeljen.
+        [one] Jo aktuele konfiguraasje brûkt kaai-ID <b>{ $key }</b>
+       *[other] Jo aktuele konfiguraasje brûkt kaai-ID <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Jo aktuele konfiguraasje brûkt de kaai <b>{ $key }</b>, dy't ferfallen is.
+openpgp-add-key-button =
+    .label = Kaai tafoegje…
+    .accesskey = f
+e2e-learn-more = Mear ynfo
+openpgp-keygen-success = OpenPGP-kaai mei sukses oanmakke!
+openpgp-keygen-import-success = OpenPGP-kaaien mei sukses ymportearre!
+openpgp-keygen-external-success = Eksterne GnuPG-kaai-ID bewarre!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Gjin
+openpgp-radio-none-desc = Brûk OpenPGP net foar dizze identiteit.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Ferrint op: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Kaai ferrint oer minder as 6 moannen
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Ferrûn op: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Kaai ferrûn
+openpgp-key-expand-section =
+    .tooltiptext = Mear ynformaasje
+openpgp-key-revoke-title = Kaai ynlûke
+openpgp-key-edit-title = OpenPGP-kaai wizigje
+openpgp-key-edit-date-title = Ferrindatum ferlingje
+openpgp-manager-description = Brûk de OpenPGP-kaaibehearder om iepenbiere kaaien fan jo korrespondinten en alle oare net hjirboppe neamde kaaien te besjen en te behearen .
+openpgp-manager-button =
+    .label = OpenPGP-kaaibehearder
+    .accesskey = P
+openpgp-key-remove-external =
+    .label = Eksterne kaai-ID fuortsmite
+    .accesskey = E
+key-external-label = Eksterne GnuPG-kaai
+# Strings in keyDetailsDlg.xhtml
+key-type-public = iepenbiere kaai
+key-type-primary = haadkaai
+key-type-subkey = subkaai
+key-type-pair = kaaipear (geheime kaai en iepenbiere kaai)
+key-expiry-never = nea
+key-usage-encrypt = Fersiferje
+key-usage-sign = Undertekenje
+key-usage-certify = Sertifisearje
 
 ## Account settings export output
 
