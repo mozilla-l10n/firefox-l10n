@@ -571,6 +571,9 @@ search-restore-default =
 search-remove-engine =
     .label = Αφαίρεση
     .accesskey = Α
+search-add-engine =
+    .label = Προσθήκη
+    .accesskey = A
 search-find-more-link = Εύρεση περισσότερων μηχανών αναζήτησης
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
