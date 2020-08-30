@@ -280,6 +280,47 @@ key-expiry-never = nea
 key-usage-encrypt = Fersiferje
 key-usage-sign = Undertekenje
 key-usage-certify = Sertifisearje
+key-usage-authentication = Autentikaasje
+key-does-not-expire = De kaai ferrint net
+key-expired-date = De kaai is ferrûn op { $keyExpiry }
+key-expired-simple = De kaai is ferrûn
+key-revoked-simple = De kaai is ynlutsen
+key-do-you-accept = Akseptearje jo dizze kaai foar it ferifiearjen fan digitale hantekeningen en foar it fersiferjen fan berjochten?
+key-accept-warning = Akseptearje gjin frauduleuze kaai. Brûk in oar kommunikaasjekanaal as e-mail om de fingerôfdruk fan de kaai fan jo korrespondint te ferifiearjen.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Kin it berjocht net ferstjoere, omdat der in probleem is mei jo persoanlike kaai. { $problem }
+cannot-encrypt-because-missing = Kin dit berjocht net ferstjoere mei end-to-end-fersifering, omdat der problemen binne mei de kaaien fan de folgjende ûntfangers: { $problem }
+window-locked = It opstelfinster is beskoattele; ferstjoeren annulearre
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Fersifere berjochtdiel
+mime-decrypt-encrypted-part-concealed-data = Dit is in fersifere berjochtdiel. Jo moatte it yn in apart finster iepenje troch op de bylage te klikken.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Ofbrutsen
+keyserver-error-unknown = Der is in ûnbekende flater bard
+keyserver-error-server-error = De kaaiserver hat in flater meld.
+keyserver-error-import-error = Kin de downloade kaai net ymportearje.
+keyserver-error-unavailable = De kaaiserver is net beskikber.
+keyserver-error-security-error = De kaaiserver stipet gjin fersifere tagong.
+keyserver-error-certificate-error = It sertifikaat fan de kaaiserver is net jildich.
+keyserver-error-unsupported = De kaaiserver wurdt net stipe.
 
 ## Account settings export output
 
+# Strings used in trust.jsm
+key-valid-unknown = ûnbekend
+key-valid-invalid = ûnjildich
+key-valid-disabled = útskeakele
+key-valid-revoked = ynlutsen
+key-valid-expired = ferrûn
+key-trust-untrusted = net betrouber
+key-trust-marginal = net folle
+key-trust-full = fertroud
+key-trust-ultimate = maksimaal
+key-trust-group = (groep)
+# Strings used in commonWorkflows.js
+import-key-file = OpenPGP-kaaibestân ymportearje
+import-rev-file = OpenPGP-ynlûkingsbestân ymportearje
+gnupg-file = GnuPG-bestannen
+msg-compose-details-button-label = Details…
+msg-compose-details-button-access-key = D
+dlg-button-view = &Werjaan
