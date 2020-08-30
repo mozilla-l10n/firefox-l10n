@@ -5,8 +5,14 @@
 add-engine-window =
     .title = Rnu amsedday n unadi
     .style = width: 32em;
+add-engine-button = Rnu amsedday n unadi udmawan
 add-engine-name = Isem n umsedday n unadi
 add-engine-alias = Tabzimt
+add-engine-url = URL n umsedday n unadi, seqdec %s deg wadeg n wawal n unadi
 add-engine-cancel =
     .label = Sefsex
     .accesskey = f
+add-engine-ok =
+    .label = Amsedday n unadi
+    .accesskey = A
+engine-name-exists = Amsedday n unadi s yisem-a yella yakan
