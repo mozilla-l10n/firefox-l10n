@@ -203,3 +203,4 @@ return-to-amo-sub-header = Puiku, jūs turite „{ -brand-short-name }“
 return-to-amo-addon-header = Dabar įdiekime jums <icon></icon><b>„{ $addon-name }“</b>.
 return-to-amo-extension-button = Įtraukti priedą
 return-to-amo-get-started-button = Pradėkite su „{ -brand-short-name }“
+
