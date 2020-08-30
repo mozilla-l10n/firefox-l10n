@@ -94,19 +94,19 @@ onboarding-multistage-theme-tooltip-automatic =
 onboarding-multistage-theme-tooltip-light =
     .title =
         버튼, 메뉴 및 창에
-        밝은 모양을 사용.
+        밝은 화면 배색을 사용.
     .aria-label = { onboarding-multistage-theme-tooltip-light.title }
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark =
     .title =
         버튼, 메뉴 및 창에
-        어두운 모양을 사용.
+        어두운 화면 배색을 사용.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow =
     .title =
         버튼, 메뉴 및 창에
-        색상형 모양을 사용.
+        색상형 화면 배색을 사용.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
