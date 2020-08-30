@@ -53,9 +53,13 @@ move-to-end =
 move-to-new-window =
     .label = Dilec'hiañ en ur prenestr nevez
     .accesskey = D
+tab-context-close-multiple-tabs =
+    .label = Serriñ meur a ivinell
+    .accesskey = S
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = Serriñ an ivinell
     .accesskey = e
