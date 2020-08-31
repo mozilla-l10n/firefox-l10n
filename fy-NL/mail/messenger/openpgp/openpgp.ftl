@@ -408,6 +408,11 @@ key-ring-pub-key-expired = De kaai { $userId } (sleutel-ID { $keyId }) is ferfal
 key-ring-key-disabled = De kaai { $userId } (sleutel-ID { $keyId }) is útskeakele; hy kin net brûkt wurde.
 key-ring-key-invalid = De kaai { $userId } (sleutel-ID { $keyId }) is net jildich. Oerwaach dizze korrekt te ferifiearjen.
 key-ring-key-not-trusted = De kaai { $userId } (sleutel-ID { $keyId }) wurdt net genôch fertroud. Stel it fertrouwensnivo fan jo kaai yn op ‘maksimaal’ om dizze te brûken foar ûndertekening.
+key-ring-no-secret-key = It liket oft jo de geheime kaai foar { $userId } (key ID { $keyId }) net oan jo kaaihinger hawwe; jo kinne de kaai net brûke om te ûndertekenjen.
+key-ring-pub-key-not-for-signing = De kaai { $userId } (kaai-ID { $keyId }) kin net brûkt wurde foar ûndertekening.
+key-ring-pub-key-not-for-encryption = De kaai { $userId } (kaai-ID { $keyId }) kin net brûkt wurde foar fersifering.
+key-ring-sign-sub-keys-revoked = Alle ûndertekeningssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ynlutsen.
+key-ring-sign-sub-keys-expired = Alle ûndertekeningssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ferfallen.
 # Strings used in trust.jsm
 key-valid-unknown = ûnbekend
 key-valid-invalid = ûnjildich
