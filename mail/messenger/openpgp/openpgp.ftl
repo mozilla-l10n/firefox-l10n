@@ -413,6 +413,15 @@ key-ring-pub-key-not-for-signing = De kaai { $userId } (kaai-ID { $keyId }) kin 
 key-ring-pub-key-not-for-encryption = De kaai { $userId } (kaai-ID { $keyId }) kin net brûkt wurde foar fersifering.
 key-ring-sign-sub-keys-revoked = Alle ûndertekeningssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ynlutsen.
 key-ring-sign-sub-keys-expired = Alle ûndertekeningssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ferfallen.
+key-ring-sign-sub-keys-unusable = Alle ûndertekeningssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ynlutsen, ferfallen of op in oare manier net brûkber.
+key-ring-enc-sub-keys-revoked = Alle fersiferingssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ynlutsen.
+key-ring-enc-sub-keys-expired = Alle fersiferingssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ferfallen.
+key-ring-enc-sub-keys-unusable = Alle fersiferingssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ynlutsen, ferfallen of op in oare manier net brûkber.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Brûkerskenmerk (JPEG-ôfbylding)
+# Strings in key.jsm
+already-revoked = Dizze kaai is al ynlutsen.
 # Strings used in trust.jsm
 key-valid-unknown = ûnbekend
 key-valid-invalid = ûnjildich
