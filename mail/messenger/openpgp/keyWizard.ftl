@@ -76,7 +76,7 @@ openpgp-keygen-error-revocation = De OpenPGP-sleutel is met succes aangemaakt, m
 openpgp-keygen-abort-title = Aanmaken sleutel afbreken?
 openpgp-keygen-abort = Er wordt momenteel een OpenPGP-sleutel aangemaakt, weet u zeker dat u dit wilt annuleren?
 #   $identity (String) - the name and email address of the currently selected identity
-openpgp-key-confirm = Openbare en geheime sleutel voor { $identity } aanmaken?
+openpgp-key-confirm = Publieke en geheime sleutel voor { $identity } aanmaken?
 
 ## Import Key section
 
@@ -119,7 +119,7 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = Externe GnuPG-sleutel
 openpgp-external-key-description = Configureer een externe GnuPG-sleutel door de sleutel-ID in te voeren
-openpgp-external-key-info = Daarnaast moet u Sleutelbeheerder gebruiken om de bijbehorende openbare sleutel te importeren en te accepteren.
+openpgp-external-key-info = Daarnaast moet u Sleutelbeheerder gebruiken om de bijbehorende publieke sleutel te importeren en te accepteren.
 openpgp-external-key-warning = <b>U mag slechts een externe GnuPG-sleutel configureren.</b> Uw vorige ingave wordt vervangen.
 openpgp-save-external-button = Sleutel-ID opslaan
 openpgp-external-key-label = Geheime sleutel-ID:
