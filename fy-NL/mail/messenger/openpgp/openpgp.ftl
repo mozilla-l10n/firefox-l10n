@@ -342,6 +342,23 @@ filter-decrypt-move-warn-experimental =
 filter-term-pgpencrypted-label = OpenPGP-fersifere
 filter-key-required = Jo moatte in ûntfangerskaai selektearje.
 filter-key-not-found = Kin gjin fersiferingssin fine foar ‘{ $desc }’.
+filter-warn-key-not-secret =
+    Warskôging – de filteraksje ‘Fersiferje nei kaai’ ferfangt de ûntfangers.
+    As jo de geheime kaai foar ‘{ $desc }’ net hawwe, kinne jo de e-mailberjochten net mear lêze.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Permanint ûntsiferje (OpenPGP)
+filter-decrypt-copy-label = Untsifere kopy meitsje (OpenPGP)
+filter-encrypt-label = Fersiferje nei kaai (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Sukses! Kaaien ymportearre
+import-info-bits = Bits
+import-info-created = Oanmakke
+import-info-fpr = Fingerôfdruk
+import-info-details = Details besjen en kaaiakseptaasje beheare
+import-info-no-keys = Gjin kaaien ymportearre.
+# Strings in enigmailKeyManager.js
+import-from-clip = Wolle jo ien of inkelde kaai(en) fan it klamboerd ymportearje?
 
 ## Account settings export output
 
