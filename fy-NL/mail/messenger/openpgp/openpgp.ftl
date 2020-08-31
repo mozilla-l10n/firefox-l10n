@@ -359,6 +359,33 @@ import-info-details = Details besjen en kaaiakseptaasje beheare
 import-info-no-keys = Gjin kaaien ymportearre.
 # Strings in enigmailKeyManager.js
 import-from-clip = Wolle jo ien of inkelde kaai(en) fan it klamboerd ymportearje?
+import-from-url = Iepenbiere kaai fan dizze URL downloade:
+copy-to-clipbrd-failed = Kin de selektearre kaai(en) net nei it klamboerd kopiearje.
+copy-to-clipbrd-ok = Kaai(en) nei klamboerd kopiearre
+delete-secret-key =
+    WARSKÔGING: Jo stean op it punt in geheime kaai fuort te smiten!
+    
+    As jo jo geheime kaai fuortsmite, kinne jo gjin berjochten mear ûntsiferje dy't foar dy kaai fersifere binne, en kinne jo dizze ek net ynlûke.
+    
+    Wolle jo echt SAWOL de geheime kaai AS de iepenbiere kaai ‘{ $userId }’
+    fuortsmite?
+delete-mix =
+    WARSKÔGING: Jo stean op it punt in geheime kaaien fuort te smiten!
+    As jo jo geheime kaai fuortsmite, kinne jo gjin berjochten mear ûntsiferje dy't foar dy kaai fersifere binne
+    Wolle jo echt SAWOL de selektearre geheime kaai AS de iepenbiere kaaien fuortsmite?
+delete-pub-key =
+    Wolle jo de iepenbiere kaai ‘{ $userId }’
+    fuortsmite?
+delete-selected-pub-key = Wolle jo de iepenbiere kaaien fuortsmite?
+refresh-all-question = Jo hawwe gjin inkelde kaai selektearre. Wolle jo ALLE kaaien fernije?
+key-man-button-export-sec-key = &Geheime kaaien eksportearje
+key-man-button-export-pub-key = Allinnich &iepenbiere kaaien eksportearje
+key-man-button-refresh-all = Alle kaaien &fernije
+key-man-loading-keys = Kaaien wurde laden, in amerijke…
+ascii-armor-file = ASCII-armored-bestannen (*.asc)
+no-key-selected = Jo moatte op syn minst ien kaai selektearje om de selektearre bewurking út te fieren
+export-to-file = Iepenbiere kaai nei bestân eksportearje
+export-keypair-to-file = Geheime en iepenbiere kaai nei bestân eksportearje
 
 ## Account settings export output
 
