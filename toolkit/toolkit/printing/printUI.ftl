@@ -35,6 +35,7 @@ printui-destination-label = Mål
 printui-destination-pdf-label = Lagre til PDF
 printui-more-settings = Fleire innstillingar
 printui-less-settings = Færre innstillingar
+printui-paper-size-label = Papirstørrelse
 # Section title (noun) for the print scaling options
 printui-scale = Skalering
 printui-scale-fit-to-page = Tilpass til side
@@ -80,3 +81,4 @@ printui-error-invalid-scale = Skaleringa må vere eit tal mellom 10 og 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Området må vere eit tal mellom 1 og { $numPages }.
+printui-error-invalid-start-overflow = «Frå»-sidetalet må vere mindre enn «til»-sidetalet
