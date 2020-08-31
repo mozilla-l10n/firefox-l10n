@@ -64,6 +64,9 @@ onboarding-import-sites-disclaimer = Čia išvardintos svetainės buvo rastos š
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Pradžia: žingsnis { $current } iš { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Pasirinkite <span data-l10n-name="zap">išvaizdą</span>
 onboarding-multistage-theme-subtitle = Individualizuokite „{ -brand-short-name }“ su grafiniu apvalkalu.
 onboarding-multistage-theme-primary-button-label = Įrašyti grafinį apvalkalą
 onboarding-multistage-theme-secondary-button-label = Ne dabar
@@ -203,4 +206,3 @@ return-to-amo-sub-header = Puiku, jūs turite „{ -brand-short-name }“
 return-to-amo-addon-header = Dabar įdiekime jums <icon></icon><b>„{ $addon-name }“</b>.
 return-to-amo-extension-button = Įtraukti priedą
 return-to-amo-get-started-button = Pradėkite su „{ -brand-short-name }“
-
