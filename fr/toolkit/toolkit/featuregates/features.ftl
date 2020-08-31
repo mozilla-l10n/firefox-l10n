@@ -47,9 +47,14 @@ experimental-features-web-api-beforeinput-description = L’évènement global <
 experimental-features-css-constructable-stylesheets =
     .label = CSS : Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = L’ajout d’un constructeur à l’interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> ainsi qu’un ensemble de modifications connexes permettent de créer directement de nouvelles feuilles de style sans avoir à ajouter celles-ci au HTML. Cela facilite beaucoup la création de feuilles de style réutilisables à utiliser avec le <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Voir le <a data-l10n-name="bugzilla">bug 1520690</a> pour plus de détails.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = API web : API Media Session
 experimental-features-media-session-api-description = L’implémentation complète de l’API Media Session dans { -brand-short-name } est actuellement expérimentale. Cette API est utilisée pour personnaliser la gestion des notifications liées aux médias, pour gérer les évènements et les données servant à présenter une interface utilisateur pour la gestion de la lecture multimédia et pour obtenir les métadonnées des fichiers multimédias. Voir le <a data-l10n-name="bugzilla">bug 1112032</a> pour plus de détails.
 experimental-features-devtools-color-scheme-simulation =
     .label = Outils de développement : simulation de jeux de couleurs
+experimental-features-devtools-color-scheme-simulation-description = Ajoute une option pour simuler différents schémas de couleurs vous permettant de tester les requêtes média <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. L’utilisation de cette requête permet à votre feuille de style de répondre aux préférences utilisateur d’une interface claire ou sombre. Cette fonctionnalité vous permet de tester votre code sans avoir à modifier les paramètres de votre navigateur (ou du système d’exploitation, si le navigateur gère ce paramètre à l’échelle du système). Voir les <a data-l10n-name="bugzilla1">bug 1550804</a> et <a data-l10n-name="bugzilla2">bug 1137699</a> pour plus de détails.
 experimental-features-devtools-execution-context-selector =
     .label = Outils de développement : sélecteur de contexte d’exécution
 experimental-features-devtools-compatibility-panel =
@@ -70,6 +75,18 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Cache pour le contenu initial de la page about:home qui est chargée par défaut au démarrage. Le but de ce cache est d’améliorer les performances de démarrage.
 experimental-features-print-preview-tab-modal =
     .label = Refonte de l’aperçu avant impression
+experimental-features-print-preview-tab-modal-description = Active un aperçu avant impression repensé et le rend disponible sur macOS. Cela entraîne potentiellement des dysfonctionnements et n’inclut pas tous les paramètres liés à l’impression. Pour accéder à tous les paramètres liés à l’impression, sélectionnez « Imprimer à l’aide de la boîte de dialogue système… » dans le panneau Imprimer.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies : Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Traite les cookies du même domaine mais avec des schémas différents (par exemple http://example.com et https://example.com) comme venant de sites différents au lieu d’un même site. Améliore la sécurité, mais casse potentiellement des choses.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Outils de développement : débogage de Service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Active la prise en charge expérimentale des Service workers dans le panneau Débogueur. Cette fonctionnalité peut ralentir les outils de développement et augmenter la consommation de mémoire.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Affichage : zoom fluide par pincement
+experimental-features-graphics-desktop-zooming-description = Active la prise en charge d’un zoom fluide par pincement sur les écrans tactiles et les pavés tactiles de précision.
