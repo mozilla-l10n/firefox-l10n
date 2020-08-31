@@ -303,6 +303,25 @@ keyserver-error-unavailable = De kaaiserver is net beskikber.
 keyserver-error-security-error = De kaaiserver stipet gjin fersifere tagong.
 keyserver-error-certificate-error = It sertifikaat fan de kaaiserver is net jildich.
 keyserver-error-unsupported = De kaaiserver wurdt net stipe.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Jo e-mailprovider hat jo fersyk om jo iepenbiere kaai op te laden nei de OpenPGP Web Key Directory ferwurke.
+    Stjoer in befêstiging om de publikaasje fan jo iepenbiere kaai te foltôgjen.
+wkd-message-body-process =
+    Dit is in e-mailberjocht foar de automatyske ferwurking om jo iepenbiere kaai op te laden nei de OpenPGP Web Key Directory.
+    Jo hoege op dit stuit gjin hânmjittige aksje te ûndernimmen.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Kin berjocht mei ûnderwerp { $subject }
+    net ûntsiferje.
+    Wolle jo it opnij probearje mei in oare wachtwurdsin of wolle jo it berjocht oerslaan?
+# Strings in gpg.jsm
+unknown-signing-alg = Unbekend ûndertekeningsalgoritme (ID: { $id })
+unknown-hash-alg = Unbekende kryptografyske hash (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Jo kaai { $desc } ferfalt oer minder as { $days } dagen.
+    Wy riede jo oan in nij kaaipear te meitsjen en de byhearrende accounts foar gebrûk derfan te konfigurearjen.
 
 ## Account settings export output
 
