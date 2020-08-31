@@ -322,6 +322,26 @@ unknown-hash-alg = Unbekende kryptografyske hash (ID: { $id })
 expiry-key-expires-soon =
     Jo kaai { $desc } ferfalt oer minder as { $days } dagen.
     Wy riede jo oan in nij kaaipear te meitsjen en de byhearrende accounts foar gebrûk derfan te konfigurearjen.
+expiry-keys-expire-soon =
+    Jo folgjende kaaien ferfalle oer minder as { $days } dagen: { $desc }.
+    Wy riede jo oan nije kaaien te meitsjen en de byhearrende accounts foar gebrûk derfan te konfigurearjen.
+expiry-key-missing-owner-trust =
+    Jo geheime kaai { $desc } is net fertroud.
+    Wy riede jo oan ‘Jo fertrouwe op sertifisearringen’ yn de kaaieigenskippen yn te stellen op ‘maksimaal’.
+expiry-keys-missing-owner-trust =
+    It folgjende fan jo geheime kaaien binne net fertroud
+    { $desc }.
+    Wy riede jo oan ‘Jo fertrouwe op sertifisearringen’ yn de kaaieigenskippen yn te stellen op ‘maksimaal’.
+expiry-open-key-manager = OpenPGP-kaaibehearder iepenje
+expiry-open-key-properties = Kaaieigenskippen iepenje
+# Strings filters.jsm
+filter-folder-required = Jo moatte in doelmap selektearje.
+filter-decrypt-move-warn-experimental =
+    Warskôging – de filteraksje ‘Permanint ûntsiferje’ kin liede ta ferneatigjende berjochten.
+    Wy riede jo bot oan om earst it filter ‘Untsifere kopy meitsje’ te probearjen, it resultaat soarchfuldich te testen en dit filter pas te brûken as jo tefreden binne mei it resultaat.
+filter-term-pgpencrypted-label = OpenPGP-fersifere
+filter-key-required = Jo moatte in ûntfangerskaai selektearje.
+filter-key-not-found = Kin gjin fersiferingssin fine foar ‘{ $desc }’.
 
 ## Account settings export output
 
