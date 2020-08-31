@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>Bruk { -brand-short-name } som standard nettleser?</strong> Få rask, sikker og privat surfing når du bruker nettet.
+default-browser-notification-message = <strong>Bruke { -brand-short-name } som standard nettleser?</strong> Få rask, sikker og privat surfing når du bruker nettet.
 default-browser-notification-button =
     .label = Bruk som standard
     .accesskey = B
