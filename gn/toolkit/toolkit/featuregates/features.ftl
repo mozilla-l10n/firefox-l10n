@@ -69,6 +69,7 @@ experimental-features-print-preview-tab-modal =
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Kookie: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Eipuru umi kookie tendatee pegua, hákatu hetaichaguápe (techapyrã, http://example.com ha https://example.com) tenda ojuasávaramo tenda ojueheguávaramo. Emohekorosãve, hákatu ikatu ominge mbyaikuaaha.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Mboguatahára rembipuru: Service Worker mopotĩha
