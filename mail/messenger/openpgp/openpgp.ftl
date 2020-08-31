@@ -384,22 +384,22 @@ key-man-button-refresh-all = Alle sleutels &vernieuwen
 key-man-loading-keys = Sleutels worden geladen, een moment geduld…
 ascii-armor-file = ASCII-armored-bestanden (*.asc)
 no-key-selected = U dient minstens een sleutel selecteren om de geselecteerde bewerking uit te voeren
-export-to-file = Openbare sleutel naar bestand exporteren
-export-keypair-to-file = Geheime en openbare sleutel naar bestand exporteren
+export-to-file = Publieke sleutel naar bestand exporteren
+export-keypair-to-file = Geheime en publieke sleutel naar bestand exporteren
 export-secret-key = Wilt u de geheime sleutel opnemen in het opgeslagen OpenPGP-sleutelbestand?
 save-keys-ok = De sleutels zijn met succes opgeslagen
 save-keys-failed = Het opslaan van de sleutels is mislukt
 default-pub-key-filename = Export-van-publieke-sleutels
 default-pub-sec-key-filename = Reservekopie-van-geheime-sleutels
 refresh-key-warn = Waarschuwing: afhankelijk van het aantal sleutels en de verbindingssnelheid kan het vernieuwen van alle sleutels een behoorlijk langdurig proces zijn!
-preview-failed = Kan bestand met openbare sleutel niet lezen.
+preview-failed = Kan bestand met publieke sleutel niet lezen.
 general-error = Fout: { $reason }
 dlg-button-delete = &Verwijderen
 
 ## Account settings export output
 
-openpgp-export-public-success = <b>Openbare sleutel met succes geëxporteerd!</b>
-openpgp-export-public-fail = <b>Kan de geselecteerde openbare sleutel niet exporteren!</b>
+openpgp-export-public-success = <b>Publieke sleutel met succes geëxporteerd!</b>
+openpgp-export-public-fail = <b>Kan de geselecteerde publieke sleutel niet exporteren!</b>
 openpgp-export-secret-success = <b>Geheime sleutel met succes geëxporteerd!</b>
 openpgp-export-secret-fail = <b>Kan de geselecteerde geheime sleutel niet exporteren!</b>
 # Strings in keyObj.jsm
@@ -438,7 +438,7 @@ openpgp-key-revoke-success = Sleutel met succes ingetrokken.
 after-revoke-info =
     De sleutel is ingetrokken.
     Deel deze publieke sleutel opnieuw door deze per e-mail te verzenden of door deze naar sleutelservers te uploaden, zodat anderen weten dat u uw sleutel hebt ingetrokken.
-    Zodra de software die door andere mensen wordt gebruikt over de intrekking wordt geïnformeerd zal deze uw oude sleutel niet meer gebruiken.
+    Zodra de software die door andere mensen wordt gebruikt over de intrekking wordt geïnformeerd, zal deze uw oude sleutel niet meer gebruiken.
     Als u een nieuwe sleutel gebruikt voor hetzelfde e-mailadres en u voegt de nieuwe publieke sleutel toe aan e-mailberichten die u verzendt, dan wordt automatisch informatie over uw ingetrokken oude sleutel toegevoegd.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importeren
@@ -460,7 +460,7 @@ no-key-found = We kunnen geen sleutel vinden die overeenkomt met de opgegeven zo
 fail-key-extract = Fout – sleutelextractieopdracht mislukt
 # Strings used in keyRing.jsm
 fail-cancel = Fout – sleutelontvangst geannuleerd door gebruiker
-not-first-block = Fout – eerste OpenPGP-blok is geen openbare sleutelblok
+not-first-block = Fout – eerste OpenPGP-blok is geen publiek sleutelblok
 fail-key-import = Fout – importeren van sleutel mislukt
 file-write-failed = Kan niet naar bestand { $output } schrijven
 no-pgp-block = Fout – geen geldig armored OpenPGP-gegevensblok gevonden
@@ -485,13 +485,13 @@ passphrase-prompt = Voer de wachtwoordzin in waarmee de volgende sleutel wordt o
 file-to-big-to-import = Dit bestand is te groot. Importeer geen grote set sleutels tegelijk.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Intrekkingscertificaat maken en opslaan
-revoke-cert-ok = Het intrekkingscertificaat is met succes gemaakt. U kunt het gebruiken om uw openbare sleutel ongeldig te maken, b.v. voor het geval u uw geheime sleutel zou verliezen.
+revoke-cert-ok = Het intrekkingscertificaat is met succes gemaakt. U kunt het gebruiken om uw publieke sleutel ongeldig te maken, b.v. voor het geval u uw geheime sleutel zou verliezen.
 revoke-cert-failed = Het intrekkingscertificaat kan niet worden gemaakt.
 gen-going = Sleutel wordt al aangemaakt!
 keygen-missing-user-name = Er is geen naam opgegeven voor de geselecteerde account/identiteit. Voer in de accountinstellingen een waarde in het veld ‘Uw naam’ in.
 expiry-too-short = Uw sleutel moet ten minste een dag geldig zijn.
 expiry-too-long = U kunt geen sleutel maken die over meer dan 100 jaar vervalt.
-key-confirm = Openbare en geheime sleutel voor ‘{ $id }’ aanmaken?
+key-confirm = Publieke en geheime sleutel voor ‘{ $id }’ aanmaken?
 key-man-button-generate-key = Sleutel &aanmaken
 key-abort = Sleutelaanmaak afbreken?
 key-man-button-generate-key-abort = Sleutelaanmaak &afbreken
@@ -550,7 +550,7 @@ do-import-multiple =
     De volgende sleutels importeren?
     { $key }
 do-import-one = { $name } ({ $id }) importeren?
-cant-import = Fout bij importeren openbare sleutel
+cant-import = Fout bij importeren publieke sleutel
 unverified-reply = Het ingesprongen berichtgedeelte (antwoord) is waarschijnlijk gewijzigd
 key-in-message-body = Er is een sleutel gevonden in de berichttekst. Klik op ‘Sleutel importeren’ om de sleutel te importeren
 sig-mismatch = Fout – handtekening komt niet overeen
