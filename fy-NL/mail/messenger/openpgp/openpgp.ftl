@@ -386,9 +386,28 @@ ascii-armor-file = ASCII-armored-bestannen (*.asc)
 no-key-selected = Jo moatte op syn minst ien kaai selektearje om de selektearre bewurking út te fieren
 export-to-file = Iepenbiere kaai nei bestân eksportearje
 export-keypair-to-file = Geheime en iepenbiere kaai nei bestân eksportearje
+export-secret-key = Wolle jo de geheime kaai opnimme yn it bewarre OpenPGP-kaaibestân?
+save-keys-ok = De kaaien binne mei sukses bewarre
+save-keys-failed = It bewarjen fan de kaaien is mislearre
+default-pub-key-filename = Eksport-fan-iepenbiere-kaaien
+default-pub-sec-key-filename = Reservekopy-fan-geheime-kaaien
+refresh-key-warn = Warskôging: ôfhinklik fan it oantal kaaien en de ferbiningssnelheid kin it fernijen fan alle kaaien in behoarlik langduorjend proses wêze!
+preview-failed = Kin bestân mei iepenbiere kaai net lêze.
+general-error = Flater: { $reason }
+dlg-button-delete = &Fuortsmite
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Publike kaai mei sukses eksportearre!</b>
+openpgp-export-public-fail = <b>Kin de selektearre iepenbiere kaai net eksportearje!</b>
+openpgp-export-secret-success = <b>Geheime kaai mei sukses eksportearre!</b>
+openpgp-export-secret-fail = <b>Kin de selektearre geheime kaai net eksportearje!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = De kaai { $userId } (sleutel-ID { $keyId }) is ynlutsen.
+key-ring-pub-key-expired = De kaai { $userId } (sleutel-ID { $keyId }) is ferfallen.
+key-ring-key-disabled = De kaai { $userId } (sleutel-ID { $keyId }) is útskeakele; hy kin net brûkt wurde.
+key-ring-key-invalid = De kaai { $userId } (sleutel-ID { $keyId }) is net jildich. Oerwaach dizze korrekt te ferifiearjen.
+key-ring-key-not-trusted = De kaai { $userId } (sleutel-ID { $keyId }) wurdt net genôch fertroud. Stel it fertrouwensnivo fan jo kaai yn op ‘maksimaal’ om dizze te brûken foar ûndertekening.
 # Strings used in trust.jsm
 key-valid-unknown = ûnbekend
 key-valid-invalid = ûnjildich
