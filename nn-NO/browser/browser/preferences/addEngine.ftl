@@ -16,3 +16,4 @@ add-engine-ok =
     .label = Legg til søkjemotor
     .accesskey = L
 engine-name-exists = Ein søkjemotor med det namnet finst allereie
+engine-alias-exists = Ein søkjemotor med det aliaset finst allereie
