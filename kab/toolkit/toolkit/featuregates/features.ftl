@@ -76,6 +76,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Tuffirt i ugbur amezwaru ɣef:isemli agejdan i d-yulin s wudem amewer deg usenker. Iswi seg tuffra-a  d asnerni n temlellit n usenker.
 experimental-features-print-preview-tab-modal =
     .label = Allus n ufeṣṣel send asiggez
+experimental-features-print-preview-tab-modal-description = Yeskanay taskant s wallus n ufeṣṣel send asiggez, yerna yettarra taskant send asiggez tella ɣef macOS. Yezmer waya ad d-yeglu s truẓi yernu ur ttilin ara akk deg-s yiɣewwaren icudden ɣer usiggez. I unekcum ɣer meṛṛa iɣewwaren i icudden ɣer usiggez, fren "Siggez s useqdec n tbewwaḍt n udiwenni n unagraw..." si sdaxel n ugalis n usiggez.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
