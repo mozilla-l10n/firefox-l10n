@@ -17,6 +17,12 @@ autocomplete-import-logins-info =
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Kter inekcam-ik·im seg Google Chrome</div>
+    <div data-l10n-name="line2">i { $host } d yismal</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Kter inekcam-ik·im seg Chromium</div>
+    <div data-l10n-name="line2">i { $host } d yismal</div>
 autocomplete-import-logins-chromium-edge =
     <div data-l10n-name="line1">Kter inekcam-ik·im seg Microsoft Edge</div>
     <div data-l10n-name="line2">i { $host } d yismal-nniḍen</div>
