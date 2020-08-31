@@ -209,6 +209,8 @@ search-one-offs-bookmarks =
     .tooltiptext = Sinedoù ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Ivinelloù ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Roll istor ({ $restrict })
 
 ## Bookmark Panel
 
@@ -320,6 +322,38 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Bizskrivit un termen da glask pe ur chomlec'h
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Klask er web
+    .aria-label = Klask gant { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Enankit gerioù da glask
+    .aria-label = Klask { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Enankit gerioù da glask
+    .aria-label = Klask er sinedoù
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Enankit gerioù da glask
+    .aria-label = Klask er roll istor
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Enankit gerioù da glask
+    .aria-label = Klask en ivinelloù
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Klaskit gant: { $name } pe enankit ur chomlec'h
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Reoliet a-bell eo ar merdeer
 urlbar-permissions-granted =
