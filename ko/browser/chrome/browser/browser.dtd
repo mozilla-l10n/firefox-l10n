@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "전체 화면">
 
-
 <!ENTITY pictureInPictureHideToggle.label "화면 속 화면 토글 숨기기">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; 설정">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "&brandProductName;에 로그인">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; 켜기">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 서비스">
@@ -222,14 +220,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "확대/축소">
 
 <!ENTITY sidebarCloseButton.tooltip     "탐색창 닫기">
@@ -255,7 +245,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "사전 추가…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "브라우저 탭">
@@ -271,7 +260,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "안전한 탐색!">
 <!ENTITY panicButton.thankyou.buttonlabel         "감사합니다!">
 
-<!ENTITY updateAvailable.panelUI.label "&brandShorterName; 업데이트 내려받기">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; 업데이트 다운로드">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; 의 새 복사본 다운로드">
 <!ENTITY updateUnsupported.panelUI.label "추가 업데이트를 수행할 수 없습니다">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; 업데이트를 위해 다시 시작">
