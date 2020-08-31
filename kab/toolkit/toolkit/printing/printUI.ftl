@@ -39,6 +39,7 @@ printui-paper-size-label = Teɣzi n usebter
 # Section title (noun) for the print scaling options
 printui-scale = Sellum
 printui-scale-fit-to-page = Ṣeggem asebter
+printui-scale-fit-to-page-width = Ṣeggem almend n tehri n tferkit
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Sellum
 # Section title for miscellaneous print options
