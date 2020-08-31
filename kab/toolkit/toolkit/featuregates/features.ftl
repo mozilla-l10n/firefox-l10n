@@ -46,6 +46,7 @@ experimental-features-web-api-beforeinput-description = Tadyant s umata <a data-
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Timerna n umeṣkaw ɣer ugrudem <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> d tegrumma n yisenfal yemgaraden yemcudden, yezmer ad ttwarnunt srid tferkiyin timaynutin n uɣanib s war timerna n tferkit HTML. Aya ad yessishel timerna n tferkiyin n uɣanib ara yettwallsen deg useqdec i useqdec d <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Wali <a data-l10n-name="bugzilla">abug1520690</a> i wugar n telqayt.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
