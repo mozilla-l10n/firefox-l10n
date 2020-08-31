@@ -10,7 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = { -brand-short-name } ñemyenyhẽjey
 safe-mode-description = Jeikekatu ha’e peteĩ { -brand-short-name } rekoitevoi ikatúva ojepuru oñemyatyrõ hag̃ua apañuãi.
-safe-mode-description-details = Ne moimbaha ha ñemoĩporã ñemomba’epyréva ojeipe’áta sapy’ami ha { -brand-short-name } rembiapoite ikatu hína ndoikói oikoháicha ko’ág̃a rupi.
+safe-mode-description-details = Ne moĩmbaha ha ñemoĩporã ñemomba’epyréva ojeipe’áta sapy’ami ha { -brand-short-name } rembiapoite ikatu hína ndoikói oikoháicha ko’ág̃a rupi.
 refresh-profile-instead = Ikatu avei epo pe apañuãi ñemyatyrõ ha embopiro’y { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } oñemboty ehe’arõ’ỹre oñepyrũmi jave. Kóva ikatu oiko tembipuru’i térã ambue apañuãi rupi. Nde ikatu eñeha’ã emoĩporã pe apañuãi jeikekatu rupi añoite.

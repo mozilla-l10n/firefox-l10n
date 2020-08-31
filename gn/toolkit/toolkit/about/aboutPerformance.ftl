@@ -53,8 +53,7 @@ size-GB = { $value } GB
 close-tab =
     .title = Emboty tendayke
 show-addon =
-    .title = Ehechauka moimbaha ñangarekohápe
-
+    .title = Ehechauka moĩmbaha ñangarekohápe
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
