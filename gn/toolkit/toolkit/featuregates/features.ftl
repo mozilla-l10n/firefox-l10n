@@ -16,6 +16,7 @@ experimental-features-web-gpu-description2 = Ko API pyahu ome’ẽ pytyvõ mich
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Ko tembiapoite myandypyre, { -brand-short-name } ojokupyty marandurenda ra’ãnga AV1 (AVIF) ysaja ndive. Ko marandurenda ra’ãnga opytáva oipurúva algoritmo rembiapo ta’ãngamýi AV1 moñe’ẽha omomichĩ hag̃ua ta’ãnga. Eporandu <a data-l10n-name="bugzilla">bug 1443863</a> eikuaave hag̃ua.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
