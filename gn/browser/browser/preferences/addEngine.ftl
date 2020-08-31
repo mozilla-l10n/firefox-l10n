@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+add-engine-window =
+    .title = Embojuaju hekaha
+    .style = width: 32em;
+add-engine-button = Embojuaju hekaha momba’epyre
+add-engine-name = Hekaha réra
 add-engine-alias = Teragua’u
 add-engine-cancel =
     .label = Heja
