@@ -76,3 +76,4 @@ printui-paper-legal = Azerfan US
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Sellum ilaq ad yili d amḍan gar 10 d 200.
