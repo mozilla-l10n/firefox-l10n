@@ -15,3 +15,4 @@ add-engine-cancel =
 add-engine-ok =
     .label = Legg til søkjemotor
     .accesskey = L
+engine-name-exists = Ein søkjemotor med det namnet finst allereie
