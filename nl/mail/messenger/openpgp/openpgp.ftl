@@ -461,6 +461,7 @@ fail-key-extract = Fout – sleutelextractieopdracht mislukt
 # Strings used in keyRing.jsm
 fail-cancel = Fout – sleutelontvangst geannuleerd door gebruiker
 not-first-block = Fout – eerste OpenPGP-blok is geen publiek sleutelblok
+import-key-confirm = In bericht ingesloten publieke sleutel(s) importeren?
 fail-key-import = Fout – importeren van sleutel mislukt
 file-write-failed = Kan niet naar bestand { $output } schrijven
 no-pgp-block = Fout – geen geldig armored OpenPGP-gegevensblok gevonden
