@@ -64,6 +64,7 @@ experimental-features-devtools-compatibility-panel-description = Agalis adisan n
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Inagan n tuqqna: SameSite=Lax s wudem amezwer
+experimental-features-cookie-samesite-lax-by-default2-description = Ḥseb inagan n tuqqna am “SameSite=Lax” s wudem amezwer ma yella ulac imyerr n “SameSite” yettwafernen. Ineflayen ilaq ad qeblen addad-a amiran n useqdec war tilas s uwekked n tidet ɣef “SameSite=”.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Inagan n tuqqna: SameSite=None yesra imyerr aɣelsan
