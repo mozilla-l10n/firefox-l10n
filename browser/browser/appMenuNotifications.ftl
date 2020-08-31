@@ -4,14 +4,14 @@
 
 appmenu-update-available =
     .label = 새 { -brand-shorter-name } 업데이트가 있습니다.
-    .buttonlabel = 업데이트 내려받기
+    .buttonlabel = 업데이트 다운로드
     .buttonaccesskey = D
     .secondarybuttonlabel = 나중에
     .secondarybuttonaccesskey = N
 appmenu-update-available-message = 가장 빠르고 안전한 { -brand-shorter-name }로 업데이트하세요.
 appmenu-update-manual =
     .label = { -brand-shorter-name }를 최신 버전으로 업데이트할 수 없습니다.
-    .buttonlabel = { -brand-shorter-name } 내려받기
+    .buttonlabel = { -brand-shorter-name } 다운로드
     .buttonaccesskey = D
     .secondarybuttonlabel = 나중에
     .secondarybuttonaccesskey = N
@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></i
 appmenu-addon-post-install-incognito-checkbox =
     .label = 이 확장 기능이 사생활 보호 창에서 실행되도록 허용합니다
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = 새 탭이 변경되었습니다.
     .buttonlabel = 변경 사항 유지
