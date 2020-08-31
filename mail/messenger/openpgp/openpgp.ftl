@@ -263,7 +263,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Sleutel intrekken
 openpgp-key-edit-title = OpenPGP-sleutel wijzigen
 openpgp-key-edit-date-title = Vervaldatum verlengen
-openpgp-manager-description = Gebruik de OpenPGP-sleutelbeheerder om openbare sleutels van uw correspondenten en alle andere niet hierboven genoemde sleutels te bekijken en te beheren.
+openpgp-manager-description = Gebruik de OpenPGP-sleutelbeheerder om publieke sleutels van uw correspondenten en alle andere niet hierboven genoemde sleutels te bekijken en te beheren.
 openpgp-manager-button =
     .label = OpenPGP-sleutelbeheerder
     .accesskey = P
@@ -272,10 +272,10 @@ openpgp-key-remove-external =
     .accesskey = E
 key-external-label = Externe GnuPG-sleutel
 # Strings in keyDetailsDlg.xhtml
-key-type-public = openbare sleutel
+key-type-public = publieke sleutel
 key-type-primary = hoofdsleutel
 key-type-subkey = subsleutel
-key-type-pair = sleutelpaar (geheime sleutel en openbare sleutel)
+key-type-pair = sleutelpaar (geheime sleutel en publieke sleutel)
 key-expiry-never = nooit
 key-usage-encrypt = Versleutelen
 key-usage-sign = Ondertekenen
@@ -305,10 +305,10 @@ keyserver-error-certificate-error = Het certificaat van de sleutelserver is niet
 keyserver-error-unsupported = De sleutelserver wordt niet ondersteund.
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
-    Uw e-mailprovider heeft uw verzoek om uw openbare sleutel te uploaden naar de OpenPGP Web Key Directory verwerkt.
-    Stuur een bevestiging om de publicatie van uw openbare sleutel te voltooien.
+    Uw e-mailprovider heeft uw verzoek om uw publieke sleutel te uploaden naar de OpenPGP Web Key Directory verwerkt.
+    Stuur een bevestiging om de publicatie van uw publieke sleutel te voltooien.
 wkd-message-body-process =
-    Dit is een e-mailbericht voor de automatische verwerking om uw openbare sleutel te uploaden naar de OpenPGP Web Key Directory.
+    Dit is een e-mailbericht voor de automatische verwerking om uw publieke sleutel te uploaden naar de OpenPGP Web Key Directory.
     U hoeft op dit moment geen handmatige actie te ondernemen.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
@@ -359,7 +359,7 @@ import-info-details = Details bekijken en sleutelacceptatie beheren
 import-info-no-keys = Geen sleutels geïmporteerd.
 # Strings in enigmailKeyManager.js
 import-from-clip = Wilt u een of enkele sleutel(s) van het klembord importeren?
-import-from-url = Openbare sleutel van deze URL downloaden:
+import-from-url = Publieke sleutel van deze URL downloaden:
 copy-to-clipbrd-failed = Kan de geselecteerde sleutel(s) niet naar het klembord kopiëren.
 copy-to-clipbrd-ok = Sleutel(s) naar klembord gekopieerd
 delete-secret-key =
@@ -367,7 +367,7 @@ delete-secret-key =
     
     Als u uw geheime sleutel verwijdert, kunt u geen berichten meer ontsleutelen die voor die sleutel zijn versleuteld, en kunt u deze ook niet intrekken.
     
-    Wilt u echt ZOWEL de geheime sleutel ALS de openbare sleutel ‘{ $userId }’
+    Wilt u echt ZOWEL de geheime sleutel ALS de publieke sleutel ‘{ $userId }’
     verwijderen?
 delete-mix =
     WAARSCHUWING: U staat op het punt geheime sleutels te verwijderen!
