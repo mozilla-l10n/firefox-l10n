@@ -47,10 +47,14 @@ experimental-features-web-api-beforeinput-description = L’évènement global <
 experimental-features-css-constructable-stylesheets =
     .label = CSS : Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = L’ajout d’un constructeur à l’interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> ainsi qu’un ensemble de modifications connexes permettent de créer directement de nouvelles feuilles de style sans avoir à ajouter celles-ci au HTML. Cela facilite beaucoup la création de feuilles de style réutilisables à utiliser avec le <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Voir le <a data-l10n-name="bugzilla">bug 1520690</a> pour plus de détails.
+experimental-features-media-session-api-description = L’implémentation complète de l’API Media Session dans { -brand-short-name } est actuellement expérimentale. Cette API est utilisée pour personnaliser la gestion des notifications liées aux médias, pour gérer les évènements et les données servant à présenter une interface utilisateur pour la gestion de la lecture multimédia et pour obtenir les métadonnées des fichiers multimédias. Voir le <a data-l10n-name="bugzilla">bug 1112032</a> pour plus de détails.
 experimental-features-devtools-color-scheme-simulation =
     .label = Outils de développement : simulation de jeux de couleurs
+experimental-features-devtools-execution-context-selector =
+    .label = Outils de développement : sélecteur de contexte d’exécution
 experimental-features-devtools-compatibility-panel =
     .label = Outils de développement : panneau Compatibilité
+experimental-features-devtools-compatibility-panel-description = Un panneau latéral pour l’inspecteur de page qui affiche des informations détaillant l’état de compatibilité entre navigateurs de votre application. Voir le <a data-l10n-name="bugzilla">bug 1584464</a> pour plus de détails.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies : SameSite=Lax par défaut
