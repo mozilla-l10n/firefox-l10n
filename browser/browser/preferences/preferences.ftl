@@ -571,6 +571,9 @@ search-restore-default =
 search-remove-engine =
     .label = Poista
     .accesskey = P
+search-add-engine =
+    .label = Lisää
+    .accesskey = L
 search-find-more-link = Etsi lisää hakukoneita
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
