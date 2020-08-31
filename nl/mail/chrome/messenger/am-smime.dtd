@@ -6,7 +6,7 @@
 <!ENTITY e2eLearnMore.label "Meer info">
 
 <!ENTITY e2eEnc.description "Zonder end-to-end-versleuteling wordt de inhoud van berichten gemakkelijk zichtbaar voor uw e-mailprovider en voor groepstoezicht.">
-<!ENTITY e2eeReqWarning.description "Als u versleuteling nodig heeft, moet u voor het verzenden van een bericht de openbare sleutel of het certificaat van elke ontvanger hebben.">
+<!ENTITY e2eeReqWarning.description "Als u versleuteling nodig heeft, moet u voor het verzenden van een bericht de publieke sleutel of het certificaat van elke ontvanger hebben.">
 
 <!ENTITY e2eSigning.description "Met een digitale handtekening kunnen ontvangers controleren of het bericht door u is verzonden en of de inhoud niet is gewijzigd.">
 <!ENTITY e2eTechPref.description "Voorkeur versleuteltechnologie:">
@@ -27,7 +27,6 @@
 <!ENTITY signingGroupTitle.label "Digitaal ondertekenen">
 <!ENTITY signMessage2.label "Mijn digitale handtekening standaard toevoegen">
 <!ENTITY signMessage.accesskey "a">
-
 <!ENTITY signingCert2.message "Persoonlijk certificaat voor digitaal ondertekenen:">
 
 <!ENTITY sendingDefaults.label "Standaardinstellingen voor het verzenden van berichten">
