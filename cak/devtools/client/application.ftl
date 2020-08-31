@@ -73,11 +73,22 @@ serviceworker-empty-suggestions-aboutdebugging = Ke'anik'oj ri Service Workers k
 serviceworker-empty-intro2 = Majun service workers xe'ilitäj
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Tetamäx ch'aqa' chik
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = We ri ruxaq k'o wakami k'o chi ruk'wan jun service worker, yatikïr ye'akanoj taq sachoj pa <a>Temeb'äl</a> o nab'etz'eta' akuchi tz'ib'an ri service worker pa <span>Chojmirisab'äl</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Ketz'et ch'aqa' service workers kichin ch'aqa' taq ajk'ama'l
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Rutzijoxik Chokoy
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = K'o chi nitz'aqatisäx jun Rutzijoxik ajk'amaya'l chokoy richin ninik'öx wawe'. <a>Tetamäx ch'aqa' chik</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Majun rutzijoxik ajk'amaya'l chokoy xilitäj
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Tawetamaj natz'aqatisaj jun rutzijoxik
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Taq Sachoj chuqa' Kitzijol K'ayewal
 # Header for the Identity section of Manifest inspection displayed in the application panel.
