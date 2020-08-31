@@ -27,14 +27,26 @@ experimental-features-web-api-inputmode-description = Notre implémentation de l
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = API web : <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = L’attribut <a data-l10n-name="rel">rel</a> avec la valeur « <code>"preload"</code> » sur un élément <a data-l10n-name="link">&lt;link&gt;</a> est destiné à améliorer les performances en vous permettant de télécharger des ressources plus tôt dans le cycle de vie de la page, en vous assurant qu’elles sont disponibles plus tôt et qu’elles sont moins susceptibles de bloquer le rendu de la page. Lisez « <a data-l10n-name="readmore">Préchargement de contenu avec <code>rel="preload"</code></a> » ou consultez le <a data-l10n-name="bugzilla">bug 1583604</a> pour plus de détails.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS : pseudo-classe :focus-visible
+experimental-features-css-focus-visible-description = Permet d’appliquer des styles de focus à des éléments tels que des boutons et des contrôles de formulaire, uniquement lorsqu’ils sont focalisés au clavier (par exemple lors de la tabulation entre les éléments), et non lorsqu’ils sont focalisés à l’aide d’une souris ou d’un autre dispositif de pointage. Consultez le <a data-l10n-name="bugzilla">bug 1617600</a> pour plus de détails.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = API web : évènement beforeinput
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = L’évènement global <a data-l10n-name="mdn-beforeinput">beforeinput</a> est activé sur des éléments <a data-l10n-name="mdn-input">&lt;input&gt;</a> et <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ou tout élément dont l’attribut <a data-l10n-name="mdn-contenteditable">contenteditable</a> est défini, immédiatement avant que l’élément change de valeur. Cet évènement permet aux applications web d’outrepasser le comportement par défaut du navigateur pour l’interaction avec l’utilisateur. Par exemple, des applications web peuvent annuler la saisie de l’utilisateur uniquement pour des caractères spécifiques, ou peuvent modifier le collage d’un texte formaté uniquement avec des styles approuvés.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS : Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = L’ajout d’un constructeur à l’interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> ainsi qu’un ensemble de modifications connexes permettent de créer directement de nouvelles feuilles de style sans avoir à ajouter celles-ci au HTML. Cela facilite beaucoup la création de feuilles de style réutilisables à utiliser avec le <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Voir le <a data-l10n-name="bugzilla">bug 1520690</a> pour plus de détails.
 experimental-features-devtools-color-scheme-simulation =
     .label = Outils de développement : simulation de jeux de couleurs
 experimental-features-devtools-compatibility-panel =
