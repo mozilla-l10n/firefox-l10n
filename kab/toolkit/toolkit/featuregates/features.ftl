@@ -74,6 +74,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Inagan
 experimental-features-abouthome-startup-cache =
     .label = ɣef: tuffirt n usenker agensan
 experimental-features-abouthome-startup-cache-description = Tuffirt i ugbur amezwaru ɣef:isemli agejdan i d-yulin s wudem amewer deg usenker. Iswi seg tuffra-a  d asnerni n temlellit n usenker.
+experimental-features-print-preview-tab-modal =
+    .label = Allus n ufeṣṣel send asiggez
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
