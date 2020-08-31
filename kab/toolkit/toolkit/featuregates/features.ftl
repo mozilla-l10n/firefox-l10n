@@ -51,6 +51,7 @@ experimental-features-css-constructable-stylesheets-description = Timerna n ume�
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Asebded ummid n { -brand-short-name } n API Media Session d tarmitant akka tura. API-a tettuseqdec i usagen n usesfer n yilɣa i icudden ɣer yimidyaten, i usefrek n tedyanin d yisefka yesɛan azal i usenked n ugrudem n useqdac i usefrek n tɣuri n umidyat d wawway n yiɣefisefka n ufalu n umidyat. Wali <a data-l10n-name="bugzilla">abug1112032</a> i wugar n telqayt.
 experimental-features-devtools-color-scheme-simulation =
     .label = Ifecka n uneflay: Aserwes n tegrumma n yiniten
 experimental-features-devtools-color-scheme-simulation-description = Yerna taxtiṛt n tuttra n yizenziɣen n yiniten yemgaraden ara ak-akem-yeǧǧen ad teskeydeḍ ilugan n yimidyaten <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Aseqdec n tuttra n umidyat-a ad yeǧǧ tiferkit-ik·m n uɣanib ad terr ma yella aseqdac ad yefren agrudem n useqdac amceɛlal neɣ aberkan. Tamahilt-a ad ak·akem-teǧǧ ad teskeydeḍ tangalt-ik·im war ma tesnifleḍ iɣewwaren deg yiminig-ik·im (neɣ anagraw n wammud, ma yella iminig yeṭṭafar aɣewwar n uzenziɣ n yiniten ɣef uswir n unagraw). Wali <a data-l10n-name="bugzilla1">abug1550804</a> d <a data-l10n-name="bugzilla2">wabug1137699</a> i wugar n telqayt.
