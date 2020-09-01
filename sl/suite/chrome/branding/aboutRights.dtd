@@ -46,7 +46,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-aa "&vendorShortName; ponuja neobvezne spletne storitve (&quot;Storitve&quot;), ki so na voljo za uporabo s to binarno različico &brandShortName;, kot je spodaj opisano. Nekatere od teh storitev (na primer storitve dodatkov za predloge in posodobitve, storitev varnega brskanja ali funkcija obveščanja o brskanju z lokacijo) so privzeto omogočene. Če ne želite uporabljati nobene od teh storitev, ali pa so spodnji pogoji nesprejemljivi, lahko najdete navodila, kako onemogočiti določeno funkcijo ali storitev,">
 <!ENTITY rights3.webservices-b "tukaj">
-<!ENTITY rights3.webservices-c ". Druge funkcije in storitve lahko omogočite ali onemogočite v nastavitvah aplikacije.">
+<!ENTITY rights3.webservices-c ". Druge možnosti in storitve lahko omogočite ali onemogočite v nastavitvah aplikacije.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "storitve dodatkov:">
@@ -62,7 +62,7 @@
 <!ENTITY rights.safebrowsing-term1 "Odprite nastavitve programa">
 <!ENTITY rights.safebrowsing-term2 "Izberite glavno ploščo &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Počistite možnosti &quot;&blockAttackSites.label;&quot; in &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Varno brskanje je tako onemogočeno">
+<!ENTITY rights.safebrowsing-term4 "Varno brskanje je zdaj onemogočeno">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Brskanje, ki se zaveda položaja:">
