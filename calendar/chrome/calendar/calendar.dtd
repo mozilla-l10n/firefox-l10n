@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "创建新的事件" >
 <!ENTITY calendar.newtask.button.tooltip          "创建新的任务" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "任务" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "显示已完成任务">
 
 <!ENTITY calendar.today.button.label          "今天">
@@ -114,7 +112,7 @@
 <!ENTITY calendar.task.filter.all.accesskey         "A">
 <!ENTITY calendar.task.filter.today.label           "今天">
 <!ENTITY calendar.task.filter.today.accesskey       "T">
-<!ENTITY calendar.task.filter.next7days.label       "下一个七天">
+<!ENTITY calendar.task.filter.next7days.label       "往后七天">
 <!ENTITY calendar.task.filter.next7days.accesskey   "N">
 <!ENTITY calendar.task.filter.notstarted.label      "未开始任务">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "颜色：">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System 日历服务器 （WCAP）">
 <!ENTITY calendarproperties.format.label                   "格式：">
 <!ENTITY calendarproperties.location.label                 "位置：">
 <!ENTITY calendarproperties.refreshInterval.label          "刷新日历：">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "只读">
 <!ENTITY calendarproperties.firealarms.label               "显示提醒">
 <!ENTITY calendarproperties.cache3.label                   "离线支持">
-<!ENTITY calendarproperties.enabled.label                  "启用此日历">
 <!ENTITY calendarproperties.enabled2.label                 "启用此日历">
 <!ENTITY calendarproperties.forceDisabled.label            "未找到该日历的提供者。通常是由于您禁用或者卸载了某些附加组件。">
 <!ENTITY calendarproperties.unsubscribe.label              "取消订阅">
