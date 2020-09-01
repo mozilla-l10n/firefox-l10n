@@ -4,183 +4,127 @@
 
 certmgr-title =
     .title = Sertifikatenbehearder
-
 certmgr-tab-mine =
     .label = Jo sertifikaten
-
 certmgr-tab-remembered =
     .label = Autentikaasjebeslissingen
-
 certmgr-tab-people =
     .label = Minsken
-
 certmgr-tab-servers =
     .label = Servers
-
 certmgr-tab-ca =
     .label = Organisaasjes
-
 certmgr-mine = Jo hawwe sertifikaten fan dizze organisaasjes, dy't jo identifisearje
 certmgr-remembered = Dizze sertifikaten wurde brûkt om jo by websites te identifisearjen
 certmgr-people = Jo hawwe sertifikaten argivearre dy't dizze persoanen identifisearje
 certmgr-servers = Jo hawwe sertifikaten argivearre dy't dizze servers identifisearje
 certmgr-ca = Jo hawwe sertifikaten argivearre dy't dizze sertifikaatautoriteiten identifisearje
-
 certmgr-detail-general-tab-title =
     .label = Algemien
     .accesskey = A
-
 certmgr-detail-pretty-print-tab-title =
     .label = Details
     .accesskey = D
-
 certmgr-pending-label =
     .value = No sertifikaat oan it ferifiearjen…
-
 certmgr-subject-label = Utjûn oan
-
 certmgr-issuer-label = Utjûn troch
-
 certmgr-period-of-validity = Perioade fan jildichheid
-
 certmgr-fingerprints = Fingerôfdrukken
-
 certmgr-cert-detail =
     .title = Detail fan sertifikaat
     .buttonlabelaccept = Slute
     .buttonaccesskeyaccept = S
-
 certmgr-cert-detail-commonname = Algemiene namme (CN)
-
 certmgr-cert-detail-org = Organisaasje (O)
-
 certmgr-cert-detail-orgunit = Organisatoaryske Ienheid (OU)
-
 certmgr-cert-detail-serial-number = Searjenûmer
-
 certmgr-cert-detail-sha-256-fingerprint = SHA-256-fingerôfdruk
-
 certmgr-cert-detail-sha-1-fingerprint = SHA1-fingerôfdruk
-
 certmgr-edit-ca-cert =
     .title = CA-sertifikaat-fertrouwensynstellingen bewurkje
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = Fertrouwensynstellingen bewurkje:
-
 certmgr-edit-cert-trust-ssl =
     .label = Dit sertifikaat kin websites identifisearje.
-
 certmgr-edit-cert-trust-email =
     .label = Dit sertifikaat kin e-mailbrûkers identifisearje.
-
 certmgr-delete-cert =
     .title = Sertifikaat fuortsmite
     .style = width: 48em; height: 24em;
-
 certmgr-cert-host =
     .label = Host
-
 certmgr-cert-name =
     .label = Sertifikaatnamme
-
 certmgr-cert-server =
     .label = Server
-
 certmgr-override-lifetime =
     .label = Libbensdoer
-
 certmgr-token-name =
     .label = Befeiligingsapparaat
-
 certmgr-begins-on = Start op
-
 certmgr-begins-label =
     .label = Start op
-
 certmgr-expires-on = Ferrint op
-
 certmgr-expires-label =
     .label = Ferrint op
-
 certmgr-email =
     .label = E-mailadres
-
 certmgr-serial =
     .label = Searjenûmer
-
 certmgr-view =
     .label = Werjaan…
     .accesskey = W
-
 certmgr-edit =
     .label = Fertrouwen bewurkje…
     .accesskey = B
-
 certmgr-export =
     .label = Eksportearje…
     .accesskey = k
-
 certmgr-delete =
     .label = Fuorsmite…
     .accesskey = F
-
 certmgr-delete-builtin =
     .label = Fuorsmite of net fertrouwe…
     .accesskey = F
-
 certmgr-backup =
     .label = Reservekopy meitsje…
     .accesskey = R
-
 certmgr-backup-all =
     .label = Reservekopy fan alles meitsje…
     .accesskey = k
-
 certmgr-restore =
     .label = Ymportearje…
     .accesskey = Y
-
 certmgr-details =
     .value = Sertifikaatfjilden
     .accesskey = e
-
 certmgr-fields =
     .value = Fjildwearde
     .accesskey = w
-
 certmgr-hierarchy =
     .value = Sertifikaathierargy
     .accesskey = h
-
 certmgr-add-exception =
     .label = Utsûndering tafoegje…
     .accesskey = t
-
 exception-mgr =
     .title = Feilichheidsútsûndering tafoegje
-
 exception-mgr-extra-button =
     .label = Feilichheidsútsûndering befêstigje
     .accesskey = b
-
 exception-mgr-supplemental-warning = Legitime banken, winkels, en oare publike sides sille net freegje om dit te dwaan.
-
 exception-mgr-cert-location-url =
     .value = Lokaasje:
-
 exception-mgr-cert-location-download =
     .label = Sertifikaat ophelje
     .accesskey = o
-
 exception-mgr-cert-status-view-cert =
     .label = Werjaan…
     .accesskey = W
-
 exception-mgr-permanent =
     .label = Dizze útsûndering permanint bewarje
     .accesskey = p
-
 pk11-bad-password = It ynfierde wachtwurd is net korrekt.
 pkcs12-decode-err = It ûntsiferjen fan dit bestân is mislearre. It is net yn de PKCS #12-opmaak kodearre, is skansjearre, of it troch jo ynfierde wachtwurd is net korrekt.
 pkcs12-unknown-err-restore = It werom bringen fan it PKCS #12-bestân is om ûnbekende redenen mislearre.
@@ -213,24 +157,18 @@ delete-user-cert-title =
     .title = Jo sertifikaten fuortsmite
 delete-user-cert-confirm = Binne jo wis dat jo dizze sertifikaten fuortsmite wolle?
 delete-user-cert-impact = As jo ien fan jo eigen sertifikaten fuortsmite, kinne jo it net langer brûke om josels mei te ydentifisearjen.
-
-
 delete-ssl-cert-title =
     .title = Server Sertifikaat Utsûnderingen fuortsmite
 delete-ssl-cert-confirm = Binne jo wis dat jo dizze serverútsûnderingen fuortsmite wolle?
 delete-ssl-cert-impact = As jo in serversertifikaatútsûndering fuortsmite, bringe jo de gebrûklike feilichheidskontrôles werom foar dizze website en is in falide sertifikaat nedich.
-
 delete-ca-cert-title =
     .title = CA-sertifikaten fuortsmite of net fertrouwe
 delete-ca-cert-confirm = Jo hawwe frege om dizze CA-sertifikaten fuort te smiten? Foar ynboude sertifikaten sil alle fertrouwen fuortsmiten wurde, wat itselde effekt hat. Binne jo wis dat jo fuortsmite of net fertroue wolle?
 delete-ca-cert-impact = As jo in sertifikaat fan in sertifikaatautoriteit (CA) fuortsmite of net fertrouwe, sil dizze applikaasje net langer gjin inkelt sertifikaat mear fertrouwe dat troch dy CA útjûn is.
-
-
 delete-email-cert-title =
     .title = E-mailsertifikaten fuortsmite
 delete-email-cert-confirm = Binne jo wis dat jo de e-mailsertifikaten fan dizze minsken fuortsmite wolle?
 delete-email-cert-impact = As jo in e-mailsertifikaat fan in persoan fuortsmite, kinne jo net langer fersifere e-mail nei dizze persoan ferstjoere.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -246,29 +184,21 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Sertifikaatwerjefte: ‘{ $certName }’
-
 not-present =
     .value = <Gjin ûnderdiel fan it sertifikaat>
-
 # Cert verification
 cert-verified = Dit sertifikaat is ferifiearre foar de folgjende soarten gebrûk
-
 # Add usage
 verify-ssl-client =
     .value = SSL-klientsertifikaat
-
 verify-ssl-server =
     .value = SSL-serversertifikaat
-
 verify-ssl-ca =
     .value = SSL-sertifikaatautoriteit
-
 verify-email-signer =
     .value = E-mail ûndertekenaarsertifikaat
-
 verify-email-recip =
     .value = E-mail ûntfangersertifikaat
-
 # Cert verification
 cert-not-verified-cert-revoked = Dit sertifikaat koe net ferifiearre wurde, omdat it werroppen is.
 cert-not-verified-cert-expired = Dit sertifikaat koe net ferifiearre wurde, omdat it ferrûn is.
@@ -278,6 +208,8 @@ cert-not-verified-issuer-unknown = Dit sertifikaat koe net ferifiearre wurde, om
 cert-not-verified-ca-invalid = Dit sertifikaat koe net ferifiearre wurde, omdat it CA-sertifikaat net jildich is.
 cert-not-verified_algorithm-disabled = Koe dit sertifikaat net ferifiearje, omdat it signearre is mei in signatueralgoritme dat útskeakele is, omdat dat algoritme net feilich is.
 cert-not-verified-unknown = Dit sertifikaat koe om ûnbekende redenen net ferifiearre wurde.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Gjin clientsertifikaat ferstjoere
 
 ## Add Security Exception dialog
 
