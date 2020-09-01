@@ -73,7 +73,12 @@ printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = Tabrat US
 printui-paper-legal = Azerfan US
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Sellum ilaq ad yili d amḍan gar 10 d 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Azilal yessefk ad yili d amḍan gar 1 d { $numPages }.
+printui-error-invalid-start-overflow = Uṭṭun n usebter “seg” yessefk ad yili meẓẓiy ɣef wuṭṭun n usebter “ɣer”.
