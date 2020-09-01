@@ -440,6 +440,11 @@ gnupg-file = GnuPG-bestannen
 msg-compose-details-button-label = Details…
 msg-compose-details-button-access-key = D
 dlg-button-view = &Werjaan
+# Strings used in encryption.jsm
+not-required = Flater – gjin fersifering fereaske
+# Strings used in windows.jsm
+no-photo-available = Gjin foto beskikber
+error-photo-path-not-readable = Fotopaad '{ $photo }' is net lêsber
 repeat-suffix-singular = kear.
 repeat-suffix-plural = kear.
 dlg-button-ok = &OK
