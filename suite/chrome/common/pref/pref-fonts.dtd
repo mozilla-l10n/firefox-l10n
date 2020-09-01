@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 <!ENTITY  pref.fonts.title                        "字体">
 
-<!ENTITY  language.label                          "针对 (t)：">
+<!ENTITY  language.label                          "文字系统：">
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  typefaces.label                         "字型">
@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of
      the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "拉丁文">
+<!ENTITY  font.langGroup.latin                    "拉丁字母">
 <!ENTITY  font.langGroup.japanese                 "日文">
 <!ENTITY  font.langGroup.trad-chinese             "繁体中文（台湾）">
 <!ENTITY  font.langGroup.simpl-chinese            "简体中文">
@@ -42,12 +42,12 @@
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯来文">
 <!ENTITY  font.langGroup.arabic                   "阿拉伯字母">
-<!ENTITY  font.langGroup.devanagari               "天城文（印地语、现代梵语）">
+<!ENTITY  font.langGroup.devanagari               "梵文">
 <!ENTITY  font.langGroup.tamil                    "泰米尔文">
-<!ENTITY  font.langGroup.armenian                 "亚美尼亚字母">
+<!ENTITY  font.langGroup.armenian                 "亚美尼亚文">
 <!ENTITY  font.langGroup.bengali                  "孟加拉文">
-<!ENTITY  font.langGroup.canadian                 "统一加拿大土著文字">
-<!ENTITY  font.langGroup.ethiopic                 "吉兹字母（埃塞俄比亚诸语）">
+<!ENTITY  font.langGroup.canadian                 "加拿大原住民音节文字">
+<!ENTITY  font.langGroup.ethiopic                 "埃塞俄比亚文">
 <!ENTITY  font.langGroup.georgian                 "格鲁吉亚字母">
 <!ENTITY  font.langGroup.gujarati                 "古吉拉特文">
 <!ENTITY  font.langGroup.gurmukhi                 "古木基文">
