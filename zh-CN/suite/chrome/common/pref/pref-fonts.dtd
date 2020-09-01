@@ -41,7 +41,7 @@
 <!ENTITY  font.langGroup.el                       "希腊文">
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯来文">
-<!ENTITY  font.langGroup.arabic                   "阿拉伯文">
+<!ENTITY  font.langGroup.arabic                   "阿拉伯字母">
 <!ENTITY  font.langGroup.devanagari               "天城文（印地语、现代梵语）">
 <!ENTITY  font.langGroup.tamil                    "泰米尔文">
 <!ENTITY  font.langGroup.armenian                 "亚美尼亚字母">
