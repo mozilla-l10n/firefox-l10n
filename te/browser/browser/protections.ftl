@@ -21,6 +21,7 @@ protection-report-manage-protections = అమరికలను నిర్వ�
 # capitalization for this string should match the output for your locale.
 graph-today = ఈరోజు
 social-tab-title = సామాజిక మాధ్యమాల ట్రాకర్లు
+cookie-tab-title = క్రాస్-సైట్ ట్రాకింగ్ కుకీలు
 fingerprinter-tab-title = ఫింగర్‌ప్రింటర్లు
 cryptominer-tab-title = క్రిప్టోమైనర్లు
 protections-close-button2 =
@@ -34,6 +35,15 @@ protection-report-manage-passwords-button = సంకేతపదాలను �
     .title = { -lockwise-brand-short-name }‌లో సంకేతపదాలను నిర్వహించుకోండి
 lockwise-mobile-app-title = మీ సంకేతపదాలను ఎక్కడికైనా తీసుకెళ్ళండి
 lockwise-no-logins-card-content = { -brand-short-name }లో భద్రపరచిన సంకేతపదాలను ఏ పరికరంలోనైనా వాడుకోండి.
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 సంకేతపదం సురక్షితంగా భద్రపరచబడింది.
+       *[other] మీ సంకేతపదాలు సురక్షితంగా భద్రమవుతున్నాయి.
+    }
 lockwise-how-it-works-link = ఇది ఎలా పనిచేస్తుంది
 monitor-link = ఇది ఎలా పనిచేస్తుంది
 monitor-no-breaches-title = శుభవార్త!
@@ -47,6 +57,13 @@ monitor-view-report-link = నివేదికను చూడండి
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = సామాజిక మాధ్యమాల ట్రాకర్లు
+    .aria-label =
+        { $count ->
+            [one] { $count } సామాజిక మాధ్యమాల ట్రాకరు ({ $percentage }%)
+           *[other] { $count } సామాజిక మాధ్యమాల ట్రాకర్లు ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = ఫింగర్‌ప్రింటర్లు
     .aria-label =
