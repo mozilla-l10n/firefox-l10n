@@ -80,6 +80,8 @@ show-dir-label =
         [windows] Odpri mapo
        *[other] Odpri mapo
     }
+environment-variables-name = Ime
+environment-variables-value = Vrednost
 experimental-features-title = Poskusne zmogljivosti
 experimental-features-name = Ime
 experimental-features-value = Vrednost

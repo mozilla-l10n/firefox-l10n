@@ -21,6 +21,12 @@ printui-page-range-picker =
     .aria-label = Izberite obseg strani
 printui-page-custom-range =
     .aria-label = Vnesite obseg strani po meri
+# This label is displayed before the first input field indicating
+# the start of the range to print.
+printui-range-start = Od
+# This label is displayed between the input fields indicating
+# the start and end page of the range to print.
+printui-range-end = do
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Usmerjenost
@@ -31,17 +37,46 @@ printui-destination-label = Cilj
 printui-destination-pdf-label = Shrani v PDF
 printui-more-settings = Več nastavitev
 printui-less-settings = Manj nastavitev
+printui-paper-size-label = Velikost papirja
 # Section title (noun) for the print scaling options
 printui-scale = Merilo
 printui-scale-fit-to-page = Prilagodi strani
+printui-scale-fit-to-page-width = Prilagodi širini strani
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Merilo
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Natisni glave in noge
 printui-backgrounds-checkbox = Natisni ozadja
+printui-color-mode-color = Barva
+printui-color-mode-bw = Črno-belo
+printui-margins = Robovi
+printui-margins-default = Privzeto
+printui-margins-min = Najmanj
+printui-margins-none = Brez
 printui-system-dialog-link = Natisni s pomočjo pogovornega okna sistema …
 printui-primary-button = Natisni
 printui-primary-button-save = Shrani
 printui-cancel-button = Prekliči
 printui-loading = Priprava predogleda
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-tabloid = Tabloid
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Merilo mora biti število med 10 in 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Obseg mora biti število med 1 in { $numPages }.
