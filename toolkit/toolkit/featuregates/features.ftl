@@ -76,6 +76,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = In opstartbuffer foar it inisjele about:home-dokumint wurdt by opstarten standert laden. It doel fan dizze buffer is it ferbetterjen fan de opstartprestaasjes.
 experimental-features-print-preview-tab-modal =
     .label = Nij ûntwerp fan ôfdrukfoarbyld
+experimental-features-print-preview-tab-modal-description = Yntrodusearret it opnij ûntwurpen ôfdrukfoarbyld en makket ôfdrukfoarbyld beskikber op macOS. Dit kin liede ta falen en omfettet net alle ôfdrukrelatearre ynstellingen. Selektearje om tagong te krijen ta alle ôfdrukrelatearre ynstellingen ‘Ofdrukke fia it systeemdialoochfinster…’ yn it paniel Ofdrukke.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
