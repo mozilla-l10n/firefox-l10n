@@ -71,6 +71,9 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Letra US
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloïde
 
 ## Error messages shown when a user has an invalid input
 
@@ -78,3 +81,4 @@ printui-error-invalid-scale = L’escala deu èsser un nombre entre 10 e 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = La plaja deu èsser un nombre entre 1 e { $numPages }.
+printui-error-invalid-start-overflow = Lo numèro de pagina « de » deu èsser inferior al numèro de pagina « fins a ».
