@@ -56,3 +56,8 @@ inactive-text-overflow-when-no-overflow-fix = Probearje <strong>overflow:hidden<
 css-compatibility-default-message = <strong> { $property } </strong> wurdt net stipe yn de folgjende browsers:
 css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> wie in eksperimintele property dy't neffens de W3C-standerts no ferâldere is. Hy wurdt net stipe yn de folgjende browsers:
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> wie in eksperimintele property dy't neffens de W3C-standerts no ferâldere is.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> is ferâldere neffens W3C-standerts. It wurdt net stipe yn de folgjende browsers:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> is ferâldere neffens W3C-noarmen.
+css-compatibility-experimental-message = <strong>{ $property }</strong> is in eksperimintele property. Hy wurdt net stipe yn de folgjende browsers:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> is in eksperimintele property.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Mear ynfo</span> oer <strong>{ $rootProperty }</strong>
