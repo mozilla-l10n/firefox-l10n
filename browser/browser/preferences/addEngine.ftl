@@ -14,4 +14,4 @@ add-engine-cancel =
 add-engine-ok =
     .label = Apondre motor
     .accesskey = A
-engine-name-exists = Un motor amb aqueste nom d’utilizaire existís ja
+engine-name-exists = Un motor amb aqueste nom existís ja
