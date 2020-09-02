@@ -108,6 +108,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Naudoti įvairiaspalvę išvaizdą mygtukams,
         meniu elementams, ir langams.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Paveldėti jūsų operacinės sistemos spalvas
+        mygtukams, meniu elementams, ir langams.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Paveldėti jūsų operacinės sistemos spalvas
+        mygtukams, meniu elementams, ir langams.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Naudoti šviesias spalvas mygtukams,
+        meniu elementams, ir langams.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Naudoti šviesias spalvas mygtukams,
+        meniu elementams, ir langams.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Naudoti tamsias spalvas mygtukams,
+        meniu elementams, ir langams.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Naudoti tamsias spalvas mygtukams,
+        meniu elementams, ir langams.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Naudoti įvairiaspalvę išvaizdą mygtukams,
+        meniu elementams, ir langams.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Naudoti įvairiaspalvę išvaizdą mygtukams,
+        meniu elementams, ir langams.
 
 ## Welcome full page string
 
