@@ -102,6 +102,34 @@ onboarding-multistage-theme-tooltip-dark =
 onboarding-multistage-theme-tooltip-alpenglow =
     .title = Përdorni një pamje plot ngjyra për butona, menu dhe dritare.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title = Përdorni të njëjtën pamje me sistemin operativ për butona, menu dhe dritare.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description = Përdorni të njëjtën pamje me sistemin operativ për butona, menu dhe dritare.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title = Përdorni një pamje të çelët për butona, menu dhe dritare.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description = Përdorni një pamje të çelët për butona, menu dhe dritare.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Përdorni një pamje të errët për butona, menu dhe dritare.
+        menus, and windows.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Përdorni një pamje të errët për butona, menu dhe dritare.
+        menus, and windows.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title = Përdorni një pamje plot ngjyra për butona, menu dhe dritare.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description = Përdorni një pamje plot ngjyra për butona, menu dhe dritare.
 
 ## Welcome full page string
 
