@@ -5,66 +5,50 @@
 permissions-window =
     .title = Ausnahmen
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresse der Website:
     .accesskey = d
-
 permissions-block =
     .label = Blockieren
     .accesskey = B
-
 permissions-session =
     .label = Für diese Sitzung erlauben
     .accesskey = F
-
 permissions-allow =
     .label = Erlauben
     .accesskey = E
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Website entfernen
     .accesskey = n
-
 permissions-remove-all =
     .label = Alle Websites entfernen
     .accesskey = a
-
 permissions-button-cancel =
     .label = Abbrechen
     .accesskey = r
-
 permissions-button-ok =
     .label = Änderungen speichern
     .accesskey = s
-
 permissions-autoplay-menu = Standard für alle Websites:
-
 permissions-searchbox =
     .placeholder = Website suchen
-
 permissions-capabilities-autoplay-allow =
     .label = Audio und Video erlauben
 permissions-capabilities-autoplay-block =
     .label = Medien mit Audio blockieren
 permissions-capabilities-autoplay-blockall =
     .label = Audio und Video blockieren
-
 permissions-capabilities-allow =
     .label = Erlauben
 permissions-capabilities-block =
     .label = Blockieren
 permissions-capabilities-prompt =
     .label = Immer fragen
-
 permissions-capabilities-listitem-allow =
     .value = Erlauben
 permissions-capabilities-listitem-block =
@@ -111,8 +95,6 @@ permissions-exceptions-addons-window =
     .title = Berechtigte Websites - Add-ons-Installation
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Sie können festlegen, welchen Websites Sie erlauben möchten, Add-ons zu installieren. Geben Sie bitte die exakte Adresse der Website ein, der Sie das erlauben möchten, und klicken Sie dann auf Erlauben.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
@@ -166,7 +148,7 @@ permissions-site-camera-disable-desc = Dies wird alle nicht oben aufgeführten W
 permissions-site-microphone-window =
     .title = Einstellungen - Mikrofonzugriff
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Die folgenden Websites haben angefragt, auf Ihr Mikrofon zugreifen zu dürfen. Sie können festlegen, welche Websites auf Ihr Mikrofon zugreifen dürfen. Weiterhin können Sie alle zukünftigen Anfragen für den Zugriff auf Ihre Kamera blockieren.
+permissions-site-microphone-desc = Die folgenden Websites haben angefragt, auf Ihr Mikrofon zugreifen zu dürfen. Sie können festlegen, welche Websites auf Ihr Mikrofon zugreifen dürfen. Weiterhin können Sie alle zukünftigen Anfragen für den Zugriff auf Ihr Mikrofon blockieren.
 permissions-site-microphone-disable-label =
     .label = Neue Anfragen für den Zugriff auf Ihr Mikrofon blockieren
 permissions-site-microphone-disable-desc = Dies wird alle nicht oben aufgeführten Websites daran hindern, um die Erlaubnis für den Zugriff auf Ihr Mikrofon anzufragen. Durch das Blockieren des Zugriffs auf Ihr Mikrofon können einige Funktionen von Webseiten nicht mehr funktionieren.
