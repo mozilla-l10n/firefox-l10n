@@ -11,7 +11,8 @@ about-private-browsing =
     .title = ค้นหาเว็บ
 about-private-browsing-not-private = ขณะนี้คุณไม่ได้อยู่ในหน้าต่างส่วนตัว
 about-private-browsing-info-description = { -brand-short-name } จะล้างประวัติการค้นหาและประวัติการท่องเว็บของคุณเมื่อคุณออกจากแอปหรือปิดแท็บและหน้าต่างการท่องเว็บแบบส่วนตัวทั้งหมด แม้ว่าสิ่งนี้จะไม่ทำให้คุณปิดบังตัวตนกับเว็บไซต์หรือผู้ให้บริการอินเทอร์เน็ตของคุณ แต่จะทำให้การรักษาความเป็นส่วนตัวของสิ่งที่คุณทำออนไลน์จากผู้อื่นที่ใช้คอมพิวเตอร์เครื่องนี้ง่ายขึ้น
-
+about-private-browsing-need-more-privacy = ต้องการความเป็นส่วนตัวมากขึ้น?
+about-private-browsing-turn-on-vpn = ลองใช้ { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
