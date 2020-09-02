@@ -103,6 +103,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
         τα μενού και τα παράθυρα.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Αντιγραφή της εμφάνισης του λειτουργικού σας
+        συστήματος για τα κουμπιά, τα μενού και τα παράθυρα.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Αντιγραφή της εμφάνισης του λειτουργικού σας
+        συστήματος για τα κουμπιά, τα μενού και τα παράθυρα.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Χρήση ανοιχτόχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Χρήση ανοιχτόχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Χρήση σκουρόχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Χρήση σκουρόχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
 
 ## Welcome full page string
 
