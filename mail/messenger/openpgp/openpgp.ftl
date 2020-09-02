@@ -520,6 +520,29 @@ key-revoked = Kaai ‘{ $key }’ ynlutsen
 key-expired = Kaai ‘{ $key }’ is ferfallen
 msg-compose-internal-error = Der is in ynterne flater bard.
 keys-to-export = Selektearje yn te foegjen OpenPGP-kaaien
+msg-compose-partially-encrypted-inlinePGP =
+    It berjocht wêrop jo reagearje befettet sawol net-fersifere as fersifere dielen. As de ôfstjoerder guon berjochtgedielten oarspronklik net ûntsiferje koene, lekke jo mooglik fertroulike ynformaasje dy't de ôfstjoerder oarspronklik net ûntsifere hat.
+    Oerwaach om alle sitearre tekst út jo antwurd oan dizze ôfstjoerder fuort te smiten.
+msg-compose-cannot-save-draft = Flater by it bewarjen fan konsept
+msg-compose-partially-encrypted-short = Pas op foar it lekken fan gefoelige ynformaasje – diels fersifere e-mailberjocht.
+quoted-printable-warn =
+    Jo hawwe kodearring ‘quoted-printable’ ynskeakele foar it ferstjoeren fan berjochten. Dit kin resultearje yn in net krekte ûntsifering en/of ferifikaasje fan jo berjocht.
+    Wolle jo it ferstjoeren fan ‘quoted-printable’-berjochten no útskeakelje?
+minimal-line-wrapping =
+    Jo hawwe rigelôfbrekking ynsteld op { $width } tekens. Foar in korrekte fersifering en/of ûndertekening moat dizze wearde op syn minst 68 wêze.
+    Wolle jo de rigelôfbrekking no wizigje yn 68 tekens?
+sending-hidden-rcpt = Bcc-ûntfangers (bline kopy) kinne net brûkt wurde by it ferstjoeren fan in fersifere berjocht. Smyt de bcc-ûntfangers fuort of ferpleats se nei it cc-fjild om dit fersifere berjocht te ferstjoeren.
+sending-news =
+    Fersifere ferstjoerbewurking ôfbrutsen.
+    Dit berjocht kin net fersifere wurde omdat de ûntfangers nijsgroepen befetsje. Ferstjoer it berjocht opnij sûnder fersifering.
+send-to-news-warning =
+    Warskôging: jo steane op it punt in fersifere e-mailberjocht nei in nijsgroep te stjoeren.
+    Dit wurdt ûntmoedige, omdat it allinnich sin hat as alle leden fan de groep it berjocht ûntsiferje kinne, d.w.s. it berjocht moat fersifere wurde mei de kaaien fan alle groepsdielnimmers. Stjoer dit berjocht allinnich as jo presys witte wat jo dogge.
+    Trochgean?
+save-attachment-header = Untsifere bylage bewarje
+no-temp-dir =
+    Kin gjin tydlike map fine om nei te skriuwen
+    Stel de omjouwingsfariabele TEMP yn
 dlg-button-view = &Werjaan
 # Strings used in encryption.jsm
 not-required = Flater – gjin fersifering fereaske
