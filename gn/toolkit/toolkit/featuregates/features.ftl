@@ -65,6 +65,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Kache kuatia ñepyrũguápe g̃uarã about:home henyhẽva ijehegui oñepyrũnguévo. Ko kache rembiaporã ha’e oikoporãve hag̃ua oñepyrũvo.
 experimental-features-print-preview-tab-modal =
     .label = Japojey jehecha ypy ñemonguatia
+experimental-features-print-preview-tab-modal-description = Ehechauka jehecha ypy ñemonguatia apopyahúva ha emoĩ jehecha ypy ñemonguatia ojepurukuaa hag̃ua macOS-pe. Ikatu ndoikói ha ndoikepái umi mboheko ñemonguatiagua. Eike hag̃ua opaite ñemoĩporã monguatiaguápe, eiporavo “Monguatia eipurúvo apopyvusu ñomongeta kora…” Monguatia rupa guive.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
