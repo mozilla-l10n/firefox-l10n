@@ -108,6 +108,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Gumamit ng makulay na itsura para sa mga button,
         menu, at mga window.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Gayahin ang itsura ng iyong operating
+        system para sa mga button, menu, at mga window.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Gayahin ang itsura ng iyong operating
+        system para sa mga button, menu, at mga window.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Gumamit ng maliwanag na itsura para sa mga button,
+        menu, at mga window.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Gumamit ng maliwanag na itsura para sa mga button,
+        menu, at mga window.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Gumamit ng madilim na itsura para sa mga button,
+        menu, at mga window.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Gumamit ng madilim na itsura para sa mga button,
+        menu, at mga window.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Gumamit ng makulay na itsura para sa mga button,
+        menu, at mga window.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Gumamit ng makulay na itsura para sa mga button,
+        menu, at mga window.
 
 ## Welcome full page string
 
