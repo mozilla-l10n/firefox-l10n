@@ -58,6 +58,10 @@ printui-primary-button = Print
 printui-primary-button-save = Save
 printui-cancel-button = Cancel
 printui-loading = Preparing Preview
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Print Preview
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
