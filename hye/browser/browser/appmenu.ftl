@@ -9,7 +9,7 @@ appmenuitem-update-banner =
     .label-update-downloading = Բեռնում{ -brand-shorter-name } թարմացում
 appmenuitem-protection-dashboard-title = Գաղտնիութեան վահանակ
 appmenuitem-customize-mode =
-    .label = Հարմարեցնել…
+    .label = Յարմարեցնել…
 
 ## Zoom Controls
 
@@ -26,7 +26,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ինչն է նոր
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
