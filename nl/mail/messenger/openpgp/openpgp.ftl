@@ -425,7 +425,7 @@ already-revoked = Deze sleutel is al ingetrokken.
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     U staat op het punt de sleutel ‘{ $identity }’ in te trekken.
-    U kunt met deze sleutel niet meer ondertekenen na distributie kunnen anderen niet meer met die sleutel coderen. U kunt de sleutel nog steeds gebruiken om oude berichten te ontsleutelen.
+    U kunt met deze sleutel niet meer ondertekenen en na distributie kunnen anderen niet meer met die sleutel coderen. U kunt de sleutel nog steeds gebruiken om oude berichten te ontsleutelen.
     Wilt u doorgaan?
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
