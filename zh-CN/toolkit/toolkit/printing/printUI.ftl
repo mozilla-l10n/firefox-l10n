@@ -31,7 +31,7 @@ printui-landscape = 横向
 printui-portrait = 纵向
 # Section title for the printer or destination device to target
 printui-destination-label = 打印机
-printui-destination-pdf-label = 保存为 PDF
+printui-destination-pdf-label = 另存为 PDF
 printui-more-settings = 更多设置
 printui-less-settings = 更少设置
 printui-paper-size-label = 纸张大小
