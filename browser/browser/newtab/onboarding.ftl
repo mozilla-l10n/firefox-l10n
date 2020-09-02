@@ -109,6 +109,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         שימוש בתצוגה צבעונית עבור כפתורים,
         תפריטים וחלונות.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        שימוש במראה של מערכת ההפעלה שלך
+        עבור כפתורים, תפריטים וחלונות.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        שימוש במראה של מערכת ההפעלה שלך
+        עבור כפתורים, תפריטים וחלונות.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        שימוש בתצוגה בהירה עבור כפתורים,
+        תפריטים וחלונות.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        שימוש בתצוגה בהירה עבור כפתורים,
+        תפריטים וחלונות.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        שימוש בתצוגה כהה עבור כפתורים,
+        תפריטים וחלונות.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        שימוש בתצוגה כהה עבור כפתורים,
+        תפריטים וחלונות.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        שימוש בתצוגה צבעונית עבור כפתורים,
+        תפריטים וחלונות.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        שימוש בתצוגה צבעונית עבור כפתורים,
+        תפריטים וחלונות.
 
 ## Welcome full page string
 
