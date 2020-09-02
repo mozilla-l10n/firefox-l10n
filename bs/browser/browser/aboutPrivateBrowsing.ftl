@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Pretražujte web
 about-private-browsing-not-private = Trenutno niste u privatnom prozoru.
 about-private-browsing-info-description = { -brand-short-name } briše vašu historiju pretraga i surfanja kada ugasite aplikaciju ili zatvorite sve tabove i prozore Privatnog surfanja. Iako vas ovo ne čini anonimnim web stranicama ili vašem internet provajderu, omogućava vam da ono što radite online zadržite privatnim od svih drugih korisnika ovog računara.
-
+about-private-browsing-need-more-privacy = Trebate više privatnosti?
+about-private-browsing-turn-on-vpn = Isprobajte { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
