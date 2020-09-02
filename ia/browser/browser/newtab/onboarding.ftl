@@ -108,6 +108,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Usa un apparentia colorate pro 
         buttones, menus e fenestras.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Heredita le apparentia de tu systema
+        operative pro buttones, menus e fenestras.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Heredita le apparentia de tu systema
+        operative pro buttones, menus e fenestras.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Usa un apparentia clar pro buttones,
+        menus e fenestras.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Usa un apparentia clar pro buttones,
+        menus e fenestras.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Usa un apparentia obscur pro 
+        buttones, menus e fenestras.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Usa un apparentia obscur pro 
+        buttones, menus e fenestras.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Usa un apparentia colorate pro 
+        buttones, menus e fenestras.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Usa un apparentia colorate pro 
+        buttones, menus e fenestras.
 
 ## Welcome full page string
 
