@@ -118,6 +118,36 @@ onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         Das Erscheinungsbild deines Betriebssystems
         für Schaltflächen, Menüs und Fenster übernehmen.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Ein helles Erscheinungsbild für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Ein helles Erscheinungsbild für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Ein dunkles Erscheinungsbild für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Ein dunkles Erscheinungsbild für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Ein farbenfrohes Erscheinungsbild für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Ein farbenfrohes Erscheinungsbild für Schaltflächen,
+        Menüs und Fenster verwenden.
 
 ## Welcome full page string
 
