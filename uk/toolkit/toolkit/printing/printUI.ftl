@@ -59,6 +59,10 @@ printui-primary-button = Надрукувати
 printui-primary-button-save = Зберегти
 printui-cancel-button = Скасувати
 printui-loading = Підготовка до попереднього перегляду
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Попередній перегляд
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

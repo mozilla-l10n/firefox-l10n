@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Покажчик спільного доступу
-
 webrtc-sharing-window = Ви надаєте спільний доступ до іншого вікна програми.
 webrtc-sharing-browser-window = Ви надаєте спільний доступ до { -brand-short-name }.
 webrtc-sharing-screen = Ви надаєте спільний доступ до цілого екрана.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Ваш мікрофон використовується спільно. Клацніть, щоб керувати.
 webrtc-camera-button =
     .title = Ваша камера використовується спільно. Клацніть, щоб керувати.
+webrtc-microphone-unmuted =
+    .title = Вимкнути мікрофон
+webrtc-microphone-muted =
+    .title = Увімкнути мікрофон
+webrtc-camera-unmuted =
+    .title = Вимкнути камеру
+webrtc-camera-muted =
+    .title = Увімкнути камеру
 webrtc-minimize =
     .title = Згорнути покажчик
