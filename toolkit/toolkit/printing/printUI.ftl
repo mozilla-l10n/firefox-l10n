@@ -60,6 +60,10 @@ printui-primary-button = Ćišćeć
 printui-primary-button-save = Składować
 printui-cancel-button = Přetorhnyć
 printui-loading = Ćišćerski přehlad přihotować
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Ćišćerski přehlad
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - dźělenski pokazowak
-
 webrtc-sharing-window = Dźěliće wokno druheho nałoženja.
 webrtc-sharing-browser-window = Dźěliće { -brand-short-name }.
 webrtc-sharing-screen = Dźěliće swoju cyłu wobrazowku.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Waš mikrofon so dźěli. Klikńće, zo byšće dźělenje wodźił.
 webrtc-camera-button =
     .title = Waša kamera so dźěli. Klikńće, zo byšće dźělenje wodźił.
+webrtc-microphone-unmuted =
+    .title = Mikrofon deaktiwizować
+webrtc-microphone-muted =
+    .title = Mikrofon aktiwizować
+webrtc-camera-unmuted =
+    .title = Kameru deaktiwizować
+webrtc-camera-muted =
+    .title = Kameru aktiwizować
 webrtc-minimize =
     .title = Pokazowak miniměrować
