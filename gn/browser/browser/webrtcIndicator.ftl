@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Purujovái jehechaukaha
-
 webrtc-sharing-window = Emoherakuãhína ambue tembipuru’i rovetã.
 webrtc-sharing-browser-window = Emoherakuãhína { -brand-short-name }.
 webrtc-sharing-screen = Emoherakuãhína ne mba’erechaha.
@@ -20,5 +19,11 @@ webrtc-microphone-button =
     .title = Ne ñe’ẽatãha oñemoherakuãhína. Eikutu ehechasérõ mba’éichapa emoherakuã.
 webrtc-camera-button =
     .title = Ne ra’ãngamýi oñemoherakuãhína. Eikutu ehechasérõ mba’éichapa emoherakuã.
+webrtc-microphone-unmuted =
+    .title = Embogue ñe’ẽatãha
+webrtc-microphone-muted =
+    .title = Emyandy ñe’ẽatãha
+webrtc-camera-unmuted =
+    .title = Embogue ta’ãngamýi
 webrtc-minimize =
     .title = Emomichĩ jehechaukaha
