@@ -108,6 +108,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         In kleurich uterlik brûke foar knoppen,
         menu‘s en finsters.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        It uterlik fan jo bestjoeringssysteem
+        oernimme foar knoppen, menu’s en finsters.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        It uterlik fan jo bestjoeringssysteem
+        oernimme foar knoppen, menu’s en finsters.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        In ljocht uterlik brûke foar knoppen,
+        menu‘s en finsters.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        In ljocht uterlik brûke foar knoppen,
+        menu‘s en finsters.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        In donker uterlik brûke foar knoppen,
+        menu‘s en finsters.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        In donker uterlik brûke foar knoppen,
+        menu‘s en finsters.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        In kleurich uterlik brûke foar knoppen,
+        menu‘s en finsters.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        In kleurich uterlik brûke foar knoppen,
+        menu‘s en finsters.
 
 ## Welcome full page string
 
