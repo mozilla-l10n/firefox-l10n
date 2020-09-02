@@ -108,6 +108,16 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Gunakan tampilan berwarna untuk
         tombol, menu, dan jendela.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Mengikuti tampilan dari sistem operasi
+        Anda untuk tombol, menu, dan jendela.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Mengikuti tampilan dari sistem operasi
+        Anda untuk tombol, menu, dan jendela.
 
 ## Welcome full page string
 
