@@ -435,6 +435,22 @@ revoke-key-not-present =
 revoke-key-already-revoked = De kaai 0x{ $keyId } is al ynlutsen.
 key-man-button-revoke-key = Kaai &ynlûke
 openpgp-key-revoke-success = Kaai mei sukses ynlutsen.
+after-revoke-info =
+    De kaai is ynlutsen.
+    Diel dizze publike kaai opnij troch dizze per e-mail te ferstjoeren of troch dizze nei kaaiservers op te laden, sadat oaren witte dat jo jo kaai ynlûkt hawwe.
+    Sa gau as de software dy't troch oare minsken brûkt wurdt oer de ynlûking ynformearre wurde, sil dizze jo âlde kaai net mear brûke.
+    As jo in nije kaai brûke foar itselde e-mailadres en jo foegje de nije publike kaai ta oan e-mailberjochten dy't jo ferstjoere, dan wurdt automatysk ynformaasje oer jo ynlutsen âlde kaai tafoege.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Ymportearje
+delete-key-title = OpenPGP-kaai fuortsmite
+delete-external-key-title = De eksterne GnuPG-kaai fuortsmite
+delete-external-key-description = Wolle jo dizze eksterne GnuPG-kaai-ID fuortsmite?
+key-in-use-title = OpenPGP-kaai wurdt op dit stuit brûkt
+delete-key-in-use-description = Kin net trochgean! De kaai dy't jo selektearre hawwe foar fuort te smiten wurdt op dit stuit brûkt troch dizze identiteit. Selektearje in oare kaai of selektearje der gjin en probearje it opnij.
+revoke-key-in-use-description = Kin net trochgean! De kaai dy't jo selektearre hawwe foar yn te lûken wurdt op dit stuit brûkt troch dizze identiteit. Selektearje in oare kaai of selektearje der gjin en probearje it opnij.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = It e-mailadres ‘{ $keySpec }’ kin net keppele wurde oan in kaai oan jo kaaihinger.
+key-error-key-id-not-found = De konfigurearre kaai-ID ‘{ $keySpec }’ kin net fûn wurde oan jo kaaihinger.
 # Strings used in trust.jsm
 key-valid-unknown = ûnbekend
 key-valid-invalid = ûnjildich
