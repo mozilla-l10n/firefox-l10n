@@ -17,11 +17,11 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "დღე">
 
-<!ENTITY whitelistHeader.label "წერილის ჯართად ავტომატურად მონიშვნის გაუქმება თუ გამომგზავნი აქაა: ">
+<!ENTITY whitelistHeader.label "წერილის ჯართად მონიშვნის არიდება, თუ გამომგზავნს შეიცავს:">
 <!ENTITY whitelistHeader.accesskey "D">
 
-<!ENTITY ispHeadersWarning.label "თუ ჩართულია, &brandShortName; ამ გარე კლასიფიკატორის გზავნილებს ავტომატურად მიიჩნევს ჯართად.">
-<!ENTITY ispHeaders.label "ჯართის თავსართების ნდობა თუ მითითებულია: ">
+<!ENTITY ispHeadersWarning.label "თუ მოქმედია, &brandShortName; გზავნილებს ავტომატურად მიიჩნევს ჯართად, ამ გარე მახარისხებლების დახმარებით.">
+<!ENTITY ispHeaders.label "ჯართის თავსართების ნდობა, რომელთაც უთითებს:">
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "მონიშნული">
