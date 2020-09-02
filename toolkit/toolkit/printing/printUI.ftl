@@ -57,6 +57,10 @@ printui-primary-button = 列印
 printui-primary-button-save = 儲存
 printui-cancel-button = 取消
 printui-loading = 正在準備預覽列印
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = 預覽列印
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
