@@ -23,8 +23,8 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "„გაგზავნილი“ წერილების საქაღალდეში:">
 <!ENTITY sentFolderOn.accesskey "ზ">
-<!ENTITY sentInOtherFolder.label "სხვა საქაღალდე:">
-<!ENTITY sentInOtherFolder.accesskey "ვ">
+<!ENTITY sentInOtherFolder.label "სხვაგან:">
+<!ENTITY sentInOtherFolder.accesskey "ს">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "წერილთა არქივები">
 <!ENTITY keepArchives.label "წერილთა არქივების შენახვა:">
@@ -33,18 +33,18 @@
 <!ENTITY archiveHierarchyButton.accesskey "ა">
 <!ENTITY archivesFolderOn.label "საქაღალდეში „არქივი“:">
 <!ENTITY archivesFolderOn.accesskey "ლ">
-<!ENTITY archiveInOtherFolder.label "სხვა:">
+<!ENTITY archiveInOtherFolder.label "სხვაგან:">
 <!ENTITY archiveInOtherFolder.accesskey "ვ">
 <!ENTITY specialFolders.label "წინასწარი ნამუშევრები და ნიმუშები">
 <!ENTITY keepDrafts2.label "წინასწარი ნამუშევრის დატოვება:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "საქაღალდეში „წინასწარი“:">
 <!ENTITY draftsFolderOn.accesskey "წ">
-<!ENTITY draftInOtherFolder.label "სხვა:">
-<!ENTITY draftInOtherFolder.accesskey "ს">
+<!ENTITY draftInOtherFolder.label "სხვაგან:">
+<!ENTITY draftInOtherFolder.accesskey "გ">
 <!ENTITY keepTemplates.label "წერილთა თარგების შენახვა:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "საქაღალდეში „თარგები“:">
 <!ENTITY templatesFolderOn.accesskey "გ">
-<!ENTITY templateInOtherFolder.label "სხვა:">
-<!ENTITY templateInOtherFolder.accesskey "ვ">
+<!ENTITY templateInOtherFolder.label "სხვაგან:">
+<!ENTITY templateInOtherFolder.accesskey "ნ">
