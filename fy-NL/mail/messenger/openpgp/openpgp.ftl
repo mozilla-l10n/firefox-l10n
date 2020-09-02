@@ -451,6 +451,21 @@ revoke-key-in-use-description = Kin net trochgean! De kaai dy't jo selektearre h
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = It e-mailadres ‘{ $keySpec }’ kin net keppele wurde oan in kaai oan jo kaaihinger.
 key-error-key-id-not-found = De konfigurearre kaai-ID ‘{ $keySpec }’ kin net fûn wurde oan jo kaaihinger.
+key-error-not-accepted-as-personal = Jo hawwe net befêstige dat de kaai mei ID ‘{ $keySpec }’ jo persoanlike kaai is.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = De selektearre funksje is net beskikber yn de offlinemodus. Gean online en probearje it opnij.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Wy kinne gjin kaai fine dy't oerienkomt mei de opjûne sykkritearia.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Flater – kaaiekstraksjeopdracht mislearre
+# Strings used in keyRing.jsm
+fail-cancel = Flater – kaaiûntfangst annulearre troch brûker
+not-first-block = Flater – earste OpenPGP-blok is gjin publyk kaaiblok
+import-key-confirm = Yn berjocht ynsluten publike kaai(en) ymportearje?
+fail-key-import = Flater – ymportearjen fan kaai mislearre
+file-write-failed = Kin net nei bestân { $output } skriuwe
+no-pgp-block = Flater – gjin jildich armored OpenPGP-gegevensblok fûn
+confirm-permissive-import = Ymportearjen mislearre. De kaai dy't jo probearje te ymportearjen, is mooglik skansearre of brûkt ûnbekende attributen. Wolle jo probearje de krekte dielen te ymportearjen? Dit kin der ta liede dat net folslein en net brûkbere kaaien ymportearre wurde.
 # Strings used in trust.jsm
 key-valid-unknown = ûnbekend
 key-valid-invalid = ûnjildich
@@ -466,6 +481,11 @@ key-trust-group = (groep)
 import-key-file = OpenPGP-kaaibestân ymportearje
 import-rev-file = OpenPGP-ynlûkingsbestân ymportearje
 gnupg-file = GnuPG-bestannen
+import-keys-failed = It ymportearjen fan de kaaien is mislearre
+passphrase-prompt = Fier de wachtwurdsin yn wêrmei't de folgjende kaai ûntskoattele wurdt: { $key }
+file-to-big-to-import = Dit bestân is te grut. Ymportearje gjin grutte set kaaien tagelyk.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Ynlûkingssertifikaat meitsje en bewarje
 msg-compose-details-button-label = Details…
 msg-compose-details-button-access-key = D
 dlg-button-view = &Werjaan
