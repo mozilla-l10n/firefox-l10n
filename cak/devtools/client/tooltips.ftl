@@ -53,5 +53,6 @@ inactive-text-overflow-when-no-overflow-fix = Tatojtob'ej natz'aqatisaj <strong>
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> man koch'on ta pa re taq okik'amaya'l re':
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> jun tojtob'enel b'anikil.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Tetamäx ch'aqa' chik</span> chi rij <strong>{ $rootProperty }</strong>
