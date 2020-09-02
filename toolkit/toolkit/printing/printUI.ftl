@@ -58,6 +58,10 @@ printui-primary-button = ამობეჭდვა
 printui-primary-button-save = შენახვა
 printui-cancel-button = გაუქმება
 printui-loading = შეთვალიერების მომზადება
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = ამოსაბეჭდის შეთვალიერება
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
