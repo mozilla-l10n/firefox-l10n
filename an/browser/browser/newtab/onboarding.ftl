@@ -102,6 +102,34 @@ onboarding-multistage-theme-tooltip-dark =
 onboarding-multistage-theme-tooltip-alpenglow =
     .title = Usar una apariencia colorida pa botons, menús y finestras.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Hereda l'apariencia d'o tuyo sistema operativo
+        pa botons, menus y finestras.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Hereda l'apariencia d'o tuyo sistema operativo
+        pa botons, menus y finestras.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title = Usar una apariencia clara para botons, menus y finestras.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description = Usar una apariencia clara para botons, menus y finestras.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title = Usar una apariencia fosca pa botons, menús y finestras.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description = Usar una apariencia fosca pa botons, menús y finestras.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title = Usar una apariencia colorida pa botons, menús y finestras.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description = Usar una apariencia colorida pa botons, menús y finestras.
 
 ## Welcome full page string
 
