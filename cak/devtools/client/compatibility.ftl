@@ -34,6 +34,14 @@ compatibility-target-browsers-header = Raponel Okik'amaya'l
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } nojb'äl
+       *[other] { $number } taq nojb'äl
+    }
 compatibility-no-issues-found = Majun k'ayewal rik'in k'amonem xilitäj.
 compatibility-close-settings-button =
     .title = Ketz'apïx taq runuk'ulem
