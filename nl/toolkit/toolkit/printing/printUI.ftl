@@ -58,6 +58,10 @@ printui-primary-button = Afdrukken
 printui-primary-button-save = Opslaan
 printui-cancel-button = Annuleren
 printui-loading = Voorbeeld voorbereiden
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Afdrukvoorbeeld
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
