@@ -57,6 +57,10 @@ printui-primary-button = 인쇄
 printui-primary-button-save = 저장
 printui-cancel-button = 취소
 printui-loading = 미리보기 준비 중
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = 인쇄 미리보기
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
