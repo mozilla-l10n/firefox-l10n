@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "მიღებული წერილების საქაღალდის გასუფთავება („წაშლა“) გასვლისას">
 <!ENTITY expungeOnExit.accesskey "ი">
-<!ENTITY emptyTrashOnExit.label "&quot;ურნის გასუფთავება&quot; გასვლისას">
+<!ENTITY emptyTrashOnExit.label "ურნის გასუფთავება გასვლისას">
 <!ENTITY emptyTrashOnExit.accesskey "უ">
 <!ENTITY loginAtStartup.label "ახალი წერილების შემოწმება გაშვებისას">
 <!ENTITY loginAtStartup.accesskey "ა">
