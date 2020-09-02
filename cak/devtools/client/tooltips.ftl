@@ -54,5 +54,10 @@ inactive-text-overflow-when-no-overflow-fix = Tatojtob'ej natz'aqatisaj <strong>
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> man koch'on ta pa re taq okik'amaya'l re':
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> xok jun tojtob'enel b'anikil, ri ojer chik chuwäch ri W3C taq b'eyal. Man koch'el ta pa re taq okik'amaya'l re':
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> xok jun tojtob'enel b'anikil ri ojer chik chuwäch ri W3C taq b'anikil.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> ojer chik chuwäch ri W3C taq b'eyal. Man koch'el ta pa re taq okik'amaya'l re':
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> ojer chik chuwäch ri W3C taq b'eyal.
+css-compatibility-experimental-message = <strong>{ $property }</strong> jun tojtob'enel b'anikil. Man koch'el ta pa re taq okik'amaya'l re':
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> jun tojtob'enel b'anikil.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Tetamäx ch'aqa' chik</span> chi rij <strong>{ $rootProperty }</strong>
