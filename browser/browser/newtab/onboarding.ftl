@@ -108,6 +108,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Een kleurrijk uiterlijk gebruiken voor knoppen,
         menu‘s en vensters.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Het uiterlijk van uw besturingssysteem
+        overnemen voor knoppen, menu’s en vensters.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Het uiterlijk van uw besturingssysteem
+        overnemen voor knoppen, menu’s en vensters.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Een licht uiterlijk gebruiken voor knoppen,
+        menu’s en vensters.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Een licht uiterlijk gebruiken voor knoppen,
+        menu’s en vensters.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Een donker uiterlijk gebruiken voor knoppen,
+        menu’s en vensters.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Een donker uiterlijk gebruiken voor knoppen,
+        menu’s en vensters.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Een kleurrijk uiterlijk gebruiken voor knoppen,
+        menu‘s en vensters.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Een kleurrijk uiterlijk gebruiken voor knoppen,
+        menu‘s en vensters.
 
 ## Welcome full page string
 
