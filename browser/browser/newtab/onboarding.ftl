@@ -108,6 +108,46 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Folosește un aspect colorat
         pentru butoane, meniuri și ferestre.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Preia aspectul butoanelor, meniurilor și
+        ferestrelor din sistemul de operare.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Preia aspectul butoanelor, meniurilor și
+        ferestrelor din sistemul de operare.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Folosește un aspect luminos pentru
+        butoane, meniuri și ferestre.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Folosește un aspect luminos pentru
+        butoane, meniuri și ferestre.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Folosește un aspect întunecat pentru
+        butoane, meniuri și ferestre.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Folosește un aspect întunecat pentru
+        butoane, meniuri și ferestre.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Folosește un aspect colorat
+        pentru butoane, meniuri și ferestre.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Folosește un aspect colorat
+        pentru butoane, meniuri și ferestre.
 
 ## Welcome full page string
 
