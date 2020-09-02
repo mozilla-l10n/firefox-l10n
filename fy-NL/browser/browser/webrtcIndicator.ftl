@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Yndikator foar dielen
-
 webrtc-sharing-window = Jo diele in oar tapassingsfinster.
 webrtc-sharing-browser-window = Jo diele { -brand-short-name }.
 webrtc-sharing-screen = Jo diele jo folsleine skerm.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Jo mikrofoan wurdt dield. Klik om dielen te behearen.
 webrtc-camera-button =
     .title = Jo kamera wurdt dield. Klik om dielen te behearen.
+webrtc-microphone-unmuted =
+    .title = Mikrofoan útskeakelje
+webrtc-microphone-muted =
+    .title = Mikrofoan ynskeakelje
+webrtc-camera-unmuted =
+    .title = Kamera útskeakelje
+webrtc-camera-muted =
+    .title = Kamera ynskeakelje
 webrtc-minimize =
     .title = Yndikator minimalisearje
