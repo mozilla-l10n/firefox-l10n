@@ -18,10 +18,10 @@
 <!ENTITY bccAddress.label "ფარული ასლები (BCC) ამ მისამართებზე:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "გამოყავით მისამართები მძიმით">
-<!ENTITY saveMessageDlg.label "თანხმობის დიალოგის ჩვენება წერილების შენახვისას">
+<!ENTITY saveMessageDlg.label "დადასტურების ფანჯრის ჩვენება წერილების შენახვისას">
 <!ENTITY saveMessageDlg.accesskey "ჩ">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "„გაგზავნილი“ წერილების საქაღალდე:">
+<!ENTITY sentFolderOn.label "„გაგზავნილი“ წერილების საქაღალდეში:">
 <!ENTITY sentFolderOn.accesskey "ზ">
 <!ENTITY sentInOtherFolder.label "სხვა საქაღალდე:">
 <!ENTITY sentInOtherFolder.accesskey "ვ">
@@ -44,7 +44,7 @@
 <!ENTITY draftInOtherFolder.accesskey "ს">
 <!ENTITY keepTemplates.label "წერილთა თარგების შენახვა:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "საქაღალდეში «თარგები»:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn.label "საქაღალდეში „თარგები“:">
+<!ENTITY templatesFolderOn.accesskey "გ">
 <!ENTITY templateInOtherFolder.label "სხვა:">
-<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY templateInOtherFolder.accesskey "ვ">
