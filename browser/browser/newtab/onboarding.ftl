@@ -102,6 +102,36 @@ onboarding-multistage-theme-tooltip-dark =
         Koristite tamni izgled za tipke,
         izbornike i prozore.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Naslijedite izgled svog operativnog
+        sustava za tipke, izbornike i prozore.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Naslijedite izgled svog operativnog
+        sustava za tipke, izbornike i prozore.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Koristite svijetli izgled za tipke,
+        izbornike i prozore.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Koristite svijetli izgled za tipke,
+        izbornike i prozore.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Koristite tamni izgled za tipke,
+        izbornike i prozore.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Koristite tamni izgled za tipke,
+        izbornike i prozore.
 
 ## Welcome full page string
 
