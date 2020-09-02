@@ -118,6 +118,36 @@ onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         Mengikuti tampilan dari sistem operasi
         Anda untuk tombol, menu, dan jendela.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Gunakan tampilan cerah untuk
+        tombol, menu, dan jendela.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Gunakan tampilan cerah untuk
+        tombol, menu, dan jendela.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Gunakan tampilan gelap untuk
+        tombol, menu, dan jendela.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Gunakan tampilan gelap untuk
+        tombol, menu, dan jendela.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Gunakan tampilan berwarna untuk
+        tombol, menu, dan jendela.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Gunakan tampilan berwarna untuk
+        tombol, menu, dan jendela.
 
 ## Welcome full page string
 
