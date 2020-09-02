@@ -17,7 +17,6 @@ webrtc-indicator-title =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
-
 webrtc-sharing-window = Sdílíte okno jiné aplikace.
 webrtc-sharing-browser-window =
     Sdílíte { -brand-short-name.gender ->
@@ -32,5 +31,13 @@ webrtc-microphone-button =
     .title = Váš mikrofón je sdílen. Pro úpravu sdílení klepněte.
 webrtc-camera-button =
     .title = Vaše kamera je sdílena. Pro úpravu sdílení klepněte.
+webrtc-microphone-unmuted =
+    .title = Vypnout mikrofon
+webrtc-microphone-muted =
+    .title = Zapnout mikrofon
+webrtc-camera-unmuted =
+    .title = Vypnout kameru
+webrtc-camera-muted =
+    .title = Zapnout kameru
 webrtc-minimize =
     .title = Minimalizovat ukazatel

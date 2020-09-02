@@ -59,6 +59,10 @@ printui-primary-button = Tisk
 printui-primary-button-save = Uložit
 printui-cancel-button = Zrušit
 printui-loading = Příprava náhledu
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Náhled tisku
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
