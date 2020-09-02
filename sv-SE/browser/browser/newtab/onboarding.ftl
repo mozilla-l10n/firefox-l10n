@@ -111,6 +111,16 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Använd ett färgglatt utseende för knappar,
         menyer och fönster.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Anpassa utseendet på knappar, menyer
+        och fönster efter operativsystemet.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Anpassa utseendet på knappar, menyer
+        och fönster efter operativsystemet.
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
