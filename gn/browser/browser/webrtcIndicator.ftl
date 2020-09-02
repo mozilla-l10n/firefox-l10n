@@ -25,5 +25,7 @@ webrtc-microphone-muted =
     .title = Emyandy ñe’ẽatãha
 webrtc-camera-unmuted =
     .title = Embogue ta’ãngamýi
+webrtc-camera-muted =
+    .title = Emyandy ta’ãngamýi
 webrtc-minimize =
     .title = Emomichĩ jehechaukaha
