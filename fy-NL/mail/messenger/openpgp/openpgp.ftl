@@ -543,14 +543,36 @@ save-attachment-header = Untsifere bylage bewarje
 no-temp-dir =
     Kin gjin tydlike map fine om nei te skriuwen
     Stel de omjouwingsfariabele TEMP yn
+possibly-pgp-mime = Mooglik PGP/MIME-fersifere of -ûndertekene berjocht; brûk de funksje ‘Untsiferje/Ferifiearje’ om te ferifiearjen
+cannot-send-sig-because-no-own-key = Kin dit berjocht net digitaal ûndertekenje, omdat jo noch gjin end-to-end-fersifering foar <{ $key }> konfigurearre hawwe
+cannot-send-enc-because-no-own-key = Kin dit berjocht net fersifere fersjoere, omdat jo noch gjin end-to-end-fersifering foar <{ $key }> konfigurearre hawwe
+# Strings used in decryption.jsm
+do-import-multiple =
+    De folgjende kaaien ymportearje?
+    { $key }
+do-import-one = { $name } ({ $id }) ymportearje?
+cant-import = Flater by ymportearjen publike kaai
+unverified-reply = It ynsprongen berjochtgedielte (antwurd) is wierskynlik wizige
+key-in-message-body = Der is in kaai fûn yn de berjochttekst. Klik op ‘Kaai ymportearje’ om de kaai te ymportearjen
+sig-mismatch = Flater – hantekening komt net oerien
+invalid-email = Flater – ûnjildich(ge) e-mailadres(sen)
+attachment-pgp-key =
+    De bylage ‘{ $name }’ dy't jo probearje te iepenjen liket in OpenPGP-kaaibestân te wêzen.
+    Klik op ‘Ymportearje’ om de kaaien te ymportearjen of op ‘Werjaan’ om de ynhâld fan it bestân yn in browserfinster te besjen
 dlg-button-view = &Werjaan
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Untsifere berjocht (skansearre PGP-e-mailyndieling, wierskynlik feroarsake troch in âlde Exchange-server, is wersteld, dêrom is it resultaat mooglik net perfekt te lêzen)
 # Strings used in encryption.jsm
 not-required = Flater – gjin fersifering fereaske
 # Strings used in windows.jsm
 no-photo-available = Gjin foto beskikber
 error-photo-path-not-readable = Fotopaad '{ $photo }' is net lêsber
+debug-log-title = OpenPGP-debuglochboek
+# Strings used in dialog.jsm
+repeat-prefix = Werhellingsfrekwinsje warskôging: { $count }
 repeat-suffix-singular = kear.
 repeat-suffix-plural = kear.
+no-repeat = Dizze warskôging wurdt net mear toand.
 dlg-button-ok = &OK
 dlg-button-close = &Slute
 dlg-button-cancel = &Annulearje
