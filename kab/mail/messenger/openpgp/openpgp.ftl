@@ -37,6 +37,7 @@ openpgp-key-expiry-label =
     .label = Azemz n taggara
 openpgp-key-id-label =
     .label = Asulay n tsarut
+openpgp-cannot-change-expiry = Ta d tasarut s tɣessa tuddist, Abeddel n uzemz-is n taggara ur yettwasefrak ara.
 openpgp-key-man-title =
     .title = Asefrak n tsarut OpenPGP
 openpgp-key-man-generate =
