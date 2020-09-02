@@ -486,6 +486,28 @@ passphrase-prompt = Fier de wachtwurdsin yn wêrmei't de folgjende kaai ûntskoa
 file-to-big-to-import = Dit bestân is te grut. Ymportearje gjin grutte set kaaien tagelyk.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Ynlûkingssertifikaat meitsje en bewarje
+revoke-cert-ok = It ynlûkingssertifikaat is mei sukses makke. Jo kinne it brûke om jo publike kaai ûnjildich te meitsjen, bygelyks foar it gefal jo jo geheime kaai ferlieze soe.
+revoke-cert-failed = It ynlûkingssertifikaat koe net makke wurde.
+gen-going = Kaai wurdt al oanmakke!
+keygen-missing-user-name = Der is gjin namme foar de selektearre account/identiteit opjûn. Fier yn de accountynstellingen in wearde yn it fjild ‘Jo namme’ yn.
+expiry-too-short = Jo kaai moat op syn minst ien dei jildich wêze.
+expiry-too-long = Jo kinne gjin kaai oanmeitsje dy't oer mear as 100 jier ferrint.
+key-confirm = Publike en geheime kaai foar ‘{ $id }’ oanmeitsje?
+key-man-button-generate-key = Kaai &oanmeitsje
+key-abort = Kaaioanmaak ôfbrekke?
+key-man-button-generate-key-abort = Kaaioanmaak &ôfbrekke
+key-man-button-generate-key-continue = Kaaioanmaak &trochsette
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Flater - ûntsiferjen mislearre
+fix-broken-exchange-msg-failed = Koe berjocht net reparearje.
+attachment-no-match-from-signature = Kin hantekeningbestân ‘{ $attachment }’ net keppelje oan in bylage
+attachment-no-match-to-signature = Kin bylage ‘{ $attachment }’ net keppelje oan in hantekeningbestân
+signature-verified-ok = De hantekening foar bylage { $attachment } is mei sukses ferifiearre
+signature-verify-failed = De hantekening foar bylage { $attachment } kin net ferifiearre  wurde
+decrypt-ok-no-sig =
+    Warskôging
+    It ûntsiferjen is slagge, mar de hantekening kin net korrekt ferifiearre wurde
+msg-ovl-button-cont-anyway = Dochs &trochgean
 msg-compose-details-button-label = Details…
 msg-compose-details-button-access-key = D
 dlg-button-view = &Werjaan
