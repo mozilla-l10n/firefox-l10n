@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - 공유 표시기
-
 webrtc-sharing-window = 다른 응용 프로그램 창을 공유하고 있습니다.
 webrtc-sharing-browser-window = { -brand-short-name }를 공유하고 있습니다.
 webrtc-sharing-screen = 전체 화면을 공유하고 있습니다.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = 마이크를 공유하고 있습니다. 공유를 제어하려면 누르세요.
 webrtc-camera-button =
     .title = 카메라를 공유하고 있습니다. 공유를 제어하려면 누르세요.
+webrtc-microphone-unmuted =
+    .title = 마이크 끄기
+webrtc-microphone-muted =
+    .title = 마이크 켜기
+webrtc-camera-unmuted =
+    .title = 카메라 끄기
+webrtc-camera-muted =
+    .title = 카메라 켜기
 webrtc-minimize =
     .title = 표시기 최소화
