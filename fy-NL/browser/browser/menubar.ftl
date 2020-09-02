@@ -225,7 +225,7 @@ menu-preferences =
            *[other] F
         }
 menu-tools-layout-debugger =
-    .label = Layout Debugger
+    .label = Lay-out-debugger
     .accesskey = L
 
 ## Window Menu
