@@ -128,6 +128,16 @@ onboarding-multistage-theme-description-light =
     .aria-description =
         Використовувати світлий вигляд
         кнопок, меню та вікон.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Використовувати темний вигляд
+        кнопок, меню та вікон.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Використовувати темний вигляд
+        кнопок, меню та вікон.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
