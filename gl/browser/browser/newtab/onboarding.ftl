@@ -106,6 +106,42 @@ onboarding-multistage-theme-tooltip-alpenglow =
         Use un aspecto colorido para botóns,
         menús e xanelas.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title = Herdar o aspecto do seu sistema operativo para botóns, menús e xanelas.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description = Herdar o aspecto do seu sistema operativo para botóns, menús e xanelas.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Use un aspecto claro para os botóns,
+        menús e xanelas.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Use un aspecto claro para os botóns,
+        menús e xanelas.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Use un aspecto escuro para botóns,
+        menús e xanelas.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Use un aspecto escuro para botóns,
+        menús e xanelas.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Use un aspecto colorido para botóns,
+        menús e xanelas.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Use un aspecto colorido para botóns,
+        menús e xanelas.
 
 ## Welcome full page string
 
