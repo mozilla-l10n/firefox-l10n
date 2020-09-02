@@ -422,6 +422,19 @@ keyring-photo = Foto
 user-att-photo = Brûkerskenmerk (JPEG-ôfbylding)
 # Strings in key.jsm
 already-revoked = Dizze kaai is al ynlutsen.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Jo steane op it punt de kaai ‘{ $identity }’ yn te lûken.
+    Jo kinne mei dizze kaai net mear ûndertekenje en nei distribúsje kinne oaren net mear mei dy kaai kodearje. Jo kinne de kaai noch hieltyd brûke om âlde berjochten te ûntsiferjen.
+    Wolle jo trochgean?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Jo hawwe gjin kaai (0x{ $keyId }) dy't oerienkomt mei dit ynlûkingssertifikaat!
+    As jo jo kaai kwyt binne, moatte jo dizze ymportearje (bygelyks fan in kaaiserver) eardat jo it ynlûkingssertifikaat ymportearje!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = De kaai 0x{ $keyId } is al ynlutsen.
+key-man-button-revoke-key = Kaai &ynlûke
+openpgp-key-revoke-success = Kaai mei sukses ynlutsen.
 # Strings used in trust.jsm
 key-valid-unknown = ûnbekend
 key-valid-invalid = ûnjildich
