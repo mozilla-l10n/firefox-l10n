@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = ‏{ -brand-short-name } - מחוון שיתוף
-
 webrtc-sharing-window = חלון של יישום אחר משותף כעת.
 webrtc-sharing-browser-window = ‏{ -brand-short-name } משותף כעת.
 webrtc-sharing-screen = כל המסך שלך משותף כעת
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = המיקרופון שלך משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
 webrtc-camera-button =
     .title = המצלמה שלך משותפת כעת. יש ללחוץ כדי לשלוט על השיתוף.
+webrtc-microphone-unmuted =
+    .title = כיבוי המיקרופון
+webrtc-microphone-muted =
+    .title = הפעלת המיקרופון
+webrtc-camera-unmuted =
+    .title = כיבוי המצלמה
+webrtc-camera-muted =
+    .title = הפעלת המצלמה
 webrtc-minimize =
     .title = מזעור המחוון
