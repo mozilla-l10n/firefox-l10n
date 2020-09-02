@@ -21,6 +21,8 @@ experimental-features-media-avif-description = Ko tembiapoite myandypyre, { -bra
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Ore rekome’ẽ tuichaháicha ñemomba’apo <a data-l10n-name="mdn-inputmode">inputmode</a> hekopyahúma he’iháicha <a data-l10n-name="whatwg">WHATWG oipotahaichaite</a>, hákatu noroikotevẽi gueteri ñemoambueve, techapyrãramo ojepurukuaávo tetepy oñembosako’ikuaáva. Eporandu <a data-l10n-name="bugzilla">bug 1205133</a> eikuaaporãve hag̃ua.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
