@@ -508,8 +508,18 @@ decrypt-ok-no-sig =
     Warskôging
     It ûntsiferjen is slagge, mar de hantekening kin net korrekt ferifiearre wurde
 msg-ovl-button-cont-anyway = Dochs &trochgean
+enig-content-note = *Bylagen by dit berjocht binne net ûndertekene of fersifere*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Berjocht ferstjoere
 msg-compose-details-button-label = Details…
 msg-compose-details-button-access-key = D
+send-aborted = It ferstjoeren is ôfbrutsen.
+key-not-trusted = Net genôch fertrouwen foar kaai ‘{ $key }’
+key-not-found = Kaai ‘{ $key }’ net fûn
+key-revoked = Kaai ‘{ $key }’ ynlutsen
+key-expired = Kaai ‘{ $key }’ is ferfallen
+msg-compose-internal-error = Der is in ynterne flater bard.
+keys-to-export = Selektearje yn te foegjen OpenPGP-kaaien
 dlg-button-view = &Werjaan
 # Strings used in encryption.jsm
 not-required = Flater – gjin fersifering fereaske
