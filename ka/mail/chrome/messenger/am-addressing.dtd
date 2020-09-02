@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-addressing.xul -->
-
 <!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "წერილების შექმნა და დამისამართება">
@@ -19,8 +17,6 @@
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "არა">
 
-<!-- am-addressing.xul -->
-
 <!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "წერილების შექმნა">
@@ -34,7 +30,7 @@
 <!ENTITY quoting.accesskey                    "ც">
 <!ENTITY aboveQuote.label                     "ჩემი პასუხის დაწყება ციტირების ზემოთ">
 <!ENTITY belowQuote.label                     "ჩემი პასუხის დაწყება ციტირების ქვემოთ">
-<!ENTITY selectAndQuote.label                 "ციტირების შერჩევა">
+<!ENTITY selectAndQuote.label                 "შერჩევა ციტატის">
 <!ENTITY place.label                          "და ჩემი ხელმოწერის განთავსება">
 <!ENTITY place.accesskey                      "ხ">
 <!ENTITY belowText.label                      "ციტირების ქვემოთ (სასურველია)">

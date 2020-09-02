@@ -5,7 +5,6 @@
 app-manager-window-dialog =
     .title = პროგრამის პარამეტრები
     .style = width: 30em; min-height: 20em;
-
 remove-app-button =
     .label = მოცილება
-    .accesskey = R
+    .accesskey = მ
