@@ -111,7 +111,7 @@ about-telemetry-slow-sql-main = Stadige SQL-ynstruksjes op haadthread
 about-telemetry-slow-sql-other = Stadige SQL-ynstruksjes op helpthreads
 about-telemetry-slow-sql-hits = Hits
 about-telemetry-slow-sql-average = Gem. tiid (ms)
-about-telemetry-slow-sql-statement = Statement
+about-telemetry-slow-sql-statement = Ynstruksje
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = Add-on-ID
 about-telemetry-addon-table-details = Details
