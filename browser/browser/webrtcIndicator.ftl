@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Megosztásjelző
-
 webrtc-sharing-window = Egy másik alkalmazásablakot oszt meg.
 webrtc-sharing-browser-window = A { -brand-short-name }ot osztja meg.
 webrtc-sharing-screen = A teljes képernyőt megosztja.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Mikrofonja meg van osztva. Kattintson a megosztási beállításokhoz.
 webrtc-camera-button =
     .title = Kamerája meg van osztva. Kattintson a megosztási beállításokhoz.
+webrtc-microphone-unmuted =
+    .title = Mikrofon kikapcsolása
+webrtc-microphone-muted =
+    .title = Mikrofon bekapcsolása
+webrtc-camera-unmuted =
+    .title = Kamera kikapcsolása
+webrtc-camera-muted =
+    .title = Kamera bekapcsolása
 webrtc-minimize =
     .title = A jelző minimalizálása

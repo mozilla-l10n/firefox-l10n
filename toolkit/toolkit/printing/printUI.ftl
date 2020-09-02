@@ -58,6 +58,10 @@ printui-primary-button = Nyomtatás
 printui-primary-button-save = Mentés
 printui-cancel-button = Mégse
 printui-loading = Előnézet előkészítése
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Nyomtatási kép
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
