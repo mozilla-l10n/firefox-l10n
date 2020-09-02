@@ -11,7 +11,7 @@ change-password-window =
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Security Device: { $tokenName }
-change-password-old = Kasalukuyang na password:
+change-password-old = Kasalukuyang password:
 change-password-new = Bagong password:
 change-password-reenter = Bagong password (ulit):
 
