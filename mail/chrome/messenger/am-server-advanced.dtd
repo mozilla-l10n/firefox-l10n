@@ -5,13 +5,13 @@
 <!ENTITY serverAdvanced.label "ანგარიშის დამატებითი პარამეტრები">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP სერვერის საქაღალდე:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "დ">
 <!ENTITY usingSubscription.label "მხოლოდ გამოწერილი საქაღალდეების ჩვენება">
-<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY usingSubscription.accesskey "წ">
 <!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ საქაღალდეებთანაც, რომლებიც ქვესაქაღალდეებსა და წერილებს შეიცავენ">
-<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY dualUseFolders.accesskey "ქ">
 <!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების მაქსიმალური რაოდენობა ბუფერირებისთვის">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.accesskey "მ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "ეს პარამეტრები მიუთითებს თქვენი IMAP სერვერის სახელთა არეებს">
 <!ENTITY personalNamespace.label "სახელთა პირადი არე:">
@@ -26,6 +26,6 @@
 <!ENTITY accountInbox.label "ანგარიშის საფოსტო ყუთი">
 <!ENTITY accountInbox.accesskey "ს">
 <!ENTITY deferToServer.label "მიღებული წერილების საქაღალდე სხვა ანგარიშისთვის">
-<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferToServer.accesskey "ხ">
 <!ENTITY deferGetNewMail.label "სერვერის მითითება ახალი ფოსტის მიღებისას">
-<!ENTITY deferGetNewMail.accesskey "I">
+<!ENTITY deferGetNewMail.accesskey "თ">
