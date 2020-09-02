@@ -60,6 +60,10 @@ printui-primary-button = Śišćaś
 printui-primary-button-save = Składowaś
 printui-cancel-button = Pśetergnuś
 printui-loading = Śišćarski pśeglěd pśigótowaś
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Śišćarski pśeglěd
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
