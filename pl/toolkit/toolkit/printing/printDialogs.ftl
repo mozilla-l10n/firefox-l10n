@@ -92,7 +92,7 @@ hf-page-and-total =
 hf-custom =
     .label = Własny…
 print-preview-window =
-    .title = Podgląd wiadomości
+    .title = Podgląd wydruku
 print-title =
     .value = Tytuł:
 print-preparing =
@@ -103,7 +103,6 @@ print-window =
     .title = Drukowanie
 print-complete =
     .value = Ukończono drukowanie.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
