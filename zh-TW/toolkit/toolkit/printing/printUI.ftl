@@ -13,7 +13,7 @@ printui-sheets-count =
     }
 printui-page-range-all = 全部
 printui-page-range-custom = 自訂
-printui-page-range-label = 頁
+printui-page-range-label = 頁面
 printui-page-range-picker =
     .aria-label = 選擇頁數範圍
 printui-page-custom-range =
