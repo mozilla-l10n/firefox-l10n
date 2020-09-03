@@ -8,7 +8,8 @@ password-quality-meter = Retanel rutzil ri ewan tzij
 
 change-password-window =
     .title = Tijal ajtij ewan tzij
-
+change-device-password-window =
+    .title = Tijal Ewan Tzij
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Okisaxel richin jikomal: { $tokenName }
@@ -21,6 +22,9 @@ change-password-reenter = K'ak'a' ewan tzij (tijikib'äx):
 reset-password-window =
     .title = Titzolïx ri ajtij ewan tzij
     .style = width: 40em
+pippki-failed-pw-change = Man tikirel ta xjal ri ewan tzij.
+pippki-incorrect-pw = Man ütz ta ri ewan tzij xatz'ib'aj. Tatojtob'ej chik.
+pippki-pw-change-ok = Ütz xjal ri nab'ey ewan tzij.
 
 ## Reset Primary Password dialog
 
