@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privata retumo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privata retumo)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privata retumo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privata retumo)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Vi blokis la aliron MIDI por tiu ĉi retejo.
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redakti tiun ĉi legosignon ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ĉi foje serĉi per:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ŝanĝi agordojn de serĉo
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ŝanĝi agordojn de serĉo
-
 search-one-offs-context-open-new-tab =
     .label = Serĉi en nova langeto
     .accesskey = l
@@ -197,7 +191,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Igi ĝin la norma serĉilo en privataj fenestroj
     .accesskey = n
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -224,10 +217,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Montri redaktilon dum konservo
     .accesskey = M
-
 bookmark-panel-done-button =
     .label = Preta
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -301,15 +292,12 @@ popup-select-microphone =
     .value = Dividota mikrofono:
     .accesskey = m
 popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.
-
 popup-screen-sharing-not-now =
     .label = Ne nun
     .accesskey = N
-
 popup-screen-sharing-never =
     .label = Neniam permesi
     .accesskey = N
-
 popup-silence-notifications-checkbox = Malaktivigi sciigojn de { -brand-short-name } dum divido
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ne montros sciigojn dum vi dividas.
 
@@ -326,15 +314,42 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Por uzi la ŝparvojon F12, unue malfermu la ilojn por programistoj el la menuo Teksaĵa programisto.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Serĉu ion aŭ tajpu adreson
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
-
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Serĉi en la teksaĵo
+    .aria-label = Serĉi per { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Tajpu serĉan tekston
+    .aria-label = Serĉi { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Tajpu serĉan tekston
+    .aria-label = Serĉi legosignojn
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Tajpu serĉan tekston
+    .aria-label = Serĉi historion
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Tajpu serĉan tekston
+    .aria-label = Serĉi langetojn
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -345,11 +360,9 @@ urlbar-permissions-granted =
     .tooltiptext = Vi aldonis permesojn al tiu ĉi retejo.
 urlbar-switch-to-tab =
     .value = Iri al langeto:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Etendaĵo:
-
 urlbar-go-button =
     .tooltiptext = Iri al la adreso en la retadresa strio
 urlbar-page-action-button =
