@@ -143,6 +143,11 @@ key-usage-sign = Signować
 key-usage-certify = Certifikować
 key-usage-authentication = Awtentifikacija
 key-does-not-expire = Kluč njespadnje
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Powěsć z temu { $subject }
+    njeda so dekodować.
+    Chceće z druhej hesłowej frazu znowa spytać abo chceće powěsć přeskočić?
 
 ## Account settings export output
 
