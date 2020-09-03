@@ -5,6 +5,8 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Ves con cuenta!
+about-config-intro-warning-button = Acceptar lo risgo y continar
 
 ##
 
