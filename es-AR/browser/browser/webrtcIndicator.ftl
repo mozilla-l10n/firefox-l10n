@@ -25,5 +25,7 @@ webrtc-microphone-muted =
     .title = Encender el micrófono
 webrtc-camera-unmuted =
     .title = Apagar la cámara
+webrtc-camera-muted =
+    .title = Encender la cámara
 webrtc-minimize =
     .title = Minimizar indicador
