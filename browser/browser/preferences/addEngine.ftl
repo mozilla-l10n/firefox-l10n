@@ -5,7 +5,9 @@
 add-engine-window =
     .title = Дадаць пашукавік
     .style = width: 32em;
+add-engine-button = Дадаць уласны пашукавік
 add-engine-name = Назва пашукавіка
+add-engine-url = URL-адрас пашукавіка, выкарыстоўвайце %s замест пошукавага тэрміна
 add-engine-cancel =
     .label = Скасаваць
     .accesskey = С
