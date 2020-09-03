@@ -161,6 +161,7 @@ key-trust-untrusted = dowěry njehódny
 key-trust-full = dowěry hódny
 key-trust-group = (skupina)
 gnupg-file = GnuPG-dataje
+passphrase-prompt = Prošu zapodajće hesłowu frazu, kotraž slědowacy kluč přewostaja: { $key }
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Powěsć pósłać
 msg-compose-details-button-label = Podrobnosće…
