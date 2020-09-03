@@ -13,7 +13,6 @@ enable-common-message = Τα Εργαλεία Προγραμματιστή Firef
 enable-learn-more-link = Μάθετε περισσότερα για τα Εργαλεία Προγραμματιστή
 enable-enable-button = Ενεργοποίηση εργαλείων προγραμματιστή
 enable-close-button = Κλείσιμο της Καρτέλας
-
 welcome-title = Καλωσορίσατε στα Εργαλεία Προγραμματιστή Firefox!
 newsletter-title = Ενημέρωση προγραμματιστών Mozilla
 newsletter-message = Λάβετε ειδήσεις, κόλπα και πόρους για προγραμματιστές απευθείας στα εισερχόμενά σας.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Δεν με πειράζει να διαχειρίζ�
 newsletter-subscribe-button = Εγγραφή
 newsletter-thanks-title = Ευχαριστούμε!
 newsletter-thanks-message = Αν δεν έχετε προηγουμένως επιβεβαιώσει την εγγραφή σας σε κάποιο newsletter σχετικό με τη Mozilla, ίσως θα πρέπει να το κάνετε. Παρακαλούμε ελέγξτε τα εισερχόμενα ή το φίλτρο ανεπιθύμητων για ένα e-mail από εμάς.
-
 footer-title = Firefox Developer Edition
 footer-message = Ψάχνετε περισσότερα από απλά εργαλεία προγραμματιστή; Ελέγξτε το πρόγραμμα περιήγησης Firefox που φτιάχνεται συγκεκριμένα για τους προγραμματιστές και τις σύγχρονες ροές εργασίας.
 footer-learn-more-link = Μάθετε περισσότερα
-
 features-learn-more = Μάθετε περισσότερα
 features-inspector-title = Επιθεώρηση
 features-inspector-desc = Επιθεώρηση και βελτίωση κώδικα για δημιουργία τέλειων διατάξεων. <a data-l10n-name="learn-more">{ features-learn-more }</a>
@@ -39,7 +36,7 @@ features-network-title = Δίκτυο
 features-network-desc = Εποπτεία των αιτημάτων δικτύου που ενδέχεται να καθυστερούν ή να αποκλείσουν την ιστοσελίδα σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Αποθήκευση
 features-storage-desc = Προσθήκη, τροποποίηση και διαγραφή προσωρινής μνήμης, cookies, βάσεων δεδομένων και δεδομένων συνεδρίας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-responsive-title = Λειτουργία αποκρίσιμου σχεδιασμού
+features-responsive-title = Λειτ. αποκρίσιμου σχεδιασμού
 features-responsive-desc = Δοκιμή ιστοσελίδων σε εξομοιωτές συσκευών στο πρόγραμμα περιήγησής σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Οπτική επεξεργασία
 features-visual-editing-desc = Μικρο-ρύθμιση εφέ κίνησης, στοίχισης και γεμίσματος. <a data-l10n-name="learn-more">{ features-learn-more }</a>
