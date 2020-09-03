@@ -6,6 +6,7 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Ves con cuenta!
+about-config-intro-warning-text = Lo cambio d'as preferencia de configuración abanzadas puede afectar a lo rendimiento u la seguranza de { -brand-short-name }.
 about-config-intro-warning-checkbox = Avisar-me cuan yo mire d'acceder a estas preferencias
 about-config-intro-warning-button = Acceptar lo risgo y continar
 
