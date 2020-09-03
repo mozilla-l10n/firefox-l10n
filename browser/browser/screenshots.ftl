@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+screenshots-context-menu = Fer una foto de pantalla
 screenshots-my-shots-button = Las mias fotos de pantalla
 screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Alzar la parte visible
@@ -16,3 +17,6 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Vinclo copiau
+screenshots-notification-image-copied-title = Foto copiada
+screenshots-request-error-title = No funciona.
+screenshots-request-error-details = Lo siento! No s'ha puesto alzar la tuya foto de pantalla. Torna a intentar-lo dimpués.

@@ -6,3 +6,6 @@ add-engine-alias = Alias
 add-engine-cancel =
     .label = Cancelar
     .accesskey = C
+add-engine-ok =
+    .label = Anyadir motor
+    .accesskey = A
