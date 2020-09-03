@@ -49,7 +49,7 @@ openpgp-keygen-import-complete =
 
 openpgp-passphrase-prompt-title = Hesłowa fraza trěbna
 #   $identity (String) - the id of the key being imported
-openpgp-passphrase-prompt = Prošu zapodajće hesłowu frazu, zo byšće slědowacy kluč wotewrił: { $key }
+openpgp-passphrase-prompt = Prošu zapodajće hesłowu frazu, zo byšće slědowacy kluč přewostajił: { $key }
 gnupg-file = GnuPG-dataje
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Porstowy wotćišć
