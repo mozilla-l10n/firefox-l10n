@@ -58,6 +58,10 @@ printui-primary-button = Siggez
 printui-primary-button-save = Sekles
 printui-cancel-button = Sefsex
 printui-loading = Aheyyi n teskant
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Taskant send asiggez
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
