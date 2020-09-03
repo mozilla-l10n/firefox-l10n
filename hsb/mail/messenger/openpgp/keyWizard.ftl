@@ -47,6 +47,7 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+openpgp-passphrase-prompt-title = Hesłowa fraza trěbna
 gnupg-file = GnuPG-dataje
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Porstowy wotćišć
