@@ -19,10 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Fosgail">
-<!ENTITY lightning.menupopup.open.accesskey           "o">
-<!ENTITY lightning.menupopup.open.message.label       "Teachdaireachd shàbhailichte…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "T">
 <!ENTITY lightning.menupopup.open.calendar.label      "Faidhle mìosachain…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
@@ -67,6 +63,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Sguab às a' mhìosachan">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Mion-fhiosrachadh…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Seall mion-fhiosrachadh an tachartais">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Na seall seo na teachaireachdan seo dhomh">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Am mìosachan">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Tadhail air taba a’ mhìosachain">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Barrachd">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Dèan briogadh airson barrachd roghainnean">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ath-dhearbh">
