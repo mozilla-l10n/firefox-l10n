@@ -9,7 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Cruthaich tachartas ùr" >
 <!ENTITY calendar.newtask.button.tooltip          "Cruthaich saothair ùr" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Saothraichean" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Seall saothraichean crìochnaichte">
 
 <!ENTITY calendar.today.button.label          "An-diugh">
@@ -178,8 +177,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Làthaireachd">
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "An teachd seo">
-<!ENTITY calendar.context.attendance.all.label        "Gach teachd" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Sreath slàn">
 <!ENTITY calendar.context.attendance.send.label                 "Cuir brath an-dràsta">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
@@ -356,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Dath:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Fòrmat:">
 <!ENTITY calendarproperties.location.label                 "Àite:">
 <!ENTITY calendarproperties.refreshInterval.label          "Ùraich am mìosachan:">
@@ -365,7 +361,7 @@
 <!ENTITY calendarproperties.readonly.label                 "Ri leughadh a-mhàin">
 <!ENTITY calendarproperties.firealarms.label               "Seall caismeachdan">
 <!ENTITY calendarproperties.cache3.label                   "Taic far loidhne">
-<!ENTITY calendarproperties.enabled.label                  "Cuir air am mìosachan seo">
+<!ENTITY calendarproperties.enabled2.label                 "Cuir am mìosachan seo an comas">
 <!ENTITY calendarproperties.forceDisabled.label            "Cha deach solaraiche a' mhìosachain seo a lorg. Tachraidh seo gu tric ma chuir thu à comas tuilleadain sònraichte no ma dhì-stàlaich thu iad.">
 <!ENTITY calendarproperties.unsubscribe.label              "Sguir dhen fho-sgrìobhadh">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "u">
