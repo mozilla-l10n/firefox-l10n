@@ -269,6 +269,9 @@ expiry-open-key-manager = Odpri upravitelja ključev OpenPGP
 expiry-open-key-properties = Odpri lastnosti ključa
 # Strings filters.jsm
 filter-folder-required = Izbrati morate ciljno mapo.
+filter-decrypt-move-warn-experimental =
+    Pozor – dejanje filtra "Trajno dešifriraj" lahko privede do uničenja sporočil.
+    Močno priporočamo, da najprej poskusite s filtrom "Ustvari dešifrirano kopijo", natančno preverite izid in uporabite ta filter šele, ko ste zadovoljni z izidom.
 
 ## Account settings export output
 

@@ -10,6 +10,7 @@ auth-cancel = Prekliči
 auth-cancelAccessKey = P
 auth-error = Med preverjanjem istovetnosti stika je prišlo do napake.
 auth-success = Preverjanje istovetnosti stika je uspešno končano.
+auth-successThem = Stik je uspešno potrdil vašo istovetnost. Morda bi želeli tudi vi preveriti njegovo istovetnost z lastnim vprašanjem.
 auth-fail = Istovetnosti stika ni bilo mogoče preveriti.
 auth-waiting = Čakanje, da stik dokonča preverjanje …
 finger-verify = Preveri
