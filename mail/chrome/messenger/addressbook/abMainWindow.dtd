@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Тізімдерді өшіру">
 <!ENTITY deleteItemsCmd.label                           "Нәрселерді өшіру">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Қасиеттері">
 <!ENTITY propertiesMenu.accesskey                       "и">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Пошта және жаңалықтар топтары">
 <!ENTITY messengerCmd.accesskey                         "П">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Адрестік кітапша">
-<!ENTITY addressBookCmd.accesskey                       "а">
-<!ENTITY addressBookCmd.key                             "т">
 <!ENTITY searchAddressesCmd.label                       "Адрестерді іздеу…">
 <!ENTITY searchAddressesCmd.accesskey                   "з">
 <!ENTITY importCmd.label                                "Импорттау…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "и">
 <!ENTITY abPropertiesContext.label                      "Қасиеттері">
 <!ENTITY abPropertiesContext.accesskey                  "и">
+<!ENTITY syncContext.label                              "Синхрондау">
+<!ENTITY syncContext.accesskey                          "и">
 <!ENTITY editContactContext.label                       "Контактты түзету">
 <!ENTITY editContactContext.accesskey                   "е">
 <!ENTITY editMailingListContext.label                   "Тізімді түзету">
