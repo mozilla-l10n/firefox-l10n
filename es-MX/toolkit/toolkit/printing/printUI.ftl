@@ -53,9 +53,36 @@ printui-margins = Márgenes
 printui-margins-default = Predeterminado
 printui-margins-min = Mínimo
 printui-margins-none = Ninguno
+printui-system-dialog-link = Imprimir usando el diálogo del sistema…
+printui-primary-button = Imprimir
+printui-primary-button-save = Guardar
+printui-cancel-button = Cancelar
+printui-loading = Preparando vista previa
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Imprimir vista previa
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Carta EEUU
+printui-paper-legal = Oficio EEUU
+printui-paper-tabloid = Tabloide
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = La escala debe ser un número entre 10 y 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = El rango debe ser un número entre 1 y { $numPages }.
+printui-error-invalid-start-overflow = El número de página “desde” debe ser menor que el número “hasta“.
