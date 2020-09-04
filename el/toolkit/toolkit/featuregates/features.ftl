@@ -27,6 +27,9 @@ experimental-features-web-api-inputmode-description = Η δική μας υλο�
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Η ιδιότητα <a data-l10n-name="rel">rel</a> με την τιμή <code>"preload"</code> σε στοιχείο <a data-l10n-name="link">&lt;link&gt;</a> έχει ως σκοπό να συνεισφέρει στη βελτίωση επιδόσεων, κάνοντας λήψη των πόρων νωρίτερα στον κύκλο ζωής της σελίδας, διασφαλίζοντας ότι είναι διαθέσιμοι νωρίτερα και έτσι, είναι λιγότερο πιθανό να αποκλειστεί η απεικόνιση της σελίδας. Διαβάστε το <a data-l10n-name="readmore">“Προφόρτωση περιεχομένου με <code>rel="preload"</code>”</a> ή δείτε το <a data-l10n-name="bugzilla">σφάλμα 1583604</a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
@@ -52,6 +55,7 @@ experimental-features-devtools-compatibility-panel =
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax από προεπιλογή
+experimental-features-cookie-samesite-lax-by-default2-description = Αντιμετώπιση των cookies ως “SameSite=Lax” από προεπιλογή αν δεν καθορίζεται ιδιότητα “SameSite”. Οι προγραμματιστές πρέπει να επιλέξουν στο τρέχον status quo της απεριόριστης χρήσης, δηλώνοντας ρητά ότι “SameSite=None”.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: Το SameSite=None απαιτεί την ιδιότητα "secure"
@@ -68,6 +72,7 @@ experimental-features-print-preview-tab-modal-description = Παρουσιάζε
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Διαχείριση των cookies ίδιου τομέα αλλά διαφορετικού μοτίβου (π.χ. http://example.com και https://example.com) ως cookies πολλαπλών ιστοσελίδων αντί cookies ίδιας ιστοσελίδας. Βελτιώνει την ασφάλεια, αλλά ενδέχεται να προκαλέσει προβλήματα.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Εργαλεία προγραμματιστή: Εντοπισμός σφαλμάτων service worker
