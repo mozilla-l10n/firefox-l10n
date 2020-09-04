@@ -21,10 +21,10 @@ printui-page-custom-range =
     .aria-label = Anna mukautettu sivualue
 # This label is displayed before the first input field indicating
 # the start of the range to print.
-printui-range-start = Alkaa
+printui-range-start = Sivulta
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
-printui-range-end = päättyy
+printui-range-end = sivulle
 # Section title for the number of copies to print
 printui-copies-label = Kopioita
 printui-orientation = Suunta
@@ -82,3 +82,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Koon on oltava luku välillä 10 ja 200.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Sivualueen on oltava luku välillä 1 ja { $numPages }.
+printui-error-invalid-start-overflow = Sivulta-sivunumeron on oltava pienempi kuin sivulle-sivunumeron.
