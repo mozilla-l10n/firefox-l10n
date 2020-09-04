@@ -6,10 +6,12 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
+experimental-features-css-masonry-description = Ενεργοποιεί την υποστήριξη για την πειραματική λειτουργία CSS Masonry Layout. Δείτε την <a data-l10n-name="explainer">επεξήγηση</a> για μια περιγραφή υψηλού επιπέδου της λειτουργίας. Για να παρέχετε σχόλια, σχολιάστε σε <a data-l10n-name="w3c-issue"> αυτό το ζήτημα GitHub</a> ή <a data-l10n-name="bug"> αυτό το σφάλμα </a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Αυτό το νέο API παρέχει υποστήριξη χαμηλού επιπέδου για την εκτέλεση υπολογισμού και απόδοσης γραφικών, χρησιμοποιώντας τη <a data-l10n-name="wikipedia">κάρτα γραφικών (GPU)</a> της συσκευής ή του υπολογιστή του χρήστη. Η <a data-l10n-name="spec">προδιαγραφή</a> είναι υπό επεξεργασία. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1602129</a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
