@@ -16,10 +16,13 @@ experimental-features-web-gpu-description2 = Αυτό το νέο API παρέχ
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Πολυμέσα: AVIF
+experimental-features-media-avif-description = Με αυτή τη λειτουργία, το { -brand-short-name } υποστηρίζει τη μορφή εικόνας AV1 (AVIF). Πρόκειται για μια μορφή αρχείου ακίνητης εικόνας που αξιοποιεί τις δυνατότητες των αλγορίθμων συμπίεσης βίντεο AV1 για τη μείωση του μεγέθους της. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1443863 </a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Η δική μας υλοποίηση της καθολικής ιδιότητας <a data-l10n-name="mdn-inputmode">inputmode</a> έχει ενημερωθεί βάσει της <a data-l10n-name="whatwg">προδιαγραφής WHATWG</a>, αλλά υπάρχουν κι άλλες αλλαγές που πρέπει να κάνουμε, όπως η διάθεση σε περιεχόμενο contenteditable. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1205133</a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
@@ -57,6 +60,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Τα c
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Προσωρινή μνήμη εκκίνησης του about:home
+experimental-features-abouthome-startup-cache-description = Μια προσωρινή μνήμη για το έγγραφο about:home που φορτώνεται από προεπιλογή κατά την εκκίνηση. Ο σκοπός της προσωρινής μνήμης είναι η βελτίωση της απόδοσης εκκίνησης.
 experimental-features-print-preview-tab-modal =
     .label = Ανασχεδιασμός προεπισκόπησης εκτύπωσης
 experimental-features-print-preview-tab-modal-description = Παρουσιάζει την ανασχεδιασμένη προεπισκόπηση εκτύπωσης και καθιστά διαθέσιμη την προεπισκόπηση εκτύπωσης στο macOS. Αυτό ίσως προκαλέσει προβλήματα και δεν περιέχει όλες τις ρυθμίσεις εκτύπωσης. Για πρόσβαση σε όλες τις ρυθμίσεις εκτύπωσης, επιλέξτε “Εκτύπωση μέσω διαλόγου συστήματος…” από το παράθυρο εκτύπωσης.
