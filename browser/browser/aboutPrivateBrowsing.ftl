@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Интернетте іздеу
 about-private-browsing-not-private = Сіз қазір жекелік шолу терезесінде емессіз.
 about-private-browsing-info-description = { -brand-short-name } қолданба немесе барлық жекелік шолу беттері және терезелері жабылғанда іздеулер және шолу тарихын өшіреді. Бұл сізді веб-сайттар немесе интернет қызметін ұсынушысына анонимды етпесе де, бұл компьютерді қолданатын басқа адамдардан сіздің интернеттегі белсенділікті жасырын сақтауға жол береді.
-
+about-private-browsing-need-more-privacy = Көбірек жекелікті керек пе?
+about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } қолданып көріңіз
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
