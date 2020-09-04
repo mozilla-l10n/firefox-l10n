@@ -11,6 +11,7 @@ sync-disconnect-dialog-body = { -brand-product-name } bo prenehal sinhronizirati
 fxa-disconnect-dialog-title = Odklopim { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } bo odklopljen od vašega računa, vendar ne bo izbrisal podatkov o brskanju, shranjenih na tej napravi.
 sync-disconnect-dialog-button = Odklopi
+fxa-signout-dialog-heading = Odjava iz { -fxaccount-brand-name }a?
 fxa-signout-dialog-body = Sinhronizirani podatki bodo ostali v vašem računu.
 fxa-signout-checkbox =
     .label = Izbriši podatke s te naprave (prijave, gesla, zgodovino, zaznamke itd.).

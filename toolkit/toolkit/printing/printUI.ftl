@@ -48,6 +48,7 @@ printui-scale-pcent = Merilo
 printui-options = Možnosti
 printui-headers-footers-checkbox = Natisni glave in noge
 printui-backgrounds-checkbox = Natisni ozadja
+printui-color-mode-label = Barvni način
 printui-color-mode-color = Barva
 printui-color-mode-bw = Črno-belo
 printui-margins = Robovi
@@ -59,6 +60,10 @@ printui-primary-button = Natisni
 printui-primary-button-save = Shrani
 printui-cancel-button = Prekliči
 printui-loading = Priprava predogleda
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Predogled tiskanja
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -72,6 +77,8 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Letter
+printui-paper-legal = Legal
 printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
@@ -80,3 +87,4 @@ printui-error-invalid-scale = Merilo mora biti število med 10 in 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Obseg mora biti število med 1 in { $numPages }.
+printui-error-invalid-start-overflow = Številka strani "od" mora biti manjša od številke strani "do".
