@@ -8,7 +8,8 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 change-password-window =
     .title = Cambiar contraseña maestra
-
+change-device-password-window =
+    .title = Cambiar contraseña
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguridad: { $tokenName }
@@ -21,6 +22,13 @@ change-password-reenter = Nueva contraseña (confirmar):
 reset-password-window =
     .title = Restablecer la contraseña maestra
     .style = width: 40em
+pippki-failed-pw-change = No fue posible cambiar la contraseña
+pippki-incorrect-pw = No ingresaste correctamente la contraseña principal. Por favor, vuelve a intentarlo.
+pippki-pw-change-ok = Contraseña cambiada correctamente.
+pippki-pw-empty-warning = Tus contraseñas almacenadas y claves privadas no estarán protegidas.
+pippki-pw-erased-ok = Has eliminado tu contraseña. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = ¡Advertencia! Has decidido no usar una contraseña. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Actualmente estás en modo FIPS. FIPS requiere de una contraseña que no esté en blanco.
 
 ## Reset Primary Password dialog
 
