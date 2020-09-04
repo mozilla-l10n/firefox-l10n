@@ -52,12 +52,15 @@ social-tab-contant = تضع شبكات التواصل المتعقّبات في 
 cookie-tab-title = كعكات تتعقّبك بين المواقع
 cookie-tab-content = تتعقّبك هذه الكعكات من موقع إلى آخر لتجمع بيانات عمّا تفعله على الشبكة، وقد ضبطتها أطراف ثالثة كشركات الإعلان والتحليل الرقمي. بحجب الكعكات التي تتعقّبك بين المواقع تكون قد قلّلت عدد الإعلانات التي تلاحقك عبر الشبكة. <a data-l10n-name="learn-more-link">اطّلع على المزيد</a>
 tracker-tab-title = حجب المحتوى
+tracker-tab-description = يمكن أن تُحمّل المواقع الإعلانات والفديوهات وغيرها من محتوى خارجي يحتوي على كود تعقّب. بحجب المحتوى الذي يتعقّبك هذا فأنت تساعد { -brand-short-name } على تحميل الصفحات أسرع، على حساب إمكانية عدم عمل بعض الأزرار والاستمارات وحقول الولوج. <a data-l10n-name="learn-more-link">اطّلع على المزيد
 fingerprinter-tab-title = مسجّلات البصمات
+fingerprinter-tab-content = تجمع مُسجّلات البصمات الإعدادات من المتصفح والجهاز لتفتح عنك ملفا عمّن تكون. يمكنها باستعمال هذه البصمة الرقمية تعقّبك في أرجاء مختلف المواقع. <a data-l10n-name="learn-more-link">اطّلع على المزيد</a>
 cryptominer-tab-title = المُعدّنات المعمّاة
 cryptominer-tab-content = تستعمل المُعدّنات المعمّاة طاقة الحساب في جهازك لتُعدّن أموالا رقمية. يستنزف هذا التعدين المدخرة ويُبطئ الجهاز ويزيد من فاتورة الكهرباء.<a data-l10n-name="learn-more-link">اطّلع على المزيد</a>
 protections-close-button2 =
     .aria-label = أغلِق
     .title = أغلِق
+mobile-app-title = احجب الإعلانات المتعقّبة على أجزتك الأخرى
 mobile-app-links = متصفّح { -brand-product-name } لنظامي <a data-l10n-name="android-mobile-inline-link">أندرويد</a> و<a data-l10n-name="ios-mobile-inline-link">آي‌أوإس</a>
 lockwise-title = بعد الآن، ”نسيت كلمة السر“ فعل ماض
 lockwise-title-logged-in2 = إدارة كلمات السر
@@ -69,6 +72,18 @@ protection-report-manage-passwords-button = أدِر كلمات السر
     .title = أدِر كلمات السر في { -lockwise-brand-short-name }
 lockwise-mobile-app-title = خُذ معك كلمات السر أينما ذهبت
 lockwise-no-logins-card-content = استعمل كلمات السر المحفوظة في { -brand-short-name } على أي جهاز.
+lockwise-app-links = { -lockwise-brand-name } لنظامي <a data-l10n-name="lockwise-android-inline-link">أندرويد</a> و<a data-l10n-name="lockwise-ios-inline-link">آي‌أو‌إس</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [zero] لم تظهر أي كلمة سر في أي تسرّب بيانات.
+        [one] ظهرت كلمة سر واحدة في تسرّب بيانات.
+        [two] ظهرت كلمتا سر في تسرّب بيانات.
+        [few] ظهرت { $count } كلمات سر في تسرّب بيانات.
+        [many] ظهرت { $count } كلمة سر في تسرّب بيانات.
+       *[other] ظهرت { $count } كلمة سر في تسرّب بيانات.
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -87,6 +102,10 @@ turn-on-sync = فعّل { -sync-brand-short-name }…
     .title = انتقل إلى تفضيلات المزامنة
 monitor-title = تنبّه وتيقّظ متى ما تسرّبت البيانات
 monitor-link = آلية العمل
+monitor-header-content-no-account = انقر { -monitor-brand-name } لتعرف لو كانت بياناتك جزءًا من تسرّب معروف للبيانات، ولتستلم التنبيهات عن التسريبات الجديدة.
+monitor-header-content-signed-in = يُحذّرك { -monitor-brand-name } إن ظهرت معلوماتك في تسرّب معروف للبيانات.
+monitor-sign-up-link = سجّل لتصلك التنبيهات عن التسريبات
+    .title = سجّل لتصلك التنبيهات عن التسريبات على { -monitor-brand-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
