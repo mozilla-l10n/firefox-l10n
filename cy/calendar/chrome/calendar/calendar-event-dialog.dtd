@@ -23,7 +23,7 @@
 <!ENTITY newevent.status.confirmed.label          "Cadarnhawyd" >
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
 <!ENTITY newevent.status.needsaction.label        "Angen Gweithredu" >
-<!ENTITY newevent.status.inprogress.label         "Mewn Proses" >
+<!ENTITY newevent.status.inprogress.label         "Ar Waith" >
 <!ENTITY newevent.status.completed.label          "Cwblhawyd" >
 
 <!-- The following entity is for New Task dialog only -->
