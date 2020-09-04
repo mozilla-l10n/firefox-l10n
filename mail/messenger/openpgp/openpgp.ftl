@@ -285,6 +285,51 @@ key-man-loading-keys = Nalaganje ključev, počakajte …
 no-key-selected = Za izvedbo izbranega dejanja izberite vsaj en ključ
 export-to-file = Izvozi javni ključ v datoteko
 export-keypair-to-file = Izvozi skrivni in javni ključ v datoteko
+export-secret-key = Ali želite vključiti skrivni ključ v shranjeno datoteko ključa OpenPGP?
+save-keys-ok = Ključi so bili uspešno shranjeni
+save-keys-failed = Shranjevanje ključev ni uspelo
+default-pub-key-filename = Izvozeni_javni_kljuci
+default-pub-sec-key-filename = Varnostna_kopija_skrivnih_kljucev
+general-error = Napaka: { $reason }
+dlg-button-delete = &Izbriši
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Javni ključ uspešno izvožen!</b>
+openpgp-export-public-fail = <b>Izbranega javnega ključa ni mogoče izvoziti!</b>
+openpgp-export-secret-success = <b>Skrivni ključ uspešno izvožen!</b>
+openpgp-export-secret-fail = <b>Izbranega skrivnega ključa ni mogoče izvoziti!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Ključ { $userId } (ID ključa { $keyId }) je preklican.
+key-ring-pub-key-expired = Ključu { $userId } (ID ključa { $keyId }) je pretekla veljavnost.
+key-ring-key-disabled = Ključ { $userId } (ID ključa { $keyId }) je onemogočen in ga ni moč uporabljati.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Fotografija
+user-att-photo = Atribut uporabnika (slika JPEG)
+# Strings in key.jsm
+already-revoked = Ta ključ je že preklican.
+key-man-button-revoke-key = Pre&kliči ključ
+openpgp-key-revoke-success = Ključ uspešno preklican.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Uvozi
+delete-key-title = Izbriši ključ OpenPGP
+delete-external-key-title = Odstrani zunanji ključ GnuPG
+key-in-use-title = Ključ OpenPGP je trenutno v uporabi
+key-man-button-generate-key = &Ustvari ključ
+no-repeat = To opozorilo ne bo več prikazano.
+dlg-keep-setting = Zapomni si moj odgovor in me ne vprašaj več
+dlg-button-ok = &V redu
+dlg-button-close = &Zapri
+dlg-button-cancel = Prekliči
+dlg-no-prompt = Tega pogovornega okna ne prikazuj več
+enig-prompt = Poziv OpenPGP
+enig-confirm = Potrditev OpenPGP
+enig-alert = Opozorilo OpenPGP
+enig-info = Informacija OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Poskusi znova
+dlg-button-skip = Pre&skoči
+# Strings used in enigmailCommon.js
+enig-error = Napaka OpenPGP
+enig-alert-title =
+    .title = Opozorilo OpenPGP
