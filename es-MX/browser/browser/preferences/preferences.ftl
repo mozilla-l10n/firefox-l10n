@@ -773,7 +773,7 @@ forms-primary-pw-learn-more-link = Más información
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = Cambiar…
+    .label = Cambiar contraseña maestra…
     .accesskey = m
 forms-master-pw-fips-title = En este momento está en modo FIPS. FIPS requiere una contraseña maestra no vacía.
 forms-primary-pw-change =
