@@ -51,11 +51,17 @@ printui-color-mode-color = Väri
 printui-color-mode-bw = Mustavalkoinen
 printui-margins = Reunukset
 printui-margins-default = Oletus
+printui-margins-min = Pienimmät
+printui-margins-none = Ei reunuksia
 printui-system-dialog-link = Tulosta käyttäen järjestelmän tulostusikkunaa…
 printui-primary-button = Tulosta
 printui-primary-button-save = Tallenna
 printui-cancel-button = Peruuta
 printui-loading = Valmistellaan esikatselua
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Tulostuksen esikatselu
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -75,3 +81,4 @@ printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Koon on oltava luku välillä 10 ja 200.
