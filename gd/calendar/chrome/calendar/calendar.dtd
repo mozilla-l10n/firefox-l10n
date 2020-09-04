@@ -194,7 +194,7 @@
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Feum air gnìomh fhathast">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
-<!ENTITY calendar.context.attendance.occ.inprogress.label       "’Ga phròiseasadh">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Ga phròiseasadh">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Air a choileanadh">
 
@@ -209,7 +209,7 @@
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Feum air gnìomh fhathast">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
-<!ENTITY calendar.context.attendance.all.inprogress.label       "’Ga phròiseasadh">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Ga phròiseasadh">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
 <!ENTITY calendar.context.attendance.all.completed.label        "Air a choileanadh">
 
