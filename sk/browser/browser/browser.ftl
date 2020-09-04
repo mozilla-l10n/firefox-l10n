@@ -112,6 +112,7 @@ urlbar-search-tips-redirect-2 = Zadajte sem výraz vyhľadávania a uvidíte ná
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Záložky
 
 ##
 
