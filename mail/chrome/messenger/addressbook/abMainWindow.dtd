@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Listeleri Sil">
 <!ENTITY deleteItemsCmd.label                           "Ögeleri Sil">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Özellikler">
 <!ENTITY propertiesMenu.accesskey                       "z">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Posta ve haber grupları">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Adres defteri">
-<!ENTITY addressBookCmd.accesskey                       "A">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Adreslerde ara…">
 <!ENTITY searchAddressesCmd.accesskey                   "A">
 <!ENTITY importCmd.label                                "İçe aktar…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Özellikler">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Eşitle">
+<!ENTITY syncContext.accesskey                          "E">
 <!ENTITY editContactContext.label                       "Kişiyi düzenle">
 <!ENTITY editContactContext.accesskey                   "d">
 <!ENTITY editMailingListContext.label                   "Listeyi düzenle">

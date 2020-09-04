@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 info-already-expired = Bu anahtarın süresi dolmuş.
-
+expire-in-months = Ay

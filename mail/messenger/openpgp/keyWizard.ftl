@@ -65,6 +65,9 @@ openpgp-keygen-abort = OpenPGP anahtar üretimi şu anda devam ediyor. İptal et
 
 ## Import Key section
 
+openpgp-import-key-title = Mevcut bir kişisel OpenPGP anahtarını içe aktar
+openpgp-import-key-legend = Önceden yedeklenmiş bir dosya seçin.
+openpgp-import-key-description = Diğer OpenPGP yazılımlarıyla oluşturulan kişisel anahtarları içe aktarabilirsiniz.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
