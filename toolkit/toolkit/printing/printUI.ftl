@@ -58,6 +58,10 @@ printui-primary-button = Yazdır
 printui-primary-button-save = Kaydet
 printui-cancel-button = Vazgeç
 printui-loading = Ön izleme hazırlanıyor
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Yazdırma ön izleme
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -71,6 +75,9 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
