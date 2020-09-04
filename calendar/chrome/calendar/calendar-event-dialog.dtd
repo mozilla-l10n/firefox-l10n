@@ -190,7 +190,7 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Cuir am moladh an sàs">
 <!ENTITY counter.button.proposal.accesskey                "m">
-<!ENTITY counter.button.proposal.tooltip2                 "Thèid na luachan on fhrith-mholadh a chur ann an raointean an tachartais; cha dèid fios a chur gu gach freastalaiche ach ma nì thu sàbhaladh leis no as aonais nan atharraichean.">
+<!ENTITY counter.button.proposal.tooltip2                 "Thèid na luachan on fhrith-mholadh a chur ann an raointean an tachartais; cha tèid fios a chur gu gach freastalaiche ach ma nì thu sàbhaladh leis no as aonais nan atharraichean">
 <!ENTITY counter.button.original.label                    "Cuir an dàta tùsail an sàs">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Thèid luachan an tachartais thùsail a chur sna raointean mar a bha e mus deach am frith-mholadh a dhèanamh">
