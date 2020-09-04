@@ -34,6 +34,7 @@ experimental-features-web-api-link-preload-description = Η ιδιότητα <a 
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Επιτρέπει στα στυλ εστίασης να εφαρμοστούν σε στοιχεία, όπως κουμπιά και στοιχεία ελέγχου φορμών, μόνο όταν έχει γίνει εστίαση με πληκτρολόγιο (π.χ. κατά την εναλλαγή μεταξύ στοιχείων με το πλήκτρο Tab) και όχι όταν γίνεται εστίαση με ποντίκι ή άλλη συσκευή κατάδειξης. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1617600</a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -42,10 +43,12 @@ experimental-features-web-api-beforeinput =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Η προσθήκη κατασκευαστή στο περιβάλλον <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> καθώς και μια ποικιλία σχετικών αλλαγών καθιστούν δυνατή την απευθείας δημιουργία νέων φύλλων στυλ χωρίς να πρέπει να προσθέσετε το φύλλο στο HTML. Έτσι, γίνεται πολύ πιο εύκολη η δημιουργία επαναχρησιμοποιήσιμων φύλλων στυλ για το <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1520690</a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Όλη η υλοποίηση της { -brand-short-name } για το Media Session API είναι πειραματική. This API is used to customize the handling of media-related notifications, to manage events and data useful for presenting a user interface for managing media playback, and to obtain media file metadata. See <a data-l10n-name="bugzilla">bug 1112032</a> for more details.
 experimental-features-devtools-color-scheme-simulation =
     .label = Εργαλεία προγραμματιστή: Προσομοίωση συνόλου χρωμάτων
 experimental-features-devtools-color-scheme-simulation-description = Προσθέτει μια επιλογή για προσομοίωση διαφορετικών μοτίβων χρωμάτων που σας επιτρέπουν να δοκιμάσετε τα media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Με αυτό το media query, το φύλλο στυλ σας μπορεί να αποκριθεί στην προτίμηση του χρήστη για φωτεινό ή σκούρο περιβάλλον χρήστη. Αυτή η λειτουργία σας επιτρέπει να δοκιμάσετε τον κώδικά σας χωρίς να πρέπει να αλλάξετε τις ρυθμίσεις στο πρόγραμμα περιήγησης (ή το λειτουργικό σύστημα, αν χρησιμοποιείται καθολικά η ρύθμιση των μοτίβων χρωμάτων του). Δείτε το <a data-l10n-name="bugzilla1">σφάλμα 1550804</a> και το <a data-l10n-name="bugzilla2">σφάλμα 1137699</a> για περισσότερες λεπτομέρειες.
