@@ -32,9 +32,15 @@ pippki-pw-change2empty-in-fips-mode = Actualmente estás en modo FIPS. FIPS requ
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Restablecer contraseña primaria
+    .style = width: 40em
 reset-password-button-label =
     .label = Restablecer
 reset-password-text = Si restableces tu contraseña maestra, se borrarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?
+reset-primary-password-text = Si restableces tu contraseña primaria, se olvidarán todas las contraseñas de webs, correo electrónico, certificados personales y llaves privadas almacenadas. ¿Estás seguro de que quieres restablecer tu contraseña primaria?
+pippki-reset-password-confirmation-title = Restablecer la contraseña primaria
+pippki-reset-password-confirmation-message = Tu contraseña primaria ha sido restablecida.
 
 ## Downloading cert dialog
 
