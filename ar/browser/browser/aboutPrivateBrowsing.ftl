@@ -11,7 +11,7 @@ about-private-browsing =
     .title = ابحث في الوِب
 about-private-browsing-not-private = لستَ حاليا في نافذة خاصة.
 about-private-browsing-info-description = يمسح { -brand-short-name } تأريخ البحث والتصفح لديك عندما تُنهي التطبيق أو تُغلق كل الألسنة والنوافذ بوضع التصفح الخاص. على الرغم من أن هذا لا يجعلك مجهول الهوية إلى المواقع أو مقدّم خدمة الإنترنت لديك، إلا أنه يسهّل عليك إخفاء ما تفعله في الشبكة على أي شخص آخر يستخدم هذا الحاسوب.
-
+about-private-browsing-turn-on-vpn = جرّب { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
