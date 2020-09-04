@@ -84,6 +84,70 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Heredar la apariencia de tu sistema
+        operativo para botones, menús y ventanas.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Usar una apariencia clara para botones, 
+        menús y ventanas.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Usar una apariencia oscura para botones, 
+        menús y ventanas.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Usar una apariencia colorida para botones,
+        menús y ventanas.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Heredar la apariencia de tu sistema
+        operativo para botones, menús y ventanas.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Heredar la apariencia de tu sistema
+        operativo para botones, menús y ventanas.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Usar una apariencia clara para botones, 
+        menús y ventanas.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Usar una apariencia clara para botones, 
+        menús y ventanas.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Usar una apariencia oscura para botones, 
+        menús y ventanas.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Usar una apariencia oscura para botones, 
+        menús y ventanas.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Usar una apariencia colorida para botones,
+        menús y ventanas.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Usar una apariencia colorida para botones,
+        menús y ventanas.
 
 ## Welcome full page string
 
