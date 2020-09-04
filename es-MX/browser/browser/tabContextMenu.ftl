@@ -59,6 +59,7 @@ tab-context-close-multiple-tabs =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -77,4 +78,20 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Mover pestaña
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Cerrar pestaña
+            [one] Cerrar pestaña
+           *[other] Cerrar pestañas
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mover pestaña
+            [one] Mover pestaña
+           *[other] Mover pestañas
+        }
     .accesskey = v
