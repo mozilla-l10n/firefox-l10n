@@ -1120,7 +1120,14 @@ space-alert-under-5gb-message = Το { -brand-short-name } δεν έχει επ�
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Λειτουργία HTTPS-Only
 httpsonly-learn-more = Μάθετε περισσότερα
+httpsonly-radio-enabled =
+    .label = Ενεργοποίηση λειτουργίας HTTPS-Only σε όλα τα παράθυρα
+httpsonly-radio-enabled-pbm =
+    .label = Ενεργοποίηση HTTPS-Only μόνο σε ιδιωτικά παράθυρα
+httpsonly-radio-disabled =
+    .label = Να μην ενεργοποιηθεί η λειτουργία HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
