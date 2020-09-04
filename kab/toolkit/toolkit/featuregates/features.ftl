@@ -81,6 +81,7 @@ experimental-features-print-preview-tab-modal-description = Yeskanay taskant s w
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Inagan n tuqqna: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Sesfer inagan n tuqqna seg yiwet n taɣult, maca s yizenzaɣ yemgaraden (am. http://example.com d https://example.com) am gar yismal deg wadeg n yiwen n usmel. Yessiǧhid taɣellist, d acu yezmer ad d-yeglu s truẓi.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Ifecka n uneflay: Tamseɣtayt n unmahal n umeẓlu
