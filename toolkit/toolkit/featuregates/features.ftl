@@ -39,6 +39,9 @@ experimental-features-css-focus-visible-description = Επιτρέπει στα 
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Το καθολικό συμβάν <a data-l10n-name="mdn-beforeinput">beforeinput</a> ενεργοποιείται σε στοιχεία <a data-l10n-name="mdn-input">&lt;input&gt;</a> και <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ή όποιο στοιχείο έχει ενεργή ιδιότητα <a data-l10n-name="mdn-contenteditable">contenteditable</a>, αμέσως πριν την αλλαγή της τιμής του στοιχείου. Το συμβάν επιτρέπει σε εφαρμογές web να παρακάμπτουν την προεπιλεγμένη συμπεριφορά του προγράμματος περιήγησης για αλληλεπίδραση με το χρήστη, π.χ., οι εφαρμογές web μπορούν να ακυρώσουν την είσοδο χρήστη μόνο για συγκεκριμένους χαρακτήρες ή να τροποποιήσουν την επικόλληση του κειμένου μόνο με εγκεκριμένη μορφοποίηση.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
