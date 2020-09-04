@@ -272,6 +272,19 @@ filter-folder-required = Izbrati morate ciljno mapo.
 filter-decrypt-move-warn-experimental =
     Pozor – dejanje filtra "Trajno dešifriraj" lahko privede do uničenja sporočil.
     Močno priporočamo, da najprej poskusite s filtrom "Ustvari dešifrirano kopijo", natančno preverite izid in uporabite ta filter šele, ko ste zadovoljni z izidom.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Trajno dešifriraj (OpenPGP)
+filter-decrypt-copy-label = Ustvari dešifrirano kopijo (OpenPGP)
+import-info-no-keys = Ni uvoženih ključev.
+# Strings in enigmailKeyManager.js
+import-from-clip = Ali želite z odložišča uvoziti ključ(e)?
+key-man-button-export-sec-key = Izvozi &skrivne ključe
+key-man-button-export-pub-key = Izvozi samo &javne ključe
+key-man-button-refresh-all = &Osveži vse ključe
+key-man-loading-keys = Nalaganje ključev, počakajte …
+no-key-selected = Za izvedbo izbranega dejanja izberite vsaj en ključ
+export-to-file = Izvozi javni ključ v datoteko
+export-keypair-to-file = Izvozi skrivni in javni ključ v datoteko
 
 ## Account settings export output
 
