@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+add-engine-window =
+    .title = Dodaj iskalnik
+    .style = width: 32em;
 add-engine-button = Dodaj iskalnik po meri
 add-engine-name = Ime iskalnika
 add-engine-alias = Vzdevek
