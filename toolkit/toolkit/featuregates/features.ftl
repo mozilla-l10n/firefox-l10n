@@ -47,7 +47,47 @@ experimental-features-web-api-beforeinput-description = El evento global <a data
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = La adición de un constructor a la interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> así como una variedad de cambios relacionados hace posible crear directamente nuevas hojas de estilo sin tener que agregar la hoja al HTML. Esto hace más fácil crear hojas de estilo reutilizables para usar con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Ver <a data-l10n-name="bugzilla">bug 1520690</a> para más detalles.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-media-session-api-description = La implementación completa de { -brand-short-name } de Media Session API es actualmente experimental. Esta API se usa para personalizar el manejo de notificaciones relacionadas con los medios, para manejar eventos y datos útiles para presentar una interface de usuario para manejar reproducción de medios y para obtener metadatos de los archivos. Ver <a data-l10n-name="bugzilla">bug 1112032</a> para más detalles.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Herramientas para desarrolladores: simulación de esquemas de color
+experimental-features-devtools-color-scheme-simulation-description = Agrega una opción para simular diferentes esquemas de color que te permiten probar las consultas de medios <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. El uso de esta función permite que tu hoja de estilo responda si el usuario prefiere una interfaz de usuario clara u oscura. Esto te permite probar el código sin tener que cambiar la configuración del navegador (o sistema operativo, si el navegador sigue una configuración de esquema de color establecida para todo el sistema). Consulta el <a data-l10n-name="bugzilla1">bug 1550804</a> y el <a data-l10n-name="bugzilla2">bug 1137699</a> para obtener más detalles.
+experimental-features-devtools-execution-context-selector =
+    .label = Herramientas de desarrolladores: Selector de contexto de ejecución
+experimental-features-devtools-execution-context-selector-description = Esta función muestra un botón en la línea de comandos de la consola que te permite cambiar el contexto en el que se ejecutará la expresión que ingreses. Consulta el <a data-l10n-name="bugzilla">bug 1605154</a> y el <a data-l10n-name="bugzilla2">bug 1605153</a> para obtener más detalles.
+experimental-features-devtools-compatibility-panel =
+    .label = Herramientas de desarrollado: Panel de compatibilidad
+experimental-features-devtools-compatibility-panel-description = Un panel lateral para el Inspector de página que muestra información detallando el estado de compatibilidad entre navegadores para tu aplicación. Consulta el <a data-l10n-name="bugzilla">bug 1584464</a> para obtener más detalles.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por defecto
 experimental-features-cookie-samesite-lax-by-default2-description = Trata las cookies como "SameSite=Lax" por defecto si no se especifica el atributo "SameSite". Los desarrolladores deben optar por el status quo actual de uso sin restricciones al afirmar explícitamente "SameSite=None".
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None requiere un atributo seguro
+experimental-features-cookie-samesite-none-requires-secure2-description = Las cookies con el atributo "SameSite=None" requieren el atributo seguro. Esta función requiere "Cookies: SameSite=Lax" por defecto.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = caché de inicio de about:home
+experimental-features-abouthome-startup-cache-description = Caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito del caché es mejorar el rendimiento de inicio.
+experimental-features-print-preview-tab-modal =
+    .label = Rediseño de la vista previa de impresión
+experimental-features-print-preview-tab-modal-description = Presenta la vista previa de impresión rediseñada y hace que la vista previa de impresión esté disponible en macOS. Esto introduce fallos potenciales y no incluye todas las configuraciones relacionadas con la impresión. Para acceder a todos los ajustes relacionados con la impresión selecciona "Imprimir usando el cuadro de diálogo del sistema…" desde el panel de impresión.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Tratar las cookies del mismo dominio, pero con diferentes esquemas (por ejemplo, http://example.com y https://example.com), como de sitios cruzados en lugar del mismo sitio. Mejora la seguridad, pero introduce potencialmente fallos.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Herramientas de desarrollado: Depuración de Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Habilita el soporte experimental para Service Workers en el panel del Depurador. Esta función puede ralentizar las Herramientas de desarrolladores y aumentar el consumo de memoria.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graphics: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Habilita el soporte para un hacer zoom con suavidad al pellizcar en las pantallas táctiles y los touch pads de precisión con suavidad.
