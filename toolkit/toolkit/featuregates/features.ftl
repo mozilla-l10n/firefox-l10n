@@ -50,8 +50,10 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Εργαλεία προγραμματιστή: Προσομοίωση συνόλου χρωμάτων
 experimental-features-devtools-execution-context-selector =
     .label = Εργαλεία προγραμματιστή: Επιλογή περιβάλλοντος εκτέλεσης
+experimental-features-devtools-execution-context-selector-description = Αυτή η λειτουργία εμφανίζει ένα κουμπί στη γραμμή εντολών της κονσόλας που σας επιτρέπει να αλλάξετε το πλαίσιο στο οποίο θα εκτελεστεί η έκφραση που εισάγετε. Δείτε το <a data-l10n-name="bugzilla1">σφάλμα 1605154</a> και το <a data-l10n-name="bugzilla2">σφάλμα 1605153</a> για περισσότερες λεπτομέρειες.
 experimental-features-devtools-compatibility-panel =
     .label = Εργαλεία προγραμματιστή: Πίνακας συμβατότητας
+experimental-features-devtools-compatibility-panel-description = Ένας πλευρικός πίνακας για την Επιθεώρηση σελίδας που εμφανίζει πληροφορίες που περιγράφουν την κατάσταση συμβατότητας μεταξύ προγραμμάτων περιήγησης της εφαρμογής σας. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1584464 </a> για περισσότερες λεπτομέρειες.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax από προεπιλογή
