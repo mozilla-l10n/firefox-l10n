@@ -315,7 +315,16 @@ key-man-button-import = &Uvozi
 delete-key-title = Izbriši ključ OpenPGP
 delete-external-key-title = Odstrani zunanji ključ GnuPG
 key-in-use-title = Ključ OpenPGP je trenutno v uporabi
+gnupg-file = Datoteke GnuPG
+gen-going = Ustvarjanje ključev že poteka!
+expiry-too-short = Ključ mora biti veljaven vsaj en dan.
+expiry-too-long = Ne morete ustvariti ključa, ki preteče čez več kot 100 let.
 key-man-button-generate-key = &Ustvari ključ
+key-abort = Prekini ustvarjanje ključev?
+key-man-button-generate-key-abort = &Prekini ustvarjanje ključev
+key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Napaka – dešifriranje ni uspelo
 no-repeat = To opozorilo ne bo več prikazano.
 dlg-keep-setting = Zapomni si moj odgovor in me ne vprašaj več
 dlg-button-ok = &V redu
