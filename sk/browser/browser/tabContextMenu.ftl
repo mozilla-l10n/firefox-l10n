@@ -80,18 +80,18 @@ move-tabs =
     .accesskey = s
 move-tab =
     .label = Presunúť kartu
-    .accesskey = s
+    .accesskey = u
 tab-context-close-tabs =
     .label =
         { $tabCount ->
-            [1] Zatvoriť kartu
-           *[other] Zatvoriť karty
+            [1] Zavrieť kartu
+           *[other] Zavrieť karty
         }
-    .accesskey = C
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
             [1] Presunúť kartu
            *[other] Presunúť karty
         }
-    .accesskey = v
+    .accesskey = u
