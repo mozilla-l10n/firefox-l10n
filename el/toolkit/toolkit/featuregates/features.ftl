@@ -48,6 +48,7 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = Εργαλεία προγραμματιστή: Προσομοίωση συνόλου χρωμάτων
+experimental-features-devtools-color-scheme-simulation-description = Προσθέτει μια επιλογή για προσομοίωση διαφορετικών μοτίβων χρωμάτων που σας επιτρέπουν να δοκιμάσετε τα media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Με αυτό το media query, το φύλλο στυλ σας μπορεί να αποκριθεί στην προτίμηση του χρήστη για φωτεινό ή σκούρο περιβάλλον χρήστη. Αυτή η λειτουργία σας επιτρέπει να δοκιμάσετε τον κώδικά σας χωρίς να πρέπει να αλλάξετε τις ρυθμίσεις στο πρόγραμμα περιήγησης (ή το λειτουργικό σύστημα, αν χρησιμοποιείται καθολικά η ρύθμιση των μοτίβων χρωμάτων του). Δείτε το <a data-l10n-name="bugzilla1">σφάλμα 1550804</a> και το <a data-l10n-name="bugzilla2">σφάλμα 1137699</a> για περισσότερες λεπτομέρειες.
 experimental-features-devtools-execution-context-selector =
     .label = Εργαλεία προγραμματιστή: Επιλογή περιβάλλοντος εκτέλεσης
 experimental-features-devtools-execution-context-selector-description = Αυτή η λειτουργία εμφανίζει ένα κουμπί στη γραμμή εντολών της κονσόλας που σας επιτρέπει να αλλάξετε το πλαίσιο στο οποίο θα εκτελεστεί η έκφραση που εισάγετε. Δείτε το <a data-l10n-name="bugzilla1">σφάλμα 1605154</a> και το <a data-l10n-name="bugzilla2">σφάλμα 1605153</a> για περισσότερες λεπτομέρειες.
