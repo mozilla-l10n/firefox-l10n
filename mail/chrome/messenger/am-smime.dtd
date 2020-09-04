@@ -24,15 +24,17 @@
 <!ENTITY signingGroupTitle.label "Digitalno podpisovanje">
 <!ENTITY signMessage2.label "Privzeto dodaj moj digitalni podpis">
 <!ENTITY signMessage.accesskey "D">
-
 <!ENTITY signingCert2.message "Osebno digitalno potrdilo za podpis:">
 
 <!ENTITY sendingDefaults.label "Privzete nastavitve pošiljanja sporočil">
 
+<!ENTITY technologyAutomatic.label "Izberi samodejno glede na razpoložljive ključe ali potrdila">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Upravljanje potrdil S/MIME">
+<!ENTITY manageCerts3.accesskey "U">
 <!ENTITY manageDevices2.label "Varnostne naprave S/MIME">
+<!ENTITY manageDevices2.accesskey "r">
 
 <!ENTITY technologySMIME.label "Daj prednost S/MIME">
 <!ENTITY technologyOpenPGP.label "Daj prednost OpenPGP">
