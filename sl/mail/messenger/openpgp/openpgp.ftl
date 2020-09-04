@@ -199,6 +199,16 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird nima osebnega ključa OpenPGP za <b>{ $identity }</b>
+        [one] Thunderbird je našel { $count } osebni ključ OpenPGP, povezan z <b>{ $identity }</b>
+        [two] Thunderbird je našel { $count } osebna ključa OpenPGP, povezana z <b>{ $identity }</b>
+        [few] Thunderbird je našel { $count } osebne ključe OpenPGP, povezane z <b>{ $identity }</b>
+       *[other] Thunderbird je našel { $count } osebnih ključev OpenPGP, povezanih z <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Vaša trenutna nastavitev uporablja ključ <b>{ $key }</b>, ki mu je pretekla veljavnost.
 openpgp-add-key-button =
@@ -229,6 +239,7 @@ openpgp-key-edit-date-title = Podaljšaj veljavnost
 openpgp-manager-button =
     .label = Upravitelj ključev OpenPGP
     .accesskey = k
+key-external-label = Zunanji ključ GnuPG
 # Strings in keyDetailsDlg.xhtml
 key-type-public = javni ključ
 key-type-primary = glavni ključ
@@ -251,6 +262,9 @@ keyserver-error-import-error = Prenesenega ključa ni bilo mogoče uvoziti.
 expiry-key-expires-soon =
     Vaš ključ { $desc } bo pretekel čez manj kot { $days } dni.
     Priporočamo, da ustvarite nov par ključev in nastavite ustrezne račune za njihovo uporabo.
+expiry-keys-expire-soon =
+    Vaši naslednji ključi bodo pretekli čez manj kot { $days } dni: { $desc }.
+    Priporočamo, da ustvarite nove ključe in nastavite ustrezne račune za njihovo uporabo.
 expiry-open-key-manager = Odpri upravitelja ključev OpenPGP
 expiry-open-key-properties = Odpri lastnosti ključa
 # Strings filters.jsm
