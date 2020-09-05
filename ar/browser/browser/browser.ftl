@@ -191,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = اضبطه ليكون محرّك البحث المبدئي في النوافذ الخاصة
     .accesskey = ن
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = ‏{ $engineName } ‏({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:

@@ -4,3 +4,6 @@
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>أتريد ضبط { -brand-short-name } ليكون المتصفّح المبدئي؟</strong> استمتع بالتصفّح السريع والآمن والخصوصي أينما استعملت الوِب.
+default-browser-notification-button =
+    .label = اجعله المبدئي
+    .accesskey = ع
