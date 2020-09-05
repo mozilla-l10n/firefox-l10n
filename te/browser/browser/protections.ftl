@@ -49,6 +49,10 @@ monitor-link = ఇది ఎలా పనిచేస్తుంది
 monitor-no-breaches-title = శుభవార్త!
 monitor-view-report-link = నివేదికను చూడండి
     .title = { -monitor-brand-short-name }లో ఉల్లంఘనలను పరిష్కరించుకోండి
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% పూర్తి
+monitor-partial-breaches-motivation-title-start = గొప్ప ఆరంభం!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
