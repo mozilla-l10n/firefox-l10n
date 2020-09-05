@@ -16,4 +16,6 @@ about-httpsonly-explanation-unavailable = Atokinäq pa k'amaya'l xa xe pa rub'ey
 about-httpsonly-explanation-question = ¿Achike ta k'a ri nib'ano re'?
 about-httpsonly-explanation-nosupport = Rik'in jub'a' chi ri ajk'amaya'l ruxaq xa man nuk'äm ta ri' rik'in ri HTTPS.
 about-httpsonly-explanation-risk = Chuqa' rik'in jub'a' nisamäj jun aj ojqanel. We nab'ij chi natz'ët ri ajk'amaya'l ruxaq, k'o chi man natz'ib'aj ta awetamab'al xa xe awichin achi'el, ewan taq tzij, taqoya'l chuqa' retal credit card.
+about-httpsonly-button-accept-and-continue = Xinwetamaj ri K'ayewal chuqa' Tinsamajij el
 about-httpsonly-button-go-back = Titzolin
+about-httpsonly-link-learn-more = Tetamäx ch'aqa' chik…
