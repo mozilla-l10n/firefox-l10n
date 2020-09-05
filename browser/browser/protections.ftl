@@ -118,6 +118,13 @@ info-monitored-emails =
         [many] عناوين البريد التي نراقبها
        *[other] عناوين البريد التي نراقبها
     }
+monitor-no-breaches-title = أخبار سارة!
+monitor-no-breaches-description = ما من تسريبات بيانات معروفة فيها بياناتك. سنُعلمك طبعًا في حال تغيّر الحال.
+monitor-manage-breaches-link = أدِر التسريبات
+    .title = أدِر التسريبات من { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-title-start = بداية طيبة!
+monitor-partial-breaches-motivation-title-middle = واصل على هذا النحو!
+monitor-partial-breaches-motivation-title-end = أوشكنا! واصل على هذا النحو.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

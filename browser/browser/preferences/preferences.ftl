@@ -82,6 +82,9 @@ extension-controlled-homepage-override = يتحكم أحد الامتدادات 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في صفحة اللسان الجديد.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في هذا الإعداد.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = يتحكّم الامتداد <img data-l10n-name="icon"/> { $name } بهذا الإعداد.
@@ -316,6 +319,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = استخدم { $plugin-name } (في { -brand-short-name })
@@ -332,12 +339,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -558,6 +569,7 @@ search-show-suggestions-above-history-option =
     .label = فضّل اقتراحات البحث على تأريخ التصفح في نتائج شريط العنوان
 search-show-suggestions-private-windows =
     .label = اعرض اقتراحات البحث في النوافذ الخاصة
+suggestions-addressbar-settings-generic = غيّر تفضيلات اقتراحات شريط العنوان
 search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
 search-one-click-header = محركات البحث بنقرة واحدة
 search-one-click-desc = اختر محركات البحث البديلة التي تظهر تحت شريطي العناوين و البحث عندما تكتب كلمة بحث.
@@ -571,6 +583,9 @@ search-restore-default =
 search-remove-engine =
     .label = احذف
     .accesskey = ح
+search-add-engine =
+    .label = أضِف
+    .accesskey = ض
 search-find-more-link = اعثر على المزيد من محركات البحث
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -762,6 +777,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = استخدم كلمة سر رئيسيّة
     .accesskey = خ
+forms-primary-pw-use =
+    .label = استعمل كلمة سر رئيسيّة
+    .accesskey = س
+forms-primary-pw-learn-more-link = اطّلع على المزيد
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -769,6 +788,14 @@ forms-master-pw-change =
     .label = غيّر كلمة السر الرئيسيّة…
     .accesskey = ر
 forms-master-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر غير فارغة.
+forms-primary-pw-change =
+    .label = غيّر كلمة السر الرئيسيّة…
+    .accesskey = غ
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
+forms-primary-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر رئيسية غير فارغة.
 forms-master-pw-fips-desc = فشل تغيير كلمة السر
 
 ## OS Authentication dialog
@@ -1103,6 +1130,10 @@ space-alert-under-5gb-message = مساحة القرص قاربت على النف
 
 httpsonly-header = وضع HTTPS فقط
 httpsonly-learn-more = اطّلع على المزيد
+httpsonly-radio-enabled =
+    .label = فعّل وضع HTTPS فقط في كل النوافذ
+httpsonly-radio-enabled-pbm =
+    .label = فعّل وضع HTTPS فقط في النوافذ الخاصة فقط
 httpsonly-radio-disabled =
     .label = لا تفعّل وضع HTTPS فقط
 
