@@ -38,6 +38,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Titzolïx
 reset-password-text = We natzolij ri ajtzij ewan atzij, xkeyujtäj el ri ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri ajtij ewan atzij?
+reset-primary-password-text = We natzolij ri Nab'ey Ewan Atzij, xkeyujtäj el ri nab'ey ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l kichin tzij, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri nab'ey ewan atzij?
+pippki-reset-password-confirmation-title = Titzolïx Nab'ey Ewan Tzij
+pippki-reset-password-confirmation-message = Xtzolïx Nab'ey Ewan Atzij.
 
 ## Downloading cert dialog
 
