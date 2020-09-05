@@ -12,10 +12,17 @@ key-wizard-learn-more = Dalše informacije
 radio-create-key =
     .label = Nowy OpenPGP-kluč wutworić
     .accesskey = O
+radio-import-key =
+    .label = Eksistowacy OpenPGP-kluč importować
+    .accesskey = E
 
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP-kluč wutworić
+openpgp-keygen-expiry-title = Płaćiwosć kluča
+radio-keygen-expiry =
+    .label = Kluč spadnje za
+    .accesskey = l
 radio-keygen-no-expiry =
     .label = Kluč njespadnje
     .accesskey = n
@@ -38,6 +45,8 @@ openpgp-keygen-type-ecc =
     .label = ECC (Elliptic Curve)
 openpgp-keygen-button = Kluč wutworić
 openpgp-keygen-progress-title = Waš nowy OpenPGP-kluč so wutwori…
+openpgp-keygen-import-progress-title = Waše OpenPGP-kluče so importuja…
+openpgp-import-success = OpenPGP-kluče wuspěšnje importowane!
 openpgp-keygen-confirm =
     .label = Wobkrućić
 openpgp-keygen-dismiss =
@@ -47,6 +56,9 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Začinić
     .accesskey = Z
+openpgp-keygen-abort-title = Wutworjenje kluča přetorhnyć?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Zjawny a tajny kluč za { $identity } wutworić?
 
 ## Import Key section
 
