@@ -11,11 +11,22 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Логиніңізді { $browser } ішінен импорттаңыз</div>
     <div data-l10n-name="line2">{ $host } және басқа да сайттар үшін</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Көбірек білу
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Логиніңізді Google Chrome ішінен импорттаңыз</div>
+    <div data-l10n-name="line2">{ $host } және басқа да сайттар үшін</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Логиніңізді Chromium ішінен импорттаңыз</div>
+    <div data-l10n-name="line2">{ $host } және басқа да сайттар үшін</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Логиніңізді Microsoft Edge ішінен импорттаңыз</div>
+    <div data-l10n-name="line2">{ $host } және басқа да сайттар үшін</div>
+
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Көбірек білу
+autocomplete-import-learn-more = Көбірек білу
