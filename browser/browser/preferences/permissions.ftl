@@ -119,6 +119,9 @@ permissions-site-location-disable-label =
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = అమరికలు - వర్చువల్ రియాలిటీ అనుమతులు
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
