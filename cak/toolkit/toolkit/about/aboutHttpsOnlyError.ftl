@@ -15,4 +15,5 @@ about-httpsonly-title = { -brand-short-name } Xril jun Nïm Ruk'ayewal Chajinïk
 about-httpsonly-explanation-unavailable = Atokinäq pa k'amaya'l xa xe pa rub'eyal HTTPS, chuqa' jun jikïl HTTPS ruwäch <em>{ $websiteUrl }</em> man wachel ta.
 about-httpsonly-explanation-question = ¿Achike ta k'a ri nib'ano re'?
 about-httpsonly-explanation-nosupport = Rik'in jub'a' chi ri ajk'amaya'l ruxaq xa man nuk'äm ta ri' rik'in ri HTTPS.
+about-httpsonly-explanation-risk = Chuqa' rik'in jub'a' nisamäj jun aj ojqanel. We nab'ij chi natz'ët ri ajk'amaya'l ruxaq, k'o chi man natz'ib'aj ta awetamab'al xa xe awichin achi'el, ewan taq tzij, taqoya'l chuqa' retal credit card.
 about-httpsonly-button-go-back = Titzolin
