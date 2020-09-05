@@ -27,9 +27,14 @@ pippki-incorrect-pw = Man ütz ta ri ewan tzij xatz'ib'aj. Tatojtob'ej chik.
 pippki-pw-change-ok = Ütz xjal ri nab'ey ewan tzij.
 pippki-pw-empty-warning = Man xkechajïx ta ri ewan taq atzij chuqa' ichinan ewan taq atzij e'ayakon.
 pippki-pw-erased-ok = Xayüj el ri nimaläj ewan tzij. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = ¡Tawak'axaj! Man xawajo' ta xawokisaj jun ewan tzij. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun ewan tzij ri man kowöl ta.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Titzolïx Nab'ey Ewan Tzij
+    .style = width: 40em
 reset-password-button-label =
     .label = Titzolïx
 reset-password-text = We natzolij ri ajtzij ewan atzij, xkeyujtäj el ri ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri ajtij ewan atzij?
