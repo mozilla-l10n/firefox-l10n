@@ -36,3 +36,5 @@ serviceworker-worker-status-stopped = అగివుంది
 serviceworker-empty-intro-link = ఇంకా తెలుసుకోండి
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = పొరపాట్లు, హెచ్చరికలు
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = ప్రతీకాలు
