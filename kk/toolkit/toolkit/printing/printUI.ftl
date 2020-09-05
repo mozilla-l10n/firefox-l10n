@@ -48,12 +48,40 @@ printui-backgrounds-checkbox = Фондарды баспаға шығару
 printui-color-mode-label = Түс режимі
 printui-color-mode-color = Түс
 printui-color-mode-bw = Қара және ақ
+printui-margins = Шеттер
+printui-margins-default = Бастапқы
+printui-margins-min = Минималды
+printui-margins-none = Жоқ
 printui-system-dialog-link = Жүйелік сұхбатын қолданып, баспаға шығару…
 printui-primary-button = Баспаға шығару
+printui-primary-button-save = Сақтау
 printui-cancel-button = Бас тарту
+printui-loading = Алдын ала қарауды дайындау
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Алдын-ала қарау
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Масштаб 10 мен 200 арасындағы сан болуы керек.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Ауқым 1 мен { $numPages } арасындағы сан болуы керек.
+printui-error-invalid-start-overflow = "Бастап" бет нөмірі "дейін" бет нөмірінен кіші болуы тиіс.
