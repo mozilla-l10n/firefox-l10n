@@ -42,6 +42,9 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = مرحبًا في <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-subtitle = المتصفّح السريع والآمن والخاص وتدعمه مؤسسة غير ربحية.
 onboarding-multistage-welcome-secondary-button-label = لِج
 onboarding-multistage-welcome-secondary-button-text = ألديك حسابًا؟
@@ -51,6 +54,15 @@ onboarding-multistage-import-header = استورِد كلمات السر <br/>و
 onboarding-multistage-import-subtitle = انتقلت إلى { -brand-short-name } من متصفّح آخر؟ نقل أمورك إلى هنا أسهل مما تتخيل.
 onboarding-multistage-import-primary-button-label = ابدأ الاستيراد
 onboarding-multistage-import-secondary-button-label = ليس الآن
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = وجدنا المواقع أسفله في هذا الجهاز. لا يحفظ { -brand-short-name } البيانات ولا يُزامنها من متصفّحاتك الأخرى إلّا بموافقتك على استيرادها.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = البداية: شاشة { $current } من أصل { $total }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = اختر <span data-l10n-name="zap">مظهرًا</span>
@@ -59,6 +71,8 @@ onboarding-multistage-theme-primary-button-label = احفظ السمة
 onboarding-multistage-theme-secondary-button-label = ليس الآن
 # System refers to the operating system
 onboarding-multistage-theme-description-automatic = استعمل سمة النظام
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

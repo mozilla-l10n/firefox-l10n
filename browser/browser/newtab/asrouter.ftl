@@ -249,6 +249,8 @@ cfr-whatsnew-passwords-body = يعرف المخترقون أن الناس تُع
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = حوّل الڤديو المعترِض ليملأ الشاشة
+cfr-whatsnew-pip-fullscreen-body = صار بإمكانك الآن (حين تنزع الڤديو ليصير في نافذة مستقلة) نقر النافذة مرتين لتملأ الشاشة.
 cfr-whatsnew-pip-fullscreen-icon-alt = أيقونة الڤديو المعترِض
 
 ## Protections Dashboard message
