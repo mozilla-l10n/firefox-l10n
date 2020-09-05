@@ -68,6 +68,20 @@ bar-tooltip-social =
             [one] { $count } సామాజిక మాధ్యమాల ట్రాకరు ({ $percentage }%)
            *[other] { $count } సామాజిక మాధ్యమాల ట్రాకర్లు ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = క్రాస్-సైట్ ట్రాకింగ్ కుకీలు
+    .aria-label =
+        { $count ->
+            [one] { $count } క్రాస్-సైట్ ట్రాకింగ్ కుకీ ({ $percentage }%)
+           *[other] { $count } క్రాస్-సైట్ ట్రాకింగ్ కుకీలు ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = ట్రాకింగ్ విషయం
+    .aria-label =
+        { $count ->
+            [one] { $count } ట్రాకింగ్ విషయం ({ $percentage }%)
+           *[other] { $count } ట్రాకింగ్ విషయాలు ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = ఫింగర్‌ప్రింటర్లు
     .aria-label =
