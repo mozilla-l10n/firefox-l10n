@@ -25,6 +25,8 @@ reset-password-window =
 pippki-failed-pw-change = Man tikirel ta xjal ri ewan tzij.
 pippki-incorrect-pw = Man ütz ta ri ewan tzij xatz'ib'aj. Tatojtob'ej chik.
 pippki-pw-change-ok = Ütz xjal ri nab'ey ewan tzij.
+pippki-pw-empty-warning = Man xkechajïx ta ri ewan taq atzij chuqa' ichinan ewan taq atzij e'ayakon.
+pippki-pw-erased-ok = Xayüj el ri nimaläj ewan tzij. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
