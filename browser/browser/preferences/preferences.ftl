@@ -779,6 +779,10 @@ forms-master-pw-fips-title = Se encuentra actualmente en modo FIPS. FIPS requier
 forms-primary-pw-change =
     .label = Cambiar la contraseña maestra…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Se encuentra actualmente en modo FIPS. FIPS requiere una contraseña maestra no vacía.
 forms-master-pw-fips-desc = Cambio Fallido de contraseña
 
