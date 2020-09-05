@@ -79,6 +79,70 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        استعمل مظهر نظام التشغيل
+        لعرض الأزرار والقوائم والنوافذ.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        استعمل مظهرًا فاتحًا لعرض
+        الأزرار والقوائم والنوافذ.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        استعمل مظهرًا داكنًا لعرض
+        الأزرار والقوائم والنوافذ.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        استعمل مظهرًا ملونًا لعرض
+        الأزرار والقوائم والنوافذ.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        استعمل مظهر نظام التشغيل
+        لعرض الأزرار والقوائم والنوافذ.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        استعمل مظهر نظام التشغيل
+        لعرض الأزرار والقوائم والنوافذ.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        استعمل مظهرًا فاتحًا لعرض
+        الأزرار والقوائم والنوافذ.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        استعمل مظهرًا فاتحًا لعرض
+        الأزرار والقوائم والنوافذ.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        استعمل مظهرًا داكنًا لعرض
+        الأزرار والقوائم والنوافذ.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        استعمل مظهرًا داكنًا لعرض
+        الأزرار والقوائم والنوافذ.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        استعمل مظهرًا ملونًا لعرض
+        الأزرار والقوائم والنوافذ.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        استعمل مظهرًا ملونًا لعرض
+        الأزرار والقوائم والنوافذ.
 
 ## Welcome full page string
 
