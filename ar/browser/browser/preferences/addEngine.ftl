@@ -5,3 +5,12 @@
 add-engine-window =
     .title = أضِف محرك بحث
     .style = width: 32em;
+add-engine-button = أضِف محركًا مخصصًا
+add-engine-name = اسم محرك البحث
+add-engine-cancel =
+    .label = ألغِ
+    .accesskey = ل
+add-engine-ok =
+    .label = أضِف محركًا
+    .accesskey = ض
+engine-name-exists = يوجد بالفعل محرك بهذا الاسم
