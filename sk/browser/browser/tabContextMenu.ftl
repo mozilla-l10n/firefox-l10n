@@ -55,7 +55,7 @@ move-to-new-window =
     .accesskey = d
 tab-context-close-multiple-tabs =
     .label = Zavrieť viaceré karty
-    .accesskey = Z
+    .accesskey = c
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
