@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/viewSource.xul -->
-
 <!-- extracted from content/viewSource.xhtml -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
@@ -14,6 +12,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Codi font de: ">
 
+<!ENTITY editMenu.label "Edita">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Fitxer">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Anomena i desa la pàgina…">
