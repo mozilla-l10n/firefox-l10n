@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Dale
     .buttonlabelhelp = Wróćo
+key-wizard-warning = <b>Jeli eksistowacy wosobinski kluč za tutu e-mejlowu adresu maće</b>, wy měł jón importować. Hewak ani nimaće přistup k swojim archiwam zaklučowanych mejlkow ani njemóžeće dochadźace mejlki wot ludźi čitać, kotřiž hišće waš eksistowacy kluč wužiwaja.
 key-wizard-learn-more = Dalše informacije
 radio-create-key =
     .label = Nowy OpenPGP-kluč wutworić
@@ -15,6 +16,9 @@ radio-create-key =
 radio-import-key =
     .label = Eksistowacy OpenPGP-kluč importować
     .accesskey = E
+radio-gnupg-key =
+    .label = Wužiwajće swój eksterny kluč přez GnuPG (na př. ze smartkarty)
+    .accesskey = G
 
 ## Generate key section
 
