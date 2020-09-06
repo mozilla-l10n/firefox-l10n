@@ -83,6 +83,15 @@ openpgp-key-confirm = Zjawny a tajny kluč za { $identity } wutworić?
 openpgp-import-key-title = Eksistowacy wosobinski OpenPGP-kluč importować
 openpgp-import-key-legend = Wubjerće do toho zawěsćenu dataju.
 openpgp-import-key-description = Móžeće wosobinske kluče importować, kotrež su so z druhej OpenPGP-softwaru wutworili.
+openpgp-import-key-info = Druha softwara móhła wosobinski kluč z alternatiwnymi zapřijećemi wopisać, na přikład swójski kluč, tajny kluč abo klučowy por.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird je { $count } kluč namakał, kotryž da so importować.
+        [two] Thunderbird je { $count } klučej namakał, kotrejž datej so importować.
+        [few] Thunderbird je { $count } kluče namakał, kotrež dadźa so importować.
+       *[other] Thunderbird je { $count } klučow namakał, kotrež da so importować.
+    }
 openpgp-passphrase-prompt-title = Hesłowa fraza trěbna
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Prošu zapodajće hesłowu frazu, zo byšće slědowacy kluč přewostajił: { $key }
