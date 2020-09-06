@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Jakamisen ilmaisin
-
 webrtc-sharing-window = Jaat toisen sovellusikkunan.
 webrtc-sharing-browser-window = Jaat sovelluksen { -brand-short-name }.
 webrtc-sharing-screen = Jaat koko näytön.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Mikrofoni on jaettu. Napsauta muokataksesi jakoasetuksia.
 webrtc-camera-button =
     .title = Kamera on jaettu. Napsauta muokataksesi jakoasetuksia.
+webrtc-microphone-unmuted =
+    .title = Sammuta mikrofoni
+webrtc-microphone-muted =
+    .title = Kytke mikrofoni päälle
+webrtc-camera-unmuted =
+    .title = Sammuta kamera
+webrtc-camera-muted =
+    .title = Kytke kamera päälle
 webrtc-minimize =
     .title = Pienennä ilmaisin
