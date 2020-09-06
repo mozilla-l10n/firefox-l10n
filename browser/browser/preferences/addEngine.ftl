@@ -5,3 +5,6 @@
 add-engine-window =
     .title = Lisää hakukone
     .style = width: 32em;
+add-engine-cancel =
+    .label = Peruuta
+    .accesskey = P
