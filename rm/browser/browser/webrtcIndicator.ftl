@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicatur da cundivisiun
-
 webrtc-sharing-window = Ti cundividas in'autra fanestra d'applicaziun.
 webrtc-sharing-browser-window = Ti cundividas { -brand-short-name }.
 webrtc-sharing-screen = Ti cundividas tes entir visur.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Tes microfon vegn cundividì. Clicca per controllar la cundivisiun.
 webrtc-camera-button =
     .title = Tia camera vegn cundividida. Clicca per controllar la cundivisiun.
+webrtc-microphone-unmuted =
+    .title = Deactivar il microfon
+webrtc-microphone-muted =
+    .title = Activar il microfon
+webrtc-camera-unmuted =
+    .title = Deactivar la camera
+webrtc-camera-muted =
+    .title = Activar la camera
 webrtc-minimize =
     .title = Reducir l'indicatur a l'icona
