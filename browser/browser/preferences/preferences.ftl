@@ -555,6 +555,9 @@ search-restore-default =
 search-remove-engine =
     .label = เอาออก
     .accesskey = อ
+search-add-engine =
+    .label = เพิ่ม
+    .accesskey = พ
 search-find-more-link = ค้นหาเครื่องมือค้นหาเพิ่มเติม
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
