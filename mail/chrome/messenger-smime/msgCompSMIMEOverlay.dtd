@@ -32,7 +32,7 @@
 <!ENTITY menu_securityStatus.label "Sicherheitsinformationen anzeigen">
 <!ENTITY menu_securityStatus.accesskey "i">
 
-<!ENTITY securityButton.label "S/MIME">
+<!ENTITY securityButton.label "Sicherheit">
 <!ENTITY securityButton.tooltip "Sicherheitseinstellungen ansehen oder ändern">
 
 <!ENTITY menu_viewSecurityStatus.label "Nachrichten-Sicherheit">
