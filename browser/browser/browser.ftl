@@ -330,6 +330,26 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ค้นหาเว็บ
     .aria-label = ค้นหาด้วย { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = ป้อนคำค้นหา
+    .aria-label = ค้นหา { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = ป้อนคำค้นหา
+    .aria-label = ค้นหาที่คั่นหน้า
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = ป้อนคำค้นหา
+    .aria-label = ค้นหาประวัติ
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = ป้อนคำค้นหา
+    .aria-label = ค้นหาแท็บ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
