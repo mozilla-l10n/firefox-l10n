@@ -103,6 +103,9 @@ openpgp-key-details-size-label =
 openpgp-key-details-created-label =
     .label = Wutworjeny
 openpgp-key-details-created-header = Wutworjeny
+openpgp-key-details-expiry-label =
+    .label = Datum spadnjenja
+openpgp-key-details-expiry-header = Datum spadnjenja
 openpgp-key-details-usage-label =
     .label = Wužiwanje
 openpgp-key-details-fingerprint-label = Porstowy wotćišć
@@ -133,21 +136,40 @@ openpgp-key-expand-section =
     .tooltiptext = Dalše informacije
 openpgp-key-revoke-title = Kluč wotwołać
 openpgp-key-edit-title = OpenPGP-kluč změnić
+openpgp-manager-button =
+    .label = Zrjadowak OpenPGP-klučow
+    .accesskey = P
+openpgp-key-remove-external =
+    .label = Eksterny klučowy ID wotstronić
+    .accesskey = E
+key-external-label = Eksterny GnuPG-kluč
 # Strings in keyDetailsDlg.xhtml
 key-type-public = zjawny kluč
 key-type-primary = hłowny kluč
 key-type-subkey = podkluč
+key-type-pair = klučowy por (tajny a zjawny kluč)
 key-expiry-never = ženje
 key-usage-encrypt = Zaklučować
 key-usage-sign = Signować
 key-usage-certify = Certifikować
 key-usage-authentication = Awtentifikacija
 key-does-not-expire = Kluč njespadnje
+key-expired-simple = Kluč je spadnył
+key-revoked-simple = Kluč je so wotwołał
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Powěsć z temu { $subject }
     njeda so dekodować.
     Chceće z druhej hesłowej frazu znowa spytać abo chceće powěsć přeskočić?
+# Strings in gpg.jsm
+unknown-signing-alg = Njeznaty signowanski algoritmus (ID: { $id })
+unknown-hash-alg = Njeznata kryptografiska kontrolna suma (ID: { $id })
+expiry-open-key-manager = Zrjadowak OpenPGP-klučow wočinić
+expiry-open-key-properties = Klučowe kajkosće wočinić
+# Strings filters.jsm
+filter-folder-required = Dyrbiće cilowy rjadowak wubrać.
+general-error = Zmylk: { $reason }
+dlg-button-delete = &Zhašeć
 
 ## Account settings export output
 

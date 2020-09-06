@@ -26,6 +26,8 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Tuta powěsć je so z klučom signowała, kotryž hišće nimaće.
 openpgp-search-signature-key =
     .label = Namakać…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = To je OpenPGP-powěsć, kotraž je so po zdaću přez MS-Exchange wobškodźiła. Jeli wobsah powěsće so kaž wočakowane njepokazuje, móžeće awtomatiske porjedźenje spytać.
 openpgp-broken-exchange-repair =
     .label = Powěsć porjedźić
 openpgp-broken-exchange-wait = Prošu čakajće…
