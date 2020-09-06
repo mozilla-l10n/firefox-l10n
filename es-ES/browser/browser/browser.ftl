@@ -330,6 +330,26 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Buscar en la web
     .aria-label = Buscar con { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Introducir términos de búsqueda
+    .aria-label = Buscar { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Introducir términos de búsqueda
+    .aria-label = Buscar en marcadores
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Introducir términos de búsqueda
+    .aria-label = Buscar en el historial
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Introducir términos de búsqueda
+    .aria-label = Buscar en las pestañas
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
