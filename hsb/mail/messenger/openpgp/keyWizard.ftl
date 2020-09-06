@@ -65,6 +65,12 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Začinić
     .accesskey = Z
+openpgp-keygen-missing-username = Njeje žane mjeno za aktualne konto podate. Prošu zapodajće hódnotu do pola   „Waše mjeno“ w kontowych nastajenjach.
+openpgp-keygen-long-expiry = Njemóžeće kluč wutworić, kotryž za wjace hač 100 lět spadnje.
+openpgp-keygen-short-expiry = Waš kluč dyrbi znajmjeńša jedyn dźeń płaćiwy być.
+openpgp-keygen-ongoing = Wutworjenje kluča hižo běži!
+openpgp-keygen-error-core = OpenPGP Core Service njeda so inicializować
+openpgp-keygen-error-failed = Wutworjenje OpenPGP-kluča je so njenadźicy nimokuliło
 openpgp-keygen-abort-title = Wutworjenje kluča přetorhnyć?
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Zjawny a tajny kluč za { $identity } wutworić?
