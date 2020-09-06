@@ -23,7 +23,9 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP-kluč wutworić
+openpgp-generate-key-info = <b>Wutworjenje kluča móže někotre mjeńšiny trać.</b> Njekónčće nałoženje, mjeztym so kluč wutworja. Hdyž aktiwnje přehladujeće abo operacije z intensiwnym wužiwanjom kruteje tačele wuwjedźeće, mjeztym zo so kluč wutworja, so ‚pool připadnosće‘ znowa napjelni a proces pospěši. Dóstanjeće zdźělenku, hdyž wutowrjenje kluča je dokónčene.
 openpgp-keygen-expiry-title = Płaćiwosć kluča
+openpgp-keygen-expiry-description = Nastajće čas płaćiwosće swojeho nowo wutworjeneho kluča. Móžeće pozdźišo čas podlěšić, jeli trjeba.
 radio-keygen-expiry =
     .label = Kluč spadnje za
     .accesskey = l
@@ -37,6 +39,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = lět
 openpgp-keygen-advanced-title = Rozšěrjene nastajenja
+openpgp-keygen-advanced-description = Kontrolujće rozšěrjene nastajenja swojeho OpenPGP-kluča.
 openpgp-keygen-keytype =
     .value = Klučowy typ:
     .accesskey = t
@@ -51,6 +54,8 @@ openpgp-keygen-button = Kluč wutworić
 openpgp-keygen-progress-title = Waš nowy OpenPGP-kluč so wutwori…
 openpgp-keygen-import-progress-title = Waše OpenPGP-kluče so importuja…
 openpgp-import-success = OpenPGP-kluče wuspěšnje importowane!
+openpgp-import-success-title = Importowanski proces dokónčić
+openpgp-import-success-description = Zo byšće swój importowany OpenPGP-kluč za e-mejlowe zaklučowanje wužiwał, začińće tutón dialog a dźiće k swojim kontowym nastajenjam, zo byšće jón wubrał.
 openpgp-keygen-confirm =
     .label = Wobkrućić
 openpgp-keygen-dismiss =
