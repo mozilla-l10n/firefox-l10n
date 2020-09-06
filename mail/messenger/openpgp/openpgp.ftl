@@ -12,6 +12,7 @@ openpgp-cancel-key =
 
 ## OpenPGP Key selection area
 
+key-type-primary = clau principal
 
 ## Account settings export output
 

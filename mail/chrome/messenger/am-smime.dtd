@@ -24,7 +24,7 @@
 
 
 
-
+<!ENTITY openpgpKeys.label "OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleccioneu un certificat">
