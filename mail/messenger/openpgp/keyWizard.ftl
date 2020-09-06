@@ -104,6 +104,11 @@ import-key-file = Dataju OpenPGP-kluča importować
 import-key-personal-checkbox =
     .label = Z tutym klučom kaž z wosobinskim klučom wobchadźeć
 gnupg-file = GnuPG-dataje
+import-error-file-size = <b>Zmylk!</b> Dataje, kotrež su wjetše hač 5 MB, so njepodpěruja.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Zmylk!</b> Dadaja njeda so importować. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Zmylk!</b>Kluče njedachu so importować. { $error }
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Porstowy wotćišć
 openpgp-import-created-label = Wutworjeny
@@ -114,5 +119,11 @@ openpgp-import-key-props =
 
 ## External Key section
 
+openpgp-external-key-title = Eksterny GnuPG-kluč
+openpgp-external-key-description = Zapodajće klučowy ID, zo byšće eksterny GnuPG-kluč konfigurował
+openpgp-external-key-info = Nimo toho dyrbiće zrjadowak klučow wužiwać, zo byšće wotpowědny zjawny kluč importował a akceptował.
+openpgp-external-key-warning = <b>Móžeće snano jenož jedym eksterny GnuPG-kluč konfigurować.</b> Waš předchadny zapisk so wuměni.
+openpgp-save-external-button = Klučowy ID składować
+openpgp-external-key-label = Tajny klučowy ID:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
