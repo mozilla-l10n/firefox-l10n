@@ -76,6 +76,11 @@ printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = US Letter
 printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Området skal være et tal mellem 1 og { $numPages }.
+printui-error-invalid-start-overflow = Sidetallet "fra" skal være mindre end sidetallet "til".
