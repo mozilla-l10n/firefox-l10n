@@ -11,11 +11,15 @@
 autocomplete-import-logins =
     <div data-l10n-name = "line1">Importe su inicio de sesión desde { $browser }</div>
     <div data-l10n-name = "line2">para { $host } y otros sitios</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Saber más
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chrome =
+    <div data-l10n-name = "line1">Importe su inicio de sesión desde Google Chrome</div>
+    <div data-l10n-name = "line2">para { $host } y otros sitios</div>
+
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Saber más
