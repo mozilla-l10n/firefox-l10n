@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Suprimeix les llistes">
 <!ENTITY deleteItemsCmd.label                           "Suprimeix els elements">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Propietats">
 <!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Missatgeria">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Llibreta d'adreces">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Cerca les adreces…">
 <!ENTITY searchAddressesCmd.accesskey                   "e">
 <!ENTITY importCmd.label                                "Importa…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "P">
 <!ENTITY abPropertiesContext.label                      "Propietats">
 <!ENTITY abPropertiesContext.accesskey                  "P">
+<!ENTITY syncContext.label                              "Sincronitza">
+<!ENTITY syncContext.accesskey                          "z">
 <!ENTITY editContactContext.label                       "Edita el contacte">
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "Edita la llista">

@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Paràmetres del compte">
@@ -15,6 +13,8 @@
 <!ENTITY name.accesskey "v">
 <!ENTITY email.label "Adreça electrònica:">
 <!ENTITY email.accesskey "e">
+<!ENTITY catchAll.label "Respon des d'aquesta identitat quan coincideixin les capçaleres de lliurament:">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Adreça de resposta:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Els destinataris respondran a aquesta adreça electrònica">
