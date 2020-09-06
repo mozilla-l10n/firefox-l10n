@@ -71,12 +71,18 @@ openpgp-keygen-short-expiry = Waš kluč dyrbi znajmjeńša jedyn dźeń płaći
 openpgp-keygen-ongoing = Wutworjenje kluča hižo běži!
 openpgp-keygen-error-core = OpenPGP Core Service njeda so inicializować
 openpgp-keygen-error-failed = Wutworjenje OpenPGP-kluča je so njenadźicy nimokuliło
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP-kluč je so wuspěšnje wutworił, ale njeje so poradźiło, wotwołanje za kluč { $key } dóstać.
 openpgp-keygen-abort-title = Wutworjenje kluča přetorhnyć?
+openpgp-keygen-abort = Wutworjenje OpenPGP-kluča tuchwilu běži, chceće jo woprawdźe přetorhnyć?
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Zjawny a tajny kluč za { $identity } wutworić?
 
 ## Import Key section
 
+openpgp-import-key-title = Eksistowacy wosobinski OpenPGP-kluč importować
+openpgp-import-key-legend = Wubjerće do toho zawěsćenu dataju.
+openpgp-import-key-description = Móžeće wosobinske kluče importować, kotrež su so z druhej OpenPGP-softwaru wutworili.
 openpgp-passphrase-prompt-title = Hesłowa fraza trěbna
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Prošu zapodajće hesłowu frazu, zo byšće slědowacy kluč přewostajił: { $key }
