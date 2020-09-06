@@ -92,9 +92,17 @@ openpgp-import-key-list-amount =
         [few] Thunderbird je { $count } kluče namakał, kotrež dadźa so importować.
        *[other] Thunderbird je { $count } klučow namakał, kotrež da so importować.
     }
+openpgp-import-key-list-description = Wobkrućće, kotre kluče maja waše wosobinske kluče być. Jenož kluče, kotrež sće sam wutworił a kotrež wašu identitu pokazuja, měli jako wosobinske kluče wužiwać. Móžeće tute nastajenje pozdźišo w dialogu klučowych kajkosćow změnić.
+openpgp-import-key-list-caption = Kluče, kotrež su jako wosobinske kluče wobkrućene, so we wotrězku kluč do kluča nalistuja. Druhe su w zrjadowaku klučow k dispoziciji.
 openpgp-passphrase-prompt-title = Hesłowa fraza trěbna
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Prošu zapodajće hesłowu frazu, zo byšće slědowacy kluč přewostajił: { $key }
+openpgp-import-key-button =
+    .label = Wubjerće dataju, kotraž ma so importować…
+    .accesskey = u
+import-key-file = Dataju OpenPGP-kluča importować
+import-key-personal-checkbox =
+    .label = Z tutym klučom kaž z wosobinskim klučom wobchadźeć
 gnupg-file = GnuPG-dataje
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Porstowy wotćišć
