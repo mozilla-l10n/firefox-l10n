@@ -214,6 +214,12 @@ dlg-button-delete = &Zhašeć
 
 ## Account settings export output
 
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importować
+delete-key-title = OpenPGP-kluč zhašeć
+delete-external-key-title = Eksterny GnuPG-kluč wotstronić
+delete-external-key-description = Chceće ID eksterneho GnuPG-kluča wotstronić?
+key-in-use-title = OpenPGP-kluč so tuchwilu wužiwa
 # Strings used in trust.jsm
 key-valid-unknown = njeznaty
 key-valid-invalid = njepłaćiwy
@@ -225,7 +231,24 @@ key-trust-full = dowěry hódny
 key-trust-group = (skupina)
 gnupg-file = GnuPG-dataje
 passphrase-prompt = Prošu zapodajće hesłowu frazu, kotraž slědowacy kluč přewostaja: { $key }
+key-man-button-generate-key = Kluč wu&tworić
+key-abort = Wutworjenje kluča přetorhnyć?
+key-man-button-generate-key-abort = Wutworjenje k&luča přetorhnyć
+key-man-button-generate-key-continue = Z wu&tworjenjom kluča pokročować
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Zmylk – dešifrowanje njeje so poradźiło
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Powěsć pósłać
 msg-compose-details-button-label = Podrobnosće…
 msg-compose-details-button-access-key = P
+key-not-trusted = Nic dosć dowěry za kluč ‚{ $key }‘
+key-not-found = Kluč ‚{ $key }‘ njeje so namakał
+key-revoked = Kluč ‚{ $key }‘ je so wotwołał
+key-expired = Kluč ‚{ $key }‘ je spadnył
+msg-compose-internal-error = Interny zmylk je nastał.
+# Strings used in decryption.jsm
+do-import-multiple =
+    Slědowace kluče importować?
+    { $key }
+do-import-one = { $name } ({ $id }) importować?
+cant-import = Zmylk při importowanju zjawneho kluča
