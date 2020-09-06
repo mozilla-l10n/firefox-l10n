@@ -9,6 +9,8 @@ openpgp-keygen-title-label =
 openpgp-cancel-key =
     .label = Přetorhnyć
     .tooltiptext = Wutworjenje kluča přetorhnyć
+openpgp-key-gen-expiry-title =
+    .label = Płaćiwosć kluča
 openpgp-key-gen-expire-label = Kluč spadnje za
 openpgp-key-gen-days-label =
     .label = dnjow
@@ -154,6 +156,8 @@ e2e-learn-more = Dalše informacije
 
 openpgp-radio-none =
     .label = Žadyn
+openpgp-key-expired-image =
+    .tooltiptext = Kluč je spadnył
 openpgp-key-expand-section =
     .tooltiptext = Dalše informacije
 openpgp-key-revoke-title = Kluč wotwołać
@@ -176,8 +180,19 @@ key-usage-sign = Signować
 key-usage-certify = Certifikować
 key-usage-authentication = Awtentifikacija
 key-does-not-expire = Kluč njespadnje
+key-expired-date = Kluč je { $keyExpiry } spadnył
 key-expired-simple = Kluč je spadnył
 key-revoked-simple = Kluč je so wotwołał
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Zaklučowany dźěl powěsće
+# Strings in keyserver.jsm
+keyserver-error-aborted = Přetorhnjeny
+keyserver-error-unknown = Njeznaty zmylk je wustupił
+keyserver-error-server-error = Klučowy serwer je zmylk zdźělił.
+keyserver-error-unavailable = Klučowy serwer k dispoziciji njeje
+keyserver-error-security-error = Klučowy serwer zaklučowany přistup njepodpěruje.
+keyserver-error-certificate-error = Certifikat klučoweho serwera płaćiwy njeje.
+keyserver-error-unsupported = Klučowy serwer so njepodpěruje.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Powěsć z temu { $subject }
@@ -190,6 +205,10 @@ expiry-open-key-manager = Zrjadowak OpenPGP-klučow wočinić
 expiry-open-key-properties = Klučowe kajkosće wočinić
 # Strings filters.jsm
 filter-folder-required = Dyrbiće cilowy rjadowak wubrać.
+filter-term-pgpencrypted-label = Z OpenPGP zaklučowany
+filter-key-required = Dyrbiće kluč přijimarja wubrać.
+import-info-fpr = Porstowy wotćišć
+import-info-no-keys = Žane kluče importowane.
 general-error = Zmylk: { $reason }
 dlg-button-delete = &Zhašeć
 
