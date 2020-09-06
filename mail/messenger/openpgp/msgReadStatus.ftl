@@ -11,4 +11,5 @@ openpgp-no-sig = Žana digitalna signatura
 openpgp-uncertain-sig = Njewěsta digitalna signatura
 openpgp-invalid-sig = Njepłaćiwa digitalna signatura
 openpgp-good-sig = Dobra digitalna signatura
+openpgp-sig-uncertain-no-key = Tuta powěsć digitalnu signaturu wobsahuje, ale je njewěsta, jeli je korektna. Zo byšće signaturu přepruwował, dyrbiće sej kopiju zjawneho kluča wotpósłarja wobstarać.
 openpgp-unknown-key-id = Njeznaty kluč
