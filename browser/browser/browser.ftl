@@ -322,6 +322,26 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Søg eller indtast en adresse
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Søg på nettet
+    .aria-label = Søg på nettet med { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Indtast søgestreng
+    .aria-label = Søg efter bogmærker
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Indtast søgestreng
+    .aria-label = Søg i historik
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Indtast søgestreng
+    .aria-label = Søg i faneblade
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
