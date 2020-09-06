@@ -59,3 +59,5 @@ css-compatibility-deprecated-experimental-supported-message = <strong>{ $propert
 css-compatibility-deprecated-message = <strong>{ $property }{ $property } yra nenaudotina pagal „W3C“ standartus. Ji nėra palaikoma šiose naršyklėse:
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> yra nenaudotina pagal „W3C“ standartus.
 css-compatibility-experimental-message = <strong>{ $property }</strong> yra bandomoji savybė. Ji nėra palaikoma šiose naršyklėse:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> yra bandomoji savybė.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Sužinokite daugiau</span> apie <strong>{ $rootProperty }</strong>
