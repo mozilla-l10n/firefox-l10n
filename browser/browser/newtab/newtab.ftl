@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ค้นหา
     .aria-label = ค้นหา
-
 newtab-search-box-search-the-web-text = ค้นหาเว็บ
 newtab-search-box-search-the-web-input =
     .placeholder = ค้นหาเว็บ
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = แก้ไขไซต์เด่น
 newtab-topsites-title-label = ชื่อเรื่อง
 newtab-topsites-title-input =
     .placeholder = ป้อนชื่อเรื่อง
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = พิมพ์หรือวาง URL
 newtab-topsites-url-validation = ต้องการ URL ที่ถูกต้อง
-
 newtab-topsites-image-url-label = URL ภาพที่กำหนดเอง
 newtab-topsites-use-image-link = ใช้ภาพที่กำหนดเอง…
 newtab-topsites-image-validation = ไม่สามารถโหลดภาพ ลอง URL อื่น
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = การกระทำนี้ไม่ส
 newtab-menu-section-tooltip =
     .title = เปิดเมนู
     .aria-label = เปิดเมนู
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = เอาออก
     .aria-label = เอาออก
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -138,12 +133,10 @@ newtab-label-removed-bookmark = เอาที่คั่นหน้าออ
 newtab-label-recommended = กำลังนิยม
 newtab-label-saved = บันทึกไปยัง { -pocket-brand-name } แล้ว
 newtab-label-download = ดาวน์โหลดแล้ว
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ผู้สนับสนุน
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -180,13 +173,11 @@ newtab-section-header-pocket = แนะนำโดย { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = เริ่มการเรียกดูและเราจะแสดงบทความ, วิดีโอ และหน้าอื่น ๆ บางส่วนที่ยอดเยี่ยมที่คุณได้เยี่ยมชมหรือเพิ่มที่คั่นหน้าไว้ล่าสุดที่นี่
-
+newtab-empty-section-highlights = เริ่มท่องเว็บและเราจะแสดงบทความ วิดีโอ และหน้าอื่น ๆ บางส่วนที่ยอดเยี่ยมที่คุณได้เยี่ยมชมหรือเพิ่มที่คั่นหน้าไว้ล่าสุดที่นี่
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = คุณได้อ่านเรื่องราวครบทั้งหมดแล้ว คุณสามารถกลับมาตรวจดูเรื่องราวเด่นจาก { $provider } ได้ภายหลัง อดใจรอไม่ได้งั้นหรือ? เลือกหัวข้อยอดนิยมเพื่อค้นหาเรื่องราวที่ยอดเยี่ยมจากเว็บต่าง ๆ
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
