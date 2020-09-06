@@ -77,6 +77,9 @@ show-dir-label =
         [windows] เปิดโฟลเดอร์
        *[other] เปิดไดเรกทอรี
     }
+environment-variables-title = ตัวแปรสภาพแวดล้อม
+environment-variables-name = ชื่อ
+environment-variables-value = ค่า
 experimental-features-title = คุณลักษณะทดลอง
 experimental-features-name = ชื่อ
 experimental-features-value = ค่า
