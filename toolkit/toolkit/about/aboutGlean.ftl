@@ -6,4 +6,8 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Om Glean
+about-glean-warning = Misbrug af denne brugerflade kan få { -brand-short-name } til at gå ned.
+tag-pings-label = Giv alle sendte pings dette mærkat
+log-pings-label = Log pingets payload, inden det sendes?
+send-pings-label = Send det navngivne ping
 controls-button-label = Gem indstillinger
