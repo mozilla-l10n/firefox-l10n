@@ -35,6 +35,7 @@ printui-destination-label = Destination
 printui-destination-pdf-label = Gem som PDF
 printui-more-settings = Flere indstillinger
 printui-less-settings = Færre indstillinger
+printui-paper-size-label = Papirstørrelse
 # Section title (noun) for the print scaling options
 printui-scale = Skalering
 printui-scale-fit-to-page = Tilpas til siden
@@ -80,6 +81,7 @@ printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Skalering skal være et tal mellem 10 og 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Området skal være et tal mellem 1 og { $numPages }.
