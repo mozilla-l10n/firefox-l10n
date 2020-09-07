@@ -233,3 +233,5 @@ cert-format-base64 = X.509 վկայագիր (PEM)
 cert-format-base64-chain = X.509 վկայագիր (PEM) շղթայով
 cert-format-der = X.509 վկայագիր (DER)
 cert-format-pkcs7 = X.509 վկայագիր (PKCS#7)
+cert-format-pkcs7-chain = X.509 վկայագրերի շղթայ (PKCS#7)
+write-file-failure = Նիշի սխալ
