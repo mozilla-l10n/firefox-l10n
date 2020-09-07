@@ -58,8 +58,6 @@
 <!ENTITY printButton.label            "プリント">
 <!ENTITY printButton.tooltip          "このページをプリントする">
 
-<!ENTITY throbber.tooltip             "&vendorShortName; のホームページへ移動">
-
 <!ENTITY locationBar.tooltip          "検索する用語、キーワード、またはウェブアドレスを入力">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "アドレス (URL)">
