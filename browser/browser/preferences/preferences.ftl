@@ -571,6 +571,9 @@ search-restore-default =
 search-remove-engine =
     .label = Retirar
     .accesskey = r
+search-add-engine =
+    .label = Engadir
+    .accesskey = E
 search-find-more-link = Atopar máis buscadores
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
