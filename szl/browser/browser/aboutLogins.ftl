@@ -76,6 +76,7 @@ login-intro-instruction-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-
 login-intro-instruction-fxa-settings = Wejzdrzij, żeby ôpcyjo „dane logowanio” była zaznaczōno we sztelōnkach aplikacyje { -sync-brand-short-name }
 about-logins-intro-instruction-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy
 about-logins-intro-import = Jak twoje dane logowanio sōm spamiyntane we inkszyj przeglōndarce, to możesz <a data-l10n-name="import-link">importować je do usugi { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Jak dane logowanio mosz spamiyntane kaj indzij jak we przeglōndarce { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">importnōnć je z inkszyj przeglōndarki</a> abo <a data-l10n-name="import-file-link">ze zbioru</a>
 
 ## Login
 
@@ -137,6 +138,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = eksportuj spamiynta
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Wkludź swoje głōwne hasło, żeby ôbejzdrzeć spamiyntane loginy i hasła
 master-password-reload-button =
     .label = Wloguj
     .accesskey = l
@@ -221,3 +223,13 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Import zbioru z danymi logowanio
+about-logins-import-file-picker-import-button = Importuj
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumynt CSV
+       *[other] Zbiōr CSV
+    }

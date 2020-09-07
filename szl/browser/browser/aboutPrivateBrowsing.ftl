@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Szukej w internecie
 about-private-browsing-not-private = Niy je żeś teroz we prywatnym ôknie.
 about-private-browsing-info-description = { -brand-short-name } ôprōznio historyjo wyszukowanio i przeglōndanio, jak wyłōnczysz aplikacyjo abo jak zawrzisz wszyske prywatne karty i ôkna. Skuli tego niy je sie anonimowym do strōn ani dostowcōw necowych usug. Snadnij ale możesz skryć swoja aktywność w internecie przed inkszymi, co używajōm tego kōmputra.
-
+about-private-browsing-need-more-privacy = Potrzebujesz wiynkszyj prywatności?
+about-private-browsing-turn-on-vpn = Sprōbuj { -mozilla-vpn-brand-name(case: "acc") }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
