@@ -218,6 +218,18 @@ add-exception-domain-mismatch-long = Վկայագիրը պատկանում է ա
 add-exception-expired-short = Հնացած տուեալներ
 add-exception-expired-long = Վկայագիրը այս պահին վաւեր չէ: Հնարաւոր է՝ այն գողացուել է կամ աւգտագործում է մեկը, որը ցանկանում է կեղծել այս կայքը:
 add-exception-unverified-or-bad-signature-short = Անյայտ ինքնութիւն
+add-exception-unverified-or-bad-signature-long = Վկայագիրը վստահելի չէ, քանի որ այն չի հաստատուել որպէս վկայագիր՝ թողարկուած անվտանգ ստորագրութեամբ վստահելի կենտրոնի կողմից։
+add-exception-valid-short = Վաւեր վկայագիր
+add-exception-valid-long = Այս կայքը տրամադրում է ստուգուած եւ վաւեր նոյնականացում։ Կարիք չկայ բացառութիւն աւելացնել։
+add-exception-checking-short = Տուեալների ստուգում
+add-exception-checking-long = Փորձ է արուում նոյնականացնել կայքը…
+add-exception-no-cert-short = Չկայ հասանելի տուեալ
+add-exception-no-cert-long = Չյաջողուեց ստանալ այս կայքի նոյնականացման տուեալները:
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Պահել վկայագիրը նիշում
+cert-format-base64 = X.509 վկայագիր (PEM)
+cert-format-base64-chain = X.509 վկայագիր (PEM) շղթայով
+cert-format-der = X.509 վկայագիր (DER)
+cert-format-pkcs7 = X.509 վկայագիր (PKCS#7)
