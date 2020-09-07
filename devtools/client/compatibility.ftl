@@ -6,12 +6,17 @@
 ## Messages used as headers in the main pane
 
 compatibility-selected-element-header = Izbran element
+compatibility-all-elements-header = Vse težave
 
 ## Message used as labels for the type of issue
 
 compatibility-issue-deprecated = (zastarelo)
 compatibility-issue-experimental = (poskusno)
+compatibility-issue-prefixneeded = (potrebna je predpona)
 compatibility-issue-deprecated-experimental = (zastarelo, poskusno)
+compatibility-issue-deprecated-prefixneeded = (zastarelo, potrebna je predpona)
+compatibility-issue-experimental-prefixneeded = (poskusno, potrebna je predpona)
+compatibility-issue-deprecated-experimental-prefixneeded = (zastarelo, poskusno, potrebna je predpona)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -29,5 +34,15 @@ compatibility-target-browsers-header = Ciljni brskalniki
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } pojavitev
+        [two] { $number } pojavitvi
+        [few] { $number } pojavitve
+       *[other] { $number } pojavitev
+    }
 compatibility-close-settings-button =
     .title = Zapri nastavitve
