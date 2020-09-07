@@ -32,7 +32,7 @@
 <!ENTITY successful.write "Γράψτε κάποια μηνύματα">
 <!ENTITY successful.write.desc "Πείτε στους φίλους και την οικογένεια σας για την νέα σας διεύθυνση.<br/> Για αυτό εξάλλου δεν φτιάξατε αυτή την διεύθυνση;">
 <!ENTITY successful.customize "Προσαρμόστε το &brandShortName; με μερικά ενδιαφέροντα πρόσθετα">
-<!ENTITY successful.customize.desc "Υπάρχουν χιλιάδες πρόσθετα που σας επιτρέπουν να προσαρμόσετε τον &brandShortName; στις ανάγκες σας.">
+<!ENTITY successful.customize.desc "Υπάρχουν χιλιάδες πρόσθετα που σας επιτρέπουν να προσαρμόσετε το &brandShortName; στις ανάγκες σας.">
 <!ENTITY successful.attach "Επισύναψη μιας υπογραφής στο μήνυμα">
 <!ENTITY successful.attach.desc "Μπορείτε να επισυνάψετε αυτόματα μια παράθεση ή κάποιες πληροφορίες για τον εαυτό σας στο τέλος κάθε μηνύματος που στέλνετε.">
 <!ENTITY successful.close "Κλείσιμο του παραθύρου.">
