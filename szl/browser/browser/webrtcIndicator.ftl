@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Informacyje ô udostympnianiu
-
 webrtc-sharing-window = Inksze ôkno aplikacyje je udostympniane.
 webrtc-sharing-browser-window = Udostympniosz aplikacyjo { -brand-short-name }.
 webrtc-sharing-screen = Udostympniosz cołki ekran.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Twōj mikrofōn je udostympniany. Kliknij, coby regiyrować udostympnianiym.
 webrtc-camera-button =
     .title = Twoja kamera je udostympniano. Kliknij, coby regiyrować udostympnianiym.
+webrtc-microphone-unmuted =
+    .title = Wyłōncz mikrofōn
+webrtc-microphone-muted =
+    .title = Załōncz mikrofōn
+webrtc-camera-unmuted =
+    .title = Wyłōncz kamera
+webrtc-camera-muted =
+    .title = Załōncz kamera
 webrtc-minimize =
     .title = Minimalizuj informacyje

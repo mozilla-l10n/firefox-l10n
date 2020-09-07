@@ -12,16 +12,13 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Pokozoł sie feler przi łōnczyniu z { $hostname }. { $errorMessage }
-
 psmerr-ssl-disabled = Niy idzie sie bezpiecznie połōńczyć, bo protokōł SSL je zastawiōny.
 psmerr-ssl2-disabled = Niy idzie sie bezpiecznie połōnczyć, bo strōna używo starszyj, przedownionyj wersyje protokołu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prziszoł felerny certyfikat. Skōntaktuj sie ze administratorym serwera abo wystowcōm certyfikatu i przekoż ta informacyjo:
     
     Twōj certyfikat mo taki sōm nōmer seryje jak inkszy certyfikat, co je wystawiōny ôd wystowcy certyfikatōw. Trza dostać nowy certyfikat, co bydzie mieć unikatowy nōmer seryje.
-
 ssl-error-export-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer niy ôbsuguje szyfrowanio wysokigo poziōmu.
 ssl-error-us-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer potrzebuje szyfrowanio wysokigo poziōmu, co niy ma ôbsugiwane.
 ssl-error-no-cypher-overlap = Niy idzie sie bezpiecznie kōmunikować z partnerym: chybio spōlnych algorytmōw szyfrowanio.
@@ -123,3 +120,4 @@ ssl-error-insufficient-security-alert = Serwer potrzebuje bezpieczniyjszych szyf
 ssl-error-internal-error-alert = Partner dowo znać, że pokozoł sie wewnyntrzny feler.
 ssl-error-user-canceled-alert = Partner pociepoł prziwitanie.
 ssl-error-no-renegotiation-alert = Partner niy dowo zgody na rynegocjacyjo parametrōw bezpieczyństwa SSL.
+ssl-error-server-cache-not-configured = Podrynczno pamiynć serwera SSL niy ma nastawiōno i niy ma wyłōnczōno do tego socketa.
