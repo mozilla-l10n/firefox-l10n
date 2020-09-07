@@ -167,9 +167,34 @@ delete-ca-cert-confirm = Դուք պատրաստուում էք ջնջել այ�
 delete-ca-cert-impact = Եթե ջնջէք կամ չվստահէք վկայագրման կենտրոնի (CA) վկայագրին, ապա ծրագիրը այլեւս չի վստահի այս CA-ի վկայագրերին:
 delete-email-cert-title =
     .title = Ջնջել ել-փոստի արտաւնագրերը
+delete-email-cert-confirm = Իրաւ՞ք ցանկանում էք այս անձանց ել.փոստերի վկայագրերը հեռացնել:
+delete-email-cert-impact = Եթե դուք ջնջէք անձի ել. փոստի վկայագիրը, ապա դուք այլեւս չէք կարողանայ ուղարկել ծածկագրուած ել.նամակ տուեալ անձին:
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Վկայագրել յաջորդական համարով՝ { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Վկայագրի դիտակ՝ «{ $certName }»
+not-present =
+    .value = <Վկայագրի մաս չէ>
+# Cert verification
+cert-verified = Այս վկայագիրը վաւերացուել է հետեւեալ նշանակութիւնների համար.
+# Add usage
+verify-ssl-client =
+    .value = SSL Սպասառուի վկայագիր
+verify-ssl-server =
+    .value = SSL Սպասարկչի վկայագիրը
+verify-ssl-ca =
+    .value = SSL վկայագրման կենտրոնը
 
 ## Add Security Exception dialog
 
