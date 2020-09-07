@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Δημιουργία νέου συμβάντος" >
 <!ENTITY calendar.newtask.button.tooltip          "Δημιουργία νέας εργασίας" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Εργασίες" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Εμφάνιση ολοκληρωμένων εργασιών">
 
 <!ENTITY calendar.today.button.label          "Σήμερα">
@@ -206,9 +204,9 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "Έγινε αποδεκτό με δισταγμό">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.declined.label         "Απορρίφθηκε">
-<!ENTITY calendar.context.attendance.all.delegated.accesskey    "">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "ρ">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Ανατέθηκε">
-<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "κ">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Χρειάζεται ακόμη ενέργεια">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Σε εξέλιξη">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Χρώμα:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Διακομιστής ημερολογίου Sun Java System (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Μορφή:">
 <!ENTITY calendarproperties.location.label                 "Τοποθεσία:">
 <!ENTITY calendarproperties.refreshInterval.label          "Ανανέωση ημερολογίου:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Μόνο για ανάγνωση">
 <!ENTITY calendarproperties.firealarms.label               "Εμφάνιση υπενθυμίσεων">
 <!ENTITY calendarproperties.cache3.label                   "Υποστήριξη εκτός σύνδεσης">
-<!ENTITY calendarproperties.enabled.label                  "Ενεργοποίηση αυτού του ημερολογίου">
 <!ENTITY calendarproperties.enabled2.label                 "Ενεργοποίηση ημερολογίου">
 <!ENTITY calendarproperties.forceDisabled.label            "Η υπηρεσία παροχής για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
 <!ENTITY calendarproperties.unsubscribe.label              "Απεγγραφή">
