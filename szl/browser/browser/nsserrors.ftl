@@ -121,3 +121,4 @@ ssl-error-internal-error-alert = Partner dowo znać, że pokozoł sie wewnyntrzn
 ssl-error-user-canceled-alert = Partner pociepoł prziwitanie.
 ssl-error-no-renegotiation-alert = Partner niy dowo zgody na rynegocjacyjo parametrōw bezpieczyństwa SSL.
 ssl-error-server-cache-not-configured = Podrynczno pamiynć serwera SSL niy ma nastawiōno i niy ma wyłōnczōno do tego socketa.
+ssl-error-unsupported-extension-alert = Partner protokołu SSL niy ôbsuguje proszōnego rozszyrzynio TLS hello.
