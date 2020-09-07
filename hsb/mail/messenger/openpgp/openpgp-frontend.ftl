@@ -31,5 +31,9 @@ openpgp-broken-exchange-info = To je OpenPGP-powěsć, kotraž je so po zdaću p
 openpgp-broken-exchange-repair =
     .label = Powěsć porjedźić
 openpgp-broken-exchange-wait = Prošu čakajće…
+openpgp-cannot-decrypt-because-mdc =
+    To je zaklučowana powěsć, kotraž stary a napadliwy mechanizm wužiwa.
+    Je so snano při přenošowanju změniła, z wotpohladom, jeje wobsah kradnyć.
+    Zo by so tute riziko wobešło, wwobsah so njepokazuje.
 openpgp-partial-verify-button = Wobkrućić
 openpgp-partial-decrypt-button = Dešifrować
