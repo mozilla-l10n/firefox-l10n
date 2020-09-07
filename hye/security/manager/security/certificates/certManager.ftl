@@ -187,7 +187,7 @@ cert-viewer-title =
 not-present =
     .value = <Վկայագրի մաս չէ>
 # Cert verification
-cert-verified = Այս վկայագիրը վաւերացուել է հետեւեալ նշանակութիւնների համար.
+cert-verified = Այս վկայագիրը հաստատուել է հետեւեալ նշանակութիւնների համար.
 # Add usage
 verify-ssl-client =
     .value = SSL Սպասառուի վկայագիր
@@ -200,8 +200,14 @@ verify-email-signer =
 verify-email-recip =
     .value = Էլ. փոստ֊ի հասցէտիրոջ վկայագիրը
 # Cert verification
-cert-not-verified-cert-revoked = Չկարողացաւ վաւերացնել վկայագիրը, քանի որ այն յետ է կանչուած։
-cert-not-verified-cert-expired = Չկարողացաւ վաւերացնել վկայագիրը, քանի որ այն ժամկէտանց է։
+cert-not-verified-cert-revoked = Չկարողացաւ հաստատել վկայագիրը, քանի որ այն յետ է կանչուած։
+cert-not-verified-cert-expired = Չկարողացաւ հաստատել վկայագիրը, քանի որ այն ժամկէտանց է։
+cert-not-verified-cert-not-trusted = Չկարողացաւ հաստատել վկայագիրը, քանի որ այն վստահելի չէ։
+cert-not-verified-issuer-not-trusted = Չկարողացաւ հաստատել վկայագիրը, քանի որ թողարկողը վստահելի չէ։
+cert-not-verified-issuer-unknown = Չկարողացաւ վաւերացնել վկայագիրը, քանի թր թողարկողն անյայտ է։
+cert-not-verified-ca-invalid = Չկարողացաւ վաւերացնել վկայագիրը, քանի որ CA վկայագիրն անվաւեր է։
+cert-not-verified_algorithm-disabled = Հնարաւոր չեղաւ վաւերացնել այս վկայագիրը, քանի որ այն ստորագրուել է այնպիսի քայլաշարով, որն անջատուած է կամ անվտանգ չէ:
+cert-not-verified-unknown = Անյայտ պատճառներով անհնար էր հաստատել վկայագիրը:
 
 ## Add Security Exception dialog
 
