@@ -89,3 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS եղանակը նախանշում է իւրաքանչիւր անվտանգութեան սարքի համար հիմնական գաղտնաբառի առկայութիւն: Խնդրեմ սահմանէք գաղտնաբառը նախքան FIPS եղանակն աւգտագործելը:
 unable-to-toggle-fips = Հնարաւոր չէ փոխել FIPS եղանակը անվտանգութեան սարքի համար: Խորհուրդ ենք տալիս դուրս գալ եւ վերամեկնարկել ծրագիրը:
 load-pk11-module-file-picker-title = Ընտրել PKCS#11 սարքի սարքավարը բեռնելու համար
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Հանգուցակի անունը չի կարող դատարկ լինել:
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = «‘Արմատային վկայականներ»֊ը ամրագրուած է եւ չի կարող աւգտագործուել որպէս հհանգուցակի անուն:
+add-module-failure = Հնարաւոր չէ աւելացնել հանգուցակը
+del-module-warning = Համոզուա՞ծ էք, որ ցանկանում էք հեռացնել այս անվտանգութեան հանգուցակը։
+del-module-error = Հնարաւոր չէ ջնջել հանգուցակը
