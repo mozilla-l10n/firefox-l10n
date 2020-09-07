@@ -197,6 +197,11 @@ verify-ssl-ca =
     .value = SSL վկայագրման կենտրոնը
 verify-email-signer =
     .value = Ել.փոստի վկայագիրը
+verify-email-recip =
+    .value = Էլ. փոստ֊ի հասցէտիրոջ վկայագիրը
+# Cert verification
+cert-not-verified-cert-revoked = Չկարողացաւ վաւերացնել վկայագիրը, քանի որ այն յետ է կանչուած։
+cert-not-verified-cert-expired = Չկարողացաւ վաւերացնել վկայագիրը, քանի որ այն ժամկէտանց է։
 
 ## Add Security Exception dialog
 
