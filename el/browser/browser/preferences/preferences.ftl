@@ -131,7 +131,7 @@ get-started-configured = Άνοιγμα προτιμήσεων του { -sync-br
 always-check-default =
     .label = Να γίνεται πάντα έλεγχος για το αν το { -brand-short-name } είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας
     .accesskey = Π
-is-default = Αυτήν τη στιγμή, το { -brand-short-name } είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας
+is-default = Το { -brand-short-name } είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας
 is-not-default = Το { -brand-short-name } δεν είναι το προεπιλεγμένο πρόγραμμα περιήγησης
 set-as-my-default-browser =
     .label = Ορισμός ως προεπιλογή…
@@ -316,7 +316,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = Χρήση αρθρώματος "{ $plugin-name }" (σε { -brand-short-name })
+    .label = Χρήση { $plugin-name } (στο { -brand-short-name })
 applications-open-inapp =
     .label = Άνοιγμα στο { -brand-short-name }
 
@@ -349,7 +349,7 @@ play-drm-content =
     .accesskey = Α
 play-drm-content-learn-more = Μάθετε περισσότερα
 update-application-title = Ενημερώσεις του { -brand-short-name }
-update-application-description = Διατηρείστε το { -brand-short-name } ενημερωμένο για καλύτερη απόδοση, σταθερότητα και ασφάλεια.
+update-application-description = Διατηρείτε το { -brand-short-name } ενημερωμένο για καλύτερη απόδοση, σταθερότητα και ασφάλεια.
 update-application-version = Έκδοση { $version } <a data-l10n-name="learn-more">Τι νέο υπάρχει</a>
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
