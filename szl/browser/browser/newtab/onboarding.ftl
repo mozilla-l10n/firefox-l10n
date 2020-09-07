@@ -98,6 +98,38 @@ onboarding-multistage-theme-tooltip-light =
 onboarding-multistage-theme-tooltip-dark =
     .title = Użyj ćmawych knefli, myni i ôkiyn.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title = Użyj bōntych knefli, myni i ôkiyn.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Erbnij wyglōnd ze swojigo ôperacyjnego systymu:
+        knefle, myni i ôkna.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Erbnij wyglōnd ze swojigo ôperacyjnego systymu:
+        knefle, myni i ôkna.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title = Użyj jasnych knefli, myni i ôkiyn.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description = Użyj jasnych knefli, myni i ôkiyn.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title = Użyj ćmawych knefli, myni i ôkiyn.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description = Użyj ćmawych knefli, myni i ôkiyn.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title = Użyj bōntych knefli, myni i ôkiyn.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description = Użyj bōntych knefli, myni i ôkiyn.
 
 ## Welcome full page string
 
