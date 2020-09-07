@@ -35,6 +35,7 @@ printui-destination-label = Destinaziun
 printui-destination-pdf-label = Memorisar sco PDF
 printui-more-settings = Ulteriurs parameters
 printui-less-settings = Damain parameters
+printui-paper-size-label = Grondezza dal palpiri
 # Section title (noun) for the print scaling options
 printui-scale = Scalaziun
 printui-scale-fit-to-page = Adattar a la pagina
@@ -57,6 +58,26 @@ printui-primary-button = Stampar
 printui-primary-button-save = Memorisar
 printui-cancel-button = Interrumper
 printui-loading = Preparar la prevista
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Prevista da stampa
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
@@ -64,3 +85,4 @@ printui-error-invalid-scale = La scalaziun sto esser in numer tranter 10 e 200.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L'interval sto esser in numer tranter 1 e { $numPages }.
+printui-error-invalid-start-overflow = Il numer da pagina «da» sto esser pli pitschen ch'il numer da pagina «enfin».
