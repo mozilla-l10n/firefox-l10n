@@ -4,157 +4,127 @@
 
 certmgr-title =
     .title = Վկայագրերի կառավարիչ
-
 certmgr-tab-mine =
     .label = Ձեր վկայագրերը
-
 certmgr-tab-remembered =
     .label = Վաւերացման որոշում
-
 certmgr-tab-people =
     .label = Մարդիկ
-
 certmgr-tab-servers =
     .label = Սպասարկիչներ
-
 certmgr-tab-ca =
     .label = Արտոնագրման կենտրոններ
-
 certmgr-mine = Դուք ունէք ձեր անձը նոյնացնող վկայագրեր հետեւեալ կազմակերպութիւններից։
 certmgr-remembered = Այս վկայագրերը աւգտագործուում են կայքերի կողմից՝ նոյնացնելու Ձեզ
-
+certmgr-people = Դուք ունէք պահպանուած վկայականներ, որոնք այս մարդկանց նոյնականացնում են։
+certmgr-servers = Դուք նիշում ունէք վկայագրեր, որոնք նոյնականացնում են հետեւեալ սպասարկիչները։
+certmgr-ca = Դուք ունէք պահպանուած վկայագրեր, որոնք այս կենտրոնները նոյնացնում են։
 certmgr-detail-general-tab-title =
     .label = Ընդհնաուր
     .accesskey = Ը
-
 certmgr-detail-pretty-print-tab-title =
     .label = Մանրամասներ
     .accesskey = Մ
-
+certmgr-pending-label =
+    .value = Հիմա ստուգուում է վկայագիրը...
 certmgr-subject-label = Տրուած է՝.
-
 certmgr-issuer-label = Թողարկող՝.
-
 certmgr-period-of-validity = Վաւերականութեան ժամկէտը
-
 certmgr-fingerprints = Մատնահետքերը
-
 certmgr-cert-detail =
     .title = Տեղեկութիւն վկայագրի մասին
     .buttonlabelaccept = Փակել
     .buttonaccesskeyaccept = Փ
-
 certmgr-cert-detail-commonname = Ընդհանուր անունը (CN)
-
 certmgr-cert-detail-org = Կազմակերպութիւնը (O)
-
+certmgr-cert-detail-orgunit = Կազմակերպութեան բաժանում. (OU)
+certmgr-cert-detail-serial-number = Հերթական  համարը
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 մատնահետք
+certmgr-cert-detail-sha-1-fingerprint = SHA1 մատնահետք
+certmgr-edit-ca-cert =
+    .title = Խմբագրել CA վկայագրի վստահութեան դրոյթները
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = Խմբագրել վստահութեան դրոյթները․
+certmgr-edit-cert-trust-ssl =
+    .label = Այս վկայագիրը կարող է նոյնականացնել վեբ կայքեր:
+certmgr-edit-cert-trust-email =
+    .label = Այս վկայագիրը կարող է բացայայտել փոստի աւգտուողներին.
 certmgr-delete-cert =
     .title = Հեռացնել վկայագիրը
     .style = width: 48em; height: 24em;
-
 certmgr-cert-host =
     .label = Խնամորդ
-
 certmgr-cert-name =
     .label = Վկայագրի անունը
-
 certmgr-cert-server =
     .label = Սպասարկիչ
-
 certmgr-override-lifetime =
     .label = Տեւողութիւն
-
 certmgr-token-name =
     .label = Անվտանգութեան սարք
-
 certmgr-begins-on = Սկսում է՝
-
 certmgr-begins-label =
     .label = Սկսում է՝
-
 certmgr-expires-on = Ժամկէտը աւարտուում է՝
-
 certmgr-expires-label =
     .label = Ժամկէտը աւարտուում է՝
-
 certmgr-email =
     .label = Ել-Փոստի հասցեն
-
 certmgr-serial =
     .label = Հերթական համարը
-
 certmgr-view =
     .label = Դիտել...
     .accesskey = Դ
-
 certmgr-edit =
     .label = Խմբագրել վստահութիւնը
     .accesskey = խ
-
 certmgr-export =
     .label = Արտածել...
     .accesskey = Ա
-
 certmgr-delete =
     .label = Ջնջել...
     .accesskey = Ջ
-
 certmgr-delete-builtin =
     .label = Ջնջել կամ չվստահել
     .accesskey = Ջ
-
 certmgr-backup =
     .label = Պահուստացում...
     .accesskey = Պ
-
 certmgr-backup-all =
     .label = Կրկնաւրինակել ամէնը
     .accesskey = Կ
-
 certmgr-restore =
     .label = Ներմուծել…
     .accesskey = Ե
-
 certmgr-details =
     .value = Վկայագրի դաշտերը
     .accesskey = դ
-
 certmgr-fields =
     .value = Դաշտի արժէքը
     .accesskey = ա
-
 certmgr-hierarchy =
     .value = Վկայագրի կառուցուածքը
     .accesskey = H
-
 certmgr-add-exception =
     .label = Աւելացնել բացառութիւն...
     .accesskey = բ
-
 exception-mgr =
     .title = Աւելացնել անվտանգութեան բացառութիւն
-
 exception-mgr-extra-button =
     .label = Հաստատել ավտանգութեան բացառութիւնը
     .accesskey = Հ
-
 exception-mgr-supplemental-warning = Աւրինական բանկեր, խանութներ եւ այլ հասարակական կայքեր չեն խնդրի ձեզանից անել սա:
-
 exception-mgr-cert-location-url =
     .value = Տեղադրութիւնը.
-
 exception-mgr-cert-location-download =
     .label = Ստանալ վկայագիրը
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = Դիտել...
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Ընդմիշտ պահել այս բացառութիւնը
     .accesskey = Ը
-
 pk11-bad-password = Նշուած գաղտնաբառը սխալ էր:
 pkcs12-decode-err = Անհնար էր ապագաղտնագրել նիշքը: Այն կամ PKCS #12 կառուցուածք չունէր, կամ վնասուել էր, կամ էլ նշուած գաղտնաբառը ճիշտ չէր:
 pkcs12-unknown-err-restore = PKCS#12 նիշքի վերականգնումը անյայտ պատճառով խափանուեց:
@@ -185,7 +155,6 @@ edit-trust-ca = «{ $certName }» Վկայագիրը ներկայացնում է
 
 delete-user-cert-title =
     .title = Հեռացնել Ձեր վկայագրերը
-
 
 ## Cert Viewer
 
