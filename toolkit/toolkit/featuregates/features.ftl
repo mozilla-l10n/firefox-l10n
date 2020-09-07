@@ -24,6 +24,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = "SameS
 experimental-features-abouthome-startup-cache =
     .label = about:home іске қосылу кэші
 experimental-features-abouthome-startup-cache-description = Іске қосылғанда, автоматты түрде жүктелетін about:home құжаты үшін кэш. Кэштің мақсаты - іске қосылу өнімділігін жақсарту.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Әзірлеуші құралдары: Service Worker-ді жөндеу
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Графика: Smooth Pinch Zoom
