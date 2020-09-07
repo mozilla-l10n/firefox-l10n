@@ -195,6 +195,8 @@ verify-ssl-server =
     .value = SSL Սպասարկչի վկայագիրը
 verify-ssl-ca =
     .value = SSL վկայագրման կենտրոնը
+verify-email-signer =
+    .value = Ել.փոստի վկայագիրը
 
 ## Add Security Exception dialog
 
