@@ -31,7 +31,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Εισαγωγή αλληλογραφίας, ευρετήριου διευθύνσεων και φίλτρων από άλλα προγράμματα">
 
 <!ENTITY importDescription1.label "Αυτός ο βοηθός θα εισάγει τα email, τις καταχωρήσεις ευρετηρίων διευθύνσεων, τις συνδρομές ροών, τις προτιμήσεις και/ή τα φίλτρα από άλλα προγράμματα email και κοινές μορφές ευρετηρίων διευθύνσεων στο &brandShortName;.">
-<!ENTITY importDescription2.label "Όταν γίνει η εισαγωγή θα είναι δυνατή η πρόσβαση σε αυτά μέσα από την Αλληλογραφία ή και το Ευρετήριο Διευθύνσεων του &brandShortName; ">
+<!ENTITY importDescription2.label "Όταν ολοκληρωθεί η εισαγωγή, θα είναι δυνατή η πρόσβαση μέσω του &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Επιλέξτε το πρόγραμμα από το οποίο επιθυμείτε να γίνει η εισαγωγή:">
 <!ENTITY selectDescriptionB.label "Επιλέξτε ένα υπάρχοντα λογαριασμό ή δημιουργήστε ένα νέο:">
