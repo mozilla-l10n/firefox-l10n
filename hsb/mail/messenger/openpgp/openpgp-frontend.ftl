@@ -35,5 +35,14 @@ openpgp-cannot-decrypt-because-mdc =
     To je zaklučowana powěsć, kotraž stary a napadliwy mechanizm wužiwa.
     Je so snano při přenošowanju změniła, z wotpohladom, jeje wobsah kradnyć.
     Zo by so tute riziko wobešło, wwobsah so njepokazuje.
+openpgp-cannot-decrypt-because-missing-key = Tajny kluč, kotryž je trěbny, zo by so tuta powěsć dešifrowała, k dispoziciji njeje.
+openpgp-partially-signed =
+    Jenož podsadźba tuteje powěsće je so z OpenPGP digitalnje signowała.
+    Jeli na přepruwowanske  tłóčatko kliknjeće, so nješkitane dźěle schowaja, a status digitalneje signatury so pokaza.
+openpgp-partially-encrypted =
+    Jenož podsadźba tuteje powěsće je so z OpenPGP zaklučowała.
+    Čitajomne dźěle powěśce, kotrež so hižo pokazuja, njebudu so zaklučować.
+    Jeli na dešifrowanske tłočatko kliknjeće, so wobsah zaklučowanych dźělow pokaza.
+openpgp-reminder-partial-display = Dopomnjeće: Powěsć, kotraž so deleka pokazuje, je jenož podsadźba originalneje powěsće.
 openpgp-partial-verify-button = Wobkrućić
 openpgp-partial-decrypt-button = Dešifrować
