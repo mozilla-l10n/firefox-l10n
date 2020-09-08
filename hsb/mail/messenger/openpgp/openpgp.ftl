@@ -219,6 +219,28 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird wosobinski OpenPGP-kluč za <b>{ $identity }</b> nima
+        [one] Thunderbird ma { $count } wosobinski OpenPGP-kluč za <b>{ $identity }</b>
+        [two] Thunderbird ma { $count } wosobinskej OpenPGP-klučej za <b>{ $identity }</b>
+        [few] Thunderbird ma { $count } wosobinske OpenPGP-kluče za <b>{ $identity }</b>
+       *[other] Thunderbird ma { $count } wosobinskich OpenPGP-klučow za <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Wubjerće płaćiwy kluč, zo byšće OpenPGP-protokol zmóžnił.
+        [one] Waša aktualna konfiguracija klučowy ID <b>{ $key }</b> wužiwa
+        [two] Waša aktualna konfiguracija klučowej ID <b>{ $key }</b> wužiwa
+        [few] Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
+       *[other] Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Waša aktualna konfiguracije kluč <b>{ $key }</b> wužiwa, kotryž je spadnył.
 openpgp-add-key-button =
     .label = Kluč přidać…
     .accesskey = K
