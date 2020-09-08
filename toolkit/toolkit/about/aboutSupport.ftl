@@ -126,12 +126,18 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Intentar en Modo Seguro
 restart-in-safe-mode-label = Reiniciar con os complementos desactivaus…
+clear-startup-cache-title = Mira de limpiar la caché d'inicio
+clear-startup-cache-label = Limpiando la caché d'inicio...
+startup-cache-dialog-title = Limpiando la caché d'inicio
+startup-cache-dialog-body = Reinicia { -brand-short-name } pa limpiar la caché d'inicio. Esto no cambiará las tuyas preferencias ni eliminará las extensions que has anyadiu a { -brand-short-name }.
+restart-button-label = Reiniciar
 
 ## Media titles
 
 audio-backend = Sistema de fondo d'audio
 max-audio-channels = Maximo numero de canals
 sample-rate = Freqüencia de mostreyo preferida
+roundtrip-latency = Latencia roundtrip (desviacion standar)
 media-title = Multimedia
 media-output-devices-title = Dispositivos de salida
 media-input-devices-title = Dispositivos de dentrada
@@ -266,12 +272,16 @@ blocklisted-bug = S'ha ficau en a lista de bloqueyo por problemas conoixius
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Blocada per problemas conoixius d'o <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = En a lista de bloqueyo; codigo de fallo { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificador de video D3D11
 d3d9video-crash-guard = Decodificador de video D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Decodificador de video WMF VPX
 reset-on-next-restart = Meter propiedatz por defecto en o siguient reinicio.
 gpu-process-kill-button = Rematar proceso GPU
 gpu-device-reset = Reinicio d'o driver
@@ -295,6 +305,11 @@ sandbox-proc-type-content = conteniu
 sandbox-proc-type-file = conteniu d'o fichero
 sandbox-proc-type-media-plugin = plugin multimedia
 sandbox-proc-type-data-decoder = descodificador de datos
+startup-cache-title = Caché d'inicio
+startup-cache-disk-cache-path = Ruta d'a caché de disco
+startup-cache-ignore-disk-cache = Ignorar la caché de disco
+startup-cache-found-disk-cache-on-init = Caché de disco trobada en l'inicialización
+startup-cache-wrote-to-disk-cache = Escrito en a caché de deisco
 launcher-process-status-0 = Activau
 launcher-process-status-1 = Desactivau per causa d'un fallo
 launcher-process-status-2 = Desactivau forzadament
@@ -318,6 +333,7 @@ touch-enabled = dentrada tactil activada
 drag-enabled = s'ha activau l'arrocegamiento d'a barra de desplazamiento
 keyboard-enabled = teclau activau
 autoscroll-enabled = desplazamiento automatico activau
+zooming-enabled = Activau lo smooth pinch-zoom
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
