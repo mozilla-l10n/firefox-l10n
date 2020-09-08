@@ -37,6 +37,7 @@ master-password-warning = Jantape' tanataj ri Ajtij Ewan Tzij xatz'ib'aj.  We xt
 remove-password =
     .title = Tiyuj nimaläj ewan tzij
 primary-password-admin = Ri anuk'samajel nrajo' chi k'o jun Nab'ey Ewan Atzij ab'anon runuk'ulem richin yeyak molojri'ïl chuqa' ri ewan taq tzij
+primary-password-description = Jun Nab'ey Ewan Tzij nokisäx richin nichajïx ri jeb'ël na'oj achi'el ri wujil chuqa' ewan taq rutzij pa re okisab'äl re'.  We nanük' jun Nab'ey Ewan Atzij, junelïk xtatz'ib'aj qa jumul pa jujun molojri'ïl toq { -brand-short-name } nuköl ri na'oj chajin ruma re ewan tzij re'.
 primary-password-warning = Jantape' tanataj ri Nab'ey Ewan Tzij xatz'ib'aj.  We xtamestaj, man xkatikïr ta chik xkatok chi kipam ri na'oj eruchajin pa re okisab'äl re'.
 remove-primary-password =
     .title = Tiyuj Nab'ey Ewan Tzij
