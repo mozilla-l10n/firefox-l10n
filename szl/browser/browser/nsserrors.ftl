@@ -122,3 +122,7 @@ ssl-error-user-canceled-alert = Partner pociepoł prziwitanie.
 ssl-error-no-renegotiation-alert = Partner niy dowo zgody na rynegocjacyjo parametrōw bezpieczyństwa SSL.
 ssl-error-server-cache-not-configured = Podrynczno pamiynć serwera SSL niy ma nastawiōno i niy ma wyłōnczōno do tego socketa.
 ssl-error-unsupported-extension-alert = Partner protokołu SSL niy ôbsuguje proszōnego rozszyrzynio TLS hello.
+ssl-error-certificate-unobtainable-alert = Partner protokołu SSL niy poradziōł dostać twojigo certyfikatu z podanyj adresy URL.
+ssl-error-unrecognized-name-alert = Partner protokołu SSL niy mo certyfikatu do proszōnego miana DSV.
+ssl-error-bad-cert-status-response-alert = Partner protokołu SSL niy poradziōł dostać ôdpowiedzi OCSP do tego certyfikatu.
+ssl-error-bad-cert-hash-value-alert = Partner protokołu SSL doł znać ô felernym wercie hash certyfikatu.
