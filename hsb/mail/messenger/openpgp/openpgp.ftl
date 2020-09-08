@@ -204,6 +204,8 @@ openpgp-acceptance-undecided-label =
     .label = Hišće nic, snano pozdźišo.
 openpgp-acceptance-unverified-label =
     .label = Haj, ale njejsym přepruwował, hač to je prawy kluč.
+openpgp-acceptance-verified-label =
+    .label = Haj, sym sam přepruwował, zo tutón kluč ma korektny porstowy wotćišć.
 openpgp-copy-cmd-label =
     .label = Kopěrować
 
