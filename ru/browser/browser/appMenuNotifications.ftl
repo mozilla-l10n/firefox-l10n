@@ -8,7 +8,7 @@ appmenu-update-available =
     .buttonaccesskey = а
     .secondarybuttonlabel = Не сейчас
     .secondarybuttonaccesskey = е
-appmenu-update-available-message = Обновитесь на последнюю версию { -brand-shorter-name } для повышения скорости и приватности.
+appmenu-update-available-message = Обновите свой { -brand-shorter-name } для повышения скорости и приватности.
 appmenu-update-manual =
     .label = { -brand-shorter-name } не может обновиться до последней версии.
     .buttonlabel = Загрузить { -brand-shorter-name }
@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = Управляйте своими допо�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Разрешить этому расширению работать в приватных окнах
     .accesskey = ш
-    
 appmenu-new-tab-controlled =
     .label = Ваша Новая вкладка была изменена.
     .buttonlabel = Сохранить изменение
