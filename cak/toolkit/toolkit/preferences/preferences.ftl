@@ -4,25 +4,28 @@
 
 password-not-set =
     .value = (man jikib'an ta)
-
 failed-pw-change = Man tikirel ta xjal ri ajtij ewan tzij.
 incorrect-pw = Man ütz ta ri nimaläj ewan tzij xatz'ib'aj. Tatojtob'ej chik.
 pw-change-ok = Ütz xjal ri ajtij ewan tzij.
-
 pw-empty-warning = Ri ichinan taq ewan atzij, taq rutzij nojwuj chuqa' ewan taq rutzij ataqoya'l, ri eyakon pa ri kematz'ib' man xkechajïx ta.
 pw-erased-ok = Xayüj el ri nimaläj ewan tzij. { pw-empty-warning }
 pw-not-wanted = ¡Tawak'axaj! Man xawajo' ta xawokisaj jun ajtij ewan tzij. { pw-empty-warning }
-
 pw-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun nimaläj ewan tzij ri man kowöl ta.
-
+failed-pp-change = Man tikirel ta xjal ri Nab'ey Ewan Tzij.
+incorrect-pp = Man ütz ta ri Nab'ey Ewan Tzij xatz'ib'aj. Tatojtob'ej chik.
+pp-change-ok = Ütz xjal ri Nab'ey Ewan Tzij.
+pp-empty-warning = Man xkechajïx ta ri ewan taq atzij chuqa' ichinan ewan taq atzij e'ayakon.
+pp-erased-ok = Xayüj el ri Nab'ey Ewan Tzij. { pp-empty-warning }
+pp-not-wanted = ¡Tawak'axaj! Man xawajo' ta xawokisaj jun Nab'ey Ewan Tzij. { pp-empty-warning }
+pp-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun Nab'ey Ewan Tzij ri man kowöl ta.
 pw-change-success-title = Ütz rujalik ri ewan tzij
 pw-change-failed-title = Xsach toq Nijal ri Ewan Tzij
 pw-remove-button =
     .label = Tiyuj
-
 set-password =
     .title = Tik'ex nimaläj ewan tzij
-
+primary-password-dialog =
+    .title = Nab'ey Ewan Tzij
 set-password-old-password = Ewan tzij wakami:
 set-password-new-password = Titz'ib'äx ri k'ak'a' ewan atzij:
 set-password-reenter-password = Tijikib'äx ewan tzij:
@@ -31,10 +34,9 @@ set-password-meter-loading = Nusamajij
 master-password-admin = Ri anuk'samajel nrajo' chi k'o jun Ajtij Ewan Atzij ab'anon runuk'ulem richin yeyak ri ewan taq tzij
 master-password-description = Jun rute' ewan tzij nokisäx richin nichajïx ri jeb'ël na'oj achi'el ewan taq rutzij ruxaq k'amaya'l.  We nanük' jun rute' ewan atzij, junelïk xtatz'ib'aj qa jumul pa jujun molojri'ïl toq { -brand-short-name } nuköl ri na'oj chajin ruma re ewan tzij re'.
 master-password-warning = Jantape' tanataj ri Ajtij Ewan Tzij xatz'ib'aj.  We xtamestaj, man xkatikïr ta chik xkatok chi kipam ri na'oj eruchajin.
-
 remove-password =
     .title = Tiyuj nimaläj ewan tzij
-
+primary-password-admin = Ri anuk'samajel nrajo' chi k'o jun Nab'ey Ewan Atzij ab'anon runuk'ulem richin yeyak molojri'ïl chuqa' ri ewan taq tzij
 remove-info =
     .value = K'o chi natz'ib'aj ri ewan tzij wakami richin yasamäj el:
 remove-warning1 = Ri nimaläj ewan tzij nokisäx richin nichajïx loq'el etamab'äl, achi'el rewan tzij ruxaq k'amaya'l.

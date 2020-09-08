@@ -50,6 +50,17 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Developer Tools: Color Scheme Simulation
+experimental-features-devtools-execution-context-selector =
+    .label = Developer Tools: Execution Context Selector
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax k'o wi
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Graphics: Smooth Pinch Zoom
