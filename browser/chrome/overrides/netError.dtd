@@ -63,9 +63,22 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>A pachina que ye mirando de veyer no puet amostrar-se porque no ye posible verificar l’autenticidat d'os datos recibius.</li> <li>Meta-se en contacto con o responsable d'o puesto web ta informar-le-ne.</li> </ul>">
 
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+<!ENTITY certerror.expiredCert.secondPara2 "Pareix que lo certificau de la pachina ha expirau, lo que priva a &brandShortName; de connectar de traza segura. Si vesitas la pachina, los atacants podrían rapar información como las tuyas claus, correus u detalles d'as tarchetas de credito.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Pareix que o certificau de la pachina ha expirau, lo qual priva que &brandShortName; se connecte de traza segura.">
+
+
+
+
+
 <!ENTITY sharedLongDesc "<ul> <li>Lo puesto podría estar temporalment no disponible u masiau aqueferau. Torne a prebar-lo en bells momentos.</li> <li>Si no puede cargar garra pachina, comprebe a connexión de ret d'o suyo equipo.</li> <li>Si o suyo equipo u ret son protechius por un tallafuegos u proxy, asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li> </ul>">
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
+
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ha privau que esta pachina se cargue en este contexto perque la pachina tiene una politica de X-Frame-Options que no lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
 
@@ -87,6 +100,10 @@
 
 <!ENTITY blockedByPolicy.title "Pachina blocada">
 
+
+<!ENTITY clockSkewError.longDesc "Lo tuyo ordinador piensa que son <span id='wrongSystemTime_systemDate1'/>, lo qual priva a &brandShortName; de connectar de traza segura. Pa vesitar <span class='hostname'></span>, actualiza lo reloch d'o tuyo ordinador en as preferencias d'o sistema a la data, hora y zona horaria actuals, y alavez refresca <span class='hostname'></span>.">
+
 <!ENTITY prefReset.longDesc "Pareix que los suyos achustes de seguranza de ret sigan la causa d'isto. Quiere restaurar los achustes por defecto?">
 <!ENTITY prefReset.label "Restaurar los achustes por defecto">
+
 

@@ -18,14 +18,24 @@ policy-BlockAboutAddons = Blocar l'acceso a lo chestor d'extensions (about:addon
 policy-BlockAboutConfig = Blocar l'acceso a la pachina about:config.
 policy-BlockAboutProfiles = Blocar l'acceso a la pachina about:profiles.
 policy-BlockAboutSupport = Blocar l'acceso a la pachina about:support .
+policy-Bookmarks = Crear marcapachinas en a barra de ferramientas de Marcapachinas, lo menú de marcapachinas u en una carpeta especifica adintro d'ella.
 policy-CaptivePortal = Activar u desactivar lo soporte a portals cautivos.
 policy-CertificatesDescription = Anyadir certificaus u usar los certificaus predefinius.
 policy-Cookies = Permitir u vedar a las pachinas web de definir cookies.
 policy-DisabledCiphers = Desactivar cifraus.
 policy-DefaultDownloadDirectory = Definir la carpeta de descargas por defecto
+policy-DisableAppUpdate = Privar que lo navegador s'esvielle.
+policy-DisableDefaultBrowserAgent = Priva que l'achent d'o navegador per defecto prenga garra acción. Nomás aplicable en Windows, atros sistemas no tienen l'achent.
+policy-DisableFirefoxStudies = Priva que { -brand-short-name } execute estudios.
+policy-DisableForgetButton = Priva l'acceso a lo botón Oblidar.
+policy-DisableSecurityBypass = Priva que l'usuario se pase ciertos avisos de seguranza.
+policy-DisableSystemAddonUpdate = Priva que lo navegador instale u esvielle extensions d'o sistema.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-MasterPassword = Requerir u privar l'uso d'una clau mayestra.
+policy-PrimaryPassword = Requerir u privar l'uso d'una clau principal.
+policy-Proxy = Configurar lo proxy
