@@ -16,6 +16,7 @@ experimental-features-web-gpu-description2 = Re k'ak'a' API ko'öl to'ïk nuya' 
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Rik'in re samaj tzijon re', { -brand-short-name } nutob'ej ri rub'anikil ruyakb'al wachib'äl AV1 (AVIF). Re re' jun rub'anikil ruyakb'al wachib'äl ri nikokisab'ej ketamab'al taq algoritmo richin kijitz'oj AV1 richin nich'utinisäx rupalem. Tab'etz'eta' ri <a data-l10n-name="bugzilla">bug 1443863</a> richin ri rub'anikil.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
