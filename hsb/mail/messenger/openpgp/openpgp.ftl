@@ -206,6 +206,14 @@ openpgp-acceptance-unverified-label =
     .label = Haj, ale njejsym přepruwował, hač to je prawy kluč.
 openpgp-acceptance-verified-label =
     .label = Haj, sym sam přepruwował, zo tutón kluč ma korektny porstowy wotćišć.
+key-accept-personal =
+    Za tutón kluč maće zjawny a tajny dźěl. Móžeće jón jako wosobinski kluč wužiwać.
+    Jeli něchtó druhi je tutón kluč podał, njewužiwajće jón jako wosobinski kluč.
+key-personal-warning = Sće tutón kluč sam wutworił a poćahuje so podate klučowe wobsedźenstwo na was?
+openpgp-personal-no-label =
+    .label = Ně, jón jako mój wosobinski kluč njewužiwać.
+openpgp-personal-yes-label =
+    .label = Haj,  tutón kluč jako wosobinski kluč wužiwać.
 openpgp-copy-cmd-label =
     .label = Kopěrować
 
