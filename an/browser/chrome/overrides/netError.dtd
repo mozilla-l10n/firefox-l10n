@@ -73,6 +73,7 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara2 "Pareix que lo certificau de la pachina ha expirau, lo que priva a &brandShortName; de connectar de traza segura. Si vesitas la pachina, los atacants podrían rapar información como las tuyas claus, correus u detalles d'as tarchetas de credito.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Pareix que o certificau de la pachina ha expirau, lo qual priva que &brandShortName; se connecte de traza segura.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Qué puetz fer sobre ixo?">
 
 
 
@@ -85,6 +86,7 @@ was trying to connect. -->
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
 
+<!ENTITY securityOverride.exceptionButton1Label "Acceptar lo risgo y continar">
 
 <!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Mozilla a identificar y blocar puestos dolents.">
 <!ENTITY errorReporting.learnMore "Saber-ne mas…">
@@ -95,6 +97,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información abanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "Atención: risgo potencial de seguranza">
+<!ENTITY certerror.sts.pagetitle  "No se connecta: problema potencial de seguranza">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo texto en lo portafuellas">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -103,10 +107,17 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pachina blocada">
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si yes en una ret corporativa, contacta con o tuyo departamento de IT.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si no yes familiar con <span class='mitm-name'/>, esto puede ser un ataque y no has de continar enta lo puesto.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si no yes familiar con <span class='mitm-name'/>, esto puede estar un ataque y no bi ha cosa que fer para acceder a la pachina.">
 
 <!ENTITY clockSkewError.longDesc "Lo tuyo ordinador piensa que son <span id='wrongSystemTime_systemDate1'/>, lo qual priva a &brandShortName; de connectar de traza segura. Pa vesitar <span class='hostname'></span>, actualiza lo reloch d'o tuyo ordinador en as preferencias d'o sistema a la data, hora y zona horaria actuals, y alavez refresca <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Pareix que los suyos achustes de seguranza de ret sigan la causa d'isto. Quiere restaurar los achustes por defecto?">
 <!ENTITY prefReset.label "Restaurar los achustes por defecto">
 
+<!ENTITY enableTls10.longDesc "Ista pachina web no permite lo protocolo TLS 1.2, que ye la versión minima soportada por &brandShortName;. L'activación de TLS 1.0 y TLS 1.1 puede permitir que la connexión se faiga.">
+<!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 serán desactivaus pa cutio en bella versión futura.">
+<!ENTITY enableTls10.label "Activar TLS 1.0 y 1.1">
 
+<!ENTITY networkProtocolError.longDesc "<p>La pachina que ye mirando de visualizar no se puede amostrar porque s'ha detectau un error en o procotolo de ret </p><ul><li>Per favor, contacte con os propietarios d'o puesto web pa informar-les d'este problema.</li></ul>">
