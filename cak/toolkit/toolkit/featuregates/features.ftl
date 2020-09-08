@@ -6,10 +6,12 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
+experimental-features-css-masonry-description = Tatz'ija' ri k'amoj rik'in ri tojtob'enel rusamaj ruwachib'enik mamposteria CSS. Tab'etz'eta' ri <a data-l10n-name="explainer">rutzijol</a> richin nik'ul jun nïm rutzijoxik rusamaj. Richin nitaq rutzijol. Richin nitaq rutzijol, katzijon pa <a data-l10n-name="w3c-issue"> rere' ruk'ayewal GitHub</a> o <a data-l10n-name="bug"> re sacjpk re'</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Re k'ak'a' API ko'öl to'ïk nuya' richin niq'ijüx chuqa' rumolsamaj wachib'äl akuchi' nokisäx ri <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> pa rukematz'ib' o royonib'al okisaxel. Ri <a data-l10n-name="spec">rujikib'axik</a> k'a man jikïl ta. Tab'etz'eta' ri <a data-l10n-name="bugzilla">bug1602129</a> richin ch'aqa' rutzijol.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
