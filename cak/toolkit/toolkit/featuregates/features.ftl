@@ -21,6 +21,8 @@ experimental-features-media-avif-description = Rik'in re samaj tzijon re', { -br
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Ri qanimirisanem richin ri chijun b'anikil <a data-l10n-name="mdn-inputmode">inputmode</a> xk'ex rik'in <a data-l10n-name="whatwg">ri WHATWG retal</a>, po k'a k'o na chi niqab'än taq jaloj, achi'el chi kek'ojel pa contenteditable content. Titz'et <a data-l10n-name="bugzilla">sachoj 1205133</a> richin ri retal.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
