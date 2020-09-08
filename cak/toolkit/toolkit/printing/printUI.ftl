@@ -81,3 +81,4 @@ printui-paper-tabloid = Taloyit
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Ri rukojol k'o chi jun ajilab'äl 10 o chuqa' 200.

@@ -46,6 +46,7 @@ experimental-features-web-api-beforeinput-description = Ri chijun nimaq'ij <a da
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Ri rutz'aqatisaxik jun nuk'unel pa ri <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> k'amal achi'el chuqa' juley taq jaloj kik'amon ki' nub'än chi jumul yetz'uk k'ak'a' taq ruxaq rik'in kib'anikil akuchi' man nitz'aqatisäx ta ri HTML ruxaq. Re re' nub'än chi man k'ayew ta yetz'uk kib'anikil ruxaq ri ye'okisäx chik rik'in <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Titz'et <a data-l10n-name="bugzilla">bug 1520690</a> richin ch'aqa' rutzijol.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
