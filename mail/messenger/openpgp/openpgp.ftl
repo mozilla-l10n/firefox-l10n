@@ -245,17 +245,29 @@ openpgp-add-key-button =
     .label = Kluč přidać…
     .accesskey = K
 e2e-learn-more = Dalše informacije
+openpgp-keygen-success = OpenPGP-kluč je so wuspěšnje wutworił!
+openpgp-keygen-import-success = OpenPGP-kluče su so wuspěšnje importowali!
+openpgp-keygen-external-success = Eksterny ID GnuPG-kluča je so składował!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Žadyn
+openpgp-radio-none-desc = OpenPGP za tutu identitu njewužiwać.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Spadnje: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Kluč za mjenje hač 6 měsacow spadnje
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Je spadnył: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Kluč je spadnył
 openpgp-key-expand-section =
     .tooltiptext = Dalše informacije
 openpgp-key-revoke-title = Kluč wotwołać
 openpgp-key-edit-title = OpenPGP-kluč změnić
+openpgp-key-edit-date-title = Datum spadnjenja podlěšić
+openpgp-manager-description = Wužiwajće zrjadowak OpenPGP-klučow, zo byšće zjawne kluče swojich dopisowarjow a wšě druhe kluče, kotrež horjeka podate njejsu, pokazał a rjadował.
 openpgp-manager-button =
     .label = Zrjadowak OpenPGP-klučow
     .accesskey = P
@@ -277,6 +289,7 @@ key-does-not-expire = Kluč njespadnje
 key-expired-date = Kluč je { $keyExpiry } spadnył
 key-expired-simple = Kluč je spadnył
 key-revoked-simple = Kluč je so wotwołał
+key-do-you-accept = Akceptujeće, zo so za tutón kluč digitalne signatury a zaklučowanje powěsćow přepruwuje?
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Zaklučowany dźěl powěsće
 # Strings in keyserver.jsm
