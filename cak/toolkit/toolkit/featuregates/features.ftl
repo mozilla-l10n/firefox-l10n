@@ -27,3 +27,11 @@ experimental-features-web-api-inputmode-description = Ri qanimirisanem richin ri
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Ri <a data-l10n-name="rel">rel</a> b'anikil rik'in rejqalem <code>"preload"</code> pa jun wachinäq <a data-l10n-name="link">link&gt;</a> richin nito'on nutzilaj rub'eyal nisamäj toq nuqasaj taq rutob'al ruxaq, nutz'ët chi k'o chi e k'o richin majun niq'at ri ruwachib'al ruxaq. Tisik'ïx <a data-l10n-name="readmore">“Rusamajixik chik rupam <code> %MOZ_APP_DISPLAYNAME% </code>”</a> o titz'et <a data-l10n-name="bugzilla">sachoj 1583604</a> richin rutzijol.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Nuya' q'ij chi kib'anikil jikib'anïk tisamajïx pa kiwi' taq wachinäq achi'el taq pitz'b'äl chuqa' chajinel taq nojwuj, toq nijikib'äx rik'in pitz'b'äl (achi'el toq nijal ruwi' rik'in wachinäq), man ke ta ri' toq nijikib'äx rik'in ri ch'oy o jun chik okisab'äl. Tatz'eta' <a data-l10n-name="bugzilla">bug 1617600</a> richin rutzijol.
