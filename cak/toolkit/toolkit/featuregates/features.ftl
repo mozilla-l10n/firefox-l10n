@@ -57,9 +57,22 @@ experimental-features-devtools-color-scheme-simulation =
 experimental-features-devtools-color-scheme-simulation-description = Titz'aqatisäx jun cha'oj richin yetojtob'ëx jalajöj taq kichib'enik b'onil, nikiya' q'ij chawe richin ye'atz'ét taq q'ojom <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Ri rokisaxik re samaj re' nuya' q'ij chi ri ruxaq b'anikil tutzolij pe tzij chi rij we ri okisanel nrajo' jun ruk'amal okisanel q'equm o säq  ruwa. Re re' nuya' q'ij chawe natojtob'ej ri b'itz'ib' akuchi' man najäl ta ri runuk'ulem okik'amaya'l (o ri rusamajel q'inoj we ri okik'amaya'l nrojqaj jun runuk'ulem ruchib'enik b'onil jikib'an richin chijun ri q'inoj). Tatz'eta' <a data-l10n-name="bugzilla1">bug 1550804</a> chuqa' <a data-l10n-name="bugzilla2">bug 1137699</a> richin ch'aqa' retal.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
+experimental-features-devtools-execution-context-selector-description = Re samaj nuk'üt jun pitz'b'äl pa ruk'amal rukomanto' konsola richin yatikïr najäl rub'eyal ruk'ojlem xtisamajïx ri tz'ib'anïk xatz'ib'aj, Tatz'eta' <a data-l10n-name="bugzilla1">sachoj 1605154</a> chuqa' <a data-l10n-name="bugzilla2">bug 1605153</a> richin ch'aqa' retal.
+experimental-features-devtools-compatibility-panel =
+    .label = Developer Tools: Compatibility Panel
+experimental-features-devtools-compatibility-panel-description = Jun ruchi' pas richin ri Runik'onel Ruxaq ri nuk'üt pe ri etamab'äl akuchi' nuya' retal rub'anikil k'amoj chi kikojol ri okik'amaya' richin ri achokoy. Tatz'eta' <a data-l10n-name="bugzilla">bug 1584464</a> richin ch'aqa' rutzijol.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax k'o wi
+experimental-features-cookie-samesite-lax-by-default2-description = Yerutz'ët ri taq cookies achi'el “SameSite=Lax” ri k'o wi we man nijikib'äx ta ri “SameSite” b'anikil. Ri b'anonela' k'o chi nikojqaj ri status quo k'o wakami toq nub'ij “SameSite=None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None nrajo' jun jikïl b'anikil
+experimental-features-cookie-samesite-none-requires-secure2-description = Taq cookies rik'in “SameSite=None” nrajo' ri jikïl b'anikil. Re b'anikil re' nrajo' “Cookies: SameSite=Lax k'o wi”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home rujumejyak tikirib'äl
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
