@@ -35,3 +35,21 @@ experimental-features-web-api-link-preload-description = Ri <a data-l10n-name="r
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
 experimental-features-css-focus-visible-description = Nuya' q'ij chi kib'anikil jikib'anïk tisamajïx pa kiwi' taq wachinäq achi'el taq pitz'b'äl chuqa' chajinel taq nojwuj, toq nijikib'äx rik'in pitz'b'äl (achi'el toq nijal ruwi' rik'in wachinäq), man ke ta ri' toq nijikib'äx rik'in ri ch'oy o jun chik okisab'äl. Tatz'eta' <a data-l10n-name="bugzilla">bug 1617600</a> richin rutzijol.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Ri chijun nimaq'ij <a data-l10n-name="mdn-beforeinput">beforeinput</a> nitzij pa wachinäq <a data-l10n-name="mdn-input">input&gt;</a> chuqa' <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> o xab'achike wachinäq ruk'wan<a data-l10n-name="mdn-contenteditable">contentenditable</a> tzijïl, chuwäch nujäl ri' ri rejqalem wachinäq. Ri samaj nuya' q'ij chi ri ajk'amaya'l chokoy nujäl rub'anikil ri okik'amaya'l richin nisamäj ri okisanel, akuchi' nuya' q'ij chi ri ajk'amaya'l taq chokoy nuq'ät koken okisanela' rik'in xa xe jikïl taq tz'ib' o nuya' q'ij nikitz'ib'aj jikïl taq tz'ib' o nikijäl rujalik tz'ib' rik'in rub'anikil, akuchi' nuya' q'ij  xa xe chi ke ri jikib'an taq b'anikil
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graphics: Smooth Pinch Zoom
