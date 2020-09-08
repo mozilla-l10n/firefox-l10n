@@ -81,6 +81,13 @@ experimental-features-print-preview-tab-modal-description = Nuk'üt ri nab'ey ru
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Kisamajixik taq cookies richin junam ajk'amal po rik'in jalajöj chib'enïk (achi'el, http://example.com chuqa' https://example.com) achi'el xoch'in taq ruxaq pa ruk'exel ri jun ruxaq. Nrutzilaj ri jikomal po nuya' k'ïy sachoj.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Developer Tools: Service Worker debugging
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Nutzïj ri tojtob'enel tob'äl richin Service Workers pa Rupas Chojmirisanel. Re rub'anikil re' nub'än eqal chi ke ri Kisamajib'al B'anonela' chuqa' yalan uchuqa' nrokisaj.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Graphics: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Nitzij ri tob'äl richin eqal ninimirisäx toq nachäp ri chapel taq ruwa chuqa' ajchapöy pads.
