@@ -8,6 +8,9 @@
 <!ENTITY loadError.label "S'ha produciu un problema en cargar a pachina">
 <!ENTITY retry.label "Torna-lo a probar">
 <!ENTITY returnToPreviousPage.label "Ir enta zaga">
+<!ENTITY returnToPreviousPage1.label "Tornar enta zaga (recomendau)">
+<!ENTITY advanced2.label "Abanzau…">
+<!ENTITY viewCertificate.label "Amostrar lo certificau">
 
 <!-- Specific error messages -->
 
