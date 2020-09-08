@@ -10,3 +10,4 @@ about-glean-description = Ar <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a
 about-glean-warning = Implijout fall an etrefas-mañ a c'hall lakaat { -brand-short-name } da chom bout.
 tag-pings-label = Merkañ an holl pingoù kaset gant an tag-mañ
 send-pings-label = Kas ar ping anvet
+controls-button-label = Kas an arventennoù

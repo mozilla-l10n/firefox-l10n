@@ -5,22 +5,42 @@
 
 ## Messages used as headers in the main pane
 
-compatibility-selected-element-header = Elfenn diuzet
+compatibility-selected-element-header = Selected Element
+compatibility-all-elements-header = All Issues
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (deprecated)
+compatibility-issue-experimental = (experimental)
+compatibility-issue-prefixneeded = (prefix needed)
+compatibility-issue-deprecated-experimental = (deprecated, experimental)
+compatibility-issue-deprecated-prefixneeded = (deprecated, prefix needed)
+compatibility-issue-experimental-prefixneeded = (experimental, prefix needed)
+compatibility-issue-deprecated-experimental-prefixneeded = (deprecated, experimental, prefix needed)
 
 ## Messages used as labels and titles for buttons in the footer
 
-compatibility-settings-button-label = Arventennoù
+compatibility-settings-button-label = Settings
 compatibility-settings-button-title =
     .title = Arventennoù
+compatibility-feedback-button-label = Feedback
+compatibility-feedback-button-title =
+    .title = Feedback
 
 ## Messages used as headers in settings pane
 
-compatibility-settings-header = Arventennoù
+compatibility-settings-header = Settings
+compatibility-target-browsers-header = Target Browsers
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } occurrence
+       *[other] { $number } occurrences
+    }
 compatibility-close-settings-button =
     .title = Serriñ an arventennoù
