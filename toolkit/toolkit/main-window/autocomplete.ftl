@@ -11,11 +11,22 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Enporti vian akreditilon el { $browser }</div>
     <div data-l10n-name="line2">for { $host } kaj aliaj retejoj</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Pli da informo
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Enportu vian legitimilon el Google Chrome</div>
+    <div data-l10n-name="line2">por { $host } kaj aliaj retejoj</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Enportu vian legitimilon el Chromium</div>
+    <div data-l10n-name="line2">por { $host } kaj aliaj retejoj</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Enportu vian legitimilon el Microsoft Edge</div>
+    <div data-l10n-name="line2">por { $host } kaj aliaj retejoj</div>
+
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Pli da informo
+autocomplete-import-learn-more = Pli da informo
