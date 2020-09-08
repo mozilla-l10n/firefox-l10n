@@ -112,6 +112,9 @@ urlbar-search-tips-redirect-2 = Zacznij wkludzać na posku adresy, coby ôboczy�
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Zokłodki
+urlbar-search-mode-tabs = Karty
+urlbar-search-mode-history = Historyjo
 
 ##
 
@@ -188,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nasztaluj za wychodno wyszukowarka do prywatnych ôkyn
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -196,6 +205,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Zokłodki ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Karty ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historyjo ({ $restrict })
 
 ## Bookmark Panel
 
@@ -307,6 +322,38 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Szukej abo wkludź adresa
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Szukej w internecie
+    .aria-label = Szukej ze { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Wkludź szukane słowo
+    .aria-label = Szukej na serwerze { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Wkludź szukane słowo
+    .aria-label = Szukej we zokłodkach
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Wkludź szukane słowo
+    .aria-label = Szukej we historyji
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Wkludź szukane słowo
+    .aria-label = Szukej we kartach
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Szukej ze { $name } abo wkludź adresa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Przeglōndarka je kōntrolowano zdalnie
 urlbar-permissions-granted =
