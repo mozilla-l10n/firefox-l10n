@@ -69,14 +69,30 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; ha detectau menaza potencial de seguranza y no seguirá enta <span class='hostname'/>. Si vesitas esta pachina, los atacants podrían rapar información como las tuyas claus, correus, u detalles de tarcheta de credito.">
+<!ENTITY certerror.sts.introPara "&brandShortName; ha detectau una menaza potencial de seguranza y no seguirá enta <span class='hostname'/> perque esta pachina requiere una connexión segura.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ha detectau un problema y no ha seguiu enta <span class='hostname'/>. La pachina ye mal configurada u la hora d'o reloch d'o tuyo ordinador no ye correcta.">
 <!ENTITY certerror.expiredCert.secondPara2 "Pareix que lo certificau de la pachina ha expirau, lo que priva a &brandShortName; de connectar de traza segura. Si vesitas la pachina, los atacants podrían rapar información como las tuyas claus, correus u detalles d'as tarchetas de credito.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Pareix que o certificau de la pachina ha expirau, lo qual priva que &brandShortName; se connecte de traza segura.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Qué puetz fer sobre ixo?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Lo problema ye muit probablement con la pachina, y no bi ha cosa a fer pa resolver-la. </p>
+<p>Si yes en un ret corporativo u fendo servir antivirus, puetz clamar al equipo de soporte pa aduya. Tamién puetz notificar-lo el problema a l'administrador d'a pachina.</p>
 
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Lo reloch de l'ordinador ye configurau como <span id='wrongSystemTime_systemDate2'/>. Asegura-te que lo día, hora y fuso horario d'o tuyo ordinador son correctos en as preferencias de sistema, y refresca <span class='hostname'/>.</p>
+<p>Si lo tuyo reloch ye en hora, la pachina web ye mal configurada y no bi ha cosa a fer pa solucionar lo problema. Puetz notificar-le-ne a l'administrador d'a pachina.</p>
+
+">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Lo problema ye en a pachina web y no bi ha cosa que fer pa solucionar-lo. Puetz informar d'o problema a l'administrador d'a pachina.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Lo puesto podría estar temporalment no disponible u masiau aqueferau. Torne a prebar-lo en bells momentos.</li> <li>Si no puede cargar garra pachina, comprebe a connexión de ret d'o suyo equipo.</li> <li>Si o suyo equipo u ret son protechius por un tallafuegos u proxy, asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li> </ul>">
 
@@ -99,6 +115,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Atención: risgo potencial de seguranza">
 <!ENTITY certerror.sts.pagetitle  "No se connecta: problema potencial de seguranza">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tiene una politica de seguranza clamada HTTP Strict Transport Security (HSTS), que significa que &brandShortName; nomás puede connectar-se a ell de traza segura. No puetz anyadir una excepción pa vesitar este puesto.">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo texto en lo portafuellas">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -107,6 +124,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pachina blocada">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> ye muit posiblement un puesto seguro, pero no se puede establir una connexión segura. Este problema ye causau per <span class='mitm-name'/> que ye un software d'o tuyo ordinador u d'o tuyo ret.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si lo tuyo antivirus incluye una ferramienta que escaneya connexions cifradas (clamada “web scanning” u “https scanning”), puetz desactivar esta ferramienta. Si no funciona, puetz eliminar y resintalar l'antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si yes en una ret corporativa, contacta con o tuyo departamento de IT.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si no yes familiar con <span class='mitm-name'/>, esto puede ser un ataque y no has de continar enta lo puesto.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si no yes familiar con <span class='mitm-name'/>, esto puede estar un ataque y no bi ha cosa que fer para acceder a la pachina.">
