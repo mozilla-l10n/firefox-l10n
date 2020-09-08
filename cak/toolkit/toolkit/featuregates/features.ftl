@@ -73,6 +73,10 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Taq co
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home rujumejyak tikirib'äl
+experimental-features-abouthome-startup-cache-description = Rujumejyak tikirinel wuj  about:home ri nusamajij ri' ruyon pa rutikiribal. Ri nrojqaj ri jumejyak richin ninimirisäx rusamaj ri tikirib'äl.
+experimental-features-print-preview-tab-modal =
+    .label = Ruwachib'exik Chik Nab'ey Rutz'etoj Tz'ajb'anïk
+experimental-features-print-preview-tab-modal-description = Nuk'üt ri nab'ey rutz'etoj tz'ajb'anïk xwachib'ëx chik chuqa' nub'än chi ri tz'ajb'anïk k'o pa macOS. Nuq'alajisaj nima'q taq sachoj chuqa' man ruk'wan ta ronojel runuk'ulem pa ruwi' rutz'ajb'axik. Richin yatol pa runuk'ulem tz'ajb'anïk tacha' “Titz'ajb'äx rik'in rutzijol q'inoj…”  pa rupas Tz'ajb'anïk.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
