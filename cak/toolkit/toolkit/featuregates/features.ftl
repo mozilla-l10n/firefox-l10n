@@ -51,8 +51,10 @@ experimental-features-css-constructable-stylesheets-description = Ri rutz'aqatis
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Ri tz'aqät { -brand-short-name } rutz'aqatisaxik ri Media Session API xa choj nitojtob'ëx. RE API re' nokisäx richin nib'an runuk'ulem ri rusamajixik rutzijol kiximon ki' kik'in ri taq q'ojom, richin yesamajïx taq nimaq'ij chuqa' utziläj taq tzij richin nik'üt jun k'amal kichin okisanela' richin yesamajïx kib'anik taq q'ojom chuqa' richin yenük' taq metadatos kichin taq yakb'äl. Titz'et <a data-l10n-name="bugzilla">bug 1112032</a> richin ch'aqa' rutzijol.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
+experimental-features-devtools-color-scheme-simulation-description = Titz'aqatisäx jun cha'oj richin yetojtob'ëx jalajöj taq kichib'enik b'onil, nikiya' q'ij chawe richin ye'atz'ét taq q'ojom <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Ri rokisaxik re samaj re' nuya' q'ij chi ri ruxaq b'anikil tutzolij pe tzij chi rij we ri okisanel nrajo' jun ruk'amal okisanel q'equm o säq  ruwa. Re re' nuya' q'ij chawe natojtob'ej ri b'itz'ib' akuchi' man najäl ta ri runuk'ulem okik'amaya'l (o ri rusamajel q'inoj we ri okik'amaya'l nrojqaj jun runuk'ulem ruchib'enik b'onil jikib'an richin chijun ri q'inoj). Tatz'eta' <a data-l10n-name="bugzilla1">bug 1550804</a> chuqa' <a data-l10n-name="bugzilla2">bug 1137699</a> richin ch'aqa' retal.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
 # Do not translate 'SameSite', 'Lax' and 'None'.
