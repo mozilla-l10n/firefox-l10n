@@ -34,10 +34,14 @@ experimental-features-web-api-link-preload-description = La atributo <a data-l10
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Tio ĉi permesas apliki fokusajn stilojn al elementoj kiel butonoj kaj formularaj elementoj, nur kiam ili ricevas la fokuson per klavaro (ekzemple dum uzo de tabklavo inter elementoj), sed ne kiam ili ricevas la fokuson per musalklako aŭ per iu alia aparato. Vizitu la <a data-l10n-name="bugzilla">problemon 1617600</a> por havi pli da informo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = La ĝenerala evento <a data-l10n-name="mdn-beforeinput">beforeinput</a> iĝas aktiva en elementoj <a data-l10n-name="mdn-input">&lt;input&gt;</a> kaj <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, aŭ en iu ajn elemento kies atributo <a data-l10n-name="mdn-contenteditable">contenteditable</a> estas aktiva, tuj antaŭ la ŝanĝiĝo de valoro de la elemento. Tiu evento permesas al teksaĵaj programoj superregi la norman konduton de la retumilo rilate al interago de uzanto, ezkemple, programoj teksaĵaj povas nuligi la tajpadon de kelkaj signoj, aŭ povas modifi la stilon de algluita teksto tiel ke kongruas kun aprobita listo de stiloj.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -74,3 +78,4 @@ experimental-features-devtools-serviceworker-debugger-support =
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafiko: flua skalo per pinĉo
+experimental-features-graphics-desktop-zooming-description = Tio ĉi aktivigas fluan skalon per pinĉo en tuŝekranoj kaj precizaj tuŝmatoj.
