@@ -867,6 +867,9 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Kachi sa da servicios accesibilidad kivɨ nu ka̱a̱ nánuku
+    .accesskey = a
 permissions-a11y-privacy-link = Ka´vi kue´eka
 
 ## Privacy Section - Data Collection
@@ -927,6 +930,8 @@ space-alert-under-5gb-ok-button =
 
 httpsonly-header = Modo solo HTTPS
 httpsonly-learn-more = Ka´vi kue´eka
+httpsonly-radio-disabled =
+    .label = Nte kutuvi HTTPS
 
 ## The following strings are used in the Download section of settings
 

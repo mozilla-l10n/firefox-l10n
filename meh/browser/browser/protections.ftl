@@ -53,9 +53,17 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Naja satiñu
 turn-on-sync = Activar { -sync-brand-short-name }...
     .title = Kua'a nuu preferencias sincronización
+monitor-title = Kumi nkene fugas da datos
 monitor-link = Naja satiñu
 monitor-passwords-tooltip =
     .title = Kune'ya contraseñas tuvi nu { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+       *[other] Da nuu correo electrónico íyo monitoreado
+    }
 monitor-no-breaches-title = Tu'un va'a!
 monitor-view-report-link = Kune´ya reporte
     .title = Nasá´á da filtraciones { -monitor-brand-short-name }
