@@ -25,3 +25,5 @@ rights-locationawarebrowsing-term-1 = URL դաշտում գրել՝ <code>about:
 rights-locationawarebrowsing-term-2 = Մուտքագրել geo.enabled
 rights-locationawarebrowsing-term-3 = Երկու անգամ սեղմել geo.enabled նախընտրանքի վրա
 rights-locationawarebrowsing-term-4 = Տեղադրութեան յայտնաբերումը անջատուած է
+rights-webservices-unbranded = Այս ծրագրում ընդգրկուած վեբ կայքի ծառայութիւնների ընդհանուր նկարագիրը եւ, անհրաժեշտութեան դէպքում, անջատելու հրահանգաշարը պէտք է ներառուած լինի այստեղ:
+rights-webservices-term-unbranded = Այս ապրանքում կիրառելի ցանկացած ծառայութեան դրոյթ պէտք է ընդգրկուած լինի այստեղ:
