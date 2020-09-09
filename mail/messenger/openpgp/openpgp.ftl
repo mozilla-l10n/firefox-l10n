@@ -308,7 +308,12 @@ keyserver-error-security-error = Klučowy serwer zaklučowany přistup njepodpě
 keyserver-error-certificate-error = Certifikat klučoweho serwera płaćiwy njeje.
 keyserver-error-unsupported = Klučowy serwer so njepodpěruje.
 # Strings in mimeWkdHandler.jsm
-wkd-message-body-req = Waš e-mejlowy poskićowar je waš naprašowanje předźěłał, zo by waš zjawny kluč do zapisa OpenPGP-webklučow nahrał.
+wkd-message-body-req =
+    Waš e-mejlowy poskićowar je waš naprašowanje předźěłał, zo by waš zjawny kluč do zapisa OpenPGP-webklučow nahrał.
+    Prošu wobkrućće, zo byšće wozjewjenje swojeho zjawneho kluča dokónčił.
+wkd-message-body-process =
+    To je mejlka nastupajo awtomatiske předźěłowanje, zo so waš zjawny kluč do zapisa OpenPGP-wewbklučow nahrał.
+    Njetrjebaće ničo činić.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Powěsć z temu { $subject }
@@ -317,6 +322,13 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = Njeznaty signowanski algoritmus (ID: { $id })
 unknown-hash-alg = Njeznata kryptografiska kontrolna suma (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Waš kluč { $desc } za mjenje hač { $days } dnjow spadnje.
+    Poručamy, zo nowy klučowy por wutworjeće a wotpowědne konta konfigurować, zo byšće jón wužiwał.
+expiry-keys-expire-soon =
+    Waše slědowace kluče za mjenje hač { $days } dnjow spadnu: { $desc }.
+    Poručamy, zo nowe kluče wutworjeće a wotpowědne konta konfigurować, zo byšće je wužiwał.
 expiry-open-key-manager = Zrjadowak OpenPGP-klučow wočinić
 expiry-open-key-properties = Klučowe kajkosće wočinić
 # Strings filters.jsm
