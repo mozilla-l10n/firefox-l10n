@@ -22,7 +22,7 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-containers-name-label = Sivɨ{ -containers-labels-style }
+containers-name-label = Sivɨ
     .accesskey = S
     .style = { -containers-labels-style }
 containers-name-text =
