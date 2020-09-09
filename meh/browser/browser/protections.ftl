@@ -67,6 +67,7 @@ info-monitored-emails =
 monitor-no-breaches-title = Tu'un va'a!
 monitor-view-report-link = Kune´ya reporte
     .title = Nasá´á da filtraciones { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Nasá'á da filtraciones
 monitor-manage-breaches-link = Tetiñu da filtraciones
     .title = Tetiñu da filtraciones nuu { -monitor-brand-short-name }
 # Variables:
@@ -75,6 +76,8 @@ monitor-partial-breaches-percentage = { $percentageResolved } % nsá´á
 monitor-partial-breaches-motivation-title-start = ¡Va'a nkajie'enu!
 monitor-partial-breaches-motivation-title-middle = ¡Kaka sukuan!
 monitor-partial-breaches-motivation-title-end = ¡Sani nɨ'ɨo! Kaka sukuan.
+monitor-resolve-breaches-link = Nasá'á da filtraciones
+    .title = Nasá'á da filtraciones ji { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

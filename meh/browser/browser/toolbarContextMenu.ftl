@@ -11,6 +11,13 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Kaji kuaiyo da pestañas
     .accesskey = S
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tanɨ nakasɨ sukua
+           *[other] Tanɨ nakasɨ da sukua
+        }
+    .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = Tetiñu extensión
     .accesskey = E
