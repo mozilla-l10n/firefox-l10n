@@ -4,17 +4,14 @@
 
 sanitize-prefs-style =
     .style = width: 17em
-
 dialog-title =
     .title = Xinó a nnánukunu ntañu´u…
     .style = width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
     .title = Sna daa sɨ´ɨ nsá´ánu
     .style = width: 34em
-
 clear-data-settings-label = De nnakasɨ { -brand-short-name } nejika sno kuaiyo
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -28,22 +25,16 @@ clear-data-settings-label = De nnakasɨ { -brand-short-name } nejika sno kuaiyo
 clear-time-duration-prefix =
     .value = Rango tiempu saa xita:{ " " }
     .accesskey = R
-
 clear-time-duration-value-last-hour =
     .label = Nɨ´ɨ hora
-
 clear-time-duration-value-last-2-hours =
     .label = Da nnɨ´ɨ uvi hora
-
 clear-time-duration-value-last-4-hours =
     .label = Da nnɨ´ɨ kumi hora
-
 clear-time-duration-value-today =
     .label = Ki̱vɨ̱ vitá
-
 clear-time-duration-value-everything =
     .label = Kuaiyo
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -51,35 +42,32 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Sɨ´ɨ
-
+item-history-and-downloads =
+    .label = Hisdtorial nnánuku ji da nxinuu
+    .accesskey = n
 item-cookies =
     .label = Cookies
     .accesskey = C
-
+item-active-logins =
+    .label = Conexiones teku ntañu'u
+    .accesskey = C
 item-cache =
     .label = Caché
     .accesskey = a
-
 data-section-label = Datos
-
 sanitize-everything-undo-warning = Ya´a nkuvi tanɨ.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Sá´á noo ntañu´u
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Nná
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Náan kuaiyo a nnánukunu.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

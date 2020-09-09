@@ -11,14 +11,15 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Kaji kuaiyo da pestañas
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = Tetiñu extensión
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Xina extensión
     .accesskey = v
-
+toolbar-context-menu-remove-from-toolbar =
+    .label = Xita da barra ka̱a̱
+    .accesskey = Q
 toolbar-context-menu-view-customize-toolbar =
     .label = Sá´á vii
     .accesskey = P

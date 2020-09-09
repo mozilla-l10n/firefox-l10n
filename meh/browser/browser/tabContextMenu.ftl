@@ -29,6 +29,12 @@ pin-tab =
 unpin-tab =
     .label = Xita pestaña
     .accesskey = D
+pin-selected-tabs =
+    .label = Chiso sukua
+    .accesskey = P
+unpin-selected-tabs =
+    .label = Nchiso da sukua
+    .accesskey = b
 bookmark-selected-tabs =
     .label = Tee da sukua nuu marcadores...
     .accesskey = k
@@ -53,6 +59,14 @@ tab-context-close-multiple-tabs =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tanɨ nakasɨ sukua
+           *[other] Tanɨ nakasɨ da sukua
+        }
+    .accesskey = U
 close-tab =
     .label = Nakasɨ pestaña
     .accesskey = n
@@ -64,4 +78,18 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Skana pestaña
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Nakasɨ pestaña
+           *[other] Nakasɨ pestaña
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Skana sukua
+           *[other] Skana sukua
+        }
     .accesskey = v
