@@ -21,6 +21,7 @@ features-id = ID
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-url = URL
 
 ##
 

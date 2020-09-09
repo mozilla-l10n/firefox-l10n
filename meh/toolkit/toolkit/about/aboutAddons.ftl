@@ -4,23 +4,19 @@
 
 search-header-shortcut =
     .key = f
-
 list-empty-button =
     .label = Ka´vi kue´eka jie´e ka̱a̱ chunta´an
-
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Kaji
        *[other] { -brand-short-name } Preferencias
     }
-
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
             [windows] { -brand-short-name } Kaji
            *[other] { -brand-short-name } Preferencias
         }
-
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -32,10 +28,8 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -65,6 +59,7 @@ addon-install-from-file-filter-name = Iin a nachisó-kúmani
 
 ## Extension shortcut management
 
+shortcuts-browserAction2 = Tee botón barra da ka̱a̱
 
 ## Recommended add-ons page
 
@@ -82,7 +77,6 @@ preferences-addon-button =
 ## Pending uninstall message bar
 
 addon-detail-updates-radio-off = Xina´va
-
 release-notes-loading = Kunetu…
 
 ## Page headings
