@@ -19,3 +19,13 @@ experimental-features-media-avif =
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Iloj por programistoj: senerarigo de Service worker
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graphics: Smooth Pinch Zoom
