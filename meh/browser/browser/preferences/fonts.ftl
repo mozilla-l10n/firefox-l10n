@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Tipografía
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuentes para
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Tamaño
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Naja ka´nu
     .accesskey = u
-
 fonts-minsize = Naja luli koo letra
     .accesskey = N
-
 fonts-minsize-none =
     .label = None
-
 fonts-allow-own =
     .label = Kua´a da  página kaji letra, je nkaji da a nee íchi sikɨ
     .accesskey = K
@@ -113,6 +102,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Koo kua vaji ji tu'un a íyo
 fonts-languages-fallback-name-arabic =
     .label = Arabic
 fonts-languages-fallback-name-baltic =
@@ -143,7 +134,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Inka (incl. europeano occidental)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -68,6 +68,15 @@ restart-later = Nakajie'e inka ichi
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Iin ka̱a̱, <img data-l10n-name="icon"/> { $name }, ni'i página inicio noo'o.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Iin na'a ka̱a̱, <img data-l10n-name="icon"/> { $name }, ni'i página sukua jíía.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Iin na´á ka̱a̱, <img data-l10n-name="icon"/> { $name }, tetiñu configuración noo´o.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Iin ka̱a̱, <img data-l10n-name="icon"/> { $name }, ke'i configuración noo´o.
