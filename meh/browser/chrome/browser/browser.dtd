@@ -240,7 +240,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY uiTour.infoPanel.close "Nakasɨ">
 
 <!ENTITY panicButton.thankyou.msg1                "Nná historial ntañu'u.">
-<!ENTITY panicButton.thankyou.msg2                "¡Nánuku je kumidani noo'o!">
+<!ENTITY panicButton.thankyou.msg2                "¡Kaka je kumidani noo'o!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Kuta'vi!">
 
 <!ENTITY updateAvailable.panelUI.label "Xinuu a jíía &brandShorterName;">
