@@ -57,20 +57,26 @@ experimental-features-devtools-color-scheme-simulation =
 experimental-features-devtools-color-scheme-simulation-description = Tio ĉi aldonas eblon imiti malsamajn kolorajn skemojn, kio permesas al vi testi aŭdvidaĵajn petojn <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Per tiu ĉi aŭdvidaĵa peto via stilfolio povas respondi al la preferoj de la uzanto rilate al la heleco de la aspekto. Tiu ĉi trajto permesas al vi testi vian kodon sen devi ŝanĝi agordojn en via retumilo (aŭ mastruma sistemo, se la retumilo sekvas la sisteman norman koloran skemon). Vizitu la <a data-l10n-name="bugzilla1">problemon 1550804</a> kaj la <a data-l10n-name="bugzilla2">problemon 1137699</a> por havi pli da informo.
 experimental-features-devtools-execution-context-selector =
     .label = Iloj por programistoj: elektilo de rulada kunteksto
+experimental-features-devtools-execution-context-selector-description = Tiu ĉi trajto montras butonon en la ordonlinio de la konzolo, kiu permesas al vi ŝanĝi la kuntekston en kiu la esprimo tajpita de vi estos taksita. Vizitu la <a data-l10n-name="bugzilla1">problemon 1605154</a> kaj la <a data-l10n-name="bugzilla2">problemon 1605153</a> por havi pli da informo.
 experimental-features-devtools-compatibility-panel =
     .label = Iloj por programistoj: kongrueca panelo
+experimental-features-devtools-compatibility-panel-description = Flanka panelo por la inspektilo de paĝo, kiu montras detalajn informojn pri la interretumila kongrueco de via programo. Vizitu la <a data-l10n-name="bugzilla">problemon 1584464</a> por havi pli da informoj.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Kuketoj: SameSite=Lax estas la normo
+experimental-features-cookie-samesite-lax-by-default2-description = Norme pritrakti kuketojn kiel “SameSite=Lax” se neniu atributo “SameSite” estas specifita. Programistoj devas elekti la nunan faktan koduton, senliman uzon, per malimplicita difino de “SameSite=None”.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
-    .label = Kuketoj: SameSite=None postulas sekuran atributon
+    .label = Kuketoj: SameSite=None postulas la atributon secure
+experimental-features-cookie-samesite-none-requires-secure2-description = Kuketoj kun “SameSite=None” postulas la atributon secure. Tiu ĉi trajto postulas “Kuketoj: SameSite=Lax estas la normo”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home komenca staplo
+experimental-features-abouthome-startup-cache-description = Staplo por la komenca dokumento about:home, kiu estas norme ŝargita komence. La celo de tiu ĉi staplo estas plibonigi la efikecon de starto.
 experimental-features-print-preview-tab-modal =
     .label = Refasonado de la antaŭvido de presado
+experimental-features-print-preview-tab-modal-description = Tio ĉi enkondukas la refasonitan antaŭvidon de presado kaj disponigas la antaŭvidon de presado en macOS. Tio povus eventuale misfunkcii kaj ĝi ne inkluzivas ĉiujn agordojn presajn. Por aliri ĉiuj tiujn agordojn, elektu "Presi per sistema dialogo…” ene de la presa panelo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
