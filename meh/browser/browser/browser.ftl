@@ -112,6 +112,7 @@ urlbar-search-tips-redirect-2 = Kajie´e nánuku nuu ya´a je kuni tu'un kuvi { 
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = A ta´a ini noo´o
 urlbar-search-mode-tabs = Da sukua
 urlbar-search-mode-history = Historial
 
@@ -204,6 +205,8 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = A ta´a ini noo´o ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Da sukua ({ $restrict })
 search-one-offs-history =
