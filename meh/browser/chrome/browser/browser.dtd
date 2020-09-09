@@ -47,11 +47,13 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Da nu ke'i &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Chu´un inka ka̱a̱…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 <!ENTITY fxa.menu.signin.label "Kajie'e sesión &brandProductName;">
 <!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.settings.label "Ke´i">
+<!ENTITY fxa.menu.accountSettings.label "Da nu ke'i cuenta">
 <!ENTITY fxa.menu.manageAccount2.label "Tetiñu cuenta">
 <!ENTITY fxa.menu.signOut.label "Kasɨ sesión…">
 <!ENTITY fxa.menu.setupSync.label "Ke´í &syncBrand.shortName.label;…">
@@ -105,6 +107,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY viewBookmarksToolbar.label         "Kune'ya barra a ta´a ini noo´o">
 <!ENTITY hideBookmarksToolbar.label         "Chiyu'u barra a ta´a ini noo´o">
 <!ENTITY searchBookmarks.label              "Nánuku a ta´a ini noo´o">
+<!ENTITY bookmarkingTools.label             "Da ka̱a̱ ta'a ini noo'o">
+<!ENTITY addBookmarksMenu.label             "Tee menú ta'an ini noo'o nu barra ka̱a̱">
+<!ENTITY removeBookmarksMenu.label          "Xita menú ta'an ini noo'o nu barra ka̱a̱">
 
 <!ENTITY historyButton.label            "Sɨ´ɨ">
 
@@ -155,6 +160,7 @@ this container is a toolbar. This avoids double-speaking. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Síne prefrencias Sync">
+<!ENTITY appMenuRemoteTabs.unverified.label "Cuenta noo´o nejika koo verificada.">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Kajie'e sesión ji &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tetiñu da ka̱a̱…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Kune'ya sukua sincronizadas nu barra kuá´á">
@@ -162,13 +168,17 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Chu´un inka ka̱a̱">
 
 
+<!ENTITY customizeMenu.addToToolbar.label "Tee nu barra da ka̱a̱">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Tee nu menú desbordamiento">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desanclar nu menú desbordamiento">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
+<!ENTITY customizeMenu.removeFromToolbar.label "Xita da barra ka̱a̱">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Q">
 <!ENTITY customizeMenu.addMoreItems.label "Tee kue'eka elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
@@ -221,6 +231,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Da sukua ka̱a̱ nánuku">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -228,6 +239,8 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY uiTour.infoPanel.close "Nakasɨ">
 
+<!ENTITY panicButton.thankyou.msg1                "Nná historial ntañu'u.">
+<!ENTITY panicButton.thankyou.msg2                "¡Nánuku je kumidani noo'o!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Kuta'vi!">
 
 <!ENTITY updateAvailable.panelUI.label "Xinuu a jíía &brandShorterName;">
