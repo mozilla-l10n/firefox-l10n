@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Λήψη στο Google Play
 login-app-promo-apple =
     .alt = Λήψη στο App Store
-
 login-filter =
     .placeholder = Αναζήτηση συνδέσεων
-
 create-login-button = Δημιουργία νέας σύνδεσης
-
 fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
 fxaccounts-sign-in-button = Σύνδεση στο { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -29,7 +26,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Άνοιγμα μενού
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο πρόγραμμα περιήγησης…
+about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο πρόγρ. περιήγησης…
 about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
 about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
 menu-menuitem-preferences =
@@ -71,7 +68,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ρυθμίστε το { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ρυθμίστε το { -sync-brand-short-name } ή εισάγετέ τις.
 about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
 login-intro-description = Αν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } σε άλλη συσκευή, ορίστε πώς μπορείτε να τις μεταφέρετε εδώ:
@@ -79,7 +75,6 @@ login-intro-instruction-fxa = Στη συσκευή όπου έχουν αποθ
 login-intro-instruction-fxa-settings = Στις Ρυθμίσεις του { -sync-brand-short-name }, φροντίστε να επιλέξετε το κουτάκι Συνδέσεις.
 about-logins-intro-instruction-help = Αν χρειάζεστε περισσότερη βοήθεια, επισκεφτείτε την ενότητα <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισάγετε στο { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Εάν οι συνδέσεις σας αποθηκεύονται εκτός του { -brand-product-name }, μπορείτε να τις <a data-l10n-name="import-browser-link">εισαγάγετε από άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">από κάποιο αρχείο</a>
 
 ## Login
@@ -120,13 +115,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Για να επεξεργ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = επεξεργαστεί την αποθηκευμένη σύνδεση
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Για να δείτε τον κωδικό πρόσβασής σας, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = αποκαλύψει τον αποθηκευμένο κωδικό πρόσβασης
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Για να αντιγράψετε τον κωδικό πρόσβασής σας, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen when attempting to copy a password in about:logins
@@ -136,7 +129,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = αντιγράψει 
 ## Master Password notification
 
 master-password-notification-message = Παρακαλούμε εισάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις.
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Για να εξαγάγετε τις συνδέσεις σας, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen when attempting to export a password in about:logins
@@ -173,15 +165,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Ακύρωση
 confirmation-dialog-dismiss-button =
     .title = Ακύρωση
-
 about-logins-confirm-remove-dialog-title = Αφαίρεση αυτής της σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
-
 about-logins-confirm-export-dialog-title = Εξαγωγή συνδέσεων και κωδικών πρόσβασης
 about-logins-confirm-export-dialog-message = Οι κωδικοί πρόσβασής σας θα αποθηκευτούν ως αναγνώσιμο κείμενο (π.χ. BadP@ssw0rd), επομένως όποιος ανοίξει το αρχείο θα μπορέσει να τους δει.
 about-logins-confirm-export-dialog-confirm-button = Εξαγωγή…
-
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
 confirm-discard-changes-dialog-message = Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.
 confirm-discard-changes-dialog-confirm-button = Απόρριψη
@@ -212,10 +201,8 @@ about-logins-vulnerable-alert-learn-more-link = Μάθετε περισσότε�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Υπάρχει ήδη καταχώρηση για το { $loginTitle } με αυτό το όνομα χρήστη. <a data-l10n-name="duplicate-link">Μετάβαση στην υπάρχουσα καταχώρηση;</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Προέκυψε σφάλμα κατά την αποθήκευση του κωδικού πρόσβασης.
-
 
 ## Login Export Dialog
 
