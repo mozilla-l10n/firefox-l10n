@@ -11,10 +11,12 @@ experimental-features-css-masonry-description = Tio ĉi aktivigas la subtenon de
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Tiu nova API provizas malaltnivelan subtenon por kalkuloj kaj montro de grafikaĵoj faritaj de <a data-l10n-name="wikipedia">grafika procesoro (GPU)</a> en la aparato aŭ komputilo de la uzanto. La <a data-l10n-name="spec">specifo</a> estas ankoraŭ prilaborata. Vizitu la <a data-l10n-name="bugzilla">problemon 1602129</a> por havi pli da informo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Se tiu ĉi trajto estas aktiva, { -brand-short-name } subtenas la bildan dosierformon AV1 (AVIF). Tiu ĉi dosierformo uzas la kapablojn de la videokompaktigaj algoritmoj de AV1 por redukti la grandon de bildo. Vizitu la <a data-l10n-name="bugzilla">problemon 1443863</a> por havi pli da informo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
