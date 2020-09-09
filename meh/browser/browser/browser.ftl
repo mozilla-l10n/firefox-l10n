@@ -112,6 +112,8 @@ urlbar-search-tips-redirect-2 = Kajie´e nánuku nuu ya´a je kuni tu'un kuvi { 
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-tabs = Da sukua
+urlbar-search-mode-history = Historial
 
 ##
 
@@ -188,6 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Tee kua ka̱a̱ nánuku xinañu´u nuu da ventanas yu´u
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -196,6 +204,10 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-tabs =
+    .tooltiptext = Da sukua ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Da sukua ({ $restrict })
 
 ## Bookmark Panel
 
