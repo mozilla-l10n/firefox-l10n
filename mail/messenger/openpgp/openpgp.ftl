@@ -329,6 +329,13 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Waše slědowace kluče za mjenje hač { $days } dnjow spadnu: { $desc }.
     Poručamy, zo nowe kluče wutworjeće a wotpowědne konta konfigurować, zo byšće je wužiwał.
+expiry-key-missing-owner-trust =
+    Waš tajny kluč { $desc } dowěry hódny njeje.
+    Poručamy, zo w klučowych kajkosćach „Spušćeće na certifikacijach“ na „doskónčny“ stajeće.
+expiry-keys-missing-owner-trust =
+    Slědowacy z wašich tajnych klučow dowěry hódny njeje.
+    { $desc }.
+    Poručamy, zo w klučowych kajkosćach „Spušćeće na certifikacijach“ na „doskónčny“ stajeće.
 expiry-open-key-manager = Zrjadowak OpenPGP-klučow wočinić
 expiry-open-key-properties = Klučowe kajkosće wočinić
 # Strings filters.jsm
@@ -342,6 +349,7 @@ dlg-button-delete = &Zhašeć
 
 ## Account settings export output
 
+key-ring-key-not-trusted = Kluč { $userId } (klučowy ID { $keyId }) dowěry hódny dosć njeje. Prošu stajće stopjeń dowěry swojeho kluča na „doskónčny“, zo by jón za signowanje wužiwał.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importować
 delete-key-title = OpenPGP-kluč zhašeć
@@ -356,6 +364,7 @@ key-valid-revoked = wotwołany
 key-valid-expired = spadnjeny
 key-trust-untrusted = dowěry njehódny
 key-trust-full = dowěry hódny
+key-trust-ultimate = doskónčny
 key-trust-group = (skupina)
 gnupg-file = GnuPG-dataje
 passphrase-prompt = Prošu zapodajće hesłowu frazu, kotraž slědowacy kluč přewostaja: { $key }
