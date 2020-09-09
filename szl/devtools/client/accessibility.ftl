@@ -22,6 +22,14 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = używej atrybutu <code>alt</code>, coby przidać etyketa elymyntōm <div>area</div>, co majōm atrybut <span>href</span>. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-dialog = Dialogōm zdo sie dować etykety. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-document-title = Dokumynty muszōm mieć <code>tytuł</code>. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-embed = Wrażōno zawartość musi mieć etyketa. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-figure = Ôbrozkōm z ôpcjōnalnymi podpisami zdo sie dować etykety. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-fieldset = Elymynty <code>fieldset</code> muszōm mieć etyketa. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-fieldset-legend2 = Użyj elymyntu <code>legend</code>, coby przidac etyketa elymyntōm <span>fieldset</span>.<a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-form = Elymynty formularōw muszōm mieć etyketa. <a>Przewiydz sie wiyncyj</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
