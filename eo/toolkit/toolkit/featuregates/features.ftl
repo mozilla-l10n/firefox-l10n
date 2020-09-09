@@ -21,10 +21,15 @@ experimental-features-media-avif-description = Se tiu ĉi trajto estas aktiva, {
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Nia realigo de la <a data-l10n-name="mdn-inputmode">inputmode</a> ĝenerala atributo estis ĝisdatigita laŭ <a data-l10n-name="whatwg">la specifo de WHATWG</a>, sed restas ankoraŭ aliaj ŝanĝoj, kiel la disponigo en modifebla enhavo kreita de contenteditable. Vizitu la <a data-l10n-name="bugzilla">problemon 1205133</a> por havi pli da informo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = La atributo <a data-l10n-name="rel">rel</a> kun la valoro <code>"preload"</code> en elemento <a data-l10n-name="link">&lt;link&gt;</a> havas la celon plibonigi la efikecon per pli frua ŝargado de rimedoj dum la vivo de la paĝo, kio signifas ke ili estos pli frue disponeblaj kaj malpli probable blokos la montron de la paĝo. Legu <a data-l10n-name="readmore">“Antaŭŝargado de enhavo per <code>rel="preload"</code>”</a> aŭ vizitu la <a data-l10n-name="bugzilla">problemon 1583604</a> por havi pli da informo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
