@@ -9,14 +9,13 @@
 <!ENTITY retry.label "ព្យាយាម​ម្តងទៀត">
 <!ENTITY returnToPreviousPage.label "ថយក្រោយ">
 
-
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.pageTitle "រក​មិន​ឃើញ​ម៉ាស៊ីន​មេ​ទេ">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>ពិនិត្យ​ឈ្មោះ​ឯកសារ​រក​មើល​អក្សរពុម្ព​ ឬ​កំហុស​ក្នុង​ការ​វាយ​ផ្សេងទៀត​ ។</li> <li>ពិនិត្យមើល​ថា តើ​ឯកសារ​ត្រូវ​បាន​ផ្លាស់ទី ប្ដូរ​ឈ្មោះ ឬ​លុប​ដែរ​ឬ​ទេ ។</li> </ul>">
 
@@ -29,7 +28,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "បើក​ទំព័រ​ចូល​ទៅកាន់​បណ្ដាញ">
 
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.pageTitle "URL មិនត្រឹមត្រូវ">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
@@ -57,6 +56,9 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>មិន​អាច​បង្ហាញ​ទំព័រ​ដែល​អ្នក​កំពុង​ព្យាយាម​មើល​ដោយ​សារ​មិន​អាច​ផ្ទៀងផ្ទាត់​ទិន្នន័យ​ដែល​បាន​ទទួល។</li> <li>សូម​​ទាក់ទង​ម្ចាស់​តំបន់​បណ្ដាញ ដើម្បី​ប្រាប់​អំពី​បញ្ហា​នេះ។</li> </ul>">
 
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 
 
@@ -66,6 +68,7 @@
 <!ENTITY sharedLongDesc "<ul> <li>តំបន់បណ្ដាញ​នេះ​អាច​នឹង​មិន​ដំណើរការ​ជា​បណ្ដោះអាសន្ន ឬ​ក៏​វា​រវល់​ពេក ។ ព្យាយាម​ម្ដងទៀត​ក្នុង​រយៈ​ពេល ​ពីរបី​​នាទី​ក្រោយ ។</li> <li>ប្រសិនបើ​ អ្នក​មិន​អាច​ផ្ទុក​​ទំព័រ​ណាមួយ​បាន​ទេ សូម​ពិនិត្យមើល​ការ​តភ្ជាប់​បណ្ដាញ​ កុំព្យូទ័រ​របស់​អ្នក ។</li> <li>ប្រសិនបើ​ កុំព្យូទ័រ ឬ​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​ការពារ​ដោយ​ជញ្ជាំងភ្លើង​ ឬ​ប្រូកស៊ី សូម​ប្រាកដ​ថា &brandShortName; អនុញ្ញាត​ឲ្យ​ចូល​ប្រើ​បណ្ដាញ ។</li> </ul>">
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ផ្ទុក​តាម​មធ្យោបាយ​នេះ​ទេ ពីព្រោះ​ទំព័រ​មាន​គោលការណ៍​អំពី​សុវត្ថិភាព​មាតិកា​ដែល​មិន​អនុញ្ញាត​ចំពោះ​វា ។</p>">
+
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>ទំព័រ​ដែល​អ្នក​កំពុងតែ​ព្យាយាម​មើល​ មិន​អាច​បង្ហាញ​បាន​ទេ ពីព្រោះ​បាន​រក​ឃើញ​កំហុស​នៅ​ក្នុង​ការ​ផ្ទេរ​ទិន្នន័យ ។</p><ul><li>សូម​ទាក់ទង​ម្ចាស់​តំបន់បណ្ដាញ​ ដើម្បី​ប្រាប់​ឲ្យ​ពួក​គេ​ដឹង​អំពី​បញ្ហា​នេះ ។</li></ul>">
 
@@ -85,8 +88,11 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ប្រើ​បច្ចេកវិទ្យា​សុវត្ថិភាព​ដែល​ហួស​សម័យ និង​​ងាយរង​ការ​វាយប្រហារ។ អ្នក​វាយប្រហារ​អាច​​​បញ្ចេញ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​​មាន​សុវត្ថិភាព​ឲ្យ​គេ​ដឹង​បាន​យ៉ាង​ងាយស្រួល។ អ្នក​គ្រប់គ្រង​វេបសាយ​នឹង​ត្រូវ​​ជួសជុល​ម៉ាស៊ីន​មេ​ជា​មុន​ មុន​ពេល​អ្នក​អាច​ចូល​មើ​លវេបសាយ​បាន។</p><p>កូដ​កំហុស៖ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "ទំព័រ​ដែល​បាន​ទប់ស្កាត់">
+
 
 
 <!ENTITY prefReset.longDesc "វា​ហាក់​ដូចជា​ការ​កំណត់​សុវត្ថិភាព​បណ្ដាញ​របស់​អ្នក​អាច​បង្ក​ឲ្យ​មាន​បញ្ហា​នេះ។ តើ​អ្នក​​ចង់​កំណត់​ជា​លំនាំដើម​ដើម្បី​សារ​បញ្ហា​នេះ​ដែរ ឬ​ទេ?">
 <!ENTITY prefReset.label "ស្ដារ​ការ​កំណត់​លំនាំដើម">
+
 
