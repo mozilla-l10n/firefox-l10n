@@ -80,9 +80,18 @@ extension-controlled-password-saving = Iin na´á ka̱a̱, <img data-l10n-name="
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Iin ka̱a̱, <img data-l10n-name="icon"/> { $name }, ke'i configuración noo´o.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Iin na'a ka̱a̱, <img data-l10n-name="icon"/> { $name }, nkino kua ka̱a̱ nánuku xinañu'u
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Iin na´á ka̱a̱, <img data-l10n-name="icon"/> { $name }, jiniñu'u iin contenedor pestañas.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Iin na´á ka̱a̱, <img data-l10n-name="icon"/> { $name }, tetiñu configuración noo´o.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Iin na'a ka̱a̱, <img data-l10n-name="icon"/> { $name }, ni'i naja { -brand-short-name } síne Internet.
 
 ## Preferences UI Search Results
 
@@ -159,6 +168,7 @@ choose-button =
     .label = Sama...
     .accesskey = S
 choose-browser-language-description = Kaji tu´un kutuvi nuu menús, mensajes je notificaciones { -brand-short-name }.
+confirm-browser-language-change-description = Nakajie´e { -brand-short-name } sa kuvi kino a nsama
 confirm-browser-language-change-button = Tee je nakajie´e
 translate-web-pages =
     .label = Traducir contenido web
@@ -912,6 +922,7 @@ space-alert-under-5gb-ok-button =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Modo solo HTTPS
 httpsonly-learn-more = Ka´vi kue´eka
 
 ## The following strings are used in the Download section of settings
