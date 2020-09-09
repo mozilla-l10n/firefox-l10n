@@ -81,9 +81,12 @@ experimental-features-print-preview-tab-modal-description = Tio ĉi enkondukas l
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Pritrakti kuketojn el la sama nomrego, sed kun malsamaj skemoj (ekzemple http://example.com kaj https://example.com) kiel interretejajn anstataŭ samretejajn. Tio plibonigas sekurecon, sed povus eventuale misfukciigi aferojn.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Iloj por programistoj: senerarigo de Service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Tio ĉi aktivigas eksperimentan subtenon de Service workers en la erarserĉila panelo. Tiu ĉi trajto povas malrapidigi la ilojn por programistoj kaj uzi pli da memoro.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafiko: flua skalo per pinĉo
