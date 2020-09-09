@@ -290,16 +290,25 @@ key-expired-date = Kluč je { $keyExpiry } spadnył
 key-expired-simple = Kluč je spadnył
 key-revoked-simple = Kluč je so wotwołał
 key-do-you-accept = Akceptujeće, zo so za tutón kluč digitalne signatury a zaklučowanje powěsćow přepruwuje?
+key-accept-warning = Njeakceptujće strašny kluč. Wužiwajće druhi komunikaciski kanal hač e-mejlowy kanal, zo byšće porstowy wotćišć kluča swojeho dopisowarja přepruwował.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Njejmóžno powsěć słać, dokelž je problem z wašim wosobinskim klučom. { $problem }
+cannot-encrypt-because-missing = Njeje móžno, tutu powěsć ze zaklučowanjom kónc do kónca pósłác, dokelž su problemy z klučemi slědowacych přijimarjow: { $problem }
+window-locked = Wobdźěłowanske wokno je zawrjene; słanje je so přetorhnyło
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Zaklučowany dźěl powěsće
+mime-decrypt-encrypted-part-concealed-data = To je zaklučowany powěsćowy dźěl. Klikńće na přiwěšk, zo byšće jón w separatnym woknje wočinił.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Přetorhnjeny
 keyserver-error-unknown = Njeznaty zmylk je wustupił
 keyserver-error-server-error = Klučowy serwer je zmylk zdźělił.
+keyserver-error-import-error = Sćehnjeny kluč njeda so importować.
 keyserver-error-unavailable = Klučowy serwer k dispoziciji njeje
 keyserver-error-security-error = Klučowy serwer zaklučowany přistup njepodpěruje.
 keyserver-error-certificate-error = Certifikat klučoweho serwera płaćiwy njeje.
 keyserver-error-unsupported = Klučowy serwer so njepodpěruje.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req = Waš e-mejlowy poskićowar je waš naprašowanje předźěłał, zo by waš zjawny kluč do zapisa OpenPGP-webklučow nahrał.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Powěsć z temu { $subject }
