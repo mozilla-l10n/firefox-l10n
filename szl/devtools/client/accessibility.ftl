@@ -30,6 +30,8 @@ accessibility-text-label-issue-figure = Ôbrozkōm z ôpcjōnalnymi podpisami zd
 accessibility-text-label-issue-fieldset = Elymynty <code>fieldset</code> muszōm mieć etyketa. <a>Przewiydz sie wiyncyj</a>
 accessibility-text-label-issue-fieldset-legend2 = Użyj elymyntu <code>legend</code>, coby przidac etyketa elymyntōm <span>fieldset</span>.<a>Przewiydz sie wiyncyj</a>
 accessibility-text-label-issue-form = Elymynty formularōw muszōm mieć etyketa. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-form-visible = Elymyntōm formularōw zdo sie dać widoczno tekstowo etyketa. <a>Przewiydz sie wiyncyj</a>
+accessibility-text-label-issue-frame = Elymynty <code>frame</code> muszōm mieć etyketa. <a>Przewiydz sie wiyncyj</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
