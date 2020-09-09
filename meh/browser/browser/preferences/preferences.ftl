@@ -472,6 +472,9 @@ search-restore-default =
 search-remove-engine =
     .label = Xita
     .accesskey = R
+search-add-engine =
+    .label = Chiso
+    .accesskey = A
 search-find-more-link = Nani´ikue´e ka̱a̱ nánuku
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
