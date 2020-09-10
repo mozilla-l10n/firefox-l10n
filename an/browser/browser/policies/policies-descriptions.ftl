@@ -28,8 +28,16 @@ policy-DisableAppUpdate = Privar que lo navegador s'esvielle.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, lo lector incorporau de PDF en { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Priva que l'achent d'o navegador per defecto prenga garra acción. Nomás aplicable en Windows, atros sistemas no tienen l'achent.
 policy-DisableDeveloperTools = Blocar l'acceso a las ferramientas de desenvolvedor.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Desactivar la función Foto de pantalla de Firefox.
 policy-DisableFirefoxStudies = Priva que { -brand-short-name } execute estudios.
 policy-DisableForgetButton = Priva l'acceso a lo botón Oblidar.
+policy-DisableFormHistory = No remerar lo historial de buquedas y formularios.
+policy-DisableMasterPasswordCreation = Si ye activau, no se podrá crear una clau mayestra.
+policy-DisablePrimaryPasswordCreation = Si ye activau, no se podrá crear una clau primaria.
+policy-DisablePasswordReveal = No permitir de revelar claus en inicios de sesión alzaus.
+policy-DisablePocket = Desactivar la función d'alzar pachinas web en Pocket.
+policy-DisablePrivateBrowsing = Desactivar la navegación privada.
 policy-DisableSecurityBypass = Priva que l'usuario se pase ciertos avisos de seguranza.
 policy-DisableSystemAddonUpdate = Priva que lo navegador instale u esvielle extensions d'o sistema.
 
