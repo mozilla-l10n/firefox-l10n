@@ -80,6 +80,10 @@ about-debugging-refresh-usb-devices-button = Refrescar los dispositivos
 
 # Title of the Setup page.
 about-debugging-setup-title = Instalación
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Configurar lo metodo de connexión con que quiers depurar remotament lo tuyo dispositivo.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Fer servir <a>{ about-debugging-this-firefox-runtime-name }</a> pa depurar las extensions y los servicios d'esta version de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Connectar un dispositivo
 # USB section of the Setup page
