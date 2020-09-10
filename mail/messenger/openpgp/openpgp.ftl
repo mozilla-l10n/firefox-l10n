@@ -380,6 +380,19 @@ delete-mix =
 delete-pub-key =
     Chceće zjawny kluč
     ‚{ $userId }‘ zhašeć?
+delete-selected-pub-key = Chceće zjawne kluče zhašeć?
+refresh-all-question = Njejsće žadyn kluč wubrał. Chceće WŠĚ kluče aktualizować?
+key-man-button-export-sec-key = &Tajne kluče eksportować
+key-man-button-export-pub-key = Jenož &zjawne kluče eksportować
+key-man-button-refresh-all = Wšě kluče &aktualizować
+key-man-loading-keys = Kluče so začituja, prošu čakajće…
+ascii-armor-file = ASCII Armored Files (*.asc)
+no-key-selected = Wy měł znajmjeńša jedyn kluč wubrać, zo byšće wubranu operaciju wuwjedł
+export-to-file = Zjawny kluč do dataje eksportować
+export-keypair-to-file = Tajny a zjawny kluč do dataje eksportować
+export-secret-key = Chceće tajny kluč do składowaneje dataje OpenPGP-kluča zapřjeć?
+save-keys-ok = Kluče su so wuspěšnje składowali
+save-keys-failed = Składowanje klučow njeje so poradźiło
 general-error = Zmylk: { $reason }
 dlg-button-delete = &Zhašeć
 
