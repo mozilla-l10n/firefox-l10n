@@ -8,7 +8,11 @@ profiles-create = Creyar un Nuevo Perfil
 profiles-restart-title = Reiniciar
 profiles-restart-in-safe-mode = Reiniciar con os complementos desactivaus…
 profiles-restart-normal = Reiniciar de traza normal…
+profiles-conflict = Belatra copia de { -brand-product-name } ha feito cambios a lo perfil. Has de reiniciar { -brand-short-name } antes de fer mas cambios.
+profiles-flush-fail-title = No s'han alzau los cambios
+profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Una error inesperada ha privau que los cambios fuesen alzaus.
+profiles-flush-restart-button = Reiniciar { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Perfil: { $name }
@@ -27,6 +31,8 @@ profiles-rename = Renombrar
 profiles-remove = Borrar
 profiles-set-as-default = Fixar como perfil por defecto
 profiles-launch-profile = Lanzar lo perfil en un nuevo navegador
+profiles-cannot-set-as-default-title = No se puet establir per defecto
+profiles-cannot-set-as-default-message = Lo perfil por defecto no se puet cambiar pa { -brand-short-name }.
 profiles-yes = sí
 profiles-no = no
 profiles-rename-profile-title = Renombrar lo Perfil
