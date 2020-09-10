@@ -393,11 +393,17 @@ export-keypair-to-file = Tajny a zjawny kluč do dataje eksportować
 export-secret-key = Chceće tajny kluč do składowaneje dataje OpenPGP-kluča zapřjeć?
 save-keys-ok = Kluče su so wuspěšnje składowali
 save-keys-failed = Składowanje klučow njeje so poradźiło
+default-pub-key-filename = Eksportowane-zjawne-kluče
+default-pub-sec-key-filename = Zawěsćenje-tajnych-klučow
+refresh-key-warn = Warnowanje: Wotwisujo wot ličby klučow a zwiskoweje spěšnosće, móhło aktualizowanje wšěch klučow chětro dołhotrajny proces być!
+preview-failed = Dataja zjawneho kluča njeda so čitać.
 general-error = Zmylk: { $reason }
 dlg-button-delete = &Zhašeć
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Zjawny kluč je so wuspěšnje eksportował!</b>
+openpgp-export-public-fail = <b>Njeje móžno, wubrany zjawny kluč eksportować!</b>
 key-ring-key-not-trusted = Kluč { $userId } (klučowy ID { $keyId }) dowěry hódny dosć njeje. Prošu stajće stopjeń dowěry swojeho kluča na „doskónčny“, zo by jón za signowanje wužiwał.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importować
