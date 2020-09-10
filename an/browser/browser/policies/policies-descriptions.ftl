@@ -38,6 +38,7 @@ policy-DisablePrimaryPasswordCreation = Si ye activau, no se podrá crear una cl
 policy-DisablePasswordReveal = No permitir de revelar claus en inicios de sesión alzaus.
 policy-DisablePocket = Desactivar la función d'alzar pachinas web en Pocket.
 policy-DisablePrivateBrowsing = Desactivar la navegación privada.
+policy-DisableProfileImport = Desactivar la orden de menú que permite importar datos d'unatro navegador.
 policy-DisableSecurityBypass = Priva que l'usuario se pase ciertos avisos de seguranza.
 policy-DisableSystemAddonUpdate = Priva que lo navegador instale u esvielle extensions d'o sistema.
 
