@@ -345,6 +345,14 @@ filter-decrypt-move-warn-experimental =
     Poručamy z dorazom, zo najprjedy filter „Dešifrowanu kopiju wutworić“ pospytujeće, wuslědk starosćiwje testujeće a jenož započinaće, tutón filter wužiwać, hdyž sće spokojom z wuslědkom.
 filter-term-pgpencrypted-label = Z OpenPGP zaklučowany
 filter-key-required = Dyrbiće kluč přijimarja wubrać.
+filter-key-not-found = Zaklučowanski kluč za ‚{ $desc }‘ njeda so namakać-
+filter-warn-key-not-secret =
+    Warnowanje - filtrowanska akcija „Z klučom zaklučować“ přijimarjow wuměnja.
+    Jeli tajny kluč za ‚{ $desc }‘ nimaće, njemóžeće hižo mejlki čitać.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Na přeco dešifrować (OpenPGP)
+filter-decrypt-copy-label = dešifrowanu kopiju wutworić (OpenPGP)
+filter-encrypt-label = Z klučom zaklučować (OpenPGP)
 import-info-fpr = Porstowy wotćišć
 import-info-no-keys = Žane kluče importowane.
 general-error = Zmylk: { $reason }
