@@ -418,6 +418,15 @@ key-ring-pub-key-not-for-encryption = Kluč { $userId } (klučowy ID { $keyId })
 key-ring-sign-sub-keys-revoked = Wšě signowanske podkluče kluča { $userId } (klučowy ID { $keyId } su wotwołane.
 key-ring-sign-sub-keys-expired = Wšě signowanske podkluče kluča { $userId } (klučowy ID { $keyId } su spadnyli.
 key-ring-sign-sub-keys-unusable = Wšě signowanske podkluče kluča { $userId } (klučowy ID { $keyId } su wotwołane, spadnyli abo hewak njewužiwajomne.
+key-ring-enc-sub-keys-revoked = Wšě zaklučowanske podkluče kluča { $userId } (klučowy ID { $keyId }) su wotwołane.
+key-ring-enc-sub-keys-expired = Wšě zaklučowanske podkluče kluča { $userId } (klučowy ID { $keyId } su spadnyli.
+key-ring-enc-sub-keys-unusable = Wšě zaklučowanske podkluče kluča { $userId } (klučowy ID { $keyId } su wotwołane, spadnyli abo hewak njewužiwajomne.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Wužiwarski atribut (JPEG-wobraz)
+# Strings in key.jsm
+already-revoked = Tutón kluč je hižo wotwołany.
+key-man-button-revoke-key = Kluč &wotwołać
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importować
 delete-key-title = OpenPGP-kluč zhašeć
