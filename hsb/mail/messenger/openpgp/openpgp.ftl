@@ -340,6 +340,9 @@ expiry-open-key-manager = Zrjadowak OpenPGP-klučow wočinić
 expiry-open-key-properties = Klučowe kajkosće wočinić
 # Strings filters.jsm
 filter-folder-required = Dyrbiće cilowy rjadowak wubrać.
+filter-decrypt-move-warn-experimental =
+    Warnowanje - filtrowanska akcija „na přeco dešifrować“ móhła k zničenym powěsćam wjesć.
+    Poručamy z dorazom, zo najprjedy filter „Dešifrowanu kopiju wutworić“ pospytujeće, wuslědk starosćiwje testujeće a jenož započinaće, tutón filter wužiwać, hdyž sće spokojom z wuslědkom.
 filter-term-pgpencrypted-label = Z OpenPGP zaklučowany
 filter-key-required = Dyrbiće kluč přijimarja wubrać.
 import-info-fpr = Porstowy wotćišć
