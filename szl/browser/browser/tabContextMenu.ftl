@@ -59,6 +59,7 @@ tab-context-close-multiple-tabs =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -80,3 +81,21 @@ move-tabs =
 move-tab =
     .label = Przeniyś karta
     .accesskey = n
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zawrzij karty
+            [one] Zawrzij karta
+            [few] Zawrzij karty
+           *[many] Zawrzij karty
+        }
+    .accesskey = Z
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Przeniyś karty
+            [one] Przeniyś karta
+            [few] Przeniyś karty
+           *[many] Przeniyś karty
+        }
+    .accesskey = P
