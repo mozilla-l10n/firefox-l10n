@@ -47,10 +47,20 @@ policy-DisableSecurityBypass = Priva que l'usuario se pase ciertos avisos de seg
 policy-DisableSetAsDesktopBackground = Desactivar lo comando de menú Triar como Fondo de escritorio para imachens.
 policy-DisableSystemAddonUpdate = Priva que lo navegador instale u esvielle extensions d'o sistema.
 policy-DisableTelemetry = Desactivar Telemetría.
+policy-DisplayBookmarksToolbar = Amuestra la barra de ferramientas de marcapachinas per defecto.
 policy-DisplayMenuBar = Amostrar la barra de menú per defecto.
 policy-DNSOverHTTPS = Configurar lo DNS con HTTPS.
 policy-DontCheckDefaultBrowser = Desactivar la comprebación d'o navegador per defecto a l'inicio.
 policy-DownloadDirectory = Definir y trancar lo directorio de descargas.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Activar u desactivar lo bloqueyo de conteniu y opcionalment blocar-lo.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Activar u desactivar las extensions de medios cifraus y opcionalment blocar-los.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalar, desinstalar u blocar extensions. La opción d'instalar prene URLs u rutas como parametros. Las opcions de desinstalar y blocar prenen las IDs d'extension.
+policy-ExtensionSettings = Chestionar totz los aspectos de la instalación d'extensions.
 policy-ExtensionUpdate = Activar u desactivar las actualizacións automaticas
 policy-FirefoxHome = Configurar la pachina d'inicio de Firefox.
 policy-FlashPlugin = Permitir u no l'uso d'a extensión de Flash.
@@ -74,6 +84,10 @@ policy-PrimaryPassword = Requerir u privar l'uso d'una clau principal.
 policy-NetworkPrediction = Activar u desactivar la predicción de ret (DNS prefetching).
 policy-NewTabPage = Activar u desactivar la pachina de nueva pestanya.
 policy-NoDefaultBookmarks = Desactivar la creación d'os marcapachinas per defecto adintro de { -brand-short-name }, y los marcapachinas intelichents (mas visitaus, etiquetas recients). Nota: esta politica nomás ye efectiva si se fa servir antes d'o primer uso d'o perfil.
+policy-OfferToSaveLogins = Aforzar la configuración que permite que { -brand-short-name } s'obreixca a recordar d'os inicios de sesión y claus alzaus. S'acceptan las valors verdadero y falso.
+policy-OfferToSaveLoginsDefault = Configura la valor por defecto pa permitir que { -brand-short-name } s'ofreixca a recordar los inicios de sesión y claus alzaus. S'acceptan las valors verdadero y falso.
+policy-OverrideFirstRunPage = Sobrescribe la pachina d'a primer execución. Configura esta política en blanco si quiers desactivar la pachina d'a primer execución.
+policy-OverridePostUpdatePage = Sobrescribe la pachina "Novedatz" de dimpués d'a instalación. Configura esta politica en blanco si quiers desactivar la pachina de dimpués de la instalación.
 policy-PasswordManagerEnabled = Permitir alzar claus en o chestor de claus.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactivar u configurar PDF.js, lo visor de PDF de { -brand-short-name }.
@@ -86,10 +100,13 @@ policy-Proxy = Configurar lo proxy
 policy-RequestedLocales = Configura la lista d'idiomas (locales) demandaus pa aplicar-los en orden de preferencia.
 policy-SanitizeOnShutdown2 = Limpia los datos de navegación en amortar.
 policy-SearchBar = Configura la localización por defecto en a barra de busqueda. L'usuario la puede personalizar.
+policy-SearchEngines = Configurar las opcions de motors de busqueda. Esta politica nomás ye accesible en a versión de soporte extendido (ESR).
+policy-SearchSuggestEnabled = Activar u desactivar las sucherencias de busqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar los módulos PKCS #11.
 policy-SSLVersionMax = Configurar la versión maxima de SSL.
 policy-SSLVersionMin = Configurar la versión minima de SSL.
+policy-SupportMenu = Anyadir un elemento d'o menú de soporte personalizau a lo menú d'aduya.
 policy-UserMessaging = No amostrar ciertos mensaches a l'usuario.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocar l'acceso a pachinas web. Mira la documentación pa mas detalles sobre lo formato.
