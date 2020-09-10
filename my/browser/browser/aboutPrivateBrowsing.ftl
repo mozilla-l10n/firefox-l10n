@@ -10,4 +10,5 @@ about-private-browsing-info-myths = ကိုယ်ပိုင်ရှာဖ�
 about-private-browsing =
     .title = ဝဘ်တွင် ရှာဖွေပါ
 about-private-browsing-not-private = သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။
-
+about-private-browsing-search-banner-close-button =
+    .aria-label = ပိတ်ရန်

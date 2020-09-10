@@ -5,11 +5,16 @@
 
 ## App Menu
 
+appmenuitem-protection-dashboard-title = အကာအကွယ်ဆိုင်ရာ ဒိုင်ခွက်
 appmenuitem-customize-mode =
     .label = စိတ်ကြိုက်ပြင်ဆင်ရန်…
 
 ## Zoom Controls
 
+appmenuitem-zoom-enlarge =
+    .label = ချဲ့ ကြည့်ရန်
+appmenuitem-zoom-reduce =
+    .label = ချုံ့ကြည့်ရန်
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -18,3 +23,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = ဘာတွေ အသစ် ပါလဲ

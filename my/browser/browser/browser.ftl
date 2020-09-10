@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -87,6 +85,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = အမြဲသိမ်း သိုလှောင် နေရာတွင် သိမ်းမည်
 urlbar-addons-notification-anchor =
     .tooltiptext = အတ်အွန်တပ်ဆင်ခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့ပါ
+urlbar-tip-help-icon =
+    .title = အကူအညီ ယူမည်
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -95,6 +95,7 @@ urlbar-addons-notification-anchor =
 
 
 ## Local search mode indicator labels in the urlbar
+
 
 ##
 
@@ -116,12 +117,10 @@ urlbar-canvas-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် canvas data extraction ကို တားဆီးထားသည်။
 urlbar-midi-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် MIDI အသုံးပြုခြင်းကို တားဆီးထားသည်။
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = စာအမှတ်အားပြင်မည် ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -147,19 +146,24 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = ယခုအကြိမ် ရှာဖွေလိုက်သည်မှာ
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ရှာဖွေရေး အပြင်အဆင်များကို ပြောင်းလဲရန်
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ရှာဖွေမှု အပြင်အဆင်များကို ပြောင်းလဲရန်
-
 search-one-offs-context-open-new-tab =
     .label = တပ်ဗ်အသစ်တွင် ရှာရန်
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = ပုံသေရှာဖွေရေးယန္တရားအဖြစ် သတ်မှတ်ပါ
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = သီးသန့်ဝင်းဒိုးများ၏ ရှာဖွေရေးအင်ဂျင်အဖြစ် သတ်မှတ်ပါ
+    .accesskey = P
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -168,11 +172,11 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-done-button =
     .label = ပြီးပြီ
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -244,19 +248,17 @@ popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မ�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
-
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ဘရောင်ဇာသည် အဝေးရောက်ထိန်းချုပ်မှုအောက်တွင် ရှိနေသည်
 urlbar-switch-to-tab =
     .value = ထိုတပ်ဗ်သို့ ပြောင်းကြည့်မည်
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ထပ်ပေါင်းဆော့ဖ်ဝဲလ်။
-
 urlbar-go-button =
     .tooltiptext = လမ်းကြောင်းအတန်းထဲရှိ လိပ်စာသို့ သွားပါ
 urlbar-page-action-button =

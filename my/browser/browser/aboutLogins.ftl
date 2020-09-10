@@ -167,6 +167,23 @@ about-logins-error-message-default = ဤ စကားဝှက်ကို သ�
 
 ## Login Export Dialog
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV မှတ်တမ်းစာရွက်
+       *[other] CSV ဖိုင်
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = ဝင်ရောက်မှု ဖိုင် တင်သွင်းရန်
+about-logins-import-file-picker-import-button = တင်သွင်း
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV မှတ်တမ်းစာရွက်
+       *[other] CSV ဖိုင်
+    }

@@ -186,6 +186,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = အတ်အွန်များ
     .accesskey = A
+menu-tools-fxa-sign-in =
+    .label = { -brand-product-name } သို့ ဝင်ရန်…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } ကို ဖွင့်ရန်…
+    .accesskey = n
 menu-tools-sync-now =
     .label = ယခုပင် Sync ကို အသုံးပြုပါ
     .accesskey = S
@@ -247,8 +253,7 @@ menu-help-safe-mode-with-addons =
     .label = အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = အတုအယောင်ဝဘ်ဆိုက်ကို သတင်းပို့ပါ…
     .accesskey = d
