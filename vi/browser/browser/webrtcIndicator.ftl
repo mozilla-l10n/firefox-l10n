@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Chỉ số chia sẻ
-
 webrtc-sharing-window = Bạn đang chia sẻ một cửa sổ ứng dụng khác.
 webrtc-sharing-browser-window = Bạn đang chia sẻ { -brand-short-name }.
 webrtc-sharing-screen = Bạn đang chia sẻ toàn bộ màn hình của bạn.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Bạn đang chia sẻ micro. Nhấn vào đây để kiểm soát những gì được chia sẻ.
 webrtc-camera-button =
     .title = Bạn đang chia sẻ camera. Nhấn vào đây để kiểm soát những gì được chia sẻ.
+webrtc-microphone-unmuted =
+    .title = Tắt micrô
+webrtc-microphone-muted =
+    .title = Bật micrô
+webrtc-camera-unmuted =
+    .title = Tắt máy ảnh
+webrtc-camera-muted =
+    .title = Bật máy ảnh
 webrtc-minimize =
     .title = Giảm thiểu chỉ số
