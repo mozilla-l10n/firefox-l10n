@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Որոնել համացանցում
 about-private-browsing-not-private = Այժմ Դուք Գաղտնի դիտարկման էջում չէք։
 about-private-browsing-info-description = { -brand-short-name }֊ը մաքրում է Ձեր որոնման եւ զննարկման պատմութիւնը, երբ դուրս եք գալիս ծրագրից կամ փակում եք անձնական դիտման բոլոր ներդիրներն ու պատուհանները։ Չնայած դա Ձեզ անանուն չի դարձնում կայքէջերի կամ Ձեր համացանցային ծառայութիւններ մատուցողի համար, այն աւելի հեշտացնում է այն, ինչ անում եք առցանց, անհատական պահելով այս համակարգչից աւգտուող ցանկացած այլ անձի կողմից։
-
+about-private-browsing-need-more-privacy = Գաղտնի դիտարկման կարիք ունէ՞ք
+about-private-browsing-turn-on-vpn = Փորձէք { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
