@@ -50,3 +50,4 @@ accessibility-keyboard-issue-tabindex = Patrz, coby niy używać wiynkszego jak 
 accessibility-keyboard-issue-action = Interatywne elymynty musi iść aktywować z tastaturōm. <a>Przewiydz sie wiyncyj</a>
 accessibility-keyboard-issue-focusable = Interaktywne elymynty muszōm dać sie nastawiać. <a>Przewiydz sie wiyncyj</a>
 accessibility-keyboard-issue-focus-visible = Elymynt do nastowanio może chybiać stylu nastowianio. <a>Przewiydz sie wiyncyj</a>
+accessibility-keyboard-issue-mouse-only = Elymynty do klikanio musi iść aktywować i zdo sie, coby miały interaktywno symantyka. <a>Przewiydz sie wiyncyj</a>
