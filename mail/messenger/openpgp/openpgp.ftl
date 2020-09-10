@@ -353,8 +353,33 @@ filter-warn-key-not-secret =
 filter-decrypt-move-label = Na přeco dešifrować (OpenPGP)
 filter-decrypt-copy-label = dešifrowanu kopiju wutworić (OpenPGP)
 filter-encrypt-label = Z klučom zaklučować (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Wuspěch! Kluče su so importowali
+import-info-bits = Bity
+import-info-created = Wutworjeny
 import-info-fpr = Porstowy wotćišć
+import-info-details = Podrobnosće pokazać a klučowu akceptancu rjadować
 import-info-no-keys = Žane kluče importowane.
+# Strings in enigmailKeyManager.js
+import-from-clip = Chceće kluče z mjezyskłada importować?
+import-from-url = Zjawny kluč z tutoho URL sćahnyć:
+copy-to-clipbrd-failed = Wubrane kluče njedadźa so do mjezyskłada kopěrować.
+copy-to-clipbrd-ok = Kluče su so do mjezyskłada kopěrowali
+delete-secret-key =
+    WARNOWANJE: Chceće runje tajny kluč zhašeć!
+    
+    Jeli swój tajny kluč zhašeće, njemóžeće hižo ani powěśce dešifrować, kotrež su so za tón kluč zaklučowali, ani jón wotwołać.
+    
+    Chceće woprawdźe WOBAJ zhašeć, tajny a zjawny kluč
+    ‚{ $userId }‘?
+delete-mix =
+    WARNOWANJE: Chceće runje tajny kluč zhašeć!
+    Jeli swój tajny kluč zhašeće, njemóžeće hižo powěśce dešifrować, kotrež su so za tón kluč zaklučowali.
+    Chceće woprawdźe WOBAJ zhašeć, tajny a zjawny kluč‘?
+delete-pub-key =
+    Chceće zjawny kluč
+    ‚{ $userId }‘ zhašeć?
 general-error = Zmylk: { $reason }
 dlg-button-delete = &Zhašeć
 
