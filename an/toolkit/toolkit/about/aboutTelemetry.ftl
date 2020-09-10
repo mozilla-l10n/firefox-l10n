@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Fuent de datos de ping:
+about-telemetry-show-current-data = Datos actuals
 about-telemetry-show-archived-ping-data = Datos de ping archivaus
 about-telemetry-show-subsession-data = Amostrar datos d'a subsession
 about-telemetry-choose-ping = Trigar ping:
@@ -14,6 +15,7 @@ about-telemetry-option-group-older = Mas antigo
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datos de telemetría
+about-telemetry-current-store = Almagazenamiento actual:
 about-telemetry-more-information = Yes buscando mas información?
 about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">Documentación de Datos de Firefox</a> contién guidas sobre cómo treballar con as nuestras ferramientas de datos.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">Documentación d'o client de telemetría de Firefox</a> contién la definición d'os diferents conceptos, la documentación de l'API y referencias d'os datos.
@@ -86,6 +88,8 @@ about-telemetry-no-search-results-all = No i hai garra resultau en“{ $searchTe
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = No i hai garra dato disponible en “{ $sectionName }” actualment
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = Datos actuals
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = totz
 # button label to copy the histogram
@@ -120,3 +124,9 @@ about-telemetry-category-header = categoría
 about-telemetry-method-header = metodo
 about-telemetry-object-header = obchecto
 about-telemetry-extra-header = extra
+about-telemetry-origin-section = Orichen d'a telemetría
+about-telemetry-origin-origin = orichen
+about-telemetry-origin-count = contar
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Proceso { $process }
