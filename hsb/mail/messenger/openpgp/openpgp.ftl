@@ -426,13 +426,28 @@ keyring-photo = Foto
 user-att-photo = Wužiwarski atribut (JPEG-wobraz)
 # Strings in key.jsm
 already-revoked = Tutón kluč je hižo wotwołany.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Chceće kluč ‚{ $identity }‘ wotwołać.
+    Njemóžeće hižo z tutym klučom signować a hdyž je rozšěrjeny, njemóža druzy hižo z tutym klučom zaklučować. Móžeće hišće kluč wužiwać, zo byšće stare powěsće dešifrować.
+    Chceće pokročować?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Nimaće žadyn kluč (0x{ $keyId }), kotryž tutomu wotwołanskemu certifikatej wotpowěduje!
+    Jeli sće swój kluč zhubił, dyrbiće jón importować (na př. wot klučoweho serwera), prjedy hač wotwołanski certifikat importujeće!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Kluč 0x{ $keyId } je hižo wotwołany.
 key-man-button-revoke-key = Kluč &wotwołać
+openpgp-key-revoke-success = Kluč je so wuspěšnje wotwołał.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importować
 delete-key-title = OpenPGP-kluč zhašeć
 delete-external-key-title = Eksterny GnuPG-kluč wotstronić
 delete-external-key-description = Chceće ID eksterneho GnuPG-kluča wotstronić?
 key-in-use-title = OpenPGP-kluč so tuchwilu wužiwa
+import-key-confirm = Zjawne kluče importować, kotrež su w powěsći zasadźene?
+fail-key-import = Zmylk – importowanje kluča njeje so poradźiło
+file-write-failed = Njeje móžno do dataje { $output } pisać
 # Strings used in trust.jsm
 key-valid-unknown = njeznaty
 key-valid-invalid = njepłaćiwy
@@ -466,3 +481,19 @@ do-import-multiple =
     { $key }
 do-import-one = { $name } ({ $id }) importować?
 cant-import = Zmylk při importowanju zjawneho kluča
+invalid-email = Zmylk - njepłaćiwe e-mejlowe adresy
+dlg-button-view = &Pokazać
+# Strings used in encryption.jsm
+not-required = Zmylk – žane zaklučowanje trěbne
+# Strings used in windows.jsm
+no-photo-available = Žane foto k dispoziciji
+error-photo-path-not-readable = Fotowa šćežka ‚{ $photo }‘ čitajomna njeje
+dlg-button-ok = W p&orjadku
+dlg-button-close = &Začinić
+dlg-button-cancel = &Přetorhnyć
+dlg-no-prompt = Tutón dialog wjace njepokazać.
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Hišće raz spytać
+dlg-button-skip = &Přeskočić
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-zmylk
