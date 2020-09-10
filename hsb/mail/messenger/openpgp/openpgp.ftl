@@ -404,6 +404,13 @@ dlg-button-delete = &Zhašeć
 
 openpgp-export-public-success = <b>Zjawny kluč je so wuspěšnje eksportował!</b>
 openpgp-export-public-fail = <b>Njeje móžno, wubrany zjawny kluč eksportować!</b>
+openpgp-export-secret-success = <b>Tajny kluč je so wuspěšnje eksportował!</b>
+openpgp-export-secret-fail = <b>Njeje móžno, wubrany tajny kluč eksportować!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Kluč { $userId } (klučowy ID { $keyId }) je so wotwołał.
+key-ring-pub-key-expired = Kluč { $userId } (klučowy ID { $keyId }) je spadnył.
+key-ring-key-disabled = Kluč { $userId } (klučowy ID { $keyId }) je znjemóžnjeny; njeda so wužiwać.
+key-ring-key-invalid = Kluč { $userId } (klučowy ID { $keyId }) płaćiwy njeje. Prošu přepruwujće, hač wón je korektny.
 key-ring-key-not-trusted = Kluč { $userId } (klučowy ID { $keyId }) dowěry hódny dosć njeje. Prošu stajće stopjeń dowěry swojeho kluča na „doskónčny“, zo by jón za signowanje wužiwał.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importować
