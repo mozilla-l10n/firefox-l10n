@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Izbriši sezname">
 <!ENTITY deleteItemsCmd.label                           "Izbriši predmete">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Lastnosti">
 <!ENTITY propertiesMenu.accesskey                       "L">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Pošta in novičarske skupine">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Imenik">
-<!ENTITY addressBookCmd.accesskey                       "I">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Išči po naslovih …">
 <!ENTITY searchAddressesCmd.accesskey                   "š">
 <!ENTITY importCmd.label                                "Uvozi …">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "L">
 <!ENTITY abPropertiesContext.label                      "Lastnosti">
 <!ENTITY abPropertiesContext.accesskey                  "L">
+<!ENTITY syncContext.label                              "Sinhroniziraj">
+<!ENTITY syncContext.accesskey                          "h">
 <!ENTITY editContactContext.label                       "Uredi stik">
 <!ENTITY editContactContext.accesskey                   "s">
 <!ENTITY editMailingListContext.label                   "Uredi seznam">
