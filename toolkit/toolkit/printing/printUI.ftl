@@ -57,6 +57,10 @@ printui-primary-button = In
 printui-primary-button-save = Lưu
 printui-cancel-button = Hủy bỏ
 printui-loading = Đang chuẩn bị xem trước
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Xem trước trang in
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

@@ -92,7 +92,7 @@ hf-page-and-total =
 hf-custom =
     .label = Tùy biến…
 print-preview-window =
-    .title = Xem trước bản in
+    .title = Xem trước trang in
 print-title =
     .value = Tiêu đề:
 print-preparing =
@@ -103,7 +103,6 @@ print-window =
     .title = Đang In
 print-complete =
     .value = Đã in xong.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
