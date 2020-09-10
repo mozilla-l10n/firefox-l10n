@@ -25,10 +25,6 @@ cert-error-domain-mismatch = ဝက်ဘ်ဆိုက်များ မှ �
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = ဝက်ဘ်ဆိုက်များ မှ ၎င်းတို့ စစ်မှန်ကြောင်း ကို လုံခြုံရေး လက်မှတ်များဖြင့် သက်သေခံကြသည်။ { -brand-short-name } သည် ဒီဆိုက် ကိုမယုံကြည်ပါ၊ အကြောင်းက ဒီ လက်မှတ်သည် <a data-l10n-name="domain-mismatch-link"> အတွက်သာ တရားဝင်သည်။
-# Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = ဝက်ဘ်ဆိုက်များ မှ ၎င်းတို့ စစ်မှန်ကြောင်း ကို လုံခြုံရေး လက်မှတ်များဖြင့် သက်သေခံကြသည်။ { -brand-short-name } သည် ဒီဆိုက်ကို မယုံကြည်ပါ၊ အကြောင်းက ဒီ လက်မှတ်သည် { $hostname } အတွက် တရားဝင်ပါ၊ { $alt-name } အတွက်သာ တရားဝင်ပါသည်။
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
