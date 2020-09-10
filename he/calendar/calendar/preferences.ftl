@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title-category = קטגוריות
 dateformat-label =
     .value = מבנה תאריך:
     .accesskey = ת
@@ -67,6 +68,9 @@ midnight-label =
     .label = חצות
 noon-label =
     .label = צהרי היום
+location-checkbox =
+    .label = הצגת מיקום
+    .accesskey = מ
 multiweek-legend = תצוגה רב שבועית
 number-of-weeks-label =
     .value = שבועות ברירת מחדל להצגה (כולל שבועות קודמים):
@@ -130,6 +134,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = השתמש בצליל ברירת מחדל
     .accesskey = ב
+reminder-custom-sound-label =
+    .label = שימוש בקובץ השמע הבא
+    .accesskey = ש
 reminder-browse-sound-label =
     .label = עיון…
     .accesskey = ע
