@@ -205,6 +205,8 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Էջանիշեր ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Ներդիներներ ({ $restrict })
 search-one-offs-history =
@@ -328,6 +330,18 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Փնտրէք համացանցում
     .aria-label = Փնտրէք { $name }֊ի միջոցով
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Գրանցէք որոնման դրոյթները
+    .aria-label = Որոնել { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Գրանցէք որոնման դրոյթները
+    .aria-label = Որոնել էջանիշերը
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Դիտարկել հեռակայ կառաւարմամբ
 urlbar-permissions-granted =
