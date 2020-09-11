@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indikator Berbagi
-
 webrtc-sharing-window = Anda membagikan jendela aplikasi lain.
 webrtc-sharing-browser-window = Anda membagikan { -brand-short-name }.
 webrtc-sharing-screen = Anda membagikan seluruh layar Anda.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Mikrofon Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
 webrtc-camera-button =
     .title = Kamera Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-microphone-unmuted =
+    .title = Matikan mikrofon
+webrtc-microphone-muted =
+    .title = Hidupkan mikrofon
+webrtc-camera-unmuted =
+    .title = Matikan kamera
+webrtc-camera-muted =
+    .title = Hidupkan kamera
 webrtc-minimize =
     .title = Minimalkan indikator
