@@ -439,6 +439,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = Kluč 0x{ $keyId } je hižo wotwołany.
 key-man-button-revoke-key = Kluč &wotwołać
 openpgp-key-revoke-success = Kluč je so wuspěšnje wotwołał.
+after-revoke-info =
+    Kluč je so wotwołał.
+    Sćelće mejlku z klučom abo nahrajće kluč na klučowe serwery, zo byšće tutón kluč znowa dźělił, zo bychu druzy wědźeli, zo sće swój kluč wotwołał.
+    Tak ruče kaž softwara, kotruž druzy ludźo wužiwaja, wo wotwołanju zhonja, so waš stary kluč hižo njewužiwa.
+    Jeli nowy kluč za samsnu e-mejlowu adresu wužiwaće a k mejlkam, kotrež sćeleće, nowy zjawny kluč připowěšeće, informacije wo wašim wotwołanym starym kluču so awtomatisce zapřijimaja.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importować
 delete-key-title = OpenPGP-kluč zhašeć
