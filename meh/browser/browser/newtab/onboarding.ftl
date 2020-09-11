@@ -42,6 +42,7 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-welcome-primary-button-label = Kajie'e ke'i
 onboarding-multistage-welcome-secondary-button-label = Kajie´e sesión
 onboarding-multistage-welcome-secondary-button-text = A kumini iin cuenta?
 onboarding-multistage-import-primary-button-label = Kajie´e nasia'a
@@ -51,6 +52,8 @@ onboarding-multistage-import-secondary-button-label = Nkuvi ntañu´u
 onboarding-multistage-theme-header = Sama  <span data-l10n-name="zap">look</span>
 onboarding-multistage-theme-primary-button-label = Chuva´a Tema
 onboarding-multistage-theme-secondary-button-label = Nkuvi ntañu´u
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Ni'i tema ka̱a̱
 onboarding-multistage-theme-label-dark = Teku tun
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow

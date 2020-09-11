@@ -278,6 +278,8 @@ browser-window-minimize-button =
     .tooltiptext = Nasa´a luli
 browser-window-maximize-button =
     .tooltiptext = Sá'á ka'nu
+browser-window-restore-down-button =
+    .tooltiptext = Nate chuve
 browser-window-close-button =
     .tooltiptext = Kasɨ
 
