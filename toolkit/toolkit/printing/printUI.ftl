@@ -47,7 +47,7 @@ printui-headers-footers-checkbox = Cetak kepala dan kaki
 printui-backgrounds-checkbox = Cetak latar
 printui-color-mode-label = Mode warna
 printui-color-mode-color = Warna
-printui-color-mode-bw = Hitam dan putih
+printui-color-mode-bw = Hitam putih
 printui-margins = Margin
 printui-margins-default = Baku
 printui-margins-min = Minimum
@@ -83,5 +83,5 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Skala harus berupa angka antara 10 dan 200
 # Variables
 # $numPages (integer) - Number of pages
-printui-error-invalid-range = Rentang harus berupa angka diantara 1 dan { $numPages }
+printui-error-invalid-range = Rentang harus berupa angka antara 1 dan { $numPages }
 printui-error-invalid-start-overflow = Nomor halaman "dari" harus lebih kecil daripada nomor halaman "ke".
