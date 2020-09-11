@@ -205,8 +205,6 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
-search-one-offs-bookmarks =
-    .tooltiptext = Էջանիշներ { $engineName } ({ $alias })
 search-one-offs-tabs =
     .tooltiptext = Ներդիներներ ({ $restrict })
 search-one-offs-history =
