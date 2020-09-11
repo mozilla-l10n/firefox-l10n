@@ -503,6 +503,7 @@ key-expired = Kluč ‚{ $key }‘ je spadnył
 msg-compose-internal-error = Interny zmylk je nastał.
 keys-to-export = WubjerćeOpenPGP-kluče, kotrež maja so zasadźić
 msg-compose-cannot-save-draft = Zmylk při składowanju naćiska
+save-attachment-header = Dešifrowany přiwěšk składować
 # Strings used in decryption.jsm
 do-import-multiple =
     Slědowace kluče importować?
@@ -517,6 +518,7 @@ not-required = Zmylk – žane zaklučowanje trěbne
 # Strings used in windows.jsm
 no-photo-available = Žane foto k dispoziciji
 error-photo-path-not-readable = Fotowa šćežka ‚{ $photo }‘ čitajomna njeje
+debug-log-title = Zmylkowy protokol OpenPGP
 no-repeat = Tuta zdźělenka njebudźe so hižo pokazać.
 dlg-button-ok = W p&orjadku
 dlg-button-close = &Začinić
