@@ -47,6 +47,7 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Hu’ãmbávo { -brand-short-name } Media Session API mba’e oñeha’ãramohína. Ko API ojepuru oñemomba’ete hag̃ua pe marandu’i jepuru momaranduhára rehegua, tembiaporãva ha mba’ekuaarã iporãva ehechauka hag̃ua peteĩ puruhára ohechaha momaranduhára rembipo ha eguereko hag̃ua marandurenda metadato. Ehecha <a data-l10n-name="bugzilla">bug 1112032</a> eikuaave hag̃ua.
 experimental-features-devtools-color-scheme-simulation =
     .label = Tembipuru mboguatahárape g̃uarã: say aty ñeha’ãha
 experimental-features-devtools-execution-context-selector =
