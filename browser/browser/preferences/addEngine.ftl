@@ -5,7 +5,7 @@
 add-engine-window =
     .title = Tambah Mesin Pencari
     .style = width: 32em;
-add-engine-button = Tambahkan Mesin Ubaisuai
+add-engine-button = Tambahkan Mesin Khusus
 add-engine-name = Nama mesin pencari
 add-engine-alias = Alias
 add-engine-url = URL mesin, gunakan %s sebagai pengganti istilah pencarian
@@ -15,5 +15,5 @@ add-engine-cancel =
 add-engine-ok =
     .label = Tambahkan Mesin
     .accesskey = a
-engine-name-exists = Mesin dengan nama itu sudah ada
-engine-alias-exists = Mesin dengan alias itu sudah ada
+engine-name-exists = Mesin dengan nama tersebut sudah ada
+engine-alias-exists = Mesin dengan alias tersebut sudah ada
