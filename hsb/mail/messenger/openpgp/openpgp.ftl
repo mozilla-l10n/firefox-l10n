@@ -515,12 +515,18 @@ not-required = Zmylk – žane zaklučowanje trěbne
 # Strings used in windows.jsm
 no-photo-available = Žane foto k dispoziciji
 error-photo-path-not-readable = Fotowa šćežka ‚{ $photo }‘ čitajomna njeje
+no-repeat = Tuta zdźělenka njebudźe so hižo pokazać.
 dlg-button-ok = W p&orjadku
 dlg-button-close = &Začinić
 dlg-button-cancel = &Přetorhnyć
 dlg-no-prompt = Tutón dialog wjace njepokazać.
+enig-confirm = OpenPGP-wobkrućenje
+enig-alert = OpenPGP- zdźělenka
+enig-info = OpenPGP-informacije
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Hišće raz spytać
 dlg-button-skip = &Přeskočić
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP-zmylk
+enig-alert-title =
+    .title = OpenPGP- zdźělenka
