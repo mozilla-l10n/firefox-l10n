@@ -71,6 +71,8 @@ onboarding-multistage-theme-primary-button-label = احفظ السمة
 onboarding-multistage-theme-secondary-button-label = ليس الآن
 # System refers to the operating system
 onboarding-multistage-theme-description-automatic = استعمل سمة النظام
+onboarding-multistage-theme-label-light = فاتحة
+onboarding-multistage-theme-label-dark = داكنة
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
