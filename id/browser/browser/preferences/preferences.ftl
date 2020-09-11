@@ -555,6 +555,9 @@ search-restore-default =
 search-remove-engine =
     .label = Hapus
     .accesskey = H
+search-add-engine =
+    .label = Tambah
+    .accesskey = a
 search-find-more-link = Temukan lebih banyak mesin pencari
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
