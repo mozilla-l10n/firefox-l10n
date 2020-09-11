@@ -472,21 +472,36 @@ revoke-cert-failed = Wotwołanski certifikat njeda so wutworić.
 gen-going = Wutworjenje kluča hižo běži!
 keygen-missing-user-name = Njeje žane mjeno za wubrane konto/wubranu identitu podate. Prošu zapodajće hódnotu do pola   „Waše mjeno“ w kontowych nastajenjach.
 expiry-too-short = Waš kluč dyrbi znajmjeńša jedyn dźeń płaćiwy być.
+expiry-too-long = Njemóžeće kluč wutworić, kotryž za wjace hač 100 lět spadnje.
+key-confirm = Zjawny a tajny kluč za ‚{ $id }‘ wutworić?
 key-man-button-generate-key = Kluč wu&tworić
 key-abort = Wutworjenje kluča přetorhnyć?
 key-man-button-generate-key-abort = Wutworjenje k&luča přetorhnyć
 key-man-button-generate-key-continue = Z wu&tworjenjom kluča pokročować
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Zmylk – dešifrowanje njeje so poradźiło
+fix-broken-exchange-msg-failed = Powěsć njeda so reparować.
+attachment-no-match-from-signature = Signaturowa dataja ‚{ $attachment }‘ njeda so přiwěškej přirjadować
+attachment-no-match-to-signature = Přiwěšk ‚{ $attachment }‘ njeda so signaturowej dataji přirjadować
+signature-verified-ok = Signatura za přiwěšk { $attachment } je so wuspěšnje přepruwowała
+signature-verify-failed = Signatura za přiwěšk { $attachment } njeda so přepruwować
+decrypt-ok-no-sig =
+    Warnowanje
+    Dešifrowanje je wuspěšne było, ale signatura njeda so korektnje přepruwować
+msg-ovl-button-cont-anyway = &Najebać toho pokročować
+enig-content-note = *Přiwěški tuteje powěsće njejsu ani signowane ani zaklučowane*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Powěsć pósłać
 msg-compose-details-button-label = Podrobnosće…
 msg-compose-details-button-access-key = P
+send-aborted = Słanje je so přetorhnyło
 key-not-trusted = Nic dosć dowěry za kluč ‚{ $key }‘
 key-not-found = Kluč ‚{ $key }‘ njeje so namakał
 key-revoked = Kluč ‚{ $key }‘ je so wotwołał
 key-expired = Kluč ‚{ $key }‘ je spadnył
 msg-compose-internal-error = Interny zmylk je nastał.
+keys-to-export = WubjerćeOpenPGP-kluče, kotrež maja so zasadźić
+msg-compose-cannot-save-draft = Zmylk při składowanju naćiska
 # Strings used in decryption.jsm
 do-import-multiple =
     Slědowace kluče importować?
