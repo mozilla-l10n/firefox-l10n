@@ -455,6 +455,11 @@ revoke-key-in-use-description = Pokročowanje móžne njeje! Kluč, kotryž je s
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Tuta e-mejlowa adresa ‚{ $keySpec }‘ njeda so klučej we wašim klučowcu přirjadować.
 key-error-key-id-not-found = Konfigurowany klučowy ID ‚{ $keySpec }‘ njeda so we wašim klučowcu namakać.
+key-error-not-accepted-as-personal = Njejsće wobkrućił, zo kluč z ID ‚{ $keySpec }‘ je waš wosobinski kluč.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Funkcija, kotruž sće wubrał, w modusu offline k dispoziciji njeje. Prošu dźiće online a spytajće hišće raz.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Njemóžachmy kluč namakać, kotryž so k podatym pytanskim kriterijam hodźi.
 import-key-confirm = Zjawne kluče importować, kotrež su w powěsći zasadźene?
 fail-key-import = Zmylk – importowanje kluča njeje so poradźiło
 file-write-failed = Njeje móžno do dataje { $output } pisać
