@@ -126,6 +126,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY editMenu.label         "Natee">
 <!ENTITY preferencesCmd2.label       "Kaji">
+<!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY logins.label                           "Da nuu kajie´e sesión ji contraseñas">
 
 <!ENTITY overflowCustomizeToolbar.label       "Sá´á vii barra ka̱a̱...">
