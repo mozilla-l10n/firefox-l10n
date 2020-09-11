@@ -336,12 +336,24 @@ urlbar-placeholder-search-mode-web-2 =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Գրանցէք որոնման դրոյթները
+    .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնել { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Գրանցէք որոնման դրոյթները
+    .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնել էջանիշերը
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Գրանցէք որոնման պայմանները
+    .aria-label = Որոնման պատմութիւն
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Գրանցէք որոնման պայմանները
+    .aria-label = Որոնման ներդիրներ
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Որոնէք { $name }֊ով կամ գրանցէք հասցէն
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Դիտարկել հեռակայ կառաւարմամբ
 urlbar-permissions-granted =
