@@ -7,7 +7,6 @@ page-subtitle =
     Kjo faqe përmban të dhëna teknike që mund të jenë të dobishme kur përpiqeni
     të zgjidhni një problem. Nëse po shihni për përgjigje për pyetje të rëndomta
     rreth { -brand-short-name }-it, shihni te <a data-l10n-name="support-link">sajti ynë i asistencës</a>.
-
 crashes-title = Njoftime Vithisjesh
 crashes-id = ID Njoftimi
 crashes-send-date = Parashtruar më
@@ -81,6 +80,9 @@ show-dir-label =
         [windows] Hape Dosjen
        *[other] Hape Drejtorinë
     }
+environment-variables-title = Ndryshore Mjedisi
+environment-variables-name = Emër
+environment-variables-value = Vlerë
 experimental-features-title = Veçori Eksperimentale
 experimental-features-name = Emër
 experimental-features-value = Vlerë
@@ -125,7 +127,6 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumente
 safe-mode-title = Provoni Mënyrën e Parrezik
 restart-in-safe-mode-label = Riniseni me Shtesat të Çaktivizuara…
-
 clear-startup-cache-title = Provoni spastrimin e fshehtinës së nisjes
 clear-startup-cache-label = Spastroni fshehtinë nisjeje…
 startup-cache-dialog-title = Spastroni fshehtinë nisjeje
@@ -188,7 +189,6 @@ report-crash-for-days =
         [one] Njoftime Vithisjesh për Ditën e Fundit
        *[other] Njoftime Vithisjesh për { $days } Ditët e Fundit
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -196,7 +196,6 @@ crashes-time-minutes =
         [one] { $minutes } minutë më parë
        *[other] { $minutes } minuta më parë
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -204,7 +203,6 @@ crashes-time-hours =
         [one] { $hours } orë më parë
        *[other] { $hours } orë më parë
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -212,7 +210,6 @@ crashes-time-days =
         [one] { $days } ditë më parë
        *[other] { $days } ditë më parë
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -220,7 +217,6 @@ pending-reports =
         [one] Krejt Njoftimet e Vithisjeve (përfshi { $reports } vithisje të panjoftuar që ndodhi brenda intervalit kohor të dhënë)
        *[other] Krejt Njoftimet e Vithisjeve përfshi { $reports } vithisje të panjoftuara që ndodhën brenda intervalit kohor të dhënë)
     }
-
 raw-data-copied = Të dhënat e papërpunuara u kopjuan te e papastra
 text-copied = Teksti u kopjua në të papastër
 
@@ -233,11 +229,9 @@ blocked-mismatched-version = E bllokuar për shkak mospërputhjeje versionesh me
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = E bllokuar për versionin tuaj të përudhësit grafik. Provoni të përditësoni përudhësin tuaj grafik me versionin { $driverVersion } ose më të ri.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametra ClearType
-
 compositing = Hartim
 hardware-h264 = Shkodim Hardware H264
 main-thread-no-omtc = rrjedhë kryesore, jo OMTC
@@ -252,7 +246,6 @@ virtual-monitor-disp = Shfaqje Nën Monitor Virtual
 
 found = U gjet
 missing = Mungon
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Përshkrim
@@ -276,35 +269,28 @@ webgl2-version = Version Përudhësi WebGL 2
 webgl2-driver-extensions = Zgjerime Përudhësi WebGL 2
 webgl2-extensions = Zgjerime WebGL 2
 blocklisted-bug = Vënë në listë të zezë, për shkak problemesh të njohura
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = e meta { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Shtuar në listë bllokimesh për shkak çështjesh të njohura: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Vënë në listë të zezë, kod dështimi { $failureCode }
-
 d3d11layers-crash-guard = Hartues D3D11
 d3d11video-crash-guard = Shkodues Videosh D3D11
 d3d9video-crash-guard = Shkodues Videosh D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Shkodues Videosh WMF VPX
-
 reset-on-next-restart = Gjatë Rinisjes Tjetër Ktheje te Parazgjedhjet
 gpu-process-kill-button = Përfundoje Procesin GPU
 gpu-device-reset = Rikthim i Pajisjes Në Fillimet
 gpu-device-reset-button = Shkakto Rikthim të Pajisjes Në Fillimet
 uses-tiling = Përdor Tjegullzim
 content-uses-tiling = Përdor Tjegullzim (Lëndë)
-
 min-lib-versions = Version minimum i pritshëm
 loaded-lib-versions = Version në përdorim
-
 has-seccomp-bpf = Seccomp-BPF (Filtrim Thirrjesh Sistemi)
 has-seccomp-tsync = Njëkohësim Seccomp Rrjedhe
 has-user-namespaces = Emërhapësira Përdoruesi
@@ -317,18 +303,15 @@ sandbox-proc-type-content = lëndë
 sandbox-proc-type-file = lëndë kartele
 sandbox-proc-type-media-plugin = shtojcë mediash
 sandbox-proc-type-data-decoder = shkodues të dhënash
-
 startup-cache-title = Fshehtinë Nisjeje
 startup-cache-disk-cache-path = Shteg Fshehtine Disku
 startup-cache-ignore-disk-cache = Shpërfill Fshehtinë Disku
 startup-cache-found-disk-cache-on-init = U gjet Fshehtinë Disku në Init
 startup-cache-wrote-to-disk-cache = U shkrua në Fshehtinë Disku
-
 launcher-process-status-0 = E aktivizuar
 launcher-process-status-1 = Çaktivizuar për shkak dështimesh
 launcher-process-status-2 = Çaktivizuar forcërisht
 launcher-process-status-unknown = Gjendje e panjohur
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -341,7 +324,6 @@ multi-process-status-6 = Çaktivizuar për shkak futje teksti të pambuluar
 multi-process-status-7 = Çaktivizuar nga shtesat
 multi-process-status-8 = Çaktivizuar forcërisht
 multi-process-status-unknown = Gjendje e panjohur
-
 async-pan-zoom = Pan/Zoom Asinkron
 apz-none = asnjë
 wheel-enabled = me input nga rrotëz miu
