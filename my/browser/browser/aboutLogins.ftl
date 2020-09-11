@@ -141,16 +141,20 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ဤ ဝင်ရောက်မှု ကို ဖယ်ရှားမှာလား။
 about-logins-confirm-remove-dialog-confirm-button = ဖယ်ရှားပါ
 about-logins-confirm-export-dialog-title = ဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
+about-logins-confirm-export-dialog-confirm-button = ထုတ်ပို့...
 confirm-discard-changes-dialog-title = မသိမ်းရသောသော ပြောင်းလဲမှုများကို ပယ်ဖျက်မှာလား?
 confirm-discard-changes-dialog-message = မသိမ်းဆည်းရသေးသော အပြောင်းအလဲများအားလုံး ပျောက်ဆုံးပါလိမ့်မည်။
 confirm-discard-changes-dialog-confirm-button = ပယ်ဖျက်
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ကျိုးပေါက် ဝဘ်ဆိုက်
+breach-alert-text = ဤ ဝက်ဘ်ဆိုက် တွင် သင်နောက်ဆုံး လော့အင် အသေစိတ် ကို ပြင်ဆင်ပြီးပြီးနောက်ပိုင်း မှ စကားဝှက်များ ပေါက်ကြားခြင်း သို့မဟုတ် အခိုးခံရခြင်း ဖြစ်ပေါ်ခဲ့သည်။ သင့် စကားဝှက် ကို ပြောင်းပြီး သင့် အကောင့်ကို ကာကွယ်ပါ။
 about-logins-breach-alert-date = ဤ ကျိုးပေါက်မှု သည် { DATETIME($date, day: "numeric", month: "long", year: "numeric") } တွင်ဖြစ်ပွားခဲ့သည်
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } သို့ သွားရန်
+about-logins-breach-alert-learn-more-link = ပိုမို လေ့လာရန်
 
 ## Vulnerable Password notification
 
@@ -159,14 +163,26 @@ about-logins-vulnerable-alert-text2 = ဤ စကားဝှက် ကို အ
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } သို့ သွားရန်
+about-logins-vulnerable-alert-learn-more-link = ပိုမို လေ့လာရန်
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = { $loginTitle } အတွက် ဖြည့်သွင်းမှု့ မှာ အသုံးပြုသူအမည် သည် ရှိပြီးသာဖြစ်သည်။ <a data-l10n-name="duplicate-link">ရှိပြီးသား ဖြည့်သွင်းမှု့ ဆီ သွားမလား?</a>
 # This is a generic error message.
 about-logins-error-message-default = ဤ စကားဝှက်ကို သိမ်းရန် ကြိုးစားစဉ်အမှား ဖြစ်ခဲ့သည်။
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = ဝင်ရောက်မှု ဖိုင်များ ထုတ်ပို့ရန်
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = ဝင်ရောက်မှုဖိုင်.csv
+about-logins-export-file-picker-export-button = ထုတ်ပို့ရန်
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
