@@ -27,6 +27,9 @@ experimental-features-web-api-inputmode-description = Ore rekome’ẽ tuichahá
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Pe tekome’ẽ <a data-l10n-name="rel">rel</a> hepykue<code>"preload"</code> mba’epuru <a data-l10n-name="link">&lt;lt;link</a> ne pytyvõta eikotevẽháicha emboguejývo kuatiaroguégui upe mboyve, eikuaávo eipurukuaaha ha hasyve ojokóvo pe ta’ãnga kuatiaroguégui. Emoñe’ẽ <a data-l10n-name="readmore">“Emyenyhẽvo tetepy ndive <code>rel="preload"</code>”</a> térã ehecha <a data-l10n-name="bugzilla">bug 1583604</a> eikuaave hag̃ua.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
