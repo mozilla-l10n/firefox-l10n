@@ -7,13 +7,13 @@
 
 <!ENTITY loadError.label "Ntu nkuvi síne página ya´a">
 <!ENTITY retry.label "Nasá´á tuku">
+<!ENTITY viewCertificate.label "Kune´ya certificado">
 
 <!-- Specific error messages -->
 
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 
 
@@ -24,7 +24,6 @@
 
 
 <!ENTITY malformedURI.pageTitle "URL ntu vatu">
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 
 
@@ -43,6 +42,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+
 
 
 
