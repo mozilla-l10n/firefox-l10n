@@ -1124,7 +1124,7 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = حسنًا، فهمت
     .accesskey = ح
-space-alert-under-5gb-message = مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. اذهب إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
+space-alert-under-5gb-message = مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. انتقل إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
 
 ## Privacy Section - HTTPS-Only
 
