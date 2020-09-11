@@ -455,6 +455,7 @@ key-valid-disabled = znjemóžnjeny
 key-valid-revoked = wotwołany
 key-valid-expired = spadnjeny
 key-trust-untrusted = dowěry njehódny
+key-trust-marginal = marginalny
 key-trust-full = dowěry hódny
 key-trust-ultimate = doskónčny
 key-trust-group = (skupina)
@@ -508,6 +509,7 @@ do-import-multiple =
     { $key }
 do-import-one = { $name } ({ $id }) importować?
 cant-import = Zmylk při importowanju zjawneho kluča
+sig-mismatch = Zmylk - signatura njetrjechi
 invalid-email = Zmylk - njepłaćiwe e-mejlowe adresy
 dlg-button-view = &Pokazać
 # Strings used in encryption.jsm
