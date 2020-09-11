@@ -92,7 +92,7 @@ reader-mode-toggle-shortcut-windows =
 reader-mode-toggle-shortcut-other =
     .key = R
 picture-in-picture-toggle-shortcut =
-    .key = [
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
