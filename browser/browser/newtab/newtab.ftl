@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = رُعاتنا الرسميّون وخصوصيّ
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = تمّ
+newtab-privacy-modal-button-manage = أدِر إعدادات المحتوى المرعيّ
 newtab-privacy-modal-header = خصوصيتك فوق كل شيء.
 newtab-privacy-modal-paragraph-2 = نعرض عليكم محتوى مفحوصًا بحذر من رُعاة مُختارين بعناية، بالإضافة للقصص الآسرة التي نقدّمها. اطمئن <strong>فبياناتك وأنت تتصفّح لا تخرج مطلقًا خارج نسختك من { -brand-product-name }</strong> — إذ لا نحن نراها، ولا رُعاتنا يرونَها.
 newtab-privacy-modal-link = تعرّف على طريقة عمل الخصوصية في الألسنة الجديدة
