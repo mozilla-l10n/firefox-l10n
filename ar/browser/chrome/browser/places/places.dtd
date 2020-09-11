@@ -55,9 +55,8 @@
 <!ENTITY maintenance.accesskey  "ط">
 <!ENTITY maintenance.tooltip    "استورد علاماتك واحفظ نسخًا احتياطية منها">
 
-<!ENTITY backButton.tooltip  "اذهب للخلف">
+<!ENTITY backButton.tooltip  "انتقل للخلف">
 
-<!ENTITY forwardButton.tooltip  "اذهب إلى الأمام">
+<!ENTITY forwardButton.tooltip  "انتقل إلى الأمام">
 
 <!ENTITY detailsPane.selectAnItemText.description "اختر عنصرًا لعرضه وتحرير خصائصه">
-
