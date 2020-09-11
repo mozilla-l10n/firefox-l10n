@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = အကြံပြုထားသော တိုးချဲ့ချက်
+cfr-doorhanger-feature-heading = အကြံပြုထားသော လုပ်ဆောင်နိုင်မှုများ
 cfr-doorhanger-pintab-heading = ဒါကိုစမ်းကြည့်ပါ: Tab ကို Pin လုပ်ပါ
 
 ##
@@ -74,36 +75,63 @@ cfr-doorhanger-pintab-animation-resume = ဆက်လက်ဆောင်ရွ
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = ဘာထူးလဲ
+    .tooltiptext = ဘာထူးလဲ
+cfr-whatsnew-panel-header = ဘာထူးလဲ
+cfr-whatsnew-release-notes-link-text = ထုတ်ပြန်ချက်မှတ်စုများကိုဖတ်ပါ
+cfr-whatsnew-tracking-protect-title = ခြေရာခံများမှသင့်ကိုယ်သင်ကာကွယ်ပါ
+cfr-whatsnew-tracking-blocked-link-text = အစီရင်ခံစာကြည့်ပါ
+cfr-whatsnew-lockwise-backup-title = သင်၏စကားဝှက်များကိုသိမ်းဆည်းပါ
+cfr-whatsnew-lockwise-backup-link-text = အရန်ကူးခြင်းများကိုဖွင့်ပါ
+cfr-whatsnew-lockwise-take-title = သင့်စကားဝှက်ကိုသင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ
+cfr-whatsnew-lockwise-take-link-text = အက်ပ်ကို ရယူပါ
 
 ## Search Bar
 
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = ပိုမိုလေ့လာရန်
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = ပိုမိုလေ့လာရန်
 
 ## Fingerprinter Counter
 
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = လက်ဗွေများ
 
 ## Bookmark Sync
 
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = စကားဝှက်ကိုဘယ်တော့မှမဆုံးရှုံးရ
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = ဒီကိုဖတ်ပါ
+cfr-doorhanger-send-tab-ok-button = Send Tabဖွင့်ပါ
+    .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } စမ်းကြည့်ပါ
+    .accesskey = T
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = ကာကွယ်မှုကိုကြည့်ပါ
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = ပိတ်ပါ
+    .accesskey = C
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = အားလုံးကိုကြည့်ပါ
+    .accesskey = s
 
 ## What’s New Panel Content for Firefox 76
 
@@ -125,6 +153,10 @@ cfr-doorhanger-pintab-animation-resume = ဆက်လက်ဆောင်ရွ
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button = ကောင်းပြီ၊ ရပါပြီ
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = ပိတ်ထားသည်
+    .accesskey = D
 
 ## What's new: Cookies message
 

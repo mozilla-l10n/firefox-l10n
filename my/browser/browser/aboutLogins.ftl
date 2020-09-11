@@ -120,6 +120,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = သိမ်းဆည
 ## Master Password notification
 
 master-password-notification-message = သိမ်းဆည်းထားသည့် လော့အင် နှင့် စကားဝှက်များ ကြည့်ရန် အဓိက စကားဝှက် ကိုရိုက်ထည့်ပါ
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
 
 ## Primary Password notification
 

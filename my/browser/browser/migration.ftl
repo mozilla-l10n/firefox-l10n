@@ -16,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = မည်သည့်အရာကိုမျှ မတင်သွင်းပါနှင့်
     .accesskey = D
@@ -90,6 +96,14 @@ browser-data-cookies-checkbox =
     .label = ကွတ်ကီးများ
 browser-data-cookies-label =
     .value = ကွတ်ကီးများ
+browser-data-formdata-checkbox =
+    .label = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
+browser-data-formdata-label =
+    .value = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = သိမ်းဆည်းအကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
 browser-data-otherdata-checkbox =
     .label = အခြား အချက်အလက်
 browser-data-otherdata-label =

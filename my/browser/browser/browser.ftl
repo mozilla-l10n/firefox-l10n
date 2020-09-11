@@ -290,3 +290,5 @@ urlbar-go-button =
     .tooltiptext = လမ်းကြောင်းအတန်းထဲရှိ လိပ်စာသို့ သွားပါ
 urlbar-page-action-button =
     .tooltiptext = စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name } တွင်သိမ်းပါ
