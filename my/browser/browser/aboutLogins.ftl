@@ -59,6 +59,8 @@ about-logins-login-list-empty-search-description = သင် ရှာလို�
 login-list-item-title-new-login = လော့အင် အသစ်
 login-list-item-subtitle-new-login = သင် ၏ အထောက်အထား လော့အင် ကို ရိုက်သွင်းပါ
 login-list-item-subtitle-missing-username = (အသုံးပြုသူအမည် မရှိ)
+about-logins-list-item-breach-icon =
+    .title = ချိုးဖောက်ခံရသောဝက်ဘ်ဆိုက်
 about-logins-list-item-vulnerable-password-icon =
     .title = အားနည်းသော စကားဝှက်
 
@@ -89,6 +91,7 @@ login-item-password-reveal-checkbox =
     .aria-label = စကားဝှက် ပြ
 login-item-copy-password-button-text = ကူးယူပါ
 login-item-copied-password-button-text = ကူးပြီးပြီ
+login-item-save-changes-button = ပြောင်းလဲမှုများကို သိမ်းပါ
 login-item-save-new-button = သိမ်းရန်
 login-item-cancel-button = ပယ်​ဖျက်ပါ
 login-item-time-changed = နောက်ဆုံးပြုပြင်ခဲ့သည်မှာ : { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
@@ -107,6 +110,12 @@ about-logins-edit-login-os-auth-dialog-message-win = သင်၏ ဝင်ရ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = သိမ်းထားသော ဝင်ရောက်မှု ကိုပြင်ဆင်ရန်
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုထုတ်ဖေါ်ပါ
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုကူးယူပါ
 
 ## Master Password notification
 

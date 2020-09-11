@@ -87,6 +87,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = အတ်အွန်တပ်ဆင်ခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့ပါ
 urlbar-tip-help-icon =
     .title = အကူအညီ ယူမည်
+urlbar-search-tips-confirm = ကောင်းပြီ၊ ရပါပြီ။
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = အကြံပြုချက်။
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -96,6 +102,9 @@ urlbar-tip-help-icon =
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = စာမှတ်များ
+urlbar-search-mode-tabs = တပ်ဗ်များ
+urlbar-search-mode-history = မှတ်တမ်း
 
 ##
 
@@ -134,6 +143,8 @@ page-action-manage-extension =
     .label = ပေါင်းထည့်ကိရိယာကို စီမံရန်…
 page-action-remove-from-urlbar =
     .label = လိပ်စာဘားတန်းမှ ဖယ်ရှားပါ
+page-action-remove-extension =
+    .label = တိုးချဲ့မှု ပယ်ဖျက်ပါ
 
 ## Auto-hide Context Menu
 
@@ -172,6 +183,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = စာမှတ်များ ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = တဗ်များ ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = မှတ်တမ်းများ ({ $restrict })
 
 ## Bookmark Panel
 
@@ -185,6 +202,7 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = ချိတ်ဆက်မှုသည် မလုံခြုံပါ
 identity-connection-internal = ဒီ စာမျက်နှာ { -brand-short-name } သည် လုံခြုံစိတ်ချရသည်။
 identity-connection-file = ဒီစာမျက်နှာကို သင့်ကွန်ပျူတာတွင် သိမ်းထားသည်။
 identity-extension-page = ယခုစာမျက်နှာကို တိုးချဲ့ဆော့ဖ်ဝဲထံမှ ဖွင့်ထားသည်။
@@ -199,6 +217,7 @@ identity-permissions-reload-hint = ပြောင်းလဲထားသည့
 identity-permissions-empty = ယခုဆိုက်တွင် သင့်အတွက် မည်သည့် အထူးခွင့်ပြုချက်များ သက်မှတ်ပေးထားခြင်းမရှိပါ။
 identity-clear-site-data =
     .label = ကွတ်ကီးများနှင့် ဝဘ်ဆိုက် အချက်အလက်အားလုံးကို ရှင်းလင်းပါ…
+identity-ev-owner-label = ထုတ်ပေးသောလက်မှတ် -
 identity-remove-cert-exception =
     .label = ခြွင်းချက်သတ်မှတ်ထားခြင်းမှ ဖယ်ရှားရန်
     .accesskey = R
@@ -227,6 +246,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ချုံ့ပါ
+browser-window-maximize-button =
+    .tooltiptext = ချဲ့ပါ
+browser-window-restore-down-button =
+    .tooltiptext = ပြန်ယူပါ
 browser-window-close-button =
     .tooltiptext = ပိတ်ပါ
 
@@ -242,6 +265,8 @@ popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မ�
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Tab ကိုဆက်လက်ဆောင်ရွက်ပါ
 
 ## DevTools F12 popup
 

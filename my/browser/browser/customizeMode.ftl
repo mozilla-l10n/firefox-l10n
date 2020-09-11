@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = မလုပ်တော့ပါ
 customize-mode-lwthemes-my-themes =
     .value = ကျွန်ုပ်၏ အခင်းအကျင်းများ
+customize-mode-touchbar-cmd =
+    .label = Touch ဘား ကို စိတ်ကြိုက် ပြင်ဆင်ရန်…
