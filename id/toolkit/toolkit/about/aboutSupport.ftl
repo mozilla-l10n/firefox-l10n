@@ -77,6 +77,9 @@ show-dir-label =
         [windows] Buka Folder
        *[other] Buka Direktori
     }
+environment-variables-title = Variabel Lingkungan
+environment-variables-name = Nama
+environment-variables-value = Nilai
 experimental-features-title = Fitur Eksperimental
 experimental-features-name = Nama
 experimental-features-value = Nilai
