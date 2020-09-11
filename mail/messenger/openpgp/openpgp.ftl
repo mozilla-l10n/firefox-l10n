@@ -450,6 +450,11 @@ delete-key-title = OpenPGP-kluč zhašeć
 delete-external-key-title = Eksterny GnuPG-kluč wotstronić
 delete-external-key-description = Chceće ID eksterneho GnuPG-kluča wotstronić?
 key-in-use-title = OpenPGP-kluč so tuchwilu wužiwa
+delete-key-in-use-description = Pokročowanje móžne njeje! Kluč, kotryž je so za zhašenje wubrał, so tuchwilu přez tutu identitu wužiwa. Wubjerće druhi kluč abo njewuběrajće žadyn a spytajće hišće raz.
+revoke-key-in-use-description = Pokročowanje móžne njeje! Kluč, kotryž je so za wotwołanje wubrał, so tuchwilu přez tutu identitu wužiwa. Wubjerće druhi kluč abo njewuběrajće žadyn a spytajće hišće raz.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Tuta e-mejlowa adresa ‚{ $keySpec }‘ njeda so klučej we wašim klučowcu přirjadować.
+key-error-key-id-not-found = Konfigurowany klučowy ID ‚{ $keySpec }‘ njeda so we wašim klučowcu namakać.
 import-key-confirm = Zjawne kluče importować, kotrež su w powěsći zasadźene?
 fail-key-import = Zmylk – importowanje kluča njeje so poradźiło
 file-write-failed = Njeje móžno do dataje { $output } pisać
