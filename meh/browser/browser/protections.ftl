@@ -19,6 +19,7 @@ graph-total-tracker-summary =
     }
 protection-report-webpage-title = Panel de protecciones
 protection-report-page-content-title = Panel de protecciones
+protection-report-settings-link = Tetiñu ke'i privacidad ji seguridad
 protection-report-manage-protections = Tetiñu nuu kei´i
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
