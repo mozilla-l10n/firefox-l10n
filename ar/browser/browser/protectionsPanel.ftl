@@ -33,7 +33,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = حُمّلت كافة ال�
 ##
 
 protections-panel-no-trackers-found = لم تُكتشف في هذه الصفحة أي متعقّبات يعرفها { -brand-short-name }.
-protections-panel-content-blocking-tracking-protection = حجب المحتوى
+protections-panel-content-blocking-tracking-protection = المحتوى الذي يتعقّبك
 protections-panel-content-blocking-socialblock = متعقبات مواقع التواصل الاجتماعي
 protections-panel-content-blocking-cryptominers-label = المُعدّنات المعمّاة
 protections-panel-content-blocking-fingerprinters-label = مسجّلات البصمات
