@@ -524,6 +524,9 @@ key-revoked = Kluč ‚{ $key }‘ je so wotwołał
 key-expired = Kluč ‚{ $key }‘ je spadnył
 msg-compose-internal-error = Interny zmylk je nastał.
 keys-to-export = WubjerćeOpenPGP-kluče, kotrež maja so zasadźić
+msg-compose-partially-encrypted-inlinePGP =
+    Powěsć, na kotruž wotmołwjeće, njezaklučowane a zaklučowane dźěle wobsahowaše. Jeli wotpósłar njemóžeše někotre dźěle powěsće dešifrować, zhubiće snano dowěrliwe informacije, kotrež wotpósłar sam njemóžeše dešifrować.
+    Prošu dźiwajće na to, zo wšón citowany tekst ze swojeje wotmołwy tutomu wotpósłarjej wotstronjeće.
 msg-compose-cannot-save-draft = Zmylk při składowanju naćiska
 save-attachment-header = Dešifrowany přiwěšk składować
 # Strings used in decryption.jsm
