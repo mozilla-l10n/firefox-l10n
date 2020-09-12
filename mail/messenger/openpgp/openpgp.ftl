@@ -528,6 +528,7 @@ msg-compose-partially-encrypted-inlinePGP =
     Powěsć, na kotruž wotmołwjeće, njezaklučowane a zaklučowane dźěle wobsahowaše. Jeli wotpósłar njemóžeše někotre dźěle powěsće dešifrować, zhubiće snano dowěrliwe informacije, kotrež wotpósłar sam njemóžeše dešifrować.
     Prošu dźiwajće na to, zo wšón citowany tekst ze swojeje wotmołwy tutomu wotpósłarjej wotstronjeće.
 msg-compose-cannot-save-draft = Zmylk při składowanju naćiska
+msg-compose-partially-encrypted-short = Hladajće so dźěrawych sensibelnych informacijow - zdźěla zaklučowaneje mejlki.
 save-attachment-header = Dešifrowany přiwěšk składować
 # Strings used in decryption.jsm
 do-import-multiple =
