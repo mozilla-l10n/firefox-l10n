@@ -35,9 +35,11 @@ printui-destination-label = Vendmbërritje
 printui-destination-pdf-label = Ruaje si PDF
 printui-more-settings = Më tepër rregullime
 printui-less-settings = Më pak rregullime
+printui-paper-size-label = Madhësi letre
 # Section title (noun) for the print scaling options
 printui-scale = Shkallë
 printui-scale-fit-to-page = Sa ta nxërë faqja
+printui-scale-fit-to-page-width = Sa e nxë gjerësia e faqes
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Shkallë
 # Section title for miscellaneous print options
@@ -56,6 +58,26 @@ printui-primary-button = Shtype
 printui-primary-button-save = Ruaje
 printui-cancel-button = Anuloje
 printui-loading = Po Përgatitet Paraparje
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Paraparje e Shtypjes
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
@@ -63,3 +85,4 @@ printui-error-invalid-scale = Shkalla duhet të jetë një numër mes 10-ës dhe
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervali duhet të jetë një numër mes 1-shit dhe { $numPages }.
+printui-error-invalid-start-overflow = Numri i faqes “nga” duhet të jetë më i vogël se numri i faqes “deri në”.
