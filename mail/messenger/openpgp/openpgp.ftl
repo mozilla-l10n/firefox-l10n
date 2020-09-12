@@ -468,6 +468,7 @@ not-first-block = Zmylk - prěni OpenPGP-blok blok zjawneho kluča njeje
 import-key-confirm = Zjawne kluče importować, kotrež su w powěsći zasadźene?
 fail-key-import = Zmylk – importowanje kluča njeje so poradźiło
 file-write-failed = Njeje móžno do dataje { $output } pisać
+no-pgp-block = Zmylk - žadyn płaćiwy blok škitanych OpenPGP-datow namakany
 # Strings used in trust.jsm
 key-valid-unknown = njeznaty
 key-valid-invalid = njepłaćiwy
