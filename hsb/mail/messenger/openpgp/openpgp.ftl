@@ -547,12 +547,16 @@ save-attachment-header = Dešifrowany přiwěšk składować
 no-temp-dir =
     Njeje móžno, temporerny zapis namakać, do kotreho da so pisać
     Prošu stajće wokolinowu wariablu TEMP
+possibly-pgp-mime = Powěsć je snano z PGP/MIME zaklučowana abo signowana; wužiwajće funkciju ‚Dešifrować/Přepruwować‘, zo byšće to přepruwował
+cannot-send-sig-because-no-own-key = Tuta powěsć njeda so digitalnje signować, dokelž hišće njejsće zaklučowanje kónc-do kónca za <{ $key }> konfigurował
+cannot-send-enc-because-no-own-key = Tuta powěsć njeda so zaklučowana pósłać, dokelž hišće njejsće zaklučowanje kónc-do kónca za <{ $key }> konfigurował
 # Strings used in decryption.jsm
 do-import-multiple =
     Slědowace kluče importować?
     { $key }
 do-import-one = { $name } ({ $id }) importować?
 cant-import = Zmylk při importowanju zjawneho kluča
+unverified-reply = Zasunjeny powěsćowy dźěl (wotmołwa) je so najskerje změnił
 sig-mismatch = Zmylk - signatura njetrjechi
 invalid-email = Zmylk - njepłaćiwe e-mejlowe adresy
 dlg-button-view = &Pokazać
