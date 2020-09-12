@@ -557,8 +557,12 @@ do-import-multiple =
 do-import-one = { $name } ({ $id }) importować?
 cant-import = Zmylk při importowanju zjawneho kluča
 unverified-reply = Zasunjeny powěsćowy dźěl (wotmołwa) je so najskerje změnił
+key-in-message-body = Kluč je so w ćělesu powěsće namakał. Klikńće na ‚Kluč importować‘, zo byšće kluč importował
 sig-mismatch = Zmylk - signatura njetrjechi
 invalid-email = Zmylk - njepłaćiwe e-mejlowe adresy
+attachment-pgp-key =
+    Zda so, zo přiwěšk ‚{ $name }‘, kotryž wočinjeće, je dataja OpenPGP-kluča.
+    Klikńće na ‚Importować‘, zo byšće wobsahowane kluče importował abo na ‚Pokazać‘, zo byšće wobsah dataje we woknje wobhladowaka pokazał
 dlg-button-view = &Pokazać
 # Strings used in encryption.jsm
 not-required = Zmylk – žane zaklučowanje trěbne
