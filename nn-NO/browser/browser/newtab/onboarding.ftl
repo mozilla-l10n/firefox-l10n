@@ -157,7 +157,7 @@ onboarding-multistage-theme-description-alpenglow =
 
 onboarding-fullpage-welcome-subheader = La oss starte å utforske alt du kan gjere.
 onboarding-fullpage-form-email =
-    .placeholder = Di e-postadresse…
+    .placeholder = E-postadressa di…
 
 ## Firefox Sync modal dialog strings.
 
