@@ -460,6 +460,11 @@ key-error-not-accepted-as-personal = Njejsće wobkrućił, zo kluč z ID ‚{ $k
 need-online = Funkcija, kotruž sće wubrał, w modusu offline k dispoziciji njeje. Prošu dźiće online a spytajće hišće raz.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Njemóžachmy kluč namakać, kotryž so k podatym pytanskim kriterijam hodźi.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Zmylk - přikaz klučoweje ekstrakcije njeje so poradźił
+# Strings used in keyRing.jsm
+fail-cancel = Zmylk - dóstaće kluča je so wot wužiwarja přetorhnył
+not-first-block = Zmylk - prěni OpenPGP-blok blok zjawneho kluča njeje
 import-key-confirm = Zjawne kluče importować, kotrež su w powěsći zasadźene?
 fail-key-import = Zmylk – importowanje kluča njeje so poradźiło
 file-write-failed = Njeje móžno do dataje { $output } pisać
