@@ -548,8 +548,8 @@ no-temp-dir =
     Njeje móžno, temporerny zapis namakać, do kotreho da so pisać
     Prošu stajće wokolinowu wariablu TEMP
 possibly-pgp-mime = Powěsć je snano z PGP/MIME zaklučowana abo signowana; wužiwajće funkciju ‚Dešifrować/Přepruwować‘, zo byšće to přepruwował
-cannot-send-sig-because-no-own-key = Tuta powěsć njeda so digitalnje signować, dokelž hišće njejsće zaklučowanje kónc-do kónca za <{ $key }> konfigurował
-cannot-send-enc-because-no-own-key = Tuta powěsć njeda so zaklučowana pósłać, dokelž hišće njejsće zaklučowanje kónc-do kónca za <{ $key }> konfigurował
+cannot-send-sig-because-no-own-key = Tuta powěsć njeda so digitalnje signować, dokelž hišće njejsće zaklučowanje kónc do kónca za <{ $key }> konfigurował
+cannot-send-enc-because-no-own-key = Tuta powěsć njeda so zaklučowana pósłać, dokelž hišće njejsće zaklučowanje kónc do kónca za <{ $key }> konfigurował
 # Strings used in decryption.jsm
 do-import-multiple =
     Slědowace kluče importować?
@@ -564,6 +564,8 @@ attachment-pgp-key =
     Zda so, zo přiwěšk ‚{ $name }‘, kotryž wočinjeće, je dataja OpenPGP-kluča.
     Klikńće na ‚Importować‘, zo byšće wobsahowane kluče importował abo na ‚Pokazać‘, zo byšće wobsah dataje we woknje wobhladowaka pokazał
 dlg-button-view = &Pokazać
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dešifrowana powěsć (wobnowjeny wobškodźeny e-mejlowy format PGPje so najskerje přez stary serwer Exchange zawinował; přez to njeda so snano wuslědk derje čitać)
 # Strings used in encryption.jsm
 not-required = Zmylk – žane zaklučowanje trěbne
 # Strings used in windows.jsm
