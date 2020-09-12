@@ -43,6 +43,8 @@ serviceworker-worker-start3 = Sztartnij
 serviceworker-worker-updated = Zaktualizowane <time>{ DATETIME($date, month: "numeric", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Zdrzōdło
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = Sztatus
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
