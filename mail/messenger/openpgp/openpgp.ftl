@@ -539,7 +539,14 @@ sending-hidden-rcpt = Přijimarjo schowanych kopijow (BCC) njedadźa so wužiwa�
 sending-news =
     Zaklučowane słanje je so přetorhnyło.
     Tuta powěsć njeda so zaklučować, dokelž přijimarjo diskusijneje skupiny njejsu. Prošu sćelće powěsć znowa bjez zaklučowanja.
+send-to-news-warning =
+    Warnowanje: Chceće zaklučowanu mejlku na diskusijnu skupinu pósłać.
+    Wot toho so wotradźa, dokelž to je jenož zmysłapołne, jeli wšitcy čłonojo skupiny móža powěsć dešifrować, t. r. powěsć dyrbi so z klučemi wšěch wobdźělnikow skupiny zaklučować. Prošu sćelće tutu powěsć jenož, jeli wěsće, štož činiće.
+    Pokročować?
 save-attachment-header = Dešifrowany přiwěšk składować
+no-temp-dir =
+    Njeje móžno, temporerny zapis namakać, do kotreho da so pisać
+    Prošu stajće wokolinowu wariablu TEMP
 # Strings used in decryption.jsm
 do-import-multiple =
     Slědowace kluče importować?
