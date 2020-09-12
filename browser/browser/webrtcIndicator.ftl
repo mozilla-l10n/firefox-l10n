@@ -11,7 +11,6 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Tregues Ndarjeje
-
 webrtc-sharing-window = Po ndani dritare të një aplikacioni tjetër.
 webrtc-sharing-browser-window = Po ndani { -brand-short-name }-in.
 webrtc-sharing-screen = Po ndani krejt ekranin tuaj.
@@ -20,5 +19,13 @@ webrtc-microphone-button =
     .title = Po e ndani mikrofonin tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
 webrtc-camera-button =
     .title = Po e ndani kamerën tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
+webrtc-microphone-unmuted =
+    .title = Mbylleni mikrofonin
+webrtc-microphone-muted =
+    .title = Hapeni mikrofonin
+webrtc-camera-unmuted =
+    .title = Mbylleni kameran
+webrtc-camera-muted =
+    .title = Hapeni kameran
 webrtc-minimize =
     .title = Minimizoje treguesin
