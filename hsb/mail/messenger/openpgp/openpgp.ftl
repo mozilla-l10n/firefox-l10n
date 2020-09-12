@@ -529,6 +529,9 @@ msg-compose-partially-encrypted-inlinePGP =
     Prošu dźiwajće na to, zo wšón citowany tekst ze swojeje wotmołwy tutomu wotpósłarjej wotstronjeće.
 msg-compose-cannot-save-draft = Zmylk při składowanju naćiska
 msg-compose-partially-encrypted-short = Hladajće so dźěrawych sensibelnych informacijow - zdźěla zaklučowaneje mejlki.
+quoted-printable-warn =
+    Sće kodowanje ‚quoted-printable‘ za słanje powěsćow zmóžnił. To móhło k njekorektnemu dešifrowanju a/abo přepruwowanju wašeje powěsće wjesć.
+    Chceće nětko słanje powěsćow w kodowanju ‚quoted-printable‘ znjemóžnić?
 save-attachment-header = Dešifrowany přiwěšk składować
 # Strings used in decryption.jsm
 do-import-multiple =
