@@ -555,11 +555,17 @@ not-required = Zmylk – žane zaklučowanje trěbne
 no-photo-available = Žane foto k dispoziciji
 error-photo-path-not-readable = Fotowa šćežka ‚{ $photo }‘ čitajomna njeje
 debug-log-title = Zmylkowy protokol OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Tuta zdźělenka so hišće { $count }
+repeat-suffix-singular = króć wospjetuje.
+repeat-suffix-plural = króć wospjetuje.
 no-repeat = Tuta zdźělenka njebudźe so hižo pokazać.
+dlg-keep-setting = Moju wotmołwu sej spomjatkować a hižo so njeprašeć
 dlg-button-ok = W p&orjadku
 dlg-button-close = &Začinić
 dlg-button-cancel = &Přetorhnyć
 dlg-no-prompt = Tutón dialog wjace njepokazać.
+enig-prompt = OpenPGP-namołwa
 enig-confirm = OpenPGP-wobkrućenje
 enig-alert = OpenPGP- zdźělenka
 enig-info = OpenPGP-informacije
