@@ -23,11 +23,26 @@ serviceworker-worker-unregister = Ôdregistruj
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Debugguj
-    .title = Idzie debuggować ino serwvice workers, co fungujōm
+    .title = Idzie debuggować ino service workers, co fungujōm
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = Debugguj
-    .title = Idzie debuggować serwice workers, jak multi e10s je zastawiōne
+    .title = Idzie debuggować service workers, ino jak multi e10s je zastawiōne
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Sztartnij
+    .title = Idzie sztartnōnć service workers, ino jak multi e10s je zastawiōne
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Zbadej
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Sztartnij
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = Zaktualizowane <time>{ DATETIME($date, month: "numeric", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = Zdrzōdło
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
