@@ -8,7 +8,8 @@ password-quality-meter = Вымяральнік якасці пароля
 
 change-password-window =
     .title = Змяненне галоўнага пароля
-
+change-device-password-window =
+    .title = Змяніць пароль
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Прылада бяспекі: { $tokenName }
@@ -21,9 +22,13 @@ change-password-reenter = Новы пароль (ізноў):
 reset-password-window =
     .title = Скіданне галоўнага пароля
     .style = width: 40em
+pippki-pw-change-ok = Пароль паспяхова зменены.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Скінуць галоўны пароль
+    .style = width: 40em
 reset-password-button-label =
     .label = Скінуць
 reset-password-text = Калі вы пазбавіцеся вашага галоўнага пароля, усе вашы захаваныя паролі сеціва і э-пошты, даныя формаў, асабістыя пасведчанні і прыватныя ключы згубяцца. Вы сапраўды хочаце скінуць ваш галоўны пароль?
