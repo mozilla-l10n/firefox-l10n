@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Kontowe nastajenja">
@@ -19,7 +17,7 @@
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Wotmołwna adresa:">
 <!ENTITY replyTo.accesskey "d">
-<!ENTITY replyTo.placeholder "Přijimarjo wotmołwja na tutu druhu adresu">
+<!ENTITY replyTo.placeholder "Přijimarjo na tutu druhu adresu wotmołwja">
 <!ENTITY organization.label "Organizacija:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Tekst signatury:">
