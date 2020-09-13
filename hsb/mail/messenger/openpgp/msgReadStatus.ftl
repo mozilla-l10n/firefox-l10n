@@ -24,5 +24,5 @@ openpgp-sig-key-id-with-subkey-id = Klučowy ID signowarja: { $key } (podklučow
 openpgp-enc-key-id = Waš dešifrowanski klučowy ID: { $key }
 openpgp-enc-key-with-subkey-id = Waš dešifrowanski ID signowarja: { $key } (podklučowy ID: { $subkey })
 openpgp-unknown-key-id = Njeznaty kluč
-openpgp-other-enc-additional-key-ids = Mimo toho je so powěsć za wobsedźerjow slědowacych klučow zaklučowała:
+openpgp-other-enc-additional-key-ids = Nimo toho je so powěsć za wobsedźerjow slědowacych klučow zaklučowała:
 openpgp-other-enc-all-key-ids = Powěsć je so za wobsedźerjow slědowacych klučow zaklučowała:
