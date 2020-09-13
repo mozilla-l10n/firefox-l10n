@@ -297,6 +297,27 @@ keyserver-error-server-error = Shërbyesi i kyçeve raportoi një gabim.
 keyserver-error-import-error = S’u arrit të importohej kyçi i shkarkuar.
 keyserver-error-unavailable = Shërbyesi i kyçeve është i pakapshëm
 keyserver-error-security-error = Shërbyesi i kyçeve nuk mbulon hyrje të fshehtëzuar në të.
+keyserver-error-certificate-error = Dëshmia e shërbyesit të kyçeve s’është e vlefshme.
+keyserver-error-unsupported = Shërbyesi i kyçeve nuk mbulohet.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Furnizuesi i email-it tuaj e përpunoi kërkesën tuaj për ngarkim të kyçit tuaj publik te Drejtoria Web e Kyçeve OpenPGP.
+    Ju lutemi, ripohojeni që të plotësohet publikimi i kyçit tuaj publik.
+wkd-message-body-process =
+    Ky është një email i lidhur me përpunimin e automatizuar për të ngarkuar kyçin tuaj publik te Drejtoria Web e Kyçeve OpenPGP.
+    Nuk ju duhet të ndërmerrni ndonjë veprim dorazi në këtë pikë.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    S’u shfshehtëzua dot mesazh me subjektin
+    { $subject }.
+    Doni të riprovohet me një frazëkalim tjetër apo doni të anashkalohet mesazhi?
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritëm i panjohur nënshkrimi (ID: { $id })
+unknown-hash-alg = Hash kriptografik i panjohur (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Kyçi juaj { $desc } do të skadojë për më pak se { $days } ditë.
+    Rekomandojmë që të krijoni një çift të ri kyçesh dhe të formësoni llogaritë përgjegjëse për ta përdorur.
 expiry-open-key-properties = Hap Veti Kyçi
 # Strings filters.jsm
 filter-folder-required = Duhet të përzgjidhni një dosje objektiv.
