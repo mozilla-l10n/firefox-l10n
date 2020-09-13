@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ha ocurrido un error al conectar con { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
-
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL ha sido desactivado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ha recibido un certificado no válido. Contacte con el administrador o dirección de correo electrónico de contacto del servidor y facilíteles la siguiente información:
     
     Su certificado contiene el mismo número de serie que otro certificado emitido por la autoridad de certificación. Obtenga un nuevo certificado que contenga un número de serie único.
-
 ssl-error-export-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión requiere cifrado de grado alto que no está admitido.
 ssl-error-no-cypher-overlap = No se puede comunicar de forma segura con la otra parte: no hay algoritmos de cifrado comunes.
@@ -124,7 +121,7 @@ ssl-error-export-restriction-alert = La otra parte informa que la negociación n
 ssl-error-protocol-version-alert = La otra parte informa de una versión del protocolo incompatible o no admitida.
 ssl-error-insufficient-security-alert = El servidor requiere cifrado más segudo del soportado por el cliente.
 ssl-error-internal-error-alert = La otra parte informa que ha experimentado un error interno.
-ssl-error-user-canceled-alert = El usuario del otro extremo de la conexión ha cancelado el negociación.
+ssl-error-user-canceled-alert = El usuario del otro extremo de la conexión ha cancelado la negociación.
 ssl-error-no-renegotiation-alert = La otra parte no permite renegociar los parámetros de seguridad SSL.
 ssl-error-server-cache-not-configured = El caché del servidor SSL no está configurado ni desactivado en este socket.
 ssl-error-unsupported-extension-alert = El otro extremo de la conexión SSL no admite la extensión hello TLS solicitada.
