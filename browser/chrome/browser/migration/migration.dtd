@@ -12,7 +12,10 @@
 <!ENTITY importFromIE.accesskey         "م">
 <!ENTITY importFromEdge.label           "ميكروسوفت إدج">
 <!ENTITY importFromEdge.accesskey       "ج">
+<!ENTITY importFromEdgeLegacy.label     "ميكروسوفت إدج العتيق">
+<!ENTITY importFromEdgeLegacy.accesskey "ع">
 <!ENTITY importFromEdgeBeta.label       "ميكروسوفت إدج بيتا">
+<!ENTITY importFromEdgeBeta.accesskey   "ت">
 <!ENTITY importFromNothing.label        "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey    "ت">
 <!ENTITY importFromSafari.label         "سافاري">
