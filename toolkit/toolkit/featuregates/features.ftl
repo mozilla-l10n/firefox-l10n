@@ -11,6 +11,16 @@ experimental-features-css-masonry-description = Įjungia eksperimentinio CSS „
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Šis naujas API suteikia žemo lygio palaikymą norint atlikti skaičiavimus ir grafinius atvaizdavimus naudojant <a data-l10n-name="wikipedia">vaizdo procesorių (GPU)</a>, esantį naudotojo įrenginyje ar kompiuteryje. <a data-l10n-name="spec">Specifikacija</a> yra vis dar kuriama. Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla">klaidą 1602129</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+experimental-features-media-avif-description = Su šia funkcija „{ -brand-short-name }“ palaiko AV1 vaizdo failų (AVIF) formatą. Tai yra nejudančio vaizdo failų formatas, išnaudojantis AV1 vaizdo suspaudimo algoritmus, siekiant sumažinti paveikslo dydį. Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla">klaidą 1443863</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Slapukai: SameSite=Lax (numatyta)
