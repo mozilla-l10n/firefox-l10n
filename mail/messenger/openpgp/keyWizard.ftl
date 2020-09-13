@@ -92,7 +92,23 @@ openpgp-import-key-list-amount =
         [few] Thunderbird jo namakał { $count } kluce, kótarež daju se importěrowaś.
        *[other] Thunderbird jo namakał { $count } klucow, kótarež dajo se importěrowaś.
     }
+openpgp-import-key-list-description = Wobkšuśćo, kótare kluce maju waše wósobinske kluce byś. Jano kluce, kótarež sćo sam napórał a kótarež wašu identitu pokazuju, měli ako wósobinske kluce wužywaś. Móžośo toś te nastajenje pózdźe w dialogu klucowych kakosćow změniś.
+openpgp-import-key-list-caption = Kluce, kótarež su ako wósobinske kluce wobkšuśone, se we wótrězku kluc do kluca nalicyju. Druge su w zastojniku klucow k dispoziciji.
+openpgp-passphrase-prompt-title = Gronidłowa fraza trjebna
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Pšosym zapódajśo gronidłowu frazu, aby slědujucy kluc pśewóstajił: { $key }
+openpgp-import-key-button =
+    .label = Wubjeŕśo dataju, kótaraž ma se importěrowaś…
+    .accesskey = u
+import-key-file = Dataju OpenPGP-kluca importěrowaś
+import-key-personal-checkbox =
+    .label = Z toś tym klucom ako z wósobinskim klucom wobchadaś
 gnupg-file = GnuPG-dataje
+import-error-file-size = <b>Zmólka!</b> Dataje, kótarež su wětše ako 5 MB, se njepódpěraju.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Zmólka!</b> Dataja njedajo se importěrowaś. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Zmólka!</b>Kluce njedaju se importěrowaś. { $error }
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Palcowy wótśišć
 openpgp-import-created-label = Napórany
@@ -104,5 +120,6 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Eksterny GnuPG-kluc
+openpgp-external-key-description = Zapódajśo klucowy ID, aby eksterny GnuPG-kluc konfigurěrował
 openpgp-external-key-input =
     .placeholder = 123456789341298340
