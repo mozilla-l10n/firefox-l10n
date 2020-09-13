@@ -5,4 +5,7 @@
 add-engine-window =
     .title = Dodaj tražilicu
     .style = width: 32em;
+add-engine-button = Dodaj drugu tražilicu
 add-engine-name = Naziv tražilice
+add-engine-alias = Pseudonim
+add-engine-url = URL tražilice, koristi %s umjesto pojma za pretraživanje
