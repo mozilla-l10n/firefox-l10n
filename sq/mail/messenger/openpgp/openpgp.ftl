@@ -417,6 +417,17 @@ delete-key-title = Fshi Kyç OpenPGP
 delete-external-key-title = Hiq Kyçin e jashtëm GnuPG
 delete-external-key-description = Doni të hiqet kjo ID kyçi të  Jashtëm GnuPG?
 key-in-use-title = Kyç OpenPGP aktualisht në përdorim
+delete-key-in-use-description = S’arrihet të bëhet! Kyçi që përzgjodhët për fshirje është aktualisht në përdorim nga ky identitet. Përzgjidhni një kyç tjetër, ose mos përzgjidhni ndonjë, dhe riprovoni.
+revoke-key-in-use-description = S’arrihet të bëhet! Kyçi që përzgjodhët për shfuqizim është aktualisht në përdorim nga ky identitet. Përzgjidhni një kyç tjetër, ose mos përzgjidhni ndonjë, dhe riprovoni.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Për adresën email '{ $keySpec }' s’gjendet dot përputhje me ndonjë kyç në vargun tuaj të kyçeve.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Gabim - urdhri për përftim kyçi dështoi
+# Strings used in keyRing.jsm
+fail-cancel = Gabim - Marrja e kyçit u anulua nga përdoruesi
+not-first-block = Gabim - Blloku i parë OpenPGP s’është bllok kyçi publik
+fail-key-import = Gabim - Importimi i kyçit dështoi
+file-write-failed = S’u arrit të shkruhet te kartelë { $output }
 # Strings used in trust.jsm
 key-valid-unknown = i panjohur
 key-valid-invalid = i pavlefshëm
@@ -431,11 +442,28 @@ key-trust-group = (grup)
 gnupg-file = Kartela GnuPG
 import-keys-failed = Importimi i kyçeve dështoi
 passphrase-prompt = Ju lutemi, jepni frazëkalimin që shkyç kyçin vijues: { $key }
+revoke-cert-failed = Dëshmia e shfuqizimit s’u krijua dot.
+gen-going = Prodhim kyçesh tashmë në kryerje e sipër!
 key-abort = Të ndërpritet prodhimi i kyçit?
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Gabim - shfshehtëzimi dështoi
+fix-broken-exchange-msg-failed = S’pat sukses në riparimin e mesazhit.
 msg-compose-details-button-label = Hollësi…
 msg-compose-details-button-access-key = H
 msg-compose-internal-error = Ndodhi një gabim i brendshëm.
 msg-compose-cannot-save-draft = Gabim teksa ruhej skicë
+save-attachment-header = Ruaje bashkëngjitjen e shfshehtëzuar
+# Strings used in decryption.jsm
+do-import-multiple =
+    Të importohen kyçet vijues?
+    { $key }
+do-import-one = Të importohet { $name } ({ $id })?
+cant-import = Gabim në importim kyçi publik
+sig-mismatch = Gabim - Mospërputhje nënshkrimesh
+invalid-email = Gabim - adresë(a) email e pavlefshme
+debug-log-title = Regjistër Diagnostikimi OpenPGP-je
+# Strings used in dialog.jsm
+repeat-prefix = Ky sinjalizim do të përsëritet { $count }
 # Strings used in enigmailCommon.js
 enig-error = Gabim OpenPGP
 enig-alert-title =
