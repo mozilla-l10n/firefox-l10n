@@ -16,22 +16,22 @@
 serviceworker-list-header = Service Workers
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
-serviceworker-list-aboutdebugging = Ôdewrzij <a>about:debugging</a> do Service Workers z inkszych dōmyn
+serviceworker-list-aboutdebugging = Ôdewrzij <a>about:debugging</a>, coby pokozać service workerōw z inkszych dōmyn
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Ôdregistruj
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Debugguj
-    .title = Idzie debuggować ino service workers, co fungujōm
+    .title = Idzie debuggować ino service workerōw, co fungujōm
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = Debugguj
-    .title = Idzie debuggować service workers, ino jak multi e10s je zastawiōne
+    .title = Idzie debuggować service workerōw, ino jak multi e10s je zastawiōne
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Sztartnij
-    .title = Idzie sztartnōnć service workers, ino jak multi e10s je zastawiōne
+    .title = Idzie sztartnōnć service workerōw, ino jak multi e10s je zastawiōne
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Zbadej
@@ -54,3 +54,22 @@ serviceworker-worker-status = Sztatus
 serviceworker-worker-status-running = Robi
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Sztopniynty
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Coby pokozać sam service workera, trza go piyrw zaregistrować. <a>Przewiydz sie wiyncyj</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Jak aktualno strōna winna mieć service workera, tukej znojdziesz dorady, czego idzie sprōbować
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Badnij za felerami w kōnsoli. <a>Ôdewrzij kōnsola</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Przejrzij krok po kroku registracyjo tego serwice workera i poszukej za wyjōntkami. <a>Ôdewrzij debuggra</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Badnij na service workery z inkszych dōmyn. <a>Ôdewrzij about:dobugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Żodne service workery niy sōm znodniynte
+# Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro-link = Przewiydz sie wiyncyj
