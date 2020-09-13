@@ -386,6 +386,9 @@ export-secret-key = Doni të përfshihet te kartela e ruajtur për kyçin OpenPG
 save-keys-ok = Kyçet u ruajtën me sukses
 save-keys-failed = Ruajtja e kyçeve dështoi
 default-pub-key-filename = Kyçe-publikë-të-eksportuar
+default-pub-sec-key-filename = Kopjeruajtje-kyçesh-të-fshehtë
+refresh-key-warn = Kujdes: rifreskimi i krejt kyçeve mund të jetë një proces goxha i gjatë, varet nga numri i kyçeve dhe shpejtësia e lidhjes!
+preview-failed = S’lexohet dot kartelë kyçi publik.
 general-error = Gabim: { $reason }
 dlg-button-delete = &Fshije
 
@@ -395,6 +398,25 @@ openpgp-export-public-success = <b>Kyçi Publik u eksportua me sukses!</b>
 openpgp-export-public-fail = <b>S’arrihet të eksportohet kyçi publik i përzgjedhur!</b>
 openpgp-export-secret-success = <b>Kyçi i Dshehtë u eksportua me sukses!</b>
 openpgp-export-secret-fail = <b>S’arrihet të eksportohet kyçi i fshehtë i përzgjedhur!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Kyçi { $userId } (ID kyçi { $keyId }) është i shfuqizuar.
+key-ring-pub-key-expired = Kyçi { $userId } (ID kyçi { $keyId }) ka skaduar.
+key-ring-key-disabled = Kyçi { $userId } (ID kyçi { $keyId }) është i çaktivizuar, s’mund të përdoret.
+key-ring-key-invalid = Kyçi { $userId } (ID kyçi { $keyId }) s’është i vlefshëm. Ju lutemi, shihni mundësinë e verifikimit saktë të tij.
+key-ring-key-not-trusted = Kyçi { $userId } (ID kyçi { $keyId }) s’është i besuar në shkallë të mjaftueshme. Ju lutemi, për ta përdorur për nënshkrime, caktojeni shkallën e besimit të kyçit tuaj si “përgjithnjë”.
+key-ring-no-secret-key = S’duket se keni kyçin e fshehtë për { $userId } (ID kyçi { $keyId }) në vargun tuaj të kyçeve; kyçin s’mund ta përdorni për nënshkrime.
+key-ring-pub-key-not-for-signing = Kyçi { $userId } (ID kyçi { $keyId }) s’mund të përdoret për nënshkrime.
+key-ring-pub-key-not-for-encryption = Kyçi { $userId } (ID kyçi { $keyId }) s’mund të përdoret për fshehtëzim.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Atribut përdoruesi (figurë JPEG)
+# Strings in key.jsm
+already-revoked = Ky kyç është shfuqizuar tashmë.
+openpgp-key-revoke-success = Kyçi u shfuqizua me sukses.
+delete-key-title = Fshi Kyç OpenPGP
+delete-external-key-title = Hiq Kyçin e jashtëm GnuPG
+delete-external-key-description = Doni të hiqet kjo ID kyçi të  Jashtëm GnuPG?
+key-in-use-title = Kyç OpenPGP aktualisht në përdorim
 # Strings used in trust.jsm
 key-valid-unknown = i panjohur
 key-valid-invalid = i pavlefshëm
