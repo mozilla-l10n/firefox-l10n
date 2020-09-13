@@ -355,6 +355,28 @@ import-info-no-keys = S’u importuan kyçe.
 # Strings in enigmailKeyManager.js
 import-from-clip = Doni të importohen ndonjë kyç(e) nga e papastra?
 import-from-url = Shkarko kyç publik prej kësaj URL-je:
+copy-to-clipbrd-failed = S’u kopjua dot në të papastër kyçi(et) i përzgjedhur.
+copy-to-clipbrd-ok = Kyçi(et) u kopjua në të papastër
+delete-secret-key =
+    KUJDES: Ju ndan një hap nga fshirja e një kyçi të fshehtë!
+    
+    Nëse fshini kyçin tuaj të fshehtë, s’do të jeni më në gjendje të shfshehtëzoni çfarëdo mesazhi të fshehtëzuar për atë kyç, as do të jeni në gjendje ta shfuqizoni atë.
+    
+    Do you really want to delete BOTH, the secret key and the public key
+    '{ $userId }'?
+delete-mix =
+    KUJDES: Ju ndan një hap nga fshirja e kyçesh të fshehtë!
+    
+    Nëse fshini kyçin tuaj të fshehtë, s’do të jeni më në gjendje të shfshehtëzoni çfarëdo mesazhi të fshehtëzuar për atë kyç.
+    Doni vërtet të fshihen QË TË DY PALËT, kyçet e fshehtë dhe publikë të përzgjedhur?
+delete-pub-key =
+    Doni të fshihet kyçi publik
+    '{ $userId }'?
+delete-selected-pub-key = Doni të fshihen kyçet publikë?
+refresh-all-question = S’përzgjodhët ndonjë kyç. Do të donit të rifreskohen KREJT kyçet?
+key-man-button-export-sec-key = Eksporto Kyçe të &Fshehtë
+key-man-button-export-pub-key = Eksporto Vetëm Kyçe &Publikë
+key-man-button-refresh-all = &Rifresko Krejt Kyçet
 general-error = Gabim: { $reason }
 dlg-button-delete = &Fshije
 
