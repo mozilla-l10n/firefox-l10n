@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazione anonima)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigazione anonima)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigazione anonima)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigazione anonima)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -141,12 +139,10 @@ urlbar-midi-blocked =
     .tooltiptext = È stato bloccato l’accesso alle funzioni MIDI per questo sito web.
 urlbar-install-blocked =
     .tooltiptext = È stata bloccata l’installazione di componenti aggiuntivi per questo sito.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifica questo segnalibro ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -177,14 +173,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Adesso cerca con:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Impostazioni ricerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Modifica le impostazioni di ricerca
-
 search-one-offs-context-open-new-tab =
     .label = Cerca in una nuova scheda
     .accesskey = n
@@ -194,7 +188,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Imposta come motore di ricerca predefinito in finestre anonime
     .accesskey = a
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -221,10 +214,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Visualizza editor quando si salva
     .accesskey = V
-
 bookmark-panel-done-button =
     .label = Fatto
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -298,15 +289,12 @@ popup-select-microphone =
     .value = Microfono da condividere:
     .accesskey = M
 popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
-
 popup-screen-sharing-not-now =
     .label = Non adesso
     .accesskey = a
-
 popup-screen-sharing-never =
     .label = Mai
     .accesskey = M
-
 popup-silence-notifications-checkbox = Disattiva notifiche di { -brand-short-name } durante la condivisione
 popup-silence-notifications-checkbox-warning = { -brand-short-name } non visualizzerà notifiche durante la condivisione.
 
@@ -323,24 +311,20 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Inserisci un indirizzo o avvia una ricerca
-
 urlbar-placeholder =
     .placeholder = Inserisci un indirizzo o avvia una ricerca
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-  .placeholder = Cerca sul Web
-  .aria-label = Cerca con { $name }
-
+    .placeholder = Cerca sul Web
+    .aria-label = Cerca con { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -349,40 +333,50 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca in { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nei segnalibri
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nella cronologia
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nelle schede
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-  .placeholder = Cerca con { $name } o inserisci un indirizzo
+    .placeholder = Cerca con { $name } o inserisci un indirizzo
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Il browser è attualmente controllato da remoto
 urlbar-permissions-granted =
     .tooltiptext = Sono stati concessi permessi aggiuntivi a questo sito web.
 urlbar-switch-to-tab =
     .value = Passa alla scheda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensione:
-
 urlbar-go-button =
     .tooltiptext = Vai all’URL inserito nella barra degli indirizzi
 urlbar-page-action-button =
     .tooltiptext = Azioni per questa pagina
 urlbar-pocket-button =
     .tooltiptext = Salva in { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> è ora visualizzato a schermo intero
+fullscreen-warning-no-domain = Questo documento è ora visualizzato a schermo intero
+fullscreen-exit-button = Esci da schermo intero (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Esci da schermo intero (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.
+pointerlock-warning-no-domain = Questo documento sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.
