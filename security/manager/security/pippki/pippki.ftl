@@ -8,7 +8,8 @@ password-quality-meter = Slaptažodžio kokybės matavimas
 
 change-password-window =
     .title = Pagrindinio slaptažodžio pakeitimas
-
+change-device-password-window =
+    .title = Keisti slaptažodį
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Saugumo priemonė: { $tokenName }
@@ -21,6 +22,10 @@ change-password-reenter = Naujas slaptažodis (pakartoti):
 reset-password-window =
     .title = Pagrindinio slaptažodžio atšaukimas
     .style = width: 40em
+pippki-failed-pw-change = Nepavyko pakeisti slaptažodžio.
+pippki-incorrect-pw = Neteisingai surinkote dabartinį slaptažodį. Bandykite dar kartą.
+pippki-pw-change-ok = Slaptažodis sėkmingai pakeistas.
+pippki-pw-empty-warning = Jūsų įrašyti slaptažodžiai ir privatūs raktai nebus apsaugoti.
 
 ## Reset Primary Password dialog
 
