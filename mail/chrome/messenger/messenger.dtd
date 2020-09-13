@@ -719,11 +719,10 @@
 <!ENTITY locationColumn.label "Pasta">
 <!ENTITY idColumn.label "Ordem de chegada">
 <!ENTITY attachmentColumn.label "Anexos">
-
 <!ENTITY deleteColumn.label "Excluir">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Selecionar colunas a ser exibidas">
+<!ENTITY columnChooser2.tooltip "Selecionar colunas a exibir">
 <!ENTITY selectColumn.tooltip "Alternar seleção de todas as mensagens">
 <!ENTITY threadColumn2.tooltip "Exibir tópicos de mensagens">
 <!ENTITY fromColumn2.tooltip "Ordenar por remetente">
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Ordenar por localização">
 <!ENTITY idColumn2.tooltip "Ordenar por ordem de chegada">
 <!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">
-
 <!ENTITY deleteColumn.tooltip "Excluir uma mensagem">
 
 <!-- Thread Pane Context Menu -->
