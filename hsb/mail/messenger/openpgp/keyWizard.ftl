@@ -106,7 +106,7 @@ import-key-personal-checkbox =
 gnupg-file = GnuPG-dataje
 import-error-file-size = <b>Zmylk!</b> Dataje, kotrež su wjetše hač 5 MB, so njepodpěruja.
 #   $error (String) - the reported error from the failed key import method
-import-error-failed = <b>Zmylk!</b> Dadaja njeda so importować. { $error }
+import-error-failed = <b>Zmylk!</b> Dataja njeda so importować. { $error }
 #   $error (String) - the reported error from the failed key import method
 openpgp-import-keys-failed = <b>Zmylk!</b>Kluče njedachu so importować. { $error }
 openpgp-import-identity-label = Identita
