@@ -54,10 +54,13 @@ experimental-features-media-session-api =
 experimental-features-media-session-api-description = ขณะนี้การใช้งาน Media Session API ของ { -brand-short-name } ทั้งหมดอยู่ระหว่างการทดลอง API นี้ใช้เพื่อปรับแต่งการจัดการการแจ้งเตือนที่เกี่ยวกับสื่อ เพื่อจัดการเหตุการณ์และข้อมูลที่เป็นประโยชน์สำหรับการนำเสนออินเทอร์เฟซผู้ใช้สำหรับจัดการการเล่นสื่อ และการรับข้อมูลเมตาของไฟล์สื่อ ดู <a data-l10n-name="bugzilla">bug 1112032</a> สำหรับรายละเอียดเพิ่มเติม
 experimental-features-devtools-color-scheme-simulation =
     .label = เครื่องมือนักพัฒนา: การจำลองแบบแผนสี
+experimental-features-devtools-color-scheme-simulation-description = เพิ่มตัวเลือกในการจำลองแบบแผนสีที่แตกต่างกันเพื่อให้คุณสามารถทดสอบการสอบถามสื่อ <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> ได้ การใช้การสอบถามสื่อนี้ช่วยให้สไตล์ชีตของคุณตอบสนองว่าผู้ใช้ชอบอินเทอร์เฟซผู้ใช้สีสว่างหรือสีเข้มได้ คุณลักษณะนี้ช่วยให้คุณสามารถทดสอบโค้ดของคุณได้โดยไม่ต้องเปลี่ยนการตั้งค่าในเบราว์เซอร์ (หรือระบบปฏิบัติการ หากเบราว์เซอร์ใช้การตั้งค่าโทนสีตามทั้งระบบ) ดู <a data-l10n-name="bugzilla1">bug 1550804</a> และ <a data-l10n-name="bugzilla2">bug 1137699</a> สำหรับรายละเอียดเพิ่มเติม
 experimental-features-devtools-execution-context-selector =
     .label = เครื่องมือนักพัฒนา: ตัวเลือกบริบทการดำเนินการ
+experimental-features-devtools-execution-context-selector-description = คุณลักษณะนี้จะแสดงปุ่มบนบรรทัดคำสั่งของคอนโซลที่ให้คุณเปลี่ยนบริบทที่จะเรียกใช้นิพจน์ที่คุณป้อนได้ ดู <a data-l10n-name="bugzilla1">bug 1605154</a> และ <a data-l10n-name="bugzilla2">bug 1605153</a> สำหรับรายละเอียดเพิ่มเติม
 experimental-features-devtools-compatibility-panel =
     .label = เครื่องมือนักพัฒนา: แผงความเข้ากันได้
+experimental-features-devtools-compatibility-panel-description = แผงด้านข้างสำหรับ “ตัวตรวจสอบเพจ” ที่จะแสดงข้อมูลที่ระบุรายละเอียดเกี่ยวกับสถานะความเข้ากันได้ข้ามเบราว์เซอร์ของแอปของคุณ ดู <a data-l10n-name="bugzilla">bug 1584464</a> สำหรับรายละเอียดเพิ่มเติม
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = คุกกี้: SameSite=Lax ตามค่าเริ่มต้น
