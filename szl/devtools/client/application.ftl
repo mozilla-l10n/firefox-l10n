@@ -73,3 +73,72 @@ serviceworker-empty-suggestions-aboutdebugging = Badnij na service workery z ink
 serviceworker-empty-intro2 = Żodne service workery niy sōm znodniynte
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Przewiydz sie wiyncyj
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Jak aktualno strōna winna mieć service workera, możesz poszukać ze felerami we <a>kōnsoli</a> abo przejrzeć krok po kroku registracyjo tego service workera w <span>dubuggrze</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Ôbocz service workery z inkszych dōmyn
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Manifest aplikacyje
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Trza sam przidać manifest aplikacyje, coby na niego badnōnć. <a>Przewiydz sie wiyncyj</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Żodyn manifest aplikacyje niy ma znodniynty
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Przewiydz sie, jak idzie przidać manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Felery i upozorniynia
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Tōżsamość
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Prezyntacyjo
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikōny
+# Text displayed while we are loading the manifest file
+manifest-loading = Ladowanie manifestu…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest je zaladowany.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Przi ladowaniu manifestu pokozoł sie feler:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Feler we Firefox DevTools
+# Text displayed when the page has no manifest available
+manifest-non-existing = Niy bōł znodniynty żodyn manifest do badniyńcio.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest je wrażōny we Data-URL.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Cyl: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Ikōna
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Ikōna ze srogościōm: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Ikōna z niyôbkryślōnōm srogościōm
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Ikōna manifestu
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service workery
+    .alt = Ikona service workera
+    .title = Service workery
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ikōna upozorniynio
+    .title = Upozorniynie
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ikōna felera
+    .title = Feler
