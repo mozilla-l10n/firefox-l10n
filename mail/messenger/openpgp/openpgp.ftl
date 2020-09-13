@@ -377,6 +377,15 @@ refresh-all-question = S’përzgjodhët ndonjë kyç. Do të donit të rifresko
 key-man-button-export-sec-key = Eksporto Kyçe të &Fshehtë
 key-man-button-export-pub-key = Eksporto Vetëm Kyçe &Publikë
 key-man-button-refresh-all = &Rifresko Krejt Kyçet
+key-man-loading-keys = Po ngarkohen kyçe, ju lutemi, prisni…
+ascii-armor-file = Kartela ASCII të Blinduara (*.asc)
+no-key-selected = Që të mund të kryhet veprimi i përzgjedhur, duhet të përzgjidhni të paktën një kyç
+export-to-file = Eksporto Kyç Publik Në Kartelë
+export-keypair-to-file = Eksporto Kyç të Fshehtë dhe Publik Në Kartelë
+export-secret-key = Doni të përfshihet te kartela e ruajtur për kyçin OpenPGP kyçi i fshehtë?
+save-keys-ok = Kyçet u ruajtën me sukses
+save-keys-failed = Ruajtja e kyçeve dështoi
+default-pub-key-filename = Kyçe-publikë-të-eksportuar
 general-error = Gabim: { $reason }
 dlg-button-delete = &Fshije
 
