@@ -80,6 +80,9 @@ openpgp-key-confirm = Zjawny a pótajmny kluc za { $identity } napóraś?
 
 ## Import Key section
 
+openpgp-import-key-title = Eksistěrujucy wósobinski OpenPGP-kluc importěrowaś
+openpgp-import-key-legend = Wubjeŕśo do togo zawěsćonu dataju.
+openpgp-import-key-description = Móžośo wósobinske kluce importěrowaś, kótarež su se napórali z drugeju OpenPGP-softwaru.
 gnupg-file = GnuPG-dataje
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Palcowy wótśišć
