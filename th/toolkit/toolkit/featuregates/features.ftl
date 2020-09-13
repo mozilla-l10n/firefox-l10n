@@ -56,8 +56,18 @@ experimental-features-cookie-samesite-none-requires-secure2 =
 experimental-features-abouthome-startup-cache =
     .label = แคชเมื่อเริ่มการทำงานของ about:home
 experimental-features-abouthome-startup-cache-description = แคชสำหรับเอกสาร about:home เริ่มต้นที่จะถูกโหลดตามค่าเริ่มต้นเมื่อเริ่มการทำงาน วัตถุประสงค์ของแคชคือเพื่อปรับปรุงประสิทธิภาพการเริ่มการทำงาน
+experimental-features-print-preview-tab-modal =
+    .label = การออกแบบตัวอย่างก่อนพิมพ์ใหม่
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = คุกกี้: Schemeful SameSite
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = เครื่องมือนักพัฒนา: การดีบั๊ก Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = เปิดใช้งานการสนับสนุนแบบทดลองสำหรับ Service Worker ในแผง "ตัวดีบั๊ก" คุณลักษณะนี้อาจทำให้เครื่องมือนักพัฒนาทำงานช้าลงและเพิ่มการใช้หน่วยความจำ
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = กราฟิก: การซูมโดยการหุบ/กางนิ้วแบบลื่นไหล
+experimental-features-graphics-desktop-zooming-description = เปิดใช้งานการรองรับการซูมโดยการหุบ/กางนิ้วแบบลื่นไหลบนหน้าจอสัมผัสและแผงสัมผัสที่แม่นยำ
