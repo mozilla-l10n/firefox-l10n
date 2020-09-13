@@ -13,6 +13,12 @@ key-wizard-learn-more = Dalšne informacije
 radio-create-key =
     .label = Nowy OpenPGP-kluc napóraś
     .accesskey = N
+radio-import-key =
+    .label = Eksistěrujucy OpenPGP-kluc importěrowaś
+    .accesskey = E
+radio-gnupg-key =
+    .label = Wužywajśo swój eksterny kluc pśez GnuPG (na pś. ze smartkórty)
+    .accesskey = G
 
 ## Generate key section
 
