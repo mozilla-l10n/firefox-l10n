@@ -20,11 +20,11 @@
 
 <!ENTITY dnsNotFound.pageTitle "Impossible de trobar lo servidor">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>S’aquesta adreça es corrècta, vaquí tres mai causas que podètz ensajar :</strong>
+<strong>S’aquesta adreça es corrècta, vaquí tres causas de mai que podètz ensajar :</strong>
 <ul>
   <li>Tornar ensajar mai tard.</li>
   <li>Verificar vòstra connexion al ret.</li>
-  <li>Se sètz connectat amb un talha-fòc, verificatz que &brandShortName; as la permission d’accedir al Web.</li>
+  <li>Se sètz connectat amb un talha-fòc, verificatz que &brandShortName; a la permission d’accedir al Web.</li>
 </ul>
 ">
 
