@@ -83,6 +83,15 @@ openpgp-key-confirm = Zjawny a pótajmny kluc za { $identity } napóraś?
 openpgp-import-key-title = Eksistěrujucy wósobinski OpenPGP-kluc importěrowaś
 openpgp-import-key-legend = Wubjeŕśo do togo zawěsćonu dataju.
 openpgp-import-key-description = Móžośo wósobinske kluce importěrowaś, kótarež su se napórali z drugeju OpenPGP-softwaru.
+openpgp-import-key-info = Druga softwara mógła wósobinski kluc z alternatiwnymi zapśimjeśami wopisaś, na pśikład swójski kluc, pótajmny kluc abo klucowy por.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird jo namakał { $count } kluc, kótaryž dajo se importěrowaś.
+        [two] Thunderbird jo namakał { $count } kluca, kótarejž datoj se importěrowaś.
+        [few] Thunderbird jo namakał { $count } kluce, kótarež daju se importěrowaś.
+       *[other] Thunderbird jo namakał { $count } klucow, kótarež dajo se importěrowaś.
+    }
 gnupg-file = GnuPG-dataje
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Palcowy wótśišć
