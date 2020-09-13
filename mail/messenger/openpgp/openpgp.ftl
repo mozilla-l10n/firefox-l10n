@@ -225,17 +225,32 @@ openpgp-description =
         [one] Thunderbird-i gjeti { $count } kyç personal OpenPGP përshoqëruar me <b>{ $identity }</b>
        *[other] Thunderbird-i gjeti { $count } kyçe personalë OpenPGP përshoqëruar me <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Që të aktivizohet protokolli OpenPGP, përzgjidhni një kyç të vlefshëm .
+       *[other] Formësimi juaj i tanishëm përdor ID kyçi <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Formësimi juaj i tanishëm përdor kyçin <b>{ $key }</b>, i cili ka skaduar.
 openpgp-add-key-button =
     .label = Shtoni Kyç…
     .accesskey = S
 e2e-learn-more = Mësoni më tepër
+openpgp-keygen-success = Kyçi OpenPGP u krijua me sukses!
+openpgp-keygen-import-success = Kyçet OpenPGP u importuan me sukses!
+openpgp-keygen-external-success = ID-ja e Kyçit të Jashtëm GnuPG u ruajt!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Asnjë
+openpgp-radio-none-desc = Mos përdor OpenPGP për këtë identitet.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Skadon më: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Kyçi skadon për më pak se 6 muaj
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Ka skaduar më: { $date }
 openpgp-key-expired-image =
@@ -245,6 +260,14 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Shfuqizojeni Kyçin
 openpgp-key-edit-title = Ndryshoni Kyç OpenPGP
 openpgp-key-edit-date-title = Shtyni Datën e Skadimit
+openpgp-manager-description = Që të shihni dhe administroni kyçe publikë të korrespondentëve tuaj dhe kyçe të tjetër jo të paraqitur më sipër, përdorni Përgjegjësin e Kyçeve OpenPGP.
+openpgp-manager-button =
+    .label = Përgjegjës Kyçesh OpenPGP
+    .accesskey = P
+openpgp-key-remove-external =
+    .label = Hiq ID Kyçi të Jashtëm
+    .accesskey = H
+key-external-label = Kyç GnuPG i Jashtëm
 # Strings in keyDetailsDlg.xhtml
 key-type-public = kyç publik
 key-type-primary = kyç parësor
@@ -259,9 +282,21 @@ key-does-not-expire = Kyçi nuk skadon
 key-expired-date = Kyçi skadoi më { $keyExpiry }
 key-expired-simple = Kyçi ka skaduar
 key-revoked-simple = Kyçi u shfuqizua
+key-do-you-accept = E pranoni këtë kyç për verifikim nënshkrimesh dixhitale dhe për fshehtëzim mesazhesh?
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = S’arrihet të dërgohet mesazhi, ngaqë ka një problem me kyçin tuaj personal. { $problem }
+cannot-encrypt-because-missing = S’arrihet të dërgohet ky mesazh me fshehtëzim skaj-më-skaj, ngaqë ka probleme me kyçet e marrësve vijues: { $problem }
+window-locked = Dritarja e hartimeve është e kyçur; dërgimi u anulua
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Pjesa e fshehtëzuar e mesazhit
+mime-decrypt-encrypted-part-concealed-data = Kjo është pjesë e fshehtëzuar e një mesazhi. Do t’ju duhet ta hapni në një dritare veçmas, duke klikuar mbi bashkëngjitjen.
+# Strings in keyserver.jsm
+keyserver-error-aborted = U ndërpre
 keyserver-error-unknown = Ndodhi një gabim i panjohur
 keyserver-error-server-error = Shërbyesi i kyçeve raportoi një gabim.
 keyserver-error-import-error = S’u arrit të importohej kyçi i shkarkuar.
+keyserver-error-unavailable = Shërbyesi i kyçeve është i pakapshëm
+keyserver-error-security-error = Shërbyesi i kyçeve nuk mbulon hyrje të fshehtëzuar në të.
 expiry-open-key-properties = Hap Veti Kyçi
 # Strings filters.jsm
 filter-folder-required = Duhet të përzgjidhni një dosje objektiv.
