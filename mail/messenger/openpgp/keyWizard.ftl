@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+#   $identity (String) - the email address of the currently selected identity
+key-wizard-dialog-window =
+    .title = Pśidajśo wósobinski OpenPGP-kluc za { $identity }
 key-wizard-button =
     .buttonlabelaccept = Dalej
     .buttonlabelhelp = Slědk
+key-wizard-warning = <b>Jolic eksistěrujucy wósobinski kluc za toś tu e-mailowu adresu maśo</b>, wy měł jen importěrowaś. Howac ani njamaśo pśistup k swójim archiwam skoděrowanych mejlkow ani njamóžośo dochadajuce mejlki wót luźi cytaś, kótarež hyšći waš eksistěrujucy kluc wužywaju.
 key-wizard-learn-more = Dalšne informacije
 radio-create-key =
     .label = Nowy OpenPGP-kluc napóraś
