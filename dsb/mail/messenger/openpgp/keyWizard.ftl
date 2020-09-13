@@ -23,6 +23,12 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP-kluc napóraś
+openpgp-generate-key-info = <b>Napóranje kluca móžo někotare minuty traś.</b> Njekóńcćo nałoženje, mjaztym až se kluc napórajo. Gaž aktiwnje pśeglědujośo abo operacije z intensiwnym wužywanim kšuteje platy wuwjedujośo, mjaztym až se kluc napórajo, se ‚pool pśipadnosćie‘ zasej napołnijo a proces póspěšyjo. Dostanjośo powěźeńku, gaž napóranje kluca jo dokóńcone.
+openpgp-keygen-expiry-title = Płaśiwosć kluca
+openpgp-keygen-expiry-description = Nastajśo cas płaśiwosći swójogo nowo napóranego kluca. Móžośo pózdźej cas pódlešyś, jolic trjeba.
+radio-keygen-expiry =
+    .label = Kluc spadnjo za
+    .accesskey = l
 radio-keygen-no-expiry =
     .label = Kluc njespadnjo
     .accesskey = n
@@ -33,6 +39,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = lět
 openpgp-keygen-advanced-title = Rozšyrjone nastajenja
+openpgp-keygen-advanced-description = Kontrolěrujśo rozšyrjone nastajenja swójogo OpenPGP-kluca.
 openpgp-keygen-keytype =
     .value = Klucowy typ:
     .accesskey = t
@@ -45,6 +52,10 @@ openpgp-keygen-type-ecc =
     .label = ECC (Elliptic Curve)
 openpgp-keygen-button = Kluc napóraś
 openpgp-keygen-progress-title = Waš nowy OpenPGP-kluč se napórajo…
+openpgp-keygen-import-progress-title = Waše OpenPGP-kluce se importěruju…
+openpgp-import-success = OpenPGP-kluce wuspěšnje importěrowane!
+openpgp-import-success-title = Importěrowański proces dokóńcyś
+openpgp-import-success-description = Aby swój importěrowany OpenPGP-kluc za e-mailowe koděrowanje wužywał, zacyńśo toś ten dialog a źiśo k swójim kontowym nastajenjam, aby jen wubrał.
 openpgp-keygen-confirm =
     .label = Wobkšuśiś
 openpgp-keygen-dismiss =
@@ -54,6 +65,18 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Zacyniś
     .accesskey = Z
+openpgp-keygen-missing-username = Njejo žedno mě za aktualne konto pódane. Pšosym zapódajśo gódnotu do póla   „Wašo mě“ w kontowych nastajenjach.
+openpgp-keygen-long-expiry = Njamóžośo kluc napóraś, kótaryž za wěcej ako 100 lět spadnjo.
+openpgp-keygen-short-expiry = Waš kluc musy nanejmjenjej jaden źeń płaśiwy byś.
+openpgp-keygen-ongoing = Napóranje kluca južo běžy!
+openpgp-keygen-error-core = OpenPGP Core Service njedajo se inicializěrowaś
+openpgp-keygen-error-failed = Napóranje OpenPGP-kluca njejo se njewócakano raźiło
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP-kluc jo se wuspěšnje napórał, ale njejo se raźiło, wótwołanje za kluc { $key } dostaś.
+openpgp-keygen-abort-title = Napóranje kluca pśetergnuś?
+openpgp-keygen-abort = Napóranje OpenPGP-kluca tuchylu běžy, cośo jo napšawdu pśetergnuś?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Zjawny a pótajmny kluc za { $identity } napóraś?
 
 ## Import Key section
 
