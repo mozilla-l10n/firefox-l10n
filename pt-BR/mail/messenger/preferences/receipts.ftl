@@ -4,48 +4,35 @@
 
 receipts-dialog-window =
     .title = Confirmações de leitura
-
 return-receipt-checkbox =
     .label = Sempre solicitar uma confirmação de leitura
     .acceskey = S
-
-receipt-arrive-label = Ao receber uma confirmação que eu solicitei:
-
+receipt-arrive-label = Ao receber uma confirmação de leitura:
 receipt-leave-radio =
     .label = Deixar na pasta “Entrada”
     .acceskey = E
-
 receipt-move-radio =
     .label = Mover para a pasta “Enviados”
     .acceskey = v
-
-receipt-request-label = Se alguém me solicitar uma confirmação de leitura:
-
+receipt-request-label = Ao receber uma solicitação de confirmação de leitura:
 receipt-return-never-radio =
-    .label = Não enviar
+    .label = Nunca enviar confirmação de leitura
     .acceskey = N
-
 receipt-return-some-radio =
-    .label = Permitir confirmações de leitura nestas situações:
+    .label = Permitir confirmação de leitura de algumas mensagens
     .acceskey = r
-
 receipt-not-to-cc =
-    .value = Eu não estou em Para ou Cc:
+    .value = Eu não estou em Para ou Cc da mensagem:
     .acceskey = u
-
 receipt-send-never-label =
     .label = Nunca enviar
-
 receipt-send-always-label =
     .label = Sempre enviar
-
 receipt-send-ask-label =
     .label = Perguntar
-
 sender-outside-domain =
     .value = Remetente está fora do meu domínio:
     .acceskey = m
-
 other-cases-label =
     .value = Nos demais casos:
     .acceskey = o
