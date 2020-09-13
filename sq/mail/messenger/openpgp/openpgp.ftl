@@ -464,6 +464,14 @@ invalid-email = Gabim - adresë(a) email e pavlefshme
 debug-log-title = Regjistër Diagnostikimi OpenPGP-je
 # Strings used in dialog.jsm
 repeat-prefix = Ky sinjalizim do të përsëritet { $count }
+repeat-suffix-singular = herë tjetër
+repeat-suffix-plural = herë të tjera
+no-repeat = Ky sinjalizim s’do të shfaqet më.
+dlg-keep-setting = Mba mend përgjigjen time dhe mos pyet më
+dlg-button-ok = &OK
+dlg-button-close = &Mbylle
+dlg-button-cancel = &Anuloje
+dlg-no-prompt = Mos ma shfaq më këtë dialog
 # Strings used in enigmailCommon.js
 enig-error = Gabim OpenPGP
 enig-alert-title =
