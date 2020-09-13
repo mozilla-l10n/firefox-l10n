@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = ليس لهذه الصفحة أي طُرز.
 styleeditor-no-stylesheet-tip = أترغب في <a data-l10n-name="append-new-stylesheet">إلحاق صفحة طُرز</a>بها؟
 styleeditor-open-link-new-tab =
     .label = افتح الرابط في لسان جديد
+styleeditor-copy-url =
+    .label = انسخ المسار
