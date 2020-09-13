@@ -217,6 +217,14 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird-i s’ka kyç personal OpenPGP për <b>{ $identity }</b>
+        [one] Thunderbird-i gjeti { $count } kyç personal OpenPGP përshoqëruar me <b>{ $identity }</b>
+       *[other] Thunderbird-i gjeti { $count } kyçe personalë OpenPGP përshoqëruar me <b>{ $identity }</b>
+    }
 openpgp-add-key-button =
     .label = Shtoni Kyç…
     .accesskey = S
