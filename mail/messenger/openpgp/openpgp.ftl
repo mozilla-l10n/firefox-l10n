@@ -344,11 +344,17 @@ filter-warn-key-not-secret =
 filter-decrypt-move-label = Shfshehtëzoje përgjithnjë (OpenPGP)
 filter-decrypt-copy-label = Krijo Kopje të shfshehtëzuar (OpenPGP)
 filter-encrypt-label = Fshehtëzoje sipas kyçi (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Sukses! Kyçet u importuan
 import-info-bits = Bite
 import-info-created = Krijuar më
 import-info-fpr = Shenja gishtash
 import-info-details = Shihni Hollësi dhe administroni pranim kyçi
 import-info-no-keys = S’u importuan kyçe.
+# Strings in enigmailKeyManager.js
+import-from-clip = Doni të importohen ndonjë kyç(e) nga e papastra?
+import-from-url = Shkarko kyç publik prej kësaj URL-je:
 general-error = Gabim: { $reason }
 dlg-button-delete = &Fshije
 
