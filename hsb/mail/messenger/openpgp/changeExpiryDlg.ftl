@@ -4,7 +4,7 @@
 
 openpgp-change-key-expiry-title =
     .title = Płaćiwosć kluča změnić
-info-will-expire = Tutón kluč je tak konfigurany, zo { $date } spadnje.
+info-will-expire = Tutón kluč je tak konfigurowany, zo { $date } spadnje.
 info-already-expired = Tutón kluč je hižo spadnył.
 info-does-not-expire = Tutón kluč je tak konfigurany, zo ženje njespadnje.
 info-explanation-1 = <b>Hdyž kluč je spadnył</b> njeje hižo móžno, jón za zaklučowanje abo digitalne signowanje wužiwać.
