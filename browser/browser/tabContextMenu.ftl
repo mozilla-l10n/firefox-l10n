@@ -54,7 +54,7 @@ move-to-new-window =
     .label = Flytt til eit nytt vindauge
     .accesskey = F
 tab-context-close-multiple-tabs =
-    .label = Lat att flere faner
+    .label = Lat att fleire faner
     .accesskey = f
 
 ## Variables:
