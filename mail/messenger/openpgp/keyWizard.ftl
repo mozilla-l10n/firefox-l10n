@@ -23,7 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP-kluč wutworić
-openpgp-generate-key-info = <b>Wutworjenje kluča móže někotre mjeńšiny trać.</b> Njekónčće nałoženje, mjeztym so kluč wutworja. Hdyž aktiwnje přehladujeće abo operacije z intensiwnym wužiwanjom kruteje tačele wuwjedźeće, mjeztym zo so kluč wutworja, so ‚pool připadnosće‘ znowa napjelni a proces pospěši. Dóstanjeće zdźělenku, hdyž wutowrjenje kluča je dokónčene.
+openpgp-generate-key-info = <b>Wutworjenje kluča móže někotre mjeńšiny trać.</b> Njekónčće nałoženje, mjeztym zo so kluč wutworja. Hdyž aktiwnje přehladujeće abo operacije z intensiwnym wužiwanjom kruteje tačele wuwjedźeće, mjeztym zo so kluč wutworja, so ‚pool připadnosće‘ znowa napjelni a proces pospěši. Dóstanjeće zdźělenku, hdyž wutowrjenje kluča je dokónčene.
 openpgp-keygen-expiry-title = Płaćiwosć kluča
 openpgp-keygen-expiry-description = Nastajće čas płaćiwosće swojeho nowo wutworjeneho kluča. Móžeće pozdźišo čas podlěšić, jeli trjeba.
 radio-keygen-expiry =
