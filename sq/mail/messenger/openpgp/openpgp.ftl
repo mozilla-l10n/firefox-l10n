@@ -318,10 +318,32 @@ unknown-hash-alg = Hash kriptografik i panjohur (ID: { $id })
 expiry-key-expires-soon =
     Kyçi juaj { $desc } do të skadojë për më pak se { $days } ditë.
     Rekomandojmë që të krijoni një çift të ri kyçesh dhe të formësoni llogaritë përgjegjëse për ta përdorur.
+expiry-keys-expire-soon =
+    Kyçet tuaj vijues do të skadojnë për më pak se { $days } ditë: { $desc }.
+    Rekomandojmë që të krijoni kyçe të rinj dhe të formësoni llogaritë përgjegjëse për t’i përdorur ata.
+expiry-key-missing-owner-trust =
+    Kyçit tuaj të fshehtë { $desc } i mungon vlera e besueshmërisë.
+    Këshillojmë që “Bazohuni në dëshmi” t’i jepni vlerën “përgjithnjë” te veti kyçi.
+expiry-keys-missing-owner-trust =
+    Kyçeve tuaj të fshehtë vijues u mungon vlera e besueshmërisë { $desc }.
+    Këshillojmë që “Bazohuni në dëshmi” t’i jepni vlerën “përgjithnjë” te veti kyçi.
+expiry-open-key-manager = Hapni Përgjegjës Kyçesh OpenPGP
 expiry-open-key-properties = Hap Veti Kyçi
 # Strings filters.jsm
 filter-folder-required = Duhet të përzgjidhni një dosje objektiv.
+filter-decrypt-move-warn-experimental =
+    Kujdes - veprimi i filtrimit “Shfshehtëzoje përgjithnjë” mund të shpjerë te mesazhe të shkatërruar.
+    Këshillojmë me forcë që së pari të provoni filtrin “Krijo një Kopje të shfshehtëzuar”, ta testoni me kujdes përfundimin, dhe të filloni ta përdorni këtë filtër vetëm pasi të jeni i kënaqur me përfundimin.
+filter-term-pgpencrypted-label = Fshehtëzuar me OpenPGP
 filter-key-required = Duhet të përzgjidhni një marrës kyçi.
+filter-key-not-found = S’u gjet dot kyç i fshehtëzuar për '{ $desc }'.
+filter-warn-key-not-secret =
+    Kujdes - veprimi i filtrit “Fshehtëzoje me kyçin” zëvendëson marrësit.
+    Nëse s’keni kyçin e fshehtë për '{ $desc }', s’do të jeni më në gjendje të lexoni email-et.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Shfshehtëzoje përgjithnjë (OpenPGP)
+filter-decrypt-copy-label = Krijo Kopje të shfshehtëzuar (OpenPGP)
+filter-encrypt-label = Fshehtëzoje sipas kyçi (OpenPGP)
 import-info-bits = Bite
 import-info-created = Krijuar më
 import-info-fpr = Shenja gishtash
