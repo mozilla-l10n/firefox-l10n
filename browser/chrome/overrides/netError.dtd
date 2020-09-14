@@ -24,7 +24,7 @@
 <ul>
   <li>Tornar ensajar mai tard.</li>
   <li>Verificar vòstra connexion al ret.</li>
-  <li>Se sètz connectat amb un talha-fòc, verificatz que &brandShortName; a la permission d’accedir al Web.</li>
+  <li>Se sètz connectat amb un parafuòc, verificatz que &brandShortName; a la permission d’accedir al Web.</li>
 </ul>
 ">
 
@@ -67,7 +67,7 @@
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes ;</li> <li>Contactatz vòstre administrator de ret per vos assegurar que lo servidor proxy fonciona.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes ;</li> <li>Verificatz que la connexion ret de vòstre ordenador fonciona ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy,asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes ;</li> <li>Verificatz que la connexion ret de vòstre ordenador fonciona ;</li> <li>Se vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>La causa d'aqueste problèma pòt èsser la desactivacion o lo refús dels cookies.</li> </ul>">
 
