@@ -15,7 +15,7 @@ format-group-label =
 orientation-label =
     .value = Orientacion :
 portrait =
-    .label = Retrait
+    .label = Retrach
     .accesskey = R
 landscape =
     .label = Païsatge
@@ -103,7 +103,6 @@ print-window =
     .title = Impression
 print-complete =
     .value = L'impression es acabada.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
