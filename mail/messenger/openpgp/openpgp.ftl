@@ -204,6 +204,8 @@ openpgp-acceptance-undecided-label =
     .label = Hyšći nic, snaź pózdźej.
 openpgp-acceptance-unverified-label =
     .label = Jo, ale njejsom pśeglědał, lěc to jo pšawy kluc.
+openpgp-acceptance-verified-label =
+    .label = Jo, som wósobinski pśeglědał, až to jo korektny palcowy wótśišć.
 openpgp-copy-cmd-label =
     .label = Kopěrowaś
 
