@@ -39,6 +39,9 @@ experimental-features-css-focus-visible-description = Emoneĩ umi ma’ẽha omo
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Pe tembiaporã guasu <a data-l10n-name="mdn-beforeinput">beforeinput</a> hendy umi mba’epuru <a data-l10n-name="mdn-input">&lt;input&gt;</a> ha <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, térã oimeraẽva mba’epuru hekome’ẽva <a data-l10n-name="mdn-contenteditable">mbosako’ikuaáva</a> hendy jave, iñambue mboyve mba’epuru repykue. Tembiaporã omoneĩta ñanduti rembipuru’i omboyke kundahára rekojehegui puruhára rembiapópe, techapyrã, ñanduti rembipuru’i ikatu omboyke puruhára jeike tai’aty ha’etévape térã omoambue moñe’ẽrã ñemboja umi oñemoneĩmbyrévape añoite.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
