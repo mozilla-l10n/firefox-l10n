@@ -26,6 +26,15 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Toś ta powěsć jo se signěrowała z klucom, kótaryž hyšći njamaśo.
 openpgp-search-signature-key =
     .label = Namakaś…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = To jo OpenPGP-powěsć, kótaraž jo se wobškóźiła pó zdaśu pśez MS-Exchange. Jolic wopśimjeśe powěsći se ako wóčakane njepokazujo, móžośo awtomatiske pórěźenje wopytaś.
+openpgp-broken-exchange-repair =
+    .label = Powěsć pórěźiś
 openpgp-broken-exchange-wait = Pšosym cakajśo…
+openpgp-cannot-decrypt-because-mdc =
+    To jo skoděrowana powěsć, kótaraž stary a napadojty mechanizm wužywa.
+    Jo se snaź změniła pśi pśenosowanju, z wótglědom, jeje wopśimjeśe kšadnuś.
+    Aby se toś togo rizika wobinuło, wopśimjeśe se njepokazujo.
+openpgp-cannot-decrypt-because-missing-key = Pótajmny kluc, kótaryž jo trjebny, aby se toś ta powěsć dešifrěrowała, njejo k dispoziciji.
 openpgp-partial-verify-button = Pśespytowaś
 openpgp-partial-decrypt-button = Dešifrěrowaś
