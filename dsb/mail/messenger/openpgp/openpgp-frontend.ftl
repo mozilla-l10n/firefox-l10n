@@ -36,5 +36,8 @@ openpgp-cannot-decrypt-because-mdc =
     Jo se snaź změniła pśi pśenosowanju, z wótglědom, jeje wopśimjeśe kšadnuś.
     Aby se toś togo rizika wobinuło, wopśimjeśe se njepokazujo.
 openpgp-cannot-decrypt-because-missing-key = Pótajmny kluc, kótaryž jo trjebny, aby se toś ta powěsć dešifrěrowała, njejo k dispoziciji.
+openpgp-partially-signed =
+    Jano pódsajźba toś teje powěsći jo se digitalnje signěrowała z OpenPGP.
+    Jolic na pśeglědowański  tłocašk kliknjośo, se nješćitane źěle schowaju, a status digitalneje signatury se pokažo.
 openpgp-partial-verify-button = Pśespytowaś
 openpgp-partial-decrypt-button = Dešifrěrowaś
