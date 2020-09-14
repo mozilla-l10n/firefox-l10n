@@ -206,6 +206,12 @@ openpgp-acceptance-unverified-label =
     .label = Jo, ale njejsom pśeglědał, lěc to jo pšawy kluc.
 openpgp-acceptance-verified-label =
     .label = Jo, som wósobinski pśeglědał, až to jo korektny palcowy wótśišć.
+key-accept-personal =
+    Za toś ten kluc maśo zjawny a pótajmny źěl. Móžośo jen ako wósobinski kluc wužywaś.
+    Jolic něchten drugi jo pódał toś ten kluc, njewužywajśo jen ako wósobinski kluc.
+key-personal-warning = Sćo napórał toś ten kluc sam a póśěgujo se pódane klucowe wobsejźeństwo na was?
+openpgp-personal-no-label =
+    .label = Ně, jen ako mój wósobinski kluc njewužywaś.
 openpgp-copy-cmd-label =
     .label = Kopěrowaś
 
