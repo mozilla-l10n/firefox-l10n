@@ -21,6 +21,8 @@ credit-card-expiration = scadenza { $month }/{ $year }
 # Variables:
 #   $number (String): Partially-redacted credit card number
 credit-card-label-number = { $number }
+credit-card-label-number-2 = { $number }
+    .aria-label = { $type } { credit-card-label-number-2 }
 
 # Label for a credit card with a number and name
 #
@@ -28,12 +30,16 @@ credit-card-label-number = { $number }
 #   $number (String): Partially-redacted credit card number
 #   $name (String): Cardholder name
 credit-card-label-number-name = { $number }, { $name }
+credit-card-label-number-name-2 = { $number }, { $name }
+    .aria-label = { $type } { credit-card-label-number-name-2 }
 
 # Label for a credit card with a number and expiration date
 #
 # Variables:
 #   $number (String): Partially-redacted credit card number
 credit-card-label-number-expiration = { $number }, { credit-card-expiration }
+credit-card-label-number-expiration-2 = { $number }, { credit-card-expiration }
+    .aria-label = { $type } { credit-card-label-number-expiration-2 }
 
 # Label for a credit card with a number, name, and expiration date
 #
@@ -41,4 +47,7 @@ credit-card-label-number-expiration = { $number }, { credit-card-expiration }
 #   $number (String): Partially-redacted credit card number
 #   $name (String): Cardholder name
 credit-card-label-number-name-expiration =
-  { $number }, { $name }, { credit-card-expiration }
+    { $number }, { $name }, { credit-card-expiration }
+credit-card-label-number-name-expiration-2 =
+    { $number }, { $name }, { credit-card-expiration }
+    .aria-label = { $type } { credit-card-label-number-name-expiration-2 }
