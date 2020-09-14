@@ -5,7 +5,7 @@
 <!ENTITY e2eTitle.label "Zaklučowanje wot kónca do kónca">
 <!ENTITY e2eLearnMore.label "Dalše informacije">
 
-<!ENTITY e2eEnc.description "Bjez zaklačowanja wot kónca do kónca so wobsah powěsćow lochko wašemu e-mejlowemu poskićowarjej pokazuje a masowemu dohladowanju wustaja.">
+<!ENTITY e2eEnc.description "Bjez zaklučowanja wot kónca do kónca so wobsah powěsćow lochko wašemu e-mejlowemu poskićowarjej pokazuje a masowemu dohladowanju wustaja.">
 <!ENTITY e2eeReqWarning.description "Jeli zaklučowanje trjebaće, zo byšće powěsć pósłał, dyrbiće zjawny kluč abo certifikat kóždeho přijimarja měć.">
 
 <!ENTITY e2eSigning.description "Digitalna signatura přijimarjam zmóžnja, powěsć přepruwować, kotruž sće pósłał, a hač jeje wobsah njeje so změnił.">
@@ -27,7 +27,6 @@
 <!ENTITY signingGroupTitle.label "Digitalne podpisowanje">
 <!ENTITY signMessage2.label "Moju digitalnu signaturu po standardźe přidać">
 <!ENTITY signMessage.accesskey "d">
-
 <!ENTITY signingCert2.message "Wosobinski certifikat za digitalne zaklučowanje:">
 
 <!ENTITY sendingDefaults.label "Standardne nastajenja za słanje powěsćow">
