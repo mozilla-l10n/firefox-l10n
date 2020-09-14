@@ -267,6 +267,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Kluc wótwołaś
 openpgp-key-edit-title = OpenPGP-kluc změniś
 openpgp-key-edit-date-title = Datum spadnjenja pódlešyś
+openpgp-manager-description = Wužywajśo zastojnik OpenPGP-klucow, aby zjawne kluce swójich dopisowarjow a wšykne druge kluce, kótarež njejsu górjejce pódane, pokazał a zastojał.
 openpgp-manager-button =
     .label = Zastojnik OpenPGP-klucow
     .accesskey = Z
@@ -285,8 +286,17 @@ key-usage-sign = Signěrowaś
 key-usage-certify = Certificěrowaś
 key-usage-authentication = Awtentifikacija
 key-does-not-expire = Kluc njespadnjo
+key-expired-date = Kluc jo spadnuł { $keyExpiry }
 key-expired-simple = Kluc jo spadnuł
 key-revoked-simple = Kluc jo se wótwołał
+key-do-you-accept = Akceptěrujośo, až se za toś ten kluc digitalne signatury a koděrowanje powěsćow pśeglědujo?
+key-accept-warning = Njeakceptěrujśo tšašny kluc. Wužywajśo drugi komunikaciski kanal ako e-mailowy kanal, aby palcowy wótśišć kluca swójogo dopisowarja pśeglědował.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Njejo móžno powěsć słaś, dokulaž dajo problem z wašym wósobinskim klucom. { $problem }
+cannot-encrypt-because-missing = Njejo móžno, toś tu powěsć z koděrowanim kóńc do kóńca pósłác, dokulaž daju problemy z klucami slědujucych dostawarjow: { $problem }
+window-locked = Wobźěłowańske wokno jo zastajone; słanje jo se pśetergnuło
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Skoděrowany źěl powěsći
 # Strings in keyserver.jsm
 keyserver-error-aborted = Pśetorgnjony
 keyserver-error-unknown = Njeznata zmólka jo nastała
