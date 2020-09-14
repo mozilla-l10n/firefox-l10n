@@ -297,9 +297,16 @@ cannot-encrypt-because-missing = Njejo móžno, toś tu powěsć z koděrowanim 
 window-locked = Wobźěłowańske wokno jo zastajone; słanje jo se pśetergnuło
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Skoděrowany źěl powěsći
+mime-decrypt-encrypted-part-concealed-data = To jo skoděrowany powěsćowy źěl. Klikniśo na pśidank, aby jen w separatnem woknje wócynił.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Pśetorgnjony
 keyserver-error-unknown = Njeznata zmólka jo nastała
+keyserver-error-server-error = Klucowy serwer jo dał zmólku k wěsći.
+keyserver-error-import-error = Ześěgnjony kluc njedajo se importěrowaś.
+keyserver-error-unavailable = Klucowy serwer njejo k dispoziciji.
+keyserver-error-security-error = Klucowy serwer skoděrowany pśistup njepódpěra.
+keyserver-error-certificate-error = Certifikat klucowego serwera njejo płaśiwy.
+keyserver-error-unsupported = Klucowy serwer se njepódpěra.
 expiry-open-key-properties = Klucowe kakosći wócyniś
 # Strings filters.jsm
 filter-folder-required = Wy dejśo celowy zarědnik wubraś.
