@@ -213,7 +213,7 @@ key-personal-warning = Sće tutón kluč sam wutworił a poćahuje so podate klu
 openpgp-personal-no-label =
     .label = Ně, jón jako mój wosobinski kluč njewužiwać.
 openpgp-personal-yes-label =
-    .label = Haj,  tutón kluč jako wosobinski kluč wužiwać.
+    .label = Haj, tutón kluč jako wosobinski kluč wužiwać.
 openpgp-copy-cmd-label =
     .label = Kopěrować
 
