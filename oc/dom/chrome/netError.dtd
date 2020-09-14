@@ -8,13 +8,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Failed to Connect">
-<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Pòrt restrench per de rasons de seguretat.">
 <!ENTITY deniedPortAccess.longDesc "<p>L'adreça demandada indica un pòrt (per ex.<q>mozilla.org:80</q> pel pòrt 80 sus mozilla.org) qu'es normalament utilizat per d'<em>autres</em> usatges que la navegacion sul Web. Lo navegador a anullat la requèsta per vòstra proteccion e vòstra seguretat.</p>">
 
 <!ENTITY dnsNotFound.title "Adreça introbabla">
-<!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fichièr introbable">
 <!ENTITY fileNotFound.longDesc "<ul>
