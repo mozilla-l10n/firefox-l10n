@@ -351,7 +351,7 @@ auto-mark-as-read =
     .label = Powěsće awtomatisce jako přečitane markěrować
     .accesskey = P
 mark-read-no-delay =
-    .label = Hnydom pži zwobraznjenju
+    .label = Hnydom při zwobraznjenju
     .accesskey = H
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
