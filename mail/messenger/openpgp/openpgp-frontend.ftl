@@ -42,7 +42,7 @@ openpgp-partially-signed =
 openpgp-partially-encrypted =
     Jenož podsadźba tuteje powěsće je so z OpenPGP zaklučowała.
     Čitajomne dźěle powěśce, kotrež so hižo pokazuja, njebudu so zaklučować.
-    Jeli na dešifrowanske tłočatko kliknjeće, so wobsah zaklučowanych dźělow pokaza.
+    Jeli na dešifrowanske tłóčatko kliknjeće, so wobsah zaklučowanych dźělow pokaza.
 openpgp-reminder-partial-display = Dopomnjeće: Powěsć, kotraž so deleka pokazuje, je jenož podsadźba originalneje powěsće.
 openpgp-partial-verify-button = Wobkrućić
 openpgp-partial-decrypt-button = Dešifrować

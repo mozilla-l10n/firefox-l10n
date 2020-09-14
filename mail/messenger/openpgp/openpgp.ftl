@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Zo byšće zaklučowane abo digitalnje signowane powěsće pósłał, dyrbiće zaklučowansku technologiju konfigurować, pak OpenPGP pak S/MIME.
-e2e-intro-description-more = wubjerće swój wosobinski kluč, zo byšće wužiwanje OpenPGP zmóžnił, abo wosobinski certifikat, zo byšće wužiwanje S/MIME zmóžnił. Za wosobinski kluč abo certifikat maće wotpowědny tajny kluč.
+e2e-intro-description-more = Wubjerće swój wosobinski kluč, zo byšće wužiwanje OpenPGP zmóžnił, abo wosobinski certifikat, zo byšće wužiwanje S/MIME zmóžnił. Za wosobinski kluč abo certifikat maće wotpowědny tajny kluč.
 openpgp-key-user-id-label = Konto/Wužiwarski ID
 openpgp-keygen-title-label =
     .title = OpenPGP-kluč wutworić
@@ -48,7 +48,7 @@ openpgp-key-man-gen-revoke =
     .label = Wotwołanski certifikat
     .accesskey = o
 openpgp-key-man-ctx-gen-revoke-label =
-    .label = Wotwołanski certifikat wutowrić a składować
+    .label = Wotwołanski certifikat wutworić a składować
 openpgp-key-man-file-menu =
     .label = Dataja
     .accesskey = D
