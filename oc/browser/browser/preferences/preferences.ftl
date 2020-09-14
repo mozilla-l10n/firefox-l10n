@@ -116,7 +116,7 @@ search-results-empty-message =
         [windows] Desolat ! I a pas de resultats dins Opcions per « <span data-l10n-name="query"></span> ».
        *[other] Desolat ! I a pas de resultats dins Preferéncias per « <span data-l10n-name="query"></span> ».
     }
-search-results-help-link = Vos cal d’ajuda ? Visitatz <a data-l10n-name="url">Assisténcia de { -brand-short-name }</a>
+search-results-help-link = Vos cal d’ajuda ? Consultatz l’<a data-l10n-name="url">Assisténcia de { -brand-short-name }</a>
 
 ## General Section
 
