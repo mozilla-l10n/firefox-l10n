@@ -212,22 +212,52 @@ key-accept-personal =
 key-personal-warning = Sćo napórał toś ten kluc sam a póśěgujo se pódane klucowe wobsejźeństwo na was?
 openpgp-personal-no-label =
     .label = Ně, jen ako mój wósobinski kluc njewužywaś.
+openpgp-personal-yes-label =
+    .label = Jo, toś ten kluc ako wósobinski kluc wužywaś.
 openpgp-copy-cmd-label =
     .label = Kopěrowaś
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird njama wósobinski OpenPGP-kluc za <b>{ $identity }</b>
+        [one] Thunderbird ma { $count } wósobinski OpenPGP-kluc za <b>{ $identity }</b>
+        [two] Thunderbird ma { $count } wósobinskej OpenPGP-kluca za <b>{ $identity }</b>
+        [few] Thunderbird ma { $count } wósobinske OpenPGP-kluce za <b>{ $identity }</b>
+       *[other] Thunderbird ma { $count } wósobinskich OpenPGP-klucow za <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Wubjeŕśo płaśiwy kluc, aby OpenPGP-protokol zmóžnił.
+        [one] Waša aktualna konfiguracija klucowy ID <b>{ $key }</b> wužywa
+        [two] Waša aktualna konfiguracija klucowej ID <b>{ $key }</b> wužywa
+        [few] Waša aktualna konfiguracija klucowe ID <b>{ $key }</b> wužywa
+       *[other] Waša aktualna konfiguracija klucowe ID <b>{ $key }</b> wužywa
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Waša aktualna konfiguracije kluc <b>{ $key }</b> wužywa, kótaryž jo spadnuł.
 openpgp-add-key-button =
     .label = Kluc pśidaś…
     .accesskey = K
 e2e-learn-more = Dalšne informacije
+openpgp-keygen-success = OpenPGP-kluc jo se wuspěšnje napórał!
+openpgp-keygen-import-success = OpenPGP-kluce su se wuspěšnje importěrowali!
+openpgp-keygen-external-success = Eksterny ID GnuPG-kluca jo se składł!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Žeden
+openpgp-radio-none-desc = OpenPGP za toś tu identitu njewužywaś.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Spadnjo: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Kluc za mjenjej ako 6 mjasecow spadnjo
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Jo spadnuł: { $date }
 openpgp-key-expired-image =
