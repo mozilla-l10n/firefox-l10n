@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Error de Instalación
 opensearch-error-duplicate-desc = { -brand-short-name } no pudo instalar el complemento de búsqueda de "{ $location-url }" porque ya existe un buscador con el mismo nombre.
+opensearch-error-download-title = Error en la descarga
 opensearch-error-download-desc = { -brand-short-name } no pudo descargar el complemento de búsqueda para: { $location-url }
 
 ##
