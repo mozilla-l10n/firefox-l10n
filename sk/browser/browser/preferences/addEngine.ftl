@@ -8,6 +8,7 @@ add-engine-window =
 add-engine-button = Pridať vlastný vyhľadávací modul
 add-engine-name = Názov vyhľadávacieho modulu
 add-engine-alias = Alias
+add-engine-url = URL vyhľadávacieho modulu, dopyt nahraďte „%s“
 add-engine-cancel =
     .label = Zrušiť
     .accesskey = Z
