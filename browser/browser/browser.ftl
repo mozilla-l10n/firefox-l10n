@@ -233,8 +233,16 @@ urlbar-page-action-button =
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ngoku siskrini esipheleleyo
 fullscreen-warning-no-domain = Olu xwebhu ngoku lusiskrini esipheleleyo
 fullscreen-exit-button = Phuma KwiSkrini Esipheleleyo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Phuma KwiSkrini Esipheleleyo (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ilawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
 pointerlock-warning-no-domain = Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
