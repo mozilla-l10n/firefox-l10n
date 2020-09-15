@@ -9,6 +9,11 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Erro na instalação
+opensearch-error-duplicate-desc = O { -brand-short-name } não pôde instalar o mecanismo de pesquisa de “{ $location-url }” porque já existe um mecanismo com o mesmo nome.
+opensearch-error-format-title = Formato inválido
+opensearch-error-format-desc = O { -brand-short-name } não conseguiu instalar o mecanismo de pesquisa de: { $location-url }
+opensearch-error-download-title = Erro no download
+opensearch-error-download-desc = O { -brand-short-name } não pôde baixar o mecanismo de pesquisa de: { $location-url }
 
 ##
 
