@@ -198,3 +198,7 @@ fullscreen-warning-no-domain = इ दस्तावेज आब पूर्�
 fullscreen-exit-button = पूर्ण पटल स बाहर आउ
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण पटल स बाहर आउ (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अपन सूचक पर नियंत्रण अछि. नियंत्रण फिनु सँ वापस आनै कलेल Esc बटन दाबू.
