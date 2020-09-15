@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-download-title = ડાઉનલોડ ભૂલ
+opensearch-error-download-desc = { -brand-short-name } શોધ પ્લગઈનને અહીંથી ડાઉનલોડ કરી શક્યું નહિં: { $location-url }
 
 ##
 
