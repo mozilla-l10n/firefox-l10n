@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = កំហុស​ដំឡើង
+opensearch-error-duplicate-desc = { -brand-short-name } មិន​អាច​ដំឡើង​កម្មវិធី​ជំនួយ​ស្វែងរក​ពី "{ $location-url }" បាន​ទេ ពីព្រោះ​មាន​ម៉ាស៊ីន​ដែល​មាន​ឈ្មោះ​ដូចគ្នា​រួច​ហើយ ។
 opensearch-error-download-title = កំហុស​ទាញ​យក
 opensearch-error-download-desc = { -brand-short-name } មិន​អាច​ទាញ​យក​កម្មវិធី​ជំនួយ​ស្វែងរក​ពី ៖ { $location-url }
 
