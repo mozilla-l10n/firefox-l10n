@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Otvoriť v novom súkromnom okne
     .accesskey = s
-
 places-new-bookmark =
     .label = Nová záložka…
     .accesskey = N
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Nový oddeľovač
     .accesskey = d
-
 places-view =
     .label = Zobraziť
     .accesskey = b
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = podľa dátumu a názvu stránky
     .accesskey = t
-
 places-history-search =
     .placeholder = Hľadať v histórii
 places-bookmarks-search =
     .placeholder = Hľadať v záložkách
-
 places-delete-domain-data =
     .label = Zabudnúť na túto stránku
     .accesskey = b
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Vlastnosti
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Záložky spravované správcom
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Podpriečinok
