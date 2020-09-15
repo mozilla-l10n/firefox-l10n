@@ -366,6 +366,13 @@ import-from-clip = Cośo kluce z mjazywótkłada importěrowaś?
 import-from-url = Zjawny kluc z toś togo URL ześěgnuś:
 copy-to-clipbrd-failed = Wubrane kluce njedaju se do mjazywótkłada kopěrowaś.
 copy-to-clipbrd-ok = Kluce su se kopěrowali do mjazywótkłada
+delete-secret-key =
+    WARNOWANJE: Cośo rowno pótajmny kluc wulašowaś!
+    
+    Jolic swój pótajmny kluc lašujośo, njamóžośo wěcej daniž powěści dešifrěrowaś, kótarež su se skoděrowali za ten kluc, daniž jen wótwołaś.
+    
+    Cośo napšawdu WOBEJ wulašowaś, pótajmny a zjawny kluc
+    ‚{ $userId }‘?
 key-man-loading-keys = Kluce se zacytuju, pšosym cakajśo…
 export-to-file = Zjawny kluc do dataje eksportěrowaś
 general-error = Zmólka: { $reason }
