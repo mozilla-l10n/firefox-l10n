@@ -411,6 +411,13 @@ key-ring-pub-key-revoked = Kluc { $userId } (klucowy ID { $keyId }) jo se wótwo
 key-ring-pub-key-expired = Klcč { $userId } (klucowy ID { $keyId }) jo spadnuł.
 key-ring-key-disabled = Kluc { $userId } (klucowy ID { $keyId }) jo znjemóžnjony; njedajo se wužywaś.
 key-ring-key-invalid = Kluc { $userId } (klucowy ID { $keyId }) njejo płaśiwy. Pšosym pśeglědajśo, lěc wón jo korektny.
+key-ring-key-not-trusted = Kluc { $userId } (klucowy ID { $keyId }) njejo dowěry gódny dosć. Pšosym stajśo stopjeń dowěry swójogo kluca na „doskóńcny“, aby jen za signěrowanje wužywał.
+key-ring-no-secret-key = Zda se, až pótajmny kluc za { $userId } (klucowy ID { $keyId }) na swójom klucowcu njamaśo; njamóžośo kluc za signěrowanje wužywaś.
+key-ring-pub-key-not-for-signing = Kluc { $userId } (klucowy ID { $keyId }) njedajo se za signěrowanje wužywaś.
+key-ring-pub-key-not-for-encryption = Kluc { $userId } (klucowy ID { $keyId }) njedajo se za koděrowanje wužywaś.
+key-ring-sign-sub-keys-revoked = Wšykne signěrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su wótwołane.
+key-ring-sign-sub-keys-expired = Wšykne signěrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su spadnuli.
+key-ring-sign-sub-keys-unusable = Wšykne signěrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su wótwołane, spadnuli abo hować njewužywajobne.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Wužywaŕski atribut (JPEG-wobraz)
