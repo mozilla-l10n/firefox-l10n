@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Ralat Pemasangan
 opensearch-error-download-title = Ralat Memuat Turun
+opensearch-error-download-desc = { -brand-short-name } tidak dapat muat turun plugin yang dikehendaki dari: { $location-url }
 
 ##
 
