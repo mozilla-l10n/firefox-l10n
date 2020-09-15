@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Dobrir lo ligam dins una novèla fenèstra privada
     .accesskey = p
-
 places-new-bookmark =
     .label = Marcapagina novèl…
     .accesskey = M
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Separador novèl
     .accesskey = S
-
 places-view =
     .label = Visualizar
     .accesskey = z
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Per data e site
     .accesskey = t
-
 places-history-search =
     .placeholder = Cercar dins l’istoric
 places-bookmarks-search =
     .placeholder = Cercar dins los marcapaginas
-
 places-delete-domain-data =
     .label = Doblidar aqueste site
     .accesskey = D
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Proprietats
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Marcapaginas constrenches
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Jos dossièr
