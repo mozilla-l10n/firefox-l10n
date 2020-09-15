@@ -376,6 +376,8 @@ urlbar-pocket-button =
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> está em tela inteira
+fullscreen-warning-no-domain = Este documento está agora em tela inteira
 fullscreen-exit-button = Sair da tela inteira (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Sair da tela inteira (esc)
+pointerlock-warning-no-domain = Este documento tem o controle do seu ponteiro. Pressionar Esc para retomar o controle.
