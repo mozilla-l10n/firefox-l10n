@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Yeny i mung)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Yeny i mung)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Yeny i mung)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Yeny i mung)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -104,6 +102,7 @@ urlbar-search-tips-redirect-2 = Cak yeny mamegi ki i lanyut me kanonge me neno t
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -120,12 +119,10 @@ urlbar-midi-blocked =
     .tooltiptext = I gengo woko nongo MIDI pi kakube man.
 urlbar-install-blocked =
     .tooltiptext = Igengo woko keto med-ikome pi kakube man.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Yub alama buk man ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -154,14 +151,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Iwangi, yeny ki:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Lok ter me yeny
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Lok ter me yeny
-
 search-one-offs-context-open-new-tab =
     .label = Yeny i dirica matidi manyen
     .accesskey = d
@@ -179,11 +174,11 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-done-button =
     .label = Otum
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -263,24 +258,36 @@ popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Yeny onyo ket kanonge
-
 urlbar-placeholder =
     .placeholder = Yeny onyo ket kanonge
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ki tye ka loono layeny ki kama bor
 urlbar-permissions-granted =
     .tooltiptext = Imiyo ki kakube man twero mukene.
 urlbar-switch-to-tab =
     .value = Lokke bot dirica matidi:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Lamed:
-
 urlbar-go-button =
     .tooltiptext = Cit i kanonge ma i lanyut me gintic kabedo
 urlbar-page-action-button =
     .tooltiptext = Jami atima me potbuk
 urlbar-pocket-button =
     .tooltiptext = Gwok i { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> dong opongo wang kio weng
+fullscreen-warning-no-domain = Gin acoya man dong opongo wang kio
+fullscreen-exit-button = Kat woko ki i wang kio ma opong (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Kat woko ki i wang kio ma opong (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.
+pointerlock-warning-no-domain = Jami eni Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.
