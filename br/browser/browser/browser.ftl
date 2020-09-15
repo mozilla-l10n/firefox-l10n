@@ -369,3 +369,19 @@ urlbar-page-action-button =
     .tooltiptext = Gweredoù ar bajenn
 urlbar-pocket-button =
     .tooltiptext = Enrollañ etrezek { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a zo e skramm a-bezh
+fullscreen-warning-no-domain = War ar skramm a-bezh emañ an teul-mañ bremañ
+fullscreen-exit-button = Kuitaat ar mod skramm a-bezh (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Kuitaat ar mod skramm a-bezh (Esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a c'hall reoliñ ho logodenn. Pouezit war Achap evit bezañ mestr outi en-dro.
+pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit war Achap evit bezañ mestr outi en-dro.
