@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Megnyitás új privát ablakban
     .accesskey = p
-
 places-new-bookmark =
     .label = Új könyvjelző…
     .accesskey = n
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Új elválasztó
     .accesskey = e
-
 places-view =
     .label = Megjelenítés
     .accesskey = M
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Dátum és kiszolgáló szerint
     .accesskey = m
-
 places-history-search =
     .placeholder = Előzmények keresése
 places-bookmarks-search =
     .placeholder = Könyvjelzők keresése
-
 places-delete-domain-data =
     .label = Webhely elfelejtése
     .accesskey = W
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Tulajdonságok
     .accesskey = T
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Menedzsel könyvjelzők
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Almappa
