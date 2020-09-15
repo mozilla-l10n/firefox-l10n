@@ -210,6 +210,8 @@ cert-not-verified_algorithm-disabled = Das Zertifikat konnte nicht verifiziert w
 cert-not-verified-unknown = Dieses Zertifikat konnte aus unbekannten Gründen nicht verifiziert werden.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Kein Client-Zertifikat senden
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Nicht gespeichert)
 
 ## Used to show whether an override is temporary or permanent
 
