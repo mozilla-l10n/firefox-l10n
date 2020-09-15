@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = ഇന്‍സ്റ്റോള്‍ പിശക്
+opensearch-error-duplicate-desc = { -brand-short-name }-നു് "{ $location-url }"-ല്‍ നിന്നും തെരച്ചിലിനുള്ള പ്ലഗിന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല, കാരണം ഇതേപേരില്‍ മറ്റൊരു എഞ്ചിന്‍ നിലവിലുണ്ടു്.
 opensearch-error-download-title = ഡൌണ്‍ലോട് പിശക്
 opensearch-error-download-desc = { -brand-short-name } ഇവിടെ നിന്നും തെരച്ചിലിനുള്ള പ്ലഗിന്‍ ഡൌണ്‍ലോഡ് ചെയ്യുവാന്‍ സാധ്യമല്ല: { $location-url }
 
