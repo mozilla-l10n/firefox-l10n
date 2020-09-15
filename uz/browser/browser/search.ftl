@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Oʻrnatishda xato
 opensearch-error-duplicate-desc = { -brand-short-name } "{ $location-url }"dan izlash plaginini yuklab ololmadi, chunki xuddi shu nomli plagin allaqachon mavjud.
+opensearch-error-format-title = Xato format
+opensearch-error-format-desc = { -brand-short-name } { $location-url }dan qidiruv tizimini oʻrnata olmadi
 opensearch-error-download-title = Yuklab olishda xato
 opensearch-error-download-desc = { -brand-short-name } izlash plaginini bu yerdan yuklab ololmadi: { $location-url }
 
