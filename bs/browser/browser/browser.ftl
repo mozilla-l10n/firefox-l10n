@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privatno surfanje)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privatno surfanje)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privatno surfanje)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privatno surfanje)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -125,12 +123,10 @@ urlbar-popup-blocked =
     .tooltiptext = Imate blokirane pop-up prozore za ovu web stranicu.
 urlbar-canvas-blocked =
     .tooltiptext = Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Uredi ovu zabilješku ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -162,14 +158,12 @@ search-one-offs-change-settings-button =
     .label = Promijeni postavke pretraživača
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Promijeni postavke za pretragu
-
 search-one-offs-context-open-new-tab =
     .label = Traži u novom tabu
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Postavi kao glavni pretraživač
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -196,10 +190,8 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Prikaži editor prilikom spašavanja
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Gotovo
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -271,22 +263,34 @@ popup-all-windows-shared = Svi vidljivi prozori na vašem ekranu će biti podije
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Unesite termin za pretragu ili adresu
-
 urlbar-placeholder =
     .placeholder = Unesite termin za pretragu ili adresu
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser je pod udaljenom kontrolom
 urlbar-permissions-granted =
     .tooltiptext = Ovoj stranici ste dodijelili dodatne dozvole.
 urlbar-switch-to-tab =
     .value = Prebaci se na tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Proširenje:
-
 urlbar-go-button =
     .tooltiptext = Idi na adresu upisanu u adresnoj traci
 urlbar-page-action-button =
     .tooltiptext = Akcije stranice
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> je sad preko cijelog ekrana
+fullscreen-warning-no-domain = Ovaj dokument je prikazan preko cijelog ekrana
+fullscreen-exit-button = Izađite iz cijelog ekrana (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Izađite iz cijelog ekrana (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
+pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
