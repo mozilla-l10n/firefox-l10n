@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Luu ta tak güi Internet )
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Luu ta tak güi Internet )
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Luu ta tak güi Internet )
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Luu ta tak güi Internet )
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -64,13 +62,13 @@ urlbar-translate-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tùs kùe ndó~làz=ná ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -97,6 +95,7 @@ full-screen-exit =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -132,12 +131,15 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Kuan dee kuan luu
-
 urlbar-placeholder =
     .placeholder = Kuan dee kuan luu
-
 urlbar-switch-to-tab =
     .value = Xhe loo gibb:
-
 urlbar-go-button =
     .tooltiptext = Cuan taa diff loo
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-exit-button = Mb-ròɁ lô (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
