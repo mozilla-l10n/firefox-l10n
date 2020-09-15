@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = ସ୍ଥାପନ ତ୍ରୁଟି
+opensearch-error-duplicate-desc = "{ -brand-short-name }" ରୁ { $location-url } ସନ୍ଧାନ ପ୍ଲଗଇନ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ କାରଣ ସମାନ ନାମ ବିଶିଷ୍ଟ ଗୋଟିଏ ଯନ୍ତ୍ର ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।
 opensearch-error-download-title = ତ୍ରୁଟି ଆହରଣ କରନ୍ତୁ
 opensearch-error-download-desc = { -brand-short-name } ରୁ { $location-url } ସନ୍ଧାନ ପ୍ଲଗଇନ ଆହରଣ: କରିପାରିଲା ନାହିଁ
 
