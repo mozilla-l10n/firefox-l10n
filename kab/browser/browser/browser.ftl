@@ -369,3 +369,9 @@ urlbar-page-action-button =
     .tooltiptext = Asebter n tigawin
 urlbar-pocket-button =
     .tooltiptext = Sekles ɣer { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-exit-button = Ffeɣ seg ugdil ačuṛan (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Ffeɣ seg ugdil ačuṛan (Esc)
