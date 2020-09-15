@@ -364,6 +364,8 @@ import-info-no-keys = Žedne kluce importěrowane.
 # Strings in enigmailKeyManager.js
 import-from-clip = Cośo kluce z mjazywótkłada importěrowaś?
 import-from-url = Zjawny kluc z toś togo URL ześěgnuś:
+copy-to-clipbrd-failed = Wubrane kluce njedaju se do mjazywótkłada kopěrowaś.
+copy-to-clipbrd-ok = Kluce su se kopěrowali do mjazywótkłada
 key-man-loading-keys = Kluce se zacytuju, pšosym cakajśo…
 export-to-file = Zjawny kluc do dataje eksportěrowaś
 general-error = Zmólka: { $reason }
