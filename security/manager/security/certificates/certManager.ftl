@@ -18,6 +18,7 @@ certmgr-mine = Du har certifikat från dessa organisationer som identifierar dig
 certmgr-remembered = Dessa certifikat används för att identifiera dig till webbplatser
 certmgr-people = Du har certifikat lagrade som identifierar dessa personer
 certmgr-servers = Du har certifikat lagrade som identifierar dessa servrar
+certmgr-server = Dessa poster identifierar undantag för servercertifikatfel
 certmgr-ca = Du har certifikat lagrade som identifierar dessa certifikatutfärdare
 certmgr-detail-general-tab-title =
     .label = Allmänt
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Ta bort undantag för servercertifikat
 delete-ssl-cert-confirm = Är du säker på att du vill ta bort dessa serverundantag?
 delete-ssl-cert-impact = Om du tar bort ett serverundantag återställer du de normala säkerhetskontrollerna för servern och kräver att den använder ett giltigt certifikat.
+delete-ssl-override-title =
+    .title = Ta bort undantag för servercertifikat
+delete-ssl-override-confirm = Är du säker på att du vill ta bort detta serverundantag?
+delete-ssl-override-impact = Om du tar bort ett serverundantag återställer du de vanliga säkerhetskontrollerna för den servern och kräver att den använder ett giltigt certifikat.
 delete-ca-cert-title =
     .title = Ta bort eller misstro CA-certifikat
 delete-ca-cert-confirm = Du försöker ta bort dessa CA-certifikat. För inbyggda certifikat som inte kan raderas kommer i stället all tillit att tas bort, vilket har samma effekt. Är du säker på att du vill ta bort eller misstro certifikaten?
@@ -210,6 +215,8 @@ cert-not-verified_algorithm-disabled = Kan inte verifiera detta certifikat efter
 cert-not-verified-unknown = Kan inte verifiera detta certifikat av okänd anledning.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Skicka inget klientcertifikat
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Lagras ej)
 
 ## Used to show whether an override is temporary or permanent
 
