@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Грешка при инсталацији
 opensearch-error-duplicate-desc = { -brand-short-name } није могао да инсталира прикључак са сајта "{ $location-url }" јер већ постоји претраживач са истим именом.
+opensearch-error-format-title = Неисправан формат
+opensearch-error-format-desc = { -brand-short-name } није могао да инсталира претраживач са: { $location-url }
 opensearch-error-download-title = Грешка при прузимању
 opensearch-error-download-desc = { -brand-short-name } није могао да преузме прикључак за претрагу са сајта: { $location-url }
 
