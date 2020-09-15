@@ -24,6 +24,7 @@ certmgr-mine = Sono presenti certificati rilasciati dalle seguenti organizzazion
 certmgr-remembered = Questi certificati sono utilizzati per attestare la propria identità su siti web
 certmgr-people = Sono presenti certificati su file che identificano le seguenti persone
 certmgr-servers = Sono presenti certificati su file che identificano i seguenti server
+certmgr-server = Queste voci rappresentano eccezioni per errori nei certificati server
 certmgr-ca = Sono presenti certificati su file che identificano le seguenti autorità di certificazione
 
 certmgr-detail-general-tab-title =
@@ -220,6 +221,11 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Eliminare queste eccezioni?
 delete-ssl-cert-impact = Eliminando un’eccezione per un server si ripristinano i controlli predefiniti di sicurezza  e per questo sito verrà richiesto un certificato valido.
 
+delete-ssl-override-title =
+    .title = Elimina eccezione certificato server
+delete-ssl-override-confirm = Eliminare l’eccezione per questo server?
+delete-ssl-override-impact = Eliminando un’eccezione per un server si ripristinano i controlli predefiniti di sicurezza  e per questo sito verrà richiesto un certificato valido.
+
 delete-ca-cert-title =
     .title = Elimina o considera inattendibili certificati CA
 delete-ca-cert-confirm = È stata richiesta l’eliminazione di questi certificati appartenenti ad autorità di certificazione (CA). I certificati predefiniti verranno considerati non più attendibili, ottenendo lo stesso risultato di una rimozione completa. Proseguire con l’operazione?
@@ -281,6 +287,14 @@ cert-not-verified-unknown = Non è possibile verificare questo certificato per m
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Non inviare alcun certificato client
+
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (non salvato)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Permanente
+temporary-override = Temporaneo
 
 ## Add Security Exception dialog
 
