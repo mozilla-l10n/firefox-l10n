@@ -10,7 +10,10 @@
 
 opensearch-error-duplicate-title = Грешка при инсталиране
 opensearch-error-duplicate-desc = { -brand-short-name } не може да инсталира приставка за търсене от „{ $location-url }“, защото приставка със същото име вече съществува.
+opensearch-error-format-title = Грешен формат
+opensearch-error-format-desc = { -brand-short-name } не може да инсталира търсеща машина от { $location-url }
 opensearch-error-download-title = Грешка при изтегляне
+opensearch-error-download-desc = { -brand-short-name } не може да изтегли приставка за търсене от: { $location-url }
 
 ##
 
