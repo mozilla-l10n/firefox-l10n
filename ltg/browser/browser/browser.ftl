@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privatuo puorlūkuošona)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privatuo puorlūkuošona)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privatuo puorlūkuošona)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privatuo puorlūkuošona)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -103,6 +101,7 @@ urlbar-search-tips-onboard = Roksti mozōk, atrūņ vaira: Meklej ar { $engineNa
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -125,12 +124,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Datu sajimšona nu ituos lopys canvas ir blokeita.
 urlbar-midi-blocked =
     .tooltiptext = Tu esi aizlīdzs MIDI pīkļuvi itai lopai.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -162,7 +159,6 @@ search-one-offs-change-settings-button =
     .label = Maineit mekliešonys īstatiejumus
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Maineit mekliešonys īstatiejumus
-
 search-one-offs-context-open-new-tab =
     .label = Mekleit jaunā cilnē
     .accesskey = c
@@ -177,15 +173,14 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Rōdēt redaktoru pi saglobōšonys
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Gotovs
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -257,20 +252,24 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
-
 urlbar-placeholder =
     .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Porlyuku kontrolej nu attōluma
 urlbar-switch-to-tab =
     .value = Puorslēgtīs iz cilni:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplošynuojums:
-
 urlbar-go-button =
     .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
 urlbar-page-action-button =
     .tooltiptext = Lopys darbeibys
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa vysu ekranu
+fullscreen-warning-no-domain = Itys dokuments ir pa vysu ekranu
