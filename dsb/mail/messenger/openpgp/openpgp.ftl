@@ -321,6 +321,22 @@ converter-decrypt-body-failed =
     Cośo z drugeju gronidłoweju frazu znowego wopytaś abo cośo powěsć pśeskócyś?
 # Strings in gpg.jsm
 unknown-signing-alg = Njeznaty signěrowański algoritmus (ID: { $id })
+unknown-hash-alg = Njeznata kryptografiska kontrolna suma (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Waš kluc { $desc } za mjenjej ako { $days } dnjow spadnjo.
+    Pórucamy, až nowy klucowy por napórajośo a wótpowědne konta konfigurěrowaś, aby jen wužywał.
+expiry-keys-expire-soon =
+    Waše slědujuce kluce za mjenjej ako { $days } dnjow spadnu: { $desc }.
+    Pórucamy, až nowe kluce napórajośo a wótpowědne konta konfigurěrowaś, aby je wužywał.
+expiry-key-missing-owner-trust =
+    Waš pótajmny kluc { $desc } njejo dowěry gódny.
+    Pórucamy, až w klucowych kakosćach „Spušćaśo se na certifikacije“ na „doskóńcny“ stajaśo.
+expiry-keys-missing-owner-trust =
+    Slědujucy z wašych pótajmnych klucow njejo dowěry gódny.
+    { $desc }.
+    Pórucamy, až w klucowych kakosćach „Spušćaśo se na certifikacije“ na „doskóńcny“ stajaśo.
+expiry-open-key-manager = Zastojnik OpenPGP-klucow wócyniś
 expiry-open-key-properties = Klucowe kakosći wócyniś
 # Strings filters.jsm
 filter-folder-required = Wy dejśo celowy zarědnik wubraś.
