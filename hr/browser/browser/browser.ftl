@@ -369,3 +369,11 @@ urlbar-page-action-button =
     .tooltiptext = Radnje na stranici
 urlbar-pocket-button =
     .tooltiptext = Spremi u { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima kontrolu nad pokazivačem. Pritisnite tipku Esc da biste preuzeli kontrolu.
+pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad pokazivačem. Pritisnite tipku Esc kako biste preuzeli kontrolu.
