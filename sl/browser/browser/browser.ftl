@@ -369,3 +369,10 @@ urlbar-page-action-button =
     .tooltiptext = Dejanja strani
 urlbar-pocket-button =
     .tooltiptext = Shrani v { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = Ta dokument je zdaj prikazan čez celoten zaslon
+fullscreen-exit-button = Izhod iz celozaslonskega načina (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Izhod iz celozaslonskega načina (Esc)
