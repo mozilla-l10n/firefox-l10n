@@ -373,8 +373,28 @@ delete-secret-key =
     
     Cośo napšawdu WOBEJ wulašowaś, pótajmny a zjawny kluc
     ‚{ $userId }‘?
+delete-mix =
+    WARNOWANJE: Cośo rowno pótajmny kluc wulašowaś!
+    Jolic swój pótajmny kluc lašujośo, njamóžośo wěcej powěści dešifrěrowaś, kótarež su se skoděrwoali za ten kluc.
+    Cośo napšawdu WOBEJ wulašowaś, pótajmny a zjawny kluc‘?
+delete-pub-key =
+    Cośo zjawny kluc
+    ‚{ $userId }‘ wulašowaś?
+delete-selected-pub-key = Cośo zjawne kluce lašowaś?
+refresh-all-question = Njejsćo wubrał žeden kluc. Cośo WŠYKNE kluce aktualizěrowaś?
+key-man-button-export-sec-key = &Pótajmne kluce eksportěrowaś
+key-man-button-export-pub-key = Jano &zjawne kluce eksportěrowaś
+key-man-button-refresh-all = Wšykne kluce &aktualizěrowaś
 key-man-loading-keys = Kluce se zacytuju, pšosym cakajśo…
+ascii-armor-file = ASCII Armored Files (*.asc)
+no-key-selected = Wy měł nanejmjenjej jaden kluc wubraś, aby wubranu operaciju wuwjadł
 export-to-file = Zjawny kluc do dataje eksportěrowaś
+export-keypair-to-file = Pótajmny a zjawny kluc do dataje eksportěrowaś
+export-secret-key = Cośo pótajmny kluc do skłaźoneje dataje OpenPGP-kluca zapśimjeś?
+save-keys-ok = Kluce su se wuspěšnje składli
+save-keys-failed = Składowanje klucow njejo se raźiło
+default-pub-key-filename = Eksportěrowane-zjawne-kluce
+default-pub-sec-key-filename = Zawěsćenje-pótajmnych-klucow
 general-error = Zmólka: { $reason }
 dlg-button-delete = &Lašowaś
 
