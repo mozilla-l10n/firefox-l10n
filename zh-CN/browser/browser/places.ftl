@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = 新建隐私窗口打开
     .accesskey = P
-
 places-new-bookmark =
     .label = 新建书签…
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = 新建分割条
     .accesskey = S
-
 places-view =
     .label = 查看
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = 按日期和站点
     .accesskey = t
-
 places-history-search =
     .placeholder = 在历史记录中搜索
 places-bookmarks-search =
     .placeholder = 在书签中搜索
-
 places-delete-domain-data =
     .label = 清除此站点信息
     .accesskey = F
@@ -64,3 +60,6 @@ places-sortby-name =
 places-properties =
     .label = 属性
     .accesskey = i
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = 子文件夹
