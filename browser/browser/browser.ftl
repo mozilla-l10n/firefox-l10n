@@ -369,3 +369,11 @@ urlbar-page-action-button =
     .tooltiptext = Acciones de la página
 urlbar-pocket-button =
     .tooltiptext = Guardar en { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> está ahora a pantalla completa
+fullscreen-warning-no-domain = Este documento está ahora a pantalla completa
