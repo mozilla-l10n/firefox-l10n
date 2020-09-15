@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (පෞද්ගලික ගවේෂණය)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (පෞද්ගලික ගවේෂණය)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -96,6 +94,7 @@ urlbar-addons-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -114,12 +113,10 @@ urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -151,7 +148,6 @@ search-one-offs-change-settings-button =
     .label = සෙවුම් සැකසුම් වෙනස් කරන්න
 search-one-offs-change-settings-compact-button =
     .tooltiptext = සෙවුම් සිටුවම් වෙනස් කරන්න
-
 search-one-offs-context-open-new-tab =
     .label = නව ටැබයක සොයන්න
     .accesskey = T
@@ -165,6 +161,7 @@ search-one-offs-context-set-as-default =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -236,20 +233,28 @@ popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන ස�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
-
 urlbar-placeholder =
     .placeholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ගවේශකය දුරස්ථ පාලනයේ පවතී
 urlbar-switch-to-tab =
     .value = ටැබයට මාරුවෙන්න:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
-
 urlbar-go-button =
     .tooltiptext = පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න
 urlbar-page-action-button =
     .tooltiptext = පිටු ක්‍රියාවන්
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> දැන් පූර්ණ තිරයේ
+fullscreen-warning-no-domain = මෙම ලේඛනය දැන් පූර්ණ තිරයේ
+fullscreen-exit-button = පූර්ණ තිරයෙන් පිටවන්න (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = පූර්ණ තිරයෙන් පිටවන්න (esc)
+pointerlock-warning-no-domain = මෙම ලේඛනය හට ඔබගේ දක්වනයේ පාලනය පවතී. පාලනය නැවත ලැබීමට Esc ඔබන්න.
