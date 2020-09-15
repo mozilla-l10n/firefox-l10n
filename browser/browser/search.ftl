@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Quraşdırma səhvi
+opensearch-error-download-desc = { -brand-short-name }, axtarış mühərriki əlavəsi bu qaynaqdan yüklənə bilinmədi: { $location-url }
 
 ##
 
