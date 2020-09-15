@@ -65,4 +65,4 @@ managed-bookmarks =
     .label = Nodau Tudalen wedi'u rheoli
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
-    .label = Isffolder
+    .label = Is-ffolder
