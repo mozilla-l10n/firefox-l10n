@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Install Error
+opensearch-error-duplicate-desc = { -brand-short-name } could not install the search plugin from “{ $location-url }” because an engine with the same name already exists.
 opensearch-error-format-title = Invalid Format
 opensearch-error-format-desc = { -brand-short-name } could not install the search engine from: { $location-url }
 opensearch-error-download-title = Download Error
