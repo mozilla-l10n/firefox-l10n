@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Phošo ya go lokela
+opensearch-error-duplicate-desc = { -brand-short-name } e ka se lokele tsebišo-koketšo ya nyako go tšwa go "{ $location-url }" ka gobane entšene yeo e nago le leina le swanago e šetše e le gona.
 opensearch-error-download-title = Phošo ya go laolla
 opensearch-error-download-desc = { -brand-short-name } e ka se laolle tsebišo-koketšo ya nyako go tšwa go: { $location-url }
 
