@@ -126,5 +126,10 @@ popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jib
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jinoe nakeuh layeue peunoh
+fullscreen-exit-button = Teubiet Layeue Peunoh (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Teubiet Peunoh Layeu (esc)
