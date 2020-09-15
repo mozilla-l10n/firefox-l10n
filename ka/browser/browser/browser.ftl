@@ -369,3 +369,9 @@ urlbar-page-action-button =
     .tooltiptext = ვებგვერდზე მოქმედებები
 urlbar-pocket-button =
     .tooltiptext = { -pocket-brand-name }-ში შენახვა
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-exit-button = სრული ეკრანიდან გამოსვლა (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = სრული ეკრანიდან გამოსვლა (esc)
