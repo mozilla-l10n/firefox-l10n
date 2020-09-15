@@ -372,6 +372,16 @@ urlbar-pocket-button =
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = Το <span data-l10n-name="domain">{ $domain }</span> εκτελείται σε πλήρη οθόνη
+fullscreen-warning-no-domain = Αυτό το έγγραφο εμφανίζεται σε πλήρη οθόνη
 fullscreen-exit-button = Έξοδος από πλήρη οθόνη (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Έξοδος από πλήρη οθόνη (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = Το <span data-l10n-name="domain">{ $domain }</span> ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.
+pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.
