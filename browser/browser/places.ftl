@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = פתיחה בחלון פרטי חדש
     .accesskey = פ
-
 places-new-bookmark =
     .label = סימנייה חדשה…
     .accesskey = ס
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = קו מפריד חדש
     .accesskey = ק
-
 places-view =
     .label = תצוגה
     .accesskey = ת
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = לפי תאריך ואתר
     .accesskey = ל
-
 places-history-search =
     .placeholder = חיפוש בהיסטוריה
 places-bookmarks-search =
     .placeholder = חיפוש בסימניות
-
 places-delete-domain-data =
     .label = לשכוח מאתר זה
     .accesskey = ש
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = מאפיינים
     .accesskey = מ
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = סימניות מנוהלות
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = תיקיית משנה
