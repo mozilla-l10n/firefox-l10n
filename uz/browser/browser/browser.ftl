@@ -327,3 +327,15 @@ urlbar-page-action-button =
     .tooltiptext = Sahifa amallari
 urlbar-pocket-button =
     .tooltiptext = { -pocket-brand-name } xizmatiga saqlash
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = Bu hujjat hozir butun ekranda ko‘rinmoqda
+fullscreen-exit-button = "Butun ekranda" usulidan chiqish (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = "Butun ekranda" usulidan chiqish (Esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.
+pointerlock-warning-no-domain = Bu hujat ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.
