@@ -9,6 +9,9 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Gwall Gosod
+opensearch-error-duplicate-desc = Methodd { -brand-short-name } â gosod yr ategyn chwilio o "{ $location-url }" gan fod peiriant chwilio sydd â'r un enw yn bodoli'n barod.
+opensearch-error-format-title = Fformat Annilys
+opensearch-error-format-desc = Nid yw { -brand-short-name } yn gallu gosod y peiriant chwilio o { $location-url }
 opensearch-error-download-title = Gwall llwytho i lawr
 opensearch-error-download-desc = Methodd { -brand-short-name } â llwytho i lawr yr ategyn chwilio o: { $location-url }
 
