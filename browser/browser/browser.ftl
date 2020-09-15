@@ -369,3 +369,14 @@ urlbar-page-action-button =
     .tooltiptext = Actions pour la page
 urlbar-pocket-button =
     .tooltiptext = Enregistrer dans { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> est désormais en plein écran
+fullscreen-warning-no-domain = Ce document est désormais en plein écran
+fullscreen-exit-button = Quitter le mode plein écran (Échap)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Quitter le mode plein écran (« esc »)
