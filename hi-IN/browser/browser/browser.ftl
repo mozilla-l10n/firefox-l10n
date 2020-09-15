@@ -332,3 +332,9 @@ urlbar-page-action-button =
     .tooltiptext = पृष्ठ क्रियाएँ
 urlbar-pocket-button =
     .tooltiptext = { -pocket-brand-name } में सहेजें
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = यह दस्तावेज़ अब पूर्ण स्क्रीन पर है
+fullscreen-exit-button = पूर्ण स्क्रीन से निकलें (Esc)
+pointerlock-warning-no-domain = इस दस्तेवाज को आपके सूचक पर नियंत्रण हैं. नियंत्रण फिर से वापस लेने के लिए Esc बटन दबाएँ.
