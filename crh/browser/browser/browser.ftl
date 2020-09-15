@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Hususiy Kezinüv)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Hususiy Kezinüv)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Hususiy Kezinüv)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Hususiy Kezinüv)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -103,6 +101,7 @@ urlbar-search-tips-onboard = Daa az tuşla, daa çoq tap: { $engineName } üzeri
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -125,12 +124,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt içün kanaviçe veriler istihracını bloklağan olasıñız.
 urlbar-midi-blocked =
     .tooltiptext = Bu sayt içün MİDİ irişimini bloklağan olasıñız.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu saifeimini tarir et ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -162,7 +159,6 @@ search-one-offs-change-settings-button =
     .label = Qıdırma Ayarlarını Deñiştir
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qıdırma ayarlarını deñiştir
-
 search-one-offs-context-open-new-tab =
     .label = Yañı İlmekte Qıdır
     .accesskey = l
@@ -177,15 +173,14 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Saqlağanda muarrirni köster
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Tamam
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -257,22 +252,34 @@ popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ epi
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Qıdırıñız yaki adres kirsetiñiz
-
 urlbar-placeholder =
     .placeholder = Qıdırıñız yaki adres kirsetiñiz
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Kezici uzaqtan muraqabede
 urlbar-switch-to-tab =
     .value = İlmekke almaş:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
-
 urlbar-go-button =
     .tooltiptext = Qonum Çubuğındaki adreske bar
 urlbar-page-action-button =
     .tooltiptext = Saife amelleri
 urlbar-pocket-button =
     .tooltiptext = { -pocket-brand-name }’ke Saqla
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> şimdi tam-ekrandır
+fullscreen-warning-no-domain = Bu vesiqa şimdi tam-ekrandır
+fullscreen-exit-button = Tam-Ekrandan Çıq (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Tam-Ekrandan Çıq (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
+pointerlock-warning-no-domain = Bu vesiqa ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
