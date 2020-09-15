@@ -140,6 +140,7 @@ urlbar-go-button =
 
 ## Full Screen and Pointer Lock UI
 
+fullscreen-warning-no-domain = Yêtz ré de loo lo narú
 fullscreen-exit-button = Mb-ròɁ lô (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
