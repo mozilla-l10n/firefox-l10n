@@ -307,6 +307,20 @@ keyserver-error-unavailable = Klucowy serwer njejo k dispoziciji.
 keyserver-error-security-error = Klucowy serwer skoděrowany pśistup njepódpěra.
 keyserver-error-certificate-error = Certifikat klucowego serwera njejo płaśiwy.
 keyserver-error-unsupported = Klucowy serwer se njepódpěra.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Waš e-mailowy póbitowaŕ jo pśeźěłał wašo napšašowanje, aby waš zjawny kluc do zapisa OpenPGP-webklucow nagrał.
+    Pšosym wobkšuśćo, aby wózjawjenje swójogo zjawnego kluca dokóńcył.
+wkd-message-body-process =
+    To jo mejlka nastupajucy awtomatiske pśeźěłowanje, až se waš zjawny kluc do zapisa OpenPGP-webklucow nagrał.
+    Njetrjebaśo nic cyniś.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Powěsć z temu { $subject }
+    njedajo se dekoděrowaś.
+    Cośo z drugeju gronidłoweju frazu znowego wopytaś abo cośo powěsć pśeskócyś?
+# Strings in gpg.jsm
+unknown-signing-alg = Njeznaty signěrowański algoritmus (ID: { $id })
 expiry-open-key-properties = Klucowe kakosći wócyniś
 # Strings filters.jsm
 filter-folder-required = Wy dejśo celowy zarědnik wubraś.
