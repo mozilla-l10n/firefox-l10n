@@ -273,3 +273,11 @@ urlbar-page-action-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa vysu ekranu
 fullscreen-warning-no-domain = Itys dokuments ir pa vysu ekranu
+fullscreen-exit-button = Izīt nu pynlekrana (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Izīt nu pynlekrana (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
+pointerlock-warning-no-domain = Itys dokuments kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
