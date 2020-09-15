@@ -369,3 +369,11 @@ urlbar-page-action-button =
     .tooltiptext = 頁面操作
 urlbar-pocket-button =
     .tooltiptext = 儲存至 { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 可控制您的滑鼠游標，按 Esc 取回控制權。
+pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc 取回控制權。
