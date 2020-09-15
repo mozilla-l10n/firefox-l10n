@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Fallu d'instalación
 opensearch-error-download-title = Fallu de descarga
+opensearch-error-download-desc = { -brand-short-name } nun pudo baxase'l complementu de gueta de: { $location-url }
 
 ##
 
