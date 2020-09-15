@@ -373,3 +373,6 @@ urlbar-pocket-button =
 ## Full Screen and Pointer Lock UI
 
 fullscreen-exit-button = 退出全屏模式(Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = 退出全屏模式 (Esc)
+pointerlock-warning-no-domain = 此文档已控制您的鼠标指针。按 Esc 键可收回控制权。
