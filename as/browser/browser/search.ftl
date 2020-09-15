@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = ইনস্টলত ত্ৰুটি
+opensearch-error-duplicate-desc = { -brand-short-name } এ "{ $location-url }" ৰ পৰা সন্ধানৰ প্লাগ-ইন ইনস্টল কৰিব নোৱাৰিলে কাৰণ একেই নামৰ ইঞ্জিন ইতিমধ্যে অস্তিত্ববান।
 opensearch-error-download-title = ডাউনল'ডত ত্ৰুটি
 opensearch-error-download-desc = চিহ্নিত স্থানৰ পৰা { -brand-short-name } এ সন্ধানৰ প্লাগ-ইন ডাউনল'ড কৰিব নোৱাৰিলে: { $location-url }
 
