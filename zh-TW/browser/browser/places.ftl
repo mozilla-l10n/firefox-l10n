@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = 用新隱私視窗開啟
     .accesskey = P
-
 places-new-bookmark =
     .label = 新增書籤…
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = 新增分隔線
     .accesskey = S
-
 places-view =
     .label = 檢視
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = 依日期及網站
     .accesskey = t
-
 places-history-search =
     .placeholder = 搜尋紀錄
 places-bookmarks-search =
     .placeholder = 搜尋書籤
-
 places-delete-domain-data =
     .label = 刪除與此網站有關的記錄
     .accesskey = F
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = 屬性
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = 受管理的書籤
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = 子資料夾
