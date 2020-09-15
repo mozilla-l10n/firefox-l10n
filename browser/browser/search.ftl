@@ -9,6 +9,8 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Di Sazkirinê de Çewtî
+opensearch-error-download-title = Çewtiya Jêbarkirinê
+opensearch-error-download-desc = { -brand-short-name } nekarî ji virê plugina lêgerînê jêbar bike: { $location-url }
 
 ##
 
