@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Ynstallaasjeflater
+opensearch-error-duplicate-desc = { -brand-short-name } koe de sykynstekker net ynstallearje fan ‘{ $location-url }’, omdat in masine mei deselde namme al bestiet.
 
 ##
 
