@@ -374,6 +374,14 @@ urlbar-pocket-button =
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> se sada prikazuje preko cijelog ekrana
+fullscreen-warning-no-domain = Ovaj dokument se sada prikazuje preko cijelog ekrana
+fullscreen-exit-button = Izađi iz cjeloekranskog prikaza (esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Izađi iz cjeloekranskog prikaza (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima kontrolu nad pokazivačem. Pritisnite tipku Esc da biste preuzeli kontrolu.
 pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad pokazivačem. Pritisnite tipku Esc kako biste preuzeli kontrolu.
