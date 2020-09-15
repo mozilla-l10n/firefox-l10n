@@ -88,9 +88,86 @@ about-debugging-setup-this-firefox2 = Fer servir <a>{ about-debugging-this-firef
 about-debugging-setup-connect-heading = Connectar un dispositivo
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Activando esto se descargara y anyadira los componentes de depuración USB d'Android a { -brand-shorter-name }.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Activar dispositivos USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Desactivar dispositivos USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Esviellando...
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Activau
+about-debugging-setup-usb-status-disabled = Desactivau
+about-debugging-setup-usb-status-updating = Esviellando...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Activando lo menu de desenvolvedor en o tuyo dispositivo Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Activando la depuración USB en el menu de desenvolvedor d'Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activar la depuración USB en Firefox en el dispositivo Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Connectar lo dispositiu Android a lo tuyo ordinador.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problemas connectando a lo dispositivo USB?<a>Guía de problemas</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Plazamiento de ret
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problemas connectando via plazamiento de ret? <a>Guía de problemas</a>
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Anyadir
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = No s'ha anyadiu encara garra plazamiento de ret
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Servidor
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Eliminar
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Servidor invalido "{ $host-value }". Lo formato esperau ye "hostname:portnumber".
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Lo servidor "{ $host-value }" ya ye rechistrau
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Extensions temporals
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Extensions
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Pestanyas
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Procesos de treballo de servicio
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Procesos de treballo compartius
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Atros procesos de treballo
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Procesos
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Rendimiento de perfil
 
 # Debug Targets strings
 
