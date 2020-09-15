@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Открыть в новом приватном окне
     .accesskey = ы
-
 places-new-bookmark =
     .label = Новая закладка…
     .accesskey = з
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Новый разделитель
     .accesskey = р
-
 places-view =
     .label = Вид
     .accesskey = и
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = По дате и сайтам
     .accesskey = и
-
 places-history-search =
     .placeholder = Поиск по журналу
 places-bookmarks-search =
     .placeholder = Поиск закладок
-
 places-delete-domain-data =
     .label = Забыть об этом сайте
     .accesskey = б
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Свойства
     .accesskey = в
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Управляемые закладки
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Вложенная папка
