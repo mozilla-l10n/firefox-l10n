@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "여기를 탭 하면 플러그인을 실행합니다.">
+<!ENTITY tapToPlayPlugin                                     "여기를 누르면 플러그인을 활성화합니다.">
 <!ENTITY clickToActivatePlugin                               "플러그인을 실행합니다.">
 <!ENTITY checkForUpdates                                     "업데이트 검사 중…">
 <!ENTITY blockedPlugin.label                                 "이 플러그인은 사용자 보호를 위해 차단되었습니다.">
