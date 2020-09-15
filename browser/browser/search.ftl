@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = त्रुटि संस्थापित करू
+opensearch-error-duplicate-desc = { -brand-short-name } could not install the search plugin from "{ $location-url }" because an engine with the same name already exists.
 opensearch-error-download-title = त्रुटि डाउनलोड करू
 opensearch-error-download-desc = { -brand-short-name } could not download the search plugin from: { $location-url }
 
