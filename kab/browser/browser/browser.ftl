@@ -376,3 +376,7 @@ fullscreen-warning-no-domain = Isemli-a, atan tura deg ugdil ačuṛan
 fullscreen-exit-button = Ffeɣ seg ugdil ačuṛan (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ffeɣ seg ugdil ačuṛan (Esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> Ɣur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.
