@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Грешка во инсталација
 opensearch-error-duplicate-desc = { -brand-short-name } не може да го инсталира приклучокот од „{ $location-url }“, бидејќи веќе пости сервис со исто име.
+opensearch-error-format-title = Неважечки формат
+opensearch-error-format-desc = { -brand-short-name } не можеше да го инсталира пребарувачот од: { $location-url }
 opensearch-error-download-title = Грешка во преземање
 opensearch-error-download-desc = { -brand-short-name } не може да го преземе приклучокот од: { $location-url }
 
