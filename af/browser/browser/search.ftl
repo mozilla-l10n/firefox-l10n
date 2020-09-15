@@ -9,6 +9,9 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Installeerfout
+opensearch-error-duplicate-desc = { -brand-short-name } kon nie die soekinprop vanaf "{ $location-url }" installeer nie omdat 'n enjin met dieselfde naam reeds bestaan.
+opensearch-error-format-title = Ongeldige formaat
+opensearch-error-format-desc = { -brand-short-name } kon nie die soekenjin installeer vanaf { $location-url } nie
 opensearch-error-download-title = Aflaaifout
 opensearch-error-download-desc = { -brand-short-name } kon nie die soekinprop aflaai nie vanaf: { $location-url }
 
