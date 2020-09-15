@@ -8,6 +8,7 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
+opensearch-error-duplicate-title = تنصیب میں غلطی
 opensearch-error-download-title = ڈاؤن لوڈ نقص
 
 ##
