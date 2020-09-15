@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Huliðsstilling)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Huliðsstilling)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Huliðsstilling)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Huliðsstilling)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -103,6 +101,7 @@ urlbar-search-tips-onboard = Minni innsláttur, finna meira: Leitaðu með { $en
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -127,12 +126,10 @@ urlbar-midi-blocked =
     .tooltiptext = Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.
 urlbar-install-blocked =
     .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Breyta bókamerki ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -164,7 +161,6 @@ search-one-offs-change-settings-button =
     .label = Breyta leitarstillingum
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Breyta leitarstillingum
-
 search-one-offs-context-open-new-tab =
     .label = Leita og birta í nýjum flipa
     .accesskey = f
@@ -179,15 +175,14 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Sýna ritil þegar vistað er
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Ljúka
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -260,22 +255,34 @@ popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Leita eða sláðu inn veffang
-
 urlbar-placeholder =
     .placeholder = Leita eða sláðu inn veffang
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Vafri er á fjarstýringu
 urlbar-switch-to-tab =
     .value = Fara á flipa:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Skráarending:
-
 urlbar-go-button =
     .tooltiptext = Hoppa á tengilinn sem er í staðsetningarslánni
 urlbar-page-action-button =
     .tooltiptext = Síðu aðgerðir
 urlbar-pocket-button =
     .tooltiptext = Vista í { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> er með fylltan skjá
+fullscreen-warning-no-domain = Þetta skjal er nú á fylltum skjá
+fullscreen-exit-button = Hætta í fullum skjá (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Hætta í fullum skjá (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> hefur stjórn á bendi. Ýttu á Esc til að taka aftur yfir stjórn.
+pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýttu á Esc til að taka aftur yfir stjórn.
