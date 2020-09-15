@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Ralat Pemasangan
 opensearch-error-duplicate-desc = { -brand-short-name } tidak dapat memasang plugin dikehendaki dari "{ $location-url }" kerana enjin yang bernama sama telah wujud.
+opensearch-error-format-title = Format Tidak Sah
+opensearch-error-format-desc = { -brand-short-name } tidak dapat memasang enjin carian daripada: { $location-url }
 opensearch-error-download-title = Ralat Memuat Turun
 opensearch-error-download-desc = { -brand-short-name } tidak dapat muat turun plugin yang dikehendaki dari: { $location-url }
 
