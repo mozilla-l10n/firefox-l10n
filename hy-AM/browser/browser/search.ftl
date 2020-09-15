@@ -8,7 +8,9 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
+opensearch-error-duplicate-title = Տեղադրման սխալ
 opensearch-error-download-title = Բեռնման Սխալ
+opensearch-error-download-desc = { -brand-short-name }-ը չկարողացավ բեռնել որոնման բաղադրիչը { $location-url }-ից
 
 ##
 
