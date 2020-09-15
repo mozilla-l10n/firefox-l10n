@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (একান্ত ব্রাউজিং)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (একান্ত ব্রাউজিং)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (একান্ত ব্রাউজিং)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (একান্ত ব্রাউজিং)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -103,6 +101,7 @@ urlbar-search-tips-onboard = কম লিখে, বেশি অনুসন�
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -125,12 +124,10 @@ urlbar-canvas-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন অবরোধ করেছেন।
 urlbar-midi-blocked =
     .tooltiptext = আপনি সাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই বুকমার্কটি সম্পাদনা ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -162,7 +159,6 @@ search-one-offs-change-settings-button =
     .label = অনুসন্ধান সেটিং বদল করুন
 search-one-offs-change-settings-compact-button =
     .tooltiptext = অনুসন্ধান সেটিংস পরিবর্তন করুন
-
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবে অনুসন্ধান T
     .accesskey = T
@@ -177,15 +173,14 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় সম্পাদক দেখাও
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = সম্পন্ন
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -257,22 +252,26 @@ popup-all-windows-shared = আপনার স্ক্রিনের সব �
 
 urlbar-default-placeholder =
     .defaultPlaceholder = অনুসন্ধান বা ঠিকানা দিন
-
 urlbar-placeholder =
     .placeholder = অনুসন্ধান বা ঠিকানা দিন
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্রাউজার রিমোর্ট কন্ট্রোলের আওতায়
 urlbar-switch-to-tab =
     .value = ট্যাবে যান:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
-
 urlbar-go-button =
     .tooltiptext = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-page-action-button =
     .tooltiptext = পাতা পদক্ষেপ
 urlbar-pocket-button =
     .tooltiptext = { -pocket-brand-name } এ সংরক্ষণ করুন
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = এই ডকুমেন্ট এখন পূর্ণ পর্দায় রয়েছে
+fullscreen-exit-button = পূর্ণ পর্দা বন্ধ করুন (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = পূর্ণ পর্দা বন্ধ করুন (esc)
+pointerlock-warning-no-domain = এই নথিতে পয়েন্টারের নিয়ন্ত্রণ রয়েছে। পুনরায় নিয়ন্ত্রণ নিতে Esc চাপুন।
