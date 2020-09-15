@@ -330,6 +330,10 @@ urlbar-pocket-button =
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> – hozir butun ekranda
 fullscreen-warning-no-domain = Bu hujjat hozir butun ekranda ko‘rinmoqda
 fullscreen-exit-button = "Butun ekranda" usulidan chiqish (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
