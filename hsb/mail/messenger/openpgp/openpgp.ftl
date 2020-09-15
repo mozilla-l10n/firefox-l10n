@@ -331,7 +331,7 @@ expiry-keys-expire-soon =
     Poručamy, zo nowe kluče wutworjeće a wotpowědne konta konfigurować, zo byšće je wužiwał.
 expiry-key-missing-owner-trust =
     Waš tajny kluč { $desc } dowěry hódny njeje.
-    Poručamy, zo w klučowych kajkosćach „Spušćeće na certifikacijach“ na „doskónčny“ stajeće.
+    Poručamy, zo w klučowych kajkosćach „Spušćeće so na certifikacije“ na „doskónčny“ stajeće.
 expiry-keys-missing-owner-trust =
     Slědowacy z wašich tajnych klučow dowěry hódny njeje.
     { $desc }.
