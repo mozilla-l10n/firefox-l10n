@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Oʻrnatishda xato
+opensearch-error-duplicate-desc = { -brand-short-name } "{ $location-url }"dan izlash plaginini yuklab ololmadi, chunki xuddi shu nomli plagin allaqachon mavjud.
 opensearch-error-download-title = Yuklab olishda xato
 opensearch-error-download-desc = { -brand-short-name } izlash plaginini bu yerdan yuklab ololmadi: { $location-url }
 
