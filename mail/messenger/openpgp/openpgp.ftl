@@ -395,11 +395,22 @@ save-keys-ok = Kluce su se wuspěšnje składli
 save-keys-failed = Składowanje klucow njejo se raźiło
 default-pub-key-filename = Eksportěrowane-zjawne-kluce
 default-pub-sec-key-filename = Zawěsćenje-pótajmnych-klucow
+refresh-key-warn = Warnowanje: We wótwisnosći wót licby klucow a zwiskoweje malsnosći mógło aktualizěrowanje wšych klucow kradu dlijucy proces byś!
+preview-failed = Dataja zjawnego kluca njedajo se cytaś.
 general-error = Zmólka: { $reason }
 dlg-button-delete = &Lašowaś
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Zjawny kluc jo se wuspěšnje eksportěrował!</b>
+openpgp-export-public-fail = <b>Njejo móžno, wubrany zjawny kluc eksportěrowaś!</b>
+openpgp-export-secret-success = <b>Pótajmny kluc jo se wuspěšnje eksportěrował!</b>
+openpgp-export-secret-fail = <b>Njejo móžno, wubrany pótajmny kluc eksportěrowaś!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Kluc { $userId } (klucowy ID { $keyId }) jo se wótwołał.
+key-ring-pub-key-expired = Klcč { $userId } (klucowy ID { $keyId }) jo spadnuł.
+key-ring-key-disabled = Kluc { $userId } (klucowy ID { $keyId }) jo znjemóžnjony; njedajo se wužywaś.
+key-ring-key-invalid = Kluc { $userId } (klucowy ID { $keyId }) njejo płaśiwy. Pšosym pśeglědajśo, lěc wón jo korektny.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Wužywaŕski atribut (JPEG-wobraz)
