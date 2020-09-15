@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Eroare de instalare
 opensearch-error-duplicate-desc = { -brand-short-name } nu a putut instala pluginul de căutare de la „{ $location-url }” pentru că un motor de căutare cu același nume există deja.
+opensearch-error-format-title = Format nevalid
 opensearch-error-format-desc = { -brand-short-name } nu a reușit instalarea motorului de căutare de la: { $location-url }
 opensearch-error-download-title = Eroare de descărcare
 opensearch-error-download-desc = { -brand-short-name } nu a putut descărca pluginul de căutare de la: { $location-url }
