@@ -4,7 +4,6 @@
 
 page-title = Տեղեկատուութիւն խնդիրների լուծման համար
 page-subtitle = Այս էջը պարունակում է տեխնիկական ինֆորմացիայ, որը կարող է աւգտակար լինել, երբ դուք փորձում եք լուծել խնդիրը:Եթե դուք փնտրում եք { -brand-short-name }-ին վերաբերող ընդհանուր հարցերին պատասխաններ,փորձէք մեր <a data-l10n-name="support-link"> աջակցող կայքը </a>:
-
 crashes-title = Վթարի զեկոյցներ
 crashes-id = Զեկոյցի նոյնացուցիչ
 crashes-send-date = Ուղարկուած է
@@ -174,7 +173,6 @@ report-crash-for-days =
         [one] Վթարի մասին հաշուետուութիիւններ վերջին { $days } աւրում
        *[other] Վթարի զեկոյցները վերջին { $days } աւրում
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -182,7 +180,6 @@ crashes-time-minutes =
         [one] { $minutes } րոպե առաջ
        *[other] { $minutes } րոպե առաջ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -190,7 +187,6 @@ crashes-time-hours =
         [one] { $hours } ժամ առաջ
        *[other] { $hours } ժամ առաջ
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -198,7 +194,6 @@ crashes-time-days =
         [one] { $days } աւր առաջ
        *[other] { $days } աւր առաջ
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -206,24 +201,21 @@ pending-reports =
         [one] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթար)
        *[other] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթարներ)
     }
-
 raw-data-copied = Չմշակուած տուեալները պատճենուել են սեղմատախտակի վրայ
 text-copied = Գրոյթը պատճենուած է սեղմատախտակի վրայ
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Արգելուած է տեսասարքի սարքաւարի տարբերակի կողմից։
-blocked-gfx-card = Արգելուած է տեսաքարտի կողմից՝ անյայտ պատճառով։
+blocked-gfx-card = Արգելափակուած ձեր գծապատկերային քարտի համար սարքի չլուծուած խնդրի պատճառով։
 blocked-os-version = Կասեցուած է Ձեր գործաւար համակարգի տարբերակի համար:
 blocked-mismatched-version = Արգելափակուած է ձեր գրաֆիկայի սարքաւարի տարբերակի՝ գրանցատեղիի եւ DLL-ի միջեւ բաց պատճառով:
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Արգելուած է տեսասարքի սարքաւարի տարբերակի կողմից։ Փորձէք թարմացնել տեսաքարտի տարբերակը { $driverVersion }-ի կամ ավելի նորի։
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-ի հարաչափեր
-
 compositing = Կազմում
 hardware-h264 = Սարքաշարի H264 ապակոդաւորում
 main-thread-no-omtc = հիմնական շղթա, ոչ OMTC
@@ -238,7 +230,6 @@ virtual-monitor-disp = Իրական ցուցասարքի ցուցադրում
 
 found = Գտնուել է
 missing = Բացակայում է
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Նկարագրութիւն
@@ -262,21 +253,17 @@ webgl2-version = WebGL 2 սարքաւարի տարբերակ
 webgl2-driver-extensions = WebGL 2 սարքաւարի ընդլայնումներ
 webgl2-extensions = WebGL 2 ընդլայնումներ
 blocklisted-bug = Սեւ ցուցակում՝ յայտնի խնդիրների պատճառով
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = խնդիր { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Արգելափակուած, ձախողուած կոդ՝ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 կազմակերպիչ
 d3d11video-crash-guard = D3D11 տեսանիւթի ապակոդաւորիչ
 d3d9video-crash-guard = D3D9 տեսանիւթի ապակոդաւորիչ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX  տեսանիւթի ապակոդաւորիչ
-
 reset-on-next-restart = Վերակայել յաջորդ վերամեկնարկումից յետոյ
 gpu-process-kill-button = Աւարտել GPU գործընթացը
 gpu-device-reset = Սարքի վերականգնում
@@ -286,10 +273,8 @@ content-uses-tiling = Կցաշարման աւգտագործման (Բովանդ�
 off-main-thread-paint-enabled = Հիմնական շղթայից դուրս գծագրումը թոյլատրուած է
 off-main-thread-paint-worker-count = Հիմնական շղթայից դուրս Գծագրման աշխատողների թիւը
 target-frame-rate = Թիրախային կադրի արագութիւն
-
 min-lib-versions = Ակնկալուող նուազագոյն տարբերակը
 loaded-lib-versions = Աւգտագործւող տարբերակը
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp շղթայի համաժամեցում
 has-user-namespaces = Աւգտագործողի անուանատարածքում
@@ -302,18 +287,15 @@ sandbox-proc-type-content = բովանդակութիւն
 sandbox-proc-type-file = Նիշքի բովանդակութիւն
 sandbox-proc-type-media-plugin = Տեսաբաղադրիչ
 sandbox-proc-type-data-decoder = Տուեալների վերծանիչ
-
 startup-cache-title = Գործարկման հիշապահեստ
 startup-cache-disk-cache-path = Պնակի հիշապահեստի ուղի
 startup-cache-ignore-disk-cache = Անտեսել հիշապահեստի պնակը
 startup-cache-found-disk-cache-on-init = Նույնականացման ընթացքում սկաւառակի հիշապահեստը յայտնաբերուել է
 startup-cache-wrote-to-disk-cache = Գրել սկաւառակի հիշապահեստին
-
 launcher-process-status-0 = Միացուած
 launcher-process-status-1 = Անջատուած է ձախողման պատճառով
 launcher-process-status-2 = Ստիպողաբար անջատուած
 launcher-process-status-unknown = Անյայտ վիճակ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -326,7 +308,6 @@ multi-process-status-6 = Անջատուած է չաջակցուած գրոյթի
 multi-process-status-7 = Անջատուած է յաւելումների կողմից
 multi-process-status-8 = Ստիպողաբար անջատուած
 multi-process-status-unknown = Անյայտ վիճակ
-
 async-pan-zoom = Չհամաժամուած շեղում/Դիտափոխում
 apz-none = չկայ
 wheel-enabled = ղեկասարքային ներմուծումը միացուած է

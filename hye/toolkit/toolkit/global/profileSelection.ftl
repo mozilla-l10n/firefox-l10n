@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name }­-ը պահում է Ձեր 
 profile-manager-work-offline =
     .label = Աշխատել ցանցից դուրս
     .accesskey = Ա
+profile-manager-use-selected =
+    .label = Աւգտագործէք ընտրուած հաշիւը մեկնարկման ժամանակ
+    .accesskey = ը
