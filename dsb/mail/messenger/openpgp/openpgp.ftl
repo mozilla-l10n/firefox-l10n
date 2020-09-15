@@ -340,6 +340,11 @@ expiry-open-key-manager = Zastojnik OpenPGP-klucow wócyniś
 expiry-open-key-properties = Klucowe kakosći wócyniś
 # Strings filters.jsm
 filter-folder-required = Wy dejśo celowy zarědnik wubraś.
+filter-decrypt-move-warn-experimental =
+    Warnowanje - filtrowańska akcija „na pśecej dešifrěrowaś“ mógła k zničenym powěsćam wjesć.
+    Poručam wuraznje, až nejpjerwjej filter „Dešifrěrowanu kopiju napóraś“ wopytujośo, wuslědk kradosćiwje testujośo a jano zachopinaśo, toś ten filter wužywaś, gaž sćo spokojom z wuslědkom.
+filter-term-pgpencrypted-label = Z OpenPGP skoděrowany
+filter-key-required = Musyśo kluc dostawarja wubraś.
 import-info-bits = Bity
 import-info-created = Napórany
 import-info-fpr = Palcowy wótśišć
