@@ -9,6 +9,9 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Asennusvirhe
+opensearch-error-duplicate-desc = { -brand-short-name } ei onnistunut asentamaan hakukonetta osoitteesta "{ $location-url }", koska samanniminen hakukone on jo asennettu.
+opensearch-error-format-title = Virheellinen muoto
+opensearch-error-format-desc = { -brand-short-name } ei voinut asentaa hakukonetta osoitteesta: { $location-url }
 opensearch-error-download-title = Latausvirhe
 opensearch-error-download-desc = { -brand-short-name } ei onnistunut lataamaan hakukonetta osoitteesta: { $location-url }
 
