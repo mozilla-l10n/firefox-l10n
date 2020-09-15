@@ -345,9 +345,25 @@ filter-decrypt-move-warn-experimental =
     Poručam wuraznje, až nejpjerwjej filter „Dešifrěrowanu kopiju napóraś“ wopytujośo, wuslědk kradosćiwje testujośo a jano zachopinaśo, toś ten filter wužywaś, gaž sćo spokojom z wuslědkom.
 filter-term-pgpencrypted-label = Z OpenPGP skoděrowany
 filter-key-required = Musyśo kluc dostawarja wubraś.
+filter-key-not-found = Koděrowański kluc za ‚{ $desc }‘ njedajo se namakaś.
+filter-warn-key-not-secret =
+    Warnowanje - filtrowańska akcija „Z klucom koděrowaś“ dostawarja wuměnja.
+    Jolic pótajmny kluc za ‚{ $desc }‘ njamaśo, njamóžośo wěcej mejlki cytaś.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Na pśecej dešifrěrowaś (OpenPGP)
+filter-decrypt-copy-label = Dešifrěrowanu kopiju napóraś (OpenPGP)
+filter-encrypt-label = Z klucom koděrowaś (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Wuspěch! Kluce su se importěrowali
 import-info-bits = Bity
 import-info-created = Napórany
 import-info-fpr = Palcowy wótśišć
+import-info-details = Drobnostki pokazaś a klucowu akceptancu zastojaś
+import-info-no-keys = Žedne kluce importěrowane.
+# Strings in enigmailKeyManager.js
+import-from-clip = Cośo kluce z mjazywótkłada importěrowaś?
+import-from-url = Zjawny kluc z toś togo URL ześěgnuś:
 key-man-loading-keys = Kluce se zacytuju, pšosym cakajśo…
 export-to-file = Zjawny kluc do dataje eksportěrowaś
 general-error = Zmólka: { $reason }
