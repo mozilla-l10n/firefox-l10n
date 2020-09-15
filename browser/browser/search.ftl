@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Помилка встановлення
 opensearch-error-duplicate-desc = { -brand-short-name } не зміг встановити засіб пошуку з „{ $location-url }“ бо засіб з таким ім’ям вже існує.
+opensearch-error-format-title = Некоректний формат
+opensearch-error-format-desc = { -brand-short-name } не зміг встановити пошукову систему з: { $location-url }
 opensearch-error-download-title = Помилка завантаження
 opensearch-error-download-desc = { -brand-short-name } не зміг завантажити засіб пошуку з: { $location-url }
 
