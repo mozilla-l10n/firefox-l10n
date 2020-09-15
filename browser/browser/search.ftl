@@ -8,6 +8,7 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
+opensearch-error-duplicate-desc = { -brand-short-name } không thể cài đặt phần bổ trợ tìm kiếm từ "{ $location-url }" bởi vì một máy tìm kiếm cùng tên đã tồn tại.
 opensearch-error-download-desc = { -brand-short-name } không thể tải xuống phần bổ trợ tìm kiếm từ: { $location-url }
 
 ##
