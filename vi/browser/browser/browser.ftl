@@ -369,3 +369,14 @@ urlbar-page-action-button =
     .tooltiptext = Hành động trên trang
 urlbar-pocket-button =
     .tooltiptext = Lưu vào { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-exit-button = Thoát toàn màn hình (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Thoát toàn màn hình (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> có quyền điều khiển con trỏ của bạn. Ấn Esc để lấy lại quyền điều khiển.
+pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ của bạn. Ấn Esc để lấy lại quyền điều khiển.
