@@ -369,3 +369,19 @@ urlbar-page-action-button =
     .tooltiptext = Действия на странице
 urlbar-pocket-button =
     .tooltiptext = Сохранить в { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> теперь находится в полноэкранном режиме
+fullscreen-warning-no-domain = Этот документ теперь находится в полноэкранном режиме
+fullscreen-exit-button = Выйти из полноэкранного режима (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Выйти из полноэкранного режима (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.
+pointerlock-warning-no-domain = Этот документ контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.
