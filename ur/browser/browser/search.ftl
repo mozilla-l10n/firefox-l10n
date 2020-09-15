@@ -9,7 +9,9 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = تنصیب میں غلطی
+opensearch-error-duplicate-desc = { -brand-short-name } تلاش کے پلگ ان کی تنصیب "{ $location-url }" سے نہیں کرپایا کیونکہ اس نام کا سرچ انجن پہلے سے موجود ہے۔
 opensearch-error-download-title = ڈاؤن لوڈ نقص
+opensearch-error-download-desc = { -brand-short-name } تلاش پلگ ان سے ڈاؤن لوڈ نہیں کرسکتا: { $location-url }
 
 ##
 
