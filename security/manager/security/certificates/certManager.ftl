@@ -18,6 +18,7 @@ certmgr-mine = Maće certifikaty wot tutych organizacijow, kotrež was identifik
 certmgr-remembered = Tute certifikaty so wužiwaja, zo bychu was na websydłach identifikowali.
 certmgr-people = Maće certifikaty wo dataji, kotrež tutych ludźi identifikuja
 certmgr-servers = Maće certifikaty wo dataji, kotrež tute serwery identifikuja
+certmgr-server = Tute zapiski zmylkowe wuwzaća serweroweho certifikata identifikuja
 certmgr-ca = Maće certifikaty wo dataji, kotrež tute certifikatowe awtority identifikuja
 certmgr-detail-general-tab-title =
     .label = Powšitkowny
