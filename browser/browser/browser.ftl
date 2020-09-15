@@ -317,6 +317,9 @@ urlbar-pocket-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> на цял екран
 fullscreen-warning-no-domain = Сега документът е на цял екран
+fullscreen-exit-button = Излизане от цял екран (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Излизане от цял екран (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
