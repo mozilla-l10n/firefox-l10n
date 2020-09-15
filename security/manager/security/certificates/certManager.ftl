@@ -18,6 +18,7 @@ certmgr-mine = Tienes certificados de estas organizaciones que te identifican
 certmgr-remembered = Estos certificados son usados para identificarte ante sitios web
 certmgr-people = Tienes certificados en archivo que identifican a estas personas
 certmgr-servers = Tienes certificados en archivo que identifican estos servidores
+certmgr-server = Estas entradas identifican las excepciones de error de certificados del servidor
 certmgr-ca = Tienes certificados en archivo que identifican estas autoridades de certificados
 certmgr-detail-general-tab-title =
     .label = General
