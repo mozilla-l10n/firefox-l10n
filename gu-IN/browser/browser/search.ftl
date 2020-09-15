@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = સ્થાપન ભૂલ
 opensearch-error-duplicate-desc = { -brand-short-name } એ શોધ પ્લગઈનને “{ $location-url }” માંથી સ્થાપિત કરી શક્યું નહિં કારણ કે એ જ નામવાળું યંત્ર પહેલાથી જ હાજર છે.
+opensearch-error-format-title = અમાન્ય ફોર્મેટ
 opensearch-error-download-title = ડાઉનલોડ ભૂલ
 opensearch-error-download-desc = { -brand-short-name } શોધ પ્લગઈનને અહીંથી ડાઉનલોડ કરી શક્યું નહિં: { $location-url }
 
