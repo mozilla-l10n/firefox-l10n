@@ -369,3 +369,11 @@ urlbar-page-action-button =
     .tooltiptext = Interakcje
 urlbar-pocket-button =
     .tooltiptext = Wyślij do { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.
+pointerlock-warning-no-domain = Dokument kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.
