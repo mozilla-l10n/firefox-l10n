@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Kesalahan Pemasangan
+opensearch-error-duplicate-desc = { -brand-short-name } tidak dapat memasang plugin pencarian dari "{ $location-url }" karena mesin pencari dengan nama yang sama telah ada sebelumnya.
 opensearch-error-download-title = Kesalahan Unduhan
 opensearch-error-download-desc = { -brand-short-name } tidak dapat mengunduh plugin pencarian dari: { $location-url }
 
