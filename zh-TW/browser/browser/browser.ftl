@@ -374,6 +374,14 @@ urlbar-pocket-button =
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 已進入全螢幕模式
+fullscreen-warning-no-domain = 此文件已進入全螢幕模式
+fullscreen-exit-button = 離開全螢幕模式（Esc）
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = 離開全螢幕模式（Esc）
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 可控制您的滑鼠游標，按 Esc 取回控制權。
 pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc 取回控制權。
