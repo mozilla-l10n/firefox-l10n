@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउज़िंग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउज़िंग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -78,13 +76,13 @@ urlbar-web-rtc-share-devices-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ई पुस्तकचिह्न संपादित करू ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -108,7 +106,6 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = खोज सेटिंग्स बदलू
-
 search-one-offs-context-open-new-tab =
     .label = नव टैब मे खोजू
     .accesskey = T
@@ -122,6 +119,7 @@ search-one-offs-context-set-as-default =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -183,12 +181,20 @@ popup-all-windows-shared = अहाँक स्क्रीन पर सभ �
 
 urlbar-default-placeholder =
     .defaultPlaceholder = खोजू अथवा पता दर्ज करू
-
 urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
-
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
-
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पतामे जाउ
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> आब पूर्ण पटल अछि
+fullscreen-warning-no-domain = इ दस्तावेज आब पूर्ण पटल अछि
+fullscreen-exit-button = पूर्ण पटल स बाहर आउ
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = पूर्ण पटल स बाहर आउ (esc)
