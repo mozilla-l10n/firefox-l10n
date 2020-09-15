@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Installation mislykkedes
 opensearch-error-duplicate-desc = { -brand-short-name } kunne ikke installere søgetjenesten fra "{ $location-url }" da en søgetjeneste med samme navn allerede er installeret.
+opensearch-error-format-title = Ugyldigt format
+opensearch-error-format-desc = { -brand-short-name } kunne ikke installere søgetjenesten fra: { $location-url }
 opensearch-error-download-desc = { -brand-short-name } kunne ikke hente søgetjenesten fra: { $location-url }
 
 ##
