@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Gwall Gosod
+opensearch-error-download-title = Gwall llwytho i lawr
 
 ##
 
