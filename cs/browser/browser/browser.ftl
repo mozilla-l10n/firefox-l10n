@@ -393,3 +393,9 @@ urlbar-page-action-button =
     .tooltiptext = Akce stránky
 urlbar-pocket-button =
     .tooltiptext = Uloží do { -pocket-brand-name(case: "gen") }
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-exit-button = Ukončit režim celé obrazovky (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Ukončit režim celé obrazovky (esc)
