@@ -9,7 +9,9 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Error d'installacion
+opensearch-error-duplicate-desc = { -brand-short-name } a pas pogut installar lo modul de recèrca dins de « { $location-url } » per çò que un motor del meteis nom existís ja.
 opensearch-error-format-title = Format incorrècte
+opensearch-error-format-desc = { -brand-short-name } a pas pogut installar lo motor de recèrca dins de : { $location-url }
 opensearch-error-download-title = Error de telecargament
 
 ##
