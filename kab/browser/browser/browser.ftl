@@ -372,6 +372,7 @@ urlbar-pocket-button =
 
 ## Full Screen and Pointer Lock UI
 
+fullscreen-warning-no-domain = Isemli-a, atan tura deg ugdil ačuṛan
 fullscreen-exit-button = Ffeɣ seg ugdil ačuṛan (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ffeɣ seg ugdil ačuṛan (Esc)
