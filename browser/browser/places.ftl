@@ -65,4 +65,4 @@ managed-bookmarks =
     .label = Marcapaginas constrenches
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
-    .label = Jos dossièr
+    .label = Sosdossièr
