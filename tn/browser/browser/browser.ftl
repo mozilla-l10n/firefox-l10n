@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Patlo ya Poraefete)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Patlo ya Poraefete)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Patlo ya Poraefete)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Patlo ya Poraefete)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -76,13 +74,13 @@ urlbar-web-rtc-share-devices-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tseleganya letshwaotsebe le ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -113,6 +111,7 @@ search-one-offs-change-settings-button =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -172,12 +171,16 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Batla kgotsa tsenya aterese
-
 urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
-
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
-
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = Tokumente e, e mo sekerini se se tletseng
+fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
