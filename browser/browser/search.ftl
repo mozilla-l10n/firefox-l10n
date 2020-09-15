@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Gwall Gosod
 opensearch-error-download-title = Gwall llwytho i lawr
+opensearch-error-download-desc = Methodd { -brand-short-name } â llwytho i lawr yr ategyn chwilio o: { $location-url }
 
 ##
 
