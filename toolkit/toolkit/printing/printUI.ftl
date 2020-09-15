@@ -48,7 +48,6 @@ printui-paper-size-label = Dimensioni carta
 
 # Section title (noun) for the print scaling options
 printui-scale = Ridimensionamento
-printui-scale-fit-to-page = Adatta alla pagina
 printui-scale-fit-to-page-width = Adatta alla larghezza della pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Ridimensiona
