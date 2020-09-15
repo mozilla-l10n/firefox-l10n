@@ -372,6 +372,9 @@ urlbar-pocket-button =
 
 ## Full Screen and Pointer Lock UI
 
+fullscreen-exit-button = ออกจากภาพเต็มหน้าจอ (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = ออกจากภาพเต็มหน้าจอ (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
