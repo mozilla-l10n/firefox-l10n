@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Installationsfel
+opensearch-error-duplicate-desc = { -brand-short-name } kunde inte installera sökmodulen från “{ $location-url }” eftersom det redan finns en sökmotor med samma namn.
 opensearch-error-download-title = Hämtningsfel
 opensearch-error-download-desc = { -brand-short-name } kunde inte hämta sökmodulen från: { $location-url }
 
