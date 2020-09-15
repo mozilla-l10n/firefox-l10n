@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Kesalahan Pemasangan
 opensearch-error-duplicate-desc = { -brand-short-name } tidak dapat memasang plugin pencarian dari "{ $location-url }" karena mesin pencari dengan nama yang sama telah ada sebelumnya.
+opensearch-error-format-title = Format Tidak Valid
+opensearch-error-format-desc = { -brand-short-name } tidak dapat memasang mesin pencari dari: { $location-url }
 opensearch-error-download-title = Kesalahan Unduhan
 opensearch-error-download-desc = { -brand-short-name } tidak dapat mengunduh plugin pencarian dari: { $location-url }
 
