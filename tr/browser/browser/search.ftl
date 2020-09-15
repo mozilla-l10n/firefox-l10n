@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Kurma hatası
 opensearch-error-download-title = İndirme hatası
+opensearch-error-download-desc = { -brand-short-name }, arama yan uygulamasını bu kaynaktan indiremedi: { $location-url }
 
 ##
 
