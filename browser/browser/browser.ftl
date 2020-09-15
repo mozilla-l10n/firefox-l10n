@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privātā pārlūkošana)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privātā pārlūkošana)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privātā pārlūkošana)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privātā pārlūkošana)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -101,6 +99,7 @@ urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { 
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -123,12 +122,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Šīs lapas canvas datu ieguve ir bloķēta.
 urlbar-midi-blocked =
     .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -160,7 +157,6 @@ search-one-offs-change-settings-button =
     .label = Mainīt meklēšanas iestatījumus
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Mainīt meklēšanas iestatījumus
-
 search-one-offs-context-open-new-tab =
     .label = Meklēt jaunā cilnē
     .accesskey = c
@@ -175,15 +171,14 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Rādīt redaktoru, saglabājot
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Gatavs
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -255,20 +250,27 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
-
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Pārlūks tiek attālināti kontrolēts
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplašinājums:
-
 urlbar-go-button =
     .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
 urlbar-page-action-button =
     .tooltiptext = Lapas darbības
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa visu ekrānu
+fullscreen-warning-no-domain = Šis dokuments ir pa visu ekrānu
+fullscreen-exit-button = Iziet no pilnā ekrāna (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
