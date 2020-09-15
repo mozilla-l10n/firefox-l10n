@@ -369,3 +369,19 @@ urlbar-page-action-button =
     .tooltiptext = Tinklalapio veiksmai
 urlbar-pocket-button =
     .tooltiptext = Įrašyti į „{ -pocket-brand-name }“
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> dabar yra visame ekrane
+fullscreen-warning-no-domain = Šis dokumentas dabar yra visame ekrane
+fullscreen-exit-button = Grįžti iš viso ekrano (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Grįžti iš viso ekrano (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.
+pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.
