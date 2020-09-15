@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Kurma hatası
 opensearch-error-duplicate-desc = { -brand-short-name }, "{ $location-url }" kaynağındaki arama yan uygulamasını kuramadı, çünkü zaten aynı isme sahip bir arama motoru var.
+opensearch-error-format-title = Geçersiz biçim
+opensearch-error-format-desc = { -brand-short-name } { $location-url } konumundaki arama motorunu yükleyemedi
 opensearch-error-download-title = İndirme hatası
 opensearch-error-download-desc = { -brand-short-name }, arama yan uygulamasını bu kaynaktan indiremedi: { $location-url }
 
