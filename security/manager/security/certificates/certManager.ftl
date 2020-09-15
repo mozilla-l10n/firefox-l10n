@@ -165,6 +165,7 @@ delete-ssl-cert-impact = 만약 서버 예외를 삭제하면, 해당 서버에 
 delete-ssl-override-title =
     .title = 서버 인증서 예외 삭제
 delete-ssl-override-confirm = 다음 서버 예외를 삭제하시겠습니까?
+delete-ssl-override-impact = 만약 서버 예외를 삭제하면, 해당 서버에 대한 일반적인 보안 확인을 복원하고 유효한 인증서 사용을 요구하게 됩니다.
 delete-ca-cert-title =
     .title = CA 인증서 삭제 또는 신뢰 안 함
 delete-ca-cert-confirm = CA 인증서 삭제를 요청하셨습니다. 기본 제공 인증서의 경우 모든 신뢰가 제거되며 동일한 효과가 있습니다. 삭제 또는 신뢰 안 함으로 하시겠습니까?
