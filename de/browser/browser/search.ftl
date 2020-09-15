@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Installations-Fehler
 opensearch-error-duplicate-desc = { -brand-short-name } konnte die Suchmaschine von "{ $location-url }" nicht herunterladen, da bereits eine Suchmaschine mit demselben Namen existiert.
+opensearch-error-format-title = Ungültiges Format
+opensearch-error-format-desc = { -brand-short-name } konnte die Suchmaschine unter { $location-url } nicht installieren.
 opensearch-error-download-title = Download-Fehler
 opensearch-error-download-desc = { -brand-short-name } konnte die Suchmaschine nicht herunterladen von: { $location-url }
 
