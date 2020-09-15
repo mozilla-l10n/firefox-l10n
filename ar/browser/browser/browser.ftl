@@ -369,3 +369,15 @@ urlbar-page-action-button =
     .tooltiptext = إجراءات الصفحة
 urlbar-pocket-button =
     .tooltiptext = احفظ في { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = يملأ هذا المستند الشاشة الآن
+fullscreen-exit-button = غادر ملء الشاشة (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = غادر ملء الشاشة (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = يتحكم <span data-l10n-name="domain">{ $domain }</span> في مؤشرك. اضغط Esc لتستعيد التحكم.
+pointerlock-warning-no-domain = يتحكم هذا المستند في مؤشرك. اضغط Esc لتستعيد التحكم.
