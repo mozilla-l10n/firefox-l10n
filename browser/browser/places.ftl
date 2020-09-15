@@ -60,6 +60,9 @@ places-sortby-name =
 places-properties =
     .label = 属性
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = 受控书签
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = 子文件夹
