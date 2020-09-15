@@ -380,3 +380,8 @@ fullscreen-warning-no-domain = Este documento está agora en pantalla completa
 fullscreen-exit-button = Saír de pantalla completa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Saír de pantalla completa (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ten o control do punteiro. Prema Esc para recuperar o control.
+pointerlock-warning-no-domain = Este documento ten o control do punteiro. Prema Esc para recuperar o control.
