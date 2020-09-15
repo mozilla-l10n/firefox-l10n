@@ -369,3 +369,19 @@ urlbar-page-action-button =
     .tooltiptext = Akcyje strōny
 urlbar-pocket-button =
     .tooltiptext = Spamiyntej do { -pocket-brand-name(case: "gen") }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> teroz je w trybie cołkigo ekranu
+fullscreen-warning-no-domain = Tyn dokumynt je pokozany w trybie cołkigo ekranu
+fullscreen-exit-button = Wylyź z trybu cołkigo ekranu (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Wylyź z trybu cołkigo ekranu (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.
+pointerlock-warning-no-domain = Tyn dokumynt kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.
