@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private blaaiery)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private blaaiery)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private blaaiery)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private blaaiery)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -90,6 +88,7 @@ urlbar-addons-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -102,12 +101,10 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -133,7 +130,6 @@ search-one-offs-change-settings-button =
     .label = Verander soekinstellings
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Verander soekinstellings
-
 search-one-offs-context-open-new-tab =
     .label = Soek in nuwe oortjie
     .accesskey = t
@@ -147,6 +143,7 @@ search-one-offs-context-set-as-default =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -216,16 +213,24 @@ popup-all-windows-shared = Alle sigbare vensters op die skerm sal gedeel word.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Soek of tik adres in
-
 urlbar-placeholder =
     .placeholder = Soek of tik adres in
-
 urlbar-switch-to-tab =
     .value = Verwissel na oortjie:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uitbreiding:
-
 urlbar-go-button =
     .tooltiptext = Gaan na die adres in die adresbalk
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = Dié dokument beslaan nou die volle skerm
+fullscreen-exit-button = Verlaat volskerm (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Verlaat volskerm (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> beheer tans die wyser. Druk Esc om beheer terug te kry.
+pointerlock-warning-no-domain = Dié dokument beheer tans die wyser. Druk Esc om beheer terug te kry.
