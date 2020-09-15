@@ -361,3 +361,14 @@ urlbar-page-action-button =
     .tooltiptext = Acciones de la página
 urlbar-pocket-button =
     .tooltiptext = Chuva´a nuu { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ntañu'u kuvi pantalla ka'nu
+fullscreen-warning-no-domain = Tutu ya'a ntañu'u íyo nu pantalla ka'nu
+fullscreen-exit-button = Kene nuu pantalla ka'nu (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Kene nuu pantalla ka'nu (esc)
