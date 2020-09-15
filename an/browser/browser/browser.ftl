@@ -369,3 +369,10 @@ urlbar-page-action-button =
     .tooltiptext = Accions de pachina
 urlbar-pocket-button =
     .tooltiptext = Alzar en { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = Iste documento ye a pantalla completa
+fullscreen-exit-button = Salir d'a pantalla completa (esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Salir d'a pantalla completa (esc)
