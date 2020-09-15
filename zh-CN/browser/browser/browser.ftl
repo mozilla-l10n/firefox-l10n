@@ -369,3 +369,7 @@ urlbar-page-action-button =
     .tooltiptext = 页面动作
 urlbar-pocket-button =
     .tooltiptext = 保存到 { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-exit-button = 退出全屏模式(Esc)
