@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigatzione privada)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigatzione privada)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigatzione privada)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigatzione privada)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -70,6 +68,7 @@ urlbar-translated-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-camera-blocked =
@@ -97,7 +96,6 @@ search-one-offs-change-settings-button =
     .label = Modìfica sa cunfiguratzione de chirca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Modìfica sa cunfiguratzione de chirca
-
 search-one-offs-context-open-new-tab =
     .label = Chirca in un'ischeda noa
     .accesskey = C
@@ -111,6 +109,7 @@ search-one-offs-context-set-as-default =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -142,14 +141,21 @@ browser-window-close-button =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Chirca o inserta·nche un'indiritzu
-
 urlbar-placeholder =
     .placeholder = Chirca o inserta·nche un'indiritzu
-
 urlbar-switch-to-tab =
     .value = Bae a s'ischeda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Agiunta:
 
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> est como in mannària prena
+fullscreen-warning-no-domain = Custu documentu s'ammustrat como in mannària prena
+fullscreen-exit-button = Essi dae sa mannària prena (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
