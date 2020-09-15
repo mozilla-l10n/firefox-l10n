@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Sutura naarumi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Sutura naarumi)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Sutura naarumi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Sutura naarumi)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -92,6 +90,7 @@ urlbar-addons-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -106,12 +105,10 @@ urlbar-screen-blocked =
     .tooltiptext = War na interneti nungoo woo gagay nd'a ma war dijoo zemni.
 urlbar-persistent-storage-blocked =
     .tooltiptext = War na bayhaya jišiyan duumante gagay interneti nungoo woo se.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Doo-šilbaa woo fasal ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -137,7 +134,6 @@ search-one-offs-change-settings-button =
     .label = Ceeciyan kayandiyaney barmay
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ceeciyan kayandiyaney barmay
-
 search-one-offs-context-open-new-tab =
     .label = Ceeci kanji taaga ra
     .accesskey = t
@@ -151,6 +147,7 @@ search-one-offs-context-set-as-default =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -217,20 +214,28 @@ popup-all-windows-shared = Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ceeci wala aderesu dam
-
 urlbar-placeholder =
     .placeholder = Ceeci wala aderesu dam
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ceecijaw goo juwal moora cire
 urlbar-switch-to-tab =
     .value = Bere kanjoo ga:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Dobuyan:
-
 urlbar-go-button =
     .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
 urlbar-page-action-button =
     .tooltiptext = Moo goyey
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = Takaddaa woo ga cebe dijikul ga sohõ
+fullscreen-exit-button = Fatta dijikul ra (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Fatta dijikul ra (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
+pointerlock-warning-no-domain = Takaddaa woo ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
