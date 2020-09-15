@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Abrir nunha nova xanela privada
     .accesskey = p
-
 places-new-bookmark =
     .label = Novo marcador…
     .accesskey = N
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Novo separador
     .accesskey = v
-
 places-view =
     .label = Ver
     .accesskey = V
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por data e sitio
     .accesskey = t
-
 places-history-search =
     .placeholder = Buscar no historial
 places-bookmarks-search =
     .placeholder = Buscar nos marcadores
-
 places-delete-domain-data =
     .label = Esquecer este sitio
     .accesskey = s
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Propiedades
     .accesskey = r
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Marcadores xestionados
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Subcartafol
