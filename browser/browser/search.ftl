@@ -9,6 +9,8 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = การติดตั้งผิดพลาด
+opensearch-error-duplicate-desc = { -brand-short-name } ไม่สามารถติดตั้งส่วนเสริมการค้นหาจาก “{ $location-url }” เพราะมีเครื่องมือค้นหาที่ใช้ชื่อเดียวกันอยู่แล้ว
+opensearch-error-download-desc = { -brand-short-name } ไม่สามารถดาวน์โหลดส่วนเสริมการค้นหาจาก: { $location-url }
 
 ##
 
