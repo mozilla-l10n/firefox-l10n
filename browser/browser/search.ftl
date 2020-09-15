@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = 安装错误
 opensearch-error-duplicate-desc = { -brand-short-name } 无法安装来自 “{ $location-url }”的搜索插件，因为同名的引擎已经存在。
+opensearch-error-format-title = 无效格式
+opensearch-error-format-desc = { -brand-short-name } 未能从下列位置安装搜索引擎：{ $location-url }
 opensearch-error-download-title = 下载错误
 opensearch-error-download-desc = { -brand-short-name } 无法下载插件，目标地址为： { $location-url }
 
