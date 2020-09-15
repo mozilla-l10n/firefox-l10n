@@ -180,6 +180,10 @@ urlbar-go-button =
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga jaana e mo sekerini se se tletseng
 fullscreen-warning-no-domain = Tokumente e, e mo sekerini se se tletseng
 fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
