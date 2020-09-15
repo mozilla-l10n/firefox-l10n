@@ -369,3 +369,16 @@ urlbar-page-action-button =
     .tooltiptext = Actiones del pagina
 urlbar-pocket-button =
     .tooltiptext = Salvar in { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> es ora in plen schermo
+fullscreen-warning-no-domain = Le documento es ora in plen schermo
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ha controlo super tu punctator. Preme Esc pro recuperar le controlo.
+pointerlock-warning-no-domain = Iste documento ha controlo super tu punctator. Preme Esc pro recuperar le controlo.
