@@ -8,7 +8,9 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
+opensearch-error-duplicate-title = ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਗਲਤੀ
 opensearch-error-duplicate-desc = { -brand-short-name } "{ $location-url }" ਤੋਂ ਖੋਜ ਪਲੱਗਇਨ ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਿਆ, ਕਿਉਂਕਿ ਇਸ ਨਾਂ ਨਾਲ ਇੱਕ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।
+opensearch-error-download-title = ਡਾਊਨਲੋਡ ਲਈ ਗਲਤੀ
 opensearch-error-download-desc = { -brand-short-name } ਖੋਜ ਪਲੱਗਇਨ ਨੂੰ ਇੱਥੋਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ: { $location-url }
 
 ##
