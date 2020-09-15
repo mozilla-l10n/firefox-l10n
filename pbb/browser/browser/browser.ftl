@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Paçte kẽsejna)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Paçte kẽsejna)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Paçte kẽsejna)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Paçte kẽsejna)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -76,6 +74,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 # Variables
@@ -101,7 +100,6 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Nxu'pthena wẽdxnxisatx pakwenxisa's
-
 search-one-offs-context-open-new-tab =
     .label = U'se pakwen phadenxisatx
     .accesskey = U
@@ -115,6 +113,7 @@ search-one-offs-context-set-as-default =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -180,12 +179,16 @@ popup-all-windows-shared = Vxitx le'çxkwe vxiasa çehk thegnxisate ya' katxuden
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Pakweya kĩimeeçxa takhnxi's u'kaya
-
 urlbar-placeholder =
     .placeholder = Pakweya kĩimeeçxa takhnxi's u'kaya
-
 urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
-
 urlbar-go-button =
     .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
+
+## Full Screen and Pointer Lock UI
+
+fullscreen-warning-no-domain = Naa eç pejxinxi' ãçxa'h jxukate ũsa'
+fullscreen-exit-button = Kasehn txãa jxuka thegnxisate (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Kasehn txãa jxuka thegnxisate (Esc)
