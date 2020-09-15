@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private Modus)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private Modus)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private Modus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private Modus)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -78,6 +76,7 @@ urlbar-addons-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -88,7 +87,6 @@ urlbar-microphone-blocked =
     .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
 urlbar-screen-blocked =
     .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -114,7 +112,6 @@ search-one-offs-change-settings-button =
     .label = Sichastellungen änneren
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sichastellungen änneren
-
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
@@ -125,6 +122,7 @@ search-one-offs-context-set-as-default =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -160,13 +158,26 @@ browser-window-close-button =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Sichen oder Adress aginn
-
 urlbar-placeholder =
     .placeholder = Sichen oder Adress aginn
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
-
 urlbar-go-button =
     .tooltiptext = D'Adress aus der Leescht lueden
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ass elo am Vollbildmodus
+fullscreen-warning-no-domain = Dëst Dokument ass elo am Vollbildmodus
+fullscreen-exit-button = Vollbild zoumaachen (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Vollbild zoumaachen (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolléiert de Maus. Esc drécken fir d'Kontroll z'iwwerhuelen.
+pointerlock-warning-no-domain = Dëst Dokument huet d'Kontroll iwwert d'Maus. Dréck Esc fir d'Kontroll z'iwwerhuelen.
