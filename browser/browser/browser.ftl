@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Поверително разглеждане)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Поверително разглеждане)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Поверително разглеждане)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Поверително разглеждане)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -114,6 +112,7 @@ urlbar-search-tips-redirect-2 = Започнете търсене от адре�
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -140,12 +139,10 @@ urlbar-midi-blocked =
     .tooltiptext = Забранили сте на страницата достъп до MIDI.
 urlbar-install-blocked =
     .tooltiptext = Забранили сте на страницата да инсталира добавки.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Промяна на отметка ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,14 +173,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Този път търсете с:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Настройки на търсене
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Настройки на търсене
-
 search-one-offs-context-open-new-tab =
     .label = Търсене в нов раздел
     .accesskey = р
@@ -201,15 +196,14 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Показване на диалога при запазване
     .accesskey = п
-
 bookmark-panel-done-button =
     .label = Готово
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -281,11 +275,9 @@ popup-select-microphone =
     .value = Микрофон за споделяне:
     .accesskey = М
 popup-all-windows-shared = Всички видими прозорци на вашия екран ще бъдат споделени.
-
 popup-screen-sharing-not-now =
     .label = Не сега
     .accesskey = а
-
 popup-screen-sharing-never =
     .label = Никога
     .accesskey = Н
@@ -300,24 +292,28 @@ popup-screen-sharing-never =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Търсете или въведете адрес
-
 urlbar-placeholder =
     .placeholder = Търсете или въведете адрес
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Четецът е под дистанционно управление
 urlbar-permissions-granted =
     .tooltiptext = Дали сте допълнителни права на страницата.
 urlbar-switch-to-tab =
     .value = Превключване към раздел:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Разширение:
-
 urlbar-go-button =
     .tooltiptext = Зареждане на адреса в полето
 urlbar-page-action-button =
     .tooltiptext = Действия със страницата
 urlbar-pocket-button =
     .tooltiptext = Запазване в { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> на цял екран
+fullscreen-warning-no-domain = Сега документът е на цял екран
