@@ -10,6 +10,8 @@
 
 opensearch-error-duplicate-title = Quraşdırma səhvi
 opensearch-error-duplicate-desc = { -brand-short-name }, "{ $location-url }" qaynağındakı axtarış mühərriki quraşdırıla bilinmədi, çünki eyni adda axtarış mühərriki mövcuddur.
+opensearch-error-format-title = Format yanlışdır
+opensearch-error-format-desc = { -brand-short-name } axtarış mühərrikini { $location-url } keçidindən quraşdıra bilmədi
 opensearch-error-download-title = Endirmə Səhvi
 opensearch-error-download-desc = { -brand-short-name }, axtarış mühərriki əlavəsi bu qaynaqdan yüklənə bilinmədi: { $location-url }
 
