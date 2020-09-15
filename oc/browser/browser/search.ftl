@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Error d'installacion
+opensearch-error-format-title = Format incorrècte
 opensearch-error-download-title = Error de telecargament
 
 ##
