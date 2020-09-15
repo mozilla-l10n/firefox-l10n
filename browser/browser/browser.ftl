@@ -377,3 +377,6 @@ urlbar-pocket-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> está em ecrã completo
 fullscreen-warning-no-domain = Este documento está no modo de ecrã completo
+fullscreen-exit-button = Sair de ecrã completo (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Sair de ecrã completo (Esc)
