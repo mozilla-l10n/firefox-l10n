@@ -366,7 +366,12 @@ urlbar-pocket-button =
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = Ang <span data-l10n-name="domain">{ $domain }</span> ay naka-full screen na ngayon
 fullscreen-warning-no-domain = Ang dokument na ito ay naka full screen
+fullscreen-exit-button = Umalis sa Full Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Umalis sa Full Screen (Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
