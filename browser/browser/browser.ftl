@@ -369,3 +369,13 @@ urlbar-page-action-button =
     .tooltiptext = Ações da página
 urlbar-pocket-button =
     .tooltiptext = Salvar no { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> está em tela inteira
+fullscreen-exit-button = Sair da tela inteira (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Sair da tela inteira (esc)
