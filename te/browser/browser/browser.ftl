@@ -359,3 +359,19 @@ urlbar-page-action-button =
     .tooltiptext = పేజీ చర్యలు
 urlbar-pocket-button =
     .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ఇప్పుడు నిండు తెరలో ఉంది
+fullscreen-warning-no-domain = ఈ పత్రం ఇప్పుడు నిండు తెరలో ఉంది
+fullscreen-exit-button = నిండు తెరను వదలివెళ్ళు (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = నిండు తెరను వదలివెళ్ళు (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = మీ పాయింటర్ <span data-l10n-name="domain">{ $domain }</span> నియంత్రణలో ఉంది. తిరిగి మీ ఆధీనం లోనికి తెచ్చుకోడానికి Esc నొక్కండి.
+pointerlock-warning-no-domain = మీ పాయింటర్ ఈ పత్రపు నియంత్రణలో ఉంది. తిరిగి మీ ఆధీనం లోనికి తెచ్చుకోడానికి Esc నొక్కండి.
