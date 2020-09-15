@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Brabhsadh prìobhaideach)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Brabhsadh prìobhaideach)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Brabhsadh prìobhaideach)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Brabhsadh prìobhaideach)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -114,6 +112,7 @@ urlbar-search-tips-redirect-2 = Dèan lorg ann am bàr an t-seòlaidh ’s chì 
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -140,12 +139,10 @@ urlbar-midi-blocked =
     .tooltiptext = Bhac thu inntrigeadh MIDI air an làrach-lìn seo.
 urlbar-install-blocked =
     .tooltiptext = Bhac thu stàladh de thuilleadain air an làrach-lìn seo.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Deasaich an comharra-lìn seo ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -174,14 +171,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Dèan lorg leis na leanas an turas seo:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Roghainnean luirg
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Atharraich na roghainnean luirg
-
 search-one-offs-context-open-new-tab =
     .label = Lorg ann an taba ùr
     .accesskey = t
@@ -199,15 +194,14 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Seall an deasaiche nuair a nithear sàbhaladh
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Dèanta
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -288,22 +282,34 @@ popup-all-windows-shared = Thèid gach uinneag a tha ri fhaicinn air an sgrìn a
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cuir ann lorg no seòladh
-
 urlbar-placeholder =
     .placeholder = Cuir ann lorg no seòladh
-
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tha am brabhsair fo smachd cèin
 urlbar-switch-to-tab =
     .value = Gearr leum gun taba:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Leudachan:
-
 urlbar-go-button =
     .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-page-action-button =
     .tooltiptext = Gnìomhan na duilleige
 urlbar-pocket-button =
     .tooltiptext = Sàbhail ann am { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ’na làn-sgrìn a-nis
+fullscreen-warning-no-domain = Tha an sgrìobhainn seo ’na làn-sgrìn a-nis
+fullscreen-exit-button = Fàg an làn-sgrìn (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Fàg an làn-sgrìn (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = Tha smachd aig <span data-l10n-name="domain">{ $domain }</span> air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
+pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
