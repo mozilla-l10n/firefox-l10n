@@ -309,10 +309,10 @@ keyserver-error-certificate-error = Certifikat klučoweho serwera płaćiwy njej
 keyserver-error-unsupported = Klučowy serwer so njepodpěruje.
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
-    Waš e-mejlowy poskićowar je waš naprašowanje předźěłał, zo by waš zjawny kluč do zapisa OpenPGP-webklučow nahrał.
+    Waš e-mejlowy poskićowar je waše naprašowanje předźěłał, zo by waš zjawny kluč do zapisa OpenPGP-webklučow nahrał.
     Prošu wobkrućće, zo byšće wozjewjenje swojeho zjawneho kluča dokónčił.
 wkd-message-body-process =
-    To je mejlka nastupajo awtomatiske předźěłowanje, zo so waš zjawny kluč do zapisa OpenPGP-wewbklučow nahrał.
+    To je mejlka nastupajo awtomatiske předźěłowanje, zo so waš zjawny kluč do zapisa OpenPGP-webklučow nahrał.
     Njetrjebaće ničo činić.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
