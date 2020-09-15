@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Суулгах алдаа
+opensearch-error-duplicate-desc = { -brand-short-name } нь хайгч плагиныг "{ $location-url }" хаягнаас суулгаж чадахгүй байна. Учир нь, ижилхэн нэртэй хайгч байна.
 opensearch-error-download-title = Татав авах алдаа
 opensearch-error-download-desc = { -brand-short-name } дараа хаягнаас хайгч плагиныг татаж авч чадахгүй байна: { $location-url }
 
