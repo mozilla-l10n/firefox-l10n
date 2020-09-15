@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Åpne i nytt privat vindu
     .accesskey = n
-
 places-new-bookmark =
     .label = Nytt bokmerke …
     .accesskey = b
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Ny skillelinje
     .accesskey = s
-
 places-view =
     .label = Vis
     .accesskey = i
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Etter dato og nettsted
     .accesskey = d
-
 places-history-search =
     .placeholder = Søk historikk
 places-bookmarks-search =
     .placeholder = Søk bokmerker
-
 places-delete-domain-data =
     .label = Glem dette nettstedet
     .accesskey = G
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Egenskaper
     .accesskey = E
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Administrerte bokmerker
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Undermappe
