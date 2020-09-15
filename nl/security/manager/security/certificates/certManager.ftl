@@ -161,6 +161,10 @@ delete-ssl-cert-title =
     .title = Servercertificaatuitzonderingen verwijderen
 delete-ssl-cert-confirm = Weet u zeker dat u deze serveruitzonderingen wilt verwijderen?
 delete-ssl-cert-impact = Als u een serveruitzondering verwijdert, herstelt u de standaard beveiligingscontrole voor die server en vereist u dat deze gebruikmaakt van een geldig certificaat.
+delete-ssl-override-title =
+    .title = Servercertificaatuitzondering verwijderen
+delete-ssl-override-confirm = Weet u zeker dat u deze serveruitzondering wilt verwijderen?
+delete-ssl-override-impact = Als u een serveruitzondering verwijdert, herstelt u de standaard beveiligingscontrole voor die server en vereist u dat deze gebruikmaakt van een geldig certificaat.
 delete-ca-cert-title =
     .title = CA-certificaten verwijderen of wantrouwen
 delete-ca-cert-confirm = U hebt gevraagd deze CA-certificaten te verwijderen. Bij ingebouwde certificaten zal alle vertrouwen worden verwijderd, wat hetzelfde resultaat heeft. Weet u zeker dat u wilt verwijderen of wantrouwen?
@@ -210,6 +214,13 @@ cert-not-verified_algorithm-disabled = Dit certificaat kon niet worden geverifie
 cert-not-verified-unknown = Dit certificaat kon om onbekende redenen niet worden geverifieerd.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Geen clientcertificaat verzenden
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Niet opgeslagen)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Voor altijd
+temporary-override = Tijdelijk
 
 ## Add Security Exception dialog
 
