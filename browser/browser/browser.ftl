@@ -369,3 +369,19 @@ urlbar-page-action-button =
     .tooltiptext = Accions de la pàgina
 urlbar-pocket-button =
     .tooltiptext = Desa al { -pocket-brand-name }
+
+## Full Screen and Pointer Lock UI
+
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> està a pantalla completa
+fullscreen-warning-no-domain = Aquest document està a pantalla completa
+fullscreen-exit-button = Surt de la pantalla completa (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Surt de la pantalla completa (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> té el control del punter. Premeu Esc per recuperar el control.
+pointerlock-warning-no-domain = Aquest document té el control del punter. Premeu Esc per recuperar el control.
