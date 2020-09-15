@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = שגיאת התקנה
 opensearch-error-duplicate-desc = { -brand-short-name } לא יכול להוריד את תוסף החיפוש מהמיקום "{ $location-url }" מאחר שקיים מנוע עם שם זהה.
+opensearch-error-format-title = תבנית לא חוקית
 opensearch-error-download-title = שגיאת הורדה
 opensearch-error-download-desc = { -brand-short-name } לא יכל להוריד את תוסף החיפוש מהמיקום { $location-url }
 
