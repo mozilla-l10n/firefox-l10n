@@ -486,6 +486,10 @@ import-key-file = Dataju OpenPGP-kluca importěrowaś
 import-rev-file = Wótwołańsku dataju OpenPGP importěrowaś
 gnupg-file = GnuPG-dataje
 import-keys-failed = Importěrowanje klucow njejo se raźiło
+passphrase-prompt = Pšosym zapódajśo gronidłowu frazu, kótaraž slědujucy kluc dopušća: { $key }
+file-to-big-to-import = Dataja jo pśewjelika. Pšosym njeimportěrujśo wjeliku sajźbu klucow naraz.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Wótwołański certifikat napóraś a składowaś
 key-man-button-generate-key = &Kluc napóraś
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Powěsć pósłaś
