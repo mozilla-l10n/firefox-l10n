@@ -44,3 +44,26 @@ credit-card-label-number-name-expiration = { $number }, { $name }, { credit-card
 #   $type (String): Credit card type
 credit-card-label-number-2 = { $number }
     .aria-label = { $type } { credit-card-label-number-2 }
+# Label for a credit card with a number and name
+#
+# Variables:
+#   $number (String): Partially-redacted credit card number
+#   $name (String): Cardholder name
+#   $type (String): Credit card type
+credit-card-label-number-name-2 = { $number }, { $name }
+    .aria-label = { $type } { credit-card-label-number-name-2 }
+# Label for a credit card with a number and expiration date
+#
+# Variables:
+#   $number (String): Partially-redacted credit card number
+#   $type (String): Credit card type
+credit-card-label-number-expiration-2 = { $number }, { credit-card-expiration }
+    .aria-label = { $type } { credit-card-label-number-expiration-2 }
+# Label for a credit card with a number, name, and expiration date
+#
+# Variables:
+#   $number (String): Partially-redacted credit card number
+#   $name (String): Cardholder name
+#   $type (String): Credit card type
+credit-card-label-number-name-expiration-2 = { $number }, { $name }, { credit-card-expiration }
+    .aria-label = { $type } { credit-card-label-number-name-expiration-2 }
