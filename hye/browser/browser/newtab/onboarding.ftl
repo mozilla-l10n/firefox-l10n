@@ -94,6 +94,18 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 onboarding-multistage-theme-tooltip-automatic =
     .title = Ժառանգէք ձեր գործառնական համակարգի տեսքը ստեղների, ցանկերի եւ պատուհանների համար։
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title = Աւգտագործէք ստեղների, ցանկերի եւ պատուհանների առաւել բաց տեսք։
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title = Աւգտագործէք ստեղների, ցանկերի եւ պատուհանների մուգ տեսք։
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title = Աւգտագործէք ստեղների, ցանկերի եւ պատուհանների գունաւոր տեսք։
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
@@ -132,6 +144,46 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Տեղեկացեք, երբ Ձեր անձնական տեղեկութիւնները յայտնի տուեալների խախտման մէջ են։
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, որոնք պաշտպանուած եւ շարժական են։
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Ժառանգէք ձեր գործառնական 
+        համակարգի տեսքը ստեղների, ցանկերի եւ պատուհանների համար։
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Ժառանգէք ձեր գործառնական 
+        համակարգի տեսքը ստեղների, ցանկերի եւ պատուհանների համար։
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Աւգտագործէք ստեղների, 
+        ցանկերի եւ պատուհանների առաւել բաց տեսք։
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Աւգտագործէք ստեղների,
+        ցանկերի եւ պատուհանների առաւել բաց տեսք։
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Աւգտագործէք ստեղների, 
+        ցանկերի եւ պատուհանների մուգ տեսք։
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Աւգտագործէք ստեղների, 
+        ցանկերի եւ պատուհանների մուգ տեսք։
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Աւգտագործէք ստեղների, 
+        ցանկերի եւ պատուհանների գունաւոր տեսք։
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Աւգտագործէք ստեղների, 
+        ցանկերի եւ պատուհանների գունաւոր տեսք։
 
 ## These strings belong to the individual onboarding messages.
 
