@@ -53,9 +53,21 @@ move-to-end =
 move-to-new-window =
     .label = Տեղափոխել նոր պատուհան
     .accesskey = W
+tab-context-close-multiple-tabs =
+    .label = Փակել Բազմաթիւ ներդիրները
+    .accesskey = Բ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Յետարկել Ներդիրների փակելը
+            [one] Յետարկել ներդիրների փակելը
+           *[other] Յետարկել ներդիրների փակելը
+        }
+    .accesskey = Յ
 close-tab =
     .label = Փակել ներդիրը
     .accesskey = c
@@ -68,3 +80,19 @@ move-tabs =
 move-tab =
     .label = Տեղափոխել ներդիրը
     .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Փակել ներդիրները
+            [one] Փակել ներդիրները
+           *[other] Փակել ներդիրները
+        }
+    .accesskey = Փ
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Տեղափոխել ներդիրները
+            [one] Տեղափոխել ներդիրները
+           *[other] Տեղափոխել ներդիրները
+        }
+    .accesskey = լ
