@@ -5,6 +5,9 @@
 carddav-url-label =
     .value = URL CardDAV:
     .accesskey = V
+carddav-refreshinterval-label =
+    .label = Sincronizza:
+    .accesskey = r
 # Variables:
 #   $minutes (integer) - Number of minutes between address book synchronizations
 carddav-refreshinterval-minutes-value =
