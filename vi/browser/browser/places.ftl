@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Mở trong cửa sổ riêng tư mới
     .accesskey = P
-
 places-new-bookmark =
     .label = Dấu trang mới…
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Ngăn cách mới
     .accesskey = S
-
 places-view =
     .label = Xem
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Theo ngày và trang web
     .accesskey = t
-
 places-history-search =
     .placeholder = Tìm kiếm lịch sử
 places-bookmarks-search =
     .placeholder = Tìm kiếm dấu trang
-
 places-delete-domain-data =
     .label = Quên trang này
     .accesskey = F
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Thuộc tính
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Dấu trang được quản lý
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Thư mục con
