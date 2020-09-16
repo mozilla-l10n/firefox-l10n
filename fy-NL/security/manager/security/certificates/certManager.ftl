@@ -18,6 +18,7 @@ certmgr-mine = Jo hawwe sertifikaten fan dizze organisaasjes, dy't jo identifise
 certmgr-remembered = Dizze sertifikaten wurde brûkt om jo by websites te identifisearjen
 certmgr-people = Jo hawwe sertifikaten argivearre dy't dizze persoanen identifisearje
 certmgr-servers = Jo hawwe sertifikaten argivearre dy't dizze servers identifisearje
+certmgr-server = Dizze fermeldingen identifisearje útsûnderingen op serversertifikaatflaters
 certmgr-ca = Jo hawwe sertifikaten argivearre dy't dizze sertifikaatautoriteiten identifisearje
 certmgr-detail-general-tab-title =
     .label = Algemien
@@ -161,6 +162,9 @@ delete-ssl-cert-title =
     .title = Server Sertifikaat Utsûnderingen fuortsmite
 delete-ssl-cert-confirm = Binne jo wis dat jo dizze serverútsûnderingen fuortsmite wolle?
 delete-ssl-cert-impact = As jo in serversertifikaatútsûndering fuortsmite, bringe jo de gebrûklike feilichheidskontrôles werom foar dizze website en is in falide sertifikaat nedich.
+delete-ssl-override-title =
+    .title = Serversertifikaatútsûndering fuortsmite
+delete-ssl-override-confirm = Binne jo wis dat jo dizze serverútsûndering fuortsmite wolle?
 delete-ca-cert-title =
     .title = CA-sertifikaten fuortsmite of net fertrouwe
 delete-ca-cert-confirm = Jo hawwe frege om dizze CA-sertifikaten fuort te smiten? Foar ynboude sertifikaten sil alle fertrouwen fuortsmiten wurde, wat itselde effekt hat. Binne jo wis dat jo fuortsmite of net fertroue wolle?
@@ -210,6 +214,9 @@ cert-not-verified_algorithm-disabled = Koe dit sertifikaat net ferifiearje, omda
 cert-not-verified-unknown = Dit sertifikaat koe om ûnbekende redenen net ferifiearre wurde.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Gjin clientsertifikaat ferstjoere
+
+## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
