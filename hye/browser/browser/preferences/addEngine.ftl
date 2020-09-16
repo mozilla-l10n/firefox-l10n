@@ -3,8 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 add-engine-window =
-    .title = Աւելացրէք Որոնման համակարգը
+    .title = Աւելացրէք Որոնման ծրագիր
     .style = width: 32em;
 add-engine-button = Աւելացրէք հարմարեցուած համակարգ
-add-engine-name = Որոնողական համակարգի անունը
+add-engine-name = Որոնման ծրագրի անունը
 add-engine-alias = Այլանուն
+add-engine-url = Ծրագրի URL, աւգտագործէք %s որոնման եզրոյթի փոխարէն
