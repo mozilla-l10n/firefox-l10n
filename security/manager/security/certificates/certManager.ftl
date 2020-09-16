@@ -18,6 +18,7 @@ certmgr-mine = U hebt certificaten van deze organisaties, die u identificeren
 certmgr-remembered = Deze certificaten worden gebruikt om u bij websites te identificeren
 certmgr-people = U hebt certificaten gearchiveerd die deze personen identificeren
 certmgr-servers = U hebt certificaten gearchiveerd die deze servers identificeren
+certmgr-server = Deze vermeldingen identificeren uitzonderingen op servercertificaatfouten
 certmgr-ca = U hebt certificaten gearchiveerd die deze certificaatautoriteiten identificeren
 certmgr-detail-general-tab-title =
     .label = Algemeen
