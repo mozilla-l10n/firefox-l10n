@@ -165,6 +165,7 @@ delete-ssl-cert-impact = As jo in serversertifikaatútsûndering fuortsmite, bri
 delete-ssl-override-title =
     .title = Serversertifikaatútsûndering fuortsmite
 delete-ssl-override-confirm = Binne jo wis dat jo dizze serverútsûndering fuortsmite wolle?
+delete-ssl-override-impact = As jo in serverútsûndering fuortsmite, werstelt jo de standert befeiligingskontrôle foar dy server en fereasket jo dat dizze gebrûk makket fan in jildich sertifikaat.
 delete-ca-cert-title =
     .title = CA-sertifikaten fuortsmite of net fertrouwe
 delete-ca-cert-confirm = Jo hawwe frege om dizze CA-sertifikaten fuort te smiten? Foar ynboude sertifikaten sil alle fertrouwen fuortsmiten wurde, wat itselde effekt hat. Binne jo wis dat jo fuortsmite of net fertroue wolle?
@@ -214,9 +215,13 @@ cert-not-verified_algorithm-disabled = Koe dit sertifikaat net ferifiearje, omda
 cert-not-verified-unknown = Dit sertifikaat koe om ûnbekende redenen net ferifiearre wurde.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Gjin clientsertifikaat ferstjoere
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Net bewarre)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Foar altyd
+temporary-override = Tydlik
 
 ## Add Security Exception dialog
 
