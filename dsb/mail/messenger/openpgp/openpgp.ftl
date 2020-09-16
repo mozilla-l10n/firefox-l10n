@@ -439,9 +439,17 @@ revoke-key-not-present =
 revoke-key-already-revoked = Kluc 0x{ $keyId } jo južo wótwołany.
 key-man-button-revoke-key = &Kluc wótwołaś
 openpgp-key-revoke-success = Kluc jo se wuspěšnje wótwołał.
+after-revoke-info =
+    Kluc jo se wótwołał.
+    Sćelśo mejlku z klucom abo nagrajśoe kluc na klucowe serwery, aby toś ten kluc znowego źělił, aby druge wěźeli, až sćo wótwołał swój kluc.
+    Gaž softwara, kótaruž druge luźe wužywaju, wó wótwołanju zgóniju, se waš stary kluc wěcej njewužywa.
+    Jolic nowy kluc za tu samsku e-mailowu adresu wužywaśo a k mejlkam, kótarež sćelośo, nowy zjawny kluc pśipowjesaśo, se informacije wó wašom wótwołanem starem klucu awtomatiski zapśimuju.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importěrowaś
 delete-key-title = OpenPGP-kluc lašowaś
+delete-external-key-title = Eksterny GnuPG-kluc wótwónoźeś
+delete-external-key-description = Cośo ID eksternego GnuPG-kluca wótwónoźeś?
+key-in-use-title = OpenPGP-kluc se tuchylu wužywa
 # Strings used in trust.jsm
 key-valid-unknown = njeznaty
 key-valid-invalid = njepłaśiwy
