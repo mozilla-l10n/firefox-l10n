@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op specifieke websites
 
 policy-LocalFileLinks = Specifieke websites toestaan te koppelen naar lokale bestanden.
 policy-MasterPassword = Een hoofdwachtwoord vereisen of voorkomen.
+policy-ManagedBookmarks = Configureert een lijst met bladwijzers die wordt beheerd door een beheerder en die niet door de gebruiker kan worden gewijzigd.
 policy-PrimaryPassword = Een hoofdwachtwoord vereisen of voorkomen.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) inschakelen of uitschakelen.
 policy-NewTabPage = De nieuw-tabbladpagina inschakelen of uitschakelen.
