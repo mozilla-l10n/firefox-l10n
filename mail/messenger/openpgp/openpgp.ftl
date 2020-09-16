@@ -450,6 +450,26 @@ delete-key-title = OpenPGP-kluc lašowaś
 delete-external-key-title = Eksterny GnuPG-kluc wótwónoźeś
 delete-external-key-description = Cośo ID eksternego GnuPG-kluca wótwónoźeś?
 key-in-use-title = OpenPGP-kluc se tuchylu wužywa
+delete-key-in-use-description = Pókšacowanje njejo móžne! Kluc, kótaryž jo se wubrał za lašowanje, se tuchylu pśez toś tu identitu wužywa. Wubjeŕśo drugi kluc abo njewuběrajśo žeden a wopytajśo hyšći raz.
+revoke-key-in-use-description = Pókšacowanje njejo móžne! Kluc, kótaryž jo se wubrał za wótwołanje, se tuchylu pśez toś tu identitu wužywa. Wubjeŕśo drugi kluc abo njewuběrajśo žeden a wopytajśo hyšći raz.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Toś ta e-mailowa adresa ‚{ $keySpec }‘ njedajo se klucoju we wašom klucowcu pśirědowaś.
+key-error-key-id-not-found = Konfigurěrowany klucowy ID ‚{ $keySpec }‘ njedajo se we wašom klucowcu namakaś.
+key-error-not-accepted-as-personal = Njejsćo wobkšuśił, až kluc z ID ‚{ $keySpec }‘ jo waš wósobinski kluc.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Funkcija, kótaruž sćo wubrał, njejo w modusu offline k dispoziciji. Pšosym źiśo online a wopytajśo hyšći raz.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Njejsmy mógli kluc namakaś, kótaryž se k pódanym pytańskim kriterijam góźi.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Zmólka - pśikaz klucoweje ekstrakcije njejo se raźił
+# Strings used in keyRing.jsm
+fail-cancel = Zmólka - dostaśe kluca jo se pśetergnuło wot wužywarja
+not-first-block = Zmólka - prědny OpenPGP-blok njejo blok zjawnego kluca
+import-key-confirm = Zjawne kluce importěrowaś, kótarež su w powěsći zasajźone?
+fail-key-import = Zmólka – importěrowanje kluca njejo se raźiło
+file-write-failed = Njejo móžno do dataje { $output } pisaś
+no-pgp-block = Zmólka - žeden płaśiwy blok šćitanych OpenPGP-datow namakany
+confirm-permissive-import = Import njejo  so nimokulił. Kluč, kotryž pospytujeće importować, móhł wobškodźeny być abo njeznate atributy wužiwać. Chceće pospytować, dźěle importować, kotrež su korektne? To móhło k tomu wjesć, zo import je njedospołny a kluče su njewužiajomne.
 # Strings used in trust.jsm
 key-valid-unknown = njeznaty
 key-valid-invalid = njepłaśiwy
