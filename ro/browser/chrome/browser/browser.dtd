@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Ecran complet">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Ascunde comutatorul Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Setări &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Autentifică-te în &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activează &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicii &brandProductName;">
@@ -60,7 +58,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.settings.label "Setări">
 <!ENTITY fxa.menu.accountSettings.label "Setările contului">
 <!ENTITY fxa.menu.manageAccount2.label "Gestionează contul">
-<!ENTITY fxa.menu.signOut.label "Deconectare…">
+<!ENTITY fxa.menu.signOut.label "Deconectează-te…">
 <!ENTITY fxa.menu.setupSync.label "Configurare &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -222,14 +220,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Trimite linkul prin e-mail…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Zoom">
 
 <!ENTITY sidebarCloseButton.tooltip     "Închide bara laterală">
@@ -254,7 +244,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Adaugă dicționare…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
