@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Hoàn nguyên hành vi
 
 policy-LocalFileLinks = Cho phép các trang web cụ thể để liên kết đến các tập tin cục bộ.
 policy-MasterPassword = Yêu cầu hoặc ngăn chặn sử dụng mật khẩu chính.
+policy-ManagedBookmarks = Định cấu hình danh sách các dấu trang do quản trị viên quản lý mà người dùng không thể thay đổi.
 policy-PrimaryPassword = Yêu cầu hoặc ngăn không sử dụng mật khẩu chính.
 policy-NetworkPrediction = Kích hoạt hoặc vô hiệu hóa dự đoán mạng (tìm nạp trước DNS).
 policy-NewTabPage = Kích hoạt hoặc vô hiệu hóa trang Thẻ mới.
