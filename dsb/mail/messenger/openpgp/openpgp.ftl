@@ -418,9 +418,14 @@ key-ring-pub-key-not-for-encryption = Kluc { $userId } (klucowy ID { $keyId }) n
 key-ring-sign-sub-keys-revoked = Wšykne signěrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su wótwołane.
 key-ring-sign-sub-keys-expired = Wšykne signěrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su spadnuli.
 key-ring-sign-sub-keys-unusable = Wšykne signěrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su wótwołane, spadnuli abo hować njewužywajobne.
+key-ring-enc-sub-keys-revoked = Wšykne koděrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su wótwołane.
+key-ring-enc-sub-keys-expired = Wšykne koděrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su spadnuli.
+key-ring-enc-sub-keys-unusable = Wšykne koděrowańske pódkluce kluca { $userId } (klucowy ID { $keyId } su wótwołane, spadnuli abo hować njewužywajobne.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Wužywaŕski atribut (JPEG-wobraz)
+# Strings in key.jsm
+already-revoked = Toś ten kluc jo južo wótwołany.
 key-man-button-revoke-key = &Kluc wótwołaś
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importěrowaś
