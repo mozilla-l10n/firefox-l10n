@@ -85,6 +85,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Հաղորդել կոտրուած կայքի մասին
+protections-panel-content-blocking-breakage-report-view-description = Որոշ հետագծիչների արգելափակումը կարող է որոշ կայքերի հետ խնդիրների յանգեցնել։ Այս խնդիրների զեկուցումն աւգնում է բարելաւել { -brand-short-name }֊ը։ Այս զեկոյցի միջոցով Mozilla֊ին ուղարկուում է URL եւ ձեր դիտարկչի կարգաւորումների մասին տեղեկութիւններ։ <label data-l10n-name="learn-more"> Իմանալ աւելին </label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
