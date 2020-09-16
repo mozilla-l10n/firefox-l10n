@@ -32,7 +32,9 @@
 
 <!ENTITY autotagEnable.label         "Tự động tạo thẻ từ tên &lt;danh mục&gt; nguồn cấp dữ liệu">
 <!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagUsePrefix.label      "Các thẻ tiền tố với:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Nhập tiền tố thẻ">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Thêm">

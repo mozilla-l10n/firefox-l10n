@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Xóa các danh sách">
 <!ENTITY deleteItemsCmd.label                           "Xóa Các Mục">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Thuộc tính">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Thư &amp; nhóm tin">
 <!ENTITY messengerCmd.accesskey                         "T">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Sổ địa chỉ">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Tìm kiếm địa chỉ…">
 <!ENTITY searchAddressesCmd.accesskey                   "m">
 <!ENTITY importCmd.label                                "Nhập…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Thuộc tính">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Đồng bộ hoá">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Chỉnh sửa liên hệ">
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "Chỉnh sửa danh sách">
