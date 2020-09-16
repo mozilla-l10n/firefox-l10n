@@ -13,4 +13,22 @@ msgevent-connection_ended = { $name } đã đóng kết nối được mã hóa 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Đã xảy ra lỗi khi thiết lập cuộc trò chuyện riêng tư với { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Bạn đã nhận được một tin nhắn mã hóa không đọc được từ { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Bạn đã nhận được một tin nhắn OTR không xác định từ { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Đã bắt đầu cuộc trò chuyện riêng tư với { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Đã làm mới cuộc trò chuyện được mã hóa với { $name }.
+error-enc = Đã xảy ra lỗi khi mã hóa tin nhắn.
+error-unreadable = Bạn đã truyền đi một tin nhắn được mã hóa không đọc được.
 resent = [đã gửi lại]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } đã kết thúc cuộc trò chuyện được mã hóa của họ với bạn; bạn cũng nên làm vậy.
