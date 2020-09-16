@@ -3,26 +3,28 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Զեկոյցը ուղարկելիս սխալ տեղի ունեցաւ։ Կրկին փորձեք աւելի ուշ։
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Կայքը շտկուա՞ծ է։ Ուղարկել զեկոյց
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Խիստ
+    .label = Խիստ
+protections-popup-footer-protection-label-custom = Յարմարեցուած
+    .label = Յարմարեցուած
+protections-popup-footer-protection-label-standard = Չափաւրինակային
+    .label = Չափաւրինակային
 
 ##
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Հետապնդումից ընդլայնուած պաշտպանութեան մասին լրացուցիչ տեղեկութիւններ
-
 protections-panel-etp-on-header = Ընդլայնուած հետագծման պաշտպանութիւնը միացուած է այս կայքի համար
 protections-panel-etp-off-header = Ընդլայնուած Հետագծման պաշտպանութիւնն Անջատուած է այս կայքի համար
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Կայքը չի՞ աշխատում։
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Կայքը չի՞ աշխատում։
@@ -37,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Այս կայքի բոլո�
 ##
 
 protections-panel-no-trackers-found = Ոչ մի յայտնի հետապնդումներ { -brand-short-name } չեն յայտնաբերուել այս էջում։
-
 protections-panel-content-blocking-tracking-protection = Հետեւող բովանդակութիւն
-
 protections-panel-content-blocking-socialblock = Հասարակական մեդիայի հետեւումներ
 protections-panel-content-blocking-cryptominers-label = Գաղտնազերծիչներ
 protections-panel-content-blocking-fingerprinters-label = Մատնահետքեր
@@ -57,20 +57,20 @@ protections-panel-not-found-label = Ոչ մեկը չի յայտնաբերուե�
 ##
 
 protections-panel-settings-label = Պաշտպանութեան կարգաւորումներ
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Պաշտպանութիւնների կառավահանակ
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
 protections-panel-site-not-working-view-header = Անջատէք պաշտպանութիւնները, եթե խնդիրներ ունէք.
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Մուտքի դաշտերը
 protections-panel-site-not-working-view-issue-list-forms = Ձեւեր
 protections-panel-site-not-working-view-issue-list-payments = Վճարումներ
 protections-panel-site-not-working-view-issue-list-comments = Մեկնաբանութիւններ
 protections-panel-site-not-working-view-issue-list-videos = Տեսանիւթեր
-
 protections-panel-site-not-working-view-send-report = Ուղարկել զեկոյց
 
 ##
@@ -80,11 +80,9 @@ protections-panel-cryptominers = Գաղտնազերծիչները աւգտագո
 protections-panel-fingerprinters = Մատնահետքերը հաւաքում են կարգաւորումներ Ձեր զննարկչից եւ համակարգչից Ձեր հատկագիրը ստեղծելու համար։ Աւգտագործելով այս թուային մատնահետքը, նրանք կարող են հետեւել Ձեզ տարբեր կայքերի միջով։
 protections-panel-tracking-content = Կայքերը կարող են բեռնել արտաքին գովազդները, տեսանիւթերը եւ այլ բովանդակութիւն հետեւող կոդով։ Պարունակութեան արգելափակման հետեւումը կարող է աւգնել կայքերին ավելի արագ բեռնելու, բայց որոշ կոճակներ, ձեւեր եւ մուտքի դաշտեր կարող են չաշխատել:
 protections-panel-social-media-trackers = Սոցցանցերը հետքեր են տեղադրում այլ կայքերում ՝ հետեւելու Ձեր արածին, դիտմանը եւ դիտելու առցանց: Սա թոյլ է տալիս սոցիալական մեդիայ ընկերութիւններին ավելին իմանալ Ձեր մասին, ավելին, քան կիսում եք Ձեր սոցիալական լրատվամիջոցների յատկագրերում։
-
 protections-panel-content-blocking-manage-settings =
     .label = Կառաւարել պաշտպանութեան կարգաւորումները
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Հաղորդել կոտրուած կայքի մասին
 protections-panel-content-blocking-breakage-report-view-collection-url = URL

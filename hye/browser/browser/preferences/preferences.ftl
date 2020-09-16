@@ -939,6 +939,7 @@ content-blocking-etp-strict-desc = Ավելի ուժեղ պաշտպանութի�
 content-blocking-etp-custom-desc = Ընտրեք, որ հետեւումները եւ գրուածքները արգելափակել։
 content-blocking-private-windows = Անձնական պատուհաններում բովանդակութեան հետեւում
 content-blocking-cross-site-tracking-cookies = Միջակայքային հետեւող նշոցիկներ
+content-blocking-cross-site-tracking-cookies-plus-isolate = Նշոցիկների միջկայքային հետապնդում, եւ առանձնացնել մնացած նշոցիկները
 content-blocking-social-media-trackers = Սոցիալական մեդիայի հետագծումներ
 content-blocking-all-cookies = Բոլոր նշոցիկները
 content-blocking-unvisited-cookies = Նշոցիկներ չստուգուած կայքերից
@@ -1120,6 +1121,15 @@ space-alert-under-5gb-message = { -brand-short-name }-ում տեղ չկայ: Կ
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = «Միայն HTTPS» աշխատակերպ
+httpsonly-description = HTTPS֊ն ապահովում է անվտանգ, գաղտնագրուած կապ { -brand-short-name }֊ի եւ ձեր այցելած կայքերի միջեւ։ Շատ կայքեր աջակցում են HTTPS, եւ եթե «միայն HTTPS» աշխատակերպը միացուած է, { -brand-short-name } կը թարմացնի բոլոր միացումները HTTPS-ին յարմար։
+httpsonly-learn-more = Իմանալ աւելին
+httpsonly-radio-enabled =
+    .label = Միացնել «Միայն֊HTTPS» աշխատակերպը բոլոր պատուհաններում
+httpsonly-radio-enabled-pbm =
+    .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
+httpsonly-radio-disabled =
+    .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
 
 ## The following strings are used in the Download section of settings
 
