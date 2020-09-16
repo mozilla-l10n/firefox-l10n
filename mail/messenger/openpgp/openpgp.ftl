@@ -426,7 +426,19 @@ keyring-photo = Foto
 user-att-photo = Wužywaŕski atribut (JPEG-wobraz)
 # Strings in key.jsm
 already-revoked = Toś ten kluc jo južo wótwołany.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Cośo kluc ‚{ $identity }‘ wótwołaś.
+    Njamóžośo wěcej z toś tym klucom signěrowaś a gaž jo rozšyrjony, njamógu druge wěcej z toś tym klucom koděrowaś. Móžośo hyšći kluc wužywaś, aby stare powěsći dešifrěrowaś.
+    Cośo pókšacowaś?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Njamaśo žeden kluc (0x{ $keyId }), kótaryž toś tomu wótwołańskemu certifikatoju wótpowědujo!
+    Jolic sćo zgubił swój kluc, musyśo jen importěrowaś (na pś. wót klucowego serwera), nježli až wótwołański certifikat importěrujośo!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Kluc 0x{ $keyId } jo južo wótwołany.
 key-man-button-revoke-key = &Kluc wótwołaś
+openpgp-key-revoke-success = Kluc jo se wuspěšnje wótwołał.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importěrowaś
 delete-key-title = OpenPGP-kluc lašowaś
