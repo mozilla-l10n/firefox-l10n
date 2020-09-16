@@ -486,10 +486,10 @@ import-key-file = Dataju OpenPGP-kluča importować
 import-rev-file = Wotwołansku dataju OpenPGP importować
 gnupg-file = GnuPG-dataje
 import-keys-failed = Importowanje klučow njeje so poradźiło
-passphrase-prompt = Prošu zapodajće hesłowu frazu, kotraž slědowacy kluč přewostaja: { $key }
+passphrase-prompt = Prošu zapodajće hesłowu frazu, kotraž slědowacy kluč dopušća: { $key }
 file-to-big-to-import = Dataja je přewulka. Prošu njeimportujće wulku sadźbu klučow naraz.
 # Strings used in enigmailKeygen.js
-save-revoke-cert-as = Wotwołanski certifikat wutowrić a składować
+save-revoke-cert-as = Wotwołanski certifikat wutworić a składować
 revoke-cert-ok = Wotwołanski certifikat je so wuspěšnje wutworił. Móžeće jón wužiwać, zo byšće swój zjawny kluč za njepłaćiwy deklarował, na př. jeli sće swój tajny kluč zhubił.
 revoke-cert-failed = Wotwołanski certifikat njeda so wutworić.
 gen-going = Wutworjenje kluča hižo běži!
