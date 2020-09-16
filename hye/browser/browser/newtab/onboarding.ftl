@@ -66,13 +66,34 @@ onboarding-multistage-import-secondary-button-label = Ոչ հիմա
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Այստեղ թուարկուած կայքերը առկայ էին սարքում։ { -brand-short-name }֊ը չի պահպանում կամ համաժամեցնում տուեալներն այլ դիտարկչից, քանի դեռ դրանք չէք ներմուծել։
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Մեկնարկում է․ էկրան { $total }֊ից { $current }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Ընտրէք <span data-l10n-name="zap">տեսք</span>
 onboarding-multistage-theme-subtitle = Համապատասխանեցնել { -brand-short-name }֊ը ոճապատկերով։
+onboarding-multistage-theme-primary-button-label = Պահպանել ոճապնակը
+onboarding-multistage-theme-secondary-button-label = Ոչ հիմա
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Ինքնաբար
+onboarding-multistage-theme-label-light = Լուսաւոր
+onboarding-multistage-theme-label-dark = Մուգ
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title = Ժառանգէք ձեր գործառնական համակարգի տեսքը ստեղների, ցանկերի եւ պատուհանների համար։
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 
 ## Welcome full page string
 
