@@ -4,6 +4,8 @@
 
 openpgp-compose-key-status-intro-need-keys = Để gửi một tin nhắn được mã hóa đầu cuối, bạn phải lấy và chấp nhận một khóa công khai cho mỗi người nhận.
 openpgp-compose-key-status-keys-heading = Tính khả dụng của các khóa OpenPGP:
+openpgp-compose-key-status-title =
+    .title = Thư bảo mật OpenPGP
 openpgp-compose-key-status-recipient =
     .label = Người nhận
 openpgp-compose-key-status-status =
