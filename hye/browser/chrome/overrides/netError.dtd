@@ -16,6 +16,7 @@
 
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Սպասարկիչը չի գտնուել">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Եթե հասցէն ճիշտ է՝ ահա երեք այլ տարբերակ, որոնք կարող եք փորձել.</strong>
