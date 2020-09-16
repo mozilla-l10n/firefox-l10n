@@ -463,13 +463,13 @@ no-key-found = Njemóžachmy kluč namakać, kotryž so k podatym pytanskim krit
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Zmylk - přikaz klučoweje ekstrakcije njeje so poradźił
 # Strings used in keyRing.jsm
-fail-cancel = Zmylk - dóstaće kluča je so wot wužiwarja přetorhnył
+fail-cancel = Zmylk - dóstaće kluča je so wot wužiwarja přetorhnyło
 not-first-block = Zmylk - prěni OpenPGP-blok blok zjawneho kluča njeje
 import-key-confirm = Zjawne kluče importować, kotrež su w powěsći zasadźene?
 fail-key-import = Zmylk – importowanje kluča njeje so poradźiło
 file-write-failed = Njeje móžno do dataje { $output } pisać
 no-pgp-block = Zmylk - žadyn płaćiwy blok škitanych OpenPGP-datow namakany
-confirm-permissive-import = Import je so nimokulił. Kluč, kotryž pospytujeće importować, móhł wobškodźeny być abo njeznate atributy wužiwać. Chceće pospytować, dźěle importować, kotrež su korektne? To móhło k tomu wjesć, zo import je njedospołny a kluče su njewužiajomne.
+confirm-permissive-import = Import je so nimokulił. Kluč, kotryž pospytujeće importować, móhł wobškodźeny być abo njeznate atributy wužiwać. Chceće pospytować, dźěle importować, kotrež su korektne? To móhło k tomu wjesć, zo import je njedospołny a kluče su njewužiwajomne.
 # Strings used in trust.jsm
 key-valid-unknown = njeznaty
 key-valid-invalid = njepłaćiwy
