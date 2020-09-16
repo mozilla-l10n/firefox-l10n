@@ -469,7 +469,7 @@ import-key-confirm = Zjawne kluce importěrowaś, kótarež su w powěsći zasaj
 fail-key-import = Zmólka – importěrowanje kluca njejo se raźiło
 file-write-failed = Njejo móžno do dataje { $output } pisaś
 no-pgp-block = Zmólka - žeden płaśiwy blok šćitanych OpenPGP-datow namakany
-confirm-permissive-import = Import njejo  so nimokulił. Kluč, kotryž pospytujeće importować, móhł wobškodźeny być abo njeznate atributy wužiwać. Chceće pospytować, dźěle importować, kotrež su korektne? To móhło k tomu wjesć, zo import je njedospołny a kluče su njewužiajomne.
+confirm-permissive-import = Import njejo se raźił. Kluc, kótaryž wopytujośo importěrowaś, mógał wobškóźony byś abo njeznate atributy wužywaś. Cośo wopytowaś, źěle importěrowaś, kótarež su korektne? To mógło k tomu wjasć, až import jo njedopołny a kluce su njewužywajobne.
 # Strings used in trust.jsm
 key-valid-unknown = njeznaty
 key-valid-invalid = njepłaśiwy
@@ -477,9 +477,15 @@ key-valid-disabled = znjemóžnjony
 key-valid-revoked = wótwołany
 key-valid-expired = pśepadnjony
 key-trust-untrusted = dowěry njegódny
+key-trust-marginal = marginalny
 key-trust-full = dowěry gódny
+key-trust-ultimate = doskóńcny
 key-trust-group = (kupka)
+# Strings used in commonWorkflows.js
+import-key-file = Dataju OpenPGP-kluca importěrowaś
+import-rev-file = Wótwołańsku dataju OpenPGP importěrowaś
 gnupg-file = GnuPG-dataje
+import-keys-failed = Importěrowanje klucow njejo se raźiło
 key-man-button-generate-key = &Kluc napóraś
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Powěsć pósłaś
