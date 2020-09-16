@@ -57,6 +57,15 @@ onboarding-multistage-welcome-subtitle = Արագ, ապահով գաղտնի դ�
 onboarding-multistage-welcome-primary-button-label = Մեկնարկել կարգարկումը
 onboarding-multistage-welcome-secondary-button-label = Գրանցուել
 onboarding-multistage-welcome-secondary-button-text = Ունէ՞ք հաշիւ։
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Ներմուծէք ձեր գաղտնաբառերը, <br/> էջանիշերը, եւ <span data-l10n-name="zap">եւ աւելի </span>
+onboarding-multistage-import-subtitle = Տեղափոխուել էք այլ դիտարկչի՞ց։ Կարող էք ամէն ինչ հեշտութեամբ տեղափոխել { -brand-short-name }։
+onboarding-multistage-import-primary-button-label = Սկսէք ներմուծել
+onboarding-multistage-import-secondary-button-label = Ոչ հիմա
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Այստեղ թուարկուած կայքերը առկայ էին սարքում։ { -brand-short-name }֊ը չի պահպանում կամ համաժամեցնում տուեալներն այլ դիտարկչից, քանի դեռ դրանք չէք ներմուծել։
 onboarding-multistage-theme-subtitle = Համապատասխանեցնել { -brand-short-name }֊ը ոճապատկերով։
 
 ## Please make sure to split the content of the title attribute into lines whose
