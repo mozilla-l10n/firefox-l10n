@@ -60,6 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Propriétés
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Marque-pages gérés
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sous-dossier
