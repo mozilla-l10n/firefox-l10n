@@ -9,6 +9,7 @@ fxa-qrcode-heading-phase1 = 1. Nderejapói gueterirõ, emboguejy <a data-l10n-na
 fxa-qrcode-heading-phase2 = 2. Uperire emoñepyrũ tembiapo { -sync-brand-short-name }, térã Android-pe emoha’angávo pe ñembojoja ayvu { -sync-brand-short-name } ñemboheko guive.
 fxa-qrcode-heading-step1 = 1. Nderejapói gueterirõ, emboguejy <a data-l10n-name="connect-another-device">Firefox ne mba’e’oka okuévape</a>.
 fxa-qrcode-heading-step2 = Embojuruja Firefox ne mba’e’oka okuévape.
+fxa-qrcode-heading-step3 = 3. Embojuruja <b>poravorã</b> (<img data-l10n-name="ios-menu-icon"/> térã <img data-l10n-name="android-menu-icon"/>), eikutu <img data-l10n-name="settings-icon"/> <b>Ñemboheko</b> ha eiporavo <b>Mboheko Myandy</b>
 fxa-qrcode-heading-step4 = 4. Emoha’ãnga ko ayvu:
 fxa-qrcode-error-title = Ñemoñondive oiko’ỹva.
 fxa-qrcode-error-body = Eha’ã jey.
