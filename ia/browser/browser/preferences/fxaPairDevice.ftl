@@ -5,11 +5,8 @@
 fxa-pair-device-dialog =
     .title = Connecter un altere apparato
     .style = width: 26em; min-height: 35em;
-
 fxa-qrcode-heading-phase1 = 1. Assecura te de haber installate <a data-l10n-name="connect-another-device">Firefox su tu apparato mobile</a>.
-
 fxa-qrcode-heading-phase2 = 2. Alora aperi session in { -sync-brand-short-name }, o sur Android, scanna le codice de accopulamento desde le configurationes de { -sync-brand-short-name }.
-
+fxa-qrcode-heading-step1 = 1. Assecura te haber <a data-l10n-name="connect-another-device">Firefox su tu apparato mobile</a>.
 fxa-qrcode-error-title = Accopulamento sin successo.
-
 fxa-qrcode-error-body = Retentar.

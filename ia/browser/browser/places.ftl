@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Aperir in un nove fenestra private
     .accesskey = p
-
 places-new-bookmark =
     .label = Nove marcapaginas…
     .accesskey = m
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Nove separator
     .accesskey = S
-
 places-view =
     .label = Vider
     .accesskey = r
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Per data e sito
     .accesskey = t
-
 places-history-search =
     .placeholder = Cercar in le chronologia
 places-bookmarks-search =
     .placeholder = Cercar in le marcapaginas
-
 places-delete-domain-data =
     .label = Oblidar iste sito
     .accesskey = O
@@ -64,3 +60,6 @@ places-sortby-name =
 places-properties =
     .label = Proprietates
     .accesskey = i
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Sub-plica
