@@ -60,6 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Proprietates
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Marcapaginas gerite
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sub-plica
