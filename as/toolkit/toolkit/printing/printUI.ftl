@@ -5,6 +5,13 @@
 printui-title = প্ৰিণ্ট কৰক
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = এইৰূপে সাঁচি থওক
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] কাগজৰ { $sheetCount }খন পাত
+       *[other] কাগজৰ { $sheetCount }খন পাত
+    }
 printui-page-range-all = সকলো
 printui-page-range-custom = নিজৰ হিচাপে
 printui-page-range-label = পৃষ্ঠা
@@ -26,6 +33,7 @@ printui-portrait = পৰ্ট্ৰেইট
 # Section title for the printer or destination device to target
 printui-destination-label = গন্তব্যস্থান
 printui-destination-pdf-label = PDFত সাঁচি থওক
+printui-more-settings = অধিক ছেটিংছ
 printui-less-settings = কম ছেটিংছ
 printui-paper-size-label = কাগজৰ আকাৰ
 # Section title (noun) for the print scaling options
@@ -48,9 +56,32 @@ printui-system-dialog-link = ছিষ্টেমৰ সংলাপ ব্য�
 printui-primary-button = প্ৰিণ্ট কৰক
 printui-primary-button-save = সাঁচি থওক
 printui-cancel-button = বাতিল কৰক
+printui-loading = পূৰ্বদৰ্শন তৈয়াৰ হৈ আছে
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = প্ৰিণ্ট পূৰ্বদৰ্শন
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US চিঠি
+printui-paper-legal = US আইনী
+printui-paper-tabloid = টেবলৈড
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = স্কেল 10 আৰু 200ৰ মাজৰে এটা সংখ্যা হ'ব লাগিব।
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = পৰিসৰ 1 আৰু { $numPages }ৰ মাজৰে এটা সংখ্যা হ'ব লাগিব।
+printui-error-invalid-start-overflow = “ইয়াৰ পৰা” পৃষ্ঠাৰ সংখ্যা “ইয়ালৈ” পৃষ্ঠাৰ সংখ্যাতকৈ সৰু হ'বই লাগিব।
