@@ -508,10 +508,22 @@ attachment-no-match-from-signature = Signaturowa dataja ‚{ $attachment }‘ nj
 attachment-no-match-to-signature = Pśidank ‚{ $attachment }‘ njedajo se signaturowej dataji pśirědowaś
 signature-verified-ok = Signatura za pśidank { $attachment } jo se wuspěšnje pśeglědała
 signature-verify-failed = Signatura za pśidank { $attachment } njedajo se pśeglědowaś
+decrypt-ok-no-sig =
+    Warnowanje
+    Dešifrěrowanje jo wuspěšne było, ale signatura njedajo se korektnje pśeglědowaś
+msg-ovl-button-cont-anyway = &Weto pókšacowaś
+enig-content-note = *Pśidanki toś teje powěsći njejsu daniž signěrowane daniž skoděrowane*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Powěsć pósłaś
 msg-compose-details-button-label = Drobnostki…
 msg-compose-details-button-access-key = D
+send-aborted = Słanje jo se pśetergnuło
+key-not-trusted = Nic dosć dowěry za kluc ‚{ $key }‘
+key-not-found = Kluc ‚{ $key }‘ njejo se namakał
+key-revoked = Kluc ‚{ $key }‘ jo se wótwołał
+key-expired = Kluc ‚{ $key }‘ jo spadnuł
+msg-compose-internal-error = Interna zmólka jo nastała.
+keys-to-export = Wubjeŕśo OpenPGP-kluce, kótarež maju se zasajźiś
 dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
