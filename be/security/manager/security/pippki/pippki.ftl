@@ -22,8 +22,11 @@ change-password-reenter = Новы пароль (ізноў):
 reset-password-window =
     .title = Скіданне галоўнага пароля
     .style = width: 40em
+pippki-failed-pw-change = Не ўдалося змяніць пароль.
+pippki-incorrect-pw = Вы няправільна ўвялі галоўны пароль. Паспрабуйце, калі ласка, ізноў.
 pippki-pw-change-ok = Пароль паспяхова зменены.
 pippki-pw-empty-warning = Вашы захаваныя паролі і прыватныя ключы не будуць абаронены.
+pippki-pw-erased-ok = Вы выдалілі свой пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Увага! Вы вырашылі не выкарыстоўваць пароль. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца непусты пароль.
 
