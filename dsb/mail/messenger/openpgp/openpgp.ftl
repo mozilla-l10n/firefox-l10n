@@ -490,7 +490,24 @@ passphrase-prompt = Pšosym zapódajśo gronidłowu frazu, kótaraž slědujucy 
 file-to-big-to-import = Dataja jo pśewjelika. Pšosym njeimportěrujśo wjeliku sajźbu klucow naraz.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Wótwołański certifikat napóraś a składowaś
+revoke-cert-ok = Wótwołański certifikat jo se wuspěšnje napórał. Móžośo jen wužywaś, aby swój zjawny kluc za njepłaśiwy deklarěrował, na pś. jolic sćo zgubił swój pótajmny kluc.
+revoke-cert-failed = Wótwołański certifikat njedajo se napóraś.
+gen-going = Napóranje kluca južo běžy!
+keygen-missing-user-name = Njejo žedno mě za wubrane konto/identitu pódane. Pšosym zapódajśo gódnotu do póla   „Wašo mě“ w kontowych nastajenjach.
+expiry-too-short = Waš kluc musy nanejmjenjej jaden źeń płaśiwy byś.
+expiry-too-long = Njamóžośo kluc napóraś, kótaryž za wěcej ako 100 lět spadnjo.
+key-confirm = Zjawny a pótajmny kluc za ‚{ $id }‘ napóraś?
 key-man-button-generate-key = &Kluc napóraś
+key-abort = Napóranje kluca pśetergnuś?
+key-man-button-generate-key-abort = Napóranje kluca pśe&tergnuś
+key-man-button-generate-key-continue = Z napóranim kluca pókšacowaś
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Zmólka – dešifrěrowanje njejo se raźiło
+fix-broken-exchange-msg-failed = Powěsć njedajo se reparěrowaś.
+attachment-no-match-from-signature = Signaturowa dataja ‚{ $attachment }‘ njedajo se pśdankoju pśirědowaś
+attachment-no-match-to-signature = Pśidank ‚{ $attachment }‘ njedajo se signaturowej dataji pśirědowaś
+signature-verified-ok = Signatura za pśidank { $attachment } jo se wuspěšnje pśeglědała
+signature-verify-failed = Signatura za pśidank { $attachment } njedajo se pśeglědowaś
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Powěsć pósłaś
 msg-compose-details-button-label = Drobnostki…
