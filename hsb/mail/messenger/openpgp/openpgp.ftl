@@ -523,7 +523,7 @@ key-not-found = Kluč ‚{ $key }‘ njeje so namakał
 key-revoked = Kluč ‚{ $key }‘ je so wotwołał
 key-expired = Kluč ‚{ $key }‘ je spadnył
 msg-compose-internal-error = Interny zmylk je nastał.
-keys-to-export = WubjerćeOpenPGP-kluče, kotrež maja so zasadźić
+keys-to-export = Wubjerće OpenPGP-kluče, kotrež maja so zasadźić
 msg-compose-partially-encrypted-inlinePGP =
     Powěsć, na kotruž wotmołwjeće, njezaklučowane a zaklučowane dźěle wobsahowaše. Jeli wotpósłar njemóžeše někotre dźěle powěsće dešifrować, zhubiće snano dowěrliwe informacije, kotrež wotpósłar sam njemóžeše dešifrować.
     Prošu dźiwajće na to, zo wšón citowany tekst ze swojeje wotmołwy tutomu wotpósłarjej wotstronjeće.
