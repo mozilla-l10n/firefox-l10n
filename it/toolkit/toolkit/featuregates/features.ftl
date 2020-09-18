@@ -109,3 +109,8 @@ experimental-features-devtools-serviceworker-debugger-support-description = Atti
 experimental-features-graphics-desktop-zooming =
     .label = Grafica: zoom continuo con avvicinamento dita (Smooth Pinch Zoom)
 experimental-features-graphics-desktop-zooming-description = Attiva il supporto per zoom continuo con avvicinamento dita su schermi touch e touchpad di precisione.
+
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Attiva Warp, un progetto per migliorare le prestazioni e il consumo di memoria di JavaScript.
