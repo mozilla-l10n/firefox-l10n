@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Вярнуцца да 
 
 policy-LocalFileLinks = Дазволіць пэўным вэб-сайтам спасылацца на лакальныя файлы.
 policy-MasterPassword = Патрабаваць або забараняць выкарыстанне галоўнага пароля.
+policy-ManagedBookmarks = Наладжвае спіс закладак, якімі кіруе адміністратар, і якія карыстальнік не можа змяніць.
 policy-PrimaryPassword = Патрабаваць або забараняць выкарыстанне галоўнага пароля.
 policy-NetworkPrediction = Уключае або выключае прадбачанне сеткі (папярэдняе атрыманне DNS).
 policy-NewTabPage = Уключыць або выключыць старонку новай карткі.
