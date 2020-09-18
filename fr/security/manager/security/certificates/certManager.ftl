@@ -220,6 +220,7 @@ no-cert-stored-for-override = (Non stocké)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Permanente
 temporary-override = Temporaire
 
 ## Add Security Exception dialog
