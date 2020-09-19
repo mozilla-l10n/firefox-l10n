@@ -533,7 +533,7 @@ quoted-printable-warn =
     Sće kodowanje ‚quoted-printable‘ za słanje powěsćow zmóžnił. To móhło k njekorektnemu dešifrowanju a/abo přepruwowanju wašeje powěsće wjesć.
     Chceće nětko słanje powěsćow w kodowanju ‚quoted-printable‘ znjemóžnić?
 minimal-line-wrapping =
-    Maće linkowe łamanje pola { $width } znamješkow nastajił. Za korektne zaklučowanje a/abo signowanje, dyrbi tuta hódnota znamjeńša 68 być.
+    Sće linkowe łamanje pola { $width } znamješkow nastajił. Za korektne zaklučowanje a/abo signowanje, dyrbi tuta hódnota znamjeńša 68 być.
     Chceće nětko linkowe łamanje do 68 znamješkow změnić?
 sending-hidden-rcpt = Přijimarjo schowanych kopijow (BCC) njedadźa so wužiwać, hdyž so zaklučowana powěsć sćele. Zo byšće tutu zaklučowanu powěsć pósłał, wotstrońće pak přijimarjow schowanych kopijow pak přesuńće jich do pola Kopija.
 sending-news =
