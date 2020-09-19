@@ -15,3 +15,7 @@ fxa-signout-dialog-heading = Mag-sign out sa { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Mananatili ang naka-sync na data sa iyong account.
 fxa-signout-checkbox =
     .label = Burahin ang data sa device na ito (mga login, password, kasaysayan, bookmark, atbp.).
+fxa-signout-dialog =
+    .title = Mag-sign out sa { -fxaccount-brand-name }
+    .style = min-width: 375px;
+    .buttonlabelaccept = Mag-sign out
