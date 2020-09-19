@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Жаңа жекелік терезесінде ашу
     .accesskey = к
-
 places-new-bookmark =
     .label = Жаңа бетбелгі…
     .accesskey = б
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Жаңа ажыратқыш
     .accesskey = а
-
 places-view =
     .label = Қарау
     .accesskey = р
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Күн мен сайт бойынша
     .accesskey = м
-
 places-history-search =
     .placeholder = Тарихтан іздеу
 places-bookmarks-search =
     .placeholder = Бетбелгілерден іздеу
-
 places-delete-domain-data =
     .label = Бұл парақты өшіру
     .accesskey = Б
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Қасиеттері
     .accesskey = е
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Басқарылатын бетбелгілер
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Ішкі бума
