@@ -14,7 +14,10 @@ extensions-name = Pangalan
 extensions-enabled = Naka-enable
 extensions-version = Bersyon
 extensions-id = ID
+support-addons-title = Mga Add-on
 support-addons-name = Pangalan
+support-addons-type = Uri
+support-addons-enabled = Naka-enable
 support-addons-version = Bersyon
 support-addons-id = ID
 security-software-title = Security Software
@@ -34,6 +37,7 @@ app-basics-title = Mga Paunang Katangian ng Application
 app-basics-name = Pangalan
 app-basics-version = Bersyon
 app-basics-build-id = Build ID
+app-basics-distribution-id = Distribution ID
 app-basics-update-channel = Update Channel
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -73,6 +77,11 @@ show-dir-label =
         [windows] Buksan ang Folder
        *[other] Buksan ang Directory
     }
+environment-variables-title = Mga Environment Variable
+environment-variables-name = Pangalan
+environment-variables-value = Halaga
+experimental-features-name = Pangalan
+experimental-features-value = Halaga
 modified-key-prefs-title = Mga Mahalagang Binagong Kagustuhan
 modified-prefs-name = Pangalan
 modified-prefs-value = Halaga
@@ -116,12 +125,14 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Subukan mag-safe mode
 restart-in-safe-mode-label = Mag-restart na Naka-Disable ang mga Add-on…
+restart-button-label = Mag-restart
 
 ## Media titles
 
 audio-backend = Backend ng Audio
 max-audio-channels = Max na mga Channel
 sample-rate = Ninanais na Sample Rate
+roundtrip-latency = Roundtrip latency (standard deviation)
 media-title = Media
 media-output-devices-title = Mga Output Device
 media-input-devices-title = Mga Input Device
