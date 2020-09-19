@@ -524,6 +524,11 @@ key-revoked = Kluc ‚{ $key }‘ jo se wótwołał
 key-expired = Kluc ‚{ $key }‘ jo spadnuł
 msg-compose-internal-error = Interna zmólka jo nastała.
 keys-to-export = Wubjeŕśo OpenPGP-kluce, kótarež maju se zasajźiś
+msg-compose-partially-encrypted-inlinePGP =
+    Powěsć, na kótaruž wótegronjaśo, jo wopśimjeła njekoděrowane a skoděrowane źěle. Jolic wótpósłaŕ njejo mógał někotare źěle powěsći dešifrěrowaś, zgubijośo snaź dowěrliwe informacije, kótarež wótpósłar sam njejo mógał dešifrěrowaś.
+    Pšosym źiwajśo na to, až wšyken citěrowany tekst ze swójogo wótegrona toś tomu wótpósłarjeju wótwónoźujośo.
+msg-compose-cannot-save-draft = Zmólka pśi składowanju nacerjenja
+msg-compose-partially-encrypted-short = Glědajśo se źěratych sensibelnych informacijow - pó źělach skoděrowaneje mejlki.
 dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
