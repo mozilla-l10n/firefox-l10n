@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Socket
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Cancella cache DNS
+about-networking-dns-trr-url = URL DoH
 about-networking-dns-suffix = Suffisso DNS
 about-networking-websockets = WebSocket
 about-networking-refresh = Aggiorna
