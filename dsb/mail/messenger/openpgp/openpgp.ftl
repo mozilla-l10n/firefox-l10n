@@ -549,6 +549,17 @@ no-temp-dir =
     Pšosym stajśo wokolinowu wariablu TEMP
 possibly-pgp-mime = Powěsć jo snaź z PGP/MIME skoděrowana abo signěrowana; wužywajśo funkciju ‚Dešifrěrowaś/Pśeglědowaś‘, aby to pśeglědował
 cannot-send-sig-because-no-own-key = Toś ta powěsć njedajo se digitalnje signěrowaś, dokulaž hyšći njejsćo konfigurěrował koděrowanje kóńc do kóńca za <{ $key }>
+cannot-send-enc-because-no-own-key = Toś ta powěsć njedajo se skoděrowana pósłaś, dokulaž hyšći njejsćo konfigurěrował koděrowanje kóńc do kóńca za <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Slědujuce kluce importěrowaś?
+    { $key }
+do-import-one = { $name } ({ $id }) importěrowaś?
+cant-import = Zmólka pśi importěrowanju zjawnego kluca
+unverified-reply = Zasunjony powěsćowy źěl (wótegrono) jo se njeskerjej změnił
+key-in-message-body = Kluc jo se namakał we wopśimjeśu powěsći. Klikniśo na ‚Kluc importěrowaś‘, aby kluc importěrował
+sig-mismatch = Zmólka - signatura njepasujo
+invalid-email = Zmólka - njepłaśiwe e-mailowe adrese
 dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
