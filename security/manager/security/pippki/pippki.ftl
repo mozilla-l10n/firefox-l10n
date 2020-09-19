@@ -8,10 +8,8 @@ password-quality-meter = Пароль сапасы
 
 change-password-window =
     .title = Мастер-парольді ауыстыру
-
 change-device-password-window =
     .title = Парольді өзгерту
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Қорғаныс құрылғысы: { $tokenName }
@@ -24,13 +22,13 @@ change-password-reenter = Жаңа пароль (қайтадан):
 reset-password-window =
     .title = Мастер-парольді тастау
     .style = width: 40em
-
 pippki-failed-pw-change = Парольді өзгерту мүмкін емес.
 pippki-incorrect-pw = Сіз ағымдағы парольді қате енгіздіңіз. Қайтадан енгізіп көріңіз.
 pippki-pw-change-ok = Пароль сәтті өзгертілді.
-
 pippki-pw-empty-warning = Сіздің сақталған парольдер мен жеке кілттер қорғалмайтын болады.
 pippki-pw-erased-ok = Сіз өз пароліңізді өшірдіңіз. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Ескерту! Сіз парольді қолданудан бас тарттыңыз. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Сіз FIPS-ке сәйкестеу режимінде жұмыс істеп отырсыз. Бұл режим бос емес басты парольді талап етеді.
 
 ## Reset Primary Password dialog
 
@@ -40,9 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Тастау
 reset-password-text = Мастер-пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Мастер-пароліңізді тастауды шынымен қалайсыз ба?
-
 reset-primary-password-text = Басты пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Басты парольді тастауды шынымен қалайсыз ба?
-
 pippki-reset-password-confirmation-title = Басты парольді қалпына тастау
 pippki-reset-password-confirmation-message = Сіздің басты пароліңіз тасталды.
 

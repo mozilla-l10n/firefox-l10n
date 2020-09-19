@@ -73,6 +73,10 @@ serviceworker-empty-suggestions-aboutdebugging = Басқа домендерде
 serviceworker-empty-intro2 = Service workers табылмады
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Көбірек білу
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Егер ағымдағы бетте service worker болуы керек болса, сіз <a>Консоль</a> ішінен қателерді іздей аласыз немесе service worker тіркеуінен <span>Жөндеуші</span> ішінен қадамдап өте аласыз.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Басқа домендерден service workers қарау
