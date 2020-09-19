@@ -140,7 +140,7 @@ main-context-menu-media-unmute =
     .label = I-unmute
     .accesskey = m
 main-context-menu-media-play-speed =
-    .label = Bilis ng Pag-play
+    .label = Bilis ng Pagpapaandar
     .accesskey = d
 main-context-menu-media-play-speed-slow =
     .label = Pabagalin (0.5 ×)
@@ -157,7 +157,7 @@ main-context-menu-media-play-speed-faster =
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
-    .label = Ubod ng bilis (2×)
+    .label = Ubod nang bilis (2×)
     .accesskey = L
 main-context-menu-media-loop =
     .label = Loop
@@ -167,7 +167,7 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Ipakita ang Controls
+    .label = Ipakita ang mga Control
     .accesskey = C
 main-context-menu-media-hide-controls =
     .label = Itago ang mga Control
