@@ -544,6 +544,11 @@ send-to-news-warning =
     Wót togo se wótraźujo, dokulaž to jo jano zmysłapołne, jolic wšykne cłonki kupki mógu powěsć dešifrěrowaś, t. gr. powěsć musy se z klucami wšych wobźělnikow kupki koděrowaś. Pšosym sćelśo toś tu powěsć jano, jolic wěsćo, což cyniśo.
     Pókšacowaś?
 save-attachment-header = Dešifrěrowany pśidank składowaś
+no-temp-dir =
+    Njejo móžno, temporerny zapis namakaś, do kótaregož dajo se pisaś
+    Pšosym stajśo wokolinowu wariablu TEMP
+possibly-pgp-mime = Powěsć jo snaź z PGP/MIME skoděrowana abo signěrowana; wužywajśo funkciju ‚Dešifrěrowaś/Pśeglědowaś‘, aby to pśeglědował
+cannot-send-sig-because-no-own-key = Toś ta powěsć njedajo se digitalnje signěrowaś, dokulaž hyšći njejsćo konfigurěrował koděrowanje kóńc do kóńca za <{ $key }>
 dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
