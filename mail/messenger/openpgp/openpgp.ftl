@@ -532,6 +532,10 @@ msg-compose-partially-encrypted-short = Glědajśo se źěratych sensibelnych in
 quoted-printable-warn =
     Sćo zmóžnił koděrowanje ‚quoted-printable‘ za słanje powěsćow. To mógło k njekorektnemu dešifrěrowanjeju a/abo pśěglědowanjeju wašeje powěsći wjasć.
     Cośo něnto słanje powěsćow w koděrowanju ‚quoted-printable‘ znjemóžniś?
+minimal-line-wrapping =
+    Sćo nastajił smužkowe łamanje pla { $width } znamuškow. Za korektne koděrowanje a/abo signěrowanje, musy toś ta gódnota nanejmjenjej 68 byś.
+    Cośo něnto smužkowe łamanje do 68 znamuškow změniś?
+sending-hidden-rcpt = Dostawarje schowanych kopijow (BCC) njedaju se wužywaś, gaž se skoděrowana powěsć sćelo. Aby toś tu skoděrowanu powěsć pósłał, wótwónoźćo pak dostawarje schowanych kopijow pak pśesuńśo jich do póla Kopija.
 dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
