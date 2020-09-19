@@ -34,3 +34,5 @@ compatibility-target-browsers-header = Mga Target na Browser
 
 ##
 
+compatibility-close-settings-button =
+    .title = Isara ang mga setting
