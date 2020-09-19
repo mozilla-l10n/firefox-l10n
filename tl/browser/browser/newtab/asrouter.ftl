@@ -230,6 +230,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Mga proteksyon sa isang sulyap
 cfr-whatsnew-protections-cta-link = Tingnan ang Protections Dashboard
 cfr-whatsnew-protections-icon-alt = Shield icon
 

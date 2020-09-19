@@ -298,9 +298,13 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Huwag Payagan
     .accesskey = H
+popup-silence-notifications-checkbox = I-disable ang mga notification mula sa { -brand-short-name } habang nagbabahagi
+popup-silence-notifications-checkbox-warning = Hindi magpapakita ng mga notification ang { -brand-short-name } habang ikaw ay nagbabahagi.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Ibinabahagi mo ang { -brand-short-name }. Makikita ng ibang mga tao kapag lumipat ka sa bagong tab.
+sharing-warning-screen = Ibinabahagi mo ang iyong buong screen. Makikita ng ibang mga tao kapag lumipat ka sa bagong tab.
 sharing-warning-proceed-to-tab =
     .label = Magpatuloy sa Tab
 
