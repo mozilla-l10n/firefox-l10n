@@ -7,7 +7,7 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Nagda-download ng { -brand-shorter-name } update
-appmenuitem-protection-dashboard-title = Mga Proteksyon sa Dashboard
+appmenuitem-protection-dashboard-title = Protections Dashboard
 appmenuitem-customize-mode =
     .label = I-customize...
 

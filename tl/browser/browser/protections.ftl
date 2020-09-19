@@ -112,6 +112,14 @@ info-known-breaches-found =
        *[other] May mga kilalang data breach na naglantad sa iyong impormasyon
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Kilalang data breach na nakamarka bilang nalutas na
+       *[other] Mga kilalang data breach na nakamarka bilang nalutas na
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -119,10 +127,39 @@ info-exposed-passwords-found =
         [one] May password na nalantad sa lahat ng mga breach
        *[other] May mga password na nalantad sa lahat ng mga breach
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Nakalantad ang password sa mga di pa lutas na breach
+       *[other] Nakalantad ang mga password sa mga di pa lutas na breach
+    }
 monitor-no-breaches-title = Magandang balita!
+monitor-no-breaches-description = Wala ka pang mga breach sa ngayon. Kung sakaling magbago ito, babalitaan ka namin.
 monitor-view-report-link = Tingnan ang Report
     .title = Resolve breaches on { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resolbahin ang iyong mga breach
+monitor-breaches-unresolved-description = Matapos suriin ang mga detalye ng mga breach at gumawa ng mga hakbang para maprotektahan ang iyong impormasyon, maaari mo nang markahan ang mga breach bilang naresolba na.
+monitor-breaches-resolved-title = Magaling! Naresolba mo na lahat ng mga kilalang breach.
+monitor-breaches-resolved-description = Kung sakaling matagpuan ang email mo sa mga bagong breach, babalitaan ka namin.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } sa { $numBreaches } breach ay namarkahan na bilang naresolba na
+       *[other] { $numBreachesResolved } sa { $numBreaches } breach ay namarkahan na bilang naresolba na
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% kumpleto
+monitor-partial-breaches-motivation-title-start = Magandang pagsisimula!
 monitor-partial-breaches-motivation-title-middle = Magaling!
+monitor-partial-breaches-motivation-title-end = Halos tapos na! Tuluy-tuloy lang.
+monitor-partial-breaches-motivation-description = Resolbahin ang iba mo pang mga breach sa { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Resolbahin ang mga Breach
+    .title = Resolbahin ang mga Breach sa { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

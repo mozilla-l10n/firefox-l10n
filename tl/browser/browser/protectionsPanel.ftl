@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Nagkaprolema sa pagpapadala ng ulat. Subukan uli mamaya.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Ayos na ang site? Magpadala ng ulat
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Karagdagang impormasyon tungkol sa Enhanced Tracking Protection
-
 protections-panel-etp-on-header = Nakabukas ang Enhanced Tracking Protection para sa site na ito
 protections-panel-etp-off-header = Sarado ang Enhanced Tracking Protection para sa site na ito
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Hindi gumagana ang site?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Hindi Gumagana ang Site?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Lahat ng mga tracker sa sit
 ##
 
 protections-panel-no-trackers-found = Walang mga tracker na kilala ng { -brand-short-name } na natuklasan sa pahinang ito.
-
 protections-panel-content-blocking-tracking-protection = Mga Tracking Content
-
 protections-panel-content-blocking-socialblock = Mga Social Media Tracker
 protections-panel-content-blocking-cryptominers-label = Mga Cryptominer
 protections-panel-content-blocking-fingerprinters-label = Mga fingerprinter
@@ -63,20 +57,20 @@ protections-panel-not-found-label = Walang Nakita
 ##
 
 protections-panel-settings-label = Mga Protection Setting
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Protections Dashboard
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
 protections-panel-site-not-working-view-header = Isara ang mga proteksyon kung nagkakaroon ka ng mga issue sa:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Mga login field
 protections-panel-site-not-working-view-issue-list-forms = Mga form
 protections-panel-site-not-working-view-issue-list-payments = Mga kabayaran
 protections-panel-site-not-working-view-issue-list-comments = Mga komento
 protections-panel-site-not-working-view-issue-list-videos = Mga video
-
 protections-panel-site-not-working-view-send-report = Magpadala ng report
 
 ##
@@ -86,11 +80,9 @@ protections-panel-cryptominers = Ginagamit ng mga cryptominer ang computing powe
 protections-panel-fingerprinters = Ang mga fingerprinter ay nangongolekta ng mga setting sa browser at computer mo para makilala ka. Gamit ang digital fingerprint na ito, pwede ka nilang manmanan sa iba't-ibang mga website.
 protections-panel-tracking-content = Ang mga website ay maaaring mag-load ng mga external ad, video, at iba pang content na may tracking code. Ang pagharang sa tracking content ay makatutulong sa mga site na mag-load nang mas mabilis, pero may mga button, form, at login field na maaaring hindi gumana.
 protections-panel-social-media-trackers = Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y mas nakikilala ka ng mga kumpanya ng social media bukod sa kung ano ang ibinabahagi mo sa iyong social media profile.
-
 protections-panel-content-blocking-manage-settings =
     .label = I-manage ang mga Protection Setting
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Mag-ulat ng Sirang Site
 protections-panel-content-blocking-breakage-report-view-description = Ang pagharang ng ilang mga tracker ay maaaring maging dahilan ng problema sa ilang mga website. Ang pag-ulat ng mga problemang ito ay nakatutulong pahusayin ang { -brand-short-name } para sa lahat. Ang pagpapadala ng ulat na ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa Mozilla. <label data-l10n-name="learn-more">Alamin</label>
