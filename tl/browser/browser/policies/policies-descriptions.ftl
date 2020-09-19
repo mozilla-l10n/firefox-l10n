@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Bumalik sa legacy Same
 
 policy-LocalFileLinks = Payagan ang ilang mga website na mag-link sa mga local file.
 policy-MasterPassword = Kailanganin o pigilang gumamit ng master password.
+policy-ManagedBookmarks = Nagco-configure ng isang listahan ng mga bookmark na pinamamahalaanan ng isang administrator na hindi maaaring baguhin ng user.
 policy-PrimaryPassword = Kailanganin o pigilang gumamit ng Primary Password.
 policy-NetworkPrediction = I-enable o i-disable ang network prediction (DNS prefetching).
 policy-NewTabPage = I-enable o i-disable ang New Tab page.

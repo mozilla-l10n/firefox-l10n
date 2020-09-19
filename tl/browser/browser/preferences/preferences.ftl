@@ -49,6 +49,7 @@ category-experimental =
     .tooltiptext = Mga { -brand-short-name } Experiment
 pane-experimental-subtitle = Mag-ingat sa Pagpatuloy
 pane-experimental-search-results-header = Mga { -brand-short-name } Experiment: Mag-ingat sa Pagpatuloy
+pane-experimental-description = Ang pagbago sa mga advanced configuration preference ay maaaring makaapekto sa performance o seguridad ng { -brand-short-name }.
 help-button-label = Suporta sa { -brand-short-name }
 addons-button-label = Mga Extension at Tema
 focus-search =
@@ -81,6 +82,9 @@ extension-controlled-homepage-override = Ang extension, <img data-l10n-name="ico
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Ang extension, <img data-l10n-name="icon"/> { $name }, ay kumokontrol sa iyong Bagong Tab page.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = May isang extension, <img data-l10n-name="icon"/> { $name }, na nagkokontrol sa setting na ito.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
