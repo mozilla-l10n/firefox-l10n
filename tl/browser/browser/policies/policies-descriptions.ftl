@@ -54,6 +54,8 @@ policy-DontCheckDefaultBrowser = Huwag mag-check ng default browser sa startup.
 policy-DownloadDirectory = I-set at i-lock ang download directory.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = I-enable o i-disable ang Content Blocking at opsyonal itong i-lock.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = I-enable o i-disable ang mga Encrypted Media Extension at opsyonal na i-lock ito.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -62,6 +64,7 @@ policy-ExtensionSettings = I-manage ang lahat ng aspeto ng pag-install ng mga ex
 policy-ExtensionUpdate = I-enable o i-disable ang kusang pag-update ng mga extension.
 policy-FirefoxHome = I-configure ang Firefox Home.
 policy-FlashPlugin = Payagan o pagbawalan ang paggamit ng Flash plugin.
+policy-Handlers = I-configure ang mga default application handler.
 policy-HardwareAcceleration = Kung false, isara ang hardware acceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = I-set at i-lock (optional) ang homepage.
@@ -70,6 +73,8 @@ policy-LegacyProfiles = I-disable ang feature na nagpapatupad ng hiwalay na prof
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = I-enable ang default legacy SameSite cookie behavior setting.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Bumalik sa legacy SameSite behavior para sa mga cookie sa piling site.
 
 ##
 

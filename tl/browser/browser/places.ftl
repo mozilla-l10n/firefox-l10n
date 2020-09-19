@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Buksan sa Bagong Pribadong Window
     .accesskey = P
-
 places-new-bookmark =
     .label = Bagong Bookmark...
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Bagong Separator
     .accesskey = S
-
 places-view =
     .label = I-view
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ayon sa Petsa at Site
     .accesskey = t
-
 places-history-search =
     .placeholder = Kasaysayan ng paghahanap
 places-bookmarks-search =
     .placeholder = Maghanap ng mga bookmark
-
 places-delete-domain-data =
     .label = Kalimutan ang pahinang ito
     .accesskey = K
@@ -64,3 +60,6 @@ places-sortby-name =
 places-properties =
     .label = Mga katangian
     .accesskey = i
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Subfolder
