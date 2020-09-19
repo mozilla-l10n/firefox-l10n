@@ -235,6 +235,10 @@ translate-attribution = Mga pagsasalin sa pamamagitan ng <img data-l10n-name="lo
 translate-exceptions =
     .label = Mga exception...
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Gamitin ang mga setting ng operating system mo para sa “{ $localeName }” para makapag-format ng mga petsa, oras, bilang, at pagsukat.
 check-user-spelling =
     .label = Suriin ang pagkakabaybay habang nagta-type
     .accesskey = t
@@ -283,6 +287,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Gamitin ang { $app-name } (default)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Gamitin ang default na macOS application
+            [windows] Gamitin ang default na Windows application
+           *[other] Gamitin ang default na system application
+        }
 applications-use-other =
     .label = Gumamit ng iba...
 applications-select-helper = Piliin ang Helper na Applikasyon
@@ -484,6 +495,7 @@ home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
 
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
+home-prefs-recommended-by-description-update = Bukod-tanging content sa web, kinolekta ng { $provider }
 
 ##
 
@@ -523,6 +535,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Idagdag ang search bar sa toolbar
 search-engine-default-header = Default na Search Engine
+search-engine-default-desc-2 = Ito ang iyong default search engine sa address bar at search bar. Maaari mo itong baguhin anumang oras.
 search-engine-default-private-desc-2 = Pumili ng ibang default na search engine para lang sa mga Private Window
 search-separate-default-engine =
     .label = Gamitin ang search engine na ito sa mga Private Window
@@ -544,6 +557,7 @@ search-show-suggestions-above-history-option =
     .label = Unahing ipakita ang mga mungkahi sa paghahanap bago ang kasaysayan ng pag-browse sa mga resulta sa address bar
 search-show-suggestions-private-windows =
     .label = Magpakita ng mga mungkahi sa paghahanap sa mga Private Window
+suggestions-addressbar-settings-generic = Baguhin ang mga kagustuhan sa iba pang mga mungkahi sa address bar
 search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 search-one-click-header = Mga One-Click Search Engine
 search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
@@ -875,6 +889,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = I-Manage ang mga Permission...
     .accesskey = P
+sitedata-cookies-exceptions =
+    .label = I-manage ang mga Exception…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -921,6 +938,7 @@ content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikas
 content-blocking-etp-custom-desc = Piliin kung aling mga tracker at scripts ang dapat harangin.
 content-blocking-private-windows = Tracking content sa mga Private Window
 content-blocking-cross-site-tracking-cookies = Mga cross-site tracking cookie
+content-blocking-cross-site-tracking-cookies-plus-isolate = Mga cross-site tracking cookie, at ihiwalay ang mga natitirang cookie
 content-blocking-social-media-trackers = Mga social media tracker
 content-blocking-all-cookies = Lahat ng mga cookie
 content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang site
@@ -929,6 +947,7 @@ content-blocking-all-third-party-cookies = Lahat ng mga third-party na mga cooki
 content-blocking-cryptominers = Mga Cryptominer
 content-blocking-fingerprinters = Mga Fingerprinter
 content-blocking-warning-title = Mag-ingat!
+content-blocking-and-isolating-etp-warning-description = Ang pagharang sa mga tracker at paghiwalay sa mga cookie ay maaaring makaapekto sa functionality ng ilang mga site. Mag-reload ng pahina na may mga tracker para maiload lahat ng content.
 content-blocking-warning-learn-how = Alamin kung paano
 content-blocking-reload-description = Kailangan mong i-reload ang iyong mga tab upang makita ang mga pagbabago.
 content-blocking-reload-tabs-button =
@@ -1102,6 +1121,7 @@ space-alert-under-5gb-message = Nauubusan na ng disk space ang { -brand-short-na
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only Mode
+httpsonly-description = Nagbibigay ang HTTPS ng isang ligtas at encrypted na koneksyon sa pagitan ng { -brand-short-name } at ng mga website na binibisita mo. Karamihan ng mga website ay suportado na ang HTTPS, at kung naka-enable ang HTTPS-Only Mode, ia-upgrade ng { -brand-short-name } lahat ng koneksyon sa HTTPS.
 httpsonly-learn-more = Alamin
 httpsonly-radio-enabled =
     .label = I-enable ang HTTPS-Only Mode sa lahat ng mga window
