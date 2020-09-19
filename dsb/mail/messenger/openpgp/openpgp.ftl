@@ -536,6 +536,14 @@ minimal-line-wrapping =
     Sćo nastajił smužkowe łamanje pla { $width } znamuškow. Za korektne koděrowanje a/abo signěrowanje, musy toś ta gódnota nanejmjenjej 68 byś.
     Cośo něnto smužkowe łamanje do 68 znamuškow změniś?
 sending-hidden-rcpt = Dostawarje schowanych kopijow (BCC) njedaju se wužywaś, gaž se skoděrowana powěsć sćelo. Aby toś tu skoděrowanu powěsć pósłał, wótwónoźćo pak dostawarje schowanych kopijow pak pśesuńśo jich do póla Kopija.
+sending-news =
+    Skoděrowane słanje jo se pśetergnuło.
+    Toś ta powěsć njedajo se koděrowaś, dokulaž njedaju dostowarje diskusijneje kupki. Pšosym sćelśo powěsć znowego bźez skoděrowanja.
+send-to-news-warning =
+    Warnowanje: Cośo skoděrowanu mejlku na diskusijnu kupku pósłaś.
+    Wót togo se wótraźujo, dokulaž to jo jano zmysłapołne, jolic wšykne cłonki kupki mógu powěsć dešifrěrowaś, t. gr. powěsć musy se z klucami wšych wobźělnikow kupki koděrowaś. Pšosym sćelśo toś tu powěsć jano, jolic wěsćo, což cyniśo.
+    Pókšacowaś?
+save-attachment-header = Dešifrěrowany pśidank składowaś
 dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
