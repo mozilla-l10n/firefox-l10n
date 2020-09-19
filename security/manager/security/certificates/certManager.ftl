@@ -219,6 +219,7 @@ no-cert-stored-for-override = (Ikkje lagra)
 ## Used to show whether an override is temporary or permanent
 
 permanent-override = Permanent
+temporary-override = Mellombels
 
 ## Add Security Exception dialog
 
