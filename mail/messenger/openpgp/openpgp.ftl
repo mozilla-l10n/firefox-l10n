@@ -584,7 +584,7 @@ dlg-button-cancel = &Přetorhnyć
 dlg-no-prompt = Tutón dialog wjace njepokazać.
 enig-prompt = OpenPGP-namołwa
 enig-confirm = OpenPGP-wobkrućenje
-enig-alert = OpenPGP- zdźělenka
+enig-alert = OpenPGP-zdźělenka
 enig-info = OpenPGP-informacije
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Hišće raz spytać
@@ -592,4 +592,4 @@ dlg-button-skip = &Přeskočić
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP-zmylk
 enig-alert-title =
-    .title = OpenPGP- zdźělenka
+    .title = OpenPGP-zdźělenka
