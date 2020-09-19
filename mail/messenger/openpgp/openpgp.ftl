@@ -577,10 +577,19 @@ repeat-prefix = Toś ta powěźeńka se hyšći { $count }
 repeat-suffix-singular = raz wóspjetujo.
 repeat-suffix-plural = razow wóspjetujo.
 no-repeat = Toś ta powěźeńka njebuźo se wěcej pokazaś.
+dlg-keep-setting = Mójo wótegrono se spomnjeś a wěcej se njepšašaś
 dlg-button-ok = W pó&rěźe
 dlg-button-close = &Zacyniś
 dlg-button-cancel = &Pśetergnuś
 dlg-no-prompt = Toś ten dialog wěcej njepokazaś
+enig-prompt = OpenPGP-napominanje
+enig-confirm = OpenPGP-wobkšuśenje
+enig-alert = OpenPGP-powěźeńka
+enig-info = OpenPGP-informacije
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Hyšći raz wopytaś
 dlg-button-skip = &Pśeskócyś
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-zmólka
+enig-alert-title =
+    .title = OpenPGP-powěźeńka
