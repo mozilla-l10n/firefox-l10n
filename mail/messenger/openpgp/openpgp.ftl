@@ -545,7 +545,7 @@ send-to-news-warning =
     Pokročować?
 save-attachment-header = Dešifrowany přiwěšk składować
 no-temp-dir =
-    Njeje móžno, temporerny zapis namakać, do kotreho da so pisać
+    Njeje móžno, temporerny zapis namakać, do kotrehož da so pisać
     Prošu stajće wokolinowu wariablu TEMP
 possibly-pgp-mime = Powěsć je snano z PGP/MIME zaklučowana abo signowana; wužiwajće funkciju ‚Dešifrować/Přepruwować‘, zo byšće to přepruwował
 cannot-send-sig-because-no-own-key = Tuta powěsć njeda so digitalnje signować, dokelž hišće njejsće zaklučowanje kónc do kónca za <{ $key }> konfigurował
