@@ -74,7 +74,7 @@ captivePortal-title = Mag log in sa network
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Ang address na iyon ay hindi tama.
-netInterrupt-title = Nasagabal ang koneksyon
+netInterrupt-title = Natigil ang koneksyon
 notCached-title = Ang Dokumentong ito ay Expired
 netOffline-title = Naka-Offline
 contentEncodingError-title = May mali sa pag-encode na content
