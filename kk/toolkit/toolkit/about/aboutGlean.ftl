@@ -6,4 +6,5 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Glean туралы
-
+send-pings-label = Аталған пингті жіберу
+controls-button-label = Баптауларды іске асыру

@@ -53,4 +53,5 @@ inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> �
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> үшін келесі браузерлерде қолдау жоқ:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> - эксперименталдық қасиет.
