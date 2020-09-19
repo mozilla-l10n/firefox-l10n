@@ -42,10 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Tryb pełnoekranowy">
 
-
-<!-- } is above this key on many keyboards -->
-
-
 <!ENTITY pictureInPictureHideToggle.label "Ukryj przycisk „Obraz w obrazie”">
 <!ENTITY pictureInPictureHideToggle.accesskey "U">
 
@@ -55,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Ustawienia synchronizacji">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Połącz inne urządzenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Zaloguj się w przeglądarce &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Włącz synchronizację">
 <!ENTITY fxa.menu.firefoxServices.label "Usługi przeglądarki &brandProductName;">
@@ -91,8 +86,8 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.">
-<!ENTITY pointerlockWarning.generic.label "Dokument kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.">
+<!ENTITY pointerlockWarning.afterDomain.label "kontroluje teraz kursor. Naciśnij klawisz Esc, aby przejąć nad nim kontrolę.">
+<!ENTITY pointerlockWarning.generic.label "Dokument kontroluje teraz kursor. Naciśnij klawisz Esc, aby przejąć nad nim kontrolę.">
 
 <!ENTITY showAllBookmarks2.label "Wyświetl wszystkie zakładki">
 <!ENTITY recentBookmarks.label "Ostatnio dodane">
@@ -100,7 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "Drukuj">
 <!ENTITY printButton.tooltip          "Drukuj bieżącą stronę">
-
 
 <!ENTITY searchItem.title             "Znajdź">
 
@@ -191,7 +185,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
 <!ENTITY customizeMenu.addToToolbar.accesskey "D">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Dodaj do menu ukrywania">
@@ -219,18 +213,12 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageAction.copyLink.label    "Kopiuj odnośnik">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Wyślij stronę do Pocket">
 <!ENTITY pocketMenuitem.label         "Wysłane do Pocket">
 
 <!ENTITY emailPageCmd.label           "Wyślij odnośnik…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Powiększenie">
 
@@ -256,7 +244,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Dodaj słowniki…">
 <!ENTITY spellAddDictionaries.accesskey "o">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
