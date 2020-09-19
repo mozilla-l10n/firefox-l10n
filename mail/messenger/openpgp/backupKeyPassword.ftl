@@ -10,4 +10,5 @@ set-password-backup-pw =
     .value = Lozinka za sigurnosnu kopiju:
 set-password-repeat-backup-pw =
     .value = Lozinka za sigurnosnu kopiju (ponovno):
+set-password-reminder = <b>Važno!</b> Ukoliko zaboravite svoju lozinku, nećete biti u mogućnosti kasnije vratiti ovu sigurnosnu kopiju. Zapišite ju na sigurnom mjestu.
 password-quality-meter = Mjerač kvalitete lozinke
