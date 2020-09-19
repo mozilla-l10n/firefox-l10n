@@ -560,9 +560,20 @@ unverified-reply = Zasunjony powěsćowy źěl (wótegrono) jo se njeskerjej zm�
 key-in-message-body = Kluc jo se namakał we wopśimjeśu powěsći. Klikniśo na ‚Kluc importěrowaś‘, aby kluc importěrował
 sig-mismatch = Zmólka - signatura njepasujo
 invalid-email = Zmólka - njepłaśiwe e-mailowe adrese
+attachment-pgp-key =
+    Zda se, až pśidank ‚{ $name }‘, kótaryž wócynjaśo, jo dataja OpenPGP-kluca.
+    Klikniśo na ‚Importěrowaś‘, aby wopśimowane kluce importěrował abo na ‚Pokazaś‘, aby wopśimjeśe dataje we woknje wobglědowaka pokazał
 dlg-button-view = &Naglěd
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dešifrěrowana powěsć (wótnowjony wobškóźony e-mailowy format PGP jo se nejskerjej zawinował pśez stary serwer Exchange; pśez to njedajo se snaź wuslědk derje cytaś)
+# Strings used in encryption.jsm
+not-required = Zmólka – žedno koděrowanje trjebne
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
+error-photo-path-not-readable = Fotowa sćažka ‚{ $photo }‘ njejo cytajobna
+debug-log-title = Zmólkowy protokol OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Toś ta powěźeńka se hyšći { $count }
 dlg-button-ok = W pó&rěźe
 dlg-button-close = &Zacyniś
 dlg-button-cancel = &Pśetergnuś
