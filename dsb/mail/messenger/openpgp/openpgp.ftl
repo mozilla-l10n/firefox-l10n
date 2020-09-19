@@ -529,6 +529,9 @@ msg-compose-partially-encrypted-inlinePGP =
     Pšosym źiwajśo na to, až wšyken citěrowany tekst ze swójogo wótegrona toś tomu wótpósłarjeju wótwónoźujośo.
 msg-compose-cannot-save-draft = Zmólka pśi składowanju nacerjenja
 msg-compose-partially-encrypted-short = Glědajśo se źěratych sensibelnych informacijow - pó źělach skoděrowaneje mejlki.
+quoted-printable-warn =
+    Sćo zmóžnił koděrowanje ‚quoted-printable‘ za słanje powěsćow. To mógło k njekorektnemu dešifrěrowanjeju a/abo pśěglědowanjeju wašeje powěsći wjasć.
+    Cośo něnto słanje powěsćow w koděrowanju ‚quoted-printable‘ znjemóžniś?
 dlg-button-view = &Naglěd
 # Strings used in windows.jsm
 no-photo-available = Žedno foto k dispoziciji
