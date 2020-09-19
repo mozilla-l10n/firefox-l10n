@@ -565,7 +565,7 @@ attachment-pgp-key =
     Klikńće na ‚Importować‘, zo byšće wobsahowane kluče importował abo na ‚Pokazać‘, zo byšće wobsah dataje we woknje wobhladowaka pokazał
 dlg-button-view = &Pokazać
 # Strings used in enigmailMsgHdrViewOverlay.js
-decrypted-msg-with-format-error = Dešifrowana powěsć (wobnowjeny wobškodźeny e-mejlowy format PGPje so najskerje přez stary serwer Exchange zawinował; přez to njeda so snano wuslědk derje čitać)
+decrypted-msg-with-format-error = Dešifrowana powěsć (wobnowjeny wobškodźeny e-mejlowy format PGP je so najskerje přez stary serwer Exchange zawinował; přez to njeda so snano wuslědk derje čitać)
 # Strings used in encryption.jsm
 not-required = Zmylk – žane zaklučowanje trěbne
 # Strings used in windows.jsm
