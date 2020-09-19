@@ -12,3 +12,5 @@ openpgp-compose-key-status-status =
     .label = Status
 openpgp-compose-key-status-open-details = Upravljanje ključevima za odabranog primatelja…
 openpgp-recip-good = U redu
+openpgp-recip-missing = ključ nije dostupan
+openpgp-recip-none-accepted = nema prihvaćenog ključa
