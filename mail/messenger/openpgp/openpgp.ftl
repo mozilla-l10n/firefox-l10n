@@ -574,6 +574,9 @@ error-photo-path-not-readable = Fotowa sćažka ‚{ $photo }‘ njejo cytajobna
 debug-log-title = Zmólkowy protokol OpenPGP
 # Strings used in dialog.jsm
 repeat-prefix = Toś ta powěźeńka se hyšći { $count }
+repeat-suffix-singular = raz wóspjetujo.
+repeat-suffix-plural = razow wóspjetujo.
+no-repeat = Toś ta powěźeńka njebuźo se wěcej pokazaś.
 dlg-button-ok = W pó&rěźe
 dlg-button-close = &Zacyniś
 dlg-button-cancel = &Pśetergnuś
