@@ -570,6 +570,9 @@ search-restore-default =
 search-remove-engine =
     .label = Ukloni
     .accesskey = U
+search-add-engine =
+    .label = Dodaj
+    .accesskey = D
 search-find-more-link = Pronađi daljnje tražilice
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -890,8 +893,11 @@ addressbar-locbar-bookmarks-option =
     .label = Zabilješke
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = Otvori kartice
+    .label = Otvorene kartice
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Najbolje stranice
+    .accesskey = N
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
 
 ## Privacy Section - Content Blocking
