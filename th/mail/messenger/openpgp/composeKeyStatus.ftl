@@ -11,3 +11,5 @@ openpgp-compose-key-status-recipient =
 openpgp-compose-key-status-status =
     .label = สถานะ
 openpgp-compose-key-status-open-details = จัดการคีย์สำหรับผู้รับที่เลือก…
+openpgp-recip-good = ตกลง
+openpgp-recip-missing = ไม่มีคีย์ที่พร้อมใช้งาน
