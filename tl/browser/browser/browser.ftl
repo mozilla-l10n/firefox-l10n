@@ -307,6 +307,8 @@ sharing-warning-window = Ibinabahagi mo ang { -brand-short-name }. Makikita ng i
 sharing-warning-screen = Ibinabahagi mo ang iyong buong screen. Makikita ng ibang mga tao kapag lumipat ka sa bagong tab.
 sharing-warning-proceed-to-tab =
     .label = Magpatuloy sa Tab
+sharing-warning-disable-for-session =
+    .label = I-disable ang sharing protection para sa session na ito
 
 ## DevTools F12 popup
 

@@ -231,6 +231,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Mga proteksyon sa isang sulyap
+cfr-whatsnew-protections-body = Nagtataglay ang Protections Dashboard ng mga nakabuod na ulat tungkol sa mga data breach at password management. Maaari mo nang mabantayan kung ilang mga breach na ang naresolba mo, at makita kung may ilan sa mga naka-save na password ang nalantad sa data breach.
 cfr-whatsnew-protections-cta-link = Tingnan ang Protections Dashboard
 cfr-whatsnew-protections-icon-alt = Shield icon
 
@@ -241,6 +242,7 @@ cfr-whatsnew-better-pdf-body = Direkta nang magbubukas ang mga PDF document sa {
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = Mas secure at encrypted na DNS lookup
 cfr-doorhanger-doh-primary-button = OK, Nakuha ko
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = i-Disable
