@@ -17,6 +17,14 @@ onboarding-button-label-get-started = תחילת עבודה
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
 onboarding-welcome-body = הדפדפן כבר בידיך.<br/>עכשיו נציג את שאר { -brand-product-name }.
 onboarding-welcome-learn-more = מידע נוסף על היתרונות.
@@ -73,8 +81,6 @@ onboarding-multistage-theme-primary-button-label = שמירת ערכת נושא
 onboarding-multistage-theme-secondary-button-label = לא כעת
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = אוטומטי
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = שימוש בערכת הנושא של המערכת
 onboarding-multistage-theme-label-light = בהיר
 onboarding-multistage-theme-label-dark = כהה
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -109,6 +115,43 @@ onboarding-multistage-theme-tooltip-alpenglow =
         שימוש בתצוגה צבעונית עבור כפתורים,
         תפריטים וחלונות.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = כתובת הדוא״ל שלך…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name } איתך בכל מקום
+onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
+onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
+onboarding-sync-form-input =
+    .placeholder = דוא״ל
+onboarding-sync-form-continue-button = המשך
+onboarding-sync-form-skip-login-button = דילוג על שלב זה
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = נא להקליד את כתובת הדוא״ל שלך
+onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = לבצע משימות עם משפחת כלים שמכבדת את הפרטיות שלך בכל המכשירים שלך.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = כל מה שאנו עושים מכבד את הבטחתנו בנוגע לנתונים אישיים: לקחת פחות. להגן בקפידה. ללא סודות.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = לקחת את הסימניות, הססמאות ופריטים נוספים שלך לכל מקום בו יש לך את { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = קבלת התרעה כאשר המידע האישי שלך נחשף בדליפת נתונים מוכרת.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = ניהול ססמאות בצורה מאובטחת וניידת.
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -150,43 +193,6 @@ onboarding-multistage-theme-description-alpenglow =
         שימוש בתצוגה צבעונית עבור כפתורים,
         תפריטים וחלונות.
 
-## Welcome full page string
-
-onboarding-fullpage-form-email =
-    .placeholder = כתובת הדוא״ל שלך…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = { -brand-product-name } איתך בכל מקום
-onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
-onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
-onboarding-sync-form-input =
-    .placeholder = דוא״ל
-onboarding-sync-form-continue-button = המשך
-onboarding-sync-form-skip-login-button = דילוג על שלב זה
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = נא להקליד את כתובת הדוא״ל שלך
-onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = לבצע משימות עם משפחת כלים שמכבדת את הפרטיות שלך בכל המכשירים שלך.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = כל מה שאנו עושים מכבד את הבטחתנו בנוגע לנתונים אישיים: לקחת פחות. להגן בקפידה. ללא סודות.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = לקחת את הסימניות, הססמאות ופריטים נוספים שלך לכל מקום בו יש לך את { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = קבלת התרעה כאשר המידע האישי שלך נחשף בדליפת נתונים מוכרת.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = ניהול ססמאות בצורה מאובטחת וניידת.
-
 ## These strings belong to the individual onboarding messages.
 
 
@@ -217,6 +223,7 @@ onboarding-mobile-phone-button = הורדת דפדפן לנייד
 # tab's context menu.
 onboarding-send-tabs-text2 = שיתוף פשוט של דפים בין המכשירים שלך מבלי להעתיק את הקישורים או לעזוב את הדפדפן.
 onboarding-send-tabs-button = התחלת שימוש ב־Send Tabs
+onboarding-pocket-anywhere-title = לקרוא ולהקשיב בכל מקום
 onboarding-pocket-anywhere-text2 = ניתן לשמור את התכנים המועדפים עליך באופן לא מקוון עם { -pocket-brand-name } ולקרוא, לשמוע ולצפות בהם מתי שנוח לך.
 onboarding-pocket-anywhere-button = לנסות את { -pocket-brand-name }
 onboarding-lockwise-strong-passwords-title = יצירה ואחסון ססמאות חזקות
