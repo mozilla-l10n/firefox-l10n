@@ -379,11 +379,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Wanneer toegestaan, heeft de extensie toegang tot uw online-activiteiten tijdens privénavigatie. <a data-l10n-name="learn-more">Meer info</a>
 addon-detail-private-browsing-allow = Toestaan
 addon-detail-private-browsing-disallow = Niet toestaan
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } beveelt alleen extensies aan die voldoen aan onze normen voor beveiliging en prestaties
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Deze extensie is gemaakt door de makers van { -brand-product-name }
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = De code van deze extensie is voor uw veiligheid beoordeeld
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = Beschikbare updates
 recent-updates-heading = Recente updates
 release-notes-loading = Laden…
