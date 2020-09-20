@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = ניקוי מטמון DNS
+about-networking-dns-trr-url = כתובת DoH
 about-networking-dns-suffix = סיומת DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = רענון
