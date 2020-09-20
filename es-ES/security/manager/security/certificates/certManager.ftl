@@ -18,6 +18,7 @@ certmgr-mine = Tiene certificados de estas organizaciones que le identifican
 certmgr-remembered = Estos certificados se utilizan para identificarle en los sitios web.
 certmgr-people = Tiene certificados guardados que identifican estas personas
 certmgr-servers = Tiene certificados guardados que identifican estos servidores
+certmgr-server = Estas entradas identifican las excepciones de error del certificado del servidor
 certmgr-ca = Tiene certificados guardados que identifican estas autoridades de certificación
 certmgr-detail-general-tab-title =
     .label = General
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Eliminar excepciones de certificados de servidor
 delete-ssl-cert-confirm = ¿Seguro que quiere eliminar estas excepciones de servidor?
 delete-ssl-cert-impact = Si elimina una excepción de servidor, restaurará los controles de seguridad habituales para ese servidor y se requerirá que use un certificado válido.
+delete-ssl-override-title =
+    .title = Eliminar la excepción del certificado del servidor
+delete-ssl-override-confirm = ¿Seguro que quiere eliminar esta excepción de servidor?
+delete-ssl-override-impact = Si elimina una excepción de servidor, restaurará los controles de seguridad habituales para ese servidor y se requerirá que use un certificado válido.
 delete-ca-cert-title =
     .title = Eliminar o dejar de confiar certificados CA
 delete-ca-cert-confirm = Ha solicitado eliminar estos certificados de CA. En el caso de los incluidos de serie, en lugar de borrarlos se les retira la confianza, lo que tiene el mismo efecto. ¿Seguro que quiere hacer esto?
@@ -210,6 +215,13 @@ cert-not-verified_algorithm-disabled = No se ha podido verificar este certificad
 cert-not-verified-unknown = No se pudo verificar este certificado por razones desconocidas.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = No enviar el certificado del cliente
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (No guardado)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Permanente
+temporary-override = Temporal
 
 ## Add Security Exception dialog
 
