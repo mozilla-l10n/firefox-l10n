@@ -13,3 +13,4 @@ openpgp-compose-key-status-status =
 openpgp-compose-key-status-open-details = จัดการคีย์สำหรับผู้รับที่เลือก…
 openpgp-recip-good = ตกลง
 openpgp-recip-missing = ไม่มีคีย์ที่พร้อมใช้งาน
+openpgp-recip-none-accepted = ไม่มีคีย์ที่ยอมรับ
