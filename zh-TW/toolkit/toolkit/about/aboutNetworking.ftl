@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = 清除 DNS 快取
+about-networking-dns-trr-url = DoH 網址
 about-networking-dns-suffix = DNS 後綴
 about-networking-websockets = WebSockets
 about-networking-refresh = 更新
