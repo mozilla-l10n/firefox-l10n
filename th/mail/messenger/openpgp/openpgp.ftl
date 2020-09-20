@@ -119,6 +119,19 @@ openpgp-key-man-show-others-keys =
     .accesskey = น
 openpgp-key-man-user-id-label =
     .label = ชื่อ
+openpgp-key-man-fingerprint-label =
+    .label = ลายนิ้วมือ
+openpgp-key-man-select-all =
+    .label = เลือกคีย์ทั้งหมด
+    .accesskey = ง
+openpgp-key-man-empty-tree-tooltip =
+    .label = ป้อนคำค้นหาในกล่องด้านบน
+openpgp-key-man-nothing-found-tooltip =
+    .label = ไม่มีคีย์ที่ตรงกับคำค้นหาของคุณ
+openpgp-key-man-please-wait-tooltip =
+    .label = โปรดรอในขณะที่กำลังโหลดคีย์…
+openpgp-key-man-filter-label =
+    .placeholder = ค้นหาคีย์
 
 ## e2e encryption settings
 

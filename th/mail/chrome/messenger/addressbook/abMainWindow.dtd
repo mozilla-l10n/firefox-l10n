@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "ลบรายชื่อ">
 <!ENTITY deleteItemsCmd.label                           "ลบรายการ">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "คุณสมบัติ">
 <!ENTITY propertiesMenu.accesskey                       "ค">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "จดหมายและกลุ่มข่าว">
 <!ENTITY messengerCmd.accesskey                         "จ">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "สมุดรายชื่อ">
-<!ENTITY addressBookCmd.accesskey                       "ส">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "ค้นหาที่อยู่…">
 <!ENTITY searchAddressesCmd.accesskey                   "ค">
 <!ENTITY importCmd.label                                "นำเข้า…">
@@ -129,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "ค">
 <!ENTITY abPropertiesContext.label                      "คุณสมบัติ">
 <!ENTITY abPropertiesContext.accesskey                  "ค">
+<!ENTITY syncContext.label                              "ประสาน">
+<!ENTITY syncContext.accesskey                          "ะ">
 <!ENTITY editContactContext.label                       "แก้ไขผู้ติดต่อ">
 <!ENTITY editContactContext.accesskey                   "ก">
 <!ENTITY editMailingListContext.label                   "แก้ไขรายชื่อ">

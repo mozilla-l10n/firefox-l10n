@@ -25,6 +25,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.accesskey "ร">
 
 
+<!ENTITY historyGroup.label                "ประวัติ">
+
 <!ENTITY itemHistory.label                 "ประวัติการเรียกดู">
 <!ENTITY itemHistory.accesskey             "ป">
 <!ENTITY itemCookies.label                 "คุกกี้">
