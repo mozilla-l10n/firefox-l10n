@@ -387,6 +387,9 @@ addon-badge-recommended2 =
 addon-badge-line =
     .title = Aquesta extension foguèt creada pels creators de { -brand-product-name }
     .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Lo còdi d’aquesta extension foguèt validat per sa seguretat
+    .aria-label = { addon-badge-verified.title }
 
 ##
 
