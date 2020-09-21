@@ -62,7 +62,7 @@ login-list-item-title-new-login = Nova prijava
 login-list-item-subtitle-new-login = Upiši svoje podatke za prijavu
 login-list-item-subtitle-missing-username = (nema korisničkog imena)
 about-logins-list-item-breach-icon =
-    .title = Hakirana web stranica
+    .title = Hakirana web-stranica
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranjiva lozinka
 
