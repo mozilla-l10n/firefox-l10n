@@ -367,11 +367,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Hendy jave, pe jepysokue ikatu oike ejapóva guivépe eikundaha ñemi aja. <a data-l10n-name="learn-more">Eikuaave</a>
 addon-detail-private-browsing-allow = Moneĩ
 addon-detail-private-browsing-disallow = Ani emoneĩ
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } omoneĩ jepysokue oguerekóva tekorosã ha tembiapokue
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Ko jepysokue omoheñói umi { -brand-product-name } apohare
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Ayvu ko jepysokue rehegua ojehecha tekorosãrãnte
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = Ñembohekopyahu eipurukuaáva
 recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…

@@ -165,6 +165,7 @@ delete-ssl-cert-impact = Emboguetéramo mohendahavusúpe oĩ’ỹva, ombojevýt
 delete-ssl-override-title =
     .title = Eliminar mohendahavusu mboajepyréva ykepegua
 delete-ssl-override-confirm = ¿Añetehápe emboguesete ko mohendahavusu ykepeguáva?
+delete-ssl-override-impact = Emboguéramo mohendahavusu oĩ’ỹva, ombojevýta tekorosãrã ñangarekoha tapiagua mohendahavusúpe g̃uarã ha oikotevẽta mboajepyre oikóva.
 delete-ca-cert-title =
     .title = Emboguete térã anive ejerovia mboajepyréva CA rehe
 delete-ca-cert-confirm = Ejerurékuri emboguete hag̃ua ko’ã CA mboajepyre. Oikeva’ekue ojuapykueripa, embogueranguékuri ojeipe’áma chugui jerovia, peichaite oikokuaa. Ejapose añetetépa koichaite.
