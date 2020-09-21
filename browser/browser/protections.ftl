@@ -116,13 +116,22 @@ info-known-breaches-found =
        *[other] poznatih curenja podataka je izložilo tvoje informacije
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Poznato curenje podataka označeno kao riješeno
+        [few] Poznata curenja podataka označena kao riješena
+       *[other] Poznatih curenja podataka označena kao riješena
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] lozinka je izložena u curenja podataka
-        [few] lozinke su izložene u curenju podataka
-       *[other] lozinki je izloženo u curenju podataka
+        [one] lozinka je izložena u svim curenjima podataka
+        [few] lozinke su izložene u svim curenjima podataka
+       *[other] lozinki je izloženo u svim curenjima podataka
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
@@ -131,7 +140,7 @@ info-exposed-passwords-resolved =
     { $count ->
         [one] Lozinka izložena u neriješenim curenjima podataka
         [few] Lozinke izložene u neriješenim curenjima podataka
-       *[other] Lozinka izložene u neriješenim curenjima podataka
+       *[other] Lozinki izloženo u neriješenim curenjima podataka
     }
 monitor-no-breaches-title = Dobre vijesti!
 monitor-no-breaches-description = Ne pojavljuješ se u poznatim curenjima podataka. Ako se to promijeni, obavijestit ćemo te.
@@ -139,6 +148,8 @@ monitor-view-report-link = Pogledaj izvještaj
     .title = Riješi curenja podataka na { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Riješi curenja tvojih podataka
 monitor-breaches-unresolved-description = Nakon pregleda detalja curenja podataka i poduzimanja koraka za zaštitu tvojih podataka, curenja podataka možeš označiti kao riješena.
+monitor-manage-breaches-link = Upravljaj curenjima podataka
+    .title = Upravljaj curenjima podataka na { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Super! Sva poznata curenja podataka su riješena.
 monitor-breaches-resolved-description = Ako se tvoja e-adresa pojavi u nekom novom curenju podataka, obavijestit ćemo te.
 # Variables:
