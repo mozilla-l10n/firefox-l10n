@@ -153,11 +153,23 @@ monitor-manage-breaches-link = Upravljaj curenjima podataka
 monitor-breaches-resolved-title = Super! Sva poznata curenja podataka su riješena.
 monitor-breaches-resolved-description = Ako se tvoja e-adresa pojavi u nekom novom curenju podataka, obavijestit ćemo te.
 # Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } od { $numBreaches } curenja podataka označeno kao riješeno
+        [few] { $numBreachesResolved } od { $numBreaches } curenja podataka označena kao riješena
+       *[other] { $numBreachesResolved } od { $numBreaches } curenja podataka označena kao riješena
+    }
+# Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % gotovo
 monitor-partial-breaches-motivation-title-start = Odličan početak!
 monitor-partial-breaches-motivation-title-middle = Samo tako nastavi!
 monitor-partial-breaches-motivation-title-end = Skoro gotovo! Samo tako nastavi.
+monitor-partial-breaches-motivation-description = Riješi ostala curenja podataka na { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Riješi curenja podataka
+    .title = Riješi curenja podataka na { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
