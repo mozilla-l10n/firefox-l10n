@@ -45,5 +45,7 @@ remove-info =
     .value = Kailangan mong i-enter ang iyong kasalukuyang password upang magpatuloy:
 remove-warning1 = Ang iyong Master Password ay ginagamit upang protektahan ang sensitibong impormasyon tulad ng mga password sa mga site.
 remove-warning2 = Kapag tinanggal mo ang iyong Master Password, hindi protektado ang iyong impormasyon kapag ang iyong computer ay makompromiso.
+remove-primary-password-warning1 = Ang iyong Primary Password ay ginagamit upang maprotektahan ang mga sensitibong impormasyon kagaya ng mga login at password.
+remove-primary-password-warning2 = Kapag tinanggal mo ang iyong Primary Password, hindi na mapoprotektahan ang iyong impormasyon kapag nakompromiso ang iyong computer.
 remove-password-old-password =
     .value = Kasalukuyang na password:
