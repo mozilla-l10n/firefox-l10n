@@ -149,7 +149,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editContactPropertiesButton.tooltip            "Editar o contato selecionado">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Editar a lista de correios selecionada">
 <!ENTITY newmsgButton.tooltip                           "Enviar um nova mensagem">
-<!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
+<!ENTITY newIM.tooltip                                  "Enviar uma mensagem ou conversa instantânea">
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
 
 <!-- Search Bar -->
@@ -166,7 +166,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Nome do bate-papo">
+<!ENTITY ChatName.label                                 "Nome da conversa">
 <!ENTITY ChatName.accesskey                             "B">
 <!ENTITY Company.label                                  "Organização">
 <!ENTITY Company.accesskey                              "m">
@@ -200,7 +200,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contato">
 <!ENTITY home.heading                                   "Início">
 <!ENTITY other.heading                                  "Outros">
-<!ENTITY chat.heading                                   "Bate-papo">
+<!ENTITY chat.heading                                   "Conversa">
 <!ENTITY phone.heading                                  "Telefones">
 <!ENTITY work.heading                                   "Endereço comercial">
 <!-- Special Box Headings, for mailing lists -->
