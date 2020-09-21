@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  newTab.label           "Nov zavihek">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "Zapri zavihek">
+<!ENTITY  closeOtherTabs.label   "Zapri ostale zavihke">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Zapri zavihke na desni">
+<!ENTITY  reloadAllTabs.label    "Ponovno naloži vse zavihke">

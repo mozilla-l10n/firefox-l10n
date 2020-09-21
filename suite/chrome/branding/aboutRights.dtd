@@ -72,3 +72,4 @@
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; lahko prekine ali spremeni svoje storitve, kadarkoli mu ustreza.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; lahko občasno po potrebi posodobi navedene pogoje. Brez pisnega soglasja &vendorShortName; pa jih ni dovoljeno spreminjati ali preklicati.">

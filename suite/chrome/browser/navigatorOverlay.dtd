@@ -4,10 +4,10 @@
 
 <!-- File Menu -->
 <!ENTITY tabCmd.label "Zavihek brskalnika">
+<!ENTITY openCmd.label "Odpri spletni naslov …">
 <!ENTITY openFileCmd.label "Odpri datoteko …">
 
 <!ENTITY closeOtherTabs.label "Zapri ostale zavihke">
-
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -15,8 +15,6 @@ left instead of right. -->
 
 <!ENTITY uploadFile.label "Naloži datoteko …">
 <!ENTITY uploadFile.accesskey "ž">
-
-<!ENTITY printSetupCmd.label "Priprava strani …">
 
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Najdi na tej strani …">
@@ -28,6 +26,7 @@ left instead of right. -->
 
 <!ENTITY useStyleSheetMenu.label "Uporabi slog">
 <!ENTITY useStyleSheetPersistentOnly.label "Privzeti slog">
+<!ENTITY bidiSwitchPageDirectionItem.label "Preklopi smer strani">
 <!ENTITY pageSourceCmd.label "Vir strani">
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 
