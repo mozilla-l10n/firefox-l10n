@@ -13,8 +13,8 @@
 <!ENTITY chat.noAccount.description       "Deixe o &brandShortName; guiar você pelo processo de configuração da sua conta de conversa.">
 <!ENTITY chat.accountWizard.button       "Começar">
 <!ENTITY chat.noConnectedAccount.title             "Suas contas de conversa não estão conectadas.">
-<!ENTITY chat.noConnectedAccount.description       "Você pode conectá-las pela janela “Status do bate-papo”:">
-<!ENTITY chat.showAccountManager.button       "Mostrar status do bate-papo">
+<!ENTITY chat.noConnectedAccount.description       "Você pode conectá-las a partir do diálogo 'Estado da conversa':">
+<!ENTITY chat.showAccountManager.button       "Exibir status da conversa">
 
 <!ENTITY chat.participants             "Participantes:">
 <!ENTITY chat.previousConversations    "Conversas anteriores:">
@@ -33,8 +33,8 @@
 <!ENTITY closeConversationButton.tooltip "Fechar conversa">
 
 <!ENTITY addBuddyButton.label          "Adicionar contato">
-<!ENTITY joinChatButton.label          "Entrar em uma sala">
-<!ENTITY chatAccountsButton.label      "Mostrar conta">
+<!ENTITY joinChatButton.label          "Entrar em uma conversa">
+<!ENTITY chatAccountsButton.label      "Mostrar contas">
 
 <!ENTITY status.available          "Disponível">
 <!ENTITY status.unavailable        "Não disponível">
