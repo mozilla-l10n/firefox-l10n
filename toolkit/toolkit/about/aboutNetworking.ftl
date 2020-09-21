@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Socedi
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Clirio'r Storfa DNS
+about-networking-dns-trr-url = URL DoH
 about-networking-dns-suffix = Ôl-ddodiad DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Adnewyddu
