@@ -24,3 +24,4 @@ crashed-email-me = Egueruka chéve ñanduti veve oĩ hetavévo marandu jehechaku
 crashed-report-sent = Crash marandu oñemoguahẽma ; aguyje orepytyvõ rupi { -brand-short-name } okakuaave haguã!
 crashed-request-auto-submit-title = Marandu’i tendayke rugua pegua
 crashed-auto-submit-checkbox = Embotekopyahu Jerohoryvéva ikatuhaguáicha oñemondo ijehegui marandu { -brand-short-name } iñapañuãi jave.
+crashed-auto-submit-checkbox-2 = Embohekopyahu erohoryvéva oho hag̃ua ijehegui marandu { -brand-short-name } ojavývo.
