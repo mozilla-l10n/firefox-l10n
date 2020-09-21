@@ -34,6 +34,14 @@ compatibility-target-browsers-header = Mga Target na Browser
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } pagkakataon
+       *[other] { $number } pagkakataon
+    }
 compatibility-no-issues-found = Walang natagpuang mga compatibility issue.
 compatibility-close-settings-button =
     .title = Isara ang mga setting
