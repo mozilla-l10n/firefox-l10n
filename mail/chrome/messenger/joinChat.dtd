@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY joinChatWindow.title           "Entrar em uma sala de bate-papo">
+<!ENTITY joinChatWindow.title           "Entrar em uma conversa">
 <!ENTITY name.label                     "Sala">
 <!ENTITY optional.label                 "(opcional)">
 <!ENTITY account.label                  "Conta">
-<!ENTITY autojoin.label                 "Entrar automaticamente nesta sala de bate-papo">
+<!ENTITY autojoin.label                 "Entrar automaticamente nesta sala de conversa">
 <!ENTITY autojoin.accesskey             "E">
