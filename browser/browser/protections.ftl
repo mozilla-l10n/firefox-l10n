@@ -137,7 +137,10 @@ monitor-no-breaches-title = Dobre vijesti!
 monitor-no-breaches-description = Ne pojavljuješ se u poznatim curenjima podataka. Ako se to promijeni, obavijestit ćemo te.
 monitor-view-report-link = Pogledaj izvještaj
     .title = Riješi curenja podataka na { -monitor-brand-short-name }
-monitor-breaches-unresolved-title = Ispravi svoja curenja podataka
+monitor-breaches-unresolved-title = Riješi curenja tvojih podataka
+monitor-breaches-unresolved-description = Nakon pregleda detalja curenja podataka i poduzimanja koraka za zaštitu tvojih podataka, curenja podataka možeš označiti kao riješena.
+monitor-breaches-resolved-title = Super! Sva poznata curenja podataka su riješena.
+monitor-breaches-resolved-description = Ako se tvoja e-adresa pojavi u nekom novom curenju podataka, obavijestit ćemo te.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % gotovo
