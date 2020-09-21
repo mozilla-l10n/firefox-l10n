@@ -88,6 +88,8 @@ monitor-title = Pazi na curenje podataka
 monitor-link = Kako funkcionira
 monitor-header-content-no-account = Koristi { -monitor-brand-name } i provjeri, je li se tvoji podaci nalaze u poznatom curenja podataka te dobivaj obavijesti o novim curenjima podataka.
 monitor-header-content-signed-in = { -monitor-brand-name } te upozorava ukoliko su se tvoji podaci pojavili u curenju podataka.
+monitor-sign-up-link = Prijavi se za upozorenja o curenju podataka
+    .title = Prijavi se za upozorenja o curenju podataka na { -monitor-brand-name }
 auto-scan = Danas automatski pretraženo
 monitor-emails-tooltip =
     .title = Pogledaj praćene e-adrese na { -monitor-brand-short-name }
@@ -122,7 +124,20 @@ info-exposed-passwords-found =
         [few] lozinke su izložene u curenju podataka
        *[other] lozinki je izloženo u curenju podataka
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Lozinka izložena u neriješenim curenjima podataka
+        [few] Lozinke izložene u neriješenim curenjima podataka
+       *[other] Lozinka izložene u neriješenim curenjima podataka
+    }
 monitor-no-breaches-title = Dobre vijesti!
+monitor-no-breaches-description = Ne pojavljuješ se u poznatim curenjima podataka. Ako se to promijeni, obavijestit ćemo te.
+monitor-view-report-link = Pogledaj izvještaj
+    .title = Riješi curenja podataka na { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Ispravi svoja curenja podataka
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % gotovo
