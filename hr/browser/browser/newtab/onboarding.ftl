@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Započnite
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
 onboarding-welcome-body = Imaš preglednik.<br/>Upoznaj ostale { -brand-product-name } dijelove.
 onboarding-welcome-learn-more = Saznaj više o prednostima.
@@ -72,8 +80,6 @@ onboarding-multistage-theme-primary-button-label = Spremi temu
 onboarding-multistage-theme-secondary-button-label = Ne sada
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatski
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Koristi temu sustava
 onboarding-multistage-theme-label-light = Svijetlo
 onboarding-multistage-theme-label-dark = Tamno
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -102,36 +108,12 @@ onboarding-multistage-theme-tooltip-dark =
         Koristite tamni izgled za tipke,
         izbornike i prozore.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
     .title =
-        Naslijedite izgled svog operativnog
-        sustava za tipke, izbornike i prozore.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description =
-        Naslijedite izgled svog operativnog
-        sustava za tipke, izbornike i prozore.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title =
-        Koristite svijetli izgled za tipke,
+        Koristi šareni izgled za gumbe, 
         izbornike i prozore.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description =
-        Koristite svijetli izgled za tipke,
-        izbornike i prozore.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title =
-        Koristite tamni izgled za tipke,
-        izbornike i prozore.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description =
-        Koristite tamni izgled za tipke,
-        izbornike i prozore.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
@@ -170,6 +152,36 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Dobij obavijest kad se tvoji podaci nalaze u poznatom curenju podataka.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i prenosive.
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Naslijedite izgled svog operativnog
+        sustava za tipke, izbornike i prozore.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Naslijedite izgled svog operativnog
+        sustava za tipke, izbornike i prozore.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Koristite svijetli izgled za tipke,
+        izbornike i prozore.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Koristite svijetli izgled za tipke,
+        izbornike i prozore.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Koristite tamni izgled za tipke,
+        izbornike i prozore.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Koristite tamni izgled za tipke,
+        izbornike i prozore.
 
 ## These strings belong to the individual onboarding messages.
 
