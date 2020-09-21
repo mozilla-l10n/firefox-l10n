@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Texto sem formatação">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconhecido">
-<!ENTITY chatName.label                 "Nome de bate-papo:">
+<!ENTITY chatName.label                 "Nome da conversa:">
 
 <!ENTITY WorkPhone.label                "Trabalho:">
 <!ENTITY WorkPhone.accesskey            "b">
@@ -118,7 +118,7 @@
 <!ENTITY Notes.label                    "Notas:">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Chat.tab                       "Bate-papo">
+<!ENTITY Chat.tab                       "Conversa">
 <!ENTITY Chat.accesskey                 "B">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">

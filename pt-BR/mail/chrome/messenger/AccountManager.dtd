@@ -2,19 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Configurar contas">
-
 <!ENTITY  accountManagerCloseButton.label "Fechar">
 
 <!ENTITY accountActionsButton.label "Ações de contas">
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Nova conta de e-mail…">
 <!ENTITY addMailAccountButton.accesskey "N">
-<!ENTITY addIMAccountButton.label "Nova conta de bate-papo…">
+<!ENTITY addIMAccountButton.label "Nova conta de conversa…">
 <!ENTITY addIMAccountButton.accesskey "v">
 <!ENTITY addFeedAccountButton.label "Nova conta RSS…">
 <!ENTITY addFeedAccountButton.accesskey "R">
@@ -24,8 +21,6 @@
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Remover conta">
 <!ENTITY removeButton.accesskey "R">
-
-<!-- AccountManager.xul -->
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
