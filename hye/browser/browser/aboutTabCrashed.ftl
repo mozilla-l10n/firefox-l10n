@@ -14,6 +14,7 @@ crashed-request-help = Կաւգնե՞ք մեզ։
 crashed-request-help-message = Վթարի զեկոյցներն աւգնում են մեզ վերլուծել խնդիրները եւ դարձնել { -brand-short-name }-ն աւելի լաւը։
 crashed-request-report-title = Զեկուցել այս ներդիրը
 crashed-send-report = Ուղարկել վթարի ինքնաշխատ զեկոյց՝ խնդիրները ուղղելու համար։
+crashed-send-report-2 = Ուղարկէք ինքնաբար վթարի մասին զեկոյց, որպէսզի կարողանանք լուծել այսպիսի խնդիրները
 crashed-comment =
     .placeholder = Լրացուցիչ մեկնաբանութիւններ (մեկնաբանութիւնները հանրային են)
 crashed-include-URL = Ներառեք կայքերի URL-ները, որոնք բացելիս { -brand-short-name }-ը վթարուել է։
