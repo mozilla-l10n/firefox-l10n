@@ -83,15 +83,12 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "A">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Paen Atodiad">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "A">
 <!ENTITY selectAllCmd.accesskey "D">
 <!ENTITY findBarCmd.label "Canfod…">
 <!ENTITY findBarCmd.accesskey "f">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Canfod ac Newid…">
+<!ENTITY findReplaceCmd.label "Canfod ac Amnewid…">
 <!ENTITY findReplaceCmd.accesskey "N">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Canfod Eto">
