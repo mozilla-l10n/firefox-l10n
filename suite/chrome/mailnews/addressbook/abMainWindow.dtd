@@ -4,9 +4,6 @@
 
 <!-- Title -->
 <!ENTITY addressbookWindow.title                        "Catálogo de Endereços">
-
-<!-- Menus:  the . means that the menu item isn't implemented yet -->
-
 <!ENTITY blankResultsPaneMessage.label                  "Este catálogo de endereços mostra contatos somente após uma pesquisa">
 <!ENTITY localResultsOnlyMessage.label                  "Contatos de catálogos de endereços remotos só são mostrados quando você faz uma pesquisa">
 <!-- File Menu -->
@@ -60,7 +57,6 @@
 <!ENTITY lastFirstCmd.accesskey                         "r">
 <!ENTITY displayNameCmd.label                           "Apresentar como">
 <!ENTITY displayNameCmd.accesskey                       "m">
-
 <!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleDirectoryPaneCmd.key                     "S">
@@ -98,8 +94,6 @@
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou chat">
 <!ENTITY printButton.tooltip                            "Imprimir item selecionado">
 <!ENTITY deleteItemButton.tooltip                       "Excluir item selecionado">
-<!ENTITY throbber.tooltip                               "Abrir o site do &vendorShortName; ">
-<!ENTITY throbber.tooltip2                              "Ir para a página inicial do &brandShortName;">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 
 <!-- Dir Tree header -->
@@ -110,7 +104,7 @@
 <!ENTITY contact.heading                                "Contato">
 <!ENTITY home.heading                                   "Página Inicial">
 <!ENTITY other.heading                                  "Outros">
-<!ENTITY chat.heading                                   "Bate-papo">
+<!ENTITY chat.heading                                   "Conversa">
 <!ENTITY phone.heading                                  "Telefones">
 <!ENTITY work.heading                                   "Trabalho">
 <!-- Special Box Headings, for mailing lists -->
