@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Tijaq pa jun K'ak'a' Ichinan Tzuwäch
     .accesskey = c
-
 places-new-bookmark =
     .label = K'ak'a' yaketal…
     .accesskey = y
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = K'ak'a'  jachöy
     .accesskey = j
-
 places-view =
     .label = Titz'et
     .accesskey = t
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Chi rajilab'al q'ij chuqa' ruxaq k'amaya'l
     .accesskey = x
-
 places-history-search =
     .placeholder = Tikanöx natab'äl
 places-bookmarks-search =
     .placeholder = Kekanöx yaketal
-
 places-delete-domain-data =
     .label = Timestäx re ruxaq k'amaya'l re'
     .accesskey = m
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Taq ichinil
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Taq yaketal enuk'samajin
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Achyakwuj
