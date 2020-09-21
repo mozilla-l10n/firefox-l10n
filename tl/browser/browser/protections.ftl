@@ -60,6 +60,8 @@ lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
 protection-report-save-passwords-button = I-save ang mga Password
     .title = Mag-save ng mga Password sa { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = I-manage ang mga Password
+    .title = I-manage ang mga Password sa { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Dalhin kahit saan ang mga password mo
 lockwise-no-logins-card-content = Gamitin sa kahit anong device ang mga password na naka-save sa { -brand-short-name }.
 lockwise-app-links = { -lockwise-brand-name } para sa <a data-l10n-name="lockwise-android-inline-link">Android</a> at <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -141,6 +143,8 @@ monitor-view-report-link = Tingnan ang Report
     .title = Resolve breaches on { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Resolbahin ang iyong mga breach
 monitor-breaches-unresolved-description = Matapos suriin ang mga detalye ng mga breach at gumawa ng mga hakbang para maprotektahan ang iyong impormasyon, maaari mo nang markahan ang mga breach bilang naresolba na.
+monitor-manage-breaches-link = I-manage ang mga Breach
+    .title = I-manage ang mga breach sa { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Magaling! Naresolba mo na lahat ng mga kilalang breach.
 monitor-breaches-resolved-description = Kung sakaling matagpuan ang email mo sa mga bagong breach, babalitaan ka namin.
 # Variables:

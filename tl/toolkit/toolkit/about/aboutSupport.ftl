@@ -125,6 +125,10 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Subukan mag-safe mode
 restart-in-safe-mode-label = Mag-restart na Naka-Disable ang mga Add-on…
+clear-startup-cache-title = Subukang burahin ang startup cache
+clear-startup-cache-label = Burahin ang startup cache…
+startup-cache-dialog-title = Burahin ang startup cache
+startup-cache-dialog-body = I-restart ang { -brand-short-name } para mabura ang startup cache. Hindi nito babaguhin ang iyong mga setting o tanggalin ang mga extension na idinagdag mo sa { -brand-short-name }.
 restart-button-label = Mag-restart
 
 ## Media titles

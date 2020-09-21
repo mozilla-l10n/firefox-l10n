@@ -34,5 +34,6 @@ compatibility-target-browsers-header = Mga Target na Browser
 
 ##
 
+compatibility-no-issues-found = Walang natagpuang mga compatibility issue.
 compatibility-close-settings-button =
     .title = Isara ang mga setting
