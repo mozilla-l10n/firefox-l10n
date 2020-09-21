@@ -5,33 +5,24 @@
 addons-window =
     .title = Kiegészítőkezelő
 addons-page-title = Kiegészítőkezelő
-
 search-header =
     .placeholder = Keresés itt: addons.mozilla.org
     .searchbuttonlabel = Keresés
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Nincs ilyen típusú kiegészítője
-
 list-empty-available-updates =
     .value = Nem találhatók frissítések
-
 list-empty-recent-updates =
     .value = Mostanában nem frissített kiegészítőket
-
 list-empty-find-updates =
     .label = Frissítések keresése
-
 list-empty-button =
     .label = További tudnivalók a kiegészítőkről
-
 help-button = Kiegészítő támogatás
 sidebar-help-button-title =
     .title = Kiegészítő támogatás
-
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } beállítások
@@ -43,21 +34,16 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } beállítások
            *[other] { -brand-short-name } beállítások
         }
-
 show-unsigned-extensions-button =
     .label = Néhány kiegészítő nem ellenőrizhető
-
 show-all-extensions-button =
     .label = Minden kiegészítő megjelenítése
-
 cmd-show-details =
     .label = További adatok megjelenítése
     .accesskey = T
-
 cmd-find-updates =
     .label = Frissítések keresése
     .accesskey = F
-
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -69,88 +55,65 @@ cmd-preferences =
             [windows] B
            *[other] B
         }
-
 cmd-enable-theme =
     .label = Téma alkalmazása
     .accesskey = T
-
 cmd-disable-theme =
     .label = Téma levétele
     .accesskey = l
-
 cmd-install-addon =
     .label = Telepítés
     .accesskey = T
-
 cmd-contribute =
     .label = Támogatás
     .accesskey = T
     .tooltiptext = A kiegészítő fejlesztésének támogatása
-
 detail-version =
     .label = Verzió
-
 detail-last-updated =
     .label = Utoljára frissítve
-
 detail-contributions-description = A kiegészítő fejlesztője azt kéri, hogy egy csekély összeggel támogassa a további fejlesztést.
-
 detail-contributions-button = Közreműködés
     .title = Közreműködés ezen kiegészítő fejlesztésében
     .accesskey = K
-
 detail-update-type =
     .value = Automatikus frissítések
-
 detail-update-default =
     .label = Alapértelmezett
     .tooltiptext = Frissítések automatikus telepítése csak akkor, ha ez az alapbeállítás
-
 detail-update-automatic =
     .label = Be
     .tooltiptext = Frissítések automatikus telepítése
-
 detail-update-manual =
     .label = Ki
     .tooltiptext = Ne legyenek automatikus frissítések
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Futtatás privát ablakokban
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Privát ablakokban nem engedélyezett
 detail-private-disallowed-description2 = Ez a kiegészítő nem fut privát böngészéskor. <a data-l10n-name="learn-more">További tudnivalók</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Hozzáférés szükséges a privát ablakokhoz
 detail-private-required-description2 = Ez a kiegészítő hozzáfér az online tevékenységéhez privát böngészéskor. <a data-l10n-name="learn-more">További tudnivalók</a>
-
 detail-private-browsing-on =
     .label = Engedélyezés
     .tooltiptext = Engedélyezés privát böngészésben
-
 detail-private-browsing-off =
     .label = Tiltás
     .tooltiptext = Tiltás privát böngészésben
-
 detail-home =
     .label = Honlap
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Kiegészítő profilja
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Frissítések keresése
     .accesskey = F
     .tooltiptext = Frissítések keresése ehhez a kiegészítőhöz
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -167,38 +130,26 @@ detail-show-preferences =
             [windows] A kiegészítő beállításainak módosítása
            *[other] A kiegészítő beállításainak módosítása
         }
-
 detail-rating =
     .value = Értékelés
-
 addon-restart-now =
     .label = Újraindítás most
-
 disabled-unsigned-heading =
     .value = Néhány kiegészítő letiltásra került
-
 disabled-unsigned-description = A következő kiegészítők nem lettek ellenőrizve a { -brand-short-name } böngészőben való használatra. Lehetősége van <label data-l10n-name="find-addons">helyettesítőket keresni</label> vagy megkérni a fejlesztőt az ellenőriztetésre.
-
 disabled-unsigned-learn-more = Tudjon meg többet erőfeszítéseinkről az online biztonsága fenntartásáért.
-
 disabled-unsigned-devinfo = A kiegészítőik ellenőriztetése iránt érdeklődő fejlesztők folytathatják a <label data-l10n-name="learn-more">kézikönyv</label> elolvasásával.
-
 plugin-deprecation-description = Hiányzik valami? Néhány bővítményt már nem támogat a { -brand-short-name }. <label data-l10n-name="learn-more">További tudnivalók.</label>
-
 legacy-warning-show-legacy = Hagyományos kiegészítők megjelenítése
-
 legacy-extensions =
     .value = Hagyományos kiegészítők
-
 legacy-extensions-description = Ezek a kiegészítők nem felelnek meg a { -brand-short-name } aktuális elvárásainak, emiatt le lettek tiltva. <label data-l10n-name="legacy-learn-more">További tudnivalók a kiegészítők módosulásáról</label>
-
 private-browsing-description2 =
     A { -brand-short-name } megváltoztatja a kiegészítők működését privát böngészésben. A { -brand-short-name }hoz
     hozzáadott új kiegészítők alapértelmezetten nem futnak privát böngészésben. Ha nem engedélyezi a beállításokban,
     akkor a kiegészítő nem fog működni privát böngészésben, és ott nem fog hozzáférni az online tevékenységéhez.
     Ezt a változtatást azért hoztuk, hogy a privát böngészése tényleg privát legyen.
     <label data-l10n-name="private-browsing-learn-more">Tudjon meg többet a kiegészítőbeállítások kezeléséről.</label>
-
 addon-category-discover = Javaslatok
 addon-category-discover-title =
     .title = Javaslatok
@@ -233,7 +184,6 @@ extensions-warning-check-compatibility-button = Engedélyezés
 extensions-warning-update-security = A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.
 extensions-warning-update-security-button = Engedélyezés
     .title = Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése
-
 
 ## Strings connected to add-on updates
 
@@ -280,43 +230,34 @@ addon-open-about-debugging = Kiegészítők hibakeresése
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Kiegészítő-gyorsbillentyűk kezelése
     .accesskey = o
-
 shortcuts-no-addons = Egyetlen kiegészítő sincs engedélyezve.
 shortcuts-no-commands = A következő kiegészítők nem rendelkeznek gyorsbillentyűvel:
 shortcuts-input =
     .placeholder = Írjon be egy gyorsbillentyűt
-
 shortcuts-browserAction2 = Eszköztárgomb aktiválása
 shortcuts-pageAction = Lapművelet aktiválása
 shortcuts-sidebarAction = Oldalsáv be/ki
-
 shortcuts-modifier-mac = Ctrl, Alt vagy ⌘ gombot tartalmaz
 shortcuts-modifier-other = Ctrl vagy Alt gombot tartalmaz
 shortcuts-invalid = Érvénytelen kombináció
 shortcuts-letter = Írjon be egy betűt
 shortcuts-system = Nem írhat felül egy { -brand-short-name } gyorsbillentyűt
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Ismétlődő parancsikon
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = A { $shortcut } gyorsbillentyű több mint egy esetben van használva. Az ismétlődő gyorsbillentyűk váratlan viselkedést okozhatnak.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Már használja: { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Még { $numberToShow } megjelenítése
        *[other] Még { $numberToShow } megjelenítése
     }
-
 shortcuts-card-collapse-button = Kevesebb megjelenítése
-
 header-back-button =
     .title = Ugrás vissza
 
@@ -332,15 +273,12 @@ discopane-intro =
     harmadik felek készítik. Itt vagy egy válogatás, amelyet a { -brand-product-name }
     a kivételes biztonságuk, teljesítményük és funkcionalitásuk miatt 
     <a data-l10n-name="learn-more-trigger">javasol</a>.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Ezen javaslatok egy része személyre szabott. Ennek alapja a telepített kiegészítői,
     a profilbeállításai és a használati statisztikái.
 discopane-notice-learn-more = További tudnivalók
-
 privacy-policy = Adatvédelmi irányelvek
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -355,7 +293,6 @@ install-theme-button = Téma telepítése
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Kezelés
 find-more-addons = Több kiegészítő keresése
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -381,47 +318,36 @@ preferences-addon-button =
 details-addon-button = Részletek
 release-notes-addon-button = Kiadási megjegyzések
 permissions-addon-button = Engedélyek
-
 extension-enabled-heading = Engedélyezve
 extension-disabled-heading = Tiltva
-
 theme-enabled-heading = Engedélyezve
 theme-disabled-heading = Tiltva
-
 plugin-enabled-heading = Engedélyezve
 plugin-disabled-heading = Tiltva
-
 dictionary-enabled-heading = Engedélyezve
 dictionary-disabled-heading = Tiltva
-
 locale-enabled-heading = Engedélyezve
 locale-disabled-heading = Tiltva
-
 ask-to-activate-button = Aktiválás kérésre
 always-activate-button = Mindig aktiválja
 never-activate-button = Soha ne aktiválja
-
 addon-detail-author-label = Szerző
 addon-detail-version-label = Verzió
 addon-detail-last-updated-label = Utoljára frissítve
 addon-detail-homepage-label = Honlap
 addon-detail-rating-label = Értékelés
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ez a kiegészítő a { -brand-short-name } újraindításakor lesz frissítve.
 install-postponed-button = Frissítés most
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Értékelés: { NUMBER($rating, maximumFractionDigits: 1) } az 5-ből
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (letiltva)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -437,14 +363,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been removed.
 pending-uninstall-undo-button = Visszavonás
-
 addon-detail-updates-label = Automatikus frissítések engedélyezése
 addon-detail-updates-radio-default = Alapértelmezett
 addon-detail-updates-radio-on = Be
 addon-detail-updates-radio-off = Ki
 addon-detail-update-check-label = Frissítések keresése
 install-update-button = Frissítés
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -454,23 +378,28 @@ addon-detail-private-browsing-help = Ha engedélyezve van, a kiegészítő hozz�
 addon-detail-private-browsing-allow = Engedélyezés
 addon-detail-private-browsing-disallow = Tiltás
 
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = A { -brand-product-name } csak olyan kiegészítőket ajánl, amelyek megfelelnek a biztonsági és a teljesítménybeli követelményeinknek.
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Ezt a kiegészítőt a { -brand-product-name } készítői hozták létre.
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = A kiegészítő biztonsági okokból kódfelülvizsgálaton esett át
+    .aria-label = { addon-badge-verified.title }
+
+##
 
 available-updates-heading = Elérhető frissítések
 recent-updates-heading = Legutóbbi frissítések
-
 release-notes-loading = Betöltés…
 release-notes-error = Sajnáljuk, de hiba történt a kiadási megjegyzések betöltésekor.
-
 addon-permissions-empty = Ez a kiegészítő nem igényel semmilyen engedélyt
-
 recommended-extensions-heading = Ajánlott kiegészítők
 recommended-themes-heading = Ajánlott témák
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Kreatívnak érzi magát? <a data-l10n-name="link">Állítsa össze a saját témáját a Firefox Color használatával.</a>
@@ -485,10 +414,8 @@ locale-heading = Nyelvek kezelése
 updates-heading = Frissítések kezelése
 discover-heading = A { -brand-short-name } testreszabása
 shortcuts-heading = Kiegészítő-gyorsbillentyűk kezelése
-
 default-heading-search-label = Több kiegészítő keresése
 addons-heading-search-input =
     .placeholder = Keresés itt: addons.mozilla.org
-
 addon-page-options-button =
     .title = Eszközök minden kiegészítőhöz

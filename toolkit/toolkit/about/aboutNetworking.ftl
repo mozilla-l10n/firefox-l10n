@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Foglalatok
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS-gyorsítótár törlése
+about-networking-dns-trr-url = DoH URL
 about-networking-dns-suffix = DNS utótag
 about-networking-websockets = WebSocketek
 about-networking-refresh = Frissítés
