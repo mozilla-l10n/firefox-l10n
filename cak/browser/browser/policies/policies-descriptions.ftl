@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Titzolin rik'in ri rub
 
 policy-LocalFileLinks = Tiya' q'ij chi ri ajk'amaya'l ruxaq tikixima' ki' kik'in ri aj wawe' taq yakb'äl.
 policy-MasterPassword = Tik'utüx o man tokisäx jun ajtij ewan tzij.
+policy-ManagedBookmarks = Tab'ab'ana' kinuk'ulem jun kicholajem taq yaketal nuk'samajin ruma jun nuk'samajel, ri man nitikïr ta nujäl ri okisanel.
 policy-PrimaryPassword = Tik'utüx o man tokisäx jun Nab'ey Ewan Tzij.
 policy-NetworkPrediction = Titzij o tichup ri nutz'et k'amab'ey (DNS nab'ey rukanoxik).
 policy-NewTabPage = Titzij o tichup ri ruxaq K'ak'a' Ruwi'.
