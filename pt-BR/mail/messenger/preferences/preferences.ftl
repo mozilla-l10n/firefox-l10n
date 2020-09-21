@@ -19,9 +19,9 @@ category-compose =
 pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = Privacidade e Segurança
-pane-chat-title = Bate-papo
+pane-chat-title = Conversa
 category-chat =
-    .tooltiptext = Bate-papo
+    .tooltiptext = Conversa
 pane-calendar-title = Agenda
 category-calendar =
     .tooltiptext = Agenda
@@ -61,7 +61,7 @@ privacy-security-header = Segurança
 privacy-scam-detection-title = Detecção de fraudes
 privacy-anti-virus-title = Antivírus
 privacy-certificates-title = Certificados
-chat-pane-header = Bate papo
+chat-pane-header = Conversa
 chat-status-title = Status
 chat-notifications-title = Notificações
 chat-pane-styling-header = Estilos
@@ -603,9 +603,9 @@ startup-label =
     .value = Ao iniciar o { -brand-short-name }:
     .accesskey = o
 offline-label =
-    .label = Manter minhas contas de bate-papo desconectadas
+    .label = Manter minhas contas de conversa desconectadas
 auto-connect-label =
-    .label = Conectar-se às minhas contas de bate-papo
+    .label = Conectar minhas contas de conversa automaticamente
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.

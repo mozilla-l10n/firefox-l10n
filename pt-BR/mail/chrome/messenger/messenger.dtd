@@ -30,11 +30,11 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Configurar conta de e-mail…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "o">
-<!ENTITY newIMAccountCmd.label "Configurar conta de bate-papo…">
+<!ENTITY newIMAccountCmd.label "Conta de conversa…">
 <!ENTITY newIMAccountCmd.accesskey "b">
 <!ENTITY newFeedAccountCmd.label "Conta RSS">
 <!ENTITY newFeedAccountCmd.accesskey "R">
-<!ENTITY newIMContactCmd.label "Novo contato…">
+<!ENTITY newIMContactCmd.label "Contato de conversa…">
 <!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY  newMessageCmd2.key "N">
 <!ENTITY  newMessageCmd.key "M">
@@ -324,7 +324,7 @@
 <!ENTITY goBackCmd.label "Voltar">
 <!ENTITY goBackCmd.accesskey "V">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Bate-papo">
+<!ENTITY goChatCmd.label "Conversa">
 <!ENTITY goChatCmd.accesskey "B">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
@@ -477,13 +477,13 @@
 <!ENTITY addonNoPrefs.label "Nenhuma extensão configurada.">
 <!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">
-<!ENTITY imAccountsStatus.label "Status do bate-papo">
+<!ENTITY imAccountsStatus.label "Status da conversa">
 <!ENTITY imAccountsStatus.accesskey "b">
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Ocupado">
 <!ENTITY imStatus.offline            "Desconectado">
 <!ENTITY imStatus.showAccounts       "Mostrar contas…">
-<!ENTITY joinChatCmd.label "Entrar em uma sala de bate-papo…">
+<!ENTITY joinChatCmd.label "Entrar em uma conversa…">
 <!ENTITY joinChatCmd.accesskey "E">
 <!ENTITY savedFiles.label "Arquivos salvos">
 <!ENTITY savedFiles.accesskey "u">
@@ -555,7 +555,7 @@
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Não é spam">
 <!ENTITY addressBookButton.label "Catálogo">
-<!ENTITY chatButton.label "Bate-papo">
+<!ENTITY chatButton.label "Conversa">
 <!ENTITY glodaSearch.title "Pesquisa global">
 <!ENTITY searchItem.title "Campo de pesquisa">
 <!ENTITY mailViewsToolbarItem.title "Modos de visualização">
@@ -593,7 +593,7 @@
 <!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como spam">
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não spam">
 <!ENTITY addressBookButton.tooltip "Catálogo de endereços">
-<!ENTITY chatButton.tooltip "Mostrar a aba de bate-papo">
+<!ENTITY chatButton.tooltip "Mostrar a aba de conversa">
 <!ENTITY tagButton.tooltip "Aplicar etiquetas em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Exibir o menu do &brandShortName;">
