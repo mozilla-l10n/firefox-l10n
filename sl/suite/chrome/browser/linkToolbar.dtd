@@ -3,8 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Link Toolbar Title -->
+<!ENTITY linkToolbar.label "Vrstica za krmarjenje po spletnem mestu">
+<!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "Vrstica za krmarjenje po spletnem mestu">
 
 <!-- Link Toolbar visibility options -->
+<!ENTITY linkToolbarAlways.label "Pokaži vedno">
+<!ENTITY linkToolbarAsNeeded.label "Pokaži samo po potrebi">
+<!ENTITY linkToolbarNever.label "Skrij vedno">
 
 <!-- Toolbar buttons, menus, and menuitems -->
 <!ENTITY topButton.label "Na vrh">
@@ -19,6 +25,7 @@
 <!ENTITY tocButton.label "Kazalo vsebine">
 <!ENTITY chapterButton.label "Poglavja">
 <!ENTITY sectionButton.label "Odseki">
+<!ENTITY subSectionButton.label "Pododseki">
 <!ENTITY glossaryButton.label "Besednjak">
 
 <!ENTITY moreButton.label "Več">
