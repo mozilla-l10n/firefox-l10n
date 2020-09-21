@@ -375,11 +375,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <a data-l10n-name="learn-more">Mear ynfo</a>
 addon-detail-private-browsing-allow = Tastean
 addon-detail-private-browsing-disallow = Net tastean
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy't foldogge oan ús noarms foar feilichheid en prestaasjes.
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Dizze útwreiding is makke troch de makkers fan { -brand-product-name }.
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = De koade fan dizze útwreiding is foar jo feilichheid beoardiele
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = Beskikbere fernijingen
 recent-updates-heading = Resinte fernijingen
 release-notes-loading = Lade…

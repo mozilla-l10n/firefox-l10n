@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS-buffer wiskje
+about-networking-dns-trr-url = DoH-URL
 about-networking-dns-suffix = DNS-efterfoegsel
 about-networking-websockets = WebSockets
 about-networking-refresh = Opnij lade
