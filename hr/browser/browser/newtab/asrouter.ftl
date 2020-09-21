@@ -229,7 +229,7 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ikona
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Dobijajte upozorenja o ranjivim zaporkama
-cfr-whatsnew-passwords-body = Hakeri znaju da ljudi ponovno koriste iste lozinke. Ukoliko ste koristili istu lozinku na različitim stranicama, i jednoj od tih stranica ukradu podatke, vidjet ćete obavijest u { -lockwise-brand-short-name } da biste trebali izmijeniti svoju lozinku na stranicama koje ju koriste.
+cfr-whatsnew-passwords-body = Hakeri znaju da ljudi ponovo koriste iste lozinke. Ukoliko koristiš istu lozinku na različitim stranicama i ako jednoj od tih stranica ukradu podatke, { -lockwise-brand-short-name } će te obavijestiti da trebaš promijeniti svoju lozinku na stranicama koje ju koriste.
 cfr-whatsnew-passwords-icon-alt = Ikona ranjive lozinke
 
 ## Picture-in-Picture fullscreen message
