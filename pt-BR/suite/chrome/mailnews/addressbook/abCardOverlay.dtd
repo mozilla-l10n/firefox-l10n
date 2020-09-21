@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Apresentar como:">
 <!ENTITY DisplayName.accesskey          "m">
 <!ENTITY preferDisplayName.label        "Preferir sempre mostrar o nome sobre o cabeçalho da mensagem">
-<!ENTITY preferDisplayName.accesskey    "S">
 <!ENTITY preferDisplayName2.accesskey   "s">
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "A">
@@ -46,9 +45,6 @@
 <!ENTITY PlainText.label                "Texto sem formatação">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Sem preferência">
-<!ENTITY ScreenName.label               "Nome de tela:">
-<!ENTITY ScreenName.accesskey           "N">
-
 <!ENTITY chatName.label                 "Nome da conversa:">
 
 <!ENTITY WorkPhone.label                "Comercial:">
@@ -122,7 +118,7 @@
 <!ENTITY Notes.label                    "Notas:">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Chat.tab                       "Bate-papo">
+<!ENTITY Chat.tab                       "Conversa">
 <!ENTITY Chat.accesskey                 "a">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
