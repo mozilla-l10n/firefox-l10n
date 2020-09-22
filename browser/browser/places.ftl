@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = გახსნა ახალ პირად ფანჯარაში
     .accesskey = პ
-
 places-new-bookmark =
     .label = ახალი სანიშნი…
     .accesskey = ს
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = ახალი გამყოფი
     .accesskey = გ
-
 places-view =
     .label = ხედი
     .accesskey = ხ
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = თარიღი და საიტი
     .accesskey = დ
-
 places-history-search =
     .placeholder = ძიება ისტორიაში
 places-bookmarks-search =
     .placeholder = სანიშნების ძიება
-
 places-delete-domain-data =
     .label = საიტის დავიწყება
     .accesskey = დ
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = თვისებები
     .accesskey = თ
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = გამართული სანიშნები
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = ქვესაქაღალდე
