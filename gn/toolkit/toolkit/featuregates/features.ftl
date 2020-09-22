@@ -53,7 +53,7 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-media-session-api-description = Hu’ãmbávo { -brand-short-name } Media Session API mba’e oñeha’ãramohína. Ko API ojepuru oñemomba’ete hag̃ua pe marandu’i jepuru momaranduhára rehegua, tembiaporãva ha mba’ekuaarã iporãva ehechauka hag̃ua peteĩ puruhára ohechaha momaranduhára rembipo ha eguereko hag̃ua marandurenda metadato. Ehecha <a data-l10n-name="bugzilla">bug 1112032</a> eikuaave hag̃ua.
 experimental-features-devtools-color-scheme-simulation =
-    .label = Tembipuru mboguatahárape g̃uarã: say aty ñeha’ãha
+    .label = Tembipuru mboguatahárape g̃uarã: sa’y’aty ñeha’ãha
 experimental-features-devtools-execution-context-selector =
     .label = Mboguatahára rembipuru: Momba’apo Jeregua Poravoha
 experimental-features-devtools-execution-context-selector-description = Ko tembiapoite ohechauka votõ pe mbohapeha mba’e’okarupa omoneĩva omoambuéva pe jeregua hekojeráva pe ñe’ẽrysýi emoingéva. Eporandu <a data-l10n-name="bugzilla1">bug 1605154</a> ha <a data-l10n-name="bugzilla2">bug 1605153</a> eikuaa porãve hag̃ua.
