@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = სოკეტები:
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS-კეშის გასუფთავება
+about-networking-dns-trr-url = DoH ბმული
 about-networking-dns-suffix = DNS-ბოლოსართი
 about-networking-websockets = WebSockets
 about-networking-refresh = გაახლება
