@@ -18,6 +18,7 @@ certmgr-mine = Ten certificados destas organizacións que o identifican
 certmgr-remembered = Estes certificados úsanse para identificalo a sitios web
 certmgr-people = Ten certificados arquivados que identifican a estas persoas
 certmgr-servers = Ten certificados arquivados que identifican a estes servidores
+certmgr-server = Estas entradas identifican excepcións de erros de certificado dos servidores
 certmgr-ca = Ten certificados arquivados que identifican a estas entidades de acreditación
 certmgr-detail-general-tab-title =
     .label = Xeral
@@ -210,6 +211,9 @@ cert-not-verified_algorithm-disabled = Non foi posíbel verificar este certifica
 cert-not-verified-unknown = Non foi posíbel verificar este certificado por motivos descoñecidos.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Non enviar certificado de cliente
+
+## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
