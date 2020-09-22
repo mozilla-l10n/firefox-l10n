@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver ao comportament
 
 policy-LocalFileLinks = Permitir ligazóns de sitios web determinados con ficheiros locais.
 policy-MasterPassword = Esixir ou evitar o uso dun contrasinal principal.
+policy-ManagedBookmarks = Configura unha lista de marcadores xestionados por un administrador que non poden ser cambiados polo usuarios.
 policy-PrimaryPassword = Esixir ou evitar o uso dun contrasinal principal.
 policy-NetworkPrediction = Activar ou desactivar a predición da rede (preparación previa do DNS).
 policy-NewTabPage = Activar ou desactiva a páxina Nova lapela.
