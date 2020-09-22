@@ -46,6 +46,7 @@ experimental-features-web-api-beforeinput-description = Pe tembiaporã guasu <a 
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Pe jehechaha apohare <a data-l10n-name="mdn-cssstylesheet"> CSSStyleSheet</a> avei ñemoambueita ojokupytýva ha omoneĩva oñemoheñói hag̃ua kuatia mbohekoha ipyahúva embojuaju’ỹre kuatia HTML rehe. Kóva nombohasyive emoheñoikuaa hag̃ua kuatia mbohekoha ojepurukuaajeýva eipuru hag̃uáicha <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> ndive. Ehecha <a data-l10n-name="bugzilla">bug 1520690</a> eikuaa porãve hag̃ua.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
