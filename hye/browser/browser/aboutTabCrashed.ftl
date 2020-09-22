@@ -18,6 +18,7 @@ crashed-send-report-2 = Ուղարկէք ինքնաբար վթարի մասին 
 crashed-comment =
     .placeholder = Լրացուցիչ մեկնաբանութիւններ (մեկնաբանութիւնները հանրային են)
 crashed-include-URL = Ներառեք կայքերի URL-ները, որոնք բացելիս { -brand-short-name }-ը վթարուել է։
+crashed-include-URL-2 = Ներառէք այն կայքերի URL-ները, որոնցում եղել էք, երբ { -brand-short-name } վթարուել է
 crashed-email-placeholder = Այստեղ մուտքագրեք Ձեր էլ֊փոստի հասցէն
 crashed-email-me = Նոր տեղեկութիւնների դէպքում ծանուցել ինձ
 crashed-report-sent = Վթարի զեկոյցը արդէն ուղարկուել է։ Շնորհակալութիւն, որ աւգնում եք { -brand-short-name }-ը դարձնել էլ աւելի լաւը։
