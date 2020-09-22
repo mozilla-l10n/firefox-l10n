@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS önbelleğini temizle
+about-networking-dns-trr-url = DoH URL’si
 about-networking-dns-suffix = DNS soneki
 about-networking-websockets = WebSockets
 about-networking-refresh = Yenile
