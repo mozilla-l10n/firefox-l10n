@@ -369,11 +369,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Kun sallittu, laajennus voi seurata, mitä teet verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
 addon-detail-private-browsing-allow = Salli
 addon-detail-private-browsing-disallow = Älä salli
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Tämä laajennus luotiin { -brand-product-name }in tekijöiden toimesta
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Tämän laajennuksen koodi on katselmoitu turvallisuuden varmistamiseksi
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = Saatavilla olevat päivitykset
 recent-updates-heading = Tuoreet päivitykset
 release-notes-loading = Ladataan…
