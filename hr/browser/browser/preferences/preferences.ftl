@@ -49,6 +49,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } eksperimenti
 pane-experimental-subtitle = Nastavi s oprezom
 pane-experimental-search-results-header = { -brand-short-name } eksperimenti: Nastavi s oprezom
+pane-experimental-description = Mijenjanje naprednih postavki konfiguracije može utjecati na perfomancu ili sigurnost programa { -brand-short-name }.
 help-button-label = { -brand-short-name } podrška
 addons-button-label = Proširenja i teme
 focus-search =
@@ -348,7 +349,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = Saznaj više
 update-application-title = { -brand-short-name } dopune
-update-application-description = Aktualiziraj { -brand-short-name } za najbolju performansu, stabilnost i sigurnost.
+update-application-description = Aktualiziraj { -brand-short-name } za najbolju performancu, stabilnost i sigurnost.
 update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
     .label = Prikaži povijest nadogradnji …
@@ -385,7 +386,7 @@ update-in-progress-cancel-button = &Nastavi
 
 ## General Section - Performance
 
-performance-title = Performansa
+performance-title = Performanca
 performance-use-recommended-settings-checkbox =
     .label = Koristi preporučene postavke performanse
     .accesskey = u
