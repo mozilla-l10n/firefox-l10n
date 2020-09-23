@@ -305,6 +305,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Մուտքագրեք կայքի հասցե կամ որոնում
 urlbar-placeholder =
     .placeholder = Մուտքագրեք կայքի հասցե կամ որոնում
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Որոնեք { $name }-ով կամ մուտքագրեք հասցե
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Դիտարկել հեռակա կառավարմամբ
 urlbar-permissions-granted =
