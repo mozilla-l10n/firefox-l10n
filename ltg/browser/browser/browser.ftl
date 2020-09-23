@@ -254,6 +254,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
 urlbar-placeholder =
     .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Meklej ar { $name } voi īvodi lopys adresi
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Porlyuku kontrolej nu attōluma
 urlbar-switch-to-tab =
