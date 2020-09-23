@@ -233,6 +233,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Cuardaigh nó cuir seoladh isteach
 urlbar-placeholder =
     .placeholder = Cuardaigh nó cuir seoladh isteach
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Cuardaigh le { $name } nó cuir seoladh isteach
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tá an brabhsálaí faoi chianrialú
 urlbar-switch-to-tab =
