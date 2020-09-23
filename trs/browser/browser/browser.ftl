@@ -273,6 +273,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Gachrūn nuguan' ruhuât nanà'uìt
 urlbar-placeholder =
     .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Nana'ui' 'ngà { $name } nej si gachrun' direksiôn
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Àsij gan' nikaj ñu'unj nej dugui' navegador
 urlbar-permissions-granted =
