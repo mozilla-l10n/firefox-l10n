@@ -285,6 +285,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Yiylo walla naatnu ñiiɓirde
 urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Yiiloro { $name } walla naatnu ñiiɓirde
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Wanngorde woni ko e yuurnito woɗɗungo
 urlbar-permissions-granted =
