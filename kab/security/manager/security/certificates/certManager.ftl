@@ -215,6 +215,8 @@ no-cert-stored-for-override = (Ur ittukles ara)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Ameɣlal
+temporary-override = Askudan
 
 ## Add Security Exception dialog
 

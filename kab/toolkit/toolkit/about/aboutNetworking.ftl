@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Igrudmawen
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Sfeḍ tuffirt DNS
+about-networking-dns-trr-url = DoH URL
 about-networking-dns-suffix = Uḍfiṛ DNS
 about-networking-websockets = Igrudam n tuqqna
 about-networking-refresh = Smiren

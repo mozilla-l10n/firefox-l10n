@@ -14,6 +14,7 @@ crashed-request-help = Ad ɣ-tɛiwneḍ?
 crashed-request-help-message = Aneqqis n uɣelluy ad ɣ-iɛiwen ad nessenqed uguren u daɣen ad nerr { -brand-short-name } iwenneɛ.
 crashed-request-report-title = Azen iccer-a
 crashed-send-report = Azen aneqqis n uɣelluy awurman akken ad nizmir ad nefru uguren am wigi.
+crashed-send-report-2 = Azen aneqqis n uɣelluy awurman i wakken ad nizmir ad nefru uguren am wigi
 crashed-comment =
     .placeholder = Iwenniten ifrayanen (iwenniten ad ten-walin akk medden)
 crashed-include-URL = Seddu tansiwin URL n yismal anida telliḍ neɣ melmi i yeɣli { -brand-short-name }.
