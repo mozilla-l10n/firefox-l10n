@@ -284,6 +284,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Cuir ann lorg no seòladh
 urlbar-placeholder =
     .placeholder = Cuir ann lorg no seòladh
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Lorg le { $name } no cuir ann seòladh
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tha am brabhsair fo smachd cèin
 urlbar-switch-to-tab =
