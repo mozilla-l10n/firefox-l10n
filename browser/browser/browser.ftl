@@ -305,6 +305,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Idatzi bilaketa edo helbidea
 urlbar-placeholder =
     .placeholder = Idatzi bilaketa edo helbidea
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Bilatu { $name } erabiliz edo idatzi helbidea
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Nabigatzailea urruneko agintepean dago
 urlbar-permissions-granted =
