@@ -254,6 +254,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = འཚོལ་བཤེར་དང་ཡང་ན་དྲ་གནས་འཇུག་དགོས
 urlbar-placeholder =
     .placeholder = འཚོལ་བཤེར་དང་ཡང་ན་དྲ་གནས་འཇུག་དགོས
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name }་ཐོག་ཏུ་འཚོལ་བ་དང་ཡང་ན་དྲ་གནས་བླུག་དགོས
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser is under remote control
 urlbar-switch-to-tab =
