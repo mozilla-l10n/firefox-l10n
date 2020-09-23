@@ -17,6 +17,14 @@ onboarding-button-label-get-started = 시작하기
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
 onboarding-welcome-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name }의 나머지를 만나 보세요.
 onboarding-welcome-learn-more = 장점 더 알아보기
@@ -72,8 +80,6 @@ onboarding-multistage-theme-primary-button-label = 테마 저장
 onboarding-multistage-theme-secondary-button-label = 나중에
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = 자동
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = 시스템 테마 사용
 onboarding-multistage-theme-label-light = 밝게
 onboarding-multistage-theme-label-dark = 어둡게
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -108,6 +114,44 @@ onboarding-multistage-theme-tooltip-alpenglow =
         버튼, 메뉴 및 창에
         색상형 화면 배색을 사용.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = 여러분이 할 수 있는 모든 것을 탐험해 봅시다.
+onboarding-fullpage-form-email =
+    .placeholder = 이메일 주소…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name }와 함께 하세요
+onboarding-sync-welcome-content = 북마크, 기록, 비밀번호 및 다른 설정을 모든 기기에서 사용해 보세요.
+onboarding-sync-welcome-learn-more-link = Firefox 계정 더 알아보기
+onboarding-sync-form-input =
+    .placeholder = 이메일
+onboarding-sync-form-continue-button = 계속
+onboarding-sync-form-skip-login-button = 단계 건너뛰기
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = 이메일을 입력
+onboarding-sync-form-sub-header = 해서 { -sync-brand-name } 사용
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = 내가 사용하는 모든 기기에서 개인 정보를 존중하는 도구를 사용합니다.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = 우리가 하는 모든 활동은 개인 정보 약속을 존중합니다: 적게 가집니다. 안전하게 보관합니다. 비밀은 없습니다.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크, 기록, 비밀번호 등을 사용하세요.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = 개인 정보가 알려진 데이터 유출에서 발견되면 알림을 받습니다.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = 비밀번호를 보호하면서 항상 가지고 다녀 보세요.
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -149,44 +193,6 @@ onboarding-multistage-theme-description-alpenglow =
         버튼, 메뉴 및 창에
         색상형 화면 배색을 사용.
 
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = 여러분이 할 수 있는 모든 것을 탐험해 봅시다.
-onboarding-fullpage-form-email =
-    .placeholder = 이메일 주소…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = { -brand-product-name }와 함께 하세요
-onboarding-sync-welcome-content = 북마크, 기록, 비밀번호 및 다른 설정을 모든 기기에서 사용해 보세요.
-onboarding-sync-welcome-learn-more-link = Firefox 계정 더 알아보기
-onboarding-sync-form-input =
-    .placeholder = 이메일
-onboarding-sync-form-continue-button = 계속
-onboarding-sync-form-skip-login-button = 단계 건너뛰기
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = 이메일을 입력
-onboarding-sync-form-sub-header = 해서 { -sync-brand-name } 사용
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = 내가 사용하는 모든 기기에서 개인 정보를 존중하는 도구를 사용합니다.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = 우리가 하는 모든 활동은 개인 정보 약속을 존중합니다: 적게 가집니다. 안전하게 보관합니다. 비밀은 없습니다.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크, 기록, 비밀번호 등을 사용하세요.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = 개인 정보가 알려진 데이터 유출에서 발견되면 알림을 받습니다.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = 비밀번호를 보호하면서 항상 가지고 다녀 보세요.
-
 ## These strings belong to the individual onboarding messages.
 
 
@@ -211,7 +217,7 @@ onboarding-firefox-send-title = 공유 파일 보호
 onboarding-firefox-send-text2 = 파일을 { -send-brand-name }에 업로드하여 종단 간 암호화와 자동으로 만료되는 링크로 공유하세요.
 onboarding-firefox-send-button = { -send-brand-name }를 사용해보세요
 onboarding-mobile-phone-title = 휴대폰에서 { -brand-product-name } 받기
-onboarding-mobile-phone-text = iOS 또는 Android용 { -brand-product-name }를 다운로드하고 기기간에 데이터를 동기화합니다.
+onboarding-mobile-phone-text = iOS 또는 Android용 { -brand-product-name }를 다운로드하고 기기 간에 데이터를 동기화합니다.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = 모바일 브라우저 다운로드
