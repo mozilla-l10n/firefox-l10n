@@ -282,6 +282,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Scrivi indirisso ò iniçia riçerca
 urlbar-placeholder =
     .placeholder = Scrivi indirisso ò iniçia riçerca
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Çerca con { $name } ò scrivi indirisso
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Navegatô in contròllo remòtto
 urlbar-switch-to-tab =
