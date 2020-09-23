@@ -260,6 +260,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Yeny onyo ket kanonge
 urlbar-placeholder =
     .placeholder = Yeny onyo ket kanonge
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Yeny ki { $name } onyo ket kanonge
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ki tye ka loono layeny ki kama bor
 urlbar-permissions-granted =
