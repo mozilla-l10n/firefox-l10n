@@ -319,6 +319,10 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोजें या पता दर्ज करें
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } के साथ खोजें या पता दर्ज करें
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ब्राउज़र रिमोट कंट्रोल के तहत है
 urlbar-switch-to-tab =
