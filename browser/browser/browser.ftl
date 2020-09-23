@@ -303,6 +303,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
 urlbar-placeholder =
     .placeholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = با { $name } جست‌وجو یا آدرسی وارد کنید
 urlbar-remote-control-notification-anchor =
     .tooltiptext = مرورگر تحت کنترل از راه دور است
 urlbar-permissions-granted =
