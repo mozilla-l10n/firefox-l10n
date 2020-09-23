@@ -23,7 +23,7 @@
 <!ENTITY noAltText.label "Não usar o texto alternativo">
 <!ENTITY noAltText.accessKey "u">
 
-<!ENTITY previewBox.label "Pré-visualizar a imagem">
+<!ENTITY previewBox.label "Visualizar imagem">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
