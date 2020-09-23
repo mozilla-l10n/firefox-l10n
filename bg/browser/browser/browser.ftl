@@ -294,6 +294,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Търсете или въведете адрес
 urlbar-placeholder =
     .placeholder = Търсете или въведете адрес
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Търсене с { $name } или въведете адрес
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Четецът е под дистанционно управление
 urlbar-permissions-granted =
