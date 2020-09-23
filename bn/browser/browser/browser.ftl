@@ -286,6 +286,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = অনুসন্ধান বা ঠিকানা দিন
 urlbar-placeholder =
     .placeholder = অনুসন্ধান বা ঠিকানা দিন
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্রাউজার রিমোর্ট কন্ট্রোলের আওতায়
 urlbar-permissions-granted =
