@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-copies.xul -->
-
 <!-- extracted from am-copies.xhtml -->
 
 <!ENTITY copyAndFolderTitle.label "Cópias e pastas">
@@ -29,11 +27,11 @@
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arquivamento de mensagens">
-<!ENTITY keepArchives.label "Manter mensagens arquivadas em:">
+<!ENTITY keepArchives.label "Manter arquivamento de mensagens em:">
 <!ENTITY keepArchives.accesskey "M">
 <!ENTITY archiveHierarchyButton.label "Opções de arquivamento…">
 <!ENTITY archiveHierarchyButton.accesskey "O">
-<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivado&quot; em:">
+<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivamento&quot; em:">
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Outra:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
