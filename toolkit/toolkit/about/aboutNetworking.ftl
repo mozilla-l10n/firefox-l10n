@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Сокеты
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Ачысціць кэш DNS
+about-networking-dns-trr-url = URL-адрас DoH
 about-networking-dns-suffix = DNS-суфікс
 about-networking-websockets = Сеціўныя сокеты
 about-networking-refresh = Паднавіць
