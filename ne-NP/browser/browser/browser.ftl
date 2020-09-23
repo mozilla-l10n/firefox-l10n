@@ -235,6 +235,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = खोज वा ठेगाना राखनुहोस्।
 urlbar-placeholder =
     .placeholder = खोज वा ठेगाना राखनुहोस्।
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } सँग खोज्नुहोस् वा ठेगाना राखनुहोस्।
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ब्राउजर रिमोट कंट्रोल अन्तर्गत छ
 urlbar-switch-to-tab =
