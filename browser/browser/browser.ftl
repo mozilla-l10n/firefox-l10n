@@ -252,6 +252,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Meklēt ar { $name } vai ievadiet mājas lapas adresi
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Pārlūks tiek attālināti kontrolēts
 urlbar-switch-to-tab =
