@@ -278,7 +278,7 @@
 <!ENTITY spellCheckNoSuggestions.label "Nenhuma sugestão">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "r">
-<!ENTITY spellCheckAddToDictionary.label "Memorizar como correta">
+<!ENTITY spellCheckAddToDictionary.label "Adicionar ao dicionário">
 <!ENTITY spellCheckAddToDictionary.accesskey "M">
 <!ENTITY undo.label "Desfazer">
 <!ENTITY undo.accesskey "D">

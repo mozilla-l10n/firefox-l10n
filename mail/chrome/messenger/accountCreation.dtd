@@ -19,7 +19,7 @@
 <!ENTITY password.placeholder            "Senha">
 <!ENTITY password.text                   "Opcional, será usada somente para validar o nome de usuário">
 <!ENTITY password.toggle                 "Exibir/ocultar senha">
-<!ENTITY rememberPassword.label          "Memorizar a senha">
+<!ENTITY rememberPassword.label          "Memorizar senha">
 <!ENTITY rememberPassword.accesskey      "M">
 <!ENTITY usernameEx.label                "Seu login:">
 <!ENTITY usernameEx.accesskey            "l">
@@ -57,7 +57,7 @@
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY exchange-hostname.label         "Servidor do Exchange:">
 
-<!ENTITY advancedSetup.label             "Config. avançada">
+<!ENTITY advancedSetup.label             "Configuração avançada">
 <!ENTITY advancedSetup.accesskey         "o">
 <!ENTITY cancel.label                    "Cancelar">
 <!ENTITY cancel.accesskey                "a">
@@ -69,14 +69,12 @@
      displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Retestar">
+<!ENTITY half-manual-test.label          "Testar novamente">
 <!ENTITY half-manual-test.accesskey      "R">
 <!ENTITY manual-config.label             "Configurar manualmente…">
 <!ENTITY manual-config.accesskey         "m">
 <!ENTITY open-provisioner.label          "Usar um novo endereço de e-mail…">
 <!ENTITY open-provisioner.accesskey      "o">
-
-
 <!ENTITY get-help.label                  "Obter ajuda">
 <!ENTITY get-help.accesskey              "a">
 
