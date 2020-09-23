@@ -18,6 +18,7 @@ certmgr-mine = Γuṛ-k iselkan n tuddsiwin seg tekebbanit-agi i k-isuluyen
 certmgr-remembered = Iselkinen-a ttusqedcen akken ad ak-sulen ɣer yismal web.
 certmgr-people = Ɣur-k iselkinen ɣef ufaylu  yessuluyen imdanen-agi
 certmgr-servers = Ɣuṛ-k iselkinen deg ufaylu yessuluyen iqeddacen-agi
+certmgr-server = Inekcumen-a sbadun-d tisuraf n tuccḍa n uselkn n uqeddac
 certmgr-ca = Ɣur-k iselkinen ɣef ufaylu yessuluyen iduba-agi n iselkinen
 certmgr-detail-general-tab-title =
     .label = Amatu
