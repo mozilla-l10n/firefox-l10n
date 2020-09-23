@@ -257,6 +257,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Leita eða sláðu inn veffang
 urlbar-placeholder =
     .placeholder = Leita eða sláðu inn veffang
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Leitaðu með { $name } eða sláðu inn vistfang
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Vafri er á fjarstýringu
 urlbar-switch-to-tab =
