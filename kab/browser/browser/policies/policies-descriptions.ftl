@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Uɣal ɣer tikli taqdi
 
 policy-LocalFileLinks = Sireg ismal usdiden i useqdec n yiseɣqan ɣer yifuyla idiganen.
 policy-MasterPassword = Creḍ neɣ sewḥel aseqdec n wawal uffir agejdan.
+policy-ManagedBookmarks = Swel tabdart n tecraḍ n yisebtar yettusefraken sɣur anedbal ur nezmir ara ad ttusneflen sɣur aseqdac.
 policy-PrimaryPassword = Suter neɣ agi aseqdec n wawal uffir agejdan.
 policy-NetworkPrediction = Ad yeǧǧ neɣ ad yegdel tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
 policy-NewTabPage = Ad yermed neɣ ad yessens asebter agejdan n yiccer amaynut.
