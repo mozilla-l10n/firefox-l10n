@@ -241,6 +241,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Cerca o metti nu nnirizzu
 urlbar-placeholder =
     .placeholder = Cerca o metti nu nnirizzu
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Cerca cu { $name } o metti nu nnirizzu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = U navigaturi è sutta cuntrollu rimotu
 urlbar-permissions-granted =
