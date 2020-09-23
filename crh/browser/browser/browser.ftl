@@ -254,6 +254,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Qıdırıñız yaki adres kirsetiñiz
 urlbar-placeholder =
     .placeholder = Qıdırıñız yaki adres kirsetiñiz
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } ile qıdır yaki adresni kirset
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Kezici uzaqtan muraqabede
 urlbar-switch-to-tab =
