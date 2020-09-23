@@ -380,6 +380,9 @@ addon-badge-recommended2 =
 addon-badge-line =
     .title = Aseɣzaf-a yettwarna sɣur ameslal n { -brand-product-name }
     .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Asiɣzef-a yettusenqed ɣef teɣzint n tɣellist
+    .aria-label = { addon-badge-verified.title }
 
 ##
 
