@@ -252,6 +252,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = ស្វែងរកជាមួយ { $name } ឬបញ្ចូលអាសយដ្ឋាន
 urlbar-remote-control-notification-anchor =
     .tooltiptext = កម្មវិធី​អ៊ីនធឺណិត​គឺ​ស្ថិត​ក្រោម​ការ​ត្រួតពិនិត្យ​ពី​ចម្ងាយ
 urlbar-switch-to-tab =
