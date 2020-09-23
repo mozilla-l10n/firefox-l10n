@@ -235,6 +235,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
 urlbar-placeholder =
     .placeholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය ඇතුලත් කරන්න
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ගවේශකය දුරස්ථ පාලනයේ පවතී
 urlbar-switch-to-tab =
