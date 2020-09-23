@@ -279,6 +279,10 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } ဖြင့် ရှာဖွေပါ သို့မဟုတ် လိပ်စာရိုက်ပါ
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ဘရောင်ဇာသည် အဝေးရောက်ထိန်းချုပ်မှုအောက်တွင် ရှိနေသည်
 urlbar-switch-to-tab =
