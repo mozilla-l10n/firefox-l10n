@@ -161,6 +161,7 @@ delete-ssl-cert-title =
     .title = Kkes tisuraf n uselkin n uqeddac
 delete-ssl-cert-confirm = Tebɣiḍ ad tekkseḍ tisuraf n uqeddac-agi?
 delete-ssl-cert-impact = Ma tekkseḍ tasureft n uqeddac, ihi ad d-terreḍ asenqed n tɣellist umris n uqeddac-agi udiɣ suter ad iseqdec aselkin ameɣtu.
+delete-ssl-override-confirm = Tebɣiḍ s tidet ad tekkseḍ tasureft-a n uqeddac?
 delete-ca-cert-title =
     .title = Kkes neɣ ur ggar ara taflest deg iselkan n udabu CA
 delete-ca-cert-confirm = Tessutreḍ-d tukksa n iselkinen n udabu CA. Wi d iselkinen usliɣen, ur neggar ara deg-sen taflest, d ayen ur d-igellun ara s usnifel. S tidett, tebɣiḍ tukksa n iselkinen-a neɣ ur teggareḍ ara deg-sen taflest?
