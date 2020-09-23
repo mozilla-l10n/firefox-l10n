@@ -54,4 +54,10 @@ inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> �
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> үшін келесі браузерлерде қолдау жоқ:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> эксперименталды қасиет болған, енді ол W3C стандарттары бойынша ескірген. Оған келесі браузерлерде қолдау көрсетілмейді:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> эксперименталды қасиет болған, енді ол W3C стандарттары бойынша ескірген.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> W3C стандарттары бойынша ескірген. Оған келесі браузерлерде қолдау көрсетілмейді:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> W3C стандарттары бойынша ескірген.
+css-compatibility-experimental-message = <strong>{ $property }</strong> эксперименталды қасиет болып тұр. Оған келесі браузерлерде қолдау көрсетілмейді:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> - эксперименталдық қасиет.
+css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> туралы <span data-l10n-name="link">Көбірек білу</span>
