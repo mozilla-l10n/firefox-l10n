@@ -270,6 +270,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Ünvanı daxil et və ya axtar
 urlbar-placeholder =
     .placeholder = Ünvanı daxil et və ya axtar
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Ünvanı daxil et və ya { $name } ilə axtar
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Səyyah uzaqdan idarədədir
 urlbar-switch-to-tab =
