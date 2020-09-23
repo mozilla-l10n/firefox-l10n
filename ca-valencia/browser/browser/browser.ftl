@@ -305,6 +305,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Escriviu una cerca o adreça
 urlbar-placeholder =
     .placeholder = Escriviu una cerca o adreça
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Cerqueu amb { $name } o escriviu una adreça
 urlbar-remote-control-notification-anchor =
     .tooltiptext = El navegador està sota control remot
 urlbar-permissions-granted =
