@@ -268,6 +268,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Otsi või sisesta aadress
 urlbar-placeholder =
     .placeholder = Otsi või sisesta aadress
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Otsi otsingumootoriga { $name } või sisesta veebiaadress
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Veebilehitseja on kaugjuhtimisel
 urlbar-permissions-granted =
