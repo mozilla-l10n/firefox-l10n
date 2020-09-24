@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Նուագարկել">
 <!ENTITY playButton.pauseLabel "Դադար">
 <!ENTITY muteButton.muteLabel "Լռեցնել">
@@ -17,6 +21,15 @@
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Նկար-նկարում">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Դիտել նկար-նկարում">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Նուագարկէք տեսանիւթերն առաջնաշերտում, մինչ այլ գործեր էք անում &brandShortName;-ում:">
 
 <!ENTITY error.aborted "Տեսանիւթի բեռնումը կանգնեցուել է։">
 <!ENTITY error.network "Տեսանիւթի վերարտադրումը կանգնեցուել է ցանցի սխալի պատճառով:">
