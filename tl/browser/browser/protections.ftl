@@ -28,6 +28,7 @@ protection-report-page-content-title = Protections Dashboard
 protection-report-page-summary = Kayang protektahan ng { -brand-short-name } ang iyong privacy habang nagba-browse. Ito ang pasadyang buod ng mga proteksyong ito, na may kasamang mga kagamitan para makontrol mo ang iyong seguridad online.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = Pinoprotektahan ng { -brand-short-name } ang iyong privacy habang nagba-browse. Ito ang pasadyang buod ng mga proteksyong ito, na may kasamang mga kagamitan para makontrol mo ang iyong seguridad online.
+protection-report-settings-link = I-manage ang iyong mga privacy at security setting
 etp-card-title-always = Enhanced Tracking Protection: Laging Nakabukas
 etp-card-title-custom-not-blocking = Enhanced Tracking Protection: OFF
 etp-card-content-description = Kusang pinipigil ng { -brand-short-name } ang mga kumpanya sa pagsunod sa iyo nang palihim sa web.
