@@ -54,6 +54,13 @@ experimental-features-media-session-api =
 experimental-features-media-session-api-description = Միջոցքի աշխատաշրջանի API -ի { -brand-short-name } ամբողջ գործադրումը ներկայումս փորձարարական է: Այս API -ն աւգտագործուում է միջոցքի հետ կապուած ծանուցումների մշակումը յարմարեցնելու, նուագարկումը կառավարելու, աւգտագործողի միջերեսը ներկայացնելու, աւգտակար իրադարձութիւններն ու տուեալները կառավարելու եւ միջոցքի նիշերի մետատուեալներ ձեռք բերելու համար: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla"> վրիպակ 1112032 </a>:
 experimental-features-devtools-color-scheme-simulation =
     .label = Մշակման գործիքներ. Գունաւորման նմանակում
+experimental-features-devtools-color-scheme-simulation-description = Աւելացնում է տարբեր գունային ուրուածիրները նմանակելու տարբերակը, որը թոյլ է տալիս փորձարկել <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>միջոցքի հարցումները: Աւգտագործելով այս միջոցքի հարցումը, Ձեր ոճաթերթիկը թոյլ է տալիս արձագանգել` արդեւք աւգտուողը նախընտրում է բաց կամ մուգ միջերես: Այս առանձնայատկութիւնը հնարաւորութիւն է տալիս ստուգել Ձեր այլագիրը՝ առանց դիտարկչի կարգաւորումները փոխելու (կամ գործառնական համակարգի, եթե դիտարկիչը հետեւում է համակարգի ամբողջ գունաւորման կարգաւորմանը): Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla1 "> վրիպակ 1550804 </a> եւ <a data-l10n name="bugzilla2"> վրիպակ 1137699 </a>:
+experimental-features-devtools-execution-context-selector =
+    .label = Մշակման գործիքներ. Կատարման համատեքստի ընտրիչ
+experimental-features-devtools-execution-context-selector-description = Այս յատկութիւնը ցուցադրում է վահանակի հրամանի տողի մի կոճակ, որը թոյլ է տալիս փոխել այն համատեքստը, որի մէջ կը կատարուի Ձեր գրանցած արտայայտութիւնը: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla1"> վրիպակ 1605154 </a> եւ <a data-l10n-name="bugzilla2"> վրիպակ 1605153 </a>:
+experimental-features-devtools-compatibility-panel =
+    .label = Մշակման գործիքներ. Համատեղելիութեան վահանակ
+experimental-features-devtools-compatibility-panel-description = Էջի տեսուչի կողմնակի վահանակ, որը ցոյց է տալիս տեղեկութիւններ, որոնք մանրամասն նկարագրում են Ձեր ծրագրի միջդիտարկչային համատեղելիութեան կարգավիճակը: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla"> վրիպակ 1584464 </a>:
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Նշոցիկներ․ SameSite=Lax սկզբնադիր
@@ -67,3 +74,5 @@ experimental-features-cookie-samesite-none-requires-secure2-description = «Same
 experimental-features-abouthome-startup-cache =
     .label = մեկնարկային յիշապահեստ about:home
 experimental-features-abouthome-startup-cache-description = Մեկնարկային about:home փաստաթղթի յիշապահեստը սկզբնադիր բեռնուում է մեկնարկին։ Յիշապահեստի նպատակն է աշխատասկզբի գործունակութեան բարելաւումը։
+experimental-features-print-preview-tab-modal =
+    .label = Տպելու նախադիտման վերաձեւաւորում
