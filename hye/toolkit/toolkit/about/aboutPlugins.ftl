@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Ընդլայնիչների մասին
-
 installed-plugins-label = Տեղադրուած ընդլայնիչներ
 no-plugins-are-installed-label = Չկա որեւէ ակտիւ ընդլայնիչ
-
 deprecation-description = Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլեւս չեն աջակցուում: <a data-l10n-name="deprecation-link">Իմանալ աւելին:</a>
 
 ## The information of plugins
@@ -26,9 +24,9 @@ version-dd = <span data-l10n-name="version">Տարբերակ․</span> { $versio
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
 state-dd-enabled = <span data-l10n-name="state">Տարբերակը.</span> { $version }
+state-dd-enabled-block-list-state = <span data-l10n-name="state"> վիճակը. </span> միացուած ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Վիճակը.</span> Անջատած
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Վիճակը.</span> Անջատած ({ $blockListState })
-
 mime-type-label = MIME տեսակ
 description-label = Նկարագրութիւն
 suffixes-label = Բաւական
