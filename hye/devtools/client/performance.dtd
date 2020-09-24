@@ -42,6 +42,7 @@
 <!ENTITY performanceUI.toolbar.memory-calltree "Բաշխումներ">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ցուցադրում է, որտեղ է յիշողութիւն է բաշխուել ձայնագրութեան ընթացքում։">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame աղիւսակը">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ձայնագրութեան ընթացքում ցոյց է տալիս JavaScript զանգի շեղջը:">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Յատկացումների Flame աղիւսակ">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -119,6 +120,7 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
 <!ENTITY performanceUI.console.recordingNoticeStart "Գրառում է միջոցով">
+<!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
