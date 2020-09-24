@@ -53,3 +53,11 @@ inactive-text-overflow-when-no-overflow-fix = Փորձէք աւելացնել <s
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong> { $property } </strong> չի աջակցուում հետեւեալ դիտարկիչներում.
+css-compatibility-deprecated-experimental-message = <strong> { $property } </strong> փորձնական յատկութիւն էր, որն այժմ հնացած է W3C-ի չափաւրինակներով: Հետեւեալ դիտարկիչներում այն չի աջակցուում.
+css-compatibility-deprecated-experimental-supported-message = <strong> { $property } </strong> փորձնական յատկութիւն էր, որը հիմա W3C-ի չափաւրինակներով հնացած է:
+css-compatibility-deprecated-message = <strong> { $property } </strong> հնացած է W3C-ի չափաւրինակներով: Սա չի աջակցուում հետեւեալ դիտարկիչներում.
+css-compatibility-deprecated-supported-message = <strong> { $property } </strong> հնացած է W3C-ի չափաւրինակներով:
+css-compatibility-experimental-message = <strong> { $property } </strong> փորձնական յատկութիւն է: Սա չի աջակցուում հետեւալ դիտարկիչներում.
+css-compatibility-experimental-supported-message = <strong> { $property } </strong> փորձնական յատկութիւն է:
+css-compatibility-learn-more-message = <span data-l10n-name="link"> Իմանալ աւելին </span>֊ի մասին <strong> { $rootProperty } </strong>
