@@ -52,9 +52,36 @@ printui-margins = Լուսանցքներ
 printui-margins-default = Սկզբնադիր
 printui-margins-min = Նուազագոյնը
 printui-margins-none = Չկայ
+printui-system-dialog-link = Տպել աւգտագոծելով ծրագրի երկխաւսութիւնը…
+printui-primary-button = Տպել
+printui-primary-button-save = Պահպանել
+printui-cancel-button = Չեղարկել
+printui-loading = Նախապատրաստել նախադիտումը
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Արտացոլել նախադիտումը
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Սանդղակում թիւը պէտք է լինի 10-ից 200֊ի միջակայքում:
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Ընդգրկուած թիւը պէտք է լինի 1-ից { $numPages } ֊ի միջակայքում:
+printui-error-invalid-start-overflow = «ից» էջի թիւը պէտք է փոքր լինի, քան «դէպի» էջի թիւը:
