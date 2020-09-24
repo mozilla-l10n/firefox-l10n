@@ -11,6 +11,22 @@ experimental-features-css-masonry-description = Միացնում է փորձար
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Ցանցային API. WebGPU
+experimental-features-web-gpu-description2 = Այս նոր API֊ը ցածրակարգ սպասարկում է ապահովում հաշուարկների կատարման եւ Պատկերների ներկայացման համար՝ աւգտագործելով աւգտագործողի սարքի կամ համակարգչի <a data-l10n-name="wikipedia"> Պատկերների մշակման միաւորը (GPU) </a>․ <a data-l10n-name="spec"> բնութագիրը </a> դեռ ընթացքի մէջ է: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla"> վրիպակ 1602129 </a>:
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Միջոցք. AVIF
+experimental-features-media-avif-description = Այս յատկութեան միացման դէպքում { -brand-short-name } -ը աջակցում է AV1 Image File (AVIF) ձեւաչափը: Սա դեռեւս պատկերի նիշի ձեւաչափն է, որն աւգտագործում է AV1 տեսանիւթի սեղմման հաշուեկարգերի հնարաւորութիւնները պատկերի չափը նուազեցնելու համար: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla"> վրիպակ 1443863 </a>:
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Ցանցային API. ներածէք եղանակը
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = <a data-l10n-name="mdn-inputmode"> inputmode </a> համընդհանուր յատկանիշի կիրառումը թարմացուել է ըստ <a data-l10n-name="whatwg"> WHATWG բնութագրի </a>, բայց մենք դեռ պէտք է կատարենք նաեւ այլ փոփոխութիւններ, ինչպէս աւրինակ՝ այն խմբագրելի բովանդակութեան համար հասանելի դարձնել: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla"> վրիպակ 1205133 </a>:
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Ցանցային API. <link rel="preload">
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Նշոցիկներ․ SameSite=Lax սկզբնադիր
