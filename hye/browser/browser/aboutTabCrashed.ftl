@@ -24,3 +24,4 @@ crashed-email-me = Նոր տեղեկութիւնների դէպքում ծանո
 crashed-report-sent = Վթարի զեկոյցը արդէն ուղարկուել է։ Շնորհակալութիւն, որ աւգնում եք { -brand-short-name }-ը դարձնել էլ աւելի լաւը։
 crashed-request-auto-submit-title = Զեկուցել խորապատկերի ներդիրները
 crashed-auto-submit-checkbox = Թարմացնել կարգաւորումները՝ ինքնաբար ուղարկելու զեկոյցներ, երբ { -brand-short-name }-ը վթարուում է։
+crashed-auto-submit-checkbox-2 = Արդիացրէք նախընտրութիւնները, որպէսզի  { -brand-short-name }֊ի վթարման դէպքում զեկոյցները փոխանցուեն ինքնաբար:
