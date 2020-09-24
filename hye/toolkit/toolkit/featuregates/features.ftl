@@ -76,3 +76,17 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Մեկնարկային about:home փաստաթղթի յիշապահեստը սկզբնադիր բեռնուում է մեկնարկին։ Յիշապահեստի նպատակն է աշխատասկզբի գործունակութեան բարելաւումը։
 experimental-features-print-preview-tab-modal =
     .label = Տպելու նախադիտման վերաձեւաւորում
+experimental-features-print-preview-tab-modal-description = Ներկայացնում է վերամշակուած տպման նախադիտումը ու նախադիտումը մատչելի է դարձնում macOS -ում: Սա ըստ էութեան, խափանում է եւ չի ներառում տպմանն առնչուող բոլոր կարգաւորումները: Տպման հետ կապուած բոլոր կարգաւորումներ մտնելու համար տպման վահանակի միջից ընտրէք «Տպել՝ աւգտագործելով համակարգի երկխաւսութիւնը…»:
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Նշոցիկներ. ուրուածիրային SameSite
+experimental-features-cookie-samesite-schemeful-description = Դիտարկել նոյն տիրոյթի նշոցիկներ, բայց տարբեր ուրուաածիրներով (աւրինակ՝ http://example.com եւ https://example.com) որպէս միջկայքային, այլ ոչ միեւնոյն կայքից: Բարելաւում է անվտանգութիւնը, բայց, ըստ էութեան, խափանում է։
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Մշակման գործիքներ. Ծառայութեան աշխատողի վրիպազերծում
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Հնարաւորութիւն է տալիս փորձնական աջակցութիւն Ծառայութեան աշխատողների համար վրիպազերծման վահանակում: Այս յատկութիւնը կարող է դանդաղեցնել մշակման գործիքները եւ մեծացնել յիշողութեան սպառումը:
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Գծապատկերներ. երկու մատով վերաչափում
