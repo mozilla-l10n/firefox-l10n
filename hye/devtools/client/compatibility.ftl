@@ -12,7 +12,11 @@ compatibility-all-elements-header = Բոլոր խնդիրները
 
 compatibility-issue-deprecated = (հնացած)
 compatibility-issue-experimental = (փորձնական)
+compatibility-issue-prefixneeded = (նախածանցն անհրաժեշտ է)
 compatibility-issue-deprecated-experimental = (հնացած, փորձնական)
+compatibility-issue-deprecated-prefixneeded = (հնացած, նախածանցն անհրաժեշտ է)
+compatibility-issue-experimental-prefixneeded = (փորձնական, նախածանցն անհրաժեշտ է)
+compatibility-issue-deprecated-experimental-prefixneeded = (հնացած, փորձնական, նախածանցն անհրաժեշտ է)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -38,7 +42,6 @@ compatibility-issue-occurrences =
         [one] { $number } խնդիր
        *[other] { $number } խնդիրներ
     }
-
 compatibility-no-issues-found = Համատեղելիութեան խնդիրներ չեն գտնուել։
 compatibility-close-settings-button =
     .title = Փակել կարգաւորումները
