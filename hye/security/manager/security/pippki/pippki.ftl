@@ -8,7 +8,8 @@ password-quality-meter = Գաղտնաբառի ապահովութիւնը
 
 change-password-window =
     .title = Փոխել հիմնական գաղտնաբառը
-
+change-device-password-window =
+    .title = Փոխել գաղտնաբառը
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Անվտանգութեան սարք: { $tokenName }
@@ -21,12 +22,25 @@ change-password-reenter = Նոր գաղտնաբառ (կրկին):
 reset-password-window =
     .title = Վերագործարկել հիմնական գաղտնաբառը
     .style = width: 40em
+pippki-failed-pw-change = Հնարաւոր չէ փոխել գաղտնաբառը:
+pippki-incorrect-pw = Դուք չէք մուտքագրել ընթացիկ ճիշտ գաղտնաբառը: Խնդրում ենք փորձել կրկին:
+pippki-pw-change-ok = Գաղտնաբառը յաջողութեամբ փոխուել է:
+pippki-pw-empty-warning = Ձեր գաղտնաբառերի պահեստը եւ անձնական ստեղները պաշտպանուած չեն լինի:
+pippki-pw-erased-ok = Դուք ջնջեցիք Ձեր գաղտնաբառը: { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Զգուշացու՛մ: Դուք որոշեցիք չգործածել գաղտնաբառ: { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Դուք այժմ ընթացիկ FIPS աշխատակերպում էք: FIPS-ը պահանջում է ոչ-դատարկ գաղտնաբառ:
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Վերակայել առաջնային գաղտնաբառը
+    .style = width: 40em
 reset-password-button-label =
     .label = Վերագործարկել
 reset-password-text = Եթե վերականգնէք հիմնական գաղտնաբառը, ապա բոլոր պահպանուած ցանցային եւ ել-Փոստերի գաղտնաբառերը, ձեւանմուշների տուեալները, անհատական արտոնաթղթերը, անձնական բանալիները կը մոռացուեն: Համո՞զուած էք, որ ցանկանում էք հիմնական գաղտնաբառը վերականգնել:
+reset-primary-password-text = Եթե Դուք վերակայել էք Ձեր առաջնային գաղտնաբառը, Ձեր բոլոր ցանցային պահեստները եւ ել.հասցէի գաղտնաբառերը, անհատական վկայագրերը եւ անձնական բանալիները կը մոռացուեն: Համոզուա՞ծ էք, որ ցանկանում էք վերակայել Ձեր առաջնային գաղտնաբառը:
+pippki-reset-password-confirmation-title = Վերակայել առաջնային գաղտնաբառը
+pippki-reset-password-confirmation-message = Ձեր առաջնային գաղտնաբառը վերակայուել է:
 
 ## Downloading cert dialog
 
