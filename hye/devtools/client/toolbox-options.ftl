@@ -60,7 +60,11 @@ options-screenshot-label = Էկրանահանի վարքագիծ
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Էկրանահանել սեղմատախտակին
 options-screenshot-clipboard-tooltip =
-    .title = Պահպանում է անմիջականարէն սեղմատախտակի էկրանահանում
+    .title = Էկրանահանն պահպանել անմիջականաւրէն սեղմատախտակին
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Նուագարկել խցիկի փականակի ձայնը
+options-screenshot-audio-tooltip =
+    .title = Էկրանահան ստանալիս միացնում է տեսախցիկի ձայնը
 
 ## Editor section
 
@@ -68,6 +72,12 @@ options-screenshot-clipboard-tooltip =
 options-sourceeditor-label = Խմբագրի նախըտրանքներ
 options-sourceeditor-detectindentation-tooltip =
     .title = Գուշակել նորատողութիւնը ըստ աղբիւրի բովանդակութեան
+options-sourceeditor-detectindentation-label = Յայտնաբերել տողագլուխը
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Ինքնաբար տեղադրել փակման փակագծերը
+options-sourceeditor-autoclosebrackets-label = Ինքնաշխատ փակագծեր
+options-sourceeditor-expandtab-tooltip =
+    .title = Ներդիրի գրանշանի փոխարէն աւգտագործել բացատներ
 options-sourceeditor-tabsize-label = Ներդիրի չափը
 options-sourceeditor-keybinding-default-label = Սկզբնադիր
 
