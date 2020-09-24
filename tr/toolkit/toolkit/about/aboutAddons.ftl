@@ -20,19 +20,19 @@ list-empty-find-updates =
     .label = Güncellemeleri denetle
 list-empty-button =
     .label = Eklentiler hakkında daha fazlasını öğrenin
-help-button = Eklenti desteği
+help-button = Eklenti Desteği
 sidebar-help-button-title =
     .title = Eklenti Desteği
 preferences =
     { PLATFORM() ->
-        [windows] { -brand-short-name } seçenekleri
-       *[other] { -brand-short-name } tercihleri
+        [windows] { -brand-short-name } Seçenekleri
+       *[other] { -brand-short-name } Tercihleri
     }
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
-            [windows] { -brand-short-name } seçenekleri
-           *[other] { -brand-short-name } tercihleri
+            [windows] { -brand-short-name } Seçenekleri
+           *[other] { -brand-short-name } Tercihleri
         }
 show-unsigned-extensions-button =
     .label = Bazı eklentiler doğrulanamadı
