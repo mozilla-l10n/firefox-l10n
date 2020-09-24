@@ -3,29 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = Վեբ բովանդակութիւն
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Արտոնեալի մասին
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Mozilla-ի արտոնեալ բովանդակութիւն
-
 process-type-extension = Յաւելում
-
 # process used to open file:// URLs
 process-type-file = Տեղային նիշք
-
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Խոշոր բաշխում
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Մեկուսացուած վեբ բովանդակութիւն
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
+# process used to perform network operations
+process-type-socket = Շաղկապ
+# process preallocated; may change to other types
+process-type-prealloc = Նախայատկացուած
