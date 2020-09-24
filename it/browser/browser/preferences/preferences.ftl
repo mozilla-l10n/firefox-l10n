@@ -697,6 +697,7 @@ suggestions-addressbar-settings-generic = Modifica le impostazioni per altri tip
 search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
 
 search-one-click-header = Motori di ricerca in un clic
+search-one-click-header2 = Scorciatoie di ricerca
 
 search-one-click-desc = Scegli i motori di ricerca alternativi che appaiono nella barra degli indirizzi e nella barra di ricerca quando si inizia a digitare una parola chiave.
 
