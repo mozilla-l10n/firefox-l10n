@@ -18,6 +18,7 @@ certmgr-mine = Sizi tanımlayan aşağıdaki kuruluşlardan sertifikalarınız v
 certmgr-remembered = Bu sertifikalar sizi web sitelerine tanıtmak için kullanılır
 certmgr-people = Aşağıdaki kişileri tanımlayan kayıtlı sertifikalarınız var
 certmgr-servers = Aşağıdaki sunucuları tanımlayan kayıtlı sertifikalarınız var
+certmgr-server = Bu girdiler, sunucu sertifikası hata ayrıcalıklarını tanımlar
 certmgr-ca = Aşağıdaki sertifika makamlarını tanımlayan kayıtlı sertifikalarınız var
 certmgr-detail-general-tab-title =
     .label = Genel
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Sunucu sertifikası ayrıcalıklarını sil
 delete-ssl-cert-confirm = Bu sunucu ayrıcalıklarını silmek istediğinizden emin misiniz?
 delete-ssl-cert-impact = Bir sunucu ayrıcalığını silerseniz, o sunucu için olağan güvenlik kontrollerini geri yüklemiş ve sunucunun geçerli bir sertifika kullanmasını zorunlu tutmuş olursunuz.
+delete-ssl-override-title =
+    .title = Sunucu sertifikası ayrıcalığını sil
+delete-ssl-override-confirm = Bu sunucu ayrıcalığını silmek istediğinizden emin misiniz?
+delete-ssl-override-impact = Bir sunucu ayrıcalığını silerseniz, o sunucu için olağan güvenlik kontrollerini geri yüklemiş ve sunucunun geçerli bir sertifika kullanmasını zorunlu tutmuş olursunuz.
 delete-ca-cert-title =
     .title = CA sertifikalarını sil veya güvenme
 delete-ca-cert-confirm = Bu CA sertifikalarını silmeyi istediniz. Dahili sertifikalar için tüm güvenler kaldırılacaktır ki bu da aynı etkiye sahiptir. Silmek veya güvenmemek istediğinizden emin misiniz?
@@ -210,6 +215,8 @@ cert-not-verified_algorithm-disabled = Güvenli olmadığı için devre dışı 
 cert-not-verified-unknown = Bu sertifika bilinmeyen sebeplerden dolayı doğrulanamadı.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = İstemci sertifikası gönderme
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Depolanmamış)
 
 ## Used to show whether an override is temporary or permanent
 
