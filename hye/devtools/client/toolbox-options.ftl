@@ -78,17 +78,39 @@ options-sourceeditor-autoclosebrackets-tooltip =
 options-sourceeditor-autoclosebrackets-label = Ինքնաշխատ փակագծեր
 options-sourceeditor-expandtab-tooltip =
     .title = Ներդիրի գրանշանի փոխարէն աւգտագործել բացատներ
+options-sourceeditor-expandtab-label = Նահանջել` աւգտագործելով բացատներ
 options-sourceeditor-tabsize-label = Ներդիրի չափը
+options-sourceeditor-keybinding-label = Ստեղների զուգորդութիւն
 options-sourceeditor-keybinding-default-label = Սկզբնադիր
 
 ## Advanced section
 
 # The heading
 options-context-advanced-settings = Լրացուցիչ կարգաւորումներ
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Անջատել HTTP յիշապահեստը (երբ գործիքատուփը բաց է)
+options-disable-http-cache-tooltip =
+    .title = Այս ընտրանքի միացումը կանջատի HTTP յիշապահեստը բաց գործիքատուփ ունեցող բոլոր ներդիրների համար: Այս ընտրանքը չի ազդում սպասարկող աշխատողների վրայ:
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Անջատել JavaScript *
 options-disable-javascript-tooltip =
     .title = Այս ընտրանքը կանջատի JavaScript-ը տուեալ ներդիրի համար: Եթե ներդիրը կամ գործիքները փակ են, ապա այս ընտրանքը կմոռացուի:
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Միացնել chrome դիտարկիչը եւ յաւելել վրիպազերծման գործիքատուփերը
+options-enable-chrome-tooltip =
+    .title = Այս ընտրանքի միացումը կը թոյլատրի դիտարկչի համատեքստում աւգտագործել տարբեր մշակող գործիքներ (via Tools > Web Developer > Browser Toolbox) եւ Յաւելումների կառավարչից վրիպազերծել յաւելումները
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Միացնել հեռակառավարուող վրիպազերծումը
+options-enable-remote-tooltip2 =
+    .title = Այս ընտրանքի միացումը կը թոյլատրի վրիպազերծել այս դիտարկչի հեռակայ նմուշը
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Միացնել սպասարկիչների աշխատանքը HTTP-ի նկատմամբ (երբ գործիքատուփը բաց է)
+options-enable-service-workers-http-tooltip =
+    .title = Այս ընտրանքի միացումը կը թոյլատրի սպասարկիչների աշխատանքը HTTP-ի նկատմամբ այն բոլոր ներդիրների համար, որոնք ունեն բաց գործիքատուփ:
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Միացնել աղբիւրի քարտեզները
+options-source-maps-tooltip =
+    .title = Եթե Դուք միացրել էք այս ընտրանքը, աղբիւրները կը տեղորոշուեն գործիքներում:
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Միայն ընթացիկ շրջանը, էջը վերբեռնում է
 # The label for the checkbox that toggles the display of the platform data in the
