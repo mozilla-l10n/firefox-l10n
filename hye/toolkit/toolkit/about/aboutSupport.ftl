@@ -16,6 +16,7 @@ extensions-version = Տարբերակ
 extensions-id = Նոյնացուցիչ
 support-addons-title = Յաւելումներ
 support-addons-name = Անուն
+support-addons-type = Տեսակ
 support-addons-enabled = Միացուած
 support-addons-version = Տարբերակ
 support-addons-id = Նոյնացուցիչ
@@ -76,6 +77,12 @@ show-dir-label =
         [windows] Բացել թղթապանակը
        *[other] Բացել թղթապանակը
     }
+environment-variables-title = Միաջավայրի փոփոխականներ
+environment-variables-name = Անուանում
+environment-variables-value = Արժէք
+experimental-features-title = Փորձնական յատկութիւններ
+experimental-features-name = Անուանում
+experimental-features-value = Արժէք
 modified-key-prefs-title = Փոփոխուած կարեւոր նախընտրութիւններ
 modified-prefs-name = Անուն
 modified-prefs-value = Արժեքը
@@ -119,12 +126,18 @@ sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
 safe-mode-title = Փորձել ապահով եղանակը
 restart-in-safe-mode-label = Վերամեկնարկել՝ անջատելով յաւելումները...
+clear-startup-cache-title = Փորձէք մաքրել մեկնարկման յիշապահեստը
+clear-startup-cache-label = Մաքրէք մեկնարկման յիշապահեստը…
+startup-cache-dialog-title = Մաքրէք մեկնարկման յիշապահեստը
+startup-cache-dialog-body = Վերամեկնարկէք { -brand-short-name }-ը մեկնարկման յիշապահեստը մաքրելու համար: Սա չի փոփոխի Ձեր կարգաւորումները կամ հեռացնի ընդլայնումները, որոնք աւելացրել էք { -brand-short-name }-ին:
+restart-button-label = Վերամեկնարկել
 
 ## Media titles
 
 audio-backend = Ձայնային հետընթաց
 max-audio-channels = Առաւելագոյն կապուղիներ
 sample-rate = Նախընտրելի նմուշի փոխարժեքը
+roundtrip-latency = Երկկողմանի ուղեւորութեան ուշացում (չափաւրինակային շեղում)
 media-title = Մեդիայ
 media-output-devices-title = Արտածելու սարքեր
 media-input-devices-title = Ներածելու սարքեր
@@ -258,6 +271,9 @@ blocklisted-bug = Սեւ ցուցակում՝ յայտնի խնդիրների պ
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = խնդիր { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Արգելափակուած է յայտնի խնդիրների պատճառով. <a data-l10n-name="bug-link"> վրիպակ { $bugNumber } </a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Արգելափակուած, ձախողուած կոդ՝ { $failureCode }

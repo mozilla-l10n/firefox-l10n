@@ -88,6 +88,14 @@ about-telemetry-filter-all-placeholder =
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = “{ $searchTerms }”-ի արդիւնքներ։
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Ներեցէ՛ք: { $sectionName } -ում չկան արդիւնքներ “{ $currentSearchText }” -ի համար:
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Ներեցէ՛ք: «{ $searchTerms }»- ի համար որեւէ հատուածում արդիւնքներ չկան
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.
