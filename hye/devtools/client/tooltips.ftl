@@ -44,6 +44,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Փորձէք ա
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Փորձէք աւելացնել <strong>ցուցադրել․ներտողային-արգելափակումը</strong>։ { learn-more }
 inactive-css-not-display-block-on-floated-fix = Փորձէք հեռացնել <strong>լողանցումը</strong> կամ աւելացնել <strong>ցուցադրման․արգելափակումը</strong>։ { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Փործէք  strong> position </strong> յատկութիւնը սահմանել <strong> static </strong>֊ից տարբեր: { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Փորձէք աւելացնել <strong> overflow:hidden </strong>: { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
