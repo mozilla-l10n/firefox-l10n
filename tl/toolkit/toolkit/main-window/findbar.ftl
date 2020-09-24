@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Hanapin ang susunod na pangyayari ng parirala
 findbar-previous =
     .tooltiptext = Hanapin ang nakaraang pangyayari ng parirala
-
 findbar-find-button-close =
     .tooltiptext = Isara ang bar ng paghahanap
-
 findbar-highlight-all2 =
     .label = I-highlight lahat
     .accesskey =
@@ -21,17 +19,14 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = I-highlight lahat kung saan matatagpuan ang parirala
-
 findbar-case-sensitive =
     .label = Itugma ang Case
     .accesskey = c
     .tooltiptext = Maghanap na may case sensitivity
-
 findbar-match-diacritics =
-    .label = Match Diacritics
+    .label = Itugma ang mga Tuldik
     .accesskey = i
-    .tooltiptext = Distinguish between accented letters and their base letters (for example, when searching for “resume”, “résumé” will not be matched)
-
+    .tooltiptext = Kilalanin ang pagkakaiba sa pagitan ng mga titik na may tuldik at wala (halimbawa, kapag naghahanap ng “basa”, hindi tutugma ang “basâ”)
 findbar-entire-word =
     .label = Buong Salita
     .accesskey = w
