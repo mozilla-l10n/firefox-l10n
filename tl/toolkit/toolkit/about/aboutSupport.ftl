@@ -80,6 +80,7 @@ show-dir-label =
 environment-variables-title = Mga Environment Variable
 environment-variables-name = Pangalan
 environment-variables-value = Halaga
+experimental-features-title = Mga Experimental Feature
 experimental-features-name = Pangalan
 experimental-features-value = Halaga
 modified-key-prefs-title = Mga Mahalagang Binagong Kagustuhan
@@ -242,14 +243,14 @@ virtual-monitor-disp = Virtual Monitor Display
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
-found = Nahanap
+found = Natagpuan
 missing = Nawawala
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Paglalarawan
 gpu-vendor-id = Vendor ID
-gpu-device-id = ID ng Device
-gpu-subsys-id = ID ng Subsys
+gpu-device-id = Device ID
+gpu-subsys-id = Subsys ID
 gpu-drivers = Mga driver
 gpu-ram = RAM
 gpu-driver-vendor = Driver Vendor
@@ -316,7 +317,7 @@ launcher-process-status-unknown = Di-kilalang status
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Pinagana ng gumagamit
 multi-process-status-1 = Pinapagana ayon sa default
-multi-process-status-2 = Hindi Pinagana
+multi-process-status-2 = Naka-disable
 multi-process-status-4 = Na-disable ng mga accessibility tool
 multi-process-status-6 = Hindi pinagana ng hindi suportadong text input
 multi-process-status-7 = Hindi pinagana ng mga add-on
