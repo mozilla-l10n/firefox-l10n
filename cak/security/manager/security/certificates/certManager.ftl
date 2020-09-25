@@ -18,6 +18,7 @@ certmgr-mine = E k'o taq ruwujil kib'i' re taq moloj re', ri nikiya' awetal
 certmgr-remembered = Re taq iqitzijib'äl re' ye'okisäx richin niya' retal pa re taq ajk'amaya'l ruxaq re'
 certmgr-people = K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taq winaqi' re'
 certmgr-servers = K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re ruk'u'x taq samaj
+certmgr-server = Re taq okitz'ib' nikiya' retal ri taq rucha'oj rusachoj ruwujil k'uxasamaj
 certmgr-ca = K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taqanel taq ya'öl ruwujil b'i'aj
 certmgr-detail-general-tab-title =
     .label = Chijun
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Tiyuj el ri man relik ta taq kiwujil rub'i' ruk'u'x samaj
 delete-ssl-cert-confirm = ¿La kan nawajo' ye'ayüj el re taq me'elïk re' pa ruk'u'x samaj?
 delete-ssl-cert-impact = Niyuj el jun man relik ta pa ruk'u'x samaj, xkerutzolij ri junelïk taq ruchajixik jikonem richin ri ruk'u'x samaj ri' chuqa' xtuk'utuj chi tawokisaj jun okel ruwujil b'i'aj.
+delete-ssl-override-title =
+    .title = Tiyuj ri man Relik ta Ruwujil Rub'i' K'uxasamaj
+delete-ssl-override-confirm = ¿La kan nawajo' nayüj re man relik ta pa re k'uxasamaj?
+delete-ssl-override-impact = Niyuj el jun man relik ta pa ruk'u'x samaj, xkerutzolij ri junelïk taq ruchajixik jikonem richin ri ruk'u'x samaj ri' chuqa' xtuk'utuj chi tawokisaj jun okel ruwujil b'i'aj.
 delete-ca-cert-title =
     .title = Keyuj el o man tikuqub'äx k'u'x kik'in ri taq CA kiwujil b'i'aj
 delete-ca-cert-confirm = Xak'utuj chi ye'ayüj el re taq CA kiwujil taq b'i'aj. Ja ri etz'aqatisan ruma rucholajem, pa ruk'exel xkeyuj el nelesäx el ri kuqub'äl k'u'x chi kij, ri junam nub'än kan chi ke. ¿La kan nawajo' nab'än kan ke ri' chi ke?
@@ -210,6 +215,13 @@ cert-not-verified_algorithm-disabled = Man tikirel ta xnik'öx re ruwujil b'i'aj
 cert-not-verified-unknown = Man tikirel ta nijikib'äx re ruwujil b'i'aj re', man etaman ta achoq uma.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Man titaq ri riqitz'ijob'al winäq
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Man yakon ta)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Jumul
+temporary-override = Jumej
 
 ## Add Security Exception dialog
 

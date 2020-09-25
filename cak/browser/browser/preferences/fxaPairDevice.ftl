@@ -9,5 +9,7 @@ fxa-qrcode-heading-phase1 = 1. We k'a man ab'anon ta, tayaka' <a data-l10n-name=
 fxa-qrcode-heading-phase2 = 2. K'a ri' tatikirisaj molojri'ïl pa { -sync-brand-short-name }, o tatz'ajwachib'ej ri rub'itz'ib' okem pa ri taq runuk'ulem { -sync-brand-short-name } pan Android.
 fxa-qrcode-heading-step1 = 1. We k'a man ab'anon ta, tayaka' <a data-l10n-name="connect-another-device">Firefox pan awoyonib'al</a>.
 fxa-qrcode-heading-step2 = Tajaqa' Firefox pa ri iOS awokisab'äl.
+fxa-qrcode-heading-step3 = 3. Tajaqa' ri <b>k'utsamaj</b> (<img data-l10n-name="ios-menu-icon"/> o <img data-l10n-name="android-menu-icon"/>), tachapa' <img data-l10n-name="settings-icon"/> <b>Nuk'ulem</b> chuqa' tacha' <b>Titzij ri Sync</b>
+fxa-qrcode-heading-step4 = 4. Tatz'ajwachib'ej re b'itz'ib':
 fxa-qrcode-error-title = Xsach ri okem.
 fxa-qrcode-error-body = Titojtob'ëx chik.
