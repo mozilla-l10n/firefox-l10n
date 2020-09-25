@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+key-wizard-button =
+    .buttonlabelaccept = Жалғастыру
+    .buttonlabelhelp = Артқа өту
 key-wizard-learn-more = Көбірек білу
 
 ## Generate key section
