@@ -383,6 +383,9 @@ addon-badge-recommended2 =
 addon-badge-line =
     .title = Re k'amal xnuk' kuma runuk'unela' { -brand-product-name }
     .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Xnik'öx rub'itz'ib' re k'amal re' ruma jikomal
+    .aria-label = { addon-badge-verified.title }
 
 ##
 
