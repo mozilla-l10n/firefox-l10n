@@ -373,11 +373,19 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Toq tzij, ri k'amal pa ronojel samaj xtok wi toq atokinäq pa k'amaya'l pan ichinan rub'anikil. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 addon-detail-private-browsing-allow = Tiya' q'ij
 addon-detail-private-browsing-disallow = Man Tiya' Q'ij
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Re k'amal xnuk' kuma runuk'unela' { -brand-product-name }
+    .aria-label = { addon-badge-line.title }
+
+##
+
 available-updates-heading = Taq K'exoj K'o
 recent-updates-heading = K'ak'a' taq K'exoj
 release-notes-loading = Nisamäj…
