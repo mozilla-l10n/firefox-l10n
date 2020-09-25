@@ -10,3 +10,7 @@
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
 <!ENTITY storage.popupMenu.deleteAllLabel "លុប​ចោល​ទាំងអស់">
 
+<!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "លុបឃូគីសម័យទាំងអស់">
+
+<!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
