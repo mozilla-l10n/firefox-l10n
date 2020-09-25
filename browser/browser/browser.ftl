@@ -159,6 +159,53 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Rimuovi estensione
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Invia scheda a dispositivo
+           *[other] Invia { $tabCount } schede a dispositivo
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Invia scheda a dispositivo
+           *[other] Invia { $tabCount } schede a dispositivo
+        }
+page-action-pocket-panel =
+    .label = Salva pagina in { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copia link
+page-action-copy-url-urlbar =
+    .tooltiptext = Copia link
+page-action-email-link-panel =
+    .label = Invia link per email…
+page-action-email-link-urlbar =
+    .tooltiptext = Invia link per email…
+page-action-share-url-panel =
+    .label = Condividi
+page-action-share-url-urlbar =
+    .tooltiptext = Condividi
+page-action-share-more-panel =
+    .label = Altro…
+page-action-send-tab-not-ready =
+    .label = Sincronizzazione dispositivi…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Appunta scheda
+page-action-pin-tab-urlbar =
+    .tooltiptext = Appunta scheda
+page-action-unpin-tab-panel =
+    .label = Rilascia scheda
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Rilascia scheda
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
