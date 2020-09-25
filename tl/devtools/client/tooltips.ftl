@@ -25,6 +25,8 @@ inactive-css-not-inline-or-tablecell = Walang epekto ang <strong>{ $property }</
 inactive-css-property-because-of-display = Walang epekto ang <strong>{ $property }</strong> sa element na ito dahil ito ay may display na <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Ang <strong>display</strong> value ay binago ng engine sa <strong>block</strong> dahil ang element ay <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Imposibleng mapatungan ang <strong>{ $property }</strong> dahil sa <strong>:visited</strong> restriction.
+inactive-css-position-property-on-unpositioned-box = Walang epekto ang <strong>{ $property }</strong> sa element na ito dahil hindi ito isang positioned element.
+inactive-text-overflow-when-no-overflow = Walang epekto ang <strong>{ $property }</strong> na ito dahil hindi nakatakda ang <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -41,6 +43,7 @@ inactive-css-not-inline-or-tablecell-fix = Subukang magdagdag ng <strong>display
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Subukang magdagdag ng <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Subukang magdagdag ng <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Subukang tanggalin ang <strong>float</strong> o magdagdag ng <strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Subukang itakda ang <strong>position</strong> nito sa iba pang bagay bukod sa <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Subukan magdagdag ng <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
