@@ -9,6 +9,18 @@ key-wizard-learn-more = Көбірек білу
 
 ## Generate key section
 
+openpgp-keygen-days-label =
+    .label = күн
+openpgp-keygen-months-label =
+    .label = ай
+openpgp-keygen-years-label =
+    .label = жыл
+openpgp-keygen-advanced-title = Кеңейтілген баптаулар
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (эллиптикалық қисықтар)
+openpgp-keygen-button = Кілтті генерациялау
 openpgp-keygen-confirm =
     .label = Растау
 openpgp-keygen-dismiss =
