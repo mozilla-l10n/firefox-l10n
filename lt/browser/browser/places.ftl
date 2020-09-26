@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Atverti naujame privačiojo naršymo lange
     .accesskey = p
-
 places-new-bookmark =
     .label = Naujas adresas…
     .accesskey = N
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Naujas skirtukas
     .accesskey = s
-
 places-view =
     .label = Rodyti
     .accesskey = o
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = pagal datą ir svetainę
     .accesskey = t
-
 places-history-search =
     .placeholder = Ieškoti žurnale
 places-bookmarks-search =
     .placeholder = Ieškoti adresyne
-
 places-delete-domain-data =
     .label = Užmiršti viską apie šią svetainę
     .accesskey = U
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Savybės
     .accesskey = S
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Tvarkomas adresynas
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Poaplankis
