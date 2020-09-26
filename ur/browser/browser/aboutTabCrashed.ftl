@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = ٹیب کریش رپورٹر
-crashed-close-tab-button = ٹیب بند کر دیں
+crashed-close-tab-button = ٹیب بند کریں
 crashed-restore-tab-button = یہ ٹیب دوبارہ چلائیں
 crashed-restore-all-button = تمام تباہ شدہ ٹیب بحال کریں
 crashed-header = اوھ ۔ آپ کا ٹیب ابھی تباہ ہو گیا۔

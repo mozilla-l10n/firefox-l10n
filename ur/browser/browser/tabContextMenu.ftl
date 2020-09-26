@@ -18,7 +18,7 @@ close-tabs-to-the-end =
     .label = دائیں طرف کے ٹیب بند کریں
     .accesskey = i
 close-other-tabs =
-    .label = دیگر ٹیب بند کر دیں
+    .label = دیگر ٹیب بند کریں
     .accesskey = o
 reload-tabs =
     .label = ٹیب دوبارہ لوڈ کریں
@@ -50,8 +50,9 @@ move-to-new-window =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
-    .label = ٹیب بند کر دیں
+    .label = ٹیب بند کریں
     .accesskey = c
 close-tabs =
     .label = ٹیب بند کریں
