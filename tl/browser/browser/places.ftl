@@ -60,6 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Mga katangian
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Mga naka-manage na bookmark
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subfolder
