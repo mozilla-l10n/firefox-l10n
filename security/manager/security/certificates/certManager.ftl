@@ -18,6 +18,7 @@ certmgr-mine = Turite liudijimus, išduotus šių jus identifikuojančių įstai
 certmgr-remembered = Šie liudijimai naudojami jūsų tapatumo patvirtinimui svetainėse
 certmgr-people = Turite liudijimus, identifikuojančius šiuos asmenis
 certmgr-servers = Turite liudijimus, identifikuojančius šiuos serverius
+certmgr-server = Šie įrašai nurodo serverių liudijimų klaidų išimtis
 certmgr-ca = Turite liudijimus, identifikuojančius šias liudijimų įstaigas
 certmgr-detail-general-tab-title =
     .label = Bendroji
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Serverių liudijimams taikomų išimčių atsisakymas
 delete-ssl-cert-confirm = Ar tikrai pašalinti šiems serveriams taikomas išimtis?
 delete-ssl-cert-impact = Nustojus serveriui taikyti išimtį, šiai sričiai bus taikomos įprastos saugumo patikros procedūros ir bus reikalaujama galiojančio liudijimo.
+delete-ssl-override-title =
+    .title = Pašalinti serverio liudijimo išimtį
+delete-ssl-override-confirm = Ar tikrai pašalinti šiam serveriui taikomą išimtį?
+delete-ssl-override-impact = Nustojus serveriui taikyti išimtį, šiai sričiai bus taikomos įprastos saugumo patikros procedūros ir bus reikalaujama galiojančio liudijimo.
 delete-ca-cert-title =
     .title = Pasitikėjimo LĮ liudijimais nutraukimas ir jų šalinimas
 delete-ca-cert-confirm = Jūs nurodėte pašalinti šiuos LĮ liudijimus. Įtaisytųjų liudijimų atveju, užuot juos pašalinus, bus visiškai nutrauktas pasitikėjimas jais (šio veiksmo efektas toks pat). Ar norite, kad liudijimai būtų pašalinti arba nutrauktas pasitikėjimas jais?
@@ -210,6 +215,13 @@ cert-not-verified_algorithm-disabled = Negalima patikrinti šio liudijimo, nes j
 cert-not-verified-unknown = Negalima patikrinti šio liudijimo (priežastys nežinomos).
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nesiųsti kliento liudijimo
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Neįrašytas)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Visam laikui
+temporary-override = Laikinai
 
 ## Add Security Exception dialog
 
