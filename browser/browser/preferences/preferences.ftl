@@ -290,8 +290,8 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Koristi macOS zadanu aplikaciju
-            [windows] Koristi Windows zadanu aplikaciju
+            [macos] Koristi zadanu aplikaciju u macOS-u
+            [windows] Koristi zadanu aplikaciju u Windowsu
            *[other] Koristi zadanu aplikaciju sustava
         }
 applications-use-other =
