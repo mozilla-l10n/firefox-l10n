@@ -185,8 +185,8 @@ properties-general-size =
 media-animated-image-type =
     .value =
         { $frames ->
-            [one] { $type } Grafik (animiert, { $frames } Frame)
-           *[other] { $type } Grafik (animiert, { $frames } Frames)
+            [one] { $type }-Grafik (animiert, { $frames } Frame)
+           *[other] { $type }-Grafik (animiert, { $frames } Frames)
         }
 # This string is used to display the type of
 # an image
