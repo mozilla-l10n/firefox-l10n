@@ -8,7 +8,8 @@ password-quality-meter = Meter jakości hasła
 
 change-password-window =
     .title = Zmiyń głōwne hasło
-
+change-device-password-window =
+    .title = Zmiyń hasło
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Maszina ôd bezpieczyństwa: { $tokenName }
@@ -21,12 +22,25 @@ change-password-reenter = Nowe hasło (jeszcze roz):
 reset-password-window =
     .title = Wynuluj głōwne hasło
     .style = width: 40em
+pippki-failed-pw-change = Niy idzie zmiynić hasła.
+pippki-incorrect-pw = Niy było wkludzōne dobre hasło. Sprōbuj jeszcze roz.
+pippki-pw-change-ok = Zmiana hasła sie podarziła.
+pippki-pw-empty-warning = Poschraniane hasła i prywatne klucze niy bydōm brōniōne.
+pippki-pw-erased-ok = Hasło je skasowane. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Pozōr! Ôbrane je niyużywanie hasła. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Jeżeś prawie w trybie FIPS, co potrzebuje niyprōżnego hasła.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Wynuluj głōwne hasło
+    .style = width: 40em
 reset-password-button-label =
     .label = Wynuluj
 reset-password-text = Jak wynulujesz swoje głōwne hasło, to przepōmnōm sie wszyskie poschraniane hasła, dane formularōw, ôsobiste certyfikaty i prywatne klucze. Na zicher chcesz wynulować swoje głōwne hasło?
+reset-primary-password-text = Jak wynulujesz swoje głōwne hasło, to przepōmnōm sie wszyskie poschraniane hasła, dane formularōw, ôsobiste certyfikaty i prywatne klucze. Na zicher chcesz wynulować swoje głōwne hasło?
+pippki-reset-password-confirmation-title = Wynuluj głōwne hasło
+pippki-reset-password-confirmation-message = Twoje głōwne hasło je wynulowane.
 
 ## Downloading cert dialog
 
