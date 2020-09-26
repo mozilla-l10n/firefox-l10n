@@ -93,7 +93,7 @@ extension-controlled-web-notifications = Một tiện ích mở rộng, <img dat
 extension-controlled-default-search = Một tiện ích mở rộng, <img data-l10n-name="icon"/> { $name }, đã cài đặt công cụ tìm kiếm mặc định của bạn.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Một tiện ích mở rộng, <img data-l10n-name="icon"/> { $name }, yêu cầu thẻ ngăn chứa.
+extension-controlled-privacy-containers = Một tiện ích mở rộng, <img data-l10n-name="icon"/> { $name }, yêu cầu ngăn chứa thẻ.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Một tiện ích mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát cài đặt này.
@@ -163,20 +163,20 @@ show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
     .accesskey = k
 browser-containers-enabled =
-    .label = Kích hoạt thẻ ngăn chứa
+    .label = Kích hoạt ngăn chứa thẻ
     .accesskey = n
 browser-containers-learn-more = Tìm hiểu thêm
 browser-containers-settings =
     .label = Cài đặt…
     .accesskey = i
-containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
-containers-disable-alert-desc = Nếu bạn vô hiệu hóa thẻ ngăn chứa bây giờ, { $tabCount } thẻ ngăn chứa sẽ bị đóng. Bạn có chắc muốn vô hiệu hóa thẻ ngăn chứa?
-containers-disable-alert-ok-button = Đóng { $tabCount } thẻ ngăn chứa
+containers-disable-alert-title = Đóng tất cả các ngăn chứa thẻ?
+containers-disable-alert-desc = Nếu bạn vô hiệu hóa ngăn chứa thẻ bây giờ, { $tabCount } thẻ trong ngăn chứa sẽ bị đóng. Bạn có chắc muốn vô hiệu hóa ngăn chứa thẻ?
+containers-disable-alert-ok-button = Đóng { $tabCount } thẻ trong ngăn chứa
 containers-disable-alert-cancel-button = Tiếp tục bật
 containers-remove-alert-title = Xóa ngăn chứa này?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg = Nếu bạn xóa ngăn chứa này bây giờ, { $count } thẻ ngăn chứa sẽ bị đóng. Bạn có chắc muốn xóa ngăn chứa này?
+containers-remove-alert-msg = Nếu bạn xóa ngăn chứa này bây giờ, { $count } thẻ trong ngăn chứa sẽ bị đóng. Bạn có chắc muốn xóa ngăn chứa này?
 containers-remove-ok-button = Xóa ngăn chứa này
 containers-remove-cancel-button = Không xóa ngăn chứa này
 
@@ -575,7 +575,7 @@ containers-back-button =
             [windows] Quay lại Tùy chọn
            *[other] Quay lại Tùy chỉnh
         }
-containers-header = Thẻ ngăn chứa
+containers-header = Ngăn chứa thẻ
 containers-add-button =
     .label = Thêm ngăn chứa mới
     .accesskey = T
