@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Socket
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Xóa bộ nhớ đệm DNS
+about-networking-dns-trr-url = URL DoH
 about-networking-dns-suffix = Hậu tố DNS
 about-networking-websockets = WebSocket
 about-networking-refresh = Cập nhật
