@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Cài đặt tài khoản">
@@ -15,6 +13,7 @@
 <!ENTITY name.accesskey "B">
 <!ENTITY email.label "Địa chỉ Email:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Trả lời từ danh tính này khi tiêu đề phân phối khớp với:">
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Địa chỉ Trả-lời-tới:">
 <!ENTITY replyTo.accesskey "a">

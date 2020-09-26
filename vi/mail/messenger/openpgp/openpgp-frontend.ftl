@@ -30,6 +30,10 @@ openpgp-broken-exchange-info = Đây là thông báo OpenPGP dường như đã 
 openpgp-broken-exchange-repair =
     .label = Sửa chữa thư
 openpgp-broken-exchange-wait = Vui lòng chờ…
+openpgp-cannot-decrypt-because-mdc =
+    Đây là một thư được mã hóa sử dụng một cơ chế cũ và dễ bị tấn công.
+    Nó có thể đã được sửa đổi khi đang chuyển, với ý định lấy cắp nội dung của nó.
+    Để ngăn ngừa rủi ro này, nội dung không được hiển thị.
 openpgp-cannot-decrypt-because-missing-key = Không có khóa bí mật cần thiết để giải mã thông báo này.
 openpgp-partially-signed =
     Chỉ một tập hợp con của thông báo này được ký điện tử bằng OpenPGP.
