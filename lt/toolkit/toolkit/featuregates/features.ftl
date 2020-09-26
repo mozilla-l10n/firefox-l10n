@@ -30,6 +30,11 @@ experimental-features-web-api-link-preload =
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
 experimental-features-web-api-link-preload-description = <a data-l10n-name="rel">rel</a> atributas su reikšme <code>"preload"</code> ant <a data-l10n-name="link">&lt;link&gt;</a> elemento yra skirtas padėti suteikti daugiau našumo, leidžiant jums atsiųsti resursus ankstesnėje tinklalapio įkėlimo stadijoje. Taip užtikrinama, kad jie bus pasiekiami anksčiau, ir bus mažesnė tikimybė stabdyti pačio tinklalapio atvaizdavimą. Sužinoti daugiau galite skaitydami <a data-l10n-name="readmore">„Išankstinis turinio įkėlimas su <code>rel="preload"</code>“</a>, arba apie <a data-l10n-name="bugzilla">klaidą 1583604</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: pseudoklasė: :focus-visible
+experimental-features-css-focus-visible-description = Leidžia „focus“ stiliams būtų taikomiems tokiems elementams, kaip mygtukai ir formų elementai tik tada, kai jie aktyvuojami naudojantis klaviatūra (pvz., pereinant tarp elementų su „Tab“), ir ne tada, kad jie aktyvuojami naudojantis pele ar kitu rodymo įrenginiu. Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla">klaidą 1617600</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Slapukai: SameSite=Lax (numatyta)

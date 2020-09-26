@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Sujungimai
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Išvalyti DNS podėlį
+about-networking-dns-trr-url = DoH URL
 about-networking-dns-suffix = DNS prievardis
 about-networking-websockets = WebSockets
 about-networking-refresh = Atnaujinti
