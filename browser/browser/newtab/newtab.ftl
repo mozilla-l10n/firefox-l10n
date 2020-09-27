@@ -49,7 +49,7 @@ newtab-topsites-add-button = Добавить
 
 newtab-confirm-delete-history-p1 = Вы действительно хотите удалить все записи об этой странице из вашей истории?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = Это действие не может быть отменено.
+newtab-confirm-delete-history-p2 = Это действие нельзя отменить.
 
 ## Context Menu - Action Tooltips.
 
