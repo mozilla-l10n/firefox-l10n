@@ -11,7 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Merker ar rannañ
-
+webrtc-sharing-window = Rannañ a rit prenestr un arload all.
 webrtc-sharing-browser-window = O rannañ { -brand-short-name } emaoc'h.
 webrtc-sharing-screen = O rannañ ho skramm a-bezh emaoc'h.
 webrtc-stop-sharing-button = Paouez rannañ
@@ -19,5 +19,13 @@ webrtc-microphone-button =
     .title = Ho klevell a zo rannet. Klikañ evit merañ ar rannañ.
 webrtc-camera-button =
     .title = Ho kamera a zo rannet. Klikañ evit merañ ar rannañ.
+webrtc-microphone-unmuted =
+    .title = Lazhañ ar glevell
+webrtc-microphone-muted =
+    .title = Enaouiñ ar glevell
+webrtc-camera-unmuted =
+    .title = Lazhañ ar c'hamera
+webrtc-camera-muted =
+    .title = Enaouiñ ar c'hamera
 webrtc-minimize =
     .title = Bihanaat ar merker
