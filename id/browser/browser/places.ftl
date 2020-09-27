@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Buka Tautan di Jendela Penjelajahan Pribadi Baru
     .accesskey = P
-
 places-new-bookmark =
     .label = Markah Baru…
     .accesskey = M
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Garis Pemisah Baru
     .accesskey = G
-
 places-view =
     .label = Tampilkan
     .accesskey = l
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Berdasarkan Tanggal dan Situs
     .accesskey = d
-
 places-history-search =
     .placeholder = Cari riwayat
 places-bookmarks-search =
     .placeholder = Cari markah
-
 places-delete-domain-data =
     .label = Lupakan Situs Ini
     .accesskey = L
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Properti
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Markah yang dikelola
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Subfolder
