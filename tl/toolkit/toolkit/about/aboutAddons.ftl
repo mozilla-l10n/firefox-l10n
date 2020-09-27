@@ -363,11 +363,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 addon-detail-private-browsing-allow = Payagan
 addon-detail-private-browsing-disallow = Huwag Payagan
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = Inirerekomenda lamang ng { -brand-product-name } ang mga extension na pasok sa aming mga pamantayan pagdating sa seguridad at performance
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Ginawa ang extension na ito ng mga lumikha sa { -brand-product-name }
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Na-code-review na ang extension na ito para sa kaligtasan
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = Mga Magagamit na Update
 recent-updates-heading = Mga Update Kamakailan
 release-notes-loading = Nagloload...
