@@ -23,9 +23,9 @@ reset-password-window =
     .title = Setel Ulang Sandi Utama
     .style = width: 40em
 pippki-pw-change-ok = Sandi berhasil diubah.
-pippki-pw-empty-warning = Kata sandi dan kunci pribadi yang Anda simpan akan tidak akan diproteksi.
-pippki-pw-erased-ok = Anda telah menghapus kata sandi Anda. { pippki-pw-empty-warning }
-pippki-pw-not-wanted = Peringatan! Anda memutuskan untuk tidak menggunakan kata sandi. { pippki-pw-empty-warning }
+pippki-pw-empty-warning = Sandi dan kunci pribadi yang Anda simpan akan tidak akan dilindungi.
+pippki-pw-erased-ok = Anda telah menghapus sandi Anda. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Peringatan! Anda memutuskan untuk tidak menggunakan sandi. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Saat ini Anda berada pada mode FIPS. FIPS membutuhkan sandi.
 
 ## Reset Primary Password dialog
