@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Untuk mengirim pesan terenkripsi atau bertanda tangan digital, Anda perlu mengkonfigurasi teknologi enkripsi, baik OpenPGP maupun S/MIME.
+e2e-intro-description-more = Pilih kunci pribadi Anda untuk mengaktifkan penggunaan OpenPGP, atau sertifikat pribadi Anda untuk mengaktifkan penggunaan S/MIME. Untuk kunci pribadi atau sertifikat, Anda memiliki kunci rahasia yang sesuai.
 openpgp-key-user-id-label = Akun / ID Pengguna
 openpgp-keygen-title-label =
     .title = Hasilkan Kunci OpenPGP
