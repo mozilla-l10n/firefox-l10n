@@ -220,6 +220,7 @@ openpgp-copy-cmd-label =
 openpgp-add-key-button =
     .label = Tambahkan Kunci…
     .accesskey = a
+e2e-learn-more = Pelajari lebih lanjut
 openpgp-keygen-success = Kunci OpenPGP berhasil dibuat!
 openpgp-keygen-import-success = Kunci OpenPGP berhasil diimpor!
 
@@ -241,6 +242,41 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Cabut Kunci
 openpgp-key-edit-title = Ubah Kunci OpenPGP
 openpgp-key-edit-date-title = Perpanjang Tanggal Kedaluwarsa
+openpgp-manager-button =
+    .label = Manajer Kunci OpenPGP
+    .accesskey = K
+openpgp-key-remove-external =
+    .label = Hapus ID Kunci Eksternal
+    .accesskey = E
+key-external-label = Kunci GnuPG Eksternal
+# Strings in keyDetailsDlg.xhtml
+key-type-public = kunci publik
+key-type-primary = kunci utama
+key-type-subkey = subkunci
+key-type-pair = pasangan kunci (kunci rahasia dan kunci publik)
+key-expiry-never = tidak pernah
+key-usage-encrypt = Enkripsi
+key-usage-sign = Tandatangan
+key-usage-certify = Sertifikasi
+key-usage-authentication = Otentikasi
+key-does-not-expire = Kunci tidak kedaluwarsa
+key-expired-date = Kunci kedaluwarsa pada { $keyExpiry }
+key-expired-simple = Kunci sudah kedaluwarsa
+key-revoked-simple = Kunci sudah dicabut
+# Strings in keyserver.jsm
+keyserver-error-aborted = Dibatalkan
+keyserver-error-server-error = Server kunci melaporkan kesalahan.
+keyserver-error-import-error = Gagal mengimpor kunci yang diunduh.
+keyserver-error-unavailable = Server kunci tidak tersedia.
+keyserver-error-security-error = Server kunci tidak mendukung akses terenkripsi.
+keyserver-error-certificate-error = Sertifikat server kunci tidak valid.
+keyserver-error-unsupported = Server kunci tidak didukung.
+expiry-open-key-manager = Buka Manajer Kunci OpenPGP
+expiry-open-key-properties = Buka Properti Kunci
+# Strings filters.jsm
+filter-folder-required = Anda harus memilih folder target.
+filter-term-pgpencrypted-label = Dienkripsi OpenPGP
+filter-key-required = Anda harus memilih kunci penerima.
 
 ## Account settings export output
 
