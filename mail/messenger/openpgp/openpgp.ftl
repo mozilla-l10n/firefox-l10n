@@ -223,6 +223,7 @@ openpgp-add-key-button =
 e2e-learn-more = Pelajari lebih lanjut
 openpgp-keygen-success = Kunci OpenPGP berhasil dibuat!
 openpgp-keygen-import-success = Kunci OpenPGP berhasil diimpor!
+openpgp-keygen-external-success = ID Kunci GnuPG Eksternal disimpan!
 
 ## OpenPGP Key selection area
 
@@ -263,8 +264,13 @@ key-does-not-expire = Kunci tidak kedaluwarsa
 key-expired-date = Kunci kedaluwarsa pada { $keyExpiry }
 key-expired-simple = Kunci sudah kedaluwarsa
 key-revoked-simple = Kunci sudah dicabut
+key-do-you-accept = Apakah Anda menerima kunci ini untuk memverifikasi tanda tangan digital dan untuk mengenkripsi pesan?
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Tidak dapat mengirim pesan, karena ada masalah dengan kunci pribadi Anda. { $problem }
+cannot-encrypt-because-missing = Tidak dapat mengirim pesan ini dengan enkripsi ujung ke ujung, karena ada masalah dengan kunci dari penerima berikut: { $problem }
 # Strings in keyserver.jsm
 keyserver-error-aborted = Dibatalkan
+keyserver-error-unknown = Terjadi masalah yang tidak diketahui
 keyserver-error-server-error = Server kunci melaporkan kesalahan.
 keyserver-error-import-error = Gagal mengimpor kunci yang diunduh.
 keyserver-error-unavailable = Server kunci tidak tersedia.
