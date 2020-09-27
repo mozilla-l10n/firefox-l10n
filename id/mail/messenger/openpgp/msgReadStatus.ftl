@@ -23,4 +23,6 @@ openpgp-sig-key-id = ID kunci penanda tangan: { $key }
 openpgp-sig-key-id-with-subkey-id = ID kunci penanda tangan: { $key } (ID sub kunci: { $subkey })
 openpgp-enc-key-id = ID kunci dekripsi Anda: { $key }
 openpgp-enc-key-with-subkey-id = ID kunci dekripsi Anda: { $key } (ID sub kunci: { $subkey })
-openpgp-unknown-key-id = Kunci tidak diketahui
+openpgp-unknown-key-id = Kunci tak dikenal
+openpgp-other-enc-additional-key-ids = Selain itu, pesan tersebut dienkripsi ke pemilik kunci berikut:
+openpgp-other-enc-all-key-ids = Pesan tersebut dienkripsi ke pemilik kunci berikut:
