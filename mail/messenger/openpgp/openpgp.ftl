@@ -169,12 +169,78 @@ openpgp-key-details-signatures-tab =
     .label = Sertifikasi
 openpgp-key-details-structure-tab =
     .label = Struktur
+openpgp-key-details-uid-certified-col =
+    .label = ID Pengguna / Disertifikasi oleh
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Tipe
+openpgp-key-details-key-part-label =
+    .label = Bagian kunci
+openpgp-key-details-algorithm-label =
+    .label = Algoritme
+openpgp-key-details-size-label =
+    .label = Ukuran
+openpgp-key-details-created-label =
+    .label = Dibuat
+openpgp-key-details-created-header = Dibuat
+openpgp-key-details-expiry-label =
+    .label = Kedaluwarsa
+openpgp-key-details-expiry-header = Kedaluwarsa
+openpgp-key-details-usage-label =
+    .label = Penggunaan
+openpgp-key-details-fingerprint-label = Sidik Jari
+openpgp-key-details-sel-action =
+    .label = Pilih aksi ...
+    .accesskey = s
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Tutup
+openpgp-acceptance-label =
+    .label = Penerimaan Anda
+openpgp-acceptance-rejected-label =
+    .label = Tidak, tolak kunci ini.
+openpgp-acceptance-undecided-label =
+    .label = Belum, mungkin nanti.
+openpgp-acceptance-unverified-label =
+    .label = Ya, tetapi saya belum memverifikasi bahwa ini adalah kunci yang benar.
+openpgp-acceptance-verified-label =
+    .label = Ya, saya telah memverifikasi secara langsung kunci ini memiliki sidik jari yang benar.
+key-accept-personal =
+    Untuk kunci ini, Anda memiliki bagian publik dan rahasia. Anda dapat menggunakannya sebagai kunci pribadi.
+    Jika kunci ini diberikan kepada Anda oleh orang lain, jangan gunakan sebagai kunci pribadi.
+key-personal-warning = Apakah Anda membuat kunci ini sendiri, dan kepemilikan kunci yang ditampilkan mengacu pada diri Anda sendiri?
+openpgp-personal-no-label =
+    .label = Tidak, jangan gunakan sebagai kunci pribadi saya.
+openpgp-personal-yes-label =
+    .label = Ya, perlakukan kunci ini sebagai kunci pribadi.
+openpgp-copy-cmd-label =
+    .label = Salin
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Tambahkan Kunci…
+    .accesskey = a
+openpgp-keygen-success = Kunci OpenPGP berhasil dibuat!
+openpgp-keygen-import-success = Kunci OpenPGP berhasil diimpor!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Nihil
+openpgp-radio-none-desc = Jangan gunakan OpenPGP untuk identitas ini.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Kedaluwarsa pada: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Kunci akan kedaluwarsa dalam waktu kurang dari 6 bulan
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Kedaluwarsa pada: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Kunci kedaluwarsa
+openpgp-key-expand-section =
+    .tooltiptext = Informasi lebih lanjut
+openpgp-key-revoke-title = Cabut Kunci
+openpgp-key-edit-title = Ubah Kunci OpenPGP
+openpgp-key-edit-date-title = Perpanjang Tanggal Kedaluwarsa
 
 ## Account settings export output
 
