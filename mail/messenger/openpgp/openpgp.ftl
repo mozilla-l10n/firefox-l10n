@@ -146,6 +146,29 @@ openpgp-key-man-show-others-keys =
     .accesskey = O
 openpgp-key-man-user-id-label =
     .label = Nama
+openpgp-key-man-fingerprint-label =
+    .label = Sidik Jari
+openpgp-key-man-select-all =
+    .label = Pilih Semua Kunci
+    .accesskey = a
+openpgp-key-man-empty-tree-tooltip =
+    .label = Masukkan istilah pencarian dalam kotak di atas
+openpgp-key-man-nothing-found-tooltip =
+    .label = Tidak ada kunci yang cocok dengan istilah pencarian Anda
+openpgp-key-man-please-wait-tooltip =
+    .label = Harap tunggu sementara kunci sedang dimuat…
+openpgp-key-man-filter-label =
+    .placeholder = Cari kunci
+openpgp-key-man-select-all-key =
+    .key = A
+openpgp-key-man-key-details-key =
+    .key = I
+openpgp-key-details-title =
+    .title = Properti Kunci
+openpgp-key-details-signatures-tab =
+    .label = Sertifikasi
+openpgp-key-details-structure-tab =
+    .label = Struktur
 
 ## e2e encryption settings
 
