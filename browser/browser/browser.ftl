@@ -169,12 +169,14 @@ page-action-remove-extension =
 page-action-send-tabs-panel =
     .label =
         { $tabCount ->
+            [1] Tabblad naar apparaat verzenden
             [one] Tabblad naar apparaat verzenden
            *[other] { $tabCount } tabbladen naar apparaat verzenden
         }
 page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
+            [1] Tabblad naar apparaat verzenden
             [one] Tabblad naar apparaat verzenden
            *[other] { $tabCount } tabbladen naar apparaat verzenden
         }
@@ -220,7 +222,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Deze keer zoeken met:
 # This string won't wrap, so if the translated string is longer,
