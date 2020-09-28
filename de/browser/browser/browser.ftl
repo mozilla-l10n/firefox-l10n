@@ -164,10 +164,24 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = Seite in { -pocket-brand-name } speichern
+page-action-copy-url-panel =
+    .label = Link-Adresse kopieren
+page-action-copy-url-urlbar =
+    .tooltiptext = Link-Adresse kopieren
 page-action-email-link-panel =
     .label = Link per E-Mail senden…
 page-action-email-link-urlbar =
     .tooltiptext = Link per E-Mail senden…
+page-action-share-url-panel =
+    .label = Teilen
+page-action-share-url-urlbar =
+    .tooltiptext = Teilen
+page-action-share-more-panel =
+    .label = Mehr…
+page-action-send-tab-not-ready =
+    .label = Geräte werden synchronisiert…
 
 ## Auto-hide Context Menu
 
