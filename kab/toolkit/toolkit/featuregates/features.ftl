@@ -90,3 +90,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = Yerm
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Rmed Wrap, d asenfar i usnerni n tmellit n JavaScript d useqdec n tkatut.
