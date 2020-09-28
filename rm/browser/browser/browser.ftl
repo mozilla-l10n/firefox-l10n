@@ -162,6 +162,31 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Allontanar l'extensiun
 
+## Page Action menu
+
+page-action-pocket-panel =
+    .label = Memorisar la pagina en { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copiar la colliaziun
+page-action-copy-url-urlbar =
+    .tooltiptext = Copiar la colliaziun
+page-action-share-more-panel =
+    .label = Dapli…
+page-action-send-tab-not-ready =
+    .label = Sincronisar apparats…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fixar il tab
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fixar il tab
+page-action-unpin-tab-panel =
+    .label = Betg pli fixar il tab
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Betg pli fixar il tab
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
