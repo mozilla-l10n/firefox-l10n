@@ -182,10 +182,24 @@ page-action-send-tabs-urlbar =
             [few] Pošlji { $tabCount } zavihke na napravo
            *[other] Pošlji { $tabCount } zavihkov na napravo
         }
+page-action-pocket-panel =
+    .label = Shrani stran v { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Kopiraj povezavo
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopiraj povezavo
 page-action-email-link-panel =
     .label = Pošlji povezavo po e-pošti …
 page-action-email-link-urlbar =
     .tooltiptext = Pošlji povezavo po e-pošti …
+page-action-share-url-panel =
+    .label = Deli
+page-action-share-url-urlbar =
+    .tooltiptext = Deli
+page-action-share-more-panel =
+    .label = Več …
+page-action-send-tab-not-ready =
+    .label = Sinhroniziranje naprav ...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
