@@ -162,6 +162,39 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Xina extensión
 
+## Page Action menu
+
+page-action-pocket-panel =
+    .label = Chuva´a página nuu { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Tɨɨn enlacae
+page-action-copy-url-urlbar =
+    .tooltiptext = Tɨɨn enlacae
+page-action-email-link-panel =
+    .label = Chu´un íchi enlace...
+page-action-email-link-urlbar =
+    .tooltiptext = Chu´un íchi enlace...
+page-action-share-url-panel =
+    .label = Kua´a
+page-action-share-url-urlbar =
+    .tooltiptext = Kua´a
+page-action-share-more-panel =
+    .label = Kue'eka…
+page-action-send-tab-not-ready =
+    .label = Sincronizado da ka̱a̱…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Chiso sukua
+page-action-pin-tab-urlbar =
+    .tooltiptext = Chiso sukua
+page-action-unpin-tab-panel =
+    .label = Xita sukua
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Xita sukua
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
