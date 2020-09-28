@@ -568,6 +568,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Nastajenja za druge naraźenja adresowego póla změniś
 search-suggestions-cant-show = Pytańske naraźenja njebudu se we wuslědkach adresowego póla pokazaś, dokulaž sćo { -brand-short-name } tak konfigurěrował, až njespomnjejo se nigda historiju.
 search-one-click-header = Pytnice z jadnym kliknjenim
+search-one-click-header2 = Pytańske skrotconki
 search-one-click-desc = Wubjeŕśo alternatiwne pytnice, kótarež se pód adresowym pólom a pytańskim pólom pokazuju, gaž klucowe słowo zapódawaśo.
 search-choose-engine-column =
     .label = Pytnica
