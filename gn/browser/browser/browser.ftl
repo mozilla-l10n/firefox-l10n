@@ -164,6 +164,10 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Link Mbohasarã
+page-action-copy-url-urlbar =
+    .tooltiptext = Link Mbohasarã
 page-action-email-link-panel =
     .label = Joajuha mondo…
 page-action-email-link-urlbar =
