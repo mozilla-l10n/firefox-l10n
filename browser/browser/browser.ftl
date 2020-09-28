@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Wótkaz e-mailowaś…
+page-action-email-link-urlbar =
+    .tooltiptext = Wótkaz e-mailowaś…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
