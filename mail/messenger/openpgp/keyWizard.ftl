@@ -23,6 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP Anahtarı Oluştur
+openpgp-keygen-expiry-title = Anahtar süre sonu
 radio-keygen-no-expiry =
     .label = Anahtarın süresi dolmasın
     .accesskey = d
@@ -56,12 +57,16 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Kapat
     .accesskey = K
+openpgp-keygen-missing-username = Mevcut hesap için bir ad belirtilmedi. Lütfen hesap ayarlarında "Adınız" alanına bir değer girin.
 openpgp-keygen-long-expiry = Süresi 100 yıldan fazla olan bir anahtar oluşturamazsınız.
 openpgp-keygen-short-expiry = Anahtarınız en az bir gün geçerli olmalıdır.
 openpgp-keygen-ongoing = Anahtar üretimi devam ediyor!
+openpgp-keygen-error-core = OpenPGP Temel Hizmeti başlatılamadı
 openpgp-keygen-error-failed = OpenPGP anahtar üretimi beklenmedik bir şekilde başarısız oldu
 openpgp-keygen-abort-title = Anahtar üretimi iptal edilsin mi?
 openpgp-keygen-abort = OpenPGP anahtar üretimi şu anda devam ediyor. İptal etmek istediğinizden emin misiniz?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = { $identity } için ortak ve gizli anahtar oluşturulsun mu?
 
 ## Import Key section
 
@@ -98,5 +103,6 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = Harici GnuPG anahtarı
 openpgp-save-external-button = Anahtar kimliğini kaydet
+openpgp-external-key-label = Gizli anahtar kimliği:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
