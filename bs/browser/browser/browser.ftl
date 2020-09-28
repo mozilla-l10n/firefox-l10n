@@ -151,6 +151,10 @@ page-action-email-link-panel =
     .label = Pošalji link emailom…
 page-action-email-link-urlbar =
     .tooltiptext = Pošalji link emailom…
+page-action-share-url-panel =
+    .label = Podijeli
+page-action-share-url-urlbar =
+    .tooltiptext = Podijeli
 page-action-send-tab-not-ready =
     .label = Sinhronizujem uređaje…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
