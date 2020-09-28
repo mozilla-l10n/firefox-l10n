@@ -33,11 +33,19 @@ urlbar-translated-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 
 ## Page Action Context Menu
 
+
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = óre zótaka...
+page-action-email-link-urlbar =
+    .tooltiptext = óre zótaka...
 
 ## Auto-hide Context Menu
 
@@ -48,7 +56,6 @@ urlbar-translated-notification-anchor =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Jenóyena jɨaɨena jóne
-
 search-one-offs-context-open-new-tab =
     .label = Kómue úitɨraɨ jéno
     .accesskey = ú
@@ -59,6 +66,7 @@ search-one-offs-context-open-new-tab =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -98,10 +106,10 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Jéno íe kúeno bíe íyano
-
 urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
-
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
+
+## Full Screen and Pointer Lock UI
 
