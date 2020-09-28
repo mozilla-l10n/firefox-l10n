@@ -162,6 +162,11 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Eliminar extensión
 
+## Page Action menu
+
+page-action-send-tab-not-ready =
+    .label = Sincronizando dispositivos…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
