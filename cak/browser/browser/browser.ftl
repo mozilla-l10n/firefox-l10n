@@ -164,10 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Tiwachib'ëx Ximonel
+page-action-copy-url-urlbar =
+    .tooltiptext = Tiwachib'ëx Ximonel
 page-action-email-link-panel =
     .label = Titaq ximonel tzij…
 page-action-email-link-urlbar =
     .tooltiptext = Titaq ximonel tzij…
+page-action-share-url-panel =
+    .label = Tikomonïx
+page-action-share-url-urlbar =
+    .tooltiptext = Tikomonïx
+page-action-share-more-panel =
+    .label = Ch'aqa' chik…
 page-action-send-tab-not-ready =
     .label = Tajin yexim ri taq Okisaxel…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
