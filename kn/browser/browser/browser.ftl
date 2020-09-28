@@ -143,6 +143,8 @@ page-action-share-url-urlbar =
     .tooltiptext = ಹಂಚು
 page-action-share-more-panel =
     .label = ಇನ್ನಷ್ಟು…
+page-action-send-tab-not-ready =
+    .label = ಸಾಧನಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
