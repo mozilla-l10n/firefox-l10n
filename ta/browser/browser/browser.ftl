@@ -139,6 +139,13 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = முகவரி பட்டையிலிருந்து நீக்கு
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = மின்னஞ்சல் இணைப்பு ...
+page-action-email-link-urlbar =
+    .tooltiptext = மின்னஞ்சல் இணைப்பு ...
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
