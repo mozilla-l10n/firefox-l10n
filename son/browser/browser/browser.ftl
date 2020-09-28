@@ -117,6 +117,13 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 
+## Page Action menu
+
+page-action-unpin-tab-panel =
+    .label = Nor loku bukandi
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Nor loku bukandi
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
