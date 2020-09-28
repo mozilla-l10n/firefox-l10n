@@ -164,10 +164,16 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Kopioi linkki
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopioi linkki
 page-action-email-link-panel =
     .label = Lähetä linkki…
 page-action-email-link-urlbar =
     .tooltiptext = Lähetä linkki…
+page-action-send-tab-not-ready =
+    .label = Synkronoidaan laitteita…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
