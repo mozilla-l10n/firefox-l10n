@@ -161,6 +161,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = పొడగింతను తొలగించు
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = లింకును ఈమెయిలు చేయి…
+page-action-email-link-urlbar =
+    .tooltiptext = లింకును ఈమెయిలు చేయి…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
