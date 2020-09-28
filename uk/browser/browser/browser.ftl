@@ -164,10 +164,16 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Копіювати посилання
+page-action-copy-url-urlbar =
+    .tooltiptext = Копіювати посилання
 page-action-email-link-panel =
     .label = Переслати посилання…
 page-action-email-link-urlbar =
     .tooltiptext = Переслати посилання…
+page-action-send-tab-not-ready =
+    .label = Синхронізовані пристрої…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
