@@ -89,6 +89,25 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Email Link…
+page-action-email-link-urlbar =
+    .tooltiptext = Email Link…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Pin Tab
+page-action-pin-tab-urlbar =
+    .tooltiptext = Pin Tab
+page-action-unpin-tab-panel =
+    .label = Unpin Tab
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Unpin Tab
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
