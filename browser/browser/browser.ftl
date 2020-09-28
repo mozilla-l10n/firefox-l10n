@@ -142,6 +142,28 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = Hantar { $tabCount } Tab ke Peranti
+page-action-send-tabs-urlbar =
+    .tooltiptext = Hantar { $tabCount } Tab ke Peranti
+page-action-copy-url-panel =
+    .label = Salin Pautan
+page-action-copy-url-urlbar =
+    .tooltiptext = Salin Pautan
+page-action-email-link-panel =
+    .label = Pautan E-mel…
+page-action-email-link-urlbar =
+    .tooltiptext = Pautan E-mel…
+page-action-share-url-panel =
+    .label = Kongsi
+page-action-share-url-urlbar =
+    .tooltiptext = Kongsi
+page-action-share-more-panel =
+    .label = Selanjutnya…
+page-action-send-tab-not-ready =
+    .label = Sync Peranti…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
@@ -150,6 +172,10 @@ page-action-pin-tab-panel =
     .label = Pin Tab
 page-action-pin-tab-urlbar =
     .tooltiptext = Pin Tab
+page-action-unpin-tab-panel =
+    .label = Buang pin Tab
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Buang pin Tab
 
 ## Auto-hide Context Menu
 
