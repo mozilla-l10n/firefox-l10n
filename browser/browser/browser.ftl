@@ -194,6 +194,8 @@ page-action-share-url-panel =
     .label = Dijeli
 page-action-share-url-urlbar =
     .tooltiptext = Dijeli
+page-action-share-more-panel =
+    .label = Više…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
