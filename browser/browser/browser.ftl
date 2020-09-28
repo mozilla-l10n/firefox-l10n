@@ -164,10 +164,30 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = 傳送 { $tabCount } 個分頁到裝置
+page-action-send-tabs-urlbar =
+    .tooltiptext = 傳送 { $tabCount } 個分頁到裝置
+page-action-pocket-panel =
+    .label = 將頁面儲存至 { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = 複製鏈結
+page-action-copy-url-urlbar =
+    .tooltiptext = 複製鏈結
 page-action-email-link-panel =
     .label = 郵寄鏈結…
 page-action-email-link-urlbar =
     .tooltiptext = 郵寄鏈結…
+page-action-share-url-panel =
+    .label = 分享
+page-action-share-url-urlbar =
+    .tooltiptext = 分享
+page-action-share-more-panel =
+    .label = 更多…
+page-action-send-tab-not-ready =
+    .label = 正在同步裝置…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
