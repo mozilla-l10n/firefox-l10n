@@ -159,10 +159,40 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Cuir { $tabCount } taba gun uidheam
+            [two] Cuir { $tabCount } thaba gun uidheam
+            [few] Cuir { $tabCount } tabaichean gun uidheam
+           *[other] Cuir { $tabCount } taba gun uidheam
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Cuir { $tabCount } taba gun uidheam
+            [two] Cuir { $tabCount } thaba gun uidheam
+            [few] Cuir { $tabCount } tabaichean gun uidheam
+           *[other] Cuir { $tabCount } taba gun uidheam
+        }
+page-action-pocket-panel =
+    .label = Sàbhail an duilleag ann am { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Dèan lethbhreac dhen cheangal
+page-action-copy-url-urlbar =
+    .tooltiptext = Dèan lethbhreac dhen cheangal
 page-action-email-link-panel =
     .label = Cuir an dealbh air a' phost-d…
 page-action-email-link-urlbar =
     .tooltiptext = Cuir an dealbh air a' phost-d…
+page-action-share-url-panel =
+    .label = Co-roinn
+page-action-share-url-urlbar =
+    .tooltiptext = Co-roinn
+page-action-share-more-panel =
+    .label = Barrachd…
 page-action-send-tab-not-ready =
     .label = A’ sioncronachadh nan uidheam...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
