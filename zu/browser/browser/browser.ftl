@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ukuphequlula okuyimfihlo)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ukuphequlula okuyimfihlo)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -60,11 +58,31 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 
 ## Page Action Context Menu
 
+
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Imeyila isixhumanisi…
+page-action-email-link-urlbar =
+    .tooltiptext = Imeyila isixhumanisi…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Phina ithebhu
+page-action-pin-tab-urlbar =
+    .tooltiptext = Phina ithebhu
+page-action-unpin-tab-panel =
+    .label = Khipha ithebhu
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Khipha ithebhu
 
 ## Auto-hide Context Menu
 
@@ -84,6 +102,7 @@ full-screen-exit =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -115,12 +134,12 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Sesha noma faka ikheli
-
 urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
-
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
-
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
+
+## Full Screen and Pointer Lock UI
+
