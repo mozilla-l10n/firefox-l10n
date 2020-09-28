@@ -162,6 +162,15 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Hapus Ekstensi
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = Kirim Tab ke { $tabCount } Peranti
+page-action-send-tabs-urlbar =
+    .tooltiptext = Kirim Tab ke { $tabCount } Peranti
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
