@@ -178,6 +178,8 @@ page-action-send-tabs-urlbar =
             [one] ਟੈਬ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
            *[other] { $tabCount } ਟੈਬਾਂ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
         }
+page-action-pocket-panel =
+    .label = ਸਫ਼ੇ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
 page-action-copy-url-panel =
     .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
 page-action-copy-url-urlbar =
