@@ -152,6 +152,22 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] ટૅબને ઉપકરણમાં મોકલો
+           *[other] { $tabCount } ટૅબ્સને ઉપકરણમાં મોકલો
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ટૅબને ઉપકરણમાં મોકલો
+           *[other] { $tabCount } ટૅબ્સને ઉપકરણમાં મોકલો
+        }
+page-action-pocket-panel =
+    .label = પૃષ્ઠને { -pocket-brand-name } પર સાચવો
 page-action-copy-url-panel =
     .label = કડીની નકલ કરો
 page-action-copy-url-urlbar =
