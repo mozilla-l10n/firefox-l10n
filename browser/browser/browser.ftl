@@ -164,6 +164,28 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Pošalji { $tabCount } karticu na uređaj
+            [few] Pošalji { $tabCount } kartice na uređaj
+           *[other] Pošalji { $tabCount } kartica na uređaj
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Pošalji { $tabCount } karticu na uređaj
+            [few] Pošalji { $tabCount } kartice na uređaj
+           *[other] Pošalji { $tabCount } kartica na uređaj
+        }
+page-action-pocket-panel =
+    .label = Spremi stranicu u { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Kopiraj poveznicu
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopiraj poveznicu
 page-action-email-link-panel =
     .label = Pošalji poveznicu e-poštom…
 page-action-email-link-urlbar =
