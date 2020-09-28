@@ -119,6 +119,10 @@ urlbar-star-add-bookmark =
 
 ## Page Action menu
 
+page-action-email-link-panel =
+    .label = Bataga dobu…
+page-action-email-link-urlbar =
+    .tooltiptext = Bataga dobu…
 page-action-unpin-tab-panel =
     .label = Nor loku bukandi
 page-action-unpin-tab-urlbar =
