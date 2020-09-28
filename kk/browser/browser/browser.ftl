@@ -162,6 +162,17 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Кеңейтуді өшіру
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Сілтемені эл. поштамен жіберу…
+page-action-email-link-urlbar =
+    .tooltiptext = Сілтемені эл. поштамен жіберу…
+page-action-unpin-tab-panel =
+    .label = Бетті босату
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Бетті босату
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
