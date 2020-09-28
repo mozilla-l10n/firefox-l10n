@@ -164,6 +164,12 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-email-link-panel =
+    .label = Titaq ximonel tzij…
+page-action-email-link-urlbar =
+    .tooltiptext = Titaq ximonel tzij…
+page-action-send-tab-not-ready =
+    .label = Tajin yexim ri taq Okisaxel…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
