@@ -164,10 +164,30 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Enviar lapela ao dispositivo
+           *[other] Enviar { $tabCount } lapelas ao dispositivo
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Enviar lapela ao dispositivo
+           *[other] Enviar { $tabCount } lapelas ao dispositivo
+        }
+page-action-pocket-panel =
+    .label = Gardar páxina en { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar ligazón
 page-action-copy-url-urlbar =
     .tooltiptext = Copiar ligazón
+page-action-email-link-panel =
+    .label = Enviar a ligazón por correo…
+page-action-email-link-urlbar =
+    .tooltiptext = Enviar a ligazón por correo…
 page-action-share-url-panel =
     .label = Compartir
 page-action-share-url-urlbar =
