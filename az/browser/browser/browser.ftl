@@ -152,6 +152,13 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Ünvan sətrindən sil
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Keçidi e-poçt ilə göndər…
+page-action-email-link-urlbar =
+    .tooltiptext = Keçidi e-poçt ilə göndər…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
