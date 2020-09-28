@@ -164,6 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Sekmeyi cihaza gönder
+           *[other] { $tabCount } sekmeyi cihaza gönder
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Sekmeyi cihaza gönder
+           *[other] { $tabCount } sekmeyi cihaza gönder
+        }
 page-action-pocket-panel =
     .label = Sayfayı { -pocket-brand-name }’a kaydet
 page-action-copy-url-panel =
