@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Kkes asiɣzef
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Azen s yimayl aseɣwen ɣeṛ usebter…
+page-action-email-link-urlbar =
+    .tooltiptext = Azen s yimayl aseɣwen ɣeṛ usebter…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
