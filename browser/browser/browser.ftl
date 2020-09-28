@@ -133,6 +133,18 @@ page-action-email-link-panel =
     .label = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…
 page-action-email-link-urlbar =
     .tooltiptext = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Pin ಹಾಳೆ
+page-action-pin-tab-urlbar =
+    .tooltiptext = Pin ಹಾಳೆ
+page-action-unpin-tab-panel =
+    .label = Tab ಅನ್ನು ಮುಕ್ತಗೊಳಿಸು
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Tab ಅನ್ನು ಮುಕ್ತಗೊಳಿಸು
 
 ## Auto-hide Context Menu
 
