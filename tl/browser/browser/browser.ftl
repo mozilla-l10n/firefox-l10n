@@ -164,6 +164,8 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = I-save ang Page sa { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopyahin ang Link
 page-action-copy-url-urlbar =
