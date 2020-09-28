@@ -5,33 +5,24 @@
 addons-window =
     .title = Regiyrowanie rozszyrzyniami
 addons-page-title = Regiyrowanie rozszyrzyniami
-
 search-header =
     .placeholder = Szukej na addons.mozilla.org
     .searchbuttonlabel = Szukej
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Niy mosz zainstalowanych żodnych rozszyrzyń tego typu
-
 list-empty-available-updates =
     .value = Żodne aktualizacyje niy sōm znodniynte
-
 list-empty-recent-updates =
     .value = Żodne rozszyrzynia niy były niydowno aktualizowane
-
 list-empty-find-updates =
     .label = Badnij za aktualizacyjami
-
 list-empty-button =
     .label = Przewiydz sie wiyncyj ô rozszyrzyniach
-
 help-button = Spōmōżka do rozszyrzyń
 sidebar-help-button-title =
     .title = Spōmōżka do rozszyrzyń
-
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } - Ôpcyje
@@ -43,21 +34,16 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } - Ôpcyje
            *[other] { -brand-short-name } - Preferyncyje
         }
-
 show-unsigned-extensions-button =
     .label = Niykerych rozszyrzyń niy szło zweryfikować
-
 show-all-extensions-button =
     .label = Pokoż wszyskie rozszyrzynia
-
 cmd-show-details =
     .label = Pokoż wiyncyj informacyji
     .accesskey = P
-
 cmd-find-updates =
     .label = Znodź aktualizacyje
     .accesskey = Z
-
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -69,88 +55,65 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
-
 cmd-enable-theme =
     .label = Użyj motywu
     .accesskey = U
-
 cmd-disable-theme =
     .label = Przestōń używać motywu
     .accesskey = U
-
 cmd-install-addon =
     .label = Instaluj
     .accesskey = I
-
 cmd-contribute =
     .label = Spōmōż
     .accesskey = S
     .tooltiptext = Spōmōż robota nad tym rozszyrzyniym
-
 detail-version =
     .label = Wersyjo
-
 detail-last-updated =
     .label = Ôstatnio aktualizowane
-
 detail-contributions-description = Wydowca tego rozszyrzynio pyto, jeźli spōmożesz jego robota małym płatym.
-
 detail-contributions-button = Spōmōż
     .title = Spōmōż robota nad tym rozszyrzyniym
     .accesskey = S
-
 detail-update-type =
     .value = Autōmatyczne aktualizacyje
-
 detail-update-default =
     .label = Bazowe
     .tooltiptext = Autōmatycznie instaluj aktualizacyje, ino jak tak je bazowo nasztalowane
-
 detail-update-automatic =
     .label = Załōnczōne
     .tooltiptext = Autōmatycznie instaluj aktualizacyje
-
 detail-update-manual =
     .label = Wyłōnczōne
     .tooltiptext = Niy aktualizuj autōmatycznie rozszyrzyń
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Przizwōl fungować w prywatnych ôknach
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Niy przizwolōne w prywatnych ôknach
 detail-private-disallowed-description2 = Te rozszyrzynie niy funguje bez czas prywatnego przeglōndanio. <a data-l10n-name="learn-more">Przewiydz sie wiyncyj</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Potrzebuje dostympu do prywatnych ôkiyn
 detail-private-required-description2 = Te rozszyrzynie mo dostymp do twojij aktywności w internecie bez czas prywatnego przeglōndanio. <a data-l10n-name="learn-more">Przewiydz sie wiyncyj</a>
-
 detail-private-browsing-on =
     .label = Przizwōl
     .tooltiptext = Załōncz bez czas prywatnego przeglōndanio
-
 detail-private-browsing-off =
     .label = Niy zwolej
     .tooltiptext = Wyłōncz bez czas prywatnego przeglōndanio
-
 detail-home =
     .label = Dōmowo strōna
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profil rozszyrzynio
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Badnij za aktualizacyjami
     .accesskey = B
     .tooltiptext = Badnij za aktualizacyjami do tego rozszyrzynia
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -167,35 +130,23 @@ detail-show-preferences =
             [windows] Zmiyń ôpcyje tego rozszyrzynia
            *[other] Zmiyń preferyncyje tego rozszyrzynia
         }
-
 detail-rating =
     .value = Ôcyna
-
 addon-restart-now =
     .label = Resztartnij teroz
-
 disabled-unsigned-heading =
     .value = Niykere rozszyrzynia sōm zastawiōne
-
 disabled-unsigned-description = Te rozszyrzynia niy były weryfikowane do używanio w aplikacyji { -brand-short-name }. Idzie <label data-l10n-name="find-addons">znojś jaki erzac</label> abo dać znać wydowcy, coby je zweryfikowoł.
-
 disabled-unsigned-learn-more = Przewiydz sie wiyncyj, jak starōmy sie ô twoje bezpieczyństwo w necu.
-
 disabled-unsigned-devinfo = Wydowcy, co chcōm mieć sweryfikowane swoje rozszyrzynia, mogōm poczytać nasza <label data-l10n-name="learn-more">insztrukcyjo</label>.
-
 plugin-deprecation-description = Czegoś sam chybio? Niykere rozszyrzynia już niy sōm ôbsugowane ôd aplikacyje { -brand-short-name }. <label data-l10n-name="learn-more">Przewiydz sie wiyncyj.</label>
-
 legacy-warning-show-legacy = Pokoż przedowniōne rozszyrzynia
-
 legacy-extensions =
     .value = Przedowniōne rozszyrzynia
-
 legacy-extensions-description = Te rozszyrzynia niy trzimały aktualnych sztandardōw aplikacyje { -brand-short-name }, tōż my je zastawiyli. <label data-l10n-name="legacy-learn-more">Przewiydz sie wiyncyj ô zmianach w rozszyrzyniach</label>
-
 private-browsing-description2 =
     { -brand-short-name } zmiynio to, jak rozszyrzynia fugujōm bez czas prywatnego przeglōndanio. Żodne nowe rozszyrzynie, kere przidosz do aplikacyje { -brand-short-name }, bazowo niy bydzie fungować w prywatnych ôknach. Podwiela na to niy przizwolisz we sztalōnkach, rozszyrzynie niy bydzie fungować bez czas prywatnego przeglōndanio, ani niy bydzie mieć dostympu do twojij aktywności w necu. Zmiyniylimy to, coby prywatne przeglōndanie durch było prywatne.
     <label data-l10n-name="private-browsing-learn-more">Przewiydz sie, jak regiyrować sztalōnkami rozszyrzyń</label>
-
 addon-category-discover = Rykōmyndowane
 addon-category-discover-title =
     .title = Rykōmyndowane
@@ -230,7 +181,6 @@ extensions-warning-check-compatibility-button = Załōncz
 extensions-warning-update-security = Badanie bezpieczyństwa aktualizacyji rozszyrzyń je zastawiōne. Aplikacyjo może być napadniynto z pōmocōm aktualizacyji.
 extensions-warning-update-security-button = Załōncz
     .title = Załōncz badanie bezpieczyństwa aktualizacyje rozszyrzyń
-
 
 ## Strings connected to add-on updates
 
@@ -277,44 +227,35 @@ addon-open-about-debugging = Debuguj rozszyrzynia
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Regiyruj skrōtami do rozszyrzyń
     .accesskey = R
-
 shortcuts-no-addons = Niy mosz załōnczōnych żodnych rozszyrzyń.
 shortcuts-no-commands = Te rozszyrzynia niy majōm skrōtōw:
 shortcuts-input =
     .placeholder = Wkludź skrōt
-
 shortcuts-browserAction2 = Aktywuj knefel na posku z noczyniami
 shortcuts-pageAction = Aktywuj akcyjo strōny
 shortcuts-sidebarAction = Przełōncz posek na rancie
-
 shortcuts-modifier-mac = Przizwōl na Ctrl, Alt, abo ⌘
 shortcuts-modifier-other = Przizwōl na Ctrl abo Alt
 shortcuts-invalid = Felerno kōmbinacyjo knefli
 shortcuts-letter = Wkludź litera
 shortcuts-system = Niy idzie nadpisać skrōtu z aplikacyje { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Stuplowany skrōt
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } je używane za skrōt wiyncyj jak w jednym przipadku. Skuli stuplowanych skrōtōw mogōm sie pokozać felery fungowanio.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Już je używany ôd rozszyrzynio { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Pokoż { $numberToShow } wiyncyj
         [few] Pokoż { $numberToShow } wiyncyj
        *[many] Pokoż { $numberToShow } wiyncyj
     }
-
 shortcuts-card-collapse-button = Pokoż mynij
-
 header-back-button =
     .title = Nazod
 
@@ -329,13 +270,10 @@ discopane-intro =
     czynsto rychtowane ôd inkszych firmōw. Sam mosz ôbiōr rozszyrzyń
     <a data-l10n-name="learn-more-trigger">rykōmyndowanych</a> ôd aplikacyje { -brand-product-name }
     za niyôbyczajne bezpieczyństwo, sprowność i funkcjōnalność.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Niykere z tych rykōmyndacyji sōm spersōnalizowane. Bazujōm na inkszych rozszyrzyniach, co mosz zainstalowane, preferyncyjach profilōw i statystykach używanio.
 discopane-notice-learn-more = Przewiydz sie wiyncyj
-
 privacy-policy = Polityka prywatności
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -350,7 +288,6 @@ install-theme-button = Instaluj motyw
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Regiyruj
 find-more-addons = Znojdź wiyncyj rozszyrzyń
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -376,43 +313,34 @@ preferences-addon-button =
 details-addon-button = Informacyje…
 release-notes-addon-button = Informacyje ô wydaniu:
 permissions-addon-button = Zgody
-
 extension-enabled-heading = Załōnczōne
 extension-disabled-heading = Zastawiōne
-
 theme-enabled-heading = Załōnczōne
 theme-disabled-heading = Zastawiōne
-
 plugin-enabled-heading = Załōnczōne
 plugin-disabled-heading = Zastawiōne
-
 dictionary-enabled-heading = Załōnczōne
 dictionary-disabled-heading = Zastawiōne
-
 locale-enabled-heading = Załōnczōne
 locale-disabled-heading = Zastawiōne
-
 ask-to-activate-button = Pytej sie, jeźli idzie aktywować
 always-activate-button = Zawdy aktywuj
 never-activate-button = Żodyn roz niy aktywuj
-
 addon-detail-author-label = Autōr
 addon-detail-version-label = Wersyjo
 addon-detail-last-updated-label = Ôstatnio aktualizowane
 addon-detail-homepage-label = Dōmowo strōna
 addon-detail-rating-label = Ôcyna
-
+install-postponed-button = Aktualizuj teroz
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Ôcyna: { NUMBER($rating, maximumFractionDigits: 1) } ze 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (zastawiōne)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -429,14 +357,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Rozszyrzynie <span data-l10n-name="addon-name">{ $addon }</span> je wyciepniynte.
 pending-uninstall-undo-button = Cofnij
-
 addon-detail-updates-label = Przizwōl na autōmatyczne aktualizacyje
 addon-detail-updates-radio-default = Bazowe sztalōnki
 addon-detail-updates-radio-on = Załōnczōne
 addon-detail-updates-radio-off = Wyłōnczōne
 addon-detail-update-check-label = Badnij za aktualizacyjami
 install-update-button = Aktualizuj
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -446,23 +372,28 @@ addon-detail-private-browsing-help = Jak dosz zgoda, to rozszyrzynie bydzie mie�
 addon-detail-private-browsing-allow = Przizwōl
 addon-detail-private-browsing-disallow = Niy zwolej
 
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Te rozszyrzynie je zrychtowane ôd twōrcōw aplikacyje { -brand-product-name }
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Te rozszyrzynie mo kod zbadany do wiynkszego bezpieczyństwa
+    .aria-label = { addon-badge-verified.title }
+
+##
 
 available-updates-heading = Dostympne aktualizacyje
 recent-updates-heading = Ôstatnie aktualizacyje
-
 release-notes-loading = Ladowanie…
 release-notes-error = Przi ladowaniu informacyji ô wydaniu pokozoł sie feler.
-
 addon-permissions-empty = Te rozszyrzynie niy potrzebuje żodnyj zgody
-
 recommended-extensions-heading = Rykōmyndowane rozszyrzynia
 recommended-themes-heading = Rykōmyndowane motywy
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Mosz grajfka do tworzynio? <a data-l10n-name="link">Zrychtuj swōj włosny motyw z Firefox Color.</a>
@@ -477,10 +408,8 @@ locale-heading = Regiyruj godkami
 updates-heading = Regiyruj aktualizacyjami
 discover-heading = Nastow se aplikacyjo { -brand-short-name }
 shortcuts-heading = Regiyruj skrōtami do rozszyrzyń
-
 default-heading-search-label = Znojdź wiyncyj rozszyrzyń
 addons-heading-search-input =
     .placeholder = Szukej na addons.mozilla.org
-
 addon-page-options-button =
     .title = Noczynia do wszyskich rozszyrzyń

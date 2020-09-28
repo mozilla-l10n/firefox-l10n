@@ -566,6 +566,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Zmiyń preferyncyje doradōw we posku adresy
 search-suggestions-cant-show = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
 search-one-click-header = Wyszukowarki z jednym klikniyńciym
+search-one-click-header2 = Skrōty szukanio
 search-one-click-desc = Ôbier alternatywne wyszukowarki pokazowane pod poskiym z adresōm i poskiym szukanio, jak zaczynosz wkludzać kluczowe słowo.
 search-choose-engine-column =
     .label = Wyszukowarka
