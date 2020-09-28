@@ -162,6 +162,17 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Usuń rozszerzenie
 
+## Page Action menu
+
+page-action-share-url-panel =
+    .label = Udostępnij
+page-action-share-url-urlbar =
+    .tooltiptext = Udostępnij
+page-action-share-more-panel =
+    .label = Więcej…
+page-action-send-tab-not-ready =
+    .label = Synchronizowanie urządzeń…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
