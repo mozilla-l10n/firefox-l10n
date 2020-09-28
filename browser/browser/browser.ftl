@@ -162,6 +162,27 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = एक्सटेंशन हटाएं
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = कड़ी ईमेल करें…
+page-action-email-link-urlbar =
+    .tooltiptext = कड़ी ईमेल करें…
+page-action-send-tab-not-ready =
+    .label = उपकरण सिंक हो रहा है…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = टैब पिन करें
+page-action-pin-tab-urlbar =
+    .tooltiptext = टैब पिन करें
+page-action-unpin-tab-panel =
+    .label = टैब का पिन निकालें
+page-action-unpin-tab-urlbar =
+    .tooltiptext = टैब का पिन निकालें
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
