@@ -164,6 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Tab an Gerät senden
+           *[other] { $tabCount } Tabs an Gerät senden
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Tab an Gerät senden
+           *[other] { $tabCount } Tabs an Gerät senden
+        }
 page-action-pocket-panel =
     .label = Seite in { -pocket-brand-name } speichern
 page-action-copy-url-panel =
