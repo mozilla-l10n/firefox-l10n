@@ -67,6 +67,10 @@ browser-main-window-title = { -brand-full-name }
 
 ## Page Action menu
 
+page-action-email-link-panel =
+    .label = Buumu imeel…
+page-action-email-link-urlbar =
+    .tooltiptext = Buumu imeel…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
