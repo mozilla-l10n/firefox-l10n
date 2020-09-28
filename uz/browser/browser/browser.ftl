@@ -159,10 +159,50 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Varaqni qurilmaga joʻnatish
+           *[other] { $tabCount } ta varaqni qurilmaga joʻnatish
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Varaqni qurilmaga joʻnatish
+           *[other] { $tabCount } ta varaqni qurilmaga joʻnatish
+        }
+page-action-pocket-panel =
+    .label = Sahifani { -pocket-brand-name } xizmatiga saqlash
 page-action-copy-url-panel =
     .label = Havoladan nusxa olish
 page-action-copy-url-urlbar =
     .tooltiptext = Havoladan nusxa olish
+page-action-email-link-panel =
+    .label = Havolani emaildan joʻnatish
+page-action-email-link-urlbar =
+    .tooltiptext = Havolani emaildan joʻnatish
+page-action-share-url-panel =
+    .label = Bo‘lishish
+page-action-share-url-urlbar =
+    .tooltiptext = Bo‘lishish
+page-action-share-more-panel =
+    .label = Yana…
+page-action-send-tab-not-ready =
+    .label = Qurilmalar sinxronlanmoqda…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Varaqni qistirish
+page-action-pin-tab-urlbar =
+    .tooltiptext = Varaqni qistirish
+page-action-unpin-tab-panel =
+    .label = Qistirilgan varaqni olib tashlash
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Qistirilgan varaqni olib tashlash
 
 ## Auto-hide Context Menu
 
