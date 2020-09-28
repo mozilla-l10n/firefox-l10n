@@ -564,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Змінити налаштування для інших пропозицій панелі адреси
 search-suggestions-cant-show = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
 search-one-click-header = Засоби пошуку в один клік
+search-one-click-header2 = Пошукові скорочення
 search-one-click-desc = Оберіть альтернативні пошукові засоби, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити запит.
 search-choose-engine-column =
     .label = Засіб пошуку
