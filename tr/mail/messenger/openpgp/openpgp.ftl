@@ -86,8 +86,13 @@ openpgp-key-copy-key =
 openpgp-key-send-key =
     .label = Ortak anahtarı e-postayla gönder
     .accesskey = ö
+openpgp-key-man-ctx-copy-to-clipbrd-label =
+    .label = Ortak anahtarları panoya kopyala
 openpgp-key-man-close =
     .label = Kapat
+openpgp-key-man-reload =
+    .label = Anahtar önbelleğini yeniden yükle
+    .accesskey = ö
 openpgp-key-man-del-key =
     .label = Anahtar(lar)ı sil
     .accesskey = S
@@ -106,6 +111,9 @@ openpgp-key-man-key-more =
 openpgp-key-man-view-photo =
     .label = Fotoğraflı kimlik
     .accesskey = F
+openpgp-key-man-show-invalid-keys =
+    .label = Geçersiz anahtarları göster
+    .accesskey = g
 openpgp-key-man-user-id-label =
     .label = Adı
 openpgp-key-man-fingerprint-label =
@@ -175,24 +183,39 @@ openpgp-keygen-external-success = Harici GnuPG anahtar kimliği kaydedildi!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none-desc = Bu kimlik için OpenPGP kullanma.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Son geçerlilik tarihi: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Anahtarın süresi 6 aydan kısa bir süre içinde dolacak
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Son geçerlilik tarihi: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Anahtarın süresi doldu
 openpgp-key-expand-section =
     .tooltiptext = Daha fazla bilgi
+openpgp-key-revoke-title = Anahtarı iptal et
+openpgp-key-edit-title = OpenPGP anahtarını değiştir
+openpgp-key-edit-date-title = Geçerlilik tarihini uzat
 openpgp-manager-button =
     .label = OpenPGP Anahtar Yöneticisi
     .accesskey = Y
 key-external-label = Harici GnuPG anahtarı
+# Strings in keyDetailsDlg.xhtml
+key-type-public = ortak anahtar
 key-type-subkey = alt anahtar
+key-type-pair = anahtar çifti (gizli anahtar ve ortak anahtar)
 key-expiry-never = hiçbir zaman
 key-usage-encrypt = Şifrele
 key-usage-sign = İmzala
+key-revoked-simple = Anahtar iptal edildi
 # Strings in keyserver.jsm
 keyserver-error-aborted = Durduruldu
 keyserver-error-unknown = Bilinmeyen bir hata oluştu
 keyserver-error-server-error = Anahtar sunucusu bir hata bildirdi.
 keyserver-error-import-error = İndirilen anahtar içe aktarılamadı.
 keyserver-error-unavailable = Anahtar sunucusu kullanılamıyor.
+keyserver-error-security-error = Anahtar sunucusu şifreli erişimi desteklemiyor.
 keyserver-error-certificate-error = Anahtar sunucusunun sertifikası geçerli değil.
 keyserver-error-unsupported = Anahtar sunucusu desteklenmiyor.
 expiry-open-key-manager = OpenPGP anahtar yöneticisini aç

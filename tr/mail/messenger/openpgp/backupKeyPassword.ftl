@@ -4,7 +4,10 @@
 
 set-password-window =
     .title = OpenPGP anahtarınızı yedeklemek için bir parola seçin
-
 set-password-legend = Bir parola seçin
-
+set-password-backup-pw =
+    .value = Gizli anahtar yedekleme parolası:
+set-password-repeat-backup-pw =
+    .value = Gizli anahtar yedekleme parolası (tekrar):
+set-password-reminder = <b>Önemli!</b> Gizli anahtar yedekleme parolanızı unutursanız bu yedeği geri yükleyemezsiniz. Lütfen parolayı güvenli bir yere kaydedin.
 password-quality-meter = Parola kalite ölçümü
