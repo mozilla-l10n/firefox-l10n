@@ -164,6 +164,30 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [zero] Anfon Tab i Ddyfais
+            [one] Anfon { $tabCount } Tab i Ddyfais
+            [two] Anfon { $tabCount } Dab i Ddyfais
+            [few] Anfon { $tabCount } Thab i Ddyfais
+            [many] Anfon { $tabCount } Tab i Ddyfais
+           *[other] Anfon { $tabCount } Thab i Ddyfais
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [zero] Anfon Tab i Ddyfais
+            [one] Anfon { $tabCount } Tab i Ddyfais
+            [two] Anfon { $tabCount } Dab i Ddyfais
+            [few] Anfon { $tabCount } Thab i Ddyfais
+            [many] Anfon { $tabCount } Tab i Ddyfais
+           *[other] Anfon { $tabCount } Thab i Ddyfais
+        }
+page-action-pocket-panel =
+    .label = Cadw Tudalen i { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copïo'r Ddolen
 page-action-copy-url-urlbar =
@@ -172,6 +196,12 @@ page-action-email-link-panel =
     .label = E-bostio'r Ddolen…
 page-action-email-link-urlbar =
     .tooltiptext = E-bostio'r Ddolen…
+page-action-share-url-panel =
+    .label = Rhannu
+page-action-share-url-urlbar =
+    .tooltiptext = Rhannu
+page-action-share-more-panel =
+    .label = Rhagor…
 page-action-send-tab-not-ready =
     .label = Cydweddu Dyfeisiau…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
