@@ -141,10 +141,18 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = தொடுப்பை நகலெடுக்கவும்
+page-action-copy-url-urlbar =
+    .tooltiptext = தொடுப்பை நகலெடுக்கவும்
 page-action-email-link-panel =
     .label = மின்னஞ்சல் இணைப்பு ...
 page-action-email-link-urlbar =
     .tooltiptext = மின்னஞ்சல் இணைப்பு ...
+page-action-share-url-panel =
+    .label = பகிர்
+page-action-share-url-urlbar =
+    .tooltiptext = பகிர்
 page-action-send-tab-not-ready =
     .label = சாதனங்களை ஒத்திசைக்கிறது...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
