@@ -119,6 +119,18 @@ page-action-email-link-panel =
     .label = E-pos skakel…
 page-action-email-link-urlbar =
     .tooltiptext = E-pos skakel…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Sluit oortjie vas
+page-action-pin-tab-urlbar =
+    .tooltiptext = Sluit oortjie vas
+page-action-unpin-tab-panel =
+    .label = Trek oortjie los
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Trek oortjie los
 
 ## Auto-hide Context Menu
 
