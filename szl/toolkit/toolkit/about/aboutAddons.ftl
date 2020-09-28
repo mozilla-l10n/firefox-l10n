@@ -331,6 +331,8 @@ addon-detail-version-label = Wersyjo
 addon-detail-last-updated-label = Ôstatnio aktualizowane
 addon-detail-homepage-label = Dōmowo strōna
 addon-detail-rating-label = Ôcyna
+# Message for add-ons with a staged pending update.
+install-postponed-message = Te rozszyrzynie bydzie zaktualizowane przi resztarcie aplikacyje { -brand-short-name }.
 install-postponed-button = Aktualizuj teroz
 # The average rating that the add-on has received.
 # Variables:
