@@ -159,6 +159,10 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-email-link-panel =
+    .label = Cuir an dealbh air a' phost-d…
+page-action-email-link-urlbar =
+    .tooltiptext = Cuir an dealbh air a' phost-d…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
