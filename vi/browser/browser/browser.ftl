@@ -164,6 +164,10 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Sao chép liên kết
+page-action-copy-url-urlbar =
+    .tooltiptext = Sao chép liên kết
 page-action-email-link-panel =
     .label = Gửi liên kết qua email…
 page-action-email-link-urlbar =
