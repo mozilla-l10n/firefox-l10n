@@ -164,6 +164,8 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = 페이지를 { -pocket-brand-name }에 저장
 page-action-copy-url-panel =
     .label = 링크 복사
 page-action-copy-url-urlbar =
