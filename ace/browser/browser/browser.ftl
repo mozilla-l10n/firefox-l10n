@@ -71,6 +71,18 @@ page-action-copy-url-panel =
     .label = Salèn Peunawôt
 page-action-copy-url-urlbar =
     .tooltiptext = Salèn Peunawôt
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Peukeumat Tab
+page-action-pin-tab-urlbar =
+    .tooltiptext = Peukeumat Tab
+page-action-unpin-tab-panel =
+    .label = Pinah Tab
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Pinah Tab
 
 ## Auto-hide Context Menu
 
