@@ -186,8 +186,18 @@ page-action-share-url-panel =
     .label = শেয়ার
 page-action-share-url-urlbar =
     .tooltiptext = শেয়ার
+page-action-share-more-panel =
+    .label = আরও...
 page-action-send-tab-not-ready =
     .label = ডিভাইস সিঙ্ক হচ্ছে…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = পিন ট্যাব
+page-action-pin-tab-urlbar =
+    .tooltiptext = পিন ট্যাব
 page-action-unpin-tab-panel =
     .label = ট্যাব আনপিন b
 page-action-unpin-tab-urlbar =
