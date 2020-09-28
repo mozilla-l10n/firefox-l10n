@@ -148,6 +148,10 @@ page-action-email-link-panel =
     .label = লিঙ্ক ইমেইল করুন... E
 page-action-email-link-urlbar =
     .tooltiptext = লিঙ্ক ইমেইল করুন... E
+page-action-unpin-tab-panel =
+    .label = ট্যাব আনপিন b
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ট্যাব আনপিন b
 
 ## Auto-hide Context Menu
 
