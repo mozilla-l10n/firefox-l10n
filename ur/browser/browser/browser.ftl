@@ -164,10 +164,16 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = ربط نقل کریں
+page-action-copy-url-urlbar =
+    .tooltiptext = ربط نقل کریں
 page-action-email-link-panel =
     .label = ای میل ربط…
 page-action-email-link-urlbar =
     .tooltiptext = ای میل ربط…
+page-action-send-tab-not-ready =
+    .label = آلات کی ہمہ وقت سازی کر رہے ہے…
 page-action-unpin-tab-panel =
     .label = ٹیب انپن کریں
 page-action-unpin-tab-urlbar =
