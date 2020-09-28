@@ -560,6 +560,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Diğer adres çubuğu önerileri için tercihleri değiştir
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-header = Tek tıklamalı arama motorları
+search-one-click-header2 = Arama kısayolları
 search-one-click-desc = Anahtar kelimeleri yazmaya başladığınızda adres çubuğunun ve arama çubuğunun altında görünecek alternatif arama motorlarını seçin.
 search-choose-engine-column =
     .label = Arama motoru
