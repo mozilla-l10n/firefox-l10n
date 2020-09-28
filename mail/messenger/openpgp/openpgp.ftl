@@ -247,6 +247,8 @@ openpgp-key-revoke-success = Anahtar başarıyla iptal edildi.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &İçe aktar
 delete-key-title = OpenPGP anahtarını sil
+key-in-use-title = Şu anda kullanılan OpenPGP anahtarı
+file-write-failed = { $output } dosyasına yazılamadı
 # Strings used in trust.jsm
 key-valid-unknown = bilinmiyor
 key-valid-invalid = geçersiz
@@ -258,13 +260,18 @@ key-trust-marginal = marjinal
 key-trust-full = güvenilir
 key-trust-group = (grup)
 gnupg-file = GnuPG dosyaları
+import-keys-failed = Anahtarlar içe aktarılamadı
 key-man-button-generate-key = Anahtar &oluştur
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Hata - şifre çözme başarısız oldu
+signature-verify-failed = { $attachment } ekinin imzası doğrulanamadı
 msg-compose-details-button-label = Ayrıntılar…
 msg-compose-details-button-access-key = n
 key-not-found = '{ $key }' anahtarı bulunamadı
 key-revoked = '{ $key }' anahtarı iptal edildi
 key-expired = '{ $key }' anahtarının süresi doldu
 msg-compose-cannot-save-draft = Taslak kaydedilirken hata oluştu
+save-attachment-header = Şifresi çözülmüş eki kaydet
 sig-mismatch = Hata - İmza uyuşmazlığı
 # Strings used in encryption.jsm
 not-required = Hata - şifreleme gerekmiyor
