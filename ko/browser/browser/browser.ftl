@@ -164,10 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = 링크 복사
+page-action-copy-url-urlbar =
+    .tooltiptext = 링크 복사
 page-action-email-link-panel =
     .label = 메일로 링크 보내기…
 page-action-email-link-urlbar =
     .tooltiptext = 메일로 링크 보내기…
+page-action-share-url-panel =
+    .label = 공유
+page-action-share-url-urlbar =
+    .tooltiptext = 공유
+page-action-share-more-panel =
+    .label = 더보기…
 page-action-send-tab-not-ready =
     .label = 기기를 동기화하고 있습니다…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
