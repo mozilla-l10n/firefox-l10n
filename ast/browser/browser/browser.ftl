@@ -127,6 +127,8 @@ page-action-email-link-panel =
     .label = Unviar enllaz…
 page-action-email-link-urlbar =
     .tooltiptext = Unviar enllaz…
+page-action-share-more-panel =
+    .label = Más…
 page-action-send-tab-not-ready =
     .label = Sincronizando preseos…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
@@ -137,6 +139,10 @@ page-action-pin-tab-panel =
     .label = Fixar llingüeta
 page-action-pin-tab-urlbar =
     .tooltiptext = Fixar llingüeta
+page-action-unpin-tab-panel =
+    .label = Desfixar llingüeta
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Desfixar llingüeta
 
 ## Auto-hide Context Menu
 
