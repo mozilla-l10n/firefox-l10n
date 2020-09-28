@@ -79,6 +79,21 @@ urlbar-microphone-blocked =
 ## Page Action Context Menu
 
 
+## Page Action menu
+
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Apica ischeda
+page-action-pin-tab-urlbar =
+    .tooltiptext = Apica ischeda
+page-action-unpin-tab-panel =
+    .label = Boga s'ischeda
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Boga s'ischeda
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
