@@ -164,10 +164,44 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [zero] لا تُرسل شيئا إلى الجهاز
+            [one] أرسِل اللسان إلى الجهاز
+            [two] أرسِل اللسانين إلى الجهاز
+            [few] أرسِل { $tabCount } ألسنة إلى الجهاز
+            [many] أرسِل { $tabCount } لسانا إلى الجهاز
+           *[other] أرسِل { $tabCount } لسان إلى الجهاز
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [zero] لا تُرسل شيئا إلى الجهاز
+            [one] أرسِل اللسان إلى الجهاز
+            [two] أرسِل اللسانين إلى الجهاز
+            [few] أرسِل { $tabCount } ألسنة إلى الجهاز
+            [many] أرسِل { $tabCount } لسانا إلى الجهاز
+           *[other] أرسِل { $tabCount } لسان إلى الجهاز
+        }
+page-action-pocket-panel =
+    .label = احفظ الصفحة في { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = انسخ الرابط
+page-action-copy-url-urlbar =
+    .tooltiptext = انسخ الرابط
 page-action-email-link-panel =
     .label = أرسل الرابط بالبريد…
 page-action-email-link-urlbar =
     .tooltiptext = أرسل الرابط بالبريد…
+page-action-share-url-panel =
+    .label = شارِك
+page-action-share-url-urlbar =
+    .tooltiptext = شارِك
+page-action-share-more-panel =
+    .label = أكثر…
 page-action-send-tab-not-ready =
     .label = يُزامن الأجهزة…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
