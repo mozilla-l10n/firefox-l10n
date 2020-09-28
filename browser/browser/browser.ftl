@@ -156,6 +156,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = এক্সটেনশন অপসারণ করুন
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = লিঙ্ক ইমেইল করুন... E
+page-action-email-link-urlbar =
+    .tooltiptext = লিঙ্ক ইমেইল করুন... E
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
