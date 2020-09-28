@@ -164,6 +164,10 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = कड़ी नकल करें
+page-action-copy-url-urlbar =
+    .tooltiptext = कड़ी नकल करें
 page-action-email-link-panel =
     .label = कड़ी ईमेल करें…
 page-action-email-link-urlbar =
