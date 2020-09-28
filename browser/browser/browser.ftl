@@ -180,6 +180,10 @@ page-action-send-tabs-urlbar =
         }
 page-action-pocket-panel =
     .label = Guardar página en { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copiar enlace
+page-action-copy-url-urlbar =
+    .tooltiptext = Copiar enlace
 page-action-email-link-panel =
     .label = Enviar enlace…
 page-action-email-link-urlbar =
