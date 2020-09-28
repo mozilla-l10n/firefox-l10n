@@ -162,6 +162,21 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = הסרת הרחבה
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = שליחת קישור בדוא״ל…
+page-action-email-link-urlbar =
+    .tooltiptext = שליחת קישור בדוא״ל…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = נעיצת לשונית
+page-action-pin-tab-urlbar =
+    .tooltiptext = נעיצת לשונית
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
