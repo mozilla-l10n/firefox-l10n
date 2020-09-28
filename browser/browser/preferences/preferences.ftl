@@ -544,6 +544,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = 다른 주소 표시줄 제안에 대한 설정 변경
 search-suggestions-cant-show = 방문 기록을 저장하지 않도록 { -brand-short-name }를 설정했기 때문에 검색 제안이 주소 표시 줄 결과에 표시되지 않습니다.
 search-one-click-header = 원클릭 검색 엔진
+search-one-click-header2 = 검색 단축키
 search-one-click-desc = 키워드 입력을 시작했을 때 주소 표시줄과 검색 표시줄 아래에 나타날 대체 검색 엔진을 선택하세요.
 search-choose-engine-column =
     .label = 검색 엔진
