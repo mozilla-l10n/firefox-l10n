@@ -164,6 +164,8 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = { -pocket-brand-name } میں صفحات محوظ کریں
 page-action-copy-url-panel =
     .label = ربط نقل کریں
 page-action-copy-url-urlbar =
@@ -176,6 +178,8 @@ page-action-share-url-panel =
     .label = شیئر کریں
 page-action-share-url-urlbar =
     .tooltiptext = شیئر کریں
+page-action-share-more-panel =
+    .label = مزید…
 page-action-send-tab-not-ready =
     .label = آلات کی ہمہ وقت سازی کر رہے ہے…
 page-action-unpin-tab-panel =
