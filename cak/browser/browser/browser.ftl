@@ -164,6 +164,22 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Titaq Ruwi' pan Okisab'äl
+           *[other] Ketaq { $tabCount } taq Ruwi' pan Okisab'äl
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Titaq Ruwi' pan Okisab'äl
+           *[other] Ketaq { $tabCount } taq Ruwi' pan Okisab'äl
+        }
+page-action-pocket-panel =
+    .label = Tiyak Ruxaq pa { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Tiwachib'ëx Ximonel
 page-action-copy-url-urlbar =
