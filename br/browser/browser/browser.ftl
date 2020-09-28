@@ -164,10 +164,16 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Eilañ an ere
+page-action-copy-url-urlbar =
+    .tooltiptext = Eilañ an ere
 page-action-email-link-panel =
     .label = Kas an ere dre bostel…
 page-action-email-link-urlbar =
     .tooltiptext = Kas an ere dre bostel…
+page-action-send-tab-not-ready =
+    .label = Trevnadoù o c'houbredañ...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
