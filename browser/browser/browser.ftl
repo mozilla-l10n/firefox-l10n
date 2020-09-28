@@ -129,10 +129,20 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = ಕೊಂಡಿ ನಕಲಿಸು‍
+page-action-copy-url-urlbar =
+    .tooltiptext = ಕೊಂಡಿ ನಕಲಿಸು‍
 page-action-email-link-panel =
     .label = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…
 page-action-email-link-urlbar =
     .tooltiptext = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…
+page-action-share-url-panel =
+    .label = ಹಂಚು
+page-action-share-url-urlbar =
+    .tooltiptext = ಹಂಚು
+page-action-share-more-panel =
+    .label = ಇನ್ನಷ್ಟು…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
