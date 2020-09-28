@@ -164,6 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ਟੈਬ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
+        }
 page-action-copy-url-panel =
     .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
 page-action-copy-url-urlbar =
@@ -176,6 +190,8 @@ page-action-share-url-panel =
     .label = ਸਾਂਝਾ ਕਰੋ
 page-action-share-url-urlbar =
     .tooltiptext = ਸਾਂਝਾ ਕਰੋ
+page-action-share-more-panel =
+    .label = …ਹੋਰ
 page-action-send-tab-not-ready =
     .label = …ਡਿਵਾਈਸ ਸਿੰਕ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
