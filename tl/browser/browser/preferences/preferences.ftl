@@ -560,6 +560,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Baguhin ang mga kagustuhan sa iba pang mga mungkahi sa address bar
 search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 search-one-click-header = Mga One-Click Search Engine
+search-one-click-header2 = Mga Shortcut sa Paghanap
 search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
 search-choose-engine-column =
     .label = Search Engine

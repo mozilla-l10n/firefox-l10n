@@ -74,3 +74,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Nag-
 experimental-features-graphics-desktop-zooming =
     .label = Graphics: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = Mag-enable ng suporta para sa smooth pinch zooming sa mga touchscreen at precision touch pad.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = I-enable ang Warp, isang proyekto para mapaganda ang JavaScript performance at paggamit sa memory.
