@@ -159,6 +159,17 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = حذف افزونه
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = ایمیل کردن پیوند...
+page-action-email-link-urlbar =
+    .tooltiptext = ایمیل کردن پیوند...
+page-action-unpin-tab-panel =
+    .label = کندن زبانه
+page-action-unpin-tab-urlbar =
+    .tooltiptext = کندن زبانه
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
