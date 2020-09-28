@@ -178,6 +178,8 @@ page-action-send-tabs-urlbar =
             [one] Enviar aba para dispositivo
            *[other] Enviar { $tabCount } abas para dispositivo
         }
+page-action-pocket-panel =
+    .label = Salvar página no { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar link
 page-action-copy-url-urlbar =
