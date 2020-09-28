@@ -105,12 +105,34 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = ສຳເນົາທີ່ຢູ່ລິ້ງ
+page-action-copy-url-urlbar =
+    .tooltiptext = ສຳເນົາທີ່ຢູ່ລິ້ງ
 page-action-email-link-panel =
     .label = ລີ້ງຈົດຫມາຍ...
 page-action-email-link-urlbar =
     .tooltiptext = ລີ້ງຈົດຫມາຍ...
+page-action-share-url-panel =
+    .label = ແບ່ງປັນ
+page-action-share-url-urlbar =
+    .tooltiptext = ແບ່ງປັນ
 page-action-share-more-panel =
     .label = ເພີມຕື່ມ…
+page-action-send-tab-not-ready =
+    .label = ກຳລັງ Sync ອຸປະກອນ…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = ປັກຫມຸດແທັບ
+page-action-pin-tab-urlbar =
+    .tooltiptext = ປັກຫມຸດແທັບ
+page-action-unpin-tab-panel =
+    .label = ຖອນຫມຸດແທັບ
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ຖອນຫມຸດແທັບ
 
 ## Auto-hide Context Menu
 
