@@ -178,6 +178,8 @@ page-action-send-tabs-urlbar =
             [one] Emondo tendayke mba’e’okápe
            *[other] { " " }Emondo umi tendayke { $tabCount } mba’e’okápe
         }
+page-action-pocket-panel =
+    .label = Eñongatu kuatiarogue { -pocket-brand-name }-pe
 page-action-copy-url-panel =
     .label = Link Mbohasarã
 page-action-copy-url-urlbar =
@@ -192,6 +194,8 @@ page-action-share-url-urlbar =
     .tooltiptext = Moherakuã
 page-action-share-more-panel =
     .label = Hetave…
+page-action-send-tab-not-ready =
+    .label = Mba’e’oka ñembojuehe…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
