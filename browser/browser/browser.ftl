@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Utwreiding fuortsmite
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Keppeling e-maile…
+page-action-email-link-urlbar =
+    .tooltiptext = Keppeling e-maile…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
