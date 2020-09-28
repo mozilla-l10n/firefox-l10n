@@ -164,6 +164,10 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Kopyahin ang Link
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopyahin ang Link
 page-action-email-link-panel =
     .label = i-Email ang Link…
 page-action-email-link-urlbar =
