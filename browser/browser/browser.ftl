@@ -153,6 +153,28 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Manda feuggio a-o dispoxitivo
+           *[other] Mando { $tabCount } feuggi a-o dispoxitivo
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Manda feuggio a-o dispoxitivo
+           *[other] Mando { $tabCount } feuggi a-o dispoxitivo
+        }
+page-action-pocket-panel =
+    .label = Sarva pagina in { -pocket-brand-name }
+page-action-share-url-panel =
+    .label = Condividdi
+page-action-share-url-urlbar =
+    .tooltiptext = Condividdi
+page-action-share-more-panel =
+    .label = Ciù…
 page-action-send-tab-not-ready =
     .label = Scincronizzo dispoxitivi…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
