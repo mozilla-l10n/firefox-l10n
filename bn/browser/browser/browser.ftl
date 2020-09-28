@@ -170,7 +170,7 @@ page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
             [one] ডিভাইসে ট্যাব পাঠান
-           *[other] { " " }ডিভাইসে { $tabCount } ট্যাব পাঠান
+           *[other] ডিভাইসে { $tabCount } ট্যাব পাঠান
         }
 page-action-pocket-panel =
     .label = { -pocket-brand-name } এ পাতাটি সংরক্ষণ করুন
