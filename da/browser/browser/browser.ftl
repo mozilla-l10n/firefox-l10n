@@ -164,10 +164,50 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Send faneblad til enhed
+           *[other] Send { $tabCount } faneblade til enhed
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Send faneblad til enhed
+           *[other] Send { $tabCount } faneblade til enhed
+        }
+page-action-pocket-panel =
+    .label = Gem side til { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Kopier link
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopier link
 page-action-email-link-panel =
     .label = Send link…
 page-action-email-link-urlbar =
     .tooltiptext = Send link…
+page-action-share-url-panel =
+    .label = Del
+page-action-share-url-urlbar =
+    .tooltiptext = Del
+page-action-share-more-panel =
+    .label = Mere…
+page-action-send-tab-not-ready =
+    .label = Synkroniserer enheder…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fastgør faneblad
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fastgør faneblad
+page-action-unpin-tab-panel =
+    .label = Frigør faneblad
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Frigør faneblad
 
 ## Auto-hide Context Menu
 
