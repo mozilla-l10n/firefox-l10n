@@ -162,6 +162,25 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Borrar extensión
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Ninviar vinclo por correu…
+page-action-email-link-urlbar =
+    .tooltiptext = Ninviar vinclo por correu…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Clavar a pestanya
+page-action-pin-tab-urlbar =
+    .tooltiptext = Clavar a pestanya
+page-action-unpin-tab-panel =
+    .label = Desclavar a pestanya
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Desclavar a pestanya
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
