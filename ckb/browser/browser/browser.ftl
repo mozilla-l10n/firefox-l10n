@@ -145,13 +145,13 @@ page-action-send-tabs-panel =
     .label =
         { $tabCount ->
             [one] بازدەر بنێرە بۆ ئامێر
-           *[other] { " " }{ $tabCount } بازدەر بنێرە بۆ ئامێر
+           *[other] { $tabCount } بازدەر بنێرە بۆ ئامێر
         }
 page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
             [one] بازدەر بنێرە بۆ ئامێر
-           *[other] { " " }{ $tabCount } بازدەر بنێرە بۆ ئامێر
+           *[other] { $tabCount } بازدەر بنێرە بۆ ئامێر
         }
 page-action-pocket-panel =
     .label = پاشەکەوتی بکە لە { -pocket-brand-name }
@@ -195,7 +195,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = لەم کاتەدا، بگەڕێ لەگەڵ:
 # This string won't wrap, so if the translated string is longer,
@@ -308,6 +308,8 @@ popup-screen-sharing-never =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = بگەڕێ یان ناونیشان بنووسە
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = بگەڕێ یان ناونیشان بنووسە
 urlbar-switch-to-tab =
