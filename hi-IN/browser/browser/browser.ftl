@@ -164,6 +164,8 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = { -pocket-brand-name } में पृष्ठ को सहेजें
 page-action-copy-url-panel =
     .label = कड़ी नकल करें
 page-action-copy-url-urlbar =
