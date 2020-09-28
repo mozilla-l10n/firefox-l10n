@@ -65,6 +65,13 @@ browser-main-window-title = { -brand-full-name }
 ## Page Action Context Menu
 
 
+## Page Action menu
+
+page-action-copy-url-panel =
+    .label = Salèn Peunawôt
+page-action-copy-url-urlbar =
+    .tooltiptext = Salèn Peunawôt
+
 ## Auto-hide Context Menu
 
 
