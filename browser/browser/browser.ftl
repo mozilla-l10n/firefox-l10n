@@ -142,10 +142,38 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [zero] Sūtīt { $tabCount } cilne uz ierīci
+            [one] Sūtīt { $tabCount } cilni uz ierīci
+           *[other] Sūtīt { $tabCount } cilnes uz ierīci
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [zero] Sūtīt { $tabCount } cilne uz ierīci
+            [one] Sūtīt { $tabCount } cilni uz ierīci
+           *[other] Sūtīt { $tabCount } cilnes uz ierīci
+        }
+page-action-copy-url-panel =
+    .label = Kopēt saiti
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopēt saiti
 page-action-email-link-panel =
     .label = Nosūtīt saiti…
 page-action-email-link-urlbar =
     .tooltiptext = Nosūtīt saiti…
+page-action-share-url-panel =
+    .label = Dalīties
+page-action-share-url-urlbar =
+    .tooltiptext = Dalīties
+page-action-share-more-panel =
+    .label = Vairāk…
+page-action-send-tab-not-ready =
+    .label = Sinhronizē ierīces…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
