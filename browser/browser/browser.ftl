@@ -162,6 +162,23 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Eklentiyi kaldır
 
+## Page Action menu
+
+page-action-pocket-panel =
+    .label = Sayfayı { -pocket-brand-name }’a kaydet
+page-action-copy-url-panel =
+    .label = Bağlantıyı kopyala
+page-action-copy-url-urlbar =
+    .tooltiptext = Bağlantıyı kopyala
+page-action-email-link-panel =
+    .label = Bağlantıyı e-postayla gönder…
+page-action-email-link-urlbar =
+    .tooltiptext = Bağlantıyı e-postayla gönder…
+page-action-share-more-panel =
+    .label = Daha fazla…
+page-action-send-tab-not-ready =
+    .label = Cihazlar eşitleniyor…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
