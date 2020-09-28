@@ -172,6 +172,10 @@ page-action-email-link-panel =
     .label = Email Link…
 page-action-email-link-urlbar =
     .tooltiptext = Email Link…
+page-action-share-url-panel =
+    .label = Share
+page-action-share-url-urlbar =
+    .tooltiptext = Share
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
