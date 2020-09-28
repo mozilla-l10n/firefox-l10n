@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Njoowug sutura)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Njoowug sutura)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Njoowug sutura)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Njoowug sutura)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -60,11 +58,27 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 
 ## Page Action Context Menu
 
+
+## Page Action menu
+
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Caabi Làcc wi
+page-action-pin-tab-urlbar =
+    .tooltiptext = Caabi Làcc wi
+page-action-unpin-tab-panel =
+    .label = Caabeedi Làcc wi
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Caabeedi Làcc wi
 
 ## Auto-hide Context Menu
 
@@ -84,6 +98,7 @@ full-screen-exit =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -111,6 +126,8 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Dem ci koñ bi:
-
 urlbar-go-button =
     .tooltiptext = Dem ci xët wi ñu joxoñ ci banqaasu makkaan
+
+## Full Screen and Pointer Lock UI
+
