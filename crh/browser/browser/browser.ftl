@@ -142,6 +142,11 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Adres Çubuğından Çetleştir
 
+## Page Action menu
+
+page-action-send-tab-not-ready =
+    .label = Cihazlar Aynılaştırıla…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
