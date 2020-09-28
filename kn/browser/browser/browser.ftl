@@ -127,6 +127,13 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = ವಿಳಾಸದ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…
+page-action-email-link-urlbar =
+    .tooltiptext = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
