@@ -157,6 +157,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Neldu tabbere to Device
+           *[other] Send{ $tabCount } Tabbe to masiŋel
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Neldu tabbere to Device
+           *[other] Send{ $tabCount } Tabbe to masiŋel
+        }
 page-action-copy-url-panel =
     .label = Natto Jokkol
 page-action-copy-url-urlbar =
@@ -165,6 +179,12 @@ page-action-email-link-panel =
     .label = Jokkol Iimeel…
 page-action-email-link-urlbar =
     .tooltiptext = Jokkol Iimeel…
+page-action-share-url-panel =
+    .label = Lollin
+page-action-share-url-urlbar =
+    .tooltiptext = Lollin
+page-action-share-more-panel =
+    .label = Goɗɗum…
 page-action-send-tab-not-ready =
     .label = Jahdingol kaɓirɗi...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
