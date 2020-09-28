@@ -103,6 +103,13 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = ລຶບອອກຈາກແຖບທີ່ຢູ່
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = ລີ້ງຈົດຫມາຍ...
+page-action-email-link-urlbar =
+    .tooltiptext = ລີ້ງຈົດຫມາຍ...
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
