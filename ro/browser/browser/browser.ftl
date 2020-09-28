@@ -164,10 +164,32 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Trimite fila către un dispozitiv
+            [few] Trimite { $tabCount } file către un dispozitiv
+           *[other] Trimite { $tabCount } de file către un dispozitiv
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Trimite fila către un dispozitiv
+            [few] Trimite { $tabCount } file către un dispozitiv
+           *[other] Trimite { $tabCount } de file către un dispozitiv
+        }
+page-action-pocket-panel =
+    .label = Salvează pagina în { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiază linkul
 page-action-copy-url-urlbar =
     .tooltiptext = Copiază linkul
+page-action-email-link-panel =
+    .label = Trimite linkul prin e-mail…
+page-action-email-link-urlbar =
+    .tooltiptext = Trimite linkul prin e-mail…
 page-action-share-url-panel =
     .label = Partajează
 page-action-share-url-urlbar =
