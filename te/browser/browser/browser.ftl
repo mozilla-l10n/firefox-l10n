@@ -163,10 +163,32 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = లంకెను కాపీచెయ్యి
+page-action-copy-url-urlbar =
+    .tooltiptext = లంకెను కాపీచెయ్యి
 page-action-email-link-panel =
     .label = లింకును ఈమెయిలు చేయి…
 page-action-email-link-urlbar =
     .tooltiptext = లింకును ఈమెయిలు చేయి…
+page-action-share-url-panel =
+    .label = పంచుకో
+page-action-share-url-urlbar =
+    .tooltiptext = పంచుకో
+page-action-share-more-panel =
+    .label = మరిన్ని…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = ట్యాబుని పిన్ చేయి
+page-action-pin-tab-urlbar =
+    .tooltiptext = ట్యాబుని పిన్ చేయి
+page-action-unpin-tab-panel =
+    .label = ట్యాబు పిన్ను తీసేయి
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ట్యాబు పిన్ను తీసేయి
 
 ## Auto-hide Context Menu
 
