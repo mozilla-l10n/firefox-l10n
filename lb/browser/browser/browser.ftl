@@ -97,6 +97,14 @@ urlbar-star-edit-bookmark =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Link kopéieren
+page-action-copy-url-urlbar =
+    .tooltiptext = Link kopéieren
+page-action-email-link-panel =
+    .label = Link mailen…
+page-action-email-link-urlbar =
+    .tooltiptext = Link mailen…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
