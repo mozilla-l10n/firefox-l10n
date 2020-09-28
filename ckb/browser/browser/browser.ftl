@@ -137,6 +137,53 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = سڕینەوەی پێوەکراو
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] بازدەر بنێرە بۆ ئامێر
+           *[other] { " " }{ $tabCount } بازدەر بنێرە بۆ ئامێر
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] بازدەر بنێرە بۆ ئامێر
+           *[other] { " " }{ $tabCount } بازدەر بنێرە بۆ ئامێر
+        }
+page-action-pocket-panel =
+    .label = پاشەکەوتی بکە لە { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = بەستەر لەبەربگرەوە
+page-action-copy-url-urlbar =
+    .tooltiptext = بەستەر لەبەربگرەوە
+page-action-email-link-panel =
+    .label = بەستەر بنێرە...
+page-action-email-link-urlbar =
+    .tooltiptext = بەستەر بنێرە...
+page-action-share-url-panel =
+    .label = بڵاوکردنەوە
+page-action-share-url-urlbar =
+    .tooltiptext = بڵاوکردنەوە
+page-action-share-more-panel =
+    .label = زیاتر...
+page-action-send-tab-not-ready =
+    .label = هاوکاتگەریکردنی ئامێرەکان...
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = بازدەر جێگیربکە
+page-action-pin-tab-urlbar =
+    .tooltiptext = بازدەر جێگیربکە
+page-action-unpin-tab-panel =
+    .label = بازدەر لابەرە
+page-action-unpin-tab-urlbar =
+    .tooltiptext = بازدەر لابەرە
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
