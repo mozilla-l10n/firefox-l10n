@@ -560,6 +560,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Cambiar las preferéncias per las suggestions de la barra d’adreça
 search-suggestions-cant-show = Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat { -brand-short-name } per pas jamai servar l'istoric.
 search-one-click-header = Motor de recèrca en un clic
+search-one-click-header2 = Acorchis de recèrca
 search-one-click-desc = Causissètz de motors de recerca altenatius qu'apareisson jos las barras d'adreça e de recèrca quand començatz d’escriure un mot-clau.
 search-choose-engine-column =
     .label = Motor de recèrca
