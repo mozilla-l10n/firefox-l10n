@@ -178,6 +178,8 @@ page-action-send-tabs-urlbar =
             [one] Lap küldése az eszközre
            *[other] { $tabCount } lap küldése az eszközre
         }
+page-action-pocket-panel =
+    .label = Oldal mentése a { -pocket-brand-name }be
 page-action-copy-url-panel =
     .label = Hivatkozás másolása
 page-action-copy-url-urlbar =
