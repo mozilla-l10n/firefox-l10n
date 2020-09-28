@@ -157,6 +157,21 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Thoir air falbh o bhàr an t-seòlaidh
 
+## Page Action menu
+
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Prìnich an taba
+page-action-pin-tab-urlbar =
+    .tooltiptext = Prìnich an taba
+page-action-unpin-tab-panel =
+    .label = Neo-phrìnich an taba
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Neo-phrìnich an taba
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
