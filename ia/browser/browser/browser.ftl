@@ -164,6 +164,22 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Inviar scheda al Apparato
+           *[other] Inviar { $tabCount } schedas al apparato
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Inviar scheda al Apparato
+           *[other] Inviar { $tabCount } schedas al apparato
+        }
+page-action-pocket-panel =
+    .label = Salvar le pagina in { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar le ligamine
 page-action-copy-url-urlbar =
@@ -172,6 +188,12 @@ page-action-email-link-panel =
     .label = Inviar le ligamine per email…
 page-action-email-link-urlbar =
     .tooltiptext = Inviar le ligamine per email…
+page-action-share-url-panel =
+    .label = Compartir
+page-action-share-url-urlbar =
+    .tooltiptext = Compartir
+page-action-share-more-panel =
+    .label = Plus…
 page-action-send-tab-not-ready =
     .label = Synchronisante apparatos…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
