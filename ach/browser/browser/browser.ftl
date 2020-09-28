@@ -137,6 +137,25 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Kwany ki i lanyut me kanonge
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Cwal kakube…
+page-action-email-link-urlbar =
+    .tooltiptext = Cwal kakube…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Mwon dirica matidi
+page-action-pin-tab-urlbar =
+    .tooltiptext = Mwon dirica matidi
+page-action-unpin-tab-panel =
+    .label = Pe i wal dirica matidi
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Pe i wal dirica matidi
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
