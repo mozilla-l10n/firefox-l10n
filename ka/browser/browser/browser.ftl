@@ -170,13 +170,13 @@ page-action-send-tabs-panel =
     .label =
         { $tabCount ->
             [one] ჩანართის მოწყობილობაზე გაგზავნა
-           *[other] { " " }{ $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
+           *[other] { $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
         }
 page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
             [one] ჩანართის მოწყობილობაზე გაგზავნა
-           *[other] { " " }{ $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
+           *[other] { $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
         }
 page-action-pocket-panel =
     .label = გვერდის შენახვა { -pocket-brand-name }-ში
@@ -220,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = მოსაძიებლად, შეგიძლიათ გამოიყენოთ:
 # This string won't wrap, so if the translated string is longer,
