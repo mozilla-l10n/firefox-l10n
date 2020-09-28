@@ -133,6 +133,13 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = അഡ്രസ് ബാറിൽ നിന്ന് നീക്കം ചെയ്യുക
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = കണ്ണി ഈമെയില്‍ അയയ്ക്കുക…
+page-action-email-link-urlbar =
+    .tooltiptext = കണ്ണി ഈമെയില്‍ അയയ്ക്കുക…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
