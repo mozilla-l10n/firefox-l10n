@@ -560,6 +560,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Αλλαγή προτιμήσεων για άλλες προτάσεις στη γραμμή διευθύνσεων
 search-suggestions-cant-show = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } ώστε να μην διατηρεί ποτέ το ιστορικό.
 search-one-click-header = Μηχανές αναζήτησης με ένα κλικ
+search-one-click-header2 = Συντομεύσεις αναζήτησης
 search-one-click-desc = Επιλέξτε τις εναλλακτικές μηχανές αναζήτησης που εμφανίζονται κάτω από τη γραμμή διευθύνσεων και τη γραμμή αναζήτησης όταν αρχίσετε να πληκτρολογείτε μια λέξη-κλειδί.
 search-choose-engine-column =
     .label = Μηχανή αναζήτησης

@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Εν
 experimental-features-graphics-desktop-zooming =
     .label = Γραφικά: Ζουμ με ομαλό "τσίμπημα" (pinch)
 experimental-features-graphics-desktop-zooming-description = Ενεργοποιεί την υποστήριξη για ομαλό ζουμ σε οθόνες αφής και επιφάνειες αφής ακριβείας.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Ενεργοποίηση του Warp - ένα έργο για τη βελτίωση των επιδόσεων JavaScript και της χρήσης μνήμης.
