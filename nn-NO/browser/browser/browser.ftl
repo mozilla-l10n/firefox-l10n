@@ -162,6 +162,39 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Fjern utviding
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Send fane til eining
+           *[other] Send { $tabCount } faner til eining
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Send fane til eining
+           *[other] Send { $tabCount } faner til eining
+        }
+page-action-copy-url-panel =
+    .label = Kopier lenke
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopier lenke
+page-action-email-link-panel =
+    .label = Send lenke på e-post…
+page-action-email-link-urlbar =
+    .tooltiptext = Send lenke på e-post…
+page-action-share-url-panel =
+    .label = Del
+page-action-share-url-urlbar =
+    .tooltiptext = Del
+page-action-share-more-panel =
+    .label = Meir…
+page-action-send-tab-not-ready =
+    .label = Synkroniserer einingar…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
