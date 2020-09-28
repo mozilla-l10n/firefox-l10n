@@ -144,6 +144,47 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Leva dâ barra dû nnirizzu
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Manna scheda ô dispusitivu
+           *[other] Manna { $tabCount } schedi ô dispusitivu
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Manna scheda ô dispusitivu
+           *[other] Manna { $tabCount } schedi ô dispusitivu
+        }
+page-action-pocket-panel =
+    .label = Sarba pàggina nne { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copia a lijami
+page-action-copy-url-urlbar =
+    .tooltiptext = Copia a lijami
+page-action-email-link-panel =
+    .label = Manna lijami…
+page-action-email-link-urlbar =
+    .tooltiptext = Manna lijami…
+page-action-send-tab-not-ready =
+    .label = Staju sincrunizzannu i dispusitivi…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Appuntiḍḍa scheda
+page-action-pin-tab-urlbar =
+    .tooltiptext = Appuntiḍḍa scheda
+page-action-unpin-tab-panel =
+    .label = Spuntiḍḍa scheda
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Spuntiḍḍa scheda
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
