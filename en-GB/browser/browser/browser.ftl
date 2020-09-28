@@ -164,6 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Send Tab to Device
+           *[other] Send { $tabCount } Tabs to Device
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Send Tab to Device
+           *[other] Send { $tabCount } Tabs to Device
+        }
 page-action-copy-url-panel =
     .label = Copy Link
 page-action-copy-url-urlbar =
@@ -172,6 +186,12 @@ page-action-email-link-panel =
     .label = Email Link…
 page-action-email-link-urlbar =
     .tooltiptext = Email Link…
+page-action-share-url-panel =
+    .label = Share
+page-action-share-url-urlbar =
+    .tooltiptext = Share
+page-action-share-more-panel =
+    .label = More…
 page-action-send-tab-not-ready =
     .label = Synchronising Devices…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
