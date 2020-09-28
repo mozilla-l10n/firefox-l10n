@@ -164,7 +164,7 @@ page-action-send-tabs-panel =
     .label =
         { $tabCount ->
             [one] ডিভাইসে ট্যাব পাঠান
-           *[other] { " " }ডিভাইসে { $tabCount } ট্যাব পাঠান
+           *[other] ডিভাইসে { $tabCount } ট্যাব পাঠান
         }
 page-action-send-tabs-urlbar =
     .tooltiptext =
@@ -214,7 +214,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = এবার এর সাথে অনুসন্ধান করুন:
 # This string won't wrap, so if the translated string is longer,
@@ -331,6 +331,8 @@ enable-devtools-popup-description = F12 শর্টকাট ব্যবহা
 
 urlbar-default-placeholder =
     .defaultPlaceholder = অনুসন্ধান বা ঠিকানা দিন
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = অনুসন্ধান বা ঠিকানা দিন
 # Variables
