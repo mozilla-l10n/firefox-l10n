@@ -178,6 +178,12 @@ page-action-send-tabs-urlbar =
             [one] ჩანართის მოწყობილობაზე გაგზავნა
            *[other] { " " }{ $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
         }
+page-action-pocket-panel =
+    .label = გვერდის შენახვა { -pocket-brand-name }-ში
+page-action-copy-url-panel =
+    .label = ბმულის ასლი
+page-action-copy-url-urlbar =
+    .tooltiptext = ბმულის ასლი
 page-action-email-link-panel =
     .label = ბმულის გაგზავნა ელფოსტით…
 page-action-email-link-urlbar =
