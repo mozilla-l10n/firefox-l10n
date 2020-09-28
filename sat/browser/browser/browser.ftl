@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजेराक् ब्राउजिंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजेराक् ब्राउजिंग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजेराक् ब्राउजिंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजेराक् ब्राउजिंग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -60,13 +58,13 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = नोवा पुथी चिनहा़ सासापड़ाव मे  ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -74,6 +72,25 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = इमेल खोंजा …
+page-action-email-link-urlbar =
+    .tooltiptext = इमेल खोंजा …
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = टैब पिन मे
+page-action-pin-tab-urlbar =
+    .tooltiptext = टैब पिन मे
+page-action-unpin-tab-panel =
+    .label = टैब खोन पिन ओचोग
+page-action-unpin-tab-urlbar =
+    .tooltiptext = टैब खोन पिन ओचोग
 
 ## Auto-hide Context Menu
 
@@ -93,6 +110,7 @@ full-screen-exit =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -130,12 +148,12 @@ popup-all-windows-shared = आमाक्  स्क्रिंन रे ज�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ठिका़ना़ पानते आर बाङ पानते.
-
 urlbar-placeholder =
     .placeholder = ठिका़ना़ पानते आर बाङ पानते.
-
 urlbar-switch-to-tab =
     .value = टेब रे ओता:
-
 urlbar-go-button =
     .tooltiptext = ठांव बार ठिका़ना रे चालाव .
+
+## Full Screen and Pointer Lock UI
+
