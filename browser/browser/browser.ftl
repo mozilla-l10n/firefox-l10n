@@ -164,10 +164,40 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } rajtark na grat pósłać
+            [two] { $tabCount } rajtarkaj na grat pósłać
+            [few] { $tabCount } rajtarki na grat pósłać
+           *[other] { $tabCount } rajtarkow na grat pósłać
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] { $tabCount } rajtark na grat pósłać
+            [two] { $tabCount } rajtarkaj na grat pósłać
+            [few] { $tabCount } rajtarki na grat pósłać
+           *[other] { $tabCount } rajtarkow na grat pósłać
+        }
+page-action-pocket-panel =
+    .label = Stronu pola { -pocket-brand-name } składować
+page-action-copy-url-panel =
+    .label = Wotkaz kopěrować
+page-action-copy-url-urlbar =
+    .tooltiptext = Wotkaz kopěrować
 page-action-email-link-panel =
     .label = Wotkaz e-mejlować…
 page-action-email-link-urlbar =
     .tooltiptext = Wotkaz e-mejlować…
+page-action-share-url-panel =
+    .label = Dźělić
+page-action-share-url-urlbar =
+    .tooltiptext = Dźělić
+page-action-share-more-panel =
+    .label = Wjace…
 page-action-send-tab-not-ready =
     .label = Graty so synchronizuja…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
