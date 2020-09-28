@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Erweiterung entfernen
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Link per E-Mail senden…
+page-action-email-link-urlbar =
+    .tooltiptext = Link per E-Mail senden…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
