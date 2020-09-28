@@ -131,6 +131,13 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = ලිපින තීරුවෙන් ඉවත් කරන්න
 
+## Page Action menu
+
+page-action-unpin-tab-panel =
+    .label = ටැබ ගලවන්න
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ටැබ ගලවන්න
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
