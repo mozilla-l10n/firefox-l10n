@@ -93,6 +93,18 @@ urlbar-star-add-bookmark =
 
 ## Page Action menu
 
+page-action-email-link-panel =
+    .label = कड़ी ईमेल करू (E)…
+page-action-email-link-urlbar =
+    .tooltiptext = कड़ी ईमेल करू (E)…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = टैब पिन करें (P)
+page-action-pin-tab-urlbar =
+    .tooltiptext = टैब पिन करें (P)
 page-action-unpin-tab-panel =
     .label = टैबक पिन निकालू
 page-action-unpin-tab-urlbar =
