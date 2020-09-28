@@ -161,6 +161,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] ارسال به دستگاه
+           *[other] ارسال { $tabCount } زبانه به دستگاه
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ارسال به دستگاه
+           *[other] ارسال { $tabCount } زبانه به دستگاه
+        }
 page-action-pocket-panel =
     .label = ذخیره صفحه در { -pocket-brand-name }
 page-action-copy-url-panel =
