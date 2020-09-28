@@ -137,8 +137,20 @@ page-action-copy-url-panel =
     .label = සබැඳිය පිටපත් කරන්න
 page-action-copy-url-urlbar =
     .tooltiptext = සබැඳිය පිටපත් කරන්න
+page-action-email-link-panel =
+    .label = විද්‍යුත් තැපැල් සබැඳිය
+page-action-email-link-urlbar =
+    .tooltiptext = විද්‍යුත් තැපැල් සබැඳිය
 page-action-send-tab-not-ready =
     .label = උපාංග සමමුහුර්ත කරමින්…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = ටැබ අමුණන්න
+page-action-pin-tab-urlbar =
+    .tooltiptext = ටැබ අමුණන්න
 page-action-unpin-tab-panel =
     .label = ටැබ ගලවන්න
 page-action-unpin-tab-urlbar =
