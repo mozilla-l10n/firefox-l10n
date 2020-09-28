@@ -144,6 +144,26 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] ডিভাইসে ট্যাব পাঠান
+           *[other] { " " }ডিভাইসে { $tabCount } ট্যাব পাঠান
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ডিভাইসে ট্যাব পাঠান
+           *[other] { " " }ডিভাইসে { $tabCount } ট্যাব পাঠান
+        }
+page-action-pocket-panel =
+    .label = { -pocket-brand-name } এ পাতাটি সংরক্ষণ করুন
+page-action-copy-url-panel =
+    .label = লিঙ্ক অনুলিপি
+page-action-copy-url-urlbar =
+    .tooltiptext = লিঙ্ক অনুলিপি
 page-action-email-link-panel =
     .label = লিঙ্ক ইমেইল করুন... E
 page-action-email-link-urlbar =
