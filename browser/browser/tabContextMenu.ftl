@@ -63,7 +63,7 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Fortryk lukning af faneblad
+            [1] Fortryd lukning af faneblad
            *[other] Fortryd lukning af faneblade
         }
     .accesskey = r
