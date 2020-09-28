@@ -178,6 +178,8 @@ page-action-send-tabs-urlbar =
             [one] Send fane til eining
            *[other] Send { $tabCount } faner til eining
         }
+page-action-pocket-panel =
+    .label = Lagre sida til { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopier lenke
 page-action-copy-url-urlbar =
@@ -194,6 +196,18 @@ page-action-share-more-panel =
     .label = Meir…
 page-action-send-tab-not-ready =
     .label = Synkroniserer einingar…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fest fane
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fest fane
+page-action-unpin-tab-panel =
+    .label = Løys fane
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Løys fane
 
 ## Auto-hide Context Menu
 
