@@ -164,6 +164,22 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Αποστολή καρτέλας σε συσκευή
+           *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Αποστολή καρτέλας σε συσκευή
+           *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
+        }
+page-action-pocket-panel =
+    .label = Αποθήκευση σελίδας στο { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Αντιγραφή συνδέσμου
 page-action-copy-url-urlbar =
