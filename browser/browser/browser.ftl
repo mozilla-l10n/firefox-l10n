@@ -160,6 +160,8 @@ page-action-send-tabs-urlbar =
             [one] Senda flipa í tæki
            *[other] senda { $tabCount } flipa í tæki
         }
+page-action-pocket-panel =
+    .label = Vista síðu í { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Afrita tengil
 page-action-copy-url-urlbar =
