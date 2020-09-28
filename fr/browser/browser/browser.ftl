@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Supprimer l’extension
 
+## Page Action menu
+
+page-action-unpin-tab-panel =
+    .label = Désépingler cet onglet
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Désépingler cet onglet
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
