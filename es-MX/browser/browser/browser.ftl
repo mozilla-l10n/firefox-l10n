@@ -164,6 +164,8 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = Guardar página en { -pocket-brand-name }
 page-action-email-link-panel =
     .label = Enviar enlace…
 page-action-email-link-urlbar =
