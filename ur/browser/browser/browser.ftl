@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = ایکسٹینشن ہٹائیں
 
+## Page Action menu
+
+page-action-unpin-tab-panel =
+    .label = ٹیب انپن کریں
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ٹیب انپن کریں
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
