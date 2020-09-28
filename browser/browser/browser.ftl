@@ -164,6 +164,32 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის მოწყობილობაზე გაგზავნა
+           *[other] { " " }{ $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ჩანართის მოწყობილობაზე გაგზავნა
+           *[other] { " " }{ $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
+        }
+page-action-email-link-panel =
+    .label = ბმულის გაგზავნა ელფოსტით…
+page-action-email-link-urlbar =
+    .tooltiptext = ბმულის გაგზავნა ელფოსტით…
+page-action-share-url-panel =
+    .label = გაზიარება
+page-action-share-url-urlbar =
+    .tooltiptext = გაზიარება
+page-action-share-more-panel =
+    .label = სხვა…
+page-action-send-tab-not-ready =
+    .label = მოწყობილობების დასინქრონება…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
@@ -172,6 +198,10 @@ page-action-pin-tab-panel =
     .label = ჩანართის მიმაგრება
 page-action-pin-tab-urlbar =
     .tooltiptext = ჩანართის მიმაგრება
+page-action-unpin-tab-panel =
+    .label = მიმაგრების მოხსნა
+page-action-unpin-tab-urlbar =
+    .tooltiptext = მიმაგრების მოხსნა
 
 ## Auto-hide Context Menu
 
