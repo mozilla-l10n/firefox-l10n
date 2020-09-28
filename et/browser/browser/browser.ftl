@@ -166,6 +166,10 @@ page-action-copy-url-panel =
     .label = Kopeeri link
 page-action-copy-url-urlbar =
     .tooltiptext = Kopeeri link
+page-action-email-link-panel =
+    .label = Saada link e-postiga…
+page-action-email-link-urlbar =
+    .tooltiptext = Saada link e-postiga…
 page-action-share-url-panel =
     .label = Jaga
 page-action-share-url-urlbar =
@@ -174,6 +178,18 @@ page-action-share-more-panel =
     .label = Veel…
 page-action-send-tab-not-ready =
     .label = Seadmeid sünkroniseeritakse…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Tee püsikaardiks
+page-action-pin-tab-urlbar =
+    .tooltiptext = Tee püsikaardiks
+page-action-unpin-tab-panel =
+    .label = Tee tavakaardiks
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Tee tavakaardiks
 
 ## Auto-hide Context Menu
 
