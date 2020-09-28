@@ -162,6 +162,8 @@ page-action-send-tabs-urlbar =
             [one] Ga'ni' rakïj ñaj ga'an riña aga'
            *[other] { " " }Ga'ni' { $tabCount } Rakïj ñaj riña aga'
         }
+page-action-pocket-panel =
+    .label = Nannj sà' pâjina riña { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = nako' chrej e
 page-action-copy-url-urlbar =
