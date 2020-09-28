@@ -154,13 +154,13 @@ page-action-send-tabs-panel =
     .label =
         { $tabCount ->
             [one] Ga'ni' rakïj ñaj ga'an riña aga'
-           *[other] { " " }Ga'ni' { $tabCount } Rakïj ñaj riña aga'
+           *[other] Ga'ni' { $tabCount } Rakïj ñaj riña aga'
         }
 page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
             [one] Ga'ni' rakïj ñaj ga'an riña aga'
-           *[other] { " " }Ga'ni' { $tabCount } Rakïj ñaj riña aga'
+           *[other] Ga'ni' { $tabCount } Rakïj ñaj riña aga'
         }
 page-action-pocket-panel =
     .label = Nannj sà' pâjina riña { -pocket-brand-name }
@@ -204,7 +204,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Diû nan, nana'uì' ngà:
 # This string won't wrap, so if the translated string is longer,
@@ -318,6 +318,8 @@ popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Gachrūn nuguan' ruhuât nanà'uìt
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
 # Variables
