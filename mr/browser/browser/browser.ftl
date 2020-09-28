@@ -142,6 +142,8 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = पृष्ठ { -pocket-brand-name } मध्ये जतन करा
 page-action-copy-url-panel =
     .label = दुव्याची प्रत बनवा
 page-action-copy-url-urlbar =
@@ -150,6 +152,12 @@ page-action-email-link-panel =
     .label = दुवा ईमेल करा…
 page-action-email-link-urlbar =
     .tooltiptext = दुवा ईमेल करा…
+page-action-share-url-panel =
+    .label = शेअर करा
+page-action-share-url-urlbar =
+    .tooltiptext = शेअर करा
+page-action-share-more-panel =
+    .label = अधिक…
 page-action-send-tab-not-ready =
     .label = उपकरणे सिंक करत आहे…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
