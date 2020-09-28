@@ -142,6 +142,10 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = ចម្លង​តំណ
+page-action-copy-url-urlbar =
+    .tooltiptext = ចម្លង​តំណ
 page-action-email-link-panel =
     .label = តំណ​អ៊ីមែល…
 page-action-email-link-urlbar =
