@@ -544,6 +544,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Thay đổi tùy chọn cho các đề xuất trên thanh địa chỉ khác
 search-suggestions-cant-show = Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
 search-one-click-header = Công cụ tìm kiếm với một lần nhấn
+search-one-click-header2 = Lối tắt tìm kiếm
 search-one-click-desc = Chọn các công cụ tìm kiếm thay thế xuất hiện bên dưới thanh địa chỉ và thanh tìm kiếm khi bạn bắt đầu nhập một từ khoá.
 search-choose-engine-column =
     .label = Công cụ tìm kiếm

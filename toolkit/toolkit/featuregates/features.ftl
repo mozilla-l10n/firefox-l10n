@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Cho 
 experimental-features-graphics-desktop-zooming =
     .label = Đồ họa: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = Cho phép hỗ trợ cho việc phóng to pinch mịn trên màn hình cảm ứng và cảm ứng chính xác.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Kích hoạt Warp, một dự án để cải thiện hiệu suất JavaScript và sử dụng bộ nhớ.
