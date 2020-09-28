@@ -148,6 +148,36 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Ga'ni' rakïj ñaj ga'an riña aga'
+           *[other] { " " }Ga'ni' { $tabCount } Rakïj ñaj riña aga'
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Ga'ni' rakïj ñaj ga'an riña aga'
+           *[other] { " " }Ga'ni' { $tabCount } Rakïj ñaj riña aga'
+        }
+page-action-copy-url-panel =
+    .label = nako' chrej e
+page-action-copy-url-urlbar =
+    .tooltiptext = nako' chrej e
+page-action-email-link-panel =
+    .label = Ga'ni' Link…
+page-action-email-link-urlbar =
+    .tooltiptext = Ga'ni' Link…
+page-action-share-url-panel =
+    .label = Duyingo'
+page-action-share-url-urlbar =
+    .tooltiptext = Duyingo'
+page-action-share-more-panel =
+    .label = Doj…
+page-action-send-tab-not-ready =
+    .label = 'Iaj sun nugua'ān darn' Aga'a...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
