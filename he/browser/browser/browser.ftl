@@ -164,10 +164,34 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] שליחת לשונית למכשיר
+           *[other] שליחת { $tabCount } לשוניות למכשיר
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] שליחת לשונית למכשיר
+           *[other] שליחת { $tabCount } לשוניות למכשיר
+        }
+page-action-pocket-panel =
+    .label = שמירת דף אל { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = העתקת קישור
+page-action-copy-url-urlbar =
+    .tooltiptext = העתקת קישור
 page-action-email-link-panel =
     .label = שליחת קישור בדוא״ל…
 page-action-email-link-urlbar =
     .tooltiptext = שליחת קישור בדוא״ל…
+page-action-share-more-panel =
+    .label = עוד…
+page-action-send-tab-not-ready =
+    .label = סנכרון מכשירים…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
@@ -176,6 +200,10 @@ page-action-pin-tab-panel =
     .label = נעיצת לשונית
 page-action-pin-tab-urlbar =
     .tooltiptext = נעיצת לשונית
+page-action-unpin-tab-panel =
+    .label = ביטול נעיצת לשונית
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ביטול נעיצת לשונית
 
 ## Auto-hide Context Menu
 
