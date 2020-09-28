@@ -161,6 +161,8 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = ذخیره صفحه در { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = رونوشت پیوند
 page-action-copy-url-urlbar =
@@ -169,6 +171,10 @@ page-action-email-link-panel =
     .label = ایمیل کردن پیوند...
 page-action-email-link-urlbar =
     .tooltiptext = ایمیل کردن پیوند...
+page-action-share-url-panel =
+    .label = همرسانی
+page-action-share-url-urlbar =
+    .tooltiptext = همرسانی
 page-action-share-more-panel =
     .label = بیشتر…
 page-action-send-tab-not-ready =
