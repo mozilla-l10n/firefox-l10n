@@ -115,6 +115,10 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = लिंक कपि खालाम
+page-action-copy-url-urlbar =
+    .tooltiptext = लिंक कपि खालाम
 page-action-email-link-panel =
     .label = इ-मेइल लिंक...
 page-action-email-link-urlbar =
