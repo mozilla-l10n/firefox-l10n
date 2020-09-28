@@ -144,6 +144,20 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] ট্যাব ডিভাইসে পাঠান
+           *[other] { $tabCount } ট্যাবটিকে ডিভাইসে পাঠান
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] ট্যাব ডিভাইসে পাঠান
+           *[other] { $tabCount } ট্যাবটিকে ডিভাইসে পাঠান
+        }
 page-action-copy-url-panel =
     .label = লিংক কপি করুন
 page-action-copy-url-urlbar =
