@@ -162,6 +162,25 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Ta bort tillägg
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = E-posta länk…
+page-action-email-link-urlbar =
+    .tooltiptext = E-posta länk…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fäst flik
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fäst flik
+page-action-unpin-tab-panel =
+    .label = Gör om till vanlig flik
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Gör om till vanlig flik
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
