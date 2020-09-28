@@ -117,6 +117,27 @@ urlbar-star-add-bookmark =
 page-action-add-to-urlbar =
     .label = Amestar a la barra de direiciones
 
+## Page Action menu
+
+page-action-copy-url-panel =
+    .label = Copiar enllaz
+page-action-copy-url-urlbar =
+    .tooltiptext = Copiar enllaz
+page-action-email-link-panel =
+    .label = Unviar enllaz…
+page-action-email-link-urlbar =
+    .tooltiptext = Unviar enllaz…
+page-action-send-tab-not-ready =
+    .label = Sincronizando preseos…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fixar llingüeta
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fixar llingüeta
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
