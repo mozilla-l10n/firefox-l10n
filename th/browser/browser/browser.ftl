@@ -164,10 +164,30 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
+page-action-send-tabs-urlbar =
+    .tooltiptext = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
+page-action-pocket-panel =
+    .label = บันทึกหน้าไปยัง { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = คัดลอกลิงก์
+page-action-copy-url-urlbar =
+    .tooltiptext = คัดลอกลิงก์
 page-action-email-link-panel =
     .label = ส่งอีเมลลิงก์…
 page-action-email-link-urlbar =
     .tooltiptext = ส่งอีเมลลิงก์…
+page-action-share-url-panel =
+    .label = แบ่งปัน
+page-action-share-url-urlbar =
+    .tooltiptext = แบ่งปัน
+page-action-share-more-panel =
+    .label = เพิ่มเติม…
+page-action-send-tab-not-ready =
+    .label = กำลังซิงค์อุปกรณ์…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
@@ -176,6 +196,10 @@ page-action-pin-tab-panel =
     .label = ปักหมุดแท็บ
 page-action-pin-tab-urlbar =
     .tooltiptext = ปักหมุดแท็บ
+page-action-unpin-tab-panel =
+    .label = ถอนหมุดแท็บ
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ถอนหมุดแท็บ
 
 ## Auto-hide Context Menu
 
