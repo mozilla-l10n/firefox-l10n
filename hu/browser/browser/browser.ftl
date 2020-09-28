@@ -164,10 +164,34 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Lap küldése az eszközre
+           *[other] { $tabCount } lap küldése az eszközre
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Lap küldése az eszközre
+           *[other] { $tabCount } lap küldése az eszközre
+        }
+page-action-copy-url-panel =
+    .label = Hivatkozás másolása
+page-action-copy-url-urlbar =
+    .tooltiptext = Hivatkozás másolása
 page-action-email-link-panel =
     .label = Hivatkozás küldése e-mailben…
 page-action-email-link-urlbar =
     .tooltiptext = Hivatkozás küldése e-mailben…
+page-action-share-url-panel =
+    .label = Megosztás
+page-action-share-url-urlbar =
+    .tooltiptext = Megosztás
+page-action-share-more-panel =
+    .label = Továbbiak…
 page-action-send-tab-not-ready =
     .label = Eszközök szinkronizálása…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
