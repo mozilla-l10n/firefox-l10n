@@ -190,6 +190,8 @@ page-action-share-url-panel =
     .label = Bḍu
 page-action-share-url-urlbar =
     .tooltiptext = Bḍu
+page-action-share-more-panel =
+    .label = Ugar…
 page-action-send-tab-not-ready =
     .label = Amtawi n yibenkan…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
