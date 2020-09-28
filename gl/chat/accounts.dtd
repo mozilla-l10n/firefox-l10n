@@ -27,7 +27,7 @@
 <!ENTITY account.delete.label         "Eliminar">
 <!ENTITY account.delete.accesskey     "i">
 <!ENTITY account.edit.label           "Propiedades">
-<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.edit.accesskey       "R">
 <!ENTITY account.moveup.label         "Subir">
 <!ENTITY account.movedown.label       "Baixar">
 <!ENTITY account.cancelReconnection.label         "Cancelar a reconexión">
