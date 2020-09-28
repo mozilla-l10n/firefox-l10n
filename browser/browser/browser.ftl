@@ -164,12 +164,46 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Бетті құрылғыға жіберу
+           *[other] Бетті { $tabCount } құрылғыға жіберу
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Бетті құрылғыға жіберу
+           *[other] Бетті { $tabCount } құрылғыға жіберу
+        }
+page-action-pocket-panel =
+    .label = Бетті { -pocket-brand-name }-ке сақтау
+page-action-copy-url-panel =
+    .label = Сілтемені көшіріп алу
+page-action-copy-url-urlbar =
+    .tooltiptext = Сілтемені көшіріп алу
 page-action-email-link-panel =
     .label = Сілтемені эл. поштамен жіберу…
 page-action-email-link-urlbar =
     .tooltiptext = Сілтемені эл. поштамен жіберу…
+page-action-share-url-panel =
+    .label = Бөлісу
+page-action-share-url-urlbar =
+    .tooltiptext = Бөлісу
+page-action-share-more-panel =
+    .label = Көбірек…
 page-action-send-tab-not-ready =
     .label = Құрылғыларды синхрондау…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Бетті бекіту
+page-action-pin-tab-urlbar =
+    .tooltiptext = Бетті бекіту
 page-action-unpin-tab-panel =
     .label = Бетті босату
 page-action-unpin-tab-urlbar =
