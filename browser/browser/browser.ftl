@@ -161,10 +161,36 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Bidali fitxa gailura
+           *[other] Bidali { $tabCount } fitxa gailura
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Bidali fitxa gailura
+           *[other] Bidali { $tabCount } fitxa gailura
+        }
+page-action-pocket-panel =
+    .label = Gorde orria { -pocket-brand-name }-en
+page-action-copy-url-panel =
+    .label = Kopiatu lotura
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopiatu lotura
 page-action-email-link-panel =
     .label = Bidali lotura postaz…
 page-action-email-link-urlbar =
     .tooltiptext = Bidali lotura postaz…
+page-action-share-url-panel =
+    .label = Partekatu
+page-action-share-url-urlbar =
+    .tooltiptext = Partekatu
+page-action-share-more-panel =
+    .label = Gehiago…
 page-action-send-tab-not-ready =
     .label = Gailuak sinkronizatzen…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
