@@ -148,6 +148,14 @@ page-action-email-link-panel =
     .label = লিংক ই-মেইল করুন…
 page-action-email-link-urlbar =
     .tooltiptext = লিংক ই-মেইল করুন…
+page-action-share-url-panel =
+    .label = শেয়ার
+page-action-share-url-urlbar =
+    .tooltiptext = শেয়ার
+page-action-share-more-panel =
+    .label = আরো…
+page-action-send-tab-not-ready =
+    .label = ডিভাইসগুলিকে সিঙ্ক করা হচ্ছে…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
