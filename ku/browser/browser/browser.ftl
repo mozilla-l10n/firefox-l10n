@@ -71,6 +71,10 @@ urlbar-star-edit-bookmark =
 
 ## Page Action menu
 
+page-action-email-link-panel =
+    .label = Girêdankê bi epeyamê bişîne…
+page-action-email-link-urlbar =
+    .tooltiptext = Girêdankê bi epeyamê bişîne…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
