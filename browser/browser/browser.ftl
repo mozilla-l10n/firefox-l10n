@@ -162,6 +162,25 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Уклони проширење
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Веза е-поште…
+page-action-email-link-urlbar =
+    .tooltiptext = Веза е-поште…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Закачи језичак
+page-action-pin-tab-urlbar =
+    .tooltiptext = Закачи језичак
+page-action-unpin-tab-panel =
+    .label = Откачи језичак
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Откачи језичак
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
