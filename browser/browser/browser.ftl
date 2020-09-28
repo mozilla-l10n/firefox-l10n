@@ -164,6 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Skicka flik till enhet
+           *[other] Skicka { $tabCount } flikar till enhet
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Skicka flik till enhet
+           *[other] Skicka { $tabCount } flikar till enhet
+        }
 page-action-pocket-panel =
     .label = Spara sida till { -pocket-brand-name }
 page-action-copy-url-panel =
@@ -174,6 +188,10 @@ page-action-email-link-panel =
     .label = E-posta länk…
 page-action-email-link-urlbar =
     .tooltiptext = E-posta länk…
+page-action-share-url-panel =
+    .label = Dela
+page-action-share-url-urlbar =
+    .tooltiptext = Dela
 page-action-share-more-panel =
     .label = Mer…
 page-action-send-tab-not-ready =
