@@ -59,3 +59,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = כלי פיתוח: ניפוי שגיאות של Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = הפעלת תמיכה ניסיונות עבור Service Workers בחלונית 'ניפוי שגיאות' שבכלי הפיתוח. תכונה זו עשויה להאט את כלי הפיתוח ולהגדיל את צריכת הזיכרון.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = הפעלת Warp, מיזם לשיפור הביצועים וניצול הזיכרון של JavaScript.
