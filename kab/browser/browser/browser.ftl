@@ -164,6 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Azen iccer ɣer yibenk
+           *[other] Azen { $tabCount } waccaren ɣer yibenk
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Azen iccer ɣer yibenk
+           *[other] Azen { $tabCount } waccaren ɣer yibenk
+        }
 page-action-copy-url-panel =
     .label = Nɣel aseɣwen
 page-action-copy-url-urlbar =
