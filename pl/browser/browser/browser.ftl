@@ -164,6 +164,32 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Wyślij stronę na urządzenie
+            [few] Wyślij { $tabCount } strony na urządzenie
+           *[many] Wyślij { $tabCount } stron na urządzenie
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Wyślij stronę na urządzenie
+            [few] Wyślij { $tabCount } strony na urządzenie
+           *[many] Wyślij { $tabCount } stron na urządzenie
+        }
+page-action-pocket-panel =
+    .label = Wyślij stronę do { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Kopiuj odnośnik
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopiuj odnośnik
+page-action-email-link-panel =
+    .label = Wyślij odnośnik…
+page-action-email-link-urlbar =
+    .tooltiptext = Wyślij odnośnik…
 page-action-share-url-panel =
     .label = Udostępnij
 page-action-share-url-urlbar =
@@ -172,6 +198,18 @@ page-action-share-more-panel =
     .label = Więcej…
 page-action-send-tab-not-ready =
     .label = Synchronizowanie urządzeń…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Przypnij kartę
+page-action-pin-tab-urlbar =
+    .tooltiptext = Przypnij kartę
+page-action-unpin-tab-panel =
+    .label = Odepnij kartę
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Odepnij kartę
 
 ## Auto-hide Context Menu
 
