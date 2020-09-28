@@ -164,10 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
+page-action-copy-url-urlbar =
+    .tooltiptext = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
 page-action-email-link-panel =
     .label = …ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ
 page-action-email-link-urlbar =
     .tooltiptext = …ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ
+page-action-share-url-panel =
+    .label = ਸਾਂਝਾ ਕਰੋ
+page-action-share-url-urlbar =
+    .tooltiptext = ਸਾਂਝਾ ਕਰੋ
+page-action-send-tab-not-ready =
+    .label = …ਡਿਵਾਈਸ ਸਿੰਕ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
