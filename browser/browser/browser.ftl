@@ -124,6 +124,23 @@ urlbar-star-add-bookmark =
 page-action-manage-extension =
     .label = Bainistigh an Breiseán…
 
+## Page Action menu
+
+page-action-pocket-panel =
+    .label = Sábháil an Leathanach i b{ -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Cóipeáil an Nasc
+page-action-copy-url-urlbar =
+    .tooltiptext = Cóipeáil an Nasc
+page-action-share-url-panel =
+    .label = Comhroinn
+page-action-share-url-urlbar =
+    .tooltiptext = Comhroinn
+page-action-share-more-panel =
+    .label = Tuilleadh…
+page-action-send-tab-not-ready =
+    .label = Gléasanna á Sioncronú…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
