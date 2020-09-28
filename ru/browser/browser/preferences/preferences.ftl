@@ -564,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Изменить настройки для других предложений для адресной строки
 search-suggestions-cant-show = При использовании панели адреса поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
 search-one-click-header = Поиск одним щелчком
+search-one-click-header2 = Значки поисковых систем
 search-one-click-desc = Выберите альтернативные поисковые системы, которые появятся под панелью адреса и панелью поиска, когда вы начнёте вводить ключевое слово.
 search-choose-engine-column =
     .label = Поисковая система
