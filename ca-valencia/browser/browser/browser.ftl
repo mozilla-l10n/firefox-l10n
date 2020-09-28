@@ -159,6 +159,53 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Elimina l'extensió
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Envia la pestanya a un dispositiu
+           *[other] Envia { $tabCount } pestanyes a un dispositiu
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Envia la pestanya a un dispositiu
+           *[other] Envia { $tabCount } pestanyes a un dispositiu
+        }
+page-action-pocket-panel =
+    .label = Guarda la pàgina al { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copia l'enllaç
+page-action-copy-url-urlbar =
+    .tooltiptext = Copia l'enllaç
+page-action-email-link-panel =
+    .label = Envia l'enllaç per correu…
+page-action-email-link-urlbar =
+    .tooltiptext = Envia l'enllaç per correu…
+page-action-share-url-panel =
+    .label = Comparteix
+page-action-share-url-urlbar =
+    .tooltiptext = Comparteix
+page-action-share-more-panel =
+    .label = Més…
+page-action-send-tab-not-ready =
+    .label = S'estan sincronitzant els dispositius…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fixa la pestanya
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fixa la pestanya
+page-action-unpin-tab-panel =
+    .label = No fixis la pestanya
+page-action-unpin-tab-urlbar =
+    .tooltiptext = No fixis la pestanya
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
