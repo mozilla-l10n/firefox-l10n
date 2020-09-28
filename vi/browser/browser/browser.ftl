@@ -172,6 +172,10 @@ page-action-email-link-panel =
     .label = Gửi liên kết qua email…
 page-action-email-link-urlbar =
     .tooltiptext = Gửi liên kết qua email…
+page-action-share-url-panel =
+    .label = Chia sẻ
+page-action-share-url-urlbar =
+    .tooltiptext = Chia sẻ
 page-action-send-tab-not-ready =
     .label = Đang đồng bộ các thiết bị…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
