@@ -133,6 +133,12 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = සබැඳිය පිටපත් කරන්න
+page-action-copy-url-urlbar =
+    .tooltiptext = සබැඳිය පිටපත් කරන්න
+page-action-send-tab-not-ready =
+    .label = උපාංග සමමුහුර්ත කරමින්…
 page-action-unpin-tab-panel =
     .label = ටැබ ගලවන්න
 page-action-unpin-tab-urlbar =
