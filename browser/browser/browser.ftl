@@ -164,10 +164,28 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Enviar aba para dispositivo
+           *[other] Enviar { $tabCount } abas para dispositivo
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Enviar aba para dispositivo
+           *[other] Enviar { $tabCount } abas para dispositivo
+        }
 page-action-email-link-panel =
     .label = Enviar link por e-mail…
 page-action-email-link-urlbar =
     .tooltiptext = Enviar link por e-mail…
+page-action-share-url-panel =
+    .label = Compartilhar
+page-action-share-url-urlbar =
+    .tooltiptext = Compartilhar
 page-action-share-more-panel =
     .label = Mais…
 page-action-send-tab-not-ready =
