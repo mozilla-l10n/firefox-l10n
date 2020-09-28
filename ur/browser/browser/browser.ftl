@@ -164,6 +164,10 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-email-link-panel =
+    .label = ای میل ربط…
+page-action-email-link-urlbar =
+    .tooltiptext = ای میل ربط…
 page-action-unpin-tab-panel =
     .label = ٹیب انپن کریں
 page-action-unpin-tab-urlbar =
