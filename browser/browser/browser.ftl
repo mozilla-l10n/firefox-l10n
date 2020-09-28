@@ -144,6 +144,10 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = লিংক কপি করুন
+page-action-copy-url-urlbar =
+    .tooltiptext = লিংক কপি করুন
 page-action-email-link-panel =
     .label = লিংক ই-মেইল করুন…
 page-action-email-link-urlbar =
