@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Выдаліць пашырэнне
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Даслаць спасылку эл.поштай…
+page-action-email-link-urlbar =
+    .tooltiptext = Даслаць спасылку эл.поштай…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
