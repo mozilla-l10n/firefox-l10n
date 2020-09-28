@@ -142,6 +142,10 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = दुव्याची प्रत बनवा
+page-action-copy-url-urlbar =
+    .tooltiptext = दुव्याची प्रत बनवा
 page-action-email-link-panel =
     .label = दुवा ईमेल करा…
 page-action-email-link-urlbar =
