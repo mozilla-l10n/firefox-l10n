@@ -164,6 +164,22 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Lähetä välilehti laitteeseen
+           *[other] Lähetä { $tabCount } välilehteä laitteeseen
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Lähetä välilehti laitteeseen
+           *[other] Lähetä { $tabCount } välilehteä laitteeseen
+        }
+page-action-pocket-panel =
+    .label = Tallenna sivu { -pocket-brand-name }-palveluun
 page-action-copy-url-panel =
     .label = Kopioi linkki
 page-action-copy-url-urlbar =
