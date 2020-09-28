@@ -157,6 +157,13 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Manzil panelidan olib tashlash
 
+## Page Action menu
+
+page-action-copy-url-panel =
+    .label = Havoladan nusxa olish
+page-action-copy-url-urlbar =
+    .tooltiptext = Havoladan nusxa olish
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
