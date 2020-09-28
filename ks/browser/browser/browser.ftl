@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (پوشیدئ براوزِنگ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (پوشیدئ براوزِنگ)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (پوشیدئ براوزِنگ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (پوشیدئ براوزِنگ)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -60,13 +58,13 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بوک مارْک کْریو ایڈیٹ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -74,6 +72,25 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = ٳئمل لینك
+page-action-email-link-urlbar =
+    .tooltiptext = ٳئمل لینك
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = ٹیب کْریو پِن&
+page-action-pin-tab-urlbar =
+    .tooltiptext = ٹیب کْریو پِن&
+page-action-unpin-tab-panel =
+    .label = ٹیب كریو اَن پِن
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ٹیب كریو اَن پِن
 
 ## Auto-hide Context Menu
 
@@ -97,6 +114,7 @@ search-one-offs-change-settings-button =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -134,12 +152,12 @@ popup-all-windows-shared = تُہندس سکرینس پیٹھ تمام ظأہر 
 
 urlbar-default-placeholder =
     .defaultPlaceholder = تلاش کْریو یا اینٹر کْریو پتاہ
-
 urlbar-placeholder =
     .placeholder = تلاش کْریو یا اینٹر کْریو پتاہ
-
 urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
-
 urlbar-go-button =
     .tooltiptext = جاے بارس منز گژھیو نیبس منز
+
+## Full Screen and Pointer Lock UI
+
