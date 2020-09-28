@@ -161,10 +161,30 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Ուղարկել ներդիրը սարքին
+           *[other] Ուղարկել { $tabCount } ներդիրները սարքին
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Ուղարկել ներդիրը սարքին
+           *[other] Ուղարկել { $tabCount } ներդիրները սարքին
+        }
+page-action-pocket-panel =
+    .label = Պահպանել էջը { -pocket-brand-name }-ում
 page-action-copy-url-panel =
     .label = Պատճենել հղումը
 page-action-copy-url-urlbar =
     .tooltiptext = Պատճենել հղումը
+page-action-email-link-panel =
+    .label = Հղումը ուղարկել էլ֊փոստով…
+page-action-email-link-urlbar =
+    .tooltiptext = Հղումը ուղարկել էլ֊փոստով…
 page-action-send-tab-not-ready =
     .label = Սարքերի համաժամեցում...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
