@@ -162,6 +162,13 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Elimina l'extensió
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Envia l'enllaç per correu…
+page-action-email-link-urlbar =
+    .tooltiptext = Envia l'enllaç per correu…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
