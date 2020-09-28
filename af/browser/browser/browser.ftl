@@ -113,6 +113,13 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = E-pos skakel…
+page-action-email-link-urlbar =
+    .tooltiptext = E-pos skakel…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
