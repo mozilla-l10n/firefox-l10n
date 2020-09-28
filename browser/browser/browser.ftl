@@ -161,10 +161,16 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = رونوشت پیوند
+page-action-copy-url-urlbar =
+    .tooltiptext = رونوشت پیوند
 page-action-email-link-panel =
     .label = ایمیل کردن پیوند...
 page-action-email-link-urlbar =
     .tooltiptext = ایمیل کردن پیوند...
+page-action-share-more-panel =
+    .label = بیشتر…
 page-action-send-tab-not-ready =
     .label = همرسانی دستگاه‌ها…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
