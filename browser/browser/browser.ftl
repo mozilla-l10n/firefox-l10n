@@ -162,6 +162,53 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Hiqe Zgjerimin
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Dërgoje Skedën te Pajisje
+           *[other] Dërgo { $tabCount } Skedë te Pajisje
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Dërgoje Skedën te Pajisje
+           *[other] Dërgo { $tabCount } Skedë te Pajisje
+        }
+page-action-pocket-panel =
+    .label = Ruaje Faqen te { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Kopjoji Lidhjen
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopjoji Lidhjen
+page-action-email-link-panel =
+    .label = Dërgoni Lidhje me Email…
+page-action-email-link-urlbar =
+    .tooltiptext = Dërgoni Lidhje me Email…
+page-action-share-url-panel =
+    .label = Ndajeni me të tjerët
+page-action-share-url-urlbar =
+    .tooltiptext = Ndajeni me të tjerët
+page-action-share-more-panel =
+    .label = Më tepër…
+page-action-send-tab-not-ready =
+    .label = Po njëkohësohen Pajisje…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fiksoje Skedën
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fiksoje Skedën
+page-action-unpin-tab-panel =
+    .label = Shfiksoje Skedën
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Shfiksoje Skedën
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
