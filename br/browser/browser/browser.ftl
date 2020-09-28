@@ -162,6 +162,25 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Dilemel an askouezh
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Kas an ere dre bostel…
+page-action-email-link-urlbar =
+    .tooltiptext = Kas an ere dre bostel…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Spilhennañ an ivinell
+page-action-pin-tab-urlbar =
+    .tooltiptext = Spilhennañ an ivinell
+page-action-unpin-tab-panel =
+    .label = Dispilhennañ an ivinell
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Dispilhennañ an ivinell
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
