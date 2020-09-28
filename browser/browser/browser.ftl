@@ -146,6 +146,10 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Afrita tengil
+page-action-copy-url-urlbar =
+    .tooltiptext = Afrita tengil
 page-action-email-link-panel =
     .label = Senda tengil…
 page-action-email-link-urlbar =
