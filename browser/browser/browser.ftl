@@ -164,6 +164,36 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Enviar separador para dispositivo
+           *[other] Enviar { $tabCount } separadores para dispositivo
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Enviar separador para dispositivo
+           *[other] Enviar { $tabCount } separadores para dispositivo
+        }
+page-action-pocket-panel =
+    .label = Guardar página no { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copiar ligação
+page-action-copy-url-urlbar =
+    .tooltiptext = Copiar ligação
+page-action-email-link-panel =
+    .label = Enviar ligação por email…
+page-action-email-link-urlbar =
+    .tooltiptext = Enviar ligação por email…
+page-action-share-url-panel =
+    .label = Partilhar
+page-action-share-url-urlbar =
+    .tooltiptext = Partilhar
+page-action-share-more-panel =
+    .label = Mais…
 page-action-send-tab-not-ready =
     .label = A sincronizar dispositivos…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
@@ -174,6 +204,10 @@ page-action-pin-tab-panel =
     .label = Fixar separador
 page-action-pin-tab-urlbar =
     .tooltiptext = Fixar separador
+page-action-unpin-tab-panel =
+    .label = Desafixar separador
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Desafixar separador
 
 ## Auto-hide Context Menu
 
