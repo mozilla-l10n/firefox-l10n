@@ -146,6 +146,20 @@ page-action-remove-from-urlbar =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Senda flipa í tæki
+           *[other] senda { $tabCount } flipa í tæki
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Senda flipa í tæki
+           *[other] senda { $tabCount } flipa í tæki
+        }
 page-action-copy-url-panel =
     .label = Afrita tengil
 page-action-copy-url-urlbar =
@@ -158,6 +172,8 @@ page-action-share-url-panel =
     .label = Deila
 page-action-share-url-urlbar =
     .tooltiptext = Deila
+page-action-share-more-panel =
+    .label = Meira…
 page-action-send-tab-not-ready =
     .label = Samstilli tæki…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
