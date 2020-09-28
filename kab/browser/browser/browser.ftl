@@ -190,6 +190,8 @@ page-action-share-url-panel =
     .label = Bḍu
 page-action-share-url-urlbar =
     .tooltiptext = Bḍu
+page-action-send-tab-not-ready =
+    .label = Amtawi n yibenkan…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
