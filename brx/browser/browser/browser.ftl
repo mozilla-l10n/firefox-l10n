@@ -127,6 +127,10 @@ page-action-pin-tab-panel =
     .label = पिन टेब
 page-action-pin-tab-urlbar =
     .tooltiptext = पिन टेब
+page-action-unpin-tab-panel =
+    .label = टेबखौ आनपिन खालाम
+page-action-unpin-tab-urlbar =
+    .tooltiptext = टेबखौ आनपिन खालाम
 
 ## Auto-hide Context Menu
 
