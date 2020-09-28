@@ -164,6 +164,20 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Trametter il tab ad in apparat
+           *[other] Trametter { $tabCount } tabs ad in apparat
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Trametter il tab ad in apparat
+           *[other] Trametter { $tabCount } tabs ad in apparat
+        }
 page-action-pocket-panel =
     .label = Memorisar la pagina en { -pocket-brand-name }
 page-action-copy-url-panel =
