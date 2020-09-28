@@ -164,6 +164,10 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Copïo'r Ddolen
+page-action-copy-url-urlbar =
+    .tooltiptext = Copïo'r Ddolen
 page-action-email-link-panel =
     .label = E-bostio'r Ddolen…
 page-action-email-link-urlbar =
