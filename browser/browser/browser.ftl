@@ -153,6 +153,8 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-send-tab-not-ready =
+    .label = Scincronizzo dispoxitivi…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
