@@ -168,6 +168,18 @@ page-action-email-link-panel =
     .label = Envia l'enllaç per correu…
 page-action-email-link-urlbar =
     .tooltiptext = Envia l'enllaç per correu…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Fixa la pestanya
+page-action-pin-tab-urlbar =
+    .tooltiptext = Fixa la pestanya
+page-action-unpin-tab-panel =
+    .label = No fixis la pestanya
+page-action-unpin-tab-urlbar =
+    .tooltiptext = No fixis la pestanya
 
 ## Auto-hide Context Menu
 
