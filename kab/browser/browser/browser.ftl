@@ -164,10 +164,18 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Nɣel aseɣwen
+page-action-copy-url-urlbar =
+    .tooltiptext = Nɣel aseɣwen
 page-action-email-link-panel =
     .label = Azen s yimayl aseɣwen ɣeṛ usebter…
 page-action-email-link-urlbar =
     .tooltiptext = Azen s yimayl aseɣwen ɣeṛ usebter…
+page-action-share-url-panel =
+    .label = Bḍu
+page-action-share-url-urlbar =
+    .tooltiptext = Bḍu
 
 ## Auto-hide Context Menu
 
