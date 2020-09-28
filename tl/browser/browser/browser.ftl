@@ -176,6 +176,8 @@ page-action-share-url-panel =
     .label = Ibahagi
 page-action-share-url-urlbar =
     .tooltiptext = Ibahagi
+page-action-share-more-panel =
+    .label = Karagdagang detalye…
 page-action-send-tab-not-ready =
     .label = Nag-sysync ng Devices…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
