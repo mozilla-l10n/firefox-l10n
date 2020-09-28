@@ -161,6 +161,38 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Изпращане на раздела до устройство
+           *[other] Изпращане на { $tabCount } раздела до устройство
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Изпращане на раздела до устройство
+           *[other] Изпращане на { $tabCount } раздела до устройство
+        }
+page-action-pocket-panel =
+    .label = Запазване на страницата в { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Копиране на препратката
+page-action-copy-url-urlbar =
+    .tooltiptext = Копиране на препратката
+page-action-email-link-panel =
+    .label = Препратка по имейл…
+page-action-email-link-urlbar =
+    .tooltiptext = Препратка по имейл…
+page-action-share-url-panel =
+    .label = Споделяне
+page-action-share-url-urlbar =
+    .tooltiptext = Споделяне
+page-action-share-more-panel =
+    .label = Други…
+page-action-send-tab-not-ready =
+    .label = Синхронизиране на устройства…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
@@ -169,6 +201,10 @@ page-action-pin-tab-panel =
     .label = Закачане на раздела
 page-action-pin-tab-urlbar =
     .tooltiptext = Закачане на раздела
+page-action-unpin-tab-panel =
+    .label = Премахване от леснодостъпните
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Премахване от леснодостъпните
 
 ## Auto-hide Context Menu
 
