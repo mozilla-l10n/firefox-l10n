@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-graphics-desktop-zooming =
     .label = Grafik: Sanftes Zoomen durch Antippen
 experimental-features-graphics-desktop-zooming-description = Unterstützung für sanftes Zoomen durch Antippen auf Touchscreens und Präzisions-Touchpads aktivieren
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Warp aktivieren, ein Projekt zur Verbesserung der Leistung und des Speicherverbrauchs von JavaScript.
