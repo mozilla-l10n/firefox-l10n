@@ -162,6 +162,39 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Հեռացնել ընդլայնումը
 
+## Page Action menu
+
+page-action-pocket-panel =
+    .label = Պահպանել էջը { -pocket-brand-name }-ում
+page-action-copy-url-panel =
+    .label = Պատճէնել յղումը
+page-action-copy-url-urlbar =
+    .tooltiptext = Պատճէնել յղումը
+page-action-email-link-panel =
+    .label = Յղումը ուղարկել էլ֊փոստով…
+page-action-email-link-urlbar =
+    .tooltiptext = Յղումը ուղարկել էլ֊փոստով…
+page-action-share-url-panel =
+    .label = Կիսուել
+page-action-share-url-urlbar =
+    .tooltiptext = Կիսուել
+page-action-share-more-panel =
+    .label = Աւելին…
+page-action-send-tab-not-ready =
+    .label = Սարքերի համաժամեցում…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Ամրացնել ներդիրը
+page-action-pin-tab-urlbar =
+    .tooltiptext = Ամրացնել ներդիրը
+page-action-unpin-tab-panel =
+    .label = Ապամրացնել ներդիրը
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Ապամրացնել ներդիրը
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
