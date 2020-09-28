@@ -164,6 +164,28 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Kas an ivinell d'an trevnad
+            [two] Kas { $tabCount } ivinell d'an trevnad
+            [few] Kas { $tabCount } ivinell d'an trevnad
+            [many] Kas { $tabCount } a ivinelloù d'an trevnad
+           *[other] Kas { $tabCount } ivinell d'an trevnad
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Kas an ivinell d'an trevnad
+            [two] Kas { $tabCount } ivinell d'an trevnad
+            [few] Kas { $tabCount } ivinell d'an trevnad
+            [many] Kas { $tabCount } a ivinelloù d'an trevnad
+           *[other] Kas { $tabCount } ivinell d'an trevnad
+        }
+page-action-pocket-panel =
+    .label = Enrollañ ar bajenn etrezek { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Eilañ an ere
 page-action-copy-url-urlbar =
@@ -172,6 +194,12 @@ page-action-email-link-panel =
     .label = Kas an ere dre bostel…
 page-action-email-link-urlbar =
     .tooltiptext = Kas an ere dre bostel…
+page-action-share-url-panel =
+    .label = Rannañ
+page-action-share-url-urlbar =
+    .tooltiptext = Rannañ
+page-action-share-more-panel =
+    .label = Ouzhpenn...
 page-action-send-tab-not-ready =
     .label = Trevnadoù o c'houbredañ...
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
