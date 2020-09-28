@@ -164,12 +164,48 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Siųsti kortelę į įrenginį
+            [few] Siųsti { $tabCount } kortelių į įrenginį
+           *[other] Siųsti { $tabCount } korteles į įrenginį
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Siųsti kortelę į įrenginį
+            [few] Siųsti { $tabCount } kortelių į įrenginį
+           *[other] Siųsti { $tabCount } korteles į įrenginį
+        }
+page-action-pocket-panel =
+    .label = Įrašyti tinklalapį į „{ -pocket-brand-name }“
+page-action-copy-url-panel =
+    .label = Kopijuoti saitą
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopijuoti saitą
 page-action-email-link-panel =
     .label = Išsiųsti saitą el. paštu…
 page-action-email-link-urlbar =
     .tooltiptext = Išsiųsti saitą el. paštu…
+page-action-share-url-panel =
+    .label = Dalintis
+page-action-share-url-urlbar =
+    .tooltiptext = Dalintis
+page-action-share-more-panel =
+    .label = Daugiau…
 page-action-send-tab-not-ready =
     .label = Sinchronizuojami įrenginiai…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Įsegti kortelę
+page-action-pin-tab-urlbar =
+    .tooltiptext = Įsegti kortelę
 page-action-unpin-tab-panel =
     .label = Išsegti kortelę
 page-action-unpin-tab-urlbar =
