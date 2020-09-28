@@ -568,6 +568,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Nastajenja za druhe namjety adresoweho pola změnić
 search-suggestions-cant-show = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
 search-one-click-header = Pytawy z jednym kliknjenjom
+search-one-click-header2 = Pytanske skrótšenki
 search-one-click-desc = Wubjerće alternatiwne pytawy, kotrež so pod adresowym polom a pytanskim polom jewja, hdyž klučowe słowo zapodawaće.
 search-choose-engine-column =
     .label = Pytawa
