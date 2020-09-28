@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-graphics-desktop-zooming =
     .label = Grafikk: Jevn knipeskalering
 experimental-features-graphics-desktop-zooming-description = Aktiver støtte for jevn knipeskalering med berøringsskjermer og presisjonsstyreplate.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Aktiver Warp, et prosjekt for å forbedre JavaScript-ytelse og minnebruk.
