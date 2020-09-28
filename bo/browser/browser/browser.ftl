@@ -142,6 +142,43 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Remove from Address Bar
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = ཡན་ལག་ངོས་{ $tabCount }་སྒྲིག་ཆས་ཐོག་ཏུ་སྐུར
+page-action-send-tabs-urlbar =
+    .tooltiptext = ཡན་ལག་ངོས་{ $tabCount }་སྒྲིག་ཆས་ཐོག་ཏུ་སྐུར
+page-action-copy-url-panel =
+    .label = སྦྲེལ་ཐག་འདྲ་བཤུ
+page-action-copy-url-urlbar =
+    .tooltiptext = སྦྲེལ་ཐག་འདྲ་བཤུ
+page-action-email-link-panel =
+    .label = གློག་ཡིག་བརྒྱུད་ནས་སྦྲེལ་ཐག་སྐུར་བ…
+page-action-email-link-urlbar =
+    .tooltiptext = གློག་ཡིག་བརྒྱུད་ནས་སྦྲེལ་ཐག་སྐུར་བ…
+page-action-share-url-panel =
+    .label = Share
+page-action-share-url-urlbar =
+    .tooltiptext = Share
+page-action-share-more-panel =
+    .label = More…
+page-action-send-tab-not-ready =
+    .label = Syncing Devices…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = ཡན་ལག་ངོས་གཏན་བཞག་བྱེད
+page-action-pin-tab-urlbar =
+    .tooltiptext = ཡན་ལག་ངོས་གཏན་བཞག་བྱེད
+page-action-unpin-tab-panel =
+    .label = ཡན་ལག་ངོས་གཏན་བཞག་མི་བྱེད
+page-action-unpin-tab-urlbar =
+    .tooltiptext = ཡན་ལག་ངོས་གཏན་བཞག་མི་བྱེད
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
