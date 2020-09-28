@@ -223,10 +223,19 @@ expiry-open-key-properties = Anahtar özelliklerini aç
 # Strings filters.jsm
 filter-folder-required = Bir hedef klasör seçmelisiniz.
 filter-key-required = Bir alıcı anahtarı seçmelisiniz.
+filter-encrypt-label = Anahtara şifrele (OpenPGP)
 import-info-bits = Bit
 import-info-fpr = Parmak izi
+import-info-no-keys = İçe aktarılmış anahtar yok.
+# Strings in enigmailKeyManager.js
+import-from-clip = Panodan bazı anahtarları içe aktarmak istiyor musunuz?
+copy-to-clipbrd-failed = Seçilen anahtar(lar) panoya kopyalanamadı.
 copy-to-clipbrd-ok = Anahtar(lar) panoya kopyalandı
+delete-selected-pub-key = Ortak anahtarları silmek istiyor musunuz?
+key-man-loading-keys = Anahtarlar yükleniyor, lütfen bekleyin…
 save-keys-ok = Anahtarlar başarıyla kaydedildi
+save-keys-failed = Anahtarların kaydedilmesi başarısız oldu
+preview-failed = Ortak anahtar dosyası okunamıyor.
 general-error = Hata: { $reason }
 dlg-button-delete = &Sil
 
@@ -234,6 +243,7 @@ dlg-button-delete = &Sil
 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotoğraf
+openpgp-key-revoke-success = Anahtar başarıyla iptal edildi.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &İçe aktar
 delete-key-title = OpenPGP anahtarını sil
