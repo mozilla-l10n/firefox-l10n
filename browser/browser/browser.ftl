@@ -164,6 +164,14 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = Gửi { $tabCount } thẻ đến thiết bị
+page-action-send-tabs-urlbar =
+    .tooltiptext = Gửi { $tabCount } thẻ đến thiết bị
+page-action-pocket-panel =
+    .label = Lưu trang vào { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Sao chép liên kết
 page-action-copy-url-urlbar =
@@ -176,6 +184,8 @@ page-action-share-url-panel =
     .label = Chia sẻ
 page-action-share-url-urlbar =
     .tooltiptext = Chia sẻ
+page-action-share-more-panel =
+    .label = Thêm…
 page-action-send-tab-not-ready =
     .label = Đang đồng bộ các thiết bị…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
