@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = შრიფტები
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = შრიფტები
     .accesskey = შ
-
 fonts-langgroup-arabic =
     .label = არაბული
 fonts-langgroup-armenian =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = იერსახე
     .accesskey = ი
-
 fonts-default-serif =
     .label = ნაჭდევებიანი
 fonts-default-sans-serif =
     .label = უნაჭდევო
-
 fonts-proportional-size = ზომა
     .accesskey = ზ
-
 fonts-serif = ნაჭდევებიანი
     .accesskey = ნ
-
 fonts-sans-serif = უნაჭდევო
     .accesskey = ე
-
 fonts-monospace = თანაბარი სიგანის
     .accesskey = თ
-
 fonts-monospace-size = ზომა
     .accesskey = ო
-
 fonts-minsize = შრიფტის უმცირესი ზომა
     .accesskey = უ
-
 fonts-minsize-none =
     .label = შეუზღუდავი
-
 fonts-allow-own =
     .label = ნების დართვა ვებგვერდებისთვის, თავად აირჩიოს შრიფტები, ზემოთ მითითებულის მიუხედავად
     .accesskey = ნ
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ტექსტის კოდირება მოძველებული შიგთავსითვის
 fonts-languages-fallback-desc = ეს კოდირება გამოიყენება მოძველებული შიგთავსისთვის, რომელიც თავის კოდირებას ვერ უთითებს.
-
 fonts-languages-fallback-label = ტექსტის სათადარიგო კოდირება
     .accesskey = თ
-
 fonts-languages-fallback-name-auto =
     .label = არჩეული ენისთვის ნაგულისხმევი
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = ვიეტნამური
 fonts-languages-fallback-name-other =
     .label = სხვა (მათ შორის დასავლეთ ევროპული)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
