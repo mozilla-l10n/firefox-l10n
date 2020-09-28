@@ -172,6 +172,10 @@ page-action-email-link-panel =
     .label = i-Email ang Link…
 page-action-email-link-urlbar =
     .tooltiptext = i-Email ang Link…
+page-action-share-url-panel =
+    .label = Ibahagi
+page-action-share-url-urlbar =
+    .tooltiptext = Ibahagi
 page-action-send-tab-not-ready =
     .label = Nag-sysync ng Devices…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
