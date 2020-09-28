@@ -151,6 +151,21 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Scancella estenscion
 
+## Page Action menu
+
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Apendi feuggio
+page-action-pin-tab-urlbar =
+    .tooltiptext = Apendi feuggio
+page-action-unpin-tab-panel =
+    .label = Tia zu feuggio
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Tia zu feuggio
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
