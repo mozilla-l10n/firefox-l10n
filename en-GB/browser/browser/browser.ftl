@@ -178,6 +178,8 @@ page-action-send-tabs-urlbar =
             [one] Send Tab to Device
            *[other] Send { $tabCount } Tabs to Device
         }
+page-action-pocket-panel =
+    .label = Save Page to { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copy Link
 page-action-copy-url-urlbar =
