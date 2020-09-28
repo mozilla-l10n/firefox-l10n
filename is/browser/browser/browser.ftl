@@ -154,6 +154,10 @@ page-action-email-link-panel =
     .label = Senda tengil…
 page-action-email-link-urlbar =
     .tooltiptext = Senda tengil…
+page-action-share-url-panel =
+    .label = Deila
+page-action-share-url-urlbar =
+    .tooltiptext = Deila
 page-action-send-tab-not-ready =
     .label = Samstilli tæki…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
