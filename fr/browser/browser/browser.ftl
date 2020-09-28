@@ -164,10 +164,34 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Envoyer l’onglet à un appareil
+           *[other] Envoyer { $tabCount } onglets à un appareil
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Envoyer l’onglet à un appareil
+           *[other] Envoyer { $tabCount } onglets à un appareil
+        }
+page-action-pocket-panel =
+    .label = Enregistrer la page dans { -pocket-brand-name }
 page-action-email-link-panel =
     .label = Envoyer par courriel un lien vers la page…
 page-action-email-link-urlbar =
     .tooltiptext = Envoyer par courriel un lien vers la page…
+page-action-share-url-panel =
+    .label = Partager
+page-action-share-url-urlbar =
+    .tooltiptext = Partager
+page-action-share-more-panel =
+    .label = Plus…
+page-action-send-tab-not-ready =
+    .label = Synchronisation des appareils…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
