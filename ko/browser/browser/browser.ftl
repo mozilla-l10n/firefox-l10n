@@ -164,6 +164,12 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = 탭 { $tabCount }개를 기기로 보내기
+page-action-send-tabs-urlbar =
+    .tooltiptext = 탭 { $tabCount }개를 기기로 보내기
 page-action-pocket-panel =
     .label = 페이지를 { -pocket-brand-name }에 저장
 page-action-copy-url-panel =
@@ -190,6 +196,10 @@ page-action-pin-tab-panel =
     .label = 탭 고정
 page-action-pin-tab-urlbar =
     .tooltiptext = 탭 고정
+page-action-unpin-tab-panel =
+    .label = 탭 고정 해제
+page-action-unpin-tab-urlbar =
+    .tooltiptext = 탭 고정 해제
 
 ## Auto-hide Context Menu
 
