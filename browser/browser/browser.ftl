@@ -169,6 +169,14 @@ page-action-send-tabs-urlbar =
         }
 page-action-pocket-panel =
     .label = Sarva pagina in { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Còpia colegamento
+page-action-copy-url-urlbar =
+    .tooltiptext = Còpia colegamento
+page-action-email-link-panel =
+    .label = Manda colegamento pe pòsta…
+page-action-email-link-urlbar =
+    .tooltiptext = Manda colegamento pe pòsta…
 page-action-share-url-panel =
     .label = Condividdi
 page-action-share-url-urlbar =
