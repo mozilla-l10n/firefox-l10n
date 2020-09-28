@@ -91,6 +91,13 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 
+## Page Action menu
+
+page-action-unpin-tab-panel =
+    .label = टैबक पिन निकालू
+page-action-unpin-tab-urlbar =
+    .tooltiptext = टैबक पिन निकालू
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
