@@ -192,6 +192,8 @@ page-action-share-url-panel =
     .label = Jaa
 page-action-share-url-urlbar =
     .tooltiptext = Jaa
+page-action-share-more-panel =
+    .label = Lisää…
 page-action-send-tab-not-ready =
     .label = Synkronoidaan laitteita…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
