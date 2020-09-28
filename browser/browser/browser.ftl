@@ -144,6 +144,37 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Eemalda aadressiribalt
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Saada kaart seadmesse
+           *[other] Saada { $tabCount } kaarti seadmesse
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Saada kaart seadmesse
+           *[other] Saada { $tabCount } kaarti seadmesse
+        }
+page-action-pocket-panel =
+    .label = Salvesta leht { -pocket-brand-name }isse
+page-action-copy-url-panel =
+    .label = Kopeeri link
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopeeri link
+page-action-share-url-panel =
+    .label = Jaga
+page-action-share-url-urlbar =
+    .tooltiptext = Jaga
+page-action-share-more-panel =
+    .label = Veel…
+page-action-send-tab-not-ready =
+    .label = Seadmeid sünkroniseeritakse…
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
