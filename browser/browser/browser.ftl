@@ -164,6 +164,16 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label = 发送 { $tabCount } 个标签页到设备
+page-action-send-tabs-urlbar =
+    .tooltiptext = 发送 { $tabCount } 个标签页到设备
+page-action-copy-url-panel =
+    .label = 复制链接
+page-action-copy-url-urlbar =
+    .tooltiptext = 复制链接
 page-action-email-link-panel =
     .label = 用邮件发送链接…
 page-action-email-link-urlbar =
