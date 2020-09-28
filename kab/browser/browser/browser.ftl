@@ -178,6 +178,8 @@ page-action-send-tabs-urlbar =
             [one] Azen iccer ɣer yibenk
            *[other] Azen { $tabCount } waccaren ɣer yibenk
         }
+page-action-pocket-panel =
+    .label = Sekles asebter ɣer { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Nɣel aseɣwen
 page-action-copy-url-urlbar =
