@@ -141,6 +141,12 @@ page-action-email-link-panel =
     .label = විද්‍යුත් තැපැල් සබැඳිය
 page-action-email-link-urlbar =
     .tooltiptext = විද්‍යුත් තැපැල් සබැඳිය
+page-action-share-url-panel =
+    .label = බෙදාගන්න
+page-action-share-url-urlbar =
+    .tooltiptext = බෙදාගන්න
+page-action-share-more-panel =
+    .label = තවත්…
 page-action-send-tab-not-ready =
     .label = උපාංග සමමුහුර්ත කරමින්…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
