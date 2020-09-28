@@ -180,10 +180,20 @@ page-action-send-tabs-urlbar =
             [few] Отправить { $tabCount } вкладки на устройство
            *[many] Отправить { $tabCount } вкладок на устройство
         }
+page-action-pocket-panel =
+    .label = Сохранить страницу в { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Копировать ссылку
+page-action-copy-url-urlbar =
+    .tooltiptext = Копировать ссылку
 page-action-email-link-panel =
     .label = Отправить ссылку по почте…
 page-action-email-link-urlbar =
     .tooltiptext = Отправить ссылку по почте…
+page-action-share-url-panel =
+    .label = Поделиться
+page-action-share-url-urlbar =
+    .tooltiptext = Поделиться
 page-action-share-more-panel =
     .label = Ещё…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
