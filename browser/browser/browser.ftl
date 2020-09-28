@@ -164,12 +164,54 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } rejtarik na rěd pósłaś
+            [two] { $tabCount } rejtarika na rěd pósłaś
+            [few] { $tabCount } rejtariki na rěd pósłaś
+           *[other] { $tabCount } rejtarikow na rěd pósłaś
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] { $tabCount } rejtarik na rěd pósłaś
+            [two] { $tabCount } rejtarika na rěd pósłaś
+            [few] { $tabCount } rejtariki na rěd pósłaś
+           *[other] { $tabCount } rejtarikow na rěd pósłaś
+        }
+page-action-pocket-panel =
+    .label = Bok do { -pocket-brand-name } składowaś
+page-action-copy-url-panel =
+    .label = Wótkaz kopěrowaś
+page-action-copy-url-urlbar =
+    .tooltiptext = Wótkaz kopěrowaś
 page-action-email-link-panel =
     .label = Wótkaz e-mailowaś…
 page-action-email-link-urlbar =
     .tooltiptext = Wótkaz e-mailowaś…
+page-action-share-url-panel =
+    .label = Źěliś
+page-action-share-url-urlbar =
+    .tooltiptext = Źěliś
+page-action-share-more-panel =
+    .label = Wěcej…
 page-action-send-tab-not-ready =
     .label = Rědy se synchronizěruju…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Rejtarik pśipěś
+page-action-pin-tab-urlbar =
+    .tooltiptext = Rejtarik pśipěś
+page-action-unpin-tab-panel =
+    .label = Rejtarik wótpěś
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Rejtarik wótpěś
 
 ## Auto-hide Context Menu
 
