@@ -57,7 +57,7 @@ import-migrating-page-title = Ini-import...
 import-migrating-description = Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat
 import-select-profile-page-title = Piliin ang Profile
 import-select-profile-description = Ang mga sumusunod na mga profile ay pweden i-import mula sa:
-import-done-page-title = Nakumpleto na ang Pag-angkat
+import-done-page-title = Kumpleto na ang Pag-angkat
 import-done-description = Ang mga sumusunod na mga bagay ay matagumpay na naiangkat :
 import-close-source-browser = Siguruhing ang piniling browser ay nakasara bago magpatuloy.
 # Displays which browser the bookmarks are being imported from

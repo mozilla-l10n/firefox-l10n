@@ -47,7 +47,7 @@
 <!ENTITY selectProfile.title            "Piliin ang Profile">
 <!ENTITY selectProfile.label            "Ang mga sumusunod na mga profile ay pweden i-import mula sa:">
 
-<!ENTITY done.title                     "Nakumpleto na ang Pag-angkat">
+<!ENTITY done.title                     "Kumpleto na ang Pag-angkat">
 <!ENTITY done.label                     "Ang mga sumusunod na mga bagay ay matagumpay na naiangkat :">
 
 <!ENTITY closeSourceBrowser.label       "Siguruhing ang piniling browser ay nakasara bago magpatuloy.">
