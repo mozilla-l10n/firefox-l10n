@@ -19,6 +19,7 @@
 <!ENTITY accountManager.noAccount.title      "Aínda non configurou ningunha conta">
 <!ENTITY accountManager.noAccount.description "Prema no botón &accountManager.newAccount.label; para permitir que &brandShortName; o guíe no proceso de configuración.">
 <!ENTITY account.autoSignOn.label     "Identificarse ao iniciar">
+<!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Conectar">
 <!ENTITY account.connect.accesskey    "o">
 <!ENTITY account.disconnect.label     "Desconectar">
