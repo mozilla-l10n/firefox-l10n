@@ -162,6 +162,17 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Pašalinti priedą
 
+## Page Action menu
+
+page-action-email-link-panel =
+    .label = Išsiųsti saitą el. paštu…
+page-action-email-link-urlbar =
+    .tooltiptext = Išsiųsti saitą el. paštu…
+page-action-unpin-tab-panel =
+    .label = Išsegti kortelę
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Išsegti kortelę
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
