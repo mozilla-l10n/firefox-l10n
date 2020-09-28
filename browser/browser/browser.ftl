@@ -164,6 +164,12 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = Spara sida till { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Kopiera länk
+page-action-copy-url-urlbar =
+    .tooltiptext = Kopiera länk
 page-action-email-link-panel =
     .label = E-posta länk…
 page-action-email-link-urlbar =
