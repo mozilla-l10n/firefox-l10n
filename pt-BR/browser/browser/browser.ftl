@@ -178,6 +178,10 @@ page-action-send-tabs-urlbar =
             [one] Enviar aba para dispositivo
            *[other] Enviar { $tabCount } abas para dispositivo
         }
+page-action-copy-url-panel =
+    .label = Copiar link
+page-action-copy-url-urlbar =
+    .tooltiptext = Copiar link
 page-action-email-link-panel =
     .label = Enviar link por e-mail…
 page-action-email-link-urlbar =
