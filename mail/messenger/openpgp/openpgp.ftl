@@ -291,8 +291,15 @@ expiry-open-key-manager = Buka Manajer Kunci OpenPGP
 expiry-open-key-properties = Buka Properti Kunci
 # Strings filters.jsm
 filter-folder-required = Anda harus memilih folder target.
+filter-decrypt-move-warn-experimental =
+    Peringatan - tindakan filter "Dekripsi secara permanen" dapat menyebabkan pesan rusak.
+    Kami sangat menganjurkan agar Anda terlebih dahulu mencoba filter "Buat Salinan yang didekripsi", uji hasilnya dengan cermat, dan hanya mulai gunakan filter ini setelah Anda puas dengan hasilnya.
 filter-term-pgpencrypted-label = Dienkripsi OpenPGP
 filter-key-required = Anda harus memilih kunci penerima.
+filter-key-not-found = Tidak dapat menemukan kunci enkripsi untuk '{ $desc }'.
+filter-warn-key-not-secret =
+    Peringatan - tindakan filter "Enkripsi ke kunci" menggantikan penerima.
+    Jika Anda tidak memiliki kunci rahasia untuk '{ $desc }' Anda tidak dapat lagi membaca surel itu.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekripsi secara permanen (OpenPGP)
 filter-decrypt-copy-label = Buat Salinan yang didekripsi (OpenPGP)
@@ -304,6 +311,12 @@ import-info-bits = Bit
 import-info-created = Dibuat
 import-info-fpr = Sidik Jari
 import-info-details = Lihat Rincian dan kelola penerimaan kunci
+import-info-no-keys = Tidak ada kunci yang diimpor.
+# Strings in enigmailKeyManager.js
+import-from-clip = Apakah Anda ingin mengimpor beberapa kunci dari papan klip?
+import-from-url = Unduh kunci publik dari URL ini:
+copy-to-clipbrd-failed = Tidak dapat menyalin kunci yang dipilih ke papan klip.
+copy-to-clipbrd-ok = Kunci disalin ke papan klip
 
 ## Account settings export output
 
