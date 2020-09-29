@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "הדבק ללא עיצוב">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "הדבק בצורת">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "הדבק כציטוט">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -54,6 +52,7 @@
 <!ENTITY editLinkCmd.accesskey "C">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "גופן">
 <!ENTITY FontFaceSelect.tooltip "בחר גופן">
 <!ENTITY fontfaceMenu.label "גופן">
 <!ENTITY fontfaceMenu.accesskey "ג">
@@ -70,6 +69,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "גודל גופן">
 <!ENTITY FontSizeSelect.tooltip "בחר גודל גופן">
 <!ENTITY decreaseFontSize.label "קטן יותר">
 <!ENTITY decreaseFontSize.accesskey "ק">
@@ -180,6 +180,7 @@
 <!ENTITY listPropsCmd.label "מאפייני רשימה...">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "פסקה">
 <!ENTITY ParagraphSelect.tooltip "בחר תבנית פסקה">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "טקסט גוף">
@@ -205,6 +206,7 @@
 <!ENTITY alignJustify.tooltip "מיושר משני הצדדים">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "מיקום">
 <!ENTITY layer.tooltip "שכבה">
 <!ENTITY layerSendToBack.tooltip "העבר לרקע">
 <!ENTITY layerBringToFront.tooltip "הבא לקידמה">
@@ -288,8 +290,6 @@
 <!ENTITY cutToolbarCmd.tooltip "גזירה">
 <!ENTITY copyToolbarCmd.tooltip "העתקה">
 <!ENTITY pasteToolbarCmd.tooltip "הדבקה">
-<!ENTITY printToolbarCmd.label "הדפסה">
-<!ENTITY printToolbarCmd.tooltip "הדפס דף זה">
 <!ENTITY findToolbarCmd.label "מצא">
 <!ENTITY findToolbarCmd.tooltip "מצא טקסט בדף">
 <!ENTITY spellToolbarCmd.label "איות">
@@ -304,26 +304,37 @@
 <!ENTITY linkToolbarCmd.tooltip "הכנס קישור חדש או ערוך מאפייני קישור נבחר">
 <!ENTITY anchorToolbarCmd.label "עוגן">
 <!ENTITY anchorToolbarCmd.tooltip "הכנס עוגן חדש או ערוך מאפייני עוגן נבחר">
+<!ENTITY colorButtons.title "צבעים">
 <!ENTITY TextColorButton.tooltip "בחר צבע לטקסט">
 <!ENTITY BackgroundColorButton.tooltip "בחר צבע לרקע">
-<!ENTITY throbber.tooltip "לך לעמוד הבית של &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "בחר צבע הדגשה לטקסט">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "גודל גופן">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "הגדרת גודל גופן">
+<!ENTITY smaller.label "קטן יותר">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "גודל גופן קטן יותר">
+<!ENTITY larger.label "גדול יותר">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "גודל גופן גדול יותר">
+<!ENTITY bold.label "מודגש">
 <!ENTITY boldToolbarCmd.tooltip "מודגש">
+<!ENTITY italic.label "נטוי">
 <!ENTITY italicToolbarCmd.tooltip "נטוי">
+<!ENTITY underline.label "קו תחתון">
 <!ENTITY underlineToolbarCmd.tooltip "קו תחתי">
+<!ENTITY bullets.label "תבליטים">
 <!ENTITY bulletListToolbarCmd.tooltip "הפעל או הסר רשימה מובלטת">
+<!ENTITY numbers.label "מספרים">
 <!ENTITY numberListToolbarCmd.tooltip "הפעל או הסר רשימה ממוספרת">
 <!ENTITY outdentToolbarCmd.tooltip "הוצא טקסט (הזז שמאל)">
 <!ENTITY indentToolbarCmd.tooltip "הכנס טקסט (הזז ימינה)">
 <!ENTITY AlignPopupButton.tooltip "בחר יישור טקסט">
 <!ENTITY InsertPopupButton.tooltip "הכנס קישור, עוגן, תמונה, קו אופקי, או טבלה">
+<!ENTITY alignLeftButton.label "יישור לשמאל">
 <!ENTITY alignLeftButton.tooltip "ישר טקסט לפי שוליים שמאליים">
+<!ENTITY alignCenterButton.label "יישור למרכז">
 <!ENTITY alignCenterButton.tooltip "ישר טקסט למרכז">
+<!ENTITY alignRightButton.label "יישור לימין">
 <!ENTITY alignRightButton.tooltip "ישר טקסט לפי שוליים ימניים">
 <!ENTITY alignJustifyButton.tooltip "ישר טקסט לפי שוליים שמאליים וימניים">
 
