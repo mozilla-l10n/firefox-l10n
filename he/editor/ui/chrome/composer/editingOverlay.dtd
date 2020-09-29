@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "פתיחת קובץ מקומי">
 <!ENTITY saveToolbarCmd.tooltip "שמירת קובץ למיקום מקומי">
 <!ENTITY publishToolbarCmd.tooltip "העלאת קובץ למיקום מרוחק">
+<!ENTITY printToolbarCmd.label "הדפסה">
+<!ENTITY printToolbarCmd.tooltip "הדפסת דף זה">
