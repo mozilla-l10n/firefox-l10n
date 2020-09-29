@@ -44,7 +44,7 @@
 <!ENTITY col.name.label          "Назва">
 <!ENTITY col.tags.label          "Тэгі">
 <!ENTITY col.url.label           "Адрас">
-<!ENTITY col.mostrecentvisit.label "Найбольш наведвальныя">
+<!ENTITY col.mostrecentvisit.label "Апошні візіт">
 <!ENTITY col.visitcount.label    "Колькасць наведванняў">
 <!ENTITY col.dateadded.label     "Дададзена">
 <!ENTITY col.lastmodified.label  "Апошняе змяненне">
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Пайсці наперад">
 
 <!ENTITY detailsPane.selectAnItemText.description "Выбар элемента для прагляду і праўкі яго ўласцівасцяў">
-
