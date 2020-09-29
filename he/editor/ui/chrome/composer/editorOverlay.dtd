@@ -70,41 +70,41 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.title "גודל גופן">
-<!ENTITY FontSizeSelect.tooltip "בחר גודל גופן">
+<!ENTITY FontSizeSelect.tooltip "בחירת גודל גופן">
 <!ENTITY decreaseFontSize.label "קטן יותר">
 <!ENTITY decreaseFontSize.accesskey "ק">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "גדול יותר">
-<!ENTITY increaseFontSize.accesskey "g">
+<!ENTITY increaseFontSize.accesskey "ד">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "גודל ">
-<!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY fontSizeMenu.label "גודל">
+<!ENTITY fontSizeMenu.accesskey "ג">
 <!ENTITY size-tinyCmd.label "קטן מאוד">
-<!ENTITY size-tinyCmd.accesskey "ז">
+<!ENTITY size-tinyCmd.accesskey "ט">
 <!ENTITY size-smallCmd.label "קטן">
-<!ENTITY size-smallCmd.accesskey "s">
+<!ENTITY size-smallCmd.accesskey "ק">
 <!ENTITY size-mediumCmd.label "בינוני">
-<!ENTITY size-mediumCmd.accesskey "d">
+<!ENTITY size-mediumCmd.accesskey "ב">
 <!ENTITY size-largeCmd.label "גדול">
-<!ENTITY size-largeCmd.accesskey "l">
+<!ENTITY size-largeCmd.accesskey "ג">
 <!ENTITY size-extraLargeCmd.label "גדול מאוד">
-<!ENTITY size-extraLargeCmd.accesskey "ג">
+<!ENTITY size-extraLargeCmd.accesskey "ד">
 <!ENTITY size-hugeCmd.label "ענק">
 <!ENTITY size-hugeCmd.accesskey "ע">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "סגנון טקסט">
-<!ENTITY fontStyleMenu.accesskey "s">
+<!ENTITY fontStyleMenu.accesskey "ס">
 <!ENTITY styleBoldCmd.label "מודגש">
 <!ENTITY styleBoldCmd.accesskey "b">
 <!ENTITY styleBoldCmd.key "b">
 <!ENTITY styleItalicCmd.label "נטוי">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "i">
-<!ENTITY styleUnderlineCmd.label "קו תחתי">
+<!ENTITY styleUnderlineCmd.label "קו תחתון">
 <!ENTITY styleUnderlineCmd.accesskey "u">
 <!ENTITY styleUnderlineCmd.key "u">
 <!ENTITY styleStrikeThruCmd.label "קו חוצה">
