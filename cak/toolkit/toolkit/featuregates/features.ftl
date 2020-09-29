@@ -91,3 +91,6 @@ experimental-features-devtools-serviceworker-debugger-support-description = Nutz
 experimental-features-graphics-desktop-zooming =
     .label = Graphics: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = Nitzij ri tob'äl richin eqal ninimirisäx toq nachäp ri chapel taq ruwa chuqa' ajchapöy pads.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
