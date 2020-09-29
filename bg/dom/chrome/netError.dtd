@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Търсеният адрес съдържа порт (напр. <q>mozilla.org:80</q> за порт 80 на mozilla.org), който обикновено се използва за цели, <em>различни</em> от разглеждане. От съображения за сигурност четецът прекъсна заявката.</p>">
 
 <!ENTITY dnsNotFound.title "Адресът не е намерен">
-<!ENTITY dnsNotFound.longDesc "<p>На този адрес не беше намерен сървър.</p>
+<!ENTITY dnsNotFound.longDesc "<p>На този адрес не е намерен сървър.</p>
 <ul>
   <li>Възможно е да сте направили грешка при въвеждане на домейна, напр. <q><strong>ww</strong>.mozilla.org</q> вместо <q><strong>www</strong>.mozilla.org</q>)</li>
   <li>Сигурни ли сте, че има такъв домейн? Възможно е регистрацията му да е изтекла.</li>
@@ -65,7 +65,7 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, уведомете собствениците на страницата за проблема.</li> </ul>">
 
 <!ENTITY netReset.title "Връзката е прекъсната">
-<!ENTITY netReset.longDesc "<p>Мрежовата връзка беше прекъсната. Моля, опитайте отново.</p>">
+<!ENTITY netReset.longDesc "<p>Връзка е прекъсната по време на свързване. Моля, опитайте отново.</p>">
 
 <!ENTITY netTimeout.title "Просрочено време">
 <!ENTITY netTimeout.longDesc "<p>Страницата не отговаря на заявките за свързване и четецът спря да чака отговор.</p>
@@ -112,6 +112,7 @@
 
 <!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>Четецът предотврати зареждането на страницата по този начин, защото тя има политика за сигурност, която го забранява.</p>">
+
 
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul>">
