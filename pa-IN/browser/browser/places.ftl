@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = P
-
 places-new-bookmark =
     .label = …ਨਵਾਂ ਬੁੱਕਮਾਰਕ
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = ਨਵਾਂ ਵੱਖਰੇਵਾਂ
     .accesskey = S
-
 places-view =
     .label = ਵੇਖੋ
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ਮਿਤੀ ਤੇ ਸਮੇਂ
     .accesskey = t
-
 places-history-search =
     .placeholder = ਅਤੀਤ ਖੋਜੋ
 places-bookmarks-search =
     .placeholder = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
-
 places-delete-domain-data =
     .label = ਇਹ ਸਾਈਟ ਨੂੰ ਭੁੱਲ ਜਾਓ
     .accesskey = F
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = ਵਿਸ਼ੇਸ਼ਤਾ
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = ਇੰਤਜ਼ਾਮ ਕੀਤੇ ਬੁੱਕਮਾਰਕਾਂ
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = ਅਧੀਨ-ਫੋਲਡਰ
