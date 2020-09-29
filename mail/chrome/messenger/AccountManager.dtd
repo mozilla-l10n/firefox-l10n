@@ -4,7 +4,7 @@
 
 <!-- extracted from AccountManager.xhtml -->
 
-<!ENTITY accountManagerTitle.label "Configurar contas">
+<!ENTITY accountManagerTitle.label "Configurações da conta">
 <!ENTITY  accountManagerCloseButton.label "Fechar">
 
 <!ENTITY accountActionsButton.label "Ações de contas">
