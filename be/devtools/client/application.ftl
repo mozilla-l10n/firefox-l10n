@@ -56,7 +56,7 @@ serviceworker-worker-status-running = Выконваецца
 serviceworker-worker-status-stopped = Спынены
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Каб інспектаваць Service Worker тут, яго трэба зарэгістраваць. <a>Даведацца больш</a>
+serviceworker-empty-intro = Каб даследаваць Service Worker тут, яго трэба зарэгістраваць. <a>Даведацца больш</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Калі гэта старонка павінна мець service worker, вы можаце паспрабаваць наступнае
@@ -68,7 +68,7 @@ serviceworker-empty-suggestions-console = Праверыць наяўнасць 
 serviceworker-empty-suggestions-debugger = Прайсці праз рэгістрацыю вашага Service Worker і праверыць выключэнні. <a>Адкрыць Адладчык</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Інспектаваць Service Workers з іншых даменаў. <a>Адкрыць about:debugging</a>
+serviceworker-empty-suggestions-aboutdebugging = Даследуйце Service Workers з іншых даменаў. <a>Адкрыць about:debugging</a>
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Service workers не знойдзены
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
