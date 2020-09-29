@@ -10,13 +10,14 @@
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "בכדי לקבל הודעות, עליך להגדיר חשבון תחילה.">
-<!ENTITY accountTypeTitle.label "התקנת חשבון חדש">
+<!ENTITY accountTypeTitle.label "הגדרת חשבון חדש">
 <!ENTITY accountTypeDesc2.label "אשף זה יאסוף את המידע הנחוץ להגדרת חשבון. אם אינך יודע את המידע המבוקש, נא פנה למנהל המערכת או לספק האינטרנט שלך.">
 <!ENTITY accountTypeDirections.label "בחר בסוג החשבון שברצונך להגדיר:">
 <!ENTITY accountTypeMail.label "חשבון דוא״ל">
 <!ENTITY accountTypeMail.accesskey "ד">
 <!ENTITY accountTypeNews.label "חשבון קבוצות דיון">
 <!ENTITY accountTypeNews.accesskey "ק">
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 
 <!-- Entities for Identity page -->
 

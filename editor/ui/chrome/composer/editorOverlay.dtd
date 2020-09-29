@@ -339,19 +339,19 @@
 <!ENTITY alignJustifyButton.tooltip "ישר טקסט לפי שוליים שמאליים וימניים">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "בחר">
-<!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "הסר תגית">
-<!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "שנה תגית">
-<!ENTITY structChangeTag.accesskey  "c">
+<!ENTITY structSelect.label         "בחירה">
+<!ENTITY structSelect.accesskey     "ב">
+<!ENTITY structRemoveTag.label      "הסרת תגית">
+<!ENTITY structRemoveTag.accesskey  "ס">
+<!ENTITY structChangeTag.label      "שינוי תגית">
+<!ENTITY structChangeTag.accesskey  "ש">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "הוסף">
 <!ENTITY insertTOC.accesskey      "i">
-<!ENTITY updateTOC.label          "עדכן">
-<!ENTITY updateTOC.accesskey      "u">
-<!ENTITY removeTOC.label          "הסר">
-<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY updateTOC.label          "עדכון">
+<!ENTITY updateTOC.accesskey      "ע">
+<!ENTITY removeTOC.label          "הסרה">
+<!ENTITY removeTOC.accesskey      "ה">
 <!ENTITY tocMenu.label            "תוכן עניינים…">
 <!ENTITY tocMenu.accesskey        "b">
