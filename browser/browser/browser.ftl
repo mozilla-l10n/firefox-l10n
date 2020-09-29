@@ -181,7 +181,7 @@ page-action-send-tabs-urlbar =
            *[other] Poslat { $tabCount } panelů do zařízení
         }
 page-action-pocket-panel =
-    .label = Uložit stránku do služby { -pocket-brand-name }
+    .label = Uložit stránku do { -pocket-brand-name(case: "gen") }
 page-action-copy-url-panel =
     .label = Kopírovat odkaz
 page-action-copy-url-urlbar =
@@ -222,7 +222,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Vyhledat pomocí
 # This string won't wrap, so if the translated string is longer,
