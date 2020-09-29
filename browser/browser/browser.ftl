@@ -435,6 +435,9 @@ urlbar-result-action-visit = Apri
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Cerca nei segnalibri
+urlbar-result-action-search-history = Cerca nella cronologia
+urlbar-result-action-search-tabs = Cerca nelle schede
 
 ## Full Screen and Pointer Lock UI
 
