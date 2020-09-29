@@ -248,7 +248,18 @@ openpgp-key-revoke-success = Anahtar başarıyla iptal edildi.
 key-man-button-import = &İçe aktar
 delete-key-title = OpenPGP anahtarını sil
 key-in-use-title = Şu anda kullanılan OpenPGP anahtarı
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Seçtiğiniz işlev çevrimdışı modda kullanılamaz. Lütfen çevrimiçi olun ve tekrar deneyin.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Belirtilen arama ölçütleriyle eşleşen bir anahtar bulamadık.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Hata - Anahtar çıkarma komutu başarısız oldu
+# Strings used in keyRing.jsm
+fail-cancel = Hata - Anahtar alımı kullanıcı tarafından iptal edildi
+not-first-block = Hata - İlk OpenPGP bloku ortak anahtar bloku değil
+fail-key-import = Hata - anahtar içe aktarma başarısız oldu
 file-write-failed = { $output } dosyasına yazılamadı
+no-pgp-block = Hata - Geçerli bir zırhlı OpenPGP veri bloku bulunamadı
 # Strings used in trust.jsm
 key-valid-unknown = bilinmiyor
 key-valid-invalid = geçersiz
@@ -261,6 +272,8 @@ key-trust-full = güvenilir
 key-trust-group = (grup)
 gnupg-file = GnuPG dosyaları
 import-keys-failed = Anahtarlar içe aktarılamadı
+revoke-cert-failed = İptal sertifikası oluşturulamadı.
+gen-going = Anahtar üretimi devam ediyor!
 key-man-button-generate-key = Anahtar &oluştur
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Hata - şifre çözme başarısız oldu
