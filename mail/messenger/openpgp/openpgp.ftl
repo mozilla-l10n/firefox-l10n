@@ -274,17 +274,29 @@ gnupg-file = GnuPG dosyaları
 import-keys-failed = Anahtarlar içe aktarılamadı
 revoke-cert-failed = İptal sertifikası oluşturulamadı.
 gen-going = Anahtar üretimi devam ediyor!
+expiry-too-short = Anahtarınız en az bir gün geçerli olmalıdır.
+expiry-too-long = Süresi 100 yıldan fazla olan bir anahtar oluşturamazsınız.
 key-man-button-generate-key = Anahtar &oluştur
+key-abort = Anahtar üretimi iptal edilsin mi?
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Hata - şifre çözme başarısız oldu
 signature-verify-failed = { $attachment } ekinin imzası doğrulanamadı
 msg-compose-details-button-label = Ayrıntılar…
 msg-compose-details-button-access-key = n
+send-aborted = Gönderme işlemi iptal edildi.
 key-not-found = '{ $key }' anahtarı bulunamadı
 key-revoked = '{ $key }' anahtarı iptal edildi
 key-expired = '{ $key }' anahtarının süresi doldu
 msg-compose-cannot-save-draft = Taslak kaydedilirken hata oluştu
 save-attachment-header = Şifresi çözülmüş eki kaydet
+no-temp-dir =
+    Yazılacak geçici klasör bulunamadı
+    Lütfen TEMP ortam değişkenini ayarlayın
+# Strings used in decryption.jsm
+do-import-multiple =
+    Aşağıdaki anahtarlar içe aktarılsın mı?
+    { $key }
+do-import-one = { $name } ({ $id }) içe aktarılsın mı?
 sig-mismatch = Hata - İmza uyuşmazlığı
 # Strings used in encryption.jsm
 not-required = Hata - şifreleme gerekmiyor
@@ -302,6 +314,10 @@ dlg-button-ok = &Tamam
 dlg-button-close = &Kapat
 dlg-button-cancel = &Vazgeç
 dlg-no-prompt = Bu iletişim kutusunu bir daha gösterme
+enig-prompt = OpenPGP İstemi
+enig-confirm = OpenPGP Onayı
+enig-alert = OpenPGP Uyarısı
+enig-info = OpenPGP Bilgilendirmesi
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Yeniden dene
 dlg-button-skip = &Geç
