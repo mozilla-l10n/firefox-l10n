@@ -8,15 +8,15 @@
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
-<!ENTITY pasteNoFormatting.label "הדבק ללא עיצוב">
+<!ENTITY pasteNoFormatting.label "הדבקה ללא עיצוב">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAsQuotationCmd.label "הדבק כציטוט">
+<!ENTITY pasteAsQuotationCmd.label "הדבקה כציטוט">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "חיפוש…">
 <!ENTITY findReplaceCmd.label "חיפוש והחלפה…">
-<!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
+<!ENTITY enableInlineSpellChecker.label "בדיקת איות תוך כדי הקלדה">
 <!ENTITY enableInlineSpellChecker.accesskey "ב">
 <!ENTITY checkSpellingCmd2.label "בדיקת איות">
 <!ENTITY checkSpellingCmd2.accesskey "ב">
@@ -46,14 +46,14 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY createLinkCmd.label "צור קישור...">
+<!ENTITY createLinkCmd.label "יצירת קישור…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "ערוך קישור ב־Composer חדש">
 <!ENTITY editLinkCmd.accesskey "C">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.title "גופן">
-<!ENTITY FontFaceSelect.tooltip "בחר גופן">
+<!ENTITY FontFaceSelect.tooltip "בחירת גופן">
 <!ENTITY fontfaceMenu.label "גופן">
 <!ENTITY fontfaceMenu.accesskey "ג">
 <!ENTITY fontVarWidth.label "רוחב משתנה">
