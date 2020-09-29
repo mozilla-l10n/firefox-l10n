@@ -277,12 +277,33 @@ keyserver-error-unavailable = Server kunci tidak tersedia.
 keyserver-error-security-error = Server kunci tidak mendukung akses terenkripsi.
 keyserver-error-certificate-error = Sertifikat server kunci tidak valid.
 keyserver-error-unsupported = Server kunci tidak didukung.
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritme penandatanganan tidak diketahui (ID: { $id })
+unknown-hash-alg = Hash kriptografi tidak diketahui (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Kunci Anda { $desc } akan kedaluwarsa dalam waktu kurang dari { $days } hari.
+    Kami menyarankan Anda untuk membuat pasangan kunci baru dan mengkonfigurasi akun yang sesuai untuk menggunakannya.
+expiry-keys-expire-soon =
+    Kunci Anda berikut akan kedaluwarsa dalam waktu kurang dari { $days } hari: { $desc }.
+    Kami menyarankan Anda membuat kunci baru dan mengkonfigurasi akun yang sesuai untuk menggunakannya.
 expiry-open-key-manager = Buka Manajer Kunci OpenPGP
 expiry-open-key-properties = Buka Properti Kunci
 # Strings filters.jsm
 filter-folder-required = Anda harus memilih folder target.
 filter-term-pgpencrypted-label = Dienkripsi OpenPGP
 filter-key-required = Anda harus memilih kunci penerima.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dekripsi secara permanen (OpenPGP)
+filter-decrypt-copy-label = Buat Salinan yang didekripsi (OpenPGP)
+filter-encrypt-label = Enkripsi ke kunci (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Sukses! Kunci diimpor
+import-info-bits = Bit
+import-info-created = Dibuat
+import-info-fpr = Sidik Jari
+import-info-details = Lihat Rincian dan kelola penerimaan kunci
 
 ## Account settings export output
 
