@@ -280,6 +280,18 @@ keyserver-error-unavailable = Server kunci tidak tersedia.
 keyserver-error-security-error = Server kunci tidak mendukung akses terenkripsi.
 keyserver-error-certificate-error = Sertifikat server kunci tidak valid.
 keyserver-error-unsupported = Server kunci tidak didukung.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Penyedia surel Anda telah memproses permintaan Anda untuk mengunggah kunci publik Anda ke OpenPGP Web Key Directory.
+    Harap konfirmasi untuk menyelesaikan penerbitan kunci publik Anda.
+wkd-message-body-process =
+    Ini adalah surel yang terkait dengan pemrosesan otomatis untuk mengunggah kunci publik Anda ke OpenPGP Web Key Directory.
+    Anda tidak perlu melakukan tindakan manual apa pun pada saat ini.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Tidak dapat mendekripsi pesan dengan subjek
+    { $subject }.
+    Apakah Anda ingin mencoba lagi dengan frasa sandi yang berbeda atau ingin melewatkan pesan?
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritme penandatanganan tidak diketahui (ID: { $id })
 unknown-hash-alg = Hash kriptografi tidak diketahui (ID: { $id })
@@ -320,6 +332,24 @@ import-from-clip = Apakah Anda ingin mengimpor beberapa kunci dari papan klip?
 import-from-url = Unduh kunci publik dari URL ini:
 copy-to-clipbrd-failed = Tidak dapat menyalin kunci yang dipilih ke papan klip.
 copy-to-clipbrd-ok = Kunci disalin ke papan klip
+delete-secret-key =
+    PERINGATAN: Anda akan menghapus kunci rahasia!
+    
+    Jika Anda menghapus kunci rahasia, Anda tidak lagi dapat mendekripsi pesan apa pun yang dienkripsi untuk kunci itu, Anda juga tidak akan dapat mencabutnya.
+    
+    Apakah Anda benar-benar ingin menghapus KEDUANYA, kunci rahasia dan kunci publik
+    { $userId }?
+delete-mix =
+    PERINGATAN: Anda akan menghapus kunci rahasia!
+    Jika Anda menghapus kunci rahasia, Anda tidak lagi dapat mendekripsi pesan apa pun yang dienkripsi untuk kunci itu.
+    Anda yakin ingin menghapus KEDUANYA, kunci rahasia dan publik yang dipilih?
+delete-pub-key =
+    Apakah Anda ingin menghapus kunci publik
+    '{ $userId }'?
+delete-selected-pub-key = Apakah Anda ingin menghapus kunci publik?
+refresh-all-question = Anda tidak memilih kunci apa pun. Apakah Anda ingin menyegarkan SEMUA kunci?
+key-man-button-export-sec-key = Ek&spor Kunci Rahasia
+key-man-button-export-pub-key = Ekspor Kunci &Publik Saja
 
 ## Account settings export output
 
