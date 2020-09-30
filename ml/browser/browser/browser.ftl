@@ -285,6 +285,8 @@ urlbar-page-action-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ഉപയോഗിച്ച് തെരയുക
+urlbar-result-action-switch-tab = ടാബിലേക്ക് മാറുക
+urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
