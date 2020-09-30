@@ -18,7 +18,7 @@ rights-safebrowsing = <strong>SafeBrowsing: </strong>Вимкнення функ
 rights-safebrowsing-term-1 = Відкрийте налаштування програми
 rights-safebrowsing-term-2 = Оберіть розділ Безпека
 rights-safebrowsing-term-3 = Приберіть прапорець з "{ enableSafeBrowsing-label }"
-enableSafeBrowsing-label = Блокувати небезпечний і підозрілий вміст
+enableSafeBrowsing-label = Блокувати небезпечний і шахрайський вміст
 rights-safebrowsing-term-4 = Safe Browsing тепер вимкнено
 rights-locationawarebrowsing =
     <strong>Визначення розташування під час перегляду в мережі: </strong>завжди
