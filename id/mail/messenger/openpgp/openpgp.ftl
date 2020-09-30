@@ -217,6 +217,20 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird tidak memiliki kunci pribadi OpenPGP yang terkait dengan <b>{ $identity }</b>
+       *[other] Thunderbird menemukan { $count } kunci pribadi OpenPGP yang terkait dengan <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Pilih sebuah kunci yang valid untuk memfungsikan protokol OpenPGP.
+       *[other] Konfigurasi Anda saat ini menggunakan ID kunci <b>{ $key }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Konfigurasi Anda saat ini menggunakan kunci <b>{ $key }</b>, yang telah kedaluwarsa.
 openpgp-add-key-button =
