@@ -82,6 +82,9 @@ extension-controlled-homepage-override = Dodatak, <img data-l10n-name="icon"/> {
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira tvoju stranicu za novu karticu.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Dodatak <img data-l10n-name="icon"/> { $name } upravlja ovom postavkom.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira ovu postavku.
@@ -495,6 +498,7 @@ home-prefs-topsites-description = Stranice koje najviše posjećujete
 
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
+home-prefs-recommended-by-description-update = Izniman sadržaj sa svih strana weba, kojeg izabire { $provider }
 
 ##
 
