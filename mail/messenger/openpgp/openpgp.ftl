@@ -350,6 +350,25 @@ delete-selected-pub-key = Apakah Anda ingin menghapus kunci publik?
 refresh-all-question = Anda tidak memilih kunci apa pun. Apakah Anda ingin menyegarkan SEMUA kunci?
 key-man-button-export-sec-key = Ek&spor Kunci Rahasia
 key-man-button-export-pub-key = Ekspor Kunci &Publik Saja
+key-man-button-refresh-all = Sega&rkan Semua Kunci
+key-man-loading-keys = Memuat kunci, harap tunggu…
+ascii-armor-file = File Dilapis ASCII (*.asc)
+no-key-selected = Anda harus memilih setidaknya satu kunci untuk melakukan operasi yang dipilih
+export-to-file = Ekspor Kunci Publik Ke File
+export-keypair-to-file = Ekspor Kunci Rahasia dan Publik Ke File
+export-secret-key = Apakah Anda ingin menyertakan kunci rahasia dalam file kunci OpenPGP yang disimpan?
+save-keys-ok = Kunci berhasil disimpan
+save-keys-failed = Gagal menyimpan kunci
+refresh-key-warn = Peringatan: tergantung pada banyaknya kunci dan kecepatan koneksi, menyegarkan semua kunci bisa menjadi proses yang cukup lama!
+preview-failed = Tidak dapat membaca file kunci publik.
+general-error = Kesalahan: { $reason }
+dlg-button-delete = &Hapus
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Kunci Publik berhasil diekspor!</b>
+openpgp-export-public-fail = <b>Tidak dapat mengekspor kunci publik yang dipilih!</b>
+openpgp-export-secret-success = <b>Kunci Rahasia berhasil diekspor!</b>
+openpgp-export-secret-fail = <b>Tidak dapat mengekspor kunci rahasia yang dipilih!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Kunci { $userId } (ID kunci { $keyId }) dicabut.
