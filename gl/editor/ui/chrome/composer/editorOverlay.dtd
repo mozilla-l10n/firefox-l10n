@@ -206,8 +206,11 @@
 <!ENTITY alignJustify.tooltip "Aliñar xustificado">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posicionamento">
 <!ENTITY layer.tooltip "Capa">
+<!ENTITY decreaseZIndex.label "Enviar para atrás">
 <!ENTITY layerSendToBack.tooltip "Enviar cara a atrás">
+<!ENTITY increaseZIndex.label "Traer para adiante">
 <!ENTITY layerBringToFront.tooltip "Traer cara a adiante">
 
 <!ENTITY increaseIndent.label "Aumentar sangrado">
@@ -303,26 +306,44 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserir ligazón ou editar as propiedades das ligazóns seleccionadas">
 <!ENTITY anchorToolbarCmd.label "Áncora">
 <!ENTITY anchorToolbarCmd.tooltip "Inserir áncora con nome ou editar as propiedades das áncoras seleccionadas">
+<!ENTITY colorButtons.title "Cores">
 <!ENTITY TextColorButton.tooltip "Escoller cor do texto">
 <!ENTITY BackgroundColorButton.tooltip "Escoller cor de fondo">
+<!ENTITY HighlightColorButton.label "Realzador">
 <!ENTITY HighlightColorButton.tooltip "Escoller cor de realce do texto">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Tamaño de letra">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Estabelece o tamaño do tipo de letra">
+<!ENTITY smaller.label "Menor">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Tamaño menor do tipo de letra">
+<!ENTITY larger.label "Maior">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Tamaño maior do tipo de letra">
+<!ENTITY bold.label "Grosa">
 <!ENTITY boldToolbarCmd.tooltip "Negra">
+<!ENTITY italic.label "Cursiva">
 <!ENTITY italicToolbarCmd.tooltip "Cursiva">
+<!ENTITY underline.label "Subliñado">
 <!ENTITY underlineToolbarCmd.tooltip "Subliñado">
+<!ENTITY bullets.label "Viñeta">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou retirar a lista con viñetas">
+<!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar ou retirar a lista numerada">
+<!ENTITY outdent.label "Diminuír o sangrado">
 <!ENTITY outdentToolbarCmd.tooltip "Anular sangrado do texto (mover cara á esquerda)">
+<!ENTITY indent.label "Aumentar o sangrado">
 <!ENTITY indentToolbarCmd.tooltip "Aplicar sangrado ao texto (mover cara á dereita)">
+<!ENTITY AlignPopupButton.label "Aliñamento">
 <!ENTITY AlignPopupButton.tooltip "Escoller aliñamento de texto">
+<!ENTITY InsertPopupButton.label "Inserir">
 <!ENTITY InsertPopupButton.tooltip "Inserir unha ligazón, áncora, imaxe, liña horizontal ou táboa">
+<!ENTITY alignLeftButton.label "Aliñar á esquerda">
 <!ENTITY alignLeftButton.tooltip "Aliñar texto pola marxe esquerda">
+<!ENTITY alignCenterButton.label "Centrar">
 <!ENTITY alignCenterButton.tooltip "Centrar texto">
+<!ENTITY alignRightButton.label "Aliñar á dereita">
 <!ENTITY alignRightButton.tooltip "Aliñar texto pola marxe dereita">
+<!ENTITY alignJustifyButton.label "Xustificar">
 <!ENTITY alignJustifyButton.tooltip "Aliñar texto polas marxes dereita e esquerda">
 
 <!-- Structure Toolbar Context Menu items -->
