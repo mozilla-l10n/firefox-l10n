@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Pegar sen formato">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Pegar como">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -54,6 +52,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Tipo de letra">
 <!ENTITY FontFaceSelect.tooltip "Escoller un tipo de letra">
 <!ENTITY fontfaceMenu.label "Tipo de letra">
 <!ENTITY fontfaceMenu.accesskey "T">
@@ -70,6 +69,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Tamaño de letra">
 <!ENTITY FontSizeSelect.tooltip "Escoller un tamaño de tipo de letra">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -180,6 +180,7 @@
 <!ENTITY listPropsCmd.label "Propiedades da lista…">
 <!ENTITY listPropsCmd.accesskey "P">
 
+<!ENTITY ParagraphSelect.title "Parágrafo">
 <!ENTITY ParagraphSelect.tooltip "Escoller un formato de parágrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo do texto">
@@ -288,8 +289,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Cortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Pegar">
-<!ENTITY printToolbarCmd.label "Imprimir">
-<!ENTITY printToolbarCmd.tooltip "Imprimir esta páxina">
 <!ENTITY findToolbarCmd.label "Localizar">
 <!ENTITY findToolbarCmd.tooltip "Localizar texto na páxina">
 <!ENTITY spellToolbarCmd.label "Ortografía">
@@ -306,7 +305,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserir áncora con nome ou editar as propiedades das áncoras seleccionadas">
 <!ENTITY TextColorButton.tooltip "Escoller cor do texto">
 <!ENTITY BackgroundColorButton.tooltip "Escoller cor de fondo">
-<!ENTITY throbber.tooltip "Ir á páxina de inicio de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Escoller cor de realce do texto">
 
 <!-- Editor toolbar -->
