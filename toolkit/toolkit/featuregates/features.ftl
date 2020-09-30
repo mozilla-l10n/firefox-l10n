@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Skea
 experimental-features-graphics-desktop-zooming =
     .label = Grafysk: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = Skeakel stipe yn foar soepel zoome troch knipe op oanraakskermen en presysy-touchpads.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Warp ynskeakelje, in projekt om de prestaasjes fan JavaScript en ûnthâldgebrûk te ferbetterjen.
