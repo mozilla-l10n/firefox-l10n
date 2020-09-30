@@ -94,3 +94,4 @@ experimental-features-graphics-desktop-zooming-description = Nitzij ri tob'äl r
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Titzij Warp, jun nuk'samaj richin nutziläx ri rub'eyal nisamäj chuqa' rokisaxik ruchuq'a' JavaScript.
