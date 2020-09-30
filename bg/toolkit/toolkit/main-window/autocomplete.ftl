@@ -11,11 +11,13 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Внесете данни за вход от { $browser }</div>
     <div data-l10n-name="line2">в { $host } и други страници</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Научете повече
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Научете повече
+autocomplete-import-learn-more = Научете повече
