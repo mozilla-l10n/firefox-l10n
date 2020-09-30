@@ -372,3 +372,8 @@ openpgp-export-secret-success = <b>Kunci Rahasia berhasil diekspor!</b>
 openpgp-export-secret-fail = <b>Tidak dapat mengekspor kunci rahasia yang dipilih!</b>
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Kunci { $userId } (ID kunci { $keyId }) dicabut.
+key-ring-pub-key-expired = Kunci { $userId } (ID kunci { $keyId }) telah kedaluwarsa.
+key-ring-key-disabled = Kunci { $userId } (ID kunci { $keyId }) dinonaktifkan; itu tidak bisa digunakan.
+key-ring-key-invalid = Kunci { $userId } (ID kunci { $keyId } tidak valid. Harap pertimbangkan untuk memverifikasinya dengan benar.
+key-ring-key-not-trusted = Kunci { $userId } (ID kunci { $keyId }) tidak cukup tepercaya. Harap setel tingkat kepercayaan kunci Anda ke "ultimate" untuk digunakan bagi penandatanganan.
+key-ring-no-secret-key = Anda tampaknya tidak memiliki kunci rahasia untuk { $userId } (ID kunci { $keyId }) pada keyring Anda; Anda tidak dapat menggunakan kunci untuk menandatangani.
