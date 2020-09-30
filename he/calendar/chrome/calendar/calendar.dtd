@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "צור אירוע חדש" >
 <!ENTITY calendar.newtask.button.tooltip          "צור מטלה חדשה" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "מטלות" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "הצג משימות שהושלמו">
 
 <!ENTITY calendar.today.button.label          "היום">
@@ -314,7 +312,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "תנומה למשך" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "תנומה לכולם למשך" >
-<!ENTITY calendar.alarm.title.label                 "התראות לוח שנה" >
+<!ENTITY calendar.alarm.title.label                 "תזכורות לוח שנה" >
 <!ENTITY calendar.alarm.dismiss.label               "לשחרר" >
 <!ENTITY calendar.alarm.dismissall.label            "לשחרר הכול" >
 
@@ -341,16 +339,14 @@
 <!ENTITY calendarproperties.color.label                    "צבע:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)‎">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)‎">
 <!ENTITY calendarproperties.format.label                   "מבנה:">
 <!ENTITY calendarproperties.location.label                 "מיקום:">
 <!ENTITY calendarproperties.refreshInterval.label          "רענן לוח שנה:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "ידנית">
 <!ENTITY calendarproperties.name.label                     "שם:">
 <!ENTITY calendarproperties.readonly.label                 "קריאה בלבד">
-<!ENTITY calendarproperties.firealarms.label               "הצג התראות">
+<!ENTITY calendarproperties.firealarms.label               "הצגת תזכורות">
 <!ENTITY calendarproperties.cache3.label                   "תמיכה בלתי מקוונת">
-<!ENTITY calendarproperties.enabled.label                  "הפעל לוח שנה זה">
 <!ENTITY calendarproperties.forceDisabled.label            "לא ניתן למצוא את הספק של לוח שנה זה. תקלה זו נגרמת אם נטרלת או הסרת תוספות מסוימות.">
 <!ENTITY calendarproperties.unsubscribe.label              "ביטול רישום">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "ב">

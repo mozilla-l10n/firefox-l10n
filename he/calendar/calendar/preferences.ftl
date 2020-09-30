@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = לוח שנה
+calendar-title-reminder = תזכורות
 calendar-title-category = קטגוריות
 dateformat-label =
     .value = מבנה תאריך:
@@ -31,6 +33,8 @@ day-6-name =
     .label = שישי
 day-7-name =
     .label = שבת
+workdays-label =
+    .value = ימי העבודה בשבוע:
 day-1-checkbox =
     .label = ראשון
     .accesskey = ר
@@ -100,6 +104,9 @@ soon-label =
     .value = סעיף האירועים הקרובים מציג:
     .accesskey = ס
 event-task-legend = אירועים ומשימות
+default-length-label =
+    .value = אורך ברירת מחדל של אירועים ומשימות:
+    .accesskey = ב
 task-start-label =
     .value = תאריך התחלה:
 task-start-1-label =
@@ -120,6 +127,9 @@ task-start-8-label =
     .label = ביחס לשעה הקרובה
 task-due-label =
     .value = תאריך סיום:
+edit-intab-label =
+    .label = עריכת אירועים ומשימות בלשונית במקום בחלונית.
+    .accesskey = ל
 accessibility-legend = נגישות
 accessibility-colors-label =
     .label = צבעים מותאמים לנגישות
@@ -143,6 +153,9 @@ reminder-browse-sound-label =
 reminder-dialog-label =
     .label = הצג תיבת התראה
     .accesskey = ת
+missed-reminder-label =
+    .label = הצגת תזכורות שהוחמצו ביומנים שפתוחים לכתיבה
+    .accesskey = ח
 reminder-default-legend = ברירות מחדל של התראות
 default-snooze-label =
     .value = משך הנודניק כבררת מחדל:
