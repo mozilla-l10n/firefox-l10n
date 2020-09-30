@@ -425,6 +425,8 @@ urlbar-pocket-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Cerca amb { $engine }
+urlbar-result-action-switch-tab = Canvia a la pestanya
+urlbar-result-action-visit = Visita
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
