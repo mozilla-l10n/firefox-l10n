@@ -15,6 +15,10 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Reiniciar cos complementos desactivados…">
 <!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.stop.label     "Reiniciar cos complementos activados">
+<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY productHelp.label "Axuda do &brandShortName;">
+<!ENTITY productHelp.accesskey "A">
 
 
 
