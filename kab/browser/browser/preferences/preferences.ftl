@@ -620,7 +620,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Sider Firefox i <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> neɣ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOs</a> akken ad temtawiḍ d yibenkan-ik aziraz.
+sync-mobile-promo = Sader Firefox i <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> neɣ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOs</a> akken ad temtawiḍ d yibenkan-ik aziraz.
 
 ## Firefox Account - Signed in
 
@@ -1070,7 +1070,7 @@ security-enable-safe-browsing =
     .accesskey = S
 security-enable-safe-browsing-link = Issin ugar
 security-block-downloads =
-    .label = Sewḥel yir asider
+    .label = Sewḥel yir asader
     .accesskey = d
 security-block-uncommon-software =
     .label = Lɣu-yid ɣef iseɣẓanen ur nelhi ara akked wid ur bɣiɣ ara

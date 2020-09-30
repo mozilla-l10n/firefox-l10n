@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Nadi
     .aria-label = Nadi
-
 newtab-search-box-search-the-web-text = Nadi di Web
 newtab-search-box-search-the-web-input =
     .placeholder = Nadi di Web
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Ẓreg asmel ifazen
 newtab-topsites-title-label = Azwel
 newtab-topsites-title-input =
     .placeholder = Sekcem azwel
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Aru neɣ sekcem tansa URL
 newtab-topsites-url-validation = Tansa URL tameɣtut tettwasra
-
 newtab-topsites-image-url-label = Tugna tudmawant URL
 newtab-topsites-use-image-link = Seqdec tugna tudmawant…
 newtab-topsites-image-validation = Tugna ur d-uli ara. Ɛreḍ tansa-nniḍen URL.
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 newtab-menu-section-tooltip =
     .title = Ldi umuɣ
     .aria-label = Ldi umuɣ
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kkes
     .aria-label = Kkes
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -110,7 +105,7 @@ newtab-menu-bookmark = Creḍ asebter-agi
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Nɣel tansa n useɣwen n usali
-newtab-menu-go-to-download-page = Ddu ɣer usebter n usider
+newtab-menu-go-to-download-page = Ddu ɣer usebter n usader
 newtab-menu-remove-download = Kkes seg umazray
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
@@ -134,12 +129,10 @@ newtab-label-removed-bookmark = Tacreṭ n usebter tettwakkes
 newtab-label-recommended = Tiddin
 newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
 newtab-label-download = Yuli-d
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Yettwarfed
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -177,12 +170,10 @@ newtab-section-header-pocket = Iwelleh-it-id { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Bdu tuniginn sakin nekkni ad k-n-sken imagraden, tividyutin, akked isebtar nniḍen i γef terziḍ yakan neγ i tceṛḍeḍ dagi.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagraden seg { $provider }. Ur tebɣiḍ ara ad terǧuḍ? Fren asentel seg wid yettwasnen akken ad twaliḍ imagraden yelhan di Web.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

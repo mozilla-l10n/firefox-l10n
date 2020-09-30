@@ -23,7 +23,7 @@ policy-CaptivePortal = Rmed neɣ gdel asefrek n uwwur yettwaṭṭfen.
 policy-CertificatesDescription = Rnu iselkinen neɣ seqdec iselkinen usliɣen.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
 policy-DisabledCiphers = Sens allalen n uwgelhen.
-policy-DefaultDownloadDirectory = Ad yesbadu akaram n usider s wudem amezwer.
+policy-DefaultDownloadDirectory = Ad yesbadu akaram n usader s wudem amezwer.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Ad isewḥel imeggi n yiminig s wudem amezwer akken ur iteg ara kra. Ad yeddu kan deg Windows; inagrawen-nniḍen ur sɛin ara imeggi-a.
@@ -51,7 +51,7 @@ policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
 policy-DNSOverHTTPS = Swel DNS s HTTPS.
 policy-DontCheckDefaultBrowser = Sens asenqed n yiminig  amezwer deg tnekra.
-policy-DownloadDirectory = Ad yesbadu daɣen ad iṣekkeṛ akaram n usider.
+policy-DownloadDirectory = Ad yesbadu daɣen ad iṣekkeṛ akaram n usader.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it ma tebɣiḍ.
 # “lock” means that the user won’t be able to change this setting
@@ -96,7 +96,7 @@ policy-Permissions2 = Swel tisirag i tkamirat, asawaḍ, adig, ilɣa akked tɣur
 policy-PictureInPicture = Rmed neɣ sens tugna deg tugna.
 policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Preferences = Ad yesbadu daɣen ad iṣekkeṛ azal n tegrumma tasnawant n yismenyifen.
-policy-PromptForDownloadLocation = Suter anida ara ttwaskelsen yifuyla deg usider.
+policy-PromptForDownloadLocation = Suter anida ara ttwaskelsen yifuyla deg usader.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
 policy-RequestedLocales = Sbadu tabdart n tutlayin yettwasutren akken i tesmenyafeḍ
 policy-SanitizeOnShutdown2 = Ad yesfeḍ isefka n tunigin deg umdal.
