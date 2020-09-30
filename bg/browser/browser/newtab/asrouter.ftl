@@ -198,7 +198,7 @@ cfr-doorhanger-cryptominers-description = Вашата поверителнос�
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Показване на всички
-    .accesskey = С
+    .accesskey = с
 
 ## What’s New Panel Content for Firefox 76
 
