@@ -432,6 +432,7 @@ urlbar-result-action-search-in-private = חיפוש בחלון פרטי
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = חיפוש באמצעות { $engine }
+urlbar-result-action-switch-tab = מעבר ללשונית
 urlbar-result-action-visit = ביקור
 
 ## Action text shown in urlbar results, usually appended after the search
