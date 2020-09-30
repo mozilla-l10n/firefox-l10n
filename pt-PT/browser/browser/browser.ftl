@@ -431,6 +431,8 @@ urlbar-result-action-search-in-private-w-engine = Procurar com { $engine } numa 
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Pesquisar com { $engine }
+urlbar-result-action-switch-tab = Mudar para o separador
+urlbar-result-action-visit = Visitar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
