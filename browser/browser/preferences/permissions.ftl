@@ -5,66 +5,50 @@
 permissions-window =
     .title = Винятки
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адреса сайту
     .accesskey = д
-
 permissions-block =
     .label = Блокувати
     .accesskey = Б
-
 permissions-session =
     .label = Дозволити на сеанс
     .accesskey = о
-
 permissions-allow =
     .label = Дозволити
     .accesskey = Д
-
 permissions-site-name =
     .label = Вебсайт
-
 permissions-status =
     .label = Стан
-
 permissions-remove =
     .label = Вилучити вебсайт
     .accesskey = л
-
 permissions-remove-all =
     .label = Вилучити всі вебсайти
     .accesskey = с
-
 permissions-button-cancel =
     .label = Скасувати
     .accesskey = С
-
 permissions-button-ok =
     .label = Зберегти зміни
     .accesskey = З
-
 permissions-autoplay-menu = Типово для всіх вебсайтів:
-
 permissions-searchbox =
     .placeholder = Пошук по сайту
-
 permissions-capabilities-autoplay-allow =
     .label = Дозволити аудіо та відео
 permissions-capabilities-autoplay-block =
     .label = Блокувати аудіо
 permissions-capabilities-autoplay-blockall =
-    .label = Блокувати аудіо і відео
-
+    .label = Блокувати аудіо та відео
 permissions-capabilities-allow =
     .label = Дозволити
 permissions-capabilities-block =
     .label = Блокувати
 permissions-capabilities-prompt =
     .label = Завжди питати
-
 permissions-capabilities-listitem-allow =
     .value = Дозволити
 permissions-capabilities-listitem-block =
@@ -111,8 +95,6 @@ permissions-exceptions-addons-window =
     .title = Дозволені вебсайти - Встановлення додатків
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Ви можете вказати, яким сайтам дозволено встановлювати додатки. Введіть точну адресу кожного сайту і натисніть кнопку Дозволити.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 

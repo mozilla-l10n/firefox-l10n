@@ -260,7 +260,7 @@ shortcuts-card-expand-button =
     }
 shortcuts-card-collapse-button = Показати менше
 header-back-button =
-    .title = Повернутись назад
+    .title = Назад
 
 ## Recommended add-ons page
 

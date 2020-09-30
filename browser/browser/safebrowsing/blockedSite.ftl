@@ -11,7 +11,7 @@ safeb-blocked-malware-page-short-desc = { -brand-short-name } заблокува
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } заблокував цю сторінку, тому що вона може спробувати змусити вас встановити програми, які заважатимуть роботі (наприклад, змінити домівку або показувати зайву рекламу на відвідуваних сайтах).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } заблокував цю сторінку, тому що вона може намагатися встановити небезпечне програмне забезпечення, що викрадає чи видаляє вашу інформацію (наприклад, фотографії, паролі, повідомлення й кредитні картки).
 safeb-palm-advisory-desc = Інформація отримана від <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
-safeb-palm-accept-label = Повернутись назад
+safeb-palm-accept-label = Назад
 safeb-palm-see-details-label = Показати деталі
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>шахрайський сайт</a>. Ви можете <a data-l10n-name='report_detection'>повідомити про невідповідність цієї інформації</a>, або <a data-l10n-name='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>шахрайський сайт</a>. Ви можете <a data-l10n-name='report_detection'>повідомити про невідповідність цієї інформації </a>.

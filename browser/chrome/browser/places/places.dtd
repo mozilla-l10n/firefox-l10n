@@ -55,9 +55,8 @@
 <!ENTITY maintenance.accesskey  "І">
 <!ENTITY maintenance.tooltip    "Імпорт і резервне копіювання закладок">
 
-<!ENTITY backButton.tooltip  "Повернутись назад">
+<!ENTITY backButton.tooltip  "Назад">
 
 <!ENTITY forwardButton.tooltip  "Перейти вперед">
 
 <!ENTITY detailsPane.selectAnItemText.description "Додати елемент до перегляду та редагувати його властивості">
-

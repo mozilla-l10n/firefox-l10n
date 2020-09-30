@@ -7,7 +7,7 @@
 
 <!ENTITY loadError.label "Проблема при завантаженні сторінки">
 <!ENTITY retry.label "Спробувати знову">
-<!ENTITY returnToPreviousPage.label "Повернутися назад">
+<!ENTITY returnToPreviousPage.label "Назад">
 <!ENTITY returnToPreviousPage1.label "Назад (Рекомендовано)">
 <!ENTITY advanced2.label "Додатково…">
 <!ENTITY viewCertificate.label "Переглянути сертифікат">
@@ -167,7 +167,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Звітувати про подібні помилки, щоб допомогти Mozilla виявляти й блокувати зловмисні сайти">
 <!ENTITY errorReporting.learnMore "Докладніше…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Будь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Зв’яжіться з власниками сайту та повідомте їх про цю проблему.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -180,7 +180,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує застарілу і вразливу до атак технологію безпеки. Нападник може з легкістю викрити інформацію, яка, на вашу думку, знаходиться в безпеці. Адміністратору сайту доведеться спочатку виправити це на сервері перш, ніж ви зможете відвідати сайт.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує технологію безпеки, яка є застарілою і вразливою до атак. Нападник може з легкістю розкрити інформацію, яка, на вашу думку, є захищеною. Перш ніж ви зможете відвідати сайт, його адміністратор повинен виправити це на сервері.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Заблокована сторінка">
 

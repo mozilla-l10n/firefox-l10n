@@ -10,8 +10,8 @@
 <!ENTITY playButton.pauseLabel "Пауза">
 <!ENTITY muteButton.muteLabel "Вимкнути звук">
 <!ENTITY muteButton.unmuteLabel "Увімкнути звук">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Повний екран">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Вийти з повного екрану">
+<!ENTITY fullscreenButton.enterfullscreenlabel "На весь екран">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Вийти з повноекранного режиму">
 <!ENTITY castingButton.castingLabel "Вивести на екран">
 <!ENTITY closedCaption.off "Вимкнено">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
