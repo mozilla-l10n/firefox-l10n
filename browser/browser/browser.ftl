@@ -207,7 +207,7 @@ page-action-pin-tab-urlbar =
 page-action-unpin-tab-panel =
     .label = Despegar pestaña
 page-action-unpin-tab-urlbar =
-    .tooltiptext = Despegar pestañas
+    .tooltiptext = Despegar pestaña
 
 ## Auto-hide Context Menu
 
