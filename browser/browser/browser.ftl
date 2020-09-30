@@ -292,6 +292,8 @@ urlbar-pocket-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Cuardaigh le { $engine }
+urlbar-result-action-switch-tab = Téigh go Cluaisín
+urlbar-result-action-visit = Oscail
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
