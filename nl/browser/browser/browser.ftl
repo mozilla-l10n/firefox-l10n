@@ -442,6 +442,9 @@ urlbar-result-action-visit = Bezoeken
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
+urlbar-result-action-search-history = Geschiedenis doorzoeken
+urlbar-result-action-search-tabs = Tabbladen doorzoeken
 
 ## Full Screen and Pointer Lock UI
 
