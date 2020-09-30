@@ -377,3 +377,15 @@ key-ring-key-disabled = Kunci { $userId } (ID kunci { $keyId }) dinonaktifkan; i
 key-ring-key-invalid = Kunci { $userId } (ID kunci { $keyId } tidak valid. Harap pertimbangkan untuk memverifikasinya dengan benar.
 key-ring-key-not-trusted = Kunci { $userId } (ID kunci { $keyId }) tidak cukup tepercaya. Harap setel tingkat kepercayaan kunci Anda ke "ultimate" untuk digunakan bagi penandatanganan.
 key-ring-no-secret-key = Anda tampaknya tidak memiliki kunci rahasia untuk { $userId } (ID kunci { $keyId }) pada keyring Anda; Anda tidak dapat menggunakan kunci untuk menandatangani.
+key-ring-pub-key-not-for-signing = Kunci { $userId } (ID kunci { $keyId }) tidak dapat digunakan untuk penandatanganan.
+key-ring-pub-key-not-for-encryption = Kunci { $userId } (ID kunci { $keyId }) tidak dapat digunakan untuk enkripsi.
+key-ring-sign-sub-keys-revoked = Semua subkunci penandatanganan dari kunci { $userId } (ID kunci { $keyId }) dicabut.
+key-ring-sign-sub-keys-expired = Semua subkunci penandatanganan dari kunci { $userId } (ID kunci { $keyId }) telah kedaluwarsa.
+key-ring-sign-sub-keys-unusable = Semua subkunci penandatanganan dari kunci { $userId } (ID kunci { $keyId }) dicabut, kedaluwarsa, atau tidak dapat digunakan.
+key-ring-enc-sub-keys-revoked = Semua subkunci enkripsi dari kunci { $userId } (ID kunci { $keyId }) dicabut.
+key-ring-enc-sub-keys-expired = Semua subkunci enkripsi dari kunci { $userId } (ID kunci { $keyId }) telah kedaluwarsa.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Atribut pengguna (gambar JPEG)
+# Strings in key.jsm
+already-revoked = Kunci ini sudah dicabut.
