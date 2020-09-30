@@ -199,6 +199,8 @@ cfr-doorhanger-cryptominers-description = Вашата поверителнос�
 
 cfr-doorhanger-milestone-ok-button = Показване на всички
     .accesskey = с
+cfr-doorhanger-milestone-close-button = Затваряне
+    .accesskey = З
 
 ## What’s New Panel Content for Firefox 76
 
