@@ -182,6 +182,16 @@ onboarding-multistage-theme-description-dark =
     .aria-description =
         Koristite tamni izgled za tipke,
         izbornike i prozore.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Koristi šareni izgled tipki,
+        izbornika i prozora.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Koristi šareni izgled tipki,
+        izbornika i prozora.
 
 ## These strings belong to the individual onboarding messages.
 
