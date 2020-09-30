@@ -560,6 +560,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Foarkarren foar oare adresbalksuggestjes wizigje
 search-suggestions-cant-show = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
 search-one-click-header = Ien-klik-sykmasinen
+search-one-click-header2 = Fluchkeppelingen sykje
 search-one-click-desc = Kies de alternative sykmasinen dy't ûnder de adresbalke en sykbalke ferskine as jo in kaaiwurd begjinne yn te fieren.
 search-choose-engine-column =
     .label = Sykmasine
