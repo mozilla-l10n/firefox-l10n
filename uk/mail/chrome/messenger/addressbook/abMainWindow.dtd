@@ -132,9 +132,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.label                   "Змінити список">
 <!ENTITY editMailingListContext.accesskey               "м">
 <!ENTITY newmsgButton.label                             "Написати">
-<!ENTITY newmsgButton.accesskey                         "Л">
+<!ENTITY newmsgButton.accesskey                         "п">
 <!ENTITY newIM.label                                    "Миттєве повідомлення">
-<!ENTITY newIM.accesskey                                "З">
+<!ENTITY newIM.accesskey                                "М">
 <!ENTITY printButton.label                              "Друк…">
 <!ENTITY printButton.accesskey                          "к">
 <!ENTITY deleteButton2.label                            "Видалити">

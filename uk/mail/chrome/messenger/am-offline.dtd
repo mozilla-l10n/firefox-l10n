@@ -9,14 +9,14 @@
 <!ENTITY allFoldersOffline2.accesskey "З">
 <!ENTITY allFoldersOfflineNote.label 'Примітка: Ця зміна стосується всіх тек для цього облікового запису. Щоб налаштувати окремі теки, скористайтеся кнопкою "Додатково…".'>
 <!ENTITY offlineNotDownload.label "Повідомлення понад">
-<!ENTITY offlineNotDownload.accesskey "Б">
+<!ENTITY offlineNotDownload.accesskey "о">
 <!ENTITY autosyncNotDownload.label "Не завантажувати повідомлення понад">
-<!ENTITY autosyncNotDownload.accesskey "Б">
+<!ENTITY autosyncNotDownload.accesskey "е">
 <!ENTITY kb.label "Кбайт">
 <!ENTITY daysOld.label "днів">
 <!ENTITY message.label "повідомлень">
 <!ENTITY nntpNotDownloadRead.label "Читати повідомлення">
-<!ENTITY nntpNotDownloadRead.accesskey "З">
+<!ENTITY nntpNotDownloadRead.accesskey "Ч">
 <!ENTITY nntpDownloadMsg.label "Повідомлення понад">
 <!ENTITY nntpDownloadMsg.accesskey "о">
 <!ENTITY retentionCleanup.label "Для звільнення місця на диску старі повідомлення може бути вилучено.">
@@ -31,7 +31,7 @@
 <!ENTITY retentionApplyToFlagged.label "Зберігати повідомлення з зірочкою завжди">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 <!ENTITY nntpRemoveMsgBody.label "Вилучати вміст повідомлень понад">
-<!ENTITY nntpRemoveMsgBody.accesskey "б">
+<!ENTITY nntpRemoveMsgBody.accesskey "л">
 <!ENTITY offlineSelectNntp.label "Виберіть групи новин для роботи в автономному режимі…">
 <!ENTITY offlineSelectNntp.accesskey "В">
 <!ENTITY offlineImapAdvancedOffline.label "Додатково…">
