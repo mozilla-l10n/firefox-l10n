@@ -412,6 +412,14 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = ค้นหาด้วย { $engine } ในหน้าต่างส่วนตัว
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = ค้นหาในหน้าต่างส่วนตัว
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
