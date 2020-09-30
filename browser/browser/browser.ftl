@@ -442,6 +442,9 @@ urlbar-result-action-visit = Наведаць
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Шукаць у закладках
+urlbar-result-action-search-history = Шукаць у гісторыі
+urlbar-result-action-search-tabs = Шукаць у картках
 
 ## Full Screen and Pointer Lock UI
 

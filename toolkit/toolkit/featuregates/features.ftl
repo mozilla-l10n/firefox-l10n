@@ -27,3 +27,4 @@ experimental-features-cookie-samesite-lax-by-default2 =
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Кэш запуску about:home
+experimental-features-graphics-desktop-zooming-description = Актываваць падтрымку плаўнага маштабавання праз дотык для дотыкавых экранаў і прэцызійных дотыкавых панэлей.
