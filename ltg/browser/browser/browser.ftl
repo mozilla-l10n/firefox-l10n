@@ -301,6 +301,22 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = Lopys darbeibys
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = Mekleit ar { $engine }
+urlbar-result-action-switch-tab = Puorīt iz cilni
+urlbar-result-action-visit = Apmeklēt
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
