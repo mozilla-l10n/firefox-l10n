@@ -220,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Søk ein gong med:
 # This string won't wrap, so if the translated string is longer,
@@ -434,12 +434,15 @@ urlbar-result-action-search-in-private = Søk i eit privat vindauge
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Søk med { $engine }
 urlbar-result-action-switch-tab = Byt til fane
-urlbar-result-action-visit = Gå til
+urlbar-result-action-visit = Besøk
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Søk i bokmerke
+urlbar-result-action-search-history = Søk i historikk
+urlbar-result-action-search-tabs = Søk i faner
 
 ## Full Screen and Pointer Lock UI
 
