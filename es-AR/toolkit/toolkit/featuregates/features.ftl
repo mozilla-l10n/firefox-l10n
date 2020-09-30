@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Habi
 experimental-features-graphics-desktop-zooming =
     .label = Gráficos: Zoom de pellizco suave
 experimental-features-graphics-desktop-zooming-description = Habilitar la compatibilidad para un zoom de pellizco suave en pantallas táctiles y almohadillas táctiles de precisión.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Habilitar Warp, un proyecto para mejorar el rendimiento y el uso de la memoria de JavaScript.
