@@ -70,3 +70,6 @@ experimental-features-devtools-serviceworker-debugger-support =
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafics : Smooth Pinch Zoom
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT : Warp
