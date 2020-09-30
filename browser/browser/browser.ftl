@@ -400,6 +400,7 @@ urlbar-pocket-button =
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } తో అన్వేషించు
 urlbar-result-action-switch-tab = ట్యాబుకు మారండి
+urlbar-result-action-visit = చూడండి
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
