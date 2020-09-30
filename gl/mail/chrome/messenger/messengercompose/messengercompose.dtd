@@ -243,6 +243,10 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr2.label "Dende">
 <!ENTITY fromAddr.accesskey "e">
+<!ENTITY toAddr2.label "Para">
+<!ENTITY ccAddr2.label "Cc">
+<!ENTITY bccAddr2.label "Cco">
+<!ENTITY replyAddr2.label "Responder a">
 <!ENTITY subject2.label "Asunto">
 <!ENTITY subject.accesskey "n">
 <!ENTITY attachmentBucketCloseButton.tooltip "Agocha o panel de anexos">
