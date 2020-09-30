@@ -426,6 +426,8 @@ urlbar-pocket-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-in-private-w-engine = Procurar com { $engine } numa Janela privada
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Pesquisar numa janela privada
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
