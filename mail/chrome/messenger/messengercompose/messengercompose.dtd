@@ -83,9 +83,6 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "x">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Panel de anexos">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "x">
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY findBarCmd.label "Localizar…">
@@ -242,13 +239,14 @@
 <!ENTITY printButton.tooltip "Imprimir esta mensaxe">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.accesskey "e">
 <!ENTITY subject.accesskey "n">
-
 <!ENTITY attachmentBucketCloseButton.tooltip "Agocha o panel de anexos">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Inserir unha emoticona">
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
+<!ENTITY SmileButton.tooltip "Inserir unha cara con sorriso">
 <!ENTITY smiley1Cmd.label "Sorrindo">
 <!ENTITY smiley2Cmd.label "Fruncindo o cello">
 <!ENTITY smiley3Cmd.label "Chiscadela">
@@ -328,6 +326,8 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalizar enderezo «De»…">
 <!ENTITY customizeFromAddress.accesskey "z">
+
+<!-- Accessibility name for the document -->
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Idioma do corrector ortográfico">
