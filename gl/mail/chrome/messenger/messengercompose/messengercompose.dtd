@@ -246,7 +246,7 @@
 <!ENTITY attachmentBucketCloseButton.tooltip "Agocha o panel de anexos">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
-<!ENTITY SmileButton.tooltip "Inserir unha cara con sorriso">
+<!ENTITY SmileButton.tooltip "Inserir unha emoticona">
 <!ENTITY smiley1Cmd.label "Sorrindo">
 <!ENTITY smiley2Cmd.label "Fruncindo o cello">
 <!ENTITY smiley3Cmd.label "Chiscadela">
