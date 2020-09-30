@@ -14,6 +14,7 @@ crashed-request-help = Ans gidas?
 crashed-request-help-message = Annunzias da collaps ans gidan da chattar problems e da meglierar { -brand-short-name }.
 crashed-request-report-title = Rapportar quest tab
 crashed-send-report = Trametter in rapport da collaps automatic per gidar a schliar tals problems.
+crashed-send-report-2 = Trametter in rapport da collaps automatic per gidar a schliar tals problems
 crashed-comment =
     .placeholder = Commentari facultativ (attenziun: ils commentaris vegnan publitgads)
 crashed-include-URL = Integrar ils URLs da las paginas che ti has visità cura che { -brand-short-name } è collabà.
