@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Agdil Ačaran">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Ffer asfaylu tugna deg tugna">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Iɣewwaṛen">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Qqen ibenk-nniḍen...">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Qqen ɣer &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Rmed &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Tanfiwin">
@@ -97,7 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "Siggez">
 <!ENTITY printButton.tooltip          "Siggez asebtar-a">
-
 
 <!ENTITY searchItem.title             "Nadi">
 
@@ -188,7 +185,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Rnu ɣer ufeggag n yifecka">
 <!ENTITY customizeMenu.addToToolbar.accesskey "R">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Rnu ɣer wumuɣ n tfuli">
@@ -216,18 +213,15 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageAction.copyLink.label    "Nɣel aseɣwen">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Sekles asebter ɣer Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Sken tabdart n Pocket">
 
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Semɣer">
 
@@ -254,7 +248,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Rnu isegzawalen ...">
 <!ENTITY spellAddDictionaries.accesskey "n">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Accaren n yiminig">
@@ -270,8 +263,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Tunigin igerrzen!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tanemmirt!">
 
-<!ENTITY updateAvailable.panelUI.label "Sider lqem n &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Sider anɣel amaynut n &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Sader lqem n &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Sader anɣel amaynut n &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Ur tezmireḍ ara ad tgeḍ aleqqem-nniḍen">
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
 
