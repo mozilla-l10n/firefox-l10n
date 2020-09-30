@@ -431,6 +431,8 @@ urlbar-pocket-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Klask gant { $engine }
+urlbar-result-action-switch-tab = Mont d'an ivinell
+urlbar-result-action-visit = Gweladenniñ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
