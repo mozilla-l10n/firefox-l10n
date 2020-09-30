@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-update-banner =
-    .label-update-downloading = Asider n lqem { -brand-shorter-name }
+    .label-update-downloading = Asader n lqem { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Ammesten n tfelwit n usenqed
 appmenuitem-customize-mode =
     .label = Sagen…
@@ -26,7 +26,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Amaynut
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
