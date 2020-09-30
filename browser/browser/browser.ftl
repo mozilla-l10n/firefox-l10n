@@ -162,6 +162,53 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Eliminar la extensión
 
+## Page Action menu
+
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [one] Enviar pestaña al dispositivo
+           *[other] Enviar { $tabCount } pestañas al dispositivo
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [one] Enviar pestaña al dispositivo
+           *[other] Enviar { $tabCount } pestañas al dispositivo
+        }
+page-action-pocket-panel =
+    .label = Guardar página en { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copiar enlace
+page-action-copy-url-urlbar =
+    .tooltiptext = Copiar enlace
+page-action-email-link-panel =
+    .label = Enviar enlace por correo electrónico…
+page-action-email-link-urlbar =
+    .tooltiptext = Enviar enlace por correo electrónico…
+page-action-share-url-panel =
+    .label = Compartir
+page-action-share-url-urlbar =
+    .tooltiptext = Compartir
+page-action-share-more-panel =
+    .label = Más…
+page-action-send-tab-not-ready =
+    .label = Sincronizando dispositivos…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Pegar pestaña
+page-action-pin-tab-urlbar =
+    .tooltiptext = Pegar pestaña
+page-action-unpin-tab-panel =
+    .label = Despegar pestaña
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Despegar pestañas
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -173,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Esta vez, buscar con:
 # This string won't wrap, so if the translated string is longer,
