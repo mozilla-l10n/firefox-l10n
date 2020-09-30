@@ -322,6 +322,11 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = { $engine } দিয়ে অনুসন্ধান করা হবে
 urlbar-result-action-switch-tab = ট্যাবে যান
 urlbar-result-action-visit = পরিদর্শন করুন
 
