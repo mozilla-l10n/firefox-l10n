@@ -40,7 +40,6 @@ url-classifier-debug-sb-modules = Izegrar n uγmis i iminig aγelsan
 url-classifier-debug-modules = Izegrar iɣmisen imiranen
 url-classifier-debug-sbjs-modules = Aγmis n tunigin taɣelsant
 url-classifier-debug-file = Afaylu aɣmis amiran
-
 url-classifier-trigger-update = Sker aleqem
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Sens aγmis n tunigin taɣelsant
@@ -51,4 +50,4 @@ url-classifier-updating = Aleqqem
 url-classifier-cannot-update = Ur leqqem ara
 url-classifier-success = yedda
 url-classifier-update-error = tucḍa deg ulqem ({ $error })
-url-classifier-download-error = tuccḍa deg usider ({ $error })
+url-classifier-download-error = tuccḍa deg usader ({ $error })
