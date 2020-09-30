@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Scha
 experimental-features-graphics-desktop-zooming =
     .label = Grafisch: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = Schakel ondersteuning in voor soepel zoomen door knijpen op aanraakschermen en precisie-touchpads.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Warp inschakelen, een project om de prestaties van JavaScript en geheugengebruik te verbeteren.
