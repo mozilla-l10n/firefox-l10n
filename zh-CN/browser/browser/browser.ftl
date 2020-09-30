@@ -412,8 +412,19 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = 在隐私窗口中用 { $engine } 搜索
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = 在隐私窗口中搜索
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = 使用 { $engine } 搜索
 urlbar-result-action-switch-tab = 切换到标签页
 urlbar-result-action-visit = 访问
 
