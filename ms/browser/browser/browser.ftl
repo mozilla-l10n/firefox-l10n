@@ -313,6 +313,7 @@ urlbar-page-action-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Cari dengan { $engine }
+urlbar-result-action-switch-tab = Tukar ke Tab
 urlbar-result-action-visit = Lawati
 
 ## Action text shown in urlbar results, usually appended after the search
