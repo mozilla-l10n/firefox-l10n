@@ -412,6 +412,8 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = 在隐私窗口中搜索
 urlbar-result-action-switch-tab = 切换到标签页
 urlbar-result-action-visit = 访问
 
