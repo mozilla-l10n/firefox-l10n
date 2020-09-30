@@ -838,7 +838,7 @@ addressbar-suggestions-settings = Настройки на предложения
 
 ## Privacy Section - Content Blocking
 
-content-blocking-enhanced-tracking-protection = Разширена защита от проследяване
+content-blocking-enhanced-tracking-protection = Подобрена защита от проследяване
 content-blocking-section-top-level-description = Проследяванията ви следват онлайн, за да събират информация за навиците и интересите ви при разглеждане. { -brand-short-name } спира много от тях, както и други злонамерени скриптове.
 content-blocking-learn-more = Научете повече
 

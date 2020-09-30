@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Опитайте: закачане на разд
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Защо го виждам?
-
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = н
-
 cfr-doorhanger-extension-ok-button = Добавяне
     .accesskey = д
 cfr-doorhanger-pintab-ok-button = Закачане на раздел
     .accesskey = з
-
 cfr-doorhanger-extension-manage-settings-button = Управление на настройките за препоръки
     .accesskey = н
-
 cfr-doorhanger-extension-never-show-recommendation = Не ми показвайте тази препоръка
     .accesskey = н
-
 cfr-doorhanger-extension-learn-more-link = Научете повече
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоръка
-
 cfr-doorhanger-extension-notification2 = Препоръка
     .tooltiptext = Препоръка за разширение
     .a11y-announcement = Налична е препоръка за разширение
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препоръка
@@ -68,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } потребител
        *[other] { $total } потребителя
     }
-
 cfr-doorhanger-pintab-description = Получете лесен достъп до най-посещаваните от вас страници. Запазвайте отворените в раздел страници (дори след рестарт).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -76,10 +66,8 @@ cfr-doorhanger-pintab-description = Получете лесен достъп д�
 cfr-doorhanger-pintab-step1 = <b>Щракнете с десен бутон</b> върху раздела, който искате да закачите.
 cfr-doorhanger-pintab-step2 = Изберете <b>Закачане на раздела</b> от  менюто.
 cfr-doorhanger-pintab-step3 = Ако страницата се обнови ще видите синя точка на закачения раздел.
-
 cfr-doorhanger-pintab-animation-pause = Пауза
 cfr-doorhanger-pintab-animation-resume = Продължаване
-
 
 ## Firefox Accounts Message
 
@@ -92,8 +80,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = Преглеждайте без да бъдете следени
-cfr-protections-panel-body = Пазете вашите данни само ваши. { -brand-short-name } ви предпазва от много от най-разпространените проследявания, които следват вашите действия онлайн.
+cfr-protections-panel-header = Разглеждайте без да сте следени
+cfr-protections-panel-body = Пазете вашите данни лични. { -brand-short-name } ви предпазва от най-разпространените проследявания, които дебнат действията ви онлайн.
 cfr-protections-panel-link-text = Научете повече
 
 ## What's New toolbar button and panel
@@ -101,26 +89,20 @@ cfr-protections-panel-link-text = Научете повече
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова възможност:
-
 cfr-whatsnew-button =
     .label = Какво е новото
     .tooltiptext = Новото в това издание
-
 cfr-whatsnew-panel-header = Какво е новото
-
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
-
 cfr-whatsnew-fx70-title = { -brand-short-name } вече се бори по-отдадено за вашата поверителност
 cfr-whatsnew-fx70-body =
     Последното издание подобрява способността за защита от проследяване.
     Вече е по-лесно да създавате с нея сигурни пароли за всеки сайт.
-
 cfr-whatsnew-tracking-protect-title = Защитете се от проследяване
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } блокира много социални мрежи и уебсайтове, 
     които ви проследяват онлайн.
 cfr-whatsnew-tracking-protect-link-text = Вижте отчета
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -131,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = От { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Преглед на отчета
-
 cfr-whatsnew-lockwise-backup-title = Архивирайте паролите си
 cfr-whatsnew-lockwise-backup-body = Сега генерирайте защитени пароли, до които можете да имате достъп от всички устройства, където сте вписани.
 cfr-whatsnew-lockwise-backup-link-text = Включете записването на резервни копия
-
 cfr-whatsnew-lockwise-take-title = Вземете паролите си със себе си
 cfr-whatsnew-lockwise-take-body = Мобилното приложение { -lockwise-brand-short-name } ви позволява сигурен достъп до вашите архивирани пароли навсякъде.
 cfr-whatsnew-lockwise-take-link-text = Вземете приложението
@@ -169,7 +149,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Спряно снемане на цифров отпечатък
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокира много скриптове събиращи цифрови отпечатъци, които тайно събират информация за вашето устройство и действия за създаване на рекламен профил от вас.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Снемане на цифров отпечатък
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } спира скриптове, снемащи цифров отпечаък, които тайно събират информация за вашето устройство и действия за създаване ваш рекламен профил.
@@ -245,6 +224,7 @@ cfr-whatsnew-protections-icon-alt = Пиктограма на щит
 
 
 ## DOH Message
+
 
 ## What's new: Cookies message
 

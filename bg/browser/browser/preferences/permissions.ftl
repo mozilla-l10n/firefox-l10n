@@ -5,66 +5,50 @@
 permissions-window =
     .title = Изключения
     .style = width: 52em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адрес на страница
     .accesskey = д
-
 permissions-block =
     .label = Забраняване
     .accesskey = З
-
 permissions-session =
     .label = Разрешаване за сесията
     .accesskey = с
-
 permissions-allow =
     .label = Разрешаване
     .accesskey = Р
-
 permissions-site-name =
     .label = Страница
-
 permissions-status =
     .label = Състояние
-
 permissions-remove =
     .label = Премахване на страница
     .accesskey = с
-
 permissions-remove-all =
     .label = Премахване на всички страници
     .accesskey = в
-
 permissions-button-cancel =
     .label = Отказ
     .accesskey = О
-
 permissions-button-ok =
     .label = Запазване
     .accesskey = З
-
 permissions-autoplay-menu = Стандартно за всички страници:
-
 permissions-searchbox =
     .placeholder = Търсене на страница
-
 permissions-capabilities-autoplay-allow =
     .label = Разрешаване на аудио и видео
 permissions-capabilities-autoplay-block =
     .label = Без звук
 permissions-capabilities-autoplay-blockall =
     .label = Без звук и видео
-
 permissions-capabilities-allow =
     .label = Разрешаване
 permissions-capabilities-block =
     .label = Забраняване
 permissions-capabilities-prompt =
     .label = Винаги да пита
-
 permissions-capabilities-listitem-allow =
     .value = Разрешаване
 permissions-capabilities-listitem-block =
@@ -80,7 +64,7 @@ permissions-invalid-uri-label = Моля, въведете валидно име
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Изключения в разширената защита от проследяване
+    .title = Изключения в подобрената защита от проследяване
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Защитите са изключени за тези страници.
 
@@ -111,8 +95,6 @@ permissions-exceptions-addons-window =
     .title = Разрешени страници - инсталация на добавки
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Може да посочите страници, на които е позволено да инсталират добавки. Въведете точния адрес на страница и натиснете „Разрешаване“.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
