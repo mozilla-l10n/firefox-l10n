@@ -307,6 +307,7 @@ urlbar-page-action-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = ស្វែងរក​ជាមួយ { $engine }
+urlbar-result-action-switch-tab = ប្ដូរ​ទៅ​ផ្ទាំង
 urlbar-result-action-visit = មើល
 
 ## Action text shown in urlbar results, usually appended after the search
