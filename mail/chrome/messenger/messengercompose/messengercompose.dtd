@@ -247,6 +247,8 @@
 <!ENTITY ccAddr2.label "Cc">
 <!ENTITY bccAddr2.label "Cco">
 <!ENTITY replyAddr2.label "Responder a">
+<!ENTITY newsgroupsAddr2.label "Grupo de novas">
+<!ENTITY followupAddr2.label "Seguimento a">
 <!ENTITY subject2.label "Asunto">
 <!ENTITY subject.accesskey "n">
 <!ENTITY attachmentBucketCloseButton.tooltip "Agocha o panel de anexos">
@@ -334,6 +336,7 @@
 <!ENTITY customizeFromAddress.accesskey "z">
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Corpo da mensaxe">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Idioma do corrector ortográfico">
