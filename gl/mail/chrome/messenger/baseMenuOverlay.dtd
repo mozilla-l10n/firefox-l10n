@@ -9,8 +9,14 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Axuda">
 <!ENTITY helpMenuWin.accesskey "x">
+<!ENTITY aboutProduct2.label "Sobre o &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.label     "Información para solucionar problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Reiniciar cos complementos desactivados…">
 <!ENTITY helpSafeMode.accesskey "R">
+
+
+
+
 
