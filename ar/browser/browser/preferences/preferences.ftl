@@ -363,7 +363,7 @@ update-application-version = الإصدارة { $version } <a data-l10n-name="le
 update-history =
     .label = أظهر تأريخ التحديث…
     .accesskey = ظ
-update-application-allow-description = اسمح ل‍{ -brand-short-name } أن
+update-application-allow-description = اسمح لِ‍ { -brand-short-name } أن
 update-application-auto =
     .label = ينزّل التحديثات تلقائيا (مستحسن)
     .accesskey = ن
