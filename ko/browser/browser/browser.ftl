@@ -212,7 +212,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 이번만 검색:
 # This string won't wrap, so if the translated string is longer,
@@ -432,6 +432,9 @@ urlbar-result-action-visit = 방문
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = 북마크 검색
+urlbar-result-action-search-history = 기록 검색
+urlbar-result-action-search-tabs = 탭 검색
 
 ## Full Screen and Pointer Lock UI
 
