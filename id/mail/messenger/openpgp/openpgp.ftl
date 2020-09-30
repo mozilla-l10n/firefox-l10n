@@ -217,6 +217,8 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Konfigurasi Anda saat ini menggunakan kunci <b>{ $key }</b>, yang telah kedaluwarsa.
 openpgp-add-key-button =
     .label = Tambahkan Kunci…
     .accesskey = a
@@ -243,6 +245,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Cabut Kunci
 openpgp-key-edit-title = Ubah Kunci OpenPGP
 openpgp-key-edit-date-title = Perpanjang Tanggal Kedaluwarsa
+openpgp-manager-description = Gunakan Manajer Kunci OpenPGP untuk melihat dan mengelola kunci publik koresponden Anda dan semua kunci lain yang tidak tercantum di atas.
 openpgp-manager-button =
     .label = Manajer Kunci OpenPGP
     .accesskey = K
