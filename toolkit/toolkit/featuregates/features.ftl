@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-graphics-desktop-zooming =
     .label = Grafikk: Jamn knipeskalering
 experimental-features-graphics-desktop-zooming-description = Slå på støtte for jamn knipeskalering med berøringsskjermar og presisjonspeikeplate.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Slå på Warp, eit prosjekt for å forbetre JavaScript-ytelse og minnebruk.
