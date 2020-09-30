@@ -384,12 +384,21 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Vyhľadať v súkromnom okne pomocou { $engine }
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Vyhľadať v súkromnom okne
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Vyhľadať pomocou { $engine }
 urlbar-result-action-switch-tab = Prepnúť na kartu
+urlbar-result-action-visit = Navštíviť
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
