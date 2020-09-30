@@ -222,7 +222,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Цього разу, пошук з:
 # This string won't wrap, so if the translated string is longer,
@@ -442,6 +442,9 @@ urlbar-result-action-visit = Відвідати
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Шукати в закладках
+urlbar-result-action-search-history = Шукати в історії
+urlbar-result-action-search-tabs = Шукати у вкладках
 
 ## Full Screen and Pointer Lock UI
 
