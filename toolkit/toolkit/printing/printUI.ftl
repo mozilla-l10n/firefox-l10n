@@ -44,7 +44,7 @@ printui-destination-pdf-label = Salva come PDF
 printui-more-settings = Altre impostazioni
 printui-less-settings = Meno impostazioni
 
-printui-paper-size-label = Dimensioni carta
+printui-paper-size-label = Formato carta
 
 # Section title (noun) for the print scaling options
 printui-scale = Ridimensionamento
@@ -65,6 +65,11 @@ printui-margins = Margini
 printui-margins-default = Predefiniti
 printui-margins-min = Minimi
 printui-margins-none = Nessuno
+printui-margins-custom = Personalizzati
+printui-margins-custom-top = Superiore
+printui-margins-custom-bottom = Inferiore
+printui-margins-custom-left = Sinistra
+printui-margins-custom-right = Destra
 
 printui-system-dialog-link = Stampa utilizzando la finestra di dialogo del sistema…
 
@@ -98,6 +103,8 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Il ridimensionamento deve essere un numero compreso tra 10 e 200.
+printui-error-invalid-margin = Inserire un valore del margine valido per il formato di carta selezionato.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L’intervallo deve essere un numero compreso tra 1 e { $numPages }.
