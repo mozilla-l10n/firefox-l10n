@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Vložit bez formátování">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Vložit jako">
-<!ENTITY pasteAs.accesskey "j">
 <!ENTITY pasteAsQuotationCmd.label "Vložit jako citaci">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -208,6 +206,7 @@
 <!ENTITY alignJustify.tooltip "Zarovnání do bloku">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Umístění">
 <!ENTITY layer.tooltip "Vrstva">
 <!ENTITY decreaseZIndex.label "Přenést do pozadí">
 <!ENTITY layerSendToBack.tooltip "Přenést do pozadí">
@@ -293,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Vyjmout">
 <!ENTITY copyToolbarCmd.tooltip "Kopírovat">
 <!ENTITY pasteToolbarCmd.tooltip "Vložit">
-<!ENTITY printToolbarCmd.label "Tisknout">
-<!ENTITY printToolbarCmd.tooltip "Vytiskne tuto stránku">
 <!ENTITY findToolbarCmd.label "Najít">
 <!ENTITY findToolbarCmd.tooltip "Vyhledání textu na stránce">
 <!ENTITY spellToolbarCmd.label "Pravopis">
@@ -312,8 +309,6 @@
 <!ENTITY colorButtons.title "Barvy">
 <!ENTITY TextColorButton.tooltip "Vybere barvu textu">
 <!ENTITY BackgroundColorButton.tooltip "Vybere barvu pozadí">
-<!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Přejde na domovskou stránku aplikace &brandShortName;">
 <!ENTITY HighlightColorButton.label "Zvýrazňovač">
 <!ENTITY HighlightColorButton.tooltip "Vybere barvu pro barevné zvýrazňování">
 
