@@ -419,11 +419,28 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Povolená rozšíření mají přístup k vašim online aktivitám i v anonymních oknech. <a data-l10n-name="learn-more">Zjistit více</a>
 addon-detail-private-browsing-allow = Povolit
 addon-detail-private-browsing-disallow = Nepovolit
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } doporučuje jen rozšíření, která splňují naše standardy pro bezpečnost a výkon
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title =
+        Toto rozšíření bylo vytvořeno autory { -brand-product-name.gender ->
+            [masculine] { -brand-product-name(case: "gen") }
+            [feminine] { -brand-product-name(case: "gen") }
+            [neuter] { -brand-product-name(case: "gen") }
+           *[other] aplikace { -brand-product-name }
+        }
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Toto rozšíření prošlo bezpečnostní kontrolou
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = Dostupné aktualizace
 recent-updates-heading = Aktualizováno
 release-notes-loading = Načítání…

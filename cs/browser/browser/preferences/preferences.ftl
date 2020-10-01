@@ -706,6 +706,7 @@ search-suggestions-cant-show =
        *[other] nepamatovala
     } historii.
 search-one-click-header = Vyhledávání jedním klepnutím
+search-one-click-header2 = Zkratky vyhledávání
 search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.
 search-choose-engine-column =
     .label = Vyhledávač
