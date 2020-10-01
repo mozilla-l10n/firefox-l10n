@@ -13,6 +13,6 @@
 <!ENTITY syncKey.keepItSafe4.description  " caso a perca. Você precisará usar esta chave sempre que conectar um novo computador ou dispositivo ao &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Saiba mais sobre o &syncBrand.fullName.label; e sua privacidade em ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "Os termos de serviço do &syncBrand.fullName.label; estão disponíveis em ">
+<!ENTITY syncKey.footer1.label            "Os termos do serviço do &syncBrand.fullName.label; estão disponíveis em ">
 <!ENTITY syncKey.footer2.label            ". A política de privacidade está disponível em ">
 <!ENTITY syncKey.footer3.label            ".">
