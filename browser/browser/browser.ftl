@@ -466,6 +466,9 @@ urlbar-result-action-visit = Navštívit
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Hledat v záložkách
+urlbar-result-action-search-history = Hledat v historii
+urlbar-result-action-search-tabs = Najít panel
 
 ## Full Screen and Pointer Lock UI
 
