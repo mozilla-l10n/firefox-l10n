@@ -212,7 +212,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 这次要用的搜索引擎：
 # This string won't wrap, so if the translated string is longer,
@@ -432,6 +432,9 @@ urlbar-result-action-visit = 访问
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = 搜索书签
+urlbar-result-action-search-history = 搜索历史记录
+urlbar-result-action-search-tabs = 搜索标签页
 
 ## Full Screen and Pointer Lock UI
 
