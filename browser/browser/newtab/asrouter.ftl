@@ -157,7 +157,7 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poate bloc
 
 cfr-doorhanger-sync-bookmarks-header = Obține acest marcaj pe telefon
 cfr-doorhanger-sync-bookmarks-body = Ia-ți cu tine marcajele, parolele, istoricul și multe altele oriunde ești autentificat(ă) în { -brand-product-name }.
-cfr-doorhanger-sync-bookmarks-ok-button = Activează  { -sync-brand-short-name }
+cfr-doorhanger-sync-bookmarks-ok-button = Activează { -sync-brand-short-name }
     .accesskey = T
 
 ## Login Sync
