@@ -38,7 +38,6 @@ printui-less-settings = Fewer settings
 printui-paper-size-label = Paper size
 # Section title (noun) for the print scaling options
 printui-scale = Scale
-printui-scale-fit-to-page = Fit to page
 printui-scale-fit-to-page-width = Fit to page width
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scale
@@ -53,6 +52,11 @@ printui-margins = Margins
 printui-margins-default = Default
 printui-margins-min = Minimum
 printui-margins-none = None
+printui-margins-custom = Custom
+printui-margins-custom-top = Top
+printui-margins-custom-bottom = Bottom
+printui-margins-custom-left = Left
+printui-margins-custom-right = Right
 printui-system-dialog-link = Print using the system dialog…
 printui-primary-button = Print
 printui-primary-button-save = Save
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Scale must be a number between 10 and 200.
+printui-error-invalid-margin = Please enter a valid margin for the selected paper size.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Range must be a number between 1 and { $numPages }.
