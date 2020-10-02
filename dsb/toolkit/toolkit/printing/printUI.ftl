@@ -40,7 +40,6 @@ printui-less-settings = Mjenjej nastajenjow
 printui-paper-size-label = Wjelikosć papjery
 # Section title (noun) for the print scaling options
 printui-scale = Skalěrowanje
-printui-scale-fit-to-page = Bokoju pśiměriś
 printui-scale-fit-to-page-width = Šyrokosći boka pśiměriś
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalěrowaś
@@ -55,6 +54,11 @@ printui-margins = Kšomy
 printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Žedna
+printui-margins-custom = Swójske
+printui-margins-custom-top = Górjejce
+printui-margins-custom-bottom = Dołojce
+printui-margins-custom-left = Nalěwo
+printui-margins-custom-right = Napšawo
 printui-system-dialog-link = Z pomocu systemowego dialoga śišćaś…
 printui-primary-button = Śišćaś
 printui-primary-button-save = Składowaś
@@ -84,6 +88,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skalěrowanje musy licba mjazy 10 a 200 byś.
+printui-error-invalid-margin = Pšosym zapódajśo płaśiwu kšomu za wubranu wjelikosć papjery.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Wobceŕk musy licba mjazy 1 a { $numPages } byś.
