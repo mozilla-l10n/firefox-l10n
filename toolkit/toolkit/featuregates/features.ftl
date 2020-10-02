@@ -94,6 +94,7 @@ experimental-features-graphics-desktop-zooming-description = 터치 스크린 �
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC 전역 음소거 설정/해제
+experimental-features-webrtc-global-mute-toggles-description = WebRTC 전역 공유 표시기에 컨트롤을 추가하여 사용자가 전역적으로 마이크 및 카메라 피드를 음소거 할 수 있습니다.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
