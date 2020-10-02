@@ -131,6 +131,11 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
         Ni'i da teku vii ji botones, 
         nu kaji ji ventanas.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Ni'i da teku vii ji botones, 
+        nu kaji ji ventanas.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -140,6 +145,7 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 ## The string for the button is found above, in the UI strings section
 
 onboarding-tracking-protection-title2 = Protección antirrastreo
+onboarding-tracking-protection-text2 = { -brand-short-name } chinei noo'o a da nuu web nkutadaja noo'o, ya'a sa'a viji a da tutu xiko nkuntadaja noo'o ntaka nánukunu.
 onboarding-tracking-protection-button2 = Naja satiñu
 onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
 # "Sync" is short for synchronize.
