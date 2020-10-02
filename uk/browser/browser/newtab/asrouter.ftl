@@ -266,3 +266,9 @@ cfr-doorhanger-doh-secondary-button = Вимкнути
 cfr-whatsnew-clear-cookies-header = Автоматичний захист від підступної тактики стеження
 cfr-whatsnew-clear-cookies-body = Деякі елементи стеження спрямовують вас на інші вебсайти, які таємно встановлюють куки. { -brand-short-name } тепер автоматично очищає їх, тож вони більше не можуть стежити за вами.
 cfr-whatsnew-clear-cookies-image-alt = Приклад блокування кук
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Більше елементів керування медіа
+cfr-whatsnew-media-keys-body = Відтворюйте та зупиняйте аудіо чи відео прямо з клавіатури або гарнітури, що полегшує керування мультимедіа з іншої вкладки, програми або навіть коли ваш комп'ютер заблоковано. Ви також можете переміщуватися між доріжками за допомогою клавіш вперед і назад.
+cfr-whatsnew-media-keys-button = Навчитися

@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Увімкнути камеру
 webrtc-minimize =
     .title = Згорнути покажчик
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Ви надаєте доступ до своєї камери. Натисніть для керування спільним доступом.
+webrtc-microphone-system-menu =
+    .label = Ви надаєте доступ до свого мікрофона. Натисніть для керування спільним доступом.
+webrtc-screen-system-menu =
+    .label = Ви надаєте доступ до вікна. Натисніть для керування спільним доступом.

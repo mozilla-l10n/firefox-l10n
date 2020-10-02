@@ -91,6 +91,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Вм
 experimental-features-graphics-desktop-zooming =
     .label = Графіка: плавне масштабування двома пальцями
 experimental-features-graphics-desktop-zooming-description = Увімкнути підтримку плавного масштабування двома пальцями для сенсорних екранів та точних сенсорних панелей.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Загальне вимкнення звуку WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Додати елементи керування до загального індикатора спільного доступу WebRTC, які дозволять користувачам глобально вимкнути мікрофон і канали камери.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
