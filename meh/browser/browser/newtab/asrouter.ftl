@@ -134,6 +134,7 @@ cfr-whatsnew-pip-cta = Ka´vi kue´eka
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Sna ventanas nava a sta'an noo'o
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } vita chiyu'u da nuu sa nkatu'un chu'un íchi mensajes emergentes:
 cfr-whatsnew-permission-prompt-cta = Ka´vi kue´eka
 
 ## Fingerprinter Counter

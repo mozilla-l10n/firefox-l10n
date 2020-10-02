@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Kajie´e
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo da ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
@@ -52,8 +60,6 @@ onboarding-multistage-import-secondary-button-label = Nkuvi ntañu´u
 onboarding-multistage-theme-header = Sama  <span data-l10n-name="zap">look</span>
 onboarding-multistage-theme-primary-button-label = Chuva´a Tema
 onboarding-multistage-theme-secondary-button-label = Nkuvi ntañu´u
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Ni'i tema ka̱a̱
 onboarding-multistage-theme-label-dark = Teku tun
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
@@ -100,6 +106,31 @@ onboarding-benefit-sync-text = Kuiso ji noo'o a ta´an ini noo'o, contraseñas, 
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Tetiñu da contraseña noo´o kumima va´a ji noo´o.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Ni'i iin teku niji ji da botones, 
+        nu kaji ji ventanas.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Ni'i iin  teku niji nu da botones, 
+        nu kaji ji ventanas.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Ni'i iin teku tun ji botones, 
+        nu kaji ji ventanas.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Ni'i iin teku tun nu da botones, 
+        nu kaji ji ventanas
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Ni'i da teku vii ji botones, 
+        nu kaji ji ventanas.
 
 ## These strings belong to the individual onboarding messages.
 
