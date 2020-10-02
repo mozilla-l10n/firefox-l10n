@@ -265,3 +265,4 @@ cfr-whatsnew-clear-cookies-image-alt = Ruwachib'al q'aton cookie
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Ch'aqa' chik kechajinik k'ïy k'oxom
+cfr-whatsnew-media-keys-body = Nitzij o niq'at k'oxom o silowäch rik'in ri pitz'b'äl o ak'axab'äl man k'ayew ta nub'än ye'achajij ri k'ïy taq k'oxom rik'in jun chik ruwi', cholkema' o toq q'aton ri akematz'ib'. Chuqa' k'o rub'eyal nib'yaj chi kikojol ri taq retal k'oxom rik'in ri b'inel chi rij o chuwäch pitz'b'äl.
