@@ -459,3 +459,8 @@ fullscreen-warning-no-domain = Tutu ya'a ntañu'u íyo nu pantalla ka'nu
 fullscreen-exit-button = Kene nuu pantalla ka'nu (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kene nuu pantalla ka'nu (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tetiñu puntero noo'o. Kuaxin Esc sa kuvi nake'enuma.
+pointerlock-warning-no-domain = Documento ya'a kumi control puntero noo'o. Kuaxin Esc sa kuvi nake'enuma.

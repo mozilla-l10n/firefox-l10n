@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Asistente de importación
+import-from =
+    { PLATFORM() ->
+        [windows] Taji da a kaji, a ta'an ini noo'o, a nnánuku, claves ji inka datos:
+       *[other] Taji da preferencias, a ta'an ini noo'o, a nnánuku, claves ji inka datos:
+    }
 import-from-bookmarks = Nasia´a marcadores vaji:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -44,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Ntu nnani´i ka̱a̱ kumi marcadores, da nnánuku a xíín contraseñas.
 import-source-page-title = Nasia´a configuraciones ji datos
+import-items-page-title = Elementos a importar
 import-items-description = Kaji da elementos kuvi nasia´a:
 import-migrating-page-title = Nasia´a…
 import-migrating-description = A nnasia´a da elementos..
