@@ -37,7 +37,6 @@ printui-less-settings = 설정 간단히
 printui-paper-size-label = 용지 크기
 # Section title (noun) for the print scaling options
 printui-scale = 배율
-printui-scale-fit-to-page = 페이지에 맞추기
 printui-scale-fit-to-page-width = 페이지 너비에 맞추기
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 배율
@@ -52,6 +51,11 @@ printui-margins = 여백
 printui-margins-default = 기본값
 printui-margins-min = 최소값
 printui-margins-none = 없음
+printui-margins-custom = 사용자 지정
+printui-margins-custom-top = 위쪽
+printui-margins-custom-bottom = 아래쪽
+printui-margins-custom-left = 왼쪽
+printui-margins-custom-right = 오른쪽
 printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-primary-button-save = 저장
@@ -81,6 +85,7 @@ printui-paper-tabloid = 타블로이드
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = 배율은 10에서 200 사이의 숫자여야 합니다.
+printui-error-invalid-margin = 선택한 용지 크기에 유효한 여백을 입력하세요.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = 범위는 1에서 { $numPages } 사이의 숫자여야 합니다.
