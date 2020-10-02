@@ -7,6 +7,7 @@ add-engine-window =
     .style = width: 32em;
 add-engine-button = أضِف محركًا مخصصًا
 add-engine-name = اسم محرك البحث
+add-engine-url = مسار المحرّك، استعمل ”‎%s“ مكان عبارة البحث
 add-engine-cancel =
     .label = ألغِ
     .accesskey = ل
