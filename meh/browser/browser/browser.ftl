@@ -342,6 +342,8 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Nkua'a ni'i íchi
     .accesskey = N
+popup-silence-notifications-checkbox = Xita notificaciones { -brand-short-name } ntaka kua'a
+popup-silence-notifications-checkbox-warning = { -brand-short-name } nkutuvi notificaciones de kua'a.
 
 ## WebRTC window or screen share tab switch warning
 
@@ -349,6 +351,8 @@ sharing-warning-window = Noo'o jia'a { -brand-short-name }. Da inka ñivɨ kuvi 
 sharing-warning-screen = Noo'o jia'a kuaiyo pantalla. Da inka ñivɨ kuvi kune'ya sa samanu iin pestaña jíía.
 sharing-warning-proceed-to-tab =
     .label = Kaka nuu sukua
+sharing-warning-disable-for-session =
+    .label = Xita protección de ni'i sa kua'a nu sesión ya'a
 
 ## DevTools F12 popup
 
