@@ -36,3 +36,5 @@ webrtc-camera-system-menu =
     .label = Nakomonij ri elesäy awachib'al. Tapitz'a' richin nachajij komon okisaxïk.
 webrtc-microphone-system-menu =
     .label = Nakomonij ri q'asäy ch'ab'äl. Tapitz'a' richin nachajij komon okisaxïk.
+webrtc-screen-system-menu =
+    .label = Nakomonij jun tzuwäch o jun ruwäch. Tapitz'a' richin nachajij komon okisaxïk.
