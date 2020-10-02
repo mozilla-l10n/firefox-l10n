@@ -356,6 +356,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Sa ni'inu F12, xinañu'u síne DevTools nu menú Desarrolador Web
 
 ## URL Bar
 
@@ -430,11 +431,23 @@ urlbar-result-action-search-in-private = Nánuku nuu iin ventana yu´u
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Nánuku ji { $engine }
 urlbar-result-action-switch-tab = Sama su̱ku̱a
+urlbar-result-action-visit = Ne'en kune'ya
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Nánuku a ta´a ini noo´o
+urlbar-result-action-search-history = Nánuku historial
+urlbar-result-action-search-tabs = Nánuku sukua
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Nánuku ji { $engine } barra nuu
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Nánuku ji { $engine } barra nuu
 
 ## Full Screen and Pointer Lock UI
 
