@@ -95,6 +95,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Nakuvi a jíía íyo
 cfr-whatsnew-release-notes-link-text = Ka´vi tu´un kene jíía
 cfr-whatsnew-fx70-title = { -brand-short-name } vita kanta´an kue´ka jiee privacidad noo´o
+cfr-whatsnew-fx70-body =
+    Nu nɨ'ɨ a naxi'ña nasa'a vii función a kumi noo'o nuu ka̱a̱ nita noo'o je sa'a 
+    a kuvi sa'anu contraseñas va'a je vatu nu ntaka sitio.
 cfr-whatsnew-tracking-protect-title = Kumi noo´o nuu ka̱a̱ nita
 cfr-whatsnew-tracking-protect-link-text = Kune´ya reporte noo´o
 # This string is displayed before a large numeral that indicates the total
@@ -220,4 +223,7 @@ cfr-doorhanger-doh-secondary-button = Chiyu´u
     .accesskey = D
 
 ## What's new: Cookies message
+
+
+## What's new: Media controls message
 
