@@ -40,7 +40,6 @@ printui-less-settings = Mjenje nastajenjow
 printui-paper-size-label = Wulkosć papjery
 # Section title (noun) for the print scaling options
 printui-scale = Skalowanje
-printui-scale-fit-to-page = Stronje přiměrić
 printui-scale-fit-to-page-width = Šěrokosći strony přiměrić
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalować
@@ -55,6 +54,11 @@ printui-margins = Kromy
 printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Žana
+printui-margins-custom = Swójske
+printui-margins-custom-top = Horjeka
+printui-margins-custom-bottom = Deleka
+printui-margins-custom-left = Nalěwo
+printui-margins-custom-right = Naprawo
 printui-system-dialog-link = Z pomocu systemoweho dialoga ćišćeć…
 printui-primary-button = Ćišćeć
 printui-primary-button-save = Składować
@@ -84,6 +88,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skalowanje dyrbi ličba mjez 10 a 200 być.
+printui-error-invalid-margin = Prošu zapodajće płaćiwu kromu za wubranu wulkosć papjery.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Wobłuk dyrbi ličba mjez 1 a { $numPages } być.
