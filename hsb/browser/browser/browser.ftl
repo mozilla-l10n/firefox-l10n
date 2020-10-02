@@ -447,6 +447,14 @@ urlbar-result-action-visit = Wopytać
 urlbar-result-action-search-bookmarks = Zapołožki přepytać
 urlbar-result-action-search-history = Historiju přepytać
 urlbar-result-action-search-tabs = Rajtarki přepytać
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Z { $engine } direktnje z adresoweho pola pytać
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Z { $engine } direktnje z adresoweho pola pytać
 
 ## Full Screen and Pointer Lock UI
 
