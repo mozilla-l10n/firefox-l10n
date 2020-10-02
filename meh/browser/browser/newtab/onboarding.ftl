@@ -151,6 +151,7 @@ onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincroniza marcadores, contraseñas ji kue'e ntaka nuu ni'inu { -brand-product-name }.
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Kumi da alerta da filtraciones de datos
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } kune'ya de correo noo'o kene nuu iin filtración datos a xíín kene nuu iin filtración jíía.
 onboarding-firefox-monitor-button = Chu'un sivɨnɨ alertas
 onboarding-browse-privately-title = Nánuku yu´u
@@ -164,6 +165,7 @@ onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín A
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
+onboarding-send-tabs-title = Chu'un íchi sukua ñama
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Chu'un ichí pestañas ñama nuu ntaka ka̱a̱ ntu nejika tɨɨ, tee a xíín kenenu nuu ka̱a̱ nánuku.
