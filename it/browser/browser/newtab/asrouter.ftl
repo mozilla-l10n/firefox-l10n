@@ -271,3 +271,9 @@ cfr-doorhanger-doh-secondary-button = Disattiva
 cfr-whatsnew-clear-cookies-header = Protezione automatica contro subdole tecniche di tracciamento
 cfr-whatsnew-clear-cookies-body = Alcuni elementi traccianti ti reindirizzano su altri siti web che, di nascosto, impostano cookie nel browser. Adesso { -brand-short-name } elimina automaticamente questi cookie, impedendogli di seguirti.
 cfr-whatsnew-clear-cookies-image-alt = Illustrazione cookie bloccati
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Più controlli multimediali
+cfr-whatsnew-media-keys-body = Riproduci o metti in pausa audio e video usando direttamente la tastiera o le cuffie. In questo modo è facile gestire contenuti multimediali da un’altra scheda, un altro programma, o perfino quando il computer è bloccato. Puoi anche spostarti da una traccia all’altra usando i tasti avanti e indietro.
+cfr-whatsnew-media-keys-button = Scopri come
