@@ -576,6 +576,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Newid dewisiadau awgrymiadau eraill y bar cyfeiriad
 search-suggestions-cant-show = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
 search-one-click-header = Peiriannau Chwilio Un Clic
+search-one-click-header2 = Chwilio'r Llwybrau Byr
 search-one-click-desc = Dewis peiriant chwilio arall sy'n ymddangos o dan y bar cyfeiriad a'r bar chwilio pan fyddwch yn cychwyn allweddair.
 search-choose-engine-column =
     .label = Peiriannau Chwilio

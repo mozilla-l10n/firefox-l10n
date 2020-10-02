@@ -228,7 +228,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Y tro hwn, chwilio gyda:
 # This string won't wrap, so if the translated string is longer,
@@ -448,6 +448,9 @@ urlbar-result-action-visit = Ymweld â
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
+urlbar-result-action-search-history = Chwilio'r Hanes
+urlbar-result-action-search-tabs = Chwilio'r Tabiau
 
 ## Full Screen and Pointer Lock UI
 
