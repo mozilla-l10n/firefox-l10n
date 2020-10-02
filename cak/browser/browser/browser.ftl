@@ -443,6 +443,14 @@ urlbar-result-action-visit = Titz'et
 urlbar-result-action-search-bookmarks = Kekanöx taq Yaketal
 urlbar-result-action-search-history = Tikanöx Natab'äl
 urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Tikanöx rik'in { $engine } pa kikajtz'ik ochochib'äl
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Tikanöx { $engine } pa kikajtz'ik ochochib'äl
 
 ## Full Screen and Pointer Lock UI
 
