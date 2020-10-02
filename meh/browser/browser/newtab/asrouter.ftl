@@ -114,16 +114,21 @@ cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
 cfr-whatsnew-lockwise-backup-body = Vitan kuvi sa'anu contraseñas vatu nu kuvi kivɨnu ntaka nu kuvi ni'inuma.
 cfr-whatsnew-lockwise-backup-link-text = Tee copias seguridad
 cfr-whatsnew-lockwise-take-title = Kuiso da contraseña ji noo´o
+cfr-whatsnew-lockwise-take-body =
+    ka̱a̱ móvil { -lockwise-brand-short-name } taji kuvi kivɨnu vatu nu
+    da copias de seguridad da contraseñas ntaka nuu.
 cfr-whatsnew-lockwise-take-link-text = Ni'i App
 
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tee mati'i, nani'i kue'e jii barra direcciones
+cfr-whatsnew-searchbar-body-topsites = Vitan, ntu xini kaji barra da direcciones je ku ka'nu iin cuadro ji enlaces kumi da nuu xinañu'u.
 cfr-whatsnew-searchbar-icon-alt-text = Ícono de lupa
 
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Kune´ya video saa jikanu
+cfr-whatsnew-pip-body = Función picture-in-picture xine'e tutu kana ji iin ventana nava sa kuvi kune'yanu sa satiñunu nu da inka sukua.
 cfr-whatsnew-pip-cta = Ka´vi kue´eka
 
 ## Permission Prompt
