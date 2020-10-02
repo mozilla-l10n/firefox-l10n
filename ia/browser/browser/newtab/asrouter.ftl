@@ -254,3 +254,7 @@ cfr-doorhanger-doh-secondary-button = Disactivar
 cfr-whatsnew-clear-cookies-header = Protection automatic contra tacticas de traciamento perfide
 cfr-whatsnew-clear-cookies-body = Alcun traciatores re-adresse te a altere sitos web que configura cookies secretemente. { -brand-short-name } ora automaticamente clara ille cookies de sorta que tu non pote esser sequite.
 cfr-whatsnew-clear-cookies-image-alt = Illustration cookie blocate
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-button = Apprende como
