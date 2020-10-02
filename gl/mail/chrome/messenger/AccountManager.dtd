@@ -2,11 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Configuración da conta">
+<!ENTITY  accountManagerCloseButton.label "Pechar">
 
 <!ENTITY accountActionsButton.label "Accións da conta">
 <!ENTITY accountActionsButton.accesskey "A">
@@ -22,8 +21,6 @@
 <!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Retirar conta">
 <!ENTITY removeButton.accesskey "R">
-
-<!-- AccountManager.xul -->
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
