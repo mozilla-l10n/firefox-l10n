@@ -336,6 +336,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Kua´a Micrófono:
     .accesskey = M
+popup-all-windows-shared = Kuaiyo da ventanas tuvi nu pantalla noo'o kuvi kua'a.
 popup-screen-sharing-not-now =
     .label = Nkuvi ntañu´u
     .accesskey = n
