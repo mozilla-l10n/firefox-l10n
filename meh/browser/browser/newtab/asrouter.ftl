@@ -99,6 +99,7 @@ cfr-whatsnew-fx70-body =
     Nu nɨ'ɨ a naxi'ña nasa'a vii función a kumi noo'o nuu ka̱a̱ nita noo'o je sa'a 
     a kuvi sa'anu contraseñas va'a je vatu nu ntaka sitio.
 cfr-whatsnew-tracking-protect-title = Kumi noo´o nuu ka̱a̱ nita
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } chiyu'u kue'e da ka̱a̱ sociales nita noo'o ji da nuu nita noo'o je nitada noo'o a sa'anu sa nánukunu.
 cfr-whatsnew-tracking-protect-link-text = Kune´ya reporte noo´o
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -110,6 +111,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Nee { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Kune´ya reporte
 cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
+cfr-whatsnew-lockwise-backup-body = Vitan kuvi sa'anu contraseñas vatu nu kuvi kivɨnu ntaka nu kuvi ni'inuma.
 cfr-whatsnew-lockwise-backup-link-text = Tee copias seguridad
 cfr-whatsnew-lockwise-take-title = Kuiso da contraseña ji noo´o
 cfr-whatsnew-lockwise-take-link-text = Ni'i App
