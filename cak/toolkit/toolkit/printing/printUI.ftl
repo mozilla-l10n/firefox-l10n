@@ -38,7 +38,6 @@ printui-less-settings = Jub'a' runuk'ulem
 printui-paper-size-label = Rupalem ruxaq
 # Section title (noun) for the print scaling options
 printui-scale = Xakb'äl
-printui-scale-fit-to-page = Titz'aj pa ruxaq
 printui-scale-fit-to-page-width = Titz'aj pa ruwa ri ruxaq
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Xakb'äl
@@ -53,6 +52,11 @@ printui-margins = Taq ruchi'
 printui-margins-default = K'o wi
 printui-margins-min = Ko'öl
 printui-margins-none = Majun
+printui-margins-custom = Ichinan
+printui-margins-custom-top = Ajsik
+printui-margins-custom-bottom = Ikim
+printui-margins-custom-left = Xokon
+printui-margins-custom-right = Ajkiq'a'
 printui-system-dialog-link = Titz'jb'äl rik'in ri rutzijonem q'inoj…
 printui-primary-button = Titz'ajb'äx
 printui-primary-button-save = Tiyak
@@ -82,6 +86,7 @@ printui-paper-tabloid = Taloyit
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Ri rukojol k'o chi jun ajilab'äl 10 o chuqa' 200.
+printui-error-invalid-margin = Tatz'ib'aj jun okel ruchi' rupalem wuj xacha'.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Ri rupalem k'o chi jun ajilab'äl 1 chuqa' { $numPages }.
