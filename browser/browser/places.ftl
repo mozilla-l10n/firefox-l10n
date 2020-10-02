@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = افتح في نافذة خاصة جديدة
     .accesskey = خ
-
 places-new-bookmark =
     .label = علامة جديدة…
     .accesskey = ع
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = فاصل جديد
     .accesskey = ف
-
 places-view =
     .label = اعرض
     .accesskey = ع
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = حسب التاريخ والموقع
     .accesskey = ق
-
 places-history-search =
     .placeholder = تأريخ البحث
 places-bookmarks-search =
     .placeholder = علامات البحث
-
 places-delete-domain-data =
     .label = انسَ هذا الموقع
     .accesskey = ن
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = الخصائص
     .accesskey = خ
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = العلامات المُدارة
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = مجلد فرعي

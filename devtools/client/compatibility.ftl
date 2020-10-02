@@ -11,11 +11,15 @@
 
 ## Messages used as labels and titles for buttons in the footer
 
+compatibility-settings-button-label = الإعدادات
+compatibility-settings-button-title =
+    .title = الإعدادات
 
 ## Messages used as headers in settings pane
 
 
 ##
 
+compatibility-no-issues-found = لم توجد أي مشاكل في التوافقية.
 compatibility-close-settings-button =
     .title = إعدادات الإغلاق

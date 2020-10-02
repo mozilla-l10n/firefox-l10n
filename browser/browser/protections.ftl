@@ -61,6 +61,7 @@ protections-close-button2 =
     .aria-label = أغلِق
     .title = أغلِق
 mobile-app-title = احجب الإعلانات المتعقّبة على أجزتك الأخرى
+mobile-app-card-content = استعمل متصفح المحمول ذا الحماية المدمجة ضد تعقّب الإعلانات.
 mobile-app-links = متصفّح { -brand-product-name } لنظامي <a data-l10n-name="android-mobile-inline-link">أندرويد</a> و<a data-l10n-name="ios-mobile-inline-link">آي‌أوإس</a>
 lockwise-title = بعد الآن، ”نسيت كلمة السر“ فعل ماض
 lockwise-title-logged-in2 = إدارة كلمات السر
@@ -106,6 +107,7 @@ monitor-header-content-no-account = انقر { -monitor-brand-name } لتعرف 
 monitor-header-content-signed-in = يُحذّرك { -monitor-brand-name } إن ظهرت معلوماتك في تسرّب معروف للبيانات.
 monitor-sign-up-link = سجّل لتصلك التنبيهات عن التسريبات
     .title = سجّل لتصلك التنبيهات عن التسريبات على { -monitor-brand-name }
+auto-scan = مجموع ما فُحص اليوم تلقائيًا
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -122,6 +124,10 @@ monitor-no-breaches-title = أخبار سارة!
 monitor-no-breaches-description = ما من تسريبات بيانات معروفة فيها بياناتك. سنُعلمك طبعًا في حال تغيّر الحال.
 monitor-manage-breaches-link = أدِر التسريبات
     .title = أدِر التسريبات من { -monitor-brand-short-name }
+monitor-breaches-resolved-description = سنُعلمك حال ظهور عنوان بريدك الإلكتروني في أي تسريب جديد للبيانات.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = تمت { $percentageResolved }%
 monitor-partial-breaches-motivation-title-start = بداية طيبة!
 monitor-partial-breaches-motivation-title-middle = واصل على هذا النحو!
 monitor-partial-breaches-motivation-title-end = أوشكنا! واصل على هذا النحو.

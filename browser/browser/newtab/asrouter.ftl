@@ -245,7 +245,9 @@ cfr-whatsnew-lockwise-icon-alt = أيقونة { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = استلم تنبيهات بخصوص كلمات السر الضعيفة
 cfr-whatsnew-passwords-body = يعرف المخترقون أن الناس تُعيد استعمال كلمات السر نفسها. فإن استعملت نفس كلمة السر في أكثر من موقع، وتسرّبت بيانات إحداها، فسترى في { -lockwise-brand-short-name } تنبيهًا لتغيير كلمة السر في تلك المواقع التي تستعمل نفس الكلمة.
+cfr-whatsnew-passwords-icon-alt = أيقونة مفتاح ”كلمة السر ضعيفة“
 
 ## Picture-in-Picture fullscreen message
 
@@ -276,3 +278,7 @@ cfr-doorhanger-doh-secondary-button = عطّل
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-body = تُوجّهك بعض المتعقّبات إلى مواقع أخرى تضبط الكعكات دون أن تعلم. يمسح { -brand-short-name } الآن تلقائيًا تلك الكعكات بذلك يستحيل تعقّبك.
+cfr-whatsnew-clear-cookies-image-alt = رسمٌ يوضّح ”حجب الكعكات“
+
+## What's new: Media controls message
+

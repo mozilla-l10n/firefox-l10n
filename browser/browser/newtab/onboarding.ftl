@@ -17,6 +17,14 @@ onboarding-button-label-get-started = فلنبدأ
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
@@ -46,6 +54,7 @@ onboarding-cards-dismiss =
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = مرحبًا في <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-subtitle = المتصفّح السريع والآمن والخاص وتدعمه مؤسسة غير ربحية.
+onboarding-multistage-welcome-primary-button-label = ابدأ الإعداد
 onboarding-multistage-welcome-secondary-button-label = لِج
 onboarding-multistage-welcome-secondary-button-text = ألديك حسابًا؟
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -69,8 +78,8 @@ onboarding-multistage-theme-header = اختر <span data-l10n-name="zap">مظه�
 onboarding-multistage-theme-subtitle = خصّص { -brand-short-name } باستعمال سمة.
 onboarding-multistage-theme-primary-button-label = احفظ السمة
 onboarding-multistage-theme-secondary-button-label = ليس الآن
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = استعمل سمة النظام
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = تلقائي
 onboarding-multistage-theme-label-light = فاتحة
 onboarding-multistage-theme-label-dark = داكنة
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -105,6 +114,44 @@ onboarding-multistage-theme-tooltip-alpenglow =
         استعمل مظهرًا ملونًا لعرض
         الأزرار والقوائم والنوافذ.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = لنبدأ رحلة البحث عمّا يمكنك فعله.
+onboarding-fullpage-form-email =
+    .placeholder = عنوان بريدك الإلكتروني…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = خذ معك { -brand-product-name } أينما ذهبت
+onboarding-sync-welcome-content = تشارك العلامات، وتأريخ التصفح، وكلمات السر وباقي الإعدادات على جميع أجهزتك.
+onboarding-sync-welcome-learn-more-link = اطّلع على المزيد عن حسابات Firefox
+onboarding-sync-form-input =
+    .placeholder = البريد الإلكتروني
+onboarding-sync-form-continue-button = تابِع
+onboarding-sync-form-skip-login-button = تجاوز هذه الخطوة
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = أدخِل بريدك الإلكتروني
+onboarding-sync-form-sub-header = لمواصلة استخدام { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = أنجِز أمورك مستخدما طقما من الأدوات يحترم خصوصيتك على مختلف الأجهزة لديك.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = كل ما نفعله يحترم ميثاق ”عهدة البيانات الشخصية“: استلم أدنى قدر، أبقِها آمنة ولا أسرار مخفية.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = خُذ معك علاماتك وكلمات السر والتأريخ وغيرها الكثير أينما تستعمل { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = استلم إشعارًا متى ما ظهرت معلوماتك الشخصية في تسريبٍ للبيانات.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = أدِر كلمات السر لديك المحمية والمحمولة.
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -145,44 +192,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         استعمل مظهرًا ملونًا لعرض
         الأزرار والقوائم والنوافذ.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = لنبدأ رحلة البحث عمّا يمكنك فعله.
-onboarding-fullpage-form-email =
-    .placeholder = عنوان بريدك الإلكتروني…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = خذ معك { -brand-product-name } أينما ذهبت
-onboarding-sync-welcome-content = تشارك العلامات، وتأريخ التصفح، وكلمات السر وباقي الإعدادات على جميع أجهزتك.
-onboarding-sync-welcome-learn-more-link = اطّلع على المزيد عن حسابات Firefox
-onboarding-sync-form-input =
-    .placeholder = البريد الإلكتروني
-onboarding-sync-form-continue-button = تابِع
-onboarding-sync-form-skip-login-button = تجاوز هذه الخطوة
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = أدخِل بريدك الإلكتروني
-onboarding-sync-form-sub-header = لمواصلة استخدام { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = أنجِز أمورك مستخدما طقما من الأدوات يحترم خصوصيتك على مختلف الأجهزة لديك.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = كل ما نفعله يحترم ميثاق ”عهدة البيانات الشخصية“: استلم أدنى قدر، أبقِها آمنة ولا أسرار مخفية.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = خُذ معك علاماتك وكلمات السر والتأريخ وغيرها الكثير أينما تستعمل { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = استلم إشعارًا متى ما ظهرت معلوماتك الشخصية في تسريبٍ للبيانات.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = أدِر كلمات السر لديك المحمية والمحمولة.
 
 ## These strings belong to the individual onboarding messages.
 
