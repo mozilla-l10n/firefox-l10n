@@ -91,6 +91,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = 디�
 experimental-features-graphics-desktop-zooming =
     .label = 그래픽: 부드러운 핀치 확대/축소
 experimental-features-graphics-desktop-zooming-description = 터치 스크린 및 정밀 터치 패드에서 부드러운 핀치 확대/축소를 지원합니다.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC 전역 음소거 설정/해제
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
