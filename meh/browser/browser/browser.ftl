@@ -164,6 +164,18 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+           *[other] Chu'un íchi sukuan nu ka̱a̱
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+           *[other] Chu'un íchi su̱ku̱a nu ka̱a̱
+        }
 page-action-pocket-panel =
     .label = Chuva´a página nuu { -pocket-brand-name }
 page-action-copy-url-panel =
@@ -206,7 +218,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nánuku ji:
 # This string won't wrap, so if the translated string is longer,
@@ -381,6 +393,8 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Nánuku ji { $name } a xíín chu'un iin nuu
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ka̱a̱ nánuku íyo controlado a distancia
 urlbar-permissions-granted =
     .tooltiptext = Nña'anu permiso nuu web ya´a
 urlbar-switch-to-tab =
@@ -411,6 +425,7 @@ urlbar-result-action-search-in-private = Nánuku nuu iin ventana yu´u
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Nánuku ji { $engine }
+urlbar-result-action-switch-tab = Sama su̱ku̱a
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
