@@ -15,7 +15,7 @@
 <!ENTITY deleteButton.accesskey "l">
 <!ENTITY reorderTopButton "Do zachopjeńka pśesunuś">
 <!ENTITY reorderTopButton.accessKey "s">
-<!ENTITY reorderTopButton.toolTip "Filter takle pśerědowaś, aby se pśed wšymi drugimi wuwjadł">
+<!ENTITY reorderTopButton.toolTip "Filter tak pśerědowaś, aby se pśed wšymi drugimi wuwjadł">
 <!ENTITY reorderUpButton.label "Górjej">
 <!ENTITY reorderUpButton.accesskey "G">
 <!ENTITY reorderDownButton.label "Dołoj">
@@ -36,6 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "u">
 <!ENTITY helpButton.label "Pomoc">
 <!ENTITY helpButton.accesskey "P">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Filtry pó mjenju pśepytaś…">
-
