@@ -38,7 +38,6 @@ printui-less-settings = Weniger Einstellungen
 printui-paper-size-label = Papiergröße
 # Section title (noun) for the print scaling options
 printui-scale = Skalierung
-printui-scale-fit-to-page = An Seite anpassen
 printui-scale-fit-to-page-width = An Seitenbreite anpassen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalierung
@@ -53,6 +52,11 @@ printui-margins = Ränder
 printui-margins-default = Standard
 printui-margins-min = Minimal
 printui-margins-none = Keine
+printui-margins-custom = Benutzerdefiniert
+printui-margins-custom-top = Oben
+printui-margins-custom-bottom = Unten
+printui-margins-custom-left = Links
+printui-margins-custom-right = Rechts
 printui-system-dialog-link = Mit Systemdialog drucken…
 printui-primary-button = Drucken
 printui-primary-button-save = Speichern
