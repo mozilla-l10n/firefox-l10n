@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = 카메라 켜기
 webrtc-minimize =
     .title = 표시기 최소화
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = 카메라를 공유하고 있습니다. 공유를 제어하려면 누르세요.
+webrtc-microphone-system-menu =
+    .label = 마이크를 공유하고 있습니다. 공유를 제어하려면 누르세요.
+webrtc-screen-system-menu =
+    .label = 창이나 화면을 공유하고 있습니다. 공유를 제어하려면 누르세요.
