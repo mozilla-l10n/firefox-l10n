@@ -447,6 +447,14 @@ urlbar-result-action-visit = Woglědaś se
 urlbar-result-action-search-bookmarks = Cytańske znamjenja pśepytaś
 urlbar-result-action-search-history = Historiju pśepytaś
 urlbar-result-action-search-tabs = Rejtariki pśepytaś
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Z { $engine } direktnje z adresowego póla pytaś
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Z { $engine } direktnje z adresowego póla pytaś
 
 ## Full Screen and Pointer Lock UI
 
