@@ -122,8 +122,13 @@ info-monitored-emails =
     }
 monitor-no-breaches-title = أخبار سارة!
 monitor-no-breaches-description = ما من تسريبات بيانات معروفة فيها بياناتك. سنُعلمك طبعًا في حال تغيّر الحال.
+monitor-view-report-link = اعرض التقرير
+    .title = حُلّ التسريبات على { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = حُلّ تسريبات معلوماتك
+monitor-breaches-unresolved-description = بعدما تراجع تفاصيل التسريب وتأخذ الخطوات اللازمة لحماية معلوماتك، يمكنك وضع علامة ”حُلّ“ على التسريب.
 monitor-manage-breaches-link = أدِر التسريبات
     .title = أدِر التسريبات من { -monitor-brand-short-name }
+monitor-breaches-resolved-title = جميل! حللت كل تسريبات البيانات المعروفة.
 monitor-breaches-resolved-description = سنُعلمك حال ظهور عنوان بريدك الإلكتروني في أي تسريب جديد للبيانات.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
@@ -131,6 +136,7 @@ monitor-partial-breaches-percentage = تمت { $percentageResolved }%
 monitor-partial-breaches-motivation-title-start = بداية طيبة!
 monitor-partial-breaches-motivation-title-middle = واصل على هذا النحو!
 monitor-partial-breaches-motivation-title-end = أوشكنا! واصل على هذا النحو.
+monitor-partial-breaches-motivation-description = حُلّ بقية التسريبات على { -monitor-brand-short-name }.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -149,4 +155,15 @@ bar-tooltip-social =
             [few] { $count } متعقبات لمواقع التواصل الاجتماعي ({ $percentage }٪)
             [many] { $count } متعقبا لمواقع التواصل الاجتماعي ({ $percentage }٪)
            *[other] { $count } متعقب لمواقع التواصل الاجتماعي ({ $percentage }٪)
+        }
+bar-tooltip-cookie =
+    .title = الكعكات التي تتعقّبك بين المواقع
+    .aria-label =
+        { $count ->
+            [zero] ما من كعكات تتعقّبك بين المواقع ({ $percentage }%)
+            [one] كعكة واحدة من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
+            [two] كعكتان من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
+            [few] { $count } كعكات من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
+            [many] { $count } كعكة من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
+           *[other] { $count } كعكة من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
         }
