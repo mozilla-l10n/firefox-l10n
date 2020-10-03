@@ -91,6 +91,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Εν
 experimental-features-graphics-desktop-zooming =
     .label = Γραφικά: Ζουμ με ομαλό "τσίμπημα" (pinch)
 experimental-features-graphics-desktop-zooming-description = Ενεργοποιεί την υποστήριξη για ομαλό ζουμ σε οθόνες αφής και επιφάνειες αφής ακριβείας.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Καθολικοί διακόπτες σίγασης WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Προσθήκη στοιχείων ελέγχου στον καθολικό δείκτη κοινής χρήσης WebRTC που επιτρέπει στους χρήστες να κάνουν καθολική σίγαση του μικροφώνου και της κάμεράς τους.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
