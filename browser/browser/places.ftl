@@ -60,6 +60,9 @@ places-sortby-name =
 places-properties =
     .label = คุณสมบัติ
     .accesskey = ส
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = ที่คั่นหน้าที่ถูกจัดการ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = โฟลเดอร์ย่อย
