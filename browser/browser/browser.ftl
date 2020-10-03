@@ -442,6 +442,14 @@ urlbar-result-action-visit = ביקור
 urlbar-result-action-search-bookmarks = חיפוש בסימניות
 urlbar-result-action-search-history = חיפוש בהיסטוריה
 urlbar-result-action-search-tabs = חיפוש לשוניות
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = חיפוש באמצעות { $engine } ישירות משורת הכתובת
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = חיפוש ב־{ $engine } ישירות משורת הכתובת
 
 ## Full Screen and Pointer Lock UI
 
