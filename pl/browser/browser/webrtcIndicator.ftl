@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Włącz kamerę
 webrtc-minimize =
     .title = Minimalizuj wskaźnik
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Obraz z kamery jest udostępniany. Kliknij, aby zarządzać udostępnianiem.
+webrtc-microphone-system-menu =
+    .label = Dźwięk z mikrofonu jest udostępniany. Kliknij, aby zarządzać udostępnianiem.
+webrtc-screen-system-menu =
+    .label = Okno lub ekran jest udostępniany. Kliknij, aby zarządzać udostępnianiem.

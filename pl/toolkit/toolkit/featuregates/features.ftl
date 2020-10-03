@@ -94,6 +94,7 @@ experimental-features-graphics-desktop-zooming-description = Włącza obsługę 
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Przełączniki globalnego wyciszania WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Dodaje elementy sterujące do globalnego wskaźnika udostępniania WebRTC umożliwiające użytkownikom globalne wyciszanie transmisji dźwięku z mikrofonu i obrazu z kamery.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
