@@ -250,3 +250,9 @@ cfr-doorhanger-doh-secondary-button = 사용 안 함
 cfr-whatsnew-clear-cookies-header = 교활한 추적 전술로부터 자동 보호
 cfr-whatsnew-clear-cookies-body = 일부 추적기는 몰래 쿠키를 설정하는 다른 웹 사이트로 사용자를 리디렉션합니다. 이제 { -brand-short-name }는 이런 쿠키를 자동으로 지우므로 사용자를 따라다닐 수 없습니다.
 cfr-whatsnew-clear-cookies-image-alt = 쿠키 차단 그림
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = 더 많은 미디어 컨트롤
+cfr-whatsnew-media-keys-body = 키보드 또는 헤드셋에서 바로 오디오 또는 비디오를 재생 및 일시 중지하여 다른 탭, 프로그램 또는 컴퓨터가 잠긴 경우에도 미디어를 쉽게 제어할 수 있습니다. 또한 앞으로 및 뒤로 키를 사용하여 트랙 사이를 이동할 수도 있습니다.
+cfr-whatsnew-media-keys-button = 방법 알아보기
