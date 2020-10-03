@@ -270,6 +270,7 @@ cfr-whatsnew-better-pdf-body = تفتح مستندات PDF الآن مباشرة
 ## DOH Message
 
 cfr-doorhanger-doh-body = خصوصيّتك مهمة. يُوجّه الآن { -brand-short-name } كل طلبات DNS التي تُجريها (متى كان ممكنًا) إلى خدمة شريكة، ذلك لحمايتك وأنت تتصفّح.
+cfr-doorhanger-doh-header = عمليات بحث DNS أكثر أمانًا وتعميةً
 cfr-doorhanger-doh-primary-button = حسنًا، فهمت
     .accesskey = ح
 cfr-doorhanger-doh-secondary-button = عطّل
@@ -277,6 +278,7 @@ cfr-doorhanger-doh-secondary-button = عطّل
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = الحماية التلقائية ضد أساليب التعقّب المتخفّية
 cfr-whatsnew-clear-cookies-body = تُوجّهك بعض المتعقّبات إلى مواقع أخرى تضبط الكعكات دون أن تعلم. يمسح { -brand-short-name } الآن تلقائيًا تلك الكعكات بذلك يستحيل تعقّبك.
 cfr-whatsnew-clear-cookies-image-alt = رسمٌ يوضّح ”حجب الكعكات“
 
