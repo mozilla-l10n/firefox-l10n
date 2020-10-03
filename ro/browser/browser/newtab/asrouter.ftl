@@ -128,7 +128,7 @@ cfr-whatsnew-searchbar-icon-alt-text = Pictogramă lupă
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Urmărești videoclipuri în timp ce navighezi
-cfr-whatsnew-pip-body = Funcția de imagine-în-imagine inserează videoclipul într-o fereastră flotantă ca să îl poți vedea în timp ce lucrezi în alte file.
+cfr-whatsnew-pip-body = Funcția „picture-in-picture” scoate videoclipul într-o fereastră flotantă ca să îl poți vedea în timp ce lucrezi în alte file.
 cfr-whatsnew-pip-cta = Află mai multe
 
 ## Permission Prompt
@@ -230,9 +230,9 @@ cfr-whatsnew-passwords-icon-alt = Pictogramă de parolă vulnerabilă
 
 ## Picture-in-Picture fullscreen message
 
-cfr-whatsnew-pip-fullscreen-header = Folosește modul imagine-în-imagine pe tot ecranul
+cfr-whatsnew-pip-fullscreen-header = Folosește modul picture-in-picture pe tot ecranul
 cfr-whatsnew-pip-fullscreen-body = Când deschizi un videoclip într-o fereastră flotantă, poți da dublu clic pe ea ca să o vezi pe tot ecranul.
-cfr-whatsnew-pip-fullscreen-icon-alt = Pictogramă de imagine-în-imagine
+cfr-whatsnew-pip-fullscreen-icon-alt = Pictogramă de picture-in-picture
 
 ## Protections Dashboard message
 
@@ -260,3 +260,6 @@ cfr-doorhanger-doh-secondary-button = Dezactivează
 cfr-whatsnew-clear-cookies-header = Protecție automată împotriva tacticilor insidioase de urmărire
 cfr-whatsnew-clear-cookies-body = Unele elemente de urmărire te redirecționează pe alte site-uri web care setează cookie-uri în secret. Acum, { -brand-short-name } elimină automat aceste cookie-uri ca să nu poți fi urmărit(ă).
 cfr-whatsnew-clear-cookies-image-alt = Ilustrație de cookie blocat
+
+## What's new: Media controls message
+
