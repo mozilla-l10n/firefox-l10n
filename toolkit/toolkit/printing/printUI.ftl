@@ -53,6 +53,8 @@ printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Ingen
 printui-margins-custom = Anpassad
+printui-margins-custom-top = Toppen
+printui-margins-custom-bottom = Botten
 printui-margins-custom-left = Vänster
 printui-margins-custom-right = Höger
 printui-system-dialog-link = Skriv ut via systemets dialogruta…
@@ -84,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skalan måste vara ett nummer mellan 10 och 200.
+printui-error-invalid-margin = Ange en giltig marginal för den valda pappersstorleken.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Området måste vara ett nummer mellan 1 och { $numPages }.
