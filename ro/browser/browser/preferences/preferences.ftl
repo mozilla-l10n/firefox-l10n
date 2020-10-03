@@ -564,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Schimbă preferințele pentru alte sugestii în bara de adrese
 search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header = Motoare de căutare la un clic distanță
+search-one-click-header2 = Comenzi rapide pentru căutări
 search-one-click-desc = Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.
 search-choose-engine-column =
     .label = Motor de căutare
