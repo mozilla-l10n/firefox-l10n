@@ -91,6 +91,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = 在�
 experimental-features-graphics-desktop-zooming =
     .label = 图形：平滑手势缩放
 experimental-features-graphics-desktop-zooming-description = 启用对触摸屏和精密触控板上平滑手势缩放的支持。
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC 全局音视频输入开关
 experimental-features-webrtc-global-mute-toggles-description = 添加控件到 WebRTC 全局共享指示器中，让用户可以全局关闭麦克风和摄像头输入。
 # JS JIT Warp project
 experimental-features-js-warp =
