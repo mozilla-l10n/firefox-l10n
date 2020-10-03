@@ -39,7 +39,6 @@ printui-less-settings = Основные настройки
 printui-paper-size-label = Размер бумаги
 # Section title (noun) for the print scaling options
 printui-scale = Масштаб
-printui-scale-fit-to-page = По размеру страницы
 printui-scale-fit-to-page-width = По ширине страницы
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Масштаб
@@ -54,6 +53,11 @@ printui-margins = Поля
 printui-margins-default = По умолчанию
 printui-margins-min = Минимальные
 printui-margins-none = Нет
+printui-margins-custom = Настраиваемые
+printui-margins-custom-top = Верхнее
+printui-margins-custom-bottom = Нижнее
+printui-margins-custom-left = Левое
+printui-margins-custom-right = Правое
 printui-system-dialog-link = Печатать, используя системный диалог…
 printui-primary-button = Печать
 printui-primary-button-save = Сохранить
@@ -83,6 +87,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Масштаб должен быть числом от 10 до 200.
+printui-error-invalid-margin = Пожалуйста, введите допустимые значения полей для выбранного размера бумаги.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Диапазон должен быть числом от 1 до { $numPages }.
