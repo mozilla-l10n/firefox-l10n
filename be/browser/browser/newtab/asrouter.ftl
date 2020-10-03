@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Паспрабуйце: Прышпіліць к�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаму я гэта бачу
-
 cfr-doorhanger-extension-cancel-button = Не зараз
     .accesskey = Н
-
 cfr-doorhanger-extension-ok-button = Дадаць
     .accesskey = Д
 cfr-doorhanger-pintab-ok-button = Прышпіліць гэту картку
     .accesskey = П
-
 cfr-doorhanger-extension-manage-settings-button = Кіраваць наладамі рэкамендацый
     .accesskey = ь
-
 cfr-doorhanger-extension-never-show-recommendation = Не паказваць мне гэту рэкамендацыю
     .accesskey = ы
-
 cfr-doorhanger-extension-learn-more-link = Даведацца больш
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ад { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рэкамендацыя
 cfr-doorhanger-extension-notification2 = Рэкамендацыя
     .tooltiptext = Рэкамендацыя пашырэння
     .a11y-announcement = Даступна рэкамендацыя пашырэння
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Рэкамендацыя
@@ -69,7 +61,6 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } карыстальнікі
        *[many] { $total } карыстальнікаў
     }
-
 cfr-doorhanger-pintab-description = Атрымайце зручны доступ да найчасцей наведаных сайтаў. Трымайце сайты адкрытымі ў картках (нават пасля перазапуску).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -77,10 +68,8 @@ cfr-doorhanger-pintab-description = Атрымайце зручны доступ
 cfr-doorhanger-pintab-step1 = <b>Націсніце правай кнопкай</b> на картцы, якую хочаце прышпіліць.
 cfr-doorhanger-pintab-step2 = Выберыце <b>Прышпіліць картку</b> ў меню.
 cfr-doorhanger-pintab-step3 = Калі сайт абнавіўся, вы ўбачыце блакітную кропку на прышпіленай картцы.
-
 cfr-doorhanger-pintab-animation-pause = Прыпыніць
 cfr-doorhanger-pintab-animation-resume = Працягнуць
-
 
 ## Firefox Accounts Message
 
@@ -102,26 +91,20 @@ cfr-protections-panel-link-text = Даведацца больш
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Новая функцыя:
-
 cfr-whatsnew-button =
     .label = Што новага
     .tooltiptext = Што новага
-
 cfr-whatsnew-panel-header = Што новага
-
 cfr-whatsnew-release-notes-link-text = Прачытаць заўвагі да выпуску
-
 cfr-whatsnew-fx70-title = { -brand-short-name } цяпер мацней змагаецца за вашу прыватнасць
 cfr-whatsnew-fx70-body =
     Апошняе абнаўленне паляпшае функцыю аховы ад сачэння і робіць
     лягчэйшым стварэнне бяспечных пароляў для кожнага сайта.
-
 cfr-whatsnew-tracking-protect-title = Абараніце сябе ад трэкераў
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } блакуе многія сацыяльныя і міжсайтавыя трэкеры,
     якія назіраюць за тым, што вы робіце ў Інтэрнэце.
 cfr-whatsnew-tracking-protect-link-text = Паглядзець справаздачу
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -133,11 +116,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = З { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Паглядзець справаздачу
-
 cfr-whatsnew-lockwise-backup-title = Рэзервовае капіраванне пароляў
 cfr-whatsnew-lockwise-backup-body = Цяпер можна генераваць бяспечныя паролі і атрымліваць доступ да іх у любым месцы.
 cfr-whatsnew-lockwise-backup-link-text = Уключыць рэзервовае капіяванне
-
 cfr-whatsnew-lockwise-take-title = Вазьміце свае паролі з сабой
 cfr-whatsnew-lockwise-take-body =
     Праграма { -lockwise-brand-short-name } на тэлефоне дазваляе бяспечна
@@ -174,7 +155,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[many] Збіральнікаў лічбавых адбіткаў заблакавана
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блакуе мноства збіральнікаў лічбавых адбіткаў, якія таемна збіраюць інфармацыю пра вашу прыладу і дзеянні для стварэння вашага рэкламнага профілю.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Збіральнікі лічбавых адбіткаў
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } можа блакаваць збіральнікаў лічбавых адбіткаў, якія таемна збіраюць інфармацыю пра вашу прыладу і дзеянні для стварэння вашага рэкламнага профілю.
@@ -236,7 +216,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Пабачыць усе
     .accesskey = ы
-
 cfr-doorhanger-milestone-close-button = Закрыць
     .accesskey = З
 
@@ -287,3 +266,9 @@ cfr-doorhanger-doh-secondary-button = Адключыць
 cfr-whatsnew-clear-cookies-header = Аўтаматычная абарона ад падступнай тактыкі сачэння
 cfr-whatsnew-clear-cookies-body = Некаторыя трэкеры перанакіроўваюць вас на іншыя сайты, якія таемна ўсталёўваюць кукі. { -brand-short-name } зараз аўтаматычна ачышчае гэтыя кукі, каб за вамі не маглі сачыць.
 cfr-whatsnew-clear-cookies-image-alt = Прыклад блакавання кукаў
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Больш элементаў кіравання медыя
+cfr-whatsnew-media-keys-body = Прайгравайце і прыпыняйце аўдыя ці відэа прама з клавіятуры або гарнітуры, дзякуючы чаму лёгка кіраваць медыя з іншай карткі, праграмы ці нават калі ваш камп'ютар заблакаваны. Таксама можаце перамяшчацца паміж трэкамі з дапамогай кнопак наперад і назад.
+cfr-whatsnew-media-keys-button = Даведацца, як
