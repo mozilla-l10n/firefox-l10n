@@ -282,3 +282,5 @@ cfr-whatsnew-clear-cookies-image-alt = رسمٌ يوضّح ”حجب الكعك�
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = تحكّمات أخرى بالوسائط
+cfr-whatsnew-media-keys-button = اطّلع على المزيد
