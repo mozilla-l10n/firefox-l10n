@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-copies.xul -->
-
 <!-- extracted from am-copies.xhtml -->
 
 <!ENTITY copyAndFolderTitle.label "Copias e cartafoles">
@@ -38,6 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Outro:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Borradores e modelos">
+<!ENTITY keepDrafts2.label "Manter os borradores en:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Cartafol &quot;Borradores&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "B">

@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-addressing.xul -->
-
 <!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Edición e enderezos">
@@ -19,8 +17,6 @@
 <!ENTITY directories.accesskey     "v">
 <!ENTITY directoriesNone.label     "Ningún">
 
-<!-- am-addressing.xul -->
-
 <!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Redacción">
@@ -29,6 +25,9 @@
 <!ENTITY useHtml.accesskey                    "d">
 <!ENTITY autoQuote.label                      "Citar automaticamente a mensaxe orixinal ao responder">
 <!ENTITY autoQuote.accesskey                  "u">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Ao citar,">
+<!ENTITY quoting.accesskey                    "c">
 <!ENTITY aboveQuote.label                     "comezar a resposta enriba da cita">
 <!ENTITY belowQuote.label                     "comezar a resposta debaixo da cita">
 <!ENTITY selectAndQuote.label                 "seleccionar a cita">
