@@ -38,7 +38,6 @@ printui-less-settings = Λιγότερες ρυθμίσεις
 printui-paper-size-label = Μέγεθος χαρτιού
 # Section title (noun) for the print scaling options
 printui-scale = Κλίμακα
-printui-scale-fit-to-page = Προσαρμογή στη σελίδα
 printui-scale-fit-to-page-width = Προσαρμογή στο πλάτος σελίδας
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Κλίμακα
@@ -53,6 +52,11 @@ printui-margins = Περιθώρια
 printui-margins-default = Προεπιλογή
 printui-margins-min = Ελάχιστα
 printui-margins-none = Χωρίς
+printui-margins-custom = Προσαρμοσμένο
+printui-margins-custom-top = Πάνω
+printui-margins-custom-bottom = Κάτω
+printui-margins-custom-left = Αριστερά
+printui-margins-custom-right = Δεξιά
 printui-system-dialog-link = Εκτύπωση μέσω διαλόγου συστήματος…
 printui-primary-button = Εκτύπωση
 printui-primary-button-save = Αποθήκευση
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Η κλίμακα πρέπει να είναι μεταξύ 10 και 200.
+printui-error-invalid-margin = Εισάγετε ένα έγκυρο περιθώριο για το επιλεγμένο μέγεθος χαρτιού.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Το εύρος πρέπει να είναι αριθμός μεταξύ 1 και { $numPages }.
