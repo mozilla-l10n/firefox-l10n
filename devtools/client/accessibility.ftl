@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = اطّلع على المزيد
+accessibility-text-label-header = تسميات النصوص والأسماء
 accessibility-keyboard-header = لوحة المفاتيح
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
@@ -29,8 +30,17 @@ accessibility-text-label-issue-figure = عليك تسمية الأشكال ال�
 accessibility-text-label-issue-fieldset = عليك تسمية عناصر <code>fieldset</code>. <a>اطّلع على المزيد</a>
 accessibility-text-label-issue-fieldset-legend2 = استعمل عنصر <code>legend</code> لتسمية <span>fieldset</span>.  <a>اطّلع على المزيد</a>
 accessibility-text-label-issue-form = عليك تسمية عناصر الاستمارات. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-form-visible = يجب أن يكون لعناصر الاستمارات تسمية نصوص واضحة. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-frame = عليك تسمية عناصر <code>frame</code>. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-glyph = استعمل صفة <code>alt</code> لتسمية عناصر <span>mglyph</span>. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-iframe = استعمل صفة <code>title</code> لوصف محتوى<span>iframe</span>. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-image = عليك تسمية المحتوى الذي فيه صور. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-interactive = عليك تسمية العناصر التفاعلية. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-optgroup-label2 = استعمل صفة <code>label</code> لتسمية <span>optgroup</span>. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-toolbar = عليك تسمية أشرطة الأدوات إن كان هناك أكثر من واحد. <a>اطّلع على المزيد</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-tabindex = تجّب استعمال صفة <code>tabindex</code> تزيد عن الصفر. <a>اطّلع على المزيد</a>
