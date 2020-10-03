@@ -38,7 +38,6 @@ printui-less-settings = Mens de paramètres
 printui-paper-size-label = Talha papièr
 # Section title (noun) for the print scaling options
 printui-scale = Escala
-printui-scale-fit-to-page = Adaptar a la pagina
 printui-scale-fit-to-page-width = Ajustar a la largor de la pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
@@ -53,6 +52,11 @@ printui-margins = Marges
 printui-margins-default = Per defaut
 printui-margins-min = Minimum
 printui-margins-none = Pas cap
+printui-margins-custom = Personalizats
+printui-margins-custom-top = Naut
+printui-margins-custom-bottom = Bas
+printui-margins-custom-left = Esquèrra
+printui-margins-custom-right = Drecha
 printui-system-dialog-link = Imprimir en utilizant los menús del sistèma…
 printui-primary-button = Imprimir
 printui-primary-button-save = Enregistrar
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloïde
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = L’escala deu èsser un nombre entre 10 e 200.
+printui-error-invalid-margin = Picatz un marge valid per la talha de papièr causida.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = La plaja deu èsser un nombre entre 1 e { $numPages }.
