@@ -267,6 +267,7 @@ key-man-button-import = &İçe aktar
 delete-key-title = OpenPGP anahtarını sil
 delete-external-key-description = Bu harici GnuPG anahtar kimliğini kaldırmak istiyor musunuz?
 key-in-use-title = Şu anda kullanılan OpenPGP anahtarı
+key-error-not-accepted-as-personal = '{ $keySpec }' kimliğine sahip anahtarın kişisel anahtarınız olduğunu doğrulamadınız.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Seçtiğiniz işlev çevrimdışı modda kullanılamaz. Lütfen çevrimiçi olun ve tekrar deneyin.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
@@ -303,6 +304,7 @@ key-man-button-generate-key = Anahtar &oluştur
 key-abort = Anahtar üretimi iptal edilsin mi?
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Hata - şifre çözme başarısız oldu
+signature-verified-ok = { $attachment } ekinin imzası başarıyla doğrulandı
 signature-verify-failed = { $attachment } ekinin imzası doğrulanamadı
 msg-compose-details-button-label = Ayrıntılar…
 msg-compose-details-button-access-key = n
@@ -323,6 +325,8 @@ do-import-multiple =
 do-import-one = { $name } ({ $id }) içe aktarılsın mı?
 unverified-reply = Girintili ileti kısmı (yanıt) muhtemelen değiştirilmiş
 sig-mismatch = Hata - İmza uyuşmazlığı
+invalid-email = Hata: geçersiz e-posta adres(ler)i
+dlg-button-view = &Göster
 # Strings used in encryption.jsm
 not-required = Hata - şifreleme gerekmiyor
 # Strings used in windows.jsm
