@@ -778,7 +778,7 @@ forms-primary-pw-learn-more-link = Saznaj više
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = Promijeni glavnu lozinku …
+    .label = Promijeni primarnu lozinku …
     .accesskey = m
 forms-master-pw-fips-title = Trenutačno si u FIPS modu. FIPS ne dopušta praznu glavnu lozinku.
 forms-primary-pw-change =
@@ -788,6 +788,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Prije poznato kao glavna lozinka
+forms-primary-pw-fips-title = Trenutno si u načinu rada FIPS. FIPS ne dopušta praznu primarnu lozinku.
 forms-master-pw-fips-desc = Promjena lozinke nije uspjela
 
 ## OS Authentication dialog
@@ -797,6 +798,8 @@ forms-master-pw-fips-desc = Promjena lozinke nije uspjela
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = stvori glavnu lozinku
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Za stvaranje primarne lozinke, unesi svoje podatke za prijavu na Windows. Ovo pomaže u zaštiti tvojih računa.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

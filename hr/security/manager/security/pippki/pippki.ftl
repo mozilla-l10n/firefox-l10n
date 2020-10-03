@@ -8,7 +8,6 @@ password-quality-meter = Mjerač kvalitete lozinke
 
 change-password-window =
     .title = Promijeni glavnu lozinku
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sigurnosni uređaj: { $tokenName }
@@ -24,9 +23,14 @@ reset-password-window =
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Ponovno postavljanje primarne lozinke
+    .style = width: 40em
 reset-password-button-label =
     .label = Poništi
 reset-password-text = Ako poništiš glavnu lozinku, zaboravit će se sve spremljene lozinke web stranica i e-pošte, te spremljeni formulari, osobni certifikati i privatni ključevi. Zaista želiš poništiti svoju glavnu lozinku?
+pippki-reset-password-confirmation-title = Ponovno postavljanje primarne lozinke
+pippki-reset-password-confirmation-message = Tvoja primarna lozinka ponovno je postavljena.
 
 ## Downloading cert dialog
 

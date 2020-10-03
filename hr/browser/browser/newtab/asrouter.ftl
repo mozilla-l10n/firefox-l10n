@@ -268,4 +268,5 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustracija blokiranog kolačića
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Više medijskih kontrola
+cfr-whatsnew-media-keys-body = Reproduciraj i pauziraj zvuk ili video izravno s tipkovnicom ili slušalicama, što olakšava upravljanje medijima iz druge kartice, programa ili čak kada je računalo zaključano. Možeš se i kretati između pjesama pomoću tipki naprijed i natrag.
 cfr-whatsnew-media-keys-button = Saznaj kako
