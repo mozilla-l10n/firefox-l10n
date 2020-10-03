@@ -435,6 +435,10 @@ urlbar-result-action-visit = 访问
 urlbar-result-action-search-bookmarks = 搜索书签
 urlbar-result-action-search-history = 搜索历史记录
 urlbar-result-action-search-tabs = 搜索标签页
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = 直接从地址栏在 { $engine } 上搜索
 
 ## Full Screen and Pointer Lock UI
 

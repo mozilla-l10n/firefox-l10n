@@ -37,7 +37,6 @@ printui-less-settings = 更少设置
 printui-paper-size-label = 纸张大小
 # Section title (noun) for the print scaling options
 printui-scale = 缩放
-printui-scale-fit-to-page = 自适应纸张
 printui-scale-fit-to-page-width = 自适应页面宽度
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 缩放比例
@@ -52,6 +51,11 @@ printui-margins = 边距
 printui-margins-default = 默认
 printui-margins-min = 最小
 printui-margins-none = 无
+printui-margins-custom = 自定义
+printui-margins-custom-top = 顶端对齐
+printui-margins-custom-bottom = 底端对齐
+printui-margins-custom-left = 左对齐
+printui-margins-custom-right = 右对齐
 printui-system-dialog-link = 使用系统对话框打印...
 printui-primary-button = 打印
 printui-primary-button-save = 保存
@@ -81,6 +85,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = 缩放比例须在 10 到 200 之间。
+printui-error-invalid-margin = 请输入所选纸张大小的有效边距。
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = 打印范围须在第 1 页到第 { $numPages } 页之间。
