@@ -38,7 +38,6 @@ printui-less-settings = Daha az ayar
 printui-paper-size-label = Kâğıt boyutu
 # Section title (noun) for the print scaling options
 printui-scale = Ölçek
-printui-scale-fit-to-page = Sayfaya sığdır
 printui-scale-fit-to-page-width = Sayfa genişliğine sığdır
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Ölçeklendir
@@ -53,6 +52,11 @@ printui-margins = Kenar boşlukları
 printui-margins-default = Varsayılan
 printui-margins-min = Minimum
 printui-margins-none = Yok
+printui-margins-custom = Özel
+printui-margins-custom-top = Üst
+printui-margins-custom-bottom = Alt
+printui-margins-custom-left = Sol
+printui-margins-custom-right = Sağ
 printui-system-dialog-link = Sistem iletişim kutusuyla yazdır…
 printui-primary-button = Yazdır
 printui-primary-button-save = Kaydet
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Ölçek, 10 ile 200 arasında bir sayı olmalıdır.
+printui-error-invalid-margin = Lütfen seçilen kâğıt boyutu için geçerli bir kenar boşluğu girin.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Aralık, 1 ile { $numPages } arasında bir sayı olmalıdır.
