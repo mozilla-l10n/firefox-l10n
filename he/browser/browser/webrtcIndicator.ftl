@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = הפעלת המצלמה
 webrtc-minimize =
     .title = מזעור המחוון
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = המצלמה שלך משותפת כעת. יש ללחוץ כדי לשלוט על השיתוף.
+webrtc-microphone-system-menu =
+    .label = המיקרופון שלך משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
+webrtc-screen-system-menu =
+    .label = החלון או המסך שלך משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
