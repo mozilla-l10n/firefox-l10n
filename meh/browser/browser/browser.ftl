@@ -164,18 +164,6 @@ page-action-remove-extension =
 
 ## Page Action menu
 
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-           *[other] Chu'un íchi sukuan nu ka̱a̱
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-           *[other] Chu'un íchi su̱ku̱a nu ka̱a̱
-        }
 page-action-pocket-panel =
     .label = Chuva´a página nuu { -pocket-brand-name }
 page-action-copy-url-panel =
