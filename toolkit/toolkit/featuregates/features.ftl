@@ -62,6 +62,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = הפ
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = מתגים להשתקה גלובלית של WebRTC
+experimental-features-webrtc-global-mute-toggles-description = הוספת פקדים למחוון השיתוף הגלובלי של WebRTC המאפשר למשתמשים להשתיק את הזנות המיקרופון והמצלמה שלהם.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
