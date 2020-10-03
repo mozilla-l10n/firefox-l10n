@@ -76,7 +76,10 @@
 <!ENTITY HomeWebPage.accesskey          "w">
 <!ENTITY Birthday.label                 "Aniversario:">
 <!ENTITY Birthday.accesskey             "n">
+<!ENTITY Month.placeholder              "Mes">
+<!ENTITY Day.placeholder                "Día">
 <!ENTITY Year.placeholder               "Ano">
+<!ENTITY Age.label                      "Idade:">
 <!ENTITY Age.placeholder                "Idade">
 
 <!ENTITY Work.tab                       "Traballo">
