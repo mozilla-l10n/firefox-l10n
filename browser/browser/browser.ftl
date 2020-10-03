@@ -445,6 +445,14 @@ urlbar-result-action-visit = Posjeti
 urlbar-result-action-search-bookmarks = Pretraži zabilješke
 urlbar-result-action-search-history = Pretraži povijest
 urlbar-result-action-search-tabs = Pretraži kartice
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Pretraži pomoću { $engine } izravno iz adresne trake
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Pretraži { $engine } izravno iz adresne trake
 
 ## Full Screen and Pointer Lock UI
 
