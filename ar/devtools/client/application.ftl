@@ -52,6 +52,8 @@ serviceworker-empty-suggestions-console = طالع الأخطاء في المِ�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = افحص عمّال الخدمة من النطاقات الأخرى. <a>افتح about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = لم يوجد عمّال خدمة
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = اطّلع على المزيد
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
@@ -72,6 +74,14 @@ manifest-loaded-error = حدث خطأ أثناء تحميل البيان:
 manifest-loaded-devtools-error = خطأ في أدوات فَيَرفُكس للمطوّرين
 # Text displayed when the page has no manifest available
 manifest-non-existing = لم نجد بيانًا نفحصه.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = أيقونة
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = أيقونة بالمقاسات: { $sizes }
 # Sidebar navigation item for Service Workers sidebar item section
 sidebar-item-service-workers = عمّال الخدمة
     .alt = أيقونة عمّال الخدمة
