@@ -200,15 +200,25 @@ openpgp-key-edit-date-title = Geçerlilik tarihini uzat
 openpgp-manager-button =
     .label = OpenPGP Anahtar Yöneticisi
     .accesskey = Y
+openpgp-key-remove-external =
+    .label = Harici anahtar kimliğini kaldır
+    .accesskey = H
 key-external-label = Harici GnuPG anahtarı
 # Strings in keyDetailsDlg.xhtml
 key-type-public = ortak anahtar
+key-type-primary = birincil anahtar
 key-type-subkey = alt anahtar
 key-type-pair = anahtar çifti (gizli anahtar ve ortak anahtar)
 key-expiry-never = hiçbir zaman
 key-usage-encrypt = Şifrele
 key-usage-sign = İmzala
+key-expired-date = Anahtarın süresi { $keyExpiry } tarihinde doldu
+key-expired-simple = Anahtarın süresi doldu
 key-revoked-simple = Anahtar iptal edildi
+key-do-you-accept = Dijital imzaları doğrulamak ve iletileri şifrelemek için bu anahtarı kabul ediyor musunuz?
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Kişisel anahtarınızla ilgili bir sorun olduğundan ileti gönderilemedi. { $problem }
+cannot-encrypt-because-missing = Aşağıdaki alıcıların anahtarlarında sorun olduğu için bu ileti uçtan uca şifrelemeyle gönderilemedi: { $problem }
 # Strings in keyserver.jsm
 keyserver-error-aborted = Durduruldu
 keyserver-error-unknown = Bilinmeyen bir hata oluştu
@@ -218,6 +228,8 @@ keyserver-error-unavailable = Anahtar sunucusu kullanılamıyor.
 keyserver-error-security-error = Anahtar sunucusu şifreli erişimi desteklemiyor.
 keyserver-error-certificate-error = Anahtar sunucusunun sertifikası geçerli değil.
 keyserver-error-unsupported = Anahtar sunucusu desteklenmiyor.
+# Strings in gpg.jsm
+unknown-signing-alg = Bilinmeyen imzalama algoritması (ID: { $id })
 expiry-open-key-manager = OpenPGP anahtar yöneticisini aç
 expiry-open-key-properties = Anahtar özelliklerini aç
 # Strings filters.jsm
@@ -233,6 +245,7 @@ copy-to-clipbrd-failed = Seçilen anahtar(lar) panoya kopyalanamadı.
 copy-to-clipbrd-ok = Anahtar(lar) panoya kopyalandı
 delete-selected-pub-key = Ortak anahtarları silmek istiyor musunuz?
 key-man-loading-keys = Anahtarlar yükleniyor, lütfen bekleyin…
+export-secret-key = Gizli anahtarı kaydedilmiş OpenPGP anahtar dosyasına eklemek istiyor musunuz?
 save-keys-ok = Anahtarlar başarıyla kaydedildi
 save-keys-failed = Anahtarların kaydedilmesi başarısız oldu
 preview-failed = Ortak anahtar dosyası okunamıyor.
@@ -241,12 +254,18 @@ dlg-button-delete = &Sil
 
 ## Account settings export output
 
+openpgp-export-public-fail = <b>Seçilen ortak anahtar dışa aktarılamadı.</b>
+openpgp-export-secret-success = <b>Gizli anahtar başarıyla dışa aktarıldı.</b>
+openpgp-export-secret-fail = <b>Seçilen gizli anahtar dışa aktarılamadı.</b>
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotoğraf
+# Strings in key.jsm
+already-revoked = Bu anahtar zaten iptal edilmiş.
 openpgp-key-revoke-success = Anahtar başarıyla iptal edildi.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &İçe aktar
 delete-key-title = OpenPGP anahtarını sil
+delete-external-key-description = Bu harici GnuPG anahtar kimliğini kaldırmak istiyor musunuz?
 key-in-use-title = Şu anda kullanılan OpenPGP anahtarı
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Seçtiğiniz işlev çevrimdışı modda kullanılamaz. Lütfen çevrimiçi olun ve tekrar deneyin.
@@ -270,8 +289,12 @@ key-trust-untrusted = güvenilmeyen
 key-trust-marginal = marjinal
 key-trust-full = güvenilir
 key-trust-group = (grup)
+# Strings used in commonWorkflows.js
+import-key-file = OpenPGP anahtar dosyasını içe aktar
+import-rev-file = OpenPGP iptal dosyasını içe aktar
 gnupg-file = GnuPG dosyaları
 import-keys-failed = Anahtarlar içe aktarılamadı
+passphrase-prompt = Lütfen şu anahtarın kilidini açan parolayı girin: { $key }
 revoke-cert-failed = İptal sertifikası oluşturulamadı.
 gen-going = Anahtar üretimi devam ediyor!
 expiry-too-short = Anahtarınız en az bir gün geçerli olmalıdır.
@@ -287,6 +310,7 @@ send-aborted = Gönderme işlemi iptal edildi.
 key-not-found = '{ $key }' anahtarı bulunamadı
 key-revoked = '{ $key }' anahtarı iptal edildi
 key-expired = '{ $key }' anahtarının süresi doldu
+msg-compose-internal-error = Dahili bir hata oluştu.
 msg-compose-cannot-save-draft = Taslak kaydedilirken hata oluştu
 save-attachment-header = Şifresi çözülmüş eki kaydet
 no-temp-dir =
@@ -297,6 +321,7 @@ do-import-multiple =
     Aşağıdaki anahtarlar içe aktarılsın mı?
     { $key }
 do-import-one = { $name } ({ $id }) içe aktarılsın mı?
+unverified-reply = Girintili ileti kısmı (yanıt) muhtemelen değiştirilmiş
 sig-mismatch = Hata - İmza uyuşmazlığı
 # Strings used in encryption.jsm
 not-required = Hata - şifreleme gerekmiyor
