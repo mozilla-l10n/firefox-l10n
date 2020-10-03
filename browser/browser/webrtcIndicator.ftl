@@ -27,3 +27,12 @@ webrtc-camera-unmuted =
     .title = أوقِف الكمرة
 webrtc-camera-muted =
     .title = شغّل الكمرة
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = تشارك الكمرة. انقر للتحكم في المشاركة.
+webrtc-microphone-system-menu =
+    .label = تشارك الميكروفون. انقر للتحكم في المشاركة.
+webrtc-screen-system-menu =
+    .label = تشارك إحدى النوافذ أو إحدى الشاشات. انقر للتحكم في المشاركة.

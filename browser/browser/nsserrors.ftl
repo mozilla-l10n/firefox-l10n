@@ -337,6 +337,7 @@ sec-error-bad-crl-dp-url = مسار غير سليم أو غير مدعوم في 
 sec-error-cert-signature-algorithm-disabled = وُقَّعت الشهادة باستخدام خوارزمية عُطّلت لعدم أمانها.
 mozilla-pkix-error-key-pinning-failure = يستعمل الخادوم ميزة تثبيت المفاتيح (HPKP) ولكن تعذرت إقامة سلسلة شهادات موثوقة تُطابق مجموعة التثبيت. لا يمكنك تجاوز انتهاكات ميزة تثبيت المفاتيح (Key pinning).
 mozilla-pkix-error-inadequate-key-size = قدّم الخادوم شهادة حجم مفتاحها صغير جدا لإنشاء اتصال آمن.
+mozilla-pkix-error-v1-cert-used-as-ca = استُعملت شهادة X.509 إصدارة 1 غير أصلية الوثوق (trust anchor) لإصدار شهادة الخادوم. باتت شهادات X.509 إصدارة 1 بائدة ولا يجب استعمالها لتوقيع الشهادات الأخرى.
 mozilla-pkix-error-not-yet-valid-certificate = قدّم الخادوم شهادة غير صالحة بعد.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = استُخدمت شهادة ليست صالحة بعد لإصدار شهادة الخادوم.
 mozilla-pkix-error-signature-algorithm-mismatch = خوارزمية التوقيع في حقل signature في الشهادة لا تطابق الخوارزمية في حقل signatureAlgorithm.

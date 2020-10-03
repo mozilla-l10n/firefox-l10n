@@ -85,6 +85,8 @@ about-debugging-setup-this-firefox2 = استعمل <a>{ about-debugging-this-fir
 about-debugging-setup-connect-heading = أوصِل جهازا
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = بتفعيل هذا تُنزّل وتُضيف المكوّنات المطلوبة إلى { -brand-shorter-name } لتنقيح أجهزة أندرويد عبر USB.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = فعّل الأجهزة عبر USB
@@ -164,6 +166,25 @@ about-debugging-runtime-processes =
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = إعدادات المتصفح لديك غير متوافقة مع عمّال الخدمة. <a>اطّلع على المزيد</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = إصدارة المتصفّح المتّصل قديمة ({ $runtimeVersion }). أدنى إصدارة مدعومة هي ({ $minVersion }). عملية الإعداد هذه غير مدعومة وقد لا تعمل أدوات المطوّرين بناء على ذلك. من فضلك حدّث المتصفّح المتّصل. <a>مواجهة الأعطال</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = لا يمكن لإصدارة متصفّح Firefox هذه تنقيح Firefox لأندرويد (68). ننصح بتنزيل النسخة الليلية من Firefox لأندرويد على هاتفك لإجراء الاختبارات. <a>تفاصيل أكثر</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = إصدارة المتصفّح المتّصل ({ $runtimeVersion }، معرّف البناء { $runtimeID }) أحدث من إصدارة { -brand-shorter-name } هذه ({ $localVersion }، معرّف البناء { $localID }). عملية الإعداد هذه غير مدعومة وقد لا تعمل أدوات المطوّرين بناء على ذلك. من فضلك حدّث Firefox. <a>مواجهة الأعطال</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = ‏{ $name } ‏({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = اقطع الاتصال
