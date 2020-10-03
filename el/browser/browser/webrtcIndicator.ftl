@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Ενεργοποίηση κάμερας
 webrtc-minimize =
     .title = Ελαχιστοποίηση δείκτη
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Κάνετε κοινή χρήση της κάμεράς σας. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-microphone-system-menu =
+    .label = Κάνετε κοινή χρήση του μικροφώνου σας. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-screen-system-menu =
+    .label = Κάνετε κοινή χρήση παραθύρου ή οθόνης. Κάντε κλικ για έλεγχο κοινής χρήσης.
