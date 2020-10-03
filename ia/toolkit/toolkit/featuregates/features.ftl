@@ -91,3 +91,11 @@ experimental-features-devtools-serviceworker-debugger-support-description = Acti
 experimental-features-graphics-desktop-zooming =
     .label = Graphica: zoom a prisa lisie
 experimental-features-graphics-desktop-zooming-description = Activa le supporto al zoom a prisa lisie sur schermos tactile e placas tactile de precision.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Activar/disactivar audio e video WebRTC globalmente
+experimental-features-webrtc-global-mute-toggles-description = Adder controlos al indicator de compartimento global WebRTC que permitte al usatores de silentiar globalmente le fluxos de lor microphono e camera.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Activar Warp, un projecto pro meliorar prestation e uso de memoria de JavaScript.
