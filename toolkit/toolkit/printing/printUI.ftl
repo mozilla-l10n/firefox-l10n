@@ -42,7 +42,6 @@ printui-less-settings = إعدادات أقل
 printui-paper-size-label = مقاس الورق
 # Section title (noun) for the print scaling options
 printui-scale = المقياس
-printui-scale-fit-to-page = تناسَب مع الصفحة
 printui-scale-fit-to-page-width = تناسَب مع عرض الصفحة
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = المقياس
@@ -55,6 +54,13 @@ printui-color-mode-color = ملوّن
 printui-color-mode-bw = أبيض وأسود
 printui-margins = الهوامش
 printui-margins-default = المبدئي
+printui-margins-min = الأدنى
+printui-margins-none = بلا
+printui-margins-custom = مخصّص
+printui-margins-custom-top = الأعلى
+printui-margins-custom-bottom = الأسفل
+printui-margins-custom-left = اليسار
+printui-margins-custom-right = اليمين
 printui-system-dialog-link = اطبع باستعمال مربع حوار النظام…
 printui-primary-button = اطبع
 printui-primary-button-save = احفظ
@@ -79,10 +85,12 @@ printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = خطاب أمريكي
 printui-paper-legal = قانوني أمريكي
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = يجب أن يكون المقياس بين 10 و200.
+printui-error-invalid-margin = من فضلك أدخِل هامشًا صحيحًا لمقاس الورقة الذي حدّدته.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = يجب أن يكون النطاق بين 1 و{ $numPages }.
