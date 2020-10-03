@@ -118,16 +118,36 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY showAsDefault.label                            "Cartafol de inicio predeterminado">
+<!ENTITY showAsDefault.accesskey                        "D">
+<!ENTITY editPropertiesButton.label                     "Modificar">
+<!ENTITY propertiesContext.label                        "Propiedades">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Propiedades">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Sincronizar">
+<!ENTITY syncContext.accesskey                          "i">
+<!ENTITY editContactContext.label                       "Modificar o contacto">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Modificar a lista">
+<!ENTITY editMailingListContext.accesskey               "M">
 <!ENTITY newmsgButton.label                             "Escribir">
 <!ENTITY newmsgButton.accesskey                         "b">
 <!ENTITY newIM.label                                    "Mensaxe instantánea">
 <!ENTITY newIM.accesskey                                "a">
+<!ENTITY printButton.label                              "Imprimir…">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Eliminar">
 <!ENTITY deleteButton2.accesskey                        "l">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Seleccione as columnas a amosar">
 <!ENTITY newContactButton.tooltip                       "Crear un novo contacto na axenda de enderezos">
 <!ENTITY newlistButton.tooltip                          "Crear unha lista">
+<!ENTITY editPropertiesButton.tooltip                   "Modificar o elemento seleccionado">
+<!ENTITY editAbPropertiesButton.tooltip                 "Modificar as propiedades da axenda de enderezos seleccionada">
+<!ENTITY editContactPropertiesButton.tooltip            "Modificar o contacto seleccionado">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Modifica a lista de correo seleccionada">
 <!ENTITY newmsgButton.tooltip                           "Enviar unha mensaxe de correo">
 <!ENTITY newIM.tooltip                                  "Enviar unha mensaxe instantánea ou chat">
 <!ENTITY deleteButton2.tooltip                          "Eliminar o elemento seleccionado">
