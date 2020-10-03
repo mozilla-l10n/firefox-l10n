@@ -443,6 +443,14 @@ urlbar-result-action-visit = Επίσκεψη
 urlbar-result-action-search-bookmarks = Αναζήτηση σελιδοδεικτών
 urlbar-result-action-search-history = Αναζήτηση ιστορικού
 urlbar-result-action-search-tabs = Αναζήτηση καρτελών
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Αναζήτηση με { $engine } απευθείας από τη γραμμή διευθύνσεων
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Αναζήτηση { $engine } απευθείας από τη γραμμή διευθύνσεων
 
 ## Full Screen and Pointer Lock UI
 
