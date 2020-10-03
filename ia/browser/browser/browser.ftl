@@ -443,6 +443,14 @@ urlbar-result-action-visit = Visitar
 urlbar-result-action-search-bookmarks = Cercar in le marcapaginas
 urlbar-result-action-search-history = Cercar in le chronologia
 urlbar-result-action-search-tabs = Recercar in le schedas
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Cercar con { $engine } directemente del barra de adresse
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Cercar in { $engine } directemente del barra de adresse
 
 ## Full Screen and Pointer Lock UI
 

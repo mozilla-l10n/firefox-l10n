@@ -257,4 +257,6 @@ cfr-whatsnew-clear-cookies-image-alt = Illustration cookie blocate
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Altere controlos de medios
+cfr-whatsnew-media-keys-body = Reproduce e pausa audio o video justo de tu claviero o bonetto, rendente facile a controlar le medios de un altere scheda, programma o mesmo quando tu computator es blocate.
 cfr-whatsnew-media-keys-button = Apprende como
