@@ -222,7 +222,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Tym razem szukaj w:
 # This string won't wrap, so if the translated string is longer,
@@ -442,6 +442,17 @@ urlbar-result-action-visit = otwórz stronę
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = szukaj w zakładkach
+urlbar-result-action-search-history = szukaj w historii
+urlbar-result-action-search-tabs = szukaj w kartach
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = szukaj w { $engine } prosto z paska adresu
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = szukaj na witrynie { $engine } prosto z paska adresu
 
 ## Full Screen and Pointer Lock UI
 

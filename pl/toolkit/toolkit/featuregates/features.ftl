@@ -91,6 +91,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Wł�
 experimental-features-graphics-desktop-zooming =
     .label = Grafika: płynne powiększanie gestem
 experimental-features-graphics-desktop-zooming-description = Włącza obsługę płynnego powiększania gestem na ekranach dotykowych i precyzyjnych panelach dotykowych.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Przełączniki globalnego wyciszania WebRTC
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
