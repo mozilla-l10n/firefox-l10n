@@ -443,6 +443,14 @@ urlbar-result-action-visit = Besök
 urlbar-result-action-search-bookmarks = Sök i bokmärken
 urlbar-result-action-search-history = Sök i historik
 urlbar-result-action-search-tabs = Sök i flikar
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Sök med { $engine } direkt från adressfältet
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Sök i { $engine } direkt från adressfältet
 
 ## Full Screen and Pointer Lock UI
 
