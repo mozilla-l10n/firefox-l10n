@@ -39,7 +39,6 @@ printui-less-settings = Менш налад
 printui-paper-size-label = Памер паперы
 # Section title (noun) for the print scaling options
 printui-scale = Маштаб
-printui-scale-fit-to-page = Дапасаваць да старонкі
 printui-scale-fit-to-page-width = Да шырыні старонкі
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Маштаб
@@ -54,6 +53,11 @@ printui-margins = Палі
 printui-margins-default = Прадвызначана
 printui-margins-min = Мінімум
 printui-margins-none = Няма
+printui-margins-custom = Адмыслова
+printui-margins-custom-top = Уверсе
+printui-margins-custom-bottom = Унізе
+printui-margins-custom-left = Злева
+printui-margins-custom-right = Справа
 printui-system-dialog-link = Друк з дапамогай сістэмнага дыялогу…
 printui-primary-button = Друкаваць
 printui-primary-button-save = Захаваць
@@ -83,6 +87,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Маштаб павінен быць лічбай ад 10 да 200.
+printui-error-invalid-margin = Калі ласка, увядзіце дапушчальныя палі для абранага памеру паперы.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Дыяпазон павінен быць лічбай ад 1 да { $numPages }.
