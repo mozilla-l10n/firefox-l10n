@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Axenda de enderezos…">
 <!ENTITY newAddressBookCmd.accesskey                    "x">
+<!ENTITY newCardDAVBookCmd.label                        "Axenda de enderezos CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Directorio LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mensaxe">
@@ -52,14 +54,21 @@
 <!ENTITY deleteListsCmd.label                           "Eliminar listas">
 <!ENTITY deleteItemsCmd.label                           "Eliminar elementos">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!ENTITY propertiesMenu.label                           "Propiedades">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Propiedades da axenda de enderezos">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Propiedades do contacto">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Propiedades da lista de correo">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Ver">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barras de ferramentas">
-<!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "t">
 <!ENTITY menubarCmd.label                               "Barra de menú">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Barra da axenda de enderezos">
@@ -75,11 +84,11 @@
 <!ENTITY showContactPane2.label                         "Panel de contactos">
 <!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Amosar nome como">
-<!ENTITY menu_ShowNameAs.accesskey                      "s"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "s">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Nome e apelidos">
-<!ENTITY firstLastCmd2.accesskey                        "e"> 
+<!ENTITY firstLastCmd2.accesskey                        "e">
 <!ENTITY lastFirstCmd.label                             "Apelidos, nome">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "Texto de 'Mostrar'">
@@ -104,7 +113,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey                   "f">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Novo contacto">
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nova lista">
@@ -121,7 +130,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Crear unha lista">
 <!ENTITY newmsgButton.tooltip                           "Enviar unha mensaxe de correo">
 <!ENTITY newIM.tooltip                                  "Enviar unha mensaxe instantánea ou chat">
-<!ENTITY deleteButton2.tooltip                           "Eliminar o elemento seleccionado">
+<!ENTITY deleteButton2.tooltip                          "Eliminar o elemento seleccionado">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nome ou correo electrónico">
@@ -182,11 +191,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Mostrar un mapa deste enderezo da Internet">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Xanela">
-<!ENTITY minimizeWindow.label "Minimizar">
-<!ENTITY minimizeWindow.key "z">
-<!ENTITY bringAllToFront.label "Traer todo á fronte">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY windowMenu.label                               "Xanela">
+<!ENTITY minimizeWindow.label                           "Minimizar">
+<!ENTITY minimizeWindow.key                             "z">
+<!ENTITY bringAllToFront.label                          "Traer todo á fronte">
+<!ENTITY zoomWindow.label                               "Zoom">

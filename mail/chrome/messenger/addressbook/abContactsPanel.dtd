@@ -12,8 +12,11 @@
 <!ENTITY mailingListPropertiesMenu.label    "Propiedades da lista de correo">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Amosa o menú contextual da axenda de enderezos">
 <!ENTITY addressbookPicker.label            "Axenda de enderezos:">
 <!ENTITY addressbookPicker.accesskey        "z">
+<!ENTITY searchContacts.label               "Buscar nos contactos:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Nome ou correo electrónico">
 
 <!ENTITY addtoToFieldMenu.label             "Engadir no campo Para">
@@ -24,7 +27,19 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "O">
 <!ENTITY deleteAddrBookCard.label           "Eliminar">
 <!ENTITY deleteAddrBookCard.accesskey       "l">
+<!ENTITY propertiesContext.label            "Propiedades">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Propiedades">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Modificar o contacto">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Modificar a lista">
+<!ENTITY editMailingListContext.accesskey   "M">
 
+<!ENTITY newContactAbContext.label          "Novo contacto">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Nova lista">
+<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "Engadir en Para:">
 <!ENTITY toButton.accesskey                 "a">
