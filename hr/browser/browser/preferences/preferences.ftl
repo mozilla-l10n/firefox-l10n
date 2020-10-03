@@ -564,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Promijeni postavke za ostale prijedloge u adresnoj traci
 search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u lokacijskoj traci, jer je { -brand-short-name } podešen, da ne pamti povijest.
 search-one-click-header = Tražilice jednim klikom
+search-one-click-header2 = Prečaci za pretraživanje
 search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti ispod adresne trake i trake pretraživanja kad počneš upisivati pojmove.
 search-choose-engine-column =
     .label = Tražilica

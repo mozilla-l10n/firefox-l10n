@@ -264,3 +264,8 @@ cfr-doorhanger-doh-secondary-button = Deaktiviraj
 cfr-whatsnew-clear-cookies-header = Automatska zaštita od podlih taktika praćenja
 cfr-whatsnew-clear-cookies-body = Neki pratitelji vas preusmjere na druge web stranice koje potajno postave kolačiće. { -brand-short-name } sada automatski briše te kolačiće kako vas ne bi pratili.
 cfr-whatsnew-clear-cookies-image-alt = Ilustracija blokiranog kolačića
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Više medijskih kontrola
+cfr-whatsnew-media-keys-button = Saznaj kako
