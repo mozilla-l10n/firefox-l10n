@@ -266,6 +266,15 @@ cfr-doorhanger-doh-primary-button = OK, ricevuto
 cfr-doorhanger-doh-secondary-button = Disattiva
   .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body = { -brand-short-name } ha attivato una funzione sperimentale: Fission (isolamento dei siti). Isolando ciascun sito in un processo separato, Fission fornisce un livello di sicurezza aggiuntivo per te e i siti che visiti.
+cfr-doorhanger-fission-header = Isolamento dei siti
+cfr-doorhanger-fission-primary-button = OK, ricevuto
+  .accesskey = O
+cfr-doorhanger-fission-secondary-button = Ulteriori informazioni
+  .accesskey = U
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Protezione automatica contro subdole tecniche di tracciamento
