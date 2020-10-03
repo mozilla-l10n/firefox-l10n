@@ -38,7 +38,6 @@ printui-less-settings = Färre inställningar
 printui-paper-size-label = Pappersstorlek
 # Section title (noun) for the print scaling options
 printui-scale = Skala
-printui-scale-fit-to-page = Anpassa till sida
 printui-scale-fit-to-page-width = Anpassa till sidbredden
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
@@ -53,6 +52,9 @@ printui-margins = Marginaler
 printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Ingen
+printui-margins-custom = Anpassad
+printui-margins-custom-left = Vänster
+printui-margins-custom-right = Höger
 printui-system-dialog-link = Skriv ut via systemets dialogruta…
 printui-primary-button = Skriv ut
 printui-primary-button-save = Spara
