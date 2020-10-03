@@ -22,4 +22,17 @@
 <!ENTITY JobTitle.accesskey                    "g">
 <!ENTITY CellularNumber.label                  "Móbil">
 <!ENTITY CellularNumber.accesskey              "M">
-<!ENTITY PagerNumber.label                     "Mensáfono">
+<!ENTITY PagerNumber.label                     "Buscapersoas">
+<!ENTITY PagerNumber.accesskey                 "B">
+<!ENTITY FaxNumber.label                       "Fax">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Teléfono particular">
+<!ENTITY HomePhone.accesskey                   "p">
+<!ENTITY WorkPhone.label                       "Teléfono do traballo">
+<!ENTITY WorkPhone.accesskey                   "t">
+<!ENTITY ChatName.label                        "Nome da conversa">
+<!ENTITY ChatName.accesskey                    "c">
+<!ENTITY sortAscending.label                   "Ascendente">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "Descendente">
+<!ENTITY sortDescending.accesskey              "D">
