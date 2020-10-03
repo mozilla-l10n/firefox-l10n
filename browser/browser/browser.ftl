@@ -443,6 +443,14 @@ urlbar-result-action-visit = Ziyaret et
 urlbar-result-action-search-bookmarks = Yer imlerinde ara
 urlbar-result-action-search-history = Geçmişte ara
 urlbar-result-action-search-tabs = Sekmelerde ara
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = { $engine } ile doğrudan adres çubuğundan arama yapın
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = { $engine } ile doğrudan adres çubuğundan arama yapın
 
 ## Full Screen and Pointer Lock UI
 
