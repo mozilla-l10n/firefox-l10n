@@ -435,6 +435,14 @@ urlbar-result-action-visit = 방문
 urlbar-result-action-search-bookmarks = 북마크 검색
 urlbar-result-action-search-history = 기록 검색
 urlbar-result-action-search-tabs = 탭 검색
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = 주소 표시줄에서 직접 { $engine } 검색
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = 주소 표시줄에서 직접 { $engine } 검색
 
 ## Full Screen and Pointer Lock UI
 
