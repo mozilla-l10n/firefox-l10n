@@ -38,7 +38,6 @@ printui-less-settings = פחות הגדרות
 printui-paper-size-label = גודל נייר
 # Section title (noun) for the print scaling options
 printui-scale = קנה מידה
-printui-scale-fit-to-page = התאמה לעמוד
 printui-scale-fit-to-page-width = התאמה לרוחב העמוד
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = קנה מידה
@@ -53,6 +52,11 @@ printui-margins = שוליים
 printui-margins-default = ברירת מחדל
 printui-margins-min = מינימום
 printui-margins-none = ללא
+printui-margins-custom = התאמה אישית
+printui-margins-custom-top = מלמעלה
+printui-margins-custom-bottom = מלמטה
+printui-margins-custom-left = משמאל
+printui-margins-custom-right = מימין
 printui-system-dialog-link = הדפסה באמצעות תיבת הדו־שיח של המערכת…
 printui-primary-button = הדפסה
 printui-primary-button-save = שמירה
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = קנה המידה חייב להיות מספר בין 10 ל־200.
+printui-error-invalid-margin = נא להזין שוליים תקפים לגודל הנייר שנבחר.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = הטווח חייב להיות מספר בין 1 ל־{ $numPages }.
