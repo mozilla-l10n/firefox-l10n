@@ -452,7 +452,7 @@ urlbar-result-action-tabtosearch-web = Шукати за допомогою { $e
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-tabtosearch-other-engine = Шукати у { $engine } безпосередньо в панелі адреси
+urlbar-result-action-tabtosearch-other-engine = Шукати з { $engine } безпосередньо в панелі адреси
 
 ## Full Screen and Pointer Lock UI
 
