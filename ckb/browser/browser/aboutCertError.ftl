@@ -5,19 +5,17 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } رێگەپێدانی ئاسایشی هەڵە بەکارهاتووە.
-
 cert-error-mitm-intro = ماڵپەڕەکان ناسنامەی خۆیان دەسەلمێنن لە ڕێگەی بڕوانامەکانیان، کە دەردەچێت لە لایەن بڕوانامەپێدەران.
-
 cert-error-mitm-mozilla = { -brand-short-name } پشتیوانی دەکرێت لەلایەن مۆزیلای قازانج نەویست، کە بە تەواوەتی بەشی بڕوانامەپێدەران بەڕێوە دەبات. بەشی بڕوانامەپێدەران  یارمەتیمان دەدات بۆ دڵنیابوون لە کەسانی بڕوانامەپێدەر کە ڕەچاوی باشترین دۆخ دەکەن بۆ ئاسایشی بەکارهێنەران.
-
+cert-error-mitm-connection = { -brand-short-name } بڕوانامەپێدەری مۆزیلا بەکار ئەهێنێ بۆ دڵنیابونەوە لەوەی پەیوەندیەک پارێزراوە، نەوەک بڕوانامەیەک دابینکرابێ لەلایەن سیستمی کارگێڕی بەکارهێنەرەکەوە. بۆیە، ئەگەر پرۆگرامێکی ئەنتیڤایرۆس یان تۆڕێک خۆی خستە نێوان پەیوەندیەکەوە کە بڕوانامە پاراستنەکەی لەلایەن دەسەڵاتێکەوە دەرکرابێ کە لە لیستی بازاڕی بڕوانامەپێدەرانی مۆزیلادا نەبێ ئەوا ئەو پەیوەندیە بە بە نا سەلامەت دا ئەنرێت.
 cert-error-trust-unknown-issuer-intro = تۆ پێویستە بەردەوام نەبیت لەبەر ئەوەی لەوانەیە کەسێک لە هەوڵداندابێت بۆ لاسایی کردنەوەی وێبەکە.
-
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = ماڵپەڕەکان خۆیان ئەناسێنن بە بڕوانامە. { -brand-short-name } متمانەی بە { $hostname } نیە لەبەر ئەوەی لایەنی بڕوانامەپێدەرەکەی نەناسراوە، بڕوانامەکە خۆی بۆخۆی ئیمزای کردوە، یان ڕاژەکارێک بڕوانامە دروستە نێوەندگیرەکە نانێرێت.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = کۆدی هەڵە: <a data-l10n-name="error-code-link">{ $error }</a>
-
 cert-error-details-cert-chain-label = زنجیرەی بڕوانامە:
-
 open-in-new-window-for-csp-or-xfo-error = لە پەنجەرەیەکی نوێ بیکەرەوە
 
 ## Messages used for certificate error titles
