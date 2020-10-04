@@ -91,6 +91,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-graphics-desktop-zooming =
     .label = Grafikk: Jamn knipeskalering
 experimental-features-graphics-desktop-zooming-description = Slå på støtte for jamn knipeskalering med berøringsskjermar og presisjonspeikeplate.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Slå av/på globale kontrollar for WebRTC
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
