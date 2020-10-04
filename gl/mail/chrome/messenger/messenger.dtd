@@ -643,6 +643,9 @@
 <!ENTITY folderContextGetMessages.label "Recibir mensaxes ">
 <!ENTITY folderContextGetMessages.accesskey "a">
 <!ENTITY folderContextMarkAllFoldersRead.label "Marcar todos os cartafoles como lidos">
+<!ENTITY folderContextPauseAllUpdates.label "Interromper todas as actualizacións">
+<!ENTITY folderContextPauseUpdates.label "Interromper as actualizacións">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Abrir nunha nova xanela">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Abrir nunha nova lapela">
@@ -695,6 +698,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Gardar busca como cartafol…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Seleccionar mensaxes">
 <!ENTITY threadColumn.label "Fío">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatario">
@@ -715,9 +719,11 @@
 <!ENTITY locationColumn.label "Localización">
 <!ENTITY idColumn.label "Aviso de recepción">
 <!ENTITY attachmentColumn.label "Anexos">
+<!ENTITY deleteColumn.label "Eliminar">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Seleccionar as columnas a amosar">
+<!ENTITY selectColumn.tooltip "Alternar a selección de todas as mensaxes">
 <!ENTITY threadColumn2.tooltip "Amosar as mensaxes agrupadas por fíos">
 <!ENTITY fromColumn2.tooltip "Ordenar polo remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar polo destinatario">
@@ -738,8 +744,10 @@
 <!ENTITY locationColumn2.tooltip "Ordenar pola localización">
 <!ENTITY idColumn2.tooltip "Ordenar pola orde de recepción">
 <!ENTITY attachmentColumn2.tooltip "Ordenar polos anexos">
+<!ENTITY deleteColumn.tooltip "Eliminar unha mensaxe">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nova mensaxe desde un modelo">
 <!ENTITY contextOpenNewWindow.label "Abrir mensaxe nunha nova xanela">
 <!ENTITY contextOpenNewWindow.accesskey "x">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
