@@ -37,7 +37,6 @@ printui-less-settings = Ít cài đặt hơn
 printui-paper-size-label = Khổ giấy
 # Section title (noun) for the print scaling options
 printui-scale = Tỷ lệ
-printui-scale-fit-to-page = Vừa với trang
 printui-scale-fit-to-page-width = Vừa với chiều rộng trang
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Tỷ lệ
@@ -52,6 +51,11 @@ printui-margins = Lề
 printui-margins-default = Mặc định
 printui-margins-min = Tối thiểu
 printui-margins-none = Không có
+printui-margins-custom = Tùy chọn
+printui-margins-custom-top = Trên
+printui-margins-custom-bottom = Dưới
+printui-margins-custom-left = Trái
+printui-margins-custom-right = Phải
 printui-system-dialog-link = In bằng hộp thoại hệ thống…
 printui-primary-button = In
 printui-primary-button-save = Lưu
@@ -81,6 +85,7 @@ printui-paper-tabloid = Báo khổ nhỏ
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Tỉ lệ phải là số từ 10 đến 200.
+printui-error-invalid-margin = Vui lòng nhập lề hợp lệ cho khổ giấy đã chọn.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Phạm vi phải là số từ 1 đến { $numPages }.
