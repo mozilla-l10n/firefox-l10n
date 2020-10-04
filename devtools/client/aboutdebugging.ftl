@@ -107,9 +107,9 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Das "Entwicklermenü" in Andro
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = USB-Debugging in Androids Menü "Entwicklermenü" aktivieren.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = USB-Debugging in Firefox auf Android-Geräten aktivieren.
+about-debugging-setup-usb-step-enable-debug-firefox2 = USB-Debugging in Firefox auf dem Android-Gerät aktivieren.
 # USB section step by step guide
-about-debugging-setup-usb-step-plug-device = Android-Gerät mit Computer verbinden
+about-debugging-setup-usb-step-plug-device = Das Android-Gerät mit dem Computer verbinden.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
 about-debugging-setup-usb-troubleshoot = Probleme mit der Verbindung mit dem USB-Gerät? <a>Anleitung zur Fehlerbehebung</a>
