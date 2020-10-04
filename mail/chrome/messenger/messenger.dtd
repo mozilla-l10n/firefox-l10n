@@ -445,6 +445,7 @@
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openInConversationCmd.label "Abrir na conversa">
 <!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Anexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
 <!ENTITY openFeedMessage1.label "Ao abrir mensaxes de fontes">
@@ -514,6 +515,13 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Ferramentas de desenvolvemento">
 <!ENTITY devtoolsMenu.accesskey "t">
+<!ENTITY devToolboxCmd.label "Caixa de ferramentas de desenvolvemento">
+<!ENTITY devToolboxCmd.accesskey "T">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Depurar os complementos">
+<!ENTITY debugAddonsCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.label "Depurador de marco de contido">
+<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -527,6 +535,7 @@
 <!ENTITY forwardButton.label "Reenviar">
 <!ENTITY fileButton.label "Ficheiro">
 <!ENTITY archiveButton.label "Arquivar">
+<!ENTITY openConversationButton.label "Conversa">
 <!ENTITY nextButton.label "Seguinte">
 <!ENTITY nextButtonToolbarItem.label "Seguinte mensaxe non lida">
 <!ENTITY nextMsgButton.label "Seguinte">
@@ -569,6 +578,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Reenviar a mensaxe seleccionada como un anexo">
 <!ENTITY fileButton.tooltip "Gardar mensaxe seleccionada">
 <!ENTITY archiveButton.tooltip "Arquivar mensaxes seleccionadas">
+<!ENTITY openMsgConversationButton.tooltip "Amosar a conversa da mensaxe seleccionada">
 <!ENTITY nextButton.tooltip "Ir á seguinte mensaxe non lida">
 <!ENTITY nextMsgButton.tooltip "Ir á seguinte mensaxe">
 <!ENTITY previousButton.tooltip "Ir á anterior mensaxe non lida">
@@ -587,6 +597,7 @@
 <!ENTITY tagButton.tooltip "Etiquetar mensaxes">
 <!ENTITY compactButton.tooltip "Retira as mensaxes eliminadas do cartafol seleccionado">
 <!ENTITY appmenuButton1.tooltip "Amosa o menú do &brandShortName;">
+<!ENTITY addonsButton.tooltip "Xestionar os seus complementos">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reenviar inserida">
@@ -631,6 +642,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Recibir mensaxes ">
 <!ENTITY folderContextGetMessages.accesskey "a">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar todos os cartafoles como lidos">
 <!ENTITY folderContextOpenInNewWindow.label "Abrir nunha nova xanela">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Abrir nunha nova lapela">
