@@ -762,6 +762,9 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editar a mensaxe como nova">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Modificar o borrador de mensaxe">
+<!ENTITY contextEditTemplate.label "Modificar o modelo">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "q">
 <!ENTITY contextReplySender.label "Responder só ao remitente">
@@ -786,9 +789,12 @@
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recente">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoritos">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Copiar en">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignorar fío">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar fío secundario">
 <!ENTITY contextWatchThreadMenu.label "Amosar fío">
@@ -796,6 +802,7 @@
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Gardar como…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprimir…">
@@ -868,6 +875,7 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "Buscar #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
@@ -896,6 +904,8 @@
 <!ENTITY SendMessageTo.accesskey "p">
 <!ENTITY CopyEmailAddress.label "Copiar correo electrónico">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copiar o nome e o enderezo de correo electrónico">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de noticias">
 <!ENTITY CopyNewsgroupName.accesskey "g">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de noticias">
@@ -953,5 +963,9 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Opcións da icona do aplicativo…">
+<!ENTITY writeNewMessageDock.label      "Escribir unha nova mensaxe">
+<!ENTITY openAddressBookDock.label      "Abrir a axenda de enderezos">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Retroceder unha páxina">
+<!ENTITY browseForwardButton.tooltip "Avanzar unha páxina">
