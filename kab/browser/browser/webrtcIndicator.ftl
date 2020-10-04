@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Sermed takamiṛat
 webrtc-minimize =
     .title = Sewzel anamal
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Aql-ak·akem tebḍiḍ takamiṛat-ik·im. Sit i wakken ad tesneqdeḍ beṭṭu
+webrtc-microphone-system-menu =
+    .label = Aql-ak·akem tebḍiḍ asawaḍ-inekk·inem. Sit i wakken ad tesneqdeḍ beṭṭu
+webrtc-screen-system-menu =
+    .label = Aql-ak·akem tebḍiḍ asfaylu neɣ agdil. Sit i wakken ad tesneqdeḍ beṭṭu

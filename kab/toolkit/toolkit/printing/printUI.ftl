@@ -38,7 +38,6 @@ printui-less-settings = Drus n yiɣewwaren
 printui-paper-size-label = Teɣzi n usebter
 # Section title (noun) for the print scaling options
 printui-scale = Sellum
-printui-scale-fit-to-page = Ṣeggem asebter
 printui-scale-fit-to-page-width = Ṣeggem almend n tehri n tferkit
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Sellum
@@ -53,6 +52,11 @@ printui-margins = Timiwa
 printui-margins-default = Amezwer
 printui-margins-min = Adday
 printui-margins-none = Ulac
+printui-margins-custom = Sagen
+printui-margins-custom-top = Afellay
+printui-margins-custom-bottom = Adday
+printui-margins-custom-left = Azelmaḍ
+printui-margins-custom-right = Ayeffus
 printui-system-dialog-link = Siggez s useqdec n udiwenni anagraw…
 printui-primary-button = Siggez
 printui-primary-button-save = Sekles
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Sellum ilaq ad yili d amḍan gar 10 d 200.
+printui-error-invalid-margin = Ma ulac aɣilif, fren tama tameɣtut i teɣzi n lkaɣeḍ i yettwafernen.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Azilal yessefk ad yili d amḍan gar 1 d { $numPages }.
