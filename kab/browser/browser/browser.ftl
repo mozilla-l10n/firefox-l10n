@@ -443,6 +443,14 @@ urlbar-result-action-visit = Rzu
 urlbar-result-action-search-bookmarks = Nadi ticraḍ n yisebtar
 urlbar-result-action-search-history = Nadi deg umazray
 urlbar-result-action-search-tabs = Nadi deg waccaren
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Nadi s { $engine } srid seg ugalis n tansa
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Nadi s { $engine } srid seg ugalis n tansa
 
 ## Full Screen and Pointer Lock UI
 
