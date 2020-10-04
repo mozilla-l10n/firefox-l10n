@@ -435,6 +435,14 @@ urlbar-result-action-visit = Truy cập
 urlbar-result-action-search-bookmarks = Tìm kiếm dấu trang
 urlbar-result-action-search-history = Tìm kiếm lịch sử
 urlbar-result-action-search-tabs = Tìm kiếm thẻ
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Tìm kiếm với { $engine } trực tiếp từ thanh địa chỉ
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Tìm kiếm { $engine } trực tiếp từ thanh địa chỉ
 
 ## Full Screen and Pointer Lock UI
 
