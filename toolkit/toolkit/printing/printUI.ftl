@@ -9,7 +9,7 @@ printui-save-to-pdf-title = 다른 이름으로 저장
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
     { $sheetCount ->
-       *[other] 용지 { $sheetCount } 장
+       *[other] 용지 { $sheetCount }장
     }
 printui-page-range-all = 모두
 printui-page-range-custom = 사용자 지정
