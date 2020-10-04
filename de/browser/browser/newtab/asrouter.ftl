@@ -265,4 +265,5 @@ cfr-whatsnew-clear-cookies-image-alt = Illustration für blockierten Cookie
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Mehr Mediensteuerung
+cfr-whatsnew-media-keys-body = Spielen Sie Audio oder Video direkt von Ihrer Tastatur oder Ihrem Headset ab und halten Sie sie an. So können Sie Medien ganz einfach aus einem anderen Tab, einem anderen Programm oder sogar bei gesperrtem Computer steuern. Sie können auch mit der Vorwärts- und der Rückwärts-Taste zwischen den Liedern wechseln.
 cfr-whatsnew-media-keys-button = Weitere Informationen
