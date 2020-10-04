@@ -259,4 +259,5 @@ cfr-whatsnew-clear-cookies-image-alt = Unuɣen n yinagan n tuqqna ttusweḥlen
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Ugar n yisenqaden n umidya
+cfr-whatsnew-media-keys-body = Urar syen seḥbes ameslaw neɣ tavdyut srd seg unasiw neɣ seg ukask inek·inem, ayen yessishlen asenqed n umidya seg yiccer-nniḍen, seg wahil neɣ ula mi ara sekker uselkim-ik·im. Tzemreḍ daɣen ad tedrurmeḍ gar tezlatin s useqdec n tqeffaln sdat d deffir.
 cfr-whatsnew-media-keys-button = Issn amek
