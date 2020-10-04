@@ -447,6 +447,10 @@ urlbar-result-action-search-tabs = Tschertgar en ils tabs
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Tschertgar cun { $engine } direct en la trav d'adressas
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Tschertgar en { $engine } direct en la trav d'adressas
 
 ## Full Screen and Pointer Lock UI
 

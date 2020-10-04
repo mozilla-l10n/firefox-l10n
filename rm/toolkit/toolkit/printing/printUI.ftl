@@ -38,7 +38,6 @@ printui-less-settings = Damain parameters
 printui-paper-size-label = Grondezza dal palpiri
 # Section title (noun) for the print scaling options
 printui-scale = Scalaziun
-printui-scale-fit-to-page = Adattar a la pagina
 printui-scale-fit-to-page-width = Adattar a la largezza da la pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scalaziun
@@ -53,6 +52,11 @@ printui-margins = Urs
 printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Nagins
+printui-margins-custom = Persunalisà
+printui-margins-custom-top = Sura
+printui-margins-custom-bottom = Sut
+printui-margins-custom-left = A sanestra
+printui-margins-custom-right = A dretga
 printui-system-dialog-link = Stampar cun agid dal dialog dal sistem…
 printui-primary-button = Stampar
 printui-primary-button-save = Memorisar
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = La scalaziun sto esser in numer tranter 10 e 200.
+printui-error-invalid-margin = Endatescha per plaschair in ur valid per la grondezza da palpiri tschernida.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L'interval sto esser in numer tranter 1 e { $numPages }.
