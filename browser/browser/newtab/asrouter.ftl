@@ -265,4 +265,5 @@ cfr-whatsnew-clear-cookies-image-alt = Illustracion d’un cookie blocat
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Mai de contraròtles dels mèdias
+cfr-whatsnew-media-keys-body = Legir e metre en pausa l’àudio e la vidèo a partir del clavièr o del casc àudio, per va venir simple lo contraròtle dels mèdias d’autres onglets, programas, o encara quand l’ordenidor es verrolhat. Podètz tanben cambiar de pista en utilizant las tòcas per avançar o recular.
 cfr-whatsnew-media-keys-button = M’ensenhar cossí far
