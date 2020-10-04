@@ -90,6 +90,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Yerm
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Rmed/Sens imesli amatu n WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Rnu senqaden ɣer umatar n beṭṭu amatu n WebRTC ara yessirgen iseqdacen ad sensen imesli s umata n usawaḍ d tkamiṛat nsen.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
