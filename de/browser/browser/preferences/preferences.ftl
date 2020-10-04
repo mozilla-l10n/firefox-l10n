@@ -560,6 +560,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Einstellungen für andere Vorschläge in der Adressleiste ändern
 search-suggestions-cant-show = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
 search-one-click-header = Ein-Klick-Suchmaschinen
+search-one-click-header2 = Suchmaschinen-Schlüsselwörter
 search-one-click-desc = Wählen Sie die Suchmaschinen, welche unterhalb der Adress- bzw. Suchleiste angezeigt werden, nachdem Sie den Suchbegriff eingegeben haben.
 search-choose-engine-column =
     .label = Suchmaschine
