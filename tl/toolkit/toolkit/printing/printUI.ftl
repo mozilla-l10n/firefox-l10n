@@ -52,6 +52,11 @@ printui-margins = Mga palugit
 printui-margins-default = Default
 printui-margins-min = Pinakamaliit
 printui-margins-none = Wala
+printui-margins-custom = Pasadya
+printui-margins-custom-top = Itaas
+printui-margins-custom-bottom = Ilalim
+printui-margins-custom-left = Kaliwa
+printui-margins-custom-right = Kanan
 printui-system-dialog-link = Mag-print gamit ang system dialog…
 printui-primary-button = I-print
 printui-primary-button-save = I-save
@@ -81,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Ang sukatan ay dapat isang bilang sa pagitan ng 10 at 200.
+printui-error-invalid-margin = Pakilagyan ng wastong palugit para sa napiling laki ng papel.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Ang saklaw ay dapat isang bilang sa pagitan ng 1 at { $numPages }.

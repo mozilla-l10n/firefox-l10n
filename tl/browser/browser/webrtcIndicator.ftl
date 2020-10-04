@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Buksan ang camera
 webrtc-minimize =
     .title = I-minimize ang indicator
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Ibinabahagi mo ang iyong camera. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-microphone-system-menu =
+    .label = Ibinabahagi mo ang iyong mikropono. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-screen-system-menu =
+    .label = Ibinabahagi mo ang iyong window o screen. Pindutin upang kontrolin ang pagbabahagi.

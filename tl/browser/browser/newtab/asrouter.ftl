@@ -252,3 +252,8 @@ cfr-doorhanger-doh-secondary-button = i-Disable
 
 cfr-whatsnew-clear-cookies-body = May ilang mga tracker na nireredirect ka sa ibang mga website na patagong naglalagay ng mga cookie. Kusa nang tinatanggal ng { -brand-short-name } ang mga cookie na ito para hindi ka masundan.
 cfr-whatsnew-clear-cookies-image-alt = Pagsasalarawan ng pagharang sa cookie
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Karagdagang media control
+cfr-whatsnew-media-keys-button = Alamin kung papaano

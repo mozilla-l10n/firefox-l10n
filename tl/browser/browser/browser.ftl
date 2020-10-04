@@ -443,6 +443,14 @@ urlbar-result-action-visit = Puntahan
 urlbar-result-action-search-bookmarks = Hanapin sa mga Bookmark
 urlbar-result-action-search-history = Hanapin sa Kasaysayan
 urlbar-result-action-search-tabs = Hanapin sa mga Tab
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Maghanap gamit ang { $engine } direkta mula sa address bar
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Maghanap sa { $engine } direkta mula sa address bar
 
 ## Full Screen and Pointer Lock UI
 
