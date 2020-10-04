@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS : Masonry Layout
+experimental-features-css-masonry-description = Activa la presa en caarga de la foncionalitat experimentala CSS Masonry Layout. Consultatz <a data-l10n-name="explainer">aquesta explicacion</a> per una descripcion de naut nivèl de la foncionalitat. Per enviar vòstres comentaris, mercés de comentar dins <a data-l10n-name="w3c-issue">aqueste senhalament de bug</a> o <a data-l10n-name="bug">aqueste bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
@@ -70,6 +71,9 @@ experimental-features-devtools-serviceworker-debugger-support =
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafics : Smooth Pinch Zoom
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Interruptor global del son WebRTC
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT : Warp
