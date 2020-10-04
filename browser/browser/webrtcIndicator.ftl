@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Bật máy ảnh
 webrtc-minimize =
     .title = Giảm thiểu chỉ số
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Bạn đang chia sẻ máy ảnh của mình. Nhấp để kiểm soát việc chia sẻ.
+webrtc-microphone-system-menu =
+    .label = Bạn đang chia sẻ micrô của mình. Nhấp để kiểm soát việc chia sẻ.
+webrtc-screen-system-menu =
+    .label = Bạn đang chia sẻ một cửa sổ hoặc một màn hình. Nhấp để kiểm soát việc chia sẻ.
