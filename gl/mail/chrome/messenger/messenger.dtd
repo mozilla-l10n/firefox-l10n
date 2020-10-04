@@ -37,6 +37,13 @@
 <!ENTITY newIMContactCmd.label "Contacto de conversas…">
 <!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Mensaxe">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Contacto da axenda de enderezos…">
+<!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Abrir">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Abrir mensaxe gardada…">
 <!ENTITY openMessageFileCmd.accesskey "m">
 <!ENTITY saveAsMenu.label "Gardar como">
@@ -52,6 +59,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "s">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conta actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "u">
+<!ENTITY getNextNMsgCmd2.label "Obter as seguintes mensaxes de noticias">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Enviar mensaxes pendentes">
 <!ENTITY sendUnsentCmd.accesskey "t">
 <!ENTITY subscribeCmd.label "Subscribir…">
@@ -163,6 +172,8 @@
 <!ENTITY recentFolders.accesskey "c">
 <!ENTITY compactVersion.label "Vista compacta">
 <!ENTITY compactVersion.accesskey "c">
+<!ENTITY folderPaneBar.label "Barra de ferramentas do panel de cartafoles">
+<!ENTITY folderPaneBar.accesskey "F">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -278,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Buscar mensaxes…">
 <!ENTITY searchMailCmd.accesskey "x">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Busca global…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Buscar enderezos…">
 <!ENTITY searchAddressesCmd.accesskey "n">
 
@@ -313,6 +326,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Conversas">
 <!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensaxe con estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "n">
 <!ENTITY folderMenu.label "Cartafol">
@@ -359,7 +373,12 @@
 <!ENTITY editAsNewMsgCmd.label "Editar a mensaxe como nova">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY editDraftMsgCmd.label "Modificar o borrador da mensaxe">
+<!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "Modificar o modelo">
+<!ENTITY editTemplateMsgCmd.accesskey "M">
+<!ENTITY newMsgFromTemplateCmd.label "Nova mensaxe desde o modelo">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crear filtro a partir da mensaxe…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mover a">
@@ -424,6 +443,8 @@
 <!ENTITY openMessageWindowCmd.label "Abrir mensaxe">
 <!ENTITY openMessageWindowCmd.accesskey "m">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "Abrir na conversa">
+<!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openAttachmentListCmd.label "Anexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
 <!ENTITY openFeedMessage1.label "Ao abrir mensaxes de fontes">
