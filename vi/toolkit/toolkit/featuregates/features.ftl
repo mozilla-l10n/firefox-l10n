@@ -94,6 +94,7 @@ experimental-features-graphics-desktop-zooming-description = Cho phép hỗ tr�
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
+experimental-features-webrtc-global-mute-toggles-description = Thêm điều khiển cho WebRTC global sharing indicator để cho phép người dùng tắt tiếng micrô và máy ảnh của họ.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
