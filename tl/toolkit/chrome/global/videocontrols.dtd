@@ -29,6 +29,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Magpaandar ng mga video sa foreground habang may iba ka pang mga ginagawa sa &brandShortName;">
 
 <!ENTITY error.aborted "Ang pagload ng video ay tumigil.">
 <!ENTITY error.network "Ang pagplay ng video ay nahinto dahil sa network error.">
