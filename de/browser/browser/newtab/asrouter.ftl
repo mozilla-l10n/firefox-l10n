@@ -265,3 +265,4 @@ cfr-whatsnew-clear-cookies-image-alt = Illustration für blockierten Cookie
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Mehr Mediensteuerung
+cfr-whatsnew-media-keys-button = Weitere Informationen

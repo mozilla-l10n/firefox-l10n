@@ -94,4 +94,4 @@ experimental-features-graphics-desktop-zooming-description = Unterstützung für
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
-experimental-features-js-warp-description = Warp aktivieren, ein Projekt zur Verbesserung der Leistung und des Speicherverbrauchs von JavaScript.
+experimental-features-js-warp-description = Warp aktivieren: ein Projekt zur Verbesserung der Leistung und des Speicherverbrauchs von JavaScript.

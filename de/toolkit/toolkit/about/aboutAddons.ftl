@@ -383,10 +383,10 @@ addon-badge-recommended2 =
     .title = { -brand-product-name } empfiehlt nur Erweiterungen, die unsere Standards für Sicherheit und Leistung erfüllen.
     .aria-label = { addon-badge-recommended2.title }
 addon-badge-line =
-    .title = Diese Erweiterung wurde von den Entwicklern von { -brand-product-name } erstellt
+    .title = Diese Erweiterung wurde von den Entwicklern von { -brand-product-name } erstellt.
     .aria-label = { addon-badge-line.title }
 addon-badge-verified =
-    .title = Der Quelltext dieser Erweiterung wurde aus Sicherheitsgründen überprüft
+    .title = Der Quelltext dieser Erweiterung wurde aus Sicherheitsgründen überprüft.
     .aria-label = { addon-badge-verified.title }
 
 ##
