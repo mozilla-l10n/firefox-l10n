@@ -440,6 +440,17 @@ urlbar-result-action-visit = მონახულება
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = სანიშნების ძიება
+urlbar-result-action-search-history = ისტორიის ძიება
+urlbar-result-action-search-tabs = ჩანართების ძიება
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = საძიებოდ გამოიყენეთ { $engine } პირდაპირ მისამართების ველიდან
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = საძიებოდ გამოიყენეთ { $engine } პირდაპირ მისამართების ველიდან
 
 ## Full Screen and Pointer Lock UI
 
