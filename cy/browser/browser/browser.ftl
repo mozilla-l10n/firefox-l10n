@@ -451,6 +451,14 @@ urlbar-result-action-visit = Ymweld â
 urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
 urlbar-result-action-search-history = Chwilio'r Hanes
 urlbar-result-action-search-tabs = Chwilio'r Tabiau
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Chwilio gyda { $engine } yn syth o'r bar cyfeiriad
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Chwilio gyda { $engine } yn syth o'r bar cyfeiriad
 
 ## Full Screen and Pointer Lock UI
 
