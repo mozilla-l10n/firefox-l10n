@@ -91,6 +91,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Yn g
 experimental-features-graphics-desktop-zooming =
     .label = Graffeg: Chwyddo Pinsio Llyfn
 experimental-features-graphics-desktop-zooming-description = Galluogi cefnogaeth i binsio llyfn chwyddo ar sgriniau cyffwrdd a phadiau cyffwrdd manwl gywir.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Toglau Tewi Eang WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Ychwanegwch ffyrdd o reoli dangosydd rhannu WebRTC i gyd sy'n caniatáu i ddefnyddwyr dewi eu llif meicroffon a chamera.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
