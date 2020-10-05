@@ -42,7 +42,6 @@ printui-less-settings = Llai o osodiadau
 printui-paper-size-label = Maint papur
 # Section title (noun) for the print scaling options
 printui-scale = Graddfa
-printui-scale-fit-to-page = Yn ffitio'r dudalen
 printui-scale-fit-to-page-width = Yn ffitio i led y dudalen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Graddfa
@@ -57,6 +56,11 @@ printui-margins = Ymylon
 printui-margins-default = Rhagosodiad
 printui-margins-min = Lleiafswm
 printui-margins-none = Dim
+printui-margins-custom = Cyfaddas
+printui-margins-custom-top = Brig
+printui-margins-custom-bottom = Gwaelod
+printui-margins-custom-left = Chwith
+printui-margins-custom-right = De
 printui-system-dialog-link = Argraffu gan ddefnyddio deialog y system ...
 printui-primary-button = Argraffu
 printui-primary-button-save = Cadw
@@ -86,6 +90,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Rhaid i'r raddfa fod yn rhif rhwng 10 a 200.
+printui-error-invalid-margin = Rhowch ymyl ddilys ar gyfer y maint papur a ddewiswyd.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rhaid i'r raddfa fod yn rhif rhwng 10 a { $numPages }.
