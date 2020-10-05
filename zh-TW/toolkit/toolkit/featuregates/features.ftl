@@ -91,6 +91,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = 在�
 experimental-features-graphics-desktop-zooming =
     .label = Graphics: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = 開啟對觸控螢幕與精準觸控板的平滑手指縮放支援。
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC Global Mute Toggles
+experimental-features-webrtc-global-mute-toggles-description = 新增對 WebRTC 全域分享指示器的控制元件，讓使用者能夠完全關閉麥克風與攝影機訊號來源。
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

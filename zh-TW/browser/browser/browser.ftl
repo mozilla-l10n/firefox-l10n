@@ -435,6 +435,14 @@ urlbar-result-action-visit = 前往
 urlbar-result-action-search-bookmarks = 搜尋書籤
 urlbar-result-action-search-history = 搜尋瀏覽記錄
 urlbar-result-action-search-tabs = 搜尋分頁
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = 從網址列直接使用 { $engine } 搜尋
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = 從網址列直接搜尋 { $engine }
 
 ## Full Screen and Pointer Lock UI
 
