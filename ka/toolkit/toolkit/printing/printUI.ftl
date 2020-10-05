@@ -38,7 +38,6 @@ printui-less-settings = ძირითადი პარამეტრებ�
 printui-paper-size-label = ქაღალდის ზომა
 # Section title (noun) for the print scaling options
 printui-scale = ზომის ცვლილება
-printui-scale-fit-to-page = გვერდის სიგანეზე
 printui-scale-fit-to-page-width = გვერდის სიგანეზე მორგება
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = მასშტაბი
@@ -53,6 +52,11 @@ printui-margins = მინდვრები
 printui-margins-default = ნაგულისხმევი
 printui-margins-min = უმცირესი
 printui-margins-none = არცერთი
+printui-margins-custom = მორგებული
+printui-margins-custom-top = ზედა
+printui-margins-custom-bottom = ქვედა
+printui-margins-custom-left = მარცხენა
+printui-margins-custom-right = მარჯვენა
 printui-system-dialog-link = ამობეჭდვა სისტემის ფანჯრიდან…
 printui-primary-button = ამობეჭდვა
 printui-primary-button-save = შენახვა
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = მასშტაბი უნდა იყოს რიცხვი შუალედში 10 და 200
+printui-error-invalid-margin = გთხოვთ, შეიყვანოთ მართებული მინდვრები შერჩეული ქაღალდის ზომისთვის.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = უნდა იყოს რიცხვი შუალედში 1 და { $numPages }.
