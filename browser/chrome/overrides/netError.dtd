@@ -114,7 +114,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avansert info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY certerror.pagetitle2  "Åtvaring: Potensiell sikkerheitsrisiko forut">
+<!ENTITY certerror.pagetitle2  "Åtvaring: Potensiell sikkerheitsrisiko framom her">
 <!ENTITY certerror.sts.pagetitle  "Kopla ikkje til: Potensielt tryggingsproblem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har ein sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; berre kan kople til den sikkert. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
