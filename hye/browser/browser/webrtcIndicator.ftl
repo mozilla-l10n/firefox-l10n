@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Միացնել տեսախցիկը
 webrtc-minimize =
     .title = Ծածկել ցուցիչը
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Դուք համաւգտագործում էք Ձեր տեսախցիկը: Կտտացրէք՝ համաւգտագործումը ղեկավարելու համար:
+webrtc-microphone-system-menu =
+    .label = Դուք համաւգտագործում էք Ձեր խաւսափողը: Կտտացրէք` համաւգտագործումը ղեկավարելու համար:
+webrtc-screen-system-menu =
+    .label = Դուք համաւգտագործում էք պատուհանը կամ էկրանը: Կտտացրէք` համաւգտագործումը ղեկավարելու համար:

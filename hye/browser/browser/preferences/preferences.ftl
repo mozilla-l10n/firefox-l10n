@@ -561,6 +561,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Փոխել ընտրանքները այլ հասցէգաւտիների առաջարկների համար
 search-suggestions-cant-show = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
 search-one-click-header = Մեկ սեղմամբ որոնիչներ
+search-one-click-header2 = Որոնել դիւրանցումները
 search-one-click-desc = Ընտրեք այլ ընտրանքային որոնիչներ, որոնք կերեւան ստորեւ հասցեի գոտում եւ որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
 search-choose-engine-column =
     .label = Որոնիչներ
