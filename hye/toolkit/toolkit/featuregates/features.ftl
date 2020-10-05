@@ -91,3 +91,6 @@ experimental-features-devtools-serviceworker-debugger-support-description = Հն
 experimental-features-graphics-desktop-zooming =
     .label = Գծապատկերներ. երկու մատով վերաչափում
 experimental-features-graphics-desktop-zooming-description = Միացնել հպէկրանների եւ ճշգրիտ հպահարթակի համար երկու մատով վերաչափելու աջակցումը;
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Ընդհանուր լռեցումը փոխարկում է WebRTC -ն
