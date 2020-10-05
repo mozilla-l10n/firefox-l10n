@@ -90,6 +90,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Yerm
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Udlifen: Asemɣer/Asemẓi n tuṭṭfa talggaɣt
+experimental-features-graphics-desktop-zooming-description = Rmed tallelt n tuṭṭfa n usemɣer/asemẓi talggaɣt deg ugdil analan akked telqayt n ugertil analan.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Rmed/Sens imesli amatu n WebRTC
