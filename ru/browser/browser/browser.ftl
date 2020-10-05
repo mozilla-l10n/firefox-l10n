@@ -445,6 +445,14 @@ urlbar-result-action-visit = Посетить
 urlbar-result-action-search-bookmarks = Искать в закладках
 urlbar-result-action-search-history = Искать в журнале
 urlbar-result-action-search-tabs = Искать во вкладках
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Найдите в { $engine } прямо из адресной строки
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Найдите в { $engine } прямо из адресной строки
 
 ## Full Screen and Pointer Lock UI
 
