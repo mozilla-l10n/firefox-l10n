@@ -94,6 +94,7 @@ experimental-features-graphics-desktop-zooming-description = ჩართვა 
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
+experimental-features-webrtc-global-mute-toggles-description = ამატებს სამართავს WebRTC-ის ერთიან საზიარო მაჩვენებელში, რომლითაც მომხმარებელს შეუძლია ერთიანად დაადუმოს მიკროფონისა და კამერის არხები.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
