@@ -50,16 +50,28 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Kusɨɨ inidáni nkantanu <span data-l10n-name = "zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Ka̱a̱ nánuku ñama, va'a je yu'u vaji nu iin vetiñu ntu nuku xu'un.
 onboarding-multistage-welcome-primary-button-label = Kajie'e ke'i
 onboarding-multistage-welcome-secondary-button-label = Kajie´e sesión
 onboarding-multistage-welcome-secondary-button-text = A kumini iin cuenta?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Kuiso contraseñas, <br/> a ta'an ini noo'o ji <span data-l10n-name = "zap">más</span>
+onboarding-multistage-import-subtitle = ¿A vajinu nu inka ka̱a̱ nánuku? Ntu viji kuvi kuisonu kuaiyo { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Kajie´e nasia'a
 onboarding-multistage-import-secondary-button-label = Nkuvi ntañu´u
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Sama  <span data-l10n-name="zap">look</span>
+onboarding-multistage-theme-subtitle = Sá´á vii { -brand-short-name } ji iin tema.
 onboarding-multistage-theme-primary-button-label = Chuva´a Tema
 onboarding-multistage-theme-secondary-button-label = Nkuvi ntañu´u
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automático
+onboarding-multistage-theme-label-light = Kuvi
 onboarding-multistage-theme-label-dark = Teku tun
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow

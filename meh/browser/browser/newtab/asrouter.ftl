@@ -185,6 +185,7 @@ cfr-doorhanger-socialtracking-close-button = Nakasɨ
 cfr-doorhanger-socialtracking-dont-show-again = Ntu xine´enuka mensajes kua ya´a
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } nñasɨ iin red social kuntaja noo´o nee nuu ya´a
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } nnakasɨ iin detector de huellas digitales nu página ya´a
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } nnakasɨ  iin criptomonero nuu página ya´a
 
 ## Enhanced Tracking Protection Milestones
@@ -235,3 +236,4 @@ cfr-doorhanger-doh-secondary-button = Chiyu´u
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-button = Sikua´a naja

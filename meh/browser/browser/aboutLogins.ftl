@@ -127,12 +127,15 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Tɨɨ contraseña nch
 ## Master Password notification
 
 master-password-notification-message = Kuamani ini noo´o je, chu´un contraseña kuña´nu saa kutuvi da nuu kajie´e sesión nchuva´a ji contraseñas
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Sa kuvi kuiso nuu kajie'e sesión, chu'un credenciales nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Kuiso da nuu kajie'e sesión ji contraseñas nchuva'a
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Kuamani ini noo´o je, chu´un contraseña kuña´nu saa kutuvi da nuu kajie´e sesión ji contraseñas nchuva´a
 master-password-reload-button =
     .label = Kajie´e sesión
     .accesskey = K
