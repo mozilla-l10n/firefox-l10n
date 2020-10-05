@@ -91,6 +91,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = ჩ�
 experimental-features-graphics-desktop-zooming =
     .label = გრაფიკა: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = ჩართვა თითების ჟესტებით გლუვი მოახლოების, შეხების აღმქმელი ეკრანებისა და დაფებისთვის.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC Global Mute Toggles
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

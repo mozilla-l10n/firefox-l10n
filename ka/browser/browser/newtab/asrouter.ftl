@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = სცადეთ: ჩანართის მ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
-
 cfr-doorhanger-extension-cancel-button = ახლა არა
     .accesskey = რ
-
 cfr-doorhanger-extension-ok-button = დამატება ახლავე
     .accesskey = ხ
 cfr-doorhanger-pintab-ok-button = ამ ჩანართის მიმაგრება
     .accesskey = გ
-
 cfr-doorhanger-extension-manage-settings-button = შემოთავაზებების პარამეტრების მართვა
     .accesskey = შ
-
 cfr-doorhanger-extension-never-show-recommendation = ამ შემოთავაზების ჩვენების შეწყვეტა
     .accesskey = წ
-
 cfr-doorhanger-extension-learn-more-link = იხილეთ ვრცლად
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = შემქმნელი: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = შემოთავაზება
 cfr-doorhanger-extension-notification2 = შემოთავაზება
     .tooltiptext = გაფართოების შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია გაფართოების შემოთავაზება
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = შემოთავაზება
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } მომხმარებელი
        *[other] { $total } მომხმარებელი
     }
-
 cfr-doorhanger-pintab-description = მიიღეთ მარტივი წვდომა თქვენს ხშირად მონახულებულ საიტებთან. დატოვეთ საიტები ჩანართში გახსნილი (ხელახლა გაშვების დროსაც).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = მიიღეთ მარტივი წ
 cfr-doorhanger-pintab-step1 = <b>მარჯვენა-წკაპი</b> მისამაგრებელ ჩანართზე.
 cfr-doorhanger-pintab-step2 = აირჩიეთ <b>ჩანართის მიმაგრება</b> მენიუდან.
 cfr-doorhanger-pintab-step3 = თუ საიტზე რამე განახლდება, ლურჯი წერტილი გამოჩნდება მიმაგრებულ ჩანართზე.
-
 cfr-doorhanger-pintab-animation-pause = შეჩერება
 cfr-doorhanger-pintab-animation-resume = გაგრძელება
-
 
 ## Firefox Accounts Message
 
@@ -100,26 +89,20 @@ cfr-protections-panel-link-text = ვრცლად
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ახალი შესაძლებლობა:
-
 cfr-whatsnew-button =
     .label = რა სიახლეებია
     .tooltiptext = რა სიახლეებია
-
 cfr-whatsnew-panel-header = რა სიახლეებია
-
 cfr-whatsnew-release-notes-link-text = იხილეთ გამოშვების შენიშვნები
-
 cfr-whatsnew-fx70-title = { -brand-short-name } ახლა უფრო მტკიცედ იბრძვის თქვენი პირადი მონაცემების დასაცავად
 cfr-whatsnew-fx70-body =
     ბოლო განახლების შედეგად, გაძლიერებულია თვალთვალისგან დაცვის შესაძლებლობა
     და მეტად გამარტივებულია ძლიერი პაროლების გამოყენება, თითოეული საიტისთვის.
-
 cfr-whatsnew-tracking-protect-title = თავი დაიცავით მეთვალყურეებისგან
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } ზღუდავს ცნობილი სოციალური ქსელებისა და საიტთაშორისი
     მეთვალყურეების უმეტესობას, რომლებიც თან დაგყვებათ ინტერნეტში.
 cfr-whatsnew-tracking-protect-link-text = იხილეთ თქვენი ანგარიში
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -130,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = თარიღიდან { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ანგარიშის ნახვა
-
 cfr-whatsnew-lockwise-backup-title = დაამარქაფეთ პაროლები
 cfr-whatsnew-lockwise-backup-body = ახლა კი შექმენით პაროლები, რომლებთან წვდომაც ნებისმიერი ადგილიდან შეგეძლებათ, ანგარიშის საშუალებით.
 cfr-whatsnew-lockwise-backup-link-text = მარქაფის ჩართვა
-
 cfr-whatsnew-lockwise-take-title = თან წაიყოლეთ თქვენი პაროლები
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name }-აპლიკაცია მობილურისთვის, საშუალებას მოგცემთ
@@ -170,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] ამომცნობი შეიზღუდა
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ზღუდავს მომხმარებლის ამომცნობ საშუალებებს, რომლებიც ჩუმად აგროვებს ინფორმაციას თქვენს მოწყობილობასა და მოქმედებებზე, დახასიათების შესადგენად სარეკლამოებისთვის.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = მომხმარებლის ამომცნობები
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } გთავაზობთ მომხმარებლის ამომცნობი საშუალებების შეზღუდვას, რომლებიც ჩუმად აგროვებს ინფორმაციას თქვენს მოწყობილობასა და მოქმედებებზე, დახასიათების შესადგენად სარეკლამოებისთვის.
@@ -231,7 +211,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = ყველას ნახვა
     .accesskey = ნ
-
 cfr-doorhanger-milestone-close-button = დახურვა
     .accesskey = ხ
 
@@ -282,3 +261,9 @@ cfr-doorhanger-doh-secondary-button = გამორთვა
 cfr-whatsnew-clear-cookies-header = თავისთავადი დაცვა თვალთვალის გაიძვერული საშუალებებისგან
 cfr-whatsnew-clear-cookies-body = ზოგიერთი მეთვალყურე გამისამართებთ სხვა საიტებზე, რომლებიც ფარულად აყენებს ფუნთუშებს. { -brand-short-name } ახლა უკვე ავტომატურად მოაცილებს ამ ფუნთუშებს, თვალი რომ ვერ გადევნონ.
 cfr-whatsnew-clear-cookies-image-alt = შეზღუდული ფუნთუშის ნიმუში
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = გაფართოებული სამართავი
+cfr-whatsnew-media-keys-body = გაუშვით ან შეაჩერეთ ხმოვანი და ვიდეოფაილები პირდაპირ კლავიატურიდან ან ყურსასმენიდან, რაც მეტად გაამარტივებს ფაილების მართვას სხვა ჩანართიდან ან თუნდაც პროგრამიდან, ჩაკეტილ ეკრანზეც კი. აგრეთვე შესაძლებელია ჩანაწერებზე გადასვლა, წინა და მომდევნო ღილაკებით.
+cfr-whatsnew-media-keys-button = იხილეთ, როგორ
