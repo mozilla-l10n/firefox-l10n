@@ -87,6 +87,9 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Ifecka n uneflay: Tamseɣtayt n unmahal n umeẓlu
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Yermed tallalt tarmitant i yimahalen n umeẓlu deg ugalis n temseɣtit. Tamahilt-a yezmer ad terr ifecka n tneflit ẓẓayit, tessalay daɣen asadur n tkatut.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Udlifen: Asemɣer/Asemẓi n tuṭṭfa talggaɣt
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Rmed/Sens imesli amatu n WebRTC
