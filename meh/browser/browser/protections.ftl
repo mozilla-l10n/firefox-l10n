@@ -26,6 +26,7 @@ protection-report-manage-protections = Tetiñu nuu kei´i
 graph-today = Ki̱vɨ̱ vitá
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Iin tutu nuu vaji tunin kuaíyo da ka̱a̱ nita noo´o,  nstasava nakuvi da ka̱a̱ ya´a, da nnasɨ semana nña´a.
+cookie-tab-title = Cookies de rastreo multisitio
 fingerprinter-tab-title = Huellas dactilares
 cryptominer-tab-title = Criptomineros
 protections-close-button2 =
@@ -56,6 +57,12 @@ turn-on-sync = Activar { -sync-brand-short-name }...
     .title = Kua'a nuu preferencias sincronización
 monitor-title = Kumi nkene fugas da datos
 monitor-link = Naja satiñu
+monitor-sign-up-link = Chu'un sivɨnɨ sa kachi de íyo alertas da filtraciones
+    .title = Chu'un sivɨnɨ sa kachi de íyo alertas da filtraciones nu { -monitor-brand-name }
+monitor-emails-tooltip =
+    .title = Kune'ya direcciones de correo electrónico tuvi nu { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Kune'ya da datos tuvi nu { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Kune'ya contraseñas tuvi nu { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number

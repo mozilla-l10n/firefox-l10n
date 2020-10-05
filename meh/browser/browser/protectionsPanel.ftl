@@ -46,6 +46,7 @@ protections-panel-not-found-label = Ntu nakuni
 
 ##
 
+protections-panel-settings-label = Ke´i configuración protección
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Panel de protección
 
@@ -62,6 +63,9 @@ protections-panel-site-not-working-view-send-report = Chu´un íchi reporte
 
 ##
 
+protections-panel-content-blocking-manage-settings =
+    .label = Ke´i configuración protección
+    .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Kachi jie´e iin nuu ntu íyo tiñu
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
