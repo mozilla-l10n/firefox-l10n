@@ -142,6 +142,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.restoreSession.label "Nate tuku sesión yata">
 <!ENTITY appMenuHistory.viewSidebar.label "Kune'ya barra historial">
 <!ENTITY appMenuHistory.hideSidebar.label "Chiyu'u barra kuá´á historial">
+<!ENTITY appMenuHistory.recentHistory.label "Da nnánuku vitan">
 <!ENTITY appMenuHelp.label "Chinei">
 
 <!ENTITY appMenuRemoteTabs.label "Da sukua íyo sincronizadas">
@@ -155,12 +156,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Kune´yá kuaiyo">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Xituvi kue'eka sukua nuu ka̱a̱ ya'a">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Síne prefrencias Sync">
+<!ENTITY appMenuRemoteTabs.welcome.label "Kune´ya iin lista da pestañas da inka dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cuenta noo´o nejika koo verificada.">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Kajie'e sesión ji &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tetiñu da ka̱a̱…">
@@ -203,6 +207,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Chuva´a página nuu Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Kune'ya lista Pocket">
 
 <!ENTITY emailPageCmd.label           "Chu´un íchi enlace...">

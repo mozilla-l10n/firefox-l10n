@@ -4,6 +4,7 @@
 
 synced-tabs-sidebar-title = Pestañas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = ¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?
+synced-tabs-sidebar-intro = Kune´ya iin lista da pestañas da inka dispositivos.
 synced-tabs-sidebar-unverified = Cuenta noo´o nejika koo verificada.
 synced-tabs-sidebar-notabs = Ntu íyo pestañas nune
 synced-tabs-sidebar-openprefs = Síne da preferencias { -sync-brand-short-name }
@@ -22,6 +23,9 @@ synced-tabs-context-open-in-new-window =
 synced-tabs-context-open-in-new-private-window =
     .label = Síne iin ventana yu´u
     .accesskey = p
+synced-tabs-context-bookmark-single-tab =
+    .label = Tee página ya´a nuu a ta´an ini noo´o...
+    .accesskey = A
 synced-tabs-context-copy =
     .label = Tɨɨn
     .accesskey = C

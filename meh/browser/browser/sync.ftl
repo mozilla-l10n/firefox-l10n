@@ -8,6 +8,7 @@ sync-disconnect-dialog-title = ¿Kene { -sync-brand-short-name }?
 fxa-disconnect-dialog-title = ¿Kene { -brand-product-name }?
 sync-disconnect-dialog-button = Kene
 fxa-signout-dialog-heading = ¿Nakasɨ sesión { -fxaccount-brand-name }?
+fxa-signout-dialog-body = Da datos nnaxi'ña kino nu cuenta noo'o.
 fxa-signout-dialog =
     .title = ¿Nakasɨ sesión { -fxaccount-brand-name }?
     .style = min-width: 375px;
