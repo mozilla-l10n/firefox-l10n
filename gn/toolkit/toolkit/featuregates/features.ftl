@@ -91,6 +91,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Embo
 experimental-features-graphics-desktop-zooming =
     .label = Ta’ãnga: Zoom pichãi mbegue
 experimental-features-graphics-desktop-zooming-description = Embojuruja jokupyty zoom peg̃uarã pichãi mbegue mba’erechaha pokoguávape ha aramboha’i oikoitéva.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Emyandy/embogue WebRTC tuichaháicha
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
