@@ -8,7 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "ه">
 
 <!ENTITY lightning.toolbar.sync.label "زامِن">
-<!ENTITY lightning.toolbar.sync.tooltip "أعد تحميل التقاويم وزامن التغييرات">
+<!ENTITY lightning.toolbar.sync.tooltip "أعِد تحميل التقويمات وزامِن التغييرات">
 <!ENTITY lightning.toolbar.delete.label "احذف">
 <!ENTITY lightning.toolbar.delete.tooltip "احذف الأحداث أو المهام المحددة">
 <!ENTITY lightning.toolbar.edit.label "حرر">
@@ -17,22 +17,22 @@
 <!ENTITY lightning.toolbar.gototoday.tooltip "اذهب الى اليوم">
 <!ENTITY lightning.toolbar.print.label "اطبع">
 <!ENTITY lightning.toolbar.print.tooltip "اطبع الأحداث أو المهام">
-<!-- Mode Toolbar -->
 
+<!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "تقويم">
 <!ENTITY lightning.toolbar.calendar.tooltip   "انتقل إلى لسان التقويم">
 <!ENTITY lightning.toolbar.calendar.accesskey "ت">
 <!ENTITY lightning.toolbar.task.label         "مهام">
 <!ENTITY lightning.toolbar.task.tooltip       "انتقل إلى لسان المهام">
 <!ENTITY lightning.toolbar.task.accesskey     "م">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "حدث">
 <!ENTITY lightning.toolbar.newevent.tooltip   "أنشئ حدثا جديدا">
 <!ENTITY lightning.toolbar.newtask.label      "مهمَّة">
 <!ENTITY lightning.toolbar.newtask.tooltip    "أنشئ مهمة جديدة">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "اليوم">
 <!ENTITY lightning.toolbar.day.accesskey             "ي">
 <!ENTITY lightning.toolbar.week.label                "الأسبوع">

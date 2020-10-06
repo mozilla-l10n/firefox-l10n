@@ -29,7 +29,7 @@
 <!ENTITY buttons.create.label "أنشِئ تقويما">
 <!ENTITY buttons.create.accesskey "ن">
 
-<!ENTITY buttons.find.label "ابحث عن تقاويم">
+<!ENTITY buttons.find.label "ابحث عن تقويمات">
 <!ENTITY buttons.find.accesskey "ح">
 
 <!ENTITY buttons.back.label "إلى الخلف">
@@ -40,5 +40,11 @@
 
 <!ENTITY calendartype.label "نوع التقويم:">
 <!ENTITY location.label "المكان:">
+<!ENTITY location.placeholder "عنوان أو اسم مضيف خادوم التقويم">
 
+<!ENTITY network.loading.description "من فضلك انتظر ريثما نستكشف تقويماتك.">
+<!ENTITY network.notfound.description "لم نجد أيّ تقويم في هذا المكان. من فضلك افحص الإعدادات.">
+<!ENTITY network.authfail.description "لم تُقبل بيانات الدخول التي أدخلتها. من فضلك افحص الإعدادات.">
 
+<!ENTITY network.subscribe.single.description "من فضلك اختر قوائم التقويمات التي تريد الاشتراك فيها.">
+<!ENTITY network.subscribe.multiple.description "هناك أكثر من نوع واحد للتقويمات في هذا المكان. من فضلك اختر نوع التقويم ثم ضع علامة على التقويمات التي تريد الاشتراك فيها.">

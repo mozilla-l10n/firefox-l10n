@@ -415,6 +415,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "احفظ و أغلِق">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "احفظ التغييرات وأغلِق النافذة بدون تغيير حالة المشاركة أو إرسال ردّ">
 <!ENTITY summary.dialog.accept.label            "اقبل">
 <!ENTITY summary.dialog.accept.tooltiptext      "اقبل الدعوة">
 <!ENTITY summary.dialog.tentative.label         "مبدئيًا">
@@ -422,5 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "ارفض">
 <!ENTITY summary.dialog.decline.tooltiptext     "ارفض الدعوة">
 <!ENTITY summary.dialog.dontsend.label          "لا تُرسل ردًا">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "غيّر حالة المشاركة بدون إرسال ردّ إلى المنظّم، وأغلِق هذه النافذة">
 <!ENTITY summary.dialog.send.label              "أرسِل ردًا الآن">
 <!ENTITY summary.dialog.send.tooltiptext        "أرسِل ردًا للمنظّم  وأغلِق النافذة">
