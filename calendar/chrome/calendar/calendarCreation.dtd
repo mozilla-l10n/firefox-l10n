@@ -27,11 +27,16 @@
 <!ENTITY sourcetabs.other.label  "أخرى">
 
 <!ENTITY buttons.create.label "أنشِئ تقويما">
+<!ENTITY buttons.create.accesskey "ن">
 
+<!ENTITY buttons.find.label "ابحث عن تقاويم">
+<!ENTITY buttons.find.accesskey "ح">
 
 <!ENTITY buttons.back.label "إلى الخلف">
+<!ENTITY buttons.back.accesskey "خ">
 
 <!ENTITY buttons.subscribe.label "اشترِك">
+<!ENTITY buttons.subscribe.accesskey "ش">
 
 <!ENTITY calendartype.label "نوع التقويم:">
 <!ENTITY location.label "المكان:">
