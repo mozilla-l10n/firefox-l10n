@@ -94,6 +94,7 @@ experimental-features-graphics-desktop-zooming-description = Embojuruja jokupyty
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Emyandy/embogue WebRTC tuichaháicha
+experimental-features-webrtc-global-mute-toggles-description = Embojuaju moambueha WebRTC iñambuéva tuichaháicha omoneĩva puruharápe omondohóvo tuichaháicha iñe’ẽatãha ha ha’ãngamýi.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
