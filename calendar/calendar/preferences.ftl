@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = التقويم
+calendar-title-reminder = التذكيرات
+calendar-title-category = الفئات
 dateformat-label =
     .value = صيغة التاريخ:
     .accesskey = ت
@@ -33,8 +36,10 @@ day-7-name =
 show-weeknumber-label =
     .label = أظهر رقم الأسبوع في المنظور و الشهر المصغر
     .accesskey = ظ
+workdays-label =
+    .value = أيام العمل في الأسبوع:
 day-1-checkbox =
-    .label = الأحد
+    .label = أحد
     .accesskey = ح
 day-2-checkbox =
     .label = إثنين
@@ -70,6 +75,9 @@ midnight-label =
     .label = منتصف الليل
 noon-label =
     .label = الظهيرة
+location-checkbox =
+    .label = اعرض المكان
+    .accesskey = ك
 multiweek-legend = منظور الأسابيع المتعددة
 number-of-weeks-label =
     .value = عدد الأسابيع الظاهرة (بما في ذلك السابقة):
@@ -99,6 +107,9 @@ soon-label =
     .value = يعرض قسم الأحداث الآتية:
     .accesskey = ق
 event-task-legend = الأحداث و المهام
+default-length-label =
+    .value = طول الأحداث والمهام المبدئي:
+    .accesskey = ط
 task-start-label =
     .value = تاريخ البدء:
 task-start-1-label =
