@@ -5,10 +5,13 @@
 
 ## Import Logins Autocomplete
 
+autocomplete-import-logins-info =
+    .tooltiptext = अधिक जानें
+
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = अधिक जानें
+autocomplete-import-learn-more = अधिक जानें
