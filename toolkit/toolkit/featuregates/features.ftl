@@ -60,6 +60,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Un cache pel document inicial about:home qu’es cargat cada aviada. La tòca del cache es de melhorar las performanças d’aviada.
 experimental-features-print-preview-tab-modal =
     .label = Renovacion de l’apercebut abans impression
+experimental-features-print-preview-tab-modal-description = Activa un apercebut abans impression novèlament pensat e ara disponible sus macOS. Aquò pòt menar de potencials problèmas e inclutz totes los paramètres ligats a l’impression. Per accedir a totes los paramètres ligats a l’impression, seleccionatz «  Imprimir en utilizant los menús del sistèma… » al panèl d’impression.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
