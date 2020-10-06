@@ -443,6 +443,14 @@ urlbar-result-action-visit = Jeho
 urlbar-result-action-search-bookmarks = Eheka techaukahápe
 urlbar-result-action-search-history = Eheka tembiasakuépe
 urlbar-result-action-search-tabs = Eheka tendayke
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Eheka { $engine } ndive kundaharape renda guive
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Eheka { $engine } ndive kundaharape renda guive
 
 ## Full Screen and Pointer Lock UI
 
