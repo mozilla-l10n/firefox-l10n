@@ -94,6 +94,7 @@ experimental-features-graphics-desktop-zooming-description = Aktiver støtte for
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Global WebRTC dempekontroll
+experimental-features-webrtc-global-mute-toggles-description = Legger til kontroller i WebRTCs globale delingsvarsel som brukere kan bruke til å globalt dempe sin mikrofon og kamerakilde.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
