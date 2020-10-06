@@ -282,6 +282,19 @@ identity-passive-loaded = Alcuni elementi di questa pagina non sono sicuri (ad e
 identity-active-loaded = La protezione è disattivata per questa pagina.
 identity-weak-encryption = Questa pagina utilizza una crittografia debole.
 identity-insecure-login-forms = Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.
+
+identity-https-only-connection-upgraded = (aggiornato a HTTPS)
+identity-https-only-label = Modalità solo HTTPS
+identity-https-only-dropdown-on =
+    .label = Attiva
+identity-https-only-dropdown-off =
+    .label = Disattivata
+identity-https-only-dropdown-off-temporarily =
+    .label = Disattivata temporaneamente
+identity-https-only-info-turn-on = Attivare per fare in modo che { -brand-short-name } passi a una connessione sicura quando possibile.
+identity-https-only-info-turn-off = Se il sito non funziona correttamente, provare a disattivare la modalità solo HTTPS e ricaricare utilizzando una connessione non sicura HTTP.
+identity-https-only-info-no-upgrade = Impossibile aggiornare la connessione da HTTP.
+
 identity-permissions =
     .value = Permessi
 identity-permissions-reload-hint = Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.
