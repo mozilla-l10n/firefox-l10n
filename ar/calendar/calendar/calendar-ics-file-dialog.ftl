@@ -11,4 +11,4 @@ calendar-ics-file-dialog-message-2 = استورِد من ملف:
 calendar-ics-file-dialog-calendar-menu-label = استورِد إلى التقويم:
 calendar-ics-file-import-success = نجح الاستيراد!
 calendar-ics-file-import-error = حدث عُطل وفشل الاستيراد.
-calendar-ics-file-dialog-no-calendars = ما من تقاويم تستورد الأحداث أو المهام.
+calendar-ics-file-dialog-no-calendars = ما من تقويمات تستورد الأحداث أو المهام.

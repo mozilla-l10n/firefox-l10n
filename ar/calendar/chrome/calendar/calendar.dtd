@@ -9,7 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "أنشئ حدثا جديدا" >
 <!ENTITY calendar.newtask.button.tooltip          "أنشئ مهمة جديدة" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "المهام" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "أظهر المهام المكتملة">
 
 <!ENTITY calendar.today.button.label          "اليوم">
@@ -354,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "اللون:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)‎">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "خادوم نظام سَن جافا للتقويمات (WCAP)">
 <!ENTITY calendarproperties.format.label                   "النسق:">
 <!ENTITY calendarproperties.location.label                 "المكان:">
 <!ENTITY calendarproperties.refreshInterval.label          "أنعش التقويم:">
@@ -363,7 +361,7 @@
 <!ENTITY calendarproperties.readonly.label                 "للقراءة فقط">
 <!ENTITY calendarproperties.firealarms.label               "اعرض التذكيرات">
 <!ENTITY calendarproperties.cache3.label                   "دعم اللااتصال">
-<!ENTITY calendarproperties.enabled.label                  "فعّل هذا التقويم">
+<!ENTITY calendarproperties.enabled2.label                 "فعّل هذا التقويم">
 <!ENTITY calendarproperties.forceDisabled.label            "تعذر العثور على موفّر هذا التقويم. يحدث هذا غالبا إن عطلت إضافات معينة أو كانت غير مثبتة.">
 <!ENTITY calendarproperties.unsubscribe.label              "ألغ الاشتراك">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "غ">
