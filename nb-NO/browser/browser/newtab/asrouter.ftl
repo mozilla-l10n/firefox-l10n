@@ -264,4 +264,5 @@ cfr-whatsnew-clear-cookies-image-alt = Illustrasjon for blokkert infokapsel
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Flere mediekontroller
+cfr-whatsnew-media-keys-body = Spill av og pause lyd eller video direkte fra tastaturet eller hodesettet, noe som gjør det enkelt å kontrollere media fra en annen fane, program eller til og med når datamaskinen er låst. Du kan også bruke tastene fremover og bakover for å bytte mellom sanger.
 cfr-whatsnew-media-keys-button = Finn ut hvordan
