@@ -443,6 +443,10 @@ urlbar-result-action-visit = Avaa
 urlbar-result-action-search-bookmarks = Etsi kirjanmerkeistä
 urlbar-result-action-search-history = Etsi historiasta
 urlbar-result-action-search-tabs = Etsi välilehdistä
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Hae hakukoneella { $engine } suoraan osoiteriviltä
 
 ## Full Screen and Pointer Lock UI
 
