@@ -93,7 +93,7 @@ experimental-features-graphics-desktop-zooming =
 experimental-features-graphics-desktop-zooming-description = Aktivera stöd för smidig nypzoomning på pekskärmar och precision touchpads.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
-    .label = Aktivera/inaktivera WebRTC:s globala mediakontroller
+    .label = Aktivera/inaktivera WebRTC:s globala mediekontroller
 experimental-features-webrtc-global-mute-toggles-description = Lägg till kontroller i WebRTC:s globala delningsindikator som tillåter användare att stänga av mikrofonen och kameraflödena globalt.
 # JS JIT Warp project
 experimental-features-js-warp =
