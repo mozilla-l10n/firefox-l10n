@@ -441,6 +441,12 @@ urlbar-result-action-visit = Այցելել
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = Փնտրել էջանիշերում
+urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
+urlbar-result-action-search-tabs = Փնտրել ներդիրներում
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Փնտրել { $engine }֊ով անմիջապէս հասցէգաւտուց
 
 ## Full Screen and Pointer Lock UI
 
