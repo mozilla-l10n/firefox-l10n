@@ -45,6 +45,7 @@ experimental-features-devtools-execution-context-selector =
     .label = Aisinas de desvolopaires : selector de contèxt d’execucion
 experimental-features-devtools-compatibility-panel =
     .label = Aisinas de desvolopaires : panèl de compatibilitat
+experimental-features-devtools-compatibility-panel-description = Un panèl lateral per l’inspector de pagina que mòstra informacions detalhadas de l’estat de compatibilitat entre navegadors de vòstra aplicacion. Veire lo <a data-l10n-name="bugzilla">bug 1584464</a> per mai de detalhs.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies : SameSite=Lax per defaut
@@ -69,12 +70,17 @@ experimental-features-cookie-samesite-schemeful-description = Tracta los cookies
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Aisinas de desvolopament : debuggatge del service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Activa la presa en carga experimentala dels Service workers dins lo panèl de desbugatge. Aquesta foncionalitat pòt alentar las aisinas de desvolopament e aumentar la consomacion de memòria.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafics : Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Activa la presa en carga d’un zoom fluid per pinçament suls ecran tactils e los pavats tactils de precesion.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Interruptor global del son WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Ajusta de comandas a l’indicator de partiment global WebRTC que permeton als utilizaires de desactivar lor microfòn e los flux de la camèra.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT : Warp
+experimental-features-js-warp-description = Activa Warp, un projècte per melhorar las qualitats tecnicas de JavaScript e l’utilizacion memòria.
