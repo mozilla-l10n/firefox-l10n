@@ -13,6 +13,9 @@
 
 <!ENTITY doNotEncrypt.label "Non activar a cifraxe de xeito predeterminado">
 <!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Requirir cifraxe de xeito predeterminado">
+<!ENTITY requireEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert2.message "Certificado persoal para a cifraxe:">
 <!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Borrar">
@@ -22,12 +25,28 @@
 <!ENTITY encryption.certificate_clear.button "Borrar">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Sinatura dixital">
+<!ENTITY signMessage2.label "Engadir a miña sinatura dixital de xeito predeterminado">
 <!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert2.message "Certificado persoal para a sinatura dixital:">
 
+<!ENTITY sendingDefaults.label "Configuración predeterminada para o envío de mensaxes">
 
+<!ENTITY technologyAutomatic.label "Seleccionar automaticamente en función das chaves ou certificados dispoñíbeis">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Xestionar os certificados S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Dispositivos de seguranza S/MIME">
+<!ENTITY manageDevices2.accesskey "i">
 
+<!ENTITY technologySMIME.label "Preferir S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferir OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Seleccione un certificado">
+<!ENTITY certPicker.info  "Certificado:">
+<!ENTITY certPicker.detailsLabel "Detalles do certificado seleccionado:">
 
+<!ENTITY openpgpKey.message "Chave persoal para a cifraxe e sinatura dixital:">
