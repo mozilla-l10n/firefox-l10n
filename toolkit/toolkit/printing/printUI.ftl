@@ -38,7 +38,6 @@ printui-less-settings = Kevesebb beállítás
 printui-paper-size-label = Papírméret
 # Section title (noun) for the print scaling options
 printui-scale = Méret
-printui-scale-fit-to-page = Laphoz igazítás
 printui-scale-fit-to-page-width = Oldalszélesség
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Méret
@@ -53,6 +52,11 @@ printui-margins = Margók
 printui-margins-default = Alapértelmezett
 printui-margins-min = Minimális
 printui-margins-none = Egyik sem
+printui-margins-custom = Egyéni
+printui-margins-custom-top = Felső
+printui-margins-custom-bottom = Alsó
+printui-margins-custom-left = Bal
+printui-margins-custom-right = Jobb
 printui-system-dialog-link = Nyomtatás a rendszer párbeszédablakával…
 printui-primary-button = Nyomtatás
 printui-primary-button-save = Mentés
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = A skálának 10 és 200 közötti számnak kell lennie.
+printui-error-invalid-margin = Adjon meg érvényes margót a kiválasztott papírmérethez.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = A tartománynak 1 és { $numPages } közötti számnak kell lennie.

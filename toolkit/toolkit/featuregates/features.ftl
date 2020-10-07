@@ -91,6 +91,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Enge
 experimental-features-graphics-desktop-zooming =
     .label = Grafika: sima nagyítás csípéssel
 experimental-features-graphics-desktop-zooming-description = Engedélyezi a csípéssel történő sima nagyítást az érintőkijelzőkön és precíziós érintőtáblákon.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC globális némítási kapcsolók
+experimental-features-webrtc-global-mute-toggles-description = Olyan vezérlőket ad a WebRTC globális megosztásjelzőhöz, amelyekkel a felhasználók globálisan elnémíthatják mikrofonjaikat és kameráikat.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
