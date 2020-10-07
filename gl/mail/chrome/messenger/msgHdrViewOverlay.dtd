@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "A">
+<!ENTITY toField4.label "Para">
 <!ENTITY fromField4.label "De">
 <!ENTITY senderField4.label "Remitente">
 <!ENTITY organizationField4.label "Organización">
@@ -90,6 +90,7 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "r">
 
 <!ENTITY openAttachment.tooltip "Abrir o ficheiro anexado">
+
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gardar">
