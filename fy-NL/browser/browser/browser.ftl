@@ -443,6 +443,14 @@ urlbar-result-action-visit = Besykje
 urlbar-result-action-search-bookmarks = Blêdwizers trochsykje
 urlbar-result-action-search-history = Skiednis trochsykje
 urlbar-result-action-search-tabs = Ljepblêden trochsykje
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Mei { $engine } streekrjocht fan de adresbalke út sykje
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = { $engine } streekrjocht fan de adresbalke út trochsykje
 
 ## Full Screen and Pointer Lock UI
 

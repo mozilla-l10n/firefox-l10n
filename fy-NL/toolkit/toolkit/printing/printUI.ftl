@@ -38,7 +38,6 @@ printui-less-settings = Minder ynstellingen
 printui-paper-size-label = Papierôfmjitting
 # Section title (noun) for the print scaling options
 printui-scale = Skaal
-printui-scale-fit-to-page = Ferlytsje oant papierformaat
 printui-scale-fit-to-page-width = Oan sidebreedte oanpasse
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skaal
@@ -53,6 +52,11 @@ printui-margins = Marzjes
 printui-margins-default = Standert
 printui-margins-min = Minimum
 printui-margins-none = Gjin
+printui-margins-custom = Oanpast
+printui-margins-custom-top = Boppe
+printui-margins-custom-bottom = Under
+printui-margins-custom-left = Links
+printui-margins-custom-right = Rjochts
 printui-system-dialog-link = Ofdrukke fia it systeemdialoochfienster…
 printui-primary-button = Ofdrukke
 printui-primary-button-save = Bewarje
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = De skaal moat in getal tusken 10 en 200 wêze.
+printui-error-invalid-margin = Fier in jildige marzje foar it selektearre papierformaat yn.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = It berik moat in getal tusken 1 en { $numPages } wêze.
