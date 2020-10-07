@@ -8,6 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Failed to Connect">
+<!ENTITY connectionFailure.longDesc "<p>Encara que lo site semble valid, lo navegador èra pas capable d’establir una connexion.</p><ul><li>Benlèu que lo site es pas disponible pel moment ? Tornatz ensajar mai tard.</li><li>Podètz pas tanpauc navegador sus d’autres sites ? Verificatz la connexion ret de l’ordenador</li><li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy ? De paramètres invalids pòdon menar a de problèmas de navegacion.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Pòrt restrench per de rasons de seguretat.">
 <!ENTITY deniedPortAccess.longDesc "<p>L'adreça demandada indica un pòrt (per ex.<q>mozilla.org:80</q> pel pòrt 80 sus mozilla.org) qu'es normalament utilizat per d'<em>autres</em> usatges que la navegacion sul Web. Lo navegador a anullat la requèsta per vòstra proteccion e vòstra seguretat.</p>">
