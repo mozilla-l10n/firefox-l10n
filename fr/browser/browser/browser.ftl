@@ -443,6 +443,14 @@ urlbar-result-action-visit = Consulter
 urlbar-result-action-search-bookmarks = Rechercher dans les marque-pages
 urlbar-result-action-search-history = Rechercher dans l’historique
 urlbar-result-action-search-tabs = Rechercher dans les onglets
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Rechercher avec { $engine } directement depuis la barre d’adresse
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Recherche { $engine } directement depuis la barre d’adresse
 
 ## Full Screen and Pointer Lock UI
 
