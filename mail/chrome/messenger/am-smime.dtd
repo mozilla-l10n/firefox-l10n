@@ -50,3 +50,5 @@
 <!ENTITY certPicker.detailsLabel "Detalles do certificado seleccionado:">
 
 <!ENTITY openpgpKey.message "Chave persoal para a cifraxe e sinatura dixital:">
+<!ENTITY openpgpKey.button "Definir a chave persoal…">
+<!ENTITY openpgpKey.accesskey "o">
