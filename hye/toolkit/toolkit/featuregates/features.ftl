@@ -94,3 +94,8 @@ experimental-features-graphics-desktop-zooming-description = Միացնել հպ
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Ընդհանուր լռեցումը փոխարկում է WebRTC -ն
+experimental-features-webrtc-global-mute-toggles-description = Աւելացնել կառավարներ WebRTC համաւգտագործման նշիչին, որը թոյլ է տալիս աւգտուողներին լռեցնել իրենց խաւսափողի եւ տեսախցիկի սնումը:
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Միացնել Warp-ը JavaScript-ի գործադրութեան եւ յիշողութեան բարելաւման համար:
