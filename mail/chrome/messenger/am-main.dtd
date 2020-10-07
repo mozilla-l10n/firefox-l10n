@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Configuración da conta">
@@ -15,6 +13,8 @@
 <!ENTITY name.accesskey "u">
 <!ENTITY email.label "Enderezo de correo:">
 <!ENTITY email.accesskey "z">
+<!ENTITY catchAll.label "Responder con esta identidade cando coincidan os encabezados de entrega:">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Enderezo de resposta:">
 <!ENTITY replyTo.accesskey "r">
 <!ENTITY replyTo.placeholder "Os destinatarios responderán a estoutro enderezo">
@@ -43,3 +43,5 @@
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Utilizar o servidor predefinido">
 
+<!ENTITY smtpServerEdit.label "Modificar o servidor SMTP…">
+<!ENTITY smtpServerEdit.accesskey "P">

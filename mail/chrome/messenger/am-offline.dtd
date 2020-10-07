@@ -5,6 +5,9 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para aforrar espazo no disco, non descargar:">
 <!ENTITY doNotDownloadNntp.label "Para aforrar espazo en disco, non descargar para uso sen conexión:">
 <!ENTITY doNotDownloadImap.label "Para aforrar espazo en disco, pode restrinxir, por antigüidade ou tamaño, a descarga de mensaxes do servidor e o gardado de copias locais para o uso sen conexión.">
+<!ENTITY allFoldersOffline2.label "Manter as mensaxes en todos os cartafoles desta conta neste computador">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Nota: cambiar isto afectará a todos os cartafoles desta conta. Para definir cartafoles individuais, use o botón Avanzado…">
 <!ENTITY offlineNotDownload.label "As mensaxes de máis de">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Non descargar as mensaxes de máis de">

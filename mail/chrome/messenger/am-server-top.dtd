@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Almacenamento de mensaxes">
 <!ENTITY securitySettings.label "Configuración de seguranza">
 <!ENTITY serverSettings.label "Configuración do servidor">
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Preguntar antes de descargar máis de ">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -68,12 +66,15 @@
 <!ENTITY maxMessagesEnd.label "mensaxes">
 <!ENTITY alwaysAuthenticate.label "Solicitar sempre autenticación ao conectar con este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "S">
+<!ENTITY newsrcFilePath1.label "Ficheiro News.rc:">
+<!ENTITY newsrcPicker1.label "Seleccione o ficheiro News.rc">
 <!ENTITY abbreviate.label "Amosar os nomes dos grupos de novas no cartafol de correo como:">
 <!ENTITY abbreviateOn.label "Nomes completos (por exemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
+<!ENTITY localPath1.label "Diretorio local:">
 <!ENTITY localFolderPicker.label "Seleccione un cartafol local">
 <!ENTITY browseFolder.label "Examinar…">
 <!ENTITY browseFolder.accesskey "x">
