@@ -91,6 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Acti
 experimental-features-graphics-desktop-zooming =
     .label = Affichage : zoom fluide par pincement
 experimental-features-graphics-desktop-zooming-description = Active la prise en charge d’un zoom fluide par pincement sur les écrans tactiles et les pavés tactiles de précision.
+experimental-features-webrtc-global-mute-toggles-description = Ajoute des commandes à l’indicateur de partage global WebRTC qui permettent aux utilisateurs de désactiver globalement leur microphone et leurs flux de caméra.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT : Warp
