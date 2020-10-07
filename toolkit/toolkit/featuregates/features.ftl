@@ -91,6 +91,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Scha
 experimental-features-graphics-desktop-zooming =
     .label = Grafisch: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = Schakel ondersteuning in voor soepel zoomen door knijpen op aanraakschermen en precisie-touchpads.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC Global Mute-schakelaars
+experimental-features-webrtc-global-mute-toggles-description = Voegt bedieningen toe aan de algemene deelindicator van WebRTC, waarmee gebruikers hun microfoon- en camerafeeds algemeen kunnen dempen.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

@@ -445,6 +445,14 @@ urlbar-result-action-visit = Bezoeken
 urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
 urlbar-result-action-search-history = Geschiedenis doorzoeken
 urlbar-result-action-search-tabs = Tabbladen doorzoeken
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Met { $engine } rechtstreeks vanuit de adresbalk zoeken
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = { $engine } rechtstreeks vanuit de adresbalk doorzoeken
 
 ## Full Screen and Pointer Lock UI
 
