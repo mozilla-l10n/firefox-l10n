@@ -91,3 +91,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Acti
 experimental-features-graphics-desktop-zooming =
     .label = Affichage : zoom fluide par pincement
 experimental-features-graphics-desktop-zooming-description = Active la prise en charge d’un zoom fluide par pincement sur les écrans tactiles et les pavés tactiles de précision.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT : Warp
+experimental-features-js-warp-description = Active Warp, un projet pour améliorer les performances JavaScript et l’utilisation mémoire.
