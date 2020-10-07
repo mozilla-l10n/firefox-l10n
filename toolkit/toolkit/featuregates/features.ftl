@@ -91,6 +91,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Skea
 experimental-features-graphics-desktop-zooming =
     .label = Grafysk: Smooth Pinch Zoom
 experimental-features-graphics-desktop-zooming-description = Skeakel stipe yn foar soepel zoome troch knipe op oanraakskermen en presysy-touchpads.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC Global Mute-skeakelers
+experimental-features-webrtc-global-mute-toggles-description = Foeget betsjinningen ta oan de algemiene dielyndikator fan WebRTC, wêrmei brûkers harren mikrofoan- en kamerafeeds algemien dôvje kinne.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
