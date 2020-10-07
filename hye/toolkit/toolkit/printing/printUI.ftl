@@ -52,6 +52,11 @@ printui-margins = Լուսանցքներ
 printui-margins-default = Սկզբնադիր
 printui-margins-min = Նուազագոյնը
 printui-margins-none = Չկայ
+printui-margins-custom = Յարմարեցուած
+printui-margins-custom-top = Գագաթ
+printui-margins-custom-bottom = Ներքեւ
+printui-margins-custom-left = Ձախ
+printui-margins-custom-right = Աջ
 printui-system-dialog-link = Տպել աւգտագոծելով ծրագրի երկխաւսութիւնը…
 printui-primary-button = Տպել
 printui-primary-button-save = Պահպանել
@@ -81,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Սանդղակում թիւը պէտք է լինի 10-ից 200֊ի միջակայքում:
+printui-error-invalid-margin = Խնդրում ենք մուտքագրել վաւեր լուսանցքը նշուած թղթի չափսի համար:
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Ընդգրկուած թիւը պէտք է լինի 1-ից { $numPages } ֊ի միջակայքում:
