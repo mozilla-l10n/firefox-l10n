@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Kamera bekapcsolása
 webrtc-minimize =
     .title = A jelző minimalizálása
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Megosztja a kameráját. Kattintson a megosztási beállításokhoz.
+webrtc-microphone-system-menu =
+    .label = Megosztja a mikrofonját. Kattintson a megosztási beállításokhoz.
+webrtc-screen-system-menu =
+    .label = Megosztja a képernyőjét vagy egy ablakot. Kattintson a megosztási beállításokhoz.

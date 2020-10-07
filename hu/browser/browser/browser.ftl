@@ -443,6 +443,14 @@ urlbar-result-action-visit = Keresse fel:
 urlbar-result-action-search-bookmarks = Könyvjelzők keresése
 urlbar-result-action-search-history = Előzmények keresése
 urlbar-result-action-search-tabs = Lapok keresése
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Keresés a(z) { $engine } segítségével közvetlenül a címsorból
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Keresés a(z) { $engine } webhelyen közvetlenül a címsorból
 
 ## Full Screen and Pointer Lock UI
 
