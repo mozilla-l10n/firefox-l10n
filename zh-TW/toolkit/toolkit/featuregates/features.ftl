@@ -101,4 +101,4 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = 開啟改善 JavaScript 效能與記憶體使用量的專案計畫: Warp。
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
-    .label = Fission（隔離網站）
+    .label = Fission（網站隔離）
