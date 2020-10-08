@@ -245,6 +245,14 @@ cfr-doorhanger-doh-primary-button = 好，知道了
 cfr-doorhanger-doh-secondary-button = 停用
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = 隔離網站
+cfr-doorhanger-fission-primary-button = 好，知道了
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = 了解更多
+    .accesskey = L
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = 自動保護，不受隱蔽的手法追蹤
