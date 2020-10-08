@@ -245,6 +245,14 @@ cfr-doorhanger-doh-primary-button = 확인
 cfr-doorhanger-doh-secondary-button = 사용 안 함
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = 사이트 격리
+cfr-doorhanger-fission-primary-button = 확인
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = 더 알아보기
+    .accesskey = L
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = 교활한 추적 전술로부터 자동 보호
