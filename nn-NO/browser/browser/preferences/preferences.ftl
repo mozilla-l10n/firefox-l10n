@@ -489,6 +489,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Mest besøkte
 home-prefs-topsites-description = Sidene du besøkjer mest
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsa toppsider
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
