@@ -5,66 +5,53 @@
 permissions-window =
     .title = Eccezioni
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Indirizzo del sito web
     .accesskey = n
-
 permissions-block =
     .label = Blocca
     .accesskey = B
-
 permissions-session =
     .label = Consenti per la sessione
     .accesskey = e
-
 permissions-allow =
     .label = Consenti
     .accesskey = C
-
 permissions-site-name =
     .label = Sito web
-
 permissions-status =
     .label = Stato
-
 permissions-remove =
     .label = Rimuovi sito web
     .accesskey = R
-
 permissions-remove-all =
     .label = Rimuovi tutti i siti web
     .accesskey = t
-
 permissions-button-cancel =
     .label = Annulla
     .accesskey = A
-
 permissions-button-ok =
     .label = Salva modifiche
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Salva modifiche
+    .buttonaccesskeyaccept = S
 permissions-autoplay-menu = Impostazione predefinita per tutti i siti web:
-
 permissions-searchbox =
     .placeholder = Cerca sito web
-
 permissions-capabilities-autoplay-allow =
     .label = Consenti audio e video
 permissions-capabilities-autoplay-block =
     .label = Blocca audio
 permissions-capabilities-autoplay-blockall =
     .label = Blocca audio e video
-
 permissions-capabilities-allow =
     .label = Consenti
 permissions-capabilities-block =
     .label = Blocca
 permissions-capabilities-prompt =
     .label = Chiedi sempre
-
 permissions-capabilities-listitem-allow =
     .value = Consenti
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Siti web con permesso - Installazione componenti
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = È possibile specificare quali siti web avranno il permesso di installare componenti aggiuntivi. Inserire l’indirizzo esatto del sito web a cui dare il permesso e fare clic su Consenti.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
