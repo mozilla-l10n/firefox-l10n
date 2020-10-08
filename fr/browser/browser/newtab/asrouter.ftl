@@ -248,6 +248,9 @@ cfr-doorhanger-doh-primary-button = D’accord, j’ai compris.
 cfr-doorhanger-doh-secondary-button = Désactiver
     .accesskey = D
 
+## Fission Experiment Message
+
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Protection automatique contre les techniques de pistage discrètes
