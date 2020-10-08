@@ -33,6 +33,9 @@ search-input-box =
 
 managed-notice = Il browser è gestito dalla propria azienda.
 
+category-list =
+    .aria-label = Categorie
+
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
