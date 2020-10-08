@@ -102,3 +102,4 @@ experimental-features-js-warp-description = 開啟改善 JavaScript 效能與記
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission（網站隔離）
+experimental-features-fission-description = Fission（網站隔離）是 { -brand-short-name } 的一個實驗性功能，針對網站的安全性問題提供另一道保護。Fission 透過將各個網站隔離在不同的處理程序中，讓惡意網站更難取得您造訪的其他頁面當中的資訊。這是 { -brand-short-name } 的一組重大架構變更，若您能協助測試並回報遇到的任何問題，我們會非常感激。若需更多資訊，請參考 <a data-l10n-name="wiki">wiki</a> 內容。
