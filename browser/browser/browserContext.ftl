@@ -358,6 +358,10 @@ main-context-menu-frame-view-info =
     .label = Visualizza informazioni riquadro
     .accesskey = n
 
+main-context-menu-print-selection =
+    .label = Stampa selezione
+    .accesskey = m
+
 main-context-menu-view-selection-source =
     .label = Visualizza sorgente selezione
     .accesskey = u
