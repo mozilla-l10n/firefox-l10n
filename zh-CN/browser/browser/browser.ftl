@@ -285,6 +285,7 @@ identity-https-only-dropdown-off =
     .label = 关闭
 identity-https-only-dropdown-off-temporarily =
     .label = 暂时关闭
+identity-https-only-info-turn-on = 若想要 { -brand-short-name } 尽可能升级为安全连接，请开启此选项。
 identity-permissions =
     .value = 权限
 identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
