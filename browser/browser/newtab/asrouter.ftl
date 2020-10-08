@@ -247,7 +247,7 @@ cfr-doorhanger-doh-secondary-button = 禁用
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name } 已为您启用 Fission（网站隔离）实验特性。通过将每个网站隔离到单独的进程中，为您和您访问的网站提供了额外的保护。
+cfr-doorhanger-fission-body = { -brand-short-name } 已为您启用 Fission（网站隔离）实验特性。通过将每个网站隔离到单独的进程中，为您和您访问的网站提供额外的保护。
 cfr-doorhanger-fission-header = 网站隔离
 cfr-doorhanger-fission-primary-button = 好，知道了
     .accesskey = O
