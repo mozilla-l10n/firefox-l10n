@@ -293,6 +293,7 @@ identity-https-only-dropdown-off =
     .label = Av
 identity-https-only-dropdown-off-temporarily =
     .label = Mellombels av
+identity-https-only-info-no-upgrade = Klarte ikkje å oppgradere kopling frå HTTP.
 identity-permissions =
     .value = Løyve
 identity-permissions-reload-hint = Du må kanskje laste sida på nytt for at endringane skal gjelde.
