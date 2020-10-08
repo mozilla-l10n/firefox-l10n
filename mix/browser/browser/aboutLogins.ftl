@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Kitsa tsi cha sivu
@@ -16,12 +12,9 @@ login-app-promo-android =
     .alt = Ndanii nu Google Play
 login-app-promo-apple =
     .alt = Snuu nu App Store
-
 login-filter =
     .placeholder = Nduku nixi kitsana
-
 create-login-button = Saa nixi kitsau
-
 fxaccounts-sign-in-text = Nduku contraseñaku takua kuachu'un inka dispositivo
 fxaccounts-sign-in-button = Kitsa nu { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -83,11 +76,14 @@ login-item-time-used = Ntsuana sa ntii: { DATETIME($timeUsed, day: "numeric", mo
 
 ## OS Authentication dialog
 
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+
 ## Master Password notification
+
 
 ## Primary Password notification
 
@@ -110,19 +106,25 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = Kunchatu
 confirmation-dialog-dismiss-button =
     .title = Kunchatu
-
 confirm-delete-dialog-message = Ma kuu sau chu'un yo
-
+about-logins-confirm-remove-dialog-confirm-button = Xitaá
+about-logins-confirm-export-dialog-confirm-button = Stucha…
 confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Kua'an { $hostname }
+
 ## Vulnerable Password notification
+
 
 ## Error Messages
 
 
 ## Login Export Dialog
+
 
 ## Login Import Dialog
 

@@ -5,11 +5,11 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ni´inu iin tutu ntu íyo vaa.
-
 cert-error-details-cert-chain-label = Tu'un certificado
 
 ## Messages used for certificate error titles
 
+deniedPortAccess-title = Ma kùu kivu nu dirección yòo
 generic-title = Oops.
 captivePortal-title = Kitsa nu red
 # "Hmm" is a sound made when considering or puzzling over something.
