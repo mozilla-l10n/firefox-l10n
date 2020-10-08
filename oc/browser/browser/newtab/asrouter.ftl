@@ -258,6 +258,7 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Isolacion de site
 cfr-doorhanger-fission-primary-button = Òc, plan comprés
     .accesskey = p
 cfr-doorhanger-fission-secondary-button = Ne saber mai
