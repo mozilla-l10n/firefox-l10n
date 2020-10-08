@@ -259,6 +259,9 @@ cfr-doorhanger-doh-secondary-button = Inaktivera
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-body = { -brand-short-name } har aktiverat en experimentell funktion Fission (webbplatsisolering) åt dig. Genom att isolera varje webbplats i en separat process ger Fission ytterligare ett säkerhetsskikt för dig och de webbplatser du besöker.
+cfr-doorhanger-fission-header = Webbplatsisolering
+cfr-doorhanger-fission-primary-button = Ok, jag förstår
+    .accesskey = O
 cfr-doorhanger-fission-secondary-button = Läs mer
     .accesskey = L
 
