@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Nagkaroon ng problema habang kumokonekta sa { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Error code: { $error }
-
 psmerr-ssl-disabled = Can’t connect securely because the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Can’t connect securely because the site uses an older, insecure version of the SSL protocol.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
-
 ssl-error-export-only-server = Hindi makapag-communicate nang ligtas. Hindi suportado ng peer ang high-grade encryption.
 ssl-error-us-only-server = Hindi makapag-communicate nang ligtas. Nangangailangan ang peer ng high-grade encryption, na hindi suportado ngayon.
 ssl-error-no-cypher-overlap = Cannot communicate securely with peer: no common encryption algorithm(s).
@@ -207,7 +204,7 @@ sec-error-old-crl = Ang bagong CRL ay hindi mas bago kaysa sa kasalukuyang CRL.
 sec-error-no-email-cert = Hindi nakakripta o napirma: wala pa kayo ang sertipikong pang-email.
 sec-error-no-recipient-certs-query = Hindi nakakripta: wala kayo ang mga sertipiko para sa bawat isang tatanggap.
 sec-error-not-a-recipient = Hindi makapag-decrypt: hindi ka recipient, o walang mahanap na nagtutugmang certificate at private key.
-sec-error-pkcs7-keyalg-mismatch = Hindi mabuksan ang pagkokodigo: hindi tugma ang algoritmong pagsasakripta ng susi sa sertipiko ninyo.
+sec-error-pkcs7-keyalg-mismatch = Hindi kayang ma-decrypt: hindi tugma ang key encryption algorithm sa iyong sertipiko.
 sec-error-pkcs7-bad-signature = Bigo ang signature verification: walang natagpuang signer, masyadong maraming signer, o di-wasto o sirang data.
 sec-error-unsupported-keyalg = Di-suportado o di-kilalang key algorithm.
 sec-error-decryption-disallowed = Hindi maaaring i-decrypt: naka-encrypt gamit ang isang ipinagbabawal na algorithm o key size.
