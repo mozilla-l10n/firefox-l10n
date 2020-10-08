@@ -95,3 +95,6 @@ experimental-features-graphics-desktop-zooming-description = Podpěru za łahodn
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Zmóžńće Warp, projekt za polěpšenje wukona a wužiwanja składa JavaScript,
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (sydłowa izolacija)
