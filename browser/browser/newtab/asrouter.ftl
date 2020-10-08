@@ -255,6 +255,11 @@ cfr-doorhanger-doh-primary-button = OK, jeg skjønner
 cfr-doorhanger-doh-secondary-button = Slå av
     .accesskey = S
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-secondary-button = Les mer
+    .accesskey = L
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatisk beskyttelse mot lure sporingsmetoder
