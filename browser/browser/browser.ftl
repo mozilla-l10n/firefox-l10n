@@ -446,7 +446,7 @@ urlbar-result-action-search-tabs = Etsi välilehdistä
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Hae hakukoneella { $engine } suoraan osoiteriviltä
+urlbar-result-action-tabtosearch-web = Hae hakukoneella { $engine } suoraan osoitepalkista
 
 ## Full Screen and Pointer Lock UI
 
