@@ -257,6 +257,14 @@ cfr-doorhanger-doh-primary-button = OK, понятно
 cfr-doorhanger-doh-secondary-button = Отключить
     .accesskey = ю
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = Изоляция сайтов
+cfr-doorhanger-fission-primary-button = OK, понятно
+    .accesskey = я
+cfr-doorhanger-fission-secondary-button = Подробнее
+    .accesskey = н
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Автоматическая защита от различных трекеров.
