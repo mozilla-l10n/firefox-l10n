@@ -99,3 +99,7 @@ experimental-features-webrtc-global-mute-toggles-description = 添加控件到 W
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = 启用 Warp，此项目旨在改善 JavaScript 性能和内存使用。
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission（网站隔离）
+experimental-features-fission-description = Fission（网站隔离）是 { -brand-short-name } 中的实验特性，可针对安全漏洞提供额外的保护。通过将每个网站隔离到单独的进程中，Fission 能够有效防止恶意网站从您正在访问的其他页面获取信息。这是 { -brand-short-name } 的一项重大架构变更，我们非常欢迎您可以测试并报告任何可能遇到的问题。欲详细了解，请参阅 <a data-l10n-name="wiki">Wiki</a>。
