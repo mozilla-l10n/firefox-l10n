@@ -477,6 +477,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = 熱門網站
 home-prefs-topsites-description = 最常造訪的網站
+home-prefs-topsites-by-option-sponsored =
+    .label = 贊助的熱門網站
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
