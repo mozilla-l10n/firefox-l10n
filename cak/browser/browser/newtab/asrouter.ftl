@@ -256,6 +256,13 @@ cfr-doorhanger-doh-primary-button = ÜTZ, Wetaman chik
 cfr-doorhanger-doh-secondary-button = Tichup
     .accesskey = h
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = ÜTZ, Wetaman chik
+    .accesskey = Ü
+cfr-doorhanger-fission-secondary-button = Tetamäx ch'aqa' chik
+    .accesskey = e
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Yonil taq chajinïk chuwäch q'olonel rub'eyal richin ojqanem
