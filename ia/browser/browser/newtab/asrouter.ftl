@@ -249,6 +249,13 @@ cfr-doorhanger-doh-primary-button = De accordo
 cfr-doorhanger-doh-secondary-button = Disactivar
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = De accordo
+    .accesskey = a
+cfr-doorhanger-fission-secondary-button = Saper plus
+    .accesskey = S
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Protection automatic contra tacticas de traciamento perfide
