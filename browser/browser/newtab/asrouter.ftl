@@ -229,6 +229,7 @@ cfr-doorhanger-doh-secondary-button = השבתה
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body = ‏{ -brand-short-name } הפעיל עבורך תכונה ניסיונית בשם Fission (בידוד אתרים). על־ידי בידוד כל אתר לתהליך נפרד, Fission מספקת שכבת אבטחה נוספת בשבילך ובשביל אתרי האינטרנט שמבקרים בהם.
 cfr-doorhanger-fission-header = בידוד אתרים
 cfr-doorhanger-fission-primary-button = בסדר, הבנתי
     .accesskey = ב
