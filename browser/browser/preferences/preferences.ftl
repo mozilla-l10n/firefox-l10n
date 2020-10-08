@@ -489,6 +489,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Topwebsites
 home-prefs-topsites-description = De troch jo meast besochte websites
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsore topwebsites
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
