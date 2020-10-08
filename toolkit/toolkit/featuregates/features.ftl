@@ -99,3 +99,7 @@ experimental-features-webrtc-global-mute-toggles-description = WebRTC 전역 공
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = JavaScript 성능 및 메모리 사용량을 향상시키는 프로젝트인 Warp를 활성화합니다.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (사이트 격리)
+experimental-features-fission-description = Fission (사이트 격리)은 { -brand-short-name }의 실험적 기능으로 보안 버그에 대한 추가적인 방어 계층을 제공합니다. 각 사이트를 별도의 프로세스로 분리함으로써 Fission은 악성 웹 사이트가 방문 중인 다른 페이지의 정보에 액세스하는 것을 더 어렵게 합니다. 이는 { -brand-short-name }의 주요 아키텍처 변경 사항이며 발생할 수 있는 문제를 테스트하고 보고해 주셔서 감사합니다. 자세한 내용은 <a data-l10n-name="wiki">위키</a>를 참조하세요.
