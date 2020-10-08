@@ -247,6 +247,7 @@ cfr-doorhanger-doh-secondary-button = 사용 안 함
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body = { -brand-short-name }가 실험 기능인 Fission (사이트 격리)을 사용하도록 설정했습니다. 각 사이트를 별도의 프로세스로 격리함으로써 Fission은 사용자와 사용자가 방문하는 웹 사이트에 추가적인 보안 계층을 제공합니다.
 cfr-doorhanger-fission-header = 사이트 격리
 cfr-doorhanger-fission-primary-button = 확인
     .accesskey = O
