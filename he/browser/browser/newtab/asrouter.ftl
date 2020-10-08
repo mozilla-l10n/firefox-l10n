@@ -216,6 +216,7 @@ cfr-whatsnew-protections-icon-alt = סמל מגן
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = חוויית PDF טובה יותר
+cfr-whatsnew-better-pdf-body = מסמכי PDF נפתחים כעת ישירות ב־{ -brand-short-name }, תוך שמירה על זרימת העבודה.
 
 ## DOH Message
 
