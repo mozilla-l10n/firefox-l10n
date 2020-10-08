@@ -477,6 +477,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = 상위 사이트
 home-prefs-topsites-description = 가장 많이 방문한 사이트
+home-prefs-topsites-by-option-sponsored =
+    .label = 스폰서 상위 사이트
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -489,7 +491,7 @@ home-prefs-recommended-by-description-update = { $provider }에 의해 큐레이
 
 home-prefs-recommended-by-learn-more = 사용 방법
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = 후원된 스토리
+    .label = 스폰서 소식
 home-prefs-highlights-header =
     .label = 하이라이트
 home-prefs-highlights-description = 저장하거나 방문한 사이트 모음
