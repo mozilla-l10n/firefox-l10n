@@ -54,6 +54,8 @@ import-source-page-title = 설정과 데이터 가져오기
 import-items-page-title = 가져올 항목
 import-items-description = 가져올 항목을 선택하세요:
 import-permissions-page-title = { -brand-short-name } 권한을 부여하세요.
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS에서는 { -brand-short-name }가 Safari의 북마크에 액세스하도록 명시적으로 허용해야합니다. “계속”을 클릭하고 나타나는 파일 열기 패널에서 “Bookmarks.plist” 파일을 선택하세요.
 import-migrating-page-title = 가져오는 중…
 import-migrating-description = 다음 항목들을 가져오고 있습니다…
 import-select-profile-page-title = 프로필 선택
