@@ -256,6 +256,13 @@ cfr-doorhanger-doh-primary-button = Òc, plan comprés
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = Òc, plan comprés
+    .accesskey = p
+cfr-doorhanger-fission-secondary-button = Ne saber mai
+    .accesskey = N
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Proteccion automatica contra las tacticas de seguiment enganairas
