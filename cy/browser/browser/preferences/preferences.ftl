@@ -501,6 +501,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Hoff Wefannau
 home-prefs-topsites-description = Y gwefannau rydych yn ymweld â nhw amlaf
+home-prefs-topsites-by-option-sponsored =
+    .label = Hoff Wefannau Wedi eu Noddi
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

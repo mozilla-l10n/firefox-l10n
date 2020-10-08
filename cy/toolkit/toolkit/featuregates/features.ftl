@@ -99,3 +99,7 @@ experimental-features-webrtc-global-mute-toggles-description = Ychwanegwch ffyrd
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Galluogi Warp, project i wella perfformiad JavaScript a defnydd o'r cof.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Ynysu Gwefan)
+experimental-features-fission-description = Mae Fission (ynysu gwefan) yn nodwedd arbrofol yn { -brand-short-name } er mwyn darparu haen ychwanegol o ddiogelwch yn erbyn bygiau diogelwch. Trwy ynysu pob gwefan i broses ar wahân, mae Fission yn ei gwneud hi'n anoddach i wefannau maleisus gael mynediad at wybodaeth o dudalennau eraill rydych chi'n ymweld â nhw. Mae hwn yn newid pensaernïol mawr yn { -brand-short-name } ac rydym yn gwerthfawrogi eich bod yn profi ac yn adrodd am unrhyw faterion y gallech ddod ar eu traws. Am fwy o fanylion, darllenwch <a data-l10n-name="wiki">y wiki</a>.

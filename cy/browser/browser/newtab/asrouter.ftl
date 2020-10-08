@@ -276,6 +276,15 @@ cfr-doorhanger-doh-primary-button = Iawn, Wedi deall!
 cfr-doorhanger-doh-secondary-button = Analluogi
     .accesskey = A
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body = Mae { -brand-short-name } wedi galluogi nodwedd arbrofol Fission (ynysu safle) ar eich cyfer. Trwy ynysu pob gwefan i broses ar wahân, mae Fission yn darparu haen ychwanegol o ddiogelwch i chi a'r gwefannau rydych yn ymweld â nhw.
+cfr-doorhanger-fission-header = Ynysu Gwefan
+cfr-doorhanger-fission-primary-button = Iawn, Wedi deall!
+    .accesskey = I
+cfr-doorhanger-fission-secondary-button = Dysgu rhagor
+    .accesskey = D
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Diogelwch awtomatig rhag tactegau tracio slei
