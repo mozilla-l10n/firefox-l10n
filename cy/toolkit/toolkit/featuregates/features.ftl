@@ -41,7 +41,7 @@ experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
 # The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
 # and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Mae'r digwyddiad byd-eang <a data-l10n-name="mdn-beforeinput">beforeinput</a> yn cael ei danio ar ddigwyddiad <a data-l10n-name="mdn-input">&lt;input&gt;</a> a < a data-l10n-name = "mdn-textarea">&lt;textarea&gt;</a> elfennau, neu unrhyw elfen y mae ei briodoledd <a data-l10n-name="mdn-contenteditable">cynnwys adolygadwy</a> wedi'i alluogi, yn union cyn i werth yr elfen newid. Mae'r digwyddiad yn caniatáu i apiau gwe ddiystyru ymddygiad rhagosodedig y porwr ar gyfer rhyngweithio â defnyddwyr, e.e., gall apiau gwe ddiddymu mewnbwn defnyddiwr yn unig ar gyfer nodau penodol neu gallan nhw addasu gludo testun â steil yn unig gydag arddulliau cymeradwy.
+experimental-features-web-api-beforeinput-description = Mae'r digwyddiad cyffredinol <a data-l10n-name="mdn-beforeinput">beforeinput</a> yn cael ei danio ar ddigwyddiad <a data-l10n-name="mdn-input">&lt;input&gt;</a> a < a data-l10n-name = "mdn-textarea">&lt;textarea&gt;</a> elfennau, neu unrhyw elfen y mae ei briodoledd <a data-l10n-name="mdn-contenteditable">cynnwys adolygadwy</a> wedi'i alluogi, yn union cyn i werth yr elfen newid. Mae'r digwyddiad yn caniatáu i apiau gwe ddiystyru ymddygiad rhagosodedig y porwr ar gyfer rhyngweithio â defnyddwyr, e.e., gall apiau gwe ddiddymu mewnbwn defnyddiwr yn unig ar gyfer nodau penodol neu gallan nhw addasu gludo testun â steil yn unig gydag arddulliau cymeradwy.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -93,7 +93,7 @@ experimental-features-graphics-desktop-zooming =
 experimental-features-graphics-desktop-zooming-description = Galluogi cefnogaeth i binsio llyfn chwyddo ar sgriniau cyffwrdd a phadiau cyffwrdd manwl gywir.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
-    .label = Toglau Tewi Eang WebRTC
+    .label = Toglau Tewi WebRTC Cyffredinol
 experimental-features-webrtc-global-mute-toggles-description = Ychwanegwch ffyrdd o reoli dangosydd rhannu WebRTC i gyd sy'n caniatáu i ddefnyddwyr dewi eu llif meicroffon a chamera.
 # JS JIT Warp project
 experimental-features-js-warp =
