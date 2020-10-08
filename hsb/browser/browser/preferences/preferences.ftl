@@ -495,6 +495,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Najhusćišo wopytane sydła
 home-prefs-topsites-description = Sydła, kotrež najhusćišo wopytujeće
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsorowane najlubše sydła
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
