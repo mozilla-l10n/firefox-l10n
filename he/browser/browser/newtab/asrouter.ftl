@@ -226,6 +226,14 @@ cfr-doorhanger-doh-primary-button = בסדר, הבנתי
 cfr-doorhanger-doh-secondary-button = השבתה
     .accesskey = ה
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = בידוד אתרים
+cfr-doorhanger-fission-primary-button = בסדר, הבנתי
+    .accesskey = ב
+cfr-doorhanger-fission-secondary-button = מידע נוסף
+    .accesskey = מ
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = הגנה אוטומטית מפני תכסיסי מעקב
@@ -233,4 +241,6 @@ cfr-whatsnew-clear-cookies-body = ישנם רכיבי מעקב המפנים או
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = יותר פקדי מדיה
+cfr-whatsnew-media-keys-body = ניתן להפעיל ולהשהות שמע או וידאו ישירות מהמקלדת או מהאוזניות שלך, מה שמקל על השליטה במדיה מלשונית או תוכנית אחרת, או אפילו כשהמחשב שלך נעול. אפשר גם לעבור בין רצועות שמע באמצעות המקשים קדימה ואחורה.
 cfr-whatsnew-media-keys-button = מידע נוסף

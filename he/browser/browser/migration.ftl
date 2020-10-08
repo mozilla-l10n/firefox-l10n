@@ -54,6 +54,8 @@ import-source-page-title = ייבוא הגדרות ונתונים
 import-items-page-title = פריטים לייבוא
 import-items-description = נא לבחור אילו פריטים לייבא:
 import-permissions-page-title = נא להעניק הרשאות ל־{ -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = ‏macOS מחייב אותך לאפשר במפורש ל־{ -brand-short-name } גישה לסימניות של Safari. יש ללחוץ ״המשך״ ולבחור בקובץ ״Bookmarks.plist” שבחלונית שתופיע.
 import-migrating-page-title = מתבצע ייבוא…
 import-migrating-description = הפריטים הבאים מיובאים כעת...
 import-select-profile-page-title = בחירת פרופיל
