@@ -492,6 +492,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Популярні сайти
 home-prefs-topsites-description = Сайти, які ви відвідуєте найчастіше
+home-prefs-topsites-by-option-sponsored =
+    .label = Найкращі рекламовані сайти
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
