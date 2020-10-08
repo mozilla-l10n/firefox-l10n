@@ -489,6 +489,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Tenda Ojeikevéva
 home-prefs-topsites-description = Umi tenda ojeikeveha
+home-prefs-topsites-by-option-sponsored =
+    .label = Tenda tuicha ojehepyme’ẽva
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

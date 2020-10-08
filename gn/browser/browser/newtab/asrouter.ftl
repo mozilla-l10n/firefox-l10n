@@ -251,6 +251,13 @@ cfr-doorhanger-doh-primary-button = OK, Aikumbýma
 cfr-doorhanger-doh-secondary-button = Pe’a
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = OK, arekóma
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Kuaave
+    .accesskey = L
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Ñemo’ã ijeheguíva tapykuehoha kañyguáva rovake
