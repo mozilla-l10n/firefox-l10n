@@ -291,6 +291,7 @@ identity-https-only-dropdown-on =
     .label = Yermed
 identity-https-only-dropdown-off =
     .label = Yensa
+identity-https-only-info-turn-on = Rmed ma yella tebɣiḍ { -brand-short-name } i uleqqem ɣer tuqqna taɣellsant ma yili tella.
 identity-permissions =
     .value = Tisirag
 identity-permissions-reload-hint = Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.
