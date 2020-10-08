@@ -489,6 +489,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Ismal ifazen
 home-prefs-topsites-description = Ismal i tettwaliḍ aṭas
+home-prefs-topsites-by-option-sponsored =
+    .label = Ismal ifellay yettwarefden
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

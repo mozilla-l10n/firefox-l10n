@@ -250,6 +250,13 @@ cfr-doorhanger-doh-primary-button = IH awi-t-id
 cfr-doorhanger-doh-secondary-button = Sens
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = IH, awi-t
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Issin ugar
+    .accesskey = L
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Ammesten awurman mgal tiḥila n uḍfar yettkellixen
