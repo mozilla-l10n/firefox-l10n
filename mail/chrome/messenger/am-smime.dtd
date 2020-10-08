@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY e2eTitle.label "Šifriranje od konca do konca">
 <!ENTITY e2eLearnMore.label "Več o tem">
 
+<!ENTITY e2eEnc.description "Brez šifriranja od konca do konca je vsebina sporočil zlahka izpostavljena vašemu ponudniku e-pošte in množičnemu nadzoru.">
+<!ENTITY e2eeReqWarning.description "Če potrebujete šifriranje, morate za pošiljanje sporočila imeti javni ključ ali potrdilo vsakega prejemnika.">
 
 <!ENTITY e2eSigning.description "Digitalni podpis se omogoča prejemnikom prepričati, da ste sporočilo poslali vi in da vsebina ni bila spremenjena.">
 <!ENTITY e2eTechPref.description "Prednostna tehnologija šifriranja:">
