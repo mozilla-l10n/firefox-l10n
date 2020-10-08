@@ -256,6 +256,13 @@ cfr-doorhanger-doh-primary-button = Ok, verstanden
 cfr-doorhanger-doh-secondary-button = Deaktivieren
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = Ok, verstanden
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Weitere Informationen
+    .accesskey = W
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatischer Schutz vor hinterhältigen Tracking-Taktiken
