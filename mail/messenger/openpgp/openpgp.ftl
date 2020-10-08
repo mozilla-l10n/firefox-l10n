@@ -325,6 +325,8 @@ key-man-button-generate-key-abort = &Prekini ustvarjanje ključev
 key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Napaka – dešifriranje ni uspelo
+cannot-send-sig-because-no-own-key = Tega sporočila ni mogoče digitalno podpisati, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
+cannot-send-enc-because-no-own-key = Tega sporočila ni mogoče poslati šifrirano, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
 no-repeat = To opozorilo ne bo več prikazano.
 dlg-keep-setting = Zapomni si moj odgovor in me ne vprašaj več
 dlg-button-ok = &V redu

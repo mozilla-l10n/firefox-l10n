@@ -42,6 +42,7 @@ afterauth-private = Preverili ste istovetnost stika { $name }.
 afterauth-unverified = Istovetnost stika { $name } ni preverjena.
 verify-title = Preveri istovetnost stika
 error-title = Napaka
+success-title = Šifriranje od konca do konca
 successThem-title = Preveri istovetnost stika
 fail-title = Ni mogoče preveriti
 waiting-title = Potrditvena zahteva poslana
