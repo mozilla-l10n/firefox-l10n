@@ -264,6 +264,7 @@ cfr-doorhanger-doh-secondary-button = Znjemóžnić
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Sydłowa izolacija
 cfr-doorhanger-fission-primary-button = W porjadku, sym zrozumił
     .accesskey = z
 cfr-doorhanger-fission-secondary-button = Dalše informacije
