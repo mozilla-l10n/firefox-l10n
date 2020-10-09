@@ -268,7 +268,7 @@ cfr-doorhanger-fission-header = Ізоляція сайту
 cfr-doorhanger-fission-primary-button = Гаразд, зрозуміло
     .accesskey = Г
 cfr-doorhanger-fission-secondary-button = Докладніше
-    .accesskey = Д
+    .accesskey = л
 
 ## What's new: Cookies message
 
