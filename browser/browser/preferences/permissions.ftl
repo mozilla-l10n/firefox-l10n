@@ -5,66 +5,53 @@
 permissions-window =
     .title = Erandid
     .style = width: 36em
-
 permissions-close-key =
     .key = W
-
 permissions-address = Saidi aadress
     .accesskey = a
-
 permissions-block =
     .label = Bloki
     .accesskey = B
-
 permissions-session =
     .label = Luba selleks seansiks
     .accesskey = s
-
 permissions-allow =
     .label = Luba
     .accesskey = a
-
 permissions-site-name =
     .label = Sait
-
 permissions-status =
     .label = Olek
-
 permissions-remove =
     .label = Eemalda sait
     .accesskey = E
-
 permissions-remove-all =
     .label = Eemalda kõik saidid
     .accesskey = k
-
 permissions-button-cancel =
     .label = Loobu
     .accesskey = L
-
 permissions-button-ok =
     .label = Salvesta muudatused
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Salvesta muudatused
+    .buttonaccesskeyaccept = S
 permissions-autoplay-menu = Vaikeväärtus kõigi saitide jaoks:
-
 permissions-searchbox =
     .placeholder = Otsi saiti
-
 permissions-capabilities-autoplay-allow =
     .label = heli ja video lubatakse
 permissions-capabilities-autoplay-block =
     .label = heli blokitakse
 permissions-capabilities-autoplay-blockall =
     .label = heli ja video blokitakse
-
 permissions-capabilities-allow =
     .label = Lubatud
 permissions-capabilities-block =
     .label = Blokitud
 permissions-capabilities-prompt =
     .label = Alati küsitakse
-
 permissions-capabilities-listitem-allow =
     .value = Lubatud
 permissions-capabilities-listitem-block =
@@ -112,8 +99,6 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Sa võid määrata, millistel veebilehtedel on lubatud lisasid paigaldada. Sisesta vastava veebilehe täpne aadress ning klõpsa Luba.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
@@ -142,6 +127,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = See takistab kõigil ülal mitte välja toodud saitidel asukohateabele ligipääsu kohta soovi avaldada. Asukohateabele ligipääsu blokkimine võib põhjustada probleeme mõne saidi töötamises.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
