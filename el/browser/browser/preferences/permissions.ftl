@@ -5,66 +5,53 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Διεύθυνση ιστοσελίδας
     .accesskey = ι
-
 permissions-block =
     .label = Φραγή
     .accesskey = Φ
-
 permissions-session =
     .label = Αποδοχή για αυτή τη συνεδρία
     .accesskey = σ
-
 permissions-allow =
     .label = Αποδοχή
     .accesskey = Α
-
 permissions-site-name =
     .label = Ιστοσελίδα
-
 permissions-status =
     .label = Κατάσταση
-
 permissions-remove =
     .label = Αφαίρεση ιστοσελίδας
     .accesskey = φ
-
 permissions-remove-all =
     .label = Αφαίρεση όλων των ιστοσελίδων
     .accesskey = λ
-
 permissions-button-cancel =
     .label = Ακύρωση
     .accesskey = Κ
-
 permissions-button-ok =
     .label = Αποθήκευση αλλαγών
     .accesskey = Π
-
+permission-dialog =
+    .buttonlabelaccept = Αποθήκευση αλλαγών
+    .buttonaccesskeyaccept = Π
 permissions-autoplay-menu = Προεπιλογή για όλες τις ιστοσελίδες:
-
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοσελίδας
-
 permissions-capabilities-autoplay-allow =
     .label = Αποδοχή ήχου και βίντεο
 permissions-capabilities-autoplay-block =
     .label = Φραγή ήχου
 permissions-capabilities-autoplay-blockall =
     .label = Φραγή ήχου και βίντεο
-
 permissions-capabilities-allow =
     .label = Αποδοχή
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
     .label = Πάντα ερώτηση
-
 permissions-capabilities-listitem-allow =
     .value = Αποδοχή
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Επιτρεπόμενες ιστοσελίδες - Εγκατάσταση προσθέτων
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η εγκατάσταση προσθέτων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να επιτρέψετε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
