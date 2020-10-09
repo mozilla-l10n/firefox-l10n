@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } 身份首选项
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = 名称
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = 请输入身份名称
-
 containers-icon-label = 图标
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = 颜色
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = 完成
     .accesskey = D
-
+containers-dialog =
+    .buttonlabelaccept = 完成
+    .buttonaccesskeyaccept = D
 containers-color-blue =
     .label = 蓝色
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = 紫色
 containers-color-toolbar =
     .label = 匹配工具栏
-
 containers-icon-fence =
     .label = 篱笆
 containers-icon-fingerprint =
