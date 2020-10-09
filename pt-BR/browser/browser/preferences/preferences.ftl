@@ -29,6 +29,8 @@ search-input-box =
            *[other] Pesquisar em preferências
         }
 managed-notice = Seu navegador está sendo gerenciado por nossa organização.
+category-list =
+    .aria-label = Categorias
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
