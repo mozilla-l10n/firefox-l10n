@@ -5,66 +5,53 @@
 permissions-window =
     .title = Eithriadau
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Cyfeiriad y wefan
     .accesskey = y
-
 permissions-block =
     .label = Rhwystro
     .accesskey = R
-
 permissions-session =
     .label = Caniatáu ar gyfer y Sesiwn
     .accesskey = S
-
 permissions-allow =
     .label = Caniatáu
     .accesskey = a
-
 permissions-site-name =
     .label = Gwefan
-
 permissions-status =
     .label = Statws
-
 permissions-remove =
     .label = Tynnu Gwefan
     .accesskey = T
-
 permissions-remove-all =
     .label = Tynnu Pob Gwefan
     .accesskey = G
-
 permissions-button-cancel =
     .label = Diddymu
     .accesskey = D
-
 permissions-button-ok =
     .label = Cadw Newidiadau
     .accesskey = N
-
+permission-dialog =
+    .buttonlabelaccept = Cadw Newidiadau
+    .buttonaccesskeyaccept = N
 permissions-autoplay-menu = Y rhagosodedig am bob gwefan:
-
 permissions-searchbox =
     .placeholder = Chwilio'r Wefan
-
 permissions-capabilities-autoplay-allow =
     .label = Caniatáu Sain a Fideo
 permissions-capabilities-autoplay-block =
     .label = Rhwystro Sain
 permissions-capabilities-autoplay-blockall =
     .label = Rhwystro Sain a Fideo
-
 permissions-capabilities-allow =
     .label = Caniatáu
 permissions-capabilities-block =
     .label = Rhwystro
 permissions-capabilities-prompt =
     .label = Gofyn bob Tro
-
 permissions-capabilities-listitem-allow =
     .value = Caniatáu
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Gwefannau Caniatawyd - Gosod Ychwanegion
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Gallwch enwi pa wefannau sy'n cael gosod ychwanegion. Teipiwch yr union gyfeiriad gwe rydych am ei chaniatáu ac yna clicio Caniatáu.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
