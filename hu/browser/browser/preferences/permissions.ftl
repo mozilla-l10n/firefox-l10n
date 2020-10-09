@@ -5,66 +5,53 @@
 permissions-window =
     .title = Kivételek
     .style = width: 55em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Weboldal címe
     .accesskey = o
-
 permissions-block =
     .label = Tiltás
     .accesskey = T
-
 permissions-session =
     .label = Engedélyezés a munkamenetben
     .accesskey = m
-
 permissions-allow =
     .label = Engedélyezés
     .accesskey = E
-
 permissions-site-name =
     .label = Weboldal
-
 permissions-status =
     .label = Állapot
-
 permissions-remove =
     .label = Weboldal eltávolítása
     .accesskey = v
-
 permissions-remove-all =
     .label = Minden weboldal eltávolítása
     .accesskey = M
-
 permissions-button-cancel =
     .label = Mégse
     .accesskey = M
-
 permissions-button-ok =
     .label = Változtatások mentése
     .accesskey = V
-
+permission-dialog =
+    .buttonlabelaccept = Változtatások mentése
+    .buttonaccesskeyaccept = V
 permissions-autoplay-menu = Alapértelmezés az összes webhelyhez:
-
 permissions-searchbox =
     .placeholder = Weboldal keresése
-
 permissions-capabilities-autoplay-allow =
     .label = Hang és videó engedélyezése
 permissions-capabilities-autoplay-block =
     .label = Hang blokkolása
 permissions-capabilities-autoplay-blockall =
     .label = Hang és videó blokkolása
-
 permissions-capabilities-allow =
     .label = Engedélyezés
 permissions-capabilities-block =
     .label = Tiltás
 permissions-capabilities-prompt =
     .label = Rákérdezés mindig
-
 permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Engedélyezett webhelyek – Kiegészítők telepítése
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Megadhatja azokat a webhelyeket, amelyekről engedélyezett a kiegészítők telepítése. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
