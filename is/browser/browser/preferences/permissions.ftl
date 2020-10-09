@@ -5,66 +5,53 @@
 permissions-window =
     .title = Undanþágur
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Vistfang vefsvæðis
     .accesskey = V
-
 permissions-block =
     .label = Loka á
     .accesskey = o
-
 permissions-session =
     .label = Leyfa í þessari vafralotu
     .accesskey = s
-
 permissions-allow =
     .label = Leyfa
     .accesskey = f
-
 permissions-site-name =
     .label = Vefsvæði
-
 permissions-status =
     .label = Staða
-
 permissions-remove =
     .label = Fjarlægja vefsvæði
     .accesskey = R
-
 permissions-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = e
-
 permissions-button-cancel =
     .label = Hætta við
     .accesskey = H
-
 permissions-button-ok =
     .label = Vista breytingar
     .accesskey = V
-
+permission-dialog =
+    .buttonlabelaccept = Vista breytingar
+    .buttonaccesskeyaccept = V
 permissions-autoplay-menu = Sjálfgefið fyrir allar vefsíður:
-
 permissions-searchbox =
     .placeholder = Leita í vefsvæði
-
 permissions-capabilities-autoplay-allow =
     .label = Leyfa hljóð og myndskeið
 permissions-capabilities-autoplay-block =
     .label = Loka á hljóð
 permissions-capabilities-autoplay-blockall =
     .label = Loka á hljóð og myndskeið
-
 permissions-capabilities-allow =
     .label = Leyfa
 permissions-capabilities-block =
     .label = Loka á
 permissions-capabilities-prompt =
     .label = Spyrja alltaf
-
 permissions-capabilities-listitem-allow =
     .value = Leyfa
 permissions-capabilities-listitem-block =
@@ -78,6 +65,7 @@ permissions-invalid-uri-title = Ólöglegt vistfang slegið inn
 permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -107,8 +95,6 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
@@ -137,6 +123,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem eru ekki hér fyrir ofan sendi beiðni um aðgang að staðsetningu. Ef það er lokað á staðsetningu gæti það haft áhrif á suma eiginleika vefsvæðis.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
