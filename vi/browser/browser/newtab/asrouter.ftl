@@ -251,6 +251,15 @@ cfr-doorhanger-doh-primary-button = OK, đã hiểu
 cfr-doorhanger-doh-secondary-button = Vô hiệu hóa
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body = { -brand-short-name } đã bật tính năng thử nghiệm Fission (cách ly trang web) cho bạn. Bằng cách cô lập từng trang riêng biệt thành một tiến trình, Fission cung cấp thêm một lớp bảo vệ cho bạn và cho các trang web bạn truy cập.
+cfr-doorhanger-fission-header = Cách ly trang web
+cfr-doorhanger-fission-primary-button = OK, đã hiểu
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Tìm hiểu thêm
+    .accesskey = T
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Bảo vệ tự động, không có theo dõi ẩn

@@ -29,6 +29,8 @@ search-input-box =
            *[other] Tìm trong phần tùy chỉnh
         }
 managed-notice = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
+category-list =
+    .aria-label = Thể loại
 pane-general-title = Tổng quát
 category-general =
     .tooltiptext = { pane-general-title }
@@ -477,6 +479,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Các trang Web hàng đầu
 home-prefs-topsites-description = Những trang bạn truy cập nhiều nhất
+home-prefs-topsites-by-option-sponsored =
+    .label = Các trang hàng đầu được tài trợ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
