@@ -5,36 +5,29 @@
 translation-window =
     .title = Εξαιρέσεις - Μετάφραση
     .style = width: 36em
-
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Η μετάφραση δεν θα προσφέρεται για τις εξής γλώσσες
-
 translation-languages-column =
     .label = Γλώσσες
-
 translation-languages-button-remove =
     .label = Αφαίρεση γλώσσας
     .accesskey = π
-
 translation-languages-button-remove-all =
     .label = Αφαίρεση όλων των γλωσσών
     .accesskey = λ
-
 translation-sites-disabled-desc = Η μετάφραση δεν θα προσφέρεται για τις εξής ιστοσελίδες
-
 translation-sites-column =
     .label = Ιστοσελίδες
-
 translation-sites-button-remove =
     .label = Αφαίρεση ιστοσελίδας
     .accesskey = μ
-
 translation-sites-button-remove-all =
     .label = Αφαίρεση όλων των ιστοσελίδων
     .accesskey = ν
-
 translation-button-close =
     .label = Κλείσιμο
     .accesskey = Κ
+translation-dialog =
+    .buttonlabelaccept = Κλείσιμο
+    .buttonaccesskeyaccept = Κ
