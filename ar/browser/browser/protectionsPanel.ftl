@@ -13,8 +13,8 @@ protections-popup-footer-protection-label-strict = صارم
     .label = صارم
 protections-popup-footer-protection-label-custom = مخصّص
     .label = مخصّص
-protections-popup-footer-protection-label-standard = معياري
-    .label = معياري
+protections-popup-footer-protection-label-standard = قياسي
+    .label = قياسي
 
 ##
 
