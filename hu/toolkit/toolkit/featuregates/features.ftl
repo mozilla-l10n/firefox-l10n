@@ -102,3 +102,4 @@ experimental-features-js-warp-description = A Warp engedélyezése, amely javít
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (oldalak elkülönítése)
+experimental-features-fission-description = A Fission (oldalelszigetelés) a { -brand-short-name } kísérleti funkciója, amely további védelmi réteget nyújt a biztonsági hibák ellen. Azáltal, hogy az egyes webhelyeket külön folyamatba különíti el, a Fission megnehezíti a rosszindulatú webhelyek számára, hogy hozzáférjenek az Ön által felkeresett más oldalak információihoz. Ez jelentős architekturális változás a { -brand-short-name }ban, és nagyra értékeljük, hogy kipróbálta és jelentette a felmerülő problémákat. További részletek: <a data-l10n-name="wiki">a wikin</a>.
