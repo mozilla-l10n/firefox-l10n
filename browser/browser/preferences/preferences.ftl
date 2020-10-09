@@ -29,6 +29,8 @@ search-input-box =
            *[other] Найти в Настройках
         }
 managed-notice = Этим браузером управляет ваша организация.
+category-list =
+    .aria-label = Категории
 pane-general-title = Основные
 category-general =
     .tooltiptext = { pane-general-title }
@@ -492,6 +494,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Топ сайтов
 home-prefs-topsites-description = Сайты, которые вы чаще всего посещаете
+home-prefs-topsites-by-option-sponsored =
+    .label = Топ сайтов спонсоров
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
