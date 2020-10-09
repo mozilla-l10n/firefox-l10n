@@ -5,66 +5,53 @@
 permissions-window =
     .title = Utsûnderingen
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adres fan de website
     .accesskey = d
-
 permissions-block =
     .label = Blokkearje
     .accesskey = B
-
 permissions-session =
     .label = Tastean foar sesje
     .accesskey = s
-
 permissions-allow =
     .label = Tastean
     .accesskey = T
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Steat
-
 permissions-remove =
     .label = Website fuortsmite
     .accesskey = W
-
 permissions-remove-all =
     .label = Alle websites fuortsmite
     .accesskey = s
-
 permissions-button-cancel =
     .label = Annulearje
     .accesskey = n
-
 permissions-button-ok =
     .label = Wizigingen bewarje
     .accesskey = i
-
+permission-dialog =
+    .buttonlabelaccept = Wizigingen bewarje
+    .buttonaccesskeyaccept = i
 permissions-autoplay-menu = Standert foar alle websites:
-
 permissions-searchbox =
     .placeholder = Websites trochsykje
-
 permissions-capabilities-autoplay-allow =
     .label = Audio en fideo tastean
 permissions-capabilities-autoplay-block =
     .label = Audio blokkearje
 permissions-capabilities-autoplay-blockall =
     .label = Audio en fideo blokkearje
-
 permissions-capabilities-allow =
     .label = Tastean
 permissions-capabilities-block =
     .label = Blokkearje
 permissions-capabilities-prompt =
     .label = Altyd freegje
-
 permissions-capabilities-listitem-allow =
     .value = Tastean
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Tastiene websites - Ynstallaasje fan add-ons
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Jo kinne oanjaan hokker siden add-ons ynstallearje meie. Typ it krekte adres fan de side dy't jo tastimming jaan wolle en klik dernei op Tastean.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
