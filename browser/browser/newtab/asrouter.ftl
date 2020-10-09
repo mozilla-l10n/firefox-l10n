@@ -257,7 +257,8 @@ cfr-doorhanger-doh-secondary-button = Slå av
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-header = Nettstedsisolasjon
+cfr-doorhanger-fission-body = { -brand-short-name } har aktivert en eksperimentell funksjon Fission (nettstedsisolering) for deg. Ved å isolere hvert nettsted i en egen prosess, gir Fission et ekstra sikkerhetslag for deg og nettstedene du besøker.
+cfr-doorhanger-fission-header = Nettstedsisolering
 cfr-doorhanger-fission-primary-button = OK, jeg skjønner
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Les mer
