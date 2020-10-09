@@ -48,3 +48,6 @@ clear-site-data-cancel =
 clear-site-data-clear =
     .label = Izbriši
     .accesskey = I
+clear-site-data-dialog =
+    .buttonlabelaccept = Izbriši
+    .buttonaccesskeyaccept = I
