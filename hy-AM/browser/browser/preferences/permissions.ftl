@@ -5,66 +5,53 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Կայքի հասցեն
     .accesskey = d
-
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
-
 permissions-session =
     .label = Թույլատրել աշխատաշրջանում
     .accesskey = ա
-
 permissions-allow =
     .label = Թույլատրել
     .accesskey = Թ
-
 permissions-site-name =
     .label = Կայք
-
 permissions-status =
     .label = Կարգավիճակը
-
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
-
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
-
 permissions-button-cancel =
     .label = Չեղարկել
     .accesskey = Չ
-
 permissions-button-ok =
     .label = Պահել փոփոխությունները
     .accesskey = Պ
-
+permission-dialog =
+    .buttonlabelaccept = Պահել փոփոխությունները
+    .buttonaccesskeyaccept = Պ
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
-
 permissions-searchbox =
     .placeholder = Որոնել կայք
-
 permissions-capabilities-autoplay-allow =
     .label = Թույլատրել Ձայն և Տեսանյութ
 permissions-capabilities-autoplay-block =
     .label = Կողպել ձայնը
 permissions-capabilities-autoplay-blockall =
     .label = Կողպել Ձայնը և Տեսանյութը
-
 permissions-capabilities-allow =
     .label = Թույլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
-
 permissions-capabilities-listitem-allow =
     .value = Թույլատրել
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Թույլատրված կայքեր՝ ընդլայնումների տեղադրում
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վեբ կայքերը, որոնց թուլյատրվում է ավելացնել հավելումներ: Մուտքագրեք յուրաքանչյուր կայքի ճիշտ հասցեն և սեղմեք «Թույլատրել»:
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
