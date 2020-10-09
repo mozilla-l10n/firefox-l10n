@@ -102,3 +102,4 @@ experimental-features-js-warp-description = Aktiver Warp, et prosjekt for å for
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (nettstedsisolering)
+experimental-features-fission-description = Fission (nettstedsisolering) er en eksperimentell funksjon i { -brand-short-name } for å gi et ekstra forsvarslag mot sikkerhetsfeil. Ved å isolere hvert nettsted i en egen prosess, gjør Fission det vanskeligere for ondsinnede nettsteder å få tilgang til informasjon fra andre sider du besøker. Dette er en stor arkitektonisk endring i { -brand-short-name }, og vi setter pris på at du tester og rapporterer eventuelle problemer du kan støte på. For mer informasjon, se <a data-l10n-name="wiki">wiki-en</a>.
