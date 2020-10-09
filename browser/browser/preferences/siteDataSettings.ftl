@@ -30,6 +30,9 @@ site-data-button-cancel =
 site-data-button-save =
     .label = שמירת שינויים
     .accesskey = ש
+site-data-settings-dialog =
+    .buttonlabelaccept = שמירת שינויים
+    .buttonaccesskeyaccept = ש
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
