@@ -5,57 +5,46 @@
 permissions-window =
     .title = Eisgeachdan
     .style = width: 49em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Seòladh na làraich-lìn
     .accesskey = d
-
 permissions-block =
     .label = Cuir bacadh air
     .accesskey = b
-
 permissions-session =
     .label = Ceadaich fad an t-seisein
     .accesskey = s
-
 permissions-allow =
     .label = Ceadaich
     .accesskey = a
-
 permissions-site-name =
     .label = Làrach-lìn
-
 permissions-status =
     .label = Staid
-
 permissions-remove =
     .label = Thoir an làrach-lìn air falbh
     .accesskey = r
-
 permissions-remove-all =
     .label = Thoir air falbh a h-uile làrach-lìn
     .accesskey = e
-
 permissions-button-cancel =
     .label = Sguir dheth
     .accesskey = S
-
 permissions-button-ok =
     .label = Sàbhail na h-atharraichean
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Sàbhail na h-atharraichean
+    .buttonaccesskeyaccept = S
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
-
 permissions-capabilities-allow =
     .label = Ceadaich
 permissions-capabilities-block =
     .label = Cuir bacadh air
 permissions-capabilities-prompt =
     .label = Faighnich dhìom an-còmhnaidh
-
 permissions-capabilities-listitem-allow =
     .value = Ceadaich
 permissions-capabilities-listitem-block =
@@ -69,6 +58,7 @@ permissions-invalid-uri-title = Chuir thu a-steach ainm òstair mì-dhligheach
 permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -98,9 +88,8 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraichean-lìn as urrainn dhaibh tuilleadan a stàladh. Cuir a-steach seòladh cruinn na làraich a tha thu airson cead a thoirt dha is briog air "Ceadaich".
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -123,6 +112,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Cumaidh seo làrach-lìn sam bith nach eil air an liosta gu h-àrd o chead iarraidh air d’ ionad. Ma bhacas tu cead air d’ ionad, dh’fhaoidte nach obraich cuid a ghleusan air làraichean-lìn tuilleadh.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
