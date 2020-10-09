@@ -53,6 +53,7 @@ no-migration-sources = Không tìm thấy chương trình nào chứa dấu tran
 import-source-page-title = Nhập cài đặt và dữ liệu
 import-items-page-title = Các mục cần nhập
 import-items-description = Chọn các mục để nhập:
+import-permissions-page-title = Vui lòng cấp quyền cho { -brand-short-name }
 import-migrating-page-title = Đang nhập…
 import-migrating-description = Các mục sau đang được nhập…
 import-select-profile-page-title = Chọn Hồ Sơ
