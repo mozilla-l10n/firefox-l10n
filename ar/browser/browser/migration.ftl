@@ -53,6 +53,9 @@ no-migration-sources = لم يُعثر على أي برامج تحتوي على 
 import-source-page-title = استورد الإعدادات و البيانات
 import-items-page-title = العناصر المراد استيرادها
 import-items-description = اختر أي العناصر تريد استيرادها:
+import-permissions-page-title = من فضلك امنح { -brand-short-name } الصلاحيات اللازمة
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = يطلب نظام ماك‌أو‌إس أن تسمح بجهارةٍ لمتصفح { -brand-short-name } بالوصول إلى علامات متصفح سفاري. انقر ”واصِل“ واختر ”Bookmarks.plist“ في لوحة فتح الملف التي ستظهر.
 import-migrating-page-title = يستورد…
 import-migrating-description = يجري استيراد العناصر التالية…
 import-select-profile-page-title = اختر الملفّ الشّخصيّ

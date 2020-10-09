@@ -276,6 +276,14 @@ cfr-doorhanger-doh-primary-button = حسنًا، فهمت
 cfr-doorhanger-doh-secondary-button = عطّل
     .accesskey = ط
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = عزل المواقع
+cfr-doorhanger-fission-primary-button = حسنًا، فهمت
+    .accesskey = ح
+cfr-doorhanger-fission-secondary-button = اطّلع على المزيد
+    .accesskey = ط
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = الحماية التلقائية ضد أساليب التعقّب المتخفّية
