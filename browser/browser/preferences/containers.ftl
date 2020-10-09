@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } Keutamaan Penyimpan
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nama
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Masukkan nama penyimpan
-
 containers-icon-label = Ikon
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Warna
     .accesskey = W
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Siap
     .accesskey = S
-
+containers-dialog =
+    .buttonlabelaccept = Siap
+    .buttonaccesskeyaccept = S
 containers-color-blue =
     .label = Biru
 containers-color-turquoise =
@@ -60,7 +55,6 @@ containers-color-pink =
     .label = Merah jambu
 containers-color-purple =
     .label = Ungu
-
 containers-icon-fingerprint =
     .label = Cap jari
 containers-icon-briefcase =
