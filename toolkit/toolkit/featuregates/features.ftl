@@ -99,3 +99,7 @@ experimental-features-webrtc-global-mute-toggles-description = Thêm điều khi
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Kích hoạt Warp, một dự án để cải thiện hiệu suất JavaScript và sử dụng bộ nhớ.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Cách ly trang web)
+experimental-features-fission-description = Fission (cách ly trang web) là một tính năng thử nghiệm trong { -brand-short-name } để cung cấp thêm một lớp bảo vệ khỏi các lỗi bảo mật. Bằng cách cô lập từng trang web thành một tiến trình riêng biệt, Fission khiến các trang web độc hại khó có thể truy cập các thông tin trên các trang web khác mà bạn đang truy cập. Đây là một thay đổi lớn về kiến trúc trong { -brand-short-name } và chúng tôi đánh giá cao việc bạn thử nghiệm và báo cáo bất kỳ những vẫn đề nào bạn có thể gặp phải. Để biết thêm chi tiết, xem <a data-l10n-name="wiki">wiki</a>.
