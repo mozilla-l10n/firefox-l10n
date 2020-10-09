@@ -256,6 +256,7 @@ cfr-doorhanger-doh-secondary-button = Letiltás
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body = A { -brand-short-name } engedélyezte Önnek a Fission (oldalak elkülönítése) kísérleti funkció használatát. Azáltal, hogy az egyes webhelyeket külön folyamatba különíti el, a Fission további biztonsági réteget nyújt Önnek és a felkeresett webhelyeknek.
 cfr-doorhanger-fission-header = Oldalak elkülönítése
 cfr-doorhanger-fission-primary-button = Rendben, értem
     .accesskey = R
