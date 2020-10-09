@@ -5,3 +5,6 @@
 translation-button-close =
     .label = Nakasɨ
     .accesskey = C
+translation-dialog =
+    .buttonlabelaccept = Nakasɨ
+    .buttonaccesskeyaccept = C
