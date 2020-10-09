@@ -30,6 +30,9 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Änderungen speichern
     .accesskey = p
+site-data-settings-dialog =
+    .buttonlabelaccept = Änderungen speichern
+    .buttonaccesskeyaccept = p
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
