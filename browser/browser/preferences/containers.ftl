@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } கலன்களின் முன்னுரிமைகள்
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = பெயர்
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = ஒரு கலனின் பெயரை இடுக
-
 containers-icon-label = சின்னம்
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = நிறம்
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = முடிந்தது
     .accesskey = D
-
+containers-dialog =
+    .buttonlabelaccept = முடிந்தது
+    .buttonaccesskeyaccept = D
 containers-color-blue =
     .label = நீலம்
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = ஊதா
 containers-color-toolbar =
     .label = கருவிப்பட்டையை பொருத்து
-
 containers-icon-fence =
     .label = வேலி
 containers-icon-fingerprint =
