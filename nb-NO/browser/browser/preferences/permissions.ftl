@@ -5,66 +5,53 @@
 permissions-window =
     .title = Unntak
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adressen til nettstedet
     .accesskey = d
-
 permissions-block =
     .label = Blokker
     .accesskey = B
-
 permissions-session =
     .label = Tillat for programøkten
     .accesskey = T
-
 permissions-allow =
     .label = Tillat
     .accesskey = T
-
 permissions-site-name =
     .label = Nettsted
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Fjern nettsted
     .accesskey = F
-
 permissions-remove-all =
     .label = Fjern alle nettsteder
     .accesskey = e
-
 permissions-button-cancel =
     .label = Avbryt
     .accesskey = A
-
 permissions-button-ok =
     .label = Lagre endringer
     .accesskey = L
-
+permission-dialog =
+    .buttonlabelaccept = Lagre endringer
+    .buttonaccesskeyaccept = L
 permissions-autoplay-menu = Standard for alle nettsteder:
-
 permissions-searchbox =
     .placeholder = Søk på nettside
-
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
-
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
-
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Tillatte nettsteder - Installering av utvidelser
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillatelse til å installere programtillegg. Skriv inn den eksakte adressen til nettstedet du vil tillate, og trykk «Tillat».
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
