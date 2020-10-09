@@ -5,66 +5,53 @@
 permissions-window =
     .title = Výnimky
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa webovej stránky
     .accesskey = d
-
 permissions-block =
     .label = Zakázať
     .accesskey = a
-
 permissions-session =
     .label = Povoliť pre reláciu
     .accesskey = o
-
 permissions-allow =
     .label = Povoliť
     .accesskey = P
-
 permissions-site-name =
     .label = Webová stránka
-
 permissions-status =
     .label = Stav
-
 permissions-remove =
     .label = Odstrániť stránku
     .accesskey = r
-
 permissions-remove-all =
     .label = Odstrániť všetky stránky
     .accesskey = e
-
 permissions-button-cancel =
     .label = Zrušiť
     .accesskey = Z
-
 permissions-button-ok =
     .label = Uložiť zmeny
     .accesskey = U
-
+permission-dialog =
+    .buttonlabelaccept = Uložiť zmeny
+    .buttonaccesskeyaccept = U
 permissions-autoplay-menu = Predvolené nastavenia pre všetky webové stránky:
-
 permissions-searchbox =
     .placeholder = Hľadať
-
 permissions-capabilities-autoplay-allow =
     .label = Povoliť zvuk a video
 permissions-capabilities-autoplay-block =
     .label = Blokovať zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokovať zvuk a video
-
 permissions-capabilities-allow =
     .label = Povoliť
 permissions-capabilities-block =
     .label = Zakázať
 permissions-capabilities-prompt =
     .label = Vždy sa opýtať
-
 permissions-capabilities-listitem-allow =
     .value = Povoliť
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Povolené stránky – Inštalácia doplnkov
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Na tomto mieste môžete určiť, ktoré stránky môžu inštalovať doplnky. Zadajte presnú adresu stránky, ktorej chcete povoliť inštaláciu softvéru a potom kliknite na tlačidlo Povoliť.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
