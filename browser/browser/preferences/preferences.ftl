@@ -29,6 +29,8 @@ search-input-box =
            *[other] Canfod yn Dewisiadau
         }
 managed-notice = Mae eich porwr yn cael ei reoli gan eich sefydliad.
+category-list =
+    .aria-label = Categorïau
 pane-general-title = Cyffredinol
 category-general =
     .tooltiptext = { pane-general-title }
