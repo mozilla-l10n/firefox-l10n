@@ -14,4 +14,7 @@ add-engine-cancel =
 add-engine-ok =
     .label = Apondre motor
     .accesskey = A
+add-engine-dialog =
+    .buttonlabelaccept = Apondre motor
+    .buttonaccesskeyaccept = A
 engine-name-exists = Un motor amb aqueste nom existís ja
