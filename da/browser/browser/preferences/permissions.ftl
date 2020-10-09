@@ -5,66 +5,53 @@
 permissions-window =
     .title = Undtagelser
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresse på websted
     .accesskey = d
-
 permissions-block =
     .label = Bloker
     .accesskey = B
-
 permissions-session =
     .label = Tillad for session
     .accesskey = s
-
 permissions-allow =
     .label = Tillad
     .accesskey = T
-
 permissions-site-name =
     .label = Websted
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Fjern websted
     .accesskey = F
-
 permissions-remove-all =
     .label = Fjern alle websteder
     .accesskey = a
-
 permissions-button-cancel =
     .label = Fortryd
     .accesskey = o
-
 permissions-button-ok =
     .label = Gem ændringer
     .accesskey = G
-
+permission-dialog =
+    .buttonlabelaccept = Gem ændringer
+    .buttonaccesskeyaccept = G
 permissions-autoplay-menu = Standard for alle websteder:
-
 permissions-searchbox =
     .placeholder = Søg efter websted
-
 permissions-capabilities-autoplay-allow =
     .label = Tillad lyd og video
 permissions-capabilities-autoplay-block =
     .label = Bloker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Bloker lyd og video
-
 permissions-capabilities-allow =
     .label = Tillad
 permissions-capabilities-block =
     .label = Bloker
 permissions-capabilities-prompt =
     .label = Spørg altid
-
 permissions-capabilities-listitem-allow =
     .value = Tillad
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Tilladte websteder - Installation af tilføjelser
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Du kan angive hvilke websteder der må installere tilføjelser. Indtast den præcise adresse på det websted, du vil tillade at installere tilføjelser og klik derefter på Tillad.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
