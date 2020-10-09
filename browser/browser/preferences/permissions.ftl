@@ -5,66 +5,53 @@
 permissions-window =
     .title = Exceptions
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Address of web site
     .accesskey = d
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-site-name =
     .label = Web Site
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Remove Web Site
     .accesskey = R
-
 permissions-remove-all =
     .label = Remove All Web Sites
     .accesskey = e
-
 permissions-button-cancel =
     .label = Cancel
     .accesskey = C
-
 permissions-button-ok =
     .label = Save Changes
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Save Changes
+    .buttonaccesskeyaccept = S
 permissions-autoplay-menu = Default for all web sites:
-
 permissions-searchbox =
     .placeholder = Search Web Site
-
 permissions-capabilities-autoplay-allow =
     .label = Allow Audio and Video
 permissions-capabilities-autoplay-block =
     .label = Block Audio
 permissions-capabilities-autoplay-blockall =
     .label = Block Audio and Video
-
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =
     .label = Block
 permissions-capabilities-prompt =
     .label = Always Ask
-
 permissions-capabilities-listitem-allow =
     .value = Allow
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Allowed Web Sites - Add-ons Installation
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
