@@ -5,57 +5,46 @@
 permissions-window =
     .title = Izuzeci
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa web stranice
     .accesskey = d
-
 permissions-block =
     .label = Blokiraj
     .accesskey = B
-
 permissions-session =
     .label = Dozvoli za sesiju
     .accesskey = s
-
 permissions-allow =
     .label = Dozvoli
     .accesskey = D
-
 permissions-site-name =
     .label = Web stranica
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Ukloni web stranicu
     .accesskey = U
-
 permissions-remove-all =
     .label = Ukloni sve web stranice
     .accesskey = e
-
 permissions-button-cancel =
     .label = Otkaži
     .accesskey = O
-
 permissions-button-ok =
     .label = Spasi promjene
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Spasi promjene
+    .buttonaccesskeyaccept = S
 permissions-searchbox =
     .placeholder = Pretraži web stranicu
-
 permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
-
 permissions-capabilities-listitem-allow =
     .value = Dozvoli
 permissions-capabilities-listitem-block =
@@ -69,6 +58,7 @@ permissions-invalid-uri-title = Unijeto je neispravno ime hosta
 permissions-invalid-uri-label = Molimo unesite ispravno ime hosta
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -95,10 +85,8 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Možete odrediti kojim web stranicama je dozvoljeno da instaliraju add-one. Unesite tačnu adresu stranice i zatim kliknite na Dozvoli.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -121,6 +109,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Ovo će onemogućiti bilo koju stranicu koja nije prikazana iznad od slanja zahtijeva za dozvolu za pristup vašoj lokaciji. Blokiranje pristupa vašoj lokaciji može onemogućiti neke mogućnosti web stranice.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
