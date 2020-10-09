@@ -60,7 +60,7 @@ cryptominer-tab-content = تستعمل المُعدّنات المعمّاة ط�
 protections-close-button2 =
     .aria-label = أغلِق
     .title = أغلِق
-mobile-app-title = احجب الإعلانات المتعقّبة على أجزتك الأخرى
+mobile-app-title = احجب الإعلانات المتعقّبة على أجهزتك الأخرى
 mobile-app-card-content = استعمل متصفح المحمول ذا الحماية المدمجة ضد تعقّب الإعلانات.
 mobile-app-links = متصفّح { -brand-product-name } لنظامي <a data-l10n-name="android-mobile-inline-link">أندرويد</a> و<a data-l10n-name="ios-mobile-inline-link">آي‌أوإس</a>
 lockwise-title = بعد الآن، ”نسيت كلمة السر“ فعل ماض
