@@ -5,66 +5,53 @@
 permissions-window =
     .title = Исключения
     .style = width: 55em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адрес веб-сайта
     .accesskey = е
-
 permissions-block =
     .label = Блокировать
     .accesskey = л
-
 permissions-session =
     .label = Разрешить на сессию
     .accesskey = с
-
 permissions-allow =
     .label = Разрешить
     .accesskey = з
-
 permissions-site-name =
     .label = Веб-сайт
-
 permissions-status =
     .label = Статус
-
 permissions-remove =
     .label = Удалить веб-сайт
     .accesskey = д
-
 permissions-remove-all =
     .label = Удалить все веб-сайты
     .accesskey = в
-
 permissions-button-cancel =
     .label = Отмена
     .accesskey = м
-
 permissions-button-ok =
     .label = Сохранить изменения
     .accesskey = х
-
+permission-dialog =
+    .buttonlabelaccept = Сохранить изменения
+    .buttonaccesskeyaccept = х
 permissions-autoplay-menu = По умолчанию для всех веб-сайтов:
-
 permissions-searchbox =
     .placeholder = Поиск по веб-сайту
-
 permissions-capabilities-autoplay-allow =
     .label = Разрешить аудио и видео
 permissions-capabilities-autoplay-block =
     .label = Блокировать аудио
 permissions-capabilities-autoplay-blockall =
     .label = Блокировать аудио и видео
-
 permissions-capabilities-allow =
     .label = Разрешить
 permissions-capabilities-block =
     .label = Блокировать
 permissions-capabilities-prompt =
     .label = Всегда спрашивать
-
 permissions-capabilities-listitem-allow =
     .value = Разрешить
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Разрешённые веб-сайты — Установка дополнений
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Вы можете указать, каким веб-сайтам разрешено устанавливать дополнения. Введите точный адрес каждого сайта и нажмите кнопку «Разрешить».
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
