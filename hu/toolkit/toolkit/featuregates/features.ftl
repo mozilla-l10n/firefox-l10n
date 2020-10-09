@@ -99,3 +99,6 @@ experimental-features-webrtc-global-mute-toggles-description = Olyan vezérlőke
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = A Warp engedélyezése, amely javítja a JavaScript teljesítményét és a memóriahasználatot.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (oldalak elkülönítése)
