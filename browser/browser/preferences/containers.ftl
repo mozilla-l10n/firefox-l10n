@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = Preferințele containerului { $name }
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nume
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Introdu un nume pentru container
-
 containers-icon-label = Pictogramă
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Culoare
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Terminat
     .accesskey = D
-
+containers-dialog =
+    .buttonlabelaccept = Terminat
+    .buttonaccesskeyaccept = D
 containers-color-blue =
     .label = Albastru
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = Purpuriu
 containers-color-toolbar =
     .label = Corelează bara de unelte
-
 containers-icon-fence =
     .label = Gard
 containers-icon-fingerprint =
