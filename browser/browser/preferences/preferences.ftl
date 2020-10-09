@@ -29,6 +29,8 @@ search-input-box =
            *[other] 설정에서 찾기
         }
 managed-notice = 조직에서 브라우저를 관리하고 있습니다.
+category-list =
+    .aria-label = 카테고리
 pane-general-title = 일반
 category-general =
     .tooltiptext = { pane-general-title }
