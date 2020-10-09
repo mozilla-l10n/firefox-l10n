@@ -101,4 +101,4 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = Aktiver Warp, et prosjekt for å forbedre JavaScript-ytelse og minnebruk.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
-    .label = Fission (nettstedsisolasjon)
+    .label = Fission (nettstedsisolering)
