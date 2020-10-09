@@ -29,6 +29,8 @@ search-input-box =
            *[other] Sök i inställningar
         }
 managed-notice = Din webbläsare hanteras av din organisation.
+category-list =
+    .aria-label = Kategorier
 pane-general-title = Allmänt
 category-general =
     .tooltiptext = { pane-general-title }
