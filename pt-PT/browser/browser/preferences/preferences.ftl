@@ -29,6 +29,8 @@ search-input-box =
            *[other] Localizar nas preferências
         }
 managed-notice = O seu navegador está a ser gerido pela sua organização.
+category-list =
+    .aria-label = Categorias
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sites mais visitados
 home-prefs-topsites-description = Os sites que mais visita
+home-prefs-topsites-by-option-sponsored =
+    .label = Principais sites patrocinados
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
