@@ -4,41 +4,32 @@
 
 addons-window =
     .title = مدير الإضافات
-
 addons-page-title = مدير الإضافات
-
+search-header =
+    .placeholder = ابحث في addons.mozilla.org
+    .searchbuttonlabel = ابحث
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = ليس لديك أي إضافات منصّبة من هذا النوع
-
 list-empty-available-updates =
     .value = لا تحديثات متوفرة
-
 list-empty-recent-updates =
     .value = لم تحدّث أي إضافات مؤخرًا
-
 list-empty-find-updates =
     .label = التمس التحديثات
-
 list-empty-button =
     .label = اعرف المزيد عن الإضافات
-
 show-unsigned-extensions-button =
     .label = تعذّر التحقق من بعض الامتدادات
-
 show-all-extensions-button =
     .label = اعرض كل الامتدادات
-
 cmd-show-details =
     .label = أظهر المزيد من المعلومات
     .accesskey = ظ
-
 cmd-find-updates =
     .label = ابحث عن التحديثات
     .accesskey = ح
-
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -50,82 +41,60 @@ cmd-preferences =
             [windows] خ
            *[other] ف
         }
-
 cmd-enable-theme =
     .label = طبّق السمة
     .accesskey = س
-
 cmd-disable-theme =
     .label = انزع السمة
     .accesskey = س
-
 cmd-install-addon =
     .label = نصّب
     .accesskey = ن
-
 cmd-contribute =
     .label = ساهِم
     .accesskey = س
     .tooltiptext = ساهِم في تطوير هذه الإضافة
-
 detail-version =
     .label = النسخة
-
 detail-last-updated =
     .label = آخر تحديث
-
 detail-contributions-description = يطلب منك مطوّر هذه الإضافة مساعدته بدعم استمرار تطوير هذا العمل من خلال تبرع صغير منك.
-
 detail-update-type =
     .value = التحديثات التلقائية
-
 detail-update-default =
     .label = مبدئي
     .tooltiptext = نصّب التحديثات تلقائيًا إذا كان ذلك هو المبدئي فقط
-
 detail-update-automatic =
     .label = مشغلة
     .tooltiptext = نصّب التحديثات تلقائيًا
-
 detail-update-manual =
     .label = مطفأة
     .tooltiptext = لا نصّب التحديثات تلقائيًا
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = تشغيله في النوافذ الخاصة
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ليس مسموحًا بأن تعمل في النوافذ الخاصة
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = تطلب الوصول إلى النوافذ الخاصة
-
 detail-private-browsing-on =
     .label = مسموح
     .tooltiptext = فعّل تشغيله عند التصفح تصفحا خاصا
-
 detail-private-browsing-off =
     .label = غير مسموح
     .tooltiptext = عطّل تشغيله عند التصفح تصفحا خاصا
-
 detail-home =
     .label = صفحة البداية
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = ملف الإضافة الشخصي
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = التمس التحديثات
     .accesskey = س
     .tooltiptext = التمس التحديثات لهذه الإضافة
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -142,33 +111,21 @@ detail-show-preferences =
             [windows] غيّر خيارات هذه الإضافة
            *[other] غيّر تفضيلات هذه الإضافة
         }
-
 detail-rating =
     .value = التقييم
-
 addon-restart-now =
     .label = أعد التشغيل الآن
-
 disabled-unsigned-heading =
     .value = عُطّلت بعض الإضافات
-
 disabled-unsigned-description = لم يُتحقق من الإضافات التالية لاستخدامها مع { -brand-short-name }. يمكنك <label data-l10n-name="find-addons">البحث عن بدائل</label> أو أن تطلب من المطوّر أن يجعل موزيلا تتحقق منهم.
-
 disabled-unsigned-learn-more = اطلع أكثر على مجهوداتنا في إبقائك آمنا على الإنترنت.
-
 disabled-unsigned-devinfo = المطورين المهتمين بأن تتحقق موزيلا من إضافاتهم، يمكنهم قراءة <label data-l10n-name="learn-more">دليلنا</label>.
-
 plugin-deprecation-description = أهناك ما تفتقده؟ لم يعد { -brand-short-name } يدعم بعض الملحقات. <label data-l10n-name="learn-more">اطّلع على المزيد.</label>
-
 legacy-warning-show-legacy = اعرض الامتدادات العتيقة
-
 legacy-extensions =
     .value = امتدادات عتيقة
-
 legacy-extensions-description = لا تحقق هذه الامتدادات معايير { -brand-short-name } الحالية، لذا عُطّلت. <label data-l10n-name="legacy-learn-more">تعرّف على التغييرات على الإضافات</label>
-
 private-browsing-description2 = بدأ { -brand-short-name } بتغيير كيفية عمل الامتدادات في التصفح الخاص. مبدئيًا، لن تعمل أي امتدادات جديدة تُضيفها إلى { -brand-short-name } في النوافذ الخاصة. إن لم تغيّر ذلك وتسمح به في الإعدادات فلن يعمل الامتداد وأنت في التصفح الخاص، ولن يملك حق الوصول إلى نشاطك على الوِب فيها. أجرينا هذا التغيير ليكون التصفح الخاص خاصًا بحق. <label data-l10n-name="private-browsing-learn-more">اطّلع على طريقة إدارة إعدادات الامتدادات</label>
-
 addon-category-extension = الامتدادات
 addon-category-extension-title =
     .title = الامتدادات
@@ -200,7 +157,6 @@ extensions-warning-check-compatibility-button = فعّل
 extensions-warning-update-security = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
 extensions-warning-update-security-button = فعّل
     .title = فعّل التحقق من أمن تحديثات الإضافات
-
 
 ## Strings connected to add-on updates
 
@@ -247,23 +203,73 @@ addon-open-about-debugging = نقّح الإضافات
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = أدِر اختصارات الامتدادات
     .accesskey = د
-
 shortcuts-no-addons = ليس لديك أيّ امتدادات مفعّلة.
 shortcuts-no-commands = لا اختصارات للامتدادات الآتية:
 shortcuts-input =
     .placeholder = اكتب اختصارًا
+shortcuts-card-collapse-button = اعرض أقل
 
 ## Recommended add-ons page
 
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = خيارات أكثر
 
 ## Add-on actions
 
+report-addon-button = أبلِغ
+remove-addon-button = أزِل
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = فعّل
+details-addon-button = التفاصيل
+permissions-addon-button = الصلاحيات
+extension-enabled-heading = مفعّل
+extension-disabled-heading = معطّل
+theme-enabled-heading = مفعّلة
+theme-disabled-heading = معطّلة
+plugin-enabled-heading = مفعّلة
+plugin-disabled-heading = معطّلة
+dictionary-enabled-heading = مفعّل
+dictionary-disabled-heading = معطّل
+locale-enabled-heading = مفعّلة
+locale-disabled-heading = معطّلة
+addon-detail-author-label = المؤلف
+addon-detail-last-updated-label = آخر تحديث
+addon-detail-homepage-label = صفحة البداية
+addon-detail-rating-label = التقييم
+install-postponed-button = حدّث الآن
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = تراجَع
+addon-detail-updates-label = اسمح بالتحديثات التلقائية
+addon-detail-updates-radio-default = المبدئي
+addon-detail-updates-radio-on = مفعّل
+addon-detail-updates-radio-off = معطّل
+addon-detail-update-check-label = التمس التحديثات
+install-update-button = حدّث
 addon-detail-private-browsing-help = إن سمحت به فسيملك هذا الامتداد تصريح الوصول إلى نشاطك على الإنترنت وأنت تتصفح تصفحا خاصا. <a data-l10n-name="learn-more">اطّلع على المزيد</label>
 addon-detail-private-browsing-allow = مسموح
 addon-detail-private-browsing-disallow = غير مسموح
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+addon-badge-recommended2 =
+    .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
+    .aria-label = { addon-badge-recommended2.title }
+
+##
+
+available-updates-heading = التحديثات المتاحة
+recent-updates-heading = التحديثات الأخيرة
+release-notes-loading = يحمّل…
+release-notes-error = المعذرة، ولكن حصل خطأ أثناء تحميل ملاحظات الإصدار.
+addon-permissions-empty = لا يطلب هذا الامتداد أيّ صلاحيات
+recommended-extensions-heading = الامتدادات المقترحة
 
 ## Page headings
 
@@ -272,7 +278,10 @@ theme-heading = أدِر السمات لديك
 plugin-heading = أدِر الملحقات لديك
 dictionary-heading = أدِر القواميس لديك
 locale-heading = أدِر اللغات لديك
+updates-heading = أدِر تحديثاتك
 shortcuts-heading = أدِر اختصارات الامتدادات
-
+default-heading-search-label = ابحث عن إضافات أكثر
+addons-heading-search-input =
+    .placeholder = ابحث في addons.mozilla.org
 addon-page-options-button =
     .title = أدوات لجميع الإضافات
