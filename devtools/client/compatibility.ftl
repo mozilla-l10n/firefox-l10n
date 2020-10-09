@@ -5,9 +5,17 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-all-elements-header = كل المشاكل
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (بائدة)
+compatibility-issue-experimental = (تجريبية)
+compatibility-issue-prefixneeded = (تطلب بادئة)
+compatibility-issue-deprecated-experimental = (بائدة، تجريبية)
+compatibility-issue-deprecated-prefixneeded = (بائدة، تطلب بادئة)
+compatibility-issue-experimental-prefixneeded = (تجريبية، تطلب بادئة)
+compatibility-issue-deprecated-experimental-prefixneeded = (بائدة، تجريبية، تطلب بادئة)
 
 ## Messages used as labels and titles for buttons in the footer
 

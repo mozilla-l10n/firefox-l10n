@@ -17,6 +17,8 @@ certificate-viewer-common-name = الاسم الشائع
 certificate-viewer-email-address = عنوان البريد الإلكتروني
 certificate-viewer-country = البلد
 certificate-viewer-dns-name = اسم DNS
+certificate-viewer-ip-address = عنوان IP
+certificate-viewer-other-name = الاسم الآخر
 certificate-viewer-name = الاسم
 certificate-viewer-not-after = ليس بعد
 certificate-viewer-not-before = ليس قبل
@@ -32,8 +34,7 @@ certificate-viewer-issuer-name = اسم المُصدِر
 certificate-viewer-validity = الصلاحية
 certificate-viewer-miscellaneous = متنوّع
 certificate-viewer-fingerprints = البصمات
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = نزّل
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -47,6 +48,7 @@ certificate-viewer-boolean =
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
