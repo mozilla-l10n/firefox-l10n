@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = Preferoj por ingoj de { $name }
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nomo
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Tajpu nomon de ingo
-
 containers-icon-label = Emblemo
     .accesskey = E
     .style = { -containers-labels-style }
-
 containers-color-label = Koloro
     .accesskey = K
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Farita
     .accesskey = F
-
+containers-dialog =
+    .buttonlabelaccept = Farita
+    .buttonaccesskeyaccept = F
 containers-color-blue =
     .label = Blua
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = Purpura
 containers-color-toolbar =
     .label = Kongruigi kun ilaro
-
 containers-icon-fence =
     .label = Ĉirkaŭbarilo
 containers-icon-fingerprint =

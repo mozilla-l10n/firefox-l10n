@@ -5,66 +5,53 @@
 permissions-window =
     .title = Esceptoj
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreso de retejo
     .accesskey = A
-
 permissions-block =
     .label = Bloki
     .accesskey = B
-
 permissions-session =
     .label = Permesi dum la seanco
     .accesskey = S
-
 permissions-allow =
     .label = Permesi
     .accesskey = P
-
 permissions-site-name =
     .label = Retejo
-
 permissions-status =
     .label = Stato
-
 permissions-remove =
     .label = Forigi retejon
     .accesskey = F
-
 permissions-remove-all =
     .label = Forigi ĉiujn retejojn
     .accesskey = r
-
 permissions-button-cancel =
     .label = Nuligi
     .accesskey = N
-
 permissions-button-ok =
     .label = Konservi ŝanĝojn
     .accesskey = K
-
+permission-dialog =
+    .buttonlabelaccept = Konservi ŝanĝojn
+    .buttonaccesskeyaccept = K
 permissions-autoplay-menu = Normo por ĉiuj retejoj:
-
 permissions-searchbox =
     .placeholder = Serĉi en retejo
-
 permissions-capabilities-autoplay-allow =
     .label = Permesi sonon kaj videon
 permissions-capabilities-autoplay-block =
     .label = Bloki sonon
 permissions-capabilities-autoplay-blockall =
     .label = Bloki sonon kaj videon
-
 permissions-capabilities-allow =
     .label = Permesi
 permissions-capabilities-block =
     .label = Bloki
 permissions-capabilities-prompt =
     .label = Ĉiam demandi
-
 permissions-capabilities-listitem-allow =
     .value = Permesi
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Permesitaj retejoj - instalo de aldonaĵoj
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Vi povas difini, kiuj retejoj havos la permeson instali aldonaĵojn. Tajpu la ekzaktan adreson de la retejo al kiu vi volas doni tiun rajton kaj poste alklaku sur Permesi.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
