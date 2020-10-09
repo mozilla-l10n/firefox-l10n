@@ -28,3 +28,6 @@ translation-sites-button-remove-all =
 translation-button-close =
     .label = Zatvori
     .accesskey = Z
+translation-dialog =
+    .buttonlabelaccept = Zatvori
+    .buttonaccesskeyaccept = Z
