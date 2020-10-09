@@ -29,6 +29,8 @@ search-input-box =
            *[other] Знайсці ў перавагах
         }
 managed-notice = Вашым браўзерам кіруе ваша арганізацыя.
+category-list =
+    .aria-label = Катэгорыі
 pane-general-title = Агульныя
 category-general =
     .tooltiptext = { pane-general-title }
