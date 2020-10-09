@@ -92,8 +92,10 @@ detail-private-browsing-label = تشغيله في النوافذ الخاصة
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ليس مسموحًا بأن تعمل في النوافذ الخاصة
+detail-private-disallowed-description2 = لا يعمل هذا الامتداد وأنت تتصفح تصفحا خاصا. <a data-l10n-name="learn-more">اطّلع على المزيد</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = تطلب الوصول إلى النوافذ الخاصة
+detail-private-required-description2 = يملك هذا الامتداد تصريح الوصول إلى نشاطك على الإنترنت وأنت تتصفح تصفحا خاصا. <a data-l10n-name="learn-more">اطّلع على المزيد</a>
 detail-private-browsing-on =
     .label = مسموح
     .tooltiptext = فعّل تشغيله عند التصفح تصفحا خاصا
@@ -224,6 +226,16 @@ shortcuts-no-addons = ليس لديك أيّ امتدادات مفعّلة.
 shortcuts-no-commands = لا اختصارات للامتدادات الآتية:
 shortcuts-input =
     .placeholder = اكتب اختصارًا
+shortcuts-browserAction2 = تفعيل زر شريط الأدوات
+shortcuts-pageAction = تفعيل إجراء على الصفحة
+shortcuts-sidebarAction = عرض/إخفاء الشريط الجانبي
+shortcuts-modifier-mac = يحتوي على Ctrl أو Alt أو ⌘
+shortcuts-modifier-other = يحتوي على Ctrl أو Alt
+shortcuts-invalid = تشكيلة غير صالحة
+shortcuts-letter = اكتب حرفا
+shortcuts-system = لا يمكنك إلغاء اختصار من اختصارات { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = اختصار متكرر
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
@@ -232,12 +244,39 @@ shortcuts-duplicate-warning-message = يُستعمل { $shortcut } كاختصا�
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = تستخدمه { $addon } بالفعل
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [zero] لا تعرض المزيد
+        [one] اعرض واحدًا أكثر
+        [two] اعرض اثنين أكثر
+        [few] اعرض { $numberToShow } أكثر
+        [many] اعرض { $numberToShow } أكثر
+       *[other] اعرض { $numberToShow } أكثر
+    }
 shortcuts-card-collapse-button = اعرض أقل
 header-back-button =
     .title = عُد للسابق
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = بعض هذه التوصيات مخصّصة لك، إذ تعتمد على الامتدادات التي ثبّتها وتفضيلات الملف الشخصي وإحصاءات الاستخدام.
+discopane-notice-learn-more = اطّلع على المزيد
+privacy-policy = سياسة الخصوصية
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = طوّرها <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = المستخدمين: { $dailyUsers }
+install-extension-button = أضِفه إلى { -brand-product-name }
+install-theme-button = ثبّت السمة
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = أدِر
+find-more-addons = ابحث عن إضافات أكثر
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -247,11 +286,21 @@ addon-options-button =
 
 report-addon-button = أبلِغ
 remove-addon-button = أزِل
+# The link will always be shown after the other text.
+remove-addon-disabled-button = لا يمكنك إزالته <a data-l10n-name="link">لماذا؟</a>
+disable-addon-button = عطّل
+enable-addon-button = فعّل
 # This is used for the toggle on the extension card, it's a checkbox and this
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = فعّل
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] الخيارات
+       *[other] التفضيلات
+    }
 details-addon-button = التفاصيل
+release-notes-addon-button = ملاحظات الإصدار
 permissions-addon-button = الصلاحيات
 extension-enabled-heading = مفعّل
 extension-disabled-heading = معطّل
@@ -263,14 +312,44 @@ dictionary-enabled-heading = مفعّل
 dictionary-disabled-heading = معطّل
 locale-enabled-heading = مفعّلة
 locale-disabled-heading = معطّلة
+ask-to-activate-button = اسأل قبل التفعيل
+always-activate-button = فعّل دائمًا
+never-activate-button = لا تُفعّل أبدًا
 addon-detail-author-label = المؤلف
+addon-detail-version-label = الإصدارة
 addon-detail-last-updated-label = آخر تحديث
 addon-detail-homepage-label = صفحة البداية
 addon-detail-rating-label = التقييم
+# Message for add-ons with a staged pending update.
+install-postponed-message = سيُحدّث هذا الامتداد متى أُعيد تشغيل { -brand-short-name }.
 install-postponed-button = حدّث الآن
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = تقييمها { NUMBER($rating, maximumFractionDigits: 1) } من أصل 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = ‏{ $name } (معطّلة)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [zero] ما من مراجعات
+        [one] مراجعة واحدة
+        [two] مراجعتان
+        [few] { $numberOfReviews } مراجعات
+        [many] { $numberOfReviews } مراجعة
+       *[other] { $numberOfReviews } مراجعة
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = أُزيلت <span data-l10n-name="addon-name">{ $addon }</span>.
 pending-uninstall-undo-button = تراجَع
 addon-detail-updates-label = اسمح بالتحديثات التلقائية
 addon-detail-updates-radio-default = المبدئي
@@ -278,6 +357,11 @@ addon-detail-updates-radio-on = مفعّل
 addon-detail-updates-radio-off = معطّل
 addon-detail-update-check-label = التمس التحديثات
 install-update-button = حدّث
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = مسموح بها في النوافذ الخاصة
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = إن سمحت به فسيملك هذا الامتداد تصريح الوصول إلى نشاطك على الإنترنت وأنت تتصفح تصفحا خاصا. <a data-l10n-name="learn-more">اطّلع على المزيد</label>
 addon-detail-private-browsing-allow = مسموح
 addon-detail-private-browsing-disallow = غير مسموح
@@ -288,6 +372,9 @@ addon-detail-private-browsing-disallow = غير مسموح
 addon-badge-recommended2 =
     .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = صنع مطوّري { -brand-product-name } هذا الامتداد
+    .aria-label = { addon-badge-line.title }
 
 ##
 
