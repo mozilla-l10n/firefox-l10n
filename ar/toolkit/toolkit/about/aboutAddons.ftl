@@ -375,6 +375,9 @@ addon-badge-recommended2 =
 addon-badge-line =
     .title = صنع مطوّري { -brand-product-name } هذا الامتداد
     .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = جرت مراجعة كود هذا الامتداد لضمان أمنه
+    .aria-label = { addon-badge-verified.title }
 
 ##
 
@@ -384,6 +387,10 @@ release-notes-loading = يحمّل…
 release-notes-error = المعذرة، ولكن حصل خطأ أثناء تحميل ملاحظات الإصدار.
 addon-permissions-empty = لا يطلب هذا الامتداد أيّ صلاحيات
 recommended-extensions-heading = الامتدادات المقترحة
+recommended-themes-heading = السمات المقترحة
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = ترى فيك الإبداع؟ <a data-l10n-name="link">اصنع سمتك الخاصة باستعمال Firefox Color.</a>
 
 ## Page headings
 
@@ -392,7 +399,8 @@ theme-heading = أدِر السمات لديك
 plugin-heading = أدِر الملحقات لديك
 dictionary-heading = أدِر القواميس لديك
 locale-heading = أدِر اللغات لديك
-updates-heading = أدِر تحديثاتك
+updates-heading = أدِر التحديثات لديك
+discover-heading = خصّص { -brand-short-name } ليكون لك
 shortcuts-heading = أدِر اختصارات الامتدادات
 default-heading-search-label = ابحث عن إضافات أكثر
 addons-heading-search-input =
