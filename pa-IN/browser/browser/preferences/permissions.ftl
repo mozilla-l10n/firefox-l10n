@@ -5,66 +5,53 @@
 permissions-window =
     .title = ਛੋਟ
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ਵੈੱਬਸਾਈਟ ਦਾ ਸਿਰਨਾਵਾਂ
     .accesskey = d
-
 permissions-block =
     .label = ਪਾਬੰਦੀ
     .accesskey = B
-
 permissions-session =
     .label = ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ
     .accesskey = S
-
 permissions-allow =
     .label = ਮਨਜ਼ੂਰ ਕਰੋ
     .accesskey = A
-
 permissions-site-name =
     .label = ਵੈੱਬਸਾਈਟ
-
 permissions-status =
     .label = ਹਾਲਤ
-
 permissions-remove =
     .label = ਵੈੱਬਸਾਈਟ ਨੂੰ ਹਟਾਓ
     .accesskey = R
-
 permissions-remove-all =
     .label = ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਹਟਾਓ
     .accesskey = e
-
 permissions-button-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
-
 permissions-button-ok =
     .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
+    .buttonaccesskeyaccept = S
 permissions-autoplay-menu = ਸਾਰੀਆਂ ਵੈਬਸਾਈਟਾਂ ਲਈ ਡਿਫੌਲਟ:
-
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
-
 permissions-capabilities-autoplay-allow =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 permissions-capabilities-autoplay-block =
     .label = ਆਡੀਓ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ
 permissions-capabilities-autoplay-blockall =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਤੇ ਪਾਬੰਦੀ ਲਾਓ
-
 permissions-capabilities-allow =
     .label = ਮਨਜ਼ੂਰ
 permissions-capabilities-block =
     .label = ਪਾਬੰਦੀ
 permissions-capabilities-prompt =
     .label = ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ
-
 permissions-capabilities-listitem-allow =
     .value = ਮਨਜ਼ੂਰ
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਐਨ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬ ਸਾਇਟਾਂ ਤੋਂ ਐਂਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਹੈ। ਉਸ ਵੈੱਬ ਸਾਇਟ ਦੀ ਠੀਕ ਐਡਰੈੱਸ ਦਿਓ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਇਜ਼ਾਜਤ ਦਿੰਦੇ ਹੋ, ਅਤੇ ਇਜ਼ਾਜਤ ਹੈ ਨੂੰ ਦਬਾਓ।
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
