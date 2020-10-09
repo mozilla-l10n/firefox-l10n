@@ -5,57 +5,46 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Sayt ünvanı
     .accesskey = S
-
 permissions-block =
     .label = Blokla
     .accesskey = B
-
 permissions-session =
     .label = Bu seans üçün icazə ver
     .accesskey = r
-
 permissions-allow =
     .label = İcazə ver
     .accesskey = a
-
 permissions-site-name =
     .label = Sayt
-
 permissions-status =
     .label = Durum
-
 permissions-remove =
     .label = Saytı sil
     .accesskey = S
-
 permissions-remove-all =
     .label = Bütün saytları sil
     .accesskey = s
-
 permissions-button-cancel =
     .label = Ləğv et
     .accesskey = L
-
 permissions-button-ok =
     .label = Dəyişiklikləri Yadda Saxla
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Dəyişiklikləri Yadda Saxla
+    .buttonaccesskeyaccept = S
 permissions-searchbox =
     .placeholder = Saytda Axtar
-
 permissions-capabilities-allow =
     .label = İcazə ver
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Həmişə soruş
-
 permissions-capabilities-listitem-allow =
     .value = İcazə ver
 permissions-capabilities-listitem-block =
@@ -69,6 +58,7 @@ permissions-invalid-uri-title = Etibarsız bir domen adı daxil etdiniz
 permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -97,8 +87,6 @@ permissions-exceptions-addons-window =
     .title = İcazə verilən saytlar - Əlavə quraşdırılması
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləcəyini seçə bilərsiniz. İcaz vermək istədiyiniz saytın tam ünvanını yazdıqdan sonra "İcazə ver"-ə klikləyin.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
