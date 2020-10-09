@@ -29,6 +29,8 @@ search-input-box =
            *[other] ابحث في التفضيلات
         }
 managed-notice = تُدير منظّمتك المتصفح الذي تستخدم الآن.
+category-list =
+    .aria-label = الفئات
 pane-general-title = عام
 category-general =
     .tooltiptext = { pane-general-title }
@@ -572,6 +574,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = غيّر تفضيلات اقتراحات شريط العنوان
 search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
 search-one-click-header = محركات البحث بنقرة واحدة
+search-one-click-header2 = اختصارات البحث
 search-one-click-desc = اختر محركات البحث البديلة التي تظهر تحت شريطي العناوين و البحث عندما تكتب كلمة بحث.
 search-choose-engine-column =
     .label = محرك البحث
