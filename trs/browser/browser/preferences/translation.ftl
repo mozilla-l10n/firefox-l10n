@@ -5,36 +5,29 @@
 translation-window =
     .title = Sa nachrun'
     .style = width: 36em
-
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Si ga'ue nachrun' nej nanj na
-
 translation-languages-column =
     .label = Nanj a'min'
-
 translation-languages-button-remove =
     .label = Guxun nânj a'mi'
     .accesskey = G
-
 translation-languages-button-remove-all =
     .label = Dure' daran' nej nanj
     .accesskey = e
-
 translation-sites-disabled-desc = Si ga'ue nachrun' a'ngo nanj guenda nej sitio na
-
 translation-sites-column =
     .label = Sitio web
-
 translation-sites-button-remove =
     .label = Guxun' sitio
     .accesskey = G
-
 translation-sites-button-remove-all =
     .label = Guxun' daran sitio
     .accesskey = G
-
 translation-button-close =
     .label = Ganarrûn'
     .accesskey = G
+translation-dialog =
+    .buttonlabelaccept = Ganarrûn'
+    .buttonaccesskeyaccept = G

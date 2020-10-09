@@ -5,66 +5,53 @@
 permissions-window =
     .title = Sa huā gi'iát
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Si direksion sitio na
     .accesskey = d
-
 permissions-block =
     .label = Si ga'ni'
     .accesskey = S
-
 permissions-session =
     .label = Ga'ni' gi'iaj sun sesion
     .accesskey = S
-
 permissions-allow =
     .label = Ga'nin'
     .accesskey = A
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Daj hua riñaj
-
 permissions-remove =
     .label = Guxun' sitio web
     .accesskey = G
-
 permissions-remove-all =
     .label = Guyun daran sitio web
     .accesskey = G
-
 permissions-button-cancel =
     .label = Duyichin'
     .accesskey = D
-
 permissions-button-ok =
     .label = Na’nïnj sà’ sa nadunat
     .accesskey = s
-
+permission-dialog =
+    .buttonlabelaccept = Na’nïnj sà’ sa nadunat
+    .buttonaccesskeyaccept = s
 permissions-autoplay-menu = Sa ngà hua niña guendâ nej sîtio:
-
 permissions-searchbox =
     .placeholder = Nana'ui' sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Ga'nïn sa gunïn' ngà sa ni'io'
 permissions-capabilities-autoplay-block =
     .label = Narán riña sa unïn'
 permissions-capabilities-autoplay-blockall =
     .label = Narán riña sa unïn' ngà sa ni'io'
-
 permissions-capabilities-allow =
     .label = Ga'nïn'
 permissions-capabilities-block =
     .label = Si ga'nïn'
 permissions-capabilities-prompt =
     .label = Gachinj na'anj yitïnj
-
 permissions-capabilities-listitem-allow =
     .value = Ga'nïn'
 permissions-capabilities-listitem-block =
@@ -112,8 +99,6 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Ga'ue gatajt ahuin sitio web dugutuj complemento. Gachrūn direksion ni ga'ui't klik riña taj ga'nïn.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
@@ -142,6 +127,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si taj si yugui nī da'ui gachinj ni'ià da' gatu riña achré nunt. Nga rajsunt na nī ga'ue si hua 'ngo sa si ga'ue gi'iaj sun hue'é riña sitio na.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
