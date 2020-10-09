@@ -5,66 +5,53 @@
 permissions-window =
     .title = გამონაკლისები
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = საიტის მისამართი
     .accesskey = მ
-
 permissions-block =
     .label = აკრძალვა
     .accesskey = კ
-
 permissions-session =
     .label = სეანსზე დაშვება
     .accesskey = ს
-
 permissions-allow =
     .label = დაშვება
     .accesskey = დ
-
 permissions-site-name =
     .label = საიტი
-
 permissions-status =
     .label = მდგომარეობა
-
 permissions-remove =
     .label = საიტის მოცილება
     .accesskey = მ
-
 permissions-remove-all =
     .label = ყველა საიტის მოცილება
     .accesskey = ყ
-
 permissions-button-cancel =
     .label = გაუქმება
     .accesskey = გ
-
 permissions-button-ok =
     .label = ცვლილებების შენახვა
     .accesskey = შ
-
+permission-dialog =
+    .buttonlabelaccept = ცვლილებების შენახვა
+    .buttonaccesskeyaccept = შ
 permissions-autoplay-menu = ნაგულისხმევი ყველა საიტისთვის:
-
 permissions-searchbox =
     .placeholder = საიტის ძიება
-
 permissions-capabilities-autoplay-allow =
     .label = ხმისა და ვიდეოს დაშვება
 permissions-capabilities-autoplay-block =
     .label = ხმის შეზღუდვა
 permissions-capabilities-autoplay-blockall =
     .label = ხმისა და ვიდეოს შეზღუდვა
-
 permissions-capabilities-allow =
     .label = ნებადართული
 permissions-capabilities-block =
     .label = შეზღუდული
 permissions-capabilities-prompt =
     .label = შეკითხვა ყოველ ჯერზე
-
 permissions-capabilities-listitem-allow =
     .value = ნებადართული
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = ნებადართული საიტები – დამატებების დაყენება
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება დამატებების ჩადგმა. აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
