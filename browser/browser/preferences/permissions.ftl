@@ -5,66 +5,53 @@
 permissions-window =
     .title = Izjeme
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Naslov spletne strani
     .accesskey = N
-
 permissions-block =
     .label = Prepovej
     .accesskey = r
-
 permissions-session =
     .label = Dovoli v tej seji
     .accesskey = S
-
 permissions-allow =
     .label = Dovoli
     .accesskey = D
-
 permissions-site-name =
     .label = Spletna stran
-
 permissions-status =
     .label = Stanje
-
 permissions-remove =
     .label = Odstrani spletno stran
     .accesskey = O
-
 permissions-remove-all =
     .label = Odstrani vse spletne strani
     .accesskey = v
-
 permissions-button-cancel =
     .label = Prekliči
     .accesskey = P
-
 permissions-button-ok =
     .label = Shrani spremembe
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Shrani spremembe
+    .buttonaccesskeyaccept = S
 permissions-autoplay-menu = Privzeto za vse spletne strani:
-
 permissions-searchbox =
     .placeholder = Išči po spletni strani
-
 permissions-capabilities-autoplay-allow =
     .label = Dovoli zvok in video
 permissions-capabilities-autoplay-block =
     .label = Zavrni zvok
 permissions-capabilities-autoplay-blockall =
     .label = Zavrni zvok in video
-
 permissions-capabilities-allow =
     .label = Dovoli
 permissions-capabilities-block =
     .label = Prepovej
 permissions-capabilities-prompt =
     .label = Vedno vprašaj
-
 permissions-capabilities-listitem-allow =
     .value = Dovoli
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Dovoljene spletne strani – Namestitev dodatkov
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati dodatke. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
