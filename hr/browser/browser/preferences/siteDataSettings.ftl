@@ -30,6 +30,9 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Spremi izmjene
     .accesskey = S
+site-data-settings-dialog =
+    .buttonlabelaccept = Spremi izmjene
+    .buttonaccesskeyaccept = S
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
