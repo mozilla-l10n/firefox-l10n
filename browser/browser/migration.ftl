@@ -54,6 +54,8 @@ import-source-page-title = Nhập cài đặt và dữ liệu
 import-items-page-title = Các mục cần nhập
 import-items-description = Chọn các mục để nhập:
 import-permissions-page-title = Vui lòng cấp quyền cho { -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS yêu cầu bạn cho phép { -brand-short-name } truy cập vào các trang đánh dấu của Safari. Nhấp vào “Tiếp tục” và chọn tệp “Bookmarks.plist” trong bảng Mở tệp.
 import-migrating-page-title = Đang nhập…
 import-migrating-description = Các mục sau đang được nhập…
 import-select-profile-page-title = Chọn Hồ Sơ
