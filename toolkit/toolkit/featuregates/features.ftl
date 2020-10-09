@@ -99,3 +99,7 @@ experimental-features-webrtc-global-mute-toggles-description = Adicionar control
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Ativa o Warp, um projeto para melhorar a performance do JavaScript e utilização de memória.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (isolamento de sites)
+experimental-features-fission-description = O Fission (isolamento de sites) é um recurso experimental do { -brand-short-name } para fornecer uma camada adicional de defesa contra problemas de segurança. Ao isolar cada site num processo independente, o Fission torna mais difícil aos sites maliciosos obter acesso às informações de outras páginas que você esteja a visitar. Esta é uma grande mudança da arquitetura do { -brand-short-name } e agradecemos que teste e reporte quaisquer problemas que possa encontrar. Para obter mais detalhes, consulte <a data-l10n-name="wiki">a wiki</a>.
