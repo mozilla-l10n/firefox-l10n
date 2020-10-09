@@ -29,6 +29,8 @@ search-input-box =
            *[other] חיפוש בהעדפות
         }
 managed-notice = הדפדפן שלך מנוהל על־ידי הארגון שלך.
+category-list =
+    .aria-label = קטגוריות
 pane-general-title = כללי
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = אתרים מובילים
 home-prefs-topsites-description = האתרים בהם ביקרת הכי הרבה
+home-prefs-topsites-by-option-sponsored =
+    .label = אתרים מובילים ממומנים
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
