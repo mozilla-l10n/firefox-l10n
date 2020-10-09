@@ -5,66 +5,53 @@
 permissions-window =
     .title = Excepcions
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreça del site web
     .accesskey = d
-
 permissions-block =
     .label = Blocar
     .accesskey = B
-
 permissions-session =
     .label = Autorizar pendent la session
     .accesskey = s
-
 permissions-allow =
     .label = Autorizar
     .accesskey = A
-
 permissions-site-name =
     .label = Site web
-
 permissions-status =
     .label = Estat
-
 permissions-remove =
     .label = Suprimir lo site web
     .accesskey = S
-
 permissions-remove-all =
     .label = Suprimir totes los sites web
     .accesskey = e
-
 permissions-button-cancel =
     .label = Anullar
     .accesskey = A
-
 permissions-button-ok =
     .label = Enregistrar las modificacions
     .accesskey = E
-
+permission-dialog =
+    .buttonlabelaccept = Enregistrar las modificacions
+    .buttonaccesskeyaccept = E
 permissions-autoplay-menu = Per defaut per tose los sites web :
-
 permissions-searchbox =
     .placeholder = Recercar un site web
-
 permissions-capabilities-autoplay-allow =
     .label = Autorizar l’àudio e la vidèo
 permissions-capabilities-autoplay-block =
     .label = Blocar l’àudio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l’àudio e la vidèo
-
 permissions-capabilities-allow =
     .label = Autorizar
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Totjorn demandar
-
 permissions-capabilities-listitem-allow =
     .value = Autorizar
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Sites web autorizats - Moduls complementaris
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz a installar de moduls complementaris. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
