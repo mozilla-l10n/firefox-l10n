@@ -29,6 +29,8 @@ search-input-box =
            *[other] 在首选项中查找
         }
 managed-notice = 您的浏览器正由组织管理。
+category-list =
+    .aria-label = 分类
 pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
