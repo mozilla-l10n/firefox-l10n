@@ -5,57 +5,46 @@
 permissions-window =
     .title = Paltooje
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Ñiiɓirɗe lowre
     .accesskey = d
-
 permissions-block =
     .label = Falo
     .accesskey = F
-
 permissions-session =
     .label = Yamir e Naatol
     .accesskey = N
-
 permissions-allow =
     .label = Yamir
     .accesskey = Y
-
 permissions-site-name =
     .label = Lowre geese
-
 permissions-status =
     .label = Ngonka
-
 permissions-remove =
     .label = Momtu Lowre
     .accesskey = M
-
 permissions-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = e
-
 permissions-button-cancel =
     .label = Haaytu
     .accesskey = H
-
 permissions-button-ok =
     .label = Danndu Bayle
     .accesskey = D
-
+permission-dialog =
+    .buttonlabelaccept = Danndu Bayle
+    .buttonaccesskeyaccept = D
 permissions-searchbox =
     .placeholder = Yiylo e Lowre
-
 permissions-capabilities-allow =
     .label = Yamir
 permissions-capabilities-block =
     .label = Falo
 permissions-capabilities-prompt =
     .label = Naamno Sahaa Kala
-
 permissions-capabilities-listitem-allow =
     .value = Yamir
 permissions-capabilities-listitem-block =
@@ -69,6 +58,7 @@ permissions-invalid-uri-title = Innde Koɗol Naatnangol Moƴƴaani
 permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -98,9 +88,8 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo aaf ɓeyditte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -123,6 +112,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka dow ɗoo ɗaɓɓit-de yamiroore ngam heɓde nokkuure maa. Daaƴde keɓgol nokkuure maa ina waawi helde won e fannuuji lowre ndee.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
