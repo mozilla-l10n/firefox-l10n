@@ -278,6 +278,7 @@ cfr-doorhanger-doh-secondary-button = عطّل
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body = فعّل { -brand-short-name } الميزة التجريبية ”الانشطار/Fission“ (عزل المواقع) لراحتك. تقدّم لك ميزة ”الانشطار“ طبقة حماية إضافية لك وللمواقع التي تزورها ذلك بعزل كل موقع عن غيره في سيرورة منفصلة.
 cfr-doorhanger-fission-header = عزل المواقع
 cfr-doorhanger-fission-primary-button = حسنًا، فهمت
     .accesskey = ح
