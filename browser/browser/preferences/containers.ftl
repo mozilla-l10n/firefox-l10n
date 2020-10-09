@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name }ترجیحات حامل
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = نام
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = وارد کردن نام حامل
-
 containers-icon-label = شمایل
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = رنگ
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = انجام شد
     .accesskey = ا
-
+containers-dialog =
+    .buttonlabelaccept = انجام شد
+    .buttonaccesskeyaccept = ا
 containers-color-blue =
     .label = آبی
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = بنفش
 containers-color-toolbar =
     .label = نوار ابزار مطابقت
-
 containers-icon-fence =
     .label = حصار
 containers-icon-fingerprint =
