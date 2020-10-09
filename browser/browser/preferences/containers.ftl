@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } kontenerfoarkarren
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Namme
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Kontenernamme ynfiere
-
 containers-icon-label = Piktogram
     .accesskey = P
     .style = { -containers-labels-style }
-
 containers-color-label = Kleur
     .accesskey = e
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Dien
     .accesskey = D
-
+containers-dialog =
+    .buttonlabelaccept = Dien
+    .buttonaccesskeyaccept = D
 containers-color-blue =
     .label = Blau
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = Pears
 containers-color-toolbar =
     .label = Mei de arkbalke oerien komme litte
-
 containers-icon-fence =
     .label = Stek
 containers-icon-fingerprint =
