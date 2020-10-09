@@ -5,66 +5,53 @@
 permissions-window =
     .title = Wuwześa
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa websedła
     .accesskey = A
-
 permissions-block =
     .label = Blokěrowaś
     .accesskey = B
-
 permissions-session =
     .label = Za pósejźenje dowóliś
     .accesskey = p
-
 permissions-allow =
     .label = Dowóliś
     .accesskey = D
-
 permissions-site-name =
     .label = Websedło
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Websedło wowónoźeś
     .accesskey = w
-
 permissions-remove-all =
     .label = Wšykne websedła wótwónoźeś
     .accesskey = s
-
 permissions-button-cancel =
     .label = Pśetergnuś
     .accesskey = P
-
 permissions-button-ok =
     .label = Změny składowaś
     .accesskey = s
-
+permission-dialog =
+    .buttonlabelaccept = Změny składowaś
+    .buttonaccesskeyaccept = s
 permissions-autoplay-menu = Standard za wšykne websedła:
-
 permissions-searchbox =
     .placeholder = Websedło pytaś
-
 permissions-capabilities-autoplay-allow =
     .label = Awdio a wideo dowóliś
 permissions-capabilities-autoplay-block =
     .label = Awdio blokěrowaś
 permissions-capabilities-autoplay-blockall =
     .label = Awdio a wideo blokěrowaś
-
 permissions-capabilities-allow =
     .label = Dowóliś
 permissions-capabilities-block =
     .label = Blokěrowaś
 permissions-capabilities-prompt =
     .label = Pśecej se pšašaś
-
 permissions-capabilities-listitem-allow =
     .value = Dowóliś
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Dowólone sedła - Instalacija dodankow
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju dodanki instalěrowaś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
