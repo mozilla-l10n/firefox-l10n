@@ -5,36 +5,29 @@
 translation-window =
     .title = Paltooje - Firo
     .style = width: 36em
-
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Ɗee ɗemɗe ndokketaake firo
-
 translation-languages-column =
     .label = Ɗemɗe
-
 translation-languages-button-remove =
     .label = Momtu Ɗemngal
     .accesskey = M
-
 translation-languages-button-remove-all =
     .label = Momtu Ɗemɗe Kala
     .accesskey = o
-
 translation-sites-disabled-desc = Ɗee ɗemɗe ndokketaake firo
-
 translation-sites-column =
     .label = Lowe
-
 translation-sites-button-remove =
     .label = Momtu Lowre
     .accesskey = L
-
 translation-sites-button-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = o
-
 translation-button-close =
     .label = Uddu
     .accesskey = U
+translation-dialog =
+    .buttonlabelaccept = Uddu
+    .buttonaccesskeyaccept = U
