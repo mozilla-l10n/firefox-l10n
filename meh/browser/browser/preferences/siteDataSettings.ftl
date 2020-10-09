@@ -30,6 +30,9 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Chuva´a nsama
     .accesskey = C
+site-data-settings-dialog =
+    .buttonlabelaccept = Chuva´a nsama
+    .buttonaccesskeyaccept = C
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

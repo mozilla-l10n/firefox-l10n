@@ -46,3 +46,6 @@ clear-site-data-cancel =
 clear-site-data-clear =
     .label = Sno
     .accesskey = l
+clear-site-data-dialog =
+    .buttonlabelaccept = Sno
+    .buttonaccesskeyaccept = l
