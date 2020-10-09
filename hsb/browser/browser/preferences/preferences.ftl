@@ -29,6 +29,8 @@ search-input-box =
            *[other] W nastajenjach pytać
         }
 managed-notice = Waš wobhladowka so wot wašeje organizacije rjaduje.
+category-list =
+    .aria-label = Kategorije
 pane-general-title = Powšitkowny
 category-general =
     .tooltiptext = { pane-general-title }
