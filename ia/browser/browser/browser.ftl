@@ -293,6 +293,7 @@ identity-https-only-dropdown-off =
     .label = Disactivar
 identity-https-only-dropdown-off-temporarily =
     .label = Disactivar temporarimente
+identity-https-only-info-turn-on = Activa si tu vole promover { -brand-short-name } a un connexion secur quando possibile.
 identity-permissions =
     .value = Permissiones
 identity-permissions-reload-hint = Il es possibile que tu debe recargar le pagina pro que le cambios se applica.

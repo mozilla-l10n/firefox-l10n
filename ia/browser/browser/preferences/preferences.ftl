@@ -29,6 +29,8 @@ search-input-box =
            *[other] Cercar in le preferentias
         }
 managed-notice = Tu navigator debe ser gerite per tu organisation.
+category-list =
+    .aria-label = Categorias
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
