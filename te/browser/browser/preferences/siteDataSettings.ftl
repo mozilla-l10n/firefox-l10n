@@ -29,6 +29,9 @@ site-data-button-cancel =
 site-data-button-save =
     .label = మార్పులను భద్రపరచు
     .accesskey = a
+site-data-settings-dialog =
+    .buttonlabelaccept = మార్పులను భద్రపరచు
+    .buttonaccesskeyaccept = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
