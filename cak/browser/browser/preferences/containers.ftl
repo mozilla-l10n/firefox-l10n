@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } taq rajowab'al k'wayöl
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = B'i'aj
     .accesskey = B
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Tatz'ib'aj jun rub'i' k'wayöl
-
 containers-icon-label = Wachib'äl
     .accesskey = W
     .style = { -containers-labels-style }
-
 containers-color-label = B'onil
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Xk'is
     .accesskey = X
-
+containers-dialog =
+    .buttonlabelaccept = Xk'is
+    .buttonaccesskeyaccept = X
 containers-color-blue =
     .label = Xar
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = Purpura'
 containers-color-toolbar =
     .label = Titun ri rukajtz'ik samajib'äl
-
 containers-icon-fence =
     .label = Tik'ojöx
 containers-icon-fingerprint =
