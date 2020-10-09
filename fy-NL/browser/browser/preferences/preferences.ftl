@@ -29,6 +29,8 @@ search-input-box =
            *[other] Fyn yn Foarkarren
         }
 managed-notice = Jo browser wurdt troch jo organisaasje beheard.
+category-list =
+    .aria-label = Kategoryen
 pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
