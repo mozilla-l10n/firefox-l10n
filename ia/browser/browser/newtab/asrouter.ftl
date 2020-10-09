@@ -251,6 +251,8 @@ cfr-doorhanger-doh-secondary-button = Disactivar
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body = { -brand-short-name } ha activate un functionalitate experimental: Fission (isolamento sito) pro te. Isolante cata sito in un processo differente, Fission offere un altere strato de securitate pro te e le sitos web que tu visita.
+cfr-doorhanger-fission-header = Isolamento sito
 cfr-doorhanger-fission-primary-button = De accordo
     .accesskey = a
 cfr-doorhanger-fission-secondary-button = Saper plus
