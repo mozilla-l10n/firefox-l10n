@@ -254,6 +254,14 @@ cfr-doorhanger-doh-primary-button = Rendben, értem
 cfr-doorhanger-doh-secondary-button = Letiltás
     .accesskey = t
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = Oldalak elkülönítése
+cfr-doorhanger-fission-primary-button = Rendben, értem
+    .accesskey = R
+cfr-doorhanger-fission-secondary-button = További tudnivalók
+    .accesskey = T
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatikus védelem az alattomos követési taktikákkal szemben

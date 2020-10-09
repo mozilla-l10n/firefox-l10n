@@ -29,6 +29,8 @@ search-input-box =
            *[other] Keresés a beállításokban
         }
 managed-notice = A böngészőjét a szervezete kezeli.
+category-list =
+    .aria-label = Kategóriák
 pane-general-title = Általános
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Népszerű oldalak
 home-prefs-topsites-description = A leggyakrabban látogatott oldalak
+home-prefs-topsites-by-option-sponsored =
+    .label = Szponzorált legjobb oldalak
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
