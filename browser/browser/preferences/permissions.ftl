@@ -5,66 +5,53 @@
 permissions-window =
     .title = الاستثناءات
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = عنوان موقع وِب
     .accesskey = و
-
 permissions-block =
     .label = احجب
     .accesskey = ح
-
 permissions-session =
     .label = اسمح لهذه الجلسة
     .accesskey = ج
-
 permissions-allow =
     .label = اسمح
     .accesskey = س
-
 permissions-site-name =
     .label = موقع الوِب
-
 permissions-status =
     .label = الحالة
-
 permissions-remove =
     .label = احذف موقع الوِب
     .accesskey = ح
-
 permissions-remove-all =
     .label = احذف كل مواقع الوِب
     .accesskey = ذ
-
 permissions-button-cancel =
     .label = ألغِ
     .accesskey = ل
-
 permissions-button-ok =
     .label = احفظ التغييرات
     .accesskey = ح
-
+permission-dialog =
+    .buttonlabelaccept = احفظ التغييرات
+    .buttonaccesskeyaccept = ح
 permissions-autoplay-menu = المبدئي للمواقع كافة:
-
 permissions-searchbox =
     .placeholder = ابحث عن موقع
-
 permissions-capabilities-autoplay-allow =
     .label = اسمح بالصوت والڤِديو
 permissions-capabilities-autoplay-block =
     .label = احجب الصوت
 permissions-capabilities-autoplay-blockall =
     .label = احجب الصوت والڤِديو
-
 permissions-capabilities-allow =
     .label = اسمح
 permissions-capabilities-block =
     .label = احجب
 permissions-capabilities-prompt =
     .label = اسأل دائمًا
-
 permissions-capabilities-listitem-allow =
     .value = اسمح
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = مواقع الوِب المسموح لها - تنصيب الإضافات
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتنصيب إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
