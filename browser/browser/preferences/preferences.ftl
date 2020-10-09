@@ -29,6 +29,8 @@ search-input-box =
            *[other] Zoeken in voorkeuren
         }
 managed-notice = Uw browser wordt door uw organisatie beheerd.
+category-list =
+    .aria-label = Categorieën
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
