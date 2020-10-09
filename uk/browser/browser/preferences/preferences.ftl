@@ -29,6 +29,8 @@ search-input-box =
            *[other] Знайти в налаштуваннях
         }
 managed-notice = Вашим браузером керує ваша організація.
+category-list =
+    .aria-label = Категорії
 pane-general-title = Загальні
 category-general =
     .tooltiptext = { pane-general-title }
