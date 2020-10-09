@@ -20,6 +20,20 @@ list-empty-find-updates =
     .label = التمس التحديثات
 list-empty-button =
     .label = اعرف المزيد عن الإضافات
+help-button = دعم الإضافات
+sidebar-help-button-title =
+    .title = دعم الإضافات
+preferences =
+    { PLATFORM() ->
+        [windows] خيارات { -brand-short-name }
+       *[other] تفضيلات { -brand-short-name }
+    }
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] خيارات { -brand-short-name }
+           *[other] تفضيلات { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = تعذّر التحقق من بعض الامتدادات
 show-all-extensions-button =
@@ -59,6 +73,9 @@ detail-version =
 detail-last-updated =
     .label = آخر تحديث
 detail-contributions-description = يطلب منك مطوّر هذه الإضافة مساعدته بدعم استمرار تطوير هذا العمل من خلال تبرع صغير منك.
+detail-contributions-button = ساهِم
+    .title = ساهِم بتطويل هذه الإضافة
+    .accesskey = س
 detail-update-type =
     .value = التحديثات التلقائية
 detail-update-default =
@@ -207,7 +224,17 @@ shortcuts-no-addons = ليس لديك أيّ امتدادات مفعّلة.
 shortcuts-no-commands = لا اختصارات للامتدادات الآتية:
 shortcuts-input =
     .placeholder = اكتب اختصارًا
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = يُستعمل { $shortcut } كاختصار في أكثر من إجراء واحد. قد تؤدي الاختصارات المتكررة إلى سلوك لا تتوقعه.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = تستخدمه { $addon } بالفعل
 shortcuts-card-collapse-button = اعرض أقل
+header-back-button =
+    .title = عُد للسابق
 
 ## Recommended add-ons page
 
