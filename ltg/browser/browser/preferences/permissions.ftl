@@ -5,57 +5,46 @@
 permissions-window =
     .title = Izjāmumi
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Sātys lopys adress
     .accesskey = d
-
 permissions-block =
     .label = Blokeit
     .accesskey = B
-
 permissions-session =
     .label = Atļaut tikai ituos sesejis laikā
     .accesskey = s
-
 permissions-allow =
     .label = Atļaut
     .accesskey = A
-
 permissions-site-name =
     .label = Sātys lopa
-
 permissions-status =
     .label = Statuss
-
 permissions-remove =
     .label = Aizvuokt lopu
     .accesskey = z
-
 permissions-remove-all =
     .label = Aizvuokt vysys lopys
     .accesskey = k
-
 permissions-button-cancel =
     .label = Atceļt
     .accesskey = c
-
 permissions-button-ok =
     .label = Saglobuot izmaiņis
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Saglobuot izmaiņis
+    .buttonaccesskeyaccept = S
 permissions-searchbox =
     .placeholder = Mekleit lopys
-
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Blokeit
 permissions-capabilities-prompt =
     .label = Vīnmār vaicuot
-
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
@@ -69,6 +58,7 @@ permissions-invalid-uri-title = Īvadeits nadereigs resursdatora nūsaukums
 permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -98,9 +88,8 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir atļauts instaleit papyldynuojums. Īrkostit precizu lopys adresu, nu kurys vālotīs atļaut papyldynuojumu instaliešonu, i nūspidit Atļaut.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -123,6 +112,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovai acarašonas vītai. Bloķiešona pīejai acarašonas vītai var samaitōt daļi nu lopys funkcionalitates.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
