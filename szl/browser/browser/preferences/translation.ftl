@@ -5,36 +5,29 @@
 translation-window =
     .title = Wyjōntki - Przekłodanie
     .style = width: 36em
-
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Do tych godek niy bydōm propōnowane przekłady
-
 translation-languages-column =
     .label = Godki
-
 translation-languages-button-remove =
     .label = Wyciep godka
     .accesskey = W
-
 translation-languages-button-remove-all =
     .label = Wyciep wszyskie godki
     .accesskey = w
-
 translation-sites-disabled-desc = Do tych strōn niy bydōm propōnowane przekłady
-
 translation-sites-column =
     .label = Strōny
-
 translation-sites-button-remove =
     .label = Wyciep strōna
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = Wyciep wszyskie strōny
     .accesskey = s
-
 translation-button-close =
     .label = Zawrzij
     .accesskey = Z
+translation-dialog =
+    .buttonlabelaccept = Zawrzij
+    .buttonaccesskeyaccept = Z
