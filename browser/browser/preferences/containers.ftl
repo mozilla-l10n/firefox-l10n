@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = Indstillinger for konteksten { $name }
     .style = width: 33em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Navn
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Indtast et navn til konteksten
-
 containers-icon-label = Ikon
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Farve
     .accesskey = a
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Færdig
     .accesskey = F
-
+containers-dialog =
+    .buttonlabelaccept = Færdig
+    .buttonaccesskeyaccept = F
 containers-color-blue =
     .label = Blå
 containers-color-turquoise =
@@ -60,13 +55,10 @@ containers-color-pink =
     .label = Pink
 containers-color-purple =
     .label = Lilla
-
 containers-color-toolbar =
     .label = Match værktøjslinje
-
 containers-icon-fence =
     .label = Hegn
-
 containers-icon-fingerprint =
     .label = Fingeraftryk
 containers-icon-briefcase =
