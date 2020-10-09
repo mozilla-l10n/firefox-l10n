@@ -30,4 +30,4 @@ translation-button-close =
     .accesskey = L
 translation-dialog =
     .buttonlabelaccept = Lukk
-    .buttonaccesskeyaccept = L
+    .buttonaccesskeyaccept = u
