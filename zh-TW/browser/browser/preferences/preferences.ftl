@@ -29,6 +29,8 @@ search-input-box =
            *[other] 在偏好設定中尋找
         }
 managed-notice = 您的瀏覽器受到組織管理。
+category-list =
+    .aria-label = 分類
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
