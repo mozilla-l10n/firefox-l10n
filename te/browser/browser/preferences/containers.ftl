@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } కంటెయినరు అభిరుచులు
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = పేరు
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = కంటెయినరు పేరును ఇవ్వండి
-
 containers-icon-label = ప్రతీకం
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = రంగు
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = పూర్తయింది
     .accesskey = D
-
+containers-dialog =
+    .buttonlabelaccept = పూర్తయింది
+    .buttonaccesskeyaccept = D
 containers-color-blue =
     .label = నీలం
 containers-color-turquoise =
@@ -60,7 +55,6 @@ containers-color-pink =
     .label = గులాబి
 containers-color-purple =
     .label = ఊదా
-
 containers-icon-fingerprint =
     .label = వేలిముద్ర
 containers-icon-briefcase =
