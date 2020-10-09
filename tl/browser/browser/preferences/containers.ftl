@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } Container Preferences
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Pangalan
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Magbigay ng pangalan ng container
-
 containers-icon-label = Icon
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Kulay
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Tapusin
     .accesskey = D
-
+containers-dialog =
+    .buttonlabelaccept = Tapusin
+    .buttonaccesskeyaccept = D
 containers-color-blue =
     .label = Asul
 containers-color-turquoise =
@@ -62,7 +57,6 @@ containers-color-purple =
     .label = Lila
 containers-color-toolbar =
     .label = Itugma ang toolbar
-
 containers-icon-fence =
     .label = Bakod
 containers-icon-fingerprint =
