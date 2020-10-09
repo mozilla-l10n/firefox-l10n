@@ -15,6 +15,9 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = మార్పులను భద్రపరచు
     .accesskey = S
+blocklist-dialog =
+    .buttonlabelaccept = మార్పులను భద్రపరచు
+    .buttonaccesskeyaccept = S
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
