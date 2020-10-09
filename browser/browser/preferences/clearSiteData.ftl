@@ -49,5 +49,5 @@ clear-site-data-clear =
     .label = Fjern
     .accesskey = F
 clear-site-data-dialog =
-    .buttonlabelaccept = Fjern
-    .buttonaccesskeyaccept = F
+    .buttonlabelaccept = Tøm
+    .buttonaccesskeyaccept = T
