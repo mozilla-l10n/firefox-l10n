@@ -5,66 +5,53 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Site adresi
     .accesskey = d
-
 permissions-block =
     .label = Engelle
     .accesskey = E
-
 permissions-session =
     .label = Oturum boyunca izin ver
     .accesskey = r
-
 permissions-allow =
     .label = İzin ver
     .accesskey = z
-
 permissions-site-name =
     .label = Web sitesi
-
 permissions-status =
     .label = Durum
-
 permissions-remove =
     .label = Siteyi sil
     .accesskey = S
-
 permissions-remove-all =
     .label = Tüm siteleri sil
     .accesskey = e
-
 permissions-button-cancel =
     .label = Vazgeç
     .accesskey = a
-
 permissions-button-ok =
     .label = Değişiklikleri kaydet
     .accesskey = D
-
+permission-dialog =
+    .buttonlabelaccept = Değişiklikleri kaydet
+    .buttonaccesskeyaccept = D
 permissions-autoplay-menu = Tüm web siteler için varsayılan:
-
 permissions-searchbox =
     .placeholder = Web sitesi ara
-
 permissions-capabilities-autoplay-allow =
     .label = Ses ve videoya izin ver
 permissions-capabilities-autoplay-block =
     .label = Sesi engelle
 permissions-capabilities-autoplay-blockall =
     .label = Ses ve videoyu engelle
-
 permissions-capabilities-allow =
     .label = İzin ver
 permissions-capabilities-block =
     .label = Engelle
 permissions-capabilities-prompt =
     .label = Her zaman sor
-
 permissions-capabilities-listitem-allow =
     .value = İzin ver
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = İzin Verilen Siteler - Eklenti Yükleme
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Hangi sitelerin eklenti yükleyebileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
