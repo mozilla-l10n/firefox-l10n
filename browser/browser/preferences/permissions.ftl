@@ -5,66 +5,53 @@
 permissions-window =
     .title = ข้อยกเว้น
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ที่อยู่เว็บไซต์
     .accesskey = ท
-
 permissions-block =
     .label = ปิดกั้น
     .accesskey = ป
-
 permissions-session =
     .label = อนุญาตในวาระ
     .accesskey = น
-
 permissions-allow =
     .label = อนุญาต
     .accesskey = อ
-
 permissions-site-name =
     .label = เว็บไซต์
-
 permissions-status =
     .label = สถานะ
-
 permissions-remove =
     .label = เอาเว็บไซต์ออก
     .accesskey = อ
-
 permissions-remove-all =
     .label = เอาเว็บไซต์ทั้งหมดออก
     .accesskey = ว
-
 permissions-button-cancel =
     .label = ยกเลิก
     .accesskey = ย
-
 permissions-button-ok =
     .label = บันทึกการเปลี่ยนแปลง
     .accesskey = บ
-
+permission-dialog =
+    .buttonlabelaccept = บันทึกการเปลี่ยนแปลง
+    .buttonaccesskeyaccept = บ
 permissions-autoplay-menu = ค่าเริ่มต้นสำหรับเว็บไซต์ทั้งหมด:
-
 permissions-searchbox =
     .placeholder = ค้นหาเว็บไซต์
-
 permissions-capabilities-autoplay-allow =
     .label = อนุญาตเสียงและวิดีโอ
 permissions-capabilities-autoplay-block =
     .label = ปิดกั้นเสียง
 permissions-capabilities-autoplay-blockall =
     .label = ปิดกั้นเสียงและวิดีโอ
-
 permissions-capabilities-allow =
     .label = อนุญาต
 permissions-capabilities-block =
     .label = ปิดกั้น
 permissions-capabilities-prompt =
     .label = ถามเสมอ
-
 permissions-capabilities-listitem-allow =
     .value = อนุญาต
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = เว็บไซต์ที่อนุญาต - การติดตั้งส่วนเสริม
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้ติดตั้งส่วนเสริม พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
