@@ -7,11 +7,9 @@
 
 site-data-settings-window =
     .title = کوکیزوں اور سائٹ کے کواِئف کو منظم کریں
-
 site-data-search-textbox =
     .placeholder = ویبسائٹ تلاش کریں
     .accesskey = S
-
 site-data-column-host =
     .label = سائٹ
 site-data-column-cookies =
@@ -20,32 +18,28 @@ site-data-column-storage =
     .label = ذخیرہ
 site-data-column-last-used =
     .label = آخری استعمال
-
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (مقامی فائل)
-
 site-data-remove-selected =
     .label = نبتخب شدہ ہٹائیں
     .accesskey = R
-
 site-data-button-cancel =
     .label = منسوخ کریں
     .accesskey = C
-
 site-data-button-save =
     .label = تبدیلیاں محفوظ کریں
     .accesskey = a
-
+site-data-settings-dialog =
+    .buttonlabelaccept = تبدیلیاں محفوظ کریں
+    .buttonaccesskeyaccept = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
-
 site-data-remove-all =
     .label = تمام ہٹائیں
     .accesskey = e
-
 site-data-remove-shown =
     .label = تمام دکھایا ہوا ہٹائیں
     .accesskey = e
@@ -55,7 +49,5 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ہٹائیں
-
 site-data-removing-header = کوکیز اور سائٹ کوائف ہٹا رہے ہیں
-
 site-data-removing-table = درج ذیل ویب سائٹوں کیلئے کوکیز اور سائٹ کا ڈیٹا ختم کردیا جائے گا
