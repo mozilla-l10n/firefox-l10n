@@ -5,57 +5,46 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Ağ-saytı adresi
     .accesskey = d
-
 permissions-block =
     .label = Blokla
     .accesskey = B
-
 permissions-session =
     .label = Oturım içün İzin Ber
     .accesskey = O
-
 permissions-allow =
     .label = İzin Ber
     .accesskey = z
-
 permissions-site-name =
     .label = Ağ-saytı
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Saytnı Çetleştir
     .accesskey = S
-
 permissions-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
     .accesskey = e
-
 permissions-button-cancel =
     .label = Vazgeç
     .accesskey = z
-
 permissions-button-ok =
     .label = Deñişikliklerni Saqla
     .accesskey = S
-
+permission-dialog =
+    .buttonlabelaccept = Deñişikliklerni Saqla
+    .buttonaccesskeyaccept = S
 permissions-searchbox =
     .placeholder = Ağ-saytı Qıdır
-
 permissions-capabilities-allow =
     .label = İzin Ber
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Er Zaman Sora
-
 permissions-capabilities-listitem-allow =
     .value = İzin Ber
 permissions-capabilities-listitem-block =
@@ -69,6 +58,7 @@ permissions-invalid-uri-title = Keçersiz Qonaqbay-İsmi Kirsetildi
 permissions-invalid-uri-label = Lütfen keçerli bir qonaqbay-ismi kirsetiñiz
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -98,9 +88,8 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Qaysı ağ-saytlarına eklentiler qurmağa izin berilgenini belirtebilirsiñiz. İzin bermege istegeniñiz saytnıñ tam adresini kirsetiñiz ve ondan soñ İzin Ber çertiñiz.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -123,6 +112,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Bu, yuqarıda listelenmegen ağ-saytlarınıñ hepisiniñ qonumıñızğa irişme ruhsetini rica etmesini öñleycek. Qonumıñızğa irişimniñ bloklanması belki bazı sayt hususiyetlerini qırar.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
