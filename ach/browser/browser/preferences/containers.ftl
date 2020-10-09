@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = Ter me lamak jami pa { $name }
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nying
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Ket nying lamak jami
-
 containers-icon-label = Cal
     .accesskey = C
     .style = { -containers-labels-style }
-
 containers-color-label = Rangi
     .accesskey = a
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Otum
     .accesskey = O
-
+containers-dialog =
+    .buttonlabelaccept = Otum
+    .buttonaccesskeyaccept = O
 containers-color-blue =
     .label = Buluu
 containers-color-turquoise =
@@ -60,7 +55,6 @@ containers-color-pink =
     .label = Ping
 containers-color-purple =
     .label = Papul
-
 containers-icon-fingerprint =
     .label = Keto cing
 containers-icon-briefcase =
