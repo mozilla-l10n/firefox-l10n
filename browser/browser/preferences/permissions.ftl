@@ -5,66 +5,53 @@
 permissions-window =
     .title = Wyjątki
     .style = width: 35em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adres witryny:
     .accesskey = s
-
 permissions-block =
     .label = Blokuj
     .accesskey = B
-
 permissions-session =
     .label = Zezwalaj na czas sesji
     .accesskey = c
-
 permissions-allow =
     .label = Zezwalaj
     .accesskey = Z
-
 permissions-site-name =
     .label = Witryna
-
 permissions-status =
     .label = Stan
-
 permissions-remove =
     .label = Usuń witrynę
     .accesskey = U
-
 permissions-remove-all =
     .label = Usuń wszystkie witryny
     .accesskey = w
-
 permissions-button-cancel =
     .label = Anuluj
     .accesskey = A
-
 permissions-button-ok =
     .label = Zachowaj
     .accesskey = h
-
+permission-dialog =
+    .buttonlabelaccept = Zachowaj
+    .buttonaccesskeyaccept = h
 permissions-autoplay-menu = Domyślne dla wszystkich witryn:
-
 permissions-searchbox =
     .placeholder = Szukaj witryn
-
 permissions-capabilities-autoplay-allow =
     .label = zezwalanie na dźwięk i wideo
 permissions-capabilities-autoplay-block =
     .label = blokowanie dźwięku
 permissions-capabilities-autoplay-blockall =
     .label = blokowanie dźwięku i wideo
-
 permissions-capabilities-allow =
     .label = zezwalaj
 permissions-capabilities-block =
     .label = blokuj
 permissions-capabilities-prompt =
     .label = zawsze pytaj
-
 permissions-capabilities-listitem-allow =
     .value = zezwalaj
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Instalacja dodatków — uprawnione witryny
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Określ, które witryny mogą instalować dodatki. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
