@@ -29,6 +29,8 @@ search-input-box =
            *[other] In Einstellungen suchen
         }
 managed-notice = Der Browser wird durch Ihre Organisation verwaltet.
+category-list =
+    .aria-label = Kategorien
 pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
