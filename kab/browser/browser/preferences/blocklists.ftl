@@ -5,22 +5,20 @@
 blocklist-window =
     .title = Tibdarin n usewḥel
     .style = width: 55em
-
 blocklist-description = Fren aseqdec n tebdert { -brand-short-name } i usewḥel n yineḍfaren srid. Tibdarin i d-yettwanefken sɣur <a data-l10n-name="disconnect-link" title="Disconnect">Ffeɣ</a>.
 blocklist-close-key =
     .key = w
-
 blocklist-treehead-list =
     .label = Tabdart
-
 blocklist-button-cancel =
     .label = Sefsex
     .accesskey = S
-
 blocklist-button-ok =
     .label = Sekles asnifel
     .accesskey = S
-
+blocklist-dialog =
+    .buttonlabelaccept = Sekles asnifel
+    .buttonaccesskeyaccept = S
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -29,7 +27,6 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-
 blocklist-item-moz-std-listName = Tabdert n usewḥel n uswir 1 (Awelleh).
 blocklist-item-moz-std-description = Ad yeǧǧ kra n yineḍfaṛen akken drus kan n yismal ur nteddu ara akken iwata.
 blocklist-item-moz-full-listName = Tabdert n usewḥel aswir 2.
