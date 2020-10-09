@@ -54,6 +54,8 @@ import-source-page-title = Importer innstillinger og data
 import-items-page-title = Elementer som skal importeres
 import-items-description = Velg hvilke elementer som skal importeres:
 import-permissions-page-title = Gi { -brand-short-name } tillatelser
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS krever at du eksplisitt gir { -brand-short-name } tilgang til Safaris bokmerker. Klikk på «Fortsett» og velg «Bookmarks.plist»-filen i Åpne fil-panelet som vises.
 import-migrating-page-title = Importerer …
 import-migrating-description = Følgende elementer blir nå importert …
 import-select-profile-page-title = Velg profil
