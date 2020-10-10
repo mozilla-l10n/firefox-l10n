@@ -212,7 +212,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 今回だけ使う検索エンジン:
 # This string won't wrap, so if the translated string is longer,
@@ -409,6 +409,7 @@ urlbar-page-action-button =
 urlbar-pocket-button =
     .tooltiptext = { -pocket-brand-name } に保存
 
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
@@ -432,13 +433,24 @@ urlbar-result-action-visit = 開く
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = ブックマークを検索
+urlbar-result-action-search-history = 履歴を検索
+urlbar-result-action-search-tabs = タブを検索
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = アドレスバーから直接 { $engine } で検索
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = アドレスバーから直接 { $engine } を検索
 
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> は現在フルスクリーンモードです。
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> は現在全画面表示モードです。
 fullscreen-warning-no-domain = このページは現在フルスクリーンモードです。
 fullscreen-exit-button = フルスクリーンモードを終了 (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
