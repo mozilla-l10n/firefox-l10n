@@ -54,6 +54,8 @@ import-source-page-title = Mag-import ng mga Setting at Data
 import-items-page-title = Mga item na Iimport
 import-items-description = Pumili kung aling item ang i-import:
 import-permissions-page-title = Pakibigyan ng pahintulot ang { -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = Inoobliga ka ng macOS na lantarang pahintulutan ang { -brand-short-name } para ma-access ang mga bookmark sa Safari. Pindutin ang “Magpatuloy” at piliin ang file na “Bookmarks.plist” sa File Open panel na magpapakita.
 import-migrating-page-title = Ini-import...
 import-migrating-description = Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat
 import-select-profile-page-title = Piliin ang Profile

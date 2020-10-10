@@ -491,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Mga Pangunahing Site
 home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
+home-prefs-topsites-by-option-sponsored =
+    .label = Mga Pangunahing Site ng mga Sponsor
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
