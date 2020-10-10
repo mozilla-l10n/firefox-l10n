@@ -440,7 +440,7 @@ browsing-cfr-recommendations-learn-more = Alamin pa
 
 network-settings-title = Mga Network Setting
 network-proxy-connection-description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
-network-proxy-connection-learn-more = Matuto ng higit pa
+network-proxy-connection-learn-more = Alamin
 network-proxy-connection-settings =
     .label = Mga Setting…
     .accesskey = e
@@ -485,12 +485,12 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Makikita sa Home ng Firefox
-home-prefs-content-description = Piliin kung anong nilalaman ang gusto mo sa iyong screen ng Home ng Firefox.
+home-prefs-content-description = Piliin kung anu-ano ang makikita mong nilalaman sa iyong Firefox Home.
 home-prefs-search-header =
     .label = Paghahanap sa Web
 home-prefs-topsites-header =
     .label = Mga Pangunahing Site
-home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
+home-prefs-topsites-description = Ang mga site na iyong pinakamadalas puntahan
 home-prefs-topsites-by-option-sponsored =
     .label = Mga Pangunahing Site ng mga Sponsor
 
@@ -507,12 +507,12 @@ home-prefs-recommended-by-learn-more = Paano ito gumagana
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Mga Na-sponsor na Kwento
 home-prefs-highlights-header =
-    .label = Mga highlight
+    .label = Mga tampok
 home-prefs-highlights-description = Isang seleksyon ng mga site na iyong nai-save o nabisita
 home-prefs-highlights-option-visited-pages =
-    .label = Mga pahinang binisita
+    .label = Mga Binisitang Pahina
 home-prefs-highlights-options-bookmarks =
-    .label = Mga bookmark
+    .label = Mga Bookmark
 home-prefs-highlights-option-most-recent-download =
     .label = Mga Download Kamakailan
 home-prefs-highlights-option-saved-to-pocket =
@@ -528,14 +528,14 @@ home-prefs-sections-rows-option =
     .label =
         { $num ->
             [one] { $num } hilera
-           *[other] { $num } mga hilera
+           *[other] { $num } hilera
         }
 
 ## Search Section
 
 search-bar-header = Search Bar
 search-bar-hidden =
-    .label = Gamitin ang address bar para sa paghahanap at pag-navigate
+    .label = Gamitin ang address bar para sa paghahanap at paglibot
 search-bar-shown =
     .label = Idagdag ang search bar sa toolbar
 search-engine-default-header = Default na Search Engine
@@ -635,8 +635,8 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Pamahalaan ang account
     .accesskey = o
-sync-signedin-unverified = { $email } ay hindi napatunayan.
-sync-signedin-login-failure = Mangyaring mag-sign in upang makipagkonek muli { $email }
+sync-signedin-unverified = Hindi pa verified ang { $email }.
+sync-signedin-login-failure = Mangyaring mag-sign in upang maikonekta uli ang { $email }
 sync-resend-verification =
     .label = Ipadala muli ang Beripikasyon
     .accesskey = d
@@ -666,7 +666,7 @@ sync-currently-syncing-heading = Kasalukuyan kang nagsi-sync ng mga sumusunod:
 sync-currently-syncing-bookmarks = Mga Bookmark
 sync-currently-syncing-history = Kasaysayan
 sync-currently-syncing-tabs = Mga nakabukas na tab
-sync-currently-syncing-logins-passwords = Mga Login at Password
+sync-currently-syncing-logins-passwords = Mga login at password
 sync-currently-syncing-addresses = Mga tirahan
 sync-currently-syncing-creditcards = Mga Credit Card
 sync-currently-syncing-addons = Mga Add-on
@@ -1043,7 +1043,7 @@ collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
 collection-description = Nagsusumikap kaming mabigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
 collection-privacy-notice = Abisong Pribasiya
 collection-health-report-telemetry-disabled = Hindi mo na pinahihintulutan ang { -vendor-short-name } na kumuha ng technical at interaction data. Lahat ng nakalipas na data ay buburahin sa loob ng 30 araw.
-collection-health-report-telemetry-disabled-link = Matuto ng higit pa
+collection-health-report-telemetry-disabled-link = Alamin
 collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
     .accesskey = r
