@@ -21,7 +21,7 @@ about-telemetry-environment-data-section = পৰিৱেশ ডাটা
 about-telemetry-histograms-section = হিস্টোগ্ৰামসমূহ
 about-telemetry-keyed-histogram-section = কি'ড হিস্ট'গ্ৰামচ্
 about-telemetry-simple-measurements-section = সাধাৰণ জোখমাখ
-about-telemetry-slow-sql-section = লেহেম SQL স্টেইটমেন্টবোৰ
+about-telemetry-slow-sql-section = লেহেম SQL স্টেইটমেণ্টবোৰ
 about-telemetry-addon-details-section = এড-অন বিৱৰণসমূহ
 about-telemetry-late-writes-section = শেষৰ লিখনিসমূহ
 about-telemetry-full-sql-warning = টোকা: লেহেম SQL ডিবাগিং সামৰ্থবান কৰা আছে। সম্পূৰ্ণ SQL স্ট্ৰিংসমূহ তলত দেখুৱা হব পাৰে কিন্তু সিহতক টেলিমেট্ৰিত জমা দিয়া নহব।
@@ -86,11 +86,11 @@ about-telemetry-telemetry-ping-type-all = সকলো
 # button label to copy the histogram
 about-telemetry-histogram-copy = প্ৰতিলিপি
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = মূখ্য থ্ৰেডত লেহেম SQL স্টেইটমেন্টসমূহ
-about-telemetry-slow-sql-other = সহায়ক থ্ৰেডসমূহত লেহেম SQL স্টেইটমেন্টসমূহ
+about-telemetry-slow-sql-main = মূখ্য থ্ৰেডত লেহেম SQL স্টেইটমেণ্টসমূহ
+about-telemetry-slow-sql-other = সহায়ক থ্ৰেডসমূহত লেহেম SQL স্টেইটমেণ্টসমূহ
 about-telemetry-slow-sql-hits = হিটসমূহ
 about-telemetry-slow-sql-average = গড় সময় (ms)
-about-telemetry-slow-sql-statement = স্টেইটমেন্ট
+about-telemetry-slow-sql-statement = স্টেইটমেণ্ট
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = এড-অন ID
 about-telemetry-addon-table-details = বিৱৰণ
@@ -109,7 +109,7 @@ about-telemetry-captured-stacks-title = { $stackKey } (কেপচাৰৰ স
 about-telemetry-late-writes-title = শেষ লিখনি #{ $lateWriteCount }
 about-telemetry-stack-title = স্টেক:
 about-telemetry-memory-map-title = মেমৰিৰ মেপ:
-about-telemetry-error-fetching-symbols = চিহ্নসমূহ প্ৰাপ্ত কৰোতে এটা ত্ৰুটি দেখা দিলে। আপুনি ইন্টাৰনেটৰ সৈতে সংযুক্ত আছে নে নীৰিক্ষণ কৰি পুনৰ চেষ্টা কৰি চাওক।
+about-telemetry-error-fetching-symbols = চিহ্নসমূহ প্ৰাপ্ত কৰোঁতে এটা ত্ৰুটি দেখা দিলে। আপুনি ইণ্টাৰনেটৰ সৈতে সংযুক্ত আছে নে নীৰিক্ষণ কৰি পুনৰ চেষ্টা কৰি চাওক।
 about-telemetry-time-stamp-header = সময়-মোহৰ
 about-telemetry-category-header = বৰ্গ
 about-telemetry-method-header = পদ্ধতি

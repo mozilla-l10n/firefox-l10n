@@ -15,10 +15,10 @@ menu-file-new-container-tab =
     .label = নতুন কণ্টেইনাৰ টেব
     .accesskey = b
 menu-file-new-window =
-    .label = নতুন উইন্ডো
+    .label = নতুন উইণ্ড'
     .accesskey = N
 menu-file-new-private-window =
-    .label = নতুন ব্যক্তিগত উইন্ডো
+    .label = নতুন ব্যক্তিগত উইণ্ড'
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
@@ -32,22 +32,22 @@ menu-file-close =
     .label = বন্ধ কৰক
     .accesskey = C
 menu-file-close-window =
-    .label = উইন্ডো বন্ধ কৰক
+    .label = উইণ্ড' বন্ধ কৰক
     .accesskey = d
 menu-file-save-page =
     .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
     .accesskey = A
 menu-file-email-link =
-    .label = লিঙ্ক ই-মেইল কৰক…
+    .label = লিংক ইমেইল কৰক…
     .accesskey = E
 menu-file-print-setup =
     .label = পৃষ্টা সংস্থাপন…
     .accesskey = u
 menu-file-print-preview =
-    .label = প্ৰিন্ট পুৰ্বদৰ্শন
+    .label = প্ৰিণ্ট পুৰ্বদৰ্শন
     .accesskey = v
 menu-file-print =
-    .label = প্ৰিন্ট কৰক…
+    .label = প্ৰিণ্ট কৰক…
     .accesskey = P
 menu-file-import-from-another-browser =
     .label = আন এটা ব্ৰাউজাৰৰ পৰা আমদানি কৰক…
@@ -159,7 +159,7 @@ menu-history-hidden-tabs =
 menu-history-undo-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ
 menu-history-undo-window-menu =
-    .label = শেহতীয়াভাৱে বন্ধ কৰা উইন্ডোসমূহ
+    .label = শেহতীয়াভাৱে বন্ধ কৰা উইণ্ড'সমূহ
 
 ## Bookmarks Menu
 
@@ -231,7 +231,7 @@ menu-tools-layout-debugger =
 ## Window Menu
 
 menu-window-menu =
-    .label = উইন্ডো
+    .label = উইণ্ড'
 menu-window-bring-all-to-front =
     .label = সকলো সন্মুখলৈ আনক
 

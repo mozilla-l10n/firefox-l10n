@@ -31,7 +31,7 @@ shrink-to-fit =
 options-group-label =
     .value = বিকল্পসমূহ
 print-bg =
-    .label = পটভূমি প্ৰিন্ট কৰক(ৰং & ছবি)
+    .label = পটভূমি প্ৰিণ্ট কৰক(ৰং & ছবি)
     .accesskey = B
 margin-group-label-inches =
     .value = প্ৰান্ত (ইঞ্চি)
@@ -92,7 +92,7 @@ hf-page-and-total =
 hf-custom =
     .label = স্বনিৰ্বাচিত...
 print-preview-window =
-    .title = প্ৰিন্টৰ পূৰ্ব প্ৰদৰ্শন
+    .title = প্ৰিণ্টৰ পূৰ্ব প্ৰদৰ্শন
 print-title =
     .value = শীৰ্ষক:
 print-preparing =
@@ -100,10 +100,9 @@ print-preparing =
 print-progress =
     .value = প্ৰগতি:
 print-window =
-    .title = প্ৰিন্ট কৰা হৈছে
+    .title = প্ৰিণ্ট কৰা হৈছে
 print-complete =
-    .value = প্ৰিন্ট সম্পূৰ্ণ হ'ল।
-
+    .value = প্ৰিণ্ট সম্পূৰ্ণ হ'ল।
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

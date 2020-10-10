@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = এটা ব্যক্তিগত উইন্ডো খোলক
+privatebrowsingpage-open-private-window-label = এটা ব্যক্তিগত উইণ্ড' খোলক
     .accesskey = P
 about-private-browsing-search-placeholder = ৱেবত সন্ধান কৰক
 about-private-browsing-info-title = আপুনি ব্যক্তিগত উইণ্ড'ত আছে
