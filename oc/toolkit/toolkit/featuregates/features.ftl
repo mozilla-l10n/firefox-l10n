@@ -34,6 +34,7 @@ experimental-features-web-api-link-preload-description = L’atribut <a data-l10
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS : Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Permet d’aplicar d’estils de focus a d’elements tal coma de botons e de contraròtles, sonque quand son seleccionats al clavièr (per exemple amb una tabulacion entre los elements) e non pas amb la mirga o un autre dispositiu de puntatge. Vejatz lo <a data-l10n-name="bugzilla">bug 1617600</a> per mai de detalhs.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
