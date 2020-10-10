@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = সন্ধান কৰক
     .aria-label = সন্ধান কৰক
-
 newtab-search-box-search-the-web-text = ৱেবত সন্ধান কৰক
 newtab-search-box-search-the-web-input =
     .placeholder = ৱেবত সন্ধান কৰক
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = শীৰ্ষ ছাইট সম্প
 newtab-topsites-title-label = শীৰ্ষক
 newtab-topsites-title-input =
     .placeholder = শীৰ্ষক প্ৰবিষ্ট কৰক
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL টাইপ বা পে'ষ্ট কৰক
 newtab-topsites-url-validation = বৈধ URLৰ প্ৰয়োজন
-
 newtab-topsites-image-url-label = কাষ্টম ছবিৰ URL
 newtab-topsites-use-image-link = কাষ্টম ছবি ব্যৱহাৰ কৰক…
 newtab-topsites-image-validation = ছবি ল'ড হোৱা বিফল হ'ল। বেলেগ এটা URL পৰীক্ষা কৰক।
@@ -44,7 +41,7 @@ newtab-topsites-image-validation = ছবি ল'ড হোৱা বিফল �
 
 newtab-topsites-cancel-button = বাতিল কৰক
 newtab-topsites-delete-history-button = ইতিহাসৰ পৰা মচক
-newtab-topsites-save-button = সঞ্চয় কৰক
+newtab-topsites-save-button = সাঁচি থওক
 newtab-topsites-preview-button = পূৰ্বলোকন
 newtab-topsites-add-button = যোগ কৰক
 
@@ -57,12 +54,10 @@ newtab-topsites-add-button = যোগ কৰক
 newtab-menu-section-tooltip =
     .title = মেন্যু খোলক
     .aria-label = মেন্যু খোলক
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = আঁতৰাওক
     .aria-label = আঁতৰাওক
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -82,9 +77,9 @@ newtab-menu-open-new-private-window = নতুন ব্যক্তিগত �
 newtab-menu-dismiss = খাৰিজ কৰক
 newtab-menu-pin = পিন কৰক
 newtab-menu-unpin = আনপিন কৰক
-newtab-menu-delete-history = ইতিহাসৰ পৰা বিলোপ কৰক
-newtab-menu-save-to-pocket = { -pocket-brand-name }-ত সঞ্চয় কৰক
-newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা বিলোপ কৰক
+newtab-menu-delete-history = ইতিহাসৰ পৰা মচি পেলাওক
+newtab-menu-save-to-pocket = { -pocket-brand-name }-ত সাঁচি থওক
+newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা মচি পেলাওক
 newtab-menu-archive-pocket = { -pocket-brand-name }-ত আৰ্কাইভ কৰক
 newtab-menu-show-privacy-info = আমাৰ স্পঞ্চৰ আৰু আপোনাৰ গোপনিয়তা
 
@@ -121,15 +116,15 @@ newtab-label-visited = পৰিদৰ্শিত
 newtab-label-bookmarked = বুকমাৰ্ক কৰা হ'ল
 newtab-label-removed-bookmark = বুকমাৰ্ক আঁতৰোৱা হ'ল
 newtab-label-recommended = ট্ৰেণ্ডিং
-newtab-label-saved = { -pocket-brand-name }-ত সঞ্চিত হ'ল
+newtab-label-saved = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
 newtab-label-download = ডাউনল'ড কৰিছে
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = শাখা আঁতৰাওক
-newtab-section-menu-collapse-section = শাখা জপাওঁক
-newtab-section-menu-expand-section = শাখা বহলাওঁক
+newtab-section-menu-collapse-section = শাখা জপাওক
+newtab-section-menu-expand-section = শাখা বহলাওক
 newtab-section-menu-manage-section = শাখা পৰিচালনা কৰক
 newtab-section-menu-manage-webext = এক্সটেনশ্যন পৰিচালনা
 newtab-section-menu-add-topsite = শীৰ্ষ ছাইট যোগ কৰক
@@ -141,9 +136,9 @@ newtab-section-menu-privacy-notice = গোপনিয়তা জাননী
 ## Section aria-labels
 
 newtab-section-collapse-section-label =
-    .aria-label = শাখা জপাওঁক
+    .aria-label = শাখা জপাওক
 newtab-section-expand-section-label =
-    .aria-label = শাখা বহলাওঁক
+    .aria-label = শাখা বহলাওক
 
 ## Section Headers.
 
@@ -161,7 +156,7 @@ newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰাম
 
 ## Pocket Content Section.
 
-newtab-pocket-cta-button = { -pocket-brand-name } পাওঁক
+newtab-pocket-cta-button = { -pocket-brand-name } পাওক
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

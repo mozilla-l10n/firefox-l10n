@@ -25,10 +25,10 @@ site-data-button-cancel =
     .label = বাতিল
     .accesskey = C
 site-data-button-save =
-    .label = সাল-সলনি সঞ্চয় কৰক
+    .label = সাল-সলনি সাঁচি থওক
     .accesskey = a
 site-data-settings-dialog =
-    .buttonlabelaccept = সাল-সলনি সঞ্চয় কৰক
+    .buttonlabelaccept = সাল-সলনি সাঁচি থওক
     .buttonaccesskeyaccept = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
