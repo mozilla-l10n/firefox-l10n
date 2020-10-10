@@ -29,6 +29,8 @@ search-input-box =
            *[other] Pronađi u Postavkama
         }
 managed-notice = Tvojim preglednikom upravlja tvoja organizacija.
+category-list =
+    .aria-label = Kategorije
 pane-general-title = Osnovno
 category-general =
     .tooltiptext = { pane-general-title }
@@ -145,7 +147,7 @@ disable-extension =
     .label = Onemogući dodatak
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab kruži kroz kartice redosljedom zadnje korištenih
+    .label = Ctrl+Tab kruži kroz kartice redoslijedom zadnjeg korištenja
     .accesskey = T
 open-new-link-as-tabs =
     .label = Otvori poveznice u karticama umjesto novih prozora
@@ -163,7 +165,7 @@ show-tabs-in-taskbar =
     .label = Prikaži preglede kartica u Windows traci zadataka
     .accesskey = k
 browser-containers-enabled =
-    .label = Aktiviraj kontejner kartice
+    .label = Aktiviraj kontejnerske kartice
     .accesskey = m
 browser-containers-learn-more = Saznaj više
 browser-containers-settings =
@@ -492,6 +494,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Najbolje stranice
 home-prefs-topsites-description = Stranice koje najviše posjećujete
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponzorirane najpopularnije stranice
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
