@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Activa la presa en caarga de la 
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API : WebGPU
+experimental-features-web-gpu-description2 = Aquesta novèla API fornís una presa en carga de nivèl bas per efectuar de calculs e de rendiments grafics amb lo <a data-l10n-name="wikipedia">processor grafic</a> del periferic o de l’ordenador de l’utilizaire. L’<a data-l10n-name="spec">especificacion</a> es encara en òbra. Vejatz lo <a data-l10n-name="bugzilla">bug 1602129</a> per mai de detalhs.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
@@ -45,6 +46,7 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API : API de session mèdia
+experimental-features-media-session-api-description = L’implementacion complèta de l’API Media Session dins { -brand-short-name } es actualament experimentala. Aquesta API es utilizada per personalizar la gestion de las notificacions ligats als mèdias, per gerir los eveniments e las donadas que servisson a presentar una interfàcia utilizaire per la gestion de la lectura multimèdia e per obténer las metadonadas dels fichièrs multimèdias. Vejatz lo <a data-l10n-name="bugzilla">bug 1112032</a> per mai de detalhs.
 experimental-features-devtools-color-scheme-simulation =
     .label = Aisinas de desvolopaires : simulacion d’equèma de color
 experimental-features-devtools-color-scheme-simulation-description = Ajusta una opcion per simular diferents esquèma de colors per vos permetre de provar lo media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. En utilizant aqueste media query vòstre fuèlh d’estil pòt s’adaptar a la preferéncia de l’utilizaire per çò de l’interfàcia, siá clara siá escura. Aquesta foncionalitat vos permet d’ensajar vòstre còdi sens aver de modificar los paramètres del navegador (o del sistèma operatiu, se lo navegador sèc la configuracion del sistèma tocant l’esquèma de color preferit). Vejatz lo <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">1137699</a> per mai de detalhs.
