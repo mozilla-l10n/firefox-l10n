@@ -263,6 +263,15 @@ cfr-doorhanger-doh-primary-button = OK
 cfr-doorhanger-doh-secondary-button = Wyłącz
     .accesskey = W
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body = { -brand-short-name } włączył dla Ciebie eksperymentalną funkcję Fission (izolacja witryn). Izolując każdą witrynę w oddzielnym procesie, Fission zapewnia dodatkową warstwę zabezpieczeń dla Ciebie i odwiedzanych przez Ciebie witryn.
+cfr-doorhanger-fission-header = Izolacja witryn
+cfr-doorhanger-fission-primary-button = OK
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Więcej informacji
+    .accesskey = W
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatyczna ochrona przed podstępnymi metodami śledzenia
