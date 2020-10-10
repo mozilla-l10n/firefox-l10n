@@ -279,4 +279,5 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustracija za zablokowany plack
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Dalše medijowe wodźenske elementy
+cfr-whatsnew-media-keys-body = Wothrajće awdio abo widejo direktnje ze swojeje tastatury abo z headseta a zastajće je. Přez to móžeće medije z druheho rajtarka, programa, abo samo, hdyž waš ličak je zawrjeny, lóšo wodźić. Móžeće so tež z pomocu tastow Doprědka a Wróćo mjez ćěrjemi pohibować.
 cfr-whatsnew-media-keys-button = Zhońće kak
