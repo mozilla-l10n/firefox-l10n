@@ -80,6 +80,14 @@ printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = ਅਮਰੀਕੀ ਪੱਤਰ
+printui-paper-legal = ਅਮਰੀਕੀ ਲੀਗਲ
+printui-paper-tabloid = ਸਮਾਚਾਰ ਪੱਤਰ
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = ਸਕੇਲ ਲਈ ਨੰਬਰ 10 ਤੋਂ 200 ਦੇ ਵਿਚਾਲੇ ਚਾਹੀਦਾ ਹੈ।
+printui-error-invalid-margin = ਚੁਣੇ ਗਏ ਪੇਪਰ ਆਕਾਰ ਲਈ ਢੁੱਕਵਾਂ ਹਾਸ਼ੀਆ ਦਿਓ।
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = ਰੇਜ਼ ਲਈ ਨੰਬਰ 1 ਅਤੇ { $numPages } ਦੇ ਵਿਚਾਲੇ ਚਾਹੀਦਾ ਹੈ।
+printui-error-invalid-start-overflow = “ਤੋਂ” ਸਫ਼ਾ ਗਿਣਤੀ “ਤੱਕ” ਸਫ਼ਾ ਗਿਣਤੀ ਤੋਂ ਘੱਟ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।
