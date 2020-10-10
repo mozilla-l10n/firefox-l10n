@@ -13,7 +13,7 @@ search-header-shortcut =
 list-empty-installed =
     .value = Wala kang mga add-on na ganitong uri na nakakabit
 list-empty-available-updates =
-    .value = Walang updates na nakita
+    .value = Walang natagpuang mga update
 list-empty-recent-updates =
     .value = Wala kang bagong-update na mga add-on
 list-empty-find-updates =
@@ -208,7 +208,7 @@ addon-updates-reset-updates-to-manual = Ibalik ang lahat ng Add-ons upang mabago
 
 addon-updates-updating = Ina-update ang mga add-on
 addon-updates-installed = Na-update na ang add-on mo.
-addon-updates-none-found = Walang updates na nakita
+addon-updates-none-found = Walang natagpuang mga update
 addon-updates-manual-updates-found = Tingnan Lahat ng mga Update
 
 ## Add-on install/debug strings for page options menu
