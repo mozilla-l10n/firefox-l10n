@@ -242,6 +242,7 @@ cfr-whatsnew-better-pdf-body = Direkta nang magbubukas ang mga PDF document sa {
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Mahalaga ang iyong privacy. Hangga't maaari'y ligtas nang idinadaan ng { -brand-short-name } ang iyong mga DNS request sa isang partner service para maprotektahan ka habang nagba-browse.
 cfr-doorhanger-doh-header = Mas secure at encrypted na DNS lookup
 cfr-doorhanger-doh-primary-button = OK, Nakuha ko
     .accesskey = O
@@ -250,6 +251,8 @@ cfr-doorhanger-doh-secondary-button = i-Disable
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body = Nag-enable ang { -brand-short-name } ng Fission (site isolation) na isang eksperimental na feature para sa iyo. Sa pagkakalagay ng bawat site sa sari-sariling mga process, naglalagay ng karagdagang seguridad ang Fission para sa iyo at sa mga website na binibisita mo.
+cfr-doorhanger-fission-header = Site Isolation
 cfr-doorhanger-fission-primary-button = OK, Nakuha ko
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Alamin

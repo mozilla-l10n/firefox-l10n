@@ -1053,7 +1053,7 @@ collection-studies =
 collection-studies-link = Tingnan ang mga pag-aaral sa { -brand-short-name }
 addon-recommendations =
     .label = Payagan ang { -brand-short-name } na mag-mungkahi ng mga personalized extension.
-addon-recommendations-link = Alamin pa
+addon-recommendations-link = Alamin
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa build configuration na ito
@@ -1072,7 +1072,7 @@ security-browsing-protection = Mapanlinlang na Content at Proteksyon mula sa Del
 security-enable-safe-browsing =
     .label = Harangin ang delikado at mapanlinlang na content
     .accesskey = B
-security-enable-safe-browsing-link = Matuto ng higit pa
+security-enable-safe-browsing-link = Alamin
 security-block-downloads =
     .label = Harangin ang mga delikadong download
     .accesskey = D
@@ -1085,7 +1085,7 @@ security-block-uncommon-software =
 certs-header = Mga sertipiko
 certs-personal-label = Kapag hiniling ng isang server ang iyong personal na sertipiko
 certs-select-auto-option =
-    .label = Pumili agad ng isa
+    .label = Kusang pumili ng isa
     .accesskey = S
 certs-select-ask-option =
     .label = Tanungin ka palagi
