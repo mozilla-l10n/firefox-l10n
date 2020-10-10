@@ -266,5 +266,6 @@ cfr-whatsnew-clear-cookies-image-alt = Illustration af blokeret cookie
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Flere mediekontroller
 cfr-whatsnew-media-keys-body = Kontroller afspilning af lyd eller video direkte fra dit tastatur eller dit headset. På den måde er det nemt at have kontrol over medie-indhold fra et andet faneblad, et andet program - eller endda hvis du computer er låst. Du kan også skifte mellem numre ved at bruge piletasterne.
 cfr-whatsnew-media-keys-button = Mere information
