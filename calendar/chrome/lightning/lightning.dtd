@@ -19,10 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "ت">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "افتح">
-<!ENTITY lightning.menupopup.open.accesskey           "ف">
-<!ENTITY lightning.menupopup.open.message.label       "رسالة محفوظة…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "ح">
 <!ENTITY lightning.menupopup.open.calendar.label      "ملف تقويم…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "ت">
 
@@ -64,6 +60,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "احذف من التقويم">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "التفاصيل…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "أظهر تفاصيل الحدث">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "لا تعرض لي هذه الرسائل">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "التقويم">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "انتقل إلى لسان التقويم">
 <!ENTITY lightning.imipbar.btnMore.label                                    "المزيد">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "انقر لرؤية المزيد من الخيارات">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "أعد التأكيد">
@@ -82,7 +81,10 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "أرسِل ردًا الآن">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "أرسِل ردًا للمنظّم">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "أرسِل ردًا إلى المنظّم على السلسلة كاملةً">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "لا تُرسل ردًا">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "غيّر حالة المشاركة بدون إرسال ردّ إلى المنظّم">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "غيّر حالة المشاركة على السلسلة بدون إرسال ردّ إلى المنظّم">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

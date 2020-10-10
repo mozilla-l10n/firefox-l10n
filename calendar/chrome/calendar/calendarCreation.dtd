@@ -42,6 +42,7 @@
 <!ENTITY location.label "المكان:">
 <!ENTITY location.placeholder "عنوان أو اسم مضيف خادوم التقويم">
 
+<!ENTITY network.nocredentials.label "لا يطلب هذا المكان معلومات الولوج">
 <!ENTITY network.loading.description "من فضلك انتظر ريثما نستكشف تقويماتك.">
 <!ENTITY network.notfound.description "لم نجد أيّ تقويم في هذا المكان. من فضلك افحص الإعدادات.">
 <!ENTITY network.authfail.description "لم تُقبل بيانات الدخول التي أدخلتها. من فضلك افحص الإعدادات.">
