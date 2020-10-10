@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = ਵਰਤ ਕੇ ਵੇਖੋ: ਟੈਬ ਪਿ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ਮੈਨੂੰ ਇਹ ਕਿਉਂ ਦਿਖਾਈ ਦੇ ਰਿਹਾ ਹੈ
-
 cfr-doorhanger-extension-cancel-button = ਹੁਣ ਨਹੀਂ
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = ਹੁਣੇ ਜੋੜੋ
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = ਇਸ ਟੈਬ ਨੂੰ ਪਿੰਨ ਕਰੋ
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = ਸਿਫਾਰਸ਼ੀ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = ਇਹ ਸਿਫਾਰਸ਼ ਮੈਨੂੰ ਨਾ ਦੇਖਾਓ
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = ਹੋਰ ਸਿੱਖੋ
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } ਰਾਹੀਂ
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ੀ
 cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ਾਂ
     .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
     .a11y-announcement = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਮੌਜੂਦ ਹਨ
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ਵਰਤੋਂਕਾਰ
        *[other] { $total } ਵਰਤੋਂਕਾਰ
     }
-
 cfr-doorhanger-pintab-description = ਆਪਣੀ ਸਭ ਤੋਂ ਜ਼ਿਆਦਾ ਵਰਤੋਂ ਵਾਲੀਆਂ ਸਾਈਟਾਂ ਤੱਕ ਆਸਾਨ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰੋ ਸਾਈਟਾਂ ਨੂੰ ਇੱਕ ਟੈਬ ਵਿੱਚ ਰੱਖੋ (ਭਾਵੇਂ ਤੁਸੀਂ ਮੁੜ ਚਾਲੂ ਕਰੋ)।
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = ਆਪਣੀ ਸਭ ਤੋਂ ਜ਼ਿਆ�
 cfr-doorhanger-pintab-step1 = ਜਿਸ ਟੈਬ ਨੂੰ ਤੁਸੀਂ ਟੰਗਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਸ ਉੱਤੇ <b>ਰਾਈਟ-ਕਲਿੱਕ</ b>।
 cfr-doorhanger-pintab-step2 = ਮੇਨੂ ਤੋਂ <b>ਟੈਬ ਨੂੰ ਟੰਗੋ</b> ਨੂੰ ਚੁਣੋ।
 cfr-doorhanger-pintab-step3 = ਜੇ ਸਾਈਟ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਤਾਂ ਤੁਸੀਂ ਆਪਣੀ ਟੰਗ ਕੀਤੀ ਟੈਬ ਵਿੱਚ ਨੀਲੀ ਬਿੰਦੀ ਵੇਖੋਗੇ।
-
 cfr-doorhanger-pintab-animation-pause = ਵਿਰਾਮ
 cfr-doorhanger-pintab-animation-resume = ਮੁੜ-ਪ੍ਰਾਪਤ
-
 
 ## Firefox Accounts Message
 
@@ -100,26 +89,20 @@ cfr-protections-panel-link-text = ਹੋਰ ਜਾਣੋ
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ਨਵਾਂ ਫੀਚਰ
-
 cfr-whatsnew-button =
     .label = ਨਵਾਂ ਕੀ ਹੈ
     .tooltiptext = ਨਵਾਂ ਕੀ ਹੈ
-
 cfr-whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
-
 cfr-whatsnew-release-notes-link-text = ਰੀਲਿਜ਼ ਨੋਟਿਸ ਪੜ੍ਹੋ
-
 cfr-whatsnew-fx70-title = { -brand-short-name } ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਲਈ ਹੋਰ ਮੇਹਨਤ ਕਰ ਰਿਹਾ ਹੈ
 cfr-whatsnew-fx70-body =
     ਨਵੇਂ ਅੱਪਡੇਟ ਵਿੱਚ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਫ਼ੀਚਰ ਨੂੰ ਵਾਧਾ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇਸ ਨੇ ਹਰ ਸਾਈਟ ਲਈ ਸੁਰੱਖਿਅਤ 
     ਪਾਸਵਰਡ ਬਣਾਉਣਾ ਹੋਰ ਵੀ ਸੌਖਾ ਬਣਾ ਦਿੱਤਾ ਹੈ।
-
 cfr-whatsnew-tracking-protect-title = ਟਰੈਕਰਾਂ ਤੋਂ ਖੁਦ ਨੂੰ ਬਚਾਓ
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } ਕਈ ਆਮ ਸਮਾਜਿਕ ਅਤੇ ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ
     ਤੁਹਾਡੇ ਆਨਲਾਈਨ ਮੌਜੂਦਗੀ ਦਾ ਪਿੱਛਾ ਕਰਦੇ ਹਨ।
 cfr-whatsnew-tracking-protect-link-text = ਆਪਣੀ ਰਿਪੋਰਟ ਵੇਖੋ
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -130,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } ਤੋਂ
 cfr-whatsnew-tracking-blocked-link-text = ਰਿਪੋਰਟ ਵੇਖੋ
-
 cfr-whatsnew-lockwise-backup-title = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
 cfr-whatsnew-lockwise-backup-body = ਹੁਣ ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਤਿਆਰ ਕਰੋ, ਜੋ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਥਾਂ ਤੋਂ ਲਾਗਇਨ ਕਰਨ ਲਈ ਵਰਤ ਸਕਦੇ ਹੋ।
 cfr-whatsnew-lockwise-backup-link-text = ਬੈਕਅੱਪ ਚਾਲੂ ਕਰੋ
-
 cfr-whatsnew-lockwise-take-title = ਆਪਣੇ ਪਾਸਵਰਡ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name } ਮੋਬਾਈਲ ਐਪ ਤੁਹਾਡੇ ਬੈਕਅੱਪ ਲਵੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ
@@ -170,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] ਫਿੰਗਰਪਰਿੰਟਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ਫਿੰਗਰਪਰਿੰਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਬਾਰੇ ਖ਼ੁਫ਼ੀਆ ਢੰਗ ਨਾਲ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰਦੇ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਬਾਰੇ ਇੱਕ ਪਾਸੜ ਇਸ਼ਤਿਹਾਰੀ ਤਸਵੀਰ ਬਣਾਉਣ ਦਾ ਕੰਮ ਕਰਦੇ ਹਨ।
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = ਫਿੰਗਰਪਰਿੰਟਰ
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } ਫਿੰਗਰਪਰਿੰਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਬਾਰੇ ਖ਼ੁਫ਼ੀਆ ਢੰਗ ਨਾਲ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰਦੇ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਬਾਰੇ ਇੱਕ ਪਾਸੜ ਇਸ਼ਤਿਹਾਰੀ ਤਸਵੀਰ ਬਣਾਉਣ ਦਾ ਕੰਮ ਕਰਦੇ ਹਨ।
@@ -230,7 +210,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
     .accesskey = S
-
 cfr-doorhanger-milestone-close-button = ਬੰਦ ਕਰੋ
     .accesskey = C
 
@@ -276,8 +255,21 @@ cfr-doorhanger-doh-primary-button = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
 cfr-doorhanger-doh-secondary-button = ਅਸਮਰੱਥ ਕਰੋ
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = ਸਾਈਟ ਅਲਹਿਦਗੀ
+cfr-doorhanger-fission-primary-button = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = ਹੋਰ ਜਾਣੋ
+    .accesskey = L
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = ਚੋਰ ਟਰੈਕਿੰਗ ਤਰਕੀਬਾਂ ਤੋਂ ਆਟੋਮੈਟਿਕ ਸੁਰੱਖਿਆ
 cfr-whatsnew-clear-cookies-body = ਕੁਝ ਟਰੈਕਰ ਤੁਹਾਨੂੰ ਦੂਜੀਆਂ ਵੈਬਸਾਈਟਾਂ ਤੇ ਭੇਜਦੇ ਹਨ, ਜੋ ਕੂਕੀਜ਼ ਨੂੰ ਗੁਪਤ ਰੂਪ ਵਿੱਚ ਸੈੱਟ ਕਰਦੇ ਹਨ। { -brand-short-name } ਹੁਣ ਆਪਣੇ ਆਪ ਉਹਨਾਂ ਕੂਕੀਜ਼ ਨੂੰ ਸਾਫ਼ ਕਰ ਦਿੰਦਾ ਹੈ ਤਾਂ ਜੋ ਤੁਹਾਡਾ ਪਿੱਛਾ ਨਾ ਹੋ ਸਕੇ।
 cfr-whatsnew-clear-cookies-image-alt = ਕੂਕੀਜ਼ ਨੇ ਦਿਖਾਉਣ ਤੋਂ ਪਾਬੰਦੀ ਲਾਈ
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = ਹੋਰ ਮੀਡੀਆ ਕੰਟਰੋਲ
+cfr-whatsnew-media-keys-button = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
