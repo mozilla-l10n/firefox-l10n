@@ -47,6 +47,7 @@ experimental-features-media-session-api =
     .label = Web API : API de session mèdia
 experimental-features-devtools-color-scheme-simulation =
     .label = Aisinas de desvolopaires : simulacion d’equèma de color
+experimental-features-devtools-color-scheme-simulation-description = Ajusta una opcion per simular diferents esquèma de colors per vos permetre de provar lo media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. En utilizant aqueste media query vòstre fuèlh d’estil pòt s’adaptar a la preferéncia de l’utilizaire per çò de l’interfàcia, siá clara siá escura. Aquesta foncionalitat vos permet d’ensajar vòstre còdi sens aver de modificar los paramètres del navegador (o del sistèma operatiu, se lo navegador sèc la configuracion del sistèma tocant l’esquèma de color preferit). Vejatz lo <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">1137699</a> per mai de detalhs.
 experimental-features-devtools-execution-context-selector =
     .label = Aisinas de desvolopaires : selector de contèxt d’execucion
 experimental-features-devtools-execution-context-selector-description = Aquesta foncionalitat aficha un boton sus la linha de comanda de la consòla per permtre de modificar lo contèxte d’execucion de l’expression picada. Consultatz los <a data-l10n-name="bugzilla1">bug 1605154</a> e <a data-l10n-name="bugzilla2">1605153</a> per mai de detalhs.
@@ -94,3 +95,4 @@ experimental-features-js-warp-description = Activa Warp, un projècte per melhor
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Isolacion de site)
+experimental-features-fission-description = FIssion (isolacion de sites) es una foncionalitat experimentala de { -brand-short-name } per fornir un nivèl suplementari de defensa contra las avarias de seguretat. En isolant cada site dins un processús separat, Fission fa venir mai dur l’accès a l’informacion d’autras paginas que visitatz pels sites malvolents. Aquò es un cambiament d’architectura màger dins { -brand-short-name } e apreciam qu’ensagetz e senhaletz los problèmas que poiriatz rencontrar. Per mai de detalhs, vejatz <a data-l10n-name="wiki">lo wiki</a>.
