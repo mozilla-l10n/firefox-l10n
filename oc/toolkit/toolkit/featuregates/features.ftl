@@ -46,6 +46,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Aisinas de desvolopaires : simulacion d’equèma de color
 experimental-features-devtools-execution-context-selector =
     .label = Aisinas de desvolopaires : selector de contèxt d’execucion
+experimental-features-devtools-execution-context-selector-description = Aquesta foncionalitat aficha un boton sus la linha de comanda de la consòla per permtre de modificar lo contèxte d’execucion de l’expression picada. Consultatz los <a data-l10n-name="bugzilla1">bug 1605154</a> e <a data-l10n-name="bugzilla2">1605153</a> per mai de detalhs.
 experimental-features-devtools-compatibility-panel =
     .label = Aisinas de desvolopaires : panèl de compatibilitat
 experimental-features-devtools-compatibility-panel-description = Un panèl lateral per l’inspector de pagina que mòstra informacions detalhadas de l’estat de compatibilitat entre navegadors de vòstra aplicacion. Veire lo <a data-l10n-name="bugzilla">bug 1584464</a> per mai de detalhs.
