@@ -179,7 +179,7 @@ page-action-send-tabs-urlbar =
            *[other] Magpadala ng { $tabCount } Tab sa Device
         }
 page-action-pocket-panel =
-    .label = I-save ang Page sa { -pocket-brand-name }
+    .label = I-save ang Pahina sa { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopyahin ang Link
 page-action-copy-url-urlbar =

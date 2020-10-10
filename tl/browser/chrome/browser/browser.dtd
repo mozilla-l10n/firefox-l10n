@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Buong Screen">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Itago ang Toggle para sa Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Mga Setting sa &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Magkonekta ng Isa Pang Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Mag-sign in sa &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Buksan ang &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Mga serbisyo ng &brandProductName;">
@@ -97,7 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "I-print">
 <!ENTITY printButton.tooltip          "I-limbag ang pahina na ito">
-
 
 <!ENTITY searchItem.title             "Hanapin">
 
@@ -188,7 +185,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Ilagay sa Toolbar">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "I-dagdag sa Overflow Menu">
@@ -218,18 +215,13 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "I-save ang Page sa Pocket">
+<!ENTITY saveToPocketCmd.label        "I-save ang Pahina sa Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Tingnan ang Pocket List">
 
 <!ENTITY emailPageCmd.label           "i-Email ang Link…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "i-Zoom">
 
@@ -255,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Ilagay sa Diksyonaryo...">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
