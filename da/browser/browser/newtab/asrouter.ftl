@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Prøv: Fastgør faneblad
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor får jeg vist dette?
-
 cfr-doorhanger-extension-cancel-button = Ikke nu
     .accesskey = I
-
 cfr-doorhanger-extension-ok-button = Tilføj nu
     .accesskey = T
 cfr-doorhanger-pintab-ok-button = Fastgør dette faneblad
     .accesskey = F
-
 cfr-doorhanger-extension-manage-settings-button = Håndter indstillinger for anbefalinger
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Vis ikke denne anbefaling
     .accesskey = V
-
 cfr-doorhanger-extension-learn-more-link = Læs mere
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = af { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
 cfr-doorhanger-extension-notification2 = Anbefaling
     .tooltiptext = Anbefalet udvidelse
     .a11y-announcement = Anbefalet udvidelse tilgængelig
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Anbefaling
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } bruger
        *[other] { $total } brugere
     }
-
 cfr-doorhanger-pintab-description = Få nem adgang til de websteder, du bruger mest. Dine fastgjorte faneblade er der stadig, når du genstarter.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = Få nem adgang til de websteder, du bruger m
 cfr-doorhanger-pintab-step1 = <b>Højreklik</b> på det faneblad, du vil fastgøre.
 cfr-doorhanger-pintab-step2 = Vælg <b>Fastgør faneblad</b> i menuen.
 cfr-doorhanger-pintab-step3 = En blå prik på det fastgjorte faneblad viser, at webstedet er blevet opdateret.
-
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortsæt
-
 
 ## Firefox Accounts Message
 
@@ -100,26 +89,20 @@ cfr-protections-panel-link-text = Læs mere
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
-
 cfr-whatsnew-button =
     .label = Nyheder
     .tooltiptext = Nyheder
-
 cfr-whatsnew-panel-header = Nyheder
-
 cfr-whatsnew-release-notes-link-text = Læs udgivelsesnoterne
-
 cfr-whatsnew-fx70-title = { -brand-short-name } kæmper nu hårdere for din ret til et privatliv
 cfr-whatsnew-fx70-body =
     Den nyeste version har forbedret funktionen Beskyttelse mod sporing og gør det
     nemmere end nogensinde før at lave sikre adgangskoder.
-
 cfr-whatsnew-tracking-protect-title = Beskyt dig selv mod at blive sporet på nettet
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blokerer mange udbredte sporings-teknologier fra sociale netværk
     og andre virksomheder, der følger med i, hvad du laver på nettet.
 cfr-whatsnew-tracking-protect-link-text = Se din rapport
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -130,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = siden { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Se rapport
-
 cfr-whatsnew-lockwise-backup-title = Lav backup af dine adgangskoder
 cfr-whatsnew-lockwise-backup-body = Og opret sikre adgangskoder, du har adgang til overalt, hvor du logger ind.
 cfr-whatsnew-lockwise-backup-link-text = Slå backup til
-
 cfr-whatsnew-lockwise-take-title = Tag dine adgangskoder med dig
 cfr-whatsnew-lockwise-take-body =
     Med apppen { -lockwise-brand-short-name } får du sikker adgang til dine adgangskoder,
@@ -170,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Fingerprinters blokeret
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokerer nu mange af de fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokere fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
@@ -230,7 +210,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = V
-
 cfr-doorhanger-milestone-close-button = Luk
     .accesskey = L
 
@@ -276,8 +255,16 @@ cfr-doorhanger-doh-primary-button = Ok, forstået
 cfr-doorhanger-doh-secondary-button = Deaktiver
     .accesskey = D
 
+## Fission Experiment Message
+
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatisk beskyttelse mod listige sporings-taktikker
 cfr-whatsnew-clear-cookies-body = Nogle sporings-mekanismer omdirigerer dig til andre websteder, der gemmer hemmelige cookies. { -brand-short-name } sletter nu automatisk disse cookies, så du ikke kan spores.
 cfr-whatsnew-clear-cookies-image-alt = Illustration af blokeret cookie
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-body = Kontroller afspilning af lyd eller video direkte fra dit tastatur eller dit headset. På den måde er det nemt at have kontrol over medie-indhold fra et andet faneblad, et andet program - eller endda hvis du computer er låst. Du kan også skifte mellem numre ved at bruge piletasterne.
+cfr-whatsnew-media-keys-button = Mere information
