@@ -127,9 +127,9 @@ startup-header = Startup
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Payagan ang { -brand-short-name } at Firefox na tumakbo nang sabay
-use-firefox-sync = Tip: Gumagamit ito ng mga hiwalay na profile. Gumamit ng { -sync-brand-short-name } upang ibahagi ang data sa pagitan nila.
+use-firefox-sync = Payo: Gumagamit ito ng magkakahiwalay na mga profile. Gumamit ng { -sync-brand-short-name } para maibahagi ang data sa pagitan ng mga ito.
 get-started-not-logged-in = Mag-sign in sa { -sync-brand-short-name }…
-get-started-configured = Buksan ang mga preference ng { -sync-brand-short-name }
+get-started-configured = Buksan ang mga kagustuhan sa { -sync-brand-short-name }
 always-check-default =
     .label = Laging suriin kung { -brand-short-name } ang iyong default na browser
     .accesskey = y
@@ -145,9 +145,9 @@ startup-restore-warn-on-quit =
     .label = Balaan ka kapag isinara ang browser
 disable-extension =
     .label = Huwag Paganahin and Extensyon
-tabs-group-header = Tabs
+tabs-group-header = Mga Tab
 ctrl-tab-recently-used-order =
-    .label = Iniisa-isa ng Ctrl+Tab ang mga tab base sa pinakahuling ginamit
+    .label = Lumipat-lipat sa mga tab gamit ang Ctrl+Tab base sa pinakahuling ginamit
     .accesskey = T
 open-new-link-as-tabs =
     .label = Buksan ang mga link sa mga tab sa halip na mga bagong window
@@ -167,7 +167,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Paganahin ang mga Container Tab
     .accesskey = n
-browser-containers-learn-more = Matuto ng higit pa
+browser-containers-learn-more = Alamin
 browser-containers-settings =
     .label = Mga setting…
     .accesskey = i
@@ -183,7 +183,7 @@ containers-disable-alert-ok-button =
        *[other] Isara ang { $tabCount } Container Tab
     }
 containers-disable-alert-cancel-button = Patuloy na pinagana
-containers-remove-alert-title = Alisin ang Lalagyan na Ito?
+containers-remove-alert-title = Alisin ang Container na Ito?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -222,7 +222,7 @@ choose-language-description = Pumili ng iyong gustong wika para sa pagpapakita n
 choose-button =
     .label = Mamili…
     .accesskey = M
-choose-browser-language-description = Choose the languages used to display menus, messages, and notifications from { -brand-short-name }.
+choose-browser-language-description = Piliin ang mga wikang gagamitin para makapag-display ng mga menu, mensahe, at abiso mula sa { -brand-short-name }.
 manage-browser-languages-button =
     .label = Itakda ang Alternatibo ...
     .accesskey = I
@@ -256,7 +256,7 @@ download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] Pumili...
-           *[other] Browse…
+           *[other] Mag-browse…
         }
     .accesskey =
         { PLATFORM() ->
@@ -350,7 +350,7 @@ play-drm-content =
     .label = Magpaandar ng DRM-controlled content
     .accesskey = P
 play-drm-content-learn-more = Alamin
-update-application-title = Mga update ng { -brand-short-name }
+update-application-title = Mga { -brand-short-name } Update
 update-application-description = Panatilihing updated ang { -brand-short-name } para sa pinakamahusay na pagtakbo, katatagan, at seguridad.
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
 update-history =
@@ -381,7 +381,7 @@ update-setting-write-failure-message =
     Hindi makasulat sa file: { $path }
 update-in-progress-title = Kasalukuyang Nag-a-update
 update-in-progress-message = Gusto mo bang ipagpatuloy ng { -brand-short-name } ang update na ito?
-update-in-progress-ok-button = Isangtabi
+update-in-progress-ok-button = Isantabi
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Magpatuloy
@@ -393,12 +393,12 @@ performance-use-recommended-settings-checkbox =
     .label = Gamitin ang inirerekomendang mga performance setting
     .accesskey = U
 performance-use-recommended-settings-desc = Ang mga setting na ito ay pinasadya sa hardware at operating system ng iyong computer.
-performance-settings-learn-more = Karagdagang kalaaman
+performance-settings-learn-more = Alamin
 performance-allow-hw-accel =
-    .label = Gumamit ng hardware acceleration kapag maaari
+    .label = Gumamit ng hardware acceleration kung maaari
     .accesskey = r
-performance-limit-content-process-option = Nasa limitasyon na ang pag proseso ng content
-    .accesskey = L
+performance-limit-content-process-option = Content process limit
+    .accesskey = l
 performance-limit-content-process-enabled-desc = Ang karagdagang mga content process ay maaaring magpaganda ng performance kapag marami ang mga tab, ngunit gagamit din ito ng mas maraming memory.
 performance-limit-content-process-blocked-desc = Ang pagbabago sa bilang ng mga proseso ng nilalaman ay posible lamang sa multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Alamin kung paano i-check kung ang multiprocess ay pinagana</a>
 # Variables:
@@ -508,7 +508,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Mga Na-sponsor na Kwento
 home-prefs-highlights-header =
     .label = Mga highlight
-home-prefs-highlights-description = Ang isang seleksyon ng mga site na iyong nai-save o binisita
+home-prefs-highlights-description = Isang seleksyon ng mga site na iyong nai-save o nabisita
 home-prefs-highlights-option-visited-pages =
     .label = Mga pahinang binisita
 home-prefs-highlights-options-bookmarks =
