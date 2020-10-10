@@ -29,6 +29,8 @@ search-input-box =
            *[other] Find in Preferences
         }
 managed-notice = Your browser is being managed by your organisation.
+category-list =
+    .aria-label = Categories
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Top Sites
 home-prefs-topsites-description = The sites you visit most
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsored Top Sites
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -560,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Change preferences for other address bar suggestions
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 search-one-click-header = One-Click Search Engines
+search-one-click-header2 = Search Shortcuts
 search-one-click-desc = Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.
 search-choose-engine-column =
     .label = Search Engine
