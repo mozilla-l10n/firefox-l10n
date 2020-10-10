@@ -29,6 +29,8 @@ search-input-box =
            *[other] W nastajenjach pytaś
         }
 managed-notice = Waš wobglědowak se wót wašeje organizacije zastoj.
+category-list =
+    .aria-label = Kategorije
 pane-general-title = Powšykne
 category-general =
     .tooltiptext = { pane-general-title }
@@ -495,6 +497,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Nejcesćej woglědane sedła
 home-prefs-topsites-description = Sedła, ku kótarymž se nejcesćej woglědujośo
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsorowane nejlubše sedła
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

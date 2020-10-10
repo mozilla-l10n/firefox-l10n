@@ -262,6 +262,14 @@ cfr-doorhanger-doh-primary-button = W pórěźe, som zrozměł
 cfr-doorhanger-doh-secondary-button = Znjemóžniś
     .accesskey = Z
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = Sedłowa izolacija
+cfr-doorhanger-fission-primary-button = W pórěźe, som zrozměł
+    .accesskey = z
+cfr-doorhanger-fission-secondary-button = Dalšne informacije
+    .accesskey = D
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Awtomatiski šćit pśed zakśebjatnymi slědowańskimi taktikami
