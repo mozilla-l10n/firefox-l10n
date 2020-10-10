@@ -9,7 +9,6 @@ graph-week-summary =
         [one] যোৱাসপ্তাহত { -brand-short-name }-এ { $count }টা ট্রেকাৰ অৱৰোধ কৰিছে
        *[other] যোৱাসপ্তাহত { -brand-short-name }-এ { $count }টা ট্রেকাৰ অৱৰোধ কৰিছে
     }
-
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -19,27 +18,20 @@ graph-total-tracker-summary =
         [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }ৰ পৰা এতিয়ালৈ <b>{ $count }টা</b> ট্রেকাৰ অৱৰোধ কৰা হৈছে
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }ৰ পৰা এতিয়ালৈ <b>{ $count }টা</b> ট্রেকাৰ অৱৰোধ কৰা হৈছে
     }
-
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name }-এ ব্যক্তিগত উইণ্ড'সমূহতো ট্রেকাৰ অৱৰোধ কৰাটো অব্যাহত ৰাখে কিন্তু কি অৱৰোধ কৰা হৈছিল তাৰে ৰেকৰ্ড নাৰাখে।
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = এই সপ্তাহত { -brand-short-name }-এ অৱৰোধ কৰা ট্রেকাৰৰ সংখ্যা
-
-protection-report-etp-card-content-custom-not-blocking = বৰ্তমান সকলো সুৰক্ষা বন্ধ হৈ আছে। আপোনাৰ { -brand-short-name } সুৰক্ষা ছেটিংছ পৰিচালনা কৰি কোনোটো কোনোটো ট্রেকাৰ অৱৰোধ কৰিব লাগে বাছি লওঁক।
+protection-report-etp-card-content-custom-not-blocking = বৰ্তমান সকলো সুৰক্ষা বন্ধ হৈ আছে। আপোনাৰ { -brand-short-name } সুৰক্ষা ছেটিংছ পৰিচালনা কৰি কোনোটো কোনোটো ট্রেকাৰ অৱৰোধ কৰিব লাগে বাছি লওক।
 protection-report-manage-protections = ছেটিংছ পৰিচালনা কৰক
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = আজি
-
 social-tab-title = ছচিয়েল মিডিয়া ট্রেকাৰ
-
 tracker-tab-title = ট্ৰেকিং সমল
-
 fingerprinter-tab-title = ফিংগাৰপ্ৰিণ্টাৰ
-
 cryptominer-tab-title = ক্ৰীপ্ট'মাইনাৰ
-  
+
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
 ##

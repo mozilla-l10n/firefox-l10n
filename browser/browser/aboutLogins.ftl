@@ -7,16 +7,16 @@ about-logins-page-title = লগইন আৰু পাছৱৰ্ড
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = যিকোনো ঠাইতে আপোনাৰ পাছৱৰ্ড লৈ যাওঁক
-login-app-promo-subtitle = বিনামূলীয়া { -lockwise-brand-name } এপটো পাওঁক
+login-app-promo-title = যিকোনো ঠাইতে আপোনাৰ পাছৱৰ্ড লৈ যাওক
+login-app-promo-subtitle = বিনামূলীয়া { -lockwise-brand-name } এপটো পাওক
 login-app-promo-android =
-    .alt = Google প্লে'ত পাওঁক
+    .alt = Google প্লে'ত পাওক
 login-app-promo-apple =
     .alt = এপ ষ্ট'ৰত ডাউনল'ড কৰক
 login-filter =
     .placeholder = লগইনৰ সন্ধান কৰক
 create-login-button = নতুন লগইন সৃষ্টি কৰক
-fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওঁক
+fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওক
 fxaccounts-sign-in-button = { -sync-brand-short-name }-ত ছাইন ইন কৰক
 fxaccounts-avatar-button =
     .title = একাউণ্ট পৰিচালনা
@@ -72,7 +72,7 @@ about-logins-login-intro-heading-logged-in = কোনো চিংক্‌ড 
 login-intro-description = যদি আপুনি আপোনাৰ লগইনবোৰ বেলেগ কোনো ডিভাইচত থকা { -brand-product-name }-ত সাঁচি থোৱা কৰিছে তেন্তে সেয়া ইয়াত এনেকৈ পাব:
 login-intro-instruction-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সাঁচি থোৱা কৰি থোৱা আছে।
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } ছেটিংছত লগইনবোৰৰ চ্চেকব'ক্স চয়ন কৰাটো সুনিশ্চিত কৰক
-about-logins-intro-instruction-help = অধিক সহায়ৰ বাবে <a data-l10n-name="help-link">{ -lockwise-brand-short-name } সাহায্য</a>লৈ যাওঁক
+about-logins-intro-instruction-help = অধিক সহায়ৰ বাবে <a data-l10n-name="help-link">{ -lockwise-brand-short-name } সাহায্য</a>লৈ যাওক
 about-logins-intro-import = আপোনাৰ লগিনসমূহ আন কোনো ব্ৰাউজাৰত সঞ্চয় কৰা থাকিলে আপুনি <a data-l10n-name="import-link">সেয়া { -lockwise-brand-short-name }-ত আমদানি</a> কৰিব পাৰে
 
 ## Login
@@ -90,7 +90,7 @@ login-item-copy-username-button-text = কপি কৰক
 login-item-copied-username-button-text = কপি কৰা হ'ল!
 login-item-password-label = পাছৱৰ্ড
 login-item-password-reveal-checkbox =
-    .aria-label = পাছৱৰ্ড দেখুৱাওঁক
+    .aria-label = পাছৱৰ্ড দেখুৱাওক
 login-item-copy-password-button-text = কপি কৰক
 login-item-copied-password-button-text = কপি কৰা হল!
 login-item-save-changes-button = সাল-সলনি সঞ্চয়
@@ -147,8 +147,8 @@ enable-password-sync-notification-message =
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
-            [windows] { -sync-brand-short-name }-ৰ বিকল্পসমূহলৈ যাওঁক
-           *[other] { -sync-brand-short-name }-ৰ পছন্দসমূহলৈ যাওঁক
+            [windows] { -sync-brand-short-name }-ৰ বিকল্পসমূহলৈ যাওক
+           *[other] { -sync-brand-short-name }-ৰ পছন্দসমূহলৈ যাওক
         }
     .accesskey = V
 about-logins-enable-password-sync-dont-ask-again-button =
@@ -177,7 +177,7 @@ breach-alert-text = আপুনি শেষবাৰ আপোনাৰ লগ
 about-logins-breach-alert-date = এই উলংঘন { DATETIME($date, day: "numeric", month: "long", year: "numeric") } তাৰিখে ঘটিছে
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
-about-logins-breach-alert-link = { $hostname }-লৈ যাওঁক
+about-logins-breach-alert-link = { $hostname }-লৈ যাওক
 about-logins-breach-alert-learn-more-link = অধিক জানক
 
 ## Vulnerable Password notification
@@ -186,7 +186,7 @@ about-logins-vulnerable-alert-title = অসুৰক্ষিত পাছৱ�
 about-logins-vulnerable-alert-text2 = এই পাছৱৰ্ড আন এটা একাউণ্টত ব্যৱহাৰ কৰা হৈছে যিটোত সম্ভাব্য ডাটা উলংঘন ঘটিছে। পৰিচয়-পত্ৰ পুনৰ্ব্যৱহাৰ কৰাটোৱে আপোনাৰ আটাইকেইটা একাউণ্টক বিপদত পেলায়। এই পাছৱৰ্ড সলনি কৰক।
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
-about-logins-vulnerable-alert-link = { $hostname }-লৈ যাওঁক
+about-logins-vulnerable-alert-link = { $hostname }-লৈ যাওক
 about-logins-vulnerable-alert-learn-more-link = অধিক জানক
 
 ## Error Messages

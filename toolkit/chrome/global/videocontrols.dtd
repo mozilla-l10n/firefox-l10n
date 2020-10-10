@@ -2,12 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "চলাওঁক">
-<!ENTITY playButton.pauseLabel "ৰখাওঁক">
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!ENTITY playButton.playLabel "চলাওক">
+<!ENTITY playButton.pauseLabel "ৰখাওক">
 <!ENTITY muteButton.muteLabel "শব্দহীন কৰক">
 <!ENTITY muteButton.unmuteLabel "শব্দ চালু কৰক">
 <!ENTITY fullscreenButton.enterfullscreenlabel "পূৰ্ণ স্ক্ৰীণ">
-<!ENTITY fullscreenButton.exitfullscreenlabel "পূৰ্ণ স্ক্ৰীণৰ পৰা ওলাওঁক">
+<!ENTITY fullscreenButton.exitfullscreenlabel "পূৰ্ণ স্ক্ৰীণৰ পৰা ওলাওক">
 <!ENTITY castingButton.castingLabel "স্ক্ৰীণত কাষ্ট কৰক">
 <!ENTITY closedCaption.off "বন্ধ">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
@@ -17,6 +21,13 @@
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "ছবিৰ-ওপৰত-ছবি">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
 
 <!ENTITY error.aborted "ভিডিঅ' ল'ড হোৱাটো ৰৈ গ'ল।">
 <!ENTITY error.network "এটা নেটৱৰ্ক ত্ৰুটিৰ বাবে ভিডিঅ' প্লে'বেক ৰখোৱা হ'ল।">

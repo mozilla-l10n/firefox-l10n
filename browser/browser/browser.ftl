@@ -90,7 +90,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 urlbar-autoplay-notification-anchor =
     .tooltiptext = স্বয়ং-চলন পেনেল খোলক
 urlbar-persistent-storage-notification-anchor =
-    .tooltiptext = অপৰিৱৰ্তনীয় ষ্ট'ৰেজত ডাটা সঞ্চয় কৰক
+    .tooltiptext = অপৰিৱৰ্তনীয় ষ্ট'ৰেজত ডাটা সাঁচি থওক
 urlbar-addons-notification-anchor =
     .tooltiptext = এড-অন ইনষ্টলেশ্যন বাৰ্তা পেনেল খোলক
 urlbar-tip-help-icon =
@@ -189,7 +189,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = এইবাৰ এইটোৰে সন্ধান কৰক:
 # This string won't wrap, so if the translated string is longer,
@@ -297,6 +297,8 @@ sharing-warning-proceed-to-tab =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
 urlbar-remote-control-notification-anchor =
@@ -313,7 +315,7 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = পৃষ্ঠাৰ ক্ৰিয়াসমূহ
 urlbar-pocket-button =
-    .tooltiptext = { -pocket-brand-name }-ত সঞ্চয় কৰক
+    .tooltiptext = { -pocket-brand-name }-ত সাঁচি থওক
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

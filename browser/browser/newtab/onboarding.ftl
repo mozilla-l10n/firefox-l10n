@@ -26,7 +26,7 @@ onboarding-button-label-get-started = আৰম্ভ কৰক
 ## Welcome page strings
 
 onboarding-welcome-header = { -brand-short-name }-লৈ স্বাগতম
-onboarding-welcome-body = আপুনি ব্ৰাউজাৰ পালে।<br/>{ -brand-product-name }-ৰ বাকীখিনিৰ সৈতে চিনাকি হওঁক।
+onboarding-welcome-body = আপুনি ব্ৰাউজাৰ পালে।<br/>{ -brand-product-name }-ৰ বাকীখিনিৰ সৈতে চিনাকি হওক।
 onboarding-welcome-learn-more = লাভবোৰৰ বিষয়ে অধিক জানক।
 onboarding-join-form-body = আৰম্ভ কৰিবলৈ আপোনাৰ ইমেইল ঠিকনা প্ৰবিষ্ট কৰক।
 onboarding-join-form-email =

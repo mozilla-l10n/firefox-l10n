@@ -8,10 +8,10 @@
 <!ENTITY searchBox.placeholder         "বস্তু ফিল্টাৰ কৰক">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
-<!ENTITY storage.popupMenu.deleteAllLabel "সকলো বিলোপ">
+<!ENTITY storage.popupMenu.deleteAllLabel "সকলো মচক">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
-<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "সকলো ছেশ্যন কুকি বিলোপ কৰক">
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "সকলো ছেশ্যন কুকি মচি পেলাওক">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
 <!ENTITY storage.popupMenu.copyLabel "কপি কৰক">
