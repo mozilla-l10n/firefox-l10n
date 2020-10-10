@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-ics-file-window-2 =
+    .title = استيراد أحداث التقاويم ومهامه
 calendar-ics-file-dialog-import-event-button-label = استورِد الحدث
 calendar-ics-file-dialog-import-task-button-label = استورِد المهمة
 calendar-ics-file-dialog-2 =
