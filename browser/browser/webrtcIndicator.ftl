@@ -8,6 +8,11 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+# This string is used so that the window has a title in tools that enumerate/look for window
+# titles. It is not normally visible anywhere.
+webrtc-indicator-title = { -brand-short-name } - indikator dijeljenja
+webrtc-sharing-window = Dijeliš drugi prozor aplikacije.
+webrtc-sharing-browser-window = Dijeliš { -brand-short-name }.
 webrtc-sharing-screen = Dijeliš svoj cijeli zaslon
 webrtc-stop-sharing-button = Prestani dijeliti
 webrtc-microphone-button =
