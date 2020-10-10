@@ -6,5 +6,4 @@ restart-required-title = পুনৰাৰম্ভৰ প্ৰয়োজন
 restart-required-header = দুঃখিত। অব্যাহত ৰাখিবলৈ আমি কেৱল এটা সৰু কাম কৰিব লাগিব।
 restart-required-intro-brand = { -brand-short-name } এইমাত্ৰ পৃষ্ঠভূমিত আপডেট কৰা হৈছে। আপডেট সম্পূৰ্ণ কৰিবলৈ { -brand-short-name } পুনৰাৰম্ভ কৰক-ত ক্লিক কৰক।
 restart-required-description = আমি পিছত আপোনাৰ সকলো পৃষ্ঠা, উইণ্ড' আৰু টেব পুনঃস্থাপন কৰিম, যাতে আপুনি আপোনাৰ পথত খৰকৈ আহি পায়।
-
 restart-button-label = { -brand-short-name } পুনৰাৰম্ভ কৰক

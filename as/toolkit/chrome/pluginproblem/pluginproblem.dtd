@@ -17,10 +17,10 @@
 <!ENTITY reloadPlugin.middle                                 "পৃষ্ঠা ৰিল'ড কৰক">
 <!ENTITY reloadPlugin.post                                   " পুনৰ চেষ্টা কৰিবলৈ।">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "ক্রেশ্বৰ প্ৰতিবেদন প্ৰেৰণ কৰক">
+<!ENTITY report.please                                       "ক্ৰেশ্বৰ প্ৰতিবেদন প্ৰেৰণ কৰক">
 <!ENTITY report.submitting                                   "প্ৰতিবেদন প্ৰেৰণ হৈ আছে…">
-<!ENTITY report.submitted                                    "ক্রেশ্বৰ প্ৰতিবেদন প্ৰেৰণ কৰা হ'ল।">
-<!ENTITY report.disabled                                     "ক্রেশ্বৰ প্ৰতিবেদন নিষ্ক্ৰিয় কৰা হৈছে।">
+<!ENTITY report.submitted                                    "ক্ৰেশ্বৰ প্ৰতিবেদন প্ৰেৰণ কৰা হ'ল।">
+<!ENTITY report.disabled                                     "ক্ৰেশ্বৰ প্ৰতিবেদন নিষ্ক্ৰিয় কৰা হৈছে।">
 <!ENTITY report.failed                                       "দাখিল কৰাত বিফল হ'ল।">
 <!ENTITY report.unavailable                                  "কোনো প্ৰতিবেদন উপলব্ধ নহয়।">
 <!ENTITY report.comment                                      "মন্তব্য যোগ কৰক (মন্তব্যবোৰ ৰাজহুৱাকৈ দৃশ্যমান)">

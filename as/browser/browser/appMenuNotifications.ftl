@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></i
 appmenu-addon-post-install-incognito-checkbox =
     .label = এই এক্সটেনশ্যনক ব্যক্তিগত উইণ্ড'বোৰত চলাৰ অনুমতি দিয়ক
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = আপোনাৰ নতুন টেব সলনি হৈছে।
     .buttonlabel = সালসলনি ৰাখক

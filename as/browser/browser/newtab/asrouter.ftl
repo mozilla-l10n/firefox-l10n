@@ -78,15 +78,15 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = নতুন কি আছে
 cfr-whatsnew-release-notes-link-text = ৰিলীজ ন'টসমূহ পঢ়ক
 cfr-whatsnew-fx70-title = { -brand-short-name }-এ এতিয়া আপোনাৰ গোপনিয়তাৰ বাবে আৰু কঠোৰভাৱে যুঁজ দিয়ে
-cfr-whatsnew-tracking-protect-title = ট্রেকাৰসমূহৰ পৰা নিজকে ৰক্ষা কৰক
+cfr-whatsnew-tracking-protect-title = ট্ৰেকাৰসমূহৰ পৰা নিজকে ৰক্ষা কৰক
 cfr-whatsnew-tracking-protect-link-text = আপোনাৰ ৰিপ'ৰ্ট চাওক
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] ট্রেকাৰ অৱৰুদ্ধ হ'ল
-       *[other] ট্রেকাৰসমূহ অৱৰুদ্ধ হ'ল
+        [one] ট্ৰেকাৰ অৱৰুদ্ধ হ'ল
+       *[other] ট্ৰেকাৰসমূহ অৱৰুদ্ধ হ'ল
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } তাৰিখৰে পৰা
 cfr-whatsnew-tracking-blocked-link-text = ৰিপ'ৰ্ট চাওক
