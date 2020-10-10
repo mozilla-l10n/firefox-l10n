@@ -259,6 +259,10 @@ cfr-doorhanger-doh-primary-button = U redu, razumijem
 cfr-doorhanger-doh-secondary-button = Deaktiviraj
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = Izolacija stranice
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatska zaštita od podlih taktika praćenja
