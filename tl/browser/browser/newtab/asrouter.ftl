@@ -264,4 +264,5 @@ cfr-whatsnew-clear-cookies-image-alt = Pagsasalarawan ng pagharang sa cookie
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Karagdagang media control
+cfr-whatsnew-media-keys-body = Magpaandar o mag-pause ng audio o video direkta mula sa iyong keyboard o headset, para mas madali kontrolin ang media mula sa ibang tab, program, o kahit kapag naka-lock ang computer mo. Pwede ka rin lumipat sa iba't-ibang mga track gamit ang mga forward at back key.
 cfr-whatsnew-media-keys-button = Alamin kung papaano

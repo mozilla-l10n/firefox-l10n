@@ -29,6 +29,8 @@ search-input-box =
            *[other] Hanapin sa Mga Kagustuhan
         }
 managed-notice = Ang iyong browser ay mina-manage ng iyong organisasyon.
+category-list =
+    .aria-label = Mga Kategorya
 pane-general-title = Pangkalahatan
 category-general =
     .tooltiptext = { pane-general-title }
