@@ -32,8 +32,8 @@ certmgr-cert-detail-commonname = সাধাৰণ নাম (CN)
 certmgr-cert-detail-org = সংগঠন (O)
 certmgr-cert-detail-orgunit = সন্থাৰ একক (OU)
 certmgr-cert-detail-serial-number = ক্ৰম সংখ্যা
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 ফিংগাৰপ্ৰিন্ট
-certmgr-cert-detail-sha-1-fingerprint = SHA1 ফিংগাৰপ্ৰিন্ট
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 ফিংগাৰপ্ৰিণ্ট
+certmgr-cert-detail-sha-1-fingerprint = SHA1 ফিংগাৰপ্ৰিণ্ট
 certmgr-edit-ca-cert =
     .title = CA প্ৰমাণপত্ৰ বিশ্বাসৰ পছন্দ সম্পাদন কৰক
     .style = width: 48em;
@@ -60,7 +60,7 @@ certmgr-expires-on = শেষ হয়
 certmgr-expires-label =
     .label = শেষ হয়
 certmgr-email =
-    .label = ই-মেইল ঠিকনা
+    .label = ইমেইল ঠিকনা
 certmgr-serial =
     .label = ক্ৰম সংখ্যা
 certmgr-view =
@@ -101,7 +101,7 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = সুৰক্ষা ব্যতিক্ৰম সুনিশ্চিত কৰক
     .accesskey = C
-exception-mgr-supplemental-warning = ন্যায্য বেঙ্ক, ভঁৰাল, আৰু অন্য ৰাজহুৱা ছাইটবোৰে আপোনাক এয়া কৰিবলে নোসোধে।
+exception-mgr-supplemental-warning = ন্যায্য বেংক, ভঁৰাল, আৰু অন্য ৰাজহুৱা ছাইটবোৰে আপোনাক এয়া কৰিবলে নোসোধে।
 exception-mgr-cert-location-url =
     .value = অৱস্থান:
 exception-mgr-cert-location-download =
@@ -131,7 +131,7 @@ choose-p12-restore-file-dialog = ইমপোৰ্ট কৰিব লগিয়
 
 file-browse-certificate-spec = প্ৰমাণপত্ৰৰ ফাইল
 import-ca-certs-prompt = ইমপোৰ্ট কৰিব লগা CA প্ৰমাণপত্ৰ(সমূহ) থকা ফাইল বাছক
-import-email-cert-prompt = ইমপোৰ্ট কৰিব লগা কোনো লোকৰ ই-মেইল প্ৰমাণপত্ৰ থকা ফাইল বাছক
+import-email-cert-prompt = ইমপোৰ্ট কৰিব লগা কোনো লোকৰ ইমেইল প্ৰমাণপত্ৰ থকা ফাইল বাছক
 
 ## For editing certificates trust
 
@@ -154,9 +154,9 @@ delete-ca-cert-title =
 delete-ca-cert-confirm = আপুনি এই CA প্ৰমাণপত্ৰসমূহ মচি পেলোৱাৰ অনুৰোধ কৰিছে। বিল্ট-ইন প্ৰমাণপত্ৰসমূহৰ বাবে সকলো ভৰষা মচি পেলোৱা হব, যাৰ একে প্ৰভাৱ আছে। আপুনি নিশ্চিত নে আপুনি মচিব বা ভৰষাহীন কৰিব বিচাৰে?
 delete-ca-cert-impact = যদি আপুনি এটা প্ৰমাণপত্ৰ কতৃপক্ষ (CA) প্ৰমাণপত্ৰ মচি পেলায় বা ভৰষাহীন কৰে, এই অনুপ্ৰয়োগে সেই CA প্ৰেৰণ কৰা কোনো প্ৰমাণপত্ৰয় ভৱিষ্যতত ভৰষা নকৰে।
 delete-email-cert-title =
-    .title = ই-মেইল প্ৰমাণপত্ৰ আঁতৰাওক
-delete-email-cert-confirm = আপুনি এই কিজনৰ ই-মেইল প্ৰমাণপত্ৰ আঁতৰাবলৈ নিশ্চিত নে?
-delete-email-cert-impact = আপুনি এইজনৰ ই-মেইল প্ৰমাণপত্ৰ আঁতৰালে, আপুনি তেওঁলৈ আৰু এনক্ৰিপ্ট কৰা ই-মেইল পঠিয়াব নোৱাৰিব।
+    .title = ইমেইল প্ৰমাণপত্ৰ আঁতৰাওক
+delete-email-cert-confirm = আপুনি এই কিজনৰ ইমেইল প্ৰমাণপত্ৰ আঁতৰাবলৈ নিশ্চিত নে?
+delete-email-cert-impact = আপুনি এইজনৰ ইমেইল প্ৰমাণপত্ৰ আঁতৰালে, আপুনি তেওঁলৈ আৰু এনক্ৰিপ্ট কৰা ইমেইল পঠিয়াব নোৱাৰিব।
 
 ## Cert Viewer
 
@@ -172,9 +172,9 @@ verify-ssl-server =
 verify-ssl-ca =
     .value = SSL প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষ
 verify-email-signer =
-    .value = ই-মেইল স্বাক্ষৰক প্ৰমাণপত্ৰ
+    .value = ইমেইল স্বাক্ষৰক প্ৰমাণপত্ৰ
 verify-email-recip =
-    .value = ই-মেইল গ্ৰহনকাৰী প্ৰমাণপত্ৰ
+    .value = ইমেইল গ্ৰহনকাৰী প্ৰমাণপত্ৰ
 # Cert verification
 cert-not-verified-cert-revoked = ইয়াক ৰিভ'ক কৰাৰ কাৰণে এই প্ৰমাণপত্ৰক পৰীক্ষা কৰিব পৰা নগল।
 cert-not-verified-cert-expired = ই শেষ হোৱাৰ কাৰণে এই প্ৰমাণপত্ৰক পৰীক্ষা কৰিব পৰা নগল।

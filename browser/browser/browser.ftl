@@ -162,9 +162,9 @@ page-action-remove-extension =
 ## Page Action menu
 
 page-action-email-link-panel =
-    .label = লিঙ্ক ই-মেইল কৰক…
+    .label = লিংক ইমেইল কৰক…
 page-action-email-link-urlbar =
-    .tooltiptext = লিঙ্ক ই-মেইল কৰক…
+    .tooltiptext = লিংক ইমেইল কৰক…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
@@ -277,7 +277,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = অংশীদাৰী কৰিবলে মাইক্ৰফোন:
     .accesskey = M
-popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইন্ডোক অংশীদাৰী কৰা হব।
+popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইণ্ড'ক অংশীদাৰী কৰা হব।
 popup-screen-sharing-not-now =
     .label = এতিয়া নহয়
     .accesskey = w

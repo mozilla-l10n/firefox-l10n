@@ -12,12 +12,11 @@ places-open-all-in-tabs =
     .label = সকলোক টেবত খোলক
     .accesskey = O
 places-open-window =
-    .label = এটা নতুন উইন্ডোত খোলক
+    .label = এটা নতুন উইণ্ড'ত খোলক
     .accesskey = N
 places-open-private-window =
     .label = নতুন ব্যক্তিগত উইণ্ড' এটাত খোলক
     .accesskey = P
-
 places-new-bookmark =
     .label = নতুন পত্ৰচিহ্ন…
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = নতুন বিভাজক
     .accesskey = S
-
 places-view =
     .label = দৰ্শন কৰক
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = তাৰিখ আৰু ছাইটৰে
     .accesskey = t
-
 places-history-search =
     .placeholder = ইতিহাসৰ সন্ধান কৰক
 places-bookmarks-search =
     .placeholder = বুকমাৰ্কৰ সন্ধান কৰক
-
 places-delete-domain-data =
     .label = এই ছাইটৰ বিষয়ে পাহৰি যাওক
     .accesskey = F

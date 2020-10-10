@@ -18,11 +18,12 @@ unpin-tab =
     .label = টেব আনপিন কৰক
     .accesskey = b
 move-to-new-window =
-    .label = নতুন উইন্ডোলে যাওক
+    .label = নতুন উইণ্ড'লে যাওক
     .accesskey = W
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = টেব বন্ধ কৰক
     .accesskey = C
