@@ -5,7 +5,7 @@
 blocklist-window =
     .title = অৱৰোধ সূচি
     .style = width: 55em
-blocklist-description = অনলাইন ট্রেকাৰবোৰক অৱৰোধ কৰিবলৈ { -brand-short-name }-এ ব্যৱহাৰ কৰা সূচি বাচি লওক। <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>-ৰ দ্বাৰা সূচি প্ৰদান কৰা হয়।
+blocklist-description = অনলাইন ট্ৰেকাৰবোৰক অৱৰোধ কৰিবলৈ { -brand-short-name }-এ ব্যৱহাৰ কৰা সূচি বাচি লওক। <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>-ৰ দ্বাৰা সূচি প্ৰদান কৰা হয়।
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,6 +28,6 @@ blocklist-dialog =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = ১ম স্তৰৰ অৱৰোধ সূচি (পৰামৰ্শমূলক)।
-blocklist-item-moz-std-description = কিছুমান ট্রেকাৰক অনুমতি দিয়ে যাতে কমকৈ ৱেবছাইট নষ্ট হয়।
+blocklist-item-moz-std-description = কিছুমান ট্ৰেকাৰক অনুমতি দিয়ে যাতে কমকৈ ৱেবছাইট নষ্ট হয়।
 blocklist-item-moz-full-listName = ২য় স্তৰৰ অৱৰোধ সূচি।
-blocklist-item-moz-full-description = চিনাক্ত কৰা সকলো ট্রেকাৰ অৱৰোধ কৰে। কিছুমান ৱেবছাইট বা সমল ভাল দৰে ল'ড নহ'বও পাৰে।
+blocklist-item-moz-full-description = চিনাক্ত কৰা সকলো ট্ৰেকাৰ অৱৰোধ কৰে। কিছুমান ৱেবছাইট বা সমল ভাল দৰে ল'ড নহ'বও পাৰে।

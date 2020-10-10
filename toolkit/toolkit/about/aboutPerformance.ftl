@@ -23,7 +23,7 @@ preloaded-tab = প্ৰিল'ডেড: { $title }
 
 type-tab = টেব
 type-subframe = উপফ্ৰেম
-type-tracker = ট্রেকাৰ
+type-tracker = ট্ৰেকাৰ
 type-addon = এড-অ'ন
 type-browser = ব্ৰাউজাৰ
 type-worker = কৰ্মী
@@ -54,7 +54,6 @@ close-tab =
     .title = টেব বন্ধ কৰক
 show-addon =
     .title = এড-অ'ন পৰিচালকত দেখুৱাওক
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

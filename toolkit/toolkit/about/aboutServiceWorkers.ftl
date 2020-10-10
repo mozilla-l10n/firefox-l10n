@@ -9,7 +9,6 @@ about-service-workers-title = সেৱা কৰ্মীৰ বিষয়ে
 about-service-workers-main-title = পঞ্জীয়নভুক্ত সেৱা কৰ্মী
 about-service-workers-warning-not-enabled = সেৱা কৰ্মী সক্ষম কৰা নাই।
 about-service-workers-warning-no-service-workers = কোনো সেৱা কৰ্মী পঞ্জীয়নভুক্ত নহয়।
-
 # The original title of service workers' information
 #
 # Variables:
@@ -27,8 +26,6 @@ script-spec = <strong>লিপি স্পেক:</strong> <a data-l10n-name="
 current-worker-url = <strong>সাম্প্ৰতিক কৰ্মীৰ URL:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>সক্ৰিয় কেশ্বৰ নাম:</strong> { $name }
 waiting-cache-name = <strong>অপেক্ষাৰত কেশ্বৰ নাম:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = আপডেট কৰক
-
 waiting = অপেক্ষাৰত…

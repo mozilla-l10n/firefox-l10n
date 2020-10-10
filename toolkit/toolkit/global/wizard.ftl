@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < পিছলৈ
     .accesskey = B
-
 wizard-macos-button-next =
     .label = আগবাঢ়ক
     .accesskey = C
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = আগলৈ >
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = কৰা হ'ল
 wizard-linux-button-finish =
     .label = সম্পূৰ্ণ কৰক
 wizard-win-button-finish =
     .label = সমাপ্ত
-
 wizard-macos-button-cancel =
     .label = বাতিল কৰক
 wizard-linux-button-cancel =
