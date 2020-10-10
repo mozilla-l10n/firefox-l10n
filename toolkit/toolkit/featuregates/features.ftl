@@ -15,10 +15,13 @@ experimental-features-web-gpu2 =
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Mèdia : AVIF
+experimental-features-media-avif-description = Quand aquesta foncionalitat es activada, { -brand-short-name } prend en carga lo format AV1 Image File (AVIF). Aqueste format de fichièr d’imatge fixe utiliza las capacitats dels algoritmes de compression vidèo AV1 per reduire la talha de l’imatge. Consultatz aqueste <a data-l10n-name="bugzilla">bug 1443863</a> per mai de detalhs.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API : inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Nòstra implementacion de l’atribut global <a data-l10n-name="mdn-inputmode">inputmode</a> foguèt mesa a jorn respècte a <a data-l10n-name="whatwg">la especificacion WHATWG</a>, mas nos cal encara aportar d’unas modificacions, tal coma la va venir disponibla per de contengut modificables via contenteditable. Vejatz lo <a data-l10n-name="bugzilla">bug 1205133</a> per mai de detalhs.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
