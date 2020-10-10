@@ -29,6 +29,8 @@ search-input-box =
            *[other] ਮੇਰੀ ਪਸੰਦ 'ਚ ਲੱਭੋ
         }
 managed-notice = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦਾ ਬੰਦੋਬਸਤ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
+category-list =
+    .aria-label = ਵਰਗ
 pane-general-title = ਆਮ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ
 home-prefs-topsites-description = ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਭ ਤੋਂ ਵੱਧ ਵੇਖੀਆਂ ਸਾਈਟਾਂ
+home-prefs-topsites-by-option-sponsored =
+    .label = ਸਪਾਂਸਰ ਕੀਤੀਆਂ ਸਾਈਟਾਂ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -560,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = ਹੋਰ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਸੁਝਾਆਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 search-suggestions-cant-show = ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।
 search-one-click-header = ਇੱਕ-ਕਲਿੱਕ ਖੋਜ ਇੰਜਣ
+search-one-click-header2 = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
 search-one-click-desc = ਬਦਲਵੇਂ ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਚੁਣੋ, ਜੋ ਕਿ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਅਤੇ ਖੋਜ ਪੱਟੀ 'ਚ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਕੋਈ ਸ਼ਬਦ ਲਿਖਦੇ ਹੋ।
 search-choose-engine-column =
     .label = ਖੋਜ ਇੰਜਣ
@@ -571,6 +576,9 @@ search-restore-default =
 search-remove-engine =
     .label = ਹਟਾਓ
     .accesskey = r
+search-add-engine =
+    .label = ਜੋੜੋ
+    .accesskey = A
 search-find-more-link = ਹੋਰ ਖੋਜ ਇੰਜਣ ਲੱਭੋ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)

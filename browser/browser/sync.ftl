@@ -6,9 +6,16 @@ fxa-toolbar-sync-syncing =
     .label = …ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 fxa-toolbar-sync-syncing-tabs =
     .label = …ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-
 sync-disconnect-dialog-title = { -sync-brand-short-name } ਤੋਂ ਡਿਸ-ਕਨੈਕਟ ਕਰਨਾ ਹੈ?
 sync-disconnect-dialog-body = { -brand-product-name } ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਤਾਂ ਰੋਕ ਦੇਵਗਾ, ਪਰ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾਵੇਗਾ।
 fxa-disconnect-dialog-title = { -brand-product-name } ਡਿਸ-ਕਨੈਕਟ ਕਰਨਾ ਹੈ?
 fxa-disconnect-dialog-body = { -brand-product-name } ਨੂੰ ਤੁਹਾਡੇ ਖਾਤੇ ਤੋਂ ਡਿਸ-ਕਨੈਕਟ ਕੀਤਾ ਜਾਵੇਗਾ, ਪਰ ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਨਹੀਂ ਹਟਾਏਗਾ।
 sync-disconnect-dialog-button = ਡਿਸ-ਕਨੈਕਟ ਕਰੋ
+fxa-signout-dialog-heading = { -fxaccount-brand-name } ਤੋਂ ਸਾਈਨ-ਆਉਟ ਕਰਨਾ ਹੈ?
+fxa-signout-dialog-body = ਸਿੰਕ ਕੀਤਾ ਡਾਟਾ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਰਹੇਗਾ।
+fxa-signout-checkbox =
+    .label = ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਡਾਟਾ (ਲਾਗਇਨ, ਪਾਸਵਰਡ, ਅਤੀਤ, ਬੁੱਕਮਾਰਕ ਆਦਿ) ਹਟਾਓ।
+fxa-signout-dialog =
+    .title = { -fxaccount-brand-name } ਲਈ ਸਾਈਨ ਆਉਟ
+    .style = min-width: 375px;
+    .buttonlabelaccept = ਸਾਈਨ ਆਉਟ
