@@ -624,7 +624,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = I-download ang Firefox para sa<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> upang i-sync sa iyong mobile device.
+sync-mobile-promo = Mag-download ng Firefox para sa <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> para makapag-sync sa iyong mobile device.
 
 ## Firefox Account - Signed in
 
@@ -1014,15 +1014,15 @@ permissions-notification-settings =
     .accesskey = t
 permissions-notification-link = Alamin
 permissions-notification-pause =
-    .label = I-pause ang mga notification hanggang sa i-restart ang { -brand-short-name }
+    .label = Itigil pansamantala ang mga notification hanggang sa makapag-restart ang { -brand-short-name }
     .accesskey = n
 permissions-autoplay = Autoplay
 permissions-autoplay-settings =
     .label = Mga Setting...
     .accesskey = t
 permissions-block-popups =
-    .label = Harangin ang mga pop-up windows
-    .accesskey = H
+    .label = Harangin ang mga pop-up window
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Mga Exception...
     .accesskey = E
