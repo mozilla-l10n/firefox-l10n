@@ -248,8 +248,16 @@ cfr-doorhanger-doh-primary-button = OK, Nakuha ko
 cfr-doorhanger-doh-secondary-button = i-Disable
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = OK, Nakuha ko
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Alamin
+    .accesskey = L
+
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Awtomatikong proteksyon mula sa mga mapanlinlang na tracking
 cfr-whatsnew-clear-cookies-body = May ilang mga tracker na nireredirect ka sa ibang mga website na patagong naglalagay ng mga cookie. Kusa nang tinatanggal ng { -brand-short-name } ang mga cookie na ito para hindi ka masundan.
 cfr-whatsnew-clear-cookies-image-alt = Pagsasalarawan ng pagharang sa cookie
 

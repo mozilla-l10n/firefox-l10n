@@ -53,6 +53,7 @@ no-migration-sources = Walang mahanap na application na naglalaman ng bookmark, 
 import-source-page-title = Mag-import ng mga Setting at Data
 import-items-page-title = Mga item na Iimport
 import-items-description = Pumili kung aling item ang i-import:
+import-permissions-page-title = Pakibigyan ng pahintulot ang { -brand-short-name }
 import-migrating-page-title = Ini-import...
 import-migrating-description = Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat
 import-select-profile-page-title = Piliin ang Profile
