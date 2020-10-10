@@ -7,7 +7,6 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
-
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
 
@@ -15,7 +14,6 @@ toolbar-button-back =
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
-
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
 
@@ -29,7 +27,6 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Maja
     .accesskey = M
-
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -40,6 +37,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Jup u U'uje' Eche' uva'…
+    .accesskey = U
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -63,6 +63,9 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-play-speed-normal =
+    .label = Jik kuxhtu'
+    .accesskey = J
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -70,3 +73,11 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Ivatz Kaajayil
+    .accesskey = I
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u

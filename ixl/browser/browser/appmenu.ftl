@@ -5,6 +5,9 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = Ib'anax tuche'…
+
 ## Zoom Controls
 
 appmenuitem-zoom-enlarge =
@@ -20,4 +23,3 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kam ak' at ve'te'
-
