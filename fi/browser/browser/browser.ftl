@@ -285,6 +285,17 @@ identity-passive-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten ku
 identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
 identity-weak-encryption = Sivusto käyttää heikkoa salausta.
 identity-insecure-login-forms = Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.
+identity-https-only-connection-upgraded = (päivitetty HTTPS:ksi)
+identity-https-only-label = Vain HTTPS -tila
+identity-https-only-dropdown-on =
+    .label = Käytössä
+identity-https-only-dropdown-off =
+    .label = Ei käytössä
+identity-https-only-dropdown-off-temporarily =
+    .label = Ei käytössä väliaikaisesti
+identity-https-only-info-turn-on = Ota käyttöön, jos haluat, että { -brand-short-name } päivittää suojattuun yhteyteen mikäli mahdollista.
+identity-https-only-info-turn-off = Jos sivusto näyttää rikkinäiseltä, saatat haluta poistaa Vain HTTPS -tilan käytöstä ja ladata sivun uudestaan käyttäen suojaamatonta HTTP:tä.
+identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
 identity-permissions =
     .value = Käyttöoikeudet
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
@@ -447,6 +458,10 @@ urlbar-result-action-search-tabs = Etsi välilehdistä
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Hae hakukoneella { $engine } suoraan osoitepalkista
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Hae hakukoneella { $engine } suoraan osoitepalkista
 
 ## Full Screen and Pointer Lock UI
 

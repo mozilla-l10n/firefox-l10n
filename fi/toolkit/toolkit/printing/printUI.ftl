@@ -38,7 +38,6 @@ printui-less-settings = Vähemmän asetuksia
 printui-paper-size-label = Paperin koko
 # Section title (noun) for the print scaling options
 printui-scale = Koko
-printui-scale-fit-to-page = Sovita sivulle
 printui-scale-fit-to-page-width = Sovita sivun leveyteen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Koko
@@ -53,6 +52,11 @@ printui-margins = Reunukset
 printui-margins-default = Oletus
 printui-margins-min = Pienimmät
 printui-margins-none = Ei reunuksia
+printui-margins-custom = Mukautettu
+printui-margins-custom-top = Ylä
+printui-margins-custom-bottom = Ala
+printui-margins-custom-left = Vasen
+printui-margins-custom-right = Oikea
 printui-system-dialog-link = Tulosta käyttäen järjestelmän tulostusikkunaa…
 printui-primary-button = Tulosta
 printui-primary-button-save = Tallenna
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Koon on oltava luku välillä 10 ja 200.
+printui-error-invalid-margin = Anna valitulle paperin koolle kelvollinen reunus.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Sivualueen on oltava luku välillä 1 ja { $numPages }.

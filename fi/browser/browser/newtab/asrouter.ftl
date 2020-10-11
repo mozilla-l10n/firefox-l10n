@@ -257,6 +257,10 @@ cfr-doorhanger-doh-secondary-button = Poista käytöstä
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = Selvä
+    .accesskey = S
+cfr-doorhanger-fission-secondary-button = Lue lisää
+    .accesskey = L
 
 ## What's new: Cookies message
 
@@ -266,4 +270,6 @@ cfr-whatsnew-clear-cookies-image-alt = Kuvituskuva evästeen estämisestä
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Enemmän mediaohjaimia
+cfr-whatsnew-media-keys-body = Toista ja keskeytä ääni tai video suoraan näppäimistöltä tai kuulokkeista. Tämä helpottaa median hallintaa toisessa välilehdessä, ohjelmassa tai jopa silloin, kun tietokoneesi on lukittu. Voit siirtyä kappaleiden välillä myös eteen- ja taakse -näppäimillä.
 cfr-whatsnew-media-keys-button = Lue miten

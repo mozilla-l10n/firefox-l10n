@@ -29,6 +29,8 @@ search-input-box =
            *[other] Hae asetuksista
         }
 managed-notice = Organisaatiosi hallitsee selaimesi asetuksia.
+category-list =
+    .aria-label = Luokat
 pane-general-title = Yleiset
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Ykkössivustot
 home-prefs-topsites-description = Useimmin vierailemasi sivustot
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsoroidut ykkössivustot
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -560,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Muuta osoitepalkin muiden ehdotusten asetuksia
 search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
 search-one-click-header = Hakukoneet pikavalikossa
+search-one-click-header2 = Hakuoikotiet
 search-one-click-desc = Valitse vaihtoehtoiset hakukoneet, jotka ilmestyvät osoite- ja hakupalkin alalaitaan, kun alat kirjoittaa hakusanoja.
 search-choose-engine-column =
     .label = Hakukone
