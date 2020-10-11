@@ -255,6 +255,13 @@ cfr-doorhanger-doh-primary-button = Το κατάλαβα
 cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
     .accesskey = Α
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = Το κατάλαβα
+    .accesskey = Τ
+cfr-doorhanger-fission-secondary-button = Μάθετε περισσότερα
+    .accesskey = Μ
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Αυτόματη προστασία από περίεργες τακτικές ιχνηλάτησης
