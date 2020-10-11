@@ -544,6 +544,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = เปลี่ยนค่ากำหนดข้อเสนอแนะจากแถบที่อยู่อื่น ๆ
 search-suggestions-cant-show = ข้อเสนอแนะการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
 search-one-click-header = เครื่องมือค้นหาในคลิกเดียว
+search-one-click-header2 = ทางลัดการค้นหา
 search-one-click-desc = เลือกเครื่องมือค้นหาทางเลือกที่จะปรากฏด้านล่างแถบที่อยู่และแถบค้นหาเมื่อคุณเริ่มป้อนคำสำคัญ
 search-choose-engine-column =
     .label = เครื่องมือค้นหา

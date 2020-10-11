@@ -37,7 +37,6 @@ printui-less-settings = การตั้งค่าน้อยลง
 printui-paper-size-label = ขนาดกระดาษ
 # Section title (noun) for the print scaling options
 printui-scale = มาตราส่วน
-printui-scale-fit-to-page = พอดีกับหน้า
 printui-scale-fit-to-page-width = พอดีกับความกว้างของหน้า
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = มาตราส่วน
@@ -52,6 +51,11 @@ printui-margins = ระยะขอบ
 printui-margins-default = ค่าเริ่มต้น
 printui-margins-min = ต่ำสุด
 printui-margins-none = ไม่มี
+printui-margins-custom = กำหนดเอง
+printui-margins-custom-top = ด้านบน
+printui-margins-custom-bottom = ด้านล่าง
+printui-margins-custom-left = ด้านซ้าย
+printui-margins-custom-right = ด้านขวา
 printui-system-dialog-link = พิมพ์โดยใช้กล่องโต้ตอบระบบ…
 printui-primary-button = พิมพ์
 printui-primary-button-save = บันทึก
@@ -81,6 +85,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = มาตราส่วนต้องเป็นตัวเลขระหว่าง 10 ถึง 200
+printui-error-invalid-margin = โปรดป้อนระยะขอบที่ถูกต้องสำหรับขนาดกระดาษที่เลือก
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = ช่วงต้องเป็นตัวเลขระหว่าง 1 ถึง { $numPages }
