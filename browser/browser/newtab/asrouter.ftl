@@ -251,6 +251,11 @@ cfr-doorhanger-doh-secondary-button = ปิดใช้งาน
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = การแยกไซต์
+cfr-doorhanger-fission-primary-button = ตกลง เข้าใจแล้ว
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = เรียนรู้เพิ่มเติม
+    .accesskey = L
 
 ## What's new: Cookies message
 
