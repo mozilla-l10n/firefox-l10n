@@ -257,6 +257,7 @@ cfr-doorhanger-doh-secondary-button = Slå av
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Nettstadisolering
 cfr-doorhanger-fission-primary-button = Ok, eg forstår
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Les meir
