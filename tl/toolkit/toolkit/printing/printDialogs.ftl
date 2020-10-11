@@ -86,7 +86,7 @@ hf-url =
 hf-date-and-time =
     .label = Petsa/Oras
 hf-page =
-    .label = Bilang ng Pahina
+    .label = Pahina #
 hf-page-and-total =
     .label = Pahina # ng #
 hf-custom =
@@ -100,10 +100,9 @@ print-preparing =
 print-progress =
     .value = Progreso:
 print-window =
-    .title = Inililimbag
+    .title = Nagpi-print
 print-complete =
-    .value = Ang Pag-imprenta ay tapos na.
-
+    .value = Natapos na ang Pag-print.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
