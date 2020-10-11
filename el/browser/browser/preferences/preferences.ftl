@@ -29,6 +29,8 @@ search-input-box =
            *[other] Εύρεση στις προτιμήσεις
         }
 managed-notice = Το πρόγραμμα περιήγησής σας ρυθμίζεται από τον οργανισμό σας.
+category-list =
+    .aria-label = Κατηγορίες
 pane-general-title = Γενικά
 category-general =
     .tooltiptext = { pane-general-title }
