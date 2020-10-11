@@ -275,13 +275,29 @@ filter-decrypt-move-warn-experimental =
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Trajno dešifriraj (OpenPGP)
 filter-decrypt-copy-label = Ustvari dešifrirano kopijo (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Ključi so uspešno uvoženi!
+import-info-bits = Bitov
+import-info-created = Ustvarjen
+import-info-fpr = Prstni odtis
+import-info-details = Ogled podrobnosti in upravljanje sprejemanja ključev
 import-info-no-keys = Ni uvoženih ključev.
 # Strings in enigmailKeyManager.js
 import-from-clip = Ali želite z odložišča uvoziti ključ(e)?
+import-from-url = Prenesi javni ključ s tega spletnega naslova:
+copy-to-clipbrd-failed = Izbranih ključev ni bilo mogoče kopirati v odložišče.
+copy-to-clipbrd-ok = Ključi kopirani v odložišče
+delete-pub-key =
+    Ali želite izbrisati javni ključ
+    "{ $userId }"?
+delete-selected-pub-key = Ali želite izbrisati javne ključe?
+refresh-all-question = Izbrali niste nobenega ključa. Želite osvežiti vse ključe?
 key-man-button-export-sec-key = Izvozi &skrivne ključe
 key-man-button-export-pub-key = Izvozi samo &javne ključe
 key-man-button-refresh-all = &Osveži vse ključe
 key-man-loading-keys = Nalaganje ključev, počakajte …
+ascii-armor-file = Oklopne datoteke ASCII (*.asc)
 no-key-selected = Za izvedbo izbranega dejanja izberite vsaj en ključ
 export-to-file = Izvozi javni ključ v datoteko
 export-keypair-to-file = Izvozi skrivni in javni ključ v datoteko
@@ -290,6 +306,7 @@ save-keys-ok = Ključi so bili uspešno shranjeni
 save-keys-failed = Shranjevanje ključev ni uspelo
 default-pub-key-filename = Izvozeni_javni_kljuci
 default-pub-sec-key-filename = Varnostna_kopija_skrivnih_kljucev
+preview-failed = Datoteke z javnim ključem ni mogoče prebrati.
 general-error = Napaka: { $reason }
 dlg-button-delete = &Izbriši
 
@@ -303,11 +320,15 @@ openpgp-export-secret-fail = <b>Izbranega skrivnega ključa ni mogoče izvoziti!
 key-ring-pub-key-revoked = Ključ { $userId } (ID ključa { $keyId }) je preklican.
 key-ring-pub-key-expired = Ključu { $userId } (ID ključa { $keyId }) je pretekla veljavnost.
 key-ring-key-disabled = Ključ { $userId } (ID ključa { $keyId }) je onemogočen in ga ni moč uporabljati.
+key-ring-pub-key-not-for-signing = Ključa { $userId } (ID ključa { $keyId }) ni mogoče uporabiti za podpisovanje.
+key-ring-pub-key-not-for-encryption = Ključa { $userId } (ID ključa { $keyId }) ni mogoče uporabiti za šifriranje.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotografija
 user-att-photo = Atribut uporabnika (slika JPEG)
 # Strings in key.jsm
 already-revoked = Ta ključ je že preklican.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Ključ 0x{ $keyId } je že preklican.
 key-man-button-revoke-key = Pre&kliči ključ
 openpgp-key-revoke-success = Ključ uspešno preklican.
 # Strings in keyRing.jsm & decryption.jsm
@@ -316,6 +337,7 @@ delete-key-title = Izbriši ključ OpenPGP
 delete-external-key-title = Odstrani zunanji ključ GnuPG
 key-in-use-title = Ključ OpenPGP je trenutno v uporabi
 gnupg-file = Datoteke GnuPG
+import-keys-failed = Uvažanje ključev ni uspelo
 gen-going = Ustvarjanje ključev že poteka!
 expiry-too-short = Ključ mora biti veljaven vsaj en dan.
 expiry-too-long = Ne morete ustvariti ključa, ki preteče čez več kot 100 let.
@@ -325,6 +347,17 @@ key-man-button-generate-key-abort = &Prekini ustvarjanje ključev
 key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Napaka – dešifriranje ni uspelo
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Pošlji sporočilo
+msg-compose-details-button-label = Podrobnosti …
+msg-compose-details-button-access-key = d
+send-aborted = Pošiljanje je prekinjeno.
+key-not-found = Ključa "{ $key }" ni mogoče najti
+key-revoked = Ključ "{ $key }" je preklican
+key-expired = Ključ "{ $key }" je pretekel
+msg-compose-internal-error = Prišlo je do notranje napake.
+keys-to-export = Izberite ključe OpenPGP za vstavitev
+msg-compose-cannot-save-draft = Napaka pri shranjevanju osnutka
 cannot-send-sig-because-no-own-key = Tega sporočila ni mogoče digitalno podpisati, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
 cannot-send-enc-because-no-own-key = Tega sporočila ni mogoče poslati šifrirano, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
 no-repeat = To opozorilo ne bo več prikazano.
