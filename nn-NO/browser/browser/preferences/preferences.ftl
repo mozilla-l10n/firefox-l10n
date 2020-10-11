@@ -29,6 +29,8 @@ search-input-box =
            *[other] Søk i innstillingar
         }
 managed-notice = Nettlessaren din vert administrert av organisasjonen din.
+category-list =
+    .aria-label = Kategoriar
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
