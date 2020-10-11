@@ -15,8 +15,10 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = ਅਥਾਰਟੀ
 certmgr-mine = ਤੁਹਾਡੇ ਕੋਲ ਇਹਨਾਂ ਸੰਗਠਨਾਂ ਤੋਂ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਤੁਹਾਨੂੰ ਪਛਾਣਦੀਆਂ ਹਨ
+certmgr-remembered = ਇਹ ਸਰਟੀਫਿਕੇਟ ਹੋਰ ਵੈਬਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੀ ਪਛਾਣ ਕਰਵਾਉਣ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਹਨ
 certmgr-people = ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਲੋਕਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
 certmgr-servers = ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਵਰਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
+certmgr-server = ਇਹ ਇੰਦਰਾਜ਼ ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਗ਼ਲਤੀ ਛੋਟਾਂ ਦੀ ਪਛਾਣਦੇ ਹਨ
 certmgr-ca = ਤੁਹਾਡੇ ਕੋਲ ਫਾਇਲ 'ਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀਆਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
 certmgr-detail-general-tab-title =
     .label = ਆਮ
@@ -51,6 +53,8 @@ certmgr-edit-cert-trust-email =
 certmgr-delete-cert =
     .title = ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ
     .style = width: 48em; height: 24em;
+certmgr-cert-host =
+    .label = ਹੋਸਟ
 certmgr-cert-name =
     .label = ਸਰਟੀਫਿਕੇਟ ਨਾਂ
 certmgr-cert-server =
@@ -158,6 +162,10 @@ delete-ssl-cert-title =
     .title = ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਅਪਵਾਦ ਨੂੰ ਹਟਾਓ
 delete-ssl-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਵਰ ਛੋਟਾਂ ਹਟਾਉਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?
 delete-ssl-cert-impact = ਜੇ ਤੁਸੀਂ ਇੱਕ ਸਰਵਰ ਅਪਵਾਦ ਨੂੰ ਹਟਾਇਆ ਤਾਂ, ਤੁਸੀਂ ਉਸ ਸਾਈਟ ਲਈ ਆਮ ਸੁਰੱਖਿਆ ਚੈੱਕ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਦੇ ਹੋ ਅਤੇ ਇਸ ਲਈ ਇੱਕ ਵੈਧ ਸਰਟੀਫਿਕੇਟ ਚਾਹੀਦਾ ਹੈ।
+delete-ssl-override-title =
+    .title = ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਛੋਟ ਨੂੰ ਹਟਾਓ
+delete-ssl-override-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਵਰ ਛੋਟ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+delete-ssl-override-impact = ਜੇ ਤੁਸੀਂ ਸਰਵਰ ਛੋਟ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਤਾਂ ਤੁਸੀਂ ਉਸ ਸਰਵਰ ਲਈ ਅਕਸਰ ਹੁੰਦੀਆਂ ਸੁਰੱਖਿਆ ਜਾਂਚਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋਗੇ ਅਤੇ ਇਸ ਨੂੰ ਵਾਜਬ ਸਰਟੀਫਿਕੇਟ ਵਰਤਣ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।
 delete-ca-cert-title =
     .title = CA ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਓ ਜਾਂ ਬੇਭਰੋਸੇਯੋਗ ਬਣਾਓ
 delete-ca-cert-confirm = ਤੁਸੀਂ ਇਹ CA ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ। ਬਿਲਟ-ਇਨ ਸਰਟੀਫਿਕੇਟ ਲਈ, ਸਭ ਭਰੋਸਾ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਦਾ ਇਹੀ ਪਰਭਾਵ ਹੈ। ਕੀ ਤੁਸੀਂ ਹਟਾਉਣਾ ਜਾਂ ਭਰੋਸਾ ਖਤਮ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
@@ -205,9 +213,15 @@ cert-not-verified-issuer-unknown = ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜ
 cert-not-verified-ca-invalid = ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ, ਕਿਉਕਿ CA ਸਰਟੀਫਿਕੇਟ ਜਾਇਜ ਨਹੀਂ ਹੈ।
 cert-not-verified_algorithm-disabled = ਇਹ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ, ਕਿਉਂਕਿ ਇਸ ਨੂੰ ਦਸਤਖਤ ਐਲੋਗਰਿਥਮ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਜੋ ਕਿ ਐਲੋਗਰਿਥਮ ਦੇ ਅਸੁਰੱਖਿਅਤ ਹੋਣ ਕਰਕੇ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਸੀ।
 cert-not-verified-unknown = ਅਣਜਾਣ ਕਾਰਨ ਕਰਕੇ ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ।
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = ਕੋਈ ਕਲਾਈਂਟ ਸਰਟੀਫਿਕੇਟ ਨਾ ਭੇਜੋ
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (ਸੰਭਾਲਿਆ ਨਹੀਂ ਹੈ)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = ਪੱਕਾ
+temporary-override = ਆਰਜ਼ੀ
 
 ## Add Security Exception dialog
 
