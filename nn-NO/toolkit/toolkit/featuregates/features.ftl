@@ -99,3 +99,6 @@ experimental-features-webrtc-global-mute-toggles-description = Legg til kontroll
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Slå på Warp, eit prosjekt for å forbetre JavaScript-ytelse og minnebruk.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (nettstadisolering)
