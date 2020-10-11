@@ -5,66 +5,53 @@
 permissions-window =
     .title = Excepciones
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Dirección del sitio web
     .accesskey = D
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Habilitar durante sesión
     .accesskey = S
-
 permissions-allow =
     .label = Habilitar
     .accesskey = A
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Eliminar sitio
     .accesskey = r
-
 permissions-remove-all =
     .label = Eliminar todos los sitios
     .accesskey = E
-
 permissions-button-cancel =
     .label = Cancelar
     .accesskey = C
-
 permissions-button-ok =
     .label = Guardar cambios
     .accesskey = G
-
+permission-dialog =
+    .buttonlabelaccept = Guardar cambios
+    .buttonaccesskeyaccept = S
 permissions-autoplay-menu = Predeterminado para todos los sitios web:
-
 permissions-searchbox =
     .placeholder = Buscar sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir audio y video
 permissions-capabilities-autoplay-block =
     .label = Bloquear audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear audio y video
-
 permissions-capabilities-allow =
     .label = Habilitar
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar siempre
-
 permissions-capabilities-listitem-allow =
     .value = Habilitar
 permissions-capabilities-listitem-block =
@@ -111,8 +98,6 @@ permissions-exceptions-addons-window =
     .title = Sitios permitidos - Instalación de complementos
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Puede especificar qué sitios web podrán instalar complementos. Ingrese la dirección exacta del sitio que desea habilitar y luego haga clic en Habilitar.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
