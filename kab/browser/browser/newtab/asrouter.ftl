@@ -252,6 +252,7 @@ cfr-doorhanger-doh-secondary-button = Sens
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Aɛzal n usmel
 cfr-doorhanger-fission-primary-button = IH, awi-t
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Issin ugar
