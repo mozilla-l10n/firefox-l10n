@@ -295,6 +295,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = Desactivado temporalmente
 identity-https-only-info-turn-on = Actívelo si quiere que { -brand-short-name } cambie a una conexión segura cuando sea posible.
 identity-https-only-info-turn-off = Si el sitio no funciona correctamente, es posible que quiera desactivar el modo solo HTTPS para volver a cargar usando una conexión HTTP insegura.
+identity-https-only-info-no-upgrade = No se puede actualizar la conexión desde HTTP.
 identity-permissions =
     .value = Permisos
 identity-permissions-reload-hint = Puede que necesite recargar la página para que se apliquen los cambios.
