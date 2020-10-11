@@ -29,6 +29,8 @@ search-input-box =
            *[other] Tschertgar en las preferenzas
         }
 managed-notice = Tes navigatur vegn administrà da tia organisaziun.
+category-list =
+    .aria-label = Categorias
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Paginas preferidas
 home-prefs-topsites-description = Las paginas che ti visitas il pli savens
+home-prefs-topsites-by-option-sponsored =
+    .label = Websites principalas sponsurisadas
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

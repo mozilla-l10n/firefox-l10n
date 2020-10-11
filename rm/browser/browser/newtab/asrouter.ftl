@@ -250,6 +250,15 @@ cfr-doorhanger-doh-primary-button = OK, chapì
 cfr-doorhanger-doh-secondary-button = Deactivar
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body = { -brand-short-name } ha activà la nova funcziunalitad experimentala «Fission» (isolaziun da websites). Cun isolar mintga website en in process separà, porscha Fission in nivel supplementar da segirezza per tai e las websites che ti visitas.
+cfr-doorhanger-fission-header = Isolaziun da websites
+cfr-doorhanger-fission-primary-button = OK, chapì
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Ulteriuras infurmaziuns
+    .accesskey = l
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Protecziun automatica cunter tacticas malignas da fastizar
