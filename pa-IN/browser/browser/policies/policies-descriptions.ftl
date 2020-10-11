@@ -70,6 +70,8 @@ policy-LegacyProfiles = ਹਰੇਕ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਵੱ�
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = ਡਿਫਾਲਟ ਪੁਰਾਤਨ SameSite ਕੂਕੀ ਵਿਵਹਾਰ ਸੈਟਿੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰੋ।
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = ਨਿਰਧਾਰਤ ਸਾਈਟਾਂ ਉਤੇ ਕੂਕੀਜ਼ ਲਈ ਪੁਰਾਤਨ SameSite ਸਾਈਟ ਵਿਵਹਾਰ ਲਈ ਪਰਤਾਓ।
 
 ##
 
