@@ -101,4 +101,5 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = Активирует проект Warp, повышающий производительность JavaScript и снижающий потребление памяти.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
-    .label = Fission (изоляция сайтов)
+    .label = Fission (изоляция сайта)
+experimental-features-fission-description = Fission (изоляция сайта) — это экспериментальная функция в { -brand-short-name }, обеспечивающая дополнительный уровень защиты от ошибок системы безопасности. Изолируя каждый сайт в отдельный процесс, Fission затрудняет доступ вредоносных веб-сайтов к информации с других посещаемых вами страниц. Это серьезное архитектурное изменение в { -brand-short-name }, и мы будем благодарны вас за тестирование и сообщения о любых проблемах, с которыми вы можете столкнуться. Для получения дополнительных сведений прочтите <a data-l10n-name="wiki">вики</a>.
