@@ -29,6 +29,8 @@ search-input-box =
            *[other] ค้นหาในค่ากำหนด
         }
 managed-notice = เบราว์เซอร์ของคุณกำลังถูกจัดการโดยองค์กรของคุณ
+category-list =
+    .aria-label = หมวดหมู่
 pane-general-title = ทั่วไป
 category-general =
     .tooltiptext = { pane-general-title }
@@ -477,6 +479,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = ไซต์เด่น
 home-prefs-topsites-description = ไซต์ที่คุณเยี่ยมชมมากที่สุด
+home-prefs-topsites-by-option-sponsored =
+    .label = ไซต์เด่นที่ได้รับการสนับสนุน
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
