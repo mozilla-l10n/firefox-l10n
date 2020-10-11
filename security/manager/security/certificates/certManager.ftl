@@ -4,176 +4,124 @@
 
 certmgr-title =
     .title = ਸਰਟੀਫਕੇਟ ਮੈਨੇਜਰ
-
 certmgr-tab-mine =
     .label = ਤੁਹਾਡਾ ਸਰਟੀਫਕੇਟ
-
+certmgr-tab-remembered =
+    .label = ਪਰਮਾਣਕਿਤਾ ਫ਼ੈਸਲੇ
 certmgr-tab-people =
     .label = ਲੋਕ
-
 certmgr-tab-servers =
     .label = ਸਰਵਰ
-
 certmgr-tab-ca =
     .label = ਅਥਾਰਟੀ
-
 certmgr-mine = ਤੁਹਾਡੇ ਕੋਲ ਇਹਨਾਂ ਸੰਗਠਨਾਂ ਤੋਂ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਤੁਹਾਨੂੰ ਪਛਾਣਦੀਆਂ ਹਨ
 certmgr-people = ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਲੋਕਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
 certmgr-servers = ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਵਰਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
 certmgr-ca = ਤੁਹਾਡੇ ਕੋਲ ਫਾਇਲ 'ਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀਆਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
-
 certmgr-detail-general-tab-title =
     .label = ਆਮ
     .accesskey = G
-
 certmgr-detail-pretty-print-tab-title =
     .label = ਵੇਰਵਾ
     .accesskey = D
-
 certmgr-pending-label =
     .value = ਹੁਣ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...
-
 certmgr-subject-label = ਇਸ ਨੂੰ ਜਾਰੀ
-
 certmgr-issuer-label = ਇਸ ਵਲੋਂ ਜਾਰੀ
-
 certmgr-period-of-validity = ਵੈਧਤਾ ਦਾ ਅੰਤਰਾਲ
-
 certmgr-fingerprints = ਫਿੰਗਰਪਰਿੰਟ
-
 certmgr-cert-detail =
     .title = ਸਰਟੀਫਕੇਟ ਵੇਰਵਾ
     .buttonlabelaccept = ਬੰਦ ਕਰੋ
     .buttonaccesskeyaccept = C
-
 certmgr-cert-detail-commonname = ਆਮ ਨਾਂ (CN)
-
 certmgr-cert-detail-org = ਸੰਗਠਨ (O)
-
 certmgr-cert-detail-orgunit = ਸੰਗਠਨ ਯੂਨਿਟ (OU)
-
 certmgr-cert-detail-serial-number = ਸੀਰੀਅਲ ਨੰਬਰ
-
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 ਫਿੰਗਰਪਰਿੰਟ
-
 certmgr-cert-detail-sha-1-fingerprint = SHA1 ਫਿੰਗਰਪਰਿੰਟ
-
 certmgr-edit-ca-cert =
     .title = CA ਸਰਟੀਫਿਕੇਟ ਟਰੱਸਟ ਸੈਟਿੰਗ ਸੋਧ
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = ਟਰੱਸਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ:
-
 certmgr-edit-cert-trust-ssl =
     .label = ਇਹ ਸਰਟੀਫਿਕੇਟ ਵੈੱਬ ਸਾਇਟਾਂ ਦੀ ਪਛਾਣ ਕਰ ਸਕਦਾ ਹੈ।
-
 certmgr-edit-cert-trust-email =
     .label = ਇਹ ਸਰਟੀਫਿਕੇਟ ਮੇਲ ਯੂਜ਼ਰਾਂ ਨੂੰ ਪਛਾਣ ਸਕਦਾ ਹੈ।
-
 certmgr-delete-cert =
     .title = ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ
     .style = width: 48em; height: 24em;
-
 certmgr-cert-name =
     .label = ਸਰਟੀਫਿਕੇਟ ਨਾਂ
-
 certmgr-cert-server =
     .label = ਸਰਵਰ
-
 certmgr-override-lifetime =
     .label = ਲਾਇਫ-ਟਾਈਮ
-
 certmgr-token-name =
     .label = ਸੁਰੱਖਿਆ ਜੰਤਰ
-
 certmgr-begins-on = ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ
-
 certmgr-begins-label =
     .label = ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ
-
 certmgr-expires-on = ਮਿਆਦ
-
 certmgr-expires-label =
     .label = ਮਿਆਦ
-
 certmgr-email =
     .label = ਈਮੇਲ ਐਡਰੈੱਸ
-
 certmgr-serial =
     .label = ਸੀਰੀਅਲ ਨੰਬਰ
-
 certmgr-view =
     .label = … ਨੂੰ ਵੇਖੋ
     .accesskey = V
-
 certmgr-edit =
     .label = ਭਰੋਸੇ ਨੂੰ ਸੋਧ…
     .accesskey = E
-
 certmgr-export =
     .label = …ਨੂੰ ਐਕਸਪੋਰਟ
     .accesskey = x
-
 certmgr-delete =
     .label = …ਨੂੰ ਹਟਾਓ
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = …ਹਟਾਓ ਜਾਂ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ
     .accesskey = D
-
 certmgr-backup =
     .label = …ਬੈਕਅੱਪ
     .accesskey = B
-
 certmgr-backup-all =
     .label = …ਸਭ ਬੈਕਅੱਪ
     .accesskey = k
-
 certmgr-restore =
     .label = …ਨੂੰ ਇੰਪੋਰਟ
     .accesskey = m
-
 certmgr-details =
     .value = ਸਰਟੀਫਿਕੇਟ ਖੇਤਰ
     .accesskey = F
-
 certmgr-fields =
     .value = ਖੇਤਰ ਮੁੱਲ
     .accesskey = V
-
 certmgr-hierarchy =
     .value = ਸਰਟੀਫਿਕੇਟ ਲੜੀ
     .accesskey = H
-
 certmgr-add-exception =
     .label = …ਨੂੰ ਛੋਟ ਦਿਓ
     .accesskey = x
-
 exception-mgr =
     .title = ਸੁਰੱਖਿਆ ਛੋਟ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ
-
 exception-mgr-extra-button =
     .label = ਸੁਰੱਖਿਆ ਛੋਟ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
     .accesskey = C
-
 exception-mgr-supplemental-warning = ਉੱਚਿਤ ਬੈਕਾਂ, ਸਟੋਰ ਅਤੇ ਹੋਰ ਪਬਲਿਕ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਇਹ ਕਰਨ ਲਈ ਨਹੀਂ ਪੁੱਛਣਗੀਆਂ।
-
 exception-mgr-cert-location-url =
     .value = ਟਿਕਾਣਾ:
-
 exception-mgr-cert-location-download =
     .label = ਸਰਟੀਫਿਕੇਟ ਲਵੋ
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = …ਵੇਖੋ
     .accesskey = V
-
 exception-mgr-permanent =
     .label = ਇਹ ਛੋਟ ਹਮੇਸ਼ਾ ਲਈ ਸਟੋਰ ਕਰੋ
     .accesskey = P
-
 pk11-bad-password = ਦਿੱਤਾ ਪਾਸਵਰਡ ਗਲਤ ਹੈ।
 pkcs12-decode-err = ਫਾਈਲ ਡੀ-ਕੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ। ਜਾਂ ਤਾਂ ਇਹ PKCS #12 ਫਾਰਮੈਤ 'ਚ ਨਹੀਂ, ਨਿਕਾਰਾ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਭਰਿਆ ਪਾਸਵਰਡ ਗਲਤ ਹੈ।
 pkcs12-unknown-err-restore = ਅਣਜਾਣ ਕਾਰਨਾਂ ਕਰਕੇ  PKCS #12 ਫਾਈਲ ਸਟੋਰ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।
@@ -206,24 +154,18 @@ delete-user-cert-title =
     .title = ਆਪਣਾ ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ
 delete-user-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ?
 delete-user-cert-impact = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਆਪਣੀ ਪਛਾਣ ਲਈ ਇਸਤੇਮਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।
-
-
 delete-ssl-cert-title =
     .title = ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਅਪਵਾਦ ਨੂੰ ਹਟਾਓ
 delete-ssl-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਵਰ ਛੋਟਾਂ ਹਟਾਉਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?
 delete-ssl-cert-impact = ਜੇ ਤੁਸੀਂ ਇੱਕ ਸਰਵਰ ਅਪਵਾਦ ਨੂੰ ਹਟਾਇਆ ਤਾਂ, ਤੁਸੀਂ ਉਸ ਸਾਈਟ ਲਈ ਆਮ ਸੁਰੱਖਿਆ ਚੈੱਕ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਦੇ ਹੋ ਅਤੇ ਇਸ ਲਈ ਇੱਕ ਵੈਧ ਸਰਟੀਫਿਕੇਟ ਚਾਹੀਦਾ ਹੈ।
-
 delete-ca-cert-title =
     .title = CA ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਓ ਜਾਂ ਬੇਭਰੋਸੇਯੋਗ ਬਣਾਓ
 delete-ca-cert-confirm = ਤੁਸੀਂ ਇਹ CA ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ। ਬਿਲਟ-ਇਨ ਸਰਟੀਫਿਕੇਟ ਲਈ, ਸਭ ਭਰੋਸਾ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਦਾ ਇਹੀ ਪਰਭਾਵ ਹੈ। ਕੀ ਤੁਸੀਂ ਹਟਾਉਣਾ ਜਾਂ ਭਰੋਸਾ ਖਤਮ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
 delete-ca-cert-impact = ਜੇ ਤੁਸੀਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ (CA) ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਉਣ ਜਾਂ ਬੇਭਰੋਸੇਯੋਗ ਬਣਾਇਆ ਤਾਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਉਸ CA ਵਲੋਂ ਜਾਰੀ ਕੀਤੇ ਕਿਸੇ ਵੀ ਸਰਟੀਫਿਕੇਟ ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰੇਗੀ।
-
-
 delete-email-cert-title =
     .title = ਈ-ਮੇਲ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਓ
 delete-email-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਲੋਕਾਂ ਦੇ ਈਮੇਲ ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣੇ ਚਾਹੁੰਦੇ ਹੋ?
 delete-email-cert-impact = ਜੇ ਤੁਸੀਂ ਇੱਕ ਵਿਅਕਤੀ ਦਾ ਈਮੇਲ ਸਰਟੀਫਿਕੇਟ ਹਟਾ ਦਿੱਤਾ ਤਾਂ ਤੁਸੀਂ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਇਕ੍ਰਿਪਟ ਕਰਕੇ ਈਮੇਲ ਨਹੀਂ ਭੇਜ ਸਕੋਗੇ।
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -239,29 +181,21 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = ਸਰਟੀਫਿਕੇਟ ਦਰਸ਼ਕ: “{ $certName }”
-
 not-present =
     .value = <ਸਰਟੀਫਿਕੇਟ ਦਾ ਭਾਗ ਨਹੀਂ>
-
 # Cert verification
 cert-verified = ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਹੇਠ ਲਿਖੀ ਵਰਤੋਂ ਲਈ ਕੀਤੀ ਗਈ ਹੈ:
-
 # Add usage
 verify-ssl-client =
     .value = SSL ਕਲਾਇਟ ਸਰਟੀਫਿਕੇਟ
-
 verify-ssl-server =
     .value = SSL ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ
-
 verify-ssl-ca =
     .value = SSL ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ
-
 verify-email-signer =
     .value = ਈਮੇਲ Signer ਸਰਟੀਫਿਕੇਟ
-
 verify-email-recip =
     .value = ਈਮੇਲ Recipient ਸਰਟੀਫਿਕੇਟ
-
 # Cert verification
 cert-not-verified-cert-revoked = ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ, ਕਿਉਕਿ ਇਹ ਰੱਦ ਕੀਤਾ ਗਿਆ ਹੈ।
 cert-not-verified-cert-expired = ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ, ਕਿਉਕਿ ਇਸ ਦੀ ਮਿਆਦ ਪੁੱਗ ਚੁੱਕੀ ਹੈ।
@@ -271,6 +205,9 @@ cert-not-verified-issuer-unknown = ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜ
 cert-not-verified-ca-invalid = ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ, ਕਿਉਕਿ CA ਸਰਟੀਫਿਕੇਟ ਜਾਇਜ ਨਹੀਂ ਹੈ।
 cert-not-verified_algorithm-disabled = ਇਹ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ, ਕਿਉਂਕਿ ਇਸ ਨੂੰ ਦਸਤਖਤ ਐਲੋਗਰਿਥਮ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਜੋ ਕਿ ਐਲੋਗਰਿਥਮ ਦੇ ਅਸੁਰੱਖਿਅਤ ਹੋਣ ਕਰਕੇ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਸੀ।
 cert-not-verified-unknown = ਅਣਜਾਣ ਕਾਰਨ ਕਰਕੇ ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ।
+
+## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
