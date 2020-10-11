@@ -29,6 +29,8 @@ search-input-box =
            *[other] Af deg ismenyifen
         }
 managed-notice = Iminig-ik tessefrak-it tuddsa-ik.
+category-list =
+    .aria-label = Taggayin
 pane-general-title = Amatu
 category-general =
     .tooltiptext = { pane-general-title }
