@@ -491,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Wichtige Seiten
 home-prefs-topsites-description = Die von Ihnen am meisten besuchten Websites
+home-prefs-topsites-by-option-sponsored =
+    .label = Gesponserte wichtige Seiten
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
