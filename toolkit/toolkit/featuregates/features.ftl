@@ -39,9 +39,6 @@ experimental-features-css-focus-visible-description = Permet d’aplicar d’est
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API : beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = a> es activat suls elements <a data-l10n-name="mdn-input">&lt;input&gt;</a> e <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, o quin element que siá que l’atribut <a data-l10n-name="mdn-contenteditable">contenteditable</a> es definit, sul pic abans que l’element càmbie de valor. Per exemple, las aplicacions web pòdon anullar çò que pica l’utilizaire unicament per de caractèrs especifics, o pòdon modificar l’empegatge d’un tèxt format unicament amb d’estils aprovats.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
