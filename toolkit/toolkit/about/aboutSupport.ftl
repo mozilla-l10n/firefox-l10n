@@ -7,7 +7,6 @@ page-subtitle =
     ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਮੱਸਿਆ ਹੱਲ਼ ਕਰਨ ਲਈ ਫਾਇਦੇਮੰਦ
     ਹੋ ਸਕਦੀ ਹੈ। ਜੇ ਤੁਸੀਂ { -brand-short-name } ਬਾਰੇ ਆਮ ਸਵਾਦ ਦੇ ਜਵਾਬ ਲੱਭ ਰਹੇ ਹੋ ਤਾਂ
     ਸਾਡੀ <a data-l10n-name="support-link">ਸਪੋਰਟ ਵੈੱਬ ਸਾਈਟ</a> ਨੂੰ ਵੇਖੋ ਜੀ।
-
 crashes-title = ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ
 crashes-id = ਰਿਪੋਰਟ ID
 crashes-send-date = ਭੇਜੀਆਂ
@@ -81,6 +80,9 @@ show-dir-label =
         [windows] ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ
        *[other] ਡਾਇਰੈਕਟਰੀ ਖੋਲ੍ਹੋ
     }
+environment-variables-title = ਇੰਵਾਇਰਨਮੈਂਟ ਵੇਰੀਰਬਲ
+environment-variables-name = ਨਾਂ
+environment-variables-value = ਮੁੱਲ
 experimental-features-title = ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ
 experimental-features-name = ਨਾਂ
 experimental-features-value = ਮੁੱਲ
@@ -127,7 +129,6 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਰਤ ਕੇ ਦੇਖੋ
 restart-in-safe-mode-label = …ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
-
 clear-startup-cache-title = ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼ ਨੂੰ ਸਾਫ਼ ਕਰਕੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 clear-startup-cache-label = ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼ ਸਾਫ਼ ਕਰੋ…
 startup-cache-dialog-title = ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼ ਸਾਫ਼ ਕਰੋ
@@ -190,7 +191,6 @@ report-crash-for-days =
         [one] ਪਿਛਲੇ { $days } ਦਿਨ ਵਿੱਚ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ
        *[other] ਪਿਛਲੇ { $days } ਦਿਨਾਂ ਵਿੱਚ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,7 +198,6 @@ crashes-time-minutes =
         [one] { $minutes } ਮਿੰਟ ਪਹਿਲਾਂ
        *[other] { $minutes } ਮਿੰਟ ਪਹਿਲਾਂ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -206,7 +205,6 @@ crashes-time-hours =
         [one] { $hours } ਘੰਟਾ ਪਹਿਲਾਂ
        *[other] { $hours } ਘੰਟੇ ਪਹਿਲਾਂ
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -214,7 +212,6 @@ crashes-time-days =
         [one] { $days } ਦਿਨ ਪਹਿਲਾਂ
        *[other] { $days } ਦਿਨ ਪਹਿਲਾਂ
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -222,7 +219,6 @@ pending-reports =
         [one] ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ (ਦਿੱਤੀ ਸਮਾਂ ਹੱਦ ਵਿੱਚ { $reports } ਬਾਕੀ ਕਰੈਸ਼ ਸਮੇਤ)
        *[other] ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ (ਦਿੱਤੀ ਸਮਾਂ ਹੱਦ ਵਿੱਚ { $reports } ਬਾਕੀ ਕਰੈਸ਼ ਸਮੇਤ)
     }
-
 raw-data-copied = ਰਾਅ ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ ਗਿਆ
 text-copied = ਟੈਕਸਟ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ
 
@@ -235,11 +231,9 @@ blocked-mismatched-version = Blocked for your graphics driver version mismatch b
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ਤੁਹਾਡੇ ਗਰਾਫਿਕਸ ਡਰਾਇਵਰ ਵਰਜਨ ਲਈ ਪਾਬੰਦੀਸ਼ੁਦਾ ਹੈ। ਆਪਣੇ ਗਰਾਫਿਕਸ ਡਰਾਇਵਰ ਨੂੰ { $driverVersion } ਜਾਂ ਨਵੇਂ ਵਰਜਨ ਨਾਲ ਅੱਪਡੇਟ ਕਰਨ ਦੇ ਬਾਅਦ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType ਪੈਰਾਮੀਟਰ
-
 compositing = ਬਣਤਰ
 hardware-h264 = ਹਾਰਡਵੇਅਰ H264 ਡੀਕੋਡਿੰਗ
 main-thread-no-omtc = ਮੁੱਖ ਥਰਿੱਡ, OMTC ਨਹੀਂ
@@ -254,7 +248,6 @@ virtual-monitor-disp = ਵਰਚੁਅਲ ਮਾਨੀਟਰ ਡਿਸਪਲੇ�
 
 found = ਲੱਭਾ
 missing = ਗੁੰਮ
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = ਵਰਣਨ
@@ -278,25 +271,20 @@ webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
 blocklisted-bug = ਜਾਣੀਆਂ ਹੋਈਆਂ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ਬੱਗ { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = ਜਾਣੇ-ਪਛਾਣੇ ਮਸਲਿਆਂ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ: <a data-l10n-name="bug-link">ਬੱਗ { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ਪਾਬੰਦੀਸ਼ੁਦਾ; ਅਸਫ਼ਲਤਾ ਕੋਡ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 ਕੰਪੋਜ਼ਿਟਰ
 d3d11video-crash-guard = D3D11 ਵੀਡੀਓ ਡੀਕੋਡਰ
 d3d9video-crash-guard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX ਵੀਡਿਓ ਡੀਕੋਡਰ
-
 reset-on-next-restart = ਅਗਲੀ ਵਾਰ ਮੁੜ-ਚਲਾਉਣ ਉੱਤੇ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 gpu-process-kill-button = Terminate GPU Process
 gpu-device-reset = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਕਰੋ
@@ -306,10 +294,8 @@ content-uses-tiling = ਟਾਈਲਾਂ ਵਰਤੋਂ (ਸਮੱਗਰੀ)
 off-main-thread-paint-enabled = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਸਮਰੱਥ ਨੂੰ ਬੰਦ ਕਰੋ
 off-main-thread-paint-worker-count = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਵਰਕਰ ਗਿਣਤੀ ਬੰਦ ਕਰੋ
 target-frame-rate = ਟੀਚਾ ਫਰੇਮ ਦਰ
-
 min-lib-versions = ਮੰਗਿਆ ਗਿਆ ਘੱਟੋ-ਘੱਟ ਵਰਜਨ
 loaded-lib-versions = ਵਰਤੋਂ ਵਿੱਚ ਵਰਜਨ
-
 has-seccomp-bpf = Seccomp-BPF (ਸਿਸਟਮ ਕਾਲ ਫਿਲਟਰ ਕਰਨਾ)
 has-seccomp-tsync = Seccomp ਥਰਿੱਡ ਸੈਕਰੋਨਾਈਜ਼ੇਸ਼ਨ
 has-user-namespaces = ਵਰਤੋਂਕਾਰ ਨੇਮ-ਸਪੇਸ
@@ -322,18 +308,15 @@ sandbox-proc-type-content = ਸਮੱਗਰੀ
 sandbox-proc-type-file = ਫ਼ਾਇਲ ਸਮੱਗਰੀ
 sandbox-proc-type-media-plugin = ਮੀਡੀਆ ਪਲੱਗਇਨ
 sandbox-proc-type-data-decoder = ਡਾਟਾ ਡੀਕੋਡਰ
-
 startup-cache-title = ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼
 startup-cache-disk-cache-path = ਡਿਸਕ ਕੈਸ਼ ਮਾਰਗ
 startup-cache-ignore-disk-cache = ਡਿਸਕ ਕੈਸ਼ ਅਣਡਿੱਠਾ ਕਰੋ
 startup-cache-found-disk-cache-on-init = Init ਉੱਤੇ ਡਿਸਕ ਕੈਸ਼ ਮਿਲੀ
 startup-cache-wrote-to-disk-cache = ਡਿਸਕ ਕੈਸ਼ ਉੱਤੇ ਲਿਖੋ
-
 launcher-process-status-0 = ਸਮਰੱਥ ਹੈ
 launcher-process-status-1 = ਅਸਫ਼ਲਤਾ ਕਰਕੇ ਅਸਮਰੱਥ ਹੈ
 launcher-process-status-2 = ਧੱਕੇ ਨਾਲ ਅਸਮਰੱਥ ਕੀਤਾ
 launcher-process-status-unknown = ਅਣਪਛਾਤੀ ਹਾਲਤ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -346,7 +329,6 @@ multi-process-status-6 = ਗ਼ੈਰ-ਸਹਾਇਕ ਟੈਕਸਟ ਇਨਪ�
 multi-process-status-7 = ਐਡ-ਆਨ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ
 multi-process-status-8 = ਧੱਕੇ ਨਾਲ ਅਸਮਰੱਥ ਕੀਤਾ
 multi-process-status-unknown = ਅਣਜਾਣ ਹਾਲਤ
-
 async-pan-zoom = ਅਸਮਕਾਲੀ ਪੈਨ/ਜ਼ੂਮ
 apz-none = ਕੋਈ ਨਹੀਂ
 wheel-enabled = ਵ੍ਹੀਲ ਇਨਪੁਟ ਸਮਰੱਥ ਹੈ
