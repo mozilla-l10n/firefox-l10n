@@ -54,6 +54,8 @@ import-source-page-title = Einstellungen und Daten importieren
 import-items-page-title = Zu importierende Daten
 import-items-description = Wählen Sie bitte aus, welche Daten importiert werden sollen:
 import-permissions-page-title = Bitte geben Sie { -brand-short-name } Berechtigungen
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS erfordert, dass Sie { -brand-short-name } ausdrücklich erlauben, auf die Lesezeichen von Safari zuzugreifen. Klicken Sie auf "Fortsetzen" und wählen Sie die Datei "Bookmarks.plist" im Fenster "Datei öffnen".
 import-migrating-page-title = Importieren…
 import-migrating-description = Folgende Daten werden momentan importiert:
 import-select-profile-page-title = Profil wählen
