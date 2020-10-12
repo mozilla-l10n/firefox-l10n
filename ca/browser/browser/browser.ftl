@@ -294,6 +294,8 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Desactivat temporalment
 identity-https-only-info-turn-on = Activeu-ho si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
+identity-https-only-info-turn-off = Si sembla que el lloc no funciona bé, podeu provar de desactivar el mode només HTTPS per tornar-lo a carregar amb HTTP insegur.
+identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
 identity-permissions =
     .value = Permisos
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
@@ -449,6 +451,17 @@ urlbar-result-action-visit = Visita
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Cerca en les adreces d'interès
+urlbar-result-action-search-history = Cerca en l'historial
+urlbar-result-action-search-tabs = Cerca en les pestanyes
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Cerca amb { $engine } directament des de la barra d'adreces
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Cerca en { $engine } directament des de la barra d'adreces
 
 ## Full Screen and Pointer Lock UI
 
