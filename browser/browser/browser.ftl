@@ -220,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Aquesta vegada, cerca amb:
 # This string won't wrap, so if the translated string is longer,
@@ -285,6 +285,15 @@ identity-passive-loaded = Parts d'aquesta pàgina no són segures (com les imatg
 identity-active-loaded = Heu desactivat la protecció en aquesta pàgina.
 identity-weak-encryption = Aquesta pàgina utilitza xifratge feble.
 identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.
+identity-https-only-connection-upgraded = (actualitzat a HTTPS)
+identity-https-only-label = Mode només HTTPS
+identity-https-only-dropdown-on =
+    .label = Activat
+identity-https-only-dropdown-off =
+    .label = Desactivat
+identity-https-only-dropdown-off-temporarily =
+    .label = Desactivat temporalment
+identity-https-only-info-turn-on = Activeu-ho si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
 identity-permissions =
     .value = Permisos
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
