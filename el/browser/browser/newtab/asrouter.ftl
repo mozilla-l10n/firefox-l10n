@@ -257,6 +257,7 @@ cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Απομόνωση ιστοσελίδας
 cfr-doorhanger-fission-primary-button = Το κατάλαβα
     .accesskey = Τ
 cfr-doorhanger-fission-secondary-button = Μάθετε περισσότερα
