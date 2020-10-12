@@ -351,3 +351,12 @@ touch-warning = input touch asincrono disattivato a causa di una preferenza non 
 policies-inactive = Disattivati
 policies-active = Attivi
 policies-error = Errore
+
+## Printing section
+
+support-printing-title = Stampa
+support-printing-troubleshoot = Risoluzione dei problemi
+support-printing-clear-settings-button = Rimuovi impostazioni di stampa salvate
+support-printing-modified-settings = Impostazioni di stampa modificate
+support-printing-prefs-name = Nome
+support-printing-prefs-value = Valore
