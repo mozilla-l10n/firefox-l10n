@@ -19,8 +19,21 @@
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Axuda do &brandShortName;">
 <!ENTITY productHelp.accesskey "A">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
+<!ENTITY helpKeyboardShortcuts.label "Atallos de teclado">
+<!ENTITY helpKeyboardShortcuts.accesskey "T">
 
+<!ENTITY helpFeedbackPage.label "Enviar opinión…">
+<!ENTITY helpFeedbackPage.accesskey "E">
 
+<!ENTITY helpShowTour2.label "Visita guiada do &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "">
 
+<!ENTITY helpGetInvolvedPage.label "Participe">
+<!ENTITY helpGetInvolvedPage.accesskey "I">
 
+<!ENTITY helpDonationsPage.label "Faga unha doazón">
+<!ENTITY helpDonationsPage.accesskey "D">
