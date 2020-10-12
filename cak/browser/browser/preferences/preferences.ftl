@@ -29,6 +29,8 @@ search-input-box =
            *[other] Tikanöx pa Taq Ajowab'äl
         }
 managed-notice = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
+category-list =
+    .aria-label = Taq ruwäch
 pane-general-title = Chijun
 category-general =
     .tooltiptext = { pane-general-title }
