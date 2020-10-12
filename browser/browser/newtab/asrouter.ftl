@@ -250,6 +250,8 @@ cfr-doorhanger-doh-secondary-button = Désactiver
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-secondary-button = En savoir plus
+    .accesskey = s
 
 ## What's new: Cookies message
 
