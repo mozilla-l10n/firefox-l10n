@@ -53,12 +53,6 @@ experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = L’aggiunta di un costruttore all’interfaccia <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, insieme ad altre modifiche correlate, rende possibile la creazione di nuovi fogli di stile senza bisogno di aggiungerli all’HTML. Questo rende molte più facile la creazione di fogli di stile riutilizzabili con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consultare <a data-l10n-name="bugzilla">bug 1520690</a> per ulteriori dettagli.
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: API Media Session
-experimental-features-media-session-api-description = L’attuale implementazione dell’API Media Session in { -brand-short-name } è sperimentale. Questa API è utilizzata per personalizzare la gestione di notifiche relative a file multimediali, per la gestione di dati ed eventi usati nella presentazione dell’interfaccia utente durante la riproduzione, per ottenere metadata sui file multimediali. Consultare <a data-l10n-name="bugzilla">bug 1112032</a> per ulteriori dettagli.
-
 experimental-features-devtools-color-scheme-simulation =
     .label = Strumenti di sviluppo: simulazione combinazione di colori
 experimental-features-devtools-color-scheme-simulation-description = Aggiunge un’opzione per simulare diverse combinazioni di colori, permettendo il test di media query con <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. L’utilizzo di questo tipo di media query permette di adattare il foglio di stile alla preferenza dell’utente per un’interfaccia chiara o scura. Grazie a questa funzione è possibile provare il proprio codice senza cambiare le impostazioni del browser (o del sistema operativo, se il browser utilizza la combinazione di colori del sistema). Consultare <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">bug 1137699</a> per ulteriori dettagli.

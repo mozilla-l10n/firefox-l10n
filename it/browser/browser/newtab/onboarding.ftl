@@ -96,31 +96,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## tooltip.
 
 # Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Utilizza la stessa combinazione di colori
-        del sistema operativo per pulsanti, menu
-        e finestre.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Utilizza una combinazione di colori
-        chiara per pulsanti, menu e finestre.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Utilizza una combinazione di colori
-        scura per pulsanti, menu e finestre.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Utilizza una combinazione di colori
-        variegata per pulsanti, menu e finestre.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
-# Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Utilizza la stessa combinazione di colori
