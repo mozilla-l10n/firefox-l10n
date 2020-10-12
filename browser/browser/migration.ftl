@@ -53,6 +53,7 @@ no-migration-sources = Δεν βρέθηκαν προγράμματα τα οπ�
 import-source-page-title = Εισαγωγή ρυθμίσεων και δεδομένων
 import-items-page-title = Στοιχεία προς εισαγωγή
 import-items-description = Επιλέξτε στοιχεία προς εισαγωγή:
+import-permissions-page-title = Παρακαλούμε παραχωρήστε στο { -brand-short-name } δικαιώματα
 import-migrating-page-title = Εισαγωγή...
 import-migrating-description = Γίνεται εισαγωγή των παρακάτω στοιχείων αυτή τη στιγμή…
 import-select-profile-page-title = Επιλογή προφίλ
