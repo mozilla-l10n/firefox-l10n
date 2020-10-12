@@ -671,7 +671,7 @@
 <!ENTITY folderContextMarkMailFolderRead.label "Επισήμανση φακέλου ως αναγνωσμένου">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "κ">
 <!ENTITY folderContextSubscribe.label "Συνδρομή…">
-<!ENTITY folderContextSubscribe.accesskey "γ">
+<!ENTITY folderContextSubscribe.accesskey "μ">
 <!ENTITY folderContextSearchForMessages.label "Αναζήτηση μηνυμάτων…">
 <!ENTITY folderContextSearchForMessages.accesskey "ζ">
 <!ENTITY folderContextProperties2.label "Ιδιότητες">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Τοποθεσία">
 <!ENTITY idColumn.label "Σειρά παραλαβής">
 <!ENTITY attachmentColumn.label "Συνημμένα">
-
 <!ENTITY deleteColumn.label "Διαγραφή">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Ταξινόμηση κατά τοποθεσία">
 <!ENTITY idColumn2.tooltip "Ταξινόμηση κατά σειρά παραλαβής">
 <!ENTITY attachmentColumn2.tooltip "Ταξινόμηση κατά συνημμένο">
-
 <!ENTITY deleteColumn.tooltip "Διαγραφή μηνύματος">
 
 <!-- Thread Pane Context Menu -->
