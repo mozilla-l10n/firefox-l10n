@@ -329,3 +329,12 @@ touch-warning = 因為不支援的偏好設定: { $preferenceKey }，已停用�
 policies-inactive = 未使用
 policies-active = 使用中
 policies-error = 錯誤
+
+## Printing section
+
+support-printing-title = 列印
+support-printing-troubleshoot = 疑難排解
+support-printing-clear-settings-button = 清除儲存的列印設定
+support-printing-modified-settings = 更改過的列印設定
+support-printing-prefs-name = 名稱
+support-printing-prefs-value = 值
