@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Έναρξη
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Καλώς ήλθατε στο { -brand-short-name }
 onboarding-welcome-body = Έχετε το πρόγραμμα περιήγησης.<br/>Γνωρίστε τα υπόλοιπα προϊόντα του { -brand-product-name }.
 onboarding-welcome-learn-more = Μάθετε περισσότερα σχετικά με τα οφέλη.
@@ -39,6 +47,54 @@ onboarding-start-browsing-button-label = Έναρξη περιήγησης
 onboarding-cards-dismiss =
     .title = Απόρριψη
     .aria-label = Απόρριψη
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Ας αρχίσουμε να εξερευνούμε ό,τι μπορείτε να κάνετε.
+onboarding-fullpage-form-email =
+    .placeholder = Η διεύθυνση email σας…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Πάρτε το { -brand-product-name } μαζί σας
+onboarding-sync-welcome-content = Κρατήστε τα αγαπημένα, το ιστορικό, τους κωδικούς πρόσβασης και άλλες ρυθμίσεις σας σε όλες σας τις συσκευές.
+onboarding-sync-welcome-learn-more-link = Μάθετε περισσότερα για τους Λογαριασμούς Firefox
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Συνέχεια
+onboarding-sync-form-skip-login-button = Παράλειψη βήματος
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Εισάγετε το email σας
+onboarding-sync-form-sub-header = για να συνεχίσετε στο { -sync-brand-name }.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Κάντε περισσότερα με μια οικογένεια εργαλείων που σέβονται το απόρρητό σας στις συσκευές σας.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Όλα όσα κάνουμε τιμούν την υπόσχεση μας σχετικά με τα προσωπικά δεδομένα: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Πάρτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα σε κάθε συσκευή με { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Λάβετε ειδοποίηση όταν διαρρεύσουν τα προσωπικά στοιχεία σας.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Διαχειριστείτε κωδικούς πρόσβασης που είναι ασφαλείς και φορητοί.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Τέλεια, αποκτήσατε το { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Τώρα, προτείνουμε το <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Προσθήκη επέκτασης
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +128,6 @@ onboarding-multistage-theme-primary-button-label = Αποθήκευση θέμα
 onboarding-multistage-theme-secondary-button-label = Όχι τώρα
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Αυτόματο
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Χρήση θέματος συστήματος
 onboarding-multistage-theme-label-light = Φωτεινό
 onboarding-multistage-theme-label-dark = Σκούρο
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Αντιγραφή της εμφάνισης του λειτουργικού σας
-        συστήματος για τα κουμπιά, τα μενού και τα παράθυρα.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Χρήση ανοιχτόχρωμης εμφάνισης για τα κουμπιά,
-        τα μενού και τα παράθυρα.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Χρήση σκουρόχρωμης εμφάνισης για τα κουμπιά,
-        τα μενού και τα παράθυρα.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
-        τα μενού και τα παράθυρα.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +178,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
         τα μενού και τα παράθυρα.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Ας αρχίσουμε να εξερευνούμε ό,τι μπορείτε να κάνετε.
-onboarding-fullpage-form-email =
-    .placeholder = Η διεύθυνση email σας…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Πάρτε το { -brand-product-name } μαζί σας
-onboarding-sync-welcome-content = Κρατήστε τα αγαπημένα, το ιστορικό, τους κωδικούς πρόσβασης και άλλες ρυθμίσεις σας σε όλες σας τις συσκευές.
-onboarding-sync-welcome-learn-more-link = Μάθετε περισσότερα για τους Λογαριασμούς Firefox
-onboarding-sync-form-input =
-    .placeholder = Email
-onboarding-sync-form-continue-button = Συνέχεια
-onboarding-sync-form-skip-login-button = Παράλειψη βήματος
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Εισάγετε το email σας
-onboarding-sync-form-sub-header = για να συνεχίσετε στο { -sync-brand-name }.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Κάντε περισσότερα με μια οικογένεια εργαλείων που σέβονται το απόρρητό σας στις συσκευές σας.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Όλα όσα κάνουμε τιμούν την υπόσχεση μας σχετικά με τα προσωπικά δεδομένα: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Πάρτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα σε κάθε συσκευή με { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Λάβετε ειδοποίηση όταν διαρρεύσουν τα προσωπικά στοιχεία σας.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Διαχειριστείτε κωδικούς πρόσβασης που είναι ασφαλείς και φορητοί.
 
 ## These strings belong to the individual onboarding messages.
 

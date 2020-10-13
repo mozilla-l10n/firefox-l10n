@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Το καθολικό σ
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Η προσθήκη κατασκευαστή στο περιβάλλον <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> καθώς και μια ποικιλία σχετικών αλλαγών καθιστούν δυνατή την απευθείας δημιουργία νέων φύλλων στυλ χωρίς να πρέπει να προσθέσετε το φύλλο στο HTML. Έτσι, γίνεται πολύ πιο εύκολη η δημιουργία επαναχρησιμοποιήσιμων φύλλων στυλ για το <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1520690</a> για περισσότερες λεπτομέρειες.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Όλη η υλοποίηση της { -brand-short-name } για το Media Session API είναι πειραματική. Αυτό το API χρησιμοποιείται για την προσαρμογή της διαχείρισης των ειδοποιήσεων που σχετίζονται με πολυμέσα, τη διαχείριση γεγονότων και χρήσιμων δεδομένων για την παρουσίαση ενός περιβάλλοντος χρήστη για τη διαχείριση αναπαραγωγής πολυμέσων, καθώς και την απόκτηση μεταδεδομένων των αρχείων πολυμέσων. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1112032</a> για περισσότερες λεπτομέρειες.
 experimental-features-devtools-color-scheme-simulation =
     .label = Εργαλεία προγραμματιστή: Προσομοίωση συνόλου χρωμάτων
 experimental-features-devtools-color-scheme-simulation-description = Προσθέτει μια επιλογή για προσομοίωση διαφορετικών μοτίβων χρωμάτων που σας επιτρέπουν να δοκιμάσετε τα media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Με αυτό το media query, το φύλλο στυλ σας μπορεί να αποκριθεί στην προτίμηση του χρήστη για φωτεινό ή σκούρο περιβάλλον χρήστη. Αυτή η λειτουργία σας επιτρέπει να δοκιμάσετε τον κώδικά σας χωρίς να πρέπει να αλλάξετε τις ρυθμίσεις στο πρόγραμμα περιήγησης (ή το λειτουργικό σύστημα, αν χρησιμοποιείται καθολικά η ρύθμιση των μοτίβων χρωμάτων του). Δείτε το <a data-l10n-name="bugzilla1">σφάλμα 1550804</a> και το <a data-l10n-name="bugzilla2">σφάλμα 1137699</a> για περισσότερες λεπτομέρειες.
@@ -99,3 +94,6 @@ experimental-features-webrtc-global-mute-toggles-description = Προσθήκη 
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Ενεργοποίηση του Warp - ένα έργο για τη βελτίωση των επιδόσεων JavaScript και της χρήσης μνήμης.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Απομόνωση ιστοσελίδας)
