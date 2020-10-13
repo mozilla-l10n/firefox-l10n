@@ -354,3 +354,12 @@ touch-warning = асінхронны пальцавы ўвод выключан�
 policies-inactive = Неактыўна
 policies-active = Актыўна
 policies-error = Памылка
+
+## Printing section
+
+support-printing-title = Друк
+support-printing-troubleshoot = Вырашэнне праблем
+support-printing-clear-settings-button = Ачысціць захаваныя налады друку
+support-printing-modified-settings = Змененыя параметры друку
+support-printing-prefs-name = Назва
+support-printing-prefs-value = Значэнне
