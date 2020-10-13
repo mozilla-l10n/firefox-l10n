@@ -115,6 +115,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Asoj la b'antuch ixe'teb'al
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = B'an tuch axe't aq'onvoj uve' kolel kam s-a'n
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Aq'al uva' la eel u kach'ub' tetze', aq'ku' unq'a texhlale' ti ixe't aq'on tu Windows. A' u vaa' la lochoni ti' tilpu isuuchil unq'a tatinb'al aaq'one'.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = K'uch u kach'ub' tetze' uve' kolel kan s-a'n
