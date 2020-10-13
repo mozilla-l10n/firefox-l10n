@@ -89,6 +89,12 @@ onboarding-benefit-lockwise-text = 小巧便携又固若金汤，轻松管理网
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = 恭喜，您已经安装好 { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = 现在来安装 <img data-l10n-name="icon"/><b>{ $addon-name }</b> 吧。
+return-to-amo-add-extension-label = 添加扩展
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
