@@ -49,9 +49,9 @@
 <!ENTITY deleteMessage.label "Διαγραφή μηνύματος">
 <!ENTITY deleteFromPOP.label "Διαγραφή από το διακομιστή POP">
 <!ENTITY fetchFromPOP.label "Λήψη από το διακομιστή POP">
-<!ENTITY ignoreThread.label "Αγνόηση αλληλουχίας">
-<!ENTITY ignoreSubthread.label "Αγνόηση υποαλληλουχίας">
-<!ENTITY watchThread.label "Παρακολούθηση αλληλουχίας">
+<!ENTITY ignoreThread.label "Παράβλεψη νήματος">
+<!ENTITY ignoreSubthread.label "Παράβλεψη υπονήματος">
+<!ENTITY watchThread.label "Παρακολούθηση νήματος">
 <!ENTITY stopExecution.label "Διακοπή εκτέλεσης φίλτρου">
 
 <!ENTITY addAction.tooltip "Προσθήκη νέας ενέργειας">
