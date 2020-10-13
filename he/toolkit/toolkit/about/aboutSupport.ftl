@@ -319,3 +319,12 @@ autoscroll-enabled = גלילה אוטומטית פעילה
 policies-inactive = לא פעיל
 policies-active = פעיל
 policies-error = שגיאה
+
+## Printing section
+
+support-printing-title = הדפסה
+support-printing-troubleshoot = פתרון בעיות
+support-printing-clear-settings-button = ניקוי הגדרות ההדפסה השמורות
+support-printing-modified-settings = הגדרות הדפסה ששונו
+support-printing-prefs-name = שם
+support-printing-prefs-value = ערך
