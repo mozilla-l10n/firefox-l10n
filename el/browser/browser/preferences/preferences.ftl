@@ -491,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Κορυφαίες ιστοσελίδες
 home-prefs-topsites-description = Οι ιστοσελίδες που επισκέπτεστε περισσότερο
+home-prefs-topsites-by-option-sponsored =
+    .label = Χορηγούμενες κορυφαίες ιστοσελίδες
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
