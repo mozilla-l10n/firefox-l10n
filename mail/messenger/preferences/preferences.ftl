@@ -10,6 +10,8 @@ preferences-title =
             [windows] 选项
            *[other] 首选项
         }
+category-list =
+    .aria-label = 分类
 pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
