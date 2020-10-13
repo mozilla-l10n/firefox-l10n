@@ -89,6 +89,11 @@ onboarding-benefit-lockwise-text = 비밀번호를 보호하면서 항상 가지
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = 좋습니다. { -brand-short-name }를 설치했네요.
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = 이제 <img data-l10n-name="icon"/> <b>{ $addon-name }</b> 부가 기능을 설치하겠습니다.
 return-to-amo-add-extension-label = 확장 기능 추가
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
