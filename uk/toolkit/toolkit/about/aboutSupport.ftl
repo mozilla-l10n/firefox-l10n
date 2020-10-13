@@ -354,3 +354,12 @@ touch-warning = асинхронне сенсорне введення вимк�
 policies-inactive = Неактивно
 policies-active = Активно
 policies-error = Помилка
+
+## Printing section
+
+support-printing-title = Друк
+support-printing-troubleshoot = Усунення проблем
+support-printing-clear-settings-button = Очистити збережені налаштування друку
+support-printing-modified-settings = Змінені налаштування друку
+support-printing-prefs-name = Назва
+support-printing-prefs-value = Значення
