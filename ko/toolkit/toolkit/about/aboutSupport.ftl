@@ -326,3 +326,12 @@ touch-warning = 다음의 지원되지 않는 설정때문에 비동기 터치 �
 policies-inactive = 비활성화
 policies-active = 활성화
 policies-error = 오류
+
+## Printing section
+
+support-printing-title = 인쇄
+support-printing-troubleshoot = 문제 해결
+support-printing-clear-settings-button = 저장된 인쇄 설정 지우기
+support-printing-modified-settings = 수정된 인쇄 설정
+support-printing-prefs-name = 이름
+support-printing-prefs-value = 값
