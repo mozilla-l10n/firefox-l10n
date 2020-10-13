@@ -212,7 +212,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Kali ini, cari dengan:
 # This string won't wrap, so if the translated string is longer,
@@ -277,6 +277,17 @@ identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
 identity-active-loaded = Anda telah menonaktifkan perlindungan di laman ini.
 identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
 identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.
+identity-https-only-connection-upgraded = (ditingkatkan ke HTTPS)
+identity-https-only-label = Mode Hanya HTTPS
+identity-https-only-dropdown-on =
+    .label = Aktif
+identity-https-only-dropdown-off =
+    .label = Nonaktif
+identity-https-only-dropdown-off-temporarily =
+    .label = Nonaktif sementara
+identity-https-only-info-turn-on = Aktifkan jika Anda ingin { -brand-short-name } untuk meningkatkan ke koneksi aman jika memungkinkan.
+identity-https-only-info-turn-off = Jika situs terlihat bermasalah, Anda mungkin ingin mematikan Mode Hanya HTTPS untuk memuat ulangnya dengan HTTP yang tidak aman.
+identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP.
 identity-permissions =
     .value = Izin
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
@@ -432,6 +443,17 @@ urlbar-result-action-visit = Kunjungi
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Cari Markah
+urlbar-result-action-search-history = Cari di Riwayat
+urlbar-result-action-search-tabs = Cari Tab
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Cari dengan { $engine } langsung dari bilah alamat
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Cari dengan { $engine } langsung dari bilah alamat
 
 ## Full Screen and Pointer Lock UI
 
