@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Ixe't aq'on as Iku' texhla uva' axh kuxh ootzin tetz
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Eq'oku'tzan tu Google Play
 login-app-promo-apple =
     .alt = Eq'oku'tzan tu App Store
-
 login-filter =
     .placeholder = Ichukpu ixe't aq'on
-
 create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
-
 fxaccounts-sign-in-text = La lej unq'a texhlal kach'ub' tetze' tu ka'taj unq'a aq'onb'ale' uve' nab'anb'e
 fxaccounts-sign-in-button = Xe'tisa tzitza' { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +27,8 @@ menu =
     .title = Jaj u tachul tatine'
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Eq'o ku'tzan tu uma'l jajb'al tetz u aq'one'
+about-logins-menu-menuitem-import-from-a-file = La eeq'otzan tu uma'l kolb'al tetz…
+about-logins-menu-menuitem-export-logins = La eq'oltzan unq'a vee' uve' kat xe't kat aq'on…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Unka'te
@@ -73,13 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuche' { -sync-brand-short-name }.
-
+about-logins-login-intro-heading-logged-out = ¿Chuk unq'a vee' kolel kan uve' xe'tisamal kat unq'a aq'one'? { -sync-brand-short-name } moj eq'otzan
 about-logins-login-intro-heading-logged-in = Ye'l tu'aal lejpo aq'al uva' la ilej tib'
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
 login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
 about-logins-intro-instruction-help = La saji<a data-l10n-name="help-link">{ -lockwise-brand-short-name } lochb'al tetz </a> aq'al uva' la lej ka't lochb'al
 about-logins-intro-import = Asoj kolel kan ixe't unq'a aaq'one' tu uma't chukb'al tetz, la ib'ane' <a data-l10n-name="import-link"> la eeq'o kutzan tzitza' { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Asoj kat ikolkan ixe'teb'al unq'a aq'one' ti'e'le { -brand-product-name }, la ib'ane' <a data-l10n-name="import-browser-link"> uva' la eq'oltzan tu' uma't chukb'al tetz</a> moj tu <a data-l10n-name="import-file-link"> tu uma'l kolb'al tetz</a>
 
 ## Login
 
@@ -114,15 +110,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = B'an tuch axe't aq'onvoj uve' kolel kam s-a'n
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = K'uch u kach'ub' tetze' uve' kolel kan s-a'n
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub' tetze' uve' kolel kan s-a'n
 
@@ -159,11 +153,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Ya'sakan
 confirmation-dialog-dismiss-button =
     .title = Ya'sakan
-
 about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' tzitza'?
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 about-logins-confirm-remove-dialog-confirm-button = Sojsa
-
 confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
 confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
 confirm-discard-changes-dialog-confirm-button = Eesa kan
@@ -194,12 +186,11 @@ about-logins-vulnerable-alert-learn-more-link = Ootzi ka'te
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Itok'eb'al { $loginTitle }ak te v'et u b'iie' b'a<a data-l10n-name="duplicate-link">oken tu atimb'ale' vee achit ve'te.
-
 # This is a generic error message.
 about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolpu u kachub'al tetze'.
 
-
 ## Login Export Dialog
+
 
 ## Login Import Dialog
 
