@@ -247,12 +247,14 @@ cfr-doorhanger-doh-secondary-button = 停用
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name } 已為您開啟實驗性的 Fission（網站隔離）功能。Fission 透過將各個網站隔離在不同的處理程序中，為您與您造訪的網站提供更多一層的安全性保障。
+cfr-doorhanger-fission-body-approved = 您的隱私權相當重要。{ -brand-short-name } 現在起會將您開啟的各個網站分別隔離於沙盒中，讓駭客更難偷到您的密碼、信用卡號、或其他敏感資訊。
 cfr-doorhanger-fission-header = 網站隔離
 cfr-doorhanger-fission-primary-button = 好，知道了
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = 了解更多
     .accesskey = L
+# Deprecated
+cfr-doorhanger-fission-body = { -brand-short-name } 已為您開啟實驗性的 Fission（網站隔離）功能。Fission 透過將各個網站隔離在不同的處理程序中，為您與您造訪的網站提供更多一層的安全性保障。
 
 ## What's new: Cookies message
 
