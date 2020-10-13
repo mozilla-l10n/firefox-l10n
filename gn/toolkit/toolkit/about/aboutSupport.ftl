@@ -346,3 +346,9 @@ touch-warning = Jeikeha pokoháva ojuehe’ỹva jokopyre ndorekóiva mombytaha:
 policies-inactive = Jokopyre
 policies-active = Ijurujáva
 policies-error = Javy
+
+## Printing section
+
+support-printing-title = Ñemonguatia
+support-printing-prefs-name = Téra
+support-printing-prefs-value = Tepykue
