@@ -349,3 +349,12 @@ touch-warning = async-aanraakinvoer uitgeschakeld vanwege niet-ondersteunde voor
 policies-inactive = Inactief
 policies-active = Actief
 policies-error = Fout
+
+## Printing section
+
+support-printing-title = Afdrukken
+support-printing-troubleshoot = Probleemoplossing
+support-printing-clear-settings-button = Opgeslagen afdrukinstellingen wissen
+support-printing-modified-settings = Gewijzigde afdrukinstellingen
+support-printing-prefs-name = Naam
+support-printing-prefs-value = Waarde
