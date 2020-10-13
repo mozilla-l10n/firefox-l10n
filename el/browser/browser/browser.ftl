@@ -294,6 +294,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Προσωρινά ανενεργό
 identity-https-only-info-turn-on = Ενεργοποιήστε το αν θέλετε να γίνεται αναβάθμιση του { -brand-short-name } σε ασφαλή σύνδεση, όταν είναι δυνατό.
+identity-https-only-info-turn-off = Αν η ιστοσελίδα φαίνεται προβληματική, δοκιμάστε να απενεργοποιήσετε τη λειτουργία μόνο-HTTPS για ανανέωση με το μη ασφαλές HTTP.
 identity-https-only-info-no-upgrade = Δεν είναι δυνατή η αναβάθμιση της σύνδεσης από HTTP.
 identity-permissions =
     .value = Δικαιώματα

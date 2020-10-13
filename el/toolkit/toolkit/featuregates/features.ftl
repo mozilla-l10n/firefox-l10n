@@ -97,3 +97,4 @@ experimental-features-js-warp-description = Ενεργοποίηση του Warp
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Απομόνωση ιστοσελίδας)
+experimental-features-fission-description = Το Fission (απομόνωση ιστοσελίδας) είναι μια πειραματική λειτουργία στο { -brand-short-name }, ώστε να παρέχει ένα επιπλέον επίπεδο προστασίας από σφάλματα ασφαλείας. Απομονώνοντας την κάθε σελίδα σε ξεχωριστή διεργασία, το Fission καθιστά δυσκολότερη την πρόσβαση κακόβουλων ιστοσελίδων σε πληροφορίες άλλων ιστότοπων που επισκέπτεστε. Πρόκειται για μια μεγάλη αρχιτεκτονική αλλαγή στο { -brand-short-name } και θα το εκτιμούσαμε ιδιαίτερα αν δοκιμάζατε τη λειτουργία και αναφέρατε τυχόν ζητήματα. Για περισσότερες λεπτομέρειες, δείτε <a data-l10n-name="wiki">το wiki</a>.
