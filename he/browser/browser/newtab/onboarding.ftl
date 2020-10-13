@@ -47,6 +47,53 @@ onboarding-cards-dismiss =
     .title = הסרה
     .aria-label = הסרה
 
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = כתובת הדוא״ל שלך…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name } איתך בכל מקום
+onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
+onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
+onboarding-sync-form-input =
+    .placeholder = דוא״ל
+onboarding-sync-form-continue-button = המשך
+onboarding-sync-form-skip-login-button = דילוג על שלב זה
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = נא להקליד את כתובת הדוא״ל שלך
+onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = לבצע משימות עם משפחת כלים שמכבדת את הפרטיות שלך בכל המכשירים שלך.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = כל מה שאנו עושים מכבד את הבטחתנו בנוגע לנתונים אישיים: לקחת פחות. להגן בקפידה. ללא סודות.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = לקחת את הסימניות, הססמאות ופריטים נוספים שלך לכל מקום בו יש לך את { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = קבלת התרעה כאשר המידע האישי שלך נחשף בדליפת נתונים מוכרת.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = ניהול ססמאות בצורה מאובטחת וניידת.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = מצוין, השגת לך את { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = כעת הבה נשיג לך את <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = הוספת ההרחבה
+
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -91,67 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        שימוש במראה של מערכת ההפעלה שלך
-        עבור כפתורים, תפריטים וחלונות.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        שימוש בתצוגה בהירה עבור כפתורים,
-        תפריטים וחלונות.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        שימוש בתצוגה כהה עבור כפתורים,
-        תפריטים וחלונות.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        שימוש בתצוגה צבעונית עבור כפתורים,
-        תפריטים וחלונות.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
-
-## Welcome full page string
-
-onboarding-fullpage-form-email =
-    .placeholder = כתובת הדוא״ל שלך…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = { -brand-product-name } איתך בכל מקום
-onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
-onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
-onboarding-sync-form-input =
-    .placeholder = דוא״ל
-onboarding-sync-form-continue-button = המשך
-onboarding-sync-form-skip-login-button = דילוג על שלב זה
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = נא להקליד את כתובת הדוא״ל שלך
-onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = לבצע משימות עם משפחת כלים שמכבדת את הפרטיות שלך בכל המכשירים שלך.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = כל מה שאנו עושים מכבד את הבטחתנו בנוגע לנתונים אישיים: לקחת פחות. להגן בקפידה. ללא סודות.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = לקחת את הסימניות, הססמאות ופריטים נוספים שלך לכל מקום בו יש לך את { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = קבלת התרעה כאשר המידע האישי שלך נחשף בדליפת נתונים מוכרת.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = ניהול ססמאות בצורה מאובטחת וניידת.
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -236,7 +222,7 @@ onboarding-import-browser-settings-button = ייבוא נתוני Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-sub-header = מצוין, השגת לך { -brand-short-name }
+return-to-amo-sub-header = מצוין, השגת לך את { -brand-short-name }
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
