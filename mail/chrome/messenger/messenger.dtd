@@ -212,32 +212,32 @@
 <!ENTITY sortAscending.accesskey "ξ">
 <!ENTITY sortDescending.label "σε φθίνουσα σειρά">
 <!ENTITY sortDescending.accesskey "θ">
-<!ENTITY sortThreaded.label "Σε αλληλουχία">
-<!ENTITY sortThreaded.accesskey "λ">
-<!ENTITY sortUnthreaded.label "Χωρίς αλληλουχία">
-<!ENTITY sortUnthreaded.accesskey "ρ">
+<!ENTITY sortThreaded.label "Σε νήμα">
+<!ENTITY sortThreaded.accesskey "Σ">
+<!ENTITY sortUnthreaded.label "Εκτός νήματος">
+<!ENTITY sortUnthreaded.accesskey "κ">
 <!ENTITY groupBySort.label "Ομαδοποιημένα κατά ταξινόμηση">
 <!ENTITY groupBySort.accesskey "δ">
 <!ENTITY msgsMenu.label "Μηνύματα">
 <!ENTITY msgsMenu.accesskey "ν">
-<!ENTITY threads.label "Αλληλουχίες">
-<!ENTITY threads.accesskey "χ">
+<!ENTITY threads.label "Νήματα">
+<!ENTITY threads.accesskey "μ">
 <!ENTITY allMsgsCmd.label "Όλα">
 <!ENTITY allMsgsCmd.accesskey "α">
-<!ENTITY expandAllThreadsCmd.label "Ανάπτυξη όλων των αλληλουχιών">
+<!ENTITY expandAllThreadsCmd.label "Ανάπτυξη όλων των νημάτων">
 <!ENTITY expandAllThreadsCmd.accesskey "π">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Σύμπτυξη όλων των αλληλουχιών">
+<!ENTITY collapseAllThreadsCmd.label "Σύμπτυξη όλων των νημάτων">
 <!ENTITY collapseAllThreadsCmd.accesskey "μ">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Μη αναγνωσμένα">
 <!ENTITY unreadMsgsCmd.accesskey "Μ">
-<!ENTITY threadsWithUnreadCmd.label "Αλληλουχίες με μη αναγνωσμένα">
-<!ENTITY threadsWithUnreadCmd.accesskey "χ">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Επιλεγμένες αλληλουχίες με μη αναγνωσμένα">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "π">
-<!ENTITY ignoredThreadsCmd.label "Νήματα που παραβλέπονται">
-<!ENTITY ignoredThreadsCmd.accesskey "γ">
+<!ENTITY threadsWithUnreadCmd.label "Νήματα με μη αναγνωσμένα">
+<!ENTITY threadsWithUnreadCmd.accesskey "Ν">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Παρακολουθούμενα νήματα με μη αναγνωσμένα">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "Π">
+<!ENTITY ignoredThreadsCmd.label "Αγνοημένα νήματα">
+<!ENTITY ignoredThreadsCmd.accesskey "α">
 
 <!ENTITY headersMenu.label "Κεφαλίδες">
 <!ENTITY headersMenu.accesskey "φ">
@@ -307,9 +307,9 @@
 <!ENTITY nextUnreadMsgCmd.key "ο">
 <!ENTITY nextStarredMsgCmd.label "Μήνυμα με αστέρι">
 <!ENTITY nextStarredMsgCmd.accesskey "σ">
-<!ENTITY nextUnreadThread.label "Μη αναγνωσμένη αλληλουχία">
+<!ENTITY nextUnreadThread.label "Μη αναγνωσμένο νήμα">
 <!ENTITY nextUnreadThread.accesskey "γ">
-<!ENTITY nextUnreadThread.key "π">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Προηγούμενο">
 <!ENTITY prevMenu.accesskey "Π">
 <!ENTITY prevMsgCmd.label "Μήνυμα">
@@ -392,10 +392,10 @@
 <!ENTITY moveToFolderAgain.label "Μετακίνηση ξανά">
 <!ENTITY moveToFolderAgain.accesskey "ξ">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Παράβλεψη αλληλουχίας">
+<!ENTITY killThreadMenu.label "Παράβλεψη νήματος">
 <!ENTITY killThreadMenu.accesskey "β">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Αγνόηση υποαλληλουχίας">
+<!ENTITY killSubthreadMenu.label "Παράβλεψη υπονήματος">
 <!ENTITY killSubthreadMenu.accesskey "π">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Παρακολούθηση αλληλουχίας">
@@ -793,10 +793,10 @@
 <!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "Α">
 <!ENTITY contextCopyMsgMenu.label "Αντιγραφή σε">
 <!ENTITY contextCopyMsgMenu.accesskey "ι">
-<!ENTITY contextKillThreadMenu.label "Αγνόηση νήματος">
+<!ENTITY contextKillThreadMenu.label "Παράβλεψη νήματος">
 <!ENTITY contextKillSubthreadMenu.accesskey "β">
 <!ENTITY contextKillThreadMenu.accesskey "Ι">
-<!ENTITY contextKillSubthreadMenu.label "Αγνόηση υπονήματος">
+<!ENTITY contextKillSubthreadMenu.label "Παράβλεψη υπονήματος">
 <!ENTITY contextWatchThreadMenu.label "Παρακολούθηση νήματος">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
