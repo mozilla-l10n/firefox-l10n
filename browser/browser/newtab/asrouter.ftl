@@ -253,12 +253,14 @@ cfr-doorhanger-doh-secondary-button = Desativar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = O { -brand-short-name } ativou para você um recurso experimental, Fission (isolamento de sites). Ao isolar cada site em um processo separado, o Fission fornece uma camada adicional de segurança para você e para os sites que você visita.
+cfr-doorhanger-fission-body-approved = Sua privacidade é importante. O { -brand-short-name } agora isola (sandbox) sites uns dos outros, o que dificulta os hackers roubarem senhas, números de cartões de crédito e outras informações confidenciais.
 cfr-doorhanger-fission-header = Isolamento de sites
 cfr-doorhanger-fission-primary-button = OK, entendi
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Saiba mais
     .accesskey = S
+# Deprecated
+cfr-doorhanger-fission-body = O { -brand-short-name } ativou para você um recurso experimental, Fission (isolamento de sites). Ao isolar cada site em um processo separado, o Fission fornece uma camada adicional de segurança para você e para os sites que você visita.
 
 ## What's new: Cookies message
 
