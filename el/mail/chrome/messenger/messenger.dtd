@@ -398,7 +398,7 @@
 <!ENTITY killSubthreadMenu.label "Παράβλεψη υπονήματος">
 <!ENTITY killSubthreadMenu.accesskey "π">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Παρακολούθηση αλληλουχίας">
+<!ENTITY watchThreadMenu.label "Παρακολούθηση νήματος">
 <!ENTITY watchThreadMenu.accesskey "θ">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Ετικέτα">
@@ -420,8 +420,8 @@
 <!ENTITY markAsReadCmd.accesskey "σ">
 <!ENTITY markAsUnreadCmd.label "Ως μη αναγνωσμένο">
 <!ENTITY markAsUnreadCmd.accesskey "μ">
-<!ENTITY markThreadAsReadCmd.label "Αλληλουχίας ως αναγνωσμένης">
-<!ENTITY markThreadAsReadCmd.accesskey "η">
+<!ENTITY markThreadAsReadCmd.label "Νήμα ως αναγνωσμένο">
+<!ENTITY markThreadAsReadCmd.accesskey "Ν">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Ως αναγνωσμένα κατά ημερομηνία...">
 <!ENTITY markReadByDateCmd.accesskey "μ">
@@ -624,7 +624,7 @@
 <!ENTITY appmenuNewContactCmd.label "Επαφή βιβλίου διευθύνσεων…">
 <!ENTITY appmenuEditMenu.label "Επεξεργασία">
 <!ENTITY appmenuToolbarLayout.label "Διάταξη γραμμής εργαλείων…">
-<!ENTITY appmenuSelectThread.label "Επιλέξτε νήμα">
+<!ENTITY appmenuSelectThread.label "Επιλογή νήματος">
 <!ENTITY appmenuSelectFlagged.label "Επιλέξτε μηνύματα με αστέρι">
 
 <!-- Tags Menu Popup -->
@@ -699,7 +699,7 @@
 
 <!-- Thread Pane -->
 <!ENTITY selectColumn.label "Επιλογή μηνυμάτων">
-<!ENTITY threadColumn.label "Αλληλουχία">
+<!ENTITY threadColumn.label "Νήμα">
 <!ENTITY fromColumn.label "Από">
 <!ENTITY recipientColumn.label "Παραλήπτης">
 <!ENTITY correspondentColumn.label "Επιστολογράφοι">
@@ -724,7 +724,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Επιλογή στηλών για προβολή">
 <!ENTITY selectColumn.tooltip "Εναλλαγή επιλογής όλων των μηνυμάτων">
-<!ENTITY threadColumn2.tooltip "Εμφάνιση αλληλουχιών μηνυμάτων">
+<!ENTITY threadColumn2.tooltip "Προβολή νημάτων μηνυμάτων">
 <!ENTITY fromColumn2.tooltip "Ταξινόμηση κατά αποστολέα">
 <!ENTITY recipientColumn2.tooltip "Ταξινόμηση κατά παραλήπτη">
 <!ENTITY correspondentColumn2.tooltip "Ταξινόμηση κατά των επιστολογράφων">
@@ -736,8 +736,8 @@
 <!ENTITY statusColumn2.tooltip "Ταξινόμηση κατά κατάσταση">
 <!ENTITY sizeColumn2.tooltip "Ταξινόμηση κατά μέγεθος">
 <!ENTITY junkStatusColumn2.tooltip "Ταξινόμηση κατά κατάσταση ανεπιθύμητων">
-<!ENTITY unreadColumn2.tooltip "Αριθμός μη αναγνωσμένων μηνυμάτων στην αλληλουχία">
-<!ENTITY totalColumn2.tooltip "Συνολικός αριθμός μηνυμάτων στην αλληλουχία">
+<!ENTITY unreadColumn2.tooltip "Αριθμός μη αναγνωσμένων μηνυμάτων στο νήμα">
+<!ENTITY totalColumn2.tooltip "Συνολικός αριθμός μηνυμάτων στο νήμα">
 <!ENTITY readColumn2.tooltip "Ταξινόμηση κατά αναγνωσμένο">
 <!ENTITY receivedColumn2.tooltip "Ταξινόμηση κατά ημερομηνία παραλαβής">
 <!ENTITY starredColumn2.tooltip "Ταξινόμηση κατά αστέρι">
@@ -795,7 +795,7 @@
 <!ENTITY contextCopyMsgMenu.accesskey "ι">
 <!ENTITY contextKillThreadMenu.label "Παράβλεψη νήματος">
 <!ENTITY contextKillSubthreadMenu.accesskey "β">
-<!ENTITY contextKillThreadMenu.accesskey "Ι">
+<!ENTITY contextKillThreadMenu.accesskey "Π">
 <!ENTITY contextKillSubthreadMenu.label "Παράβλεψη υπονήματος">
 <!ENTITY contextWatchThreadMenu.label "Παρακολούθηση νήματος">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
