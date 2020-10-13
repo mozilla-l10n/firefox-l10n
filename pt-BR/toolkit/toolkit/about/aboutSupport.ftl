@@ -349,3 +349,12 @@ touch-warning = entrada touch assíncrona desativada devido a preferência não 
 policies-inactive = Inativo
 policies-active = Ativo
 policies-error = Erro
+
+## Printing section
+
+support-printing-title = Impressão
+support-printing-troubleshoot = Solução de problemas
+support-printing-clear-settings-button = Limpar configuração de impressão salva
+support-printing-modified-settings = Configuração de impressão modificada
+support-printing-prefs-name = Nome
+support-printing-prefs-value = Valor
