@@ -17,6 +17,14 @@ onboarding-button-label-get-started = 开始使用
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 onboarding-welcome-body = 浏览器安装完成。<br/>但 { -brand-product-name } 不只是浏览器。
 onboarding-welcome-learn-more = 还有更多好物。
@@ -39,91 +47,6 @@ onboarding-start-browsing-button-label = 开始上网冲浪
 onboarding-cards-dismiss =
     .title = 隐藏
     .aria-label = 隐藏
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = 欢迎使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = 快速、安全、私密的浏览器，由非营利组织全力支持。
-onboarding-multistage-welcome-primary-button-label = 开始设置
-onboarding-multistage-welcome-secondary-button-label = 登录
-onboarding-multistage-welcome-secondary-button-text = 已有账户？
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = 导入您的密码、书签和<span data-l10n-name="zap">更多数据</span>
-onboarding-multistage-import-subtitle = 从其他浏览器来？将一切转移到 { -brand-short-name } 很简单。
-onboarding-multistage-import-primary-button-label = 开始导入
-onboarding-multistage-import-secondary-button-label = 暂时不要
-# Info displayed in the footer of import settings screen during onboarding flow.
-# This supports welcome screen showing top sites imported from the user's default browser.
-onboarding-import-sites-disclaimer = 在此设备找到上面列出的网站。除非您选择导入，否则 { -brand-short-name } 不会保存或同步另一浏览器的数据。
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = 开始使用：第 { $current }屏，共 { $total } 屏
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = 选择<span data-l10n-name="zap">外观</span>
-onboarding-multistage-theme-subtitle = 使用主题，让 { -brand-short-name } 有你的个性
-onboarding-multistage-theme-primary-button-label = 保存主题
-onboarding-multistage-theme-secondary-button-label = 暂时不要
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = 自动
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = 使用系统主题
-onboarding-multistage-theme-label-light = 明亮
-onboarding-multistage-theme-label-dark = 深邃
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox 染山霞
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title = 遵循操作系统的按钮、菜单、窗口外观。
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title = 使用亮色按钮、菜单、窗口外观。
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title = 使用暗色按钮、菜单、窗口外观。
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title = 使用多彩按钮、菜单、窗口外观。
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title = 遵循操作系统的按钮、菜单、窗口外观。
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description = 遵循操作系统的按钮、菜单、窗口外观。
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title = 使用亮色按钮、菜单、窗口外观。
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description = 使用亮色按钮、菜单、窗口外观。
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title = 使用暗色按钮、菜单、窗口外观。
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description = 使用暗色按钮、菜单、窗口外观。
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title = 使用多彩按钮、菜单、窗口外观。
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description = 使用多彩按钮、菜单、窗口外观。
 
 ## Welcome full page string
 
@@ -162,6 +85,77 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = 在您的个人信息出现在数据外泄事件时收到通知。
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = 小巧便携又固若金汤，轻松管理网站密码。
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = 恭喜，您已经安装好 { -brand-short-name }
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = 欢迎使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = 快速、安全、私密的浏览器，由非营利组织全力支持。
+onboarding-multistage-welcome-primary-button-label = 开始设置
+onboarding-multistage-welcome-secondary-button-label = 登录
+onboarding-multistage-welcome-secondary-button-text = 已有账户？
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = 导入您的密码、书签和<span data-l10n-name="zap">更多数据</span>
+onboarding-multistage-import-subtitle = 从其他浏览器来？将一切转移到 { -brand-short-name } 很简单。
+onboarding-multistage-import-primary-button-label = 开始导入
+onboarding-multistage-import-secondary-button-label = 暂时不要
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = 在此设备找到上面列出的网站。除非您选择导入，否则 { -brand-short-name } 不会保存或同步另一浏览器的数据。
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = 开始使用：第 { $current }屏，共 { $total } 屏
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = 选择<span data-l10n-name="zap">外观</span>
+onboarding-multistage-theme-subtitle = 使用主题，让 { -brand-short-name } 有你的个性
+onboarding-multistage-theme-primary-button-label = 保存主题
+onboarding-multistage-theme-secondary-button-label = 暂时不要
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = 自动
+onboarding-multistage-theme-label-light = 明亮
+onboarding-multistage-theme-label-dark = 深邃
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox 染山霞
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title = 遵循操作系统的按钮、菜单、窗口外观。
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description = 遵循操作系统的按钮、菜单、窗口外观。
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title = 使用亮色按钮、菜单、窗口外观。
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description = 使用亮色按钮、菜单、窗口外观。
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title = 使用暗色按钮、菜单、窗口外观。
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description = 使用暗色按钮、菜单、窗口外观。
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title = 使用多彩按钮、菜单、窗口外观。
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description = 使用多彩按钮、菜单、窗口外观。
 
 ## These strings belong to the individual onboarding messages.
 

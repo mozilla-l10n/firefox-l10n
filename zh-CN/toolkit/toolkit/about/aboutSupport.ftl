@@ -329,3 +329,12 @@ touch-warning = 因为不支持的首选项: { $preferenceKey }，已禁用异�
 policies-inactive = 未激活
 policies-active = 已激活
 policies-error = 错误
+
+## Printing section
+
+support-printing-title = 打印
+support-printing-troubleshoot = 故障排除
+support-printing-clear-settings-button = 清除保存的打印设置
+support-printing-modified-settings = 修改过的打印设置
+support-printing-prefs-name = 名称
+support-printing-prefs-value = 值
