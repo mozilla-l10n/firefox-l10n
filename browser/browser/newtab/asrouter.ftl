@@ -238,7 +238,7 @@ cfr-whatsnew-better-pdf-body = 이제 PDF 문서가 { -brand-short-name }에서 
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = 개인 정보 보호가 중요합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하기 위해 가능하면 사용자의 DNS 요청을 파트너 서비스로 안전하게 라우팅합니다.
+cfr-doorhanger-doh-body = 개인 정보 보호는 중요합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하기 위해 가능하면 사용자의 DNS 요청을 파트너 서비스로 안전하게 라우팅합니다.
 cfr-doorhanger-doh-header = 더 안전하고, 암호화된 DNS 조회
 cfr-doorhanger-doh-primary-button = 확인
     .accesskey = O
@@ -247,12 +247,14 @@ cfr-doorhanger-doh-secondary-button = 사용 안 함
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name }가 실험 기능인 Fission (사이트 격리)을 사용하도록 설정했습니다. 각 사이트를 별도의 프로세스로 격리함으로써 Fission은 사용자와 사용자가 방문하는 웹 사이트에 추가적인 보안 계층을 제공합니다.
+cfr-doorhanger-fission-body-approved = 개인 정보는 중요합니다. { -brand-short-name }는 이제 웹 사이트를 서로 격리하거나 샌드 박스를 만들어 해커가 비밀번호, 신용 카드 번호 및 기타 중요한 정보를 훔치기 어렵게 만듭니다.
 cfr-doorhanger-fission-header = 사이트 격리
 cfr-doorhanger-fission-primary-button = 확인
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = 더 알아보기
     .accesskey = L
+# Deprecated
+cfr-doorhanger-fission-body = { -brand-short-name }가 실험 기능인 Fission (사이트 격리)을 사용하도록 설정했습니다. 각 사이트를 별도의 프로세스로 격리함으로써 Fission은 사용자와 사용자가 방문하는 웹 사이트에 추가적인 보안 계층을 제공합니다.
 
 ## What's new: Cookies message
 
