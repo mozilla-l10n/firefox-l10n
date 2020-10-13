@@ -29,6 +29,8 @@ search-input-box =
            *[other] Tercihlerde ara
         }
 managed-notice = Tarayıcınız kuruluşunuz tarafından yönetiliyor.
+category-list =
+    .aria-label = Kategoriler
 pane-general-title = Genel
 category-general =
     .tooltiptext = { pane-general-title }
