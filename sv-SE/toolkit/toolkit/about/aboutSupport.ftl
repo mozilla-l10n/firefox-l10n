@@ -346,3 +346,12 @@ touch-warning = asynkron tryckinmatning inaktiverad pga inställning ej stöds: 
 policies-inactive = Inaktiv
 policies-active = Aktiv
 policies-error = Fel
+
+## Printing section
+
+support-printing-title = Utskrift
+support-printing-troubleshoot = Felsökning
+support-printing-clear-settings-button = Rensa sparade utskriftsinställningar
+support-printing-modified-settings = Ändrade utskriftsinställningar
+support-printing-prefs-name = Namn
+support-printing-prefs-value = Värde
