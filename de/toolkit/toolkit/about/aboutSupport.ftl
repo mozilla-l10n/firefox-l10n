@@ -349,3 +349,12 @@ touch-warning = Asynchrone Berührungs-Eingabe deaktiviert auf Grund nicht unter
 policies-inactive = Inaktiv
 policies-active = Aktiv
 policies-error = Fehler
+
+## Printing section
+
+support-printing-title = Drucken
+support-printing-troubleshoot = Fehlerbehebung
+support-printing-clear-settings-button = Gespeicherte Druckeinstellungen löschen
+support-printing-modified-settings = Angepasste Druckeinstellungen
+support-printing-prefs-name = Name
+support-printing-prefs-value = Wert
