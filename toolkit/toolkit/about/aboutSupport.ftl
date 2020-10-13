@@ -366,3 +366,12 @@ touch-warning = Mae mewnbwn cyffwrdd async wedi ei analluogi oherwydd diffyg cef
 policies-inactive = Anweithredol
 policies-active = Gweithredol
 policies-error = Gwall
+
+## Printing section
+
+support-printing-title = Yn argraffu
+support-printing-troubleshoot = Datrys Anawsterau
+support-printing-clear-settings-button = Clirio gosodiadau argraffu wedi'u cadw
+support-printing-modified-settings = Gosodiadau argraffu wedi'u haddasu
+support-printing-prefs-name = Enw
+support-printing-prefs-value = Gwerth
