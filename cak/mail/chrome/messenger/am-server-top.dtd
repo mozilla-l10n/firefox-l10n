@@ -66,6 +66,8 @@
 <!ENTITY maxMessagesEnd.label "taq tzijol">
 <!ENTITY alwaysAuthenticate.label "Junelïk tik'utüx jikib'anïk toq nok pa re k'uxasamaj re'">
 <!ENTITY alwaysAuthenticate.accesskey "n">
+<!ENTITY newsrcFilePath1.label "News.rc Yakb'äl:">
+<!ENTITY newsrcPicker1.label "Ticha' News.rc Yakb'äl">
 <!ENTITY abbreviate.label "Tik'ut pe ri kib'i' ri kimolaj taq tzijol pa ri Taqoya'l Yakwuj achi'el:">
 <!ENTITY abbreviateOn.label "Tz'aqät taq b'i'aj (Achi'el, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Ch'utin taq b'i'aj (Achi'el, 'n.p.m.mail-news')">
