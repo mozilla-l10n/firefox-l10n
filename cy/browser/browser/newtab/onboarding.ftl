@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Cychwyn Arni
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Croeso i { -brand-short-name }
 onboarding-welcome-body = Mae'r porwr gyda chi. <br/> Dyma weddill { -brand-product-name }.
 onboarding-welcome-learn-more = Dysgu rhagor am y buddiannau.
@@ -39,6 +47,54 @@ onboarding-start-browsing-button-label = Cychwyn Pori
 onboarding-cards-dismiss =
     .title = Cau
     .aria-label = Cau
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Gadewch i ni ddechrau edrych ar bopeth y gallwch ei wneud.
+onboarding-fullpage-form-email =
+    .placeholder = Eich cyfeiriad e-bost…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Mynd â { -brand-product-name } gyda Chi
+onboarding-sync-welcome-content = Cael eich nodau tudalen, hanes, cyfrineiriau a gosodiadau eraill ar eich holl ddyfeisiau.
+onboarding-sync-welcome-learn-more-link = Dysgu rhagor am Gyfrif Firefox
+onboarding-sync-form-input =
+    .placeholder = E-bost
+onboarding-sync-form-continue-button = Parhau
+onboarding-sync-form-skip-login-button = Hepgor y cam hwn
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Rhowch eich e-bost
+onboarding-sync-form-sub-header = ac ymlaen i { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Gwnewch bethau gyda chasgliad o offer sy'n parchu eich preifatrwydd ar draws eich dyfeisiau.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Mae popeth rydym yn ei wneud yn cadw at ein Addewid ar Ddata Personol: Cymrwch lai. Cadwch ef yn ddiogel. Dim cyfrinachau.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Cymerwch eich nodau tudalen, cyfrineiriau, hanes, a mwy ym mhobman rydych chi'n defnyddio { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Cewch eich hysbysu pan fydd eich manylion personol mewn tor-data hysbys.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Rheoli cyfrineiriau sy'n ddiogel ac yn gludadwy.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Gwych, mae { -brand-short-name } gennych
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Nawr gadewch i ni gael <img data-l10n-name="icon"/> <b>{ $addon-name }</b> i chi.
+return-to-amo-add-extension-label = Ychwanegwch yr Estyniad
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +128,6 @@ onboarding-multistage-theme-primary-button-label = Cadw Thema
 onboarding-multistage-theme-secondary-button-label = Nid nawr
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awtomatig
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Defnyddio thema'r system
 onboarding-multistage-theme-label-light = Golau
 onboarding-multistage-theme-label-dark = Tywyll
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Dilyn gwedd eich system weithredu
-        ar gyfer botymau, dewislenni a ffenestri.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Defnyddio gwedd olau ar gyfer botymau,
-        dewislenni, a ffenestri.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Defnyddio gwedd dywyll ar gyfer botymau,
-        dewislenni, a ffenestri.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Defnyddio gwedd liwgar ar gyfer botymau,
-        dewislenni, a ffenestri.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +178,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Defnyddio gwedd liwgar ar gyfer botymau,
         dewislenni, a ffenestri.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Gadewch i ni ddechrau edrych ar bopeth y gallwch ei wneud.
-onboarding-fullpage-form-email =
-    .placeholder = Eich cyfeiriad e-bost…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Mynd â { -brand-product-name } gyda Chi
-onboarding-sync-welcome-content = Cael eich nodau tudalen, hanes, cyfrineiriau a gosodiadau eraill ar eich holl ddyfeisiau.
-onboarding-sync-welcome-learn-more-link = Dysgu rhagor am Gyfrif Firefox
-onboarding-sync-form-input =
-    .placeholder = E-bost
-onboarding-sync-form-continue-button = Parhau
-onboarding-sync-form-skip-login-button = Hepgor y cam hwn
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Rhowch eich e-bost
-onboarding-sync-form-sub-header = ac ymlaen i { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Gwnewch bethau gyda chasgliad o offer sy'n parchu eich preifatrwydd ar draws eich dyfeisiau.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Mae popeth rydym yn ei wneud yn cadw at ein Addewid ar Ddata Personol: Cymrwch lai. Cadwch ef yn ddiogel. Dim cyfrinachau.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Cymerwch eich nodau tudalen, cyfrineiriau, hanes, a mwy ym mhobman rydych chi'n defnyddio { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Cewch eich hysbysu pan fydd eich manylion personol mewn tor-data hysbys.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Rheoli cyfrineiriau sy'n ddiogel ac yn gludadwy.
 
 ## These strings belong to the individual onboarding messages.
 
