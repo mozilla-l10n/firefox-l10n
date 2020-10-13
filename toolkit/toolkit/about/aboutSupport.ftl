@@ -349,3 +349,12 @@ touch-warning = ανενεργή ασύγχρονη είσοδος αφής λό
 policies-inactive = Ανενεργό
 policies-active = Ενεργό
 policies-error = Σφάλμα
+
+## Printing section
+
+support-printing-title = Εκτύπωση
+support-printing-troubleshoot = Επίλυση προβλημάτων
+support-printing-clear-settings-button = Διαγραφή αποθηκευμένων ρυθμίσεων εκτύπωσης
+support-printing-modified-settings = Τροποποιημένες ρυθμίσεις εκτύπωσης
+support-printing-prefs-name = Όνομα
+support-printing-prefs-value = Τιμή
