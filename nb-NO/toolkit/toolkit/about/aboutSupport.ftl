@@ -346,3 +346,12 @@ touch-warning = asynkron touchinput er avslått på grunn av ustøttet innstilli
 policies-inactive = Inaktiv
 policies-active = Aktiv
 policies-error = Feil
+
+## Printing section
+
+support-printing-title = Skriver ut
+support-printing-troubleshoot = Feilsøking
+support-printing-clear-settings-button = Fjern lagrede utskriftsinnstillinger
+support-printing-modified-settings = Endrede utskriftsinnstillinger
+support-printing-prefs-name = Navn
+support-printing-prefs-value = Verdi
