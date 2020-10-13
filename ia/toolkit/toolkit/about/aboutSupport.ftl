@@ -349,3 +349,10 @@ touch-warning = entrata tactile asynchrone disactivate a causa de un preferentia
 policies-inactive = Inactive
 policies-active = Active
 policies-error = Error
+
+## Printing section
+
+support-printing-title = Imprimente
+support-printing-troubleshoot = Diagnostico
+support-printing-prefs-name = Nomine
+support-printing-prefs-value = Valor
