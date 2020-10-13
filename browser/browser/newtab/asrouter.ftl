@@ -262,6 +262,8 @@ cfr-doorhanger-fission-primary-button = Το κατάλαβα
     .accesskey = Τ
 cfr-doorhanger-fission-secondary-button = Μάθετε περισσότερα
     .accesskey = Μ
+# Deprecated
+cfr-doorhanger-fission-body = Το { -brand-short-name } έχει ενεργοποιήσει μια πειραματική λειτουργία, το Fission (απομόνωση ιστοσελίδας) για εσάς. Απομονώνοντας την κάθε σελίδα σε ξεχωριστή διεργασία, το Fission παρέχει ένα επιπλέον επίπεδο ασφαλείας για εσάς και τις ιστοσελίδες που επισκέπτεστε.
 
 ## What's new: Cookies message
 
