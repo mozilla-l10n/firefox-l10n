@@ -119,13 +119,32 @@
 <!--=percent sign-->
 
 
+<!ENTITY progress.level.0             "0&percnt; Xtz'aqatisäx">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt; Xtz'aqatisäx">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt; Xtz'aqatisäx">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt; Xtz'aqatisäx">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt; Xtz'aqatisäx">
+<!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Man jikib'an ta">
+<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.low                 "Ko'öl">
+<!ENTITY priority.level.low.accesskey       "K">
 <!ENTITY priority.level.normal              "Relik">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "Nïm">
+<!ENTITY priority.level.high.accesskey      "N">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 Ramaj">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "N">
 <!ENTITY calendar.context.postpone.1day.label       "1 Q'ij">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
 <!ENTITY calendar.context.postpone.1week.label      "1 Wuqq'ij">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
 <!ENTITY calendar.copylink.label       "Tiwachib'ëx Ruk'ojlib'al Ximonel">
 <!ENTITY calendar.copylink.accesskey   "C">
