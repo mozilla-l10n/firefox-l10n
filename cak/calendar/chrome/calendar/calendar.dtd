@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Titz'uk jun k'ak'a' molojri'ïl" >
 <!ENTITY calendar.newtask.button.tooltip          "Titz'uk jun k'ak'a' samaj" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Taq samaj" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Kek'ut etz'aqatisan Samaj">
 
 <!ENTITY calendar.today.button.label          "Wakami">
@@ -58,6 +56,12 @@
 <!ENTITY calendar.nextmonth.accesskey           "h" >
 <!ENTITY calendar.prevmonth.accesskey           "K" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Jun Q'ij Chuwäch" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Jun Q'ij Kan" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Jun Wuqq'ij Chuwäch" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Jun wuqq'ij Kan" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Jun Ik' chuwäch" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Jun Ik' Kan" >
 
 <!ENTITY calendar.newevent.button.label         "K'ak'a' Molojri'ïl" >
 <!ENTITY calendar.newtask.button.label          "K'ak'a' Samaj" >
