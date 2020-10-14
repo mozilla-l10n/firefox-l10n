@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "На весь екран">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Приховати перемикач Зображення в зображенні">
 <!ENTITY pictureInPictureHideToggle.accesskey "х">
 
@@ -52,10 +51,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Налаштування Синхронізації">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Під'єднати інший пристрій…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Увійти в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Увімкнути Синхронізацію">
-<!ENTITY fxa.menu.firefoxServices.label "Сервіси &brandProductName;">
+<!ENTITY fxa.menu.firefoxServices.label "Служби &brandProductName;">
 <!ENTITY fxa.menu.account.label "Обліковий запис">
 <!ENTITY fxa.menu.settings.label "Налаштування">
 <!ENTITY fxa.menu.accountSettings.label "Налаштування облікового запису">
@@ -218,17 +216,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Зберегти сторінку в Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Перегляд списку Pocket">
 
 <!ENTITY emailPageCmd.label           "Переслати посилання…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Масштаб">
 
@@ -254,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Додати словники…">
 <!ENTITY spellAddDictionaries.accesskey "л">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

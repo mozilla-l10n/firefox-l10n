@@ -1037,7 +1037,7 @@ permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
 permissions-a11y-privacy-checkbox =
-    .label = Не дозволяти сервісам доступності доступ до вашого браузера
+    .label = Не дозволяти службам доступності доступ до вашого браузера
     .accesskey = з
 permissions-a11y-privacy-link = Докладніше
 
