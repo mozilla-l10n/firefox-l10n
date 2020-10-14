@@ -257,7 +257,7 @@ cfr-doorhanger-doh-secondary-button = Slå av
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Personvernet ditt er viktig. { -brand-short-name } isolerer no nettstadar från kvarandre, noko som gjer det vanskelegare for hackarar å stele passord, kreditkortnummer og annan sensitiv informasjon.
+cfr-doorhanger-fission-body-approved = Personvernet ditt er viktig. { -brand-short-name } isolerer no nettstadar frå kvarandre, noko som gjer det vanskelegare for hackarar å stele passord, kreditkortnummer og annan sensitiv informasjon.
 cfr-doorhanger-fission-header = Nettstadisolering
 cfr-doorhanger-fission-primary-button = Ok, eg forstår
     .accesskey = O
