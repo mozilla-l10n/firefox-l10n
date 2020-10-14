@@ -97,3 +97,4 @@ experimental-features-js-warp-description = ჩაირთვება Warp, �
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (საიტის გამიჯვნა)
+experimental-features-fission-description = Fission (საიტის გამიჯვნა) არის ახალი საცდელი შესაძლებლობა, რომლითაც { -brand-short-name } გთავაზობთ დაცვის დამატებით ფენას, უსაფრთხოების სისუსტეების წინააღმდეგ. თითოეული საიტის ცალ-ცალკე პროცესებად გაშვებით, Fission ურთულებს მავნე ვებსაიტებს, სხვა მონახულებულ გვერდებთან წვდომას. ჩვენ და { -brand-short-name } მეტად მოხარულნი ვიქნებით, თუ გამოცდით და მოგვახსენებთ ხარვეზებს, რომელთაც წააწყდებით. ვრცლად, დამატებით იხილეთ <a data-l10n-name="wiki">ვიკი</a>.
