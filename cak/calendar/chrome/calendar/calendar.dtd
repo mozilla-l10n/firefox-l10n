@@ -24,6 +24,7 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Xk'is">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Tinuk' chi k'ulwachinäq">
 <!ENTITY calendar.unifinder.tree.priority.label            "Ya'on ruq'ij">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Tinuk' chi ya'on ruq'ij">
 <!ENTITY calendar.unifinder.tree.title.label               "B'i'aj">
@@ -34,6 +35,7 @@
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Tinuk' chi rutikirib'al q'ijul">
 <!ENTITY calendar.unifinder.tree.enddate.label             "K'isib'äl">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Tinuk' chi ruk'isib'äl q'ijul">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Ruma">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Tz'aqatisan">
 <!ENTITY calendar.unifinder.tree.categories.label          "Ruwäch">
 <!ENTITY calendar.unifinder.tree.location.label            "K'ojlib'äl">
@@ -41,6 +43,7 @@
 <!ENTITY calendar.unifinder.tree.status.label              "B'anikil">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Tinuk' chi rub'anikil">
 
+<!ENTITY calendar.today.button.tooltip          "Jo' wakami" >
 
 
 <!ENTITY calendar.nextday.label                 "Jun chik Q'ij" >
@@ -72,6 +75,8 @@
 <!ENTITY calendar.week.button.label             "Wuqq'ij" >
 <!ENTITY calendar.month.button.label            "Ik'" >
 <!ENTITY calendar.multiweek.button.label        "K'ïy wuq'ij" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Kek'ut etz'aqatisan Samaj" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "e" >
 
 
 
@@ -105,6 +110,14 @@
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Tijaq">
+<!ENTITY calendar.context.newevent.label              "K'ak'a' Molojri'ïl…">
+<!ENTITY calendar.context.newevent.accesskey          "K">
+<!ENTITY calendar.context.newtodo.label               "K'ak'a' Samaj…">
+<!ENTITY calendar.context.newtodo.accesskey           "j">
+<!ENTITY calendar.context.deletetask.label            "Tiyuj Samaj">
+<!ENTITY calendar.context.deletetask.accesskey        "y">
+<!ENTITY calendar.context.deleteevent.label           "Tiyuj Nimaq'ij">
+<!ENTITY calendar.context.deleteevent.accesskey       "y">
 <!ENTITY calendar.context.cutevent.label              "Tiqupïx">
 <!ENTITY calendar.context.copyevent.label             "Tiwachib'ëx">
 <!ENTITY calendar.context.pasteevent.label            "Titz'ajb'äx">
