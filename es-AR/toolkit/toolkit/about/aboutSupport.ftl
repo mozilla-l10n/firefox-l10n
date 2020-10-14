@@ -349,3 +349,12 @@ touch-warning = táctil no sincrónico deshabilitado por preferencia no soportad
 policies-inactive = Inactivo
 policies-active = Activo
 policies-error = Error
+
+## Printing section
+
+support-printing-title = Imprimir
+support-printing-troubleshoot = Solución de problemas
+support-printing-clear-settings-button = Eliminar los ajustes de impresión guardados
+support-printing-modified-settings = Ajustes de impresión modificados
+support-printing-prefs-name = Nombre
+support-printing-prefs-value = Valor
