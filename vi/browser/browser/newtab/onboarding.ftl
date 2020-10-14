@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Bắt đầu
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
 onboarding-welcome-body = Bạn đã có trình duyệt.<br/>Xem phần còn lại của { -brand-product-name }.
 onboarding-welcome-learn-more = Tìm hiểu thêm về các tiện ích.
@@ -39,6 +47,54 @@ onboarding-start-browsing-button-label = Bắt đầu duyệt web
 onboarding-cards-dismiss =
     .title = Bỏ qua
     .aria-label = Bỏ qua
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Hãy bắt đầu khám phá mọi thứ bạn có thể làm.
+onboarding-fullpage-form-email =
+    .placeholder = Địa chỉ email của bạn…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Mang { -brand-product-name } theo bạn
+onboarding-sync-welcome-content = Đồng bộ các dấu trang, lịch sử, mật khẩu và các cài đặt khác lên tất cả các thiết bị của bạn.
+onboarding-sync-welcome-learn-more-link = Tìm hiểu thêm về Tài khoản Firefox
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Tiếp tục
+onboarding-sync-form-skip-login-button = Bỏ qua bước này
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Nhập email của bạn
+onboarding-sync-form-sub-header = để tiếp tục với { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Hoàn thành công việc với một nhóm công cụ tôn trọng quyền riêng tư của bạn trên các thiết bị của bạn.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tất cả mọi thứ chúng tôi làm đều tôn vinh lời hứa dữ liệu cá nhân của chúng tôi: Lấy ít hơn. Giữ nó an toàn. Không có bí mật.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Nhận dấu trang, mật khẩu, lịch sử của bạn và nhiều nơi khác mà bạn đã đăng nhập vào { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Nhận thông báo khi thông tin cá nhân của bạn bị rò rỉ trong dữ liệu đã biết.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Quản lý mật khẩu được bảo vệ và di động.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Thật tuyệt, bạn đã có { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Bây giờ, bạn có thể cài đặt <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Thêm tiện ích mở rộng
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +128,6 @@ onboarding-multistage-theme-primary-button-label = Lưu chủ đề
 onboarding-multistage-theme-secondary-button-label = Không phải bây giờ
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Tự động
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Sử dụng chủ đề hệ thống
 onboarding-multistage-theme-label-light = Sáng
 onboarding-multistage-theme-label-dark = Tối
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Kế thừa sự xuất hiện của hệ điều hành
-        của bạn cho các nút, menu và cửa sổ.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Sử dụng giao diện sáng cho các nút,
-        menu và cửa sổ.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Sử dụng giao diện tối cho các nút,
-        menu và cửa sổ.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Sử dụng giao diện đầy màu sắc cho các nút,
-        menu và cửa sổ
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +178,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Sử dụng giao diện đầy màu sắc cho các nút,
         menu và cửa sổ
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Hãy bắt đầu khám phá mọi thứ bạn có thể làm.
-onboarding-fullpage-form-email =
-    .placeholder = Địa chỉ email của bạn…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Mang { -brand-product-name } theo bạn
-onboarding-sync-welcome-content = Đồng bộ các dấu trang, lịch sử, mật khẩu và các cài đặt khác lên tất cả các thiết bị của bạn.
-onboarding-sync-welcome-learn-more-link = Tìm hiểu thêm về Tài khoản Firefox
-onboarding-sync-form-input =
-    .placeholder = Email
-onboarding-sync-form-continue-button = Tiếp tục
-onboarding-sync-form-skip-login-button = Bỏ qua bước này
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Nhập email của bạn
-onboarding-sync-form-sub-header = để tiếp tục với { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Hoàn thành công việc với một nhóm công cụ tôn trọng quyền riêng tư của bạn trên các thiết bị của bạn.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Tất cả mọi thứ chúng tôi làm đều tôn vinh lời hứa dữ liệu cá nhân của chúng tôi: Lấy ít hơn. Giữ nó an toàn. Không có bí mật.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Nhận dấu trang, mật khẩu, lịch sử của bạn và nhiều nơi khác mà bạn đã đăng nhập vào { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Nhận thông báo khi thông tin cá nhân của bạn bị rò rỉ trong dữ liệu đã biết.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Quản lý mật khẩu được bảo vệ và di động.
 
 ## These strings belong to the individual onboarding messages.
 
