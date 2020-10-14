@@ -113,7 +113,7 @@ about-telemetry-slow-sql-hits = რაოდ.
 about-telemetry-slow-sql-average = საშ. დრო (მწმ)
 about-telemetry-slow-sql-statement = ბრძანებები
 # these strings are used in the “Add-on Details” section
-about-telemetry-addon-table-id = დამატების იდენტიფიკატორი
+about-telemetry-addon-table-id = დამატების ID
 about-telemetry-addon-table-details = ვრცლად
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)

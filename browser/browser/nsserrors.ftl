@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = შეცდომა დაკავშირებისას - { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = შეცდომის კოდი: { $error }
-
 psmerr-ssl-disabled = უსაფრთხო დაკავშირება ვერ ხერხდება, რადგან SSL ოქმი ამორთულია.
 psmerr-ssl2-disabled = უსაფრთხო დაკავშირება ვერ ხერხდება, რადგან საიტი SSL ოქმის მოძველებულ ვერსიას იყენებს.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     თქვენ უმართებულო სერტიფიკატი მიიღეთ.  გთხოვთ დაუკავშირდეთ სერვერის მმართველს ან ელფოსტის მოპასუხეს და მიაწოდოთ შემდეგი მონაცემები:
     
     თქვენი სერტიფიკატი შეიცავს იმავე სერიულ ნომერს, რაც ამ გამცემის მიერ გამოშვებული სხვა სერტიფიკატი.  გთხოვთ, გამოიყენოთ ახალი სერტიფიკატი, უნიკალური სერიული ნომრით.
-
 ssl-error-export-only-server = უსაფრთხო კავშირი ვერ ხერხდება. კვანძისთვის მაღალი დონის დაშიფვრა მიუღებელია.
 ssl-error-us-only-server = უსაფრთხო კავშირი ვერ ხერხდება. კვანძი ითხოვს მაღალი დონის დაშიფვრას, რაც უზრუნველყოფილი არაა.
 ssl-error-no-cypher-overlap = კვანძთან უსაფრთხო კავშირი ვერ ხერხდება: არ გააჩნია დაშიფვრის ცნობილი ალგორითმ(ებ)ი.
@@ -304,7 +301,7 @@ sec-error-busy = NSS could not shutdown. Objects are still in use.
 sec-error-extra-input = DER-encoded message contained extra unused data.
 sec-error-unsupported-elliptic-curve = Unsupported elliptic curve.
 sec-error-unsupported-ec-point-form = Unsupported elliptic curve point form.
-sec-error-unrecognized-oid = ობიექტის იდენტიფიკატორი უცნობია.
+sec-error-unrecognized-oid = ობიექტის გაურკვეველი ამოსაცნობი.
 sec-error-ocsp-invalid-signing-cert = უმართებულო OCSP ხელმოწერის სერტიფიკატი OCSP პასუხისას.
 sec-error-revoked-certificate-crl = სერტიფიკატი ძალადაკარგულია გამომცემლის ძალადაკარგული სერტიფიკატების სიაში.
 sec-error-revoked-certificate-ocsp = გამომცემლის OCSP მოპასუხის პატაკის თანახმად სერტიფიკატი ძალადაკარგულია.
