@@ -316,5 +316,21 @@
 <!ENTITY read.only.general.label         "Chijun">
 <!ENTITY read.only.title.label           "B'i'aj:">
 <!ENTITY read.only.calendar.label        "Cholb'äl q'ij:">
+<!ENTITY read.only.event.start.label     "Tikirib'äl Q'ij:">
+<!ENTITY read.only.task.start.label      "Tikirib'äl Q'ij:">
+<!ENTITY read.only.event.end.label       "Ruk'isib'äl Q'ij:">
+<!ENTITY read.only.repeat.label          "Tikamulüx:">
+<!ENTITY read.only.location.label        "K'ojlib'äl:">
+<!ENTITY read.only.category.label        "Ruwäch:">
+<!ENTITY read.only.organizer.label       "Ticholajïx:">
+<!ENTITY read.only.reminder.label        "Natab'äl:">
+<!ENTITY read.only.attachments.label     "Taq taqoj:">
+<!ENTITY read.only.description.label     "Tzijoxikil">
+<!ENTITY read.only.link.label            "Rachib'il Ximöy">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Tiyak chuqa' Titz'apïx">
+<!ENTITY summary.dialog.accept.label            "Tik'ul">
+<!ENTITY summary.dialog.tentative.label         "Tirayij">
+<!ENTITY summary.dialog.decline.label           "Tixutüx">
+<!ENTITY summary.dialog.decline.tooltiptext     "Tixutüx peyonïk">
