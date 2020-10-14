@@ -326,3 +326,12 @@ touch-warning = đầu vào cảm ứng không đồng bộ đã tắt vì có t
 policies-inactive = Không hoạt động
 policies-active = Hoạt động
 policies-error = Lỗi
+
+## Printing section
+
+support-printing-title = Đang In
+support-printing-troubleshoot = Khắc phục sự cố
+support-printing-clear-settings-button = Xóa cài đặt in đã lưu
+support-printing-modified-settings = Đã sửa đổi cài đặt in
+support-printing-prefs-name = Tên
+support-printing-prefs-value = Giá trị
