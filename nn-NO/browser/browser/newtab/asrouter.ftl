@@ -257,12 +257,14 @@ cfr-doorhanger-doh-secondary-button = Slå av
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name } har slått på ein eksperimentell funksjon Fission (nettstadisolering) for deg. Ved å isolere kvar nettstad i ein eigen prosess, gir Fission eit ekstra sikkerheitslag for deg og nettstadane du besøkjer.
+cfr-doorhanger-fission-body-approved = Personvernet ditt er viktig. { -brand-short-name } isolerer no nettstadar från kvarandre, noko som gjer det vanskelegare for hackarar å stele passord, kreditkortnummer og annan sensitiv informasjon.
 cfr-doorhanger-fission-header = Nettstadisolering
 cfr-doorhanger-fission-primary-button = Ok, eg forstår
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Les meir
     .accesskey = L
+# Deprecated
+cfr-doorhanger-fission-body = { -brand-short-name } har slått på ein eksperimentell funksjon Fission (nettstadisolering) for deg. Ved å isolere kvar nettstad i ein eigen prosess, gir Fission eit ekstra sikkerheitslag for deg og nettstadane du besøkjer.
 
 ## What's new: Cookies message
 
