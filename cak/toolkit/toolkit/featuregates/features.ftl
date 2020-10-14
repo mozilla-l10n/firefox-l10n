@@ -97,3 +97,4 @@ experimental-features-js-warp-description = Titzij Warp, jun nuk'samaj richin nu
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Rujech'unik Ruxaq)
+experimental-features-fission-description = Fission (rujech'unik ruxaq) jun tojtob'enel samaj pa richin jun rutz'aqat pisoj richin yeruchajij taq rusachoj jikomal. Toq yerujech'uj jujun ruxaq pa kiyonil, Fission k'ayew nub'än chi ke ri itzel taq ajk'amaya'l ruxaq richin ye'ok pa ketamab'al ch'aqa' chik taq ruxaq ye'atz'ët. Re re' jun nimaläj tz'aqonel jaloj pa { -brand-short-name } chuqa' niqamatyoxij chawe chi natojtob'ej chuqa' naya' rutzijol xab'achike k'ayewal nawïl. Richin nawetamaj ch'aqa' chik rub'anikil, tatz'eta' <a data-l10n-name="wiki">ri wiki</a>.
