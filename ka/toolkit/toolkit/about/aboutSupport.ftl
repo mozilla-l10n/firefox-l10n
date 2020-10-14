@@ -346,3 +346,12 @@ touch-warning = შეხებით ასინქრონული შე�
 policies-inactive = უმოქმედო
 policies-active = მოქმედი
 policies-error = შეცდომა
+
+## Printing section
+
+support-printing-title = იბეჭდება
+support-printing-troubleshoot = პრობლემის აღმოფხვრა
+support-printing-clear-settings-button = ამობეჭდვის შენახული პარამეტრების გასუფთავება
+support-printing-modified-settings = ამობეჭდვის შეცვლილი პარამეტრები
+support-printing-prefs-name = სახელი
+support-printing-prefs-value = მნიშვნელობა
