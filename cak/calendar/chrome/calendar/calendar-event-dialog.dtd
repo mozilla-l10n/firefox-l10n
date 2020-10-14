@@ -159,14 +159,41 @@
 <!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.status.label                                "B'anikil:" >
 <!ENTITY event.repeat.label                               "Tikamulüx:" >
+<!ENTITY event.repeat.accesskey                           "T">
+<!ENTITY event.until.label                                "K'a:">
+<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.reminder.label                             "Natab'äl:" >
+<!ENTITY event.reminder.accesskey                         "t">
 <!ENTITY event.description.label                          "Tzijoxkil:" >
+<!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "Taq taqoj:" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.menubutton.label               "Titz'aqatisäx">
+<!ENTITY event.attachments.menubutton.accesskey           "t">
 <!ENTITY event.attachments.url.label                      "Ajk'amaya'l Ruxaq…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Tiyuj" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "Tijaq" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Keyuj Ronojel" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "Titz'aqatisäx Ajk'amaya'l Ruxaq…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "x" >
+<!ENTITY event.url.label                                  "Rachib'il Ximöy:" >
 <!ENTITY event.priority2.label                            "Ya'on ruq'ij:">
 
+<!ENTITY event.reminder.none.label                        "Majun natab'äl" >
+<!ENTITY event.reminder.0minutes.before.label             "0 ch'utiramaj chuwäch" >
+<!ENTITY event.reminder.5minutes.before.label             "5 ch'utiramaj chuwäch" >
+<!ENTITY event.reminder.15minutes.before.label            "15 ch'utiramaj chuwäch" >
+<!ENTITY event.reminder.30minutes.before.label            "30 ch'utiramaj chuwäch" >
+<!ENTITY event.reminder.1hour.before.label                "1 ramaj chuwäch" >
+<!ENTITY event.reminder.2hours.before.label               "2 ramaj chuwäch" >
+<!ENTITY event.reminder.12hours.before.label              "12 ramaj chuwäch" >
+<!ENTITY event.reminder.1day.before.label                 "1 q'ij chuwäch" >
+<!ENTITY event.reminder.2days.before.label                "2 q'ij chuwäch" >
+<!ENTITY event.reminder.1week.before.label                "1 wuqq'ij chuwäch" >
 <!ENTITY event.reminder.custom.label                      "Ichinan…" >
 
 
@@ -174,11 +201,37 @@
 
 <!-- Recurrence dialog -->
 
+<!ENTITY event.repeat.daily.label                       "Q'ij q'ij">
+<!ENTITY event.repeat.weekly.label                      "Wuqq'ijil">
+<!ENTITY event.repeat.every.weekday.label               "Ronojel Q'ij Richin ri Wuqq'ij">
+<!ENTITY event.repeat.bi.weekly.label                   "Ka-wuqq'ij">
+<!ENTITY event.repeat.monthly.label                     "Ik' ik'">
+<!ENTITY event.repeat.yearly.label                      "Juna' juna'">
 <!ENTITY event.repeat.custom.label                      "Ichinan…">
 
+<!ENTITY event.recurrence.occurs.label                  "Tikamulüx" >
+<!ENTITY event.recurrence.day.label                     "q'ij q'ij" >
+<!ENTITY event.recurrence.week.label                    "wuqq'ijil" >
+<!ENTITY event.recurrence.month.label                   "ik' ik'" >
+<!ENTITY event.recurrence.year.label                    "juna' juna'" >
 
+<!ENTITY event.recurrence.pattern.every.label           "Jujun" >
+<!ENTITY repeat.units.days.both                         "(taq)Q'ij" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Ronojel q'ij richin ri wuqq'ij" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Jujun" >
+<!ENTITY repeat.units.weeks.both                        "Taq wuqq'ij" >
+<!ENTITY event.recurrence.on.label                      "Pa:" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Jujun" >
+<!ENTITY repeat.units.months.both                       "Taq ik'" >
+<!ENTITY event.recurrence.monthly.every.label           "Jujun" >
+<!ENTITY event.recurrence.monthly.first.label           "Ri Nab'ey">
+<!ENTITY event.recurrence.monthly.second.label          "Ri Ruka'n">
+<!ENTITY event.recurrence.monthly.third.label           "Ri Rox">
+<!ENTITY event.recurrence.monthly.fourth.label          "Ri Rukaj">
+<!ENTITY event.recurrence.monthly.fifth.label           "Ri Ro'">
+<!ENTITY event.recurrence.monthly.last.label            "Ri K'isb'äl">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Toq'ij" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Luq'ij" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Maq'ij" >
@@ -186,6 +239,8 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label  "Juq'ij" >
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Wiq'ij" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Saq'ij" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ruq'ij ik'">
+<!ENTITY event.recurrence.repeat.recur.label            "Tikamulüx pa taq q'ij">
 
 
 <!-- LOCALIZATON NOTE
