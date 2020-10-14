@@ -119,17 +119,30 @@
 <!ENTITY calendar.context.deleteevent.label           "Tiyuj Nimaq'ij">
 <!ENTITY calendar.context.deleteevent.accesskey       "y">
 <!ENTITY calendar.context.cutevent.label              "Tiqupïx">
+<!ENTITY calendar.context.cutevent.accesskey          "q">
 <!ENTITY calendar.context.copyevent.label             "Tiwachib'ëx">
+<!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Titz'ajb'äx">
+<!ENTITY calendar.context.pasteevent.accesskey        "P">
 
 
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Nitajin">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Xtz'aqatisäx">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "a">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Xk'ul">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Nitajin">
+<!ENTITY calendar.context.attendance.all.completed.label        "Xtz'aqatisäx">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Tajin">
+<!ENTITY calendar.context.progress.accesskey          "q">
 <!ENTITY calendar.context.priority.label              "Ya'on ruq'ij">
+<!ENTITY calendar.context.priority.accesskey          "r">
 
-<!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 
 <!ENTITY progress.level.0             "0&percnt; Xtz'aqatisäx">
@@ -168,24 +181,45 @@
 <!ENTITY calendar.taskview.delete.label     "Tiyuj">
 
 <!-- Server Context Menu -->
+<!ENTITY calendar.context.findcalendar.label           "Kekanöx Cholb'äl Q'ij…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "K" >
+<!ENTITY calendar.context.deleteserver2.label          "Tiyuj Cholb'äl Q'ij…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "T">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "Tiyuj Cholb'äl Q'ij…">
+<!ENTITY calendar.context.removeserver.accesskey       "T">
+<!ENTITY calendar.context.export.label                 "Tik'wäx Cholb'äl Q'ij…">
+<!ENTITY calendar.context.export.accesskey             "T">
 <!ENTITY calendar.context.properties.label             "Taq ichinil">
+<!ENTITY calendar.context.properties.accesskey         "P">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "h">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "H">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showall.label                "Kek'ut Ronojel Cholb'äl Q'ij">
+<!ENTITY calendar.context.showall.accesskey            "R">
 
+<!ENTITY calendar.context.convertmenu.label              "Tik'ex Pa">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "x">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "k">
 <!ENTITY calendar.context.convertmenu.event.label        "Molojri'ïl…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "E">
 <!ENTITY calendar.context.convertmenu.message.label      "Tzijol…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.task.label         "Samaj…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "S">
 
 
 
@@ -216,9 +250,11 @@
 
 <!-- Calendar Properties -->
 <!ENTITY calendarproperties.color.label                    "B'onil:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.format.label                   "B'anikil:">
 <!ENTITY calendarproperties.location.label                 "Ochochib'al:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Chi q'ab'aj">
 <!ENTITY calendarproperties.name.label                     "B'i'aj:">
 <!ENTITY calendarproperties.readonly.label                 "Xa xe Sik'inïk">
 <!ENTITY calendarproperties.unsubscribe.label              "Tiq'at rutz'ib'axik b'i'aj">
@@ -227,16 +263,23 @@
 <!ENTITY calendar.publish.publish.button      "Titalüx rutzijol">
 <!ENTITY calendar.publish.close.button      "Titz'apïx">
 
+<!ENTITY calendar.publish.example.url.description   "Jun achi'el http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Ticha' Cholb'äl Q'ij">
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Titz'ajb'äx Jun Cholb'äl Q'ij">
 <!ENTITY calendar.print.title.label "B'i'aj:">
 <!ENTITY calendar.print.layout.label "Wachib'enïk:">
+<!ENTITY calendar.print.range.label "Achike Nitz'ajb'äx">
 <!ENTITY calendar.print.currentView2.label "Rutzub'al Wakami">
+<!ENTITY calendar.print.tasks.label "Taq samaj">
 <!ENTITY calendar.print.events.label "Taq Nimaq'ij">
+<!ENTITY calendar.print.custom.label "Kajlab'al ichinan q'ijul:">
 <!ENTITY calendar.print.from.label "Richin:">
 <!ENTITY calendar.print.to.label "Chi re:">
+<!ENTITY calendar.print.settingsGroup.label "Ketz'ajb'äx taq Runuk'ulem">
 <!ENTITY calendar.print.optionsGroup.label "Taq cha'oj">
 
 <!-- Error reporting -->
