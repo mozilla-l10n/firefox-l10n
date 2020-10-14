@@ -21,3 +21,5 @@ carddav-password-input =
 carddav-remember-password =
     .label = Tinatäx ri ewan tzij
     .accesskey = n
+carddav-loading = Nikanöx ri runuk'ulem…
+carddav-connection-error = Xsach toq nok.
