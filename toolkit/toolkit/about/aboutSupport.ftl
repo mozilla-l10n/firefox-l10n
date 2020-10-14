@@ -349,3 +349,12 @@ touch-warning = async-oanraakynfier útskeakele fanwegen net stipe foarkar: { $p
 policies-inactive = Ynaktyf
 policies-active = Aktyf
 policies-error = Flater
+
+## Printing section
+
+support-printing-title = Ofdrukke
+support-printing-troubleshoot = Probleemoplossing
+support-printing-clear-settings-button = Bewarre ôfdrukynstellingen wiskje
+support-printing-modified-settings = Wizige ôfdrukynstellingen
+support-printing-prefs-name = Namme
+support-printing-prefs-value = Wearde
