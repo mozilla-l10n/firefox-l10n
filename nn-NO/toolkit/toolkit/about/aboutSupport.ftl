@@ -346,3 +346,12 @@ touch-warning = asynkron tøtsj-input slått av pga. ikkje-støtta innstilling: 
 policies-inactive = Slått av
 policies-active = Slått på
 policies-error = Feil
+
+## Printing section
+
+support-printing-title = Skriv ut
+support-printing-troubleshoot = Feilsøking
+support-printing-clear-settings-button = Fjern lagra utskriftsinnstillingar
+support-printing-modified-settings = Endra utskriftsinnstillingar
+support-printing-prefs-name = Namn
+support-printing-prefs-value = Verdi

@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Den globale <a data-l10n
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Tillegginga av ein konstruktør til <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-grensesnittet i tillegg til ei rekkje relaterte endringar gjer det mogleg å lage nye stilsett direkte, utan å måtte leggje settet til HTML. Dette gjer det mykje enklare å lage gjenbruksstilsett for bruk med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Sjå <a data-l10n-name="bugzilla">bug 1520690</a> for meir informasjon.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Heile implementeringa til { -brand-short-name } av Media Session API-et er enno eksperimentell. Denne API-en vert brukt til å tilpasse handteringa av medierelaterte varsel, for å administrere hendingar og data som er nyttige for å presentere eit brukargrensesnitt for å administrere medieavspeling, og for å skaffe metadata for mediefiler. Sjå <a data-l10n-name="bugzilla">bug 1112032</a> for meir informasjon.
 experimental-features-devtools-color-scheme-simulation =
     .label = Utviklarverktøy: Simulering av fargeskjema
 experimental-features-devtools-color-scheme-simulation-description = Legg til eit alternativ for å simulere ulike fargeskjema som lar deg teste <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-schema</a>-mediespørjing. Ved å bruke denne mediespørjinga lar stilsettet ditt svare på om brukaren føretrekkjer eit lyst eller mørkt brukargrensesnitt. Denne funksjonen lar deg teste koden din utan å måtte endre innstillingar i nettlesaren (eller operativsystemet, dersom nettlesaren følgjer ei systemavhengig fargevalinnstilling). Sjå <a data-l10n-name="bugzilla1">bug 1550804</a> og <a data-l10n-name="bugzilla2">bug 1137699</a> for meir informasjon.
@@ -93,7 +88,7 @@ experimental-features-graphics-desktop-zooming =
 experimental-features-graphics-desktop-zooming-description = Slå på støtte for jamn knipeskalering med berøringsskjermar og presisjonspeikeplate.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
-    .label = Slå av/på globale kontrollar for WebRTC
+    .label = Global WebRTC dempekontroll
 experimental-features-webrtc-global-mute-toggles-description = Legg til kontrollar i WebRTCs globale delingsvarsel som brukarar kan nytte til å globalt dempe eigen mikrofon og eigne kamerakjelder.
 # JS JIT Warp project
 experimental-features-js-warp =
