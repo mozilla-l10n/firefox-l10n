@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Titikirisäx
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
 onboarding-welcome-body = K'o awik'in ri okik'amaya'l.<br/>Tawetamaj ri ch'aqa' chik taq { -brand-product-name }.
 onboarding-welcome-learn-more = Tawetamaj ch'aqa' chik pa ruwi' ri taq rutzil.
@@ -39,6 +47,54 @@ onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 onboarding-cards-dismiss =
     .title = Tichup ruwäch
     .aria-label = Tichup ruwäch
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Tiqachapa' rutz'etik ronojel ri yatikïr nab'än.
+onboarding-fullpage-form-email =
+    .placeholder = Rochochib'al ataqoya'l…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Tak'waj ri { -brand-product-name } Awik'in
+onboarding-sync-welcome-content = Ke'ak'waj ri taq yaketal, natab'äl, ewan taq tzij chuqa' ch'aqa' chik taq nuk'ulem pa ronojel taq awokisaxel.
+onboarding-sync-welcome-learn-more-link = Tawetamaj ch'aqa' chik pa ruwi' ri Firefox Taqoya'l
+onboarding-sync-form-input =
+    .placeholder = Taqoya'l
+onboarding-sync-form-continue-button = Titikïr chik el
+onboarding-sync-form-skip-login-button = Tixakalüx re jun ruxak re'
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Tatz'ib'aj ataqoya'l
+onboarding-sync-form-sub-header = richin yatok pa { -sync-brand-name }.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Kasamäj rik'in jun molaj samajib'äl, ri nukamelaj ri awichinanem pa ronojel awokisab'al.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Ronojel ri niqab'än, nukamelaj ri Rusujik Tzij chi rij Qatzij: Jub'a' etamab'äl nuk'äm. Nujikib'a'. Majun ewäl ta.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Ke'ak'waj ri taq ayaketal, ewan taq atzij, natab'äl chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Tak'ulu' rutzijol toq ri awetamab'al xtz'iläx rutzij.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Ke'anuk'samajij ri ewan taq atzij, ri yechajïx chuqa' ek'axel.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Ütz ütz, awichinan { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Wakami niqatäq chawe <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Titz'aqatisäx K'amal
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +128,6 @@ onboarding-multistage-theme-primary-button-label = Tiyak Wachinel
 onboarding-multistage-theme-secondary-button-label = Wakami mani
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Yonil
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Tokisäx ruwachinel q'inoj
 onboarding-multistage-theme-label-light = Saqsöj
 onboarding-multistage-theme-label-dark = Q'eqq'öj
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Tichinäx kan ri rutzub'al samajel
-        aq'inoj pa taq pitz'b'äl, taq k'utsamaj chuqa' taq ruwi'.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Tokisäx jun saqsöj tzub'al pa taq pitz'b'äl,
-        taq k'utsamaj chuqa' pa taq ruwi'.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Tokisäx jun q'equm tzub'al pa taq pitz'b'äl,
-        taq k'utsamaj chuqa' pa taq ruwi'.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Tokisäx jeb'ejöj tzub'al pa taq pitz'b'äl,
-        taq k'utsamaj chuqa' pa taq ruwi'.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +178,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Tokisäx jeb'ejöj tzub'al pa taq pitz'b'äl,
         taq k'utsamaj chuqa' pa taq ruwi'.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Tiqachapa' rutz'etik ronojel ri yatikïr nab'än.
-onboarding-fullpage-form-email =
-    .placeholder = Rochochib'al ataqoya'l…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Tak'waj ri { -brand-product-name } Awik'in
-onboarding-sync-welcome-content = Ke'ak'waj ri taq yaketal, natab'äl, ewan taq tzij chuqa' ch'aqa' chik taq nuk'ulem pa ronojel taq awokisaxel.
-onboarding-sync-welcome-learn-more-link = Tawetamaj ch'aqa' chik pa ruwi' ri Firefox Taqoya'l
-onboarding-sync-form-input =
-    .placeholder = Taqoya'l
-onboarding-sync-form-continue-button = Titikïr chik el
-onboarding-sync-form-skip-login-button = Tixakalüx re jun ruxak re'
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Tatz'ib'aj ataqoya'l
-onboarding-sync-form-sub-header = richin yatok pa { -sync-brand-name }.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Kasamäj rik'in jun molaj samajib'äl, ri nukamelaj ri awichinanem pa ronojel awokisab'al.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Ronojel ri niqab'än, nukamelaj ri Rusujik Tzij chi rij Qatzij: Jub'a' etamab'äl nuk'äm. Nujikib'a'. Majun ewäl ta.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Ke'ak'waj ri taq ayaketal, ewan taq atzij, natab'äl chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Tak'ulu' rutzijol toq ri awetamab'al xtz'iläx rutzij.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Ke'anuk'samajij ri ewan taq atzij, ri yechajïx chuqa' ek'axel.
 
 ## These strings belong to the individual onboarding messages.
 

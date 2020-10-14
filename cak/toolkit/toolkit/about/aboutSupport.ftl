@@ -346,3 +346,10 @@ touch-warning = xchuputäj ri rokitz'ib' chapoj meximojri'ïl ruma chi ri pref m
 policies-inactive = Chupül
 policies-active = Tzijïl
 policies-error = Sachoj
+
+## Printing section
+
+support-printing-title = Nitz'ajb'äx
+support-printing-troubleshoot = Kisolik taq k'ayewal
+support-printing-prefs-name = B'i'aj
+support-printing-prefs-value = Retal
