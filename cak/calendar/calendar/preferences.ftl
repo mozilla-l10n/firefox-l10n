@@ -90,3 +90,6 @@ alarm-on-label =
     .label = Titzij
 alarm-off-label =
     .label = Chupül
+category-new-label = K'ak'a' Ruwäch
+category-edit-label = Tinuk' Ruwäch
+category-blank-warning = K'o chi natz'ib'aj jun rub'i' ruwäch.
