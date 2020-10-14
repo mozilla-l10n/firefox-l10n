@@ -263,12 +263,14 @@ cfr-doorhanger-doh-secondary-button = Адключыць
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name } уключыў для вас эксперыментальную функцыю Fission (ізаляцыя сайта). Ізалюючы кожны сайт у асобны працэс, Fission забяспечвае дадатковы ўзровень бяспекі для вас і для сайтаў, якія вы наведваеце.
+cfr-doorhanger-fission-body-approved = Ваша прыватнасць мае значэнне. { -brand-short-name } цяпер ізалюе, у "пясочніцы", сайты адзін ад аднаго, што ўскладняе хакерам крадзеж пароляў, нумароў крэдытных карт і іншай канфідэнцыяльнай інфармацыі.
 cfr-doorhanger-fission-header = Ізаляцыя сайтаў
 cfr-doorhanger-fission-primary-button = OK, зразумела
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Даведацца больш
     .accesskey = Д
+# Deprecated
+cfr-doorhanger-fission-body = { -brand-short-name } уключыў для вас эксперыментальную функцыю Fission (ізаляцыя сайта). Ізалюючы кожны сайт у асобны працэс, Fission забяспечвае дадатковы ўзровень бяспекі для вас і для сайтаў, якія вы наведваеце.
 
 ## What's new: Cookies message
 
