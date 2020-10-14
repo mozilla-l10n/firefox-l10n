@@ -346,3 +346,12 @@ touch-warning = aszinkron érintőbemenet letiltva egy nem támogatott beállít
 policies-inactive = Inaktív
 policies-active = Aktív
 policies-error = Hiba
+
+## Printing section
+
+support-printing-title = Nyomtatás
+support-printing-troubleshoot = Hibaelhárítás
+support-printing-clear-settings-button = Mentett nyomtatási beállítások törlése
+support-printing-modified-settings = Módosított nyomtatási beállítások
+support-printing-prefs-name = Név
+support-printing-prefs-value = Érték
