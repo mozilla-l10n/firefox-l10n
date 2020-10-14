@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Kezdő lépések
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Üdvözli a { -brand-short-name }
 onboarding-welcome-body = Megvan a böngészője.<br/>Ismerkedjen meg a { -brand-product-name } család többi tagjával.
 onboarding-welcome-learn-more = További tudnivalók az előnyökről.
@@ -39,6 +47,54 @@ onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-cards-dismiss =
     .title = Elutasítás
     .aria-label = Elutasítás
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Fedezzük fel mindazt, amit tehet.
+onboarding-fullpage-form-email =
+    .placeholder = Az e-mail címe…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Vigye magával a { -brand-product-name }ot
+onboarding-sync-welcome-content = Kapja meg a könyvjelzőit, előzményeit, jelszavait és egyéb beállításait az összes eszközén.
+onboarding-sync-welcome-learn-more-link = Ismerje meg a Firefox fiókokat
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Folytatás
+onboarding-sync-form-skip-login-button = Lépés kihagyása
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Adja meg az e-mail címét
+onboarding-sync-form-sub-header = és lépjen tovább a { -sync-brand-name }hez.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Végezze el a teendőit egy olyan eszközcsaláddal, amely tiszteletben tartja a magánszféráját az összes eszközén.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Minden, amit teszünk, betartja a személyes adatokra vonatkozó ígéretünket: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Vigye magával a könyvjelzőket, a jelszavakat, az előzményeket és még többet, bárhol is használja a { -brand-product-name }ot.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Kapjon értesítést, ha a személyes adatai egy ismert adatsértésben szerepelnek.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Kezelje a jelszavait, melyek védettek és hordozhatóak.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Nagyszerű, már van { -brand-short-name }a
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Most pedig szerezze be a(z) <img data-l10n-name="icon"/> <b>{ $addon-name } kiegészítőt.</b>
+return-to-amo-add-extension-label = Kiegészítő hozzáadása
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +128,6 @@ onboarding-multistage-theme-primary-button-label = Téma mentése
 onboarding-multistage-theme-secondary-button-label = Most nem
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatikus
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Rendszertéma használata
 onboarding-multistage-theme-label-light = Világos
 onboarding-multistage-theme-label-dark = Sötét
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Az operációs rendszer megjelenésének öröklése a
-        gomboknál, menüknél és ablakoknál.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Világos megjelenés használata a gombokhoz,
-        menükhöz és ablakokhoz.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Sötét megjelenés használata a gombokhoz,
-        menükhöz és ablakokhoz.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Színes megjelenés használata a gombokhoz,
-        menükhöz és ablakokhoz.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +178,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Színes megjelenés használata a gombokhoz,
         menükhöz és ablakokhoz.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Fedezzük fel mindazt, amit tehet.
-onboarding-fullpage-form-email =
-    .placeholder = Az e-mail címe…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Vigye magával a { -brand-product-name }ot
-onboarding-sync-welcome-content = Kapja meg a könyvjelzőit, előzményeit, jelszavait és egyéb beállításait az összes eszközén.
-onboarding-sync-welcome-learn-more-link = Ismerje meg a Firefox fiókokat
-onboarding-sync-form-input =
-    .placeholder = E-mail
-onboarding-sync-form-continue-button = Folytatás
-onboarding-sync-form-skip-login-button = Lépés kihagyása
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Adja meg az e-mail címét
-onboarding-sync-form-sub-header = és lépjen tovább a { -sync-brand-name }hez.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Végezze el a teendőit egy olyan eszközcsaláddal, amely tiszteletben tartja a magánszféráját az összes eszközén.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Minden, amit teszünk, betartja a személyes adatokra vonatkozó ígéretünket: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Vigye magával a könyvjelzőket, a jelszavakat, az előzményeket és még többet, bárhol is használja a { -brand-product-name }ot.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Kapjon értesítést, ha a személyes adatai egy ismert adatsértésben szerepelnek.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Kezelje a jelszavait, melyek védettek és hordozhatóak.
 
 ## These strings belong to the individual onboarding messages.
 
