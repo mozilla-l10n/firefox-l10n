@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/viewSource.xul -->
-
 <!-- extracted from content/viewSource.xhtml -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
@@ -14,6 +12,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Ruxe'el ruk'u'x rutzij ri: ">
 
+<!ENTITY editMenu.label "Tinuk'">
+<!ENTITY editMenu.accesskey "T">
 <!ENTITY fileMenu.label "Yakb'äl">
 <!ENTITY fileMenu.accesskey "Y">
 <!ENTITY savePageCmd.label "Tiyak Ruxaq Achi'el…">

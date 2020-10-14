@@ -241,7 +241,16 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "Richin">
 <!ENTITY fromAddr.accesskey "c">
+<!ENTITY toAddr2.label "Chi re">
+<!ENTITY ccAddr2.label "Cc">
+<!ENTITY bccAddr2.label "Bcc">
+<!ENTITY replyAddr2.label "Titzolïx Tzij Chi Re">
+<!ENTITY newsgroupsAddr2.label "Rumolaj tzijol">
+<!ENTITY followupAddr2.label "Titaq chik Chi Re">
+<!ENTITY subject2.label "Taqikil">
 <!ENTITY subject.accesskey "T">
 <!ENTITY attachmentBucketCloseButton.tooltip "Tewäx ri rupas taqoj">
 

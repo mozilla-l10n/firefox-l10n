@@ -163,6 +163,8 @@ yatikïr natojtob'ej chik pa jun ch'utiramaj.</li>
 <!ENTITY cspBlocked.title "Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
 
+<!ENTITY xfoBlocked.title "Xq'at ruma ri X-Frame-Options Na'ojil">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; xuq'ät rusamajixik re ruxaq re' pa re rub'eyal re'. ruma chi ri ruxaq rojqan ri X-Frame-Options na'ojil, ri man nuya' taq 'ij chi re.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sachoj Ruma Itzel Rupam">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq natojtob'ej natz'ët ruma xilitäj jun ruk'ayewal kiq'axik tzij.</p><ul><li>Katzijon kik'in ri rajaw ajk'amaya'l ruxaq richin naya' rutzijol ri k'ayewal chi ke.</li></ul>">

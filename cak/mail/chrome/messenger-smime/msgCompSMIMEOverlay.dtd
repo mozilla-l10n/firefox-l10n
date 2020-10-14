@@ -4,15 +4,26 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
+<!ENTITY menu_securityDoNotEncrypt.label "Man Tetamäx Rusik'ixik">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "a">
+
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Najowäch chi Tewäx Rusik'ixik">
 <!ENTITY menu_securityEncryptRequire.accesskey "T">
 
 <!ENTITY menu_securitySign.label "Kematz'ib'il Tijuch' Re Rutzijol Re'">
 <!ENTITY menu_securitySign.accesskey "R">
+
+
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Titz'et Retamab'al Jikomal">
 <!ENTITY menu_securityStatus.accesskey "J">

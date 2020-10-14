@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "t">
 <!ENTITY  newContactCmd.label "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
 <!ENTITY  newContactCmd.accesskey "A">
+<!ENTITY openMenuCmd.label "Tijaq">
+<!ENTITY openMenuCmd.accesskey "T">
 <!ENTITY openMessageFileCmd.label "Tijaq Tzijol Eyakon…">
 <!ENTITY openMessageFileCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Tiyak Achi'el">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Kekanöx Tzijol…">
 <!ENTITY searchMailCmd.accesskey "T">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Chijun Kanoxïk…">
+<!ENTITY glodaSearchCmd.accesskey "C">
 <!ENTITY searchAddressesCmd.label "Kekanöx Ochochib'äl…">
 <!ENTITY searchAddressesCmd.accesskey "K">
 
@@ -715,7 +719,7 @@
 <!ENTITY locationColumn.label "K'ojlib'äl">
 <!ENTITY idColumn.label "Kicholajem K'uluj">
 <!ENTITY attachmentColumn.label "Taq taqoj">
-
+<!ENTITY deleteColumn.label "Tiyuj">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Kecha' taq che'el richin nik'ut">
@@ -740,7 +744,7 @@
 <!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
 <!ENTITY idColumn2.tooltip "Ticholajïx chi k'ulun">
 <!ENTITY attachmentColumn2.tooltip "Tinuk' chi taqoj">
-
+<!ENTITY deleteColumn.tooltip "Tiyuj jun ruzijol">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "K'ak'a' Rutzijol pa Kaxawäch">
@@ -963,4 +967,5 @@
 <!ENTITY openAddressBookDock.label      "Tijaq Kiwujil Ochochib'äl">
 
 <!-- Content tab Navigation buttons -->
-
+<!ENTITY browseBackButton.tooltip    "Titzolïx jun ruxaq">
+<!ENTITY browseForwardButton.tooltip "Jun chik ruxaq">

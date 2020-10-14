@@ -25,6 +25,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.accesskey "a">
 
 
+<!ENTITY historyGroup.label                "Natab'äl">
+
 <!ENTITY itemHistory.label                 "Runatab'al Okem pa K'amaya'l">
 <!ENTITY itemHistory.accesskey             "O">
 <!ENTITY itemCookies.label                 "Taq kaxlanwey">

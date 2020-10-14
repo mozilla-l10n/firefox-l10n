@@ -5,8 +5,14 @@
 rights-title = Chi rij Ach'ojib'al
 rights-intro = { -brand-full-name } jun jamäl chuqa' jaqäl b'itz'ib' kema', ri nuk'un kuma ach'ala'il chijun ri ruwach'ulew. Ja re' ri jujun taq na'oj k'atzinel nawetamaj:
 rights-intro-point-1 = { -brand-short-name } wachel rik'in re taq rojqanem ri <a data-l10n-name="mozilla-public-license-link">Ruwinaqilal ya'öl q'ij Mozilla</a>. Rere' nrajo' nub'ij chi ütz nawokisaj, nawachib'ej chuqa' nataluj ri { -brand-short-name } chi ke ch'aqa' chik.  Chuqa' ütz najalwachij ri ruxe' nimatz'ib' ri { -brand-short-name } achike na rub'eyal rajowaxik chawe. Ri ya'öl ruq'ij winaqilal ri Mozilla chuqa' nuya' pan ach'ojib'al chi ye'ataluj ri taq ruwäch ye'ak'ëx.
+rights-intro-point-2 =
+    Man niya' ta ri taq ch'ojib'äl kichin ri taq rajawal o taq ya'öl q'ij ri e retal rub'i' eruq'alajisan 
+    ri Mozilla Moloj o xa b'a achike jun chik peraj, ri chuqa' k'o chupam ri rub'i' o ruwachib'al rub'i' ri
+    Thunderbird. Ch'aqa' chik etamab'äl chi kij ri taq retal b'i'aj tikirel nawïl pa
+    <a data-l10n-name="mozilla-trademarks-link">wawe'</a>.
 rights-intro-point-3 = Jujun taq rub'anikil pa { -brand-short-name }, achi'el ri rutzijol taq sachoj, xtuya' q'ij chawe chi natäq el etamab'äl pa { -vendor-short-name }. Toq nacha' natäq ri taq atzijol, naya' q'ij chi re' ri { -vendor-short-name } richin yerokisaj richin yerub'än rutzil ri taq ruk'ayij, yerutz'ajb'a' ri taq atzijol pa ri ruxaq ruk'amaya'l chuqa' yerutaluj ri taq atzijol.
 rights-intro-point-4 = Achike rub'eyal niqokisaj ri rutzijol awichin chuqa' taq atzijol k'o pa { -vendor-short-name } rik'in ri { -brand-short-name } xkecholajïx pa <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Richinan Na'oj</a>.
+rights-intro-point-4-unbranded = Xa b'a achike richinan na'oj okel pa re k'ayij re', rajowaxik niq'alajisäx wawe'.
 rights-intro-point-5 = Jujun taq rub'anikil ri { -brand-short-name } nikokisaj taq samaj pa ruwi' na'oj, ri k'o kixe'el richin k'amaya'l; xa xe chi man yojtikïr ta niqajikib'a' chi kan e 100% ütz chuqa' chi majun rusachoj. Nilitäj ch'aqa' chik taq rutzijol, achi'el taq etamab'äl pa ruwi' rub'eyal ye'achüp ri kib'anikil nikokisaj re taq samaj re', pa <a data-l10n-name="mozilla-service-terms-link">rojqanem samaj</a>.
 rights-intro-point-5-unbranded = We re jun k'ayij re' k'o taq rusamaj k'amaya'l chupam, xa b'a achike chi rojqanem samaj okel pa (taq) samaj k'o ta chi kiximon ki' pa <a data-l10n-name="mozilla-website-services-link">Taq rusamaj ri ruxaq k'amaya'l</a> peraj.
 rights-intro-point-6 = Richin ye'atzïj jujun taq ruwäch chi rupam silowachib'äl, { -brand-short-name } ke'aqasaj jujun peraj taq ch'akul richin chi e'etaman kipam aj rox winäq.
