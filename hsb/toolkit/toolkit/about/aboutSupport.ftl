@@ -356,3 +356,12 @@ touch-warning = asynchrone zapodaće přez podótknjenje je so njepodpěraneho n
 policies-inactive = Njeaktiwny
 policies-active = Aktiwny
 policies-error = Zmylk
+
+## Printing section
+
+support-printing-title = Ćišćenje
+support-printing-troubleshoot = Rozrisanje problemow
+support-printing-clear-settings-button = Składowane ćišćerske nastajenja zhašeć
+support-printing-modified-settings = Změnjene ćišćerske nastajenja
+support-printing-prefs-name = Mjeno
+support-printing-prefs-value = Hódnota
