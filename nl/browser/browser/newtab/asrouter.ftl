@@ -258,12 +258,14 @@ cfr-doorhanger-doh-secondary-button = Uitschakelen
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name } heeft een experimentele functie Fission (website-isolatie) voor u ingeschakeld. Door elke website in een apart proces te isoleren, biedt Fission een extra beveiligingslaag voor u en de door u bezochte websites.
+cfr-doorhanger-fission-body-approved = Uw privacy is belangrijk. { -brand-short-name } isoleert, of sandboxt, websites nu van elkaar, waardoor het voor hackers moeilijker wordt om wachtwoorden, creditcardnummers en andere gevoelige informatie te stelen.
 cfr-doorhanger-fission-header = Website-isolatie
 cfr-doorhanger-fission-primary-button = OK, begrepen
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Meer info
     .accesskey = M
+# Deprecated
+cfr-doorhanger-fission-body = { -brand-short-name } heeft een experimentele functie Fission (website-isolatie) voor u ingeschakeld. Door elke website in een apart proces te isoleren, biedt Fission een extra beveiligingslaag voor u en de door u bezochte websites.
 
 ## What's new: Cookies message
 
