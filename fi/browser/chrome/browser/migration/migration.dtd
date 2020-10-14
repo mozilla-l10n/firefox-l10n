@@ -12,7 +12,7 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromEdgeLegacy.label     "Microsoft Edge, vanhennettu versio">
+<!ENTITY importFromEdgeLegacy.label     "Vanha Microsoft Edge">
 <!ENTITY importFromEdgeLegacy.accesskey "v">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
