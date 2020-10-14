@@ -488,7 +488,7 @@ home-prefs-topsites-header =
     .label = 常用网站
 home-prefs-topsites-description = 您经常访问的网站
 home-prefs-topsites-by-option-sponsored =
-    .label = 赞助的常用网站
+    .label = 赞助商网站
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
