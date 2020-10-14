@@ -351,5 +351,7 @@ policies-error = Sachoj
 
 support-printing-title = Nitz'ajb'äx
 support-printing-troubleshoot = Kisolik taq k'ayewal
+support-printing-clear-settings-button = Tiyuj kinuk'ulem yakon taq tz'ajb'anïk
+support-printing-modified-settings = Kinuk'ulem jalon taq tz'ajb'anïk
 support-printing-prefs-name = B'i'aj
 support-printing-prefs-value = Retal

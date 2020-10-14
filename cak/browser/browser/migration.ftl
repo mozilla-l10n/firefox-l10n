@@ -54,6 +54,8 @@ import-source-page-title = Kek'am runuk'ulem chuqa' taq tzij
 import-items-page-title = Taq ruch'akulal xkek'am
 import-items-description = Ke'acha' achike taq ruch'akulal xekek'am:
 import-permissions-page-title = Tiya' q'ij chi re { -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS nrajo' chi nib'ïx chi ri { -brand-short-name } tok pa ruyaketal Safari. Tapitz'a' pa “Tisamajïx” chuqa' tacha' ri “Bookmarks.plist” yakb'äl pa ri rupas richin niqaj yakb'äl q'aläj.
 import-migrating-page-title = Nijik…
 import-migrating-description = Tajin nik'am re taq ruch'akulal re'…
 import-select-profile-page-title = Tichax rub'anikil

@@ -491,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Jeb'ël Taq Ruxaq
 home-prefs-topsites-description = Taq ruxaq yalan ye'atz'ët
+home-prefs-topsites-by-option-sponsored =
+    .label = Nïm taq Ruxaq Eto'on
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
