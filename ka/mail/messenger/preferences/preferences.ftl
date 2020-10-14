@@ -10,6 +10,8 @@ preferences-title =
             [windows] პარამეტრები
            *[other] პარამეტრები
         }
+category-list =
+    .aria-label = კატეგორიები
 pane-general-title = ძირითადი
 category-general =
     .tooltiptext = { pane-general-title }
