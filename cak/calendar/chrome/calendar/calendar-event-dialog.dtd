@@ -242,6 +242,9 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "Ruq'ij ik'">
 <!ENTITY event.recurrence.repeat.recur.label            "Tikamulüx pa taq q'ij">
 
+<!ENTITY event.recurrence.every.label                        "Jujun:" >
+<!ENTITY repeat.units.years.both                             "Taq juna'" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Jujun" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -250,13 +253,68 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "richin" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Nab'ey ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Ruka'n ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Rox ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Rukaj ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Ro' ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Ruwaq ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Ruwuq ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Ruwaqxaq ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Rub'elej ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Rulaj ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Rujulaj ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Rukab'laj ik'" >
+<!ENTITY event.recurrence.yearly.every.label                 "Jujun">
+<!ENTITY event.recurrence.yearly.first.label                 "Ri Nab'ey">
+<!ENTITY event.recurrence.yearly.second.label                "Ri Ruka'n">
+<!ENTITY event.recurrence.yearly.third.label                 "Ri Rox">
+<!ENTITY event.recurrence.yearly.fourth.label                "Ri Rukaj">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Ri Ro'">
+<!ENTITY event.recurrence.yearly.last.label                  "Ri K'isb'äl">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Toq'ij" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Luq'ij" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Maq'ij" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Miq'ij" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Juq'ij" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Wiq'ij" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Saq'ij" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "q'ij" >
+<!ENTITY event.recurrence.of.label                           "richin" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Nab'ey ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Ruka'n ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Rox ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Rukaj ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Ro' ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Ruwaq ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Ruwuq ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Ruwaqxaq ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Rub'elej ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Rulaj ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Rujulaj ik'" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Rukab'laj ik'" >
 
+<!ENTITY event.recurrence.repeat.for.label              "Titz'uk" >
+<!ENTITY event.recurrence.preview.label                 "Nab'ey tzub'al">
 
 <!-- Attendees dialog -->
+<!ENTITY event.organizer.label                  "Ticholajïx">
+<!ENTITY event.freebusy.zoom                    "Sum:">
+<!ENTITY event.freebusy.legend.free             "Sipan" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Tirayij" >
+<!ENTITY event.attendee.usertype.individual     "Yonil">
+<!ENTITY event.attendee.usertype.group          "Molaj">
+<!ENTITY event.attendee.usertype.resource       "Tob'äl">
+<!ENTITY event.attendee.usertype.room           "Samajay">
+<!ENTITY event.attendee.usertype.unknown        "Man etaman ta ruwäch">
 
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "Chijun">
+<!ENTITY read.only.title.label           "B'i'aj:">
+<!ENTITY read.only.calendar.label        "Cholb'äl q'ij:">
 
 <!-- Summary dialog -->
