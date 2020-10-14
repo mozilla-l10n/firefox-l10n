@@ -256,6 +256,17 @@ cfr-doorhanger-doh-primary-button = კარგი, გასაგებია
 cfr-doorhanger-doh-secondary-button = გამორთვა
     .accesskey = გ
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body-approved = თქვენი პირადულობა გადამწყვეტია. { -brand-short-name } ახლა უკვე მიჯნავს, განაცალკევებს ვებსაიტებს ერთმანეთისგან, რაც ჰაკერებს ურთულებს პაროლების, საკრედიტო ბარათის ნომრებისა და სხვა მნიშვნელოვანი ინფორმაციის მოპარვის საშუალებას.
+cfr-doorhanger-fission-header = საიტის გამოჯვნა
+cfr-doorhanger-fission-primary-button = კარგი, გასაგებია
+    .accesskey = კ
+cfr-doorhanger-fission-secondary-button = ვრცლად
+    .accesskey = ც
+# Deprecated
+cfr-doorhanger-fission-body = { -brand-short-name } უკვე აღჭურვილია ახალი საცდელი შესაძლებლობით Fission (საიტის გამიჯვნა). თითოეული საიტი განცალკევებით ეშვება საკუთარ პროცესებად, Fission უზრუნველყოფს უსაფრთხოების დამატებით ფენას თქვენთვის და თქვენ მიერ მონახულებული ვებსაიტებისთვის.
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = თავისთავადი დაცვა თვალთვალის გაიძვერული საშუალებებისგან

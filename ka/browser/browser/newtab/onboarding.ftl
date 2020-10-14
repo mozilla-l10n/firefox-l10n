@@ -17,6 +17,14 @@ onboarding-button-label-get-started = დაწყება
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
 onboarding-welcome-body = ბრაუზერი უკვე თქვენია.<br/>გაიცანით უკეთ { -brand-product-name }.
 onboarding-welcome-learn-more = იხილეთ, უპირატესობების შესახებ.
@@ -39,6 +47,54 @@ onboarding-start-browsing-button-label = დაიწყეთ მოგზა�
 onboarding-cards-dismiss =
     .title = დამალვა
     .aria-label = დამალვა
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = იხილეთ ყველაფერი, რისი გაკეთება შეგიძლიათ.
+onboarding-fullpage-form-email =
+    .placeholder = თქვენი ელფოსტის მისამართი…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = თან წაიყოლეთ { -brand-product-name }
+onboarding-sync-welcome-content = მიიღეთ წვდომა თქვენს სანიშნებთან, ისტორიასთან, პაროლებსა და სხვა პარამეტრებთან, ყველა თქვენს მოწყობილობაზე.
+onboarding-sync-welcome-learn-more-link = იხილეთ ვრცლად, Firefox-ანგარიშების შესახებ
+onboarding-sync-form-input =
+    .placeholder = ელფოსტა
+onboarding-sync-form-continue-button = გაგრძელება
+onboarding-sync-form-skip-login-button = გამოტოვება
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = შეიყვანეთ თქვენი ელფოსტა
+onboarding-sync-form-sub-header = { -sync-brand-name }-ზე გადასასვლელად
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = იმუშავეთ შედეგიანად ხელსაწყოების ნაკრებით, რომელიც პატივს სცემს თქვენი პირადი მონაცემების ხელშეუხებლობას, ყველა თქვენს მოწყობილობაზე.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = ყველაფერი რასაც ვსაქმიანობთ, ექვემდებარება პირადი მონაცემების დაცვის ჩვენს პირობას: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არანაირი საიდუმლოება.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = წაიყოლეთ თქვენი სანიშნები, პაროლები ისტორია და ა. შ. ყველგან, სადაც გიყენიათ { -brand-product-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = შეიტყვეთ, თუ თქვენი ინფორმაცია ცნობილ მიტაცებულ მონაცემებში აღმოჩნდება.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = მართეთ და გადაიტანეთ პაროლები უსაფრთხოდ.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = მშვენიერია, თქვენ უკვე გაქვთ { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ახლა, მოდით დავამატოთ <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = გაფართოების დამატება
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +128,6 @@ onboarding-multistage-theme-primary-button-label = თემის შენა�
 onboarding-multistage-theme-secondary-button-label = ახლა არა
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = ავტომატური
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = სისტემის იერსახის გამოყენება
 onboarding-multistage-theme-label-light = ნათელი
 onboarding-multistage-theme-label-dark = მუქი
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        საოპერაციო სისტემის გაფორმების გადმოტანა
-        ღილაკებზე, მენიუებსა და ფანჯრებზე.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        ნათელი გაფორმების გამოყენება ღილაკებზე,
-        მენიუებსა და ფანჯრებზე.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        მუქი გაფორმების გამოყენება ღილაკებზე,
-        მენიუებსა და ფანჯრებზე.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        ფერადი გაფორმების გამოყენება ღილაკებზე,
-        მენიუებსა და ფანჯრებზე.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +178,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         ფერადი გაფორმების გამოყენება ღილაკებზე,
         მენიუებსა და ფანჯრებზე.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = იხილეთ ყველაფერი, რისი გაკეთება შეგიძლიათ.
-onboarding-fullpage-form-email =
-    .placeholder = თქვენი ელფოსტის მისამართი…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = თან წაიყოლეთ { -brand-product-name }
-onboarding-sync-welcome-content = მიიღეთ წვდომა თქვენს სანიშნებთან, ისტორიასთან, პაროლებსა და სხვა პარამეტრებთან, ყველა თქვენს მოწყობილობაზე.
-onboarding-sync-welcome-learn-more-link = იხილეთ ვრცლად, Firefox-ანგარიშების შესახებ
-onboarding-sync-form-input =
-    .placeholder = ელფოსტა
-onboarding-sync-form-continue-button = გაგრძელება
-onboarding-sync-form-skip-login-button = გამოტოვება
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = შეიყვანეთ თქვენი ელფოსტა
-onboarding-sync-form-sub-header = { -sync-brand-name }-ზე გადასასვლელად
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = იმუშავეთ შედეგიანად ხელსაწყოების ნაკრებით, რომელიც პატივს სცემს თქვენი პირადი მონაცემების ხელშეუხებლობას, ყველა თქვენს მოწყობილობაზე.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = ყველაფერი რასაც ვსაქმიანობთ, ექვემდებარება პირადი მონაცემების დაცვის ჩვენს პირობას: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არანაირი საიდუმლოება.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = წაიყოლეთ თქვენი სანიშნები, პაროლები ისტორია და ა. შ. ყველგან, სადაც გიყენიათ { -brand-product-name }
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = შეიტყვეთ, თუ თქვენი ინფორმაცია ცნობილ მიტაცებულ მონაცემებში აღმოჩნდება.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = მართეთ და გადაიტანეთ პაროლები უსაფრთხოდ.
 
 ## These strings belong to the individual onboarding messages.
 
