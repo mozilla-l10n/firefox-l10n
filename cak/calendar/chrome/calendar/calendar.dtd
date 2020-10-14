@@ -281,9 +281,14 @@
 <!ENTITY calendar.print.to.label "Chi re:">
 <!ENTITY calendar.print.settingsGroup.label "Ketz'ajb'äx taq Runuk'ulem">
 <!ENTITY calendar.print.optionsGroup.label "Taq cha'oj">
+<!ENTITY calendar.print.completedtasks.label "Xetz'aqatisäx taq samaj">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Kib'anikil…">
+<!ENTITY calendar.error.code "Rusachoj b'itz'ib':">
 <!ENTITY calendar.error.description "Tzijoxkil:">
+<!ENTITY calendar.error.title "Xk'ulwachitäj jun sachoj">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Titz'aqatisäx achi'el nimaq'ij">
+<!ENTITY calendar.extract.task.button          "Titz'aqatisäx achi'el samaj">

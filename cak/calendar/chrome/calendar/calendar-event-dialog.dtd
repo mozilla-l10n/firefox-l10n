@@ -14,9 +14,16 @@
 <!ENTITY newevent.todoStatus.none.label           "Man jikib'an ta" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Q'aton" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Q'aton" >
+<!ENTITY newevent.status.tentative.label          "Tirayij" >
+<!ENTITY newevent.status.tentative.accesskey      "T" >
 <!ENTITY newevent.status.confirmed.label          "Xjikib'äx" >
+<!ENTITY newevent.status.confirmed.accesskey      "C" >
+<!ENTITY newevent.status.needsaction.label        "Nawajo' chi Nb'anatäj" >
+<!ENTITY newevent.status.inprogress.label         "Nitajin" >
+<!ENTITY newevent.status.completed.label          "Xtz'aqatisäx pa" >
 
 <!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "&#37; tz'aqät">
 
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
@@ -44,7 +51,10 @@
 <!ENTITY  event.menu.item.new.accesskey                   "K">
 <!ENTITY  event.menu.item.new.event.label                 "Nimaq'ij">
 <!ENTITY  event.menu.item.new.event.accesskey             "N">
+<!ENTITY  event.menu.item.new.task.label                  "Samaj">
+<!ENTITY  event.menu.item.new.task.accesskey              "S">
 <!ENTITY  event.menu.item.new.message.label               "Tzijol">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
 <!ENTITY  event.menu.item.new.contact.label               "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl">
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Titz'apïx">
@@ -119,6 +129,10 @@
 <!ENTITY  event.toolbar.save.tooltip2                     "Tiyak">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Tiyak chuqa' Titz'apïx">
 <!ENTITY  event.toolbar.delete.tooltip                    "Tiyuj">
+<!ENTITY  event.toolbar.attachments.tooltip               "Titz'aqatisäx Taqoj">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Tijal Ichinanem">
+<!ENTITY  event.toolbar.priority.tooltip                  "Tijal Ajowanïk">
+<!ENTITY  event.toolbar.status.tooltip                    "Tijal B'anikil">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -132,12 +146,19 @@
 <!ENTITY event.title.textbox.label                        "B'i'aj:" >
 <!ENTITY event.location.label                             "Ochochib'al:" >
 <!ENTITY event.categories.label                           "Ruwäch:">
+<!ENTITY event.categories.textbox.label                   "Titz'aqatisäx jun k'ak'a' ruwäch" >
 <!ENTITY event.calendar.label                             "Cholb'äl q'ij:" >
 <!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.alldayevent.label                          "Nimaq'ij Ronojel q'ij" >
+<!ENTITY event.alldayevent.accesskey                      "q">
 <!ENTITY event.from.label                                 "Tikirib'äl:" >
+<!ENTITY event.from.accesskey                             "s">
 <!ENTITY task.from.label                                  "Tikirib'äl:" >
+<!ENTITY task.from.accesskey                              "s">
 <!ENTITY event.to.label                                   "K'isib'äl:" >
+<!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.status.label                                "B'anikil:" >
+<!ENTITY event.repeat.label                               "Tikamulüx:" >
 <!ENTITY event.description.label                          "Tzijoxkil:" >
 <!ENTITY event.attachments.label                          "Taq taqoj:" >
 <!ENTITY event.attachments.url.label                      "Ajk'amaya'l Ruxaq…">
