@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Prědne kšace
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Witajśo k { -brand-short-name }
 onboarding-welcome-body = Maśo wobglědowak.<br/>Póznajśo zbytk { -brand-product-name }.
 onboarding-welcome-learn-more = Dalšne informacije wó lěpšynach.
@@ -39,6 +47,54 @@ onboarding-start-browsing-button-label = Pśeglědowanje startowaś
 onboarding-cards-dismiss =
     .title = Zachyśiś
     .aria-label = Zachyśiś
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Zachopmy wšykno wuslěźiś, což móžośo cyniś.
+onboarding-fullpage-form-email =
+    .placeholder = Waša e-mailowa adresa…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Wzejśo { -brand-product-name } sobu
+onboarding-sync-welcome-content = Wzejśo swóje cytańske znamjenja, historiju, gronidła a druge nastajenja na wšych wašych rědach sobu.
+onboarding-sync-welcome-learn-more-link = Zgóńśo wěcej wó Firefox Accounts
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Dalej
+onboarding-sync-form-skip-login-button = Toś ten kšac pśeskócyś
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Zapódajśo swóju e-mailowu adresu
+onboarding-sync-form-sub-header = aby z { -sync-brand-name } pókšacował.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Gótujśo wěcy z rědami, kótarež wašu priwatnosć na wšych rědach respektěruju.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Wšykno, což cynimy, naše zlubjenje za wósobinske daty dopołnjujo: Mjenjej zběraś. Wěsće składowaś. Žedne pótajmstwa.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Wzejśo swóje cytańske znamjenja, gronidła, historiju a wěcej wšuźi, źož { -brand-product-name } wužywaśo.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Dostańśo powěźeńki, gaž waše wósobinske informacije su w znatej datowej źěrje.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Zastojśo gronidła, kótarež su šćitane a portabelne.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Wjelicnje, maśo { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Wobstarajśo se něnto <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Rozšyrjenje pśidaś
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -76,8 +132,6 @@ onboarding-multistage-theme-primary-button-label = Drastwu składowaś
 onboarding-multistage-theme-secondary-button-label = Nic něnto
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awtomatiski
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Systemowu drastwu wužywaś
 onboarding-multistage-theme-label-light = Swětły
 onboarding-multistage-theme-label-dark = Śamny
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -88,30 +142,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Naglěd z wašogo źěłowego
-        systema za tłocaški, menije a wokna zderbnuś.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Swětły naglěd za tłocaški,
-        menije a wokna.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Śamny naglěd za tłocaški,
-        menije a wokna.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Barwny naglěd za tłocaški,
-        menije a wokna.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -152,44 +182,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Barwny naglěd za tłocaški,
         menije a wokna.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Zachopmy wšykno wuslěźiś, což móžośo cyniś.
-onboarding-fullpage-form-email =
-    .placeholder = Waša e-mailowa adresa…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Wzejśo { -brand-product-name } sobu
-onboarding-sync-welcome-content = Wzejśo swóje cytańske znamjenja, historiju, gronidła a druge nastajenja na wšych wašych rědach sobu.
-onboarding-sync-welcome-learn-more-link = Zgóńśo wěcej wó Firefox Accounts
-onboarding-sync-form-input =
-    .placeholder = E-mail
-onboarding-sync-form-continue-button = Dalej
-onboarding-sync-form-skip-login-button = Toś ten kšac pśeskócyś
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Zapódajśo swóju e-mailowu adresu
-onboarding-sync-form-sub-header = aby z { -sync-brand-name } pókšacował.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Gótujśo wěcy z rědami, kótarež wašu priwatnosć na wšych rědach respektěruju.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Wšykno, což cynimy, naše zlubjenje za wósobinske daty dopołnjujo: Mjenjej zběraś. Wěsće składowaś. Žedne pótajmstwa.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Wzejśo swóje cytańske znamjenja, gronidła, historiju a wěcej wšuźi, źož { -brand-product-name } wužywaśo.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Dostańśo powěźeńki, gaž waše wósobinske informacije su w znatej datowej źěrje.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Zastojśo gronidła, kótarež su šćitane a portabelne.
 
 ## These strings belong to the individual onboarding messages.
 
