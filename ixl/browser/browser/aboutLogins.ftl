@@ -128,13 +128,19 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub'
 
 ## Master Password notification
 
-master-password-notification-message = B'an b'a'nil, aq'ku' u eexhlale' uve' axh kuxh ootzin tetz aq'al uva' la eele' kat xe'tisaml kat aq'on x-a'n as unq'a exhlale' uve' kolel kan s-a'n unpajte
+master-password-notification-message = B'an b'a'nil, aq'ku' u eexhlale' uve' axh kuxh ootzin tetz aq'al uva' la eele' kat xe'tisamal kat aq'on s-a'n as unq'a exhlale' uve' kolel kan s-a'n unpajte
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Aq'al uva' la eeq'otzan unq'a xe'teb'al aq'one', aq'o'k u texhlale' ti' ixe't aq'on tu Windows. A' u vaa' la lochoni ti' tilpu isuuchil unq'a tatinb'al aq'one'.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = Eq'otzan unq'a aq'onvile' as unq'a kach'ub' tetze' kolel kan
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = B'an b'anil, aq'o'k u kach'ub' tetze' aq'al uva' la eel unq'a b'iie'  tetz unq'a aq'onvile' as unq'a kach'ub' tetze' uve' kolel kan
 master-password-reload-button =
-    .label = Oken
-    .accesskey = O
+    .label = xe'te'n aq'onvoj
+    .accesskey = x
 
 ## Password Sync notification
 
@@ -162,6 +168,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' tzitza'?
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 about-logins-confirm-remove-dialog-confirm-button = Sojsa
+about-logins-confirm-export-dialog-title = Eq'otzan unq'a xe'teb'al aq'one' as tuk' unq'a kach'ub' tetze'
 confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
 confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
 confirm-discard-changes-dialog-confirm-button = Eesa kan
