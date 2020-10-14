@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = მონაცემთა გადმოტანა
-
 import-from =
     { PLATFORM() ->
         [windows] გადმოიტანეთ პარამეტრები, სანიშნები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:
        *[other] გადმოიტანეთ პარამეტრები, სანიშნები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:
     }
-
 import-from-bookmarks = სანიშნების გადმოტანა:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -51,34 +49,25 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = სანიშნების, ისტორიის ან პაროლის მონაცემთა შემცველი პროგრამები ვერ მოიძებნა.
-
 import-source-page-title = პარამეტრებისა და მონაცემთა გადმოტანა
 import-items-page-title = გადმოსატანი მონაცემები
-
 import-items-description = მიუთითეთ გადმოსატანი მონაცემები:
-
+import-permissions-page-title = { -brand-short-name } გთხოვთ ნებართვებს
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS საჭიროებს, რომ { -brand-short-name } თქვენი საგანგებო დაშვებით დაუკავშირდეს Safari-ის სანიშნებს. დაწკაპეთ „გაგრძელება” და აირჩიეთ „Bookmarks.plist“ ფაილი, ასარჩევი არედან.
 import-migrating-page-title = გადმოტანა…
-
 import-migrating-description = გადმოვა შემდეგი მონაცემები…
-
 import-select-profile-page-title = პროფილის არჩევა
-
 import-select-profile-description = შემდეგი პროფილები ხელმისაწვდომია გადმოსატანად ბრაუზერიდან:
-
 import-done-page-title = გადმოტანა დასრულდა
-
 import-done-description = გადმოტანილია შემდეგი მონაცემები:
-
 import-close-source-browser = სანამ განაგრძობთ დარწმუნდით, რომ არჩეული ბრაუზერი დახურულია.
-
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source }-დან
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -90,22 +79,8 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
-
 imported-safari-reading-list = წასაკითხი სია (Safari-დან)
 imported-edge-reading-list = წასაკითხი სია (Edge-დან)
-
-## Browser data types
-## All of these strings get a $browser variable passed in.
-## You can use the browser variable to differentiate the name of items,
-## which may have different labels in different browsers.
-## The supported values for the $browser variable are:
-## 360se
-## chrome
-## edge
-## firefox
-## safari
-## The various beta and development versions of edge and chrome all get
-## normalized to just "edge" and "chrome" for these strings.
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -125,7 +100,6 @@ browser-data-cookies-checkbox =
     .label = ფუნთუშები
 browser-data-cookies-label =
     .value = ფუნთუშები
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -138,12 +112,10 @@ browser-data-history-label =
             [firefox] გვერდების ისტორია და სანიშნები
            *[other] გვერდების ისტორია
         }
-
 browser-data-formdata-checkbox =
     .label = შევსებული ველების ისტორია
 browser-data-formdata-label =
     .value = შევსებული ველების ისტორია
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -152,7 +124,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = შენახული ანგარიშები და პაროლები
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -167,12 +138,10 @@ browser-data-bookmarks-label =
             [edge] რჩეულები
            *[other] სანიშნები
         }
-
 browser-data-otherdata-checkbox =
     .label = სხვა მონაცემები
 browser-data-otherdata-label =
     .label = სხვა მონაცემები
-
 browser-data-session-checkbox =
     .label = ფანჯრები და ჩანართები
 browser-data-session-label =

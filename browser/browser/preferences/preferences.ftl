@@ -29,6 +29,8 @@ search-input-box =
            *[other] პარამეტრებში ძიება
         }
 managed-notice = თქვენი ბრაუზერი იმართება დაწესებულების მიერ.
+category-list =
+    .aria-label = კატეგორიები
 pane-general-title = მთავარი
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = რჩეული საიტები
 home-prefs-topsites-description = ხშირად მონახულებული საიტები
+home-prefs-topsites-by-option-sponsored =
+    .label = დაფინანსებული რჩეული საიტები
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
