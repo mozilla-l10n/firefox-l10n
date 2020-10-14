@@ -54,3 +54,4 @@ inactive-text-overflow-when-no-overflow-fix = Паспрабуйце дадац�
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> не падтрымліваецца ў наступных браўзерах:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> з’яўляецца эксперыментальнай уласцівасцю.
