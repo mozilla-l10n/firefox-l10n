@@ -224,7 +224,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Tokrat išči z iskalnikom:
 # This string won't wrap, so if the translated string is longer,
@@ -289,6 +289,15 @@ identity-passive-loaded = Deli strani niso varni (npr. slike).
 identity-active-loaded = Zaščita na tej strani je onemogočena.
 identity-weak-encryption = Stran uporablja šibko šifriranje.
 identity-insecure-login-forms = Prijave, ki jih vnesete na tej strani, so lahko ogrožene.
+identity-https-only-connection-upgraded = (nadgrajeno na HTTPS)
+identity-https-only-label = Način "samo HTTPS"
+identity-https-only-dropdown-on =
+    .label = Vključeno
+identity-https-only-dropdown-off =
+    .label = Izključeno
+identity-https-only-dropdown-off-temporarily =
+    .label = Začasno izključeno
+identity-https-only-info-turn-on = Vključite, če želite, da se { -brand-short-name } poveže na varno povezavo, ko je na voljo.
 identity-permissions =
     .value = Dovoljenja
 identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali ponovno naložiti stran.
@@ -444,6 +453,8 @@ urlbar-result-action-visit = Obišči
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Iskanje po zaznamkih
+urlbar-result-action-search-history = Iskanje po zgodovini
 
 ## Full Screen and Pointer Lock UI
 

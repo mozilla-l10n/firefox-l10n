@@ -29,6 +29,8 @@ search-input-box =
            *[other] Najdi v nastavitvah
         }
 managed-notice = Vaš brskalnik upravlja vaša organizacija.
+category-list =
+    .aria-label = Kategorije
 pane-general-title = Splošno
 category-general =
     .tooltiptext = { pane-general-title }
@@ -568,6 +570,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Spremeni nastavitve drugih predlogov naslovne vrstice
 search-suggestions-cant-show = Predlogi iskanja v vrstici z naslovom ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 search-one-click-header = Iskalniki, dostopni z enim klikom
+search-one-click-header2 = Bližnjice za iskanje
 search-one-click-desc = Izberite nadomestne iskalnike, ki se pojavijo pod naslovno in iskalno vrstico, ko začnete vnašati ključno besedo.
 search-choose-engine-column =
     .label = Iskalnik
