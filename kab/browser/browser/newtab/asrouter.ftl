@@ -252,6 +252,7 @@ cfr-doorhanger-doh-secondary-button = Sens
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Tudert-ik·im tabaḍnit tesɛa azal. { -brand-short-name } tura yettaɛzal ismal web wa ɣef wa tett tastant gar-asen, ayen yeswaɛrayen i yimakaren ad ad akren awalen uffiren, uṭṭunen n tkarḍiwin n usmad d telɣut-nniḍen tamḥulfut.
 cfr-doorhanger-fission-header = Aɛzal n usmel
 cfr-doorhanger-fission-primary-button = IH, awi-t
     .accesskey = O
