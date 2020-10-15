@@ -167,10 +167,10 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Bedieningsknoppen tonen
+    .label = Bedieningselementen tonen
     .accesskey = B
 main-context-menu-media-hide-controls =
-    .label = Bedieningsknoppen verbergen
+    .label = Bedieningselementen verbergen
     .accesskey = B
 
 ##
