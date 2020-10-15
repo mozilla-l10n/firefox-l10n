@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } yeniləməsi endirilir
 appmenuitem-customize-mode =
     .label = Fərdiləşdir…
 

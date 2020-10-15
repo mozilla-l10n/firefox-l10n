@@ -16,32 +16,30 @@ onboarding-button-label-get-started = Başla
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
-
 onboarding-start-browsing-button-label = Səyahətə Başla
-
 onboarding-cards-dismiss =
     .title = Rədd et
     .aria-label = Rədd et
 
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
 ## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }-u özünüzlə gəzdirin
 onboarding-sync-welcome-content = Əlfəcin, tarixçə, parol və digər tənzimləmələrinizi bütün cihazlarınızda əldə edin.
 onboarding-sync-welcome-learn-more-link = Firefox Hesabları haqqında ətraflı öyrənin
-
 onboarding-sync-form-input =
     .placeholder = E-poçt
-
 onboarding-sync-form-continue-button = Davam et
 onboarding-sync-form-skip-login-button = Bu addımı keç
 
@@ -50,9 +48,20 @@ onboarding-sync-form-skip-login-button = Bu addımı keç
 onboarding-sync-form-header = E-poçtunuzu daxil edin
 onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
 
-
 ## These are individual benefit messages shown with an image, title and
 ## description.
+
+
+## Custom Return To AMO onboarding strings
+
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 
 ## These strings belong to the individual onboarding messages.
@@ -62,11 +71,13 @@ onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mobil Səyyahı Endir
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Super, { -brand-short-name } quruldu
-
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
