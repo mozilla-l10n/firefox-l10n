@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = De globale <a data-l10n-
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = De toevoeging van een constructor aan de <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-interface en een aantal gerelateerde wijzigingen, maakt het mogelijk om direct nieuwe stylesheets te maken zonder het blad toe te voegen aan de HTML. Dit maakt het veel gemakkelijker om herbruikbare stylesheets te maken voor gebruik met <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Zie <a data-l10n-name="bugzilla">bug 1520690</a> voor meer details.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = De volledige { -brand-short-name }-implementatie van de Media Session API is momenteel experimenteel. Deze API wordt gebruikt om de verwerking van mediagerelateerde meldingen aan te passen, om evenementen en gegevens te beheren die nuttig zijn voor het presenteren van een gebruikersinterface voor het beheren van het afspelen van media en om metadata van mediabestanden te verkrijgen. Zie <a data-l10n-name="bugzilla">bug 1112032</a> voor meer details.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
 experimental-features-devtools-color-scheme-simulation-description = Voegt een optie toe om verschillende kleurenschema's te simuleren, zodat u <a data-l10n-name="mdn-preferscolorscheme">@prefers-colour-scheme</a>-mediaquery's kunt testen. Met behulp van deze mediaquery, kan uw stylesheet reageren op de vraag of de gebruiker de voorkeur geeft aan een lichte of donkere gebruikersinterface. Met deze functie kunt u uw code testen zonder dat u de instellingen in uw browser (of besturingssysteem, als de browser een systeembrede kleurenschema volgt) hoeft te wijzigen. Zie <a data-l10n-name="bugzilla1">bug 1550804</a> en <a data-l10n-name="bugzilla2">bug 1137699</a> voor meer details.
@@ -94,7 +89,7 @@ experimental-features-graphics-desktop-zooming-description = Schakel ondersteuni
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute-schakelaars
-experimental-features-webrtc-global-mute-toggles-description = Voegt bedieningen toe aan de algemene deelindicator van WebRTC, waarmee gebruikers hun microfoon- en camerafeeds algemeen kunnen dempen.
+experimental-features-webrtc-global-mute-toggles-description = Voegt bedieningselementen toe aan de algemene deelindicator van WebRTC, waarmee gebruikers hun microfoon- en camerafeeds algemeen kunnen dempen.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
