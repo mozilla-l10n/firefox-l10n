@@ -346,3 +346,11 @@ touch-warning = entrada tactila asincròna desactivada en rason d'una preferénc
 policies-inactive = Inactivas
 policies-active = Activas
 policies-error = Error
+
+## Printing section
+
+support-printing-title = Impression
+support-printing-troubleshoot = Resolucion de problèmas
+support-printing-clear-settings-button = Escafar los paramètres d’impression enregistrats
+support-printing-prefs-name = Nom
+support-printing-prefs-value = Valor
