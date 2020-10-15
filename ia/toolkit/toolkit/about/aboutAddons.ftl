@@ -374,7 +374,7 @@ addon-badge-line =
     .title = Iste extension ha essite create per le autores de { -brand-product-name }
     .aria-label = { addon-badge-line.title }
 addon-badge-verified =
-    .title = Iste extension ha subite le revision del codification pro securitate
+    .title = Le codice de iste extension ha essite revidite pro securitate
     .aria-label = { addon-badge-verified.title }
 
 ##
