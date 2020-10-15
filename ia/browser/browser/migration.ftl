@@ -53,9 +53,9 @@ no-migration-sources = Nulle programmas que contine marcapaginas, chronologia o 
 import-source-page-title = Importar parametros e datos
 import-items-page-title = Elementos a importar
 import-items-description = Selige le datos a importar:
-import-permissions-page-title = Garanti permissos de { -brand-short-name }
+import-permissions-page-title = Per favor da permissiones a { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS te require de consentir explicitemente a { -brand-short-name } acceder al marcapaginas de Safari. Clicca “Continuar” e elige le file “Bookmarks.plist” in le quadro File aperte que appare.
+import-permissions-description = macOS require que tu permitte explicitemente a { -brand-short-name } de acceder al marcapaginas de Safari. Clicca sur “Continuar” e selige le file “Bookmarks.plist” in le quadro de aperir files que appare.
 import-migrating-page-title = Importante…
 import-migrating-description = Le importation del elementos sequente es in curso…
 import-select-profile-page-title = Seliger un profilo

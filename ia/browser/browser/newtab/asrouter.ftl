@@ -251,8 +251,8 @@ cfr-doorhanger-doh-secondary-button = Disactivar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Tu confidentialitate es importante. { -brand-short-name } ora isola, o claude in un cassa de arena, un sito web ab cata altere, isto rende plus ardue pro le piratas informatic robar contrasignos, carta de credito numeros e altere datos sensibile.
-cfr-doorhanger-fission-header = Isolamento sito
+cfr-doorhanger-fission-body-approved = Tu vita private es importante. { -brand-short-name } ora isola sitos le unes del alteres per medio de un mechanismo "sandbox" (cassa a sablo). Isto rende plus difficile pro le piratas informatic robar contrasignos, numeros de carta de credito e altere datos sensibile.
+cfr-doorhanger-fission-header = Isolamento de sitos
 cfr-doorhanger-fission-primary-button = De accordo
     .accesskey = a
 cfr-doorhanger-fission-secondary-button = Saper plus
