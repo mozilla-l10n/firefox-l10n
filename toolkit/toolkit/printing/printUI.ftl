@@ -40,7 +40,6 @@ printui-less-settings = Manj nastavitev
 printui-paper-size-label = Velikost papirja
 # Section title (noun) for the print scaling options
 printui-scale = Merilo
-printui-scale-fit-to-page = Prilagodi strani
 printui-scale-fit-to-page-width = Prilagodi širini strani
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Merilo
@@ -55,6 +54,11 @@ printui-margins = Robovi
 printui-margins-default = Privzeto
 printui-margins-min = Najmanj
 printui-margins-none = Brez
+printui-margins-custom = Po meri
+printui-margins-custom-top = Zgoraj
+printui-margins-custom-bottom = Spodaj
+printui-margins-custom-left = Levo
+printui-margins-custom-right = Desno
 printui-system-dialog-link = Natisni s pomočjo pogovornega okna sistema …
 printui-primary-button = Natisni
 printui-primary-button-save = Shrani
@@ -84,6 +88,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Merilo mora biti število med 10 in 200.
+printui-error-invalid-margin = Vnesite veljaven rob za izbrano velikost papirja.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Obseg mora biti število med 1 in { $numPages }.
