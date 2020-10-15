@@ -167,7 +167,7 @@ cfr-doorhanger-sync-logins-ok-button = Activa { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Lege isto in viage
 cfr-doorhanger-send-tab-recipe-header = Porta iste recepta al cocina
-cfr-doorhanger-send-tab-body = Inviar Scheda te permitte compartir facilemente iste ligamine a tu telephono o altere apparatos connectite a tu conto de { -brand-product-name }.
+cfr-doorhanger-send-tab-body = "Inviar scheda" te permitte transferer facilemente iste ligamine a tu telephono o altere apparatos connectite a tu conto de { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Proba Inviar Scheda
     .accesskey = P
 
