@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Tadyant s umata <a data-
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Timerna n umeṣkaw ɣer ugrudem <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> d tegrumma n yisenfal yemgaraden yemcudden, yezmer ad ttwarnunt srid tferkiyin timaynutin n uɣanib s war timerna n tferkit HTML. Aya ad yessishel timerna n tferkiyin n uɣanib ara yettwallsen deg useqdec i useqdec d <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Wali <a data-l10n-name="bugzilla">abug1520690</a> i wugar n telqayt.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Asebded ummid n { -brand-short-name } n API Media Session d tarmitant akka tura. API-a tettuseqdec i usagen n usesfer n yilɣa i icudden ɣer yimidyaten, i usefrek n tedyanin d yisefka yesɛan azal i usenked n ugrudem n useqdac i usefrek n tɣuri n umidyat d wawway n yiɣefisefka n ufalu n umidyat. Wali <a data-l10n-name="bugzilla">abug1112032</a> i wugar n telqayt.
 experimental-features-devtools-color-scheme-simulation =
     .label = Ifecka n uneflay: Aserwes n tegrumma n yiniten
 experimental-features-devtools-color-scheme-simulation-description = Yerna taxtiṛt n tuttra n yizenziɣen n yiniten yemgaraden ara ak-akem-yeǧǧen ad teskeydeḍ ilugan n yimidyaten <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Aseqdec n tuttra n umidyat-a ad yeǧǧ tiferkit-ik·m n uɣanib ad terr ma yella aseqdac ad yefren agrudem n useqdac amceɛlal neɣ aberkan. Tamahilt-a ad ak·akem-teǧǧ ad teskeydeḍ tangalt-ik·im war ma tesnifleḍ iɣewwaren deg yiminig-ik·im (neɣ anagraw n wammud, ma yella iminig yeṭṭafar aɣewwar n uzenziɣ n yiniten ɣef uswir n unagraw). Wali <a data-l10n-name="bugzilla1">abug1550804</a> d <a data-l10n-name="bugzilla2">wabug1137699</a> i wugar n telqayt.
@@ -99,3 +94,6 @@ experimental-features-webrtc-global-mute-toggles-description = Rnu senqaden ɣer
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Rmed Wrap, d asenfar i usnerni n tmellit n JavaScript d useqdec n tkatut.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Aferket (aɛzal n usmel)
