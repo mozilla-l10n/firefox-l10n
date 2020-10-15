@@ -351,5 +351,7 @@ policies-error = Tuccḍa
 
 support-printing-title = Asiggez
 support-printing-troubleshoot = Asellek
+support-printing-clear-settings-button = Sfeḍ iɣewwaren n usiggez yettuskelsen
+support-printing-modified-settings = Iɣewwaren n usiggez yettusneflen
 support-printing-prefs-name = Isem
 support-printing-prefs-value = Azal
