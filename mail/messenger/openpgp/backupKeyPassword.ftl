@@ -5,6 +5,7 @@
 set-password-window =
     .title = Izberite geslo za varnostno kopiranje ključa OpenPGP
 set-password-legend = Izberite geslo
+set-password-message = Tukaj nastavite geslo za zaščito datoteke z varnostno kopijo OpenPGP skrivnega ključa, ki ga pravkar ustvarjate. Preden nadaljujete, morate nastaviti geslo.
 set-password-backup-pw =
     .value = Geslo za varnostno kopijo tajnega ključa:
 set-password-repeat-backup-pw =

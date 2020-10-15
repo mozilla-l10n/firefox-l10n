@@ -31,6 +31,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-manualInstruction = Obrnite se na predvidenega partnerja za pogovor prek katerega koli drugega overjenega kanala, na primer e-poštnega sporočila s podpisom OpenPGP ali po telefonu. Morali bi si povedati prstne odtise. (Prstni odtis je kontrolna vsota, ki identificira šifrirni ključ.) Če se prstni odtis ujema, v spodnjem pogovornem oknu navedite, ali ste prstni odtis preverili.
 auth-how = Kako želite preveriti istovetnost stika?
 auth-qaInstruction = Zamislite si vprašanje, na katerega odgovor veste samo vi in vaš stik. Vnesite vprašanje in odgovor, nato počakajte, da stik vnese odgovor. Če se odgovora ne ujemata, je komunikacijski kanal, ki ga uporabljate, morda nadzorovan.
 auth-secretInstruction = Zamislite si skrivnost, ki jo poznate samo vi in vaš stik. Za izmenjavo skrivnosti ne uporabite iste internetne povezave. Vnesite skrivnost in počakajte, da jo vnese tudi stik. Če se skrivnosti ne ujemata, je komunikacijski kanal, ki ga uporabljate, morda nadzorovan.
