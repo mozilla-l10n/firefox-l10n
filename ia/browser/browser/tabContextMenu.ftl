@@ -45,10 +45,10 @@ reopen-in-container =
     .label = Reaperir in un scheda contextual
     .accesskey = e
 move-to-start =
-    .label = Mover al initio
+    .label = Displaciar al initio
     .accesskey = i
 move-to-end =
-    .label = Mover al fin
+    .label = Displaciar al fin
     .accesskey = f
 move-to-new-window =
     .label = Displaciar a un nove fenestra
@@ -75,8 +75,8 @@ close-tabs =
     .label = Clauder le schedas
     .accesskey = S
 move-tabs =
-    .label = Mover le schedas
-    .accesskey = v
+    .label = Displaciar schedas
+    .accesskey = D
 move-tab =
     .label = Mover le scheda
     .accesskey = v
@@ -91,8 +91,8 @@ tab-context-close-tabs =
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Mover schedas
-            [one] Mover le scheda
-           *[other] Mover le schedas
+            [1] Displaciar scheda
+            [one] Displaciar scheda
+           *[other] Displaciar schedas
         }
     .accesskey = M
