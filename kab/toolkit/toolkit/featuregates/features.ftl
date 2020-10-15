@@ -96,4 +96,5 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = Rmed Wrap, d asenfar i usnerni n tmellit n JavaScript d useqdec n tkatut.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
-    .label = Aferket (aɛzal n usmel)
+    .label = Fission (aɛzal n usmel)
+experimental-features-fission-description = Fission (aɛzal n usmel) d tamahilt tarmitant deg { -brand-short-name } i umuddu n tissi-nniḍen n uḥareb mgal abugen n tɣellist. S uɛzal n yal asmel deg ukala i yettwaɛezlen, Fission tettarra anekcum ɣer yisebtar-nniḍen wuɣur i trezzuḍ yewɛer aṭas i yir ismal web. Wagi d asenfel agejdan asegdan deg { -brand-short-name }, nekkni ad ak·akem-nesnemmer ɣef usekyed d tuzna n wuguren i tzemreḍ ad d-temlileḍ. I wugar n telqayt, wali <a data-l10n-name="wiki">awiki</a>.
