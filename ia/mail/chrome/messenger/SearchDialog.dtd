@@ -9,7 +9,7 @@
 <!ENTITY searchSubfolders.accesskey  "s">
 <!ENTITY searchOnServer.label        "Exequer recerca sur servitor">
 <!ENTITY searchOnServer.accesskey    "x">
-<!ENTITY resetButton.label           "Clarar">
+<!ENTITY resetButton.label           "Vacuar">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "Aperir">
 <!ENTITY openButton.accesskey        "p">

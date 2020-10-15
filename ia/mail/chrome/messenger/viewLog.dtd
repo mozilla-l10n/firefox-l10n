@@ -4,7 +4,7 @@
 
 <!ENTITY viewLog.title "Registro del filtro">
 <!ENTITY viewLogInfo.text "Le registro de filtro documenta le filtros usate in iste conto. Usa le quadrato de controlo infra pro activar le registration.">
-<!ENTITY clearLog.label "Clarar le registro">
+<!ENTITY clearLog.label "Vacuar le registro">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY enableLog.label "Activar le registro de filtro">
 <!ENTITY enableLog.accesskey "A">
