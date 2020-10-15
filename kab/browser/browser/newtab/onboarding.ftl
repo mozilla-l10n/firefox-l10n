@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Bdu
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
 onboarding-welcome-body = Tesɛiḍ iminig. <br/> Wali ayen id-yeqqimen seg { -brand-product-name }.
 onboarding-welcome-learn-more = Lmed ugar ɣef ayen yeɛnan ibaɣuren.
@@ -39,6 +47,48 @@ onboarding-start-browsing-button-label = Bdu tunigin
 onboarding-cards-dismiss =
     .title = Kkes
     .aria-label = Kkes
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Iyya-d ad nesnirem ayen akk i tzemreḍ ad txedmeḍ.
+onboarding-fullpage-form-email =
+    .placeholder = Tansa yinek imayl…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Awi { -brand-product-name } yid-k
+onboarding-sync-welcome-content = Awi ticraḍ-ik n yisebtar, azray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.
+onboarding-sync-welcome-learn-more-link = Issin ugar ɣef Firefox Accounts
+onboarding-sync-form-input =
+    .placeholder = Imayl
+onboarding-sync-form-continue-button = Kemmel
+onboarding-sync-form-skip-login-button = Zgel amecwaṛ-agi
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Sekcem imayl inek
+onboarding-sync-form-sub-header = akken ad tkemleḍ akked { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Snerni tiffursa s useqdec n tegrumma n yifecka yettqadaṛen tudert-ik tusligt deg yibenkan-ik meṛṛa.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = S kra n wayen i nxeddemn yettqadaṛ ṭmana-nneɣ ɣef yisefka udmawanen: Lqeḍ drus n yisefka, mmesten-iten. Ulac tufra.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Awi yid-k ticraḍ-ik n yisebtar, awalen-ik uffiren, azray, d wayen-nniḍen, sekra wanida i tesqeḍceḍ { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Rmes-d alɣu ticki tilɣa-ik tudmawanin banent-d deg trewla n yisefka yettwassnen.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Sefrek awalen uffiren i yettwaḍemnen u ara yili yid-k yal amkan.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-add-extension-label = Rnu asiɣzef
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +122,6 @@ onboarding-multistage-theme-primary-button-label = Kles asentel
 onboarding-multistage-theme-secondary-button-label = Mačči tura
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awurman
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Seqdec asentel n unagraw
 onboarding-multistage-theme-label-light = Aceɛlal
 onboarding-multistage-theme-label-dark = Aberkan
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +132,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Ṭṭef arwes n unagraw-ik·im
-        n wammud i tqeffalin, i wumuɣen d yisfuyla.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Seqdec arwes aceεlal i tqeffalin,
-        i wumuɣen d yisfuyla.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Seqdec arwes aberkan i tqeffalin,
-        i wumuɣen d yisfuyla.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Seqdec arwes s yiniten i tqeffalin,
-        i wumuɣen d yisfuyla.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +172,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Seqdec arwes s yiniten i tqeffalin,
         i wumuɣen d yisfuyla.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Iyya-d ad nesnirem ayen akk i tzemreḍ ad txedmeḍ.
-onboarding-fullpage-form-email =
-    .placeholder = Tansa yinek imayl…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Awi { -brand-product-name } yid-k
-onboarding-sync-welcome-content = Awi ticraḍ-ik n yisebtar, azray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.
-onboarding-sync-welcome-learn-more-link = Issin ugar ɣef Firefox Accounts
-onboarding-sync-form-input =
-    .placeholder = Imayl
-onboarding-sync-form-continue-button = Kemmel
-onboarding-sync-form-skip-login-button = Zgel amecwaṛ-agi
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Sekcem imayl inek
-onboarding-sync-form-sub-header = akken ad tkemleḍ akked { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Snerni tiffursa s useqdec n tegrumma n yifecka yettqadaṛen tudert-ik tusligt deg yibenkan-ik meṛṛa.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = S kra n wayen i nxeddemn yettqadaṛ ṭmana-nneɣ ɣef yisefka udmawanen: Lqeḍ drus n yisefka, mmesten-iten. Ulac tufra.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Awi yid-k ticraḍ-ik n yisebtar, awalen-ik uffiren, azray, d wayen-nniḍen, sekra wanida i tesqeḍceḍ { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Rmes-d alɣu ticki tilɣa-ik tudmawanin banent-d deg trewla n yisefka yettwassnen.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Sefrek awalen uffiren i yettwaḍemnen u ara yili yid-k yal amkan.
 
 ## These strings belong to the individual onboarding messages.
 

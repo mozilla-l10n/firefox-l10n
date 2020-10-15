@@ -346,3 +346,10 @@ touch-warning = anekcum amennalan yensa ɣef sebba  n usmenyaf ur iţusefraken a
 policies-inactive = Insa
 policies-active = Urmid
 policies-error = Tuccḍa
+
+## Printing section
+
+support-printing-title = Asiggez
+support-printing-troubleshoot = Asellek
+support-printing-prefs-name = Isem
+support-printing-prefs-value = Azal
