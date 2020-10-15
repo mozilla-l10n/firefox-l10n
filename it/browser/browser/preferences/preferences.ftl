@@ -542,6 +542,12 @@ browsing-picture-in-picture-toggle-enabled =
 
 browsing-picture-in-picture-learn-more = Ulteriori informazioni
 
+browsing-media-control =
+    .label = Controlla la riproduzione di file multimediali tramite tastiera, cuffie o interfacce virtuali
+    .accesskey = m
+
+browsing-media-control-learn-more = Ulteriori informazioni
+
 browsing-cfr-recommendations =
     .label = Consiglia estensioni durante la navigazione
     .accesskey = C
