@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE : This file contains the Storage Inspector strings. -->
 
 <!-- LOCALIZATION NOTE : Placeholder for the searchbox that allows you to filter the table items. -->
-<!ENTITY searchBox.placeholder         "Filter items">
+<!ENTITY searchBox.placeholder         "Filtrar itens">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
-<!ENTITY storage.popupMenu.deleteAllLabel "Delete All">
+<!ENTITY storage.popupMenu.deleteAllLabel "Excluir tudo">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
-<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Delete All Session Cookies">
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Excluir todos os cookies de sessão">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
-<!ENTITY storage.popupMenu.copyLabel "Copy">
+<!ENTITY storage.popupMenu.copyLabel "Copiar">
