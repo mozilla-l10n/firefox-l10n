@@ -258,6 +258,8 @@ cfr-doorhanger-fission-primary-button = IH, awi-t
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Issin ugar
     .accesskey = L
+# Deprecated
+cfr-doorhanger-fission-body = { -brand-short-name } yermed-ak·am tamahilt tarmitant Fission (aɛzal n usmel). S uɛzal n yal asmel deg ukala yettwaɛezlen, Fission ad tmudd tissi-nniḍen n tɣellist i kečč·kemm d yismal web wuɣur i trezzuḍ.
 
 ## What's new: Cookies message
 
