@@ -136,10 +136,16 @@ e2e-learn-more = Issin ugar
 
 ## OpenPGP Key selection area
 
+key-expiry-never = weṛǧin
+key-usage-encrypt = Wgelhen
+key-usage-authentication = Asesteb
 key-does-not-expire = Tasarut ur tettmettat ara
 key-expired-date = Tasarut temmut deg { $keyExpiry }
 key-expired-simple = Tasarut temmut
 key-revoked-simple = Tasarut ettwasefsex
+# Strings in keyserver.jsm
+keyserver-error-aborted = Yettwaseḥbes
+keyserver-error-unknown = Taḍra-d tuccda tarussint
 
 ## Account settings export output
 
