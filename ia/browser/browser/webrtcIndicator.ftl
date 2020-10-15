@@ -33,8 +33,8 @@ webrtc-minimize =
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
-    .label = Tu va compartir tu camera. Clicca pro controlar le compartimento.
+    .label = Tu comparti ora tu camera. Clicca pro controlar le compartimento.
 webrtc-microphone-system-menu =
-    .label = Tu va compartir tu microphono. Clicca pro controlar le compartimento.
+    .label = Tu comparti ora tu microphono. Clicca pro controlar le compartimento.
 webrtc-screen-system-menu =
-    .label = Tu va compartir un fenestra o un pagina. Clicca pro controlar le compartimento.
+    .label = Tu comparti ora un fenestra o un pagina. Clicca pro controlar le compartimento.
