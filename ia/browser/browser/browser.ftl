@@ -476,5 +476,5 @@ fullscreen-exit-mac-button = Exir del plen schermo (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
-pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ha controlo super tu punctator. Preme Esc pro recuperar le controlo.
-pointerlock-warning-no-domain = Iste documento ha controlo super tu punctator. Preme Esc pro recuperar le controlo.
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> controla tu punctator. Preme Esc pro reprender le controlo.
+pointerlock-warning-no-domain = Iste documento controla tu punctator. Preme Esc pro reprender le controlo.
