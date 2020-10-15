@@ -352,5 +352,6 @@ policies-error = Error
 support-printing-title = Impression
 support-printing-troubleshoot = Resolucion de problèmas
 support-printing-clear-settings-button = Escafar los paramètres d’impression enregistrats
+support-printing-modified-settings = Paramètres d’impression modificats
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valor
