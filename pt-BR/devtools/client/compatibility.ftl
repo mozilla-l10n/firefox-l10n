@@ -5,33 +5,32 @@
 
 ## Messages used as headers in the main pane
 
-compatibility-selected-element-header = Selected Element
-compatibility-all-elements-header = All Issues
+compatibility-selected-element-header = Elemento selecionado
+compatibility-all-elements-header = Todos os problemas
 
 ## Message used as labels for the type of issue
 
-compatibility-issue-deprecated = (deprecated)
+compatibility-issue-deprecated = (obsoleto)
 compatibility-issue-experimental = (experimental)
 compatibility-issue-prefixneeded = (prefixo necessário)
-compatibility-issue-deprecated-experimental = (deprecated, experimental)
-
+compatibility-issue-deprecated-experimental = (obsoleto, experimental)
 compatibility-issue-deprecated-prefixneeded = (obsoleto, prefixo necessário)
 compatibility-issue-experimental-prefixneeded = (experimental, prefixo necessário)
 compatibility-issue-deprecated-experimental-prefixneeded = (obsoleto, experimental, prefixo necessário)
 
 ## Messages used as labels and titles for buttons in the footer
 
-compatibility-settings-button-label = Settings
+compatibility-settings-button-label = Configurações
 compatibility-settings-button-title =
-    .title = Settings
-compatibility-feedback-button-label = Feedback
+    .title = Configurações
+compatibility-feedback-button-label = Comentários
 compatibility-feedback-button-title =
-    .title = Feedback
+    .title = Comentários
 
 ## Messages used as headers in settings pane
 
-compatibility-settings-header = Settings
-compatibility-target-browsers-header = Target Browsers
+compatibility-settings-header = Configurações
+compatibility-target-browsers-header = Navegadores alvo
 
 ##
 
@@ -40,10 +39,9 @@ compatibility-target-browsers-header = Target Browsers
 #   $number (Number) - The number of nodes where the issue occurred
 compatibility-issue-occurrences =
     { $number ->
-        [one] { $number } occurrence
-       *[other] { $number } occurrences
+        [one] { $number } ocorrência
+       *[other] { $number } ocorrências
     }
-
-compatibility-no-issues-found = No compatibility issues found.
+compatibility-no-issues-found = Nenhum problema de compatibilidade encontrado.
 compatibility-close-settings-button =
-    .title = Close settings
+    .title = Fechar configurações
