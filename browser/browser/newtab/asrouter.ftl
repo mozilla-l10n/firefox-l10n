@@ -250,6 +250,14 @@ cfr-doorhanger-doh-primary-button = Tamam
 cfr-doorhanger-doh-secondary-button = Devre dışı bırak
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-header = Site izolasyonu
+cfr-doorhanger-fission-primary-button = Anladım
+    .accesskey = A
+cfr-doorhanger-fission-secondary-button = Daha fazla bilgi al
+    .accesskey = D
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Sinsi izleme taktiklerinden otomatik koruma
