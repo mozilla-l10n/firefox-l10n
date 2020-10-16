@@ -80,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Rikthe sjelljen e diku
 
 policy-LocalFileLinks = Lejo sajte specifikë të krijojnë lidhje te kartela vendore.
 policy-MasterPassword = Kërko doemos ose pengo përdorimin e një fjalëkalimi të përgjithshëm.
+policy-ManagedBookmarks = Formëson një listë faqerojtësish të administruar nga një përgjegjës, e cila s’mund të ndryshohet nga përdoruesi.
 policy-PrimaryPassword = Kërko doemos ose pengo përdorimin e një Fjalëkalimi të Përgjithshëm.
 policy-NetworkPrediction = Aktivizoni ose çaktivizoni parashikim rrjeti (<em>DNS prefetching</em>).
 policy-NewTabPage = Aktivizoni ose çaktivizoni faqen Skedë e Re.

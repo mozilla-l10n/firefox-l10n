@@ -29,6 +29,8 @@ search-input-box =
            *[other] Gjeni te Parapëlqimet
         }
 managed-notice = Shfletuesi juaj administrohet nga enti juaj.
+category-list =
+    .aria-label = Kategori
 pane-general-title = Të përgjithshme
 category-general =
     .tooltiptext = { pane-general-title }
@@ -489,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sajte Kryesues
 home-prefs-topsites-description = Sajtet që vizitoni më tepër
+home-prefs-topsites-by-option-sponsored =
+    .label = Sajte Kryesorë të Sponsorizuar
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -560,6 +564,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Ndryshoni parapëlqime për sugjerimet të tjera shtylle adresash
 search-suggestions-cant-show = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 search-one-click-header = Motorë kërkimesh me një klikim
+search-one-click-header2 = Kërko për Shkurtore
 search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duken nën shtyllën e adresave dhe shtyllën e kërkimeve, kur filloni të jepni një fjalëkyç.
 search-choose-engine-column =
     .label = Motor Kërkimesh
