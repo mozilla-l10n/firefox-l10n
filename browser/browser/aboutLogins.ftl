@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ការចូល និង​ពាក្យ​សម្ងាត់
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = ទាញយក​កម្មវិធី​នៅ​លើ Google Play
 login-app-promo-apple =
     .alt = ទាញយក​នៅ​លើ App Store
-
 login-filter =
     .placeholder = ស្វែងរក​ការចូល
-
 create-login-button = បង្កើត​ការចូល​ថ្មី
-
 fxaccounts-sign-in-text = ទាញយក​ពាក្យ​សម្ងាត់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​ផ្សេងៗ​របស់​អ្នក
 fxaccounts-sign-in-button = ចូល​ទៅ { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -32,6 +25,7 @@ fxaccounts-avatar-button =
 
 menu =
     .title = បើក​ម៉ឺនុយ
+about-logins-menu-menuitem-import-from-a-file = នាំចូល​ពី​ឯកសារ…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ជម្រើស
@@ -67,7 +61,6 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = កំពុង​រក​មើល​ការចូល​ដែល​បាន​រក្សាទុក​របស់​អ្នក​មែន​ទេ? រៀបចំ { -sync-brand-short-name } ។
-
 about-logins-login-intro-heading-logged-in = រកមិនឃើញការចូលដែល​បាន​ធ្វើសមកាលកម្ម។
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instruction-fxa = បង្កើត ឬ​ចូល​ទៅ { -fxaccount-brand-name } របស់​អ្នក​នៅ​លើ​ឧបករណ៍ ត្រង់​កន្លែង​ដែល​បាន​រក្សាទុក​ការចូល​របស់​អ្នក
@@ -140,9 +133,7 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = បោះបង់
 confirmation-dialog-dismiss-button =
     .title = បោះបង់
-
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
-
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
 confirm-discard-changes-dialog-message = ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក​ទាំងអស់​នឹង​បាត់។
 confirm-discard-changes-dialog-confirm-button = បោះបង់
@@ -158,6 +149,7 @@ breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវប
 
 
 ## Login Export Dialog
+
 
 ## Login Import Dialog
 
