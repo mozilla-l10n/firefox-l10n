@@ -491,6 +491,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sık kullanılan siteler
 home-prefs-topsites-description = En çok ziyaret ettiğiniz siteler
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsorlu sık kullanılanlar
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
