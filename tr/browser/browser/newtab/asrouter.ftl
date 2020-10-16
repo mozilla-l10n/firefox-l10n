@@ -252,6 +252,7 @@ cfr-doorhanger-doh-secondary-button = Devre dışı bırak
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Gizliliğiniz bizim için önemli. { -brand-short-name } artık web sitelerini birbirinden izole ediyor. Böylece hacker’ların parolaları, kredi kartı numaralarını ve diğer hassas bilgileri çalması zorlaşıyor.
 cfr-doorhanger-fission-header = Site izolasyonu
 cfr-doorhanger-fission-primary-button = Anladım
     .accesskey = A
