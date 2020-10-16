@@ -343,3 +343,12 @@ touch-warning = input asinkron me prekje i çaktivizuar, për shkak parapëlqimi
 policies-inactive = Joaktiv
 policies-active = Aktiv
 policies-error = Gabim
+
+## Printing section
+
+support-printing-title = Po shtypet
+support-printing-troubleshoot = Diagnostikim
+support-printing-clear-settings-button = Spastro rregullimet e ruajtura për shtypjet
+support-printing-modified-settings = U ndryshuan rregullime shtypjeje
+support-printing-prefs-name = Emër
+support-printing-prefs-value = Vlerë
