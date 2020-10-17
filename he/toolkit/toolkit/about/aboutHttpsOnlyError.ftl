@@ -13,9 +13,15 @@ about-httpsonly-title = ‏{ -brand-short-name } איתר חולשת אבטחה 
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable = בחרת לגלוש במצב ״HTTPS בלבד״, אבל גרסת HTTPS מאובטחת של <em>{ $websiteUrl }</em> אינה זמינה.
+about-httpsonly-title-alert = התראת מצב HTTPS בלבד
+about-httpsonly-title-connection-not-available = חיבור מאובטח אינו זמין
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = הפעלת את מצב ״HTTPS בלבד״ לטובת אבטחה משופרת, אבל גרסת HTTPS של <em>{ $websiteUrl }</em> אינה זמינה.
 about-httpsonly-explanation-question = מה יכול לגרום לזה?
 about-httpsonly-explanation-nosupport = סביר להניח שהאתר פשוט אינו תומך ב־HTTPS.
 about-httpsonly-explanation-risk = יתכן שיש גם גורם זדוני בתמונה. אם החלטת לבקר באתר, עדיף לך לא למלא מידע רגיש כגון ססמאות, כתובות דוא״ל או פרטי כרטיסי אשראי.
 about-httpsonly-button-accept-and-continue = קבלת הסיכון והמשך
+about-httpsonly-button-continue-to-site = המשך לאתר בגרסת HTTP
 about-httpsonly-button-go-back = חזרה
 about-httpsonly-link-learn-more = מידע נוסף…
