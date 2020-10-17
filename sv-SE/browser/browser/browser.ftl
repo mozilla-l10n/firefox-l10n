@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Skriv mindre, hitta mer: Sök med { $engineName } direkt från ditt adressfält.
 urlbar-search-tips-redirect-2 = Starta din sökning i adressfältet för att se förslag från { $engineName } och din surfhistorik.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Välj den här genvägen för att hitta det du behöver snabbare.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,8 @@ identity-https-only-dropdown-off =
     .label = Av
 identity-https-only-dropdown-off-temporarily =
     .label = Tillfälligt av
-identity-https-only-info-turn-on = Aktivera om du vill att { -brand-short-name } ska uppgradera till en säker anslutning när det är möjligt.
-identity-https-only-info-turn-off = Om webbplatsen verkar trasig kanske du vill stänga av endast HTTPS-läge för att ladda om med osäker HTTP.
+identity-https-only-info-turn-on2 = Aktivera endast HTTPS-läge för den här webbplatsen om du vill att { -brand-short-name } ska uppgradera anslutningen när det är möjligt.
+identity-https-only-info-turn-off2 = Om sidan verkar trasig kanske du vill stänga av endast HTTPS-läge för att den här webbplatsen ska laddas om med osäker HTTP.
 identity-https-only-info-no-upgrade = Det gick inte att uppgradera anslutningen från HTTP.
 identity-permissions =
     .value = Behörigheter
@@ -444,16 +447,21 @@ urlbar-result-action-search-in-private = Sök i ett privat fönster
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Sök med { $engine }
+urlbar-result-action-sponsored = Sponsrad
 urlbar-result-action-switch-tab = Växla till flik
 urlbar-result-action-visit = Besök
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Sök i bokmärken
-urlbar-result-action-search-history = Sök i historik
-urlbar-result-action-search-tabs = Sök i flikar
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Tryck på Tab för att söka med { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Tryck på Tab för att söka i { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +470,14 @@ urlbar-result-action-tabtosearch-web = Sök med { $engine } direkt från adressf
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Sök i { $engine } direkt från adressfältet
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Sök i bokmärken
+urlbar-result-action-search-history = Sök i historik
+urlbar-result-action-search-tabs = Sök i flikar
 
 ## Full Screen and Pointer Lock UI
 

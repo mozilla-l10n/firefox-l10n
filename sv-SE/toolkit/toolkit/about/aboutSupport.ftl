@@ -65,6 +65,7 @@ app-basics-service-workers = Registrerade Service Workers
 app-basics-profiles = Profiler
 app-basics-launcher-process-status = Uppstartsprocess
 app-basics-multi-process-support = Multiprocess fönster
+app-basics-fission-support = Fission-fönster
 app-basics-remote-processes-count = Fjärrprocesser
 app-basics-enterprise-policies = Företagspolicyer
 app-basics-location-service-key-google = Nyckel Google Location Service
@@ -326,6 +327,20 @@ multi-process-status-6 = Inaktiverad av att textinmatning inte stöds
 multi-process-status-7 = Inaktiverad av tillägg
 multi-process-status-8 = Inaktiverad med tvång
 multi-process-status-unknown = Okänd status
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Inaktiverad av experiment
+fission-status-experiment-treatment = Aktiverad av experiment
+fission-status-disabled-by-e10s-env = Inaktiverad av miljön
+fission-status-enabled-by-env = Aktiverad av miljön
+fission-status-disabled-by-safe-mode = Inaktiverat av säkert läge
+fission-status-enabled-by-default = Aktiverad som standard
+fission-status-disabled-by-default = Inaktiverad som standard
+fission-status-enabled-by-user-pref = Inaktiverad av användaren
+fission-status-disabled-by-user-pref = Inaktiverad av användaren
+fission-status-disabled-by-e10s-other = E10s inaktiverad
 async-pan-zoom = Asynkron panorera/zoom
 apz-none = ingen
 wheel-enabled = hjulinmatning aktiverad
