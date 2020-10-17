@@ -65,6 +65,7 @@ app-basics-service-workers = Zregistrowane service workers
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Startowanski proces
 app-basics-multi-process-support = Multiprocesowe wokna
+app-basics-fission-support = Wokna Fission
 app-basics-remote-processes-count = Zdalene procesy
 app-basics-enterprise-policies = Předewzaćelske prawidła
 app-basics-location-service-key-google = Kluč stejnišćoweje słužby Google
@@ -336,6 +337,20 @@ multi-process-status-6 = Přez njepodpěrane tekstowe zapodaće znjemóžnjeny
 multi-process-status-7 = Přez přidatki znjemóžnjeny
 multi-process-status-8 = Namócnje znjemóžnjeny
 multi-process-status-unknown = Njeznaty status
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Přez eksperiment znjemóžnjeny
+fission-status-experiment-treatment = Přez eksperiment zmóžnjeny
+fission-status-disabled-by-e10s-env = Přez wokolinu znjemóžnjeny
+fission-status-enabled-by-env = Přez wokolinu zmóžnjeny
+fission-status-disabled-by-safe-mode = Přez wěsty modus znjemóžnjeny
+fission-status-enabled-by-default = Po standardźe zmóžnjeny
+fission-status-disabled-by-default = Po standardźe znjemóžnjeny
+fission-status-enabled-by-user-pref = Wot wužiwarja zmóžnjeny
+fission-status-disabled-by-user-pref = Wot wužiwarja znjezmóžnjeny
+fission-status-disabled-by-e10s-other = E10s znjemóžnjeny
 async-pan-zoom = Asynchrone přesuwanje/skalowanje
 apz-none = žadyn
 wheel-enabled = zapodaće z koleskom zmóžnjene
