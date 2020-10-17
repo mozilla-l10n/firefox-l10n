@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Avètz ja un compte ?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Connectatz-vos
 onboarding-start-browsing-button-label = Començar de navegar
+onboarding-not-now-button-label = Pas ara
 onboarding-cards-dismiss =
     .title = Tirar
     .aria-label = Tirar

@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Activar lo contraròtle per l’incrustacion vidèo
     .accesskey = A
 browsing-picture-in-picture-learn-more = Ne saber mai
+browsing-media-control-learn-more = Ne saber mai
 browsing-cfr-recommendations =
     .label = Recomandar d’extensions pendent la navegacion
     .accesskey = R
