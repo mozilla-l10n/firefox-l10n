@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Πληκτρολογήστε λιγότερα, βρείτε περισσότερα: Αναζητήστε μέσω { $engineName } κατευθείαν από τη γραμμή διευθύνσεων.
 urlbar-search-tips-redirect-2 = Ξεκινήστε την αναζήτησή σας στη γραμμή διευθύνσεων για να δείτε προτάσεις από το { $engineName } και το ιστορικό περιήγησής σας.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Επιλέξτε αυτήν τη συντόμευση για να βρείτε αυτό που χρειάζεστε, πιο γρήγορα.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,6 @@ identity-https-only-dropdown-off =
     .label = Ανενεργό
 identity-https-only-dropdown-off-temporarily =
     .label = Προσωρινά ανενεργό
-identity-https-only-info-turn-on = Ενεργοποιήστε το αν θέλετε να γίνεται αναβάθμιση του { -brand-short-name } σε ασφαλή σύνδεση, όταν είναι δυνατό.
-identity-https-only-info-turn-off = Αν η ιστοσελίδα φαίνεται προβληματική, δοκιμάστε να απενεργοποιήσετε τη λειτουργία μόνο-HTTPS για ανανέωση με το μη ασφαλές HTTP.
 identity-https-only-info-no-upgrade = Δεν είναι δυνατή η αναβάθμιση της σύνδεσης από HTTP.
 identity-permissions =
     .value = Δικαιώματα
@@ -444,16 +445,21 @@ urlbar-result-action-search-in-private = Αναζήτηση σε ιδιωτικ�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Αναζήτηση με { $engine }
+urlbar-result-action-sponsored = Χορηγία
 urlbar-result-action-switch-tab = Εναλλαγή σε καρτέλα
 urlbar-result-action-visit = Επίσκεψη
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Αναζήτηση σελιδοδεικτών
-urlbar-result-action-search-history = Αναζήτηση ιστορικού
-urlbar-result-action-search-tabs = Αναζήτηση καρτελών
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Πατήστε Tab για αναζήτηση με { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Πατήστε Tab για αναζήτηση { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +468,14 @@ urlbar-result-action-tabtosearch-web = Αναζήτηση με { $engine } απ�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Αναζήτηση { $engine } απευθείας από τη γραμμή διευθύνσεων
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Αναζήτηση σελιδοδεικτών
+urlbar-result-action-search-history = Αναζήτηση ιστορικού
+urlbar-result-action-search-tabs = Αναζήτηση καρτελών
 
 ## Full Screen and Pointer Lock UI
 

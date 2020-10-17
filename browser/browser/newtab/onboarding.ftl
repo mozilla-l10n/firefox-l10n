@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Έχετε ήδη λογαριασμό;
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Σύνδεση
 onboarding-start-browsing-button-label = Έναρξη περιήγησης
+onboarding-not-now-button-label = Όχι τώρα
 onboarding-cards-dismiss =
     .title = Απόρριψη
     .aria-label = Απόρριψη
