@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = 已經有帳號了嗎？
 # Text for link to submit the sign in form
 onboarding-join-form-signin = 登入
 onboarding-start-browsing-button-label = 開始瀏覽
+onboarding-not-now-button-label = 現在不要
 onboarding-cards-dismiss =
     .title = 隱藏
     .aria-label = 隱藏
