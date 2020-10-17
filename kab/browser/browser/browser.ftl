@@ -296,6 +296,8 @@ identity-https-only-dropdown-off =
     .label = Yensa
 identity-https-only-dropdown-off-temporarily =
     .label = Sens i kra n wakud
+identity-https-only-info-turn-on2 = Rmed askar HTTPS-Only i usmel-a ma tebɣiḍ { -brand-short-name } i uleqqem n tuqqna melmi tzemreḍ.
+identity-https-only-info-turn-off2 = Ma asebter yettban yerreẓ, tzemreḍ ad tsenseḍ kan askar HTTPS i usmel-a akken ad talseḍ asali s useqdec n HTTP araɣellsan.
 identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
 identity-permissions =
     .value = Tisirag
@@ -445,8 +447,21 @@ urlbar-result-action-search-in-private = Nadi deg usfaylu uslig
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Nadi s { $engine }:
+urlbar-result-action-sponsored = S lmendad
 urlbar-result-action-switch-tab = Ddu ɣer yiccer
 urlbar-result-action-visit = Rzu
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Sit ɣef Tab i unadi s { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Sit ɣef Tab i unadi s { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).

@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Rmeb asenqed i uslaɣ n uvidyu
     .accesskey = R
 browsing-picture-in-picture-learn-more = Issin ugar
+browsing-media-control-learn-more = Issin ugar
 browsing-cfr-recommendations =
     .label = Welleh isizaf ticki tettiniged
     .accesskey = W

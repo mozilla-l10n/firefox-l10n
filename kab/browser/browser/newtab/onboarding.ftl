@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Ɣur-k yakan amiḍan?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Kcem
 onboarding-start-browsing-button-label = Bdu tunigin
+onboarding-not-now-button-label = Mačči tura
 onboarding-cards-dismiss =
     .title = Kkes
     .aria-label = Kkes
