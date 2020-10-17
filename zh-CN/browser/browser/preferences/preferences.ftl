@@ -424,6 +424,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = 启用画中画视频控件
     .accesskey = E
 browsing-picture-in-picture-learn-more = 详细了解
+browsing-media-control-learn-more = 详细了解
 browsing-cfr-recommendations =
     .label = 在您浏览时推荐扩展
     .accesskey = R
