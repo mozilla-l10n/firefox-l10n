@@ -303,6 +303,18 @@ multi-process-status-6 = נוטרל עקב קלט טקסט לא נתמך
 multi-process-status-7 = נוטרל על־ידי תוספות
 multi-process-status-8 = מושבת בכוח
 multi-process-status-unknown = מצב לא ידוע
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = מושבת על־ידי ניסוי
+fission-status-experiment-treatment = מופעל על־ידי ניסוי
+fission-status-disabled-by-e10s-env = מושבת על־ידי הסביבה
+fission-status-enabled-by-env = מופעל על־ידי הסביבה
+fission-status-disabled-by-safe-mode = מושבת על־ידי מצב בטוח
+fission-status-enabled-by-default = מופעל כברירת מחדל
+fission-status-disabled-by-default = מושבת כברירת מחדל
+fission-status-disabled-by-e10s-other = ריבוי תהליכים מושבת
 apz-none = אין
 wheel-enabled = קלט גלגל מופעל
 touch-enabled = קלט מגע מופעל
