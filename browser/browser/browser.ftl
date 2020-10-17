@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escrivètz mens, trobatz mai : cercatz amb { $engineName } dirèctament de la barra d’adreça.
 urlbar-search-tips-redirect-2 = Començatz vòstra recèrca dins la barra d’adreça per mostrar las suggestions de { $engineName } e de vòstre istoric de navegacion.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Causir aqueste acorchi per trobar mai rapidament çò que vos fa besonh.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,8 @@ identity-https-only-dropdown-off =
     .label = Desactivat
 identity-https-only-dropdown-off-temporarily =
     .label = Temporàriament desactivat
-identity-https-only-info-turn-on = Activatatz-lo se volètz que { -brand-short-name } passe a una connexion segura quand es possible.
-identity-https-only-info-turn-off = Se lo site sembla copat, ensajatz de desactivar lo mòde HTTPS sonque per tornar cargar en HTTP pas segur.
+identity-https-only-info-turn-on2 = Activar lo mòde HTTPS solament per aqueste site se vol_tz que { -brand-short-name } passe la connexion en mòde securizat s’es possible.
+identity-https-only-info-turn-off2 = Se la page sembla copada, ensajatz de desactivar lo mòde HTTPS sonque per tornar cargar lo site en HTTP pas segur.
 identity-https-only-info-no-upgrade = Passatge de la connexion en HTTPS impossible.
 identity-permissions =
     .value = Permissions
@@ -446,14 +449,6 @@ urlbar-result-action-search-in-private = Recercar dins una fenèstra privada
 urlbar-result-action-search-w-engine = Recercar amb { $engine }
 urlbar-result-action-switch-tab = Anar a l'onglet
 urlbar-result-action-visit = Visitar
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Cercar dins los marcapaginas
-urlbar-result-action-search-history = Cercar dins l’istoric
-urlbar-result-action-search-tabs = Cercar pels onglets
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +457,14 @@ urlbar-result-action-tabtosearch-web = Cercar amb { $engine } dirèctament dins 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cercar dins { $engine } dirèctament dins la barra d’adreça
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Cercar dins los marcapaginas
+urlbar-result-action-search-history = Cercar dins l’istoric
+urlbar-result-action-search-tabs = Cercar pels onglets
 
 ## Full Screen and Pointer Lock UI
 
