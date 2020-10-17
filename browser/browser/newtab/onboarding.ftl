@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Maće hižo konto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Přizjewić
 onboarding-start-browsing-button-label = Přehladowanje startować
+onboarding-not-now-button-label = Nic nětko
 onboarding-cards-dismiss =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
