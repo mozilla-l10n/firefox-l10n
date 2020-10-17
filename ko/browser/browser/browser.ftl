@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = 적게 입력, 많이 찾기: 주소 표시줄에서 바로 { $engineName } 검색어로 검색해 보세요.
 urlbar-search-tips-redirect-2 = 주소 표시줄에서 검색을 시작하여 { $engineName }의 제안 및 방문 기록을 확인하세요.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = 더 빨리 찾으려면 여기에서 하세요.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -285,8 +288,7 @@ identity-https-only-dropdown-off =
     .label = 끄기
 identity-https-only-dropdown-off-temporarily =
     .label = 일시적으로 끄기
-identity-https-only-info-turn-on = 가능한 경우 { -brand-short-name }가 안전한 연결로 업그레이드하도록 하려면 켜세요.
-identity-https-only-info-turn-off = 사이트가 손상된 것 같으면 HTTPS 전용 모드를 끄고 안전하지 않은 HTTP를 사용하여 다시 로드 할 수 있습니다.
+identity-https-only-info-turn-on2 = { -brand-short-name }가 가능한 경우 연결을 업그레이드하도록 하려면 이 사이트에 대해 HTTPS 전용 모드를 켜세요.
 identity-https-only-info-no-upgrade = HTTP에서 연결을 업그레이드할 수 없습니다.
 identity-permissions =
     .value = 권한
@@ -438,14 +440,6 @@ urlbar-result-action-search-in-private = 사생활 보호 창에서 검색
 urlbar-result-action-search-w-engine = { $engine } 검색
 urlbar-result-action-switch-tab = 탭 전환
 urlbar-result-action-visit = 방문
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = 북마크 검색
-urlbar-result-action-search-history = 기록 검색
-urlbar-result-action-search-tabs = 탭 검색
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -454,6 +448,14 @@ urlbar-result-action-tabtosearch-web = 주소 표시줄에서 직접 { $engine }
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = 주소 표시줄에서 직접 { $engine } 검색
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = 북마크 검색
+urlbar-result-action-search-history = 기록 검색
+urlbar-result-action-search-tabs = 탭 검색
 
 ## Full Screen and Pointer Lock UI
 

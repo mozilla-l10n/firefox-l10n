@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = 계정이 이미 있습니까?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = 로그인
 onboarding-start-browsing-button-label = 탐색 시작
+onboarding-not-now-button-label = 나중에
 onboarding-cards-dismiss =
     .title = 닫기
     .aria-label = 닫기
