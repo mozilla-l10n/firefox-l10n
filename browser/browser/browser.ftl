@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tipkaj manje, nađi više: Traži { $engineName } direktno u tvojoj adresnoj traci.
 urlbar-search-tips-redirect-2 = Započni pretragu u adresnoj traci za prikaz prijedloga od { $engineName } i tvoju povijest pregledavanja.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Odaberi ovaj prečac za brže pretraživanje.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -288,12 +291,14 @@ identity-active-loaded = Zaštita je deaktivirana na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabo šifriranje.
 identity-insecure-login-forms = Prijave na ovoj stranici mogu biti kompromitirane.
 identity-https-only-connection-upgraded = (nadograđeno na HTTPS)
+identity-https-only-label = Samo HTTPS modus
 identity-https-only-dropdown-on =
     .label = Uključeno
 identity-https-only-dropdown-off =
     .label = Isključeno
 identity-https-only-dropdown-off-temporarily =
     .label = Privremeno isključeno
+identity-https-only-info-no-upgrade = Nije moguće nadograditi vezu s HTTP-a.
 identity-permissions =
     .value = Dozvole
 identity-permissions-reload-hint = Stranica se možda mora ponovo učitati, kako bi se primijenile promjene.
@@ -442,16 +447,9 @@ urlbar-result-action-search-in-private = Pretraži u privatnom prozoru
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Traži pomoću { $engine }
+urlbar-result-action-sponsored = Sponzorirano
 urlbar-result-action-switch-tab = Prebaci na karticu
 urlbar-result-action-visit = Posjeti
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Pretraži zabilješke
-urlbar-result-action-search-history = Pretraži povijest
-urlbar-result-action-search-tabs = Pretraži kartice
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -460,6 +458,14 @@ urlbar-result-action-tabtosearch-web = Pretraži pomoću { $engine } izravno iz 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Pretraži { $engine } izravno iz adresne trake
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Pretraži zabilješke
+urlbar-result-action-search-history = Pretraži povijest
+urlbar-result-action-search-tabs = Pretraži kartice
 
 ## Full Screen and Pointer Lock UI
 
