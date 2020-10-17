@@ -65,6 +65,7 @@ app-basics-service-workers = Registrerte tjenestearbeidere
 app-basics-profiles = Profiler
 app-basics-launcher-process-status = Oppstartsprosess
 app-basics-multi-process-support = Multiprosess-vinduer
+app-basics-fission-support = Fission-vinduer
 app-basics-remote-processes-count = Fjernprosesser
 app-basics-enterprise-policies = Virksomhets-policy
 app-basics-location-service-key-google = Google Location Service-nøkkel
@@ -326,6 +327,11 @@ multi-process-status-6 = Avslått av ustøttet tekstinput
 multi-process-status-7 = Avslått av utvidelser
 multi-process-status-8 = Tvunget deaktivert
 multi-process-status-unknown = Ukjent status
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-disabled-by-e10s-other = E10s avslått
 async-pan-zoom = Asynkron pan/zoom
 apz-none = ingen
 wheel-enabled = hjulinput påslått
