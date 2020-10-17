@@ -43,6 +43,7 @@ onboarding-join-form-signin-label = כבר יש לך חשבון?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = כניסה
 onboarding-start-browsing-button-label = התחלת גלישה
+onboarding-not-now-button-label = לא כעת
 onboarding-cards-dismiss =
     .title = הסרה
     .aria-label = הסרה
