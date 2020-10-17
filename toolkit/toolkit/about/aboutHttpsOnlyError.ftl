@@ -13,9 +13,16 @@ about-httpsonly-title = { -brand-short-name } виявив ймовірну за
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable = Ви переглядаєте в режимі лише HTTPS, але захищена HTTPS-версія <em>{ $websiteUrl }</em> недоступна.
+about-httpsonly-title-alert = Попередження HTTPS-режиму
+about-httpsonly-title-connection-not-available = Захищене з'єднання недоступне
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Ви увімкнули HTTPS-режим для поліпшення безпеки, але HTTPS версія для <em>{ $websiteUrl }</em> недоступна.
 about-httpsonly-explanation-question = Що може призводити до цього?
 about-httpsonly-explanation-nosupport = Швидше за все, вебсайт просто не підтримує HTTPS.
 about-httpsonly-explanation-risk = Також, можливі дії зловмисників. Якщо ви вирішили відвідати вебсайт, вам не варто вводити жодної приватної інформації, як-от паролів, адрес електронної пошти чи даних кредитних карток.
 about-httpsonly-button-accept-and-continue = Погодитись на ризик і продовжити
+about-httpsonly-explanation-continue = Якщо ви продовжите, HTTPS-режим для цього сайту буде тимчасово вимкнений.
+about-httpsonly-button-continue-to-site = Продовжити на HTTP-сайті
 about-httpsonly-button-go-back = Назад
 about-httpsonly-link-learn-more = Докладніше…

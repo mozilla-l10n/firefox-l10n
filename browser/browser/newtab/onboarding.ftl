@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Вже маєте обліковий зап�
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Увійти
 onboarding-start-browsing-button-label = Почати перегляд
+onboarding-not-now-button-label = Не зараз
 onboarding-cards-dismiss =
     .title = Сховати
     .aria-label = Сховати
