@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -293,8 +293,8 @@ identity-https-only-dropdown-off =
     .label = כבוי
 identity-https-only-dropdown-off-temporarily =
     .label = כבוי באופן זמני
-identity-https-only-info-turn-on = יש להפעיל אם ברצונך ש־{ -brand-short-name } ישדרג לחיבור מאובטח כשהדבר אפשרי.
-identity-https-only-info-turn-off = אם נראה שהאתר שבור, באפשרותך לכבות את מצב ה־HTTPS בלבד כדי לטעון מחדש באמצעות HTTP לא מאובטח.
+identity-https-only-info-turn-on2 = יש להפעיל את מצב HTTPS בלבד אם ברצונך ש־{ -brand-short-name } ישדרג את החיבור כשהדבר אפשרי.
+identity-https-only-info-turn-off2 = אם נראה שהדף שבור, באפשרותך לכבות את מצב ה־HTTPS בלבד עבור אתר זה כדי לטעון מחדש באמצעות HTTP לא מאובטח.
 identity-https-only-info-no-upgrade = לא ניתן לשדרג את החיבור מ־HTTP.
 identity-permissions =
     .value = הרשאות
@@ -443,16 +443,15 @@ urlbar-result-action-search-in-private = חיפוש בחלון פרטי
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = חיפוש באמצעות { $engine }
+urlbar-result-action-sponsored = ממומן
 urlbar-result-action-switch-tab = מעבר ללשונית
 urlbar-result-action-visit = ביקור
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = חיפוש בסימניות
-urlbar-result-action-search-history = חיפוש בהיסטוריה
-urlbar-result-action-search-tabs = חיפוש לשוניות
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = יש ללחוץ על Tab כדי לחפש באמצעות { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -461,6 +460,14 @@ urlbar-result-action-tabtosearch-web = חיפוש באמצעות { $engine } י�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = חיפוש ב־{ $engine } ישירות משורת הכתובת
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = חיפוש בסימניות
+urlbar-result-action-search-history = חיפוש בהיסטוריה
+urlbar-result-action-search-tabs = חיפוש לשוניות
 
 ## Full Screen and Pointer Lock UI
 
