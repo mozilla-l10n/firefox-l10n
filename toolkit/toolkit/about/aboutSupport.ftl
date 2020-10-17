@@ -68,6 +68,7 @@ app-basics-service-workers = ServiceWorkers registrados
 app-basics-profiles = Perfiles
 app-basics-launcher-process-status = Proceso lanzador
 app-basics-multi-process-support = Ventanas multiproceso
+app-basics-fission-support = Ventanas de Fission
 app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Políticas empresariales
 app-basics-location-service-key-google = Clave del servicio de localización de Google
@@ -329,6 +330,20 @@ multi-process-status-6 = Deshabiliatdo por ingreso de texto no soportado
 multi-process-status-7 = Deshabilitado por complementos
 multi-process-status-8 = Deshabilitado por la fuerza
 multi-process-status-unknown = Estado desconocido
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Deshabilitado por el experimento
+fission-status-experiment-treatment = Habilitado por el experimento
+fission-status-disabled-by-e10s-env = Deshabilitado por el entorno
+fission-status-enabled-by-env = Habilitado por el entorno
+fission-status-disabled-by-safe-mode = Deshabilitado por el modo seguro
+fission-status-enabled-by-default = Habilitado forma predeterminada
+fission-status-disabled-by-default = Deshabilitado de forma predeterminada
+fission-status-enabled-by-user-pref = Habilitado por el usuario
+fission-status-disabled-by-user-pref = Deshabilitado por usuario
+fission-status-disabled-by-e10s-other = E10s deshabilitado
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ninguna
 wheel-enabled = rueda habilitada
