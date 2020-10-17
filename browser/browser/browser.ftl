@@ -291,13 +291,15 @@ identity-active-loaded = Zaštita je deaktivirana na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabo šifriranje.
 identity-insecure-login-forms = Prijave na ovoj stranici mogu biti kompromitirane.
 identity-https-only-connection-upgraded = (nadograđeno na HTTPS)
-identity-https-only-label = Samo HTTPS modus
+identity-https-only-label = Način rada "Samo HTTPS"
 identity-https-only-dropdown-on =
     .label = Uključeno
 identity-https-only-dropdown-off =
     .label = Isključeno
 identity-https-only-dropdown-off-temporarily =
     .label = Privremeno isključeno
+identity-https-only-info-turn-on2 = Uključi način rada "samo HTTPS" za ovu stranicu, ako želiš da { -brand-short-name } nadogradi vezu kada je to moguće.
+identity-https-only-info-turn-off2 = Ako se stranica čini slomljenom, možda ćeš htjeti isključiti način rada "samo HTTPS" za ovu stranicu i ponovno ju učitati pomoću nesigurnog HTTP-a.
 identity-https-only-info-no-upgrade = Nije moguće nadograditi vezu s HTTP-a.
 identity-permissions =
     .value = Dozvole
@@ -450,6 +452,18 @@ urlbar-result-action-search-w-engine = Traži pomoću { $engine }
 urlbar-result-action-sponsored = Sponzorirano
 urlbar-result-action-switch-tab = Prebaci na karticu
 urlbar-result-action-visit = Posjeti
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Pritisni Tab za pretraživanje pomoću { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Pritisni Tab za pretraživanje { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
