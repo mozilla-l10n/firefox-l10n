@@ -87,7 +87,7 @@ environment-variables-value = Wartość
 experimental-features-title = Funkcje eksperymentalne
 experimental-features-name = Nazwa
 experimental-features-value = Wartość
-modified-key-prefs-title = Ważne zmodyfikowane ustawienia
+modified-key-prefs-title = Ważne zmienione ustawienia
 modified-prefs-name = Nazwa
 modified-prefs-value = Wartość
 user-js-title = Preferencje user.js
@@ -355,3 +355,12 @@ touch-warning = Asynchroniczne przewijanie/powiększanie za pomocą dotyku wył�
 policies-inactive = Nieaktywne
 policies-active = Aktywne
 policies-error = Błąd
+
+## Printing section
+
+support-printing-title = Drukowanie
+support-printing-troubleshoot = Rozwiązywanie problemów
+support-printing-clear-settings-button = Wyczyść zachowane ustawienia drukowania
+support-printing-modified-settings = Zmienione ustawienia drukowania
+support-printing-prefs-name = Nazwa
+support-printing-prefs-value = Wartość
