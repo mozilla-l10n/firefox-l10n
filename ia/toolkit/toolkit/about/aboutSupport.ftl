@@ -329,6 +329,10 @@ multi-process-status-6 = Disactivate per entrata de texto non supportate
 multi-process-status-7 = Disactivate per additivos
 multi-process-status-8 = Disactivate fortiatemente
 multi-process-status-unknown = Stato incognite
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Pan/Zoom asynchrone
 apz-none = nulle
 wheel-enabled = entrata a rota activate
