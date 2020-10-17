@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Har du allereie ein konto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Logg inn
 onboarding-start-browsing-button-label = Start nettlesing
+onboarding-not-now-button-label = Ikkje no
 onboarding-cards-dismiss =
     .title = Avvis
     .aria-label = Avvis
