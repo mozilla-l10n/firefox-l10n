@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Har du redan ett konto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Logga in
 onboarding-start-browsing-button-label = Börja surfa
+onboarding-not-now-button-label = Inte nu
 onboarding-cards-dismiss =
     .title = Ignorera
     .aria-label = Ignorera
