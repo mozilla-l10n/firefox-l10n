@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Ужо маеце ўліковы запіс?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Увайсці
 onboarding-start-browsing-button-label = Пачаць агляданне
+onboarding-not-now-button-label = Не зараз
 onboarding-cards-dismiss =
     .title = Адхіліць
     .aria-label = Адхіліць
