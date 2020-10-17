@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Уводзьце менш, знаходзьце больш: Пошук { $engineName } наўпрост у адрасным радку.
 urlbar-search-tips-redirect-2 = Пачніце свой пошук у адрасным радку, каб пабачыць прапановы ад { $engineName } і з вашай гісторыі аглядання.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Выберыце гэты ярлык, каб хутчэй знайсці патрэбнае.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -295,8 +298,8 @@ identity-https-only-dropdown-off =
     .label = Выкл.
 identity-https-only-dropdown-off-temporarily =
     .label = Часова выкл.
-identity-https-only-info-turn-on = Уключыце, калі хочаце, каб { -brand-short-name } па магчымасці абнаўляўся да бяспечнага злучэння.
-identity-https-only-info-turn-off = Калі сайт выглядае няспраўным, магчыма, вы захочаце адключыць рэжым "Толькі HTTPS", каб перазагрузіць праз небяспечны HTTP.
+identity-https-only-info-turn-on2 = Уключыце рэжым "толькі HTTPS", калі хочаце, каб { -brand-short-name } па магчымасці абнаўляў злучэння.
+identity-https-only-info-turn-off2 = Калі старонка выглядае няспраўнай, магчыма, вы захочаце адключыць рэжым "Толькі HTTPS" для гэтага сайта, каб перазагрузіць праз небяспечны HTTP.
 identity-https-only-info-no-upgrade = Не ўдалося абнавіць злучэнне з HTTP.
 identity-permissions =
     .value = Дазволы
@@ -446,16 +449,21 @@ urlbar-result-action-search-in-private = Пошук у прыватным акн
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Пошук з дапамогай { $engine }
+urlbar-result-action-sponsored = Спонсарскі
 urlbar-result-action-switch-tab = Пераключыцца ў картку
 urlbar-result-action-visit = Наведаць
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Шукаць у закладках
-urlbar-result-action-search-history = Шукаць у гісторыі
-urlbar-result-action-search-tabs = Шукаць у картках
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Націсніце Tab для пошуку з дапамогай { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Націсніце Tab для пошуку ў { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -464,6 +472,14 @@ urlbar-result-action-tabtosearch-web = Шукайце з дапамогай { $e
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Шукайце ў { $engine } наўпрост з адраснага радка
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Шукаць у закладках
+urlbar-result-action-search-history = Шукаць у гісторыі
+urlbar-result-action-search-tabs = Шукаць у картках
 
 ## Full Screen and Pointer Lock UI
 
