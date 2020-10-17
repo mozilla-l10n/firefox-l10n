@@ -295,7 +295,7 @@ launcher-process-status-unknown = מצב לא ידוע
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = הופעל על־ידי המשתמש
+multi-process-status-0 = מופעל על־ידי המשתמש
 multi-process-status-1 = מופעל כברירת מחדל
 multi-process-status-2 = מנוטרל
 multi-process-status-4 = נוטרל עקב כלי נגישות
@@ -314,6 +314,8 @@ fission-status-enabled-by-env = מופעל על־ידי הסביבה
 fission-status-disabled-by-safe-mode = מושבת על־ידי מצב בטוח
 fission-status-enabled-by-default = מופעל כברירת מחדל
 fission-status-disabled-by-default = מושבת כברירת מחדל
+fission-status-enabled-by-user-pref = מופעל על־ידי המשתמש
+fission-status-disabled-by-user-pref = מושבת על־ידי המשתמש
 fission-status-disabled-by-e10s-other = ריבוי תהליכים מושבת
 apz-none = אין
 wheel-enabled = קלט גלגל מופעל
