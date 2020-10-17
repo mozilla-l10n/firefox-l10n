@@ -285,6 +285,9 @@ identity-https-only-dropdown-off =
     .label = ปิด
 identity-https-only-dropdown-off-temporarily =
     .label = ปิดชั่วคราว
+identity-https-only-info-turn-on = เปิดหากคุณต้องการให้ { -brand-short-name } อัปเกรดเป็นการเชื่อมต่อที่ปลอดภัยเมื่อเป็นไปได้
+identity-https-only-info-turn-off = หากไซต์ดูเหมือนจะพัง คุณอาจต้องปิดโหมด HTTPS-Only เพื่อโหลดใหม่โดยใช้ HTTP ที่ไม่ปลอดภัย
+identity-https-only-info-no-upgrade = ไม่สามารถอัปเกรดการเชื่อมต่อจาก HTTP ได้
 identity-permissions =
     .value = สิทธิอนุญาต
 identity-permissions-reload-hint = คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล
@@ -400,7 +403,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = ค้นหาด้วย { $name } หรือใส่ที่อยู่
+    .placeholder = ค้นหาด้วย { $name } หรือป้อนที่อยู่
 urlbar-remote-control-notification-anchor =
     .tooltiptext = เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล
 urlbar-permissions-granted =
