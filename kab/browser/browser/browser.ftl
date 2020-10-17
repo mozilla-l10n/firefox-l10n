@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Aru cwiṭ, af-d ugar : nadi s { $engineName } srid seg ufeggag n tensa.
 urlbar-search-tips-redirect-2 = Bdu anadi-ik deg ufeggag n tansiwin i wakken ad tsekneḍ isumar seg { $engineName } daɣen seg umuzruy-ik n tunigin.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Fren anegzum-a akken ad tafeḍ ayen tettnadiḍ s tɣawla.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,6 @@ identity-https-only-dropdown-off =
     .label = Yensa
 identity-https-only-dropdown-off-temporarily =
     .label = Sens i kra n wakud
-identity-https-only-info-turn-on = Rmed ma yella tebɣiḍ { -brand-short-name } i uleqqem ɣer tuqqna taɣellsant ma yili tella.
-identity-https-only-info-turn-off = Ma yella asmel yettban yerreẓ, tzemreḍ ad tsenseḍ kan askar HTTPS i wakken ad talseḍ asali s useqdec HTTP araɣelsan.
 identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
 identity-permissions =
     .value = Tisirag
@@ -446,14 +447,6 @@ urlbar-result-action-search-in-private = Nadi deg usfaylu uslig
 urlbar-result-action-search-w-engine = Nadi s { $engine }:
 urlbar-result-action-switch-tab = Ddu ɣer yiccer
 urlbar-result-action-visit = Rzu
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Nadi ticraḍ n yisebtar
-urlbar-result-action-search-history = Nadi deg umazray
-urlbar-result-action-search-tabs = Nadi deg waccaren
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +455,14 @@ urlbar-result-action-tabtosearch-web = Nadi s { $engine } srid seg ugalis n tans
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Nadi s { $engine } srid seg ugalis n tansa
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Nadi ticraḍ n yisebtar
+urlbar-result-action-search-history = Nadi deg umazray
+urlbar-result-action-search-tabs = Nadi deg waccaren
 
 ## Full Screen and Pointer Lock UI
 
