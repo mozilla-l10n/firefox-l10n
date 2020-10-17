@@ -68,6 +68,7 @@ app-basics-service-workers = Зарэгістраваныя сервіс-вор�
 app-basics-profiles = Профілі
 app-basics-launcher-process-status = Пускавы працэс
 app-basics-multi-process-support = Шматпрацэсныя вокны
+app-basics-fission-support = Вокны Fission
 app-basics-remote-processes-count = Адлеглыя працэсы
 app-basics-enterprise-policies = Карпаратыўная палітыка
 app-basics-location-service-key-google = Ключ Службы вызначэння месцазнаходжання ад Google
@@ -334,6 +335,20 @@ multi-process-status-6 = Выключана непадтрыманым тэкс�
 multi-process-status-7 = Адключана дадатакамі
 multi-process-status-8 = Прымусова адключаны
 multi-process-status-unknown = Невядомы статус
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Адключана эксперыментам
+fission-status-experiment-treatment = Уключана эксперыментам
+fission-status-disabled-by-e10s-env = Адключана асяроддзем
+fission-status-enabled-by-env = Уключана асяроддзем
+fission-status-disabled-by-safe-mode = Адключана ў бяспечным рэжыме
+fission-status-enabled-by-default = Тыпова уключана
+fission-status-disabled-by-default = Тыпова адключана
+fission-status-enabled-by-user-pref = Уключаны карыстальнікам
+fission-status-disabled-by-user-pref = Адключана карыстальнікам
+fission-status-disabled-by-e10s-other = E10s адключаны
 async-pan-zoom = Асінхроннае павелічэнне/маштаб
 apz-none = няма
 wheel-enabled = увод колца ўключаны
