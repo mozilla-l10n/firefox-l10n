@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -293,8 +293,6 @@ identity-https-only-dropdown-off =
     .label = Av
 identity-https-only-dropdown-off-temporarily =
     .label = Mellombels av
-identity-https-only-info-turn-on = Slå på dersom du vil at { -brand-short-name } skal oppgradere til ei sikker tilkopling når det er mogleg.
-identity-https-only-info-turn-off = Dersom nettstaden ser ut til å vere øydelagd, kan det vere lurt å slå av berre-HTTPS modus for å laste inn på nytt ved hjelp av usikker HTTP.
 identity-https-only-info-no-upgrade = Klarte ikkje å oppgradere kopling frå HTTP.
 identity-permissions =
     .value = Løyve
@@ -444,16 +442,9 @@ urlbar-result-action-search-in-private = Søk i eit privat vindauge
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Søk med { $engine }
+urlbar-result-action-sponsored = Sponsa
 urlbar-result-action-switch-tab = Byt til fane
 urlbar-result-action-visit = Besøk
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Søk i bokmerke
-urlbar-result-action-search-history = Søk i historikk
-urlbar-result-action-search-tabs = Søk i faner
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +453,14 @@ urlbar-result-action-tabtosearch-web = Søk med { $engine } direket frå adresse
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Søk i { $engine } direkte frå adresselinja
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Søk i bokmerke
+urlbar-result-action-search-history = Søk i historikk
+urlbar-result-action-search-tabs = Søk i faner
 
 ## Full Screen and Pointer Lock UI
 
