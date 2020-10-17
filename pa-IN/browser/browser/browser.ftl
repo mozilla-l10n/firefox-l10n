@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -82,7 +82,7 @@ urlbar-indexed-db-notification-anchor =
 urlbar-password-notification-anchor =
     .tooltiptext = ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-translated-notification-anchor =
-    .tooltiptext = ਸਫ਼ਾ ਉਲੱਥੇ ਦਾ ਪਰਬੰਧ ਕਰੋ
+    .tooltiptext = ਸਫ਼ਾ ਉਲੱਥੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 urlbar-plugins-notification-anchor =
     .tooltiptext = ਵਰਤੋਂ ਅਧੀਨ ਪਲੱਗਇਨ-ਇਨ ਦਾ ਬੰਦੋਬਸਤ
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -293,8 +293,6 @@ identity-https-only-dropdown-off =
     .label = ਬੰਦ
 identity-https-only-dropdown-off-temporarily =
     .label = ਆਰਜ਼ੀ ਤੌਰ ਉੱਤੇ ਬੰਦ
-identity-https-only-info-turn-on = ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੋਵੇ ਤਾਂ { -brand-short-name } ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਲਈ ਅੱਪਗਰੇਡ ਕਰੇ ਤਾਂ ਇਹ ਚਾਲੂ ਕਰੋ।
-identity-https-only-info-turn-off = ਜੇ ਸਾਈਟ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ ਤਾਂ ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ HTTP ਵਰਤ ਕੇ ਮੁੜ-ਲੋਡ ਕਰਨ ਲਈ ਸਿਰਫ਼-HTTP ਢੰਗ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।
 identity-https-only-info-no-upgrade = HTTP ਤੋਂ ਕਨੈਕਸ਼ਨ ਅੱਪਗਰੇਡ ਕਰਨ ਅਸਮਰੱਥ ਹੈ।
 identity-permissions =
     .value = ਇਜਾਜ਼ਤਾਂ
@@ -446,14 +444,6 @@ urlbar-result-action-search-in-private = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡ�
 urlbar-result-action-search-w-engine = { $engine } ਨਾਲ ਖੋਜੋ
 urlbar-result-action-switch-tab = ਟੈਬ ਲਈ ਸਵਿੱਚ ਕਰੋ
 urlbar-result-action-visit = ਖੋਲ੍ਹੋ
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
-urlbar-result-action-search-history = ਅਤੀਤ ਖੋਜੋ
-urlbar-result-action-search-tabs = ਟੈਬਾਂ ਖੋਜੋ
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +452,14 @@ urlbar-result-action-tabtosearch-web = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਤ
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਤੋਂ ਸਿੱਧੀ { $engine } ਖੋਜੋ
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
+urlbar-result-action-search-history = ਅਤੀਤ ਖੋਜੋ
+urlbar-result-action-search-tabs = ਟੈਬਾਂ ਖੋਜੋ
 
 ## Full Screen and Pointer Lock UI
 
