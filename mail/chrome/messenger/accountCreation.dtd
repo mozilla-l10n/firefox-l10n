@@ -75,8 +75,6 @@
 <!ENTITY manual-config.accesskey         "d">
 <!ENTITY open-provisioner.label          "Merrni një adresë email të re…">
 <!ENTITY open-provisioner.accesskey      "M">
-
-
 <!ENTITY get-help.label                  "Merrni Ndihmë">
 <!ENTITY get-help.accesskey              "N">
 
@@ -102,7 +100,7 @@
 <!ENTITY changeSettings.label            "Ndryshoni Rregullimet">
 <!ENTITY changeSettings.accesskey        "N">
 
-<!ENTITY contactYourProvider.description "&brandShortName;-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose furnizuesin e shërbimit email. Për më tepër të dhëna, shihni FAQ për Thunderbird-in.">
+<!ENTITY contactYourProvider.description "&brandShortName;-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose furnizuesin e shërbimit email. Për më tepër të dhëna, shihni PBR për Thunderbird-in.">
 
 <!ENTITY insecureServer.tooltip.title    "Kujdes! Ky është shërbyes i pasigurt.">
 <!ENTITY insecureServer.tooltip.details  "Për më tepër hollësi klikoni te rrethi.">
