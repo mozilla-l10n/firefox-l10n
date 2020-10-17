@@ -416,6 +416,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = 화면 속 화면 비디오 컨트롤 사용
     .accesskey = E
 browsing-picture-in-picture-learn-more = 더 알아보기
+browsing-media-control-learn-more = 더 알아보기
 browsing-cfr-recommendations =
     .label = 탐색시 확장 기능 추천
     .accesskey = R
