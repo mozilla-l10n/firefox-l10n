@@ -326,6 +326,10 @@ multi-process-status-6 = Desteklenmeyen metin girdisi tarafından devre dışı 
 multi-process-status-7 = Eklentiler tarafından devre dışı bırakıldı
 multi-process-status-8 = Zorla devre dışı bırakıldı
 multi-process-status-unknown = Bilinmeyen durum
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Asenkron kaydır/yakınlaştır
 apz-none = yok
 wheel-enabled = tekerlek girdisi etkin
@@ -346,3 +350,6 @@ touch-warning = desteklenmeyen tercih nedeniyle asenkron dokunma girdisi devre d
 policies-inactive = Pasif
 policies-active = Aktif
 policies-error = Hata
+
+## Printing section
+
