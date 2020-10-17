@@ -326,6 +326,16 @@ multi-process-status-6 = Arurmid s weḍris anekcam ur iţusefraken ara
 multi-process-status-7 = Izegrar kkesn-as armad
 multi-process-status-8 = Arurmid s tedusi
 multi-process-status-unknown = Addad arussin
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Yensa s tirmit
+fission-status-experiment-treatment = Yetturmed s tirmit
+fission-status-disabled-by-e10s-env = Yensa s twennaḍt
+fission-status-enabled-by-env = yetturmed s twennaḍt
+fission-status-disabled-by-safe-mode = Yensa s uskar aɣellsan
+fission-status-enabled-by-default = Yetturmed s umezwer
 async-pan-zoom = Asemɣeṛ/Asemẓi aramtawa
 apz-none = ulac
 wheel-enabled = anekcum n tjaṛaṛt yermed
