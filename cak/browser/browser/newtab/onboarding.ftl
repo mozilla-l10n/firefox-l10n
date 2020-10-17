@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = ¿La k'o chik jun rub'i' ataqoya'l?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Titikirisäx Molojri'ïl
 onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
+onboarding-not-now-button-label = Wakami mani
 onboarding-cards-dismiss =
     .title = Tichup ruwäch
     .aria-label = Tichup ruwäch

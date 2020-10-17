@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Titzij kichajixik silowäch picture-in-picture
     .accesskey = t
 browsing-picture-in-picture-learn-more = Tetamäx ch'aqa' chik
+browsing-media-control-learn-more = Tetamäx ch'aqa' chik
 browsing-cfr-recommendations =
     .label = Kechilab'ëx taq k'amal toq nib'an okem pa k'amaya'l
     .accesskey = K

@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Jub'a' katz'ib'an, k'ïy tawila': Tikanöx { $engineName } choj pa rochoch etalib'äl.
 urlbar-search-tips-redirect-2 = Tatikirisaj kanoxïk pa ri rukajtz'ik ochochib'äl richin ye'atz'ët taq ruchilab'exik { $engineName } chuqa' runatab'al awokik'amaya'l.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Tacha' re chojokem richin anin nawïl ri nakanoj.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,8 @@ identity-https-only-dropdown-off =
     .label = Tichup
 identity-https-only-dropdown-off-temporarily =
     .label = Tichup jumej
-identity-https-only-info-turn-on = Tatzija' we nawajo' chi ri { -brand-short-name } nujäl rik'in jun jikïl okem toq k'atzinel.
-identity-https-only-info-turn-off = We man nisamäj ta ütz ri ruxaq, rik'in jub'a' nawajo' nachüp ri  Xa Xe-HTTPS Rub'anikil, richin nisamajïx chik akuchi' nokisäx ri mejikïl HTTP.
+identity-https-only-info-turn-on2 = Tatzija' ri HTTPS-Only Rub'anikil pa re ruxaq re' we nawajo' chi ri { -brand-short-name } nujäl rik'in ri okem toq k'atzinel.
+identity-https-only-info-turn-off2 = We man nisamäj ta ütz ri ruxaq, rik'in jub'a' nawajo' nachüp ri HTTPS-Only Rub'anikil pa re ruxaq re', richin nisamajïx chik akuchi' nokisäx ri mejikïl HTTP.
 identity-https-only-info-no-upgrade = Man nitikïr ta nik'ex ri okem pa HTTP.
 identity-permissions =
     .value = Taq ya'oj q'ij
@@ -446,14 +449,18 @@ urlbar-result-action-search-in-private = Tikanöx pa jun Ichinan Tzuwäch
 urlbar-result-action-search-w-engine = Tikanöx pa { $engine }
 urlbar-result-action-switch-tab = Tijalwachïx chi ruwi'
 urlbar-result-action-visit = Titz'et
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Kekanöx taq Yaketal
-urlbar-result-action-search-history = Tikanöx Natab'äl
-urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Tapitz'a' Tab richin yakanon rik'in { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Tapitz'a' Tab richin nakanoj { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +469,14 @@ urlbar-result-action-tabtosearch-web = Tikanöx rik'in { $engine } pa kikajtz'ik
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Tikanöx { $engine } pa kikajtz'ik ochochib'äl
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Kekanöx taq Yaketal
+urlbar-result-action-search-history = Tikanöx Natab'äl
+urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
 
 ## Full Screen and Pointer Lock UI
 

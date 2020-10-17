@@ -65,6 +65,7 @@ app-basics-service-workers = Samajela' pa samaj tz'ib'an kib'i'
 app-basics-profiles = Taq ruwäch b'i'aj
 app-basics-launcher-process-status = Rub'anik K'aqonel
 app-basics-multi-process-support = Rutzuwach k'ïy tajin
+app-basics-fission-support = Fission Windows
 app-basics-remote-processes-count = Näj taq Tajin
 app-basics-enterprise-policies = Ajk'aymolojel taq Na'ojil
 app-basics-location-service-key-google = Google K'ojlib'äl Ewan Rutzij Samaj
@@ -326,6 +327,12 @@ multi-process-status-6 = Xchuputäj ruma xatz'ib'aj rucholajem tzij ri man koch'
 multi-process-status-7 = Xchuputäj kuma ri taq tz'aqat
 multi-process-status-8 = Xb'an chi xchup
 multi-process-status-unknown = Man etaman ta rub'anikil
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Xchup ruma ri tojtob'enel
+fission-status-experiment-treatment = Xtzij ruma ri tojtob'enel
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = majun
 wheel-enabled = xuya' q'ij xok ri seton
