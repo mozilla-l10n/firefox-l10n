@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -285,8 +285,6 @@ identity-https-only-dropdown-off =
     .label = 关闭
 identity-https-only-dropdown-off-temporarily =
     .label = 暂时关闭
-identity-https-only-info-turn-on = 若想要 { -brand-short-name } 尽可能升级为安全连接，请开启此选项。
-identity-https-only-info-turn-off = 若网站看起来不正常，则可能需要关闭 HTTPS-Only 模式，使用不安全的 HTTP 重新载入。
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
 identity-permissions =
     .value = 权限
@@ -438,14 +436,18 @@ urlbar-result-action-search-in-private = 在隐私窗口中搜索
 urlbar-result-action-search-w-engine = 使用 { $engine } 搜索
 urlbar-result-action-switch-tab = 切换到标签页
 urlbar-result-action-visit = 访问
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = 搜索书签
-urlbar-result-action-search-history = 搜索历史记录
-urlbar-result-action-search-tabs = 搜索标签页
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = 按 Tab 键 { $engine } 一下
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = 按 Tab 键在 { $engine } 上搜索
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -454,6 +456,14 @@ urlbar-result-action-tabtosearch-web = 直接从地址栏 { $engine } 一下
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = 直接从地址栏在 { $engine } 上搜索
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = 搜索书签
+urlbar-result-action-search-history = 搜索历史记录
+urlbar-result-action-search-tabs = 搜索标签页
 
 ## Full Screen and Pointer Lock UI
 
