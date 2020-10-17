@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tipee menos, encuentre más: Busque { $engineName } desde la misma barra de direcciones.
 urlbar-search-tips-redirect-2 = Inicie su búsqueda en la barra de direcciones para ver sugerencias de { $engineName } y su historial de navegación.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Seleccione este atajo de tecaldo para encontrar más rápido lo que necesita.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,8 @@ identity-https-only-dropdown-off =
     .label = Desactivado
 identity-https-only-dropdown-off-temporarily =
     .label = Desactivado temporariamente
-identity-https-only-info-turn-on = Actívelo si quiere que { -brand-short-name } cambie a una conexión segura cuando sea posible.
-identity-https-only-info-turn-off = Si el sitio no funciona correctamente, es posible que quiera desactivar el modo solo HTTPS para volver a cargar usando una conexión HTTP insegura.
+identity-https-only-info-turn-on2 = Active el modo solo HTTPS para este sitio si quiere que { -brand-short-name } actualice la conexión cuando sea posible.
+identity-https-only-info-turn-off2 = Si el sitio no funciona correctamente, es posible que quiera desactivar el modo solo HTTPS para volver a cargarlo usando una conexión HTTP insegura.
 identity-https-only-info-no-upgrade = No se puede actualizar la conexión desde HTTP.
 identity-permissions =
     .value = Permisos
@@ -444,16 +447,21 @@ urlbar-result-action-search-in-private = Buscar en una ventana privada
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Buscar con { $engine }
+urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Cambiar a una pestaña
 urlbar-result-action-visit = Visitar
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Buscar en Marcadores
-urlbar-result-action-search-history = Buscar en el Historial
-urlbar-result-action-search-tabs = Buscar pestañas
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Presione Tab para buscar con { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Presione Tab para buscar { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +470,14 @@ urlbar-result-action-tabtosearch-web = Buscar con { $engine } directamente desde
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Buscar { $engine } directamente desde la barra de direcciones
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Buscar en Marcadores
+urlbar-result-action-search-history = Buscar en el Historial
+urlbar-result-action-search-tabs = Buscar pestañas
 
 ## Full Screen and Pointer Lock UI
 
