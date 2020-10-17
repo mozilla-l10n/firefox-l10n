@@ -68,6 +68,7 @@ app-basics-service-workers = Εγγεγραμμένα service worker
 app-basics-profiles = Προφίλ
 app-basics-launcher-process-status = Διεργασία εκκίνησης
 app-basics-multi-process-support = Παράθυρα πολυδιεργασιών
+app-basics-fission-support = Παράθυρα Fission
 app-basics-remote-processes-count = Απομακρυσμένες διεργασίες
 app-basics-enterprise-policies = Πολιτικές επιχειρήσεων
 app-basics-location-service-key-google = Κλειδί υπηρεσίας τοποθεσίας Google
@@ -329,6 +330,20 @@ multi-process-status-6 = Ανενεργό λόγω μη υποστηριζόμε
 multi-process-status-7 = Ανενεργό λόγω προσθέτων
 multi-process-status-8 = Ανενεργό εξαναγκαστικά
 multi-process-status-unknown = Άγνωστη κατάσταση
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Απενεργοποιήθηκε από πείραμα
+fission-status-experiment-treatment = Ενεργοποιήθηκε από πείραμα
+fission-status-disabled-by-e10s-env = Απενεργοποιήθηκε από το περιβάλλον
+fission-status-enabled-by-env = Ενεργοποιήθηκε από το περιβάλλον
+fission-status-disabled-by-safe-mode = Απενεργοποιήθηκε από την ασφαλή λειτουργία
+fission-status-enabled-by-default = Ενεργοποιήθηκε από προεπιλογή
+fission-status-disabled-by-default = Απενεργοποιήθηκε από προεπιλογή
+fission-status-enabled-by-user-pref = Ενεργοποιήθηκε από το χρήστη
+fission-status-disabled-by-user-pref = Απενεργοποιήθηκε από το χρήστη
+fission-status-disabled-by-e10s-other = Ανενεργό E10s
 async-pan-zoom = Ασύγχρονο pan/zoom
 apz-none = κανένα
 wheel-enabled = είσοδος ρόδας ενεργή
