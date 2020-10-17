@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = 已有账户？
 # Text for link to submit the sign in form
 onboarding-join-form-signin = 登录
 onboarding-start-browsing-button-label = 开始上网冲浪
+onboarding-not-now-button-label = 暂时不要
 onboarding-cards-dismiss =
     .title = 隐藏
     .aria-label = 隐藏

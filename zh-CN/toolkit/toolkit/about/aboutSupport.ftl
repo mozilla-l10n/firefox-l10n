@@ -323,6 +323,7 @@ fission-status-enabled-by-default = 默认启用
 fission-status-disabled-by-default = 默认禁用
 fission-status-enabled-by-user-pref = 由用户启用
 fission-status-disabled-by-user-pref = 被用户禁用
+fission-status-disabled-by-e10s-other = 已禁用 E10s
 async-pan-zoom = 异步平移/缩放
 apz-none = 无
 wheel-enabled = 滚轮输入已启用
