@@ -285,6 +285,8 @@ identity-https-only-dropdown-off =
     .label = 关闭
 identity-https-only-dropdown-off-temporarily =
     .label = 暂时关闭
+identity-https-only-info-turn-on2 = 若想要 { -brand-short-name } 尽可能升级为安全连接，请对此网站开启 HTTPS-Only 模式。
+identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需要对此网站关闭 HTTPS-Only 模式，使用不安全的 HTTP 重新载入。
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
 identity-permissions =
     .value = 权限
@@ -434,6 +436,7 @@ urlbar-result-action-search-in-private = 在隐私窗口中搜索
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = 使用 { $engine } 搜索
+urlbar-result-action-sponsored = 赞助项目
 urlbar-result-action-switch-tab = 切换到标签页
 urlbar-result-action-visit = 访问
 # Directs a user to press the Tab key to perform a search with the specified
