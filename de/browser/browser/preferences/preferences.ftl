@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Videosteuerung für Bild-im-Bild (PiP) anzeigen
     .accesskey = V
 browsing-picture-in-picture-learn-more = Weitere Informationen
+browsing-media-control-learn-more = Weitere Informationen
 browsing-cfr-recommendations =
     .label = Erweiterungen während des Surfens empfehlen
     .accesskey = h
