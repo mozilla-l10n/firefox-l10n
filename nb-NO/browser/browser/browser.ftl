@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Skriv mindre, finn mer: Søk med { $engineName } direkte fra adresselinjen din.
 urlbar-search-tips-redirect-2 = Start ditt søk i adressefeltet for å se forslag fra { $engineName } og din nettleserhistorikk.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Velg denne snarveien for å finne det du trenger raskere.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,6 @@ identity-https-only-dropdown-off =
     .label = Av
 identity-https-only-dropdown-off-temporarily =
     .label = Midlertidig av
-identity-https-only-info-turn-on = Slå på hvis du vil at { -brand-short-name } skal oppgradere til en sikker tilkobling når det er mulig.
-identity-https-only-info-turn-off = Hvis nettstedet virker ødelagt, kan det være lurt å slå av bare-HTTPS modus for å laste inn på nytt ved hjelp av usikker HTTP.
 identity-https-only-info-no-upgrade = Kan ikke å oppgradere tilkoblingen fra HTTP.
 identity-permissions =
     .value = Tillatelser
@@ -444,16 +445,21 @@ urlbar-result-action-search-in-private = Søk i et privat vindu
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Søk med { $engine }
+urlbar-result-action-sponsored = Sponset
 urlbar-result-action-switch-tab = Bytt til fane
 urlbar-result-action-visit = Besøk
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Søk i bokmerker
-urlbar-result-action-search-history = Søk i historikk
-urlbar-result-action-search-tabs = Søk i faner
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Trykk på tab for å søke med { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Trykk på tab for å søke { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +468,14 @@ urlbar-result-action-tabtosearch-web = Søk med { $engine } direkte fra adressel
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Søk i { $engine } direkte fra adresselinjen
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Søk i bokmerker
+urlbar-result-action-search-history = Søk i historikk
+urlbar-result-action-search-tabs = Søk i faner
 
 ## Full Screen and Pointer Lock UI
 

@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Aktiver videokontroller for bilde-i-bilde
     .accesskey = e
 browsing-picture-in-picture-learn-more = Les mer
+browsing-media-control-learn-more = Les mer
 browsing-cfr-recommendations =
     .label = Anbefal utvidelser mens du surfer
     .accesskey = r
