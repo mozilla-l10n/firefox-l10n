@@ -68,6 +68,7 @@ app-basics-service-workers = Зареєстровані Service Workers
 app-basics-profiles = Профілі
 app-basics-launcher-process-status = Процес запуску
 app-basics-multi-process-support = Багатопроцесні вікна
+app-basics-fission-support = Вікна Fission
 app-basics-remote-processes-count = Віддалені процеси
 app-basics-enterprise-policies = Корпоративні правила
 app-basics-location-service-key-google = Ключ служби Google Location
@@ -334,6 +335,20 @@ multi-process-status-6 = Вимкнено через непідтримуван�
 multi-process-status-7 = Вимкнено додатками
 multi-process-status-8 = Примусово вимкнені
 multi-process-status-unknown = Невідомий стан
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Вимкнено експериментом
+fission-status-experiment-treatment = Увімкнено експериментом
+fission-status-disabled-by-e10s-env = Вимкнено середовищем
+fission-status-enabled-by-env = Увімкнено середовищем
+fission-status-disabled-by-safe-mode = Вимкнено безпечним режимом
+fission-status-enabled-by-default = Увімкнено типово
+fission-status-disabled-by-default = Вимкнено типово
+fission-status-enabled-by-user-pref = Увімкнено користувачем
+fission-status-disabled-by-user-pref = Вимкнено користувачем
+fission-status-disabled-by-e10s-other = E10s вимкнено
 async-pan-zoom = Асинхронне панорамування/зум
 apz-none = немає
 wheel-enabled = введення коліщатком увімкнено
