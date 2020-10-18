@@ -10,6 +10,8 @@ preferences-title =
             [windows] Настройки
            *[other] Настройки
         }
+category-list =
+    .aria-label = Категории
 pane-general-title = Основные
 category-general =
     .tooltiptext = { pane-general-title }
