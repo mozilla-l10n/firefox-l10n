@@ -13,9 +13,16 @@ about-httpsonly-title = { -brand-short-name } ha detectado un posible problema d
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable = Está navegando en modo sólo-HTTPS, y no hay disponible una versión segura HTTPS de <em>{ $websiteUrl }</em>.
+about-httpsonly-title-alert = Alerta de modo solo HTTPS
+about-httpsonly-title-connection-not-available = Conexión segura no disponible
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Ha activado el modo solo HTTPS para mejorar la seguridad pero no está disponible una versión HTTPS de <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-question = ¿Qué podría estar causando esto?
 about-httpsonly-explanation-nosupport = Lo más probable es que el sitio web simplemente no sea compatible con HTTPS.
 about-httpsonly-explanation-risk = También es posible que un atacante esté involucrado. Si decide visitar el sitio web, no debe ingresar información confidencial como contraseñas, correos electrónicos o detalles de tarjetas de crédito.
 about-httpsonly-button-accept-and-continue = Aceptar el riesgo y continuar
+about-httpsonly-explanation-continue = Si continúa, el modo solo HTTPS se desactivará temporalmente para este sitio.
+about-httpsonly-button-continue-to-site = Continuar al sitio HTTP
 about-httpsonly-button-go-back = Retroceder
 about-httpsonly-link-learn-more = Saber más…

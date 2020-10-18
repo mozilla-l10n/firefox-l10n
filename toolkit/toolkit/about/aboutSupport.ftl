@@ -65,6 +65,7 @@ app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfiles
 app-basics-launcher-process-status = Proceso lanzador
 app-basics-multi-process-support = Ventanas multiproceso
+app-basics-fission-support = Ventanas de Fission
 app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Políticas empresariales
 app-basics-location-service-key-google = Clave del servicio de localización de Google
@@ -326,6 +327,20 @@ multi-process-status-6 = Deshabilitado por entrada de texto no admitida
 multi-process-status-7 = Deshabilitado por los complementos
 multi-process-status-8 = Deshabilitado forzosamente
 multi-process-status-unknown = Estado desconocido
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Desactivado por el experimento
+fission-status-experiment-treatment = Activado por el experimento
+fission-status-disabled-by-e10s-env = Desactivado por el entorno
+fission-status-enabled-by-env = Activado por el entorno
+fission-status-disabled-by-safe-mode = Desactivado por el modo seguro
+fission-status-enabled-by-default = Activado de forma predeterminada
+fission-status-disabled-by-default = Desactivado de forma predeterminada
+fission-status-enabled-by-user-pref = Activado por el usuario
+fission-status-disabled-by-user-pref = Desactivado por el usuario
+fission-status-disabled-by-e10s-other = E10s desactivado
 async-pan-zoom = Encuadre/zoom asíncrono
 apz-none = ninguno
 wheel-enabled = entrada de rueda de ratón activada
@@ -350,5 +365,8 @@ policies-error = Error
 ## Printing section
 
 support-printing-title = Imprimiendo
+support-printing-troubleshoot = Solución de problemas
+support-printing-clear-settings-button = Eliminar los ajustes de impresión guardados
+support-printing-modified-settings = Ajustes de impresión modificados
 support-printing-prefs-name = Nombre
 support-printing-prefs-value = Valor
