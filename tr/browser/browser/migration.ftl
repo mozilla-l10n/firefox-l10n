@@ -54,6 +54,8 @@ import-source-page-title = Ayarları ve verileri içe aktarma
 import-items-page-title = İçe aktarılacak öğeler
 import-items-description = İçe aktarılacak öğeleri seçin:
 import-permissions-page-title = Lütfen { -brand-short-name } izinlerini verin
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS, { -brand-short-name } tarayıcınızın Safari yer işaretlerine erişmesine izin vermenizi istiyor. “Devam et”e tıkladıktan sonra açılan Dosya Aç panelinden “Bookmarks.plist” dosyasını seçin.
 import-migrating-page-title = İçe aktarılıyor…
 import-migrating-description = Aşağıdaki öğeler şu anda içe aktarılıyor…
 import-select-profile-page-title = Profil seçin
