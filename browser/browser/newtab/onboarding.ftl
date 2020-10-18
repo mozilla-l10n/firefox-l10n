@@ -108,7 +108,7 @@ onboarding-multistage-welcome-secondary-button-label = Увійти
 onboarding-multistage-welcome-secondary-button-text = Маєте обліковий запис?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Імпортуйте свої паролі, закладки та <span data-l10n-name="zap">інше</span>
+onboarding-multistage-import-header = Імпортуйте свої паролі, закладки та <span data-l10n-name="zap">інші дані</span>
 onboarding-multistage-import-subtitle = Переходите з іншого браузера? Легко переносьте усе до { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Почати імпортування
 onboarding-multistage-import-secondary-button-label = Не зараз
