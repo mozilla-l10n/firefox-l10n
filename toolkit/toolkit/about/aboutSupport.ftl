@@ -65,6 +65,7 @@ app-basics-service-workers = Зарегистрированные Service Worker
 app-basics-profiles = Профили
 app-basics-launcher-process-status = Запускающий процесс
 app-basics-multi-process-support = Многопроцессные окна
+app-basics-fission-support = Окна Fission
 app-basics-remote-processes-count = Удалённые процессы
 app-basics-enterprise-policies = Корпоративные политики
 app-basics-location-service-key-google = Ключ Службы определения местоположения от Google
@@ -331,6 +332,20 @@ multi-process-status-6 = Отключены неподдерживаемым с�
 multi-process-status-7 = Отключены дополнениями
 multi-process-status-8 = Принудительно отключены
 multi-process-status-unknown = Статус неизвестнен
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Отключено экспериментом
+fission-status-experiment-treatment = Включено экспериментом
+fission-status-disabled-by-e10s-env = Отключено средой
+fission-status-enabled-by-env = Включено средой
+fission-status-disabled-by-safe-mode = Отключено безопасным режимом
+fission-status-enabled-by-default = Включено по умолчанию
+fission-status-disabled-by-default = Отключено по умолчанию
+fission-status-enabled-by-user-pref = Включено пользователем
+fission-status-disabled-by-user-pref = Отключено пользователем
+fission-status-disabled-by-e10s-other = E10s отключено
 async-pan-zoom = Асинхронное панорамирование/зум
 apz-none = нет
 wheel-enabled = включён ввод колесиком
@@ -351,3 +366,12 @@ touch-warning = асинхронный сенсорный ввод отключ�
 policies-inactive = Неактивны
 policies-active = Активны
 policies-error = Ошибка
+
+## Printing section
+
+support-printing-title = Печать
+support-printing-troubleshoot = Решение проблем
+support-printing-clear-settings-button = Удалить сохранённые настройки печати
+support-printing-modified-settings = Изменённые настройки печати
+support-printing-prefs-name = Имя
+support-printing-prefs-value = Значение

@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -295,8 +295,8 @@ identity-https-only-dropdown-off =
     .label = Отключён
 identity-https-only-dropdown-off-temporarily =
     .label = Временно отключён
-identity-https-only-info-turn-on = Включите, если хотите, чтобы { -brand-short-name } по возможности переключался на безопасное соединение.
-identity-https-only-info-turn-off = Если сайт кажется сломанным, вы можете отключить режим «Только HTTPS», чтобы перезагрузить его с использованием незащищённого HTTP.
+identity-https-only-info-turn-on2 = Включите для этого сайта Режим «Только HTTPS», если хотите, чтобы { -brand-short-name } по возможности переключался на безопасное соединение.
+identity-https-only-info-turn-off2 = Если страница кажется сломанной, вы можете отключить для этого сайта режим «Только HTTPS», чтобы перезагрузить его с использованием незащищённого HTTP.
 identity-https-only-info-no-upgrade = Невозможно переключить соединение с HTTP.
 identity-permissions =
     .value = Разрешения
@@ -446,16 +446,21 @@ urlbar-result-action-search-in-private = Искать в приватном ок
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Поиск через { $engine }
+urlbar-result-action-sponsored = Спонсировано
 urlbar-result-action-switch-tab = Перейти на вкладку
 urlbar-result-action-visit = Посетить
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Искать в закладках
-urlbar-result-action-search-history = Искать в журнале
-urlbar-result-action-search-tabs = Искать во вкладках
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Нажмите Tab для поиска с помощью { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Нажмите Tab для поиска в { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -464,6 +469,14 @@ urlbar-result-action-tabtosearch-web = Найдите в { $engine } прямо 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Найдите в { $engine } прямо из адресной строки
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Искать в закладках
+urlbar-result-action-search-history = Искать в журнале
+urlbar-result-action-search-tabs = Искать во вкладках
 
 ## Full Screen and Pointer Lock UI
 
