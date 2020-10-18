@@ -19,3 +19,11 @@
      of the results list to show more hits. -->
 <!ENTITY glodaFacetView.pageMore.label "Máis &#187;">
 
+<!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.label2): The
+     label for the button/link that causes us to display all of the emails in
+     the active set in a new thread pane display tab. -->
+<!ENTITY glodaFacetView.openEmailAsList.label "Amosar os resultados como lista">
+
+<!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
+     The tooltip to display when hovering over the openEmailAsList label. -->
+<!ENTITY glodaFacetView.openEmailAsList.tooltip "Amosa todas as mensaxes do correo electrónico no conxunto activo nunha nova lapela.">

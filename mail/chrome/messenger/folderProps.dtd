@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "m">
+<!ENTITY folderProps.color.label                 "Cor da icona:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Restaurar a cor predeterminada">
 <!ENTITY folderProps.location.label              "Localización:">
 <!ENTITY folderProps.location.accesskey          "L">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilexios…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Ten os seguintes permisos:">
+<!ENTITY folderOtherUsers.label                  "Outras persoas con acceso a este cartafol:">
 <!ENTITY folderType.label                        "Tipo de cartafol:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
