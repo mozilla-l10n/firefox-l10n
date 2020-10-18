@@ -15,9 +15,24 @@ about-config-intro-warning-button = Atzeta s'arriscu e sighi
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Sa modìfica de custas preferèntzias podet tènnere un'efetu in s'efitzèntzia o in sa seguresa de { -brand-short-name }.
 about-config-page-title = Preferèntzias avantzadas
+about-config-search-input1 =
+    .placeholder = Chirca su nòmine de sa preferèntzia
+about-config-show-all = Ammustra totu
+about-config-pref-add-button =
+    .title = Agiùnghe
+about-config-pref-toggle-button =
+    .title = Càmbia
+about-config-pref-edit-button =
+    .title = Modìfica
+about-config-pref-save-button =
+    .title = Sarva
+about-config-pref-delete-button =
+    .title = Cantzella
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-number = Nùmeru
+about-config-pref-add-type-string = Istringa
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -26,3 +41,7 @@ about-config-page-title = Preferèntzias avantzadas
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } predefinidu
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } personalizadu
