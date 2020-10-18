@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Zaten hesabınız var mı?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Giriş yap
 onboarding-start-browsing-button-label = Gezinmeye başla
+onboarding-not-now-button-label = Daha sonra
 onboarding-cards-dismiss =
     .title = Kapat
     .aria-label = Kapat
