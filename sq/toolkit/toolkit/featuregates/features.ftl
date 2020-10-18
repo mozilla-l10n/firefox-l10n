@@ -38,3 +38,10 @@ experimental-features-css-focus-visible =
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = API Web: Akt beforeinput
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Shtimi i një konstruktori te ndërfaqja <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, si edhe e një larmie ndryshimesh të lidhura me të, bëjnë të mundur të krijohen drejtpërsëdrejti fletëstile të rinj, pa u dashur të shtohet fleta te HTML-ja. Kjo e bën shumë më të lehtë krijimin e fletëstileve të ripërdorshëm për përdorim me <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1520690</a>.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Mjete Zhvilluesi: Simulim Skeme Ngjyrash
