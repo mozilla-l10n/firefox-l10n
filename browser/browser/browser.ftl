@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Minder typen, meer vinden: direct zoeken bij { $engineName } vanaf uw adresbalk.
 urlbar-search-tips-redirect-2 = Begin in de adresbalk met zoeken om suggesties van { $engineName } en uit uw browsergeschiedenis te zien.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Selecteer deze snelkoppeling om sneller te vinden wat u nodig hebt.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -295,6 +298,8 @@ identity-https-only-dropdown-off =
     .label = Uit
 identity-https-only-dropdown-off-temporarily =
     .label = Tijdelijk uit
+identity-https-only-info-turn-on2 = Schakel Alleen-HTTPS voor deze website in als u wilt dat { -brand-short-name } indien mogelijk de verbinding upgradet.
+identity-https-only-info-turn-off2 = Als de website niet lijkt te werken, dan kunt u de Alleen-HTTPS-modus voor deze website uit te schakelen en de pagina te vernieuwen met het onveilige HTTP.
 identity-https-only-info-no-upgrade = Kan HTTP-verbinding niet upgraden.
 identity-permissions =
     .value = Toestemmingen
@@ -447,6 +452,18 @@ urlbar-result-action-search-w-engine = Zoeken met { $engine }
 urlbar-result-action-sponsored = Gesponsord
 urlbar-result-action-switch-tab = Wisselen naar tabblad
 urlbar-result-action-visit = Bezoeken
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Druk op Tab om te zoeken met { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Druk op Tab om te zoeken met { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
