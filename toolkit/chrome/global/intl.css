@@ -56,12 +56,6 @@ parsererror {
   text-align: right !important;
 }
 
-/* set LTR for login and password dialogs  */
-
-#password1Textbox, #password2Textbox, #loginTextbox
-{
-	direction: ltr !important;
-}
 
 /********************
 **  Thunderbird  **
