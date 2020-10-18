@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Nhập ít hơn, tìm thêm: Tìm kiếm { $engineName } ngay từ thanh địa chỉ của bạn.
 urlbar-search-tips-redirect-2 = Bắt đầu tìm kiếm của bạn trong thanh địa chỉ để xem các đề xuất từ { $engineName } và lịch sử duyệt web của bạn.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Chọn phím tắt này để tìm những gì bạn cần nhanh hơn.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -285,8 +288,8 @@ identity-https-only-dropdown-off =
     .label = Tắt
 identity-https-only-dropdown-off-temporarily =
     .label = Tắt tạm thời
-identity-https-only-info-turn-on = Bật nếu bạn muốn { -brand-short-name } nâng cấp lên kết nối an toàn khi có thể.
-identity-https-only-info-turn-off = Nếu trang web có vẻ bị lỗi, bạn có thể muốn tắt Chế độ chỉ HTTPS để tải lại bằng chế độ không an toàn HTTP.
+identity-https-only-info-turn-on2 = Bật Chế độ chỉ HTTPS cho trang web này nếu bạn muốn { -brand-short-name } nâng cấp kết nối khi có thể.
+identity-https-only-info-turn-off2 = Nếu trang có vẻ bị hỏng, bạn có thể tắt Chế độ chỉ HTTPS để trang web này tải lại sử dụng HTTP không an toàn.
 identity-https-only-info-no-upgrade = Không thể nâng cấp kết nối từ HTTP.
 identity-permissions =
     .value = Quyền hạn
@@ -436,16 +439,21 @@ urlbar-result-action-search-in-private = Tìm kiếm trong cửa sổ riêng tư
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Tìm với { $engine }
+urlbar-result-action-sponsored = Được tài trợ
 urlbar-result-action-switch-tab = Chuyển sang thẻ
 urlbar-result-action-visit = Truy cập
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Tìm kiếm dấu trang
-urlbar-result-action-search-history = Tìm kiếm lịch sử
-urlbar-result-action-search-tabs = Tìm kiếm thẻ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Nhấn Tab để tìm kiếm bằng { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Nhấn Tab để tìm kiếm { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -454,6 +462,14 @@ urlbar-result-action-tabtosearch-web = Tìm kiếm với { $engine } trực ti�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Tìm kiếm { $engine } trực tiếp từ thanh địa chỉ
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Tìm kiếm dấu trang
+urlbar-result-action-search-history = Tìm kiếm lịch sử
+urlbar-result-action-search-tabs = Tìm kiếm thẻ
 
 ## Full Screen and Pointer Lock UI
 

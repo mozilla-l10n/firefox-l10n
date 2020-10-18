@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Đã có một tài khoản?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Đăng nhập
 onboarding-start-browsing-button-label = Bắt đầu duyệt web
+onboarding-not-now-button-label = Không phải bây giờ
 onboarding-cards-dismiss =
     .title = Bỏ qua
     .aria-label = Bỏ qua

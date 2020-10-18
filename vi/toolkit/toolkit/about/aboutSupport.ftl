@@ -65,6 +65,7 @@ app-basics-service-workers = Các Service Worker đã đăng ký
 app-basics-profiles = Tiểu sử
 app-basics-launcher-process-status = Quá trình khởi chạy
 app-basics-multi-process-support = Các cửa sổ đa tiến trình
+app-basics-fission-support = Fission Windows
 app-basics-remote-processes-count = Tiến trình từ xa
 app-basics-enterprise-policies = Chính sách doanh nghiệp
 app-basics-location-service-key-google = Khóa dịch vụ định vị Google
@@ -306,6 +307,20 @@ multi-process-status-6 = Vô hiệu hóa bởi nhập văn bản không được
 multi-process-status-7 = Vô hiệu hóa bởi các tiện ích
 multi-process-status-8 = Bắt buộc vô hiệu hóa
 multi-process-status-unknown = Tình trạng không xác định
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Đã tắt bởi thử nghiệm
+fission-status-experiment-treatment = Đã bật bởi thử nghiệm
+fission-status-disabled-by-e10s-env = Đã tắt bởi môi trường
+fission-status-enabled-by-env = Đã bật bởi môi trường
+fission-status-disabled-by-safe-mode = Đã tắt bởi chế độ an toàn
+fission-status-enabled-by-default = Đã bật theo mặc định
+fission-status-disabled-by-default = Đã tắt theo mặc định
+fission-status-enabled-by-user-pref = Đã bật bởi người dùng
+fission-status-disabled-by-user-pref = Đã tắt bởi người dùng
+fission-status-disabled-by-e10s-other = E10s bị vô hiệu hóa
 async-pan-zoom = Pan/Zoom không đồng bộ
 apz-none = không có
 wheel-enabled = con lăn đã bật
