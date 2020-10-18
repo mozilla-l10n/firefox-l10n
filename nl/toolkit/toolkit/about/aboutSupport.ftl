@@ -68,6 +68,7 @@ app-basics-service-workers = Geregistreerde Service Workers
 app-basics-profiles = Profielen
 app-basics-launcher-process-status = Launcher-proces
 app-basics-multi-process-support = Multiprocess-vensters
+app-basics-fission-support = Fission Windows
 app-basics-remote-processes-count = Externe processen
 app-basics-enterprise-policies = Bedrijfsbeleidsregels
 app-basics-location-service-key-google = Google-locatieservicesleutel
@@ -329,6 +330,20 @@ multi-process-status-6 = Uitgeschakeld door niet-ondersteunde tekstinvoer
 multi-process-status-7 = Uitgeschakeld door add-ons
 multi-process-status-8 = Geforceerd uitgeschakeld
 multi-process-status-unknown = Onbekende status
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Uitgeschakeld door experiment
+fission-status-experiment-treatment = Ingeschakeld door experiment
+fission-status-disabled-by-e10s-env = Uitgeschakeld door omgeving
+fission-status-enabled-by-env = Ingeschakeld door omgeving
+fission-status-disabled-by-safe-mode = Uitgeschakeld door veilige modus
+fission-status-enabled-by-default = Standaard ingeschakeld
+fission-status-disabled-by-default = Standaard uitgeschakeld
+fission-status-enabled-by-user-pref = Ingeschakeld door gebruiker
+fission-status-disabled-by-user-pref = Uitgeschakeld door gebruiker
+fission-status-disabled-by-e10s-other = E10s uitgeschakeld
 async-pan-zoom = Asynchroon pannen/zoomen
 apz-none = geen
 wheel-enabled = wielinvoer ingeschakeld
