@@ -10,6 +10,8 @@ preferences-title =
             [windows] 설정
            *[other] 환경설정
         }
+category-list =
+    .aria-label = 분류
 pane-general-title = 일반
 category-general =
     .tooltiptext = { pane-general-title }
