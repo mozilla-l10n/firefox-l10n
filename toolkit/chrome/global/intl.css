@@ -45,18 +45,12 @@ parsererror {
     Set LTR for url and file paths and align them to the right - Bug 289934
     Updates:
     - Removed #downloadFolder (bug 1457720).
+    - Removed the authentication dialog's textboxes (bug 1666595 and 1666594).
 */
 
 #source, #path, #url, #feedurl, #urltext {
   direction: ltr !important;
   text-align: right !important;
-}
-
-/* set LTR for login and password dialogs  */
-
-#password1Textbox, #password2Textbox, #loginTextbox
-{
-	direction: ltr !important;
 }
 
 /********************
