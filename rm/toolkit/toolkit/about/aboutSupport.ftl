@@ -68,6 +68,7 @@ app-basics-service-workers = Service Workers registrads
 app-basics-profiles = Profils
 app-basics-launcher-process-status = Process launcher
 app-basics-multi-process-support = Fanestras da plirs process
+app-basics-fission-support = Fanestras Fission
 app-basics-remote-processes-count = Process a distanza
 app-basics-enterprise-policies = Directivas d'interpresa
 app-basics-location-service-key-google = Clav dal servetsch da localisaziun da Google
@@ -329,6 +330,20 @@ multi-process-status-6 = Deactivà dad ina metoda incumpatibla d'endatar text
 multi-process-status-7 = Deactivà da supplements
 multi-process-status-8 = Deactivà cun forza
 multi-process-status-unknown = Status nunenconuschent
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Deactivà dad experiment
+fission-status-experiment-treatment = Activà dad experiment
+fission-status-disabled-by-e10s-env = Deactivà da l'ambient
+fission-status-enabled-by-env = Activà da l'ambient
+fission-status-disabled-by-safe-mode = Deactivà dal modus segirà
+fission-status-enabled-by-default = Activà tenor standard
+fission-status-disabled-by-default = Deactivà tenor standard
+fission-status-enabled-by-user-pref = Activà da l'utilisader
+fission-status-disabled-by-user-pref = Deactivà da l'utilisader
+fission-status-disabled-by-e10s-other = E10s deactivà
 async-pan-zoom = Zoom asincron
 apz-none = nagin
 wheel-enabled = input da la rodina activà
@@ -349,3 +364,12 @@ touch-warning = l'input tactil asincron è deactivà pervia dad ina preferenza b
 policies-inactive = Inactiv
 policies-active = Activ
 policies-error = Errur
+
+## Printing section
+
+support-printing-title = Stampar
+support-printing-troubleshoot = Schliar problems
+support-printing-clear-settings-button = Stizzar ils parameters da stampa memorisads
+support-printing-modified-settings = Parameters da stampa modifitgads
+support-printing-prefs-name = Num
+support-printing-prefs-value = Valur

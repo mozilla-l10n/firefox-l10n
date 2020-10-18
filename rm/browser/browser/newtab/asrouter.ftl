@@ -252,7 +252,7 @@ cfr-doorhanger-doh-secondary-button = Deactivar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name } ha activà la nova funcziunalitad experimentala «Fission» (isolaziun da websites). Cun isolar mintga website en in process separà, porscha Fission in nivel supplementar da segirezza per tai e las websites che ti visitas.
+cfr-doorhanger-fission-body-approved = Tia sfera privata è impurtanta. { -brand-short-name } isolescha ussa websites ina da l'autra. Quai renda pli difficil a hackers dad engular pleds-clav, numers da cartas da credit ed autras infurmaziuns sensiblas.
 cfr-doorhanger-fission-header = Isolaziun da websites
 cfr-doorhanger-fission-primary-button = OK, chapì
     .accesskey = O

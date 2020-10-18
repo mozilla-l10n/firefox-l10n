@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tippar main e chattar dapli: Tschertga cun { $engineName } directamain en la trav d'adressas.
 urlbar-search-tips-redirect-2 = Cumenza tia tschertga en la trav d'adressas per laschar mussar propostas da { $engineName } e propostas ord tia cronologia.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Tscherna questa scursanida per chattar pli svelt quai che ta serva.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,8 @@ identity-https-only-dropdown-off =
     .label = Deactivà
 identity-https-only-dropdown-off-temporarily =
     .label = Deactivà temporarmain
-identity-https-only-info-turn-on = Activar per che { -brand-short-name } midia sche pussaivel ad ina connexiun segira.
-identity-https-only-info-turn-off = Sche la website na funcziunescha betg endretg, pos ti empruvar da deactivar il modus mo HTTPS per rechargiar cun HTTP betg segirà.
+identity-https-only-info-turn-on2 = Activescha il modus mo HTTPS per questa website sche ti vuls che { -brand-short-name } midia sche pussaivel ad ina connexiun segira.
+identity-https-only-info-turn-off2 = Sche la pagina na funcziunescha betg endretg, pos ti empruvar da deactivar il modus mo HTTPS per questa website per rechargiar cun HTTP betg segirà.
 identity-https-only-info-no-upgrade = Impussibel da remplazzar la connexiun HTTP.
 identity-permissions =
     .value = Autorisaziuns
@@ -444,16 +447,21 @@ urlbar-result-action-search-in-private = Tschertgar en ina fanestra privata
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Tschertgar cun { $engine }
+urlbar-result-action-sponsored = Sponsurisà
 urlbar-result-action-switch-tab = Midar al tab
 urlbar-result-action-visit = Visitar
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Tschertgar en ils segnapaginas
-urlbar-result-action-search-history = Tschertgar en la cronologia
-urlbar-result-action-search-tabs = Tschertgar en ils tabs
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Smatgar la tasta dals tabulaturs per tschertgar cun { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Smatgar la tasta dals tabulaturs per tschertgar en { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +470,14 @@ urlbar-result-action-tabtosearch-web = Tschertgar cun { $engine } direct en la t
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Tschertgar en { $engine } direct en la trav d'adressas
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Tschertgar en ils segnapaginas
+urlbar-result-action-search-history = Tschertgar en la cronologia
+urlbar-result-action-search-tabs = Tschertgar en ils tabs
 
 ## Full Screen and Pointer Lock UI
 

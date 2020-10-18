@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Cumenzar
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Bainvegni a { -brand-short-name }
 onboarding-welcome-body = Ti has gia il navigatur.<br/>Emprenda d'enconuscher tschels products da { -brand-product-name }.
 onboarding-welcome-learn-more = Ve a savair dapli davart ils avantatgs.
@@ -36,9 +44,58 @@ onboarding-join-form-signin-label = Ti has gia in conto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = S'annunziar
 onboarding-start-browsing-button-label = Cumenzar a navigar
+onboarding-not-now-button-label = Betg ussa
 onboarding-cards-dismiss =
     .title = Sbittar
     .aria-label = Sbittar
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Scuvrin tut quai che ti pos far.
+onboarding-fullpage-form-email =
+    .placeholder = Tia adressa d'e-mail…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Prenda { -brand-product-name } cun tai
+onboarding-sync-welcome-content = Acceda cun tut tes apparats a tes segnapaginas, a la cronologia, als pleds-clav ed ad autras preferenzas.
+onboarding-sync-welcome-learn-more-link = Ulteriuras infurmaziuns davart contos da Firefox
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Cuntinuar
+onboarding-sync-form-skip-login-button = Sursiglir quest pass
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Endatescha tia adressa dad e-mail
+onboarding-sync-form-sub-header = per cuntinuar cun { -sync-brand-name }.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Fa tias chaussas online cun ina paletta dad utensils che resguardan tia sfera privata sin tut tes apparats.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Per tut quai che nus faschain, vala l'empermischun areguard las datas persunalas: Rimnar pauc, memorisar a moda segira e na zuppentar nagut.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Prenda cun tai tes segnapaginas, tes pleds-clav e tia cronologia dapertut là, nua che ti utiliseschas { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Retschaiva in avis en cas che tias datas privatas èn pertutgadas dad ina sperdita da datas enconuschenta.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Administrescha tes pleds-clav uschia ch'els èn protegids e portabels.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Stupent, ussa has ti { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Pertge n'emprovas ti ussa betg <img data-l10n-name="icon"/> <b>{ $addon-name }</b>?
+return-to-amo-add-extension-label = Agiuntar l'extensiun
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +129,6 @@ onboarding-multistage-theme-primary-button-label = Memorisar il design
 onboarding-multistage-theme-secondary-button-label = Betg ussa
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatic
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Utilisar il design dal sistem
 onboarding-multistage-theme-label-light = Cler
 onboarding-multistage-theme-label-dark = Stgir
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +139,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Surpigliar l'apparientscha da tes sistem
-        operativ per buttuns, menus e fanestras.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Utilisar ina apparientscha clera per buttuns,
-        menus e fanestras.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Utilisar ina apparientscha stgira per buttuns,
-        menus e fanestras.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Utilisar ina apparientscha giaglia per buttuns,
-        menus e fanestras.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +179,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utilisar ina apparientscha giaglia per buttuns,
         menus e fanestras.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Scuvrin tut quai che ti pos far.
-onboarding-fullpage-form-email =
-    .placeholder = Tia adressa d'e-mail…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Prenda { -brand-product-name } cun tai
-onboarding-sync-welcome-content = Acceda cun tut tes apparats a tes segnapaginas, a la cronologia, als pleds-clav ed ad autras preferenzas.
-onboarding-sync-welcome-learn-more-link = Ulteriuras infurmaziuns davart contos da Firefox
-onboarding-sync-form-input =
-    .placeholder = E-mail
-onboarding-sync-form-continue-button = Cuntinuar
-onboarding-sync-form-skip-login-button = Sursiglir quest pass
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Endatescha tia adressa dad e-mail
-onboarding-sync-form-sub-header = per cuntinuar cun { -sync-brand-name }.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Fa tias chaussas online cun ina paletta dad utensils che resguardan tia sfera privata sin tut tes apparats.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Per tut quai che nus faschain, vala l'empermischun areguard las datas persunalas: Rimnar pauc, memorisar a moda segira e na zuppentar nagut.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Prenda cun tai tes segnapaginas, tes pleds-clav e tia cronologia dapertut là, nua che ti utiliseschas { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Retschaiva in avis en cas che tias datas privatas èn pertutgadas dad ina sperdita da datas enconuschenta.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Administrescha tes pleds-clav uschia ch'els èn protegids e portabels.
 
 ## These strings belong to the individual onboarding messages.
 
