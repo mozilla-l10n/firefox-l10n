@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -295,8 +295,6 @@ identity-https-only-dropdown-off =
     .label = Uit
 identity-https-only-dropdown-off-temporarily =
     .label = Tijdelijk uit
-identity-https-only-info-turn-on = Schakel dit in als u wilt dat { -brand-short-name } indien mogelijk upgradet naar een beveiligde verbinding.
-identity-https-only-info-turn-off = Als de website niet lijkt te werken, dan kunt u proberen de Alleen-HTTPS-modus uit te schakelen en de pagina te vernieuwen met het onveilige HTTP.
 identity-https-only-info-no-upgrade = Kan HTTP-verbinding niet upgraden.
 identity-permissions =
     .value = Toestemmingen
@@ -446,16 +444,9 @@ urlbar-result-action-search-in-private = Zoeken in een privévenster
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Zoeken met { $engine }
+urlbar-result-action-sponsored = Gesponsord
 urlbar-result-action-switch-tab = Wisselen naar tabblad
 urlbar-result-action-visit = Bezoeken
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
-urlbar-result-action-search-history = Geschiedenis doorzoeken
-urlbar-result-action-search-tabs = Tabbladen doorzoeken
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -464,6 +455,14 @@ urlbar-result-action-tabtosearch-web = Met { $engine } rechtstreeks vanuit de ad
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = { $engine } rechtstreeks vanuit de adresbalk doorzoeken
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
+urlbar-result-action-search-history = Geschiedenis doorzoeken
+urlbar-result-action-search-tabs = Tabbladen doorzoeken
 
 ## Full Screen and Pointer Lock UI
 

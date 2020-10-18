@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Hebt u al een account?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Aanmelden
 onboarding-start-browsing-button-label = Beginnen met browsen
+onboarding-not-now-button-label = Niet nu
 onboarding-cards-dismiss =
     .title = Verwijderen
     .aria-label = Verwijderen
