@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Teipio llai, canfod mwy: Chwiliwch gyda { $engineName } yn syth o'ch bar cyfeiriad.
 urlbar-search-tips-redirect-2 = Cychwynnwch eich chwilio yma i weld awgrymiadau gan { $engineName } a'ch hanes pori.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Dewiswch y llwybr byr hwn i ddod o hyd i'r hyn sydd ei angen arnoch yn gynt.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -301,8 +304,8 @@ identity-https-only-dropdown-off =
     .label = Diffodd
 identity-https-only-dropdown-off-temporarily =
     .label = Diffodd dros dro
-identity-https-only-info-turn-on = Trowch ymlaen os ydych chi am i { -brand-short-name } uwchraddio i gysylltiad diogel pan fo hynny'n bosibl.
-identity-https-only-info-turn-off = Os yw'r wefan yn ymddangos wedi torri, efallai yr hoffech ddiffodd Modd HTTPS-yn-Unig i'w ail-lwytho gan ddefnyddio HTTP anniogel.
+identity-https-only-info-turn-on2 = Trowch y Modd HTTPS-yn-Unig ymlaen os ydych chi am i { -brand-short-name } uwchraddio'r cysylltiad lle'n bosibl.
+identity-https-only-info-turn-off2 = Os yw'r wefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd Modd HTTPS-yn-Unig i'w ail-lwytho gan ddefnyddio HTTP anniogel.
 identity-https-only-info-no-upgrade = Methu uwchraddio'r cysylltiad o HTTP.
 identity-permissions =
     .value = Caniatâd
@@ -452,16 +455,21 @@ urlbar-result-action-search-in-private = Chwilio mewn Ffenestr Breifat
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Chwilio gyda { $engine }
+urlbar-result-action-sponsored = Noddwyd
 urlbar-result-action-switch-tab = Newid i'r Tab
 urlbar-result-action-visit = Ymweld â
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
-urlbar-result-action-search-history = Chwilio'r Hanes
-urlbar-result-action-search-tabs = Chwilio'r Tabiau
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Pwyswch Tab i chwilio gyda { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Pwyswch Tab i chwilio gyda { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -470,6 +478,14 @@ urlbar-result-action-tabtosearch-web = Chwilio gyda { $engine } yn syth o'r bar 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Chwilio gyda { $engine } yn syth o'r bar cyfeiriad
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
+urlbar-result-action-search-history = Chwilio'r Hanes
+urlbar-result-action-search-tabs = Chwilio'r Tabiau
 
 ## Full Screen and Pointer Lock UI
 
