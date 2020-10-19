@@ -163,7 +163,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.label                                 "Axenda de enderezos">
 <!ENTITY Addrbook.accesskey                             "x">
 <!ENTITY GeneratedName.label                            "Nome">
-<!ENTITY GeneratedName.accesskey                        "e">
+<!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Correo electrónico">
 <!ENTITY PrimaryEmail.accesskey                         "e">
 <!ENTITY ChatName.label                                 "Nome das conversas">

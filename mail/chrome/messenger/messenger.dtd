@@ -300,7 +300,7 @@
 <!ENTITY nextMenu.label "Seguinte">
 <!ENTITY nextMenu.accesskey "n">
 <!ENTITY nextMsgCmd.label "Mensaxe">
-<!ENTITY nextMsgCmd.accesskey "x">
+<!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Mensaxe non lida">
 <!ENTITY nextUnreadMsgCmd.accesskey "x">
@@ -313,7 +313,7 @@
 <!ENTITY prevMenu.label "Anterior">
 <!ENTITY prevMenu.accesskey "A">
 <!ENTITY prevMsgCmd.label "Mensaxe">
-<!ENTITY prevMsgCmd.accesskey "x">
+<!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Mensaxe non lida">
 <!ENTITY prevUnreadMsgCmd.accesskey "e">
@@ -338,11 +338,11 @@
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Mensaxe">
-<!ENTITY msgMenu.accesskey "x">
+<!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nova mensaxe">
-<!ENTITY newMsgCmd.accesskey "m">
+<!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Mensaxe">
-<!ENTITY newNewMsgCmd.accesskey "x">
+<!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Arquivo">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
@@ -384,9 +384,9 @@
 <!ENTITY moveMsgToMenu.label "Mover a">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Recente">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "c">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copiar localización da mensaxe">
-<!ENTITY copyMessageLocation.accesskey "z">
+<!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "Copiar en">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Mover de novo">
