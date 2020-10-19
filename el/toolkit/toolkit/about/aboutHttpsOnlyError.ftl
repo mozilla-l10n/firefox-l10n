@@ -13,6 +13,7 @@ about-httpsonly-title = Το { -brand-short-name } εντόπισε πιθανό
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable = Περιηγείστε σε λειτουργία μόνο-HTTPS και δεν διατίθεται ασφαλής έκδοση HTTPS του <em>{ $websiteUrl }</em>.
+about-httpsonly-title-alert = Ειδοποίηση λειτουργίας Μόνο-HTTPS
 about-httpsonly-title-connection-not-available = Μη διαθέσιμη ασφαλής σύνδεση
 about-httpsonly-explanation-question = Τι μπορεί να το προκαλεί αυτό;
 about-httpsonly-explanation-nosupport = Πιθανότατα, η ιστοσελίδα απλά δεν υποστηρίζει HTTPS.
