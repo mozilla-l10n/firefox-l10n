@@ -436,12 +436,12 @@
 <!ENTITY markAsJunkCmd.accesskey "x">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Como normal">
-<!ENTITY markAsNotJunkCmd.accesskey "m">
+<!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Executar controis de correo lixo">
 <!ENTITY recalculateJunkScoreCmd.accesskey "x">
 <!ENTITY openMessageWindowCmd.label "Abrir mensaxe">
-<!ENTITY openMessageWindowCmd.accesskey "m">
+<!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openInConversationCmd.label "Abrir na conversa">
 <!ENTITY openInConversationCmd.accesskey "s">
@@ -476,17 +476,17 @@
 <!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Non se atopou a configuración dos complementos.">
 <!ENTITY activitymanager.label "Xestor de actividade">
-<!ENTITY activitymanager.accesskey "X">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Estado das conversas">
-<!ENTITY imAccountsStatus.accesskey "E">
+<!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available          "Dispoñíbel">
 <!ENTITY imStatus.unavailable        "Non dispoñíbel">
 <!ENTITY imStatus.offline            "Desconectado">
 <!ENTITY imStatus.showAccounts       "Amosar as contas…">
 <!ENTITY joinChatCmd.label "Entrar na conversa…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Ficheiros gardados">
-<!ENTITY savedFiles.accesskey "h">
+<!ENTITY savedFiles.accesskey "I">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Filtros de mensaxes">
 <!ENTITY filtersCmd2.accesskey "F">
@@ -497,13 +497,13 @@
 <!ENTITY filtersApplyToMessage.label "Executar filtros nas mensaxes">
 <!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "Executar controis de correo lixo no cartafol">
-<!ENTITY runJunkControls.accesskey "n">
+<!ENTITY runJunkControls.accesskey "C">
 <!ENTITY deleteJunk.label "Eliminar o correo marcado como lixo do cartafol">
 <!ENTITY deleteJunk.accesskey "d">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY clearRecentHistory.label "Borrar historial recente…">
-<!ENTITY clearRecentHistory.accesskey "B">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Configuración da conta">
 <!ENTITY accountManagerCmd2.accesskey "g">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
