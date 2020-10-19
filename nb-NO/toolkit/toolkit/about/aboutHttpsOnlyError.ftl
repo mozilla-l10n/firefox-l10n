@@ -13,10 +13,16 @@ about-httpsonly-title = { -brand-short-name } oppdaget et potensielt sikkerhetsp
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable = Du surfer i moduset «Kun HTTPS» (HTTPS-Only), og en sikker HTTPS-versjon av <em>{ $websiteUrl }</em> er ikke tilgjengelig.
+about-httpsonly-title-alert = Kun-HTTPS-modus-advarsel
+about-httpsonly-title-connection-not-available = Sikker tilkobling ikke tilgjengelig
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Du har aktivert kun-HTTPS-modus for forbedret sikkerhet, og en HTTPS-versjon av <em>{ $websiteUrl }</em> er ikke tilgjengelig.
 about-httpsonly-explanation-question = Hva kan være årsaken til dette?
 about-httpsonly-explanation-nosupport = Mest sannsynlig støtter nettstedet ganske enkelt ikke HTTPS.
 about-httpsonly-explanation-risk = Det er også mulig at en angriper er involvert. Hvis du bestemmer deg for å besøke nettstedet, bør du ikke oppgi sensitiv informasjon som passord, e-post eller betalingskortinformasjon.
 about-httpsonly-button-accept-and-continue = Godta risikoen og fortsett
+about-httpsonly-explanation-continue = Hvis du fortsetter, blir kun-HTTPS-modus slått av midlertidig for dette nettstedet.
 about-httpsonly-button-continue-to-site = Fortsett til HTTP-nettstedet
 about-httpsonly-button-go-back = Gå tilbake
 about-httpsonly-link-learn-more = Les mer…
