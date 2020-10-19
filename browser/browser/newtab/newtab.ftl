@@ -51,6 +51,10 @@ newtab-confirm-delete-history-p1 = למחוק כל עותק של העמוד הז
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = לא ניתן לבטל פעולה זו.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = ממומן
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
