@@ -390,13 +390,13 @@
 <!ENTITY copyMsgToMenu.label "Copiar en">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Mover de novo">
-<!ENTITY moveToFolderAgain.accesskey "M">
+<!ENTITY moveToFolderAgain.accesskey "e">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorar fío">
-<!ENTITY killThreadMenu.accesskey "a">
+<!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorar fío secundario">
-<!ENTITY killSubthreadMenu.accesskey "n">
+<!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Amosar fío">
 <!ENTITY watchThreadMenu.accesskey "f">
@@ -414,8 +414,8 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcar">
-<!ENTITY markMenu.accesskey "M">
-<!ENTITY toggleReadCmd.key "z">
+<!ENTITY markMenu.accesskey "c">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Como lida">
 <!ENTITY markAsReadCmd.accesskey "C">
 <!ENTITY markAsUnreadCmd.label "Como non lido">
@@ -430,7 +430,7 @@
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Engadir estrela">
-<!ENTITY markStarredCmd.accesskey "n">
+<!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Como lixo">
 <!ENTITY markAsJunkCmd.accesskey "x">
