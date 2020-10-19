@@ -65,6 +65,7 @@ app-basics-service-workers = Service Workers Cofrestredig
 app-basics-profiles = Proffiliau
 app-basics-launcher-process-status = Proses Lansio
 app-basics-multi-process-support = Ffenestri Amlbroses
+app-basics-fission-support = Ffenestri Fission
 app-basics-remote-processes-count = Prosesau Pell
 app-basics-enterprise-policies = Polisïau Mentrau
 app-basics-location-service-key-google = Allwedd Google Location Service
@@ -346,6 +347,20 @@ multi-process-status-6 = Analluogwyd gan fewnbwn testun heb ei gynnal
 multi-process-status-7 = Analluogwyd gan ychwanegion
 multi-process-status-8 = Analluogi gorfodol
 multi-process-status-unknown = Statws anhysbys
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Analluogwyd trwy arbrawf
+fission-status-experiment-treatment = Galluogwyd trwy arbrawf
+fission-status-disabled-by-e10s-env = Analluogwyd gan yr amgylchedd
+fission-status-enabled-by-env = Galluogwyd gan yr amgylchedd
+fission-status-disabled-by-safe-mode = Analluogwyd gan y modd diogel
+fission-status-enabled-by-default = Galluogwyd drwy ragosodiad
+fission-status-disabled-by-default = Analluogwyd drwy ragosodiad
+fission-status-enabled-by-user-pref = Galluogwyd gan y defnyddiwr
+fission-status-disabled-by-user-pref = Analluogwyd gan y defnyddiwr
+fission-status-disabled-by-e10s-other = E10s wedi ei analluogi
 async-pan-zoom = Chwyddo a Thremio Anghydamseredig
 apz-none = dim
 wheel-enabled = mewnbwn olwyn wedi ei alluogi
