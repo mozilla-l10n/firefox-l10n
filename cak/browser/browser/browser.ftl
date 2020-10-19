@@ -447,6 +447,7 @@ urlbar-result-action-search-in-private = Tikanöx pa jun Ichinan Tzuwäch
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Tikanöx pa { $engine }
+urlbar-result-action-sponsored = To'on
 urlbar-result-action-switch-tab = Tijalwachïx chi ruwi'
 urlbar-result-action-visit = Titz'et
 # Directs a user to press the Tab key to perform a search with the specified
