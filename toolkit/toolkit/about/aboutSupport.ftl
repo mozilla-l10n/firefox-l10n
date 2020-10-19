@@ -68,6 +68,7 @@ app-basics-service-workers = Angemeldete Service-Worker
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Starter-Prozess
 app-basics-multi-process-support = Fenster mit mehreren Prozessen
+app-basics-fission-support = Fission-Fenster
 app-basics-remote-processes-count = Externe Prozesse
 app-basics-enterprise-policies = Unternehmensrichtlinien
 app-basics-location-service-key-google = Google-Location-Service-Schlüssel
@@ -329,6 +330,10 @@ multi-process-status-6 = deaktiviert wegen nicht unterstützter Texteingabemetho
 multi-process-status-7 = deaktiviert wegen Add-ons
 multi-process-status-8 = Deaktivierung erzwungen
 multi-process-status-unknown = unbekannter Status
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-experiment-control = Durch Experiment deaktiviert
 fission-status-experiment-treatment = Durch Experiment aktiviert
 fission-status-disabled-by-e10s-env = Durch Umgebung deaktiviert
@@ -338,6 +343,7 @@ fission-status-enabled-by-default = Standardmäßig aktiviert
 fission-status-disabled-by-default = Standardmäßig deaktiviert
 fission-status-enabled-by-user-pref = Vom Benutzer aktiviert
 fission-status-disabled-by-user-pref = Vom Benutzer deaktiviert
+fission-status-disabled-by-e10s-other = E10s deaktiviert
 async-pan-zoom = Asynchrones Wischen und Zoomen
 apz-none = nichts
 wheel-enabled = Mausrad-Eingabe aktiviert
