@@ -937,7 +937,7 @@
 <!ENTITY openInBrowser.label "Abrir no navegador">
 <!ENTITY openInBrowser.accesskey "o">
 <!ENTITY openLinkInBrowser.label "Abrir ligazón no navegador">
-<!ENTITY openLinkInBrowser.accesskey "l">
+<!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Feito">
