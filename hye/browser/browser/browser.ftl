@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = ՄուտքագրԷք քիչ, գտէք շատ. որոնեք { $engineName }-ը անմիջապէս հասցէի գոտուց:
 urlbar-search-tips-redirect-2 = Սկսէք Ձեր որոնումը հասցէների դաշտում տեսնելու hամար { $engineName }-ի առաջարկները եւ Ձեր դիտարկումների պատմութիւնը։
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Ընտրէք այս դիւրանցումը, որպէսզի ձեր փնտրածն աւելի արագ գտնէք։
 
 ## Local search mode indicator labels in the urlbar
 
@@ -285,6 +288,15 @@ identity-passive-loaded = Այս էջի մասերը անվտանգ չէն (օր
 identity-active-loaded = Դուք անջատել եք պաշտպանութիւնը այս էջում:
 identity-weak-encryption = Այս էջը աւգտագործում է թոյլ գաղտնագրում:
 identity-insecure-login-forms = Այս էջից մուտքագրումները կարող են վտանգուած լինել:
+identity-https-only-connection-upgraded = (Նորացրած HTTPS -ը)
+identity-https-only-label = «Միայն HTTPS» աշխատակերպ
+identity-https-only-dropdown-on =
+    .label = Միացնել
+identity-https-only-dropdown-off =
+    .label = Անջատել
+identity-https-only-dropdown-off-temporarily =
+    .label = Անջատել ժամանակաւորապէս
+identity-https-only-info-turn-on2 = Միացնել HTTPS-Only կերպն այս կայքի համար, եթե ուզում էք, որպէսզի { -brand-short-name }֊ը հնարաւորութեան դէպքում կապը թարմացուի։
 identity-permissions =
     .value = Արտոնութիւններ
 identity-permissions-reload-hint = Ձեզ անհրաժեշտ կլինի թարմացնել էջը, որպէսզի կիրառուեն փոփոխութիւններ։
@@ -435,14 +447,6 @@ urlbar-result-action-search-in-private = Որոնէք  մասնաւոր պատո
 urlbar-result-action-search-w-engine = Որոնել { $engine }-ով
 urlbar-result-action-switch-tab = Փոխարկել ներդիրը
 urlbar-result-action-visit = Այցելել
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Փնտրել էջանիշերում
-urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
-urlbar-result-action-search-tabs = Փնտրել ներդիրներում
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -451,6 +455,14 @@ urlbar-result-action-tabtosearch-web = Փնտրել { $engine }֊ով անմիջ
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Փնտրել { $engine }֊ում անմիջապէս հասցէգաւտուց
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Փնտրել էջանիշերում
+urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
+urlbar-result-action-search-tabs = Փնտրել ներդիրներում
 
 ## Full Screen and Pointer Lock UI
 
