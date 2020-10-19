@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Ha tu jam un conto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Aperir session
 onboarding-start-browsing-button-label = Comencia a navigar
+onboarding-not-now-button-label = Non ora
 onboarding-cards-dismiss =
     .title = Dimitter
     .aria-label = Dimitter

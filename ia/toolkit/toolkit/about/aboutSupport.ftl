@@ -333,6 +333,10 @@ multi-process-status-unknown = Stato incognite
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-enabled-by-default = Activate per predefinition
+fission-status-disabled-by-default = Disactivate per predefinition
+fission-status-enabled-by-user-pref = Activate per le usator
+fission-status-disabled-by-user-pref = Disactivate per le usator
 async-pan-zoom = Pan/Zoom asynchrone
 apz-none = nulle
 wheel-enabled = entrata a rota activate
