@@ -220,6 +220,7 @@ onboarding-facebook-container-title = הגדרת גבולות מול Facebook
 onboarding-facebook-container-button = הוספת ההרחבה
 onboarding-import-browser-settings-title = ייבוא הסימניות והססמאות שלך, ועוד
 onboarding-import-browser-settings-button = ייבוא נתוני Chrome
+onboarding-personal-data-promise-title = פרטיות מהיסודות
 
 ## Message strings belonging to the Return to AMO flow
 
