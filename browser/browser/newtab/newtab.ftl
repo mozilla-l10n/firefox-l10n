@@ -51,6 +51,10 @@ newtab-confirm-delete-history-p1 = Вы действительно хотите 
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Это действие нельзя отменить.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Спонсировано
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
