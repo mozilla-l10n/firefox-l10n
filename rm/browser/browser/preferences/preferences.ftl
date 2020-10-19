@@ -788,6 +788,10 @@ forms-master-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in
 forms-primary-pw-change =
     .label = Midar il pled-clav universal…
     .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav universal (betg vid).
 forms-master-pw-fips-desc = I n'è betg reussì da midar il pled-clav
 
