@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -293,8 +293,6 @@ identity-https-only-dropdown-off =
     .label = Inactive
 identity-https-only-dropdown-off-temporarily =
     .label = Disactivate temporarimente
-identity-https-only-info-turn-on = Activa si tu vole que { -brand-short-name } passa a un connexion secur quando possibile.
-identity-https-only-info-turn-off = Si le sito non functiona, prova disactivar le modo solo HTTPS e recargar con un connexion HTTP insecur.
 identity-https-only-info-no-upgrade = Impossibile promover le connexion HTTP.
 identity-permissions =
     .value = Permissiones
@@ -444,16 +442,9 @@ urlbar-result-action-search-in-private = Cercar in un fenestra private
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Cercar con { $engine }
+urlbar-result-action-sponsored = Sponsorisate
 urlbar-result-action-switch-tab = Commutar al scheda
 urlbar-result-action-visit = Visitar
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Cercar in le marcapaginas
-urlbar-result-action-search-history = Cercar in le chronologia
-urlbar-result-action-search-tabs = Cercar in schedas
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +453,14 @@ urlbar-result-action-tabtosearch-web = Cercar con { $engine } directemente ab le
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cercar in { $engine } directemente ab le barra de adresses
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Cercar in le marcapaginas
+urlbar-result-action-search-history = Cercar in le chronologia
+urlbar-result-action-search-tabs = Cercar in schedas
 
 ## Full Screen and Pointer Lock UI
 
