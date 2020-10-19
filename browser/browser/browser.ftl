@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -285,6 +285,12 @@ identity-passive-loaded = Dele af denne side (såsom billeder) er ikke sikre.
 identity-active-loaded = Du har slået beskyttelse fra på denne side.
 identity-weak-encryption = Denne side bruger svag kryptering.
 identity-insecure-login-forms = Logins foretaget på denne side kan blive kompromitteret.
+identity-https-only-connection-upgraded = (opgraderet til HTTPS)
+identity-https-only-label = Tilstanden Kun-HTTPS
+identity-https-only-dropdown-on =
+    .label = Til
+identity-https-only-dropdown-off =
+    .label = Fra
 identity-permissions =
     .value = Tilladelser
 identity-permissions-reload-hint = Du skal muligvis genindlæse siden, før at ændringerne slår igennem.
@@ -435,14 +441,6 @@ urlbar-result-action-search-in-private = Søg i et privat vindue
 urlbar-result-action-search-w-engine = Søg med { $engine }
 urlbar-result-action-switch-tab = Skift til faneblad
 urlbar-result-action-visit = Besøg
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Søg i bogmærker
-urlbar-result-action-search-history = Søg i historik
-urlbar-result-action-search-tabs = Søg i faneblade
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -451,6 +449,14 @@ urlbar-result-action-tabtosearch-web = Søg med { $engine } direkte fra adressef
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Søg med { $engine } direkte fra adressefeltet
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Søg i bogmærker
+urlbar-result-action-search-history = Søg i historik
+urlbar-result-action-search-tabs = Søg i faneblade
 
 ## Full Screen and Pointer Lock UI
 
