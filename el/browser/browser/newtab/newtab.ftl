@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Αναζήτηση
     .aria-label = Αναζήτηση
-
 newtab-search-box-search-the-web-text = Αναζήτηση στο διαδίκτυο
 newtab-search-box-search-the-web-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίας
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
     .placeholder = Εισάγετε έναν τίτλο
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Πληκτρολόγηση ή επικόλληση ενός URL
 newtab-topsites-url-validation = Απαιτείται έγκυρο URL
-
 newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
 newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόνας. Δοκιμάστε ένα διαφορετικό URL.
@@ -54,18 +51,20 @@ newtab-confirm-delete-history-p1 = Θέλετε σίγουρα να διαγρά
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Χορηγία
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Άνοιγμα μενού
     .aria-label = Άνοιγμα μενού
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Αφαίρεση
     .aria-label = Αφαίρεση
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -138,12 +137,10 @@ newtab-label-removed-bookmark = Ο σελιδοδείκτης αφαιρέθηκ
 newtab-label-recommended = Τάσεις
 newtab-label-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
 newtab-label-download = Λήψεις
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Χορηγία
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -181,12 +178,10 @@ newtab-section-header-pocket = Προτάσεις του { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ξεκινήστε την περιήγηση και θα σάς δείξουμε μερικά υπέροχα άρθρα, βίντεο και άλλες σελίδες που έχετε επισκεφθεί πρόσφατα ή έχετε προσθέσει στους σελιδοδείκτες σας.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Δεν υπάρχει κάτι νεότερο. Ελέγξτε αργότερα για περισσότερες ιστορίες από τον πάροχο { $provider }. Δεν μπορείτε να περιμένετε; Διαλέξτε κάποιο από τα δημοφιλή θέματα και ανακαλύψτε ενδιαφέρουσες ιστορίες από όλο τον Ιστό.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
