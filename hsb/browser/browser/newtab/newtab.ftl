@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Pytać
     .aria-label = Pytać
-
 newtab-search-box-search-the-web-text = Web přepytać
 newtab-search-box-search-the-web-input =
     .placeholder = Web přepytać
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Najhusćišo wopytane sydło wobdźěła�
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Titul zapodać
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL zapodać abo zasadźić
 newtab-topsites-url-validation = Płaćiwy URL trěbny
-
 newtab-topsites-image-url-label = URL swójskeho wobraza
 newtab-topsites-use-image-link = Swójski wobraz wužiwać…
 newtab-topsites-image-validation = Wobraz njeda so začitać. Spytajće druhi URL.
@@ -54,18 +51,20 @@ newtab-confirm-delete-history-p1 = Chceće woprawdźe kóždu instancu tuteje st
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tuta akcija njeda so cofnyć.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Sponsorowany
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Meni wočinić
     .aria-label = Meni wočinić
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Wotstronić
     .aria-label = Wotstronić
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -138,12 +137,10 @@ newtab-label-removed-bookmark = Zapołožka je so wotstroniła
 newtab-label-recommended = Popularny
 newtab-label-saved = Do { -pocket-brand-name } składowany
 newtab-label-download = Sćehnjeny
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } - sponsorowane
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -181,12 +178,10 @@ newtab-section-header-pocket = Wot { $provider } doporučeny
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Započńće přehladować, a pokazamy někotre wulkotne nastawki, wideja a druhe strony, kotrež sće njedawno wopytał abo tu jako zapołožki składował.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = To je nachwilu wšitko. Wróćće so pozdźišo dalšich wulkotnych stawiznow dla wot { $provider }. Njemóžeće čakać? Wubjerće woblubowanu temu, zo byšće dalše wulkotne stawizny z weba namakał.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
