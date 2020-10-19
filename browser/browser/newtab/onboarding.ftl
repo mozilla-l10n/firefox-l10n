@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Já tem uma conta?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Entrar
 onboarding-start-browsing-button-label = Comece a navegar
+onboarding-not-now-button-label = Agora não
 onboarding-cards-dismiss =
     .title = Dispensar
     .aria-label = Dispensar

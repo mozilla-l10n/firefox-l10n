@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Ativar controles de vídeo picture-in-picture
     .accesskey = A
 browsing-picture-in-picture-learn-more = Saiba mais
+browsing-media-control-learn-more = Saiba mais
 browsing-cfr-recommendations =
     .label = Recomendar extensões enquanto você navega
     .accesskey = R
