@@ -514,7 +514,7 @@
 
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Ferramentas de desenvolvemento">
-<!ENTITY devtoolsMenu.accesskey "t">
+<!ENTITY devtoolsMenu.accesskey "e">
 <!ENTITY devToolboxCmd.label "Caixa de ferramentas de desenvolvemento">
 <!ENTITY devToolboxCmd.accesskey "T">
 <!ENTITY devToolboxCmd.commandkey "i">
@@ -629,7 +629,7 @@
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova etiqueta…">
-<!ENTITY addNewTag.accesskey "v">
+<!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Xestionar etiquetas…">
 <!ENTITY manageTags.accesskey "X">
 
@@ -649,13 +649,13 @@
 <!ENTITY folderContextOpenInNewWindow.label "Abrir nunha nova xanela">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Abrir nunha nova lapela">
-<!ENTITY folderContextOpenNewTab.accesskey "h">
+<!ENTITY folderContextOpenNewTab.accesskey "L">
 <!ENTITY folderContextNew.label "Novo subcartafol…">
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Eliminar">
-<!ENTITY folderContextRemove.accesskey "m">
+<!ENTITY folderContextRemove.accesskey "E">
 <!ENTITY folderContextCompact.label "Compactar">
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Baleirar a papeleira">
@@ -667,9 +667,9 @@
 <!ENTITY folderContextUnsubscribe.label "Cancelar subscrición">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marcar grupo de novas como lido">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "M">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcar o cartafol lido">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "f">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "c">
 <!ENTITY folderContextSubscribe.label "Subscribir…">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Buscar nas mensaxes…">
@@ -755,7 +755,7 @@
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Abrir mensaxe nunha nova lapela">
-<!ENTITY contextOpenNewTab.accesskey "m">
+<!ENTITY contextOpenNewTab.accesskey "L">
 <!ENTITY contextOpenConversation.label "Abrir mensaxe na conversación">
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Abrir mensaxe no cartafol contedor">
@@ -893,7 +893,7 @@
 <!ENTITY AddToAddressBook.label "Engadir á axenda de enderezos…">
 <!ENTITY AddToAddressBook.accesskey "E">
 <!ENTITY AddDirectlyToAddressBook.label "Engadir á axenda de enderezos">
-<!ENTITY AddDirectlyToAddressBook.accesskey "n">
+<!ENTITY AddDirectlyToAddressBook.accesskey "A">
 <!ENTITY EditContact1.label "Editar contacto">
 <!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Ver contacto">
@@ -907,7 +907,7 @@
 <!ENTITY CopyNameAndEmailAddress.label "Copiar o nome e o enderezo de correo electrónico">
 <!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de noticias">
-<!ENTITY CopyNewsgroupName.accesskey "g">
+<!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de noticias">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Crear filtro de…">
@@ -917,7 +917,7 @@
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
-<!ENTITY spellAddDictionaries.accesskey "a">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Gardar ligazón como…">
@@ -935,7 +935,7 @@
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY openInBrowser.label "Abrir no navegador">
-<!ENTITY openInBrowser.accesskey "n">
+<!ENTITY openInBrowser.accesskey "o">
 <!ENTITY openLinkInBrowser.label "Abrir ligazón no navegador">
 <!ENTITY openLinkInBrowser.accesskey "l">
 
