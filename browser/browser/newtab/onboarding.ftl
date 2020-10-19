@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = A oes gennych chi gyfrif yn barod?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Mewngofnodi
 onboarding-start-browsing-button-label = Cychwyn Pori
+onboarding-not-now-button-label = Nid nawr
 onboarding-cards-dismiss =
     .title = Cau
     .aria-label = Cau
