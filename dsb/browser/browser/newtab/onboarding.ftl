@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Maśo južo konto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Pśizjawiś
 onboarding-start-browsing-button-label = Pśeglědowanje startowaś
+onboarding-not-now-button-label = Nic něnto
 onboarding-cards-dismiss =
     .title = Zachyśiś
     .aria-label = Zachyśiś

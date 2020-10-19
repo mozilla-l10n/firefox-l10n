@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Pišćo mjenjej, namakajśo wěcej: Pytajśo z { $engineName } direktnje ze swójogo adresowego póla.
 urlbar-search-tips-redirect-2 = Zachopśo swójo pytanje w adresowem pólu, aby naraźenja wót { $engineName } a ze swójeje pśeglědowańskeje historije wiźeł.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Wubjeŕśo toś to zwězanje, aby malsnjej namakał, což trjebaśo.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -297,8 +300,8 @@ identity-https-only-dropdown-off =
     .label = Wušaltowany
 identity-https-only-dropdown-off-temporarily =
     .label = Nachylu wušaltowany
-identity-https-only-info-turn-on = Zmóžniśo to, jolic cośo, až { -brand-short-name } na wěsty zwisk aktualizěrujo, jolic móžno.
-identity-https-only-info-turn-off = Jolic se zda, až sedło jo wobškóźone, cośo snaź modus Jano-HTTPS znjemóžniś, aby zasej njewěsty HTTP wužywał.
+identity-https-only-info-turn-on2 = Zmóžniśo modus Jano-HTTPS, jolic cośo, až { -brand-short-name } zwisk aktualizěrujo, jolic móžno.
+identity-https-only-info-turn-off2 = Jolic se zda, až bok jo wobškóźony, cośo snaź  modus Jano-HTTPS za toś to sedło znjemóžniś. aby zasej njewěsty HTTP wužywał.
 identity-https-only-info-no-upgrade = Zwisk njedajo se z HTTP aktualizěrowaś.
 identity-permissions =
     .value = Pšawa
@@ -448,16 +451,21 @@ urlbar-result-action-search-in-private = W priwatnem woknje pytaś
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Z { $engine } pytaś
+urlbar-result-action-sponsored = Sponsorowany
 urlbar-result-action-switch-tab = K rejtarikoju pśejś
 urlbar-result-action-visit = Woglědaś se
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Cytańske znamjenja pśepytaś
-urlbar-result-action-search-history = Historiju pśepytaś
-urlbar-result-action-search-tabs = Rejtariki pśepytaś
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Tłocćo tabulatorowu tastu, aby z { $engine } pytał
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Tłocćo tabulatorowu tastu, aby z { $engine } pytał
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -466,6 +474,14 @@ urlbar-result-action-tabtosearch-web = Z { $engine } direktnje z adresowego pól
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Z { $engine } direktnje z adresowego póla pytaś
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Cytańske znamjenja pśepytaś
+urlbar-result-action-search-history = Historiju pśepytaś
+urlbar-result-action-search-tabs = Rejtariki pśepytaś
 
 ## Full Screen and Pointer Lock UI
 
