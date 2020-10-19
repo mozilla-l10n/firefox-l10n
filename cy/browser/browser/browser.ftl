@@ -469,7 +469,7 @@ urlbar-result-action-before-tabtosearch-web = Pwyswch Tab i chwilio gyda { $engi
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Pwyswch Tab i chwilio gyda { $engine }
+urlbar-result-action-before-tabtosearch-other = Pwyswch Tab i chwilio { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
