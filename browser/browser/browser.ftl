@@ -445,6 +445,18 @@ urlbar-result-action-search-w-engine = Mit "{ $engine }" suchen
 urlbar-result-action-sponsored = Gesponsert
 urlbar-result-action-switch-tab = Zum Tab wechseln
 urlbar-result-action-visit = Aufrufen
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Tab drücken, um mit { $engine } zu suchen
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Tab drücken, um { $engine } zu durchsuchen
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
