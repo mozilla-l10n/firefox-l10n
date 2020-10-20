@@ -89,6 +89,12 @@ onboarding-benefit-lockwise-text = Verwalte Deine Passwörter sicher und nimm si
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Fantastisch, du hast jetzt { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Hol dir auch <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Erweiterung hinzufügen
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
