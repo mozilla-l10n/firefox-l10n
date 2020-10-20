@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Pour commencer
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Bienvenue dans { -brand-short-name }
 onboarding-welcome-body = Vous avez le navigateur.<br/>Découvrez les autres ressources de { -brand-product-name }.
 onboarding-welcome-learn-more = Découvrir tous les avantages.
@@ -39,6 +47,49 @@ onboarding-start-browsing-button-label = Commencer la navigation
 onboarding-cards-dismiss =
     .title = Retirer
     .aria-label = Retirer
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Découvrons tout ce que vous pouvez faire.
+onboarding-fullpage-form-email =
+    .placeholder = Votre adresse électronique…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Emportez { -brand-product-name } avec vous
+onboarding-sync-welcome-content = Accédez à vos marque-pages, votre historique, vos mots de passe et d’autres paramètres sur l’ensemble de vos appareils.
+onboarding-sync-welcome-learn-more-link = En savoir plus sur les comptes Firefox
+onboarding-sync-form-input =
+    .placeholder = Adresse électronique
+onboarding-sync-form-continue-button = Continuer
+onboarding-sync-form-skip-login-button = Ignorer cette étape
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Saisissez votre adresse électronique
+onboarding-sync-form-sub-header = pour continuer avec { -sync-brand-name }.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Améliorez votre productivité grâce à un ensemble d’outils qui respectent votre vie privée sur tous vos appareils.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tout ce que nous faisons respecte notre « Garantie en matière de données personnelles » : collecter moins de données, les protéger, ne rien cacher.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Emportez avec vous vos marque-pages, mots de passe, historique et bien d’autres éléments partout où vous utilisez { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Recevez une alerte lorsque vos informations personnelles figurent dans une fuite de données connue.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gérez des mots de passe protégés et portables.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Parfait, vous disposez de { -brand-short-name }
+return-to-amo-add-extension-label = Ajouter l’extension
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +123,6 @@ onboarding-multistage-theme-primary-button-label = Enregistrer le thème
 onboarding-multistage-theme-secondary-button-label = Plus tard
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatique
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Utiliser le thème du système
 onboarding-multistage-theme-label-light = Clair
 onboarding-multistage-theme-label-dark = Sombre
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,31 +133,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Suivre l’apparence de votre système
-        d’exploitation pour les boutons,
-        les menus et les fenêtres.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Utiliser un thème clair pour les boutons,
-        les menus et les fenêtres.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Utiliser un thème sombre pour les boutons,
-        les menus et les fenêtres.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Utiliser un thème coloré pour les boutons,
-        les menus et les fenêtres.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -151,44 +175,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utiliser un thème coloré pour les boutons,
         les menus et les fenêtres.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Découvrons tout ce que vous pouvez faire.
-onboarding-fullpage-form-email =
-    .placeholder = Votre adresse électronique…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Emportez { -brand-product-name } avec vous
-onboarding-sync-welcome-content = Accédez à vos marque-pages, votre historique, vos mots de passe et d’autres paramètres sur l’ensemble de vos appareils.
-onboarding-sync-welcome-learn-more-link = En savoir plus sur les comptes Firefox
-onboarding-sync-form-input =
-    .placeholder = Adresse électronique
-onboarding-sync-form-continue-button = Continuer
-onboarding-sync-form-skip-login-button = Ignorer cette étape
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Saisissez votre adresse électronique
-onboarding-sync-form-sub-header = pour continuer avec { -sync-brand-name }.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Améliorez votre productivité grâce à un ensemble d’outils qui respectent votre vie privée sur tous vos appareils.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Tout ce que nous faisons respecte notre « Garantie en matière de données personnelles » : collecter moins de données, les protéger, ne rien cacher.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Emportez avec vous vos marque-pages, mots de passe, historique et bien d’autres éléments partout où vous utilisez { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Recevez une alerte lorsque vos informations personnelles figurent dans une fuite de données connue.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Gérez des mots de passe protégés et portables.
 
 ## These strings belong to the individual onboarding messages.
 
