@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Keresés
     .aria-label = Keresés
-
 newtab-search-box-search-the-web-text = Keresés a weben
 newtab-search-box-search-the-web-input =
     .placeholder = Keresés a weben
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Népszerű oldal szerkesztése
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Írjon vagy illesszen be egy URL-t
 newtab-topsites-url-validation = Érvényes URL szükséges
-
 newtab-topsites-image-url-label = Egyéni kép URL
 newtab-topsites-use-image-link = Egyéni kép használata…
 newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik URL-t.
@@ -54,18 +51,20 @@ newtab-confirm-delete-history-p1 = Biztosan törli ezen oldal minden példányá
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ez a művelet nem vonható vissza.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Szponzorált
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Menü megnyitása
     .aria-label = Menü megnyitása
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Eltávolítás
     .aria-label = Eltávolítás
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -138,12 +137,10 @@ newtab-label-removed-bookmark = Könyvjelző törölve
 newtab-label-recommended = Népszerű
 newtab-label-saved = Mentve a { -pocket-brand-name }be
 newtab-label-download = Letöltve
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Szponzorált
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -181,12 +178,10 @@ newtab-section-header-pocket = A(z) { $provider } ajánlásával
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Kezdjen el böngészni, és itt fognak megjelenni azok a nagyszerű cikkek, videók és más lapok, amelyeket nemrég meglátogatott vagy könyvjelzőzött.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Már felzárkózott. Nézzen vissza később a legújabb { $provider } hírekért. Nem tud várni? Válasszon egy népszerű témát, hogy még több sztorit találjon a weben.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

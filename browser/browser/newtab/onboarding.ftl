@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Már van fiókja?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Bejelentkezés
 onboarding-start-browsing-button-label = Böngészés megkezdése
+onboarding-not-now-button-label = Most nem
 onboarding-cards-dismiss =
     .title = Elutasítás
     .aria-label = Elutasítás

@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -293,8 +293,6 @@ identity-https-only-dropdown-off =
     .label = Ki
 identity-https-only-dropdown-off-temporarily =
     .label = Ideiglenesen ki
-identity-https-only-info-turn-on = Kapcsolja be, ha azt szeretné, hogy a { -brand-short-name } lehetőleg biztonságos kapcsolatra frissüljön.
-identity-https-only-info-turn-off = Ha a webhely hibásnak tűnik, érdemes kikapcsolnia a Csak HTTPS módot, hogy újratöltse a nem biztonságos HTTP használatával.
 identity-https-only-info-no-upgrade = Nem lehet frissíteni a kapcsolatot HTTP-ről.
 identity-permissions =
     .value = Engedélyek
@@ -444,16 +442,21 @@ urlbar-result-action-search-in-private = Keresés egy privát ablakban
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } keresés
+urlbar-result-action-sponsored = Szponzorált
 urlbar-result-action-switch-tab = Váltás erre a lapra
 urlbar-result-action-visit = Keresse fel:
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Könyvjelzők keresése
-urlbar-result-action-search-history = Előzmények keresése
-urlbar-result-action-search-tabs = Lapok keresése
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Nyomja meg a Tabot, hogy a következővel keressen: { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Nyomja meg a Tabot, hogy a következővel keressen: { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +465,14 @@ urlbar-result-action-tabtosearch-web = Keresés a(z) { $engine } segítségével
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Keresés a(z) { $engine } webhelyen közvetlenül a címsorból
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Könyvjelzők keresése
+urlbar-result-action-search-history = Előzmények keresése
+urlbar-result-action-search-tabs = Lapok keresése
 
 ## Full Screen and Pointer Lock UI
 
