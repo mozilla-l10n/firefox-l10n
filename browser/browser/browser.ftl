@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Digite menos, encontre mais: Pesquise no { $engineName } direto na barra de endereços.
 urlbar-search-tips-redirect-2 = Inicie sua pesquisa na barra de endereços para ver sugestões do { $engineName } e do histórico de navegação.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Selecione este atalho para encontrar mais rápido o que você precisa.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,6 +296,7 @@ identity-https-only-dropdown-off =
     .label = Desativado
 identity-https-only-dropdown-off-temporarily =
     .label = Desativado temporariamente
+identity-https-only-info-turn-on2 = Ative o modo somente HTTPS neste site se quiser que o { -brand-short-name } promova a conexão quando possível.
 identity-https-only-info-no-upgrade = Não foi possível promover a conexão de HTTP.
 identity-permissions =
     .value = Permissões
