@@ -54,6 +54,8 @@ import-source-page-title = Ներմուծել կարգաւորումները ե�
 import-items-page-title = Ինչն է ներմուծուելու
 import-items-description = Ընտրէք, թէ ինչ պէտք է ներմուծուի՝
 import-permissions-page-title = Խնդրում ենք { -brand-short-name } -ին տալ արտաւնութիւններ
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS -ը պահանջում է, որ Դուք միանշանակ թոյլ տաք { -brand-short-name } -ին մուտք գործել Safari-ի էջանիշեր: Հպէք «Շարունակել» կոճակը եւ ընտրէք «Bookmarks.plist» պանակը, որը յայտնուում է File Open վահանակում:
 import-migrating-page-title = Ներմուծուում է…
 import-migrating-description = Ներկա պահին ներմուծուում են հետեւեալ բաղադրիչները…
 import-select-profile-page-title = Ընտրէք հաշիւը
