@@ -442,6 +442,7 @@ urlbar-result-action-search-in-private = Rechercher dans une fenêtre de navigat
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Rechercher avec { $engine }
+urlbar-result-action-sponsored = Sponsorisé
 urlbar-result-action-switch-tab = Aller à l’onglet
 urlbar-result-action-visit = Consulter
 # Variables
