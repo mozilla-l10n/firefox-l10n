@@ -297,6 +297,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Անջատել ժամանակաւորապէս
 identity-https-only-info-turn-on2 = Միացնել HTTPS-Only կերպն այս կայքի համար, եթե ուզում էք, որպէսզի { -brand-short-name }֊ը հնարաւորութեան դէպքում կապը թարմացուի։
+identity-https-only-info-no-upgrade = Հնարաւոր չէ նորացնել կապը HTTP -ում:
 identity-permissions =
     .value = Արտոնութիւններ
 identity-permissions-reload-hint = Ձեզ անհրաժեշտ կլինի թարմացնել էջը, որպէսզի կիրառուեն փոփոխութիւններ։
