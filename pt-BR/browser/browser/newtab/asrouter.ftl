@@ -259,8 +259,6 @@ cfr-doorhanger-fission-primary-button = OK, entendi
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Saiba mais
     .accesskey = S
-# Deprecated
-cfr-doorhanger-fission-body = O { -brand-short-name } ativou para você um recurso experimental, Fission (isolamento de sites). Ao isolar cada site em um processo separado, o Fission fornece uma camada adicional de segurança para você e para os sites que você visita.
 
 ## What's new: Cookies message
 
@@ -271,5 +269,5 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustração de cookie bloqueado
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Mais controles de mídia
-cfr-whatsnew-media-keys-body = Reproduz e pausa áudio ou vídeo, diretamente do teclado ou fone de ouvido, facilitando controlar mídia a partir de outra aba, programa ou mesmo quando o computador estiver bloqueado. Você também pode mudar de faixa usando as teclas de avançar e voltar.
+cfr-whatsnew-media-keys-body = Reproduza e pause áudio ou vídeo diretamente do teclado ou do fone de ouvido, facilitando controlar mídias a partir de outra aba, outro programa ou mesmo quando o computador estiver bloqueado. Você também pode mudar de faixa usando as teclas de avançar e voltar.
 cfr-whatsnew-media-keys-button = Saiba como
