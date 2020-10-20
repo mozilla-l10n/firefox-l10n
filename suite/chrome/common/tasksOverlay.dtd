@@ -47,7 +47,7 @@
 <!ENTITY downloadManagerCmd.accesskey "N">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addOnsManagerCmd.label "Utvidelser">
+<!ENTITY addOnsManagerCmd.label "Tilleggsbehandler">
 <!ENTITY addOnsManagerCmd.accesskey "U">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 
