@@ -92,10 +92,10 @@ detail-private-browsing-label = Execution in fenestras private
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Non permittite in fenestras private
-detail-private-disallowed-description2 = Iste extension non flue durante le navigation anonyme. <a data-l10n-name="learn-more">Saper plus</a>.
+detail-private-disallowed-description2 = Iste extension non se executa durante le navigation private. <a data-l10n-name="learn-more">Saper plus</a>.
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Require accesso a fenestras private
-detail-private-required-description2 = Iste extension ha accesso a tu activitates in rete durante le navigation anonyme. <a data-l10n-name="learn-more">Saper plus</a>.
+detail-private-required-description2 = Iste extension ha accesso a tu activitates in rete durante le navigation private. <a data-l10n-name="learn-more">Saper plus</a>.
 detail-private-browsing-on =
     .label = Permitter
     .tooltiptext = Activar in navigation private
