@@ -42,10 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Plein écran">
 
-
-<!-- } is above this key on many keyboards -->
-
-
 <!ENTITY pictureInPictureHideToggle.label "Masquer le bouton pour l’incrustation vidéo">
 <!ENTITY pictureInPictureHideToggle.accesskey "M">
 
@@ -55,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Paramètres de &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connecter un autre appareil…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Se connecter à &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activer &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Services &brandProductName;">
@@ -101,7 +96,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "Imprimer">
 <!ENTITY printButton.tooltip          "Imprimer cette page">
 
-
 <!ENTITY searchItem.title             "Rechercher">
 
 <!-- Toolbar items -->
@@ -134,7 +128,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY webDeveloperMenu.label       "Développement web">
 
 <!ENTITY newNavigatorCmd.label        "Nouvelle fenêtre">
-<!ENTITY newPrivateWindow.label     "Nouvelle fenêtre de navigation privée">
+<!ENTITY newPrivateWindow.label     "Nouvelle fenêtre privée">
 
 <!ENTITY editMenu.label         "Édition">
 <!ENTITY preferencesCmd2.label       "Options">
@@ -191,7 +185,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Ajouter à la barre d’outils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Ajouter au menu de dépassement">
@@ -219,18 +213,15 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageAction.copyLink.label    "Copier le lien">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Enregistrer la page dans Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Afficher la liste Pocket">
 
 <!ENTITY emailPageCmd.label           "Envoyer par courriel un lien vers la page…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -256,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Ajouter des dictionnaires…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
