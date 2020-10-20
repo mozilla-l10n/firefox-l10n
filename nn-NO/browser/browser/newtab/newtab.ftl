@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Søk
     .aria-label = Søk
-
 newtab-search-box-search-the-web-text = Søk på nettet
 newtab-search-box-search-the-web-input =
     .placeholder = Søk på nettet
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Rediger Mest besøkt
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Skriv inn ein tittel
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller lim inn ein URL
 newtab-topsites-url-validation = Gyldig URL er påkravd
-
 newtab-topsites-image-url-label = Tilpassa bilde-URL
 newtab-topsites-use-image-link = Bruk eit tilpassa bilde…
 newtab-topsites-image-validation = Klarte ikkje å lesa bildet. Prøv ein annan URL.
@@ -54,18 +51,20 @@ newtab-confirm-delete-history-p1 = Er du sikker på at du vil slette alle førek
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Denne handlinga kan ikkje angrast.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Sponsa
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Opne meny
     .aria-label = Opne meny
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fjern
     .aria-label = Fjern
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -137,12 +136,10 @@ newtab-label-removed-bookmark = Bokmerke fjerna
 newtab-label-recommended = Trendar
 newtab-label-saved = Lagra til { -pocket-brand-name }
 newtab-label-download = Nedlasta
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsa
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -180,12 +177,10 @@ newtab-section-header-pocket = Tilrådd av { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Begynn å surfe, og vi vil vise deg nokre av dei beste artiklane, videoane og andre sider du nyleg har besøkt eller bokmerka her.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Det finst ikkje fleire. Kom tilbake seinare for fleire topphistoriar frå { $provider }. Kan du ikkje vente? Vel eit populært emne for å finne fleire gode artiklar frå heile nettet.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

@@ -331,6 +331,13 @@ multi-process-status-unknown = Ukjend status
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Slått av av ekperiment
+fission-status-experiment-treatment = Slått på av eksperiment
+fission-status-disabled-by-e10s-env = Slåt av av miljøet
+fission-status-enabled-by-env = Slått på av miljøet
+fission-status-disabled-by-safe-mode = Slått av av trygg modus
+fission-status-enabled-by-default = Slått på som standard
+fission-status-disabled-by-default = Slått av som standard
 fission-status-enabled-by-user-pref = Slått på av brukar
 fission-status-disabled-by-user-pref = Slått av av brukar
 fission-status-disabled-by-e10s-other = E10s slått av
