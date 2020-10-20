@@ -336,15 +336,15 @@ multi-process-status-unknown = Статус неизвестнен
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Отключено экспериментом
-fission-status-experiment-treatment = Включено экспериментом
-fission-status-disabled-by-e10s-env = Отключено средой
-fission-status-enabled-by-env = Включено средой
-fission-status-disabled-by-safe-mode = Отключено безопасным режимом
+fission-status-experiment-control = Отключены экспериментом
+fission-status-experiment-treatment = Включены экспериментом
+fission-status-disabled-by-e10s-env = Отключены средой
+fission-status-enabled-by-env = Включены средой
+fission-status-disabled-by-safe-mode = Отключены безопасным режимом
 fission-status-enabled-by-default = Включены по умолчанию
 fission-status-disabled-by-default = Отключены по умолчанию
-fission-status-enabled-by-user-pref = Включено пользователем
-fission-status-disabled-by-user-pref = Отключено пользователем
+fission-status-enabled-by-user-pref = Включены пользователем
+fission-status-disabled-by-user-pref = Отключены пользователем
 fission-status-disabled-by-e10s-other = E10s отключено
 async-pan-zoom = Асинхронное панорамирование/зум
 apz-none = нет
