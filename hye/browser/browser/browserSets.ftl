@@ -120,7 +120,7 @@ bookmark-show-all-shortcut =
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-library-shortcut =
-    .key = Օ
+    .key = O
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
