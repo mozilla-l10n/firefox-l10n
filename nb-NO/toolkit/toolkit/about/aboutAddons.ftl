@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = Utvidelser
-addons-page-title = Utvidelser
+    .title = Tilleggsbehandler
+addons-page-title = Tilleggsbehandler
 search-header =
     .placeholder = Søk på addons.mozilla.org
     .searchbuttonlabel = Søk
