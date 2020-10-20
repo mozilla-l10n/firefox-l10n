@@ -349,3 +349,8 @@ touch-warning = asynkront input fra trykfølsom skærm er deaktiveret på grund 
 policies-inactive = Inaktiv
 policies-active = Aktiv
 policies-error = Fejl
+
+## Printing section
+
+support-printing-prefs-name = Navn
+support-printing-prefs-value = Værdi
