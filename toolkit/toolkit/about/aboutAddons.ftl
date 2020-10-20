@@ -450,6 +450,9 @@ release-notes-loading = Caricamento in corso…
 release-notes-error = Siamo spiacenti, si è verificato un errore durante il caricamento delle note di versione.
 
 addon-permissions-empty = Questa estensione non richiede alcun permesso
+addon-permissions-required = Permessi obbligatori per funzionalità principali:
+addon-permissions-optional = Permessi facoltativi per funzionalità aggiuntive:
+addon-permissions-learnmore = Ulteriori informazioni sui permessi
 
 recommended-extensions-heading = Estensioni consigliate
 recommended-themes-heading = Temi consigliati
