@@ -250,6 +250,15 @@ cfr-doorhanger-doh-primary-button = Բարի, հասկացայ
 cfr-doorhanger-doh-secondary-button = Անջատել
     .accesskey = Ա
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body-approved = Ձեր գաղտնիութիւնը կարեւոր է: { -brand-short-name }-ն այժմ մեկուսացնում կամ իրարից առանձնացնում է վեբ-կայքերը, ինչը դժուարացնում է նենգորդների կողմից գաղտնաբառերի, վարկային քարտի համարների եւ այլ զգայուն տեղեկատուութեան գողանալը:
+cfr-doorhanger-fission-header = Կայքի մեկուսացում
+cfr-doorhanger-fission-primary-button = Բարի, հասկացայ
+    .accesskey = Բ
+cfr-doorhanger-fission-secondary-button = Իմանալ աւելին
+    .accesskey = Ի
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Ինքնաշխատ պաշտպանութիւն գաղտնի հետագծման գործելակերպից

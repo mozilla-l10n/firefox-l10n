@@ -48,6 +48,54 @@ onboarding-cards-dismiss =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
 
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Եկեք սկսենք ուսումնասիրել այն ամէնը, ինչ կարող եք անել։
+onboarding-fullpage-form-email =
+    .placeholder = Ձեր էլ֊փոստի հասցէն…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Տարէք { -brand-product-name }֊ը ձեզ հետ
+onboarding-sync-welcome-content = Ստացեք Ձեր էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ կարգաւորումներ Ձեր բոլոր սարքերում։
+onboarding-sync-welcome-learn-more-link = Իմանալ աւելին Firefox-ի հաշիւների մասին
+onboarding-sync-form-input =
+    .placeholder = Էլ֊փոստ
+onboarding-sync-form-continue-button = Շարունակել
+onboarding-sync-form-skip-login-button = Բաց թողնել այս քայլը
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Մուտքագրեք Ձեր էլ֊փոստը
+onboarding-sync-form-sub-header = շարունակել { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Աւարտեք գործերը աւգտագործելով  գործիքաընտանիքները, որոնք հարգում են Ձեր գաղտնիութիւնը սարքերում։
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Այն ամէնն, ինչ մենք անում ենք, համապատասխանում է մեր «Անձնական տուեալների խոստմանը»։ Քիչ վերցնել։ Ապահով պահել։ Ոչ մի գաղտնիք։
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Վերցրեք Ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, որտեղ աւգտագործում եք { -brand-product-name }։
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Տեղեկացեք, երբ Ձեր անձնական տեղեկութիւնները յայտնի տուեալների խախտման մէջ են։
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, որոնք պաշտպանուած եւ շարժական են։
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Հիանալի է, Դուք ունէք { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Այժմ ստացէք Ձեր <img data-l10n-name="icon"/> <b>{ $addon-name }</b>:
+return-to-amo-add-extension-label = Աւելացնել ընդլայնումը
+
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -90,60 +138,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title = Ժառանգէք ձեր գործառնական համակարգի տեսքը ստեղների, ցանկերի եւ պատուհանների համար։
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title = Աւգտագործէք ստեղների, ցանկերի եւ պատուհանների առաւել բաց տեսք։
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title = Աւգտագործէք ստեղների, ցանկերի եւ պատուհանների մուգ տեսք։
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title = Աւգտագործէք ստեղների, ցանկերի եւ պատուհանների գունաւոր տեսք։
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Եկեք սկսենք ուսումնասիրել այն ամէնը, ինչ կարող եք անել։
-onboarding-fullpage-form-email =
-    .placeholder = Ձեր էլ֊փոստի հասցէն…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Տարէք { -brand-product-name }֊ը ձեզ հետ
-onboarding-sync-welcome-content = Ստացեք Ձեր էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ կարգաւորումներ Ձեր բոլոր սարքերում։
-onboarding-sync-welcome-learn-more-link = Իմանալ աւելին Firefox-ի հաշիւների մասին
-onboarding-sync-form-input =
-    .placeholder = Էլ֊փոստ
-onboarding-sync-form-continue-button = Շարունակել
-onboarding-sync-form-skip-login-button = Բաց թողնել այս քայլը
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Մուտքագրեք Ձեր էլ֊փոստը
-onboarding-sync-form-sub-header = շարունակել { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Աւարտեք գործերը աւգտագործելով  գործիքաընտանիքները, որոնք հարգում են Ձեր գաղտնիութիւնը սարքերում։
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Այն ամէնն, ինչ մենք անում ենք, համապատասխանում է մեր «Անձնական տուեալների խոստմանը»։ Քիչ վերցնել։ Ապահով պահել։ Ոչ մի գաղտնիք։
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Վերցրեք Ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, որտեղ աւգտագործում եք { -brand-product-name }։
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Տեղեկացեք, երբ Ձեր անձնական տեղեկութիւնները յայտնի տուեալների խախտման մէջ են։
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, որոնք պաշտպանուած եւ շարժական են։
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
