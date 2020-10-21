@@ -18,6 +18,7 @@ certmgr-mine = Du har certifikater fra disse organisationer, der identificerer d
 certmgr-remembered = Disse certifikater bruges til at identificere dig overfor websteder
 certmgr-people = Du har certifikater liggende, der identificerer disse personer
 certmgr-servers = Du har certifikater liggende, der identificerer disse servere
+certmgr-server = Disse poster identificerer undtagelser for servercertifikatfejl
 certmgr-ca = Du har certifikater liggende, der identificerer disse certifikatautoriteter
 certmgr-detail-general-tab-title =
     .label = Generelt
@@ -158,9 +159,13 @@ delete-user-cert-title =
 delete-user-cert-confirm = Er du sikker på, at du vil slette disse certifikater?
 delete-user-cert-impact = Hvis du sletter et af dine egne certifikater, kan du ikke længere bruge det til at identificere dig selv.
 delete-ssl-cert-title =
-    .title = Slet servercertifikatundtagelser
+    .title = Slet undtagelser for servercertifikat
 delete-ssl-cert-confirm = Er du sikker på, at du vil slette disse serverundtagelser?
 delete-ssl-cert-impact = Hvis du sletter en serverundtagelse, gendanner du den sædvanlige sikkerhedskontrol for serveren og kræver, at den bruger et gyldigt certifikat.
+delete-ssl-override-title =
+    .title = Slet undtagelse for servercertifikat
+delete-ssl-override-confirm = Er du sikker på, at du vil slette denne serverundtagelse?
+delete-ssl-override-impact = Hvis du sletter en serverundtagelse, så gendanner du de almindelige sikkerhedschecks for denne server og kræver, at den anvender et gyldigt certifikat.
 delete-ca-cert-title =
     .title = Slet eller fjern tillid til CA-certifikater
 delete-ca-cert-confirm = Du har bedt om at få slette disse CA-certifikater. For indlejrede certifikater vil al tillid blive fjernet, hvilket har samme virkning. Er du sikker på, at du vil slette eller fjerne tilliden?
@@ -210,6 +215,13 @@ cert-not-verified_algorithm-disabled = Kunne ikke godkende dette certifikat, for
 cert-not-verified-unknown = Kunne ikke godkende dette certifikat af ukendte årsager.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Send intet klient-certifikat
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Ikke gemt)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Permanent
+temporary-override = Midlertidig
 
 ## Add Security Exception dialog
 
