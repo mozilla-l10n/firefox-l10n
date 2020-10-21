@@ -344,6 +344,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Chiudi
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Importa segnalibri…
+    .tooltiptext = Copia in { -brand-short-name } i segnalibri di un altro browser.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
