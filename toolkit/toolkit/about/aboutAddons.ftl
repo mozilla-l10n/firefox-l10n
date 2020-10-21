@@ -379,11 +379,19 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Udvidelsen har adgang til dine aktiviteter i privat browsing-tilstand, hvis du giver den tilladelse til det. <a data-l10n-name="learn-more">Læs mere</a>
 addon-detail-private-browsing-allow = Tillad
 addon-detail-private-browsing-disallow = Tillad ikke
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } anbefaler kun udvidelser, der overholder vores krav til sikkerhed og ydelse.
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Denne udvidelse er lavet af udviklerne bag { -brand-product-name }
+    .aria-label = { addon-badge-line.title }
+
+##
+
 available-updates-heading = Tilgængelige opdateringer
 recent-updates-heading = Seneste opdateringer
 release-notes-loading = Indlæser…

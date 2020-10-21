@@ -86,6 +86,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-graphics-desktop-zooming =
     .label = Grafik: Jævn knibe-zoom
 experimental-features-graphics-desktop-zooming-description = Understøtter jævn knibe-zoom på touchskærme og præcisions-touchpads.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Slå lyd fra/til globalt for WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Føj knapper til den globale dele-indikator for WebRTC, sådan at brugeren kan slå lyden fra på deres mikrofon og kamera-feeds overalt.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
