@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/pref-composer.xul -->
+<!-- extracted from content/pref-composer.xhtml -->
 
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
@@ -21,7 +21,7 @@
 <!ENTITY  showPublishDialog.accesskey   "ა">
 <!ENTITY  composerEditing.label         "ჩასწორება">
 <!ENTITY  maintainStructure.label       "ცხრილის ფორმატის შენარჩუნება უჯრის დამატების ან წაშლისას">
-<!ENTITY  maintainStructure.tooltip     "ინარჩუნებს ცხრილის მართკუთხა ფრომას უჯრების დამატების ან წაშლის შემთხვევაში უჯრების ავტომატური დამატებით">
+<!ENTITY  maintainStructure.tooltip     "ინარჩუნებს ცხრილის მართკუთხა ფორმას, უჯრების ავტომატურად დამატებით, ზოგიერთი უჯრის ჩასმისას ან წაშლისას">
 <!ENTITY  maintainStructure.accesskey   "ი">
 <!ENTITY  useCSS.label                  "CSS გაფორმების გამოყენება HTML ელემენტებისა და ატრიბუტების ნაცვლად">
 <!ENTITY  useCSS.accesskey              "ფ">
