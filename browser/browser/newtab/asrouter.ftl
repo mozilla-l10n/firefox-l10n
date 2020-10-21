@@ -264,8 +264,6 @@ cfr-doorhanger-fission-primary-button = Òc, plan comprés
     .accesskey = p
 cfr-doorhanger-fission-secondary-button = Ne saber mai
     .accesskey = N
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } vos a activat la foncionalitat experimentala Fission. En isolant cada site que consultats dins un processús separat, Fission provesís un nivèl suplementari de seguretat per vos e los sites web que visitatz.
 
 ## What's new: Cookies message
 
@@ -276,5 +274,5 @@ cfr-whatsnew-clear-cookies-image-alt = Illustracion d’un cookie blocat
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Mai de contraròtles dels mèdias
-cfr-whatsnew-media-keys-body = Legir e metre en pausa l’àudio e la vidèo a partir del clavièr o del casc àudio, per va venir simple lo contraròtle dels mèdias d’autres onglets, programas, o encara quand l’ordenidor es verrolhat. Podètz tanben cambiar de pista en utilizant las tòcas per avançar o recular.
+cfr-whatsnew-media-keys-body = Legir e metre en pausa l’àudio e la vidèo a partir del clavièr o del casc àudio, per va venir simple lo contraròtle dels mèdias d’autres onglets, programas, o encara quand l’ordenador es verrolhat. Podètz tanben cambiar de pista en utilizant las tòcas per avançar o recular.
 cfr-whatsnew-media-keys-button = M’ensenhar cossí far
