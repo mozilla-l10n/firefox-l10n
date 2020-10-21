@@ -86,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skalering skal være et tal mellem 10 og 200.
+printui-error-invalid-margin = Angiv en gyldig margin for den valgte papirstørrelse.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Området skal være et tal mellem 1 og { $numPages }.
