@@ -65,6 +65,7 @@ app-basics-service-workers = დარეგისტრებული Service 
 app-basics-profiles = პროფილები
 app-basics-launcher-process-status = გამშვები პროცესი
 app-basics-multi-process-support = მრავალპროცესიანი ფანჯრები
+app-basics-fission-support = Fission-ფანჯრები
 app-basics-remote-processes-count = დაშორებულად გაშვებული პროცესები
 app-basics-enterprise-policies = დებულებები კომპანიებისთვის
 app-basics-location-service-key-google = Google Location Service-ის გასაღები
@@ -326,6 +327,20 @@ multi-process-status-6 = გამორთული მხარდაუჭე
 multi-process-status-7 = დამატებების მიერ გამორთული
 multi-process-status-8 = იძულებით გამორთული
 multi-process-status-unknown = უცნობი მდგომარეობა
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = გამორთული საცდელად
+fission-status-experiment-treatment = ჩართული საცდელად
+fission-status-disabled-by-e10s-env = გამორთული გარემოთი
+fission-status-enabled-by-env = ჩართული გარემოთი
+fission-status-disabled-by-safe-mode = გამორთული უსაფრთხო რეჟიმით
+fission-status-enabled-by-default = ჩართული ნაგულისხმევად
+fission-status-disabled-by-default = გამორთული ნაგულისხმევად
+fission-status-enabled-by-user-pref = ჩართული მომხმარებლის მიერ
+fission-status-disabled-by-user-pref = გამორთული მომხმარებლის მიერ
+fission-status-disabled-by-e10s-other = E10s გამორთული
 async-pan-zoom = ასინქრონული პანორამირება/ზომის ცვლილება
 apz-none = არაფერი
 wheel-enabled = რგოლით შეყვანა ჩართულია
