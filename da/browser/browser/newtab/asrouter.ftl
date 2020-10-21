@@ -257,6 +257,12 @@ cfr-doorhanger-doh-secondary-button = Deaktiver
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Dit privatliv er vigtigt. { -brand-short-name } isolerer nu websteder fra hinanden, så det er sværere for hackere at stjæle dine adgangskoder, oplysninger om dine betalingskort og andre følsomme oplysninger.
+cfr-doorhanger-fission-header = Websteds-isolering
+cfr-doorhanger-fission-primary-button = Ok, forstået
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Læs mere
+    .accesskey = L
 
 ## What's new: Cookies message
 
