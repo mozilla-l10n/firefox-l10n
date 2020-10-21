@@ -29,6 +29,8 @@ search-input-box =
            *[other] Søg i indstillinger
         }
 managed-notice = Din browser bliver forvaltet af din organisation.
+category-list =
+    .aria-label = Kategorier
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -426,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Vis kontrol-knapper for billed-i-billed
     .accesskey = v
 browsing-picture-in-picture-learn-more = Læs mere
+browsing-media-control-learn-more = Læs mere
 browsing-cfr-recommendations =
     .label = Anbefal udvidelser mens jeg browser
     .accesskey = u
