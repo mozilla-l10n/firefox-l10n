@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = უკვე გაქვთ ანგარ
 # Text for link to submit the sign in form
 onboarding-join-form-signin = შესვლა
 onboarding-start-browsing-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
+onboarding-not-now-button-label = ახლა არა
 onboarding-cards-dismiss =
     .title = დამალვა
     .aria-label = დამალვა
