@@ -332,6 +332,15 @@ multi-process-status-unknown = Ismeretlen állapot
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-experiment-control = Kísérlet által letiltva
+fission-status-experiment-treatment = Kísérlet által engedélyezve
+fission-status-disabled-by-e10s-env = Környezet által letiltva
+fission-status-enabled-by-env = Környezet által engedélyezve
+fission-status-disabled-by-safe-mode = Csökkentett mód miatt letiltva
+fission-status-enabled-by-default = Alapértelmezésben engedélyezve
+fission-status-disabled-by-default = Alapértelmezésben tiltva
+fission-status-enabled-by-user-pref = A felhasználó által engedélyezve
+fission-status-disabled-by-user-pref = A felhasználó által letiltva
+fission-status-disabled-by-e10s-other = E10s letiltva
 async-pan-zoom = Aszinkron görgetés/nagyítás
 apz-none = nincs
 wheel-enabled = kerékbemenet engedélyezve
