@@ -443,7 +443,7 @@ browsing-cfr-recommendations-learn-more = További tudnivalók
 ## General Section - Proxy
 
 network-settings-title = Hálózati beállítások
-network-proxy-connection-description = Állítsa be hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
+network-proxy-connection-description = Állítsa be, hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
 network-proxy-connection-learn-more = További tudnivalók
 network-proxy-connection-settings =
     .label = Beállítások…
