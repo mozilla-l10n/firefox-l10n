@@ -439,6 +439,7 @@ urlbar-result-action-search-in-private = Søg i et privat vindue
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Søg med { $engine }
+urlbar-result-action-sponsored = Sponsoreret
 urlbar-result-action-switch-tab = Skift til faneblad
 urlbar-result-action-visit = Besøg
 # Variables
