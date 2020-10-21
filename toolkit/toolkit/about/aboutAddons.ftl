@@ -389,6 +389,9 @@ addon-badge-recommended2 =
 addon-badge-line =
     .title = Denne udvidelse er lavet af udviklerne bag { -brand-product-name }
     .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Denne udvidelse er gennemgået for sikkerhedsfejl
+    .aria-label = { addon-badge-verified.title }
 
 ##
 
