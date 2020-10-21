@@ -68,6 +68,7 @@ app-basics-service-workers = Registrerede Service Workers
 app-basics-profiles = Profiler
 app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiproces-vinduer
+app-basics-fission-support = Fission-vinduer
 app-basics-remote-processes-count = Fjern-processer
 app-basics-enterprise-policies = Virksomheds-politikker
 app-basics-location-service-key-google = Google Location Service-nøgle
@@ -329,6 +330,20 @@ multi-process-status-6 = Deaktiveret på grund af ikke-understøttet indsætning
 multi-process-status-7 = Deaktiveret af tilføjelser
 multi-process-status-8 = Gennemtving deaktivering
 multi-process-status-unknown = Ukendt status
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Deaktiveret af et eksperiment
+fission-status-experiment-treatment = Aktiveret af et eksperiment
+fission-status-disabled-by-e10s-env = Deaktiveret af miljøet
+fission-status-enabled-by-env = Aktiveret af miljøet
+fission-status-disabled-by-safe-mode = Deaktiveret af fejlsikker tilstand
+fission-status-enabled-by-default = Aktiveret som standard
+fission-status-disabled-by-default = Deaktiveret som standard
+fission-status-enabled-by-user-pref = Aktiveret af bruger
+fission-status-disabled-by-user-pref = Deaktiveret af bruger
+fission-status-disabled-by-e10s-other = E10s deaktiveret
 async-pan-zoom = Asynkron panorering/zoom
 apz-none = ingen
 wheel-enabled = input fra rullehjul
@@ -352,5 +367,9 @@ policies-error = Fejl
 
 ## Printing section
 
+support-printing-title = Udskrivning
+support-printing-troubleshoot = Fejlsøgning
+support-printing-clear-settings-button = Ryd gemte indstillinger for udskrivning
+support-printing-modified-settings = Ændrede indstillinger for udskrivning
 support-printing-prefs-name = Navn
 support-printing-prefs-value = Værdi
