@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tast mindre, find mere: Søg med { $engineName } direkte i adressefeltet.
 urlbar-search-tips-redirect-2 = Start din søgning i adressefeltet for at få forslag fra { $engineName } og din browserhistorik.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Vælg denne genvej for hurtigere at finde det, du leder efter.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -291,6 +294,10 @@ identity-https-only-dropdown-on =
     .label = Til
 identity-https-only-dropdown-off =
     .label = Fra
+identity-https-only-dropdown-off-temporarily =
+    .label = Midlertidigt fra
+identity-https-only-info-turn-on2 = Slå tilstanden kun-HTTPS til for dette websted, hvis du vil have { -brand-short-name } til at opgradere forbindelsen, når det er muligt.
+identity-https-only-info-no-upgrade = Kunne ikke opgradere forbindelsen fra HTTP.
 identity-permissions =
     .value = Tilladelser
 identity-permissions-reload-hint = Du skal muligvis genindlæse siden, før at ændringerne slår igennem.
