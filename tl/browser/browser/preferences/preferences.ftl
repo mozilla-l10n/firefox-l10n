@@ -912,7 +912,7 @@ addressbar-locbar-openpage-option =
     .label = Mga nakabukas na tab
     .accesskey = O
 addressbar-locbar-topsites-option =
-    .label = Pangunahing mga site.
+    .label = Mga pangunahing site
     .accesskey = P
 addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkahi ng search engine
 
