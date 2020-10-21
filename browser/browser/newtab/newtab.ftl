@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Søg
     .aria-label = Søg
-
 newtab-search-box-search-the-web-text = Søg på internettet
 newtab-search-box-search-the-web-input =
     .placeholder = Søg på internettet
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Rediger mest besøgte webside
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Indtast en titel
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Indtast eller indsæt en URL
 newtab-topsites-url-validation = Gyldig URL påkrævet
-
 newtab-topsites-image-url-label = URL til selvvalgt billede
 newtab-topsites-use-image-link = Brug selvvalgt billede…
 newtab-topsites-image-validation = Kunne ikke indlæse billede. Prøv en anden URL.
@@ -54,18 +51,20 @@ newtab-confirm-delete-history-p1 = Er du sikker på, at du vil slette alle forek
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Denne handling kan ikke fortrydes.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Sponsoreret
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Åbn menu
     .aria-label = Åbn menu
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fjern
     .aria-label = Fjern
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -111,12 +110,6 @@ newtab-menu-remove-bookmark = Fjern bogmærke
 # Bookmark is a verb here.
 newtab-menu-bookmark = Bogmærk
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -145,19 +138,14 @@ newtab-label-removed-bookmark = Bogmærke fjernet
 newtab-label-recommended = Populært
 newtab-label-saved = Gemt til { -pocket-brand-name }
 newtab-label-download = Hentet
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsoreret
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsoreret af { $sponsor }
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -191,12 +179,10 @@ newtab-section-header-pocket = Anbefalet af { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gå i gang med at browse, så vil vi vise dig nogle af de artikler, videoer og andre sider, du har besøgt eller gemt et bogmærke til for nylig.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Der er ikke flere nye historier. Kom tilbage senere for at se flere tophistorier fra { $provider }. Kan du ikke vente? Vælg et populært emne og find flere spændende historier fra hele verden.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
