@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Tijaq rik'in { -brand-short-name }
     .accesskey = a
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Yatikïr najäl runuk'ulem { -brand-short-name } pa ri taq rucha'oj.
+           *[other] Yatikïr najäl runuk'ulem { -brand-short-name } pa ri taq awajowab'al.
+        }
