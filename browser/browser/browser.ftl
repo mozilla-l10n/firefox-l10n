@@ -293,6 +293,8 @@ identity-https-only-dropdown-off =
     .label = Aus
 identity-https-only-dropdown-off-temporarily =
     .label = Temporär aus
+identity-https-only-info-turn-on2 = Aktivieren Sie den Nur-HTTPS-Modus für diese Website, wenn { -brand-short-name } die Verbindung nach Möglichkeit aufrüsten soll.
+identity-https-only-info-turn-off2 = Wenn die Seite beschädigt erscheint, möchten Sie möglicherweise den Nur-HTTPS-Modus für diese Website deaktivieren, um mit nicht verschlüsseltem HTTP neu zu laden.
 identity-https-only-info-no-upgrade = Verbindung konnte nicht von HTTP aufgerüstet werden.
 identity-permissions =
     .value = Berechtigungen
@@ -338,6 +340,12 @@ browser-window-restore-down-button =
     .tooltiptext = Verkleinern
 browser-window-close-button =
     .tooltiptext = Schließen
+
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Lesezeichen importieren…
+    .tooltiptext = Lesezeichen aus einem anderen Browser zu { -brand-short-name } kopieren.
 
 ## WebRTC Pop-up notifications
 
