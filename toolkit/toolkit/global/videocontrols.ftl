@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Lastar:
 videocontrols-volume-control =
     .aria-label = Lydstyrke
+videocontrols-closed-caption-button =
+    .aria-label = Teksting
