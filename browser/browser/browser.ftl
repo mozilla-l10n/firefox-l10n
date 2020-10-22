@@ -344,6 +344,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Stäng
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Importera bokmärken ...
+    .tooltiptext = Kopiera bokmärken från en annan webbläsare till { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
