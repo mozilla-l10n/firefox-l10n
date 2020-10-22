@@ -11,4 +11,4 @@ videocontrols-buffer-bar-label = Laster:
 videocontrols-volume-control =
     .aria-label = Volum
 videocontrols-closed-caption-button =
-    .aria-label = Undertekster
+    .aria-label = Teksting
