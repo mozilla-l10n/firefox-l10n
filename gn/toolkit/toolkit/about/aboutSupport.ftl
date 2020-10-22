@@ -331,6 +331,16 @@ multi-process-status-unknown = Jeiko ojekuaa’ỹva
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Ojepe’a apopyha’ã rupi
+fission-status-experiment-treatment = Oñemyandy apopyha’ã rupi
+fission-status-disabled-by-e10s-env = Ojepe’a jeregua rupi
+fission-status-enabled-by-env = Oñemyandy jeregua rupi
+fission-status-disabled-by-safe-mode = Ojepe’a ayvu hekorosãva rupi
+fission-status-enabled-by-default = Oñemyandy ijypykue rupi
+fission-status-disabled-by-default = Ojepe’a ijypykue rupi
+fission-status-enabled-by-user-pref = Omyandy puruhára
+fission-status-disabled-by-user-pref = Oipe’a puruhára
+fission-status-disabled-by-e10s-other = E10s pe’apyre
 async-pan-zoom = Ojuehe’ỹva Pan/Zoom
 apz-none = Avave
 wheel-enabled = omoneĩ jereha jeike
@@ -355,5 +365,6 @@ policies-error = Javy
 ## Printing section
 
 support-printing-title = Ñemonguatia
+support-printing-troubleshoot = Apañuãi ñemoĩporã
 support-printing-prefs-name = Téra
 support-printing-prefs-value = Tepykue
