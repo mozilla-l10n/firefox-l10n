@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Type minder, fyn mear: Sykje nei { $engineName } streekrjocht fan jo adresbalke út.
 urlbar-search-tips-redirect-2 = Begjin yn de adresbalke mei sykjen om suggestjes fan { $engineName } en jo browserskiednis te sjen.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Selektearje dizze fluchkeppeling om flugger te finen wat jo nedich hawwe.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,8 @@ identity-https-only-dropdown-off =
     .label = Ut
 identity-https-only-dropdown-off-temporarily =
     .label = Tydlik út
-identity-https-only-info-turn-on = Skeakelje dit yn as jo wolle dat { -brand-short-name } wannear mooglik opwurdearret nei in befeilige ferbining.
-identity-https-only-info-turn-off = As de website net liket te wurkje, dan kinne jo probearje de Allinnich-HTTPS-modus út te skeakeljen en de side te fernijen mei it ûnfeilige HTTP.
+identity-https-only-info-turn-on2 = Skeakelje Allinnich-HTTPS foar dizze website yn as jo wolle dat { -brand-short-name } wannear mooglik de ferbining opwurdearret.
+identity-https-only-info-turn-off2 = As de website net liket te wurkje, dan kinne jo probearje de Allinnich-HTTPS-modus foar dizze website út te skeakeljen en de side te fernijen mei it ûnfeilige HTTP.
 identity-https-only-info-no-upgrade = Kin HTTP-ferbining net fernije.
 identity-permissions =
     .value = Tastimmingen
@@ -340,6 +343,12 @@ browser-window-restore-down-button =
     .tooltiptext = Omleech opnij ynstelle
 browser-window-close-button =
     .tooltiptext = Slute
+
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Blêdwizers ymportearje…
+    .tooltiptext = Blêdwizers fan in oare browser nei { -brand-short-name } kopiearje.
 
 ## WebRTC Pop-up notifications
 
@@ -444,16 +453,21 @@ urlbar-result-action-search-in-private = Sykje yn in priveefinster
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Sykje mei { $engine }
+urlbar-result-action-sponsored = Sponsore
 urlbar-result-action-switch-tab = Wikselje nei ljepblêd
 urlbar-result-action-visit = Besykje
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Blêdwizers trochsykje
-urlbar-result-action-search-history = Skiednis trochsykje
-urlbar-result-action-search-tabs = Ljepblêden trochsykje
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Druk op Tab om te sykjen mei { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Druk op Tab om te sykjen mei { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +476,14 @@ urlbar-result-action-tabtosearch-web = Mei { $engine } streekrjocht fan de adres
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = { $engine } streekrjocht fan de adresbalke út trochsykje
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Blêdwizers trochsykje
+urlbar-result-action-search-history = Skiednis trochsykje
+urlbar-result-action-search-tabs = Ljepblêden trochsykje
 
 ## Full Screen and Pointer Lock UI
 
