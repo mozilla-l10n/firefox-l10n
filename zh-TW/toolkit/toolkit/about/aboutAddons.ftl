@@ -382,6 +382,9 @@ recent-updates-heading = 最近的更新
 release-notes-loading = 載入中…
 release-notes-error = 抱歉，載入發行公告時發生錯誤。
 addon-permissions-empty = 此擴充套件並未要求任何權限
+addon-permissions-required = 核心功能需要下列權限:
+addon-permissions-optional = 選用功能需要下列權限:
+addon-permissions-learnmore = 了解權限的更多資訊
 recommended-extensions-heading = 推薦的擴充套件
 recommended-themes-heading = 推薦的佈景主題
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
