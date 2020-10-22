@@ -451,6 +451,18 @@ urlbar-result-action-search-w-engine = Eheka { $engine } ndive
 urlbar-result-action-sponsored = Pytyvõpyréva
 urlbar-result-action-switch-tab = Tendayképe jeguerova
 urlbar-result-action-visit = Jeho
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Eikutu Tab eheka hag̃ua { $engine } ndive
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Eikutu Tab eheka hag̃ua { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
