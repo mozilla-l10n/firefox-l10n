@@ -44,9 +44,53 @@ onboarding-join-form-signin-label = Već imaš račun?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Prijavi se
 onboarding-start-browsing-button-label = Započni pregledavanje
+onboarding-not-now-button-label = Ne sada
 onboarding-cards-dismiss =
     .title = Odbaci
     .aria-label = Odbaci
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Počnimo s istraživanjem svega što možeš učiniti.
+onboarding-fullpage-form-email =
+    .placeholder = Tvoja e-adresa …
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Uzmite { -brand-product-name } sa sobom
+onboarding-sync-welcome-content = Preuzmi svoje zabilješke, povijest, lozinke i druge postavke na sve tvoje uređaje.
+onboarding-sync-welcome-learn-more-link = Saznaj više o Firefox računima
+onboarding-sync-form-input =
+    .placeholder = E-pošta
+onboarding-sync-form-continue-button = Nastavi
+onboarding-sync-form-skip-login-button = Preskočite ovaj korak
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Upiši svoju e-adresu
+onboarding-sync-form-sub-header = i prijavi se u { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Obavi posao pomoću obitelji alata koji poštuju tvoju privatnost na svim uređajima.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o osobnim podacima: Uzmi manje podataka. Drži ih na sigurnom. Bez tajni.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Ponesi svoje zabilješke, lozinke, povijest i ostalo, gdjegod koristiš { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Dobij obavijest kad se tvoji podaci nalaze u poznatom curenju podataka.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i prenosive.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Super, koristite { -brand-short-name }
+return-to-amo-add-extension-label = Dodaj proširenje
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -90,68 +134,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Naslijedite izgled svog operativnog
-        sustava za tipke, izbornike i prozore.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Koristite svijetli izgled za tipke,
-        izbornike i prozore.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Koristite tamni izgled za tipke,
-        izbornike i prozore.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Koristi šareni izgled za gumbe, 
-        izbornike i prozore.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Počnimo s istraživanjem svega što možeš učiniti.
-onboarding-fullpage-form-email =
-    .placeholder = Tvoja e-adresa …
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Uzmite { -brand-product-name } sa sobom
-onboarding-sync-welcome-content = Preuzmi svoje zabilješke, povijest, lozinke i druge postavke na sve tvoje uređaje.
-onboarding-sync-welcome-learn-more-link = Saznaj više o Firefox računima
-onboarding-sync-form-input =
-    .placeholder = E-pošta
-onboarding-sync-form-continue-button = Nastavi
-onboarding-sync-form-skip-login-button = Preskočite ovaj korak
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Upiši svoju e-adresu
-onboarding-sync-form-sub-header = i prijavi se u { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Obavi posao pomoću obitelji alata koji poštuju tvoju privatnost na svim uređajima.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o osobnim podacima: Uzmi manje podataka. Drži ih na sigurnom. Bez tajni.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Ponesi svoje zabilješke, lozinke, povijest i ostalo, gdjegod koristiš { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Dobij obavijest kad se tvoji podaci nalaze u poznatom curenju podataka.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i prenosive.
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
