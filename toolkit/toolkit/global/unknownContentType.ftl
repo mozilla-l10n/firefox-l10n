@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = გახსნის { -brand-short-name }
     .accesskey = ხ
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებიდან.
+           *[other] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებში.
+        }
