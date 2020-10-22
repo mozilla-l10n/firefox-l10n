@@ -43,6 +43,7 @@ about-networking-dns-lookup = Recèrca DNS
 about-networking-dns-lookup-button = Resolucion
 about-networking-dns-domain = Domeni:
 about-networking-dns-lookup-table-column = Adreças IP
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Estatisticas RCWN
 about-networking-rcwn-status = Estatuts RCWN
 about-networking-rcwn-cache-won-count = Nombre de victòrias de l'escondedor
