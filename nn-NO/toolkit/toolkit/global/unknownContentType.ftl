@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Opne med { -brand-short-name }
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Oppsettet kan endrast i { -brand-short-name }, Innstilingar.
+           *[other] Oppsettet kan endrast i { -brand-short-name }, Innstillingar.
+        }
