@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Embojuruja { -brand-short-name }-pe
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Pe ñembohekopyahu ikatu emoambue { -brand-short-name } jeporavorã rupi.
+           *[other] Pe ñembohekopyahu ikatu emoambue { -brand-short-name } oguerohoryvéva rupi.
+        }
