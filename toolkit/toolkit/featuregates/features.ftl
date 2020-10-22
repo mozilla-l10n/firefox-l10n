@@ -34,10 +34,6 @@ experimental-features-web-api-beforeinput =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = Geliştirici Araçları: Renk Şeması Simülasyonu
 experimental-features-devtools-execution-context-selector =
@@ -73,3 +69,6 @@ experimental-features-graphics-desktop-zooming-description = Dokunmatik ekranlar
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Site İzolasyonu)

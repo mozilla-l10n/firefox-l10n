@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Yükleniyor:
 videocontrols-volume-control =
     .aria-label = Ses
+videocontrols-closed-caption-button =
+    .aria-label = Altyazılar

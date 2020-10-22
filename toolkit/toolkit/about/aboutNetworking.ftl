@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-networking-title = Ağ hakkında
+about-networking-title = Ağ Hakkında
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
@@ -58,8 +58,8 @@ about-networking-rcwn-avg-long = Uzun ortalama
 about-networking-rcwn-std-dev-long = Uzun standart sapma
 about-networking-rcwn-cache-slow = Yavaş önbellek sayısı
 about-networking-rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
-about-networking-networkid = Ağ kimliği
-about-networking-networkid-id = Ağ kimliği
+about-networking-networkid = Ağ Kimliği
+about-networking-networkid-id = Ağ Kimliği
 
 ## Link is intended as "network link"
 
