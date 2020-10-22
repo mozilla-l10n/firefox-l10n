@@ -336,6 +336,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = 닫기
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = 북마크 가져오기…
+    .tooltiptext = 다른 브라우저에서 { -brand-short-name }로 북마크를 복사합니다.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =

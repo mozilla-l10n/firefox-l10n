@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = 로드 중:
 videocontrols-volume-control =
     .aria-label = 볼륨
+videocontrols-closed-caption-button =
+    .aria-label = 선택 자막
