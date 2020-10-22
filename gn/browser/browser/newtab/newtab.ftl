@@ -51,6 +51,10 @@ newtab-confirm-delete-history-p1 = Añetehápepa renohẽse oimeraẽva mba’e 
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ko ojejapóva ndaikatuvéima oñemboguevi.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Pytyvõpyréva
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

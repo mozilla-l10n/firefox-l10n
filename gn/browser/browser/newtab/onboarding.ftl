@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Ñepyrũ
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
 onboarding-welcome-body = Eguerekóma kundaha.<br/>Eikuaa opamba’e { -brand-product-name } rehegua.
 onboarding-welcome-learn-more = Eikuaave mba’eporã rehegua.
@@ -36,9 +44,58 @@ onboarding-join-form-signin-label = ¿Eguerekóma ne mba’ete?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Eñemboheraguapy
 onboarding-start-browsing-button-label = Eñepyrũ eikundaha
+onboarding-not-now-button-label = Ani ko’ág̃a
 onboarding-cards-dismiss =
     .title = Emboyke
     .aria-label = Emboyke
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Eñepyrũ ehapereka opaite ejapokuaáva.
+onboarding-fullpage-form-email =
+    .placeholder = Ne ñanduti veve…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Egueraha { -brand-product-name } nendive
+onboarding-sync-welcome-content = Eike nde techaukaha, tembiasakue, ñe’ẽñemi ha ambueve ñemoĩporã opaite nde mba’e’okápe.
+onboarding-sync-welcome-learn-more-link = Eikuaave Firefox Accounts rehegua
+onboarding-sync-form-input =
+    .placeholder = Ñandutiveve
+onboarding-sync-form-continue-button = Eku’ejey
+onboarding-sync-form-skip-login-button = Ehejánte kóva
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Emoinge ne ñandutiveve
+onboarding-sync-form-sub-header = eike hag̃ua { -sync-brand-name }-pe.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Ejapo mba’e tembipuru aty ndive omomba’éva iñemigua opaite imba’e’okápe.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Rojapóva guive omomba’e mba’ekuaarã nemba’éva: E’u’ive. Eguereko tekorosãme. Kañygua’ỹre.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Take your bookmarks, passwords, history, and more everywhere you use { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Og̃uahẽta ndéve marandu nemba’etéva mba’ekuaarã ñembyai oikóramo.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Eñangareko ñe’ẽñemi oñemo’ãva ha oku’ekuaávare.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Iporãite, emohendáma { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Ko’ág̃a roguerekóta <img data-l10n-name="icon"/> <b>{ $addon-name }</b> ndéve g̃uarã.
+return-to-amo-add-extension-label = Embojuaju jepysokue
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +129,6 @@ onboarding-multistage-theme-primary-button-label = Eñongatu Téma
 onboarding-multistage-theme-secondary-button-label = Ani ko’ág̃a
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = ijeheguietéva
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Eipuru téma apopyvusugua
 onboarding-multistage-theme-label-light = Vevúi
 onboarding-multistage-theme-label-dark = Ypytũ
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +139,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Emog̃uahẽ tembiapoite ohehechaháicha
-        apopyvusu votõ, poravorã ha ovetãme g̃uarã.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Eipuru ojehechaporãva votõ,
-        poravorã ha ovetã.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Eipuru iñypytũva votõ,
-        poravorã ha ovetã.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Eipuru isa’yetáva votõ,
-        poravorã ha ovetã.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +179,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Eipuru isa’yetáva votõ,
         poravorã ha ovetã.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Eñepyrũ ehapereka opaite ejapokuaáva.
-onboarding-fullpage-form-email =
-    .placeholder = Ne ñanduti veve…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Egueraha { -brand-product-name } nendive
-onboarding-sync-welcome-content = Eike nde techaukaha, tembiasakue, ñe’ẽñemi ha ambueve ñemoĩporã opaite nde mba’e’okápe.
-onboarding-sync-welcome-learn-more-link = Eikuaave Firefox Accounts rehegua
-onboarding-sync-form-input =
-    .placeholder = Ñandutiveve
-onboarding-sync-form-continue-button = Eku’ejey
-onboarding-sync-form-skip-login-button = Ehejánte kóva
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Emoinge ne ñandutiveve
-onboarding-sync-form-sub-header = eike hag̃ua { -sync-brand-name }-pe.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Ejapo mba’e tembipuru aty ndive omomba’éva iñemigua opaite imba’e’okápe.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Rojapóva guive omomba’e mba’ekuaarã nemba’éva: E’u’ive. Eguereko tekorosãme. Kañygua’ỹre.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Take your bookmarks, passwords, history, and more everywhere you use { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Og̃uahẽta ndéve marandu nemba’etéva mba’ekuaarã ñembyai oikóramo.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Eñangareko ñe’ẽñemi oñemo’ãva ha oku’ekuaávare.
 
 ## These strings belong to the individual onboarding messages.
 

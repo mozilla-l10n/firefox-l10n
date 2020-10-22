@@ -29,6 +29,8 @@ search-input-box =
            *[other] Eheka Jerohoryvévape
         }
 managed-notice = Pe kundaha rehe oñangareko atyguasu.
+category-list =
+    .aria-label = Mboja’opy
 pane-general-title = Tuichakue
 category-general =
     .tooltiptext = { pane-general-title }
@@ -426,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Embojuruja ta’ãngamýi ñangarekoha picture-in-picture
     .accesskey = E
 browsing-picture-in-picture-learn-more = Kuaave
+browsing-media-control-learn-more = Kuaave
 browsing-cfr-recommendations =
     .label = Eñe’eporã jepysokue rehe eikumdaha aja
     .accesskey = R

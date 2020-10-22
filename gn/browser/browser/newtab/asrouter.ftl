@@ -253,6 +253,7 @@ cfr-doorhanger-doh-secondary-button = Pe’a
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Tenda ñemoha’eño
 cfr-doorhanger-fission-primary-button = OK, arekóma
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Kuaave
