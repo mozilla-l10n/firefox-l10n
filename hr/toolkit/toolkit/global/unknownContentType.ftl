@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Otvori pomoću { -brand-short-name }
     .accesskey = m
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Postavke mogu biti promijenjene u  { -brand-short-name }ovim mogućnostima.
+           *[other] Postavke se mogu promijeniti u { -brand-short-name } postavkama.
+        }
