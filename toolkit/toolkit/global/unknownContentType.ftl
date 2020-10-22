@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } көмегімен ашу
     .accesskey = е
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Параметрлер { -brand-short-name } баптауларында өзгертіледі.
+           *[other] Параметрлер { -brand-short-name } баптауларында өзгертіледі.
+        }
