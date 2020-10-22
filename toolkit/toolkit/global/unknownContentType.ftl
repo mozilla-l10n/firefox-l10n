@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Megnyitás a { -brand-short-name }szal
     .accesskey = M
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
+           *[other] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
+        }
