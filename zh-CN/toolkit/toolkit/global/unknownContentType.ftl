@@ -8,6 +8,6 @@ unknowncontenttype-handleinternally =
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
-            [windows] 设置可以在 { -brand-short-name } 的 选项 中修改。
-           *[other] 设置可以在 { -brand-short-name } 的 首选项 中修改。
+            [windows] 请在 { -brand-short-name } 的选项中更改设置。
+           *[other] 请在 { -brand-short-name } 的首选项中更改设置。
         }
