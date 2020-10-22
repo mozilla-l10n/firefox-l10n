@@ -11,3 +11,9 @@ unknowncontenttype-handleinternally =
            *[other] v aplikaci { -brand-short-name }
         }
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Nastavení lze změnit v dialogu Možnosti aplikace { -brand-short-name }.
+           *[other] Nastavení lze změnit v dialogu Předvolby aplikace { -brand-short-name }.
+        }
