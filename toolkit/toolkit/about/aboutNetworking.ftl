@@ -42,6 +42,7 @@ about-networking-dns-lookup = חיפוש ב־DNS
 about-networking-dns-lookup-button = זיהוי
 about-networking-dns-domain = שם מתחם:
 about-networking-dns-lookup-table-column = כתובות
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = סטטיסטיקת RCWN
 about-networking-rcwn-status = מצב RCWN
 about-networking-rcwn-cache-won-count = ספירת ניצחונות מטמון
