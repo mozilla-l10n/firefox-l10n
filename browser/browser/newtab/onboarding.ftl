@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Hawwe jo al in account?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Oanmelde
 onboarding-start-browsing-button-label = Begjinne mei sneupen
+onboarding-not-now-button-label = No net
 onboarding-cards-dismiss =
     .title = Fuortsmite
     .aria-label = Fuortsmite

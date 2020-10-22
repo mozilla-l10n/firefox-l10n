@@ -396,6 +396,9 @@ recent-updates-heading = Resinte fernijingen
 release-notes-loading = Lade…
 release-notes-error = Sorry, mar der wie in flater mei it laden fan de útjefteopmerkingen.
 addon-permissions-empty = Foar dizze útwreiding binne gjin tastimmingen fereaske
+addon-permissions-required = Fereaske tastimmingen foar kernfunksjonaliteit:
+addon-permissions-optional = Opsjonele tastimmingen foar ekstra funksjonaliteit:
+addon-permissions-learnmore = Mear ynfo oer tastimmingen
 recommended-extensions-heading = Oanrekommandearre útwreidingen
 recommended-themes-heading = Oanrekommandearre tema's
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
