@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Avaa { -brand-short-name(case: "inessive") }
     .accesskey = v
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Asetuksia voi muuttaa { -brand-short-name }in asetuksista.
+           *[other] Asetuksia voi muuttaa { -brand-short-name }in asetuksista.
+        }
