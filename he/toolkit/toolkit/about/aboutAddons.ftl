@@ -376,6 +376,7 @@ recent-updates-heading = עדכונים אחרונים
 release-notes-loading = בטעינה…
 release-notes-error = מצטערים, אירעה שגיאה במהלך טעינת הערות השחרור.
 addon-permissions-empty = לתוספת זו לא נדרשות הרשאות
+addon-permissions-learnmore = מידע נוסף על הרשאות
 recommended-extensions-heading = הרחבות מומלצות
 recommended-themes-heading = ערכות נושא מומלצות
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
