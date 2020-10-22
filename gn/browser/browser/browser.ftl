@@ -448,6 +448,7 @@ urlbar-result-action-search-in-private = Eheka ovetã ñemíme
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Eheka { $engine } ndive
+urlbar-result-action-sponsored = Pytyvõpyréva
 urlbar-result-action-switch-tab = Tendayképe jeguerova
 urlbar-result-action-visit = Jeho
 # Variables
