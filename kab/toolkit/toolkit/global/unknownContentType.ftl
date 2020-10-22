@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Ldi s { -brand-short-name }
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Tzemreḍ ad tesnifleḍ iɣwwaṛen d umuɣ Iɣewwaṛen n { -brand-short-name }.
+           *[other] Tzemreḍ ad tesnifleḍ iɣwwaṛen d umuɣ Ismenyifen n { -brand-short-name }.
+        }
