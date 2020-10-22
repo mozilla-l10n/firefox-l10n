@@ -396,6 +396,9 @@ recent-updates-heading = Atualizações recentes
 release-notes-loading = Carregando…
 release-notes-error = Desculpe, houve um erro ao carregar as notas de lançamento.
 addon-permissions-empty = Esta extensão não exige nenhum permissão
+addon-permissions-required = Permissões necessárias para a funcionalidade principal:
+addon-permissions-optional = Permissões opcionais para funcionalidades adicionais:
+addon-permissions-learnmore = Saiba mais sobre permissões
 recommended-extensions-heading = Extensões recomendadas
 recommended-themes-heading = Temas recomendados
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
