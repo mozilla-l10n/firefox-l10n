@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Завантаження:
 videocontrols-volume-control =
     .aria-label = Гучність
+videocontrols-closed-caption-button =
+    .aria-label = Закриті підписи
