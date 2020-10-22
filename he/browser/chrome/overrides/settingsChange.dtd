@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "ההגדרות ניתנות לשינוי בלשונית יישומים בחלון ההעדפות של  &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "ההגדרות ניתנות לשינוי בלשונית יישומים בחלון האפשרויות של  &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "ההגדרות ניתנות לשינוי בלשונית יישומים באפשרויות של &brandShortName;.">
