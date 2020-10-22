@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Ireki { -brand-short-name }(e)n
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Ezarpenak { -brand-short-name }(e)n aukeretan alda daitezke.
+           *[other] Ezarpenak { -brand-short-name }(e)n hobespenetan alda daitezke.
+        }
