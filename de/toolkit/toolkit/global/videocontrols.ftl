@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Wird geladen:
 videocontrols-volume-control =
     .aria-label = Lautstärke
+videocontrols-closed-caption-button =
+    .aria-label = Untertitel
