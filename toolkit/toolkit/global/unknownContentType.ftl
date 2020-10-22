@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Iepenje mei { -brand-short-name }
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Ynstellingen kinne wizige wurde yn de Opsjes fan { -brand-short-name }.
+           *[other] Ynstellingen kinne wizige wurde yn de Foarkarren fan { -brand-short-name }.
+        }
