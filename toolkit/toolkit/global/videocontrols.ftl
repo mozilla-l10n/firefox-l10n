@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = 正在加载：
 videocontrols-volume-control =
     .aria-label = 音量
+videocontrols-closed-caption-button =
+    .aria-label = 隐藏式字幕
