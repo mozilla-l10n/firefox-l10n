@@ -8,6 +8,6 @@ unknowncontenttype-handleinternally =
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
-            [windows] ההגדרות ניתנות לשינוי בחלון האפשרויות של { -brand-short-name }.
-           *[other] ההגדרות ניתנות לשינוי בחלון ההעדפות של { -brand-short-name }.
+            [windows] ההגדרות ניתנות לשינוי באפשרויות של { -brand-short-name }.
+           *[other] ההגדרות ניתנות לשינוי בההעדפות של { -brand-short-name }.
         }
