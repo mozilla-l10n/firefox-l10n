@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Ehai sa’ive, ejuhuve: Eheka { $engineName } kundaharape rendaite guive.
 urlbar-search-tips-redirect-2 = Eñepyrũ eheka kundaharape rendápe ehecha hag̃ua { $engineName } ñe’ẽporã ha ikundaha rembiasakue.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Eiporavo ko jeike pya’eha ejuhu pya’eve hag̃ua ehekáva.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -291,6 +294,9 @@ identity-https-only-dropdown-on =
     .label = Myandy
 identity-https-only-dropdown-off =
     .label = Mbogue
+identity-https-only-dropdown-off-temporarily =
+    .label = Jepe’a sapy’agua
+identity-https-only-info-no-upgrade = Ndaikatúi embohekopyahu jeike HTTP guive.
 identity-permissions =
     .value = Moneĩ
 identity-permissions-reload-hint = Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.
@@ -335,6 +341,9 @@ browser-window-restore-down-button =
     .tooltiptext = Embojevyjey Yvýgotyo
 browser-window-close-button =
     .tooltiptext = Mboty
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -441,14 +450,6 @@ urlbar-result-action-search-in-private = Eheka ovetã ñemíme
 urlbar-result-action-search-w-engine = Eheka { $engine } ndive
 urlbar-result-action-switch-tab = Tendayképe jeguerova
 urlbar-result-action-visit = Jeho
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Eheka techaukahápe
-urlbar-result-action-search-history = Eheka tembiasakuépe
-urlbar-result-action-search-tabs = Eheka tendayke
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -457,6 +458,14 @@ urlbar-result-action-tabtosearch-web = Eheka { $engine } ndive kundaharape renda
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Eheka { $engine } ndive kundaharape renda guive
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Eheka techaukahápe
+urlbar-result-action-search-history = Eheka tembiasakuépe
+urlbar-result-action-search-tabs = Eheka tendayke
 
 ## Full Screen and Pointer Lock UI
 
