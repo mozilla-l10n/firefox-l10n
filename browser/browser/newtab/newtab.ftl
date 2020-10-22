@@ -51,6 +51,10 @@ newtab-confirm-delete-history-p1 = Stvarno želiš izbrisati sve primjere ove st
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ova se radnja ne može poništiti.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Sponzorirano
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

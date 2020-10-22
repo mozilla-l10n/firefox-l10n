@@ -431,6 +431,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Aktiviraj video kontrole za slika-u-slici
     .accesskey = O
 browsing-picture-in-picture-learn-more = Saznaj više
+browsing-media-control-learn-more = Saznaj više
 browsing-cfr-recommendations =
     .label = Preporuči dodatke tijekom pregledavanja
     .accesskey = r
@@ -797,6 +798,8 @@ forms-master-pw-fips-desc = Promjena lozinke nije uspjela
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Za stvaranje glavne lozinke, upiši svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost tvojih računa.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These

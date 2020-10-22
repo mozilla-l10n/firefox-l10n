@@ -346,6 +346,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zatvori
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Uvezi zabilješke…
+    .tooltiptext = Kopiraj zabilješke iz drugog preglednika u { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
