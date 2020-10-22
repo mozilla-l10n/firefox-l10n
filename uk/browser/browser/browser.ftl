@@ -346,6 +346,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Закрити
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Імпортувати закладки…
+    .tooltiptext = Копіюйте закладки з іншого браузера до { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =

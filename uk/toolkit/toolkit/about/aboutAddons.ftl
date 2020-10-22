@@ -396,6 +396,9 @@ recent-updates-heading = Недавні оновлення
 release-notes-loading = Завантаження…
 release-notes-error = На жаль, під час завантаження приміток до випуску сталася помилка.
 addon-permissions-empty = Це розширення не потребує дозволів
+addon-permissions-required = Необхідні дозволи для роботи основних функцій:
+addon-permissions-optional = Необов’язкові дозволи для додаткових функцій:
+addon-permissions-learnmore = Докладніше про дозволи
 recommended-extensions-heading = Рекомендовані розширення
 recommended-themes-heading = Рекомендовані теми
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
