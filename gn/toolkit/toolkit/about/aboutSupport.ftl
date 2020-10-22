@@ -65,6 +65,7 @@ app-basics-service-workers = Mba’apohára mba’epytyvõrã mboguapyréva
 app-basics-profiles = Mba’etekuéra
 app-basics-launcher-process-status = Momboha jepuru
 app-basics-multi-process-support = Windows rembiapoita
+app-basics-fission-support = Fission Rovetã
 app-basics-remote-processes-count = Tapereko okayguáva
 app-basics-enterprise-policies = Purureko mba’apoha rehegua
 app-basics-location-service-key-google = Google ñemoñe’ẽasa ñe’ẽñemi
@@ -326,6 +327,10 @@ multi-process-status-6 = Oñemomba’apo’ỹva oreko rupi jehai ndojehaiva’e
 multi-process-status-7 = Oñemomba’apo’ỹ moĩmbaha rupive
 multi-process-status-8 = Oñemongepyre mbaretépe
 multi-process-status-unknown = Jeiko ojekuaa’ỹva
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Ojuehe’ỹva Pan/Zoom
 apz-none = Avave
 wheel-enabled = omoneĩ jereha jeike

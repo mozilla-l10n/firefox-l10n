@@ -43,6 +43,7 @@ about-networking-dns-lookup = DNS jeheka
 about-networking-dns-lookup-button = Japopa
 about-networking-dns-domain = Tendatee:
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN Papapy’atygua
 about-networking-rcwn-status = RCWN rekotee
 about-networking-rcwn-cache-won-count = Kache nemba’etéva rehegua

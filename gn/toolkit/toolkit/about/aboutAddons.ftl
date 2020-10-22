@@ -388,6 +388,7 @@ recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…
 release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.
 addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
+addon-permissions-learnmore = Eikuaave ñemoneĩ rehegua
 recommended-extensions-heading = Jepysokue je’eporãpyre
 recommended-themes-heading = Téma je’eporãpyre
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
