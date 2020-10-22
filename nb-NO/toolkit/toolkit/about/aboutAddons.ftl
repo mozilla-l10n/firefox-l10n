@@ -396,6 +396,9 @@ recent-updates-heading = Nylig oppdatert
 release-notes-loading = Laster…
 release-notes-error = Beklager, men en feil oppstod under lasting av versjonsnotatet.
 addon-permissions-empty = Denne utvidelsen krever ingen tillatelser
+addon-permissions-required = Nødvendige tillatelser for kjernefunksjonalitet:
+addon-permissions-optional = Valgfrie tillatelser for ekstra funksjonalitet:
+addon-permissions-learnmore = Les mer om tillatelser
 recommended-extensions-heading = Anbefalte utvidelser
 recommended-themes-heading = Anbefalte temaer
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
