@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = בטעינה:
 videocontrols-volume-control =
     .aria-label = עוצמת קול
+videocontrols-closed-caption-button =
+    .aria-label = כתוביות
