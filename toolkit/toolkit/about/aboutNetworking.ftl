@@ -43,6 +43,7 @@ about-networking-dns-lookup = DNS 查询
 about-networking-dns-lookup-button = 解析
 about-networking-dns-domain = 域名：
 about-networking-dns-lookup-table-column = IP
+about-networking-dns-https-rr-lookup-table-column = HTTP 资源记录（RR）
 about-networking-rcwn = RCWN 统计
 about-networking-rcwn-status = RCWN 状态
 about-networking-rcwn-cache-won-count = 缓存领先次数
