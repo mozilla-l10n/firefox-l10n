@@ -346,6 +346,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Sluiten
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Bladwijzers importeren…
+    .tooltiptext = Bladwijzers van een andere browser naar { -brand-short-name } kopiëren.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
