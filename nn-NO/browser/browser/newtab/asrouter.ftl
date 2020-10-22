@@ -96,8 +96,8 @@ cfr-whatsnew-panel-header = Kva er nytt
 cfr-whatsnew-release-notes-link-text = Les versjonsnotatet
 cfr-whatsnew-fx70-title = { -brand-short-name } jobbar no endå meir for personvernet ditt
 cfr-whatsnew-fx70-body =
-    Den siste oppdateringa forbetrar sporingsbesvernfunksjonen og gjer det
-    enklare enn nokon gong å lage sikre passord for kvar nettstad.
+    Den siste oppdateringa forbetrar sporingsvernfunksjonen og gjer det
+    enklare enn nokon gong å lage trygge passord for kvar nettstad.
 cfr-whatsnew-tracking-protect-title = Beskytt deg mot sporarar
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blokkerer mange vanlege sporarar frå sosiale medium og sporing på tvers av nettstadar som
@@ -114,7 +114,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Sidan { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vis rapport
 cfr-whatsnew-lockwise-backup-title = Ta sikkerheitskopi av passorda dine
-cfr-whatsnew-lockwise-backup-body = No kan du generere sikre passord du får tilgang til kvar som helst du loggar inn.
+cfr-whatsnew-lockwise-backup-body = No kan du generere trygge passord du får tilgang til kvar som helst du loggar inn.
 cfr-whatsnew-lockwise-backup-link-text = Slå på sikkerheitskopiering
 cfr-whatsnew-lockwise-take-title = Ta med deg passorda dine
 cfr-whatsnew-lockwise-take-body =
