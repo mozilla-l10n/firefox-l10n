@@ -336,6 +336,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = 关闭
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = 导入书签…
+    .tooltiptext = 将书签从从其他浏览器复制到 { -brand-short-name }
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
