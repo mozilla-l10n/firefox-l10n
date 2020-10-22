@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Avrir en { -brand-short-name }
     .accesskey = A
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Ils parameters pon vegnir midads en las preferenzas da { -brand-short-name }.
+           *[other] Ils parameters pon vegnir midads en las preferenzas da { -brand-short-name }.
+        }
