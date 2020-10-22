@@ -342,6 +342,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Lat att
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Importer bokmerke…
+    .tooltiptext = Kopier bokmerke frå ein annan nettlesar til { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
