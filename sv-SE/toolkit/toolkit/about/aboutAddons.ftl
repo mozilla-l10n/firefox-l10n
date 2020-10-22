@@ -392,6 +392,9 @@ recent-updates-heading = Senaste uppdateringar
 release-notes-loading = Laddar…
 release-notes-error = Tyvärr, men det gick inte att läsa in versionsfakta.
 addon-permissions-empty = Detta tillägg kräver inga behörigheter
+addon-permissions-required = Nödvändiga behörigheter för kärnfunktionalitet:
+addon-permissions-optional = Valfria behörigheter för extra funktionalitet:
+addon-permissions-learnmore = Läs mer om behörigheter
 recommended-extensions-heading = Rekommenderade tillägg
 recommended-themes-heading = Rekommenderade teman
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
