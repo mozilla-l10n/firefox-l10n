@@ -400,6 +400,9 @@ recent-updates-heading = Diweddariadau Diweddar
 release-notes-loading = Llwytho…
 release-notes-error = Ymddiheuriadau ond bu gwall llwytho'r nodiadau ryddhau.
 addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn
+addon-permissions-required = Caniatâd angenrheidiol y swyddogaethau craidd:
+addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwanegol:
+addon-permissions-learnmore = Dysgu rhagor am ganiatâd
 recommended-extensions-heading = Estyniadau Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

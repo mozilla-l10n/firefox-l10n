@@ -352,6 +352,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Cau
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Mewnforio nodau tudalen...
+    .tooltiptext = Copïo nodau tudalen o borwr arall i { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
