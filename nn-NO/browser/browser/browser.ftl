@@ -277,8 +277,8 @@ bookmark-panel =
 
 ## Identity Panel
 
-identity-connection-not-secure = Tilkoplinga er ikkje sikker
-identity-connection-secure = Tilkoplinga er sikker
+identity-connection-not-secure = Tilkoplinga er ikkje trygg
+identity-connection-secure = Tilkoplinga er trygg
 identity-connection-internal = Dette er ei sikker { -brand-short-name }-side.
 identity-connection-file = Denne sida er lagra på datamaskina di.
 identity-extension-page = Denne sida er lasta frå ei utviding.
@@ -303,8 +303,8 @@ identity-permissions-reload-hint = Du må kanskje laste sida på nytt for at end
 identity-permissions-empty = Du har ikkje gjeve denne nettstaden spesielle løyve.
 identity-clear-site-data =
     .label = Slett infokapslar og nettstaddata…
-identity-connection-not-secure-security-view = Du er ikkje sikkert kopla til denne nettstaden.
-identity-connection-verified = Du er sikkert kopla til denne nettstaden.
+identity-connection-not-secure-security-view = Du er ikkje trygt kopla til denne nettstaden.
+identity-connection-verified = Du er trygt kopla til denne nettstaden.
 identity-ev-owner-label = Sertifikat skrive ut til:
 identity-description-custom-root = Mozilla kjenner ikkje att utskrivaren av dette sertifikatet. Det kan ha blitt lagt til av operativsystemet ditt, eller av ein administrator. <label data-l10n-name="link">Les meir</label>
 identity-remove-cert-exception =
@@ -318,7 +318,7 @@ identity-description-active-blocked = { -brand-short-name } har blokkert delar a
 identity-description-passive-loaded = Sambandet til denne nettstaden er ikkje privat og informasjon du deler med denne sida kan sjåast av andre.
 identity-description-passive-loaded-insecure = Denne nettsida har innhald som ikkje er trygt (t.d. bilde). <label data-l10n-name="link">Les meir</label>
 identity-description-passive-loaded-mixed = Sjølv om { -brand-short-name } har blokkert noko innhald, finst det framleis innhald på sida som ikkje er trygt (slik som bilde). <label data-l10n-name="link">Les meir</label>
-identity-description-active-loaded = Denne nettstaden har innhald som ikkje er overført sikkert (slik som skript) og tilkoplinga di er difor ikkje privat.
+identity-description-active-loaded = Denne nettstaden har innhald som ikkje er overført trygt (slik som skript) og tilkoplinga di er difor ikkje privat.
 identity-description-active-loaded-insecure = Informasjonen du deler med denne nettstaden kan sjåast av andre (t.d. passords, meldingar, kredittkort osb.).
 identity-learn-more =
     .value = Les meir

@@ -14,7 +14,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Den førespurde adressa spesifiserte ein port (t.d. <q>mozilla.org:80</q> for port 80 på mozilla.org) som normalt vert brukt til eit <em>anna</em> formål enn nettlesing. Nettlesaren har avbrote førespurnaden av tryggingsårsaker.</p>">
 
 <!ENTITY dnsNotFound.title "Fann ikkje adressa">
-<!ENTITY dnsNotFound.longDesc "<p>Nettlesaren klarte ikkje å finna tenarverten for den uspesifiserte adressa.</p><ul><li>Skreiv du inn adressa rett? (t.d. <q><strong>ww</strong>.mozilla.org</q> i staden for <q><strong>www</strong>.mozilla.org</q>)</li><li>Er du sikker på at adressa finst?  Det kan vera at nettstaden er stengt.</li><li>Kan du surfa på andre nettsider?  Kontroller nettverkstilkoplinga di og  innstillingane for DNS- tenaren.</li><li>Er datamaskina di eller nettverket ditt verna av ein brannmur eller proxy?  Feil innstillingar kan påverka nettlesinga.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Nettlesaren klarte ikkje å finne tenarverten for den uspesifiserte adressa.</p><ul><li>Skreiv du inn adressa rett? (t.d. <q><strong>ww</strong>.mozilla.org</q> i staden for <q><strong>www</strong>.mozilla.org</q>)</li><li>Er du sikker på at adressa finst?  Det kan vere at nettstaden er stengt.</li><li>Kan du surfe på andre nettsider?  Kontroller nettverkstilkoplinga di og  innstillingane for DNS- tenaren.</li><li>Er datamaskina di eller nettverket ditt verna av ein brannmur eller proxy?  Feil innstillingar kan påverke nettlesinga.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kan elementet ha fått nytt namn, vera fjerna, eller flytta?</li><li>Er det feil i staving, store bokstavar, eller andre typografiske feil i adressa?</li><li>Har du tilstrekkjeleg tilgangsløyve til det førespurde elementet?</li></ul>">
@@ -85,7 +85,7 @@
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadeigarane og informer dei om dette problemet.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje sikker">
+<!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløra informasjon som du trudde skulle vera sikker. Administrator på nettstaden må fiksa tenaren før du kan vitja nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
