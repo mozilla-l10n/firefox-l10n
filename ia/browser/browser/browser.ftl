@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Insere minus, trova plus: cerca { $engineName } justo per tu barra de adresse.
 urlbar-search-tips-redirect-2 = Comencia tu recerca in le barra de adresse pro vider suggestiones de { $engineName } e de tu chronologia de navigation.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Selige iste accesso directe pro trovar lo que tu cerca plus rapidemente.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,6 +296,8 @@ identity-https-only-dropdown-off =
     .label = Inactive
 identity-https-only-dropdown-off-temporarily =
     .label = Disactivate temporarimente
+identity-https-only-info-turn-on2 = Activa le modo solo HTTPS pro iste sito si tu vole que { -brand-short-name } securisa le connexion quando possibile.
+identity-https-only-info-turn-off2 = Si le pagina non functiona, prova disactivar le modo solo HTTPS pro iste sito e recargar con un connexion HTTP insecur.
 identity-https-only-info-no-upgrade = Impossibile promover le connexion HTTP.
 identity-permissions =
     .value = Permissiones
@@ -338,6 +343,12 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurar
 browser-window-close-button =
     .tooltiptext = Clauder
+
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Importar marcapaginas…
+    .tooltiptext = Copia le marcapaginas de un altere navigator a { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -445,6 +456,18 @@ urlbar-result-action-search-w-engine = Cercar con { $engine }
 urlbar-result-action-sponsored = Sponsorisate
 urlbar-result-action-switch-tab = Commutar al scheda
 urlbar-result-action-visit = Visitar
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Pressa Tab pro cercar con { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Pressa Tab pro cercar in { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
