@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Malfermi per { -brand-short-name }
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Settings can be changed in { -brand-short-name }'s Options.
+           *[other] Settings can be changed in { -brand-short-name }'s Preferences.
+        }
