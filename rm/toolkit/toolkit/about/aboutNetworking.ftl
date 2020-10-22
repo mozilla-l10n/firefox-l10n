@@ -43,6 +43,7 @@ about-networking-dns-lookup = Retschertga DNS
 about-networking-dns-lookup-button = Resolver
 about-networking-dns-domain = Domena:
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Statistica RCWN
 about-networking-rcwn-status = Status RCWN
 about-networking-rcwn-cache-won-count = Dumber da victorias dal cache

@@ -395,6 +395,9 @@ recent-updates-heading = Ultimas actualisaziuns
 release-notes-loading = Chargiar…
 release-notes-error = Perstgisa, ma cun chargiar las remartgas davart la versiun è succedida ina errur.
 addon-permissions-empty = Questa extensiun na pretenda naginas autorisaziuns
+addon-permissions-required = Permissiuns necessarias per las funcziunalitads centralas:
+addon-permissions-optional = Permissiuns facultativas per funcziunalitads supplementaras:
+addon-permissions-learnmore = Vegnir a savair dapli davart permissiuns
 recommended-extensions-heading = Extensiuns recumandadas
 recommended-themes-heading = Designs recumandads
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

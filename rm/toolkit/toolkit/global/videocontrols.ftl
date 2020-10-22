@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Chargiar:
 videocontrols-volume-control =
     .aria-label = Volumen
+videocontrols-closed-caption-button =
+    .aria-label = Suttitels
