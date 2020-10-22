@@ -45,6 +45,7 @@ about-networking-dns-lookup = DNS-zoekactie
 about-networking-dns-lookup-button = Omzetten
 about-networking-dns-domain = Domein:
 about-networking-dns-lookup-table-column = IP-adressen
+about-networking-dns-https-rr-lookup-table-column = HTTP-RR’s
 about-networking-rcwn = RCWN-statistieken
 about-networking-rcwn-status = RCWN-status
 about-networking-rcwn-cache-won-count = Aantal gewonnen door buffer
