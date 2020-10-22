@@ -116,7 +116,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Åtvaring: Potensiell sikkerheitsrisiko framom her">
 <!ENTITY certerror.sts.pagetitle  "Kopla ikkje til: Potensielt tryggingsproblem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har ein sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; berre kan kople til den sikkert. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har ein tryggingspolicy kalla HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; berre kan kople til han trygt. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -131,7 +131,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Viss du ikkje kjenner til <span class='mitm-name'/>, kan dette vere eit angrep, og du bør ikkje fortsette til nettstaden.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Viss du ikkje kjenner til <span class='mitm-name'/>, kan dette vere eit angrep, og det er ingenting du kan gjere for å få tilgang til nettstaden.">
 
-<!ENTITY clockSkewError.longDesc "Datamaskina di trur det er <span id='wrongSystemTime_systemDate1'/>, som hindrar &brandShortName; frå å kople til sikkert. For å besøke <span class='hostname'></span>, oppdater klokka til datamaskina i systeminnstillingane til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "Datamaskina di trur det er <span id='wrongSystemTime_systemDate1'/>, som hindrar &brandShortName; frå å kople til trygt. For å besøkje <span class='hostname'></span>, oppdater klokka til datamaskina i systeminnstillingane til gjeldande dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Det ser ut til at sikkerheitsinnstillingane i nettverket kan vere årsak til dette. Vil du stille tilbake til standard innstillingar?">
 <!ENTITY prefReset.label "Bruk standardinnstillingar">
