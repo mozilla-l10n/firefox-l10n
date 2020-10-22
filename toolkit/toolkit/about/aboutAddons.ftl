@@ -398,6 +398,9 @@ recent-updates-heading = Legutóbbi frissítések
 release-notes-loading = Betöltés…
 release-notes-error = Sajnáljuk, de hiba történt a kiadási megjegyzések betöltésekor.
 addon-permissions-empty = Ez a kiegészítő nem igényel semmilyen engedélyt
+addon-permissions-required = Az alapvető funkciókhoz szükséges engedélyek:
+addon-permissions-optional = A további funkciókhoz szükséges engedélyek:
+addon-permissions-learnmore = További tudnivalók az engedélyekről
 recommended-extensions-heading = Ajánlott kiegészítők
 recommended-themes-heading = Ajánlott témák
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
