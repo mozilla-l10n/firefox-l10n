@@ -344,6 +344,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Tampar
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Importar marcapaginas…
+    .tooltiptext = Copiar los marcapaginas d’un autre navegador per { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =

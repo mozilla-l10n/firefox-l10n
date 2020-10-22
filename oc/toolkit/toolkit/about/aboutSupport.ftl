@@ -326,6 +326,10 @@ multi-process-status-6 = Desactivat per un biais de sasida non pres en carga
 multi-process-status-7 = Desactivat per de moduls complementaris
 multi-process-status-8 = Desactivat per forma forçada
 multi-process-status-unknown = Estatut desconegut
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Zoom/Panoramic asincròns
 apz-none = pas cap
 wheel-enabled = entrada rodeta activada

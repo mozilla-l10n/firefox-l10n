@@ -398,6 +398,7 @@ recent-updates-heading = Mesas a jorn recentas
 release-notes-loading = Cargament…
 release-notes-error = Una error s'es producha en cargant las nòtas de version.
 addon-permissions-empty = Aquesta extension demanda pas cap d'autorizacion
+addon-permissions-learnmore = Per ne saber mai sus las permissions
 recommended-extensions-heading = Extensions recomandadas
 recommended-themes-heading = Tèmas recomandats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

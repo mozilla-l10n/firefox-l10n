@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Cargament :
 videocontrols-volume-control =
     .aria-label = Volum
+videocontrols-closed-caption-button =
+    .aria-label = Tampar las legendas
