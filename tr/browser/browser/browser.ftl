@@ -344,6 +344,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Kapat
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Yer imlerini içe aktar…
+    .tooltiptext = Başka bir tarayıcıdaki yer imlerini { -brand-short-name } tarayıcınıza kopyalayın.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =

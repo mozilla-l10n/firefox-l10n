@@ -391,6 +391,9 @@ recent-updates-heading = Son güncellenenler
 release-notes-loading = Yükleniyor…
 release-notes-error = Üzgünüz, sürüm notları yüklenirken bir hata meydana geldi.
 addon-permissions-empty = Bu eklenti herhangi bir izin gerektirmiyor
+addon-permissions-required = Temel işlevler için gerekli izinler:
+addon-permissions-optional = Ek işlevler için isteğe bağlı izinler:
+addon-permissions-learnmore = İzinler hakkında daha fazla bilgi alın
 recommended-extensions-heading = Önerilen eklentiler
 recommended-themes-heading = Önerilen temalar
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
