@@ -8,7 +8,7 @@ account-settings = Paràmetres del compte
 setup-title =
     { $accounts ->
         [0] Trieu què voleu configurar
-       *[other] Configura un altre compte
+       *[other] Configureu un altre compte
     }
 about-title = Quant al { -brand-full-name }
 resources-title = Recursos
@@ -35,7 +35,7 @@ feeds-description = El { -brand-short-name } us permet connectar a canals RSS / 
 newsgroups-label = Grups de discussió
     .aria-label = Connecteu-vos a grups de discussió
 newsgroups-description = El { -brand-short-name } us permet connectar a tots els grups de discussió que vulgueu.
-import-title = Importa d'un altre programa
+import-title = Importeu d'un altre programa
 import-paragraph = El { -brand-short-name } us permet importar missatges de correu, entrades de llibreta d'adreces, preferències i/o filtres d'altres programes de correu i formats habituals de llibretes d'adreces.
 import-label = Importa
     .aria-label = Importeu dades d'altres programes
