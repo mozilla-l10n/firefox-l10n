@@ -68,6 +68,7 @@ app-basics-service-workers = Service Workers registrate
 app-basics-profiles = Profilos
 app-basics-launcher-process-status = Processo del lanceator
 app-basics-multi-process-support = Fenestras in multiprocesso
+app-basics-fission-support = Fenestras de Fission
 app-basics-remote-processes-count = Processos remote
 app-basics-enterprise-policies = Politicas de interprisa
 app-basics-location-service-key-google = Clave del servicio de localisation de Google
@@ -333,10 +334,16 @@ multi-process-status-unknown = Stato incognite
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Disactivate per experimento
+fission-status-experiment-treatment = Activate per experimento
+fission-status-disabled-by-e10s-env = Disactivate per ambiente
+fission-status-enabled-by-env = Activate per ambiente
+fission-status-disabled-by-safe-mode = Disactivate per modo secur
 fission-status-enabled-by-default = Activate per predefinition
 fission-status-disabled-by-default = Disactivate per predefinition
 fission-status-enabled-by-user-pref = Activate per le usator
 fission-status-disabled-by-user-pref = Disactivate per le usator
+fission-status-disabled-by-e10s-other = E10s disactivate
 async-pan-zoom = Pan/Zoom asynchrone
 apz-none = nulle
 wheel-enabled = entrata a rota activate

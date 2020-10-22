@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Cargate:
 videocontrols-volume-control =
     .aria-label = Volumine
+videocontrols-closed-caption-button =
+    .aria-label = Subtitulos

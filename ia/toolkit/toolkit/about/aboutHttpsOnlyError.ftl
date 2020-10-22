@@ -23,5 +23,6 @@ about-httpsonly-explanation-nosupport = Multo probabilemente, le sito web simple
 about-httpsonly-explanation-risk = Il es alsi possibile que un attaccante es implicate. Si tu decide visitar le sito web, tu non deberea inserer ulle datos sensibile como contrasignos, emails o detalios del carta de credito.
 about-httpsonly-button-accept-and-continue = Acceptar le risco e continuar
 about-httpsonly-explanation-continue = Si tu continua, le modo solo HTTPS essera temporarimente disactivate pro iste sito.
+about-httpsonly-button-continue-to-site = Continuar al sito HTTP
 about-httpsonly-button-go-back = Retornar
 about-httpsonly-link-learn-more = Saper plus…
