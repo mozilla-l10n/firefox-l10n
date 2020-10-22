@@ -348,6 +348,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Začinić
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Zapołožki importować…
+    .tooltiptext = Zapołožki z druheho wobhladowaka do { -brand-short-name } kopěrować.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =

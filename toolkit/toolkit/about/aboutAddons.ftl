@@ -392,6 +392,9 @@ recent-updates-heading = Najnowše aktualizacije
 release-notes-loading = Začituje so…
 release-notes-error = Při začitowanju wersijowych informacijow je bohužel zmylk wustupił.
 addon-permissions-empty = Tute rozšěrjenje sej prawa njewužaduje
+addon-permissions-required = Trěbne prawa za jadrowu funkcionalnosć:
+addon-permissions-optional = Opcionalne prawa za přidatu funkcionalnosć:
+addon-permissions-learnmore = Dalše informacije wo prawach
 recommended-extensions-heading = Doporučene rozšěrjenja
 recommended-themes-heading = Doporučene drasty
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

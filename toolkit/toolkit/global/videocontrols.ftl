@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Začituje  so:
 videocontrols-volume-control =
     .aria-label = Sylnosć zwuka
+videocontrols-closed-caption-button =
+    .aria-label = Podtitule
