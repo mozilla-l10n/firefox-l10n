@@ -344,6 +344,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Bezárás
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Könyvjelzők importálása…
+    .tooltiptext = Könyvjelzők másolása egy másik böngészőből a { -brand-short-name }ba.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =

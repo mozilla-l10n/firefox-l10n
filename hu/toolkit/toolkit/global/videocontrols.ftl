@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Betöltés:
 videocontrols-volume-control =
     .aria-label = Hangerő
+videocontrols-closed-caption-button =
+    .aria-label = Feliratok

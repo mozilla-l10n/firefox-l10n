@@ -45,6 +45,7 @@ about-networking-dns-lookup = DNS kikeresés
 about-networking-dns-lookup-button = Feloldás
 about-networking-dns-domain = Tartomány:
 about-networking-dns-lookup-table-column = IP-k
+about-networking-dns-https-rr-lookup-table-column = HTTP RR-ek
 about-networking-rcwn = RCWN statisztikák
 about-networking-rcwn-status = RCWN állapot
 about-networking-rcwn-cache-won-count = A gyorsítótár nyerésének száma
