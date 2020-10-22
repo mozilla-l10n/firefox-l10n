@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Llwytho:
 videocontrols-volume-control =
     .aria-label = Lefel y sain
+videocontrols-closed-caption-button =
+    .aria-label = Capsiynau Caeedig
