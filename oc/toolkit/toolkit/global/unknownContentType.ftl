@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Dobrir dins { -brand-short-name }
     .accesskey = D
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] Los paramètres pòdon èsser modificats en utilizant l'onglet Aplicacions del menú { -brand-short-name }.
+           *[other] Los paramètres pòdon èsser modificats en utilizant l'onglet Aplicacions del menú Preferéncias de { -brand-short-name }.
+        }
