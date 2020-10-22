@@ -68,6 +68,7 @@ app-basics-service-workers = Registrearre Service Workers
 app-basics-profiles = Profilen
 app-basics-launcher-process-status = Launcher-proses
 app-basics-multi-process-support = Multiproses-finsters
+app-basics-fission-support = Fission Windows
 app-basics-remote-processes-count = Eksterne prosessen
 app-basics-enterprise-policies = Bedriuwsbelied
 app-basics-location-service-key-google = Google-lokaasjetsjinstkaai
@@ -329,6 +330,20 @@ multi-process-status-6 = Utskeakele troch net-stipe tekstynfier
 multi-process-status-7 = Utskeakele troch add-ons
 multi-process-status-8 = Forsearre útskeakele
 multi-process-status-unknown = Unbekende steat
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Utskeakele troch eksperimint
+fission-status-experiment-treatment = Ynskeakele troch eksperimint
+fission-status-disabled-by-e10s-env = Utskeakele troch omjouwing
+fission-status-enabled-by-env = Ynskeakele troch omjouwing
+fission-status-disabled-by-safe-mode = Utskeakele troch feilige modus
+fission-status-enabled-by-default = Standert ynskeakele
+fission-status-disabled-by-default = Standert útskeakele
+fission-status-enabled-by-user-pref = Ynskeakele troch brûker
+fission-status-disabled-by-user-pref = Utskeakele troch brûker
+fission-status-disabled-by-e10s-other = E10s útskeakele
 async-pan-zoom = Asyngroan panne/zoome
 apz-none = gjin
 wheel-enabled = tsjilynfier ynskeakele
