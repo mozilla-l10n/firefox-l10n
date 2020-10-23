@@ -436,11 +436,11 @@ browsing-media-control =
     .accesskey = ю
 browsing-media-control-learn-more = Докладніше
 browsing-cfr-recommendations =
-    .label = Рекомендувати розширення при перегляді
-    .accesskey = Р
+    .label = Рекомендувати розширення під час перегляду
+    .accesskey = р
 browsing-cfr-features =
     .label = Рекомендувати функції під час перегляду
-    .accesskey = Р
+    .accesskey = ф
 browsing-cfr-recommendations-learn-more = Докладніше
 
 ## General Section - Proxy
