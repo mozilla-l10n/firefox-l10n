@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Zacytujo se:
 videocontrols-volume-control =
     .aria-label = Głosnosć
+videocontrols-closed-caption-button =
+    .aria-label = Pódtitele
