@@ -348,6 +348,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zacyniś
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Cytańske znamjenja importěrowaś…
+    .tooltiptext = Cytańske znamjenja z drugego wobglědowaka do { -brand-short-name } kopěrowaś.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
