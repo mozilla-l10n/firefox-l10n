@@ -865,7 +865,7 @@
      This is actually the key used for the global message search box; we have
      not changed
   -->
-<!ENTITY quickSearchCmd.key "n">
+<!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
