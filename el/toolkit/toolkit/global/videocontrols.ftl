@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Φόρτωση:
 videocontrols-volume-control =
     .aria-label = Ένταση
+videocontrols-closed-caption-button =
+    .aria-label = Υπότιτλοι
