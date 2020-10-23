@@ -43,6 +43,7 @@ about-networking-dns-lookup = DNS Çözümleme
 about-networking-dns-lookup-button = Çözümle
 about-networking-dns-domain = Alan adı:
 about-networking-dns-lookup-table-column = IP'ler
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN İstatistikleri
 about-networking-rcwn-status = RCWN durumu
 about-networking-rcwn-cache-won-count = Önbellek kazanım sayısı

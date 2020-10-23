@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } bağlantısı sırasında bir hata oluştu. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Hata kodu: { $error }
-
 psmerr-ssl-disabled = Güvenli olarak bağlanamıyor, çünkü SSL iletişim kuralı devre dışı bırakıldı.
 psmerr-ssl2-disabled = Güvenli olarak bağlanamıyor, çünkü site SSL iletişim kuralının eski ve güvensiz sürümünü kullanıyor.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Geçersiz bir sertifika aldınız. Lütfen sunucu yöneticisiyle iletişime geçin veya karşı tarafa e-posta yazarak bu bilgiyi verin:
     
     Sertifkanız, sertifika makamının verdiği başka bir sertifikayla aynı seri numarasını taşıyor. Lütfen benzersiz seri numaraya sahip yeni bir sertifika edinin.
-
 ssl-error-export-only-server = Güvenli iletişim kurulamadı. Karşı taraf yüksek düzeyde şifrelemeyi desteklemiyor.
 ssl-error-us-only-server = Güvenli iletişim kurulamadı. Karşı taraf şu an desteklenmeyen yüksek düzey şifreleme istiyor.
 ssl-error-no-cypher-overlap = Karşı tarafla güvenli iletişim kurulamadı: Ortak bir şifreleme çözüm yolu yok.
@@ -102,7 +99,7 @@ ssl-error-mac-computation-failure = MAC hesaplaması başarısız oldu.
 ssl-error-sym-key-context-failure = Simetrik anahtar içeriği üretimi başarısız oldu.
 ssl-error-sym-key-unwrap-failure = İstemci anahtar değişim iletisindeki simetrik anahtar çözülemedi.
 ssl-error-pub-key-size-limit-exceeded = SSL sunucusu yerel düzeydeki genel anahtarla dışa aktarılan şifreleme takımını kullanmayı denedi.
-ssl-error-iv-param-failure = PKCS11 kodu, bir IV'yi bir değişkene çeviremedi.
+ssl-error-iv-param-failure = PKCS11 kodu, bir IV’yi bir değişkene çeviremedi.
 ssl-error-init-cipher-suite-failure = Seçilen şifreleme takımı çalıştırılamadı.
 ssl-error-session-key-gen-failure = İstemci, SSL oturumu için anahtar üretmeyi beceremedi.
 ssl-error-no-server-key-for-alg = Sunucu, üzerinde çalışılan değişim çözüm yolu için hiçbir anahtara sahip değil.
@@ -128,7 +125,7 @@ ssl-error-user-canceled-alert = Eş kullanıcı karşılamayı iptal etti.
 ssl-error-no-renegotiation-alert = Eş SSL güvenlik değişkenlerinin yeniden görüşülmesine izin vermiyor.
 ssl-error-server-cache-not-configured = SSL sunucusu bu yuva için ayarlanmadı ve devre dışı bırakılmadı.
 ssl-error-unsupported-extension-alert = SSL eşi istenen TLS eklentisini desteklemiyor.
-ssl-error-certificate-unobtainable-alert = SSL eşi verdiğiniz URL'den sertifikanıza ulaşamadı.
+ssl-error-certificate-unobtainable-alert = SSL eşi verdiğiniz URL’den sertifikanıza ulaşamadı.
 ssl-error-unrecognized-name-alert = SSL eşi istenen DNS için sertifikaya sahip değil.
 ssl-error-bad-cert-status-response-alert = SSL eşi sertifika için OCSP yanıtı alamadı.
 ssl-error-bad-cert-hash-value-alert = SSL eşi bozulmuş sertifika özeti bildirdi.
@@ -193,7 +190,7 @@ sec-error-cert-not-valid = Bu sertifika geçerli değil.
 sec-error-cert-no-response = Sertifika kitaplığı: Yanıt yok
 sec-error-expired-issuer-certificate = Sertifika yayıncısının sertifikasının süresi dolmuş. Sistem tarihi ve saatinizi gözden geçirin.
 sec-error-crl-expired = Sertifika yayıncısının CRL süresi dolmuş. Listeyi güncelleyin veya sistem tarihi ve saatinizi gözden geçirin.
-sec-error-crl-bad-signature = Sertifika yayıncısının CRL'si geçersiz bir imza içeriyor.
+sec-error-crl-bad-signature = Sertifika yayıncısının CRL’si geçersiz bir imza içeriyor.
 sec-error-crl-invalid = Yeni hükümsüzler listesi geçersiz biçime sahip.
 sec-error-extension-value-invalid = Sertifika uzantı değeri geçersiz.
 sec-error-extension-not-found = Sertifika uzantısı bulunamadı.
@@ -272,7 +269,7 @@ sec-error-js-invalid-dll = Geçersiz birim yolu veya dosya adı
 sec-error-js-add-mod-failure = Modül eklenemedi
 sec-error-js-del-mod-failure = Modül silinemedi
 sec-error-old-krl = Yeni hükümsüz anahtar listesinin tarihi hâlihazırdakinden daha yeni değil.
-sec-error-ckl-conflict = Yeni CKL'nin yayıncısı şu anki CKL yayıncısından farklı. Geçerli listeyi silin.
+sec-error-ckl-conflict = Yeni CKL’nin yayıncısı şu anki CKL yayıncısından farklı. Geçerli listeyi silin.
 sec-error-cert-not-in-name-space = Bu sertifikanın Sertifika Makamının bu isimle sertifika oluşturmasına izin verilmiyor.
 sec-error-krl-not-yet-valid = Bu sertifikanın anahtar iptal listesi henüz geçerli değil.
 sec-error-crl-not-yet-valid = Bu sertifikanın sertifika iptal listesi henüz geçerli değil.
@@ -288,8 +285,8 @@ sec-error-ocsp-request-needs-sig = OCSP sunucusu bu istekte imza gerektiğini s�
 sec-error-ocsp-unauthorized-request = OCSP sunucusu yetkisiz olduğu gerekçesiyle bu isteği geri çevirdi.
 sec-error-ocsp-unknown-response-status = OCSP sunucusu algılanamayan bir durumla karşılaştı.
 sec-error-ocsp-unknown-cert = OCSP sunucusu sertifikayla ilgili durum bildirmiyor.
-sec-error-ocsp-not-enabled = Bu işlemi gerçekleştirmeden önce OCSP'yi devreye sokmalısınız.
-sec-error-ocsp-no-default-responder = Bu işlemi gerçekleştirmeden önce OCSP'yi varsayılan yanıt verici olarak ayarlamalısınız.
+sec-error-ocsp-not-enabled = Bu işlemi gerçekleştirmeden önce OCSP’yi devreye sokmalısınız.
+sec-error-ocsp-no-default-responder = Bu işlemi gerçekleştirmeden önce OCSP’yi varsayılan yanıt verici olarak ayarlamalısınız.
 sec-error-ocsp-malformed-response = OCSP sunucusunun yanıtı bozuk ya da düzgün olmayan biçimde.
 sec-error-ocsp-unauthorized-response = OCSP yanıtını imzalayan, bu sertifikayla ilgili durum bildirmeye yetkili değil.
 sec-error-ocsp-future-response = OCSP yanıtı henüz geçerli değil (gelecekteki bir tarihe ait).
