@@ -5,3 +5,9 @@
 unknowncontenttype-handleinternally =
     .label = Abrir en { -brand-short-name }
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] La configuración puede cambiarse en las Preferencias de { -brand-short-name }.
+           *[other] La configuración puede cambiarse en las Preferencias de { -brand-short-name }.
+        }
