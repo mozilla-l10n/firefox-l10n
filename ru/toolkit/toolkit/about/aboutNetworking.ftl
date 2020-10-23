@@ -43,6 +43,7 @@ about-networking-dns-lookup = Запрос DNS
 about-networking-dns-lookup-button = Запросить
 about-networking-dns-domain = Домен:
 about-networking-dns-lookup-table-column = IP-адреса
+about-networking-dns-https-rr-lookup-table-column = HTTP RR-ы
 about-networking-rcwn = Статистика RCWN
 about-networking-rcwn-status = Статус RCWN
 about-networking-rcwn-cache-won-count = Число выигрышей кэша
