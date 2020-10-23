@@ -12,7 +12,7 @@
 
 policy-3rdparty = WebExtension’ların chrome.storage.managed aracılığıyla ulaşabileceği ilkeleri ayarla.
 policy-AppAutoUpdate = Otomatik uygulama güncellemesini aç veya kapat.
-policy-AppUpdateURL = Özel uygulama güncelleme URL'si ayarla.
+policy-AppUpdateURL = Özel uygulama güncelleme URL’si ayarla.
 policy-Authentication = Destekleyen web siteleri için bütünleşik kimlik doğrulamasını yapılandır.
 policy-BlockAboutAddons = Eklenti yöneticisine (about:addons) erişimi engelle.
 policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
@@ -25,7 +25,7 @@ policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
 policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
-policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF göstericisi olan PDF.js'i devre dışı bırak.
+policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF göstericisi olan PDF.js’i devre dışı bırak.
 policy-DisableDefaultBrowserAgent = Varsayılan tarayıcı agent’ının herhangi bir işlem yapmasını önle. Yalnızca Windows için geçerlidir. Diğer platformlarda agent yoktur.
 policy-DisableDeveloperTools = Geliştirici araçlarına erişimi engelle.
 policy-DisableFeedbackCommands = Yardım menüsünden geri bildirim göndermeye olanak sağlayan komutları (“Geri bildirim gönder” ve “Aldatıcı siteyi ihbar et”) devre dışı bırak.
@@ -38,7 +38,7 @@ policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisableMasterPasswordCreation = true ise ana parola oluşturulamaz.
 policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
 policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
-policy-DisablePocket = Web sayfalarını Pocket'a kaydetme özelliğini devre dışı bırak.
+policy-DisablePocket = Web sayfalarını Pocket’a kaydetme özelliğini devre dışı bırak.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
 policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
