@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Загрузка:
 videocontrols-volume-control =
     .aria-label = Громкость
+videocontrols-closed-caption-button =
+    .aria-label = Субтитры
