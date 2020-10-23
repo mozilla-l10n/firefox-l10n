@@ -344,6 +344,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Κλείσιμο
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Εισαγωγή σελιδοδεικτών…
+    .tooltiptext = Αντιγραφή σελιδοδεικτών από άλλο πρόγραμμα περιήγησης στο { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
