@@ -1080,6 +1080,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Traccianti intersito
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Traccianti intersito e dei social media
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cookie traccianti intersito, inclusi cookie dei social media
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cookie intersito, inclusi cookie dei social media
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Traccianti intersito e dei social media, isola i cookie restanti
 sitedata-option-block-unvisited =
@@ -1154,6 +1158,7 @@ content-blocking-etp-strict-desc = Maggiore protezione, ma alcuni siti o contenu
 content-blocking-etp-custom-desc = Scegli quali traccianti e script bloccare.
 
 content-blocking-private-windows = Contenuti traccianti in finestre anonime
+content-blocking-cross-site-cookies = Cookie intersito
 content-blocking-cross-site-tracking-cookies = Cookie traccianti intersito
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie traccianti intersito, isola i cookie restanti
 content-blocking-social-media-trackers = Traccianti dei social media
@@ -1166,6 +1171,7 @@ content-blocking-fingerprinters = Fingerprinter
 
 content-blocking-warning-title = Attenzione
 content-blocking-and-isolating-etp-warning-description = Il blocco degli elementi traccianti e l’isolamento dei cookie possono impedire il corretto funzionamento di alcuni siti. Ricaricare la pagina con gli elementi traccianti per visualizzare tutti i contenuti.
+content-blocking-and-isolating-etp-warning-description-2 = Questa impostazione potrebbe causare in alcuni siti la mancata visualizzazione di contenuti o altri problemi di funzionamento. Se una pagina non viene visualizzata correttamente, provare a disattivare la protezione antitracciamento per quel sito per ricaricare tutti i contenuti.
 content-blocking-warning-learn-how = Scopri come
 
 content-blocking-reload-description = È necessario ricaricare le schede per applicare le modifiche.
