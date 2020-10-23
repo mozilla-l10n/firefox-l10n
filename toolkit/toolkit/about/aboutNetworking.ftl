@@ -43,6 +43,7 @@ about-networking-dns-lookup = Αναζήτηση DNS
 about-networking-dns-lookup-button = Επίλυση
 about-networking-dns-domain = Τομέας:
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RR
 about-networking-rcwn = Στατιστικά RCWN
 about-networking-rcwn-status = Κατάσταση RCWN
 about-networking-rcwn-cache-won-count = Αριθμός νικών cache
