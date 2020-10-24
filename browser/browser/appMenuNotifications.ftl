@@ -26,7 +26,7 @@ appmenu-update-unsupported =
     .secondarybuttonaccesskey = F
 appmenu-update-unsupported-message = A versão mais recente do { -brand-shorter-name } não é suportada pelo seu sistema.
 appmenu-update-restart =
-    .label = Reinicie para atualizar o { -brand-shorter-name }.
+    .label = Reiniciar o { -brand-shorter-name } para atualizar.
     .buttonlabel = Reiniciar e restaurar
     .buttonaccesskey = R
     .secondarybuttonlabel = Agora não
@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = Gerencie extensões clicando em <image data
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir esta extensão em janelas privativas
     .accesskey = P
-    
 appmenu-new-tab-controlled =
     .label = Sua nova aba foi alterada.
     .buttonlabel = Manter alterações
