@@ -340,16 +340,16 @@ multi-process-status-unknown = nieznany stan
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Wyłączone przez eksperyment
-fission-status-experiment-treatment = Włączone przez eksperyment
-fission-status-disabled-by-e10s-env = Wyłączone przez środowisko
-fission-status-enabled-by-env = Włączone przez środowisko
-fission-status-disabled-by-safe-mode = Wyłączone przez tryb awaryjny
-fission-status-enabled-by-default = Domyślnie włączone
-fission-status-disabled-by-default = Domyślnie wyłączone
-fission-status-enabled-by-user-pref = Włączone przez użytkownika
-fission-status-disabled-by-user-pref = Wyłączone przez użytkownika
-fission-status-disabled-by-e10s-other = E10s jest wyłączone
+fission-status-experiment-control = wyłączone przez eksperyment
+fission-status-experiment-treatment = włączone przez eksperyment
+fission-status-disabled-by-e10s-env = wyłączone przez środowisko
+fission-status-enabled-by-env = włączone przez środowisko
+fission-status-disabled-by-safe-mode = wyłączone przez tryb awaryjny
+fission-status-enabled-by-default = włączone domyślnie
+fission-status-disabled-by-default = wyłączone domyślnie
+fission-status-enabled-by-user-pref = włączone przez użytkownika
+fission-status-disabled-by-user-pref = wyłączone przez użytkownika
+fission-status-disabled-by-e10s-other = e10s jest wyłączone
 async-pan-zoom = Asynchroniczne przewijanie/powiększanie
 apz-none = brak
 wheel-enabled = kółko
