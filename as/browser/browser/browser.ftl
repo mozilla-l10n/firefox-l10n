@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -112,6 +112,8 @@ urlbar-search-tips-redirect-2 = { $engineName }-ৰ পৰামৰ্শৱল�
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-tabs = টেবসমূহ
+urlbar-search-mode-history = ইতিহাস
 
 ##
 
@@ -161,6 +163,15 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [1] ডিভাইচলৈ টেব পঠিয়াওক
+            [one] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
+           *[other] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
+        }
 page-action-email-link-panel =
     .label = লিংক ইমেইল কৰক…
 page-action-email-link-urlbar =
@@ -268,6 +279,9 @@ browser-window-minimize-button =
     .tooltiptext = সৰু কৰক
 browser-window-close-button =
     .tooltiptext = বন্ধ কৰক
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 

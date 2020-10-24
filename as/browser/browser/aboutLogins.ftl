@@ -222,3 +222,13 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = লগিন ফাইল আমদানি কৰক
+about-logins-import-file-picker-import-button = আমদানি কৰক
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV নথি
+       *[other] CSV ফাইল
+    }
