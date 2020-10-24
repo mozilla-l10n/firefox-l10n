@@ -336,6 +336,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Đóng
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Nhập dấu trang…
+    .tooltiptext = Sao chép dấu trang từ trình duyệt khác vào { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
