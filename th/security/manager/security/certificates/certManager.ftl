@@ -211,6 +211,11 @@ cert-not-verified-unknown = ไม่สามารถพิสูจน์ใ�
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = ไม่ต้องส่งใบรับรองไคลเอ็นต์ใด ๆ
 
+## Used to show whether an override is temporary or permanent
+
+permanent-override = ถาวร
+temporary-override = ชั่วคราว
+
 ## Add Security Exception dialog
 
 add-exception-branded-warning = คุณกำลังก้าวล่วงวิธีการที่ { -brand-short-name } จะทำการระบุตัวตนเว็บไซต์นี้
