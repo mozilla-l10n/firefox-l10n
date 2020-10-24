@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Tela inteira">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Ocultar seletor de picture-in-picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "O">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Configurações do &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar outro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Entrar no &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ativar o &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Serviços &brandProductName;">
@@ -218,17 +216,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvar página no Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Ver lista do Pocket">
 
 <!ENTITY emailPageCmd.label           "Enviar link por e-mail…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -255,7 +248,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Abas do navegador">
@@ -274,7 +266,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Baixar atualização do &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Baixar uma nova cópia do &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Não é possível instalar atualizações adicionais">
-<!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "Reiniciar o &brandShorterName; para atualizar">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 
