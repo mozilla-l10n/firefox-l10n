@@ -52,6 +52,11 @@ printui-margins = প্ৰান্তৰেখা
 printui-margins-default = ডিফ'ল্ট
 printui-margins-min = সৰ্বনিম্ন
 printui-margins-none = একো নাই
+printui-margins-custom = নিজৰ হিচাপে
+printui-margins-custom-top = ওপৰত
+printui-margins-custom-bottom = তলত
+printui-margins-custom-left = বাওঁফালে
+printui-margins-custom-right = সোঁফালে
 printui-system-dialog-link = ছিষ্টেমৰ সংলাপ ব্যৱহাৰ কৰি প্ৰিণ্ট কৰক…
 printui-primary-button = প্ৰিণ্ট কৰক
 printui-primary-button-save = সাঁচি থওক
@@ -81,6 +86,7 @@ printui-paper-tabloid = টেবলৈড
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = স্কেল 10 আৰু 200ৰ মাজৰে এটা সংখ্যা হ'ব লাগিব।
+printui-error-invalid-margin = অনুগ্ৰহ কৰি বাছনি কৰা কাগজৰ আকাৰৰ বাবে এটা বৈধ সীমা লিখক।
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = পৰিসৰ 1 আৰু { $numPages }ৰ মাজৰে এটা সংখ্যা হ'ব লাগিব।
