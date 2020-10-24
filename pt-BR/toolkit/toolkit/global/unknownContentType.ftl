@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-handleinternally =
-    .label = Abrir com { -brand-short-name }
+    .label = Abrir no { -brand-short-name }
     .accesskey = c
 unknowncontenttype-settingschange =
     .value =
