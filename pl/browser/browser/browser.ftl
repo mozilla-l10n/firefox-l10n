@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -108,7 +108,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Pisz mniej, wyszukuj więcej: szukaj w { $engineName } prosto z paska adresu
-urlbar-search-tips-redirect-2 = Zacznij szukać na pasku adresu, by uzyskać podpowiedzi od wyszukiwarki { $engineName } i wyniki na podstawie historii przeglądania
+urlbar-search-tips-redirect-2 = Zacznij szukać na pasku adresu, aby uzyskać podpowiedzi od wyszukiwarki { $engineName } i wyniki na podstawie historii przeglądania
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Kliknij ten skrót, aby szybciej znaleźć to, czego potrzebujesz
 
 ## Local search mode indicator labels in the urlbar
 
@@ -295,8 +298,6 @@ identity-https-only-dropdown-off =
     .label = Wyłączony
 identity-https-only-dropdown-off-temporarily =
     .label = Tymczasowo wyłączony
-identity-https-only-info-turn-on = Włącz, jeśli chcesz, aby { -brand-short-name } przełączał na zabezpieczone połączenie, kiedy to możliwe.
-identity-https-only-info-turn-off = Jeśli witryna wydaje się niepoprawnie działać, możesz wyłączyć tryb używania wyłącznie protokołu HTTPS, aby odświeżyć ją za pomocą niezabezpieczonego protokołu HTTP.
 identity-https-only-info-no-upgrade = Nie można przełączyć połączenia z protokołu HTTP.
 identity-permissions =
     .value = Uprawnienia
@@ -342,6 +343,9 @@ browser-window-restore-down-button =
     .tooltiptext = Przywróć w dół
 browser-window-close-button =
     .tooltiptext = Zamknij
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -448,14 +452,6 @@ urlbar-result-action-search-in-private = szukaj w prywatnym oknie
 urlbar-result-action-search-w-engine = szukaj w { $engine }
 urlbar-result-action-switch-tab = przełącz na kartę
 urlbar-result-action-visit = otwórz stronę
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = szukaj w zakładkach
-urlbar-result-action-search-history = szukaj w historii
-urlbar-result-action-search-tabs = szukaj w kartach
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -464,6 +460,14 @@ urlbar-result-action-tabtosearch-web = szukaj w { $engine } prosto z paska adr
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = szukaj na witrynie { $engine } prosto z paska adresu
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = szukaj w zakładkach
+urlbar-result-action-search-history = szukaj w historii
+urlbar-result-action-search-tabs = szukaj w kartach
 
 ## Full Screen and Pointer Lock UI
 
