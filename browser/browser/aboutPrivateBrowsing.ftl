@@ -11,6 +11,8 @@ about-private-browsing =
     .title = ৱেবত সন্ধান কৰক
 about-private-browsing-not-private = আপুনি বৰ্তমান ব্যক্তিগত উইণ্ড'ত নাই।
 about-private-browsing-info-description = আপুনি এপ বা সকলো ব্যক্তিগত ব্ৰাউজিং টেব আৰু উইণ্ড' বন্ধ কৰিলে { -brand-short-name }-এ আপোনাৰ সন্ধানৰ লগতে ব্ৰাউজিং ইতিহাস পৰিষ্কাৰ কৰে। ই আপোনাক ৱেবছাইটসমূহ বা আপোনাৰ ইণ্টাৰনেট সেৱা প্ৰদানকাৰীৰ চকুত নামবিহীন নকৰে যদিও আপুনি অনলাইন কি কৰে সেয়া এই কম্পিউটাৰ ব্যৱহাৰ কৰা অন্য লোকৰ পৰা গোপনে ৰখাটো সহজ কৰে।
+about-private-browsing-need-more-privacy = অধিক গোপনীয়তা লাগে?
+about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } চলাই চাওক
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
