@@ -43,6 +43,7 @@ about-networking-dns-lookup = Rukanoxik DNS
 about-networking-dns-lookup-button = Tisol
 about-networking-dns-domain = Ruk'ojlem b'ey:
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN Cholajilatzij
 about-networking-rcwn-status = RCWN B'anikil
 about-networking-rcwn-cache-won-count = Xuch'äk ajilanem ri jumejyak

@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Nusamajij:
 videocontrols-volume-control =
     .aria-label = Ruch'ab'äl
+videocontrols-closed-caption-button =
+    .aria-label = Kicha'oj richin Nitz'apïx
