@@ -284,11 +284,11 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = Abrir com o { $app-name }
+    .label = Usar { $app-name }
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Abrir com o { $app-name } (padrão)
+    .label = Usar { $app-name } (padrão)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
