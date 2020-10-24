@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Wczytywanie:
 videocontrols-volume-control =
     .aria-label = Głośność
+videocontrols-closed-caption-button =
+    .aria-label = Napisy
