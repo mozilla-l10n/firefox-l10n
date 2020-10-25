@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escreva menos, encontre mais: Pesquise no { $engineName } diretamente da sua barra de endereço.
 urlbar-search-tips-redirect-2 = Comece a sua pesquisa na barra de endereço para ver sugestões do { $engineName } e do seu histórico de navegação.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Selecione este atalho para encontrar mais rapidamente o que precisa.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,8 +296,7 @@ identity-https-only-dropdown-off =
     .label = Desligado
 identity-https-only-dropdown-off-temporarily =
     .label = Temporariamente desligado
-identity-https-only-info-turn-on = Ative se quiser que o { -brand-short-name } atualize para uma ligação segura sempre que possível.
-identity-https-only-info-turn-off = Se o site parecer danificado, pode desativar o modo apenas HTTPS para recarregar utilizando o HTTP não-seguro.
+identity-https-only-info-turn-on2 = Ative o modo Apenas HTTPS para este site se quiser que o { -brand-short-name } atualize para uma ligação segura sempre que for possível.
 identity-https-only-info-no-upgrade = Não foi possível atualizar a ligação de HTTP.
 identity-permissions =
     .value = Permissões
@@ -340,6 +342,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurar para baixo
 browser-window-close-button =
     .tooltiptext = Fechar
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -446,14 +451,6 @@ urlbar-result-action-search-in-private = Pesquisar numa janela privada
 urlbar-result-action-search-w-engine = Pesquisar com { $engine }
 urlbar-result-action-switch-tab = Mudar para o separador
 urlbar-result-action-visit = Visitar
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Pesquisar marcadores
-urlbar-result-action-search-history = Pesquisar histórico
-urlbar-result-action-search-tabs = Pesquisar separadores
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +459,14 @@ urlbar-result-action-tabtosearch-web = Pesquisar com o { $engine } diretamente d
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Pesquisar o { $engine } diretamente da barra de endereço
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Pesquisar marcadores
+urlbar-result-action-search-history = Pesquisar histórico
+urlbar-result-action-search-tabs = Pesquisar separadores
 
 ## Full Screen and Pointer Lock UI
 

@@ -1131,7 +1131,7 @@ httpsonly-learn-more = Saber mais
 httpsonly-radio-enabled =
     .label = Ativar o modo apenas HTTPS em todas as janelas
 httpsonly-radio-enabled-pbm =
-    .label = Ativar o modo apenas HTTPS somente em janelas privadas
+    .label = Ativar o modo Apenas HTTPS somente em janelas privadas
 httpsonly-radio-disabled =
     .label = Não ativar o modo apenas HTTPS
 
