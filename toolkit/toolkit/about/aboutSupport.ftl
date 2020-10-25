@@ -68,6 +68,7 @@ app-basics-service-workers = Service Workers registados
 app-basics-profiles = Perfis
 app-basics-launcher-process-status = Processo de arranque
 app-basics-multi-process-support = Multi-processamento de janelas
+app-basics-fission-support = Janelas Fission
 app-basics-remote-processes-count = Processos remotos
 app-basics-enterprise-policies = Políticas empresariais
 app-basics-location-service-key-google = Chave do serviço de localização da Google
@@ -329,6 +330,20 @@ multi-process-status-6 = Desativado pela introdução de texto não suportada
 multi-process-status-7 = Desativado pelos extras
 multi-process-status-8 = Desativado forçadamente
 multi-process-status-unknown = Estado desconhecido
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Desativado por experimento
+fission-status-experiment-treatment = Ativado por experimento
+fission-status-disabled-by-e10s-env = Desativado pelo ambiente
+fission-status-enabled-by-env = Ativado pelo ambiente
+fission-status-disabled-by-safe-mode = Desativado pelo modo de segurança
+fission-status-enabled-by-default = Ativado por predefinição
+fission-status-disabled-by-default = Desativado por predefinição
+fission-status-enabled-by-user-pref = Ativado pelo utilizador
+fission-status-disabled-by-user-pref = Desativado pelo utilizador
+fission-status-disabled-by-e10s-other = E10 desativados
 async-pan-zoom = Deslocamento panorâmico/zoom assíncronos
 apz-none = nenhum
 wheel-enabled = introdução com roda ativada
@@ -349,3 +364,12 @@ touch-warning = introdução assíncrona com toque desativada devido a preferên
 policies-inactive = Inativas
 policies-active = Ativas
 policies-error = Erro
+
+## Printing section
+
+support-printing-title = Impressão
+support-printing-troubleshoot = Resolução de problemas
+support-printing-clear-settings-button = Limpar configurações de impressão guardadas
+support-printing-modified-settings = Configurações de impressão modificadas
+support-printing-prefs-name = Nome
+support-printing-prefs-value = Valor
