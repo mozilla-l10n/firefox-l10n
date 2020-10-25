@@ -24,7 +24,7 @@ radio-gnupg-key =
 
 openpgp-generate-key-title = Wygeneruj klucz OpenPGP
 openpgp-generate-key-info = <b>Generowanie klucza może zająć nawet kilka minut.</b> Nie wyłączaj aplikacji w trakcie generowania. Aktywne przeglądanie Internetu i wykonywanie działań intensywnie korzystających z dysku podczas generowania klucza uzupełni „pulę losowości” i przyspieszy ten proces. Po ukończeniu generowania zostanie wyświetlony komunikat.
-openpgp-keygen-expiry-title = Wygasanie klucza
+openpgp-keygen-expiry-title = Ważność klucza
 openpgp-keygen-expiry-description = Określ czas wygaśnięcia nowo utworzonego klucza. Możesz później zmienić datę, aby w razie potrzeby przedłużyć ten czas.
 radio-keygen-expiry =
     .label = Klucz wygasa za
