@@ -297,6 +297,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Temporariamente desligado
 identity-https-only-info-turn-on2 = Ative o modo Apenas HTTPS para este site se quiser que o { -brand-short-name } atualize para uma ligação segura sempre que for possível.
+identity-https-only-info-turn-off2 = Se o site parecer estragado, pode querer desativar o modo Apenas HTTPS para este site para recarregar utilizando o HTTP não-seguro.
 identity-https-only-info-no-upgrade = Não foi possível atualizar a ligação de HTTP.
 identity-permissions =
     .value = Permissões
@@ -345,6 +346,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button =
+    .label = Importar marcadores…
+    .tooltiptext = Copiar marcadores de outro navegador para o { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -449,6 +453,7 @@ urlbar-result-action-search-in-private = Pesquisar numa janela privada
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Pesquisar com { $engine }
+urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Mudar para o separador
 urlbar-result-action-visit = Visitar
 # Variables
