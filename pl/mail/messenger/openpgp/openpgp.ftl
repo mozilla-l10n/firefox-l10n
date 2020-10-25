@@ -184,12 +184,74 @@ openpgp-key-details-size-label =
 openpgp-key-details-created-label =
     .label = Utworzono
 openpgp-key-details-created-header = Utworzono
+openpgp-key-details-expiry-label =
+    .label = Wygasanie
+openpgp-key-details-expiry-header = Wygasanie
+openpgp-key-details-usage-label =
+    .label = Zastosowania
+openpgp-key-details-fingerprint-label = Odcisk
+openpgp-key-details-sel-action =
+    .label = Wybierz działanie…
+    .accesskey = d
+openpgp-key-details-also-known-label = Domniemane alternatywne tożsamości właściciela klucza:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Zamknij
+openpgp-acceptance-label =
+    .label = Twoja akceptacja
+openpgp-acceptance-rejected-label =
+    .label = Nie, odrzuć ten klucz.
+openpgp-acceptance-undecided-label =
+    .label = Jeszcze nie, może później.
+openpgp-acceptance-unverified-label =
+    .label = Tak, ale nie zweryfikowano, czy jest to właściwy klucz.
+openpgp-acceptance-verified-label =
+    .label = Tak, zweryfikowano osobiście, że to właściwy odcisk klucza.
+key-accept-personal =
+    W przypadku tego klucza posiadasz część publiczną i część tajną. Możesz używać go jako klucza osobistego.
+    Jeśli ktoś inny przekazał Ci ten klucz, nie używaj go jako klucza osobistego.
+key-personal-warning = Czy utworzono ten klucz samodzielnie, a wyświetlony właściciel klucza odnosi się do Ciebie?
+openpgp-personal-no-label =
+    .label = Nie, nie używaj go jako mojego klucza osobistego.
+openpgp-personal-yes-label =
+    .label = Tak, traktuj ten klucz jako klucz osobisty.
+openpgp-copy-cmd-label =
+    .label = Kopiuj
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird nie ma klucza osobistego OpenPGP dla tożsamości <b>{ $identity }</b>
+        [one] Thunderbird odnalazł { $count } klucz osobisty OpenPGP powiązany z tożsamością <b>{ $identity }</b>
+        [few] Thunderbird odnalazł { $count } klucze osobiste OpenPGP powiązane z tożsamością <b>{ $identity }</b>
+       *[many] Thunderbird odnalazł { $count } kluczy osobistych OpenPGP powiązanych z tożsamością <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Wybierz prawidłowy klucz, aby włączyć protokół OpenPGP.
+        [one] Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
+        [few] Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
+       *[many] Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Bieżąca konfiguracja wykorzystuje klucz <b>{ $key }</b>, który wygasł.
+openpgp-add-key-button =
+    .label = Dodaj klucz…
+    .accesskey = D
+e2e-learn-more = Więcej informacji
+openpgp-keygen-success = Pomyślnie utworzono klucz OpenPGP.
+openpgp-keygen-import-success = Pomyślnie zaimportowano klucze OpenPGP.
+openpgp-keygen-external-success = Zapisano zewnętrzny identyfikator klucza GnuPG.
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Żaden
+openpgp-radio-none-desc = Nie używaj OpenPGP dla tej tożsamości.
 
 ## Account settings export output
 
