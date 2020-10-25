@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -217,12 +217,12 @@ full-screen-autohide =
     .label = Ascunde barele de instrumente
     .accesskey = H
 full-screen-exit =
-    .label = Ieși din modul de ecran complet
+    .label = Ieși din modul ecran complet
     .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = De data aceasta, caută cu:
 # This string won't wrap, so if the translated string is longer,
@@ -331,6 +331,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurează jos
 browser-window-close-button =
     .tooltiptext = Închide
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -448,11 +451,11 @@ urlbar-result-action-visit = Vizitează
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> este acum în modul de ecran complet
-fullscreen-warning-no-domain = Documentul este acum în modul de ecran complet
-fullscreen-exit-button = Ieși din modul de ecran complet (Esc)
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> este acum în modul ecran complet
+fullscreen-warning-no-domain = Acest document este acum în ecran complet
+fullscreen-exit-button = Ieși din modul ecran complet (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-exit-mac-button = Ieși din modul de ecran complet (esc)
+fullscreen-exit-mac-button = Ieși din modul ecran complet (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

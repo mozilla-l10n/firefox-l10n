@@ -71,14 +71,14 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "este acum în modul de ecran complet">
-<!ENTITY fullscreenWarning.generic.label "Documentul este acum în modul de ecran complet">
+<!ENTITY fullscreenWarning.afterDomain.label "este acum în ecran complet">
+<!ENTITY fullscreenWarning.generic.label "Acest document este acum în ecran complet">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Ieși din modul de ecran complet (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Ieși din modul de ecran complet (esc)">
+<!ENTITY exitDOMFullscreen.button "Ieși din modul ecran complet (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Ieși din modul ecran complet (esc)">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -216,6 +216,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvează pagina în Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Vezi lista Pocket">
 
 <!ENTITY emailPageCmd.label           "Trimite linkul prin e-mail…">
