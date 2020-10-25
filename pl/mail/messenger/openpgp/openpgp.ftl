@@ -252,6 +252,40 @@ openpgp-keygen-external-success = Zapisano zewnętrzny identyfikator klucza GnuP
 openpgp-radio-none =
     .label = Żaden
 openpgp-radio-none-desc = Nie używaj OpenPGP dla tej tożsamości.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Wygasa: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Klucz wygasa za mniej niż 6 miesięcy
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Wygasł: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Klucz wygasł
+openpgp-key-expand-section =
+    .tooltiptext = Więcej informacji
+openpgp-key-revoke-title = Unieważnij klucz
+openpgp-key-edit-title = Zmień klucz OpenPGP
+openpgp-key-edit-date-title = Przedłuż datę wygaśnięcia
+openpgp-manager-description = Użyj menedżera kluczy OpenPGP, aby przeglądać i zarządzać kluczami publicznymi swoich rozmówców oraz wszystkimi pozostałymi kluczami niewymienionymi tutaj.
+openpgp-manager-button =
+    .label = Menedżer kluczy OpenPGP
+    .accesskey = M
+openpgp-key-remove-external =
+    .label = Usuń zewnętrzny identyfikator klucza
+    .accesskey = U
+key-external-label = Zewnętrzny klucz GnuPG
+# Strings in keyDetailsDlg.xhtml
+key-type-public = klucz publiczny
+key-type-primary = główny klucz
+key-type-subkey = klucz podrzędny
+key-type-pair = para kluczy (tajny klucz i klucz publiczny)
+key-expiry-never = nigdy
+key-usage-encrypt = Szyfrowanie
+key-usage-sign = Podpisywanie
+key-usage-certify = Certyfikowanie
+key-usage-authentication = Uwierzytelnianie
+key-does-not-expire = Klucz nie wygasa
+key-expired-date = Klucz wygasł w dniu { $keyExpiry }
+key-expired-simple = Klucz wygasł
 
 ## Account settings export output
 
