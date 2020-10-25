@@ -396,6 +396,9 @@ recent-updates-heading = ბოლო განახლებები
 release-notes-loading = იტვირთება...
 release-notes-error = სამწუხაროდ, ვერსიის მონაცემების ჩვენებისას მოხდა შეცდომა.
 addon-permissions-empty = გაფართოება არ ითხოვს რამე ნებართვას
+addon-permissions-required = მოთხოვნილი ნებართვები ძირითადი შესაძლებლობებისთვის:
+addon-permissions-optional = მოთხოვნილი ნებართვები დამატებითი შესაძლებლობებისთვის:
+addon-permissions-learnmore = ვრცლად, ნებართვების შესახებ
 recommended-extensions-heading = შემოთავაზებული გაფართოებები
 recommended-themes-heading = შემოთავაზებული თემები
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

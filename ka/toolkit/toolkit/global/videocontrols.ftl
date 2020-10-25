@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = იტვირთება:
 videocontrols-volume-control =
     .aria-label = ხმის სიმაღლე
+videocontrols-closed-caption-button =
+    .aria-label = დახურული სუბტიტრები
