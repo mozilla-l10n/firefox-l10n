@@ -408,3 +408,45 @@ openpgp-key-revoke-success = Kunci berhasil dicabut.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Impor
 delete-key-title = Hapus Kunci OpenPGP
+delete-external-key-title = Buamg Kunci GnuPG Eksternal
+delete-external-key-description = Apakah Anda ingin membuang ID kunci GnuPG Eksternal ini?
+key-in-use-title = Kunci OpenPGP sedang digunakan
+delete-key-in-use-description = Tidak dapat melanjutkan! Kunci yang Anda pilih untuk dihapus saat ini sedang digunakan oleh identitas ini. Pilih kunci lain, atau pilih tidak ada, dan coba lagi.
+revoke-key-in-use-description = Tidak dapat melanjutkan! Kunci yang Anda pilih untuk pencabutan sedang digunakan oleh identitas ini. Pilih kunci lain, atau pilih tidak ada, dan coba lagi.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Alamat surel '{ $keySpec }' tidak bisa dicocokkan dengan kunci di keyring Anda.
+key-error-key-id-not-found = ID kunci yang dikonfigurasi '{ $keySpec }' tidak dapat ditemukan di keyring Anda.
+key-error-not-accepted-as-personal = Anda belum mengonfirmasi bahwa kunci dengan ID '{ $keySpec }' adalah kunci pribadi Anda.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Fungsi yang Anda pilih tidak tersedia dalam mode luring. Pergilah daring dan coba lagi.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Kami tidak dapat menemukan kunci yang cocok dengan kriteria pencarian yang ditentukan.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Kesalahan - perintah ekstraksi kunci gagal
+# Strings used in keyRing.jsm
+fail-cancel = Kesalahan - Penerimaan kunci dibatalkan oleh pengguna
+not-first-block = Kesalahan - Blok OpenPGP pertama bukan blok kunci publik
+import-key-confirm = Impor kunci publik yang disematkan dalam pesan?
+fail-key-import = Kesalahan - impor kunci gagal
+file-write-failed = Gagal menulis ke berkas  { $output }
+confirm-permissive-import = Impor gagal. Kunci yang Anda coba impor mungkin rusak atau menggunakan atribut yang tidak diketahui. Apakah Anda ingin mencoba mengimpor bagian yang benar? Ini mungkin mengakibatkan impor kunci yang tidak lengkap dan tidak dapat digunakan.
+# Strings used in trust.jsm
+key-valid-unknown = tidak dikenal
+key-valid-invalid = tidak valid
+key-valid-disabled = dinonaktifkan
+key-valid-revoked = dicabut
+key-valid-expired = kedaluwarsa
+key-trust-untrusted = tidak terpercaya
+key-trust-marginal = marjinal
+key-trust-full = dipercaya
+key-trust-group = (grup)
+# Strings used in commonWorkflows.js
+import-key-file = Impor Berkas Kunci OpenPGP
+import-rev-file = Impor Berkas Pencabutan OpenPGP
+gnupg-file = Berkas GnuPG
+import-keys-failed = Pengimporan kunci gagal
+key-not-found = Kunci '{ $key }' tidak ditemukan
+key-revoked = Kunci '{ $key }' dicabut
+key-expired = Kunci '{ $key }' kedaluwarsa
+msg-compose-internal-error = Kesalahan internal telah terjadi.
+keys-to-export = Pilih Kunci OpenPGP untuk Disisipkan
