@@ -10,3 +10,7 @@ openpgp-compose-key-status-recipient =
     .label = Odbiorca
 openpgp-compose-key-status-status =
     .label = Stan
+openpgp-compose-key-status-open-details = Zarządzaj kluczami wybranego odbiorcy…
+openpgp-recip-good = OK
+openpgp-recip-missing = brak dostępnych kluczy
+openpgp-recip-none-accepted = brak zaakceptowanych kluczy
