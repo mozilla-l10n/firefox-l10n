@@ -403,3 +403,8 @@ keyring-photo = Foto
 user-att-photo = Atribut pengguna (gambar JPEG)
 # Strings in key.jsm
 already-revoked = Kunci ini sudah dicabut.
+key-man-button-revoke-key = &Cabut Kunci
+openpgp-key-revoke-success = Kunci berhasil dicabut.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Impor
+delete-key-title = Hapus Kunci OpenPGP
