@@ -123,10 +123,10 @@ menu-view-charset =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Intră în modul de ecran complet
+    .label = Intră în modul ecran complet
     .accesskey = F
 menu-view-exit-full-screen =
-    .label = Ieși din modul de ecran complet
+    .label = Ieși din modul ecran complet
     .accesskey = F
 menu-view-full-screen =
     .label = Ecran complet
