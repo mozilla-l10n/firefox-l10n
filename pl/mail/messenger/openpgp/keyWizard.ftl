@@ -72,7 +72,7 @@ openpgp-keygen-ongoing = Generowanie klucza już trwa.
 openpgp-keygen-error-core = Nie można zainicjować głównej usługi OpenPGP
 openpgp-keygen-error-failed = Generowanie klucza OpenPGP nieoczekiwanie się nie powiodło
 #   $identity (String) - the newly generate OpenPGP Key
-openpgp-keygen-error-revocation = Pomyślnie utworzono klucz OpenPGP, ale uzyskanie odwołania klucza { $key } się nie powiodło
+openpgp-keygen-error-revocation = Pomyślnie utworzono klucz OpenPGP, ale uzyskanie unieważnienia klucza { $key } się nie powiodło
 openpgp-keygen-abort-title = Przerwać generowanie klucza?
 openpgp-keygen-abort = Obecnie trwa generowanie klucza OpenPGP. Czy na pewno je anulować?
 #   $identity (String) - the name and email address of the currently selected identity
