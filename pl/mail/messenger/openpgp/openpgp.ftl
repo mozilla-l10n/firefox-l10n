@@ -286,6 +286,8 @@ key-usage-authentication = Uwierzytelnianie
 key-does-not-expire = Klucz nie wygasa
 key-expired-date = Klucz wygasł w dniu { $keyExpiry }
 key-expired-simple = Klucz wygasł
+key-revoked-simple = Klucz został unieważniony
+key-do-you-accept = Czy akceptujesz ten klucz do weryfikowania podpisów cyfrowych i szyfrowania wiadomości?
 
 ## Account settings export output
 
