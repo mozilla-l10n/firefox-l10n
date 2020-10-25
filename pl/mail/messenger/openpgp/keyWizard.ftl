@@ -65,9 +65,24 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Zamknij
     .accesskey = m
+openpgp-keygen-missing-username = Dla bieżącego konta nie określono nazwy. Podaj wartość w polu „Imię i nazwisko” w ustawieniach konta.
+openpgp-keygen-long-expiry = Nie można utworzyć klucza, który wygasa za więcej niż 100 lat.
+openpgp-keygen-short-expiry = Klucz musi być ważny przez przynajmniej jeden dzień.
+openpgp-keygen-ongoing = Generowanie klucza już trwa.
+openpgp-keygen-error-core = Nie można zainicjować głównej usługi OpenPGP
+openpgp-keygen-error-failed = Generowanie klucza OpenPGP nieoczekiwanie się nie powiodło
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Pomyślnie utworzono klucz OpenPGP, ale uzyskanie odwołania klucza { $key } się nie powiodło
+openpgp-keygen-abort-title = Przerwać generowanie klucza?
+openpgp-keygen-abort = Obecnie trwa generowanie klucza OpenPGP. Czy na pewno je anulować?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Wygenerować publiczny klucz i tajny klucz dla „{ $identity }”?
 
 ## Import Key section
 
+openpgp-import-key-title = Importuj istniejący klucz osobisty OpenPGP
+openpgp-import-key-legend = Wybierz plik, w którym wcześniej wykonano kopię zapasową.
+openpgp-import-key-description = Można zaimportować klucze osobiste utworzone za pomocą innego oprogramowania OpenPGP.
 
 ## External Key section
 
