@@ -83,6 +83,46 @@ openpgp-key-confirm = Wygenerować publiczny klucz i tajny klucz dla „{ $iden
 openpgp-import-key-title = Importuj istniejący klucz osobisty OpenPGP
 openpgp-import-key-legend = Wybierz plik, w którym wcześniej wykonano kopię zapasową.
 openpgp-import-key-description = Można zaimportować klucze osobiste utworzone za pomocą innego oprogramowania OpenPGP.
+openpgp-import-key-info = Inne oprogramowanie może nazywać klucz osobisty inaczej, na przykład własny klucz, tajny klucz, klucz prywatny lub para kluczy.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird odnalazł jeden klucz, który można zaimportować.
+        [few] Thunderbird odnalazł { $count } klucze, które można zaimportować.
+       *[many] Thunderbird odnalazł { $count } kluczy, które można zaimportować.
+    }
+openpgp-import-key-list-description = Potwierdź, które klucze mają być traktowane jako klucze osobiste. Jako klucze osobiste należy używać wyłącznie kluczy, które utworzono samodzielnie i które noszą Twoją tożsamość. Możesz zmienić tę opcję później w oknie właściwości klucza.
+openpgp-import-key-list-caption = Klucze oznaczone jako klucze osobiste będą wyświetlane w sekcji szyfrowania typu „end-to-end”. Pozostałe będą dostępne w menedżerze kluczy.
+openpgp-passphrase-prompt-title = Wymagane jest hasło
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Wprowadź hasło, aby odblokować ten klucz: { $key }
+openpgp-import-key-button =
+    .label = Wybierz plik do zaimportowania…
+    .accesskey = W
+import-key-file = Importuj plik klucza OpenPGP
+import-key-personal-checkbox =
+    .label = Traktuj ten klucz jako klucz osobisty
+gnupg-file = Pliki GnuPG
+import-error-file-size = <b>Błąd:</b> pliki większe niż 5 MB nie są obsługiwane.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Błąd:</b> zaimportowanie pliku się nie powiodło. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Błąd:</b> zaimportowanie kluczy się nie powiodło. { $error }
+openpgp-import-identity-label = Tożsamość
+openpgp-import-fingerprint-label = Odcisk
+openpgp-import-created-label = Utworzono
+openpgp-import-bits-label = Bity
+openpgp-import-key-props =
+    .label = Właściwości klucza
+    .accesskey = W
 
 ## External Key section
 
+openpgp-external-key-title = Zewnętrzny klucz GnuPG
+openpgp-external-key-description = Skonfiguruj zewnętrzny klucz GnuPG podając identyfikator klucza
+openpgp-external-key-info = Ponadto musisz użyć menedżera kluczy do zaimportowania i zaakceptowania odpowiedniego klucza publicznego.
+openpgp-external-key-warning = <b>Można skonfigurować tylko jeden zewnętrzny klucz GnuPG.</b> Poprzedni zostanie zastąpiony.
+openpgp-save-external-button = Zapisz identyfikator klucza
+openpgp-external-key-label = Identyfikator tajnego klucza:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
