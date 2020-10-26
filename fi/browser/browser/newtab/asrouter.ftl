@@ -257,6 +257,7 @@ cfr-doorhanger-doh-secondary-button = Poista käytöstä
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Sivustojen eristäminen
 cfr-doorhanger-fission-primary-button = Selvä
     .accesskey = S
 cfr-doorhanger-fission-secondary-button = Lue lisää
