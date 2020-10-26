@@ -252,6 +252,7 @@ cfr-doorhanger-doh-secondary-button = Çaktivizoje
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Privatësia juaj ka vlerë. { -brand-short-name }-i tanimë i izolon, ose i kalon në bankëprovë, sajtet prej njëri tjetrit, çka e bën më të vështirë për dikë të vjedhë fjalëkalime, numra kartash krediti dhe të dhëna të tjera rezervat.
 cfr-doorhanger-fission-header = Izolim Sajti
 cfr-doorhanger-fission-primary-button = OK, e mora vesh
     .accesskey = O
