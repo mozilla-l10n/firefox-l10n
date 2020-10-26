@@ -325,6 +325,10 @@ multi-process-status-6 = Poistettu käytöstä ei-tuetun tekstisyötteen takia
 multi-process-status-7 = Poistettu käytöstä lisäosien takia
 multi-process-status-8 = Poistettu käytöstä pakottaen
 multi-process-status-unknown = Tuntematon tila
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Asynkroninen siirto/lähennys
 apz-none = ei mitään
 wheel-enabled = rullaliittymä käytössä
@@ -345,3 +349,8 @@ touch-warning = async kosketusliittymä pois käytöstä ei tuetun asetuksen joh
 policies-inactive = Ei käytössä
 policies-active = Käytössä
 policies-error = Virhe
+
+## Printing section
+
+support-printing-prefs-name = Nimi
+support-printing-prefs-value = Arvo

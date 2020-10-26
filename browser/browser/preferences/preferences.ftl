@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Käytä kuva kuvassa -video-ohjaimia
     .accesskey = K
 browsing-picture-in-picture-learn-more = Lue lisää
+browsing-media-control-learn-more = Lue lisää
 browsing-cfr-recommendations =
     .label = Suosittele laajennuksia selaamisen yhteydessä
     .accesskey = S
