@@ -54,3 +54,13 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizza…
     .accesskey = P
+
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = Sempre
+    .accesskey = S
+toolbar-context-menu-bookmarks-toolbar-never-show =
+    .label = Mai
+    .accesskey = M
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Solo nella pagina Nuova scheda
+    .accesskey = o
