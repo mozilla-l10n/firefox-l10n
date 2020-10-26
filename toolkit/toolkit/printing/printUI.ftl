@@ -38,7 +38,6 @@ printui-less-settings = Më pak rregullime
 printui-paper-size-label = Madhësi letre
 # Section title (noun) for the print scaling options
 printui-scale = Shkallë
-printui-scale-fit-to-page = Sa ta nxërë faqja
 printui-scale-fit-to-page-width = Sa e nxë gjerësia e faqes
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Shkallë
@@ -53,6 +52,11 @@ printui-margins = Mënjana
 printui-margins-default = Parazgjedhje
 printui-margins-min = Minimum
 printui-margins-none = Asnjë
+printui-margins-custom = Vetjake
+printui-margins-custom-top = Në Krye
+printui-margins-custom-bottom = Në fund
+printui-margins-custom-left = Majtas
+printui-margins-custom-right = Djathtas
 printui-system-dialog-link = Shtyp duke përdorur dialogun e sistemit…
 printui-primary-button = Shtype
 printui-primary-button-save = Ruaje
@@ -82,6 +86,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Shkalla duhet të jetë një numër mes 10-ës dhe 200-ës.
+printui-error-invalid-margin = Ju lutemi, jepni një mënjanë të vlefshme për madhësinë e përzgjedhur të letrës.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervali duhet të jetë një numër mes 1-shit dhe { $numPages }.
