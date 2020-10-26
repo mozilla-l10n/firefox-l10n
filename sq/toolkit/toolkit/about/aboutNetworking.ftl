@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Socket-e
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Spastro Fshehtinë DNS-je
+about-networking-dns-trr-url = URL DoH
 about-networking-dns-suffix = Prapashtesë DNS
 about-networking-websockets = Socket-e Web
 about-networking-refresh = Rifreskoje
