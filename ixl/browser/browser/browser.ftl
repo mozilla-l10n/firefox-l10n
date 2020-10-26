@@ -19,12 +19,11 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Axh kuxh la xaan axh stuul)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Axh kuxh la xaan axh stuul)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Axh kuxh la xaan axh stuul)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -104,6 +102,7 @@ urlbar-tip-help-icon =
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 urlbar-geolocation-blocked =
@@ -127,6 +126,11 @@ page-action-manage-extension =
     .label = Il isuuchil tikat ni q'axkat…
 page-action-remove-from-urlbar =
     .label = La eesa eltzan  xo'l imool.
+page-action-remove-extension =
+    .label = Sojsal  tikat ni  q'axkat
+
+## Page Action menu
+
 
 ## Auto-hide Context Menu
 
@@ -141,11 +145,11 @@ page-action-remove-from-urlbar =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 bookmark-panel-done-button =
     .label = Tzojpiya
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -168,6 +172,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Jupa
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 
@@ -178,4 +185,16 @@ browser-window-close-button =
 
 
 ## URL Bar
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Full Screen and Pointer Lock UI
 
