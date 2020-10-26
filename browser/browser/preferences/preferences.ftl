@@ -29,6 +29,8 @@ search-input-box =
            *[other] Serĉi en preferoj
         }
 managed-notice = Via retumilo estas administrata de via organizo.
+category-list =
+    .aria-label = Kategorioj
 pane-general-title = Ĉefaj
 category-general =
     .tooltiptext = { pane-general-title }
@@ -426,6 +428,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Permesi regilojn por bildo en bildo
     .accesskey = P
 browsing-picture-in-picture-learn-more = Pli da informo
+browsing-media-control =
+    .label = Regi aŭdvidaĵojn per klavaro, kapaŭskultiloj aŭ virtuala fasado
+    .accesskey = R
+browsing-media-control-learn-more = Pli da informo
 browsing-cfr-recommendations =
     .label = Sugesti etendaĵojn dum retumo
     .accesskey = S
@@ -489,6 +495,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Plej vizitaj
 home-prefs-topsites-description = Viaj plej vizititaj retejoj
+home-prefs-topsites-by-option-sponsored =
+    .label = Patronitaj ĉefaj retejoj
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
