@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Shtypni më pak, gjeni më shumë: Kërkoni me { $engineName } drejt e nga shtylla juaj e adresave.
 urlbar-search-tips-redirect-2 = Filloni kërkimin tuaj te shtylla e adresave që të shihni sugjerime nga { $engineName } dhe nga historiku juaj i shfletimit.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Përzgjidhni këtë shkurtore, që të gjeni më shpejt ç’ju duhet.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -220,7 +223,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Këtë herë kërko me:
 # This string won't wrap, so if the translated string is longer,
@@ -285,6 +288,17 @@ identity-passive-loaded = Pjesë të kësaj faqeje (fjala vjen, figura) s'janë 
 identity-active-loaded = E keni çaktivizuar mbrojtjen për këtë faqe.
 identity-weak-encryption = Kjo faqe përdor fshehtëzim të dobët.
 identity-insecure-login-forms = Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.
+identity-https-only-connection-upgraded = (u përmirësua në HTTPS)
+identity-https-only-label = Mënyra Vetëm-HTTPS
+identity-https-only-dropdown-on =
+    .label = On
+identity-https-only-dropdown-off =
+    .label = Off
+identity-https-only-dropdown-off-temporarily =
+    .label = Off përkohësisht
+identity-https-only-info-turn-on2 = Aktivizoni Mënyrën Vetëm-HTTPS për këtë sajt, nëse doni që { -brand-short-name }-i të përmirësojë lidhjen, kur është e mundur.
+identity-https-only-info-turn-off2 = Nëse faqja duket të jetë e dëmtuar, mund të doni të çaktivizoni Mënyrën Vetëm-HTTPS- për këtë sajt, që të ringarkohet duke përdorur HTTP jo të sigurt.
+identity-https-only-info-no-upgrade = S’arrihet të përmirësohet lidhja nga HTTP.
 identity-permissions =
     .value = Leje
 identity-permissions-reload-hint = Mund t'ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.
@@ -329,6 +343,12 @@ browser-window-restore-down-button =
     .tooltiptext = Riktheje Poshtë
 browser-window-close-button =
     .tooltiptext = Mbylleni
+
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Importoni faqerojtës…
+    .tooltiptext = Kopjoni në { -brand-short-name } faqerojtës prej një tjetër shfletuesi.
 
 ## WebRTC Pop-up notifications
 
@@ -433,13 +453,37 @@ urlbar-result-action-search-in-private = Kërko në Dritare Private
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Kërko me { $engine }
+urlbar-result-action-sponsored = E sponsorizuar
 urlbar-result-action-switch-tab = Kalo te Skeda
 urlbar-result-action-visit = Vizitojeni
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Shtypni tastin Tab që të kërkohet me { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Shtypni tastin Tab që të kërkohet me { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Kërkoni me { $engine } drejt e nga shtylla e adresave
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Kërkoni me { $engine } drejt e nga shtylla e adresave
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Kërkoni Te Faqerojtësit
+urlbar-result-action-search-history = Kërkoni te Historiku
+urlbar-result-action-search-tabs = Kërkoni Në Skeda
 
 ## Full Screen and Pointer Lock UI
 
