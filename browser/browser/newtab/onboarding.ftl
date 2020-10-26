@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Vous possédez déjà un compte ?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Connectez-vous
 onboarding-start-browsing-button-label = Commencer la navigation
+onboarding-not-now-button-label = Plus tard
 onboarding-cards-dismiss =
     .title = Retirer
     .aria-label = Retirer

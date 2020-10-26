@@ -349,3 +349,7 @@ touch-warning = entrée tactile asynchrone désactivée en raison d’une préf�
 policies-inactive = Inactives
 policies-active = Actives
 policies-error = Erreur
+
+## Printing section
+
+support-printing-title = Impression
