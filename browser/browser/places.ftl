@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Hape në Dritare të Re Private
     .accesskey = P
-
 places-new-bookmark =
     .label = Faqerojtës i Ri…
     .accesskey = q
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Ndarës i Ri
     .accesskey = s
-
 places-view =
     .label = Shihni
     .accesskey = i
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Sipas Datash dhe Sajtesh
     .accesskey = t
-
 places-history-search =
     .placeholder = Kërkoni në historik
 places-bookmarks-search =
     .placeholder = Kërkoni te faqerojtësit
-
 places-delete-domain-data =
     .label = Harroje Këtë Sajt
     .accesskey = H
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = Veti
     .accesskey = V
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Faqerojtës të administruar
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Nëndosje
