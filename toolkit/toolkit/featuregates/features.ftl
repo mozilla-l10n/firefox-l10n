@@ -82,6 +82,10 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Mjete Zhvilluesi: Diagnostikim Service Worker-i
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktivizon te paneli i Diagnostikimeve mbulim eksperimental për Service Workers. Kjo veçori mund të ngadalësojë Mjetet e Zhvilluesit dhe të shtojë konsumin e kujtesës.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafikë: Zmadhim/Zvogëlim me Pickim të Butë
+experimental-features-graphics-desktop-zooming-description = Aktivizon mbulim për zmadhim/zvogëlim përmes pickimi të butë në ekrane me prekje dhe të ngjashëm.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Butona Heshtimi Global WebRTC-je
