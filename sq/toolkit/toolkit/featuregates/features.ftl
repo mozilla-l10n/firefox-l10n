@@ -34,10 +34,14 @@ experimental-features-web-api-link-preload-description = Atributi <a data-l10n-n
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Lejon të zbatohen stile fokusi te elementë të tillë si butona dhe kontrolle formularësh, vetëm kur në ta fokusi jepet duke përdorur tastierën (p.sh. kur kalohet nëpër elementë përmes tastit Tab), dhe jo kur fokusi jepet duke përdorur një mi ose tjetër pajisje të ngjashme. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1617600</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = API Web: Akt beforeinput
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Akti global <a data-l10n-name="mdn-beforeinput">beforeinput</a> vihet në punë në një <a data-l10n-name="mdn-input">&lt;input&gt;</a> dhe elementët <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ose çfarëdo elementi për të cilin atributi <a data-l10n-name="mdn-contenteditable">contenteditable</a> është i aktivizuar, mu përpara vlerës së elementit, ndryshon.Akti u lejon aplikacioneve web të anashkalojnë sjelljen parazgjedhje të shfletuesit për ndërveprim përdoruesi, p.sh., aplikacionet web mund të anulojnë input përdoruesi vetëm për shenja specifike ose mund të ndryshojnë tekst të stilizuar të ngjitur, vetëm me stile të miratuar.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
