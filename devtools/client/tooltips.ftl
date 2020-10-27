@@ -58,5 +58,6 @@ css-compatibility-deprecated-experimental-message = <strong>{ $property }</stron
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> было эксперыментальнай уласцівасцю, якая цяпер састарэла па стандартах W3C.
 css-compatibility-deprecated-message = <strong>{ $property }</strong> састарэла па стандартах W3C. Не падтрымліваецца ў наступных браўзерах:
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> састарэла па стандартах W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> – эксперыментальная уласцівасць. Не падтрымліваецца ў наступных браўзерах:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> з’яўляецца эксперыментальнай уласцівасцю.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Даведацца больш</span> пра <strong>{ $rootProperty }</strong>

@@ -28,3 +28,6 @@ experimental-features-cookie-samesite-lax-by-default2 =
 experimental-features-abouthome-startup-cache =
     .label = Кэш запуску about:home
 experimental-features-graphics-desktop-zooming-description = Актываваць падтрымку плаўнага маштабавання праз дотык для дотыкавых экранаў і прэцызійных дотыкавых панэлей.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
