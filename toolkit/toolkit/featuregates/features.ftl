@@ -41,7 +41,7 @@ experimental-features-web-api-beforeinput =
     .label = API Web: Akt beforeinput
 # The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
 # and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Akti global <a data-l10n-name="mdn-beforeinput">beforeinput</a> vihet në punë në një <a data-l10n-name="mdn-input">&lt;input&gt;</a> dhe elementët <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ose çfarëdo elementi për të cilin atributi <a data-l10n-name="mdn-contenteditable">contenteditable</a> është i aktivizuar, mu përpara vlerës së elementit, ndryshon.Akti u lejon aplikacioneve web të anashkalojnë sjelljen parazgjedhje të shfletuesit për ndërveprim përdoruesi, p.sh., aplikacionet web mund të anulojnë input përdoruesi vetëm për shenja specifike ose mund të ndryshojnë tekst të stilizuar të ngjitur, vetëm me stile të miratuar.
+experimental-features-web-api-beforeinput-description = Akti global <a data-l10n-name="mdn-beforeinput">beforeinput</a> vihet në punë në një <a data-l10n-name="mdn-input">&lt;input&gt;</a> dhe elementët <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ose çfarëdo elementi për të cilin atributi <a data-l10n-name="mdn-contenteditable">contenteditable</a> është i aktivizuar, mu përpara vlerës së elementit, ndryshon. Akti u lejon aplikacioneve web të anashkalojnë sjelljen parazgjedhje të shfletuesit për ndërveprim përdoruesi, p.sh., aplikacionet web mund të anulojnë input përdoruesi vetëm për shenja specifike ose mund të ndryshojnë tekst të stilizuar të ngjitur, vetëm me stile të miratuar.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -56,3 +56,10 @@ experimental-features-devtools-execution-context-selector-description = Kjo veç
 experimental-features-devtools-compatibility-panel =
     .label = Mjete Zhvilluesi: Panel Përputhshmërie
 experimental-features-devtools-compatibility-panel-description = Një panel anësor për Mbikëqyrësin e Faqes, që ju shfaq hollësi rreth gjendjes së përputhshmërisë të aplikacionit tuaj nëpër shfletues. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1584464</a>.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=I shkujdesur, si parazgjedhje
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=Asnjë nuk kërkon medoemos atributin i sigurt
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookie-t me atributin “SameSite=None” kërkojnë doemos atributin e sigurt. Kjo veçori lyp “Cookies: SameSite=I shkujdesur, si parazgjedhje”.
