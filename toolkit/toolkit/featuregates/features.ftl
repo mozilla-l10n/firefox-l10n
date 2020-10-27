@@ -58,8 +58,30 @@ experimental-features-devtools-compatibility-panel =
 experimental-features-devtools-compatibility-panel-description = Një panel anësor për Mbikëqyrësin e Faqes, që ju shfaq hollësi rreth gjendjes së përputhshmërisë të aplikacionit tuaj nëpër shfletues. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
-    .label = Cookies: SameSite=I shkujdesur, si parazgjedhje
+    .label = Cookies: SameSite=Lax, si parazgjedhje
+experimental-features-cookie-samesite-lax-by-default2-description = Trajtoji, si parazgjedhje, cookie-t si “SameSite=Lax”, nëse s’është specifikuar atribut “SameSite”. Zhvilluesit duhet të bëjnë zgjedhje të gjendjes aktuale të përdorimit të pakufizuar duke pohuar shprehimisht “SameSite=None”.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
-    .label = Cookies: SameSite=Asnjë nuk kërkon medoemos atributin i sigurt
-experimental-features-cookie-samesite-none-requires-secure2-description = Cookie-t me atributin “SameSite=None” kërkojnë doemos atributin e sigurt. Kjo veçori lyp “Cookies: SameSite=I shkujdesur, si parazgjedhje”.
+    .label = Cookies: SameSite=None nuk kërkon medoemos atributin i sigurt
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookie-t me atributin “SameSite=None” kërkojnë doemos atributin e sigurt. Kjo veçori lyp “Cookies: SameSite=Lax by default”.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Cookie-t prej së njëjtës përkatësi, por me skema të ndryshme (p.sh., http://example.com dhe https://example.com) trajtoji si ndërsajtëshe, në vend se të llojit “same-site”. Përmirëson sigurinë, por mundet të sjellë prishje funksionimi.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Mjete Zhvilluesi: Diagnostikim Service Worker-i
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Aktivizon te paneli i Diagnostikimeve mbulim eksperimental për Service Workers. Kjo veçori mund të ngadalësojë Mjetet e Zhvilluesit dhe të shtojë konsumin e kujtesës.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Butona Heshtimi Global WebRTC-je
+experimental-features-webrtc-global-mute-toggles-description = Shton kontrolle te treguesi i ndarjes globale me të tjerët të funksioneve WebRTC, çka u lejon përdoruesve të heshtojnë globalisht prurje nga mikrofonat dhe kamerat e tyre.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Aktivizon Warp-in, një projekt për përmirësim të punës dhe përdorimit të kujtesës nga JavaScript-i.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Izolim Sajti)
