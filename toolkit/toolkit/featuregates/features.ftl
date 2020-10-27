@@ -64,6 +64,14 @@ experimental-features-cookie-samesite-lax-by-default2-description = Trajtoji, si
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None nuk kërkon medoemos atributin i sigurt
 experimental-features-cookie-samesite-none-requires-secure2-description = Cookie-t me atributin “SameSite=None” kërkojnë doemos atributin e sigurt. Kjo veçori lyp “Cookies: SameSite=Lax by default”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = fshehtinë nisjeje about:home
+experimental-features-abouthome-startup-cache-description = Një fshehtinë për dokumentin fillestar about:home, që, si parazgjedhje, ngarkohet gjatë nisjes. Qëllimi i fshehtinës është të përmirësojë punën e nisjes.
+experimental-features-print-preview-tab-modal =
+    .label = Rikonceptim i Paraparjes së Shtypjes
+experimental-features-print-preview-tab-modal-description = Sillet për herë të parë paraparje të rikonceptuar të shtypjes dhe e bën paraparjen e shtypjes të passhme në macOS. Kjo sjell dëmtim potencial të punimit dhe nuk përfshin krejt rregullimet e lidhura me shtypjen. Që të hyhet te krejt rregullimet e lidhura me shtypjen, përzgjidhni dialogun “Shtypni duke përdorur sistemin…” që nga brenda panelit të Shtypjeve.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -85,3 +93,4 @@ experimental-features-js-warp-description = Aktivizon Warp-in, një projekt për
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Izolim Sajti)
+experimental-features-fission-description = Fission-i (izolim sajti) është një veçori eksperimentale te { -brand-short-name }-i, për dhënien e një shtrese shtesë mbrojtjeje kundër të metash sigurie. Duke izoluar çdo sajt nën një proces më vete, Fission e bën më të zorshme për sajte dashakeq të marrin të dhëna prej faqesh të tjera që po vizitoni. Ky është një ndryshim i madh arkitekturor në { -brand-short-name } dhe e vlerësojmë vënien në provë prej jush dhe njoftimin e çfarëdo problemesh që mund të hasni. Për më tepër hollësi, shihni <a data-l10n-name="wiki"> wiki-n</a>.
