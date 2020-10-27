@@ -131,12 +131,17 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+page-action-share-more-panel =
+    .label = itz'aaj
 
 ## Auto-hide Context Menu
 
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = cheel,  chuk  tuk'
 
 ## Local search mode one-off buttons
 ## Variables:
