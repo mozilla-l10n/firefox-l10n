@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -301,8 +301,8 @@ identity-https-only-dropdown-off =
     .label = معطّل
 identity-https-only-dropdown-off-temporarily =
     .label = معطّل مؤقتًا
-identity-https-only-info-turn-on = فعّله إن أردت من { -brand-short-name } ترقيته إلى اتصال آمن متى أمكن.
-identity-https-only-info-turn-off = إن شككت أن في الموقع عطب، فيمكنك تعطيل وضع HTTPS فقط لإعادة تحميله باستعمال بروتوكول HTTP غير الآمن.
+identity-https-only-info-turn-on2 = فعّل وضع HTTPS فقط إن أردت من { -brand-short-name } ترقية الاتصال متى أمكن.
+identity-https-only-info-turn-off2 = إن شككت أن في الصفحة عطب، فيمكنك تعطيل وضع HTTPS فقط لإعادة تحميل هذا الموقع باستعمال بروتوكول HTTP غير الآمن.
 identity-https-only-info-no-upgrade = تعذرت ترقية الاتصال من HTTP.
 identity-permissions =
     .value = التصاريح
@@ -348,6 +348,12 @@ browser-window-restore-down-button =
     .tooltiptext = أنزِله
 browser-window-close-button =
     .tooltiptext = أغلق
+
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = استورِد العلامات…
+    .tooltiptext = انسخ العلامات من متصفّح آخر إلى { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -454,14 +460,6 @@ urlbar-result-action-search-in-private = ابحث في نافذةٍ خاصة
 urlbar-result-action-search-w-engine = ابحث مستخدمًا { $engine }
 urlbar-result-action-switch-tab = انتقل إلى اللسان
 urlbar-result-action-visit = زُر
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = ابحث في العلامات
-urlbar-result-action-search-history = ابحث في التأريخ
-urlbar-result-action-search-tabs = ابحث في الألسنة
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -470,6 +468,14 @@ urlbar-result-action-tabtosearch-web = ابحث مستعملًا { $engine } م�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = ابحث مستعملًا { $engine } مباشرة من شريط العنوان
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = ابحث في العلامات
+urlbar-result-action-search-history = ابحث في التأريخ
+urlbar-result-action-search-tabs = ابحث في الألسنة
 
 ## Full Screen and Pointer Lock UI
 
