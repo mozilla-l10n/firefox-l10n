@@ -15,10 +15,14 @@ about-httpsonly-title = { -brand-short-name } oppdaga eit potensielt sikkerheits
 about-httpsonly-explanation-unavailable = Du surfar i moduset «Berre HTTPS» (HTTPS-Only), og ein sikker HTTPS-versjon av <em>{ $websiteUrl }</em> er ikkje tilgjengeleg.
 about-httpsonly-title-alert = Berre HTTPS-modus-åtvaring
 about-httpsonly-title-connection-not-available = Trygg tilkopling er ikkje tilgjengeleg
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Du har slått på berre-HTTPS-modus for forbetra sikkerheit, og ein HTTPS-versjon av <em>{ $websiteUrl }</em> er ikkje tilgjengeleg.
 about-httpsonly-explanation-question = Kva kan vere årsaka til dette?
 about-httpsonly-explanation-nosupport = Mest sannsynleg støttar nettstaden ganske enkelt ikkje HTTPS.
 about-httpsonly-explanation-risk = Det er også mogleg at ein angripar er involvert. Dersom du bestemmer deg for å besøke nettstaden, bør du ikkje oppgi sensitiv informasjon som passord, e-post eller betalingskortinformasjon.
 about-httpsonly-button-accept-and-continue = Godta risikoen og fortset
+about-httpsonly-explanation-continue = Dersom du fortset, vert berre-HTTPS-modus slått av mellombels for denne nettstaden.
 about-httpsonly-button-continue-to-site = Fortset til HTTP-nettstaden
 about-httpsonly-button-go-back = Gå tilbake
 about-httpsonly-link-learn-more = Les meir…
