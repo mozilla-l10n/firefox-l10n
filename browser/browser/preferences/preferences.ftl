@@ -875,8 +875,8 @@ sitedata-disallow-cookies-option =
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Zu blockieren:
-    .accesskey = Z
+sitedata-block-desc = Typ blockiert
+    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Zur seitenübergreifenden Aktivitätenverfolgung
 sitedata-option-block-cross-site-and-social-media-trackers =
