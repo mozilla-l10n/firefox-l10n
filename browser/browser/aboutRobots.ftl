@@ -25,5 +25,5 @@ error-long-desc4 = Robots have shiny metal posteriors which should not be bitten
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = And they have a plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = Nochmals versuchen
-    .label2 = Please do not press this button again.
+error-try-again = Erneut versuchen
+    .label2 = Drücken Sie bitte nicht noch einmal auf diesen Knopf.
