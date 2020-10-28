@@ -271,7 +271,7 @@ about-debugging-worker-fetch-not-listening =
     .value = Wartet nicht auf Fetch-Ereignisse
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
-about-debugging-worker-status-running = Ausgeführt
+about-debugging-worker-status-running = Wird ausgeführt
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Angehalten
 # Displayed for service workers in runtime pages that are registering.
