@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Una error s'es produita pendent una connexion a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdi d’error : { $error }
-
 psmerr-ssl-disabled = Connexion securizada impossibla perque lo protocòl SSL es estat desactivat.
 psmerr-ssl2-disabled = Connexion securizada impossibla perque lo site utiliza una version anciana pas segura del protocòl SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Avètz recebut un certificat invalid. Contactatz l'administrator del servidor o vòstre correspondent de messatjariá e provesissètz-li las entresenhas seguentas :
     
     Vòstre certificat conten lo meteis numèro de seria qu'un autre certificat emes per l'autoritat de certificacion. Provesissètz-vos un certificat novèl amb un numèro de seria unic.
-
 ssl-error-export-only-server = Impossible de comunicar en mòde securizat. Lo par gerís pas lo chiframent de naut nivèl.
 ssl-error-us-only-server = Impossible de comunicar en mòde securizat. Lo par requerís un chiframent de naut nivèl qu'es pas gerit.
 ssl-error-no-cypher-overlap = Impossible de comunicar en mòde securizat amb lo par : pas cap d'algoritme de chiframent en comun.
@@ -48,8 +45,8 @@ ssl-error-fortezza-pqg = Impossible de se connectar : lo par SSL es dins un aut
 ssl-error-unknown-cipher-suite = Una seguida de chiframent SSL desconeguda es estada demandada.
 ssl-error-no-ciphers-supported = Cap de seguida de chiframent es pas presenta e activada dins aqueste programa.
 ssl-error-bad-block-padding = SSL a recebut un enregistrament amb un emplenatge de blòt marrit.
-ssl-error-rx-record-too-long = SSL a recebut un enregistrament que depassa la longor maximala autorizada.
-ssl-error-tx-record-too-long = SSL a ensajat de mandar un enregistrament que depassa la longor maximala autorizada.
+ssl-error-rx-record-too-long = SSL a recebut un enregistrament que despassa la longor maximala autorizada.
+ssl-error-tx-record-too-long = SSL a ensajat de mandar un enregistrament que despassa la longor maximala autorizada.
 ssl-error-rx-malformed-hello-request = SSL a recebut un messatge d'establiment de ligason « Hello Request » mal format.
 ssl-error-rx-malformed-client-hello = SSL a recebut un messatge d'establiment de ligason « Client Hello » mal format.
 ssl-error-rx-malformed-server-hello = SSL a recebut un messatge d'establiment de ligason « Server Hello » mal format.
