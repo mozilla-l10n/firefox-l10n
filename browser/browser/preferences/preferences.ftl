@@ -29,6 +29,8 @@ search-input-box =
            *[other] Баптаулардан табу
         }
 managed-notice = Браузеріңіз сіздің ұйымыңызбен басқаралады.
+category-list =
+    .aria-label = Санаттар
 pane-general-title = Жалпы
 category-general =
     .tooltiptext = { pane-general-title }
@@ -426,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Суреттегі сурет видеоның басқару пернелерін іске қосу
     .accesskey = е
 browsing-picture-in-picture-learn-more = Көбірек білу
+browsing-media-control-learn-more = Көбірек білу
 browsing-cfr-recommendations =
     .label = Шолу кезінде кеңейтулерді ұсыну
     .accesskey = с
@@ -489,6 +492,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Үздік сайттар
 home-prefs-topsites-description = Сіз жиі шолатын сайттар
+home-prefs-topsites-by-option-sponsored =
+    .label = Демеуленген үздік сайттар
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
