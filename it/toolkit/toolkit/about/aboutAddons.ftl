@@ -440,6 +440,12 @@ addon-badge-line =
 addon-badge-verified =
   .title = Il codice di questa estensione è stato verificato per garantirne la sicurezza
   .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+  .title = Questa è un’estensione ufficiale sviluppata dagli autori di { -brand-product-name }
+  .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+  .title = Questa estensione è stata verificata per garantire il rispetto dei nostri standard in materia di sicurezza e prestazioni
+  .aria-label = { addon-badge-verified2.title }
 
 ##
 
