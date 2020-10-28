@@ -266,3 +266,4 @@ cfr-whatsnew-clear-cookies-image-alt = Cookie файлы блокталған к
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-button = Қалай екенін білу

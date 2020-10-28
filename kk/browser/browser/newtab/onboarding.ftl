@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Бастау
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 onboarding-welcome-body = Браузеріңіз бар.<br/>{ -brand-product-name } қалған бөлігімен танысыңыз.
 onboarding-welcome-learn-more = Артықшылықтары туралы көбірек біліңіз.
@@ -36,9 +44,52 @@ onboarding-join-form-signin-label = Тіркелгіңіз бар ма?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Кіру
 onboarding-start-browsing-button-label = Шолуды бастау
+onboarding-not-now-button-label = Қазір емес
 onboarding-cards-dismiss =
     .title = Тайдыру
     .aria-label = Тайдыру
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Қолыңыздан келетін барлығын зерттей бастайық.
+onboarding-fullpage-form-email =
+    .placeholder = Эл. пошта адресіңіз…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name }-ты өзіңізбен бірге алыңыз
+onboarding-sync-welcome-content = Бетбелгілер, тарих, парольдер және т.б. баптауларды құрылғыларыңыздың барлығында алыңыз.
+onboarding-sync-welcome-learn-more-link = Firefox тіркелгілері туралы көбірек білу
+onboarding-sync-form-input =
+    .placeholder = Эл. пошта
+onboarding-sync-form-continue-button = Жалғастыру
+onboarding-sync-form-skip-login-button = Бұл қадамды аттап кету
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Эл. поштаны енгізіңіз
+onboarding-sync-form-sub-header = { -sync-brand-name } жалғастыру үшін.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Құрылғыларыңыздағы жеке өміріңізді құрметтейтін құралдар отбасымен жұмыс жасаңыз.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Біз жасайтын барлық нәрсе біздің Жеке Деректер Уәдесіне сай: Азырақ алу. Оны қауіпсіз сақтау. Құпиясыз.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = { -brand-product-name } қолданатын барлық жерде бетбелгілер, парольдер және т.б. өзіңізбен бірге ұстаңыз.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Сіздің жеке ақпаратыңыз белгілі деректер ұрланған деректер ішінде болғанда хабарлама алу.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Қорғалған және тасымалданатын парольдерді басқару.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-add-extension-label = Кеңейтуді қосу
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +123,6 @@ onboarding-multistage-theme-primary-button-label = Теманы сақтау
 onboarding-multistage-theme-secondary-button-label = Қазір емес
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Автоматты түрде
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Жүйелік теманы қолдану
 onboarding-multistage-theme-label-light = Ашық түсті
 onboarding-multistage-theme-label-dark = Күңгірт түсті
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +133,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Батырмалар, мәзірлер және терезелер үшін
-        операциялық жүйенің сыртқы түрін мұралау.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Батырмалар, мәзірлер және терезелер үшін
-        ашық түсті сыртқы түрін қолдану.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Батырмалар, мәзірлер және терезелер үшін
-        күңгірт түсті сыртқы түрін қолдану.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Батырмалар, мәзірлер және терезелер үшін
-        түрлі түсті сыртқы түрін қолдану.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +173,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         түрлі түсті сыртқы түрін қолдану.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Қолыңыздан келетін барлығын зерттей бастайық.
-onboarding-fullpage-form-email =
-    .placeholder = Эл. пошта адресіңіз…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = { -brand-product-name }-ты өзіңізбен бірге алыңыз
-onboarding-sync-welcome-content = Бетбелгілер, тарих, парольдер және т.б. баптауларды құрылғыларыңыздың барлығында алыңыз.
-onboarding-sync-welcome-learn-more-link = Firefox тіркелгілері туралы көбірек білу
-onboarding-sync-form-input =
-    .placeholder = Эл. пошта
-onboarding-sync-form-continue-button = Жалғастыру
-onboarding-sync-form-skip-login-button = Бұл қадамды аттап кету
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Эл. поштаны енгізіңіз
-onboarding-sync-form-sub-header = { -sync-brand-name } жалғастыру үшін.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Құрылғыларыңыздағы жеке өміріңізді құрметтейтін құралдар отбасымен жұмыс жасаңыз.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Біз жасайтын барлық нәрсе біздің Жеке Деректер Уәдесіне сай: Азырақ алу. Оны қауіпсіз сақтау. Құпиясыз.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = { -brand-product-name } қолданатын барлық жерде бетбелгілер, парольдер және т.б. өзіңізбен бірге ұстаңыз.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Сіздің жеке ақпаратыңыз белгілі деректер ұрланған деректер ішінде болғанда хабарлама алу.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Қорғалған және тасымалданатын парольдерді басқару.
 
 ## These strings belong to the individual onboarding messages.
 
