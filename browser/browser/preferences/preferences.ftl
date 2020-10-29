@@ -907,7 +907,7 @@ sitedata-cookies-exceptions =
 addressbar-header = Γραμμή διευθύνσεων
 addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση
 addressbar-locbar-history-option =
-    .label = Ιστορικό περιήγησης
+    .label = Ιστορικού περιήγησης
     .accesskey = Ι
 addressbar-locbar-bookmarks-option =
     .label = Σελιδοδεικτών
@@ -916,8 +916,8 @@ addressbar-locbar-openpage-option =
     .label = Ανοικτών καρτελών
     .accesskey = Ο
 addressbar-locbar-topsites-option =
-    .label = Δημοφιλείς ιστοσελίδες
-    .accesskey = Δ
+    .label = Κορυφαίων ιστοσελίδων
+    .accesskey = Κ
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 
 ## Privacy Section - Content Blocking
