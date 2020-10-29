@@ -57,17 +57,17 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "选择字体大小">
+<!ENTITY FontSizeSelect.tooltip "选择字号">
 <!ENTITY decreaseFontSize.label "缩小">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
-<!ENTITY increaseFontSize.label "更大">
+<!ENTITY increaseFontSize.label "加大">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "大小">
+<!ENTITY fontSizeMenu.label "字号">
 <!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-tinyCmd.label "微小">
 <!ENTITY size-tinyCmd.accesskey "T">
@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "表格属性…">
 <!ENTITY tableProperties.accesskey "o">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "图像">
 <!ENTITY imageToolbarCmd.tooltip "插入新图像或编辑选择图像的特性">
 <!ENTITY hruleToolbarCmd.label "水平线">
@@ -275,9 +276,9 @@
 <!ENTITY BackgroundColorButton.tooltip "选择背景颜色">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "设置字体大小">
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小字体">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "放大字体">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "设置字号">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小文字">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "加大文字">
 <!ENTITY boldToolbarCmd.tooltip "粗体">
 <!ENTITY italicToolbarCmd.tooltip "斜体">
 <!ENTITY underlineToolbarCmd.tooltip "下划线">

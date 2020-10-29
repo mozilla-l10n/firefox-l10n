@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "粘贴为无格式文本">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "粘贴为">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "粘贴为引文">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -72,17 +70,17 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.title "字号">
-<!ENTITY FontSizeSelect.tooltip "选择字体大小">
+<!ENTITY FontSizeSelect.tooltip "选择字号">
 <!ENTITY decreaseFontSize.label "缩小">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
-<!ENTITY increaseFontSize.label "更大">
+<!ENTITY increaseFontSize.label "加大">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "大小">
+<!ENTITY fontSizeMenu.label "字号">
 <!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-tinyCmd.label "微小">
 <!ENTITY size-tinyCmd.accesskey "T">
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "剪切">
 <!ENTITY copyToolbarCmd.tooltip "复制">
 <!ENTITY pasteToolbarCmd.tooltip "粘贴">
-<!ENTITY printToolbarCmd.label "打印">
-<!ENTITY printToolbarCmd.tooltip "打印此页面">
 <!ENTITY findToolbarCmd.label "查找">
 <!ENTITY findToolbarCmd.tooltip "在页面中查找文本">
 <!ENTITY spellToolbarCmd.label "拼写">
@@ -313,18 +309,16 @@
 <!ENTITY colorButtons.title "颜色">
 <!ENTITY TextColorButton.tooltip "为文本选择颜色">
 <!ENTITY BackgroundColorButton.tooltip "选择背景颜色">
-<!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
-<!ENTITY throbber.tooltip2 "前往 &brandShortName; 主页">
 <!ENTITY HighlightColorButton.label "文本突出显示颜色">
 <!ENTITY HighlightColorButton.tooltip "选择文本的加亮颜色">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSize.label "字号">
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "设置字体大小">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "设置字号">
 <!ENTITY smaller.label "缩小">
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小字体">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小文字">
 <!ENTITY larger.label "增大">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "放大字体">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "加大文字">
 <!ENTITY bold.label "粗体">
 <!ENTITY boldToolbarCmd.tooltip "粗体">
 <!ENTITY italic.label "斜体">
