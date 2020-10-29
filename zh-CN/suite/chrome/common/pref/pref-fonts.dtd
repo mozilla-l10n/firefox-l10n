@@ -61,7 +61,7 @@
 <!ENTITY  font.langGroup.tibetan                  "藏语">
 <!ENTITY  font.langGroup.other                    "其他书写系统">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "最小字体大小：">
+<!ENTITY minSize.label                            "最小字号：">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "无">
 
