@@ -69,6 +69,7 @@
 <!ENTITY rights.locationawarebrowsing-b "je vedno izbirno. Podatki o položaju se tako nikoli ne pošiljajo brez vašega dovoljenja. Če želite v celoti onemogočiti to možnost, sledite tem korakom:">
 <!ENTITY rights.locationawarebrowsing-term1 "Odprite nastavitve programa">
 <!ENTITY rights.locationawarebrowsing-term2 "Izberite glavno ploščo &security.label;">
+<!ENTITY rights.locationawarebrowsing-term4 "Brskanje z lokacijo je sedaj onemogočeno">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; lahko prekine ali spremeni svoje storitve, kadarkoli mu ustreza.">
