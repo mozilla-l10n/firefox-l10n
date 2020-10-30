@@ -24,12 +24,34 @@ permission-dialog-description-host-app = Permitir que { $host } abra o link { $s
 # Please keep the emphasis around the hostname and scheme (ie the
 # `<strong>` HTML tags). Please also keep the hostname as close to the start
 # of the sentence as your language's grammar allows.
-permission-dialog-remember = Sempre permitir que <strong>{ $host }</strong> abre links do tipo <strong>{ $scheme }</strong>
+permission-dialog-remember = Sempre permitir que <strong>{ $host }</strong> abra links do tipo <strong>{ $scheme }</strong>
+permission-dialog-btn-open-link =
+    .label = Abrir link
+    .accessKey = A
+permission-dialog-btn-choose-app =
+    .label = Escolher aplicativo
+    .accessKey = E
+permission-dialog-unset-description = Você precisará escolher um aplicativo.
+permission-dialog-set-change-app-link = Escolher outro aplicativo
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Escolher aplicativo
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Abrir link
+    .buttonaccesskeyaccept = A
+chooser-dialog-description = Escolha um aplicativo para abrir o link do tipo { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Sempre usar este aplicativo para abrir links do tipo <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Pode ser alterado nas opções do { -brand-short-name }’s.
+       *[other] Pode ser alterado nas preferências do { -brand-short-name }’s.
+    }
 choose-other-app-description = Escolher outro aplicativo
 choose-app-btn =
     .label = Procurar…
