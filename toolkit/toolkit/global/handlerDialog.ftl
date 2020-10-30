@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Izvēlieties programmu
 choose-app-btn =
     .label = Izvēlēties...
     .accessKey = I
