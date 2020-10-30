@@ -56,8 +56,7 @@ certificate-viewer-miscellaneous = שונות
 certificate-viewer-fingerprints = טביעות אצבע
 certificate-viewer-certificate-policies = מדיניות של אישור
 certificate-viewer-crl-endpoints = נקודות קצה של CRL
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = הורדה
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -77,6 +76,11 @@ certificate-viewer-critical-extension =
     .title = הרחבה זו סומנה כקריטית, כלומר לקוחות חייבים לדחות את האישור אם הם לא מבינים אותו.
 certificate-viewer-export = ייצוא
     .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (לא ידוע)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
