@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Boshqa ilova dasturni tanlash
 choose-app-btn =
     .label = Tanlash…
     .accessKey = T
