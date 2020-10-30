@@ -14,4 +14,8 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Изберете други програми
+choose-app-btn =
+    .label = Изберете…
+    .accessKey = О
 choose-other-app-window-title = Друга програма
