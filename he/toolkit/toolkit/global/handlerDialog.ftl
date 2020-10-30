@@ -22,4 +22,8 @@ handler-dialog-host = ‏<strong>{ $host }</strong> רוצה לפתוח קישו
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = בחירה ביישום אחר
+choose-app-btn =
+    .label = בחירה…
+    .accessKey = ב
 choose-other-app-window-title = יישום אחר…
