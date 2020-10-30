@@ -57,3 +57,6 @@ toolbar-context-menu-bookmarks-toolbar-always-show =
 toolbar-context-menu-bookmarks-toolbar-never-show =
     .label = 永不
     .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = 只在新分頁
+    .accesskey = O
