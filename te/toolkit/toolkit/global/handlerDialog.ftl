@@ -14,4 +14,8 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = వేరే అనువర్తనాన్ని ఎంచుకోండి
+choose-app-btn =
+    .label = ఎంచుకోండి…
+    .accessKey = C
 choose-other-app-window-title = వేరొక అనువర్తనం…
