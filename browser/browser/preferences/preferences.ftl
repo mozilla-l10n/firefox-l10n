@@ -946,6 +946,7 @@ content-blocking-etp-standard-desc = Ισορροπία μεταξύ προστ�
 content-blocking-etp-strict-desc = Ισχυρότερη προστασία, αλλά πιθανή δυσλειτουργία μερικών ιστοσελίδων ή περιεχομένου.
 content-blocking-etp-custom-desc = Επιλέξτε ιχνηλάτες και σενάρια για αποκλεισμό.
 content-blocking-private-windows = Περιεχόμενο καταγραφής σε ιδιωτικά παράθυρα
+content-blocking-cross-site-cookies = Cookies μεταξύ ιστοσελίδων
 content-blocking-cross-site-tracking-cookies = Cookies ιχνηλάτησης μεταξύ ιστοσελίδων
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies ιχνηλάτησης μεταξύ ιστοσελίδων και απομόνωση των υπόλοιπων
 content-blocking-social-media-trackers = Ιχνηλάτες κοινωνικών δικτύων

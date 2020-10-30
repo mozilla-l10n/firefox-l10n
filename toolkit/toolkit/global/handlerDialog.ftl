@@ -20,14 +20,27 @@ handler-dialog-host = Το <strong>{ $host }</strong> θέλει να ανοίξ
 permission-dialog-btn-open-link =
     .label = Άνοιγμα συνδέσμου
     .accessKey = Ά
+permission-dialog-btn-choose-app =
+    .label = Επιλογή εφαρμογής
+    .accessKey = ε
+permission-dialog-unset-description = Θα πρέπει να επιλέξετε μια εφαρμογή.
+permission-dialog-set-change-app-link = Επιλέξτε μια διαφορετική εφαρμογή.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Επιλογή εφαρμογής
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Άνοιγμα συνδέσμου
     .buttonaccesskeyaccept = Ά
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Αυτό μπορεί να αλλάξει στις επιλογές του { -brand-short-name }.
+       *[other] Αυτό μπορεί να αλλάξει στις προτιμήσεις του { -brand-short-name }.
+    }
 choose-other-app-description = Επιλέξτε άλλη εφαρμογή
 choose-app-btn =
     .label = Επιλογή...

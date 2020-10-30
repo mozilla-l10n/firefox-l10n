@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = Πληροφορίες αρχής (AIA)
 certificate-viewer-certificate-policies = Πολιτικές πιστοποιητικού
 certificate-viewer-embedded-scts = Ενσωματωμένα SCT
 certificate-viewer-crl-endpoints = Τελικά σημεία CRL
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Λήψη
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,12 +100,16 @@ certificate-viewer-download-pem = PEM (πιστοποιητικό)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (αλυσίδα)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Αυτή η επέκταση έχει επισημανθεί ως κρίσιμη, πράγμα που σημαίνει ότι οι πελάτες πρέπει να απορρίψουν το πιστοποιητικό εάν δεν το καταλαβαίνουν.
 certificate-viewer-export = Εξαγωγή
     .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (άγνωστο)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
