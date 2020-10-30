@@ -374,6 +374,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = 已經檢查過此擴充套件的程式碼以確保使用安全
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = 這是由 { -brand-product-name } 開發者打造的官方擴充套件
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
