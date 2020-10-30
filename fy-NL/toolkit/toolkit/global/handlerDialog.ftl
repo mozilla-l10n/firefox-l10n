@@ -27,3 +27,5 @@ choose-app-btn =
     .label = Kieze…
     .accessKey = K
 choose-other-app-window-title = In oare Applikaasje...
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Utskeakele yn priveefinsters
