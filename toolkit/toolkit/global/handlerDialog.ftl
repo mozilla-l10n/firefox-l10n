@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> ostalariak <strong>{ $scheme }<
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Aukeratu beste aplikazio bat
 choose-app-btn =
     .label = Aukeratu...
     .accessKey = A
