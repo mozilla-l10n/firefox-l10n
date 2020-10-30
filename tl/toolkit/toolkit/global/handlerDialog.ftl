@@ -27,3 +27,5 @@ choose-app-btn =
     .label = Mamili...
     .accessKey = M
 choose-other-app-window-title = Ibang Application…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Naka-disable sa mga Private Window
