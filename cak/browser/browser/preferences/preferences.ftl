@@ -962,6 +962,7 @@ content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Tak'axäx!
 content-blocking-and-isolating-etp-warning-description = Rik'in yeq'at taq ojqanela' chuqa' yejech'üx ri taq kuki rik'in jub'a' nutz'ila' rub'eyal yesamäj jujun taq ruxaq. Tasamajij chik jun ruxaq rik'in ojqanela' richin nasamajib'ej ronojel ri rupam.
+content-blocking-and-isolating-etp-warning-description-2 = Re nuk'ulem re' nitikïr nub'än chi jujun ajk'amaya'l taq ruxaq man nikik'üt ta pe ri rupam o man ütz ta yesamäj jun ruxaq achi'el qupin, rik'in jub'a' nawajo' nachüp ri chajinïk chuwäch ojqanem richin nusamajij ronojel ri rupam.
 content-blocking-warning-learn-how = Tetamäx achike rub'eyal
 content-blocking-reload-description = K'o chi ye'asamajib'ej chik ri taq ruwi' richin ye'awokisaj re taq jaloj re'.
 content-blocking-reload-tabs-button =
