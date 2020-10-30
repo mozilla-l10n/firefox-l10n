@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Escoyer otra aplicacion
 choose-app-btn =
     .label = Escoyer…
     .accessKey = E
