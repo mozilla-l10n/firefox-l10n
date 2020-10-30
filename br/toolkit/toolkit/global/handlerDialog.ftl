@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Dibab un arload all
 choose-app-btn =
     .label = Dibab…
     .accessKey = D
