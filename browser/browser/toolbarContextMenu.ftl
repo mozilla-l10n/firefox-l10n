@@ -26,21 +26,18 @@ toolbar-context-menu-undo-close-tabs =
            *[many] Адмяніць закрыццё картак
         }
     .accesskey = я
-
 toolbar-context-menu-manage-extension =
     .label = Кіраваць пашырэннем
     .accesskey = К
 toolbar-context-menu-remove-extension =
     .label = Выдаліць пашырэнне
     .accesskey = і
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
     .accesskey = ш
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -56,3 +53,12 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Уладкаваць…
     .accesskey = л
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = Заўсёды
+    .accesskey = З
+toolbar-context-menu-bookmarks-toolbar-never-show =
+    .label = Ніколі
+    .accesskey = Н
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Толькі на новай картцы
+    .accesskey = Т
