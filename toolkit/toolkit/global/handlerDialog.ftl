@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong>-ը ցանկանում է բաց
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Ընտրեք այլ ծրագիր
 choose-app-btn =
     .label = Ընտրել…
     .accessKey = Ը
