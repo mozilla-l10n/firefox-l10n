@@ -21,18 +21,18 @@ cert-error-trust-symantec = Certifikati koje izdaju GeoTrust, RapidSSL, Symantec
 cert-error-untrusted-default = Certifikat ne dolazi iz pouzdanog izvora.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici iz razloga što koristi certifikat koji nije valjan za { $hostname }.
+cert-error-domain-mismatch = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici jer koristi certifikat koji nije valjan za { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici iz razloga što koristi certifikat koji nije valjan za { $hostname }. Certifikat je valjan samo za <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici jer koristi certifikat koji nije valjan za { $hostname }. Certifikat je valjan samo za <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici iz razloga što koristi certifikat koji nije valjan za { $hostname }. Certifikat je valjan samo za { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici jer koristi certifikat koji nije valjan za { $hostname }. Certifikat je valjan samo za { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici iz razloga što koristi certifikat koji nije valjan za { $hostname }. Certifikat je valjan samo za sljedeće nazive: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici jer koristi certifikat koji nije valjan za { $hostname }. Certifikat je valjan samo za sljedeće nazive: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
