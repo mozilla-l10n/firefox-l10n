@@ -22,4 +22,8 @@ handler-dialog-host = <strong>{ $host }</strong> wol in <strong>{ $scheme }</str
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Kies in oare applikaasje
+choose-app-btn =
+    .label = Kieze…
+    .accessKey = K
 choose-other-app-window-title = In oare Applikaasje...
