@@ -26,3 +26,6 @@ choose-other-app-description = Elegir otra aplicación
 choose-app-btn =
     .label = Elegir…
     .accessKey = S
+choose-other-app-window-title = Otra aplicación…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Desactivado en ventanas privadas
