@@ -326,6 +326,15 @@ multi-process-status-6 = Desactivado porque a entrada de texto é incompatíbel
 multi-process-status-7 = Desactivado polos complementos
 multi-process-status-8 = Desactivado forzosamente
 multi-process-status-unknown = Estado descoñecido
+fission-status-experiment-control = Desactivada polo experimento
+fission-status-experiment-treatment = Activada polo experimento
+fission-status-disabled-by-e10s-env = Desactivada polo entorno
+fission-status-enabled-by-env = Activada polo entorno
+fission-status-disabled-by-safe-mode = Desactivada polo modo seguro
+fission-status-enabled-by-default = Activada por omisión
+fission-status-disabled-by-default = Desactivada por omisión
+fission-status-enabled-by-user-pref = Activada polo usuario
+fission-status-disabled-by-user-pref = Desactivada polo usuario
 async-pan-zoom = Pan/Zoom asíncrono
 apz-none = ningún
 wheel-enabled = entrada da roda do rato activada
@@ -346,3 +355,12 @@ touch-warning = entrada táctil asíncrona desactivada debido a unha preferencia
 policies-inactive = Inactivo
 policies-active = Activo
 policies-error = Erro
+
+## Printing section
+
+support-printing-title = Impresión
+support-printing-troubleshoot = Resolución de problemas
+support-printing-clear-settings-button = Limpar a configuración de impresión gardada
+support-printing-modified-settings = Configuración de impresión modificada
+support-printing-prefs-name = Nome
+support-printing-prefs-value = Valor

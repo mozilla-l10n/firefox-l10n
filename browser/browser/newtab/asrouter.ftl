@@ -256,8 +256,20 @@ cfr-doorhanger-doh-primary-button = Entendín
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = Entendín
+    .accesskey = E
+cfr-doorhanger-fission-secondary-button = Máis información
+    .accesskey = M
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Protección automática contra tácticas de rastreo
 cfr-whatsnew-clear-cookies-body = Algúns rastreadores redirixen a outros sitios web que configuran secretamente as cookies. { -brand-short-name } agora elimine automaticamente esas cookies para que non poidan rastrexar a súa presenza.
 cfr-whatsnew-clear-cookies-image-alt = Ilustración de bloqueo de cookies
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Máis controis multimedia
+cfr-whatsnew-media-keys-button = Saiba como
