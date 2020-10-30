@@ -38,6 +38,20 @@ permission-dialog-set-change-app-link = Tacha' jun chik wi chi chokoy.
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Ticha' Chokoy
+    .style = 	min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Tijaq Ximonel
+    .buttonaccesskeyaccept = T
+chooser-dialog-description = Tacha' jun chokoy richin najäq ri { $scheme } chokoy.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Junelïk tokisäx re chokoy richin nijaq ri <strong>{ $scheme }</strong> ximonel
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Re re' tikirel nijal pa { -brand-short-name } taq cha'oj.
+       *[other] Re re' tikirel nijal pa { -brand-short-name } taq ajowab'äl.
+    }
 choose-other-app-description = Ticha' jun chokoy
 choose-app-btn =
     .label = Ticha'…
