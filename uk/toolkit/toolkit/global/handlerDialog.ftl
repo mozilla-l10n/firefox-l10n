@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong>намагається відк�
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Вибір іншої програми
 choose-app-btn =
     .label = Вибрати…
     .accessKey = В
