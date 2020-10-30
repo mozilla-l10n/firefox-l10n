@@ -388,6 +388,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Код цього розширення перевірений на безпеку
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Це офіційне розширення, створене розробниками { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Це розширення перевірено на відповідність нашим стандартам безпеки та швидкодії.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
