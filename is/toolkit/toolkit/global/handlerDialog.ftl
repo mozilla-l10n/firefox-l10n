@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Veldu forrit
 choose-app-btn =
     .label = Velja…
     .accessKey = V
