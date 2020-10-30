@@ -53,6 +53,9 @@ no-migration-sources = Non se atoparon programas que conteñan marcadores, histo
 import-source-page-title = Importar configuración e datos
 import-items-page-title = Elementos para importar
 import-items-description = Escolla os elementos que quere importar:
+import-permissions-page-title = Déalle permisos a { -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS require que se lle permita explicitamente a { -brand-short-name } acceder aos marcadores do Safari. Prema en «Continuar» e seleccione o ficheiro «Bookmarks.plist» no panel Abrir ficheiro que aparece.
 import-migrating-page-title = Importando…
 import-migrating-description = Estanse a importar os seguintes elementos…
 import-select-profile-page-title = Seleccionar perfil
