@@ -17,11 +17,25 @@ handler-dialog-host = <strong>{ $host }</strong> quiere abrir un enlace <strong>
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = Abrir enlace
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Elegir aplicación
+    .accessKey = A
+permission-dialog-unset-description = Tendrás que elegir una aplicación.
+permission-dialog-set-change-app-link = Elija una aplicación diferente.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Elegir aplicación
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Abrir enlace
+    .buttonaccesskeyaccept = O
 choose-other-app-description = Elegir otra aplicación
 choose-app-btn =
     .label = Elegir…
