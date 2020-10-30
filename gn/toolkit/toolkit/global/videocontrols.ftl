@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Henyhẽhína:
 videocontrols-volume-control =
     .aria-label = Mbopuha
+videocontrols-closed-caption-button =
+    .aria-label = Teratee’i

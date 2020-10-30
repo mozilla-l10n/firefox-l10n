@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Mburuvicha marandu (AIA)
 certificate-viewer-certificate-policies = Jerohoryvéva purureko
 certificate-viewer-embedded-scts = Ojehe’áva SCTs
 certificate-viewer-crl-endpoints = CRL kyta paha
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mboguejy
@@ -101,12 +100,16 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (juajuha)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Ko jepysokue oñemongurusúma ivaikuaávaramo, he’iséva puruhára omboykeva’erã mboajepyre noikumbýiramo.
 certificate-viewer-export = Guerahauka
     .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (ojekuaa’ỹva)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

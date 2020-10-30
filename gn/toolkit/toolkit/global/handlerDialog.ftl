@@ -17,11 +17,23 @@ handler-dialog-host = <strong>{ $host }</strong>ombojurujase juajuha<strong>{ $s
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = Joajuha ijurujáva
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Eiporavo tembipuru’i
+    .accessKey = A
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Eiporavo tembipuru’i
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Joajuha ijurujáva
+    .buttonaccesskeyaccept = O
 choose-other-app-description = Eiporavo ambue tembipuru’i
 choose-app-btn =
     .label = Poravo…
