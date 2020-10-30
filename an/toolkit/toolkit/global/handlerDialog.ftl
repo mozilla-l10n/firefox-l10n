@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong>quiere ubrir un vinclo <strong>{
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Trigar unatra aplicación
 choose-app-btn =
     .label = Trigar…
     .accessKey = T
