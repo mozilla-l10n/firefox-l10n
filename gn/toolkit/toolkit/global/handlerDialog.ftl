@@ -22,6 +22,10 @@ handler-dialog-host = <strong>{ $host }</strong>ombojurujase juajuha<strong>{ $s
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Eiporavo ambue tembipuru’i
 choose-app-btn =
     .label = Poravo…
     .accessKey = C
+choose-other-app-window-title = Ambue tembipuru’i…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Ovetã ñemiguágui jepe’apyre
