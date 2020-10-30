@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Đang tải:
 videocontrols-volume-control =
     .aria-label = Âm lượng
+videocontrols-closed-caption-button =
+    .aria-label = Closed Captions
