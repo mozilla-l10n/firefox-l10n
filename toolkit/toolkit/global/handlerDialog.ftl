@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Roghnaigh Feidhmchlár
 choose-app-btn =
     .label = Roghnaigh…
     .accessKey = R
