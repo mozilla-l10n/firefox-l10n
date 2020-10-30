@@ -14,4 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-app-btn =
+    .label = निवडा…
+    .accessKey = C
 choose-other-app-window-title = अन्य अनुप्रयोग…
