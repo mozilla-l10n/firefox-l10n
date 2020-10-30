@@ -22,6 +22,7 @@ handler-dialog-host = Mae <strong>{ $host }</strong> eisiau agor dolen <strong>{
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Dewis Rhaglen arall
 choose-app-btn =
     .label = Dewis…
     .accessKey = D
