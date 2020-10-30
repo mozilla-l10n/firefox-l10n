@@ -946,6 +946,7 @@ content-blocking-cryptominers = 암호화폐 채굴기
 content-blocking-fingerprinters = 디지털 지문
 content-blocking-warning-title = 주의하세요!
 content-blocking-and-isolating-etp-warning-description = 추적기 차단 및 쿠키 격리는 일부 사이트의 기능에 영향을 줄 수 있습니다. 모든 콘텐츠를 로드하려면 추적기가 있는 페이지를 다시 로드하세요.
+content-blocking-and-isolating-etp-warning-description-2 = 이 설정으로 인해 일부 웹 사이트가 콘텐츠를 표시하지 않거나 제대로 작동하지 않을 수 있습니다. 사이트가 손상된 것 같으면 해당 사이트에 대한 추적 방지 기능을 해제하여 모든 콘텐츠를 로드할 수 있습니다.
 content-blocking-warning-learn-how = 방법 알아보기
 content-blocking-reload-description = 변경 사항을 적용하려면 탭을 다시 로드해야 합니다.
 content-blocking-reload-tabs-button =
