@@ -22,4 +22,7 @@ handler-dialog-host = A(z) <strong>{ $host }</strong> egy <strong>{ $scheme }</s
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-app-btn =
+    .label = Tallózás…
+    .accessKey = a
 choose-other-app-window-title = Másik alkalmazás…
