@@ -384,6 +384,9 @@ addon-badge-line =
 addon-badge-verified =
     .title = Kod tutoho rozšěrjenja je so z přičinow wěstoty přepruwował
     .aria-label = { addon-badge-verified.title }
+addon-badge-verified2 =
+    .title = Tute rozšěrjenje je so přepruwowało, zo by našim standardam za wěstotu a wukon wotpowědowało.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
