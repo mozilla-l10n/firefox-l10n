@@ -22,6 +22,8 @@ handler-dialog-host = <strong>{ $host }</strong> کھولنا چاہتا ہوں 
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = دوسری ایپلی کیشن کا انتخاب کریں
 choose-app-btn =
     .label = چنیں...
     .accessKey = چ
+choose-other-app-window-title = ایک اور ایپلی کیشن…
