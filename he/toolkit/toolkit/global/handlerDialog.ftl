@@ -44,6 +44,7 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = פתיחת קישור
     .buttonaccesskeyaccept = פ
+chooser-dialog-description = נא לבחור ביישום כדי לפתוח את הקישור מסוג { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = תמיד להשתמש ביישום זה כדי לפתוח קישורים מסוג <strong>{ $scheme }</strong>
 choose-other-app-description = בחירה ביישום אחר
