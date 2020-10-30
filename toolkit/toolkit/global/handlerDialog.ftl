@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> хочет открыть сс�
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Выбор другого приложения
 choose-app-btn =
     .label = Выбрать…
     .accessKey = ы
