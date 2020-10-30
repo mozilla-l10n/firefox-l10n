@@ -22,6 +22,7 @@ handler-dialog-host = Nais ng <strong>{ $host }</strong> na magbukas ng isang <s
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Mamili ng ibang Application
 choose-app-btn =
     .label = Mamili...
     .accessKey = M
