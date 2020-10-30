@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = 颁发机构信息（AIA）
 certificate-viewer-certificate-policies = 证书策略
 certificate-viewer-embedded-scts = 嵌入的 SCT 信息
 certificate-viewer-crl-endpoints = CRL 端点
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = 下载
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,12 +100,16 @@ certificate-viewer-download-pem = PEM（证书）
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM（证书链）
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = 此扩展字段标记为“关键”，即代表若客户端不理解此字段内容，则必须拒绝该证书。
 certificate-viewer-export = 导出
     .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = （未知）
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
