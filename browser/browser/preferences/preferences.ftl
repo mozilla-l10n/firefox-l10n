@@ -29,6 +29,8 @@ search-input-box =
            *[other] Atopar nas preferencias
         }
 managed-notice = O seu navegador está a ser xestionado pola súa organización.
+category-list =
+    .aria-label = Categorías
 pane-general-title = Xeral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -426,6 +428,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Activar os controis de vídeo de imaxe en imaxe
     .accesskey = A
 browsing-picture-in-picture-learn-more = Máis información
+browsing-media-control =
+    .label = Control de medios a través de teclado, auriculares ou interface virtual
+    .accesskey = C
+browsing-media-control-learn-more = Máis información
 browsing-cfr-recommendations =
     .label = Recomendar extensións mentres navega
     .accesskey = R
@@ -489,6 +495,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sitios favoritos
 home-prefs-topsites-description = Os sitios que máis visita
+home-prefs-topsites-by-option-sponsored =
+    .label = Principais sitios patrocinados
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -560,6 +568,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Cambiar preferencias para outras suxestións na barra de enderezos
 search-suggestions-cant-show = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
 search-one-click-header = Buscadores nun clic
+search-one-click-header2 = Atallos de busca
 search-one-click-desc = Escolla os buscadores alternativos que aparecerán debaixo da barra de enderezos e de busca ao comezar a escribir unha palabra clave.
 search-choose-engine-column =
     .label = Buscador
@@ -948,6 +957,7 @@ content-blocking-cryptominers = Criptomineiros
 content-blocking-fingerprinters = Pegadas dixitais
 content-blocking-warning-title = Atención!
 content-blocking-and-isolating-etp-warning-description = O bloqueo de rastrexadores e o illamento de cookies poderían afectar a funcionalidade dalgúns sitios. Actualice unha páxina con rastrexadores para cargar todo o contido.
+content-blocking-and-isolating-etp-warning-description-2 = Esta configuración pode provocar que algúns sitios web non mostren contido ou funcionen correctamente. Se un sitio semella estragado, probe a desactivar a protección de rastrexo para que ese sitio cargue todo o contido.
 content-blocking-warning-learn-how = Saiba como
 content-blocking-reload-description = Deberá volver cargar as súas lapelas para aplicar estes cambios.
 content-blocking-reload-tabs-button =
