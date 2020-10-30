@@ -15,4 +15,7 @@
 ##  $scheme - the type of link that's being opened.
 
 choose-other-app-description = Pilih aplikasi lain
+choose-app-btn =
+    .label = Pilih…
+    .accessKey = C
 choose-other-app-window-title = Aplikasi lain…
