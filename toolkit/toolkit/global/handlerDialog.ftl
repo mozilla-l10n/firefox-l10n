@@ -32,6 +32,7 @@ permission-dialog-btn-choose-app =
     .label = Anwendung wählen
     .accessKey = A
 permission-dialog-unset-description = Sie müssen eine Anwendung auswählen.
+permission-dialog-set-change-app-link = Wählen Sie eine andere Anwendung.
 
 ## Chooser dialog
 ## Variables:
@@ -46,6 +47,11 @@ chooser-dialog =
 chooser-dialog-description = Wählen Sie eine Anwendung, um den { $scheme }-Link zu öffnen.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Diese Anwendung immer verwenden, um <strong>{ $scheme }</strong>-Links zu öffnen
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Dies kann in den { -brand-short-name }-Einstellungen geändert werden.
+       *[other] Dies kann in den { -brand-short-name }-Einstellungen geändert werden.
+    }
 choose-other-app-description = Andere Anwendung auswählen
 choose-app-btn =
     .label = Durchsuchen…
