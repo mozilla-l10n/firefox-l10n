@@ -23,3 +23,9 @@ handler-dialog-host = <strong>{ $host }</strong> vòl dobrir un ligam <strong>{ 
 ##  $scheme - the type of link that's being opened.
 
 choose-other-app-description = Causir una aplicacion
+choose-app-btn =
+    .label = Causir…
+    .accessKey = C
+choose-other-app-window-title = Una autra aplicacion…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Desactivat en fenèstras privadas
