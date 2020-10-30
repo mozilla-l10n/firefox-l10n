@@ -22,6 +22,8 @@ handler-dialog-host = <strong>{ $host }</strong> хоча адкрыць спа�
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Выберыце іншую праграму
 choose-app-btn =
     .label = Выбраць…
     .accessKey = В
+choose-other-app-window-title = Іншая праграма…
