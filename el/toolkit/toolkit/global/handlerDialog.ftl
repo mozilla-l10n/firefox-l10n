@@ -17,11 +17,17 @@ handler-dialog-host = Το <strong>{ $host }</strong> θέλει να ανοίξ
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = Άνοιγμα συνδέσμου
+    .accessKey = Ά
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-dialog =
+    .buttonlabelaccept = Άνοιγμα συνδέσμου
+    .buttonaccesskeyaccept = Ά
 choose-other-app-description = Επιλέξτε άλλη εφαρμογή
 choose-app-btn =
     .label = Επιλογή...
