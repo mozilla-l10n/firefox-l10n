@@ -17,11 +17,26 @@ handler-dialog-host = <strong>{ $host }</strong> bir <strong>{ $scheme }</strong
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = Bağlantıyı aç
+    .accessKey = B
+permission-dialog-btn-choose-app =
+    .label = Uygulama seç
+    .accessKey = U
+permission-dialog-unset-description = Bir uygulama seçmelisiniz.
+permission-dialog-set-change-app-link = Başka bir uygulama seçin.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Uygulama seçimi
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Bağlantıyı aç
+    .buttonaccesskeyaccept = B
+chooser-dialog-description = { $scheme } bağlantısını açmak için bir uygulama seçin.
 choose-other-app-description = Başka bir uygulama seç
 choose-app-btn =
     .label = Seç…
