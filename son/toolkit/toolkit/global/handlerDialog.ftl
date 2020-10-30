@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Porogaram tana foo suuba
 choose-app-btn =
     .label = Suuba…
     .accessKey = S
