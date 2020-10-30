@@ -22,6 +22,10 @@ handler-dialog-host = <strong>{ $host }</strong>이(가) <strong>{ $scheme }</st
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = 다른 응용 프로그램 선택
 choose-app-btn =
     .label = 선택…
     .accessKey = C
+choose-other-app-window-title = 다른 응용 프로그램…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = 사생활 보호 창에서 사용 안 함
