@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> vul avrir ina colliaziun <stron
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Tscherner in'autra applicaziun
 choose-app-btn =
     .label = Tschertgar en...
     .accessKey = T
