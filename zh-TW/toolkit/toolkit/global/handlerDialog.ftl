@@ -21,6 +21,10 @@ permission-dialog-description = 要允許這個網站開啟 { $scheme } 鏈結�
 permission-dialog-description-host = 要允許 { $host } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-app = 要允許這個網站使用 { $appName } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-host-app = 要允許 { $host } 使用 { $appName } 開啟 { $scheme } 鏈結嗎？
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = 總是允許 <strong>{ $host }</strong> 開啟 <strong>{ $scheme }</strong> 鏈結
 permission-dialog-btn-open-link =
     .label = 開啟鏈結
     .accessKey = O
