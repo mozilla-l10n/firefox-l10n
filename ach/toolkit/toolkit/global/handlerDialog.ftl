@@ -14,6 +14,8 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Yer purugram mukene
 choose-app-btn =
     .label = Yer…
     .accessKey = Y
+choose-other-app-window-title = Purugram mukene…
