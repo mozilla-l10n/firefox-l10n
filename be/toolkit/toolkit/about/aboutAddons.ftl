@@ -391,6 +391,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Код гэтага пашырэння правераны на бяспеку
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Гэта афіцыйнае пашырэнне, створанае распрацоўшчыкамі { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Гэта пашырэнне праверана на адпаведнасць нашым стандартам бяспекі і прадукцыйнасці
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
