@@ -17,11 +17,30 @@ handler-dialog-host = <strong>{ $host }</strong> chce wotkaz <strong>{ $scheme }
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = Wotkaz wočinić
+    .accessKey = o
+permission-dialog-btn-choose-app =
+    .label = Nałoženje wubrać
+    .accessKey = N
+permission-dialog-unset-description = Dyrbiće nałoženje wubrać.
+permission-dialog-set-change-app-link = Wubjerće druhe nałoženje.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Nałoženje wubrać
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Wotkaz wočinić
+    .buttonaccesskeyaccept = o
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] To da so w nastajenjach { -brand-short-name } změnić.
+       *[other] To da so w nastajenjach { -brand-short-name } změnić.
+    }
 choose-other-app-description = Wubjerće druhe nałoženje
 choose-app-btn =
     .label = Wubrać…
