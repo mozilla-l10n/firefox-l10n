@@ -32,11 +32,26 @@ permission-dialog-btn-choose-app =
     .label = Выбраць праграму
     .accessKey = В
 permission-dialog-unset-description = Вам трэба будзе выбраць праграму.
+permission-dialog-set-change-app-link = Выбраць іншую праграму.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Выбраць праграму
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Адкрыць спасылку
+    .buttonaccesskeyaccept = д
+chooser-dialog-description = Выберыце праграму, каб адкрыць спасылку { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Заўжды выкарыстоўваць гэту праграму для адкрыцця спасылак <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Гэта можна змяніць у наладах { -brand-short-name }.
+       *[other] Гэта можна змяніць у параметрах { -brand-short-name }.
+    }
 choose-other-app-description = Выберыце іншую праграму
 choose-app-btn =
     .label = Выбраць…
