@@ -17,11 +17,23 @@ handler-dialog-host = ‏<strong>{ $host }</strong> רוצה לפתוח קישו
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = פתיחת קישור
+    .accessKey = פ
+permission-dialog-btn-choose-app =
+    .label = בחירת יישום
+    .accessKey = ב
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = בחירת יישום
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = פתיחת קישור
+    .buttonaccesskeyaccept = פ
 choose-other-app-description = בחירה ביישום אחר
 choose-app-btn =
     .label = בחירה…
