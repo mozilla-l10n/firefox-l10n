@@ -21,6 +21,14 @@ permission-dialog-description = 要允許這個網站開啟 { $scheme } 鏈結�
 permission-dialog-description-host = 要允許 { $host } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-app = 要允許這個網站使用 { $appName } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-host-app = 要允許 { $host } 使用 { $appName } 開啟 { $scheme } 鏈結嗎？
+permission-dialog-btn-open-link =
+    .label = 開啟鏈結
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = 選擇應用程式
+    .accessKey = A
+permission-dialog-unset-description = 需要選擇一套應用程式。
+permission-dialog-set-change-app-link = 請選擇另一套應用程式。
 
 ## Chooser dialog
 ## Variables:
@@ -32,6 +40,14 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = 開啟鏈結
     .buttonaccesskeyaccept = O
+chooser-dialog-description = 選擇要用來開啟 { $scheme } 鏈結的應用程式。
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = 總是使用此應用程式來開啟 <strong>{ $scheme }</strong> 鏈結
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] 可以在 { -brand-short-name } 的選項更改。
+       *[other] 可以在 { -brand-short-name } 的偏好設定更改。
+    }
 choose-other-app-description = 選擇其他應用程式
 choose-app-btn =
     .label = 選擇…
