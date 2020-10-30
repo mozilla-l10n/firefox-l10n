@@ -379,8 +379,11 @@ addon-badge-verified =
     .title = 이 확장 기능은 안전을 위해 코드 검토되었습니다
     .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
-    .title = { -brand-product-name }의 제작자가 만든 공식 확장 기능입니다
+    .title = 이 확장 기능은 { -brand-product-name }의 제작자가 만든 공식 확장 기능입니다
     .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
