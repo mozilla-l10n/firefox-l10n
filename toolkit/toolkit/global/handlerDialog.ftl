@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> nori atverti <strong>{ $scheme 
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Pasirinkite kitą programą
 choose-app-btn =
     .label = Parinkti…
     .accessKey = P
