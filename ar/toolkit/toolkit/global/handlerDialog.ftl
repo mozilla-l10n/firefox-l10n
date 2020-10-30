@@ -22,6 +22,7 @@ handler-dialog-host = يريد <strong>{ $host }</strong> فتح رابط <stron
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = اختر تطبيقا آخر
 choose-app-btn =
     .label = اختر…
     .accessKey = خ
