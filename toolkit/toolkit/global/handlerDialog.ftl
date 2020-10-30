@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Kies ’n ander toepassing
 choose-app-btn =
     .label = Kies…
     .accessKey = K
