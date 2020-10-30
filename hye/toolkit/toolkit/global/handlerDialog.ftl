@@ -10,3 +10,22 @@
 #  $host - the hostname that is initiating the request
 #  $scheme - the type of link that's being opened.
 handler-dialog-host = <strong>{ $host }</strong>֊ն ուզում է բացել <strong>{ $scheme }</strong> յղումը։
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+
+
+## Chooser dialog
+## Variables:
+##  $scheme - the type of link that's being opened.
+
+choose-other-app-description = Ընտրէք այլ ծրագիր
+choose-app-btn =
+    .label = Ընտրել…
+    .accessKey = C
+choose-other-app-window-title = Այլ ծրագիր...
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Անջատուել է մասնաւոր պատուհաններում
