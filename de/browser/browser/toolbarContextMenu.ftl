@@ -57,3 +57,6 @@ toolbar-context-menu-bookmarks-toolbar-always-show =
 toolbar-context-menu-bookmarks-toolbar-never-show =
     .label = Nie
     .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Nur bei neuem Tab
+    .accesskey = u
