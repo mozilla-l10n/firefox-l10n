@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> <strong>{ $scheme }</strong> �
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਚੁਣੋ
 choose-app-btn =
     .label = ...ਚੁਣੋ
     .accessKey = C
