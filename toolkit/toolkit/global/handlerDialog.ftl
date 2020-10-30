@@ -23,3 +23,7 @@ handler-dialog-host = <strong>{ $host }</strong> ต้องการเปิ�
 ##  $scheme - the type of link that's being opened.
 
 choose-other-app-description = เลือกแอปพลิเคชันอื่น
+choose-app-btn =
+    .label = เลือก…
+    .accessKey = ล
+choose-other-app-window-title = แอปพลิเคชันอื่น…
