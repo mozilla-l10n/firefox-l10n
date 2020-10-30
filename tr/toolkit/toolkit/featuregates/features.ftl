@@ -69,6 +69,7 @@ experimental-features-graphics-desktop-zooming-description = Dokunmatik ekranlar
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = JavaScript performansını ve bellek kullanımını iyileştirme projesi Warp'u etkinleştirir.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Site İzolasyonu)

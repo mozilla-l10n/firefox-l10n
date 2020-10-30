@@ -383,6 +383,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Bu eklenti, güvenlik amaçlı kod incelemesinden geçti
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Bu eklenti, { -brand-product-name } ekibi tarafından oluşturulan resmi bir eklentidir
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Bu eklenti incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
