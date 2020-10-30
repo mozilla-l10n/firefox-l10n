@@ -10,3 +10,19 @@
 #  $host - the hostname that is initiating the request
 #  $scheme - the type of link that's being opened.
 handler-dialog-host = <strong>{ $host }</strong>намагається відкрити<strong>{ $scheme }</strong> посилання.
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+
+
+## Chooser dialog
+## Variables:
+##  $scheme - the type of link that's being opened.
+
+choose-app-btn =
+    .label = Вибрати…
+    .accessKey = В
+choose-other-app-window-title = Інша програма…
