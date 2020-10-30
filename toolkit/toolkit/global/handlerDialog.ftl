@@ -27,3 +27,5 @@ choose-app-btn =
     .label = ...ਚੁਣੋ
     .accessKey = C
 choose-other-app-window-title = ...ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਅਸਮਰੱਥ ਹੈ
