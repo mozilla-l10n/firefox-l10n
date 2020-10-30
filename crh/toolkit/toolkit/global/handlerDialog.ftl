@@ -18,3 +18,6 @@ choose-other-app-description = Başka bir Uyğulama Sayla
 choose-app-btn =
     .label = Sayla…
     .accessKey = S
+choose-other-app-window-title = Başqa bir Uyğulama…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Hususiy Pencerelerde Naqabilleştirilgen
