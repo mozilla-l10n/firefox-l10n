@@ -14,4 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-app-btn =
+    .label = Hilbijêre...
+    .accessKey = j
 choose-other-app-window-title = Sepaneke Din...
