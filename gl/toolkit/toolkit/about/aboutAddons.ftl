@@ -376,16 +376,36 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Se o permiten, a extensión terá acceso ás súas actividades en liña mentres navega privadamente. <a data-l10n-name="learn-more"> Máis información </a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Non permitir
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } só recomenda extensións que cumpran os nosos estándares de seguridade e rendemento
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Esta extensión foi creada polos creadores de { -brand-product-name }
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = O código desta extensión foi revisado por seguranza
+    .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Esta é unha extensión oficial creada polos creadores de { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Esta extensión foi revisada para cumprir os nosos estándares de seguranza e rendemento
+    .aria-label = { addon-badge-verified2.title }
+
+##
+
 available-updates-heading = Actualizacións dispoñíbeis
 recent-updates-heading = Actualizacións recentes
 release-notes-loading = Cargando…
 release-notes-error = Sentímolo, pero produciuse un erro ao cargar as notas do lanzamento.
 addon-permissions-empty = Esta extensión non require ningún permiso
+addon-permissions-required = Permisos necesarios para a funcionalidade principal:
+addon-permissions-optional = Permisos opcionais para a funcionalidade engadida:
+addon-permissions-learnmore = Saiba máis sobre os permisos
 recommended-extensions-heading = Extensións recomendadas
 recommended-themes-heading = Temas recomendados
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
