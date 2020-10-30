@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> ek <strong>{ $scheme }</strong>
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = अन्य अनुप्रयोग चुनें
 choose-app-btn =
     .label = चुनें…
     .accessKey = C
