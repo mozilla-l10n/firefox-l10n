@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> co wótkaz <strong>{ $scheme }<
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Druge nałoženje wubraś
 choose-app-btn =
     .label = Wubraś…
     .accessKey = u
