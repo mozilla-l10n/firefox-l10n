@@ -386,6 +386,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Xnik'öx rub'itz'ib' re k'amal re' ruma jikomal
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Re re' jun nab'ey k'amal nuk'un kuma ri runuk'unela' { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Re k'amal re' xnik'öx richin nib'anatäj ri rub'eyal qajikomal chuqa' rub'eyal samaj.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 

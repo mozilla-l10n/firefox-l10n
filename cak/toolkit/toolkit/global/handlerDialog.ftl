@@ -17,6 +17,8 @@ handler-dialog-host = <strong>{ $host }</strong> nrajo' nujäq jun <strong>{ $sc
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = ¿La niya' q'ij chi re re ruxaq nujäq ri { $scheme } ximonel?
+permission-dialog-description-host = ¿La niya' q'ij { $host } nujäq ri { $scheme } ximonel?
 
 ## Chooser dialog
 ## Variables:
