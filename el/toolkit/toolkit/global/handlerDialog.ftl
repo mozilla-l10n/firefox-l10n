@@ -22,6 +22,7 @@ handler-dialog-host = Το <strong>{ $host }</strong> θέλει να ανοίξ
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Επιλέξτε άλλη εφαρμογή
 choose-app-btn =
     .label = Επιλογή...
     .accessKey = λ
