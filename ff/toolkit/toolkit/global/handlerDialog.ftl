@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Suɓo Jaaɓnirgal goɗngal
 choose-app-btn =
     .label = Suɓo…
     .accessKey = S
