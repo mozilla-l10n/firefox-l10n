@@ -28,11 +28,30 @@ permission-dialog-remember = <strong>{ $host }</strong>(이)가 <strong>{ $schem
 permission-dialog-btn-open-link =
     .label = 링크 열기
     .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = 응용 프로그램 선택
+    .accessKey = A
+permission-dialog-unset-description = 응용 프로그램을 선택해야 합니다.
+permission-dialog-set-change-app-link = 다른 응용 프로그램을 선택하세요.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = 응용 프로그램 선택
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = 링크 열기
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = { $scheme } 링크를 열 응용 프로그램을 선택하세요.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = <strong>{ $scheme }</strong> 링크를 여는데 항상 이 응용 프로그램 사용
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } 설정에서 바꿀 수 있습니다.
+       *[other] { -brand-short-name } 설정에서 바꿀 수 있습니다.
+    }
 choose-other-app-description = 다른 응용 프로그램 선택
 choose-app-btn =
     .label = 선택…
