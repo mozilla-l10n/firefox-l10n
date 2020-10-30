@@ -14,4 +14,5 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Pilih aplikasi lain
 choose-other-app-window-title = Aplikasi lain…
