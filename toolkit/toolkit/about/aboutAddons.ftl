@@ -376,6 +376,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = 此扩展的代码已通过安全审查
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = 这是由 { -brand-product-name } 开发商构建的官方扩展
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = 此扩展已通过审核，符合我们的安全和性能标准
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 

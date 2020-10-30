@@ -17,11 +17,24 @@ handler-dialog-host = <strong>{ $host }</strong> 想要打开 <strong>{ $scheme 
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = 打开链接
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = 选择应用程序
+    .accessKey = A
+permission-dialog-set-change-app-link = 请选择其他应用程序。
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = 选择应用程序
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = 打开链接
+    .buttonaccesskeyaccept = O
 choose-other-app-description = 选择其他应用程序
 choose-app-btn =
     .label = 选择…
