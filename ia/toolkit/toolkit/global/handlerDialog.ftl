@@ -22,8 +22,10 @@ handler-dialog-host = <strong>{ $host }</strong> vole aperir un ligamine <strong
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Eliger un altere application
 choose-app-btn =
     .label = Eliger…
     .accessKey = E
+choose-other-app-window-title = Un altere application…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Disactivate in fenestras private
