@@ -22,4 +22,10 @@ handler-dialog-host = <strong>{ $host }</strong> chce otevřít odkaz přes <str
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Vybrat jinou aplikaci
+choose-app-btn =
+    .label = Vybrat…
+    .accessKey = V
 choose-other-app-window-title = Jiná aplikace…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Vypnuto v anonymních oknech
