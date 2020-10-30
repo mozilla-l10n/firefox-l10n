@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Başqa tətbiqetmə seç
 choose-app-btn =
     .label = Seçin…
     .accessKey = S
