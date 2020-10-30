@@ -384,6 +384,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Detta tillägg har kodgranskats av säkerhetsskäl
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Detta är en officiell utökning byggd av skaparna av { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Denna tillägg har granskats för att uppfylla våra standarder för säkerhet och prestanda
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
