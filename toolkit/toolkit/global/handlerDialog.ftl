@@ -22,7 +22,10 @@ handler-dialog-host = <strong>{ $host }</strong> wil een <strong>{ $scheme }</st
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Andere toepassing kiezen
 choose-app-btn =
     .label = Kiezen…
     .accessKey = K
 choose-other-app-window-title = Andere toepassing…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Uitgeschakeld in privévensters
