@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Chagua programu nyingine
 choose-app-btn =
     .label = Chagua…
     .accessKey = C
