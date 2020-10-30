@@ -22,6 +22,7 @@ handler-dialog-host = <strong>{ $host }</strong> wants to open a <strong>{ $sche
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Choose other Application
 choose-app-btn =
     .label = Choose…
     .accessKey = C
