@@ -14,6 +14,7 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Tagh aplacaid eile
 choose-app-btn =
     .label = Tagh…
     .accessKey = h
