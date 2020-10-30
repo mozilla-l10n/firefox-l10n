@@ -22,4 +22,5 @@ handler-dialog-host = <strong>{ $host }</strong> želi odpreti povezavo <strong>
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-other-app-description = Izberi drugo aplikacijo
 choose-other-app-window-title = Drug program ...
