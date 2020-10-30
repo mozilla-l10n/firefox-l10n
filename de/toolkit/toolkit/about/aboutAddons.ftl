@@ -388,6 +388,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Der Quelltext dieser Erweiterung wurde aus Sicherheitsgründen überprüft.
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Dies ist eine offizielle Erweiterung, die von den Entwicklern von { -brand-product-name } entwickelt wurde
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Diese Erweiterung wurde überprüft, um unsere Standards für Sicherheit und Leistung zu erfüllen
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
