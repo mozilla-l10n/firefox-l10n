@@ -807,6 +807,11 @@ master-password-os-auth-dialog-message-win = Za stvaranje glavne lozinke, upiši
 master-password-os-auth-dialog-message-macosx = stvori glavnu lozinku
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Za stvaranje primarne lozinke, unesi svoje podatke za prijavu na Windows. Ovo pomaže u zaštiti tvojih računa.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = stvori glavnu lozinku
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

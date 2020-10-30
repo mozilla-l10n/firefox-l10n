@@ -262,6 +262,10 @@ cfr-doorhanger-doh-secondary-button = Deaktiviraj
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-header = Izolacija stranice
+cfr-doorhanger-fission-primary-button = U redu, razumijem
+    .accesskey = U
+cfr-doorhanger-fission-secondary-button = Saznaj više
+    .accesskey = S
 
 ## What's new: Cookies message
 

@@ -32,6 +32,12 @@ serviceworker-worker-debug-forbidden = Otklanjanje grešaka
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Pokreni
     .title = Pokretanje radnih procesa je moguće samo ako su višestruki e10 onemogućeni
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Pregledaj
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Pokreni
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Aktualizirano <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>

@@ -276,6 +276,9 @@ about-debugging-worker-scope =
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = Provjera radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = Kartica nije u potpunosti učitana i ne može se pregledati
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Glavni proces
