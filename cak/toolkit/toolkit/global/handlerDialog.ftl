@@ -19,6 +19,20 @@ handler-dialog-host = <strong>{ $host }</strong> nrajo' nujäq jun <strong>{ $sc
 
 permission-dialog-description = ¿La niya' q'ij chi re re ruxaq nujäq ri { $scheme } ximonel?
 permission-dialog-description-host = ¿La niya' q'ij { $host } nujäq ri { $scheme } ximonel?
+permission-dialog-description-app = ¿La niya' q'ij chi re re ruxaq nujäq ri { $scheme } ximonel rik'in { $appName }?
+permission-dialog-description-host-app = ¿La niya' q'ij { $host } nujäq ri { $scheme } ximonel rik'in { $appName }?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Junelïk tiya' q'ij chi ri <strong>{ $host }</strong> nujäq <strong>{ $scheme }</strong> ximonel
+permission-dialog-btn-open-link =
+    .label = Tijaq Ximonel
+    .accessKey = T
+permission-dialog-btn-choose-app =
+    .label = Ticha' Chokoy
+    .accessKey = C
+permission-dialog-unset-description = K'o chi nacha' jun chokoy.
+permission-dialog-set-change-app-link = Tacha' jun chik wi chi chokoy.
 
 ## Chooser dialog
 ## Variables:
