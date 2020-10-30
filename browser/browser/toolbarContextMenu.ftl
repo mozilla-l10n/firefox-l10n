@@ -25,21 +25,18 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Kapatılan sekmeleri aç
         }
     .accesskey = l
-
 toolbar-context-menu-manage-extension =
     .label = Eklentiyi yönet
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Eklentiyi kaldır
     .accesskey = n
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Eklentiyi rapor et
     .accesskey = i
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -55,3 +52,12 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Özelleştir…
     .accesskey = Ö
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = Her zaman
+    .accesskey = H
+toolbar-context-menu-bookmarks-toolbar-never-show =
+    .label = Asla
+    .accesskey = A
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Yalnızca yeni sekmede
+    .accesskey = Y
