@@ -17,11 +17,17 @@ handler-dialog-host = <strong>{ $host }</strong> vòl dobrir un ligam <strong>{ 
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = Dobrir lo ligam
+    .accessKey = D
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-dialog =
+    .buttonlabelaccept = Dobrir lo ligam
+    .buttonaccesskeyaccept = D
 choose-other-app-description = Causir una aplicacion
 choose-app-btn =
     .label = Causir…
