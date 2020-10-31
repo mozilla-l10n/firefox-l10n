@@ -40,7 +40,7 @@ permission-dialog-set-change-app-link = Tacha' jun chik wi chi chokoy.
 
 chooser-window =
     .title = Ticha' Chokoy
-    .style = 	min-width: 26em; min-height: 26em;
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Tijaq Ximonel
     .buttonaccesskeyaccept = T
