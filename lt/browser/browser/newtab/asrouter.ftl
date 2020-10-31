@@ -261,8 +261,22 @@ cfr-doorhanger-doh-primary-button = Gerai, supratau
 cfr-doorhanger-doh-secondary-button = Išjungti
     .accesskey = I
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body-approved = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau izoliuoja, arba laiko atskirai, svetaines vieną nuo kitos, kas apsunkina piktavalių bandymus pavogti slaptažodžius, banko kortelių duomenis, ir kitus jautrius duomenis.
+cfr-doorhanger-fission-header = Svetainių izoliavimas
+cfr-doorhanger-fission-primary-button = Gerai, supratau
+    .accesskey = G
+cfr-doorhanger-fission-secondary-button = Sužinoti daugiau
+    .accesskey = S
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatinė apsauga nuo slaptų stebėjimo būdų
 cfr-whatsnew-clear-cookies-body = Kai kurie stebėjimo elementai nukreipia jus į kitas svetaines, kurios slaptai įrašo slapukus. „{ -brand-short-name }“ dabar automatiškai išvalo tokius slapukus, kad nebūtumėte sekami.
 cfr-whatsnew-clear-cookies-image-alt = Užblokuoto slapuko iliustracija
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Daugiau medijos valdymo
+cfr-whatsnew-media-keys-body = Leiskite ir pristabdykite garso bei vaizdo įrašus naudodamiesi savo klaviatūra ar ausinėmis, taip patogiau valdydami mediją iš kitos kortelės, programos, ar net kai kompiuteris užrakintas. Galite net pereiti tarp dainų, naudodamiesi mygtukais pirmyn ir atgal.

@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -222,7 +222,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Šįkart ieškokite su:
 # This string won't wrap, so if the translated string is longer,
@@ -332,6 +332,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Užverti
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Importuoti adresyną…
+    .tooltiptext = Kopijuoti adresyno įrašus iš kitos naršyklės į „{ -brand-short-name }“.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -435,13 +441,37 @@ urlbar-result-action-search-in-private = Ieškoti privačiojo naršymo lange
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Ieškoti per „{ $engine }“
+urlbar-result-action-sponsored = Remiama
 urlbar-result-action-switch-tab = Pereiti į kortelę
 urlbar-result-action-visit = Aplankyti
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Spustelėkite klavišą Tab, norėdami ieškoti per „{ $engine }“
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Spustelėkite klavišą Tab, norėdami ieškoti „{ $engine }“
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Ieškokite per „{ $engine }“ tiesiai iš adreso lauko
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Ieškokite „{ $engine }“ tiesiai iš adreso lauko
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Ieškoti adresyne
+urlbar-result-action-search-history = Ieškoti žurnale
+urlbar-result-action-search-tabs = Ieškoti kortelėse
 
 ## Full Screen and Pointer Lock UI
 
