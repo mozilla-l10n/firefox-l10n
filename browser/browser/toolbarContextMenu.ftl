@@ -58,3 +58,6 @@ toolbar-context-menu-bookmarks-toolbar-always-show =
 toolbar-context-menu-bookmarks-toolbar-never-show =
     .label = Jamai
     .accesskey = J
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Dobrir dins un onglet novèl
+    .accesskey = D
