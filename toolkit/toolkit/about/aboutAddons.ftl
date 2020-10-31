@@ -387,6 +387,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Tiện ích mở rộng này đã được xem xét mã để đảm bảo an toàn.
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Đây là tiện ích mở rộng chính thức do những người tạo ra { -brand-product-name } xây dựng
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Tiện ích mở rộng này đã được xem xét để đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
