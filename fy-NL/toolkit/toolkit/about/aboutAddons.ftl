@@ -388,6 +388,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = De koade fan dizze útwreiding is foar jo feilichheid beoardiele
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Dit is in offisjele útwreiding, boud troch de makkers fan { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
