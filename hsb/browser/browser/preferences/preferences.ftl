@@ -1142,7 +1142,7 @@ space-alert-under-5gb-message = { -brand-short-name } hižo dosć składowanskeh
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Modus jenož HTTPS
+httpsonly-header = Modus Jenož-HTTPS
 httpsonly-description = HTTPS wěsty, zaklučowany zwisk mjez { -brand-short-name } a websydłami skići, kotrež wopytujeće. Najwjace websydłow HTTPS podpěruje, a jeli modus Jenož-HTTPS je zmóžnjeny, { -brand-short-name } budźe wšě zwiski na HTTPS aktualizować.
 httpsonly-learn-more = Dalše informacije
 httpsonly-radio-enabled =
