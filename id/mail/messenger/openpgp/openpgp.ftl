@@ -491,3 +491,22 @@ save-attachment-header = Simpan lampiran yang didekripsi
 no-temp-dir =
     Tidak dapat menemukan direktori sementara untuk menulis
     Harap setel variabel lingkungan TEMP
+# Strings used in encryption.jsm
+not-required = Kesalahan - tidak diperlukan enkripsi
+# Strings used in windows.jsm
+no-photo-available = Tidak ada Foto tersedia
+error-photo-path-not-readable = Path foto '{ $photo }' tidak dapat dibaca
+debug-log-title = Log Debug OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Lansiran ini akan berulang { $count }
+repeat-suffix-singular = kali lagi.
+repeat-suffix-plural = kali lagi.
+no-repeat = Lansiran ini tidak akan ditampilkan lagi.
+dlg-keep-setting = Ingat jawaban saya dan jangan tanya saya lagi
+dlg-button-ok = &OK
+dlg-button-close = T&utup
+dlg-button-cancel = &Batal
+dlg-no-prompt = Jangan tampilkan dialog ini lagi.
+enig-confirm = Konfirmasi OpenPGP
+enig-alert = Lansiran OpenPGP
+enig-info = Informasi OpenPGP
