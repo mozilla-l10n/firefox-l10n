@@ -9,16 +9,16 @@
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description =
-  Consentire a questo sito di aprire il link di tipo { $scheme }?
+  Consentire a questo sito di aprire un link di tipo { $scheme }?
 
 permission-dialog-description-host =
-  Consentire a { $host } di aprire il link di tipo { $scheme }?
+  Consentire a { $host } di aprire un link di tipo { $scheme }?
 
 permission-dialog-description-app =
-  Consentire a questo sito di aprire il link di tipo { $scheme } con { $appName }?
+  Consentire a questo sito di aprire un link di tipo { $scheme } con { $appName }?
 
 permission-dialog-description-host-app =
-  Consentire a { $host } di aprire il link di tipo { $scheme } con { $appName }?
+  Consentire a { $host } di aprire un link di tipo { $scheme } con { $appName }?
 
 # Please keep the emphasis around the hostname and scheme (ie the
 # `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -69,7 +69,7 @@ chooser-dialog-remember-extra = {
      *[other] È possibile modificare questa impostazione nelle preferenze di { -brand-short-name }.
   }
 
-choose-other-app-description = Scegliere un’altra applicazione
+choose-other-app-description = Utilizza un’altra applicazione
 choose-app-btn =
     .label = Scegli…
     .accessKey = S
