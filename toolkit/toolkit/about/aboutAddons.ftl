@@ -390,6 +390,7 @@ recent-updates-heading = Tuoreet päivitykset
 release-notes-loading = Ladataan…
 release-notes-error = Julkaisutietojen lataaminen epäonnistui.
 addon-permissions-empty = Tämä laajennus ei vaadi mitään oikeuksia
+addon-permissions-learnmore = Lue lisää käyttöoikeuksista
 recommended-extensions-heading = Suositellut laajennukset
 recommended-themes-heading = Suositellut teemat
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
