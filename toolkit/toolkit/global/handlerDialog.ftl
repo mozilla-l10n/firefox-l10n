@@ -17,18 +17,41 @@ handler-dialog-host = A(z) <strong>{ $host }</strong> egy <strong>{ $scheme }</s
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Engedélyezi az oldal számára, hogy megnyissa a(z) { $scheme } hivatkozást?
 permission-dialog-description-host = Engedélyezi a(z) { $host } számára, hogy megnyissa a(z) { $scheme } hivatkozást?
+permission-dialog-description-app = Engedélyezi az oldal számára, hogy megnyissa a(z) { $scheme } hivatkozást a(z) { $appName } alkalmazással?
+permission-dialog-description-host-app = Engedélyezi a(z) { $host } számára, hogy megnyissa a(z) { $scheme } hivatkozást a(z) { $appName } alkalmazással?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Mindig engedélyezze, hogy a(z) <strong>{ $host }</strong> <strong>{ $scheme }</strong> hivatkozásokat nyisson meg
 permission-dialog-btn-open-link =
     .label = Hivatkozás megnyitása
     .accessKey = H
 permission-dialog-btn-choose-app =
     .label = Alkalmazás kiválasztása
     .accessKey = A
+permission-dialog-unset-description = Választania kell egy alkalmazást.
+permission-dialog-set-change-app-link = Másik alkalmazás választása.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Alkalmazás választása
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Hivatkozás megnyitása
+    .buttonaccesskeyaccept = m
+chooser-dialog-description = Válasszon egy alkalmazást a(z) { $scheme } hivatkozás megnyitásához.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Mindig ezt az alkalmazást használja a(z) <strong>{ $scheme }</strong> hivatkozások megnyitásához
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Ez a { -brand-short-name } beállításaiban megváltoztatható.
+       *[other] Ez a { -brand-short-name } beállításaiban megváltoztatható.
+    }
 choose-other-app-description = Másik alkalmazás választása
 choose-app-btn =
     .label = Tallózás…
