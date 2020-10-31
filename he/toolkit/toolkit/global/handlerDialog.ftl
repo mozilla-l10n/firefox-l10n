@@ -31,7 +31,7 @@ permission-dialog-btn-open-link =
 permission-dialog-btn-choose-app =
     .label = בחירת יישום
     .accessKey = ב
-permission-dialog-unset-description = יהיה עליך לבחור יישום.
+permission-dialog-unset-description = יהיה עליך לבחור ביישום.
 permission-dialog-set-change-app-link = בחירה ביישום שונה
 
 ## Chooser dialog
