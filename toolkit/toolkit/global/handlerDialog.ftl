@@ -18,6 +18,12 @@ handler-dialog-host = A(z) <strong>{ $host }</strong> egy <strong>{ $scheme }</s
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description-host = Engedélyezi a(z) { $host } számára, hogy megnyissa a(z) { $scheme } hivatkozást?
+permission-dialog-btn-open-link =
+    .label = Hivatkozás megnyitása
+    .accessKey = H
+permission-dialog-btn-choose-app =
+    .label = Alkalmazás kiválasztása
+    .accessKey = A
 
 ## Chooser dialog
 ## Variables:
