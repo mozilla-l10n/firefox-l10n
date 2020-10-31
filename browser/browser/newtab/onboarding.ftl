@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Pradėti
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Sveiki, čia „{ -brand-short-name }“
 onboarding-welcome-body = Naršyklę jau turite.<br/>Dabar susipažinkite su likusia „{ -brand-product-name }“ šeima.
 onboarding-welcome-learn-more = Sužinokite apie privalumus daugiau.
@@ -36,9 +44,51 @@ onboarding-join-form-signin-label = Jau turite paskyrą?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Prisijungti
 onboarding-start-browsing-button-label = Pradėti naršymą
+onboarding-not-now-button-label = Ne dabar
 onboarding-cards-dismiss =
     .title = Paslėpti
     .aria-label = Paslėpti
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Susipažinkite su viskuo, ką galite atlikti.
+onboarding-fullpage-form-email =
+    .placeholder = Jūsų el. pašto adresas…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Pasiimkite „{ -brand-product-name }“ su savimi
+onboarding-sync-welcome-content = Turėkite savo adresyną, žurnalą, slaptažodžius ir kitas nuostatas visuose savo įrenginiuose.
+onboarding-sync-welcome-learn-more-link = Sužinokite apie „Firefox“ paskyras daugiau
+onboarding-sync-form-input =
+    .placeholder = El. paštas
+onboarding-sync-form-continue-button = Tęsti
+onboarding-sync-form-skip-login-button = Praleisti šį žingsnį
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Įveskite savo el. paštą
+onboarding-sync-form-sub-header = norėdami tęsti su „{ -sync-brand-name }“.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Atlikite darbus su įrankių šeima, kuri gerbia jūsų privatumą visuose jūsų įrenginiuose.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Viskas, ką darome, atitinka mūsų Asmeninių duomenų pažadą: imti mažiau. Laikyti saugiai. Jokių paslapčių.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Turėkite savo adresyną, slaptažodžius, žurnalą ir kitką visur, kur naudojate „{ -brand-product-name }“.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Gaukite pranešimą, kai jūsų asmeniniai duomenys pateks tarp nutekėjusių duomenų.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Tvarkykite saugius ir patogiai pasiekiamus slaptažodžius.
+
+## Custom Return To AMO onboarding strings
+
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +122,6 @@ onboarding-multistage-theme-primary-button-label = Įrašyti grafinį apvalkalą
 onboarding-multistage-theme-secondary-button-label = Ne dabar
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatinis
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Naudoti sistemos grafinis apvalkalą
 onboarding-multistage-theme-label-light = Šviesus
 onboarding-multistage-theme-label-dark = Tamsus
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +132,6 @@ onboarding-multistage-theme-label-alpenglow = „Firefox Alpenglow“
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Paveldėti jūsų operacinės sistemos spalvas
-        mygtukams, meniu elementams, ir langams.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Naudoti šviesias spalvas mygtukams,
-        meniu elementams, ir langams.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Naudoti tamsias spalvas mygtukams,
-        meniu elementams, ir langams.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Naudoti įvairiaspalvę išvaizdą mygtukams,
-        meniu elementams, ir langams.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +172,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Naudoti įvairiaspalvę išvaizdą mygtukams,
         meniu elementams, ir langams.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Susipažinkite su viskuo, ką galite atlikti.
-onboarding-fullpage-form-email =
-    .placeholder = Jūsų el. pašto adresas…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Pasiimkite „{ -brand-product-name }“ su savimi
-onboarding-sync-welcome-content = Turėkite savo adresyną, žurnalą, slaptažodžius ir kitas nuostatas visuose savo įrenginiuose.
-onboarding-sync-welcome-learn-more-link = Sužinokite apie „Firefox“ paskyras daugiau
-onboarding-sync-form-input =
-    .placeholder = El. paštas
-onboarding-sync-form-continue-button = Tęsti
-onboarding-sync-form-skip-login-button = Praleisti šį žingsnį
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Įveskite savo el. paštą
-onboarding-sync-form-sub-header = norėdami tęsti su „{ -sync-brand-name }“.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Atlikite darbus su įrankių šeima, kuri gerbia jūsų privatumą visuose jūsų įrenginiuose.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Viskas, ką darome, atitinka mūsų Asmeninių duomenų pažadą: imti mažiau. Laikyti saugiai. Jokių paslapčių.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Turėkite savo adresyną, slaptažodžius, žurnalą ir kitką visur, kur naudojate „{ -brand-product-name }“.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Gaukite pranešimą, kai jūsų asmeniniai duomenys pateks tarp nutekėjusių duomenų.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Tvarkykite saugius ir patogiai pasiekiamus slaptažodžius.
 
 ## These strings belong to the individual onboarding messages.
 
