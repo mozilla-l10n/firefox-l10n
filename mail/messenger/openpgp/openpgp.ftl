@@ -405,6 +405,11 @@ user-att-photo = Atribut pengguna (gambar JPEG)
 already-revoked = Kunci ini sudah dicabut.
 key-man-button-revoke-key = &Cabut Kunci
 openpgp-key-revoke-success = Kunci berhasil dicabut.
+after-revoke-info =
+    Kunci telah dicabut.
+    Bagikan kunci publik ini lagi, dengan mengirimkannya melalui surel, atau dengan mengunggahnya ke server kunci, untuk memberi tahu orang lain bahwa Anda telah mencabut kunci Anda.
+    Segera setelah perangkat lunak yang digunakan oleh orang lain mengetahui tentang pencabutan tersebut, itu akan berhenti memakai kunci lama Anda.
+    Jika Anda menggunakan kunci baru untuk alamat surel yang sama, dan Anda melampirkan kunci publik baru ke surel yang Anda kirim, maka informasi tentang kunci lama Anda yang dicabut akan secara otomatis disertakan.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Impor
 delete-key-title = Hapus Kunci OpenPGP
@@ -445,8 +450,44 @@ import-key-file = Impor Berkas Kunci OpenPGP
 import-rev-file = Impor Berkas Pencabutan OpenPGP
 gnupg-file = Berkas GnuPG
 import-keys-failed = Pengimporan kunci gagal
+passphrase-prompt = Harap masukkan frasa sandi untuk membuka kunci berikut: { $key }
+file-to-big-to-import = File ini terlalu besar. Harap jangan mengimpor banyak kunci sekaligus.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Buat & Simpan Sertifikat Pencabutan
+revoke-cert-ok = Sertifikat pencabutan telah berhasil dibuat. Anda dapat menggunakannya untuk membuat kunci publik Anda tidak valid, mis. seandainya Anda kehilangan kunci rahasia Anda.
+revoke-cert-failed = Sertifikat pencabutan tidak dapat dibuat.
+gen-going = Pembuatan kunci sedang berlangsung!
+expiry-too-short = Kunci Anda harus valid setidaknya untuk satu hari.
+expiry-too-long = Anda tidak dapat membuat kunci yang kedaluwarsanya lebih dari 100 tahun.
+key-confirm = Hasilkan kunci publik dan rahasia untuk '{ $id }'?
+key-man-button-generate-key = &Hasilkan Kunci
+key-abort = Batalkan pembuatan kunci?
+key-man-button-generate-key-abort = B&atalkan Pembuatan Kunci
+key-man-button-generate-key-continue = Lanjutkan Pembuatan Kun&ci
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Kesalahan - dekripsi gagal
+fix-broken-exchange-msg-failed = Tidak berhasil memperbaiki pesan.
+attachment-no-match-from-signature = Tidak dapat mencocokkan file tanda tangan '{ $attachment }' dengan lampiran
+attachment-no-match-to-signature = Tidak dapat mencocokkan lampiran '{ $attachment }' dengan file tanda tangan
+signature-verified-ok = Tanda tangan untuk lampiran { $attachment } berhasil diverifikasi
+signature-verify-failed = Tanda tangan untuk lampiran { $attachment } tidak dapat diverifikasi
+decrypt-ok-no-sig =
+    Peringatan
+    Dekripsi berhasil, tetapi tanda tangan tidak dapat diverifikasi dengan benar
+msg-ovl-button-cont-anyway = &Lanjutkan Saja
+enig-content-note = *Lampiran pesan ini belum ditandatangani atau dienkripsi*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = Kirim Pe&san
+msg-compose-details-button-label = Rincian...
+msg-compose-details-button-access-key = R
+send-aborted = Operasi pengiriman dibatalkan.
 key-not-found = Kunci '{ $key }' tidak ditemukan
 key-revoked = Kunci '{ $key }' dicabut
 key-expired = Kunci '{ $key }' kedaluwarsa
 msg-compose-internal-error = Kesalahan internal telah terjadi.
 keys-to-export = Pilih Kunci OpenPGP untuk Disisipkan
+msg-compose-cannot-save-draft = Kesalahan saat menyimpan draf
+save-attachment-header = Simpan lampiran yang didekripsi
+no-temp-dir =
+    Tidak dapat menemukan direktori sementara untuk menulis
+    Harap setel variabel lingkungan TEMP
