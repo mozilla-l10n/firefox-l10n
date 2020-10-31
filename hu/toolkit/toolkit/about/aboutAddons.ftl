@@ -390,6 +390,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = A kiegészítő biztonsági okokból kódfelülvizsgálaton esett át
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Ez egy hivatalos kiegészítő, melyet a { -brand-product-name } készítői fejlesztettek
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeinknek.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
