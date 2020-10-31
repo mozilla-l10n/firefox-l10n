@@ -387,6 +387,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Il code da questa extensiun è vegnì controllà areguard la segirezza
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Quai è ina extensiun uffiziala sviluppada dals creaders da { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
