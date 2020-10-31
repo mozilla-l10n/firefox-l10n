@@ -946,6 +946,7 @@ content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. 
 content-blocking-etp-strict-desc = Proteccion renfortida, pòt copar unes sites o contenguts.
 content-blocking-etp-custom-desc = Causissètz quins traçadors e scripts cal blocar.
 content-blocking-private-windows = Contengut utilizat per pistar dins las fenèstras de navegacion privada
+content-blocking-cross-site-cookies = Cookies intersites
 content-blocking-cross-site-tracking-cookies = Cookies de seguiment entre sites
 content-blocking-cross-site-tracking-cookies-plus-isolate = Los traçadors intersites, e isolar los cookies restants
 content-blocking-social-media-trackers = Traçadors de malhums socials

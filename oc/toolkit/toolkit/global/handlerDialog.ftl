@@ -20,11 +20,15 @@ handler-dialog-host = <strong>{ $host }</strong> vòl dobrir un ligam <strong>{ 
 permission-dialog-btn-open-link =
     .label = Dobrir lo ligam
     .accessKey = D
+permission-dialog-set-change-app-link = Causir una autra aplicacion.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Causir una aplicacion
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Dobrir lo ligam
     .buttonaccesskeyaccept = D
