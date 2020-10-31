@@ -491,6 +491,9 @@ save-attachment-header = Simpan lampiran yang didekripsi
 no-temp-dir =
     Tidak dapat menemukan direktori sementara untuk menulis
     Harap setel variabel lingkungan TEMP
+do-import-one = Impor { $name } ({ $id })?
+cant-import = Terjadi kesalahan saat mengimpor kunci publik
+sig-mismatch = Kesalahan - Tanda tangan tidak cocok
 # Strings used in encryption.jsm
 not-required = Kesalahan - tidak diperlukan enkripsi
 # Strings used in windows.jsm
