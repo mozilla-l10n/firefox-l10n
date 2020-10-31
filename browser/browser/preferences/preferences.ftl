@@ -943,7 +943,7 @@ content-blocking-unvisited-cookies = Cookie từ các trang không mong muốn
 content-blocking-all-windows-tracking-content = Trình theo dõi nội dung trong tất cả cửa sổ
 content-blocking-all-third-party-cookies = Toàn bộ cookie từ bên thứ ba
 content-blocking-cryptominers = Tiền điện tử
-content-blocking-fingerprinters = Dấu vân tay
+content-blocking-fingerprinters = Dấu vết (Fingerprintng)
 content-blocking-warning-title = Hãy cân nhắc!
 content-blocking-and-isolating-etp-warning-description = Chặn trình theo dõi và cô lập cookie có thể ảnh hưởng đến chức năng của một số trang web. Tải lại một trang với trình theo dõi để tải tất cả nội dung.
 content-blocking-and-isolating-etp-warning-description-2 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không chính xác. Nếu trang web có vẻ bị hỏng, bạn có thể muốn tắt trình chống theo dõi để trang web đó tải tất cả nội dung.
@@ -974,7 +974,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Dấu vân tay
+    .label = Dấu vết (Fingerprintng)
     .accesskey = F
 
 ## Privacy Section - Tracking

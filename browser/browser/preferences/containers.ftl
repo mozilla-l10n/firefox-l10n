@@ -60,7 +60,7 @@ containers-color-toolbar =
 containers-icon-fence =
     .label = Hàng rào
 containers-icon-fingerprint =
-    .label = Dấu vân tay
+    .label = Dấu vết (Fingerprintng)
 containers-icon-briefcase =
     .label = Cặp tài liệu
 # String represents a money sign but currently uses a dollar sign

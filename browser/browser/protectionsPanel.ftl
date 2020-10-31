@@ -42,7 +42,7 @@ protections-panel-no-trackers-found = { -brand-short-name } không phát hiện 
 protections-panel-content-blocking-tracking-protection = Trình theo dõi nội dung
 protections-panel-content-blocking-socialblock = Trình theo dõi truyền thông xã hội
 protections-panel-content-blocking-cryptominers-label = Tiền điện tử
-protections-panel-content-blocking-fingerprinters-label = Dấu vân tay
+protections-panel-content-blocking-fingerprinters-label = Dấu vết
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -77,7 +77,7 @@ protections-panel-site-not-working-view-send-report = Gửi báo cáo
 
 protections-panel-cross-site-tracking-cookies = Những cookie này theo bạn từ trang này sang trang khác để thu thập dữ liệu về những gì bạn làm trực tuyến. Chúng được đặt bởi các bên thứ ba như nhà quảng cáo và công ty phân tích.
 protections-panel-cryptominers = Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn.
-protections-panel-fingerprinters = Dấu vân tay thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vân tay kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau.
+protections-panel-fingerprinters = Dấu vết thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vết kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau.
 protections-panel-tracking-content = Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác với đoạn mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.
 protections-panel-social-media-trackers = Mạng xã hội đặt trình theo dõi trên các trang web khác để theo dõi những gì bạn làm, xem và xem trực tuyến. Điều này cho phép các công ty truyền thông xã hội tìm hiểu thêm về bạn ngoài những gì bạn chia sẻ trên hồ sơ truyền thông xã hội của mình.
 protections-panel-content-blocking-manage-settings =

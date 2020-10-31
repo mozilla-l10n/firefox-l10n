@@ -144,12 +144,12 @@ cfr-whatsnew-permission-prompt-cta = Tìm hiểu thêm
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-       *[other] Dấu vân tay bị chặn
+       *[other] Dấu vết bị chặn
     }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } chặn nhiều trang lấy dấu vân tay bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } chặn nhiều trang lấy dấu vết để bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
 # Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Dấu vân tay
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } có thể chặn những trang lấy dấu vân tay bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
+cfr-whatsnew-fingerprinter-counter-header-alt = Dấu vết
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } có thể chặn những trang lấy dấu vết để bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
 
 ## Bookmark Sync
 
@@ -190,8 +190,8 @@ cfr-doorhanger-socialtracking-dont-show-again = Đừng hiện cho tôi những 
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } đã dừng mạng xã hội mà nó theo dõi bạn tại đây
 cfr-doorhanger-socialtracking-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các trình theo dõi phương tiện truyền thông xã hội phổ biến, giới hạn số lượng dữ liệu họ có thể thu thập về những gì bạn làm trực tuyến.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } đã chặn một dấu vân tay trên trang này
-cfr-doorhanger-fingerprinters-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các dấu vân tay, mà nó thu thập các mẫu thông tin nhận dạng duy nhất về thiết bị của bạn để theo dõi bạn.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } đã chặn một dấu vết trên trang này
+cfr-doorhanger-fingerprinters-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các dấu vết, mà nó thu thập các mẫu thông tin nhận dạng duy nhất về thiết bị của bạn để theo dõi bạn.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } đã chặn một loại tiền điện tử trên trang này
 cfr-doorhanger-cryptominers-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các loại tiền điện tử, mà nó sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số.
 
@@ -259,8 +259,6 @@ cfr-doorhanger-fission-primary-button = OK, đã hiểu
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Tìm hiểu thêm
     .accesskey = T
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } đã bật tính năng thử nghiệm Fission (cách ly trang web) cho bạn. Bằng cách cô lập từng trang riêng biệt thành một tiến trình, Fission cung cấp thêm một lớp bảo vệ cho bạn và cho các trang web bạn truy cập.
 
 ## What's new: Cookies message
 

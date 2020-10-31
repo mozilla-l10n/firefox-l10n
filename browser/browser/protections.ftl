@@ -43,8 +43,8 @@ cookie-tab-title = Cookie theo dõi trên nhiều trang web
 cookie-tab-content = Những cookie này theo bạn từ trang này sang trang khác để thu thập dữ liệu về những gì bạn làm trực tuyến. Chúng được đặt bởi các bên thứ ba như nhà quảng cáo và công ty phân tích. Chặn cookie theo dõi nhiều trang web làm giảm số lượng quảng cáo theo bạn xung quanh. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 tracker-tab-title = Trình theo dõi nội dung
 tracker-tab-description = Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác với đoạn mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
-fingerprinter-tab-title = Dấu vân tay
-fingerprinter-tab-content = Dấu vân tay thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vân tay kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
+fingerprinter-tab-title = Dấu vết
+fingerprinter-tab-content = Dấu vết thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vết kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 cryptominer-tab-title = Tiền điện tử
 cryptominer-tab-content = Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 protections-close-button2 =
@@ -182,10 +182,10 @@ bar-tooltip-tracker =
            *[other] { $count } trình theo dõi nội dung ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Dấu Vân tay
+    .title = Dấu vết
     .aria-label =
         { $count ->
-           *[other] { $count } dấu vân tay ({ $percentage }%)
+           *[other] { $count } dấu vết ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Tiền điện tử
