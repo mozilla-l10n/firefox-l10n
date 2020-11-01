@@ -362,6 +362,25 @@ import-info-no-keys = Nie zaimportowano żadnych kluczy.
 # Strings in enigmailKeyManager.js
 import-from-clip = Czy zaimportować klucze ze schowka?
 import-from-url = Pobierz klucz publiczny z tego adresu URL:
+copy-to-clipbrd-failed = Nie można skopiować wybranych kluczy do schowka.
+copy-to-clipbrd-ok = Skopiowano klucze do schowka
+delete-secret-key =
+    OSTRZEŻENIE: za chwilę zostanie usunięty tajny klucz!
+    
+    Po usunięciu swojego tajnego klucza nie będzie już można odszyfrować żadnych wiadomości zaszyfrowanych dla tego klucza, ani nie będzie można go unieważnić.
+    
+    Czy na pewno usunąć OBYDWA klucze, tajny klucz i klucz publiczny
+    „{ $userId }”?
+delete-mix =
+    OSTRZEŻENIE: za chwilę zostaną usunięte tajne klucze!
+    Po usunięciu swojego tajnego klucza nie będzie już można odszyfrować żadnych wiadomości zaszyfrowanych dla tego klucza.
+    Czy na pewno usunąć OBYDWA klucze, wybrane tajne klucze i klucze publiczne?
+delete-pub-key =
+    Czy usunąć klucz publiczny
+    „{ $userId }”?
+delete-selected-pub-key = Czy usunąć klucze publiczne?
+refresh-all-question = Nie wybrano żadnego klucza. Czy odświeżyć WSZYSTKIE klucze?
+key-man-button-export-sec-key = &Eksportuj tajne klucze
 
 ## Account settings export output
 
