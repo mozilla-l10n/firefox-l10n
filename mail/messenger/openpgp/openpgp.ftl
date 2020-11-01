@@ -530,3 +530,10 @@ msg-compose-partially-encrypted-short = Uważaj na wycieki poufnych informacji �
 quoted-printable-warn =
     Włączono kodowanie „Quoted-Printable” dla wysyłanych wiadomości. Może to spowodować niepoprawne odszyfrowanie lub weryfikację wiadomości.
     Czy wyłączyć teraz wysyłanie wiadomości „Quoted-Printable”?
+minimal-line-wrapping =
+    Ustawiono zawijanie wierszy na taką liczbę znaków: { $width }. Aby zapewnić poprawne szyfrowanie i podpisywanie, ta wartość musi wynosić co najmniej 68.
+    Czy zmienić teraz zawijanie wierszy na 68 znaków?
+sending-hidden-rcpt = Podczas wysyłania zaszyfrowanej wiadomości nie można używać odbiorców ukrytej kopii. Aby wysłać tę zaszyfrowaną wiadomość, usuń odbiorców ukrytej kopii lub przenieś ich do pola odbiorców kopii.
+sending-news =
+    Przerwano zaszyfrowane działanie wysyłania.
+    Nie można zaszyfrować tej wiadomości, ponieważ ma ona odbiorców będących grupami dyskusyjnymi. Wyślij wiadomość ponownie bez szyfrowania.
