@@ -288,6 +288,42 @@ key-expired-date = Klucz wygasł w dniu { $keyExpiry }
 key-expired-simple = Klucz wygasł
 key-revoked-simple = Klucz został unieważniony
 key-do-you-accept = Czy akceptujesz ten klucz do weryfikowania podpisów cyfrowych i szyfrowania wiadomości?
+key-accept-warning = Unikaj zaakceptowania fałszywego klucza. Skorzystaj z innego kanału komunikacji niż e-mail, aby zweryfikować odcisk klucza rozmówcy.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Nie można wysłać wiadomości, ponieważ wystąpił problem z kluczem osobistym. { $problem }
+cannot-encrypt-because-missing = Nie można wysłać tej wiadomości za pomocą szyfrowania typu „end-to-end”, ponieważ wystąpiły problemy z kluczami tych odbiorców: { $problem }
+window-locked = Okno tworzenia wiadomości jest zablokowane; anulowano wysyłanie
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Zaszyfrowana część wiadomości
+mime-decrypt-encrypted-part-concealed-data = To jest zaszyfrowana część wiadomości. Musisz otworzyć ją w oddzielnym oknie, klikając załącznik.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Przerwano
+keyserver-error-unknown = Wystąpił nieznany błąd
+keyserver-error-server-error = Serwer kluczy zgłosił błąd.
+keyserver-error-import-error = Zaimportowanie pobranego klucza się nie powiodło.
+keyserver-error-unavailable = Serwer kluczy jest niedostępny.
+keyserver-error-security-error = Serwer kluczy nie obsługuje szyfrowanego dostępu.
+keyserver-error-certificate-error = Certyfikat serwera kluczy jest nieprawidłowy.
+keyserver-error-unsupported = Serwer kluczy nie jest obsługiwany.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Dostawca poczty przetworzył żądanie wysłania klucza publicznego do katalogu kluczy OpenPGP.
+    Proszę potwierdzić, aby dokończyć publikację klucza publicznego.
+wkd-message-body-process =
+    To wiadomość związana z automatycznym przetwarzaniem w celu wysłania klucza publicznego do katalogu kluczy OpenPGP.
+    Na tym etapie nie musisz podejmować żadnych dodatkowych działań.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Nie można odszyfrować wiadomości o temacie
+    „{ $subject }”.
+    Czy chcesz spróbować ponownie za pomocą innego hasła, czy chcesz pominąć wiadomość?
+# Strings in gpg.jsm
+unknown-signing-alg = Nieznany algorytm podpisywania (identyfikator: { $id })
+unknown-hash-alg = Nieznana funkcja kryptograficzna (identyfikator: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Twój klucz { $desc } wygaśnie za mniej niż { $days } dni.
+    Zalecamy utworzenie nowej pary kluczy i skonfigurowanie odpowiednich kont, aby z niej korzystać.
 
 ## Account settings export output
 
