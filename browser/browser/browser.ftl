@@ -208,9 +208,9 @@ page-action-pin-tab-panel =
 page-action-pin-tab-urlbar =
     .tooltiptext = Fäst flik
 page-action-unpin-tab-panel =
-    .label = Gör om till vanlig flik
+    .label = Lösgör flik
 page-action-unpin-tab-urlbar =
-    .tooltiptext = Gör om till vanlig flik
+    .tooltiptext = Lösgör flik
 
 ## Auto-hide Context Menu
 
