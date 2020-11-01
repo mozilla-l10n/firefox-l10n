@@ -381,6 +381,30 @@ delete-pub-key =
 delete-selected-pub-key = Czy usunąć klucze publiczne?
 refresh-all-question = Nie wybrano żadnego klucza. Czy odświeżyć WSZYSTKIE klucze?
 key-man-button-export-sec-key = &Eksportuj tajne klucze
+key-man-button-export-pub-key = E&ksportuj tylko klucze publiczne
+key-man-button-refresh-all = &Odśwież wszystkie klucze
+key-man-loading-keys = Wczytywanie kluczy, proszę czekać…
+ascii-armor-file = Pliki zakodowanego ASCII (*.asc)
+no-key-selected = Aby wykonać wybrane działanie, należy wybrać co najmniej jeden klucz
+export-to-file = Eksportuj klucz publiczny do pliku
+export-keypair-to-file = Eksportuj tajny i publiczny klucz do pliku
+export-secret-key = Czy dołączyć tajny klucz do zapisywanego pliku klucza OpenPGP?
+save-keys-ok = Pomyślnie zapisano klucze
+save-keys-failed = Zapisanie kluczy się nie powiodło
+default-pub-key-filename = Wyeksportowane-klucze-publiczne
+default-pub-sec-key-filename = Kopia-zapasowa-tajnych-kluczy
+refresh-key-warn = Ostrzeżenie: w zależności od liczby kluczy i szybkości połączenia, odświeżenie wszystkich kluczy może być dość długim procesem.
+preview-failed = Nie można odczytać pliku klucza publicznego.
+general-error = Błąd: { $reason }
+dlg-button-delete = &Usuń
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Pomyślnie wyeksportowano klucz publiczny.</b>
+openpgp-export-public-fail = <b>Nie można wyeksportować wybranego klucza publicznego.</b>
+openpgp-export-secret-success = <b>Pomyślnie wyeksportowano tajny klucz.</b>
+openpgp-export-secret-fail = <b>Nie można wyeksportować wybranego tajnego klucza.</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Klucz { $userId } (identyfikator klucza: { $keyId }) jest unieważniony.
+key-ring-pub-key-expired = Klucz { $userId } (identyfikator klucza: { $keyId }) wygasł.
+key-ring-key-disabled = Klucz { $userId } (identyfikator klucza: { $keyId }) jest wyłączony; nie może być używany.
