@@ -522,3 +522,11 @@ key-revoked = Klucz „{ $key }” jest unieważniony
 key-expired = Klucz „{ $key }” wygasł
 msg-compose-internal-error = Wystąpił błąd wewnętrzny.
 keys-to-export = Wybierz klucze OpenPGP do wstawienia
+msg-compose-partially-encrypted-inlinePGP =
+    Wiadomość, na którą odpowiadasz, zawierała niezaszyfrowane i zaszyfrowane części. Jeśli nadawca nie był w stanie odszyfrować pewnych części wiadomości, to być może powodujesz wyciek poufnych informacji, których nadawca nie był w stanie odszyfrować.
+    Proszę zastanowić się nad usunięciem całego cytowanego tekstu ze swojej odpowiedzi do tego nadawcy.
+msg-compose-cannot-save-draft = Błąd podczas zapisywania szkicu
+msg-compose-partially-encrypted-short = Uważaj na wycieki poufnych informacji — częściowo zaszyfrowana wiadomość.
+quoted-printable-warn =
+    Włączono kodowanie „Quoted-Printable” dla wysyłanych wiadomości. Może to spowodować niepoprawne odszyfrowanie lub weryfikację wiadomości.
+    Czy wyłączyć teraz wysyłanie wiadomości „Quoted-Printable”?
