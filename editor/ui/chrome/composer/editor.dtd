@@ -1,41 +1,52 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-
-<!ENTITY editorWindow.titlemodifier "Composer"> 
+<!ENTITY editorWindow.titlemodifier "Composer">
+<!ENTITY editorWindow.titlemodifiermenuseparator "-">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Sastādīšanas rīkjosla">
 <!ENTITY previewToolbarCmd.label "Pārlūkot">
 <!ENTITY previewToolbarCmd.tooltip "Ielādēt šo lapu pārlūkā">
+
 <!-- File menu items -->
-
-
-
-
+<!ENTITY exportToTextCmd.label "Eksportēt uz tekstu…">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Pārlūkot lapu">
+<!ENTITY previewCmd.accesskey "w">
+<!ENTITY sendPageCmd.label "Sūtīt lapu…">
+<!ENTITY sendPageCmd.accesskey "d">
 
 <!-- View menu items -->
-
+<!ENTITY compositionToolbarCmd.label "Sastādīšanas rīkjosla">
+<!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Formatēšanas rīkjosla">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Rediģēšanas režīma rīkjosla">
 <!ENTITY editmodeToolbarCmd.accesskey "e">
-<!-- Format menu items -->
 
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatēt">
 <!ENTITY formatMenu.accesskey "o">
-
-
-
+<!ENTITY grid.label "Novietošanas režģis">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Lapas nosaukums un īpašības…">
+<!ENTITY pageProperties.accesskey "g">
 
 <!-- Tools menu items -->
+<!ENTITY validateCmd.label "Pārbaudīt HTML">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
-
-
-
+<!ENTITY NormalModeTab.label "Parasts">
+<!ENTITY NormalMode.label "Parastais rediģēšanas režīms">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Parādīt galda robežas un nosauktos enkurus">
 <!ENTITY AllTagsModeTab.label "HTML birkas">
 <!ENTITY AllTagsMode.label "HTML birkas">
 <!ENTITY AllTagsMode.accesskey "a">
@@ -45,11 +56,12 @@
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
-
+<!ENTITY HTMLSourceModeTab.dir "kul">
+<!ENTITY HTMLSourceModeTab.label "Avots">
 <!ENTITY HTMLSourceMode.label "HTML pirmkods">
 <!ENTITY HTMLSourceMode.accesskey "H">
-
+<!ENTITY HTMLSourceMode.tooltip "Rediģēt HTML avotu">
 <!ENTITY PreviewModeTab.label "Priekšskatījums">
 <!ENTITY PreviewMode.label "Priekšskatījums">
 <!ENTITY PreviewMode.accesskey "P">
-
+<!ENTITY PreviewMode.tooltip "Rādīt kā WYSIWYG (kā pārlūkprogrammā)">

@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Atvērt failu…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "A">
-
-
+<!ENTITY openRemoteCmd.label "Atvērt tīmekļa vietu…">
+<!ENTITY openRemoteCmd.accesskey "L">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Nesenās lapas">
 <!ENTITY fileRecentMenu.accesskey "N">
@@ -22,15 +22,19 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicēt kā…">
 <!ENTITY publishAsCmd.accesskey "t">
-
+<!ENTITY fileRevert.label "Atgriezt">
+<!ENTITY fileRevert.accesskey "t">
 
 <!-- Edit menu items -->
+<!ENTITY publishSettings.label "Publicē vietnes iestatījumus…">
+<!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
-
 <!ENTITY newToolbarCmd.label "Jauns">
-
+<!ENTITY newToolbarCmd.tooltip "Izveidot jaunu sastādīšanas lapu">
 <!ENTITY openToolbarCmd.label "Atvērt">
 <!ENTITY openToolbarCmd.tooltip "Atvērt lokālu failu">
 <!ENTITY saveToolbarCmd.tooltip "Saglabāt failu lokāli">
-
+<!ENTITY publishToolbarCmd.tooltip "Augšuplādēt failu attālinātā vietā">
+<!ENTITY printToolbarCmd.label "Drukāt">
+<!ENTITY printToolbarCmd.tooltip "Drukāt šo lapu">
