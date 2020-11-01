@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = Autoritetsinfo (AIA)
 certificate-viewer-certificate-policies = Reglar for sertifikat
 certificate-viewer-embedded-scts = Innebygde SCT-ar
 certificate-viewer-crl-endpoints = CRL-endpoints
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Last ned
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,12 +100,16 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Denne utvidinga er merkt som kritisk, noko som tyder at klientar må avvise sertifikatet dersom dei ikkje forstår det.
 certificate-viewer-export = Eksporter
     .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (ukjend)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
