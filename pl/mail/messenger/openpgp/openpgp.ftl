@@ -575,3 +575,19 @@ repeat-prefix = Ten komunikat będzie powtarzany { $count }
 repeat-suffix-singular = jeszcze raz.
 repeat-suffix-plural = razy więcej.
 no-repeat = Ten komunikat nie będzie wyświetlany ponownie.
+dlg-keep-setting = Zapamiętaj moją odpowiedź i nie pytaj więcej
+dlg-button-ok = &OK
+dlg-button-close = Za&mknij
+dlg-button-cancel = &Anuluj
+dlg-no-prompt = Nie wyświetlaj więcej tego okna dialogowego
+enig-prompt = Monit OpenPGP
+enig-confirm = Potwierdzenie OpenPGP
+enig-alert = Komunikat OpenPGP
+enig-info = Informacje OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Ponów
+dlg-button-skip = Po&miń
+# Strings used in enigmailCommon.js
+enig-error = Błąd OpenPGP
+enig-alert-title =
+    .title = Komunikat OpenPGP
