@@ -962,6 +962,7 @@ content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description = Bloquear los rastreadores y aislar las cookies puede afectar a la funcionalidad de algunos sitios. Recargue una página con los rastreadores para cargar todo el contenido.
+content-blocking-and-isolating-etp-warning-description-2 = Este ajuste puede hacer que algunos sitios web no muestren contenido o que no funcionen correctamente. Si un sitio no se muestra correctamente, puede que quiera desactivar la protección contra el rastreo para que ese sitio cargue todo el contenido.
 content-blocking-warning-learn-how = Saber cómo
 content-blocking-reload-description = Tiene que recargar las pestañas para que los cambios surtan efecto.
 content-blocking-reload-tabs-button =
