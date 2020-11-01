@@ -324,6 +324,9 @@ unknown-hash-alg = Nieznana funkcja kryptograficzna (identyfikator: { $id })
 expiry-key-expires-soon =
     Twój klucz { $desc } wygaśnie za mniej niż { $days } dni.
     Zalecamy utworzenie nowej pary kluczy i skonfigurowanie odpowiednich kont, aby z niej korzystać.
+expiry-keys-expire-soon =
+    Te klucze wygasną za mniej niż { $days } dni: { $desc }.
+    Zalecamy utworzenie nowych kluczy i skonfigurowanie odpowiednich kont, aby z nich korzystać.
 
 ## Account settings export output
 
