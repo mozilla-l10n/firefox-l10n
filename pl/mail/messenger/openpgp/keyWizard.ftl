@@ -109,7 +109,7 @@ import-error-failed = <b>Błąd:</b> zaimportowanie pliku się nie powiodło. { 
 #   $error (String) - the reported error from the failed key import method
 openpgp-import-keys-failed = <b>Błąd:</b> zaimportowanie kluczy się nie powiodło. { $error }
 openpgp-import-identity-label = Tożsamość
-openpgp-import-fingerprint-label = Odcisk
+openpgp-import-fingerprint-label = Odcisk klucza
 openpgp-import-created-label = Utworzono
 openpgp-import-bits-label = Bity
 openpgp-import-key-props =
