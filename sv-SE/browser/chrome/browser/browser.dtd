@@ -16,7 +16,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fäst flik">
-<!ENTITY  unpinTab.label                     "Gör om till vanlig flik">
+<!ENTITY  unpinTab.label                     "Lösgör flik">
 
 <!ENTITY  listAllTabs.label      "Visa upp alla flikar">
 
@@ -42,10 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Helskärm">
 
-
-<!-- } is above this key on many keyboards -->
-
-
 <!ENTITY pictureInPictureHideToggle.label "Dölj bild-i-bild växling">
 <!ENTITY pictureInPictureHideToggle.accesskey "D">
 
@@ -55,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; inställningar">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ansluta en annan enhet…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Logga in på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Tjänster">
@@ -100,7 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denna sida">
-
 
 <!ENTITY searchItem.title             "Sök">
 
@@ -191,7 +185,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Lägg till i verktygsfält">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Lägg till i spillmeny">
@@ -219,18 +213,15 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageAction.copyLink.label    "Kopiera länk">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Spara sida till Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Visa Pocket-lista">
 
 <!ENTITY emailPageCmd.label           "E-posta länk…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -256,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Lägg till ordlista…">
 <!ENTITY spellAddDictionaries.accesskey "L">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
