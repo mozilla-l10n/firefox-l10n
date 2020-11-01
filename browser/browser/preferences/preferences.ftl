@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Отправлять веб-сайтам сигнал «Не отслеживать», означающий, чтобы вы не хотите, чтобы вас отслеживали
+do-not-track-description = Отправлять веб-сайтам сигнал «Не отслеживать», означающий, что вы не хотите, чтобы вас отслеживали
 do-not-track-learn-more = Подробнее
 do-not-track-option-default-content-blocking-known =
     .label = Только когда { -brand-short-name } настроен на блокировку известных трекеров
@@ -28,7 +28,7 @@ search-input-box =
             [windows] Найти в Настройках
            *[other] Найти в Настройках
         }
-managed-notice = Этим браузером управляет ваша организация.
+managed-notice = Ваш браузер управляется Вашей организацией.
 category-list =
     .aria-label = Категории
 pane-general-title = Основные
@@ -885,6 +885,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Межсайтовые трекеры
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Межсайтовые и социальные трекеры
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Межсайтовые отслеживающие куки — включая куки социальных сетей
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Межсайтовые куки — включая куки социальных сетей
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Межсайтовые и социальные трекеры, а также изолировать оставшиеся куки
 sitedata-option-block-unvisited =
@@ -950,6 +954,7 @@ content-blocking-etp-standard-desc = Баланс защиты и произво
 content-blocking-etp-strict-desc = Усиленная защита может вызывать проблемы с некоторыми сайтами и их содержимым.
 content-blocking-etp-custom-desc = Выберите, какие трекеры и скрипты необходимо блокировать.
 content-blocking-private-windows = Отслеживающее содержимое в приватных окнах
+content-blocking-cross-site-cookies = Межсайтовые куки
 content-blocking-cross-site-tracking-cookies = Межсайтовые отслеживающие куки
 content-blocking-cross-site-tracking-cookies-plus-isolate = Межсайтовые отслеживающие куки, а также изолировать оставшиеся куки
 content-blocking-social-media-trackers = Трекеры социальных сетей
@@ -961,6 +966,7 @@ content-blocking-cryptominers = Криптомайнеры
 content-blocking-fingerprinters = Сборщики цифровых отпечатков
 content-blocking-warning-title = Осторожно!
 content-blocking-and-isolating-etp-warning-description = Блокировка трекеров и изоляция куков может нарушить работу некоторых сайтов. Перезагрузите страницу с трекерами, чтобы загрузить все содержимое.
+content-blocking-and-isolating-etp-warning-description-2 = Эта настройка может вызвать ошибки отображения содержимого или нарушение корректной работы некоторых веб-сайтов. Если кажется, что сайт не работает, вам, возможно, понадобится отключить защиту от отслеживания на этом сайте, чтобы загрузить всё его содержимое.
 content-blocking-warning-learn-how = Подробнее
 content-blocking-reload-description = Вам понадобится обновить свои вкладки, чтобы применить эти изменения.
 content-blocking-reload-tabs-button =

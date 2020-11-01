@@ -4,16 +4,16 @@
 
 toolbar-context-menu-reload-selected-tab =
     .label = Обновить выделенную вкладку
-    .accesskey = и
+    .accesskey = к
 toolbar-context-menu-reload-selected-tabs =
     .label = Обновить выделенные вкладки
-    .accesskey = и
+    .accesskey = к
 toolbar-context-menu-bookmark-selected-tab =
-    .label = Добавить выделенные вкладки в закладки…
-    .accesskey = а
+    .label = Добавить в закладки выбранную вкладку…
+    .accesskey = ы
 toolbar-context-menu-bookmark-selected-tabs =
-    .label = Добавить выделенные вкладки в закладки…
-    .accesskey = а
+    .label = Добавить в закладки выбранные вкладки…
+    .accesskey = е
 toolbar-context-menu-select-all-tabs =
     .label = Выбрать все вкладки
     .accesskey = л
