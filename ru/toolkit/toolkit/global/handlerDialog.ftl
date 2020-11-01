@@ -17,6 +17,14 @@ handler-dialog-host = <strong>{ $host }</strong> хочет открыть сс�
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Разрешить этому сайту открыть ссылку { $scheme }?
+permission-dialog-description-host = Разрешить { $host } открыть ссылку { $scheme }?
+permission-dialog-description-app = Разрешить этому сайту открывать { $scheme }-ссылки используя { $appName }?
+permission-dialog-description-host-app = Разрешить { $host } открывать { $scheme }-ссылки используя { $appName }?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Всегда разрешать <strong>{ $host }</strong> открывать <strong>{ $scheme }</strong>-ссылки
 
 ## Chooser dialog
 ## Variables:
