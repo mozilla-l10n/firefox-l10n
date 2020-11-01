@@ -390,6 +390,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Код этого расширения был проверен на безопасность
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Это официальное расширение, созданное разработчиками { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Это расширение было проверено на соответствие нашим стандартам безопасности и производительности
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
