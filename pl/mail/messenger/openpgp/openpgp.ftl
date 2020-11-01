@@ -537,3 +537,41 @@ sending-hidden-rcpt = Podczas wysyłania zaszyfrowanej wiadomości nie można u�
 sending-news =
     Przerwano zaszyfrowane działanie wysyłania.
     Nie można zaszyfrować tej wiadomości, ponieważ ma ona odbiorców będących grupami dyskusyjnymi. Wyślij wiadomość ponownie bez szyfrowania.
+send-to-news-warning =
+    Ostrzeżenie: za chwilę zostanie wysłana zaszyfrowana wiadomość na grupę dyskusyjną.
+    Jest to niezalecane, ponieważ ma to sens tylko wtedy, gdy wszyscy członkowie grupy mogą odszyfrować wiadomość, tzn. wiadomość musi zostać zaszyfrowana za pomocą kluczy wszystkich uczestników grupy. Wyślij tę wiadomość tylko wtedy, gdy dobrze wiesz, co robisz.
+    Kontynuować?
+save-attachment-header = Zapisz odszyfrowany załącznik
+no-temp-dir =
+    Nie można odnaleźć katalogu tymczasowego do zapisu
+    Ustaw zmienną środowiskową TEMP
+possibly-pgp-mime = Wiadomość prawdopodobnie zaszyfrowana lub podpisana za pomocą PGP/MIME; użyj funkcji „Odszyfruj/zweryfikuj” do weryfikacji
+cannot-send-sig-because-no-own-key = Nie można podpisać cyfrowo tej wiadomości, ponieważ nie skonfigurowano jeszcze szyfrowania typu „end-to-end” dla <{ $key }>
+cannot-send-enc-because-no-own-key = Nie można wysłać tej wiadomości w postaci zaszyfrowanej, ponieważ nie skonfigurowano jeszcze szyfrowania typu „end-to-end” dla <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Zaimportować te klucze?
+    { $key }
+do-import-one = Zaimportować „{ $name }” ({ $id })?
+cant-import = Błąd podczas importowania klucza publicznego
+unverified-reply = Wcięta część wiadomości (odpowiedź) została prawdopodobnie zmodyfikowana
+key-in-message-body = W treści wiadomości znaleziono klucz. Kliknij „Importuj klucz”, aby go zaimportować
+sig-mismatch = Błąd: niezgodność podpisu
+invalid-email = Błąd: nieprawidłowe adresy e-mail
+attachment-pgp-key =
+    Otwierany załącznik „{ $name }” wydaje się być plikiem klucza OpenPGP.
+    Kliknij „Importuj”, aby zaimportować zawarte w nim klucze lub „Wyświetl”, aby wyświetlić treść pliku w oknie przeglądarki
+dlg-button-view = &Wyświetl
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Odszyfrowana wiadomość (przywrócono uszkodzony format wiadomości e-mail PGP prawdopodobnie spowodowany przez stary serwer Exchange, więc wynik może nie być dokładnie taki, jak powinien)
+# Strings used in encryption.jsm
+not-required = Błąd: szyfrowanie nie jest wymagane
+# Strings used in windows.jsm
+no-photo-available = Brak dostępnych zdjęć
+error-photo-path-not-readable = Ścieżka do zdjęcia „{ $photo }” jest nie do odczytania
+debug-log-title = Dziennik debugowania OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Ten komunikat będzie powtarzany { $count }
+repeat-suffix-singular = jeszcze raz.
+repeat-suffix-plural = razy więcej.
+no-repeat = Ten komunikat nie będzie wyświetlany ponownie.
