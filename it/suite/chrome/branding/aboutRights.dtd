@@ -20,6 +20,7 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Questo significa che è possibile usare, copiare e distribuire &brandShortName; ad altre persone. Le modifiche al codice sorgente di &brandShortName; per adattarlo alle proprie esigenze sono benaccette. Inoltre, la Mozilla Public License garantisce il diritto di distribuire tali versioni modificate.">
 
+<!ENTITY rights.intro-point2aa "&vendorShortName; non concede alcun diritto riguardo ai marchi registrati o ai logo &quot;&brandFullName;&quot;. Ulteriori informazioni riguardo ai marchi registrati possono essere trovate">
 <!ENTITY rights.intro-point2b "in questa pagina">
 <!ENTITY rights.intro-point2c ".">
 
