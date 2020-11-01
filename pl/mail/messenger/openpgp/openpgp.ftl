@@ -433,3 +433,20 @@ revoke-key-question =
 revoke-key-not-present =
     Nie masz klucza (0x{ $keyId }) pasującego do tego certyfikatu unieważnienia.
     Jeśli utracono klucz, musisz go zaimportować (np. z serwera kluczy) przed zaimportowaniem certyfikatu unieważnienia.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Klucz 0x{ $keyId } został już unieważniony.
+key-man-button-revoke-key = &Unieważnij klucz
+openpgp-key-revoke-success = Pomyślnie unieważniono klucz.
+after-revoke-info =
+    Klucz został unieważniony.
+    Udostępnij ten klucz publiczny ponownie, wysyłając go pocztą e-mail lub przesyłając go do serwerów kluczy, aby inni dowiedzieli się, że został unieważniony.
+    Gdy tylko oprogramowanie używane przez innych dowie się o unieważnieniu, przestanie używać starego klucza.
+    Jeśli używasz nowego klucza dla tego samego adresu e-mail i załączasz nowy klucz publiczny do wysyłanych wiadomości, to informacje o unieważnionym starym kluczu będą automatycznie dołączane.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = I&mportuj
+delete-key-title = Usuń klucz OpenPGP
+delete-external-key-title = Usuń zewnętrzny klucz GnuPG
+delete-external-key-description = Czy usunąć ten zewnętrzny identyfikator klucza GnuPG?
+key-in-use-title = Obecnie używany klucz OpenPGP
+delete-key-in-use-description = Nie można kontynuować. Klucz wybrany do usunięcia jest obecnie używany przez tę tożsamość. Wybierz inny klucz lub wybierz żaden i spróbuj ponownie.
+revoke-key-in-use-description = Nie można kontynuować. Klucz wybrany do unieważnienia jest obecnie używany przez tę tożsamość. Wybierz inny klucz lub wybierz żaden i spróbuj ponownie.
