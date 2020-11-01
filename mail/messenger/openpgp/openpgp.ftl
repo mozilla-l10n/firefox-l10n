@@ -408,3 +408,28 @@ openpgp-export-secret-fail = <b>Nie można wyeksportować wybranego tajnego kluc
 key-ring-pub-key-revoked = Klucz { $userId } (identyfikator klucza: { $keyId }) jest unieważniony.
 key-ring-pub-key-expired = Klucz { $userId } (identyfikator klucza: { $keyId }) wygasł.
 key-ring-key-disabled = Klucz { $userId } (identyfikator klucza: { $keyId }) jest wyłączony; nie może być używany.
+key-ring-key-invalid = Klucz { $userId } (identyfikator klucza: { $keyId }) jest nieprawidłowy. Proszę zastanowić się nad jego poprawną weryfikacją.
+key-ring-key-not-trusted = Klucz { $userId } (identyfikator klucza: { $keyId }) nie jest wystarczająco zaufany. Aby używać go do podpisywania, proszę ustawić poziom zaufania swojego klucza na „bezwzględny”.
+key-ring-no-secret-key = Wygląda na to, że w Twojej bazie kluczy nie ma tajnego klucza dla { $userId } (identyfikator klucza: { $keyId }); nie można używać tego klucza do podpisywania.
+key-ring-pub-key-not-for-signing = Klucz { $userId } (identyfikator klucza: { $keyId }) nie może być używany do podpisywania.
+key-ring-pub-key-not-for-encryption = Klucz { $userId } (identyfikator klucza: { $keyId }) nie może być używany do szyfrowania.
+key-ring-sign-sub-keys-revoked = Wszystkie klucze podrzędne do podpisywania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione.
+key-ring-sign-sub-keys-expired = Wszystkie klucze podrzędne do podpisywania klucza { $userId } (identyfikator klucza: { $keyId }) wygasły.
+key-ring-sign-sub-keys-unusable = Wszystkie klucze podrzędne do podpisywania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione, wygasły lub w inny sposób nie nadają się do użytku.
+key-ring-enc-sub-keys-revoked = Wszystkie klucze podrzędne do szyfrowania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione.
+key-ring-enc-sub-keys-expired = Wszystkie klucze podrzędne do szyfrowania klucza { $userId } (identyfikator klucza: { $keyId }) wygasły.
+key-ring-enc-sub-keys-unusable = Wszystkie klucze podrzędne do szyfrowania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione, wygasły lub w inny sposób nie nadają się do użytku.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Zdjęcie
+user-att-photo = Atrybut użytkownika (obraz JPEG)
+# Strings in key.jsm
+already-revoked = Ten klucz został już unieważniony.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Za chwilę zostanie unieważniony klucz „{ $identity }”.
+    Nie będzie już można podpisywać za pomocą tego klucza, a po rozprowadzeniu tej zmiany inni nie będą już mogli zaszyfrowywać za pomocą tego klucza. Nadal można używać klucza do odszyfrowywania starych wiadomości.
+    Czy kontynuować?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Nie masz klucza (0x{ $keyId }) pasującego do tego certyfikatu unieważnienia.
+    Jeśli utracono klucz, musisz go zaimportować (np. z serwera kluczy) przed zaimportowaniem certyfikatu unieważnienia.
