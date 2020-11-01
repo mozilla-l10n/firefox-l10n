@@ -450,3 +450,28 @@ delete-external-key-description = Czy usunąć ten zewnętrzny identyfikator klu
 key-in-use-title = Obecnie używany klucz OpenPGP
 delete-key-in-use-description = Nie można kontynuować. Klucz wybrany do usunięcia jest obecnie używany przez tę tożsamość. Wybierz inny klucz lub wybierz żaden i spróbuj ponownie.
 revoke-key-in-use-description = Nie można kontynuować. Klucz wybrany do unieważnienia jest obecnie używany przez tę tożsamość. Wybierz inny klucz lub wybierz żaden i spróbuj ponownie.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Adres e-mail „{ $keySpec }” nie może zostać dopasowany do żadnego klucza w Twojej bazie kluczy.
+key-error-key-id-not-found = W Twojej bazie kluczy nie można odnaleźć identyfikatora klucza „{ $keySpec }”.
+key-error-not-accepted-as-personal = Nie potwierdzono, że klucz o identyfikatorze „{ $keySpec }” to Twój klucz osobisty.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Wybrana funkcja jest niedostępna w trybie offline. Przejdź do trybu online i spróbuj ponownie.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nie można odnaleźć żadnego klucza spełniającego podane kryteria wyszukiwania.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Błąd: polecenie odczytu klucza się nie powiodło
+# Strings used in keyRing.jsm
+fail-cancel = Błąd: użytkownik anulował odebranie klucza
+not-first-block = Błąd: pierwszy blok OpenPGP nie jest blokiem klucza publicznego
+import-key-confirm = Zaimportować klucze publiczne osadzone w wiadomości?
+fail-key-import = Błąd: zaimportowanie klucza się nie powiodło
+file-write-failed = Zapisanie do pliku { $output } się nie powiodło
+no-pgp-block = Błąd: nie odnaleziono prawidłowego zakodowanego bloku danych OpenPGP
+confirm-permissive-import = Zaimportowanie się nie powiodło. Importowany klucz może być uszkodzony lub używać nieznanych atrybutów. Czy spróbować zaimportować części, które są poprawne? Może to skończyć się zaimportowaniem niepełnych lub nienadających się do użytku kluczy.
+# Strings used in trust.jsm
+key-valid-unknown = nieznany
+key-valid-invalid = nieprawidłowy
+key-valid-disabled = wyłączony
+key-valid-revoked = unieważniony
+key-valid-expired = wygasły
+key-trust-untrusted = niezaufany
