@@ -966,6 +966,7 @@ content-blocking-cryptominers = elementy używające komputera użytkownika do g
 content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji o konfiguracji
 content-blocking-warning-title = Ostrzeżenie
 content-blocking-and-isolating-etp-warning-description = Blokowanie elementów śledzących i izolowanie ciasteczek może wpłynąć na funkcjonowanie niektórych stron. Odśwież stronę z włączonymi elementami śledzącymi, aby wyświetlić całą jej zawartość.
+content-blocking-and-isolating-etp-warning-description-2 = To ustawienie może spowodować niepoprawne działanie lub wyświetlanie niektórych stron. Jeśli dana strona wydaje się niewłaściwie działać, możesz wyłączyć dla niej ochronę przed śledzeniem, aby wczytać ją w całości.
 content-blocking-warning-learn-how = Więcej informacji
 content-blocking-reload-description = Zastosowanie tych zmian wymaga odświeżenia kart.
 content-blocking-reload-tabs-button =
