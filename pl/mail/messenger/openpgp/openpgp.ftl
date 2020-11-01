@@ -327,6 +327,17 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Te klucze wygasną za mniej niż { $days } dni: { $desc }.
     Zalecamy utworzenie nowych kluczy i skonfigurowanie odpowiednich kont, aby z nich korzystać.
+expiry-key-missing-owner-trust =
+    Tajny klucz { $desc } nie ma ustawionego zaufania.
+    Zalecamy ustawienie „Ufasz certyfikatom” na „bezwzględne” we właściwościach klucza.
+expiry-keys-missing-owner-trust =
+    Te tajne klucze nie mają ustawionego zaufania:
+    { $desc }.
+    Zalecamy ustawienie „Ufasz certyfikatom” na „bezwzględne” we właściwościach klucza.
+expiry-open-key-manager = Otwórz menedżera kluczy OpenPGP
+expiry-open-key-properties = Otwórz właściwości klucza
+# Strings filters.jsm
+filter-folder-required = Musisz wybrać folder docelowy.
 
 ## Account settings export output
 
