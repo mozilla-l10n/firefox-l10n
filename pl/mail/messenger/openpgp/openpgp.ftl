@@ -475,3 +475,50 @@ key-valid-disabled = wyłączony
 key-valid-revoked = unieważniony
 key-valid-expired = wygasły
 key-trust-untrusted = niezaufany
+key-trust-marginal = częściowy
+key-trust-full = zaufany
+key-trust-ultimate = bezwzględny
+key-trust-group = (grupa)
+# Strings used in commonWorkflows.js
+import-key-file = Importuj plik klucza OpenPGP
+import-rev-file = Importuj plik unieważnienia OpenPGP
+gnupg-file = Pliki GnuPG
+import-keys-failed = Zaimportowanie kluczy się nie powiodło
+passphrase-prompt = Wprowadź hasło odblokowujące ten klucz: { $key }
+file-to-big-to-import = Ten plik jest za duży. Nie importuj jednocześnie dużego zestawu kluczy.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Utwórz i zapisz certyfikat unieważnienia
+revoke-cert-ok = Pomyślnie utworzono certyfikat unieważnienia. Możesz go użyć do unieważnienia swojego klucza publicznego, na przykład w przypadku utraty tajnego klucza.
+revoke-cert-failed = Nie można utworzyć certyfikatu unieważnienia.
+gen-going = Generowanie klucza już trwa.
+keygen-missing-user-name = Dla wybranego konta/tożsamości nie określono nazwy. Podaj wartość w polu „Imię i nazwisko” w ustawieniach konta.
+expiry-too-short = Klucz musi być ważny przez przynajmniej jeden dzień.
+expiry-too-long = Nie można utworzyć klucza, który wygasa za więcej niż 100 lat.
+key-confirm = Wygenerować publiczny klucz i tajny klucz dla „{ $id }”?
+key-man-button-generate-key = &Wygeneruj klucz
+key-abort = Przerwać generowanie klucza?
+key-man-button-generate-key-abort = &Przerwij generowanie klucza
+key-man-button-generate-key-continue = &Kontynuuj generowanie klucza
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Błąd: odszyfrowanie się nie powiodło
+fix-broken-exchange-msg-failed = Nie udało się naprawić wiadomości.
+attachment-no-match-from-signature = Nie można dopasować pliku podpisu „{ $attachment }” do załącznika
+attachment-no-match-to-signature = Nie można dopasować załącznika „{ $attachment }” do pliku podpisu
+signature-verified-ok = Pomyślnie zweryfikowano podpis dla załącznika { $attachment }
+signature-verify-failed = Nie można zweryfikować podpisu dla załącznika { $attachment }
+decrypt-ok-no-sig =
+    Ostrzeżenie
+    Odszyfrowanie się powiodło, ale nie można poprawnie zweryfikować podpisu
+msg-ovl-button-cont-anyway = &Kontynuuj mimo to
+enig-content-note = *Załączniki do tej wiadomości nie zostały podpisane ani zaszyfrowane*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Wyślij wiadomość
+msg-compose-details-button-label = Informacje…
+msg-compose-details-button-access-key = I
+send-aborted = Przerwano działanie wysyłania.
+key-not-trusted = Niewystarczające zaufanie dla klucza „{ $key }”
+key-not-found = Nie odnaleziono klucza „{ $key }”
+key-revoked = Klucz „{ $key }” jest unieważniony
+key-expired = Klucz „{ $key }” wygasł
+msg-compose-internal-error = Wystąpił błąd wewnętrzny.
+keys-to-export = Wybierz klucze OpenPGP do wstawienia
