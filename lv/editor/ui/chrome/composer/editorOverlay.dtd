@@ -42,18 +42,48 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Rakstzīmes un simboli…">
 <!ENTITY insertCharsCmd.accesskey "C">
+<!ENTITY insertBreakAllCmd.label "Pārtraukt zem attēla(iem)">
+<!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
+<!ENTITY createLinkCmd.label "Izveidot saiti…">
+<!ENTITY createLinkCmd.accesskey "k">
+<!ENTITY editLinkCmd.label "Rediģēt saiti iekš New Composer">
+<!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Fonts">
+<!ENTITY FontFaceSelect.tooltip "Izvēlieties fontu">
 <!ENTITY fontfaceMenu.label "Fonts">
 <!ENTITY fontfaceMenu.accesskey "F">
+<!ENTITY fontVarWidth.label "Dažāds platums">
+<!ENTITY fontVarWidth.accesskey "V">
+<!ENTITY fontFixedWidth.label "Vienāds platums">
+<!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
- <!-- < is above this key on many keyboards -->
+<!ENTITY FontSizeSelect.title "Fonta izmērs">
+<!ENTITY FontSizeSelect.tooltip "Izvēlieties fonta izmēru">
+<!ENTITY decreaseFontSize.label "Mazāks">
+<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "Lielāks">
+<!ENTITY increaseFontSize.accesskey "g">
+<!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
+<!ENTITY fontSizeMenu.label "Izmērs">
+<!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY size-tinyCmd.label "Sīks">
+<!ENTITY size-tinyCmd.accesskey "T">
 <!ENTITY size-smallCmd.label "Mazs">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "Vidējs">
@@ -62,8 +92,12 @@
 <!ENTITY size-largeCmd.accesskey "L">
 <!ENTITY size-extraLargeCmd.label "Ļoti liels">
 <!ENTITY size-extraLargeCmd.accesskey "o">
+<!ENTITY size-hugeCmd.label "Milzīgs">
+<!ENTITY size-hugeCmd.accesskey "H">
 
 <!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Teksta stils">
+<!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Treknraksts">
 <!ENTITY styleBoldCmd.accesskey "T">
 <!ENTITY styleBoldCmd.key "B">
@@ -73,13 +107,46 @@
 <!ENTITY styleUnderlineCmd.label "Pasvītrot">
 <!ENTITY styleUnderlineCmd.accesskey "P">
 <!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "Pārsvītrots">
+<!ENTITY styleStrikeThruCmd.accesskey "k">
+<!ENTITY styleSuperscriptCmd.label "Augšraksts">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "Apakšraksts">
+<!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Nepārtraukts">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
+<!ENTITY styleEm.label "Izcēlums">
+<!ENTITY styleEm.accesskey "E">
+<!ENTITY styleStrong.label "Stiprāks izcēlums">
+<!ENTITY styleStrong.accesskey "t">
 <!ENTITY styleCite.label "Citāts">
 <!ENTITY styleCite.accesskey "C">
+<!ENTITY styleAbbr.label "Saīsinājums">
+<!ENTITY styleAbbr.accesskey "A">
+<!ENTITY styleAcronym.label "Akronīms">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "Kods">
+<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Izvadīt paraugu">
+<!ENTITY styleSamp.accesskey "m">
+<!ENTITY styleVar.label "Dažāds">
+<!ENTITY styleVar.accesskey "V">
 
+<!ENTITY formatFontColor.label "Teksta krāsa…">
+<!ENTITY formatFontColor.accesskey "C">
+<!ENTITY tableOrCellColor.label "Tabulas vai šūnas fona krāsa…">
+<!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Dzēst nosauktos enkurus">
+<!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
+<!ENTITY paragraphMenu.label "Rindkopa">
+<!ENTITY paragraphMenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Rindkopa">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Virsraksts 1">
 <!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Virsraksts 2">
@@ -94,8 +161,14 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Adrese">
 <!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphPreformatCmd.label "Priekšformatēts">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
+<!ENTITY formatlistMenu.label "Saraksts">
+<!ENTITY formatlistMenu.accesskey "L">
+<!ENTITY noneCmd.label "Nekāds">
+<!ENTITY noneCmd.accesskey "N">
 
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!-- isn't used in menu now, but may be added in future -->
