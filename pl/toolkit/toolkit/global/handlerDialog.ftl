@@ -17,12 +17,42 @@ handler-dialog-host = <strong>{ $host }</strong> chce otworzyć odnośnik typu <
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Czy zezwolić tej witrynie na otwieranie odnośników typu { $scheme }?
+permission-dialog-description-host = Czy zezwolić witrynie { $host } na otwieranie odnośników typu { $scheme }?
+permission-dialog-description-app = Czy zezwolić tej witrynie na otwieranie odnośników typu { $scheme } za pomocą aplikacji { $appName }?
+permission-dialog-description-host-app = Czy zezwolić witrynie { $host } na otwieranie odnośników typu { $scheme } za pomocą aplikacji { $appName }?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Zawsze zezwalaj witrynie <strong>{ $host }</strong> na otwieranie odnośników typu <strong>{ $scheme }</strong>
+permission-dialog-btn-open-link =
+    .label = Otwórz odnośnik
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Wybierz aplikację
+    .accessKey = W
+permission-dialog-unset-description = Musisz wybrać aplikację.
+permission-dialog-set-change-app-link = Wybierz inną aplikację.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
-choose-other-app-description = Inna aplikacja
+chooser-window =
+    .title = Wybierz aplikację
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Otwórz odnośnik
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Wybierz aplikację do otwierania odnośników typu { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Zawsze używaj tej aplikacji do otwierania odnośników typu <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Można to zmienić w opcjach programu { -brand-short-name }.
+       *[other] Można to zmienić w preferencjach programu { -brand-short-name }.
+    }
+choose-other-app-description = Wybierz inną aplikację
 choose-app-btn =
     .label = Wybierz…
     .accessKey = W
