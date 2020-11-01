@@ -323,13 +323,43 @@
 <!ENTITY boldToolbarCmd.tooltip "Treknraksts">
 <!ENTITY italic.label "Slīpraksts">
 <!ENTITY italicToolbarCmd.tooltip "Kursīvs">
+<!ENTITY underline.label "Pasvītrots">
 <!ENTITY underlineToolbarCmd.tooltip "Pasvītrot">
+<!ENTITY bullets.label "Aizzīmes">
+<!ENTITY bulletListToolbarCmd.tooltip "Apstiprināt vai noņemt aizzīmes">
+<!ENTITY numbers.label "Skaitļi">
+<!ENTITY numberListToolbarCmd.tooltip "Pielietot vai noņemt numurējumu">
+<!ENTITY outdent.label "Pārkaru atkāpe">
+<!ENTITY outdentToolbarCmd.tooltip "Izvilkt tekstu (pārvietot pa kreisi)">
+<!ENTITY indent.label "Atkāpe">
+<!ENTITY indentToolbarCmd.tooltip "Ievilkt tekstu (pārvietot pa labi)">
+<!ENTITY AlignPopupButton.label "Līdzināšana">
 <!ENTITY AlignPopupButton.tooltip "Izvēlieties teksta novietojumu">
+<!ENTITY InsertPopupButton.label "Ievietot">
+<!ENTITY InsertPopupButton.tooltip "Ievietot saiti, enkuru, attēlu, horizontālu līniju vai tabulu">
+<!ENTITY alignLeftButton.label "Līdzināt pa kreisi">
+<!ENTITY alignLeftButton.tooltip "Līdzināt tekstu gar kreiso malu">
+<!ENTITY alignCenterButton.label "Līdzināt ap centru">
+<!ENTITY alignCenterButton.tooltip "Līdzināt tekstu ap centru">
+<!ENTITY alignRightButton.label "Līdzināt pa labi">
+<!ENTITY alignRightButton.tooltip "Līdzināt tekstu gar labo malu">
+<!ENTITY alignJustifyButton.label "Līdzināt taisnoti">
+<!ENTITY alignJustifyButton.tooltip "Līdzināt tekstu gar kreiso un labo malu">
 
 <!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Atlasīt">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "Dzēst tagu">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Mainīt tagu">
+<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ievietot">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Atjaunināt">
 <!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "Dzēst">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "Satura rādītājs…">
+<!ENTITY tocMenu.accesskey        "b">
