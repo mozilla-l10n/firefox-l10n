@@ -147,7 +147,7 @@ openpgp-key-man-show-others-keys =
 openpgp-key-man-user-id-label =
     .label = Nazwa
 openpgp-key-man-fingerprint-label =
-    .label = Odcisk
+    .label = Odcisk klucza
 openpgp-key-man-select-all =
     .label = Wybierz wszystkie klucze
     .accesskey = b
@@ -189,7 +189,7 @@ openpgp-key-details-expiry-label =
 openpgp-key-details-expiry-header = Wygasanie
 openpgp-key-details-usage-label =
     .label = Zastosowania
-openpgp-key-details-fingerprint-label = Odcisk
+openpgp-key-details-fingerprint-label = Odcisk klucza
 openpgp-key-details-sel-action =
     .label = Wybierz działanie…
     .accesskey = d
@@ -338,6 +338,30 @@ expiry-open-key-manager = Otwórz menedżera kluczy OpenPGP
 expiry-open-key-properties = Otwórz właściwości klucza
 # Strings filters.jsm
 filter-folder-required = Musisz wybrać folder docelowy.
+filter-decrypt-move-warn-experimental =
+    Ostrzeżenie: działanie filtru „Odszyfruj na stałe” może spowodować uszkodzenie wiadomości.
+    Zdecydowanie zalecamy najpierw wypróbować filtr „Utwórz odszyfrowaną kopię”, dokładnie sprawdzić wynik i zacząć korzystać z tego filtru dopiero wtedy, gdy wynik jest zadowalający.
+filter-term-pgpencrypted-label = Zaszyfrowane za pomocą OpenPGP
+filter-key-required = Musisz wybrać klucz odbiorcy.
+filter-key-not-found = Nie można odnaleźć klucza szyfrowania dla „{ $desc }”.
+filter-warn-key-not-secret =
+    Ostrzeżenie: działanie filtru „Zaszyfruj do klucza” zastępuje odbiorców.
+    Jeśli nie masz tajnego klucza dla „{ $desc }”, nie będzie można już odczytać tych wiadomości.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Odszyfruj na stałe (OpenPGP)
+filter-decrypt-copy-label = Utwórz odszyfrowaną kopię (OpenPGP)
+filter-encrypt-label = Zaszyfruj do klucza (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Pomyślnie zaimportowano klucze
+import-info-bits = Bity
+import-info-created = Utworzono
+import-info-fpr = Odcisk klucza
+import-info-details = Wyświetl informacje i zarządzaj akceptacją kluczy
+import-info-no-keys = Nie zaimportowano żadnych kluczy.
+# Strings in enigmailKeyManager.js
+import-from-clip = Czy zaimportować klucze ze schowka?
+import-from-url = Pobierz klucz publiczny z tego adresu URL:
 
 ## Account settings export output
 
