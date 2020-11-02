@@ -296,6 +296,7 @@ identity-https-only-dropdown-off =
     .label = Mbogue
 identity-https-only-dropdown-off-temporarily =
     .label = Jepe’a sapy’agua
+identity-https-only-info-turn-on2 = Emyandy HTTPS ayvu añoite ko tendápe g̃uarã eipotáramo { -brand-short-name } ombohekopyahu nde jeike ikatu vove.
 identity-https-only-info-no-upgrade = Ndaikatúi embohekopyahu jeike HTTP guive.
 identity-permissions =
     .value = Moneĩ
