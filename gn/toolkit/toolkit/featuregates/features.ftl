@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Pe tembiaporã guasu <a 
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Pe jehechaha apohare <a data-l10n-name="mdn-cssstylesheet"> CSSStyleSheet</a> avei ñemoambueita ojokupytýva ha omoneĩva oñemoheñói hag̃ua kuatia mbohekoha ipyahúva embojuaju’ỹre kuatia HTML rehe. Kóva nombohasyive emoheñoikuaa hag̃ua kuatia mbohekoha ojepurukuaajeýva eipuru hag̃uáicha <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> ndive. Ehecha <a data-l10n-name="bugzilla">bug 1520690</a> eikuaa porãve hag̃ua.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Hu’ãmbávo { -brand-short-name } Media Session API mba’e oñeha’ãramohína. Ko API ojepuru oñemomba’ete hag̃ua pe marandu’i jepuru momaranduhára rehegua, tembiaporãva ha mba’ekuaarã iporãva ehechauka hag̃ua peteĩ puruhára ohechaha momaranduhára rembipo ha eguereko hag̃ua marandurenda metadato. Ehecha <a data-l10n-name="bugzilla">bug 1112032</a> eikuaave hag̃ua.
 experimental-features-devtools-color-scheme-simulation =
     .label = Tembipuru mboguatahárape g̃uarã: sa’y’aty ñeha’ãha
 experimental-features-devtools-color-scheme-simulation-description = Embojuaju jeporavorã eha’ã hag̃ua opáichagua sa’y’aty ñeha’ãha omoneĩtava eporandúvo <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-schem</a>. Pe tembiapoite jepuru omoneĩta nde kuatia mbohekoha ombohováivo puruhára oipotárõ peteĩ techaha hesakã térã iñypytũva. Kóva omoneĩta eipurúvo nde ayvu emoambue’ỹre ne kundahára ñemboheko (térã apopyvusu oku’éva, pe kundahára ohapykuehórõ sa’y’aty ñeha’ãha opaite apopyvusúpe). Eporandu <a data-l10n-name="bugzilla1">bug 1550804</a> ha <a data-l10n-name="bugzilla2">bug 1137699-pe</a> eikuaave hag̃ua.
@@ -99,3 +94,6 @@ experimental-features-webrtc-global-mute-toggles-description = Embojuaju moambue
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha ojepuruporãve hag̃ua JavaScript mandu’arenda.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Tenda moha’eño)
