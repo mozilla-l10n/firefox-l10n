@@ -294,6 +294,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = Désactivé temporairement
 identity-https-only-info-turn-on2 = Activez le mode « HTTPS uniquement » pour ce site si vous voulez que { -brand-short-name } sécurise la connexion lorsque c’est possible.
 identity-https-only-info-turn-off2 = Si la page ne semble pas fonctionnelle, vous pouvez désactiver le mode « HTTPS uniquement » pour  ce site afin de la recharger en utilisant le protocole non sécurisé HTTP.
+identity-https-only-info-no-upgrade = Impossible de sécuriser la connexion.
 identity-permissions =
     .value = Permissions
 identity-permissions-reload-hint = Vous devrez peut-être actualiser la page pour que les changements prennent effet.
@@ -338,6 +339,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurer
 browser-window-close-button =
     .tooltiptext = Fermer
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
