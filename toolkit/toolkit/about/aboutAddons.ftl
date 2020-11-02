@@ -384,6 +384,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = El código de esta extensión se revisó por seguridad
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Esta es una extensión oficial construida por los creadores de { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Esta extensión fue revisada para cumplir con nuestros estándares de seguridad y rendimiento.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 

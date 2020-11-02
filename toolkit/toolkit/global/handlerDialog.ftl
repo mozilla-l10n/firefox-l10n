@@ -10,3 +10,18 @@
 #  $host - the hostname that is initiating the request
 #  $scheme - the type of link that's being opened.
 handler-dialog-host = <strong>{ $host }</strong> quiere abrir un enlace <strong>{ $scheme }</strong>.
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+
+permission-dialog-description = ¿Permitir que este sitio abra el enlace { $scheme }?
+permission-dialog-description-host = ¿Permitir que { $host } abra el enlace { $scheme }?
+permission-dialog-description-app = ¿Permitir que este sitio abra el enlace { $scheme } con { $appName }?
+
+## Chooser dialog
+## Variables:
+##  $scheme - the type of link that's being opened.
+
