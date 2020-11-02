@@ -20,8 +20,28 @@ handler-dialog-host = <strong>{ $host }</strong> quiere abrir un enlace <strong>
 permission-dialog-description = ¿Permitir que este sitio abra el enlace { $scheme }?
 permission-dialog-description-host = ¿Permitir que { $host } abra el enlace { $scheme }?
 permission-dialog-description-app = ¿Permitir que este sitio abra el enlace { $scheme } con { $appName }?
+permission-dialog-description-host-app = ¿Permitir que { $host } abra el enlace { $scheme } con { $appName }?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Siempre permitir que <strong> { $host } </strong> abra enlaces <strong> { $scheme }</strong>
+permission-dialog-btn-open-link =
+    .label = Abrir enlace
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Elegir aplicación
+    .accessKey = A
+permission-dialog-unset-description = Tendrás que elegir una aplicación.
+permission-dialog-set-change-app-link = Eligir una aplicación diferente.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Elegir aplicación
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Abrir enlace
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Eligir una aplicación para abrir el enlace { $scheme }.
