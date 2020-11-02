@@ -45,3 +45,17 @@ chooser-dialog =
     .buttonlabelaccept = Abrir enlace
     .buttonaccesskeyaccept = O
 chooser-dialog-description = Eligir una aplicación para abrir el enlace { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Usar siempre esta aplicación para abrir enlaces <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Esto se puede cambiar en las opciones de { -brand-short-name }.
+       *[other] Esto se puede cambiar en las preferencias de { -brand-short-name }.
+    }
+choose-other-app-description = Elegir otra aplicación
+choose-app-btn =
+    .label = Elegir…
+    .accessKey = C
+choose-other-app-window-title = Otra aplicación…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Deshabilitado en ventanas privadas
