@@ -1,16 +1,20 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
+<!ENTITY windowTitle.label "Parādīt īpašības">
 
-
-
-
+<!ENTITY ListType.label "Saraksta veids">
+<!ENTITY bulletStyle.label "Aizzīmes stils:">
+<!ENTITY startingNumber.label "Sākt ar:">
+<!ENTITY startingNumber.accessKey "S">
 <!ENTITY none.value "Nekas">
-
+<!ENTITY bulletList.value "Aizzīmju (nenumurēts) saraksts">
 <!ENTITY numberList.value "Numurēts saraksts">
 <!ENTITY definitionList.value "Definīciju saraksts">
-
-
-
-
+<!ENTITY changeEntireListRadio.label "Mainīt visu sarakstu">
+<!ENTITY changeEntireListRadio.accessKey "C">
+<!ENTITY changeSelectedRadio.label "Mainīt tikai atlasītos vienumus">
+<!ENTITY changeSelectedRadio.accessKey "I">

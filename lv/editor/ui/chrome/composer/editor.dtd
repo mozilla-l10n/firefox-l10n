@@ -46,7 +46,7 @@
 <!ENTITY NormalModeTab.label "Parasts">
 <!ENTITY NormalMode.label "Parastais rediģēšanas režīms">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Parādīt galda robežas un nosauktos enkurus">
+<!ENTITY NormalMode.tooltip "Parādīt galda apmali un nosauktos enkurus">
 <!ENTITY AllTagsModeTab.label "HTML birkas">
 <!ENTITY AllTagsMode.label "HTML birkas">
 <!ENTITY AllTagsMode.accesskey "a">

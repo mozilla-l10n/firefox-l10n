@@ -1,15 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
-
-
-
-
+<!ENTITY windowTitle.label "Lapas īpašības">
+<!ENTITY location.label "Vieta:">
+<!ENTITY lastModified.label "Pēdējo reizi mainīts:">
+<!ENTITY titleInput.label "Virsraksts:">
+<!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Autors:">
 <!ENTITY authorInput.accessKey "A">
-
-
-
-
-
+<!ENTITY descriptionInput.label "Apraksts:">
+<!ENTITY descriptionInput.accessKey "D">
+<!ENTITY locationNewPage.label "[Jauna lapa, vēl nav saglabāta]">
+<!ENTITY EditHEADSource1.label "Pieredzējuši lietotāji:">
+<!ENTITY EditHEADSource2.label "Lai rediģētu citu &lt;head&gt; saturu reģionā, izmantojiet &quot;HTML avotu&quot; izvēlnē Skats vai rīkjoslā Rediģēšanas režīms.">

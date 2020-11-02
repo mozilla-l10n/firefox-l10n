@@ -1,63 +1,38 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label            "Publicēt lapu">
 <!ENTITY windowTitleSettings.label    "Publicēt iestatījumus">
 <!ENTITY publishTab.label             "Publicēt">
 <!ENTITY settingsTab.label            "Iestatījumi">
 <!ENTITY publishButton.label          "Publicēt">
-<!-- Publish Tab Panel -->
 
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Vietnes nosaukums:">
 <!ENTITY siteList.accesskey           "e">
-
+<!ENTITY siteList.tooltip             "Izvēlieties vietni, kurā vēlaties publicēt">
 <!ENTITY newSiteButton.label          "Jauna vietne">
 <!ENTITY newSiteButton.accesskey      "n">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY docDirList.label             "Šīs lapas vietas apakšmape:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Izvēlieties vai ievadiet šīs lapas attālās apakšmapes nosaukumu">
+<!ENTITY publishImgCheckbox.label     "Iekļaut attēlus un citus failus">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip   "Publicēt attēlus un citus failus, uz kuriem norāda šī lapa">
+<!ENTITY sameLocationRadio.label      "Izmantot to pašu vietu kā lapai">
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.tooltip    "Publicēt failus tajā pašā vietā, kur lapa">
+<!ENTITY useSubdirRadio.label         "Izmantot šo vietnes apakšmapi:">
+<!ENTITY useSubdirRadio.tooltip       "Publicēt failus atlasītajā attālajā apakšmapē">
 <!ENTITY filename.label               "Faila nosaukums:">
 <!ENTITY filename.accesskey           "F">
-
-
-
-
-
 
 <!-- Settings Tab Panel -->
 <!ENTITY serverInfo.label             "Servera informācija">
 <!ENTITY loginInfo.label              "Pieteikšanās informācija">
 <!ENTITY siteName.label               "Vietnes nosaukums:">
 <!ENTITY siteName.accesskey           "e">
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY savePassword.label           "Saglabāt paroli">
 <!ENTITY savePassword.accesskey       "S">
-
