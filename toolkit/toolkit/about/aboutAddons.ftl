@@ -390,6 +390,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Lo còdi d’aquesta extension foguèt validat per sa seguretat
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Aquò es l’extension oficiala creada pels creadors de { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Aquesta extension foguèt repassada per complir los estandards de seguretat e performança.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
