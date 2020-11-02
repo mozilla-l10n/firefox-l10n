@@ -366,5 +366,7 @@ policies-error = Javy
 
 support-printing-title = Ñemonguatia
 support-printing-troubleshoot = Apañuãi ñemoĩporã
+support-printing-clear-settings-button = Emboguete ñemoĩporã monguatiagua ñongatupyre
+support-printing-modified-settings = Ñemoĩporã monguatiagua moabuepyre
 support-printing-prefs-name = Téra
 support-printing-prefs-value = Tepykue

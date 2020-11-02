@@ -19,6 +19,7 @@ about-httpsonly-explanation-question = ¿Mba’éicha oikokuaa kóva?
 about-httpsonly-explanation-nosupport = Pe ikatúva hína ñanduti renda ndojokupytýi HTTPS ndive.
 about-httpsonly-explanation-risk = Ikatu avei mba’evaiapoha ojapo. Eikeséramo ñanduti rendápe, aníke eme’ẽ marandu kañyguáva, taha’e ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia’atã ñemurã reheguáva.
 about-httpsonly-button-accept-and-continue = Emoneĩ imarãkuaaha ha eku’ejey
+about-httpsonly-explanation-continue = Eiméramo pype, pe HTTPS ayvu añóva oguéta sapy’ami ko tendápe g̃uarã.
 about-httpsonly-button-continue-to-site = Epyta ko HTTP rendápe
 about-httpsonly-button-go-back = Guevijey
 about-httpsonly-link-learn-more = Eikuaave…
