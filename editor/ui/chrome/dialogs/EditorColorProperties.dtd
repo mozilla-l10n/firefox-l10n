@@ -10,4 +10,20 @@
 <!ENTITY defaultColorsRadio.tooltip "Izmantot krāsas iestatījumus tikai no skatītāja (lasītāja) pārlūka krāsām">
 <!ENTITY customColorsRadio.label "Lietot pielāgotas krāsas:">
 <!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.tooltip "Šie krāsu iestatījumi ignorē skatītāja pārlūka iestatījumus">
 
+<!ENTITY normalText.label "Normāls teksts">
+<!ENTITY normalText.accessKey "N">
+<!ENTITY linkText.label "Saites teksts">
+<!ENTITY linkText.accessKey "L">
+<!ENTITY activeLinkText.label "Aktīvās saites teksts">
+<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY visitedLinkText.label "Apmeklētās saites teksts">
+<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY background.label "Fons:">
+<!ENTITY background.accessKey "B">
+<!ENTITY colon.character ":">
+<!ENTITY backgroundImage.label "Fona attēls:">
+<!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.tooltip "Izmantot attēla failu kā fonu jūsu lapai">
+<!ENTITY backgroundImage.shortenedDataURI "Saīsināts datu URI (kopēšana ievietos pilnu URI starpliktuvē)">

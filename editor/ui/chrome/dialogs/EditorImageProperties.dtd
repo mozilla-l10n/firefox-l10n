@@ -1,62 +1,47 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
 <!-- Window title -->
+<!ENTITY windowTitle.label "Attēla īpašības">
+
+<!ENTITY pixelsPopup.value "punkti">
 
 <!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Attēla vieta:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Ierakstiet attēla faila nosaukumu vai atrašanās vietu">
+<!ENTITY locationEditField.shortenedDataURI "Saīsināts datu URI (kopēšana ievietos pilnu URI starpliktuvē)">
+<!ENTITY title.label "Rīka padoms:">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "HTML 'title' atribūts, kas tiek parādīts kā rīka padoms">
+<!ENTITY altText.label "Alternatīvais teksts:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Ierakstiet tekstu, kas norāda attēla vietu">
+<!ENTITY noAltText.label "Nelietot alternatīvo tekstu">
+<!ENTITY noAltText.accessKey "D">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY previewBox.label "Attēla priekšskats">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY actualSize.label "Patiesais izmērs:">
+<!ENTITY actualSizeRadio.label "Patiesais izmērs">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Atgriezt uz attēla faktisko izmēru">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 
-
 <!-- These are the options for image alignment -->
 
-
-
-
-
 <!-- These controls are in the Spacing Box -->
-
 <!ENTITY spacingBox.label "Atstatums">
-
-
-
-
-
 
 <!-- These controls are in the Link Box -->
 
-
-
-
 <!-- These tabs are currently used in the image input dialog -->
-
 <!ENTITY imageInputTab.label "Forma">
 <!ENTITY imageLocationTab.label "Atrašanās vieta">
 <!ENTITY imageDimensionsTab.label "Izmēri">
