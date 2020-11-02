@@ -1,29 +1,29 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from content/pref-composer.xul -->
+
+<!-- extracted from content/pref-composer.xhtml -->
+
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-
-
-
 <!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "Neseno lapu izvēlne">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  documentsInMenu.label         "Maksimālais uzskaitīto lapu skaits:">
+<!ENTITY  documentsInMenu.accesskey     "n">
+<!ENTITY  savingFiles.title             "Saglabājot vai publicējot lapas">
+<!ENTITY  preserveExisting.label        "Saglabāt pirmavota formatējumu">
+<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.tooltip      "Saglabā rindu pārtraukumus un lapas sākotnējo formatējumu">
+<!ENTITY  saveAssociatedFiles.label     "Saglabājot lapu, saglabāt attēlus un saistītos failus">
+<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  showPublishDialog.label       "Publicējot lapas, vienmēr rādīt publicēšanas dialoglogu">
+<!ENTITY  showPublishDialog.accesskey   "A">
 <!ENTITY  composerEditing.label         "Rediģēšana">
-
-
-
-
-
-
-
+<!ENTITY  maintainStructure.label       "Ievietojot vai dzēšot šūnas, saglabāt tabulas izklājumu">
+<!ENTITY  maintainStructure.tooltip     "Saglabā tabulas taisnstūra formu, automātiski pievienojot šūnas pēc šūnu ievietošanas vai dzēšanas">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "HTML elementu un atribūtu vietā izmantot CSS stilus">
+<!ENTITY  useCSS.accesskey              "U">
+<!ENTITY  crInPCreatesNewP.label        "Rindkopas pabeigšana vienmēr rada jaunu rindkopu">
+<!ENTITY  crInPCreatesNewP.accesskey    "R">
