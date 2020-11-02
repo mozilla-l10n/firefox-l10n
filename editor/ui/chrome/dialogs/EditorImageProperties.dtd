@@ -61,7 +61,7 @@
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Augšā un apakšā:">
 <!ENTITY topBottomEditField.accessKey "T">
-<!ENTITY borderEditField.label "Nepārtraukta robeža:">
+<!ENTITY borderEditField.label "Nepārtraukta apmale:">
 <!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->

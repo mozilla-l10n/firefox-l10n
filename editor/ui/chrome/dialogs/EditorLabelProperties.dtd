@@ -9,9 +9,10 @@
 
 <!ENTITY EditLabelText.label "Rediģēt tekstu:">
 <!ENTITY EditLabelText.accesskey "t">
+<!ENTITY LabelFor.label "Vadībai:">
+<!ENTITY LabelFor.accesskey "F">
+<!ENTITY AccessKey.label "Piekļuves taustiņš:">
+<!ENTITY AccessKey.accesskey "K">
 
-
-
-
-
-
+<!ENTITY RemoveLabel.label "Noņemt birku">
+<!ENTITY RemoveLabel.accesskey "R">

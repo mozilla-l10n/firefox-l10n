@@ -1,15 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
+<!ENTITY windowTitle.label "Personīgā vārdnīca">
 
-
-
-
-
-
-
-
+<!ENTITY wordEditField.label "Jauns vārds:">
+<!ENTITY wordEditField.accessKey "N">
+<!ENTITY AddButton.label "Pievienot">
+<!ENTITY AddButton.accessKey "A">
+<!ENTITY DictionaryList.label "Vārdi vārdnīcā:">
+<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY ReplaceButton.label "Aizstāt">
+<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "Noņemt">
 <!ENTITY RemoveButton.accessKey "e">
 
