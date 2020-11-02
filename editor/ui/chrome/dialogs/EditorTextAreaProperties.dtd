@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "Teksta laukuma īpašības">
+
+<!ENTITY Settings.label "Iestatījumi">
+
+<!ENTITY TextAreaName.label "Lauka nosaukums:">
+<!ENTITY TextAreaName.accessKey "N">
+<!ENTITY TextAreaRows.label "Rindas:">
+<!ENTITY TextAreaRows.accessKey "R">
+<!ENTITY TextAreaCols.label "Kolonnas:">
+<!ENTITY TextAreaCols.accessKey "C">
+<!ENTITY TextAreaReadOnly.label "Tikai lasāms">
+<!ENTITY TextAreaReadOnly.accessKey "O">
+<!ENTITY TextAreaDisabled.label "Atslēgts">
+<!ENTITY TextAreaDisabled.accessKey "D">
+<!ENTITY TextAreaTabIndex.label "Cilnes indekss:">
+<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaAccessKey.label "Piekļuves taustiņš:">
+<!ENTITY TextAreaAccessKey.accessKey "K">
+<!ENTITY InitialText.label "Sākotnējais teksts:">
+<!ENTITY InitialText.accessKey "T">
+
+<!ENTITY TextAreaWrap.label "Aplaušanas režīms:">
+<!ENTITY TextAreaWrap.accessKey "W">
+<!ENTITY WrapDefault.value "Noklusētais">
+<!ENTITY WrapOff.value "Izslēgts">
+<!ENTITY WrapHard.value "Stingrs">
+<!ENTITY WrapSoft.value "Viegls">
+<!ENTITY WrapPhysical.value "Fizisks">
+<!ENTITY WrapVirtual.value "Virtuāls">

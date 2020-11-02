@@ -19,9 +19,17 @@
 <!ENTITY replaceButton.label "Aizstāt">
 <!ENTITY replaceButton.accessKey "R">
 <!ENTITY replaceAllButton.label "Aizstāt visu">
+<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY stopButton.label "Apturēt">
+<!ENTITY stopButton.accessKey "o">
 <!ENTITY userDictionary.label "Personīgā vārdnīca:">
+<!ENTITY moreDictionaries.label "Lejuplādēt citas vārdnīcas…">
+<!ENTITY addToUserDictionaryButton.label "Pievienot vārdu">
+<!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "Rediģēt...">
 <!ENTITY editUserDictionaryButton.accessKey "e">
+<!ENTITY recheckButton2.label "Pārbaudīt tekstu">
+<!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "Aizvērt">
 <!ENTITY closeButton.accessKey "A">
 <!ENTITY sendButton.label "Sūtīt">
