@@ -17,9 +17,16 @@ handler-dialog-host = <strong>{ $host }</strong> vòl dobrir un ligam <strong>{ 
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Autorizar lo site a dobrir lo ligam { $scheme } ?
+permission-dialog-description-host = Autorizar { $host } a dobrir lo ligam { $scheme } ?
+permission-dialog-description-app = Autorizar aqueste site a dobrir lo ligam { $scheme } amb { $appName } ?
+permission-dialog-description-host-app = Autorizar { $host } a dobrir lo ligam { $scheme } amb { $appName } ?
 permission-dialog-btn-open-link =
     .label = Dobrir lo ligam
     .accessKey = D
+permission-dialog-btn-choose-app =
+    .label = Causir una aplicacion
+    .accessKey = a
 permission-dialog-set-change-app-link = Causir una autra aplicacion.
 
 ## Chooser dialog
