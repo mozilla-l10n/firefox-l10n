@@ -6,7 +6,7 @@
 ## Back
 
 navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
+    .value = { main-context-menu-back.tooltiptext }{ main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
 
@@ -19,8 +19,11 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Oksa  tuul
+    .accesskey = O
 toolbar-button-reload =
-    .label = { main-context-menu-reload.aria-label }
+    .label = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
 
 ## Stop
 
@@ -28,12 +31,12 @@ main-context-menu-stop =
     .aria-label = Maja
     .accesskey = M
 toolbar-button-stop =
-    .label = { main-context-menu-stop.aria-label }
+    .label = { main-context-menu-stop.aria-label }{ main-context-menu-stop.aria-label }
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
-    .title = { main-context-menu-reload.aria-label }
+    .title = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
 
 ## Save Page
 
@@ -41,7 +44,7 @@ main-context-menu-page-save =
     .label = Jup u U'uje' Eche' uva'…
     .accesskey = U
 toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
+    .label = { main-context-menu-page-save.label }{ main-context-menu-page-save.label }
 
 ## Simple menu items
 
@@ -57,6 +60,9 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = p
+    .accesskey = P
 main-context-menu-media-pause =
     .label = Tanb'a'
     .accesskey = T
@@ -81,3 +87,9 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
+main-context-menu-image-view =
+    .label = il u vatzib'ale'
+    .accesskey = i
+main-context-menu-image-copy =
+    .label = eesa ivatz u  vatzib'ale'
+    .accesskey = e
