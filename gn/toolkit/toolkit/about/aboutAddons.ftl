@@ -380,6 +380,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Ayvu ko jepysokue rehegua ojehecha tekorosãrãnte
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Kóva ha’e jepysokue omboguatáva umi { -brand-product-name } moheñoihára.
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Ko jepysokue ojehechajey oguerekópa tekorosã ha oikoporãpa.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -388,6 +394,8 @@ recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…
 release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.
 addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
+addon-permissions-required = Ñemoneĩ tekotevẽva tembiapoite ha’etévape g̃uarã:
+addon-permissions-optional = Ñemoneĩ potapýva tembiapoite jopoiguápe g̃uarã:
 addon-permissions-learnmore = Eikuaave ñemoneĩ rehegua
 recommended-extensions-heading = Jepysokue je’eporãpyre
 recommended-themes-heading = Téma je’eporãpyre
