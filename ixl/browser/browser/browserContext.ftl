@@ -70,8 +70,8 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = tzasa tuul ivi'
-    .accesskey = t
+    .label = Tzasa tuul ivi'
+    .accesskey = T
 main-context-menu-media-play-speed-slow =
     .label = K'otzkin
     .accesskey = K
@@ -81,6 +81,9 @@ main-context-menu-media-play-speed-normal =
 main-context-menu-media-play-speed-fast =
     .label = Oora kuxhtu
     .accesskey = O
+main-context-menu-media-loop =
+    .label = Lakapuli
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -97,8 +100,8 @@ main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
 main-context-menu-image-view =
-    .label = il u vatzib'ale'
-    .accesskey = i
+    .label = Il u vatzib'ale'
+    .accesskey = I
 main-context-menu-image-copy =
     .label = eesa ivatz u  vatzib'ale'
     .accesskey = e
