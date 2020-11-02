@@ -2,20 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutDownloads.title                      "Saglabātie faili">
+<!ENTITY aboutDownloads.empty                      "Nav saglabātu failu">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
-
-
+<!ENTITY cmd.show.label                            "Atvērt mapi">
+<!ENTITY cmd.show.accesskey                        "F">
+<!ENTITY cmd.showMac.label                         "Rādīt meklētājā">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Atvērt">
 <!ENTITY cmd.open.accesskey                        "A">
-
-
-
-
-
+<!ENTITY cmd.removeFromHistory.label               "Noņemt no vēstures">
+<!ENTITY cmd.removeFromHistory.accesskey           "e">
+<!ENTITY cmd.clearList.label                       "Notīrīt sarakstu">
+<!ENTITY cmd.clearList.accesskey                   "C">
+<!ENTITY cmd.clearList.tooltip                     "Noņemt visus ierakstus no saglabāto failu saraksta, izņemot notiekošās lejuplādes.">
 <!ENTITY cmd.searchDownloads.label                 "Meklēt...">
 <!ENTITY cmd.searchDownloads.key                   "F">
