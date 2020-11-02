@@ -17,11 +17,41 @@ handler-dialog-host = Mae <strong>{ $host }</strong> eisiau agor dolen <strong>{
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Caniatáu i'r wefan hon agor y ddolen { $scheme }?
+permission-dialog-description-host = Caniatáu i { $host } agor y ddolen { $scheme }?
+permission-dialog-description-app = Caniatáu i'r wefan hon agor y ddolen { $scheme } gyda { $appName }?
+permission-dialog-description-host-app = Caniatáu i { $host } agor y ddolen { $scheme } gyda { $appName }?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Caniatáu i <strong>{ $host }</strong> agor dolenni <strong>{ $scheme }</strong> bob tro
+permission-dialog-btn-open-link =
+    .label = Agor Dolen
+    .accessKey = A
+permission-dialog-btn-choose-app =
+    .label = Dewis Rhaglen
+    .accessKey = R
+permission-dialog-unset-description = Bydd angen i chi ddewis rhaglen.
+permission-dialog-set-change-app-link = Dewiswch raglen arall.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Dewis Rhaglen
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Agor Dolen
+    .buttonaccesskeyaccept = A
+chooser-dialog-description = Dewiswch raglen i agor y ddolen { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Defnyddiwch y rhaglen hon i agor dolenni <strong>{ $scheme }</strong> bob tro
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Mae modd newid hwn yn newisiadau { -brand-short-name }.
+       *[other] Mae modd newid hwn yn newisiadau { -brand-short-name }.
+    }
 choose-other-app-description = Dewis Rhaglen arall
 choose-app-btn =
     .label = Dewis…
