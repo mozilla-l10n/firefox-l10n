@@ -17,6 +17,14 @@ handler-dialog-host = Το <strong>{ $host }</strong> θέλει να ανοίξ
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Να επιτραπεί σε αυτή την ιστοσελίδα το άνοιγμα του συνδέσμου { $scheme };
+permission-dialog-description-host = Να επιτραπεί στο { $host } το άνοιγμα του συνδέσμου { $scheme };
+permission-dialog-description-app = Να επιτραπεί σε αυτή την ιστοσελίδα το άνοιγμα του συνδέσμου { $scheme } με το { $appName };
+permission-dialog-description-host-app = Να επιτραπεί στο { $host } το άνοιγμα του συνδέσμου { $scheme } με το { $appName };
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Να επιτρέπεται πάντα στο <strong>{ $host }</strong> το άνοιγμα συνδέσμων <strong>{ $scheme }</strong>
 permission-dialog-btn-open-link =
     .label = Άνοιγμα συνδέσμου
     .accessKey = Ά
@@ -36,6 +44,9 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Άνοιγμα συνδέσμου
     .buttonaccesskeyaccept = Ά
+chooser-dialog-description = Επιλέξτε μια εφαρμογή για άνοιγμα του συνδέσμου { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Να χρησιμοποιείται πάντα αυτή η εφαρμογή για άνοιγμα συνδέσμων <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Αυτό μπορεί να αλλάξει στις επιλογές του { -brand-short-name }.
