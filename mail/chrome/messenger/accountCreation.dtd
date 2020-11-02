@@ -105,3 +105,5 @@
 <!ENTITY insecureServer.tooltip.details  "Papildu informācijai klikšķiniet uz apļa.">
 
 <!ENTITY insecureUnencrypted.description "Jūsu epasts un autentifikācija tiek sūtīti nešifrēti, tāpēc citi cilvēki var viegli izlasīt jūsu paroli (un vēstules). &brandShortName; ļaus jums iegūt jūsu pastu, taču jums jāsazinās ar jūsu epasta pakalpojumu sniedzēju par servera iestatīšanu ar drošu savienojumu.">
+<!ENTITY insecureSelfSigned.description  "Serveris izmanto sertifikātu, kuram nevar uzticēties, tāpēc nevarat būt pārliecināti, ka kāds nepārtver plūsmu starp &brandShortName; un jūsu serveri. &brandShortName; ļaus jums iegūt jūsu epastu, taču jums patiešām vajadzētu panākt, lai jūsu epasta pakalpojumu sniedzējs iestata savu serveri ar uzticamu sertifikātu.">
+<!ENTITY secureServer.description        "Apsveicam! Šis ir drošs serveris.">
