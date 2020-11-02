@@ -392,6 +392,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Mae cod yr estyniad hwn wedi'i adolygu er diogelwch
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Crëwyd yr estyniad swyddogol hwn gan wneuthurwyr { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
