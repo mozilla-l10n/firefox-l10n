@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "Lauku kopas īpašības">
+
+<!ENTITY Legend.label "Leģenda">
+<!ENTITY Legend.accesskey "L">
+
+<!ENTITY EditLegendText.label "Rediģēt leģendu:">
+<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY LegendAlign.label "Izlīdzināt leģendu:">
+<!ENTITY LegendAlign.accesskey "A">
+<!ENTITY AlignDefault.label "Noklusētā">
+<!ENTITY AlignLeft.label "Pa kreisi">
+<!ENTITY AlignCenter.label "Centrā">
+<!ENTITY AlignRight.label "Pa labi">
+
+<!ENTITY RemoveFieldSet.label "Noņemt lauku kopu">
+<!ENTITY RemoveFieldSet.accesskey "R">
