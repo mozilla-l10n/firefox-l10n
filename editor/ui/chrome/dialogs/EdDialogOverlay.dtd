@@ -11,5 +11,8 @@
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL ir relatīvs lapas vietai">
 <!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.tooltip "Pārslēgt starp relatīvo un absolūto URL. Lai to mainītu, vispirms jāsaglabā lapa.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Ievadiet tīmekļa lapas atrašanās vietu, vietējo failu, vai izvēlieties nosauktu enkuru vai virsrakstu no lauka konteksta izvēlnes:">
+<!ENTITY LinkURLEditField2.accessKey "w">

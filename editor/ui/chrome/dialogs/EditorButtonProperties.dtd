@@ -16,11 +16,12 @@
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "Vērtība:">
 <!ENTITY ButtonValue.accesskey "V">
+<!ENTITY tabIndex.label "Cilnes indekss:">
+<!ENTITY tabIndex.accesskey "I">
+<!ENTITY ButtonDisabled.label "Atslēgts">
+<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY AccessKey.label "Piekļuves atslēga:">
+<!ENTITY AccessKey.accesskey "K">
 
-
-
-
-
-
-
-
+<!ENTITY RemoveButton.label "Noņemt pogu">
+<!ENTITY RemoveButton.accesskey "R">
