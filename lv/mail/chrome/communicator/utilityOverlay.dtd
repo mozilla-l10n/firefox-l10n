@@ -4,7 +4,6 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-
 <!ENTITY fileMenu.label          "Fails">
 <!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "Jauns">
@@ -22,6 +21,8 @@
 <!ENTITY preferencesCmd2.accesskey "I">
 <!ENTITY preferencesCmdUnix.label       "Iestatījumi">
 <!ENTITY preferencesCmdUnix.accesskey     "u">
+<!ENTITY customizeCmd.label "Pielāgot">
+<!ENTITY customizeCmd.accesskey "t">
 
 <!ENTITY viewMenu.label          "Skats">
 <!ENTITY viewMenu.accesskey        "S">
