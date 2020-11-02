@@ -1,58 +1,58 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Smaidiņš">
 <!ENTITY insertSmiley.accesskey "S">
 
 <!ENTITY smiley1Cmd.label "Smaids">
 <!ENTITY smiley1Cmd.accesskey "S">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY smiley1Cmd.tooltip "Ievietot smaidiņu">
+<!ENTITY smiley2Cmd.label "Saraukta">
+<!ENTITY smiley2Cmd.accesskey "F">
+<!ENTITY smiley2Cmd.tooltip "Ievietot sarauktu seju">
+<!ENTITY smiley3Cmd.label "Piemiegta acs">
+<!ENTITY smiley3Cmd.accesskey "W">
+<!ENTITY smiley3Cmd.tooltip "Ievietot piemiegtu aci">
+<!ENTITY smiley4Cmd.label "Izbāzta mēle">
+<!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.tooltip "Ievietot izbāztu mēli">
+<!ENTITY smiley5Cmd.label "Smejošs">
+<!ENTITY smiley5Cmd.accesskey "L">
+<!ENTITY smiley5Cmd.tooltip "Ievietot smejošu seju">
+<!ENTITY smiley6Cmd.label "Apmulsis">
+<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.tooltip "Ievietot apmulsušu seju">
+<!ENTITY smiley7Cmd.label "Neizlēmīgs">
+<!ENTITY smiley7Cmd.accesskey "U">
+<!ENTITY smiley7Cmd.tooltip "Ievietot neizlēmīgu seju">
+<!ENTITY smiley8Cmd.label "Pārsteigums">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "Ievietot pārsteigtu seju">
+<!ENTITY smiley9Cmd.label "Skūpsts">
+<!ENTITY smiley9Cmd.accesskey "K">
+<!ENTITY smiley9Cmd.tooltip "Ievietot skūpstošu seju">
+<!ENTITY smiley10Cmd.label "Kliedziens">
+<!ENTITY smiley10Cmd.accesskey "Y">
+<!ENTITY smiley10Cmd.tooltip "Ievietot kliedzošu seju">
+<!ENTITY smiley11Cmd.label "Vēss">
+<!ENTITY smiley11Cmd.accesskey "C">
+<!ENTITY smiley11Cmd.tooltip "Ievietot vēsu seju">
+<!ENTITY smiley12Cmd.label "Nauda mutē">
+<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.tooltip "Ievietot seju ar naudu mutē">
+<!ENTITY smiley13Cmd.label "Pēda mutē">
+<!ENTITY smiley13Cmd.accesskey "o">
+<!ENTITY smiley13Cmd.tooltip "Ievietot seju ar pēdu mutē">
+<!ENTITY smiley14Cmd.label "Nevainīgs">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Ievietot nevainīgu seju">
+<!ENTITY smiley15Cmd.label "Raudošs">
+<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.tooltip "Ievietot raudošu seju">
+<!ENTITY smiley16Cmd.label "Aizzīmogotas lūpas">
+<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.tooltip "Ievietot seju ar aizzīmogotām lūpām">
+<!ENTITY SmileButton.label "Ievietot smaidiņu">
+<!ENTITY SmileButton.tooltip "Ievietot smaidošu seju">
