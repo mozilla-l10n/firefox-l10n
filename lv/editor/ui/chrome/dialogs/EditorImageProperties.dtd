@@ -31,15 +31,45 @@
 <!ENTITY actualSizeRadio.label "Patiesais izmērs">
 <!ENTITY actualSizeRadio.accessKey "A">
 <!ENTITY actualSizeRadio.tooltip "Atgriezt uz attēla faktisko izmēru">
+<!ENTITY customSizeRadio.label "Pielāgots izmērs">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Mainīt attēla izmēru, kā parādīts lapā">
+<!ENTITY heightEditField.label "Augstums:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "Platums:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY constrainCheckbox.label "Ierobežot">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "Saglabāt attēla malu attiecību">
 
 <!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Attēlu karte">
+<!ENTITY removeImageMapButton.label "Noņemt">
+<!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Pielīdzināt tekstu attēlam">
+<!ENTITY bottomPopup.value "Apakšā">
+<!ENTITY topPopup.value "Augšā">
+<!ENTITY centerPopup.value "Centrā">
+<!ENTITY wrapRightPopup.value "Aptīt pa labi">
+<!ENTITY wrapLeftPopup.value "Aptīt pa kreisi">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Atstatums">
+<!ENTITY leftRightEditField.label "Pa kreisi un pa labi:">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "Augšā un apakšā:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "Nepārtraukta robeža:">
+<!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Rādīt apmali ap saistīto attēlu">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Saistīt papildu rediģēšanu…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Pievienot vai mainīt HTML atribūtus, stila atribūtus un JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Forma">

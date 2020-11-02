@@ -11,8 +11,8 @@
 <!ENTITY password.value "Parole">
 <!ENTITY checkbox.value "Atzīmes rūtiņa">
 <!ENTITY radio.value "Radio poga">
-
-
+<!ENTITY submit.value "Iesniegšanas poga">
+<!ENTITY reset.value "Atstatīšanas poga">
 <!ENTITY file.value "Fails">
 <!ENTITY hidden.value "Slēpts">
 <!ENTITY image.value "Attēls">
@@ -27,23 +27,24 @@
 <!ENTITY InputValue.accesskey "v">
 <!ENTITY InitialValue.label "Sākotnējā vērtība:">
 <!ENTITY InitialValue.accesskey "v">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY InputChecked.label "Sākotnēji pārbaudīts">
+<!ENTITY InputChecked.accesskey "C">
+<!ENTITY InputSelected.label "Sākotnēji atlasīts">
+<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputReadOnly.label "Tikai lasāms">
+<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputDisabled.label "Atslēgts">
+<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY tabIndex.label "Cilnes indekss:">
+<!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Lauka izmērs:">
 <!ENTITY TextSize.accesskey "L">
 <!ENTITY TextLength.label "Maksimālais garums:">
 <!ENTITY TextLength.accesskey "g">
+<!ENTITY AccessKey.label "Piekļuves atslēga:">
+<!ENTITY AccessKey.accesskey "K">
+<!ENTITY Accept.label "Pieņemt veidus:">
+<!ENTITY Accept.accesskey "A">
 
-
-
-
-
-
+<!ENTITY ImageProperties.label "Attēla īpašības…">
+<!ENTITY ImageProperties.accesskey "E">
