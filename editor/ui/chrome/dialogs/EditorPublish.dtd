@@ -26,13 +26,38 @@
 <!ENTITY sameLocationRadio.tooltip    "Publicēt failus tajā pašā vietā, kur lapa">
 <!ENTITY useSubdirRadio.label         "Izmantot šo vietnes apakšmapi:">
 <!ENTITY useSubdirRadio.tooltip       "Publicēt failus atlasītajā attālajā apakšmapē">
+<!ENTITY otherDirList.tooltip         "Izvēlieties vai ievadiet attālās apakšmapes nosaukumu, kurā tiks publicēti faili">
+<!ENTITY pageTitle.label              "Lapas virsraksts:">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Ievadiet virsrakstu, lai noteiktu lapu logā un grāmatzīmēs">
+<!ENTITY pageTitleExample.label       "piem.: &quot;Mana lapa&quot;">
 <!ENTITY filename.label               "Faila nosaukums:">
 <!ENTITY filename.accesskey           "F">
+<!ENTITY filename.tooltip             "Ievadiet šī faila nosaukumu, tīmekļa lapai ieskaitot '.html'">
+<!ENTITY filenameExample.label        "piem.: &quot;manalapa.html&quot;">
+<!ENTITY setDefaultButton.label       "Iestatīt kā noklusēto">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY removeButton.label           "Noņemt vietni">
+<!ENTITY removeButton.accesskey       "R">
 
 <!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Publicēšanas vietnes">
 <!ENTITY serverInfo.label             "Servera informācija">
 <!ENTITY loginInfo.label              "Pieteikšanās informācija">
 <!ENTITY siteName.label               "Vietnes nosaukums:">
 <!ENTITY siteName.accesskey           "e">
+<!ENTITY siteName.tooltip             "Segvārds, kas identificē šo izdevēju vietni (piem.: 'Mana vietne')">
+<!ENTITY siteUrl.label                "Publicētāja adrese (piem.: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip              "FTP:// vai HTTP:// adrese ko piedāvā jūsu tīmekļa mitināšanas pakalpojums">
+<!ENTITY browseUrl.label              "Jūsu mājas lapas HTTP adrese (piem.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "Jūsu mājas mapes HTTP:// adrese (neiekļaujiet faila nosaukumu)">
+<!ENTITY username.label               "Lietotājvārds:">
+<!ENTITY username.accesskey           "U">
+<!ENTITY username.tooltip             "Lietotājvārds, kuru izmantojat piesakoties savā ISP vai tīmekļa mitināšanas pakalpojumā">
+<!ENTITY password.label               "Parole:">
+<!ENTITY password.accesskey           "w">
+<!ENTITY password.tooltip             "Ar jūsu lietotājvārdu saistītā parole">
 <!ENTITY savePassword.label           "Saglabāt paroli">
 <!ENTITY savePassword.accesskey       "S">
