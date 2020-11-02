@@ -17,6 +17,7 @@ handler-dialog-host = <strong>{ $host }</strong> ønsker å åpne en <strong>{ $
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = La dette nettstedet åpne { $scheme }-lenken?
 
 ## Chooser dialog
 ## Variables:
