@@ -1,0 +1,61 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY emailWizard.title               "Iestatiet jūsu esošo e-pasta adresi">
+<!ENTITY emailWizard.caption             "Izmantot jūsu pašreizējo e-pasta adresi">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY fullname.placeholder            "Jūsu pilnais vārds">
+<!ENTITY name.text                       "Jūsu citiem rādāmais vārds">
+<!ENTITY name.error                      "Lūdzu, ievadiet savu vārdu">
+<!ENTITY email.label                     "Epasta adrese:">
+<!ENTITY email.accesskey                 "E">
+<!ENTITY email3.placeholder              "Jūsu epasta adrese:">
+<!ENTITY email.text                      "Jūsu esošā epasta adrese">
+<!ENTITY email.error                     "Nepareiza epasta adrese">
+<!ENTITY password.label                  "Parole:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.placeholder            "Parole">
+<!ENTITY password.text                   "Neobligāts, bet var tikt izmantots lietotājvārda validēšanai">
+<!ENTITY password.toggle                 "Rādīt/slēpt paroli">
+<!ENTITY rememberPassword.label          "Atcerēties paroli">
+<!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY usernameEx.label                "Jūsu pieteikšanās:">
+<!ENTITY usernameEx.accesskey            "l">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "JUSUDOMENS\jusulietotajvards">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Domēna pieteikšanās">
+
+<!ENTITY protocol.label                  "Protokols:">
+<!ENTITY imapLong.label                  "IMAP (attālās mapes)">
+<!ENTITY pop3Long.label                  "POP3 (glabāt pastu jūsu datorā)">
+
+<!ENTITY manualConfigTable.summary       "Servera iestatījumi">
+<!ENTITY incoming.label                  "Ienākošie:">
+<!ENTITY incomingColumn.label            "Ienākošie">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual config mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+
+
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+
+
+
