@@ -1,32 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
+<!ENTITY windowTitle.label "Pārbaudīt rakstību">
 
-
-
-
-
-
-
+<!ENTITY misspelledWord.label "Nepareizi uzrakstīts vārds:">
+<!ENTITY wordEditField.label "Aizstāt ar:">
+<!ENTITY wordEditField.accessKey "w">
+<!ENTITY checkwordButton.label "Pārbaudīt vārdu">
+<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY suggestions.label "Ieteikumi:">
+<!ENTITY suggestions.accessKey "u">
 <!ENTITY ignoreButton.label "Ignorēt">
 <!ENTITY ignoreButton.accessKey "I">
 <!ENTITY ignoreAllButton.label "Ignorēt visus">
 <!ENTITY ignoreAllButton.accessKey "n">
-
-
-
-
-
-
+<!ENTITY replaceButton.label "Aizstāt">
+<!ENTITY replaceButton.accessKey "R">
+<!ENTITY replaceAllButton.label "Aizstāt visu">
 <!ENTITY userDictionary.label "Personīgā vārdnīca:">
-
-
-
 <!ENTITY editUserDictionaryButton.label "Rediģēt...">
 <!ENTITY editUserDictionaryButton.accessKey "e">
-
-
 <!ENTITY closeButton.label "Aizvērt">
 <!ENTITY closeButton.accessKey "A">
 <!ENTITY sendButton.label "Sūtīt">

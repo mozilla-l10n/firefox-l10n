@@ -5,32 +5,32 @@
 <!ENTITY windowTitle.label "Atlases saraksta īpasības">
 
 <!ENTITY Select.label "Atlases saraksts">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY SelectName.label "Saraksta nosaukums:">
+<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectSize.label "Augstums:">
+<!ENTITY SelectSize.accesskey "H">
+<!ENTITY SelectMultiple.label "Vairāku atlase">
+<!ENTITY SelectMultiple.accesskey "M">
+<!ENTITY SelectDisabled.label "Atslēgts">
+<!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectTabIndex.label "Cilnes indekss:">
+<!ENTITY SelectTabIndex.accesskey "I">
 
 <!ENTITY OptGroup.label "Opciju grupa">
-
-
-
-
+<!ENTITY OptGroupLabel.label "Birka:">
+<!ENTITY OptGroupLabel.accesskey "L">
+<!ENTITY OptGroupDisabled.label "Atslēgts">
+<!ENTITY OptGroupDisabled.accesskey "D">
 
 <!ENTITY Option.label "Opcija">
 <!ENTITY OptionText.label "Teksts:">
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Vērtība:">
 <!ENTITY OptionValue.accesskey "V">
-
-
-
-
+<!ENTITY OptionSelected.label "Sākotnēji izvēlēts">
+<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionDisabled.label "Atslēgts">
+<!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "Teksts">
 <!ENTITY ValueHeader.label "Vērtība">
@@ -40,9 +40,9 @@
 <!ENTITY AddOption.accesskey "o">
 <!ENTITY AddOptGroup.label "Pievienot grupu">
 <!ENTITY AddOptGroup.accesskey "g">
-
-
-
-
-
-
+<!ENTITY RemoveElement.label "Noņemt">
+<!ENTITY RemoveElement.accesskey "R">
+<!ENTITY MoveElementUp.label "Pārvietot augšup">
+<!ENTITY MoveElementUp.accesskey "U">
+<!ENTITY MoveElementDown.label "Pārvietot lejup">
+<!ENTITY MoveElementDown.accesskey "D">
