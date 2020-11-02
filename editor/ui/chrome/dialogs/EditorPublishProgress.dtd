@@ -1,12 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
+<!ENTITY siteUrl.label         "Vietnes URL:">
+<!ENTITY docSubdir.label       "Lapas apakšmape:">
+<!ENTITY otherSubdir.label     "Attēlu apakšmape:">
 
+<!ENTITY status.label          "Publicē…">
+<!ENTITY fileList.label        "Publicēšanas statuss">
+<!ENTITY succeeded.label       "Izdevās">
+<!ENTITY failed.label          "Neizdevās">
 
-
-
-
-
-
+<!ENTITY keepOpen              "Kad publicēšana ir pabeigta, turiet šo logu atvērtu.">
 <!ENTITY closeButton.label     "Aizvērt">

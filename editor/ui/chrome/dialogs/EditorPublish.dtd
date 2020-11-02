@@ -25,6 +25,7 @@
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Publicēt failus tajā pašā vietā, kur lapa">
 <!ENTITY useSubdirRadio.label         "Izmantot šo vietnes apakšmapi:">
+<!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publicēt failus atlasītajā attālajā apakšmapē">
 <!ENTITY otherDirList.tooltip         "Izvēlieties vai ievadiet attālās apakšmapes nosaukumu, kurā tiks publicēti faili">
 <!ENTITY pageTitle.label              "Lapas virsraksts:">
@@ -61,3 +62,4 @@
 <!ENTITY password.tooltip             "Ar jūsu lietotājvārdu saistītā parole">
 <!ENTITY savePassword.label           "Saglabāt paroli">
 <!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Atlasiet šo, lai droši saglabātu paroli, izmantojot Paroļu pārvaldnieku">
