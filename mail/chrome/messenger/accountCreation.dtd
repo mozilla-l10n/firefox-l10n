@@ -34,28 +34,74 @@
 <!ENTITY manualConfigTable.summary       "Servera iestatījumi">
 <!ENTITY incoming.label                  "Ienākošie:">
 <!ENTITY incomingColumn.label            "Ienākošie">
+<!ENTITY outgoing.label                  "Izejošie:">
+<!ENTITY outgoingColumn.label            "Izejošie">
+<!ENTITY username.label                  "Lietotājvārds:">
+<!ENTITY serverRow.label                 "Serveris:">
+<!ENTITY portRow.label                   "Ports:">
+<!ENTITY sslRow.label                    "SSL:">
+<!ENTITY auth.label                      "Autentifikācija">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP3">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Exchange">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Noteikt automātiski">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Nav">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Exchange serveris:">
 
+<!ENTITY advancedSetup.label             "Papildu iestatījumi">
+<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY cancel.label                    "Atcelt">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Turpināt">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY stop.label                      "Apturēt">
+<!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Pārbaudīt vēlreiz">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-config.label             "Iestatīt manuāli…">
+<!ENTITY manual-config.accesskey         "M">
+<!ENTITY open-provisioner.label          "Iegūt jaunu epasta adresi…">
+<!ENTITY open-provisioner.accesskey      "g">
+<!ENTITY get-help.label                  "Iegūt palīdzību">
+<!ENTITY get-help.accesskey              "H">
 
 
+<!ENTITY warning.label                   "Brīdinājums!">
+<!ENTITY incomingSettings.label          "Ienākošie iestatījumi:">
+<!ENTITY outgoingSettings.label          "Izejošie iestatījumi:">
+<!ENTITY technicaldetails.label          "Tehniskā informācija">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Es apzinos riskus.">
+<!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "Gatavs">
+<!ENTITY doneAccount.accesskey           "D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
+<!ENTITY changeSettings.label            "Mainīt iestatījumus">
+<!ENTITY changeSettings.accesskey        "S">
 
+<!ENTITY contactYourProvider.description "&brandShortName; var ļaut piekļūt jūsu pastam, izmantojot sniegtos iestatījumus. Par šiem savienojumiem jums jāsazinās ar administratoru vai epasta pakalpojumu sniedzēju. Plašāku informāciju skatiet Thunderbird bieži uzdotajos jautājumos.">
 
+<!ENTITY insecureServer.tooltip.title    "Uzmanību! Šis ir nedrošs serveris.">
+<!ENTITY insecureServer.tooltip.details  "Papildu informācijai klikšķiniet uz apļa.">
 
+<!ENTITY insecureUnencrypted.description "Jūsu epasts un autentifikācija tiek sūtīti nešifrēti, tāpēc citi cilvēki var viegli izlasīt jūsu paroli (un vēstules). &brandShortName; ļaus jums iegūt jūsu pastu, taču jums jāsazinās ar jūsu epasta pakalpojumu sniedzēju par servera iestatīšanu ar drošu savienojumu.">
