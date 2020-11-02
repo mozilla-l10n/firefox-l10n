@@ -8,23 +8,24 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "Noklusētais lapas izskats">
 
-
-
-
+<!ENTITY defaultColors.label        "Lasītāja noklusējuma krāsas (neiestatīt krāsas lapā)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColors.label         "Lietot pielāgotas krāsas:">
+<!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "Normāls teksts">
 <!ENTITY normalText.accesskey       "N">
-
-
-
-
-
-
-
-
+<!ENTITY linkText.label             "Saites teksts">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "Aktīvās saites teksts">
+<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY visitedLinkText.label      "Apmeklētās saites teksts">
+<!ENTITY visitedLinkText.accesskey  "V">
+<!ENTITY background.label           "Fons:">
+<!ENTITY background.accesskey       "B">
 <!ENTITY colon.character            ":">
 
-
-
-
-
+<!ENTITY backgroundImage.label      "Fona attēls:">
+<!ENTITY backgroundImage.accesskey  "m">
+<!ENTITY chooseFile.label           "Izvēlieties failu…">
+<!ENTITY chooseFile.accesskey       "o">
