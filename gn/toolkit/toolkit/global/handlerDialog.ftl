@@ -45,6 +45,8 @@ chooser-dialog =
     .buttonlabelaccept = Joajuha ijurujáva
     .buttonaccesskeyaccept = O
 chooser-dialog-description = Eiporavo tembipuru’i embojuruja hag̃ua juajuha { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Eipuru tapia ko tembipuru’i embojuruja hag̃ua juajuha <strong>{ $scheme }</strong>
 choose-other-app-description = Eiporavo ambue tembipuru’i
 choose-app-btn =
     .label = Poravo…
