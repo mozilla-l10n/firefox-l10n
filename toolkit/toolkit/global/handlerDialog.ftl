@@ -18,6 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> ønsker å åpne en <strong>{ $
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = La dette nettstedet åpne { $scheme }-lenken?
+permission-dialog-description-host = La { $host } åpne { $scheme }-lenken?
+permission-dialog-description-app = La dette nettstedet åpne { $scheme }-lenken med { $appName }?
+permission-dialog-description-host-app = La { $host } åpne { $scheme }-lenken med { $appName }?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Tillat alltid <strong>{ $host }</strong> å åpne <strong>{ $scheme }</strong>-lenker
+permission-dialog-btn-open-link =
+    .label = Åpne lenke
+    .accessKey = p
+permission-dialog-btn-choose-app =
+    .label = Velg program
+    .accessKey = V
+permission-dialog-unset-description = Du må velge et program.
+permission-dialog-set-change-app-link = Velg et annet program.
 
 ## Chooser dialog
 ## Variables:
