@@ -38,6 +38,20 @@ permission-dialog-set-change-app-link = Velg et annet program.
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Velg program
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Åpne lenke
+    .buttonaccesskeyaccept = p
+chooser-dialog-description = Velg et program for å åpne { $scheme }-lenken.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Bruk alltid dette programmet for å åpne <strong>{ $scheme }</strong>-lenker
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Dette kan endres i { -brand-short-name } sine innstillinger.
+       *[other] Dette kan endres i { -brand-short-name } sine innstillinger.
+    }
 choose-other-app-description = Velg annet program
 choose-app-btn =
     .label = Velg …
