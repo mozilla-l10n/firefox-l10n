@@ -84,7 +84,7 @@ serviceworker-empty-suggestions-aboutdebugging2 = Праглядзець service
 manifest-view-header = Маніфест праграмы
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Маніфест для даследавання не знойдзены.
+manifest-empty-intro = Вам трэба дадаць маніфест вэб-праграмы, каб даследаваць яго тут. <a>Даведацца больш</a>
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Маніфест web-праграмы не знойдзены
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest

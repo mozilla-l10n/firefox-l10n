@@ -11,10 +11,15 @@ experimental-features-media-avif-description = Калі гэтая функцы�
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Наша рэалізацыя глабальнага атрыбута <a data-l10n-name="mdn-inputmode">inputmode</a> была абноўлена ў адпаведнасці з <a data-l10n-name="whatwg">спецыфікацыяй WHATWG</a>, але нам трэба яшчэ ўнесці іншыя змены, напрыклад, зрабіць яго даступным для змесціва contenteditable. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Атрыбут <a data-l10n-name="rel">rel</a> са значэннем <code>"preload"</code> на элеменце <a data-l10n-name="link">&lt;link&gt;< /a> прызначаны для павышэння прадукцыйнасці, дазваляючы загружаць рэсурсы на ранейшых этапах жыццёвага цыкла старонкі, гарантуючы, што яны будуць даступныя раней і менш верагодна будуць блакаваць рэндэрынг старонкі. Прачытайце <a data-l10n-name="readmore">“Папярэдняя загрузка змесціва з дапамогай <code>rel ="preload"</code>”</a> альбо гл. <a data-l10n-name="bugzilla">хiбу 1583604</a> для больш падрабязнай інфармацыі.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
