@@ -15,6 +15,9 @@ about-httpsonly-title = { -brand-short-name } ohechakuaa ikatuha oiko apañuãi
 about-httpsonly-explanation-unavailable = Eikundaha HTTPS ayvu añópe, ha ndaipóri peteĩva HTTPS hekorosãva <em>{ $websiteUrl }</em> ndojepurukuaái.
 about-httpsonly-title-alert = HTTPS ayvúpe kyhyjerã
 about-httpsonly-title-connection-not-available = Jeikekatu eipurukuaa’ỹva
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Emyandyhína HTTPS ayvu añoitéva hekorosãve hag̃ua hákatu ndaipori HTTPS ipyahúva <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-question = ¿Mba’éicha oikokuaa kóva?
 about-httpsonly-explanation-nosupport = Pe ikatúva hína ñanduti renda ndojokupytýi HTTPS ndive.
 about-httpsonly-explanation-risk = Ikatu avei mba’evaiapoha ojapo. Eikeséramo ñanduti rendápe, aníke eme’ẽ marandu kañyguáva, taha’e ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia’atã ñemurã reheguáva.
