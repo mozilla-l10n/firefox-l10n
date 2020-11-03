@@ -17,11 +17,23 @@ handler-dialog-host = <strong>{ $host }</strong> vole aperir un ligamine <strong
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-btn-open-link =
+    .label = Aperir le ligamine
+    .accessKey = A
+permission-dialog-btn-choose-app =
+    .label = Eliger un application
+    .accessKey = a
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Eliger un application
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Aperir le ligamine
+    .buttonaccesskeyaccept = A
 choose-other-app-description = Eliger un altere application
 choose-app-btn =
     .label = Eliger…
