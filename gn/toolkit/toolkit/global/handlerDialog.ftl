@@ -47,6 +47,11 @@ chooser-dialog =
 chooser-dialog-description = Eiporavo tembipuru’i embojuruja hag̃ua juajuha { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Eipuru tapia ko tembipuru’i embojuruja hag̃ua juajuha <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Kóva ikatu iñambue jeporavorã { -brand-short-name }-pe.
+       *[other] Kóva ikatu iñambue jeporavorãkuéra { -brand-short-name }-pe.
+    }
 choose-other-app-description = Eiporavo ambue tembipuru’i
 choose-app-btn =
     .label = Poravo…
