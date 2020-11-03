@@ -4,6 +4,7 @@
 
 <!ENTITY emailWizard.title               "Iestatiet jūsu esošo e-pasta adresi">
 <!ENTITY emailWizard.caption             "Izmantot jūsu pašreizējo e-pasta adresi">
+<!ENTITY name.label                      "Jūsu vārds:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "Jūsu pilnais vārds">
 <!ENTITY name.text                       "Jūsu citiem rādāmais vārds">
