@@ -17,6 +17,14 @@ handler-dialog-host = <strong>{ $host }</strong> bir <strong>{ $scheme }</strong
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Bu site { $scheme } bağlantısını açabilsin mi?
+permission-dialog-description-host = { $host } sitesi { $scheme } bağlantısını açabilsin mi?
+permission-dialog-description-app = Bu site { $scheme } bağlantısını { $appName } ile açabilsin mi?
+permission-dialog-description-host-app = { $host } sitesi { $scheme } bağlantısını { $appName } ile açabilsin mi?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = <strong>{ $host }</strong> sitesinin <strong>{ $scheme }</strong> bağlantılarını açmasına her zaman izin ver
 permission-dialog-btn-open-link =
     .label = Bağlantıyı aç
     .accessKey = B
@@ -37,6 +45,13 @@ chooser-dialog =
     .buttonlabelaccept = Bağlantıyı aç
     .buttonaccesskeyaccept = B
 chooser-dialog-description = { $scheme } bağlantısını açmak için bir uygulama seçin.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = <strong>{ $scheme }</strong> bağlantılarını açmak için her zaman bu uygulamayı kullan
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Bu ayarı { -brand-short-name } seçeneklerinden değiştirebilirsiniz.
+       *[other] Bu ayarı { -brand-short-name } tercihlerinden değiştirebilirsiniz.
+    }
 choose-other-app-description = Başka bir uygulama seç
 choose-app-btn =
     .label = Seç…
