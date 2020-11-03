@@ -356,7 +356,7 @@ touch-enabled = пальцавы увод ўключаны
 drag-enabled = захоп стужкі прагорткі ўключаны
 keyboard-enabled = клавіятура ўключана
 autoscroll-enabled = аўтапракрутка ўключана
-zooming-enabled = уключана плаўнае маштабаванне жэстам
+zooming-enabled = уключана плаўнае маштабаванне шчыпком
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
