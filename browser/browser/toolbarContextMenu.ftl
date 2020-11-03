@@ -24,21 +24,18 @@ toolbar-context-menu-undo-close-tabs =
            *[other] დახურული ჩანართების დაბრუნება
         }
     .accesskey = ბ
-
 toolbar-context-menu-manage-extension =
     .label = გაფართოების მართვა
     .accesskey = ფ
 toolbar-context-menu-remove-extension =
     .label = გაფართოების ამოშლა
     .accesskey = მ
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = გაფართოების გასაჩივრება
     .accesskey = ჩ
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -53,4 +50,13 @@ toolbar-context-menu-remove-from-toolbar =
     .accesskey = ა
 toolbar-context-menu-view-customize-toolbar =
     .label = მორგება…
+    .accesskey = მ
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = ყოველთვის
+    .accesskey = ყ
+toolbar-context-menu-bookmarks-toolbar-never-show =
+    .label = არასდროს
+    .accesskey = რ
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = მხოლოდ ახალ ჩანართში
     .accesskey = მ
