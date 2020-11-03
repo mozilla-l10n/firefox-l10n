@@ -391,6 +391,7 @@ recent-updates-heading = Ileqman n melmi kan
 release-notes-loading = Asali…
 release-notes-error = Suref-aɣ, teḍṛa-d tuccḍa deg usali n iwenniten n lqem.
 addon-permissions-empty = Asiɣzef-agi ur yesra ara tisirag
+addon-permissions-learnmore = Issin ugar ɣef tsirag
 recommended-extensions-heading = Isiɣzaf ihulen
 recommended-themes-heading = Isental ihulen
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

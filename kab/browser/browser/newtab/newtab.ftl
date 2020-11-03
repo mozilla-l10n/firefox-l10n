@@ -51,6 +51,10 @@ newtab-confirm-delete-history-p1 = Tebɣiḍ ad tekksed yal tummant n usebter-ag
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = S lmendad
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

@@ -344,6 +344,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Mdel
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Kter ticraḍ n yisebtar…
+    .tooltiptext = Nɣel ticraḍ n yisebtar seg yiminig-nniḍen ɣer { -brand-short-name }.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =

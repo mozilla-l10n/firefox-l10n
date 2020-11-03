@@ -43,6 +43,7 @@ about-networking-dns-lookup = Anadi DNS
 about-networking-dns-lookup-button = Fru
 about-networking-dns-domain = Taɣult:
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Addad RCWN
 about-networking-rcwn-status = Tiddadanin RCWN
 about-networking-rcwn-cache-won-count = Aseklas n tzerkatut ad ittwarebḥen
