@@ -388,6 +388,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = ამ გაფართოების კოდი შემოწმებულია უსაფრთხოებაზე
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = ოფიციალური გაფართოება ხალხისგან, რომელთაც შექმნეს { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
