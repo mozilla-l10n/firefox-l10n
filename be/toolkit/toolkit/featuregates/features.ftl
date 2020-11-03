@@ -4,6 +4,11 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: выклад «Masonry»
+experimental-features-css-masonry-description = Актывуе падтрымку эксперыментальнай функцыі CSS Masonry Layout. Зазірніце ў <a data-l10n-name="explainer"> тлумачальнік </a> для атрымання падрабязнага апісання функцыі. Каб пакінуць водгук, каментуйце ў <a data-l10n-name="w3c-issue"> гэтай тэме на GitHub </a> альбо <a data-l10n-name="bug"> ў гэтым спісе хібаў </a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-media-avif-description = Калі гэтая функцыя ўключана, { -brand-short-name } будзе падтрымлiваць фармат файла выявы AV1 (AVIF). Гэта фармат файлаў нерухомых выяў, які выкарыстоўвае магчымасці алгарытмаў сціску відэа AV1 для памяншэння памеру выявы. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1443863</a>.
@@ -45,6 +50,9 @@ experimental-features-devtools-compatibility-panel-description = Бакавая 
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Кукі: SameSite=Lax прадвызначана
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Кукі: SameSite=None патрабуе атрыбута «secure»
 experimental-features-cookie-samesite-none-requires-secure2-description = Кукi з атрыбутам "SameSite=None" патрабуюць засцярожанага атрыбута. Для гэтай функцыі патрабуецца "Кукi: SameSite=Lax прадвызначана".
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
@@ -53,11 +61,14 @@ experimental-features-abouthome-startup-cache =
 experimental-features-print-preview-tab-modal =
     .label = Перапрацаванае акно друку
 # "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Інструменты распрацоўшчыка: Адладка Service Worker
+# "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Актывуе эксперыментальную падтрымку Service Workers на панэлі Адладчыка. Гэтая функцыя можа запаволіць інструменты распрацоўшчыка і павялічыць спажыванне памяці.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Графіка: плаўнае маштабаванне шчыпком
-experimental-features-graphics-desktop-zooming-description = Актываваць падтрымку плаўнага маштабавання праз дотык для дотыкавых экранаў і прэцызійных дотыкавых панэлей.
+experimental-features-graphics-desktop-zooming-description = Актываваць падтрымку плаўнага маштабавання шчыпком для дотыкавых экранаў і прэцызійных дотыкавых панэлей.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
