@@ -17,6 +17,8 @@ handler-dialog-host = <strong>{ $host }</strong>ombojurujase juajuha<strong>{ $s
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = ¿Emoneĩ ko tendápe tombojuruja juajuha { $scheme }?
+permission-dialog-description-host = ¿Emoneĩ { $host } tombojuruja juajuha { $scheme }?
 permission-dialog-btn-open-link =
     .label = Joajuha ijurujáva
     .accessKey = O
