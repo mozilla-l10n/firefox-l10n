@@ -24,26 +24,60 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitāte">
+<!ENTITY identityDesc.label "Katram kontam ir identitāte, kas ir jūs aprakstoša informācija citiem, kad viņi saņem jūsu ziņojumus.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Ievadiet vārdu, kuru vēlaties parādīt &quot;No&quot; izejošā ziņojuma laukā">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameExample.label "(piemēram, &quot;Džons Smits&quot;).">
+<!ENTITY fullnameLabel.label "Jūsu vārds:">
+<!ENTITY fullnameLabel.accesskey "Y">
 
+<!ENTITY emailLabel.label "Epasta adrese:">
+<!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "Ienākošā servera informācija">
+<!ENTITY incomingServerTypeDesc.label "Izvēlieties jūsu izmantoto ienākošā servera veidu.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Atstāt ziņojumus serverī">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Ports:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Noklusētais:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Ievadiet ienākošā servera nosaukumu (piemēram, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Ienākošais serveris:">
+<!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Ievadiet ienākošo lietotāja vārdu, ko jums ir devis jūsu epasta pakalpojumu sniedzējs (piemēram, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Lietotājvārds:">
+<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Ievadiet jūsu ziņu servera (NNTP) nosaukumu (piemēram, &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "Intereškopas serveris:">
+<!ENTITY newsServerLabel.accesskey "S">
 
 <!-- Entities for Outgoing Server page -->
 
+<!ENTITY outgoingTitle.label "Izejošā servera informācija">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Ievadiet izejošā servera (SMTP) nosaukumu (piemēram, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Izejošais serveris:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Ievadiet izejošo lietotāja vārdu, ko jums ir devis jūsu epasta pakalpojumu sniedzējs (tas parasti ir tāds pats kā jūsu ienākošā lietotāja vārds).">
+<!ENTITY outgoingUsername.label "Izejošais lietotāja vārds:">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
