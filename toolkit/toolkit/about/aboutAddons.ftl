@@ -382,6 +382,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Tämän laajennuksen koodi on katselmoitu turvallisuuden varmistamiseksi
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Tämä on virallinen laajennus, joka on luotu { -brand-product-name }in tekijöiden toimesta
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -390,6 +396,8 @@ recent-updates-heading = Tuoreet päivitykset
 release-notes-loading = Ladataan…
 release-notes-error = Julkaisutietojen lataaminen epäonnistui.
 addon-permissions-empty = Tämä laajennus ei vaadi mitään oikeuksia
+addon-permissions-required = Vaaditut käyttöoikeudet ydintoiminnoille:
+addon-permissions-optional = Valinnaiset käyttöoikeudet lisätoiminnoille:
 addon-permissions-learnmore = Lue lisää käyttöoikeuksista
 recommended-extensions-heading = Suositellut laajennukset
 recommended-themes-heading = Suositellut teemat
