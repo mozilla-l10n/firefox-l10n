@@ -19,12 +19,20 @@ handler-dialog-host = <strong>{ $host }</strong>ombojurujase juajuha<strong>{ $s
 
 permission-dialog-description = ¿Emoneĩ ko tendápe tombojuruja juajuha { $scheme }?
 permission-dialog-description-host = ¿Emoneĩ { $host } tombojuruja juajuha { $scheme }?
+permission-dialog-description-app = ¿Emoneĩ ko tendápe tombojuruja juajuha { $scheme } { $appName } ndive?
+permission-dialog-description-host-app = ¿Emoneĩ { $host } tombojuruja juajuha { $scheme } { $appName } ndive?
+# Please keep the emphasis around the hostname and scheme (ie the
+# `<strong>` HTML tags). Please also keep the hostname as close to the start
+# of the sentence as your language's grammar allows.
+permission-dialog-remember = Emoneĩ meme <strong>{ $host }</strong> embojuruja juajuha</strong>{ $scheme }</strong>
 permission-dialog-btn-open-link =
     .label = Joajuha ijurujáva
     .accessKey = O
 permission-dialog-btn-choose-app =
     .label = Eiporavo tembipuru’i
     .accessKey = A
+permission-dialog-unset-description = Eiporavova’erã peteĩ tembipuru’i.
+permission-dialog-set-change-app-link = Eiporavo tembipuru’i ambuéva.
 
 ## Chooser dialog
 ## Variables:
@@ -36,6 +44,7 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Joajuha ijurujáva
     .buttonaccesskeyaccept = O
+chooser-dialog-description = Eiporavo tembipuru’i embojuruja hag̃ua juajuha { $scheme }.
 choose-other-app-description = Eiporavo ambue tembipuru’i
 choose-app-btn =
     .label = Poravo…
