@@ -81,15 +81,29 @@
 <!ENTITY layoutMenu.accesskey                           "I">
 <!ENTITY showDirectoryPane.label                        "Mapes rūts">
 <!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Kontaktu rūts">
+<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY menu_ShowNameAs.label                          "Rādīt vārdu kā">
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Vārds Uzvārds">
 <!ENTITY firstLastCmd2.accesskey                        "V">
 <!ENTITY lastFirstCmd.label                             "Uzvārds Vārds">
 <!ENTITY lastFirstCmd.accesskey                         "U">
+<!ENTITY displayNameCmd.label                           "Rādāmais vārds">
+<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY sortMenu.label                                 "Kārtot pēc">
+<!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Rīki">
+<!ENTITY tasksMenu.accesskey                            "T">
+<!ENTITY messengerCmd.label                             "Pasts &amp; Ziņu grupas">
+<!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Meklēt adreses…">
+<!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "Importēt…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportēt...">
@@ -100,36 +114,86 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.accesskey                   "u">
 
 <!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newContactButton.label                         "Jauns kontakts">
+<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newlistButton.label                            "Jauns saraksts">
+<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY showAsDefault.label                            "Noklusētā starta mape">
+<!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Rediģēt">
 <!ENTITY propertiesContext.label                        "Īpašības">
 <!ENTITY propertiesContext.accesskey                    "p">
 <!ENTITY abPropertiesContext.label                      "Īpašības">
 <!ENTITY abPropertiesContext.accesskey                  "p">
+<!ENTITY syncContext.label                              "Sinhronizēt">
+<!ENTITY syncContext.accesskey                          "y">
+<!ENTITY editContactContext.label                       "Rediģēt kontaktu">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Rediģēt sarakstu">
+<!ENTITY editMailingListContext.accesskey               "E">
+<!ENTITY newmsgButton.label                             "Rakstīt">
+<!ENTITY newmsgButton.accesskey                         "W">
+<!ENTITY newIM.label                                    "Tūlītēja ziņa">
+<!ENTITY newIM.accesskey                                "I">
 <!ENTITY printButton.label                              "Drukāt…">
 <!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Dzēst">
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Atlasiet rādāmās kolonnas">
 <!ENTITY newContactButton.tooltip                       "Izveidot jaunu kontaktu adrešu grāmatā">
 <!ENTITY newlistButton.tooltip                          "Izveidot jaunu sarakstu">
 <!ENTITY editPropertiesButton.tooltip                   "Rediģēt izvēlēto vienumu">
+<!ENTITY editAbPropertiesButton.tooltip                 "Rediģējiet atlasītās adrešu grāmatas īpašības">
+<!ENTITY editContactPropertiesButton.tooltip            "Rediģēt izvēlēto kontaktu">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Rediģējiet izvēlēto adresātu sarakstu">
 <!ENTITY newmsgButton.tooltip                           "Nosūtīt epasta vēstuli">
+<!ENTITY newIM.tooltip                                  "Sūtīt tūlītēju ziņu vai tērzēt">
+<!ENTITY deleteButton2.tooltip                          "Dzēst izvēlēto vienumu">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Vārds vai epasts">
+<!ENTITY SearchNameOrEmail.accesskey                    "N">
+<!ENTITY advancedButton.tooltip                         "Uzlabota adrešu meklēšana">
 <!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "Ātrā meklēšana">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adrešu grāmata">
 <!ENTITY Addrbook.accesskey                             "g">
+<!ENTITY GeneratedName.label                            "Vārds">
+<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY PrimaryEmail.label                             "Epasts">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ChatName.label                                 "Tērzēšanas segvārds">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organizācija">
 <!ENTITY Company.accesskey                              "z">
+<!ENTITY NickName.label                                 "Segvārds">
+<!ENTITY NickName.accesskey                             "i">
+<!ENTITY SecondEmail.label                              "Papildu epasts">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "Nodaļa">
+<!ENTITY Department.accesskey                           "r">
+<!ENTITY JobTitle.label                                 "Virsraksts">
+<!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "Mobilais">
 <!ENTITY CellularNumber.accesskey                       "M">
 <!ENTITY PagerNumber.label                              "Peidžers">
 <!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "Fakss">
 <!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "Mājas telefons">
+<!ENTITY HomePhone.accesskey                            "H">
+<!ENTITY WorkPhone.label                                "Darba telefons">
+<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY sortAscending.label                            "Augoši">
+<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortDescending.label                           "Dilstoši">
+<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY _PhoneticName.label                            "Fonētiskais vārds">
+<!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
@@ -143,6 +207,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Apraksts">
 <!ENTITY addresses.heading                              "Adreses">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Iegūt karti">
+<!ENTITY mapIt.tooltip                                  "Parādīt šo adresi kartē no tīmekļa">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
