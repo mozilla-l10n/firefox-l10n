@@ -38,6 +38,12 @@ permission-dialog-set-change-app-link = Ընտրել այլ յաւելուած:
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Ընտրել յաւելուած
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Բացել յղումը
+    .buttonaccesskeyaccept = Բ
 choose-other-app-description = Ընտրէք այլ ծրագիր
 choose-app-btn =
     .label = Ընտրել…
