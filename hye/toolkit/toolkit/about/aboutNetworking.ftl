@@ -43,6 +43,7 @@ about-networking-dns-lookup = DNS փնտրում
 about-networking-dns-lookup-button = Ուղղել
 about-networking-dns-domain = Տիրոյթ․
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN վիճակներ
 about-networking-rcwn-status = RCWN կարգավիճակ
 about-networking-rcwn-cache-won-count = Յիշապահեստների յաղթանակների քանակը

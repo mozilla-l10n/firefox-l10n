@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Բեռնում.
 videocontrols-volume-control =
     .aria-label = Ուժգնութիւն
+videocontrols-closed-caption-button =
+    .aria-label = Փակուած խորագրեր

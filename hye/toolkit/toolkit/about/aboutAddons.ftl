@@ -391,6 +391,9 @@ recent-updates-heading = Վերջին թարմացումները
 release-notes-loading = Բեռնում…
 release-notes-error = Թողարկման նշումները բեռնելիս սխալ է տեղի ունեցել։
 addon-permissions-empty = Այս ընդլայնումը թոյլատուութիւններ չի պահանջում
+addon-permissions-required = Պահանջուած թոյլտուութիւնները միջուկի գործառութեան համար.
+addon-permissions-optional = Ընտրովի թոյլտուութիւնները աւելացուած գործառութեան համար.
+addon-permissions-learnmore = Իմանալ աւելին թոյլտուութիւնների մասին
 recommended-extensions-heading = Առաջարկուող ընդլայնումներ
 recommended-themes-heading = Առաջարկուող հիմնապատկերներ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

@@ -65,6 +65,7 @@ app-basics-service-workers = Գրանցուած ծառայութեան աշխա�
 app-basics-profiles = Յատկագիր
 app-basics-launcher-process-status = Թողարկման գործընթաց
 app-basics-multi-process-support = Բազմամշակիչ պատուհաններ
+app-basics-fission-support = Պատուհանների բաժանում
 app-basics-remote-processes-count = Հեռաւոր գործընթացներ
 app-basics-enterprise-policies = Ընկերութեան կանոններ
 app-basics-location-service-key-google = Google Տեղադրութեան ծառայութեան բանալին
@@ -326,6 +327,20 @@ multi-process-status-6 = Անջատուած է չաջակցուած գրոյթի
 multi-process-status-7 = Անջատուած է յաւելումների կողմից
 multi-process-status-8 = Ստիպողաբար անջատուած
 multi-process-status-unknown = Անյայտ վիճակ
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Անջատուած է փորձնականով
+fission-status-experiment-treatment = Միացուած է փորձնականով
+fission-status-disabled-by-e10s-env = Անջատուած է միջավայրի կողմից
+fission-status-enabled-by-env = Միացուած է միջավայրի կողմից
+fission-status-disabled-by-safe-mode = Անջատուած է ապահով եղանակով
+fission-status-enabled-by-default = Միացուած է սկզբնադիր
+fission-status-disabled-by-default = Անջատուած է սկզբնադիր
+fission-status-enabled-by-user-pref = Միացուած է աւգտուողի կողմից
+fission-status-disabled-by-user-pref = Անջատուած է աւգտուողի կողմից
+fission-status-disabled-by-e10s-other = E10s -ն անջատուած է
 async-pan-zoom = Չհամաժամուած շեղում/Դիտափոխում
 apz-none = չկայ
 wheel-enabled = ղեկասարքային ներմուծումը միացուած է
@@ -346,3 +361,12 @@ touch-warning = async հպմամբ ներածումը անջատուած է չա
 policies-inactive = Անգործուն
 policies-active = Գործուն
 policies-error = Սխալ
+
+## Printing section
+
+support-printing-title = Տպել
+support-printing-troubleshoot = Խափանաշտկում
+support-printing-clear-settings-button = Մաքրել պահպանուած տպիչի կարգաւորումները
+support-printing-modified-settings = Տպիչի փոփոխուած կարգաւորումներ
+support-printing-prefs-name = Անուանումը
+support-printing-prefs-value = Արժէքը
