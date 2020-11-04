@@ -38,12 +38,20 @@ permission-dialog-set-change-app-link = Fren asnas-nniḍen.
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Fren asnas
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Ldi aseɣwen
     .buttonaccesskeyaccept = O
 chooser-dialog-description = Fren asnas i twaledyawt n useɣwen { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Seqdec yal tikkelt asnas-a i twaledyawt n yiseɣwan <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Aya yezmer ad yettubeddel deg textiṛiyin { -brand-short-name }.
+       *[other] Aya yezmer ad yettubeddel deg yismenyifen { -brand-short-name }.
+    }
 choose-other-app-description = Fren asnas-nniḍen
 choose-app-btn =
     .label = Fren…
