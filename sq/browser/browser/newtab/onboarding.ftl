@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Keni tashmë një llogari?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Hyni
 onboarding-start-browsing-button-label = Filloni të Shfletoni
+onboarding-not-now-button-label = Jo tani
 onboarding-cards-dismiss =
     .title = Hidhe tej
     .aria-label = Hidhe tej
