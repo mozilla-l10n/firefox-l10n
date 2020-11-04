@@ -6,5 +6,6 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Пра Glean
-about-glean-warning = Няправільнае выкарыстанне гэтага інтэрфейсу можа прывесці да збою{ -brand-short-name }.
+about-glean-warning = Няправільнае выкарыстанне гэтага інтэрфейсу можа прывесці да краху { -brand-short-name }.
+tag-pings-label = Пазначыць усе адпраўленыя пінгі гэтым тэгам
 send-pings-label = Даслаць названы пінг
