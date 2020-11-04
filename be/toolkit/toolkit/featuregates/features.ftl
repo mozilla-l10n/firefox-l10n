@@ -11,6 +11,10 @@ experimental-features-css-masonry-description = Актывуе падтрымк�
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
 experimental-features-media-avif-description = Калі гэтая функцыя ўключана, { -brand-short-name } будзе падтрымлiваць фармат файла выявы AV1 (AVIF). Гэта фармат файлаў нерухомых выяў, які выкарыстоўвае магчымасці алгарытмаў сціску відэа AV1 для памяншэння памеру выявы. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -50,6 +54,7 @@ experimental-features-devtools-compatibility-panel-description = Бакавая 
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Кукі: SameSite=Lax прадвызначана
+experimental-features-cookie-samesite-lax-by-default2-description = Тыпова трактаваць кукi як "SameSite=Lax", калі не вызначаны атрыбут "SameSite". Каб працаваць у рэжыме бягучага статус-кво неабмежаванага выкарыстання, распрацоўшчыкі павінны відавочна зацвердзiць "SameSite=None".
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Кукі: SameSite=None патрабуе атрыбута «secure»
@@ -58,8 +63,15 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Кэш запуску about:home
+experimental-features-abouthome-startup-cache-description = Кэш для пачатковага дакумента about:home, які прадвызначана загружаецца пры запуску. Мэта кэша - палепшыць прадукцыйнасць запуску.
 experimental-features-print-preview-tab-modal =
     .label = Перапрацаванае акно друку
+experimental-features-print-preview-tab-modal-description = Уводзiць перапрацаваны папярэдні прагляд друку і робіць яго даступным на macOS. Гэта патэнцыйна можа прывесцi да памылак і ўключае не ўсе налады, звязаныя з друкам. Каб атрымаць доступ да ўсіх налад, звязаных з друкам, выберыце "Друк з дапамогай сістэмнага дыялогу..." на панэлі "Друк".
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Кукі: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Трактаваць кукi з аднаго дамена, але з рознымі схемамі (напрыклад, http://example.com і https://example.com), як мiжсайтавыя, а не з аднаго сайта. Паляпшае бяспеку, але можа прывесцi да памылак.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Інструменты распрацоўшчыка: Адладка Service Worker
@@ -69,9 +81,14 @@ experimental-features-devtools-serviceworker-debugger-support-description = Ак
 experimental-features-graphics-desktop-zooming =
     .label = Графіка: плаўнае маштабаванне шчыпком
 experimental-features-graphics-desktop-zooming-description = Актываваць падтрымку плаўнага маштабавання шчыпком для дотыкавых экранаў і прэцызійных дотыкавых панэлей.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Глабальнае адключэнне гуку WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Дадае элементы кіравання ў глабальны індыкатар сумеснага доступу WebRTC, якія дазваляюць карыстальнікам глабальна адключыць мікрафон і каналы камеры.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Актываваць Warp, праект па паляпшэнні хуткасці JavaScript і памяншэнні выкарыстанай памяці.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (iзаляцыя сайта)
