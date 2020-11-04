@@ -383,6 +383,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Asiɣzef-a yettusenqed ɣef teɣzint n tɣellist
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Asiɣzef-a unṣib i bnan imesnulfuyen n { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Asiɣzef-a yettusenqed i wakken ara yemṣada d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
