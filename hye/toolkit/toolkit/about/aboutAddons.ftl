@@ -383,6 +383,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Այս ընդլայնումը վերանայուել է ծածկագրով՝ անվտանգութեան համար
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Սա պաշտաւնական ընդլայնում է, որը կառուցուել է { -brand-product-name } -ի ստեղծողների կողմից
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 

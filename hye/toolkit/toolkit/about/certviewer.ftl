@@ -106,6 +106,11 @@ certificate-viewer-critical-extension =
 certificate-viewer-export = Արտածել
     .download = { $fileName }.pem
 
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (անյայտ)
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Ձեր վկայագրերը
