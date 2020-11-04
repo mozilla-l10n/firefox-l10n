@@ -17,6 +17,7 @@ handler-dialog-host = <strong>{ $host }</strong> dëshiron të hapë një lidhje
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Të lejohet ky sajt të hapë lidhjen { $scheme }?
 
 ## Chooser dialog
 ## Variables:
