@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Aktivizoni kontrolle video për foto-në-foto
     .accesskey = A
 browsing-picture-in-picture-learn-more = Mësoni më tepër
+browsing-media-control-learn-more = Mësoni më tepër
 browsing-cfr-recommendations =
     .label = Rekomandoni zgjerime teksa shfletoni
     .accesskey = R
