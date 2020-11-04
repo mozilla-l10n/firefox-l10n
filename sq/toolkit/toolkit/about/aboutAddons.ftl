@@ -386,6 +386,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Kodi i këtij zgjerimi është shqyrtuar për parrezikshmëri
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Ky është një zgjerim zyrtar i ndërtuar nga krijuesit e { -brand-product-name }-it
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standardet tona për sigurinë dhe punimin.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -394,6 +400,9 @@ recent-updates-heading = Përditësime Së Fundi
 release-notes-loading = Po ngarkohet…
 release-notes-error = Na ndjeni, por pati një gabim gjatë ngarkimit të shënimeve të versionit.
 addon-permissions-empty = Ky zgjerim nuk lyp ndonjë leje
+addon-permissions-required = Leje të domosdoshme për funksione bazë:
+addon-permissions-optional = Leje opsionale për më tepër funksione:
+addon-permissions-learnmore = Mësoni më tepër rreth lejesh
 recommended-extensions-heading = Zgjerime të Këshilluara
 recommended-themes-heading = Tema të Këshilluara
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
