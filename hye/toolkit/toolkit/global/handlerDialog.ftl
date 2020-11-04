@@ -44,6 +44,14 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Բացել յղումը
     .buttonaccesskeyaccept = Բ
+chooser-dialog-description = Ընտրէք ծրագիրը { $scheme } -ի յղումը բացելու համար:
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Միշտ աւգտագործել այս ծրագիրը <strong> { $scheme } </strong> յղումները բացելու համար
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Սա կարող է փոփոխուել { -brand-short-name }’ -ի ընտրանքներում:
+       *[other] Սա կարող է փոփոխուել { -brand-short-name }’ -ի նախընտրանքներում:
+    }
 choose-other-app-description = Ընտրէք այլ ծրագիր
 choose-app-btn =
     .label = Ընտրել…
