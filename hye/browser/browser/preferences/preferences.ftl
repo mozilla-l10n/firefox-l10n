@@ -29,6 +29,8 @@ search-input-box =
            *[other] Գտնել Նախընտրութիւններում
         }
 managed-notice = Ձեր զննիչը կառաւարում է ձեր կազմակերպութիւնը։
+category-list =
+    .aria-label = Անուանակարգեր
 pane-general-title = Գլխաւոր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -426,6 +428,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Միացնում է նկարում-պատկերուած տեսանիւթի կառաւարները
     .accesskey = E
 browsing-picture-in-picture-learn-more = Իմանալ աւելին
+browsing-media-control =
+    .label = Վերահսկէք մեդիան ստեղնաշարի, ականջակալի կամ վերիրային միջերեսի միջոցով
+    .accesskey = մ
+browsing-media-control-learn-more = Իմանալ աւելին
 browsing-cfr-recommendations =
     .label = Առարջարկեք յաւելումներ՝ զննարկելիս
     .accesskey = R
@@ -490,6 +496,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Լավագոյն կայքեր
 home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
+home-prefs-topsites-by-option-sponsored =
+    .label = Հովանաւորուած լաւագոյն կայքերը
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

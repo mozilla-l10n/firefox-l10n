@@ -297,6 +297,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Անջատել ժամանակաւորապէս
 identity-https-only-info-turn-on2 = Միացնել HTTPS-Only կերպն այս կայքի համար, եթե ուզում էք, որպէսզի { -brand-short-name }֊ը հնարաւորութեան դէպքում կապը թարմացուի։
+identity-https-only-info-turn-off2 = Եթե էջը թուում է կոտրուած, կարող էք անջատել «Միայն HTTPS» աշխատակերպը, որպէսզի այս կայքը վերբեռնուի՝ աւգտագործելով անապահով HTTP:
 identity-https-only-info-no-upgrade = Հնարաւոր չէ նորացնել կապը HTTP -ում:
 identity-permissions =
     .value = Արտոնութիւններ
@@ -342,6 +343,9 @@ browser-window-restore-down-button =
     .tooltiptext = Վերականգնել
 browser-window-close-button =
     .tooltiptext = Փակել
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -446,8 +450,21 @@ urlbar-result-action-search-in-private = Որոնէք  մասնաւոր պատո
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Որոնել { $engine }-ով
+urlbar-result-action-sponsored = Հովանաւորուում է
 urlbar-result-action-switch-tab = Փոխարկել ներդիրը
 urlbar-result-action-visit = Այցելել
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Սեղմէք Tab, որպէսզի որոնէք { $engine }֊ով
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Սեղմէք Tab, որպէսզի որոնէք { $engine }֊ում
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).

@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Արդէն ունե՞ք հաշիւ։
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Մուտք գործել
 onboarding-start-browsing-button-label = Սկսել դիտարկումը
+onboarding-not-now-button-label = Ոչ հիմա
 onboarding-cards-dismiss =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
