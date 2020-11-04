@@ -962,6 +962,7 @@ content-blocking-cryptominers = Ikripṭuminaren
 content-blocking-fingerprinters = Idsilen umḍinen
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-and-isolating-etp-warning-description = Asewḥel n yineḍfaren d uɛzal n yinagan n tuqqna yezmer ad iḥaz tamahilt n kra n yismal. Smiren asebter s yineḍfaren akken ad d-yali ugbur meṛṛa.
+content-blocking-and-isolating-etp-warning-description-2 = Aɣewwar-a yezmer ad yerr kra n yismal web ur zuzuren ara agbur neɣ ur teddun ara akken iwata. Ma yella yella usmel i yettbanen yerreẓ, tzemreḍ ad tsenseḍ ammesten n uḍfr i usmel-a i wakken ad d-tsaliḍ akk agbur.
 content-blocking-warning-learn-how = Issin amek
 content-blocking-reload-description = Yessefk ad talseḍ asali n yiccaren-ik akken ad ddun ibeddilen-a.
 content-blocking-reload-tabs-button =
