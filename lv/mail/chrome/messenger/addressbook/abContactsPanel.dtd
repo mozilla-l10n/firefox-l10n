@@ -4,37 +4,46 @@
 
 <!ENTITY propertiesMenu.label               "Īpašības">
 <!ENTITY propertiesMenu.accesskey           "p">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Adrešu grāmatas īpašības">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Kontaktu īpašības">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Adresātu saraksta īpašības">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Parādīt adrešu grāmatas konteksta izvēlni">
+<!ENTITY addressbookPicker.label            "Adrešu grāmata:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "Meklēt kontaktus:">
+<!ENTITY searchContacts.accesskey           "n">
+<!ENTITY SearchNameOrEmail.label            "Vārds vai epasts">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY addtoToFieldMenu.label             "Pievienot Kam laukam">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Pievienot kopija laukam">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Pievienot Slēpta kopija laukam">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Dzēst">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY propertiesContext.label            "Īpašības">
 <!ENTITY propertiesContext.accesskey        "p">
 <!ENTITY abPropertiesContext.label          "Īpašības">
 <!ENTITY abPropertiesContext.accesskey      "p">
+<!ENTITY editContactContext.label           "Rediģēt kontaktu">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Rediģēt sarakstu">
+<!ENTITY editMailingListContext.accesskey   "E">
 
+<!ENTITY newContactAbContext.label          "Jauns kontakts">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Jauns saraksts">
+<!ENTITY newListAbContext.accesskey         "L">
 
-
-
-
-
-
-
-
-
+<!ENTITY toButton.label                     "Pievienot Kam:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Pievienot Kopija:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Pievienot Slēpta kopija:">
+<!ENTITY bccButton.accesskey                "B">

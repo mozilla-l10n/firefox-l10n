@@ -144,3 +144,13 @@
 <!ENTITY GenericPhoto.label             "Vispārīgs foto">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Noklusētais">
+<!ENTITY PhotoFile.label                "Šajā datorā">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Pārlūkot">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Tīmeklī">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Ievietojiet vai ierakstiet fotoattēla tīmekļa adresi">
+<!ENTITY UpdatePhoto.label              "Atjaunot">
+<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY PhotoDropTarget.label          "Ievelciet jaunu fotoattēlu šeit">
