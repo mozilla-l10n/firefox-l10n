@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Asali:
 videocontrols-volume-control =
     .aria-label = Ableɣ
+videocontrols-closed-caption-button =
+    .aria-label = Ttwamedlent tneffusin
