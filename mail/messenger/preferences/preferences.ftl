@@ -88,6 +88,7 @@ update-in-progress-ok-button = &Dileu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
+account-button = Gosodiadau'r Cyfrif
 addons-button = Estyniadau a Themâu
 
 ## OS Authentication dialog
