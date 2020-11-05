@@ -2,12 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Impostazioni account">
-
 <!ENTITY  accountManagerCloseButton.label "Chiudi">
 
 <!ENTITY accountActionsButton.label "Azioni account">
@@ -25,7 +22,7 @@
 <!ENTITY removeButton.label "Elimina account">
 <!ENTITY removeButton.accesskey "E">
 
-<!-- AccountManager.xul -->
+<!ENTITY addonsButton.label "Estensioni e temi">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
