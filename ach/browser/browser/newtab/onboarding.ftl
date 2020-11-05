@@ -90,6 +90,28 @@ return-to-amo-add-extension-label = Med Lamed
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Wajoli i <span data-l10n-name="zap">{ -brand-short-name }
+onboarding-multistage-welcome-primary-button-label = Cak Tero
+onboarding-multistage-welcome-secondary-button-label = Dony iyie
+onboarding-multistage-welcome-secondary-button-text = Itye ki akaunt?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Kel ki woko mung me donyo mamegi, <br/>alama buk, ki <span data-l10n-name="zap">mapol</span>
+onboarding-multistage-import-subtitle = Itye kabino ki i layeny mukene? Yot tutwal me kelo ki woko jami weng i { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Cak Kelo ki woko
+onboarding-multistage-import-secondary-button-label = Pe kombedi
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Yer <span data-l10n-name="zap">neno</span>
+onboarding-multistage-theme-secondary-button-label = Pe kombedi
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Timo pire kene
+onboarding-multistage-theme-label-light = Ryeny
+onboarding-multistage-theme-label-dark = Col
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -118,6 +140,9 @@ onboarding-firefox-send-title = Gwok Pwail Mamegi ma Inywako I Mung
 onboarding-firefox-send-button = Tem { -send-brand-name }
 onboarding-mobile-phone-title = Nong { -brand-product-name } i Cim mamegi
 onboarding-mobile-phone-text = GAm { -brand-product-name } pi iOS onyo Android ka i rib data mamegi i nyonyo weng.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Gam Layeny me Cim
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Nywak iyoo mayot potbukke ikin nyonyo mamegi labongo mite me loko kakube onyo weko layeny.
