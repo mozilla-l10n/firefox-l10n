@@ -27,6 +27,20 @@ about-processes-column-cpu-total = CPU
 about-processes-browser-process-name = { -brand-short-name } (프로세스 { $pid })
 about-processes-web-process-name = 웹 (프로세스 { $pid }, 공유됨)
 about-processes-web-isolated-process-name = { $origin }에 대한 웹 (프로세스 { $pid })
+about-processes-web-large-allocation = { $origin }에 대한 웹 (프로세스 { $pid }, 큼)
+about-processes-with-coop-coep-process-name = { $origin }에 대한 웹 (프로세스 { $pid }, 교차 원본 격리됨)
+about-processes-file-process-name = 파일 (프로세스 { $pid })
+about-processes-extension-process-name = 확장 기능 (프로세스 { $pid })
+about-processes-privilegedabout-process-name = 정보 (프로세스 { $pid })
+about-processes-plugin-process-name = 플러그인 (프로세스 { $pid })
+about-processes-privilegedmozilla-process-name = { -vendor-short-name } 사이트에 대한 웹 (프로세스 { $pid })
+about-processes-gmp-plugin-process-name = Gecko 미디어 플러그인 (프로세스 { $pid })
+about-processes-gpu-process-name = GPU (프로세스 { $pid })
+about-processes-vr-process-name = VR (프로세스 { $pid })
+about-processes-rdd-process-name = 데이터 디코더 (프로세스 { $pid })
+about-processes-socket-process-name = 네트워크 (프로세스 { $pid })
+about-processes-remote-sandbox-broker-process-name = 원격 샌드박스 브로커 (프로세스 { $pid })
+about-processes-fork-server-process-name = 포크 서버 (프로세스 { $pid })
 
 ## Details within processes
 
