@@ -31,15 +31,19 @@ about-processes-browser-process-name = { -brand-short-name } (folyamat: { $pid }
 about-processes-web-process-name = Web (folyamat: { $pid }, megosztott)
 about-processes-web-isolated-process-name = Web (folyamat: { $pid }) ehhez: { $origin }
 about-processes-web-large-allocation = Web (folyamat: { $pid }, nagy) ehhez: { $origin }
+about-processes-with-coop-coep-process-name = Web (folyamat: { $pid }, eredet szerint elkülönített) ehhez: { $origin }
 about-processes-file-process-name = Fájlok (folyamat: { $pid })
 about-processes-extension-process-name = Kiegészítők (folyamat: { $pid })
 about-processes-privilegedabout-process-name = Névjegy (folyamat: { $pid })
 about-processes-plugin-process-name = Bővítmények (folyamat: { $pid })
 about-processes-privilegedmozilla-process-name = Web (folyamat:  { $pid }) a(z) { -vendor-short-name } webhelyeihez
+about-processes-gmp-plugin-process-name = Gecko médiabővítmények (folyamat: { $pid })
 about-processes-gpu-process-name = GPU (folyamat: { $pid })
 about-processes-vr-process-name = VR (folyamat: { $pid })
 about-processes-rdd-process-name = Adatdekóder (folyamat: { $pid })
 about-processes-socket-process-name = Hálózat (folyamat: { $pid })
+about-processes-remote-sandbox-broker-process-name = Távoli homokozóbróker (folyamat: { $pid })
+about-processes-fork-server-process-name = Fork-kiszolgáló (folyamat: { $pid })
 about-processes-preallocated-process-name = Előre kiosztott (folyamat: { $pid })
 about-processes-unknown-process-name = Egyéb ({ $type }, folyamat: { $pid })
 # Process
@@ -66,6 +70,15 @@ about-processes-thread-name = { $tid }. szál: { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Lap: { $name }
 about-processes-preloaded-tab = Előre betöltött Új lap
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Részkeret: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Részkeretek ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -76,6 +89,12 @@ about-processes-preloaded-tab = Előre betöltött Új lap
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (mérés folyamatban)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = tétlen ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -88,9 +107,27 @@ about-processes-preloaded-tab = Előre betöltött Új lap
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = mp
+duration-unit-m = p
+duration-unit-h = ó
+duration-unit-d = n
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
