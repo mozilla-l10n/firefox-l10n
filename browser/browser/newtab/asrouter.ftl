@@ -251,6 +251,7 @@ cfr-doorhanger-doh-secondary-button = ปิดใช้งาน
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = ความเป็นส่วนตัวของคุณสำคัญ ขณะนี้ { -brand-short-name } จะแยกหรือแซนด์บ็อกซ์เว็บไซต์ออกจากกัน เพื่อให้แฮกเกอร์ขโมยรหัสผ่าน หมายเลขบัตรเครดิต และข้อมูลที่ละเอียดอ่อนอื่น ๆ ได้ยากขึ้น
 cfr-doorhanger-fission-header = การแยกไซต์
 cfr-doorhanger-fission-primary-button = ตกลง เข้าใจแล้ว
     .accesskey = O
