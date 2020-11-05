@@ -27,7 +27,10 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process-name = { -brand-short-name } (tapereko { $pid })
 about-processes-web-process-name = Ñanduti (tapereko { $pid }, moherakuãmbyre)
+about-processes-file-process-name = Marandurenda (tapereko { $pid })
 about-processes-privilegedabout-process-name = (tapereko { $pid }) rehegua
+about-processes-plugin-process-name = Moĩmbaha (tapereko { $pid })
+about-processes-privilegedmozilla-process-name = Ñanduti (tapereko { $pid }) { -vendor-short-name } rendápe g̃uarã
 about-processes-gpu-process-name = GPU (tapereko { $pid })
 
 ## Details within processes
