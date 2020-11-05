@@ -18,13 +18,21 @@ handler-dialog-host = ‏<strong>{ $host }</strong> רוצה לפתוח קישו
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = האם לאפשר לאתר זה לפתוח את הקישור מסוג { $scheme }?
+permission-dialog-description-file = האם לאפשר לקובץ זה לפתוח את הקישור מסוג { $scheme }?
 permission-dialog-description-host = האם לאפשר ל־{ $host } לפתוח את הקישור מסוג { $scheme }?
 permission-dialog-description-app = האם לאפשר לאתר זה לפתוח את הקישור מסוג { $scheme } באמצעות { $appName }?
 permission-dialog-description-host-app = האם לאפשר ל־{ $host } לפתוח את הקישור מסוג { $scheme } באמצעות { $appName }?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = האם לאפשר לקובץ זה לפתוח את הקישור מסוג { $scheme } באמצעות { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = תמיד לאפשר ל־<strong>{ $host }</strong> לפתוח קישורים מסוג <strong>{ $scheme }</strong>
+permission-dialog-remember-file = תמיד לאפשר לקובץ זה לפתוח קישורים מסוג <strong>{ $scheme }</strong>
+
+##
+
 permission-dialog-btn-open-link =
     .label = פתיחת קישור
     .accessKey = פ

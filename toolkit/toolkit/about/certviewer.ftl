@@ -42,6 +42,9 @@ certificate-viewer-public-value = ערך ציבורי
 certificate-viewer-purposes = מטרות
 certificate-viewer-required = נדרש
 certificate-viewer-unsupported = &lt;לא נתמך&gt;
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = מדינה/מחוז הארגון
+certificate-viewer-state-province = מדינה/מחוז
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = מספר סידורי
