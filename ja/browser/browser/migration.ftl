@@ -59,6 +59,11 @@ import-items-page-title = インポートする項目
 
 import-items-description = インポートする項目を選択してください:
 
+import-permissions-page-title = { -brand-short-name } に権限が必要
+
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS で Safari のブックマークにアクセスするには、{ -brand-short-name } に明示的な許可が必要です。[続行] をクリックして、表示されるファイルを開くダイアログで “Bookmarks.plist” ファイルを選択してください。
+
 import-migrating-page-title = インポートしています...
 
 import-migrating-description = 次の項目を現在インポートしています...
