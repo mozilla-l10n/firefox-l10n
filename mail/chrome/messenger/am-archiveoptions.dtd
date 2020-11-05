@@ -5,7 +5,7 @@
 <!-- extracted from am-archiveoptions.xhtml -->
 
 <!ENTITY dialogTitle.label "Arhīva iestatījumi">
-<!ENTITY archiveGranularityPrefix.label "Arhivējot ziņojumus, likt tos:">
+<!ENTITY archiveGranularityPrefix.label "Arhivējot vēstules, likt tās:">
 <!ENTITY archiveFlat.label "Vienā mapē">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Ikgadēji arhivētās mapēs">
