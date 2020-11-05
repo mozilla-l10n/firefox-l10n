@@ -17,6 +17,9 @@ about-processes-shutdown-tab =
 
 ## Column headers
 
+about-processes-column-name = Nome
+about-processes-column-memory-resident = Memória
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -24,6 +27,21 @@ about-processes-shutdown-tab =
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (processo { $pid })
+about-processes-web-process-name = Web (processo { $pid }, compartilhado)
+about-processes-web-isolated-process-name = Web (processo { $pid }) de { $origin }
+about-processes-web-large-allocation = Web (processo { $pid }, grande) de { $origin }
+about-processes-with-coop-coep-process-name = Web (processo { $pid }, isolado de origem cruzada) de { $origin }
+about-processes-file-process-name = Arquivos (processo { $pid })
+about-processes-extension-process-name = Extensões (processo { $pid })
+about-processes-privilegedabout-process-name = Sobre (processo { $pid })
+about-processes-plugin-process-name = Plugins (processo { $pid })
+about-processes-privilegedmozilla-process-name = Web (processo { $pid }) de sites { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Plugins de mídia Gecko (processo { $pid })
+about-processes-gpu-process-name = GPU (processo { $pid })
+about-processes-vr-process-name = Realidade virtual (processo { $pid })
+about-processes-rdd-process-name = Decodificador de dados (processo { $pid })
+about-processes-socket-process-name = Rede (processo { $pid })
 
 ## Details within processes
 
