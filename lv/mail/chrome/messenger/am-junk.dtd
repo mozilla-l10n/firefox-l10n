@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY junkSettings.label "Mēstuļu iestatījumi">
+<!ENTITY trainingDescription.label "Ja tas ieslēgts, vispirms jāapmāca &brandShortName; lai noteiktu nevēlamo pastu, izmantojot rīkjoslas pogu Mēstules, lai atzīmētu ziņojumus kā mēstules vai ne. Jums jāatzīmē gan nevēlami, gan vēlami ziņojumi. Pēc tam &brandShortName; varēs automātiski atzīmēt nevēlamo saturu.">
+<!ENTITY level.label "Ieslēgt adaptīvu mēstuļu vadīklu šim kontam">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "Pārvietot jaunus mēstules uz:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "&quot;Mēstules&quot; mape:">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "Cits:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Automātiski izdzēst mēstules, kas vecākas par">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "dienas">
+
+<!ENTITY whitelistHeader.label "Neatzīmēt pastu automātiski kā mēstuli, ja sūtītājs ir:">
+<!ENTITY whitelistHeader.accesskey "D">
+
+<!ENTITY ispHeadersWarning.label "Ja tas ieslēgts, &brandShortName; automātiski uzskatīs par mēstulēm vēstules, kurus par mēstulēm atzīs ārējs klasifikators.">
+
+
