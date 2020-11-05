@@ -2,43 +2,46 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-addressing.xul -->
-
-
-<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-
-
-
-<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-
 <!-- extracted from am-addressing.xhtml -->
 
+<!ENTITY addressing.label          "Salikums &amp; adresēšana">
+<!ENTITY addressingGroupTitle.label "Adresēšana">
+<!ENTITY addressingText.label      "Meklējot adreses:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Šim kontam izmantot manus globālos LDAP servera iestatījumus">
+<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY editDirectories.label     "Rediģēt katalogus…">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Izmantot citu LDAP serveri:">
+<!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Nekas">
-
-<!-- am-addressing.xul -->
-
 
 <!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Kompozīcija">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Salikt ziņojumus HTML formātā">
+<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY autoQuote.label                      "Atbildot, automātiski citēt sākotnējo ziņojumu">
+<!ENTITY autoQuote.accesskey                  "m">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Citējot,">
+<!ENTITY quoting.accesskey                    "q">
+<!ENTITY aboveQuote.label                     "sākt manu atbildi virs citāta">
+<!ENTITY belowQuote.label                     "sākt manu atbildi zem citāta">
+<!ENTITY selectAndQuote.label                 "izvēlieties citātu">
+<!ENTITY place.label                          "un ievietot manu parakstu">
+<!ENTITY place.accesskey                      "s">
+<!ENTITY belowText.label                      "zem citāta (ieteicams)">
+<!ENTITY aboveText.label                      "zem manas atbildes (virs citāta)">
+<!ENTITY includeSigOnReply.label              "Atbildēs iekļaut parakstu">
+<!ENTITY includeSigOnReply.accesskey          "I">
+<!ENTITY includeSigOnForward.label            "Pārsūtot iekļaut parakstu">
+<!ENTITY includeSigOnForward.accesskey        "w">
 
+<!ENTITY globalComposingPrefs.label           "Globālie salikšanas iestatījumi…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
 
-
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY globalAddressingPrefs.label          "Globālie adresēšanas iestatījumi…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
