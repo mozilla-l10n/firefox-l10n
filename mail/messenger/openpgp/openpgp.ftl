@@ -558,6 +558,14 @@ invalid-email = Gabim - adresë(a) email e pavlefshme
 attachment-pgp-key =
     Bashkëngjitja '{ $name }' që po hapni duket të jetë një kartelë kyçi OpenPGP.
     Klikoni mbi “Importoje” që të importohen kyçet që përmban, ose “Shiheni” që të shihni lëndën e kartelës në një dritare shfletuesi
+dlg-button-view = &Shiheni
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Mesazh i shfshehtëzuar (u rikthyer format i dëmtuar email-i PGP, shkaktuar ndoshta nga një shërbyes i vjetër Exchange, ndaj përfundimi mund të mos jetë i përsosur për lexim)
+# Strings used in encryption.jsm
+not-required = Gabimi - s’lyp fshehtëzim
+# Strings used in windows.jsm
+no-photo-available = S’ka Foto
+error-photo-path-not-readable = Shtegu '{ $photo }' për foto s’është i lexueshëm
 debug-log-title = Regjistër Diagnostikimi OpenPGP-je
 # Strings used in dialog.jsm
 repeat-prefix = Ky sinjalizim do të përsëritet { $count }
@@ -569,6 +577,13 @@ dlg-button-ok = &OK
 dlg-button-close = &Mbylle
 dlg-button-cancel = &Anuloje
 dlg-no-prompt = Mos ma shfaq më këtë dialog
+enig-prompt = Kërkesë OpenPGP
+enig-confirm = Ripohim OpenPGP
+enig-alert = Sinjalizim OpenPGP
+enig-info = Informacion OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Riprovo
+dlg-button-skip = &Anashkaloje
 # Strings used in enigmailCommon.js
 enig-error = Gabim OpenPGP
 enig-alert-title =
