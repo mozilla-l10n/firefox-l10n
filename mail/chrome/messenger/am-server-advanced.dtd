@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY serverAdvanced.label "Papildu konta iestatījumi">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP servera katalogs:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Rādīt tikai abonētās mapes">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "Serveris atbalsta mapes, kas satur apakšmapes un vēstules">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY maximumConnectionsNumber.label "Maksimālais kešoto servera savienojumu skaits">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Šie iestatījumi nosaka jūsu IMAP servera nosaukumvietas">
+<!ENTITY personalNamespace.label "Personiskā nosaukumvieta:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Publiskā (koplietota):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "Citi lietotāji:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Ļaut serverim ignorēt šīs nosaukumvietas">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3DeferringDesc.label "Lejuplādējot epastu no šī konta servera, jaunu vēstuļu glabāšanai izmantot šo mapi:">
+<!ENTITY accountInbox.label "Šī konta iesūtne">
+<!ENTITY accountInbox.accesskey "s">
+<!ENTITY deferToServer.label "Cita konta iesūtne">
+<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferGetNewMail.label "Saņemot jaunu pastu, iekļaut šo serveri">
+<!ENTITY deferGetNewMail.accesskey "I">

@@ -37,7 +37,7 @@
 <!ENTITY offlineImapAdvancedOffline.label "Papildu…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Vēstuļu sinhronizēšana">
-<!ENTITY diskspaceGroupTitle.label "Vieta diskā">
+<!ENTITY diskspaceGroupTitle.label "Diska vieta">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -45,5 +45,13 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.label               "Sinhronizēt visas vēstules lokāli neatkarīgi no vecuma">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Sinhronizēt pašas jaunākās">
+<!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Dienas">
+<!ENTITY weekAgeInterval.label           "Nedēļas">
+<!ENTITY monthAgeInterval.label          "Mēneši">
+<!ENTITY yearAgeInterval.label           "Gadi">
 <!ENTITY ageAutosyncAfter.label          "">
