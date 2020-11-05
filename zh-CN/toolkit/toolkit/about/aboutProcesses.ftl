@@ -28,6 +28,10 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name }（进程 { $pid }）
+about-processes-web-process-name = 网页（进程 { $pid }，共享）
+about-processes-web-isolated-process-name = 网页（进程 { $pid }）：{ $origin }
+about-processes-web-large-allocation = 网页（进程 { $pid }，大型）：{ $origin }
+about-processes-with-coop-coep-process-name = 网页（进程 { $pid }，隔离跨源）：{ $origin }
 about-processes-file-process-name = 文件（进程 { $pid }）
 about-processes-extension-process-name = 扩展（进程 { $pid }）
 about-processes-privilegedabout-process-name = 关于页（进程 { $pid }）
@@ -38,6 +42,7 @@ about-processes-gpu-process-name = GPU（进程 { $pid }）
 about-processes-vr-process-name = VR（进程 { $pid }）
 about-processes-rdd-process-name = 数据解码器（进程 { $pid }）
 about-processes-socket-process-name = 网络（进程 { $pid }）
+about-processes-remote-sandbox-broker-process-name = 远程沙箱中介（进程 { $pid }）
 about-processes-fork-server-process-name = Fork 服务器（进程 { $pid }）
 about-processes-preallocated-process-name = 预分配（进程 { $pid }）
 about-processes-unknown-process-name = 其他（{ $type }，进程 { $pid }）
@@ -64,6 +69,11 @@ about-processes-thread-name = 线程 { $tid }: { $name }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = 标签页: { $name }
+about-processes-preloaded-tab = 预加载的新标签页
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = 子帧：{ $url }
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -81,6 +91,10 @@ about-processes-frame-name-many = 子帧（{ $number }）: { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }（{ NUMBER($total, maximumFractionDigits: 0) }{ $unit }）
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = （测量中）
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = 闲置（{ NUMBER($total, maximumFractionDigits: 2) }{ $unit }）
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -93,9 +107,16 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }（{ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }）
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
 duration-unit-s = 秒
 duration-unit-m = 分
 duration-unit-h = 时
@@ -103,6 +124,8 @@ duration-unit-d = 天
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB
 memory-unit-MB = MB
 memory-unit-GB = GB
 memory-unit-TB = TB
