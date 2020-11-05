@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong>이(가) <strong>{ $scheme }</st
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = 이 사이트에서 { $scheme } 링크를 열도록 허용하시겠습니까?
+permission-dialog-description-file = 이 파일이 { $scheme } 링크를 열도록 허용하시겠습니까?
 permission-dialog-description-host = { $host }에서 { $scheme } 링크를 열도록 허용하시겠습니까?
 permission-dialog-description-app = 이 사이트에서 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
 permission-dialog-description-host-app = { $host }에서 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = 이 파일이 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = <strong>{ $host }</strong>(이)가 <strong>{ $scheme }</strong> 링크를 열도록 항상 허용
+permission-dialog-remember-file = 이 파일이 <strong>{ $scheme }</strong> 링크를 열도록 항상 허용
+
+##
+
 permission-dialog-btn-open-link =
     .label = 링크 열기
     .accessKey = O

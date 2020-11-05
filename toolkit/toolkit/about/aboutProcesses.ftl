@@ -4,6 +4,9 @@
 
 # Page title
 about-processes-title = 프로세스 관리자
+# The Actions column
+about-processes-column-action =
+    .title = 작업
 
 ## Tooltips
 
@@ -41,9 +44,41 @@ about-processes-rdd-process-name = 데이터 디코더 (프로세스 { $pid })
 about-processes-socket-process-name = 네트워크 (프로세스 { $pid })
 about-processes-remote-sandbox-broker-process-name = 원격 샌드박스 브로커 (프로세스 { $pid })
 about-processes-fork-server-process-name = 포크 서버 (프로세스 { $pid })
+about-processes-preallocated-process-name = 사전 할당 (프로세스 { $pid })
+about-processes-unknown-process-name = 기타 ({ $type }, 프로세스 { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = 프로세스 { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = 스레드 ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = 스레드 { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = 탭: { $name }
+about-processes-preloaded-tab = 사전 로드된 새 탭
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = 서브 프레임: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = 서브 프레임 ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -54,6 +89,12 @@ about-processes-fork-server-process-name = 포크 서버 (프로세스 { $pid })
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (측정 중)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = 유휴 ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -66,6 +107,10 @@ about-processes-fork-server-process-name = 포크 서버 (프로세스 { $pid })
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
