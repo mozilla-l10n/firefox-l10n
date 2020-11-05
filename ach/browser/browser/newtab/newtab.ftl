@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Yeny
     .aria-label = Yeny
-
 newtab-search-box-search-the-web-text = Yeny kakube
 newtab-search-box-search-the-web-input =
     .placeholder = Yeny kakube
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Yub Kakube maloyo
 newtab-topsites-title-label = Wiye madit
 newtab-topsites-title-input =
     .placeholder = Ket wiye
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Coo onyo mwon URL
 newtab-topsites-url-validation = URL ma tye atir mite
-
 newtab-topsites-image-url-label = URL me cal ma kiyubo
 newtab-topsites-use-image-link = Tii ki cal ma kiyubo…
 newtab-topsites-image-validation = Cano cal pe olare. Tem URL mukene.
@@ -54,18 +51,19 @@ newtab-confirm-delete-history-p1 = Imoko ni imito kwanyo nyig jami weng me potbu
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Pe ki twero gonyo tic man.
 
+## Top Sites - Sponsored label
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Yab jami ayera
     .aria-label = Yab jami ayera
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kwany
     .aria-label = Kwany
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -163,12 +161,10 @@ newtab-section-header-pocket = Lami tam obedo { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cak yeny, ka wa binyuto coc akwana mabeco, video, ki potbuk mukene ma ilimo cokcokki onyo ma kiketo alamabuk kany.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ityeko weng. Rot doki lacen pi lok madito mapol ki bot { $provider }. Pe itwero kuro? Yer lok macuke lamal me nongo lok mabeco mapol ki i but kakube.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -183,6 +179,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oops! Manok kono onongo wa
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Lok macuk gi lamal:
+newtab-pocket-learn-more = Nong ngec mapol
 newtab-pocket-cta-button = Nong { -pocket-brand-name }
 newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik wii ki jami me akwana ma mako wii.
 
