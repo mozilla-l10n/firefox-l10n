@@ -28,15 +28,45 @@ about-processes-column-cpu-total = מעבד
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (מזהה תהליך { $pid })
-about-processes-web-process-name = רשת (מזהה תהליך { $pid }, משותף)
-about-processes-web-isolated-process-name = רשת (מזהה תהליך { $pid }) עבור { $origin }
+about-processes-web-process-name = אינטרנט (מזהה תהליך { $pid }, משותף)
+about-processes-web-isolated-process-name = אינטרנט (מזהה תהליך { $pid }) עבור { $origin }
 about-processes-file-process-name = קבצים (מזהה תהליך { $pid })
 about-processes-extension-process-name = הרחבות (מזהה תהליך { $pid })
 about-processes-plugin-process-name = תוספים חיצוניים (מזהה תהליך { $pid })
-about-processes-privilegedmozilla-process-name = רשת (מזהה תהליך { $pid }) עבור אתרים של { -vendor-short-name }
+about-processes-privilegedmozilla-process-name = אינטרנט (מזהה תהליך { $pid }) עבור אתרים של { -vendor-short-name }
+about-processes-gmp-plugin-process-name = תוספי מדיה של Gecko (מזהה תהליך { $pid })
+about-processes-gpu-process-name = מעבד גרפי (מזהה תהליך { $pid })
+about-processes-rdd-process-name = מפענח נתונים (מזהה תהליך { $pid })
+about-processes-socket-process-name = רשת (מזהה תהליך { $pid })
+about-processes-unknown-process-name = אחר ({ $type }, מזהה תהליך { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = מזהה תהליך { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = תהליכונים ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = מזהה תהליכון { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = לשונית: { $name }
+about-processes-preloaded-tab = לשונית חדשה טעונה מראש
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = מסגרת משנה: { $url }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
