@@ -51,6 +51,7 @@ certificate-viewer-timestamp = חותמת זמן
 certificate-viewer-value = ערך
 certificate-viewer-version = גרסה
 certificate-viewer-business-category = קטגוריית עסקים
+certificate-viewer-issuer-name = שם המנפיק
 certificate-viewer-public-key-info = מידע מפתח ציבורי
 certificate-viewer-miscellaneous = שונות
 certificate-viewer-fingerprints = טביעות אצבע
