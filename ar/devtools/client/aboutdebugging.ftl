@@ -22,6 +22,9 @@ about-debugging-this-firefox-runtime-name = { -brand-shorter-name } هذا
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = الإعداد
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = الربط عبر USB يعمل
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
