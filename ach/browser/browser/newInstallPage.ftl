@@ -8,17 +8,14 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Lok angeya ma pire tek
-
 changed-title = Ngo ma oloke?
-
 options-title = Ngo ma atwero timo?
-
 resources = Jami me tic:
-
 sync-header = Dony iyie onyo cwe { -fxaccount-brand-name }
 sync-label = Ket email mamegi
 sync-input =
     .placeholder = Email
 sync-button = Mede
 sync-terms = Mede, nyuto ni iyee <a data-l10n-name="terms">Cik me Tic</a> ki <a data-l10n-name="privacy">Cik me Mung</a>.
+sync-first = Tyeni mukwongo me tic ki { -sync-brand-name }? Bi mite ki yin me donyo iyie Firefox weng ma kiketo me ribo ngec mamegi.
 sync-learn = Nong ngec mapol
