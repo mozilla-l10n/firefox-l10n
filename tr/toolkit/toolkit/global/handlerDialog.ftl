@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> bir <strong>{ $scheme }</strong
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Bu site { $scheme } bağlantısını açabilsin mi?
+permission-dialog-description-file = Bu dosya { $scheme } bağlantısını açabilsin mi?
 permission-dialog-description-host = { $host } sitesi { $scheme } bağlantısını açabilsin mi?
 permission-dialog-description-app = Bu site { $scheme } bağlantısını { $appName } ile açabilsin mi?
 permission-dialog-description-host-app = { $host } sitesi { $scheme } bağlantısını { $appName } ile açabilsin mi?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Bu dosya { $scheme } bağlantısını { $appName } ile açabilsin mi?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = <strong>{ $host }</strong> sitesinin <strong>{ $scheme }</strong> bağlantılarını açmasına her zaman izin ver
+permission-dialog-remember-file = <strong>{ $scheme }</strong> bağlantılarını açmak için bu dosyaya her zaman izin ver
+
+##
+
 permission-dialog-btn-open-link =
     .label = Bağlantıyı aç
     .accessKey = B
