@@ -491,10 +491,15 @@ gen-going = Prodhim kyçesh tashmë në kryerje e sipër!
 keygen-missing-user-name = S’ka emër të specifikuar për llogarinë/identitetin e përzgjedhur. Ju lutemi, jepni një vlerë te fusha “Emri juaj”, te rregullimet e llogarisë.
 expiry-too-short = Kyçi juaj duhet të jetë i vlefshëm për të paktën një ditë.
 expiry-too-long = S’mund të krijoni një kyç që skadon pas më shumë se 100 vjetëve.
+key-confirm = Të prodhohet kyç publik dhe i fshehtë për '{ $id }'?
+key-man-button-generate-key = &Prodho Kyç
 key-abort = Të ndërpritet prodhimi i kyçit?
+key-man-button-generate-key-abort = &Ndërprite Prodhimin e Kyçit
+key-man-button-generate-key-continue = &Vazhdo Prodhimin e Kyçit
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Gabim - shfshehtëzimi dështoi
 fix-broken-exchange-msg-failed = S’pat sukses në riparimin e mesazhit.
+attachment-no-match-from-signature = S’u përputh dot kartela e nënshkrimit '{ $attachment }' me ndonjë bashkëngjitje
 msg-compose-details-button-label = Hollësi…
 msg-compose-details-button-access-key = H
 msg-compose-internal-error = Ndodhi një gabim i brendshëm.
