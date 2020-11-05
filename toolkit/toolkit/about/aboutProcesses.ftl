@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Inaktivera flikar och avsluta processen
 about-processes-shutdown-tab =
     .title = Stäng flik
 
