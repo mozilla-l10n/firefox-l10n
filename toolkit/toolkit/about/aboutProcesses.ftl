@@ -93,6 +93,8 @@ about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "prosint") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (wurdt mjitten)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = ynaktyf ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -105,9 +107,27 @@ about-processes-cpu-user-and-kernel-not-ready = (wurdt mjitten)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = o
+duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = kB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
