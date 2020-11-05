@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "Fonētiski:">
 <!ENTITY DisplayName.label              "Rādīt:">
 <!ENTITY DisplayName.accesskey          "D">
-<!ENTITY preferDisplayName.label        "Vienmēr dot priekšroku rādītajam vārdam, nevis ziņojuma galvenei">
+<!ENTITY preferDisplayName.label        "Vienmēr dot priekšroku rādītajam vārdam, nevis vēstules galvenei">
 <!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Segvārds:">
 <!ENTITY NickName.accesskey             "N">
@@ -40,7 +40,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Papildu epasts:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Dod priekšroku ziņojumiem, kas noformēti šādi:">
+<!ENTITY PreferMailFormat.label         "Dod priekšroku vēstulēm, kas noformētas šādi:">
 <!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Vienkāršs teksts">
 <!ENTITY HTML.label                     "HTML">

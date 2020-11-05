@@ -49,7 +49,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Atstāt ziņojumus serverī">
+<!ENTITY leaveMsgsOnSrvr.label "Atstāt vēstules serverī">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!ENTITY portNum.label "Ports:">
 <!ENTITY portNum.accesskey "o">
@@ -118,7 +118,7 @@
 <!ENTITY serverNamePrefix.label "Ienākošā servera nosaukums:">
 <!ENTITY smtpServerNamePrefix.label "Izejošā servera nosaukums (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ziņu servera nosaukums (NNTP):">
-<!ENTITY downloadOnLogin.label "Lejuplādēt ziņojumus tagad">
+<!ENTITY downloadOnLogin.label "Lejuplādēt vēstules tagad">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Noņemiet atzīmi no šīs izvēles rūtiņas, lai šī konta vēstules glabātu savā mapē. Tad šis konts tiks parādīts kā augstākā līmeņa konts. Pretējā gadījumā tas būs globālās iesūtnes lokālo mapju daļa.">
 <!ENTITY deferStorage.label "Izmantot globālo iesūtni (saglabāt pastu lokālās mapēs)">

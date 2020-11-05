@@ -21,9 +21,9 @@
 
 <!ENTITY compositionGroupTitle.label          "Kompozīcija">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Salikt ziņojumus HTML formātā">
+<!ENTITY useHtml.label                        "Salikt vēstules HTML formātā">
 <!ENTITY useHtml.accesskey                    "C">
-<!ENTITY autoQuote.label                      "Atbildot, automātiski citēt sākotnējo ziņojumu">
+<!ENTITY autoQuote.label                      "Atbildot, automātiski citēt sākotnējo vēstuli">
 <!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Citējot,">
