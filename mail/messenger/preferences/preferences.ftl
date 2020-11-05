@@ -88,6 +88,7 @@ update-in-progress-ok-button = &Zaćisnyć
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
+account-button = Kontowe nastajenja
 addons-button = Rozšěrjenja a drasty
 
 ## OS Authentication dialog
