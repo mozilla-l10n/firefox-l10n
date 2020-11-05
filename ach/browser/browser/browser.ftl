@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -99,9 +99,15 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Coo manok, nong mapol: Yeny { $engineName } atir ki ii lanyut me kanonge mamegi.
 urlbar-search-tips-redirect-2 = Cak yeny mamegi ki i lanyut me kanonge me neno tam amia ki bot { $engineName } ki yeny mamegi mukato.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Yer yoo macek man me nongo ngo ma imito oyot.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Alama buk
+urlbar-search-mode-tabs = Dirica matino
+urlbar-search-mode-history = Gin mukato
 
 ##
 
@@ -195,7 +201,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Iwangi, yeny ki:
 # This string won't wrap, so if the translated string is longer,
@@ -285,6 +291,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Lor
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -305,6 +314,8 @@ popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Yeny onyo ket kanonge
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Yeny onyo ket kanonge
 # Variables

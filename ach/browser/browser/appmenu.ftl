@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = Gamo ngec manyen pi { -brand-shorter-name }
 appmenuitem-customize-mode =
     .label = Yiki…
 
@@ -23,4 +25,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ngo Manyen
-
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Mi ngec pi jami manyen
+    .accesskey = m
