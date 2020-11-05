@@ -544,14 +544,20 @@ no-temp-dir =
     Ju lutemi, caktoni ndryshoren TEMP të mjedisit
 possibly-pgp-mime = Mesazh mundet i fshehtëzuar ose nënshkruar me PGP/MIME; përdorni funksionin 'Shfshehtëzoje/Verifikoje' për ta verifkuar
 cannot-send-sig-because-no-own-key = S’nënshkruhet dot në mënyrë dixhitale ky mesazh, ngaqë s’keni formësuar ende fshehtëzim skaj-më-skaj për <{ $key }>
+cannot-send-enc-because-no-own-key = S’mund të dërgohet i fshehtëzuar ky mesazh, ngaqë s’keni formësuar ende fshehtëzim skaj-më-skaj për <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Të importohen kyçet vijues?
     { $key }
 do-import-one = Të importohet { $name } ({ $id })?
 cant-import = Gabim në importim kyçi publik
+unverified-reply = Pjesa e mesazhit me shmangie kryeradhe  (përgjigje) ka gjasa të jetë ndryshuar
+key-in-message-body = U gjet një kyç te lënda e mesazhit. Klikoni mbi “Importo Kyç” që të importohet kyçi
 sig-mismatch = Gabim - Mospërputhje nënshkrimesh
 invalid-email = Gabim - adresë(a) email e pavlefshme
+attachment-pgp-key =
+    Bashkëngjitja '{ $name }' që po hapni duket të jetë një kartelë kyçi OpenPGP.
+    Klikoni mbi “Importoje” që të importohen kyçet që përmban, ose “Shiheni” që të shihni lëndën e kartelës në një dritare shfletuesi
 debug-log-title = Regjistër Diagnostikimi OpenPGP-je
 # Strings used in dialog.jsm
 repeat-prefix = Ky sinjalizim do të përsëritet { $count }
