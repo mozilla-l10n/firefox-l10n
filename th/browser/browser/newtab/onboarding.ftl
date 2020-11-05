@@ -17,6 +17,14 @@ onboarding-button-label-get-started = เริ่มต้นใช้งาน
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
 onboarding-welcome-body = คุณมีเบราว์เซอร์แล้ว<br/>ชมคุณสมบัติอื่นที่เหลือของ { -brand-product-name }
 onboarding-welcome-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับประโยชน์
@@ -36,9 +44,53 @@ onboarding-join-form-signin-label = มีบัญชีอยู่แล้�
 # Text for link to submit the sign in form
 onboarding-join-form-signin = ลงชื่อเข้า
 onboarding-start-browsing-button-label = เริ่มการเรียกดู
+onboarding-not-now-button-label = ไม่ใช่ตอนนี้
 onboarding-cards-dismiss =
     .title = ยกเลิก
     .aria-label = ยกเลิก
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = มาเริ่มสำรวจทุกอย่างที่คุณทำได้กัน
+onboarding-fullpage-form-email =
+    .placeholder = ที่อยู่อีเมลของคุณ…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = นำ { -brand-product-name } ไปกับคุณ
+onboarding-sync-welcome-content = รับที่คั่นหน้า, ประวัติ, รหัสผ่าน และการตั้งค่าอื่น ๆ ของคุณในอุปกรณ์ทั้งหมดของคุณ
+onboarding-sync-welcome-learn-more-link = เรียนรู้เพิ่มเติมเกี่ยวกับบัญชี Firefox
+onboarding-sync-form-input =
+    .placeholder = อีเมล
+onboarding-sync-form-continue-button = ดำเนินการต่อ
+onboarding-sync-form-skip-login-button = ข้ามขั้นตอนนี้
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = ป้อนอีเมลของคุณ
+onboarding-sync-form-sub-header = เพื่อดำเนินการต่อไปยัง { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = ทำสิ่งต่าง ๆ ให้สำเร็จด้วยเครื่องมือมากมายที่เคารพความเป็นส่วนตัวของคุณบนอุปกรณ์ทุกเครื่องของคุณ
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = ทุกสิ่งที่เราทำเคารพต่อคำมั่นสัญญาด้านข้อมูลส่วนบุคคลของเรา: เก็บให้น้อย รักษาให้ปลอดภัย ไม่มีความลับ
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = นำที่คั่นหน้า รหัสผ่าน ประวัติ และอื่น ๆ ทุกที่ที่คุณใช้ { -brand-product-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = รับการแจ้งเตือนเมื่อข้อมูลส่วนบุคคลของคุณอยู่ในการรั่วไหลข้อมูลที่รู้จัก
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = จัดการรหัสผ่านของคุณให้ปลอดภัยและพกพาได้
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = เยี่ยม คุณได้ติดตั้ง { -brand-short-name } แล้ว
+return-to-amo-add-extension-label = เพิ่มส่วนขยาย
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +124,6 @@ onboarding-multistage-theme-primary-button-label = บันทึกชุด�
 onboarding-multistage-theme-secondary-button-label = ไม่ใช่ตอนนี้
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = อัตโนมัติ
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = ใช้ชุดตกแต่งระบบ
 onboarding-multistage-theme-label-light = สว่าง
 onboarding-multistage-theme-label-dark = มืด
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +134,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        สืบทอดรูปลักษณ์ของระบบปฏิบัติการของคุณ
-        สำหรับปุ่ม เมนู และหน้าต่าง
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        ใช้ลักษณะที่ปรากฏแบบสีอ่อนสำหรับปุ่ม
-        เมนู และหน้าต่าง
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        ใช้ลักษณะที่ปรากฏแบบสีเข้มสำหรับปุ่ม
-        เมนู และหน้าต่าง
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        ใช้ลักษณะที่ปรากฏแบบสีสันสำหรับปุ่ม
-        เมนู และหน้าต่าง
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +174,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         ใช้ลักษณะที่ปรากฏแบบสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = มาเริ่มสำรวจทุกอย่างที่คุณทำได้กัน
-onboarding-fullpage-form-email =
-    .placeholder = ที่อยู่อีเมลของคุณ…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = นำ { -brand-product-name } ไปกับคุณ
-onboarding-sync-welcome-content = รับที่คั่นหน้า, ประวัติ, รหัสผ่าน และการตั้งค่าอื่น ๆ ของคุณในอุปกรณ์ทั้งหมดของคุณ
-onboarding-sync-welcome-learn-more-link = เรียนรู้เพิ่มเติมเกี่ยวกับบัญชี Firefox
-onboarding-sync-form-input =
-    .placeholder = อีเมล
-onboarding-sync-form-continue-button = ดำเนินการต่อ
-onboarding-sync-form-skip-login-button = ข้ามขั้นตอนนี้
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = ป้อนอีเมลของคุณ
-onboarding-sync-form-sub-header = เพื่อดำเนินการต่อไปยัง { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = ทำสิ่งต่าง ๆ ให้สำเร็จด้วยเครื่องมือมากมายที่เคารพความเป็นส่วนตัวของคุณบนอุปกรณ์ทุกเครื่องของคุณ
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = ทุกสิ่งที่เราทำเคารพต่อคำมั่นสัญญาด้านข้อมูลส่วนบุคคลของเรา: เก็บให้น้อย รักษาให้ปลอดภัย ไม่มีความลับ
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = นำที่คั่นหน้า รหัสผ่าน ประวัติ และอื่น ๆ ทุกที่ที่คุณใช้ { -brand-product-name }
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = รับการแจ้งเตือนเมื่อข้อมูลส่วนบุคคลของคุณอยู่ในการรั่วไหลข้อมูลที่รู้จัก
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = จัดการรหัสผ่านของคุณให้ปลอดภัยและพกพาได้
 
 ## These strings belong to the individual onboarding messages.
 
