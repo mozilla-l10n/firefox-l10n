@@ -117,10 +117,17 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 duration-unit-ns = ns
 duration-unit-us = µs
 duration-unit-ms = ms
-duration-unit-s = s
+duration-unit-s = e
 duration-unit-m = m
-duration-unit-h = h
+duration-unit-h = a
 duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
