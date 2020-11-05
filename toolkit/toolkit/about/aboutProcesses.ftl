@@ -16,6 +16,7 @@ about-processes-shutdown-tab =
 ## Column headers
 
 about-processes-column-name = Name
+about-processes-column-memory-resident = Speicher
 about-processes-column-cpu-total = CPU
 
 ## Process names
@@ -30,6 +31,8 @@ about-processes-web-isolated-process-name = Web (Prozess { $pid }) für { $origi
 about-processes-web-large-allocation = Web (Prozess { $pid }, groß) für { $origin }
 about-processes-file-process-name = Dateien (Prozess { $pid })
 about-processes-extension-process-name = Erweiterungen (Prozess { $pid })
+about-processes-plugin-process-name = Plugins (Prozess { $pid })
+about-processes-privilegedmozilla-process-name = Web (Prozess { $pid }) für { -vendor-short-name }-Websites
 about-processes-gpu-process-name = GPU (Prozess { $pid })
 about-processes-vr-process-name = VR (Prozess { $pid })
 about-processes-socket-process-name = Netzwerk (Prozess { $pid })
@@ -66,6 +69,8 @@ about-processes-tab-name = Tab: { $name }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (wird gemessen)
 
 ## Displaying Memory (total and delta)
 ## Variables:
