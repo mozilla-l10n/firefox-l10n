@@ -88,7 +88,7 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (בתהליך מדידה)
 # Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = לא פעיל ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+about-processes-cpu-user-and-kernel-idle = לא פעיל ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -102,18 +102,18 @@ about-processes-cpu-user-and-kernel-idle = לא פעיל ({ NUMBER($total, maxim
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
 # Special case: no change.
-about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
-duration-unit-ns = ננו־שניות
+duration-unit-ns = נ״ש
 duration-unit-us = מיקרו־שניות
 duration-unit-ms = מ״ש
-duration-unit-s = שניות
-duration-unit-m = דקות
-duration-unit-h = שעות
+duration-unit-s = שנ׳
+duration-unit-m = דק׳
+duration-unit-h = שע'
 duration-unit-d = ימים
 
 ## Memory units
