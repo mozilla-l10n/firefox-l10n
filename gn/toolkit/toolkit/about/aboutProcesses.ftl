@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = Emboty tendayke
 
 ## Column headers
 
@@ -25,6 +27,8 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process-name = { -brand-short-name } (tapereko { $pid })
 about-processes-web-process-name = Ñanduti (tapereko { $pid }, moherakuãmbyre)
+about-processes-privilegedabout-process-name = (tapereko { $pid }) rehegua
+about-processes-gpu-process-name = GPU (tapereko { $pid })
 
 ## Details within processes
 
@@ -32,6 +36,16 @@ about-processes-web-process-name = Ñanduti (tapereko { $pid }, moherakuãmbyre)
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Tendayke: { $name }
+about-processes-preloaded-tab = Tendayke pyahu henyhẽmava
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Kora’ive: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Kora’ive ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
