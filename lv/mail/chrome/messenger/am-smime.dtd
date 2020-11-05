@@ -2,17 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY e2eTitle.label "No gala līdz galam šifrēšana">
+<!ENTITY e2eLearnMore.label "Uzzināt vairāk">
 
 
 
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Attīrīt">
-
-
-
 <!ENTITY encryption.certificate_clear.button "Attīrīt">
 
 
