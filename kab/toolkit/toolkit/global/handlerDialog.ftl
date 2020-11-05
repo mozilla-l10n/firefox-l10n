@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> yebɣa ad d-yeldi aseɣwen <str
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Mudd tasiregt i usmel-a ad yeldi aseɣwen { $scheme }?
+permission-dialog-description-file = Mudd tasiregt i ufaylu-a ad yeldi aseɣwen { $scheme }?
 permission-dialog-description-host = Mudd tisirag i { $host } i twaledyawt n useɣwen { $scheme }?
 permission-dialog-description-app = Mudd tasiregt i usmel-a ad yeldi aseɣwen { $scheme } s { $appName }?
 permission-dialog-description-host-app = Mudd tasiregt i { $host } i twaledyawt n useɣwen { $scheme } s { $appName }?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Mudd tasiregt i ufaylu-a ad yeldi aseɣwen { $scheme } s { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Mudd yal tikkelt tisirag i <strong>{ $host }</strong> i twaledyawt n yiseɣwan <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Mudd tisiregt yal tikkelt i ufaylu-a ad yeldi iseɣwan <strong>{ $scheme }</strong>
+
+##
+
 permission-dialog-btn-open-link =
     .label = Ldi aseɣwen
     .accessKey = O

@@ -43,6 +43,7 @@
 
 ## Duration units
 
+duration-unit-ns = ns
 duration-unit-us = µs
 duration-unit-ms = ms
 duration-unit-s = s
@@ -56,3 +57,6 @@ memory-unit-B = B
 memory-unit-KB = KAṬ
 memory-unit-MB = MAṬ
 memory-unit-GB = GAṬ
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
