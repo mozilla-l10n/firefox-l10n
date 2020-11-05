@@ -500,10 +500,33 @@ key-man-button-generate-key-continue = &Vazhdo Prodhimin e Kyçit
 failed-decrypt = Gabim - shfshehtëzimi dështoi
 fix-broken-exchange-msg-failed = S’pat sukses në riparimin e mesazhit.
 attachment-no-match-from-signature = S’u përputh dot kartela e nënshkrimit '{ $attachment }' me ndonjë bashkëngjitje
+attachment-no-match-to-signature = S’u përputh dot bashkëngjitja '{ $attachment }' me një kartelë nënshkrimi
+signature-verified-ok = Nënshkrimi për bashkëngjitjen { $attachment } u verifikua me sukses
+signature-verify-failed = Nënshkrimi për bashkëngjitjen { $attachment } s’u verifikua do
+decrypt-ok-no-sig =
+    Kujdes
+    Shfshehtëzimi qe i suksesshëm, por nënshkrimi s’u verifikua dot me saktësi
+msg-ovl-button-cont-anyway = &Vazhdo Sido Qoftë
+enig-content-note = *Bashkëngjitjet në këtë mesazh s’janë nënshkruar, as fshehtëzuar*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Dërgo Mesazh
 msg-compose-details-button-label = Hollësi…
 msg-compose-details-button-access-key = H
+send-aborted = Veprimi i dërgimit u ndërpre.
+key-not-trusted = Pa besueshmëri të mjaftë për kyçin '{ $key }'
+key-not-found = S’u gjet kyçi '{ $key }'
+key-revoked = Kyçi '{ $key }' u shfuqizua
+key-expired = Kyçi '{ $key }' skadoi
 msg-compose-internal-error = Ndodhi një gabim i brendshëm.
+keys-to-export = Përzgjidhni Kyçe OpenPGP Për T’i Futur
+msg-compose-partially-encrypted-inlinePGP =
+    Mesazhi të cilit po i përgjigjeni përmban si pjesë të pafshehtëzuara, ashtu edhe të fshehtëzuara. Nëse fillimisht tdërguesi s’qe në gjendje të fshehtëzonte disa pjesë të mesazhit, mund të jeni duke lënë të rrjedhë informacion rezervat të cilin dërguesi s’qe në gjendje ta fshehtëzonte.
+    Please consider removing all quoted text from your reply to this sender.
 msg-compose-cannot-save-draft = Gabim teksa ruhej skicë
+msg-compose-partially-encrypted-short = Hapni sytë për rrjedhje informacioni rezervat - email pjesërisht i fshehtëzuar.
+quoted-printable-warn =
+    Keni aktivizuar kodim 'quoted-printable' për dërgim mesazhesh. Kjo mund të sjellë shfshehtëzim dhe/ose verifikim të pasaktë të mesazhit tuaj.
+    Doni të çaktivizohet tani dërgimi i mesazheve'quoted-printable'?
 save-attachment-header = Ruaje bashkëngjitjen e shfshehtëzuar
 # Strings used in decryption.jsm
 do-import-multiple =
