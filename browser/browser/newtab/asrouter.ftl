@@ -269,7 +269,7 @@ cfr-whatsnew-better-pdf-body = تفتح مستندات PDF الآن مباشرة
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = خصوصيّتك مهمة. يُوجّه الآن { -brand-short-name } كل طلبات DNS التي تُجريها (متى كان ممكنًا) إلى خدمة شريكة، ذلك لحمايتك وأنت تتصفّح.
+cfr-doorhanger-doh-body = خصوصيّتك فوق كل شيء. بات { -brand-short-name } يوجّه كل طلبات DNS التي تُجريها (متى كان ممكنًا) إلى خدمة شريكة، ذلك لحمايتك وأنت تتصفّح.
 cfr-doorhanger-doh-header = عمليات بحث DNS أكثر أمانًا وتعميةً
 cfr-doorhanger-doh-primary-button = حسنًا، فهمت
     .accesskey = ح
@@ -278,7 +278,7 @@ cfr-doorhanger-doh-secondary-button = عطّل
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = فعّل { -brand-short-name } الميزة التجريبية ”الانشطار/Fission“ (عزل المواقع) لراحتك. تقدّم لك ميزة ”الانشطار“ طبقة حماية إضافية لك وللمواقع التي تزورها ذلك بعزل كل موقع عن غيره في سيرورة منفصلة.
+cfr-doorhanger-fission-body-approved = خصوصيتك فوق كل شيء. بات { -brand-short-name } يعزل (أو بالإنجليزية، sandbox) المواقع عن بعضها بعض، ما يصعّب على المخترقين سرقة كلمات السر أو أرقام البطاقات الائتمانية أو غيرها من معلومات حساسة.
 cfr-doorhanger-fission-header = عزل المواقع
 cfr-doorhanger-fission-primary-button = حسنًا، فهمت
     .accesskey = ح
