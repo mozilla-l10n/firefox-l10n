@@ -88,6 +88,7 @@ update-in-progress-ok-button = &Ferwerpe
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Trochgean
+account-button = Accountynstellingen
 addons-button = Utwreidingen & Tema's
 
 ## OS Authentication dialog
