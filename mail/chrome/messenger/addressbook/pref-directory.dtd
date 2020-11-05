@@ -5,7 +5,12 @@
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP katalogu serveri">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "LDAP kataloga serveris:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
+<!ENTITY directoriesText.label     "Izvēlieties LDAP kataloga serveri:">
+<!ENTITY directoriesText.accesskey "S">
+<!ENTITY addDirectory.label        "Pievienot">
+<!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "Rediģēt">
 <!ENTITY editDirectory.accesskey   "e">
 <!ENTITY deleteDirectory.label     "Dzēst">
