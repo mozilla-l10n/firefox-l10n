@@ -11,11 +11,17 @@
 permission-dialog-description =
   Consentire a questo sito di aprire un link di tipo { $scheme }?
 
+permission-dialog-description-file =
+  Consentire a questo file di aprire un link di tipo { $scheme }?
+
 permission-dialog-description-host =
   Consentire a { $host } di aprire un link di tipo { $scheme }?
 
 permission-dialog-description-app =
   Consentire a questo sito di aprire un link di tipo { $scheme } con { $appName }?
+
+permission-dialog-description-file-app =
+  Consentire a questo file di aprire un link di tipo { $scheme } con { $appName }?
 
 permission-dialog-description-host-app =
   Consentire a { $host } di aprire un link di tipo { $scheme } con { $appName }?
@@ -31,6 +37,9 @@ handler-dialog-host = <strong>{ $host }</strong> sta cercando di aprire un link 
 
 permission-dialog-remember =
   Consenti sempre a <strong>{ $host }</strong> di aprire link di tipo <strong>{ $scheme }</strong>
+
+permission-dialog-remember-file =
+  Consenti sempre a questo file di aprire link di tipo <strong>{ $scheme }</strong>
 
 permission-dialog-btn-open-link =
       .label = Apri link
