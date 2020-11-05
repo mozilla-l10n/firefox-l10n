@@ -38,6 +38,8 @@ about-processes-gmp-plugin-process-name = תוספי מדיה של Gecko (מזה
 about-processes-gpu-process-name = מעבד גרפי (מזהה תהליך { $pid })
 about-processes-rdd-process-name = מפענח נתונים (מזהה תהליך { $pid })
 about-processes-socket-process-name = רשת (מזהה תהליך { $pid })
+about-processes-remote-sandbox-broker-process-name = מתווך ארגז חול מרוחק (מזהה תהליך { $pid })
+about-processes-fork-server-process-name = Fork Server (מזהה תהליך { $pid })
 about-processes-preallocated-process-name = מוקצה מראש (מזהה תהליך { $pid })
 about-processes-unknown-process-name = אחר ({ $type }, מזהה תהליך { $pid })
 # Process
@@ -84,7 +86,7 @@ about-processes-frame-name-many = מסגרות משנה ({ $number }): { $shortU
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (בתהליך מדידה)
 # Special case: process or thread is currently idle.
