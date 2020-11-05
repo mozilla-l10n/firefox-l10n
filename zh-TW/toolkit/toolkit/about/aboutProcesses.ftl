@@ -120,6 +120,14 @@ duration-unit-ms = ms
 duration-unit-s = 秒
 duration-unit-m = 分
 duration-unit-h = 時
+duration-unit-d = 天
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
