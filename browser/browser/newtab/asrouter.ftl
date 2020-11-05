@@ -264,3 +264,4 @@ cfr-whatsnew-clear-cookies-image-alt = Illustration d’un cookie bloqué
 
 cfr-whatsnew-media-keys-header = Plus de contrôles multimédias
 cfr-whatsnew-media-keys-body = Lisez et mettez en pause l’audio ou la vidéo directement depuis votre clavier ou votre casque, ce qui facilite le contrôle des médias à partir d’un autre onglet ou programme, ou même lorsque votre ordinateur est verrouillé. Vous pouvez également vous déplacer entre les pistes à l’aide des touches avant et arrière.
+cfr-whatsnew-media-keys-button = Découvrez comment
