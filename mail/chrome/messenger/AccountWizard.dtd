@@ -9,7 +9,7 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Lai saņemtu ziņojumus, vispirms ir jāizveido konts.">
+<!ENTITY accountSetupInfo2.label "Lai saņemtu vēstules, vispirms ir jāizveido konts.">
 <!ENTITY accountTypeTitle.label "Jauna konta iestatīšana">
 <!ENTITY accountTypeDesc2.label "Šis vednis apkopos nepieciešamo informāciju, lai izveidotu kontu. Ja nezināt pieprasīto informāciju, lūdzu, sazinieties ar sistēmas administratoru vai interneta pakalpojumu sniedzēju.">
 <!ENTITY accountTypeDirections.label "Izvēlieties konta veidu, kādu vēlaties izveidot:">
@@ -24,10 +24,10 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitāte">
-<!ENTITY identityDesc.label "Katram kontam ir identitāte, kas ir jūs aprakstoša informācija citiem, kad viņi saņem jūsu ziņojumus.">
+<!ENTITY identityDesc.label "Katram kontam ir identitāte, kas ir jūs aprakstoša informācija citiem, kad viņi saņem jūsu vēstules.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Ievadiet vārdu, kuru vēlaties parādīt &quot;No&quot; izejošā ziņojuma laukā">
+<!ENTITY fullnameDesc.label "Ievadiet vārdu, kuru vēlaties parādīt &quot;No&quot; izejošās vēstules laukā">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
