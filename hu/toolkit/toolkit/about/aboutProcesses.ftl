@@ -38,9 +38,34 @@ about-processes-plugin-process-name = Bővítmények (folyamat: { $pid })
 about-processes-privilegedmozilla-process-name = Web (folyamat:  { $pid }) a(z) { -vendor-short-name } webhelyeihez
 about-processes-gpu-process-name = GPU (folyamat: { $pid })
 about-processes-vr-process-name = VR (folyamat: { $pid })
+about-processes-rdd-process-name = Adatdekóder (folyamat: { $pid })
+about-processes-socket-process-name = Hálózat (folyamat: { $pid })
+about-processes-preallocated-process-name = Előre kiosztott (folyamat: { $pid })
+about-processes-unknown-process-name = Egyéb ({ $type }, folyamat: { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Folyamat: { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Szálak ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = { $tid }. szál: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Lap: { $name }
+about-processes-preloaded-tab = Előre betöltött Új lap
 
 ## Displaying CPU (percentage and total)
 ## Variables:
