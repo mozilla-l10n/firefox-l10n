@@ -114,9 +114,9 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 ## Duration units
 
-duration-unit-ns = ns
-duration-unit-us = µs
-duration-unit-ms = ms
+duration-unit-ns = 纳秒
+duration-unit-us = 微秒
+duration-unit-ms = 毫秒
 duration-unit-s = 秒
 duration-unit-m = 分
 duration-unit-h = 时
@@ -124,7 +124,7 @@ duration-unit-d = 天
 
 ## Memory units
 
-memory-unit-B = B
+memory-unit-B = 字节
 memory-unit-KB = KB
 memory-unit-MB = MB
 memory-unit-GB = GB
