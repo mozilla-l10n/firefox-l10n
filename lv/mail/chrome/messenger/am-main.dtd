@@ -39,4 +39,9 @@
 <!ENTITY manageIdentities.accesskey "M">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Izejošais serveris (SMTP):">
+<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpDefaultServer.label "Lietot noklusēto serveri">
 
+<!ENTITY smtpServerEdit.label "Rediģēt SMTP serveri…">
+<!ENTITY smtpServerEdit.accesskey "P">
