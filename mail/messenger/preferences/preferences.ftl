@@ -88,6 +88,7 @@ update-in-progress-ok-button = &Odrzuć
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
+account-button = Ustawienia kont
 addons-button = Rozszerzenia i motywy
 
 ## OS Authentication dialog
