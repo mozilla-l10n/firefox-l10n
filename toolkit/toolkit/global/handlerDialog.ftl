@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> chce wotkaz <strong>{ $scheme }
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Tutomu sydłu dowolić, wotkaz typa { $scheme } wočinić?
+permission-dialog-description-file = Tutej dataji dowolić, wotkaz typa { $scheme } wočinić?
 permission-dialog-description-host = { $host } dowolić, wotkaz typa { $scheme } wočinić?
 permission-dialog-description-app = Tutomu sydłu dowolić, wotkaz typa { $scheme } z { $appName } wočinić?
 permission-dialog-description-host-app = { $host } dowolić, wotkaz typa { $scheme } z { $appName } wočinić?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Tutej dataji dowolić, wotkaz typa { $scheme } z { $appName } wočinić?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Přeco <strong>{ $host }</strong> dowolić, wotkazy typa <strong>{ $scheme }</strong> wočinić
+permission-dialog-remember-file = Tutej dataji přeco dowolić, wotkazy typa <strong>{ $scheme }</strong> wočinili
+
+##
+
 permission-dialog-btn-open-link =
     .label = Wotkaz wočinić
     .accessKey = o
