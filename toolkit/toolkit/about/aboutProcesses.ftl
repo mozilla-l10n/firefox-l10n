@@ -109,7 +109,7 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 duration-unit-ns = ננו־שניות
 duration-unit-us = מיקרו־שניות
-duration-unit-ms = מילי־שניות
+duration-unit-ms = מ״ש
 duration-unit-s = שניות
 duration-unit-m = דקות
 duration-unit-h = שעות
