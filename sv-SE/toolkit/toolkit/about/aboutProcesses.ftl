@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Processhanterare
 # The Actions column
 about-processes-column-action =
     .title = Åtgärder
@@ -23,6 +25,16 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (process { $pid })
+about-processes-web-process-name = Webb (process { $pid }, delad)
+about-processes-web-isolated-process-name = Webb (process { $pid }) för { $origin }
+about-processes-web-large-allocation = Webb (process { $pid }, stor) för { $origin }
+about-processes-with-coop-coep-process-name = Webb (process { $pid }, cross-origin isolerad) för { $origin }
+about-processes-file-process-name = Filer (process { $pid })
+about-processes-extension-process-name = Tillägg (process { $pid })
+about-processes-privilegedabout-process-name = Om (process { $pid })
+about-processes-plugin-process-name = Insticksmoduler (process { $pid })
+about-processes-privilegedmozilla-process-name = Webb (process { $pid }) för { -vendor-short-name }-webbplatser
 
 ## Details within processes
 
