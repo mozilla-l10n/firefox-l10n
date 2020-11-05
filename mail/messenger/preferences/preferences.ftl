@@ -88,6 +88,7 @@ update-in-progress-ok-button = &Avvis
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsett
+account-button = Kontoinnstillinger
 addons-button = Utvidelser og temaer
 
 ## OS Authentication dialog
