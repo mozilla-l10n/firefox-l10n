@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> 想要開啟 <strong>{ $scheme 
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = 要允許這個網站開啟 { $scheme } 鏈結嗎？
+permission-dialog-description-file = 要允許這個檔案開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-host = 要允許 { $host } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-app = 要允許這個網站使用 { $appName } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-host-app = 要允許 { $host } 使用 { $appName } 開啟 { $scheme } 鏈結嗎？
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = 要允許這個檔案使用 { $appName } 開啟 { $scheme } 鏈結嗎？
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = 總是允許 <strong>{ $host }</strong> 開啟 <strong>{ $scheme }</strong> 鏈結
+permission-dialog-remember-file = 總是使用這個檔案來開啟 <strong>{ $scheme }</strong> 鏈結
+
+##
+
 permission-dialog-btn-open-link =
     .label = 開啟鏈結
     .accessKey = O
