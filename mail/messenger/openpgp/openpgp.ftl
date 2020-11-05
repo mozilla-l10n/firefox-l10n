@@ -527,7 +527,23 @@ msg-compose-partially-encrypted-short = Hapni sytë për rrjedhje informacioni r
 quoted-printable-warn =
     Keni aktivizuar kodim 'quoted-printable' për dërgim mesazhesh. Kjo mund të sjellë shfshehtëzim dhe/ose verifikim të pasaktë të mesazhit tuaj.
     Doni të çaktivizohet tani dërgimi i mesazheve'quoted-printable'?
+minimal-line-wrapping =
+    Keni ujdisur mbështjellje rreshtash pas { $width } shenjash. Për fshehtëzim dhe/ose nënshkrim të saktë, kjo vlerë lypset të jetë të paktën 68.
+    Doni të ndryshohet tani vlera për mbështjellje rreshtash në 68 shenja?
+sending-hidden-rcpt = Marrësit BCC (kopjim i verbër) s’mund të përdoren kur dërgohet një mesazh i fshehtëzuar. Që të dërgoni këtë mesazh të fshehtëzuar, ose hiqni marrësit BCC ose kalojini te fusha CC.
+sending-news =
+    Veprimi i dërgimit të fshehtëzuar dështoi.
+    Ky mesazh s’mund të fshehtëzohet, ngaqë ka marrës në grupe lajmesh. Ju lutemi, dërgojeni këtë mesazh pa fshehtëzim.
+send-to-news-warning =
+    Kujdes: ju ndan një hap nga dërgimi i një mesazhi të fshehtëzuar te një grup lajmesh.
+    Kjo nuk këshillohet, ngaqë ka kuptim vetëm nëse krejt anëtarët e grupit munden të fshehtëzojnë mesazhin, d.m.th., mesazhi lypset të fshetëzohet me kyçet e krejt pjesëmarrësve në grup. Ju lutemi, dërgojeni këtë mesazh vetëm nëse e dini saktësisht se ç’po bëni.
+    Të vazhdohet?
 save-attachment-header = Ruaje bashkëngjitjen e shfshehtëzuar
+no-temp-dir =
+    S’u gjet dot një drejtori e përkohshme ku të shkruhet
+    Ju lutemi, caktoni ndryshoren TEMP të mjedisit
+possibly-pgp-mime = Mesazh mundet i fshehtëzuar ose nënshkruar me PGP/MIME; përdorni funksionin 'Shfshehtëzoje/Verifikoje' për ta verifkuar
+cannot-send-sig-because-no-own-key = S’nënshkruhet dot në mënyrë dixhitale ky mesazh, ngaqë s’keni formësuar ende fshehtëzim skaj-më-skaj për <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Të importohen kyçet vijues?
