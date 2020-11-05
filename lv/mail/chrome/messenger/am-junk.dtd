@@ -21,5 +21,11 @@
 <!ENTITY whitelistHeader.accesskey "D">
 
 <!ENTITY ispHeadersWarning.label "Ja tas ieslēgts, &brandShortName; automātiski uzskatīs par mēstulēm vēstules, kurus par mēstulēm atzīs ārējs klasifikators.">
+<!ENTITY ispHeaders.label "Atzīt mēstuļu galvenes, kuras ir iestatījis:">
+<!ENTITY ispHeaders.accesskey "T">
 
+<!ENTITY junkClassification.label "Atlase">
+<!ENTITY junkActions.label "Mērķis un aizturēšana">
 
+<!ENTITY globalJunkPrefs.label "Globālie mēstuļu iestatījumi…">
+<!ENTITY globalJunkPrefs.accesskey "G">

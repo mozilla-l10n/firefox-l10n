@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from am-main.xhtml -->
+
+<!ENTITY accountTitle.label "Konta iestatījumi">
+<!ENTITY accountName.label "Konta nosaukums:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY identityTitle.label "Noklusētā identitāte">
+<!ENTITY identityDesc.label "Katram kontam ir identitāte jeb informācija, ko citi cilvēki redz, lasot jūsu vēstules.">
+<!ENTITY name.label "Jūsu vārds:">
+<!ENTITY name.accesskey "Y">
+<!ENTITY email.label "Epasta adrese:">
+<!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Atbildēt ar šo identitāti, ja piegādes galvenes atbilst:">
+<!ENTITY catchAll.accesskey "d">
+<!ENTITY replyTo.label "Atbildes adrese:">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Saņēmēji atbildēs uz šo citu adresi">
+<!ENTITY organization.label "Organizācija:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.label "Paraksta teksts:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Lietot HTML (piem., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Tā vietā pievienot parakstu no faila (teksts, HTML vai attēls):">
+<!ENTITY signatureFile.accesskey "t">
+<!ENTITY edit.label "Rediģēt…">
+<!ENTITY choose.label "Izvēlēties…">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard.label "Rediģēt karti…">
+<!ENTITY editVCard.accesskey "d">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Pievienot vēstulēm jūsu vCard">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY manageIdentities.label "Pārvaldīt identitātes…">
+<!ENTITY manageIdentities.accesskey "M">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
