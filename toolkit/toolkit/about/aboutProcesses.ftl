@@ -34,7 +34,7 @@ about-processes-web-large-allocation = 网页（进程 { $pid }，大型）：{ 
 about-processes-with-coop-coep-process-name = 网页（进程 { $pid }，隔离跨源）：{ $origin }
 about-processes-file-process-name = 文件（进程 { $pid }）
 about-processes-extension-process-name = 扩展（进程 { $pid }）
-about-processes-privilegedabout-process-name = 关于页（进程 { $pid }）
+about-processes-privilegedabout-process-name = About 页（进程 { $pid }）
 about-processes-plugin-process-name = 插件（进程 { $pid }）
 about-processes-privilegedmozilla-process-name = 网页（进程 { $pid }）：{ -vendor-short-name } 网站
 about-processes-gmp-plugin-process-name = Gecko 媒体插件（进程 { $pid }）
@@ -114,9 +114,8 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 ## Duration units
 
-duration-unit-ns = 纳秒
-duration-unit-us = 微秒
-duration-unit-ms = 毫秒
+duration-unit-ns = ns
+duration-unit-us = µs
 duration-unit-s = 秒
 duration-unit-m = 分
 duration-unit-h = 时
