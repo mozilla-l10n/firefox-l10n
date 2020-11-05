@@ -94,7 +94,7 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = （测量中）
 # Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = 闲置（{ NUMBER($total, maximumFractionDigits: 2) }{ $unit }）
+about-processes-cpu-user-and-kernel-idle = 空闲（{ NUMBER($total, maximumFractionDigits: 2) }{ $unit }）
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -114,16 +114,17 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 ## Duration units
 
-duration-unit-ns = ns
-duration-unit-us = µs
-duration-unit-s = 秒
-duration-unit-m = 分
-duration-unit-h = 时
-duration-unit-d = 天
+duration-unit-ns =  纳秒
+duration-unit-us =  微秒
+duration-unit-ms =  毫秒
+duration-unit-s =  秒
+duration-unit-m =  分
+duration-unit-h =  时
+duration-unit-d =  天
 
 ## Memory units
 
-memory-unit-B = 字节
+memory-unit-B =  字节
 memory-unit-KB = KB
 memory-unit-MB = MB
 memory-unit-GB = GB
