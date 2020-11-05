@@ -2,38 +2,42 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY doNotDownloadPop3Movemail.label "Lai ietaupītu diska vietu, nelejuplādēt:">
+<!ENTITY doNotDownloadNntp.label "Lai ietaupītu diska vietu, nelejuplādēt nesaistes darbam:">
+<!ENTITY doNotDownloadImap.label "Lai ietaupītu diska vietu, vēstuļu lejuplādi no servera un vietējo kopiju glabāšanu nesaistē var ierobežot pēc vecuma vai izmēra.">
+<!ENTITY allFoldersOffline2.label "Saglabāt vēstules šajā datorā visām šī konta mapēm">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Piezīme: Šīs izmaiņas ietekmē visas šī konta mapes. Lai iestatītu atsevišķas mapes, izmantojiet Papildu… pogu.">
+<!ENTITY offlineNotDownload.label "Vēstules lielākas par">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "Nelejuplādēt vēstules lielākas par">
+<!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY kb.label "KB">
+<!ENTITY daysOld.label "dienas vecas">
+<!ENTITY message.label "vēstules">
+<!ENTITY nntpNotDownloadRead.label "Lasīt vēstules">
+<!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpDownloadMsg.label "Vēstules vairāk par">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Lai atgūtu diska vietu, vecās vēstules var izdzēst neatgriezeniski.">
+<!ENTITY retentionCleanupImap.label "Lai atgūtu diska vietu, vēstules var izdzēst neatgriezeniski: gan lokālās kopijas, gan oriģinālus attālajā serverī.">
+<!ENTITY retentionCleanupPop.label "Lai atgūtu diska vietu, vecās vēstules var izdzēst neatgriezeniski, ieskaitot oriģinālus attālajā serverī.">
+<!ENTITY retentionKeepMsg.label "Dzēst vēstules vairāk par">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Nedzēst nevienu vēstuli">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Dzēst visas, izņemot pašas jaunākās">
+<!ENTITY retentionKeepRecent.accesskey "b">
+<!ENTITY retentionApplyToFlagged.label "Vienmēr saglabāt zvaigžņotās vēstules">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "Noņemiet ķermeņus vēstulēm vairāk kā">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Atlasiet ziņu grupas lietošanai nesaistē…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Papildu…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
+<!ENTITY syncGroupTitle.label "Vēstuļu sinhronizēšana">
+<!ENTITY diskspaceGroupTitle.label "Vieta diskā">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -41,12 +45,5 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
-
-
 <!ENTITY ageAutosyncMiddle.label         "">
-
-
-
-
 <!ENTITY ageAutosyncAfter.label          "">
