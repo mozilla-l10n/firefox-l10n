@@ -485,8 +485,12 @@ passphrase-prompt = Ju lutemi, jepni frazëkalimin që shkyç kyçin vijues: { $
 file-to-big-to-import = Kjo kartelë është shumë e madhe. Ju lutemi, mos importoni njëherësh një grup të madh kyçesh.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Krijoni & Ruani Dëshmi Shfuqizimesh
+revoke-cert-ok = Dëshmia e shfuqizimit u krijua me sukses. Mund ta përdorni për të zhvleftësuar kyçin tuaj publik, p.sh., në rast se humbni kyçin tuaj të fshehtë.
 revoke-cert-failed = Dëshmia e shfuqizimit s’u krijua dot.
 gen-going = Prodhim kyçesh tashmë në kryerje e sipër!
+keygen-missing-user-name = S’ka emër të specifikuar për llogarinë/identitetin e përzgjedhur. Ju lutemi, jepni një vlerë te fusha “Emri juaj”, te rregullimet e llogarisë.
+expiry-too-short = Kyçi juaj duhet të jetë i vlefshëm për të paktën një ditë.
+expiry-too-long = S’mund të krijoni një kyç që skadon pas më shumë se 100 vjetëve.
 key-abort = Të ndërpritet prodhimi i kyçit?
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Gabim - shfshehtëzimi dështoi
