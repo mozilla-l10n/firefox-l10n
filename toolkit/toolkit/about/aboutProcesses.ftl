@@ -38,6 +38,7 @@ about-processes-gmp-plugin-process-name = תוספי מדיה של Gecko (מזה
 about-processes-gpu-process-name = מעבד גרפי (מזהה תהליך { $pid })
 about-processes-rdd-process-name = מפענח נתונים (מזהה תהליך { $pid })
 about-processes-socket-process-name = רשת (מזהה תהליך { $pid })
+about-processes-preallocated-process-name = מוקצה מראש (מזהה תהליך { $pid })
 about-processes-unknown-process-name = אחר ({ $type }, מזהה תהליך { $pid })
 # Process
 # Variables:
