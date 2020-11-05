@@ -115,7 +115,7 @@ duration-unit-us = מיקרו־שניות
 duration-unit-ms = מ״ש
 duration-unit-s = שנ׳
 duration-unit-m = דק׳
-duration-unit-h = שע'
+duration-unit-h = שע’
 duration-unit-d = ימים
 
 ## Memory units
