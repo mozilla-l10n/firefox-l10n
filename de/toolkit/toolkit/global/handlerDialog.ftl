@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> möchte einen <strong>{ $scheme
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Dieser Website erlauben, den { $scheme }-Link zu öffnen?
+permission-dialog-description-file = Dieser Datei erlauben, den { $scheme }-Link zu öffnen?
 permission-dialog-description-host = { $host } erlauben, den { $scheme }-Link zu öffnen?
 permission-dialog-description-app = Dieser Website erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
 permission-dialog-description-host-app = { $host } erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Dieser Datei erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = <strong>{ $host }</strong> immer erlauben, <strong>{ $scheme }</strong>-Links zu öffnen
+permission-dialog-remember-file = Dieser Datei immer erlauben, <strong>{ $scheme }</strong>-Links zu öffnen
+
+##
+
 permission-dialog-btn-open-link =
     .label = Link öffnen
     .accessKey = ö
