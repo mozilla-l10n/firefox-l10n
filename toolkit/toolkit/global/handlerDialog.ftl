@@ -18,13 +18,21 @@ handler-dialog-host = Mae <strong>{ $host }</strong> eisiau agor dolen <strong>{
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Caniatáu i'r wefan hon agor y ddolen { $scheme }?
+permission-dialog-description-file = Caniatáu i'r ffeil hon agor y ddolen { $scheme }?
 permission-dialog-description-host = Caniatáu i { $host } agor y ddolen { $scheme }?
 permission-dialog-description-app = Caniatáu i'r wefan hon agor y ddolen { $scheme } gyda { $appName }?
 permission-dialog-description-host-app = Caniatáu i { $host } agor y ddolen { $scheme } gyda { $appName }?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Caniatáu i'r ffeil hon agor y ddolen { $scheme } gyda { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Caniatáu i <strong>{ $host }</strong> agor dolenni <strong>{ $scheme }</strong> bob tro
+permission-dialog-remember-file = Gadewch i'r ffeil hon agor dolenni <strong>{ $scheme }</strong> bob tro
+
+##
+
 permission-dialog-btn-open-link =
     .label = Agor Dolen
     .accessKey = A
