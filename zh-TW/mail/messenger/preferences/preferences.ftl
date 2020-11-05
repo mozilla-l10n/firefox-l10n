@@ -88,6 +88,7 @@ update-in-progress-ok-button = 捨棄 (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
+account-button = 帳號設定
 addons-button = 擴充套件與佈景主題
 
 ## OS Authentication dialog
