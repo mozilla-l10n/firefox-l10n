@@ -5,29 +5,15 @@
 <!ENTITY onlineContactsHeader.label    "Tiešsaistes kontakti">
 <!ENTITY offlineContactsHeader.label   "Bezsaistes kontakti">
 <!ENTITY conversationsHeader.label     "Sarunas">
-
-
-
-
-
-
-
-
-
+<!ENTITY searchResultConversation.label "Meklēšanas rezultāti">
+<!ENTITY chat.noConv.title             "Sarunas tiks rādītas šeit.">
+<!ENTITY chat.noConv.description       "Lai sāktu sarunu, izmantojiet kontaktu sarakstu kreisajā panelī.">
 <!ENTITY chat.showAccountManager.button       "Rādīt tērzēšanas statusu">
 
 <!ENTITY chat.participants             "Dalībnieki:">
 
-
-
 <!ENTITY openConversationCmd.label     "Sākt sarunu">
 <!ENTITY openConversationCmd.accesskey "s">
-
-
-
-
-
-
 
 <!ENTITY openConversationButton.tooltip  "Sākt sarunu">
 <!ENTITY closeConversationButton.tooltip "Aizvērt sarunu">
@@ -35,9 +21,7 @@
 <!ENTITY addBuddyButton.label          "Pievienot kontaktu">
 <!ENTITY joinChatButton.label          "Pievienoties tērzēšanai">
 
-
 <!ENTITY status.available          "Pieejams">
 <!ENTITY status.unavailable        "Nepieejams">
 <!ENTITY status.offline            "Nesaistē">
-
 
