@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Prozessmanager
+# The Actions column
+about-processes-column-action =
+    .title = Aktionen
 
 ## Tooltips
 
@@ -11,6 +16,7 @@ about-processes-shutdown-tab =
 ## Column headers
 
 about-processes-column-name = Name
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -18,9 +24,38 @@ about-processes-column-name = Name
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (Prozess { $pid })
+about-processes-web-process-name = Web (Prozess { $pid }, geteilt)
+about-processes-web-isolated-process-name = Web (Prozess { $pid }) für { $origin }
+about-processes-web-large-allocation = Web (Prozess { $pid }, groß) für { $origin }
+about-processes-file-process-name = Dateien (Prozess { $pid })
+about-processes-extension-process-name = Erweiterungen (Prozess { $pid })
+about-processes-gpu-process-name = GPU (Prozess { $pid })
+about-processes-vr-process-name = VR (Prozess { $pid })
+about-processes-socket-process-name = Netzwerk (Prozess { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Prozess { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Threads ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Thread { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Tab: { $name }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
