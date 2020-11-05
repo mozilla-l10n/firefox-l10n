@@ -27,6 +27,11 @@ about-processes-column-cpu-total = מעבד
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (מזהה תהליך { $pid })
+about-processes-web-process-name = רשת (מזהה תהליך { $pid }, משותף)
+about-processes-web-isolated-process-name = רשת (מזהה תהליך { $pid }) עבור { $origin }
+about-processes-file-process-name = קבצים (מזהה תהליך { $pid })
+about-processes-extension-process-name = הרחבות (מזהה תהליך { $pid })
 
 ## Details within processes
 
