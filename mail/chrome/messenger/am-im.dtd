@@ -2,13 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY accountWindow.title           "Konta īpašības">
+<!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Vispārīgi">
 <!ENTITY account.advanced              "Paplašinātie iestatījumi">
 <!ENTITY account.name                  "Lietotājvārds:">
 <!ENTITY account.password              "Parole:">
 <!ENTITY account.alias                 "Pseidonīms:">
-
-
-
-
-
+<!ENTITY account.newMailNotification   "Paziņot par jaunu pastu">
+<!ENTITY account.autojoin              "Automātiski apvienoti kanāli:">
+<!ENTITY account.proxySettings.caption "Starpnieka iestatījumi:">
+<!ENTITY account.proxySettings.change.label     "Mainīt…">
+<!ENTITY account.proxySettings.change.accessKey "C">
