@@ -10,9 +10,16 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Rajtarki znjemóžnić a proces zničić
+about-processes-shutdown-tab =
+    .title = Rajtark začinić
 
 ## Column headers
 
+about-processes-column-name = Mjeno
+about-processes-column-memory-resident = Skład
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -20,6 +27,16 @@ about-processes-column-action =
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
+about-processes-web-process-name = Web (proces { $pid }, dźěleny)
+about-processes-web-isolated-process-name = Web (proces { $pid }) za { $origin }
+about-processes-web-large-allocation = Web (proces { $pid }, large) za { $origin }
+about-processes-with-coop-coep-process-name = Web (proces { $pid }, cross-origin izolowany) za { $origin }
+about-processes-file-process-name = Dataje (proces { $pid })
+about-processes-extension-process-name = Rozšěrjenja (proces { $pid })
+about-processes-privilegedabout-process-name = Wo (proces { $pid })
+about-processes-plugin-process-name = Tykače (proces { $pid })
+about-processes-privilegedmozilla-process-name = Web (proces { $pid }) za sydła { -vendor-short-name }
 
 ## Details within processes
 
