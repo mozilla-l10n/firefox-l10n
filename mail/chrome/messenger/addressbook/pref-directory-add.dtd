@@ -2,42 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
+<!ENTITY directoryName.label               "Nosaukums:">
+<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryHostname.label           "Mītnes nosaukums:">
+<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryBaseDN.label             "Bāzes DN:">
+<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY findButton.label                  "Meklēt">
+<!ENTITY findButton.accesskey              "f">
 <!ENTITY directorySecure.label             "Lietot drošo savienojumu (SSL)">
 <!ENTITY directorySecure.accesskey         "L">
-
-
+<!ENTITY directoryLogin.label              "Saistīt DN:">
+<!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Vispārīgi">
 <!ENTITY Offline.tab                       "Nesaistē">
 <!ENTITY Advanced.tab                      "Paplašināti">
 <!ENTITY portNumber.label                  "Porta numurs: ">
 <!ENTITY portNumber.accesskey              "P">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY searchFilter.label                "Meklēšanas filtrs:">
+<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY scope.label                       "Tvērums:">
+<!ENTITY scope.accesskey                   "c">
+<!ENTITY scopeOneLevel.label               "Viens līmenis">
+<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeSubtree.label                "Apakškoks">
+<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "Neatgriezt vairāk par">
+<!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "rezultāti">
+<!ENTITY offlineText.label                 "Varat lejuplādēt šīs mapes lokālu kopiju, lai tā būtu pieejama, strādājot nesaistē.">
+<!ENTITY saslMechanism.label               "Pieteikšanās veids:">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Vienkāršs">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
-
-
-
-
-
-
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-
 <!ENTITY newDirectoryWidth                 "36em">
