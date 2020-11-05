@@ -2,12 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = 프로세스 관리자
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = 탭 언로드 및 프로세스 종료
+about-processes-shutdown-tab =
+    .title = 탭 닫기
 
 ## Column headers
 
+about-processes-column-name = 이름
+about-processes-column-memory-resident = 메모리
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -15,6 +24,9 @@
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (프로세스 { $pid })
+about-processes-web-process-name = 웹 (프로세스 { $pid }, 공유됨)
+about-processes-web-isolated-process-name = { $origin }에 대한 웹 (프로세스 { $pid })
 
 ## Details within processes
 
@@ -46,9 +58,10 @@
 duration-unit-ns = ns
 duration-unit-us = µs
 duration-unit-ms = ms
-duration-unit-s = s
-duration-unit-m = m
-duration-unit-h = h
+duration-unit-s = 초
+duration-unit-m = 분
+duration-unit-h = 시간
+duration-unit-d = 일
 
 ## Memory units
 
