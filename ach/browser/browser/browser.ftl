@@ -306,6 +306,9 @@ popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Itye ka nywako { -brand-short-name }. Jo mukene twero neno kacce iloke i dirica matidi manyen.
+sharing-warning-proceed-to-tab =
+    .label = Mede i Dirica matidi
 
 ## DevTools F12 popup
 
@@ -341,6 +344,14 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Yeny ki { $engine } i Dirica me Mung
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Yeny i Dirica me Mung
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -348,11 +359,26 @@ urlbar-pocket-button =
 urlbar-result-action-search-w-engine = Yeny ki { $engine }
 urlbar-result-action-switch-tab = Lokke i dirica matidi
 urlbar-result-action-visit = Lim
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Dii Dirica matidi me yenyo ki { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Dii Dirica matidi me yenyo { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Yeny Alama buk
+urlbar-result-action-search-history = Yeny Gin mukato
+urlbar-result-action-search-tabs = Yeny Dirica matino
 
 ## Full Screen and Pointer Lock UI
 
