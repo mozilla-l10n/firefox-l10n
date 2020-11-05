@@ -35,6 +35,11 @@ about-processes-extension-process-name = Tillägg (process { $pid })
 about-processes-privilegedabout-process-name = Om (process { $pid })
 about-processes-plugin-process-name = Insticksmoduler (process { $pid })
 about-processes-privilegedmozilla-process-name = Webb (process { $pid }) för { -vendor-short-name }-webbplatser
+about-processes-gmp-plugin-process-name = Gecko mediainsticksmoduler (process { $pid })
+about-processes-gpu-process-name = GPU (process { $pid })
+about-processes-vr-process-name = VR (process { $pid })
+about-processes-rdd-process-name = Dataavkodare (process { $pid })
+about-processes-socket-process-name = Nätverk (process { $pid })
 
 ## Details within processes
 
