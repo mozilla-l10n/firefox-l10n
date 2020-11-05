@@ -171,6 +171,7 @@ openpgp-key-details-structure-tab =
     .label = Strukturë
 openpgp-key-details-uid-certified-col =
     .label = ID Përdoruesi / Certifikuar nga
+openpgp-key-details-user-id2-label = Pronar i Hamendshëm i Kyçit
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Lloj
@@ -192,6 +193,7 @@ openpgp-key-details-fingerprint-label = Shenja gishtash
 openpgp-key-details-sel-action =
     .label = Përzgjidhni veprim…
     .accesskey = P
+openpgp-key-details-also-known-label = Identitete Alternative të Hamendshme të të Zotit të Kyçit:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Mbylle
 openpgp-acceptance-label =
@@ -283,6 +285,7 @@ key-expired-date = Kyçi skadoi më { $keyExpiry }
 key-expired-simple = Kyçi ka skaduar
 key-revoked-simple = Kyçi u shfuqizua
 key-do-you-accept = E pranoni këtë kyç për verifikim nënshkrimesh dixhitale dhe për fshehtëzim mesazhesh?
+key-accept-warning = Shmangni pranimin e një kyçi që s’duket normal. Përdorni një kanal komunikimi tjetër nga email-i që të verifikoni shenjat e gishtave të kyçit të korrespondentit tuaj.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = S’arrihet të dërgohet mesazhi, ngaqë ka një problem me kyçin tuaj personal. { $problem }
 cannot-encrypt-because-missing = S’arrihet të dërgohet ky mesazh me fshehtëzim skaj-më-skaj, ngaqë ka probleme me kyçet e marrësve vijues: { $problem }
@@ -448,13 +451,20 @@ revoke-key-in-use-description = S’arrihet të bëhet! Kyçi që përzgjodhët 
 key-error-key-spec-not-found = Për adresën email '{ $keySpec }' s’gjendet dot përputhje me ndonjë kyç në vargun tuaj të kyçeve.
 key-error-key-id-not-found = ID-ja e kyçit të formësuar '{ $keySpec }' s’mund të gjendet te vargu juaj i kyçeve.
 key-error-not-accepted-as-personal = S’keni ripohuar se kyçi me ID-në '{ $keySpec }' është kyç i juaji personal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Funksioni që keni përzgjedhur s’mund të përdoret nën mënyrën jo i lidhur. Ju lutemi, lidhuni në internet dhe riprovoni.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = S’gjetëm dot ndonjë kyç me përputhje me kriterin e dhënë të kërkimit.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Gabim - urdhri për përftim kyçi dështoi
 # Strings used in keyRing.jsm
 fail-cancel = Gabim - Marrja e kyçit u anulua nga përdoruesi
 not-first-block = Gabim - Blloku i parë OpenPGP s’është bllok kyçi publik
+import-key-confirm = Të importohet kyç(e) publik të trupëzuar në mesazh?
 fail-key-import = Gabim - Importimi i kyçit dështoi
 file-write-failed = S’u arrit të shkruhet te kartelë { $output }
+no-pgp-block = Gabim - S’u gjet bllok i vlefshëm të dhënash OpenPGP të koracuara
+confirm-permissive-import = Importi dështoi. Kyçi që po provoni të importoni mund të jetë i komprometuar ose përdor atribute të panjohur. Do të donit të provohej të importoheshin pjesët që janë të sakta? Kjo mund të sjellë importim kyçesh jo të plotë dhe të papërdorshëm.
 # Strings used in trust.jsm
 key-valid-unknown = i panjohur
 key-valid-invalid = i pavlefshëm
@@ -466,9 +476,15 @@ key-trust-marginal = mënjanësor
 key-trust-full = i besuar
 key-trust-ultimate = përfundimtar
 key-trust-group = (grup)
+# Strings used in commonWorkflows.js
+import-key-file = Importo Kartelë Kyçi OpenPGP
+import-rev-file = Importo Kartelë Shfuqizimi OpenPGP
 gnupg-file = Kartela GnuPG
 import-keys-failed = Importimi i kyçeve dështoi
 passphrase-prompt = Ju lutemi, jepni frazëkalimin që shkyç kyçin vijues: { $key }
+file-to-big-to-import = Kjo kartelë është shumë e madhe. Ju lutemi, mos importoni njëherësh një grup të madh kyçesh.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Krijoni & Ruani Dëshmi Shfuqizimesh
 revoke-cert-failed = Dëshmia e shfuqizimit s’u krijua dot.
 gen-going = Prodhim kyçesh tashmë në kryerje e sipër!
 key-abort = Të ndërpritet prodhimi i kyçit?
