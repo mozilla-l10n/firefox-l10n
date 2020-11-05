@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = ألديك حساب؟
 # Text for link to submit the sign in form
 onboarding-join-form-signin = لِج
 onboarding-start-browsing-button-label = ابدأ التصفح
+onboarding-not-now-button-label = ليس الآن
 onboarding-cards-dismiss =
     .title = ألغِ
     .aria-label = ألغِ
