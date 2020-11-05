@@ -23,6 +23,20 @@ about-processes-column-cpu-total = Prosessor
 
 ## Details within processes
 
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Fane: { $name }
+about-processes-preloaded-tab = Forhåndslastet ny fane
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Underramme: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Underrammer ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -33,6 +47,10 @@ about-processes-column-cpu-total = Prosessor
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = inaktiv ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -45,6 +63,10 @@ about-processes-column-cpu-total = Prosessor
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
