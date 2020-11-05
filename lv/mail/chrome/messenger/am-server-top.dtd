@@ -2,16 +2,60 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY messageStorage.label "Vēstuļu krātuve">
+<!ENTITY securitySettings.label "Drošības iestatījumi">
+<!ENTITY serverSettings.label "Servera iestatījumi">
+<!ENTITY serverType.label "Servera veids:">
+<!ENTITY serverName.label "Servera nosaukums:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Lietotājvārds:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Ports:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Noklusētais:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
+<!ENTITY biffStart.label "Pārbaudīt jaunas vēstules katru">
+<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffEnd.label "minūti">
+<!ENTITY useIdleNotifications.label "Kad pienāk jauna vēstule, atļaut tūlītēju servera paziņojumu">
+<!ENTITY useIdleNotifications.accesskey "w">
+<!ENTITY connectionSecurity.label "Savienojuma drošība:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Nav">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ja pieejams">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Autentifikācijas veids:">
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY leaveOnServer.label "Atstāt vēstules serverī">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Ielādēt tikai galvenes">
+<!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.label "Par maksimums">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dienas">
+<!ENTITY deleteOnServer2.label "Līdz tās izdzēšat">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Automātiski lejuplādēt jaunas vēstules">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY deleteMessagePrefix.label "Kad dzēšat vēstuli:">
+<!ENTITY modelMoveToTrash.label "Pārvietot to uz šo mapi:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Vienkārši atzīmēt to kā dzēstu">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Dzēst nekavējoties">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Izejot iztīrīt (&quot;izdzēst&quot;) iesūtni">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Izejot iztukšot atkritni">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "Pārbaudīt jaunas vēstules palaižot">
+<!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
