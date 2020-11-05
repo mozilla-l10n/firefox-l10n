@@ -67,6 +67,11 @@ about-processes-preloaded-tab = לשונית חדשה טעונה מראש
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = מסגרת משנה: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = מסגרות משנה ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -77,6 +82,10 @@ about-processes-frame-name-one = מסגרת משנה: { $url }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (בתהליך מדידה)
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -95,3 +104,7 @@ about-processes-frame-name-one = מסגרת משנה: { $url }
 
 ## Memory units
 
+memory-unit-B = ב׳
+memory-unit-KB = ק״ב
+memory-unit-MB = מ״ב
+memory-unit-GB = ג״ב
