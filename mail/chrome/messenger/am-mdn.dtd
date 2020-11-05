@@ -29,3 +29,5 @@
 <!ENTITY otherCases.label             "Visos citos gadījumos:">
 <!ENTITY otherCases.accesskey         "o">
 <!ENTITY askMe.label                  "Jautāt">
+<!ENTITY alwaysSend.label             "Sūtīt vienmēr">
+<!ENTITY neverSend.label              "Nesūtīt nekad">
