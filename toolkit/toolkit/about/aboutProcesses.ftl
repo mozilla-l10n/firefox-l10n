@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Tabbladen leegmaken en proces beëindigen
 about-processes-shutdown-tab =
     .title = Tabblad sluiten
 

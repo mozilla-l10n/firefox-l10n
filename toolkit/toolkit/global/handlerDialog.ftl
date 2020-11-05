@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> wil een <strong>{ $scheme }</st
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Toestaan dat deze website de { $scheme }-koppeling opent?
+permission-dialog-description-file = Toestaan dat dit bestand de { $scheme }-koppeling opent?
 permission-dialog-description-host = Toestaan dat { $host } de { $scheme }-koppeling opent?
 permission-dialog-description-app = Toestaan dat deze website de { $scheme }-koppeling opent met { $appName }?
 permission-dialog-description-host-app = Toestaan dat { $host } de { $scheme }-koppeling opent met { $appName }?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Toestaan dat dit bestand de { $scheme }-koppeling opent met { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Altijd toestaan dat <strong>{ $host }</strong> <strong>{ $scheme }</strong>-koppelingen opent
+permission-dialog-remember-file = Altijd toestaan dat dit bestand <strong>{ $scheme }</strong>-koppelingen opent
+
+##
+
 permission-dialog-btn-open-link =
     .label = Koppeling openen
     .accessKey = o
