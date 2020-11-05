@@ -34,9 +34,51 @@ about-processes-web-large-allocation = Gwe (proses { $pid }, mawr) ar gyfer { $o
 about-processes-with-coop-coep-process-name = Gwe (proses { $pid }, traws-darddiad ynyswyd) ar gyfer { $origin }
 about-processes-file-process-name = Ffeiliau (proses { $pid })
 about-processes-extension-process-name = Estyniadau (proses { $pid })
+about-processes-privilegedabout-process-name = Ynghylch (proses { $pid })
+about-processes-plugin-process-name = Ategion (proses { $pid })
+about-processes-privilegedmozilla-process-name = Gwe (proses { $pid }) ar gyfer gwefannau { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Ategion Cyfryngau Gecko (proses { $pid })
+about-processes-gpu-process-name = GPU (proses { $pid })
+about-processes-vr-process-name = VR (proses { $pid })
+about-processes-rdd-process-name = Datgodiwr Data (proses { $pid })
+about-processes-socket-process-name = Rhwydwaith (proses { $pid })
+about-processes-remote-sandbox-broker-process-name = Brocer Blwch Tywod Pell (proses { $pid })
+about-processes-fork-server-process-name = Gweinydd Fforc (proses { $pid })
+about-processes-preallocated-process-name = Rhag-ddyrannwyd (proses { $pid })
+about-processes-unknown-process-name = Arall ({ $type }, proses { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Proses { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Trywyddau ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Trywydd { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Tab: { $name }
+about-processes-preloaded-tab = Tab Newydd wedi'i Rhag-lwytho
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Is-ffrâm: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Is-fframiau ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -47,6 +89,12 @@ about-processes-extension-process-name = Estyniadau (proses { $pid })
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, arddull: "canran") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (yn mesur)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = segur ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -59,9 +107,20 @@ about-processes-extension-process-name = Estyniadau (proses { $pid })
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = h
+duration-unit-d = d
 
 ## Memory units
 
