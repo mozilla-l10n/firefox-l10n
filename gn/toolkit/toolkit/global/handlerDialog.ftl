@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong>ombojurujase juajuha<strong>{ $s
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = ¿Emoneĩ ko tendápe tombojuruja juajuha { $scheme }?
+permission-dialog-description-file = ¿Emoneĩ ko marandurendápe tombojuruja juajuha { $scheme }?
 permission-dialog-description-host = ¿Emoneĩ { $host } tombojuruja juajuha { $scheme }?
 permission-dialog-description-app = ¿Emoneĩ ko tendápe tombojuruja juajuha { $scheme } { $appName } ndive?
 permission-dialog-description-host-app = ¿Emoneĩ { $host } tombojuruja juajuha { $scheme } { $appName } ndive?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = ¿Emoneĩ ko marandurendápe tombojuruja juajuha { $scheme } { $appName } ndive?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Emoneĩ meme <strong>{ $host }</strong> embojuruja juajuha</strong>{ $scheme }</strong>
+permission-dialog-remember-file = Emoneĩ tapia ko marandurendápe tombojuruja <strong>{ $scheme }</strong> juajuha
+
+##
+
 permission-dialog-btn-open-link =
     .label = Joajuha ijurujáva
     .accessKey = O
