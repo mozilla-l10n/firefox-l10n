@@ -42,6 +42,15 @@ about-processes-gpu-process-name = GPU (processo { $pid })
 about-processes-vr-process-name = Realidade virtual (processo { $pid })
 about-processes-rdd-process-name = Decodificador de dados (processo { $pid })
 about-processes-socket-process-name = Rede (processo { $pid })
+about-processes-remote-sandbox-broker-process-name = Agente de sandbox remoto (processo { $pid })
+about-processes-fork-server-process-name = Servidor Fork (processo { $pid })
+about-processes-preallocated-process-name = Pré-alocado (processo { $pid })
+about-processes-unknown-process-name = Outro ({ $type }, processo { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Processo { $pid }: { $name }
 
 ## Details within processes
 
