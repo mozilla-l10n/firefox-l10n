@@ -32,6 +32,8 @@ about-processes-web-process-name = רשת (מזהה תהליך { $pid }, משו�
 about-processes-web-isolated-process-name = רשת (מזהה תהליך { $pid }) עבור { $origin }
 about-processes-file-process-name = קבצים (מזהה תהליך { $pid })
 about-processes-extension-process-name = הרחבות (מזהה תהליך { $pid })
+about-processes-plugin-process-name = תוספים חיצוניים (מזהה תהליך { $pid })
+about-processes-privilegedmozilla-process-name = רשת (מזהה תהליך { $pid }) עבור אתרים של { -vendor-short-name }
 
 ## Details within processes
 
