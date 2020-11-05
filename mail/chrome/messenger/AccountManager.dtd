@@ -2,12 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Postafiók beállításai">
-
 <!ENTITY  accountManagerCloseButton.label "Bezárás">
 
 <!ENTITY accountActionsButton.label "Postafiók-műveletek">
@@ -25,7 +22,7 @@
 <!ENTITY removeButton.label "Postafiók eltávolítása">
 <!ENTITY removeButton.accesskey "e">
 
-<!-- AccountManager.xul -->
+<!ENTITY addonsButton.label "Kiegészítők és témák">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
