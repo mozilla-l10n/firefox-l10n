@@ -253,6 +253,7 @@ cfr-doorhanger-doh-secondary-button = Pe’a
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Ne ñemigua romomba’e. { -brand-short-name } ko’ág̃a omoha’eño ñanduti renda peteĩva ambu’egui, ombohasyvéva umi mba’evaiapohápe omondávo ne ñe’ẽñemi, kuatia’atã ñemurã papapy ha ambue marandu ehayhúva.
 cfr-doorhanger-fission-header = Tenda ñemoha’eño
 cfr-doorhanger-fission-primary-button = OK, arekóma
     .accesskey = O
