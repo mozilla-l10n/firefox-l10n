@@ -50,7 +50,7 @@ about-processes-unknown-process-name = 其他（{ $type }，进程 { $pid }）
 # Variables:
 #   $name (String) The name assigned to the process.
 #   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = 进程 { $pid }: { $name }
+about-processes-process-name = 进程 { $pid }：{ $name }
 
 ## Details within processes
 
@@ -64,11 +64,11 @@ about-processes-thread-summary = 线程（{ $number }）
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = 线程 { $tid }: { $name }
+about-processes-thread-name = 线程 { $tid }：{ $name }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
-about-processes-tab-name = 标签页: { $name }
+about-processes-tab-name = 标签页：{ $name }
 about-processes-preloaded-tab = 预加载的新标签页
 # Single subframe
 # Variables:
@@ -78,7 +78,7 @@ about-processes-frame-name-one = 子帧：{ $url }
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
-about-processes-frame-name-many = 子帧（{ $number }）: { $shortUrl }
+about-processes-frame-name-many = 子帧（{ $number }）：{ $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
