@@ -31,6 +31,16 @@ about-processes-browser-process-name = { -brand-short-name } (proceso { $pid })
 about-processes-web-process-name = Web (proceso { $pid }, compartido)
 about-processes-web-isolated-process-name = Web (proceso { $pid }) para { $origin }
 about-processes-web-large-allocation = Web (proceso { $pid }, grande) para { $origin }
+about-processes-with-coop-coep-process-name = Web (proceso { $pid }, origen cruzado aislado) para { $origin }
+about-processes-file-process-name = Archivos (proceso { $pid })
+about-processes-extension-process-name = Extensiones (proceso { $pid })
+about-processes-privilegedabout-process-name = Acerca de (proceso { $pid } )
+about-processes-plugin-process-name = Complementos (proceso { $pid })
+about-processes-privilegedmozilla-process-name = Web (proceso { $pid }) para sitios { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Complementos de medios de Gecko (proceso { $pid })
+about-processes-gpu-process-name = GPU (proceso { $pid })
+about-processes-vr-process-name = VR (proceso { $pid })
+about-processes-rdd-process-name = Decodificador de datos (proceso { $pid })
 
 ## Details within processes
 
