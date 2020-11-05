@@ -20,7 +20,7 @@
 <!ENTITY newAddressBookCmd.accesskey                    "g">
 <!ENTITY newCardDAVBookCmd.label                        "CardDAV Adrešu grāmata…">
 <!ENTITY newCardDAVBookCmd.accesskey                    "V">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP direktorija…">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP katalogs…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Vēstule">
 <!ENTITY newMessageCmd.key                              "M">
