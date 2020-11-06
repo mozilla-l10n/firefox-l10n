@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = "Ξεφόρτωμα" καρτελών και τερματισμός διεργασίας
 about-processes-shutdown-tab =
     .title = Κλείσιμο καρτέλας
 
@@ -29,14 +31,20 @@ about-processes-browser-process-name = { -brand-short-name } (διεργασία
 about-processes-web-process-name = Διαδίκτυο (διεργασία { $pid }, κοινό)
 about-processes-web-isolated-process-name = Διαδίκτυο (διεργασία { $pid }) για { $origin }
 about-processes-web-large-allocation = Διαδίκτυο (διεργασία { $pid }, μεγάλο) για { $origin }
+about-processes-with-coop-coep-process-name = Διαδίκτυο (διεργασία { $pid }, απομονωμένο από προελεύσεις) για { $origin }
 about-processes-file-process-name = Αρχεία (διεργασία { $pid })
 about-processes-extension-process-name = Επεκτάσεις (διεργασία { $pid })
+about-processes-privilegedabout-process-name = Πληροφορίες (διεργασία { $pid })
 about-processes-plugin-process-name = Αρθρώματα (διεργασία { $pid })
+about-processes-privilegedmozilla-process-name = Διαδίκτυο (διεργασία { $pid }) για ιστοσελίδες { -vendor-short-name }
 about-processes-gmp-plugin-process-name = Αρθρώματα πολυμέσων Gecko (διεργασία { $pid })
 about-processes-gpu-process-name = GPU (διεργασία { $pid })
 about-processes-vr-process-name = VR (διεργασία { $pid })
 about-processes-rdd-process-name = Αποκωδικοποιητής δεδομένων (διεργασία { $pid })
 about-processes-socket-process-name = Δίκτυο (διεργασία { $pid })
+about-processes-remote-sandbox-broker-process-name = Απομακρυσμένο Sandbox Broker (διεργασία { $pid })
+about-processes-fork-server-process-name = Διακομιστής Fork (διεργασία { $pid })
+about-processes-preallocated-process-name = Προκατανεμημένο (διεργασία { $pid })
 about-processes-unknown-process-name = Άλλο ({ $type }, διεργασία { $pid })
 # Process
 # Variables:
@@ -46,6 +54,17 @@ about-processes-process-name = Διεργασία { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Νήματα ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Νήμα { $tid }: { $name }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
