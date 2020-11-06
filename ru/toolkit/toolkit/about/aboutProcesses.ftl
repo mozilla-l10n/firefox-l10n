@@ -30,6 +30,18 @@ about-processes-column-cpu-total = ЦП
 about-processes-browser-process-name = { -brand-short-name } (процесс { $pid })
 about-processes-web-process-name = Веб (процесс { $pid }, общий)
 about-processes-web-isolated-process-name = Веб (процесс { $pid }) для { $origin }
+about-processes-web-large-allocation = Веб (процесс { $pid }, большой) для { $origin }
+about-processes-with-coop-coep-process-name = Веб (процесс { $pid }, изолирован от посторонних источников) для { $origin }
+about-processes-file-process-name = Файлы (процесс { $pid })
+about-processes-extension-process-name = Расширения (процесс { $pid })
+about-processes-privilegedabout-process-name = Страница About (процесс { $pid })
+about-processes-plugin-process-name = Плагины (процесс { $pid })
+about-processes-privilegedmozilla-process-name = Веб (процесс { $pid }) для сайтов { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Медиаплагины Gecko (процесс { $pid })
+about-processes-gpu-process-name = GPU (процесс { $pid })
+about-processes-vr-process-name = VR (процесс { $pid })
+about-processes-rdd-process-name = Декодер данных (процесс { $pid })
+about-processes-socket-process-name = Сеть (процесс { $pid })
 
 ## Details within processes
 
