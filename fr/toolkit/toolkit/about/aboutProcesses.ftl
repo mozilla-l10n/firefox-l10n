@@ -2,12 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Gestionnaire de processus
+# The Actions column
+about-processes-column-action =
+    .title = Actions
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = Fermer l’onglet
 
 ## Column headers
 
+about-processes-column-name = Nom
+about-processes-column-memory-resident = Mémoire
+about-processes-column-cpu-total = Processeur
 
 ## Process names
 ## Variables:
@@ -15,6 +25,9 @@
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (processus { $pid })
+about-processes-web-process-name = Web (processus { $pid }, partagé)
+about-processes-web-isolated-process-name = Web (processus { $pid }) pour { $origin }
 
 ## Details within processes
 
