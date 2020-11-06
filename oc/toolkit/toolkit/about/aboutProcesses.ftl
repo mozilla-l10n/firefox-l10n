@@ -28,9 +28,18 @@ about-processes-column-cpu-total = Processor
 about-processes-browser-process-name = { -brand-short-name } (processus { $pid })
 about-processes-web-process-name = Web (processús { $pid }, partejat)
 about-processes-file-process-name = Fichièrs (processús { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Processús { $pid } : { $name }
 
 ## Details within processes
 
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Onglet : { $name }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -41,6 +50,10 @@ about-processes-file-process-name = Fichièrs (processús { $pid })
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (es a mesurar)
 
 ## Displaying Memory (total and delta)
 ## Variables:
