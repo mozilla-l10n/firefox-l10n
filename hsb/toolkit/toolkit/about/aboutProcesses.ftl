@@ -30,7 +30,7 @@ about-processes-column-cpu-total = CPU
 about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
 about-processes-web-process-name = Web (proces { $pid }, dźěleny)
 about-processes-web-isolated-process-name = Web (proces { $pid }) za { $origin }
-about-processes-web-large-allocation = Web (proces { $pid }, large) za { $origin }
+about-processes-web-large-allocation = Web (proces { $pid }, wulki) za { $origin }
 about-processes-with-coop-coep-process-name = Web (proces { $pid }, cross-origin izolowany) za { $origin }
 about-processes-file-process-name = Dataje (proces { $pid })
 about-processes-extension-process-name = Rozšěrjenja (proces { $pid })
@@ -43,7 +43,7 @@ about-processes-vr-process-name = VR (proces { $pid })
 about-processes-rdd-process-name = Datowy dekoder (proces { $pid })
 about-processes-socket-process-name = Syć (proces { $pid })
 about-processes-remote-sandbox-broker-process-name = Zdaleny broker pěskoweho kašćika (proces { $pid })
-about-processes-fork-server-process-name = Forkowy server (proces { $pid })
+about-processes-fork-server-process-name = Forkowy serwer (proces { $pid })
 about-processes-preallocated-process-name = Do toho připokazany (proces { $pid })
 about-processes-unknown-process-name = Druhi ({ $type }, proces { $pid })
 # Process
