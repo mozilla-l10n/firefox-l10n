@@ -32,8 +32,10 @@ about-processes-web-large-allocation = Διαδίκτυο (διεργασία { 
 about-processes-file-process-name = Αρχεία (διεργασία { $pid })
 about-processes-extension-process-name = Επεκτάσεις (διεργασία { $pid })
 about-processes-plugin-process-name = Αρθρώματα (διεργασία { $pid })
+about-processes-gmp-plugin-process-name = Αρθρώματα πολυμέσων Gecko (διεργασία { $pid })
 about-processes-gpu-process-name = GPU (διεργασία { $pid })
 about-processes-vr-process-name = VR (διεργασία { $pid })
+about-processes-rdd-process-name = Αποκωδικοποιητής δεδομένων (διεργασία { $pid })
 about-processes-socket-process-name = Δίκτυο (διεργασία { $pid })
 about-processes-unknown-process-name = Άλλο ({ $type }, διεργασία { $pid })
 # Process
