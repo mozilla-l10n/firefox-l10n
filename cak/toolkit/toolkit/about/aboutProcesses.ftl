@@ -35,6 +35,11 @@ about-processes-with-coop-coep-process-name = Ajk'amaya'l (tajinïk { $pid } jec
 about-processes-file-process-name = Taq yakb'äl (Tajinïk { $pid })
 about-processes-extension-process-name = Taq k'amal (tajinïk { $pid })
 about-processes-privilegedabout-process-name = Chi rij (tajinïk { $pid })
+about-processes-plugin-process-name = Taq nakab'äl (tajinïk { $pid })
+about-processes-privilegedmozilla-process-name = Ajk'amaya'al (tajinïk { $pid }) richin { -vendor-short-name } taq ruxaq
+about-processes-gmp-plugin-process-name = Gecko K'oxom Nak'ab'äl (tajinïk { $pid })
+about-processes-gpu-process-name = GPU (tajinïk { $pid })
+about-processes-vr-process-name = VR (tajinïk { $pid })
 
 ## Details within processes
 
