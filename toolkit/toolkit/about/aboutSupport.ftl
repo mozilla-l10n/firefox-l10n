@@ -68,6 +68,7 @@ app-basics-service-workers = Service workers inscrits
 app-basics-profiles = Profils
 app-basics-launcher-process-status = Processus de lancement
 app-basics-multi-process-support = Fenêtres multiprocessus
+app-basics-fission-support = Fenêtres Fission
 app-basics-remote-processes-count = Processus distants
 app-basics-enterprise-policies = Stratégies d’entreprise
 app-basics-location-service-key-google = Clé du service de localisation de Google
