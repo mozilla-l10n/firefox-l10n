@@ -334,6 +334,16 @@ multi-process-status-unknown = État inconnu
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Désactivées par une expérience
+fission-status-experiment-treatment = Activées par une expérience
+fission-status-disabled-by-e10s-env = Désactivées par l’environnement
+fission-status-enabled-by-env = Activées par l’environnement
+fission-status-disabled-by-safe-mode = Désactivées par le mode sans échec
+fission-status-enabled-by-default = Activées par défaut
+fission-status-disabled-by-default = Désactivées par défaut
+fission-status-enabled-by-user-pref = Activées par l’utilisateur
+fission-status-disabled-by-user-pref = Désactivées par l’utilisateur
+fission-status-disabled-by-e10s-other = Désactivées par E10s
 async-pan-zoom = Zoom/Panoramique asynchrones
 apz-none = aucun
 wheel-enabled = entrée molette activée
@@ -358,3 +368,8 @@ policies-error = Erreur
 ## Printing section
 
 support-printing-title = Impression
+support-printing-troubleshoot = Résolution de problèmes
+support-printing-clear-settings-button = Effacer les paramètres d’impression enregistrés
+support-printing-modified-settings = Paramètres d’impression modifiés
+support-printing-prefs-name = Nom
+support-printing-prefs-value = Valeur

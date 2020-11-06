@@ -495,6 +495,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sites les plus visités
 home-prefs-topsites-description = Les sites que vous visitez le plus
+home-prefs-topsites-by-option-sponsored =
+    .label = Sites populaires sponsorisés
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
