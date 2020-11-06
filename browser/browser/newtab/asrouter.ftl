@@ -251,6 +251,7 @@ cfr-doorhanger-doh-secondary-button = Désactiver
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-body-approved = Votre vie privée est importante. Désormais, { -brand-short-name } isole les sites web les uns des autres, ou les ouvre dans des bacs à sable, compliquant ainsi la tâche des pirates pour dérober mots de passe, numéros de carte bancaire et autres données sensibles.
+cfr-doorhanger-fission-header = Isolement des sites
 cfr-doorhanger-fission-primary-button = J’ai compris
     .accesskey = c
 cfr-doorhanger-fission-secondary-button = En savoir plus
