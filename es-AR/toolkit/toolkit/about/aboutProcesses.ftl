@@ -29,6 +29,7 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process-name = { -brand-short-name } (proceso { $pid })
 about-processes-web-process-name = Web (proceso { $pid }, compartido)
+about-processes-web-isolated-process-name = Web (proceso { $pid }) para { $origin }
 about-processes-web-large-allocation = Web (proceso { $pid }, grande) para { $origin }
 about-processes-with-coop-coep-process-name = Web (proceso { $pid }, origen cruzado aislado) para { $origin }
 about-processes-file-process-name = Archivos (proceso { $pid })
