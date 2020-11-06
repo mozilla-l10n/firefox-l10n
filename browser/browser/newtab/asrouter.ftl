@@ -264,6 +264,7 @@ cfr-doorhanger-doh-secondary-button = Znjemóžniś
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Waša priwatnosć jo wažna. { -brand-short-name } něnto websedła jadno wót drugego izolěrujo, což hackeram póśězujo, gronidła, numery kreditowych kórtow a druge sensibelne informacije kšadnuś.
 cfr-doorhanger-fission-header = Sedłowa izolacija
 cfr-doorhanger-fission-primary-button = W pórěźe, som zrozměł
     .accesskey = z
