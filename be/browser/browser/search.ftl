@@ -13,7 +13,7 @@ opensearch-error-duplicate-desc = { -brand-short-name } не можа ўстал
 opensearch-error-format-title = Некарэктны фармат
 opensearch-error-format-desc = { -brand-short-name } не можа ўсталяваць пашукавік з: { $location-url }
 opensearch-error-download-title = Памылка сцягвання
-opensearch-error-download-desc = { -brand-short-name } не можа загрузіць плагін пошуку з: { $location-url }
+opensearch-error-download-desc = { -brand-short-name } не можа сцягнуць плагін пошуку з: { $location-url }
 
 ##
 
