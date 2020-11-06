@@ -329,6 +329,10 @@ multi-process-status-6 = Désactivé par une méthode de saisie non prise en cha
 multi-process-status-7 = Désactivé par des modules complémentaires
 multi-process-status-8 = Désactivé de force
 multi-process-status-unknown = État inconnu
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Zoom/Panoramique asynchrones
 apz-none = aucun
 wheel-enabled = entrée molette activée
