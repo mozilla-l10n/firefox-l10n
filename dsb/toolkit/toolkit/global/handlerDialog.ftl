@@ -17,11 +17,19 @@ handler-dialog-host = <strong>{ $host }</strong> co wótkaz <strong>{ $scheme }<
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Toś tomu sedłoju dowóliś, wótkaz typa { $scheme } wócyniś?
+permission-dialog-description-file = Toś tej dataji dowóliś, wótkaz typa { $scheme } wócyniś?
+permission-dialog-description-host = { $host } dowóliś, wótkaz typa { $scheme } wócyniś?
+permission-dialog-description-app = Toś tomu sedłoju dowóliś, wótkaz typa { $scheme } z { $appName } wócyniś?
+permission-dialog-description-host-app = { $host } dowóliś, wótkaz typa { $scheme } z { $appName } wócyniś?
+permission-dialog-description-file-app = Toś tej dataji dowóliś, wótkaz typa { $scheme } z { $appName } wócyniś?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = Pśecej <strong>{ $host }</strong> dowóliś, wótkaze typa <strong>{ $scheme }</strong> wócyniś
+permission-dialog-remember-file = Toś tej dataji pśecej dowóliś, wótkaze typa <strong>{ $scheme }</strong> wócyniś
 
 ##
 
