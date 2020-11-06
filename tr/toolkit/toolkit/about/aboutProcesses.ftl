@@ -17,6 +17,7 @@ about-processes-shutdown-tab =
 
 about-processes-column-name = İsim
 about-processes-column-memory-resident = Bellek
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -25,6 +26,19 @@ about-processes-column-memory-resident = Bellek
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (işlem { $pid })
+about-processes-web-process-name = Web (işlem { $pid }, paylaşımlı)
+about-processes-web-isolated-process-name = Web (işlem { $pid }) { $origin } için
+about-processes-web-large-allocation = Web (işlem{ $pid }, büyük) { $origin } için
+about-processes-file-process-name = Dosyalar (işlem { $pid })
+about-processes-extension-process-name = Eklentiler (işlem { $pid })
+about-processes-privilegedabout-process-name = Hakkında (işlem { $pid })
+about-processes-plugin-process-name = Yan uygulamalar (işlem { $pid })
+about-processes-privilegedmozilla-process-name = Web (işlem { $pid }) { -vendor-short-name } siteleri için
+about-processes-gmp-plugin-process-name = Gecko ortam yan uygulamaları (işlem { $pid })
+about-processes-gpu-process-name = GPU (işlem { $pid })
+about-processes-vr-process-name = VR (işlem { $pid })
+about-processes-rdd-process-name = Veri çözücü (işlem { $pid })
+about-processes-socket-process-name = Ağ (işlem { $pid })
 about-processes-unknown-process-name = Diğer ({ $type }, işlem { $pid })
 # Process
 # Variables:
@@ -38,6 +52,16 @@ about-processes-process-name = İşlem { $pid }: { $name }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Sekme: { $name }
+about-processes-preloaded-tab = Önyüklenmiş yeni sekme
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Alt çerçeve: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Alt çerçeveler ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -48,6 +72,10 @@ about-processes-tab-name = Sekme: { $name }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (ölçülüyor)
 
 ## Displaying Memory (total and delta)
 ## Variables:
