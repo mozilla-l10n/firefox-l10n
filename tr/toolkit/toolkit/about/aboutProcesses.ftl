@@ -54,6 +54,17 @@ about-processes-process-name = İşlem { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = İş parçacıkları ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = İş parçacığı { $tid }: { $name }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -96,6 +107,8 @@ about-processes-cpu-user-and-kernel-idle = boşta ({ NUMBER($total, maximumFract
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
