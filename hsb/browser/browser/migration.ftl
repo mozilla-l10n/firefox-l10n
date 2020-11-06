@@ -54,6 +54,8 @@ import-source-page-title = Daty a nastajenja importować
 import-items-page-title = Objekty za importowanje
 import-items-description = Wubjerće objekty za importowanje:
 import-permissions-page-title = Prošu dajće { -brand-short-name } prawa
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS sej wužaduje, zo { -brand-short-name } eksplicitnje přistup k zapołožkam Safari dowolujeće. Klikńće na „Pokročować“ a wubjerće dataju „Bookmarks.plist“ we woknje „Dataju wočinić“, kotrež so jewi.
 import-migrating-page-title = Importuje so…
 import-migrating-description = Slědowace objekty so runje importuja…
 import-select-profile-page-title = Profil wubrać
