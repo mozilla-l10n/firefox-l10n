@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Sekmeleri kaldır ve işlemi sonlandır
 about-processes-shutdown-tab =
     .title = Sekmeyi kapat
 
@@ -29,6 +31,7 @@ about-processes-browser-process-name = { -brand-short-name } (işlem { $pid })
 about-processes-web-process-name = Web (işlem { $pid }, paylaşımlı)
 about-processes-web-isolated-process-name = Web (işlem { $pid }) { $origin } için
 about-processes-web-large-allocation = Web (işlem{ $pid }, büyük) { $origin } için
+about-processes-with-coop-coep-process-name = Web (işlem { $pid }, çapraz köken izole) { $origin } için
 about-processes-file-process-name = Dosyalar (işlem { $pid })
 about-processes-extension-process-name = Eklentiler (işlem { $pid })
 about-processes-privilegedabout-process-name = Hakkında (işlem { $pid })
@@ -39,6 +42,9 @@ about-processes-gpu-process-name = GPU (işlem { $pid })
 about-processes-vr-process-name = VR (işlem { $pid })
 about-processes-rdd-process-name = Veri çözücü (işlem { $pid })
 about-processes-socket-process-name = Ağ (işlem { $pid })
+about-processes-remote-sandbox-broker-process-name = Uzak sandbox aracısı (işlem { $pid })
+about-processes-fork-server-process-name = Fork sunucusu (işlem { $pid })
+about-processes-preallocated-process-name = Ayrılmış (işlem { $pid })
 about-processes-unknown-process-name = Diğer ({ $type }, işlem { $pid })
 # Process
 # Variables:
@@ -76,6 +82,8 @@ about-processes-frame-name-many = Alt çerçeveler ({ $number }): { $shortUrl }
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ölçülüyor)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = boşta ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -88,6 +96,8 @@ about-processes-cpu-user-and-kernel-not-ready = (ölçülüyor)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
