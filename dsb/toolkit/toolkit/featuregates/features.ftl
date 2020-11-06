@@ -97,3 +97,4 @@ experimental-features-js-warp-description = Zmóžniśo Warp, projekt za pólěp
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (sedłowa izolacija)
+experimental-features-fission-description = Fission (izolěrowanje websedłow) jo eksperimentelna funkcija w { -brand-short-name }, aby pśidatnu šćitnu warštwu pśeśiwo wěstotnym zmólkam k dispoziciji stajiła. Pśez izolěrowanje kuždego sedła w separatnem procesu, Fission złosnym websedłam póśěežujo, pśistup k informacijam z drugich bokow dostaś, ku kótarymž se woglědujośo. To jo wjelika architekturna změna w { -brand-short-name } a wjaselimy se, jolic wšykne problemy, na kótarež starcyjośo, testujośo a k wěsće dajośo. Za dalšne drobnostki glejśo <a data-l10n-name="wiki">wiki</a>.
