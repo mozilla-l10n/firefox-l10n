@@ -41,6 +41,7 @@ about-processes-gpu-process-name = GPU (tiến trình { $pid })
 about-processes-vr-process-name = VR (tiến trình { $pid })
 about-processes-rdd-process-name = Bộ giải mã dữ liệu (tiến trình { $pid })
 about-processes-socket-process-name = Mạng (tiến trình { $pid })
+about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (tiến trình { $pid })
 about-processes-fork-server-process-name = Máy chủ Fork (tiến trình { $pid })
 about-processes-preallocated-process-name = Đã phân bổ trước (tiến trình { $pid })
 about-processes-unknown-process-name = Khác ({ $type }, tiến trình { $pid })
@@ -68,6 +69,15 @@ about-processes-thread-name = Luồng { $tid }: { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Thẻ: { $name }
 about-processes-preloaded-tab = Thẻ mới được tải trước
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Khung phụ: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Khung phụ ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
