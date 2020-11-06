@@ -109,9 +109,13 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = কমকৈ টাইপ কৰক, বেছিকৈ বিচাৰক: আপোনাৰ ঠিকনা দণ্ডিকাৰে পৰা { $engineName } সন্ধান কৰক।
 urlbar-search-tips-redirect-2 = { $engineName }-ৰ পৰামৰ্শৱলী আৰু আপোনাৰ ব্ৰাউজিং ইতিহাস চাবলৈ ঠিকনা দণ্ডিকাত আপোনাৰ সন্ধান আৰম্ভ কৰক।
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = আপোনাক দ্ৰুততাৰে প্ৰয়োজন হোৱাটো বিচাৰিবলৈ এই চমুপথটো বাছনি কৰক।
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = বুকমাৰ্কসমূহ
 urlbar-search-mode-tabs = টেবসমূহ
 urlbar-search-mode-history = ইতিহাস
 
@@ -172,6 +176,15 @@ page-action-send-tabs-panel =
             [one] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
            *[other] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
         }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [1] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
+            [one] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
+           *[other] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
+        }
+page-action-pocket-panel =
+    .label = { -pocket-brand-name }-ত পৃষ্ঠা সাঁচি থওক
 page-action-copy-url-panel =
     .label = লিংক কপি কৰক
 page-action-copy-url-urlbar =
@@ -186,6 +199,8 @@ page-action-share-url-urlbar =
     .tooltiptext = ভাগ-বতৰা কৰক
 page-action-share-more-panel =
     .label = অধিক…
+page-action-send-tab-not-ready =
+    .label = ডিভাইচসমূহ ছিংক কৰি থকা হৈছ…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
@@ -228,6 +243,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ব্যক্তিগত উইণ্ড'ৰ বাবে ডিফ'ল্ট ছাৰ্চ ইঞ্জিনৰূপে ছেট কৰক
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -268,6 +289,11 @@ identity-passive-loaded = এই পৃষ্ঠাখনৰ কিছুমা�
 identity-active-loaded = আপুনি এই পৃষ্ঠাখনত সুৰক্ষা নিষ্ক্ৰিয় কৰিছে।
 identity-weak-encryption = এই পৃষ্ঠাখনে দুৰ্বল এনক্ৰীপশ্যন ব্যৱহাৰ কৰে।
 identity-insecure-login-forms = এই পৃষ্ঠাখনত প্ৰৱিষ্ট কৰা লগিনসমূহ আপোচ কৰা হ'ব পাৰে।
+identity-https-only-connection-upgraded = (HTTPSলৈ আপগ্ৰেড কৰা হৈছে)
+identity-https-only-dropdown-on =
+    .label = চালু
+identity-https-only-dropdown-off =
+    .label = বন্ধ
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাখন নষ্ট যেন লাগে তেন্তে আপুনি অসুৰক্ষিত HTTP ব্যৱহাৰ কৰি পুনৰ ল'ড কৰিবলৈ এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড বন্ধ কৰিব বিচাৰিব পাৰে।
 identity-permissions =
     .value = অনুমতিসমূহ
@@ -279,8 +305,11 @@ identity-connection-not-secure-security-view = আপুনি এই ছাই�
 identity-connection-verified = আপুনি এই ছাইটৰ লগত নিৰাপদে সংযুক্ত।
 identity-description-insecure = এই ছাইটৰ সৈতে আপোনাৰ সংযোগ ব্যক্তিগত নহয়। আপুনি দাখিল কৰা তথ্য আনে চাব পাৰে (যেনে পাছৱৰ্ড, বাৰ্তা, ক্ৰেডিট কাৰ্ড ইত্যাদি)।
 identity-description-insecure-login-forms = এই পৃষ্ঠাত আপুনি লিখা লগিনৰ তথ্য সুৰক্ষিত নহয় আৰু আপোচ কৰা হ'ব পাৰে।
+identity-description-weak-cipher-intro = এই ৱেবছাইটৰ সৈতে আপোনাৰ সংযোগে দুৰ্বল এন্‌ক্ৰিপশ্যন ব্যৱহাৰ কৰে আৰু ব্যক্তিগত নহয়।
 identity-description-weak-cipher-risk = অন্য লোকে আপোনাৰ তথ্য চাব পাৰে বা ৱেবছাইটৰ আচৰণ সলনি কৰিব পাৰে।
 identity-description-active-blocked = { -brand-short-name }-এ এই পৃষ্ঠাখনৰ কিছুমান অংশ অৱৰোধ কৰিছে যিবোৰ সুৰক্ষিত নহয়। <label data-l10n-name="link">অধিক জানক</label>
+identity-description-passive-loaded = আপোনাৰ সংযোগ ব্যক্তিগত নহয় আৰু আপুনি ছাইটৰ সৈতে ভাগ-বতৰা কৰা তথ্য আনে চাব পাৰে।
+identity-description-passive-loaded-insecure = এই ৱেবছাইটত এনে সমল আছে যি সুৰক্ষিত নহয় (যেনে ছবি)। <label data-l10n-name="link">অধিক জানক</label>
 identity-learn-more =
     .value = অধিক জানক
 identity-disable-mixed-content-blocking =
