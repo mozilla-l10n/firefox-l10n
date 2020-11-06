@@ -18,13 +18,21 @@ handler-dialog-host = Το <strong>{ $host }</strong> θέλει να ανοίξ
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Να επιτραπεί σε αυτή την ιστοσελίδα το άνοιγμα του συνδέσμου { $scheme };
+permission-dialog-description-file = Να επιτραπεί σε αυτό το αρχείο το άνοιγμα του συνδέσμου { $scheme };
 permission-dialog-description-host = Να επιτραπεί στο { $host } το άνοιγμα του συνδέσμου { $scheme };
 permission-dialog-description-app = Να επιτραπεί σε αυτή την ιστοσελίδα το άνοιγμα του συνδέσμου { $scheme } με το { $appName };
 permission-dialog-description-host-app = Να επιτραπεί στο { $host } το άνοιγμα του συνδέσμου { $scheme } με το { $appName };
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Να επιτραπεί σε αυτό το αρχείο το άνοιγμα του συνδέσμου { $scheme } με το { $appName };
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Να επιτρέπεται πάντα στο <strong>{ $host }</strong> το άνοιγμα συνδέσμων <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Να χρησιμοποιείται πάντα αυτό το αρχείο για άνοιγμα συνδέσμων <strong>{ $scheme }</strong>
+
+##
+
 permission-dialog-btn-open-link =
     .label = Άνοιγμα συνδέσμου
     .accessKey = Ά
