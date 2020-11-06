@@ -40,6 +40,8 @@ about-processes-privilegedmozilla-process-name = Ajk'amaya'al (tajinïk { $pid }
 about-processes-gmp-plugin-process-name = Gecko K'oxom Nak'ab'äl (tajinïk { $pid })
 about-processes-gpu-process-name = GPU (tajinïk { $pid })
 about-processes-vr-process-name = VR (tajinïk { $pid })
+about-processes-rdd-process-name = Sik'inel Tzij (tajinïk { $pid })
+about-processes-socket-process-name = K'amab'ey (tajinïk { $pid })
 
 ## Details within processes
 
