@@ -29,7 +29,7 @@ permission-dialog-description-file-app = Tutej dataji dowolić, wotkaz typa { $s
 ## of the sentence as your language's grammar allows.
 
 permission-dialog-remember = Přeco <strong>{ $host }</strong> dowolić, wotkazy typa <strong>{ $scheme }</strong> wočinić
-permission-dialog-remember-file = Tutej dataji přeco dowolić, wotkazy typa <strong>{ $scheme }</strong> wočinili
+permission-dialog-remember-file = Tutej dataji přeco dowolić, wotkazy typa <strong>{ $scheme }</strong> wočinić
 
 ##
 
