@@ -35,6 +35,9 @@ printui-destination-pdf-label = Uložiť ako PDF
 printui-more-settings = Ďalšie nastavenia
 printui-less-settings = Menej nastavení
 printui-paper-size-label = Veľkosť papiera
+# Section title (noun) for the print scaling options
+printui-scale = Mierka
+printui-scale-fit-to-page-width = Prispôsobiť šírke stránky
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Mierka
 # Section title for miscellaneous print options
@@ -48,11 +51,16 @@ printui-margins = Okraje
 printui-margins-default = Predvolené
 printui-margins-min = Minimálne
 printui-margins-none = Žiadne
+printui-margins-custom = Vlastné
 printui-system-dialog-link = Vytlačiť pomocou systémového dialógu…
 printui-primary-button = Tlačiť
 printui-primary-button-save = Uložiť
 printui-cancel-button = Zrušiť
 printui-loading = Pripravuje sa ukážka pred tlačou
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Ukážka pred tlačou
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -69,3 +77,4 @@ printui-paper-jis-b4 = JIS-B4
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Mierka musí byť číslo medzi 10 a 200.
