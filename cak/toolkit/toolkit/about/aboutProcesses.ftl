@@ -45,6 +45,7 @@ about-processes-socket-process-name = K'amab'ey (tajinïk { $pid })
 about-processes-remote-sandbox-broker-process-name = Näj Sandbox Broker (tajinïk { $pid })
 about-processes-fork-server-process-name = Fork Ruk'u'x Samaj (tajinïk { $pid })
 about-processes-preallocated-process-name = Ya'on chi (tajinïk { $pid })
+about-processes-unknown-process-name = Jun chik ({ $type }, tajinïk { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
@@ -68,6 +69,16 @@ about-processes-thread-name = Thread { $tid }: { $name }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Ruwi': { $name }
+about-processes-preloaded-tab = Samajin chik K'ak'a' Ruwi'
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Achruchi': { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Achruchi' ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -80,6 +91,10 @@ about-processes-tab-name = Ruwi': { $name }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (netäx)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = metzijïl ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -95,6 +110,20 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = h
+duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
