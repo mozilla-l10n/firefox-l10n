@@ -28,6 +28,9 @@ about-processes-column-cpu-total = Processor
 about-processes-browser-process-name = { -brand-short-name } (processus { $pid })
 about-processes-web-process-name = Web (processús { $pid }, partejat)
 about-processes-file-process-name = Fichièrs (processús { $pid })
+about-processes-extension-process-name = Extensions (processús { $pid })
+about-processes-privilegedabout-process-name = A prepaus (processús { $pid })
+about-processes-socket-process-name = Ret (processús { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
