@@ -31,6 +31,7 @@ about-processes-browser-process-name = { -brand-short-name } (tiến trình { $p
 about-processes-web-process-name = Web (tiến trình { $pid }, được chia sẻ)
 about-processes-web-isolated-process-name = Web (tiến trình { $pid }) cho { $origin }
 about-processes-web-large-allocation = Web (tiến trình { $pid }, lớn) cho { $origin }
+about-processes-with-coop-coep-process-name = Web (tiến trình { $pid }, nhiều trang web riêng biệt) cho { $origin }
 about-processes-file-process-name = Tập tin (tiến trình { $pid })
 about-processes-extension-process-name = Tiện ích mở rộng (tiến trình { $pid })
 about-processes-privilegedabout-process-name = About (tiến trình { $pid })
