@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> хочет открыть сс�
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Разрешить этому сайту открыть ссылку { $scheme }?
+permission-dialog-description-file = Разрешить этому файлу открыть ссылку { $scheme }?
 permission-dialog-description-host = Разрешить { $host } открыть ссылку { $scheme }?
 permission-dialog-description-app = Разрешить этому сайту открыть ссылку { $scheme } используя { $appName }?
 permission-dialog-description-host-app = Разрешить { $host } открыть ссылку { $scheme } используя { $appName }?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Разрешить этому файлу открыть ссылку { $scheme } используя { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Всегда разрешать <strong>{ $host }</strong> открывать ссылки <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Всегда разрешать этому файлу открывать ссылки <strong>{ $scheme }</strong>
+
+##
+
 permission-dialog-btn-open-link =
     .label = Открыть ссылку
     .accessKey = ы
