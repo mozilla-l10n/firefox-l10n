@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Globalne tšojenje <a da
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Pśidawanje konstruktora interfejsoju <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> ako teke wjelerakosći pśisłušnych změnow zmóžnja, nowe stilowe pśedłogi direktnje napóraś, bźez togo aby wy musał pśedłogu HTML pśidaś. To wólažcujo, zasej wužywajobne stilowe pśedłogi za wužywanje z <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> napóraś. Glejśo <a data-l10n-name="bugzilla">zmólkowu rozpšawu 1520690</a> za dalšne drobnostki.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Ceła implementacija { -brand-short-name } API Media Session jo tuchylu eksperimentelna. Toś ten API so wužywa, aby wobchadanje z powěźeńkami z póśěgom na medije pśiměrił, tšojenja a daty zastojał, kótarež su wužytne za pśedstajanje wužywaŕskego pówjercha za zastojanje wótgraśow medijow a aby metadaty medijoweje dataje dostał. Glejśo <a data-l10n-name="bugzilla">zmólkowu rozpšawu 1112032</a> za dalšne drobnostki.
 experimental-features-devtools-color-scheme-simulation =
     .label = Wuwijaŕske rědy: Simulacija barwneje šemy
 experimental-features-devtools-color-scheme-simulation-description = Pśidawa opciju za simulěrowanje rozdźělnych barwowych šemow, kótaraž wam zmóžnja, medijowe napšašowanja <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> testowaś. Z toś tym medijowym napšašowanim móžo waša stilowa pśedłoga na to reagěrowaś, lěc wužywaŕ swětły abo śamny wužywaŕski pówjerch preferěrujo. Toś ta funkcija wam zmóžnja, waš kod testowaś, bźez togo, aby wy musał nastajenja w swójom wobhlědowaku (abo źěłowem systemje, jolic wobglědowak se pó nastajenju barwoweje šemy systema ma). Glejśo <a data-l10n-name="bugzilla1">zmólkowu rozpšawu 1550804</a> a <a data-l10n-name="bugzilla2">zmólkowu rozpšawu 1137699</a> za dalšne drobnostki.
@@ -91,6 +86,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Zmó
 experimental-features-graphics-desktop-zooming =
     .label = Grafika: pózlažke dwójopalcowe skalěrowanje
 experimental-features-graphics-desktop-zooming-description = Pódpěru za pózlažke dwójopalcowe skalěrowanje na dotyknjeńskich wobrazowkach a preciznostne dótyknjeńske póla zmóžniś.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Globalne wóźenje za wušaltowanje zuka WebRTC
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
