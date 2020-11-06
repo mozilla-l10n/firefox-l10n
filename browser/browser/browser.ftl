@@ -335,6 +335,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button =
+    .label = นำเข้าที่คั่นหน้า…
+    .tooltiptext = คัดลอกที่คั่นหน้าจากเบราว์เซอร์อื่นไปยัง { -brand-short-name }
 
 ## WebRTC Pop-up notifications
 
@@ -439,8 +442,21 @@ urlbar-result-action-search-in-private = ค้นหาในหน้าต่
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = ค้นหาด้วย { $engine }
+urlbar-result-action-sponsored = ได้รับการสนับสนุน
 urlbar-result-action-switch-tab = สลับไปยังแท็บ
 urlbar-result-action-visit = เยี่ยมชม
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = กด Tab เพื่อค้นหาด้วย { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = กด Tab เพื่อค้นหา { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
