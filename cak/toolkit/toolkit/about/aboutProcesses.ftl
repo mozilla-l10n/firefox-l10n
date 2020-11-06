@@ -43,9 +43,31 @@ about-processes-vr-process-name = VR (tajinïk { $pid })
 about-processes-rdd-process-name = Sik'inel Tzij (tajinïk { $pid })
 about-processes-socket-process-name = K'amab'ey (tajinïk { $pid })
 about-processes-remote-sandbox-broker-process-name = Näj Sandbox Broker (tajinïk { $pid })
+about-processes-fork-server-process-name = Fork Ruk'u'x Samaj (tajinïk { $pid })
+about-processes-preallocated-process-name = Ya'on chi (tajinïk { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Tajinïk { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Threads ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Thread { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Ruwi': { $name }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -56,6 +78,8 @@ about-processes-remote-sandbox-broker-process-name = Näj Sandbox Broker (tajin�
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
