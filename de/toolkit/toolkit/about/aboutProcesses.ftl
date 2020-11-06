@@ -44,6 +44,8 @@ about-processes-rdd-process-name = Datendekoder (Prozess { $pid })
 about-processes-socket-process-name = Netzwerk (Prozess { $pid })
 about-processes-remote-sandbox-broker-process-name = Externer Sandbox-Broker (Prozess { $pid })
 about-processes-fork-server-process-name = Fork-Server (Prozess { $pid })
+about-processes-preallocated-process-name = Voralloziert (Prozess { $pid })
+about-processes-unknown-process-name = Andere ({ $type }, Prozess { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
@@ -67,6 +69,16 @@ about-processes-thread-name = Thread { $tid }: { $name }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Tab: { $name }
+about-processes-preloaded-tab = Vorgeladener neuer Tab
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Subframe: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -77,8 +89,12 @@ about-processes-tab-name = Tab: { $name }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (wird gemessen)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = untätig ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -91,6 +107,10 @@ about-processes-cpu-user-and-kernel-not-ready = (wird gemessen)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
