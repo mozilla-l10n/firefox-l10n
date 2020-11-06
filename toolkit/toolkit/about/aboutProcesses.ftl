@@ -87,8 +87,12 @@ about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (medición)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = inactivo ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
