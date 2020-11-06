@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Tabs zurücksetzen und Prozess beenden
 about-processes-shutdown-tab =
     .title = Tab schließen
 
@@ -29,13 +31,19 @@ about-processes-browser-process-name = { -brand-short-name } (Prozess { $pid })
 about-processes-web-process-name = Web (Prozess { $pid }, geteilt)
 about-processes-web-isolated-process-name = Web (Prozess { $pid }) für { $origin }
 about-processes-web-large-allocation = Web (Prozess { $pid }, groß) für { $origin }
+about-processes-with-coop-coep-process-name = Web (Prozess { $pid }, quellübergreifend isoliert) für { $origin }
 about-processes-file-process-name = Dateien (Prozess { $pid })
 about-processes-extension-process-name = Erweiterungen (Prozess { $pid })
+about-processes-privilegedabout-process-name = Über (Prozess { $pid })
 about-processes-plugin-process-name = Plugins (Prozess { $pid })
 about-processes-privilegedmozilla-process-name = Web (Prozess { $pid }) für { -vendor-short-name }-Websites
+about-processes-gmp-plugin-process-name = Gecko-Medien-Plugins (Prozess { $pid })
 about-processes-gpu-process-name = GPU (Prozess { $pid })
 about-processes-vr-process-name = VR (Prozess { $pid })
+about-processes-rdd-process-name = Datendekoder (Prozess { $pid })
 about-processes-socket-process-name = Netzwerk (Prozess { $pid })
+about-processes-remote-sandbox-broker-process-name = Externer Sandbox-Broker (Prozess { $pid })
+about-processes-fork-server-process-name = Fork-Server (Prozess { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
