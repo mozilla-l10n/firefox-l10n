@@ -42,6 +42,7 @@ about-processes-gpu-process-name = GPU (tajinïk { $pid })
 about-processes-vr-process-name = VR (tajinïk { $pid })
 about-processes-rdd-process-name = Sik'inel Tzij (tajinïk { $pid })
 about-processes-socket-process-name = K'amab'ey (tajinïk { $pid })
+about-processes-remote-sandbox-broker-process-name = Näj Sandbox Broker (tajinïk { $pid })
 
 ## Details within processes
 
