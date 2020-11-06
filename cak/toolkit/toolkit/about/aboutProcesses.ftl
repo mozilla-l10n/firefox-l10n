@@ -29,7 +29,8 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process-name = { -brand-short-name } (tajinïk { $pid })
 about-processes-web-process-name = Ajk'amaya'l (tajinïk { $pid }, komonin)
-about-processes-web-isolated-process-name = Ajk'amaya'l (tajinïk { $pid } richin { $origin })
+about-processes-web-isolated-process-name = Ajk'amaya'l (tajinïk { $pid }) richin { $origin }
+about-processes-web-large-allocation = Ajk'amaya'l (tajinïk { $pid } richin { $origin }, nïm raqän) richin { $origin }
 
 ## Details within processes
 
