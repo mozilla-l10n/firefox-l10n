@@ -89,6 +89,7 @@ experimental-features-graphics-desktop-zooming-description = Podpěru za łahodn
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Globalne wodźenje za zněmjenje WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Přidajće globalnemu dźělenskemu pokazej WebRTC wodźenske elementy, kotrež wužiwarjam zmóžnjeja, jich kanale mikrofona a kamery globalnje zněmić.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
