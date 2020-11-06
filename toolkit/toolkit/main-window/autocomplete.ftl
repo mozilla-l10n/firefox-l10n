@@ -11,11 +11,22 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importujte svoje prihlasovacie údaje pre { $host } a ďalšie stránky</div>
     <div data-l10n-name="line2">z prehliadača { $browser }</div>
+autocomplete-import-logins-info =
+    .tooltiptext = Ďalšie informácie
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Importujte svoje prihlasovacie údaje pre { $host }</div>
+    <div data-l10n-name="line2">a ďalšie stránky z prehliadača Google Chrome</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Importujte svoje prihlasovacie údaje pre { $host }</div>
+    <div data-l10n-name="line2">a ďalšie stránky z prehliadača Chromium</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Importujte svoje prihlasovacie údaje pre { $host }</div>
+    <div data-l10n-name="line2">a ďalšie stránky z prehliadača Microsoft Edge</div>
+
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Ďalšie informácie
+autocomplete-import-learn-more = Ďalšie informácie
