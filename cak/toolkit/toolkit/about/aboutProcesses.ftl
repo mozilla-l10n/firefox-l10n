@@ -31,6 +31,10 @@ about-processes-browser-process-name = { -brand-short-name } (tajinïk { $pid })
 about-processes-web-process-name = Ajk'amaya'l (tajinïk { $pid }, komonin)
 about-processes-web-isolated-process-name = Ajk'amaya'l (tajinïk { $pid }) richin { $origin }
 about-processes-web-large-allocation = Ajk'amaya'l (tajinïk { $pid } richin { $origin }, nïm raqän) richin { $origin }
+about-processes-with-coop-coep-process-name = Ajk'amaya'l (tajinïk { $pid } jech'un mejon xe'el) richin { $origin }
+about-processes-file-process-name = Taq yakb'äl (Tajinïk { $pid })
+about-processes-extension-process-name = Taq k'amal (tajinïk { $pid })
+about-processes-privilegedabout-process-name = Chi rij (tajinïk { $pid })
 
 ## Details within processes
 
