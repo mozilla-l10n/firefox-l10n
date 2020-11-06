@@ -130,3 +130,4 @@ memory-unit-MB = МБ
 memory-unit-GB = ГБ
 memory-unit-TB = ТБ
 memory-unit-PB = ПБ
+memory-unit-EB = ЭБ
