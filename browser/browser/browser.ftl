@@ -288,6 +288,7 @@ identity-passive-loaded = Des éléments de la page ne sont pas sécurisés (tel
 identity-active-loaded = Vous avez désactivé la protection sur cette page.
 identity-weak-encryption = Cette page utilise un faible niveau de chiffrement.
 identity-insecure-login-forms = Les identifiants saisis sur cette page pourraient être compromis.
+identity-https-only-connection-upgraded = (surclassé en HTTPS)
 identity-https-only-label = Mode HTTPS uniquement
 identity-https-only-dropdown-on =
     .label = Activé
