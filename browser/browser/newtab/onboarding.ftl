@@ -17,6 +17,14 @@ onboarding-button-label-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 onboarding-welcome-body = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ।<br/>ਬਾਕੀ { -brand-product-name } ਨੂੰ ਜਾਣੋ।
 onboarding-welcome-learn-more = ਫਾਇਦਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
@@ -36,9 +44,58 @@ onboarding-join-form-signin-label = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹ�
 # Text for link to submit the sign in form
 onboarding-join-form-signin = ਸਾਇਨ ਇਨ
 onboarding-start-browsing-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
+onboarding-not-now-button-label = ਹੁਣੇ ਨਹੀਂ
 onboarding-cards-dismiss =
     .title = ਰੱਦ ਕਰੋ
     .aria-label = ਰੱਦ ਕਰੋ
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = ਆਓ ਹਰ ਚੀਜ਼ ਦੀ ਛਾਣਬੀਣ ਸ਼ੁਰੂ ਕਰੀਏ, ਜੋ ਤੁਸੀਂ ਕਰ ਸਕਦੇ ਹੋ।
+onboarding-fullpage-form-email =
+    .placeholder = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
+onboarding-sync-welcome-content = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲਵੋ।
+onboarding-sync-welcome-learn-more-link = ਫਾਇਰਫਾਕਸ ਖਾਤਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰੋ
+onboarding-sync-form-input =
+    .placeholder = ਈਮੇਲ
+onboarding-sync-form-continue-button = ਜਾਰੀ ਰੱਖੋ
+onboarding-sync-form-skip-login-button = ਇਹ ਪਗ਼ ਛੱਡੋ
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = ਆਪਣਾ ਈਮੇਲ ਦਿਓ
+onboarding-sync-form-sub-header = { -sync-brand-name } ਨਾਲ ਜਾਰੀ ਰੱਖੋ
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = ਸੰਦਾਂ ਦੇ ਸਮੂਹ ਨਾਲ ਕੰਮ ਕਰੋ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦਾ ਸਨਮਾਣ ਕਰਦੇ ਹਨ।
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = ਜੋ ਵੀ ਅਸੀਂ ਕਰਦੇ ਹਨ, ਉਹ ਸਾਡੀ ਨਿੱਜੀ ਡਾਟੇ ਦੇ ਵਾਅਦੇ ਦਾ ਸਨਮਾਣ ਕਰਦੀ ਹੈ: ਘੱਟ ਲਵੋ। ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ।
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ { -brand-product-name } ਵਰਤਣ ਸਮੇਂ ਹਰ ਥਾਂ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ।
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = ਜਦੋਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਲੱਭੇ ਕਿਸੇ ਲੱਗੇ ਸੰਨ੍ਹ ਵਿੱਚ ਹੋਵੇ ਤਾਂ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਕਰੋ।
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਅਤੇ ਚੱਕਵੇ ਹਨ।
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = ਬੱਲੇ, ਤੁਸੀਂ { -brand-short-name } ਪ੍ਰਾਪਤ ਕੀਤਾ
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ਆਓ ਫਿਰ ਹੁਣ <img data-l10n-name="icon"/> <b>{ $addon-name }</b> ਵੇਖੀਏ।
+return-to-amo-add-extension-label = ਇਕਸਟੈਨਸ਼ਨ ਜੋੜੋ
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +129,6 @@ onboarding-multistage-theme-primary-button-label = ਥੀਮ ਸੰਭਾਲੋ
 onboarding-multistage-theme-secondary-button-label = ਹਾਲੇ ਨਹੀਂ
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = ਆਟੋਮੈਟਿਕ
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = ਸਿਸਟਮ ਥੀਮ ਵਰਤੋਂ
 onboarding-multistage-theme-label-light = ਹਲਕਾ
 onboarding-multistage-theme-label-dark = ਗੂੜ੍ਹਾ
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +139,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        ਬਟਨ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਆਪਣੇ ਓਪਰੇਟਿੰਗ
-        ਸਿਸਟਮ ਦੀ ਦਿੱਖ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਫਿੱਕੀ ਦਿੱਖ
-        ਵਰਤੋ।
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਗੂੜ੍ਹੀ
-        ਦਿੱਖ ਵਰਤੋ।
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਰੰਗਦਾਰ
-        ਦਿੱਖ ਵਰਤੋ।
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +179,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਰੰਗਦਾਰ
         ਦਿੱਖ ਵਰਤੋ।
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = ਆਓ ਹਰ ਚੀਜ਼ ਦੀ ਛਾਣਬੀਣ ਸ਼ੁਰੂ ਕਰੀਏ, ਜੋ ਤੁਸੀਂ ਕਰ ਸਕਦੇ ਹੋ।
-onboarding-fullpage-form-email =
-    .placeholder = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
-onboarding-sync-welcome-content = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲਵੋ।
-onboarding-sync-welcome-learn-more-link = ਫਾਇਰਫਾਕਸ ਖਾਤਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰੋ
-onboarding-sync-form-input =
-    .placeholder = ਈਮੇਲ
-onboarding-sync-form-continue-button = ਜਾਰੀ ਰੱਖੋ
-onboarding-sync-form-skip-login-button = ਇਹ ਪਗ਼ ਛੱਡੋ
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = ਆਪਣਾ ਈਮੇਲ ਦਿਓ
-onboarding-sync-form-sub-header = { -sync-brand-name } ਨਾਲ ਜਾਰੀ ਰੱਖੋ
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = ਸੰਦਾਂ ਦੇ ਸਮੂਹ ਨਾਲ ਕੰਮ ਕਰੋ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦਾ ਸਨਮਾਣ ਕਰਦੇ ਹਨ।
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = ਜੋ ਵੀ ਅਸੀਂ ਕਰਦੇ ਹਨ, ਉਹ ਸਾਡੀ ਨਿੱਜੀ ਡਾਟੇ ਦੇ ਵਾਅਦੇ ਦਾ ਸਨਮਾਣ ਕਰਦੀ ਹੈ: ਘੱਟ ਲਵੋ। ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ।
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ { -brand-product-name } ਵਰਤਣ ਸਮੇਂ ਹਰ ਥਾਂ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ।
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = ਜਦੋਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਲੱਭੇ ਕਿਸੇ ਲੱਗੇ ਸੰਨ੍ਹ ਵਿੱਚ ਹੋਵੇ ਤਾਂ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਕਰੋ।
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਅਤੇ ਚੱਕਵੇ ਹਨ।
 
 ## These strings belong to the individual onboarding messages.
 
