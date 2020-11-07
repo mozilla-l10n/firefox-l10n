@@ -135,6 +135,7 @@ ssl-error-decompression-failure = SSL ਨੂੰ ਕੰਪਰੈਸ ਕੀਤਾ 
 ssl-error-renegotiation-not-allowed = ਇਸ SSL ਸਾਕਟ ਉੱਤੇ ਮੁੜ-ਸਮਝੌਤੇ ਦੀ ਇਜ਼ਾਜ਼ਤ ਨਹੀਂ ਹੈ।
 ssl-error-unsafe-negotiation = ਪੀਅਰ ਨੇ ਪੁਰਾਣੇ ਸਟਾਇਲ (ਸੰਭਵ ਰੂਪ ਵਿੱਚ ਕਮਜ਼ੋਰ) ਦੇ ਹੈਂਡਸ਼ੇਕ (handshake) ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ ।
 ssl-error-rx-unexpected-uncompressed-record = SSL ਨੂੰ ਅਚਾਨਕ ਗ਼ੈਰ-ਕੰਪਰੈਸ ਰਿਕਾਰਡ ਮਿਲਿਆ।
+ssl-error-weak-server-ephemeral-dh-key = SSL ਨੂੰ ਸਰਵਰ ਕੀ ਐਕਸਚੇਂਜ ਹੈਂਡਸ਼ੇਕ ਸੁਨੇਹੇ ਵਿੱਚ ਕਮਜ਼ੋਰ ਐਫੀਮੇਰਲ ਡਿਫੀ-ਹੈੱਲਮੈਨ ਕੁੰਜੀ ਮਿਲੀ ਹੈ।
 ssl-error-next-protocol-data-invalid = SSL ਨੂੰ ਨਜਾਇਜ਼ NPN ਇਕਸਟੈਂਸ਼ਨ ਡਾਟਾ ਮਿਲਿਆ।
 ssl-error-feature-not-supported-for-ssl2 = SSL ਫੀਚਰ  SSL 2.0 ਕੁਨੈਕਸ਼ਨ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।
 ssl-error-feature-not-supported-for-servers = SSL ਫੀਚਰ ਸਰਵਰਾਂ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।

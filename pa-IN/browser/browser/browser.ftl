@@ -460,6 +460,18 @@ urlbar-result-action-search-w-engine = { $engine } ਨਾਲ ਖੋਜੋ
 urlbar-result-action-sponsored = ਸਪੌਂਸਰ ਕੀਤਾ
 urlbar-result-action-switch-tab = ਟੈਬ ਲਈ ਸਵਿੱਚ ਕਰੋ
 urlbar-result-action-visit = ਖੋਲ੍ਹੋ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } ਨਾਲ ਖੋਜਣ ਲਈ ਟੈਬ ਦਬਾਓ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } ਖੋਜਣ ਲਈ ਟੈਬ ਦਬਾਓ
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
