@@ -90,6 +90,11 @@ onboarding-benefit-lockwise-text = จัดการรหัสผ่านข
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = เยี่ยม คุณได้ติดตั้ง { -brand-short-name } แล้ว
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ตอนนี้มาติดตั้ง <img data-l10n-name="icon"/> <b>{ $addon-name }</b> กันเลย
 return-to-amo-add-extension-label = เพิ่มส่วนขยาย
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
