@@ -962,6 +962,7 @@ content-blocking-cryptominers = Miniloj de ĉifromono
 content-blocking-fingerprinters = Identigiloj de ciferecaj spuroj
 content-blocking-warning-title = Atentu!
 content-blocking-and-isolating-etp-warning-description = Blokado de spuriloj kaj izolado de kuketoj povus influi la funkciadon de kelkaj retejoj. Reŝargu paĝon kun spuriloj por ŝargi la tutan enhavon.
+content-blocking-and-isolating-etp-warning-description-2 = Tiu ĉi agordo povas mismontri aŭ misfunkciigi retejojn. Se iu retejo ne bone funkcias aŭ videblas, vi povas malaktivigi la protekton kontaŭ spurado por tiu retejo, tiel ke ĝi ŝargos la tutan enhavon.
 content-blocking-warning-learn-how = Pli da informo
 content-blocking-reload-description = Vi bezonos reŝargi viajn langetojn por apliki tiujn ĉi ŝanĝojn.
 content-blocking-reload-tabs-button =
