@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> dëshiron të hapë një lidhje
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Të lejohet ky sajt të hapë lidhjen { $scheme }?
+permission-dialog-description-file = Të lejohet kjo kartelë të hapë lidhjen { $scheme }?
 permission-dialog-description-host = Të lejohet { $host } të hapë lidhjen { $scheme }?
 permission-dialog-description-app = Të lejohet ky sajt të hapë lidhjen { $scheme } me { $appName }?
 permission-dialog-description-host-app = Të lejohet { $host } të hapë lidhjen { $scheme } me { $appName }?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Të lejohet kjo kartelë të hapë lidhjen { $scheme } me { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Lejo përherë <strong>{ $host }</strong> të hapë lidhje<strong>{ $scheme }</strong>
+permission-dialog-remember-file = Lejoje përherë këtë kartelë të hapë lidhje <strong>{ $scheme }</strong>
+
+##
+
 permission-dialog-btn-open-link =
     .label = Hape Lidhjen
     .accessKey = H
