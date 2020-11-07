@@ -36,7 +36,7 @@
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "טבלה...">
 <!ENTITY insertTableCmd.accesskey "t">
-<!ENTITY insertHTMLCmd.label "...HTML">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertMathCmd.label "מתמטיקה…">
 <!ENTITY insertMathCmd.accesskey "מ">
