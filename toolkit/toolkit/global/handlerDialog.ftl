@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> vul avrir ina colliaziun <stron
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Permetter a questa website dad avrir la colliaziun dal tip { $scheme }?
+permission-dialog-description-file = Permetter a questa datoteca dad avrir la colliaziun dal tip { $scheme }?
 permission-dialog-description-host = Permetter a { $host } dad avrir la colliaziun dal tip { $scheme }?
 permission-dialog-description-app = Permetter a questa website dad avrir la colliaziun dal tip { $scheme } cun { $appName }?
 permission-dialog-description-host-app = Permetter a { $host } dad avrir la colliaziun dal tip { $scheme } cun { $appName }?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Permetter a questa datoteca dad avrir la colliaziun dal tip { $scheme } cun { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Adina permetter a <strong>{ $host }</strong> dad avrir colliaziuns dal tip <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Adina permetter a questa datoteca dad avrir colliaziuns dal tip <strong>{ $scheme }</strong>
+
+##
+
 permission-dialog-btn-open-link =
     .label = Avrir la colliaziun
     .accessKey = o
