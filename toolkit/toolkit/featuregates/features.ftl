@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Das globale <a data-l10n
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Durch das Hinzufügen eines Konstruktors zur <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-Schnittstelle sowie einer Vielzahl damit zusammenhängender Änderungen können direkt neue Stylesheets erstellt werden, ohne dass das Sheet dem HTML hinzugefügt werden muss. Das macht es viel einfacher, wiederverwendbare Stylesheets für den Einsatz mit <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> zu erstellen. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1520690</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Die gesamte { -brand-short-name }-Implementierung der Media Session API ist derzeit experimentell. Diese API dient dazu, den Umgang mit medienbezogenen Benachrichtigungen anzupassen, Ereignisse und Daten zu verwalten, die für die Darstellung einer Benutzeroberfläche zur Verwaltung der Medienwiedergabe nützlich sind, und Metadaten von Mediendateien zu erhalten. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 112032</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Entwicklerwerkzeuge: Farbschemasimulation
 experimental-features-devtools-color-scheme-simulation-description = Fügt eine Option zur Simulation verschiedener Farbschemata hinzu, mit der Sie <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>-Medienanfragen testen können. Mit dieser Medienanfrage kann Ihr Stylesheet darauf reagieren, ob der Benutzer eine helle oder dunkle Benutzeroberfläche bevorzugt. Die Funktion ermöglicht das Testen Ihres Quelltexts, ohne dass Sie die Einstellungen in Ihrem Browser ändern müssen (oder Ihrem Betriebssystem, wenn der Browser einem systemweiten Farbschema folgt). Weitere Informationen finden Sie unter <a data-l10n-name="bugzilla1">Bug 1550804</a> und <a data-l10n-name="bugzilla2">Bug 1137699</a>.
@@ -94,7 +89,7 @@ experimental-features-graphics-desktop-zooming-description = Unterstützung für
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Globale WebRTC-Stummschaltungs-Steuerung
-experimental-features-webrtc-global-mute-toggles-description = Fügt dem globalen WebRTC-Teilen-Hinweis Steuerelemente hinzu, mit denen Benutzer ihre Mikrofon-und Kamera-Feeds global stummschalten können.
+experimental-features-webrtc-global-mute-toggles-description = Fügt dem globalen WebRTC-Teilen-Hinweis Steuerelemente hinzu, mit denen Benutzer ihre Mikrofone und Kameras für alle Tabs abschalten können.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
