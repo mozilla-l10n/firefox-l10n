@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-processes-title = Prozessmanager
+about-processes-title = Prozessverwaltung
 # The Actions column
 about-processes-column-action =
     .title = Aktionen
@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Tabs zurücksetzen und Prozess beenden
+    .title = Tabs entladen und Prozess beenden
 about-processes-shutdown-tab =
     .title = Tab schließen
 
