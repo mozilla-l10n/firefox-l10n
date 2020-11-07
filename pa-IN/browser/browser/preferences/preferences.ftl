@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਵਿਡੀਓ ਕੰਟਰੋਲ ਸਮਰੱਲ ਕਰੋ
     .accesskey = E
 browsing-picture-in-picture-learn-more = ਹੋਰ ਜਾਣੋ
+browsing-media-control-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-cfr-recommendations =
     .label = ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
     .accesskey = R
