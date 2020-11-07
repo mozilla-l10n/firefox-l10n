@@ -330,6 +330,9 @@ addon-detail-version-label = Verzija
 addon-detail-last-updated-label = Zadnje aktualiziranje
 addon-detail-homepage-label = Početna stranica
 addon-detail-rating-label = Ocjena
+# Message for add-ons with a staged pending update.
+install-postponed-message = Ovo proširenje bit će ažurirano kad se { -brand-short-name } ponovno pokrene.
+install-postponed-button = Ažuriraj sada
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
@@ -369,11 +372,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Kad je dopušteno, dodatak će imati pristup tvojim aktivnostima dok si u privatnom pretraživanju. <a data-l10n-name="learn-more">Saznaj više</a>
 addon-detail-private-browsing-allow = Dozvoli
 addon-detail-private-browsing-disallow = Nemoj dozvoliti
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } preporuča samo proširenja, koja udovoljavaju našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Ovo proširenje stvorili su tvorci { -brand-product-name }a
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = Izvršen je sigurnosni pregled kôda ovog proširenja
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = Dostupne dopune
 recent-updates-heading = Nedavne dopune
 release-notes-loading = Učitavanje…
