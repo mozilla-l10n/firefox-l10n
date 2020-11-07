@@ -40,7 +40,7 @@ bookmark-selected-tabs =
     .accesskey = к
 bookmark-tab =
     .label = Закласти вкладку
-    .accesskey = с
+    .accesskey = л
 reopen-in-container =
     .label = Відкрити в контейнері
     .accesskey = й
@@ -79,7 +79,7 @@ move-tabs =
     .accesskey = м
 move-tab =
     .label = Перемістити вкладку
-    .accesskey = П
+    .accesskey = м
 tab-context-close-tabs =
     .label =
         { $tabCount ->
@@ -95,4 +95,4 @@ tab-context-move-tabs =
             [few] Перемістити { $tabCount } вкладки
            *[many] Перемістити { $tabCount } вкладок
         }
-    .accesskey = П
+    .accesskey = м
