@@ -24,7 +24,7 @@ toolbar-context-menu-undo-close-tabs =
             [few] Відновити { $tabCount } закриті вкладки
            *[many] Відновити { $tabCount } закритих вкладок
         }
-    .accesskey = В
+    .accesskey = і
 toolbar-context-menu-manage-extension =
     .label = Керувати розширенням
     .accesskey = К
