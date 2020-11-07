@@ -31,14 +31,18 @@ about-processes-browser-process-name = { -brand-short-name } (processus { $pid }
 about-processes-web-process-name = Web (processús { $pid }, partejat)
 about-processes-web-isolated-process-name = Web (processús { $pid }) per { $origin }
 about-processes-web-large-allocation = Web (processús { $pid }, larg) per { $origin }
+about-processes-with-coop-coep-process-name = Web (processús { $pid }, origina divèrsa isolada) per { $origin }
 about-processes-file-process-name = Fichièrs (processús { $pid })
 about-processes-extension-process-name = Extensions (processús { $pid })
 about-processes-privilegedabout-process-name = A prepaus (processús { $pid })
 about-processes-plugin-process-name = Plugins (processús { $pid })
 about-processes-privilegedmozilla-process-name = Web (processús { $pid }) per sites { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Plugins mèdias Gecko (processús { $pid })
 about-processes-gpu-process-name = GPU (processús { $pid })
 about-processes-vr-process-name = VR (processús { $pid })
+about-processes-rdd-process-name = Descodador de donadas (processús { $pid })
 about-processes-socket-process-name = Ret (processús { $pid })
+about-processes-unknown-process-name = Autre ({ $type }, processús { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
@@ -47,10 +51,22 @@ about-processes-process-name = Processús { $pid } : { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Fils d’execucion ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Fil d’execucion ({ $number })
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Onglet : { $name }
+about-processes-preloaded-tab = Onglet precargat novèl
 
 ## Displaying CPU (percentage and total)
 ## Variables:
