@@ -52,6 +52,10 @@ printui-scale-fit-to-page-width = Adatta alla larghezza della pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Ridimensiona
 
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Stampa fronte/retro
+printui-duplex-checkbox = Stampa su entrambi i lati
+
 # Section title for miscellaneous print options
 printui-options = Opzioni
 printui-headers-footers-checkbox = Stampa intestazioni e piè di pagina
