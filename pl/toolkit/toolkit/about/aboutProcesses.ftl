@@ -45,7 +45,7 @@ about-processes-socket-process-name = Sieć (proces { $pid })
 about-processes-remote-sandbox-broker-process-name = Broker zdalnej piaskownicy (proces { $pid })
 about-processes-fork-server-process-name = Serwer rozdzielania (proces { $pid })
 about-processes-preallocated-process-name = Wstępnie przydzielony (proces { $pid })
-about-processes-unknown-process-name = Inne ({ $type }, proces { $pid })
+about-processes-unknown-process-name = Inny ({ $type }, proces { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
@@ -90,9 +90,11 @@ about-processes-frame-name-many = Ramki podrzędne ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (trwa mierzenie)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = bezczynny ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -105,9 +107,27 @@ about-processes-cpu-user-and-kernel-not-ready = (trwa mierzenie)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = min
+duration-unit-h = godz.
+duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
