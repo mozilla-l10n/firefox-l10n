@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Magsimula
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-welcome-body = Nakuha mo na ang browser.<br/>Kilalanin ang iba pang miyembro ng { -brand-product-name }.
 onboarding-welcome-learn-more = Alamin ang mga benepisyo.
@@ -36,9 +44,58 @@ onboarding-join-form-signin-label = Mayroon nang account?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Mag-sign In
 onboarding-start-browsing-button-label = Magsimulang Mag-browse
+onboarding-not-now-button-label = Hindi sa ngayon
 onboarding-cards-dismiss =
     .title = Paalisin
     .aria-label = Paalisin
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Simulan natin alamin ang lahat ng magagawa mo
+onboarding-fullpage-form-email =
+    .placeholder = Ang iyong email address...
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Isama ang { -brand-product-name } saan man
+onboarding-sync-welcome-content = Kunin ang mga bookmark, kasaysayan, mga password at iba pang mga setting sa lahat ng iyong mga device.
+onboarding-sync-welcome-learn-more-link = Alamin ang tungkol sa Firefox Accounts
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Magpatuloy
+onboarding-sync-form-skip-login-button = Laktawan ang hakbang na ito
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Ilagay ang iyong email
+onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Tapusin ang mga bagay-bagay sa pamamagitan ng mga gamit na gumagalang sa iyong privacy sa lahat ng iyong mga device.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Lahat ng aming ginagawa ay umaayon sa aming Pangako sa Personal na Data: Kaunti lang ang kunin. Pangalagaan ito. Walang mga sikreto.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Dalhin mo kahit saan ang iyong mga bookmark, password, kasaysayan at marami pa gamit ang { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Abisuhan ka kapag natagpuan ang iyong personal na impormasyon sa isang data breach.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = I-manage ang mga password na protektado at portable.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Mahusay, mayroon ka nang { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Ngayon kunin natin ang <img data-l10n-name="icon"/><b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Idagdag ang Extension
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +129,6 @@ onboarding-multistage-theme-primary-button-label = I-save ang Tema
 onboarding-multistage-theme-secondary-button-label = Hindi sa ngayon
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Kusa
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Gamitin ang tema ng sistema
 onboarding-multistage-theme-label-light = Maliwanag
 onboarding-multistage-theme-label-dark = Madilim
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +139,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Gayahin ang itsura ng iyong operating
-        system para sa mga button, menu, at mga window.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Gumamit ng maliwanag na itsura para sa mga button,
-        menu, at mga window.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Gumamit ng madilim na itsura para sa mga button,
-        menu, at mga window.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Gumamit ng makulay na itsura para sa mga button,
-        menu, at mga window.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +179,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Gumamit ng makulay na itsura para sa mga button,
         menu, at mga window.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Simulan natin alamin ang lahat ng magagawa mo
-onboarding-fullpage-form-email =
-    .placeholder = Ang iyong email address...
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = Isama ang { -brand-product-name } saan man
-onboarding-sync-welcome-content = Kunin ang mga bookmark, kasaysayan, mga password at iba pang mga setting sa lahat ng iyong mga device.
-onboarding-sync-welcome-learn-more-link = Alamin ang tungkol sa Firefox Accounts
-onboarding-sync-form-input =
-    .placeholder = Email
-onboarding-sync-form-continue-button = Magpatuloy
-onboarding-sync-form-skip-login-button = Laktawan ang hakbang na ito
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Ilagay ang iyong email
-onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Tapusin ang mga bagay-bagay sa pamamagitan ng mga gamit na gumagalang sa iyong privacy sa lahat ng iyong mga device.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Lahat ng aming ginagawa ay umaayon sa aming Pangako sa Personal na Data: Kaunti lang ang kunin. Pangalagaan ito. Walang mga sikreto.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Dalhin mo kahit saan ang iyong mga bookmark, password, kasaysayan at marami pa gamit ang { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Abisuhan ka kapag natagpuan ang iyong personal na impormasyon sa isang data breach.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = I-manage ang mga password na protektado at portable.
 
 ## These strings belong to the individual onboarding messages.
 
