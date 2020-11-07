@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong> vòl dobrir un ligam <strong>{ 
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Autorizar lo site a dobrir lo ligam { $scheme } ?
+permission-dialog-description-file = Autorizar aqueste fichièr a dobrir lo ligam { $scheme } ?
 permission-dialog-description-host = Autorizar { $host } a dobrir lo ligam { $scheme } ?
 permission-dialog-description-app = Autorizar aqueste site a dobrir lo ligam { $scheme } amb { $appName } ?
 permission-dialog-description-host-app = Autorizar { $host } a dobrir lo ligam { $scheme } amb { $appName } ?
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Autorizar aqueste fichièr a dobrir lo ligam { $scheme } amb { $appName } ?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Totjorn autorizar <strong>{ $host }</strong> a dobir los ligams <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Totjorn autorizar aqueste fichièr a dobrir los ligams <strong>{ $scheme }</strong>
+
+##
+
 permission-dialog-btn-open-link =
     .label = Dobrir lo ligam
     .accessKey = D

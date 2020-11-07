@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Descargar los onglets e atudar los processús
 about-processes-shutdown-tab =
     .title = Tampar l’onglet
 
@@ -27,9 +29,15 @@ about-processes-column-cpu-total = Processor
 
 about-processes-browser-process-name = { -brand-short-name } (processus { $pid })
 about-processes-web-process-name = Web (processús { $pid }, partejat)
+about-processes-web-isolated-process-name = Web (processús { $pid }) per { $origin }
+about-processes-web-large-allocation = Web (processús { $pid }, larg) per { $origin }
 about-processes-file-process-name = Fichièrs (processús { $pid })
 about-processes-extension-process-name = Extensions (processús { $pid })
 about-processes-privilegedabout-process-name = A prepaus (processús { $pid })
+about-processes-plugin-process-name = Plugins (processús { $pid })
+about-processes-privilegedmozilla-process-name = Web (processús { $pid }) per sites { -vendor-short-name }
+about-processes-gpu-process-name = GPU (processús { $pid })
+about-processes-vr-process-name = VR (processús { $pid })
 about-processes-socket-process-name = Ret (processús { $pid })
 # Process
 # Variables:
@@ -57,6 +65,8 @@ about-processes-tab-name = Onglet : { $name }
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (es a mesurar)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = inactiu ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -69,6 +79,10 @@ about-processes-cpu-user-and-kernel-not-ready = (es a mesurar)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
