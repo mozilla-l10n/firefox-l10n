@@ -23,6 +23,11 @@ about-processes-column-cpu-total = Prosessor
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Prosess { $pid }: { $name }
 
 ## Details within processes
 
@@ -32,6 +37,25 @@ about-processes-column-cpu-total = Prosessor
 #                     than 30. We don't expect to ever have processes with less
 #                     than 5 threads.
 about-processes-thread-summary = Trådar ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Tråd { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Fane: { $name }
+about-processes-preloaded-tab = Førehandslasta ny fane
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Underramme: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Underrammer ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -42,6 +66,8 @@ about-processes-thread-summary = Trådar ({ $number })
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (måling)
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -57,6 +83,10 @@ about-processes-thread-summary = Trådar ({ $number })
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
 
 ## Memory units
 
