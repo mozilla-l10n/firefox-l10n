@@ -46,6 +46,11 @@ about-processes-remote-sandbox-broker-process-name = 远程沙箱中介（进程
 about-processes-fork-server-process-name = Fork 服务器（进程 { $pid }）
 about-processes-preallocated-process-name = 预分配（进程 { $pid }）
 about-processes-unknown-process-name = 其他（{ $type }，进程 { $pid }）
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = 进程 { $pid } — { $name }
 
 ## Details within processes
 
