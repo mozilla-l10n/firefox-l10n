@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -293,8 +293,6 @@ identity-https-only-dropdown-off =
     .label = Ei käytössä
 identity-https-only-dropdown-off-temporarily =
     .label = Ei käytössä väliaikaisesti
-identity-https-only-info-turn-on = Ota käyttöön, jos haluat, että { -brand-short-name } päivittää suojattuun yhteyteen mikäli mahdollista.
-identity-https-only-info-turn-off = Jos sivusto näyttää rikkinäiseltä, saatat haluta poistaa Vain HTTPS -tilan käytöstä ja ladata sivun uudestaan käyttäen suojaamatonta HTTP:tä.
 identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
 identity-permissions =
     .value = Käyttöoikeudet
@@ -340,6 +338,9 @@ browser-window-restore-down-button =
     .tooltiptext = Palauta pienemmäksi ikkunaksi
 browser-window-close-button =
     .tooltiptext = Sulje
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -444,16 +445,9 @@ urlbar-result-action-search-in-private = Hae yksityisessä ikkunassa
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine }-haku
+urlbar-result-action-sponsored = Sponsoroitu
 urlbar-result-action-switch-tab = Siirry välilehteen
 urlbar-result-action-visit = Avaa
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Etsi kirjanmerkeistä
-urlbar-result-action-search-history = Etsi historiasta
-urlbar-result-action-search-tabs = Etsi välilehdistä
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +456,14 @@ urlbar-result-action-tabtosearch-web = Hae hakukoneella { $engine } suoraan osoi
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Hae hakukoneella { $engine } suoraan osoitepalkista
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Etsi kirjanmerkeistä
+urlbar-result-action-search-history = Etsi historiasta
+urlbar-result-action-search-tabs = Etsi välilehdistä
 
 ## Full Screen and Pointer Lock UI
 
