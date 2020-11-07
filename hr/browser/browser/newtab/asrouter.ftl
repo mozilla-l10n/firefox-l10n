@@ -198,8 +198,8 @@ cfr-doorhanger-socialtracking-heading = { -brand-short-name } je zaustavio druš
 cfr-doorhanger-socialtracking-description = Tvoja privatnost je važna. { -brand-short-name } sad blokira uobičajene programe za praćenje od društvenih mreža, ograničavajući količinu podataka koje mogu prikupiti o onome što radiš na internetu.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je blokirao jedinstvene otiske na ovoj stranici
 cfr-doorhanger-fingerprinters-description = Tvoja privatnost je važna. { -brand-short-name } sada blokira čitače jedinstvenih otisaka, koji prikupljaju dijelove informacija koji su jedinstveni za tebe i tvoje uređaje, kako bi te mogli pratiti.
-cfr-doorhanger-cryptominers-heading = { -brand-short-name } je blokirao kripto rudare na ovoj stranici
-cfr-doorhanger-cryptominers-description = Tvoja privatnost je važna. { -brand-short-name } sada blokira kripto rudare, koji koriste resurse tvog sustava, kako bi rudarili digitalni novac.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } je blokirao kripto-rudare na ovoj stranici
+cfr-doorhanger-cryptominers-description = Tvoja privatnost je važna. { -brand-short-name } sada blokira kripto-rudare, koji koriste resurse tvog sustava za rudarenje digitalnog novca.
 
 ## Enhanced Tracking Protection Milestones
 
@@ -248,7 +248,7 @@ cfr-whatsnew-protections-icon-alt = Ikona štita
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Bolje PDF iskustvo
-cfr-whatsnew-better-pdf-body = PDF dokumenti se sada otvaraju izravno u { -brand-short-name }, što olakšava rad.
+cfr-whatsnew-better-pdf-body = PDF dokumenti sada se otvaraju izravno u { -brand-short-name }u, što olakšava rad.
 
 ## DOH Message
 
@@ -261,6 +261,7 @@ cfr-doorhanger-doh-secondary-button = Deaktiviraj
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Tvoja privatnost je bitna. { -brand-short-name } sada izolira web stranice, što hakerima otežava krađu lozinki, brojeva kreditnih kartica i drugih osjetljivih informacija.
 cfr-doorhanger-fission-header = Izolacija stranice
 cfr-doorhanger-fission-primary-button = U redu, razumijem
     .accesskey = U

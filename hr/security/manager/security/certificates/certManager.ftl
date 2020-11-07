@@ -156,6 +156,7 @@ delete-ssl-cert-title =
     .title = Izbriši iznimku certifikata poslužitelja
 delete-ssl-cert-confirm = Zaista želiš ukloniti ove iznimke poslužitelja?
 delete-ssl-cert-impact = Ako izbrišeš iznimku poslužitelja, obnavljaš uobičajene sigurnosne provjere za te poslužitelje i uvjetuješ upotrebu ispravnih certifikata.
+delete-ssl-override-confirm = Sigurno izbrisati ovu iznimku poslužitelja?
 delete-ca-cert-title =
     .title = Brisanje ili poništavanje povjerenja CA certifikata
 delete-ca-cert-confirm = Zatražio/la si brisanje ovih CA certifikata. Za ugrađene certifikate uklonit će se sva povjerenja, što ima isti efekt. Zaista želiš izbrisati certifikate ili poništiti povjerenje?
@@ -203,6 +204,13 @@ cert-not-verified-issuer-unknown = Ovjera ovog certifikata nije moguća jer je i
 cert-not-verified-ca-invalid = Ovjera ovog certifikata nije moguća jer CA certifikat nije važeći.
 cert-not-verified_algorithm-disabled = Ovjera ovog certifikata nije moguća jer je potpisan koristeći algoritam potpisa koji je onemogućen iz sigurnosnih razloga.
 cert-not-verified-unknown = Ovjera ovog certifikata nije moguća zbog nepoznatih razloga.
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (nije pohranjeno)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Trajno
+temporary-override = Privremeno
 
 ## Add Security Exception dialog
 
