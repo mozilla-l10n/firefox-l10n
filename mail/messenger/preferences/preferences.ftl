@@ -88,6 +88,7 @@ update-in-progress-ok-button = &Interrumper
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
+account-button = Parameters dal conto
 addons-button = Extensiuns & designs
 
 ## OS Authentication dialog
