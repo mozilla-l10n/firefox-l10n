@@ -65,6 +65,7 @@ app-basics-service-workers = Registritaj Service Workers
 app-basics-profiles = Profiloj
 app-basics-launcher-process-status = Lanĉa procezo
 app-basics-multi-process-support = Plurprocezaj fenestroj
+app-basics-fission-support = Fenestroj Fission
 app-basics-remote-processes-count = Foraj procezoj
 app-basics-enterprise-policies = Kompaniaj politikoj
 app-basics-location-service-key-google = Ŝlosilo de la pozicia servo de Google
@@ -326,6 +327,20 @@ multi-process-status-6 = Malaktivigita de nesubtenata teksta enigo
 multi-process-status-7 = Malaktivigita de aldonaĵoj
 multi-process-status-8 = Devigite malaktiva
 multi-process-status-unknown = Nekonata stato
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Malaktivigita de eksperimento
+fission-status-experiment-treatment = Aktivigita de eksperimento
+fission-status-disabled-by-e10s-env = Malaktivigita de ĉirkaŭaĵo
+fission-status-enabled-by-env = Aktivita de ĉirkaŭajo
+fission-status-disabled-by-safe-mode = Malaktivigita de la sekura reĝimo
+fission-status-enabled-by-default = Norme aktivigita
+fission-status-disabled-by-default = Norme malaktivigita
+fission-status-enabled-by-user-pref = Aktivigita de uzanto
+fission-status-disabled-by-user-pref = Malaktivigita de uzanto
+fission-status-disabled-by-e10s-other = E10s malaktiva
 async-pan-zoom = Nesinkrona panoramado kaj skaligo
 apz-none = neniu
 wheel-enabled = rada enigo aktiva
@@ -346,3 +361,12 @@ touch-warning = nesinkrona tuŝa enigo malaktiva pro nesubtenata prefero: { $pre
 policies-inactive = Malaktiva
 policies-active = Aktiva
 policies-error = Eraro
+
+## Printing section
+
+support-printing-title = Preso
+support-printing-troubleshoot = Solvo de problemoj
+support-printing-clear-settings-button = Viŝi konservitajn presajn agordojn
+support-printing-modified-settings = Modifitaj presaj agordoj
+support-printing-prefs-name = Nomo
+support-printing-prefs-value = Valoro
