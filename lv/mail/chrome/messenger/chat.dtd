@@ -24,6 +24,10 @@
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY closeConversationCmd.label    "Aizvērt sarunu">
 <!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY aliasCmd.label                "Pārsaukt">
+<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY deleteCmd.label               "Noņemt kontaktu">
+<!ENTITY deleteCmd.accesskey           "v">
 
 <!ENTITY openConversationButton.tooltip  "Sākt sarunu">
 <!ENTITY closeConversationButton.tooltip "Aizvērt sarunu">
