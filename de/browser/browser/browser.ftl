@@ -111,7 +111,7 @@ urlbar-search-tips-onboard = Weniger tippen, mehr finden: Direkt mit { $engineNa
 urlbar-search-tips-redirect-2 = Starten Sie Ihre Suche in der Adressleiste, um Suchvorschläge von { $engineName } sowie Ihre Browser-Chronik angezeigt zu bekommen.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = Wählen Sie diese Verknüpfung, um schneller zu finden, was Sie benötigen.
+urlbar-tabtosearch-onboard = Wählen Sie diese Verknüpfung, um schneller Suchergebnisse zu erhalten.
 
 ## Local search mode indicator labels in the urlbar
 
