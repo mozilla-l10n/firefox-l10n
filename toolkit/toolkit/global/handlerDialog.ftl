@@ -40,7 +40,7 @@ permission-dialog-btn-choose-app =
     .label = Elegir aplicación
     .accessKey = A
 permission-dialog-unset-description = Tendrás que elegir una aplicación.
-permission-dialog-set-change-app-link = Eligir una aplicación diferente.
+permission-dialog-set-change-app-link = Elegir una aplicación diferente.
 
 ## Chooser dialog
 ## Variables:
