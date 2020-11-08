@@ -41,9 +41,44 @@ about-processes-gmp-plugin-process-name = Aŭdvidaj kromprogramoj de Gecko (proc
 about-processes-gpu-process-name = GPU (procezo { $pid })
 about-processes-vr-process-name = VR (procezo { $pid })
 about-processes-rdd-process-name = Datuma malkodilo (procezo { $pid })
+about-processes-socket-process-name = Reto (procezo { $pid })
+about-processes-remote-sandbox-broker-process-name = Agento por mallokaj izolejoj  (procezo { $pid })
+about-processes-fork-server-process-name = Servilo "Fork" (procezo { $pid })
+about-processes-preallocated-process-name = Antaŭasignado (procezo { $pid })
+about-processes-unknown-process-name = Alia ({ $type }, procezo { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Procezo { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Fadenoj ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Fadeno { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Tabo: { $name }
+about-processes-preloaded-tab = Antaŭŝargita nova langeto
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Subkadro: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Subkadroj ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
