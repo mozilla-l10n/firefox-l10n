@@ -43,6 +43,7 @@ about-networking-dns-lookup = Serĉo en DNS
 about-networking-dns-lookup-button = Trovi adreson
 about-networking-dns-domain = Nomregno:
 about-networking-dns-lookup-table-column = IP adresoj
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Statisktikoj de RCWN
 about-networking-rcwn-status = Stato de RCWN
 about-networking-rcwn-cache-won-count = Nombro de venkoj de staplo
