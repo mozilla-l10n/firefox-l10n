@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = La ĝenerala evento <a d
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = La aldono de konstruilo al la fasado de <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, kune kun pluraj aliaj rilataj ŝanĝoj, ebligas la senperan kreadon de novaj stilfolioj sen devi aldoni la stilfolion al la HTML kodo. Tio ĉi faciligas multe la kreadon de reuzeblaj stilfolioj por uzo kun <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vizitu la <a data-l10n-name="bugzilla">problemon 1520690</a> por havi pli da informo.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = La tuta realigo de Media Session API de { -brand-short-name } estas nuntempe eksperimenta. Tiu ĉi API estas uzata por personecigi la pritrakton de aŭdvidaĵaj sciigoj, administri eventojn kaj datumojn kiuj helpas prezenti fasadon por legi aŭdvidaĵojn kaj akiri ĝiajn metadatumojn. Vizitu la <a data-l10n-name="bugzilla">problemon 1112032</a> por havi pli da informo.
 experimental-features-devtools-color-scheme-simulation =
     .label = Iloj por programistoj: imitilo de kolora skemo
 experimental-features-devtools-color-scheme-simulation-description = Tio ĉi aldonas eblon imiti malsamajn kolorajn skemojn, kio permesas al vi testi aŭdvidaĵajn petojn <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Per tiu ĉi aŭdvidaĵa peto via stilfolio povas respondi al la preferoj de la uzanto rilate al la heleco de la aspekto. Tiu ĉi trajto permesas al vi testi vian kodon sen devi ŝanĝi agordojn en via retumilo (aŭ mastruma sistemo, se la retumilo sekvas la sisteman norman koloran skemon). Vizitu la <a data-l10n-name="bugzilla1">problemon 1550804</a> kaj la <a data-l10n-name="bugzilla2">problemon 1137699</a> por havi pli da informo.
@@ -91,3 +86,15 @@ experimental-features-devtools-serviceworker-debugger-support-description = Tio 
 experimental-features-graphics-desktop-zooming =
     .label = Grafiko: flua skalo per pinĉo
 experimental-features-graphics-desktop-zooming-description = Tio ĉi aktivigas fluan skalon per pinĉo en tuŝekranoj kaj precizaj tuŝmatoj.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Ŝalti/malŝalti sonon WebRTC ĉie
+experimental-features-webrtc-global-mute-toggles-description = Aldoni regilojn al la ĉiea indikilo pri dividi de WebRTC, kiu permesas al uzantoj malaktivigi siajn mikrofonojn kaj fimilojn ĉie.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Aktivigi Warp, kiu estas projekto por plibonigi la efikecon kaj memoruzon de JavaScript.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (reteja izolado)
+experimental-features-fission-description = Fission (reteja izolado) estas eksperimenta trajto en { -brand-short-name } kiu provizas aldonan defendan tavolon kontraŭ sekurecaj problemoj. Fission izolas ĉiun retejon, kaj do malicaj paĝoj ne povas aliri informojn de aliaj vizitataj paĝoj. Tiu ĉi estas tre grava kerna arĥitektura ŝanĝo en { -brand-short-name } kaj ni dankas vian testadon kaj la raporton de iu ajn problemo, kiun vi renkontos. Por havi pli da informo, vizitu <a data-l10n-name="wiki">la vikion</a>.
