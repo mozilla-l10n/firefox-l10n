@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Unuaj paŝoj
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Bonvenon al { -brand-short-name }
 onboarding-welcome-body = Vi havas la retumilon.<br/>Konatiĝu kun la cetero de { -brand-product-name }.
 onboarding-welcome-learn-more = Pli da informo pri la utiloj.
@@ -36,94 +44,10 @@ onboarding-join-form-signin-label = Ĉu vi jam havas konton?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Komenci seancon
 onboarding-start-browsing-button-label = Komenci retumi
+onboarding-not-now-button-label = Nun ne
 onboarding-cards-dismiss =
     .title = Ignori
     .aria-label = Ignori
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Bonvenon al <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = La rapida, sekura kaj privata retumilo apogata de neprofitcela organizo.
-onboarding-multistage-welcome-primary-button-label = Komenci agordon
-onboarding-multistage-welcome-secondary-button-label = Komenci seancon
-onboarding-multistage-welcome-secondary-button-text = Ĉu vi havas konton?
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Enporti viajn pasvortojn, <br/>legosignojn, kaj <span data-l10n-name="zap">pli</span>
-onboarding-multistage-import-subtitle = Ĉu vi venas el alia retumilo? Estas facile porti ĉion al { -brand-short-name }.
-onboarding-multistage-import-primary-button-label = Komenci enporton
-onboarding-multistage-import-secondary-button-label = Ne nun
-# Info displayed in the footer of import settings screen during onboarding flow.
-# This supports welcome screen showing top sites imported from the user's default browser.
-onboarding-import-sites-disclaimer = La retejoj listita ĉi tie estis trovitaj en tiu ĉi aparato. { -brand-short-name } ne konservas aŭ spegulas datumojn de aliaj retumiloj, krom se vi petas tion al ĝi.
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Unua paŝoj: ekrano { $current } de { $total }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Elektu <span data-l10n-name="zap">aspekton</span>
-onboarding-multistage-theme-subtitle = Personecigu { -brand-short-name } per etoso.
-onboarding-multistage-theme-primary-button-label = Konservi etoson
-onboarding-multistage-theme-secondary-button-label = Ne nun
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = Aŭtomate
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Uzi sisteman etoson
-onboarding-multistage-theme-label-light = Hela
-onboarding-multistage-theme-label-dark = Malhela
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title = Heredi la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title = Uzi helan aspekton por butonoj, menuoj kaj fenestroj.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title = Uzi malhelan aspekton por butonoj, menuoj kaj fenestroj.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title = Heredi la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description = Heredi la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title = Uzi helan aspekton por butonoj, menuoj kaj fenestroj.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description = Uzi helan aspekton por butonoj, menuoj kaj fenestroj.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title = Uzi malhelan aspekton por butonoj, menuoj kaj fenestroj.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description = Uzi malhelan aspekton por butonoj, menuoj kaj fenestroj.
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
 
 ## Welcome full page string
 
@@ -162,6 +86,83 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Ricevi sciigon kiam viaj personaj datumoj aperas en konata datumfuĝo.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Administri pasvortojn tiel ke ili estas kaj protektitaj kaj porteblaj.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Bonege, vi havas { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Nun, instalu ni <img data-l10n-name="icon"/><b>{ $addon-name }</b> por vi.
+return-to-amo-add-extension-label = Aldoni etendaĵon
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Bonvenon al <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = La rapida, sekura kaj privata retumilo apogata de neprofitcela organizo.
+onboarding-multistage-welcome-primary-button-label = Komenci agordon
+onboarding-multistage-welcome-secondary-button-label = Komenci seancon
+onboarding-multistage-welcome-secondary-button-text = Ĉu vi havas konton?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Enporti viajn pasvortojn, <br/>legosignojn, kaj <span data-l10n-name="zap">pli</span>
+onboarding-multistage-import-subtitle = Ĉu vi venas el alia retumilo? Estas facile porti ĉion al { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Komenci enporton
+onboarding-multistage-import-secondary-button-label = Ne nun
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = La retejoj listita ĉi tie estis trovitaj en tiu ĉi aparato. { -brand-short-name } ne konservas aŭ spegulas datumojn de aliaj retumiloj, krom se vi petas tion al ĝi.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Unua paŝoj: ekrano { $current } de { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Elektu <span data-l10n-name="zap">aspekton</span>
+onboarding-multistage-theme-subtitle = Personecigu { -brand-short-name } per etoso.
+onboarding-multistage-theme-primary-button-label = Konservi etoson
+onboarding-multistage-theme-secondary-button-label = Ne nun
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Aŭtomate
+onboarding-multistage-theme-label-light = Hela
+onboarding-multistage-theme-label-dark = Malhela
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title = Heredi la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description = Heredi la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title = Uzi helan aspekton por butonoj, menuoj kaj fenestroj.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description = Uzi helan aspekton por butonoj, menuoj kaj fenestroj.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title = Uzi malhelan aspekton por butonoj, menuoj kaj fenestroj.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description = Uzi malhelan aspekton por butonoj, menuoj kaj fenestroj.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
 
 ## These strings belong to the individual onboarding messages.
 
