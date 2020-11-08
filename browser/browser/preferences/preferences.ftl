@@ -383,6 +383,7 @@ browsing-search-on-start-typing =
     .label = మీరు టైపుచేయడం ప్రారంభించినప్పటి నుంచి పాఠ్యము‍ కొరకు శోధించు
     .accesskey = x
 browsing-picture-in-picture-learn-more = ఇంకా తెలుసుకోండి
+browsing-media-control-learn-more = ఇంకా తెలుసుకోండి
 browsing-cfr-recommendations-learn-more = ఇంకా తెలుసుకోండి
 
 ## General Section - Proxy
