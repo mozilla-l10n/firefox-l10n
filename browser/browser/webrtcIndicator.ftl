@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Ŝalti filmilon
 webrtc-minimize =
     .title = Plejetigi la indikilon
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Vi dividas vian filmilon. Alklaku por agordi la dividon.
+webrtc-microphone-system-menu =
+    .label = Vi dividas vian mikrofonon. Alklaku por agordi la dividon.
+webrtc-screen-system-menu =
+    .label = Vi dividas vian fenestron. Alklaku por agordi la dividon.
