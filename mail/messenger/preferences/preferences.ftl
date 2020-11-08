@@ -88,6 +88,7 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
+account-button = Hesap Ayarları
 addons-button = Eklentiler ve temalar
 
 ## OS Authentication dialog
