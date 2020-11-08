@@ -467,7 +467,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Početna Firefox stranica (standardno)
+    .label = Firefoxova početna stranica (standardno)
 home-mode-choice-custom =
     .label = Prilagođeni URL-ovi…
 home-mode-choice-blank =
@@ -491,7 +491,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Firefox početni sadržaj
+home-prefs-content-header = Sadržaj Firefoxove početne stranice
 home-prefs-content-description = Odaberi sadržaj koji želiš na početnoj stranici Firefoxa.
 home-prefs-search-header =
     .label = Web pretraga
