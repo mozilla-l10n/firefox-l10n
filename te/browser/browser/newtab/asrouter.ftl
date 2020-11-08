@@ -230,6 +230,17 @@ cfr-doorhanger-doh-primary-button = సరే, అర్థమయ్యింద
 cfr-doorhanger-doh-secondary-button = అచేతనించు
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = సరే, అర్థమయ్యింది
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = ఇంకా తెలుసుకోండి
+    .accesskey = L
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = ట్రాకింగ్ జిత్తుల నుండి స్వయంచాలక సంరక్షణ
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-button = ఎలానో తెలుసుకోండి
