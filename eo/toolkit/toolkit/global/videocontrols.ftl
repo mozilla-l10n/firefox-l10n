@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Ŝargado:
 videocontrols-volume-control =
     .aria-label = Laŭteco
+videocontrols-closed-caption-button =
+    .aria-label = Subtekstoj
