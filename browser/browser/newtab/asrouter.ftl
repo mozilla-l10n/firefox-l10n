@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Konsileto: alpingli tiun ĉi langeton
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
-
 cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
-
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Alpingli tiun ĉi langeton
     .accesskey = p
-
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Pli da informo
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendo
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } uzanto
        *[other] { $total } uzantoj
     }
-
 cfr-doorhanger-pintab-description = Facila aliro al viaj plej uzataj retejoj. Teni retejojn malfermitaj en langeto (eĉ kiam vi restartigas).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = Facila aliro al viaj plej uzataj retejoj. Te
 cfr-doorhanger-pintab-step1 = <b>Dekstre alklaku</b> por alpingli la langeton.
 cfr-doorhanger-pintab-step2 = Elektu <b>Alpingli langeton</b> el la menuo.
 cfr-doorhanger-pintab-step3 = Se la retejo aktualiĝos, vi vidos bluan punkton sur la alpinglita langeto.
-
 cfr-doorhanger-pintab-animation-pause = Paŭzigi
 cfr-doorhanger-pintab-animation-resume = Daŭrigi
-
 
 ## Firefox Accounts Message
 
@@ -100,26 +89,20 @@ cfr-protections-panel-link-text = Pli da informo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova trajto:
-
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
-
 cfr-whatsnew-panel-header = Novaĵoj
-
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
-
 cfr-whatsnew-fx70-title = { -brand-short-name } luktas pli forte por via privateco
 cfr-whatsnew-fx70-body =
     La lasta ĝisdatigo plibonigas la protekton kontraŭ spurado kaj faciligas la
     kreadon de sekuraj pasvortoj por ĉiu retejo.
-
 cfr-whatsnew-tracking-protect-title = Protektu vin kontraŭ spuriloj
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blokas plurajn oftajn sociajn kaj interretejajn spurilojn,
     kiuj sekvas vian retumon.
 cfr-whatsnew-tracking-protect-link-text = Vidi vian raporton
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -130,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = ekde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vidi raporton
-
 cfr-whatsnew-lockwise-backup-title = Sekurkopii viajn pasvortojn
 cfr-whatsnew-lockwise-backup-body = Nun kreu sekurajn pasvortojn, kiujn vi povas aliri ĉie, kie vi konektiĝas.
 cfr-whatsnew-lockwise-backup-link-text = Ŝalti sekurkopiojn
-
 cfr-whatsnew-lockwise-take-title = Kunportu viajn pasvortojn
 cfr-whatsnew-lockwise-take-body =
     La poŝaparata programo { -lockwise-brand-short-name } permesas al vi sekure aliri viajn
@@ -170,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Blokitaj identigiloj de ciferecaj spuroj
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokas plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Identigiloj de ciferecaj spuroj
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } povas bloki plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
@@ -230,7 +210,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
     .accesskey = V
-
 cfr-doorhanger-milestone-close-button = Fermi
     .accesskey = F
 
@@ -276,8 +255,23 @@ cfr-doorhanger-doh-primary-button = En ordo, mi komprenis
 cfr-doorhanger-doh-secondary-button = Malaktivigi
     .accesskey = M
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body-approved = Via privateco gravas. { -brand-short-name } nun izolas retejejojn tiel ke ili ne povas komuniki inter si. Tio igas pli malfacila la taskon ŝteli pasvortojn, kreditkartajn numerojn, kaj aliajn informojn.
+cfr-doorhanger-fission-header = Izolado de retejoj
+cfr-doorhanger-fission-primary-button = En ordo, mi komprenis
+    .accesskey = E
+cfr-doorhanger-fission-secondary-button = Pli da informo
+    .accesskey = P
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Aŭtomata proteko kontraŭ kaŝitaj spurilaj taktikoj
 cfr-whatsnew-clear-cookies-body = Kelkaj retejoj redirektas vin al aliaj retejoj, kiuj sekrete konservas kuketojn. { -brand-short-name } nun aŭtomate viŝas tiujn kuketojn, tiel ke ili ne povos sekvi vin.
 cfr-whatsnew-clear-cookies-image-alt = Ilustraĵo de blokita kuketo
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Pli da regiloj aŭdvidaj
+cfr-whatsnew-media-keys-body = Ludi kaj paŭzigi sonon aŭ videon senpere el via klavaro aŭ kapaŭskultiloj. Tio simpligas la taskon regi aŭdvidaĵojn el alia langeto, programo aŭ eĉ dum via komputilo estas blokita. Vi ankaŭ povas moviĝi inter kantoj aŭ filmetoj per la sagoklavoj, antaŭen kaj malantaŭen.
+cfr-whatsnew-media-keys-button = Lernu kiel fari
