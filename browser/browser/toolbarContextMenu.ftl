@@ -24,21 +24,18 @@ toolbar-context-menu-undo-close-tabs =
            *[other] เรียกคืนแท็บที่เพิ่งปิด
         }
     .accesskey = ร
-
 toolbar-context-menu-manage-extension =
     .label = จัดการส่วนขยาย
     .accesskey = จ
 toolbar-context-menu-remove-extension =
     .label = เอาส่วนขยายออก
     .accesskey = อ
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = รายงานส่วนขยาย
     .accesskey = ร
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -47,10 +44,19 @@ toolbar-context-menu-pin-to-overflow-menu =
     .accesskey = ป
 toolbar-context-menu-auto-hide-downloads-button =
     .label = ซ่อนอัตโนมัติในแถบเครื่องมือ
-    .accesskey = อ
+    .accesskey = ซ
 toolbar-context-menu-remove-from-toolbar =
     .label = เอาออกจากแถบเครื่องมือ
     .accesskey = อ
 toolbar-context-menu-view-customize-toolbar =
     .label = ปรับแต่ง…
     .accesskey = ป
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = เสมอ
+    .accesskey = ส
+toolbar-context-menu-bookmarks-toolbar-never-show =
+    .label = ไม่เลย
+    .accesskey = ม
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = บนแท็บใหม่เท่านั้น
+    .accesskey = บ

@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = กำลังโหลด:
 videocontrols-volume-control =
     .aria-label = ระดับเสียง
+videocontrols-closed-caption-button =
+    .aria-label = คำบรรยายแบบปิด
