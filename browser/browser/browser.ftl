@@ -293,6 +293,9 @@ identity-https-only-dropdown-off =
     .label = Malŝaltita
 identity-https-only-dropdown-off-temporarily =
     .label = Provizore malŝaltita
+identity-https-only-info-turn-on2 = Ŝaltu la HTTPS-nuran reĝimon por tiu ĉi retejo se vi volas ke { -brand-short-name } ŝanĝu la konekton, se tio eblas.
+identity-https-only-info-turn-off2 = Se la paĝo ne bone funkcias, vi povas malŝalti la HTTPS-nuran reĝimon por tiu ĉi retejo, por reŝargi ĝin per nesekura HTTP.
+identity-https-only-info-no-upgrade = Ne eblas ŝanĝi la konekton HTTP.
 identity-permissions =
     .value = Permesoj
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
@@ -340,6 +343,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button =
+    .label = Enporti legosignojn…
+    .tooltiptext = Kopii legosignojn el alia retumilo al { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -444,6 +450,7 @@ urlbar-result-action-search-in-private = Serĉi en privata fenestro
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Serĉi per { $engine }
+urlbar-result-action-sponsored = Patronita
 urlbar-result-action-switch-tab = Iri al langeto
 urlbar-result-action-visit = Iri
 
