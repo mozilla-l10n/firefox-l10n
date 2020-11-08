@@ -43,6 +43,7 @@ about-processes-vr-process-name = VR (proceso { $pid })
 about-processes-rdd-process-name = Decodificador de datos (proceso { $pid })
 about-processes-socket-process-name = Red (proceso { $pid })
 about-processes-remote-sandbox-broker-process-name = Intercambiador de aislamiento remoto (proceso { $pid })
+about-processes-fork-server-process-name = Fork Server (proceso { $pid })
 about-processes-preallocated-process-name = Preasignado (proceso { $pid })
 about-processes-unknown-process-name = Otro ({ $type }, proceso { $pid })
 # Process
@@ -92,6 +93,8 @@ about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (midiendo)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = inactivo ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
