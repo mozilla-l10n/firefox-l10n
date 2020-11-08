@@ -31,6 +31,16 @@ about-processes-browser-process-name = { -brand-short-name } (procezo { $pid })
 about-processes-web-process-name = Teksaĵo (procezo { $pid }, dividita)
 about-processes-web-isolated-process-name = Teksaĵo (procezo { $pid }) por { $origin }
 about-processes-web-large-allocation = Teksaĵo (procezo { $pid }, granda) por { $origin }
+about-processes-with-coop-coep-process-name = Teksaĵo (procezo { $pid }, izolita pro malsama origino) por { $origin }
+about-processes-file-process-name = Dosieroj (procezo { $pid })
+about-processes-extension-process-name = Etendaĵoj (procezo { $pid })
+about-processes-privilegedabout-process-name = Pri (procezo { $pid })
+about-processes-plugin-process-name = Kromprogramoj (procezo { $pid })
+about-processes-privilegedmozilla-process-name = Teksaĵo (procezo { $pid }) por retejoj de { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Aŭdvidaj kromprogramoj de Gecko (procezo { $pid })
+about-processes-gpu-process-name = GPU (procezo { $pid })
+about-processes-vr-process-name = VR (procezo { $pid })
+about-processes-rdd-process-name = Datuma malkodilo (procezo { $pid })
 
 ## Details within processes
 
