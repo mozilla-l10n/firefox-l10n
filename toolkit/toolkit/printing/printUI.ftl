@@ -38,7 +38,6 @@ printui-less-settings = Malpli da agordoj
 printui-paper-size-label = Grando de papero
 # Section title (noun) for the print scaling options
 printui-scale = Skalo
-printui-scale-fit-to-page = Alĝustigi al paĝo
 printui-scale-fit-to-page-width = Alĝustigi al larĝo de paĝo
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalo
@@ -53,6 +52,11 @@ printui-margins = Marĝenoj
 printui-margins-default = Normo
 printui-margins-min = Minimuma
 printui-margins-none = Neniu
+printui-margins-custom = Personecigita
+printui-margins-custom-top = Supre
+printui-margins-custom-bottom = Malsupre
+printui-margins-custom-left = Maldekstre
+printui-margins-custom-right = Dekstre
 printui-system-dialog-link = Presi per la sistema dialogo…
 printui-primary-button = Presi
 printui-primary-button-save = Konservi
