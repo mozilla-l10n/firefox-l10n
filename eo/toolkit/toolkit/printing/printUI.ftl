@@ -86,6 +86,7 @@ printui-paper-tabloid = Duoble letera
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skalo devas esti nombro inter 10 kaj 200.
+printui-error-invalid-margin = Bonvolu tajpi validan marĝenon por la elektita papergrando.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervalo devas esti nombro inter 1 kaj { $numPages }.
