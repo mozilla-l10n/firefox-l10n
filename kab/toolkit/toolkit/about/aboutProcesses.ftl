@@ -15,6 +15,12 @@
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-unknown-process-name = ({ $type }, akala { $pid }) wayeḍ
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Akala { $pid }: { $name }
 
 ## Details within processes
 
