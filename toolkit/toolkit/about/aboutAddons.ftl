@@ -390,6 +390,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Koda te razširitve je varnostno pregledana
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = To je uradna razširitev, ki so jo razvili ustvarjalci { -brand-product-name }a
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Ta razširitev preverjeno izpolnjuje naše standarde glede varnosti in učinkovitosti delovanja.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -398,6 +404,9 @@ recent-updates-heading = Nedavne posodobitve
 release-notes-loading = Nalaganje …
 release-notes-error = Pri nalaganju opomb k izdaji je prišlo do napake.
 addon-permissions-empty = Ta razširitev ne zahteva nobenih dovoljenj
+addon-permissions-required = Zahtevana dovoljenja za osnovno delovanje:
+addon-permissions-optional = Izbirna dovoljenja za dodatno delovanje:
+addon-permissions-learnmore = Več o dovoljenjih
 recommended-extensions-heading = Priporočene razširitve
 recommended-themes-heading = Priporočene teme
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

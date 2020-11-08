@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -297,7 +297,6 @@ identity-https-only-dropdown-off =
     .label = Izključeno
 identity-https-only-dropdown-off-temporarily =
     .label = Začasno izključeno
-identity-https-only-info-turn-on = Vključite, če želite, da se { -brand-short-name } poveže na varno povezavo, ko je na voljo.
 identity-permissions =
     .value = Dovoljenja
 identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali ponovno naložiti stran.
@@ -342,6 +341,12 @@ browser-window-restore-down-button =
     .tooltiptext = Obnovi navzdol
 browser-window-close-button =
     .tooltiptext = Zapri
+
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Uvozi zaznamke …
+    .tooltiptext = Skopirajte zaznamke iz drugega brskalnika v { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -448,6 +453,16 @@ urlbar-result-action-search-in-private = Išči v zasebnem oknu
 urlbar-result-action-search-w-engine = Išči z iskalnikom { $engine }
 urlbar-result-action-switch-tab = Preklopi na zavihek
 urlbar-result-action-visit = Obišči
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Pritisnite Tab za iskanje z iskalnikom { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Iščite z iskalnikom { $engine } neposredno iz naslovne vrstice
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
