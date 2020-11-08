@@ -65,6 +65,7 @@ app-basics-service-workers = ตัวทำงานบริการที่
 app-basics-profiles = โปรไฟล์
 app-basics-launcher-process-status = โปรเซสของตัวเรียกใช้
 app-basics-multi-process-support = หน้าต่างแบบหลายโปรเซส
+app-basics-fission-support = หน้าต่าง Fission
 app-basics-remote-processes-count = โปรเซสระยะไกล
 app-basics-enterprise-policies = นโยบายองค์กร
 app-basics-location-service-key-google = คีย์ Google Location Service
@@ -306,6 +307,20 @@ multi-process-status-6 = ถูกปิดใช้งานโดยการ�
 multi-process-status-7 = ถูกปิดใช้งานโดยส่วนเสริม
 multi-process-status-8 = ถูกปิดใช้งานโดยการบังคับ
 multi-process-status-unknown = ไม่ทราบสถานะ
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = ถูกปิดใช้งานโดยการทดสอบ
+fission-status-experiment-treatment = ถูกเปิดใช้งานโดยการทดสอบ
+fission-status-disabled-by-e10s-env = ถูกปิดใช้งานโดยสภาพแวดล้อม
+fission-status-enabled-by-env = ถูกเปิดใช้งานโดยสภาพแวดล้อม
+fission-status-disabled-by-safe-mode = ถูกปิดใช้งานโดยโหมดปลอดภัย
+fission-status-enabled-by-default = ถูกเปิดใช้งานตามค่าเริ่มต้น
+fission-status-disabled-by-default = ถูกปิดใช้งานตามค่าเริ่มต้น
+fission-status-enabled-by-user-pref = ถูกเปิดใช้งานโดยผู้ใช้
+fission-status-disabled-by-user-pref = ถูกปิดใช้งานโดยผู้ใช้
+fission-status-disabled-by-e10s-other = ปิดใช้งาน E10s แล้ว
 async-pan-zoom = การเลื่อน/ซูมแบบอะซิงโครนัส
 apz-none = ไม่มี
 wheel-enabled = เปิดใช้งานการป้อนข้อมูลด้วยล้อแล้ว
@@ -329,4 +344,9 @@ policies-error = ข้อผิดพลาด
 
 ## Printing section
 
+support-printing-title = การพิมพ์
+support-printing-troubleshoot = การแก้ไขปัญหา
+support-printing-clear-settings-button = ล้างการตั้งค่าการพิมพ์ที่บันทึกไว้
+support-printing-modified-settings = การตั้งค่าการพิมพ์ที่ถูกเปลี่ยนแปลง
+support-printing-prefs-name = ชื่อ
 support-printing-prefs-value = ค่า

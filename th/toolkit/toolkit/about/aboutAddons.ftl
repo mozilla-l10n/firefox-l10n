@@ -373,16 +373,30 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = เมื่อได้รับอนุญาต ส่วนขยายจะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณได้ในขณะที่เรียกดูแบบส่วนตัว <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
 addon-detail-private-browsing-allow = อนุญาต
 addon-detail-private-browsing-disallow = ไม่อนุญาต
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } แนะนำเฉพาะส่วนขยายที่ตรงตามมาตรฐานของเราเท่านั้นเพื่อความปลอดภัยและประสิทธิภาพ
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = ส่วนขยายนี้สร้างโดยผู้สร้าง { -brand-product-name }
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = ส่วนขยายนี้ผ่านการตรวจทานรหัสเพื่อความปลอดภัยแล้ว
+    .aria-label = { addon-badge-verified.title }
+
+##
+
 available-updates-heading = การอัปเดตที่มี
 recent-updates-heading = การอัปเดตล่าสุด
 release-notes-loading = กำลังโหลด…
 release-notes-error = ขออภัย แต่เกิดข้อผิดพลาดในการโหลดบันทึกประจำรุ่น
 addon-permissions-empty = ส่วนขยายนี้ไม่ต้องการการอนุญาตใด ๆ
+addon-permissions-required = สิทธิอนุญาตที่ต้องการสำหรับฟังก์ชันการทำงานหลัก:
+addon-permissions-optional = สิทธิอนุญาตที่เลือกได้สำหรับฟังก์ชันการทำงานที่เพิ่ม:
+addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับสิทธิอนุญาต
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
 recommended-themes-heading = ชุดตกแต่งที่แนะนำ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
