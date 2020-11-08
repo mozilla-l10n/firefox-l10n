@@ -282,3 +282,4 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustracija zavrnjenega piškotka
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Več kontrolnikov predstavnosti
+cfr-whatsnew-media-keys-button = Poglejte, kako

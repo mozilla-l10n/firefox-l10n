@@ -17,6 +17,17 @@ handler-dialog-host = <strong>{ $host }</strong> želi odpreti povezavo <strong>
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Ali dovolite tej strani, da odpre povezavo { $scheme }?
+permission-dialog-description-file = Ali dovolite tej datoteki, da odpre povezavo { $scheme }?
+permission-dialog-description-host = Ali dovolite gostitelju { $host }, da odpre povezavo { $scheme }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
 
 ## Chooser dialog
 ## Variables:

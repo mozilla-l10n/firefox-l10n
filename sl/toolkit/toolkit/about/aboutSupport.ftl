@@ -68,6 +68,7 @@ app-basics-service-workers = Registrirani Service Workerji
 app-basics-profiles = Profili
 app-basics-launcher-process-status = Proces zaganjača
 app-basics-multi-process-support = Večprocesna okna
+app-basics-fission-support = Fission Windows
 app-basics-remote-processes-count = Oddaljeni procesi
 app-basics-enterprise-policies = Pravilniki za podjetja
 app-basics-location-service-key-google = Ključ lokacijskih storitev Google
@@ -339,6 +340,14 @@ multi-process-status-6 = Onemogočeno zaradi nepodprtega vnosa besedila
 multi-process-status-7 = Onemogočili dodatki
 multi-process-status-8 = Prisilno onemogočeno
 multi-process-status-unknown = Neznano stanje
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-enabled-by-default = Privzeto omogočeno
+fission-status-disabled-by-default = Privzeto onemogočeno
+fission-status-enabled-by-user-pref = Omogočil uporabnik
+fission-status-disabled-by-user-pref = Onemogočil uporabnik
 async-pan-zoom = Asinhrono pomikanje/povečava
 apz-none = brez
 wheel-enabled = vnos s koleščkom omogočen
@@ -359,3 +368,12 @@ touch-warning = asinhroni vnos na dotik onemogočen zaradi nedpodprte nastavitve
 policies-inactive = Nedejavno
 policies-active = Dejavno
 policies-error = Napaka
+
+## Printing section
+
+support-printing-title = Tiskanje
+support-printing-troubleshoot = Odpravljanje težav
+support-printing-clear-settings-button = Počistite shranjene nastavitve tiskanja
+support-printing-modified-settings = Spremenjene nastavitve tiskanja
+support-printing-prefs-name = Ime
+support-printing-prefs-value = Vrednost

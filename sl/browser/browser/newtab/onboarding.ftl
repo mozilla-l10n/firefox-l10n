@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Že imate račun?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Prijavite se
 onboarding-start-browsing-button-label = Začnite z brskanjem
+onboarding-not-now-button-label = Ne zdaj
 onboarding-cards-dismiss =
     .title = Opusti
     .aria-label = Opusti
@@ -88,6 +89,7 @@ onboarding-benefit-lockwise-text = Upravljajte gesla, ki so zaščitena in preno
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Odlično, imate { -brand-short-name }
 # <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
 #
 # Variables:
