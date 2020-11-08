@@ -58,3 +58,6 @@ toolbar-context-menu-bookmarks-toolbar-always-show =
 toolbar-context-menu-bookmarks-toolbar-never-show =
     .label = Nunquam
     .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Solo sur un nove scheda
+    .accesskey = s
