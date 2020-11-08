@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -220,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ĉi foje serĉi per:
 # This string won't wrap, so if the translated string is longer,
@@ -285,6 +285,14 @@ identity-passive-loaded = Partoj de tiu ĉi paĝo ne estas sekuraj (bildoj, ekze
 identity-active-loaded = Mi malaktivigis protekton en tiu ĉi paĝo.
 identity-weak-encryption = Tiu ĉi paĝo uzas malfortan ĉifradon.
 identity-insecure-login-forms = Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.
+identity-https-only-connection-upgraded = (ŝanĝita al HTTPS)
+identity-https-only-label = HTTPS-nura reĝimo
+identity-https-only-dropdown-on =
+    .label = Ŝaltita
+identity-https-only-dropdown-off =
+    .label = Malŝaltita
+identity-https-only-dropdown-off-temporarily =
+    .label = Provizore malŝaltita
 identity-permissions =
     .value = Permesoj
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
@@ -329,6 +337,9 @@ browser-window-restore-down-button =
     .tooltiptext = Remeti antaŭan grandon
 browser-window-close-button =
     .tooltiptext = Fermi
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
