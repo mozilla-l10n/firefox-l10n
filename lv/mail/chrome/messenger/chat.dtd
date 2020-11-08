@@ -8,12 +8,22 @@
 <!ENTITY searchResultConversation.label "Meklēšanas rezultāti">
 <!ENTITY chat.noConv.title             "Sarunas tiks rādītas šeit.">
 <!ENTITY chat.noConv.description       "Lai sāktu sarunu, izmantojiet kontaktu sarakstu kreisajā panelī.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; pašlaik šai kontaktpersonai nav saglabājis iepriekšējās sarunas.">
+<!ENTITY chat.noAccount.title             "Jūs vēl neesat izveidojis tērzēšanas kontu.">
+<!ENTITY chat.noAccount.description       "Ļaujiet &brandShortName; palīdzēt jums izveidot tērzēšanas kontu.">
+<!ENTITY chat.accountWizard.button       "Pirmie soļi">
+<!ENTITY chat.noConnectedAccount.title             "Jūsu tērzēšanas konti nav savienoti.">
+<!ENTITY chat.noConnectedAccount.description       "Tos varat savienot dialogā 'Tērzēšanas statuss':">
 <!ENTITY chat.showAccountManager.button       "Rādīt tērzēšanas statusu">
 
 <!ENTITY chat.participants             "Dalībnieki:">
+<!ENTITY chat.previousConversations    "Iepriekšējās sarunas:">
+<!ENTITY chat.ongoingConversation      "Notiekošā saruna">
 
 <!ENTITY openConversationCmd.label     "Sākt sarunu">
 <!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY closeConversationCmd.label    "Aizvērt sarunu">
+<!ENTITY closeConversationCmd.accesskey "C">
 
 <!ENTITY openConversationButton.tooltip  "Sākt sarunu">
 <!ENTITY closeConversationButton.tooltip "Aizvērt sarunu">
