@@ -18,6 +18,7 @@
 
 ## Details within processes
 
+about-processes-preloaded-tab = Asali qbel n yiccer amaynut
 
 ## Displaying CPU (percentage and total)
 ## Variables:
