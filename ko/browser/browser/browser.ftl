@@ -294,6 +294,7 @@ identity-https-only-info-no-upgrade = HTTP에서 연결을 업그레이드할 �
 identity-permissions =
     .value = 권한
 identity-permissions-storage-access-header = 교차 사이트 쿠키
+identity-permissions-storage-access-hint = 이 당사자는 사용자가 이 사이트에 있는 동안 교차 사이트 쿠키 및 사이트 데이터를 사용할 수 있습니다.
 identity-permissions-reload-hint = 변경 사항을 적용하려면 페이지를 다시 로드해야할 수도 있습니다.
 identity-permissions-empty = 이 사이트를 특별한 권한으로 승인하지 않았습니다.
 identity-clear-site-data =
