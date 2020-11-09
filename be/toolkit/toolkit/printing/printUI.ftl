@@ -42,6 +42,9 @@ printui-scale = Маштаб
 printui-scale-fit-to-page-width = Да шырыні старонкі
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Маштаб
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Двухбаковы друк
+printui-duplex-checkbox = Друкаваць на абедзвюх старанах
 # Section title for miscellaneous print options
 printui-options = Налады
 printui-headers-footers-checkbox = Друкаваць загалоўкі і калантытулы
