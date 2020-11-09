@@ -1,0 +1,4 @@
+<!ENTITY options.title "Izstrādātāja rīku iespējas">
+<!ENTITY options.status.label "Statuss:">
+<!ENTITY options.port.label "Ports:">
+<!ENTITY options.forcelocal.label "Atļaut savienojumus no citiem datoriem">
