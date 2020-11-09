@@ -41,6 +41,9 @@ printui-scale = Xakb'äl
 printui-scale-fit-to-page-width = Titz'aj pa ruwa ri ruxaq
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Xakb'äl
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Nitz'ajb'äx pa ka'i'-ruwa
+printui-duplex-checkbox = Titz'ajb'äx pa ka'i'-ruwa
 # Section title for miscellaneous print options
 printui-options = Taq cha'oj
 printui-headers-footers-checkbox = Titz'ajb'äl taq nab'ey chuqa' ruxe' rub'i' ruxaq

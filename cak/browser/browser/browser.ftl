@@ -302,6 +302,7 @@ identity-https-only-info-no-upgrade = Man nitikïr ta nik'ex ri okem pa HTTP.
 identity-permissions =
     .value = Taq ya'oj q'ij
 identity-permissions-storage-access-header = Kicookies xoch'in taq ruxaq
+identity-permissions-storage-access-hint = Re taq peraj re' yetikïr nikokisaj kikokies xoch'in taq ruxaq chuqa' kitzij taq ruxaq toq at k'o pa re ruxaq.
 identity-permissions-reload-hint = Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.
 identity-permissions-empty = Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.
 identity-clear-site-data =
