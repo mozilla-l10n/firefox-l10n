@@ -204,5 +204,5 @@ newtab-pocket-cta-text = Зберігайте улюблені статті в {
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = Ой, при завантаженні цього вмісту щось пішло не так.
+newtab-error-fallback-info = Йой, під час завантаження цього вмісту щось пішло не так.
 newtab-error-fallback-refresh-link = Оновіть сторінку, щоб спробувати знову.
