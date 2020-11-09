@@ -48,7 +48,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Crear ligazón…">
 <!ENTITY createLinkCmd.accesskey "z">
-<!ENTITY editLinkCmd.label "Editar ligazón no novo Composer">
+<!ENTITY editLinkCmd.label "Modificar a ligazón nun nova xanela de redacción">
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
