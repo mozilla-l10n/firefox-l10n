@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = אם נראה שהדף שבור, באפשר
 identity-https-only-info-no-upgrade = לא ניתן לשדרג את החיבור מ־HTTP.
 identity-permissions =
     .value = הרשאות
+identity-permissions-storage-access-header = עוגיות חוצות אתרים
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
 identity-permissions-empty = לא סופקו לאתר זה הרשאות מיוחדות.
 identity-clear-site-data =
