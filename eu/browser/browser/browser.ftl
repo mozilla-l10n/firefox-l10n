@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Gutxiago idatzi, gehiago aurkitu: bilatu { $engineName } erabiliz helbide-barratik zuzenean.
 urlbar-search-tips-redirect-2 = Hasi zure bilaketa helbide-barran { $engineName } bilatzailearen eta zure nabigazio-historialeko proposamenak ikusteko
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Hautatu lasterbide hau behar duzuna azkarrago bilatzeko.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -298,6 +301,8 @@ identity-https-only-info-turn-off2 = Orriak hautsita badirudi, agian HTTPS-Only 
 identity-https-only-info-no-upgrade = Ezin da konexioa bihurtu HTTPtik.
 identity-permissions =
     .value = Baimenak
+identity-permissions-storage-access-header = Guneen arteko cookieak
+identity-permissions-storage-access-hint = Ondorengo hauek guneen arteko cookie eta datuak erabil ditzakete gune honetan zauden bitartean.
 identity-permissions-reload-hint = Agian orria berritu beharko duzu aldaketek eragina izan dezaten.
 identity-permissions-empty = Ez diozu gune honi baimen berezirik eman.
 identity-clear-site-data =
@@ -452,6 +457,26 @@ urlbar-result-action-search-in-private = Bilatu leiho pribatuan
 urlbar-result-action-search-w-engine = Bilatu { $engine } erabiliz
 urlbar-result-action-switch-tab = Aldatu fitxara
 urlbar-result-action-visit = Bisitatu
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Sakatu 'Tab' tekla { $engine } erabiliz bilatzeko
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Sakatu 'Tab' tekla { $engine } erabiliz bilatzeko
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Bilatu { $engine } erabiliz helbide-barratik zuzenean
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Bilatu { $engine } erabiliz helbide-barratik zuzenean
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
