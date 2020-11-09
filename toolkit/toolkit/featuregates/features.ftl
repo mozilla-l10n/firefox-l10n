@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = El evento global <a data
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = La adición de un constructor a la interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> así como una variedad de cambios relacionados hace posible crear directamente nuevas hojas de estilo sin tener que agregar la hoja al HTML. Esto hace más fácil crear hojas de estilo reutilizables para usar con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Ver <a data-l10n-name="bugzilla">bug 1520690</a> para más detalles.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = La implementación completa de { -brand-short-name } de Media Session API es actualmente experimental. Esta API se usa para personalizar el manejo de notificaciones relacionadas con los medios, para manejar eventos y datos útiles para presentar una interface de usuario para manejar reproducción de medios y para obtener metadatos de los archivos. Ver <a data-l10n-name="bugzilla">bug 1112032</a> para más detalles.
 experimental-features-devtools-color-scheme-simulation =
     .label = Herramientas para desarrolladores: simulación de esquemas de color
 experimental-features-devtools-color-scheme-simulation-description = Agrega una opción para simular diferentes esquemas de color que le permite probar <a data-l10n-name="mdn-preferscolorscheme"> @prefers-color-scheme </a> consultas de medios. El uso de esta función permite que su hoja de estilo responda si el usuario prefiere una interfaz de usuario clara u oscura. Esto le permite probar su código sin tener que cambiar la configuración de su navegador (o sistema operativo, si el navegador sigue una configuración de esquema de color para todo el sistema). Ver <a data-l10n-name="bugzilla1"> bug 1550804 </a> y <a data-l10n-name="bugzilla2"> bug 1137699 </a> para obtener más detalles.
@@ -93,7 +88,7 @@ experimental-features-graphics-desktop-zooming =
 experimental-features-graphics-desktop-zooming-description = Habilitar la compatibilidad para un zoom de pellizco suave en pantallas táctiles y almohadillas táctiles de precisión.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
-    .label = Intercambiar música global WebRTC
+    .label = Alternar sonido WebRTC globalmente
 experimental-features-webrtc-global-mute-toggles-description = Agregar controles al indicador de intercambio global WebRTC que permitan a los usuarios silenciar globalmente sus fuentes de micrófono y cámara.
 # JS JIT Warp project
 experimental-features-js-warp =
