@@ -45,6 +45,9 @@ printui-scale = Graddfa
 printui-scale-fit-to-page-width = Yn ffitio i led y dudalen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Graddfa
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Argraffu dwy ochr
+printui-duplex-checkbox = Argraffu ar y ddwy ochr
 # Section title for miscellaneous print options
 printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
