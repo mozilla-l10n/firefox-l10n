@@ -26,6 +26,7 @@ fxaccounts-avatar-button =
 menu =
     .title = បើក​ម៉ឺនុយ
 about-logins-menu-menuitem-import-from-a-file = នាំចូល​ពី​ឯកសារ…
+about-logins-menu-menuitem-export-logins = នាំចេញចូល...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ជម្រើស
