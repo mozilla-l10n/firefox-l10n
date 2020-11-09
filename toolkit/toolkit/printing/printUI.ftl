@@ -41,6 +41,9 @@ printui-scale = קנה מידה
 printui-scale-fit-to-page-width = התאמה לרוחב העמוד
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = קנה מידה
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = הדפסה דו־צדדית
+printui-duplex-checkbox = הדפסה בשני הצדדים
 # Section title for miscellaneous print options
 printui-options = אפשרויות
 printui-headers-footers-checkbox = הדפסת כותרות עיליות ותחתיות
