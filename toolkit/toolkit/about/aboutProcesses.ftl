@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Décharger les onglets et tuer le processus
 about-processes-shutdown-tab =
     .title = Fermer l’onglet
 
@@ -28,11 +30,27 @@ about-processes-column-cpu-total = Processeur
 about-processes-browser-process-name = { -brand-short-name } (processus { $pid })
 about-processes-web-process-name = Web (processus { $pid }, partagé)
 about-processes-web-isolated-process-name = Web (processus { $pid }) pour { $origin }
+about-processes-web-large-allocation = Web (processus { $pid }, grand) pour { $origin }
 about-processes-file-process-name = Fichiers (processus { $pid })
+about-processes-extension-process-name = Extensions (processus { $pid })
 about-processes-privilegedabout-process-name = À propos (processus { $pid })
+about-processes-plugin-process-name = Plugins (processus { $pid })
+about-processes-privilegedmozilla-process-name = Web (processus { $pid }) pour les sites de { -vendor-short-name })
+about-processes-preallocated-process-name = Préalloué (processus { $pid })
+about-processes-unknown-process-name = Autre ({ $type }, processus { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Processus { $pid } : { $name }
 
 ## Details within processes
 
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Onglet : { $name }
+about-processes-preloaded-tab = Nouvel onglet préchargé
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -45,6 +63,8 @@ about-processes-privilegedabout-process-name = À propos (processus { $pid })
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (mesure en cours)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = inactif ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
