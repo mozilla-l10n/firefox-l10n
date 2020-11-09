@@ -28,6 +28,8 @@ about-processes-column-cpu-total = Processeur
 about-processes-browser-process-name = { -brand-short-name } (processus { $pid })
 about-processes-web-process-name = Web (processus { $pid }, partagé)
 about-processes-web-isolated-process-name = Web (processus { $pid }) pour { $origin }
+about-processes-file-process-name = Fichiers (processus { $pid })
+about-processes-privilegedabout-process-name = À propos (processus { $pid })
 
 ## Details within processes
 
