@@ -2,50 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY folderProps.windowtitle.label           "Īpašības">
 
+<!ENTITY generalInfo.label                       "Galvenā informācija">
+<!ENTITY folderCharsetFallback2.label            "Atkāpšanās teksta kodējums:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "Lietot kodējumu visām mapē esošajām vēstulēm (tiks ignorēti atsevišķu vēstuļu teksta kodējumi un automātiskā kodējuma noteikšana)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Pārbūvēt kopsavilkuma failu rādītāju">
+<!ENTITY folderRebuildSummaryFile2.label         "Salabot mapi">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Dažreiz mapes indeksa (.msf) fails sabojājas un vēstules var likties pazudušas vai var parādīties dzēstas vēstules; labojot mapi, šīs problēmas var novērst.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Iekļaut vēstules no šīs mapes globālās meklēšanas rezultātos">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY retention.label "Saglabāšanas politika">
+<!ENTITY retentionUseAccount.label  "Izmantot mana konta iestatījumus">
+<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY daysOld.label "dienu vecas">
+<!ENTITY message.label "vēstules">
+<!ENTITY retentionCleanup.label "Lai atgūtu diska vietu, vecās vēstules var izdzēst neatgriezeniski.">
+<!ENTITY retentionCleanupImap.label "Lai atgūtu diska vietu, vēstules var izdzēst neatgriezeniski: gan lokālās kopijas, gan oriģinālus attālajā serverī.">
+<!ENTITY retentionCleanupPop.label "Lai atgūtu diska vietu, vecās vēstules var izdzēst neatgriezeniski, ieskaitot oriģinālus attālajā serverī.">
+<!ENTITY retentionDeleteMsg.label "Dzēst vēstules vairāk par">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Nedzēst nevienu vēstuli">
+<!ENTITY retentionKeepAll.accesskey "A">
 
 
 
@@ -55,6 +37,5 @@
 
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "nezināms">
-
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "nezināms">
