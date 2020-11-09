@@ -18,4 +18,11 @@
 <!ENTITY accountPasswordManager.label "Šeit ievadītā parole tiks saglabāta Paroļu pārvaldniekā. Atstājiet šo rūtiņu tukšu, ja vēlaties, lai katru reizi, kad tiek izveidots savienojums ar šo kontu, jums tiek prasīta parole.">
 
 <!ENTITY accountAdvancedTitle.label   "Papildu iespējas">
+<!ENTITY accountAdvancedInfo.label    "Ja vēlaties, droši izlaidiet šo soli.">
+<!ENTITY accountAdvanced.newMailNotification.label   "Paziņot par jaunu pastu">
+<!ENTITY accountAliasGroupbox.caption "Vietējais aizstājvārds">
+<!ENTITY accountAliasField.label      "Aizstājvārds:">
+<!ENTITY accountAliasInfo.label       "Tas tiks parādīts jūsu sarunās tikai tad, kad runājat, attālie kontakti to neredzēs.">
+<!ENTITY accountProxySettings.caption "Starpnieka iestatījumi">
+<!ENTITY accountProxySettings.change.label     "Mainīt…">
 
