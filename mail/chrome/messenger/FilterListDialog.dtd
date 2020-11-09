@@ -2,38 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Vēstuļu filtri">
+<!ENTITY nameColumn.label "Filtra nosaukums">
 <!ENTITY activeColumn.label "Ieslēgts">
 <!ENTITY newButton.label "Jauns...">
 <!ENTITY newButton.accesskey "n">
-
-
+<!ENTITY newButton.popupCopy.label "Kopēt…">
+<!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "Rediģēt...">
 <!ENTITY editButton.accesskey "e">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY deleteButton.label "Dzēst">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderTopButton "Pārvietot uz augšu">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Pārkārtot filtru, lai tas darbotos pirms visiem citiem">
+<!ENTITY reorderUpButton.label "Pārvietot augšup">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Pārvietot lejup">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderBottomButton "Pārvietot uz leju">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Pārkārtot filtru, lai tas darbotos pēc visiem citiem">
+<!ENTITY filterHeader.label "Ieslēgtie filtri tiek palaisti automātiski zemāk redzamā secībā.">
+<!ENTITY filtersForPrefix.label "Filtri priekš:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Filtru žurnāls">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Palaist tagad">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Apturēt">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Palaist izvēlētos(-os) filtru(-us) uz:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY helpButton.label "Palīdzība">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Meklēt filtrus pēc nosaukuma…">

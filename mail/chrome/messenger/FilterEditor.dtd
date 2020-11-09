@@ -17,11 +17,45 @@
 <!ENTITY highestPriorityCmd.label "Augstākā">
 
 <!ENTITY contextDesc.label "Lietot filtru, kad:">
+<!ENTITY contextIncomingMail.label "Saņem jauna pastu:">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "Palaist manuāli">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Filtrēt pirms mēstuļu noteikšanas">
+<!ENTITY contextAfterCls.label "Filtrēt pēc mēstuļu noteikšanas">
+<!ENTITY contextOutgoing.label "Pēc nosūtīšanas">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "Arhivēšana">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextPeriodic.accesskey "e">
 
+<!ENTITY filterActionDesc.label "Veikt šīs darbības:">
+<!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "Piezīme: Filtrēšanas darbības tiks izpildītas citā secībā.">
+<!ENTITY filterActionOrder.label "Skatīt izpildīšanas secību">
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Pārvietot vēstuli uz">
+<!ENTITY copyMessage.label "Kopēt vēstuli uz">
+<!ENTITY forwardTo.label "Pārsūtīt vēstuli uz">
+<!ENTITY replyWithTemplate.label "Atbildēt ar veidni">
+<!ENTITY markMessageRead.label "Atzīmēt kā lasītu">
+<!ENTITY markMessageUnread.label "Atzīmēt kā nelasītu">
+<!ENTITY markMessageStarred.label "Pievienot zvaigznīti">
+<!ENTITY setPriority.label "Iestatīt prioritāti uz">
+<!ENTITY addTag.label "Birkot vēstuli">
+<!ENTITY setJunkScore.label "Iestatīt mēstules statusu uz">
+<!ENTITY deleteMessage.label "Dzēst vēstuli">
+<!ENTITY deleteFromPOP.label "Dzēst no POP servera">
+<!ENTITY fetchFromPOP.label "Ielādēt no POP servera">
+<!ENTITY ignoreThread.label "Ignorēt pavedienu">
+<!ENTITY ignoreSubthread.label "Ignorēt apakšpavedienu">
+<!ENTITY watchThread.label "Skatīt pavedienu">
+<!ENTITY stopExecution.label "Pārtraukt filtru izpildi">
 
+<!ENTITY addAction.tooltip "Pievienot jaunu darbību">
+<!ENTITY removeAction.tooltip "Noņemt šo darbību">
 
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
@@ -29,3 +63,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
