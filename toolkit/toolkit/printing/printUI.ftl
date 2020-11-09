@@ -40,6 +40,9 @@ printui-scale = 배율
 printui-scale-fit-to-page-width = 페이지 너비에 맞추기
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 배율
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = 양면 인쇄
+printui-duplex-checkbox = 양쪽 면에 인쇄
 # Section title for miscellaneous print options
 printui-options = 옵션
 printui-headers-footers-checkbox = 머리글 및 바닥글 인쇄
