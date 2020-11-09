@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -112,6 +112,9 @@ urlbar-search-tips-redirect-2 = Hasi zure bilaketa helbide-barran { $engineName 
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Laster-markak
+urlbar-search-mode-tabs = Fitxak
+urlbar-search-mode-history = Historia
 
 ##
 
@@ -217,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Oraingoan, bilatu honekin:
 # This string won't wrap, so if the translated string is longer,
@@ -235,6 +238,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ezarri leiho pribatuetarako bilaketa-motor lehenetsi gisa
     .accesskey = E
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -243,6 +252,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Laster-markak ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Fitxak ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historia ({ $restrict })
 
 ## Bookmark Panel
 
@@ -270,6 +285,17 @@ identity-passive-loaded = Orri honetako zenbait atal ez dira seguruak (adib. iru
 identity-active-loaded = Babesa desgaitu duzu orri honetan.
 identity-weak-encryption = Orri honek zifraketa ahula erabiltzen du.
 identity-insecure-login-forms = Orri honetan sartutako saio-hasierak arriskuan egon litezke.
+identity-https-only-connection-upgraded = (HTTPSra bihurtu da)
+identity-https-only-label = HTTPS-Only modua
+identity-https-only-dropdown-on =
+    .label = Aktibatuta
+identity-https-only-dropdown-off =
+    .label = Desaktibatuta
+identity-https-only-dropdown-off-temporarily =
+    .label = Desaktibatuta behin-behinean
+identity-https-only-info-turn-on2 = Aktibatu gune honetarako HTTPS-Only modua, ahal denean { -brand-short-name }(e)k konexioa HTTPSra bihur dezan.
+identity-https-only-info-turn-off2 = Orriak hautsita badirudi, agian HTTPS-Only modua desgaitu nahi duzu gunea HTTP ez-segurua erabiliz berritzeko.
+identity-https-only-info-no-upgrade = Ezin da konexioa bihurtu HTTPtik.
 identity-permissions =
     .value = Baimenak
 identity-permissions-reload-hint = Agian orria berritu beharko duzu aldaketek eragina izan dezaten.
@@ -315,6 +341,12 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Itxi
 
+## Bookmarks toolbar items
+
+browser-import-button =
+    .label = Inportatu laster-markak…
+    .tooltiptext = Kopiatu laster-markak beste nabigatzaile batetik { -brand-short-name }(e)ra.
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -350,8 +382,38 @@ enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik g
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Idatzi bilaketa edo helbidea
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Idatzi bilaketa edo helbidea
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Bilatu webean
+    .aria-label = Bilatu { $name } erabiliz
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Idatzi bilaketa-terminoak
+    .aria-label = Bilatu { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Idatzi bilaketa-terminoak
+    .aria-label = Bilatu laster-markak
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Idatzi bilaketa-terminoak
+    .aria-label = Bilatu historia
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Idatzi bilaketa-terminoak
+    .aria-label = Bilatu fitxak
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -395,6 +457,9 @@ urlbar-result-action-visit = Bisitatu
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Bilatu laster-markak
+urlbar-result-action-search-history = Bilatu historia
+urlbar-result-action-search-tabs = Bilatu fitxak
 
 ## Full Screen and Pointer Lock UI
 
