@@ -303,6 +303,7 @@ identity-https-only-info-turn-off2 = Якщо сторінка виглядає 
 identity-https-only-info-no-upgrade = Не вдалося змінити з'єднання з HTTP.
 identity-permissions =
     .value = Дозволи
+identity-permissions-storage-access-header = Куки стеження між сайтами
 identity-permissions-reload-hint = Для застосування змін, можливо, доведеться перезавантажити сторінку.
 identity-permissions-empty = Ви не надали цьому сайту жодних спеціальних дозволів.
 identity-clear-site-data =
