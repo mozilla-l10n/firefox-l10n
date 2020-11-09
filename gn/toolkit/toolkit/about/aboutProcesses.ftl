@@ -37,7 +37,10 @@ about-processes-extension-process-name = Moĩmbaha (rapereko { $pid })
 about-processes-privilegedabout-process-name = (tapereko { $pid }) rehegua
 about-processes-plugin-process-name = Moĩmbaha (tapereko { $pid })
 about-processes-privilegedmozilla-process-name = Ñanduti (tapereko { $pid }) { -vendor-short-name } rendápe g̃uarã
+about-processes-gmp-plugin-process-name = Moĩmbaha Gecko rehegua (rapereko { $pid })
 about-processes-gpu-process-name = GPU (tapereko { $pid })
+about-processes-vr-process-name = VR (rapereko { $pid })
+about-processes-rdd-process-name = Mba’ekuaarã mbopapapy’oha (rapereko { $pid })
 
 ## Details within processes
 
