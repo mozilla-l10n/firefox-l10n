@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Проблема при завантаженні сторінки">
+<!ENTITY loadError.label "Проблема під час завантаження сторінки">
 <!ENTITY retry.label "Спробувати знову">
 
 <!-- Specific error messages -->
