@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Seleccione Editar modificacións">
-<!ENTITY conflictWarning.label "Esta páxina foi modificada por outro programa mais tamén ten modificacións sen gardar no Composer.">
+<!ENTITY conflictWarning.label "Esta páxina foi modificada por outro programa mais tamén ten modificacións sen gardar na xanela de redacción.">
 <!ENTITY conflictResolve.label "Seleccione que versión manter:">
 <!ENTITY keepCurrentPageButton.label "Manter as modificacións da páxina actual">
 <!ENTITY useOtherPageButton.label "Substituír a páxina actual por outras modificacións">
