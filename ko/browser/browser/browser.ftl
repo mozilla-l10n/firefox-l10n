@@ -293,6 +293,7 @@ identity-https-only-info-turn-off2 = 페이지가 손상된 것 같으면 이 �
 identity-https-only-info-no-upgrade = HTTP에서 연결을 업그레이드할 수 없습니다.
 identity-permissions =
     .value = 권한
+identity-permissions-storage-access-header = 교차 사이트 쿠키
 identity-permissions-reload-hint = 변경 사항을 적용하려면 페이지를 다시 로드해야할 수도 있습니다.
 identity-permissions-empty = 이 사이트를 특별한 권한으로 승인하지 않았습니다.
 identity-clear-site-data =
