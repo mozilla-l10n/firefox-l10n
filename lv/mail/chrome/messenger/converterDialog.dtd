@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY converterDialog.title "Ziņojumu krātuves veida pārveidotājs">
+<!ENTITY converterDialog.continueButton "Turpināt">
+<!ENTITY converterDialog.cancelButton "Atcelt">
+<!ENTITY converterDialog.finishButton "Pabeigt">
+<!ENTITY converterDialog.complete "Pārveidošana ir pabeigta. &brandShortName; tagad tiks pārstartēts.">
+<!ENTITY converterDialog.error "Pārveidošana neizdevās.">
+
