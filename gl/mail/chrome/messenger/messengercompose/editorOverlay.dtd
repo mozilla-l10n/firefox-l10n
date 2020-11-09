@@ -37,7 +37,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Crear ligazón…">
 <!ENTITY createLinkCmd.accesskey "z">
-<!ENTITY editLinkCmd.label "Editar ligazón no novo Composer">
+<!ENTITY editLinkCmd.label "Modificar a ligazón nun nova xanela de composición">
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "Propiedades da táboa…">
 <!ENTITY tableProperties.accesskey "P">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Imaxe">
 <!ENTITY imageToolbarCmd.tooltip "Inserir imaxe ou editar as propiedades das imaxes seleccionadas">
 <!ENTITY hruleToolbarCmd.label "Liña h.">
