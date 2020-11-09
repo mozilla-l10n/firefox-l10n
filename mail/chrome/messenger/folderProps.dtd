@@ -28,14 +28,47 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Nedzēst nevienu vēstuli">
 <!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Dzēst visas, izņemot pašas nesenākās">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionApplyToFlagged.label "Vienmēr saglabāt zvaigžņotās vēstules">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
+<!ENTITY folderSynchronizationTab.label          "Sinhronizācija">
+<!ENTITY folderCheckForNewMessages2.label         "Saņemot jaunas vēstules šajā kontā, vienmēr pārbaudīt šo mapi">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
+<!ENTITY offlineFolder.check.label               "Izvēlēties šo mapi lietošanai nesaistē">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Lejuplādēt tagad">
+<!ENTITY offlineFolder.button.accesskey          "D">
 
+<!ENTITY selectofflineNewsgroup.check.label      "Izvēlēties šo ziņu grupu lietošanai nesaistē">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Lejuplādēt tagad">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
 
+<!ENTITY folderProps.name.label                  "Nosaukums:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Ikonas krāsa:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Atjaunot noklusēto krāsu">
+<!ENTITY folderProps.location.label              "Vieta:">
+<!ENTITY folderProps.location.accesskey          "L">
 
+<!ENTITY folderSharingTab.label                  "Koplietošana">
+<!ENTITY privileges.button.label                 "Atļaujas…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Jums ir šādas atļaujas:">
+<!ENTITY folderOtherUsers.label                  "Citi ar piekļuvi šai mapei:">
+<!ENTITY folderType.label                        "Mapes veids:">
 
+<!ENTITY folderQuotaTab.label                    "Kvota">
+<!ENTITY folderQuotaUsage.label                  "Lietošana:">
+<!ENTITY folderQuotaStatus.label                 "Statuss:">
 
+<!ENTITY numberOfMessages.label                  "Vēstuļu skaits:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "nezināms">
+<!ENTITY sizeOnDisk.label                        "Izmērs diskā:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "nezināms">
