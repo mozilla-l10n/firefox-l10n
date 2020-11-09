@@ -12,18 +12,15 @@ about-httpsonly-insecure-explanation-exception = Anche se il rischio per la sicu
 
 about-httpsonly-button-make-exception = Accetta il rischio e continua sul sito
 
-about-httpsonly-title = { -brand-short-name } ha rilevato un potenziale rischio per la sicurezza
 about-httpsonly-title-alert = Avviso modalità solo HTTPS
 about-httpsonly-title-connection-not-available = Connessione sicura non disponibile
 
-about-httpsonly-explanation-unavailable = Stai navigando in modalità solo HTTPS e non è disponibile una versione sicura HTTPS di <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-unavailable2 = È stata attivata la modalità solo HTTPS per una maggiore sicurezza ma non è disponibile una versione HTTPS di <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-question = Quale potrebbe essere la causa?
 about-httpsonly-explanation-nosupport = Molto probabilmente il sito non supporta HTTPS.
 about-httpsonly-explanation-risk = Potrebbe anche trattarsi di un tentativo di attacco. Se decidi di visitare il sito non inserire informazioni riservate come password, indirizzi email o dati delle carte di credito.
 about-httpsonly-explanation-continue = Proseguendo, la modalità solo HTTPS verrà temporaneamente disattivata per questo sito.
 
-about-httpsonly-button-accept-and-continue = Accetta il rischio e continua
 about-httpsonly-button-continue-to-site = Prosegui sul sito HTTP
 about-httpsonly-button-go-back = Torna indietro
 about-httpsonly-link-learn-more = Ulteriori informazioni…

@@ -99,11 +99,6 @@ experimental-features-devtools-serviceworker-debugger-support =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Attiva il supporto sperimentale per i Service Worker nel pannello Debugger. Questa funzione potrebbe rallentare gli strumenti di sviluppo e aumentare il consumo di memoria.
 
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafica: zoom continuo con avvicinamento dita (Smooth Pinch Zoom)
-experimental-features-graphics-desktop-zooming-description = Attiva il supporto per zoom continuo con avvicinamento dita su schermi touch e touchpad di precisione.
-
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Attivazione/disattivazione audio e video WebRTC a livello globale
