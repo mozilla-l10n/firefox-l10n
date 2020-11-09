@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label            "Tērzēšanas konta vednis">
+
+<!ENTITY accountProtocolTitle.label   "Tērzēšanas tīkls">
+<!ENTITY accountProtocolInfo.label    "Lūdzu, izvēlieties sava tērzēšanas konta tīklu.">
+<!ENTITY accountProtocolField.label   "Tīkls:">
+<!ENTITY accountProtocolGetMore.label "Iegūt vairāk…">
+
+<!ENTITY accountUsernameTitle.label   "Lietotājvārds">
+<!ENTITY accountUsernameDuplicate.label "Šis konts jau ir iestatīts!">
+
+<!ENTITY accountPasswordTitle.label   "Parole">
+<!ENTITY accountPasswordInfo.label    "Lūdzu, ievadiet savu paroli laukā zemāk.">
+<!ENTITY accountPasswordField.label   "Parole:">
+<!ENTITY accountPasswordManager.label "Šeit ievadītā parole tiks saglabāta Paroļu pārvaldniekā. Atstājiet šo rūtiņu tukšu, ja vēlaties, lai katru reizi, kad tiek izveidots savienojums ar šo kontu, jums tiek prasīta parole.">
+
+<!ENTITY accountAdvancedTitle.label   "Papildu iespējas">
+
