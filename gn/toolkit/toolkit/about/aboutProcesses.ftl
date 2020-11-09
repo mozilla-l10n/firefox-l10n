@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Emboguejy tendayke ha ejapopa tapereko
 about-processes-shutdown-tab =
     .title = Emboty tendayke
 
@@ -27,7 +29,11 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process-name = { -brand-short-name } (tapereko { $pid })
 about-processes-web-process-name = Ñanduti (tapereko { $pid }, moherakuãmbyre)
+about-processes-web-isolated-process-name = Ñanduti (rapereko { $pid }) { $origin } peg̃uarã
+about-processes-web-large-allocation = Ñanduti (rapereko { $pid }, tuicha) { $origin } peg̃uarã
+about-processes-with-coop-coep-process-name = Ñanduti (rapereko { $pid }, teñoiha juasapyre mombyrýva) { $origin } peg̃uarã
 about-processes-file-process-name = Marandurenda (tapereko { $pid })
+about-processes-extension-process-name = Moĩmbaha (rapereko { $pid })
 about-processes-privilegedabout-process-name = (tapereko { $pid }) rehegua
 about-processes-plugin-process-name = Moĩmbaha (tapereko { $pid })
 about-processes-privilegedmozilla-process-name = Ñanduti (tapereko { $pid }) { -vendor-short-name } rendápe g̃uarã
