@@ -41,6 +41,9 @@ printui-scale = Méret
 printui-scale-fit-to-page-width = Oldalszélesség
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Méret
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Kétoldalas nyomtatás
+printui-duplex-checkbox = Nyomtatás mindkét oldalra
 # Section title for miscellaneous print options
 printui-options = Beállítások
 printui-headers-footers-checkbox = Fejlécek és láblécek nyomtatása
