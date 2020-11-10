@@ -42,6 +42,10 @@ about-processes-gpu-process-name = GPU (prosess { $pid })
 about-processes-vr-process-name = VR (prosess { $pid })
 about-processes-rdd-process-name = Datadekoder (prosess { $pid })
 about-processes-socket-process-name = Nettverk (prosess { $pid })
+about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (prosess { $pid })
+about-processes-fork-server-process-name = Forkserver (prosess { $pid })
+about-processes-preallocated-process-name = Forhåndstildelt (prosess { $pid })
+about-processes-unknown-process-name = Annet ({ $type }, prosess { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
