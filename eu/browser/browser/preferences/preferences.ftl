@@ -781,10 +781,6 @@ forms-master-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz
 forms-primary-pw-change =
     .label = Aldatu pasahitz nagusia…
     .accesskey = d
-# Leave this message empty if the translation for "Primary Password" matches
-# "Master Password" in your language. If you're editing the FTL file directly,
-# use { "" } as the value.
-forms-primary-pw-former-name = ""
 forms-master-pw-fips-desc = Pasahitz aldaketak huts egin du
 
 ## OS Authentication dialog
