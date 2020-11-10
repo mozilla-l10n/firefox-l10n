@@ -13,13 +13,13 @@
 <!ENTITY newMessage.label "Μήνυμα">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "ν">
+<!ENTITY newMessage.accesskey "Μ">
 <!ENTITY newContact.label "Επαφή ευρετηρίου…">
-<!ENTITY newContact.accesskey "φ">
+<!ENTITY newContact.accesskey "Ε">
 <!ENTITY attachMenu.label "Επισύναψη">
 <!ENTITY attachMenu.accesskey "ψ">
 <!ENTITY attachFileCmd.label "Αρχείο(α)…">
-<!ENTITY attachFileCmd.accesskey "ρ">
+<!ENTITY attachFileCmd.accesskey "Α">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">

@@ -6,6 +6,6 @@
 <!ENTITY addButton.label "Προσθήκη">
 <!ENTITY addButton.accesskey "θ">
 <!ENTITY removeButton.label "Αφαίρεση">
-<!ENTITY removeButton.accesskey "μ">
+<!ENTITY removeButton.accesskey "Α">
 <!ENTITY newMsgHeader.label "Νέα κεφαλίδα μηνύματος:">
 <!ENTITY newMsgHeader.accesskey "Ν">
