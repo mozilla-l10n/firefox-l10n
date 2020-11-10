@@ -47,6 +47,7 @@ login-list-count =
 login-list-sort-label-text = តម្រៀបតាម៖
 login-list-name-option = ឈ្មោះ (A-Z)
 login-list-name-reverse-option = ឈ្មោះ (Z-A)
+about-logins-login-list-alerts-option = ការជូនដំណឹង
 login-list-last-changed-option = បាន​កែប្រែ​ចុងក្រោយ
 login-list-last-used-option = បាន​ប្រើប្រាស់​ចុងក្រោយ
 login-list-intro-title = រក​មិន​ឃើញ​ការចូល​ទេ
@@ -58,6 +59,8 @@ login-list-item-subtitle-new-login = បញ្ចូល​ព័ត៌មាន�
 login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ​អ្នក​ប្រើប្រាស់)
 about-logins-list-item-breach-icon =
     .title = គេហទំព័រ​ដែល​បាន​បំពាន
+about-logins-list-item-vulnerable-password-icon =
+    .title = ពាក្យសម្ងាត់ងាយរងគ្រោះ
 
 ## Introduction screen
 
