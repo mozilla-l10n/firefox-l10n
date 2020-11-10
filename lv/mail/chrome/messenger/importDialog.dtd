@@ -1,18 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
-languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
-"&brandShortName;" below.
--->
-
-
-
-
-
 
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
@@ -22,28 +10,42 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+<!ENTITY importDialog.windowTitle "Importēt">
+<!ENTITY importAll.label          "Importēt visu">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "Pasts">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.label        "Plūsmas abonementi">
+<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Adrešu grāmatas">
 <!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Iestatījumi">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "Filtri">
+<!ENTITY importFilters.accesskey  "F">
 
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
+<!ENTITY importTitle.label        "&brandShortName; importēšanas vednis">
+<!ENTITY importShortDesc.label    "Importēt pastu, adrešu grāmatas, iestatījumus un filtrus no citām programmām">
 
+<!ENTITY importDescription1.label "Šis vednis importēs vēstules, adrešu grāmatas ierakstus, plūsmas abonementus, iestatījumus un/vai filtrus no citām pasta programmām un parastajiem adrešu grāmatas formātiem uz &brandShortName;.">
+<!ENTITY importDescription2.label "Kad tie būs importēti, varēsit tiem piekļūt ar &brandShortName;.">
 
+<!ENTITY selectDescription.label  "Lūdzu, atlasiet faila veidu, kuru vēlaties importēt:">
+<!ENTITY selectDescriptionB.label "Lūdzu, izvēlieties esošu kontu vai izveidojiet jaunu kontu:">
+<!ENTITY selectDescription.accesskey "P">
+<!ENTITY acctName.label           "Nosaukums:">
+<!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Netika atrasta neviena lietotne vai fails, no kā importēt datus.">
 
+<!ENTITY back.label               "&lt; Atpakaļ">
+<!ENTITY forward.label            "Tālāk &gt;">
+<!ENTITY finish.label             "Pabeigt">
+<!ENTITY cancel.label             "Atcelt">
 
+<!ENTITY select.label             "vai atlasiet importējamā materiāla veidu:">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY title.label              "Virsraksts">
+<!ENTITY processing.label         "Importē…">
