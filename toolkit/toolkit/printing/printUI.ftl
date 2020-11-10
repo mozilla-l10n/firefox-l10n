@@ -43,6 +43,9 @@ printui-scale = Skalěrowanje
 printui-scale-fit-to-page-width = Šyrokosći boka pśiměriś
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalěrowaś
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Śišćanje na woběma bokoma
+printui-duplex-checkbox = Na woběma bokoma šišćaś
 # Section title for miscellaneous print options
 printui-options = Nastajenja
 printui-headers-footers-checkbox = Głowy a nogi śišćaś
