@@ -41,9 +41,25 @@ about-processes-gmp-plugin-process-name = Moĩmbaha Gecko rehegua (rapereko { $p
 about-processes-gpu-process-name = GPU (tapereko { $pid })
 about-processes-vr-process-name = VR (rapereko { $pid })
 about-processes-rdd-process-name = Mba’ekuaarã mbopapapy’oha (rapereko { $pid })
+about-processes-socket-process-name = Ñanduti (rapereko { $pid })
+about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (rapereko { $pid })
+about-processes-fork-server-process-name = Fork Server (rapereko { $pid })
+about-processes-preallocated-process-name = Ñeme’ẽmby (rapereko { $pid })
+about-processes-unknown-process-name = Ambue ({ $type }, rapereko { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Tapereko { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Inimbo ({ $number })
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
