@@ -232,6 +232,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bideoa beste leiho batean eginbideko ikon
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Babesak laburrean
+cfr-whatsnew-protections-cta-link = Ikusi babesen panela
 cfr-whatsnew-protections-icon-alt = Babesaren ikonoa
 
 ## Better PDF message
@@ -241,6 +242,8 @@ cfr-whatsnew-better-pdf-body = PDF dokumentuak orain zuzenean { -brand-short-nam
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Zure pribatutasuna garrantzitsua da. Nabigazioa babesteko, { -brand-short-name }(e)k ahal duen neurrian zure DNS eskaerak bazkide baten zerbitzutik bideratzen ditu modu seguruan.
+cfr-doorhanger-doh-header = DNS-bilaketa zifratu eta seguruagoak
 cfr-doorhanger-doh-primary-button = Ados, ulertuta
     .accesskey = A
 cfr-doorhanger-doh-secondary-button = Desgaitu
@@ -248,6 +251,8 @@ cfr-doorhanger-doh-secondary-button = Desgaitu
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Zure pribatutasuna garrantzitsua da. { -brand-short-name }(e)k webguneak bata bestearengandik isolatzen ditu eta horrela zailagoa da pasahitzak, kreditu-txartel zenbakiak eta bestelako kontuzko informazioa ostea.
+cfr-doorhanger-fission-header = Guneen isolazioa
 cfr-doorhanger-fission-primary-button = Ados, ulertuta
     .accesskey = A
 cfr-doorhanger-fission-secondary-button = Argibide gehiago
@@ -255,6 +260,7 @@ cfr-doorhanger-fission-secondary-button = Argibide gehiago
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Jarraipen-taktika maltzurretatik babes automatikoa
 
 ## What's new: Media controls message
 
