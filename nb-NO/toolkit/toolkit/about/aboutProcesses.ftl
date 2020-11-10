@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Prosessbehandler
+# The Actions column
+about-processes-column-action =
+    .title = Handlinger
 
 ## Tooltips
 
@@ -20,6 +25,7 @@ about-processes-column-cpu-total = Prosessor
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (prosess { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
