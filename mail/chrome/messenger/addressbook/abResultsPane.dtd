@@ -5,34 +5,34 @@
 <!ENTITY Addrbook.label                        "Ευρετήριο διευθύνσεων">
 <!ENTITY Addrbook.accesskey                    "B">
 <!ENTITY GeneratedName.label                   "Όνομα">
-<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY GeneratedName.accesskey               "ν">
 <!ENTITY PrimaryEmail.label                    "Email">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Οργανισμός">
-<!ENTITY Company.accesskey                     "z">
+<!ENTITY Company.accesskey                     "γ">
 <!ENTITY _PhoneticName.label                   "Φωνητικό όνομα">
-<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY _PhoneticName.accesskey               "ω">
 <!ENTITY NickName.label                        "Ψευδώνυμο">
-<!ENTITY NickName.accesskey                    "i">
+<!ENTITY NickName.accesskey                    "δ">
 <!ENTITY SecondEmail.label                     "Επιπρόσθετο Email">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Τμήμα">
-<!ENTITY Department.accesskey                  "r">
+<!ENTITY Department.accesskey                  "μ">
 <!ENTITY JobTitle.label                        "Τίτλος">
-<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY JobTitle.accesskey                    "Τ">
 <!ENTITY CellularNumber.label                  "Κινητό">
-<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY CellularNumber.accesskey              "Κ">
 <!ENTITY PagerNumber.label                     "Βομβητής">
-<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY PagerNumber.accesskey                 "Β">
 <!ENTITY FaxNumber.label                       "Φαξ">
-<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY FaxNumber.accesskey                   "Φ">
 <!ENTITY HomePhone.label                       "Τηλέφωνο οικίας">
 <!ENTITY HomePhone.accesskey                   "Τ">
-<!ENTITY WorkPhone.label                       "Τηλέφωνο Εργασίας">
-<!ENTITY WorkPhone.accesskey                   "W">
+<!ENTITY WorkPhone.label                       "Τηλέφωνο εργασίας">
+<!ENTITY WorkPhone.accesskey                   "ε">
 <!ENTITY ChatName.label                        "Όνομα συνομιλίας">
-<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY ChatName.accesskey                    "Ό">
 <!ENTITY sortAscending.label                   "Αύξουσα">
-<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortAscending.accesskey               "Α">
 <!ENTITY sortDescending.label                  "Φθίνουσα">
-<!ENTITY sortDescending.accesskey              "D">
+<!ENTITY sortDescending.accesskey              "Φ">
