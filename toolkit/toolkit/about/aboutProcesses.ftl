@@ -42,6 +42,9 @@ about-processes-gpu-process-name = გრაფიკა (პროცესი 
 about-processes-vr-process-name = VR (პროცესი { $pid })
 about-processes-rdd-process-name = გამშიფრავი (პროცესი { $pid })
 about-processes-socket-process-name = ქსელი (პროცესი { $pid })
+about-processes-remote-sandbox-broker-process-name = დაშორებული განცალკევებული გარემოს აგენტი (პროცესი { $pid })
+about-processes-fork-server-process-name = Fork-სერვერი (პროცესი { $pid })
+about-processes-preallocated-process-name = წინასწარ განაწილებული (პროცესი { $pid })
 about-processes-unknown-process-name = სხვა ({ $type }, პროცესი { $pid })
 # Process
 # Variables:
@@ -67,6 +70,15 @@ about-processes-thread-name = ნაკადი { $tid }: { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = ჩანართი: { $name }
 about-processes-preloaded-tab = წინასწარ ჩატვირთული ჩანართი
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = ქვეჩარჩო: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = ქვეჩარჩო ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
