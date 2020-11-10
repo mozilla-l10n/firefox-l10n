@@ -48,7 +48,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Izveidot saiti…">
 <!ENTITY createLinkCmd.accesskey "k">
-<!ENTITY editLinkCmd.label "Rediģēt saiti iekš New Composer">
+<!ENTITY editLinkCmd.label "Rediģēt saiti iekš Jauns salicējs">
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
