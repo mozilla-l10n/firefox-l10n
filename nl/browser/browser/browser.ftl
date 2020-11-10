@@ -303,6 +303,7 @@ identity-https-only-info-turn-off2 = Als de website niet lijkt te werken, dan ku
 identity-https-only-info-no-upgrade = Kan HTTP-verbinding niet upgraden.
 identity-permissions =
     .value = Toestemmingen
+identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-reload-hint = Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.
 identity-permissions-empty = U hebt deze website geen speciale toestemmingen gegeven.
 identity-clear-site-data =

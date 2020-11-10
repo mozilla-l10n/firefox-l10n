@@ -41,6 +41,9 @@ printui-scale = Schaal
 printui-scale-fit-to-page-width = Aan paginabreedte aanpassen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Schaal
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Dubbelzijdig afdrukken
+printui-duplex-checkbox = Op beide zijden afdrukken
 # Section title for miscellaneous print options
 printui-options = Opties
 printui-headers-footers-checkbox = Kop- en voetteksten afdrukken
