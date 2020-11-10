@@ -261,6 +261,11 @@ cfr-doorhanger-fission-secondary-button = Argibide gehiago
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Jarraipen-taktika maltzurretatik babes automatikoa
+cfr-whatsnew-clear-cookies-body = Zenbait jarraipen-elementuk sekretupean cookieak ezartzen dituzten beste webguneetara berbideratzen zaituzte. { -brand-short-name }(e)k automatikoki garbitzen ditu cookie horiek, zure jarraipena egitea saihestuz.
+cfr-whatsnew-clear-cookies-image-alt = Blokeatutako cookiearen ilustrazioa
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Multimedia-kontrol gehiago
+cfr-whatsnew-media-keys-body = Erreproduzitu eta pausatu audioa edo bideoa zure teklatu edo kaskoetatik zuzenean, errazagoa eginez beste fitxa edo programetako multimedia kontrolatzea, zure ordenagailua blokeatuta izanda ere. Pisten artean ere mugi zaitezke atzera eta aurrerako botoiak erabiliz.
+cfr-whatsnew-media-keys-button = Ikasi nola
