@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Mboguatahára rembipuru: Service Worker mopotĩha
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Embojuruja pytyvõha ipyahúva Service Workers peg̃uarã Mopotĩha rupápe. Ko tembiapoite ikatu omombegue umi Tembipuru ñemboguataha ha oipuruve mandu’arenda.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Ta’ãnga: Zoom pichãi mbegue
-experimental-features-graphics-desktop-zooming-description = Embojuruja jokupyty zoom peg̃uarã pichãi mbegue mba’erechaha pokoguávape ha aramboha’i oikoitéva.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Emyandy/embogue WebRTC tuichaháicha
@@ -97,3 +93,4 @@ experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha oj
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Tenda moha’eño)
+experimental-features-fission-description = Fission (tenda momombyry) ha’e tembiapo pyahu { -brand-short-name } pegua ome’ẽkuaáva ape anambusu ñemo’ãrã apañuãi tekorosãgua. Emomombyrývo peteĩteĩva tenda tapereko ipa’ũvape, Fission ombohasy umi ñanduti renda imarãva oikévo marandu ambue kuatiarogue eikeha pegua. Kóva ha’e tekoambue tuicháva { -brand-short-name }-pe ha roaguyjeme’ẽta emombe’úramo oimeraẽva apañuãi ejuhúva rehegua. Eikuaave hag̃ua, eporandu <a data-l10n-name="wiki">el wiki</a>-pe.
