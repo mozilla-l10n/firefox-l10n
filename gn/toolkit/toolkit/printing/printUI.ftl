@@ -41,6 +41,9 @@ printui-scale = Jupiha
 printui-scale-fit-to-page-width = Emoĩporã kuatiarogue pekue
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Jupiha
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Mokõivéva tova ñemonguatia
+printui-duplex-checkbox = Mokõive gotyo monguatia
 # Section title for miscellaneous print options
 printui-options = Poravorã
 printui-headers-footers-checkbox = Emongutia myakãha ha kuatiarogue guy gotyo
