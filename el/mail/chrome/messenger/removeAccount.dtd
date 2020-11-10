@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialogTitle                  "Διαγραφή Λογαριασμού και Δεδομένων">
-<!ENTITY removeButton.label           "Διαγραφή">
-<!ENTITY removeButton.accesskey       "Δ">
+<!ENTITY removeButton.label           "Αφαίρεση">
+<!ENTITY removeButton.accesskey       "Α">
 <!ENTITY removeAccount.label          "Διαγραφή πληροφοριών λογαριασμού">
 <!ENTITY removeAccount.accesskey      "ι">
 <!ENTITY removeAccount.desc           "Διαγράφει μόνο τις πληροφορίες του &brandShortName; για το λογαριασμό. Δεν επηρεάζει τον ίδιο το λογαριασμό στο διακομιστή.">

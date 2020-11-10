@@ -19,8 +19,8 @@
 <!ENTITY addOtherAccountButton.accesskey "λ">
 <!ENTITY setDefaultButton.label "Ορισμός ως προεπιλεγμένου">
 <!ENTITY setDefaultButton.accesskey "π">
-<!ENTITY removeButton.label "Διαγραφή λογαριασμού">
-<!ENTITY removeButton.accesskey "Δ">
+<!ENTITY removeButton.label "Αφαίρεση λογαριασμού">
+<!ENTITY removeButton.accesskey "Α">
 
 <!ENTITY addonsButton.label "Επεκτάσεις &amp; θέματα">
 
