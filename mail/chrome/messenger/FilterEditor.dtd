@@ -7,8 +7,8 @@
 <!ENTITY filterName.label "Filtra nosaukums:">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Mēstule">
-<!ENTITY notJunk.label "Nemēstule">
+<!ENTITY junk.label "Draza">
+<!ENTITY notJunk.label "Nedraza">
 
 <!ENTITY lowestPriorityCmd.label "Zemākā">
 <!ENTITY lowPriorityCmd.label "Zema">
