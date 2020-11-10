@@ -18,19 +18,19 @@
 
 <!ENTITY contextDesc.label "Εφαρμογή φίλτρου σε:">
 <!ENTITY contextIncomingMail.label "Λήψη νέας αλληλογραφίας">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "Λ">
 <!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "Χ">
 <!ENTITY contextBeforeCls.label "Φιλτράρισμα πριν την ταξινόμηση ανεπιθύμητων">
 <!ENTITY contextAfterCls.label "Φιλτράρισμα μετά την ταξινόμηση ανεπιθύμητων">
 <!ENTITY contextOutgoing.label "Μετά την αποστολή">
-<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextOutgoing.accesskey "Μ">
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
-<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.accesskey "Α">
 <!ENTITY contextPeriodic.accesskey "ε">
 
 <!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
-<!ENTITY filterActionDesc.accesskey "κ">
+<!ENTITY filterActionDesc.accesskey "Ε">
 
 <!ENTITY filterActionOrderWarning.label "Σημείωση: Το φιλτράρισμα ενεργειών θα εκτελεστεί σε διαφορετική σειρά.">
 <!ENTITY filterActionOrder.label "Προβολή σειράς εκτέλεσης">
