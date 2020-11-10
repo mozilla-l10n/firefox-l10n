@@ -41,6 +41,9 @@ printui-scale = ზომის ცვლილება
 printui-scale-fit-to-page-width = გვერდის სიგანეზე მორგება
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = მასშტაბი
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = ორმხრივი ბეჭდვა
+printui-duplex-checkbox = ამობეჭდვა ორივე მხარეს
 # Section title for miscellaneous print options
 printui-options = პარამეტრები
 printui-headers-footers-checkbox = თავსართისა და ბოლოსართის ამობეჭდვა
