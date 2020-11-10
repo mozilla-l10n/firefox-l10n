@@ -2,12 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "ფოსტისა და ჯგუფების ანგარიშის პარამეტრები">
-
 <!ENTITY  accountManagerCloseButton.label "დახურვა">
 
 <!ENTITY accountActionsButton.label "ქმედებები ანგარიშებზე">
@@ -25,7 +22,7 @@
 <!ENTITY removeButton.label "ანგარიშის მოცილება">
 <!ENTITY removeButton.accesskey "მ">
 
-<!-- AccountManager.xul -->
+<!ENTITY addonsButton.label "გაფართოებები და თემები">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
