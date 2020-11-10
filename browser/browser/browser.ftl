@@ -305,6 +305,7 @@ identity-https-only-info-turn-off2 = Jeli so zda, zo strona je wobškodźena, ch
 identity-https-only-info-no-upgrade = Zwisk njeda so z HTTP aktualizować.
 identity-permissions =
     .value = Prawa
+identity-permissions-storage-access-header = Placki wjacorych sydłow
 identity-permissions-reload-hint = Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.
 identity-permissions-empty = Njejsće tutomu sydłu wosebite prawa přizwolił.
 identity-clear-site-data =

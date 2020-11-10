@@ -43,6 +43,9 @@ printui-scale = Skalowanje
 printui-scale-fit-to-page-width = Šěrokosći strony přiměrić
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalować
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Ćišćenje na woběmaj bokomaj
+printui-duplex-checkbox = Na woběmaj bokomaj šišćeć
 # Section title for miscellaneous print options
 printui-options = Nastajenja
 printui-headers-footers-checkbox = Hłowy a nohi ćišćeć
