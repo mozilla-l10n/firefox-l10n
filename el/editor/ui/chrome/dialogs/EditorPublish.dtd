@@ -36,7 +36,7 @@
 <!ENTITY filename.accesskey           "χ">
 <!ENTITY filename.tooltip             "Εισάγετε ένα όνομα για αυτό το αρχείο συμπεριλαμβάνοντας και το  '.html'  για την ιστοσελίδα">
 <!ENTITY filenameExample.label        "π.χ.: &quot;ησελίδαμου.html&quot;">
-<!ENTITY setDefaultButton.label       "Ορισμός ως προεπιλεγμένου">
+<!ENTITY setDefaultButton.label       "Ορισμός ως προεπιλογή">
 <!ENTITY setDefaultButton.accesskey   "π">
 <!ENTITY removeButton.label           "Αφαίρεση ιστοσελίδας">
 <!ENTITY removeButton.accesskey       "μ">
