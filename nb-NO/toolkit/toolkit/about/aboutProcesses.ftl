@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Stopp faner og avslutt prosessen
 about-processes-shutdown-tab =
     .title = Lukk fane
 
@@ -26,6 +28,20 @@ about-processes-column-cpu-total = Prosessor
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (prosess { $pid })
+about-processes-web-process-name = Nett (prosess { $pid }, delt)
+about-processes-web-isolated-process-name = Nett (prosess { $pid }, for { $origin })
+about-processes-web-large-allocation = Nett (prosess { $pid }, stor, for { $origin })
+about-processes-with-coop-coep-process-name = Nett (prosess { $pid }, kryss-opprinnelse isolert) for { $origin }
+about-processes-file-process-name = Filer (prosess { $pid })
+about-processes-extension-process-name = Utvidelser (prosess { $pid })
+about-processes-privilegedabout-process-name = Om (prosess { $pid })
+about-processes-plugin-process-name = Programtillegg (prosess { $pid })
+about-processes-privilegedmozilla-process-name = Nett (prosess { $pid }) for { -vendor-short-name }-nettsteder
+about-processes-gmp-plugin-process-name = Gecko Media-programtillegg (process { $pid })
+about-processes-gpu-process-name = GPU (prosess { $pid })
+about-processes-vr-process-name = VR (prosess { $pid })
+about-processes-rdd-process-name = Datadekoder (prosess { $pid })
+about-processes-socket-process-name = Nettverk (prosess { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
