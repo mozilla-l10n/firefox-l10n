@@ -41,6 +41,9 @@ printui-scale = Κλίμακα
 printui-scale-fit-to-page-width = Προσαρμογή στο πλάτος σελίδας
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Κλίμακα
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Εκτύπωση δύο όψεων
+printui-duplex-checkbox = Εκτύπωση και στις δυο πλευρές
 # Section title for miscellaneous print options
 printui-options = Επιλογές
 printui-headers-footers-checkbox = Εκτύπωση κεφαλίδων και υποσέλιδων
