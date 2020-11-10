@@ -455,6 +455,7 @@ urlbar-result-action-search-in-private = Bilatu leiho pribatuan
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Bilatu { $engine } erabiliz
+urlbar-result-action-sponsored = Babesleak hornituta
 urlbar-result-action-switch-tab = Aldatu fitxara
 urlbar-result-action-visit = Bisitatu
 # Directs a user to press the Tab key to perform a search with the specified

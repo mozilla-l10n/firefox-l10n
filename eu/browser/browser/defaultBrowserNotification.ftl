@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+default-browser-notification-message = <strong>Ezarri { -brand-short-name } nabigatzaile lehenetsi gisa?</strong> Nabigatu azkar, seguru eta modu pribatuan weba darabilzun une orotan.
 default-browser-notification-button =
     .label = Ezarri lehenetsi gisa
     .accesskey = h
