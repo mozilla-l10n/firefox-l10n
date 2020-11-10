@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Αν η σελίδα φαίνεται πρ�
 identity-https-only-info-no-upgrade = Δεν είναι δυνατή η αναβάθμιση της σύνδεσης από HTTP.
 identity-permissions =
     .value = Δικαιώματα
+identity-permissions-storage-access-header = Cookies μεταξύ ιστοσελίδων
 identity-permissions-reload-hint = Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.
 identity-permissions-empty = Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.
 identity-clear-site-data =
