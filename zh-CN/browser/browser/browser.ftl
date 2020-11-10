@@ -293,6 +293,7 @@ identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需�
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
 identity-permissions =
     .value = 权限
+identity-permissions-storage-access-header = 跨网站 Cookie
 identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
 identity-permissions-empty = 您尚未授予此站点任何权限。
 identity-clear-site-data =

@@ -40,6 +40,9 @@ printui-scale = 缩放
 printui-scale-fit-to-page-width = 自适应页面宽度
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 缩放比例
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = 双面打印
+printui-duplex-checkbox = 正反面打印
 # Section title for miscellaneous print options
 printui-options = 选项
 printui-headers-footers-checkbox = 打印页眉和页脚
