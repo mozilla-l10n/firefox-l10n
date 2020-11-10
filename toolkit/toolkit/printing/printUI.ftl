@@ -43,6 +43,9 @@ printui-scale = Merilo
 printui-scale-fit-to-page-width = Prilagodi širini strani
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Merilo
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Obojestransko tiskanje
+printui-duplex-checkbox = Natisni obojestransko
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Natisni glave in noge

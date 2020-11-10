@@ -963,6 +963,7 @@ content-blocking-cryptominers = Kriptorudarje
 content-blocking-fingerprinters = Sledilce prstnih odtisov
 content-blocking-warning-title = Opozorilo!
 content-blocking-and-isolating-etp-warning-description = Zavračanje sledilcev in izolacija piškotkov lahko vplivata na delovanje nekaterih strani. Naložite stran s sledilci, da naložite vso vsebino.
+content-blocking-and-isolating-etp-warning-description-2 = Ta nastavitev lahko povzroči, da nekatera spletna mesta ne delujejo pravilno ali da se vsebina ne prikaže. Če se vam zdi spletno mesto pokvarjeno, lahko za nalaganje vse vsebine izklopite zaščito pred sledenjem.
 content-blocking-warning-learn-how = Naučite se, kako
 content-blocking-reload-description = Za uveljavitev sprememb boste morali znova naložiti zavihke.
 content-blocking-reload-tabs-button =
