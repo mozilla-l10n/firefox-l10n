@@ -305,6 +305,7 @@ identity-https-only-info-turn-off2 = Jolic se zda, až bok jo wobškóźony, co�
 identity-https-only-info-no-upgrade = Zwisk njedajo se z HTTP aktualizěrowaś.
 identity-permissions =
     .value = Pšawa
+identity-permissions-storage-access-header = Cookieje někotarych sedłow
 identity-permissions-reload-hint = Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.
 identity-permissions-empty = Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.
 identity-clear-site-data =
