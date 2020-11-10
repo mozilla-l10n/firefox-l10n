@@ -16,7 +16,7 @@
 <!ENTITY insertMenu.accesskey "ι">
 <!ENTITY insertLinkCmd2.label "Σύνδεσμος…">
 <!ENTITY insertLinkCmd2.accesskey "Σ">
-<!ENTITY insertLinkCmd2.key "Υ">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Άγκυρα…">
 <!ENTITY insertAnchorCmd.accesskey "α">
 <!ENTITY insertImageCmd.label "Εικόνα…">
