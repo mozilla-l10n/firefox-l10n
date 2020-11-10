@@ -294,6 +294,7 @@ identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
 identity-permissions =
     .value = 权限
 identity-permissions-storage-access-header = 跨网站 Cookie
+identity-permissions-storage-access-hint = 当您在此网站上时，以下各方可以使用其跨网站 Cookie 和网站数据。
 identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
 identity-permissions-empty = 您尚未授予此站点任何权限。
 identity-clear-site-data =
