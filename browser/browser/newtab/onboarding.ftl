@@ -44,6 +44,7 @@ onboarding-join-form-signin-label = Dagoeneko baduzu kontua?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Hasi saioa
 onboarding-start-browsing-button-label = Hasi nabigatzen
+onboarding-not-now-button-label = Orain ez
 onboarding-cards-dismiss =
     .title = Baztertu
     .aria-label = Baztertu
@@ -88,12 +89,32 @@ onboarding-benefit-lockwise-text = Kudeatu pasahitzak, babespean eta eramangarri
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Oso ondo, { -brand-short-name } darabilzu
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Orain eskura dezagun zuretzat <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Gehitu hedapena
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Ongi etorri <span data-l10n-name="zap">{ -brand-short-name }</span>(e)ra
+onboarding-multistage-welcome-subtitle = Irabazi-asmorik gabeko erakunde batek babestutako nabigatzaile azkar, seguru eta pribatua.
+onboarding-multistage-welcome-primary-button-label = Hasi konfigurazioa
+onboarding-multistage-welcome-secondary-button-label = Hasi saioa
+onboarding-multistage-welcome-secondary-button-text = Kontua baduzu?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Inportatu zure pasahitzak, <br/>laster-markak eta <span data-l10n-name="zap">gehiago</span>
+onboarding-multistage-import-subtitle = Beste nabigatzaile batetik zatoz? Erraza da dena { -brand-short-name }(e)ra ekartzea.
+onboarding-multistage-import-primary-button-label = Hasi inportatze-prozesua
+onboarding-multistage-import-secondary-button-label = Orain ez
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Hemen zerrendatutako guneak aurkitu dira gailu honetan. { -brand-short-name }(e)k ez du beste nabigatzaile batetik daturik gordetzen edo sinkronizatzen zuk inportatzeko eskatuta ez bada.
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Aukeratu <span data-l10n-name="zap">itxura</span>

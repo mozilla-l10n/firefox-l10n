@@ -29,6 +29,8 @@ search-input-box =
            *[other] Bilatu hobespenetan
         }
 managed-notice = Nabigatzailea zure erakundeak kudeatzen du.
+category-list =
+    .aria-label = Kategoriak
 pane-general-title = Orokorra
 category-general =
     .tooltiptext = { pane-general-title }
@@ -422,6 +424,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Gaitu bideoa beste leiho batean ikusteko kontrolak
     .accesskey = G
 browsing-picture-in-picture-learn-more = Argibide gehiago
+browsing-media-control-learn-more = Argibide gehiago
 browsing-cfr-recommendations =
     .label = Gomendatu hedapenak nabigatu ahala
     .accesskey = G
@@ -558,6 +561,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Aldatu hobespenak bilaketa-motorren bestelako iradokizunetarako
 search-suggestions-cant-show = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
 search-one-click-header = Klik bakarreko bilaketa-motorrak
+search-one-click-header2 = Bilaketa-lasterbideak
 search-one-click-desc = Aukeratu gako-hitz bat idazten hastean helbide- eta bilaketa-barren azpian agertzen diren ordezko bilaketa-motorrak.
 search-choose-engine-column =
     .label = Bilaketa-motorra
@@ -569,6 +573,9 @@ search-restore-default =
 search-remove-engine =
     .label = Kendu
     .accesskey = K
+search-add-engine =
+    .label = Gehitu
+    .accesskey = G
 search-find-more-link = Bilatu bilaketa-motor gehiago
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -760,6 +767,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Erabili pasahitz nagusia
     .accesskey = E
+forms-primary-pw-use =
+    .label = Erabili pasahitz nagusia
+    .accesskey = n
+forms-primary-pw-learn-more-link = Argibide gehiago
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -767,6 +778,13 @@ forms-master-pw-change =
     .label = Aldatu pasahitz nagusia…
     .accesskey = A
 forms-master-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz nagusia ezartzea eskatzen du.
+forms-primary-pw-change =
+    .label = Aldatu pasahitz nagusia…
+    .accesskey = d
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = ""
 forms-master-pw-fips-desc = Pasahitz aldaketak huts egin du
 
 ## OS Authentication dialog
