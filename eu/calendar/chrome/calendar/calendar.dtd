@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Sortu gertaera berria" >
 <!ENTITY calendar.newtask.button.tooltip          "Sortu zeregin berria" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Zereginak" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Erakutsi osatutako zereginak">
 
 <!ENTITY calendar.today.button.label          "Gaur">
@@ -277,7 +275,7 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Ezabatu egutegia…">
 <!ENTITY calendar.context.removeserver.accesskey       "z">
-<!ENTITY calendar.context.unsubscribeserver.label      "Egutegi harpidetza ezabatu…">
+<!ENTITY calendar.context.unsubscribeserver.label      "Ezabatu egutegi harpidetza…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "e">
 <!ENTITY calendar.context.synccalendars.label          "Sinkronizatu egutegiak">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Kolorea:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Egutegi Zerbitzaria (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formatua:">
 <!ENTITY calendarproperties.location.label                 "Kokapena:">
 <!ENTITY calendarproperties.refreshInterval.label          "Berritu egutegia:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Irakurketa soilekoa">
 <!ENTITY calendarproperties.firealarms.label               "Erakutsi gogorarazleak">
 <!ENTITY calendarproperties.cache3.label                   "Lineaz kanpoko laguntza">
-<!ENTITY calendarproperties.enabled.label                  "Aldatu egutegi hau:">
 <!ENTITY calendarproperties.enabled2.label                 "Gaitu egutegi hau">
 <!ENTITY calendarproperties.forceDisabled.label            "Egutegi honen hornitzailea ezin da aurkitu. Gehigarri jakin batzuk ezgaitu edo desinstalatu dituzulako izan daiteke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Eten harpidetza">
