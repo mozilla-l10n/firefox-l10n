@@ -306,6 +306,7 @@ identity-https-only-info-no-upgrade = Zwisk njeda so z HTTP aktualizować.
 identity-permissions =
     .value = Prawa
 identity-permissions-storage-access-header = Placki wjacorych sydłow
+identity-permissions-storage-access-hint = Tući wobdźěleni móža placki a sydłowe daty wjacorych sydłow wužiwać, mjeztym zo sće na tutym sydle.
 identity-permissions-reload-hint = Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.
 identity-permissions-empty = Njejsće tutomu sydłu wosebite prawa přizwolił.
 identity-clear-site-data =
