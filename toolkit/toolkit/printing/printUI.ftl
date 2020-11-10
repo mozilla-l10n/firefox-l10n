@@ -41,6 +41,9 @@ printui-scale = Skalering
 printui-scale-fit-to-page-width = Tilpass til sidebredden
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalering
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Tosidig utskrift
+printui-duplex-checkbox = Skriv ut på begge sider
 # Section title for miscellaneous print options
 printui-options = Innstillinger
 printui-headers-footers-checkbox = Skriv ut topptekst og bunntekst
