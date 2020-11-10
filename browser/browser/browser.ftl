@@ -302,6 +302,7 @@ identity-https-only-info-no-upgrade = Δεν είναι δυνατή η αναβ
 identity-permissions =
     .value = Δικαιώματα
 identity-permissions-storage-access-header = Cookies μεταξύ ιστοσελίδων
+identity-permissions-storage-access-hint = Αυτά τα μέρη μπορούν να χρησιμοποιήσουν cookies μεταξύ ιστοσελίδων και δεδομένα ιστότοπων όσο βρίσκεστε σε αυτή την ιστοσελίδα.
 identity-permissions-reload-hint = Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.
 identity-permissions-empty = Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.
 identity-clear-site-data =
