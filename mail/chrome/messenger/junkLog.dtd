@@ -3,3 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY adaptiveJunkLog.title "Pielāgojams mēstuļu žurnāls">
+<!ENTITY adaptiveJunkLogInfo.label "Žurnalēt pielāgojamo mēstuļu kontroles darbības.">
+<!ENTITY clearLog.label "Notīrīt žurnālu">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY closeLog.label "Aizvērt">
+<!ENTITY closeLog.accesskey "o">
