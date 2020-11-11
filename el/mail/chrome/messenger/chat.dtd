@@ -21,13 +21,13 @@
 <!ENTITY chat.ongoingConversation      "Συνομιλία σε εξέλιξη">
 
 <!ENTITY openConversationCmd.label     "Έναρξη συνομιλίας">
-<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY openConversationCmd.accesskey "σ">
 <!ENTITY closeConversationCmd.label    "Κλείσιμο συνομιλίας">
-<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY closeConversationCmd.accesskey "Κ">
 <!ENTITY aliasCmd.label                "Μετονομασία">
-<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY aliasCmd.accesskey            "Μ">
 <!ENTITY deleteCmd.label               "Αφαίρεση επαφής">
-<!ENTITY deleteCmd.accesskey           "v">
+<!ENTITY deleteCmd.accesskey           "φ">
 
 <!ENTITY openConversationButton.tooltip  "Έναρξη συνομιλίας">
 <!ENTITY closeConversationButton.tooltip "Κλείσιμο συνομιλίας">
@@ -41,4 +41,4 @@
 <!ENTITY status.offline            "Εκτός σύνδεσης">
 
 <!ENTITY openLinkCmd.label            "Άνοιγμα συνδέσμου…">
-<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmd.accesskey        "Ά">

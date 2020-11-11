@@ -34,7 +34,7 @@
 -->
 <!ENTITY fullnameExample.label "(για παράδειγμα, &quot;John Smith&quot;).">
 <!ENTITY fullnameLabel.label "Το όνομά σας:">
-<!ENTITY fullnameLabel.accesskey "T">
+<!ENTITY fullnameLabel.accesskey "Τ">
 
 <!ENTITY emailLabel.label "Διεύθυνση email:">
 <!ENTITY emailLabel.accesskey "θ">

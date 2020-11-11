@@ -161,7 +161,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Ευρετήριο διευθύνσεων">
-<!ENTITY Addrbook.accesskey                             "β">
+<!ENTITY Addrbook.accesskey                             "ρ">
 <!ENTITY GeneratedName.label                            "Όνομα">
 <!ENTITY GeneratedName.accesskey                        "ν">
 <!ENTITY PrimaryEmail.label                             "Email">

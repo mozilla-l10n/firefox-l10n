@@ -75,8 +75,6 @@
 <!ENTITY manual-config.accesskey         "Χ">
 <!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης email…">
 <!ENTITY open-provisioner.accesskey      "α">
-
-
 <!ENTITY get-help.label                  "Λήψη βοήθειας">
 <!ENTITY get-help.accesskey              "β">
 
@@ -89,7 +87,7 @@
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Κατανοώ τους κινδύνους.">
-<!ENTITY confirmWarning.accesskey        "λ">
+<!ENTITY confirmWarning.accesskey        "κ">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
