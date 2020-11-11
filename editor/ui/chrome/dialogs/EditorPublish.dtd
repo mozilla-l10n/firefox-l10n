@@ -39,7 +39,7 @@
 <!ENTITY setDefaultButton.label       "Ορισμός ως προεπιλογή">
 <!ENTITY setDefaultButton.accesskey   "π">
 <!ENTITY removeButton.label           "Αφαίρεση ιστοσελίδας">
-<!ENTITY removeButton.accesskey       "μ">
+<!ENTITY removeButton.accesskey       "Α">
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Ιστοδιευθύνσεις δημοσίευσης">

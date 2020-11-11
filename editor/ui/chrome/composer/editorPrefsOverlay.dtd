@@ -5,9 +5,8 @@
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "Συντάκτης">
-<!ENTITY editorCheck.accesskey "c">
+<!ENTITY editorCheck.accesskey "Σ">
 
 <!ENTITY compose.label "Συντάκτης">
 <!ENTITY editing.label "Ρυθμίσεις νέας σελίδας">
-<!ENTITY toolbars.label "Γραμμές εργαλείων">
 <!ENTITY publish.label "Δημοσίευση">
