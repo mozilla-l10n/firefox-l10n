@@ -42,6 +42,9 @@ printui-scale = Skalowanie
 printui-scale-fit-to-page-width = Dopasuj do szerokości strony
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Druk dwustronny
+printui-duplex-checkbox = Drukuj na obu stronach
 # Section title for miscellaneous print options
 printui-options = Opcje
 printui-headers-footers-checkbox = Drukuj nagłówki i stopki
