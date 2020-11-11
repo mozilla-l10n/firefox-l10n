@@ -34,7 +34,7 @@
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label                "Ειδοποίηση συμμετεχόντων">
-<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notify.accesskey            "π">
 <!ENTITY event.attendees.notifyundisclosed.label     "Χωριστή πρόσκληση ανά συμμετέχοντα">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "Χ">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Αυτή η επιλογή αποστέλλει μία πρόσκληση με ηλεκτρονικό ταχυδρομείο ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε οι ταυτότητες των άλλων συμμετεχόντων να μην αποκαλύπτονται.">
@@ -101,7 +101,7 @@
 <!ENTITY  event.menu.edit.undo.label                      "Αναίρεση">
 <!ENTITY  event.menu.edit.undo.accesskey                  "ρ">
 <!ENTITY  event.menu.edit.redo.label                      "Επανάληψη">
-<!ENTITY  event.menu.edit.redo.accesskey                  "R">
+<!ENTITY  event.menu.edit.redo.accesskey                  "Ε">
 <!ENTITY  event.menu.edit.cut.label                       "Αποκοπή">
 <!ENTITY  event.menu.edit.cut.accesskey                   "κ">
 <!ENTITY  event.menu.edit.copy.label                      "Αντιγραφή">
@@ -155,10 +155,10 @@
 
 <!ENTITY event.invite.attendees.label                     "Πρόσκληση συμμετεχόντων…">
 <!ENTITY event.invite.attendees.accesskey                 "σ">
-<!ENTITY event.email.attendees.label                      "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς όλους τους συμμετέχοντες…">
-<!ENTITY event.email.attendees.accesskey                  "A">
-<!ENTITY event.email.tentative.attendees.label            "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου προς τους αναποφάσιστους συμμετέχοντες…">
-<!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.email.attendees.label                      "Σύνταξη email προς κάθε συμμετέχοντα…">
+<!ENTITY event.email.attendees.accesskey                  "χ">
+<!ENTITY event.email.tentative.attendees.label            "Σύνταξη email προς τους αναποφάσιστους συμμετέχοντες…">
+<!ENTITY event.email.tentative.attendees.accesskey        "φ">
 <!ENTITY event.remove.attendees.label2                    "Αφαίρεση όλων των συμμετεχόντων">
 <!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "Αφαίρεση συμμετέχοντα">
@@ -230,17 +230,17 @@
 <!ENTITY event.attachments.label                          "Συνημμένα:" >
 <!ENTITY event.attachments.accesskey                      "Σ" >
 <!ENTITY event.attachments.menubutton.label               "Επισύναψη">
-<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.menubutton.accesskey           "Ε">
 <!ENTITY event.attachments.url.label                      "Ιστοσελίδα…">
-<!ENTITY event.attachments.url.accesskey                  "W">
+<!ENTITY event.attachments.url.accesskey                  "Ι">
 <!ENTITY event.attachments.popup.remove.label             "Αφαίρεση" >
-<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.remove.accesskey         "Α" >
 <!ENTITY event.attachments.popup.open.label               "Άνοιγμα" >
-<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.open.accesskey           "Ά" >
 <!ENTITY event.attachments.popup.removeAll.label          "Αφαίρεση όλων" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "Α" >
 <!ENTITY event.attachments.popup.attachPage.label         "Επισύναψη ιστοσελίδας…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "δ" >
 <!ENTITY event.url.label                                  "Σχετικός σύνδεσμος:" >
 <!ENTITY event.priority2.label                            "Προτεραιότητα:">
 
