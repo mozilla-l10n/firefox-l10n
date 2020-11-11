@@ -109,7 +109,7 @@
 <!ENTITY  event.menu.edit.paste.label                     "Επικόλληση">
 <!ENTITY  event.menu.edit.paste.accesskey                 "λ">
 <!ENTITY  event.menu.edit.select.all.label                "Επιλογή όλων">
-<!ENTITY  event.menu.edit.select.all.accesskey            "A">
+<!ENTITY  event.menu.edit.select.all.accesskey            "λ">
 
 <!ENTITY  event.menu.view.label                           "Προβολή">
 <!ENTITY  event.menu.view.accesskey                       "Π">
@@ -162,7 +162,7 @@
 <!ENTITY event.remove.attendees.label2                    "Αφαίρεση όλων των συμμετεχόντων">
 <!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "Αφαίρεση συμμετέχοντα">
-<!ENTITY event.remove.attendee.accesskey                  "e">
+<!ENTITY event.remove.attendee.accesskey                  "μ">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "Αποθήκευση">
