@@ -149,8 +149,8 @@
 <!ENTITY calendar.task.priority.button.tooltip  "Αλλαγή της προτεραιότητας">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Φιλτράρισμα εργασιών #1">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+Φ&gt;">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;Φ&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Άνοιγμα">
