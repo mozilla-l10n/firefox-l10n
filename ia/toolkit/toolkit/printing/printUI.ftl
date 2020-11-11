@@ -41,6 +41,9 @@ printui-scale = Scala
 printui-scale-fit-to-page-width = Adaptar al largor del pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scala
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Impression recto e verso
+printui-duplex-checkbox = Imprimer sur recto e verso
 # Section title for miscellaneous print options
 printui-options = Optiones
 printui-headers-footers-checkbox = Imprimer capites e pedes de pagina
