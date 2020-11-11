@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Επικόλληση χωρίς μορφοποίηση">
 <!ENTITY pasteNoFormatting.accesskey "κ">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Επικόλληση ως">
-<!ENTITY pasteAs.accesskey "ω">
 <!ENTITY pasteAsQuotationCmd.label "Επικόλληση ως παράθεση">
 <!ENTITY pasteAsQuotationCmd.accesskey "ρ">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -29,7 +27,7 @@
 <!ENTITY insertMenu.accesskey "ι">
 <!ENTITY insertLinkCmd2.label "Σύνδεσμος…">
 <!ENTITY insertLinkCmd2.accesskey "Σ">
-<!ENTITY insertLinkCmd2.key "Υ">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Άγκυρα…">
 <!ENTITY insertAnchorCmd.accesskey "α">
 <!ENTITY insertImageCmd.label "Εικόνα…">
@@ -75,12 +73,12 @@
 <!ENTITY FontSizeSelect.tooltip "Επιλογή μεγέθους γραμματοσειράς">
 <!ENTITY decreaseFontSize.label "Μικρότερα">
 <!ENTITY decreaseFontSize.accesskey "ρ">
-<!ENTITY decrementFontSize.key "-">
-<!ENTITY decrementFontSize.key2 "_"> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Μεγαλύτερα">
 <!ENTITY increaseFontSize.accesskey "γ">
-<!ENTITY incrementFontSize.key "+">
-<!ENTITY incrementFontSize.key2 "=."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Μέγεθος">
 <!ENTITY fontSizeMenu.accesskey "θ">
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Αποκοπή">
 <!ENTITY copyToolbarCmd.tooltip "Αντιγραφή">
 <!ENTITY pasteToolbarCmd.tooltip "Επικόλληση">
-<!ENTITY printToolbarCmd.label "Εκτύπωση">
-<!ENTITY printToolbarCmd.tooltip "Εκτύπωση αυτής της σελίδας">
 <!ENTITY findToolbarCmd.label "Εύρεση">
 <!ENTITY findToolbarCmd.tooltip "Εύρεση κειμένου στη σελίδα">
 <!ENTITY spellToolbarCmd.label "Ορθογραφικός έλεγχος">
@@ -313,7 +309,6 @@
 <!ENTITY colorButtons.title "Χρώματα">
 <!ENTITY TextColorButton.tooltip "Επιλογή χρώματος κειμένου">
 <!ENTITY BackgroundColorButton.tooltip "Επιλογή χρώματος παρασκηνίου">
-<!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα της &vendorShortName;">
 <!ENTITY HighlightColorButton.label "Επισήμαναση">
 <!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 
