@@ -35,7 +35,7 @@
 <!ENTITY community.middle2          ", μία ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
-<!ENTITY community.end3             " που συνεργάζεται για να κρατήσει το διαδίκτυο ανοικτό, ελεύθερο και προσβάσιμο σε όλους.">
+<!ENTITY community.end3             " που συνεργάζεται για να διατηρήσει το διαδίκτυο ανοικτό, δημόσιο και προσβάσιμο σε όλους.">
 
 <!ENTITY helpus.start               "Θέλετε να βοηθήσετε; ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
