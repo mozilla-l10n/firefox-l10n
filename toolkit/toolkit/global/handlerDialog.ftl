@@ -62,8 +62,8 @@ chooser-dialog-remember-extra =
     }
 choose-other-app-description = Επιλέξτε άλλη εφαρμογή
 choose-app-btn =
-    .label = Επιλογή...
-    .accessKey = λ
+    .label = Επιλογή…
+    .accessKey = Ε
 choose-other-app-window-title = Άλλη εφαρμογή...
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Ανενεργό σε ιδιωτικά παράθυρα

@@ -13,7 +13,7 @@ change-device-password-window =
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Συσκευή ασφάλειας: { $tokenName }
-change-password-old = Παλαιός κωδικός
+change-password-old = Τρέχων κωδικός πρόσβασης:
 change-password-new = Εισάγετε ένα νέο κωδικό
 change-password-reenter = Εισάγετε τον κωδικό ξανά
 

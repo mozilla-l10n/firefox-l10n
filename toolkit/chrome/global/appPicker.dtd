@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY NoAppFound.label      "Δεν βρέθηκαν εφαρμογές για αυτό τον τύπο αρχείου.">
-<!ENTITY BrowseButton.label    "Εξερεύνηση...">
+<!ENTITY BrowseButton.label    "Περιήγηση…">
 <!ENTITY SendMsg.label         "Αποστολή αυτού του αντικειμένου σε:">
