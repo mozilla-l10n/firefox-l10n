@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Si la page ne semble pas fonctionnelle, vou
 identity-https-only-info-no-upgrade = Impossible de sécuriser la connexion.
 identity-permissions =
     .value = Permissions
+identity-permissions-storage-access-header = Cookies intersites
 identity-permissions-reload-hint = Vous devrez peut-être actualiser la page pour que les changements prennent effet.
 identity-permissions-empty = Vous n’avez pas accordé de permission particulière à ce site.
 identity-clear-site-data =
