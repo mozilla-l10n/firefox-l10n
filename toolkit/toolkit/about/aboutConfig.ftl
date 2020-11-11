@@ -15,14 +15,11 @@ config-about-warning-button =
     .label = Δέχομαι το ρίσκο!
 config-about-warning-checkbox =
     .label = Εμφάνιση της προειδοποίησης και την επόμενη φορά
-
 config-search-prefs =
     .value = Αναζήτηση:
     .accesskey = ζ
-
 config-focus-search =
     .key = r
-
 config-focus-search-2 =
     .key = f
 
@@ -33,7 +30,7 @@ config-pref-column =
 config-lock-column =
     .label = Κατάσταση
 config-type-column =
-    .label = Είδος
+    .label = Τύπος
 config-value-column =
     .label = Τιμή
 
@@ -50,60 +47,45 @@ config-copy-pref =
     .key = C
     .label = Αντιγραφή
     .accesskey = γ
-
 config-copy-name =
     .label = Αντιγραφή ονόματος
     .accesskey = ν
-
 config-copy-value =
     .label = Αντιγραφή τιμής
     .accesskey = τ
-
 config-modify =
     .label = Τροποποίηση
     .accesskey = ρ
-
 config-toggle =
     .label = (Απ)ενεργοποίηση
     .accesskey = Ε
-
 config-reset =
     .label = Επαναφορά
     .accesskey = π
-
 config-new =
     .label = Νέο
     .accesskey = Ν
-
 config-string =
     .label = Αλφαριθμητικό
     .accesskey = λ
-
 config-integer =
     .label = Ακέραιος
     .accesskey = ρ
-
 config-boolean =
     .label = Δυαδικός
     .accesskey = κ
-
 config-default = προεπιλογή
 config-modified = τροποποιημένο
 config-locked = κλειδωμένο
-
 config-property-string = αλφαριθμητικό
 config-property-int = ακέραιος
 config-property-bool = δυαδικός
-
 config-new-prompt = Εισαγωγή του ονόματος προτίμησης
-
 config-nan-title = Μη έγκυρη τιμή
 config-nan-text = Το κείμενο που εισάγατε δεν είναι αριθμός.
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Νέα { $type } τιμή
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Εισαγωγή { $type } τιμής
