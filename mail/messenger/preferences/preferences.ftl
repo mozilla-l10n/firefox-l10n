@@ -140,14 +140,10 @@ new-message-arrival = Όταν φθάνουν νέα μηνύματα:
 mail-play-sound-label =
     .label =
         { PLATFORM() ->
-            [macos] Αναπαραγωγή του ακόλουθου αρχείου ήχου:
+            [macos] Αναπαραγωγή του εξής αρχείου ήχου:
            *[other] Αναπαραγωγή ήχου
         }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] δ
-           *[other] π
-        }
+    .accesskey = χ
 mail-play-button =
     .label = Αναπαραγωγή
     .accesskey = π
