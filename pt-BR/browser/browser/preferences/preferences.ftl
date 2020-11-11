@@ -1136,7 +1136,7 @@ space-alert-under-5gb-message = { -brand-short-name } está ficando sem espaço 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo somente HTTPS
-httpsonly-description = HTTPS fornece uma conexão segura e criptografada entre o { -brand-short-name } e os sites que você visita. A maioria dos sites oferece suporte a HTTPS e, se o modo somente HTTPS estiver ativado, o { -brand-short-name } atualiza todas as conexões para HTTPS.
+httpsonly-description = HTTPS fornece uma conexão criptografada segura entre o { -brand-short-name } e os sites que você visita. A maioria dos sites oferece suporte a HTTPS. Se o modo somente HTTPS estiver ativado, o { -brand-short-name } muda todas as conexões para HTTPS.
 httpsonly-learn-more = Saiba mais
 httpsonly-radio-enabled =
     .label = Ativar o modo somente HTTPS em todas as janelas
