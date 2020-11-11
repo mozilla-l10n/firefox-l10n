@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Πρόβλημα φόρτωσης σελίδας">
-<!ENTITY retry.label "Προσπαθήστε ξανά">
+<!ENTITY retry.label "Δοκιμή ξανά">
 
 <!-- Specific error messages -->
 
