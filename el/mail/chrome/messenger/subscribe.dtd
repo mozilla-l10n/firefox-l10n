@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY subscribeDialog.title        "Συνδρομή">
-<!ENTITY subscribeButton.label        "Συνδρομή">
-<!ENTITY subscribeButton.accesskey    "γ">
+<!ENTITY subscribeButton.label        "Εγγραφή">
+<!ENTITY subscribeButton.accesskey    "Ε">
 <!ENTITY unsubscribeButton.label      "Κατάργηση εγγραφής">
-<!ENTITY unsubscribeButton.accesskey  "χ">
+<!ENTITY unsubscribeButton.accesskey  "Κ">
 <!ENTITY newGroupsTab.label           "Νέες ομάδες">
 <!ENTITY newGroupsTab.accesskey       "ν">
 <!ENTITY refreshButton.label          "Ανανέωση">

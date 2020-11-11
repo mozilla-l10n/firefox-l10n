@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.preface "Kώδικας του: ">
 
 <!ENTITY editMenu.label "Επεξεργασία">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "Ε">
 <!ENTITY fileMenu.label "Αρχείο">
 <!ENTITY fileMenu.accesskey "Α">
 <!ENTITY savePageCmd.label "Αποθήκευση σελίδας ως…">
