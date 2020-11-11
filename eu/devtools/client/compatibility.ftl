@@ -2,13 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Messages used as headers in the main pane
+
 
 ## Message used as labels for the type of issue
 
+
 ## Messages used as labels and titles for buttons in the footer
+
+compatibility-settings-button-label = Ezarpenak
+compatibility-settings-button-title =
+    .title = Ezarpenak
+compatibility-feedback-button-label = Iritzia
+compatibility-feedback-button-title =
+    .title = Iritzia
 
 ## Messages used as headers in settings pane
 
+compatibility-settings-header = Ezarpenak
+
 ##
 
+compatibility-close-settings-button =
+    .title = Itxi ezarpenak
