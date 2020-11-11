@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
@@ -29,7 +27,7 @@
 <!ENTITY signatureFile.label "Επισύναψη υπογραφής από αρχείο (κείμενο, HTML, ή εικόνα):">
 <!ENTITY signatureFile.accesskey "ψ">
 <!ENTITY edit.label "Επεξεργασία…">
-<!ENTITY choose.label "Επιλογή...">
+<!ENTITY choose.label "Επιλογή…">
 <!ENTITY choose.accesskey "λ">
 <!ENTITY editVCard.label "Επεξεργασία κάρτας…">
 <!ENTITY editVCard.accesskey "ξ">
