@@ -10,7 +10,7 @@
 
 <!ENTITY defaultColors.label        "Προεπιλεγμένα χρώματα παραλήπτη (Δεν ορίζονται χρώματα στη σελίδα)">
 <!ENTITY defaultColors.accesskey    "γ">
-<!ENTITY customColors.label         "Χρήση προσαρμοσμένων χρωμάτων">
+<!ENTITY customColors.label         "Χρήση προσαρμοσμένων χρωμάτων:">
 <!ENTITY customColors.accesskey     "σ">
 
 <!ENTITY normalText.label           "Κανονικό κείμενο">
@@ -29,4 +29,3 @@
 <!ENTITY backgroundImage.accesskey  "κ">
 <!ENTITY chooseFile.label           "Επιλογή αρχείου...">
 <!ENTITY chooseFile.accesskey       "λ">
-
