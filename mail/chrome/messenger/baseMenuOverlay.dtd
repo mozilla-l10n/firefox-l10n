@@ -16,7 +16,7 @@
 <!ENTITY helpSafeMode.label     "Επανεκκίνηση με ανενεργά πρόσθετα…">
 <!ENTITY helpSafeMode.accesskey "π">
 <!ENTITY helpSafeMode.stop.label     "Επανεκκίνηση με ανενεργά πρόσθετα">
-<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY helpSafeMode.stop.accesskey "Ε">
 <!ENTITY productHelp.label "Βοήθεια &brandShortName;">
 <!ENTITY productHelp.accesskey "Β">
 <!ENTITY productHelp.commandkey "VK_F1">
