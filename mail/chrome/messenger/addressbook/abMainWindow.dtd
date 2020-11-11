@@ -80,7 +80,7 @@
 <!ENTITY layoutMenu.label                               "Διάταξη">
 <!ENTITY layoutMenu.accesskey                           "ξ">
 <!ENTITY showDirectoryPane.label                        "Προβολή καταλόγων">
-<!ENTITY showDirectoryPane.accesskey                    "υ">
+<!ENTITY showDirectoryPane.accesskey                    "Π">
 <!ENTITY showContactPane2.label                         "Προβολή επαφών">
 <!ENTITY showContactPane2.accesskey                     "φ">
 <!ENTITY menu_ShowNameAs.label                          "Εμφάνιση ονόματος ως">

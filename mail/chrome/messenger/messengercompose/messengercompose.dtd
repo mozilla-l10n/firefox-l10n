@@ -303,7 +303,7 @@
 <!ENTITY reorderAttachments.label "Ανακατάταξη συνημμένων…">
 <!ENTITY reorderAttachments.accesskey "ν">
 <!ENTITY removeAllAttachments.label "Αφαίρεση όλων των συνημμένων">
-<!ENTITY removeAllAttachments.accesskey "v">
+<!ENTITY removeAllAttachments.accesskey "ρ">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY selectAll.accesskey "λ">
 <!ENTITY attachFile.label "Επισύναψη αρχείων…">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Addrbook.label                        "Ευρετήριο διευθύνσεων">
-<!ENTITY Addrbook.accesskey                    "B">
+<!ENTITY Addrbook.accesskey                    "Ε">
 <!ENTITY GeneratedName.label                   "Όνομα">
 <!ENTITY GeneratedName.accesskey               "ν">
 <!ENTITY PrimaryEmail.label                    "Email">

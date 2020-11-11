@@ -665,7 +665,7 @@
 <!ENTITY folderContextSendUnsentMessages.label "Αποστολή εκκρεμών μηνυμάτων...">
 <!ENTITY folderContextSendUnsentMessages.accesskey "κ">
 <!ENTITY folderContextUnsubscribe.label "Κατάργηση εγγραφής">
-<!ENTITY folderContextUnsubscribe.accesskey "χ">
+<!ENTITY folderContextUnsubscribe.accesskey "Κ">
 <!ENTITY folderContextMarkNewsgroupRead.label "Επισήμανση ομάδας συζητήσεων ως αναγνωσμένης">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "γ">
 <!ENTITY folderContextMarkMailFolderRead.label "Επισήμανση φακέλου ως αναγνωσμένου">
