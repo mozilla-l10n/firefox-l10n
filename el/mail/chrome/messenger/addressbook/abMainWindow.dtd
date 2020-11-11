@@ -75,7 +75,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "ρ">
 <!ENTITY showTaskbarCmd.label                           "Γραμμή κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey                       "μ">
-<!ENTITY customizeToolbar.label                         "Προσαρμογή...">
+<!ENTITY customizeToolbar.label                         "Προσαρμογή…">
 <!ENTITY customizeToolbar.accesskey                     "ρ">
 <!ENTITY layoutMenu.label                               "Διάταξη">
 <!ENTITY layoutMenu.accesskey                           "ξ">

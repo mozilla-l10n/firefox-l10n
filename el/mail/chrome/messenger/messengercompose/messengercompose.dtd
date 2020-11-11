@@ -133,7 +133,7 @@
 <!ENTITY showFormattingBarCmd.accesskey "φ">
 <!ENTITY showTaskbarCmd.label "Γραμμή κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey "μ">
-<!ENTITY customizeToolbar.label "Προσαρμογή...">
+<!ENTITY customizeToolbar.label "Προσαρμογή…">
 <!ENTITY customizeToolbar.accesskey "μ">
 
 <!ENTITY addressSidebar.label "Πλευρική στήλη επαφών">
