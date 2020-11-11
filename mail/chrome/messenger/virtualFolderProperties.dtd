@@ -11,7 +11,7 @@
 <!ENTITY searchTermCaption.label "Ρύθμιση των κριτηρίων αναζήτησης για αυτόν τον εικονικό φάκελο:">
 
 <!ENTITY folderSelectionCaption.label "Επιλογή φακέλου για αναζήτηση">
-<!ENTITY chooseFoldersButton.label "Επιλογή...">
+<!ENTITY chooseFoldersButton.label "Επιλογή…">
 <!ENTITY chooseFoldersButton.accesskey "ι">
 
 <!ENTITY searchOnline.label "Αναζήτηση Online (Δίνει ενημερωμένα αποτελέσματα για φακέλους IMAP και συζητήσεων αλλά αυξάνει το χρόνο ανοίγματος του φακέλου)">

@@ -324,7 +324,7 @@
 <!ENTITY goBackCmd.label "Πίσω">
 <!ENTITY goBackCmd.accesskey "Π">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Συζήτηση">
+<!ENTITY goChatCmd.label "Συνομιλία">
 <!ENTITY goChatCmd.accesskey "σ">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Μήνυμα με αστέρι">
@@ -387,7 +387,7 @@
 <!ENTITY moveCopyMsgRecentMenu.accesskey "Π">
 <!ENTITY copyMessageLocation.label "Αντιγραφή τοποθεσίας μηνύματος">
 <!ENTITY copyMessageLocation.accesskey "τ">
-<!ENTITY copyMsgToMenu.label "Αντιγραφή ξανά">
+<!ENTITY copyMsgToMenu.label "Αντιγραφή σε">
 <!ENTITY copyMsgToMenu.accesskey "γ">
 <!ENTITY moveToFolderAgain.label "Μετακίνηση ξανά">
 <!ENTITY moveToFolderAgain.accesskey "ξ">

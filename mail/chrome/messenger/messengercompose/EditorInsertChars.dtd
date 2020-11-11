@@ -8,7 +8,7 @@
 <!ENTITY category.label "Κατηγορία">
 <!ENTITY letter.label "Γράμμα:">
 <!ENTITY letter.accessKey "Γ">
-<!ENTITY character.label "Χαρακτήρας">
+<!ENTITY character.label "Χαρακτήρας:">
 <!ENTITY character.accessKey "Χ">
 <!ENTITY accentUpper.label "Τονισμένο κεφαλαίο">
 <!ENTITY accentLower.label "Τονισμένο πεζό">
