@@ -18,9 +18,9 @@
 
 <!ENTITY  whichIs.label              "που είναι:">
 
-<!ENTITY  chooseHandlerMac.label      "Επιλογή...">
+<!ENTITY  chooseHandlerMac.label      "Επιλογή…">
 <!ENTITY  chooseHandlerMac.accesskey  "λ">
-<!ENTITY  chooseHandler.label         "Εξερεύνηση...">
+<!ENTITY  chooseHandler.label         "Περιήγηση…">
 <!ENTITY  chooseHandler.accesskey     "ε">
 
 <!ENTITY  unknownPromptText.label     "Θέλετε να αποθηκεύσετε αυτό το αρχείο;">
