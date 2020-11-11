@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -226,7 +226,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ar wech-mañ, klaskit gant:
 # This string won't wrap, so if the translated string is longer,
@@ -291,6 +291,12 @@ identity-passive-loaded = Arvarus eo lodennoù eus ar bajennad (skeudennoù, da 
 identity-active-loaded = Diweredekaet ho peus ar gwarez war ar bajenn-mañ.
 identity-weak-encryption = Enrinegañ gwan a vez arveret gant ar bajenn-mañ.
 identity-insecure-login-forms = Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.
+identity-https-only-dropdown-on =
+    .label = Enaouet
+identity-https-only-dropdown-off =
+    .label = Lazhet
+identity-https-only-dropdown-off-temporarily =
+    .label = Lazhet e-pad nebeud amzer
 identity-permissions =
     .value = Aotreoù
 identity-permissions-reload-hint = Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.
@@ -335,6 +341,9 @@ browser-window-restore-down-button =
     .tooltiptext = Assav
 browser-window-close-button =
     .tooltiptext = Serriñ
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
