@@ -42,6 +42,7 @@ about-processes-gpu-process-name = GPU (processús { $pid })
 about-processes-vr-process-name = VR (processús { $pid })
 about-processes-rdd-process-name = Descodador de donadas (processús { $pid })
 about-processes-socket-process-name = Ret (processús { $pid })
+about-processes-remote-sandbox-broker-process-name = Agent de nauc de sabla distant (processús { $pid })
 about-processes-preallocated-process-name = Preacordat (processús { $pid })
 about-processes-unknown-process-name = Autre ({ $type }, processús { $pid })
 # Process
