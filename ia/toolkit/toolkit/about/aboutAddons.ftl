@@ -379,6 +379,9 @@ addon-badge-verified =
 addon-badge-line2 =
     .title = Isto es un extension official producite per le autores de { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Iste extension ha essite revidite pro satisfacer nostre standardos de securitate e prestation
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
