@@ -22,7 +22,7 @@
 <!ENTITY searchFilter.label                "Φίλτρο αναζήτησης: ">
 <!ENTITY searchFilter.accesskey            "Φ">
 <!ENTITY scope.label                       "Εμβέλεια: ">
-<!ENTITY scope.accesskey                   "κ">
+<!ENTITY scope.accesskey                   "β">
 <!ENTITY scopeOneLevel.label               "Ένα επίπεδο">
 <!ENTITY scopeOneLevel.accesskey           "π">
 <!ENTITY scopeSubtree.label                "Υποφάκελος">
