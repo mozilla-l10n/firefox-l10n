@@ -45,7 +45,7 @@
 <!ENTITY incomingServerTypeDesc.label "Επιλέξτε τον τύπο του διακομιστή εισερχομένων που χρησιμοποιείτε.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "Ι">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
