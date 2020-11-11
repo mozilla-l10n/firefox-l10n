@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,21 +12,17 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocorreu um erro durante uma conexão com { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código do erro: { $error }
-
 psmerr-ssl-disabled = Não foi possível conectar com segurança porque o protocolo SSL foi desativado.
 psmerr-ssl2-disabled = Não foi possível conectar com segurança porque o site usa uma versão antiga e insegura do protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Você recebeu um certificado inválido. Contate o administrador do servidor e forneça as seguintes informações:
     
     Seu certificado contém o mesmo número de série que o de outro certificado expedido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
-
-ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não suporta criptografia de alto grau.
+ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto grau.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: não há algoritmo(s) de criptografia em comum.
 ssl-error-no-certificate = Não foi possível localizar o certificado ou chave necessários à autenticação.
@@ -86,7 +83,7 @@ ssl-error-handshake-unexpected-alert = O sistema remoto SSL não esperava uma me
 ssl-error-decompression-failure-alert = O sistema remoto SSL não conseguiu descompactar com sucesso um registro SSL recebido.
 ssl-error-handshake-failure-alert = O sistema remoto SSL não conseguiu negociar um conjunto aceitável de parâmetros de segurança.
 ssl-error-illegal-parameter-alert = O sistema remoto SSL rejeitou uma mensagem do processo de handshake devido a conteúdo não aceitável.
-ssl-error-unsupported-cert-alert = O sistema remoto SSL não suporta certificados do tipo que recebeu.
+ssl-error-unsupported-cert-alert = O sistema remoto SSL não oferece suporte a certificados do tipo que recebeu.
 ssl-error-certificate-unknown-alert = O sistema remoto SSL teve um problema não especificado com o certificado que recebeu.
 ssl-error-generate-random-failure = O SSL sofreu uma falha em seu gerador de números aleatórios.
 ssl-error-sign-hashes-failure = Não foi possível assinar digitalmente os dados necessários para verificar seu certificado.
@@ -127,7 +124,7 @@ ssl-error-internal-error-alert = O sistema remoto informa que sofreu um erro int
 ssl-error-user-canceled-alert = O usuário do sistema remoto cancelou o processo de handshake.
 ssl-error-no-renegotiation-alert = O sistema remoto não permite renegociação dos parâmetros de segurança SSL.
 ssl-error-server-cache-not-configured = Cache do servidor SSL não configurado e não desativado para este socket.
-ssl-error-unsupported-extension-alert = O sistema remoto SSL não suporta a extensão solicitada TLS hello.
+ssl-error-unsupported-extension-alert = O sistema remoto SSL não oferece suporte à extensão solicitada TLS hello.
 ssl-error-certificate-unobtainable-alert = O sistema remoto SSL não pôde obter seu certificado pela URL fornecida.
 ssl-error-unrecognized-name-alert = O sistema remoto SSL não possui certificado para o nome de DNS solicitado.
 ssl-error-bad-cert-status-response-alert = O sistema remoto SSL não conseguiu obter uma resposta OCSP para o certificado dele.
@@ -153,7 +150,7 @@ ssl-error-unsupported-hash-algorithm = O servidor TLS usa um algoritmo de hash n
 ssl-error-digest-failure = A função Digest falhou.
 ssl-error-incorrect-signature-algorithm = Algoritmo de assinatura incorreto especificado em um elemento assinado digitalmente.
 ssl-error-next-protocol-no-callback = A extensão Next Protocol Negotiation estava ativada, mas o callback foi removido entre o início da requisição e a resposta do servidor.
-ssl-error-next-protocol-no-protocol = O servidor não suporta nenhum protocolo que o cliente divulga na extensão ALPN.
+ssl-error-next-protocol-no-protocol = O servidor não oferece suporte a nenhum protocolo que o cliente divulga na extensão ALPN.
 ssl-error-inappropriate-fallback-alert = O servidor rejeitou a conexão porque o cliente suporta uma versão TLS mais antiga do que é suportado pelo servidor.
 ssl-error-weak-server-cert-key = O certificado do servidor inclui uma chave pública muito fraca.
 ssl-error-rx-short-dtls-read = Espaço insuficiente em buffer para o registro DTLS.
@@ -201,7 +198,7 @@ sec-error-ca-cert-invalid = O certificado do expedidor é inválido.
 sec-error-path-len-constraint-invalid = A restrição de comprimento do caminho do certificado é inválida.
 sec-error-cert-usages-invalid = O campo usos do certificado é inválido.
 sec-internal-only = **Módulo EXCLUSIVAMENTE interno**
-sec-error-invalid-key = A chave não suporta a operação solicitada.
+sec-error-invalid-key = A chave não oferece suporte à operação solicitada.
 sec-error-unknown-critical-extension = O certificado contém uma extensão obrigatória desconhecida.
 sec-error-old-crl = A nova CRL não é mais recente que a utilizada no momento.
 sec-error-no-email-cert = Não criptografado ou assinado: você ainda não possui um certificado de e-mail.
