@@ -217,7 +217,7 @@ return-receipts-description = Καθορίστε τον τρόπο διαχεί�
 return-receipts-button =
     .label = Αποδεικτικά ανάγνωσης…
     .accesskey = τ
-update-app-legend = Ενημερώσεις { -brand-short-name }
+update-app-legend = Ενημερώσεις του { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Έκδοση { $version }
