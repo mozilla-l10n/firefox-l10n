@@ -780,7 +780,7 @@
 <!ENTITY contextForwardAsMenu.label "Προώθηση ως">
 <!ENTITY contextForwardAsMenu.accesskey "ο">
 <!ENTITY contextForwardAsInline.label "Μέσα στο σώμα">
-<!ENTITY contextForwardAsInline.accesskey "Ω">
+<!ENTITY contextForwardAsInline.accesskey "Μ">
 <!ENTITY contextForwardAsAttachmentItem.label "Συνημμένο">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "Σ">
 <!ENTITY contextMultiForwardAsAttachment.label "Προώθηση ως συνημμένα">

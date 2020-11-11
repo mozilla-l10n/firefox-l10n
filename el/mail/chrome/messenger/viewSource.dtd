@@ -15,7 +15,7 @@
 <!ENTITY editMenu.label "Επεξεργασία">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Αρχείο">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "Α">
 <!ENTITY savePageCmd.label "Αποθήκευση σελίδας ως…">
 <!ENTITY savePageCmd.accesskey "Α">
 <!ENTITY savePageCmd.commandkey "S">
