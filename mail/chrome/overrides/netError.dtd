@@ -174,7 +174,7 @@
 
 <!ENTITY securityOverride.linkText "Ή μπορείτε να προσθέσετε μια εξαίρεση…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Να φύγω από εδώ!">
-<!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης">
+<!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The

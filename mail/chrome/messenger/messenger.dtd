@@ -40,7 +40,7 @@
 <!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Μήνυμα">
 <!ENTITY  newMessageCmd.accesskey "μ">
-<!ENTITY  newContactCmd.label "Επαφή ευρετηρίου διευθύνσεων…">
+<!ENTITY  newContactCmd.label "Επαφή ευρετηρίου…">
 <!ENTITY  newContactCmd.accesskey "Ε">
 <!ENTITY openMenuCmd.label "Άνοιγμα">
 <!ENTITY openMenuCmd.accesskey "Ά">
@@ -208,7 +208,7 @@
 <!ENTITY sortByUnreadCmd.accesskey "γ">
 <!ENTITY sortByOrderReceivedCmd.label "Κατά σειρά παραλαβής">
 <!ENTITY sortByOrderReceivedCmd.accesskey "ε">
-<!ENTITY sortAscending.label "Σε αύξουσα σειρά">
+<!ENTITY sortAscending.label "Αύξουσα">
 <!ENTITY sortAscending.accesskey "ξ">
 <!ENTITY sortDescending.label "Φθίνουσα">
 <!ENTITY sortDescending.accesskey "θ">
@@ -621,7 +621,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Νέο μήνυμα">
-<!ENTITY appmenuNewContactCmd.label "Επαφή βιβλίου διευθύνσεων…">
+<!ENTITY appmenuNewContactCmd.label "Επαφή ευρετηρίου…">
 <!ENTITY appmenuEditMenu.label "Επεξεργασία">
 <!ENTITY appmenuToolbarLayout.label "Διάταξη γραμμής εργαλείων…">
 <!ENTITY appmenuSelectThread.label "Επιλογή νήματος">
@@ -962,7 +962,7 @@
 <!ENTITY showAllAppsCmdMac.label        "Προβολή όλων">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Επιλογές εικονιδίου εφαρμογής..">
+<!ENTITY dockOptions.label              "Επιλογές εικονιδίου εφαρμογής…">
 <!ENTITY writeNewMessageDock.label      "Σύνταξη νέου μηνύματος">
 <!ENTITY openAddressBookDock.label      "Άνοιγμα βιβλίου διευθύνσεων">
 

@@ -16,7 +16,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "Το &brandShortName; είναι πειραματικό και, πιθανώς, ασταθές.">
+<!ENTITY warningDesc.version        "Το &brandShortName; είναι πειραματικό και ενδεχομένως ασταθές.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Στέλνει αυτόματα πληροφορίες σχετικά με επιδόσεις, υλικό, χρήση και προσαρμογές στη &vendorShortName; για τη βελτίωση του &brandShortName;.">
 

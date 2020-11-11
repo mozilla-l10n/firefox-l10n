@@ -24,7 +24,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο του κειμένου">
+<!ENTITY fullZoomToggleCmd.label        "Ζουμ μόνο στο κείμενο">
 <!ENTITY fullZoomToggleCmd.accesskey    "ο">
 <!ENTITY fullZoom.label                 "Ζουμ">
 <!ENTITY fullZoom.accesskey             "Ζ">
