@@ -17,7 +17,7 @@
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
 <!ENTITY importFromNothing.label        "Να μην εισαχθεί τίποτα">
-<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromNothing.accesskey    "Ν">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">

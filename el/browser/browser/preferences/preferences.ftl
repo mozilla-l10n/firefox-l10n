@@ -582,7 +582,7 @@ search-remove-engine =
     .accesskey = Α
 search-add-engine =
     .label = Προσθήκη
-    .accesskey = A
+    .accesskey = Π
 search-find-more-link = Εύρεση περισσότερων μηχανών αναζήτησης
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
