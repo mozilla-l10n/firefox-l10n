@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "Η">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Άνοιγμα">
-<!ENTITY lightning.menupopup.open.accesskey           "α">
-<!ENTITY lightning.menupopup.open.message.label       "Αποθηκευμένο μήνυμα…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "μ">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Αρχείο ημερολογίου…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "η">
 
@@ -96,8 +90,8 @@
 <!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Αλλάξτε την κατάσταση συμμετοχής σας για τη σειρά χωρίς αποστολή απόκρισης στον οργανωτή">
 
 <!-- Lightning specific keybindings -->
-<!ENTITY lightning.keys.event.showCalendar.key "Η">
-<!ENTITY lightning.keys.event.showTasks.key "Ε">
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "Ν">
 <!ENTITY lightning.keys.todo.new "Ρ">
 
