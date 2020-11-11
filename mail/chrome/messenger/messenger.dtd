@@ -210,7 +210,7 @@
 <!ENTITY sortByOrderReceivedCmd.accesskey "ε">
 <!ENTITY sortAscending.label "Σε αύξουσα σειρά">
 <!ENTITY sortAscending.accesskey "ξ">
-<!ENTITY sortDescending.label "σε φθίνουσα σειρά">
+<!ENTITY sortDescending.label "Φθίνουσα">
 <!ENTITY sortDescending.accesskey "θ">
 <!ENTITY sortThreaded.label "Σε νήμα">
 <!ENTITY sortThreaded.accesskey "Σ">
