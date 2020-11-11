@@ -60,12 +60,12 @@
 <!ENTITY FontSizeSelect.tooltip "Επιλογή μεγέθους γραμματοσειράς">
 <!ENTITY decreaseFontSize.label "Μικρότερα">
 <!ENTITY decreaseFontSize.accesskey "ρ">
-<!ENTITY decrementFontSize.key "-">
-<!ENTITY decrementFontSize.key2 "_"> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Μεγαλύτερα">
 <!ENTITY increaseFontSize.accesskey "γ">
-<!ENTITY incrementFontSize.key "+">
-<!ENTITY incrementFontSize.key2 "=."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Μέγεθος">
 <!ENTITY fontSizeMenu.accesskey "θ">

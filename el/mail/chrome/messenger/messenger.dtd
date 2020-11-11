@@ -272,7 +272,7 @@
 <!ENTITY pageSourceCmd.accesskey "κ">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
-<!ENTITY getAllNewMessagesCmd.key "Ε">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Εύρεση">
@@ -284,7 +284,7 @@
 <!ENTITY findAgainCmd.accesskey "ξ">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.key "ο">
+<!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων...">
 <!ENTITY searchMailCmd.accesskey "μ">
@@ -304,7 +304,7 @@
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
 <!ENTITY nextUnreadMsgCmd.accesskey "ν">
-<!ENTITY nextUnreadMsgCmd.key "ο">
+<!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Μήνυμα με αστέρι">
 <!ENTITY nextStarredMsgCmd.accesskey "σ">
 <!ENTITY nextUnreadThread.label "Μη αναγνωσμένο νήμα">
@@ -345,7 +345,7 @@
 <!ENTITY newNewMsgCmd.accesskey "Μ">
 <!ENTITY archiveMsgCmd.label "Αρχειοθέτηση">
 <!ENTITY archiveMsgCmd.accesskey "χ">
-<!ENTITY archiveMsgCmd.key "α">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Ακύρωση μηνύματος">
 <!ENTITY cancelNewsMsgCmd.accesskey "κ">
 <!ENTITY replyMsgCmd.label "Απάντηση">
@@ -944,7 +944,7 @@
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Ελαχιστοποίηση παραθύρου">
-<!ENTITY minimizeWindow.key "λ">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
 <!ENTITY zoomWindow.label "Ζουμ">
 
@@ -954,10 +954,10 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
 <!ENTITY hideThisAppCmdMac.label        "Απόκρυψη &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "Ψ">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
-<!ENTITY hideOtherAppsCmdMac.commandkey "Ψ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Προβολή όλων">
 

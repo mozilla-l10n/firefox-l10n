@@ -118,7 +118,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ταξινόμηση επιλεγμένων: Α - Ω">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ταξινόμηση επιλεγμένων: Ω - Α">
-<!ENTITY sortAttachmentsPanelBtn.key "υ">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Προβολή">
