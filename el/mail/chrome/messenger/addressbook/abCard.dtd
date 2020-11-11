@@ -32,7 +32,7 @@
 <!ENTITY DisplayName.label              "Προβολή:">
 <!ENTITY DisplayName.accesskey          "Π">
 <!ENTITY preferDisplayName.label        "Να προτιμάται πάντα το όνομα εμφάνισης αντί της επικεφαλίδας μηνύματος">
-<!ENTITY preferDisplayName.accesskey    "β">
+<!ENTITY preferDisplayName.accesskey    "φ">
 <!ENTITY NickName.label                 "Ψευδώνυμο:">
 <!ENTITY NickName.accesskey             "Ψ">
 
