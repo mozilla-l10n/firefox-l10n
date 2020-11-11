@@ -5,7 +5,7 @@
 <!ENTITY subscribeDialog.title        "Συνδρομή">
 <!ENTITY subscribeButton.label        "Συνδρομή">
 <!ENTITY subscribeButton.accesskey    "γ">
-<!ENTITY unsubscribeButton.label      "Αποχώρηση συνδρομητή">
+<!ENTITY unsubscribeButton.label      "Κατάργηση εγγραφής">
 <!ENTITY unsubscribeButton.accesskey  "χ">
 <!ENTITY newGroupsTab.label           "Νέες ομάδες">
 <!ENTITY newGroupsTab.accesskey       "ν">
