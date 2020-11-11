@@ -363,7 +363,7 @@
 <!ENTITY calendarproperties.cache3.label                   "Υποστήριξη εκτός σύνδεσης">
 <!ENTITY calendarproperties.enabled2.label                 "Ενεργοποίηση ημερολογίου">
 <!ENTITY calendarproperties.forceDisabled.label            "Η υπηρεσία παροχής για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
-<!ENTITY calendarproperties.unsubscribe.label              "Απεγγραφή">
+<!ENTITY calendarproperties.unsubscribe.label              "Κατάργηση εγγραφής">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "φ">
 
 <!-- Calendar Publish Dialog -->
