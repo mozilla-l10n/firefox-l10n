@@ -5,7 +5,7 @@
 <!ENTITY accountWindow.title           "Ιδιότητες λογαριασμού">
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Γενικά">
-<!ENTITY account.advanced              "Επιλογές για προχωρημένους">
+<!ENTITY account.advanced              "Σύνθετες επιλογές">
 <!ENTITY account.name                  "Όνομα χρήστη:">
 <!ENTITY account.password              "Κωδικός πρόσβασης:">
 <!ENTITY account.alias                 "Ψευδώνυμο:">
