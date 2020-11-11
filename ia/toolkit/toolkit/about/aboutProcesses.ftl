@@ -39,6 +39,11 @@ about-processes-plugin-process-name = Plugins (processo { $pid })
 about-processes-privilegedmozilla-process-name = Web (processo { $pid }) pro sitos { -vendor-short-name }
 about-processes-gmp-plugin-process-name = Plugins multimedial Gecko (processo { $pid })
 about-processes-gpu-process-name = GPU  (processo { $pid })
+about-processes-vr-process-name = VR (processo { $pid })
+about-processes-rdd-process-name = Decodificator de datos (processo { $pid })
+about-processes-socket-process-name = Rete (processo { $pid })
+about-processes-remote-sandbox-broker-process-name = Mediator per alveo a sablo remote (processo { $pid })
+about-processes-fork-server-process-name = Servitor furca (processo { $pid })
 
 ## Details within processes
 
