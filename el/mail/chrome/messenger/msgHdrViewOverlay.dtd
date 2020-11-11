@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "Προς ">
+<!ENTITY toField4.label "Προς">
 <!ENTITY fromField4.label "Από ">
 <!ENTITY senderField4.label "Αποστολέας ">
 <!ENTITY author.label "Συντάκτης">
 <!ENTITY organizationField4.label "Οργανισμός ">
-<!ENTITY replyToField4.label "Απάντηση σε ">
+<!ENTITY replyToField4.label "Απάντηση σε">
 
 <!ENTITY subjectField4.label "Θέμα ">
 <!ENTITY ccField4.label "Κοιν ">
 <!ENTITY bccField4.label "Κρ.κοιν ">
 <!ENTITY newsgroupsField4.label "Ομάδες συζήτησης ">
-<!ENTITY followupToField4.label "Σε συνέχεια του ">
+<!ENTITY followupToField4.label "Σε συνέχεια του">
 <!ENTITY tagsHdr4.label "Ετικέτες ">
 <!ENTITY dateField4.label "Ημερομηνία ">
 <!ENTITY userAgentField4.label "User agent ">
 <!ENTITY referencesField4.label "Παραπομπές ">
 <!ENTITY messageIdField4.label "ID μηνύματος ">
-<!ENTITY inReplyToField4.label "Σε απάντηση του ">
+<!ENTITY inReplyToField4.label "Σε απάντηση στο">
 <!ENTITY originalWebsite4.label "Ιστοσελίδα ">
 
 <!ENTITY hdrArchiveButton1.label "Αρχειοθέτηση">
