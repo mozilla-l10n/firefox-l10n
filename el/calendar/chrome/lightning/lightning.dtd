@@ -53,11 +53,11 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Αποδοχή πρόσκλησης για όλα τα στιγμιότυπα του συμβάντος">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Προσθήκη">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Προσθήκη του συμβάντος στο ημερολόγιο">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Αρνητική απάντηση">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Άρνηση">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Αρνητική απάντηση στην πρόσκληση σε συμβάν">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Αρνητική απάντηση σε όλα">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Αρνητική απάντηση στην πρόσκληση για όλα τα στιγμιότυπα του συμβάντος">
-<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Αρνητική απάντηση">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Άρνηση">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Αρνητική απάντηση στην αντιπρόταση">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Διαγραφή">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Διαγραφή από το ημερολόγιο">
