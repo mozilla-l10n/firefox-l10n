@@ -54,7 +54,7 @@
 <!ENTITY cellStyle.accessKey              "φ">
 <!ENTITY cellNormal.label                 "Κανονικό">
 <!ENTITY cellHeader.label                 "Κεφαλίδα">
-<!ENTITY cellTextWrap.label               "Αναδίπλωση κειμένου">
+<!ENTITY cellTextWrap.label               "Αναδίπλωση κειμένου:">
 <!ENTITY cellTextWrap.accessKey           "δ">
 <!ENTITY cellWrap.label                   "Αναδίπλωση">
 <!ENTITY cellNoWrap.label                 "Χωρίς αναδίπλωση">
