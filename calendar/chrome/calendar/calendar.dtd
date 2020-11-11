@@ -327,7 +327,7 @@
 <!ENTITY calendar.alarm.snoozefor.label             "Αναστολή υπενθύμισης για" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Αναστολή όλων των υπενθυμίσεων για" >
 <!ENTITY calendar.alarm.title.label                 "Υπενθυμίσεις ημερολογίου" >
-<!ENTITY calendar.alarm.dismiss.label               "Οριστικό σταμάτημα υπενθύμισης" >
+<!ENTITY calendar.alarm.dismiss.label               "Απόρριψη" >
 <!ENTITY calendar.alarm.dismissall.label            "Οριστικό σταμάτημα όλων" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 λεπτά" >
