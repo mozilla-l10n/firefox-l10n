@@ -68,6 +68,15 @@ about-processes-thread-name = Fil d’execucion { $tid } : { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Onglet : { $name }
 about-processes-preloaded-tab = Onglet precargat novèl
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Subframe : { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Subframes ({ $number }) : { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
