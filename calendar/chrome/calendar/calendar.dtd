@@ -171,15 +171,15 @@
 <!ENTITY calendar.context.copyevent.accesskey         "γ">
 <!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
 <!ENTITY calendar.context.pasteevent.accesskey        "λ">
-<!ENTITY calendar.context.button.label                "Προβολή ημέρας">
-<!ENTITY calendar.context.button.accesskey            "θ">
+<!ENTITY calendar.context.button.label                'Προβολή "Σήμερα"'>
+<!ENTITY calendar.context.button.accesskey            "Σ">
 
 <!ENTITY calendar.context.attendance.menu.label                 "Συμμετοχή">
 <!ENTITY calendar.context.attendance.menu.accesskey             "χ">
 <!ENTITY calendar.context.attendance.occurrence.label           "Αυτό το στιγμιότυπο">
 <!ENTITY calendar.context.attendance.all2.label                 "Πλήρης Σειρά">
-<!ENTITY calendar.context.attendance.send.label                 "Να αποσταλεί ειδοποίηση τώρα">
-<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.send.label                 "Αποστολή ειδοποίησης τώρα">
+<!ENTITY calendar.context.attendance.send.accesskey             "Α">
 <!ENTITY calendar.context.attendance.dontsend.label             "Να μην αποσταλεί τώρα ειδοποίηση">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "Ν">
 
@@ -193,7 +193,7 @@
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Ανατέθηκε">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Χρειάζεται ακόμη ενέργεια">
-<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "Σ">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "Σε εξέλιξη">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "Ο">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Ολοκληρώθηκε">
