@@ -397,7 +397,7 @@
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Γενικά">
-<!ENTITY read.only.title.label           "Τίτλος:">
+<!ENTITY read.only.title.label           "Τίτλος:">
 <!ENTITY read.only.calendar.label        "Ημερολόγιο:">
 <!ENTITY read.only.event.start.label     "Ημερομηνία έναρξης:">
 <!ENTITY read.only.task.start.label      "Ημερομηνία έναρξης:">
@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Τοποθεσία:">
 <!ENTITY read.only.category.label        "Κατηγορία:">
 <!ENTITY read.only.organizer.label       "Διοργανωτής:">
-<!ENTITY read.only.reply.label           "Απάντηση:">
-<!ENTITY read.only.accept.label          "Θα παρευρεθώ">
-<!ENTITY read.only.decline.label         "Δεν θα παρευρεθώ">
-<!ENTITY read.only.tentative.label       "Ίσως παρευρεθώ">
-<!ENTITY read.only.needs.action.label    "Θα επιβεβαιώσω αργότερα">
 <!ENTITY read.only.reminder.label        "Υπενθύμιση:">
 <!ENTITY read.only.attachments.label     "Συνημμένα:">
 <!ENTITY read.only.attendees.label       "Συμμετέχοντες">
