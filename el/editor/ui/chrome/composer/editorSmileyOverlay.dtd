@@ -16,7 +16,7 @@
 <!ENTITY smiley3Cmd.accesskey "Κ">
 <!ENTITY smiley3Cmd.tooltip "Εισαγωγή προσώπου που κλείνει το μάτι">
 <!ENTITY smiley4Cmd.label "Γλώσσα έξω">
-<!ENTITY smiley4Cmd.accesskey "Β">
+<!ENTITY smiley4Cmd.accesskey "Γ">
 <!ENTITY smiley4Cmd.tooltip "Εισαγωγή προσώπου με τη γλώσσα έξω">
 <!ENTITY smiley5Cmd.label "Γέλιο">
 <!ENTITY smiley5Cmd.accesskey "Γ">
