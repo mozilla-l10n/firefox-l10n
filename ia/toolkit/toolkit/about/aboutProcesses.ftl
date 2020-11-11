@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Discargar schedas e terminar le processo
 about-processes-shutdown-tab =
     .title = Clauder le scheda
 
@@ -25,6 +27,18 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (processo { $pid })
+about-processes-web-process-name = Web (processo { $pid }, compartite)
+about-processes-web-isolated-process-name = Web (processo { $pid }) pro { $origin }
+about-processes-web-large-allocation = Web (processo { $pid }, grande) pro { $origin }
+about-processes-with-coop-coep-process-name = Web (procedura { $pid }, cross-origin isolate) pro { $origin }
+about-processes-file-process-name = Files (processo { $pid })
+about-processes-extension-process-name = Extensiones (processo { $pid })
+about-processes-privilegedabout-process-name = A proposito (processo { $pid })
+about-processes-plugin-process-name = Plugins (processo { $pid })
+about-processes-privilegedmozilla-process-name = Web (processo { $pid }) pro sitos { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Plugins multimedial Gecko (processo { $pid })
+about-processes-gpu-process-name = GPU  (processo { $pid })
 
 ## Details within processes
 
