@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = Konexio segurua ez dago erabilgarri
-
 about-httpsonly-button-make-exception = Onartu arriskua eta jarraitu gunera
-
 about-httpsonly-button-go-back = Joan atzera
+about-httpsonly-link-learn-more = Argibide gehiago…
