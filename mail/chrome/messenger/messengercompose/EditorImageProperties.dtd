@@ -14,7 +14,7 @@
 <!ENTITY locationEditField.accessKey "Τ">
 <!ENTITY locationEditField.tooltip "Καταχωρίστε το όνομα αρχείου εικόνας ή την τοποθεσία">
 <!ENTITY locationEditField.shortenedDataURI "Τα δεδομένα URI περικόπηκαν (η αντιγραφή θα αντιγράψει το πλήρες URI στο Πρόχειρο)">
-<!ENTITY title.label "Συμβουλή οθόνης:">
+<!ENTITY title.label "Υπόδειξη:">
 <!ENTITY title.accessKey "β">
 <!ENTITY title.tooltip "Η html ιδιότητα 'title' που προβάλλεται ως υπόδειξη">
 <!ENTITY altText.label "Εναλλακτικό κείμενο:">
