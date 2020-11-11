@@ -17,6 +17,20 @@ handler-dialog-host = <strong>{ $host }</strong> vole aperir un ligamine <strong
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Consentir a iste sito aperir le ligamine { $scheme }?
+permission-dialog-description-file = Consentir a iste file aperir le ligamine { $scheme }?
+permission-dialog-description-host = Consentir  a { $host } aperir le ligamine { $scheme }?
+permission-dialog-description-app = Consentir a iste sito aperir le ligamine { $scheme } con { $appName }?
+permission-dialog-description-host-app = Consentir a { $host } aperir le ligamine { $scheme } con { $appName }?
+permission-dialog-description-file-app = Consentir a iste file aperir le ligamine { $scheme } con { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
 permission-dialog-btn-open-link =
     .label = Aperir le ligamine
     .accessKey = A
