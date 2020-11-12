@@ -18,10 +18,35 @@ handler-dialog-host = <strong>{ $host }</strong> ostalariak <strong>{ $scheme }<
 ##  $appName - Name of the application that will be opened.
 
 
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
+permission-dialog-btn-open-link =
+    .label = Ireki lotura
+    .accessKey = k
+permission-dialog-btn-choose-app =
+    .label = Aukeratu aplikazioa
+    .accessKey = A
+permission-dialog-unset-description = Aplikazioa aukeratu beharko duzu.
+permission-dialog-set-change-app-link = Aukeratu beste aplikazio bat.
+
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Aukeratu aplikazioa
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Ireki lotura
+    .buttonaccesskeyaccept = k
+chooser-dialog-description = Aukeratu { $scheme } lotura irekitzeko aplikazioa.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Erabili beti aplikazio hau <strong>{ $scheme }</strong> loturak irekitzeko
 choose-other-app-description = Aukeratu beste aplikazio bat
 choose-app-btn =
     .label = Aukeratu...
