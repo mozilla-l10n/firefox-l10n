@@ -302,6 +302,7 @@ identity-https-only-info-no-upgrade = Impussibel da remplazzar la connexiun HTTP
 identity-permissions =
     .value = Autorisaziuns
 identity-permissions-storage-access-header = Cookies interpaginals
+identity-permissions-storage-access-hint = Questas partidas pon utilisar cookies interpaginals e datas da website durant che ti ta chattas sin questa website.
 identity-permissions-reload-hint = Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.
 identity-permissions-empty = Ti n'has betg definì autorisaziuns spezialas per questa pagina.
 identity-clear-site-data =
