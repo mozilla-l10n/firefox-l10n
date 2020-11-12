@@ -64,6 +64,10 @@ pane-experimental-subtitle = Procedere con cautela
 pane-experimental-search-results-header = Esperimenti di { -brand-short-name }: procedere con cautela
 pane-experimental-description = La modifica delle impostazioni avanzate di configurazione può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
 
+pane-experimental-reset =
+  .label = Ripristina predefiniti
+  .accesskey = R
+
 help-button-label = Supporto per { -brand-short-name }
 addons-button-label = Estensioni e temi
 
