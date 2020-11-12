@@ -6,9 +6,11 @@ fxa-toolbar-sync-syncing =
     .label = Sinkronizatzen…
 fxa-toolbar-sync-syncing-tabs =
     .label = Fitxak sinkronizatzen…
-
 sync-disconnect-dialog-title = Deskonektatu { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name }(e)k zure kontuarekin sinkronizatzeari utziko dio baina ez du gailu honetako zure nabigatze-daturik ezabatuko.
 fxa-disconnect-dialog-title = Deskonektatu { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } zure kontutik deskonektatuko da baina ez du gailu honetako zure nabigatze-daturik ezabatuko.
 sync-disconnect-dialog-button = Deskonektatu
+fxa-signout-dialog-body = Sinkronizatutako datuek zure kontuan jarraituko dute.
+fxa-signout-checkbox =
+    .label = Ezabatu gailu honetako datuak (saio-hasierak, pasahitzak, historia, laster-markak, etab.).
