@@ -41,6 +41,9 @@ printui-scale = Scalaziun
 printui-scale-fit-to-page-width = Adattar a la largezza da la pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scalaziun
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Stampar davant e davos
+printui-duplex-checkbox = Stampar d'omaduas varts
 # Section title for miscellaneous print options
 printui-options = Opziuns
 printui-headers-footers-checkbox = Stampar ils chaus-pagina ed ils pes-pagina
