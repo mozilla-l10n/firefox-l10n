@@ -47,6 +47,11 @@ chooser-dialog =
 chooser-dialog-description = Aukeratu { $scheme } lotura irekitzeko aplikazioa.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Erabili beti aplikazio hau <strong>{ $scheme }</strong> loturak irekitzeko
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }(r)en aukeretan alda daiteke hau.
+       *[other] { -brand-short-name }(r)en hobespenetan alda daiteke hau.
+    }
 choose-other-app-description = Aukeratu beste aplikazio bat
 choose-app-btn =
     .label = Aukeratu...
