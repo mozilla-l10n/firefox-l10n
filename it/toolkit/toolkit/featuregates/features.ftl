@@ -113,3 +113,8 @@ experimental-features-js-warp-description = Attiva Warp, un progetto per miglior
 experimental-features-fission =
     .label = Fission (isolamento dei siti)
 experimental-features-fission-description = Fission (isolamento dei siti) è una funzione sperimentale in { -brand-short-name } che fornisce un livello aggiuntivo di difesa contro i bug relativi alla sicurezza. Isolando ogni sito in un processo separato, Fission rende più difficile l’accesso da parte di siti dannosi alle informazioni di altre pagine visitate. Si tratta di una modifica strutturale nell’architettura di { -brand-short-name } e apprezziamo il tuo aiuto nel provarla e segnalare eventuali problemi. Per ulteriori dettagli, consultare <a data-l10n-name="wiki">il wiki</a>.
+
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Supporto per finestre multiple in Picture-in-Picture
+experimental-features-multi-pip-description = Attiva il supporto sperimentale per l’utilizzo di più finestre Picture-in-Picture aperte contemporaneamente.
