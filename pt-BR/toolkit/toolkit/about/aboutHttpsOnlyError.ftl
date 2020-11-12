@@ -13,7 +13,7 @@ about-httpsonly-title-alert = Alerta de modo somente HTTPS
 about-httpsonly-title-connection-not-available = Conexão segura não disponível
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable2 = Você ativou o modo somente HTTPS para maior segurança e uma versão HTTPS de <em>{ $websiteUrl }</em> não está disponível.
+about-httpsonly-explanation-unavailable2 = Você ativou o modo somente HTTPS para maior segurança, mas uma versão HTTPS de <em>{ $websiteUrl }</em> não está disponível.
 about-httpsonly-explanation-question = O que pode estar causando isso?
 about-httpsonly-explanation-nosupport = Provavelmente, o site simplesmente não oferece suporte a HTTPS.
 about-httpsonly-explanation-risk = Também é possível que um invasor esteja envolvido. Se você decidir visitar o site, não deve inserir nenhuma informação sensível, como senhas, e-mails ou detalhes de cartões de crédito.
