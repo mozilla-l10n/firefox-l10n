@@ -1142,6 +1142,8 @@ content-blocking-section-top-level-description = Gli elementi traccianti ti segu
 
 content-blocking-learn-more = Ulteriori informazioni
 
+content-blocking-fpi-incompatibility-warning = La funzione First Party Isolation (FPI) è attualmente attiva e sostituisce alcune impostazioni di { -brand-short-name } relative ai cookie.
+
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
