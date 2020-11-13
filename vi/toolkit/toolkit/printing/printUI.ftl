@@ -40,6 +40,9 @@ printui-scale = Tỷ lệ
 printui-scale-fit-to-page-width = Vừa với chiều rộng trang
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Tỷ lệ
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = In hai mặt
+printui-duplex-checkbox = In trên cả hai mặt của giấy
 # Section title for miscellaneous print options
 printui-options = Tùy chọn
 printui-headers-footers-checkbox = In đầu trang và chân trang
