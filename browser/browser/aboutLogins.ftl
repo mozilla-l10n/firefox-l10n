@@ -25,6 +25,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = បើក​ម៉ឺនុយ
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = នាំចូលពីកម្មវិធីរុករកតាម​អ៊ីនធឺណិតផ្សេងទៀត…
 about-logins-menu-menuitem-import-from-a-file = នាំចូល​ពី​ឯកសារ…
 about-logins-menu-menuitem-export-logins = នាំចេញចូល...
 menu-menuitem-preferences =
@@ -65,11 +67,13 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = កំពុង​រក​មើល​ការចូល​ដែល​បាន​រក្សាទុក​របស់​អ្នក​មែន​ទេ? រៀបចំ { -sync-brand-short-name } ។
+about-logins-login-intro-heading-logged-out = កំពុងរកមើលការចូលដែលបានរក្សាទុករបស់អ្នកឬ? រៀបចំ​ { -sync-brand-short-name } ឬនាំចូល​ការចូល​ទាំងនោះ។
 about-logins-login-intro-heading-logged-in = រកមិនឃើញការចូលដែល​បាន​ធ្វើសមកាលកម្ម។
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instruction-fxa = បង្កើត ឬ​ចូល​ទៅ { -fxaccount-brand-name } របស់​អ្នក​នៅ​លើ​ឧបករណ៍ ត្រង់​កន្លែង​ដែល​បាន​រក្សាទុក​ការចូល​របស់​អ្នក
 login-intro-instruction-fxa-settings = ប្រាកដ​ថា អ្នក​បាន​ជ្រើសរើស​​ប្រអប់​ធីក​ការចូល​នៅ​ក្នុង​ការកំណត់ { -sync-brand-short-name }
 about-logins-intro-instruction-help = ចូល​មើល <a data-l10n-name="help-link"> { -lockwise-brand-short-name } គាំទ្រ </a> សម្រាប់ជំនួយបន្ថែម
+about-logins-intro-import = ប្រសិនបើការចូលរបស់អ្នកត្រូវបានរក្សាទុកនៅក្នុងកម្មវិធីរុករកតាមអ៊ីនធឺណិតផ្សេងទៀតអ្នកអាច <a data-l10n-name="import-link"> នាំចូលការចូលទាំងនោះទៅក្នុង { -lockwise-brand-short-name }
 
 ## Login
 
