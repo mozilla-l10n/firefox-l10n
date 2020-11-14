@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
+<!ENTITY pref.security.title              "Απόρρητο &amp; ασφάλεια">
 
+<!ENTITY tracking.label                   "Παρακολούθηση χρήστη">
 
 
 

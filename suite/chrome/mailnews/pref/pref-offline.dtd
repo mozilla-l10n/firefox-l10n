@@ -5,6 +5,9 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY pref.network.title               "Δίκτυο &amp; αποθήκευση">
+<!ENTITY textStartUp                      "Κατά την εκκίνηση:">
+<!ENTITY textStartUp.accesskey            "Κ">
 <!ENTITY radioAutoSend                    "Ναι">
 <!ENTITY radioAutoSend.accesskey          "Ν">
 <!ENTITY radioNotSend                     "Όχι">
