@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Entwicklerwerkzeuge: Service-Worker-Debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktiviert die experimentelle Unterstützung für Service-Worker in der Debugger-Ansicht. Diese Funktion kann die Entwicklerwerkzeuge verlangsamen und den Speicherverbrauch erhöhen.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafik: Sanftes Zoomen durch Antippen
-experimental-features-graphics-desktop-zooming-description = Unterstützung für sanftes Zoomen durch Antippen auf Touchscreens und Präzisions-Touchpads aktivieren
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Globale WebRTC-Stummschaltungs-Steuerung
@@ -98,3 +94,4 @@ experimental-features-js-warp-description = Warp aktivieren: ein Projekt zur Ver
 experimental-features-fission =
     .label = Fission (Seitenisolierung)
 experimental-features-fission-description = Fission (Seitenisolierung) ist eine experimentelle Funktion in { -brand-short-name }, welche eine zusätzliche Schutzebene gegen Sicherheitslücken bietet. Indem es jede Website in einen separaten Prozess isoliert, macht Fission es für bösartige Websites schwieriger, Zugriff auf Informationen von anderen von Ihnen besuchten Seiten zu erhalten. Dies ist eine große Architektur-Änderung in { -brand-short-name } und wir freuen uns, dass Sie diese testen und wenn Sie alle gefundenen Probleme melden. Weitere Informationen erhalten Sie <a data-l10n-name="wiki">im Wiki</a>.
+experimental-features-multi-pip-description = Experimentelle Unterstützung für das gleichzeitige Öffnen mehrerer Bild-im-Bild-Fenster (PiP).
