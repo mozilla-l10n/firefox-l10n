@@ -10,6 +10,10 @@
 
 <!ENTITY backButton.label               "Πίσω">
 <!ENTITY backButton.accesskey           "Π">
+<!ENTITY backButton.tooltip             "Μετάβαση μια σελίδα πίσω">
+<!ENTITY forwardButton.label            "Εμπρός">
+<!ENTITY forwardButton.accesskey        "Ε">
+<!ENTITY forwardButton.tooltip          "Μετάβαση μια σελίδα μπροστά">
 <!ENTITY copyCmd.label                  "Αντιγραφή">
 <!ENTITY copyCmd.accesskey              "Α">
 <!ENTITY selectAllCmd.label             "Επιλογή όλων">
@@ -18,6 +22,7 @@
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Αρχική">
 <!ENTITY printButton.label              "Εκτύπωση">
+<!ENTITY printButton.tooltip            "Εκτύπωση σελίδας">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Αναζήτηση">

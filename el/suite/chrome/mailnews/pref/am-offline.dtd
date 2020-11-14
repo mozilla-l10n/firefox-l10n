@@ -4,6 +4,8 @@
 
 <!ENTITY kb.label "KB">
 <!ENTITY message.label "μηνύματα">
+<!ENTITY retentionApplyToFlagged.label "Πάντα διατήρηση των μηνυμάτων με σημαία">
+<!ENTITY retentionApplyToFlagged.accesskey "δ">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear

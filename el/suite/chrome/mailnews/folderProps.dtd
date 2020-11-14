@@ -13,6 +13,8 @@
 <!ENTITY message.label "μηνύματα">
 <!ENTITY retentionKeepAll.label "Όλα τα μηνύματα">
 <!ENTITY retentionKeepAll.accesskey "Ό">
+<!ENTITY retentionApplyToFlagged.label "Πάντα διατήρηση των μηνυμάτων με σημαία">
+<!ENTITY retentionApplyToFlagged.accesskey "α">
 
 <!ENTITY folderSynchronizationTab.label          "Συγχρονισμός">
 

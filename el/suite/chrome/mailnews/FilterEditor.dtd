@@ -22,6 +22,7 @@
 <!ENTITY forwardTo.label "Προώθηση μηνύματος σε">
 <!ENTITY markMessageRead.label "Επισήμανση ως αναγνωσμένο">
 <!ENTITY markMessageUnread.label "Επισήμανση ως μη αναγνωσμένο">
+<!ENTITY markMessageStarred.label "Επισήμανση με σημαία">
 <!ENTITY deleteMessage.label "Διαγραφή μηνύματος">
 
 <!-- LOCALIZATION NOTE
