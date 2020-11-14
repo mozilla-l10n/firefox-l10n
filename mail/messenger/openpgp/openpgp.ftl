@@ -113,6 +113,13 @@ openpgp-key-man-copy-key-ids =
            *[other] Kopier Nøkkel-ID-er til utklippstavlen
         }
     .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Kopier fingeravtrykk til utklippstavlen
+           *[other] Kopier fingeravtrykk til utklippstavlen
+        }
+    .accesskey = K
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
