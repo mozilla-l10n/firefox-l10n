@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
-    .label = Importera bokmärken ...
-    .tooltiptext = Kopiera bokmärken från en annan webbläsare till { -brand-short-name }.
+browser-import-button2 =
+    .label = Importera bokmärken…
+    .tooltiptext = Importera bokmärken från en annan webbläsare till { -brand-short-name }
+bookmarks-toolbar-empty-message = För snabb åtkomst placerar du dina bokmärken i bokmärkesfältet. <a data-l10n-name="manage-bookmarks">Hantera bokmärken…</a>
 
 ## WebRTC Pop-up notifications
 
