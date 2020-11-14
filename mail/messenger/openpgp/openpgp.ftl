@@ -116,10 +116,10 @@ openpgp-key-man-copy-key-ids =
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
-            [one] Copiar assinatura para área de transferência
-           *[other] Copiar assinaturas para área de transferência
+            [one] Copiar impressão digital para área de transferência
+           *[other] Copiar impressões digitais para área de transferência
         }
-    .accesskey = n
+    .accesskey = m
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -137,10 +137,10 @@ openpgp-key-man-ctx-copy =
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
-            [one] Assinatura
-           *[other] Assinaturas
+            [one] Impressão digital
+           *[other] Impressões digitais
         }
-    .accesskey = n
+    .accesskey = m
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
