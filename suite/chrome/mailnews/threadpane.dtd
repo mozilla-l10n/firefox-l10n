@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY threadColumn.label "Νήμα">
+<!ENTITY fromColumn.label "Από">
+<!ENTITY recipientColumn.label "Παραλήπτης">
+<!ENTITY attachmentColumn.label "Συνημμένα">
+<!ENTITY subjectColumn.label "Θέμα">
+<!ENTITY dateColumn.label "Ημερομηνία">
+<!ENTITY priorityColumn.label "Προτεραιότητα">
+<!ENTITY tagsColumn.label "Ετικέτες">
+<!ENTITY accountColumn.label "Λογαριασμός">
+<!ENTITY statusColumn.label "Κατάσταση">
+<!ENTITY sizeColumn.label "Μέγεθος">
+<!ENTITY locationColumn.label "Τοποθεσία">
+
+<!--Tooltips-->
