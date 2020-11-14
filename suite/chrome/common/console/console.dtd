@@ -5,6 +5,8 @@
 <!ENTITY errorConsole.title   "Κονσόλα σφαλμάτων">
 
 
+<!ENTITY messages.label       "Μηνύματα">
+<!ENTITY messages.accesskey   "Μ">
 
 <!ENTITY copyCmd.commandkey    "C">
 <!ENTITY closeCmd.commandkey   "w">

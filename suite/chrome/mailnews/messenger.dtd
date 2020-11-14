@@ -60,6 +60,22 @@
 
 <!-- sortMenu is also used by addressbook -->
 
+<!ENTITY sortByTagsCmd.label "Ετικέτες">
+<!ENTITY sortByTagsCmd.accesskey "κ">
+<!ENTITY sortBySubjectCmd.label "Θέμα">
+<!ENTITY sortBySubjectCmd.accesskey "Θ">
+<!ENTITY sortByFromCmd.label "Από">
+<!ENTITY sortByFromCmd.accesskey "Α">
+<!ENTITY sortByRecipientCmd.label "Παραλήπτης">
+<!ENTITY sortByRecipientCmd.accesskey "λ">
+<!ENTITY sortByOrderReceivedCmd.label "Σειρά παραλαβής">
+<!ENTITY sortByOrderReceivedCmd.accesskey "Σ">
+<!ENTITY sortByAttachmentsCmd.label "Συνημμένα">
+<!ENTITY sortByAttachmentsCmd.accesskey "μ">
+<!ENTITY sortAscending.label "Αύξουσα">
+<!ENTITY sortAscending.accesskey "Α">
+<!ENTITY sortDescending.label "Φθίνουσα">
+<!ENTITY sortDescending.accesskey "Φ">
 
 
 

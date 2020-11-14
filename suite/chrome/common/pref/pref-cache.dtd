@@ -5,5 +5,14 @@
 <!-- extracted from content/pref-cache.xul -->
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title                "Προσωρινή μνήμη">
+<!ENTITY diskCacheUpTo.label             "Χρήση έως">
+<!ENTITY diskCacheUpTo.accesskey         "Χ">
+<!ENTITY spaceMbytes                     "MB χώρου δίσκου για την προσωρινή μνήμη">
+<!ENTITY clearDiskCache.label            "Απαλοιφή προσωρινής μνήμης">
+<!ENTITY clearDiskCache.accesskey        "Α">
 <!ENTITY chooseDiskCacheFolder.label     "Επιλογή φακέλου…">
+<!ENTITY checkOncePerSession.label       "Μία φορά ανά συνεδρία">
+<!ENTITY checkEveryTime.label            "Κάθε φορά που βλέπω τη σελίδα">
+<!ENTITY checkNever.label                "Ποτέ">
 

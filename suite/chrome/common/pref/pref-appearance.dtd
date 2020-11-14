@@ -16,7 +16,10 @@
 <!ENTITY picsOnlyRadio.accesskey                "ό">
 <!ENTITY textonlyRadio.label                    "Μόνο κείμενο">
 <!ENTITY textonlyRadio.accesskey                "ν">
+<!ENTITY showHideTooltips.label                 "Εμφάνιση υποδείξεων">
+<!ENTITY showHideTooltips.accesskey             "υ">
 
+<!ENTITY pref.locales.title                     "Γλώσσα περιβάλλοντος χρήστη">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties
