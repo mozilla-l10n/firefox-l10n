@@ -25,19 +25,34 @@
 <!ENTITY navigator.label "Πρόγραμμα περιήγησης">
 <!ENTITY history.label "Ιστορικό">
 <!ENTITY languages.label "Γλώσσες">
+<!ENTITY applications.label "Βοηθητικές εφαρμογές">
 <!ENTITY locationBar.label "Γραμμή διευθύνσεων">
+<!ENTITY search.label "Διαδικτυακή αναζήτηση">
+<!ENTITY tabWindows.label "Περιήγηση με καρτέλες">
+<!ENTITY links.label "Συμπεριφορά συνδέσμου">
 <!ENTITY download.label "Λήψεις">
 
 <!ENTITY security.label "Απόρρητο &amp; ασφάλεια">
 <!ENTITY privatedata.label "Ιδιωτικά δεδομένα">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Εικόνες">
+<!ENTITY popups.label "Αναδυόμενα παράθυρα">
 <!ENTITY passwords.label "Κωδικοί πρόσβασης">
+<!ENTITY masterpass.label "Κύριοι κωδικοί πρόσβασης">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Πιστοποιητικά">
 
+<!ENTITY sync.label "Sync">
 
+<!ENTITY advance.label "Για προχωρημένους">
+<!ENTITY scriptsAndWindows.label "Σενάρια &amp; αρθρώματα">
+<!ENTITY keynav.label "Πλοήγηση με πληκτρολόγιο">
+<!ENTITY findAsYouType.label "Εύρεση κατά την πληκτρολόγηση">
 <!ENTITY cache.label "Προσωρινή μνήμη">
+<!ENTITY offlineApps.label "Εφαρμογές εκτός σύνδεσης">
+<!ENTITY proxies.label "Διακομιστές μεσολάβησης">
 <!ENTITY httpnetworking.label "Δικτύωση HTTP">
 <!ENTITY smart.label "Εγκατάσταση λογισμικού">
+<!ENTITY mousewheel.label "Τροχός ποντικιού">
 
+<!ENTITY focusSearch.key "f">
