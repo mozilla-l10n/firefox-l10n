@@ -351,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Lesezeichen importieren…
     .tooltiptext = Lesezeichen aus einem anderen Browser zu { -brand-short-name } importieren.
+bookmarks-toolbar-empty-message = Legen Sie Ihre Lesezeichen hier in der Lesezeichen-Symbolleiste ab, um schnell darauf zuzugreifen. <a data-l10n-name="manage-bookmarks">Lesezeichen verwalten…</a>
 
 ## WebRTC Pop-up notifications
 
