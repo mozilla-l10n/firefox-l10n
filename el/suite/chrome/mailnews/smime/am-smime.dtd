@@ -5,5 +5,7 @@
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
 <!ENTITY encryption.certificate.button "Επιλογή…">
 
+<!ENTITY manageCerts2.label "Διαχείριση πιστοποιητικών…">
+<!ENTITY manageDevices.label "Διαχείριση συσκευών ασφαλείας…">
 
 <!-- Strings for the cert picker dialog -->

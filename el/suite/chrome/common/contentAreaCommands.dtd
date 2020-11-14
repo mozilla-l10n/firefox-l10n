@@ -5,9 +5,14 @@
 <!-- Context Menu -->
 <!ENTITY openLinkInWindowCmd.label    "Άνοιγμα">
 <!ENTITY openLinkInWindowCmd.accesskey "ν">
+<!ENTITY saveImageAsCmd.label         "Αποθήκευση εικόνας ως…">
+<!ENTITY saveVideoCmd.label           "Αποθήκευση βίντεο ως…">
+<!ENTITY saveAudioCmd.label           "Αποθήκευση ήχου ως…">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY videoSaveImage.label         "Αποθήκευση στιγμιότυπου ως…">
+<!ENTITY spellAddDictionaries.label     "Λήψη περισσότερων λεξικών…">
 
 
 <!-- Developer Tools -->

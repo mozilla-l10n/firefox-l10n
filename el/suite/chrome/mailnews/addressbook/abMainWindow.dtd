@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Title -->
+<!-- File Menu -->
+<!ENTITY newContact.label                               "Επαφή…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP…">
+<!ENTITY printContactViewCmd.label                      "Εκτύπωση επαφής…">
+
+<!-- Edit Menu -->
+<!ENTITY propertiesCmd.label                            "Ιδιότητες…">
+
+<!-- View Menu -->
+<!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
+     mac platform, other platforms use VK_F9. -->
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "Εισαγωγή…">
+<!ENTITY exportCmd.label                                "Εξαγωγή…">
+
+<!-- Toolbar and Popup items -->
+
+<!-- Tooltips -->
+
+<!-- Dir Tree header -->
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!-- Special Box Headings, for mailing lists -->
+<!-- For Map It! -->
+
+<!-- Status Bar -->
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->

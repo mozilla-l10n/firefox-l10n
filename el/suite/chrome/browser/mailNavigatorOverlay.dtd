@@ -10,6 +10,9 @@
 
 <!ENTITY sendPage.label                  "Αποστολή σελίδας…">
 
+<!ENTITY contextSendImage.label          "Αποστολή εικόνας…">
+<!ENTITY contextSendVideo.label          "Αποστολή βίντεο…">
+<!ENTITY contextSendAudio.label          "Αποστολή ήχου…">
 
- 
+<!ENTITY sendLinkCmd.label               "Αποστολή συνδέσμου…"> 
 
