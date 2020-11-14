@@ -4,6 +4,12 @@
 
 <!ENTITY junkSettings.label "Ρυθμίσεις ανεπιθύμητων">
 
+<!ENTITY move.label "Μετακίνηση νέων ανεπιθύμητων μηνυμάτων:">
+<!ENTITY move.accesskey "Μ">
+<!ENTITY junkFolderOn.label "Στο φάκελο &quot;Ανεπιθύμητα&quot; του:">
+<!ENTITY junkFolderOn.accesskey "Α">
+<!ENTITY otherFolder.label "Σε άλλο:">
+<!ENTITY otherFolder.accesskey "ά">
 
 
 

@@ -3,23 +3,44 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label     "Συνδρομές ροών">
+<!ENTITY learnMore.label             "Μάθετε περισσότερα για τις ροές">
 
+<!ENTITY feedTitle.label             "Τίτλος:">
+<!ENTITY feedTitle.accesskey         "Τ">
 
 <!ENTITY feedLocation.label          "URL ροής:">
 <!ENTITY feedLocation.accesskey      "ρ">
 <!ENTITY feedLocation2.placeholder   "Εισάγετε ένα έγκυρο URL ροής">
 <!ENTITY locationValidate.label      "Επικύρωση">
 
+<!ENTITY feedFolder.label            "Αποθήκευση άρθρων σε:">
+<!ENTITY feedFolder.accesskey        "Α">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Έλεγχος για νέα άρθρα κάθε ">
+<!ENTITY biffStart.accesskey         "κ">
+<!ENTITY biffMinutes.label           "λεπτά">
+<!ENTITY biffMinutes.accesskey       "λ">
+<!ENTITY biffDays.label              "ημέρες">
+<!ENTITY biffDays.accesskey          "μ">
+<!ENTITY recommendedUnits.label      "Ο εκδότης προτείνει:">
 
 
 
 <!-- Subscription Dialog -->
+<!ENTITY button.addFeed.label        "Προσθήκη">
+<!ENTITY button.addFeed.accesskey    "Π">
+<!ENTITY button.verifyFeed.label     "Επαλήθευση">
+<!ENTITY button.verifyFeed.accesskey "Ε">
+<!ENTITY button.updateFeed.label     "Ενημέρωση">
+<!ENTITY button.updateFeed.accesskey "Ε">
 <!ENTITY button.removeFeed.label     "Αφαίρεση">
 <!ENTITY button.removeFeed.accesskey "Α">
 <!ENTITY button.importOPML.label     "Εισαγωγή">
 <!ENTITY button.importOPML.accesskey "Ε">
+<!ENTITY button.exportOPML.label     "Εξαγωγή">
+<!ENTITY button.exportOPML.accesskey "ξ">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Κλείσιμο">

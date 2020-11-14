@@ -23,8 +23,11 @@
      mac platform, other platforms use VK_F9. -->
 <!ENTITY showHideSidebarCmd.key         "S">
 
+<!ENTITY sidebar.sbDirectory.label   "Κατάλογος πλευρικής στήλης…">
 
+<!ENTITY sidebar.pagenotfound.label  "Αυτή η καρτέλα δεν είναι διαθέσιμη αυτή τη στιγμή.">
 <!ENTITY sidebar.close.tooltip       "Κλείσιμο πλευρικής στήλης">
+<!ENTITY sidebar.open.tooltip        "Άνοιγμα πλευρικής στήλης">
 
 <!ENTITY sidebar.search.label         "Αναζήτηση">
 <!ENTITY sidebar.client-bookmarks.label     "Σελιδοδείκτες">
