@@ -2,10 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY offlineNotDownload.label "Μηνύματα μεγαλύτερα από">
+<!ENTITY autosyncNotDownload.label "Να μην γίνεται λήψη μηνυμάτων, μεγαλύτερων από">
+<!ENTITY autosyncNotDownload.accesskey "μ">
 <!ENTITY kb.label "KB">
-<!ENTITY message.label "μηνύματα">
+<!ENTITY message.label "μηνυμάτων">
+<!ENTITY retentionKeepAll.label "Να μην γίνει διαγραφή μηνυμάτων">
+<!ENTITY retentionKeepAll.accesskey "ν">
+<!ENTITY retentionKeepRecent.label "Διαγραφή όλων εκτός από τα πιο πρόσφατα">
+<!ENTITY retentionKeepRecent.accesskey "φ">
 <!ENTITY retentionApplyToFlagged.label "Πάντα διατήρηση των μηνυμάτων με σημαία">
 <!ENTITY retentionApplyToFlagged.accesskey "δ">
+<!ENTITY offlineImapAdvancedOffline.label "Για προχωρημένους…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "ω">
+<!ENTITY syncGroupTitle.label "Συγχρονισμός μηνυμάτων">
+<!ENTITY diskspaceGroupTitle.label "Χώρος δίσκου">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -13,9 +24,11 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY ageAutosyncBefore.label         "Συγχρονισμός των τελευταίων">
+<!ENTITY ageAutosync.accesskey           "Σ">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "Ημέρες">
-<!ENTITY weekAgeInterval.label           "Εβδομάδες">
-<!ENTITY monthAgeInterval.label          "Μήνες">
-<!ENTITY yearAgeInterval.label           "Έτη">
+<!ENTITY dayAgeInterval.label            "ημερών">
+<!ENTITY weekAgeInterval.label           "εβδομάδων">
+<!ENTITY monthAgeInterval.label          "μηνών">
+<!ENTITY yearAgeInterval.label           "ετών">
 <!ENTITY ageAutosyncAfter.label          "">

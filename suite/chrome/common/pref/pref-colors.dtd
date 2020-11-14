@@ -17,6 +17,8 @@
 <!ENTITY underlineLinks.label              "Υπογράμμιση συνδέσμων">
 <!ENTITY underlineLinks.accesskey          "Υ">
 <!ENTITY links                             "Χρώματα συνδέσμων">
+<!ENTITY activeLinkColor.label             "Ενεργοί σύνδεσμοι:">
+<!ENTITY activeLinkColor.accesskey         "ρ">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
