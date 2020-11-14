@@ -10,7 +10,9 @@
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey;
      tabs.context.bookmarkSingleTab.accesskey, tabs.context.bookmarkMultipleTabs.accesskey):
      Only one of each of these pairs will show at a time (based on selection), so reusing accesskey is ok. -->
+<!ENTITY tabs.context.openTab.label                   "Άνοιγμα καρτέλας">
 <!ENTITY tabs.context.openTab.accesskey               "Ά">
+<!ENTITY tabs.context.openMultipleTabs.label          "Άνοιγμα επιλεγμένων καρτελών">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "Ά">
 <!ENTITY tabs.context.refreshList.label               "Ανανέωση λίστας">
 <!ENTITY tabs.context.refreshList.accesskey           "Α">

@@ -38,4 +38,5 @@
 <!ENTITY toolbarsCmd.accesskey "ν">
 <!ENTITY toolbarMode.label     "Λειτουργία">
 <!ENTITY toolbarMode.accesskey "Λ">
+<!ENTITY toolbarEval.label     "Καταχώρηση JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
