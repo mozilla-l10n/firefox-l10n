@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importar favoritos…
-    .tooltiptext = Copiar favoritos de outro navegador para o { -brand-short-name }.
+    .tooltiptext = Importar favoritos de outro navegador para o { -brand-short-name }.
+bookmarks-toolbar-empty-message = Para acesso rápido, coloque seus favoritos aqui na barra de favoritos. <a data-l10n-name="manage-bookmarks">Gerenciar favoritos…</a>
 
 ## WebRTC Pop-up notifications
 
