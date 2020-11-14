@@ -347,9 +347,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = ייבוא סימניות…
-    .tooltiptext = העתקת סימניות מדפדפן אחר אל תוך { -brand-short-name }.
+    .tooltiptext = ייבוא סימניות מדפדפן אחר אל תוך { -brand-short-name }.
+bookmarks-toolbar-empty-message = לקבלת גישה מהירה, ניתן למקם את הסימניות שלך כאן בסרגל הכלים של הסימניות. <a data-l10n-name="manage-bookmarks">ניהול סימניות…</a>
 
 ## WebRTC Pop-up notifications
 
