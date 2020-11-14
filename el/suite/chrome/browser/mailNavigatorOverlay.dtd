@@ -6,7 +6,9 @@
 <!ENTITY newMessageCmd.accesskey         "Μ">
 <!ENTITY newMessageCmd.key               "M">
 
+<!ENTITY newContactCmd.label             "Επαφή…">
 
+<!ENTITY sendPage.label                  "Αποστολή σελίδας…">
 
 
  
