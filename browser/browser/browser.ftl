@@ -348,9 +348,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importer bokmerker…
-    .tooltiptext = Kopier bokmerker fra en annen nettleser til { -brand-short-name }.
+    .tooltiptext = Importer bokmerker fra en annen nettleser til { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
