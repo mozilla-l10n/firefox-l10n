@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = 전역 <a data-l10n-name
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> 인터페이스에 생성자를 추가하는 것뿐만 아니라 다양한 관련 변경으로 인해 시트를 HTML에 추가하지 않고도 새로운 스타일시트를 직접 만들 수 있습니다. 이를 통해 <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>과 함께 사용할 수 있는 재사용 가능한 스타일시트를 훨씬 쉽게 만들 수 있습니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1520690</a>을 참고하세요.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = 미디어 세션 API의 전체 { -brand-short-name } 구현은 현재 실험 중입니다. 이 API는 미디어 관련 알림 처리를 사용자 정의하고, 미디어 재생 관리를 위한 사용자 인터페이스를 제공하는데 유용한 이벤트 및 데이터를 관리하고, 미디어 파일 메타데이터를 얻는데 사용됩니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1112032</a>를 참고하세요.
 experimental-features-devtools-color-scheme-simulation =
     .label = 개발자 도구: 색 구성표 시뮬레이션
 experimental-features-devtools-color-scheme-simulation-description = <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> 미디어 쿼리를 테스트 할 수 있는 다양한 색 구성표를 시뮬레이션하는 옵션을 추가합니다. 이 미디어 쿼리를 사용하면 스타일시트가 사용자가 밝은 사용자 인터페이스를 선호하는지 어두운 사용자 인터페이스를 선호하는지에 응답할 수 있습니다. 이 기능을 사용하면 브라우저(또는 브라우저가 시스템 전체 색 구성표 설정을 따르는 경우는 운영 체제)의 설정을 변경하지 않고도 코드를 테스트 할 수 있습니다. 자세한 내용은 <a data-l10n-name="bugzilla1">bug 1550804</a> 및 <a data-l10n-name="bugzilla2">bug 1137699</a>를 참고하세요.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = 개발자 도구: Service Worker 디버깅
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = 디버거 패널에서 Service Worker를 실험적으로 지원합니다. 이 기능은 개발자 도구의 속도를 저하시키고 메모리 소비를 증가시킬 수 있습니다.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = 그래픽: 부드러운 핀치 확대/축소
-experimental-features-graphics-desktop-zooming-description = 터치 스크린 및 정밀 터치 패드에서 부드러운 핀치 확대/축소를 지원합니다.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC 전역 음소거 설정/해제
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = JavaScript 성능 및 메모리 사�
 experimental-features-fission =
     .label = Fission (사이트 격리)
 experimental-features-fission-description = Fission (사이트 격리)은 { -brand-short-name }의 실험적 기능으로 보안 버그에 대한 추가적인 방어 계층을 제공합니다. 각 사이트를 별도의 프로세스로 분리함으로써 Fission은 악성 웹 사이트가 방문 중인 다른 페이지의 정보에 액세스하는 것을 더 어렵게 합니다. 이는 { -brand-short-name }의 주요 아키텍처 변경 사항이며 발생할 수 있는 문제를 테스트하고 보고해 주셔서 감사합니다. 자세한 내용은 <a data-l10n-name="wiki">위키</a>를 참조하세요.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = 다중 화면 속 화면 지원
+experimental-features-multi-pip-description = 여러 화면 속 화면 창을 동시에 열 수 있는 기능을 실험적으로 지원합니다.

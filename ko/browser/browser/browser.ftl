@@ -340,9 +340,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = 북마크 가져오기…
-    .tooltiptext = 다른 브라우저에서 { -brand-short-name }로 북마크를 복사합니다.
+    .tooltiptext = 다른 브라우저에서 { -brand-short-name }로 북마크를 가져옵니다.
 
 ## WebRTC Pop-up notifications
 
