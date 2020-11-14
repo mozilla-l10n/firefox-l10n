@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
+<!ENTITY features.title "Χαρακτηριστικά">
+<!ENTITY feat_multiacc.label "Υποστήριξη πολλαπλών λογαριασμών">
+<!ENTITY feat_filters.label "Φίλτρα μηνυμάτων">
+<!ENTITY dict.title "Λεξικά">
+<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
+<!ENTITY info.title "Περισσότερες πληροφορίες">
+<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
