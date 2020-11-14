@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Network-->
+<!ENTITY prefEnableHTTP10.label              "Χρήση HTTP 1.0">
+<!ENTITY prefEnableHTTP10.accesskey          "Χ">
+<!ENTITY prefEnableHTTP10Proxy.accesskey     "σ">
+<!ENTITY prefEnableHTTP11.label              "Χρήση HTTP 1.1">
+<!ENTITY prefEnableHTTP11.accesskey          "ρ">
+<!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
+<!ENTITY prefFirefoxStrict.label             "Αναγνώριση ως Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "Α">
+<!ENTITY prefFirefoxNone.label               "Αναγνώριση ως SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">

@@ -5,3 +5,5 @@
 <!ENTITY progress.title                  "Λήψη σε εξέλιξη…">
 <!ENTITY cmd.open.label                  "Άνοιγμα">
 <!ENTITY cmd.open.accesskey              "Ά">
+<!ENTITY closeWhenDone.label             "Κλείσιμο παραθύρου όταν ολοκληρωθεί η λήψη.">
+<!ENTITY closeWhenDone.accesskey         "π">

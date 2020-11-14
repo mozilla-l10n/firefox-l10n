@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-colors.xul -->
+
+<!-- LOCALIZATION NOTE : FILE Color management prefs -->
+<!ENTITY pref.colors.title                 "Χρώματα">
+<!ENTITY color                             "Κείμενο και παρασκήνιο">
+<!ENTITY textColor.label                   "Κείμενο:">
+<!ENTITY textColor.accesskey               "Κ">
+<!ENTITY backgroundColor.label             "Παρασκήνιο:">
+<!ENTITY backgroundColor.accesskey         "Π">
+<!ENTITY useSystemColors.label             "Χρήση χρωμάτων συστήματος">
+<!ENTITY useSystemColors.accesskey         "σ">
+
+<!ENTITY underlineLinks.label              "Υπογράμμιση συνδέσμων">
+<!ENTITY underlineLinks.accesskey          "Υ">
+<!ENTITY links                             "Χρώματα συνδέσμων">
+<!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
+<!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
+<!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
