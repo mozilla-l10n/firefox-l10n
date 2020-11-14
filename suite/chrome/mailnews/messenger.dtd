@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messengerWindow.title "Αλληλογραφία &amp; ομάδες συζήτησης">
+<!ENTITY titleModifier.label "&brandShortName;">
+<!ENTITY titleSeparator.label " - ">
+
+<!-- tabmail -->
+<!ENTITY tabmailClose.label "Κλείσιμο καρτέλας">
+<!ENTITY tabmailClose.tooltip "Κλείσιμο καρτέλας">
+
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Νέο μήνυμα">
+<!ENTITY newMessage.accesskey "Ν">
+<!ENTITY newFolderCmd.label "Φάκελος…">
+<!ENTITY newFolderCmd.accesskey "Φ">
+<!ENTITY newVirtualFolderCmd.label "Αποθηκευμένη αναζήτηση…">
+<!ENTITY newVirtualFolderCmd.accesskey "Α">
+<!ENTITY closeTabCmd.label "Κλείσιμο καρτέλας">
+<!ENTITY closeTabCmd.accesskey "ρ">
+<!ENTITY newAccountCmd.label "Λογαριασμός…">
+<!ENTITY newAccountCmd.accesskey "Λ">
+<!ENTITY openMessageFileCmd.label "Άνοιγμα αρχείου…">
+<!ENTITY openMessageFileCmd.accesskey "Ά">
+<!ENTITY openAttachmentCmd.label "Συνημμένα">
+<!ENTITY openAttachmentCmd.accesskey "μ">
+<!ENTITY saveAsMenu.label "Αποθήκευση ως">
+<!ENTITY saveAsMenu.accesskey "Α">
+<!ENTITY saveAsFileCmd.label "Αρχείο">
+<!ENTITY saveAsFileCmd.accesskey "χ">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Πρότυπο">
+<!ENTITY saveAsTemplateCmd.accesskey "Π">
+<!ENTITY getNewMsgCmd.label "Λήψη νέων μηνυμάτων">
+<!ENTITY getNewMsgCmd.accesskey "Λ">
+<!ENTITY getNewMsgCmd2.key "d">
+<!ENTITY getNewMsgForCmd.label "Λήψη νέων μηνυμάτων για">
+<!ENTITY getNewMsgForCmd.accesskey "ω">
+
+<!-- Edit Menu -->
+
+<!-- View Menu -->
+
+<!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
+     mac platform, other platforms use VK_F9. -->
+
+<!-- sortMenu is also used by addressbook -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+
+<!-- Go Menu -->
+
+
+<!-- Message Menu -->
+
+<!-- Tools Menu -->
+
+<!-- Folder Pane -->
+
+<!-- Toolbar items -->
+
+<!-- Tooltips -->
+
+<!-- Remote Content Button Popup -->
+
+<!-- Statusbar -->
+
+<!-- Thread Pane Context Menu -->
+
+<!-- Folder Pane Context Menu -->
+
+<!-- focusSearchInput.key also used by addressbook -->
+
