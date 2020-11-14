@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Uvezi zabilješke…
-    .tooltiptext = Kopiraj zabilješke iz drugog preglednika u { -brand-short-name }.
+    .tooltiptext = Uvoz zabilješki iz drugog preglednika u { -brand-short-name }.
+bookmarks-toolbar-empty-message = Za brzi pristup, postavi svoje zabilješke ovdje na alatnu traku zabilješki. <a data-l10n-name="manage-bookmarks">Upravljaj zabilješkama…</a>
 
 ## WebRTC Pop-up notifications
 
