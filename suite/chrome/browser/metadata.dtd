@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY caption.label         "Ιδιότητες στοιχείου">
+<!ENTITY image-sec.label       "Ιδιότητες εικόνας">
 <!ENTITY image-url.label       "Τοποθεσία:">
 <!ENTITY image-desc.label      "Περιγραφή:">
 <!ENTITY image-alt.label       "Εναλλακτικό κείμενο:">
@@ -12,6 +14,11 @@
 <!ENTITY image-filesize.value  "Άγνωστο">
 <!ENTITY insdel-cite.label     "Πληροφορίες:">
 <!ENTITY insdel-date.label     "Ημερομηνία:">
+<!ENTITY link-sec.label        "Ιδιότητες συνδέσμου">
 <!ENTITY link-url.label        "Διεύθυνση:">
+<!ENTITY link-target.label     "Θα ανοίξει σε:">
+<!ENTITY link-rel.label        "Σχέση:">
+<!ENTITY misc-lang.label       "Γλώσσα κειμένου:">
 <!ENTITY misc-title.label      "Τίτλος:">
+<!ENTITY misc-tblsummary.label "Περίληψη πίνακα:">
 <!ENTITY quote-cite.label      "Πληροφορίες:">
