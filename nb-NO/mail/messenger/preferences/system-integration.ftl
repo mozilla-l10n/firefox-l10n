@@ -4,16 +4,12 @@
 
 system-integration-title =
     .title = Systemintegrasjon
-
 system-integration-dialog =
     .buttonlabelaccept = Bruk som standard
     .buttonlabelcancel = Hopp over integrasjon
     .buttonlabelcancel2 = Avbryt
-
 default-client-intro = Bruk { -brand-short-name } som standardprogram for:
-
 unset-default-tooltip = Det er ikke mulig å fjerne { -brand-short-name } som standardklient fra innenfor { -brand-short-name }. For å sette et annet program som standard må du bruke dette programmets 'Bruk som standard'-dialog.
-
 checkbox-email-label =
     .label = E-post
     .tooltiptext = { unset-default-tooltip }
@@ -23,7 +19,9 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Nyhetskilder
     .tooltiptext = { unset-default-tooltip }
-
+checkbox-calendar-label =
+    .label = Kalender
+    .tooltiptext = { unset-default-tooltip }
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -32,11 +30,9 @@ system-search-engine-name =
         [windows] Windows-søk
        *[other] { "" }
     }
-
 system-search-integration-label =
     .label = Tillat { system-search-engine-name } å søke i meldinger
     .accesskey = T
-
 check-on-startup-label =
     .label = Alltid sjekk dette ved oppstart av { -brand-short-name }
     .accesskey = A
