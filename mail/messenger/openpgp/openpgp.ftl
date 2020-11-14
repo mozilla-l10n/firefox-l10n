@@ -110,6 +110,18 @@ openpgp-key-man-ctx-expor-to-file-label =
     .label = Kluče do dataje eksportować
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Zjawne kluče do mjezyskłada kopěrować
+openpgp-key-man-ctx-copy =
+    .label = Kopěrować
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Porstowy wotćišć
+            [two] Porstowej wotćišćej
+            [few] Porstowe wotćišće
+           *[other] Porstowe wotćišće
+        }
+    .accesskey = P
 openpgp-key-man-close =
     .label = Začinić
 openpgp-key-man-reload =
@@ -501,7 +513,9 @@ key-man-button-generate-key = Kluč wu&tworić
 key-abort = Wutworjenje kluča přetorhnyć?
 key-man-button-generate-key-abort = Wutworjenje k&luča přetorhnyć
 key-man-button-generate-key-continue = Z wu&tworjenjom kluča pokročować
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Zmylk – dešifrowanje njeje so poradźiło
 fix-broken-exchange-msg-failed = Powěsć njeda so reparować.
 attachment-no-match-from-signature = Signaturowa dataja ‚{ $attachment }‘ njeda so přiwěškej přirjadować
