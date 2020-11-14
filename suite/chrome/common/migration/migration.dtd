@@ -3,13 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY importBookmarksFrom.label       "Εισαγωγή σελιδοδεικτών από:">
 
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "Αρχείο">
 <!ENTITY importFromFile.accesskey        "Α">
+<!ENTITY importFromNothing.label         "Να μην εισαχθεί τίποτα">
+<!ENTITY importFromNothing.accesskey     "Ν">
 
+<!ENTITY importSource.title              "Εισαγωγή ρυθμίσεων και δεδομένων">
 <!ENTITY importItems.title               "Στοιχεία προς εισαγωγή">
+<!ENTITY importItems.label               "Επιλέξτε στοιχεία προς εισαγωγή:">
 
 <!ENTITY selectProfile.title             "Επιλογή προφίλ">
 
