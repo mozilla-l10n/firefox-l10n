@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
+<!ENTITY filterName.label "Όνομα φίλτρου:">
+<!ENTITY filterName.accesskey "ί">
+
+
+
+
+
+
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY markMessageRead.label "Επισήμανση ως αναγνωσμένο">
+<!ENTITY markMessageUnread.label "Επισήμανση ως μη αναγνωσμένο">
+<!ENTITY deleteMessage.label "Διαγραφή μηνύματος">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

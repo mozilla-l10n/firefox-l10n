@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   
+<!ENTITY prefSpelling.title                   "Ορθογραφία">
+<!ENTITY generalSpelling.label                "Γενικά">
+<!ENTITY dontCheckSpelling.label              "Ποτέ">
+<!ENTITY languagePopup.label                  "Γλώσσα:">
+<!ENTITY languagePopup.accessKey              "Γ">
+<!ENTITY moreDictionaries.label               "Λήψη περισσότερων λεξικών&#x2026;">
+<!ENTITY noSpellCheckAvailable.label          "Κανένα διαθέσιμο λεξικό.">
