@@ -7,17 +7,50 @@
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 <!ENTITY  pref.fonts.title                        "Γραμματοσειρές">
 
+<!ENTITY  language.label                          "Γραμματοσειρές για:">
+<!ENTITY  language.accesskey                      "ρ">
 
 
 
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of
      the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Λατινικά">
+<!ENTITY  font.langGroup.japanese                 "Ιαπωνικά">
+<!ENTITY  font.langGroup.trad-chinese             "Παραδοσιακά Κινεζικά (Ταϊβάν)">
+<!ENTITY  font.langGroup.simpl-chinese            "Απλοποιημένα Κινεζικά">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Παραδοσιακά Κινεζικά (Χονγκ Κονγκ)">
+<!ENTITY  font.langGroup.korean                   "Κορεατικά">
+<!ENTITY  font.langGroup.cyrillic                 "Κυριλλικά">
+<!ENTITY  font.langGroup.el                       "Ελληνικά">
+<!ENTITY  font.langGroup.thai                     "Ταϊλανδικά">
+<!ENTITY  font.langGroup.hebrew                   "Εβραϊκά">
+<!ENTITY  font.langGroup.arabic                   "Αραβικά">
+<!ENTITY  font.langGroup.devanagari               "Ντεβανγκάρι">
+<!ENTITY  font.langGroup.tamil                    "Ταμίλ">
+<!ENTITY  font.langGroup.armenian                 "Αρμενικά">
+<!ENTITY  font.langGroup.bengali                  "Μπενγκάλι">
+<!ENTITY  font.langGroup.ethiopic                 "Αιθιοπικά">
+<!ENTITY  font.langGroup.georgian                 "Γεωργιανά">
+<!ENTITY  font.langGroup.khmer                    "Χμερ">
+<!ENTITY  font.langGroup.math                     "Μαθηματικά">
+<!ENTITY  font.langGroup.kannada                  "Κανάντα">
+<!ENTITY  font.langGroup.sinhala                  "Σινχάλα">
+<!ENTITY  font.langGroup.tibetan                  "Θιβετανικά">
+<!ENTITY  font.langGroup.other                    "Άλλα συστήματα γραφής">
 <!-- Minimum font size -->
+<!ENTITY minSize.label                            "Ελάχιστο μέγεθος γραμματοσειράς:">
+<!ENTITY minSize.accesskey                        "χ">
 
 <!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 
 <!-- leaving this stuff in for now -->
