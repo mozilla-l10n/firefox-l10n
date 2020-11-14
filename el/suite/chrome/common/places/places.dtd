@@ -7,6 +7,9 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 
+<!ENTITY file.close.label               "Κλείσιμο">
+<!ENTITY file.close.accesskey           "Κ">
+<!ENTITY cmd.close.key                  "w">
 
 <!ENTITY importBookmarksFromHTML.label     "Εισαγωγή σελιδοδεικτών από HTML…">
 <!ENTITY exportBookmarksToHTML.label       "Εξαγωγή σελιδοδεικτών σε HTML…">

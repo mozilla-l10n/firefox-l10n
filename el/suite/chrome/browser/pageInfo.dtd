@@ -8,6 +8,7 @@
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  openInNewTab.label        "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY  openInNewTab.accesskey    "κ">
 <!ENTITY  openInNewWindow.label     "Άνοιγμα σε νέο παράθυρο">

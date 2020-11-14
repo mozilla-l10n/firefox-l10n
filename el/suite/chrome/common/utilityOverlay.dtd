@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!ENTITY closeCmd.label "Κλείσιμο">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Κ">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
 <!ENTITY printCmd.label "Εκτύπωση…">
 

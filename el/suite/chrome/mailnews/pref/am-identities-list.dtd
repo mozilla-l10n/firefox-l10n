@@ -6,3 +6,5 @@
 <!ENTITY identitiesListEdit.label "Επεξεργασία…">
 <!ENTITY identitiesListDelete.label "Διαγραφή">
 <!ENTITY identitiesListDelete.accesskey "Δ">
+<!ENTITY identitiesListClose.label "Κλείσιμο">
+<!ENTITY identitiesListClose.accesskey "Κ">

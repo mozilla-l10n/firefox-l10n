@@ -14,4 +14,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.removeFeed.label     "Αφαίρεση">
 <!ENTITY button.removeFeed.accesskey "Α">
+<!ENTITY button.importOPML.label     "Εισαγωγή">
+<!ENTITY button.importOPML.accesskey "Ε">
 
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Κλείσιμο">

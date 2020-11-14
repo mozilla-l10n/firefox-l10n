@@ -4,6 +4,10 @@
 
 
 
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Αρχείο">
+<!ENTITY importFromFile.accesskey        "Α">
 
 
 
