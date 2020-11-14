@@ -5,3 +5,8 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Ασφάλεια μηνύματος">
+<!ENTITY status.certificates "Πιστοποιητικά:">
+<!ENTITY view.label "Προβολή">
+<!ENTITY view.accesskey "Π">
+<!ENTITY tree.recipient "Παραλήπτης">
+<!ENTITY tree.status "Κατάσταση">

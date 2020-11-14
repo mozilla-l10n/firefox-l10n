@@ -9,6 +9,7 @@
 <!ENTITY dontCheckSpelling.label              "Ποτέ">
 <!ENTITY multilineCheckSpelling.label         "Σε πλαίσια πολλαπλών γραμμών">
 <!ENTITY alwaysCheckSpelling.label            "Σε όλα τα πλαίσια">
+<!ENTITY spellForMailAndNews.label            "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY checkSpellingBeforeSend.label        "Ορθογραφικός έλεγχος πριν την αποστολή">
 <!ENTITY checkSpellingBeforeSend.accesskey    "Ο">
 <!ENTITY spellCheckInline.label               "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">

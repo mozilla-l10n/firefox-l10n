@@ -4,6 +4,8 @@
 
 
 <!-- Html and Plain Text Domains  -->
+<!ENTITY HTMLdomaintitle.label        "Τομείς HTML">
+<!ENTITY HTMLdomaintitle.accesskey    "M">
 <!ENTITY AddButton.label              "Προσθήκη…">
 <!ENTITY DeleteButton.label           "Διαγραφή">
 
