@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Dikkatli olun
 pane-experimental-search-results-header = { -brand-short-name } deneyleri: dikkatli olun
 pane-experimental-description = Gelişmiş yapılandırma tercihlerini değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
+pane-experimental-reset =
+    .label = Varsayılanları geri yükle
+    .accesskey = V
 help-button-label = { -brand-short-name } Desteği
 addons-button-label = Eklentiler ve Temalar
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 content-blocking-enhanced-tracking-protection = Gelişmiş izlenme koruması
 content-blocking-section-top-level-description = Takipçiler, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takipçilerin ve diğer kötü amaçlı betiklerin çoğunu engeller.
 content-blocking-learn-more = Daha fazla bilgi al
+content-blocking-fpi-incompatibility-warning = First Party Isolation (FPI) özelliğini kullanıyorsunuz. Bu özellik, bazı { -brand-short-name } çerez ayarları geçersiz kılar.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

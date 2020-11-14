@@ -301,6 +301,8 @@ identity-https-only-info-turn-off2 = Sayfa düzgün çalışmazsa bu site için 
 identity-https-only-info-no-upgrade = HTTP bağlantısı yükseltilemedi.
 identity-permissions =
     .value = İzinler
+identity-permissions-storage-access-header = Siteler arası çerezler
+identity-permissions-storage-access-hint = Bu siteler, siz bu sitedeyken siteler diğer sitelerdeki çerezleri ve site verilerini kullanabilir.
 identity-permissions-reload-hint = Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.
 identity-permissions-empty = Bu siteye özel bir izin vermediniz.
 identity-clear-site-data =
@@ -346,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Yer imlerini içe aktar…
-    .tooltiptext = Başka bir tarayıcıdaki yer imlerini { -brand-short-name } tarayıcınıza kopyalayın.
+    .tooltiptext = Başka bir tarayıcıdaki yer imlerini { -brand-short-name } tarayıcısına aktar.
+bookmarks-toolbar-empty-message = Hızlıca erişmek istediğiniz yer imlerinizi yer imleri araç çubuğuna yerleştirebilirsiniz. <a data-l10n-name="manage-bookmarks">Yer imlerini yönet…</a>
 
 ## WebRTC Pop-up notifications
 
