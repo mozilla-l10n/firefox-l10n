@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Skrivit nebeutoc'h, kavit muioc'h: Klaskit war { $engineName } adalek ho parrenn chomlec'h.
 urlbar-search-tips-redirect-2 = Krogit ho klask er varrenn-chomlec'h evit gwelout alioù klask { $engineName } hag ho roll istor merdeiñ.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Dibabit ar verradenn-mañ evit kavout ar pezh a fell deoc'h buanoc’h.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -291,12 +294,15 @@ identity-passive-loaded = Arvarus eo lodennoù eus ar bajennad (skeudennoù, da 
 identity-active-loaded = Diweredekaet ho peus ar gwarez war ar bajenn-mañ.
 identity-weak-encryption = Enrinegañ gwan a vez arveret gant ar bajenn-mañ.
 identity-insecure-login-forms = Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.
+identity-https-only-connection-upgraded = (hizivaet da HTTPS)
+identity-https-only-label = Mod HTTPS hepken
 identity-https-only-dropdown-on =
     .label = Enaouet
 identity-https-only-dropdown-off =
     .label = Lazhet
 identity-https-only-dropdown-off-temporarily =
     .label = Lazhet e-pad nebeud amzer
+identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS-hepken evit al lec’hienn-mañ ma fell deoc’h vefe hizivaet ar c‘hennask gant { -brand-short-name } p'eo posupl.
 identity-permissions =
     .value = Aotreoù
 identity-permissions-reload-hint = Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.
