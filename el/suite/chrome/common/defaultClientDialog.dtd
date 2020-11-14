@@ -5,4 +5,6 @@
 
 <!ENTITY browser.label "Πρόγραμμα περιήγησης">
 <!ENTITY email.label "Email">
+<!ENTITY newsgroups.label "Ομάδες συζήτησης">
+<!ENTITY feeds.label "Ροές">
 

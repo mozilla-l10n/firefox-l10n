@@ -4,7 +4,17 @@
 
 <!ENTITY pref.download.title            "Λήψεις">
 
+<!ENTITY openDM.label                   "Άνοιγμα διαχείρισης λήψεων">
+<!ENTITY openDM.accesskey               "μ">
 
+<!ENTITY saveTo.label                   "Αποθήκευση αρχείων σε">
+<!ENTITY saveTo.accesskey               "θ">
 <!ENTITY chooseDownloadFolder.label     "Επιλογή φακέλου…">
+<!ENTITY chooseDownloadFolder.accesskey "Ε">
 
+<!ENTITY playSound.label                "Αναπαραγωγή ήχου">
+<!ENTITY playSound.accesskey            "Α">
 <!ENTITY browse.label                   "Περιήγηση…">
+<!ENTITY browse.accesskey               "Π">
+<!ENTITY playButton.label               "Αναπαραγωγή">
+<!ENTITY playButton.accesskey           "π">

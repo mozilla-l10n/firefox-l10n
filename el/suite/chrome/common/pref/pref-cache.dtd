@@ -12,6 +12,7 @@
 <!ENTITY clearDiskCache.label            "Απαλοιφή προσωρινής μνήμης">
 <!ENTITY clearDiskCache.accesskey        "Α">
 <!ENTITY chooseDiskCacheFolder.label     "Επιλογή φακέλου…">
+<!ENTITY chooseDiskCacheFolder.accesskey "Ε">
 <!ENTITY checkOncePerSession.label       "Μία φορά ανά συνεδρία">
 <!ENTITY checkEveryTime.label            "Κάθε φορά που βλέπω τη σελίδα">
 <!ENTITY checkNever.label                "Ποτέ">
