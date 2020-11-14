@@ -40,6 +40,8 @@ left instead of right. -->
 <!ENTITY useStyleSheetNone.accesskey "Κ">
 <!ENTITY useStyleSheetPersistentOnly.label "Προεπιλεγμένο στυλ">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "Π">
+<!ENTITY bidiSwitchPageDirectionItem.label "Αλλαγή κατεύθυνσης σελίδας">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "κ">
 <!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
 <!ENTITY pageSourceCmd.accesskey "δ">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -92,6 +94,8 @@ left instead of right. -->
 <!ENTITY cookieAllowImagesCmd.accesskey "Α">
 
 <!ENTITY popupsMessageChangeTitle.label "Τα δικαιώματα αναδυόμενων παραθύρων άλλαξαν">
+<!ENTITY popupsManage.label "Διαχείριση αναδυόμενων παραθύρων">
+<!ENTITY popupsManage.accesskey "Δ">
 
 <!ENTITY cookieCookieManager.label "Διαχείριση cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
