@@ -4,7 +4,14 @@
 
 <!ENTITY  managecerts.caption      "Διαχείριση πιστοποιητικών">
 <!ENTITY  managecerts.button       "Διαχείριση πιστοποιητικών…">
+<!ENTITY  managecerts.accesskey    "Δ">
+<!ENTITY  managedevices.caption    "Διαχείριση συσκευών ασφαλείας">
 <!ENTITY  managedevices.button     "Διαχείριση συσκευών ασφαλείας…">
+<!ENTITY  managedevices.accesskey  "α">
 
+<!ENTITY  ssl.label                "SSL">
 
+<!ENTITY  pref.certs.title         "Πιστοποιητικά">
+<!ENTITY  certs.label              "Πιστοποιητικά">
 
+<!ENTITY validation.ocsp.caption                  "OCSP">

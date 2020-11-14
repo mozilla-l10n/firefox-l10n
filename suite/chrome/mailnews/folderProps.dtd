@@ -5,6 +5,8 @@
 <!ENTITY folderProps.windowtitle.label           "Ιδιότητες">
 
 <!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
+<!ENTITY folderCharsetFallback2.label            "Εφεδρική κωδικοποίηση κειμένου:">
+<!ENTITY folderCharsetFallback2.accesskey        "Ε">
 <!ENTITY folderRebuildSummaryFile2.label         "Επιδιόρθωση φακέλου">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "Ε">
 
@@ -29,6 +31,7 @@
 <!ENTITY folderProps.location.label              "Τοποθεσία:">
 <!ENTITY folderProps.location.accesskey          "Τ">
 
+<!ENTITY folderSharingTab.label                  "Κοινή χρήση">
 <!ENTITY privileges.button.label                 "Δικαιώματα…">
 <!ENTITY privileges.button.accesskey             "Δ">
 <!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα δικαιώματα:">

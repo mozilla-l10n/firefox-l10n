@@ -12,8 +12,24 @@
 <!ENTITY junk.label "Ανεπιθύμητα">
 <!ENTITY notJunk.label "Επιθυμητά">
 
+<!ENTITY lowestPriorityCmd.label "Πολύ χαμηλή">
+<!ENTITY lowPriorityCmd.label "Χαμηλή">
+<!ENTITY normalPriorityCmd.label "Κανονική">
+<!ENTITY highPriorityCmd.label "Υψηλή">
+<!ENTITY highestPriorityCmd.label "Πολύ υψηλή">
 
+<!ENTITY contextDesc.label "Εφαρμογή φίλτρου:">
+<!ENTITY contextIncomingMail.label "Κατά τη λήψη νέων email:">
+<!ENTITY contextIncomingMail.accesskey "Κ">
+<!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
+<!ENTITY contextManual.accesskey "Χ">
+<!ENTITY contextOutgoing.label "Μετά την αποστολή">
+<!ENTITY contextOutgoing.accesskey "Μ">
+<!ENTITY contextArchive.label "Κατά την αρχειοθέτηση">
+<!ENTITY contextArchive.accesskey "α">
 
+<!ENTITY filterActionDesc.label "Εκτέλεση των εξής ενεργειών:">
+<!ENTITY filterActionDesc.accesskey "Ε">
 
 
 <!-- New Style Filter Rule Actions -->
@@ -23,6 +39,7 @@
 <!ENTITY markMessageRead.label "Επισήμανση ως αναγνωσμένο">
 <!ENTITY markMessageUnread.label "Επισήμανση ως μη αναγνωσμένο">
 <!ENTITY markMessageStarred.label "Επισήμανση με σημαία">
+<!ENTITY setPriority.label "Ορισμός προτεραιότητας σε">
 <!ENTITY deleteMessage.label "Διαγραφή μηνύματος">
 
 <!-- LOCALIZATION NOTE

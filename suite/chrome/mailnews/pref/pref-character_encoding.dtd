@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.character.encoding2.title  "Κωδικοποίηση κειμένου">
+<!ENTITY messageDisplay.caption          "Προβολή μηνύματος">
+<!ENTITY viewFallbackCharset2.label      "Εφεδρική κωδικοποίηση κειμένου:">
+<!ENTITY viewFallbackCharset2.accesskey  "Ε">
 
 <!ENTITY composingMessages.caption       "Σύνθεση μηνυμάτων">
 <!ENTITY sendDefaultCharset2.label       "Προεπιλεγμένη κωδικοποίηση κειμένου:">

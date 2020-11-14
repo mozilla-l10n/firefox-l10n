@@ -19,7 +19,10 @@
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
+<!ENTITY maxZoom.label                          "έως">
 <!ENTITY percent.label                          "&#37;">
 
 
+<!ENTITY allowHWAccel.label                     "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
+<!ENTITY allowHWAccel.accesskey                 "ρ">
 
