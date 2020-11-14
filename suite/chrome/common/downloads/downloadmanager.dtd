@@ -13,6 +13,8 @@
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Απαλοιφή λίστας">
+<!ENTITY cmd.clearList.tooltip           "Θα αφαιρεθούν οι επιτυχείς, οι ακυρωμένες και οι αποτυχημένες λήψεις από τη λίστα">
+<!ENTITY cmd.clearList.accesskey         "Α">
 
 <!ENTITY col.name.label                  "Όνομα">
 <!ENTITY col.name.accesskey              "Ό">
@@ -24,13 +26,50 @@
 <!ENTITY col.actionPlay.accesskey        "ύ">
 <!ENTITY col.actionPlay.tooltip          "Παύση/Συνέχιση/Επανάληψη">
 <!ENTITY col.actionStop.label            "Ακύρωση/Αφαίρεση">
+<!ENTITY col.actionStop.accesskey        "Α">
 <!ENTITY col.actionStop.tooltip          "Ακύρωση/Αφαίρεση">
 <!ENTITY col.progress.label              "Πρόοδος">
 <!ENTITY col.progress.accesskey          "Π">
 <!ENTITY col.progress.tooltip            "Πρόοδος">
+<!ENTITY col.timeremaining.label         "Χρόνος που απομένει">
+<!ENTITY col.timeremaining.accesskey     "Χ">
+<!ENTITY col.timeremaining.tooltip       "Χρόνος που απομένει">
+<!ENTITY col.transferred.label           "Μεταφέρθηκαν">
+<!ENTITY col.transferred.accesskey       "Μ">
+<!ENTITY col.transferred.tooltip         "Μεταφέρθηκαν">
+<!ENTITY col.transferrate.label          "Ταχύτητα">
+<!ENTITY col.transferrate.accesskey      "χ">
+<!ENTITY col.transferrate.tooltip        "Ταχύτητα">
+<!ENTITY col.timeelapsed.label           "Χρόνος που έχει παρέλθει">
+<!ENTITY col.timeelapsed.accesskey       "Χ">
+<!ENTITY col.timeelapsed.tooltip         "Χρόνος που έχει παρέλθει">
+<!ENTITY col.starttime.label             "Ώρα έναρξης">
+<!ENTITY col.starttime.accesskey         "έ">
+<!ENTITY col.starttime.tooltip           "Ώρα έναρξης">
+<!ENTITY col.endtime.label               "Ώρα λήξης">
+<!ENTITY col.endtime.accesskey           "ή">
+<!ENTITY col.endtime.tooltip             "Ώρα λήξης">
+<!ENTITY col.progresstext.label          "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.tooltip        "Πρόοδος (&#37;)">
+<!ENTITY col.source.label                "Προέλευση">
+<!ENTITY col.source.accesskey            "ρ">
+<!ENTITY col.source.tooltip              "Προέλευση">
 
+<!ENTITY view.columns.label              "Εμφάνιση στηλών">
+<!ENTITY view.columns.accesskey          "σ">
+<!ENTITY view.sortBy.label               "Ταξινόμηση κατά">
+<!ENTITY view.sortBy.accesskey           "Τ">
 
+<!ENTITY view.unsorted.label             "Χωρίς ταξινόμηση">
+<!ENTITY view.unsorted.accesskey         "Χ">
+<!ENTITY view.sortAscending.label        "Σειρά ταξινόμησης Α > Ω">
+<!ENTITY view.sortAscending.accesskey    "Α">
+<!ENTITY view.sortDescending.label       "Σειρά ταξινόμησης Ω > Α">
+<!ENTITY view.sortDescending.accesskey   "Ω">
 
+<!ENTITY cmd.pause.label                 "Παύση">
+<!ENTITY cmd.pause.accesskey             "Π">
 <!ENTITY cmd.resume.label                "Συνέχιση">
 <!ENTITY cmd.resume.accesskey            "Σ">
 <!ENTITY cmd.retry.label                 "Επανάληψη">
