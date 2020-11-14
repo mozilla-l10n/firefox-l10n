@@ -4,13 +4,18 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!ENTITY addressing.label          "Σύνθεση &amp; διευθυνσιοδότηση">
+<!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY editDirectories.label     "Επεξεργασία καταλόγων…">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 
 <!-- am-addressing.xul -->
 
+<!ENTITY compositionGroupTitle.label          "Σύνθεση">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Σύνταξη μηνυμάτων σε μορφή HTML">
+<!ENTITY useHtml.accesskey                    "Σ">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 
 
