@@ -12,6 +12,8 @@
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoSaveImage.label         "Αποθήκευση στιγμιότυπου ως…">
+<!ENTITY spellCheckEnable.label         "Ορθογραφικός έλεγχος">
+<!ENTITY spellCheckEnable.accesskey     "Ο">
 <!ENTITY spellAddDictionaries.label     "Λήψη περισσότερων λεξικών…">
 
 

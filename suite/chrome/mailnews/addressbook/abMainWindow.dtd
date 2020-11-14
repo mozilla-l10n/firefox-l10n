@@ -9,6 +9,8 @@
 <!ENTITY printContactViewCmd.label                      "Εκτύπωση επαφής…">
 
 <!-- Edit Menu -->
+<!ENTITY deleteContactCmd.label                         "Διαγραφή επαφής">
+<!ENTITY deleteListCmd.label                            "Διαγραφή λίστας">
 <!ENTITY propertiesCmd.label                            "Ιδιότητες…">
 
 <!-- View Menu -->
@@ -20,6 +22,8 @@
 <!ENTITY exportCmd.label                                "Εξαγωγή…">
 
 <!-- Toolbar and Popup items -->
+<!ENTITY deleteItemButton.label                         "Διαγραφή">
+<!ENTITY deleteItemButton.accesskey                     "Δ">
 
 <!-- Tooltips -->
 

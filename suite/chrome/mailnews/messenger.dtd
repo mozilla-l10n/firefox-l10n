@@ -43,6 +43,10 @@
 <!ENTITY synchronizeOfflineCmd.label "Λήψη/Συγχρονισμός τώρα…">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Διαγραφή μηνύματος">
+<!ENTITY deleteMsgCmd.accesskey "Δ">
+<!ENTITY deleteFolderCmd.label "Διαγραφή φακέλου">
+<!ENTITY deleteFolderCmd.accesskey "Δ">
 <!ENTITY folderPropsCmd.label "Ιδιότητες…">
 <!ENTITY folderPropsFolderCmd.label "Ιδιότητες φακέλου…">
 
@@ -80,6 +84,7 @@
 <!-- Folder Pane -->
 
 <!-- Toolbar items -->
+<!ENTITY deleteButton.label "Διαγραφή">
 <!ENTITY searchButton.title "Σύνθετη αναζήτηση">
 
 <!-- Tooltips -->

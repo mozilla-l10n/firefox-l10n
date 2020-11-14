@@ -4,3 +4,5 @@
 
 <!ENTITY identitiesListAdd.label  "Προσθήκη…">
 <!ENTITY identitiesListEdit.label "Επεξεργασία…">
+<!ENTITY identitiesListDelete.label "Διαγραφή">
+<!ENTITY identitiesListDelete.accesskey "Δ">

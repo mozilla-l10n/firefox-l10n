@@ -5,6 +5,7 @@
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY AddButton.label              "Προσθήκη…">
+<!ENTITY DeleteButton.label           "Διαγραφή">
 
 <!-- Add Domain Name -->
 

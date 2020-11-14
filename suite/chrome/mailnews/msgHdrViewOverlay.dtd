@@ -8,4 +8,8 @@
 
 
 <!ENTITY saveAsAttachmentCmd.label         "Αποθήκευση ως…">
+<!ENTITY deleteAttachmentCmd.label         "Διαγραφή">
+<!ENTITY deleteAttachmentCmd.accesskey     "φ">
 <!ENTITY saveAllAttachmentsCmd.label       "Αποθήκευση όλων…">
+<!ENTITY deleteAllAttachmentsCmd.label     "Διαγραφή όλων…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "γ">

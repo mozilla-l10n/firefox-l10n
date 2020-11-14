@@ -21,6 +21,8 @@
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY deleteCmd.label                  "Διαγραφή">
+<!ENTITY deleteCmd.accesskey              "Δ">
 <!ENTITY preferencesCmd.label             "Προτιμήσεις…">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd

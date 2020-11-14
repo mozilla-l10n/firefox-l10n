@@ -6,6 +6,8 @@
 <!ENTITY searchHeading.accesskey     "ζ">
 <!ENTITY openButton.label            "Άνοιγμα">
 <!ENTITY openButton.accesskey        "Ά">
+<!ENTITY deleteButton.label          "Διαγραφή">
+<!ENTITY deleteButton.accesskey      "Δ">
 <!ENTITY searchDialogTitle.label     "Αναζήτηση μηνυμάτων">
 <!ENTITY goToFolderButton.label      "Άνοιγμα φακέλου μηνυμάτων">
 
