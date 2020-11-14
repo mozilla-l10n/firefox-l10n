@@ -6,10 +6,12 @@
 
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
 
+<!ENTITY pref.search.title                "Διαδικτυακή αναζήτηση">
 <!ENTITY legendHeader                     "Προεπιλεγμένη μηχανή αναζήτησης">
 <!ENTITY defaultSearchEngine.label        "Αναζήτηση με:">
 <!ENTITY defaultSearchEngine.accesskey    "Α">
 
+<!ENTITY engineManager.label              "Διαχείριση μηχανών αναζήτησης…">
 
 <!ENTITY searchResults.label              "Αποτελέσματα αναζήτησης">
 

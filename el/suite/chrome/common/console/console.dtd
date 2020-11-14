@@ -28,6 +28,10 @@
 <!ENTITY copyCmd.label         "Αντιγραφή">
 <!ENTITY copyCmd.accesskey     "Α">
 <!ENTITY copyCmd.commandkey    "C">
+<!ENTITY sortFirst.label       "Σειρά ταξινόμησης: Πρώτο > Τελευταίο">
+<!ENTITY sortFirst.accesskey   "Π">
+<!ENTITY sortLast.label        "Σειρά ταξινόμησης: Τελευταίο > Πρώτο">
+<!ENTITY sortLast.accesskey    "Τ">
 <!ENTITY closeCmd.commandkey   "w">
 <!ENTITY focus1.commandkey     "l">
 <!ENTITY focus2.commandkey     "d">

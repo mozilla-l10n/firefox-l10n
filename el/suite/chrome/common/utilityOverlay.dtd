@@ -15,6 +15,9 @@
 <!ENTITY newBlankPageCmd.label            "Σελίδα σύνθεσης">
 <!ENTITY newBlankPageCmd.accesskey        "Σ">
 <!ENTITY newBlankPageCmd.key              "n">
+<!ENTITY newNavigatorCmd.label "Παράθυρο προγράμματος περιήγησης">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "Π">
 <!ENTITY newPrivateWindowCmd.label "Ιδιωτικό παράθυρο">
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "π">
@@ -86,10 +89,13 @@
 <!ENTITY selectAllCmd.label               "Επιλογή όλων">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "ό">
+<!ENTITY clearHistoryCmd.label            "Απαλοιφή ιστορικού αναζήτησης">
+<!ENTITY clearHistoryCmd.accesskey        "ι">
 <!ENTITY showSuggestionsCmd.label         "Εμφάνιση προτάσεων">
 <!ENTITY showSuggestionsCmd.accesskey     "Ε">
 <!ENTITY preferencesCmd.label             "Προτιμήσεις…">
 <!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "μ">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -97,6 +103,7 @@
 <!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findReplaceCmdMac.key "F">
+<!ENTITY findReplaceCmd.accesskey "κ">
 <!ENTITY findAgainCmd.label "Εύρεση ξανά">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "ξ">
@@ -145,6 +152,8 @@
 <!ENTITY aboutCommPluginsCmd.accesskey      "α">
 
 
+<!ENTITY proxy.label                              "Ρύθμιση διακομιστή μεσολάβησης…">
+<!ENTITY proxy.accesskey                          "Ρ">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Αλλαγή κατεύθυνσης κειμένου">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "γ">
