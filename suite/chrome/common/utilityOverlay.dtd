@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY openHelpCmdMac.label             "Βοήθεια &brandShortName;">
+<!ENTITY openHelpCmdMac.accesskey         "Β">
+<!ENTITY openHelpCmdMac.key               "?">
+
+
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
+     findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
+     and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+
+
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
+<!ENTITY openHelpCmd.key                  "VK_F1">
+
+
+
+
+
+
+
+
+<!-- Popup Blocked notification menu -->
+
+

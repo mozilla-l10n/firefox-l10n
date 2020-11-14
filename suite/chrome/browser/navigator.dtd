@@ -1,0 +1,55 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY mainWindow.titleprivate "Ιδιωτική περιήγηση">
+
+<!ENTITY editPageCmd.label "Επεξεργασία σελίδας">
+<!ENTITY editPageCmd.accesskey "Ε">
+<!ENTITY editPageCmd.commandkey "e">
+
+<!ENTITY navbarCmd.label "Γραμμή πλοήγησης">
+<!ENTITY navbarCmd.accesskey "π">
+<!ENTITY bookmarksToolbarCmd.label     "Γραμμή σελιδοδεικτών">
+<!ENTITY bookmarksToolbarCmd.accesskey "δ">
+
+<!ENTITY closeWindow.label "Κλείσιμο παραθύρου">
+<!ENTITY closeWindow.accesskey "π">
+
+<!ENTITY minimizeButton.tooltip       "Ελαχιστοποίηση">
+<!ENTITY restoreButton.tooltip        "Επαναφορά">
+
+
+<!ENTITY menuBar.tooltip                  "Γραμμή μενού">
+<!ENTITY bookmarksToolbar.tooltip         "Γραμμή σελιδοδεικτών">
+<!ENTITY navigationToolbar.tooltip        "Γραμμή πλοήγησης">
+
+<!ENTITY editBookmark.done.label "Τέλος">
+<!ENTITY editBookmark.cancel.label "Ακύρωση">
+
+<!-- Toolbar items --> 
+
+<!ENTITY locationBar.title            "Τοποθεσία">
+
+<!ENTITY searchItem.title             "Αναζήτηση">
+
+<!ENTITY bookmarksButton.label        "Σελιδοδείκτες">
+<!ENTITY bookmarksButton.tooltip      "Λίστα σελιδοδεικτών">
+<!ENTITY homeButton.label             "Αρχική">
+
+<!-- Statusbar -->
+
+
+
