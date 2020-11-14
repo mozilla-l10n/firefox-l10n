@@ -350,9 +350,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Імпартаваць закладкі…
-    .tooltiptext = Капіраваць закладкі з іншага браўзера ў { -brand-short-name }.
+    .tooltiptext = Імпартаваць закладкі з іншага браўзера ў { -brand-short-name }.
+bookmarks-toolbar-empty-message = Для хуткага доступу размясціце закладкі тут, на паліцы закладак. <a data-l10n-name="manage-bookmarks">Кіраванне закладкамі…</a>
 
 ## WebRTC Pop-up notifications
 
