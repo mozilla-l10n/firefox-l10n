@@ -79,7 +79,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = 自由上网，拒绝跟踪
-cfr-protections-panel-body = 你的数据只要由你掌握。{ -brand-short-name } 保护您免受众多常见跟踪器对您在线活动的窥视。
+cfr-protections-panel-body = 你的数据只由你掌握。{ -brand-short-name } 可保护您免受众多常见跟踪器对您在线活动的窥视。
 cfr-protections-panel-link-text = 详细了解
 
 ## What's New toolbar button and panel
@@ -253,8 +253,6 @@ cfr-doorhanger-fission-primary-button = 好，知道了
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = 详细了解
     .accesskey = L
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } 已为您启用 Fission（网站隔离）实验特性。通过将每个网站隔离到单独的进程中，为您和您访问的网站提供额外的保护。
 
 ## What's new: Cookies message
 
