@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas para desarrolladores: Depuración de Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Habilita el soporte experimental para Service Workers en el panel del Depurador. Esta función puede lentificar las Herramientas de desarrollo y aumentar el consumo de memoria.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Gráficos: Zoom de pellizco suave
-experimental-features-graphics-desktop-zooming-description = Habilitar la compatibilidad para un zoom de pellizco suave en pantallas táctiles y almohadillas táctiles de precisión.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Alternar sonido WebRTC globalmente
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Habilitar Warp, un proyecto para mej
 experimental-features-fission =
     .label = Fisión (aislamiento del sitio)
 experimental-features-fission-description = La fisión (aislamiento del sitio) es una función experimental en { -brand-short-name } para proporcionar una capa adicional de defensa contra errores de seguridad. Al aislar cada sitio en un proceso separado, Fission dificulta que los sitios web maliciosos accedan a la información de otras páginas que está visitando. Este es un cambio arquitectónico muy importante en { -brand-short-name } y le agradecemos que pruebe e informe cualquier problema que pueda encontrar. Para obtener más detalles, consulte <a data-l10n-name="wiki"> la wiki </a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Ayuda para Picture-in-Picture
+experimental-features-multi-pip-description = Ayuda experimental para permitir que se abran varias ventanas Picture-in-Picture al mismo tiempo.
