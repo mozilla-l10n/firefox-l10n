@@ -22,9 +22,20 @@
 <!ENTITY codeEval.accesskey   "ώ">
 <!ENTITY evaluate.label       "Εκτίμηση">
 <!ENTITY evaluate.accesskey   "κ">
+<!ENTITY filter2.label        "Φίλτρο:">
+<!ENTITY filter2.accesskey    "ί">
 
+<!ENTITY copyCmd.label         "Αντιγραφή">
+<!ENTITY copyCmd.accesskey     "Α">
 <!ENTITY copyCmd.commandkey    "C">
 <!ENTITY closeCmd.commandkey   "w">
 <!ENTITY focus1.commandkey     "l">
 <!ENTITY focus2.commandkey     "d">
 
+<!ENTITY menuBar.tooltip       "Γραμμή μενού">
+<!ENTITY modeToolbar.tooltip   "Γραμμή λειτουργίας">
+<!ENTITY toolbarsCmd.label     "Εμφάνιση/Απόκρυψη">
+<!ENTITY toolbarsCmd.accesskey "ν">
+<!ENTITY toolbarMode.label     "Λειτουργία">
+<!ENTITY toolbarMode.accesskey "Λ">
+<!ENTITY toolbarEval.accesskey "J">

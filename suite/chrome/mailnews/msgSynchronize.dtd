@@ -4,4 +4,13 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
+<!ENTITY MsgSynchronize.label "Λήψη και συγχρονισμός μηνυμάτων">
+<!ENTITY syncTypeMail.label "Μηνύματα email">
+<!ENTITY syncTypeMail.accesskey "Μ">
+<!ENTITY syncTypeNews.label "Μηνύματα ομάδων συζήτησης">
+<!ENTITY syncTypeNews.accesskey "ο">
+<!ENTITY sendMessage.label "Αποστολή μη απεσταλμένων μηνυμάτων">
+<!ENTITY sendMessage.accesskey "Α">
 <!ENTITY selectButton.label "Επιλογή…">
+<!ENTITY MsgSelectInd.label "Λήψη">
+<!ENTITY MsgSelectItems.label "Φάκελοι και ομάδες συζήτησης">

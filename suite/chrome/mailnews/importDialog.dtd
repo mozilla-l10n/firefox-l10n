@@ -5,11 +5,32 @@
 <!ENTITY importDialog.windowTitle "Εισαγωγή">
 <!ENTITY importAll.label          "Εισαγωγή όλων">
 <!ENTITY importAll.accesskey      "ό">
+<!ENTITY importMail.label         "Αλληλογραφία">
+<!ENTITY importMail.accesskey     "Α">
+<!ENTITY importFeeds.label        "Συνδρομές ροών">
+<!ENTITY importFeeds.accesskey    "ρ">
+<!ENTITY importAddressbook.label  "Ευρετήρια διευθύνσεων">
+<!ENTITY importAddressbook.accesskey "Ε">
+<!ENTITY importSettings.label     "Ρυθμίσεις">
+<!ENTITY importSettings.accesskey "Ρ">
+<!ENTITY importFilters.label      "Φίλτρα">
+<!ENTITY importFilters.accesskey  "Φ">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "Βοηθός εισαγωγής του &brandShortName;">
+<!ENTITY importShortDesc.label    "Εισαγωγή αλληλογραφίας, ευρετηρίων διευθύνσεων και φίλτρων από άλλα προγράμματα">
 
 
+<!ENTITY acctName.label           "Όνομα:">
+<!ENTITY acctName.accesskey       "Ό">
+
+<!ENTITY back.label               "&lt; Πίσω">
+<!ENTITY forward.label            "Επόμενο &gt;">
+<!ENTITY finish.label             "Τέλος">
+<!ENTITY cancel.label             "Ακύρωση">
 
 
-
-
-
+<!ENTITY title.label              "Τίτλος">
 <!ENTITY processing.label         "Εισαγωγή…">
