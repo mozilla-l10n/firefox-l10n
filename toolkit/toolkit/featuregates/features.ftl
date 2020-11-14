@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = 在 <a data-l10n-name="m
 experimental-features-css-constructable-stylesheets =
     .label = CSS：可构造样式表
 experimental-features-css-constructable-stylesheets-description = 在 <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> 接口加入构造函数，以及其他多项相关修改，让您可以直接新建样式表，而无需将其添加到 HTML 中。此特性可让您更容易地创建用于 <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> 的可重用样式表。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1520690</a>。
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = { -brand-short-name } 对于 Media Session API 的整个实现目前尚处于实验阶段。此 API 用于自定义媒体相关通知的处理方式、管理用于呈现用户播放界面的事件与数据、以及获取媒体文件的元数据。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1112032</a>。
 experimental-features-devtools-color-scheme-simulation =
     .label = 开发者工具：配色方案模拟
 experimental-features-devtools-color-scheme-simulation-description = 添加 <a data-l10n-name="mdn-preferscolorscheme">@prefers color scheme</a> 媒体查询测试选项，模拟不同的配色方案。该特性可让您的样式表根据用户对界面的亮 ∕ 暗偏好作出响应。启用后，无需调整浏览器或操作系统（若浏览器遵循系统级颜色模式）的设置，便可测试代码。欲详细了解，请参阅 <a data-l10n-name="bugzilla1">Bug 1550804</a> 和 <a data-l10n-name="bugzilla2">Bug 1137699</a>。
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = 开发者工具：Service Worker 调试
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = 在“调试器”面板中启用对 Service Worker 的实验性支持。此功能可能会拖慢开发者工具的响应速度，并增加内存消耗。
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = 图形：平滑手势缩放
-experimental-features-graphics-desktop-zooming-description = 启用对触摸屏和精密触控板上平滑手势缩放的支持。
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC 全局音视频输入开关
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = 启用 Warp，此项目旨在改善 
 experimental-features-fission =
     .label = Fission（网站隔离）
 experimental-features-fission-description = Fission（网站隔离）是 { -brand-short-name } 中的实验特性，可针对安全漏洞提供额外的保护。通过将每个网站隔离到单独的进程中，Fission 能够有效防止恶意网站从您正在访问的其他页面获取信息。这是 { -brand-short-name } 的一项重大架构变更，我们非常欢迎您可以测试并报告任何可能遇到的问题。欲详细了解，请参阅 <a data-l10n-name="wiki">Wiki</a>。
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = 画中画支持多开
+experimental-features-multi-pip-description = 允许同时打开多个画中画窗口的实验性支持。
