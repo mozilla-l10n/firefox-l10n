@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY progress.title                  "Λήψη σε εξέλιξη…">
-<!ENTITY cmd.open.label                  "Άνοιγμα">
-<!ENTITY cmd.open.accesskey              "Ά">
+<!ENTITY sidebar.loading.label          "Φόρτωση…">
+
+<!-- LOCALIZATION NOTE (showHideSidebarCmd.key): This is only used on the
+     mac platform, other platforms use VK_F9. -->
+
+
+

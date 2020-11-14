@@ -5,6 +5,8 @@
 <!-- Title -->
 
 <!-- Buttons -->
+<!ENTITY newButton.label                     "Νέο…">
+<!ENTITY editButton.label                    "Επεξεργασία…">
 <!ENTITY removeButton.label                  "Αφαίρεση">
 <!ENTITY removeButton.accesskey              "Α">
 

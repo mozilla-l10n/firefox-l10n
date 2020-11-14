@@ -67,6 +67,7 @@
 
 
 <!-- Message Menu -->
+<!ENTITY tagCustomize.label "Προσαρμογή…">
 
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων…">
@@ -74,6 +75,7 @@
 <!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey "θ">
+<!ENTITY importCmd.label "Εισαγωγή…">
 
 <!-- Folder Pane -->
 
@@ -88,6 +90,7 @@
 <!-- Statusbar -->
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextSaveAs.label "Αποθήκευση ως…">
 <!ENTITY contextPrint.label "Εκτύπωση…">
 
 <!-- Folder Pane Context Menu -->
@@ -97,6 +100,8 @@
 <!ENTITY folderContextRemove.accesskey "Δ">
 <!ENTITY folderContextSearchMessages.label "Αναζήτηση μηνυμάτων…">
 <!ENTITY folderContextSearchMessages.accesskey "Α">
+<!ENTITY folderContextProperties.label "Ιδιότητες…">
+<!ENTITY folderContextSettings.label "Ρυθμίσεις…">
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">

@@ -14,6 +14,7 @@
 <!ENTITY cmd.remove.accesskey            "φ">
 <!ENTITY cmd.open.label                  "Άνοιγμα">
 <!ENTITY cmd.open.accesskey              "Ά">
+<!ENTITY cmd.properties.label            "Ιδιότητες…">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->

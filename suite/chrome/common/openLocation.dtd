@@ -7,6 +7,7 @@
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->
+<!ENTITY chooseFile.label "Επιλογή αρχείου…">
 <!ENTITY open.label "Άνοιγμα">
 <!ENTITY openWhere.label "Άνοιγμα σε:">
 <!ENTITY openWhere.accesskey "Ά">

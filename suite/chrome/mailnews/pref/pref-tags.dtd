@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.tags.title            "Ετικέτες">
+<!ENTITY pref.tags.caption          "Προσαρμογή ετικετών">
+<!ENTITY tagColumn.label            "Ετικέτα">
+<!ENTITY colorColumn.label          "Χρώμα">
+<!ENTITY addTagButton.label         "Προσθήκη">
+<!ENTITY addTagButton.accesskey     "Π">
+<!ENTITY deleteTagButton.label      "Διαγραφή">
+<!ENTITY deleteTagButton.accesskey  "Δ">
+<!ENTITY restoreButton.label        "Επαναφορά προεπιλογών">
+<!ENTITY restoreButton.accesskey    "ν">

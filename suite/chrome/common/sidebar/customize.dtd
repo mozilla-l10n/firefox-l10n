@@ -7,5 +7,7 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 
+<!ENTITY sidebar.customize.customize.label      "Προσαρμογή καρτέλας…">
 <!ENTITY sidebar.customize.remove.label         "Αφαίρεση">
 <!ENTITY sidebar.customize.remove.accesskey     "Α">
+<!ENTITY sidebar.customize.preview.label        "Προεπισκόπηση…">

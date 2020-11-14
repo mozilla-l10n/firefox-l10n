@@ -5,7 +5,10 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
 
+<!ENTITY importBookmarksFromHTML.label     "Εισαγωγή σελιδοδεικτών από HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Εξαγωγή σελιδοδεικτών σε HTML…">
 
+<!ENTITY cmd.restoreFromFile.label      "Επιλογή αρχείου…">
 
 
 <!ENTITY cmd.open_tab.label              "Άνοιγμα σε νέα καρτέλα">
@@ -15,6 +18,8 @@
 
 
 
+<!ENTITY cmd.new_bookmark.label            "Νέος σελιδοδείκτης…">
+<!ENTITY cmd.new_folder.label              "Νέος φάκελος…">
 
 
 
