@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Könyvjelzők importálása…
-    .tooltiptext = Könyvjelzők másolása egy másik böngészőből a { -brand-short-name }ba.
+    .tooltiptext = Könyvjelzők importálása egy másik böngészőből a { -brand-short-name }ba…
+bookmarks-toolbar-empty-message = A gyors eléréshez a könyvjelzők ide helyezhetők, a könyvjelzők eszköztárra. <a data-l10n-name="manage-bookmarks">Könyvjelzők kezelése…</a>
 
 ## WebRTC Pop-up notifications
 
