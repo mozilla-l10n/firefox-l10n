@@ -9,6 +9,7 @@
 <!ENTITY devToolsCmd.keytext             "F12">
 
 <!ENTITY devtoolsConnect.label           "Σύνδεση…">
+<!ENTITY devtoolsConnect.accesskey       "ε">
 
 <!ENTITY browserConsoleCmd.label         "Κονσόλα προγρ. περιήγησης">
 <!ENTITY browserConsoleCmd.commandkey    "Ζ">

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
+<!ENTITY pref.receipts.title          "Αποδεικτικά ανάγνωσης">
 <!ENTITY askMe.label                  "Ερώτηση">
 <!ENTITY alwaysSend.label             "Πάντα αποστολή">
 <!ENTITY neverSend.label              "Ποτέ αποστολή">

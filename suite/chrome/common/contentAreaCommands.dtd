@@ -7,6 +7,8 @@
 <!ENTITY openLinkCmdInTab.accesskey   "κ">
 <!ENTITY openLinkCmd.label            "Άνοιγμα συνδέσμου σε νέο παράθυρο">
 <!ENTITY openLinkCmd.accesskey        "ν">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Άνοιγμα συνδέσμου σε ιδιωτικό παράθυρο">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "δ">
 <!ENTITY openLinkInWindowCmd.label    "Άνοιγμα">
 <!ENTITY openLinkInWindowCmd.accesskey "ν">
 <!ENTITY goBackCmd.label              "Πίσω">

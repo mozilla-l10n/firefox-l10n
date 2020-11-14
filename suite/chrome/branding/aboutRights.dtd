@@ -47,6 +47,7 @@
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση:">
 <!ENTITY rights.safebrowsing-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
+<!ENTITY rights.safebrowsing-term4 "Η ασφαλής περιήγηση είναι πλέον ανενεργή">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-term1 "Άνοιγμα προτιμήσεων εφαρμογής">

@@ -34,6 +34,12 @@ left instead of right. -->
 <!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
 <!ENTITY fullScreenCmd.accesskey "Π">
 
+<!ENTITY useStyleSheetMenu.label "Χρήση στυλ">
+<!ENTITY useStyleSheetMenu.accesskey "Χ">
+<!ENTITY useStyleSheetNone.label "Κανένα">
+<!ENTITY useStyleSheetNone.accesskey "Κ">
+<!ENTITY useStyleSheetPersistentOnly.label "Προεπιλεγμένο στυλ">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "Π">
 <!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
 <!ENTITY pageSourceCmd.accesskey "δ">
 <!ENTITY pageSourceCmd.commandkey "u">
