@@ -5,6 +5,10 @@
 <!ENTITY pref.viewing.messages.title      "Προβολή μηνύματος">
 <!ENTITY style.label                      "Στυλ:">
 <!ENTITY style.accesskey                  "Σ">
+<!ENTITY regular.label                    "Κανονικά">
+<!ENTITY bold.label                       "Έντονα">
+<!ENTITY italic.label                     "Πλάγια">
+<!ENTITY boldItalic.label                 "Έντονα πλάγια">
 <!ENTITY size.label                       "Μέγεθος:">
 <!ENTITY size.accesskey                   "θ">
 <!ENTITY bigger.label                     "Μεγαλύτερο">
