@@ -5,5 +5,7 @@
 <!ENTITY  pref.history.title                "Ιστορικό">
 
 <!ENTITY  pref.history.caption              "Ιστορικό περιήγησης">
+<!ENTITY  clearHistory.label                "Εκκαθάριση ιστορικού">
+<!ENTITY  clearHistory.accesskey            "σ">
 
 <!ENTITY  formfillDays.label                "ημέρες">

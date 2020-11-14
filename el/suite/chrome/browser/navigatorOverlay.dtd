@@ -75,10 +75,25 @@ left instead of right. -->
 <!ENTITY translateMenu.label "Μετάφραση σελίδας">
 <!ENTITY translateMenu.accesskey "Μ">
 
+<!ENTITY cookieBlockCookiesCmd.label "Φραγή cookies από την ιστοσελίδα">
+<!ENTITY cookieBlockCookiesCmd.accesskey "Φ">
+
+<!ENTITY cookieImageMessageTitle.label "Τα δικαιώματα εικόνων άλλαξαν">
+<!ENTITY cookieDisplayImagesCmd.label "Διαχείριση δικαιωμάτων εικόνων">
+<!ENTITY cookieDisplayImagesCmd.accesskey "Δ">
+<!ENTITY cookieAllowImagesCmd.label "Αποδοχή εικόνων από την ιστοσελίδα">
+<!ENTITY cookieAllowImagesCmd.accesskey "Α">
 
 
+<!ENTITY cookieCookieManager.label "Διαχείριση cookies">
+<!ENTITY cookieCookieManager.accesskey "c">
+<!ENTITY cookieImageManager.label "Διαχείριση εικόνων">
+<!ENTITY cookieImageManager.accesskey "ε">
+<!ENTITY popupsManager.label "Διαχείριση αναδυόμενων παραθύρων">
+<!ENTITY popupsManager.accesskey "χ">
 
-
+<!ENTITY clearPrivateDataCmd.label "Εκκαθάριση ιδιωτικών δεδομένων…">
+<!ENTITY clearPrivateDataCmd.accesskey "κ">
 
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY fullScreenCmd.commandKey "f">
