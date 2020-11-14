@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Globalne zdarzenie <a da
 experimental-features-css-constructable-stylesheets =
     .label = CSS: arkusze stylów za pomocą konstruktora
 experimental-features-css-constructable-stylesheets-description = Dodanie konstruktora do interfejsu <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, a także szereg powiązanych zmian umożliwia bezpośrednie tworzenie nowych arkuszy stylów bez konieczności dodawania arkusza do kodu HTML. Znacznie ułatwia to tworzenie arkuszy stylów wielokrotnego użytku do użycia za pomocą <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. <a data-l10n-name="bugzilla">Zgłoszenie 1520690</a> zawiera więcej informacji.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = API internetowe: API sesji multimedialnej
-experimental-features-media-session-api-description = Cała implementacja API sesji multimedialnej („Media Session API”) programu { -brand-short-name } jest obecnie eksperymentalna. To API jest używane do regulowania obsługi powiadomień związanych z multimediami, zarządzania zdarzeniami i danymi przydatnymi do wyświetlania interfejsu użytkownika do zarządzania odtwarzaniem multimediów oraz uzyskiwania metadanych plików multimedialnych. <a data-l10n-name="bugzilla">Zgłoszenie 1112032</a> zawiera więcej informacji.
 experimental-features-devtools-color-scheme-simulation =
     .label = Narzędzia dla programistów: symulacja schematu kolorów
 experimental-features-devtools-color-scheme-simulation-description = Dodaje opcję symulowania różnych schematów kolorów, umożliwiając testowanie zapytań <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Użycie tego zapytania umożliwia arkuszowi stylów reagowanie na to, czy użytkownik preferuje jasny lub ciemny interfejs. Ta funkcja umożliwia testowanie kodu bez konieczności zmiany ustawień w przeglądarce (lub systemie operacyjnym, jeśli przeglądarka używa systemowego ustawienia schematu kolorów). Zgłoszenia <a data-l10n-name="bugzilla1">1550804</a> i <a data-l10n-name="bugzilla2">1137699</a> zawierają więcej informacji.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Narzędzia dla programistów: debugowanie wątków usługowych
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Włącza eksperymentalną obsługę wątków usługowych w panelu debugera. Ta funkcja może spowolnić narzędzia dla programistów i zwiększyć zużycie pamięci.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafika: płynne powiększanie gestem
-experimental-features-graphics-desktop-zooming-description = Włącza obsługę płynnego powiększania gestem na ekranach dotykowych i precyzyjnych panelach dotykowych.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Przełączniki globalnego wyciszania WebRTC
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = Włącza Warp, projekt mający na ce
 experimental-features-fission =
     .label = Fission (izolacja witryn)
 experimental-features-fission-description = Fission (izolacja witryn) to eksperymentalna funkcja programu { -brand-short-name }, zapewniająca dodatkową warstwę obrony przed błędami zabezpieczeń. Izolując każdą witrynę w oddzielnym procesie, Fission utrudnia złośliwym witrynom dostęp do informacji z pozostałych odwiedzanych stron. To duża zmiana architektury programu { -brand-short-name } i serdecznie dziękujemy za testowanie i zgłaszanie napotkanych błędów. <a data-l10n-name="wiki">Strona wiki</a> zawiera więcej informacji.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Obsługa wielu okien „Obraz w obrazie”
+experimental-features-multi-pip-description = Eksperymentalna obsługa otwierania wielu okien „Obraz w obrazie” jednocześnie.
