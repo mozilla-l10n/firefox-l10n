@@ -4,9 +4,15 @@
 
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+<!ENTITY messengerCmd.label                             "Αλληλογραφία &amp; ομάδες συζήτησης">
+<!ENTITY messengerCmd.accesskey                         "ζ">
 <!ENTITY messengerCmd.commandkey                        "2">
+<!ENTITY addressBookCmd.label                           "Ευρετήριο διευθύνσεων">
+<!ENTITY addressBookCmd.accesskey                       "ρ">
 <!ENTITY addressBookCmd.commandkey                      "5">
 
+<!ENTITY taskMessenger.tooltip  "Αλληλογραφία &amp; ομάδες συζήτησης">
+<!ENTITY taskAddressBook.tooltip  "Ευρετήριο διευθύνσεων">
 
 <!-- searchAddressesCmd is also used by addressbook -->
 <!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων…">

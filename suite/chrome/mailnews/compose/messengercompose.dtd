@@ -51,28 +51,81 @@
 <!ENTITY editRewrapCmd.label "Aναδίπλωση">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "δ">
+<!ENTITY accountManagerCmd.label "Ρυθμίσεις λογαριασμού αλληλογραφίας &amp; ομάδων συζήτησης…">
+<!ENTITY accountManagerCmd.accesskey "θ">
 
 <!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "Γραμμή αλληλογραφίας">
+<!ENTITY showComposeToolbarCmd.accesskey "λ">
+<!ENTITY showFormatToolbarCmd.label "Γραμμή μορφοποίησης">
+<!ENTITY showFormatToolbarCmd.accesskey "Γ">
 
 <!-- Format menu items -->
+<!ENTITY formatMenu.label "Μορφή">
+<!ENTITY formatMenu.accesskey "ο">
 
 <!-- Options menu items -->
+<!ENTITY optionsMenu.label "Επιλογές">
+<!ENTITY optionsMenu.accesskey "λ">
 
 <!ENTITY quoteCmd.label "Παράθεση μηνύματος">
+<!ENTITY quoteCmd.accesskey "Π">
 <!ENTITY selectAddressCmd.label "Επιλογή διευθύνσεων…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "δ">
 
+<!ENTITY priorityMenu.label "Προτεραιότητα">
+<!ENTITY priorityMenu.accesskey "ρ">
+<!ENTITY lowestPriorityCmd.label "Πολύ χαμηλή">
+<!ENTITY lowestPriorityCmd.accesskey "λ">
+<!ENTITY lowPriorityCmd.label "Χαμηλή">
+<!ENTITY lowPriorityCmd.accesskey "μ">
+<!ENTITY normalPriorityCmd.label "Κανονική">
+<!ENTITY normalPriorityCmd.accesskey "ν">
+<!ENTITY highPriorityCmd.label "Υψηλή">
+<!ENTITY highPriorityCmd.accesskey "η">
+<!ENTITY highestPriorityCmd.label "Πολύ υψηλή">
+<!ENTITY highestPriorityCmd.accesskey "Π">
 
+<!ENTITY returnReceiptMenu.label "Αποδεικτικό ανάγνωσης">
+<!ENTITY returnReceiptMenu.accesskey "δ">
+<!ENTITY dsnMenu.label "Ειδοποίηση κατάστασης παράδοσης">
+<!ENTITY dsnMenu.accesskey "Ε">
 
+<!ENTITY outputFormatMenu.label "Μορφοποίηση">
+<!ENTITY outputFormatMenu.accesskey  "φ">
+<!ENTITY autoFormatCmd.label "Αυτόματος εντοπισμός">
+<!ENTITY autoFormatCmd.accesskey "α">
+<!ENTITY plainTextFormatCmd.label "Μόνο απλό κείμενο">
+<!ENTITY plainTextFormatCmd.accesskey "κ">
+<!ENTITY htmlFormatCmd.label "Μόνο εμπλουτισμένο κείμενο (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "ε">
+<!ENTITY bothFormatCmd.label "Απλό και εμπλουτισμένο (HTML) κείμενο">
+<!ENTITY bothFormatCmd.accesskey "λ">
 
+<!ENTITY fileCarbonCopyCmd.label "Αποστολή αντιγράφου σε">
+<!ENTITY fileCarbonCopyCmd.accesskey "γ">
+<!ENTITY fileHereMenu.label "Αποθήκευση εδώ">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
+<!ENTITY sendButton.label "Αποστολή">
+<!ENTITY addressButton.label "Διεύθυνση">
+<!ENTITY attachButton.label "Επισύναψη">
+<!ENTITY spellingButton.label "Ορθογραφία">
+<!ENTITY saveButton.label "Αποθήκευση">
+<!ENTITY stopButton.label "Διακοπή">
 
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "Γραμμή διευθύνσεων">
+<!ENTITY formatToolbar.tooltip "Γραμμή μορφοποίησης">
 <!ENTITY sendButton.tooltip "Άμεση αποστολή μηνύματος">
 <!ENTITY sendlaterButton.tooltip "Αποστολή μηνύματος αργότερα">
+<!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από ευρετήριο διευθύνσεων">
+<!ENTITY attachButton.tooltip "Εισαγωγή συνημμένου">
 <!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
+<!ENTITY stopButton.tooltip "Διακοπή τρέχουσας μεταφοράς">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Άνοιγμα">
@@ -83,3 +136,5 @@
 <!ENTITY selectAllAttachments.accesskey "ό">
 <!ENTITY attachFile.label "Επισύναψη αρχείου(ων)…">
 <!ENTITY attachFile.accesskey "Ε">
+<!ENTITY attachPage.label "Επισύναψη ιστοσελίδας…">
+<!ENTITY attachPage.accesskey "ι">
