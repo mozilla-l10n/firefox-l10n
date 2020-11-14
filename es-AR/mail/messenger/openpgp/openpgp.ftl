@@ -106,10 +106,55 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Copiar clave(s) pública(s) al portapapeles
     .accesskey = C
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Copiar clave ID  al portapapeles
+           *[other] Copiar claves IDs  al portapapeles
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Copiar identificador de huellas dactilares al portapapeles
+           *[other] Copiar identificadores de huellas dactilares al portapapeles
+        }
+    .accesskey = F
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Copiar clave pública al portapapeles
+           *[other] Copiar claves públicas al portapapeles
+        }
+    .accesskey = P
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportar claves a archivo
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Copiar claves públicas al portapapeles
+openpgp-key-man-ctx-copy =
+    .label = Copiar
+    .accesskey = C
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Huella dactilar
+           *[other] Huellas dactilares
+        }
+    .accesskey = F
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Clave de ID
+           *[other] Clave de IDs
+        }
+    .accesskey = K
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Clave pública
+           *[other] Claves públicas
+        }
+    .accesskey = P
 openpgp-key-man-close =
     .label = Cerrar
 openpgp-key-man-reload =
@@ -497,7 +542,9 @@ key-man-button-generate-key = &Generar clave
 key-abort = ¿Abortar generación de clave?
 key-man-button-generate-key-abort = &Abortar generación de clave
 key-man-button-generate-key-continue = &Continuar generación de clave
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Error: no se pudo descifrar
 fix-broken-exchange-msg-failed = No se pudo reparar el mensaje.
 attachment-no-match-from-signature = No se pudo hacer coincidir el archivo de firma '{ $attachment }' con un adjunto
