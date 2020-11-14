@@ -4,8 +4,12 @@
 
 <!-- extracted from AccountManager.xul -->
 
+<!ENTITY accountManagerTitle.label "Ρυθμίσεις λογαριασμού αλληλογραφίας &amp; ομάδων συζήτησης">
 
 <!ENTITY addAccountButton.label "Προσθήκη λογαριασμού…">
+<!ENTITY addAccountButton.accesskey "λ">
+<!ENTITY setDefaultButton.label "Ορισμός ως προεπιλογή">
+<!ENTITY setDefaultButton.accesskey "π">
 <!ENTITY removeButton.label "Αφαίρεση λογαριασμού">
 <!ENTITY removeButton.accesskey "Α">
 
@@ -18,3 +22,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
+<!ENTITY accountManager.size "width: 105ch; height: 55em;">
+<!ENTITY accountTree.width "width: 32ch;">

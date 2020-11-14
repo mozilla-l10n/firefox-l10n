@@ -5,4 +5,7 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 <!ENTITY status.label "Ασφάλεια μηνύματος">
+<!ENTITY signatureCert.label "Προβολή πιστοποιητικού υπογραφής">
+<!ENTITY encryptionCert.label "Προβολή πιστοποιητικού κρυπτογράφησης">
 
+<!ENTITY email.address "Διεύθυνση email:">

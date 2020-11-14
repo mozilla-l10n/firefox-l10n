@@ -20,6 +20,8 @@
 
 
 
+<!ENTITY acceptforNDays.label           "Αποδοχή cookies για">
+<!ENTITY acceptforNDays.accesskey       "γ">
 <!ENTITY days.label                     "ημέρες">
 
 
