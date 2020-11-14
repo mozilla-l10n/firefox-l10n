@@ -10,9 +10,16 @@
 
 <!ENTITY sendPage.label                  "Αποστολή σελίδας…">
 
+<!ENTITY contextSendThisPage.label       "Αποστολή σελίδας…">
+<!ENTITY contextSendThisPage.accesskey   "λ">
+<!ENTITY contextSendThisLink.label       "Αποστολή συνδέσμου…">
+<!ENTITY contextSendThisLink.accesskey   "δ">
 <!ENTITY contextSendImage.label          "Αποστολή εικόνας…">
+<!ENTITY contextSendImage.accesskey      "κ">
 <!ENTITY contextSendVideo.label          "Αποστολή βίντεο…">
+<!ENTITY contextSendVideo.accesskey      "β">
 <!ENTITY contextSendAudio.label          "Αποστολή ήχου…">
+<!ENTITY contextSendAudio.accesskey      "χ">
 
 <!ENTITY sendLinkCmd.label               "Αποστολή συνδέσμου…"> 
 

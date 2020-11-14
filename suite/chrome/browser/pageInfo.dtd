@@ -8,18 +8,37 @@
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Αντιγραφή">
 <!ENTITY  copy.accesskey         "Α">
 <!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Επιλογή όλων">
 <!ENTITY  selectall.accesskey    "ό">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
+<!ENTITY  copyLinks.label           "Αντιγραφή συνδέσμου(ων)">
 <!ENTITY  copyLinks.accesskey       "σ">
 <!ENTITY  openInNewTab.label        "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY  openInNewTab.accesskey    "κ">
 <!ENTITY  openInNewWindow.label     "Άνοιγμα σε νέο παράθυρο">
 <!ENTITY  openInNewWindow.accesskey "π">
 
+<!ENTITY  generalTab            "Γενικά">
+<!ENTITY  generalTab.accesskey  "Γ">
+<!ENTITY  generalTitle          "Τίτλος:">
+<!ENTITY  generalURL            "Διεύθυνση:">
+<!ENTITY  generalType           "Τύπος:">
+<!ENTITY  generalMode           "Λειτουργία εμφάνισης:">
+<!ENTITY  generalSize           "Μέγεθος:">
+<!ENTITY  generalModified       "Τροποποίηση:">
+<!ENTITY  generalEncoding2      "Κωδικοποίηση κειμένου:">
+<!ENTITY  generalMetaName       "Όνομα">
+<!ENTITY  generalMetaContent    "Περιεχόμενο">
+<!ENTITY  generalSecurityDetails           "Λεπτομέρειες">
+<!ENTITY  generalSecurityDetails.accesskey "Λ">
 
+<!ENTITY  formsTab              "Φόρμες">
+<!ENTITY  formsTab.accesskey    "Φ">
+<!ENTITY  formAction            "Ενέργεια φόρμας">
 
 <!ENTITY  linkAccessKey         "Κλειδί πρόσβασης">
 

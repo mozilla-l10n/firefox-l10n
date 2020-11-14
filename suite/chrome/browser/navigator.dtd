@@ -41,8 +41,17 @@
 <!ENTITY editBookmark.removeBookmark.accessKey "Α">
 
 <!-- Toolbar items --> 
+<!ENTITY backButton.label             "Πίσω">
+<!ENTITY backButton.tooltip           "Μετάβαση μια σελίδα πίσω">
+<!ENTITY forwardButton.label          "Εμπρός">
+<!ENTITY forwardButton.tooltip        "Μετάβαση μια σελίδα μπροστά">
+<!ENTITY reloadButton.label           "Ανανέωση">
+<!ENTITY reloadButton.tooltip         "Ανανέωση τρέχουσας σελίδας">
+<!ENTITY stopButton.label             "Διακοπή">
+<!ENTITY stopButton.tooltip           "Διακοπή φόρτωσης σελίδας">
 <!ENTITY searchButton.label           "Αναζήτηση">
 <!ENTITY printButton.label            "Εκτύπωση">
+<!ENTITY printButton.tooltip          "Εκτύπωση σελίδας">
 
 <!ENTITY locationBar.title            "Τοποθεσία">
 
