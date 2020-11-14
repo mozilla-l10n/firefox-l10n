@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY folderProps.windowtitle.label           "Ιδιότητες">
+
+<!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
+
+<!ENTITY message.label "μηνύματα">
+<!ENTITY retentionKeepAll.label "Όλα τα μηνύματα">
+<!ENTITY retentionKeepAll.accesskey "Ό">
+
+<!ENTITY folderSynchronizationTab.label          "Συγχρονισμός">
+
+<!ENTITY offlineFolder.button.label              "Λήψη τώρα">
+<!ENTITY offlineFolder.button.accesskey          "Λ">
+
+<!ENTITY offlineNewsgroup.button.label           "Λήψη τώρα">
+<!ENTITY offlineNewsgroup.button.accesskey       "Λ">
+
+<!ENTITY folderProps.name.label                  "Όνομα:">
+<!ENTITY folderProps.name.accesskey              "Ό">
+<!ENTITY folderProps.location.label              "Τοποθεσία:">
+<!ENTITY folderProps.location.accesskey          "Τ">
+
+<!ENTITY folderType.label                        "Τύπος φακέλου:">
+
+<!ENTITY folderQuotaUsage.label                  "Χρήση:">
+<!ENTITY folderQuotaStatus.label                 "Κατάσταση:">
+
+<!ENTITY numberOfMessages.label                  "Αριθμός μηνυμάτων:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "άγνωστος">
+<!ENTITY sizeOnDisk.label                        "Μέγεθος στο δίσκο:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "άγνωστο">
