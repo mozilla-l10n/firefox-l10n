@@ -69,6 +69,7 @@
 <!ENTITY  mediaSize             "Μέγεθος">
 <!ENTITY  mediaCount            "Αριθμός">
 <!ENTITY  mediaDimension        "Διαστάσεις:">
+<!ENTITY  mediaLongdesc         "Μεγάλη περιγραφή:">
 <!ENTITY  mediaBlockImage.accesskey "Φ">
 <!ENTITY  mediaSaveAs           "Αποθήκευση ως…">
 <!ENTITY  mediaSaveAs.accesskey "Α">
