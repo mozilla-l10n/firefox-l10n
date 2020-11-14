@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = 當 <a data-l10n-name="m
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = 加入建構子到 <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> 介面以及一系列相關的修改，讓您可直接建立新的樣式表，而不需要將樣式表加入到 HTML 當中。此功能讓您更簡單就能建立用於 <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> 的可重複使用樣式表。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1520690</a>。
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = { -brand-short-name } 對 Media Session API 的整套實作目前都還在實驗中。此 API 是用來自訂對媒體相關通知的處理方式、管理媒體播放介面展現的事件與資料、以及取得媒體檔案的後設資料。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1112032</a>。
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
 experimental-features-devtools-color-scheme-simulation-description = 加入用來模擬不同配色的選項，讓您可以測試 <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> 媒體查詢。使用此媒體查詢功能，可讓您的樣式表回覆使用者偏好使用亮色或暗色介面。此功能讓您可以不需要更改瀏覽器或作業系統設定（若瀏覽器使用系統相關設定的話）就能直接進行測試。若需更多資訊，請參考 <a data-l10n-name="bugzilla1">bug 1550804</a> 及 <a data-l10n-name="bugzilla2">bug 1137699</a>。
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = 在「除錯器」面板當中開啟對 Service Worker 的實驗性支援。此功能可能會拖慢開發者工具運作，並增加記憶體消耗量。
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Graphics: Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = 開啟對觸控螢幕與精準觸控板的平滑手指縮放支援。
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = 開啟改善 JavaScript 效能與記
 experimental-features-fission =
     .label = Fission（網站隔離）
 experimental-features-fission-description = Fission（網站隔離）是 { -brand-short-name } 的一個實驗性功能，針對網站的安全性問題提供另一道保護。Fission 透過將各個網站隔離在不同的處理程序中，讓惡意網站更難取得您造訪的其他頁面當中的資訊。這是 { -brand-short-name } 的一組重大架構變更，若您能協助測試並回報遇到的任何問題，我們會非常感激。若需更多資訊，請參考 <a data-l10n-name="wiki">wiki</a> 內容。
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = 支援多組子母畫面
+experimental-features-multi-pip-description = 實驗性支援同時開啟多組子母畫面。
