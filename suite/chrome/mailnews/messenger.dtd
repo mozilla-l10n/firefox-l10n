@@ -9,6 +9,7 @@
 <!-- tabmail -->
 <!ENTITY tabmailClose.label "Κλείσιμο καρτέλας">
 <!ENTITY tabmailClose.tooltip "Κλείσιμο καρτέλας">
+<!ENTITY tabmailCloseButton.tooltip "Κλείσιμο τρέχουσας καρτέλας">
 
 <!-- menu items: the . means that the menu item isn't implemented yet -->
 
@@ -80,6 +81,7 @@
 <!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey "θ">
 <!ENTITY importCmd.label "Εισαγωγή…">
+<!ENTITY importCmd.accesskey "Ε">
 
 <!-- Folder Pane -->
 

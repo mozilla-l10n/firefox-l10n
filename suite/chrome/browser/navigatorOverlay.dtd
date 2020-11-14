@@ -8,9 +8,13 @@
 <!ENTITY openFileCmd.accesskey "Ά">
 <!ENTITY openFileCmd.commandkey "o">
 
+<!ENTITY closeOtherTabs.label "Κλείσιμο άλλων καρτελών">
+<!ENTITY closeOtherTabs.accesskey "κ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Κλείσιμο καρτελών στα δεξιά">
+<!ENTITY  closeTabsToTheEnd.accesskey "δ">
 
 
 <!-- Edit Menu -->
@@ -27,6 +31,8 @@ left instead of right. -->
 <!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
 <!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
      than the mac instead of historyCmd.key. -->
+<!ENTITY recentTabs.label "Πρόσφατα κλεισμένες καρτέλες">
+<!ENTITY recentWindows.label "Πρόσφατα κλεισμένα παράθυρα">
 
 <!-- Bookmarks Menu -->
 

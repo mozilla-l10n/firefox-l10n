@@ -19,6 +19,7 @@
 
 <!-- Tasks Menu -->
 <!ENTITY importCmd.label                                "Εισαγωγή…">
+<!ENTITY importCmd.accesskey                            "Ε">
 <!ENTITY exportCmd.label                                "Εξαγωγή…">
 
 <!-- Toolbar and Popup items -->
