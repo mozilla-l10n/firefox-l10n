@@ -106,6 +106,33 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Zjawne kluče do mjezyskłada kopěrować
     .accesskey = m
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Klučowy ID do mjezyskłada kopěrować
+            [two] Klučowej ID do mjezyskłada kopěrować
+            [few] Klučowe ID do mjezyskłada kopěrować
+           *[other] Klučowe ID do mjezyskłada kopěrować
+        }
+    .accesskey = I
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Porstowy wotćišć do mjezyskłada kopěrować
+            [two] Porstowej wotćišćej do mjezyskłada kopěrować
+            [few] Porstowe wotćišće do mjezyskłada kopěrować
+           *[other] Porstowe wotćišće do mjezyskłada kopěrować
+        }
+    .accesskey = P
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Zjawny kluč do mjezyskłada kopěrować
+            [two] Zjawnej klučej do mjezyskłada kopěrować
+            [few] Zjawne kluče do mjezyskłada kopěrować
+           *[other] Zjawne kluče do mjezyskłada kopěrować
+        }
+    .accesskey = Z
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kluče do dataje eksportować
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -122,6 +149,24 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Porstowe wotćišće
         }
     .accesskey = P
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Klučowy ID
+            [two] Klučowej ID
+            [few] Klučowe ID
+           *[other] Klučowe ID
+        }
+    .accesskey = K
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Zjawny kluč
+            [two] Zjawnej klučej
+            [few] ZJawne kluče
+           *[other] Zjawne kluče
+        }
+    .accesskey = Z
 openpgp-key-man-close =
     .label = Začinić
 openpgp-key-man-reload =
