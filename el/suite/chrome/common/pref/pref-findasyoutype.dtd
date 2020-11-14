@@ -4,4 +4,8 @@
 
 <!ENTITY pref.findAsYouType.title "Εύρεση κατά την πληκτρολόγηση">
 <!ENTITY findAsYouTypeBehavior.label "Εύρεση κατά την πληκτρολόγηση">
+<!ENTITY findAsYouTypeAutoText.label "Οποιοδήποτε κείμενο στη σελίδα">
+<!ENTITY findAsYouTypeAutoText.accesskey "Ο">
+<!ENTITY findAsYouTypeAutoLinks.label "Μόνο σύνδεσμοι">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "Μ">
 
