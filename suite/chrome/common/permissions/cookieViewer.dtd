@@ -2,14 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     tab.cookiesonsystem.label      "Αποθηκευμένα cookies">
+<!ENTITY     tab.bannedservers.label        "Ιστοσελίδες cookie">
+<!ENTITY     treehead.cookiename.label      "Όνομα cookie">
+<!ENTITY     treehead.cookiedomain.label    "Ιστοσελίδα">
+<!ENTITY     treehead.cookieexpires.label   "Λήξη">
 <!ENTITY     button.removecookie.label      "Αφαίρεση cookie">
 <!ENTITY     button.removecookie.accesskey  "Α">
 <!ENTITY     button.removeallcookies.label  "Αφαίρεση όλων των cookies">
 <!ENTITY     button.removeallcookies.accesskey "φ">
 
+<!ENTITY     search.placeholder             "Αναζήτηση cookies">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     selectAll.key                  "a">
 
+<!ENTITY     props.name.label               "Όνομα:">
+<!ENTITY     props.value.label              "Περιεχόμενο:">
+<!ENTITY     props.path.label               "Διαδρομή:">
+<!ENTITY     props.expires.label            "Λήγει:">
 
+<!ENTITY     treehead.sitename.label        "Ιστοσελίδα">
+<!ENTITY     treehead.status.label          "Κατάσταση">
+<!ENTITY     windowtitle.label              "Διαχείριση cookies">
 
+<!ENTITY     blockSite.label                "Φραγή">
+<!ENTITY     blockSite.accesskey            "Φ">
+<!ENTITY     allowSite.label                "Αποδοχή">
+<!ENTITY     allowSite.accesskey            "Α">
+<!ENTITY     allowSiteSession.label         "Συνεδρία">
+<!ENTITY     allowSiteSession.accesskey     "Σ">
 <!ENTITY     removepermission.label         "Αφαίρεση ιστοσελίδας">
 <!ENTITY     removepermission.accesskey     "Α">
 <!ENTITY     removeallpermissions.label     "Αφαίρεση όλων των ιστοσελίδων">

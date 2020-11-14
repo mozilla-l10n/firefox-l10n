@@ -13,6 +13,7 @@
 <!ENTITY retentionUseAccount.label "Χρήση ρυθμίσεων λογαριασμού">
 <!ENTITY retentionUseAccount.accesskey "Χ">
 <!ENTITY message.label "μηνύματα">
+<!ENTITY retentionCleanup.label "Διατήρηση μηνυμάτων:">
 <!ENTITY retentionKeepAll.label "Όλα τα μηνύματα">
 <!ENTITY retentionKeepAll.accesskey "Ό">
 <!ENTITY retentionApplyToFlagged.label "Πάντα διατήρηση των μηνυμάτων με σημαία">
@@ -37,6 +38,7 @@
 <!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα δικαιώματα:">
 <!ENTITY folderType.label                        "Τύπος φακέλου:">
 
+<!ENTITY folderQuotaTab.label                    "Όριο">
 <!ENTITY folderQuotaUsage.label                  "Χρήση:">
 <!ENTITY folderQuotaStatus.label                 "Κατάσταση:">
 
