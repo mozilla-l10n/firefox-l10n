@@ -388,6 +388,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = This extension has been code-reviewed for safety
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = This is an official extension built by the creators of { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = This extension has been reviewed to meet our standards for security and performance
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
