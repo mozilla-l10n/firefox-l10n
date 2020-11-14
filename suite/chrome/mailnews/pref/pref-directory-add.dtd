@@ -2,8 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY directoryName.label               "Όνομα: ">
+<!ENTITY directoryName.accesskey           "ν">
+<!ENTITY directoryHostname.label           "Όνομα κεντρικού υπολογιστή: ">
+<!ENTITY directoryHostname.accesskey       "ε">
+<!ENTITY findButton.label                  "Εύρεση">
+<!ENTITY findButton.accesskey              "ρ">
+<!ENTITY directorySecure.label             "Χρήση ασφαλούς σύνδεσης (SSL)">
+<!ENTITY directorySecure.accesskey         "Χ">
+<!ENTITY General.tab                       "Γενικά">
+<!ENTITY portNumber.label                  "Αριθμός θύρας:">
+<!ENTITY portNumber.accesskey              "α">
+<!ENTITY scopeOneLevel.label               "Ένα επίπεδο">
+<!ENTITY scopeOneLevel.accesskey           "Έ">
+<!ENTITY results.label                     "αποτελέσματα">
+<!ENTITY saslMechanism.label               "Μέθοδος σύνδεσης: ">
+<!ENTITY saslMechanism.accesskey           "σ">
+<!ENTITY saslOff.label                     "Απλή">
+<!ENTITY saslOff.accesskey                 "λ">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
 <!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+<!ENTITY newDirectoryWidth                 "36em">
