@@ -44,6 +44,8 @@
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "Το &brandShortName; νοιάζεται για το απόρρητό σας">
+<!ENTITY recoveryKeyEntry.label        "Το κλειδί ανάκτησής σας">
+<!ENTITY recoveryKeyEntry.accesskey    "κ">
 <!ENTITY recoveryGenerateNewKey.label  "Δημιουργία νέου κλειδιού">
 
 <!ENTITY button.syncKeyBackup.print.label     "Εκτύπωση…">

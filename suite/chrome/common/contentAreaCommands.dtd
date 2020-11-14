@@ -3,20 +3,108 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
+<!ENTITY openLinkCmdInTab.label       "Άνοιγμα συνδέσμου σε νέα καρτέλα">
+<!ENTITY openLinkCmdInTab.accesskey   "κ">
+<!ENTITY openLinkCmd.label            "Άνοιγμα συνδέσμου σε νέο παράθυρο">
+<!ENTITY openLinkCmd.accesskey        "ν">
 <!ENTITY openLinkInWindowCmd.label    "Άνοιγμα">
 <!ENTITY openLinkInWindowCmd.accesskey "ν">
+<!ENTITY goBackCmd.label              "Πίσω">
+<!ENTITY goBackCmd.accesskey          "Π">
+<!ENTITY goForwardCmd.label           "Εμπρός">
+<!ENTITY goForwardCmd.accesskey       "Ε">
+<!ENTITY reloadCmd.label              "Ανανέωση">
+<!ENTITY reloadCmd.accesskey          "Α">
 <!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Διακοπή">
+<!ENTITY stopCmd.accesskey            "Δ">
+<!ENTITY viewPageInfoCmd.label        "Προβολή πληροφοριών σελίδας">
+<!ENTITY viewPageInfoCmd.accesskey    "Π">
+<!ENTITY viewFrameInfoCmd.label       "Προβολή πληροφοριών πλαισίου">
+<!ENTITY viewFrameInfoCmd.accesskey   "λ">
+<!ENTITY reloadImageCmd.label         "Ανανέωση εικόνας">
+<!ENTITY reloadImageCmd.accesskey     "Α">
+<!ENTITY viewImageCmd.label           "Προβολή εικόνας">
+<!ENTITY viewImageCmd.accesskey       "ε">
+<!ENTITY viewImageInfoCmd.label       "Προβολή πληροφοριών εικόνας">
+<!ENTITY viewImageInfoCmd.accesskey   "ι">
+<!ENTITY viewVideoCmd.label           "Προβολή βίντεο">
+<!ENTITY viewVideoCmd.accesskey       "β">
+<!ENTITY savePageCmd.label            "Αποθήκευση σελίδας">
+<!ENTITY savePageCmd.accesskey        "σ">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveImageAsCmd.label         "Αποθήκευση εικόνας ως…">
 <!ENTITY saveVideoCmd.label           "Αποθήκευση βίντεο ως…">
 <!ENTITY saveAudioCmd.label           "Αποθήκευση ήχου ως…">
+<!ENTITY copyImageCmd.label           "Αντιγραφή εικόνας">
+<!ENTITY copyImageCmd.accesskey       "γ">
+<!ENTITY copyVideoURLCmd.label        "Αντιγραφή τοποθεσίας βίντεο">
+<!ENTITY copyVideoURLCmd.accesskey    "Α">
+<!ENTITY copyAudioURLCmd.label        "Αντιγραφή τοποθεσίας ήχου">
+<!ENTITY copyAudioURLCmd.accesskey    "τ">
+<!ENTITY metadataCmd.label            "Ιδιότητες">
+<!ENTITY metadataCmd.accesskey        "Ι">
+<!ENTITY copyEmailCmd.label           "Αντιγραφή διεύθυνσης email">
+<!ENTITY copyEmailCmd.accesskey       "φ">
+<!ENTITY mediaPlay.label              "Αναπαραγωγή">
+<!ENTITY mediaPlay.accesskey          "Α">
+<!ENTITY mediaPause.label             "Παύση">
+<!ENTITY mediaPause.accesskey         "Π">
+<!ENTITY mediaMute.label              "Σίγαση">
+<!ENTITY mediaMute.accesskey          "Σ">
+<!ENTITY mediaUnmute.label            "Άρση σίγασης">
+<!ENTITY mediaUnmute.accesskey        "γ">
+<!ENTITY mediaPlaybackRate.label        "Ταχύτητα αναπαραγωγής">
+<!ENTITY mediaPlaybackRate.accesskey    "ν">
+<!ENTITY mediaPlaybackRate050.label     "Αργή κίνηση (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "Α">
+<!ENTITY mediaPlaybackRate100.label     "Κανονική ταχύτητα">
+<!ENTITY mediaPlaybackRate100.accesskey "Κ">
+<!ENTITY mediaPlaybackRate150.label     "Υψηλή ταχύτητα (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "Υ">
+<!ENTITY mediaPlaybackRate200.label     "Διπλή ταχύτητα">
+<!ENTITY mediaPlaybackRate200.accesskey "Δ">
+<!ENTITY mediaLoop.label              "Επανάληψη">
+<!ENTITY mediaLoop.accesskey          "λ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label      "Εμφάνιση στοιχείων ελέγχου πολυμέσων">
+<!ENTITY mediaShowControls.accesskey  "φ">
+<!ENTITY mediaHideControls.label      "Απόκρυψη στοιχείων ελέγχου πολυμέσων">
+<!ENTITY mediaHideControls.accesskey  "κ">
+<!ENTITY videoFullScreen.label        "Πλήρης οθόνη">
+<!ENTITY videoFullScreen.accesskey    "Π">
 <!ENTITY videoSaveImage.label         "Αποθήκευση στιγμιότυπου ως…">
+<!ENTITY videoSaveImage.accesskey     "Α">
+<!ENTITY videoShowStats.label         "Εμφάνιση στατιστικών">
+<!ENTITY videoShowStats.accesskey     "σ">
+<!ENTITY videoHideStats.label         "Απόκρυψη στατιστικών">
+<!ENTITY videoHideStats.accesskey     "σ">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Αλλαγή κατεύθυνσης σελίδας">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "σ">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Αλλαγή κατεύθυνσης κειμένου">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "κ">
+<!ENTITY spellAddToDictionary.label     "Προσθήκη στο λεξικό">
+<!ENTITY spellAddToDictionary.accesskey "ξ">
+<!ENTITY spellIgnoreWord.label          "Παράβλεψη λέξης">
+<!ENTITY spellIgnoreWord.accesskey      "λ">
 <!ENTITY spellCheckEnable.label         "Ορθογραφικός έλεγχος">
 <!ENTITY spellCheckEnable.accesskey     "Ο">
+<!ENTITY spellNoSuggestions.label       "(Καμία πρόταση ορθογραφίας)">
+<!ENTITY spellDictionaries.label        "Γλώσσες">
+<!ENTITY spellDictionaries.accesskey    "Γ">
 <!ENTITY spellAddDictionaries.label     "Λήψη περισσότερων λεξικών…">
+<!ENTITY spellAddDictionaries.accesskey "Λ">
 
+<!ENTITY fillLoginMenu.label          "Συμπλήρωση σύνδεσης">
+<!ENTITY fillLoginMenu.accesskey      "Σ">
+<!ENTITY fillPasswordMenu.label       "Συμπλήρωση κωδικού πρόσβασης">
+<!ENTITY fillPasswordMenu.accesskey   "Σ">
+<!ENTITY fillUsernameMenu.label       "Συμπλήρωση ονόματος χρήστη">
+<!ENTITY fillUsernameMenu.accesskey   "Σ">
+<!ENTITY noLoginSuggestions.label     "(Καμία πρόταση σύνδεσης)">
 
 <!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Επιθεώρηση στοιχείου">
+<!ENTITY devtoolsInspect.accesskey      "σ">
