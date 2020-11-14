@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = 三思而后行
 pane-experimental-search-results-header = { -brand-short-name } 实验：三思而后行
 pane-experimental-description = 更改高级配置的首选项可能会影响 { -brand-short-name } 的性能和安全性。
+pane-experimental-reset =
+    .label = 恢复默认设置
+    .accesskey = R
 help-button-label = { -brand-short-name } 帮助
 addons-button-label = 扩展和主题
 focus-search =
@@ -921,6 +924,7 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 content-blocking-enhanced-tracking-protection = 增强型跟踪保护
 content-blocking-section-top-level-description = 跟踪器会跟踪您的在线活动，收集您的浏览习惯与兴趣爱好。{ -brand-short-name } 可拦截众多跟踪器和其他恶意脚本。
 content-blocking-learn-more = 详细了解
+content-blocking-fpi-incompatibility-warning = 您已启用第一方隔离（FPI）功能，会覆盖 { -brand-short-name } 的某些 Cookie 设置。
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

@@ -340,9 +340,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = 导入书签…
-    .tooltiptext = 将书签从从其他浏览器复制到 { -brand-short-name }
+    .tooltiptext = 将其他浏览器的书签导入到 { -brand-short-name }。
+bookmarks-toolbar-empty-message = 可将书签放在书签工具栏上，方便快速访问。<a data-l10n-name="manage-bookmarks">管理书签…</a>
 
 ## WebRTC Pop-up notifications
 
