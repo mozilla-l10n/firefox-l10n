@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY image-desc.label      "Περιγραφή:">
+<!ENTITY image-alt.label       "Εναλλακτικό κείμενο:">
+<!ENTITY image-width.label     "Πλάτος:">
+<!ENTITY image-height.label    "Ύψος:">
+<!ENTITY image-filesize.label  "Μέγεθος αρχείου:">
+<!ENTITY image-filesize.value  "Άγνωστο">
+<!ENTITY insdel-cite.label     "Πληροφορίες:">
+<!ENTITY insdel-date.label     "Ημερομηνία:">
+<!ENTITY link-url.label        "Διεύθυνση:">
+<!ENTITY misc-title.label      "Τίτλος:">
+<!ENTITY quote-cite.label      "Πληροφορίες:">

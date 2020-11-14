@@ -1,0 +1,24 @@
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  openInNewTab.label        "Άνοιγμα σε νέα καρτέλα">
+<!ENTITY  openInNewTab.accesskey    "κ">
+<!ENTITY  openInNewWindow.label     "Άνοιγμα σε νέο παράθυρο">
+<!ENTITY  openInNewWindow.accesskey "π">
+
+
+
+
+
+
+
+
+
+
+

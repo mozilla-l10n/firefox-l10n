@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- File Menu -->
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
+<!ENTITY openFileCmd.accesskey "Ά">
+<!ENTITY openFileCmd.commandkey "o">
+
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+
+
+<!-- Edit Menu -->
+
+<!-- View Menu -->
+<!ENTITY tabbarCmd.label "Γραμμή καρτελών">
+<!ENTITY tabbarCmd.accesskey "κ">
+<!ENTITY taskbarCmd.label "Γραμμή κατάστασης">
+<!ENTITY taskbarCmd.accesskey "σ">
+
+
+
+<!-- Go Menu -->
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
+
+<!-- Bookmarks Menu -->
+
+<!-- Tools Menu -->
+
+
+
+
+
+

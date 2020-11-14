@@ -41,7 +41,10 @@
 <!ENTITY rights.addons-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
 
 <!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση:">
+<!ENTITY rights.safebrowsing-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
 
 <!-- points 0-6 text for branded builds -->
