@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Proceder cun precauziun
 pane-experimental-search-results-header = Experiments da { -brand-short-name }: Cuntinuar cun precauziun
 pane-experimental-description = La modificaziun da la configuraziun da las preferenzas avanzadas po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
+pane-experimental-reset =
+    .label = Restaurar il standard
+    .accesskey = R
 help-button-label = Agid da { -brand-short-name }
 addons-button-label = Extensiuns & designs
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 content-blocking-enhanced-tracking-protection = Protecziun avanzada cunter il fastizar
 content-blocking-section-top-level-description = Fastizaders ta suondan online per rimnar infurmaziuns davart tias disas da navigar e tes interess. { -brand-short-name } blochescha blers da quests fastizaders ed auters scripts donnegius.
 content-blocking-learn-more = Ulteriuras infurmaziuns
+content-blocking-fpi-incompatibility-warning = La funcziun First Party Isolation (FPI) è actualmain activa e surscriva tscherts parameters da cookies da { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
