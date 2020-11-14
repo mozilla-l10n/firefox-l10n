@@ -6,6 +6,7 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.cookies.label "Μόνο cookies">
 
 <!ENTITY domain.search.placeholder "Αναζήτηση τομέων">
 <!ENTITY domain.search.key "f">
@@ -14,14 +15,23 @@
 
 <!ENTITY data.search.key "k">
 
+<!ENTITY tab.cookies.label "Cookies">
 
 <!-- cookies -->
 
+<!ENTITY cookies.tree.host.label "Ιστοσελίδα">
+<!ENTITY cookies.tree.name.label "Όνομα cookie">
 
 
+<!ENTITY cookies.info.name.label "Όνομα:">
+<!ENTITY cookies.info.value.label "Περιεχόμενο:">
+<!ENTITY cookies.info.domain.label "Τομέας:">
+<!ENTITY cookies.info.path.label "Διαδρομή:">
 
 <!ENTITY cookies.ctx.remove.label "Αφαίρεση">
 <!ENTITY cookies.ctx.remove.accesskey "Α">
+<!ENTITY cookies.ctx.selectAll.label "Επιλογή όλων">
+<!ENTITY cookies.ctx.selectAll.accesskey "ό">
 
 <!ENTITY cookies.button.remove.label "Αφαίρεση">
 <!ENTITY cookies.button.remove.accesskey "Α">

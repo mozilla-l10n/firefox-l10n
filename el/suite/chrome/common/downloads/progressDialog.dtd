@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY progress.title                  "Λήψη σε εξέλιξη…">
+<!ENTITY closeWindow.key                 "w">
 <!ENTITY cmd.open.label                  "Άνοιγμα">
 <!ENTITY cmd.open.accesskey              "Ά">
 <!ENTITY closeWhenDone.label             "Κλείσιμο παραθύρου όταν ολοκληρωθεί η λήψη.">

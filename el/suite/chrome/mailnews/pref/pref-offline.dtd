@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY radioAutoSend                    "Ναι">
+<!ENTITY radioAutoSend.accesskey          "Ν">
+<!ENTITY radioNotSend                     "Όχι">
+<!ENTITY radioNotSend.accesskey           "Ό">
+<!ENTITY radioAskUnsent                   "Ερώτηση">
+<!ENTITY radioAskUnsent.accesskey         "τ">
+<!ENTITY radioAutoDownload                "Ναι">
+<!ENTITY radioAutoDownload.accesskey      "α">
+<!ENTITY radioNotDownload                 "Όχι">
+<!ENTITY radioNotDownload.accesskey       "χ">
+<!ENTITY radioAskDownload                 "Ερώτηση">
+<!ENTITY radioAskDownload.accesskey       "ρ">
+<!ENTITY mailnewsTimeoutSeconds.label     "δευτερόλεπτα">
+<!ENTITY Diskspace                        "Χώρος δίσκου">
+<!ENTITY offlineCompactFoldersMB.label    "MB συνολικά">

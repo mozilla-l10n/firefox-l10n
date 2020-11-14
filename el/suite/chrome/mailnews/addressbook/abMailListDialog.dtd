@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Title -->
+
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Προσθήκη σε:">
+<!ENTITY addToAddressBook.accesskey     "Π">
+<!ENTITY ListName.label                 "Όνομα λίστας:">
+<!ENTITY ListName.accesskey             "λ">
+<!ENTITY ListDescription.label          "Περιγραφή:">
+<!ENTITY ListDescription.accesskey      "Π">
+<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
