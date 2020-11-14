@@ -106,6 +106,27 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Αντιγραφή δημόσιου κλειδιού(ών) στο πρόχειρο
     .accesskey = Α
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Αντιγραφή ID κλειδιού στο πρόχειρο
+           *[other] Αντιγραφή ID κλειδιών στο πρόχειρο
+        }
+    .accesskey = κ
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Αντιγραφή αποτυπώματος στο πρόχειρο
+           *[other] Αντιγραφή αποτυπωμάτων στο πρόχειρο
+        }
+    .accesskey = ώ
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Αντιγραφή δημόσιου κλειδιού στο πρόχειρο
+           *[other] Αντιγραφή δημόσιων κλειδιών στο πρόχειρο
+        }
+    .accesskey = δ
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Εξαγωγή κλειδιών σε αρχείο
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -113,6 +134,13 @@ openpgp-key-man-ctx-copy-to-clipbrd-label =
 openpgp-key-man-ctx-copy =
     .label = Αντιγραφή
     .accesskey = Α
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Αποτύπωμα
+           *[other] Αποτυπώματα
+        }
+    .accesskey = τ
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
