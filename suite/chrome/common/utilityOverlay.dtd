@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "Εργασία εκτός σύνδεσης">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "κ">
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
@@ -13,21 +15,52 @@
 <!ENTITY newBlankPageCmd.label            "Σελίδα σύνθεσης">
 <!ENTITY newBlankPageCmd.accesskey        "Σ">
 <!ENTITY newBlankPageCmd.key              "n">
+<!ENTITY newPrivateWindowCmd.label "Ιδιωτικό παράθυρο">
+<!ENTITY newPrivateWindowCmd.key "B">
+<!ENTITY newPrivateWindowCmd.accesskey "π">
 <!ENTITY closeCmd.label "Κλείσιμο">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Κ">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
+<!ENTITY printSetupCmd.accesskey "μ">
+<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
+<!ENTITY printPreviewCmd.accesskey "π">
 <!ENTITY printCmd.label "Εκτύπωση…">
+<!ENTITY printCmd.accesskey "Ε">
+<!ENTITY printCmd.key "P">
 
 <!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
      application menu. Never change the modifiers unless you are 100% sure that
      they are different on your locale (should be very rare). -->
 <!ENTITY preferencesCmdMac.label          "Προτιμήσεις…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "Υπηρεσίες">
+<!ENTITY hideThisAppCmd.label             "Απόκρυψη &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "H">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Απόκρυψη άλλων">
+<!ENTITY hideOtherAppsCmd.key             "H">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Εμφάνιση όλων">
 <!ENTITY openHelpCmdMac.label             "Βοήθεια &brandShortName;">
 <!ENTITY openHelpCmdMac.accesskey         "Β">
 <!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
 
+<!ENTITY quitApplicationCmd.label         "Έξοδος">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "ξ">
+<!ENTITY quitApplicationCmdMac.label      "Κλείσιμο &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "Κ">
+<!ENTITY quitApplicationCmdUnix.label     "Έξοδος">
+<!ENTITY quitApplicationCmdUnix.accesskey "Έ">
 
+<!ENTITY editMenu.label                   "Επεξεργασία">
+<!ENTITY editMenu.accesskey               "Ε">
+<!ENTITY undoCmd.label                    "Αναίρεση">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "Α">
 <!ENTITY redoCmd.label                    "Επανάληψη">
 <!ENTITY redoCmd.key                      "Y">
 <!ENTITY redoCmdMac.key                   "Z">
@@ -61,22 +94,83 @@
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
+<!ENTITY findAgainCmd.label "Εύρεση ξανά">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "ξ">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "π">
+<!ENTITY findTypeTextCmd.label "Εύρεση κειμένου κατά την πληκτρολόγηση">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeTextCmd.accesskey "κ">
+<!ENTITY findTypeLinksCmd.label "Εύρεση συνδέσμων κατά την πληκτρολόγηση">
+<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY findTypeLinksCmd.accesskey "δ">
 
+<!ENTITY viewMenu.label                   "Προβολή">
+<!ENTITY viewMenu.accesskey               "Π">
+<!ENTITY viewToolbarsMenu.label           "Εμφάνιση/Απόκρυψη">
+<!ENTITY viewToolbarsMenu.accesskey       "φ">
+<!ENTITY showTaskbarCmd.label             "Γραμμή κατάστασης">
+<!ENTITY showTaskbarCmd.accesskey         "Γ">
 
+<!ENTITY helpMenu.label                   "Βοήθεια">
+<!ENTITY helpMenu.accesskey               "Β">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
+<!ENTITY helpMenuWin.label                "Βοήθεια">
+<!ENTITY helpMenuWin.accesskey            "Β">
+<!ENTITY openHelpCmd.label                "Περιεχόμενα βοήθειας">
+<!ENTITY openHelpCmd.accesskey            "β">
 <!ENTITY openHelpCmd.key                  "VK_F1">
 
+<!ENTITY helpForIEUsers.label               "Για χρήστες του Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey           "I">
+<!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες επίλυσης προβλημάτων">
+<!ENTITY helpTroubleshootingInfo.accesskey  "Π">
+<!ENTITY releaseCmd.label                   "Σημειώσεις έκδοσης">
+<!ENTITY releaseCmd.accesskey               "Σ">
+<!ENTITY helpSafeMode.label                 "Επανεκκίνηση με ανενεργά πρόσθετα">
+<!ENTITY helpSafeMode.accesskey             "Ε">
 <!ENTITY updateCmd.label                    "Έλεγχος για ενημερώσεις…">
+<!ENTITY updateCmd.accesskey                "Έ">
+<!ENTITY aboutCmd.label                     "Σχετικά με το &brandShortName;">
+<!ENTITY aboutCmd.accesskey                 "Σ">
+<!ENTITY aboutCommPluginsCmd.label          "Σχετικά με τα αρθρώματα">
+<!ENTITY aboutCommPluginsCmd.accesskey      "α">
 
 
 
+<!ENTITY bidiSwitchTextDirectionItem.label        "Αλλαγή κατεύθυνσης κειμένου">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "γ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Γραμμή μενού">
+<!ENTITY menubarCmd.accesskey                     "μ">
 
 <!ENTITY customizeToolbarContext.label            "Προσαρμογή…">
+<!ENTITY customizeToolbarContext.accesskey        "Π">
 
+<!ENTITY customizeToolbar.toolbarmode.label       "Ρυθμίσεις για αυτήν τη γραμμή">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "θ">
+<!ENTITY customizeToolbar.iconsAndText.label      "Εικονίδια και κείμενο">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "α">
+<!ENTITY customizeToolbar.icons.label             "Εικονίδια">
+<!ENTITY customizeToolbar.icons.accesskey         "ο">
+<!ENTITY customizeToolbar.text.label              "Κείμενο">
+<!ENTITY customizeToolbar.text.accesskey          "Κ">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Χρήση μικρών εικονιδίων">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "μ">
+<!ENTITY customizeToolbar.useDefault.label        "Χρήση προεπιλεγμένων ρυθμίσεων">
+<!ENTITY customizeToolbar.useDefault.accesskey    "Χ">
 
 <!-- Popup Blocked notification menu -->
+<!ENTITY showPopupManager.label       "Διαχείριση αναδυόμενων παραθύρων">
+<!ENTITY showPopupManager.accesskey   "Δ">
 
 
+<!ENTITY syncToolbarButton.label "Sync">
