@@ -348,9 +348,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importar marcapaginas…
-    .tooltiptext = Copiar los marcapaginas d’un autre navegador per { -brand-short-name }.
+    .tooltiptext = Importar dins { -brand-short-name } los marcapaginas a partir d’un autre navegador.
 
 ## WebRTC Pop-up notifications
 
