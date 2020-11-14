@@ -6,6 +6,7 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
+<!ENTITY certerror.pagetitle  "Μη έμπιστη σύνδεση">
 
 <!-- Localization note (certerror.introPara1a) - The text content of the span
 tag will be replaced at runtime with the name of the server to which the user

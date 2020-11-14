@@ -10,6 +10,7 @@
 <!ENTITY  language.label                          "Γραμματοσειρές για:">
 <!ENTITY  language.accesskey                      "ρ">
 
+<!ENTITY  sizes.label                             "Μέγεθος (pixels)">
 
 
 <!ENTITY  serif.label                             "Serif:">
@@ -39,7 +40,10 @@
 <!ENTITY  font.langGroup.ethiopic                 "Αιθιοπικά">
 <!ENTITY  font.langGroup.georgian                 "Γεωργιανά">
 <!ENTITY  font.langGroup.khmer                    "Χμερ">
+<!ENTITY  font.langGroup.malayalam                "Μαλαισιανά">
 <!ENTITY  font.langGroup.math                     "Μαθηματικά">
+<!ENTITY  font.langGroup.odia                     "Οντία">
+<!ENTITY  font.langGroup.telugu                   "Τελούγκου">
 <!ENTITY  font.langGroup.kannada                  "Κανάντα">
 <!ENTITY  font.langGroup.sinhala                  "Σινχάλα">
 <!ENTITY  font.langGroup.tibetan                  "Θιβετανικά">

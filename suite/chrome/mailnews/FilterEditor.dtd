@@ -2,11 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Κανόνες φίλτρων">
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Όνομα φίλτρου:">
 <!ENTITY filterName.accesskey "ί">
 
+<!ENTITY recentFolders.label "Πρόσφατα">
 
+<!ENTITY junk.label "Ανεπιθύμητα">
+<!ENTITY notJunk.label "Επιθυμητά">
 
 
 
