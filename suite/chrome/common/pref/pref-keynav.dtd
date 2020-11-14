@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabNavigationLinks.label "Σύνδεσμοι">
+<!ENTITY tabNavigationLinks.accesskey "Σ">
+<!ENTITY accessibilityBrowseWithCaret.label "Περιήγηση με κέρσορα">
+<!ENTITY browseWithCaretUse.label "Χρήση περιήγησης με κέρσορα">
+<!ENTITY browseWithCaretUse.accesskey "Χ">

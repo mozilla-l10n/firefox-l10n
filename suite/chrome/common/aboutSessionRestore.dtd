@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "Επαναφορά συνεδρίας">
+<!ENTITY restorepage.pagetitle      "Θέλετε να επαναφέρετε τη συνεδρία σας;">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+
+<!ENTITY restorepage.restoreButton  "Επαναφορά προηγούμενης συνεδρίας">
+<!ENTITY restorepage.restore.access "Ε">
+<!ENTITY restorepage.cancelButton   "Έναρξη νέας συνεδρίας">
+<!ENTITY restorepage.cancel.access  "Έ">
+
+<!ENTITY restorepage.restoreHeader  "Επαναφορά">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->

@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.images.title              "Εικόνες">
+
+
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+    appear
+-->
+
+<!ENTITY loadAllImagesRadio.label       "Φόρτωση όλων των εικόνων">
+<!ENTITY loadAllImagesRadio.accesskey   "Φ">
+<!ENTITY viewPermissions.label          "Διαχείριση δικαιωμάτων">
+<!ENTITY viewPermissions.accesskey      "Δ">
