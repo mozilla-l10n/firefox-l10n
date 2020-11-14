@@ -39,10 +39,16 @@
 <!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Λήψη νέων μηνυμάτων για">
 <!ENTITY getNewMsgForCmd.accesskey "ω">
+<!ENTITY renameFolder.label "Μετονομασία φακέλου…">
+<!ENTITY synchronizeOfflineCmd.label "Λήψη/Συγχρονισμός τώρα…">
 
 <!-- Edit Menu -->
+<!ENTITY folderPropsCmd.label "Ιδιότητες…">
+<!ENTITY folderPropsFolderCmd.label "Ιδιότητες φακέλου…">
 
 <!-- View Menu -->
+<!ENTITY showSearchToolbarCmd.label "Γραμμή αναζήτησης">
+<!ENTITY showSearchToolbarCmd.accesskey "μ">
 
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
@@ -63,24 +69,37 @@
 <!-- Message Menu -->
 
 <!-- Tools Menu -->
+<!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων…">
+<!ENTITY searchMailCmd.accesskey "μ">
+<!ENTITY searchMailCmd.key "s">
+<!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων…">
+<!ENTITY searchAddressesCmd.accesskey "θ">
 
 <!-- Folder Pane -->
 
 <!-- Toolbar items -->
+<!ENTITY searchButton.title "Σύνθετη αναζήτηση">
 
 <!-- Tooltips -->
+<!ENTITY searchToolbar.tooltip "Γραμμή αναζήτησης">
 
 <!-- Remote Content Button Popup -->
 
 <!-- Statusbar -->
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextPrint.label "Εκτύπωση…">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextOpenNewTab.label "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY folderContextOpenNewTab.accesskey "κ">
 <!ENTITY folderContextRemove.label "Διαγραφή">
 <!ENTITY folderContextRemove.accesskey "Δ">
+<!ENTITY folderContextSearchMessages.label "Αναζήτηση μηνυμάτων…">
+<!ENTITY folderContextSearchMessages.accesskey "Α">
 
 <!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY searchButton.label "Αναζήτηση μηνυμάτων…">
+<!ENTITY searchButton.accesskey "Α">
 

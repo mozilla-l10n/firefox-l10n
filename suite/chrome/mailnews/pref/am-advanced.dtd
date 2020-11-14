@@ -5,5 +5,7 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
+<!ENTITY smtpListAdd.label  "Προσθήκη…">
+<!ENTITY smtpListEdit.label "Επεξεργασία…">
 <!ENTITY smtpListDelete.label "Αφαίρεση">
 

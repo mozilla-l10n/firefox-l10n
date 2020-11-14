@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων…">
+<!ENTITY searchAddressesCmd.accesskey                   "δ">
+
+<!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων…">
+<!ENTITY searchMailCmd.accesskey "μ">
+<!ENTITY searchMailCmd.key "f">

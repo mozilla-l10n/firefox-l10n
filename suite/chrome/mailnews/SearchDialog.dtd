@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.accesskey     "ζ">
 <!ENTITY openButton.label            "Άνοιγμα">
 <!ENTITY openButton.accesskey        "Ά">
+<!ENTITY searchDialogTitle.label     "Αναζήτηση μηνυμάτων">
 <!ENTITY goToFolderButton.label      "Άνοιγμα φακέλου μηνυμάτων">
 
 <!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.accesskey   "α">

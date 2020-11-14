@@ -5,6 +5,7 @@
 <!-- extracted from AccountManager.xul -->
 
 
+<!ENTITY addAccountButton.label "Προσθήκη λογαριασμού…">
 <!ENTITY removeButton.label "Αφαίρεση λογαριασμού">
 <!ENTITY removeButton.accesskey "Α">
 

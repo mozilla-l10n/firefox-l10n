@@ -8,6 +8,9 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
+<!ENTITY saveAsFileCmd.label "Αρχείο…">
+<!ENTITY attachFileCmd.label "Αρχείο(α)…">
+<!ENTITY attachPageCmd.label "Ιστοσελίδα…">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 
 <!-- Edit menu items -->
@@ -32,3 +35,4 @@
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Άνοιγμα">
 <!ENTITY openAttachment.accesskey "Ά">
+<!ENTITY renameAttachment.label "Μετονομασία…">
