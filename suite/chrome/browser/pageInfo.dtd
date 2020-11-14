@@ -50,6 +50,7 @@
 
 
 
+<!ENTITY  securityView.privacy.header                   "Απόρρητο &amp; ιστορικό">
 <!ENTITY  securityView.privacy.viewCookies              "Προβολή cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 

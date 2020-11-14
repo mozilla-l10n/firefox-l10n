@@ -6,12 +6,20 @@
 
 <!ENTITY pref.content.title                     "Περιεχόμενο">
 
+<!ENTITY siteIcons.label                        "Εικονίδια ιστοσελίδων">
 
+<!ENTITY scrolling.label                        "Κύλιση">
+<!ENTITY useAutoScroll.label                    "Χρήση αυτόματης κύλισης">
+<!ENTITY useAutoScroll.accesskey                "α">
+<!ENTITY useSmoothScroll.label                  "Χρήση ομαλής κύλισης">
+<!ENTITY useSmoothScroll.accesskey              "Χ">
 
+<!ENTITY zoomPrefs.label                        "Επιλογές ζουμ">
 <!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
+<!ENTITY percent.label                          "&#37;">
 
 
 
