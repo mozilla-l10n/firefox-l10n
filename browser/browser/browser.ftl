@@ -351,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Importer bokmerker…
     .tooltiptext = Importer bokmerker fra en annen nettleser til { -brand-short-name }.
+bookmarks-toolbar-empty-message = Plasser bokmerkene dine her på bokmerkeverktøylinjen for rask tilgang. <a data-l10n-name="manage-bookmarks">Behandle bokmerker…</a>
 
 ## WebRTC Pop-up notifications
 

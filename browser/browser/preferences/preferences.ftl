@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Fortsett med forsiktighet
 pane-experimental-search-results-header = { -brand-short-name }-eksperimenter: Fortsett med forsiktighet
 pane-experimental-description = Endrer du avanserte konfigurasjonsinnstillinger kan det påvirke ytelse eller sikkerhet i { -brand-short-name }.
+pane-experimental-reset =
+    .label = Gjenopprett standard
+    .accesskey = G
 help-button-label = { -brand-short-name } brukerstøtte
 addons-button-label = Utvidelser og tema
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 content-blocking-enhanced-tracking-protection = Utvidet sporingsbeskyttelse
 content-blocking-section-top-level-description = Sporere følger deg rundt på nettet for å samle informasjon om surfevanene og interessene dine. { -brand-short-name } blokkerer mange av disse sporere og andre ondsinnede skript.
 content-blocking-learn-more = Les mer
+content-blocking-fpi-incompatibility-warning = Du bruker First Party Isolation (FPI), som tilsidesetter noen av infokapsel-innstillingene til { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
