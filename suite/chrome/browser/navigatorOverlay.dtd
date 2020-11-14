@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File Menu -->
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
 <!ENTITY openFileCmd.accesskey "Ά">
@@ -16,25 +17,52 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label "Κλείσιμο καρτελών στα δεξιά">
 <!ENTITY  closeTabsToTheEnd.accesskey "δ">
 
+<!ENTITY uploadFile.label "Μεταφόρτωση αρχείου…">
+<!ENTITY uploadFile.accesskey "Μ">
 
 <!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Εύρεση στη σελίδα…">
 
 <!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Εμφάνιση/Απόκρυψη">
+<!ENTITY toolbarsCmd.accesskey "σ">
 <!ENTITY tabbarCmd.label "Γραμμή καρτελών">
 <!ENTITY tabbarCmd.accesskey "κ">
 <!ENTITY taskbarCmd.label "Γραμμή κατάστασης">
 <!ENTITY taskbarCmd.accesskey "σ">
 
+<!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
+<!ENTITY fullScreenCmd.accesskey "Π">
 
+<!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
+<!ENTITY pageSourceCmd.accesskey "δ">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
+<!ENTITY pageInfoCmd.accesskey "Π">
+<!ENTITY pageInfoCmd.commandkey "i">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Μετάβαση">
+<!ENTITY goMenu.accesskey "Μ">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goHomeCmd.label "Αρχική">
+<!ENTITY goHomeCmd.accesskey "Α">
+<!ENTITY historyCmd.label "Ιστορικό">
+<!ENTITY historyCmd.accesskey "σ">
 <!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
 <!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
      than the mac instead of historyCmd.key. -->
+<!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Πρόσφατα κλεισμένες καρτέλες">
+<!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Πρόσφατα κλεισμένα παράθυρα">
+<!ENTITY recentWindows.commandkey "y">
 
 <!-- Bookmarks Menu -->
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
 <!ENTITY searchInternetCmd.accesskey "ζ">
@@ -45,3 +73,5 @@ left instead of right. -->
 
 
 
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">

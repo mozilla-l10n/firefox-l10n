@@ -42,6 +42,7 @@
 
 <!-- Toolbar items --> 
 <!ENTITY searchButton.label           "Αναζήτηση">
+<!ENTITY printButton.label            "Εκτύπωση">
 
 <!ENTITY locationBar.title            "Τοποθεσία">
 
@@ -55,4 +56,10 @@
 <!ENTITY  statusText.label            "Τέλος">
 
 
+<!ENTITY viewSecurityInfo.label      "Προβολή πληροφοριών ασφάλειας">
+<!ENTITY viewSecurityInfo.accesskey  "α">
+<!ENTITY viewCertificate.label       "Προβολή πιστοποιητικού">
+<!ENTITY viewCertificate.accesskey   "π">
+<!ENTITY viewCertManager.label       "Άνοιγμα διαχείρισης πιστοποιητικών">
+<!ENTITY viewCertManager.accesskey   "δ">
 
