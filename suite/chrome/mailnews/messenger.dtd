@@ -55,6 +55,14 @@
 <!ENTITY showSearchToolbarCmd.label "Γραμμή αναζήτησης">
 <!ENTITY showSearchToolbarCmd.accesskey "μ">
 
+<!ENTITY messagePaneLayoutStyle.label "Διάταξη">
+<!ENTITY messagePaneLayoutStyle.accesskey "Δ">
+<!ENTITY messagePaneClassic.label "Κλασσική προβολή">
+<!ENTITY messagePaneClassic.accesskey "Κ">
+<!ENTITY messagePaneWide.label "Ευρεία προβολή">
+<!ENTITY messagePaneWide.accesskey "Ε">
+<!ENTITY messagePaneVertical.label "Κάθετη προβολή">
+<!ENTITY messagePaneVertical.accesskey "θ">
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 
@@ -76,6 +84,7 @@
 <!ENTITY sortAscending.accesskey "Α">
 <!ENTITY sortDescending.label "Φθίνουσα">
 <!ENTITY sortDescending.accesskey "Φ">
+<!ENTITY msgsMenu.label "Μηνύματα">
 
 
 
@@ -86,10 +95,15 @@
 
 <!-- Go Menu -->
 
+<!ENTITY nextMsgCmd.label "Μήνυμα">
+<!ENTITY prevMsgCmd.label "Μήνυμα">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!-- Message Menu -->
+<!ENTITY msgMenu.label "Μήνυμα">
+<!ENTITY newMsgCmd.label "Νέο μήνυμα">
+<!ENTITY newNewMsgCmd.label "Μήνυμα">
 <!ENTITY tagCustomize.label "Προσαρμογή…">
 
 <!-- Tools Menu -->
@@ -98,17 +112,29 @@
 <!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey "θ">
+<!ENTITY filtersCmd.label "Φίλτρα μηνυμάτων…">
 <!ENTITY importCmd.label "Εισαγωγή…">
 <!ENTITY importCmd.accesskey "Ε">
 
 <!-- Folder Pane -->
 
 <!-- Toolbar items -->
+<!ENTITY newHTMLMessageCmd.label "Σύνθεση σε HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Σύνθεση σε απλό κείμενο">
+<!ENTITY newPlainTextMessageCmd.accesskey "α">
 <!ENTITY deleteButton.label "Διαγραφή">
 <!ENTITY searchButton.title "Σύνθετη αναζήτηση">
 
 <!-- Tooltips -->
 <!ENTITY searchToolbar.tooltip "Γραμμή αναζήτησης">
+<!ENTITY getMsgButton.tooltip "Λήψη νέων μηνυμάτων">
+<!ENTITY newMsgButton.tooltip "Δημιουργία νέου μηνύματος">
+<!ENTITY replyButton.tooltip "Απάντηση στο μήνυμα">
+<!ENTITY forwardButton.tooltip "Προώθηση επιλεγμένου μηνύματος">
+<!ENTITY goBackButton.tooltip "Μετάβαση πίσω κατά ένα μήνυμα">
+<!ENTITY markButton.tooltip "Επισήμανση μηνυμάτων">
+<!ENTITY printButton.tooltip "Εκτύπωση μηνύματος">
 
 <!-- Remote Content Button Popup -->
 

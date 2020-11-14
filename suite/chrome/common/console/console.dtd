@@ -4,9 +4,24 @@
 
 <!ENTITY errorConsole.title   "Κονσόλα σφαλμάτων">
 
+<!ENTITY errFile.label        "Αρχείο προέλευσης:">
+<!ENTITY errLine.label        "Γραμμή:">
+<!ENTITY errColumn.label      "Στήλη:">
 
+<!ENTITY all.label            "Όλα">
+<!ENTITY all.accesskey        "Ό">
+<!ENTITY errors.label         "Σφάλματα">
+<!ENTITY errors.accesskey     "φ">
+<!ENTITY warnings.label       "Προειδοποιήσεις">
+<!ENTITY warnings.accesskey   "δ">
 <!ENTITY messages.label       "Μηνύματα">
 <!ENTITY messages.accesskey   "Μ">
+<!ENTITY clear.label          "Απαλοιφή">
+<!ENTITY clear.accesskey      "λ">
+<!ENTITY codeEval.label       "Κώδικας:">
+<!ENTITY codeEval.accesskey   "ώ">
+<!ENTITY evaluate.label       "Εκτίμηση">
+<!ENTITY evaluate.accesskey   "κ">
 
 <!ENTITY copyCmd.commandkey    "C">
 <!ENTITY closeCmd.commandkey   "w">

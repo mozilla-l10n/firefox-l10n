@@ -5,7 +5,10 @@
 
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 
+<!ENTITY messageIdField.label "ID-μηνύματος:">
 
+<!ENTITY editMessage.label                 "Επεξεργασία προσχεδίου…">
+<!ENTITY editMessage.accesskey             "π">
 
 <!ENTITY saveAsAttachmentCmd.label         "Αποθήκευση ως…">
 <!ENTITY deleteAttachmentCmd.label         "Διαγραφή">

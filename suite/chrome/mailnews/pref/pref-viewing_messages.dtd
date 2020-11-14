@@ -15,6 +15,7 @@
 <!ENTITY fontPlainText.label              "Γραμματοσειρά:">
 <!ENTITY fontPlainText.accesskey          "Γ">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY generalMessageDisplay.caption    "Γενικά">
 <!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
      "Only after displaying for [___] seconds",
      using (markAsReadAfter.label) and a number (secondsLabel.label). -->
