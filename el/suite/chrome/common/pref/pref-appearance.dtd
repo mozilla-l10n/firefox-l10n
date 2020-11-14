@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
+<!ENTITY pref.appearance.title "Εμφάνιση">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY navCheck.label                         "Πρόγραμμα περιήγησης">
+<!ENTITY navCheck.accesskey                     "Π">
+<!ENTITY picsNtextRadio.label                   "Εικόνες και κείμενο">
+<!ENTITY picsNtextRadio.accesskey               "Ε">
+<!ENTITY picsOnlyRadio.label                    "Μόνο εικόνες">
+<!ENTITY picsOnlyRadio.accesskey                "ό">
+<!ENTITY textonlyRadio.label                    "Μόνο κείμενο">
+<!ENTITY textonlyRadio.accesskey                "ν">
+
+
+<!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
+     radiobuttons are set dynamically from prefutilities.properties
+-->
+
+<!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
