@@ -301,6 +301,8 @@ identity-https-only-info-turn-off2 = If the page seems broken, you may want to t
 identity-https-only-info-no-upgrade = Unable to upgrade connection from HTTP.
 identity-permissions =
     .value = Permissions
+identity-permissions-storage-access-header = Cross-site cookies
+identity-permissions-storage-access-hint = These parties can use cross-site cookies and site data while you are on this site.
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-permissions-empty = You have not granted this site any special permissions.
 identity-clear-site-data =
@@ -346,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Import bookmarks…
-    .tooltiptext = Copy bookmarks from another browser to { -brand-short-name }.
+    .tooltiptext = Import bookmarks from another browser to { -brand-short-name }.
+bookmarks-toolbar-empty-message = For quick access, place your bookmarks here on the bookmarks toolbar. <a data-l10n-name="manage-bookmarks">Manage bookmarks…</a>
 
 ## WebRTC Pop-up notifications
 
