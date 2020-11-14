@@ -101,6 +101,7 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "ξ">
 <!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Εύρεση προηγουμένου">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "π">
@@ -172,5 +173,6 @@
 <!ENTITY showPopupManager.label       "Διαχείριση αναδυόμενων παραθύρων">
 <!ENTITY showPopupManager.accesskey   "Δ">
 
+<!ENTITY throbber.tooltip2 "Μετάβαση στην αρχική σελίδα του &brandShortName;">
 
 <!ENTITY syncToolbarButton.label "Sync">

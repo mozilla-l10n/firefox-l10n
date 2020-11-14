@@ -29,6 +29,8 @@
 <!ENTITY  generalType           "Τύπος:">
 <!ENTITY  generalMode           "Λειτουργία εμφάνισης:">
 <!ENTITY  generalSize           "Μέγεθος:">
+<!ENTITY  generalReferrer       "URL παραπομπής:">
+<!ENTITY  generalSource         "Πηγή προσωρινής μνήμης:">
 <!ENTITY  generalModified       "Τροποποίηση:">
 <!ENTITY  generalEncoding2      "Κωδικοποίηση κειμένου:">
 <!ENTITY  generalMetaName       "Όνομα">
@@ -39,18 +41,70 @@
 <!ENTITY  formsTab              "Φόρμες">
 <!ENTITY  formsTab.accesskey    "Φ">
 <!ENTITY  formAction            "Ενέργεια φόρμας">
+<!ENTITY  formMethod            "Μέθοδος">
+<!ENTITY  formName              "Όνομα">
+<!ENTITY  formEncoding          "Κωδικοποίηση:">
+<!ENTITY  formTarget            "Προορισμός:">
+<!ENTITY  formFields            "Πεδία:">
+<!ENTITY  formLabel             "Ετικέτα">
+<!ENTITY  formFName             "Όνομα πεδίου">
+<!ENTITY  formType              "Τύπος">
+<!ENTITY  formCValue            "Τρέχουσα τιμή">
 
+<!ENTITY  linksTab              "Σύνδεσμοι">
+<!ENTITY  linksTab.accesskey    "Σ">
+<!ENTITY  linkName              "Όνομα">
+<!ENTITY  linkAddress           "Διεύθυνση">
+<!ENTITY  linkType              "Τύπος">
+<!ENTITY  linkTarget            "Προορισμός">
 <!ENTITY  linkAccessKey         "Κλειδί πρόσβασης">
 
+<!ENTITY  mediaTab              "Πολυμέσα">
+<!ENTITY  mediaTab.accesskey    "Π">
 <!ENTITY  mediaLocation         "Τοποθεσία:">
+<!ENTITY  mediaText             "Σχετικό κείμενο:">
+<!ENTITY  mediaAltHeader        "Εναλλακτικό κείμενο">
+<!ENTITY  mediaAddress          "Διεύθυνση">
+<!ENTITY  mediaType             "Τύπος">
+<!ENTITY  mediaSize             "Μέγεθος">
+<!ENTITY  mediaCount            "Αριθμός">
+<!ENTITY  mediaDimension        "Διαστάσεις:">
+<!ENTITY  mediaBlockImage.accesskey "Φ">
 <!ENTITY  mediaSaveAs           "Αποθήκευση ως…">
+<!ENTITY  mediaSaveAs.accesskey "Α">
+<!ENTITY  mediaSaveAs2.accesskey "θ">
+<!ENTITY  mediaPreview          "Προεπισκόπηση πολυμέσων:">
+
+<!ENTITY  feedTab               "Ροές">
+<!ENTITY  feedTab.accesskey     "Ρ">
+<!ENTITY  feedSubscribe         "Συνδρομή">
+<!ENTITY  feedSubscribe.accesskey "ν">
+
+<!ENTITY  permTab               "Δικαιώματα">
+<!ENTITY  permTab.accesskey     "Δ">
+<!ENTITY  permissionsFor        "Δικαιώματα για:">
+
+<!ENTITY  securityTab           "Ασφάλεια">
+<!ENTITY  securityTab.accesskey "Α">
+<!ENTITY  securityHeader        "Πληροφορίες ασφαλείας για αυτή τη σελίδα">
+<!ENTITY  securityView.certView "Προβολή πιστοποιητικού">
+<!ENTITY  securityView.accesskey "Π">
+<!ENTITY  securityView.unknown   "Άγνωστο">
 
 
-
-
-
+<!ENTITY  securityView.identity.header   "Ταυτότητα ιστοσελίδας">
+<!ENTITY  securityView.identity.owner    "Ιδιοκτήτης:">
+<!ENTITY  securityView.identity.domain   "Ιστοσελίδα:">
+<!ENTITY  securityView.identity.verifier "Επαληθεύτηκε από:">
+<!ENTITY  securityView.identity.validity "Λήγει στις:">
 
 <!ENTITY  securityView.privacy.header                   "Απόρρητο &amp; ιστορικό">
+<!ENTITY  securityView.privacy.history                  "Έχω επισκεφθεί αυτή την ιστοσελίδα στο παρελθόν;">
+<!ENTITY  securityView.privacy.cookies                  "Αποθηκεύει αυτή η ιστοσελίδα πληροφορίες (cookies) στον υπολογιστή μου;">
 <!ENTITY  securityView.privacy.viewCookies              "Προβολή cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Έχω αποθηκεύσει κωδικούς πρόσβασης για αυτή την ιστοσελίδα;">
+<!ENTITY  securityView.privacy.viewPasswords            "Προβολή αποθηκευμένων κωδικών πρόσβασης">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "β">
 
+<!ENTITY  securityView.technical.header                 "Τεχνικές λεπτομέρειες">

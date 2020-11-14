@@ -10,9 +10,15 @@
 <!ENTITY setup.haveAccount.label "Έχω ήδη λογαριασμό &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label "Σύνδεση">
 
+<!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν;">
+<!ENTITY setup.choicePage.new.label       "Δεν έχω χρησιμοποιήσει το &syncBrand.shortName.label; στο παρελθόν">
+<!ENTITY setup.choicePage.existing.label  "Χρησιμοποιώ ήδη το &syncBrand.shortName.label; σε άλλο υπολογιστή">
 
 <!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Διακομιστής">
+<!ENTITY server.accesskey           "Δ">
 <!ENTITY serverType.main.label      "Διακομιστής &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Χρήση προσαρμοσμένου διακομιστή…">
 <!ENTITY signIn.account2.label      "Λογαριασμός">
 <!ENTITY signIn.account2.accesskey  "Λ">
 <!ENTITY signIn.password.label      "Κωδικός πρόσβασης">
@@ -38,20 +44,28 @@
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "Το &brandShortName; νοιάζεται για το απόρρητό σας">
+<!ENTITY recoveryGenerateNewKey.label  "Δημιουργία νέου κλειδιού">
 
 <!ENTITY button.syncKeyBackup.print.label     "Εκτύπωση…">
+<!ENTITY button.syncKeyBackup.print.accesskey "Ε">
 <!ENTITY button.syncKeyBackup.save.label      "Αποθήκευση…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "Α">
 
 <!-- New Account Page 3: Captcha -->
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Προσθήκη συσκευής">
+<!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλούμε προσπαθήστε ξανά.">
+<!ENTITY addDevice.dialog.connected.label   "Η συσκευή συνδέθηκε">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Σύνδεση">
 <!ENTITY verifying.label              "Επαλήθευση…">
+<!ENTITY resetPassword.label          "Επαναφορά κωδικού πρόσβασης">
+<!ENTITY resetSyncKey.label           "Έχω χάσει την άλλη μου συσκευή.">
 
 <!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Επιλογές συγχρονισμού">
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
 <!ENTITY syncComputerName.accesskey   "υ">
 
@@ -76,3 +90,4 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Η ρύθμιση ολοκληρώθηκε">
+<!ENTITY continueUsing.label "Μπορείτε να συνεχίσετε τη χρήση του &brandShortName;.">
