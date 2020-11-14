@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Nutzïj ri tojtob'enel tob'äl richin Service Workers pa Rupas Chojmirisanel. Re rub'anikil re' nub'än eqal chi ke ri Kisamajib'al B'anonela' chuqa' yalan uchuqa' nrokisaj.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Graphics: Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = Nitzij ri tob'äl richin eqal ninimirisäx toq nachäp ri chapel taq ruwa chuqa' ajchapöy pads.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Chijun K'oxom Silowäch
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Titzij Warp, jun nuk'samaj richin nu
 experimental-features-fission =
     .label = Fission (Rujech'unik Ruxaq)
 experimental-features-fission-description = Fission (rujech'unik ruxaq) jun tojtob'enel samaj pa richin jun rutz'aqat pisoj richin yeruchajij taq rusachoj jikomal. Toq yerujech'uj jujun ruxaq pa kiyonil, Fission k'ayew nub'än chi ke ri itzel taq ajk'amaya'l ruxaq richin ye'ok pa ketamab'al ch'aqa' chik taq ruxaq ye'atz'ët. Re re' jun nimaläj tz'aqonel jaloj pa { -brand-short-name } chuqa' niqamatyoxij chawe chi natojtob'ej chuqa' naya' rutzijol xab'achike k'ayewal nawïl. Richin nawetamaj ch'aqa' chik rub'anikil, tatz'eta' <a data-l10n-name="wiki">ri wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Rutob'al Picture-in-Picture
+experimental-features-multi-pip-description = Tojtob'enel chi to'ïk richin niya' q'ij chi yejaq k'ïy taq rutzub'al Picture-in-Picture pa jub'ey.

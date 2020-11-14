@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
-    .label = Kejik taq yaketal…
-    .tooltiptext = Kewachib'ëx taq kiyaketal taq okik'amaya'l pa { -brand-short-name }.
+browser-import-button2 =
+    .label = Kejik' taq yaketal…
+    .tooltiptext = Kejik' taq kiyaketal ch'aqa' chik taq okik'amaya'l pa { -brand-short-name }.
+bookmarks-toolbar-empty-message = Richin jun anin okem, ke'awila' ri taq ayaketal wawe' pa ri rukajtz'ik samajib'äl. <a data-l10n-name="manage-bookmarks">Kenuk'samajïx taq yaketal…</a>
 
 ## WebRTC Pop-up notifications
 
