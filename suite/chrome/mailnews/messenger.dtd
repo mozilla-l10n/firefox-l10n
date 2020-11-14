@@ -79,6 +79,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextOpenNewTab.label "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY folderContextOpenNewTab.accesskey "κ">
+<!ENTITY folderContextRemove.label "Διαγραφή">
+<!ENTITY folderContextRemove.accesskey "Δ">
 
 <!-- focusSearchInput.key also used by addressbook -->
 
