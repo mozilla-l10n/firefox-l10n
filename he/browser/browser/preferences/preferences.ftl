@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = נא להמשיך בזהירות
 pane-experimental-search-results-header = ניסויים של { -brand-short-name }: נא להמשיך בזהירות
 pane-experimental-description = שינוי העדפות התצורה המתקדמות עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
+pane-experimental-reset =
+    .label = שחזור ברירות מחדל
+    .accesskey = ש
 help-button-label = תמיכה ב־{ -brand-short-name }
 addons-button-label = הרחבות וערכות נושא
 focus-search =
@@ -924,6 +927,7 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 content-blocking-enhanced-tracking-protection = הגנת מעקב מתקדמת
 content-blocking-section-top-level-description = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
 content-blocking-learn-more = מידע נוסף
+content-blocking-fpi-incompatibility-warning = ‏First Party Isolation (FPI) נמצא כעת בשימוש, שעוקף חלק מהגדרות העוגיות של { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
