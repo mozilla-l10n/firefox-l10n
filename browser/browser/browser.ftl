@@ -348,9 +348,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Lesezeichen importieren…
-    .tooltiptext = Lesezeichen aus einem anderen Browser zu { -brand-short-name } kopieren
+    .tooltiptext = Lesezeichen aus einem anderen Browser zu { -brand-short-name } importieren.
 
 ## WebRTC Pop-up notifications
 
