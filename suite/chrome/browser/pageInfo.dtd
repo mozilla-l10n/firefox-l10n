@@ -5,6 +5,7 @@
 -->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  openInNewTab.label        "Άνοιγμα σε νέα καρτέλα">

@@ -32,10 +32,12 @@
 <!ENTITY privatedata.label "Ιδιωτικά δεδομένα">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Εικόνες">
+<!ENTITY passwords.label "Κωδικοί πρόσβασης">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Πιστοποιητικά">
 
 
 <!ENTITY cache.label "Προσωρινή μνήμη">
+<!ENTITY httpnetworking.label "Δικτύωση HTTP">
 <!ENTITY smart.label "Εγκατάσταση λογισμικού">
 
