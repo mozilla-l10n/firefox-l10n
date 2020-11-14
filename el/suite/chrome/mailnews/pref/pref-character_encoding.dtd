@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.character.encoding2.title  "Κωδικοποίηση κειμένου">
+
+<!ENTITY composingMessages.caption       "Σύνθεση μηνυμάτων">
+<!ENTITY sendDefaultCharset2.label       "Προεπιλεγμένη κωδικοποίηση κειμένου:">
+<!ENTITY sendDefaultCharset2.accesskey   "κ">
