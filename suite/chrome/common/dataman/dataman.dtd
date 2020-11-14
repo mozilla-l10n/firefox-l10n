@@ -7,9 +7,12 @@
 <!ENTITY selectAll.key "a">
 
 
+<!ENTITY domain.search.placeholder "Αναζήτηση τομέων">
+<!ENTITY domain.search.key "f">
 
 
 
+<!ENTITY data.search.key "k">
 
 
 <!-- cookies -->
