@@ -4,6 +4,8 @@
 
 
 <!ENTITY limit.enable.label                 "Ενεργοποίηση:">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
 
 
 

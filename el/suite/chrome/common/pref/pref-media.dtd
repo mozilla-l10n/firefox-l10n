@@ -2,13 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.popups.title              "Αναδυόμενα παράθυρα">
+<!-- extracted from content/pref-media.xul -->
 
-
-
-
-
-<!ENTITY selectSound.label              "Περιήγηση…">
-
+<!-- LOCALIZATION NOTE : FILE Media management prefs -->
+<!ENTITY pref.media.title               "Πολυμέσα">
 
 
