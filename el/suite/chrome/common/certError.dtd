@@ -12,7 +12,12 @@ by NSS/PSM via netError.xhtml. -->
 tag will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.whatShouldIDo.heading "Τι πρέπει να κάνω;">
 
+<!ENTITY certerror.expert.heading "Κατανοώ τους κινδύνους">
 <!ENTITY certerror.addException.label "Προσθήκη εξαίρεσης…">
 
+<!ENTITY certerror.technical.heading "Τεχνικές λεπτομέρειες">
 
+<!ENTITY dnsNotFound.pageTitle "Ο διακομιστής δεν βρέθηκε">
+<!ENTITY malformedURI.pageTitle "Μη έγκυρο URL">
