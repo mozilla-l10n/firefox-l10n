@@ -106,6 +106,27 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopiera publika nycklar till Urklipp
     .accesskey = K
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kopiera nyckel-ID till Urklipp
+           *[other] Kopiera nyckel-ID till Urklipp
+        }
+    .accesskey = n
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Kopiera fingeravtryck till Urklipp
+           *[other] Kopiera fingeravtryck till Urklipp
+        }
+    .accesskey = f
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Kopiera publik nyckel till Urklipp
+           *[other] Kopiera publika nycklar till Urklipp
+        }
+    .accesskey = p
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportera nycklar till fil
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -120,6 +141,13 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Fingeravtryck
         }
     .accesskey = F
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Nyckel-ID
+           *[other] Nyckel-ID
+        }
+    .accesskey = N
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
