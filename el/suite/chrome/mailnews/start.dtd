@@ -6,6 +6,7 @@
 <!ENTITY features.title "Χαρακτηριστικά">
 <!ENTITY feat_multiacc.label "Υποστήριξη πολλαπλών λογαριασμών">
 <!ENTITY feat_filters.label "Φίλτρα μηνυμάτων">
+<!ENTITY feat_abook.label "Ευρετήριο διευθύνσεων">
 <!ENTITY dict.title "Λεξικά">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY info.title "Περισσότερες πληροφορίες">

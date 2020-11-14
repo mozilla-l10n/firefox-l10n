@@ -6,13 +6,17 @@
 
 <!-- cookies -->
 
+<!ENTITY cookiePolicy.label             "Πολιτική αποδοχής cookies">
 
 <!ENTITY disableCookies.label           "Φραγή cookies">
 <!ENTITY disableCookies.accesskey       "Φ">
 
 
 
+<!ENTITY accAllCookies.label            "Αποδοχή όλων των cookies">
+<!ENTITY accAllCookies.accesskey        "c">
 
+<!ENTITY cookieRetentionPolicy.label    "Πολιτική διατήρησης cookies">
 
 
 
