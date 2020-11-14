@@ -41,6 +41,9 @@ printui-scale = Ölçek
 printui-scale-fit-to-page-width = Sayfa genişliğine sığdır
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Ölçeklendir
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = İki taraflı yazdırma
+printui-duplex-checkbox = Kâğıdın iki yüzüne yazdır
 # Section title for miscellaneous print options
 printui-options = Seçenekler
 printui-headers-footers-checkbox = Üst bilgi ve alt bilgileri yazdır
