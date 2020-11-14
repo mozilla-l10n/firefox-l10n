@@ -4,6 +4,7 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!ENTITY dialogTitle.label "Επιλογές αρχειοθέτησης">
 <!ENTITY archiveExample.label "Παράδειγμα">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
