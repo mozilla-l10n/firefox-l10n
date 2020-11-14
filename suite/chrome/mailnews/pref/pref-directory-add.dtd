@@ -11,8 +11,11 @@
 <!ENTITY directorySecure.label             "Χρήση ασφαλούς σύνδεσης (SSL)">
 <!ENTITY directorySecure.accesskey         "Χ">
 <!ENTITY General.tab                       "Γενικά">
+<!ENTITY Advanced.tab                      "Για προχωρημένους">
 <!ENTITY portNumber.label                  "Αριθμός θύρας:">
 <!ENTITY portNumber.accesskey              "α">
+<!ENTITY searchFilter.label                "Φίλτρο αναζήτησης: ">
+<!ENTITY searchFilter.accesskey            "ζ">
 <!ENTITY scopeOneLevel.label               "Ένα επίπεδο">
 <!ENTITY scopeOneLevel.accesskey           "Έ">
 <!ENTITY results.label                     "αποτελέσματα">
