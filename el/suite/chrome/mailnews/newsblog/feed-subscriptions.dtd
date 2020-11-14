@@ -5,6 +5,10 @@
 <!-- Subscription Dialog -->
 
 
+<!ENTITY feedLocation.label          "URL ροής:">
+<!ENTITY feedLocation.accesskey      "ρ">
+<!ENTITY feedLocation2.placeholder   "Εισάγετε ένα έγκυρο URL ροής">
+<!ENTITY locationValidate.label      "Επικύρωση">
 
 
 <!-- Account Settings and Subscription Dialog -->

@@ -5,7 +5,11 @@
 <!ENTITY folderProps.windowtitle.label           "Ιδιότητες">
 
 <!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
+<!ENTITY folderRebuildSummaryFile2.label         "Επιδιόρθωση φακέλου">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "Ε">
 
+<!ENTITY retentionUseAccount.label "Χρήση ρυθμίσεων λογαριασμού">
+<!ENTITY retentionUseAccount.accesskey "Χ">
 <!ENTITY message.label "μηνύματα">
 <!ENTITY retentionKeepAll.label "Όλα τα μηνύματα">
 <!ENTITY retentionKeepAll.accesskey "Ό">
