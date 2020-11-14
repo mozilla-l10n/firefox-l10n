@@ -19,6 +19,9 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Ροές ειδήσεων
     .tooltiptext = { unset-default-tooltip }
+checkbox-calendar-label =
+    .label = Ημερολόγιο
+    .tooltiptext = { unset-default-tooltip }
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =

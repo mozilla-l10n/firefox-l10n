@@ -110,6 +110,23 @@ openpgp-key-man-ctx-expor-to-file-label =
     .label = Εξαγωγή κλειδιών σε αρχείο
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Αντιγραφή δημόσιων κλειδιών στο πρόχειρο
+openpgp-key-man-ctx-copy =
+    .label = Αντιγραφή
+    .accesskey = Α
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] ID κλειδιού
+           *[other] ID κλειδιών
+        }
+    .accesskey = I
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Δημόσιο κλειδί
+           *[other] Δημόσια κλειδιά
+        }
+    .accesskey = Δ
 openpgp-key-man-close =
     .label = Κλείσιμο
 openpgp-key-man-reload =
@@ -496,7 +513,9 @@ key-man-button-generate-key = &Δημιουργία κλειδιού
 key-abort = Ακύρωση δημιουργίας κλειδιού;
 key-man-button-generate-key-abort = &Ακύρωση δημιουργίας κλειδιού
 key-man-button-generate-key-continue = &Συνέχεια δημιουργίας κλειδιού
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Σφάλμα - αποτυχία αποκρυπτογράφησης
 fix-broken-exchange-msg-failed = Αποτυχία επιδιόρθωσης μηνύματος.
 attachment-no-match-from-signature = Δεν ήταν δυνατή η αντιστοίχιση του αρχείου υπογραφής '{ $attachment }' με κάποιο συνημμένο
