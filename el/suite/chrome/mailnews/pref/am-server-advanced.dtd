@@ -4,4 +4,8 @@
 
 <!ENTITY serverAdvanced.label "Προηγμένες ρυθμίσεις λογαριασμού">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY serverDirectory.label "Κατάλογος διακομιστή IMAP:">
+<!ENTITY serverDirectory.accesskey "δ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY otherUsersNamespace.label "Άλλοι χρήστες:">
+<!ENTITY otherUsersNamespace.accesskey "Ά">

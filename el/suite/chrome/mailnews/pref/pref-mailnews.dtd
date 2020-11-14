@@ -2,8 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY generalSettings.caption          "Γενικές ρυθμίσεις">
 
+<!ENTITY setDefaultMail.label             "Αλληλογραφία">
+<!ENTITY setDefaultMail.accesskey         "Α">
+<!ENTITY setDefaultNews.label             "Ειδήσεις">
+<!ENTITY setDefaultNews.accesskey         "Ε">
+<!ENTITY setDefaultFeed.label             "Ροές">
+<!ENTITY setDefaultFeed.accesskey         "έ">
 
+<!ENTITY useInternalMail.label            "Αλληλογραφία (mailto:)">
+<!ENTITY useInternalMail.accesskey        "λ">
+<!ENTITY useInternalNews.label            "Ειδήσεις (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "δ">
 
+<!ENTITY messengerStartPage.caption       "Αρχική σελίδα αλληλογραφίας">
 <!ENTITY location.label                   "Τοποθεσία:">
 <!ENTITY location.accesskey               "Τ">
+<!ENTITY useDefault.label                 "Επαναφορά προεπιλογής">
+<!ENTITY useDefault.accesskey             "π">

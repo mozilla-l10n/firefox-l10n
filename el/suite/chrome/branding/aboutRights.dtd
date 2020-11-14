@@ -43,6 +43,7 @@
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Υπηρεσίες προσθέτων:">
 <!ENTITY rights.addons-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
+<!ENTITY rights.addons-term4 "Οι υπηρεσίες προσθέτων είναι πλέον ανενεργές">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση:">

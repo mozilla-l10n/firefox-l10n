@@ -57,6 +57,7 @@
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Προσθήκη συσκευής">
+<!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω τη συσκευή μαζί μου">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλούμε προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.connected.label   "Η συσκευή συνδέθηκε">
 
