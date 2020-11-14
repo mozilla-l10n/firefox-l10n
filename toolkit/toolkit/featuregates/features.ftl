@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = A globális <a data-l10n
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = A <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> interfész konstruktorának hozzáadása, valamint a kapcsolódó módosítások lehetővé teszik az új stíluslapok létrehozását, anélkül hogy hozzá kellene tennie a lapot HTML-hez. Ez sokkal könnyebbé teszi az újrahasznosítható stíluslapok készítését a <a data-l10n-name="mdn-shadowdom">Shadow DOM-mal</a> történő használathoz. További részletekért lásd az <a data-l10n-name="bugzilla">1520690-es számú jegyet</a>
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Jelenleg a Media Session API teljes implementációja kísérleti a { -brand-short-name }ban. Ezzel az API-val testreszabható a médiával kapcsolatos értesítések kezelése, kezelhetők az események és adatok, melyek hasznosak a lejátszáskezelő felhasználói felületek létrehozásához, és megszerezhetők vele a médiafájlok metaadatai. További részletékért lásd az <a data-l10n-name="bugzilla">1112032-es számú jegyet</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Fejlesztői eszközök: Színséma szimuláció
 experimental-features-devtools-color-scheme-simulation-description = Hozzáadja azt a lehetőséget, hogy különböző színsémákat szimuláljon, hogy tesztelhesse a <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> médialekérdezéseket. A médialekérdezés használatával válaszolhat a stíluslapja arra, hogy a felhasználó a világos vagy a sötét felhasználó felületet részesíti előnyben. A funkcióval úgy tesztelheti a kódját, hogy közben nem kell megváltoztatnia a böngészője beállítását (vagy az operációs rendszeréjét, ha a böngésző a rendszerszintű színséma-beállítást követi). További részletekért lásd az <a data-l10n-name="bugzilla1">1550804-es</a> és az <a data-l10n-name="bugzilla2">1137699-es</a> számú jegyet.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Fejlesztői eszközök: Hibakeresés a Service Workerekben
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Engedélyezi a Service Workerek kísérleti támogatását a fejlesztői eszközök Hibakeresés panelján. A funkció lelassíthatja a fejlesztői eszközöket, és növelheti a memóriafogyasztást.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafika: sima nagyítás csípéssel
-experimental-features-graphics-desktop-zooming-description = Engedélyezi a csípéssel történő sima nagyítást az érintőkijelzőkön és precíziós érintőtáblákon.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC globális némítási kapcsolók
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = A Warp engedélyezése, amely javít
 experimental-features-fission =
     .label = Fission (oldalak elkülönítése)
 experimental-features-fission-description = A Fission (oldalelszigetelés) a { -brand-short-name } kísérleti funkciója, amely további védelmi réteget nyújt a biztonsági hibák ellen. Azáltal, hogy az egyes webhelyeket külön folyamatba különíti el, a Fission megnehezíti a rosszindulatú webhelyek számára, hogy hozzáférjenek az Ön által felkeresett más oldalak információihoz. Ez jelentős architekturális változás a { -brand-short-name }ban, és nagyra értékeljük, hogy kipróbálta és jelentette a felmerülő problémákat. További részletek: <a data-l10n-name="wiki">a wikin</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Több kép a képben megjelenítés támogatása
+experimental-features-multi-pip-description = Kísérleti támogatás több „kép a képben” ablak egyidejű használatához.

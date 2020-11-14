@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Óvatosan haladjon tovább
 pane-experimental-search-results-header = { -brand-short-name }-kísérletek: Óvatosan menjen tovább
 pane-experimental-description = A speciális beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
+pane-experimental-reset =
+    .label = Alapértelmezések visszaállítása
+    .accesskey = v
 help-button-label = { -brand-short-name } támogatás
 addons-button-label = Kiegészítők és témák
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 content-blocking-enhanced-tracking-protection = Fokozott követés elleni védelem
 content-blocking-section-top-level-description = A nyomkövetők követik Önt online, és információkat gyűjtenek a böngészési szokásairól és érdeklődési köreiről. A { -brand-short-name } számos ilyen követőt és rosszindulatú parancsfájlt blokkol.
 content-blocking-learn-more = További tudnivalók
+content-blocking-fpi-incompatibility-warning = A First Party Isolation (FPI) funkciót használja, amely felülírja a { -brand-short-name } sütibeállításainak egy részét.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
