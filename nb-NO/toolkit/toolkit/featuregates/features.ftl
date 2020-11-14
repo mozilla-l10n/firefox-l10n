@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Den globale <a data-l10n
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Tilleggingen av en konstruktør til <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-grensesnittet samt en rekke relaterte endringer gjør det mulig å lage nye stilsett direkte uten å måtte legge settet til HTML. Dette gjør det mye enklere å lage gjenbrukbare stilsett for bruk med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Se <a data-l10n-name="bugzilla">bug 1520690</a> for mer informasjon.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Hele { -brand-short-name } sin implementeringen av Media Session API-et er foreløpig eksperimentell. Denne API-en brukes til å tilpasse håndteringen av medierelaterte varsler, for å administrere hendelser og data som er nyttige for å presentere et brukergrensesnitt for å administrere medieavspilling, og for å skaffe metadata for mediefiler. Se <a data-l10n-name="bugzilla">bug 1112032</a> for mer informasjon.
 experimental-features-devtools-color-scheme-simulation =
     .label = Utviklerverktøy: Simulering av fargeskjema
 experimental-features-devtools-color-scheme-simulation-description = Legger til et alternativ for å simulere forskjellige fargeskjemaer som lar deg teste <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-schema</a>-mediespørring. Ved å bruke denne mediespørringen lar stilsettet ditt svare på om brukeren foretrekker et lyst eller mørkt brukergrensesnitt. Denne funksjonen lar deg teste koden din uten å måtte endre innstillinger i nettleseren (eller operativsystemet, hvis nettleseren følger en systemavhengig fargevalginnstilling). Se <a data-l10n-name="bugzilla1">bug 1550804</a> og <a data-l10n-name="bugzilla2">bug 1137699</a> for mer informasjon.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Utviklerverktøy: Feilsøking av Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktiverer eksperimentell støtte for Service Workers i feilsøkingspanelet. Denne funksjonen kan gjøre utviklerverktøyet treg og øke minneforbruket.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafikk: Jevn knipeskalering
-experimental-features-graphics-desktop-zooming-description = Aktiver støtte for jevn knipeskalering med berøringsskjermer og presisjonsstyreplate.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Global WebRTC dempekontroll
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = Aktiver Warp, et prosjekt for å for
 experimental-features-fission =
     .label = Fission (nettstedsisolering)
 experimental-features-fission-description = Fission (nettstedsisolering) er en eksperimentell funksjon i { -brand-short-name } for å gi et ekstra forsvarslag mot sikkerhetsfeil. Ved å isolere hvert nettsted i en egen prosess, gjør Fission det vanskeligere for ondsinnede nettsteder å få tilgang til informasjon fra andre sider du besøker. Dette er en stor arkitektonisk endring i { -brand-short-name }, og vi setter pris på at du tester og rapporterer eventuelle problemer du kan støte på. For mer informasjon, se <a data-l10n-name="wiki">wiki-en</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Støtte for flere bilde-i-bilde (PiP)
+experimental-features-multi-pip-description = Eksperimentell støtte for å åpne flere bilde-i-bilde (PiP) vinduer samtidig.
