@@ -69,6 +69,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "θ">
 <!ENTITY downloadSelectedCmd.label "Λήψη επιλεγμένων μηνυμάτων">
 <!ENTITY downloadSelectedCmd.accesskey "ψ">
+<!ENTITY downloadFlaggedCmd.label "Λήψη μηνυμάτων με σημαία">
 <!ENTITY downloadFlaggedCmd.accesskey "Λ">
 
 <!-- Edit Menu -->
@@ -169,18 +170,61 @@
 <!ENTITY msgsMenu.label "Μηνύματα">
 
 
+<!ENTITY viewFeedWebPage.label "Ιστοσελίδα">
+<!ENTITY viewFeedWebPage.accesskey "Ι">
+<!ENTITY viewFeedSummary.label "Περίληψη">
+<!ENTITY viewFeedSummary.accesskey "λ">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Προεπιλεγμένη μορφή">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "Π">
 
+<!ENTITY reloadCmd.label "Ανανέωση">
+<!ENTITY reloadCmd.accesskey "Α">
+<!ENTITY stopCmd.label "Διακοπή">
+<!ENTITY stopCmd.accesskey "Δ">
+<!ENTITY pageSourceCmd.label "Προέλευση μηνύματος">
+<!ENTITY pageSourceCmd.accesskey "ο">
+<!ENTITY pageSourceCmd.key "u">
 
+<!ENTITY findCmd.label "Εύρεση στο μήνυμα…">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
 
 <!-- Go Menu -->
 
+<!ENTITY goMenu.label "Μετάβαση">
+<!ENTITY goMenu.accesskey "Μ">
+<!ENTITY nextMenu.label "Επόμενο">
+<!ENTITY nextMenu.accesskey "Ε">
 <!ENTITY nextMsgCmd.label "Μήνυμα">
+<!ENTITY nextMsgCmd.accesskey "Μ">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
+<!ENTITY nextUnreadMsgCmd.accesskey "η">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextFlaggedMsgCmd.label "Μήνυμα με σημαία">
+<!ENTITY nextFlaggedMsgCmd.accesskey "σ">
+<!ENTITY nextUnreadThread.label "Μη αναγνωσμένο νήμα">
+<!ENTITY nextUnreadThread.accesskey "ν">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Προηγούμενο">
+<!ENTITY prevMenu.accesskey "Π">
 <!ENTITY prevMsgCmd.label "Μήνυμα">
+<!ENTITY prevMsgCmd.accesskey "Μ">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
+<!ENTITY prevUnreadMsgCmd.accesskey "η">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goBackCmd.label "Πίσω">
+<!ENTITY goBackCmd.accesskey "Π">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.label "Εμπρός">
+<!ENTITY goForwardCmd.accesskey "Ε">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY prevFlaggedMsgCmd.label "Μήνυμα με σημαία">
+<!ENTITY prevFlaggedMsgCmd.accesskey "σ">
+<!ENTITY folderMenu.label "Φάκελος">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Μήνυμα">

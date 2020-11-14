@@ -6,8 +6,8 @@
 <!ENTITY markAsReadCmd.accesskey "Ω">
 <!ENTITY markAsReadCmd.key       "m">
 
-<!ENTITY markFlaggedCmd.label     "Επισήμανση">
-<!ENTITY markFlaggedCmd.accesskey "Ε">
+<!ENTITY markFlaggedCmd.label     "Σημαία">
+<!ENTITY markFlaggedCmd.accesskey "Σ">
 <!ENTITY markFlaggedCmd.key       "i">
 
 <!ENTITY openMessageWindowCmd.label     "Άνοιγμα μηνύματος">

@@ -11,6 +11,10 @@
 <!ENTITY of.label             "από">
 <!ENTITY scale.label          "Κλίμακα:">
 <!ENTITY scale.accesskey      "Κ">
+<!ENTITY portrait.label       "Κατακόρυφα">
+<!ENTITY portrait.accesskey   "φ">
+<!ENTITY landscape.label      "Οριζόντια">
+<!ENTITY landscape.accesskey  "Ο">
 <!ENTITY close.label          "Κλείσιμο">
 <!ENTITY close.accesskey      "Κ">
 <!ENTITY p30.label            "30&#037;">
@@ -25,7 +29,9 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
+<!ENTITY Custom.label         "Προσαρμογή…">
 <!ENTITY ShrinkToFit.label    "Προσαρμογή στη σελίδα">
+<!ENTITY customPrompt.title   "Προσαρμοσμένη κλίμακα…">
 
 <!ENTITY homearrow.tooltip    "Πρώτη σελίδα">
 <!ENTITY endarrow.tooltip     "Τελευταία σελίδα">

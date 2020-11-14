@@ -32,6 +32,10 @@
 
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Επιπρόσθετο email:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "Προτιμώμενη μορφή ληφθέντων μηνυμάτων:">
+<!ENTITY PreferMailFormat.accesskey     "λ">
 <!ENTITY PlainText.label                "Απλό κείμενο">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Άγνωστο">
@@ -48,6 +52,8 @@
 <!ENTITY CellularNumber.label           "Κινητό:">
 <!ENTITY CellularNumber.accesskey       "ν">
 
+<!ENTITY Home.tab                       "Ιδιωτικό">
+<!ENTITY Home.accesskey                 "Ι">
 <!ENTITY HomeAddress.label              "Διεύθυνση:">
 <!ENTITY HomeAddress.accesskey          "θ">
 <!ENTITY HomeAddress2.label             "">
@@ -91,9 +97,13 @@
 
 <!ENTITY Other.tab                      "Άλλο">
 <!ENTITY Other.accesskey                "λ">
+<!ENTITY Custom1.label                  "Προσαρμοσμένο 1:">
 <!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Προσαρμοσμένο 2:">
 <!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Προσαρμοσμένο 3:">
 <!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Προσαρμοσμένο 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Σημειώσεις:">
 <!ENTITY Notes.accesskey                "Σ">
