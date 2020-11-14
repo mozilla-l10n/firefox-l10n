@@ -41,6 +41,7 @@
 <!ENTITY editBookmark.removeBookmark.accessKey "Α">
 
 <!-- Toolbar items --> 
+<!ENTITY searchButton.label           "Αναζήτηση">
 
 <!ENTITY locationBar.title            "Τοποθεσία">
 

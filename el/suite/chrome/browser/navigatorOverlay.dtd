@@ -31,6 +31,8 @@ left instead of right. -->
 <!-- Bookmarks Menu -->
 
 <!-- Tools Menu -->
+<!ENTITY searchInternetCmd.accesskey "ζ">
+<!ENTITY searchInternet.commandKey "s">
 
 
 
