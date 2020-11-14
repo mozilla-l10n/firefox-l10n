@@ -4,9 +4,11 @@
 
 <!ENTITY pref.download.title            "Λήψεις">
 
+<!ENTITY downloadBehavior.label         "Κατά την έναρξη μιας λήψης">
 <!ENTITY openDM.label                   "Άνοιγμα διαχείρισης λήψεων">
 <!ENTITY openDM.accesskey               "μ">
 
+<!ENTITY downloadLocation.label         "Κατά την αποθήκευση ενός αρχείου">
 <!ENTITY saveTo.label                   "Αποθήκευση αρχείων σε">
 <!ENTITY saveTo.accesskey               "θ">
 <!ENTITY chooseDownloadFolder.label     "Επιλογή φακέλου…">

@@ -28,16 +28,31 @@
 <!ENTITY view.sortDescending.accesskey  "Ω">
 
 <!ENTITY importBookmarksFromHTML.label     "Εισαγωγή σελιδοδεικτών από HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "Ε">
 <!ENTITY exportBookmarksToHTML.label       "Εξαγωγή σελιδοδεικτών σε HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "Ε">
 
+<!ENTITY cmd.restore2.label             "Επαναφορά">
+<!ENTITY cmd.restore2.accesskey         "Ε">
 <!ENTITY cmd.restoreFromFile.label      "Επιλογή αρχείου…">
+<!ENTITY cmd.restoreFromFile.accesskey  "Ε">
 
+<!ENTITY cmd.deleteDomainData.label     "Χωρίς απομνημόνευση σελίδας">
+<!ENTITY cmd.deleteDomainData.accesskey "Χ">
 
+<!ENTITY cmd.open.label                  "Άνοιγμα">
+<!ENTITY cmd.open.accesskey              "Ά">
+<!ENTITY cmd.open_window.label           "Άνοιγμα σε νέο παράθυρο">
+<!ENTITY cmd.open_window.accesskey       "ν">
+<!ENTITY cmd.open_private_window.label     "Άνοιγμα σε νέο ιδιωτικό παράθυρο">
+<!ENTITY cmd.open_private_window.accesskey "ι">
 <!ENTITY cmd.open_tab.label              "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY cmd.open_tab.accesskey          "ν">
 <!ENTITY cmd.open_all_in_tabs.label      "Άνοιγμα όλων σε καρτέλες">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "Ά">
 
+<!ENTITY cmd.properties.label      "Ιδιότητες">
+<!ENTITY cmd.properties.accesskey  "ι">
 
 <!ENTITY cmd.sortby_name.label              "Ταξινόμηση κατά όνομα">
 <!ENTITY cmd.sortby_name.accesskey          "Τ">
