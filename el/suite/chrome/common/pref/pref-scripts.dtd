@@ -5,7 +5,10 @@
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Σενάρια &amp; αρθρώματα">
 
+<!ENTITY navigator.label                 "Πρόγραμμα περιήγησης">
+<!ENTITY navigator.accesskey             "Π">
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Ενεργοποίηση JavaScript για">
