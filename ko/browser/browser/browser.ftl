@@ -343,6 +343,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = 북마크 가져오기…
     .tooltiptext = 다른 브라우저에서 { -brand-short-name }로 북마크를 가져옵니다.
+bookmarks-toolbar-empty-message = 빠르게 접근하려면, 여기 북마크 도구 모음에 북마크를 놓으세요. <a data-l10n-name="manage-bookmarks">북마크 관리…</a>
 
 ## WebRTC Pop-up notifications
 
