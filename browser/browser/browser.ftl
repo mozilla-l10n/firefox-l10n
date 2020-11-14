@@ -348,9 +348,11 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importa segnalibri…
-    .tooltiptext = Copia in { -brand-short-name } i segnalibri di un altro browser.
+    .tooltiptext = Importa i segnalibri di un altro browser in { -brand-short-name }.
+
+bookmarks-toolbar-empty-message = Salva i tuoi segnalibri qui, nella Barra dei segnalibri, per accedervi più rapidamente. <a data-l10n-name="manage-bookmarks">Gestisci i segnalibri…</a>
 
 ## WebRTC Pop-up notifications
 
