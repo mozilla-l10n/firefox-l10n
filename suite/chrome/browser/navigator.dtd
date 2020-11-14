@@ -38,6 +38,7 @@
 
 <!ENTITY editBookmark.done.label "Τέλος">
 <!ENTITY editBookmark.cancel.label "Ακύρωση">
+<!ENTITY editBookmark.removeBookmark.accessKey "Α">
 
 <!-- Toolbar items --> 
 

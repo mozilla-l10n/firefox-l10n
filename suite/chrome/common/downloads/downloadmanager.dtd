@@ -6,9 +6,12 @@
 
 
 
+<!ENTITY col.actionStop.label            "Ακύρωση/Αφαίρεση">
+<!ENTITY col.actionStop.tooltip          "Ακύρωση/Αφαίρεση">
 
 
 
+<!ENTITY cmd.remove.accesskey            "φ">
 <!ENTITY cmd.open.label                  "Άνοιγμα">
 <!ENTITY cmd.open.accesskey              "Ά">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):

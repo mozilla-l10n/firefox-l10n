@@ -1,0 +1,69 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dataman.windowTitle "Διαχείριση δεδομένων">
+
+<!ENTITY selectAll.key "a">
+
+
+
+
+
+
+
+<!-- cookies -->
+
+
+
+
+<!ENTITY cookies.ctx.remove.label "Αφαίρεση">
+<!ENTITY cookies.ctx.remove.accesskey "Α">
+
+<!ENTITY cookies.button.remove.label "Αφαίρεση">
+<!ENTITY cookies.button.remove.accesskey "Α">
+
+
+<!-- permissions -->
+
+
+<!-- preferences -->
+
+
+<!ENTITY prefs.ctx.remove.label "Αφαίρεση">
+<!ENTITY prefs.ctx.remove.accesskey "Α">
+
+<!ENTITY prefs.button.remove.label "Αφαίρεση">
+<!ENTITY prefs.button.remove.accesskey "Α">
+
+<!-- passwords -->
+
+
+<!ENTITY pwd.ctx.remove.label "Αφαίρεση">
+<!ENTITY pwd.ctx.remove.accesskey "Α">
+
+<!ENTITY pwd.button.remove.label "Αφαίρεση">
+<!ENTITY pwd.button.remove.accesskey "Α">
+
+<!-- storage -->
+
+
+<!ENTITY storage.ctx.remove.label "Αφαίρεση">
+<!ENTITY storage.ctx.remove.accesskey "Α">
+
+<!ENTITY storage.button.remove.label "Αφαίρεση">
+<!ENTITY storage.button.remove.accesskey "Α">
+
+<!-- form data -->
+
+
+<!ENTITY fdata.ctx.remove.label "Αφαίρεση">
+<!ENTITY fdata.ctx.remove.accesskey "Α">
+
+<!ENTITY fdata.button.remove.label "Αφαίρεση">
+<!ENTITY fdata.button.remove.accesskey "Α">
+
+<!-- forget -->
+<!ENTITY forget.cookies.label "Cookies">
+<!ENTITY forget.cookies.accesskey "C">
+
