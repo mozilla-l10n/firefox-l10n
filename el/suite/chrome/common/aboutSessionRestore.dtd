@@ -6,6 +6,7 @@
 <!ENTITY restorepage.pagetitle      "Θέλετε να επαναφέρετε τη συνεδρία σας;">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.remedies       "Αν το &brandShortName; κλείνει επανειλημμένα:">
 
 <!ENTITY restorepage.restoreButton  "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY restorepage.restore.access "Ε">
@@ -13,4 +14,6 @@
 <!ENTITY restorepage.cancel.access  "Έ">
 
 <!ENTITY restorepage.restoreHeader  "Επαναφορά">
+<!ENTITY restorepage.listHeader     "Παραθύρων και καρτελών">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Παραθύρου &#37;S">

@@ -27,6 +27,9 @@
 <!ENTITY folderProps.location.label              "Τοποθεσία:">
 <!ENTITY folderProps.location.accesskey          "Τ">
 
+<!ENTITY privileges.button.label                 "Δικαιώματα…">
+<!ENTITY privileges.button.accesskey             "Δ">
+<!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα δικαιώματα:">
 <!ENTITY folderType.label                        "Τύπος φακέλου:">
 
 <!ENTITY folderQuotaUsage.label                  "Χρήση:">

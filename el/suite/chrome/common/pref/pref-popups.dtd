@@ -4,11 +4,17 @@
 
 <!ENTITY pref.popups.title              "Αναδυόμενα παράθυρα">
 
+<!ENTITY pref.popups.caption            "Αναδυόμενα παράθυρα">
 
 
+<!ENTITY viewPermissions.label          "Διαχείριση δικαιωμάτων">
 
+<!ENTITY playSound.label                "Αναπαραγωγή ήχου:">
+<!ENTITY playSound.accesskey            "Α">
 
 <!ENTITY selectSound.label              "Περιήγηση…">
+<!ENTITY playSoundButton.label          "Αναπαραγωγή">
+<!ENTITY playSoundButton.accesskey      "π">
 
 
 
