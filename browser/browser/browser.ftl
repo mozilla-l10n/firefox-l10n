@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importar segnapaginas…
-    .tooltiptext = Copiar segnapaginas dad in auter navigatur en { -brand-short-name }.
+    .tooltiptext = Importar segnapaginas dad in auter navigatur en { -brand-short-name }.
+bookmarks-toolbar-empty-message = Per l'access direct, plazzescha tes segnapaginas qua en la trav da segnapaginas. <a data-l10n-name="manage-bookmarks">Administrar ils segnapaginas…</a>
 
 ## WebRTC Pop-up notifications
 

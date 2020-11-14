@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Utensils per sviluppaders: Debugadi da service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activescha il sustegn experimental per service worker en la panela da debugadi. Questa funcziunalitad po ralentar ils utensils per sviluppaders ed augmentar il consum da memoria.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafica: Zoom fluid cun avischinar la detta (Smooth Pinch Zoom)
-experimental-features-graphics-desktop-zooming-description = Activescha il sustegn da zoom fluid cun avischinar la detta sin moniturs tactils e touch pads da precisiun.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Activaziun/deactivaziun globala dad audio e video WebRTC
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Activar Warp, in project per meglier
 experimental-features-fission =
     .label = Fission (isolaziun da websites)
 experimental-features-fission-description = Fission (isolaziun da websites) è ina funcziunalitad experimentala da { -brand-short-name } per porscher in nivel da defensiun supplementar cunter mancos da segirezza. Cun isolar mintga website en in process separà, renda Fission pli difficil a websites maliziusas dad acceder ad infurmaziuns dad autras paginas che ti visitas. Quai è ina midada architectonica pli gronda en { -brand-short-name } e nus appreziain sche ti testeschas e rapportas eventuals problems chattads. Per ulteriurs detagls, vesair <a data-l10n-name="wiki">il wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Sustegn per pliras fanestras maletg-en-maletg
+experimental-features-multi-pip-description = Sustegn experimental per permetter pliras fanestras maletg-en-maletg avertas il medem mument.
