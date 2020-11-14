@@ -21,6 +21,7 @@
 
 <!-- Options menu items -->
 
+<!ENTITY quoteCmd.label "Παράθεση μηνύματος">
 <!ENTITY selectAddressCmd.label "Επιλογή διευθύνσεων…">
 
 
@@ -32,6 +33,9 @@
 
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY sendButton.tooltip "Άμεση αποστολή μηνύματος">
+<!ENTITY sendlaterButton.tooltip "Αποστολή μηνύματος αργότερα">
+<!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Άνοιγμα">

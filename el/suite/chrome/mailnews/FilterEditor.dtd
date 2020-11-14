@@ -17,6 +17,9 @@
 
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Μετακίνηση μηνύματος σε">
+<!ENTITY copyMessage.label "Αντιγραφή μηνύματος σε">
+<!ENTITY forwardTo.label "Προώθηση μηνύματος σε">
 <!ENTITY markMessageRead.label "Επισήμανση ως αναγνωσμένο">
 <!ENTITY markMessageUnread.label "Επισήμανση ως μη αναγνωσμένο">
 <!ENTITY deleteMessage.label "Διαγραφή μηνύματος">

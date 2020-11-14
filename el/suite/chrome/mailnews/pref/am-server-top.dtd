@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY messageStorage.label "Αποθήκευση μηνυμάτων">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -12,7 +13,10 @@
      maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
      of messages between them
 -->
+<!ENTITY maxMessagesStart.label "Ερώτηση πριν τη λήψη περισσοτέρων από">
+<!ENTITY maxMessagesStart.accesskey "μ">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "μηνυμάτων">
 <!ENTITY browseFolder.label "Περιήγηση…">
 <!ENTITY browseNewsrc.label "Περιήγηση…">
 
