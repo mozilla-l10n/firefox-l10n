@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = 調整設定前請務必小心！
 pane-experimental-search-results-header = { -brand-short-name } 實驗功能: 調整設定前請務必小心！
 pane-experimental-description = 調整進階設定，可能會影響 { -brand-short-name } 的效能或安全性。
+pane-experimental-reset =
+    .label = 回復為預設值
+    .accesskey = R
 help-button-label = { -brand-short-name } 技術支援
 addons-button-label = 擴充套件與佈景主題
 focus-search =
@@ -913,6 +916,7 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 content-blocking-enhanced-tracking-protection = 加強型追蹤保護
 content-blocking-section-top-level-description = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
 content-blocking-learn-more = 了解更多
+content-blocking-fpi-incompatibility-warning = 您已開啟第一方隔離（FPI）功能，會蓋掉 { -brand-short-name } 的某些 Cookie 設定。
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
