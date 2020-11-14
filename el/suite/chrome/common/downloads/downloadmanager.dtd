@@ -4,19 +4,53 @@
 
 <!ENTITY downloadManager.title           "Διαχείριση λήψεων">
 
+<!ENTITY menuBar.tooltip                 "Γραμμή μενού">
+<!ENTITY searchBar.tooltip               "Γραμμή αναζήτησης">
 
+<!ENTITY search.placeholder              "Αναζήτηση λήψεων">
+<!ENTITY search.label                    "Αναζήτηση λήψεων">
+<!ENTITY search.accesskey                "Α">
+<!ENTITY search.key                      "f">
 
+<!ENTITY cmd.clearList.label             "Απαλοιφή λίστας">
 
+<!ENTITY col.name.label                  "Όνομα">
+<!ENTITY col.name.accesskey              "Ό">
+<!ENTITY col.name.tooltip                "Όνομα αρχείου">
+<!ENTITY col.status.label                "Κατάσταση">
+<!ENTITY col.status.accesskey            "Κ">
+<!ENTITY col.status.tooltip              "Κατάσταση">
+<!ENTITY col.actionPlay.label            "Παύση/Συνέχιση/Επανάληψη">
+<!ENTITY col.actionPlay.accesskey        "ύ">
+<!ENTITY col.actionPlay.tooltip          "Παύση/Συνέχιση/Επανάληψη">
 <!ENTITY col.actionStop.label            "Ακύρωση/Αφαίρεση">
 <!ENTITY col.actionStop.tooltip          "Ακύρωση/Αφαίρεση">
+<!ENTITY col.progress.label              "Πρόοδος">
+<!ENTITY col.progress.accesskey          "Π">
+<!ENTITY col.progress.tooltip            "Πρόοδος">
 
 
 
+<!ENTITY cmd.resume.label                "Συνέχιση">
+<!ENTITY cmd.resume.accesskey            "Σ">
+<!ENTITY cmd.retry.label                 "Επανάληψη">
+<!ENTITY cmd.retry.accesskey             "ψ">
+<!ENTITY cmd.cancel.label                "Ακύρωση">
+<!ENTITY cmd.cancel.accesskey            "Α">
+<!ENTITY cmd.remove.label                "Αφαίρεση από τη λίστα">
 <!ENTITY cmd.remove.accesskey            "φ">
 <!ENTITY cmd.open.label                  "Άνοιγμα">
 <!ENTITY cmd.open.accesskey              "Ά">
+<!ENTITY cmd.show.label                  "Άνοιγμα φακέλου λήψης">
+<!ENTITY cmd.show.accesskey              "φ">
+<!ENTITY cmd.goToDownloadPage.label      "Μετάβαση στη σελίδα λήψης">
+<!ENTITY cmd.goToDownloadPage.accesskey  "Μ">
+<!ENTITY cmd.copyDownloadLink.label      "Αντιγραφή συνδέσμου λήψης">
+<!ENTITY cmd.copyDownloadLink.accesskey  "λ">
 <!ENTITY cmd.properties.label            "Ιδιότητες…">
+<!ENTITY cmd.properties.accesskey        "δ">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Αποδοχή λήψης">
+<!ENTITY cmd.unblock2.accesskey           "π">

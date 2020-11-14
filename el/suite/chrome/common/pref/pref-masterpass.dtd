@@ -6,3 +6,5 @@
 
 <!ENTITY  changepassword.button                  "Αλλαγή κωδικού πρόσβασης…">
 
+<!ENTITY  resetpassword.button                   "Επαναφορά κωδικού πρόσβασης">
+<!ENTITY  resetpassword.accesskey                "Ε">
