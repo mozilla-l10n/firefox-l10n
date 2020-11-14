@@ -5,6 +5,8 @@
 <!-- Context Menu -->
 <!ENTITY openLinkInWindowCmd.label    "Άνοιγμα">
 <!ENTITY openLinkInWindowCmd.accesskey "ν">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveImageAsCmd.label         "Αποθήκευση εικόνας ως…">
 <!ENTITY saveVideoCmd.label           "Αποθήκευση βίντεο ως…">
 <!ENTITY saveAudioCmd.label           "Αποθήκευση ήχου ως…">

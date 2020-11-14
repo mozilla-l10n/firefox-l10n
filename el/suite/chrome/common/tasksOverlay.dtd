@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.commandkey "1">
 
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.commandkey "4">
+
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 
 
@@ -14,8 +18,9 @@
 
 
 
+<!ENTITY downloadManagerCmd.commandkey "j">
 
-
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Εναλλαγή προφίλ…">
 

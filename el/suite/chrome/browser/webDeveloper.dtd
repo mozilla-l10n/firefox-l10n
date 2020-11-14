@@ -6,6 +6,7 @@
 
 <!ENTITY devtoolsConnect.label           "Σύνδεση…">
 
+<!ENTITY browserConsoleCmd.commandkey    "Ζ">
 
 
 
@@ -22,6 +23,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxCmd.commandkey    "I">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.

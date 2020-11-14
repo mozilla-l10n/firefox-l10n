@@ -4,6 +4,8 @@
 
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+<!ENTITY messengerCmd.commandkey                        "2">
+<!ENTITY addressBookCmd.commandkey                      "5">
 
 
 <!-- searchAddressesCmd is also used by addressbook -->

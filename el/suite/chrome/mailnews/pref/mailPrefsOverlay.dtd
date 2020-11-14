@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- These are added to the Advanced - Scripts & Plugins panel -->
+
+<!-- These are added to the Window menu -->
+<!ENTITY addressbook.label                "Ευρετήριο διευθύνσεων">
+<!ENTITY addressbook.accesskey            "E">
+
+<!-- These are added to Preferences dialog -->
+<!ENTITY notifications.label              "Ειδοποιήσεις">
+<!ENTITY composingMessages.label          "Σύνθεση">
+<!ENTITY tags.label                       "Ετικέτες">
+<!ENTITY characterEncoding2.label         "Κωδικοποίηση κειμένου">

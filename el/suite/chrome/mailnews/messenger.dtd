@@ -70,6 +70,8 @@
 
 <!-- Go Menu -->
 
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
 <!-- Message Menu -->
 <!ENTITY tagCustomize.label "Προσαρμογή…">

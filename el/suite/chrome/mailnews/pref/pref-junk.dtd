@@ -2,12 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY errorConsole.title   "Κονσόλα σφαλμάτων">
+
+<!-- Junk Mail Controls -->
 
 
 
-<!ENTITY copyCmd.commandkey    "C">
-<!ENTITY closeCmd.commandkey   "w">
-<!ENTITY focus1.commandkey     "l">
-<!ENTITY focus2.commandkey     "d">
 
+<!-- Phishing Detector -->
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Προστασία από ιούς">
