@@ -15,4 +15,5 @@
 <!ENTITY            newButton.label          "Δημιουργία προφίλ…">
 <!ENTITY            renameButton.label       "Μετονομασία προφίλ…">
 <!ENTITY            deleteButton.label       "Διαγραφή προφίλ…">
+<!ENTITY            deleteButton.accesskey   "Δ">
 

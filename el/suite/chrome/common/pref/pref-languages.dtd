@@ -6,4 +6,5 @@
 
 <!ENTITY languages.customize.addButton.label            "Προσθήκη…">
 <!ENTITY languages.customize.deleteButton.label         "Αφαίρεση">
+<!ENTITY languages.customize.deleteButton.accesskey     "Α">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->

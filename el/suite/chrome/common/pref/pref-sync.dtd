@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Ρύθμιση &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "Ρ">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountName.label            "Όνομα λογαριασμού:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Ενημέρωση">
+<!ENTITY updatePass.accesskey         "Ε">
+<!ENTITY resetPass.label              "Επαναφορά">
+<!ENTITY resetPass.accesskey          "φ">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
+<!ENTITY manageAccount.accesskey      "λ">
+
+<!-- Sync Settings -->
+
+<!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
+<!ENTITY engine.bookmarks.accesskey "Σ">
+<!ENTITY engine.history.label       "Ιστορικό">
+<!ENTITY engine.history.accesskey   "ρ">
+<!ENTITY engine.passwords.label     "Κωδικοί πρόσβασης">
+<!ENTITY engine.passwords.accesskey "π">
+<!ENTITY engine.prefs.label         "Προτιμήσεις">
+<!ENTITY engine.prefs.accesskey     "Π">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Όροι υπηρεσίας">
+<!ENTITY prefs.ppLink.label         "Πολιτική απορρήτου">

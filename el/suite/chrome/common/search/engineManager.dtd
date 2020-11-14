@@ -9,4 +9,6 @@
 <!ENTITY  remove.accesskey          "Α">
 
 
+<!ENTITY  enableSuggest.label       "Εμφάνιση προτάσεων αναζήτησης">
+<!ENTITY  enableSuggest.accesskey   "Ε">
 
