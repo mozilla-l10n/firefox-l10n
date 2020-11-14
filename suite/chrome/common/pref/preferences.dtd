@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  windowClose.key "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Προτιμήσεις">
+<!ENTITY  preferencesDefaultTitleWin.title "Επιλογές">
+<!ENTITY  preferencesCloseButton.label "Κλείσιμο">
+<!ENTITY  preferencesCloseButton.accesskey "Κ">
+
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Προτιμήσεις">
+<!ENTITY prefWindow.size "width: 102ch; height: 44em;">
+<!ENTITY prefWindowMac.size "width: 62em; height: 41em;">
+<!ENTITY prefWindowWin.size "width: 115ch; height: 43em;">
+<!ENTITY categoryHeader "Κατηγορία">
+
+<!ENTITY appear.label "Εμφάνιση">
+<!ENTITY content.label "Περιεχόμενο">
+<!ENTITY fonts.label "Γραμματοσειρές">
+<!ENTITY colors.label "Χρώματα">
+<!ENTITY media.label "Πολυμέσα">
+<!ENTITY spellingPane.label "Ορθογραφία">
+
+<!ENTITY navigator.label "Πρόγραμμα περιήγησης">
+<!ENTITY history.label "Ιστορικό">
+<!ENTITY languages.label "Γλώσσες">
+<!ENTITY locationBar.label "Γραμμή διευθύνσεων">
+<!ENTITY download.label "Λήψεις">
+
+<!ENTITY security.label "Απόρρητο &amp; ασφάλεια">
+<!ENTITY privatedata.label "Ιδιωτικά δεδομένα">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Εικόνες">
+<!ENTITY ssltls.label "SSL/TLS">
+<!ENTITY certs.label "Πιστοποιητικά">
+
+
+<!ENTITY cache.label "Προσωρινή μνήμη">
+<!ENTITY smart.label "Εγκατάσταση λογισμικού">
+
