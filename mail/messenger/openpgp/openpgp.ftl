@@ -153,6 +153,14 @@ openpgp-key-man-ctx-copy-key-ids =
            *[many] Identyfikatory kluczy
         }
     .accesskey = I
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Klucz publiczny
+            [few] Klucze publiczne
+           *[many] Klucze publiczne
+        }
+    .accesskey = b
 openpgp-key-man-close =
     .label = Zamknij
 openpgp-key-man-reload =
@@ -546,7 +554,7 @@ key-man-button-generate-key-continue = &Kontynuuj generowanie klucza
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Błąd: odszyfrowanie się nie powiodło
-fix-broken-exchange-msg-failed = Nie udało się naprawić wiadomości.
+fix-broken-exchange-msg-failed = Nie można naprawić tej wiadomości.
 attachment-no-match-from-signature = Nie można dopasować pliku podpisu „{ $attachment }” do załącznika
 attachment-no-match-to-signature = Nie można dopasować załącznika „{ $attachment }” do pliku podpisu
 signature-verified-ok = Pomyślnie zweryfikowano podpis dla załącznika { $attachment }
