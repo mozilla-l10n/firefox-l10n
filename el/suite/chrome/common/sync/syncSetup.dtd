@@ -2,18 +2,42 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY accountSetupTitle.label    "Ρύθμιση του &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
+<!ENTITY button.createNewAccount.label "Δημιουργία νέου λογαριασμού">
+<!ENTITY setup.haveAccount.label "Έχω ήδη λογαριασμό &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label "Σύνδεση">
 
 
 <!-- New Account AND Existing Account -->
+<!ENTITY serverType.main.label      "Διακομιστής &syncBrand.fullName.label;">
+<!ENTITY signIn.account2.label      "Λογαριασμός">
+<!ENTITY signIn.account2.accesskey  "Λ">
+<!ENTITY signIn.password.label      "Κωδικός πρόσβασης">
+<!ENTITY signIn.password.accesskey  "Κ">
+<!ENTITY signIn.recoveryKey.label     "Κλειδί ανάκτησης">
+<!ENTITY signIn.recoveryKey.accesskey "Κ">
 
 <!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Λεπτομέρειες λογαριασμού">
+<!ENTITY setup.confirmPassword.label             "Επιβεβαίωση κωδικού πρόσβασης">
+<!ENTITY setup.confirmPassword.accesskey         "Ε">
+<!ENTITY setup.emailAddress.label                "Διεύθυνση email">
+<!ENTITY setup.emailAddress.accesskey            "e">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Συμφωνώ με τους">
+<!ENTITY setup.tosAgree1.accesskey  "μ">
+<!ENTITY setup.tosLink.label        "Όρους υπηρεσίας">
+<!ENTITY setup.tosAgree2.label      "και την">
+<!ENTITY setup.ppLink.label         "Πολιτική απορρήτου">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "Το &brandShortName; νοιάζεται για το απόρρητό σας">
 
 <!ENTITY button.syncKeyBackup.print.label     "Εκτύπωση…">
 <!ENTITY button.syncKeyBackup.save.label      "Αποθήκευση…">
@@ -21,14 +45,34 @@
 <!-- New Account Page 3: Captcha -->
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Προσθήκη συσκευής">
 
 <!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Σύνδεση">
 <!ENTITY verifying.label              "Επαλήθευση…">
 
 <!-- Sync Options -->
+<!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
+<!ENTITY syncComputerName.accesskey   "υ">
 
+<!ENTITY syncMy.label               "Συγχρονισμός">
+<!ENTITY engine.addons.label        "Πρόσθετα">
+<!ENTITY engine.addons.accesskey    "Π">
+<!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
+<!ENTITY engine.bookmarks.accesskey "Σ">
+<!ENTITY engine.tabs.label          "Καρτέλες">
+<!ENTITY engine.tabs.accesskey      "Κ">
+<!ENTITY engine.history.label       "Ιστορικό">
+<!ENTITY engine.history.accesskey   "ρ">
+<!ENTITY engine.passwords.label     "Κωδικοί πρόσβασης">
+<!ENTITY engine.passwords.accesskey "Κ">
+<!ENTITY engine.prefs.label         "Προτιμήσεις">
+<!ENTITY engine.prefs.accesskey     "μ">
 
+<!ENTITY choice2.merge.recommended.label "(προτείνεται)">
 
 <!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
 
 <!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Η ρύθμιση ολοκληρώθηκε">

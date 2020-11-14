@@ -51,6 +51,7 @@
 <!ENTITY bookmarksButton.label        "Σελιδοδείκτες">
 <!ENTITY bookmarksButton.tooltip      "Λίστα σελιδοδεικτών">
 <!ENTITY homeButton.label             "Αρχική">
+<!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Τέλος">

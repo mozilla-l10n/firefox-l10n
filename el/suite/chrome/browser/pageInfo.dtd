@@ -7,8 +7,13 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.accesskey         "Α">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.accesskey    "ό">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
+<!ENTITY  copyLinks.accesskey       "σ">
 <!ENTITY  openInNewTab.label        "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY  openInNewTab.accesskey    "κ">
 <!ENTITY  openInNewWindow.label     "Άνοιγμα σε νέο παράθυρο">
@@ -16,6 +21,7 @@
 
 
 
+<!ENTITY  linkAccessKey         "Κλειδί πρόσβασης">
 
 <!ENTITY  mediaLocation         "Τοποθεσία:">
 <!ENTITY  mediaSaveAs           "Αποθήκευση ως…">

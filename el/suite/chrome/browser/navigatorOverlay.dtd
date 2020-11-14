@@ -61,12 +61,19 @@ left instead of right. -->
 <!ENTITY recentWindows.commandkey "y">
 
 <!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
+<!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY manBookmarksCmd.label "Διαχείριση σελιδοδεικτών…">
+<!ENTITY manBookmarksCmd.accesskey "Δ">
 <!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Αναζήτηση στο διαδίκτυο">
 <!ENTITY searchInternetCmd.accesskey "ζ">
 <!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "Μετάφραση σελίδας">
+<!ENTITY translateMenu.accesskey "Μ">
 
 
 
