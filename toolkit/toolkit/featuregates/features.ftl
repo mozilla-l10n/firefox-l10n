@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Wuwiwarske nastroje: Pytanje zmylkow ze service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Zmóžnja eksperimentelnu podpěru za service worker we woknje Pytanje za zmylkami. Tuta funkcija móže wuwiwarske nastroje spomalić a přetrjebu składa powyšić.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafika: łahodne dwuporstowe skalowanje
-experimental-features-graphics-desktop-zooming-description = Podpěru za łahodne dwuporstowe skalowanje na dótknjeńskich wobrazowkach a preciznostne dótknjenske pola zmóžnić.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Globalne wodźenje za zněmjenje WebRTC
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Zmóžńće Warp, projekt za polěp�
 experimental-features-fission =
     .label = Fission (sydłowa izolacija)
 experimental-features-fission-description = Fission (izolowanje websydłow) je eksperimentelna funkcija w { -brand-short-name }, zo by přidatnu škitnu worštu přećiwo wěstotnym zmylkam k dispoziciji stajiła. Přez izolowanje kóždeho sydła w separatnym procesu, Fission złóstnym websydłam poćežuje, přistup k informacijam z druhich stronow dóstać, kotrež wopytujeće. To je wulka architekturna změna w { -brand-short-name } a wjeselimy so, jeli wšě problemy, na kotrež storčiće, testujeće a zdźěleće. Za dalše podrobnosće hlejće <a data-l10n-name="wiki">wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Wjacora podpěra za wobraz-we-wobrazu
+experimental-features-multi-pip-description = Eksperimentelna podpěra za runočasne wočinjenje wjacorych woknow wobraz-we-wobrazu.

@@ -355,6 +355,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Zapołožki importować…
     .tooltiptext = Zapołožki z druheho wobhladowaka do { -brand-short-name } importować.
+bookmarks-toolbar-empty-message = Wotkładźće swoje zapołožki w symbolowej lajsće za spěšny přistup. <a data-l10n-name="manage-bookmarks">Zapołožki rjadować…</a>
 
 ## WebRTC Pop-up notifications
 
