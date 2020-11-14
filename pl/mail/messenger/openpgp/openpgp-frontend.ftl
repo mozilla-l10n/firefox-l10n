@@ -27,6 +27,7 @@ openpgp-missing-signature-key = Ta wiadomość została podpisana kluczem, któr
 openpgp-search-signature-key =
     .label = Wykryj…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = To jest wiadomość OpenPGP, która prawdopodobnie została uszkodzona przez program Microsoft Exchange i nie może zostać naprawiona, ponieważ została otwarta z lokalnego pliku. Skopiuj wiadomość do folderu poczty, aby spróbować automatycznej naprawy.
 openpgp-broken-exchange-info = To jest wiadomość OpenPGP, która prawdopodobnie została uszkodzona przez program Microsoft Exchange. Jeśli treść wiadomości nie jest wyświetlana zgodnie z oczekiwaniami, możesz spróbować automatycznej naprawy.
 openpgp-broken-exchange-repair =
     .label = Napraw wiadomość
