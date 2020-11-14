@@ -5,10 +5,13 @@
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
 <!ENTITY pref.locationBar.title                "Γραμμή διευθύνσεων">
 
+<!ENTITY autoComplete.label                    "Αυτόματη συμπλήρωση">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
 -->
+<!ENTITY autoCompleteMatch.label               "Αντιστοίχιση">
 
+<!ENTITY formatting.label                      "Μορφοποίηση">
 
 <!ENTITY unknownLocations.label                "Άγνωστες τοποθεσίες">

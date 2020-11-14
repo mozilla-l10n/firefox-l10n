@@ -3,9 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
+<!ENTITY addressbookWindow.title                        "Ευρετήριο διευθύνσεων">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Επαφή…">
+<!ENTITY newContact.key                                 "N">
+<!ENTITY newListCmd.label                               "Λίστα αλληλογραφίας…">
+<!ENTITY newListCmd.accesskey                           "Λ">
+<!ENTITY newAddressBookCmd.label                        "Ευρετήριο διευθύνσεων…">
+<!ENTITY newAddressBookCmd.accesskey                    "τ">
 <!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP…">
+<!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Εκτύπωση επαφής…">
 
 <!-- Edit Menu -->
@@ -23,6 +30,12 @@
 <!ENTITY exportCmd.label                                "Εξαγωγή…">
 
 <!-- Toolbar and Popup items -->
+<!ENTITY newContactButton.label                         "Νέα επαφή">
+<!ENTITY newContactButton.accesskey                     "ε">
+<!ENTITY newlistButton.label                            "Νέα λίστα">
+<!ENTITY newlistButton.accesskey                        "λ">
+<!ENTITY editItemButton.label                           "Ιδιότητες">
+<!ENTITY editItemButton.accesskey                       "Ι">
 <!ENTITY deleteItemButton.label                         "Διαγραφή">
 <!ENTITY deleteItemButton.accesskey                     "Δ">
 

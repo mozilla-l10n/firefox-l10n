@@ -6,5 +6,8 @@
 
 <!-- LOCALIZATION NOTE : FILE Media management prefs -->
 <!ENTITY pref.media.title               "Πολυμέσα">
+<!ENTITY mediaHTML5Preferences.label    "Ήχος/βίντεο">
 
 
+<!ENTITY animLoopOnce.label             "Μία φορά">
+<!ENTITY animLoopOnce.accesskey         "Μ">

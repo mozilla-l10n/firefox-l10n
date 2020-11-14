@@ -6,3 +6,11 @@
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
 <!ENTITY  pref.proxies.title            "Διακομιστές μεσολάβησης">
+<!ENTITY  directTypeRadio.label         "Άμεση σύνδεση στο Διαδίκτυο">
+<!ENTITY  directTypeRadio.accesskey     "Δ">
+<!ENTITY  reload.label                  "Ανανέωση">
+<!ENTITY  reload.accesskey              "Α">
+<!ENTITY  http.label                    "Διακομιστής μεσολάβησης:">
+<!ENTITY  http.accesskey                "Δ">
+<!ENTITY  port.label                    "Θύρα:">
+<!ENTITY  HTTPPort.accesskey            "ρ">
