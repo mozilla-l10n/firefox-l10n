@@ -5,6 +5,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "Σχετικά με τα δικαιώματά σας">
+<!ENTITY rights.intro "Το &brandFullName; είναι ελεύθερο λογισμικό ανοικτού κώδικα που αναπτύσσεται από μια κοινότητα χιλιάδων ατόμων από όλο τον κόσμο. Υπάρχουν μερικά πράγματα που πρέπει να γνωρίζετε:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -14,6 +16,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "Το &brandShortName; είναι διαθέσιμο σε εσάς υπό τους όρους της ">
 
 <!ENTITY rights.intro-point2b "εδώ">
 <!ENTITY rights.intro-point2c ".">

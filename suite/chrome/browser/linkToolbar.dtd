@@ -7,12 +7,17 @@
 <!-- Link Toolbar visibility options -->
 
 <!-- Toolbar buttons, menus, and menuitems -->
+<!ENTITY firstButton.label "Πρώτο">
+<!ENTITY prevButton.label "Προηγούμενο">
+<!ENTITY nextButton.label "Επόμενο">
+<!ENTITY lastButton.label "Τελευταίο">
 
 <!ENTITY documentButton.label "Έγγραφο">
 
 <!ENTITY tocButton.label "Πίνακας περιεχομένων">
 <!ENTITY chapterButton.label "Κεφάλαια">
 <!ENTITY sectionButton.label "Ενότητες">
+<!ENTITY appendixButton.label "Παραρτήματα">
 <!ENTITY glossaryButton.label "Γλωσσάριο">
 
 <!ENTITY moreButton.label "Περισσότερα">

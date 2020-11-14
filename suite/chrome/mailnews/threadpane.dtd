@@ -16,3 +16,4 @@
 <!ENTITY locationColumn.label "Τοποθεσία">
 
 <!--Tooltips-->
+<!ENTITY locationColumn2.tooltip "Ταξινόμηση κατά τοποθεσία">
