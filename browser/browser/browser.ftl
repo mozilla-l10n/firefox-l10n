@@ -352,9 +352,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Zapołožki importować…
-    .tooltiptext = Zapołožki z druheho wobhladowaka do { -brand-short-name } kopěrować.
+    .tooltiptext = Zapołožki z druheho wobhladowaka do { -brand-short-name } importować.
 
 ## WebRTC Pop-up notifications
 
