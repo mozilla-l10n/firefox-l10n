@@ -62,10 +62,9 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Geliştirici Araçları: Service Worker hata ayıklama
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Hata ayıklama panelinde Service Worker’lar için deneysel destek sağlar. Bu özellik, Geliştirici Araçlarını yavaşlatabilir ve bellek tüketimini artırabilir.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafik: Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = Dokunmatik ekranlarda ve hassas dokunmatik yüzeylerde yumuşak pinch zooming desteğini etkinleştirin.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC Global Ses Kapatma Düğmeleri
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -73,3 +72,6 @@ experimental-features-js-warp-description = JavaScript performansını ve bellek
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Site İzolasyonu)
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Çoklu Görüntü İçinde Görüntü Desteği
