@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Εισαγωγή σελιδοδεικτών…
-    .tooltiptext = Αντιγραφή σελιδοδεικτών από άλλο πρόγραμμα περιήγησης στο { -brand-short-name }.
+    .tooltiptext = Εισαγωγή σελιδοδεικτών από άλλο πρόγραμμα περιήγησης στο { -brand-short-name }.
+bookmarks-toolbar-empty-message = Για γρήγορη πρόσβαση, τοποθετήστε τους σελιδοδείκτες σας εδώ, στη γραμμή σελιδοδεικτών. <a data-l10n-name="manage-bookmarks">Διαχείριση σελιδοδεικτών…</a>
 
 ## WebRTC Pop-up notifications
 

@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Εργαλεία προγραμματιστή: Εντοπισμός σφαλμάτων service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Ενεργοποιεί την πειραματική υποστήριξη για Service Workers στον πίνακα εντοπισμού σφαλμάτων. Αυτή η δυνατότητα ενδέχεται να επιβραδύνει τα εργαλεία προγραμματιστή και να αυξήσει την κατανάλωση μνήμης.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Γραφικά: Ζουμ με ομαλό "τσίμπημα" (pinch)
-experimental-features-graphics-desktop-zooming-description = Ενεργοποιεί την υποστήριξη για ομαλό ζουμ σε οθόνες αφής και επιφάνειες αφής ακριβείας.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Καθολικοί διακόπτες σίγασης WebRTC
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Ενεργοποίηση του Warp
 experimental-features-fission =
     .label = Fission (Απομόνωση ιστοσελίδας)
 experimental-features-fission-description = Το Fission (απομόνωση ιστοσελίδας) είναι μια πειραματική λειτουργία στο { -brand-short-name }, ώστε να παρέχει ένα επιπλέον επίπεδο προστασίας από σφάλματα ασφαλείας. Απομονώνοντας την κάθε σελίδα σε ξεχωριστή διεργασία, το Fission καθιστά δυσκολότερη την πρόσβαση κακόβουλων ιστοσελίδων σε πληροφορίες άλλων ιστότοπων που επισκέπτεστε. Πρόκειται για μια μεγάλη αρχιτεκτονική αλλαγή στο { -brand-short-name } και θα το εκτιμούσαμε ιδιαίτερα αν δοκιμάζατε τη λειτουργία και αναφέρατε τυχόν ζητήματα. Για περισσότερες λεπτομέρειες, δείτε <a data-l10n-name="wiki">το wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Υποστήριξη πολλαπλών παραθύρων εικόνας-εντός-εικόνας
+experimental-features-multi-pip-description = Πειραματική υποστήριξη για άνοιγμα πολλαπλών παραθύρων εικόνας-εντός-εικόνας ταυτόχρονα.

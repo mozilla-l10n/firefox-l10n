@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Συνεχίστε με προσοχή
 pane-experimental-search-results-header = Πειράματα { -brand-short-name }: Συνεχίστε με προσοχή
 pane-experimental-description = Η αλλαγή παραμέτρων των σύνθετων προτιμήσεων μπορεί να επηρεάσει την απόδοση ή την ασφάλεια του { -brand-short-name }.
+pane-experimental-reset =
+    .label = Επαναφορά προεπιλογών
+    .accesskey = Ε
 help-button-label = Υποστήριξη { -brand-short-name }
 addons-button-label = Επεκτάσεις & θέματα
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 content-blocking-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή
 content-blocking-section-top-level-description = Οι ιχνηλάτες σάς ακολουθούν στο διαδίκτυο για να συλλέξουν πληροφορίες σχετικά με τις συνήθειες και τα ενδιαφέροντά σας. Το { -brand-short-name } αποκλείει πολλούς από αυτούς τους ιχνηλάτες και άλλα κακόβουλα σενάρια.
 content-blocking-learn-more = Μάθετε περισσότερα
+content-blocking-fpi-incompatibility-warning = Χρησιμοποιείτε τη λειτουργία First Party Isolation (FPI), που παρακάμπτει ορισμένες ρυθμίσεις του { -brand-short-name } σχετικά με τα cookies.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
