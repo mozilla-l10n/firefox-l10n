@@ -932,6 +932,7 @@ addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 content-blocking-enhanced-tracking-protection = Verbesserter Schutz vor Aktivitätenverfolgung
 content-blocking-section-top-level-description = Skripte zur Aktivitätenverfolgung folgen Ihnen und sammeln Informationen über Ihre Internet-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
 content-blocking-learn-more = Weitere Informationen
+content-blocking-fpi-incompatibility-warning = Sie verwenden First Party Isolation (FPI), was einige der Cookie-Einstellungen von { -brand-short-name } überschreibt.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
