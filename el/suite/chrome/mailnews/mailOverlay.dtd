@@ -8,3 +8,4 @@
 <!ENTITY  newMessageCmd.accesskey         "μ">
 
 <!ENTITY  newContactCmd.label             "Επαφή…">
+<!ENTITY  newContactCmd.accesskey         "Ε">
