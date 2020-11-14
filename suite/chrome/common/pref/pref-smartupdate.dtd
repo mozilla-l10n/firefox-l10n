@@ -5,6 +5,8 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Εγκατάσταση λογισμικού">
 <!ENTITY addOnsTitle.label                    "Πρόσθετα">
+<!ENTITY addOnsAllow.label                    "Να επιτρέπεται στις ιστοσελίδες η εγκατάσταση προσθέτων και ενημερώσεων">
+<!ENTITY addOnsAllow.accesskey                "π">
 <!ENTITY autoAddOnsUpdates.label              "Αυτόματος έλεγχος για ενημερώσεις">
 <!ENTITY autoAddOnsUpdates.accesskey          "ο">
 <!ENTITY daily.label                          "ημερησίως">

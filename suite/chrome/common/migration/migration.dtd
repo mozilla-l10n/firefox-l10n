@@ -9,7 +9,10 @@
 <!ENTITY importFromFile.label            "Αρχείο">
 <!ENTITY importFromFile.accesskey        "Α">
 
+<!ENTITY importItems.title               "Στοιχεία προς εισαγωγή">
 
+<!ENTITY selectProfile.title             "Επιλογή προφίλ">
 
 <!ENTITY migrating.title                 "Εισαγωγή…">
 
+<!ENTITY done.title                      "Η εισαγωγή ολοκληρώθηκε">

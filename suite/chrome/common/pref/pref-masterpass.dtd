@@ -4,7 +4,9 @@
 
 <!ENTITY  pref.masterpass.title                  "Κύριοι κωδικοί πρόσβασης">
 
+<!ENTITY  changepassword.caption                 "Αλλαγή κύριου κωδικού πρόσβασης">
 <!ENTITY  changepassword.button                  "Αλλαγή κωδικού πρόσβασης…">
 
+<!ENTITY  resetpassword.caption                  "Επαναφορά κύριου κωδικού πρόσβασης">
 <!ENTITY  resetpassword.button                   "Επαναφορά κωδικού πρόσβασης">
 <!ENTITY  resetpassword.accesskey                "Ε">
