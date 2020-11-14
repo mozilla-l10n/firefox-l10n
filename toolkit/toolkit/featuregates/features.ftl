@@ -67,3 +67,7 @@ experimental-features-js-warp-description = הפעלת Warp, מיזם לשיפו
 experimental-features-fission =
     .label = ‏Fission (בידוד אתרים)
 experimental-features-fission-description = ‏Fission (בידוד אתרים) היא תכונה ניסיונית ב־{ -brand-short-name } המספקת שכבת הגנה נוספת מפני באגים של אבטחה. על־ידי בידוד כל אתר לתהליך נפרד, Fission מקשה על אתרים זדוניים לקבל גישה למידע מדפים אחרים בהם המשתמש מבקר. זהו שינוי אדריכלי משמעותי ב־{ -brand-short-name } ונשמח לקבל דיווחים על כל בעיה שתימצא בבדיקות. לפרטים נוספים ניתן לקרוא את  <a data-l10n-name="wiki">הוויקי</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = תמיכה בהצגת חלונות מרובים של תמונה בתוך תמונה
+experimental-features-multi-pip-description = תמיכה ניסיונית המאפשרת לחלונות מרובים של מצב תמונה בתוך תמונה להיות פתוחים בו זמנית.
