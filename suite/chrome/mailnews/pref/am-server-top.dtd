@@ -31,7 +31,7 @@
      of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Ερώτηση πριν τη λήψη περισσοτέρων από">
-<!ENTITY maxMessagesStart.accesskey "μ">
+<!ENTITY maxMessagesStart.accesskey "π">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "μηνυμάτων">
 <!ENTITY newsrcFilePath.label "Αρχείο newsrc:">
